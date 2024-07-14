@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-14, 10:14:19](https://news.ycombinator.com/item?id=40959998) - [\"The New Essential Guide to Electronics in Shenzhen\": Review and Notes](https://type.cyhsu.xyz/2024/07/neges/)
 * [2024-07-14, 09:25:58](https://news.ycombinator.com/item?id=40959858) - [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
 * [2024-07-14, 09:22:58](https://news.ycombinator.com/item?id=40959851) - [OpenAI whistleblowers ask SEC to investigate alleged restrictive NDAs](https://www.reuters.com/technology/openai-whistleblowers-ask-sec-investigate-restrictive-non-disclosure-agreements-2024-07-13/)
 * [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
@@ -17,7 +18,6 @@
 * [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware update hides a device’s Bluetooth fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
 * [2024-07-14, 02:45:23](https://news.ycombinator.com/item?id=40958465) - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
 * [2024-07-14, 02:44:31](https://news.ycombinator.com/item?id=40958458) - [No reasonable expectation of privacy in one's Google location data](https://fourthamendment.com/?p=58338)
-* [2024-07-14, 02:07:37](https://news.ycombinator.com/item?id=40958340) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](http://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
 * [2024-07-14, 01:57:58](https://news.ycombinator.com/item?id=40958305) - [Nvidia Warp: Python framework for high-performance simulation and graphics code](https://nvidia.github.io/warp/)
 * [2024-07-14, 00:42:25](https://news.ycombinator.com/item?id=40958008) - [What the decentralized nature of Anonymous tells us about its power](https://lithub.com/what-the-decentralized-nature-of-anonymous-tells-us-about-its-power/)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [What Does Nevada's $35B Fund Manager Do All Day? Nothing (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)

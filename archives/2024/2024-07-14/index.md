@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 10:14:19](https://news.ycombinator.com/item?id=40959998) - [\"The New Essential Guide to Electronics in Shenzhen\": Review and Notes](https://type.cyhsu.xyz/2024/07/neges/)
 * [2024-07-14, 09:25:58](https://news.ycombinator.com/item?id=40959858) - [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
 * [2024-07-14, 09:22:58](https://news.ycombinator.com/item?id=40959851) - [OpenAI whistleblowers ask SEC to investigate alleged restrictive NDAs](https://www.reuters.com/technology/openai-whistleblowers-ask-sec-investigate-restrictive-non-disclosure-agreements-2024-07-13/)
 * [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
