@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 17:00:14](https://news.ycombinator.com/item?id=40969564) - [K-Scale Labs (YC W24) Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
 * [2024-07-15, 16:50:11](https://news.ycombinator.com/item?id=40969471) - [Undergraduate Texts in Mathematical Comics – A Tour of Complex Analysis](https://sites.google.com/uic.edu/juliusross/activities/mathematical-comics)
 * [2024-07-15, 16:41:36](https://news.ycombinator.com/item?id=40969391) - [Mangled fingers, no time off: Women who make Samsung semiconductors are striking](https://english.hani.co.kr/arti/english_edition/e_national/1149185.html)
 * [2024-07-15, 16:19:16](https://news.ycombinator.com/item?id=40969192) - [Guide to Machine Learning with Geometric, Topological, and Algebraic Structures](https://www.arxiv.org/abs/2407.09468)
+* [2024-07-15, 16:09:19](https://news.ycombinator.com/item?id=40969120) - [Radar evidence of accessible Moon cave conduit below Mare Tranquillitatis pit](https://www.nature.com/articles/s41550-024-02302-y)
+* [2024-07-15, 15:57:24](https://news.ycombinator.com/item?id=40969025) - [Cave discovered on Moon could be home for humans](https://www.bbc.co.uk/news/articles/ce784r9njz0o)
+* [2024-07-15, 15:53:49](https://news.ycombinator.com/item?id=40968981) - [A simple guide to HTML <head> elements](https://htmlhead.dev)
 * [2024-07-15, 15:17:21](https://news.ycombinator.com/item?id=40968612) - [Health benefits of replacing butter with high-quality plant oils](https://www.dife.de/en/details-home/blood-fat-profiles-confirm-health-benefits-of-replacing-butter-with-high-quality-plant-oils-479/)
 * [2024-07-15, 15:06:29](https://news.ycombinator.com/item?id=40968520) - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [How the Rise of the Camera Launched a Fight to Protect Gilded Age Privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
