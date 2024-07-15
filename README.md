@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-15, 03:24:15](https://news.ycombinator.com/item?id=40965031) - [PCSX2 2.0 Released](https://pcsx2.net/blog/2024/pcsx2-2-release/#all-aboard-the-compression-train)
 * [2024-07-15, 02:41:42](https://news.ycombinator.com/item?id=40964877) - [Nanorobot with hidden weapon kills cancer cells](https://news.ki.se/nanorobot-with-hidden-weapon-kills-cancer-cells)
 * [2024-07-15, 02:38:04](https://news.ycombinator.com/item?id=40964861) - [Human history in the long run: It was mostly pretty bad](https://www.slowboring.com/p/human-history-in-the-very-long-run-1d4)
 * [2024-07-15, 00:12:59](https://news.ycombinator.com/item?id=40964261) - [Tabloid: The Clickbait Headline Programming Language (2021)](https://tabloid.vercel.app/)
-* [2024-07-15, 00:06:37](https://news.ycombinator.com/item?id=40964223) - [The Rise of Faceless Accounts on Instagram](https://leximerritt.substack.com/p/faceless-accounts)
 * [2024-07-14, 19:43:40](https://news.ycombinator.com/item?id=40962767) - [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
