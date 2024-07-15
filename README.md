@@ -2,8 +2,10 @@
 
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
+* [2024-07-15, 18:58:15](https://news.ycombinator.com/item?id=40970496) - [Show HN: Projects from the Wolfram Summer Research Program](https://www.wolframcloud.com/obj/microsites/summer-research-high-school/projects.html)
 * [2024-07-15, 18:30:05](https://news.ycombinator.com/item?id=40970261) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 * [2024-07-15, 17:41:54](https://news.ycombinator.com/item?id=40969901) - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
+* [2024-07-15, 17:00:53](https://news.ycombinator.com/item?id=40969574) - [Tech, Crunched: How the go-to site for startup news lost its way](https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site)
 * [2024-07-15, 17:00:14](https://news.ycombinator.com/item?id=40969564) - [K-Scale Labs (YC W24) Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
 * [2024-07-15, 16:19:16](https://news.ycombinator.com/item?id=40969192) - [Guide to Machine Learning with Geometric, Topological, and Algebraic Structures](https://www.arxiv.org/abs/2407.09468)
 * [2024-07-15, 16:09:19](https://news.ycombinator.com/item?id=40969120) - [Radar evidence of accessible Moon cave conduit below Mare Tranquillitatis pit](https://www.nature.com/articles/s41550-024-02302-y)
@@ -22,14 +24,12 @@
 * [2024-07-14, 18:11:33](https://news.ycombinator.com/item?id=40962362) - [Soviet Calculator History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2024-07-14, 14:27:46](https://news.ycombinator.com/item?id=40961163) - [Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
-* [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 * [2024-07-12, 12:50:02](https://news.ycombinator.com/item?id=40945054) - [How to Mail an SD Card with Gummy Glue](https://flyingcarcomputer.com/posts/mail-sd-card-with-gummy-glue/)
 * [2024-07-12, 07:41:21](https://news.ycombinator.com/item?id=40943437) - [Pi calculation world record with over 202T digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
 * [2024-07-11, 19:10:00](https://news.ycombinator.com/item?id=40939607) - [The Old Bailey with Britain's last court reporters](https://www.theguardian.com/news/article/2024/jul/11/old-bailey-dying-art-court-reporter-justice)
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 * [2024-07-10, 12:08:09](https://news.ycombinator.com/item?id=40925999) - [Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://op-co.de/blog/posts/samsung_nx_mastodon/)
 * [2024-07-10, 05:06:20](https://news.ycombinator.com/item?id=40923875) - [A Deal with the Devil](https://lithub.com/a-deal-with-the-devil-what-the-age-old-faustian-bargain-reveals-about-the-modern-world/)
-* [2024-07-09, 22:20:45](https://news.ycombinator.com/item?id=40921869) - [\"Nik\": The Mesoamerican Representation of Zero (2021)](https://baas.aas.org/pub/2021n1i336p03/release/2)
 
 ## [Archives](archives/index.md)
 
