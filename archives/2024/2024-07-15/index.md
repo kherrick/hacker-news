@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 02:18:09](https://news.ycombinator.com/item?id=40964787) - [Global Population to Shrink This Century as Birth Rates Fall](https://www.ft.com/content/2d37dc16-5c73-4f2a-92a5-a78326f9dc3d)
 * [2024-07-15, 02:08:20](https://news.ycombinator.com/item?id=40964749) - [Movies directed by Andrey Tarkovsky (YouTube playlist)](https://www.youtube.com/playlist?list=PL7EqAsBxqGgjarBzACNmCNDdr0y0iFu8U)
 * [2024-07-15, 00:12:59](https://news.ycombinator.com/item?id=40964261) - [Tabloid: The Clickbait Headline Programming Language (2021)](https://tabloid.vercel.app/)
