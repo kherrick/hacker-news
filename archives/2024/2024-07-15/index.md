@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
 * [2024-07-15, 15:06:29](https://news.ycombinator.com/item?id=40968520) - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
+* [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [How the Rise of the Camera Launched a Fight to Protect Gilded Age Privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
+* [2024-07-15, 14:52:01](https://news.ycombinator.com/item?id=40968388) - [Common logical fallacies surrounding capitalism](https://blog.alexmaccaw.com/common-logical-fallacies-surrounding-capitalism/)
 * [2024-07-15, 14:42:14](https://news.ycombinator.com/item?id=40968298) - [Linksys Velop Routers Caught Sending WiFi Creds in the Clear](https://hackaday.com/2024/07/15/linksys-velop-routers-caught-sending-wifi-creds-in-the-clear/)
 * [2024-07-15, 14:36:44](https://news.ycombinator.com/item?id=40968245) - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
 * [2024-07-15, 14:32:04](https://news.ycombinator.com/item?id=40968212) - [Logseq – adding settings for self-hosted sync](https://github.com/logseq/logseq/discussions/10733)
