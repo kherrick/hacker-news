@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 20:02:38](https://news.ycombinator.com/item?id=40971010) - [The Stratocaster Turns 70](https://newatlas.com/music/stratocaster-70-fender-factory/)
+* [2024-07-15, 19:58:43](https://news.ycombinator.com/item?id=40970987) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
 * [2024-07-15, 19:25:30](https://news.ycombinator.com/item?id=40970739) - [Leap – Chemistry Through a Computational Lens](https://ambermd.org/tutorials/pengfei/index.php)
 * [2024-07-15, 19:17:08](https://news.ycombinator.com/item?id=40970672) - [Platforms Have First Amendment Right to Curate Speech](https://www.eff.org/deeplinks/2024/07/platforms-have-first-amendment-right-curate-speech-weve-long-argued-supreme-1)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
