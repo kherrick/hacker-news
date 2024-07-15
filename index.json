@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-15, 17:44:24",
-      "https://news.ycombinator.com/item?id=40969925"
-    ],
-    [
-      "Show HN: Hacker News homepage with links to comments ordered by most recent",
-      "https://observablehq.com/@simonw/hacker-news-homepage"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 17:41:54",
       "https://news.ycombinator.com/item?id=40969901"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40969391"
     ],
     [
-      "Mangled fingers, no time off: Women who make Samsung semiconductors are striking",
+      "Women who make Samsung semiconductors are striking",
       "https://english.hani.co.kr/arti/english_edition/e_national/1149185.html"
     ]
   ],
@@ -241,22 +231,22 @@
   ],
   [
     [
+      "2024-07-14, 08:46:40",
+      "https://news.ycombinator.com/item?id=40959742"
+    ],
+    [
+      "Writing a BIOS bootloader for 64-bit mode from scratch",
+      "https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 07:41:21",
       "https://news.ycombinator.com/item?id=40943437"
     ],
     [
       "Pi calculation world record with over 202T digits",
       "https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 21:33:19",
-      "https://news.ycombinator.com/item?id=40940799"
-    ],
-    [
-      "'Writing a C Compiler' is a book (2022)",
-      "https://norasandler.com/2022/03/29/Write-a-C-Compiler-the-Book.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "We need visual programming. No, not like that",
       "https://blog.sbensu.com/posts/demand-for-visual-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 12:08:09",
+      "https://news.ycombinator.com/item?id=40925999"
+    ],
+    [
+      "Samsung's abandoned NX cameras can be brought online with a $20 LTE stick",
+      "https://op-co.de/blog/posts/samsung_nx_mastodon/"
     ]
   ],
   [
