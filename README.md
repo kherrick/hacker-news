@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-15, 22:36:23](https://news.ycombinator.com/item?id=40972070) - [The Hidden Ties Between Google's Project Nimbus and Israel's Military](https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/)
 * [2024-07-15, 21:49:15](https://news.ycombinator.com/item?id=40971766) - [L402: The Missing Piece in the Internet's Payment Infrastructure](https://l402.org/)
 * [2024-07-15, 21:30:42](https://news.ycombinator.com/item?id=40971631) - [Show HN: Mutable.ai Codebase chat that uses a Wiki for RAG](https://wiki.mutable.ai/Dao-AILab/flash-attention)
 * [2024-07-15, 21:28:04](https://news.ycombinator.com/item?id=40971609) - [Mercurial is simply too good (2020)](https://baez.link/mercurial-is-simply-too-good)
 * [2024-07-15, 21:20:39](https://news.ycombinator.com/item?id=40971553) - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
 * [2024-07-15, 21:00:15](https://news.ycombinator.com/item?id=40971426) - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
-* [2024-07-15, 20:31:49](https://news.ycombinator.com/item?id=40971247) - [A Word About Private Attribution in Firefox [from the Firefox CTO]](https://old.reddit.com/r/firefox/comments/1e43w7v/a_word_about_private_attribution_in_firefox/)
 * [2024-07-15, 19:25:30](https://news.ycombinator.com/item?id=40970739) - [Leap – Chemistry Through a Computational Lens](https://ambermd.org/tutorials/pengfei/index.php)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
