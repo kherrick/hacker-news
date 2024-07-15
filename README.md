@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-15, 13:33:54](https://news.ycombinator.com/item?id=40967763) - [The AMD Zen 5 Microarcitecure](https://www.anandtech.com/show/21469/amd-details-ryzen-ai-300-series-for-mobile-strix-point-with-rdna-35-igpu-xdna-2-npu)
+* [2024-07-15, 13:31:30](https://news.ycombinator.com/item?id=40967749) - [How does MS Fight Simulator compare to real flights?(2020)](https://yeokhengmeng.com/2020/08/how-does-flight-simulator-2020-compare-to-real-flights-over-singapore/)
 * [2024-07-15, 13:21:11](https://news.ycombinator.com/item?id=40967664) - [Cosmic Simulation Reveals How Black Holes Grow and Evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
-* [2024-07-15, 12:58:36](https://news.ycombinator.com/item?id=40967472) - [Show HN: Learn a new language by speaking with AI](https://fluent.im/)
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 08:43:31](https://news.ycombinator.com/item?id=40966198) - [WhatWeb: Next Generation Web Scanner (2021)](https://github.com/urbanadventurer/WhatWeb)
@@ -20,7 +21,6 @@
 * [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
 * [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 * [2024-07-14, 08:46:40](https://news.ycombinator.com/item?id=40959742) - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
-* [2024-07-14, 05:48:55](https://news.ycombinator.com/item?id=40959121) - [The six dumbest ideas in computer security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)

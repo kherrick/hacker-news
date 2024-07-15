@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 13:33:54](https://news.ycombinator.com/item?id=40967763) - [The AMD Zen 5 Microarcitecure](https://www.anandtech.com/show/21469/amd-details-ryzen-ai-300-series-for-mobile-strix-point-with-rdna-35-igpu-xdna-2-npu)
+* [2024-07-15, 13:31:30](https://news.ycombinator.com/item?id=40967749) - [How does MS Fight Simulator compare to real flights?(2020)](https://yeokhengmeng.com/2020/08/how-does-flight-simulator-2020-compare-to-real-flights-over-singapore/)
 * [2024-07-15, 13:21:11](https://news.ycombinator.com/item?id=40967664) - [Cosmic Simulation Reveals How Black Holes Grow and Evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
 * [2024-07-15, 12:58:36](https://news.ycombinator.com/item?id=40967472) - [Show HN: Learn a new language by speaking with AI](https://fluent.im/)
 * [2024-07-15, 12:40:56](https://news.ycombinator.com/item?id=40967334) - [WebCrawler – search engine operating for 30 years](https://en.wikipedia.org/wiki/WebCrawler)
