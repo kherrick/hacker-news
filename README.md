@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-15, 03:24:15](https://news.ycombinator.com/item?id=40965031) - [PCSX2 2.0 Released](https://pcsx2.net/blog/2024/pcsx2-2-release/#all-aboard-the-compression-train)
 * [2024-07-15, 02:41:42](https://news.ycombinator.com/item?id=40964877) - [Nanorobot with hidden weapon kills cancer cells](https://news.ki.se/nanorobot-with-hidden-weapon-kills-cancer-cells)
 * [2024-07-15, 02:38:04](https://news.ycombinator.com/item?id=40964861) - [Human history in the long run: It was mostly pretty bad](https://www.slowboring.com/p/human-history-in-the-very-long-run-1d4)
 * [2024-07-15, 00:12:59](https://news.ycombinator.com/item?id=40964261) - [Tabloid: The Clickbait Headline Programming Language (2021)](https://tabloid.vercel.app/)
@@ -16,6 +15,7 @@
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 * [2024-07-14, 12:00:35](https://news.ycombinator.com/item?id=40960402) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
+* [2024-07-14, 10:18:16](https://news.ycombinator.com/item?id=40960012) - [QUIC File Transfer Service, a CLI and srv for transferring large files](https://github.com/sirgallo/quicfiletransfer/blob/main/Readme.md)
 * [2024-07-14, 09:50:24](https://news.ycombinator.com/item?id=40959937) - [Annual pre-pay and marketing budgets](https://longform.asmartbear.com/annual-prepay/)
 * [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 * [2024-07-14, 08:46:40](https://news.ycombinator.com/item?id=40959742) - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
