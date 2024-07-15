@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 21:01:11](https://news.ycombinator.com/item?id=40971432) - [FTC probes IBM's $6.4B HashiCorp takeover](https://www.theregister.com/2024/07/15/ftc_ibms_hashicorp/)
 * [2024-07-15, 21:00:15](https://news.ycombinator.com/item?id=40971426) - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract](https://retrohax.net/amiga-2000-codename-tesseract/)
 * [2024-07-15, 20:02:38](https://news.ycombinator.com/item?id=40971010) - [The Stratocaster Turns 70](https://newatlas.com/music/stratocaster-70-fender-factory/)
@@ -26,6 +27,7 @@
 * [2024-07-15, 17:00:14](https://news.ycombinator.com/item?id=40969564) - [K-Scale Labs (YC W24) Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
 * [2024-07-15, 16:50:11](https://news.ycombinator.com/item?id=40969471) - [Undergraduate Texts in Mathematical Comics – A Tour of Complex Analysis](https://sites.google.com/uic.edu/juliusross/activities/mathematical-comics)
 * [2024-07-15, 16:41:36](https://news.ycombinator.com/item?id=40969391) - [Mangled fingers, no time off: Women who make Samsung semiconductors are striking](https://english.hani.co.kr/arti/english_edition/e_national/1149185.html)
+* [2024-07-15, 16:33:15](https://news.ycombinator.com/item?id=40969312) - [Tlsd: Generate (message) sequence diagrams from TLA+ state traces](https://github.com/eras/tlsd)
 * [2024-07-15, 16:30:15](https://news.ycombinator.com/item?id=40969288) - [The New Holy Grail for Weight-Loss Drugs Is Sleep Apnea](https://www.wsj.com/health/healthcare/sleep-apnea-weight-loss-drugs-00373f21)
 * [2024-07-15, 16:19:16](https://news.ycombinator.com/item?id=40969192) - [Guide to Machine Learning with Geometric, Topological, and Algebraic Structures](https://www.arxiv.org/abs/2407.09468)
 * [2024-07-15, 16:09:19](https://news.ycombinator.com/item?id=40969120) - [Radar evidence of accessible Moon cave conduit below Mare Tranquillitatis pit](https://www.nature.com/articles/s41550-024-02302-y)
