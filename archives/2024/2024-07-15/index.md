@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 13:21:11](https://news.ycombinator.com/item?id=40967664) - [Cosmic Simulation Reveals How Black Holes Grow and Evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
 * [2024-07-15, 12:58:36](https://news.ycombinator.com/item?id=40967472) - [Show HN: Learn a new language by speaking with AI](https://fluent.im/)
 * [2024-07-15, 12:40:56](https://news.ycombinator.com/item?id=40967334) - [WebCrawler – search engine operating for 30 years](https://en.wikipedia.org/wiki/WebCrawler)
 * [2024-07-15, 12:08:56](https://news.ycombinator.com/item?id=40967101) - [Google and Microsoft now each consume more power than some fairly big countries](https://www.techradar.com/pro/google-and-microsoft-now-each-consume-more-power-than-some-fairly-big-countries)
@@ -12,6 +13,7 @@
 * [2024-07-15, 10:47:51](https://news.ycombinator.com/item?id=40966693) - [Graying open source community needs fresh blood](https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs/)
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 09:10:56](https://news.ycombinator.com/item?id=40966312) - [Firefox 128 enables \"privacy-preserving\" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
+* [2024-07-15, 08:43:31](https://news.ycombinator.com/item?id=40966198) - [WhatWeb: Next Generation Web Scanner (2021)](https://github.com/urbanadventurer/WhatWeb)
 * [2024-07-15, 07:25:38](https://news.ycombinator.com/item?id=40965892) - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
 * [2024-07-15, 07:10:32](https://news.ycombinator.com/item?id=40965835) - [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points](https://arxiv.org/abs/1111.5264)
 * [2024-07-15, 04:47:22](https://news.ycombinator.com/item?id=40965338) - [The Rabbit R1 has been logging users' chats – with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update)
