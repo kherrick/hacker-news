@@ -24,7 +24,7 @@
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
-* [2024-07-12, 09:04:11](https://news.ycombinator.com/item?id=40943891) - [Mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
+* [2024-07-13, 06:51:49](https://news.ycombinator.com/item?id=40952315) - [Nation's last Morse code station comes back to life on annual 'Night of Nights'](https://www.mercurynews.com/2024/07/11/nations-last-morse-code-station-comes-back-to-life-on-annual-night-of-nights-in-point-reyes/)
 * [2024-07-11, 14:34:20](https://news.ycombinator.com/item?id=40937260) - [General Theory of Neural Networks](https://robleclerc.substack.com/p/general-theory-of-neural-networks)
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 * [2024-07-10, 15:15:52](https://news.ycombinator.com/item?id=40927845) - [The Laboratory for Extraordinary Microbes](https://press.asimov.com/articles/cultivarium)

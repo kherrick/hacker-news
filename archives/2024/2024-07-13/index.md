@@ -53,6 +53,7 @@
 * [2024-07-13, 07:44:09](https://news.ycombinator.com/item?id=40952509) - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 * [2024-07-13, 06:58:14](https://news.ycombinator.com/item?id=40952339) - [Someone is wrong on the internet (AGI Doom edition)](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
 * [2024-07-13, 06:56:11](https://news.ycombinator.com/item?id=40952330) - [Ad-tech setting 'Privacy-Preserving Attribution' is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
+* [2024-07-13, 06:51:49](https://news.ycombinator.com/item?id=40952315) - [Nation's last Morse code station comes back to life on annual 'Night of Nights'](https://www.mercurynews.com/2024/07/11/nations-last-morse-code-station-comes-back-to-life-on-annual-night-of-nights-in-point-reyes/)
 * [2024-07-13, 06:31:05](https://news.ycombinator.com/item?id=40952248) - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
 * [2024-07-13, 06:22:22](https://news.ycombinator.com/item?id=40952215) - [AI system achieves 96% accuracy in determining sex from dental X-rays](https://www.psypost.org/ai-system-achieves-96-accuracy-in-determining-sex-from-dental-x-rays/)
 * [2024-07-13, 06:12:35](https://news.ycombinator.com/item?id=40952182) - [gpu.cpp: A lightweight library for portable low-level GPU computation](https://github.com/AnswerDotAI/gpu.cpp)
