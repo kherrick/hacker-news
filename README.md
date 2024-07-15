@@ -2,6 +2,7 @@
 
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 09:10:56](https://news.ycombinator.com/item?id=40966312) - [Firefox 128 enables \"privacy-preserving\" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
+* [2024-07-15, 07:25:38](https://news.ycombinator.com/item?id=40965892) - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
 * [2024-07-15, 02:55:00](https://news.ycombinator.com/item?id=40964924) - [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
 * [2024-07-15, 01:52:17](https://news.ycombinator.com/item?id=40964683) - [Virginia Woolf's list-making paved the way for her literary experiments](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
 * [2024-07-15, 00:50:37](https://news.ycombinator.com/item?id=40964436) - [A rock that might hold the oldest form of complex life on Earth](https://news.unsw.edu.au/en/erica-picked-up-a-rock-10-years-ago-it-might-hold-the-oldest-form-of-complex-life-on-earth)
@@ -19,7 +20,6 @@
 * [2024-07-14, 07:53:37](https://news.ycombinator.com/item?id=40959526) - [Git-PR: patch requests over SSH](https://pr.pico.sh/)
 * [2024-07-14, 05:48:55](https://news.ycombinator.com/item?id=40959121) - [The six dumbest ideas in computer security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware update hides a device’s Bluetooth fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
-* [2024-07-14, 04:52:44](https://news.ycombinator.com/item?id=40958922) - [Giving Life to Æthelstan](https://www.historytoday.com/archive/feature/giving-life-aethelstan)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
