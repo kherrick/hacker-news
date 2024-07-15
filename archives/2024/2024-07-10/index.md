@@ -86,6 +86,7 @@
 * [2024-07-10, 07:23:47](https://news.ycombinator.com/item?id=40924472) - [Show HN: Tailwind Template Directory](https://tailkits.com/)
 * [2024-07-10, 07:00:40](https://news.ycombinator.com/item?id=40924368) - [Photoroom (YC S20) Is Hiring Rust Developers in Paris (X-Platform, Wgpu, WASM)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-07-10, 05:13:30](https://news.ycombinator.com/item?id=40923905) - [RADIUS protocol susceptible to forgery attacks](https://www.blastradius.fail/)
+* [2024-07-10, 05:06:20](https://news.ycombinator.com/item?id=40923875) - [A Deal with the Devil](https://lithub.com/a-deal-with-the-devil-what-the-age-old-faustian-bargain-reveals-about-the-modern-world/)
 * [2024-07-10, 04:29:55](https://news.ycombinator.com/item?id=40923715) - [Website Themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
 * [2024-07-10, 02:58:34](https://news.ycombinator.com/item?id=40923316) - [Ask HN: How to deal with vitrolic colleagues in workplace?](https://news.ycombinator.com/item?id=40923316)
 * [2024-07-10, 02:21:30](https://news.ycombinator.com/item?id=40923188) - [Well, it's just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)

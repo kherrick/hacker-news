@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 12:08:56](https://news.ycombinator.com/item?id=40967101) - [Google and Microsoft now each consume more power than some fairly big countries](https://www.techradar.com/pro/google-and-microsoft-now-each-consume-more-power-than-some-fairly-big-countries)
+* [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
+* [2024-07-15, 11:54:54](https://news.ycombinator.com/item?id=40967012) - [Congress Accidentally Legalized Weed Six Years Ago](https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/)
+* [2024-07-15, 10:47:51](https://news.ycombinator.com/item?id=40966693) - [Graying open source community needs fresh blood](https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs/)
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 09:10:56](https://news.ycombinator.com/item?id=40966312) - [Firefox 128 enables \"privacy-preserving\" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
 * [2024-07-15, 07:25:38](https://news.ycombinator.com/item?id=40965892) - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
