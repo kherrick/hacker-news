@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 21:00:15](https://news.ycombinator.com/item?id=40971426) - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
+* [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract](https://retrohax.net/amiga-2000-codename-tesseract/)
 * [2024-07-15, 20:02:38](https://news.ycombinator.com/item?id=40971010) - [The Stratocaster Turns 70](https://newatlas.com/music/stratocaster-70-fender-factory/)
 * [2024-07-15, 19:58:43](https://news.ycombinator.com/item?id=40970987) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
+* [2024-07-15, 19:47:11](https://news.ycombinator.com/item?id=40970893) - [FBI Gains Access to Suspected Trump Shooter’s Password Locked Phone](https://www.404media.co/fbi-gains-access-to-suspected-trump-shooters-password-locked-phone/)
 * [2024-07-15, 19:25:30](https://news.ycombinator.com/item?id=40970739) - [Leap – Chemistry Through a Computational Lens](https://ambermd.org/tutorials/pengfei/index.php)
 * [2024-07-15, 19:17:08](https://news.ycombinator.com/item?id=40970672) - [Platforms Have First Amendment Right to Curate Speech](https://www.eff.org/deeplinks/2024/07/platforms-have-first-amendment-right-curate-speech-weve-long-argued-supreme-1)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
@@ -18,6 +21,7 @@
 * [2024-07-15, 17:48:23](https://news.ycombinator.com/item?id=40969960) - [A Video Interview with Mike Clark, Chief Architect of Zen at AMD](https://chipsandcheese.com/2024/07/15/a-video-interview-with-mike-clark-chief-architect-of-zen-at-amd/)
 * [2024-07-15, 17:44:24](https://news.ycombinator.com/item?id=40969925) - [Show HN: Hacker News homepage with links to comments ordered by most recent](https://observablehq.com/@simonw/hacker-news-homepage)
 * [2024-07-15, 17:41:54](https://news.ycombinator.com/item?id=40969901) - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
+* [2024-07-15, 17:30:40](https://news.ycombinator.com/item?id=40969808) - [Seiko Originals: The UC-2000, A Smartwatch from 1984](https://www.namokimods.com/en-ca/blogs/namokitimes/seiko-originals-the-uc-2000-a-smartwatch-from-1984)
 * [2024-07-15, 17:00:53](https://news.ycombinator.com/item?id=40969574) - [Tech, Crunched: How the go-to site for startup news lost its way](https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site)
 * [2024-07-15, 17:00:14](https://news.ycombinator.com/item?id=40969564) - [K-Scale Labs (YC W24) Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
 * [2024-07-15, 16:50:11](https://news.ycombinator.com/item?id=40969471) - [Undergraduate Texts in Mathematical Comics – A Tour of Complex Analysis](https://sites.google.com/uic.edu/juliusross/activities/mathematical-comics)
