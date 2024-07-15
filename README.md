@@ -2,7 +2,6 @@
 
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
-* [2024-07-15, 18:58:15](https://news.ycombinator.com/item?id=40970496) - [Show HN: Projects from the Wolfram Summer Research Program](https://www.wolframcloud.com/obj/microsites/summer-research-high-school/projects.html)
 * [2024-07-15, 18:30:05](https://news.ycombinator.com/item?id=40970261) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 * [2024-07-15, 17:41:54](https://news.ycombinator.com/item?id=40969901) - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
 * [2024-07-15, 17:00:14](https://news.ycombinator.com/item?id=40969564) - [K-Scale Labs (YC W24) Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
@@ -30,6 +29,7 @@
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 * [2024-07-10, 12:08:09](https://news.ycombinator.com/item?id=40925999) - [Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://op-co.de/blog/posts/samsung_nx_mastodon/)
 * [2024-07-10, 05:06:20](https://news.ycombinator.com/item?id=40923875) - [A Deal with the Devil](https://lithub.com/a-deal-with-the-devil-what-the-age-old-faustian-bargain-reveals-about-the-modern-world/)
+* [2024-07-09, 22:20:45](https://news.ycombinator.com/item?id=40921869) - [\"Nik\": The Mesoamerican Representation of Zero (2021)](https://baas.aas.org/pub/2021n1i336p03/release/2)
 
 ## [Archives](archives/index.md)
 
