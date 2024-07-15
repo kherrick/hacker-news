@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 16:50:11](https://news.ycombinator.com/item?id=40969471) - [Undergraduate Texts in Mathematical Comics – A Tour of Complex Analysis](https://sites.google.com/uic.edu/juliusross/activities/mathematical-comics)
 * [2024-07-15, 16:41:36](https://news.ycombinator.com/item?id=40969391) - [Mangled fingers, no time off: Women who make Samsung semiconductors are striking](https://english.hani.co.kr/arti/english_edition/e_national/1149185.html)
+* [2024-07-15, 16:19:16](https://news.ycombinator.com/item?id=40969192) - [Guide to Machine Learning with Geometric, Topological, and Algebraic Structures](https://www.arxiv.org/abs/2407.09468)
+* [2024-07-15, 15:17:21](https://news.ycombinator.com/item?id=40968612) - [Health benefits of replacing butter with high-quality plant oils](https://www.dife.de/en/details-home/blood-fat-profiles-confirm-health-benefits-of-replacing-butter-with-high-quality-plant-oils-479/)
 * [2024-07-15, 15:06:29](https://news.ycombinator.com/item?id=40968520) - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [How the Rise of the Camera Launched a Fight to Protect Gilded Age Privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
 * [2024-07-15, 14:52:01](https://news.ycombinator.com/item?id=40968388) - [Common logical fallacies surrounding capitalism](https://blog.alexmaccaw.com/common-logical-fallacies-surrounding-capitalism/)
