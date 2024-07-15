@@ -13,5 +13,6 @@
 * [2024-07-15, 02:18:09](https://news.ycombinator.com/item?id=40964787) - [Global Population to Shrink This Century as Birth Rates Fall](https://www.ft.com/content/2d37dc16-5c73-4f2a-92a5-a78326f9dc3d)
 * [2024-07-15, 02:08:20](https://news.ycombinator.com/item?id=40964749) - [Movies directed by Andrey Tarkovsky (YouTube playlist)](https://www.youtube.com/playlist?list=PL7EqAsBxqGgjarBzACNmCNDdr0y0iFu8U)
 * [2024-07-15, 01:52:17](https://news.ycombinator.com/item?id=40964683) - [Virginia Woolf's list-making paved the way for her literary experiments](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
+* [2024-07-15, 00:50:37](https://news.ycombinator.com/item?id=40964436) - [A rock that might hold the oldest form of complex life on Earth](https://news.unsw.edu.au/en/erica-picked-up-a-rock-10-years-ago-it-might-hold-the-oldest-form-of-complex-life-on-earth)
 * [2024-07-15, 00:12:59](https://news.ycombinator.com/item?id=40964261) - [Tabloid: The Clickbait Headline Programming Language (2021)](https://tabloid.vercel.app/)
 * [2024-07-15, 00:06:37](https://news.ycombinator.com/item?id=40964223) - [The Rise of Faceless Accounts on Instagram](https://leximerritt.substack.com/p/faceless-accounts)
