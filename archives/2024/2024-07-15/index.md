@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
 * [2024-07-15, 17:48:23](https://news.ycombinator.com/item?id=40969960) - [A Video Interview with Mike Clark, Chief Architect of Zen at AMD](https://chipsandcheese.com/2024/07/15/a-video-interview-with-mike-clark-chief-architect-of-zen-at-amd/)
+* [2024-07-15, 17:44:24](https://news.ycombinator.com/item?id=40969925) - [Show HN: Hacker News homepage with links to comments ordered by most recent](https://observablehq.com/@simonw/hacker-news-homepage)
 * [2024-07-15, 17:41:54](https://news.ycombinator.com/item?id=40969901) - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
 * [2024-07-15, 17:00:53](https://news.ycombinator.com/item?id=40969574) - [Tech, Crunched: How the go-to site for startup news lost its way](https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site)
 * [2024-07-15, 17:00:14](https://news.ycombinator.com/item?id=40969564) - [K-Scale Labs (YC W24) Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)

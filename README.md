@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-15, 17:48:23](https://news.ycombinator.com/item?id=40969960) - [A Video Interview with Mike Clark, Chief Architect of Zen at AMD](https://chipsandcheese.com/2024/07/15/a-video-interview-with-mike-clark-chief-architect-of-zen-at-amd/)
+* [2024-07-15, 17:44:24](https://news.ycombinator.com/item?id=40969925) - [Show HN: Hacker News homepage with links to comments ordered by most recent](https://observablehq.com/@simonw/hacker-news-homepage)
 * [2024-07-15, 17:41:54](https://news.ycombinator.com/item?id=40969901) - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
 * [2024-07-15, 17:00:53](https://news.ycombinator.com/item?id=40969574) - [Tech, Crunched: How the go-to site for startup news lost its way](https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site)
 * [2024-07-15, 17:00:14](https://news.ycombinator.com/item?id=40969564) - [K-Scale Labs (YC W24) Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
@@ -15,6 +15,7 @@
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 11:54:54](https://news.ycombinator.com/item?id=40967012) - [Congress accidentally legalized THC six years ago](https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/)
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
+* [2024-07-15, 08:43:31](https://news.ycombinator.com/item?id=40966198) - [WhatWeb: Next Generation Web Scanner (2021)](https://github.com/urbanadventurer/WhatWeb)
 * [2024-07-15, 07:10:32](https://news.ycombinator.com/item?id=40965835) - [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points (2011)](https://arxiv.org/abs/1111.5264)
 * [2024-07-15, 02:55:00](https://news.ycombinator.com/item?id=40964924) - [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
 * [2024-07-15, 01:52:17](https://news.ycombinator.com/item?id=40964683) - [Virginia Woolf's list-making](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
@@ -23,11 +24,10 @@
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2024-07-14, 14:27:46](https://news.ycombinator.com/item?id=40961163) - [Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
-* [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-12, 07:41:21](https://news.ycombinator.com/item?id=40943437) - [Pi calculation world record with over 202T digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
+* [2024-07-11, 21:33:19](https://news.ycombinator.com/item?id=40940799) - ['Writing a C Compiler' is a book (2022)](https://norasandler.com/2022/03/29/Write-a-C-Compiler-the-Book.html)
 * [2024-07-11, 19:10:00](https://news.ycombinator.com/item?id=40939607) - [The Old Bailey with Britain's last court reporters](https://www.theguardian.com/news/article/2024/jul/11/old-bailey-dying-art-court-reporter-justice)
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
-* [2024-07-10, 12:08:09](https://news.ycombinator.com/item?id=40925999) - [Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://arstechnica.com/gadgets/2024/07/samsungs-abandoned-nx-cameras-can-be-brought-online-with-a-20-lte-stick/)
 * [2024-07-10, 05:06:20](https://news.ycombinator.com/item?id=40923875) - [A Deal with the Devil](https://lithub.com/a-deal-with-the-devil-what-the-age-old-faustian-bargain-reveals-about-the-modern-world/)
 * [2024-07-09, 22:20:45](https://news.ycombinator.com/item?id=40921869) - [\"Nik\": The Mesoamerican Representation of Zero (2021)](https://baas.aas.org/pub/2021n1i336p03/release/2)
 
