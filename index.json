@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-15, 03:24:15",
-      "https://news.ycombinator.com/item?id=40965031"
-    ],
-    [
-      "PCSX2 2.0 Released",
-      "https://pcsx2.net/blog/2024/pcsx2-2-release/#all-aboard-the-compression-train"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 02:41:42",
       "https://news.ycombinator.com/item?id=40964877"
     ],
@@ -157,6 +147,16 @@
     [
       "Building the Bell System",
       "https://www.construction-physics.com/p/building-the-bell-system"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 10:18:16",
+      "https://news.ycombinator.com/item?id=40960012"
+    ],
+    [
+      "QUIC File Transfer Service, a CLI and srv for transferring large files",
+      "https://github.com/sirgallo/quicfiletransfer/blob/main/Readme.md"
     ]
   ],
   [
