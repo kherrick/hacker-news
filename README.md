@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-15, 16:41:36](https://news.ycombinator.com/item?id=40969391) - [Mangled fingers, no time off: Women who make Samsung semiconductors are striking](https://english.hani.co.kr/arti/english_edition/e_national/1149185.html)
 * [2024-07-15, 15:06:29](https://news.ycombinator.com/item?id=40968520) - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [The rise of the camera launched a fight to protect Gilded Age privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
 * [2024-07-15, 14:36:44](https://news.ycombinator.com/item?id=40968245) - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
@@ -19,7 +20,6 @@
 * [2024-07-14, 14:14:34](https://news.ycombinator.com/item?id=40961101) - [Show HN: Kaskade – A text user interface for Kafka](https://github.com/sauljabin/kaskade)
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 * [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
-* [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 * [2024-07-14, 08:46:40](https://news.ycombinator.com/item?id=40959742) - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
