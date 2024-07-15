@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-07-14, 20:11:40",
-      "https://news.ycombinator.com/item?id=40962921"
+      "2024-07-14, 21:45:55",
+      "https://news.ycombinator.com/item?id=40963427"
     ],
     [
-      "A prank cursor resulted in an employee being fired before they started (2020)",
-      "https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434"
+      "Working with stacked branches in Git is easier with –update-refs (2022)",
+      "https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/"
     ]
   ],
   [
     [
-      "2024-07-14, 19:55:38",
-      "https://news.ycombinator.com/item?id=40962829"
+      "2024-07-14, 19:44:46",
+      "https://news.ycombinator.com/item?id=40962774"
     ],
     [
-      "A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.",
-      "https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html"
+      "Can ChatGPT do data science?",
+      "https://austinhenley.com/blog/chatgptdatascience.html"
     ]
   ],
   [
@@ -31,32 +31,22 @@
   ],
   [
     [
-      "2024-07-14, 19:34:10",
-      "https://news.ycombinator.com/item?id=40962737"
-    ],
-    [
-      "Show HN: Sodap: Simple Online Directory Access Protocol",
-      "https://codeberg.org/reesericci/sodap"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 19:25:31",
-      "https://news.ycombinator.com/item?id=40962705"
-    ],
-    [
-      "Playing the Open Source Game (2021)",
-      "https://kristoff.it/blog/the-open-source-game/"
-    ]
-  ],
-  [
-    [
       "2024-07-14, 19:16:29",
       "https://news.ycombinator.com/item?id=40962675"
     ],
     [
       "How to Know When It's Time to Go",
       "https://thecodist.com/how-to-know-when-its-time-to-go/"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 18:53:01",
+      "https://news.ycombinator.com/item?id=40962582"
+    ],
+    [
+      "Ask HN: Most accurate scientific book on Human Sleep?",
+      "https://news.ycombinator.com/item?id=40962582"
     ]
   ],
   [
@@ -81,12 +71,12 @@
   ],
   [
     [
-      "2024-07-14, 15:07:25",
-      "https://news.ycombinator.com/item?id=40961385"
+      "2024-07-14, 16:35:53",
+      "https://news.ycombinator.com/item?id=40961842"
     ],
     [
-      "Show HN: I generated 70k audiobooks with OpenAI Text-to-Speech",
-      "https://listenly.io/gutenberg"
+      "Show HN: An ad free temporary mail service",
+      "https://news.ycombinator.com/item?id=40961842"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "Show HN: I made a TUI for kafka (kaskade)",
       "https://github.com/sauljabin/kaskade"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 13:37:45",
+      "https://news.ycombinator.com/item?id=40960886"
+    ],
+    [
+      "CURLoRA: Stable LLM Fine-Tuning and Catastrophic Forgetting Mitigation",
+      "https://zenodo.org/records/12740116"
     ]
   ],
   [
