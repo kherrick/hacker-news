@@ -21,6 +21,7 @@
 * [2024-07-15, 18:51:45](https://news.ycombinator.com/item?id=40970420) - [PyTorch Lightning: A Comprehensive Hands-On Tutorial](https://www.datacamp.com/tutorial/pytorch-lightning-tutorial)
 * [2024-07-15, 18:30:45](https://news.ycombinator.com/item?id=40970268) - [Alan Kay – Doing with Images Makes Symbols: Communicating with Computers (1987)](https://archive.org/details/Dr._Alan_Kay_Doing_With_Images_Makes_Symbols_Communicating_With_Computers_1987)
 * [2024-07-15, 18:30:05](https://news.ycombinator.com/item?id=40970261) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
+* [2024-07-15, 18:20:38](https://news.ycombinator.com/item?id=40970188) - [Ask HN: Do you have home solar?](https://news.ycombinator.com/item?id=40970188)
 * [2024-07-15, 18:14:29](https://news.ycombinator.com/item?id=40970146) - [Transformer Layers as Painters](https://arxiv.org/abs/2407.09298)
 * [2024-07-15, 17:48:23](https://news.ycombinator.com/item?id=40969960) - [A Video Interview with Mike Clark, Chief Architect of Zen at AMD](https://chipsandcheese.com/2024/07/15/a-video-interview-with-mike-clark-chief-architect-of-zen-at-amd/)
 * [2024-07-15, 17:44:24](https://news.ycombinator.com/item?id=40969925) - [Show HN: Hacker News homepage with links to comments ordered by most recent](https://observablehq.com/@simonw/hacker-news-homepage)
