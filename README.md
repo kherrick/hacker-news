@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-15, 14:36:44](https://news.ycombinator.com/item?id=40968245) - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
 * [2024-07-15, 13:21:11](https://news.ycombinator.com/item?id=40967664) - [Cosmic simulation reveals how black holes grow and evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 10:19:01](https://news.ycombinator.com/item?id=40966572) - [Scientists make DNA discovery that could help find pancreatic cancer cure](https://www.theguardian.com/society/article/2024/jul/15/scientists-make-dna-discovery-that-could-help-find-pancreatic-cancer-cure)
@@ -19,7 +20,6 @@
 * [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
 * [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 * [2024-07-14, 08:46:40](https://news.ycombinator.com/item?id=40959742) - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
-* [2024-07-14, 05:48:55](https://news.ycombinator.com/item?id=40959121) - [The six dumbest ideas in computer security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)

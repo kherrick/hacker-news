@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 14:36:44](https://news.ycombinator.com/item?id=40968245) - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
 * [2024-07-15, 13:33:54](https://news.ycombinator.com/item?id=40967763) - [The AMD Zen 5 Microarcitecure](https://www.anandtech.com/show/21469/amd-details-ryzen-ai-300-series-for-mobile-strix-point-with-rdna-35-igpu-xdna-2-npu)
 * [2024-07-15, 13:31:30](https://news.ycombinator.com/item?id=40967749) - [How does MS Fight Simulator compare to real flights?(2020)](https://yeokhengmeng.com/2020/08/how-does-flight-simulator-2020-compare-to-real-flights-over-singapore/)
 * [2024-07-15, 13:21:11](https://news.ycombinator.com/item?id=40967664) - [Cosmic Simulation Reveals How Black Holes Grow and Evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
