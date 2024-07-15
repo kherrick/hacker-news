@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-15, 21:01:11",
-      "https://news.ycombinator.com/item?id=40971432"
-    ],
-    [
-      "FTC probes IBM's $6.4B HashiCorp takeover",
-      "https://www.theregister.com/2024/07/15/ftc_ibms_hashicorp/"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 21:00:15",
       "https://news.ycombinator.com/item?id=40971426"
     ],
@@ -67,6 +57,16 @@
     [
       "Run CUDA, unmodified, on AMD GPUs",
       "https://docs.scale-lang.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 18:30:45",
+      "https://news.ycombinator.com/item?id=40970268"
+    ],
+    [
+      "Alan Kay – Doing with Images Makes Symbols: Communicating with Computers (1987)",
+      "https://archive.org/details/Dr._Alan_Kay_Doing_With_Images_Makes_Symbols_Communicating_With_Computers_1987"
     ]
   ],
   [
@@ -171,12 +171,42 @@
   ],
   [
     [
+      "2024-07-15, 14:36:44",
+      "https://news.ycombinator.com/item?id=40968245"
+    ],
+    [
+      "Creature that washed up on New Zealand beach may be rarest whale",
+      "https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 12:03:47",
       "https://news.ycombinator.com/item?id=40967069"
     ],
     [
       "I'm not a fan of strlcpy(3)",
       "https://nrk.neocities.org/articles/not-a-fan-of-strlcpy"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 11:54:54",
+      "https://news.ycombinator.com/item?id=40967012"
+    ],
+    [
+      "Congress accidentally legalized THC six years ago",
+      "https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 09:39:17",
+      "https://news.ycombinator.com/item?id=40966414"
+    ],
+    [
+      "Rust for Filesystems",
+      "https://lwn.net/Articles/978738/"
     ]
   ],
   [
@@ -191,22 +221,12 @@
   ],
   [
     [
-      "2024-07-15, 02:55:00",
-      "https://news.ycombinator.com/item?id=40964924"
+      "2024-07-15, 01:52:17",
+      "https://news.ycombinator.com/item?id=40964683"
     ],
     [
-      "The fascinating and complicated sex lives of white-throated sparrows",
-      "https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 19:43:40",
-      "https://news.ycombinator.com/item?id=40962767"
-    ],
-    [
-      "Fusion – A hobby OS implemented in Nim",
-      "https://github.com/khaledh/fusion"
+      "Virginia Woolf's list-making",
+      "https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Soviet Calculator History (1998)",
       "https://xnumber.com/xnumber/russian_calcs.htm"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 17:42:02",
-      "https://news.ycombinator.com/item?id=40962231"
-    ],
-    [
-      "Calculating position from raw GPS data (2017)",
-      "https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 14:27:46",
-      "https://news.ycombinator.com/item?id=40961163"
-    ],
-    [
-      "Fitting an elephant with four non-zero parameters",
-      "https://arxiv.org/abs/2407.07909"
     ]
   ],
   [
