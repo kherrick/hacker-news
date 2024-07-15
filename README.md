@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-15, 22:48:24](https://news.ycombinator.com/item?id=40972134) - [How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
 * [2024-07-15, 21:49:15](https://news.ycombinator.com/item?id=40971766) - [L402: The Missing Piece in the Internet's Payment Infrastructure](https://l402.org/)
-* [2024-07-15, 21:30:42](https://news.ycombinator.com/item?id=40971631) - [Show HN: Mutable.ai Codebase chat that uses a Wiki for RAG](https://wiki.mutable.ai/Dao-AILab/flash-attention)
 * [2024-07-15, 21:28:04](https://news.ycombinator.com/item?id=40971609) - [Mercurial is simply too good (2020)](https://baez.link/mercurial-is-simply-too-good)
 * [2024-07-15, 21:20:39](https://news.ycombinator.com/item?id=40971553) - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
 * [2024-07-15, 21:00:15](https://news.ycombinator.com/item?id=40971426) - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
