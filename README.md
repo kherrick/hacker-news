@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-15, 22:36:23](https://news.ycombinator.com/item?id=40972070) - [The Hidden Ties Between Google's Project Nimbus and Israel's Military](https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/)
 * [2024-07-15, 21:49:15](https://news.ycombinator.com/item?id=40971766) - [L402: The Missing Piece in the Internet's Payment Infrastructure](https://l402.org/)
 * [2024-07-15, 21:30:42](https://news.ycombinator.com/item?id=40971631) - [Show HN: Mutable.ai Codebase chat that uses a Wiki for RAG](https://wiki.mutable.ai/Dao-AILab/flash-attention)
 * [2024-07-15, 21:28:04](https://news.ycombinator.com/item?id=40971609) - [Mercurial is simply too good (2020)](https://baez.link/mercurial-is-simply-too-good)
@@ -24,6 +23,7 @@
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 11:54:54](https://news.ycombinator.com/item?id=40967012) - [Congress accidentally legalized THC six years ago](https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/)
 * [2024-07-15, 07:10:32](https://news.ycombinator.com/item?id=40965835) - [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points (2011)](https://arxiv.org/abs/1111.5264)
+* [2024-07-15, 01:52:17](https://news.ycombinator.com/item?id=40964683) - [Virginia Woolf's list-making](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
 * [2024-07-14, 18:11:33](https://news.ycombinator.com/item?id=40962362) - [Soviet Calculator History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
 * [2024-07-12, 07:41:21](https://news.ycombinator.com/item?id=40943437) - [Pi calculation world record with over 202T digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
 * [2024-07-11, 19:10:00](https://news.ycombinator.com/item?id=40939607) - [The Old Bailey with Britain's last court reporters](https://www.theguardian.com/news/article/2024/jul/11/old-bailey-dying-art-court-reporter-justice)
