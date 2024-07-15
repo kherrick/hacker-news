@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-15, 12:08:56",
-      "https://news.ycombinator.com/item?id=40967101"
-    ],
-    [
-      "Google and Microsoft now each consume more power than some fairly big countries",
-      "https://www.techradar.com/pro/google-and-microsoft-now-each-consume-more-power-than-some-fairly-big-countries"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 12:03:47",
       "https://news.ycombinator.com/item?id=40967069"
     ],
@@ -21,42 +11,12 @@
   ],
   [
     [
-      "2024-07-15, 11:54:54",
-      "https://news.ycombinator.com/item?id=40967012"
-    ],
-    [
-      "Congress Accidentally Legalized Weed Six Years Ago",
-      "https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 10:47:51",
-      "https://news.ycombinator.com/item?id=40966693"
-    ],
-    [
-      "Graying open source community needs fresh blood",
-      "https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs/"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 09:39:17",
       "https://news.ycombinator.com/item?id=40966414"
     ],
     [
       "Rust for Filesystems",
       "https://lwn.net/Articles/978738/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 09:10:56",
-      "https://news.ycombinator.com/item?id=40966312"
-    ],
-    [
-      "Firefox 128 enables \"privacy-preserving\" ad measurements by default",
-      "https://mstdn.social/@Lokjo/112772496939724214"
     ]
   ],
   [
@@ -97,16 +57,6 @@
     [
       "Virginia Woolf's list-making paved the way for her literary experiments",
       "https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 00:50:37",
-      "https://news.ycombinator.com/item?id=40964436"
-    ],
-    [
-      "A rock that might hold the oldest form of complex life on Earth",
-      "https://news.unsw.edu.au/en/erica-picked-up-a-rock-10-years-ago-it-might-hold-the-oldest-form-of-complex-life-on-earth"
     ]
   ],
   [
@@ -211,12 +161,52 @@
   ],
   [
     [
+      "2024-07-14, 09:02:15",
+      "https://news.ycombinator.com/item?id=40959787"
+    ],
+    [
+      "Building and scaling Notion's data lake",
+      "https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 08:46:40",
       "https://news.ycombinator.com/item?id=40959742"
     ],
     [
       "Writing a BIOS bootloader for 64-bit mode from scratch",
       "https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 07:53:37",
+      "https://news.ycombinator.com/item?id=40959526"
+    ],
+    [
+      "Git-PR: patch requests over SSH",
+      "https://pr.pico.sh/"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 05:48:55",
+      "https://news.ycombinator.com/item?id=40959121"
+    ],
+    [
+      "The six dumbest ideas in computer security (2005)",
+      "http://www.ranum.com/security/computer_security/editorials/dumb/"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 05:01:17",
+      "https://news.ycombinator.com/item?id=40958946"
+    ],
+    [
+      "Firmware update hides a device’s Bluetooth fingerprint",
+      "https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint"
     ]
   ],
   [
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2024-07-12, 13:00:11",
-      "https://news.ycombinator.com/item?id=40945143"
+      "2024-07-12, 09:04:11",
+      "https://news.ycombinator.com/item?id=40943891"
     ],
     [
-      "Clouds in Video Games",
-      "https://www.eurogamer.net/the-beauty-and-drama-of-video-games-and-their-clouds"
+      "Mazeppa: A modern supercompiler for call-by-value functional languages",
+      "https://github.com/mazeppa-dev/mazeppa"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "We need visual programming. No, not like that",
       "https://blog.sbensu.com/posts/demand-for-visual-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 15:15:52",
+      "https://news.ycombinator.com/item?id=40927845"
+    ],
+    [
+      "The Laboratory for Extraordinary Microbes",
+      "https://press.asimov.com/articles/cultivarium"
     ]
   ],
   [
