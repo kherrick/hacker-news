@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-15, 12:58:36](https://news.ycombinator.com/item?id=40967472) - [Show HN: Learn a new language by speaking with AI](https://fluent.im/)
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 07:25:38](https://news.ycombinator.com/item?id=40965892) - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
@@ -8,7 +9,6 @@
 * [2024-07-15, 01:52:17](https://news.ycombinator.com/item?id=40964683) - [Virginia Woolf's list-making paved the way for her literary experiments](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
 * [2024-07-15, 00:12:59](https://news.ycombinator.com/item?id=40964261) - [Tabloid: A clickbait headline programming language (2021)](https://tabloid.vercel.app/)
 * [2024-07-14, 19:43:40](https://news.ycombinator.com/item?id=40962767) - [Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion)
-* [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 * [2024-07-14, 18:11:33](https://news.ycombinator.com/item?id=40962362) - [Soviet Calculators History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2024-07-14, 14:56:14](https://news.ycombinator.com/item?id=40961316) - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
