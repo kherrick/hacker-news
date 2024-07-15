@@ -69,6 +69,7 @@
 * [2024-07-10, 13:01:57](https://news.ycombinator.com/item?id=40926411) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 * [2024-07-10, 12:35:14](https://news.ycombinator.com/item?id=40926211) - [Show HN: Posting v1 – The modern HTTP client that lives in your terminal](https://github.com/darrenburns/posting)
 * [2024-07-10, 12:17:34](https://news.ycombinator.com/item?id=40926063) - [Why We Build Simple Software](https://blog.pickcode.io/why-we-build-simple-software/)
+* [2024-07-10, 12:08:09](https://news.ycombinator.com/item?id=40925999) - [Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://arstechnica.com/gadgets/2024/07/samsungs-abandoned-nx-cameras-can-be-brought-online-with-a-20-lte-stick/)
 * [2024-07-10, 11:55:52](https://news.ycombinator.com/item?id=40925913) - [As extreme heat bakes the West, emergency helicopters struggle to fly](https://www.msn.com/en-us/news/other/as-extreme-heat-bakes-the-west-emergency-helicopters-struggle-to-fly/ar-BB1pJi1V)
 * [2024-07-10, 11:54:35](https://news.ycombinator.com/item?id=40925906) - [Show HN: I made a Note-Taking app for people who keep texting themselves](https://strflow.app)
 * [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Leetcode but for ML](https://www.deep-ml.com/)
