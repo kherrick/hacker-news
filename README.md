@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-15, 02:18:09](https://news.ycombinator.com/item?id=40964787) - [Global Population to Shrink This Century as Birth Rates Fall](https://www.ft.com/content/2d37dc16-5c73-4f2a-92a5-a78326f9dc3d)
+* [2024-07-15, 02:41:42](https://news.ycombinator.com/item?id=40964877) - [Nanorobot with hidden weapon kills cancer cells](https://news.ki.se/nanorobot-with-hidden-weapon-kills-cancer-cells)
+* [2024-07-15, 02:38:04](https://news.ycombinator.com/item?id=40964861) - [Human history in the long run: It was mostly pretty bad](https://www.slowboring.com/p/human-history-in-the-very-long-run-1d4)
 * [2024-07-15, 00:12:59](https://news.ycombinator.com/item?id=40964261) - [Tabloid: The Clickbait Headline Programming Language (2021)](https://tabloid.vercel.app/)
+* [2024-07-15, 00:06:37](https://news.ycombinator.com/item?id=40964223) - [The Rise of Faceless Accounts on Instagram](https://leximerritt.substack.com/p/faceless-accounts)
 * [2024-07-14, 19:43:40](https://news.ycombinator.com/item?id=40962767) - [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
-* [2024-07-14, 18:53:01](https://news.ycombinator.com/item?id=40962582) - [Ask HN: Most accurate scientific book on Human Sleep?](https://news.ycombinator.com/item?id=40962582)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2024-07-14, 16:35:53](https://news.ycombinator.com/item?id=40961842) - [Show HN: An ad free temporary mail service](https://news.ycombinator.com/item?id=40961842)
@@ -15,7 +16,6 @@
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 * [2024-07-14, 12:00:35](https://news.ycombinator.com/item?id=40960402) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
-* [2024-07-14, 10:18:16](https://news.ycombinator.com/item?id=40960012) - [QUIC File Transfer Service, a CLI and srv for transferring large files](https://github.com/sirgallo/quicfiletransfer/blob/main/Readme.md)
 * [2024-07-14, 09:50:24](https://news.ycombinator.com/item?id=40959937) - [Annual pre-pay and marketing budgets](https://longform.asmartbear.com/annual-prepay/)
 * [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 * [2024-07-14, 08:46:40](https://news.ycombinator.com/item?id=40959742) - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
@@ -29,7 +29,7 @@
 * [2024-07-12, 09:04:11](https://news.ycombinator.com/item?id=40943891) - [Mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
 * [2024-07-11, 14:34:20](https://news.ycombinator.com/item?id=40937260) - [General Theory of Neural Networks](https://robleclerc.substack.com/p/general-theory-of-neural-networks)
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
-* [2024-07-09, 10:13:53](https://news.ycombinator.com/item?id=40914350) - [Student uses black soldier flies to grow pea plants in simulated Martian soil](https://phys.org/news/2024-06-aerospace-student-black-soldier-flies.html)
+* [2024-07-09, 22:20:45](https://news.ycombinator.com/item?id=40921869) - [\"Nik\": The Mesoamerican Representation of Zero (2021)](https://baas.aas.org/pub/2021n1i336p03/release/2)
 
 ## [Archives](archives/index.md)
 
