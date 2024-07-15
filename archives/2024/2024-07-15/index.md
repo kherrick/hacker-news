@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 19:25:30](https://news.ycombinator.com/item?id=40970739) - [Leap – Chemistry Through a Computational Lens](https://ambermd.org/tutorials/pengfei/index.php)
 * [2024-07-15, 19:17:08](https://news.ycombinator.com/item?id=40970672) - [Platforms Have First Amendment Right to Curate Speech](https://www.eff.org/deeplinks/2024/07/platforms-have-first-amendment-right-curate-speech-weve-long-argued-supreme-1)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:06:12](https://news.ycombinator.com/item?id=40970572) - [Show HN: I scraped 3.2B TikTok profiles and 9B posts to build this search engine](https://app.seeksocial.io)
