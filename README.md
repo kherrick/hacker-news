@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-15, 21:20:39](https://news.ycombinator.com/item?id=40971553) - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
 * [2024-07-15, 21:00:15](https://news.ycombinator.com/item?id=40971426) - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
-* [2024-07-15, 19:58:43](https://news.ycombinator.com/item?id=40970987) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
+* [2024-07-15, 20:31:49](https://news.ycombinator.com/item?id=40971247) - [A Word About Private Attribution in Firefox [from the Firefox CTO]](https://old.reddit.com/r/firefox/comments/1e43w7v/a_word_about_private_attribution_in_firefox/)
 * [2024-07-15, 19:25:30](https://news.ycombinator.com/item?id=40970739) - [Leap – Chemistry Through a Computational Lens](https://ambermd.org/tutorials/pengfei/index.php)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
@@ -20,7 +21,6 @@
 * [2024-07-15, 14:36:44](https://news.ycombinator.com/item?id=40968245) - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 11:54:54](https://news.ycombinator.com/item?id=40967012) - [Congress accidentally legalized THC six years ago](https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/)
-* [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 07:10:32](https://news.ycombinator.com/item?id=40965835) - [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points (2011)](https://arxiv.org/abs/1111.5264)
 * [2024-07-15, 01:52:17](https://news.ycombinator.com/item?id=40964683) - [Virginia Woolf's list-making](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
 * [2024-07-14, 18:11:33](https://news.ycombinator.com/item?id=40962362) - [Soviet Calculator History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)

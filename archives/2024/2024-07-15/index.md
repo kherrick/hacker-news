@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 21:20:39](https://news.ycombinator.com/item?id=40971553) - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
 * [2024-07-15, 21:01:11](https://news.ycombinator.com/item?id=40971432) - [FTC probes IBM's $6.4B HashiCorp takeover](https://www.theregister.com/2024/07/15/ftc_ibms_hashicorp/)
 * [2024-07-15, 21:00:15](https://news.ycombinator.com/item?id=40971426) - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract](https://retrohax.net/amiga-2000-codename-tesseract/)
+* [2024-07-15, 20:31:49](https://news.ycombinator.com/item?id=40971247) - [A Word About Private Attribution in Firefox [from the Firefox CTO]](https://old.reddit.com/r/firefox/comments/1e43w7v/a_word_about_private_attribution_in_firefox/)
 * [2024-07-15, 20:02:38](https://news.ycombinator.com/item?id=40971010) - [The Stratocaster Turns 70](https://newatlas.com/music/stratocaster-70-fender-factory/)
 * [2024-07-15, 19:58:43](https://news.ycombinator.com/item?id=40970987) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
 * [2024-07-15, 19:47:11](https://news.ycombinator.com/item?id=40970893) - [FBI Gains Access to Suspected Trump Shooter’s Password Locked Phone](https://www.404media.co/fbi-gains-access-to-suspected-trump-shooters-password-locked-phone/)
