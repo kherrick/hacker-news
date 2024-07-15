@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-15, 13:21:11](https://news.ycombinator.com/item?id=40967664) - [Cosmic Simulation Reveals How Black Holes Grow and Evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
+* [2024-07-15, 13:21:11](https://news.ycombinator.com/item?id=40967664) - [Cosmic simulation reveals how black holes grow and evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 08:43:31](https://news.ycombinator.com/item?id=40966198) - [WhatWeb: Next Generation Web Scanner (2021)](https://github.com/urbanadventurer/WhatWeb)
