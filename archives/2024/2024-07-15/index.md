@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
 * [2024-07-15, 12:58:36](https://news.ycombinator.com/item?id=40967472) - [Show HN: Learn a new language by speaking with AI](https://fluent.im/)
+* [2024-07-15, 12:40:56](https://news.ycombinator.com/item?id=40967334) - [WebCrawler – search engine operating for 30 years](https://en.wikipedia.org/wiki/WebCrawler)
 * [2024-07-15, 12:08:56](https://news.ycombinator.com/item?id=40967101) - [Google and Microsoft now each consume more power than some fairly big countries](https://www.techradar.com/pro/google-and-microsoft-now-each-consume-more-power-than-some-fairly-big-countries)
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 11:54:54](https://news.ycombinator.com/item?id=40967012) - [Congress Accidentally Legalized Weed Six Years Ago](https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/)

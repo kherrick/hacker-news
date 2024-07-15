@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-15, 12:58:36](https://news.ycombinator.com/item?id=40967472) - [Show HN: Learn a new language by speaking with AI](https://fluent.im/)
+* [2024-07-15, 12:40:56](https://news.ycombinator.com/item?id=40967334) - [WebCrawler – search engine operating for 30 years](https://en.wikipedia.org/wiki/WebCrawler)
 * [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 07:25:38](https://news.ycombinator.com/item?id=40965892) - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
@@ -20,7 +21,6 @@
 * [2024-07-14, 08:46:40](https://news.ycombinator.com/item?id=40959742) - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-14, 07:53:37](https://news.ycombinator.com/item?id=40959526) - [Git-PR: patch requests over SSH](https://pr.pico.sh/)
 * [2024-07-14, 05:48:55](https://news.ycombinator.com/item?id=40959121) - [The six dumbest ideas in computer security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
-* [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware update hides a device’s Bluetooth fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
