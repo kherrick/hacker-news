@@ -53,6 +53,7 @@
 * [2024-07-10, 15:38:55](https://news.ycombinator.com/item?id=40928139) - [Imagining spacetime as a visible grid [video]](https://aeon.co/videos/imagining-spacetime-as-a-visible-grid-is-an-extraordinary-journey-into-the-unseen)
 * [2024-07-10, 15:27:29](https://news.ycombinator.com/item?id=40927997) - [Time, Partitioning, and Synchronization](https://www.alexahn.com/2024/07/time-partitioning-and-synchronization.html)
 * [2024-07-10, 15:25:06](https://news.ycombinator.com/item?id=40927970) - [Reading my electric meter with RTLSDR](https://pdx.su/blog/2024-03-17-reading-my-electric-meter-with-rtlsdr/)
+* [2024-07-10, 15:15:52](https://news.ycombinator.com/item?id=40927845) - [The Laboratory for Extraordinary Microbes](https://press.asimov.com/articles/cultivarium)
 * [2024-07-10, 14:58:33](https://news.ycombinator.com/item?id=40927644) - [How to organize large Rust codebases](https://kerkour.com/rust-how-to-organize-large-workspaces)
 * [2024-07-10, 14:47:31](https://news.ycombinator.com/item?id=40927517) - [Daily Usenet Feed Size Hits 300TB](https://www.newsdemon.com/usenet-newsgroup-feed-size)
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan Reflects on \"The Practice of Programming\" [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
