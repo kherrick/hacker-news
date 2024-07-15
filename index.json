@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-07-15, 19:17:08",
-      "https://news.ycombinator.com/item?id=40970672"
+      "2024-07-15, 19:12:13",
+      "https://news.ycombinator.com/item?id=40970621"
     ],
     [
-      "Platforms Have First Amendment Right to Curate Speech",
-      "https://www.eff.org/deeplinks/2024/07/platforms-have-first-amendment-right-curate-speech-weve-long-argued-supreme-1"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 19:06:12",
-      "https://news.ycombinator.com/item?id=40970572"
-    ],
-    [
-      "Show HN: I scraped 3.2B TikTok profiles and 9B posts to build this search engine",
-      "https://app.seeksocial.io"
+      "The Open Collaboration Tools",
+      "https://www.typefox.io/blog/open-collaboration-tools-announcement/"
     ]
   ],
   [
@@ -41,12 +31,12 @@
   ],
   [
     [
-      "2024-07-15, 18:51:45",
-      "https://news.ycombinator.com/item?id=40970420"
+      "2024-07-15, 18:30:05",
+      "https://news.ycombinator.com/item?id=40970261"
     ],
     [
-      "PyTorch Lightning: A Comprehensive Hands-On Tutorial",
-      "https://www.datacamp.com/tutorial/pytorch-lightning-tutorial"
+      "Quartz: A Deterministic Time Testing Library for Go",
+      "https://coder.com/blog/introducing-quartz"
     ]
   ],
   [
@@ -57,16 +47,6 @@
     [
       "Immunotherapy Is Changing Cancer Treatment Forever",
       "https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 17:00:53",
-      "https://news.ycombinator.com/item?id=40969574"
-    ],
-    [
-      "Tech, Crunched: How the go-to site for startup news lost its way",
-      "https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site"
     ]
   ],
   [
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2024-07-15, 08:43:31",
+      "https://news.ycombinator.com/item?id=40966198"
+    ],
+    [
+      "WhatWeb: Next Generation Web Scanner (2021)",
+      "https://github.com/urbanadventurer/WhatWeb"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 07:10:32",
       "https://news.ycombinator.com/item?id=40965835"
     ],
@@ -237,6 +227,16 @@
     [
       "Fitting an elephant with four non-zero parameters",
       "https://arxiv.org/abs/2407.07909"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 12:20:30",
+      "https://news.ycombinator.com/item?id=40960508"
+    ],
+    [
+      "Show HN: I built a Jeopardy game maker with buzzer support",
+      "https://buzzinga.io/"
     ]
   ],
   [
