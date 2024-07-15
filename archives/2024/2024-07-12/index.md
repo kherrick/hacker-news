@@ -98,6 +98,7 @@
 * [2024-07-12, 08:19:25](https://news.ycombinator.com/item?id=40943607) - [Open-Source No-Code Tools with the Most GitHub Stars](https://www.nocobase.com/en/blog/the-top-12-open-source-no-code-tools-with-the-most-github-stars)
 * [2024-07-12, 07:48:20](https://news.ycombinator.com/item?id=40943470) - [Some thoughts on the web. On web engines, content, and web rent (2023)](https://liberda.nl/weblog/javascript-was-a-mistake/)
 * [2024-07-12, 07:46:10](https://news.ycombinator.com/item?id=40943460) - [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
+* [2024-07-12, 07:41:21](https://news.ycombinator.com/item?id=40943437) - [Pi calculation world record with over 202T digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
 * [2024-07-12, 07:41:16](https://news.ycombinator.com/item?id=40943436) - [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
 * [2024-07-12, 07:18:12](https://news.ycombinator.com/item?id=40943343) - [Ask HN: Freelancer's Dilemma – Client Won't Pay Despite Clear Agreement](https://news.ycombinator.com/item?id=40943343)
 * [2024-07-12, 06:54:19](https://news.ycombinator.com/item?id=40943253) - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
