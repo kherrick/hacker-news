@@ -7,6 +7,7 @@
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 09:10:56](https://news.ycombinator.com/item?id=40966312) - [Firefox 128 enables \"privacy-preserving\" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
 * [2024-07-15, 07:25:38](https://news.ycombinator.com/item?id=40965892) - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
+* [2024-07-15, 07:10:32](https://news.ycombinator.com/item?id=40965835) - [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points](https://arxiv.org/abs/1111.5264)
 * [2024-07-15, 04:47:22](https://news.ycombinator.com/item?id=40965338) - [The Rabbit R1 has been logging users' chats – with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update)
 * [2024-07-15, 03:24:15](https://news.ycombinator.com/item?id=40965031) - [PCSX2 2.0 Released](https://pcsx2.net/blog/2024/pcsx2-2-release/#all-aboard-the-compression-train)
 * [2024-07-15, 02:55:00](https://news.ycombinator.com/item?id=40964924) - [The Fascinating and Complicated Sex Lives of White-Throated Sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
