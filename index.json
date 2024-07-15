@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-07-15, 15:06:29",
+      "https://news.ycombinator.com/item?id=40968520"
+    ],
+    [
+      "HTML Tags Memory Test",
+      "https://codepen.io/plfstr/full/zYqQeRw"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 14:42:14",
+      "https://news.ycombinator.com/item?id=40968298"
+    ],
+    [
+      "Linksys Velop Routers Caught Sending WiFi Creds in the Clear",
+      "https://hackaday.com/2024/07/15/linksys-velop-routers-caught-sending-wifi-creds-in-the-clear/"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 14:36:44",
       "https://news.ycombinator.com/item?id=40968245"
     ],
     [
       "Creature that washed up on New Zealand beach may be rarest whale",
       "https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 14:32:04",
+      "https://news.ycombinator.com/item?id=40968212"
+    ],
+    [
+      "Logseq – adding settings for self-hosted sync",
+      "https://github.com/logseq/logseq/discussions/10733"
     ]
   ],
   [
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40964683"
     ],
     [
-      "Virginia Woolf's list-making paved the way for her literary experiments",
+      "Virginia Woolf's list-making",
       "https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761"
     ]
   ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-07-14, 14:56:14",
-      "https://news.ycombinator.com/item?id=40961316"
-    ],
-    [
-      "On Building Systems That Will Fail (1991)",
-      "http://larch-www.lcs.mit.edu:8001/~corbato/turing91/"
-    ]
-  ],
-  [
-    [
       "2024-07-14, 14:27:46",
       "https://news.ycombinator.com/item?id=40961163"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-07-14, 09:02:15",
-      "https://news.ycombinator.com/item?id=40959787"
-    ],
-    [
-      "Building and scaling Notion's data lake",
-      "https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake"
-    ]
-  ],
-  [
-    [
       "2024-07-14, 08:46:40",
       "https://news.ycombinator.com/item?id=40959742"
     ],
     [
       "Writing a BIOS bootloader for 64-bit mode from scratch",
       "https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 05:48:55",
-      "https://news.ycombinator.com/item?id=40959121"
-    ],
-    [
-      "The six dumbest ideas in computer security (2005)",
-      "http://www.ranum.com/security/computer_security/editorials/dumb/"
     ]
   ],
   [
