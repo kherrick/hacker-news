@@ -26,9 +26,9 @@
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
 * [2024-07-12, 13:00:11](https://news.ycombinator.com/item?id=40945143) - [Clouds in Video Games](https://www.eurogamer.net/the-beauty-and-drama-of-video-games-and-their-clouds)
 * [2024-07-12, 09:04:11](https://news.ycombinator.com/item?id=40943891) - [Mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
+* [2024-07-12, 07:41:21](https://news.ycombinator.com/item?id=40943437) - [Pi calculation world record with over 202T digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
 * [2024-07-11, 14:34:20](https://news.ycombinator.com/item?id=40937260) - [General Theory of Neural Networks](https://robleclerc.substack.com/p/general-theory-of-neural-networks)
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
-* [2024-07-10, 15:15:52](https://news.ycombinator.com/item?id=40927845) - [The Laboratory for Extraordinary Microbes](https://press.asimov.com/articles/cultivarium)
 * [2024-07-09, 22:20:45](https://news.ycombinator.com/item?id=40921869) - [\"Nik\": The Mesoamerican Representation of Zero (2021)](https://baas.aas.org/pub/2021n1i336p03/release/2)
 
 ## [Archives](archives/index.md)
