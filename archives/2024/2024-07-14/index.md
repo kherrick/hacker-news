@@ -6,6 +6,7 @@
 
 * [2024-07-14, 22:20:27](https://news.ycombinator.com/item?id=40963623) - [New large value estimates for Dirichlet polynomials](https://arxiv.org/abs/2405.20552)
 * [2024-07-14, 22:20:16](https://news.ycombinator.com/item?id=40963622) - [Ash HN: What are some good resources on building a relational database?](https://news.ycombinator.com/item?id=40963622)
+* [2024-07-14, 22:18:13](https://news.ycombinator.com/item?id=40963612) - [Ask HN: How do you go about finding a job?](https://news.ycombinator.com/item?id=40963612)
 * [2024-07-14, 21:45:55](https://news.ycombinator.com/item?id=40963427) - [Working with stacked branches in Git is easier with –update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-07-14, 21:39:24](https://news.ycombinator.com/item?id=40963384) - [Wine 9.13 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.13)
 * [2024-07-14, 21:20:28](https://news.ycombinator.com/item?id=40963282) - [Grind – An epic first person shooter for Amiga 500 gets another playable tease](https://www.indieretronews.com/2024/07/grind-epic-first-person-shooter-for.html)
