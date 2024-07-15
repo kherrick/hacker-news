@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 04:47:22](https://news.ycombinator.com/item?id=40965338) - [The Rabbit R1 has been logging users' chats – with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update)
 * [2024-07-15, 03:24:15](https://news.ycombinator.com/item?id=40965031) - [PCSX2 2.0 Released](https://pcsx2.net/blog/2024/pcsx2-2-release/#all-aboard-the-compression-train)
 * [2024-07-15, 02:41:42](https://news.ycombinator.com/item?id=40964877) - [Nanorobot with hidden weapon kills cancer cells](https://news.ki.se/nanorobot-with-hidden-weapon-kills-cancer-cells)
 * [2024-07-15, 02:38:04](https://news.ycombinator.com/item?id=40964861) - [Human history in the long run: It was mostly pretty bad](https://www.slowboring.com/p/human-history-in-the-very-long-run-1d4)
