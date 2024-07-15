@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, Unmodified, on AMD GPUs](https://docs.scale-lang.com/)
+* [2024-07-15, 18:58:15](https://news.ycombinator.com/item?id=40970496) - [Show HN: Projects from the Wolfram Summer Research Program](https://www.wolframcloud.com/obj/microsites/summer-research-high-school/projects.html)
 * [2024-07-15, 18:51:45](https://news.ycombinator.com/item?id=40970420) - [PyTorch Lightning: A Comprehensive Hands-On Tutorial](https://www.datacamp.com/tutorial/pytorch-lightning-tutorial)
 * [2024-07-15, 17:48:23](https://news.ycombinator.com/item?id=40969960) - [A Video Interview with Mike Clark, Chief Architect of Zen at AMD](https://chipsandcheese.com/2024/07/15/a-video-interview-with-mike-clark-chief-architect-of-zen-at-amd/)
 * [2024-07-15, 17:44:24](https://news.ycombinator.com/item?id=40969925) - [Show HN: Hacker News homepage with links to comments ordered by most recent](https://observablehq.com/@simonw/hacker-news-homepage)
