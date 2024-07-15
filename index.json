@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-07-15, 13:21:11",
+      "https://news.ycombinator.com/item?id=40967664"
+    ],
+    [
+      "Cosmic Simulation Reveals How Black Holes Grow and Evolve",
+      "https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 12:58:36",
       "https://news.ycombinator.com/item?id=40967472"
     ],
     [
       "Show HN: Learn a new language by speaking with AI",
       "https://fluent.im/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 12:40:56",
-      "https://news.ycombinator.com/item?id=40967334"
-    ],
-    [
-      "WebCrawler – search engine operating for 30 years",
-      "https://en.wikipedia.org/wiki/WebCrawler"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Rust for Filesystems",
       "https://lwn.net/Articles/978738/"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 08:43:31",
+      "https://news.ycombinator.com/item?id=40966198"
+    ],
+    [
+      "WhatWeb: Next Generation Web Scanner (2021)",
+      "https://github.com/urbanadventurer/WhatWeb"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Writing a BIOS bootloader for 64-bit mode from scratch",
       "https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 07:53:37",
-      "https://news.ycombinator.com/item?id=40959526"
-    ],
-    [
-      "Git-PR: patch requests over SSH",
-      "https://pr.pico.sh/"
     ]
   ],
   [
