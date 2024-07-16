@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-16, 21:18:45",
-      "https://news.ycombinator.com/item?id=40980429"
-    ],
-    [
-      "Tunnel found in Tijuana is so long authorities need oxygen tanks",
-      "https://www.latintimes.com/suspected-drug-smuggling-found-tijuana-so-long-authorities-dont-have-enough-oxygen-reach-other-556354"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 21:00:55",
       "https://news.ycombinator.com/item?id=40980289"
     ],
@@ -27,6 +17,16 @@
     [
       "The VR Winter Continues",
       "https://www.ben-evans.com/benedictevans/2024/7/8/the-vr-winter-continues"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 19:50:20",
+      "https://news.ycombinator.com/item?id=40979684"
+    ],
+    [
+      "Convex Architecture Handbook 1984 [pdf]",
+      "http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-07-16, 11:25:06",
-      "https://news.ycombinator.com/item?id=40975509"
-    ],
-    [
-      "Godotcaml for Godot 4.2",
-      "https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 10:49:27",
       "https://news.ycombinator.com/item?id=40975289"
     ],
@@ -287,6 +277,16 @@
     [
       "Fitting an Elephant with Four Non-Zero Parameters",
       "https://arxiv.org/abs/2407.07909"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 19:50:48",
+      "https://news.ycombinator.com/item?id=40939964"
+    ],
+    [
+      "Run Functions in Another Stack with Zig",
+      "https://teiolass.gitlab.io/posts/zig_stack/"
     ]
   ],
   [
