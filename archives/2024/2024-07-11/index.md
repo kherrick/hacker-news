@@ -32,6 +32,7 @@
 * [2024-07-11, 20:07:40](https://news.ycombinator.com/item?id=40940158) - [Ask HN: Trouble learning things I view as solutions looking for a problem](https://news.ycombinator.com/item?id=40940158)
 * [2024-07-11, 19:21:47](https://news.ycombinator.com/item?id=40939707) - [Karpathy: Let's reproduce GPT-2 (1.6B): one 8XH100 node 24h $672 in llm.c](https://github.com/karpathy/llm.c/discussions/677)
 * [2024-07-11, 19:21:08](https://news.ycombinator.com/item?id=40939703) - [Charm creates a potent therapy candidate for fatal prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
+* [2024-07-11, 19:15:21](https://news.ycombinator.com/item?id=40939660) - [Video Ethnography of \"Icarus \" on the Xerox Alto [video] (2017)](https://www.youtube.com/watch?v=BauuOoB6EIU)
 * [2024-07-11, 19:12:20](https://news.ycombinator.com/item?id=40939627) - [Apple Vision Pro U.S. Sales Are All but Dead, Market Analysts Say](https://gizmodo.com/apple-vision-pro-u-s-sales-2000469302)
 * [2024-07-11, 19:10:00](https://news.ycombinator.com/item?id=40939607) - [The Old Bailey with Britain's last court reporters](https://www.theguardian.com/news/article/2024/jul/11/old-bailey-dying-art-court-reporter-justice)
 * [2024-07-11, 19:05:13](https://news.ycombinator.com/item?id=40939561) - [Physicists: Tachyons can be reconciled with the special theory of relativity](https://phys.org/news/2024-07-physicists-tachyons-special-theory.html)

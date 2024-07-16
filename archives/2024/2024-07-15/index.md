@@ -42,6 +42,7 @@
 * [2024-07-15, 17:44:24](https://news.ycombinator.com/item?id=40969925) - [Show HN: Hacker News homepage with links to comments ordered by most recent](https://observablehq.com/@simonw/hacker-news-homepage)
 * [2024-07-15, 17:41:54](https://news.ycombinator.com/item?id=40969901) - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
 * [2024-07-15, 17:30:40](https://news.ycombinator.com/item?id=40969808) - [Seiko Originals: The UC-2000, A Smartwatch from 1984](https://www.namokimods.com/en-ca/blogs/namokitimes/seiko-originals-the-uc-2000-a-smartwatch-from-1984)
+* [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-15, 17:00:53](https://news.ycombinator.com/item?id=40969574) - [Tech, Crunched: How the go-to site for startup news lost its way](https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site)
 * [2024-07-15, 17:00:14](https://news.ycombinator.com/item?id=40969564) - [K-Scale Labs (YC W24) Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
 * [2024-07-15, 16:50:11](https://news.ycombinator.com/item?id=40969471) - [Undergraduate Texts in Mathematical Comics – A Tour of Complex Analysis](https://sites.google.com/uic.edu/juliusross/activities/mathematical-comics)

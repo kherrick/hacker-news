@@ -21,15 +21,15 @@
 * [2024-07-16, 07:22:45](https://news.ycombinator.com/item?id=40974298) - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
 * [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
 * [2024-07-16, 02:55:11](https://news.ycombinator.com/item?id=40973339) - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
-* [2024-07-16, 00:12:23](https://news.ycombinator.com/item?id=40972589) - [The Second Law of Thermodynamics (2011)](https://franklambert.net/secondlaw.com/)
 * [2024-07-15, 23:39:34](https://news.ycombinator.com/item?id=40972437) - [The Delusion of the Polygraph](https://lithub.com/what-the-all-american-delusion-of-the-polygraph-says-about-our-relationship-to-fact-and-fiction/)
 * [2024-07-15, 22:45:36](https://news.ycombinator.com/item?id=40972122) - [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
-* [2024-07-15, 22:41:50](https://news.ycombinator.com/item?id=40972099) - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
 * [2024-07-15, 20:03:53](https://news.ycombinator.com/item?id=40971025) - [Automated Test-Case Reduction](https://www.cs.cornell.edu/~asampson/blog/autoreduction.html)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
+* [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
 * [2024-07-13, 04:06:03](https://news.ycombinator.com/item?id=40951693) - [Java's Megalithic Mountain](https://archaeology.org/issues/july-august-2024/features/javas-megalithic-mountain/)
 * [2024-07-12, 04:35:42](https://news.ycombinator.com/item?id=40942754) - [Intuition](https://lmnt.me/blog/intuition.html)
+* [2024-07-11, 19:15:21](https://news.ycombinator.com/item?id=40939660) - [Video Ethnography of \"Icarus \" on the Xerox Alto [video] (2017)](https://www.youtube.com/watch?v=BauuOoB6EIU)
 
 ## [Archives](archives/index.md)
 
