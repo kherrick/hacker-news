@@ -20,7 +20,6 @@
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 18:30:05](https://news.ycombinator.com/item?id=40970261) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
-* [2024-07-15, 17:41:54](https://news.ycombinator.com/item?id=40969901) - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
 * [2024-07-15, 17:30:40](https://news.ycombinator.com/item?id=40969808) - [Seiko Originals: The UC-2000, A Smartwatch from 1984](https://www.namokimods.com/en-ca/blogs/namokitimes/seiko-originals-the-uc-2000-a-smartwatch-from-1984)
 * [2024-07-15, 16:33:15](https://news.ycombinator.com/item?id=40969312) - [Tlsd: Generate (message) sequence diagrams from TLA+ state traces](https://github.com/eras/tlsd)
 * [2024-07-15, 15:25:53](https://news.ycombinator.com/item?id=40968689) - [Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
@@ -30,6 +29,7 @@
 * [2024-07-12, 15:43:44](https://news.ycombinator.com/item?id=40946613) - [Ask HN: Any tools to do generic WiFi imaging?](https://news.ycombinator.com/item?id=40946613)
 * [2024-07-12, 12:50:02](https://news.ycombinator.com/item?id=40945054) - [How to mail an SD card with gummy glue](https://flyingcarcomputer.com/posts/mail-sd-card-with-gummy-glue/)
 * [2024-07-11, 15:07:11](https://news.ycombinator.com/item?id=40937554) - [It All Started with a nop](https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/)
+* [2024-07-11, 02:35:49](https://news.ycombinator.com/item?id=40933250) - [Some Tricks from the Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
 
 ## [Archives](archives/index.md)
 
