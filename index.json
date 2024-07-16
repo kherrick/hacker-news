@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-16, 14:42:03",
-      "https://news.ycombinator.com/item?id=40977080"
-    ],
-    [
-      "Golang disables Nagle's algorithm, making it evil on shitty networks",
-      "https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 14:13:24",
       "https://news.ycombinator.com/item?id=40976827"
     ],
@@ -157,6 +147,16 @@
     [
       "KUtrace: Low-overhead Linux kernel tracing facility",
       "https://github.com/dicksites/KUtrace"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 21:20:39",
+      "https://news.ycombinator.com/item?id=40971553"
+    ],
+    [
+      "The Mafia of Pharma Pricing",
+      "https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing"
     ]
   ],
   [
