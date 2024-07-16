@@ -16,7 +16,6 @@
 * [2024-07-15, 22:47:23](https://news.ycombinator.com/item?id=40972130) - [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
 * [2024-07-15, 22:45:36](https://news.ycombinator.com/item?id=40972122) - [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
 * [2024-07-15, 22:41:50](https://news.ycombinator.com/item?id=40972099) - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
-* [2024-07-15, 21:20:39](https://news.ycombinator.com/item?id=40971553) - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
@@ -28,6 +27,7 @@
 * [2024-07-13, 08:37:51](https://news.ycombinator.com/item?id=40952665) - [Analog GPS: Scrolling Wrist and Car-Mounted Maps of the Roaring 20s and 30s](https://99percentinvisible.org/article/analog-gps-scrolling-wrist-car-mounted-maps-roaring-20s-30s/)
 * [2024-07-12, 15:43:44](https://news.ycombinator.com/item?id=40946613) - [Ask HN: Any tools to do generic WiFi imaging?](https://news.ycombinator.com/item?id=40946613)
 * [2024-07-12, 12:50:02](https://news.ycombinator.com/item?id=40945054) - [How to mail an SD card with gummy glue](https://flyingcarcomputer.com/posts/mail-sd-card-with-gummy-glue/)
+* [2024-07-11, 22:48:33](https://news.ycombinator.com/item?id=40941290) - [Audio Induction Loop](https://en.wikipedia.org/wiki/Audio_induction_loop)
 * [2024-07-11, 15:07:11](https://news.ycombinator.com/item?id=40937554) - [It All Started with a nop](https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/)
 * [2024-07-11, 02:35:49](https://news.ycombinator.com/item?id=40933250) - [Some Tricks from the Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
 
