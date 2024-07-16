@@ -48,6 +48,7 @@
 * [2024-07-10, 16:17:27](https://news.ycombinator.com/item?id=40928503) - [The President Ordered Board to Probe Massive Russian Cyberattack. It Never Did](https://www.propublica.org/article/cyber-safety-board-never-investigated-solarwinds-breach-microsoft)
 * [2024-07-10, 16:14:24](https://news.ycombinator.com/item?id=40928469) - [TUAW Returns as a Gross, Zombie AI-Generated Garbage Site](https://sixcolors.com/link/2024/07/tuaw-returns-as-a-gross-zombie-ai-generated-garbage-site/)
 * [2024-07-10, 16:11:50](https://news.ycombinator.com/item?id=40928450) - [Co-Dfns v5.7.0](https://github.com/Co-dfns/Co-dfns/releases/tag/v5.7.0)
+* [2024-07-10, 16:05:46](https://news.ycombinator.com/item?id=40928390) - [Implementing a Single-Threaded Blocking Bare Bones TCP/IP Server](https://shivangsnewsletter.com/p/distributed-programming-part-2)
 * [2024-07-10, 15:56:23](https://news.ycombinator.com/item?id=40928290) - [Copenhagen rewards tourists for climate friendly actions](https://www.visitcopenhagen.com/copenpay)
 * [2024-07-10, 15:39:25](https://news.ycombinator.com/item?id=40928145) - [Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
 * [2024-07-10, 15:38:55](https://news.ycombinator.com/item?id=40928139) - [Imagining spacetime as a visible grid [video]](https://aeon.co/videos/imagining-spacetime-as-a-visible-grid-is-an-extraordinary-journey-into-the-unseen)
