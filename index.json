@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-16, 18:19:11",
+      "https://news.ycombinator.com/item?id=40978919"
+    ],
+    [
+      "Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)",
+      "https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 18:01:34",
+      "https://news.ycombinator.com/item?id=40978770"
+    ],
+    [
+      "Schrödinger's cat among biology's pigeons: 75 years of What Is Life?",
+      "https://www.nature.com/articles/d41586-018-06034-8"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 17:57:35",
+      "https://news.ycombinator.com/item?id=40978731"
+    ],
+    [
+      "I am starting an AI+Education company",
+      "https://twitter.com/karpathy/status/1813263734707790301"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 17:27:51",
       "https://news.ycombinator.com/item?id=40978482"
     ],
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2024-07-16, 17:00:54",
-      "https://news.ycombinator.com/item?id=40978250"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 16:23:10",
       "https://news.ycombinator.com/item?id=40977945"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2024-07-16, 15:52:39",
-      "https://news.ycombinator.com/item?id=40977666"
+      "2024-07-16, 16:09:29",
+      "https://news.ycombinator.com/item?id=40977834"
     ],
     [
-      "My pet theory of how great software gets started",
-      "https://hiandrewquinn.github.io/til-site/posts/my-pet-theory-of-how-great-software-gets-started/"
+      "Deconstructing the Role-Playing Video Game",
+      "https://olano.dev/blog/deconstructing-the-role-playing-videogame/"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Making Elizabethan plays understandable and fun to read",
       "http://elizabethandrama.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 15:09:00",
+      "https://news.ycombinator.com/item?id=40977308"
+    ],
+    [
+      "Devs need system design tools, not diagramming tools",
+      "https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-07-15, 20:34:12",
-      "https://news.ycombinator.com/item?id=40971257"
-    ],
-    [
-      "Amiga 2000 – Codename: Tesseract (2021)",
-      "https://retrohax.net/amiga-2000-codename-tesseract/"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 20:03:53",
       "https://news.ycombinator.com/item?id=40971025"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-07-15, 15:04:05",
-      "https://news.ycombinator.com/item?id=40968493"
-    ],
-    [
-      "The rise of the camera launched a fight to protect Gilded Age privacy",
-      "https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/"
-    ]
-  ],
-  [
-    [
       "2024-07-13, 21:40:28",
       "https://news.ycombinator.com/item?id=40957113"
     ],
@@ -287,16 +297,6 @@
     [
       "Java's Megalithic Mountain",
       "https://archaeology.org/issues/july-august-2024/features/javas-megalithic-mountain/"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 15:07:11",
-      "https://news.ycombinator.com/item?id=40937554"
-    ],
-    [
-      "It All Started with a nop",
-      "https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/"
     ]
   ]
 ]
