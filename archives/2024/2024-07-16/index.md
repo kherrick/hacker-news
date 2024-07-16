@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 17:00:54](https://news.ycombinator.com/item?id=40978250) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-07-16, 16:56:28](https://news.ycombinator.com/item?id=40978215) - [Simplicity/Acc: Why We Must End Human Programming Jobs](https://engineeringideas.substack.com/p/simplicityacc-why-we-must-end-human)
 * [2024-07-16, 16:45:11](https://news.ycombinator.com/item?id=40978132) - [Surprise, your data warehouse can RAG](https://www.rainforestqa.com/blog/data-warehouse-can-rag)
+* [2024-07-16, 16:38:07](https://news.ycombinator.com/item?id=40978073) - [Stop Microsoft users sending 'reactions' to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
+* [2024-07-16, 16:23:10](https://news.ycombinator.com/item?id=40977945) - [Private Browsing 2.0](https://webkit.org/blog/15697/private-browsing-2-0/)
 * [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan Plays Understandable and Fun to Read](http://elizabethandrama.org/)
 * [2024-07-16, 15:19:54](https://news.ycombinator.com/item?id=40977385) - [How AI Is Enhancing, Not Replacing, Human Expertise in Creative Fields](https://blog.scottynordstrom.org/embracing-the-future-how-ai-is-revolutionizing-industries-without-eliminating-expertise/)
+* [2024-07-16, 15:12:13](https://news.ycombinator.com/item?id=40977331) - [Decriminalizing Homosexuality: A Global Overview Since the 18th Century (2022)](https://hal.science/hal-03778162v1/document)
 * [2024-07-16, 15:06:48](https://news.ycombinator.com/item?id=40977293) - [Timezone-naive datetimes are one of the most dangerous objects in Python](https://nerderati.com/a-python-epoch-timestamp-timezone-trap/)
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
 * [2024-07-16, 14:42:03](https://news.ycombinator.com/item?id=40977080) - [Golang disables Nagle's algorithm, making it evil on shitty networks](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
