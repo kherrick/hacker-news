@@ -1,31 +1,11 @@
 [
   [
     [
-      "2024-07-16, 12:23:54",
-      "https://news.ycombinator.com/item?id=40975855"
-    ],
-    [
-      "Math is running out of problems",
-      "https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 12:12:42",
-      "https://news.ycombinator.com/item?id=40975797"
-    ],
-    [
-      "UK has almost 1M EV chargers, with new public one installed every 25 minutes",
-      "https://www.theguardian.com/business/article/2024/jul/15/electric-vehicle-ev-chargers-uk-installations"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 10:35:56",
       "https://news.ycombinator.com/item?id=40975214"
     ],
     [
-      "PS-HTTPD: a web server written in PostScript",
+      "PS-HTTPD: A web server written in PostScript",
       "https://www.pugo.org/projects/pshttpd/"
     ]
   ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-07-15, 16:33:15",
+      "https://news.ycombinator.com/item?id=40969312"
+    ],
+    [
+      "Tlsd: Generate (message) sequence diagrams from TLA+ state traces",
+      "https://github.com/eras/tlsd"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 15:25:53",
       "https://news.ycombinator.com/item?id=40968689"
     ],
@@ -247,6 +237,16 @@
     [
       "The rise of the camera launched a fight to protect Gilded Age privacy",
       "https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 18:11:33",
+      "https://news.ycombinator.com/item?id=40962362"
+    ],
+    [
+      "Soviet Calculator History (1998)",
+      "https://xnumber.com/xnumber/russian_calcs.htm"
     ]
   ],
   [
