@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-16, 07:34:48](https://news.ycombinator.com/item?id=40974343) - [I Hope Rust Does Not Oxidize Everything](https://gavinhoward.com/2024/07/why-i-hope-rust-does-not-oxidize-everything/)
 * [2024-07-16, 07:01:06](https://news.ycombinator.com/item?id=40974193) - [The Engineer's Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
 * [2024-07-16, 06:41:50](https://news.ycombinator.com/item?id=40974112) - [For advertising: Firefox now collects user data by default](https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html)
 * [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
@@ -17,7 +18,6 @@
 * [2024-07-15, 22:41:50](https://news.ycombinator.com/item?id=40972099) - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
 * [2024-07-15, 21:20:39](https://news.ycombinator.com/item?id=40971553) - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
-* [2024-07-15, 19:25:30](https://news.ycombinator.com/item?id=40970739) - [Leap – Chemistry Through a Computational Lens](https://ambermd.org/tutorials/pengfei/index.php)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 18:30:05](https://news.ycombinator.com/item?id=40970261) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
