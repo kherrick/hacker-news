@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 05:20:56](https://news.ycombinator.com/item?id=40973828) - [Evan Wright, 'Generation Kill' Author and Rolling Stone Contributor, Dead at 59](https://www.rollingstone.com/culture/culture-news/evan-wright-generation-kill-rolling-stone-dead-obit-1235060077/)
 * [2024-07-16, 03:58:58](https://news.ycombinator.com/item?id=40973565) - [BOA27: An open source, open hardware, leafleting, smart balloon](https://github.com/aogposton/BOA27)
 * [2024-07-16, 03:17:23](https://news.ycombinator.com/item?id=40973422) - [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, dies aged 86](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 * [2024-07-16, 03:10:43](https://news.ycombinator.com/item?id=40973393) - [She Made $10/ Month Defrauding Apps Like Uber](https://www.wired.com/story/priscila-queen-of-the-rideshare-mafia/)
