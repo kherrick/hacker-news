@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-16, 17:19:01](https://news.ycombinator.com/item?id=40978398) - [U.S. now short 4.5M homes as housing deficit grows](https://zillow.mediaroom.com/2024-06-18-The-U-S-is-now-short-4-5-million-homes-as-the-housing-deficit-grows)
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
-* [2024-07-16, 17:12:40](https://news.ycombinator.com/item?id=40978356) - [Taboola to Sell Ads for Apple](https://www.axios.com/2024/07/16/taboola-apple-news-deal)
 * [2024-07-16, 17:00:54](https://news.ycombinator.com/item?id=40978250) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-07-16, 16:23:10](https://news.ycombinator.com/item?id=40977945) - [Private Browsing 2.0](https://webkit.org/blog/15697/private-browsing-2-0/)
 * [2024-07-16, 15:52:39](https://news.ycombinator.com/item?id=40977666) - [My pet theory of how great software gets started](https://hiandrewquinn.github.io/til-site/posts/my-pet-theory-of-how-great-software-gets-started/)
@@ -22,12 +20,14 @@
 * [2024-07-15, 22:47:23](https://news.ycombinator.com/item?id=40972130) - [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
 * [2024-07-15, 22:45:36](https://news.ycombinator.com/item?id=40972122) - [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
 * [2024-07-15, 22:41:50](https://news.ycombinator.com/item?id=40972099) - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
+* [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
 * [2024-07-15, 20:03:53](https://news.ycombinator.com/item?id=40971025) - [Automated Test-Case Reduction](https://www.cs.cornell.edu/~asampson/blog/autoreduction.html)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 17:30:40](https://news.ycombinator.com/item?id=40969808) - [Seiko Originals: The UC-2000, A Smartwatch from 1984](https://www.namokimods.com/en-ca/blogs/namokitimes/seiko-originals-the-uc-2000-a-smartwatch-from-1984)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [The rise of the camera launched a fight to protect Gilded Age privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
+* [2024-07-13, 08:37:51](https://news.ycombinator.com/item?id=40952665) - [Analog GPS: Scrolling Wrist and Car-Mounted Maps of the 20s and 30s (2016)](https://99percentinvisible.org/article/analog-gps-scrolling-wrist-car-mounted-maps-roaring-20s-30s/)
 * [2024-07-13, 04:06:03](https://news.ycombinator.com/item?id=40951693) - [Java's Megalithic Mountain](https://archaeology.org/issues/july-august-2024/features/javas-megalithic-mountain/)
 * [2024-07-11, 15:07:11](https://news.ycombinator.com/item?id=40937554) - [It All Started with a nop](https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/)
 
