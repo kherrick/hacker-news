@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 21:00:55](https://news.ycombinator.com/item?id=40980289) - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
+* [2024-07-16, 19:47:33](https://news.ycombinator.com/item?id=40979654) - [Framasoft – French non-profit making cloud OSS](https://framasoft.org/en/)
+* [2024-07-16, 19:38:02](https://news.ycombinator.com/item?id=40979575) - [Show HN: Contacts: A Microlang for Managing Contacts](https://scroll.pub/blog/contacts.html)
 * [2024-07-16, 19:33:34](https://news.ycombinator.com/item?id=40979539) - [After 12 Years of Reviewing Restaurants, I'm Leaving the Table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
 * [2024-07-16, 19:17:16](https://news.ycombinator.com/item?id=40979392) - [Craig Wright's claim of inventing Bitcoin may get him arrested for perjury](https://arstechnica.com/tech-policy/2024/07/craig-wrights-claim-of-inventing-bitcoin-may-get-him-arrested-for-perjury/)
 * [2024-07-16, 19:04:56](https://news.ycombinator.com/item?id=40979293) - [Data brokers sell our location data and jeopardise national security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security/)
