@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 16:45:11](https://news.ycombinator.com/item?id=40978132) - [Surprise, your data warehouse can RAG](https://www.rainforestqa.com/blog/data-warehouse-can-rag)
 * [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan Plays Understandable and Fun to Read](http://elizabethandrama.org/)
 * [2024-07-16, 15:19:54](https://news.ycombinator.com/item?id=40977385) - [How AI Is Enhancing, Not Replacing, Human Expertise in Creative Fields](https://blog.scottynordstrom.org/embracing-the-future-how-ai-is-revolutionizing-industries-without-eliminating-expertise/)
 * [2024-07-16, 15:06:48](https://news.ycombinator.com/item?id=40977293) - [Timezone-naive datetimes are one of the most dangerous objects in Python](https://nerderati.com/a-python-epoch-timestamp-timezone-trap/)
