@@ -96,6 +96,7 @@
 * [2024-07-11, 04:49:10](https://news.ycombinator.com/item?id=40933756) - [The Future of Trash [pdf]](https://dsny.cityofnewyork.us/wp-content/uploads/reports/future-of-trash-april-2023.pdf)
 * [2024-07-11, 03:38:23](https://news.ycombinator.com/item?id=40933477) - [Night owls' cognitive function 'superior' to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
 * [2024-07-11, 03:30:18](https://news.ycombinator.com/item?id=40933434) - [Brian Lunduke: \"macOS Sucks\" [video]](https://www.youtube.com/watch?v=3uGeHdNMgL8)
+* [2024-07-11, 03:24:01](https://news.ycombinator.com/item?id=40933402) - [Show HN: Draggable tier list / Kanban board](https://pagesword.com/tier-list/sandbox)
 * [2024-07-11, 03:17:22](https://news.ycombinator.com/item?id=40933374) - [I Was An MIT Educated Neurosurgeon Now I'm Unemployed and alone in the mountains](https://www.youtube.com/watch?v=25LUF8GmbFU)
 * [2024-07-11, 03:05:35](https://news.ycombinator.com/item?id=40933336) - [Show HN: Upload your PDF and get a shareable link](https://doc2.link)
 * [2024-07-11, 02:35:49](https://news.ycombinator.com/item?id=40933250) - [Some Tricks from the Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
