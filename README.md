@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-16, 05:59:04](https://news.ycombinator.com/item?id=40973952) - [Commodore 64 Fitness Watch (2022)](https://www.hackster.io/nickbild/c64-fitness-watch-f4c902)
 * [2024-07-16, 03:17:23](https://news.ycombinator.com/item?id=40973422) - [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 * [2024-07-16, 02:55:11](https://news.ycombinator.com/item?id=40973339) - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
 * [2024-07-16, 02:03:03](https://news.ycombinator.com/item?id=40973123) - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
@@ -20,7 +21,6 @@
 * [2024-07-15, 18:30:05](https://news.ycombinator.com/item?id=40970261) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 * [2024-07-15, 17:41:54](https://news.ycombinator.com/item?id=40969901) - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
 * [2024-07-15, 17:30:40](https://news.ycombinator.com/item?id=40969808) - [Seiko Originals: The UC-2000, A Smartwatch from 1984](https://www.namokimods.com/en-ca/blogs/namokitimes/seiko-originals-the-uc-2000-a-smartwatch-from-1984)
-* [2024-07-15, 16:41:36](https://news.ycombinator.com/item?id=40969391) - [Women who make Samsung semiconductors are striking](https://english.hani.co.kr/arti/english_edition/e_national/1149185.html)
 * [2024-07-15, 16:33:15](https://news.ycombinator.com/item?id=40969312) - [Tlsd: Generate (message) sequence diagrams from TLA+ state traces](https://github.com/eras/tlsd)
 * [2024-07-15, 15:25:53](https://news.ycombinator.com/item?id=40968689) - [Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [The rise of the camera launched a fight to protect Gilded Age privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
