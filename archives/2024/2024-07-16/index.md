@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
 * [2024-07-16, 18:19:11](https://news.ycombinator.com/item?id=40978919) - [Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
+* [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a Bignum Library for Fun](https://austinhenley.com/blog/bignum2.html)
+* [2024-07-16, 18:04:29](https://news.ycombinator.com/item?id=40978793) - [Electric Clouds This Summer](https://nautil.us/dont-miss-the-electric-clouds-this-summer-704313/)
 * [2024-07-16, 18:01:34](https://news.ycombinator.com/item?id=40978770) - [Schrödinger's cat among biology's pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
 * [2024-07-16, 17:57:35](https://news.ycombinator.com/item?id=40978731) - [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
 * [2024-07-16, 17:27:51](https://news.ycombinator.com/item?id=40978482) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
