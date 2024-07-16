@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-16, 18:37:35](https://news.ycombinator.com/item?id=40979074) - [Europe's fate is in Germany's hands now](https://www.noahpinion.blog/p/europes-fate-is-in-germanys-hands)
 * [2024-07-16, 18:19:11](https://news.ycombinator.com/item?id=40978919) - [Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a Bignum Library for Fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-16, 18:04:29](https://news.ycombinator.com/item?id=40978793) - [Electric Clouds This Summer](https://nautil.us/dont-miss-the-electric-clouds-this-summer-704313/)
@@ -17,7 +18,6 @@
 * [2024-07-16, 10:49:27](https://news.ycombinator.com/item?id=40975289) - [A hard look at AWS GuardDuty shortcomings](https://tracebit.com/blog/a-hard-look-at-guardduty-shortcomings)
 * [2024-07-16, 07:22:45](https://news.ycombinator.com/item?id=40974298) - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
 * [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
-* [2024-07-16, 03:17:23](https://news.ycombinator.com/item?id=40973422) - [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 * [2024-07-16, 02:55:11](https://news.ycombinator.com/item?id=40973339) - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
 * [2024-07-16, 00:12:23](https://news.ycombinator.com/item?id=40972589) - [The Second Law of Thermodynamics (2011)](https://franklambert.net/secondlaw.com/)
 * [2024-07-15, 23:39:34](https://news.ycombinator.com/item?id=40972437) - [The Delusion of the Polygraph](https://lithub.com/what-the-all-american-delusion-of-the-polygraph-says-about-our-relationship-to-fact-and-fiction/)
