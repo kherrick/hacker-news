@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-16, 07:34:48](https://news.ycombinator.com/item?id=40974343) - [I Hope Rust Does Not Oxidize Everything](https://gavinhoward.com/2024/07/why-i-hope-rust-does-not-oxidize-everything/)
+* [2024-07-16, 09:08:04](https://news.ycombinator.com/item?id=40974768) - [Ask HN: How can I find something worthwhile to do?](https://news.ycombinator.com/item?id=40974768)
+* [2024-07-16, 07:22:45](https://news.ycombinator.com/item?id=40974298) - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
 * [2024-07-16, 07:01:06](https://news.ycombinator.com/item?id=40974193) - [The Engineer's Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
 * [2024-07-16, 06:41:50](https://news.ycombinator.com/item?id=40974112) - [For advertising: Firefox now collects user data by default](https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html)
 * [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
@@ -9,7 +10,6 @@
 * [2024-07-16, 02:03:03](https://news.ycombinator.com/item?id=40973123) - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
 * [2024-07-16, 01:00:18](https://news.ycombinator.com/item?id=40972842) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
 * [2024-07-16, 00:12:23](https://news.ycombinator.com/item?id=40972589) - [The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
-* [2024-07-15, 23:49:35](https://news.ycombinator.com/item?id=40972488) - [Async Git-stash workflow enables test test-driven development](https://miropalmu.github.io/homepage/async_git_stash_workflow.html)
 * [2024-07-15, 23:39:34](https://news.ycombinator.com/item?id=40972437) - [The All-American Delusion of the Polygraph](https://lithub.com/what-the-all-american-delusion-of-the-polygraph-says-about-our-relationship-to-fact-and-fiction/)
 * [2024-07-15, 22:51:56](https://news.ycombinator.com/item?id=40972166) - [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
 * [2024-07-15, 22:48:24](https://news.ycombinator.com/item?id=40972134) - [How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)

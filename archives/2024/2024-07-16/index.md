@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 09:08:04](https://news.ycombinator.com/item?id=40974768) - [Ask HN: How can I find something worthwhile to do?](https://news.ycombinator.com/item?id=40974768)
 * [2024-07-16, 07:34:48](https://news.ycombinator.com/item?id=40974343) - [I Hope Rust Does Not Oxidize Everything](https://gavinhoward.com/2024/07/why-i-hope-rust-does-not-oxidize-everything/)
+* [2024-07-16, 07:22:45](https://news.ycombinator.com/item?id=40974298) - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
 * [2024-07-16, 07:01:06](https://news.ycombinator.com/item?id=40974193) - [The Engineer's Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
 * [2024-07-16, 06:41:50](https://news.ycombinator.com/item?id=40974112) - [For advertising: Firefox now collects user data by default](https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html)
 * [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
