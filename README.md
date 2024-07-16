@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-16, 03:58:58](https://news.ycombinator.com/item?id=40973565) - [BOA27: An open source, open hardware, leafleting, smart balloon](https://github.com/aogposton/BOA27)
-* [2024-07-16, 03:17:23](https://news.ycombinator.com/item?id=40973422) - [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
+* [2024-07-16, 03:17:23](https://news.ycombinator.com/item?id=40973422) - [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 * [2024-07-16, 02:55:11](https://news.ycombinator.com/item?id=40973339) - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
 * [2024-07-16, 02:25:08](https://news.ycombinator.com/item?id=40973219) - [Task Dashboard Tips for Peak Productivity](https://www.leiga.com/post/task-dashboards)
 * [2024-07-16, 02:03:03](https://news.ycombinator.com/item?id=40973123) - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
