@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-16, 21:18:45](https://news.ycombinator.com/item?id=40980429) - [Tunnel found in Tijuana is so long authorities need oxygen tanks](https://www.latintimes.com/suspected-drug-smuggling-found-tijuana-so-long-authorities-dont-have-enough-oxygen-reach-other-556354)
 * [2024-07-16, 21:00:55](https://news.ycombinator.com/item?id=40980289) - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
 * [2024-07-16, 19:58:22](https://news.ycombinator.com/item?id=40979759) - [The VR Winter Continues](https://www.ben-evans.com/benedictevans/2024/7/8/the-vr-winter-continues)
+* [2024-07-16, 19:50:20](https://news.ycombinator.com/item?id=40979684) - [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
 * [2024-07-16, 18:56:07](https://news.ycombinator.com/item?id=40979221) - [DevRel at HuggingFace](https://dx.tips/huggingface)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-16, 18:04:29](https://news.ycombinator.com/item?id=40978793) - [Electric Clouds This Summer](https://nautil.us/dont-miss-the-electric-clouds-this-summer-704313/)
@@ -16,7 +16,6 @@
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
 * [2024-07-16, 14:13:24](https://news.ycombinator.com/item?id=40976827) - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 * [2024-07-16, 14:11:59](https://news.ycombinator.com/item?id=40976815) - [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
-* [2024-07-16, 11:25:06](https://news.ycombinator.com/item?id=40975509) - [Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
 * [2024-07-16, 10:49:27](https://news.ycombinator.com/item?id=40975289) - [A hard look at AWS GuardDuty shortcomings](https://tracebit.com/blog/a-hard-look-at-guardduty-shortcomings)
 * [2024-07-16, 07:22:45](https://news.ycombinator.com/item?id=40974298) - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
 * [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
@@ -29,6 +28,7 @@
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
 * [2024-07-13, 04:06:03](https://news.ycombinator.com/item?id=40951693) - [Java's Megalithic Mountain](https://archaeology.org/issues/july-august-2024/features/javas-megalithic-mountain/)
 * [2024-07-12, 11:36:20](https://news.ycombinator.com/item?id=40944606) - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
+* [2024-07-11, 19:50:48](https://news.ycombinator.com/item?id=40939964) - [Run Functions in Another Stack with Zig](https://teiolass.gitlab.io/posts/zig_stack/)
 * [2024-07-11, 19:15:21](https://news.ycombinator.com/item?id=40939660) - [Video Ethnography of \"ICARUS\" on the Xerox Alto [video] (2017)](https://www.youtube.com/watch?v=BauuOoB6EIU)
 
 ## [Archives](archives/index.md)
