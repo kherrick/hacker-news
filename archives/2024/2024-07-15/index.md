@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
 * [2024-07-15, 23:49:35](https://news.ycombinator.com/item?id=40972488) - [Async Git-stash workflow enables test test-driven development](https://miropalmu.github.io/homepage/async_git_stash_workflow.html)
+* [2024-07-15, 23:41:59](https://news.ycombinator.com/item?id=40972453) - [IQM achieves 99.9% 2-qubit gate fidelity and 1 millisecond coherence time](https://www.meetiqm.com/newsroom/press-releases/iqm-achieves-new-technology-milestones)
 * [2024-07-15, 23:39:34](https://news.ycombinator.com/item?id=40972437) - [The All-American Delusion of the Polygraph](https://lithub.com/what-the-all-american-delusion-of-the-polygraph-says-about-our-relationship-to-fact-and-fiction/)
 * [2024-07-15, 22:51:56](https://news.ycombinator.com/item?id=40972166) - [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
 * [2024-07-15, 22:48:24](https://news.ycombinator.com/item?id=40972134) - [How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
@@ -20,6 +21,7 @@
 * [2024-07-15, 21:00:15](https://news.ycombinator.com/item?id=40971426) - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract](https://retrohax.net/amiga-2000-codename-tesseract/)
 * [2024-07-15, 20:31:49](https://news.ycombinator.com/item?id=40971247) - [A Word About Private Attribution in Firefox [from the Firefox CTO]](https://old.reddit.com/r/firefox/comments/1e43w7v/a_word_about_private_attribution_in_firefox/)
+* [2024-07-15, 20:03:53](https://news.ycombinator.com/item?id=40971025) - [Automated Test-Case Reduction](https://www.cs.cornell.edu/~asampson/blog/autoreduction.html)
 * [2024-07-15, 20:02:38](https://news.ycombinator.com/item?id=40971010) - [The Stratocaster Turns 70](https://newatlas.com/music/stratocaster-70-fender-factory/)
 * [2024-07-15, 19:58:43](https://news.ycombinator.com/item?id=40970987) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
 * [2024-07-15, 19:47:11](https://news.ycombinator.com/item?id=40970893) - [FBI Gains Access to Suspected Trump Shooter’s Password Locked Phone](https://www.404media.co/fbi-gains-access-to-suspected-trump-shooters-password-locked-phone/)
