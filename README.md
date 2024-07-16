@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-16, 06:41:50](https://news.ycombinator.com/item?id=40974112) - [For advertising: Firefox now collects user data by default](https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html)
 * [2024-07-16, 05:59:04](https://news.ycombinator.com/item?id=40973952) - [Commodore 64 Fitness Watch (2022)](https://www.hackster.io/nickbild/c64-fitness-watch-f4c902)
 * [2024-07-16, 03:17:23](https://news.ycombinator.com/item?id=40973422) - [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 * [2024-07-16, 02:55:11](https://news.ycombinator.com/item?id=40973339) - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
@@ -29,7 +30,6 @@
 * [2024-07-12, 15:43:44](https://news.ycombinator.com/item?id=40946613) - [Ask HN: Any tools to do generic WiFi imaging?](https://news.ycombinator.com/item?id=40946613)
 * [2024-07-12, 12:50:02](https://news.ycombinator.com/item?id=40945054) - [How to mail an SD card with gummy glue](https://flyingcarcomputer.com/posts/mail-sd-card-with-gummy-glue/)
 * [2024-07-11, 15:07:11](https://news.ycombinator.com/item?id=40937554) - [It All Started with a nop](https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/)
-* [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 
 ## [Archives](archives/index.md)
 
