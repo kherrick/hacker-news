@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
 * [2024-07-16, 21:58:21](https://news.ycombinator.com/item?id=40980715) - [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
 * [2024-07-16, 21:18:45](https://news.ycombinator.com/item?id=40980429) - [Tunnel found in Tijuana is so long authorities need oxygen tanks](https://www.latintimes.com/suspected-drug-smuggling-found-tijuana-so-long-authorities-dont-have-enough-oxygen-reach-other-556354)
 * [2024-07-16, 21:00:55](https://news.ycombinator.com/item?id=40980289) - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
