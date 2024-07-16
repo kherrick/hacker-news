@@ -28,7 +28,7 @@
 * [2024-07-15, 17:41:12](https://news.ycombinator.com/item?id=40969897) - [Migrating Coinbase's 56M Users to React Native: Key Lessons and Takeaways](https://stepchange.work/blog/migrating-coinbases-56-million-users-to-react-native-key-lessons-and-takeaways)
 * [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
-* [2024-07-11, 19:50:48](https://news.ycombinator.com/item?id=40939964) - [Run Functions in Another Stack with Zig](https://teiolass.gitlab.io/posts/zig_stack/)
+* [2024-07-13, 04:06:03](https://news.ycombinator.com/item?id=40951693) - [Java's Megalithic Mountain](https://archaeology.org/issues/july-august-2024/features/javas-megalithic-mountain/)
 * [2024-07-11, 19:15:21](https://news.ycombinator.com/item?id=40939660) - [Video Ethnography of \"ICARUS\" on the Xerox Alto [video] (2017)](https://www.youtube.com/watch?v=BauuOoB6EIU)
 
 ## [Archives](archives/index.md)
