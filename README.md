@@ -23,13 +23,13 @@
 * [2024-07-15, 16:09:19](https://news.ycombinator.com/item?id=40969120) - [Radar evidence of accessible Moon cave conduit below Mare Tranquillitatis pit](https://www.nature.com/articles/s41550-024-02302-y)
 * [2024-07-15, 15:25:53](https://news.ycombinator.com/item?id=40968689) - [Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [The rise of the camera launched a fight to protect Gilded Age privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
+* [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-14, 18:11:33](https://news.ycombinator.com/item?id=40962362) - [Soviet Calculator History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
 * [2024-07-13, 08:37:51](https://news.ycombinator.com/item?id=40952665) - [Analog GPS: Scrolling Wrist and Car-Mounted Maps of the Roaring 20s and 30s](https://99percentinvisible.org/article/analog-gps-scrolling-wrist-car-mounted-maps-roaring-20s-30s/)
 * [2024-07-12, 12:50:02](https://news.ycombinator.com/item?id=40945054) - [How to mail an SD card with gummy glue](https://flyingcarcomputer.com/posts/mail-sd-card-with-gummy-glue/)
 * [2024-07-12, 07:41:21](https://news.ycombinator.com/item?id=40943437) - [Pi calculation world record with over 202T digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
 * [2024-07-11, 19:10:00](https://news.ycombinator.com/item?id=40939607) - [The Old Bailey with Britain's last court reporters](https://www.theguardian.com/news/article/2024/jul/11/old-bailey-dying-art-court-reporter-justice)
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
-* [2024-07-10, 12:08:09](https://news.ycombinator.com/item?id=40925999) - [Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://op-co.de/blog/posts/samsung_nx_mastodon/)
 
 ## [Archives](archives/index.md)
 
