@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-16, 17:19:01](https://news.ycombinator.com/item?id=40978398) - [U.S. now short 4.5M homes as housing deficit grows](https://zillow.mediaroom.com/2024-06-18-The-U-S-is-now-short-4-5-million-homes-as-the-housing-deficit-grows)
+* [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 * [2024-07-16, 17:12:40](https://news.ycombinator.com/item?id=40978356) - [Taboola to Sell Ads for Apple](https://www.axios.com/2024/07/16/taboola-apple-news-deal)
 * [2024-07-16, 17:00:54](https://news.ycombinator.com/item?id=40978250) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2024-07-16, 16:49:14](https://news.ycombinator.com/item?id=40978159) - [Rates Insensitivity in the Economic Downcycle](https://www.lynalden.com/july-2024-newsletter/)
 * [2024-07-16, 16:23:10](https://news.ycombinator.com/item?id=40977945) - [Private Browsing 2.0](https://webkit.org/blog/15697/private-browsing-2-0/)
 * [2024-07-16, 15:52:39](https://news.ycombinator.com/item?id=40977666) - [My pet theory of how great software gets started](https://hiandrewquinn.github.io/til-site/posts/my-pet-theory-of-how-great-software-gets-started/)
 * [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan Plays Understandable and Fun to Read](http://elizabethandrama.org/)
