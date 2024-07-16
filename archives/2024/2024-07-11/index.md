@@ -53,6 +53,7 @@
 * [2024-07-11, 15:58:25](https://news.ycombinator.com/item?id=40938036) - [Google Play rejecting app update without substantive reason](https://github.com/syncthing/syncthing-android/issues/2064)
 * [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [How to Survive 3 Years in North Korea as a Foreigner](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 15:29:08](https://news.ycombinator.com/item?id=40937760) - [DuckDB Meets Postgres](https://blog.paradedb.com/pages/iceberg_lakehouse)
+* [2024-07-11, 15:07:11](https://news.ycombinator.com/item?id=40937554) - [It All Started with a nop](https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/)
 * [2024-07-11, 14:42:03](https://news.ycombinator.com/item?id=40937325) - [Where is the most densely populated square kilometre in the UK? (2023)](http://www.statsmapsnpix.com/2023/02/where-is-most-densely-populated-square.html)
 * [2024-07-11, 14:34:20](https://news.ycombinator.com/item?id=40937260) - [General Theory of Neural Networks](https://robleclerc.substack.com/p/general-theory-of-neural-networks)
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)

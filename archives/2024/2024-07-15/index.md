@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 23:49:35](https://news.ycombinator.com/item?id=40972488) - [Async Git-stash workflow enables test test-driven development](https://miropalmu.github.io/homepage/async_git_stash_workflow.html)
 * [2024-07-15, 23:39:34](https://news.ycombinator.com/item?id=40972437) - [The All-American Delusion of the Polygraph](https://lithub.com/what-the-all-american-delusion-of-the-polygraph-says-about-our-relationship-to-fact-and-fiction/)
 * [2024-07-15, 22:51:56](https://news.ycombinator.com/item?id=40972166) - [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
 * [2024-07-15, 22:48:24](https://news.ycombinator.com/item?id=40972134) - [How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
