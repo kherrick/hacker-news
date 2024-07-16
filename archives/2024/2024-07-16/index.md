@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 19:33:34](https://news.ycombinator.com/item?id=40979539) - [After 12 Years of Reviewing Restaurants, I'm Leaving the Table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
 * [2024-07-16, 19:17:16](https://news.ycombinator.com/item?id=40979392) - [Craig Wright's claim of inventing Bitcoin may get him arrested for perjury](https://arstechnica.com/tech-policy/2024/07/craig-wrights-claim-of-inventing-bitcoin-may-get-him-arrested-for-perjury/)
 * [2024-07-16, 19:04:56](https://news.ycombinator.com/item?id=40979293) - [Data brokers sell our location data and jeopardise national security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security/)
 * [2024-07-16, 18:56:07](https://news.ycombinator.com/item?id=40979221) - [HuggingFace: Scaling open source community 300%/yr with No OKRs and No Meetings](https://dx.tips/huggingface)
@@ -19,6 +20,7 @@
 * [2024-07-16, 17:12:40](https://news.ycombinator.com/item?id=40978356) - [Taboola to Sell Ads for Apple](https://www.axios.com/2024/07/16/taboola-apple-news-deal)
 * [2024-07-16, 17:00:54](https://news.ycombinator.com/item?id=40978250) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-07-16, 16:56:28](https://news.ycombinator.com/item?id=40978215) - [Simplicity/Acc: Why We Must End Human Programming Jobs](https://engineeringideas.substack.com/p/simplicityacc-why-we-must-end-human)
+* [2024-07-16, 16:52:51](https://news.ycombinator.com/item?id=40978187) - [Why German Strings Are Everywhere](https://cedardb.com/blog/german_strings/)
 * [2024-07-16, 16:49:14](https://news.ycombinator.com/item?id=40978159) - [Rates Insensitivity in the Economic Downcycle](https://www.lynalden.com/july-2024-newsletter/)
 * [2024-07-16, 16:45:11](https://news.ycombinator.com/item?id=40978132) - [Surprise, your data warehouse can RAG](https://www.rainforestqa.com/blog/data-warehouse-can-rag)
 * [2024-07-16, 16:38:07](https://news.ycombinator.com/item?id=40978073) - [Stop Microsoft users sending 'reactions' to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
