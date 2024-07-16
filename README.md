@@ -29,7 +29,7 @@
 * [2024-07-12, 15:43:44](https://news.ycombinator.com/item?id=40946613) - [Ask HN: Any tools to do generic WiFi imaging?](https://news.ycombinator.com/item?id=40946613)
 * [2024-07-12, 12:50:02](https://news.ycombinator.com/item?id=40945054) - [How to mail an SD card with gummy glue](https://flyingcarcomputer.com/posts/mail-sd-card-with-gummy-glue/)
 * [2024-07-11, 15:07:11](https://news.ycombinator.com/item?id=40937554) - [It All Started with a nop](https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/)
-* [2024-07-11, 03:24:01](https://news.ycombinator.com/item?id=40933402) - [Show HN: Draggable tier list / Kanban board](https://pagesword.com/tier-list/sandbox)
+* [2024-07-11, 02:35:49](https://news.ycombinator.com/item?id=40933250) - [Some Tricks from the Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
 
 ## [Archives](archives/index.md)
 
