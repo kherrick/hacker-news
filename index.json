@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-16, 01:00:18",
+      "https://news.ycombinator.com/item?id=40972842"
+    ],
+    [
+      "MixRank (YC S11) Is Hiring Software Engineers and Founders Globally",
+      "https://news.ycombinator.com/item?id=40972842"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 00:14:50",
+      "https://news.ycombinator.com/item?id=40972596"
+    ],
+    [
+      "Ask HN: Struggling with poor memory and executive function. What to do?",
+      "https://news.ycombinator.com/item?id=40972596"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 22:51:56",
+      "https://news.ycombinator.com/item?id=40972166"
+    ],
+    [
+      "What Happened to Ancient Megafauna?",
+      "https://nautil.us/what-happened-to-ancient-megafauna-713371/"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 22:48:24",
       "https://news.ycombinator.com/item?id=40972134"
     ],
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2024-07-15, 21:49:15",
-      "https://news.ycombinator.com/item?id=40971766"
-    ],
-    [
-      "L402: The Missing Piece in the Internet's Payment Infrastructure",
-      "https://l402.org/"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 21:20:39",
       "https://news.ycombinator.com/item?id=40971553"
     ],
     [
       "The Mafia of Pharma Pricing",
       "https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 21:00:15",
-      "https://news.ycombinator.com/item?id=40971426"
-    ],
-    [
-      "Artie (YC S23) Is Hiring",
-      "https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2024-07-15, 15:06:29",
-      "https://news.ycombinator.com/item?id=40968520"
-    ],
-    [
-      "HTML Tags Memory Test",
-      "https://codepen.io/plfstr/full/zYqQeRw"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 15:04:05",
       "https://news.ycombinator.com/item?id=40968493"
     ],
     [
       "The rise of the camera launched a fight to protect Gilded Age privacy",
       "https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 12:03:47",
-      "https://news.ycombinator.com/item?id=40967069"
-    ],
-    [
-      "I'm not a fan of strlcpy(3)",
-      "https://nrk.neocities.org/articles/not-a-fan-of-strlcpy"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "We need visual programming. No, not like that",
       "https://blog.sbensu.com/posts/demand-for-visual-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 16:05:46",
+      "https://news.ycombinator.com/item?id=40928390"
+    ],
+    [
+      "Implementing a Single-Threaded Blocking Bare Bones TCP/IP Server",
+      "https://shivangsnewsletter.com/p/distributed-programming-part-2"
     ]
   ],
   [
