@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 12:23:54](https://news.ycombinator.com/item?id=40975855) - [Math is running out of problems](https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b)
+* [2024-07-16, 12:12:42](https://news.ycombinator.com/item?id=40975797) - [UK has almost 1M EV chargers, with new public one installed every 25 minutes](https://www.theguardian.com/business/article/2024/jul/15/electric-vehicle-ev-chargers-uk-installations)
+* [2024-07-16, 11:57:38](https://news.ycombinator.com/item?id=40975691) - [The science behind an iPhone dumb phone](https://dumbph.com/the-science-behind-an-iphone-dumb-phone/)
 * [2024-07-16, 10:35:56](https://news.ycombinator.com/item?id=40975214) - [PS-HTTPD: a web server written in PostScript](https://www.pugo.org/projects/pshttpd/)
 * [2024-07-16, 09:08:04](https://news.ycombinator.com/item?id=40974768) - [Ask HN: How can I find something worthwhile to do?](https://news.ycombinator.com/item?id=40974768)
 * [2024-07-16, 07:34:48](https://news.ycombinator.com/item?id=40974343) - [I Hope Rust Does Not Oxidize Everything](https://gavinhoward.com/2024/07/why-i-hope-rust-does-not-oxidize-everything/)
