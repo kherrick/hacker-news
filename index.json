@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-16, 15:06:48",
+      "https://news.ycombinator.com/item?id=40977293"
+    ],
+    [
+      "Timezone-naive datetimes are one of the most dangerous objects in Python",
+      "https://nerderati.com/a-python-epoch-timestamp-timezone-trap/"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 14:13:24",
       "https://news.ycombinator.com/item?id=40976827"
     ],
@@ -287,16 +297,6 @@
     [
       "It All Started with a nop",
       "https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 14:21:02",
-      "https://news.ycombinator.com/item?id=40937119"
-    ],
-    [
-      "We need visual programming. No, not like that",
-      "https://blog.sbensu.com/posts/demand-for-visual-programming/"
     ]
   ]
 ]
