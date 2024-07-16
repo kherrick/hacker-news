@@ -6,6 +6,7 @@
 
 * [2024-07-16, 07:01:06](https://news.ycombinator.com/item?id=40974193) - [The Engineer's Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
 * [2024-07-16, 06:41:50](https://news.ycombinator.com/item?id=40974112) - [For advertising: Firefox now collects user data by default](https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html)
+* [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
 * [2024-07-16, 05:59:04](https://news.ycombinator.com/item?id=40973952) - [Commodore 64 Fitness Watch (2022)](https://www.hackster.io/nickbild/c64-fitness-watch-f4c902)
 * [2024-07-16, 05:20:56](https://news.ycombinator.com/item?id=40973828) - [Evan Wright, 'Generation Kill' Author and Rolling Stone Contributor, Dead at 59](https://www.rollingstone.com/culture/culture-news/evan-wright-generation-kill-rolling-stone-dead-obit-1235060077/)
 * [2024-07-16, 03:58:58](https://news.ycombinator.com/item?id=40973565) - [BOA27: An open source, open hardware, leafleting, smart balloon](https://github.com/aogposton/BOA27)
