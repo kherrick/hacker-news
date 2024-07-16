@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-07-15, 20:52:34",
-      "https://news.ycombinator.com/item?id=40971367"
-    ],
-    [
-      "Making Liquid Nitrogen with My Homemade Cryocooler [video]",
-      "https://www.youtube.com/watch?v=eqxwsfy72L0"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 20:34:12",
       "https://news.ycombinator.com/item?id=40971257"
     ],
@@ -207,16 +197,6 @@
     [
       "Quartz: A Deterministic Time Testing Library for Go",
       "https://coder.com/blog/introducing-quartz"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 17:59:08",
-      "https://news.ycombinator.com/item?id=40970032"
-    ],
-    [
-      "Create Unified Kernel Image from Scratch",
-      "https://blog.izissise.net/posts/uki/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "It All Started with a nop",
       "https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 14:21:02",
+      "https://news.ycombinator.com/item?id=40937119"
+    ],
+    [
+      "We need visual programming. No, not like that",
+      "https://blog.sbensu.com/posts/demand-for-visual-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 02:35:49",
+      "https://news.ycombinator.com/item?id=40933250"
+    ],
+    [
+      "Some Tricks from the Scrapscript Compiler",
+      "https://bernsteinbear.com/blog/scrapscript-tricks/"
     ]
   ]
 ]
