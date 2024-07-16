@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-16, 22:54:26",
+      "https://news.ycombinator.com/item?id=40981068"
+    ],
+    [
+      "Darwin Machines",
+      "https://vedgie.net/writing/darwin_machines.md"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 21:58:21",
       "https://news.ycombinator.com/item?id=40980715"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2024-07-16, 17:27:51",
+      "https://news.ycombinator.com/item?id=40978482"
+    ],
+    [
+      "Inside an IBM/Motorola mainframe controller chip from 1981",
+      "http://www.righto.com/2024/07/ibm-3274-keystone-chip.html"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 17:14:47",
       "https://news.ycombinator.com/item?id=40978372"
     ],
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2024-07-16, 15:20:34",
+      "https://news.ycombinator.com/item?id=40977389"
+    ],
+    [
+      "Making Elizabethan plays understandable and fun to read",
+      "http://elizabethandrama.org/"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 15:09:00",
       "https://news.ycombinator.com/item?id=40977308"
     ],
@@ -147,16 +177,6 @@
     [
       "Codestral Mamba",
       "https://mistral.ai/news/codestral-mamba/"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 14:13:24",
-      "https://news.ycombinator.com/item?id=40976827"
-    ],
-    [
-      "People person: the greatness of Andrey Platonov",
-      "https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2024-07-15, 22:45:36",
-      "https://news.ycombinator.com/item?id=40972122"
-    ],
-    [
-      "Show HN: Horizon – Private alternative to Imgur",
-      "https://horizon.pics"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 22:41:50",
-      "https://news.ycombinator.com/item?id=40972099"
-    ],
-    [
-      "KUtrace: Low-overhead Linux kernel tracing facility",
-      "https://github.com/dicksites/KUtrace"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 20:03:53",
       "https://news.ycombinator.com/item?id=40971025"
     ],
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2024-07-15, 17:30:40",
-      "https://news.ycombinator.com/item?id=40969808"
+      "2024-07-15, 17:41:12",
+      "https://news.ycombinator.com/item?id=40969897"
     ],
     [
-      "Seiko Originals: The UC-2000, A Smartwatch from 1984",
-      "https://www.namokimods.com/en-ca/blogs/namokitimes/seiko-originals-the-uc-2000-a-smartwatch-from-1984"
+      "Migrating Coinbase's 56M Users to React Native: Key Lessons and Takeaways",
+      "https://stepchange.work/blog/migrating-coinbases-56-million-users-to-react-native-key-lessons-and-takeaways"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 17:16:30",
+      "https://news.ycombinator.com/item?id=40969693"
+    ],
+    [
+      "Story points are pointless, measure queues",
+      "https://www.brightball.com/articles/story-points-are-pointless-measure-queues"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2024-07-13, 04:06:03",
-      "https://news.ycombinator.com/item?id=40951693"
+      "2024-07-11, 19:50:48",
+      "https://news.ycombinator.com/item?id=40939964"
     ],
     [
-      "Java's Megalithic Mountain",
-      "https://archaeology.org/issues/july-august-2024/features/javas-megalithic-mountain/"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 11:36:20",
-      "https://news.ycombinator.com/item?id=40944606"
-    ],
-    [
-      "Fitting an Elephant with Four Non-Zero Parameters",
-      "https://arxiv.org/abs/2407.07909"
+      "Run Functions in Another Stack with Zig",
+      "https://teiolass.gitlab.io/posts/zig_stack/"
     ]
   ],
   [
