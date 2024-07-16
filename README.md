@@ -2,6 +2,7 @@
 
 * [2024-07-16, 01:00:18](https://news.ycombinator.com/item?id=40972842) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
 * [2024-07-16, 00:14:50](https://news.ycombinator.com/item?id=40972596) - [Ask HN: Struggling with poor memory and executive function. What to do?](https://news.ycombinator.com/item?id=40972596)
+* [2024-07-16, 00:12:23](https://news.ycombinator.com/item?id=40972589) - [The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
 * [2024-07-15, 22:51:56](https://news.ycombinator.com/item?id=40972166) - [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
 * [2024-07-15, 22:48:24](https://news.ycombinator.com/item?id=40972134) - [How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
 * [2024-07-15, 22:47:23](https://news.ycombinator.com/item?id=40972130) - [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
@@ -28,7 +29,6 @@
 * [2024-07-12, 07:41:21](https://news.ycombinator.com/item?id=40943437) - [Pi calculation world record with over 202T digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
 * [2024-07-11, 19:10:00](https://news.ycombinator.com/item?id=40939607) - [The Old Bailey with Britain's last court reporters](https://www.theguardian.com/news/article/2024/jul/11/old-bailey-dying-art-court-reporter-justice)
 * [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
-* [2024-07-10, 16:05:46](https://news.ycombinator.com/item?id=40928390) - [Implementing a Single-Threaded Blocking Bare Bones TCP/IP Server](https://shivangsnewsletter.com/p/distributed-programming-part-2)
 * [2024-07-10, 12:08:09](https://news.ycombinator.com/item?id=40925999) - [Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://op-co.de/blog/posts/samsung_nx_mastodon/)
 
 ## [Archives](archives/index.md)
