@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-16, 17:19:01",
+      "https://news.ycombinator.com/item?id=40978398"
+    ],
+    [
+      "U.S. now short 4.5M homes as housing deficit grows",
+      "https://zillow.mediaroom.com/2024-06-18-The-U-S-is-now-short-4-5-million-homes-as-the-housing-deficit-grows"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 17:12:40",
+      "https://news.ycombinator.com/item?id=40978356"
+    ],
+    [
+      "Taboola to Sell Ads for Apple",
+      "https://www.axios.com/2024/07/16/taboola-apple-news-deal"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 17:00:54",
       "https://news.ycombinator.com/item?id=40978250"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2024-07-16, 16:56:28",
-      "https://news.ycombinator.com/item?id=40978215"
+      "2024-07-16, 16:49:14",
+      "https://news.ycombinator.com/item?id=40978159"
     ],
     [
-      "Simplicity/Acc: Why We Must End Human Programming Jobs",
-      "https://engineeringideas.substack.com/p/simplicityacc-why-we-must-end-human"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 16:38:07",
-      "https://news.ycombinator.com/item?id=40978073"
-    ],
-    [
-      "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
-      "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/"
+      "Rates Insensitivity in the Economic Downcycle",
+      "https://www.lynalden.com/july-2024-newsletter/"
     ]
   ],
   [
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2024-07-16, 15:52:39",
+      "https://news.ycombinator.com/item?id=40977666"
+    ],
+    [
+      "My pet theory of how great software gets started",
+      "https://hiandrewquinn.github.io/til-site/posts/my-pet-theory-of-how-great-software-gets-started/"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 15:20:34",
       "https://news.ycombinator.com/item?id=40977389"
     ],
     [
       "Making Elizabethan Plays Understandable and Fun to Read",
       "http://elizabethandrama.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 15:12:13",
-      "https://news.ycombinator.com/item?id=40977331"
-    ],
-    [
-      "Decriminalizing Homosexuality: A Global Overview Since the 18th Century (2022)",
-      "https://hal.science/hal-03778162v1/document"
     ]
   ],
   [
@@ -97,6 +107,16 @@
     [
       "Godotcaml for Godot 4.2",
       "https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 10:49:27",
+      "https://news.ycombinator.com/item?id=40975289"
+    ],
+    [
+      "A hard look at AWS GuardDuty shortcomings",
+      "https://tracebit.com/blog/a-hard-look-at-guardduty-shortcomings"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-15, 20:34:12",
-      "https://news.ycombinator.com/item?id=40971257"
-    ],
-    [
-      "Amiga 2000 – Codename: Tesseract (2021)",
-      "https://retrohax.net/amiga-2000-codename-tesseract/"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 20:03:53",
       "https://news.ycombinator.com/item?id=40971025"
     ],
@@ -237,16 +247,6 @@
     [
       "Run CUDA, unmodified, on AMD GPUs",
       "https://docs.scale-lang.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 18:30:05",
-      "https://news.ycombinator.com/item?id=40970261"
-    ],
-    [
-      "Quartz: A Deterministic Time Testing Library for Go",
-      "https://coder.com/blog/introducing-quartz"
     ]
   ],
   [
