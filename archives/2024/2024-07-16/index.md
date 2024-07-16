@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 17:27:51](https://news.ycombinator.com/item?id=40978482) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
 * [2024-07-16, 17:19:01](https://news.ycombinator.com/item?id=40978398) - [U.S. now short 4.5M homes as housing deficit grows](https://zillow.mediaroom.com/2024-06-18-The-U-S-is-now-short-4-5-million-homes-as-the-housing-deficit-grows)
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 * [2024-07-16, 17:12:40](https://news.ycombinator.com/item?id=40978356) - [Taboola to Sell Ads for Apple](https://www.axios.com/2024/07/16/taboola-apple-news-deal)

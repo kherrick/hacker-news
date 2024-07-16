@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-16, 17:27:51](https://news.ycombinator.com/item?id=40978482) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 * [2024-07-16, 17:00:54](https://news.ycombinator.com/item?id=40978250) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-07-16, 16:23:10](https://news.ycombinator.com/item?id=40977945) - [Private Browsing 2.0](https://webkit.org/blog/15697/private-browsing-2-0/)
 * [2024-07-16, 15:52:39](https://news.ycombinator.com/item?id=40977666) - [My pet theory of how great software gets started](https://hiandrewquinn.github.io/til-site/posts/my-pet-theory-of-how-great-software-gets-started/)
-* [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan Plays Understandable and Fun to Read](http://elizabethandrama.org/)
+* [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan plays understandable and fun to read](http://elizabethandrama.org/)
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
 * [2024-07-16, 14:13:24](https://news.ycombinator.com/item?id=40976827) - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 * [2024-07-16, 14:11:59](https://news.ycombinator.com/item?id=40976815) - [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
@@ -27,7 +28,6 @@
 * [2024-07-15, 17:30:40](https://news.ycombinator.com/item?id=40969808) - [Seiko Originals: The UC-2000, A Smartwatch from 1984](https://www.namokimods.com/en-ca/blogs/namokitimes/seiko-originals-the-uc-2000-a-smartwatch-from-1984)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [The rise of the camera launched a fight to protect Gilded Age privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
-* [2024-07-13, 08:37:51](https://news.ycombinator.com/item?id=40952665) - [Analog GPS: Scrolling Wrist and Car-Mounted Maps of the 20s and 30s (2016)](https://99percentinvisible.org/article/analog-gps-scrolling-wrist-car-mounted-maps-roaring-20s-30s/)
 * [2024-07-13, 04:06:03](https://news.ycombinator.com/item?id=40951693) - [Java's Megalithic Mountain](https://archaeology.org/issues/july-august-2024/features/javas-megalithic-mountain/)
 * [2024-07-11, 15:07:11](https://news.ycombinator.com/item?id=40937554) - [It All Started with a nop](https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/)
 
