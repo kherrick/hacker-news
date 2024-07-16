@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-16, 21:00:55](https://news.ycombinator.com/item?id=40980289) - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
-* [2024-07-16, 19:38:02](https://news.ycombinator.com/item?id=40979575) - [Show HN: Contacts: A Microlang for Managing Contacts](https://scroll.pub/blog/contacts.html)
 * [2024-07-16, 19:33:34](https://news.ycombinator.com/item?id=40979539) - [After 12 years of reviewing restaurants, I'm leaving the table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
 * [2024-07-16, 18:56:07](https://news.ycombinator.com/item?id=40979221) - [DevRel at HuggingFace](https://dx.tips/huggingface)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
@@ -29,6 +28,7 @@
 * [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
 * [2024-07-13, 04:06:03](https://news.ycombinator.com/item?id=40951693) - [Java's Megalithic Mountain](https://archaeology.org/issues/july-august-2024/features/javas-megalithic-mountain/)
+* [2024-07-12, 11:36:20](https://news.ycombinator.com/item?id=40944606) - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-11, 19:15:21](https://news.ycombinator.com/item?id=40939660) - [Video Ethnography of \"Icarus \" on the Xerox Alto [video] (2017)](https://www.youtube.com/watch?v=BauuOoB6EIU)
 
 ## [Archives](archives/index.md)

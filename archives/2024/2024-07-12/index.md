@@ -90,6 +90,7 @@
 * [2024-07-12, 12:00:34](https://news.ycombinator.com/item?id=40944728) - [Legion Health (YC S21) Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
 * [2024-07-12, 11:57:20](https://news.ycombinator.com/item?id=40944712) - [We saved $5k a month with a single Grafana query](https://www.checklyhq.com/blog/300ms-from-every-pod-startup-with-a-single-grafana-query/)
 * [2024-07-12, 11:38:28](https://news.ycombinator.com/item?id=40944616) - [I Want My Scrollbar Back](https://aartaka.me/scrollbar)
+* [2024-07-12, 11:36:20](https://news.ycombinator.com/item?id=40944606) - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-12, 11:28:16](https://news.ycombinator.com/item?id=40944561) - [SpaceX's unmatched streak of perfection with the Falcon 9 rocket is over](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-12, 10:39:52](https://news.ycombinator.com/item?id=40944320) - [Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
