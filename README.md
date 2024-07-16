@@ -15,13 +15,11 @@
 * [2024-07-15, 22:47:23](https://news.ycombinator.com/item?id=40972130) - [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
 * [2024-07-15, 22:45:36](https://news.ycombinator.com/item?id=40972122) - [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
 * [2024-07-15, 22:41:50](https://news.ycombinator.com/item?id=40972099) - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
-* [2024-07-15, 20:52:34](https://news.ycombinator.com/item?id=40971367) - [Making Liquid Nitrogen with My Homemade Cryocooler [video]](https://www.youtube.com/watch?v=eqxwsfy72L0)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
 * [2024-07-15, 20:03:53](https://news.ycombinator.com/item?id=40971025) - [Automated Test-Case Reduction](https://www.cs.cornell.edu/~asampson/blog/autoreduction.html)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 18:30:05](https://news.ycombinator.com/item?id=40970261) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
-* [2024-07-15, 17:59:08](https://news.ycombinator.com/item?id=40970032) - [Create Unified Kernel Image from Scratch](https://blog.izissise.net/posts/uki/)
 * [2024-07-15, 17:30:40](https://news.ycombinator.com/item?id=40969808) - [Seiko Originals: The UC-2000, A Smartwatch from 1984](https://www.namokimods.com/en-ca/blogs/namokitimes/seiko-originals-the-uc-2000-a-smartwatch-from-1984)
 * [2024-07-15, 16:33:15](https://news.ycombinator.com/item?id=40969312) - [Tlsd: Generate (message) sequence diagrams from TLA+ state traces](https://github.com/eras/tlsd)
 * [2024-07-15, 15:25:53](https://news.ycombinator.com/item?id=40968689) - [Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
@@ -30,6 +28,8 @@
 * [2024-07-12, 15:43:44](https://news.ycombinator.com/item?id=40946613) - [Ask HN: Any tools to do generic WiFi imaging?](https://news.ycombinator.com/item?id=40946613)
 * [2024-07-12, 12:50:02](https://news.ycombinator.com/item?id=40945054) - [How to mail an SD card with gummy glue](https://flyingcarcomputer.com/posts/mail-sd-card-with-gummy-glue/)
 * [2024-07-11, 15:07:11](https://news.ycombinator.com/item?id=40937554) - [It All Started with a nop](https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/)
+* [2024-07-11, 14:21:02](https://news.ycombinator.com/item?id=40937119) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+* [2024-07-11, 02:35:49](https://news.ycombinator.com/item?id=40933250) - [Some Tricks from the Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
 
 ## [Archives](archives/index.md)
 
