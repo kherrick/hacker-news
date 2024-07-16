@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-16, 21:58:21",
+      "https://news.ycombinator.com/item?id=40980715"
+    ],
+    [
+      "Show HN: Magic-cli – A copilot for your command line",
+      "https://github.com/guywaldman/magic-cli"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 21:00:55",
       "https://news.ycombinator.com/item?id=40980289"
     ],
@@ -17,6 +27,16 @@
     [
       "Convex Architecture Handbook 1984 [pdf]",
       "http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 19:33:34",
+      "https://news.ycombinator.com/item?id=40979539"
+    ],
+    [
+      "After 12 years of reviewing restaurants, I'm leaving the table",
+      "https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2024-07-16, 16:38:07",
+      "https://news.ycombinator.com/item?id=40978073"
+    ],
+    [
+      "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
+      "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 16:09:29",
       "https://news.ycombinator.com/item?id=40977834"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-07-16, 11:25:06",
-      "https://news.ycombinator.com/item?id=40975509"
-    ],
-    [
-      "Godotcaml for Godot 4.2",
-      "https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 07:22:45",
       "https://news.ycombinator.com/item?id=40974298"
     ],
@@ -177,16 +197,6 @@
     [
       "Exo: Run your own AI cluster at home with everyday devices",
       "https://github.com/exo-explore/exo"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 00:12:23",
-      "https://news.ycombinator.com/item?id=40972589"
-    ],
-    [
-      "The Second Law of Thermodynamics (2011)",
-      "https://franklambert.net/secondlaw.com/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Fitting an Elephant with Four Non-Zero Parameters",
       "https://arxiv.org/abs/2407.07909"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 19:50:48",
-      "https://news.ycombinator.com/item?id=40939964"
-    ],
-    [
-      "Run Functions in Another Stack with Zig",
-      "https://teiolass.gitlab.io/posts/zig_stack/"
     ]
   ],
   [
