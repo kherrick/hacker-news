@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2024-07-16, 19:04:56",
-      "https://news.ycombinator.com/item?id=40979293"
-    ],
-    [
-      "Data brokers sell our location data and jeopardise national security",
-      "https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security/"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 18:56:07",
       "https://news.ycombinator.com/item?id=40979221"
     ],
     [
-      "HuggingFace: Scaling open source community 300%/yr with No OKRs and No Meetings",
+      "DevRel at HuggingFace",
       "https://dx.tips/huggingface"
     ]
   ],
@@ -97,16 +87,6 @@
     [
       "XLSTMTime: Long-Term Time Series Forecasting with xLSTM",
       "https://arxiv.org/abs/2407.10240"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 16:52:51",
-      "https://news.ycombinator.com/item?id=40978187"
-    ],
-    [
-      "Why German Strings Are Everywhere",
-      "https://cedardb.com/blog/german_strings/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-07-16, 00:12:23",
+      "https://news.ycombinator.com/item?id=40972589"
+    ],
+    [
+      "The Second Law of Thermodynamics (2011)",
+      "https://franklambert.net/secondlaw.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 23:39:34",
       "https://news.ycombinator.com/item?id=40972437"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Horizon – Private alternative to Imgur",
       "https://horizon.pics"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 22:41:50",
+      "https://news.ycombinator.com/item?id=40972099"
+    ],
+    [
+      "KUtrace: Low-overhead Linux kernel tracing facility",
+      "https://github.com/dicksites/KUtrace"
     ]
   ],
   [
