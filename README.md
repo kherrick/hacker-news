@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-16, 02:03:03](https://news.ycombinator.com/item?id=40973123) - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
 * [2024-07-16, 01:00:18](https://news.ycombinator.com/item?id=40972842) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
 * [2024-07-16, 00:12:23](https://news.ycombinator.com/item?id=40972589) - [The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
 * [2024-07-15, 22:51:56](https://news.ycombinator.com/item?id=40972166) - [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
@@ -22,7 +23,6 @@
 * [2024-07-15, 16:09:19](https://news.ycombinator.com/item?id=40969120) - [Radar evidence of accessible Moon cave conduit below Mare Tranquillitatis pit](https://www.nature.com/articles/s41550-024-02302-y)
 * [2024-07-15, 15:25:53](https://news.ycombinator.com/item?id=40968689) - [Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [The rise of the camera launched a fight to protect Gilded Age privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
-* [2024-07-15, 12:03:47](https://news.ycombinator.com/item?id=40967069) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-14, 18:11:33](https://news.ycombinator.com/item?id=40962362) - [Soviet Calculator History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
 * [2024-07-13, 08:37:51](https://news.ycombinator.com/item?id=40952665) - [Analog GPS: Scrolling Wrist and Car-Mounted Maps of the Roaring 20s and 30s](https://99percentinvisible.org/article/analog-gps-scrolling-wrist-car-mounted-maps-roaring-20s-30s/)
 * [2024-07-12, 12:50:02](https://news.ycombinator.com/item?id=40945054) - [How to mail an SD card with gummy glue](https://flyingcarcomputer.com/posts/mail-sd-card-with-gummy-glue/)
