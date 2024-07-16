@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-16, 14:42:03](https://news.ycombinator.com/item?id=40977080) - [Golang disables Nagle's algorithm, making it evil on shitty networks](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 * [2024-07-16, 14:13:24](https://news.ycombinator.com/item?id=40976827) - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 * [2024-07-16, 11:25:06](https://news.ycombinator.com/item?id=40975509) - [Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
 * [2024-07-16, 07:22:45](https://news.ycombinator.com/item?id=40974298) - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
@@ -16,6 +15,7 @@
 * [2024-07-15, 22:47:23](https://news.ycombinator.com/item?id=40972130) - [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
 * [2024-07-15, 22:45:36](https://news.ycombinator.com/item?id=40972122) - [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
 * [2024-07-15, 22:41:50](https://news.ycombinator.com/item?id=40972099) - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
+* [2024-07-15, 21:20:39](https://news.ycombinator.com/item?id=40971553) - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
 * [2024-07-15, 20:34:12](https://news.ycombinator.com/item?id=40971257) - [Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
 * [2024-07-15, 20:03:53](https://news.ycombinator.com/item?id=40971025) - [Automated Test-Case Reduction](https://www.cs.cornell.edu/~asampson/blog/autoreduction.html)
 * [2024-07-15, 19:12:13](https://news.ycombinator.com/item?id=40970621) - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
