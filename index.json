@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-17, 02:05:21",
+      "https://news.ycombinator.com/item?id=40981974"
+    ],
+    [
+      "Why is Sweden paying grandparents to babysit?",
+      "https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 22:54:26",
       "https://news.ycombinator.com/item?id=40981068"
     ],
@@ -57,16 +67,6 @@
     [
       "After 12 years of reviewing restaurants, I'm leaving the table",
       "https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 18:56:07",
-      "https://news.ycombinator.com/item?id=40979221"
-    ],
-    [
-      "DevRel at HuggingFace",
-      "https://dx.tips/huggingface"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-07-15, 22:41:50",
-      "https://news.ycombinator.com/item?id=40972099"
-    ],
-    [
-      "KUtrace: Low-overhead Linux kernel tracing facility",
-      "https://github.com/dicksites/KUtrace"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 20:03:53",
       "https://news.ycombinator.com/item?id=40971025"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: I accidentally crated a infinite level for a wolf 3D clone",
       "https://victorribeiro.com/raycast2/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 19:50:48",
+      "https://news.ycombinator.com/item?id=40939964"
+    ],
+    [
+      "Run Functions in Another Stack with Zig",
+      "https://teiolass.gitlab.io/posts/zig_stack/"
     ]
   ],
   [
