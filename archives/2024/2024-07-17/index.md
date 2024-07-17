@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 11:23:36](https://news.ycombinator.com/item?id=40984689) - [Meta's digital censorship targets art from the Leopold Museum](https://english.elpais.com/culture/2024-07-15/metas-digital-censorship-targets-art-from-the-leopold-museum-in-vienna.html)
 * [2024-07-17, 11:03:38](https://news.ycombinator.com/item?id=40984589) - [Jia Tan \"JiaT75\": Added error text to warning when untaring with bsdtar](https://github.com/libarchive/libarchive/pull/1609)
+* [2024-07-17, 11:02:35](https://news.ycombinator.com/item?id=40984585) - [Syd the perhaps most sophisticated sandbox for Linux](https://rentry.co/DSRsecuritycoursepart2#syd-the-perhaps-most-sophisticated-sandbox-for-linux)
+* [2024-07-17, 10:57:16](https://news.ycombinator.com/item?id=40984556) - [Railroading the Pascal Language](https://www.getlazarus.org/learn/language/lexical/)
 * [2024-07-17, 10:44:02](https://news.ycombinator.com/item?id=40984472) - [I lost my love for the web (2022)](https://ambitiousfounder.com/i-lost-my-love-for-the-web)
 * [2024-07-17, 10:41:08](https://news.ycombinator.com/item?id=40984456) - [Ask HN: Do you already see the impact of LLMs on the job prospects for dev's?](https://news.ycombinator.com/item?id=40984456)
 * [2024-07-17, 10:11:01](https://news.ycombinator.com/item?id=40984243) - [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
