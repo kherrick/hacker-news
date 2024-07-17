@@ -14,6 +14,7 @@
 * [2024-07-15, 22:41:50](https://news.ycombinator.com/item?id=40972099) - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
 * [2024-07-15, 22:36:23](https://news.ycombinator.com/item?id=40972070) - [The Hidden Ties Between Google's Project Nimbus and Israel's Military](https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/)
 * [2024-07-15, 21:49:15](https://news.ycombinator.com/item?id=40971766) - [L402: The Missing Piece in the Internet's Payment Infrastructure](https://l402.org/)
+* [2024-07-15, 21:48:28](https://news.ycombinator.com/item?id=40971759) - [Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
 * [2024-07-15, 21:30:42](https://news.ycombinator.com/item?id=40971631) - [Show HN: Mutable.ai Codebase chat that uses a Wiki for RAG](https://wiki.mutable.ai/Dao-AILab/flash-attention)
 * [2024-07-15, 21:28:04](https://news.ycombinator.com/item?id=40971609) - [Mercurial is simply too good (2020)](https://baez.link/mercurial-is-simply-too-good)
 * [2024-07-15, 21:20:39](https://news.ycombinator.com/item?id=40971553) - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
