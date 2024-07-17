@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-07-17, 20:03:30",
+      "https://news.ycombinator.com/item?id=40989806"
+    ],
+    [
+      "What can TypeScript learn from Zig? What can Zig learn from TypeScript?",
+      "https://effectivetypescript.com/2024/07/17/advent2023-zig/"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 19:31:04",
       "https://news.ycombinator.com/item?id=40989451"
     ],
@@ -287,16 +297,6 @@
     [
       "Rye Language",
       "https://ryelang.org"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 13:47:43",
-      "https://news.ycombinator.com/item?id=40945545"
-    ],
-    [
-      "MASt3R – Matching and Stereo 3D Reconstruction",
-      "https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/"
     ]
   ]
 ]
