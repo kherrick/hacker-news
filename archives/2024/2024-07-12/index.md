@@ -51,6 +51,7 @@
 * [2024-07-12, 17:22:29](https://news.ycombinator.com/item?id=40947540) - [Ex-Meta scientists debut gigantic AI protein design model](https://www.nature.com/articles/d41586-024-02214-x)
 * [2024-07-12, 17:15:09](https://news.ycombinator.com/item?id=40947479) - [52,000-year-old woolly mammoth chromosomes reconstructed from 'jerky-like' skin](https://www.abc.net.au/news/science/2024-07-12/woolly-mammoth-chromosomes-resconstructed-from-skin/104059130)
 * [2024-07-12, 17:14:46](https://news.ycombinator.com/item?id=40947472) - [Finnish startup says it can speed up any CPU by 100x](https://www.msn.com/en-us/news/technology/one-of-the-wildest-claims-ever-heard-finnish-startup-says-it-can-speed-up-any-cpu-by-100x-using-a-tiny-piece-of-hardware-with-no-recoding-and-it-might-just-be-true/ar-BB1ouxAV)
+* [2024-07-12, 17:11:49](https://news.ycombinator.com/item?id=40947450) - [Rye Language](https://ryelang.org)
 * [2024-07-12, 17:11:34](https://news.ycombinator.com/item?id=40947445) - [Blue checks on X deceiving users into engaging with harmful material, EU says](https://www.irishtimes.com/technology/big-tech/2024/07/12/blue-checks-on-elon-musks-x-are-deceptive-eu-says/)
 * [2024-07-12, 17:08:19](https://news.ycombinator.com/item?id=40947415) - [Show HN: Dropbase AI – A Prompt-Based Python Web App Builder](https://github.com/DropbaseHQ/dropbase)
 * [2024-07-12, 17:03:09](https://news.ycombinator.com/item?id=40947378) - [Gemini Pro refuses to acknowledge yt-dlp](https://twitter.com/adocomplete/status/1811802857022324904)
