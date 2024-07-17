@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
 * [2024-07-17, 21:00:47](https://news.ycombinator.com/item?id=40990313) - [Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
+* [2024-07-17, 20:29:57](https://news.ycombinator.com/item?id=40990033) - [iDOS 3 App Review appeal rejected despite UTM PC Emulator Approval](https://litchie.com/2024/04/new-hope?updated)
 * [2024-07-17, 19:31:04](https://news.ycombinator.com/item?id=40989451) - [Show HN: Product Hunt for Music](https://tracklist.it/)
 * [2024-07-17, 19:13:48](https://news.ycombinator.com/item?id=40989310) - [Founder Gigs](https://foundergigs.com)
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
