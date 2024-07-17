@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-17, 07:57:10",
+      "https://news.ycombinator.com/item?id=40983484"
+    ],
+    [
+      "Design a GraphQL Schema So Good, It'll Make REST APIs Cry",
+      "https://tailcall.run/blog/graphql-schema/"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 07:41:17",
       "https://news.ycombinator.com/item?id=40983421"
     ],
@@ -167,16 +177,6 @@
     [
       "Codestral Mamba",
       "https://mistral.ai/news/codestral-mamba/"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 07:22:45",
-      "https://news.ycombinator.com/item?id=40974298"
-    ],
-    [
-      "New Gaussian Splatting viewer that allows code modification during runtime",
-      "https://github.com/Florian-Barthel/splatviz"
     ]
   ],
   [
