@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 18:52:09](https://news.ycombinator.com/item?id=40989075) - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
+* [2024-07-17, 18:52:06](https://news.ycombinator.com/item?id=40989074) - [NOAA Is in Danger](https://www.theatlantic.com/science/archive/2024/07/noaa-project-2025-weather/678987/)
 * [2024-07-17, 18:51:00](https://news.ycombinator.com/item?id=40989069) - [Little Languages [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 * [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 18:31:21](https://news.ycombinator.com/item?id=40988864) - [Mini PCs Database](https://minipcs.org/)
@@ -22,9 +24,7 @@
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
-* [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 * [2024-07-16, 13:34:07](https://news.ycombinator.com/item?id=40976474) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
-* [2024-07-15, 21:48:28](https://news.ycombinator.com/item?id=40971759) - [Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
 * [2024-07-14, 05:52:39](https://news.ycombinator.com/item?id=40959140) - [Java Virtual Threads: A Case Study](https://www.infoq.com/articles/java-virtual-threads-a-case-study/)
 * [2024-07-14, 00:37:55](https://news.ycombinator.com/item?id=40957990) - [Does Generative AI Facilitate Investor Trading? Evidence from ChatGPT Outages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872189)
 * [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
