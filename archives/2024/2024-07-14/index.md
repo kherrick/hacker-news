@@ -92,3 +92,4 @@
 * [2024-07-14, 01:01:23](https://news.ycombinator.com/item?id=40958097) - [The Peculiar Phenomenon of Megacryometeors (2006)](https://www.damninteresting.com/the-peculiar-phenomenon-of-megacryometeors/)
 * [2024-07-14, 00:52:51](https://news.ycombinator.com/item?id=40958064) - [How do we make remote meetings not suck?](https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck/)
 * [2024-07-14, 00:42:25](https://news.ycombinator.com/item?id=40958008) - [What the Decentralized Nature of Anonymous Tells Us About Its Power](https://lithub.com/what-the-decentralized-nature-of-anonymous-tells-us-about-its-power/)
+* [2024-07-14, 00:37:55](https://news.ycombinator.com/item?id=40957990) - [Does Generative AI Facilitate Investor Trading? Evidence from ChatGPT Outages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872189)
