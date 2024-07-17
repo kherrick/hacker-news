@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 07:57:10](https://news.ycombinator.com/item?id=40983484) - [Design a GraphQL Schema So Good, It'll Make REST APIs Cry](https://tailcall.run/blog/graphql-schema/)
 * [2024-07-17, 07:41:17](https://news.ycombinator.com/item?id=40983421) - [We Love Writing Software So Much, We're Willing to Do It for Free](https://news.alvaroduran.com/p/we-love-writing-software-so-much)
 * [2024-07-17, 07:17:19](https://news.ycombinator.com/item?id=40983326) - [Microsoft laid off a DEI team, DEI is 'no longer business critical'](https://www.businessinsider.com/microsoft-layoffs-dei-leader-email-2024-7)
 * [2024-07-17, 05:59:24](https://news.ycombinator.com/item?id=40982997) - [How climate change is altering the Earth's rotation](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/how-climate-change-is-altering-the-earths-rotation.html)
