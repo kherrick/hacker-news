@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 18:51:00](https://news.ycombinator.com/item?id=40989069) - [Little Languages [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 * [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 18:31:21](https://news.ycombinator.com/item?id=40988864) - [Mini PCs Database](https://minipcs.org/)
 * [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
+* [2024-07-17, 18:20:57](https://news.ycombinator.com/item?id=40988774) - [IRC technology news from the first half of 2024](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2024/)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 * [2024-07-17, 17:15:37](https://news.ycombinator.com/item?id=40988076) - [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
 * [2024-07-17, 17:13:41](https://news.ycombinator.com/item?id=40988052) - [Against choosing your political allegiances based on who is \"pro-crypto\"](https://vitalik.eth.limo/general/2024/07/17/procrypto.html)
