@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 17:06:30](https://news.ycombinator.com/item?id=40987971) - [Apple, Nvidia, Anthropic Used Swiped YouTube Videos to Train AI](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/)
 * [2024-07-17, 17:04:30](https://news.ycombinator.com/item?id=40987950) - [Five people infected as bird flu appears to go from cows to chickens to humans](https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/)
 * [2024-07-17, 17:00:47](https://news.ycombinator.com/item?id=40987913) - [GoGoGrandparent (YC S16) Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
 * [2024-07-17, 16:44:23](https://news.ycombinator.com/item?id=40987753) - [Nation-State Actors Targeting Software Supply Chain via GitHub [2023)](https://panther.com/blog/nation-state-actors-targeting-software-supply-chain-via-github/)
@@ -7,6 +8,7 @@
 * [2024-07-17, 16:41:38](https://news.ycombinator.com/item?id=40987730) - [Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 * [2024-07-17, 16:40:59](https://news.ycombinator.com/item?id=40987723) - [Inhibition of IL-11 signalling extends mammalian healthspan and lifespan](https://www.nature.com/articles/s41586-024-07701-9)
 * [2024-07-17, 16:10:25](https://news.ycombinator.com/item?id=40987427) - [Psilocybin Desynchronizes the Human Brain](https://www.nature.com/articles/s41586-024-07624-5)
+* [2024-07-17, 16:09:51](https://news.ycombinator.com/item?id=40987415) - [Letsencrypt Supports Wildcard Certificates](https://letsencrypt.org/docs/faq/)
 * [2024-07-17, 16:08:22](https://news.ycombinator.com/item?id=40987402) - [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
 * [2024-07-17, 15:52:34](https://news.ycombinator.com/item?id=40987224) - [Mice live longer when inflammation-boosting protein is blocked](https://www.nature.com/articles/d41586-024-02298-5)
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
@@ -18,8 +20,6 @@
 * [2024-07-17, 05:00:16](https://news.ycombinator.com/item?id=40982712) - [The Last Avant-Garde](https://lareviewofbooks.org/article/the-last-avant-garde/)
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
-* [2024-07-16, 22:26:39](https://news.ycombinator.com/item?id=40980901) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005) [pdf]](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)
-* [2024-07-16, 21:58:21](https://news.ycombinator.com/item?id=40980715) - [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
