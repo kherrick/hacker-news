@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 15:52:34](https://news.ycombinator.com/item?id=40987224) - [Mice live longer when inflammation-boosting protein is blocked](https://www.nature.com/articles/d41586-024-02298-5)
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 15:23:09](https://news.ycombinator.com/item?id=40986876) - [Amazon Sold a Used Diaper. It Tanked a Mom-and-Pop Business](https://www.bloomberg.com/news/articles/2024-07-15/how-bad-amazon-review-destroyed-beau-belle-littles-swim-diaper-business)
 * [2024-07-17, 15:04:31](https://news.ycombinator.com/item?id=40986705) - [Many US solar factories are lagging. Except those China owns](https://www.reuters.com/business/energy/many-us-solar-factories-are-lagging-except-those-china-owns-2024-07-17/)
