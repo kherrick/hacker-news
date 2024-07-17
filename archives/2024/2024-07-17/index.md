@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 11:03:38](https://news.ycombinator.com/item?id=40984589) - [Jia Tan \"JiaT75\": Added error text to warning when untaring with bsdtar](https://github.com/libarchive/libarchive/pull/1609)
+* [2024-07-17, 10:44:02](https://news.ycombinator.com/item?id=40984472) - [I lost my love for the web (2022)](https://ambitiousfounder.com/i-lost-my-love-for-the-web)
 * [2024-07-17, 10:41:08](https://news.ycombinator.com/item?id=40984456) - [Ask HN: Do you already see the impact of LLMs on the job prospects for dev's?](https://news.ycombinator.com/item?id=40984456)
 * [2024-07-17, 10:11:01](https://news.ycombinator.com/item?id=40984243) - [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
 * [2024-07-17, 08:44:15](https://news.ycombinator.com/item?id=40983717) - [Return-to-Office Mandates Aren't Worth the Talent Risks](https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks)

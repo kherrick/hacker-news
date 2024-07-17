@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 11:03:38](https://news.ycombinator.com/item?id=40984589) - [Jia Tan \"JiaT75\": Added error text to warning when untaring with bsdtar](https://github.com/libarchive/libarchive/pull/1609)
+* [2024-07-17, 10:44:02](https://news.ycombinator.com/item?id=40984472) - [I lost my love for the web (2022)](https://ambitiousfounder.com/i-lost-my-love-for-the-web)
 * [2024-07-17, 10:41:08](https://news.ycombinator.com/item?id=40984456) - [Ask HN: Do you already see the impact of LLMs on the job prospects for dev's?](https://news.ycombinator.com/item?id=40984456)
 * [2024-07-17, 10:11:01](https://news.ycombinator.com/item?id=40984243) - [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
 * [2024-07-17, 08:42:02](https://news.ycombinator.com/item?id=40983709) - [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
@@ -13,7 +15,6 @@
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981067) - [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
 * [2024-07-16, 21:58:21](https://news.ycombinator.com/item?id=40980715) - [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
 * [2024-07-16, 21:00:55](https://news.ycombinator.com/item?id=40980289) - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
-* [2024-07-16, 19:50:20](https://news.ycombinator.com/item?id=40979684) - [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-16, 17:57:35](https://news.ycombinator.com/item?id=40978731) - [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
 * [2024-07-16, 17:27:51](https://news.ycombinator.com/item?id=40978482) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
@@ -23,7 +24,6 @@
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
 * [2024-07-16, 13:34:07](https://news.ycombinator.com/item?id=40976474) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-15, 21:48:28](https://news.ycombinator.com/item?id=40971759) - [Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
-* [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
 * [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
