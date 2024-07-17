@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2024-07-17, 14:13:39",
-      "https://news.ycombinator.com/item?id=40986181"
+      "2024-07-17, 14:16:38",
+      "https://news.ycombinator.com/item?id=40986213"
     ],
     [
-      "Tom Lehrer and Santa Cruz: the trail of one of America's premier satirists",
-      "https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/"
+      "Puerto Rico files $1B suit against fossil fuel companies",
+      "https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 13:19:03",
+      "https://news.ycombinator.com/item?id=40985609"
+    ],
+    [
+      "Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry",
+      "https://news.ycombinator.com/item?id=40985609"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "The Greatest Educational Life Hack: Learning Math Ahead of Time",
       "https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 07:59:41",
-      "https://news.ycombinator.com/item?id=40983500"
-    ],
-    [
-      "Libera IRC Channels Sorted by Number of Users",
-      "https://netsplit.de/channels/?net=Libera.Chat"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=40978670"
     ],
     [
-      "Vulnerable transistors threaten to upend Europa Clipper mission – Science – AAAS",
+      "Vulnerable transistors threaten to upend Europa Clipper mission",
       "https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=40949489"
     ],
     [
-      "Notion about their usage of WASM SQLite",
+      "How we sped up Notion in the browser with WASM SQLite",
       "https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
     ]
   ],
