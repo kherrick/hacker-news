@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 * [2024-07-17, 17:15:37](https://news.ycombinator.com/item?id=40988076) - [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
+* [2024-07-17, 17:13:41](https://news.ycombinator.com/item?id=40988052) - [Against choosing your political allegiances based on who is \"pro-crypto\"](https://vitalik.eth.limo/general/2024/07/17/procrypto.html)
 * [2024-07-17, 17:06:30](https://news.ycombinator.com/item?id=40987971) - [Apple, Nvidia, Anthropic Used Swiped YouTube Videos to Train AI](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/)
 * [2024-07-17, 17:04:30](https://news.ycombinator.com/item?id=40987950) - [Five people infected as bird flu appears to go from cows to chickens to humans](https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/)
 * [2024-07-17, 17:00:47](https://news.ycombinator.com/item?id=40987913) - [GoGoGrandparent (YC S16) Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
