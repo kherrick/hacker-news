@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-17, 18:40:36",
+      "https://news.ycombinator.com/item?id=40988954"
+    ],
+    [
+      "NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules",
+      "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 18:31:21",
+      "https://news.ycombinator.com/item?id=40988864"
+    ],
+    [
+      "Mini PCs Database",
+      "https://minipcs.org/"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 18:28:44",
       "https://news.ycombinator.com/item?id=40988837"
     ],
@@ -51,22 +71,22 @@
   ],
   [
     [
+      "2024-07-17, 16:46:14",
+      "https://news.ycombinator.com/item?id=40987770"
+    ],
+    [
+      "Show HN: VisCircuit – A Note-Taking Website for Electronics and Circuits",
+      "https://viscircuit.com"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 16:41:38",
       "https://news.ycombinator.com/item?id=40987730"
     ],
     [
       "Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations",
       "https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 16:10:25",
-      "https://news.ycombinator.com/item?id=40987427"
-    ],
-    [
-      "Psilocybin Desynchronizes the Human Brain",
-      "https://www.nature.com/articles/s41586-024-07624-5"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-07-16, 16:38:07",
-      "https://news.ycombinator.com/item?id=40978073"
-    ],
-    [
-      "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
-      "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 13:34:07",
       "https://news.ycombinator.com/item?id=40976474"
     ],
@@ -277,16 +287,6 @@
     [
       "How we sped up Notion in the browser with WASM SQLite",
       "https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 14:54:55",
-      "https://news.ycombinator.com/item?id=40946165"
-    ],
-    [
-      "Of Analog Signal Filtering",
-      "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering"
     ]
   ],
   [
