@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 17:15:37](https://news.ycombinator.com/item?id=40988076) - [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
 * [2024-07-17, 17:06:30](https://news.ycombinator.com/item?id=40987971) - [Apple, Nvidia, Anthropic Used Swiped YouTube Videos to Train AI](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/)
 * [2024-07-17, 17:04:30](https://news.ycombinator.com/item?id=40987950) - [Five people infected as bird flu appears to go from cows to chickens to humans](https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/)
 * [2024-07-17, 17:00:47](https://news.ycombinator.com/item?id=40987913) - [GoGoGrandparent (YC S16) Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
@@ -15,6 +16,7 @@
 * [2024-07-17, 16:09:51](https://news.ycombinator.com/item?id=40987415) - [Letsencrypt Supports Wildcard Certificates](https://letsencrypt.org/docs/faq/)
 * [2024-07-17, 16:08:22](https://news.ycombinator.com/item?id=40987402) - [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
 * [2024-07-17, 15:52:34](https://news.ycombinator.com/item?id=40987224) - [Mice live longer when inflammation-boosting protein is blocked](https://www.nature.com/articles/d41586-024-02298-5)
+* [2024-07-17, 15:27:39](https://news.ycombinator.com/item?id=40986923) - [Scientists find that small regions of the brain can take micro-naps](https://www.sciencedaily.com/releases/2024/07/240716165143.htm)
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 15:23:09](https://news.ycombinator.com/item?id=40986876) - [Amazon Sold a Used Diaper. It Tanked a Mom-and-Pop Business](https://www.bloomberg.com/news/articles/2024-07-15/how-bad-amazon-review-destroyed-beau-belle-littles-swim-diaper-business)
 * [2024-07-17, 15:04:31](https://news.ycombinator.com/item?id=40986705) - [Many US solar factories are lagging. Except those China owns](https://www.reuters.com/business/energy/many-us-solar-factories-are-lagging-except-those-china-owns-2024-07-17/)
