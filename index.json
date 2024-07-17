@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-07-16, 17:14:47",
-      "https://news.ycombinator.com/item?id=40978372"
-    ],
-    [
-      "XLSTMTime: Long-Term Time Series Forecasting with xLSTM",
-      "https://arxiv.org/abs/2407.10240"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 13:34:07",
       "https://news.ycombinator.com/item?id=40976474"
     ],
@@ -287,6 +277,16 @@
     [
       "How we sped up Notion in the browser with WASM SQLite",
       "https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 17:11:49",
+      "https://news.ycombinator.com/item?id=40947450"
+    ],
+    [
+      "Rye Language",
+      "https://ryelang.org"
     ]
   ],
   [
