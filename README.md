@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 17:04:30](https://news.ycombinator.com/item?id=40987950) - [Five people infected as bird flu appears to go from cows to chickens to humans](https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/)
 * [2024-07-17, 17:00:47](https://news.ycombinator.com/item?id=40987913) - [GoGoGrandparent (YC S16) Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
 * [2024-07-17, 16:44:23](https://news.ycombinator.com/item?id=40987753) - [Nation-State Actors Targeting Software Supply Chain via GitHub [2023)](https://panther.com/blog/nation-state-actors-targeting-software-supply-chain-via-github/)
 * [2024-07-17, 16:43:32](https://news.ycombinator.com/item?id=40987746) - [Python Practical Package Packing 2024](https://matt.sh/python-project-structure-2024)
@@ -29,7 +30,6 @@
 * [2024-07-14, 00:37:55](https://news.ycombinator.com/item?id=40957990) - [Does Generative AI Facilitate Investor Trading? Evidence from ChatGPT Outages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872189)
 * [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
 * [2024-07-12, 21:11:41](https://news.ycombinator.com/item?id=40949489) - [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
-* [2024-07-12, 14:54:55](https://news.ycombinator.com/item?id=40946165) - [Of Analog Signal Filtering](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
 
 ## [Archives](archives/index.md)
 
