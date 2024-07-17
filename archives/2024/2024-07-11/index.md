@@ -15,6 +15,7 @@
 * [2024-07-11, 22:33:48](https://news.ycombinator.com/item?id=40941219) - [Denisovians Survived on Tibetan Plateau for 160k Years](https://explorersweb.com/mysterious-denisovans-survived-on-tibetan-plateau/)
 * [2024-07-11, 22:18:35](https://news.ycombinator.com/item?id=40941115) - [Sonnet 3.5: Please write an asteroids game](https://claude.site/artifacts/a0d4590f-5a5e-40ac-8a27-1c4db47df938)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
+* [2024-07-11, 21:46:52](https://news.ycombinator.com/item?id=40940886) - [Behind Victorian Bars](https://www.historytoday.com/archive/feature/behind-victorian-bars)
 * [2024-07-11, 21:36:03](https://news.ycombinator.com/item?id=40940817) - [The work of early Apple tech bloggers have had their names and work AI-zombified](https://www.theverge.com/2024/7/10/24195858/tuaw-unofficial-apple-tech-blog-ai-web-orange-khan)
 * [2024-07-11, 21:33:19](https://news.ycombinator.com/item?id=40940799) - ['Writing a C Compiler' is a book (2022)](https://norasandler.com/2022/03/29/Write-a-C-Compiler-the-Book.html)
 * [2024-07-11, 21:31:07](https://news.ycombinator.com/item?id=40940784) - [Wlhc: Wayland Hot Corners](https://whynothugo.nl/journal/2024/07/11/introducing-wlhc-wayland-hot-corners/)
