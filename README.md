@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
+* [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules for Linux](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 18:31:21](https://news.ycombinator.com/item?id=40988864) - [Mini PCs Database](https://minipcs.org/)
 * [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
