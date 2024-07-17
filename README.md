@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-17, 21:00:47](https://news.ycombinator.com/item?id=40990313) - [Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
+* [2024-07-17, 20:29:57](https://news.ycombinator.com/item?id=40990033) - [iDOS 3 App Review appeal rejected despite UTM PC Emulator Approval](https://litchie.com/2024/04/new-hope?updated)
 * [2024-07-17, 19:31:04](https://news.ycombinator.com/item?id=40989451) - [Show HN: Product Hunt for Music](https://tracklist.it/)
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-17, 18:52:09](https://news.ycombinator.com/item?id=40989075) - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
@@ -24,7 +25,6 @@
 * [2024-07-16, 13:34:07](https://news.ycombinator.com/item?id=40976474) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-15, 08:58:58](https://news.ycombinator.com/item?id=40966262) - [Show HN: Blitzping – A far faster nping/hping3 SYN-flood alternative with CIDR](https://github.com/Thraetaona/Blitzping)
 * [2024-07-14, 05:52:39](https://news.ycombinator.com/item?id=40959140) - [Java Virtual Threads: A Case Study](https://www.infoq.com/articles/java-virtual-threads-a-case-study/)
-* [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
 * [2024-07-13, 04:18:17](https://news.ycombinator.com/item?id=40951732) - [The Phantoms Haunting History](https://www.noemamag.com/the-phantom-haunting-history/)
 * [2024-07-12, 21:11:41](https://news.ycombinator.com/item?id=40949489) - [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-07-12, 19:06:04](https://news.ycombinator.com/item?id=40948450) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
