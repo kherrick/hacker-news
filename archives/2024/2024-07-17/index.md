@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-17](index.md)
+
+* [2024-07-17, 02:05:21](https://news.ycombinator.com/item?id=40981974) - [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
