@@ -14,6 +14,7 @@
 * [2024-07-12, 21:40:37](https://news.ycombinator.com/item?id=40949698) - [OpenAI promised to make its AI safe. Employees say it 'failed' its first test](https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/)
 * [2024-07-12, 21:35:00](https://news.ycombinator.com/item?id=40949660) - [German Navy still uses 8-inch floppy disks, working on emulating a replacement](https://arstechnica.com/gadgets/2024/07/german-navy-still-uses-8-inch-floppy-disks-working-on-emulating-a-replacement/)
 * [2024-07-12, 21:31:40](https://news.ycombinator.com/item?id=40949636) - [WTF Happened to Blogs](https://mpmisko.github.io/2024/wtf-happened-to-blogs/)
+* [2024-07-12, 21:11:41](https://news.ycombinator.com/item?id=40949489) - [Notion about their usage of WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-07-12, 20:48:47](https://news.ycombinator.com/item?id=40949286) - [VCs are now charging founders for meetings: $2500 for 30 minutes on a Zoom](https://sfstandard.com/2024/07/12/intro-cameo-techie-meeting-call/)
 * [2024-07-12, 20:42:25](https://news.ycombinator.com/item?id=40949229) - [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-12, 20:36:50](https://news.ycombinator.com/item?id=40949176) - [What is data sovereignty and why does it matter for your business?](https://proton.me/blog/data-sovereignty)
