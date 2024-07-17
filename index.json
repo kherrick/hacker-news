@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-17, 05:59:24",
-      "https://news.ycombinator.com/item?id=40982997"
-    ],
-    [
-      "How climate change is altering the Earth's rotation",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2024/07/how-climate-change-is-altering-the-earths-rotation.html"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 03:32:22",
       "https://news.ycombinator.com/item?id=40982307"
     ],
@@ -187,6 +177,16 @@
     [
       "Ly: Display Manager with Console UI",
       "https://github.com/fairyglade/ly"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 07:22:45",
+      "https://news.ycombinator.com/item?id=40974298"
+    ],
+    [
+      "New Gaussian Splatting viewer that allows code modification during runtime",
+      "https://github.com/Florian-Barthel/splatviz"
     ]
   ],
   [
