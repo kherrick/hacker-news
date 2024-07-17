@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40982307"
     ],
     [
-      "What does “Security is our top priority” really mean?",
+      "\"Security is our top priority\" is meaningless",
       "https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html"
     ]
   ],
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-07-16, 19:33:34",
+      "https://news.ycombinator.com/item?id=40979539"
+    ],
+    [
+      "After 12 years of reviewing restaurants, I'm leaving the table",
+      "https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 18:08:58",
       "https://news.ycombinator.com/item?id=40978831"
     ],
@@ -187,16 +197,6 @@
     [
       "Ly: Display Manager with Console UI",
       "https://github.com/fairyglade/ly"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 07:22:45",
-      "https://news.ycombinator.com/item?id=40974298"
-    ],
-    [
-      "New Gaussian Splatting viewer that allows code modification during runtime",
-      "https://github.com/Florian-Barthel/splatviz"
     ]
   ],
   [
