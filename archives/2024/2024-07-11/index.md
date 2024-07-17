@@ -64,6 +64,7 @@
 * [2024-07-11, 14:18:32](https://news.ycombinator.com/item?id=40937093) - [The start of complex life on Earth pushed back by 750M years](https://cosmosmagazine.com/history/archaeology/complex-life-on-earth-older-than-thought/)
 * [2024-07-11, 14:11:38](https://news.ycombinator.com/item?id=40937036) - [When scientific citations go rogue: Uncovering 'sneaked references'](https://theconversation.com/when-scientific-citations-go-rogue-uncovering-sneaked-references-233858)
 * [2024-07-11, 14:08:03](https://news.ycombinator.com/item?id=40936995) - [Starlink Mini is now available](https://www.starlink.com/us/roam)
+* [2024-07-11, 14:04:15](https://news.ycombinator.com/item?id=40936960) - [New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere](https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/)
 * [2024-07-11, 13:55:08](https://news.ycombinator.com/item?id=40936870) - [Internet Archive and Library and Archives Canada Launches Digitization Project](https://internetarchivecanada.org/2024/07/01/internet-archive-canada-launches-digitization-project-with-library-and-archives-canada/)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 13:37:39](https://news.ycombinator.com/item?id=40936681) - [Say Goodbye to Redbox](https://www.engadget.com/say-goodbye-to-redbox-130044411.html)
