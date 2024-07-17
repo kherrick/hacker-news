@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 22:51:39](https://news.ycombinator.com/item?id=40991075) - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
+* [2024-07-17, 22:02:39](https://news.ycombinator.com/item?id=40990768) - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
 * [2024-07-17, 21:00:47](https://news.ycombinator.com/item?id=40990313) - [Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
 * [2024-07-17, 20:29:57](https://news.ycombinator.com/item?id=40990033) - [iDOS 3 App Review appeal rejected despite UTM PC Emulator Approval](https://litchie.com/2024/04/new-hope?updated)
 * [2024-07-17, 19:31:04](https://news.ycombinator.com/item?id=40989451) - [Show HN: Product Hunt for Music](https://tracklist.it/)

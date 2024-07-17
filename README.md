@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 22:51:39](https://news.ycombinator.com/item?id=40991075) - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
+* [2024-07-17, 22:02:39](https://news.ycombinator.com/item?id=40990768) - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
 * [2024-07-17, 21:00:47](https://news.ycombinator.com/item?id=40990313) - [Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
-* [2024-07-17, 20:29:57](https://news.ycombinator.com/item?id=40990033) - [iDOS 3 App Review appeal rejected despite UTM PC Emulator Approval](https://litchie.com/2024/04/new-hope?updated)
 * [2024-07-17, 19:31:04](https://news.ycombinator.com/item?id=40989451) - [Show HN: Product Hunt for Music](https://tracklist.it/)
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-17, 18:52:09](https://news.ycombinator.com/item?id=40989075) - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
@@ -18,7 +19,6 @@
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 13:19:03](https://news.ycombinator.com/item?id=40985609) - [Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
 * [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
-* [2024-07-17, 08:46:55](https://news.ycombinator.com/item?id=40983734) - [The Greatest Educational Life Hack: Learning Math Ahead of Time](https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/)
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
 * [2024-07-16, 17:40:52](https://news.ycombinator.com/item?id=40978596) - [Mystery as 4k-year-old axe-heads sent to museum](https://www.bbc.com/news/articles/cydvn07d7vdo)
