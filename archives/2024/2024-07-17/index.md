@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 17:00:47](https://news.ycombinator.com/item?id=40987913) - [GoGoGrandparent (YC S16) Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
+* [2024-07-17, 16:44:23](https://news.ycombinator.com/item?id=40987753) - [Nation-State Actors Targeting Software Supply Chain via GitHub [2023)](https://panther.com/blog/nation-state-actors-targeting-software-supply-chain-via-github/)
+* [2024-07-17, 16:43:32](https://news.ycombinator.com/item?id=40987746) - [Python Practical Package Packing 2024](https://matt.sh/python-project-structure-2024)
 * [2024-07-17, 16:41:38](https://news.ycombinator.com/item?id=40987730) - [Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
+* [2024-07-17, 16:40:59](https://news.ycombinator.com/item?id=40987723) - [Inhibition of IL-11 signalling extends mammalian healthspan and lifespan](https://www.nature.com/articles/s41586-024-07701-9)
+* [2024-07-17, 16:10:25](https://news.ycombinator.com/item?id=40987427) - [Psilocybin Desynchronizes the Human Brain](https://www.nature.com/articles/s41586-024-07624-5)
 * [2024-07-17, 16:08:22](https://news.ycombinator.com/item?id=40987402) - [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
 * [2024-07-17, 15:52:34](https://news.ycombinator.com/item?id=40987224) - [Mice live longer when inflammation-boosting protein is blocked](https://www.nature.com/articles/d41586-024-02298-5)
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
