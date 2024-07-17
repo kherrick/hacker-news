@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-17, 18:28:44",
+      "https://news.ycombinator.com/item?id=40988837"
+    ],
+    [
+      "A brief interview with Awk creator Dr. Brian Kernighan",
+      "https://pldb.io/blog/brianKernighan.html"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 17:44:38",
       "https://news.ycombinator.com/item?id=40988395"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2024-07-16, 22:26:39",
-      "https://news.ycombinator.com/item?id=40980901"
-    ],
-    [
-      "Hacking the Mac OS X Kernel for Unsupported Machines (2005) [pdf]",
-      "https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 18:08:58",
       "https://news.ycombinator.com/item?id=40978831"
     ],
     [
       "Optimizing a bignum library for fun",
       "https://austinhenley.com/blog/bignum2.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 17:57:35",
-      "https://news.ycombinator.com/item?id=40978731"
-    ],
-    [
-      "I am starting an AI+Education company",
-      "https://twitter.com/karpathy/status/1813263734707790301"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Of Analog Signal Filtering",
       "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 13:47:43",
+      "https://news.ycombinator.com/item?id=40945545"
+    ],
+    [
+      "MASt3R – Matching and Stereo 3D Reconstruction",
+      "https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/"
     ]
   ]
 ]
