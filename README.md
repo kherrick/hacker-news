@@ -3,6 +3,7 @@
 * [2024-07-17, 22:51:39](https://news.ycombinator.com/item?id=40991075) - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
 * [2024-07-17, 22:02:39](https://news.ycombinator.com/item?id=40990768) - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
 * [2024-07-17, 21:00:47](https://news.ycombinator.com/item?id=40990313) - [Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
+* [2024-07-17, 20:03:30](https://news.ycombinator.com/item?id=40989806) - [What can TypeScript learn from Zig? What can Zig learn from TypeScript?](https://effectivetypescript.com/2024/07/17/advent2023-zig/)
 * [2024-07-17, 19:31:04](https://news.ycombinator.com/item?id=40989451) - [Show HN: Product Hunt for Music](https://tracklist.it/)
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-17, 18:52:09](https://news.ycombinator.com/item?id=40989075) - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
@@ -29,7 +30,6 @@
 * [2024-07-12, 21:11:41](https://news.ycombinator.com/item?id=40949489) - [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-07-12, 19:06:04](https://news.ycombinator.com/item?id=40948450) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 * [2024-07-12, 17:11:49](https://news.ycombinator.com/item?id=40947450) - [Rye Language](https://ryelang.org)
-* [2024-07-12, 13:47:43](https://news.ycombinator.com/item?id=40945545) - [MASt3R – Matching and Stereo 3D Reconstruction](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)
 
 ## [Archives](archives/index.md)
 
