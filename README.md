@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 08:44:15](https://news.ycombinator.com/item?id=40983717) - [Return-to-Office Mandates Aren't Worth the Talent Risks](https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks)
 * [2024-07-17, 08:42:02](https://news.ycombinator.com/item?id=40983709) - [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
 * [2024-07-17, 08:16:33](https://news.ycombinator.com/item?id=40983585) - [Google presents method to circumvent automatic blocking of tag manager](https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide)
 * [2024-07-17, 08:14:05](https://news.ycombinator.com/item?id=40983573) - [Fats from thin air: Startup makes butter using CO2 and water](https://newatlas.com/technology/savor-butter-bill-gates/)
@@ -20,7 +21,6 @@
 * [2024-07-16, 16:09:29](https://news.ycombinator.com/item?id=40977834) - [Deconstructing the Role-Playing Video Game](https://olano.dev/blog/deconstructing-the-role-playing-videogame/)
 * [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan plays understandable and fun to read](http://elizabethandrama.org/)
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
-* [2024-07-16, 02:55:11](https://news.ycombinator.com/item?id=40973339) - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
 * [2024-07-15, 21:48:28](https://news.ycombinator.com/item?id=40971759) - [Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
