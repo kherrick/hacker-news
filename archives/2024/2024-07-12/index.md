@@ -75,6 +75,7 @@
 * [2024-07-12, 14:04:21](https://news.ycombinator.com/item?id=40945671) - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
 * [2024-07-12, 13:57:00](https://news.ycombinator.com/item?id=40945608) - [Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 13:50:00](https://news.ycombinator.com/item?id=40945562) - [SpaceX debris crashed onto Canadian farmland, highlighting a potential disaster](https://theconversation.com/spacex-space-junk-crashed-onto-saskatchewan-farmland-highlighting-a-potential-impending-disaster-233322)
+* [2024-07-12, 13:47:37](https://news.ycombinator.com/item?id=40945542) - [Shady company relaunches popular old tech blogs, steals writers' identities](https://arstechnica.com/ai/2024/07/ilounge-and-the-unofficial-apple-weblog-are-back-as-unethical-ai-content-farms/)
 * [2024-07-12, 13:45:33](https://news.ycombinator.com/item?id=40945532) - [Ask HN: How to grow concert visuals business?](https://news.ycombinator.com/item?id=40945532)
 * [2024-07-12, 13:30:45](https://news.ycombinator.com/item?id=40945406) - [The Invisible Hand of Carbon Dioxide on Forest Productivity](https://eos.org/editor-highlights/the-invisible-hand-of-carbon-dioxide-on-forest-productivity)
 * [2024-07-12, 13:24:24](https://news.ycombinator.com/item?id=40945355) - [Born into slavery, he rose to the top of France's art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)

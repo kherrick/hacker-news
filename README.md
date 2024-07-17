@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-17, 07:17:19](https://news.ycombinator.com/item?id=40983326) - [Microsoft laid off a DEI team, DEI is 'no longer business critical'](https://www.businessinsider.com/microsoft-layoffs-dei-leader-email-2024-7)
+* [2024-07-17, 07:41:17](https://news.ycombinator.com/item?id=40983421) - [We Love Writing Software So Much, We're Willing to Do It for Free](https://news.alvaroduran.com/p/we-love-writing-software-so-much)
 * [2024-07-17, 03:32:22](https://news.ycombinator.com/item?id=40982307) - [\"Security is our top priority\" is meaningless](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-17, 02:27:01](https://news.ycombinator.com/item?id=40982050) - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
@@ -18,7 +18,6 @@
 * [2024-07-16, 16:09:29](https://news.ycombinator.com/item?id=40977834) - [Deconstructing the Role-Playing Video Game](https://olano.dev/blog/deconstructing-the-role-playing-videogame/)
 * [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan plays understandable and fun to read](http://elizabethandrama.org/)
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
-* [2024-07-16, 14:11:59](https://news.ycombinator.com/item?id=40976815) - [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
 * [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
 * [2024-07-16, 02:55:11](https://news.ycombinator.com/item?id=40973339) - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
 * [2024-07-15, 22:45:36](https://news.ycombinator.com/item?id=40972122) - [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
@@ -30,6 +29,7 @@
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
 * [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
 * [2024-07-13, 00:27:51](https://news.ycombinator.com/item?id=40950712) - [Show HN: I accidentally crated a infinite level for a wolf 3D clone](https://victorribeiro.com/raycast2/)
+* [2024-07-12, 13:47:37](https://news.ycombinator.com/item?id=40945542) - [Shady company relaunches popular old tech blogs, steals writers' identities](https://arstechnica.com/ai/2024/07/ilounge-and-the-unofficial-apple-weblog-are-back-as-unethical-ai-content-farms/)
 
 ## [Archives](archives/index.md)
 
