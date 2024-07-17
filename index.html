@@ -141,35 +141,124 @@
             <h4>
               <span>2024-07-17 @ 14:21:26</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40986261"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40986213">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change"
+              >Puerto Rico files $1B suit against fossil fuel companies</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-17 @ 14:16:38</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40986213"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="40986181">
+        <section id="40985609">
           <h3>
-            <a
-              class="item"
-              href="https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/"
-              >Tom Lehrer and Santa Cruz: the trail of one of America's premier
-              satirists</a
+            <a class="item" href="https://news.ycombinator.com/item?id=40985609"
+              >Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with
+              OpenTelemetry</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-07-17 @ 14:13:39</span
+              <span>2024-07-17 @ 13:19:03</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">4</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40986181"
+                ><a href="https://news.ycombinator.com/item?id=40985609"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://www.traceloop.com">https://www.traceloop.com</a
+              >). We help teams understand when their LLM apps are failing or
+              hallucinating at scale. See a demo:
+              <a href="https://www.traceloop.com/video"
+                >https://www.traceloop.com/video</a
+              >
+              or try it yourself at
+              <a href="https://www.traceloop.com/docs/demo"
+                >https://www.traceloop.com/docs/demo</a
+              >.
+              <p>
+                When moving your LLM app to production, significant scale makes
+                it harder for engineers and data scientists alike to understand
+                when their LLM is hallucinating or returning malformed
+                responses. When you get to millions of calls to OpenAI a month,
+                methods like “LLM as a judge” can’t work at a reasonable cost or
+                latency. So, what most people we talked to usually do is sample
+                some generations by hand, maybe for some specific important
+                customers, and manually look for errors or hallucinations.
+              </p>
+              <p>
+                Traceloop is a monitoring platform that detects when your LLM
+                app fails. Under the hood, we built real-time versions of known
+                metrics like faithfulness, relevancy, redundancy, and many
+                others. These are loosely based on some well-known NLP metrics
+                that work well for LLM-generated texts. We correlate them with
+                changes we detect in your system - like updates to prompts or to
+                the model you’re using - to detect regressions automatically.
+              </p>
+              <p>Here are some cool examples we’ve seen with our customers -</p>
+              <p>
+                1. Applying our QA relevancy metric to an entity extraction
+                task, we managed to discover issues where the model was not
+                extracting the right entities (like an address instead of a
+                person’s name); or returning random answers like “I’m here! What
+                can I help you with today?”.
+              </p>
+              <p>
+                2. Our soft-faithfulness metric was able to detect cases in
+                summarization tasks where a model was completely making up stuff
+                that never appeared in the original text.
+              </p>
+              <p>
+                One of the challenges we faced was figuring out how to collect
+                the data that we need from our customers' LLM apps. That’s where
+                OpenTelemetry came in handy. We built OpenLLMetry (<a
+                  href="https://github.com/traceloop/openllmetry"
+                  >https://github.com/traceloop/openllmetry</a
+                >), and announced it here almost a year ago. It standardized the
+                use of OpenTelemetry to observe LLM apps. We realized that the
+                concepts of traces, spans, metrics, and logs that were
+                standardized with OpenTelemetry can easily extend to gen AI. We
+                partnered with 20+ observability platforms to make sure that
+                OpenLLMetry becomes the standard for GenAI observability and
+                that the data that we collect can be sent to other platforms as
+                well.
+              </p>
+              <p>
+                We plan to extend the metrics we provide to support agents that
+                use tools, vision models, and other amazing developments in our
+                fast-paced industry.
+              </p>
+              <p>
+                We invite you to give Traceloop a spin and are eager for your
+                feedback! How do you track and debug hallucinations? How much
+                has that been an issue for you? What types of hallucinations
+                have you encountered?
+              </p>
+            </div>
           </section>
         </section>
         <section id="40985436">
@@ -185,11 +274,11 @@
             <h4>
               <span>2024-07-17 @ 13:02:28</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40985436"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -207,30 +296,11 @@
             <h4>
               <span>2024-07-17 @ 08:46:55</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40983734"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40983500">
-          <h3>
-            <a class="item" href="https://netsplit.de/channels/?net=Libera.Chat"
-              >Libera IRC Channels Sorted by Number of Users</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-17 @ 07:59:41</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40983500"
-                  >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -245,11 +315,11 @@
             <h4>
               <span>2024-07-17 @ 07:17:23</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40983328"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
             <div class="text">
@@ -324,11 +394,11 @@
             <h4>
               <span>2024-07-17 @ 05:00:16</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40982712"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -345,11 +415,11 @@
             <h4>
               <span>2024-07-17 @ 02:44:51</span
               ><span class="points-container"
-                >Points: <span class="points">373</span></span
+                >Points: <span class="points">384</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40982118"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -364,7 +434,7 @@
             <h4>
               <span>2024-07-16 @ 22:54:26</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40981068"
                   >Comments</a
@@ -385,7 +455,7 @@
             <h4>
               <span>2024-07-16 @ 22:54:26</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40981067"
                   >Comments</a
@@ -407,7 +477,7 @@
             <h4>
               <span>2024-07-16 @ 22:26:39</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40980901"
                   >Comments</a
@@ -488,11 +558,11 @@
             <h4>
               <span>2024-07-16 @ 17:57:35</span
               ><span class="points-container"
-                >Points: <span class="points">800</span></span
+                >Points: <span class="points">802</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40978731"
                   >Comments</a
-                ><span class="descendants">: 472</span></span
+                ><span class="descendants">: 473</span></span
               >
             </h4>
           </section>
@@ -502,19 +572,19 @@
             <a
               class="item"
               href="https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission"
-              >Vulnerable transistors threaten to upend Europa Clipper mission –
-              Science – AAAS</a
+              >Vulnerable transistors threaten to upend Europa Clipper
+              mission</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-07-16 @ 17:50:13</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40978670"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -535,7 +605,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40978482"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -550,7 +620,7 @@
             <h4>
               <span>2024-07-16 @ 17:14:47</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40978372"
                   >Comments</a
@@ -572,11 +642,11 @@
             <h4>
               <span>2024-07-16 @ 16:38:07</span
               ><span class="points-container"
-                >Points: <span class="points">317</span></span
+                >Points: <span class="points">318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40978073"
                   >Comments</a
-                ><span class="descendants">: 263</span></span
+                ><span class="descendants">: 271</span></span
               >
             </h4>
           </section>
@@ -612,7 +682,7 @@
             <h4>
               <span>2024-07-16 @ 13:34:07</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40976474"
                   >Comments</a
@@ -633,11 +703,11 @@
             <h4>
               <span>2024-07-15 @ 21:48:28</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40971759"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -673,11 +743,11 @@
             <h4>
               <span>2024-07-15 @ 17:16:30</span
               ><span class="points-container"
-                >Points: <span class="points">277</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40969693"
                   >Comments</a
-                ><span class="descendants">: 230</span></span
+                ><span class="descendants">: 234</span></span
               >
             </h4>
           </section>
@@ -694,7 +764,7 @@
             <h4>
               <span>2024-07-13 @ 21:40:28</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40957113"
                   >Comments</a
@@ -716,11 +786,11 @@
             <h4>
               <span>2024-07-13 @ 15:13:07</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40954571"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -750,18 +820,18 @@
             <a
               class="item"
               href="https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
-              >Notion about their usage of WASM SQLite</a
+              >How we sped up Notion in the browser with WASM SQLite</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-07-12 @ 21:11:41</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40949489"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -778,11 +848,11 @@
             <h4>
               <span>2024-07-12 @ 14:54:55</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40946165"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
