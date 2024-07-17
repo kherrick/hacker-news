@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-17, 13:29:38",
+      "https://news.ycombinator.com/item?id=40985718"
+    ],
+    [
+      "Self Hosting 101 – A Beginner's Guide",
+      "https://ente.io/blog/self-hosting-101/"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 13:02:28",
       "https://news.ycombinator.com/item?id=40985436"
     ],
@@ -17,16 +27,6 @@
     [
       "Syd the perhaps most sophisticated sandbox for Linux",
       "https://rentry.co/DSRsecuritycoursepart2#syd-the-perhaps-most-sophisticated-sandbox-for-linux"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 10:57:16",
-      "https://news.ycombinator.com/item?id=40984556"
-    ],
-    [
-      "Railroading the Pascal Language",
-      "https://www.getlazarus.org/learn/language/lexical/"
     ]
   ],
   [
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2024-07-17, 07:59:41",
-      "https://news.ycombinator.com/item?id=40983500"
+      "2024-07-17, 07:17:23",
+      "https://news.ycombinator.com/item?id=40983328"
     ],
     [
-      "Libera IRC Channels Sorted by Number of Users",
-      "https://netsplit.de/channels/?net=Libera.Chat"
+      "Show HN: Pippy – Pipelines for GitHub Actions",
+      "https://pippy.dev/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Import and Export Markdown in Google Docs",
       "https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 02:27:01",
-      "https://news.ycombinator.com/item?id=40982050"
-    ],
-    [
-      "Data Formats: 3D, Audio, Image",
-      "https://paulbourke.net/dataformats/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
       "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 16:09:29",
+      "https://news.ycombinator.com/item?id=40977834"
+    ],
+    [
+      "Deconstructing the Role-Playing Video Game",
+      "https://olano.dev/blog/deconstructing-the-role-playing-videogame/"
     ]
   ],
   [
