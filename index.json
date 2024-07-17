@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-07-17, 11:23:36",
-      "https://news.ycombinator.com/item?id=40984689"
-    ],
-    [
-      "Meta's digital censorship targets art from the Leopold Museum",
-      "https://english.elpais.com/culture/2024-07-15/metas-digital-censorship-targets-art-from-the-leopold-museum-in-vienna.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 11:03:38",
-      "https://news.ycombinator.com/item?id=40984589"
-    ],
-    [
-      "Jia Tan \"JiaT75\": Added error text to warning when untaring with bsdtar (2021)",
-      "https://github.com/libarchive/libarchive/pull/1609"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 11:02:35",
       "https://news.ycombinator.com/item?id=40984585"
     ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-07-16, 16:09:29",
+      "https://news.ycombinator.com/item?id=40977834"
+    ],
+    [
+      "Deconstructing the Role-Playing Video Game",
+      "https://olano.dev/blog/deconstructing-the-role-playing-videogame/"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 14:44:46",
       "https://news.ycombinator.com/item?id=40977103"
     ],
@@ -247,6 +237,16 @@
     [
       "Win your fantasy league using operations research",
       "https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 19:05:07",
+      "https://news.ycombinator.com/item?id=40970560"
+    ],
+    [
+      "Run CUDA, unmodified, on AMD GPUs",
+      "https://docs.scale-lang.com/"
     ]
   ],
   [
