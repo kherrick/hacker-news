@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 10:41:08](https://news.ycombinator.com/item?id=40984456) - [Ask HN: Do you already see the impact of LLMs on the job prospects for dev's?](https://news.ycombinator.com/item?id=40984456)
 * [2024-07-17, 10:11:01](https://news.ycombinator.com/item?id=40984243) - [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
 * [2024-07-17, 08:42:02](https://news.ycombinator.com/item?id=40983709) - [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
 * [2024-07-17, 08:16:33](https://news.ycombinator.com/item?id=40983585) - [Google presents method to circumvent automatic blocking of tag manager](https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide)
 * [2024-07-17, 07:59:41](https://news.ycombinator.com/item?id=40983500) - [Libera IRC Channels Sorted by Number of Users](https://netsplit.de/channels/?net=Libera.Chat)
 * [2024-07-17, 07:57:26](https://news.ycombinator.com/item?id=40983486) - [Gitlab Explores Sale](https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/)
+* [2024-07-17, 07:09:39](https://news.ycombinator.com/item?id=40983300) - [Deno-Python – A Debugging Story](https://sigmasd.github.io/blog/debug-story/)
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-17, 02:27:01](https://news.ycombinator.com/item?id=40982050) - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
@@ -18,9 +20,8 @@
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 * [2024-07-16, 16:38:07](https://news.ycombinator.com/item?id=40978073) - [Stop Microsoft users sending 'reactions' to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
 * [2024-07-16, 16:09:29](https://news.ycombinator.com/item?id=40977834) - [Deconstructing the Role-Playing Video Game](https://olano.dev/blog/deconstructing-the-role-playing-videogame/)
-* [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan plays understandable and fun to read](http://elizabethandrama.org/)
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
-* [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
+* [2024-07-16, 13:34:07](https://news.ycombinator.com/item?id=40976474) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-15, 21:48:28](https://news.ycombinator.com/item?id=40971759) - [Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
@@ -29,7 +30,6 @@
 * [2024-07-13, 00:27:51](https://news.ycombinator.com/item?id=40950712) - [Show HN: I accidentally crated a infinite level for a wolf 3D clone](https://victorribeiro.com/raycast2/)
 * [2024-07-12, 17:23:30](https://news.ycombinator.com/item?id=40947549) - [Linus Torvalds says RISC-V will make the same mistakes as Arm and x86](https://www.tomshardware.com/tech-industry/linus-torvalds-says-risc-v-will-make-the-same-mistakes-as-arm-and-x86)
 * [2024-07-12, 14:54:55](https://news.ycombinator.com/item?id=40946165) - [Of Analog Signal Filtering](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
-* [2024-07-12, 13:47:37](https://news.ycombinator.com/item?id=40945542) - [Shady company relaunches popular old tech blogs, steals writers' identities](https://arstechnica.com/ai/2024/07/ilounge-and-the-unofficial-apple-weblog-are-back-as-unethical-ai-content-farms/)
 
 ## [Archives](archives/index.md)
 

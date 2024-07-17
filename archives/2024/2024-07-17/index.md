@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 10:41:08](https://news.ycombinator.com/item?id=40984456) - [Ask HN: Do you already see the impact of LLMs on the job prospects for dev's?](https://news.ycombinator.com/item?id=40984456)
 * [2024-07-17, 10:11:01](https://news.ycombinator.com/item?id=40984243) - [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
 * [2024-07-17, 08:44:15](https://news.ycombinator.com/item?id=40983717) - [Return-to-Office Mandates Aren't Worth the Talent Risks](https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks)
 * [2024-07-17, 08:42:02](https://news.ycombinator.com/item?id=40983709) - [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
@@ -14,6 +15,7 @@
 * [2024-07-17, 07:57:10](https://news.ycombinator.com/item?id=40983484) - [Design a GraphQL Schema So Good, It'll Make REST APIs Cry](https://tailcall.run/blog/graphql-schema/)
 * [2024-07-17, 07:41:17](https://news.ycombinator.com/item?id=40983421) - [We Love Writing Software So Much, We're Willing to Do It for Free](https://news.alvaroduran.com/p/we-love-writing-software-so-much)
 * [2024-07-17, 07:17:19](https://news.ycombinator.com/item?id=40983326) - [Microsoft laid off a DEI team, DEI is 'no longer business critical'](https://www.businessinsider.com/microsoft-layoffs-dei-leader-email-2024-7)
+* [2024-07-17, 07:09:39](https://news.ycombinator.com/item?id=40983300) - [Deno-Python – A Debugging Story](https://sigmasd.github.io/blog/debug-story/)
 * [2024-07-17, 05:59:24](https://news.ycombinator.com/item?id=40982997) - [How climate change is altering the Earth's rotation](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/how-climate-change-is-altering-the-earths-rotation.html)
 * [2024-07-17, 05:00:58](https://news.ycombinator.com/item?id=40982718) - [The Internet](http://www.textfiles.com/internet/)
 * [2024-07-17, 03:32:22](https://news.ycombinator.com/item?id=40982307) - [\"Security Is Our Top Priority\" Is BS](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)

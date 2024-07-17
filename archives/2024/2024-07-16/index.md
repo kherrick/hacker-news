@@ -48,6 +48,7 @@
 * [2024-07-16, 14:42:03](https://news.ycombinator.com/item?id=40977080) - [Golang disables Nagle's algorithm, making it evil on shitty networks](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 * [2024-07-16, 14:13:24](https://news.ycombinator.com/item?id=40976827) - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 * [2024-07-16, 14:11:59](https://news.ycombinator.com/item?id=40976815) - [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
+* [2024-07-16, 13:34:07](https://news.ycombinator.com/item?id=40976474) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-16, 12:23:54](https://news.ycombinator.com/item?id=40975855) - [Math is running out of problems](https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b)
 * [2024-07-16, 12:12:42](https://news.ycombinator.com/item?id=40975797) - [UK has almost 1M EV chargers, with new public one installed every 25 minutes](https://www.theguardian.com/business/article/2024/jul/15/electric-vehicle-ev-chargers-uk-installations)
 * [2024-07-16, 11:57:38](https://news.ycombinator.com/item?id=40975691) - [The science behind an iPhone dumb phone](https://dumbph.com/the-science-behind-an-iphone-dumb-phone/)
