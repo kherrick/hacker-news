@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 05:59:24](https://news.ycombinator.com/item?id=40982997) - [How climate change is altering the Earth's rotation](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/how-climate-change-is-altering-the-earths-rotation.html)
 * [2024-07-17, 03:32:22](https://news.ycombinator.com/item?id=40982307) - [\"Security is our top priority\" is meaningless](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-17, 02:27:01](https://news.ycombinator.com/item?id=40982050) - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
-* [2024-07-17, 02:16:02](https://news.ycombinator.com/item?id=40982011) - [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 * [2024-07-17, 01:30:49](https://news.ycombinator.com/item?id=40981850) - [Eight Years of GraphQL](https://www.magiroux.com/eight-years-of-graphql)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981067) - [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
