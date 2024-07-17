@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 03:32:22](https://news.ycombinator.com/item?id=40982307) - [\"Security Is Our Top Priority\" Is BS](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
+* [2024-07-17, 03:24:26](https://news.ycombinator.com/item?id=40982276) - [China installing the wind / solar equivalent of 5 nuclear power stations a week](https://www.abc.net.au/news/science/2024-07-16/chinas-renewable-energy-boom-breaks-records/104086640)
 * [2024-07-17, 02:16:02](https://news.ycombinator.com/item?id=40982011) - [Free Introduction to Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 * [2024-07-17, 02:05:21](https://news.ycombinator.com/item?id=40981974) - [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
@@ -9,7 +11,6 @@
 * [2024-07-16, 19:50:20](https://news.ycombinator.com/item?id=40979684) - [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
 * [2024-07-16, 19:33:34](https://news.ycombinator.com/item?id=40979539) - [After 12 years of reviewing restaurants, I'm leaving the table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
-* [2024-07-16, 18:01:34](https://news.ycombinator.com/item?id=40978770) - [Schrödinger's cat among biology's pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
 * [2024-07-16, 17:57:35](https://news.ycombinator.com/item?id=40978731) - [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
 * [2024-07-16, 17:27:51](https://news.ycombinator.com/item?id=40978482) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
@@ -23,7 +24,6 @@
 * [2024-07-16, 06:31:35](https://news.ycombinator.com/item?id=40974060) - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
 * [2024-07-16, 02:55:11](https://news.ycombinator.com/item?id=40973339) - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
 * [2024-07-15, 22:45:36](https://news.ycombinator.com/item?id=40972122) - [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
-* [2024-07-15, 22:41:50](https://news.ycombinator.com/item?id=40972099) - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
 * [2024-07-15, 20:03:53](https://news.ycombinator.com/item?id=40971025) - [Automated Test-Case Reduction](https://www.cs.cornell.edu/~asampson/blog/autoreduction.html)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
