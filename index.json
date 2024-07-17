@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-07-17, 13:29:38",
-      "https://news.ycombinator.com/item?id=40985718"
-    ],
-    [
-      "Self Hosting 101 – A Beginner's Guide",
-      "https://ente.io/blog/self-hosting-101/"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 13:02:28",
       "https://news.ycombinator.com/item?id=40985436"
     ],
     [
       "New Technology Could Reduce the Amount of Energy for Air Conditioning",
       "https://www.wired.com/story/cutting-edge-technology-could-massively-reduce-the-amount-of-energy-used-for-air-conditioning/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 11:02:35",
-      "https://news.ycombinator.com/item?id=40984585"
-    ],
-    [
-      "Syd the perhaps most sophisticated sandbox for Linux",
-      "https://rentry.co/DSRsecuritycoursepart2#syd-the-perhaps-most-sophisticated-sandbox-for-linux"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 08:57:49",
-      "https://news.ycombinator.com/item?id=40983794"
-    ],
-    [
-      "Post Office Horizon scandal explained: Everything you need to know",
-      "https://www.computerweekly.com/feature/Post-Office-Horizon-scandal-explained-everything-you-need-to-know"
     ]
   ],
   [
@@ -77,6 +47,16 @@
     [
       "Deno-Python – A Debugging Story",
       "https://sigmasd.github.io/blog/debug-story/"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 05:00:16",
+      "https://news.ycombinator.com/item?id=40982712"
+    ],
+    [
+      "The Last Avant-Garde",
+      "https://lareviewofbooks.org/article/the-last-avant-garde/"
     ]
   ],
   [
@@ -171,16 +151,6 @@
   ],
   [
     [
-      "2024-07-16, 17:40:52",
-      "https://news.ycombinator.com/item?id=40978596"
-    ],
-    [
-      "Mystery as 4k-year-old axe-heads sent to museum",
-      "https://www.bbc.com/news/articles/cydvn07d7vdo"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 17:27:51",
       "https://news.ycombinator.com/item?id=40978482"
     ],
@@ -207,6 +177,26 @@
     [
       "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
       "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 16:09:29",
+      "https://news.ycombinator.com/item?id=40977834"
+    ],
+    [
+      "Deconstructing the Role-Playing Video Game",
+      "https://olano.dev/blog/deconstructing-the-role-playing-videogame/"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 15:20:34",
+      "https://news.ycombinator.com/item?id=40977389"
+    ],
+    [
+      "Making Elizabethan plays understandable and fun to read",
+      "http://elizabethandrama.org/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: I accidentally crated a infinite level for a wolf 3D clone",
       "https://victorribeiro.com/raycast2/"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 21:11:41",
+      "https://news.ycombinator.com/item?id=40949489"
+    ],
+    [
+      "Notion about their usage of WASM SQLite",
+      "https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
     ]
   ],
   [
