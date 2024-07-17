@@ -36,6 +36,7 @@
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
 * [2024-07-13, 15:23:41](https://news.ycombinator.com/item?id=40954606) - [Dr. Ruth Westheimer, America's pioneering sex therapist, dies at 96](https://apnews.com/article/ruth-westheimer-dies-6d4af57b5f034bf9a90977de41b88735)
 * [2024-07-13, 15:13:48](https://news.ycombinator.com/item?id=40954573) - [Ask HN: Do dead YC companies sell their brands/IP?](https://news.ycombinator.com/item?id=40954573)
+* [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
 * [2024-07-13, 15:11:14](https://news.ycombinator.com/item?id=40954562) - [National Guard soldiers training with 'pocket-sized' drones](https://taskandpurpose.com/news/national-guard-pocket-sized-drones/)
 * [2024-07-13, 15:08:22](https://news.ycombinator.com/item?id=40954535) - [\"Firefox added [ad tracking] and has already turned it on without asking you\"](https://mastodon.social/@mcc/112775362045378963)
 * [2024-07-13, 15:01:23](https://news.ycombinator.com/item?id=40954500) - [Intel's woes with Core i9 CPUs crashing look worse than we thought](https://www.techradar.com/computing/cpu/intels-woes-with-core-i9-cpus-crashing-look-worse-than-we-thought-team-blue-really-needs-to-act-now-to-fix-this-mess)
