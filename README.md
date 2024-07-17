@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 10:11:01](https://news.ycombinator.com/item?id=40984243) - [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
 * [2024-07-17, 08:42:02](https://news.ycombinator.com/item?id=40983709) - [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
 * [2024-07-17, 08:16:33](https://news.ycombinator.com/item?id=40983585) - [Google presents method to circumvent automatic blocking of tag manager](https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide)
 * [2024-07-17, 07:59:41](https://news.ycombinator.com/item?id=40983500) - [Libera IRC Channels Sorted by Number of Users](https://netsplit.de/channels/?net=Libera.Chat)
@@ -8,7 +9,6 @@
 * [2024-07-17, 02:27:01](https://news.ycombinator.com/item?id=40982050) - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981067) - [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
-* [2024-07-16, 22:26:39](https://news.ycombinator.com/item?id=40980901) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005) [pdf]](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)
 * [2024-07-16, 21:58:21](https://news.ycombinator.com/item?id=40980715) - [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
 * [2024-07-16, 21:00:55](https://news.ycombinator.com/item?id=40980289) - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
 * [2024-07-16, 19:50:20](https://news.ycombinator.com/item?id=40979684) - [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
