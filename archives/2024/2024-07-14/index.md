@@ -77,6 +77,7 @@
 * [2024-07-14, 07:04:38](https://news.ycombinator.com/item?id=40959345) - [Photo appears to capture path of bullet used in assassination attempt](https://archive.is/2024.07.14-064613/https://www.nytimes.com/2024/07/14/us/politics/photo-path-trump-assassination.html)
 * [2024-07-14, 06:58:53](https://news.ycombinator.com/item?id=40959332) - [Go Range Iterators Demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
 * [2024-07-14, 06:40:47](https://news.ycombinator.com/item?id=40959283) - [Wikipedia is rolling out dark mode support](https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading)
+* [2024-07-14, 05:52:39](https://news.ycombinator.com/item?id=40959140) - [Java Virtual Threads: A Case Study](https://www.infoq.com/articles/java-virtual-threads-a-case-study/)
 * [2024-07-14, 05:48:55](https://news.ycombinator.com/item?id=40959121) - [Six Dumbest Ideas in Computer Security](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2024-07-14, 05:47:15](https://news.ycombinator.com/item?id=40959114) - [Show HN: Procedural Art –– 'Pulse'](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
 * [2024-07-14, 05:06:28](https://news.ycombinator.com/item?id=40958959) - [ULID: Like UUID but Sortable](https://github.com/ulid/spec)
