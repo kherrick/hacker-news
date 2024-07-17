@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-07-16, 20:55:05",
-      "https://news.ycombinator.com/item?id=40980253"
-    ],
-    [
-      "Who's got the guts to go to the moon?",
-      "https://www.experimental-history.com/p/whos-got-the-guts-to-go-to-the-moon"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 19:50:20",
       "https://news.ycombinator.com/item?id=40979684"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-07-15, 22:41:50",
+      "https://news.ycombinator.com/item?id=40972099"
+    ],
+    [
+      "KUtrace: Low-overhead Linux kernel tracing facility",
+      "https://github.com/dicksites/KUtrace"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 20:03:53",
       "https://news.ycombinator.com/item?id=40971025"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-07-11, 19:50:48",
-      "https://news.ycombinator.com/item?id=40939964"
-    ],
-    [
-      "Run Functions in Another Stack with Zig",
-      "https://teiolass.gitlab.io/posts/zig_stack/"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 19:15:21",
       "https://news.ycombinator.com/item?id=40939660"
     ],
     [
       "Video Ethnography of \"ICARUS\" on the Xerox Alto [video] (2017)",
       "https://www.youtube.com/watch?v=BauuOoB6EIU"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 14:04:15",
+      "https://news.ycombinator.com/item?id=40936960"
+    ],
+    [
+      "New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere",
+      "https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/"
     ]
   ]
 ]
