@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 15:04:31](https://news.ycombinator.com/item?id=40986705) - [Many US solar factories are lagging. Except those China owns](https://www.reuters.com/business/energy/many-us-solar-factories-are-lagging-except-those-china-owns-2024-07-17/)
 * [2024-07-17, 14:21:26](https://news.ycombinator.com/item?id=40986261) - [Bhutan's first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
 * [2024-07-17, 14:16:38](https://news.ycombinator.com/item?id=40986213) - [Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
 * [2024-07-17, 14:13:39](https://news.ycombinator.com/item?id=40986181) - [Tom Lehrer and Santa Cruz: the trail of one of America's premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
 * [2024-07-17, 13:29:38](https://news.ycombinator.com/item?id=40985718) - [Self Hosting 101 – A Beginner's Guide](https://ente.io/blog/self-hosting-101/)
 * [2024-07-17, 13:19:03](https://news.ycombinator.com/item?id=40985609) - [Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
+* [2024-07-17, 13:17:58](https://news.ycombinator.com/item?id=40985596) - [(Opinion) Crypto mining is nonessential and is killing our climate](https://news.ycombinator.com/item?id=40985596)
 * [2024-07-17, 13:02:28](https://news.ycombinator.com/item?id=40985436) - [New Technology Could Reduce the Amount of Energy for Air Conditioning](https://www.wired.com/story/cutting-edge-technology-could-massively-reduce-the-amount-of-energy-used-for-air-conditioning/)
+* [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera](https://dalpix.com/reverse-engineering-ip-camera-part-1)
 * [2024-07-17, 12:47:49](https://news.ycombinator.com/item?id=40985285) - [Pinned Tweet Ordered by UK Court – Craig Wright Not Satoshi Nakamoto](https://twitter.com/Dr_CSWright/status/1813547003676164132)
 * [2024-07-17, 12:13:47](https://news.ycombinator.com/item?id=40984994) - [Can Universal Basic Income Transform Society?](https://www.theguardian.com/society/article/2024/jul/14/money-for-nothing-is-universal-basic-income-about-to-transform-society)
 * [2024-07-17, 11:23:36](https://news.ycombinator.com/item?id=40984689) - [Meta's digital censorship targets art from the Leopold Museum](https://english.elpais.com/culture/2024-07-15/metas-digital-censorship-targets-art-from-the-leopold-museum-in-vienna.html)
