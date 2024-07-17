@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 19:31:04](https://news.ycombinator.com/item?id=40989451) - [Show HN: Product Hunt for Music](https://tracklist.it/)
 * [2024-07-17, 19:13:48](https://news.ycombinator.com/item?id=40989310) - [Founder Gigs](https://foundergigs.com)
+* [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-17, 18:52:09](https://news.ycombinator.com/item?id=40989075) - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
 * [2024-07-17, 18:52:06](https://news.ycombinator.com/item?id=40989074) - [NOAA Is in Danger](https://www.theatlantic.com/science/archive/2024/07/noaa-project-2025-weather/678987/)
 * [2024-07-17, 18:51:00](https://news.ycombinator.com/item?id=40989069) - [Little Languages [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
