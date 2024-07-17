@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-17, 11:03:38",
+      "https://news.ycombinator.com/item?id=40984589"
+    ],
+    [
+      "Jia Tan \"JiaT75\": Added error text to warning when untaring with bsdtar",
+      "https://github.com/libarchive/libarchive/pull/1609"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 10:44:02",
+      "https://news.ycombinator.com/item?id=40984472"
+    ],
+    [
+      "I lost my love for the web (2022)",
+      "https://ambitiousfounder.com/i-lost-my-love-for-the-web"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 10:41:08",
       "https://news.ycombinator.com/item?id=40984456"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-07-16, 19:50:20",
-      "https://news.ycombinator.com/item?id=40979684"
-    ],
-    [
-      "Convex Architecture Handbook 1984 [pdf]",
-      "http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 18:08:58",
       "https://news.ycombinator.com/item?id=40978831"
     ],
@@ -227,16 +237,6 @@
     [
       "Win your fantasy league using operations research",
       "https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 19:05:07",
-      "https://news.ycombinator.com/item?id=40970560"
-    ],
-    [
-      "Run CUDA, unmodified, on AMD GPUs",
-      "https://docs.scale-lang.com/"
     ]
   ],
   [
