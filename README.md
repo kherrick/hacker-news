@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-17, 08:44:15](https://news.ycombinator.com/item?id=40983717) - [Return-to-Office Mandates Aren't Worth the Talent Risks](https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks)
 * [2024-07-17, 08:42:02](https://news.ycombinator.com/item?id=40983709) - [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
 * [2024-07-17, 08:16:33](https://news.ycombinator.com/item?id=40983585) - [Google presents method to circumvent automatic blocking of tag manager](https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide)
 * [2024-07-17, 08:14:05](https://news.ycombinator.com/item?id=40983573) - [Fats from thin air: Startup makes butter using CO2 and water](https://newatlas.com/technology/savor-butter-bill-gates/)
+* [2024-07-17, 07:59:41](https://news.ycombinator.com/item?id=40983500) - [Libera IRC Channels Sorted by Number of Users](https://netsplit.de/channels/?net=Libera.Chat)
 * [2024-07-17, 07:57:26](https://news.ycombinator.com/item?id=40983486) - [Gitlab Explores Sale](https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/)
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-17, 02:27:01](https://news.ycombinator.com/item?id=40982050) - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
@@ -24,10 +24,10 @@
 * [2024-07-15, 21:48:28](https://news.ycombinator.com/item?id=40971759) - [Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
 * [2024-07-15, 19:05:07](https://news.ycombinator.com/item?id=40970560) - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 * [2024-07-15, 17:16:30](https://news.ycombinator.com/item?id=40969693) - [Story points are pointless, measure queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
-* [2024-07-14, 05:52:39](https://news.ycombinator.com/item?id=40959140) - [Java Virtual Threads: A Case Study](https://www.infoq.com/articles/java-virtual-threads-a-case-study/)
 * [2024-07-13, 21:40:28](https://news.ycombinator.com/item?id=40957113) - [Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
 * [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
 * [2024-07-13, 00:27:51](https://news.ycombinator.com/item?id=40950712) - [Show HN: I accidentally crated a infinite level for a wolf 3D clone](https://victorribeiro.com/raycast2/)
+* [2024-07-12, 17:23:30](https://news.ycombinator.com/item?id=40947549) - [Linus Torvalds says RISC-V will make the same mistakes as Arm and x86](https://www.tomshardware.com/tech-industry/linus-torvalds-says-risc-v-will-make-the-same-mistakes-as-arm-and-x86)
 * [2024-07-12, 14:54:55](https://news.ycombinator.com/item?id=40946165) - [Of Analog Signal Filtering](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
 * [2024-07-12, 13:47:37](https://news.ycombinator.com/item?id=40945542) - [Shady company relaunches popular old tech blogs, steals writers' identities](https://arstechnica.com/ai/2024/07/ilounge-and-the-unofficial-apple-weblog-are-back-as-unethical-ai-content-farms/)
 

@@ -8,6 +8,7 @@
 * [2024-07-17, 08:42:02](https://news.ycombinator.com/item?id=40983709) - [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
 * [2024-07-17, 08:16:33](https://news.ycombinator.com/item?id=40983585) - [Google presents method to circumvent automatic blocking of tag manager](https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide)
 * [2024-07-17, 08:14:05](https://news.ycombinator.com/item?id=40983573) - [Fats from thin air: Startup makes butter using CO2 and water](https://newatlas.com/technology/savor-butter-bill-gates/)
+* [2024-07-17, 07:59:41](https://news.ycombinator.com/item?id=40983500) - [Libera IRC Channels Sorted by Number of Users](https://netsplit.de/channels/?net=Libera.Chat)
 * [2024-07-17, 07:57:26](https://news.ycombinator.com/item?id=40983486) - [Gitlab Explores Sale](https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/)
 * [2024-07-17, 07:57:10](https://news.ycombinator.com/item?id=40983484) - [Design a GraphQL Schema So Good, It'll Make REST APIs Cry](https://tailcall.run/blog/graphql-schema/)
 * [2024-07-17, 07:41:17](https://news.ycombinator.com/item?id=40983421) - [We Love Writing Software So Much, We're Willing to Do It for Free](https://news.alvaroduran.com/p/we-love-writing-software-so-much)
