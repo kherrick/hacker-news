@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-07-17, 01:59:48",
-      "https://news.ycombinator.com/item?id=40981954"
-    ],
-    [
-      "Mermaid Gantt diagrams are great for displaying distributed traces in Markdown",
-      "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 22:54:26",
       "https://news.ycombinator.com/item?id=40981068"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: Horizon – Private alternative to Imgur",
       "https://horizon.pics"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 22:41:50",
+      "https://news.ycombinator.com/item?id=40972099"
+    ],
+    [
+      "KUtrace: Low-overhead Linux kernel tracing facility",
+      "https://github.com/dicksites/KUtrace"
     ]
   ],
   [
