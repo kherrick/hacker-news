@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 15:23:09](https://news.ycombinator.com/item?id=40986876) - [Amazon Sold a Used Diaper. It Tanked a Mom-and-Pop Business](https://www.bloomberg.com/news/articles/2024-07-15/how-bad-amazon-review-destroyed-beau-belle-littles-swim-diaper-business)
 * [2024-07-17, 15:04:31](https://news.ycombinator.com/item?id=40986705) - [Many US solar factories are lagging. Except those China owns](https://www.reuters.com/business/energy/many-us-solar-factories-are-lagging-except-those-china-owns-2024-07-17/)
 * [2024-07-17, 14:21:26](https://news.ycombinator.com/item?id=40986261) - [Bhutan's first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
@@ -23,7 +24,6 @@
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 * [2024-07-16, 16:38:07](https://news.ycombinator.com/item?id=40978073) - [Stop Microsoft users sending 'reactions' to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
-* [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
 * [2024-07-16, 13:34:07](https://news.ycombinator.com/item?id=40976474) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-15, 21:48:28](https://news.ycombinator.com/item?id=40971759) - [Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
 * [2024-07-14, 05:52:39](https://news.ycombinator.com/item?id=40959140) - [Java Virtual Threads: A Case Study](https://www.infoq.com/articles/java-virtual-threads-a-case-study/)
