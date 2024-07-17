@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
+* [2024-07-17, 18:31:21](https://news.ycombinator.com/item?id=40988864) - [Mini PCs Database](https://minipcs.org/)
 * [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 * [2024-07-17, 17:15:37](https://news.ycombinator.com/item?id=40988076) - [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
@@ -11,6 +13,7 @@
 * [2024-07-17, 17:06:30](https://news.ycombinator.com/item?id=40987971) - [Apple, Nvidia, Anthropic Used Swiped YouTube Videos to Train AI](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/)
 * [2024-07-17, 17:04:30](https://news.ycombinator.com/item?id=40987950) - [Five people infected as bird flu appears to go from cows to chickens to humans](https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/)
 * [2024-07-17, 17:00:47](https://news.ycombinator.com/item?id=40987913) - [GoGoGrandparent (YC S16) Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
+* [2024-07-17, 16:46:14](https://news.ycombinator.com/item?id=40987770) - [Show HN: VisCircuit – A Note-Taking Website for Electronics and Circuits](https://viscircuit.com)
 * [2024-07-17, 16:44:23](https://news.ycombinator.com/item?id=40987753) - [Nation-State Actors Targeting Software Supply Chain via GitHub [2023)](https://panther.com/blog/nation-state-actors-targeting-software-supply-chain-via-github/)
 * [2024-07-17, 16:43:32](https://news.ycombinator.com/item?id=40987746) - [Python Practical Package Packing 2024](https://matt.sh/python-project-structure-2024)
 * [2024-07-17, 16:41:38](https://news.ycombinator.com/item?id=40987730) - [Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
