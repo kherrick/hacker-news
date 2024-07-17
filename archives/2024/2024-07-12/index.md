@@ -32,6 +32,7 @@
 * [2024-07-12, 19:36:28](https://news.ycombinator.com/item?id=40948680) - [We need superknowledge before superintelligence](https://exa.ai/blog/superknowledge)
 * [2024-07-12, 19:29:21](https://news.ycombinator.com/item?id=40948636) - [Follow the Crypto](https://www.followthecrypto.org/)
 * [2024-07-12, 19:19:31](https://news.ycombinator.com/item?id=40948566) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
+* [2024-07-12, 19:06:04](https://news.ycombinator.com/item?id=40948450) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 * [2024-07-12, 18:54:17](https://news.ycombinator.com/item?id=40948353) - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 18:41:33](https://news.ycombinator.com/item?id=40948245) - [Is Mesop and Web Components the cure to Front-end fatigue?](https://google.github.io/mesop/blog/2024/07/12/is-mesop--web-components-the-cure-to-front-end-fatigue/)
 * [2024-07-12, 18:39:52](https://news.ycombinator.com/item?id=40948232) - [Discord vs. IRC Rough Notes](https://push.cx/discord-vs-irc-notes)

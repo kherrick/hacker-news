@@ -26,8 +26,8 @@
 * [2024-07-15, 08:58:58](https://news.ycombinator.com/item?id=40966262) - [Show HN: Blitzping – A far faster nping/hping3 SYN-flood alternative with CIDR](https://github.com/Thraetaona/Blitzping)
 * [2024-07-14, 05:52:39](https://news.ycombinator.com/item?id=40959140) - [Java Virtual Threads: A Case Study](https://www.infoq.com/articles/java-virtual-threads-a-case-study/)
 * [2024-07-14, 00:37:55](https://news.ycombinator.com/item?id=40957990) - [Does generative AI facilitate investor trading? Evidence from ChatGPT outages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872189)
-* [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
 * [2024-07-12, 21:11:41](https://news.ycombinator.com/item?id=40949489) - [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
+* [2024-07-12, 19:06:04](https://news.ycombinator.com/item?id=40948450) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 * [2024-07-12, 17:11:49](https://news.ycombinator.com/item?id=40947450) - [Rye Language](https://ryelang.org)
 * [2024-07-12, 13:47:43](https://news.ycombinator.com/item?id=40945545) - [MASt3R – Matching and Stereo 3D Reconstruction](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)
 
