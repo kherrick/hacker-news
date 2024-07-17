@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 * [2024-07-17, 17:15:37](https://news.ycombinator.com/item?id=40988076) - [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
 * [2024-07-17, 17:13:41](https://news.ycombinator.com/item?id=40988052) - [Against choosing your political allegiances based on who is \"pro-crypto\"](https://vitalik.eth.limo/general/2024/07/17/procrypto.html)
@@ -17,9 +18,7 @@
 * [2024-07-17, 05:00:16](https://news.ycombinator.com/item?id=40982712) - [The Last Avant-Garde](https://lareviewofbooks.org/article/the-last-avant-garde/)
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
-* [2024-07-16, 22:26:39](https://news.ycombinator.com/item?id=40980901) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005) [pdf]](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
-* [2024-07-16, 17:57:35](https://news.ycombinator.com/item?id=40978731) - [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 * [2024-07-16, 16:38:07](https://news.ycombinator.com/item?id=40978073) - [Stop Microsoft users sending 'reactions' to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
@@ -30,6 +29,7 @@
 * [2024-07-13, 15:13:07](https://news.ycombinator.com/item?id=40954571) - [Individualized Spaced Repetition in Hierarchical Knowledge Structures](https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/)
 * [2024-07-12, 21:11:41](https://news.ycombinator.com/item?id=40949489) - [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-07-12, 14:54:55](https://news.ycombinator.com/item?id=40946165) - [Of Analog Signal Filtering](https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering)
+* [2024-07-12, 13:47:43](https://news.ycombinator.com/item?id=40945545) - [MASt3R – Matching and Stereo 3D Reconstruction](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)
 
 ## [Archives](archives/index.md)
 
