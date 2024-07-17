@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-17, 14:21:26](https://news.ycombinator.com/item?id=40986261) - [Bhutan's first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
+* [2024-07-17, 14:13:39](https://news.ycombinator.com/item?id=40986181) - [Tom Lehrer and Santa Cruz: the trail of one of America's premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
 * [2024-07-17, 13:02:28](https://news.ycombinator.com/item?id=40985436) - [New Technology Could Reduce the Amount of Energy for Air Conditioning](https://www.wired.com/story/cutting-edge-technology-could-massively-reduce-the-amount-of-energy-used-for-air-conditioning/)
 * [2024-07-17, 08:46:55](https://news.ycombinator.com/item?id=40983734) - [The Greatest Educational Life Hack: Learning Math Ahead of Time](https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/)
 * [2024-07-17, 07:59:41](https://news.ycombinator.com/item?id=40983500) - [Libera IRC Channels Sorted by Number of Users](https://netsplit.de/channels/?net=Libera.Chat)
@@ -18,8 +20,6 @@
 * [2024-07-16, 17:27:51](https://news.ycombinator.com/item?id=40978482) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
 * [2024-07-16, 17:14:47](https://news.ycombinator.com/item?id=40978372) - [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 * [2024-07-16, 16:38:07](https://news.ycombinator.com/item?id=40978073) - [Stop Microsoft users sending 'reactions' to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
-* [2024-07-16, 16:09:29](https://news.ycombinator.com/item?id=40977834) - [Deconstructing the Role-Playing Video Game](https://olano.dev/blog/deconstructing-the-role-playing-videogame/)
-* [2024-07-16, 15:20:34](https://news.ycombinator.com/item?id=40977389) - [Making Elizabethan plays understandable and fun to read](http://elizabethandrama.org/)
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
 * [2024-07-16, 13:34:07](https://news.ycombinator.com/item?id=40976474) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-15, 21:48:28](https://news.ycombinator.com/item?id=40971759) - [Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
