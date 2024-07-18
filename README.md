@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-18, 19:28:21](https://news.ycombinator.com/item?id=40998927) - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
+* [2024-07-18, 19:28:35](https://news.ycombinator.com/item?id=40998931) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
+* [2024-07-18, 19:28:21](https://news.ycombinator.com/item?id=40998927) - [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 * [2024-07-18, 18:56:33](https://news.ycombinator.com/item?id=40998647) - [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
 * [2024-07-18, 18:42:45](https://news.ycombinator.com/item?id=40998525) - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
 * [2024-07-18, 18:38:53](https://news.ycombinator.com/item?id=40998481) - [Forewarn gives realtors access to buyers' histories with a phone number](https://therecord.media/forewarn-app-real-estate-homebuyer-data)
@@ -8,7 +9,6 @@
 * [2024-07-18, 18:21:51](https://news.ycombinator.com/item?id=40998351) - [Wing-slapping: A defensive behavior by honey bees against ants](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
-* [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:18:55](https://news.ycombinator.com/item?id=40997775) - [What Materials Are Magnetic?](https://sciencenotes.org/list-of-magnetic-metals/)
 * [2024-07-18, 17:00:52](https://news.ycombinator.com/item?id=40997571) - [Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)

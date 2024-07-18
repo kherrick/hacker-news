@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 19:28:35](https://news.ycombinator.com/item?id=40998931) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 * [2024-07-18, 19:28:21](https://news.ycombinator.com/item?id=40998927) - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 * [2024-07-18, 19:08:56](https://news.ycombinator.com/item?id=40998767) - [Apple breaks silence on claims it used 'swiped YouTube videos' to train AI](https://mashable.com/article/apple-breaks-silence-on-swiped-youtube-video-claims)
 * [2024-07-18, 18:56:33](https://news.ycombinator.com/item?id=40998647) - [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
