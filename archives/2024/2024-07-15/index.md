@@ -55,6 +55,7 @@
 * [2024-07-15, 16:09:19](https://news.ycombinator.com/item?id=40969120) - [Radar evidence of accessible Moon cave conduit below Mare Tranquillitatis pit](https://www.nature.com/articles/s41550-024-02302-y)
 * [2024-07-15, 15:57:24](https://news.ycombinator.com/item?id=40969025) - [Cave discovered on Moon could be home for humans](https://www.bbc.co.uk/news/articles/ce784r9njz0o)
 * [2024-07-15, 15:53:49](https://news.ycombinator.com/item?id=40968981) - [A simple guide to HTML <head> elements](https://htmlhead.dev)
+* [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 * [2024-07-15, 15:25:53](https://news.ycombinator.com/item?id=40968689) - [Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
 * [2024-07-15, 15:17:21](https://news.ycombinator.com/item?id=40968612) - [Health benefits of replacing butter with high-quality plant oils](https://www.dife.de/en/details-home/blood-fat-profiles-confirm-health-benefits-of-replacing-butter-with-high-quality-plant-oils-479/)
 * [2024-07-15, 15:06:29](https://news.ycombinator.com/item?id=40968520) - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
