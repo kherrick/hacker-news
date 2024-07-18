@@ -29,6 +29,7 @@
 * [2024-07-13, 17:29:19](https://news.ycombinator.com/item?id=40955437) - [Ask HN: User communities that aren't Discord?](https://news.ycombinator.com/item?id=40955437)
 * [2024-07-13, 17:17:44](https://news.ycombinator.com/item?id=40955356) - [Safer roundabouts are replacing traffic signals](https://www.urbanismspeakeasy.com/p/86-of-americans-now-work-from-home)
 * [2024-07-13, 17:14:26](https://news.ycombinator.com/item?id=40955339) - [Mathematical Sculptures Made from Office Supplies](http://zacharyabel.com/sculpture/)
+* [2024-07-13, 17:04:41](https://news.ycombinator.com/item?id=40955272) - [Jigsaw Puzzle Robot, Or: How We Solved a Puzzle in 15 Months [pdf]](https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813)
 * [2024-07-13, 17:00:02](https://news.ycombinator.com/item?id=40955226) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
 * [2024-07-13, 16:20:43](https://news.ycombinator.com/item?id=40954921) - [Exporting private keys in plang programming language](https://ingig.substack.com/p/exporting-private-keys-in-plang)
 * [2024-07-13, 16:14:27](https://news.ycombinator.com/item?id=40954879) - [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
