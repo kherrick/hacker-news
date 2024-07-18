@@ -76,6 +76,7 @@
 * [2024-07-16, 02:25:08](https://news.ycombinator.com/item?id=40973219) - [Task Dashboard Tips for Peak Productivity](https://www.leiga.com/post/task-dashboards)
 * [2024-07-16, 02:23:37](https://news.ycombinator.com/item?id=40973215) - [We built our world for a climate that no longer exists](https://www.cnn.com/2024/07/12/opinions/climate-crisis-change-extreme-weather-infrastructure/index.html)
 * [2024-07-16, 02:03:03](https://news.ycombinator.com/item?id=40973123) - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
+* [2024-07-16, 01:02:27](https://news.ycombinator.com/item?id=40972851) - [He secretly changed this freeway sign, helped millions of drivers [video]](https://www.youtube.com/watch?v=26-4oARwfF4)
 * [2024-07-16, 01:00:18](https://news.ycombinator.com/item?id=40972842) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
 * [2024-07-16, 00:18:20](https://news.ycombinator.com/item?id=40972609) - [Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
 * [2024-07-16, 00:14:50](https://news.ycombinator.com/item?id=40972596) - [Ask HN: Struggling with poor memory and executive function. What to do?](https://news.ycombinator.com/item?id=40972596)

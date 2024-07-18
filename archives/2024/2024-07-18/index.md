@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 05:56:36](https://news.ycombinator.com/item?id=40992854) - [SKI Combinator Calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
 * [2024-07-18, 05:30:05](https://news.ycombinator.com/item?id=40992760) - [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
 * [2024-07-18, 05:05:21](https://news.ycombinator.com/item?id=40992654) - [Amazon's Kindle Direct Publishing is a dystopian nightmare](https://news.ycombinator.com/item?id=40992654)
 * [2024-07-18, 05:03:39](https://news.ycombinator.com/item?id=40992644) - [Money and Happiness: Extended Evidence Against Satiation](https://happiness-science.org/money-happiness-satiation/)
