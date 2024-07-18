@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-18, 15:04:24",
+      "https://news.ycombinator.com/item?id=40996248"
+    ],
+    [
+      "OpenAI Slashes the Cost of Using Its AI with a \"Mini\" Model",
+      "https://www.wired.com/story/openai-gpt-4o-mini/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 14:58:46",
+      "https://news.ycombinator.com/item?id=40996185"
+    ],
+    [
+      "Ford spends $3B to expand large truck production in plant previously set for EVs",
+      "https://www.cnbc.com/2024/07/18/ford-canada-large-truck-production.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 14:51:12",
+      "https://news.ycombinator.com/item?id=40996118"
+    ],
+    [
+      "Ask HN: Every day feels like prison",
+      "https://news.ycombinator.com/item?id=40996118"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 14:45:42",
       "https://news.ycombinator.com/item?id=40996058"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2024-07-17, 17:15:37",
-      "https://news.ycombinator.com/item?id=40988076"
-    ],
-    [
-      "Prover-Verifier Games improve legibility of language model outputs",
-      "https://openai.com/index/prover-verifier-games-improve-legibility/"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 16:41:38",
       "https://news.ycombinator.com/item?id=40987730"
     ],
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2024-07-17, 13:19:03",
-      "https://news.ycombinator.com/item?id=40985609"
-    ],
-    [
-      "Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry",
-      "https://news.ycombinator.com/item?id=40985609"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 13:02:19",
-      "https://news.ycombinator.com/item?id=40985433"
-    ],
-    [
-      "Reverse-Engineering an IP Camera (2019)",
-      "https://dalpix.com/reverse-engineering-ip-camera-part-1"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 14:07:52",
-      "https://news.ycombinator.com/item?id=40976776"
-    ],
-    [
-      "The struggle to understand why earthquakes happen in America's heartland",
-      "https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/"
-    ]
-  ],
-  [
-    [
       "2024-07-14, 04:58:27",
       "https://news.ycombinator.com/item?id=40958937"
     ],
     [
       "Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)",
       "https://dl.acm.org/doi/10.1145/2508859.2516734"
+    ]
+  ],
+  [
+    [
+      "2024-07-13, 17:04:41",
+      "https://news.ycombinator.com/item?id=40955272"
+    ],
+    [
+      "Jigsaw Puzzle Robot, Or: How We Solved a Puzzle in 15 Months [pdf]",
+      "https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813"
     ]
   ]
 ]
