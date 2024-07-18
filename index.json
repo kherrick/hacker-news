@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-07-18, 05:30:05",
+      "https://news.ycombinator.com/item?id=40992760"
+    ],
+    [
+      "Self-Awareness Might Not Have Evolved to Benefit the Self After All",
+      "https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 05:05:21",
+      "https://news.ycombinator.com/item?id=40992654"
+    ],
+    [
+      "Amazon's Kindle Direct Publishing is a dystopian nightmare",
+      "https://news.ycombinator.com/item?id=40992654"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 05:03:39",
+      "https://news.ycombinator.com/item?id=40992644"
+    ],
+    [
+      "Money and Happiness: Extended Evidence Against Satiation",
+      "https://happiness-science.org/money-happiness-satiation/"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 03:48:13",
       "https://news.ycombinator.com/item?id=40992323"
     ],
     [
       "That Time Apple Told Apple III Customers to Drop Their Computers",
       "https://www.techjunkie.com/apple-iii-drop/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 02:41:40",
+      "https://news.ycombinator.com/item?id=40992038"
+    ],
+    [
+      "Who Killed the World?",
+      "https://pudding.cool/2024/07/scifi/"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "Americans' confidence in higher education has taken a nosedive",
       "https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 01:12:43",
-      "https://news.ycombinator.com/item?id=40991694"
-    ],
-    [
-      "Mercedes-Benz high-power charging goes large at Starbucks",
-      "https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-07-17, 20:03:30",
-      "https://news.ycombinator.com/item?id=40989806"
-    ],
-    [
-      "What can TypeScript learn from Zig? What can Zig learn from TypeScript?",
-      "https://effectivetypescript.com/2024/07/17/advent2023-zig/"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 19:31:04",
       "https://news.ycombinator.com/item?id=40989451"
     ],
@@ -177,16 +197,6 @@
     [
       "Prover-Verifier Games improve legibility of language model outputs",
       "https://openai.com/index/prover-verifier-games-improve-legibility/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 16:46:14",
-      "https://news.ycombinator.com/item?id=40987770"
-    ],
-    [
-      "Show HN: VisCircuit – A Note-Taking Website for Electronics and Circuits",
-      "https://viscircuit.com"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Pseudo Scheme: Scheme Implemented on Top of Common Lisp",
       "https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/impl/pseudo/0.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 21:11:41",
-      "https://news.ycombinator.com/item?id=40949489"
-    ],
-    [
-      "How we sped up Notion in the browser with WASM SQLite",
-      "https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
     ]
   ]
 ]
