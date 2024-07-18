@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-18, 15:44:09](https://news.ycombinator.com/item?id=40996757) - [Show HN: The first open-source Infrastructure-as-Code framework](https://cncframework.com/)
+* [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 15:04:24](https://news.ycombinator.com/item?id=40996248) - [OpenAI slashes the cost of using its AI with a \"mini\" model](https://www.wired.com/story/openai-gpt-4o-mini/)
 * [2024-07-18, 14:45:42](https://news.ycombinator.com/item?id=40996058) - [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
 * [2024-07-18, 14:36:58](https://news.ycombinator.com/item?id=40995982) - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
-* [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [The Objects of Our Life](https://stevejobsarchive.com/exhibits/objects-of-our-life)
+* [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 12:37:44](https://news.ycombinator.com/item?id=40995018) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
 * [2024-07-18, 12:05:14](https://news.ycombinator.com/item?id=40994817) - [The Erie Canal: The man-made waterway that transformed the US](https://www.bbc.com/travel/article/20240715-the-erie-canal-the-manmade-waterway-that-transformed-the-us)
 * [2024-07-18, 11:23:06](https://news.ycombinator.com/item?id=40994552) - [Ask HN: What's Prolog Like in 2024?](https://news.ycombinator.com/item?id=40994552)

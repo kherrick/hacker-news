@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 15:44:09](https://news.ycombinator.com/item?id=40996757) - [Show HN: The first open-source Infrastructure-as-Code framework](https://cncframework.com/)
 * [2024-07-18, 15:04:24](https://news.ycombinator.com/item?id=40996248) - [OpenAI Slashes the Cost of Using Its AI with a \"Mini\" Model](https://www.wired.com/story/openai-gpt-4o-mini/)
 * [2024-07-18, 14:58:46](https://news.ycombinator.com/item?id=40996185) - [Ford spends $3B to expand large truck production in plant previously set for EVs](https://www.cnbc.com/2024/07/18/ford-canada-large-truck-production.html)
