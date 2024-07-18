@@ -82,6 +82,7 @@
 * [2024-07-14, 05:47:15](https://news.ycombinator.com/item?id=40959114) - [Show HN: Procedural Art –– 'Pulse'](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
 * [2024-07-14, 05:06:28](https://news.ycombinator.com/item?id=40958959) - [ULID: Like UUID but Sortable](https://github.com/ulid/spec)
 * [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware Update Hides a Device's Bluetooth Fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
+* [2024-07-14, 04:58:27](https://news.ycombinator.com/item?id=40958937) - [Elligator: Elliptic-curve points indistinguishable from uniform random strings](https://dl.acm.org/doi/10.1145/2508859.2516734)
 * [2024-07-14, 04:52:44](https://news.ycombinator.com/item?id=40958922) - [Giving Life to Æthelstan](https://www.historytoday.com/archive/feature/giving-life-aethelstan)
 * [2024-07-14, 02:51:19](https://news.ycombinator.com/item?id=40958479) - [The truth about happiness. We are designed to long for it, not to get it](https://www.optimallyirrational.com/p/the-truth-about-happiness)
 * [2024-07-14, 02:45:23](https://news.ycombinator.com/item?id=40958465) - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
