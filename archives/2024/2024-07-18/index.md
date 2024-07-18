@@ -9,6 +9,8 @@
 * [2024-07-18, 20:46:14](https://news.ycombinator.com/item?id=40999575) - [FCC closes \"final loopholes\" that keep prison phone prices exorbitantly high](https://arstechnica.com/tech-policy/2024/07/fcc-closes-final-loopholes-that-keep-prison-phone-prices-exorbitantly-high/)
 * [2024-07-18, 20:42:16](https://news.ycombinator.com/item?id=40999550) - [The explosion in time series forecasting packages in data science](https://aeturrell.com/blog/posts/time-series-explosion/)
 * [2024-07-18, 20:33:48](https://news.ycombinator.com/item?id=40999470) - [Bob Newhart, legendary comedian, dead at 94](https://www.cnn.com/2024/07/18/entertainment/bob-newhart-death/index.html)
+* [2024-07-18, 19:54:13](https://news.ycombinator.com/item?id=40999098) - [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
+* [2024-07-18, 19:41:27](https://news.ycombinator.com/item?id=40999017) - [Strategizing Your Preparation for Machine Learning Interviews](https://mlengineerinsights.substack.com/p/strategizing-your-preparation-for)
 * [2024-07-18, 19:29:25](https://news.ycombinator.com/item?id=40998938) - [Meta puts a halt to training its generative AI tools in Brazil](https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/)
 * [2024-07-18, 19:28:35](https://news.ycombinator.com/item?id=40998931) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 * [2024-07-18, 19:28:21](https://news.ycombinator.com/item?id=40998927) - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
