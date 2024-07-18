@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 21:48:49](https://news.ycombinator.com/item?id=41000091) - [Police warn of thieves using WiFi-jamming tech to disarm cameras, alarms](https://ktla.com/news/local-news/police-warn-of-thieves-using-wifi-jamming-tech-to-disarm-cameras-alarms/)
+* [2024-07-18, 21:30:05](https://news.ycombinator.com/item?id=40999951) - [Python grapples with Apple App Store rejections](https://lwn.net/Articles/979671/)
+* [2024-07-18, 21:24:39](https://news.ycombinator.com/item?id=40999911) - [NASA cancels $450M mission to drill for ice on the Moon](https://www.nature.com/articles/d41586-024-02361-1)
 * [2024-07-18, 21:09:31](https://news.ycombinator.com/item?id=40999778) - [Bob Newhart, Comedy Icon, Dies at 94](https://variety.com/2024/tv/news/bob-newhart-dead-comedian-1236077300/)
 * [2024-07-18, 21:00:52](https://news.ycombinator.com/item?id=40999700) - [Mutable.ai (YC W22) is hiring to build an AI codebase expert](https://news.ycombinator.com/item?id=40999700)
 * [2024-07-18, 20:46:14](https://news.ycombinator.com/item?id=40999575) - [FCC closes \"final loopholes\" that keep prison phone prices exorbitantly high](https://arstechnica.com/tech-policy/2024/07/fcc-closes-final-loopholes-that-keep-prison-phone-prices-exorbitantly-high/)
