@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-18, 21:24:39",
-      "https://news.ycombinator.com/item?id=40999911"
-    ],
-    [
-      "NASA cancels $450M mission to drill for ice on the Moon",
-      "https://www.nature.com/articles/d41586-024-02361-1"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 21:00:52",
       "https://news.ycombinator.com/item?id=40999700"
     ],
@@ -177,6 +167,16 @@
     [
       "A RP2040 based DECstation 3000 emulator that can run DECWindows",
       "https://github.com/rscott2049/DECstation2040"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 22:51:39",
+      "https://news.ycombinator.com/item?id=40991075"
+    ],
+    [
+      "Closed form arc length parametrization is impossible for quadratic Bézier curves",
+      "https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/"
     ]
   ],
   [
