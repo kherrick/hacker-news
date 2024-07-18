@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 21:09:31](https://news.ycombinator.com/item?id=40999778) - [Bob Newhart, Comedy Icon, Dies at 94](https://variety.com/2024/tv/news/bob-newhart-dead-comedian-1236077300/)
+* [2024-07-18, 21:00:52](https://news.ycombinator.com/item?id=40999700) - [Mutable.ai (YC W22) is hiring to build an AI codebase expert](https://news.ycombinator.com/item?id=40999700)
 * [2024-07-18, 20:42:16](https://news.ycombinator.com/item?id=40999550) - [The explosion in time series forecasting packages in data science](https://aeturrell.com/blog/posts/time-series-explosion/)
 * [2024-07-18, 20:33:48](https://news.ycombinator.com/item?id=40999470) - [Bob Newhart, legendary comedian, dead at 94](https://www.cnn.com/2024/07/18/entertainment/bob-newhart-death/index.html)
 * [2024-07-18, 19:29:25](https://news.ycombinator.com/item?id=40998938) - [Meta puts a halt to training its generative AI tools in Brazil](https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/)
