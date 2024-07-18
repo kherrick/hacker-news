@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-18, 22:43:02](https://news.ycombinator.com/item?id=41000424) - [Use Zig cc to cross‐compile a CMake project](https://github.com/ziglang/zig/wiki/Use-zig-cc-to-cross%E2%80%90compile-a-CMake-project)
 * [2024-07-18, 21:00:52](https://news.ycombinator.com/item?id=40999700) - [Mutable.ai (YC W22) is hiring to build an AI codebase expert](https://news.ycombinator.com/item?id=40999700)
 * [2024-07-18, 19:54:13](https://news.ycombinator.com/item?id=40999098) - [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
 * [2024-07-18, 19:28:35](https://news.ycombinator.com/item?id=40998931) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 * [2024-07-18, 19:28:21](https://news.ycombinator.com/item?id=40998927) - [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 * [2024-07-18, 18:56:33](https://news.ycombinator.com/item?id=40998647) - [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
-* [2024-07-18, 18:21:51](https://news.ycombinator.com/item?id=40998351) - [Wing-slapping: A defensive behavior by honey bees against ants](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
