@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-18, 09:00:50](https://news.ycombinator.com/item?id=40993787) - [So you want to compete with or replace open source](https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html)
 * [2024-07-18, 07:41:58](https://news.ycombinator.com/item?id=40993389) - [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
 * [2024-07-18, 05:30:05](https://news.ycombinator.com/item?id=40992760) - [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
@@ -23,6 +22,7 @@
 * [2024-07-17, 16:08:22](https://news.ycombinator.com/item?id=40987402) - [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 13:19:03](https://news.ycombinator.com/item?id=40985609) - [Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
+* [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
 * [2024-07-16, 14:07:52](https://news.ycombinator.com/item?id=40976776) - [The struggle to understand why earthquakes happen in America's heartland](https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/)
 * [2024-07-16, 01:02:27](https://news.ycombinator.com/item?id=40972851) - [He secretly changed this freeway sign, helped millions of drivers [video]](https://www.youtube.com/watch?v=26-4oARwfF4)
 * [2024-07-16, 00:18:20](https://news.ycombinator.com/item?id=40972609) - [Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
