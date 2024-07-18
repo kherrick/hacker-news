@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 14:21:21](https://news.ycombinator.com/item?id=40995817) - [Proton Mail Adds an Open-Source AI Writing Assistant to Take on Gmail](https://news.itsfoss.com/proton-mail-ai-assistant/)
 * [2024-07-18, 13:45:21](https://news.ycombinator.com/item?id=40995540) - [TSMC rides AI demand to raise revenue forecast, says no to US joint venture](https://www.reuters.com/technology/tsmc-set-report-strong-profit-stock-pressured-by-trump-comments-2024-07-18/)
+* [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
 * [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [Steve's Talk at the 1983 International Design Conference in Aspen](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 12:51:42](https://news.ycombinator.com/item?id=40995105) - [Modern Luddites: On Being a Digital Minimalist Family in a Tech-Saturated World](https://www.afterbabel.com/p/modern-luddites-on-being-a-digital)
 * [2024-07-18, 12:37:44](https://news.ycombinator.com/item?id=40995018) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
