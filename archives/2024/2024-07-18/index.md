@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 16:13:53](https://news.ycombinator.com/item?id=40997108) - [I Gave Myself a Month to Make One New Friend. How Hard Could That Be?](https://www.esquire.com/lifestyle/a61536364/one-friend-in-one-month/)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 15:44:09](https://news.ycombinator.com/item?id=40996757) - [Show HN: The first open-source Infrastructure-as-Code framework](https://cncframework.com/)
 * [2024-07-18, 15:04:24](https://news.ycombinator.com/item?id=40996248) - [OpenAI Slashes the Cost of Using Its AI with a \"Mini\" Model](https://www.wired.com/story/openai-gpt-4o-mini/)
@@ -13,6 +14,7 @@
 * [2024-07-18, 14:36:58](https://news.ycombinator.com/item?id=40995982) - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 14:26:36](https://news.ycombinator.com/item?id=40995867) - [SSH has become our universal (Unix) external access protocol](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOurUniversalAccessProtocol)
 * [2024-07-18, 14:21:21](https://news.ycombinator.com/item?id=40995817) - [Proton Mail Adds an Open-Source AI Writing Assistant to Take on Gmail](https://news.itsfoss.com/proton-mail-ai-assistant/)
+* [2024-07-18, 14:13:10](https://news.ycombinator.com/item?id=40995753) - [Kaspersky gives US customers six months of free updates as a parting gift](https://www.theregister.com/2024/07/17/kaspersky_goodbye_gift/)
 * [2024-07-18, 13:45:21](https://news.ycombinator.com/item?id=40995540) - [TSMC rides AI demand to raise revenue forecast, says no to US joint venture](https://www.reuters.com/technology/tsmc-set-report-strong-profit-stock-pressured-by-trump-comments-2024-07-18/)
 * [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
 * [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [Steve's Talk at the 1983 International Design Conference in Aspen](https://stevejobsarchive.com/exhibits/objects-of-our-life)
