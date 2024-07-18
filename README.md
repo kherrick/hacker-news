@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-18, 14:26:36](https://news.ycombinator.com/item?id=40995867) - [SSH has become our universal (Unix) external access protocol](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOurUniversalAccessProtocol)
 * [2024-07-18, 14:21:21](https://news.ycombinator.com/item?id=40995817) - [Proton Mail Adds an Open-Source AI Writing Assistant to Take on Gmail](https://news.itsfoss.com/proton-mail-ai-assistant/)
 * [2024-07-18, 13:45:21](https://news.ycombinator.com/item?id=40995540) - [TSMC rides AI demand to raise revenue forecast, says no to US joint venture](https://www.reuters.com/technology/tsmc-set-report-strong-profit-stock-pressured-by-trump-comments-2024-07-18/)
 * [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
@@ -26,7 +27,6 @@
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 13:19:03](https://news.ycombinator.com/item?id=40985609) - [Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
 * [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
-* [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
 * [2024-07-16, 14:07:52](https://news.ycombinator.com/item?id=40976776) - [The struggle to understand why earthquakes happen in America's heartland](https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/)
 * [2024-07-16, 00:18:20](https://news.ycombinator.com/item?id=40972609) - [Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators (2020)](https://arxiv.org/abs/2003.10555)
 * [2024-07-14, 04:58:27](https://news.ycombinator.com/item?id=40958937) - [Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)](https://dl.acm.org/doi/10.1145/2508859.2516734)

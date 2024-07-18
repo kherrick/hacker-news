@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 14:26:36](https://news.ycombinator.com/item?id=40995867) - [SSH has become our universal (Unix) external access protocol](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOurUniversalAccessProtocol)
 * [2024-07-18, 14:21:21](https://news.ycombinator.com/item?id=40995817) - [Proton Mail Adds an Open-Source AI Writing Assistant to Take on Gmail](https://news.itsfoss.com/proton-mail-ai-assistant/)
 * [2024-07-18, 13:45:21](https://news.ycombinator.com/item?id=40995540) - [TSMC rides AI demand to raise revenue forecast, says no to US joint venture](https://www.reuters.com/technology/tsmc-set-report-strong-profit-stock-pressured-by-trump-comments-2024-07-18/)
 * [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
