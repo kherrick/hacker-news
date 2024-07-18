@@ -76,6 +76,7 @@
 * [2024-07-15, 10:47:51](https://news.ycombinator.com/item?id=40966693) - [Graying open source community needs fresh blood](https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs/)
 * [2024-07-15, 10:19:01](https://news.ycombinator.com/item?id=40966572) - [Scientists make DNA discovery that could help find pancreatic cancer cure](https://www.theguardian.com/society/article/2024/jul/15/scientists-make-dna-discovery-that-could-help-find-pancreatic-cancer-cure)
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
+* [2024-07-15, 09:25:21](https://news.ycombinator.com/item?id=40966366) - [Inside the Three-Way Race to Create the Most Widely Used Laser](https://spectrum.ieee.org/invention-semiconductor-laser)
 * [2024-07-15, 09:10:56](https://news.ycombinator.com/item?id=40966312) - [Firefox 128 enables \"privacy-preserving\" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
 * [2024-07-15, 08:58:58](https://news.ycombinator.com/item?id=40966262) - [Show HN: Blitzping – A far faster nping/hping3 SYN-flood alternative with CIDR](https://github.com/Thraetaona/Blitzping)
 * [2024-07-15, 08:43:31](https://news.ycombinator.com/item?id=40966198) - [WhatWeb: Next Generation Web Scanner (2021)](https://github.com/urbanadventurer/WhatWeb)
