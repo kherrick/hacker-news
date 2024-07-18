@@ -15,6 +15,7 @@
 * [2024-07-18, 18:21:51](https://news.ycombinator.com/item?id=40998351) - [Wing-slapping: A defensive behavior by honey bees against ants](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 17:41:40](https://news.ycombinator.com/item?id=40998008) - [Claude by Anthropic Now on Google Play Store](https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=en_US)
+* [2024-07-18, 17:31:52](https://news.ycombinator.com/item?id=40997919) - [The Semmelweis myth and why it's not true (2018)](https://digitaltonto.com/2018/the-semmelweis-myth-and-why-its-not-really-true/)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:18:55](https://news.ycombinator.com/item?id=40997775) - [What Materials Are Magnetic?](https://sciencenotes.org/list-of-magnetic-metals/)
