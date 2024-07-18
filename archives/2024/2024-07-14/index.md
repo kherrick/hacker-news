@@ -37,6 +37,7 @@
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2024-07-14, 17:34:26](https://news.ycombinator.com/item?id=40962195) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
 * [2024-07-14, 17:25:03](https://news.ycombinator.com/item?id=40962143) - [US Courts to Decide If NFTs Are Securities as DraftKings Case Goes to Trial](https://decrypt.co/238316/draftkings-us-courts-nfts-securities)
+* [2024-07-14, 16:58:55](https://news.ycombinator.com/item?id=40961971) - [What it's like to be the only tourist in Moldova, Europe's least visited country](https://www.telegraph.co.uk/travel/destinations/europe/moldova-europe-least-visited-country/)
 * [2024-07-14, 16:35:53](https://news.ycombinator.com/item?id=40961842) - [Show HN: An ad free temporary mail service](https://news.ycombinator.com/item?id=40961842)
 * [2024-07-14, 16:26:31](https://news.ycombinator.com/item?id=40961790) - [In many cases we need something less like AI and more like a basic algorithm](https://zacs.site/blog/you-need-an-algorithm.html)
 * [2024-07-14, 16:23:45](https://news.ycombinator.com/item?id=40961775) - [Linux 6.11 To Allow Tightening Of /proc/[PID]/mem Access For Better Security](https://www.phoronix.com/news/Linux-6.11-Tightens-Mem-Access)
