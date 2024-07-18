@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 12:37:44](https://news.ycombinator.com/item?id=40995018) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
+* [2024-07-18, 12:05:14](https://news.ycombinator.com/item?id=40994817) - [The Erie Canal: The man-made waterway that transformed the US](https://www.bbc.com/travel/article/20240715-the-erie-canal-the-manmade-waterway-that-transformed-the-us)
+* [2024-07-18, 11:30:35](https://news.ycombinator.com/item?id=40994597) - [Figma Retrospective on the \"Make Designs\" Feature](https://www.figma.com/blog/inside-figma-a-retrospective-on-make-designs/)
 * [2024-07-18, 11:23:06](https://news.ycombinator.com/item?id=40994552) - [Ask HN: What's Prolog Like in 2024?](https://news.ycombinator.com/item?id=40994552)
 * [2024-07-18, 11:01:49](https://news.ycombinator.com/item?id=40994421) - [Just Use MSYS2 You Say?](https://learncodethehardway.com/blog/30-just-use-msys2-you-say/)
 * [2024-07-18, 09:37:30](https://news.ycombinator.com/item?id=40993946) - [Concealed backdoor in fake AWS files escaped mainstream notice](https://arstechnica.com/security/2024/07/code-sneaked-into-fake-aws-downloaded-hundreds-of-times-backdoored-dev-devices/)
