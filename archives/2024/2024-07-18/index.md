@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
+* [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
+* [2024-07-18, 17:02:15](https://news.ycombinator.com/item?id=40997585) - [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [2024-07-18, 17:00:52](https://news.ycombinator.com/item?id=40997571) - [Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
 * [2024-07-18, 16:59:19](https://news.ycombinator.com/item?id=40997554) - [Bye-bye Bitcoin, hello AI: Texas miners leave crypto for next new wave](https://www.cnbc.com/2024/07/18/bye-bye-bitcoin-hello-ai-texas-miners-leave-crypto-for-next-new-wave.html)
 * [2024-07-18, 16:13:53](https://news.ycombinator.com/item?id=40997108) - [I Gave Myself a Month to Make One New Friend. How Hard Could That Be?](https://www.esquire.com/lifestyle/a61536364/one-friend-in-one-month/)
@@ -12,6 +15,7 @@
 * [2024-07-18, 16:01:23](https://news.ycombinator.com/item?id=40996980) - [Meta won't offer future multimodal AI models in EU](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu)
 * [2024-07-18, 15:44:09](https://news.ycombinator.com/item?id=40996757) - [Show HN: The first open-source Infrastructure-as-Code framework](https://cncframework.com/)
 * [2024-07-18, 15:34:18](https://news.ycombinator.com/item?id=40996592) - [\"Smart soil\" grows 138% bigger crops using 40% less water](https://newatlas.com/science/smart-soil-hydrogel-bigger-crops-less-water/)
+* [2024-07-18, 15:22:22](https://news.ycombinator.com/item?id=40996429) - [SpreadsheetLLM – Microsoft's new AI system](https://www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/)
 * [2024-07-18, 15:04:24](https://news.ycombinator.com/item?id=40996248) - [OpenAI Slashes the Cost of Using Its AI with a \"Mini\" Model](https://www.wired.com/story/openai-gpt-4o-mini/)
 * [2024-07-18, 14:58:46](https://news.ycombinator.com/item?id=40996185) - [Ford spends $3B to expand large truck production in plant previously set for EVs](https://www.cnbc.com/2024/07/18/ford-canada-large-truck-production.html)
 * [2024-07-18, 14:51:12](https://news.ycombinator.com/item?id=40996118) - [Ask HN: Every day feels like prison](https://news.ycombinator.com/item?id=40996118)
