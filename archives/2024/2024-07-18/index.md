@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 05:30:05](https://news.ycombinator.com/item?id=40992760) - [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
+* [2024-07-18, 05:05:21](https://news.ycombinator.com/item?id=40992654) - [Amazon's Kindle Direct Publishing is a dystopian nightmare](https://news.ycombinator.com/item?id=40992654)
+* [2024-07-18, 05:03:39](https://news.ycombinator.com/item?id=40992644) - [Money and Happiness: Extended Evidence Against Satiation](https://happiness-science.org/money-happiness-satiation/)
 * [2024-07-18, 03:48:13](https://news.ycombinator.com/item?id=40992323) - [That Time Apple Told Apple III Customers to Drop Their Computers](https://www.techjunkie.com/apple-iii-drop/)
+* [2024-07-18, 02:41:40](https://news.ycombinator.com/item?id=40992038) - [Who Killed the World?](https://pudding.cool/2024/07/scifi/)
 * [2024-07-18, 02:36:16](https://news.ycombinator.com/item?id=40992013) - [GMC Made a Motorhome That Pumped Sewage Through Its Exhaust on Purpose](https://www.thedrive.com/news/culture/gmc-made-a-motorhome-that-pumped-sewage-through-its-exhaust-on-purpose)
 * [2024-07-18, 02:03:49](https://news.ycombinator.com/item?id=40991894) - [Americans' confidence in higher education has taken a nosedive](https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/)
 * [2024-07-18, 01:13:56](https://news.ycombinator.com/item?id=40991699) - [NASA Spent $450M on a Moon Rover. Now It's Canceling the Mission](https://www.nytimes.com/2024/07/17/science/nasa-viper-moon-rover-canceled.html)
