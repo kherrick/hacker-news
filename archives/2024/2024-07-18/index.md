@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 13:45:21](https://news.ycombinator.com/item?id=40995540) - [TSMC rides AI demand to raise revenue forecast, says no to US joint venture](https://www.reuters.com/technology/tsmc-set-report-strong-profit-stock-pressured-by-trump-comments-2024-07-18/)
+* [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [Steve's Talk at the 1983 International Design Conference in Aspen](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 12:51:42](https://news.ycombinator.com/item?id=40995105) - [Modern Luddites: On Being a Digital Minimalist Family in a Tech-Saturated World](https://www.afterbabel.com/p/modern-luddites-on-being-a-digital)
 * [2024-07-18, 12:37:44](https://news.ycombinator.com/item?id=40995018) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
 * [2024-07-18, 12:18:53](https://news.ycombinator.com/item?id=40994898) - [Show HN: I made a privacy-friendly and free image, audio and video converter](https://fileconverter.tommyjepsen.com/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-18, 12:51:42](https://news.ycombinator.com/item?id=40995105) - [Modern Luddites: On Being a Digital Minimalist Family in a Tech-Saturated World](https://www.afterbabel.com/p/modern-luddites-on-being-a-digital)
+* [2024-07-18, 13:45:21](https://news.ycombinator.com/item?id=40995540) - [TSMC rides AI demand to raise revenue forecast, says no to US joint venture](https://www.reuters.com/technology/tsmc-set-report-strong-profit-stock-pressured-by-trump-comments-2024-07-18/)
+* [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [Steve's Talk at the 1983 International Design Conference in Aspen](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 12:37:44](https://news.ycombinator.com/item?id=40995018) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
 * [2024-07-18, 12:18:53](https://news.ycombinator.com/item?id=40994898) - [Show HN: I made a privacy-friendly and free image, audio and video converter](https://fileconverter.tommyjepsen.com/)
 * [2024-07-18, 12:05:14](https://news.ycombinator.com/item?id=40994817) - [The Erie Canal: The man-made waterway that transformed the US](https://www.bbc.com/travel/article/20240715-the-erie-canal-the-manmade-waterway-that-transformed-the-us)
@@ -25,7 +26,6 @@
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 13:19:03](https://news.ycombinator.com/item?id=40985609) - [Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
 * [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
-* [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
 * [2024-07-16, 14:07:52](https://news.ycombinator.com/item?id=40976776) - [The struggle to understand why earthquakes happen in America's heartland](https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/)
 * [2024-07-16, 00:18:20](https://news.ycombinator.com/item?id=40972609) - [Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators (2020)](https://arxiv.org/abs/2003.10555)
