@@ -41,6 +41,7 @@
 * [2024-07-13, 15:08:22](https://news.ycombinator.com/item?id=40954535) - [\"Firefox added [ad tracking] and has already turned it on without asking you\"](https://mastodon.social/@mcc/112775362045378963)
 * [2024-07-13, 15:01:23](https://news.ycombinator.com/item?id=40954500) - [Intel's woes with Core i9 CPUs crashing look worse than we thought](https://www.techradar.com/computing/cpu/intels-woes-with-core-i9-cpus-crashing-look-worse-than-we-thought-team-blue-really-needs-to-act-now-to-fix-this-mess)
 * [2024-07-13, 15:00:39](https://news.ycombinator.com/item?id=40954497) - [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
+* [2024-07-13, 14:09:22](https://news.ycombinator.com/item?id=40954208) - [Pseudo Scheme: Scheme Implemented on Top of Common Lisp](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/impl/pseudo/0.html)
 * [2024-07-13, 13:52:56](https://news.ycombinator.com/item?id=40954116) - ['The new normal': work from home is here to stay, US data shows](https://www.theguardian.com/money/article/2024/jul/12/working-from-home-data)
 * [2024-07-13, 13:47:43](https://news.ycombinator.com/item?id=40954104) - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 * [2024-07-13, 12:21:11](https://news.ycombinator.com/item?id=40953656) - [Canada Allocates $146.6M for New Censorship Commission](https://reclaimthenet.org/canada-allocates-146-6m-for-new-censorship-commission-to-enforce-online-harms-act)
