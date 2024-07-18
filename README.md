@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-18, 01:00:48](https://news.ycombinator.com/item?id=40991652) - [Etleap (YC W13) Is Hiring a Customer Success Manager (San Francisco)](https://etleap.com/careers/customer-success-manager/)
 * [2024-07-17, 23:11:26](https://news.ycombinator.com/item?id=40991182) - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
 * [2024-07-17, 22:51:39](https://news.ycombinator.com/item?id=40991075) - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
 * [2024-07-17, 22:02:39](https://news.ycombinator.com/item?id=40990768) - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
-* [2024-07-17, 21:00:47](https://news.ycombinator.com/item?id=40990313) - [Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
-* [2024-07-17, 20:03:30](https://news.ycombinator.com/item?id=40989806) - [What can TypeScript learn from Zig? What can Zig learn from TypeScript?](https://effectivetypescript.com/2024/07/17/advent2023-zig/)
+* [2024-07-17, 21:44:42](https://news.ycombinator.com/item?id=40990641) - [Show HN: SQLite Transaction Benchmarking Tool](https://github.com/seddonm1/sqlite-bench)
 * [2024-07-17, 19:31:04](https://news.ycombinator.com/item?id=40989451) - [Show HN: Product Hunt for Music](https://tracklist.it/)
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-17, 18:52:09](https://news.ycombinator.com/item?id=40989075) - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
@@ -17,7 +17,6 @@
 * [2024-07-17, 16:41:38](https://news.ycombinator.com/item?id=40987730) - [Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 * [2024-07-17, 16:10:25](https://news.ycombinator.com/item?id=40987427) - [Psilocybin desynchronizes the human brain](https://www.nature.com/articles/s41586-024-07624-5)
 * [2024-07-17, 16:08:22](https://news.ycombinator.com/item?id=40987402) - [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
-* [2024-07-17, 15:52:34](https://news.ycombinator.com/item?id=40987224) - [Mice live longer when inflammation-boosting protein is blocked](https://www.nature.com/articles/d41586-024-02298-5)
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 13:19:03](https://news.ycombinator.com/item?id=40985609) - [Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
 * [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
@@ -30,6 +29,7 @@
 * [2024-07-12, 21:11:41](https://news.ycombinator.com/item?id=40949489) - [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-07-12, 19:06:04](https://news.ycombinator.com/item?id=40948450) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 * [2024-07-12, 17:11:49](https://news.ycombinator.com/item?id=40947450) - [Rye Language](https://ryelang.org)
+* [2024-07-12, 11:18:06](https://news.ycombinator.com/item?id=40944510) - [CheerpX is x86 virtualization to run executables and OS client-side](https://labs.leaningtech.com/cheerpx)
 
 ## [Archives](archives/index.md)
 

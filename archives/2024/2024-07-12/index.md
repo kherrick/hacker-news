@@ -99,6 +99,7 @@
 * [2024-07-12, 11:38:28](https://news.ycombinator.com/item?id=40944616) - [I Want My Scrollbar Back](https://aartaka.me/scrollbar)
 * [2024-07-12, 11:36:20](https://news.ycombinator.com/item?id=40944606) - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-12, 11:28:16](https://news.ycombinator.com/item?id=40944561) - [SpaceX's unmatched streak of perfection with the Falcon 9 rocket is over](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/)
+* [2024-07-12, 11:18:06](https://news.ycombinator.com/item?id=40944510) - [CheerpX is x86 virtualization to run executables and OS client-side](https://labs.leaningtech.com/cheerpx)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-12, 10:39:52](https://news.ycombinator.com/item?id=40944320) - [Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
 * [2024-07-12, 09:36:29](https://news.ycombinator.com/item?id=40944049) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
