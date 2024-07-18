@@ -18,6 +18,7 @@
 * [2024-07-17, 18:52:06](https://news.ycombinator.com/item?id=40989074) - [NOAA Is in Danger](https://www.theatlantic.com/science/archive/2024/07/noaa-project-2025-weather/678987/)
 * [2024-07-17, 18:51:00](https://news.ycombinator.com/item?id=40989069) - [Little Languages [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 * [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
+* [2024-07-17, 18:37:18](https://news.ycombinator.com/item?id=40988917) - [Htmx: Simplicity in an Age of Complicated Solutions](https://www.erikheemskerk.nl/htmx-simplicity/)
 * [2024-07-17, 18:31:21](https://news.ycombinator.com/item?id=40988864) - [Mini PCs Database](https://minipcs.org/)
 * [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
 * [2024-07-17, 18:20:57](https://news.ycombinator.com/item?id=40988774) - [IRC technology news from the first half of 2024](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2024/)
