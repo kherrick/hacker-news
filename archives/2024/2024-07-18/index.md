@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 20:42:16](https://news.ycombinator.com/item?id=40999550) - [The explosion in time series forecasting packages in data science](https://aeturrell.com/blog/posts/time-series-explosion/)
 * [2024-07-18, 20:33:48](https://news.ycombinator.com/item?id=40999470) - [Bob Newhart, legendary comedian, dead at 94](https://www.cnn.com/2024/07/18/entertainment/bob-newhart-death/index.html)
 * [2024-07-18, 19:29:25](https://news.ycombinator.com/item?id=40998938) - [Meta puts a halt to training its generative AI tools in Brazil](https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/)
 * [2024-07-18, 19:28:35](https://news.ycombinator.com/item?id=40998931) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)

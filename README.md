@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-18, 20:42:16](https://news.ycombinator.com/item?id=40999550) - [The explosion in time series forecasting packages in data science](https://aeturrell.com/blog/posts/time-series-explosion/)
 * [2024-07-18, 20:33:48](https://news.ycombinator.com/item?id=40999470) - [Bob Newhart, legendary comedian, dead at 94](https://www.cnn.com/2024/07/18/entertainment/bob-newhart-death/index.html)
 * [2024-07-18, 19:29:25](https://news.ycombinator.com/item?id=40998938) - [Meta puts a halt to training its generative AI tools in Brazil](https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/)
 * [2024-07-18, 19:28:35](https://news.ycombinator.com/item?id=40998931) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
@@ -15,7 +16,6 @@
 * [2024-07-18, 17:00:52](https://news.ycombinator.com/item?id=40997571) - [Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 16:05:27](https://news.ycombinator.com/item?id=40997020) - [Back to the future: Are hackers the future of amateur radio?](https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/)
-* [2024-07-18, 14:45:42](https://news.ycombinator.com/item?id=40996058) - [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
 * [2024-07-18, 14:36:58](https://news.ycombinator.com/item?id=40995982) - [Hash-based bisect debugging in compilers and runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
 * [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
