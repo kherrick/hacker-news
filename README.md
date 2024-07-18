@@ -2,7 +2,6 @@
 
 * [2024-07-18, 02:36:16](https://news.ycombinator.com/item?id=40992013) - [GMC made a motorhome that pumped sewage through its exhaust on purpose](https://www.thedrive.com/news/culture/gmc-made-a-motorhome-that-pumped-sewage-through-its-exhaust-on-purpose)
 * [2024-07-18, 02:03:49](https://news.ycombinator.com/item?id=40991894) - [Americans' confidence in higher education has taken a nosedive](https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/)
-* [2024-07-18, 01:13:56](https://news.ycombinator.com/item?id=40991699) - [NASA Spent $450M on a Moon Rover. Now It's Canceling the Mission](https://www.nytimes.com/2024/07/17/science/nasa-viper-moon-rover-canceled.html)
 * [2024-07-18, 01:12:43](https://news.ycombinator.com/item?id=40991694) - [Mercedes-Benz high-power charging goes large at Starbucks](https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/)
 * [2024-07-18, 01:02:48](https://news.ycombinator.com/item?id=40991661) - [Show HN: Llm2sh – Translate plain-language requests into shell commands](https://github.com/randombk/llm2sh)
 * [2024-07-18, 01:00:48](https://news.ycombinator.com/item?id=40991652) - [Etleap (YC W13) Is Hiring a Customer Success Manager (San Francisco)](https://etleap.com/careers/customer-success-manager/)
@@ -25,6 +24,7 @@
 * [2024-07-17, 13:19:03](https://news.ycombinator.com/item?id=40985609) - [Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
 * [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
+* [2024-07-16, 17:40:52](https://news.ycombinator.com/item?id=40978596) - [Mystery as 4k-year-old axe-heads sent to museum](https://www.bbc.com/news/articles/cydvn07d7vdo)
 * [2024-07-16, 00:18:20](https://news.ycombinator.com/item?id=40972609) - [Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
 * [2024-07-15, 07:01:35](https://news.ycombinator.com/item?id=40965803) - [Releasing an Album on Floppy Disk](https://www.michaelgale.dev/blog/releasing-an-album-on-floppy-disk)
 * [2024-07-13, 14:09:22](https://news.ycombinator.com/item?id=40954208) - [Pseudo Scheme: Scheme Implemented on Top of Common Lisp](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/impl/pseudo/0.html)
