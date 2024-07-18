@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-18, 19:08:56",
+      "https://news.ycombinator.com/item?id=40998767"
+    ],
+    [
+      "Apple breaks silence on claims it used 'swiped YouTube videos' to train AI",
+      "https://mashable.com/article/apple-breaks-silence-on-swiped-youtube-video-claims"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 18:42:45",
       "https://news.ycombinator.com/item?id=40998525"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-07-18, 00:35:24",
-      "https://news.ycombinator.com/item?id=40991549"
-    ],
-    [
-      "Overcoming the limits of current LLMs",
-      "https://seanpedersen.github.io/posts/overcoming-llm-limits"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 23:11:26",
       "https://news.ycombinator.com/item?id=40991182"
     ],
@@ -207,16 +207,6 @@
     [
       "SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat",
       "https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 21:44:42",
-      "https://news.ycombinator.com/item?id=40990641"
-    ],
-    [
-      "Show HN: SQLite Transaction Benchmarking Tool",
-      "https://github.com/seddonm1/sqlite-bench"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Jailbreaking RabbitOS",
       "https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 15:47:38",
+      "https://news.ycombinator.com/item?id=40968922"
+    ],
+    [
+      "Type in Morse code by repeatedly slamming your laptop shut",
+      "https://github.com/veggiedefender/open-and-shut"
     ]
   ],
   [
