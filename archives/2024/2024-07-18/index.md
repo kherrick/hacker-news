@@ -9,6 +9,7 @@
 * [2024-07-18, 16:13:53](https://news.ycombinator.com/item?id=40997108) - [I Gave Myself a Month to Make One New Friend. How Hard Could That Be?](https://www.esquire.com/lifestyle/a61536364/one-friend-in-one-month/)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 16:05:27](https://news.ycombinator.com/item?id=40997020) - [Back to the future: Are hackers the future of amateur radio?](https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/)
+* [2024-07-18, 16:01:23](https://news.ycombinator.com/item?id=40996980) - [Meta won't offer future multimodal AI models in EU](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu)
 * [2024-07-18, 15:44:09](https://news.ycombinator.com/item?id=40996757) - [Show HN: The first open-source Infrastructure-as-Code framework](https://cncframework.com/)
 * [2024-07-18, 15:34:18](https://news.ycombinator.com/item?id=40996592) - [\"Smart soil\" grows 138% bigger crops using 40% less water](https://newatlas.com/science/smart-soil-hydrogel-bigger-crops-less-water/)
 * [2024-07-18, 15:04:24](https://news.ycombinator.com/item?id=40996248) - [OpenAI Slashes the Cost of Using Its AI with a \"Mini\" Model](https://www.wired.com/story/openai-gpt-4o-mini/)
