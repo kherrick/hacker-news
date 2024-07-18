@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-18, 01:00:48",
+      "https://news.ycombinator.com/item?id=40991652"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring a Customer Success Manager (San Francisco)",
+      "https://etleap.com/careers/customer-success-manager/"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 23:11:26",
       "https://news.ycombinator.com/item?id=40991182"
     ],
@@ -31,22 +41,12 @@
   ],
   [
     [
-      "2024-07-17, 21:00:47",
-      "https://news.ycombinator.com/item?id=40990313"
+      "2024-07-17, 21:44:42",
+      "https://news.ycombinator.com/item?id=40990641"
     ],
     [
-      "Draftaid (YC W24) Is Hiring",
-      "https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 20:03:30",
-      "https://news.ycombinator.com/item?id=40989806"
-    ],
-    [
-      "What can TypeScript learn from Zig? What can Zig learn from TypeScript?",
-      "https://effectivetypescript.com/2024/07/17/advent2023-zig/"
+      "Show HN: SQLite Transaction Benchmarking Tool",
+      "https://github.com/seddonm1/sqlite-bench"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-07-17, 15:52:34",
-      "https://news.ycombinator.com/item?id=40987224"
-    ],
-    [
-      "Mice live longer when inflammation-boosting protein is blocked",
-      "https://www.nature.com/articles/d41586-024-02298-5"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 15:25:11",
       "https://news.ycombinator.com/item?id=40986894"
     ],
@@ -297,6 +287,16 @@
     [
       "Rye Language",
       "https://ryelang.org"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 11:18:06",
+      "https://news.ycombinator.com/item?id=40944510"
+    ],
+    [
+      "CheerpX is x86 virtualization to run executables and OS client-side",
+      "https://labs.leaningtech.com/cheerpx"
     ]
   ]
 ]
