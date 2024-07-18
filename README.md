@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-18, 18:42:45](https://news.ycombinator.com/item?id=40998525) - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
+* [2024-07-18, 18:38:53](https://news.ycombinator.com/item?id=40998481) - [Forewarn gives realtors access to buyers' histories with a phone number](https://therecord.media/forewarn-app-real-estate-homebuyer-data)
+* [2024-07-18, 18:21:51](https://news.ycombinator.com/item?id=40998351) - [Wing-slapping: A defensive behavior by honey bees against ants](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
-* [2024-07-18, 17:41:40](https://news.ycombinator.com/item?id=40998008) - [Claude by Anthropic Now on Google Play Store](https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=en_US)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
+* [2024-07-18, 17:18:55](https://news.ycombinator.com/item?id=40997775) - [What Materials Are Magnetic?](https://sciencenotes.org/list-of-magnetic-metals/)
 * [2024-07-18, 17:00:52](https://news.ycombinator.com/item?id=40997571) - [Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 16:05:27](https://news.ycombinator.com/item?id=40997020) - [Back to the future: Are hackers the future of amateur radio?](https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/)
@@ -25,9 +27,7 @@
 * [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan (2022)](https://pldb.io/blog/brianKernighan.html)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
-* [2024-07-17, 17:15:37](https://news.ycombinator.com/item?id=40988076) - [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
 * [2024-07-17, 16:41:38](https://news.ycombinator.com/item?id=40987730) - [Jailbreaking RabbitOS](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
-* [2024-07-17, 16:08:22](https://news.ycombinator.com/item?id=40987402) - [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
 * [2024-07-14, 04:58:27](https://news.ycombinator.com/item?id=40958937) - [Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)](https://dl.acm.org/doi/10.1145/2508859.2516734)
 * [2024-07-13, 17:04:41](https://news.ycombinator.com/item?id=40955272) - [Jigsaw Puzzle Robot [pdf]](https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813)
 

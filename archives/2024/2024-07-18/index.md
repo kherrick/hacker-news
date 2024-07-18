@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
 * [2024-07-18, 18:42:45](https://news.ycombinator.com/item?id=40998525) - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
+* [2024-07-18, 18:38:53](https://news.ycombinator.com/item?id=40998481) - [Forewarn gives realtors access to buyers' histories with a phone number](https://therecord.media/forewarn-app-real-estate-homebuyer-data)
+* [2024-07-18, 18:21:51](https://news.ycombinator.com/item?id=40998351) - [Wing-slapping: A defensive behavior by honey bees against ants](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 17:41:40](https://news.ycombinator.com/item?id=40998008) - [Claude by Anthropic Now on Google Play Store](https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=en_US)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
+* [2024-07-18, 17:18:55](https://news.ycombinator.com/item?id=40997775) - [What Materials Are Magnetic?](https://sciencenotes.org/list-of-magnetic-metals/)
 * [2024-07-18, 17:02:15](https://news.ycombinator.com/item?id=40997585) - [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [2024-07-18, 17:00:52](https://news.ycombinator.com/item?id=40997571) - [Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
 * [2024-07-18, 16:59:19](https://news.ycombinator.com/item?id=40997554) - [Bye-bye Bitcoin, hello AI: Texas miners leave crypto for next new wave](https://www.cnbc.com/2024/07/18/bye-bye-bitcoin-hello-ai-texas-miners-leave-crypto-for-next-new-wave.html)
