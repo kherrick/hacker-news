@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 17:00:52](https://news.ycombinator.com/item?id=40997571) - [Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
+* [2024-07-18, 16:59:19](https://news.ycombinator.com/item?id=40997554) - [Bye-bye Bitcoin, hello AI: Texas miners leave crypto for next new wave](https://www.cnbc.com/2024/07/18/bye-bye-bitcoin-hello-ai-texas-miners-leave-crypto-for-next-new-wave.html)
 * [2024-07-18, 16:13:53](https://news.ycombinator.com/item?id=40997108) - [I Gave Myself a Month to Make One New Friend. How Hard Could That Be?](https://www.esquire.com/lifestyle/a61536364/one-friend-in-one-month/)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
+* [2024-07-18, 16:05:27](https://news.ycombinator.com/item?id=40997020) - [Back to the future: Are hackers the future of amateur radio?](https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/)
 * [2024-07-18, 15:44:09](https://news.ycombinator.com/item?id=40996757) - [Show HN: The first open-source Infrastructure-as-Code framework](https://cncframework.com/)
+* [2024-07-18, 15:34:18](https://news.ycombinator.com/item?id=40996592) - [\"Smart soil\" grows 138% bigger crops using 40% less water](https://newatlas.com/science/smart-soil-hydrogel-bigger-crops-less-water/)
 * [2024-07-18, 15:04:24](https://news.ycombinator.com/item?id=40996248) - [OpenAI Slashes the Cost of Using Its AI with a \"Mini\" Model](https://www.wired.com/story/openai-gpt-4o-mini/)
 * [2024-07-18, 14:58:46](https://news.ycombinator.com/item?id=40996185) - [Ford spends $3B to expand large truck production in plant previously set for EVs](https://www.cnbc.com/2024/07/18/ford-canada-large-truck-production.html)
 * [2024-07-18, 14:51:12](https://news.ycombinator.com/item?id=40996118) - [Ask HN: Every day feels like prison](https://news.ycombinator.com/item?id=40996118)
@@ -16,6 +20,7 @@
 * [2024-07-18, 14:21:21](https://news.ycombinator.com/item?id=40995817) - [Proton Mail Adds an Open-Source AI Writing Assistant to Take on Gmail](https://news.itsfoss.com/proton-mail-ai-assistant/)
 * [2024-07-18, 14:13:10](https://news.ycombinator.com/item?id=40995753) - [Kaspersky gives US customers six months of free updates as a parting gift](https://www.theregister.com/2024/07/17/kaspersky_goodbye_gift/)
 * [2024-07-18, 13:45:21](https://news.ycombinator.com/item?id=40995540) - [TSMC rides AI demand to raise revenue forecast, says no to US joint venture](https://www.reuters.com/technology/tsmc-set-report-strong-profit-stock-pressured-by-trump-comments-2024-07-18/)
+* [2024-07-18, 13:44:47](https://news.ycombinator.com/item?id=40995531) - [He created Oculus headsets as a teenager, now he makes AI weapons for Ukraine](https://www.npr.org/2024/07/09/nx-s1-4985981/oculus-ai-weapons-ukraine-palmer-luckey)
 * [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
 * [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [Steve's Talk at the 1983 International Design Conference in Aspen](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 12:51:42](https://news.ycombinator.com/item?id=40995105) - [Modern Luddites: On Being a Digital Minimalist Family in a Tech-Saturated World](https://www.afterbabel.com/p/modern-luddites-on-being-a-digital)
