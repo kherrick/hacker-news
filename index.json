@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-07-18, 01:13:56",
+      "https://news.ycombinator.com/item?id=40991699"
+    ],
+    [
+      "NASA Spent $450M on a Moon Rover. Now It's Canceling the Mission",
+      "https://www.nytimes.com/2024/07/17/science/nasa-viper-moon-rover-canceled.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 01:12:43",
+      "https://news.ycombinator.com/item?id=40991694"
+    ],
+    [
+      "Mercedes-Benz High-Power Charging Goes Large at Starbucks",
+      "https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 01:00:48",
       "https://news.ycombinator.com/item?id=40991652"
     ],
     [
       "Etleap (YC W13) Is Hiring a Customer Success Manager (San Francisco)",
       "https://etleap.com/careers/customer-success-manager/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 00:35:24",
+      "https://news.ycombinator.com/item?id=40991549"
+    ],
+    [
+      "Overcoming the Limits of Large Language Models",
+      "https://seanpedersen.github.io/posts/overcoming-llm-limits"
     ]
   ],
   [
@@ -57,26 +87,6 @@
     [
       "Show HN: Product Hunt for Music",
       "https://tracklist.it/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 19:09:30",
-      "https://news.ycombinator.com/item?id=40989263"
-    ],
-    [
-      "Graunt and Statistics",
-      "https://www.delanceyplace.com/view-archives.php?5092"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 18:52:09",
-      "https://news.ycombinator.com/item?id=40989075"
-    ],
-    [
-      "Researchers build a solar-powered hovering drone that weighs only 9 mg",
-      "https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-07-17, 02:44:51",
-      "https://news.ycombinator.com/item?id=40982118"
-    ],
-    [
-      "Import and Export Markdown in Google Docs",
-      "https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html"
-    ]
-  ],
-  [
-    [
       "2024-07-16, 17:50:13",
       "https://news.ycombinator.com/item?id=40978670"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-07-15, 08:58:58",
-      "https://news.ycombinator.com/item?id=40966262"
+      "2024-07-13, 14:09:22",
+      "https://news.ycombinator.com/item?id=40954208"
     ],
     [
-      "Show HN: Blitzping – A far faster nping/hping3 SYN-flood alternative with CIDR",
-      "https://github.com/Thraetaona/Blitzping"
+      "Pseudo Scheme: Scheme Implemented on Top of Common Lisp",
+      "https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/impl/pseudo/0.html"
     ]
   ],
   [
