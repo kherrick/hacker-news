@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-18, 12:51:42](https://news.ycombinator.com/item?id=40995105) - [Modern Luddites: On Being a Digital Minimalist Family in a Tech-Saturated World](https://www.afterbabel.com/p/modern-luddites-on-being-a-digital)
 * [2024-07-18, 12:37:44](https://news.ycombinator.com/item?id=40995018) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
 * [2024-07-18, 12:05:14](https://news.ycombinator.com/item?id=40994817) - [The Erie Canal: The man-made waterway that transformed the US](https://www.bbc.com/travel/article/20240715-the-erie-canal-the-manmade-waterway-that-transformed-the-us)
 * [2024-07-18, 11:30:35](https://news.ycombinator.com/item?id=40994597) - [Figma Retrospective on the \"Make Designs\" Feature](https://www.figma.com/blog/inside-figma-a-retrospective-on-make-designs/)
@@ -11,7 +12,6 @@
 * [2024-07-17, 22:51:39](https://news.ycombinator.com/item?id=40991075) - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
 * [2024-07-17, 22:02:39](https://news.ycombinator.com/item?id=40990768) - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
 * [2024-07-17, 21:44:42](https://news.ycombinator.com/item?id=40990641) - [Show HN: SQLite Transaction Benchmarking Tool](https://github.com/seddonm1/sqlite-bench)
-* [2024-07-17, 20:03:30](https://news.ycombinator.com/item?id=40989806) - [What can TypeScript learn from Zig? What can Zig learn from TypeScript?](https://effectivetypescript.com/2024/07/17/advent2023-zig/)
 * [2024-07-17, 19:31:04](https://news.ycombinator.com/item?id=40989451) - [Show HN: Product Hunt for Music](https://tracklist.it/)
 * [2024-07-17, 18:51:00](https://news.ycombinator.com/item?id=40989069) - [Little Languages (1986) [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 * [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
