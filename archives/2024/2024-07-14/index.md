@@ -53,6 +53,7 @@
 * [2024-07-14, 14:14:27](https://news.ycombinator.com/item?id=40961099) - [Arkenfox: Firefox privacy and anti-tracking user.js GUI view](https://arkenfox.github.io/gui/)
 * [2024-07-14, 13:55:02](https://news.ycombinator.com/item?id=40961003) - [The Lazy Bureaucrat Scheduling Problem](https://www.tricitypsychology.com/the-lazy-bureaucrat/)
 * [2024-07-14, 13:37:45](https://news.ycombinator.com/item?id=40960886) - [CURLoRA: Stable LLM Fine-Tuning and Catastrophic Forgetting Mitigation](https://zenodo.org/records/12740116)
+* [2024-07-14, 12:35:00](https://news.ycombinator.com/item?id=40960584) - [The Oldest Unsolved Problem in Math](https://www.youtube.com/watch?v=Zrv1EDIqHkY)
 * [2024-07-14, 12:29:35](https://news.ycombinator.com/item?id=40960553) - [The Economy of Spam (2022)](https://integrityinstitute.org/blog/the-hidden-economy-of-spam)
 * [2024-07-14, 12:24:25](https://news.ycombinator.com/item?id=40960531) - [\"Superhuman\" Go AIs still have trouble defending against these simple exploits](https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/)
 * [2024-07-14, 12:20:49](https://news.ycombinator.com/item?id=40960511) - [A beginner's guide to LLM quantization and testing](https://www.theregister.com/2024/07/14/quantization_llm_feature/)
