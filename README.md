@@ -26,10 +26,10 @@
 * [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
 * [2024-07-17, 02:44:51](https://news.ycombinator.com/item?id=40982118) - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
+* [2024-07-16, 17:40:52](https://news.ycombinator.com/item?id=40978596) - [Mystery as 4k-year-old axe-heads sent to museum](https://www.bbc.com/news/articles/cydvn07d7vdo)
 * [2024-07-16, 14:07:52](https://news.ycombinator.com/item?id=40976776) - [The struggle to understand why earthquakes happen in America's heartland](https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/)
-* [2024-07-16, 00:18:20](https://news.ycombinator.com/item?id=40972609) - [Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
+* [2024-07-16, 00:18:20](https://news.ycombinator.com/item?id=40972609) - [Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators (2020)](https://arxiv.org/abs/2003.10555)
 * [2024-07-14, 04:58:27](https://news.ycombinator.com/item?id=40958937) - [Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)](https://dl.acm.org/doi/10.1145/2508859.2516734)
-* [2024-07-13, 06:44:23](https://news.ycombinator.com/item?id=40952294) - [Ask HN: Any way to borrow compute from Apple M1](https://news.ycombinator.com/item?id=40952294)
 
 ## [Archives](archives/index.md)
 
