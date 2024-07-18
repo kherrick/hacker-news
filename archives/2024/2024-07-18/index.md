@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
 * [2024-07-18, 21:48:49](https://news.ycombinator.com/item?id=41000091) - [Police warn of thieves using WiFi-jamming tech to disarm cameras, alarms](https://ktla.com/news/local-news/police-warn-of-thieves-using-wifi-jamming-tech-to-disarm-cameras-alarms/)
+* [2024-07-18, 21:45:33](https://news.ycombinator.com/item?id=41000065) - [More Americans are searching online about moving to Canada. But will they?](https://montreal.ctvnews.ca/more-americans-are-searching-online-about-moving-to-canada-but-will-they-come-here-1.6967953)
 * [2024-07-18, 21:30:05](https://news.ycombinator.com/item?id=40999951) - [Python grapples with Apple App Store rejections](https://lwn.net/Articles/979671/)
 * [2024-07-18, 21:24:39](https://news.ycombinator.com/item?id=40999911) - [NASA cancels $450M mission to drill for ice on the Moon](https://www.nature.com/articles/d41586-024-02361-1)
 * [2024-07-18, 21:09:31](https://news.ycombinator.com/item?id=40999778) - [Bob Newhart, Comedy Icon, Dies at 94](https://variety.com/2024/tv/news/bob-newhart-dead-comedian-1236077300/)
