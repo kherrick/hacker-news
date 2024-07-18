@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-18, 21:30:05](https://news.ycombinator.com/item?id=40999951) - [Python grapples with Apple App Store rejections](https://lwn.net/Articles/979671/)
 * [2024-07-18, 21:24:39](https://news.ycombinator.com/item?id=40999911) - [NASA cancels $450M mission to drill for ice on the Moon](https://www.nature.com/articles/d41586-024-02361-1)
 * [2024-07-18, 21:00:52](https://news.ycombinator.com/item?id=40999700) - [Mutable.ai (YC W22) is hiring to build an AI codebase expert](https://news.ycombinator.com/item?id=40999700)
 * [2024-07-18, 19:54:13](https://news.ycombinator.com/item?id=40999098) - [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
@@ -20,6 +19,7 @@
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
 * [2024-07-17, 23:11:26](https://news.ycombinator.com/item?id=40991182) - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
 * [2024-07-17, 22:02:39](https://news.ycombinator.com/item?id=40990768) - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
+* [2024-07-17, 18:51:00](https://news.ycombinator.com/item?id=40989069) - [Little Languages (1986) [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 * [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan (2022)](https://pldb.io/blog/brianKernighan.html)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
