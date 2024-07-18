@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-18, 02:03:49",
+      "https://news.ycombinator.com/item?id=40991894"
+    ],
+    [
+      "Americans' confidence in higher education has taken a nosedive",
+      "https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 01:13:56",
       "https://news.ycombinator.com/item?id=40991699"
     ],
@@ -165,8 +175,18 @@
       "https://news.ycombinator.com/item?id=40987730"
     ],
     [
-      "Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations",
+      "Jailbreaking RabbitOS",
       "https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 16:10:25",
+      "https://news.ycombinator.com/item?id=40987427"
+    ],
+    [
+      "Psilocybin desynchronizes the human brain",
+      "https://www.nature.com/articles/s41586-024-07624-5"
     ]
   ],
   [
@@ -221,6 +241,16 @@
   ],
   [
     [
+      "2024-07-16, 17:40:52",
+      "https://news.ycombinator.com/item?id=40978596"
+    ],
+    [
+      "Mystery as 4k-year-old axe-heads sent to museum",
+      "https://www.bbc.com/news/articles/cydvn07d7vdo"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 00:18:20",
       "https://news.ycombinator.com/item?id=40972609"
     ],
@@ -267,36 +297,6 @@
     [
       "How we sped up Notion in the browser with WASM SQLite",
       "https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 19:06:04",
-      "https://news.ycombinator.com/item?id=40948450"
-    ],
-    [
-      "Binary Search Tree with SIMD",
-      "https://clement-jean.github.io/simd_binary_search_tree/"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 17:11:49",
-      "https://news.ycombinator.com/item?id=40947450"
-    ],
-    [
-      "Rye Language",
-      "https://ryelang.org"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 11:18:06",
-      "https://news.ycombinator.com/item?id=40944510"
-    ],
-    [
-      "CheerpX is x86 virtualization to run executables and OS client-side",
-      "https://labs.leaningtech.com/cheerpx"
     ]
   ]
 ]
