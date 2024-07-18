@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-18, 11:23:06](https://news.ycombinator.com/item?id=40994552) - [Ask HN: What's Prolog Like in 2024?](https://news.ycombinator.com/item?id=40994552)
-* [2024-07-18, 07:41:58](https://news.ycombinator.com/item?id=40993389) - [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
+* [2024-07-18, 11:01:49](https://news.ycombinator.com/item?id=40994421) - [Just Use MSYS2 You Say?](https://learncodethehardway.com/blog/30-just-use-msys2-you-say/)
+* [2024-07-18, 08:38:20](https://news.ycombinator.com/item?id=40993654) - [Intend – Be in purposeful flow 10 minutes from now](https://intend.do/)
 * [2024-07-18, 05:42:37](https://news.ycombinator.com/item?id=40992814) - [Intel's CPUs Are Failing, Ft. Wendell of Level1 Techs [video]](https://www.youtube.com/watch?v=oAE4NWoyMZk)
-* [2024-07-18, 05:30:05](https://news.ycombinator.com/item?id=40992760) - [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
 * [2024-07-18, 02:41:40](https://news.ycombinator.com/item?id=40992038) - [Who Killed the World?](https://pudding.cool/2024/07/scifi/)
 * [2024-07-18, 01:02:48](https://news.ycombinator.com/item?id=40991661) - [Show HN: Llm2sh – Translate plain-language requests into shell commands](https://github.com/randombk/llm2sh)
 * [2024-07-18, 01:00:48](https://news.ycombinator.com/item?id=40991652) - [Etleap (YC W13) Is Hiring a Customer Success Manager (San Francisco)](https://etleap.com/careers/customer-success-manager/)
