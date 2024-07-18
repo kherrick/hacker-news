@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-18, 09:37:30](https://news.ycombinator.com/item?id=40993946) - [Concealed backdoor in fake AWS files escaped mainstream notice](https://arstechnica.com/security/2024/07/code-sneaked-into-fake-aws-downloaded-hundreds-of-times-backdoored-dev-devices/)
 * [2024-07-18, 09:00:50](https://news.ycombinator.com/item?id=40993787) - [So you want to compete with or replace open source](https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html)
 * [2024-07-18, 07:41:58](https://news.ycombinator.com/item?id=40993389) - [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
@@ -25,7 +26,6 @@
 * [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
 * [2024-07-16, 14:07:52](https://news.ycombinator.com/item?id=40976776) - [The struggle to understand why earthquakes happen in America's heartland](https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/)
 * [2024-07-16, 01:02:27](https://news.ycombinator.com/item?id=40972851) - [He secretly changed this freeway sign, helped millions of drivers [video]](https://www.youtube.com/watch?v=26-4oARwfF4)
-* [2024-07-16, 00:18:20](https://news.ycombinator.com/item?id=40972609) - [Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
 * [2024-07-15, 07:01:35](https://news.ycombinator.com/item?id=40965803) - [Releasing an Album on Floppy Disk](https://www.michaelgale.dev/blog/releasing-an-album-on-floppy-disk)
 * [2024-07-14, 04:58:27](https://news.ycombinator.com/item?id=40958937) - [Elligator: Elliptic-curve points indistinguishable from uniform random strings](https://dl.acm.org/doi/10.1145/2508859.2516734)
 * [2024-07-13, 14:09:22](https://news.ycombinator.com/item?id=40954208) - [Pseudo Scheme: Scheme Implemented on Top of Common Lisp](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/impl/pseudo/0.html)

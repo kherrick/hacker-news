@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 09:37:30](https://news.ycombinator.com/item?id=40993946) - [Concealed backdoor in fake AWS files escaped mainstream notice](https://arstechnica.com/security/2024/07/code-sneaked-into-fake-aws-downloaded-hundreds-of-times-backdoored-dev-devices/)
 * [2024-07-18, 09:00:50](https://news.ycombinator.com/item?id=40993787) - [So you want to compete with or replace open source](https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html)
 * [2024-07-18, 07:41:58](https://news.ycombinator.com/item?id=40993389) - [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
