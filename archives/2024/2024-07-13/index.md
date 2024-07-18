@@ -77,6 +77,7 @@
 * [2024-07-13, 03:24:32](https://news.ycombinator.com/item?id=40951524) - [Exploring the Limits of Transfer Learning with a Unified Transformer (2019)](https://arxiv.org/abs/1910.10683)
 * [2024-07-13, 02:44:54](https://news.ycombinator.com/item?id=40951368) - [Who Owns Your Wireless Service? Crooks Do. (2019)](https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/)
 * [2024-07-13, 02:36:06](https://news.ycombinator.com/item?id=40951324) - [Tell HN: your next idea should focus on aged care](https://news.ycombinator.com/item?id=40951324)
+* [2024-07-13, 02:04:34](https://news.ycombinator.com/item?id=40951187) - [Writing an MP4 Muxer for Fun and Profit](https://obsproject.com/blog/obs-studio-hybrid-mp4)
 * [2024-07-13, 01:59:23](https://news.ycombinator.com/item?id=40951166) - [Authelia and Lldap: Authentication, SSO, User Management... for Home Networks](https://helgeklein.com/blog/authelia-lldap-authentication-sso-user-management-password-reset-for-home-networks/)
 * [2024-07-13, 00:38:23](https://news.ycombinator.com/item?id=40950774) - [Show HN: Turn voice messages to beautiful journals](https://voicejournal.live/)
 * [2024-07-13, 00:27:51](https://news.ycombinator.com/item?id=40950712) - [Show HN: I accidentally crated a infinite level for a wolf 3D clone](https://victorribeiro.com/raycast2/)
