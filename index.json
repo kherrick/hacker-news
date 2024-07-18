@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-18, 14:45:42",
+      "https://news.ycombinator.com/item?id=40996058"
+    ],
+    [
+      "Mistral NeMo",
+      "https://mistral.ai/news/mistral-nemo/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 14:36:58",
+      "https://news.ycombinator.com/item?id=40995982"
+    ],
+    [
+      "Hash-Based Bisect Debugging in Compilers and Runtimes",
+      "https://research.swtch.com/bisect"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 14:26:36",
       "https://news.ycombinator.com/item?id=40995867"
     ],
@@ -57,16 +77,6 @@
     [
       "Trayd (YC S23) Is Hiring",
       "https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 12:18:53",
-      "https://news.ycombinator.com/item?id=40994898"
-    ],
-    [
-      "Show HN: I made a privacy-friendly and free image, audio and video converter",
-      "https://fileconverter.tommyjepsen.com/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The struggle to understand why earthquakes happen in America's heartland",
       "https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 00:18:20",
-      "https://news.ycombinator.com/item?id=40972609"
-    ],
-    [
-      "Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators (2020)",
-      "https://arxiv.org/abs/2003.10555"
     ]
   ],
   [
