@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-18, 18:42:45](https://news.ycombinator.com/item?id=40998525) - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
+* [2024-07-18, 17:41:40](https://news.ycombinator.com/item?id=40998008) - [Claude by Anthropic Now on Google Play Store](https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=en_US)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:00:52](https://news.ycombinator.com/item?id=40997571) - [Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
@@ -12,7 +14,6 @@
 * [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
 * [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 11:23:06](https://news.ycombinator.com/item?id=40994552) - [Ask HN: What's Prolog like in 2024?](https://news.ycombinator.com/item?id=40994552)
-* [2024-07-18, 07:49:36](https://news.ycombinator.com/item?id=40993428) - [Post-Architecture: Premature Abstraction Is the Root of All Evil](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
 * [2024-07-18, 00:35:24](https://news.ycombinator.com/item?id=40991549) - [Overcoming the limits of current LLMs](https://seanpedersen.github.io/posts/overcoming-llm-limits)
 * [2024-07-17, 23:11:26](https://news.ycombinator.com/item?id=40991182) - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
@@ -27,7 +28,6 @@
 * [2024-07-17, 17:15:37](https://news.ycombinator.com/item?id=40988076) - [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
 * [2024-07-17, 16:41:38](https://news.ycombinator.com/item?id=40987730) - [Jailbreaking RabbitOS](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 * [2024-07-17, 16:08:22](https://news.ycombinator.com/item?id=40987402) - [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
-* [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera (2019)](https://dalpix.com/reverse-engineering-ip-camera-part-1)
 * [2024-07-14, 04:58:27](https://news.ycombinator.com/item?id=40958937) - [Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)](https://dl.acm.org/doi/10.1145/2508859.2516734)
 * [2024-07-13, 17:04:41](https://news.ycombinator.com/item?id=40955272) - [Jigsaw Puzzle Robot [pdf]](https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813)
 

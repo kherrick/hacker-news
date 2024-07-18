@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 18:42:45](https://news.ycombinator.com/item?id=40998525) - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
+* [2024-07-18, 17:41:40](https://news.ycombinator.com/item?id=40998008) - [Claude by Anthropic Now on Google Play Store](https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=en_US)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:02:15](https://news.ycombinator.com/item?id=40997585) - [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
