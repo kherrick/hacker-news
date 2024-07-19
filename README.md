@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-19, 04:08:09](https://news.ycombinator.com/item?id=41001953) - [Condo prices at SF's beleaguered Millennium Tower drop to as low as $649,000](https://www.sfgate.com/bayarea/article/millennium-tower-san-francisco-price-drop-19582654.php)
-* [2024-07-19, 03:33:04](https://news.ycombinator.com/item?id=41001839) - [The Arctic Dilemma](https://arctic-council.org/news/the-arctic-dilemma/)
 * [2024-07-19, 03:17:18](https://news.ycombinator.com/item?id=41001780) - [Professional Poker Players Know the Optimal Strategy but Don't Always Use It](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
 * [2024-07-19, 02:40:58](https://news.ycombinator.com/item?id=41001655) - [Japanese web design: weird, but it works. Here's why [video]](https://www.youtube.com/watch?v=vi8pyS076a8)
 * [2024-07-19, 01:00:55](https://news.ycombinator.com/item?id=41001209) - [Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
@@ -13,6 +11,7 @@
 * [2024-07-18, 18:40:14](https://news.ycombinator.com/item?id=40998497) - [Show HN: How we leapfrogged traditional vector based RAG with a 'language map'](https://twitter.com/mutableai/status/1813815706783490055)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
+* [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:18:55](https://news.ycombinator.com/item?id=40997775) - [What Materials Are Magnetic?](https://sciencenotes.org/list-of-magnetic-metals/)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 16:05:27](https://news.ycombinator.com/item?id=40997020) - [Back to the future: Are hackers the future of amateur radio?](https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/)
@@ -23,6 +22,7 @@
 * [2024-07-18, 07:49:36](https://news.ycombinator.com/item?id=40993428) - [Premature Abstraction](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
 * [2024-07-18, 00:35:24](https://news.ycombinator.com/item?id=40991549) - [Overcoming the limits of current LLMs](https://seanpedersen.github.io/posts/overcoming-llm-limits)
+* [2024-07-17, 23:11:26](https://news.ycombinator.com/item?id=40991182) - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
 * [2024-07-17, 21:44:42](https://news.ycombinator.com/item?id=40990641) - [Show HN: SQLite Transaction Benchmarking Tool](https://github.com/seddonm1/sqlite-bench)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 * [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
