@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 12:43:02](https://news.ycombinator.com/item?id=41005904) - [WTF Is Wrong with Webflow?](https://twitter.com/nicocerdeira/status/1812917905501364424)
+* [2024-07-19, 12:36:55](https://news.ycombinator.com/item?id=41005839) - [Mass IT outage hits airports, businesses and broadcasters around the world](https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664)
 * [2024-07-19, 12:21:06](https://news.ycombinator.com/item?id=41005650) - [Trump shooter used Android phone from Samsung; cracked by Cellebrite in 40 min](https://9to5mac.com/2024/07/18/trump-shooter-android-phone-cellebrite/)
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 11:18:06](https://news.ycombinator.com/item?id=41005056) - [Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
@@ -7,7 +9,6 @@
 * [2024-07-19, 07:48:25](https://news.ycombinator.com/item?id=41003055) - [End Poem by Julian Gough](https://www.theendpoem.com/)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
-* [2024-07-19, 04:05:02](https://news.ycombinator.com/item?id=41001941) - [Show HN: ChatGPT Chrome Extension to Keep Temporary Chat Enabled](https://github.com/EliseiNicolae/chatgpt-always-temporary-chat-on)
 * [2024-07-19, 02:17:29](https://news.ycombinator.com/item?id=41001559) - [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
 * [2024-07-19, 01:00:55](https://news.ycombinator.com/item?id=41001209) - [Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
@@ -21,7 +22,6 @@
 * [2024-07-18, 14:36:58](https://news.ycombinator.com/item?id=40995982) - [Hash-based bisect debugging in compilers and runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
 * [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
-* [2024-07-18, 12:19:17](https://news.ycombinator.com/item?id=40994901) - [Why don't they compose music like Bach any more?](https://marginalrevolution.com/marginalrevolution/2024/07/why-dont-they-compose-music-like-bach-any-more.html)
 * [2024-07-18, 11:23:06](https://news.ycombinator.com/item?id=40994552) - [Ask HN: What's Prolog like in 2024?](https://news.ycombinator.com/item?id=40994552)
 * [2024-07-18, 07:49:36](https://news.ycombinator.com/item?id=40993428) - [Premature Abstraction](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)

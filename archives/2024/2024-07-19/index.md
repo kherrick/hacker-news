@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 12:43:02](https://news.ycombinator.com/item?id=41005904) - [WTF Is Wrong with Webflow?](https://twitter.com/nicocerdeira/status/1812917905501364424)
+* [2024-07-19, 12:36:55](https://news.ycombinator.com/item?id=41005839) - [Mass IT outage hits airports, businesses and broadcasters around the world](https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664)
 * [2024-07-19, 12:21:06](https://news.ycombinator.com/item?id=41005650) - [Trump shooter used Android phone from Samsung; cracked by Cellebrite in 40 min](https://9to5mac.com/2024/07/18/trump-shooter-android-phone-cellebrite/)
 * [2024-07-19, 11:55:02](https://news.ycombinator.com/item?id=41005378) - [62 Minutes could bring your business down](https://www.crowdstrike.com/en-us/#teaser-79minutes-adversary-1)
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes unanimously to dramatically limit prison telecom rates](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
