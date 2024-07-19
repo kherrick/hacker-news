@@ -26,6 +26,7 @@
 * [2024-07-19, 18:14:22](https://news.ycombinator.com/item?id=41009359) - [Opinion: I'd rather have a headphone jack and a microSD slot than AI in my phone](https://news.ycombinator.com/item?id=41009359)
 * [2024-07-19, 18:09:25](https://news.ycombinator.com/item?id=41009316) - [Xkcd: CrowdStrike](https://xkcd.com/2961/)
 * [2024-07-19, 17:52:03](https://news.ycombinator.com/item?id=41009127) - [Anna's Archive Loses .GS Domain Name but Remains Resilient](https://torrentfreak.com/annas-archive-loses-gs-domain-name-but-remains-resilient-240718/)
+* [2024-07-19, 17:43:53](https://news.ycombinator.com/item?id=41009023) - [Kompute – Vulkan Alternative to CUDA](https://github.com/KomputeProject/kompute)
 * [2024-07-19, 17:43:44](https://news.ycombinator.com/item?id=41009021) - [A search engine by and for the federal government](https://search.gov/)
 * [2024-07-19, 17:26:07](https://news.ycombinator.com/item?id=41008821) - [CrowdStrike is not worth 83B Dollars](https://old.reddit.com/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars)
 * [2024-07-19, 17:18:48](https://news.ycombinator.com/item?id=41008738) - [Texan construction workers put a rocket up Team SpaceX over 'unpaid bills'](https://www.theregister.com/2024/05/14/spacex_liens_texas/)
