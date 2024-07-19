@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
 * [2024-07-19, 13:05:34](https://news.ycombinator.com/item?id=41006104) - [How to Fix the Crowdstrike Thing](https://twitter.com/vxunderground/status/1814280916887319023)
 * [2024-07-19, 12:43:02](https://news.ycombinator.com/item?id=41005904) - [WTF Is Wrong with Webflow?](https://twitter.com/nicocerdeira/status/1812917905501364424)
 * [2024-07-19, 12:36:55](https://news.ycombinator.com/item?id=41005839) - [Mass IT outage hits airports, businesses and broadcasters around the world](https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664)
@@ -14,6 +15,7 @@
 * [2024-07-19, 11:18:06](https://news.ycombinator.com/item?id=41005056) - [Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
 * [2024-07-19, 10:33:49](https://news.ycombinator.com/item?id=41004620) - [Article on crowdstrike website has not aged well](https://www.crowdstrike.com/resources/reports/total-economic-impact-of-crowdstrike-falcon-complete/)
 * [2024-07-19, 10:30:36](https://news.ycombinator.com/item?id=41004602) - [CrowdStrike shares sink as global IT outage savages systems worldwide](https://www.theregister.com/2024/07/19/crowdstrike_shares_sink_as_global/)
+* [2024-07-19, 10:30:18](https://news.ycombinator.com/item?id=41004597) - [CrowdStrike CEO: \"defect in a single content update for Windows\"](https://twitter.com/George_Kurtz/status/1814235001745027317)
 * [2024-07-19, 09:30:20](https://news.ycombinator.com/item?id=41004113) - [TradingView's Emotional Subscription Cancellation](https://hallofshame.design/tradingview-emotional-subscription-cancellation/)
 * [2024-07-19, 09:29:51](https://news.ycombinator.com/item?id=41004103) - [Ask HN: What is in C-00000291*.sys?](https://news.ycombinator.com/item?id=41004103)
 * [2024-07-19, 09:23:24](https://news.ycombinator.com/item?id=41004039) - [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)

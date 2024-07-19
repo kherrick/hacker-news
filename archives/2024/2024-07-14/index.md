@@ -34,6 +34,7 @@
 * [2024-07-14, 18:29:14](https://news.ycombinator.com/item?id=40962457) - [Study Finds Brain Area Regulating Attention and Wakefulness](https://www.haaretz.com/science-and-health/2024-07-14/ty-article/israeli-study-finds-brain-area-regulating-attention-and-wakefulness/00000190-ace2-d9f4-afd5-eeef185a0000)
 * [2024-07-14, 18:11:33](https://news.ycombinator.com/item?id=40962362) - [Soviet Calculators History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
 * [2024-07-14, 17:48:06](https://news.ycombinator.com/item?id=40962249) - [Google on the verge of acquiring cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
+* [2024-07-14, 17:46:27](https://news.ycombinator.com/item?id=40962242) - [Trust as a bottleneck to growing teams quickly – benkuhn.net](https://www.benkuhn.net/trust/)
 * [2024-07-14, 17:44:59](https://news.ycombinator.com/item?id=40962239) - [HIV breakthrough: Trial shows drug provides 100% protection](https://www.universityworldnews.com/post.php?story=20240708145001437)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2024-07-14, 17:34:26](https://news.ycombinator.com/item?id=40962195) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
