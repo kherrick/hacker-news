@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 17:26:07](https://news.ycombinator.com/item?id=41008821) - [CrowdStrike is not worth 83B Dollars](https://old.reddit.com/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars)
+* [2024-07-19, 17:18:48](https://news.ycombinator.com/item?id=41008738) - [Texan construction workers put a rocket up Team SpaceX over 'unpaid bills'](https://www.theregister.com/2024/05/14/spacex_liens_texas/)
 * [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-07-19, 16:14:08](https://news.ycombinator.com/item?id=41007980) - [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
 * [2024-07-19, 16:07:26](https://news.ycombinator.com/item?id=41007898) - [CrowdStrike fixes start at \"reboot up to 15 times\", get more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/)
