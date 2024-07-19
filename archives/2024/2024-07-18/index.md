@@ -31,6 +31,7 @@
 * [2024-07-18, 18:14:38](https://news.ycombinator.com/item?id=40998278) - [A Journey into Rebel-Held Myanmar](https://www.noemamag.com/a-journey-into-rebel-held-myanmar/)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 17:41:40](https://news.ycombinator.com/item?id=40998008) - [Claude by Anthropic Now on Google Play Store](https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=en_US)
+* [2024-07-18, 17:32:59](https://news.ycombinator.com/item?id=40997929) - [Bananas Don't Taste Like They Used To. Here's Why](https://www.epicurious.com/ingredients/history-of-the-gros-michel-banana)
 * [2024-07-18, 17:31:52](https://news.ycombinator.com/item?id=40997919) - [The Semmelweis myth and why it's not true (2018)](https://digitaltonto.com/2018/the-semmelweis-myth-and-why-its-not-really-true/)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
