@@ -13,6 +13,7 @@
 * [2024-07-19, 20:56:36](https://news.ycombinator.com/item?id=41011114) - [2024 CrowdStrike incident: The largest IT outage in history](https://en.wikipedia.org/wiki/2024_CrowdStrike_incident)
 * [2024-07-19, 20:52:09](https://news.ycombinator.com/item?id=41011058) - [Continuously shorting IT stocks overnight and buying back at market open](https://blog.abctaylor.com/continuously-shorting-it-stocks-overnight-and-buying-back-at-market-open/)
 * [2024-07-19, 20:21:32](https://news.ycombinator.com/item?id=41010708) - [Is Crowdstrike the Final Straw?](https://gavinhoward.com/2024/07/is-crowdstrike-the-final-straw/)
+* [2024-07-19, 19:57:03](https://news.ycombinator.com/item?id=41010458) - [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
 * [2024-07-19, 19:54:26](https://news.ycombinator.com/item?id=41010425) - [Show HN: I built an app to generate me windows blue screen of death](https://app.tivateonline.com/uiconcept/)
 * [2024-07-19, 19:34:47](https://news.ycombinator.com/item?id=41010229) - [Ask HN: How to finish last 30% of a side project?](https://news.ycombinator.com/item?id=41010229)
 * [2024-07-19, 19:28:39](https://news.ycombinator.com/item?id=41010188) - [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
