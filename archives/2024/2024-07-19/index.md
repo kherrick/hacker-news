@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 09:30:20](https://news.ycombinator.com/item?id=41004113) - [TradingView's Emotional Subscription Cancellation](https://hallofshame.design/tradingview-emotional-subscription-cancellation/)
+* [2024-07-19, 09:23:24](https://news.ycombinator.com/item?id=41004039) - [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)
 * [2024-07-19, 08:25:48](https://news.ycombinator.com/item?id=41003474) - [Delta, United and American Airlines flights grounded due to communication issue](https://www.cnn.com/2024/07/19/business/delta-american-airlines-flights-outage-intl-hnk/index.html)
 * [2024-07-19, 07:53:26](https://news.ycombinator.com/item?id=41003091) - [Ask HN: Migrate to GNU/Linux](https://news.ycombinator.com/item?id=41003091)
 * [2024-07-19, 07:48:25](https://news.ycombinator.com/item?id=41003055) - [End Poem by Julian Gough](https://www.theendpoem.com/)
