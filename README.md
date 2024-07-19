@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes unanimously to dramatically limit prison telecom rates](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
-* [2024-07-19, 10:30:36](https://news.ycombinator.com/item?id=41004602) - [CrowdStrike shares sink as global IT outage savages systems worldwide](https://www.theregister.com/2024/07/19/crowdstrike_shares_sink_as_global/)
+* [2024-07-19, 11:55:02](https://news.ycombinator.com/item?id=41005378) - [62 Minutes could bring your business down](https://www.crowdstrike.com/en-us/#teaser-79minutes-adversary-1)
+* [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 09:29:51](https://news.ycombinator.com/item?id=41004103) - [Ask HN: What is in C-00000291*.sys?](https://news.ycombinator.com/item?id=41004103)
 * [2024-07-19, 09:23:24](https://news.ycombinator.com/item?id=41004039) - [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)
 * [2024-07-19, 07:48:25](https://news.ycombinator.com/item?id=41003055) - [End Poem by Julian Gough](https://www.theendpoem.com/)
