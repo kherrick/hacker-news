@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 07:53:26](https://news.ycombinator.com/item?id=41003091) - [Ask HN: Migrate to GNU/Linux](https://news.ycombinator.com/item?id=41003091)
+* [2024-07-19, 07:44:03](https://news.ycombinator.com/item?id=41003004) - [Scoop: Meta won't offer future multimodal AI models in EU](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu)
 * [2024-07-19, 07:07:46](https://news.ycombinator.com/item?id=41002730) - [74935 viewing Mass worldwide IT outage affects airlines, media and banks](https://www.bbc.co.uk/news/live/cnk4jdwp49et)
 * [2024-07-19, 07:00:44](https://news.ycombinator.com/item?id=41002677) - [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
 * [2024-07-19, 06:40:45](https://news.ycombinator.com/item?id=41002566) - [Cybersecurity platform Crowdstrike down worldwide, users logged out of systems](https://www.digit.in/news/general/cybersecurity-platform-crowdstrike-down-worldwide-many-users-logged-out-of-systems.html)
