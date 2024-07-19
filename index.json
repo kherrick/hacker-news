@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-19, 19:34:47",
+      "https://news.ycombinator.com/item?id=41010229"
+    ],
+    [
+      "Ask HN: How to finish last 30% of a side project?",
+      "https://news.ycombinator.com/item?id=41010229"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 19:28:39",
       "https://news.ycombinator.com/item?id=41010188"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-07-19, 19:13:33",
-      "https://news.ycombinator.com/item?id=41010010"
+      "2024-07-19, 19:19:06",
+      "https://news.ycombinator.com/item?id=41010076"
     ],
     [
-      "Nearly all of Bangladesh is offline",
-      "https://ant.isi.edu/blog/?p=2094"
+      "Pornhub Pulls Out of Nebraska",
+      "https://gizmodo.com/pornhub-pulls-out-of-nebraska-2000476879"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "What Happened to Bert and T5?",
       "https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 18:47:44",
+      "https://news.ycombinator.com/item?id=41009740"
+    ],
+    [
+      "The CrowdStrike file that broke everything was full of null characters",
+      "https://twitter.com/jeremyphoward/status/1814364640127922499"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Show HN: Sendune – open-source HTML email designer",
       "https://news.ycombinator.com/item?id=41007403"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 15:22:02",
+      "https://news.ycombinator.com/item?id=41007396"
+    ],
+    [
+      "Bangladesh is in the midst of a near-total internet shutdown",
+      "https://mastodon.social/@netblocks/112808500770031751"
     ]
   ],
   [
@@ -197,36 +227,6 @@
     [
       "Devzat – Chat over SSH, with some nice quality-of-life features",
       "https://github.com/quackduck/devzat"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 17:25:15",
-      "https://news.ycombinator.com/item?id=40997850"
-    ],
-    [
-      "Transcribro: On-device Accurate Speech-to-text",
-      "https://github.com/soupslurpr/Transcribro"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 16:11:41",
-      "https://news.ycombinator.com/item?id=40997087"
-    ],
-    [
-      "Polychromatic Pixels",
-      "https://compoundsemiconductor.net/article/119170/Polychromatic_pixels"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 14:36:58",
-      "https://news.ycombinator.com/item?id=40995982"
-    ],
-    [
-      "Hash-based bisect debugging in compilers and runtimes",
-      "https://research.swtch.com/bisect"
     ]
   ],
   [
