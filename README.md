@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-19, 20:56:36](https://news.ycombinator.com/item?id=41011114) - [2024 CrowdStrike incident: The largest IT outage in history](https://en.wikipedia.org/wiki/2024_CrowdStrike_incident)
-* [2024-07-19, 20:21:32](https://news.ycombinator.com/item?id=41010708) - [Is Crowdstrike the Final Straw?](https://gavinhoward.com/2024/07/is-crowdstrike-the-final-straw/)
-* [2024-07-19, 19:54:26](https://news.ycombinator.com/item?id=41010425) - [Show HN: I built an app to generate me windows blue screen of death](https://app.tivateonline.com/uiconcept/)
 * [2024-07-19, 19:34:47](https://news.ycombinator.com/item?id=41010229) - [Ask HN: How to finish last 30% of a side project?](https://news.ycombinator.com/item?id=41010229)
 * [2024-07-19, 19:28:39](https://news.ycombinator.com/item?id=41010188) - [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
 * [2024-07-19, 19:25:58](https://news.ycombinator.com/item?id=41010166) - [Bangladesh is experiencing a 'near-total' internet shutdown amid student protest](https://www.engadget.com/bangladesh-is-experiencing-a-near-total-internet-shutdown-amid-student-protests-235907085.html)
@@ -22,6 +20,8 @@
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes to limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
+* [2024-07-19, 03:17:18](https://news.ycombinator.com/item?id=41001780) - [Professional poker players know the optimal strategy but don't always use it](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
+* [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
 * [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
