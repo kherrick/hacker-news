@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-19, 13:05:34",
-      "https://news.ycombinator.com/item?id=41006104"
+      "2024-07-19, 13:47:48",
+      "https://news.ycombinator.com/item?id=41006552"
     ],
     [
-      "How to Fix the Crowdstrike Thing",
-      "https://twitter.com/vxunderground/status/1814280916887319023"
+      "NASA's Curiosity Rover Discovers a Surprise in a Martian Rock",
+      "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock"
     ]
   ],
   [
@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2024-07-19, 11:18:06",
-      "https://news.ycombinator.com/item?id=41005056"
+      "2024-07-19, 10:30:18",
+      "https://news.ycombinator.com/item?id=41004597"
     ],
     [
-      "Major Microsoft 365 outage caused by Azure configuration change",
-      "https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/"
+      "CrowdStrike CEO: \"defect in a single content update for Windows\"",
+      "https://twitter.com/George_Kurtz/status/1814235001745027317"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Crowdstrike Update: Windows Bluescreen and Boot Loops",
       "https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 04:05:02",
-      "https://news.ycombinator.com/item?id=41001941"
-    ],
-    [
-      "Show HN: ChatGPT Chrome Extension to Keep Temporary Chat Enabled",
-      "https://github.com/EliseiNicolae/chatgpt-always-temporary-chat-on"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Inference of Error Specifications and Bug Detection Using Structural Similarity [pdf]",
       "https://www.usenix.org/system/files/sec24fall-prepub-93-dossche.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 17:46:27",
+      "https://news.ycombinator.com/item?id=40962242"
+    ],
+    [
+      "Trust as a bottleneck to growing teams quickly – benkuhn.net",
+      "https://www.benkuhn.net/trust/"
     ]
   ],
   [
