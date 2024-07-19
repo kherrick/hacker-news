@@ -8,6 +8,7 @@
 * [2024-07-15, 23:41:59](https://news.ycombinator.com/item?id=40972453) - [IQM achieves 99.9% 2-qubit gate fidelity and 1 millisecond coherence time](https://www.meetiqm.com/newsroom/press-releases/iqm-achieves-new-technology-milestones)
 * [2024-07-15, 23:39:34](https://news.ycombinator.com/item?id=40972437) - [The All-American Delusion of the Polygraph](https://lithub.com/what-the-all-american-delusion-of-the-polygraph-says-about-our-relationship-to-fact-and-fiction/)
 * [2024-07-15, 22:51:56](https://news.ycombinator.com/item?id=40972166) - [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
+* [2024-07-15, 22:49:43](https://news.ycombinator.com/item?id=40972147) - [The oldest known recording of a human voice [video]](https://www.bbc.com/reel/video/p0j7x5f7/listen-to-the-oldest-known-recording-of-a-human-voice)
 * [2024-07-15, 22:48:24](https://news.ycombinator.com/item?id=40972134) - [How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
 * [2024-07-15, 22:47:23](https://news.ycombinator.com/item?id=40972130) - [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
 * [2024-07-15, 22:45:36](https://news.ycombinator.com/item?id=40972122) - [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
