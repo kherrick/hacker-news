@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-19, 18:14:22",
+      "https://news.ycombinator.com/item?id=41009359"
+    ],
+    [
+      "Opinion: I'd rather have a headphone jack and a microSD slot than AI in my phone",
+      "https://news.ycombinator.com/item?id=41009359"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 18:09:25",
+      "https://news.ycombinator.com/item?id=41009316"
+    ],
+    [
+      "Xkcd: CrowdStrike",
+      "https://xkcd.com/2961/"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 17:52:03",
+      "https://news.ycombinator.com/item?id=41009127"
+    ],
+    [
+      "Anna's Archive Loses .GS Domain Name but Remains Resilient",
+      "https://torrentfreak.com/annas-archive-loses-gs-domain-name-but-remains-resilient-240718/"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 17:18:48",
       "https://news.ycombinator.com/item?id=41008738"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2024-07-19, 02:17:29",
-      "https://news.ycombinator.com/item?id=41001559"
-    ],
-    [
-      "Show HN: NetSour, CLI Based Wireshark",
-      "https://github.com/thegoodduck/NetSour"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 23:53:36",
       "https://news.ycombinator.com/item?id=41000846"
     ],
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2024-07-18, 19:28:21",
-      "https://news.ycombinator.com/item?id=40998927"
-    ],
-    [
-      "What would it take to recreate Bell Labs?",
-      "https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 18:40:14",
-      "https://news.ycombinator.com/item?id=40998497"
-    ],
-    [
-      "Show HN: How we leapfrogged traditional vector based RAG with a 'language map'",
-      "https://twitter.com/mutableai/status/1813815706783490055"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 17:58:52",
       "https://news.ycombinator.com/item?id=40998158"
     ],
     [
       "Devzat – Chat over SSH, with some nice quality-of-life features",
       "https://github.com/quackduck/devzat"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 17:25:15",
-      "https://news.ycombinator.com/item?id=40997850"
-    ],
-    [
-      "Transcribro: On-device Accurate Speech-to-text",
-      "https://github.com/soupslurpr/Transcribro"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Visual programming should start in the debugger",
       "https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 13:55:43",
+      "https://news.ycombinator.com/item?id=40967935"
+    ],
+    [
+      "Artificial neural network approach to finding the key length of Vigenère cipher",
+      "https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la"
     ]
   ]
 ]
