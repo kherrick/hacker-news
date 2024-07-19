@@ -40,6 +40,7 @@
 * [2024-07-16, 16:45:11](https://news.ycombinator.com/item?id=40978132) - [Surprise, your data warehouse can RAG](https://www.rainforestqa.com/blog/data-warehouse-can-rag)
 * [2024-07-16, 16:38:07](https://news.ycombinator.com/item?id=40978073) - [Stop Microsoft users sending 'reactions' to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
 * [2024-07-16, 16:23:10](https://news.ycombinator.com/item?id=40977945) - [Private Browsing 2.0](https://webkit.org/blog/15697/private-browsing-2-0/)
+* [2024-07-16, 16:21:13](https://news.ycombinator.com/item?id=40977927) - [We created a fake delivery company to get a job](https://blog.kashevko.com/we-created-a-fake-delivery-company-3/)
 * [2024-07-16, 16:09:29](https://news.ycombinator.com/item?id=40977834) - [Deconstructing the Role-Playing Video Game](https://olano.dev/blog/deconstructing-the-role-playing-videogame/)
 * [2024-07-16, 15:52:39](https://news.ycombinator.com/item?id=40977666) - [My pet theory of how great software gets started](https://hiandrewquinn.github.io/til-site/posts/my-pet-theory-of-how-great-software-gets-started/)
 * [2024-07-16, 15:28:07](https://news.ycombinator.com/item?id=40977453) - [Show HN: I quit my job and made an automatic time tracker](https://taimapp.io)
