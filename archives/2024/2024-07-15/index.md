@@ -57,6 +57,7 @@
 * [2024-07-15, 15:53:49](https://news.ycombinator.com/item?id=40968981) - [A simple guide to HTML <head> elements](https://htmlhead.dev)
 * [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 * [2024-07-15, 15:25:53](https://news.ycombinator.com/item?id=40968689) - [Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
+* [2024-07-15, 15:25:15](https://news.ycombinator.com/item?id=40968680) - [Mining Pool Game Theory During Forks](https://b10c.me/blog/014-mining-pool-game-theory-during-forks/)
 * [2024-07-15, 15:17:21](https://news.ycombinator.com/item?id=40968612) - [Health benefits of replacing butter with high-quality plant oils](https://www.dife.de/en/details-home/blood-fat-profiles-confirm-health-benefits-of-replacing-butter-with-high-quality-plant-oils-479/)
 * [2024-07-15, 15:06:29](https://news.ycombinator.com/item?id=40968520) - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
 * [2024-07-15, 15:04:05](https://news.ycombinator.com/item?id=40968493) - [How the Rise of the Camera Launched a Fight to Protect Gilded Age Privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
