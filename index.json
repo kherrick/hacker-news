@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-07-19, 16:14:08",
+      "https://news.ycombinator.com/item?id=41007980"
+    ],
+    [
+      "Signs of two gases in clouds of Venus could indicate life, scientists say",
+      "https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 16:07:26",
+      "https://news.ycombinator.com/item?id=41007898"
+    ],
+    [
+      "CrowdStrike fixes start at \"reboot up to 15 times\", get more complex from there",
+      "https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 16:02:58",
+      "https://news.ycombinator.com/item?id=41007843"
+    ],
+    [
+      "It's not just CrowdStrike – the cyber sector is vulnerable",
+      "https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 16:02:10",
+      "https://news.ycombinator.com/item?id=41007828"
+    ],
+    [
+      "Deletion of Il11 extended the lives of mice by 25%",
+      "https://www.nature.com/articles/s41586-024-07701-9"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 15:22:40",
       "https://news.ycombinator.com/item?id=41007403"
     ],
     [
       "Show HN: Sendune – open-source HTML email designer",
       "https://news.ycombinator.com/item?id=41007403"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 15:22:02",
-      "https://news.ycombinator.com/item?id=41007396"
-    ],
-    [
-      "Bangladesh is now in the midst of a near-total national internet shutdown",
-      "https://mastodon.social/@netblocks/112808500770031751"
     ]
   ],
   [
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2024-07-19, 14:59:16",
-      "https://news.ycombinator.com/item?id=41007196"
-    ],
-    [
-      "Earth's Water Is Rapidly Losing Oxygen, and the Danger Is Huge",
-      "https://www.sciencealert.com/earths-water-is-rapidly-losing-oxygen-and-the-danger-is-huge"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 14:50:29",
       "https://news.ycombinator.com/item?id=41007113"
     ],
@@ -51,11 +71,21 @@
   ],
   [
     [
+      "2024-07-19, 14:31:04",
+      "https://news.ycombinator.com/item?id=41006946"
+    ],
+    [
+      "Instrumenting Python GIL with eBPF",
+      "https://coroot.com/blog/instrumenting-python-gil-with-ebpf"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 13:47:48",
       "https://news.ycombinator.com/item?id=41006552"
     ],
     [
-      "NASA's Curiosity Rover Discovers a Surprise in a Martian Rock",
+      "NASA's Curiosity rover discovers a surprise in a Martian rock",
       "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock"
     ]
   ],
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41005181"
     ],
     [
-      "FCC votes unanimously to dramatically limit prison telecom charges",
+      "FCC votes to limit prison telecom charges",
       "https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms"
     ]
   ],
@@ -167,46 +197,6 @@
     [
       "Double trouble: ESA's Gaia hit by micrometeoroid and solar storm",
       "https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 19:28:21",
-      "https://news.ycombinator.com/item?id=40998927"
-    ],
-    [
-      "What would it take to recreate Bell Labs?",
-      "https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 18:56:33",
-      "https://news.ycombinator.com/item?id=40998647"
-    ],
-    [
-      "USPS shared customer postal addresses with Meta, LinkedIn and Snap",
-      "https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 18:40:14",
-      "https://news.ycombinator.com/item?id=40998497"
-    ],
-    [
-      "Show HN: How we leapfrogged traditional vector based RAG with a 'language map'",
-      "https://twitter.com/mutableai/status/1813815706783490055"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 18:14:38",
-      "https://news.ycombinator.com/item?id=40998278"
-    ],
-    [
-      "A Journey into Rebel-Held Myanmar",
-      "https://www.noemamag.com/a-journey-into-rebel-held-myanmar/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mining Pool Game Theory During Forks",
       "https://b10c.me/blog/014-mining-pool-game-theory-during-forks/"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 14:32:37",
+      "https://news.ycombinator.com/item?id=40968215"
+    ],
+    [
+      "Visual programming should start in the debugger",
+      "https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/"
     ]
   ]
 ]
