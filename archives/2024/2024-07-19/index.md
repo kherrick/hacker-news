@@ -24,6 +24,7 @@
 * [2024-07-19, 07:48:25](https://news.ycombinator.com/item?id=41003055) - [End Poem by Julian Gough](https://www.theendpoem.com/)
 * [2024-07-19, 07:44:03](https://news.ycombinator.com/item?id=41003004) - [Scoop: Meta won't offer future multimodal AI models in EU](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu)
 * [2024-07-19, 07:43:59](https://news.ycombinator.com/item?id=41003003) - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)
+* [2024-07-19, 07:39:57](https://news.ycombinator.com/item?id=41002961) - [Costco starts to sell 'apocalypse bucket' with food that lasts 25 years](https://www.nbcnews.com/news/us-news/doomsday-dinners-costco-sells-apocalypse-bucket-food-lasts-25-years-rcna162474)
 * [2024-07-19, 07:15:51](https://news.ycombinator.com/item?id=41002784) - [Microsoft outage: Chaos as internet down and flights grounded around the world](https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world/)
 * [2024-07-19, 07:07:46](https://news.ycombinator.com/item?id=41002730) - [74935 viewing Mass worldwide IT outage affects airlines, media and banks](https://www.bbc.co.uk/news/live/cnk4jdwp49et)
 * [2024-07-19, 07:05:30](https://news.ycombinator.com/item?id=41002710) - [Mass worldwide IT outage affects airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
