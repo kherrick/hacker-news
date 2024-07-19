@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 02:16:02](https://news.ycombinator.com/item?id=41001552) - [Life was dirty, difficult, and dangerous for almost everyone who ever existed](https://www.freethink.com/society/techno-humanist-manifesto-chapter-1)
 * [2024-07-19, 01:00:55](https://news.ycombinator.com/item?id=41001209) - [Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
-* [2024-07-19, 00:01:58](https://news.ycombinator.com/item?id=41000889) - [Youth with conduct disorder show widespread differences in brain structure](https://www.nih.gov/news-events/news-releases/youth-conduct-disorder-show-widespread-differences-brain-structure)
 * [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants Are Doing Something Deeply Human](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 * [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
 * [2024-07-18, 19:54:13](https://news.ycombinator.com/item?id=40999098) - [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
@@ -10,7 +10,6 @@
 * [2024-07-18, 18:56:33](https://news.ycombinator.com/item?id=40998647) - [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
-* [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:18:55](https://news.ycombinator.com/item?id=40997775) - [What Materials Are Magnetic?](https://sciencenotes.org/list-of-magnetic-metals/)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 16:05:27](https://news.ycombinator.com/item?id=40997020) - [Back to the future: Are hackers the future of amateur radio?](https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/)
@@ -30,6 +29,7 @@
 * [2024-07-13, 19:30:31](https://news.ycombinator.com/item?id=40956266) - [Trust as a bottleneck to growing teams quickly](https://www.benkuhn.net/trust/)
 * [2024-07-13, 17:04:41](https://news.ycombinator.com/item?id=40955272) - [Jigsaw Puzzle Robot [pdf]](https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813)
 * [2024-07-13, 02:04:34](https://news.ycombinator.com/item?id=40951187) - [Writing an MP4 Muxer for Fun and Profit](https://obsproject.com/blog/obs-studio-hybrid-mp4)
+* [2024-07-12, 22:43:28](https://news.ycombinator.com/item?id=40950126) - [45 Years Ago: Skylab Reenters Earth's Atmosphere](https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/)
 
 ## [Archives](archives/index.md)
 
