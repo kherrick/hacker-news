@@ -19,6 +19,7 @@
 * [2024-07-19, 02:17:29](https://news.ycombinator.com/item?id=41001559) - [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
 * [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants use namelike calls](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 * [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
+* [2024-07-18, 19:28:21](https://news.ycombinator.com/item?id=40998927) - [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 * [2024-07-18, 18:40:14](https://news.ycombinator.com/item?id=40998497) - [Show HN: How we leapfrogged traditional vector based RAG with a 'language map'](https://twitter.com/mutableai/status/1813815706783490055)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
@@ -28,7 +29,6 @@
 * [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 * [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)
 * [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
-* [2024-07-15, 15:25:15](https://news.ycombinator.com/item?id=40968680) - [Mining Pool Game Theory During Forks](https://b10c.me/blog/014-mining-pool-game-theory-during-forks/)
 * [2024-07-15, 14:32:37](https://news.ycombinator.com/item?id=40968215) - [Visual programming should start in the debugger](https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/)
 
 ## [Archives](archives/index.md)
