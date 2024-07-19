@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 07:00:44](https://news.ycombinator.com/item?id=41002677) - [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
+* [2024-07-19, 06:40:45](https://news.ycombinator.com/item?id=41002566) - [Cybersecurity platform Crowdstrike down worldwide, users logged out of systems](https://www.digit.in/news/general/cybersecurity-platform-crowdstrike-down-worldwide-many-users-logged-out-of-systems.html)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 04:40:16](https://news.ycombinator.com/item?id=41002044) - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
 * [2024-07-19, 04:09:59](https://news.ycombinator.com/item?id=41001959) - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
@@ -22,8 +24,6 @@
 * [2024-07-18, 11:23:06](https://news.ycombinator.com/item?id=40994552) - [Ask HN: What's Prolog like in 2024?](https://news.ycombinator.com/item?id=40994552)
 * [2024-07-18, 07:49:36](https://news.ycombinator.com/item?id=40993428) - [Premature Abstraction](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
-* [2024-07-17, 23:11:26](https://news.ycombinator.com/item?id=40991182) - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
-* [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 * [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 * [2024-07-16, 14:31:48](https://news.ycombinator.com/item?id=40976989) - [The Chorleywood Experiment (2023)](https://www.historic-uk.com/CultureUK/Chorleywood-Experiment-Bread/)
 * [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
