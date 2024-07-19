@@ -51,6 +51,7 @@
 * [2024-07-17, 13:02:28](https://news.ycombinator.com/item?id=40985436) - [New Technology Could Reduce the Amount of Energy for Air Conditioning](https://www.wired.com/story/cutting-edge-technology-could-massively-reduce-the-amount-of-energy-used-for-air-conditioning/)
 * [2024-07-17, 13:02:19](https://news.ycombinator.com/item?id=40985433) - [Reverse-Engineering an IP Camera](https://dalpix.com/reverse-engineering-ip-camera-part-1)
 * [2024-07-17, 12:47:49](https://news.ycombinator.com/item?id=40985285) - [Pinned Tweet Ordered by UK Court – Craig Wright Not Satoshi Nakamoto](https://twitter.com/Dr_CSWright/status/1813547003676164132)
+* [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 * [2024-07-17, 12:13:47](https://news.ycombinator.com/item?id=40984994) - [Can Universal Basic Income Transform Society?](https://www.theguardian.com/society/article/2024/jul/14/money-for-nothing-is-universal-basic-income-about-to-transform-society)
 * [2024-07-17, 11:23:36](https://news.ycombinator.com/item?id=40984689) - [Meta's digital censorship targets art from the Leopold Museum](https://english.elpais.com/culture/2024-07-15/metas-digital-censorship-targets-art-from-the-leopold-museum-in-vienna.html)
 * [2024-07-17, 11:03:38](https://news.ycombinator.com/item?id=40984589) - [Jia Tan \"JiaT75\": Added error text to warning when untaring with bsdtar](https://github.com/libarchive/libarchive/pull/1609)
