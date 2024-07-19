@@ -9,7 +9,6 @@
 * [2024-07-19, 02:17:29](https://news.ycombinator.com/item?id=41001559) - [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
 * [2024-07-19, 01:00:55](https://news.ycombinator.com/item?id=41001209) - [Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
-* [2024-07-18, 19:28:35](https://news.ycombinator.com/item?id=40998931) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 * [2024-07-18, 19:28:21](https://news.ycombinator.com/item?id=40998927) - [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 * [2024-07-18, 18:56:33](https://news.ycombinator.com/item?id=40998647) - [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
 * [2024-07-18, 18:40:14](https://news.ycombinator.com/item?id=40998497) - [Show HN: How we leapfrogged traditional vector based RAG with a 'language map'](https://twitter.com/mutableai/status/1813815706783490055)
@@ -30,6 +29,7 @@
 * [2024-07-15, 09:25:21](https://news.ycombinator.com/item?id=40966366) - [Inside the Three-Way Race to Create the Most Widely Used Laser](https://spectrum.ieee.org/invention-semiconductor-laser)
 * [2024-07-14, 19:38:55](https://news.ycombinator.com/item?id=40962753) - [Inference of Error Specifications and Bug Detection Using Structural Similarity [pdf]](https://www.usenix.org/system/files/sec24fall-prepub-93-dossche.pdf)
 * [2024-07-14, 16:58:55](https://news.ycombinator.com/item?id=40961971) - [The only tourist in Moldova](https://www.telegraph.co.uk/travel/destinations/europe/moldova-europe-least-visited-country/)
+* [2024-07-14, 15:56:13](https://news.ycombinator.com/item?id=40961637) - [Warframe devs report 80% of game crashes happen on Intel's Core i9 chips](https://www.tomshardware.com/pc-components/cpus/warframe-devs-report-80-percent-of-game-crashes-happen-on-intel-overclockable-core-i9-chips)
 
 ## [Archives](archives/index.md)
 
