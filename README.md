@@ -2,6 +2,7 @@
 
 * [2024-07-19, 17:18:48](https://news.ycombinator.com/item?id=41008738) - [Texan construction workers put a rocket up Team SpaceX over 'unpaid bills'](https://www.theregister.com/2024/05/14/spacex_liens_texas/)
 * [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
+* [2024-07-19, 16:57:11](https://news.ycombinator.com/item?id=41008488) - [Playing Guitar Tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
 * [2024-07-19, 16:14:08](https://news.ycombinator.com/item?id=41007980) - [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
 * [2024-07-19, 16:07:26](https://news.ycombinator.com/item?id=41007898) - [CrowdStrike fixes start at \"reboot up to 15 times\", gets more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/)
 * [2024-07-19, 16:02:10](https://news.ycombinator.com/item?id=41007828) - [Deletion of Il11 extended the lives of mice by 25%](https://www.nature.com/articles/s41586-024-07701-9)
@@ -10,7 +11,6 @@
 * [2024-07-19, 14:31:04](https://news.ycombinator.com/item?id=41006946) - [Instrumenting Python GIL with eBPF](https://coroot.com/blog/instrumenting-python-gil-with-ebpf)
 * [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity rover discovers a surprise in a Martian rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
 * [2024-07-19, 13:24:40](https://news.ycombinator.com/item?id=41006308) - [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
-* [2024-07-19, 12:06:51](https://news.ycombinator.com/item?id=41005497) - [3D visualization brings nuclear fusion to life](https://actu.epfl.ch/news/3d-visualization-brings-nuclear-fusion-to-life/)
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes to limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 07:48:25](https://news.ycombinator.com/item?id=41003055) - [End Poem by Julian Gough](https://www.theendpoem.com/)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
