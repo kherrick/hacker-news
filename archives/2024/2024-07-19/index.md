@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 21:50:08](https://news.ycombinator.com/item?id=41011739) - [The Commodore 900: A Look at a Rare Prototype](https://hackaday.com/2023/02/25/the-forgotten-commodore-900-a-look-at-a-rare-prototype/)
 * [2024-07-19, 20:56:36](https://news.ycombinator.com/item?id=41011114) - [2024 CrowdStrike incident: The largest IT outage in history](https://en.wikipedia.org/wiki/2024_CrowdStrike_incident)
+* [2024-07-19, 20:52:09](https://news.ycombinator.com/item?id=41011058) - [Continuously shorting IT stocks overnight and buying back at market open](https://blog.abctaylor.com/continuously-shorting-it-stocks-overnight-and-buying-back-at-market-open/)
 * [2024-07-19, 20:21:32](https://news.ycombinator.com/item?id=41010708) - [Is Crowdstrike the Final Straw?](https://gavinhoward.com/2024/07/is-crowdstrike-the-final-straw/)
 * [2024-07-19, 19:54:26](https://news.ycombinator.com/item?id=41010425) - [Show HN: I built an app to generate me windows blue screen of death](https://app.tivateonline.com/uiconcept/)
 * [2024-07-19, 19:34:47](https://news.ycombinator.com/item?id=41010229) - [Ask HN: How to finish last 30% of a side project?](https://news.ycombinator.com/item?id=41010229)
@@ -31,6 +33,7 @@
 * [2024-07-19, 16:02:10](https://news.ycombinator.com/item?id=41007828) - [Deletion of Il11 extended the lives of mice by 25%](https://www.nature.com/articles/s41586-024-07701-9)
 * [2024-07-19, 15:22:40](https://news.ycombinator.com/item?id=41007403) - [Show HN: Sendune – open-source HTML email designer](https://news.ycombinator.com/item?id=41007403)
 * [2024-07-19, 15:22:02](https://news.ycombinator.com/item?id=41007396) - [Bangladesh is now in the midst of a near-total national internet shutdown](https://mastodon.social/@netblocks/112808500770031751)
+* [2024-07-19, 15:22:02](https://news.ycombinator.com/item?id=41007396) - [Bangladesh imposes curfew after dozens killed in anti-government protests](https://www.washingtonpost.com/world/2024/07/19/bangladesh-demonstrations-police-hasina/)
 * [2024-07-19, 15:16:16](https://news.ycombinator.com/item?id=41007348) - [Radxa X4 low-cost, credit card-sized Intel N100 SBC goes for $60 and up](https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/)
 * [2024-07-19, 15:00:40](https://news.ycombinator.com/item?id=41007208) - [Microsoft has serious questions to answer after the biggest IT outage in history](https://news.sky.com/story/microsoft-has-serious-questions-to-answer-after-what-could-be-the-biggest-it-outage-in-history-13180962)
 * [2024-07-19, 14:59:16](https://news.ycombinator.com/item?id=41007196) - [Earth's Water Is Rapidly Losing Oxygen, and the Danger Is Huge](https://www.sciencealert.com/earths-water-is-rapidly-losing-oxygen-and-the-danger-is-huge)
