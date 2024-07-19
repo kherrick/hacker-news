@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-07-19, 02:16:02",
-      "https://news.ycombinator.com/item?id=41001552"
-    ],
-    [
-      "Life was dirty, difficult, and dangerous for almost everyone who ever existed",
-      "https://www.freethink.com/society/techno-humanist-manifesto-chapter-1"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 01:00:55",
       "https://news.ycombinator.com/item?id=41001209"
     ],
     [
       "Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers",
       "https://www.ycombinator.com/companies/rollstack-2/jobs"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 00:01:58",
-      "https://news.ycombinator.com/item?id=41000889"
-    ],
-    [
-      "Youth with conduct disorder show widespread differences in brain structure",
-      "https://www.nih.gov/news-events/news-releases/youth-conduct-disorder-show-widespread-differences-brain-structure"
     ]
   ],
   [
@@ -47,6 +27,16 @@
     [
       "Double trouble: ESA's Gaia hit by micrometeoroid and solar storm",
       "https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 19:54:13",
+      "https://news.ycombinator.com/item?id=40999098"
+    ],
+    [
+      "60-year-old German man likely seventh person to be effectively cured from HIV",
+      "https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce"
     ]
   ],
   [
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2024-07-18, 18:40:14",
+      "https://news.ycombinator.com/item?id=40998497"
+    ],
+    [
+      "Show HN: How we leapfrogged traditional vector based RAG with a 'language map'",
+      "https://twitter.com/mutableai/status/1813815706783490055"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 17:58:52",
       "https://news.ycombinator.com/item?id=40998158"
     ],
@@ -97,6 +97,16 @@
     [
       "Transcribro: On-device Accurate Speech-to-text",
       "https://github.com/soupslurpr/Transcribro"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 17:20:27",
+      "https://news.ycombinator.com/item?id=40997799"
+    ],
+    [
+      "Evolving the ASF Brand",
+      "https://news.apache.org/foundation/entry/evolving-the-asf-brand"
     ]
   ],
   [
@@ -127,6 +137,16 @@
     [
       "Back to the future: Are hackers the future of amateur radio?",
       "https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 14:45:42",
+      "https://news.ycombinator.com/item?id=40996058"
+    ],
+    [
+      "Mistral NeMo",
+      "https://mistral.ai/news/mistral-nemo/"
     ]
   ],
   [
@@ -201,6 +221,36 @@
   ],
   [
     [
+      "2024-07-17, 23:11:26",
+      "https://news.ycombinator.com/item?id=40991182"
+    ],
+    [
+      "A RP2040 based DECstation 3000 emulator that can run DECWindows",
+      "https://github.com/rscott2049/DECstation2040"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 21:44:42",
+      "https://news.ycombinator.com/item?id=40990641"
+    ],
+    [
+      "Show HN: SQLite Transaction Benchmarking Tool",
+      "https://github.com/seddonm1/sqlite-bench"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 17:44:38",
+      "https://news.ycombinator.com/item?id=40988395"
+    ],
+    [
+      "The unexpected poetry of PhD acknowledgements",
+      "https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 12:16:18",
       "https://news.ycombinator.com/item?id=40985017"
     ],
@@ -247,56 +297,6 @@
     [
       "The only tourist in Moldova",
       "https://www.telegraph.co.uk/travel/destinations/europe/moldova-europe-least-visited-country/"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 04:58:27",
-      "https://news.ycombinator.com/item?id=40958937"
-    ],
-    [
-      "Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)",
-      "https://dl.acm.org/doi/10.1145/2508859.2516734"
-    ]
-  ],
-  [
-    [
-      "2024-07-13, 19:30:31",
-      "https://news.ycombinator.com/item?id=40956266"
-    ],
-    [
-      "Trust as a bottleneck to growing teams quickly",
-      "https://www.benkuhn.net/trust/"
-    ]
-  ],
-  [
-    [
-      "2024-07-13, 17:04:41",
-      "https://news.ycombinator.com/item?id=40955272"
-    ],
-    [
-      "Jigsaw Puzzle Robot [pdf]",
-      "https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813"
-    ]
-  ],
-  [
-    [
-      "2024-07-13, 02:04:34",
-      "https://news.ycombinator.com/item?id=40951187"
-    ],
-    [
-      "Writing an MP4 Muxer for Fun and Profit",
-      "https://obsproject.com/blog/obs-studio-hybrid-mp4"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 22:43:28",
-      "https://news.ycombinator.com/item?id=40950126"
-    ],
-    [
-      "45 Years Ago: Skylab Reenters Earth's Atmosphere",
-      "https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/"
     ]
   ]
 ]
