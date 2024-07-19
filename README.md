@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-19, 13:05:34](https://news.ycombinator.com/item?id=41006104) - [How to Fix the Crowdstrike Thing](https://twitter.com/vxunderground/status/1814280916887319023)
 * [2024-07-19, 12:43:02](https://news.ycombinator.com/item?id=41005904) - [WTF Is Wrong with Webflow?](https://twitter.com/nicocerdeira/status/1812917905501364424)
 * [2024-07-19, 12:21:06](https://news.ycombinator.com/item?id=41005650) - [Trump shooter used Android phone from Samsung; cracked by Cellebrite in 40 min](https://9to5mac.com/2024/07/18/trump-shooter-android-phone-cellebrite/)
 * [2024-07-19, 12:06:51](https://news.ycombinator.com/item?id=41005497) - [3D visualization brings nuclear fusion to life](https://actu.epfl.ch/news/3d-visualization-brings-nuclear-fusion-to-life/)
@@ -23,6 +22,7 @@
 * [2024-07-18, 14:36:58](https://news.ycombinator.com/item?id=40995982) - [Hash-based bisect debugging in compilers and runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
 * [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
+* [2024-07-18, 11:23:06](https://news.ycombinator.com/item?id=40994552) - [Ask HN: What's Prolog like in 2024?](https://news.ycombinator.com/item?id=40994552)
 * [2024-07-18, 07:49:36](https://news.ycombinator.com/item?id=40993428) - [Premature Abstraction](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
 * [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
