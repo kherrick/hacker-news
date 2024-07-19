@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 08:25:48](https://news.ycombinator.com/item?id=41003474) - [Delta, United and American Airlines flights grounded due to communication issue](https://www.cnn.com/2024/07/19/business/delta-american-airlines-flights-outage-intl-hnk/index.html)
 * [2024-07-19, 07:53:26](https://news.ycombinator.com/item?id=41003091) - [Ask HN: Migrate to GNU/Linux](https://news.ycombinator.com/item?id=41003091)
 * [2024-07-19, 07:44:03](https://news.ycombinator.com/item?id=41003004) - [Scoop: Meta won't offer future multimodal AI models in EU](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu)
+* [2024-07-19, 07:43:59](https://news.ycombinator.com/item?id=41003003) - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)
+* [2024-07-19, 07:15:51](https://news.ycombinator.com/item?id=41002784) - [Microsoft outage: Chaos as internet down and flights grounded around the world](https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world/)
 * [2024-07-19, 07:07:46](https://news.ycombinator.com/item?id=41002730) - [74935 viewing Mass worldwide IT outage affects airlines, media and banks](https://www.bbc.co.uk/news/live/cnk4jdwp49et)
+* [2024-07-19, 07:05:30](https://news.ycombinator.com/item?id=41002710) - [Mass worldwide IT outage affects airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 * [2024-07-19, 07:00:44](https://news.ycombinator.com/item?id=41002677) - [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
 * [2024-07-19, 06:40:45](https://news.ycombinator.com/item?id=41002566) - [Cybersecurity platform Crowdstrike down worldwide, users logged out of systems](https://www.digit.in/news/general/cybersecurity-platform-crowdstrike-down-worldwide-many-users-logged-out-of-systems.html)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
