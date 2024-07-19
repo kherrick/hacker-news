@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 21:57:00](https://news.ycombinator.com/item?id=41011807) - [Why didn't Rome have an industrial revolution?](https://www.maximum-progress.com/p/romae-industriae)
+* [2024-07-19, 21:53:55](https://news.ycombinator.com/item?id=41011779) - [Academics shocked after T&F sells access to their research to Microsoft AI](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai)
 * [2024-07-19, 21:50:08](https://news.ycombinator.com/item?id=41011739) - [The Commodore 900: A Look at a Rare Prototype](https://hackaday.com/2023/02/25/the-forgotten-commodore-900-a-look-at-a-rare-prototype/)
+* [2024-07-19, 21:45:34](https://news.ycombinator.com/item?id=41011694) - [Rare footage of largest uncontacted tribe in the world: 'disaster in the making'](https://www.youtube.com/watch?v=QSzbUaJkV_0)
 * [2024-07-19, 20:56:36](https://news.ycombinator.com/item?id=41011114) - [2024 CrowdStrike incident: The largest IT outage in history](https://en.wikipedia.org/wiki/2024_CrowdStrike_incident)
 * [2024-07-19, 20:52:09](https://news.ycombinator.com/item?id=41011058) - [Continuously shorting IT stocks overnight and buying back at market open](https://blog.abctaylor.com/continuously-shorting-it-stocks-overnight-and-buying-back-at-market-open/)
 * [2024-07-19, 20:21:32](https://news.ycombinator.com/item?id=41010708) - [Is Crowdstrike the Final Straw?](https://gavinhoward.com/2024/07/is-crowdstrike-the-final-straw/)

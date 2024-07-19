@@ -82,6 +82,7 @@
 * [2024-07-15, 09:39:17](https://news.ycombinator.com/item?id=40966414) - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-15, 09:25:21](https://news.ycombinator.com/item?id=40966366) - [Inside the Three-Way Race to Create the Most Widely Used Laser](https://spectrum.ieee.org/invention-semiconductor-laser)
 * [2024-07-15, 09:10:56](https://news.ycombinator.com/item?id=40966312) - [Firefox 128 enables \"privacy-preserving\" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
+* [2024-07-15, 09:03:24](https://news.ycombinator.com/item?id=40966285) - [Self hosting a Copilot replacement: my personal experience](https://www.andreagrandi.it/posts/self-hosting-copilot-replacement/)
 * [2024-07-15, 08:58:58](https://news.ycombinator.com/item?id=40966262) - [Show HN: Blitzping – A far faster nping/hping3 SYN-flood alternative with CIDR](https://github.com/Thraetaona/Blitzping)
 * [2024-07-15, 08:43:31](https://news.ycombinator.com/item?id=40966198) - [WhatWeb: Next Generation Web Scanner (2021)](https://github.com/urbanadventurer/WhatWeb)
 * [2024-07-15, 07:25:38](https://news.ycombinator.com/item?id=40965892) - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
