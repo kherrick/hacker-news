@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-07-19, 04:08:09",
-      "https://news.ycombinator.com/item?id=41001953"
-    ],
-    [
-      "Condo prices at SF's beleaguered Millennium Tower drop to as low as $649,000",
-      "https://www.sfgate.com/bayarea/article/millennium-tower-san-francisco-price-drop-19582654.php"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 03:33:04",
-      "https://news.ycombinator.com/item?id=41001839"
-    ],
-    [
-      "The Arctic Dilemma",
-      "https://arctic-council.org/news/the-arctic-dilemma/"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 03:17:18",
       "https://news.ycombinator.com/item?id=41001780"
     ],
@@ -131,6 +111,16 @@
   ],
   [
     [
+      "2024-07-18, 17:20:27",
+      "https://news.ycombinator.com/item?id=40997799"
+    ],
+    [
+      "Evolving the ASF Brand",
+      "https://news.apache.org/foundation/entry/evolving-the-asf-brand"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 17:18:55",
       "https://news.ycombinator.com/item?id=40997775"
     ],
@@ -227,6 +217,16 @@
     [
       "Overcoming the limits of current LLMs",
       "https://seanpedersen.github.io/posts/overcoming-llm-limits"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 23:11:26",
+      "https://news.ycombinator.com/item?id=40991182"
+    ],
+    [
+      "A RP2040 based DECstation 3000 emulator that can run DECWindows",
+      "https://github.com/rscott2049/DECstation2040"
     ]
   ],
   [
