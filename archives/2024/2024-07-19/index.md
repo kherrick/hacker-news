@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
+* [2024-07-19, 04:40:16](https://news.ycombinator.com/item?id=41002044) - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
 * [2024-07-19, 04:08:09](https://news.ycombinator.com/item?id=41001953) - [Condo prices at SF's beleaguered Millennium Tower drop to as low as $649,000](https://www.sfgate.com/bayarea/article/millennium-tower-san-francisco-price-drop-19582654.php)
 * [2024-07-19, 03:36:01](https://news.ycombinator.com/item?id=41001851) - [New Batteries: It's Not All Hype – Sabine Hossenfelder [video]](https://www.youtube.com/watch?v=2eIPHX-NpMM)
 * [2024-07-19, 03:33:04](https://news.ycombinator.com/item?id=41001839) - [The Arctic Dilemma](https://arctic-council.org/news/the-arctic-dilemma/)
