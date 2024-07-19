@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 14:59:16](https://news.ycombinator.com/item?id=41007196) - [Earth's Water Is Rapidly Losing Oxygen, and the Danger Is Huge](https://www.sciencealert.com/earths-water-is-rapidly-losing-oxygen-and-the-danger-is-huge)
 * [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
+* [2024-07-19, 13:41:43](https://news.ycombinator.com/item?id=41006492) - [Show HN: Linux Mint Redesign Proposal](https://github.com/klad-design/linuxmint-brand)
 * [2024-07-19, 12:06:51](https://news.ycombinator.com/item?id=41005497) - [3D visualization brings nuclear fusion to life](https://actu.epfl.ch/news/3d-visualization-brings-nuclear-fusion-to-life/)
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 07:48:25](https://news.ycombinator.com/item?id=41003055) - [End Poem by Julian Gough](https://www.theendpoem.com/)
-* [2024-07-19, 07:39:57](https://news.ycombinator.com/item?id=41002961) - [Costco starts to sell 'apocalypse bucket' with food that lasts 25 years](https://www.nbcnews.com/news/us-news/doomsday-dinners-costco-sells-apocalypse-bucket-food-lasts-25-years-rcna162474)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-19, 04:05:02](https://news.ycombinator.com/item?id=41001941) - [Show HN: ChatGPT Chrome Extension to Keep Temporary Chat Enabled](https://github.com/EliseiNicolae/chatgpt-always-temporary-chat-on)
@@ -25,11 +26,10 @@
 * [2024-07-18, 07:49:36](https://news.ycombinator.com/item?id=40993428) - [Premature Abstraction](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
 * [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
+* [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)
 * [2024-07-16, 17:44:17](https://news.ycombinator.com/item?id=40978632) - [Startups building balloons to hoist tourists 100k feet into the stratosphere](https://www.cnbc.com/2024/07/13/balloons-to-hoist-tourists-100000-feet-into-the-stratosphere.html)
 * [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 * [2024-07-15, 15:25:15](https://news.ycombinator.com/item?id=40968680) - [Mining Pool Game Theory During Forks](https://b10c.me/blog/014-mining-pool-game-theory-during-forks/)
-* [2024-07-14, 19:38:55](https://news.ycombinator.com/item?id=40962753) - [Inference of Error Specifications and Bug Detection Using Structural Similarity [pdf]](https://www.usenix.org/system/files/sec24fall-prepub-93-dossche.pdf)
-* [2024-07-14, 16:58:55](https://news.ycombinator.com/item?id=40961971) - [The only tourist in Moldova](https://www.telegraph.co.uk/travel/destinations/europe/moldova-europe-least-visited-country/)
 
 ## [Archives](archives/index.md)
 

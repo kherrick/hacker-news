@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 14:59:16](https://news.ycombinator.com/item?id=41007196) - [Earth's Water Is Rapidly Losing Oxygen, and the Danger Is Huge](https://www.sciencealert.com/earths-water-is-rapidly-losing-oxygen-and-the-danger-is-huge)
 * [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
+* [2024-07-19, 13:41:43](https://news.ycombinator.com/item?id=41006492) - [Show HN: Linux Mint Redesign Proposal](https://github.com/klad-design/linuxmint-brand)
 * [2024-07-19, 13:05:34](https://news.ycombinator.com/item?id=41006104) - [How to Fix the Crowdstrike Thing](https://twitter.com/vxunderground/status/1814280916887319023)
 * [2024-07-19, 12:43:02](https://news.ycombinator.com/item?id=41005904) - [WTF Is Wrong with Webflow?](https://twitter.com/nicocerdeira/status/1812917905501364424)
 * [2024-07-19, 12:36:55](https://news.ycombinator.com/item?id=41005839) - [Mass IT outage hits airports, businesses and broadcasters around the world](https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664)
