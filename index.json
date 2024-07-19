@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-07-19, 20:52:09",
-      "https://news.ycombinator.com/item?id=41011058"
-    ],
-    [
-      "Continuously shorting IT stocks overnight and buying back at market open",
-      "https://blog.abctaylor.com/continuously-shorting-it-stocks-overnight-and-buying-back-at-market-open/"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 19:28:39",
       "https://news.ycombinator.com/item?id=41010188"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2024-07-19, 16:14:08",
+      "https://news.ycombinator.com/item?id=41007980"
+    ],
+    [
+      "Signs of two gases in clouds of Venus could indicate life, scientists say",
+      "https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 15:22:40",
       "https://news.ycombinator.com/item?id=41007403"
     ],
@@ -167,6 +167,16 @@
     [
       "Instrumenting Python GIL with eBPF",
       "https://coroot.com/blog/instrumenting-python-gil-with-ebpf"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 13:47:48",
+      "https://news.ycombinator.com/item?id=41006552"
+    ],
+    [
+      "NASA's Curiosity rover discovers a surprise in a Martian rock",
+      "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock"
     ]
   ],
   [
@@ -211,12 +221,22 @@
   ],
   [
     [
-      "2024-07-18, 17:58:52",
-      "https://news.ycombinator.com/item?id=40998158"
+      "2024-07-19, 03:17:18",
+      "https://news.ycombinator.com/item?id=41001780"
     ],
     [
-      "Devzat – Chat over SSH, with some nice quality-of-life features",
-      "https://github.com/quackduck/devzat"
+      "Professional poker players know the optimal strategy but don't always use it",
+      "https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 23:53:36",
+      "https://news.ycombinator.com/item?id=41000846"
+    ],
+    [
+      "Elephants use namelike calls",
+      "https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-07-15, 15:47:38",
-      "https://news.ycombinator.com/item?id=40968922"
-    ],
-    [
-      "Type in Morse code by repeatedly slamming your laptop shut",
-      "https://github.com/veggiedefender/open-and-shut"
-    ]
-  ],
-  [
-    [
       "2024-07-15, 14:32:37",
       "https://news.ycombinator.com/item?id=40968215"
     ],
@@ -287,16 +297,6 @@
     [
       "Artificial neural network approach to finding the key length of Vigenère cipher",
       "https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 09:03:24",
-      "https://news.ycombinator.com/item?id=40966285"
-    ],
-    [
-      "Self hosting a Copilot replacement: my personal experience",
-      "https://www.andreagrandi.it/posts/self-hosting-copilot-replacement/"
     ]
   ]
 ]
