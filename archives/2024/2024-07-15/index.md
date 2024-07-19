@@ -64,6 +64,7 @@
 * [2024-07-15, 14:52:01](https://news.ycombinator.com/item?id=40968388) - [Common logical fallacies surrounding capitalism](https://blog.alexmaccaw.com/common-logical-fallacies-surrounding-capitalism/)
 * [2024-07-15, 14:42:14](https://news.ycombinator.com/item?id=40968298) - [Linksys Velop Routers Caught Sending WiFi Creds in the Clear](https://hackaday.com/2024/07/15/linksys-velop-routers-caught-sending-wifi-creds-in-the-clear/)
 * [2024-07-15, 14:36:44](https://news.ycombinator.com/item?id=40968245) - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
+* [2024-07-15, 14:32:37](https://news.ycombinator.com/item?id=40968215) - [Visual programming should start in the debugger](https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/)
 * [2024-07-15, 14:32:04](https://news.ycombinator.com/item?id=40968212) - [Logseq – adding settings for self-hosted sync](https://github.com/logseq/logseq/discussions/10733)
 * [2024-07-15, 13:54:28](https://news.ycombinator.com/item?id=40967927) - [Winamp Skin Museum](https://skins.webamp.org)
 * [2024-07-15, 13:33:54](https://news.ycombinator.com/item?id=40967763) - [The AMD Zen 5 Microarcitecure](https://www.anandtech.com/show/21469/amd-details-ryzen-ai-300-series-for-mobile-strix-point-with-rdna-35-igpu-xdna-2-npu)

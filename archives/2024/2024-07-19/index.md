@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 16:14:08](https://news.ycombinator.com/item?id=41007980) - [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
+* [2024-07-19, 16:07:26](https://news.ycombinator.com/item?id=41007898) - [CrowdStrike fixes start at \"reboot up to 15 times\", get more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/)
+* [2024-07-19, 16:02:58](https://news.ycombinator.com/item?id=41007843) - [It's not just CrowdStrike – the cyber sector is vulnerable](https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a)
+* [2024-07-19, 16:02:10](https://news.ycombinator.com/item?id=41007828) - [Deletion of Il11 extended the lives of mice by 25%](https://www.nature.com/articles/s41586-024-07701-9)
 * [2024-07-19, 15:22:40](https://news.ycombinator.com/item?id=41007403) - [Show HN: Sendune – open-source HTML email designer](https://news.ycombinator.com/item?id=41007403)
 * [2024-07-19, 15:22:02](https://news.ycombinator.com/item?id=41007396) - [Bangladesh is now in the midst of a near-total national internet shutdown](https://mastodon.social/@netblocks/112808500770031751)
 * [2024-07-19, 15:16:16](https://news.ycombinator.com/item?id=41007348) - [Radxa X4 low-cost, credit card-sized Intel N100 SBC goes for $60 and up](https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/)
 * [2024-07-19, 15:00:40](https://news.ycombinator.com/item?id=41007208) - [Microsoft has serious questions to answer after the biggest IT outage in history](https://news.sky.com/story/microsoft-has-serious-questions-to-answer-after-what-could-be-the-biggest-it-outage-in-history-13180962)
 * [2024-07-19, 14:59:16](https://news.ycombinator.com/item?id=41007196) - [Earth's Water Is Rapidly Losing Oxygen, and the Danger Is Huge](https://www.sciencealert.com/earths-water-is-rapidly-losing-oxygen-and-the-danger-is-huge)
 * [2024-07-19, 14:50:29](https://news.ycombinator.com/item?id=41007113) - [Deutsche Telekom issued invalid certificates, hasn't revoked them since 6 months](https://bugzilla.mozilla.org/show_bug.cgi?id=1877388)
+* [2024-07-19, 14:31:04](https://news.ycombinator.com/item?id=41006946) - [Instrumenting Python GIL with eBPF](https://coroot.com/blog/instrumenting-python-gil-with-ebpf)
 * [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
 * [2024-07-19, 13:41:43](https://news.ycombinator.com/item?id=41006492) - [Show HN: Linux Mint Redesign Proposal](https://github.com/klad-design/linuxmint-brand)
 * [2024-07-19, 13:24:40](https://news.ycombinator.com/item?id=41006308) - [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
