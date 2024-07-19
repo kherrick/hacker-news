@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 18:14:22](https://news.ycombinator.com/item?id=41009359) - [Opinion: I'd rather have a headphone jack and a microSD slot than AI in my phone](https://news.ycombinator.com/item?id=41009359)
+* [2024-07-19, 18:09:25](https://news.ycombinator.com/item?id=41009316) - [Xkcd: CrowdStrike](https://xkcd.com/2961/)
+* [2024-07-19, 17:52:03](https://news.ycombinator.com/item?id=41009127) - [Anna's Archive Loses .GS Domain Name but Remains Resilient](https://torrentfreak.com/annas-archive-loses-gs-domain-name-but-remains-resilient-240718/)
 * [2024-07-19, 17:18:48](https://news.ycombinator.com/item?id=41008738) - [Texan construction workers put a rocket up Team SpaceX over 'unpaid bills'](https://www.theregister.com/2024/05/14/spacex_liens_texas/)
 * [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-07-19, 16:57:11](https://news.ycombinator.com/item?id=41008488) - [Playing Guitar Tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
@@ -16,13 +19,9 @@
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-19, 03:17:18](https://news.ycombinator.com/item?id=41001780) - [Professional poker players know the optimal strategy but don't always use it](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
-* [2024-07-19, 02:17:29](https://news.ycombinator.com/item?id=41001559) - [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
 * [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants use namelike calls](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 * [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
-* [2024-07-18, 19:28:21](https://news.ycombinator.com/item?id=40998927) - [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
-* [2024-07-18, 18:40:14](https://news.ycombinator.com/item?id=40998497) - [Show HN: How we leapfrogged traditional vector based RAG with a 'language map'](https://twitter.com/mutableai/status/1813815706783490055)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
-* [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 14:36:58](https://news.ycombinator.com/item?id=40995982) - [Hash-based bisect debugging in compilers and runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
@@ -30,6 +29,7 @@
 * [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)
 * [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 * [2024-07-15, 14:32:37](https://news.ycombinator.com/item?id=40968215) - [Visual programming should start in the debugger](https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/)
+* [2024-07-15, 13:55:43](https://news.ycombinator.com/item?id=40967935) - [Artificial neural network approach to finding the key length of Vigenère cipher](https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la)
 
 ## [Archives](archives/index.md)
 

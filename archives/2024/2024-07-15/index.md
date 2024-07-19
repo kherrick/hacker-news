@@ -66,6 +66,7 @@
 * [2024-07-15, 14:36:44](https://news.ycombinator.com/item?id=40968245) - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
 * [2024-07-15, 14:32:37](https://news.ycombinator.com/item?id=40968215) - [Visual programming should start in the debugger](https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/)
 * [2024-07-15, 14:32:04](https://news.ycombinator.com/item?id=40968212) - [Logseq – adding settings for self-hosted sync](https://github.com/logseq/logseq/discussions/10733)
+* [2024-07-15, 13:55:43](https://news.ycombinator.com/item?id=40967935) - [Artificial neural network approach to finding the key length of Vigenère cipher](https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la)
 * [2024-07-15, 13:54:28](https://news.ycombinator.com/item?id=40967927) - [Winamp Skin Museum](https://skins.webamp.org)
 * [2024-07-15, 13:33:54](https://news.ycombinator.com/item?id=40967763) - [The AMD Zen 5 Microarcitecure](https://www.anandtech.com/show/21469/amd-details-ryzen-ai-300-series-for-mobile-strix-point-with-rdna-35-igpu-xdna-2-npu)
 * [2024-07-15, 13:31:30](https://news.ycombinator.com/item?id=40967749) - [How does MS Fight Simulator compare to real flights?(2020)](https://yeokhengmeng.com/2020/08/how-does-flight-simulator-2020-compare-to-real-flights-over-singapore/)
