@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-07-19, 14:50:29",
-      "https://news.ycombinator.com/item?id=41007113"
-    ],
-    [
-      "Deutsche Telekom issued invalid certificates, hasn't revoked them since 6 months",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=1877388"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 14:31:04",
       "https://news.ycombinator.com/item?id=41006946"
     ],
@@ -197,6 +187,16 @@
     [
       "Double trouble: ESA's Gaia hit by micrometeoroid and solar storm",
       "https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 18:40:14",
+      "https://news.ycombinator.com/item?id=40998497"
+    ],
+    [
+      "Show HN: How we leapfrogged traditional vector based RAG with a 'language map'",
+      "https://twitter.com/mutableai/status/1813815706783490055"
     ]
   ],
   [
