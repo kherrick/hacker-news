@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 * [2024-07-19, 22:42:25](https://news.ycombinator.com/item?id=41012193) - [Multisatellite Data Depicts a Record-Breaking Methane Leak from a Well Blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
 * [2024-07-19, 21:53:55](https://news.ycombinator.com/item?id=41011779) - [Academics shocked after T&F sells access to their research to Microsoft AI](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai)
 * [2024-07-19, 21:45:34](https://news.ycombinator.com/item?id=41011694) - [Rare footage of largest uncontacted tribe in the world: 'disaster in the making'](https://www.youtube.com/watch?v=QSzbUaJkV_0)
 * [2024-07-19, 19:28:39](https://news.ycombinator.com/item?id=41010188) - [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
 * [2024-07-19, 19:07:48](https://news.ycombinator.com/item?id=41009942) - [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What Happened to Bert and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
-* [2024-07-19, 18:47:44](https://news.ycombinator.com/item?id=41009740) - [The CrowdStrike file that broke everything was full of null characters](https://twitter.com/jeremyphoward/status/1814364640127922499)
 * [2024-07-19, 17:43:53](https://news.ycombinator.com/item?id=41009023) - [Kompute – Vulkan Alternative to CUDA](https://github.com/KomputeProject/kompute)
 * [2024-07-19, 17:43:44](https://news.ycombinator.com/item?id=41009021) - [A search engine by and for the federal government](https://search.gov/)
 * [2024-07-19, 17:31:42](https://news.ycombinator.com/item?id=41008888) - [Show HN: 80+ CLI tools to build, browse, and blend your media library](https://github.com/chapmanjacobd/library)

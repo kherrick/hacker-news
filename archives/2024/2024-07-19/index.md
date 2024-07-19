@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 * [2024-07-19, 22:42:25](https://news.ycombinator.com/item?id=41012193) - [Multisatellite Data Depicts a Record-Breaking Methane Leak from a Well Blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
 * [2024-07-19, 21:57:00](https://news.ycombinator.com/item?id=41011807) - [Why didn't Rome have an industrial revolution?](https://www.maximum-progress.com/p/romae-industriae)
 * [2024-07-19, 21:53:55](https://news.ycombinator.com/item?id=41011779) - [Academics shocked after T&F sells access to their research to Microsoft AI](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai)
