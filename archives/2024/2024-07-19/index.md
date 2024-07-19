@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 12:21:06](https://news.ycombinator.com/item?id=41005650) - [Trump shooter used Android phone from Samsung; cracked by Cellebrite in 40 min](https://9to5mac.com/2024/07/18/trump-shooter-android-phone-cellebrite/)
 * [2024-07-19, 11:55:02](https://news.ycombinator.com/item?id=41005378) - [62 Minutes could bring your business down](https://www.crowdstrike.com/en-us/#teaser-79minutes-adversary-1)
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes unanimously to dramatically limit prison telecom rates](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
+* [2024-07-19, 11:18:06](https://news.ycombinator.com/item?id=41005056) - [Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
 * [2024-07-19, 10:33:49](https://news.ycombinator.com/item?id=41004620) - [Article on crowdstrike website has not aged well](https://www.crowdstrike.com/resources/reports/total-economic-impact-of-crowdstrike-falcon-complete/)
 * [2024-07-19, 10:30:36](https://news.ycombinator.com/item?id=41004602) - [CrowdStrike shares sink as global IT outage savages systems worldwide](https://www.theregister.com/2024/07/19/crowdstrike_shares_sink_as_global/)
 * [2024-07-19, 09:30:20](https://news.ycombinator.com/item?id=41004113) - [TradingView's Emotional Subscription Cancellation](https://hallofshame.design/tradingview-emotional-subscription-cancellation/)
@@ -27,6 +29,7 @@
 * [2024-07-19, 04:40:16](https://news.ycombinator.com/item?id=41002044) - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
 * [2024-07-19, 04:09:59](https://news.ycombinator.com/item?id=41001959) - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
 * [2024-07-19, 04:08:09](https://news.ycombinator.com/item?id=41001953) - [Condo prices at SF's beleaguered Millennium Tower drop to as low as $649,000](https://www.sfgate.com/bayarea/article/millennium-tower-san-francisco-price-drop-19582654.php)
+* [2024-07-19, 04:05:02](https://news.ycombinator.com/item?id=41001941) - [Show HN: ChatGPT Chrome Extension to Keep Temporary Chat Enabled](https://github.com/EliseiNicolae/chatgpt-always-temporary-chat-on)
 * [2024-07-19, 03:36:01](https://news.ycombinator.com/item?id=41001851) - [New Batteries: It's Not All Hype – Sabine Hossenfelder [video]](https://www.youtube.com/watch?v=2eIPHX-NpMM)
 * [2024-07-19, 03:33:04](https://news.ycombinator.com/item?id=41001839) - [The Arctic Dilemma](https://arctic-council.org/news/the-arctic-dilemma/)
 * [2024-07-19, 03:17:18](https://news.ycombinator.com/item?id=41001780) - [Professional Poker Players Know the Optimal Strategy but Don't Always Use It](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
