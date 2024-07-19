@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 19:13:33](https://news.ycombinator.com/item?id=41010010) - [Nearly all of Bangladesh is offline](https://ant.isi.edu/blog/?p=2094)
 * [2024-07-19, 19:07:48](https://news.ycombinator.com/item?id=41009942) - [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What Happened to Bert and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
 * [2024-07-19, 18:47:44](https://news.ycombinator.com/item?id=41009740) - [The CrowdStrike file that broke everything was full of null characters](https://twitter.com/jeremyphoward/status/1814364640127922499)

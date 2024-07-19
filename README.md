@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 19:13:33](https://news.ycombinator.com/item?id=41010010) - [Nearly all of Bangladesh is offline](https://ant.isi.edu/blog/?p=2094)
 * [2024-07-19, 19:07:48](https://news.ycombinator.com/item?id=41009942) - [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What Happened to Bert and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
-* [2024-07-19, 18:28:23](https://news.ycombinator.com/item?id=41009532) - [Transhumanism and Its Silly Critics](https://americandreaming.substack.com/p/transhumanism-and-its-very-silly)
 * [2024-07-19, 17:43:44](https://news.ycombinator.com/item?id=41009021) - [A search engine by and for the federal government](https://search.gov/)
 * [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-07-19, 16:57:11](https://news.ycombinator.com/item?id=41008488) - [Playing Guitar Tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
