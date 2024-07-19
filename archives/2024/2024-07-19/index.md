@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-07-19, 16:14:08](https://news.ycombinator.com/item?id=41007980) - [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
 * [2024-07-19, 16:07:26](https://news.ycombinator.com/item?id=41007898) - [CrowdStrike fixes start at \"reboot up to 15 times\", get more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/)
 * [2024-07-19, 16:02:58](https://news.ycombinator.com/item?id=41007843) - [It's not just CrowdStrike – the cyber sector is vulnerable](https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a)

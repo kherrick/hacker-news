@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-07-19, 16:14:08](https://news.ycombinator.com/item?id=41007980) - [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
 * [2024-07-19, 16:07:26](https://news.ycombinator.com/item?id=41007898) - [CrowdStrike fixes start at \"reboot up to 15 times\", gets more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/)
 * [2024-07-19, 16:02:58](https://news.ycombinator.com/item?id=41007843) - [It's not just CrowdStrike – the cyber sector is vulnerable](https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a)
@@ -16,7 +17,6 @@
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-19, 03:17:18](https://news.ycombinator.com/item?id=41001780) - [Professional poker players know the optimal strategy but don't always use it](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
 * [2024-07-19, 02:17:29](https://news.ycombinator.com/item?id=41001559) - [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
-* [2024-07-19, 01:00:55](https://news.ycombinator.com/item?id=41001209) - [Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants use namelike calls](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 * [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
 * [2024-07-18, 18:40:14](https://news.ycombinator.com/item?id=40998497) - [Show HN: How we leapfrogged traditional vector based RAG with a 'language map'](https://twitter.com/mutableai/status/1813815706783490055)
