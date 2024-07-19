@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 10:33:49](https://news.ycombinator.com/item?id=41004620) - [Article on crowdstrike website has not aged well](https://www.crowdstrike.com/resources/reports/total-economic-impact-of-crowdstrike-falcon-complete/)
 * [2024-07-19, 09:30:20](https://news.ycombinator.com/item?id=41004113) - [TradingView's Emotional Subscription Cancellation](https://hallofshame.design/tradingview-emotional-subscription-cancellation/)
 * [2024-07-19, 09:29:51](https://news.ycombinator.com/item?id=41004103) - [Ask HN: What is in C-00000291*.sys?](https://news.ycombinator.com/item?id=41004103)
 * [2024-07-19, 09:23:24](https://news.ycombinator.com/item?id=41004039) - [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)

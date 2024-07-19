@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 10:33:49](https://news.ycombinator.com/item?id=41004620) - [Article on crowdstrike website has not aged well](https://www.crowdstrike.com/resources/reports/total-economic-impact-of-crowdstrike-falcon-complete/)
 * [2024-07-19, 09:30:20](https://news.ycombinator.com/item?id=41004113) - [TradingView's Emotional Subscription Cancellation](https://hallofshame.design/tradingview-emotional-subscription-cancellation/)
 * [2024-07-19, 09:29:51](https://news.ycombinator.com/item?id=41004103) - [Ask HN: What is in C-00000291*.sys?](https://news.ycombinator.com/item?id=41004103)
 * [2024-07-19, 09:23:24](https://news.ycombinator.com/item?id=41004039) - [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)
@@ -24,7 +25,6 @@
 * [2024-07-18, 07:49:36](https://news.ycombinator.com/item?id=40993428) - [Premature Abstraction](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
 * [2024-07-18, 06:24:51](https://news.ycombinator.com/item?id=40992982) - [My daughter (7 years old) used HTML to make a website](https://naya.lol)
 * [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
-* [2024-07-16, 14:31:48](https://news.ycombinator.com/item?id=40976989) - [The Chorleywood Experiment (2023)](https://www.historic-uk.com/CultureUK/Chorleywood-Experiment-Bread/)
 * [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 * [2024-07-15, 15:25:15](https://news.ycombinator.com/item?id=40968680) - [Mining Pool Game Theory During Forks](https://b10c.me/blog/014-mining-pool-game-theory-during-forks/)
 * [2024-07-15, 09:25:21](https://news.ycombinator.com/item?id=40966366) - [Inside the Three-Way Race to Create the Most Widely Used Laser](https://spectrum.ieee.org/invention-semiconductor-laser)
