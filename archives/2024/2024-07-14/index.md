@@ -19,6 +19,7 @@
 * [2024-07-14, 19:55:38](https://news.ycombinator.com/item?id=40962829) - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
 * [2024-07-14, 19:44:46](https://news.ycombinator.com/item?id=40962774) - [Can ChatGPT do data science?](https://austinhenley.com/blog/chatgptdatascience.html)
 * [2024-07-14, 19:43:40](https://news.ycombinator.com/item?id=40962767) - [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
+* [2024-07-14, 19:38:55](https://news.ycombinator.com/item?id=40962753) - [Inference of Error Specifications and Bug Detection Using Structural Similarity [pdf]](https://www.usenix.org/system/files/sec24fall-prepub-93-dossche.pdf)
 * [2024-07-14, 19:34:10](https://news.ycombinator.com/item?id=40962737) - [Show HN: Sodap: Simple Online Directory Access Protocol](https://codeberg.org/reesericci/sodap)
 * [2024-07-14, 19:33:49](https://news.ycombinator.com/item?id=40962736) - [Complaints about crashing 13th,14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
 * [2024-07-14, 19:25:31](https://news.ycombinator.com/item?id=40962705) - [Playing the Open Source Game (2021)](https://kristoff.it/blog/the-open-source-game/)

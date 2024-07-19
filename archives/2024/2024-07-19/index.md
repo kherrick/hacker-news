@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
+* [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Windows Bluescreen and Boot Loops (update: caused by a Crowdstrike update)](https://news.ycombinator.com/item?id=41002195)
 * [2024-07-19, 04:40:16](https://news.ycombinator.com/item?id=41002044) - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
+* [2024-07-19, 04:09:59](https://news.ycombinator.com/item?id=41001959) - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
 * [2024-07-19, 04:08:09](https://news.ycombinator.com/item?id=41001953) - [Condo prices at SF's beleaguered Millennium Tower drop to as low as $649,000](https://www.sfgate.com/bayarea/article/millennium-tower-san-francisco-price-drop-19582654.php)
 * [2024-07-19, 03:36:01](https://news.ycombinator.com/item?id=41001851) - [New Batteries: It's Not All Hype – Sabine Hossenfelder [video]](https://www.youtube.com/watch?v=2eIPHX-NpMM)
 * [2024-07-19, 03:33:04](https://news.ycombinator.com/item?id=41001839) - [The Arctic Dilemma](https://arctic-council.org/news/the-arctic-dilemma/)
@@ -13,6 +15,7 @@
 * [2024-07-19, 02:40:58](https://news.ycombinator.com/item?id=41001655) - [Japanese web design: weird, but it works. Here's why [video]](https://www.youtube.com/watch?v=vi8pyS076a8)
 * [2024-07-19, 02:33:20](https://news.ycombinator.com/item?id=41001625) - [Don't ask me to embarrass myself](https://basta.substack.com/p/dont-ask-me-to-embarrass-myself)
 * [2024-07-19, 02:19:25](https://news.ycombinator.com/item?id=41001569) - [New Features in C++26](https://lwn.net/Articles/979870/)
+* [2024-07-19, 02:17:29](https://news.ycombinator.com/item?id=41001559) - [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
 * [2024-07-19, 02:16:02](https://news.ycombinator.com/item?id=41001552) - [Life was dirty, difficult, and dangerous for almost everyone who ever existed](https://www.freethink.com/society/techno-humanist-manifesto-chapter-1)
 * [2024-07-19, 01:00:55](https://news.ycombinator.com/item?id=41001209) - [Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2024-07-19, 00:01:58](https://news.ycombinator.com/item?id=41000889) - [Youth with conduct disorder show widespread differences in brain structure](https://www.nih.gov/news-events/news-releases/youth-conduct-disorder-show-widespread-differences-brain-structure)
