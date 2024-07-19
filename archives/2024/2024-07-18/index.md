@@ -24,6 +24,7 @@
 * [2024-07-18, 19:08:56](https://news.ycombinator.com/item?id=40998767) - [Apple breaks silence on claims it used 'swiped YouTube videos' to train AI](https://mashable.com/article/apple-breaks-silence-on-swiped-youtube-video-claims)
 * [2024-07-18, 18:56:33](https://news.ycombinator.com/item?id=40998647) - [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
 * [2024-07-18, 18:42:45](https://news.ycombinator.com/item?id=40998525) - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
+* [2024-07-18, 18:40:14](https://news.ycombinator.com/item?id=40998497) - [Show HN: How we leapfrogged traditional vector based RAG with a 'language map'](https://twitter.com/mutableai/status/1813815706783490055)
 * [2024-07-18, 18:38:53](https://news.ycombinator.com/item?id=40998481) - [Forewarn gives realtors access to buyers' histories with a phone number](https://therecord.media/forewarn-app-real-estate-homebuyer-data)
 * [2024-07-18, 18:28:31](https://news.ycombinator.com/item?id=40998400) - [A 378-day Mars simulation changed this Canadian scientist's outlook on life](https://www.cbc.ca/radio/asithappens/canadian-mars-simulation-1.7266286)
 * [2024-07-18, 18:21:51](https://news.ycombinator.com/item?id=40998351) - [Wing-slapping: A defensive behavior by honey bees against ants](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372)
