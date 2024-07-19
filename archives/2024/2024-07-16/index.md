@@ -48,6 +48,7 @@
 * [2024-07-16, 15:06:48](https://news.ycombinator.com/item?id=40977293) - [Timezone-naive datetimes are one of the most dangerous objects in Python](https://nerderati.com/a-python-epoch-timestamp-timezone-trap/)
 * [2024-07-16, 14:44:46](https://news.ycombinator.com/item?id=40977103) - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
 * [2024-07-16, 14:42:03](https://news.ycombinator.com/item?id=40977080) - [Golang disables Nagle's algorithm, making it evil on shitty networks](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
+* [2024-07-16, 14:31:48](https://news.ycombinator.com/item?id=40976989) - [The Chorleywood Experiment (2023)](https://www.historic-uk.com/CultureUK/Chorleywood-Experiment-Bread/)
 * [2024-07-16, 14:13:24](https://news.ycombinator.com/item?id=40976827) - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 * [2024-07-16, 14:11:59](https://news.ycombinator.com/item?id=40976815) - [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
 * [2024-07-16, 14:07:52](https://news.ycombinator.com/item?id=40976776) - [The struggle to understand why earthquakes happen in America's heartland](https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/)

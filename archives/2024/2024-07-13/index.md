@@ -19,6 +19,7 @@
 * [2024-07-13, 20:14:10](https://news.ycombinator.com/item?id=40956546) - [Talos: Secure, immutable, and minimal Linux OS for running Kubernetes](https://www.talos.dev)
 * [2024-07-13, 19:46:45](https://news.ycombinator.com/item?id=40956372) - [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)
 * [2024-07-13, 19:32:58](https://news.ycombinator.com/item?id=40956284) - [There's not that much wealth in the world](https://www.noahpinion.blog/p/theres-not-that-much-wealth-in-the)
+* [2024-07-13, 19:30:31](https://news.ycombinator.com/item?id=40956266) - [Trust as a bottleneck to growing teams quickly](https://www.benkuhn.net/trust/)
 * [2024-07-13, 19:22:36](https://news.ycombinator.com/item?id=40956215) - [Firing Myself](https://backintyme.substack.com/p/firing-myself)
 * [2024-07-13, 19:18:42](https://news.ycombinator.com/item?id=40956192) - [A Motherfucking Website](https://motherfuckingwebsite.com/)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
