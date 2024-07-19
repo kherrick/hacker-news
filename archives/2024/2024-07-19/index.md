@@ -6,11 +6,13 @@
 
 * [2024-07-19, 19:34:47](https://news.ycombinator.com/item?id=41010229) - [Ask HN: How to finish last 30% of a side project?](https://news.ycombinator.com/item?id=41010229)
 * [2024-07-19, 19:28:39](https://news.ycombinator.com/item?id=41010188) - [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
+* [2024-07-19, 19:25:58](https://news.ycombinator.com/item?id=41010166) - [Bangladesh is experiencing a 'near-total' internet shutdown amid student protest](https://www.engadget.com/bangladesh-is-experiencing-a-near-total-internet-shutdown-amid-student-protests-235907085.html)
 * [2024-07-19, 19:19:06](https://news.ycombinator.com/item?id=41010076) - [Pornhub Pulls Out of Nebraska](https://gizmodo.com/pornhub-pulls-out-of-nebraska-2000476879)
 * [2024-07-19, 19:13:33](https://news.ycombinator.com/item?id=41010010) - [Nearly all of Bangladesh is offline](https://ant.isi.edu/blog/?p=2094)
 * [2024-07-19, 19:07:48](https://news.ycombinator.com/item?id=41009942) - [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What Happened to Bert and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
 * [2024-07-19, 18:47:44](https://news.ycombinator.com/item?id=41009740) - [The CrowdStrike file that broke everything was full of null characters](https://twitter.com/jeremyphoward/status/1814364640127922499)
+* [2024-07-19, 18:40:30](https://news.ycombinator.com/item?id=41009681) - [Concerns about Passkeys](https://me.micahrl.com/blog/concerns-about-passkeys/)
 * [2024-07-19, 18:28:23](https://news.ycombinator.com/item?id=41009532) - [Transhumanism and Its Silly Critics](https://americandreaming.substack.com/p/transhumanism-and-its-very-silly)
 * [2024-07-19, 18:14:22](https://news.ycombinator.com/item?id=41009359) - [Opinion: I'd rather have a headphone jack and a microSD slot than AI in my phone](https://news.ycombinator.com/item?id=41009359)
 * [2024-07-19, 18:09:25](https://news.ycombinator.com/item?id=41009316) - [Xkcd: CrowdStrike](https://xkcd.com/2961/)
