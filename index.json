@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-18, 22:43:02",
-      "https://news.ycombinator.com/item?id=41000424"
+      "2024-07-18, 23:53:36",
+      "https://news.ycombinator.com/item?id=41000846"
     ],
     [
-      "Use Zig cc to cross‐compile a CMake project",
-      "https://github.com/ziglang/zig/wiki/Use-zig-cc-to-cross%E2%80%90compile-a-CMake-project"
+      "Elephants Are Doing Something Deeply Human",
+      "https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "USPS shared customer postal addresses with Meta, LinkedIn and Snap",
       "https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 18:21:51",
+      "https://news.ycombinator.com/item?id=40998351"
+    ],
+    [
+      "Wing-slapping: A defensive behavior by honey bees against ants",
+      "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Closed form arc length parametrization is impossible for quadratic Bézier curves",
       "https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 21:44:42",
-      "https://news.ycombinator.com/item?id=40990641"
-    ],
-    [
-      "Show HN: SQLite Transaction Benchmarking Tool",
-      "https://github.com/seddonm1/sqlite-bench"
     ]
   ],
   [
