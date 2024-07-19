@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-07-19, 05:26:13",
+      "https://news.ycombinator.com/item?id=41002195"
+    ],
+    [
+      "Windows Bluescreen and Boot Loops (update: caused by a Crowdstrike update)",
+      "https://news.ycombinator.com/item?id=41002195"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 04:40:16",
       "https://news.ycombinator.com/item?id=41002044"
     ],
     [
       "FOSS funding vanishes from EU's 2025 Horizon program plans",
       "https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 04:09:59",
+      "https://news.ycombinator.com/item?id=41001959"
+    ],
+    [
+      "Multiple airlines disrupted due to Microsoft Azure outage",
+      "https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-07-19, 02:19:25",
-      "https://news.ycombinator.com/item?id=41001569"
+      "2024-07-19, 02:17:29",
+      "https://news.ycombinator.com/item?id=41001559"
     ],
     [
-      "New Features in C++26",
-      "https://lwn.net/Articles/979870/"
+      "Show HN: NetSour, CLI Based Wireshark",
+      "https://github.com/thegoodduck/NetSour"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Double trouble: ESA's Gaia hit by micrometeoroid and solar storm",
       "https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 19:54:13",
-      "https://news.ycombinator.com/item?id=40999098"
-    ],
-    [
-      "60-year-old German man likely seventh person to be effectively cured from HIV",
-      "https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Transcribro: On-device Accurate Speech-to-text",
       "https://github.com/soupslurpr/Transcribro"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 17:18:55",
-      "https://news.ycombinator.com/item?id=40997775"
-    ],
-    [
-      "What Materials Are Magnetic?",
-      "https://sciencenotes.org/list-of-magnetic-metals/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-07-17, 17:44:38",
-      "https://news.ycombinator.com/item?id=40988395"
-    ],
-    [
-      "The unexpected poetry of PhD acknowledgements",
-      "https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 12:16:18",
       "https://news.ycombinator.com/item?id=40985017"
     ],
@@ -287,6 +277,16 @@
     [
       "Inside the Three-Way Race to Create the Most Widely Used Laser",
       "https://spectrum.ieee.org/invention-semiconductor-laser"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 19:38:55",
+      "https://news.ycombinator.com/item?id=40962753"
+    ],
+    [
+      "Inference of Error Specifications and Bug Detection Using Structural Similarity [pdf]",
+      "https://www.usenix.org/system/files/sec24fall-prepub-93-dossche.pdf"
     ]
   ],
   [
