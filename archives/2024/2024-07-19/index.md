@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
 * [2024-07-19, 18:47:44](https://news.ycombinator.com/item?id=41009740) - [The CrowdStrike file that broke everything was full of null characters](https://twitter.com/jeremyphoward/status/1814364640127922499)
+* [2024-07-19, 18:28:23](https://news.ycombinator.com/item?id=41009532) - [Transhumanism and Its Silly Critics](https://americandreaming.substack.com/p/transhumanism-and-its-very-silly)
 * [2024-07-19, 18:14:22](https://news.ycombinator.com/item?id=41009359) - [Opinion: I'd rather have a headphone jack and a microSD slot than AI in my phone](https://news.ycombinator.com/item?id=41009359)
 * [2024-07-19, 18:09:25](https://news.ycombinator.com/item?id=41009316) - [Xkcd: CrowdStrike](https://xkcd.com/2961/)
 * [2024-07-19, 17:52:03](https://news.ycombinator.com/item?id=41009127) - [Anna's Archive Loses .GS Domain Name but Remains Resilient](https://torrentfreak.com/annas-archive-loses-gs-domain-name-but-remains-resilient-240718/)
