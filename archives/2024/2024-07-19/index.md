@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes unanimously to dramatically limit prison telecom rates](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 10:33:49](https://news.ycombinator.com/item?id=41004620) - [Article on crowdstrike website has not aged well](https://www.crowdstrike.com/resources/reports/total-economic-impact-of-crowdstrike-falcon-complete/)
 * [2024-07-19, 10:30:36](https://news.ycombinator.com/item?id=41004602) - [CrowdStrike shares sink as global IT outage savages systems worldwide](https://www.theregister.com/2024/07/19/crowdstrike_shares_sink_as_global/)
 * [2024-07-19, 09:30:20](https://news.ycombinator.com/item?id=41004113) - [TradingView's Emotional Subscription Cancellation](https://hallofshame.design/tradingview-emotional-subscription-cancellation/)
