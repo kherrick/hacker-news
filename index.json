@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-07-18, 21:27:08",
+      "https://news.ycombinator.com/item?id=40999928"
+    ],
+    [
+      "Double trouble: ESA's Gaia hit by micrometeoroid and solar storm",
+      "https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 19:54:13",
       "https://news.ycombinator.com/item?id=40999098"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2024-07-18, 15:22:22",
-      "https://news.ycombinator.com/item?id=40996429"
-    ],
-    [
-      "SpreadsheetLLM – Microsoft's new AI system",
-      "https://www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 14:36:58",
       "https://news.ycombinator.com/item?id=40995982"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2024-07-17, 21:44:42",
-      "https://news.ycombinator.com/item?id=40990641"
+      "2024-07-17, 12:16:18",
+      "https://news.ycombinator.com/item?id=40985017"
     ],
     [
-      "Show HN: SQLite Transaction Benchmarking Tool",
-      "https://github.com/seddonm1/sqlite-bench"
+      "SpreadsheetLLM: Encoding Spreadsheets for Large Language Models",
+      "https://arxiv.org/abs/2407.09025"
     ]
   ],
   [
