@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-19, 01:00:55](https://news.ycombinator.com/item?id=41001209) - [Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
-* [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants Are Doing Something Deeply Human](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 * [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
 * [2024-07-18, 19:54:13](https://news.ycombinator.com/item?id=40999098) - [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
 * [2024-07-18, 19:28:35](https://news.ycombinator.com/item?id=40998931) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
@@ -24,6 +23,7 @@
 * [2024-07-18, 00:35:24](https://news.ycombinator.com/item?id=40991549) - [Overcoming the limits of current LLMs](https://seanpedersen.github.io/posts/overcoming-llm-limits)
 * [2024-07-17, 23:11:26](https://news.ycombinator.com/item?id=40991182) - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
 * [2024-07-17, 21:44:42](https://news.ycombinator.com/item?id=40990641) - [Show HN: SQLite Transaction Benchmarking Tool](https://github.com/seddonm1/sqlite-bench)
+* [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan (2022)](https://pldb.io/blog/brianKernighan.html)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 * [2024-07-17, 12:16:18](https://news.ycombinator.com/item?id=40985017) - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 * [2024-07-16, 14:31:48](https://news.ycombinator.com/item?id=40976989) - [The Chorleywood Experiment (2023)](https://www.historic-uk.com/CultureUK/Chorleywood-Experiment-Bread/)
