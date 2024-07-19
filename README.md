@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-19, 16:14:08](https://news.ycombinator.com/item?id=41007980) - [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
-* [2024-07-19, 16:07:26](https://news.ycombinator.com/item?id=41007898) - [CrowdStrike fixes start at \"reboot up to 15 times\", get more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/)
+* [2024-07-19, 16:07:26](https://news.ycombinator.com/item?id=41007898) - [CrowdStrike fixes start at \"reboot up to 15 times\", gets more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/)
 * [2024-07-19, 16:02:58](https://news.ycombinator.com/item?id=41007843) - [It's not just CrowdStrike – the cyber sector is vulnerable](https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a)
 * [2024-07-19, 16:02:10](https://news.ycombinator.com/item?id=41007828) - [Deletion of Il11 extended the lives of mice by 25%](https://www.nature.com/articles/s41586-024-07701-9)
 * [2024-07-19, 15:22:40](https://news.ycombinator.com/item?id=41007403) - [Show HN: Sendune – open-source HTML email designer](https://news.ycombinator.com/item?id=41007403)
