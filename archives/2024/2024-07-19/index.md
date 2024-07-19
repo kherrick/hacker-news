@@ -6,6 +6,7 @@
 
 * [2024-07-19, 08:25:48](https://news.ycombinator.com/item?id=41003474) - [Delta, United and American Airlines flights grounded due to communication issue](https://www.cnn.com/2024/07/19/business/delta-american-airlines-flights-outage-intl-hnk/index.html)
 * [2024-07-19, 07:53:26](https://news.ycombinator.com/item?id=41003091) - [Ask HN: Migrate to GNU/Linux](https://news.ycombinator.com/item?id=41003091)
+* [2024-07-19, 07:48:25](https://news.ycombinator.com/item?id=41003055) - [End Poem by Julian Gough](https://www.theendpoem.com/)
 * [2024-07-19, 07:44:03](https://news.ycombinator.com/item?id=41003004) - [Scoop: Meta won't offer future multimodal AI models in EU](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu)
 * [2024-07-19, 07:43:59](https://news.ycombinator.com/item?id=41003003) - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)
 * [2024-07-19, 07:15:51](https://news.ycombinator.com/item?id=41002784) - [Microsoft outage: Chaos as internet down and flights grounded around the world](https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world/)
@@ -14,6 +15,7 @@
 * [2024-07-19, 07:00:44](https://news.ycombinator.com/item?id=41002677) - [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
 * [2024-07-19, 06:40:45](https://news.ycombinator.com/item?id=41002566) - [Cybersecurity platform Crowdstrike down worldwide, users logged out of systems](https://www.digit.in/news/general/cybersecurity-platform-crowdstrike-down-worldwide-many-users-logged-out-of-systems.html)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
+* [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Windows Bluescreen and Boot Loops (update: caused by a Crowdstrike update)](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Windows Bluescreen and Boot Loops (update: caused by a Crowdstrike update)](https://news.ycombinator.com/item?id=41002195)
 * [2024-07-19, 04:40:16](https://news.ycombinator.com/item?id=41002044) - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
 * [2024-07-19, 04:09:59](https://news.ycombinator.com/item?id=41001959) - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-19, 07:05:30](https://news.ycombinator.com/item?id=41002710) - [Mass worldwide IT outage affects airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
-* [2024-07-19, 07:00:44](https://news.ycombinator.com/item?id=41002677) - [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
+* [2024-07-19, 07:48:25](https://news.ycombinator.com/item?id=41003055) - [End Poem by Julian Gough](https://www.theendpoem.com/)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
+* [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Windows Bluescreen and Boot Loops (update: caused by a Crowdstrike update)](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-19, 04:09:59](https://news.ycombinator.com/item?id=41001959) - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
 * [2024-07-19, 03:17:18](https://news.ycombinator.com/item?id=41001780) - [Professional Poker Players Know the Optimal Strategy but Don't Always Use It](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
 * [2024-07-19, 02:17:29](https://news.ycombinator.com/item?id=41001559) - [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
