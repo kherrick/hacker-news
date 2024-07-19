@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 19:28:39](https://news.ycombinator.com/item?id=41010188) - [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
 * [2024-07-19, 19:13:33](https://news.ycombinator.com/item?id=41010010) - [Nearly all of Bangladesh is offline](https://ant.isi.edu/blog/?p=2094)
 * [2024-07-19, 19:07:48](https://news.ycombinator.com/item?id=41009942) - [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What Happened to Bert and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 19:28:39](https://news.ycombinator.com/item?id=41010188) - [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
 * [2024-07-19, 19:13:33](https://news.ycombinator.com/item?id=41010010) - [Nearly all of Bangladesh is offline](https://ant.isi.edu/blog/?p=2094)
 * [2024-07-19, 19:07:48](https://news.ycombinator.com/item?id=41009942) - [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What Happened to Bert and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
@@ -16,7 +17,6 @@
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-19, 03:17:18](https://news.ycombinator.com/item?id=41001780) - [Professional poker players know the optimal strategy but don't always use it](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
-* [2024-07-19, 02:17:29](https://news.ycombinator.com/item?id=41001559) - [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
 * [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants use namelike calls](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 * [2024-07-18, 21:27:08](https://news.ycombinator.com/item?id=40999928) - [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
