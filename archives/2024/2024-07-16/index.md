@@ -26,6 +26,7 @@
 * [2024-07-16, 18:01:34](https://news.ycombinator.com/item?id=40978770) - [Schrödinger's cat among biology's pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
 * [2024-07-16, 17:57:35](https://news.ycombinator.com/item?id=40978731) - [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
 * [2024-07-16, 17:50:13](https://news.ycombinator.com/item?id=40978670) - [Vulnerable transistors threaten to upend Europa Clipper mission – Science – AAAS](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
+* [2024-07-16, 17:44:17](https://news.ycombinator.com/item?id=40978632) - [Startups building balloons to hoist tourists 100k feet into the stratosphere](https://www.cnbc.com/2024/07/13/balloons-to-hoist-tourists-100000-feet-into-the-stratosphere.html)
 * [2024-07-16, 17:40:52](https://news.ycombinator.com/item?id=40978596) - [Mystery as 4k-year-old axe-heads sent to museum](https://www.bbc.com/news/articles/cydvn07d7vdo)
 * [2024-07-16, 17:27:51](https://news.ycombinator.com/item?id=40978482) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
 * [2024-07-16, 17:19:01](https://news.ycombinator.com/item?id=40978398) - [U.S. now short 4.5M homes as housing deficit grows](https://zillow.mediaroom.com/2024-06-18-The-U-S-is-now-short-4-5-million-homes-as-the-housing-deficit-grows)
