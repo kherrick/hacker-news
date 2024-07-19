@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-19, 07:07:46](https://news.ycombinator.com/item?id=41002730) - [74935 viewing Mass worldwide IT outage affects airlines, media and banks](https://www.bbc.co.uk/news/live/cnk4jdwp49et)
 * [2024-07-19, 07:00:44](https://news.ycombinator.com/item?id=41002677) - [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
-* [2024-07-19, 06:40:45](https://news.ycombinator.com/item?id=41002566) - [Cybersecurity platform Crowdstrike down worldwide, users logged out of systems](https://www.digit.in/news/general/cybersecurity-platform-crowdstrike-down-worldwide-many-users-logged-out-of-systems.html)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 04:40:16](https://news.ycombinator.com/item?id=41002044) - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
 * [2024-07-19, 04:09:59](https://news.ycombinator.com/item?id=41001959) - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
@@ -14,6 +14,7 @@
 * [2024-07-18, 18:40:14](https://news.ycombinator.com/item?id=40998497) - [Show HN: How we leapfrogged traditional vector based RAG with a 'language map'](https://twitter.com/mutableai/status/1813815706783490055)
 * [2024-07-18, 18:14:38](https://news.ycombinator.com/item?id=40998278) - [A Journey into Rebel-Held Myanmar](https://www.noemamag.com/a-journey-into-rebel-held-myanmar/)
 * [2024-07-18, 17:58:52](https://news.ycombinator.com/item?id=40998158) - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
+* [2024-07-18, 17:32:59](https://news.ycombinator.com/item?id=40997929) - [Bananas Don't Taste Like They Used To. Here's Why](https://www.epicurious.com/ingredients/history-of-the-gros-michel-banana)
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 16:11:41](https://news.ycombinator.com/item?id=40997087) - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 * [2024-07-18, 16:05:27](https://news.ycombinator.com/item?id=40997020) - [Back to the future: Are hackers the future of amateur radio?](https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/)
@@ -29,7 +30,6 @@
 * [2024-07-15, 09:25:21](https://news.ycombinator.com/item?id=40966366) - [Inside the Three-Way Race to Create the Most Widely Used Laser](https://spectrum.ieee.org/invention-semiconductor-laser)
 * [2024-07-14, 19:38:55](https://news.ycombinator.com/item?id=40962753) - [Inference of Error Specifications and Bug Detection Using Structural Similarity [pdf]](https://www.usenix.org/system/files/sec24fall-prepub-93-dossche.pdf)
 * [2024-07-14, 16:58:55](https://news.ycombinator.com/item?id=40961971) - [The only tourist in Moldova](https://www.telegraph.co.uk/travel/destinations/europe/moldova-europe-least-visited-country/)
-* [2024-07-14, 15:56:13](https://news.ycombinator.com/item?id=40961637) - [Warframe devs report 80% of game crashes happen on Intel's Core i9 chips](https://www.tomshardware.com/pc-components/cpus/warframe-devs-report-80-percent-of-game-crashes-happen-on-intel-overclockable-core-i9-chips)
 
 ## [Archives](archives/index.md)
 
