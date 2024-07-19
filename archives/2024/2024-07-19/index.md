@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 15:22:40](https://news.ycombinator.com/item?id=41007403) - [Show HN: Sendune – open-source HTML email designer](https://news.ycombinator.com/item?id=41007403)
+* [2024-07-19, 15:22:02](https://news.ycombinator.com/item?id=41007396) - [Bangladesh is now in the midst of a near-total national internet shutdown](https://mastodon.social/@netblocks/112808500770031751)
+* [2024-07-19, 15:00:40](https://news.ycombinator.com/item?id=41007208) - [Microsoft has serious questions to answer after the biggest IT outage in history](https://news.sky.com/story/microsoft-has-serious-questions-to-answer-after-what-could-be-the-biggest-it-outage-in-history-13180962)
 * [2024-07-19, 14:59:16](https://news.ycombinator.com/item?id=41007196) - [Earth's Water Is Rapidly Losing Oxygen, and the Danger Is Huge](https://www.sciencealert.com/earths-water-is-rapidly-losing-oxygen-and-the-danger-is-huge)
 * [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
 * [2024-07-19, 13:41:43](https://news.ycombinator.com/item?id=41006492) - [Show HN: Linux Mint Redesign Proposal](https://github.com/klad-design/linuxmint-brand)
