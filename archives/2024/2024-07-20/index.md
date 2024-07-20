@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 17:07:31](https://news.ycombinator.com/item?id=41017925) - [Who Is CrowdStrike CEO George Kurtz?](https://www.independent.co.uk/tech/crowdstrike-george-kurtz-microsoft-outages-b2582962.html)
 * [2024-07-20, 16:58:53](https://news.ycombinator.com/item?id=41017866) - [George Kurtz Crowstrike Founder and CEO](https://www.crowdstrike.com/about-crowdstrike/executive-team/george-kurtz/)
 * [2024-07-20, 15:56:11](https://news.ycombinator.com/item?id=41017367) - [A brief interview with Tcl creator John Ousterhout](https://pldb.io/blog/JohnOusterhout.html)
 * [2024-07-20, 15:46:56](https://news.ycombinator.com/item?id=41017286) - [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
