@@ -22,7 +22,7 @@
 * [2024-07-20, 04:27:38](https://news.ycombinator.com/item?id=41014052) - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-20, 00:03:52](https://news.ycombinator.com/item?id=41012779) - [Modeling study proposes a diamond layer at the core-mantle boundary on Mercury](https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html)
-* [2024-07-19, 21:06:04](https://news.ycombinator.com/item?id=41011228) - [Can the New Mathstral LLM Accurately Compare 9.11 and 9.9?](https://www.secondstate.io/articles/mathstral/)
+* [2024-07-19, 17:43:53](https://news.ycombinator.com/item?id=41009023) - [Kompute – Vulkan Alternative to CUDA](https://github.com/KomputeProject/kompute)
 * [2024-07-19, 13:49:26](https://news.ycombinator.com/item?id=41006565) - [Building the new hypermedia systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-18, 06:10:59](https://news.ycombinator.com/item?id=40992923) - [What to do if you don't want a default constructor?](https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value)
 * [2024-07-17, 02:14:21](https://news.ycombinator.com/item?id=40982007) - [The Kimchi Masters of South Korea Can Teach You a Thing or Two](https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html)
