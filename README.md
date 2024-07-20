@@ -2,6 +2,7 @@
 
 * [2024-07-20, 03:05:06](https://news.ycombinator.com/item?id=41013705) - [Major Fire Breaks Out on Maersk Containership in Arabian Sea](https://gcaptain.com/major-fire-breaks-out-on-maersk-containership-in-arabian-sea/)
 * [2024-07-20, 02:07:05](https://news.ycombinator.com/item?id=41013403) - [Argentina's economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
+* [2024-07-20, 01:10:31](https://news.ycombinator.com/item?id=41013159) - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 * [2024-07-19, 22:42:25](https://news.ycombinator.com/item?id=41012193) - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
@@ -25,7 +26,6 @@
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
 * [2024-07-18, 01:10:59](https://news.ycombinator.com/item?id=40991687) - [Insect-inspired autonomous navigation strategy for tiny, lightweight robots](https://techxplore.com/news/2024-07-insect-autonomous-strategy-tiny-lightweight.html)
-* [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-16, 22:55:14](https://news.ycombinator.com/item?id=40981078) - [Is Mars Habitable? (1907)](https://people.wku.edu/charles.smith/wallace/S730.htm)
 * [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)
 * [2024-07-16, 14:03:44](https://news.ycombinator.com/item?id=40976731) - [Automerge: A library of data structures for building collaborative applications](https://automerge.org/)
