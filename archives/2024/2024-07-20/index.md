@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 16:58:53](https://news.ycombinator.com/item?id=41017866) - [George Kurtz Crowstrike Founder and CEO](https://www.crowdstrike.com/about-crowdstrike/executive-team/george-kurtz/)
 * [2024-07-20, 15:56:11](https://news.ycombinator.com/item?id=41017367) - [A brief interview with Tcl creator John Ousterhout](https://pldb.io/blog/JohnOusterhout.html)
+* [2024-07-20, 15:46:56](https://news.ycombinator.com/item?id=41017286) - [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
 * [2024-07-20, 15:35:55](https://news.ycombinator.com/item?id=41017188) - [Ask HN: Server-side HTML Templates based on DOM?](https://news.ycombinator.com/item?id=41017188)
 * [2024-07-20, 15:32:32](https://news.ycombinator.com/item?id=41017172) - [Teaching Programming with Basic](https://lackofimagination.org/2024/07/teaching-programming-with-basic/)
 * [2024-07-20, 15:22:59](https://news.ycombinator.com/item?id=41017109) - [Farm Manager: An all-in-one farm management desktop application created using C](https://github.com/ApexProgrammer/farm-manager-test)
@@ -19,6 +21,7 @@
 * [2024-07-20, 13:21:00](https://news.ycombinator.com/item?id=41016290) - [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
 * [2024-07-20, 12:51:01](https://news.ycombinator.com/item?id=41016104) - [1989 Networking: NetWare 386](http://www.os2museum.com/wp/1989-networking-netware-386/)
 * [2024-07-20, 12:34:53](https://news.ycombinator.com/item?id=41016022) - [Memory and ILP handling in 2D convolutions](https://riemani.ca/conv)
+* [2024-07-20, 12:20:21](https://news.ycombinator.com/item?id=41015963) - [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
 * [2024-07-20, 12:18:21](https://news.ycombinator.com/item?id=41015945) - [Robot Dog Cleans Up Beaches with Foot-Mounted Vacuums](https://spectrum.ieee.org/robot-dog-vacuum)
 * [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:37:14](https://news.ycombinator.com/item?id=41015731) - [Public toilets are vanishing and that's a civic catastrophe](https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe)
