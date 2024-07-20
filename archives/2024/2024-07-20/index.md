@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 19:34:17](https://news.ycombinator.com/item?id=41019091) - [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
 * [2024-07-20, 18:52:19](https://news.ycombinator.com/item?id=41018726) - [Global IT outage shows dangers of cashless society, campaigners say](https://www.theguardian.com/technology/article/2024/jul/20/cash-global-it-outage-cashless-society-dangers-payment-choice-alliance)
+* [2024-07-20, 17:54:34](https://news.ycombinator.com/item?id=41018292) - [Google set to purge the Play Store of low-quality apps](https://www.androidauthority.com/google-apps-play-store-3462390/)
 * [2024-07-20, 17:47:16](https://news.ycombinator.com/item?id=41018226) - [How to use the new counted_by attribute in C (and Linux)](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
 * [2024-07-20, 17:39:28](https://news.ycombinator.com/item?id=41018172) - [The Luckfox Pico Mini B – Linux in a Thumbnail](https://taoofmac.com/space/blog/2024/07/20/1800)
 * [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
