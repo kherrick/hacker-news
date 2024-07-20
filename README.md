@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-20, 04:27:38](https://news.ycombinator.com/item?id=41014052) - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
-* [2024-07-20, 01:10:31](https://news.ycombinator.com/item?id=41013159) - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 * [2024-07-19, 22:42:25](https://news.ycombinator.com/item?id=41012193) - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
@@ -30,6 +29,7 @@
 * [2024-07-16, 13:48:34](https://news.ycombinator.com/item?id=40976593) - [Parametric Matrix Models](https://arxiv.org/abs/2401.11694)
 * [2024-07-16, 12:56:52](https://news.ycombinator.com/item?id=40976083) - [Xwax Is an Open-Source Digital Vinyl System (DVS) for Linux](https://xwax.org/)
 * [2024-07-15, 22:49:43](https://news.ycombinator.com/item?id=40972147) - [The oldest known recording of a human voice [video]](https://www.bbc.com/reel/video/p0j7x5f7/listen-to-the-oldest-known-recording-of-a-human-voice)
+* [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 
 ## [Archives](archives/index.md)
 
