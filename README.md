@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-20, 13:21:00](https://news.ycombinator.com/item?id=41016290) - [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
+* [2024-07-20, 12:18:21](https://news.ycombinator.com/item?id=41015945) - [Robot Dog Cleans Up Beaches with Foot-Mounted Vacuums](https://spectrum.ieee.org/robot-dog-vacuum)
 * [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:37:14](https://news.ycombinator.com/item?id=41015731) - [Public toilets are vanishing and that's a civic catastrophe](https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe)
 * [2024-07-20, 11:20:00](https://news.ycombinator.com/item?id=41015667) - [Cofounder matching for indie hackers and bootstrappers](https://indie.cofounderdat.ing)
@@ -20,7 +21,6 @@
 * [2024-07-19, 13:49:26](https://news.ycombinator.com/item?id=41006565) - [Building the new hypermedia systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-19, 13:24:40](https://news.ycombinator.com/item?id=41006308) - [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags (2017)](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes to limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
-* [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-17, 19:42:57](https://news.ycombinator.com/item?id=40989565) - [Part One: The Story of Fast Radius](http://www.roryhr.com/part-one-the-story-of-fast-radius.html)
 * [2024-07-17, 02:14:21](https://news.ycombinator.com/item?id=40982007) - [The Kimchi Masters of South Korea Can Teach You a Thing or Two](https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html)
