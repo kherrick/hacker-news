@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-20, 04:36:15](https://news.ycombinator.com/item?id=41014089) - [Google's shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
 * [2024-07-20, 02:32:41](https://news.ycombinator.com/item?id=41013563) - [The Cheap 10GbE Switch Buyers Guide](https://www.servethehome.com/the-ultimate-cheap-10gbe-switch-buyers-guide-netgear-ubiquiti-qnap-mikrotik-qct/)
 * [2024-07-20, 01:10:31](https://news.ycombinator.com/item?id=41013159) - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
@@ -21,7 +22,6 @@
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes to limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
-* [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants use namelike calls](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-16, 22:55:14](https://news.ycombinator.com/item?id=40981078) - [Is Mars Habitable? (1907)](https://people.wku.edu/charles.smith/wallace/S730.htm)
