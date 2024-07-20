@@ -8,7 +8,7 @@
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What happened to BERT and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
 * [2024-07-19, 17:43:53](https://news.ycombinator.com/item?id=41009023) - [Kompute – Vulkan Alternative to CUDA](https://github.com/KomputeProject/kompute)
 * [2024-07-19, 17:43:44](https://news.ycombinator.com/item?id=41009021) - [A search engine by and for the federal government](https://search.gov/)
-* [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
+* [2024-07-19, 17:31:42](https://news.ycombinator.com/item?id=41008888) - [CLI tools to build, browse, and blend your media library](https://github.com/chapmanjacobd/library)
 * [2024-07-19, 16:57:11](https://news.ycombinator.com/item?id=41008488) - [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
 * [2024-07-19, 16:29:30](https://news.ycombinator.com/item?id=41008174) - [The Later Years of Douglas Adams](https://www.filfre.net/2024/07/the-later-years-of-douglas-adams/)
 * [2024-07-19, 15:22:40](https://news.ycombinator.com/item?id=41007403) - [Show HN: Sendune – open-source HTML email designer](https://news.ycombinator.com/item?id=41007403)
