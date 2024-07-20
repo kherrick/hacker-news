@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-20, 20:00:06",
+      "https://news.ycombinator.com/item?id=41019291"
+    ],
+    [
+      "Sun is starting next solar cycle–despite being halfway through its current one",
+      "https://phys.org/news/2024-07-early-riser-sun-solar-halfway.html"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 19:34:17",
       "https://news.ycombinator.com/item?id=41019091"
     ],
@@ -57,16 +67,6 @@
     [
       "How to use the new counted_by attribute in C (and Linux)",
       "https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 17:39:28",
-      "https://news.ycombinator.com/item?id=41018172"
-    ],
-    [
-      "The Luckfox Pico Mini B – Linux in a Thumbnail",
-      "https://taoofmac.com/space/blog/2024/07/20/1800"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-07-20, 04:27:38",
-      "https://news.ycombinator.com/item?id=41014052"
-    ],
-    [
-      "Converting Codebases with LLMs",
-      "https://blog.withmantle.com/code-conversion-using-ai/"
-    ]
-  ],
-  [
-    [
       "2024-07-20, 00:40:31",
       "https://news.ycombinator.com/item?id=41013004"
     ],
@@ -297,6 +287,16 @@
     [
       "Automerge: A library of data structures for building collaborative applications",
       "https://automerge.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 10:54:31",
+      "https://news.ycombinator.com/item?id=40975320"
+    ],
+    [
+      "Mistaking Engineering Achievements for Human Linguistic Agency",
+      "https://arxiv.org/abs/2407.08790"
     ]
   ]
 ]
