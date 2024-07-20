@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-20, 03:05:06](https://news.ycombinator.com/item?id=41013705) - [Major Fire Breaks Out on Maersk Containership in Arabian Sea](https://gcaptain.com/major-fire-breaks-out-on-maersk-containership-in-arabian-sea/)
 * [2024-07-20, 02:07:05](https://news.ycombinator.com/item?id=41013403) - [Argentina's economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
-* [2024-07-19, 23:28:18](https://news.ycombinator.com/item?id=41012531) - [I don't buy 538's new election model](https://www.natesilver.net/p/why-i-dont-buy-538s-new-election)
 * [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 * [2024-07-19, 22:42:25](https://news.ycombinator.com/item?id=41012193) - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
 * [2024-07-19, 19:57:03](https://news.ycombinator.com/item?id=41010458) - [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
