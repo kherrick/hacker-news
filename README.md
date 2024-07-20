@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-20, 05:32:12](https://news.ycombinator.com/item?id=41014323) - [Soda cans burst on Southwest flights due to extreme heat](https://www.npr.org/2024/07/19/nx-s1-5046378/soda-cans-explode-southwest-airlines-flights-extreme-heat)
 * [2024-07-20, 04:36:15](https://news.ycombinator.com/item?id=41014089) - [Google's shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
 * [2024-07-20, 02:32:41](https://news.ycombinator.com/item?id=41013563) - [The Cheap 10GbE Switch Buyers Guide](https://www.servethehome.com/the-ultimate-cheap-10gbe-switch-buyers-guide-netgear-ubiquiti-qnap-mikrotik-qct/)
 * [2024-07-20, 01:10:31](https://news.ycombinator.com/item?id=41013159) - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
@@ -23,6 +22,7 @@
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
+* [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-16, 22:55:14](https://news.ycombinator.com/item?id=40981078) - [Is Mars Habitable? (1907)](https://people.wku.edu/charles.smith/wallace/S730.htm)
 * [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)
 * [2024-07-16, 16:21:13](https://news.ycombinator.com/item?id=40977927) - [We created a fake delivery company to get a job](https://blog.kashevko.com/we-created-a-fake-delivery-company-3/)
