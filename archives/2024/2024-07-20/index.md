@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 13:32:21](https://news.ycombinator.com/item?id=41016373) - [Ask HN: Can anyone from Crowdstrike explain the back story?](https://news.ycombinator.com/item?id=41016373)
 * [2024-07-20, 13:21:00](https://news.ycombinator.com/item?id=41016290) - [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
 * [2024-07-20, 12:51:01](https://news.ycombinator.com/item?id=41016104) - [1989 Networking: NetWare 386](http://www.os2museum.com/wp/1989-networking-netware-386/)
 * [2024-07-20, 12:18:21](https://news.ycombinator.com/item?id=41015945) - [Robot Dog Cleans Up Beaches with Foot-Mounted Vacuums](https://spectrum.ieee.org/robot-dog-vacuum)
