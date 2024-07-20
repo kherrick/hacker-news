@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-07-20, 20:52:23",
+      "https://news.ycombinator.com/item?id=41019777"
+    ],
+    [
+      "Google Distributed Cloud Air-Gapped Appliance",
+      "https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 20:22:05",
       "https://news.ycombinator.com/item?id=41019478"
     ],
     [
       "Microsoft's global sprawl under fire from regulators after Windows outage",
       "https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 20:08:01",
-      "https://news.ycombinator.com/item?id=41019364"
-    ],
-    [
-      "Douglas Adams' Starship Titanic game website (1998)",
-      "http://starshiptitanic.com/"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "A Linux kernel syscall implementation tracker",
       "https://syscalls.mebeim.net/?table=x86/64/x64/latest"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 16:54:46",
+      "https://news.ycombinator.com/item?id=41017834"
+    ],
+    [
+      "Investing in Rust",
+      "https://www.lawfaremedia.org/article/investing-in-rust"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-07-20, 00:40:31",
-      "https://news.ycombinator.com/item?id=41013004"
-    ],
-    [
-      "Garage: Open-Source Distributed Object Storage",
-      "https://garagehq.deuxfleurs.fr/"
-    ]
-  ],
-  [
-    [
       "2024-07-20, 00:03:52",
       "https://news.ycombinator.com/item?id=41012779"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-07-17, 02:14:21",
+      "https://news.ycombinator.com/item?id=40982007"
+    ],
+    [
+      "The Kimchi Masters of South Korea",
+      "https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 20:48:50",
       "https://news.ycombinator.com/item?id=40980200"
     ],
@@ -277,16 +287,6 @@
     [
       "Mangrove trees are on the move, taking the tropics with them",
       "https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 14:03:44",
-      "https://news.ycombinator.com/item?id=40976731"
-    ],
-    [
-      "Automerge: A library of data structures for building collaborative applications",
-      "https://automerge.org/"
     ]
   ],
   [
