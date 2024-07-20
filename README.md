@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-20, 07:41:27](https://news.ycombinator.com/item?id=41014821) - [No-IT. Really. No. I. T. – R&a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
 * [2024-07-20, 04:27:38](https://news.ycombinator.com/item?id=41014052) - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
 * [2024-07-20, 01:10:31](https://news.ycombinator.com/item?id=41013159) - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
@@ -22,6 +21,7 @@
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants use namelike calls](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
+* [2024-07-17, 23:17:24](https://news.ycombinator.com/item?id=40991203) - [Stratospheric Optical Earth Observation](https://intelligence.airbus.com/imagery/our-optical-and-radar-satellite-imagery/strat-observer/)
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-16, 22:55:14](https://news.ycombinator.com/item?id=40981078) - [Is Mars Habitable? (1907)](https://people.wku.edu/charles.smith/wallace/S730.htm)
 * [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)

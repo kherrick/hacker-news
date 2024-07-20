@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 23:17:24](https://news.ycombinator.com/item?id=40991203) - [Stratospheric Optical Earth Observation](https://intelligence.airbus.com/imagery/our-optical-and-radar-satellite-imagery/strat-observer/)
 * [2024-07-17, 23:11:26](https://news.ycombinator.com/item?id=40991182) - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
 * [2024-07-17, 22:51:39](https://news.ycombinator.com/item?id=40991075) - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
 * [2024-07-17, 22:02:39](https://news.ycombinator.com/item?id=40990768) - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
