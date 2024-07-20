@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud Air-Gapped Appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
+* [2024-07-20, 20:33:06](https://news.ycombinator.com/item?id=41019604) - [Minuteman Missile Communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
 * [2024-07-20, 20:22:05](https://news.ycombinator.com/item?id=41019478) - [Microsoft's global sprawl under fire from regulators after Windows outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/)
 * [2024-07-20, 20:08:01](https://news.ycombinator.com/item?id=41019364) - [Douglas Adams' Starship Titanic game website (1998)](http://starshiptitanic.com/)
 * [2024-07-20, 20:06:46](https://news.ycombinator.com/item?id=41019354) - [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)

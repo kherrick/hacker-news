@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud Air-Gapped Appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
+* [2024-07-20, 20:33:06](https://news.ycombinator.com/item?id=41019604) - [Minuteman Missile Communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
 * [2024-07-20, 20:22:05](https://news.ycombinator.com/item?id=41019478) - [Microsoft's global sprawl under fire from regulators after Windows outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/)
 * [2024-07-20, 20:06:46](https://news.ycombinator.com/item?id=41019354) - [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)
 * [2024-07-20, 20:00:06](https://news.ycombinator.com/item?id=41019291) - [Sun is starting next solar cycle–despite being halfway through its current one](https://phys.org/news/2024-07-early-riser-sun-solar-halfway.html)
 * [2024-07-20, 19:34:17](https://news.ycombinator.com/item?id=41019091) - [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
 * [2024-07-20, 19:30:48](https://news.ycombinator.com/item?id=41019053) - [Young Adulthood Is No Longer One of Life's Happiest Times](https://www.scientificamerican.com/article/young-adulthood-is-no-longer-one-of-lifes-happiest-times/)
-* [2024-07-20, 19:18:11](https://news.ycombinator.com/item?id=41018935) - [Are people too flawed, ignorant, and tribal for open societies?](https://www.conspicuouscognition.com/p/are-people-too-flawed-ignorant-and)
 * [2024-07-20, 18:45:37](https://news.ycombinator.com/item?id=41018677) - [Exercise: Minesweeper in 100 lines of clean Ruby](https://radanskoric.com/experiments/minesweeper-100-lines-of-clean-ruby)
 * [2024-07-20, 17:54:34](https://news.ycombinator.com/item?id=41018292) - [Google set to purge the Play Store of low-quality apps](https://www.androidauthority.com/google-apps-play-store-3462390/)
 * [2024-07-20, 17:47:16](https://news.ycombinator.com/item?id=41018226) - [How to use the new counted_by attribute in C (and Linux)](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
