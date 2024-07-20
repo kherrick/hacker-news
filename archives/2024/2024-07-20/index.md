@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
 * [2024-07-20, 22:37:16](https://news.ycombinator.com/item?id=41020655) - [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
+* [2024-07-20, 22:34:55](https://news.ycombinator.com/item?id=41020638) - ['Google says I'm a dead physicist': is the biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken)
 * [2024-07-20, 21:35:53](https://news.ycombinator.com/item?id=41020165) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 * [2024-07-20, 20:58:10](https://news.ycombinator.com/item?id=41019829) - [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud Air-Gapped Appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)

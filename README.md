@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-20, 22:37:16](https://news.ycombinator.com/item?id=41020655) - [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
+* [2024-07-20, 22:34:55](https://news.ycombinator.com/item?id=41020638) - ['Google says I'm a dead physicist': is the biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken)
 * [2024-07-20, 21:35:53](https://news.ycombinator.com/item?id=41020165) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 * [2024-07-20, 20:58:10](https://news.ycombinator.com/item?id=41019829) - [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud air-gapped appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
@@ -9,7 +10,6 @@
 * [2024-07-20, 19:34:17](https://news.ycombinator.com/item?id=41019091) - [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
 * [2024-07-20, 19:26:01](https://news.ycombinator.com/item?id=41019013) - [Bangladesh police given 'shoot-on-sight' orders amid national curfew](https://www.theguardian.com/world/article/2024/jul/20/bangladesh-police-given-shoot-on-sight-orders-amid-national-curfew)
 * [2024-07-20, 18:45:37](https://news.ycombinator.com/item?id=41018677) - [Exercise: Minesweeper in 100 lines of Ruby](https://radanskoric.com/experiments/minesweeper-100-lines-of-clean-ruby)
-* [2024-07-20, 17:47:16](https://news.ycombinator.com/item?id=41018226) - [How to use the new counted_by attribute in C (and Linux)](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
 * [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 * [2024-07-20, 15:56:11](https://news.ycombinator.com/item?id=41017367) - [A brief interview with Tcl creator John Ousterhout (2023)](https://pldb.io/blog/JohnOusterhout.html)
 * [2024-07-20, 15:46:56](https://news.ycombinator.com/item?id=41017286) - [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
