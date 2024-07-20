@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 23:28:18](https://news.ycombinator.com/item?id=41012531) - [I don't buy 538's new election model](https://www.natesilver.net/p/why-i-dont-buy-538s-new-election)
 * [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 * [2024-07-19, 22:42:25](https://news.ycombinator.com/item?id=41012193) - [Multisatellite Data Depicts a Record-Breaking Methane Leak from a Well Blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
 * [2024-07-19, 21:57:00](https://news.ycombinator.com/item?id=41011807) - [Why didn't Rome have an industrial revolution?](https://www.maximum-progress.com/p/romae-industriae)

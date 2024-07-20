@@ -2,6 +2,7 @@
 
 * [2024-07-20, 02:07:05](https://news.ycombinator.com/item?id=41013403) - [Argentina's economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
+* [2024-07-19, 23:28:18](https://news.ycombinator.com/item?id=41012531) - [I don't buy 538's new election model](https://www.natesilver.net/p/why-i-dont-buy-538s-new-election)
 * [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 * [2024-07-19, 22:42:25](https://news.ycombinator.com/item?id=41012193) - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
 * [2024-07-19, 19:57:03](https://news.ycombinator.com/item?id=41010458) - [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
@@ -10,7 +11,6 @@
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What happened to BERT and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
 * [2024-07-19, 17:43:53](https://news.ycombinator.com/item?id=41009023) - [Kompute – Vulkan Alternative to CUDA](https://github.com/KomputeProject/kompute)
 * [2024-07-19, 17:43:44](https://news.ycombinator.com/item?id=41009021) - [A search engine by and for the federal government](https://search.gov/)
-* [2024-07-19, 17:31:42](https://news.ycombinator.com/item?id=41008888) - [CLI tools to build, browse, and blend your media library](https://github.com/chapmanjacobd/library)
 * [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-07-19, 16:57:11](https://news.ycombinator.com/item?id=41008488) - [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
 * [2024-07-19, 16:29:30](https://news.ycombinator.com/item?id=41008174) - [The Later Years of Douglas Adams](https://www.filfre.net/2024/07/the-later-years-of-douglas-adams/)
