@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-20, 01:19:28",
-      "https://news.ycombinator.com/item?id=41013198"
+      "2024-07-20, 02:07:05",
+      "https://news.ycombinator.com/item?id=41013403"
     ],
     [
-      "Technical Details on Today's Outage",
-      "https://www.crowdstrike.com/blog/technical-details-on-todays-outage/"
+      "Argentina's economy is growing beyond expectations",
+      "https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "A search engine by and for the federal government",
       "https://search.gov/"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 17:31:42",
+      "https://news.ycombinator.com/item?id=41008888"
+    ],
+    [
+      "CLI tools to build, browse, and blend your media library",
+      "https://github.com/chapmanjacobd/library"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2024-07-16, 22:55:14",
+      "https://news.ycombinator.com/item?id=40981078"
+    ],
+    [
+      "Is Mars Habitable? (1907)",
+      "https://people.wku.edu/charles.smith/wallace/S730.htm"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 18:07:57",
       "https://news.ycombinator.com/item?id=40978820"
     ],
@@ -277,26 +297,6 @@
     [
       "The oldest known recording of a human voice [video]",
       "https://www.bbc.com/reel/video/p0j7x5f7/listen-to-the-oldest-known-recording-of-a-human-voice"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 14:32:37",
-      "https://news.ycombinator.com/item?id=40968215"
-    ],
-    [
-      "Visual programming should start in the debugger",
-      "https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 13:55:43",
-      "https://news.ycombinator.com/item?id=40967935"
-    ],
-    [
-      "Artificial neural network approach to finding the key length of Vigenère cipher",
-      "https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la"
     ]
   ]
 ]
