@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 14:33:18](https://news.ycombinator.com/item?id=41016768) - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
+* [2024-07-20, 14:32:50](https://news.ycombinator.com/item?id=41016762) - [A Physical instance of recursion, from 1936](https://en.wikipedia.org/wiki/Bourton-on-the-Water_model_village)
+* [2024-07-20, 14:13:33](https://news.ycombinator.com/item?id=41016650) - [How to choose a textbook that is pedagogically optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
 * [2024-07-20, 13:32:21](https://news.ycombinator.com/item?id=41016373) - [Ask HN: Can anyone from Crowdstrike explain the back story?](https://news.ycombinator.com/item?id=41016373)
 * [2024-07-20, 13:21:00](https://news.ycombinator.com/item?id=41016290) - [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
 * [2024-07-20, 12:51:01](https://news.ycombinator.com/item?id=41016104) - [1989 Networking: NetWare 386](http://www.os2museum.com/wp/1989-networking-netware-386/)
