@@ -49,6 +49,7 @@
 * [2024-07-19, 14:59:16](https://news.ycombinator.com/item?id=41007196) - [Earth's Water Is Rapidly Losing Oxygen, and the Danger Is Huge](https://www.sciencealert.com/earths-water-is-rapidly-losing-oxygen-and-the-danger-is-huge)
 * [2024-07-19, 14:50:29](https://news.ycombinator.com/item?id=41007113) - [Deutsche Telekom issued invalid certificates, hasn't revoked them since 6 months](https://bugzilla.mozilla.org/show_bug.cgi?id=1877388)
 * [2024-07-19, 14:31:04](https://news.ycombinator.com/item?id=41006946) - [Instrumenting Python GIL with eBPF](https://coroot.com/blog/instrumenting-python-gil-with-ebpf)
+* [2024-07-19, 13:49:26](https://news.ycombinator.com/item?id=41006565) - [Building the New Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
 * [2024-07-19, 13:41:43](https://news.ycombinator.com/item?id=41006492) - [Show HN: Linux Mint Redesign Proposal](https://github.com/klad-design/linuxmint-brand)
 * [2024-07-19, 13:24:40](https://news.ycombinator.com/item?id=41006308) - [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
