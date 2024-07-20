@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-07-20, 20:08:01",
+      "https://news.ycombinator.com/item?id=41019364"
+    ],
+    [
+      "Douglas Adams' Starship Titanic game website (1998)",
+      "http://starshiptitanic.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 19:34:17",
       "https://news.ycombinator.com/item?id=41019091"
     ],
     [
       "Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V",
       "https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 19:30:48",
+      "https://news.ycombinator.com/item?id=41019053"
+    ],
+    [
+      "Young Adulthood Is No Longer One of Life's Happiest Times",
+      "https://www.scientificamerican.com/article/young-adulthood-is-no-longer-one-of-lifes-happiest-times/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "A Linux kernel syscall implementation tracker",
       "https://syscalls.mebeim.net/?table=x86/64/x64/latest"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 17:21:15",
-      "https://news.ycombinator.com/item?id=41018029"
-    ],
-    [
-      "CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed",
-      "https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-07-20, 13:43:24",
+      "https://news.ycombinator.com/item?id=41016441"
+    ],
+    [
+      "10% of Cubans left Cuba between 2022 and 2023",
+      "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 13:21:00",
       "https://news.ycombinator.com/item?id=41016290"
     ],
@@ -157,6 +177,16 @@
     [
       "Memory and ILP handling in 2D convolutions",
       "https://riemani.ca/conv"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 12:18:21",
+      "https://news.ycombinator.com/item?id=41015945"
+    ],
+    [
+      "Robot dog cleans up beaches with foot-mounted vacuums",
+      "https://spectrum.ieee.org/robot-dog-vacuum"
     ]
   ],
   [
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2024-07-19, 17:43:53",
-      "https://news.ycombinator.com/item?id=41009023"
-    ],
-    [
-      "Kompute – Vulkan Alternative to CUDA",
-      "https://github.com/KomputeProject/kompute"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 13:49:26",
-      "https://news.ycombinator.com/item?id=41006565"
-    ],
-    [
-      "Building the new hypermedia systems",
-      "https://dz4k.com/2024/new-hypermedia-systems/"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 06:10:59",
       "https://news.ycombinator.com/item?id=40992923"
     ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40982007"
     ],
     [
-      "The Kimchi Masters of South Korea Can Teach You a Thing or Two",
+      "The Kimchi Masters of South Korea",
       "https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Automerge: A library of data structures for building collaborative applications",
       "https://automerge.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 12:56:52",
-      "https://news.ycombinator.com/item?id=40976083"
-    ],
-    [
-      "Xwax Is an Open-Source Digital Vinyl System (DVS) for Linux",
-      "https://xwax.org/"
     ]
   ]
 ]
