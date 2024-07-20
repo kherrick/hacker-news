@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-20, 10:33:01](https://news.ycombinator.com/item?id=41015459) - [Crowdstrike CEO was McAfee CTO when big glitch took down large part of Internet](https://twitter.com/anshelsag/status/1814426186933776846)
+* [2024-07-20, 07:41:27](https://news.ycombinator.com/item?id=41014821) - [No-IT. Really. No. I. T. – R&a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
 * [2024-07-20, 01:10:31](https://news.ycombinator.com/item?id=41013159) - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
@@ -14,7 +16,6 @@
 * [2024-07-19, 15:22:02](https://news.ycombinator.com/item?id=41007396) - [Bangladesh imposes curfew after dozens killed in anti-government protests](https://www.washingtonpost.com/world/2024/07/19/bangladesh-demonstrations-police-hasina/)
 * [2024-07-19, 14:31:04](https://news.ycombinator.com/item?id=41006946) - [Instrumenting Python GIL with eBPF](https://coroot.com/blog/instrumenting-python-gil-with-ebpf)
 * [2024-07-19, 13:49:26](https://news.ycombinator.com/item?id=41006565) - [Building the new hypermedia systems](https://dz4k.com/2024/new-hypermedia-systems/)
-* [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity rover discovers a surprise in a Martian rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
 * [2024-07-19, 13:24:40](https://news.ycombinator.com/item?id=41006308) - [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags (2017)](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes to limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
@@ -29,7 +30,6 @@
 * [2024-07-16, 13:48:34](https://news.ycombinator.com/item?id=40976593) - [Parametric Matrix Models](https://arxiv.org/abs/2401.11694)
 * [2024-07-16, 12:56:52](https://news.ycombinator.com/item?id=40976083) - [Xwax Is an Open-Source Digital Vinyl System (DVS) for Linux](https://xwax.org/)
 * [2024-07-15, 22:49:43](https://news.ycombinator.com/item?id=40972147) - [The oldest known recording of a human voice [video]](https://www.bbc.com/reel/video/p0j7x5f7/listen-to-the-oldest-known-recording-of-a-human-voice)
-* [2024-07-15, 15:47:38](https://news.ycombinator.com/item?id=40968922) - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 
 ## [Archives](archives/index.md)
 

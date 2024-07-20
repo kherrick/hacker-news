@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 10:33:01](https://news.ycombinator.com/item?id=41015459) - [Crowdstrike CEO was McAfee CTO when big glitch took down large part of Internet](https://twitter.com/anshelsag/status/1814426186933776846)
+* [2024-07-20, 07:41:27](https://news.ycombinator.com/item?id=41014821) - [No-IT. Really. No. I. T. – R&a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
 * [2024-07-20, 05:32:12](https://news.ycombinator.com/item?id=41014323) - [Soda cans burst on Southwest flights due to extreme heat](https://www.npr.org/2024/07/19/nx-s1-5046378/soda-cans-explode-southwest-airlines-flights-extreme-heat)
 * [2024-07-20, 04:36:15](https://news.ycombinator.com/item?id=41014089) - [Google's shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
 * [2024-07-20, 03:05:06](https://news.ycombinator.com/item?id=41013705) - [Major Fire Breaks Out on Maersk Containership in Arabian Sea](https://gcaptain.com/major-fire-breaks-out-on-maersk-containership-in-arabian-sea/)
