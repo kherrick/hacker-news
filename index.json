@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-07-20, 21:35:53",
+      "https://news.ycombinator.com/item?id=41020165"
+    ],
+    [
+      "What TeX Gets Right",
+      "https://newton.cx/~peter/2024/what-tex-gets-right/"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 20:52:23",
       "https://news.ycombinator.com/item?id=41019777"
     ],
     [
-      "Google Distributed Cloud Air-Gapped Appliance",
+      "Google Distributed Cloud air-gapped appliance",
       "https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga"
     ]
   ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=41019604"
     ],
     [
-      "Minuteman Missile Communications",
+      "Minuteman missile communications",
       "https://computer.rip/2024-07-20-minuteman-missile-communications.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 20:22:05",
-      "https://news.ycombinator.com/item?id=41019478"
-    ],
-    [
-      "Microsoft's global sprawl under fire from regulators after Windows outage",
-      "https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/"
     ]
   ],
   [
@@ -51,11 +51,21 @@
   ],
   [
     [
+      "2024-07-20, 19:26:01",
+      "https://news.ycombinator.com/item?id=41019013"
+    ],
+    [
+      "Bangladesh police given 'shoot-on-sight' orders amid national curfew",
+      "https://www.theguardian.com/world/article/2024/jul/20/bangladesh-police-given-shoot-on-sight-orders-amid-national-curfew"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 18:45:37",
       "https://news.ycombinator.com/item?id=41018677"
     ],
     [
-      "Exercise: Minesweeper in 100 lines of clean Ruby",
+      "Exercise: Minesweeper in 100 lines of Ruby",
       "https://radanskoric.com/experiments/minesweeper-100-lines-of-clean-ruby"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "A Linux kernel syscall implementation tracker",
       "https://syscalls.mebeim.net/?table=x86/64/x64/latest"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 16:54:46",
-      "https://news.ycombinator.com/item?id=41017834"
-    ],
-    [
-      "Investing in Rust",
-      "https://www.lawfaremedia.org/article/investing-in-rust"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "10% of Cubans left Cuba between 2022 and 2023",
       "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 13:21:00",
-      "https://news.ycombinator.com/item?id=41016290"
-    ],
-    [
-      "No Uptime Hosting (2006)",
-      "https://nouptime.com/"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2024-07-19, 13:49:26",
+      "https://news.ycombinator.com/item?id=41006565"
+    ],
+    [
+      "Building the new hypermedia systems",
+      "https://dz4k.com/2024/new-hypermedia-systems/"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 06:10:59",
       "https://news.ycombinator.com/item?id=40992923"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=40975320"
     ],
     [
-      "Mistaking Engineering Achievements for Human Linguistic Agency",
+      "Large models of what? Mistaking engineering achievements for linguistic agency",
       "https://arxiv.org/abs/2407.08790"
     ]
   ]
