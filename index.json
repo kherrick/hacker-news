@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-20, 17:21:15",
+      "https://news.ycombinator.com/item?id=41018029"
+    ],
+    [
+      "CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed",
+      "https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 15:56:11",
       "https://news.ycombinator.com/item?id=41017367"
     ],
@@ -37,6 +47,16 @@
     [
       "CrowdStrike debacle provides road map of American vulnerabilities to adversaries",
       "https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 15:06:15",
+      "https://news.ycombinator.com/item?id=41016987"
+    ],
+    [
+      "Siblings miss crucial life-extending treatment because of CrowdStrike outage",
+      "https://www.kiro7.com/news/local/siblings-miss-crucial-life-extending-treatment-seattle-childrens-because-crowdstrike-outage/Y5EMEXGGQJE7PHDEAEKCWG6U4M/"
     ]
   ],
   [
@@ -121,12 +141,12 @@
   ],
   [
     [
-      "2024-07-20, 11:37:14",
-      "https://news.ycombinator.com/item?id=41015731"
+      "2024-07-20, 11:03:55",
+      "https://news.ycombinator.com/item?id=41015588"
     ],
     [
-      "Public toilets are vanishing and that's a civic catastrophe",
-      "https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe"
+      "Aro – Zig's new C compiler",
+      "https://github.com/Vexu/arocc"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-19, 17:43:44",
-      "https://news.ycombinator.com/item?id=41009021"
-    ],
-    [
-      "A search engine by and for the federal government",
-      "https://search.gov/"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 16:57:11",
       "https://news.ycombinator.com/item?id=41008488"
     ],
@@ -237,16 +247,6 @@
     [
       "Building the new hypermedia systems",
       "https://dz4k.com/2024/new-hypermedia-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 05:26:13",
-      "https://news.ycombinator.com/item?id=41002195"
-    ],
-    [
-      "CrowdStrike Update: Windows Bluescreen and Boot Loops",
-      "https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/"
     ]
   ],
   [
