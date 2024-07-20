@@ -10,6 +10,7 @@
 * [2024-07-20, 20:58:10](https://news.ycombinator.com/item?id=41019829) - [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud Air-Gapped Appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
 * [2024-07-20, 20:33:06](https://news.ycombinator.com/item?id=41019604) - [Minuteman Missile Communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
+* [2024-07-20, 20:29:37](https://news.ycombinator.com/item?id=41019561) - [Intel vs. Samsung vs. TSMC](https://semiengineering.com/intel-vs-samsung-vs-tsmc/)
 * [2024-07-20, 20:22:05](https://news.ycombinator.com/item?id=41019478) - [Microsoft's global sprawl under fire from regulators after Windows outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/)
 * [2024-07-20, 20:08:01](https://news.ycombinator.com/item?id=41019364) - [Douglas Adams' Starship Titanic game website (1998)](http://starshiptitanic.com/)
 * [2024-07-20, 20:06:46](https://news.ycombinator.com/item?id=41019354) - [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)
