@@ -2,6 +2,7 @@
 
 * [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:37:14](https://news.ycombinator.com/item?id=41015731) - [Public toilets are vanishing and that's a civic catastrophe](https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe)
+* [2024-07-20, 11:20:00](https://news.ycombinator.com/item?id=41015667) - [Cofounder matching for indie hackers and bootstrappers](https://indie.cofounderdat.ing)
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 * [2024-07-20, 04:27:38](https://news.ycombinator.com/item?id=41014052) - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
@@ -14,7 +15,6 @@
 * [2024-07-19, 16:57:11](https://news.ycombinator.com/item?id=41008488) - [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
 * [2024-07-19, 16:29:30](https://news.ycombinator.com/item?id=41008174) - [The Later Years of Douglas Adams](https://www.filfre.net/2024/07/the-later-years-of-douglas-adams/)
 * [2024-07-19, 15:22:40](https://news.ycombinator.com/item?id=41007403) - [Show HN: Sendune – open-source HTML email designer](https://news.ycombinator.com/item?id=41007403)
-* [2024-07-19, 15:22:02](https://news.ycombinator.com/item?id=41007396) - [Bangladesh imposes curfew after dozens killed in anti-government protests](https://www.washingtonpost.com/world/2024/07/19/bangladesh-demonstrations-police-hasina/)
 * [2024-07-19, 14:31:04](https://news.ycombinator.com/item?id=41006946) - [Instrumenting Python GIL with eBPF](https://coroot.com/blog/instrumenting-python-gil-with-ebpf)
 * [2024-07-19, 13:49:26](https://news.ycombinator.com/item?id=41006565) - [Building the new hypermedia systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-19, 13:24:40](https://news.ycombinator.com/item?id=41006308) - [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags (2017)](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)

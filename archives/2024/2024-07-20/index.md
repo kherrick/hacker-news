@@ -6,6 +6,7 @@
 
 * [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:37:14](https://news.ycombinator.com/item?id=41015731) - [Public toilets are vanishing and that's a civic catastrophe](https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe)
+* [2024-07-20, 11:20:00](https://news.ycombinator.com/item?id=41015667) - [Cofounder matching for indie hackers and bootstrappers](https://indie.cofounderdat.ing)
 * [2024-07-20, 10:33:01](https://news.ycombinator.com/item?id=41015459) - [Crowdstrike CEO was McAfee CTO when big glitch took down large part of Internet](https://twitter.com/anshelsag/status/1814426186933776846)
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 * [2024-07-20, 07:41:27](https://news.ycombinator.com/item?id=41014821) - [No-IT. Really. No. I. T. – R&a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
