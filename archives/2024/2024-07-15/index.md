@@ -36,6 +36,7 @@
 * [2024-07-15, 18:58:15](https://news.ycombinator.com/item?id=40970496) - [Show HN: Projects from the Wolfram Summer Research Program](https://www.wolframcloud.com/obj/microsites/summer-research-high-school/projects.html)
 * [2024-07-15, 18:51:45](https://news.ycombinator.com/item?id=40970420) - [PyTorch Lightning: A Comprehensive Hands-On Tutorial](https://www.datacamp.com/tutorial/pytorch-lightning-tutorial)
 * [2024-07-15, 18:42:26](https://news.ycombinator.com/item?id=40970349) - [Covid-19 Infections and Cognitive Function](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4884504)
+* [2024-07-15, 18:36:53](https://news.ycombinator.com/item?id=40970311) - [Show HN: TargetJ – New JavaScript framework that can animate anything](https://github.com/livetrails/targetj)
 * [2024-07-15, 18:30:45](https://news.ycombinator.com/item?id=40970268) - [Alan Kay – Doing with Images Makes Symbols: Communicating with Computers (1987)](https://archive.org/details/Dr._Alan_Kay_Doing_With_Images_Makes_Symbols_Communicating_With_Computers_1987)
 * [2024-07-15, 18:30:05](https://news.ycombinator.com/item?id=40970261) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 * [2024-07-15, 18:20:38](https://news.ycombinator.com/item?id=40970188) - [Ask HN: Do you have home solar?](https://news.ycombinator.com/item?id=40970188)
