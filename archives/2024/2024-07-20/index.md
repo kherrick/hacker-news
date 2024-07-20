@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 15:22:59](https://news.ycombinator.com/item?id=41017109) - [Farm Manager: An all-in-one farm management desktop application created using C](https://github.com/ApexProgrammer/farm-manager-test)
+* [2024-07-20, 15:18:19](https://news.ycombinator.com/item?id=41017077) - [CrowdStrike debacle provides road map of American vulnerabilities to adversaries](https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html)
 * [2024-07-20, 15:06:15](https://news.ycombinator.com/item?id=41016987) - [Siblings miss crucial life-extending treatment because of CrowdStrike](https://www.kiro7.com/news/local/siblings-miss-crucial-life-extending-treatment-seattle-childrens-because-crowdstrike-outage/Y5EMEXGGQJE7PHDEAEKCWG6U4M/)
 * [2024-07-20, 15:00:37](https://news.ycombinator.com/item?id=41016947) - [Is OpenSUSE at Crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
 * [2024-07-20, 14:33:18](https://news.ycombinator.com/item?id=41016768) - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
