@@ -8,6 +8,7 @@
 * [2024-07-20, 07:41:27](https://news.ycombinator.com/item?id=41014821) - [No-IT. Really. No. I. T. – R&a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
 * [2024-07-20, 05:32:12](https://news.ycombinator.com/item?id=41014323) - [Soda cans burst on Southwest flights due to extreme heat](https://www.npr.org/2024/07/19/nx-s1-5046378/soda-cans-explode-southwest-airlines-flights-extreme-heat)
 * [2024-07-20, 04:36:15](https://news.ycombinator.com/item?id=41014089) - [Google's shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
+* [2024-07-20, 04:27:38](https://news.ycombinator.com/item?id=41014052) - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
 * [2024-07-20, 03:05:06](https://news.ycombinator.com/item?id=41013705) - [Major Fire Breaks Out on Maersk Containership in Arabian Sea](https://gcaptain.com/major-fire-breaks-out-on-maersk-containership-in-arabian-sea/)
 * [2024-07-20, 02:34:35](https://news.ycombinator.com/item?id=41013573) - ['The DOJ's Assault on Apple Will Harm Consumers'](https://reason.com/2024/07/17/the-dojs-assault-on-apple-will-harm-consumers/)
 * [2024-07-20, 02:32:41](https://news.ycombinator.com/item?id=41013563) - [The Cheap 10GbE Switch Buyers Guide](https://www.servethehome.com/the-ultimate-cheap-10gbe-switch-buyers-guide-netgear-ubiquiti-qnap-mikrotik-qct/)
