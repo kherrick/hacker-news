@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud Air-Gapped Appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
 * [2024-07-20, 20:22:05](https://news.ycombinator.com/item?id=41019478) - [Microsoft's global sprawl under fire from regulators after Windows outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/)
 * [2024-07-20, 20:08:01](https://news.ycombinator.com/item?id=41019364) - [Douglas Adams' Starship Titanic game website (1998)](http://starshiptitanic.com/)
 * [2024-07-20, 20:06:46](https://news.ycombinator.com/item?id=41019354) - [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)
@@ -20,6 +21,7 @@
 * [2024-07-20, 17:21:15](https://news.ycombinator.com/item?id=41018029) - [CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed](https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/)
 * [2024-07-20, 17:07:31](https://news.ycombinator.com/item?id=41017925) - [Who Is CrowdStrike CEO George Kurtz?](https://www.independent.co.uk/tech/crowdstrike-george-kurtz-microsoft-outages-b2582962.html)
 * [2024-07-20, 16:58:53](https://news.ycombinator.com/item?id=41017866) - [George Kurtz Crowstrike Founder and CEO](https://www.crowdstrike.com/about-crowdstrike/executive-team/george-kurtz/)
+* [2024-07-20, 16:54:46](https://news.ycombinator.com/item?id=41017834) - [Investing in Rust](https://www.lawfaremedia.org/article/investing-in-rust)
 * [2024-07-20, 15:56:11](https://news.ycombinator.com/item?id=41017367) - [A brief interview with Tcl creator John Ousterhout](https://pldb.io/blog/JohnOusterhout.html)
 * [2024-07-20, 15:46:56](https://news.ycombinator.com/item?id=41017286) - [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
 * [2024-07-20, 15:35:55](https://news.ycombinator.com/item?id=41017188) - [Ask HN: Server-side HTML Templates based on DOM?](https://news.ycombinator.com/item?id=41017188)
