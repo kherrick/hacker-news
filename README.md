@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-20, 02:32:41](https://news.ycombinator.com/item?id=41013563) - [The Cheap 10GbE Switch Buyers Guide](https://www.servethehome.com/the-ultimate-cheap-10gbe-switch-buyers-guide-netgear-ubiquiti-qnap-mikrotik-qct/)
 * [2024-07-20, 01:10:31](https://news.ycombinator.com/item?id=41013159) - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
@@ -16,7 +17,6 @@
 * [2024-07-19, 15:22:02](https://news.ycombinator.com/item?id=41007396) - [Bangladesh imposes curfew after dozens killed in anti-government protests](https://www.washingtonpost.com/world/2024/07/19/bangladesh-demonstrations-police-hasina/)
 * [2024-07-19, 14:31:04](https://news.ycombinator.com/item?id=41006946) - [Instrumenting Python GIL with eBPF](https://coroot.com/blog/instrumenting-python-gil-with-ebpf)
 * [2024-07-19, 13:49:26](https://news.ycombinator.com/item?id=41006565) - [Building the new hypermedia systems](https://dz4k.com/2024/new-hypermedia-systems/)
-* [2024-07-19, 13:47:48](https://news.ycombinator.com/item?id=41006552) - [NASA's Curiosity rover discovers a surprise in a Martian rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
 * [2024-07-19, 13:24:40](https://news.ycombinator.com/item?id=41006308) - [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags (2017)](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
 * [2024-07-19, 11:33:45](https://news.ycombinator.com/item?id=41005181) - [FCC votes to limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 * [2024-07-19, 05:48:08](https://news.ycombinator.com/item?id=41002273) - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
@@ -26,7 +26,7 @@
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 * [2024-07-16, 22:55:14](https://news.ycombinator.com/item?id=40981078) - [Is Mars Habitable? (1907)](https://people.wku.edu/charles.smith/wallace/S730.htm)
 * [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)
-* [2024-07-16, 16:21:13](https://news.ycombinator.com/item?id=40977927) - [We created a fake delivery company to get a job](https://blog.kashevko.com/we-created-a-fake-delivery-company-3/)
+* [2024-07-16, 14:06:42](https://news.ycombinator.com/item?id=40976763) - [Our Wandering Path to Supporting 1000s of Domain Names](https://fusionauth.io/blog/unlimited-domains-fusionauth)
 * [2024-07-16, 14:03:44](https://news.ycombinator.com/item?id=40976731) - [Automerge: A library of data structures for building collaborative applications](https://automerge.org/)
 * [2024-07-16, 13:48:34](https://news.ycombinator.com/item?id=40976593) - [Parametric Matrix Models](https://arxiv.org/abs/2401.11694)
 * [2024-07-15, 22:49:43](https://news.ycombinator.com/item?id=40972147) - [The oldest known recording of a human voice [video]](https://www.bbc.com/reel/video/p0j7x5f7/listen-to-the-oldest-known-recording-of-a-human-voice)
