@@ -64,6 +64,7 @@
 * [2024-07-16, 14:03:44](https://news.ycombinator.com/item?id=40976731) - [Automerge: A library of data structures for building collaborative applications](https://automerge.org/)
 * [2024-07-16, 13:48:34](https://news.ycombinator.com/item?id=40976593) - [Parametric Matrix Models](https://arxiv.org/abs/2401.11694)
 * [2024-07-16, 13:34:07](https://news.ycombinator.com/item?id=40976474) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
+* [2024-07-16, 13:25:52](https://news.ycombinator.com/item?id=40976386) - [AMD MI300X vs. Nvidia H100 LLM Benchmarks](https://blog.runpod.io/amd-mi300x-vs-nvidia-h100-sxm-performance-comparison-on-mixtral-8x7b-inference/)
 * [2024-07-16, 12:56:52](https://news.ycombinator.com/item?id=40976083) - [Xwax Is an Open-Source Digital Vinyl System (DVS) for Linux](https://xwax.org/)
 * [2024-07-16, 12:23:54](https://news.ycombinator.com/item?id=40975855) - [Math is running out of problems](https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b)
 * [2024-07-16, 12:12:42](https://news.ycombinator.com/item?id=40975797) - [UK has almost 1M EV chargers, with new public one installed every 25 minutes](https://www.theguardian.com/business/article/2024/jul/15/electric-vehicle-ev-chargers-uk-installations)
