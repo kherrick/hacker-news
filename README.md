@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-20, 22:37:16](https://news.ycombinator.com/item?id=41020655) - [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
 * [2024-07-20, 21:35:53](https://news.ycombinator.com/item?id=41020165) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
+* [2024-07-20, 20:58:10](https://news.ycombinator.com/item?id=41019829) - [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud air-gapped appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
 * [2024-07-20, 20:33:06](https://news.ycombinator.com/item?id=41019604) - [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
 * [2024-07-20, 20:06:46](https://news.ycombinator.com/item?id=41019354) - [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)
@@ -16,7 +18,6 @@
 * [2024-07-20, 14:13:33](https://news.ycombinator.com/item?id=41016650) - [How to choose a textbook that is optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
 * [2024-07-20, 13:43:24](https://news.ycombinator.com/item?id=41016441) - [10% of Cubans left Cuba between 2022 and 2023](https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html)
 * [2024-07-20, 12:51:01](https://news.ycombinator.com/item?id=41016104) - [1989 Networking: NetWare 386](http://www.os2museum.com/wp/1989-networking-netware-386/)
-* [2024-07-20, 12:34:53](https://news.ycombinator.com/item?id=41016022) - [Memory and ILP handling in 2D convolutions](https://riemani.ca/conv)
 * [2024-07-20, 12:18:21](https://news.ycombinator.com/item?id=41015945) - [Robot dog cleans up beaches with foot-mounted vacuums](https://spectrum.ieee.org/robot-dog-vacuum)
 * [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:03:55](https://news.ycombinator.com/item?id=41015588) - [Aro – Zig's new C compiler](https://github.com/Vexu/arocc)
@@ -27,7 +28,6 @@
 * [2024-07-17, 02:14:21](https://news.ycombinator.com/item?id=40982007) - [The Kimchi Masters of South Korea](https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html)
 * [2024-07-16, 20:48:50](https://news.ycombinator.com/item?id=40980200) - [The Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes [pdf]](https://pages.uoregon.edu/vjs/files/Mayer_Sahakian_etal2021.pdf)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
-* [2024-07-16, 12:56:52](https://news.ycombinator.com/item?id=40976083) - [Xwax Is an Open-Source Digital Vinyl System (DVS) for Linux](https://xwax.org/)
 * [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Large models of what? Mistaking engineering achievements for linguistic agency](https://arxiv.org/abs/2407.08790)
 * [2024-07-15, 18:36:53](https://news.ycombinator.com/item?id=40970311) - [Show HN: TargetJ – New JavaScript framework that can animate anything](https://github.com/livetrails/targetj)
 

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 22:37:16](https://news.ycombinator.com/item?id=41020655) - [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
 * [2024-07-20, 21:35:53](https://news.ycombinator.com/item?id=41020165) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
+* [2024-07-20, 20:58:10](https://news.ycombinator.com/item?id=41019829) - [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud Air-Gapped Appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
 * [2024-07-20, 20:33:06](https://news.ycombinator.com/item?id=41019604) - [Minuteman Missile Communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
 * [2024-07-20, 20:22:05](https://news.ycombinator.com/item?id=41019478) - [Microsoft's global sprawl under fire from regulators after Windows outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/)
