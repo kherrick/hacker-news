@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 21:35:53](https://news.ycombinator.com/item?id=41020165) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud Air-Gapped Appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
 * [2024-07-20, 20:33:06](https://news.ycombinator.com/item?id=41019604) - [Minuteman Missile Communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
 * [2024-07-20, 20:22:05](https://news.ycombinator.com/item?id=41019478) - [Microsoft's global sprawl under fire from regulators after Windows outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/)
@@ -12,6 +13,7 @@
 * [2024-07-20, 20:00:06](https://news.ycombinator.com/item?id=41019291) - [Sun is starting next solar cycle–despite being halfway through its current one](https://phys.org/news/2024-07-early-riser-sun-solar-halfway.html)
 * [2024-07-20, 19:34:17](https://news.ycombinator.com/item?id=41019091) - [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
 * [2024-07-20, 19:30:48](https://news.ycombinator.com/item?id=41019053) - [Young Adulthood Is No Longer One of Life's Happiest Times](https://www.scientificamerican.com/article/young-adulthood-is-no-longer-one-of-lifes-happiest-times/)
+* [2024-07-20, 19:26:01](https://news.ycombinator.com/item?id=41019013) - [Bangladesh police given 'shoot-on-sight' orders amid national curfew](https://www.theguardian.com/world/article/2024/jul/20/bangladesh-police-given-shoot-on-sight-orders-amid-national-curfew)
 * [2024-07-20, 19:18:11](https://news.ycombinator.com/item?id=41018935) - [Are people too flawed, ignorant, and tribal for open societies?](https://www.conspicuouscognition.com/p/are-people-too-flawed-ignorant-and)
 * [2024-07-20, 18:52:19](https://news.ycombinator.com/item?id=41018726) - [Global IT outage shows dangers of cashless society, campaigners say](https://www.theguardian.com/technology/article/2024/jul/20/cash-global-it-outage-cashless-society-dangers-payment-choice-alliance)
 * [2024-07-20, 18:45:37](https://news.ycombinator.com/item?id=41018677) - [Exercise: Minesweeper in 100 lines of clean Ruby](https://radanskoric.com/experiments/minesweeper-100-lines-of-clean-ruby)
