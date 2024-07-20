@@ -6,7 +6,6 @@
 * [2024-07-20, 20:06:46](https://news.ycombinator.com/item?id=41019354) - [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)
 * [2024-07-20, 20:00:06](https://news.ycombinator.com/item?id=41019291) - [Sun is starting next solar cycle–despite being halfway through its current one](https://phys.org/news/2024-07-early-riser-sun-solar-halfway.html)
 * [2024-07-20, 19:34:17](https://news.ycombinator.com/item?id=41019091) - [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
-* [2024-07-20, 19:30:48](https://news.ycombinator.com/item?id=41019053) - [Young Adulthood Is No Longer One of Life's Happiest Times](https://www.scientificamerican.com/article/young-adulthood-is-no-longer-one-of-lifes-happiest-times/)
 * [2024-07-20, 18:45:37](https://news.ycombinator.com/item?id=41018677) - [Exercise: Minesweeper in 100 lines of clean Ruby](https://radanskoric.com/experiments/minesweeper-100-lines-of-clean-ruby)
 * [2024-07-20, 17:54:34](https://news.ycombinator.com/item?id=41018292) - [Google set to purge the Play Store of low-quality apps](https://www.androidauthority.com/google-apps-play-store-3462390/)
 * [2024-07-20, 17:47:16](https://news.ycombinator.com/item?id=41018226) - [How to use the new counted_by attribute in C (and Linux)](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
@@ -24,12 +23,13 @@
 * [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:03:55](https://news.ycombinator.com/item?id=41015588) - [Aro – Zig's new C compiler](https://github.com/Vexu/arocc)
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
+* [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-20, 00:03:52](https://news.ycombinator.com/item?id=41012779) - [Modeling study proposes a diamond layer at the core-mantle boundary on Mercury](https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html)
 * [2024-07-18, 06:10:59](https://news.ycombinator.com/item?id=40992923) - [What to do if you don't want a default constructor?](https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value)
+* [2024-07-17, 02:14:21](https://news.ycombinator.com/item?id=40982007) - [The Kimchi Masters of South Korea](https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html)
 * [2024-07-16, 20:48:50](https://news.ycombinator.com/item?id=40980200) - [The Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes [pdf]](https://pages.uoregon.edu/vjs/files/Mayer_Sahakian_etal2021.pdf)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
 * [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Mistaking Engineering Achievements for Human Linguistic Agency](https://arxiv.org/abs/2407.08790)
-* [2024-07-15, 18:42:26](https://news.ycombinator.com/item?id=40970349) - [Covid-19 Infections and Cognitive Function](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4884504)
 
 ## [Archives](archives/index.md)
 
