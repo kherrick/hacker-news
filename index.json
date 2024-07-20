@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-20, 15:32:32",
+      "https://news.ycombinator.com/item?id=41017172"
+    ],
+    [
+      "Teaching Programming with Basic",
+      "https://lackofimagination.org/2024/07/teaching-programming-with-basic/"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 15:18:19",
       "https://news.ycombinator.com/item?id=41017077"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41016814"
     ],
     [
-      "Journeying into XDP: Fully-fledged DNS service augmentation",
+      "Journeying into XDP: Fully-fledged DNS service augmentation (2022)",
       "https://blog.apnic.net/2022/02/15/journeying-into-xdp-fully-fledged-dns-service-augmentation/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41016768"
     ],
     [
-      "How to pwn a billion dollar VC firm using inspect element",
+      "Researcher finds flaw in a16z website that exposed some company data",
       "https://www.kibty.town/blog/a16z/"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "1989 Networking: NetWare 386",
       "http://www.os2museum.com/wp/1989-networking-netware-386/"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 12:34:53",
+      "https://news.ycombinator.com/item?id=41016022"
+    ],
+    [
+      "Memory and ILP handling in 2D convolutions",
+      "https://riemani.ca/conv"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-19, 16:29:30",
-      "https://news.ycombinator.com/item?id=41008174"
-    ],
-    [
-      "The Later Years of Douglas Adams",
-      "https://www.filfre.net/2024/07/the-later-years-of-douglas-adams/"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 15:22:40",
       "https://news.ycombinator.com/item?id=41007403"
     ],
@@ -227,16 +237,6 @@
     [
       "Building the new hypermedia systems",
       "https://dz4k.com/2024/new-hypermedia-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 13:24:40",
-      "https://news.ycombinator.com/item?id=41006308"
-    ],
-    [
-      "Debugging an evil Go runtime bug: From heat guns to kernel compiler flags (2017)",
-      "https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/"
     ]
   ],
   [
