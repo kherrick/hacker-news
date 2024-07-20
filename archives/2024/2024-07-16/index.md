@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 22:55:14](https://news.ycombinator.com/item?id=40981078) - [Is Mars Habitable? (1907)](https://people.wku.edu/charles.smith/wallace/S730.htm)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981068) - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
 * [2024-07-16, 22:54:26](https://news.ycombinator.com/item?id=40981067) - [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
 * [2024-07-16, 22:26:39](https://news.ycombinator.com/item?id=40980901) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005) [pdf]](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)

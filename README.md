@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-20, 01:19:28](https://news.ycombinator.com/item?id=41013198) - [Technical Details on Today's Outage](https://www.crowdstrike.com/blog/technical-details-on-todays-outage/)
+* [2024-07-20, 02:07:05](https://news.ycombinator.com/item?id=41013403) - [Argentina's economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-19, 23:16:46](https://news.ycombinator.com/item?id=41012443) - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 * [2024-07-19, 22:42:25](https://news.ycombinator.com/item?id=41012193) - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
@@ -10,6 +10,7 @@
 * [2024-07-19, 18:54:26](https://news.ycombinator.com/item?id=41009803) - [What happened to BERT and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
 * [2024-07-19, 17:43:53](https://news.ycombinator.com/item?id=41009023) - [Kompute – Vulkan Alternative to CUDA](https://github.com/KomputeProject/kompute)
 * [2024-07-19, 17:43:44](https://news.ycombinator.com/item?id=41009021) - [A search engine by and for the federal government](https://search.gov/)
+* [2024-07-19, 17:31:42](https://news.ycombinator.com/item?id=41008888) - [CLI tools to build, browse, and blend your media library](https://github.com/chapmanjacobd/library)
 * [2024-07-19, 17:00:06](https://news.ycombinator.com/item?id=41008527) - [Aviator (YC S21) Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-07-19, 16:57:11](https://news.ycombinator.com/item?id=41008488) - [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
 * [2024-07-19, 16:29:30](https://news.ycombinator.com/item?id=41008174) - [The Later Years of Douglas Adams](https://www.filfre.net/2024/07/the-later-years-of-douglas-adams/)
@@ -25,11 +26,10 @@
 * [2024-07-18, 14:34:42](https://news.ycombinator.com/item?id=40995955) - [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
 * [2024-07-18, 01:10:59](https://news.ycombinator.com/item?id=40991687) - [Insect-inspired autonomous navigation strategy for tiny, lightweight robots](https://techxplore.com/news/2024-07-insect-autonomous-strategy-tiny-lightweight.html)
 * [2024-07-17, 19:09:30](https://news.ycombinator.com/item?id=40989263) - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
+* [2024-07-16, 22:55:14](https://news.ycombinator.com/item?id=40981078) - [Is Mars Habitable? (1907)](https://people.wku.edu/charles.smith/wallace/S730.htm)
 * [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)
 * [2024-07-16, 14:03:44](https://news.ycombinator.com/item?id=40976731) - [Automerge: A library of data structures for building collaborative applications](https://automerge.org/)
 * [2024-07-15, 22:49:43](https://news.ycombinator.com/item?id=40972147) - [The oldest known recording of a human voice [video]](https://www.bbc.com/reel/video/p0j7x5f7/listen-to-the-oldest-known-recording-of-a-human-voice)
-* [2024-07-15, 14:32:37](https://news.ycombinator.com/item?id=40968215) - [Visual programming should start in the debugger](https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/)
-* [2024-07-15, 13:55:43](https://news.ycombinator.com/item?id=40967935) - [Artificial neural network approach to finding the key length of Vigenère cipher](https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la)
 
 ## [Archives](archives/index.md)
 
