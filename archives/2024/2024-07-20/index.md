@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+* [2024-07-20, 11:37:14](https://news.ycombinator.com/item?id=41015731) - [Public toilets are vanishing and that's a civic catastrophe](https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe)
 * [2024-07-20, 10:33:01](https://news.ycombinator.com/item?id=41015459) - [Crowdstrike CEO was McAfee CTO when big glitch took down large part of Internet](https://twitter.com/anshelsag/status/1814426186933776846)
+* [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 * [2024-07-20, 07:41:27](https://news.ycombinator.com/item?id=41014821) - [No-IT. Really. No. I. T. – R&a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
 * [2024-07-20, 05:32:12](https://news.ycombinator.com/item?id=41014323) - [Soda cans burst on Southwest flights due to extreme heat](https://www.npr.org/2024/07/19/nx-s1-5046378/soda-cans-explode-southwest-airlines-flights-extreme-heat)
 * [2024-07-20, 04:36:15](https://news.ycombinator.com/item?id=41014089) - [Google's shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
