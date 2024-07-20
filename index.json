@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-20, 15:22:59",
+      "https://news.ycombinator.com/item?id=41017109"
+    ],
+    [
+      "Farm Manager: An all-in-one farm management desktop application created using C",
+      "https://github.com/ApexProgrammer/farm-manager-test"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 15:18:19",
+      "https://news.ycombinator.com/item?id=41017077"
+    ],
+    [
+      "CrowdStrike debacle provides road map of American vulnerabilities to adversaries",
+      "https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 15:06:15",
       "https://news.ycombinator.com/item?id=41016987"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-07-19, 18:54:26",
-      "https://news.ycombinator.com/item?id=41009803"
-    ],
-    [
-      "What happened to BERT and T5?",
-      "https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 17:43:53",
       "https://news.ycombinator.com/item?id=41009023"
     ],
@@ -217,16 +227,6 @@
     [
       "Building the new hypermedia systems",
       "https://dz4k.com/2024/new-hypermedia-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 13:24:40",
-      "https://news.ycombinator.com/item?id=41006308"
-    ],
-    [
-      "Debugging an evil Go runtime bug: From heat guns to kernel compiler flags (2017)",
-      "https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/"
     ]
   ],
   [
