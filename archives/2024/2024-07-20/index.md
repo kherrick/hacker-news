@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 15:56:11](https://news.ycombinator.com/item?id=41017367) - [A brief interview with Tcl creator John Ousterhout](https://pldb.io/blog/JohnOusterhout.html)
+* [2024-07-20, 15:35:55](https://news.ycombinator.com/item?id=41017188) - [Ask HN: Server-side HTML Templates based on DOM?](https://news.ycombinator.com/item?id=41017188)
 * [2024-07-20, 15:32:32](https://news.ycombinator.com/item?id=41017172) - [Teaching Programming with Basic](https://lackofimagination.org/2024/07/teaching-programming-with-basic/)
 * [2024-07-20, 15:22:59](https://news.ycombinator.com/item?id=41017109) - [Farm Manager: An all-in-one farm management desktop application created using C](https://github.com/ApexProgrammer/farm-manager-test)
 * [2024-07-20, 15:18:19](https://news.ycombinator.com/item?id=41017077) - [CrowdStrike debacle provides road map of American vulnerabilities to adversaries](https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html)
