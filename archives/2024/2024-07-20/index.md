@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
 * [2024-07-20, 20:08:01](https://news.ycombinator.com/item?id=41019364) - [Douglas Adams' Starship Titanic game website (1998)](http://starshiptitanic.com/)
+* [2024-07-20, 20:00:06](https://news.ycombinator.com/item?id=41019291) - [Sun is starting next solar cycle–despite being halfway through its current one](https://phys.org/news/2024-07-early-riser-sun-solar-halfway.html)
 * [2024-07-20, 19:34:17](https://news.ycombinator.com/item?id=41019091) - [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
 * [2024-07-20, 19:30:48](https://news.ycombinator.com/item?id=41019053) - [Young Adulthood Is No Longer One of Life's Happiest Times](https://www.scientificamerican.com/article/young-adulthood-is-no-longer-one-of-lifes-happiest-times/)
 * [2024-07-20, 19:18:11](https://news.ycombinator.com/item?id=41018935) - [Are people too flawed, ignorant, and tribal for open societies?](https://www.conspicuouscognition.com/p/are-people-too-flawed-ignorant-and)

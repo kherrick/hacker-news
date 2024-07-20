@@ -70,6 +70,7 @@
 * [2024-07-16, 12:12:42](https://news.ycombinator.com/item?id=40975797) - [UK has almost 1M EV chargers, with new public one installed every 25 minutes](https://www.theguardian.com/business/article/2024/jul/15/electric-vehicle-ev-chargers-uk-installations)
 * [2024-07-16, 11:57:38](https://news.ycombinator.com/item?id=40975691) - [The science behind an iPhone dumb phone](https://dumbph.com/the-science-behind-an-iphone-dumb-phone/)
 * [2024-07-16, 11:25:06](https://news.ycombinator.com/item?id=40975509) - [Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
+* [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Mistaking Engineering Achievements for Human Linguistic Agency](https://arxiv.org/abs/2407.08790)
 * [2024-07-16, 10:49:27](https://news.ycombinator.com/item?id=40975289) - [A hard look at AWS GuardDuty shortcomings](https://tracebit.com/blog/a-hard-look-at-guardduty-shortcomings)
 * [2024-07-16, 10:35:56](https://news.ycombinator.com/item?id=40975214) - [PS-HTTPD: a web server written in PostScript](https://www.pugo.org/projects/pshttpd/)
 * [2024-07-16, 09:08:04](https://news.ycombinator.com/item?id=40974768) - [Ask HN: How can I find something worthwhile to do?](https://news.ycombinator.com/item?id=40974768)
