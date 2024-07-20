@@ -8,6 +8,7 @@
 * [2024-07-20, 15:18:19](https://news.ycombinator.com/item?id=41017077) - [CrowdStrike debacle provides road map of American vulnerabilities to adversaries](https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html)
 * [2024-07-20, 15:06:15](https://news.ycombinator.com/item?id=41016987) - [Siblings miss crucial life-extending treatment because of CrowdStrike](https://www.kiro7.com/news/local/siblings-miss-crucial-life-extending-treatment-seattle-childrens-because-crowdstrike-outage/Y5EMEXGGQJE7PHDEAEKCWG6U4M/)
 * [2024-07-20, 15:00:37](https://news.ycombinator.com/item?id=41016947) - [Is OpenSUSE at Crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
+* [2024-07-20, 14:42:02](https://news.ycombinator.com/item?id=41016814) - [Journeying into XDP: Fully-fledged DNS service augmentation](https://blog.apnic.net/2022/02/15/journeying-into-xdp-fully-fledged-dns-service-augmentation/)
 * [2024-07-20, 14:33:18](https://news.ycombinator.com/item?id=41016768) - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
 * [2024-07-20, 14:32:50](https://news.ycombinator.com/item?id=41016762) - [A Physical instance of recursion, from 1936](https://en.wikipedia.org/wiki/Bourton-on-the-Water_model_village)
 * [2024-07-20, 14:13:33](https://news.ycombinator.com/item?id=41016650) - [How to choose a textbook that is pedagogically optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
