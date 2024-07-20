@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-20, 18:52:19](https://news.ycombinator.com/item?id=41018726) - [Global IT outage shows dangers of cashless society, campaigners say](https://www.theguardian.com/technology/article/2024/jul/20/cash-global-it-outage-cashless-society-dangers-payment-choice-alliance)
 * [2024-07-20, 17:47:16](https://news.ycombinator.com/item?id=41018226) - [How to use the new counted_by attribute in C (and Linux)](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
 * [2024-07-20, 17:39:28](https://news.ycombinator.com/item?id=41018172) - [The Luckfox Pico Mini B – Linux in a Thumbnail](https://taoofmac.com/space/blog/2024/07/20/1800)
 * [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
@@ -17,7 +18,6 @@
 * [2024-07-20, 12:34:53](https://news.ycombinator.com/item?id=41016022) - [Memory and ILP handling in 2D convolutions](https://riemani.ca/conv)
 * [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:03:55](https://news.ycombinator.com/item?id=41015588) - [Aro – Zig's new C compiler](https://github.com/Vexu/arocc)
-* [2024-07-20, 08:32:15](https://news.ycombinator.com/item?id=41015025) - [New Nano-Tech to Control the Brain Using Magnetic Fields](https://www.ibs.re.kr/cop/bbs/BBSMSTR_000000000738/selectBoardArticle.do?nttId=24921)
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 * [2024-07-20, 04:27:38](https://news.ycombinator.com/item?id=41014052) - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
