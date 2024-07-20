@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-20, 15:18:19](https://news.ycombinator.com/item?id=41017077) - [CrowdStrike debacle provides road map of American vulnerabilities to adversaries](https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html)
-* [2024-07-20, 15:06:15](https://news.ycombinator.com/item?id=41016987) - [Siblings miss crucial life-extending treatment because of CrowdStrike](https://www.kiro7.com/news/local/siblings-miss-crucial-life-extending-treatment-seattle-childrens-because-crowdstrike-outage/Y5EMEXGGQJE7PHDEAEKCWG6U4M/)
 * [2024-07-20, 15:00:37](https://news.ycombinator.com/item?id=41016947) - [Is OpenSUSE at Crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
 * [2024-07-20, 14:42:02](https://news.ycombinator.com/item?id=41016814) - [Journeying into XDP: Fully-fledged DNS service augmentation](https://blog.apnic.net/2022/02/15/journeying-into-xdp-fully-fledged-dns-service-augmentation/)
 * [2024-07-20, 14:33:18](https://news.ycombinator.com/item?id=41016768) - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
@@ -27,6 +26,7 @@
 * [2024-07-19, 13:24:40](https://news.ycombinator.com/item?id=41006308) - [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags (2017)](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-17, 02:14:21](https://news.ycombinator.com/item?id=40982007) - [The Kimchi Masters of South Korea Can Teach You a Thing or Two](https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html)
+* [2024-07-16, 20:48:50](https://news.ycombinator.com/item?id=40980200) - [The Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes [pdf]](https://pages.uoregon.edu/vjs/files/Mayer_Sahakian_etal2021.pdf)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
 * [2024-07-16, 14:03:44](https://news.ycombinator.com/item?id=40976731) - [Automerge: A library of data structures for building collaborative applications](https://automerge.org/)
 * [2024-07-16, 12:56:52](https://news.ycombinator.com/item?id=40976083) - [Xwax Is an Open-Source Digital Vinyl System (DVS) for Linux](https://xwax.org/)

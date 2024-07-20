@@ -13,6 +13,7 @@
 * [2024-07-16, 21:00:55](https://news.ycombinator.com/item?id=40980289) - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
 * [2024-07-16, 20:55:05](https://news.ycombinator.com/item?id=40980253) - [Who's got the guts to go to the moon?](https://www.experimental-history.com/p/whos-got-the-guts-to-go-to-the-moon)
 * [2024-07-16, 20:49:16](https://news.ycombinator.com/item?id=40980202) - [Anna’s Archive approaching 1 petabyte](https://annas-archive.org/blog/critical-window.html)
+* [2024-07-16, 20:48:50](https://news.ycombinator.com/item?id=40980200) - [The Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes [pdf]](https://pages.uoregon.edu/vjs/files/Mayer_Sahakian_etal2021.pdf)
 * [2024-07-16, 19:58:22](https://news.ycombinator.com/item?id=40979759) - [The VR Winter Continues](https://www.ben-evans.com/benedictevans/2024/7/8/the-vr-winter-continues)
 * [2024-07-16, 19:50:20](https://news.ycombinator.com/item?id=40979684) - [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
 * [2024-07-16, 19:47:33](https://news.ycombinator.com/item?id=40979654) - [Framasoft – French non-profit making cloud OSS](https://framasoft.org/en/)
