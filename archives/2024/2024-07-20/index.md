@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 * [2024-07-20, 17:21:15](https://news.ycombinator.com/item?id=41018029) - [CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed](https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/)
 * [2024-07-20, 17:07:31](https://news.ycombinator.com/item?id=41017925) - [Who Is CrowdStrike CEO George Kurtz?](https://www.independent.co.uk/tech/crowdstrike-george-kurtz-microsoft-outages-b2582962.html)
 * [2024-07-20, 16:58:53](https://news.ycombinator.com/item?id=41017866) - [George Kurtz Crowstrike Founder and CEO](https://www.crowdstrike.com/about-crowdstrike/executive-team/george-kurtz/)
@@ -19,6 +20,7 @@
 * [2024-07-20, 14:33:18](https://news.ycombinator.com/item?id=41016768) - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
 * [2024-07-20, 14:32:50](https://news.ycombinator.com/item?id=41016762) - [A Physical instance of recursion, from 1936](https://en.wikipedia.org/wiki/Bourton-on-the-Water_model_village)
 * [2024-07-20, 14:13:33](https://news.ycombinator.com/item?id=41016650) - [How to choose a textbook that is pedagogically optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
+* [2024-07-20, 13:43:24](https://news.ycombinator.com/item?id=41016441) - [10% of Cubans have left Cuba in the last year](https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html)
 * [2024-07-20, 13:32:21](https://news.ycombinator.com/item?id=41016373) - [Ask HN: Can anyone from Crowdstrike explain the back story?](https://news.ycombinator.com/item?id=41016373)
 * [2024-07-20, 13:21:00](https://news.ycombinator.com/item?id=41016290) - [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
 * [2024-07-20, 12:51:01](https://news.ycombinator.com/item?id=41016104) - [1989 Networking: NetWare 386](http://www.os2museum.com/wp/1989-networking-netware-386/)
@@ -44,3 +46,4 @@
 * [2024-07-20, 01:19:28](https://news.ycombinator.com/item?id=41013198) - [Technical Details on Today's Outage](https://www.crowdstrike.com/blog/technical-details-on-todays-outage/)
 * [2024-07-20, 01:10:31](https://news.ycombinator.com/item?id=41013159) - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 * [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
+* [2024-07-20, 00:03:52](https://news.ycombinator.com/item?id=41012779) - [Modeling study proposes a diamond layer at the core-mantle boundary on Mercury](https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html)
