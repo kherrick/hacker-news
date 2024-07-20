@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-20, 03:05:06",
-      "https://news.ycombinator.com/item?id=41013705"
+      "2024-07-20, 02:34:35",
+      "https://news.ycombinator.com/item?id=41013573"
     ],
     [
-      "Major Fire Breaks Out on Maersk Containership in Arabian Sea",
-      "https://gcaptain.com/major-fire-breaks-out-on-maersk-containership-in-arabian-sea/"
+      "'The DOJ's Assault on Apple Will Harm Consumers'",
+      "https://reason.com/2024/07/17/the-dojs-assault-on-apple-will-harm-consumers/"
     ]
   ],
   [
@@ -61,32 +61,12 @@
   ],
   [
     [
-      "2024-07-19, 19:57:03",
-      "https://news.ycombinator.com/item?id=41010458"
-    ],
-    [
-      "The European Union must keep funding free software",
-      "https://pad.public.cat/lettre-NCP-NGI"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 19:28:39",
       "https://news.ycombinator.com/item?id=41010188"
     ],
     [
       "AI paid for by Ads – the GPT-4o mini inflection point",
       "https://batchmon.com/blog/ai-cheaper-than-ads/"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 19:07:48",
-      "https://news.ycombinator.com/item?id=41009942"
-    ],
-    [
-      "Never Update Anything",
-      "https://blog.kronis.dev/articles/never-update-anything"
     ]
   ],
   [
@@ -117,6 +97,16 @@
     [
       "A search engine by and for the federal government",
       "https://search.gov/"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 17:31:42",
+      "https://news.ycombinator.com/item?id=41008888"
+    ],
+    [
+      "CLI tools to build, browse, and blend your media library",
+      "https://github.com/chapmanjacobd/library"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=41006565"
     ],
     [
-      "Building the New Hypermedia Systems",
+      "Building the new hypermedia systems",
       "https://dz4k.com/2024/new-hypermedia-systems/"
     ]
   ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2024-07-18, 01:10:59",
-      "https://news.ycombinator.com/item?id=40991687"
+      "2024-07-17, 19:09:30",
+      "https://news.ycombinator.com/item?id=40989263"
     ],
     [
-      "Insect-inspired autonomous navigation strategy for tiny, lightweight robots",
-      "https://techxplore.com/news/2024-07-insect-autonomous-strategy-tiny-lightweight.html"
+      "Graunt and Statistics",
+      "https://www.delanceyplace.com/view-archives.php?5092"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Automerge: A library of data structures for building collaborative applications",
       "https://automerge.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 13:48:34",
+      "https://news.ycombinator.com/item?id=40976593"
+    ],
+    [
+      "Parametric Matrix Models",
+      "https://arxiv.org/abs/2401.11694"
     ]
   ],
   [
