@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-20, 16:58:53",
-      "https://news.ycombinator.com/item?id=41017866"
+      "2024-07-20, 17:07:31",
+      "https://news.ycombinator.com/item?id=41017925"
     ],
     [
-      "George Kurtz Crowstrike Founder and CEO",
-      "https://www.crowdstrike.com/about-crowdstrike/executive-team/george-kurtz/"
+      "Who Is CrowdStrike CEO George Kurtz?",
+      "https://www.independent.co.uk/tech/crowdstrike-george-kurtz-microsoft-outages-b2582962.html"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41017367"
     ],
     [
-      "A brief interview with Tcl creator John Ousterhout",
+      "A brief interview with Tcl creator John Ousterhout (2023)",
       "https://pldb.io/blog/JohnOusterhout.html"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "CrowdStrike debacle provides road map of American vulnerabilities to adversaries",
       "https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 15:00:37",
-      "https://news.ycombinator.com/item?id=41016947"
-    ],
-    [
-      "Is OpenSUSE at Crossroads?",
-      "https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/"
     ]
   ],
   [
@@ -127,16 +117,6 @@
     [
       "Memory and ILP handling in 2D convolutions",
       "https://riemani.ca/conv"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 12:20:21",
-      "https://news.ycombinator.com/item?id=41015963"
-    ],
-    [
-      "Sentinel-free schemas: a thought experiment",
-      "https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-07-19, 22:42:25",
+      "https://news.ycombinator.com/item?id=41012193"
+    ],
+    [
+      "Multisatellite data depicts a record-breaking methane leak from a well blowout",
+      "https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 17:43:53",
       "https://news.ycombinator.com/item?id=41009023"
     ],
@@ -227,6 +217,16 @@
     [
       "Playing guitar tablatures in Rust",
       "https://agourlay.github.io/ruxguitar-tablature-player/"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 15:22:40",
+      "https://news.ycombinator.com/item?id=41007403"
+    ],
+    [
+      "Show HN: Sendune – open-source HTML email designer",
+      "https://news.ycombinator.com/item?id=41007403"
     ]
   ],
   [
