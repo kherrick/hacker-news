@@ -23,6 +23,7 @@
 * [2024-07-16, 18:56:07](https://news.ycombinator.com/item?id=40979221) - [HuggingFace: Scaling open source community 300%/yr with No OKRs and No Meetings](https://dx.tips/huggingface)
 * [2024-07-16, 18:37:35](https://news.ycombinator.com/item?id=40979074) - [Europe's fate is in Germany's hands now](https://www.noahpinion.blog/p/europes-fate-is-in-germanys-hands)
 * [2024-07-16, 18:19:11](https://news.ycombinator.com/item?id=40978919) - [Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
+* [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a Bignum Library for Fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-16, 18:07:57](https://news.ycombinator.com/item?id=40978820) - [10-acre underground home and gardens in Fresno (2023) [video]](https://www.youtube.com/watch?v=mUKRPoQKynk)
 * [2024-07-16, 18:04:29](https://news.ycombinator.com/item?id=40978793) - [Electric Clouds This Summer](https://nautil.us/dont-miss-the-electric-clouds-this-summer-704313/)

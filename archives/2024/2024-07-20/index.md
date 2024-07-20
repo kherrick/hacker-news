@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 15:06:15](https://news.ycombinator.com/item?id=41016987) - [Siblings miss crucial life-extending treatment because of CrowdStrike](https://www.kiro7.com/news/local/siblings-miss-crucial-life-extending-treatment-seattle-childrens-because-crowdstrike-outage/Y5EMEXGGQJE7PHDEAEKCWG6U4M/)
 * [2024-07-20, 15:00:37](https://news.ycombinator.com/item?id=41016947) - [Is OpenSUSE at Crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
 * [2024-07-20, 14:33:18](https://news.ycombinator.com/item?id=41016768) - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
 * [2024-07-20, 14:32:50](https://news.ycombinator.com/item?id=41016762) - [A Physical instance of recursion, from 1936](https://en.wikipedia.org/wiki/Bourton-on-the-Water_model_village)
