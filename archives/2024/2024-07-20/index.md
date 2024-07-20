@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
 * [2024-07-20, 13:21:00](https://news.ycombinator.com/item?id=41016290) - [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
+* [2024-07-20, 12:51:01](https://news.ycombinator.com/item?id=41016104) - [1989 Networking: NetWare 386](http://www.os2museum.com/wp/1989-networking-netware-386/)
 * [2024-07-20, 12:18:21](https://news.ycombinator.com/item?id=41015945) - [Robot Dog Cleans Up Beaches with Foot-Mounted Vacuums](https://spectrum.ieee.org/robot-dog-vacuum)
 * [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:37:14](https://news.ycombinator.com/item?id=41015731) - [Public toilets are vanishing and that's a civic catastrophe](https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe)
