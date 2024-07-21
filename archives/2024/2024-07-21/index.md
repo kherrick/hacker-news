@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 18:36:49](https://news.ycombinator.com/item?id=41027112) - [Club Mate: The Lost History of Germany's Trendiest Soda [video]](https://www.youtube.com/watch?v=fg6dFhQOk4w)
 * [2024-07-21, 18:18:01](https://news.ycombinator.com/item?id=41026968) - [Atlassian research highlights major disconnect between developers and leaders](https://www.atlassian.com/blog/developer/developer-experience-report-2024)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815080881981190320)
+* [2024-07-21, 17:36:27](https://news.ycombinator.com/item?id=41026647) - [GPG and Me](https://moxie.org/2015/02/24/gpg-and-me.html)
 * [2024-07-21, 17:28:26](https://news.ycombinator.com/item?id=41026592) - [CrowdStrike update that caused global outage likely skipped checks](https://www.reuters.com/technology/cybersecurity/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say-2024-07-20/)
 * [2024-07-21, 17:27:33](https://news.ycombinator.com/item?id=41026583) - [Tesla Sales Drop 17% in California](https://cleantechnica.com/2024/07/19/tesla-sales-drop-17-in-california/)
 * [2024-07-21, 17:21:53](https://news.ycombinator.com/item?id=41026542) - [China is on track to reach its 2030 clean energy targets already](https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/)
