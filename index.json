@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-21, 21:48:09",
+      "https://news.ycombinator.com/item?id=41028470"
+    ],
+    [
+      "Food Without Agriculture",
+      "https://www.nature.com/articles/s41893-023-01241-2"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 21:15:04",
       "https://news.ycombinator.com/item?id=41028190"
     ],
@@ -157,16 +167,6 @@
     [
       "Prometheus metrics saves us from painful kernel debugging (2022)",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 09:09:03",
-      "https://news.ycombinator.com/item?id=41023613"
-    ],
-    [
-      "Show HN: I made helpers for Web Components",
-      "https://github.com/mfcc64/wc-helpers"
     ]
   ],
   [
