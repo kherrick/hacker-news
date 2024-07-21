@@ -9,7 +9,7 @@
 * [2024-07-21, 10:34:05](https://news.ycombinator.com/item?id=41024005) - [Prometheus metrics saves us from painful kernel debugging](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs)
 * [2024-07-21, 10:31:11](https://news.ycombinator.com/item?id=41023996) - [The one person in America happy about tipping fatigue](https://thehustle.co/originals/the-one-person-in-america-happy-about-tipping-fatigue)
 * [2024-07-21, 10:27:42](https://news.ycombinator.com/item?id=41023979) - [American Institute of Mathematics: Approved Open Textbooks](https://textbooks.aimath.org/textbooks/approved-textbooks/)
-* [2024-07-21, 09:47:22](https://news.ycombinator.com/item?id=41023801) - [Let's blame the dev who pressed \"Deploy\"](https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/)
+* [2024-07-21, 09:09:03](https://news.ycombinator.com/item?id=41023613) - [Show HN: I made helpers for Web Components](https://github.com/mfcc64/wc-helpers)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
 * [2024-07-21, 06:23:31](https://news.ycombinator.com/item?id=41022890) - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
