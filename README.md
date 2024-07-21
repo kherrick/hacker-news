@@ -27,9 +27,9 @@
 * [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
 * [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 * [2024-07-19, 18:15:43](https://news.ycombinator.com/item?id=41009371) - [The Plague of Lust: A History of Venereal Disease in Antiquity (1901 Edition)](https://publicdomainreview.org/collection/the-plague-of-lust/)
+* [2024-07-16, 18:47:34](https://news.ycombinator.com/item?id=40979146) - [Rosey Grier: From NFL Football to Knitting and Needlework (2023)](https://www.crochetconcupiscence.com/unique-1970s-crocheter-pro-football-player-rosey-grier/)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
-* [2024-07-16, 11:44:54](https://news.ycombinator.com/item?id=40975625) - [NHRA's Alan Reinhart Explains Why John Force's Parachutes Failed to Deploy](https://bangshift.com/bangshift1320/john-force-crash-news-nhras-alan-reinhart-explains-why-john-forces-parachutes-failed-to-deploy-in-richmond/)
 
 ## [Archives](archives/index.md)
 
