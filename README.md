@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
 * [2024-07-21, 07:13:39](https://news.ycombinator.com/item?id=41023138) - [Syscall.sh](https://syscall.sh/)
 * [2024-07-21, 07:01:49](https://news.ycombinator.com/item?id=41023086) - [\"Any sufficiently bad software update is indistinguishable from a cyberattack\"](https://twitter.com/leighhoneywell/status/1814278230704111792)
@@ -25,7 +26,6 @@
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 * [2024-07-20, 00:03:52](https://news.ycombinator.com/item?id=41012779) - [Modeling study proposes a diamond layer at the core-mantle boundary on Mercury](https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html)
 * [2024-07-18, 05:56:36](https://news.ycombinator.com/item?id=40992854) - [SKI Combinator Calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
-* [2024-07-17, 13:39:08](https://news.ycombinator.com/item?id=40985815) - [Former Bungie, Pokémon lawyer explains how they caught leakers](https://www.bloomberg.com/news/newsletters/2024-07-12/former-bungie-pokemon-lawyer-explains-how-they-caught-leakers)
 * [2024-07-16, 20:48:50](https://news.ycombinator.com/item?id=40980200) - [The Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes [pdf]](https://pages.uoregon.edu/vjs/files/Mayer_Sahakian_etal2021.pdf)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
