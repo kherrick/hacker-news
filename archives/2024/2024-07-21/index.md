@@ -6,6 +6,7 @@
 
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
+* [2024-07-21, 07:40:50](https://news.ycombinator.com/item?id=41023251) - [Ask HN: Where to find the cheapest proxies for web scraping?](https://news.ycombinator.com/item?id=41023251)
 * [2024-07-21, 07:13:39](https://news.ycombinator.com/item?id=41023138) - [Syscall.sh](https://syscall.sh/)
 * [2024-07-21, 07:01:49](https://news.ycombinator.com/item?id=41023086) - [\"Any sufficiently bad software update is indistinguishable from a cyberattack\"](https://twitter.com/leighhoneywell/status/1814278230704111792)
 * [2024-07-21, 06:23:31](https://news.ycombinator.com/item?id=41022890) - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
