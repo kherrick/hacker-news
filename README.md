@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-21, 19:05:36](https://news.ycombinator.com/item?id=41027320) - [NYT: The Data That Powers AI Is Disappearing Fast](https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html)
+* [2024-07-21, 19:45:36](https://news.ycombinator.com/item?id=41027588) - [1968 Democratic National Convention](https://en.wikipedia.org/wiki/1968_Democratic_National_Convention)
 * [2024-07-21, 18:57:03](https://news.ycombinator.com/item?id=41027265) - [Ask HN: What resources do you recommend for learning Haskell?](https://news.ycombinator.com/item?id=41027265)
 * [2024-07-21, 17:28:43](https://news.ycombinator.com/item?id=41026594) - [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
 * [2024-07-21, 17:01:10](https://news.ycombinator.com/item?id=41026396) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
