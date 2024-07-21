@@ -1,12 +1,52 @@
 [
   [
     [
-      "2024-07-20, 22:37:16",
-      "https://news.ycombinator.com/item?id=41020655"
+      "2024-07-21, 01:04:02",
+      "https://news.ycombinator.com/item?id=41021569"
     ],
     [
-      "Microsoft says 8.5M Windows devices were affected by CrowdStrike outage",
-      "https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/"
+      "\"Maxwell's equations of software\" examined",
+      "https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 00:38:31",
+      "https://news.ycombinator.com/item?id=41021472"
+    ],
+    [
+      "Deluge of Fake Mac App Store Reviews",
+      "https://lapcatsoftware.com/articles/2024/7/1.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 00:31:50",
+      "https://news.ycombinator.com/item?id=41021436"
+    ],
+    [
+      "Show HN: JSON-Threat-Protection Rust High-Performance Crate",
+      "https://github.com/ADD-SP/json-threat-protection.rs"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 00:17:34",
+      "https://news.ycombinator.com/item?id=41021366"
+    ],
+    [
+      "Initial details about why CrowdStrike's CSAgent.sys crashed",
+      "https://twitter.com/patrickwardle/status/1814343502886477857"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 23:27:54",
+      "https://news.ycombinator.com/item?id=41021029"
+    ],
+    [
+      "Empathy for the user having sex with your software",
+      "https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2024-07-20, 17:47:16",
-      "https://news.ycombinator.com/item?id=41018226"
-    ],
-    [
-      "How to use the new counted_by attribute in C (and Linux)",
-      "https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux"
-    ]
-  ],
-  [
-    [
       "2024-07-20, 17:34:52",
       "https://news.ycombinator.com/item?id=41018135"
     ],
@@ -117,16 +147,6 @@
     [
       "Human parasites in the Roman World: health consequences of conquering an empire",
       "https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 15:18:19",
-      "https://news.ycombinator.com/item?id=41017077"
-    ],
-    [
-      "CrowdStrike debacle provides road map of American vulnerabilities to adversaries",
-      "https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-20, 00:40:31",
-      "https://news.ycombinator.com/item?id=41013004"
-    ],
-    [
-      "Garage: Open-Source Distributed Object Storage",
-      "https://garagehq.deuxfleurs.fr/"
-    ]
-  ],
-  [
-    [
       "2024-07-20, 00:03:52",
       "https://news.ycombinator.com/item?id=41012779"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2024-07-17, 02:14:21",
-      "https://news.ycombinator.com/item?id=40982007"
+      "2024-07-16, 21:47:34",
+      "https://news.ycombinator.com/item?id=40980639"
     ],
     [
-      "The Kimchi Masters of South Korea",
-      "https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html"
+      "Invalid SMILES beneficial rather than detrimental to chemical language models",
+      "https://www.nature.com/articles/s42256-024-00821-x"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-07-16, 12:56:52",
-      "https://news.ycombinator.com/item?id=40976083"
+      "2024-07-16, 18:12:33",
+      "https://news.ycombinator.com/item?id=40978865"
     ],
     [
-      "Xwax Is an Open-Source Digital Vinyl System (DVS) for Linux",
-      "https://xwax.org/"
+      "Whose bug is this anyway? (2012)",
+      "https://www.codeofhonor.com/blog/whose-bug-is-this-anyway"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Large models of what? Mistaking engineering achievements for linguistic agency",
       "https://arxiv.org/abs/2407.08790"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 05:29:15",
-      "https://news.ycombinator.com/item?id=40973851"
-    ],
-    [
-      "Consummated in Exile",
-      "https://theamericanscholar.org/consummated-in-exile/"
     ]
   ],
   [
