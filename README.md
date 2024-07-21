@@ -24,7 +24,7 @@
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 * [2024-07-20, 00:03:52](https://news.ycombinator.com/item?id=41012779) - [Modeling study proposes a diamond layer at the core-mantle boundary on Mercury](https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html)
 * [2024-07-18, 06:10:59](https://news.ycombinator.com/item?id=40992923) - [What to do if you don't want a default constructor?](https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value)
-* [2024-07-17, 13:39:08](https://news.ycombinator.com/item?id=40985815) - [Former Bungie, Pokémon Lawyer Explains How They Caught Leakers](https://www.bloomberg.com/news/newsletters/2024-07-12/former-bungie-pokemon-lawyer-explains-how-they-caught-leakers)
+* [2024-07-17, 13:39:08](https://news.ycombinator.com/item?id=40985815) - [Former Bungie, Pokémon lawyer explains how they caught leakers](https://www.bloomberg.com/news/newsletters/2024-07-12/former-bungie-pokemon-lawyer-explains-how-they-caught-leakers)
 * [2024-07-16, 21:47:34](https://news.ycombinator.com/item?id=40980639) - [Invalid SMILES beneficial rather than detrimental to chemical language models](https://www.nature.com/articles/s42256-024-00821-x)
 * [2024-07-16, 20:48:50](https://news.ycombinator.com/item?id=40980200) - [The Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes [pdf]](https://pages.uoregon.edu/vjs/files/Mayer_Sahakian_etal2021.pdf)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
