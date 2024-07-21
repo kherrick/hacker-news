@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 01:25:05](https://news.ycombinator.com/item?id=41021636) - [Qualcomm makes its AI models available to app developers](https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-makes-its-ai-models-available-to-app-developers)
 * [2024-07-21, 01:04:02](https://news.ycombinator.com/item?id=41021569) - [\"Maxwell's equations of software\" examined](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 * [2024-07-21, 00:38:31](https://news.ycombinator.com/item?id=41021472) - [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
 * [2024-07-21, 00:31:50](https://news.ycombinator.com/item?id=41021436) - [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
@@ -19,9 +20,9 @@
 * [2024-07-20, 13:43:24](https://news.ycombinator.com/item?id=41016441) - [10% of Cubans left Cuba between 2022 and 2023](https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html)
 * [2024-07-20, 12:51:01](https://news.ycombinator.com/item?id=41016104) - [1989 Networking: NetWare 386](http://www.os2museum.com/wp/1989-networking-netware-386/)
 * [2024-07-20, 12:18:21](https://news.ycombinator.com/item?id=41015945) - [Robot dog cleans up beaches with foot-mounted vacuums](https://spectrum.ieee.org/robot-dog-vacuum)
-* [2024-07-20, 12:01:28](https://news.ycombinator.com/item?id=41015855) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-07-20, 11:03:55](https://news.ycombinator.com/item?id=41015588) - [Aro – Zig's new C compiler](https://github.com/Vexu/arocc)
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
+* [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-20, 00:03:52](https://news.ycombinator.com/item?id=41012779) - [Modeling study proposes a diamond layer at the core-mantle boundary on Mercury](https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html)
 * [2024-07-18, 06:10:59](https://news.ycombinator.com/item?id=40992923) - [What to do if you don't want a default constructor?](https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value)
 * [2024-07-16, 21:47:34](https://news.ycombinator.com/item?id=40980639) - [Invalid SMILES beneficial rather than detrimental to chemical language models](https://www.nature.com/articles/s42256-024-00821-x)
@@ -29,7 +30,6 @@
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
 * [2024-07-16, 18:12:33](https://news.ycombinator.com/item?id=40978865) - [Whose bug is this anyway? (2012)](https://www.codeofhonor.com/blog/whose-bug-is-this-anyway)
 * [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Large models of what? Mistaking engineering achievements for linguistic agency](https://arxiv.org/abs/2407.08790)
-* [2024-07-15, 18:36:53](https://news.ycombinator.com/item?id=40970311) - [Show HN: TargetJ – New JavaScript framework that can animate anything](https://github.com/livetrails/targetj)
 
 ## [Archives](archives/index.md)
 
