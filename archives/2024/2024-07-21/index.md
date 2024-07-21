@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 12:32:10](https://news.ycombinator.com/item?id=41024633) - [User returns after 100k-hours ban to continue conversation that got them banned](https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/)
+* [2024-07-21, 11:47:28](https://news.ycombinator.com/item?id=41024408) - [New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints](https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959)
+* [2024-07-21, 09:47:22](https://news.ycombinator.com/item?id=41023801) - [Let's blame the dev who pressed \"Deploy\"](https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
 * [2024-07-21, 07:40:50](https://news.ycombinator.com/item?id=41023251) - [Ask HN: Where to find the cheapest proxies for web scraping?](https://news.ycombinator.com/item?id=41023251)
