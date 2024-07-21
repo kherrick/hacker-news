@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 15:26:18](https://news.ycombinator.com/item?id=41025775) - [Spaced mathematics practice improves test scores and reduces overconfidence [pdf]](http://uweb.cas.usf.edu/~drohrer/pdfs/Emeny_et_al_2021ACP.pdf)
 * [2024-07-21, 15:04:55](https://news.ycombinator.com/item?id=41025612) - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
 * [2024-07-21, 15:00:25](https://news.ycombinator.com/item?id=41025578) - [DeepL's LLM Outperforms Google Translate, ChatGPT-4, and Microsoft](https://www.deepl.com/en/blog/next-gen-language-model)
 * [2024-07-21, 13:34:52](https://news.ycombinator.com/item?id=41024970) - [Exothermic Core-Mantle Decoupling – Dzhanibekov Oscillation (ECDO) Hypothesis](https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/)
