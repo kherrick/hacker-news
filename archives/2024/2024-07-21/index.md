@@ -9,6 +9,7 @@
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 12:17:39](https://news.ycombinator.com/item?id=41024559) - [Trench collapses have killed hundreds of workers in the US over the last decade](https://text.npr.org/g-s1-9028)
 * [2024-07-21, 11:47:28](https://news.ycombinator.com/item?id=41024408) - [New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints](https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959)
+* [2024-07-21, 11:28:23](https://news.ycombinator.com/item?id=41024300) - [Major Developments in Postgres Extension Discovery and Distribution](https://ardentperf.com/2024/03/21/major-developments-in-postgres-extension-discovery-and-distribution/)
 * [2024-07-21, 10:27:42](https://news.ycombinator.com/item?id=41023979) - [American Institute of Mathematics: Approved Open Textbooks](https://textbooks.aimath.org/textbooks/approved-textbooks/)
 * [2024-07-21, 09:47:22](https://news.ycombinator.com/item?id=41023801) - [Let's blame the dev who pressed \"Deploy\"](https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/)
 * [2024-07-21, 09:09:03](https://news.ycombinator.com/item?id=41023613) - [Show HN: I made helpers for Web Components](https://github.com/mfcc64/wc-helpers)
