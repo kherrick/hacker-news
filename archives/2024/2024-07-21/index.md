@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
 * [2024-07-21, 20:32:29](https://news.ycombinator.com/item?id=41027854) - [Windows 3.1 saves Southwest Airlines during CrowdStrike outage](https://www.tomshardware.com/software/windows/windows-31-saves-the-day-during-crowdstrike-outage)
+* [2024-07-21, 19:56:40](https://news.ycombinator.com/item?id=41027658) - [When ChatGPT summarises, it does nothing of the kind](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/)
 * [2024-07-21, 19:45:36](https://news.ycombinator.com/item?id=41027588) - [1968 Democratic National Convention](https://en.wikipedia.org/wiki/1968_Democratic_National_Convention)
 * [2024-07-21, 19:05:36](https://news.ycombinator.com/item?id=41027320) - [NYT: The Data That Powers AI Is Disappearing Fast](https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html)
 * [2024-07-21, 18:57:03](https://news.ycombinator.com/item?id=41027265) - [Ask HN: What resources do you recommend for learning Haskell?](https://news.ycombinator.com/item?id=41027265)
