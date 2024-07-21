@@ -64,6 +64,7 @@
 * [2024-07-16, 14:13:24](https://news.ycombinator.com/item?id=40976827) - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 * [2024-07-16, 14:11:59](https://news.ycombinator.com/item?id=40976815) - [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
 * [2024-07-16, 14:07:52](https://news.ycombinator.com/item?id=40976776) - [The struggle to understand why earthquakes happen in America's heartland](https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/)
+* [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
 * [2024-07-16, 14:06:42](https://news.ycombinator.com/item?id=40976763) - [Our Wandering Path to Supporting 1000s of Domain Names](https://fusionauth.io/blog/unlimited-domains-fusionauth)
 * [2024-07-16, 14:03:44](https://news.ycombinator.com/item?id=40976731) - [Automerge: A library of data structures for building collaborative applications](https://automerge.org/)
 * [2024-07-16, 13:48:34](https://news.ycombinator.com/item?id=40976593) - [Parametric Matrix Models](https://arxiv.org/abs/2401.11694)

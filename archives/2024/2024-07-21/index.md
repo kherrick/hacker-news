@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 13:34:52](https://news.ycombinator.com/item?id=41024970) - [Exothermic Core-Mantle Decoupling – Dzhanibekov Oscillation (ECDO) Hypothesis](https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/)
 * [2024-07-21, 13:18:44](https://news.ycombinator.com/item?id=41024873) - [CrowdStrike Insiders Sold Stock Before the Outage](https://www.barrons.com/amp/articles/crowdstrike-insiders-sold-stock-cac5e509)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:32:10](https://news.ycombinator.com/item?id=41024633) - [User returns after 100k-hours ban to continue conversation that got them banned](https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/)

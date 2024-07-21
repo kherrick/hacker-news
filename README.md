@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 13:34:52](https://news.ycombinator.com/item?id=41024970) - [Exothermic Core-Mantle Decoupling – Dzhanibekov Oscillation (ECDO) Hypothesis](https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:32:10](https://news.ycombinator.com/item?id=41024633) - [User returns after 100k-hours ban to continue conversation that got them banned](https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/)
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
@@ -22,13 +23,12 @@
 * [2024-07-20, 20:33:06](https://news.ycombinator.com/item?id=41019604) - [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
 * [2024-07-20, 20:29:37](https://news.ycombinator.com/item?id=41019561) - [Intel vs. Samsung vs. TSMC](https://semiengineering.com/intel-vs-samsung-vs-tsmc/)
 * [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
-* [2024-07-20, 15:46:56](https://news.ycombinator.com/item?id=41017286) - [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
 * [2024-07-20, 14:13:33](https://news.ycombinator.com/item?id=41016650) - [How to choose a textbook that is optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
 * [2024-07-20, 13:43:24](https://news.ycombinator.com/item?id=41016441) - [10% of Cubans left Cuba between 2022 and 2023](https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html)
-* [2024-07-20, 11:03:55](https://news.ycombinator.com/item?id=41015588) - [Aro – Zig's new C compiler](https://github.com/Vexu/arocc)
 * [2024-07-16, 18:35:25](https://news.ycombinator.com/item?id=40979058) - [Galaksija and Računari u VAšoj kućI: 40th Anniversary Celebration](https://blog.vladovince.com/galaksija-and-racunari-u-vasoj-kuci-40th-anniversary-celebration/)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
+* [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
 * [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Large models of what? Mistaking engineering achievements for linguistic agency](https://arxiv.org/abs/2407.08790)
 
 ## [Archives](archives/index.md)
