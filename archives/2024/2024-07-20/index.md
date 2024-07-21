@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
 * [2024-07-20, 23:27:54](https://news.ycombinator.com/item?id=41021029) - [Empathy for the user having sex with your software](https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/)
+* [2024-07-20, 23:12:25](https://news.ycombinator.com/item?id=41020909) - [Show HN: QRaro, store binary data into QR Codes and retrieve it later](https://github.com/tcsenpai/qraro)
 * [2024-07-20, 22:37:16](https://news.ycombinator.com/item?id=41020655) - [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
 * [2024-07-20, 22:34:55](https://news.ycombinator.com/item?id=41020638) - ['Google says I'm a dead physicist': is the biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken)
 * [2024-07-20, 21:35:53](https://news.ycombinator.com/item?id=41020165) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
