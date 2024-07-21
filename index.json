@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-07-21, 13:18:44",
+      "https://news.ycombinator.com/item?id=41024873"
+    ],
+    [
+      "CrowdStrike Insiders Sold Stock Before the Outage",
+      "https://www.barrons.com/amp/articles/crowdstrike-insiders-sold-stock-cac5e509"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 12:32:10",
       "https://news.ycombinator.com/item?id=41024633"
     ],
     [
       "User returns after 100k-hours ban to continue conversation that got them banned",
       "https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 12:20:13",
+      "https://news.ycombinator.com/item?id=41024576"
+    ],
+    [
+      "PgManage: Modern, cross platform graphical database client",
+      "https://github.com/commandprompt/pgmanage"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints",
       "https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 10:27:42",
+      "https://news.ycombinator.com/item?id=41023979"
+    ],
+    [
+      "American Institute of Mathematics: Approved Open Textbooks",
+      "https://textbooks.aimath.org/textbooks/approved-textbooks/"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2024-07-20, 12:18:21",
-      "https://news.ycombinator.com/item?id=41015945"
-    ],
-    [
-      "Robot dog cleans up beaches with foot-mounted vacuums",
-      "https://spectrum.ieee.org/robot-dog-vacuum"
-    ]
-  ],
-  [
-    [
       "2024-07-20, 11:03:55",
       "https://news.ycombinator.com/item?id=41015588"
     ],
     [
       "Aro – Zig's new C compiler",
       "https://github.com/Vexu/arocc"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 08:14:20",
-      "https://news.ycombinator.com/item?id=41014941"
-    ],
-    [
-      "Typst: An easy to learn alternative for LaTex",
-      "https://github.com/typst/typst"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 00:03:52",
-      "https://news.ycombinator.com/item?id=41012779"
-    ],
-    [
-      "Modeling study proposes a diamond layer at the core-mantle boundary on Mercury",
-      "https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html"
     ]
   ],
   [
