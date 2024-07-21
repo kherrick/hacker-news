@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-21, 22:33:29](https://news.ycombinator.com/item?id=41028887) - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
-* [2024-07-21, 21:39:43](https://news.ycombinator.com/item?id=41028407) - [Why I left Google](https://fogknife.com/2024-07-21-why-i-left-google.html)
+* [2024-07-21, 22:29:28](https://news.ycombinator.com/item?id=41028849) - [The only doctor prescribed videogame for ADHD](https://www.endeavorrx.com/)
 * [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-07-21, 20:13:18](https://news.ycombinator.com/item?id=41027749) - [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)
