@@ -24,6 +24,7 @@
 * [2024-07-16, 19:04:56](https://news.ycombinator.com/item?id=40979293) - [Data brokers sell our location data and jeopardise national security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security/)
 * [2024-07-16, 18:56:07](https://news.ycombinator.com/item?id=40979221) - [HuggingFace: Scaling open source community 300%/yr with No OKRs and No Meetings](https://dx.tips/huggingface)
 * [2024-07-16, 18:37:35](https://news.ycombinator.com/item?id=40979074) - [Europe's fate is in Germany's hands now](https://www.noahpinion.blog/p/europes-fate-is-in-germanys-hands)
+* [2024-07-16, 18:35:25](https://news.ycombinator.com/item?id=40979058) - [Galaksija and Računari u VAšoj kućI: 40th Anniversary Celebration](https://blog.vladovince.com/galaksija-and-racunari-u-vasoj-kuci-40th-anniversary-celebration/)
 * [2024-07-16, 18:19:11](https://news.ycombinator.com/item?id=40978919) - [Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
