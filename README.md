@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 16:14:57](https://news.ycombinator.com/item?id=41026096) - [Tell HN: Educative.io auto-renews without warning, refuses to provide refunds](https://news.ycombinator.com/item?id=41026096)
 * [2024-07-21, 15:04:55](https://news.ycombinator.com/item?id=41025612) - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
@@ -24,7 +25,6 @@
 * [2024-07-20, 14:13:33](https://news.ycombinator.com/item?id=41016650) - [How to choose a textbook that is optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
 * [2024-07-20, 13:43:24](https://news.ycombinator.com/item?id=41016441) - [10% of Cubans left Cuba between 2022 and 2023](https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html)
 * [2024-07-20, 11:03:55](https://news.ycombinator.com/item?id=41015588) - [Aro – Zig's new C compiler](https://github.com/Vexu/arocc)
-* [2024-07-17, 18:01:36](https://news.ycombinator.com/item?id=40988575) - [It's all up for grabs, compound with glue](https://lmno.lol/alvaro/its-all-up-for-grabs-and-it-compounds)
 * [2024-07-17, 13:25:15](https://news.ycombinator.com/item?id=40985674) - [Show HN: I made a tool to HTTPS your localhost](https://lokal.so/)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
