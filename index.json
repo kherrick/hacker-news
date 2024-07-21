@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-07-21, 17:50:45",
-      "https://news.ycombinator.com/item?id=41026741"
-    ],
-    [
-      "Joe Biden stands down as Democratic candidate",
-      "https://twitter.com/JoeBiden/status/1815080881981190320"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 17:21:53",
-      "https://news.ycombinator.com/item?id=41026542"
-    ],
-    [
-      "China is on track to reach its 2030 clean energy targets already",
-      "https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 17:01:10",
       "https://news.ycombinator.com/item?id=41026396"
     ],
@@ -51,12 +31,32 @@
   ],
   [
     [
+      "2024-07-21, 13:43:29",
+      "https://news.ycombinator.com/item?id=41025036"
+    ],
+    [
+      "Remove PDF password protection using qpdf and AppleScript",
+      "https://www.sheshbabu.com/posts/remove-pdf-passwords-using-qpdf-and-applescript/"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 13:34:17",
       "https://news.ycombinator.com/item?id=41024964"
     ],
     [
       "Show HN: Moocable – find people studying the same online course/book",
       "https://moocable.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 13:27:01",
+      "https://news.ycombinator.com/item?id=41024920"
+    ],
+    [
+      "Carving ELF Files",
+      "https://blog.nietaanraken.nl/posts/elf-file-size/"
     ]
   ],
   [
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2024-07-21, 11:47:28",
-      "https://news.ycombinator.com/item?id=41024408"
+      "2024-07-21, 11:39:11",
+      "https://news.ycombinator.com/item?id=41024362"
     ],
     [
-      "New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints",
-      "https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959"
+      "txtai: Open-source vector search and RAG for minimalists",
+      "https://neuml.github.io/txtai/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-07-21, 07:01:59",
-      "https://news.ycombinator.com/item?id=41023087"
-    ],
-    [
-      "Ventilation Made Easy",
-      "https://www.mpg.de/16075350/1127-chem-ventilation-made-easy-152990"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 06:23:31",
       "https://news.ycombinator.com/item?id=41022890"
     ],
@@ -187,6 +177,16 @@
     [
       "Initial details about why CrowdStrike's CSAgent.sys crashed",
       "https://twitter.com/patrickwardle/status/1814343502886477857"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 23:27:54",
+      "https://news.ycombinator.com/item?id=41021029"
+    ],
+    [
+      "Empathy for the user having sex with your software",
+      "https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/"
     ]
   ],
   [
