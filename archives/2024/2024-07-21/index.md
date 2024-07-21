@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
 * [2024-07-21, 19:05:36](https://news.ycombinator.com/item?id=41027320) - [NYT: The Data That Powers AI Is Disappearing Fast](https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html)
+* [2024-07-21, 18:57:03](https://news.ycombinator.com/item?id=41027265) - [Ask HN: What resources do you recommend for learning Haskell?](https://news.ycombinator.com/item?id=41027265)
 * [2024-07-21, 18:36:49](https://news.ycombinator.com/item?id=41027112) - [Club Mate: The Lost History of Germany's Trendiest Soda [video]](https://www.youtube.com/watch?v=fg6dFhQOk4w)
 * [2024-07-21, 18:18:01](https://news.ycombinator.com/item?id=41026968) - [Atlassian research highlights major disconnect between developers and leaders](https://www.atlassian.com/blog/developer/developer-experience-report-2024)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815080881981190320)

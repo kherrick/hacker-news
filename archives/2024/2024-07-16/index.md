@@ -79,6 +79,7 @@
 * [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Mistaking Engineering Achievements for Human Linguistic Agency](https://arxiv.org/abs/2407.08790)
 * [2024-07-16, 10:49:27](https://news.ycombinator.com/item?id=40975289) - [A hard look at AWS GuardDuty shortcomings](https://tracebit.com/blog/a-hard-look-at-guardduty-shortcomings)
 * [2024-07-16, 10:35:56](https://news.ycombinator.com/item?id=40975214) - [PS-HTTPD: a web server written in PostScript](https://www.pugo.org/projects/pshttpd/)
+* [2024-07-16, 10:07:58](https://news.ycombinator.com/item?id=40975049) - [Show HN: You can program without loop and recursion and×÷- is all you need](https://github.com/raoofha/Ar)
 * [2024-07-16, 09:08:04](https://news.ycombinator.com/item?id=40974768) - [Ask HN: How can I find something worthwhile to do?](https://news.ycombinator.com/item?id=40974768)
 * [2024-07-16, 07:34:48](https://news.ycombinator.com/item?id=40974343) - [I Hope Rust Does Not Oxidize Everything](https://gavinhoward.com/2024/07/why-i-hope-rust-does-not-oxidize-everything/)
 * [2024-07-16, 07:22:45](https://news.ycombinator.com/item?id=40974298) - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
