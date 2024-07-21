@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 19:05:36](https://news.ycombinator.com/item?id=41027320) - [NYT: The Data That Powers AI Is Disappearing Fast](https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html)
 * [2024-07-21, 18:36:49](https://news.ycombinator.com/item?id=41027112) - [Club Mate: The Lost History of Germany's Trendiest Soda [video]](https://www.youtube.com/watch?v=fg6dFhQOk4w)
 * [2024-07-21, 18:18:01](https://news.ycombinator.com/item?id=41026968) - [Atlassian research highlights major disconnect between developers and leaders](https://www.atlassian.com/blog/developer/developer-experience-report-2024)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815080881981190320)
@@ -13,6 +14,7 @@
 * [2024-07-21, 17:27:33](https://news.ycombinator.com/item?id=41026583) - [Tesla Sales Drop 17% in California](https://cleantechnica.com/2024/07/19/tesla-sales-drop-17-in-california/)
 * [2024-07-21, 17:21:53](https://news.ycombinator.com/item?id=41026542) - [China is on track to reach its 2030 clean energy targets already](https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/)
 * [2024-07-21, 17:01:10](https://news.ycombinator.com/item?id=41026396) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
 * [2024-07-21, 16:19:17](https://news.ycombinator.com/item?id=41026123) - [Intel says 13th and 14th Gen mobile CPUs are crashing](https://www.tomshardware.com/pc-components/cpus/intel-says-13th-and-14th-gen-mobile-cpus-are-crashing-but-not-due-to-the-same-bug-as-desktop-chips-chipmaker-blames-common-software-and-hardware-issues)
 * [2024-07-21, 16:14:57](https://news.ycombinator.com/item?id=41026096) - [Tell HN: Educative.io auto-renews without warning, refuses to provide refunds](https://news.ycombinator.com/item?id=41026096)
 * [2024-07-21, 15:59:19](https://news.ycombinator.com/item?id=41025983) - [Artificial consciousness: a perspective from the free energy principle](https://link.springer.com/article/10.1007/s11098-024-02182-y)
