@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 17:28:26](https://news.ycombinator.com/item?id=41026592) - [CrowdStrike update that caused global outage likely skipped checks](https://www.reuters.com/technology/cybersecurity/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say-2024-07-20/)
 * [2024-07-21, 17:21:53](https://news.ycombinator.com/item?id=41026542) - [China is on track to reach its 2030 clean energy targets already](https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/)
 * [2024-07-21, 17:01:10](https://news.ycombinator.com/item?id=41026396) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-07-21, 16:14:57](https://news.ycombinator.com/item?id=41026096) - [Tell HN: Educative.io auto-renews without warning, refuses to provide refunds](https://news.ycombinator.com/item?id=41026096)

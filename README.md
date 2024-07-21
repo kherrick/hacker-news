@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 17:28:26](https://news.ycombinator.com/item?id=41026592) - [CrowdStrike update that caused global outage likely skipped checks](https://www.reuters.com/technology/cybersecurity/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say-2024-07-20/)
 * [2024-07-21, 17:21:53](https://news.ycombinator.com/item?id=41026542) - [China is on track to reach its 2030 clean energy targets already](https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/)
 * [2024-07-21, 17:01:10](https://news.ycombinator.com/item?id=41026396) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-07-21, 15:59:19](https://news.ycombinator.com/item?id=41025983) - [Artificial consciousness: a perspective from the free energy principle](https://link.springer.com/article/10.1007/s11098-024-02182-y)
@@ -14,7 +15,7 @@
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
 * [2024-07-21, 07:01:59](https://news.ycombinator.com/item?id=41023087) - [Ventilation Made Easy](https://www.mpg.de/16075350/1127-chem-ventilation-made-easy-152990)
 * [2024-07-21, 06:23:31](https://news.ycombinator.com/item?id=41022890) - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
-* [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
+* [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral? (2013)](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 * [2024-07-21, 00:17:34](https://news.ycombinator.com/item?id=41021366) - [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
 * [2024-07-20, 23:27:54](https://news.ycombinator.com/item?id=41021029) - [Empathy for the user having sex with your software](https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/)
 * [2024-07-20, 20:58:10](https://news.ycombinator.com/item?id=41019829) - [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
@@ -24,7 +25,6 @@
 * [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
 * [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 * [2024-07-20, 15:46:56](https://news.ycombinator.com/item?id=41017286) - [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
-* [2024-07-20, 13:43:24](https://news.ycombinator.com/item?id=41016441) - [10% of Cubans left Cuba between 2022 and 2023](https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html)
 * [2024-07-17, 13:25:15](https://news.ycombinator.com/item?id=40985674) - [Show HN: I made a tool to HTTPS your localhost](https://lokal.so/)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
