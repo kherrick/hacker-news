@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-21, 19:05:36",
+      "https://news.ycombinator.com/item?id=41027320"
+    ],
+    [
+      "NYT: The Data That Powers AI Is Disappearing Fast",
+      "https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 17:28:43",
       "https://news.ycombinator.com/item?id=41026594"
     ],
@@ -17,6 +27,16 @@
     [
       "Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data",
       "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 16:34:18",
+      "https://news.ycombinator.com/item?id=41026214"
+    ],
+    [
+      "Glisp: Graphical Lisp",
+      "https://glisp.app/commit:e7fbaae/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "PgManage: Modern, cross platform graphical database client",
       "https://github.com/commandprompt/pgmanage"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 12:17:39",
-      "https://news.ycombinator.com/item?id=41024559"
-    ],
-    [
-      "Trench collapses have killed hundreds of workers in the US over the last decade",
-      "https://text.npr.org/g-s1-9028"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Initial details about why CrowdStrike's CSAgent.sys crashed",
       "https://twitter.com/patrickwardle/status/1814343502886477857"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 20:58:10",
-      "https://news.ycombinator.com/item?id=41019829"
-    ],
-    [
-      "Managing Classic Mac OS Resources in ResEdit",
-      "https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/"
     ]
   ],
   [
