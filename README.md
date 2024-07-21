@@ -3,6 +3,7 @@
 * [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933)
+* [2024-07-21, 17:39:52](https://news.ycombinator.com/item?id=41026663) - [Stremio OS Is Now Available for Raspberry Pi 5 and 4](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/)
 * [2024-07-21, 17:28:43](https://news.ycombinator.com/item?id=41026594) - [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
 * [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
 * [2024-07-21, 16:19:17](https://news.ycombinator.com/item?id=41026123) - [Intel says 13th and 14th Gen mobile CPUs are crashing](https://www.tomshardware.com/pc-components/cpus/intel-says-13th-and-14th-gen-mobile-cpus-are-crashing-but-not-due-to-the-same-bug-as-desktop-chips-chipmaker-blames-common-software-and-hardware-issues)
@@ -29,7 +30,6 @@
 * [2024-07-16, 18:47:34](https://news.ycombinator.com/item?id=40979146) - [Rosey Grier: From NFL Football to Knitting and Needlework (2023)](https://www.crochetconcupiscence.com/unique-1970s-crocheter-pro-football-player-rosey-grier/)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
-* [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Large models of what? Mistaking engineering achievements for linguistic agency](https://arxiv.org/abs/2407.08790)
 
 ## [Archives](archives/index.md)
 

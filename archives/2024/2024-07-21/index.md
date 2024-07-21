@@ -17,6 +17,7 @@
 * [2024-07-21, 18:18:01](https://news.ycombinator.com/item?id=41026968) - [Atlassian research highlights major disconnect between developers and leaders](https://www.atlassian.com/blog/developer/developer-experience-report-2024)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815080881981190320)
+* [2024-07-21, 17:39:52](https://news.ycombinator.com/item?id=41026663) - [Stremio OS Is Now Available for Raspberry Pi 5 and 4](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/)
 * [2024-07-21, 17:36:27](https://news.ycombinator.com/item?id=41026647) - [GPG and Me](https://moxie.org/2015/02/24/gpg-and-me.html)
 * [2024-07-21, 17:28:43](https://news.ycombinator.com/item?id=41026594) - [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
 * [2024-07-21, 17:28:26](https://news.ycombinator.com/item?id=41026592) - [CrowdStrike update that caused global outage likely skipped checks](https://www.reuters.com/technology/cybersecurity/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say-2024-07-20/)
