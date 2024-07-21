@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 07:01:49](https://news.ycombinator.com/item?id=41023086) - [\"Any sufficiently bad software update is indistinguishable from a cyberattack\"](https://twitter.com/leighhoneywell/status/1814278230704111792)
+* [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 * [2024-07-21, 04:37:28](https://news.ycombinator.com/item?id=41022408) - [X.com refuses to open with Firefox strict tracking protection enabled](https://x.com/)
 * [2024-07-21, 04:35:40](https://news.ycombinator.com/item?id=41022400) - [Why You Should Not Use Tcl (1994)](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)
 * [2024-07-21, 02:18:45](https://news.ycombinator.com/item?id=41021887) - [AMD says its new laptop chips can beat Apple](https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event)

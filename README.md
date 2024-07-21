@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 07:01:49](https://news.ycombinator.com/item?id=41023086) - [\"Any sufficiently bad software update is indistinguishable from a cyberattack\"](https://twitter.com/leighhoneywell/status/1814278230704111792)
+* [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 * [2024-07-21, 04:37:28](https://news.ycombinator.com/item?id=41022408) - [X.com refuses to open with Firefox strict tracking protection enabled](https://x.com/)
 * [2024-07-21, 04:35:40](https://news.ycombinator.com/item?id=41022400) - [Why You Should Not Use Tcl (1994)](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)
 * [2024-07-21, 01:04:02](https://news.ycombinator.com/item?id=41021569) - [\"Maxwell's equations of software\" examined (2008)](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
@@ -24,11 +26,9 @@
 * [2024-07-20, 00:03:52](https://news.ycombinator.com/item?id=41012779) - [Modeling study proposes a diamond layer at the core-mantle boundary on Mercury](https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html)
 * [2024-07-18, 06:10:59](https://news.ycombinator.com/item?id=40992923) - [What to do if you don't want a default constructor?](https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value)
 * [2024-07-17, 13:39:08](https://news.ycombinator.com/item?id=40985815) - [Former Bungie, Pokémon lawyer explains how they caught leakers](https://www.bloomberg.com/news/newsletters/2024-07-12/former-bungie-pokemon-lawyer-explains-how-they-caught-leakers)
-* [2024-07-16, 21:47:34](https://news.ycombinator.com/item?id=40980639) - [Invalid SMILES beneficial rather than detrimental to chemical language models](https://www.nature.com/articles/s42256-024-00821-x)
 * [2024-07-16, 20:48:50](https://news.ycombinator.com/item?id=40980200) - [The Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes [pdf]](https://pages.uoregon.edu/vjs/files/Mayer_Sahakian_etal2021.pdf)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
-* [2024-07-16, 18:12:33](https://news.ycombinator.com/item?id=40978865) - [Whose bug is this anyway? (2012)](https://www.codeofhonor.com/blog/whose-bug-is-this-anyway)
 * [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Large models of what? Mistaking engineering achievements for linguistic agency](https://arxiv.org/abs/2407.08790)
 
 ## [Archives](archives/index.md)
