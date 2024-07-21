@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 17:28:43](https://news.ycombinator.com/item?id=41026594) - [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
 * [2024-07-21, 17:01:10](https://news.ycombinator.com/item?id=41026396) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-07-21, 16:19:17](https://news.ycombinator.com/item?id=41026123) - [Intel says 13th and 14th Gen mobile CPUs are crashing](https://www.tomshardware.com/pc-components/cpus/intel-says-13th-and-14th-gen-mobile-cpus-are-crashing-but-not-due-to-the-same-bug-as-desktop-chips-chipmaker-blames-common-software-and-hardware-issues)
 * [2024-07-21, 15:59:19](https://news.ycombinator.com/item?id=41025983) - [Artificial consciousness: a perspective from the free energy principle](https://link.springer.com/article/10.1007/s11098-024-02182-y)
@@ -18,7 +19,6 @@
 * [2024-07-21, 06:23:31](https://news.ycombinator.com/item?id=41022890) - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral? (2013)](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 * [2024-07-21, 00:17:34](https://news.ycombinator.com/item?id=41021366) - [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
-* [2024-07-20, 23:27:54](https://news.ycombinator.com/item?id=41021029) - [Empathy for the user having sex with your software](https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/)
 * [2024-07-20, 20:58:10](https://news.ycombinator.com/item?id=41019829) - [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud air-gapped appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
 * [2024-07-20, 20:33:06](https://news.ycombinator.com/item?id=41019604) - [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
