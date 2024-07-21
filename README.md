@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+* [2024-07-21, 20:11:05](https://news.ycombinator.com/item?id=41027739) - [Custom Linux powered smart-TV breaks free from ads and tracking](https://www.tomshardware.com/software/linux/custom-linux-powered-smart-tv-breaks-free-from-ads-and-tracking-enables-ultimate-customizability-earlgreytv-straps-a-laptop-to-the-back-to-unlock-unlimited-control)
 * [2024-07-21, 19:56:40](https://news.ycombinator.com/item?id=41027658) - [When ChatGPT summarises, it does nothing of the kind](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/)
-* [2024-07-21, 18:57:03](https://news.ycombinator.com/item?id=41027265) - [Ask HN: What resources do you recommend for learning Haskell?](https://news.ycombinator.com/item?id=41027265)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933)
 * [2024-07-21, 17:28:43](https://news.ycombinator.com/item?id=41026594) - [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
 * [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
