@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-21, 13:18:44",
-      "https://news.ycombinator.com/item?id=41024873"
-    ],
-    [
-      "CrowdStrike Insiders Sold Stock Before the Outage",
-      "https://www.barrons.com/amp/articles/crowdstrike-insiders-sold-stock-cac5e509"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 12:32:10",
       "https://news.ycombinator.com/item?id=41024633"
     ],
@@ -51,22 +41,22 @@
   ],
   [
     [
+      "2024-07-21, 11:28:23",
+      "https://news.ycombinator.com/item?id=41024300"
+    ],
+    [
+      "Major Developments in Postgres Extension Discovery and Distribution",
+      "https://ardentperf.com/2024/03/21/major-developments-in-postgres-extension-discovery-and-distribution/"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 10:27:42",
       "https://news.ycombinator.com/item?id=41023979"
     ],
     [
       "American Institute of Mathematics: Approved Open Textbooks",
       "https://textbooks.aimath.org/textbooks/approved-textbooks/"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 09:47:22",
-      "https://news.ycombinator.com/item?id=41023801"
-    ],
-    [
-      "Let's blame the dev who pressed \"Deploy\"",
-      "https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-07-20, 12:18:21",
+      "https://news.ycombinator.com/item?id=41015945"
+    ],
+    [
+      "Robot dog cleans up beaches with foot-mounted vacuums",
+      "https://spectrum.ieee.org/robot-dog-vacuum"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 11:03:55",
       "https://news.ycombinator.com/item?id=41015588"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-07-18, 11:07:48",
-      "https://news.ycombinator.com/item?id=40994467"
+      "2024-07-20, 08:14:20",
+      "https://news.ycombinator.com/item?id=41014941"
     ],
     [
-      "Conway's Law and Coding Assistants",
-      "https://mishajw.com/posts/conways-law.html"
+      "Typst: An easy to learn alternative for LaTex",
+      "https://github.com/typst/typst"
     ]
   ],
   [
