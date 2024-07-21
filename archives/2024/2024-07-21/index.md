@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 22:33:29](https://news.ycombinator.com/item?id=41028887) - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
 * [2024-07-21, 21:48:09](https://news.ycombinator.com/item?id=41028470) - [Food Without Agriculture](https://www.nature.com/articles/s41893-023-01241-2)
+* [2024-07-21, 21:39:43](https://news.ycombinator.com/item?id=41028407) - [Why I left Google](https://fogknife.com/2024-07-21-why-i-left-google.html)
 * [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-07-21, 20:32:29](https://news.ycombinator.com/item?id=41027854) - [Windows 3.1 saves Southwest Airlines during CrowdStrike outage](https://www.tomshardware.com/software/windows/windows-31-saves-the-day-during-crowdstrike-outage)
+* [2024-07-21, 20:13:18](https://news.ycombinator.com/item?id=41027749) - [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)
 * [2024-07-21, 20:11:05](https://news.ycombinator.com/item?id=41027739) - [Custom Linux powered smart-TV breaks free from ads and tracking](https://www.tomshardware.com/software/linux/custom-linux-powered-smart-tv-breaks-free-from-ads-and-tracking-enables-ultimate-customizability-earlgreytv-straps-a-laptop-to-the-back-to-unlock-unlimited-control)
 * [2024-07-21, 20:06:16](https://news.ycombinator.com/item?id=41027717) - [The Tech Industry's Moral Vacuum](https://www.shayon.dev/post/2024/203/the-tech-industrys-moral-vacuum/)
 * [2024-07-21, 19:56:40](https://news.ycombinator.com/item?id=41027658) - [When ChatGPT summarises, it does nothing of the kind](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/)
