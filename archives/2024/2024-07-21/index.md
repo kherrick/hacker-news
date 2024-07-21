@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
 * [2024-07-21, 13:18:44](https://news.ycombinator.com/item?id=41024873) - [CrowdStrike Insiders Sold Stock Before the Outage](https://www.barrons.com/amp/articles/crowdstrike-insiders-sold-stock-cac5e509)
+* [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:32:10](https://news.ycombinator.com/item?id=41024633) - [User returns after 100k-hours ban to continue conversation that got them banned](https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/)
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 12:17:39](https://news.ycombinator.com/item?id=41024559) - [Trench collapses have killed hundreds of workers in the US over the last decade](https://text.npr.org/g-s1-9028)
