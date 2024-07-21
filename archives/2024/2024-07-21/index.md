@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 17:21:53](https://news.ycombinator.com/item?id=41026542) - [China is on track to reach its 2030 clean energy targets already](https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/)
 * [2024-07-21, 17:01:10](https://news.ycombinator.com/item?id=41026396) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-07-21, 16:14:57](https://news.ycombinator.com/item?id=41026096) - [Tell HN: Educative.io auto-renews without warning, refuses to provide refunds](https://news.ycombinator.com/item?id=41026096)
+* [2024-07-21, 15:59:19](https://news.ycombinator.com/item?id=41025983) - [Artificial consciousness: a perspective from the free energy principle](https://link.springer.com/article/10.1007/s11098-024-02182-y)
 * [2024-07-21, 15:49:58](https://news.ycombinator.com/item?id=41025923) - [Don't underestimate the importance of oral health](https://peterattiamd.com/importance-of-oral-health/)
 * [2024-07-21, 15:26:18](https://news.ycombinator.com/item?id=41025775) - [Spaced mathematics practice improves test scores and reduces overconfidence [pdf]](http://uweb.cas.usf.edu/~drohrer/pdfs/Emeny_et_al_2021ACP.pdf)
 * [2024-07-21, 15:04:55](https://news.ycombinator.com/item?id=41025612) - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
