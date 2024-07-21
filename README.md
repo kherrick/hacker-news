@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 21:48:09](https://news.ycombinator.com/item?id=41028470) - [Food Without Agriculture](https://www.nature.com/articles/s41893-023-01241-2)
 * [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933)
@@ -16,7 +17,6 @@
 * [2024-07-21, 11:37:54](https://news.ycombinator.com/item?id=41024358) - [Show HN: A fake SMTP server for software integration testing](https://fakemail.stream)
 * [2024-07-21, 11:11:12](https://news.ycombinator.com/item?id=41024205) - [Satellite Drag Analysis During the May 2024 Geomagnetic Storm](https://arxiv.org/abs/2406.08617)
 * [2024-07-21, 10:34:05](https://news.ycombinator.com/item?id=41024005) - [Prometheus metrics saves us from painful kernel debugging (2022)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs)
-* [2024-07-21, 09:09:03](https://news.ycombinator.com/item?id=41023613) - [Show HN: I made helpers for Web Components](https://github.com/mfcc64/wc-helpers)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral? (2013)](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
