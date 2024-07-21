@@ -2,10 +2,10 @@
 
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
-* [2024-07-21, 07:40:50](https://news.ycombinator.com/item?id=41023251) - [Ask HN: Where to find the cheapest proxies for web scraping?](https://news.ycombinator.com/item?id=41023251)
 * [2024-07-21, 07:13:39](https://news.ycombinator.com/item?id=41023138) - [Syscall.sh](https://syscall.sh/)
 * [2024-07-21, 06:23:31](https://news.ycombinator.com/item?id=41022890) - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
+* [2024-07-21, 00:38:31](https://news.ycombinator.com/item?id=41021472) - [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
 * [2024-07-21, 00:31:50](https://news.ycombinator.com/item?id=41021436) - [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
 * [2024-07-21, 00:17:34](https://news.ycombinator.com/item?id=41021366) - [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
 * [2024-07-21, 00:06:01](https://news.ycombinator.com/item?id=41021298) - [Prelude – a tiny CLI tool building context prompts from your code](https://github.com/aerugo/prelude)
