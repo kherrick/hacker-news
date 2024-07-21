@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-07-21, 12:32:10",
-      "https://news.ycombinator.com/item?id=41024633"
-    ],
-    [
-      "User returns after 100k-hours ban to continue conversation that got them banned",
-      "https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 12:20:13",
       "https://news.ycombinator.com/item?id=41024576"
     ],
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2024-07-21, 11:28:23",
-      "https://news.ycombinator.com/item?id=41024300"
-    ],
-    [
-      "Major Developments in Postgres Extension Discovery and Distribution",
-      "https://ardentperf.com/2024/03/21/major-developments-in-postgres-extension-discovery-and-distribution/"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 11:11:12",
       "https://news.ycombinator.com/item?id=41024205"
     ],
@@ -71,42 +51,12 @@
   ],
   [
     [
-      "2024-07-21, 11:10:24",
-      "https://news.ycombinator.com/item?id=41024199"
-    ],
-    [
-      "AMD Ryzen AI 9 HX 370 12-Core APU Is Faster Than M3 Max",
-      "https://wccftech.com/amd-ryzen-ai-9-hx-370-12-core-apu-faster-20-core-14700hx-14-core-m3-max-passmark/"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 10:34:05",
       "https://news.ycombinator.com/item?id=41024005"
     ],
     [
-      "Prometheus metrics saves us from painful kernel debugging",
+      "Prometheus metrics saves us from painful kernel debugging (2022)",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 10:31:11",
-      "https://news.ycombinator.com/item?id=41023996"
-    ],
-    [
-      "The one person in America happy about tipping fatigue",
-      "https://thehustle.co/originals/the-one-person-in-america-happy-about-tipping-fatigue"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 10:27:42",
-      "https://news.ycombinator.com/item?id=41023979"
-    ],
-    [
-      "American Institute of Mathematics: Approved Open Textbooks",
-      "https://textbooks.aimath.org/textbooks/approved-textbooks/"
     ]
   ],
   [
@@ -137,6 +87,16 @@
     [
       "Zettlr: One-Stop Publication Workbench",
       "https://www.zettlr.com"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 07:26:14",
+      "https://news.ycombinator.com/item?id=41023195"
+    ],
+    [
+      "Research into trans medicine has been manipulated",
+      "https://www.economist.com/united-states/2024/06/27/research-into-trans-medicine-has-been-manipulated"
     ]
   ],
   [
@@ -231,6 +191,16 @@
   ],
   [
     [
+      "2024-07-20, 15:46:56",
+      "https://news.ycombinator.com/item?id=41017286"
+    ],
+    [
+      "Human parasites in the Roman World: health consequences of conquering an empire",
+      "https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 14:13:33",
       "https://news.ycombinator.com/item?id=41016650"
     ],
@@ -251,12 +221,42 @@
   ],
   [
     [
-      "2024-07-16, 18:35:25",
-      "https://news.ycombinator.com/item?id=40979058"
+      "2024-07-20, 12:51:01",
+      "https://news.ycombinator.com/item?id=41016104"
     ],
     [
-      "Galaksija and Računari u VAšoj kućI: 40th Anniversary Celebration",
-      "https://blog.vladovince.com/galaksija-and-racunari-u-vasoj-kuci-40th-anniversary-celebration/"
+      "1989 Networking: NetWare 386",
+      "http://www.os2museum.com/wp/1989-networking-netware-386/"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 12:18:21",
+      "https://news.ycombinator.com/item?id=41015945"
+    ],
+    [
+      "Robot dog cleans up beaches with foot-mounted vacuums",
+      "https://spectrum.ieee.org/robot-dog-vacuum"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 11:03:55",
+      "https://news.ycombinator.com/item?id=41015588"
+    ],
+    [
+      "Aro – Zig's new C compiler",
+      "https://github.com/Vexu/arocc"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 08:14:20",
+      "https://news.ycombinator.com/item?id=41014941"
+    ],
+    [
+      "Typst: An easy to learn alternative for LaTex",
+      "https://github.com/typst/typst"
     ]
   ],
   [
