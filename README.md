@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 04:37:28](https://news.ycombinator.com/item?id=41022408) - [X.com refuses to open with Firefox strict tracking protection enabled](https://x.com/)
+* [2024-07-21, 04:35:40](https://news.ycombinator.com/item?id=41022400) - [Why You Should Not Use Tcl (1994)](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)
 * [2024-07-21, 01:04:02](https://news.ycombinator.com/item?id=41021569) - [\"Maxwell's equations of software\" examined (2008)](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 * [2024-07-21, 00:38:31](https://news.ycombinator.com/item?id=41021472) - [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
 * [2024-07-21, 00:31:50](https://news.ycombinator.com/item?id=41021436) - [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
@@ -12,7 +14,6 @@
 * [2024-07-20, 20:29:37](https://news.ycombinator.com/item?id=41019561) - [Intel vs. Samsung vs. TSMC](https://semiengineering.com/intel-vs-samsung-vs-tsmc/)
 * [2024-07-20, 18:45:37](https://news.ycombinator.com/item?id=41018677) - [Exercise: Minesweeper in 100 lines of Ruby](https://radanskoric.com/experiments/minesweeper-100-lines-of-clean-ruby)
 * [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
-* [2024-07-20, 15:56:11](https://news.ycombinator.com/item?id=41017367) - [A brief interview with Tcl creator John Ousterhout (2023)](https://pldb.io/blog/JohnOusterhout.html)
 * [2024-07-20, 15:46:56](https://news.ycombinator.com/item?id=41017286) - [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
 * [2024-07-20, 14:13:33](https://news.ycombinator.com/item?id=41016650) - [How to choose a textbook that is optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
 * [2024-07-20, 13:43:24](https://news.ycombinator.com/item?id=41016441) - [10% of Cubans left Cuba between 2022 and 2023](https://www.miamiherald.com/news/nation-world/world/americas/cuba/article290249799.html)
@@ -20,7 +21,6 @@
 * [2024-07-20, 12:18:21](https://news.ycombinator.com/item?id=41015945) - [Robot dog cleans up beaches with foot-mounted vacuums](https://spectrum.ieee.org/robot-dog-vacuum)
 * [2024-07-20, 11:03:55](https://news.ycombinator.com/item?id=41015588) - [Aro – Zig's new C compiler](https://github.com/Vexu/arocc)
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
-* [2024-07-20, 00:40:31](https://news.ycombinator.com/item?id=41013004) - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 * [2024-07-20, 00:03:52](https://news.ycombinator.com/item?id=41012779) - [Modeling study proposes a diamond layer at the core-mantle boundary on Mercury](https://phys.org/news/2024-07-diamond-layer-core-mantle-boundary.html)
 * [2024-07-18, 06:10:59](https://news.ycombinator.com/item?id=40992923) - [What to do if you don't want a default constructor?](https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value)
 * [2024-07-17, 13:39:08](https://news.ycombinator.com/item?id=40985815) - [Former Bungie, Pokémon Lawyer Explains How They Caught Leakers](https://www.bloomberg.com/news/newsletters/2024-07-12/former-bungie-pokemon-lawyer-explains-how-they-caught-leakers)
