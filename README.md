@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-* [2024-07-21, 20:11:05](https://news.ycombinator.com/item?id=41027739) - [Custom Linux powered smart-TV breaks free from ads and tracking](https://www.tomshardware.com/software/linux/custom-linux-powered-smart-tv-breaks-free-from-ads-and-tracking-enables-ultimate-customizability-earlgreytv-straps-a-laptop-to-the-back-to-unlock-unlimited-control)
-* [2024-07-21, 20:06:16](https://news.ycombinator.com/item?id=41027717) - [The Tech Industry's Moral Vacuum](https://www.shayon.dev/post/2024/203/the-tech-industrys-moral-vacuum/)
-* [2024-07-21, 19:56:40](https://news.ycombinator.com/item?id=41027658) - [When ChatGPT summarises, it does nothing of the kind](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/)
 * [2024-07-21, 17:50:45](https://news.ycombinator.com/item?id=41026741) - [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933)
 * [2024-07-21, 17:28:43](https://news.ycombinator.com/item?id=41026594) - [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
 * [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
@@ -17,6 +15,7 @@
 * [2024-07-21, 11:37:54](https://news.ycombinator.com/item?id=41024358) - [Show HN: A fake SMTP server for software integration testing](https://fakemail.stream)
 * [2024-07-21, 11:11:12](https://news.ycombinator.com/item?id=41024205) - [Satellite Drag Analysis During the May 2024 Geomagnetic Storm](https://arxiv.org/abs/2406.08617)
 * [2024-07-21, 10:34:05](https://news.ycombinator.com/item?id=41024005) - [Prometheus metrics saves us from painful kernel debugging (2022)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs)
+* [2024-07-21, 09:09:03](https://news.ycombinator.com/item?id=41023613) - [Show HN: I made helpers for Web Components](https://github.com/mfcc64/wc-helpers)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral? (2013)](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
@@ -30,6 +29,7 @@
 * [2024-07-16, 18:47:34](https://news.ycombinator.com/item?id=40979146) - [Rosey Grier: From NFL Football to Knitting and Needlework (2023)](https://www.crochetconcupiscence.com/unique-1970s-crocheter-pro-football-player-rosey-grier/)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
+* [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Large models of what? Mistaking engineering achievements for linguistic agency](https://arxiv.org/abs/2407.08790)
 
 ## [Archives](archives/index.md)
 

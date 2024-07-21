@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-07-21, 20:32:29](https://news.ycombinator.com/item?id=41027854) - [Windows 3.1 saves Southwest Airlines during CrowdStrike outage](https://www.tomshardware.com/software/windows/windows-31-saves-the-day-during-crowdstrike-outage)
 * [2024-07-21, 20:11:05](https://news.ycombinator.com/item?id=41027739) - [Custom Linux powered smart-TV breaks free from ads and tracking](https://www.tomshardware.com/software/linux/custom-linux-powered-smart-tv-breaks-free-from-ads-and-tracking-enables-ultimate-customizability-earlgreytv-straps-a-laptop-to-the-back-to-unlock-unlimited-control)
