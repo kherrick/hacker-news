@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-21, 13:34:52](https://news.ycombinator.com/item?id=41024970) - [Exothermic Core-Mantle Decoupling – Dzhanibekov Oscillation (ECDO) Hypothesis](https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:32:10](https://news.ycombinator.com/item?id=41024633) - [User returns after 100k-hours ban to continue conversation that got them banned](https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/)
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
@@ -8,6 +7,7 @@
 * [2024-07-21, 11:47:28](https://news.ycombinator.com/item?id=41024408) - [New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints](https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959)
 * [2024-07-21, 11:28:23](https://news.ycombinator.com/item?id=41024300) - [Major Developments in Postgres Extension Discovery and Distribution](https://ardentperf.com/2024/03/21/major-developments-in-postgres-extension-discovery-and-distribution/)
 * [2024-07-21, 11:11:12](https://news.ycombinator.com/item?id=41024205) - [Satellite Drag Analysis During the May 2024 Geomagnetic Storm](https://arxiv.org/abs/2406.08617)
+* [2024-07-21, 11:10:24](https://news.ycombinator.com/item?id=41024199) - [AMD Ryzen AI 9 HX 370 12-Core APU Is Faster Than M3 Max](https://wccftech.com/amd-ryzen-ai-9-hx-370-12-core-apu-faster-20-core-14700hx-14-core-m3-max-passmark/)
 * [2024-07-21, 10:34:05](https://news.ycombinator.com/item?id=41024005) - [Prometheus metrics saves us from painful kernel debugging](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs)
 * [2024-07-21, 10:31:11](https://news.ycombinator.com/item?id=41023996) - [The one person in America happy about tipping fatigue](https://thehustle.co/originals/the-one-person-in-america-happy-about-tipping-fatigue)
 * [2024-07-21, 10:27:42](https://news.ycombinator.com/item?id=41023979) - [American Institute of Mathematics: Approved Open Textbooks](https://textbooks.aimath.org/textbooks/approved-textbooks/)

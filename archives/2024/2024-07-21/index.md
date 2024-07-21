@@ -13,6 +13,7 @@
 * [2024-07-21, 11:47:28](https://news.ycombinator.com/item?id=41024408) - [New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints](https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959)
 * [2024-07-21, 11:28:23](https://news.ycombinator.com/item?id=41024300) - [Major Developments in Postgres Extension Discovery and Distribution](https://ardentperf.com/2024/03/21/major-developments-in-postgres-extension-discovery-and-distribution/)
 * [2024-07-21, 11:11:12](https://news.ycombinator.com/item?id=41024205) - [Satellite Drag Analysis During the May 2024 Geomagnetic Storm](https://arxiv.org/abs/2406.08617)
+* [2024-07-21, 11:10:24](https://news.ycombinator.com/item?id=41024199) - [AMD Ryzen AI 9 HX 370 12-Core APU Is Faster Than M3 Max](https://wccftech.com/amd-ryzen-ai-9-hx-370-12-core-apu-faster-20-core-14700hx-14-core-m3-max-passmark/)
 * [2024-07-21, 10:34:05](https://news.ycombinator.com/item?id=41024005) - [Prometheus metrics saves us from painful kernel debugging](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs)
 * [2024-07-21, 10:31:11](https://news.ycombinator.com/item?id=41023996) - [The one person in America happy about tipping fatigue](https://thehustle.co/originals/the-one-person-in-america-happy-about-tipping-fatigue)
 * [2024-07-21, 10:27:42](https://news.ycombinator.com/item?id=41023979) - [American Institute of Mathematics: Approved Open Textbooks](https://textbooks.aimath.org/textbooks/approved-textbooks/)
