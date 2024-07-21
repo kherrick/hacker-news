@@ -25,6 +25,7 @@
 * [2024-07-16, 18:56:07](https://news.ycombinator.com/item?id=40979221) - [HuggingFace: Scaling open source community 300%/yr with No OKRs and No Meetings](https://dx.tips/huggingface)
 * [2024-07-16, 18:37:35](https://news.ycombinator.com/item?id=40979074) - [Europe's fate is in Germany's hands now](https://www.noahpinion.blog/p/europes-fate-is-in-germanys-hands)
 * [2024-07-16, 18:19:11](https://news.ycombinator.com/item?id=40978919) - [Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
+* [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
 * [2024-07-16, 18:12:33](https://news.ycombinator.com/item?id=40978865) - [Whose bug is this anyway? (2012)](https://www.codeofhonor.com/blog/whose-bug-is-this-anyway)
 * [2024-07-16, 18:08:58](https://news.ycombinator.com/item?id=40978831) - [Optimizing a Bignum Library for Fun](https://austinhenley.com/blog/bignum2.html)
