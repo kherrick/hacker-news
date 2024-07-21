@@ -50,6 +50,7 @@
 * [2024-07-17, 14:13:39](https://news.ycombinator.com/item?id=40986181) - [Tom Lehrer and Santa Cruz: the trail of one of America's premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
 * [2024-07-17, 13:39:08](https://news.ycombinator.com/item?id=40985815) - [Former Bungie, Pokémon Lawyer Explains How They Caught Leakers](https://www.bloomberg.com/news/newsletters/2024-07-12/former-bungie-pokemon-lawyer-explains-how-they-caught-leakers)
 * [2024-07-17, 13:29:38](https://news.ycombinator.com/item?id=40985718) - [Self Hosting 101 – A Beginner's Guide](https://ente.io/blog/self-hosting-101/)
+* [2024-07-17, 13:25:15](https://news.ycombinator.com/item?id=40985674) - [Show HN: I made a tool to HTTPS your localhost](https://lokal.so/)
 * [2024-07-17, 13:19:03](https://news.ycombinator.com/item?id=40985609) - [Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
 * [2024-07-17, 13:17:58](https://news.ycombinator.com/item?id=40985596) - [(Opinion) Crypto mining is nonessential and is killing our climate](https://news.ycombinator.com/item?id=40985596)
 * [2024-07-17, 13:02:28](https://news.ycombinator.com/item?id=40985436) - [New Technology Could Reduce the Amount of Energy for Air Conditioning](https://www.wired.com/story/cutting-edge-technology-could-massively-reduce-the-amount-of-energy-used-for-air-conditioning/)
