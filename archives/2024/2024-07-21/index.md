@@ -28,6 +28,7 @@
 * [2024-07-21, 07:40:50](https://news.ycombinator.com/item?id=41023251) - [Ask HN: Where to find the cheapest proxies for web scraping?](https://news.ycombinator.com/item?id=41023251)
 * [2024-07-21, 07:26:14](https://news.ycombinator.com/item?id=41023195) - [Research into trans medicine has been manipulated](https://www.economist.com/united-states/2024/06/27/research-into-trans-medicine-has-been-manipulated)
 * [2024-07-21, 07:13:39](https://news.ycombinator.com/item?id=41023138) - [Syscall.sh](https://syscall.sh/)
+* [2024-07-21, 07:01:59](https://news.ycombinator.com/item?id=41023087) - [Ventilation Made Easy](https://www.mpg.de/16075350/1127-chem-ventilation-made-easy-152990)
 * [2024-07-21, 07:01:49](https://news.ycombinator.com/item?id=41023086) - [\"Any sufficiently bad software update is indistinguishable from a cyberattack\"](https://twitter.com/leighhoneywell/status/1814278230704111792)
 * [2024-07-21, 06:23:31](https://news.ycombinator.com/item?id=41022890) - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)

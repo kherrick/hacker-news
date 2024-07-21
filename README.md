@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-21, 16:14:57](https://news.ycombinator.com/item?id=41026096) - [Tell HN: Educative.io auto-renews without warning, refuses to provide refunds](https://news.ycombinator.com/item?id=41026096)
-* [2024-07-21, 15:04:55](https://news.ycombinator.com/item?id=41025612) - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 12:17:39](https://news.ycombinator.com/item?id=41024559) - [Trench collapses have killed hundreds of workers in the US over the last decade](https://text.npr.org/g-s1-9028)
@@ -11,6 +10,7 @@
 * [2024-07-21, 09:09:03](https://news.ycombinator.com/item?id=41023613) - [Show HN: I made helpers for Web Components](https://github.com/mfcc64/wc-helpers)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
+* [2024-07-21, 07:01:59](https://news.ycombinator.com/item?id=41023087) - [Ventilation Made Easy](https://www.mpg.de/16075350/1127-chem-ventilation-made-easy-152990)
 * [2024-07-21, 06:23:31](https://news.ycombinator.com/item?id=41022890) - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 * [2024-07-21, 00:17:34](https://news.ycombinator.com/item?id=41021366) - [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
