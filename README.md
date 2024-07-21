@@ -18,6 +18,7 @@
 * [2024-07-21, 09:09:03](https://news.ycombinator.com/item?id=41023613) - [Show HN: I made helpers for Web Components](https://github.com/mfcc64/wc-helpers)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 07:53:25](https://news.ycombinator.com/item?id=41023319) - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
+* [2024-07-21, 06:23:31](https://news.ycombinator.com/item?id=41022890) - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral? (2013)](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 * [2024-07-21, 00:17:34](https://news.ycombinator.com/item?id=41021366) - [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
 * [2024-07-20, 20:52:23](https://news.ycombinator.com/item?id=41019777) - [Google Distributed Cloud air-gapped appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
@@ -29,7 +30,6 @@
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
 * [2024-07-16, 11:44:54](https://news.ycombinator.com/item?id=40975625) - [NHRA's Alan Reinhart Explains Why John Force's Parachutes Failed to Deploy](https://bangshift.com/bangshift1320/john-force-crash-news-nhras-alan-reinhart-explains-why-john-forces-parachutes-failed-to-deploy-in-richmond/)
-* [2024-07-16, 10:07:58](https://news.ycombinator.com/item?id=40975049) - [Show HN: You can program without loop and recursion and×÷- is all you need](https://github.com/raoofha/Ar)
 
 ## [Archives](archives/index.md)
 
