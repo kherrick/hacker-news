@@ -74,6 +74,7 @@
 * [2024-07-16, 12:23:54](https://news.ycombinator.com/item?id=40975855) - [Math is running out of problems](https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b)
 * [2024-07-16, 12:12:42](https://news.ycombinator.com/item?id=40975797) - [UK has almost 1M EV chargers, with new public one installed every 25 minutes](https://www.theguardian.com/business/article/2024/jul/15/electric-vehicle-ev-chargers-uk-installations)
 * [2024-07-16, 11:57:38](https://news.ycombinator.com/item?id=40975691) - [The science behind an iPhone dumb phone](https://dumbph.com/the-science-behind-an-iphone-dumb-phone/)
+* [2024-07-16, 11:44:54](https://news.ycombinator.com/item?id=40975625) - [NHRA's Alan Reinhart Explains Why John Force's Parachutes Failed to Deploy](https://bangshift.com/bangshift1320/john-force-crash-news-nhras-alan-reinhart-explains-why-john-forces-parachutes-failed-to-deploy-in-richmond/)
 * [2024-07-16, 11:25:06](https://news.ycombinator.com/item?id=40975509) - [Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
 * [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Mistaking Engineering Achievements for Human Linguistic Agency](https://arxiv.org/abs/2407.08790)
 * [2024-07-16, 10:49:27](https://news.ycombinator.com/item?id=40975289) - [A hard look at AWS GuardDuty shortcomings](https://tracebit.com/blog/a-hard-look-at-guardduty-shortcomings)

@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-21, 17:01:10](https://news.ycombinator.com/item?id=41026396) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-* [2024-07-21, 16:14:57](https://news.ycombinator.com/item?id=41026096) - [Tell HN: Educative.io auto-renews without warning, refuses to provide refunds](https://news.ycombinator.com/item?id=41026096)
-* [2024-07-21, 15:04:55](https://news.ycombinator.com/item?id=41025612) - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
+* [2024-07-21, 15:49:58](https://news.ycombinator.com/item?id=41025923) - [Don't underestimate the importance of oral health](https://peterattiamd.com/importance-of-oral-health/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 12:17:39](https://news.ycombinator.com/item?id=41024559) - [Trench collapses have killed hundreds of workers in the US over the last decade](https://text.npr.org/g-s1-9028)
@@ -29,6 +28,7 @@
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
 * [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
+* [2024-07-16, 11:44:54](https://news.ycombinator.com/item?id=40975625) - [NHRA's Alan Reinhart Explains Why John Force's Parachutes Failed to Deploy](https://bangshift.com/bangshift1320/john-force-crash-news-nhras-alan-reinhart-explains-why-john-forces-parachutes-failed-to-deploy-in-richmond/)
 * [2024-07-16, 10:54:31](https://news.ycombinator.com/item?id=40975320) - [Large models of what? Mistaking engineering achievements for linguistic agency](https://arxiv.org/abs/2407.08790)
 
 ## [Archives](archives/index.md)
