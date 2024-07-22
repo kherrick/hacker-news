@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
 * [2024-07-22, 21:23:02](https://news.ycombinator.com/item?id=41039967) - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
 * [2024-07-22, 20:55:02](https://news.ycombinator.com/item?id=41039708) - [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 * [2024-07-22, 20:47:44](https://news.ycombinator.com/item?id=41039644) - [Glasgow 2024 Hugo Awards Statement – 22 July, 2024](https://glasgow2024.org/hugo-awards/statement-22-july-2024/)
@@ -25,7 +26,6 @@
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A source-available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-22, 05:17:23](https://news.ycombinator.com/item?id=41031112) - [Eza: A modern, maintained replacement for ls](https://github.com/eza-community/eza)
-* [2024-07-19, 02:15:26](https://news.ycombinator.com/item?id=41001550) - [What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-18, 17:18:13](https://news.ycombinator.com/item?id=40997764) - [How far should a programming language aware diff go?](https://semanticdiff.com/blog/language-aware-diff-how-far/)
 * [2024-07-17, 18:39:11](https://news.ycombinator.com/item?id=40988935) - [Lessons from a Private Equity Earn Out: How I Lost £550K Due to a Lowercase 'C'](https://www.entrepreneur.com/en-gb/leadership/lessons-from-a-private-equity-earn-out-how-i-lost-ps550k/475909)
 * [2024-07-17, 17:31:46](https://news.ycombinator.com/item?id=40988229) - [All Golioth Hardware Is Now Open Source](https://blog.golioth.io/all-golioth-hardware-is-now-open-source/)
