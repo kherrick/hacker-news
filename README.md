@@ -20,6 +20,7 @@
 * [2024-07-21, 16:19:17](https://news.ycombinator.com/item?id=41026123) - [Intel says 13th and 14th Gen mobile CPUs are crashing](https://www.tomshardware.com/pc-components/cpus/intel-says-13th-and-14th-gen-mobile-cpus-are-crashing-but-not-due-to-the-same-bug-as-desktop-chips-chipmaker-blames-common-software-and-hardware-issues)
 * [2024-07-21, 14:42:02](https://news.ycombinator.com/item?id=41025450) - [A brief history of Dell Unix (2008)](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 13:34:17](https://news.ycombinator.com/item?id=41024964) - [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
+* [2024-07-21, 13:27:01](https://news.ycombinator.com/item?id=41024920) - [Carving ELF Files](https://blog.nietaanraken.nl/posts/elf-file-size/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
@@ -29,7 +30,6 @@
 * [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
 * [2024-07-19, 18:15:43](https://news.ycombinator.com/item?id=41009371) - [The Plague of Lust: A History of Venereal Disease in Antiquity (1901 Edition)](https://publicdomainreview.org/collection/the-plague-of-lust/)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
-* [2024-07-16, 21:40:19](https://news.ycombinator.com/item?id=40980588) - [The Neurodivergent Engineer's Strategy for Success](https://spectrum.ieee.org/neurodivergent-engineer-strategy-for-success)
 
 ## [Archives](archives/index.md)
 
