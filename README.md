@@ -26,10 +26,10 @@
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
+* [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral? (2013)](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 * [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
 * [2024-07-17, 18:07:18](https://news.ycombinator.com/item?id=40988637) - [Ask HN: What's your preferred logging stack in Kubernetes](https://news.ycombinator.com/item?id=40988637)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
-* [2024-07-17, 14:26:22](https://news.ycombinator.com/item?id=40986305) - [A New Specialized Train Is Ready to Haul Nuclear Waste](https://spectrum.ieee.org/nuclear-waste-train-car)
 
 ## [Archives](archives/index.md)
 
