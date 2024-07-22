@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
+* [2024-07-22, 19:10:08](https://news.ycombinator.com/item?id=41038520) - [Microsoft Blames European Commission for Major Worldwide Outage](https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:10:42](https://news.ycombinator.com/item?id=41037595) - [Why Delta is still canceling flights as other airlines return to normal](https://www.cnn.com/2024/07/22/business/delta-canceled-flights-computer-problems/index.html)
 * [2024-07-22, 17:58:13](https://news.ycombinator.com/item?id=41037380) - [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
