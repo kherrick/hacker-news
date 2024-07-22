@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-22, 20:05:42](https://news.ycombinator.com/item?id=41039213) - [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
+* [2024-07-22, 19:22:54](https://news.ycombinator.com/item?id=41038703) - [On having more interesting ideas](https://www.henrikkarlsson.xyz/p/interesting-ideas)
 * [2024-07-22, 19:14:53](https://news.ycombinator.com/item?id=41038586) - [A new path for Privacy Sandbox on the web](https://privacysandbox.com/news/privacy-sandbox-update/)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
@@ -19,7 +20,6 @@
 * [2024-07-22, 16:48:44](https://news.ycombinator.com/item?id=41036526) - [Oxygen discovery defies knowledge of the deep ocean](https://www.bbc.co.uk/news/articles/c728ven2v9eo)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists discover a new hormone that can build strong bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by transcript, not waveform](https://github.com/bugbakery/audapolis)
-* [2024-07-22, 15:14:35](https://news.ycombinator.com/item?id=41035405) - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 14:21:20](https://news.ycombinator.com/item?id=41034738) - [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
 * [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 11:29:45](https://news.ycombinator.com/item?id=41033209) - [Physicist, 98, honoured with doctorate 75 years after groundbreaking discovery](https://www.theguardian.com/science/article/2024/jul/22/physicist-rosemary-fowler-honoured-doctorate-75-years-after-discovery)
