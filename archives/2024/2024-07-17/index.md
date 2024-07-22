@@ -20,6 +20,7 @@
 * [2024-07-17, 18:52:06](https://news.ycombinator.com/item?id=40989074) - [NOAA Is in Danger](https://www.theatlantic.com/science/archive/2024/07/noaa-project-2025-weather/678987/)
 * [2024-07-17, 18:51:00](https://news.ycombinator.com/item?id=40989069) - [Little Languages [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 * [2024-07-17, 18:40:36](https://news.ycombinator.com/item?id=40988954) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
+* [2024-07-17, 18:39:11](https://news.ycombinator.com/item?id=40988935) - [Lessons from a Private Equity Earn Out: How I Lost £550K Due to a Lowercase 'C'](https://www.entrepreneur.com/en-gb/leadership/lessons-from-a-private-equity-earn-out-how-i-lost-ps550k/475909)
 * [2024-07-17, 18:37:18](https://news.ycombinator.com/item?id=40988917) - [Htmx: Simplicity in an Age of Complicated Solutions](https://www.erikheemskerk.nl/htmx-simplicity/)
 * [2024-07-17, 18:31:21](https://news.ycombinator.com/item?id=40988864) - [Mini PCs Database](https://minipcs.org/)
 * [2024-07-17, 18:28:44](https://news.ycombinator.com/item?id=40988837) - [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
