@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 14:23:50",
+      "https://news.ycombinator.com/item?id=41034766"
+    ],
+    [
+      "370-mile hydrogen-electric seaplane set to clean up island hopping",
+      "https://newatlas.com/aircraft/jekta-zeroavia-hydrogen-electric-seaplane/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 14:21:20",
       "https://news.ycombinator.com/item?id=41034738"
     ],
@@ -225,18 +235,8 @@
       "https://news.ycombinator.com/item?id=41024362"
     ],
     [
-      "txtai: Open-source vector search and RAG for minimalists",
+      "Txtai: Open-source vector search and RAG for minimalists",
       "https://neuml.github.io/txtai/"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 11:37:54",
-      "https://news.ycombinator.com/item?id=41024358"
-    ],
-    [
-      "Show HN: A fake SMTP server for software integration testing",
-      "https://fakemail.stream"
     ]
   ],
   [
