@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 20:05:42](https://news.ycombinator.com/item?id=41039213) - [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
 * [2024-07-22, 20:00:40](https://news.ycombinator.com/item?id=41039142) - [Google says it won't be 'deprecating third-party cookies' in Chrome](https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/)
 * [2024-07-22, 19:57:20](https://news.ycombinator.com/item?id=41039106) - [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
 * [2024-07-22, 19:22:36](https://news.ycombinator.com/item?id=41038698) - [Reducing Adverse Side Effects of Popular Next-Generation Obesity Medications](https://monell.org/monell-center-discovery-could-help-reduce-adverse-side-effects-of-popular-next-generation-obesity-medications/)
@@ -12,6 +13,7 @@
 * [2024-07-22, 19:10:08](https://news.ycombinator.com/item?id=41038520) - [Microsoft Blames European Commission for Major Worldwide Outage](https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:47:23](https://news.ycombinator.com/item?id=41038188) - [Reflections on Luck and Skill from the Part Time Poker Grind](https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on)
+* [2024-07-22, 18:38:25](https://news.ycombinator.com/item?id=41038055) - [A Man Who Thought Too Fast](https://www.newyorker.com/magazine/2020/05/04/the-man-who-thought-too-fast)
 * [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-07-22, 18:21:14](https://news.ycombinator.com/item?id=41037774) - [Netflix has open-sourced its Maestro Workflow Orchestrator](https://github.com/Netflix/maestro)
 * [2024-07-22, 18:20:16](https://news.ycombinator.com/item?id=41037745) - [Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
