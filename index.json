@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-07-22, 02:24:19",
+      "https://news.ycombinator.com/item?id=41030360"
+    ],
+    [
+      "Dondurma: The Turkish ice cream eaten with a knife and fork",
+      "https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 01:12:12",
       "https://news.ycombinator.com/item?id=41029987"
     ],
     [
       "Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]",
       "https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 01:02:55",
+      "https://news.ycombinator.com/item?id=41029942"
+    ],
+    [
+      "Cosmopolitan v3.5.8",
+      "https://github.com/jart/cosmopolitan/releases/tag/3.5.8"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Pin",
       "https://without.boats/blog/pin/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 23:12:59",
+      "https://news.ycombinator.com/item?id=41029205"
+    ],
+    [
+      "The MTA's Oldest Controls Kept Going During the Tech Outage",
+      "https://www.curbed.com/article/mta-tech-outage-countdown-clocks-oldest-kept-going.html"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-07-21, 13:27:01",
-      "https://news.ycombinator.com/item?id=41024920"
-    ],
-    [
-      "Carving ELF Files",
-      "https://blog.nietaanraken.nl/posts/elf-file-size/"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 12:38:39",
       "https://news.ycombinator.com/item?id=41024664"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-07-16, 18:47:34",
-      "https://news.ycombinator.com/item?id=40979146"
+      "2024-07-16, 21:40:19",
+      "https://news.ycombinator.com/item?id=40980588"
     ],
     [
-      "Rosey Grier: From NFL Football to Knitting and Needlework (2023)",
-      "https://www.crochetconcupiscence.com/unique-1970s-crocheter-pro-football-player-rosey-grier/"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 18:17:55",
-      "https://news.ycombinator.com/item?id=40978907"
-    ],
-    [
-      "Polymorphic Shellcode (2023)",
-      "https://neugierig.org/software/blog/2023/03/polymorphic-shellcode.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 14:06:51",
-      "https://news.ycombinator.com/item?id=40976765"
-    ],
-    [
-      "Inkbase: Programmable Ink (2022)",
-      "https://www.inkandswitch.com/inkbase/"
+      "The Neurodivergent Engineer's Strategy for Success",
+      "https://spectrum.ieee.org/neurodivergent-engineer-strategy-for-success"
     ]
   ]
 ]
