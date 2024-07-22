@@ -7,6 +7,7 @@
 * [2024-07-21, 23:56:21](https://news.ycombinator.com/item?id=41029552) - [G1 AR Glasses](https://www.evenrealities.com/g1)
 * [2024-07-21, 23:28:01](https://news.ycombinator.com/item?id=41029320) - [Show HN: Shade/Bs – Modern Web UIs Without Node.js](https://ui.masoftware.net/)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
+* [2024-07-21, 23:12:59](https://news.ycombinator.com/item?id=41029205) - [The MTA's Oldest Controls Kept Going During the Tech Outage](https://www.curbed.com/article/mta-tech-outage-countdown-clocks-oldest-kept-going.html)
 * [2024-07-21, 22:33:29](https://news.ycombinator.com/item?id=41028887) - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
 * [2024-07-21, 22:29:28](https://news.ycombinator.com/item?id=41028849) - [The only doctor prescribed videogame for ADHD](https://www.endeavorrx.com/)
 * [2024-07-21, 22:23:48](https://news.ycombinator.com/item?id=41028795) - [Mojeek – The alternative search engine that puts the people who use it first](https://www.mojeek.com/about/)

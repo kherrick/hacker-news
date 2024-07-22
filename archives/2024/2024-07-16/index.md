@@ -10,6 +10,7 @@
 * [2024-07-16, 22:26:39](https://news.ycombinator.com/item?id=40980901) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005) [pdf]](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)
 * [2024-07-16, 21:58:21](https://news.ycombinator.com/item?id=40980715) - [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
 * [2024-07-16, 21:47:34](https://news.ycombinator.com/item?id=40980639) - [Invalid SMILES beneficial rather than detrimental to chemical language models](https://www.nature.com/articles/s42256-024-00821-x)
+* [2024-07-16, 21:40:19](https://news.ycombinator.com/item?id=40980588) - [The Neurodivergent Engineer's Strategy for Success](https://spectrum.ieee.org/neurodivergent-engineer-strategy-for-success)
 * [2024-07-16, 21:18:45](https://news.ycombinator.com/item?id=40980429) - [Tunnel found in Tijuana is so long authorities need oxygen tanks](https://www.latintimes.com/suspected-drug-smuggling-found-tijuana-so-long-authorities-dont-have-enough-oxygen-reach-other-556354)
 * [2024-07-16, 21:00:55](https://news.ycombinator.com/item?id=40980289) - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
 * [2024-07-16, 20:55:05](https://news.ycombinator.com/item?id=40980253) - [Who's got the guts to go to the moon?](https://www.experimental-history.com/p/whos-got-the-guts-to-go-to-the-moon)

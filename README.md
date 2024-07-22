@@ -1,10 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-22, 02:25:10](https://news.ycombinator.com/item?id=41030362) - [A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run](https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/)
+* [2024-07-22, 02:24:19](https://news.ycombinator.com/item?id=41030360) - [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
+* [2024-07-22, 01:02:55](https://news.ycombinator.com/item?id=41029942) - [Cosmopolitan v3.5.8](https://github.com/jart/cosmopolitan/releases/tag/3.5.8)
 * [2024-07-22, 00:39:11](https://news.ycombinator.com/item?id=41029803) - [How the CIA 'kidnapped' a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
 * [2024-07-21, 23:56:21](https://news.ycombinator.com/item?id=41029552) - [G1 AR Glasses](https://www.evenrealities.com/g1)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
+* [2024-07-21, 23:12:59](https://news.ycombinator.com/item?id=41029205) - [The MTA's Oldest Controls Kept Going During the Tech Outage](https://www.curbed.com/article/mta-tech-outage-countdown-clocks-oldest-kept-going.html)
 * [2024-07-21, 22:33:29](https://news.ycombinator.com/item?id=41028887) - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
 * [2024-07-21, 22:23:48](https://news.ycombinator.com/item?id=41028795) - [Mojeek – The alternative search engine that puts the people who use it first](https://www.mojeek.com/about/)
 * [2024-07-21, 21:59:47](https://news.ycombinator.com/item?id=41028571) - [Constantine: Nim lang high-performance, zero-dependency cryptography stack](https://github.com/mratsim/constantine)
@@ -17,7 +20,6 @@
 * [2024-07-21, 16:19:17](https://news.ycombinator.com/item?id=41026123) - [Intel says 13th and 14th Gen mobile CPUs are crashing](https://www.tomshardware.com/pc-components/cpus/intel-says-13th-and-14th-gen-mobile-cpus-are-crashing-but-not-due-to-the-same-bug-as-desktop-chips-chipmaker-blames-common-software-and-hardware-issues)
 * [2024-07-21, 14:42:02](https://news.ycombinator.com/item?id=41025450) - [A brief history of Dell Unix (2008)](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 13:34:17](https://news.ycombinator.com/item?id=41024964) - [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
-* [2024-07-21, 13:27:01](https://news.ycombinator.com/item?id=41024920) - [Carving ELF Files](https://blog.nietaanraken.nl/posts/elf-file-size/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
@@ -27,9 +29,7 @@
 * [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
 * [2024-07-19, 18:15:43](https://news.ycombinator.com/item?id=41009371) - [The Plague of Lust: A History of Venereal Disease in Antiquity (1901 Edition)](https://publicdomainreview.org/collection/the-plague-of-lust/)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
-* [2024-07-16, 18:47:34](https://news.ycombinator.com/item?id=40979146) - [Rosey Grier: From NFL Football to Knitting and Needlework (2023)](https://www.crochetconcupiscence.com/unique-1970s-crocheter-pro-football-player-rosey-grier/)
-* [2024-07-16, 18:17:55](https://news.ycombinator.com/item?id=40978907) - [Polymorphic Shellcode (2023)](https://neugierig.org/software/blog/2023/03/polymorphic-shellcode.html)
-* [2024-07-16, 14:06:51](https://news.ycombinator.com/item?id=40976765) - [Inkbase: Programmable Ink (2022)](https://www.inkandswitch.com/inkbase/)
+* [2024-07-16, 21:40:19](https://news.ycombinator.com/item?id=40980588) - [The Neurodivergent Engineer's Strategy for Success](https://spectrum.ieee.org/neurodivergent-engineer-strategy-for-success)
 
 ## [Archives](archives/index.md)
 
