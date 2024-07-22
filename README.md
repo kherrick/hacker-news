@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 17:46:44](https://news.ycombinator.com/item?id=41037226) - [Sam Altman's basic-income study is out. Here's what it found](https://www.businessinsider.com/sam-altman-basic-income-study-results-2024-7)
 * [2024-07-22, 17:38:14](https://news.ycombinator.com/item?id=41037116) - [Why Americans Aren't Having Babies](https://www.wsj.com/lifestyle/relationships/americans-babies-childless-birthrate-daf438f9)
 * [2024-07-22, 17:36:35](https://news.ycombinator.com/item?id=41037097) - [The workers have spoken: They're staying home](https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html)
 * [2024-07-22, 17:29:48](https://news.ycombinator.com/item?id=41037010) - [Apple TV+ Expenditure Has Crossed $20B, Making It Unsustainable](https://wccftech.com/apple-tv-expenditure-crossed-20-billion/)
@@ -24,7 +25,6 @@
 * [2024-07-21, 23:45:07](https://news.ycombinator.com/item?id=41029467) - [Man of the Hole](https://en.wikipedia.org/wiki/Man_of_the_Hole)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
 * [2024-07-21, 17:39:52](https://news.ycombinator.com/item?id=41026663) - [Stremio OS Is Now Available for Raspberry Pi 5 and 4](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/)
-* [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [Txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
 * [2024-07-19, 02:15:26](https://news.ycombinator.com/item?id=41001550) - [What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
