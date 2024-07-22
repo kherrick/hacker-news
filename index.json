@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-07-22, 01:12:12",
+      "https://news.ycombinator.com/item?id=41029987"
+    ],
+    [
+      "Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]",
+      "https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 00:39:11",
+      "https://news.ycombinator.com/item?id=41029803"
+    ],
+    [
+      "How the CIA 'kidnapped' a Soviet moon probe during the space race",
+      "https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 00:03:36",
+      "https://news.ycombinator.com/item?id=41029590"
+    ],
+    [
+      "Microsoft points finger at the EU for not being able to lock down Windows",
+      "https://www.neowin.net/news/microsoft-points-finger-at-the-eu-for-not-being-able-to-lock-down-windows/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 23:28:01",
+      "https://news.ycombinator.com/item?id=41029320"
+    ],
+    [
+      "Show HN: Shade/Bs – Modern Web UIs Without Node.js",
+      "https://ui.masoftware.net/"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 22:33:29",
       "https://news.ycombinator.com/item?id=41028887"
     ],
@@ -11,12 +51,22 @@
   ],
   [
     [
-      "2024-07-21, 22:29:28",
-      "https://news.ycombinator.com/item?id=41028849"
+      "2024-07-21, 22:23:48",
+      "https://news.ycombinator.com/item?id=41028795"
     ],
     [
-      "The only doctor prescribed videogame for ADHD",
-      "https://www.endeavorrx.com/"
+      "Mojeek – The alternative search engine that puts the people who use it first",
+      "https://www.mojeek.com/about/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 21:59:47",
+      "https://news.ycombinator.com/item?id=41028571"
+    ],
+    [
+      "Constantine: Nim lang high-performance, zero-dependency cryptography stack",
+      "https://github.com/mratsim/constantine"
     ]
   ],
   [
@@ -41,32 +91,12 @@
   ],
   [
     [
-      "2024-07-21, 20:13:18",
-      "https://news.ycombinator.com/item?id=41027749"
-    ],
-    [
-      "Node.js Is Here to Stay",
-      "https://blog.platformatic.dev/nodejs-is-here-to-stay"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 19:05:36",
       "https://news.ycombinator.com/item?id=41027320"
     ],
     [
       "The data that powers AI is disappearing fast",
       "https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 18:57:03",
-      "https://news.ycombinator.com/item?id=41027265"
-    ],
-    [
-      "Ask HN: What resources do you recommend for learning Haskell?",
-      "https://news.ycombinator.com/item?id=41027265"
     ]
   ],
   [
@@ -221,52 +251,12 @@
   ],
   [
     [
-      "2024-07-21, 00:17:34",
-      "https://news.ycombinator.com/item?id=41021366"
-    ],
-    [
-      "Initial details about why CrowdStrike's CSAgent.sys crashed",
-      "https://twitter.com/patrickwardle/status/1814343502886477857"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 20:33:06",
-      "https://news.ycombinator.com/item?id=41019604"
-    ],
-    [
-      "Minuteman missile communications",
-      "https://computer.rip/2024-07-20-minuteman-missile-communications.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 20:29:37",
-      "https://news.ycombinator.com/item?id=41019561"
-    ],
-    [
-      "Intel vs. Samsung vs. TSMC",
-      "https://semiengineering.com/intel-vs-samsung-vs-tsmc/"
-    ]
-  ],
-  [
-    [
       "2024-07-20, 17:56:57",
       "https://news.ycombinator.com/item?id=41018308"
     ],
     [
       "Mining JIT traces for missing optimizations with Z3",
       "https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 17:34:52",
-      "https://news.ycombinator.com/item?id=41018135"
-    ],
-    [
-      "A Linux kernel syscall implementation tracker",
-      "https://syscalls.mebeim.net/?table=x86/64/x64/latest"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Rosey Grier: From NFL Football to Knitting and Needlework (2023)",
       "https://www.crochetconcupiscence.com/unique-1970s-crocheter-pro-football-player-rosey-grier/"
+    ]
+  ],
+  [
+    [
+      "2024-07-16, 18:17:55",
+      "https://news.ycombinator.com/item?id=40978907"
+    ],
+    [
+      "Polymorphic Shellcode (2023)",
+      "https://neugierig.org/software/blog/2023/03/polymorphic-shellcode.html"
     ]
   ],
   [
