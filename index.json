@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 10:12:24",
+      "https://news.ycombinator.com/item?id=41032694"
+    ],
+    [
+      "Web Crap Has Taken Control",
+      "https://medium.com/@fulalas/web-crap-has-taken-control-71c459df6e62"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 08:33:05",
       "https://news.ycombinator.com/item?id=41032038"
     ],
@@ -37,16 +47,6 @@
     [
       "Ryanair wins screen scraping case against Booking.com in US court ruling",
       "https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 08:09:43",
-      "https://news.ycombinator.com/item?id=41031912"
-    ],
-    [
-      "Why are people paying so much for Vercel?",
-      "https://news.ycombinator.com/item?id=41031912"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-07-21, 21:02:30",
-      "https://news.ycombinator.com/item?id=41028086"
-    ],
-    [
-      "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
-      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 20:43:29",
       "https://news.ycombinator.com/item?id=41027924"
     ],
@@ -277,6 +267,16 @@
     [
       "txtai: Open-source vector search and RAG for minimalists",
       "https://neuml.github.io/txtai/"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 02:15:26",
+      "https://news.ycombinator.com/item?id=41001550"
+    ],
+    [
+      "What's the point of std:monostate? You can't do anything with it",
+      "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
     ]
   ],
   [
