@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
 * [2024-07-21, 23:28:01](https://news.ycombinator.com/item?id=41029320) - [Show HN: Shade/Bs – Modern Web UIs Without Node.js](https://ui.masoftware.net/)
+* [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
 * [2024-07-21, 22:33:29](https://news.ycombinator.com/item?id=41028887) - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
 * [2024-07-21, 22:29:28](https://news.ycombinator.com/item?id=41028849) - [The only doctor prescribed videogame for ADHD](https://www.endeavorrx.com/)
 * [2024-07-21, 22:23:48](https://news.ycombinator.com/item?id=41028795) - [Mojeek – The alternative search engine that puts the people who use it first](https://www.mojeek.com/about/)
@@ -13,6 +14,7 @@
 * [2024-07-21, 21:39:43](https://news.ycombinator.com/item?id=41028407) - [Why I left Google](https://fogknife.com/2024-07-21-why-i-left-google.html)
 * [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+* [2024-07-21, 20:43:29](https://news.ycombinator.com/item?id=41027924) - [AI method rapidly speeds predictions of materials' thermal properties](https://news.mit.edu/2024/ai-method-radically-speeds-predictions-materials-thermal-properties-0716)
 * [2024-07-21, 20:32:29](https://news.ycombinator.com/item?id=41027854) - [Windows 3.1 saves Southwest Airlines during CrowdStrike outage](https://www.tomshardware.com/software/windows/windows-31-saves-the-day-during-crowdstrike-outage)
 * [2024-07-21, 20:13:18](https://news.ycombinator.com/item?id=41027749) - [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)
 * [2024-07-21, 20:11:05](https://news.ycombinator.com/item?id=41027739) - [Custom Linux powered smart-TV breaks free from ads and tracking](https://www.tomshardware.com/software/linux/custom-linux-powered-smart-tv-breaks-free-from-ads-and-tracking-enables-ultimate-customizability-earlgreytv-straps-a-laptop-to-the-back-to-unlock-unlimited-control)
