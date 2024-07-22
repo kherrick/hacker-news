@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-07-22, 08:26:07",
-      "https://news.ycombinator.com/item?id=41031998"
-    ],
-    [
-      "Jellyfin: We're Good, Seriously",
-      "https://forum.jellyfin.org/t-we-re-good-seriously"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 08:22:16",
       "https://news.ycombinator.com/item?id=41031975"
     ],
@@ -87,16 +77,6 @@
     [
       "Orch: a Rust framework for LLM orchestration",
       "https://github.com/guywaldman/orch"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 06:57:19",
-      "https://news.ycombinator.com/item?id=41031585"
-    ],
-    [
-      "Parse, Don't Validate (2019)",
-      "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
     ]
   ],
   [
@@ -167,6 +147,16 @@
     [
       "How to Become a Registrar",
       "https://www.icann.org/resources/pages/accreditation-2012-02-25-en"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 02:22:12",
+      "https://news.ycombinator.com/item?id=41030352"
+    ],
+    [
+      "CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes",
+      "https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Glisp: Graphical Lisp",
       "https://glisp.app/commit:e7fbaae/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 14:42:02",
+      "https://news.ycombinator.com/item?id=41025450"
+    ],
+    [
+      "A brief history of Dell Unix (2008)",
+      "https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/"
     ]
   ],
   [
