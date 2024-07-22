@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 16:25:48](https://news.ycombinator.com/item?id=41036236) - [A Few Indisputable Points About Poptimism and Then I Give Up](https://freddiedeboer.substack.com/p/a-few-indisputable-points-about-poptimism)
+* [2024-07-22, 16:24:11](https://news.ycombinator.com/item?id=41036216) - [All the existential risk, none of the economic impact. That's a shitty trade](https://www.theintrinsicperspective.com/p/all-the-existential-risk-none-of)
 * [2024-07-22, 15:14:35](https://news.ycombinator.com/item?id=41035405) - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 15:06:07](https://news.ycombinator.com/item?id=41035309) - [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
 * [2024-07-22, 14:41:14](https://news.ycombinator.com/item?id=41034987) - [The serious science of trolling LLMs](https://lcamtuf.substack.com/p/the-serious-science-of-trolling-llms)
