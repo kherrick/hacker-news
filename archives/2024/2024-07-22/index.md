@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
 * [2024-07-22, 22:31:17](https://news.ycombinator.com/item?id=41040543) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
+* [2024-07-22, 22:25:04](https://news.ycombinator.com/item?id=41040494) - [Diverse ML Systems at Netflix](https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d)
 * [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
 * [2024-07-22, 21:33:37](https://news.ycombinator.com/item?id=41040047) - [July 2024 Update on Instability Reports on Intel Core Processors](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617116)
 * [2024-07-22, 21:23:02](https://news.ycombinator.com/item?id=41039967) - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
