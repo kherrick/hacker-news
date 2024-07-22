@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 10:12:24](https://news.ycombinator.com/item?id=41032694) - [Web Crap Has Taken Control](https://medium.com/@fulalas/web-crap-has-taken-control-71c459df6e62)
 * [2024-07-22, 08:33:05](https://news.ycombinator.com/item?id=41032038) - [Autism can be reversed, scientists discover](https://www.telegraph.co.uk/news/2024/07/20/severe-autism-can-be-reversed-groundbreaking-study-suggests/)
 * [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
