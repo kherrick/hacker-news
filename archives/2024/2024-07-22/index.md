@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 14:21:20](https://news.ycombinator.com/item?id=41034738) - [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
 * [2024-07-22, 13:44:27](https://news.ycombinator.com/item?id=41034299) - [Internet Organised Crime Threat Assessment (Iocta) 2024 [pdf]](https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA%202024%20-%20EN_0.pdf)
 * [2024-07-22, 13:36:21](https://news.ycombinator.com/item?id=41034211) - [Scan HTML even faster with SIMD instructions (C++ and C#) – Daniel Lemire's blog](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
+* [2024-07-22, 13:32:37](https://news.ycombinator.com/item?id=41034169) - [Writing Software Engineering Handbook](https://www.yusufaytas.com/on-writing-software-engineering-handbook/)
 * [2024-07-22, 13:30:29](https://news.ycombinator.com/item?id=41034147) - [Sam Altman Gave People Free Money. Here's What Happened](https://www.forbes.com/sites/sarahemerson/2024/07/22/openai-founder-sam-altman-gave-thousands-of-people-free-money-heres-what-happened/)
 * [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 12:01:14](https://news.ycombinator.com/item?id=41033442) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
