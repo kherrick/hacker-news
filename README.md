@@ -2,7 +2,6 @@
 
 * [2024-07-22, 05:42:46](https://news.ycombinator.com/item?id=41031219) - [The CrowdStrike Failure Was a Warning](https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
-* [2024-07-22, 04:42:09](https://news.ycombinator.com/item?id=41030978) - [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://www.cnn.com/2024/07/19/health/deli-meat-listeria-outbreak/index.html)
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
 * [2024-07-22, 03:37:31](https://news.ycombinator.com/item?id=41030716) - [Show HN: Chrome didn't have a native vector db so I built one:3](https://github.com/wizenheimer/tinkerbird)
 * [2024-07-22, 03:29:18](https://news.ycombinator.com/item?id=41030674) - [Mysterious Objects Detected Floating Through Deep Space](https://futurism.com/the-byte/massive-objects-pulsars-dark-matter)
@@ -24,6 +23,7 @@
 * [2024-07-21, 14:42:02](https://news.ycombinator.com/item?id=41025450) - [A brief history of Dell Unix (2008)](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 13:34:17](https://news.ycombinator.com/item?id=41024964) - [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
+* [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
