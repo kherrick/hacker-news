@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 06:31:04](https://news.ycombinator.com/item?id=41031449) - [PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
 * [2024-07-22, 05:42:46](https://news.ycombinator.com/item?id=41031219) - [The CrowdStrike Failure Was a Warning](https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
@@ -23,7 +24,6 @@
 * [2024-07-21, 14:42:02](https://news.ycombinator.com/item?id=41025450) - [A brief history of Dell Unix (2008)](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 13:34:17](https://news.ycombinator.com/item?id=41024964) - [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
-* [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral? (2013)](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
