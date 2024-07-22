@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
+* [2024-07-22, 04:42:09](https://news.ycombinator.com/item?id=41030978) - [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://www.cnn.com/2024/07/19/health/deli-meat-listeria-outbreak/index.html)
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
 * [2024-07-22, 03:37:31](https://news.ycombinator.com/item?id=41030716) - [Show HN: Chrome didn't have a native vector db so I built one:3](https://github.com/wizenheimer/tinkerbird)
 * [2024-07-22, 03:29:18](https://news.ycombinator.com/item?id=41030674) - [Mysterious Objects Detected Floating Through Deep Space](https://futurism.com/the-byte/massive-objects-pulsars-dark-matter)
