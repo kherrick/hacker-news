@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 03:14:46](https://news.ycombinator.com/item?id=41030608) - [How to Become a Registrar](https://www.icann.org/resources/pages/accreditation-2012-02-25-en)
 * [2024-07-22, 02:24:19](https://news.ycombinator.com/item?id=41030360) - [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
 * [2024-07-22, 01:02:55](https://news.ycombinator.com/item?id=41029942) - [Cosmopolitan v3.5.8](https://github.com/jart/cosmopolitan/releases/tag/3.5.8)
@@ -12,7 +13,6 @@
 * [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 * [2024-07-21, 21:02:30](https://news.ycombinator.com/item?id=41028086) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-07-21, 20:43:29](https://news.ycombinator.com/item?id=41027924) - [AI method rapidly speeds predictions of materials' thermal properties](https://news.mit.edu/2024/ai-method-radically-speeds-predictions-materials-thermal-properties-0716)
-* [2024-07-21, 19:05:36](https://news.ycombinator.com/item?id=41027320) - [The data that powers AI is disappearing fast](https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html)
 * [2024-07-21, 17:39:52](https://news.ycombinator.com/item?id=41026663) - [Stremio OS Is Now Available for Raspberry Pi 5 and 4](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/)
 * [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
 * [2024-07-21, 16:19:17](https://news.ycombinator.com/item?id=41026123) - [Intel says 13th and 14th Gen mobile CPUs are crashing](https://www.tomshardware.com/pc-components/cpus/intel-says-13th-and-14th-gen-mobile-cpus-are-crashing-but-not-due-to-the-same-bug-as-desktop-chips-chipmaker-blames-common-software-and-hardware-issues)
