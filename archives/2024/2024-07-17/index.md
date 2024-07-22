@@ -41,6 +41,7 @@
 * [2024-07-17, 16:09:51](https://news.ycombinator.com/item?id=40987415) - [Letsencrypt Supports Wildcard Certificates](https://letsencrypt.org/docs/faq/)
 * [2024-07-17, 16:08:22](https://news.ycombinator.com/item?id=40987402) - [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
 * [2024-07-17, 15:52:34](https://news.ycombinator.com/item?id=40987224) - [Mice live longer when inflammation-boosting protein is blocked](https://www.nature.com/articles/d41586-024-02298-5)
+* [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
 * [2024-07-17, 15:27:39](https://news.ycombinator.com/item?id=40986923) - [Scientists find that small regions of the brain can take micro-naps](https://www.sciencedaily.com/releases/2024/07/240716165143.htm)
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 15:23:09](https://news.ycombinator.com/item?id=40986876) - [Amazon Sold a Used Diaper. It Tanked a Mom-and-Pop Business](https://www.bloomberg.com/news/articles/2024-07-15/how-bad-amazon-review-destroyed-beau-belle-littles-swim-diaper-business)
