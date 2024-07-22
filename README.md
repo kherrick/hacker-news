@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:10:42](https://news.ycombinator.com/item?id=41037595) - [Why Delta is still canceling flights as other airlines return to normal](https://www.cnn.com/2024/07/22/business/delta-canceled-flights-computer-problems/index.html)
 * [2024-07-22, 17:58:13](https://news.ycombinator.com/item?id=41037380) - [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
 * [2024-07-22, 17:43:10](https://news.ycombinator.com/item?id=41037177) - [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
@@ -9,7 +10,6 @@
 * [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
 * [2024-07-22, 16:48:44](https://news.ycombinator.com/item?id=41036526) - [Oxygen discovery defies knowledge of the deep ocean](https://www.bbc.co.uk/news/articles/c728ven2v9eo)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists discover a new hormone that can build strong bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
-* [2024-07-22, 16:32:31](https://news.ycombinator.com/item?id=41036334) - [You are probably sitting down for too long](https://www.bbc.com/future/article/20240722-why-you-are-probably-sitting-down-for-too-long)
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by word, not waveform](https://github.com/bugbakery/audapolis)
 * [2024-07-22, 16:24:11](https://news.ycombinator.com/item?id=41036216) - [All the existential risk, none of the economic impact. That's a shitty trade](https://www.theintrinsicperspective.com/p/all-the-existential-risk-none-of)
 * [2024-07-22, 15:14:35](https://news.ycombinator.com/item?id=41035405) - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
@@ -19,6 +19,7 @@
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A source-available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-22, 08:20:05](https://news.ycombinator.com/item?id=41031960) - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
+* [2024-07-22, 08:15:24](https://news.ycombinator.com/item?id=41031942) - [Apple tries to rein in Hollywood spending after years of losses](https://www.bloomberg.com/news/newsletters/2024-07-21/apple-tries-to-rein-in-hollywood-spending-after-years-of-losses)
 * [2024-07-22, 05:17:23](https://news.ycombinator.com/item?id=41031112) - [Eza: A modern, maintained replacement for ls](https://github.com/eza-community/eza)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: Datetime library for Rust](https://github.com/BurntSushi/jiff)
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [Rrweb – record and replay debugger for the web](https://www.rrweb.io/)
@@ -28,7 +29,6 @@
 * [2024-07-19, 02:15:26](https://news.ycombinator.com/item?id=41001550) - [What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-18, 17:18:13](https://news.ycombinator.com/item?id=40997764) - [How far should a programming language aware diff go?](https://semanticdiff.com/blog/language-aware-diff-how-far/)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
-* [2024-07-17, 14:26:22](https://news.ycombinator.com/item?id=40986305) - [A New Specialized Train Is Ready to Haul Nuclear Waste](https://spectrum.ieee.org/nuclear-waste-train-car)
 * [2024-07-17, 14:20:51](https://news.ycombinator.com/item?id=40986250) - [Wide angle lens distortion correction from lines](https://hh409.user.srcf.net/blog/lens-distortion-correction-lines.html)
 
 ## [Archives](archives/index.md)

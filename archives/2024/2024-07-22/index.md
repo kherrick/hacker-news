@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:10:42](https://news.ycombinator.com/item?id=41037595) - [Why Delta is still canceling flights as other airlines return to normal](https://www.cnn.com/2024/07/22/business/delta-canceled-flights-computer-problems/index.html)
 * [2024-07-22, 17:58:13](https://news.ycombinator.com/item?id=41037380) - [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
 * [2024-07-22, 17:46:44](https://news.ycombinator.com/item?id=41037226) - [Sam Altman's basic-income study is out. Here's what it found](https://www.businessinsider.com/sam-altman-basic-income-study-results-2024-7)
@@ -49,6 +50,7 @@
 * [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-22, 08:20:05](https://news.ycombinator.com/item?id=41031960) - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
+* [2024-07-22, 08:15:24](https://news.ycombinator.com/item?id=41031942) - [Apple tries to rein in Hollywood spending after years of losses](https://www.bloomberg.com/news/newsletters/2024-07-21/apple-tries-to-rein-in-hollywood-spending-after-years-of-losses)
 * [2024-07-22, 08:09:43](https://news.ycombinator.com/item?id=41031912) - [Why are people paying so much for Vercel?](https://news.ycombinator.com/item?id=41031912)
 * [2024-07-22, 07:52:22](https://news.ycombinator.com/item?id=41031837) - [Bash-Oneliners: A collection of terminal tricks for Linux](https://github.com/onceupon/Bash-Oneliner)
 * [2024-07-22, 07:49:05](https://news.ycombinator.com/item?id=41031824) - [Orch: a Rust framework for LLM orchestration](https://github.com/guywaldman/orch)
