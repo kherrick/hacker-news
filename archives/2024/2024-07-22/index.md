@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
+* [2024-07-22, 08:20:05](https://news.ycombinator.com/item?id=41031960) - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
+* [2024-07-22, 08:09:43](https://news.ycombinator.com/item?id=41031912) - [Why are people paying so much for Vercel?](https://news.ycombinator.com/item?id=41031912)
 * [2024-07-22, 07:49:05](https://news.ycombinator.com/item?id=41031824) - [Orch: a Rust framework for LLM orchestration](https://github.com/guywaldman/orch)
 * [2024-07-22, 06:57:19](https://news.ycombinator.com/item?id=41031585) - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-07-22, 06:31:04](https://news.ycombinator.com/item?id=41031449) - [PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
