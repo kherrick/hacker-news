@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-22, 20:43:43",
-      "https://news.ycombinator.com/item?id=41039606"
-    ],
-    [
-      "Google Is Keeping Cookies in Chrome After All",
-      "https://www.wsj.com/articles/google-is-keeping-cookies-in-chrome-after-all-89debea8"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 20:17:05",
       "https://news.ycombinator.com/item?id=41039333"
     ],
@@ -181,22 +171,22 @@
   ],
   [
     [
-      "2024-07-22, 17:27:44",
-      "https://news.ycombinator.com/item?id=41036982"
-    ],
-    [
-      "A Gentle Introduction to SAML",
-      "https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 17:00:37",
       "https://news.ycombinator.com/item?id=41036633"
     ],
     [
       "Roame (YC S23) Is Hiring",
       "https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 16:48:44",
+      "https://news.ycombinator.com/item?id=41036526"
+    ],
+    [
+      "Oxygen discovery defies knowledge of the deep ocean",
+      "https://www.bbc.co.uk/news/articles/c728ven2v9eo"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Eza: A modern, maintained replacement for ls",
       "https://github.com/eza-community/eza"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 02:15:26",
+      "https://news.ycombinator.com/item?id=41001550"
+    ],
+    [
+      "What's the point of std:monostate? You can't do anything with it",
+      "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
     ]
   ],
   [
