@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 08:33:05](https://news.ycombinator.com/item?id=41032038) - [Autism can be reversed, scientists discover](https://www.telegraph.co.uk/news/2024/07/20/severe-autism-can-be-reversed-groundbreaking-study-suggests/)
 * [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-22, 08:20:05](https://news.ycombinator.com/item?id=41031960) - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
@@ -25,7 +26,6 @@
 * [2024-07-21, 17:39:52](https://news.ycombinator.com/item?id=41026663) - [Stremio OS Is Now Available for Raspberry Pi 5 and 4](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/)
 * [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
 * [2024-07-21, 14:42:02](https://news.ycombinator.com/item?id=41025450) - [A brief history of Dell Unix (2008)](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
-* [2024-07-21, 13:34:17](https://news.ycombinator.com/item?id=41024964) - [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
