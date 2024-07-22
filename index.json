@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 06:31:04",
+      "https://news.ycombinator.com/item?id=41031449"
+    ],
+    [
+      "PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera",
+      "https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 05:42:46",
       "https://news.ycombinator.com/item?id=41031219"
     ],
@@ -227,16 +237,6 @@
     [
       "So you think you know box shadows?",
       "https://dgerrells.com/blog/how-not-to-use-box-shadows"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 12:20:13",
-      "https://news.ycombinator.com/item?id=41024576"
-    ],
-    [
-      "PgManage: Modern, cross platform graphical database client",
-      "https://github.com/commandprompt/pgmanage"
     ]
   ],
   [
