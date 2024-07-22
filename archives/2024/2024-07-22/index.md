@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 05:42:46](https://news.ycombinator.com/item?id=41031219) - [The CrowdStrike Failure Was a Warning](https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
 * [2024-07-22, 04:42:09](https://news.ycombinator.com/item?id=41030978) - [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://www.cnn.com/2024/07/19/health/deli-meat-listeria-outbreak/index.html)
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
@@ -12,6 +13,7 @@
 * [2024-07-22, 03:14:46](https://news.ycombinator.com/item?id=41030608) - [How to Become a Registrar](https://www.icann.org/resources/pages/accreditation-2012-02-25-en)
 * [2024-07-22, 02:25:10](https://news.ycombinator.com/item?id=41030362) - [A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run](https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/)
 * [2024-07-22, 02:24:19](https://news.ycombinator.com/item?id=41030360) - [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
+* [2024-07-22, 02:22:12](https://news.ycombinator.com/item?id=41030352) - [CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
 * [2024-07-22, 01:02:55](https://news.ycombinator.com/item?id=41029942) - [Cosmopolitan v3.5.8](https://github.com/jart/cosmopolitan/releases/tag/3.5.8)
 * [2024-07-22, 00:39:11](https://news.ycombinator.com/item?id=41029803) - [How the CIA 'kidnapped' a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
