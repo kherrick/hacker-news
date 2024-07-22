@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-22, 02:25:10",
-      "https://news.ycombinator.com/item?id=41030362"
-    ],
-    [
-      "A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run",
-      "https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 02:24:19",
       "https://news.ycombinator.com/item?id=41030360"
     ],
@@ -47,16 +37,6 @@
     [
       "How the CIA 'kidnapped' a Soviet moon probe during the space race",
       "https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 23:56:21",
-      "https://news.ycombinator.com/item?id=41029552"
-    ],
-    [
-      "G1 AR Glasses",
-      "https://www.evenrealities.com/g1"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-07-21, 10:34:05",
+      "https://news.ycombinator.com/item?id=41024005"
+    ],
+    [
+      "Prometheus metrics saves us from painful kernel debugging (2022)",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 08:54:13",
       "https://news.ycombinator.com/item?id=41023547"
     ],
@@ -297,6 +287,16 @@
     [
       "What are the ways compilers recognize complex patterns?",
       "https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 14:26:22",
+      "https://news.ycombinator.com/item?id=40986305"
+    ],
+    [
+      "A New Specialized Train Is Ready to Haul Nuclear Waste",
+      "https://spectrum.ieee.org/nuclear-waste-train-car"
     ]
   ]
 ]
