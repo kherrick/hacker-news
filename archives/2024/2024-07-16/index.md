@@ -27,6 +27,7 @@
 * [2024-07-16, 18:37:35](https://news.ycombinator.com/item?id=40979074) - [Europe's fate is in Germany's hands now](https://www.noahpinion.blog/p/europes-fate-is-in-germanys-hands)
 * [2024-07-16, 18:35:25](https://news.ycombinator.com/item?id=40979058) - [Galaksija and Računari u VAšoj kućI: 40th Anniversary Celebration](https://blog.vladovince.com/galaksija-and-racunari-u-vasoj-kuci-40th-anniversary-celebration/)
 * [2024-07-16, 18:19:11](https://news.ycombinator.com/item?id=40978919) - [Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
+* [2024-07-16, 18:17:55](https://news.ycombinator.com/item?id=40978907) - [Polymorphic Shellcode (2023)](https://neugierig.org/software/blog/2023/03/polymorphic-shellcode.html)
 * [2024-07-16, 18:16:47](https://news.ycombinator.com/item?id=40978894) - [Building a Galaksija](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-07-16, 18:16:04](https://news.ycombinator.com/item?id=40978891) - [Mangrove trees are on the move, taking the tropics with them](https://www.scientificamerican.com/article/mangrove-trees-are-on-the-move-taking-the-tropics-with-them/)
 * [2024-07-16, 18:12:33](https://news.ycombinator.com/item?id=40978865) - [Whose bug is this anyway? (2012)](https://www.codeofhonor.com/blog/whose-bug-is-this-anyway)

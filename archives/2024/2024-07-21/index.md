@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 23:28:01](https://news.ycombinator.com/item?id=41029320) - [Show HN: Shade/Bs – Modern Web UIs Without Node.js](https://ui.masoftware.net/)
 * [2024-07-21, 22:33:29](https://news.ycombinator.com/item?id=41028887) - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
 * [2024-07-21, 22:29:28](https://news.ycombinator.com/item?id=41028849) - [The only doctor prescribed videogame for ADHD](https://www.endeavorrx.com/)
+* [2024-07-21, 22:23:48](https://news.ycombinator.com/item?id=41028795) - [Mojeek – The alternative search engine that puts the people who use it first](https://www.mojeek.com/about/)
+* [2024-07-21, 21:59:47](https://news.ycombinator.com/item?id=41028571) - [Constantine: Nim lang high-performance, zero-dependency cryptography stack](https://github.com/mratsim/constantine)
 * [2024-07-21, 21:48:09](https://news.ycombinator.com/item?id=41028470) - [Food Without Agriculture](https://www.nature.com/articles/s41893-023-01241-2)
 * [2024-07-21, 21:39:43](https://news.ycombinator.com/item?id=41028407) - [Why I left Google](https://fogknife.com/2024-07-21-why-i-left-google.html)
 * [2024-07-21, 21:15:04](https://news.ycombinator.com/item?id=41028190) - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
