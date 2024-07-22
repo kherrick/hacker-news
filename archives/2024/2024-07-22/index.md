@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
 * [2024-07-22, 14:21:20](https://news.ycombinator.com/item?id=41034738) - [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
+* [2024-07-22, 14:12:07](https://news.ycombinator.com/item?id=41034604) - [Why technical cofounders reject you](https://www.softwaredesign.ing/blog/why-technical-cofounders-reject-you)
+* [2024-07-22, 14:08:41](https://news.ycombinator.com/item?id=41034567) - [I Use Obsidian](https://jasonheppler.org/2024/07/15/how-i-use-obsidian/)
 * [2024-07-22, 13:44:27](https://news.ycombinator.com/item?id=41034299) - [Internet Organised Crime Threat Assessment (Iocta) 2024 [pdf]](https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA%202024%20-%20EN_0.pdf)
 * [2024-07-22, 13:36:21](https://news.ycombinator.com/item?id=41034211) - [Scan HTML even faster with SIMD instructions (C++ and C#) – Daniel Lemire's blog](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
 * [2024-07-22, 13:32:37](https://news.ycombinator.com/item?id=41034169) - [Writing Software Engineering Handbook](https://www.yusufaytas.com/on-writing-software-engineering-handbook/)
