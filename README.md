@@ -16,7 +16,6 @@
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
 * [2024-07-22, 03:37:31](https://news.ycombinator.com/item?id=41030716) - [Show HN: Chrome didn't have a native vector db so I built one:3](https://github.com/wizenheimer/tinkerbird)
 * [2024-07-22, 03:14:46](https://news.ycombinator.com/item?id=41030608) - [How to Become a Registrar](https://www.icann.org/resources/pages/accreditation-2012-02-25-en)
-* [2024-07-22, 02:22:12](https://news.ycombinator.com/item?id=41030352) - [CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/)
 * [2024-07-22, 01:31:15](https://news.ycombinator.com/item?id=41030073) - [Data Fetching for Single-Page Apps](https://martinfowler.com/articles/data-fetch-spa.html)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
@@ -25,11 +24,12 @@
 * [2024-07-21, 20:21:06](https://news.ycombinator.com/item?id=41027800) - [FastDoom – Performance Gains on Slow 386 and 486 CPUs](https://www.youtube.com/watch?v=9zAI8K7OzDQ)
 * [2024-07-21, 17:39:52](https://news.ycombinator.com/item?id=41026663) - [Stremio OS Is Now Available for Raspberry Pi 5 and 4](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/)
 * [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
+* [2024-07-21, 14:42:02](https://news.ycombinator.com/item?id=41025450) - [A brief history of Dell Unix (2008)](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
-* [2024-07-19, 02:15:26](https://news.ycombinator.com/item?id=41001550) - [What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
 * [2024-07-17, 14:20:51](https://news.ycombinator.com/item?id=40986250) - [Wide angle lens distortion correction from lines](https://hh409.user.srcf.net/blog/lens-distortion-correction-lines.html)
+* [2024-07-17, 01:59:48](https://news.ycombinator.com/item?id=40981954) - [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 
 ## [Archives](archives/index.md)
 
