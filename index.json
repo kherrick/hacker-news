@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-22, 19:12:22",
+      "https://news.ycombinator.com/item?id=41038552"
+    ],
+    [
+      "Kawaii – A Keychain-Sized Nintendo Wii",
+      "https://bitbuilt.net/forums/index.php?threads/kawaii.6474/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 19:10:08",
+      "https://news.ycombinator.com/item?id=41038520"
+    ],
+    [
+      "Microsoft Blames European Commission for Major Worldwide Outage",
+      "https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 18:59:38",
       "https://news.ycombinator.com/item?id=41038372"
     ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41036231"
     ],
     [
-      "Audapolis: Edit audio files by word, not waveform",
+      "Audapolis: Edit audio files by transcript, not waveform",
       "https://github.com/bugbakery/audapolis"
     ]
   ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-07-22, 01:31:15",
-      "https://news.ycombinator.com/item?id=41030073"
-    ],
-    [
-      "Data Fetching for Single-Page Apps",
-      "https://martinfowler.com/articles/data-fetch-spa.html"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 01:12:12",
       "https://news.ycombinator.com/item?id=41029987"
     ],
@@ -277,16 +287,6 @@
     [
       "How far should a programming language aware diff go?",
       "https://semanticdiff.com/blog/language-aware-diff-how-far/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 15:44:25",
-      "https://news.ycombinator.com/item?id=40987123"
-    ],
-    [
-      "What are the ways compilers recognize complex patterns?",
-      "https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns"
     ]
   ],
   [
