@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 17:04:45](https://news.ycombinator.com/item?id=41036683) - [Findings – OpenResearch](https://www.openresearchlab.org/findings)
 * [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
 * [2024-07-22, 16:48:44](https://news.ycombinator.com/item?id=41036526) - [Oxygen discovery defies knowledge of the deep ocean](https://www.bbc.co.uk/news/articles/c728ven2v9eo)
+* [2024-07-22, 16:48:22](https://news.ycombinator.com/item?id=41036522) - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 * [2024-07-22, 16:45:36](https://news.ycombinator.com/item?id=41036493) - [An interview with AMD's Mike Clark, 'Zen Daddy' says 3nm Zen 5 is coming fast](https://www.tomshardware.com/pc-components/cpus/an-interview-with-mike-clark-the-father-of-zen-zen-daddy-talks-fast-3nm-launch-zen-5c-cores-for-desktop-chips)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists Discover a New Hormone That Can Build Strong Bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
 * [2024-07-22, 16:35:05](https://news.ycombinator.com/item?id=41036383) - [It's Time for Americans to Get over It and Embrace the Bidet](https://www.good.is/features/why-wont-north-americans-use-bidets-toilet-paper-water-waste)
+* [2024-07-22, 16:32:31](https://news.ycombinator.com/item?id=41036334) - [You are probably sitting down for too long](https://www.bbc.com/future/article/20240722-why-you-are-probably-sitting-down-for-too-long)
 * [2024-07-22, 16:25:48](https://news.ycombinator.com/item?id=41036236) - [A Few Indisputable Points About Poptimism and Then I Give Up](https://freddiedeboer.substack.com/p/a-few-indisputable-points-about-poptimism)
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by word, not waveform](https://github.com/bugbakery/audapolis)
 * [2024-07-22, 16:24:11](https://news.ycombinator.com/item?id=41036216) - [All the existential risk, none of the economic impact. That's a shitty trade](https://www.theintrinsicperspective.com/p/all-the-existential-risk-none-of)
