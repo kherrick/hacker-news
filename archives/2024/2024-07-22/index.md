@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 17:58:13](https://news.ycombinator.com/item?id=41037380) - [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
 * [2024-07-22, 17:46:44](https://news.ycombinator.com/item?id=41037226) - [Sam Altman's basic-income study is out. Here's what it found](https://www.businessinsider.com/sam-altman-basic-income-study-results-2024-7)
+* [2024-07-22, 17:43:10](https://news.ycombinator.com/item?id=41037177) - [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
+* [2024-07-22, 17:42:17](https://news.ycombinator.com/item?id=41037168) - [Boeing-owned Wisk expects to begin carrying passengers 'later in the decade'](https://www.reuters.com/business/aerospace-defense/boeing-owned-wisk-expects-begin-carrying-passengers-later-decade-2024-07-22/)
 * [2024-07-22, 17:38:14](https://news.ycombinator.com/item?id=41037116) - [Why Americans Aren't Having Babies](https://www.wsj.com/lifestyle/relationships/americans-babies-childless-birthrate-daf438f9)
 * [2024-07-22, 17:36:35](https://news.ycombinator.com/item?id=41037097) - [The workers have spoken: They're staying home](https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html)
 * [2024-07-22, 17:29:48](https://news.ycombinator.com/item?id=41037010) - [Apple TV+ Expenditure Has Crossed $20B, Making It Unsustainable](https://wccftech.com/apple-tv-expenditure-crossed-20-billion/)
+* [2024-07-22, 17:21:29](https://news.ycombinator.com/item?id=41036914) - [Ask HN: Is there a list of grey-hair-friendly IT companies?](https://news.ycombinator.com/item?id=41036914)
 * [2024-07-22, 17:15:54](https://news.ycombinator.com/item?id=41036844) - [How much money we can raise for transparently idiotic startups?](https://www.smbc-comics.com/comic/investment-2)
 * [2024-07-22, 17:04:45](https://news.ycombinator.com/item?id=41036683) - [Findings – OpenResearch](https://www.openresearchlab.org/findings)
 * [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)

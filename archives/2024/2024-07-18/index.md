@@ -36,6 +36,7 @@
 * [2024-07-18, 17:25:15](https://news.ycombinator.com/item?id=40997850) - [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 * [2024-07-18, 17:20:27](https://news.ycombinator.com/item?id=40997799) - [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:18:55](https://news.ycombinator.com/item?id=40997775) - [What Materials Are Magnetic?](https://sciencenotes.org/list-of-magnetic-metals/)
+* [2024-07-18, 17:18:13](https://news.ycombinator.com/item?id=40997764) - [How far should a programming language aware diff go?](https://semanticdiff.com/blog/language-aware-diff-how-far/)
 * [2024-07-18, 17:02:15](https://news.ycombinator.com/item?id=40997585) - [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [2024-07-18, 17:00:52](https://news.ycombinator.com/item?id=40997571) - [Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
 * [2024-07-18, 16:59:19](https://news.ycombinator.com/item?id=40997554) - [Bye-bye Bitcoin, hello AI: Texas miners leave crypto for next new wave](https://www.cnbc.com/2024/07/18/bye-bye-bitcoin-hello-ai-texas-miners-leave-crypto-for-next-new-wave.html)
