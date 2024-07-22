@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-22, 17:04:45",
-      "https://news.ycombinator.com/item?id=41036683"
+      "2024-07-22, 17:15:54",
+      "https://news.ycombinator.com/item?id=41036844"
     ],
     [
-      "Findings – OpenResearch",
-      "https://www.openresearchlab.org/findings"
+      "How much money we can raise for transparently idiotic startups?",
+      "https://www.smbc-comics.com/comic/investment-2"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-07-22, 16:45:36",
-      "https://news.ycombinator.com/item?id=41036493"
-    ],
-    [
-      "An interview with AMD's Mike Clark, 'Zen Daddy' says 3nm Zen 5 is coming fast",
-      "https://www.tomshardware.com/pc-components/cpus/an-interview-with-mike-clark-the-father-of-zen-zen-daddy-talks-fast-3nm-launch-zen-5c-cores-for-desktop-chips"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 16:42:22",
       "https://news.ycombinator.com/item?id=41036462"
     ],
@@ -67,16 +57,6 @@
     [
       "You are probably sitting down for too long",
       "https://www.bbc.com/future/article/20240722-why-you-are-probably-sitting-down-for-too-long"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 16:25:48",
-      "https://news.ycombinator.com/item?id=41036236"
-    ],
-    [
-      "A Few Indisputable Points About Poptimism and Then I Give Up",
-      "https://freddiedeboer.substack.com/p/a-few-indisputable-points-about-poptimism"
     ]
   ],
   [
@@ -107,16 +87,6 @@
     [
       "How to Get Remote Code Execution in Kafka UI",
       "https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 15:03:36",
-      "https://news.ycombinator.com/item?id=41035281"
-    ],
-    [
-      "Brr Wants a Job",
-      "https://brr.fyi/posts/brr-wants-a-job"
     ]
   ],
   [
@@ -171,6 +141,16 @@
   ],
   [
     [
+      "2024-07-22, 06:18:34",
+      "https://news.ycombinator.com/item?id=41031379"
+    ],
+    [
+      "Caffeine suppresses cerebral grey matter responses to chronic sleep restriction",
+      "https://www.nature.com/articles/s41598-024-61421-8"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 05:17:23",
       "https://news.ycombinator.com/item?id=41031112"
     ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-07-21, 23:45:07",
+      "https://news.ycombinator.com/item?id=41029467"
+    ],
+    [
+      "Man of the Hole",
+      "https://en.wikipedia.org/wiki/Man_of_the_Hole"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 23:23:36",
       "https://news.ycombinator.com/item?id=41029287"
     ],
@@ -231,22 +221,32 @@
   ],
   [
     [
-      "2024-07-21, 20:43:29",
-      "https://news.ycombinator.com/item?id=41027924"
-    ],
-    [
-      "AI method rapidly speeds predictions of materials' thermal properties",
-      "https://news.mit.edu/2024/ai-method-radically-speeds-predictions-materials-thermal-properties-0716"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 17:39:52",
       "https://news.ycombinator.com/item?id=41026663"
     ],
     [
       "Stremio OS Is Now Available for Raspberry Pi 5 and 4",
       "https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 16:34:18",
+      "https://news.ycombinator.com/item?id=41026214"
+    ],
+    [
+      "Glisp: Graphical Lisp",
+      "https://glisp.app/commit:e7fbaae/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 12:38:39",
+      "https://news.ycombinator.com/item?id=41024664"
+    ],
+    [
+      "So you think you know box shadows?",
+      "https://dgerrells.com/blog/how-not-to-use-box-shadows"
     ]
   ],
   [
