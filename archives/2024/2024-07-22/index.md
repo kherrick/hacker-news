@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 19:22:36](https://news.ycombinator.com/item?id=41038698) - [Reducing Adverse Side Effects of Popular Next-Generation Obesity Medications](https://monell.org/monell-center-discovery-could-help-reduce-adverse-side-effects-of-popular-next-generation-obesity-medications/)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 * [2024-07-22, 19:10:08](https://news.ycombinator.com/item?id=41038520) - [Microsoft Blames European Commission for Major Worldwide Outage](https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
+* [2024-07-22, 18:21:14](https://news.ycombinator.com/item?id=41037774) - [Netflix has open-sourced its Maestro Workflow Orchestrator](https://github.com/Netflix/maestro)
 * [2024-07-22, 18:20:16](https://news.ycombinator.com/item?id=41037745) - [Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
 * [2024-07-22, 18:10:42](https://news.ycombinator.com/item?id=41037595) - [Why Delta is still canceling flights as other airlines return to normal](https://www.cnn.com/2024/07/22/business/delta-canceled-flights-computer-problems/index.html)
 * [2024-07-22, 17:58:13](https://news.ycombinator.com/item?id=41037380) - [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
