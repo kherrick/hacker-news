@@ -46,6 +46,7 @@
 * [2024-07-17, 15:25:11](https://news.ycombinator.com/item?id=40986894) - [Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
 * [2024-07-17, 15:23:09](https://news.ycombinator.com/item?id=40986876) - [Amazon Sold a Used Diaper. It Tanked a Mom-and-Pop Business](https://www.bloomberg.com/news/articles/2024-07-15/how-bad-amazon-review-destroyed-beau-belle-littles-swim-diaper-business)
 * [2024-07-17, 15:04:31](https://news.ycombinator.com/item?id=40986705) - [Many US solar factories are lagging. Except those China owns](https://www.reuters.com/business/energy/many-us-solar-factories-are-lagging-except-those-china-owns-2024-07-17/)
+* [2024-07-17, 14:26:22](https://news.ycombinator.com/item?id=40986305) - [A New Specialized Train Is Ready to Haul Nuclear Waste](https://spectrum.ieee.org/nuclear-waste-train-car)
 * [2024-07-17, 14:21:26](https://news.ycombinator.com/item?id=40986261) - [Bhutan's first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
 * [2024-07-17, 14:16:38](https://news.ycombinator.com/item?id=40986213) - [Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
 * [2024-07-17, 14:13:39](https://news.ycombinator.com/item?id=40986181) - [Tom Lehrer and Santa Cruz: the trail of one of America's premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)

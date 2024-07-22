@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-22, 02:25:10](https://news.ycombinator.com/item?id=41030362) - [A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run](https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/)
 * [2024-07-22, 02:24:19](https://news.ycombinator.com/item?id=41030360) - [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
 * [2024-07-22, 01:02:55](https://news.ycombinator.com/item?id=41029942) - [Cosmopolitan v3.5.8](https://github.com/jart/cosmopolitan/releases/tag/3.5.8)
 * [2024-07-22, 00:39:11](https://news.ycombinator.com/item?id=41029803) - [How the CIA 'kidnapped' a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
-* [2024-07-21, 23:56:21](https://news.ycombinator.com/item?id=41029552) - [G1 AR Glasses](https://www.evenrealities.com/g1)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
 * [2024-07-21, 23:12:59](https://news.ycombinator.com/item?id=41029205) - [The MTA's Oldest Controls Kept Going During the Tech Outage](https://www.curbed.com/article/mta-tech-outage-countdown-clocks-oldest-kept-going.html)
 * [2024-07-21, 22:33:29](https://news.ycombinator.com/item?id=41028887) - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
@@ -25,11 +23,13 @@
 * [2024-07-21, 12:20:13](https://news.ycombinator.com/item?id=41024576) - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
 * [2024-07-21, 11:37:54](https://news.ycombinator.com/item?id=41024358) - [Show HN: A fake SMTP server for software integration testing](https://fakemail.stream)
+* [2024-07-21, 10:34:05](https://news.ycombinator.com/item?id=41024005) - [Prometheus metrics saves us from painful kernel debugging (2022)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusHostMetricsSaveUs)
 * [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 * [2024-07-21, 05:31:59](https://news.ycombinator.com/item?id=41022653) - [What is the significance of the character \"j\" at the end of a Roman Numeral? (2013)](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 * [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
 * [2024-07-19, 18:15:43](https://news.ycombinator.com/item?id=41009371) - [The Plague of Lust: A History of Venereal Disease in Antiquity (1901 Edition)](https://publicdomainreview.org/collection/the-plague-of-lust/)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
+* [2024-07-17, 14:26:22](https://news.ycombinator.com/item?id=40986305) - [A New Specialized Train Is Ready to Haul Nuclear Waste](https://spectrum.ieee.org/nuclear-waste-train-car)
 
 ## [Archives](archives/index.md)
 
