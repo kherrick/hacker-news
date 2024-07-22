@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-22, 08:22:16",
+      "https://news.ycombinator.com/item?id=41031975"
+    ],
+    [
+      "Show HN: A Source Available billing system I've spent 18 months building",
+      "https://billabear.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 08:20:05",
       "https://news.ycombinator.com/item?id=41031960"
     ],
@@ -127,6 +137,16 @@
     [
       "CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes",
       "https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 01:31:15",
+      "https://news.ycombinator.com/item?id=41030073"
+    ],
+    [
+      "Data Fetching for Single-Page Apps",
+      "https://martinfowler.com/articles/data-fetch-spa.html"
     ]
   ],
   [
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2024-07-21, 08:54:13",
-      "https://news.ycombinator.com/item?id=41023547"
-    ],
-    [
-      "rr – record and replay debugger for C/C++",
-      "https://rr-project.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 17:56:57",
-      "https://news.ycombinator.com/item?id=41018308"
-    ],
-    [
-      "Mining JIT traces for missing optimizations with Z3",
-      "https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 18:07:18",
-      "https://news.ycombinator.com/item?id=40988637"
-    ],
-    [
-      "Ask HN: What's your preferred logging stack in Kubernetes",
-      "https://news.ycombinator.com/item?id=40988637"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 15:44:25",
       "https://news.ycombinator.com/item?id=40987123"
     ],
     [
       "What are the ways compilers recognize complex patterns?",
       "https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 14:20:51",
+      "https://news.ycombinator.com/item?id=40986250"
+    ],
+    [
+      "Wide angle lens distortion correction from lines",
+      "https://hh409.user.srcf.net/blog/lens-distortion-correction-lines.html"
     ]
   ]
 ]
