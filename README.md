@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-22, 15:14:35](https://news.ycombinator.com/item?id=41035405) - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
-* [2024-07-22, 14:23:50](https://news.ycombinator.com/item?id=41034766) - [370-mile hydrogen-electric seaplane set to clean up island hopping](https://newatlas.com/aircraft/jekta-zeroavia-hydrogen-electric-seaplane/)
+* [2024-07-22, 14:41:14](https://news.ycombinator.com/item?id=41034987) - [The serious science of trolling LLMs](https://lcamtuf.substack.com/p/the-serious-science-of-trolling-llms)
 * [2024-07-22, 14:21:20](https://news.ycombinator.com/item?id=41034738) - [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
 * [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 12:01:14](https://news.ycombinator.com/item?id=41033442) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-07-22, 11:29:45](https://news.ycombinator.com/item?id=41033209) - [Physicist, 98, honoured with doctorate 75 years after groundbreaking discovery](https://www.theguardian.com/science/article/2024/jul/22/physicist-rosemary-fowler-honoured-doctorate-75-years-after-discovery)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-22, 08:20:05](https://news.ycombinator.com/item?id=41031960) - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
-* [2024-07-22, 08:09:43](https://news.ycombinator.com/item?id=41031912) - [Ask HN: Why are people paying so much for Vercel?](https://news.ycombinator.com/item?id=41031912)
 * [2024-07-22, 06:18:34](https://news.ycombinator.com/item?id=41031379) - [Caffeine suppresses cerebral grey matter responses to chronic sleep restriction](https://www.nature.com/articles/s41598-024-61421-8)
 * [2024-07-22, 05:17:23](https://news.ycombinator.com/item?id=41031112) - [Eza: A modern, maintained replacement for ls](https://github.com/eza-community/eza)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: Datetime library for Rust](https://github.com/BurntSushi/jiff)
@@ -16,7 +15,7 @@
 * [2024-07-22, 03:37:31](https://news.ycombinator.com/item?id=41030716) - [Show HN: TinkerBird – A Chrome-native vector database](https://github.com/wizenheimer/tinkerbird)
 * [2024-07-22, 01:31:15](https://news.ycombinator.com/item?id=41030073) - [Data Fetching for Single-Page Apps](https://martinfowler.com/articles/data-fetch-spa.html)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
-* [2024-07-21, 23:56:21](https://news.ycombinator.com/item?id=41029552) - [G1 AR Glasses](https://www.evenrealities.com/g1)
+* [2024-07-21, 23:45:07](https://news.ycombinator.com/item?id=41029467) - [Man of the Hole](https://en.wikipedia.org/wiki/Man_of_the_Hole)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
 * [2024-07-21, 20:43:29](https://news.ycombinator.com/item?id=41027924) - [AI method rapidly speeds predictions of materials' thermal properties](https://news.mit.edu/2024/ai-method-radically-speeds-predictions-materials-thermal-properties-0716)
 * [2024-07-21, 17:39:52](https://news.ycombinator.com/item?id=41026663) - [Stremio OS Is Now Available for Raspberry Pi 5 and 4](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/)
@@ -30,6 +29,7 @@
 * [2024-07-17, 14:26:22](https://news.ycombinator.com/item?id=40986305) - [A New Specialized Train Is Ready to Haul Nuclear Waste](https://spectrum.ieee.org/nuclear-waste-train-car)
 * [2024-07-17, 14:20:51](https://news.ycombinator.com/item?id=40986250) - [Wide angle lens distortion correction from lines](https://hh409.user.srcf.net/blog/lens-distortion-correction-lines.html)
 * [2024-07-17, 01:59:48](https://news.ycombinator.com/item?id=40981954) - [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
+* [2024-07-17, 00:57:20](https://news.ycombinator.com/item?id=40981697) - [What spreadsheets need? LLMs, says Microsoft](https://www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/)
 
 ## [Archives](archives/index.md)
 

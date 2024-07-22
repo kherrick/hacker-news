@@ -95,3 +95,4 @@
 * [2024-07-17, 02:05:21](https://news.ycombinator.com/item?id=40981974) - [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
 * [2024-07-17, 01:59:48](https://news.ycombinator.com/item?id=40981954) - [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 * [2024-07-17, 01:30:49](https://news.ycombinator.com/item?id=40981850) - [Eight Years of GraphQL](https://www.magiroux.com/eight-years-of-graphql)
+* [2024-07-17, 00:57:20](https://news.ycombinator.com/item?id=40981697) - [What spreadsheets need? LLMs, says Microsoft](https://www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/)
