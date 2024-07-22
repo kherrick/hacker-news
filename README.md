@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 12:01:14](https://news.ycombinator.com/item?id=41033442) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
+* [2024-07-22, 10:43:51](https://news.ycombinator.com/item?id=41032918) - [No One Expects Young Men to Do Anything and They Respond by Doing Nothing (2022)](https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything)
 * [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-22, 08:20:05](https://news.ycombinator.com/item?id=41031960) - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
@@ -23,8 +25,6 @@
 * [2024-07-21, 20:21:06](https://news.ycombinator.com/item?id=41027800) - [FastDoom – Performance Gains on Slow 386 and 486 CPUs](https://www.youtube.com/watch?v=9zAI8K7OzDQ)
 * [2024-07-21, 17:39:52](https://news.ycombinator.com/item?id=41026663) - [Stremio OS Is Now Available for Raspberry Pi 5 and 4](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/)
 * [2024-07-21, 16:34:18](https://news.ycombinator.com/item?id=41026214) - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
-* [2024-07-21, 14:42:02](https://news.ycombinator.com/item?id=41025450) - [A brief history of Dell Unix (2008)](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
-* [2024-07-21, 13:34:17](https://news.ycombinator.com/item?id=41024964) - [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
 * [2024-07-19, 02:15:26](https://news.ycombinator.com/item?id=41001550) - [What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)

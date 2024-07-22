@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 12:01:14](https://news.ycombinator.com/item?id=41033442) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
+* [2024-07-22, 10:43:51](https://news.ycombinator.com/item?id=41032918) - [No One Expects Young Men to Do Anything and They Respond by Doing Nothing (2022)](https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything)
 * [2024-07-22, 10:12:24](https://news.ycombinator.com/item?id=41032694) - [Web Crap Has Taken Control](https://medium.com/@fulalas/web-crap-has-taken-control-71c459df6e62)
 * [2024-07-22, 08:33:05](https://news.ycombinator.com/item?id=41032038) - [Autism can be reversed, scientists discover](https://www.telegraph.co.uk/news/2024/07/20/severe-autism-can-be-reversed-groundbreaking-study-suggests/)
 * [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
