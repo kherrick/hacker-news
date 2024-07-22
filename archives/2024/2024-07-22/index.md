@@ -12,6 +12,7 @@
 * [2024-07-22, 19:14:53](https://news.ycombinator.com/item?id=41038586) - [A new path for Privacy Sandbox on the web](https://privacysandbox.com/news/privacy-sandbox-update/)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 * [2024-07-22, 19:10:08](https://news.ycombinator.com/item?id=41038520) - [Microsoft Blames European Commission for Major Worldwide Outage](https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/)
+* [2024-07-22, 19:01:45](https://news.ycombinator.com/item?id=41038406) - [The love letter generator created by Alan Turing and Christopher Strachey](https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:47:23](https://news.ycombinator.com/item?id=41038188) - [Reflections on Luck and Skill from the Part Time Poker Grind](https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on)
 * [2024-07-22, 18:38:25](https://news.ycombinator.com/item?id=41038055) - [A Man Who Thought Too Fast](https://www.newyorker.com/magazine/2020/05/04/the-man-who-thought-too-fast)
