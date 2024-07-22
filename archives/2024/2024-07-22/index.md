@@ -8,6 +8,7 @@
 * [2024-07-22, 16:24:11](https://news.ycombinator.com/item?id=41036216) - [All the existential risk, none of the economic impact. That's a shitty trade](https://www.theintrinsicperspective.com/p/all-the-existential-risk-none-of)
 * [2024-07-22, 15:14:35](https://news.ycombinator.com/item?id=41035405) - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 15:06:07](https://news.ycombinator.com/item?id=41035309) - [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
+* [2024-07-22, 15:03:36](https://news.ycombinator.com/item?id=41035281) - [Brr Wants a Job](https://brr.fyi/posts/brr-wants-a-job)
 * [2024-07-22, 14:41:14](https://news.ycombinator.com/item?id=41034987) - [The serious science of trolling LLMs](https://lcamtuf.substack.com/p/the-serious-science-of-trolling-llms)
 * [2024-07-22, 14:23:50](https://news.ycombinator.com/item?id=41034766) - [370-mile hydrogen-electric seaplane set to clean up island hopping](https://newatlas.com/aircraft/jekta-zeroavia-hydrogen-electric-seaplane/)
 * [2024-07-22, 14:21:20](https://news.ycombinator.com/item?id=41034738) - [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
