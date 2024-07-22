@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-07-22, 13:36:21",
+      "https://news.ycombinator.com/item?id=41034211"
+    ],
+    [
+      "Scan HTML even faster with SIMD instructions (C++ and C#) – Daniel Lemire's blog",
+      "https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 13:30:29",
+      "https://news.ycombinator.com/item?id=41034147"
+    ],
+    [
+      "Sam Altman Gave People Free Money. Here's What Happened",
+      "https://www.forbes.com/sites/sarahemerson/2024/07/22/openai-founder-sam-altman-gave-thousands-of-people-free-money-heres-what-happened/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 12:21:06",
       "https://news.ycombinator.com/item?id=41033579"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-07-21, 13:34:17",
-      "https://news.ycombinator.com/item?id=41024964"
-    ],
-    [
-      "Show HN: Moocable – find people studying the same online course/book",
-      "https://moocable.com/"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 12:38:39",
       "https://news.ycombinator.com/item?id=41024664"
     ],
@@ -257,16 +267,6 @@
     [
       "txtai: Open-source vector search and RAG for minimalists",
       "https://neuml.github.io/txtai/"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 08:54:13",
-      "https://news.ycombinator.com/item?id=41023547"
-    ],
-    [
-      "rr – record and replay debugger for C/C++",
-      "https://rr-project.org/"
     ]
   ],
   [
