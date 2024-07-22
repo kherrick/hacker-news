@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-22, 20:55:02",
+      "https://news.ycombinator.com/item?id=41039708"
+    ],
+    [
+      "July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs",
+      "https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 20:47:44",
       "https://news.ycombinator.com/item?id=41039644"
     ],
@@ -27,6 +37,16 @@
     [
       "Google Is Keeping Cookies in Chrome After All",
       "https://www.wsj.com/articles/google-is-keeping-cookies-in-chrome-after-all-89debea8"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 20:17:05",
+      "https://news.ycombinator.com/item?id=41039333"
+    ],
+    [
+      "SofleKeyboard – A split keyboard based on Lily58, Crkbd and Helix keyboards",
+      "https://josefadamcik.github.io/SofleKeyboard/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-07-22, 14:21:20",
-      "https://news.ycombinator.com/item?id=41034738"
-    ],
-    [
-      "How fast can a human possibly run 100 meters?",
-      "https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 12:21:06",
       "https://news.ycombinator.com/item?id=41033579"
     ],
@@ -257,16 +267,6 @@
     [
       "Eza: A modern, maintained replacement for ls",
       "https://github.com/eza-community/eza"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 02:15:26",
-      "https://news.ycombinator.com/item?id=41001550"
-    ],
-    [
-      "What's the point of std:monostate? You can't do anything with it",
-      "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
     ]
   ],
   [
