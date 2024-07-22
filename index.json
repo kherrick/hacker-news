@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-07-22, 06:18:34",
+      "https://news.ycombinator.com/item?id=41031379"
+    ],
+    [
+      "Caffeine suppresses cerebral grey matter responses to chronic sleep restriction",
+      "https://www.nature.com/articles/s41598-024-61421-8"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 05:17:23",
       "https://news.ycombinator.com/item?id=41031112"
     ],
@@ -117,16 +127,6 @@
     [
       "CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes",
       "https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 01:31:15",
-      "https://news.ycombinator.com/item?id=41030073"
-    ],
-    [
-      "Data Fetching for Single-Page Apps",
-      "https://martinfowler.com/articles/data-fetch-spa.html"
     ]
   ],
   [
