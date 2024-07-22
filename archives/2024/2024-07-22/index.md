@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 07:49:05](https://news.ycombinator.com/item?id=41031824) - [Orch: a Rust framework for LLM orchestration](https://github.com/guywaldman/orch)
 * [2024-07-22, 06:57:19](https://news.ycombinator.com/item?id=41031585) - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-07-22, 06:31:04](https://news.ycombinator.com/item?id=41031449) - [PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
 * [2024-07-22, 05:42:46](https://news.ycombinator.com/item?id=41031219) - [The CrowdStrike Failure Was a Warning](https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/)
+* [2024-07-22, 05:17:23](https://news.ycombinator.com/item?id=41031112) - [Eza: A modern, maintained replacement for ls](https://github.com/eza-community/eza)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
 * [2024-07-22, 04:42:09](https://news.ycombinator.com/item?id=41030978) - [Two dead in multistate listeria outbreak linked with sliced deli meat, CDC says](https://www.cnn.com/2024/07/19/health/deli-meat-listeria-outbreak/index.html)
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
@@ -16,6 +18,7 @@
 * [2024-07-22, 02:25:10](https://news.ycombinator.com/item?id=41030362) - [A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run](https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/)
 * [2024-07-22, 02:24:19](https://news.ycombinator.com/item?id=41030360) - [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
 * [2024-07-22, 02:22:12](https://news.ycombinator.com/item?id=41030352) - [CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/)
+* [2024-07-22, 01:40:54](https://news.ycombinator.com/item?id=41030118) - [Sonny Piers response after removal from the GNOME Foundation board](https://blog.sonny.re/retrospective-as-gnome-director)
 * [2024-07-22, 01:31:15](https://news.ycombinator.com/item?id=41030073) - [Data Fetching for Single-Page Apps](https://martinfowler.com/articles/data-fetch-spa.html)
 * [2024-07-22, 01:19:52](https://news.ycombinator.com/item?id=41030020) - [mmm.page - old school web](https://mmm.page)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
