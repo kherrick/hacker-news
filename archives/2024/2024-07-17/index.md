@@ -28,6 +28,7 @@
 * [2024-07-17, 18:07:18](https://news.ycombinator.com/item?id=40988637) - [Ask HN: What's your preferred logging stack in Kubernetes](https://news.ycombinator.com/item?id=40988637)
 * [2024-07-17, 18:01:36](https://news.ycombinator.com/item?id=40988575) - [It's all up for grabs, compound with glue](https://lmno.lol/alvaro/its-all-up-for-grabs-and-it-compounds)
 * [2024-07-17, 17:44:38](https://news.ycombinator.com/item?id=40988395) - [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
+* [2024-07-17, 17:31:46](https://news.ycombinator.com/item?id=40988229) - [All Golioth Hardware Is Now Open Source](https://blog.golioth.io/all-golioth-hardware-is-now-open-source/)
 * [2024-07-17, 17:22:36](https://news.ycombinator.com/item?id=40988153) - [The n-gram Language Model](https://github.com/EurekaLabsAI/ngram)
 * [2024-07-17, 17:15:37](https://news.ycombinator.com/item?id=40988076) - [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
 * [2024-07-17, 17:13:41](https://news.ycombinator.com/item?id=40988052) - [Against choosing your political allegiances based on who is \"pro-crypto\"](https://vitalik.eth.limo/general/2024/07/17/procrypto.html)
