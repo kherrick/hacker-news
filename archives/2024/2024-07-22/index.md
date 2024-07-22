@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
 * [2024-07-22, 21:23:02](https://news.ycombinator.com/item?id=41039967) - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
+* [2024-07-22, 20:55:02](https://news.ycombinator.com/item?id=41039708) - [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 * [2024-07-22, 20:47:44](https://news.ycombinator.com/item?id=41039644) - [Glasgow 2024 Hugo Awards Statement – 22 July, 2024](https://glasgow2024.org/hugo-awards/statement-22-july-2024/)
 * [2024-07-22, 20:43:43](https://news.ycombinator.com/item?id=41039606) - [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/articles/google-is-keeping-cookies-in-chrome-after-all-89debea8)
+* [2024-07-22, 20:17:05](https://news.ycombinator.com/item?id=41039333) - [SofleKeyboard – A split keyboard based on Lily58, Crkbd and Helix keyboards](https://josefadamcik.github.io/SofleKeyboard/)
 * [2024-07-22, 20:05:42](https://news.ycombinator.com/item?id=41039213) - [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
 * [2024-07-22, 20:00:40](https://news.ycombinator.com/item?id=41039142) - [Google says it won't be 'deprecating third-party cookies' in Chrome](https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/)
 * [2024-07-22, 19:57:20](https://news.ycombinator.com/item?id=41039106) - [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
