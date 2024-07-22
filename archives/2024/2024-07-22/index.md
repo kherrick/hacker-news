@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
 * [2024-07-22, 03:37:31](https://news.ycombinator.com/item?id=41030716) - [Show HN: Chrome didn't have a native vector db so I built one:3](https://github.com/wizenheimer/tinkerbird)
+* [2024-07-22, 03:29:18](https://news.ycombinator.com/item?id=41030674) - [Mysterious Objects Detected Floating Through Deep Space](https://futurism.com/the-byte/massive-objects-pulsars-dark-matter)
 * [2024-07-22, 03:14:46](https://news.ycombinator.com/item?id=41030608) - [How to Become a Registrar](https://www.icann.org/resources/pages/accreditation-2012-02-25-en)
 * [2024-07-22, 02:25:10](https://news.ycombinator.com/item?id=41030362) - [A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run](https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/)
 * [2024-07-22, 02:24:19](https://news.ycombinator.com/item?id=41030360) - [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
