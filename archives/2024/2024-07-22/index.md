@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 14:23:50](https://news.ycombinator.com/item?id=41034766) - [370-mile hydrogen-electric seaplane set to clean up island hopping](https://newatlas.com/aircraft/jekta-zeroavia-hydrogen-electric-seaplane/)
 * [2024-07-22, 14:21:20](https://news.ycombinator.com/item?id=41034738) - [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
 * [2024-07-22, 14:12:07](https://news.ycombinator.com/item?id=41034604) - [Why technical cofounders reject you](https://www.softwaredesign.ing/blog/why-technical-cofounders-reject-you)
 * [2024-07-22, 14:08:41](https://news.ycombinator.com/item?id=41034567) - [I Use Obsidian](https://jasonheppler.org/2024/07/15/how-i-use-obsidian/)
