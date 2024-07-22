@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-22, 14:08:41",
-      "https://news.ycombinator.com/item?id=41034567"
-    ],
-    [
-      "I Use Obsidian",
-      "https://jasonheppler.org/2024/07/15/how-i-use-obsidian/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 12:21:06",
       "https://news.ycombinator.com/item?id=41033579"
     ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41031037"
     ],
     [
-      "Jiff: A brand new Datetime library for Rust, from the author of ripgrep",
+      "Jiff: Datetime library for Rust",
       "https://github.com/BurntSushi/jiff"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Glisp: Graphical Lisp",
       "https://glisp.app/commit:e7fbaae/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 14:42:02",
+      "https://news.ycombinator.com/item?id=41025450"
+    ],
+    [
+      "A brief history of Dell Unix (2008)",
+      "https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/"
     ]
   ],
   [
