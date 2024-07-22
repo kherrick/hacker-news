@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 21:23:02](https://news.ycombinator.com/item?id=41039967) - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
 * [2024-07-22, 20:47:44](https://news.ycombinator.com/item?id=41039644) - [Glasgow 2024 Hugo Awards Statement – 22 July, 2024](https://glasgow2024.org/hugo-awards/statement-22-july-2024/)
 * [2024-07-22, 20:43:43](https://news.ycombinator.com/item?id=41039606) - [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/articles/google-is-keeping-cookies-in-chrome-after-all-89debea8)
 * [2024-07-22, 20:05:42](https://news.ycombinator.com/item?id=41039213) - [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
-* [2024-07-22, 19:22:54](https://news.ycombinator.com/item?id=41038703) - [On having more interesting ideas](https://www.henrikkarlsson.xyz/p/interesting-ideas)
 * [2024-07-22, 19:14:53](https://news.ycombinator.com/item?id=41038586) - [A new path for Privacy Sandbox on the web](https://privacysandbox.com/news/privacy-sandbox-update/)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 * [2024-07-22, 19:01:45](https://news.ycombinator.com/item?id=41038406) - [The love letter generator created by Alan Turing and Christopher Strachey](https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/)
