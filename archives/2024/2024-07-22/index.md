@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 17:38:14](https://news.ycombinator.com/item?id=41037116) - [Why Americans Aren't Having Babies](https://www.wsj.com/lifestyle/relationships/americans-babies-childless-birthrate-daf438f9)
+* [2024-07-22, 17:36:35](https://news.ycombinator.com/item?id=41037097) - [The workers have spoken: They're staying home](https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html)
+* [2024-07-22, 17:29:48](https://news.ycombinator.com/item?id=41037010) - [Apple TV+ Expenditure Has Crossed $20B, Making It Unsustainable](https://wccftech.com/apple-tv-expenditure-crossed-20-billion/)
 * [2024-07-22, 17:15:54](https://news.ycombinator.com/item?id=41036844) - [How much money we can raise for transparently idiotic startups?](https://www.smbc-comics.com/comic/investment-2)
 * [2024-07-22, 17:04:45](https://news.ycombinator.com/item?id=41036683) - [Findings – OpenResearch](https://www.openresearchlab.org/findings)
 * [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
