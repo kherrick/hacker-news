@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 04:57:46",
+      "https://news.ycombinator.com/item?id=41031037"
+    ],
+    [
+      "Jiff: A brand new Datetime library for Rust, from the author of ripgrep",
+      "https://github.com/BurntSushi/jiff"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 04:10:23",
       "https://news.ycombinator.com/item?id=41030862"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Chrome didn't have a native vector db so I built one:3",
       "https://github.com/wizenheimer/tinkerbird"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 03:29:18",
+      "https://news.ycombinator.com/item?id=41030674"
+    ],
+    [
+      "Mysterious Objects Detected Floating Through Deep Space",
+      "https://futurism.com/the-byte/massive-objects-pulsars-dark-matter"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-07-21, 13:27:01",
-      "https://news.ycombinator.com/item?id=41024920"
-    ],
-    [
-      "Carving ELF Files",
-      "https://blog.nietaanraken.nl/posts/elf-file-size/"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 12:38:39",
       "https://news.ycombinator.com/item?id=41024664"
     ],
@@ -217,16 +227,6 @@
     [
       "txtai: Open-source vector search and RAG for minimalists",
       "https://neuml.github.io/txtai/"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 11:37:54",
-      "https://news.ycombinator.com/item?id=41024358"
-    ],
-    [
-      "Show HN: A fake SMTP server for software integration testing",
-      "https://fakemail.stream"
     ]
   ],
   [
