@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 06:57:19](https://news.ycombinator.com/item?id=41031585) - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-07-22, 06:31:04](https://news.ycombinator.com/item?id=41031449) - [PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
 * [2024-07-22, 05:42:46](https://news.ycombinator.com/item?id=41031219) - [The CrowdStrike Failure Was a Warning](https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)

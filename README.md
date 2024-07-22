@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-22, 06:57:19](https://news.ycombinator.com/item?id=41031585) - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-07-22, 06:31:04](https://news.ycombinator.com/item?id=41031449) - [PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
 * [2024-07-22, 04:10:23](https://news.ycombinator.com/item?id=41030862) - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
@@ -14,7 +15,6 @@
 * [2024-07-22, 01:02:55](https://news.ycombinator.com/item?id=41029942) - [Cosmopolitan v3.5.8](https://github.com/jart/cosmopolitan/releases/tag/3.5.8)
 * [2024-07-22, 00:39:11](https://news.ycombinator.com/item?id=41029803) - [How the CIA 'kidnapped' a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
-* [2024-07-21, 22:33:29](https://news.ycombinator.com/item?id=41028887) - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
 * [2024-07-21, 22:29:28](https://news.ycombinator.com/item?id=41028849) - [Doctor-prescribed videogame for ADHD](https://www.endeavorrx.com/)
 * [2024-07-21, 22:23:48](https://news.ycombinator.com/item?id=41028795) - [Mojeek – The alternative search engine that puts the people who use it first](https://www.mojeek.com/about/)
 * [2024-07-21, 21:59:47](https://news.ycombinator.com/item?id=41028571) - [Constantine: Nim lang high-performance, zero-dependency cryptography stack](https://github.com/mratsim/constantine)
