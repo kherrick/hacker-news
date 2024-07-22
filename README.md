@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
+* [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-22, 08:20:05](https://news.ycombinator.com/item?id=41031960) - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
 * [2024-07-22, 08:09:43](https://news.ycombinator.com/item?id=41031912) - [Why are people paying so much for Vercel?](https://news.ycombinator.com/item?id=41031912)
 * [2024-07-22, 07:49:05](https://news.ycombinator.com/item?id=41031824) - [Orch: a Rust framework for LLM orchestration](https://github.com/guywaldman/orch)
@@ -13,6 +14,7 @@
 * [2024-07-22, 03:37:31](https://news.ycombinator.com/item?id=41030716) - [Show HN: Chrome didn't have a native vector db so I built one:3](https://github.com/wizenheimer/tinkerbird)
 * [2024-07-22, 03:14:46](https://news.ycombinator.com/item?id=41030608) - [How to Become a Registrar](https://www.icann.org/resources/pages/accreditation-2012-02-25-en)
 * [2024-07-22, 02:22:12](https://news.ycombinator.com/item?id=41030352) - [CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/)
+* [2024-07-22, 01:31:15](https://news.ycombinator.com/item?id=41030073) - [Data Fetching for Single-Page Apps](https://martinfowler.com/articles/data-fetch-spa.html)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
 * [2024-07-22, 01:02:55](https://news.ycombinator.com/item?id=41029942) - [Cosmopolitan v3.5.8](https://github.com/jart/cosmopolitan/releases/tag/3.5.8)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
@@ -26,10 +28,8 @@
 * [2024-07-21, 13:34:17](https://news.ycombinator.com/item?id=41024964) - [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
 * [2024-07-21, 12:38:39](https://news.ycombinator.com/item?id=41024664) - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 11:39:11](https://news.ycombinator.com/item?id=41024362) - [txtai: Open-source vector search and RAG for minimalists](https://neuml.github.io/txtai/)
-* [2024-07-21, 08:54:13](https://news.ycombinator.com/item?id=41023547) - [rr – record and replay debugger for C/C++](https://rr-project.org/)
-* [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
-* [2024-07-17, 18:07:18](https://news.ycombinator.com/item?id=40988637) - [Ask HN: What's your preferred logging stack in Kubernetes](https://news.ycombinator.com/item?id=40988637)
 * [2024-07-17, 15:44:25](https://news.ycombinator.com/item?id=40987123) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
+* [2024-07-17, 14:20:51](https://news.ycombinator.com/item?id=40986250) - [Wide angle lens distortion correction from lines](https://hh409.user.srcf.net/blog/lens-distortion-correction-lines.html)
 
 ## [Archives](archives/index.md)
 
