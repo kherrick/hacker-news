@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41037380">
+          <h3>
+            <a
+              class="item"
+              href="https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/"
+              >Microsoft: Linux Is the Top Operating System on Azure Today</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-22 @ 17:58:13</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41037380"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41037226">
           <h3>
             <a
@@ -141,32 +162,148 @@
             <h4>
               <span>2024-07-22 @ 17:46:44</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41037226"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="41037116">
+        <section id="41037177">
           <h3>
             <a
               class="item"
-              href="https://www.wsj.com/lifestyle/relationships/americans-babies-childless-birthrate-daf438f9"
-              >Why Americans Aren't Having Babies</a
+              href="https://github.com/DouglasNeuroInformatics/OpenDataCapture"
+              >Show HN: OpenDataCapture an electronic data capture platform for
+              data collection</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-07-22 @ 17:38:14</span
+              <span>2024-07-22 @ 17:43:10</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41037116"
+                ><a href="https://news.ycombinator.com/item?id=41037177"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We're the Douglas Neuroinformatics Platform[1], and we've been
+                working on Open Data Capture, a web-based electronic data
+                capture (EDC) platform for continuous clinical and research data
+                collection. You can use it to administer instruments (like forms
+                and interactive tasks) either in-person or remotely.
+              </p>
+              <p>
+                The platform is based on a fundamentally longitudinal data
+                model. Unlike other EDC platforms, which are centered around the
+                concept of a study with rigid timepoints, Open Data Capture is
+                designed for continuous data capture. Data is associated with a
+                given session, which includes metadata such as date, time, and
+                mode (i.e., in-person or remote).
+              </p>
+              <p>
+                We've designed the system around the core restriction that many
+                hospital institutions demand that data remain on-premise, while
+                clinician-researchers often want to evaluate clients outside the
+                institution with research questions. This has resulted in our
+                innovative gateway concept, where assigned remote assessments
+                are pushed onto an internet accessible service, and responses
+                are encrypted in-place with HPKE[2] until the backend pulls them
+                into the backend database. This makes the deployment
+                firewall-friendly provided you can launch a minimal VPS or VM
+                host somewhere globally accessible.
+              </p>
+              <p>
+                We're also a big fan of making things easy to deploy, so we
+                supply a docker-compose stack which can bring up a demo instance
+                easily to run locally.
+              </p>
+              <p>
+                The platform is free, open source, and written in TypeScript,
+                with a NoSQL database underneath. Users can write instruments in
+                TypeScript using a type-safe declarative form system (with
+                native i18n support built in) or wrap and integrate completely
+                arbitrary interactive tasks written in JavaScript (with optional
+                support for TypeScript and JSX). Under the hood, this is based
+                on dynamic imports and native ESM. There’s a browser-based IDE
+                (the Instrument Playground) with live reloading and full
+                Intellisense where you can try creating your own instruments.
+              </p>
+              <p>
+                We have a local deployment going live at our institution and
+                appropriately-licensed (free) instruments we're deploying here
+                will be integrated directly into the codebase.
+              </p>
+              <p>
+                Our future plans include expanding our instrument types to allow
+                for binary data storage with an s3-like backend, and with
+                abstractions for data types, like actigraphy, and MRI.
+              </p>
+              <p>
+                Check it out on GitHub[3], try the Instrument Playground[4], or
+                see the Live Demo[5].
+              </p>
+              <p>Would love to hear everybody’s thoughts!</p>
+              <p>Links:</p>
+              <p>
+                [1]
+                <a href="https://github.com/DouglasNeuroInformatics/"
+                  >https://github.com/DouglasNeuroInformatics/</a
+                >
+              </p>
+              <p>@gdevenyi @joshunrau</p>
+              <p>
+                [2]
+                <a href="https://datatracker.ietf.org/doc/rfc9180/"
+                  >https://datatracker.ietf.org/doc/rfc9180/</a
+                >
+              </p>
+              <p>
+                [3]
+                <a
+                  href="https://github.com/DouglasNeuroInformatics/OpenDataCapture"
+                  >https://github.com/DouglasNeuroInformatics/OpenDataCapture</a
+                >
+              </p>
+              <p>
+                [4]
+                <a href="https://playground.opendatacapture.org"
+                  >https://playground.opendatacapture.org</a
+                >
+              </p>
+              <p>
+                [5]
+                <a href="https://demo.opendatacapture.org"
+                  >https://demo.opendatacapture.org</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="41037168">
+          <h3>
+            <a
+              class="item"
+              href="https://www.reuters.com/business/aerospace-defense/boeing-owned-wisk-expects-begin-carrying-passengers-later-decade-2024-07-22/"
+              >Boeing-owned Wisk expects to begin carrying passengers 'later in
+              the decade'</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-22 @ 17:42:17</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41037168"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -183,35 +320,37 @@
             <h4>
               <span>2024-07-22 @ 17:36:35</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41037097"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="41037010">
+        <section id="41036914">
           <h3>
-            <a
-              class="item"
-              href="https://wccftech.com/apple-tv-expenditure-crossed-20-billion/"
-              >Apple TV+ Expenditure Has Crossed $20B, Making It
-              Unsustainable</a
+            <a class="item" href="https://news.ycombinator.com/item?id=41036914"
+              >Ask HN: Is there a list of grey-hair-friendly IT companies?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-07-22 @ 17:29:48</span
+              <span>2024-07-22 @ 17:21:29</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41037010"
+                ><a href="https://news.ycombinator.com/item?id=41036914"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
+            <div class="text">
+              E.g. something like that
+              https://github.com/remoteintech/remote-jobs but for being actively
+              anti-ageist or at least not bothered by one's age?
+            </div>
           </section>
         </section>
         <section id="41036844">
@@ -227,11 +366,11 @@
             <h4>
               <span>2024-07-22 @ 17:15:54</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41036844"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -265,11 +404,11 @@
             <h4>
               <span>2024-07-22 @ 16:48:44</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41036526"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -286,7 +425,7 @@
             <h4>
               <span>2024-07-22 @ 16:42:22</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41036462"
                   >Comments</a
@@ -307,11 +446,11 @@
             <h4>
               <span>2024-07-22 @ 16:32:31</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41036334"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -326,11 +465,11 @@
             <h4>
               <span>2024-07-22 @ 16:25:21</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41036231"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -348,11 +487,11 @@
             <h4>
               <span>2024-07-22 @ 16:24:11</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41036216"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -369,7 +508,7 @@
             <h4>
               <span>2024-07-22 @ 15:14:35</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41035405"
                   >Comments</a
@@ -390,11 +529,11 @@
             <h4>
               <span>2024-07-22 @ 14:21:20</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41034738"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -411,11 +550,11 @@
             <h4>
               <span>2024-07-22 @ 12:21:06</span
               ><span class="points-container"
-                >Points: <span class="points">297</span></span
+                >Points: <span class="points">305</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41033579"
                   >Comments</a
-                ><span class="descendants">: 188</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -433,7 +572,7 @@
             <h4>
               <span>2024-07-22 @ 11:29:45</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41033209"
                   >Comments</a
@@ -453,11 +592,11 @@
             <h4>
               <span>2024-07-22 @ 08:22:16</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41031975"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -475,11 +614,11 @@
             <h4>
               <span>2024-07-22 @ 08:20:05</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41031960"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
           </section>
@@ -494,11 +633,11 @@
             <h4>
               <span>2024-07-22 @ 05:17:23</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41031112"
                   >Comments</a
-                ><span class="descendants">: 149</span></span
+                ><span class="descendants">: 155</span></span
               >
             </h4>
           </section>
@@ -513,11 +652,11 @@
             <h4>
               <span>2024-07-22 @ 04:57:46</span
               ><span class="points-container"
-                >Points: <span class="points">403</span></span
+                >Points: <span class="points">406</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41031037"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 181</span></span
               >
             </h4>
           </section>
@@ -532,7 +671,7 @@
             <h4>
               <span>2024-07-22 @ 04:10:23</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41030862"
                   >Comments</a
@@ -553,7 +692,7 @@
             <h4>
               <span>2024-07-22 @ 01:31:15</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41030073"
                   >Comments</a
@@ -574,30 +713,11 @@
             <h4>
               <span>2024-07-22 @ 01:12:12</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41029987"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41029467">
-          <h3>
-            <a class="item" href="https://en.wikipedia.org/wiki/Man_of_the_Hole"
-              >Man of the Hole</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-21 @ 23:45:07</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41029467"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -610,51 +730,11 @@
             <h4>
               <span>2024-07-21 @ 23:23:36</span
               ><span class="points-container"
-                >Points: <span class="points">414</span></span
+                >Points: <span class="points">416</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41029287"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41026663">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/"
-              >Stremio OS Is Now Available for Raspberry Pi 5 and 4</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-21 @ 17:39:52</span
-              ><span class="points-container"
-                >Points: <span class="points">129</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41026663"
-                  >Comments</a
-                ><span class="descendants">: 68</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41024362">
-          <h3>
-            <a class="item" href="https://neuml.github.io/txtai/"
-              >Txtai: Open-source vector search and RAG for minimalists</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-21 @ 11:39:11</span
-              ><span class="points-container"
-                >Points: <span class="points">223</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41024362"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -672,11 +752,32 @@
             <h4>
               <span>2024-07-19 @ 02:15:26</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41001550"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 105</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40997764">
+          <h3>
+            <a
+              class="item"
+              href="https://semanticdiff.com/blog/language-aware-diff-how-far/"
+              >How far should a programming language aware diff go?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-18 @ 17:18:13</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40997764"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -693,11 +794,11 @@
             <h4>
               <span>2024-07-17 @ 15:44:25</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40987123"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -718,7 +819,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40986305"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -739,7 +840,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40986250"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
