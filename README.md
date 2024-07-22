@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-22, 10:12:24](https://news.ycombinator.com/item?id=41032694) - [Web Crap Has Taken Control](https://medium.com/@fulalas/web-crap-has-taken-control-71c459df6e62)
-* [2024-07-22, 08:33:05](https://news.ycombinator.com/item?id=41032038) - [Autism can be reversed, scientists discover](https://www.telegraph.co.uk/news/2024/07/20/severe-autism-can-be-reversed-groundbreaking-study-suggests/)
 * [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-22, 08:20:05](https://news.ycombinator.com/item?id=41031960) - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
@@ -18,6 +17,7 @@
 * [2024-07-22, 02:22:12](https://news.ycombinator.com/item?id=41030352) - [CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/)
 * [2024-07-22, 01:31:15](https://news.ycombinator.com/item?id=41030073) - [Data Fetching for Single-Page Apps](https://martinfowler.com/articles/data-fetch-spa.html)
 * [2024-07-22, 01:12:12](https://news.ycombinator.com/item?id=41029987) - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
+* [2024-07-22, 01:02:55](https://news.ycombinator.com/item?id=41029942) - [Cosmopolitan v3.5.8](https://github.com/jart/cosmopolitan/releases/tag/3.5.8)
 * [2024-07-21, 23:23:36](https://news.ycombinator.com/item?id=41029287) - [Pin](https://without.boats/blog/pin/)
 * [2024-07-21, 22:29:28](https://news.ycombinator.com/item?id=41028849) - [Doctor-prescribed videogame for ADHD](https://www.endeavorrx.com/)
 * [2024-07-21, 20:43:29](https://news.ycombinator.com/item?id=41027924) - [AI method rapidly speeds predictions of materials' thermal properties](https://news.mit.edu/2024/ai-method-radically-speeds-predictions-materials-thermal-properties-0716)
