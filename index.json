@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 17:58:13",
+      "https://news.ycombinator.com/item?id=41037380"
+    ],
+    [
+      "Microsoft: Linux Is the Top Operating System on Azure Today",
+      "https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 17:46:44",
       "https://news.ycombinator.com/item?id=41037226"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2024-07-22, 17:38:14",
-      "https://news.ycombinator.com/item?id=41037116"
+      "2024-07-22, 17:43:10",
+      "https://news.ycombinator.com/item?id=41037177"
     ],
     [
-      "Why Americans Aren't Having Babies",
-      "https://www.wsj.com/lifestyle/relationships/americans-babies-childless-birthrate-daf438f9"
+      "Show HN: OpenDataCapture an electronic data capture platform for data collection",
+      "https://github.com/DouglasNeuroInformatics/OpenDataCapture"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 17:42:17",
+      "https://news.ycombinator.com/item?id=41037168"
+    ],
+    [
+      "Boeing-owned Wisk expects to begin carrying passengers 'later in the decade'",
+      "https://www.reuters.com/business/aerospace-defense/boeing-owned-wisk-expects-begin-carrying-passengers-later-decade-2024-07-22/"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-07-22, 17:29:48",
-      "https://news.ycombinator.com/item?id=41037010"
+      "2024-07-22, 17:21:29",
+      "https://news.ycombinator.com/item?id=41036914"
     ],
     [
-      "Apple TV+ Expenditure Has Crossed $20B, Making It Unsustainable",
-      "https://wccftech.com/apple-tv-expenditure-crossed-20-billion/"
+      "Ask HN: Is there a list of grey-hair-friendly IT companies?",
+      "https://news.ycombinator.com/item?id=41036914"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-07-21, 23:45:07",
-      "https://news.ycombinator.com/item?id=41029467"
-    ],
-    [
-      "Man of the Hole",
-      "https://en.wikipedia.org/wiki/Man_of_the_Hole"
-    ]
-  ],
-  [
-    [
       "2024-07-21, 23:23:36",
       "https://news.ycombinator.com/item?id=41029287"
     ],
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2024-07-21, 17:39:52",
-      "https://news.ycombinator.com/item?id=41026663"
-    ],
-    [
-      "Stremio OS Is Now Available for Raspberry Pi 5 and 4",
-      "https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-4/"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 11:39:11",
-      "https://news.ycombinator.com/item?id=41024362"
-    ],
-    [
-      "Txtai: Open-source vector search and RAG for minimalists",
-      "https://neuml.github.io/txtai/"
-    ]
-  ],
-  [
-    [
       "2024-07-19, 02:15:26",
       "https://news.ycombinator.com/item?id=41001550"
     ],
     [
       "What's the point of std:monostate? You can't do anything with it",
       "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 17:18:13",
+      "https://news.ycombinator.com/item?id=40997764"
+    ],
+    [
+      "How far should a programming language aware diff go?",
+      "https://semanticdiff.com/blog/language-aware-diff-how-far/"
     ]
   ],
   [
