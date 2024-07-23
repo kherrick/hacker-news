@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-23, 01:30:14](https://news.ycombinator.com/item?id=41041661) - [Electrical World (Engineering Publication, circa 1904)](https://archive.org/details/electricalworld43newy)
 * [2024-07-23, 01:14:43](https://news.ycombinator.com/item?id=41041575) - [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
+* [2024-07-23, 01:08:49](https://news.ycombinator.com/item?id=41041537) - [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
 * [2024-07-22, 22:47:05](https://news.ycombinator.com/item?id=41040635) - [Arm's Neoverse V2, in AWS's Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
 * [2024-07-22, 22:31:17](https://news.ycombinator.com/item?id=41040543) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
