@@ -89,6 +89,7 @@
 * [2024-07-19, 04:40:16](https://news.ycombinator.com/item?id=41002044) - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
 * [2024-07-19, 04:09:59](https://news.ycombinator.com/item?id=41001959) - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
 * [2024-07-19, 04:08:09](https://news.ycombinator.com/item?id=41001953) - [Condo prices at SF's beleaguered Millennium Tower drop to as low as $649,000](https://www.sfgate.com/bayarea/article/millennium-tower-san-francisco-price-drop-19582654.php)
+* [2024-07-19, 04:07:51](https://news.ycombinator.com/item?id=41001951) - [Ruby Methods Are Colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
 * [2024-07-19, 04:05:02](https://news.ycombinator.com/item?id=41001941) - [Show HN: ChatGPT Chrome Extension to Keep Temporary Chat Enabled](https://github.com/EliseiNicolae/chatgpt-always-temporary-chat-on)
 * [2024-07-19, 03:36:01](https://news.ycombinator.com/item?id=41001851) - [New Batteries: It's Not All Hype – Sabine Hossenfelder [video]](https://www.youtube.com/watch?v=2eIPHX-NpMM)
 * [2024-07-19, 03:33:04](https://news.ycombinator.com/item?id=41001839) - [The Arctic Dilemma](https://arctic-council.org/news/the-arctic-dilemma/)
