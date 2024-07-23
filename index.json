@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-07-23, 07:24:22",
+      "https://news.ycombinator.com/item?id=41043499"
+    ],
+    [
+      "Storing UTC is not a silver bullet",
+      "https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 07:05:45",
       "https://news.ycombinator.com/item?id=41043371"
     ],
     [
       "Database Design for Google Calendar: A Tutorial",
       "https://kb.databasedesignbook.com/posts/google-calendar/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 06:24:01",
+      "https://news.ycombinator.com/item?id=41043077"
+    ],
+    [
+      "Ask HN: Is there room for a new email hosting service?",
+      "https://news.ycombinator.com/item?id=41043077"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-07-22, 19:01:45",
-      "https://news.ycombinator.com/item?id=41038406"
-    ],
-    [
-      "The love letter generator created by Alan Turing and Christopher Strachey",
-      "https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 18:59:38",
       "https://news.ycombinator.com/item?id=41038372"
     ],
@@ -247,16 +257,6 @@
     [
       "Difference between running Postgres for yourself and for others",
       "https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 12:21:06",
-      "https://news.ycombinator.com/item?id=41033579"
-    ],
-    [
-      "No More Blue Fridays",
-      "https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html"
     ]
   ],
   [
