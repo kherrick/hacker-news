@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-23, 20:10:48",
-      "https://news.ycombinator.com/item?id=41050278"
+      "2024-07-23, 21:00:56",
+      "https://news.ycombinator.com/item?id=41050801"
     ],
     [
-      "Tesla Q2 2024 Update [pdf]",
-      "https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q2-2024-Update.pdf"
+      "Meticulous (YC S21) is hiring to eliminate UI tests",
+      "https://news.ycombinator.com/item?id=41050801"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Alphabet Second Quarter 2024 Results",
       "https://www.cnbc.com/2024/07/23/alphabet-set-to-report-q2-earnings-results-after-the-bell.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 20:04:55",
-      "https://news.ycombinator.com/item?id=41050218"
-    ],
-    [
-      "Alphabet Announces Second Quarter 2024 Results [pdf]",
-      "https://abc.xyz/assets/19/e4/3dc1d4d6439c81206370167db1bd/2024q2-alphabet-earnings-release.pdf"
     ]
   ],
   [
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2024-07-23, 19:10:45",
-      "https://news.ycombinator.com/item?id=41049656"
+      "2024-07-23, 19:02:48",
+      "https://news.ycombinator.com/item?id=41049587"
     ],
     [
-      "OpenBSD IPv6 Home Internet Gateway with AT&T Fibre",
-      "https://jgoguen.ca/posts/2024/07/20/openbsd-ipv6-home-internet-gateway-with-att-fibre/"
+      "Dtui – TUI for introspecting the state of the system/session dbus",
+      "https://github.com/Troels51/dtui"
     ]
   ],
   [
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2024-07-23, 17:00:55",
-      "https://news.ycombinator.com/item?id=41048325"
-    ],
-    [
-      "Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)",
-      "https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack"
-    ]
-  ],
-  [
-    [
       "2024-07-23, 16:49:53",
       "https://news.ycombinator.com/item?id=41048194"
     ],
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-07-23, 14:15:31",
+      "https://news.ycombinator.com/item?id=41046226"
+    ],
+    [
+      "Trunk: Build, bundle and ship your Rust WASM application to the web",
+      "https://trunkrs.dev/"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 13:59:27",
       "https://news.ycombinator.com/item?id=41046107"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-07-23, 03:37:53",
+      "https://news.ycombinator.com/item?id=41042294"
+    ],
+    [
+      "Button Stealer",
+      "https://anatolyzenkov.com/stolen-buttons/button-stealer"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 02:42:59",
       "https://news.ycombinator.com/item?id=41042034"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-07-22, 18:07:16",
-      "https://news.ycombinator.com/item?id=41037532"
-    ],
-    [
-      "Ask HN: I built a Yubikey-based domain controller. Is it sellable?",
-      "https://news.ycombinator.com/item?id=41037532"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 17:27:44",
       "https://news.ycombinator.com/item?id=41036982"
     ],
     [
       "A Gentle Introduction to SAML",
       "https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 18:41:12",
+      "https://news.ycombinator.com/item?id=41018635"
+    ],
+    [
+      "Shape of Motion: 4D Reconstruction from a Single Video",
+      "https://shape-of-motion.github.io/"
     ]
   ],
   [
