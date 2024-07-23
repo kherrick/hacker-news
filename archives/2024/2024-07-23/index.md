@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 23:13:03](https://news.ycombinator.com/item?id=41051998) - [Open Source in Europe: Facing the regulatory challenge](https://opensource.net/open-source-cra-challenge/)
 * [2024-07-23, 22:00:23](https://news.ycombinator.com/item?id=41051417) - [Alphabet to invest another $5B into Waymo](https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/)
 * [2024-07-23, 21:50:09](https://news.ycombinator.com/item?id=41051327) - [Traveling this summer? Maybe don't let the airport scan your face](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
 * [2024-07-23, 21:41:25](https://news.ycombinator.com/item?id=41051257) - [ESA Report Shows Unsustainable Levels of Orbital Debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
