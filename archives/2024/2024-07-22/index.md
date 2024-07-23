@@ -44,6 +44,7 @@
 * [2024-07-22, 17:29:48](https://news.ycombinator.com/item?id=41037010) - [Apple TV+ Expenditure Has Crossed $20B, Making It Unsustainable](https://wccftech.com/apple-tv-expenditure-crossed-20-billion/)
 * [2024-07-22, 17:27:44](https://news.ycombinator.com/item?id=41036982) - [A Gentle Introduction to SAML](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/)
 * [2024-07-22, 17:21:29](https://news.ycombinator.com/item?id=41036914) - [Ask HN: Is there a list of grey-hair-friendly IT companies?](https://news.ycombinator.com/item?id=41036914)
+* [2024-07-22, 17:17:39](https://news.ycombinator.com/item?id=41036869) - [Seven Segment Display](https://ashur.cab/07734/)
 * [2024-07-22, 17:15:54](https://news.ycombinator.com/item?id=41036844) - [How much money we can raise for transparently idiotic startups?](https://www.smbc-comics.com/comic/investment-2)
 * [2024-07-22, 17:04:45](https://news.ycombinator.com/item?id=41036683) - [Findings – OpenResearch](https://www.openresearchlab.org/findings)
 * [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)

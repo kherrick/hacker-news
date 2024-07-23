@@ -6,9 +6,11 @@
 
 * [2024-07-23, 12:00:59](https://news.ycombinator.com/item?id=41045069) - [How the origins of America's immigrants have changed since 1850](https://www.pewresearch.org/short-reads/2024/07/22/how-the-origins-of-americas-immigrants-have-changed-since-1850/)
 * [2024-07-23, 11:41:21](https://news.ycombinator.com/item?id=41044932) - [Strace Revisited: Simple Is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
+* [2024-07-23, 11:39:33](https://news.ycombinator.com/item?id=41044921) - [As a cafe worker, there's one question customers ask and show a lack of respect](https://www.smh.com.au/lifestyle/life-and-relationships/as-a-cafe-worker-there-s-one-question-customers-ask-that-shows-a-lack-of-respect-20240703-p5jqtz.html)
 * [2024-07-23, 10:26:56](https://news.ycombinator.com/item?id=41044520) - [Install Docmost – open-source Notion Clone](https://tillcarlos.com/install-docmost/)
 * [2024-07-23, 10:15:36](https://news.ycombinator.com/item?id=41044452) - [Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?](http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html)
 * [2024-07-23, 09:06:59](https://news.ycombinator.com/item?id=41044105) - [Intel vPro CPUs have a web server open](https://mastodon.lilysthings.org/@i_lost_my_bagel/112228352384742242)
+* [2024-07-23, 08:42:03](https://news.ycombinator.com/item?id=41043982) - [Comparing TCP and QUIC](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 * [2024-07-23, 08:25:22](https://news.ycombinator.com/item?id=41043865) - [Telegram zero-day for Android allowed malicious files to masquerade as videos](https://therecord.media/telegram-zero-day-android-app-eset)
 * [2024-07-23, 08:13:31](https://news.ycombinator.com/item?id=41043771) - [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
 * [2024-07-23, 08:07:55](https://news.ycombinator.com/item?id=41043746) - [U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
