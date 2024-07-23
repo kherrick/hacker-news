@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 16:28:49](https://news.ycombinator.com/item?id=41047902) - [Ireland's datacentres overtake electricity use of all urban homes combined](https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show)
+* [2024-07-23, 16:08:12](https://news.ycombinator.com/item?id=41047582) - [AT&T February wireless outage blocked more than 92M calls, agency says](https://www.reuters.com/business/media-telecom/att-wireless-outage-february-blocked-more-than-92-million-calls-agency-says-2024-07-22/)
 * [2024-07-23, 15:34:53](https://news.ycombinator.com/item?id=41047104) - [Rust doesn't solve the CrowdStrike outage](https://blogsystem5.substack.com/p/crowdstrike-and-rust)
 * [2024-07-23, 15:25:14](https://news.ycombinator.com/item?id=41046956) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open Source AI Is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
@@ -18,7 +20,6 @@
 * [2024-07-22, 20:55:02](https://news.ycombinator.com/item?id=41039708) - [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
-* [2024-07-22, 18:47:23](https://news.ycombinator.com/item?id=41038188) - [Reflections on Luck and Skill from the Part Time Poker Grind](https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on)
 * [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-07-22, 18:20:16](https://news.ycombinator.com/item?id=41037745) - [Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists discover a new hormone that can build strong bones in mice](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
@@ -27,7 +28,6 @@
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
 * [2024-07-21, 00:15:23](https://news.ycombinator.com/item?id=41021351) - [300-Year-Old House Transported Piecemeal Japan to California, Then Reconstructed](https://www.wsj.com/style/design/japanese-heritage-shoya-house-melding-nature-and-artifice-32d3563b)
 * [2024-07-20, 18:41:12](https://news.ycombinator.com/item?id=41018635) - [Shape of Motion: 4D Reconstruction from a Single Video](https://shape-of-motion.github.io/)
-* [2024-07-18, 23:35:55](https://news.ycombinator.com/item?id=41000760) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
 * [2024-07-18, 13:24:44](https://news.ycombinator.com/item?id=40995344) - [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)
 * [2024-07-17, 01:59:48](https://news.ycombinator.com/item?id=40981954) - [Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 16:28:49](https://news.ycombinator.com/item?id=41047902) - [Ireland's datacentres overtake electricity use of all urban homes combined](https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show)
+* [2024-07-23, 16:08:12](https://news.ycombinator.com/item?id=41047582) - [AT&T February wireless outage blocked more than 92M calls, agency says](https://www.reuters.com/business/media-telecom/att-wireless-outage-february-blocked-more-than-92-million-calls-agency-says-2024-07-22/)
 * [2024-07-23, 15:38:57](https://news.ycombinator.com/item?id=41047172) - [Switzerland now requires all government software to be open source](https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/)
 * [2024-07-23, 15:34:53](https://news.ycombinator.com/item?id=41047104) - [Rust doesn't solve the CrowdStrike outage](https://blogsystem5.substack.com/p/crowdstrike-and-rust)
 * [2024-07-23, 15:25:14](https://news.ycombinator.com/item?id=41046956) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
