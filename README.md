@@ -27,9 +27,9 @@
 * [2024-07-22, 17:27:44](https://news.ycombinator.com/item?id=41036982) - [A Gentle Introduction to SAML](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/)
 * [2024-07-21, 03:54:35](https://news.ycombinator.com/item?id=41022251) - [Relationships are coevolutionary loops (2023)](https://www.henrikkarlsson.xyz/p/making-a-home-together)
 * [2024-07-20, 18:41:12](https://news.ycombinator.com/item?id=41018635) - [Shape of Motion: 4D Reconstruction from a Single Video](https://shape-of-motion.github.io/)
+* [2024-07-20, 10:15:55](https://news.ycombinator.com/item?id=41015400) - [When Smart Ships Divide by Zer0 – Stranding the USS Yorktown (2018)](https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2)
 * [2024-07-19, 04:07:51](https://news.ycombinator.com/item?id=41001951) - [Ruby methods are colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
 * [2024-07-18, 23:53:18](https://news.ycombinator.com/item?id=41000844) - [Ask HN: Fast data structures for disjoint intervals?](https://news.ycombinator.com/item?id=41000844)
-* [2024-07-18, 13:24:44](https://news.ycombinator.com/item?id=40995344) - [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)
 
 ## [Archives](archives/index.md)
 

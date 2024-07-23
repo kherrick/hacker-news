@@ -58,6 +58,7 @@
 * [2024-07-20, 11:06:28](https://news.ycombinator.com/item?id=41015601) - [Tell HN: I made a shareable one-page site on how to fix the CrowdStrike issue](https://news.ycombinator.com/item?id=41015601)
 * [2024-07-20, 11:03:55](https://news.ycombinator.com/item?id=41015588) - [Aro – Zig's new C compiler](https://github.com/Vexu/arocc)
 * [2024-07-20, 10:33:01](https://news.ycombinator.com/item?id=41015459) - [Crowdstrike CEO was McAfee CTO when big glitch took down large part of Internet](https://twitter.com/anshelsag/status/1814426186933776846)
+* [2024-07-20, 10:15:55](https://news.ycombinator.com/item?id=41015400) - [When Smart Ships Divide by Zer0 – Stranding the USS Yorktown (2018)](https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2)
 * [2024-07-20, 08:32:15](https://news.ycombinator.com/item?id=41015025) - [New Nano-Tech to Control the Brain Using Magnetic Fields](https://www.ibs.re.kr/cop/bbs/BBSMSTR_000000000738/selectBoardArticle.do?nttId=24921)
 * [2024-07-20, 08:14:20](https://news.ycombinator.com/item?id=41014941) - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 * [2024-07-20, 07:41:27](https://news.ycombinator.com/item?id=41014821) - [No-IT. Really. No. I. T. – R&a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
