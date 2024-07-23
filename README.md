@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 19:33:02](https://news.ycombinator.com/item?id=41049857) - [The rest of the world is building subways like crazy](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
 * [2024-07-23, 19:26:44](https://news.ycombinator.com/item?id=41049799) - [Google Drive actively scans for Copyright Violatins](https://twitter.com/1littlecoder/status/1815830211612586255)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics Officials Try to Catch \"Motor Doping\"](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
@@ -17,7 +18,6 @@
 * [2024-07-23, 13:59:27](https://news.ycombinator.com/item?id=41046107) - [A (not so) small library for terminal based game development](https://github.com/pygamelib/pygamelib)
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
-* [2024-07-23, 08:13:31](https://news.ycombinator.com/item?id=41043771) - [Show HN: Convert HTML DOM to semantic markdown for use in LLMs](https://github.com/romansky/dom-to-semantic-markdown)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 03:37:53](https://news.ycombinator.com/item?id=41042294) - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 * [2024-07-23, 02:42:59](https://news.ycombinator.com/item?id=41042034) - [Google-Wiz deal fizzles out, company will pursue IPO](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
