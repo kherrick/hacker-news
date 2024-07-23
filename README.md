@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 08:07:55](https://news.ycombinator.com/item?id=41043746) - [U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
 * [2024-07-23, 07:24:22](https://news.ycombinator.com/item?id=41043499) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 * [2024-07-23, 07:05:45](https://news.ycombinator.com/item?id=41043371) - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [2024-07-23, 07:02:50](https://news.ycombinator.com/item?id=41043355) - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
@@ -14,7 +15,6 @@
 * [2024-07-22, 20:55:02](https://news.ycombinator.com/item?id=41039708) - [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 * [2024-07-22, 20:05:42](https://news.ycombinator.com/item?id=41039213) - [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
-* [2024-07-22, 19:01:45](https://news.ycombinator.com/item?id=41038406) - [The love letter generator created by Alan Turing and Christopher Strachey](https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-07-22, 18:20:16](https://news.ycombinator.com/item?id=41037745) - [Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
