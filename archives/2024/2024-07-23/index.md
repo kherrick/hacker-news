@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering: naive algorithm, histogram-based, binary tree, and more (2022)](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 12:00:59](https://news.ycombinator.com/item?id=41045069) - [How the origins of America's immigrants have changed since 1850](https://www.pewresearch.org/short-reads/2024/07/22/how-the-origins-of-americas-immigrants-have-changed-since-1850/)
 * [2024-07-23, 11:41:21](https://news.ycombinator.com/item?id=41044932) - [Strace Revisited: Simple Is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
 * [2024-07-23, 11:39:33](https://news.ycombinator.com/item?id=41044921) - [As a cafe worker, there's one question customers ask and show a lack of respect](https://www.smh.com.au/lifestyle/life-and-relationships/as-a-cafe-worker-there-s-one-question-customers-ask-that-shows-a-lack-of-respect-20240703-p5jqtz.html)
+* [2024-07-23, 10:40:08](https://news.ycombinator.com/item?id=41044596) - [IRC Networks – Top 100](https://netsplit.de/networks/top100.php)
 * [2024-07-23, 10:26:56](https://news.ycombinator.com/item?id=41044520) - [Install Docmost – open-source Notion Clone](https://tillcarlos.com/install-docmost/)
 * [2024-07-23, 10:15:36](https://news.ycombinator.com/item?id=41044452) - [Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?](http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html)
 * [2024-07-23, 09:06:59](https://news.ycombinator.com/item?id=41044105) - [Intel vPro CPUs have a web server open](https://mastodon.lilysthings.org/@i_lost_my_bagel/112228352384742242)
