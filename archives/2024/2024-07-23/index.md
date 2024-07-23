@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 21:41:25](https://news.ycombinator.com/item?id=41051257) - [ESA Report Shows Unsustainable Levels of Orbital Debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
 * [2024-07-23, 21:00:56](https://news.ycombinator.com/item?id=41050801) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
 * [2024-07-23, 20:10:48](https://news.ycombinator.com/item?id=41050278) - [Tesla Q2 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q2-2024-Update.pdf)
 * [2024-07-23, 20:06:48](https://news.ycombinator.com/item?id=41050237) - [Alphabet Second Quarter 2024 Results](https://www.cnbc.com/2024/07/23/alphabet-set-to-report-q2-earnings-results-after-the-bell.html)
