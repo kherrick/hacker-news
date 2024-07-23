@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-23, 02:14:06](https://news.ycombinator.com/item?id=41041886) - [The Value of Milk.com](https://milk.com/value/)
+* [2024-07-23, 03:02:56](https://news.ycombinator.com/item?id=41042121) - [Wiz Rejects Alphabet's $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
+* [2024-07-23, 02:42:59](https://news.ycombinator.com/item?id=41042034) - [Wiz walks away from $23B deal with Google](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
 * [2024-07-23, 01:14:43](https://news.ycombinator.com/item?id=41041575) - [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
 * [2024-07-23, 01:08:49](https://news.ycombinator.com/item?id=41041537) - [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
 * [2024-07-22, 22:47:05](https://news.ycombinator.com/item?id=41040635) - [Arm's Neoverse V2, in AWS's Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
@@ -21,7 +22,6 @@
 * [2024-07-22, 17:35:06](https://news.ycombinator.com/item?id=41037079) - [A Formulation of the Trilemma in Proof of Work Blockchain](https://ieeexplore.ieee.org/document/10549891)
 * [2024-07-22, 17:34:07](https://news.ycombinator.com/item?id=41037065) - [Another intermediate-mass black hole discovered at the centre of our galaxy](https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/another-intermediate-mass-black-hole-discovered-at-the-centre-of-our-galaxy)
 * [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
-* [2024-07-22, 16:48:44](https://news.ycombinator.com/item?id=41036526) - [Oxygen discovery defies knowledge of the deep ocean](https://www.bbc.co.uk/news/articles/c728ven2v9eo)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists discover a new hormone that can build strong bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by transcript, not waveform](https://github.com/bugbakery/audapolis)
 * [2024-07-22, 14:56:53](https://news.ycombinator.com/item?id=41035183) - [Difference between running Postgres for yourself and for others](https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others)
