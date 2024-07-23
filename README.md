@@ -2,8 +2,6 @@
 
 * [2024-07-23, 03:02:56](https://news.ycombinator.com/item?id=41042121) - [Wiz Rejects Alphabet's $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
 * [2024-07-23, 02:42:59](https://news.ycombinator.com/item?id=41042034) - [Wiz walks away from $23B deal with Google](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
-* [2024-07-23, 02:14:06](https://news.ycombinator.com/item?id=41041886) - [The Value of Milk.com](https://milk.com/value/)
-* [2024-07-23, 02:05:14](https://news.ycombinator.com/item?id=41041846) - [FCC Liability for Radio Pirates Operating on Your Property](https://www.jdsupra.com/legalnews/a-new-headache-for-landowners-fcc-9899137/)
 * [2024-07-23, 01:14:43](https://news.ycombinator.com/item?id=41041575) - [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
 * [2024-07-23, 01:08:49](https://news.ycombinator.com/item?id=41041537) - [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
 * [2024-07-22, 22:47:05](https://news.ycombinator.com/item?id=41040635) - [Arm's Neoverse V2, in AWS's Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
@@ -29,7 +27,9 @@
 * [2024-07-22, 14:56:53](https://news.ycombinator.com/item?id=41035183) - [Difference between running Postgres for yourself and for others](https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others)
 * [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
+* [2024-07-19, 02:15:26](https://news.ycombinator.com/item?id=41001550) - [What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-18, 23:35:55](https://news.ycombinator.com/item?id=41000760) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
+* [2024-07-17, 01:59:48](https://news.ycombinator.com/item?id=40981954) - [Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 
 ## [Archives](archives/index.md)
 
