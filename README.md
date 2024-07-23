@@ -13,7 +13,6 @@
 * [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why is it so hard to share links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
 * [2024-07-23, 18:04:02](https://news.ycombinator.com/item?id=41048980) - [Engage, don't show](https://lea.verou.me/blog/2024/engage-dont-show/)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
-* [2024-07-23, 17:41:27](https://news.ycombinator.com/item?id=41048747) - [Chinese-born chemist cleared of last conviction under US’s espionage probe](https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article)
 * [2024-07-23, 17:33:28](https://news.ycombinator.com/item?id=41048677) - [Warsaw came close to never being rebuilt (2015)](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
 * [2024-07-23, 16:49:53](https://news.ycombinator.com/item?id=41048194) - [Show HN: Zerox – document OCR with GPT-mini](https://github.com/getomni-ai/zerox)
 * [2024-07-23, 15:35:10](https://news.ycombinator.com/item?id=41047110) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
@@ -28,6 +27,7 @@
 * [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States discloses nuclear warhead numbers; restores nuclear transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
 * [2024-07-22, 18:07:16](https://news.ycombinator.com/item?id=41037532) - [Ask HN: I built a Yubikey-based domain controller. Is it sellable?](https://news.ycombinator.com/item?id=41037532)
 * [2024-07-22, 17:27:44](https://news.ycombinator.com/item?id=41036982) - [A Gentle Introduction to SAML](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/)
+* [2024-07-19, 04:07:51](https://news.ycombinator.com/item?id=41001951) - [Ruby methods are colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
 * [2024-07-18, 23:53:18](https://news.ycombinator.com/item?id=41000844) - [Ask HN: Fast data structures for disjoint intervals?](https://news.ycombinator.com/item?id=41000844)
 * [2024-07-18, 13:24:44](https://news.ycombinator.com/item?id=40995344) - [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)
 
