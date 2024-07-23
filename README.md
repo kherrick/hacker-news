@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open Source AI Is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+* [2024-07-23, 15:08:32](https://news.ycombinator.com/item?id=41046770) - [Capacitive controls could be the cause of a spate of VW ID.4 crashes](https://arstechnica.com/cars/2024/07/vw-id-4-owners-report-unintended-acceleration-blame-steering-wheel-design/)
 * [2024-07-23, 14:47:52](https://news.ycombinator.com/item?id=41046540) - [Llama 3.1 Official Launch](https://llama.meta.com/)
 * [2024-07-23, 14:34:50](https://news.ycombinator.com/item?id=41046397) - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
 * [2024-07-23, 14:15:31](https://news.ycombinator.com/item?id=41046226) - [Trunk: Build, bundle and ship your Rust WASM application to the web](https://trunkrs.dev/)
@@ -16,7 +18,6 @@
 * [2024-07-22, 20:55:02](https://news.ycombinator.com/item?id=41039708) - [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
-* [2024-07-22, 18:47:23](https://news.ycombinator.com/item?id=41038188) - [Reflections on Luck and Skill from the Part Time Poker Grind](https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on)
 * [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-07-22, 18:20:16](https://news.ycombinator.com/item?id=41037745) - [Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists discover a new hormone that can build strong bones in mice](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
@@ -25,7 +26,6 @@
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
 * [2024-07-21, 00:15:23](https://news.ycombinator.com/item?id=41021351) - [300-Year-Old House Transported Piecemeal Japan to California, Then Reconstructed](https://www.wsj.com/style/design/japanese-heritage-shoya-house-melding-nature-and-artifice-32d3563b)
 * [2024-07-20, 18:41:12](https://news.ycombinator.com/item?id=41018635) - [Shape of Motion: 4D Reconstruction from a Single Video](https://shape-of-motion.github.io/)
-* [2024-07-19, 04:07:51](https://news.ycombinator.com/item?id=41001951) - [Ruby Methods Are Colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
 * [2024-07-18, 23:53:18](https://news.ycombinator.com/item?id=41000844) - [Ask HN: Fast data structures for disjoint intervals?](https://news.ycombinator.com/item?id=41000844)
 * [2024-07-18, 23:35:55](https://news.ycombinator.com/item?id=41000760) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
 * [2024-07-18, 13:24:44](https://news.ycombinator.com/item?id=40995344) - [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)
