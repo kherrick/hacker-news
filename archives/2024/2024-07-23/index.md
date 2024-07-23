@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 17:33:28](https://news.ycombinator.com/item?id=41048677) - [How Warsaw Came Close to Never Being Rebuilt (2015)](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
 * [2024-07-23, 17:00:55](https://news.ycombinator.com/item?id=41048325) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-07-23, 16:28:49](https://news.ycombinator.com/item?id=41047902) - [Ireland's datacentres overtake electricity use of all urban homes combined](https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show)
 * [2024-07-23, 16:08:12](https://news.ycombinator.com/item?id=41047582) - [AT&T February wireless outage blocked more than 92M calls, agency says](https://www.reuters.com/business/media-telecom/att-wireless-outage-february-blocked-more-than-92-million-calls-agency-says-2024-07-22/)
@@ -18,6 +19,7 @@
 * [2024-07-23, 14:34:50](https://news.ycombinator.com/item?id=41046397) - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
 * [2024-07-23, 14:15:31](https://news.ycombinator.com/item?id=41046226) - [Trunk: Build, bundle and ship your Rust WASM application to the web](https://trunkrs.dev/)
 * [2024-07-23, 13:59:27](https://news.ycombinator.com/item?id=41046107) - [A (not so) small library for terminal based game development](https://github.com/pygamelib/pygamelib)
+* [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-23, 13:27:02](https://news.ycombinator.com/item?id=41045801) - [Fine-Tune Embeddings in Google Colab](https://colab.research.google.com/drive/132QX_LM1db0huNpN41Vg62otSfcNuJu6?usp=sharing)
 * [2024-07-23, 12:24:59](https://news.ycombinator.com/item?id=41045233) - [Paper cutting by schoolgirls nearly 350 years ago found under floorboards](https://www.nationaltrust.org.uk/visit/london/sutton-house-and-breakers-yard/lost-by-schoolgirls-a-display-of-17th-century-papercuts)
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering: naive algorithm, histogram-based, binary tree, and more (2022)](https://www.crisluengo.net/archives/1138/)
