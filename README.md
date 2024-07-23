@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 14:34:50](https://news.ycombinator.com/item?id=41046397) - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
+* [2024-07-23, 14:15:31](https://news.ycombinator.com/item?id=41046226) - [Trunk: Build, bundle and ship your Rust WASM application to the web](https://trunkrs.dev/)
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 08:13:31](https://news.ycombinator.com/item?id=41043771) - [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
-* [2024-07-23, 07:24:22](https://news.ycombinator.com/item?id=41043499) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
-* [2024-07-23, 05:43:05](https://news.ycombinator.com/item?id=41042877) - [Cure for male pattern baldness given boost by sugar discovery](https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery)
 * [2024-07-23, 05:36:54](https://news.ycombinator.com/item?id=41042846) - [SQLite-jiff: SQLite extension for timezones and complex durations](https://github.com/asg017/sqlite-jiff)
 * [2024-07-23, 03:37:53](https://news.ycombinator.com/item?id=41042294) - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 * [2024-07-23, 03:03:18](https://news.ycombinator.com/item?id=41042123) - [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
