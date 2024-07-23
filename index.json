@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-23, 17:43:41",
+      "https://news.ycombinator.com/item?id=41048777"
+    ],
+    [
+      "Turing's topological proof that every written alphabet is finite (2010)",
+      "https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 17:41:27",
+      "https://news.ycombinator.com/item?id=41048747"
+    ],
+    [
+      "Chinese-born chemist Feng Tao cleared of convictions under US espionage probe",
+      "https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 17:33:28",
       "https://news.ycombinator.com/item?id=41048677"
     ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41043771"
     ],
     [
-      "Show HN: DOM to Semantic Markdown – For LLMs",
+      "Show HN: Convert HTML DOM to semantic markdown for use in LLMs",
       "https://github.com/romansky/dom-to-semantic-markdown"
     ]
   ],
@@ -137,26 +157,6 @@
     [
       "Button Stealer",
       "https://anatolyzenkov.com/stolen-buttons/button-stealer"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 03:03:18",
-      "https://news.ycombinator.com/item?id=41042123"
-    ],
-    [
-      "Ask HN: Is it possible to make FAANG salaries without working there?",
-      "https://news.ycombinator.com/item?id=41042123"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 01:14:43",
-      "https://news.ycombinator.com/item?id=41041575"
-    ],
-    [
-      "Show HN: Lisp in C#",
-      "https://github.com/codr7/sharpl"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2024-07-22, 18:07:16",
+      "https://news.ycombinator.com/item?id=41037532"
+    ],
+    [
+      "Ask HN: I built a Yubikey-based domain controller. Is it sellable?",
+      "https://news.ycombinator.com/item?id=41037532"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 16:42:22",
       "https://news.ycombinator.com/item?id=41036462"
     ],
     [
       "Scientists discover a new hormone that can build strong bones in mice",
       "https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 16:25:21",
-      "https://news.ycombinator.com/item?id=41036231"
-    ],
-    [
-      "Audapolis: Edit audio files by transcript, not waveform",
-      "https://github.com/bugbakery/audapolis"
     ]
   ],
   [
