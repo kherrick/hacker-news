@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-23, 15:38:57",
-      "https://news.ycombinator.com/item?id=41047172"
+      "2024-07-23, 15:34:53",
+      "https://news.ycombinator.com/item?id=41047104"
     ],
     [
-      "Switzerland now requires all government software to be open source",
-      "https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/"
+      "Rust doesn't solve the CrowdStrike outage",
+      "https://blogsystem5.substack.com/p/crowdstrike-and-rust"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Open Source AI Is the Path Forward",
       "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 15:08:32",
-      "https://news.ycombinator.com/item?id=41046770"
-    ],
-    [
-      "Capacitive controls could be the cause of a spate of VW ID.4 crashes",
-      "https://arstechnica.com/cars/2024/07/vw-id-4-owners-report-unintended-acceleration-blame-steering-wheel-design/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Ask HN: Fast data structures for disjoint intervals?",
       "https://news.ycombinator.com/item?id=41000844"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 23:35:55",
+      "https://news.ycombinator.com/item?id=41000760"
+    ],
+    [
+      "OpenCV and the Wild Kingdom",
+      "https://scottsexton.co/post/opencv_wild_kingdom/"
     ]
   ],
   [
