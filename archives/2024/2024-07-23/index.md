@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 19:49:44](https://news.ycombinator.com/item?id=41050055) - [Hydrothermal Explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
+* [2024-07-23, 19:40:37](https://news.ycombinator.com/item?id=41049955) - [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
 * [2024-07-23, 19:33:02](https://news.ycombinator.com/item?id=41049857) - [The rest of the world is building subways like crazy](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
 * [2024-07-23, 19:26:44](https://news.ycombinator.com/item?id=41049799) - [Google Drive actively scans for Copyright Violatins](https://twitter.com/1littlecoder/status/1815830211612586255)
 * [2024-07-23, 19:18:52](https://news.ycombinator.com/item?id=41049717) - [The challenges of working out how many CPUs your program can use on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/CPUCountingChallenges)
