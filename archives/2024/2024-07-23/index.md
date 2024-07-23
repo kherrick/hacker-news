@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 08:25:22](https://news.ycombinator.com/item?id=41043865) - [Telegram zero-day for Android allowed malicious files to masquerade as videos](https://therecord.media/telegram-zero-day-android-app-eset)
 * [2024-07-23, 08:07:55](https://news.ycombinator.com/item?id=41043746) - [U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 07:24:22](https://news.ycombinator.com/item?id=41043499) - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
