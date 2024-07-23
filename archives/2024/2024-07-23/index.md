@@ -8,6 +8,7 @@
 * [2024-07-23, 08:07:55](https://news.ycombinator.com/item?id=41043746) - [U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 07:24:22](https://news.ycombinator.com/item?id=41043499) - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+* [2024-07-23, 07:17:58](https://news.ycombinator.com/item?id=41043450) - [Is Cultivated Meat for Real?](https://asteriskmag.com/issues/02/is-cultivated-meat-for-real)
 * [2024-07-23, 07:05:45](https://news.ycombinator.com/item?id=41043371) - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [2024-07-23, 07:02:50](https://news.ycombinator.com/item?id=41043355) - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 * [2024-07-23, 06:24:01](https://news.ycombinator.com/item?id=41043077) - [Ask HN: Is there room for a new email hosting service?](https://news.ycombinator.com/item?id=41043077)

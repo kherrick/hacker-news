@@ -2,8 +2,8 @@
 
 * [2024-07-23, 08:25:22](https://news.ycombinator.com/item?id=41043865) - [Telegram zero-day for Android allowed malicious files to masquerade as videos](https://therecord.media/telegram-zero-day-android-app-eset)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
+* [2024-07-23, 07:17:58](https://news.ycombinator.com/item?id=41043450) - [Is Cultivated Meat for Real?](https://asteriskmag.com/issues/02/is-cultivated-meat-for-real)
 * [2024-07-23, 07:05:45](https://news.ycombinator.com/item?id=41043371) - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
-* [2024-07-23, 07:02:50](https://news.ycombinator.com/item?id=41043355) - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 * [2024-07-23, 05:18:18](https://news.ycombinator.com/item?id=41042753) - [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 * [2024-07-23, 03:37:53](https://news.ycombinator.com/item?id=41042294) - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 * [2024-07-23, 01:14:43](https://news.ycombinator.com/item?id=41041575) - [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
