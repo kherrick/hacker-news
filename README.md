@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 22:00:23](https://news.ycombinator.com/item?id=41051417) - [Alphabet to invest another $5B into Waymo](https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/)
 * [2024-07-23, 21:41:25](https://news.ycombinator.com/item?id=41051257) - [ESA Report Shows Unsustainable Levels of Orbital Debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
 * [2024-07-23, 21:00:56](https://news.ycombinator.com/item?id=41050801) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
 * [2024-07-23, 20:42:01](https://news.ycombinator.com/item?id=41050584) - [Why Llama 3.1 is Important](https://timkellogg.me/blog/2024/07/23/llama-3.1)
@@ -22,12 +23,11 @@
 * [2024-07-23, 13:59:27](https://news.ycombinator.com/item?id=41046107) - [A (not so) small library for terminal based game development](https://github.com/pygamelib/pygamelib)
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
-* [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 02:42:59](https://news.ycombinator.com/item?id=41042034) - [Google-Wiz deal fizzles out, company will pursue IPO](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
 * [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States discloses nuclear warhead numbers; restores nuclear transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
 * [2024-07-22, 18:07:16](https://news.ycombinator.com/item?id=41037532) - [Ask HN: I built a Yubikey-based domain controller. Is it sellable?](https://news.ycombinator.com/item?id=41037532)
 * [2024-07-22, 17:27:44](https://news.ycombinator.com/item?id=41036982) - [A Gentle Introduction to SAML](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/)
-* [2024-07-19, 04:07:51](https://news.ycombinator.com/item?id=41001951) - [Ruby methods are colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
+* [2024-07-21, 03:54:35](https://news.ycombinator.com/item?id=41022251) - [Relationships are coevolutionary loops (2023)](https://www.henrikkarlsson.xyz/p/making-a-home-together)
 * [2024-07-18, 23:53:18](https://news.ycombinator.com/item?id=41000844) - [Ask HN: Fast data structures for disjoint intervals?](https://news.ycombinator.com/item?id=41000844)
 * [2024-07-18, 13:24:44](https://news.ycombinator.com/item?id=40995344) - [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)
 

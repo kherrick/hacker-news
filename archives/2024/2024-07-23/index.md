@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 22:00:23](https://news.ycombinator.com/item?id=41051417) - [Alphabet to invest another $5B into Waymo](https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/)
 * [2024-07-23, 21:41:25](https://news.ycombinator.com/item?id=41051257) - [ESA Report Shows Unsustainable Levels of Orbital Debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
 * [2024-07-23, 21:00:56](https://news.ycombinator.com/item?id=41050801) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
 * [2024-07-23, 20:42:01](https://news.ycombinator.com/item?id=41050584) - [Why Llama 3.1 is Important](https://timkellogg.me/blog/2024/07/23/llama-3.1)
