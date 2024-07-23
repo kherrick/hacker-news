@@ -11,6 +11,7 @@
 * [2024-07-23, 07:05:45](https://news.ycombinator.com/item?id=41043371) - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [2024-07-23, 07:02:50](https://news.ycombinator.com/item?id=41043355) - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 * [2024-07-23, 06:24:01](https://news.ycombinator.com/item?id=41043077) - [Ask HN: Is there room for a new email hosting service?](https://news.ycombinator.com/item?id=41043077)
+* [2024-07-23, 05:56:14](https://news.ycombinator.com/item?id=41042938) - [Google says it won't be 'deprecating third-party cookies' in Chrome](https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/)
 * [2024-07-23, 05:43:05](https://news.ycombinator.com/item?id=41042877) - [Cure for male pattern baldness given boost by sugar discovery](https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery)
 * [2024-07-23, 05:30:42](https://news.ycombinator.com/item?id=41042816) - [Ask HN: What do you guys think of the current job market in tech?](https://news.ycombinator.com/item?id=41042816)
 * [2024-07-23, 05:18:18](https://news.ycombinator.com/item?id=41042753) - [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
