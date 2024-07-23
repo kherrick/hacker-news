@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 20:10:48](https://news.ycombinator.com/item?id=41050278) - [Tesla Q2 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q2-2024-Update.pdf)
 * [2024-07-23, 19:49:44](https://news.ycombinator.com/item?id=41050055) - [Hydrothermal Explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
 * [2024-07-23, 19:40:37](https://news.ycombinator.com/item?id=41049955) - [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
 * [2024-07-23, 19:33:02](https://news.ycombinator.com/item?id=41049857) - [The rest of the world is building subways like crazy](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
 * [2024-07-23, 19:26:44](https://news.ycombinator.com/item?id=41049799) - [Google Drive actively scans for Copyright Violatins](https://twitter.com/1littlecoder/status/1815830211612586255)
 * [2024-07-23, 19:18:52](https://news.ycombinator.com/item?id=41049717) - [The challenges of working out how many CPUs your program can use on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/CPUCountingChallenges)
+* [2024-07-23, 19:10:45](https://news.ycombinator.com/item?id=41049656) - [OpenBSD IPv6 Home Internet Gateway with AT&T Fibre](https://jgoguen.ca/posts/2024/07/20/openbsd-ipv6-home-internet-gateway-with-att-fibre/)
+* [2024-07-23, 19:02:48](https://news.ycombinator.com/item?id=41049587) - [Dtui – TUI for introspecting the state of the system/session dbus](https://github.com/Troels51/dtui)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics Officials Try to Catch \"Motor Doping\"](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 18:43:02](https://news.ycombinator.com/item?id=41049388) - [Learn Web Components: A free roadmap for learning web components](https://learn-wcs.com/)
 * [2024-07-23, 18:32:18](https://news.ycombinator.com/item?id=41049267) - [A Good Man Is Hard to Find: Egg Freezing and the 'Mating Gap' (2023)](https://blog.petrieflom.law.harvard.edu/2023/08/30/a-good-man-is-hard-to-find-egg-freezing-and-the-mating-gap/)
