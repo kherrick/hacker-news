@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 19:26:44](https://news.ycombinator.com/item?id=41049799) - [Google Drive actively scans for Copyright Violatins](https://twitter.com/1littlecoder/status/1815830211612586255)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics Officials Try to Catch \"Motor Doping\"](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
 * [2024-07-23, 18:04:02](https://news.ycombinator.com/item?id=41048980) - [Engage, Don't Show](https://lea.verou.me/blog/2024/engage-dont-show/)
@@ -24,7 +25,6 @@
 * [2024-07-22, 21:23:02](https://news.ycombinator.com/item?id=41039967) - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
-* [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-07-22, 18:07:16](https://news.ycombinator.com/item?id=41037532) - [Ask HN: I built a Yubikey-based domain controller. Is it sellable?](https://news.ycombinator.com/item?id=41037532)
 * [2024-07-22, 17:27:44](https://news.ycombinator.com/item?id=41036982) - [A Gentle Introduction to SAML](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/)
 * [2024-07-20, 18:41:12](https://news.ycombinator.com/item?id=41018635) - [Shape of Motion: 4D Reconstruction from a Single Video](https://shape-of-motion.github.io/)

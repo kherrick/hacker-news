@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 19:26:44](https://news.ycombinator.com/item?id=41049799) - [Google Drive actively scans for Copyright Violatins](https://twitter.com/1littlecoder/status/1815830211612586255)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics Officials Try to Catch \"Motor Doping\"](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 18:32:18](https://news.ycombinator.com/item?id=41049267) - [A Good Man Is Hard to Find: Egg Freezing and the 'Mating Gap' (2023)](https://blog.petrieflom.law.harvard.edu/2023/08/30/a-good-man-is-hard-to-find-egg-freezing-and-the-mating-gap/)
 * [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
