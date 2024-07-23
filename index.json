@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-23, 22:00:23",
-      "https://news.ycombinator.com/item?id=41051417"
-    ],
-    [
-      "Alphabet to invest another $5B into Waymo",
-      "https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/"
-    ]
-  ],
-  [
-    [
       "2024-07-23, 21:50:09",
       "https://news.ycombinator.com/item?id=41051327"
     ],
@@ -37,16 +27,6 @@
     [
       "Meticulous (YC S21) is hiring to eliminate UI tests",
       "https://news.ycombinator.com/item?id=41050801"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 20:10:48",
-      "https://news.ycombinator.com/item?id=41050278"
-    ],
-    [
-      "Tesla Q2 2024 Update [pdf]",
-      "https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q2-2024-Update.pdf"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-07-23, 08:13:31",
+      "https://news.ycombinator.com/item?id=41043771"
+    ],
+    [
+      "Show HN: Convert HTML DOM to semantic markdown for use in LLMs",
+      "https://github.com/romansky/dom-to-semantic-markdown"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 07:34:09",
       "https://news.ycombinator.com/item?id=41043568"
     ],
@@ -267,6 +257,16 @@
     [
       "Relationships are coevolutionary loops (2023)",
       "https://www.henrikkarlsson.xyz/p/making-a-home-together"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 18:41:12",
+      "https://news.ycombinator.com/item?id=41018635"
+    ],
+    [
+      "Shape of Motion: 4D Reconstruction from a Single Video",
+      "https://shape-of-motion.github.io/"
     ]
   ],
   [
