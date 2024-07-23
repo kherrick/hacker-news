@@ -23,6 +23,7 @@
 * [2024-07-20, 19:18:11](https://news.ycombinator.com/item?id=41018935) - [Are people too flawed, ignorant, and tribal for open societies?](https://www.conspicuouscognition.com/p/are-people-too-flawed-ignorant-and)
 * [2024-07-20, 18:52:19](https://news.ycombinator.com/item?id=41018726) - [Global IT outage shows dangers of cashless society, campaigners say](https://www.theguardian.com/technology/article/2024/jul/20/cash-global-it-outage-cashless-society-dangers-payment-choice-alliance)
 * [2024-07-20, 18:45:37](https://news.ycombinator.com/item?id=41018677) - [Exercise: Minesweeper in 100 lines of clean Ruby](https://radanskoric.com/experiments/minesweeper-100-lines-of-clean-ruby)
+* [2024-07-20, 18:41:12](https://news.ycombinator.com/item?id=41018635) - [Shape of Motion: 4D Reconstruction from a Single Video](https://shape-of-motion.github.io/)
 * [2024-07-20, 17:56:57](https://news.ycombinator.com/item?id=41018308) - [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
 * [2024-07-20, 17:54:34](https://news.ycombinator.com/item?id=41018292) - [Google set to purge the Play Store of low-quality apps](https://www.androidauthority.com/google-apps-play-store-3462390/)
 * [2024-07-20, 17:47:16](https://news.ycombinator.com/item?id=41018226) - [How to use the new counted_by attribute in C (and Linux)](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)

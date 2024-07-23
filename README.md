@@ -14,7 +14,6 @@
 * [2024-07-22, 20:55:02](https://news.ycombinator.com/item?id=41039708) - [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 * [2024-07-22, 20:05:42](https://news.ycombinator.com/item?id=41039213) - [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
-* [2024-07-22, 19:01:45](https://news.ycombinator.com/item?id=41038406) - [The love letter generator created by Alan Turing and Christopher Strachey](https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-07-22, 18:20:16](https://news.ycombinator.com/item?id=41037745) - [Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
@@ -28,6 +27,7 @@
 * [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
 * [2024-07-21, 00:15:23](https://news.ycombinator.com/item?id=41021351) - [300-Year-Old House Transported Piecemeal Japan to California, Then Reconstructed](https://www.wsj.com/style/design/japanese-heritage-shoya-house-melding-nature-and-artifice-32d3563b)
+* [2024-07-20, 18:41:12](https://news.ycombinator.com/item?id=41018635) - [Shape of Motion: 4D Reconstruction from a Single Video](https://shape-of-motion.github.io/)
 * [2024-07-18, 23:35:55](https://news.ycombinator.com/item?id=41000760) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
 * [2024-07-17, 01:59:48](https://news.ycombinator.com/item?id=40981954) - [Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 
