@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
 * [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
+* [2024-07-23, 18:04:02](https://news.ycombinator.com/item?id=41048980) - [Engage, Don't Show](https://lea.verou.me/blog/2024/engage-dont-show/)
 * [2024-07-23, 17:52:32](https://news.ycombinator.com/item?id=41048866) - [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
 * [2024-07-23, 17:41:27](https://news.ycombinator.com/item?id=41048747) - [Chinese-born chemist Feng Tao cleared of convictions under US espionage probe](https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article)
