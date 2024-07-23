@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
 * [2024-07-23, 20:10:48](https://news.ycombinator.com/item?id=41050278) - [Tesla Q2 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q2-2024-Update.pdf)
+* [2024-07-23, 20:06:48](https://news.ycombinator.com/item?id=41050237) - [Alphabet Second Quarter 2024 Results](https://www.cnbc.com/2024/07/23/alphabet-set-to-report-q2-earnings-results-after-the-bell.html)
+* [2024-07-23, 20:04:55](https://news.ycombinator.com/item?id=41050218) - [Alphabet Announces Second Quarter 2024 Results [pdf]](https://abc.xyz/assets/19/e4/3dc1d4d6439c81206370167db1bd/2024q2-alphabet-earnings-release.pdf)
 * [2024-07-23, 19:49:44](https://news.ycombinator.com/item?id=41050055) - [Hydrothermal Explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
 * [2024-07-23, 19:40:37](https://news.ycombinator.com/item?id=41049955) - [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
 * [2024-07-23, 19:33:02](https://news.ycombinator.com/item?id=41049857) - [The rest of the world is building subways like crazy](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
