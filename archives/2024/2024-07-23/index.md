@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 05:43:05](https://news.ycombinator.com/item?id=41042877) - [Cure for male pattern baldness given boost by sugar discovery](https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery)
 * [2024-07-23, 05:30:42](https://news.ycombinator.com/item?id=41042816) - [Ask HN: What do you guys think of the current job market in tech?](https://news.ycombinator.com/item?id=41042816)
 * [2024-07-23, 05:18:18](https://news.ycombinator.com/item?id=41042753) - [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 * [2024-07-23, 04:53:53](https://news.ycombinator.com/item?id=41042617) - [The Importance of 'Soft-Skills' for Professional Practice in the 21st Century](https://www.naps.edu.au/blog/the-importance-of-soft-skills-for-professional-practice-in-the-21st-century)

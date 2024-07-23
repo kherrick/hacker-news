@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 05:43:05](https://news.ycombinator.com/item?id=41042877) - [Cure for male pattern baldness given boost by sugar discovery](https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery)
 * [2024-07-23, 05:30:42](https://news.ycombinator.com/item?id=41042816) - [Ask HN: What do you guys think of the current job market in tech?](https://news.ycombinator.com/item?id=41042816)
 * [2024-07-23, 05:18:18](https://news.ycombinator.com/item?id=41042753) - [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 * [2024-07-23, 04:48:08](https://news.ycombinator.com/item?id=41042588) - [Google Pixel 'Satellite SOS' support may be free for two years](https://9to5google.com/2024/07/22/google-pixel-satellite-sos-support-price/)
@@ -14,7 +15,6 @@
 * [2024-07-22, 20:55:02](https://news.ycombinator.com/item?id=41039708) - [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 * [2024-07-22, 20:05:42](https://news.ycombinator.com/item?id=41039213) - [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
 * [2024-07-22, 19:12:22](https://news.ycombinator.com/item?id=41038552) - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
-* [2024-07-22, 19:01:45](https://news.ycombinator.com/item?id=41038406) - [The love letter generator created by Alan Turing and Christopher Strachey](https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/)
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:47:23](https://news.ycombinator.com/item?id=41038188) - [Reflections on Luck and Skill from the Part Time Poker Grind](https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on)
 * [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
