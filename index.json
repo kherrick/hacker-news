@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-23, 18:08:13",
+      "https://news.ycombinator.com/item?id=41049016"
+    ],
+    [
+      "Why Is It So Hard to Share Links on LinkedIn?",
+      "https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 17:52:32",
+      "https://news.ycombinator.com/item?id=41048866"
+    ],
+    [
+      "Microsoft says EU to blame for the worst IT outage",
+      "https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 17:43:41",
       "https://news.ycombinator.com/item?id=41048777"
     ],
@@ -57,6 +77,16 @@
     [
       "Intent to End OCSP Service",
       "https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 15:20:46",
+      "https://news.ycombinator.com/item?id=41046911"
+    ],
+    [
+      "Show HN: VS Code Extension to skip the noisy web tools (JSON Prettify, and more)",
+      "https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-webtilities"
     ]
   ],
   [
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2024-07-22, 16:42:22",
-      "https://news.ycombinator.com/item?id=41036462"
-    ],
-    [
-      "Scientists discover a new hormone that can build strong bones in mice",
-      "https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 14:56:53",
       "https://news.ycombinator.com/item?id=41035183"
     ],
     [
       "Difference between running Postgres for yourself and for others",
       "https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 11:00:16",
-      "https://news.ycombinator.com/item?id=41033005"
-    ],
-    [
-      "Unconditional Cash Study: first findings available",
-      "https://www.openresearchlab.org/studies/unconditional-cash-study/study"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Give Me the Green Light Part 1: Hacking Traffic Control Systems",
       "https://www.redthreatsec.com/blog/greenlightspart1"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 01:59:48",
-      "https://news.ycombinator.com/item?id=40981954"
-    ],
-    [
-      "Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)",
-      "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
     ]
   ]
 ]
