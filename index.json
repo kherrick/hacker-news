@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-23, 14:47:52",
+      "https://news.ycombinator.com/item?id=41046540"
+    ],
+    [
+      "Llama 3.1 Official Launch",
+      "https://llama.meta.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 14:34:50",
       "https://news.ycombinator.com/item?id=41046397"
     ],
@@ -17,6 +27,26 @@
     [
       "Trunk: Build, bundle and ship your Rust WASM application to the web",
       "https://trunkrs.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 13:59:27",
+      "https://news.ycombinator.com/item?id=41046107"
+    ],
+    [
+      "A (not so) small library for terminal based game development",
+      "https://github.com/pygamelib/pygamelib"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 13:27:02",
+      "https://news.ycombinator.com/item?id=41045801"
+    ],
+    [
+      "Fine-Tune Embeddings in Google Colab",
+      "https://colab.research.google.com/drive/132QX_LM1db0huNpN41Vg62otSfcNuJu6?usp=sharing"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2024-07-23, 01:08:49",
-      "https://news.ycombinator.com/item?id=41041537"
-    ],
-    [
-      "Re: Do people IRL know you have a blog?",
-      "https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 22:31:17",
       "https://news.ycombinator.com/item?id=41040543"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-07-22, 18:47:23",
-      "https://news.ycombinator.com/item?id=41038188"
-    ],
-    [
-      "Reflections on Luck and Skill from the Part Time Poker Grind",
-      "https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 18:33:35",
       "https://news.ycombinator.com/item?id=41037981"
     ],
@@ -177,16 +187,6 @@
     [
       "Maestro: Netflix's Workflow Orchestrator",
       "https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 17:35:06",
-      "https://news.ycombinator.com/item?id=41037079"
-    ],
-    [
-      "A Formulation of the Trilemma in Proof of Work Blockchain",
-      "https://ieeexplore.ieee.org/document/10549891"
     ]
   ],
   [
