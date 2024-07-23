@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 02:14:06](https://news.ycombinator.com/item?id=41041886) - [The Value of Milk.com](https://milk.com/value/)
 * [2024-07-23, 01:14:43](https://news.ycombinator.com/item?id=41041575) - [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
 * [2024-07-23, 01:08:49](https://news.ycombinator.com/item?id=41041537) - [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
 * [2024-07-22, 22:47:05](https://news.ycombinator.com/item?id=41040635) - [Arm's Neoverse V2, in AWS's Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
@@ -28,7 +29,6 @@
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A source-available billing system I've spent 18 months building](https://billabear.com/)
 * [2024-07-19, 02:15:26](https://news.ycombinator.com/item?id=41001550) - [What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-18, 23:35:55](https://news.ycombinator.com/item?id=41000760) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
-* [2024-07-17, 18:39:11](https://news.ycombinator.com/item?id=40988935) - [Lessons from a Private Equity Earn Out: How I Lost £550K Due to a Lowercase 'C'](https://www.entrepreneur.com/en-gb/leadership/lessons-from-a-private-equity-earn-out-how-i-lost-ps550k/475909)
 * [2024-07-17, 17:31:46](https://news.ycombinator.com/item?id=40988229) - [All Golioth Hardware Is Now Open Source](https://blog.golioth.io/all-golioth-hardware-is-now-open-source/)
 
 ## [Archives](archives/index.md)
