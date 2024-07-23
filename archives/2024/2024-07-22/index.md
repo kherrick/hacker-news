@@ -34,6 +34,7 @@
 * [2024-07-22, 18:21:14](https://news.ycombinator.com/item?id=41037774) - [Netflix has open-sourced its Maestro Workflow Orchestrator](https://github.com/Netflix/maestro)
 * [2024-07-22, 18:20:16](https://news.ycombinator.com/item?id=41037745) - [Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
 * [2024-07-22, 18:10:42](https://news.ycombinator.com/item?id=41037595) - [Why Delta is still canceling flights as other airlines return to normal](https://www.cnn.com/2024/07/22/business/delta-canceled-flights-computer-problems/index.html)
+* [2024-07-22, 18:07:16](https://news.ycombinator.com/item?id=41037532) - [Ask HN: I built a Yubikey-based domain controller. Is it sellable?](https://news.ycombinator.com/item?id=41037532)
 * [2024-07-22, 17:58:13](https://news.ycombinator.com/item?id=41037380) - [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
 * [2024-07-22, 17:46:44](https://news.ycombinator.com/item?id=41037226) - [Sam Altman's basic-income study is out. Here's what it found](https://www.businessinsider.com/sam-altman-basic-income-study-results-2024-7)
 * [2024-07-22, 17:43:10](https://news.ycombinator.com/item?id=41037177) - [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
