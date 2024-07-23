@@ -61,12 +61,32 @@
   ],
   [
     [
+      "2024-07-23, 17:23:04",
+      "https://news.ycombinator.com/item?id=41048566"
+    ],
+    [
+      "RAG architecture for SaaS – Learnings from building an AI code assistant",
+      "https://www.thenile.dev/blog/building_code_assistant"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 17:00:55",
       "https://news.ycombinator.com/item?id=41048325"
     ],
     [
       "Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)",
       "https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 16:49:53",
+      "https://news.ycombinator.com/item?id=41048194"
+    ],
+    [
+      "Show HN: Zerox – document OCR with GPT-mini",
+      "https://github.com/getomni-ai/zerox"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Intent to End OCSP Service",
       "https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 15:20:46",
-      "https://news.ycombinator.com/item?id=41046911"
-    ],
-    [
-      "Show HN: VS Code Extension to skip the noisy web tools (JSON Prettify, and more)",
-      "https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-webtilities"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Timeshift: System Restore Tool for Linux",
       "https://github.com/linuxmint/timeshift"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 20:55:02",
-      "https://news.ycombinator.com/item?id=41039708"
-    ],
-    [
-      "July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs",
-      "https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792"
     ]
   ],
   [
