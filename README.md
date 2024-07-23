@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics Officials Try to Catch \"Motor Doping\"](https://spectrum.ieee.org/motor-doping-cycling)
+* [2024-07-23, 18:32:18](https://news.ycombinator.com/item?id=41049267) - [A Good Man Is Hard to Find: Egg Freezing and the 'Mating Gap' (2023)](https://blog.petrieflom.law.harvard.edu/2023/08/30/a-good-man-is-hard-to-find-egg-freezing-and-the-mating-gap/)
 * [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
 * [2024-07-23, 18:04:02](https://news.ycombinator.com/item?id=41048980) - [Engage, Don't Show](https://lea.verou.me/blog/2024/engage-dont-show/)
-* [2024-07-23, 17:52:32](https://news.ycombinator.com/item?id=41048866) - [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
 * [2024-07-23, 17:41:27](https://news.ycombinator.com/item?id=41048747) - [Chinese-born chemist Feng Tao cleared of convictions under US espionage probe](https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article)
 * [2024-07-23, 17:33:28](https://news.ycombinator.com/item?id=41048677) - [How Warsaw Came Close to Never Being Rebuilt (2015)](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
@@ -19,7 +20,6 @@
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 08:13:31](https://news.ycombinator.com/item?id=41043771) - [Show HN: Convert HTML DOM to semantic markdown for use in LLMs](https://github.com/romansky/dom-to-semantic-markdown)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
-* [2024-07-23, 05:36:54](https://news.ycombinator.com/item?id=41042846) - [SQLite-jiff: SQLite extension for timezones and complex durations](https://github.com/asg017/sqlite-jiff)
 * [2024-07-23, 03:37:53](https://news.ycombinator.com/item?id=41042294) - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 * [2024-07-22, 22:31:17](https://news.ycombinator.com/item?id=41040543) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-22, 21:23:02](https://news.ycombinator.com/item?id=41039967) - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)

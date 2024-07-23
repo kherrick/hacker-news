@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics Officials Try to Catch \"Motor Doping\"](https://spectrum.ieee.org/motor-doping-cycling)
+* [2024-07-23, 18:32:18](https://news.ycombinator.com/item?id=41049267) - [A Good Man Is Hard to Find: Egg Freezing and the 'Mating Gap' (2023)](https://blog.petrieflom.law.harvard.edu/2023/08/30/a-good-man-is-hard-to-find-egg-freezing-and-the-mating-gap/)
 * [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
 * [2024-07-23, 18:04:02](https://news.ycombinator.com/item?id=41048980) - [Engage, Don't Show](https://lea.verou.me/blog/2024/engage-dont-show/)
 * [2024-07-23, 17:52:32](https://news.ycombinator.com/item?id=41048866) - [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
