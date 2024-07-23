@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 04:48:08](https://news.ycombinator.com/item?id=41042588) - [Google Pixel 'Satellite SOS' support may be free for two years](https://9to5google.com/2024/07/22/google-pixel-satellite-sos-support-price/)
+* [2024-07-23, 03:37:53](https://news.ycombinator.com/item?id=41042294) - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 * [2024-07-23, 03:03:18](https://news.ycombinator.com/item?id=41042123) - [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
 * [2024-07-23, 03:02:56](https://news.ycombinator.com/item?id=41042121) - [Wiz Rejects Alphabet's $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
 * [2024-07-23, 02:42:59](https://news.ycombinator.com/item?id=41042034) - [Wiz walks away from $23B deal with Google](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
