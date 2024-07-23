@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-23, 10:15:36",
-      "https://news.ycombinator.com/item?id=41044452"
-    ],
-    [
-      "Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?",
-      "http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html"
-    ]
-  ],
-  [
-    [
       "2024-07-23, 09:06:59",
       "https://news.ycombinator.com/item?id=41044105"
     ],
@@ -37,6 +27,16 @@
     [
       "Types as Interfaces",
       "https://two-wrongs.com/types-as-interfaces"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 05:36:54",
+      "https://news.ycombinator.com/item?id=41042846"
+    ],
+    [
+      "SQLite-jiff: SQLite extension for timezones and complex durations",
+      "https://github.com/asg017/sqlite-jiff"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-07-22, 19:01:45",
+      "https://news.ycombinator.com/item?id=41038406"
+    ],
+    [
+      "The love letter generator created by Alan Turing and Christopher Strachey",
+      "https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 18:59:38",
       "https://news.ycombinator.com/item?id=41038372"
     ],
@@ -167,16 +177,6 @@
     [
       "A Formulation of the Trilemma in Proof of Work Blockchain",
       "https://ieeexplore.ieee.org/document/10549891"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 17:17:39",
-      "https://news.ycombinator.com/item?id=41036869"
-    ],
-    [
-      "Seven Segment Display",
-      "https://ashur.cab/07734/"
     ]
   ],
   [
