@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering: naive algorithm, histogram-based, binary tree, and more (2022)](https://www.crisluengo.net/archives/1138/)
+* [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 08:13:31](https://news.ycombinator.com/item?id=41043771) - [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 07:24:22](https://news.ycombinator.com/item?id=41043499) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
