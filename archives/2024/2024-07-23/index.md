@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 17:00:55](https://news.ycombinator.com/item?id=41048325) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-07-23, 16:28:49](https://news.ycombinator.com/item?id=41047902) - [Ireland's datacentres overtake electricity use of all urban homes combined](https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show)
 * [2024-07-23, 16:08:12](https://news.ycombinator.com/item?id=41047582) - [AT&T February wireless outage blocked more than 92M calls, agency says](https://www.reuters.com/business/media-telecom/att-wireless-outage-february-blocked-more-than-92-million-calls-agency-says-2024-07-22/)
 * [2024-07-23, 15:38:57](https://news.ycombinator.com/item?id=41047172) - [Switzerland now requires all government software to be open source](https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/)
@@ -20,6 +21,7 @@
 * [2024-07-23, 12:24:59](https://news.ycombinator.com/item?id=41045233) - [Paper cutting by schoolgirls nearly 350 years ago found under floorboards](https://www.nationaltrust.org.uk/visit/london/sutton-house-and-breakers-yard/lost-by-schoolgirls-a-display-of-17th-century-papercuts)
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering: naive algorithm, histogram-based, binary tree, and more (2022)](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 12:00:59](https://news.ycombinator.com/item?id=41045069) - [How the origins of America's immigrants have changed since 1850](https://www.pewresearch.org/short-reads/2024/07/22/how-the-origins-of-americas-immigrants-have-changed-since-1850/)
+* [2024-07-23, 11:44:57](https://news.ycombinator.com/item?id=41044952) - [Sharks test positive for cocaine in waters off Brazilian coast](https://www.thetimes.com/world/latin-america/article/sharks-test-positive-for-cocaine-in-waters-off-brazilian-coast-v6x73k9fc)
 * [2024-07-23, 11:41:21](https://news.ycombinator.com/item?id=41044932) - [Strace Revisited: Simple Is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
 * [2024-07-23, 11:39:33](https://news.ycombinator.com/item?id=41044921) - [As a cafe worker, there's one question customers ask and show a lack of respect](https://www.smh.com.au/lifestyle/life-and-relationships/as-a-cafe-worker-there-s-one-question-customers-ask-that-shows-a-lack-of-respect-20240703-p5jqtz.html)
 * [2024-07-23, 10:40:08](https://news.ycombinator.com/item?id=41044596) - [IRC Networks – Top 100](https://netsplit.de/networks/top100.php)
