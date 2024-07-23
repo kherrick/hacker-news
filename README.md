@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-23, 04:53:53](https://news.ycombinator.com/item?id=41042617) - [The Importance of 'Soft-Skills' for Professional Practice in the 21st Century](https://www.naps.edu.au/blog/the-importance-of-soft-skills-for-professional-practice-in-the-21st-century)
 * [2024-07-23, 04:48:08](https://news.ycombinator.com/item?id=41042588) - [Google Pixel 'Satellite SOS' support may be free for two years](https://9to5google.com/2024/07/22/google-pixel-satellite-sos-support-price/)
 * [2024-07-23, 03:37:53](https://news.ycombinator.com/item?id=41042294) - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 * [2024-07-23, 03:03:18](https://news.ycombinator.com/item?id=41042123) - [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
@@ -28,6 +27,7 @@
 * [2024-07-22, 14:56:53](https://news.ycombinator.com/item?id=41035183) - [Difference between running Postgres for yourself and for others](https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others)
 * [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
+* [2024-07-19, 02:15:26](https://news.ycombinator.com/item?id=41001550) - [What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-18, 23:35:55](https://news.ycombinator.com/item?id=41000760) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
 * [2024-07-17, 01:59:48](https://news.ycombinator.com/item?id=40981954) - [Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 
