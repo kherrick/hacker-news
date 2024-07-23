@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
 * [2024-07-18, 23:53:36](https://news.ycombinator.com/item?id=41000846) - [Elephants Are Doing Something Deeply Human](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
+* [2024-07-18, 23:53:18](https://news.ycombinator.com/item?id=41000844) - [Ask HN: Fast data structures for disjoint intervals?](https://news.ycombinator.com/item?id=41000844)
 * [2024-07-18, 23:35:55](https://news.ycombinator.com/item?id=41000760) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
 * [2024-07-18, 22:43:02](https://news.ycombinator.com/item?id=41000424) - [Use Zig cc to cross‐compile a CMake project](https://github.com/ziglang/zig/wiki/Use-zig-cc-to-cross%E2%80%90compile-a-CMake-project)
 * [2024-07-18, 21:48:49](https://news.ycombinator.com/item?id=41000091) - [Police warn of thieves using WiFi-jamming tech to disarm cameras, alarms](https://ktla.com/news/local-news/police-warn-of-thieves-using-wifi-jamming-tech-to-disarm-cameras-alarms/)
