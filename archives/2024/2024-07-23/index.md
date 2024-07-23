@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
+* [2024-07-23, 17:52:32](https://news.ycombinator.com/item?id=41048866) - [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
 * [2024-07-23, 17:41:27](https://news.ycombinator.com/item?id=41048747) - [Chinese-born chemist Feng Tao cleared of convictions under US espionage probe](https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article)
 * [2024-07-23, 17:33:28](https://news.ycombinator.com/item?id=41048677) - [How Warsaw Came Close to Never Being Rebuilt (2015)](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
@@ -14,6 +16,7 @@
 * [2024-07-23, 15:35:10](https://news.ycombinator.com/item?id=41047110) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2024-07-23, 15:34:53](https://news.ycombinator.com/item?id=41047104) - [Rust doesn't solve the CrowdStrike outage](https://blogsystem5.substack.com/p/crowdstrike-and-rust)
 * [2024-07-23, 15:25:14](https://news.ycombinator.com/item?id=41046956) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
+* [2024-07-23, 15:20:46](https://news.ycombinator.com/item?id=41046911) - [Show HN: VS Code Extension to skip the noisy web tools (JSON Prettify, and more)](https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-webtilities)
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open Source AI Is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 * [2024-07-23, 15:08:32](https://news.ycombinator.com/item?id=41046770) - [Capacitive controls could be the cause of a spate of VW ID.4 crashes](https://arstechnica.com/cars/2024/07/vw-id-4-owners-report-unintended-acceleration-blame-steering-wheel-design/)
 * [2024-07-23, 14:47:52](https://news.ycombinator.com/item?id=41046540) - [Llama 3.1 Official Launch](https://llama.meta.com/)
