@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-23, 01:30:14",
+      "https://news.ycombinator.com/item?id=41041661"
+    ],
+    [
+      "Electrical World (Engineering Publication, circa 1904)",
+      "https://archive.org/details/electricalworld43newy"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 01:14:43",
+      "https://news.ycombinator.com/item?id=41041575"
+    ],
+    [
+      "Show HN: Lisp in C#",
+      "https://github.com/codr7/sharpl"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 22:47:05",
       "https://news.ycombinator.com/item?id=41040635"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2024-07-22, 22:46:22",
-      "https://news.ycombinator.com/item?id=41040631"
-    ],
-    [
-      "Intel says elevated voltage causing \"instability\" in Core CPUs, fix in August",
-      "https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 22:31:17",
       "https://news.ycombinator.com/item?id=41040543"
     ],
     [
       "The Elegance of the ASCII Table",
       "https://danq.me/2024/07/21/ascii/"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 22:19:39",
-      "https://news.ycombinator.com/item?id=41040445"
-    ],
-    [
-      "Telegram zero-day allowed sending malicious Android APKs as videos",
-      "https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-07-22, 15:31:09",
-      "https://news.ycombinator.com/item?id=41035597"
-    ],
-    [
-      "Where should visual programming go?",
-      "https://tonsky.me/blog/diagrams/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 12:21:06",
       "https://news.ycombinator.com/item?id=41033579"
     ],
@@ -277,6 +267,16 @@
     [
       "What's the point of std:monostate? You can't do anything with it",
       "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 23:35:55",
+      "https://news.ycombinator.com/item?id=41000760"
+    ],
+    [
+      "OpenCV and the Wild Kingdom",
+      "https://scottsexton.co/post/opencv_wild_kingdom/"
     ]
   ],
   [
