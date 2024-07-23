@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-23, 23:13:03](https://news.ycombinator.com/item?id=41051998) - [Open Source in Europe: Facing the regulatory challenge](https://opensource.net/open-source-cra-challenge/)
 * [2024-07-23, 21:50:09](https://news.ycombinator.com/item?id=41051327) - [You can opt out of airport face scans](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
 * [2024-07-23, 21:41:25](https://news.ycombinator.com/item?id=41051257) - [ESA report shows unsustainable levels of orbital debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
 * [2024-07-23, 21:00:56](https://news.ycombinator.com/item?id=41050801) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
@@ -20,6 +19,7 @@
 * [2024-07-23, 13:59:27](https://news.ycombinator.com/item?id=41046107) - [A (not so) small library for terminal based game development](https://github.com/pygamelib/pygamelib)
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
+* [2024-07-23, 08:13:31](https://news.ycombinator.com/item?id=41043771) - [Show HN: Convert HTML DOM to semantic markdown for use in LLMs](https://github.com/romansky/dom-to-semantic-markdown)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 02:42:59](https://news.ycombinator.com/item?id=41042034) - [Google-Wiz deal fizzles out, company will pursue IPO](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
 * [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States discloses nuclear warhead numbers; restores nuclear transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
