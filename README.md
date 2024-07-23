@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-23, 08:25:22](https://news.ycombinator.com/item?id=41043865) - [Telegram zero-day for Android allowed malicious files to masquerade as videos](https://therecord.media/telegram-zero-day-android-app-eset)
-* [2024-07-23, 08:07:55](https://news.ycombinator.com/item?id=41043746) - [U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
 * [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 07:05:45](https://news.ycombinator.com/item?id=41043371) - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [2024-07-23, 07:02:50](https://news.ycombinator.com/item?id=41043355) - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
@@ -21,6 +20,7 @@
 * [2024-07-22, 17:43:10](https://news.ycombinator.com/item?id=41037177) - [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
 * [2024-07-22, 17:35:06](https://news.ycombinator.com/item?id=41037079) - [A Formulation of the Trilemma in Proof of Work Blockchain](https://ieeexplore.ieee.org/document/10549891)
 * [2024-07-22, 17:34:07](https://news.ycombinator.com/item?id=41037065) - [Another intermediate-mass black hole discovered at the centre of our galaxy](https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/another-intermediate-mass-black-hole-discovered-at-the-centre-of-our-galaxy)
+* [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists discover a new hormone that can build strong bones in mice](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by transcript, not waveform](https://github.com/bugbakery/audapolis)
 * [2024-07-22, 14:56:53](https://news.ycombinator.com/item?id=41035183) - [Difference between running Postgres for yourself and for others](https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others)
