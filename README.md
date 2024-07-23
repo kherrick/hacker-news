@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-23, 10:26:56](https://news.ycombinator.com/item?id=41044520) - [Install Docmost – open-source Notion Clone](https://tillcarlos.com/install-docmost/)
 * [2024-07-23, 10:15:36](https://news.ycombinator.com/item?id=41044452) - [Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?](http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html)
 * [2024-07-23, 09:06:59](https://news.ycombinator.com/item?id=41044105) - [Intel vPro CPUs have a web server open](https://mastodon.lilysthings.org/@i_lost_my_bagel/112228352384742242)
 * [2024-07-23, 08:13:31](https://news.ycombinator.com/item?id=41043771) - [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
@@ -16,6 +15,7 @@
 * [2024-07-22, 18:59:38](https://news.ycombinator.com/item?id=41038372) - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 * [2024-07-22, 18:33:35](https://news.ycombinator.com/item?id=41037981) - [What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-07-22, 18:20:16](https://news.ycombinator.com/item?id=41037745) - [Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
+* [2024-07-22, 17:43:10](https://news.ycombinator.com/item?id=41037177) - [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
 * [2024-07-22, 17:35:06](https://news.ycombinator.com/item?id=41037079) - [A Formulation of the Trilemma in Proof of Work Blockchain](https://ieeexplore.ieee.org/document/10549891)
 * [2024-07-22, 17:17:39](https://news.ycombinator.com/item?id=41036869) - [Seven Segment Display](https://ashur.cab/07734/)
 * [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
