@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-07-23, 19:49:44",
+      "https://news.ycombinator.com/item?id=41050055"
+    ],
+    [
+      "Hydrothermal Explosion at Yellowstone National Park",
+      "https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 19:40:37",
+      "https://news.ycombinator.com/item?id=41049955"
+    ],
+    [
+      "How many children had Lady Macbeth?",
+      "https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 19:33:02",
       "https://news.ycombinator.com/item?id=41049857"
     ],
     [
-      "The rest of the world is building subways like crazy",
+      "America’s Transit Exceptionalism",
       "https://benjaminschneider.substack.com/p/americas-transit-exceptionalism"
     ]
   ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=41049799"
     ],
     [
-      "Google Drive actively scans for Copyright Violatins",
+      "Google Drive scans files for copyright infringement",
       "https://twitter.com/1littlecoder/status/1815830211612586255"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 19:18:52",
-      "https://news.ycombinator.com/item?id=41049717"
-    ],
-    [
-      "The challenges of working out how many CPUs your program can use on Linux",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/CPUCountingChallenges"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41048980"
     ],
     [
-      "Engage, Don't Show",
+      "Engage, don't show",
       "https://lea.verou.me/blog/2024/engage-dont-show/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41048747"
     ],
     [
-      "Chinese-born chemist Feng Tao cleared of convictions under US espionage probe",
+      "Chinese-born chemist cleared of last conviction under US’s espionage probe",
       "https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41048677"
     ],
     [
-      "How Warsaw Came Close to Never Being Rebuilt (2015)",
+      "Warsaw came close to never being rebuilt (2015)",
       "https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=41046956"
     ],
     [
-      "Intent to End OCSP Service",
+      "Intent to end OCSP service",
       "https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "A Gentle Introduction to SAML",
       "https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 18:41:12",
-      "https://news.ycombinator.com/item?id=41018635"
-    ],
-    [
-      "Shape of Motion: 4D Reconstruction from a Single Video",
-      "https://shape-of-motion.github.io/"
     ]
   ],
   [
