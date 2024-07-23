@@ -20,7 +20,6 @@
 * [2024-07-22, 17:43:10](https://news.ycombinator.com/item?id=41037177) - [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
 * [2024-07-22, 17:35:06](https://news.ycombinator.com/item?id=41037079) - [A Formulation of the Trilemma in Proof of Work Blockchain](https://ieeexplore.ieee.org/document/10549891)
 * [2024-07-22, 17:34:07](https://news.ycombinator.com/item?id=41037065) - [Another intermediate-mass black hole discovered at the centre of our galaxy](https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/another-intermediate-mass-black-hole-discovered-at-the-centre-of-our-galaxy)
-* [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists discover a new hormone that can build strong bones in mice](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by transcript, not waveform](https://github.com/bugbakery/audapolis)
 * [2024-07-22, 14:56:53](https://news.ycombinator.com/item?id=41035183) - [Difference between running Postgres for yourself and for others](https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others)
@@ -29,6 +28,7 @@
 * [2024-07-21, 00:15:23](https://news.ycombinator.com/item?id=41021351) - [300-Year-Old House Transported Piecemeal Japan to California, Then Reconstructed](https://www.wsj.com/style/design/japanese-heritage-shoya-house-melding-nature-and-artifice-32d3563b)
 * [2024-07-20, 18:41:12](https://news.ycombinator.com/item?id=41018635) - [Shape of Motion: 4D Reconstruction from a Single Video](https://shape-of-motion.github.io/)
 * [2024-07-18, 23:35:55](https://news.ycombinator.com/item?id=41000760) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
+* [2024-07-18, 13:24:44](https://news.ycombinator.com/item?id=40995344) - [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)
 * [2024-07-17, 01:59:48](https://news.ycombinator.com/item?id=40981954) - [Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 
 ## [Archives](archives/index.md)

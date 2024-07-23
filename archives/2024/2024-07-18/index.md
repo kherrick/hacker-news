@@ -61,6 +61,7 @@
 * [2024-07-18, 13:44:47](https://news.ycombinator.com/item?id=40995531) - [He created Oculus headsets as a teenager, now he makes AI weapons for Ukraine](https://www.npr.org/2024/07/09/nx-s1-4985981/oculus-ai-weapons-ukraine-palmer-luckey)
 * [2024-07-18, 13:44:27](https://news.ycombinator.com/item?id=40995527) - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
 * [2024-07-18, 13:43:20](https://news.ycombinator.com/item?id=40995515) - [Steve's Talk at the 1983 International Design Conference in Aspen](https://stevejobsarchive.com/exhibits/objects-of-our-life)
+* [2024-07-18, 13:24:44](https://news.ycombinator.com/item?id=40995344) - [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)
 * [2024-07-18, 12:51:42](https://news.ycombinator.com/item?id=40995105) - [Modern Luddites: On Being a Digital Minimalist Family in a Tech-Saturated World](https://www.afterbabel.com/p/modern-luddites-on-being-a-digital)
 * [2024-07-18, 12:37:44](https://news.ycombinator.com/item?id=40995018) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
 * [2024-07-18, 12:19:17](https://news.ycombinator.com/item?id=40994901) - [Why don't they compose music like Bach any more?](https://marginalrevolution.com/marginalrevolution/2024/07/why-dont-they-compose-music-like-bach-any-more.html)
