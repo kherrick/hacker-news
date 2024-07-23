@@ -6,8 +6,10 @@
 
 * [2024-07-22, 23:40:39](https://news.ycombinator.com/item?id=41040966) - [Imperfect, Linux-powered, DIY smart TV is the embodiment of ad fatigue](https://arstechnica.com/gadgets/2024/07/broken-linux-laptop-makes-for-a-fine-smart-tv-alternative/)
 * [2024-07-22, 22:47:05](https://news.ycombinator.com/item?id=41040635) - [Arm's Neoverse V2, in AWS's Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
+* [2024-07-22, 22:46:22](https://news.ycombinator.com/item?id=41040631) - [Intel says elevated voltage causing \"instability\" in Core CPUs, fix in August](https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august)
 * [2024-07-22, 22:31:17](https://news.ycombinator.com/item?id=41040543) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-22, 22:25:04](https://news.ycombinator.com/item?id=41040494) - [Diverse ML Systems at Netflix](https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d)
+* [2024-07-22, 22:19:39](https://news.ycombinator.com/item?id=41040445) - [Telegram zero-day allowed sending malicious Android APKs as videos](https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/)
 * [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
 * [2024-07-22, 21:33:37](https://news.ycombinator.com/item?id=41040047) - [July 2024 Update on Instability Reports on Intel Core Processors](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617116)
 * [2024-07-22, 21:23:02](https://news.ycombinator.com/item?id=41039967) - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
@@ -55,6 +57,7 @@
 * [2024-07-22, 16:25:48](https://news.ycombinator.com/item?id=41036236) - [A Few Indisputable Points About Poptimism and Then I Give Up](https://freddiedeboer.substack.com/p/a-few-indisputable-points-about-poptimism)
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by word, not waveform](https://github.com/bugbakery/audapolis)
 * [2024-07-22, 16:24:11](https://news.ycombinator.com/item?id=41036216) - [All the existential risk, none of the economic impact. That's a shitty trade](https://www.theintrinsicperspective.com/p/all-the-existential-risk-none-of)
+* [2024-07-22, 15:31:09](https://news.ycombinator.com/item?id=41035597) - [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
 * [2024-07-22, 15:14:35](https://news.ycombinator.com/item?id=41035405) - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 15:06:07](https://news.ycombinator.com/item?id=41035309) - [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
 * [2024-07-22, 15:03:36](https://news.ycombinator.com/item?id=41035281) - [Brr Wants a Job](https://brr.fyi/posts/brr-wants-a-job)
