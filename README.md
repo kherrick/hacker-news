@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-24, 04:42:17](https://news.ycombinator.com/item?id=41053675) - [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)
 * [2024-07-24, 04:20:30](https://news.ycombinator.com/item?id=41053571) - [North Texas community says crypto-mining facility brings never-ending noise](https://www.cbsnews.com/texas/news/north-texas-community-says-crypto-mining-facility-never-ending-noise-declining-health/)
 * [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 * [2024-07-24, 03:28:01](https://news.ycombinator.com/item?id=41053364) - [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
@@ -13,7 +14,6 @@
 * [2024-07-23, 21:50:09](https://news.ycombinator.com/item?id=41051327) - [You can opt out of airport face scans](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
 * [2024-07-23, 21:00:56](https://news.ycombinator.com/item?id=41050801) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
 * [2024-07-23, 19:49:44](https://news.ycombinator.com/item?id=41050055) - [Hydrothermal explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
-* [2024-07-23, 19:40:37](https://news.ycombinator.com/item?id=41049955) - [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
 * [2024-07-23, 19:02:48](https://news.ycombinator.com/item?id=41049587) - [Dtui – TUI for introspecting the state of the system/session dbus](https://github.com/Troels51/dtui)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics officials try to catch “motor doping”](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
