@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-24, 23:09:20](https://news.ycombinator.com/item?id=41063162) - [X suspends account that leaked info about protected user TOS bypass](https://twitter.com/tippitytoptweet/status/1816232864243147112)
+* [2024-07-24, 23:44:36](https://news.ycombinator.com/item?id=41063406) - [John Deere Dismissing 15% of Workforce](https://www.agweb.com/news/machinery/john-deere-dismissing-15-global-salaried-workforce-today)
+* [2024-07-24, 23:25:28](https://news.ycombinator.com/item?id=41063279) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-24, 20:35:49](https://news.ycombinator.com/item?id=41061755) - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-24, 20:04:24](https://news.ycombinator.com/item?id=41061390) - [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
 * [2024-07-24, 18:24:02](https://news.ycombinator.com/item?id=41060102) - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
@@ -16,7 +17,6 @@
 * [2024-07-24, 13:06:41](https://news.ycombinator.com/item?id=41056694) - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
 * [2024-07-24, 12:42:53](https://news.ycombinator.com/item?id=41056463) - [A Multimodal Automated Interpretability Agent](https://arxiv.org/abs/2404.14394)
 * [2024-07-24, 12:35:00](https://news.ycombinator.com/item?id=41056387) - [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
-* [2024-07-24, 05:44:13](https://news.ycombinator.com/item?id=41053939) - [More delays for Euston's HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)
 * [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-24, 04:35:27](https://news.ycombinator.com/item?id=41053645) - [Preliminary Post Incident Review](https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/)
 * [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)

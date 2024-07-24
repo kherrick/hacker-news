@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 23:44:36](https://news.ycombinator.com/item?id=41063406) - [John Deere Dismissing 15% of Workforce](https://www.agweb.com/news/machinery/john-deere-dismissing-15-global-salaried-workforce-today)
+* [2024-07-24, 23:25:28](https://news.ycombinator.com/item?id=41063279) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-24, 23:09:20](https://news.ycombinator.com/item?id=41063162) - [X suspends account that leaked info about protected user TOS bypass](https://twitter.com/tippitytoptweet/status/1816232864243147112)
 * [2024-07-24, 22:59:43](https://news.ycombinator.com/item?id=41063097) - [OpenAI is set to lose $5B this year](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/)
 * [2024-07-24, 22:15:51](https://news.ycombinator.com/item?id=41062774) - [New Zealand \"deeply shocked\" after Canada drone-spied on its Olympic practices](https://arstechnica.com/culture/2024/07/new-zealand-deeply-shocked-after-canada-drone-spied-on-its-olympic-practices-twice/)
