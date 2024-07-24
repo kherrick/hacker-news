@@ -20,6 +20,7 @@
 * [2024-07-24, 18:28:07](https://news.ycombinator.com/item?id=41060158) - [CrowdStrike global outage to cost US Fortune 500 companies $5.4B](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost)
 * [2024-07-24, 18:24:02](https://news.ycombinator.com/item?id=41060102) - [Anyone Can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 18:12:14](https://news.ycombinator.com/item?id=41059957) - [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com)
+* [2024-07-24, 18:00:17](https://news.ycombinator.com/item?id=41059821) - [Show HN: NoteTech – Create personal automations by writing notes](https://www.simpltech.ai)
 * [2024-07-24, 17:34:57](https://news.ycombinator.com/item?id=41059567) - [Smart jerks aren't worth it](https://tonyalicea.dev/blog/smart-jerks-arent-worth-it/)
 * [2024-07-24, 17:33:16](https://news.ycombinator.com/item?id=41059548) - [How to develop on Windows: comparing native, MinGW, Cygwin, WSL](https://tmewett.com/dev-on-windows/)
 * [2024-07-24, 17:20:44](https://news.ycombinator.com/item?id=41059412) - [Space-Filling Curves, Constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)

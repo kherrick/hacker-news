@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-24, 22:00:24](https://news.ycombinator.com/item?id=41062658) - [ULTRA drone flies for days in military test](https://www.axios.com/2024/07/24/ultra-intel-drone-air-force-testing)
 * [2024-07-24, 20:35:49](https://news.ycombinator.com/item?id=41061755) - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-24, 20:04:24](https://news.ycombinator.com/item?id=41061390) - [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
 * [2024-07-24, 18:24:02](https://news.ycombinator.com/item?id=41060102) - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+* [2024-07-24, 18:00:17](https://news.ycombinator.com/item?id=41059821) - [Show HN: NoteTech – Create personal automations by writing notes](https://www.simpltech.ai)
 * [2024-07-24, 17:20:44](https://news.ycombinator.com/item?id=41059412) - [Space-filling curves, constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)
 * [2024-07-24, 17:00:07](https://news.ycombinator.com/item?id=41059148) - [Join YC's Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
 * [2024-07-24, 16:22:58](https://news.ycombinator.com/item?id=41058671) - [Biological Circuit Design by Caltech](https://biocircuits.github.io/index.html)
