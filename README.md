@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-24, 18:28:07](https://news.ycombinator.com/item?id=41060158) - [CrowdStrike global outage to cost US Fortune 500 companies $5.4B](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost)
-* [2024-07-24, 17:33:16](https://news.ycombinator.com/item?id=41059548) - [How to develop on Windows: comparing native, MinGW, Cygwin, WSL](https://tmewett.com/dev-on-windows/)
+* [2024-07-24, 18:24:02](https://news.ycombinator.com/item?id=41060102) - [Anyone Can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+* [2024-07-24, 17:20:44](https://news.ycombinator.com/item?id=41059412) - [Space-Filling Curves, Constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)
 * [2024-07-24, 17:15:46](https://news.ycombinator.com/item?id=41059342) - [Why Big Tech Wants to Make AI Cost Nothing](https://dublog.net/blog/commoditize-complement/)
 * [2024-07-24, 17:00:07](https://news.ycombinator.com/item?id=41059148) - [Join YC's Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
 * [2024-07-24, 16:33:53](https://news.ycombinator.com/item?id=41058791) - [Intel confirms oxidation and excessive voltage in 13th and 14th Gen CPUs [video]](https://www.youtube.com/watch?v=OVdmK1UGzGs)
@@ -23,7 +24,6 @@
 * [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
 * [2024-07-24, 00:06:59](https://news.ycombinator.com/item?id=41052365) - [Taking my diabetes treatment into my own hands](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
 * [2024-07-23, 19:49:44](https://news.ycombinator.com/item?id=41050055) - [Hydrothermal explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
-* [2024-07-23, 17:37:36](https://news.ycombinator.com/item?id=41048707) - [Computer program 'paints' porphyrin structures in the style of Piet Mondrian](https://www.chemistryworld.com/news/computer-program-paints-porphyrin-structures-in-the-style-of-famous-artist/4019839.article)
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 * [2024-07-23, 10:52:57](https://news.ycombinator.com/item?id=41044657) - [Rediscovering Transaction Processing from History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 05:54:39](https://news.ycombinator.com/item?id=41042929) - [Alexa is in millions of households and Amazon is losing billions](https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a)
