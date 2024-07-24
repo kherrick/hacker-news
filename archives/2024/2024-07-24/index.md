@@ -10,3 +10,4 @@
 * [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
 * [2024-07-24, 00:22:04](https://news.ycombinator.com/item?id=41052446) - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
 * [2024-07-24, 00:08:21](https://news.ycombinator.com/item?id=41052371) - [Scrapscript: A functional, content-addressable programming language](https://github.com/tekknolagi/scrapscript)
+* [2024-07-24, 00:06:59](https://news.ycombinator.com/item?id=41052365) - [Taking my diabetes treatment into my own hands (2024)](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
