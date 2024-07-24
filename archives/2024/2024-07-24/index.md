@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
 * [2024-07-24, 09:36:44](https://news.ycombinator.com/item?id=41055230) - [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
+* [2024-07-24, 08:30:03](https://news.ycombinator.com/item?id=41054824) - [We've built the Ultimate e-Bike Battery that you can Repair and Refill](https://get.gouach.com/2)
 * [2024-07-24, 06:25:06](https://news.ycombinator.com/item?id=41054133) - [CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee](https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/)
 * [2024-07-24, 06:11:09](https://news.ycombinator.com/item?id=41054059) - [Pinned Places](https://without.boats/blog/pinned-places/)
 * [2024-07-24, 05:44:13](https://news.ycombinator.com/item?id=41053939) - [More delays for Euston's HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)

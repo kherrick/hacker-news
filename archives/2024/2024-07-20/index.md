@@ -29,6 +29,7 @@
 * [2024-07-20, 17:47:16](https://news.ycombinator.com/item?id=41018226) - [How to use the new counted_by attribute in C (and Linux)](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
 * [2024-07-20, 17:39:28](https://news.ycombinator.com/item?id=41018172) - [The Luckfox Pico Mini B – Linux in a Thumbnail](https://taoofmac.com/space/blog/2024/07/20/1800)
 * [2024-07-20, 17:34:52](https://news.ycombinator.com/item?id=41018135) - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
+* [2024-07-20, 17:30:08](https://news.ycombinator.com/item?id=41018096) - [Ask HN: Share your FFmpeg settings for video hosting](https://news.ycombinator.com/item?id=41018096)
 * [2024-07-20, 17:21:15](https://news.ycombinator.com/item?id=41018029) - [CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed](https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/)
 * [2024-07-20, 17:07:31](https://news.ycombinator.com/item?id=41017925) - [Who Is CrowdStrike CEO George Kurtz?](https://www.independent.co.uk/tech/crowdstrike-george-kurtz-microsoft-outages-b2582962.html)
 * [2024-07-20, 16:58:53](https://news.ycombinator.com/item?id=41017866) - [George Kurtz Crowstrike Founder and CEO](https://www.crowdstrike.com/about-crowdstrike/executive-team/george-kurtz/)
