@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-24, 10:55:34](https://news.ycombinator.com/item?id=41055631) - [77% of Employees Report AI Has Increased Workloads and Hampered Productivity](https://www.forbes.com/sites/bryanrobinson/2024/07/23/employees-report-ai-increased-workload/)
+* [2024-07-24, 10:28:39](https://news.ycombinator.com/item?id=41055507) - [Hyprland is now independent, dropping wlroots](https://hyprland.org/news/independentHyprland/)
 * [2024-07-24, 09:36:44](https://news.ycombinator.com/item?id=41055230) - [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
 * [2024-07-24, 08:30:03](https://news.ycombinator.com/item?id=41054824) - [We've built the Ultimate e-Bike Battery that you can Repair and Refill](https://get.gouach.com/2)
 * [2024-07-24, 06:11:09](https://news.ycombinator.com/item?id=41054059) - [Pinned Places](https://without.boats/blog/pinned-places/)
 * [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
-* [2024-07-24, 03:07:34](https://news.ycombinator.com/item?id=41053286) - [Show HN: Beautiful landing page builder for developers with tailwind and shadcn](https://ui.convertfa.st/)
 * [2024-07-24, 02:49:44](https://news.ycombinator.com/item?id=41053201) - [Llama 3.1 in C](https://github.com/trholding/llama2.c/blob/master/runq.c)
 * [2024-07-24, 01:52:09](https://news.ycombinator.com/item?id=41052934) - [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)
 * [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)

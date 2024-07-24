@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
 * [2024-07-24, 10:55:34](https://news.ycombinator.com/item?id=41055631) - [77% of Employees Report AI Has Increased Workloads and Hampered Productivity](https://www.forbes.com/sites/bryanrobinson/2024/07/23/employees-report-ai-increased-workload/)
+* [2024-07-24, 10:28:39](https://news.ycombinator.com/item?id=41055507) - [Hyprland is now independent, dropping wlroots](https://hyprland.org/news/independentHyprland/)
 * [2024-07-24, 09:36:44](https://news.ycombinator.com/item?id=41055230) - [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
 * [2024-07-24, 08:30:03](https://news.ycombinator.com/item?id=41054824) - [We've built the Ultimate e-Bike Battery that you can Repair and Refill](https://get.gouach.com/2)
 * [2024-07-24, 06:25:06](https://news.ycombinator.com/item?id=41054133) - [CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee](https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/)
