@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-24, 04:42:17](https://news.ycombinator.com/item?id=41053675) - [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)
 * [2024-07-24, 04:20:30](https://news.ycombinator.com/item?id=41053571) - [North Texas community says crypto-mining facility brings never-ending noise](https://www.cbsnews.com/texas/news/north-texas-community-says-crypto-mining-facility-never-ending-noise-declining-health/)
 * [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
