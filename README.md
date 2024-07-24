@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-24, 13:06:41](https://news.ycombinator.com/item?id=41056694) - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
+* [2024-07-24, 13:04:48](https://news.ycombinator.com/item?id=41056673) - [Creator of Zig asked \"how to open a file in C++\" in SO 15 years ago](https://twitter.com/Deor/status/1815561281820127598)
 * [2024-07-24, 12:35:00](https://news.ycombinator.com/item?id=41056387) - [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
 * [2024-07-24, 12:16:27](https://news.ycombinator.com/item?id=41056188) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-24, 11:46:00](https://news.ycombinator.com/item?id=41055947) - [Arch-based CachyOS promises speed but trips over its laces](https://www.theregister.com/2024/07/23/cachyos_arch_linux/)
@@ -16,7 +18,6 @@
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics officials try to catch “motor doping”](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
 * [2024-07-23, 17:37:36](https://news.ycombinator.com/item?id=41048707) - [Computer program 'paints' porphyrin structures in the style of Piet Mondrian](https://www.chemistryworld.com/news/computer-program-paints-porphyrin-structures-in-the-style-of-famous-artist/4019839.article)
-* [2024-07-23, 17:33:28](https://news.ycombinator.com/item?id=41048677) - [Warsaw came close to never being rebuilt (2015)](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
 * [2024-07-23, 16:49:53](https://news.ycombinator.com/item?id=41048194) - [Show HN: Zerox – Document OCR with GPT-mini](https://github.com/getomni-ai/zerox)
 * [2024-07-23, 15:35:10](https://news.ycombinator.com/item?id=41047110) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2024-07-23, 15:25:14](https://news.ycombinator.com/item?id=41046956) - [Intent to end OCSP service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
@@ -25,7 +26,6 @@
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
 * [2024-07-22, 11:06:22](https://news.ycombinator.com/item?id=41033042) - [Demystifying Cookies and Tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
-* [2024-07-21, 14:28:35](https://news.ycombinator.com/item?id=41025341) - [Why Discover is no American Express](https://www.popularfintech.com/p/why-discover-is-no-american-express)
 * [2024-07-21, 03:54:35](https://news.ycombinator.com/item?id=41022251) - [Relationships are coevolutionary loops (2023)](https://www.henrikkarlsson.xyz/p/making-a-home-together)
 * [2024-07-20, 00:15:13](https://news.ycombinator.com/item?id=41012854) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/main.html)
 * [2024-07-19, 04:07:51](https://news.ycombinator.com/item?id=41001951) - [Ruby methods are colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
