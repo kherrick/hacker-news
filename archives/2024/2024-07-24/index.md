@@ -21,6 +21,7 @@
 * [2024-07-24, 10:28:39](https://news.ycombinator.com/item?id=41055507) - [Hyprland is now independent, dropping wlroots](https://hyprland.org/news/independentHyprland/)
 * [2024-07-24, 10:25:03](https://news.ycombinator.com/item?id=41055481) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-24, 09:36:44](https://news.ycombinator.com/item?id=41055230) - [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
+* [2024-07-24, 08:33:26](https://news.ycombinator.com/item?id=41054838) - [My patented Miracle Tonic would have prevented the CrowdStrike meltdown](https://buttondown.email/hillelwayne/archive/my-patented-miracle-tonic-would-have-prevented/)
 * [2024-07-24, 08:30:03](https://news.ycombinator.com/item?id=41054824) - [We've built the Ultimate e-Bike Battery that you can Repair and Refill](https://get.gouach.com/2)
 * [2024-07-24, 06:25:06](https://news.ycombinator.com/item?id=41054133) - [CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee](https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/)
 * [2024-07-24, 06:11:09](https://news.ycombinator.com/item?id=41054059) - [Pinned Places](https://without.boats/blog/pinned-places/)
