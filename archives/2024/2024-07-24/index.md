@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 19:34:33](https://news.ycombinator.com/item?id=41060985) - [Something is strange with CrowdStrike timeline](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
 * [2024-07-24, 19:22:37](https://news.ycombinator.com/item?id=41060834) - [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground)
 * [2024-07-24, 19:20:42](https://news.ycombinator.com/item?id=41060813) - [X redesigns water pistol emoji back to a firearm](https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/)
 * [2024-07-24, 19:12:09](https://news.ycombinator.com/item?id=41060710) - [Ask Siri, Dictation and Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)
