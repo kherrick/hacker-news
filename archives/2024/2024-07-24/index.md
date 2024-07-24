@@ -7,6 +7,7 @@
 * [2024-07-24, 13:34:48](https://news.ycombinator.com/item?id=41056961) - [Styling Tables the Modern CSS Way](https://piccalil.li/blog/styling-tables-the-modern-css-way/)
 * [2024-07-24, 13:06:41](https://news.ycombinator.com/item?id=41056694) - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
 * [2024-07-24, 13:04:48](https://news.ycombinator.com/item?id=41056673) - [Creator of Zig asked \"how to open a file in C++\" in SO 15 years ago](https://twitter.com/Deor/status/1815561281820127598)
+* [2024-07-24, 12:35:30](https://news.ycombinator.com/item?id=41056391) - [The algebra (and calculus) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 * [2024-07-24, 12:35:00](https://news.ycombinator.com/item?id=41056387) - [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
 * [2024-07-24, 12:16:27](https://news.ycombinator.com/item?id=41056188) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-24, 11:46:00](https://news.ycombinator.com/item?id=41055947) - [Arch-based CachyOS promises speed but trips over its laces](https://www.theregister.com/2024/07/23/cachyos_arch_linux/)
