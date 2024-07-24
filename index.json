@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-24, 17:00:07",
+      "https://news.ycombinator.com/item?id=41059148"
+    ],
+    [
+      "Join YC's Ruby Meetup on August 13th at Our New SF Headquarters",
+      "https://news.ycombinator.com/item?id=41059148"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 16:40:24",
+      "https://news.ycombinator.com/item?id=41058867"
+    ],
+    [
+      "The problem of 'model collapse': how a lack of human data limits AI progress",
+      "https://www.ft.com/content/ae507468-7f5b-440b-8512-aea81c6bf4a5"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 16:33:53",
+      "https://news.ycombinator.com/item?id=41058791"
+    ],
+    [
+      "Intel confirms oxidation and excessive voltage in 13th and 14th Gen CPUs [video]",
+      "https://www.youtube.com/watch?v=OVdmK1UGzGs"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 16:18:27",
       "https://news.ycombinator.com/item?id=41058616"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2024-07-24, 00:22:04",
-      "https://news.ycombinator.com/item?id=41052446"
-    ],
-    [
-      "Pnut: A C to POSIX Shell Compiler you can Trust",
-      "https://pnut.sh"
-    ]
-  ],
-  [
-    [
       "2024-07-24, 00:08:21",
       "https://news.ycombinator.com/item?id=41052371"
     ],
     [
       "Scrapscript: A functional, content-addressable programming language",
       "https://github.com/tekknolagi/scrapscript"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 00:06:59",
-      "https://news.ycombinator.com/item?id=41052365"
-    ],
-    [
-      "Taking my diabetes treatment into my own hands (2024)",
-      "https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Computer program 'paints' porphyrin structures in the style of Piet Mondrian",
       "https://www.chemistryworld.com/news/computer-program-paints-porphyrin-structures-in-the-style-of-famous-artist/4019839.article"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 16:49:53",
-      "https://news.ycombinator.com/item?id=41048194"
-    ],
-    [
-      "Show HN: Zerox – Document OCR with GPT-mini",
-      "https://github.com/getomni-ai/zerox"
     ]
   ],
   [
