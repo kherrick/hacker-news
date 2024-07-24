@@ -71,6 +71,7 @@
 * [2024-07-22, 14:12:07](https://news.ycombinator.com/item?id=41034604) - [Why technical cofounders reject you](https://www.softwaredesign.ing/blog/why-technical-cofounders-reject-you)
 * [2024-07-22, 14:08:41](https://news.ycombinator.com/item?id=41034567) - [I Use Obsidian](https://jasonheppler.org/2024/07/15/how-i-use-obsidian/)
 * [2024-07-22, 13:44:27](https://news.ycombinator.com/item?id=41034299) - [Internet Organised Crime Threat Assessment (Iocta) 2024 [pdf]](https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA%202024%20-%20EN_0.pdf)
+* [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
 * [2024-07-22, 13:36:21](https://news.ycombinator.com/item?id=41034211) - [Scan HTML even faster with SIMD instructions (C++ and C#) – Daniel Lemire's blog](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
 * [2024-07-22, 13:32:37](https://news.ycombinator.com/item?id=41034169) - [Writing Software Engineering Handbook](https://www.yusufaytas.com/on-writing-software-engineering-handbook/)
 * [2024-07-22, 13:30:29](https://news.ycombinator.com/item?id=41034147) - [Sam Altman Gave People Free Money. Here's What Happened](https://www.forbes.com/sites/sarahemerson/2024/07/22/openai-founder-sam-altman-gave-thousands-of-people-free-money-heres-what-happened/)
