@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-24, 05:44:13](https://news.ycombinator.com/item?id=41053939) - [More delays for Euston's HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)
 * [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
-* [2024-07-24, 04:20:30](https://news.ycombinator.com/item?id=41053571) - [North Texas community says crypto-mining facility brings never-ending noise](https://www.cbsnews.com/texas/news/north-texas-community-says-crypto-mining-facility-never-ending-noise-declining-health/)
 * [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 * [2024-07-24, 03:28:01](https://news.ycombinator.com/item?id=41053364) - [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
 * [2024-07-24, 03:16:15](https://news.ycombinator.com/item?id=41053329) - [What \"consent\" looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
