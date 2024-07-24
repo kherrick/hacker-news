@@ -2,6 +2,7 @@
 
 * [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 * [2024-07-24, 03:16:15](https://news.ycombinator.com/item?id=41053329) - [What \"consent\" looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
+* [2024-07-24, 02:49:44](https://news.ycombinator.com/item?id=41053201) - [Llama 3.1 in C](https://github.com/trholding/llama2.c/blob/master/runq.c)
 * [2024-07-24, 01:52:09](https://news.ycombinator.com/item?id=41052934) - [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)
 * [2024-07-24, 01:47:52](https://news.ycombinator.com/item?id=41052903) - [GM indefinitely halts work on driverless car at Cruise unit](https://www.ft.com/content/85bfbfd0-1036-44c7-89bb-72d1cd8f8ea2)
 * [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
@@ -11,7 +12,6 @@
 * [2024-07-23, 21:50:09](https://news.ycombinator.com/item?id=41051327) - [You can opt out of airport face scans](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
 * [2024-07-23, 21:00:56](https://news.ycombinator.com/item?id=41050801) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
 * [2024-07-23, 19:49:44](https://news.ycombinator.com/item?id=41050055) - [Hydrothermal explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
-* [2024-07-23, 19:40:37](https://news.ycombinator.com/item?id=41049955) - [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
 * [2024-07-23, 19:02:48](https://news.ycombinator.com/item?id=41049587) - [Dtui – TUI for introspecting the state of the system/session dbus](https://github.com/Troels51/dtui)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics officials try to catch “motor doping”](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
