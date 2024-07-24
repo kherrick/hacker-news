@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-24, 12:35:00](https://news.ycombinator.com/item?id=41056387) - [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
 * [2024-07-24, 11:46:00](https://news.ycombinator.com/item?id=41055947) - [Arch-based CachyOS promises speed but trips over its laces](https://www.theregister.com/2024/07/23/cachyos_arch_linux/)
-* [2024-07-24, 11:44:30](https://news.ycombinator.com/item?id=41055934) - [Legacy](https://longform.asmartbear.com/legacy/)
 * [2024-07-24, 10:25:03](https://news.ycombinator.com/item?id=41055481) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-24, 02:49:44](https://news.ycombinator.com/item?id=41053201) - [Llama 3.1 in C](https://github.com/trholding/llama2.c/blob/master/runq.c)
@@ -16,8 +16,8 @@
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics officials try to catch “motor doping”](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
 * [2024-07-23, 17:37:36](https://news.ycombinator.com/item?id=41048707) - [Computer program 'paints' porphyrin structures in the style of Piet Mondrian](https://www.chemistryworld.com/news/computer-program-paints-porphyrin-structures-in-the-style-of-famous-artist/4019839.article)
+* [2024-07-23, 17:33:28](https://news.ycombinator.com/item?id=41048677) - [Warsaw came close to never being rebuilt (2015)](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
 * [2024-07-23, 16:49:53](https://news.ycombinator.com/item?id=41048194) - [Show HN: Zerox – Document OCR with GPT-mini](https://github.com/getomni-ai/zerox)
-* [2024-07-23, 15:38:21](https://news.ycombinator.com/item?id=41047163) - [Is Steve Ballmer the Most Underrated CEO of the 21st Century?](https://blog.jovono.com/p/ballmer-microsoft-underrated)
 * [2024-07-23, 15:35:10](https://news.ycombinator.com/item?id=41047110) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2024-07-23, 15:25:14](https://news.ycombinator.com/item?id=41046956) - [Intent to end OCSP service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)

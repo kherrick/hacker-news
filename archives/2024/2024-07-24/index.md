@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 12:35:00](https://news.ycombinator.com/item?id=41056387) - [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
 * [2024-07-24, 11:46:00](https://news.ycombinator.com/item?id=41055947) - [Arch-based CachyOS promises speed but trips over its laces](https://www.theregister.com/2024/07/23/cachyos_arch_linux/)
 * [2024-07-24, 11:44:30](https://news.ycombinator.com/item?id=41055934) - [Legacy](https://longform.asmartbear.com/legacy/)
 * [2024-07-24, 11:42:03](https://news.ycombinator.com/item?id=41055911) - [The Ternary Computing Manifesto](https://homepage.divms.uiowa.edu/~jones/ternary/)
