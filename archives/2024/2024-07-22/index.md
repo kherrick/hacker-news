@@ -53,6 +53,7 @@
 * [2024-07-22, 16:49:08](https://news.ycombinator.com/item?id=41036530) - [AI Development Kits: Tenstorrent Update](https://morethanmoore.substack.com/p/ai-development-kits-tenstorrent-update)
 * [2024-07-22, 16:48:44](https://news.ycombinator.com/item?id=41036526) - [Oxygen discovery defies knowledge of the deep ocean](https://www.bbc.co.uk/news/articles/c728ven2v9eo)
 * [2024-07-22, 16:48:22](https://news.ycombinator.com/item?id=41036522) - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
+* [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
 * [2024-07-22, 16:45:36](https://news.ycombinator.com/item?id=41036493) - [An interview with AMD's Mike Clark, 'Zen Daddy' says 3nm Zen 5 is coming fast](https://www.tomshardware.com/pc-components/cpus/an-interview-with-mike-clark-the-father-of-zen-zen-daddy-talks-fast-3nm-launch-zen-5c-cores-for-desktop-chips)
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists Discover a New Hormone That Can Build Strong Bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
 * [2024-07-22, 16:35:05](https://news.ycombinator.com/item?id=41036383) - [It's Time for Americans to Get over It and Embrace the Bidet](https://www.good.is/features/why-wont-north-americans-use-bidets-toilet-paper-water-waste)
