@@ -3,7 +3,6 @@
 * [2024-07-24, 15:49:39](https://news.ycombinator.com/item?id=41058261) - [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
 * [2024-07-24, 15:42:03](https://news.ycombinator.com/item?id=41058194) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 * [2024-07-24, 15:32:21](https://news.ycombinator.com/item?id=41058107) - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
-* [2024-07-24, 15:04:30](https://news.ycombinator.com/item?id=41057827) - [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)
 * [2024-07-24, 15:02:57](https://news.ycombinator.com/item?id=41057814) - [Visual explanation of saml authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
 * [2024-07-24, 14:57:14](https://news.ycombinator.com/item?id=41057766) - [InteractiVenn – Interactive Venn Diagrams](https://interactivenn.net/index.html)
 * [2024-07-24, 14:16:30](https://news.ycombinator.com/item?id=41057361) - [How do you find a good manager?](https://www.nber.org/papers/w32699)
@@ -30,6 +29,7 @@
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – Multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
 * [2024-07-20, 00:15:13](https://news.ycombinator.com/item?id=41012854) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/main.html)
+* [2024-07-19, 03:06:19](https://news.ycombinator.com/item?id=41001744) - [Bubble Sort: An Archaeological Algorithmic Analysis (2003) [pdf]](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
 
 ## [Archives](archives/index.md)
 
