@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 03:16:15](https://news.ycombinator.com/item?id=41053329) - [What \"consent\" looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
 * [2024-07-24, 01:52:09](https://news.ycombinator.com/item?id=41052934) - [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)
 * [2024-07-24, 01:48:17](https://news.ycombinator.com/item?id=41052908) - [How an 1803 Jacquard Loom Led to Computer Technology [video]](https://www.youtube.com/watch?v=MQzpLLhN0fY)
 * [2024-07-24, 01:47:52](https://news.ycombinator.com/item?id=41052903) - [GM indefinitely halts work on driverless car at Cruise unit](https://www.ft.com/content/85bfbfd0-1036-44c7-89bb-72d1cd8f8ea2)
