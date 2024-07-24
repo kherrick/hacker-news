@@ -1,52 +1,32 @@
 [
   [
     [
-      "2024-07-24, 11:42:03",
-      "https://news.ycombinator.com/item?id=41055911"
+      "2024-07-24, 11:46:00",
+      "https://news.ycombinator.com/item?id=41055947"
     ],
     [
-      "The Ternary Computing Manifesto",
-      "https://homepage.divms.uiowa.edu/~jones/ternary/"
+      "Arch-based CachyOS promises speed but trips over its laces",
+      "https://www.theregister.com/2024/07/23/cachyos_arch_linux/"
     ]
   ],
   [
     [
-      "2024-07-24, 10:28:39",
-      "https://news.ycombinator.com/item?id=41055507"
+      "2024-07-24, 11:44:30",
+      "https://news.ycombinator.com/item?id=41055934"
     ],
     [
-      "Hyprland is now independent, dropping wlroots",
-      "https://hyprland.org/news/independentHyprland/"
+      "Legacy",
+      "https://longform.asmartbear.com/legacy/"
     ]
   ],
   [
     [
-      "2024-07-24, 09:36:44",
-      "https://news.ycombinator.com/item?id=41055230"
+      "2024-07-24, 10:25:03",
+      "https://news.ycombinator.com/item?id=41055481"
     ],
     [
-      "Micromouse",
-      "https://en.wikipedia.org/wiki/Micromouse"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 08:30:03",
-      "https://news.ycombinator.com/item?id=41054824"
-    ],
-    [
-      "We've built the Ultimate e-Bike Battery that you can Repair and Refill",
-      "https://get.gouach.com/2"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 06:11:09",
-      "https://news.ycombinator.com/item?id=41054059"
-    ],
-    [
-      "Pinned Places",
-      "https://without.boats/blog/pinned-places/"
+      "Software engineers are not (and should not be) technicians",
+      "https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html"
     ]
   ],
   [
@@ -57,16 +37,6 @@
     [
       "\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)",
       "http://www.kohala.com/start/papers.others/doors.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 03:32:40",
-      "https://news.ycombinator.com/item?id=41053383"
-    ],
-    [
-      "MPPP – The first 'designer drug' disaster (2023)",
-      "https://www.chm.bris.ac.uk/motm/mppp/mppph.htm"
     ]
   ],
   [
@@ -181,12 +151,12 @@
   ],
   [
     [
-      "2024-07-23, 17:33:28",
-      "https://news.ycombinator.com/item?id=41048677"
+      "2024-07-23, 17:37:36",
+      "https://news.ycombinator.com/item?id=41048707"
     ],
     [
-      "Warsaw came close to never being rebuilt (2015)",
-      "https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt"
+      "Computer program 'paints' porphyrin structures in the style of Piet Mondrian",
+      "https://www.chemistryworld.com/news/computer-program-paints-porphyrin-structures-in-the-style-of-famous-artist/4019839.article"
     ]
   ],
   [
@@ -197,6 +167,16 @@
     [
       "Show HN: Zerox – Document OCR with GPT-mini",
       "https://github.com/getomni-ai/zerox"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 15:38:21",
+      "https://news.ycombinator.com/item?id=41047163"
+    ],
+    [
+      "Is Steve Ballmer the Most Underrated CEO of the 21st Century?",
+      "https://blog.jovono.com/p/ballmer-microsoft-underrated"
     ]
   ],
   [
@@ -261,22 +241,32 @@
   ],
   [
     [
+      "2024-07-22, 11:06:22",
+      "https://news.ycombinator.com/item?id=41033042"
+    ],
+    [
+      "Demystifying Cookies and Tokens",
+      "https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 14:28:35",
+      "https://news.ycombinator.com/item?id=41025341"
+    ],
+    [
+      "Why Discover is no American Express",
+      "https://www.popularfintech.com/p/why-discover-is-no-american-express"
+    ]
+  ],
+  [
+    [
       "2024-07-21, 03:54:35",
       "https://news.ycombinator.com/item?id=41022251"
     ],
     [
       "Relationships are coevolutionary loops (2023)",
       "https://www.henrikkarlsson.xyz/p/making-a-home-together"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 17:30:08",
-      "https://news.ycombinator.com/item?id=41018096"
-    ],
-    [
-      "Ask HN: Share your FFmpeg settings for video hosting",
-      "https://news.ycombinator.com/item?id=41018096"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ruby methods are colorless",
       "https://jpcamara.com/2024/07/15/ruby-methods-are.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 23:53:18",
+      "https://news.ycombinator.com/item?id=41000844"
+    ],
+    [
+      "Ask HN: Fast data structures for disjoint intervals?",
+      "https://news.ycombinator.com/item?id=41000844"
     ]
   ]
 ]
