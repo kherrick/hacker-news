@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-24, 10:55:34](https://news.ycombinator.com/item?id=41055631) - [77% of Employees Report AI Has Increased Workloads and Hampered Productivity](https://www.forbes.com/sites/bryanrobinson/2024/07/23/employees-report-ai-increased-workload/)
 * [2024-07-24, 09:36:44](https://news.ycombinator.com/item?id=41055230) - [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
 * [2024-07-24, 08:30:03](https://news.ycombinator.com/item?id=41054824) - [We've built the Ultimate e-Bike Battery that you can Repair and Refill](https://get.gouach.com/2)
 * [2024-07-24, 06:11:09](https://news.ycombinator.com/item?id=41054059) - [Pinned Places](https://without.boats/blog/pinned-places/)
@@ -29,7 +30,6 @@
 * [2024-07-20, 17:30:08](https://news.ycombinator.com/item?id=41018096) - [Ask HN: Share your FFmpeg settings for video hosting](https://news.ycombinator.com/item?id=41018096)
 * [2024-07-20, 00:15:13](https://news.ycombinator.com/item?id=41012854) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/main.html)
 * [2024-07-19, 04:07:51](https://news.ycombinator.com/item?id=41001951) - [Ruby methods are colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
-* [2024-07-18, 23:53:18](https://news.ycombinator.com/item?id=41000844) - [Ask HN: Fast data structures for disjoint intervals?](https://news.ycombinator.com/item?id=41000844)
 
 ## [Archives](archives/index.md)
 
