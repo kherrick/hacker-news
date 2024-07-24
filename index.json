@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-24, 06:25:06",
-      "https://news.ycombinator.com/item?id=41054133"
-    ],
-    [
-      "CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee",
-      "https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/"
-    ]
-  ],
-  [
-    [
       "2024-07-24, 06:11:09",
       "https://news.ycombinator.com/item?id=41054059"
     ],
@@ -247,6 +237,16 @@
     [
       "Ask HN: I built a Yubikey-based domain controller. Is it sellable?",
       "https://news.ycombinator.com/item?id=41037532"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 13:44:19",
+      "https://news.ycombinator.com/item?id=41034297"
+    ],
+    [
+      "Solving the out-of-context chunk problem for RAG",
+      "https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag"
     ]
   ],
   [
