@@ -48,6 +48,7 @@
 * [2024-07-21, 15:00:25](https://news.ycombinator.com/item?id=41025578) - [DeepL's LLM Outperforms Google Translate, ChatGPT-4, and Microsoft](https://www.deepl.com/en/blog/next-gen-language-model)
 * [2024-07-21, 14:42:02](https://news.ycombinator.com/item?id=41025450) - [A brief history of Dell Unix](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 14:28:35](https://news.ycombinator.com/item?id=41025341) - [Why Discover is no American Express](https://www.popularfintech.com/p/why-discover-is-no-american-express)
+* [2024-07-21, 14:17:01](https://news.ycombinator.com/item?id=41025267) - [When eyesight fades and climbing provides comfort](https://www.lacrux.com/en/videos/when-eyesight-fades-and-climbing-provides-comfort/)
 * [2024-07-21, 13:43:29](https://news.ycombinator.com/item?id=41025036) - [Remove PDF password protection using qpdf and AppleScript](https://www.sheshbabu.com/posts/remove-pdf-passwords-using-qpdf-and-applescript/)
 * [2024-07-21, 13:34:52](https://news.ycombinator.com/item?id=41024970) - [Exothermic Core-Mantle Decoupling – Dzhanibekov Oscillation (ECDO) Hypothesis](https://theethicalskeptic.com/2024/05/12/exothermic-core-mantle-decoupling-dzhanibekov-oscillation-ecdo-theory/)
 * [2024-07-21, 13:34:17](https://news.ycombinator.com/item?id=41024964) - [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
