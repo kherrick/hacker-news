@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
 * [2024-07-24, 20:30:09](https://news.ycombinator.com/item?id=41061689) - [Ask HN: Thoughts on shadow banning and other dick moves by Silicon Valley?](https://news.ycombinator.com/item?id=41061689)
+* [2024-07-24, 20:30:04](https://news.ycombinator.com/item?id=41061688) - [AMD delays Ryzen 9000 launch to August \"out of an abundance of caution\"](https://arstechnica.com/gadgets/2024/07/quality-issue-pushes-amds-ryzen-9000-cpu-launch-from-july-to-august/)
 * [2024-07-24, 20:04:24](https://news.ycombinator.com/item?id=41061390) - [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
 * [2024-07-24, 19:34:33](https://news.ycombinator.com/item?id=41060985) - [Something is strange with CrowdStrike timeline](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
 * [2024-07-24, 19:22:37](https://news.ycombinator.com/item?id=41060834) - [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground)
