@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 15:02:57](https://news.ycombinator.com/item?id=41057814) - [Visual Explanation of SAML Authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
 * [2024-07-24, 14:35:45](https://news.ycombinator.com/item?id=41057541) - [Patrick McKenzie – How a Discord Server Saved 1000s of Lives [video]](https://www.youtube.com/watch?v=18zpjpPNWRw)
+* [2024-07-24, 14:08:38](https://news.ycombinator.com/item?id=41057289) - [Crash Course in Deep Learning (For Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/)
 * [2024-07-24, 13:41:22](https://news.ycombinator.com/item?id=41057033) - [Google Is the Only Search Engine That Works on Reddit Now Thanks to AI Deal](https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/)
 * [2024-07-24, 13:34:48](https://news.ycombinator.com/item?id=41056961) - [Styling Tables the Modern CSS Way](https://piccalil.li/blog/styling-tables-the-modern-css-way/)
 * [2024-07-24, 13:06:41](https://news.ycombinator.com/item?id=41056694) - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
