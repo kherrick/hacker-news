@@ -57,6 +57,7 @@
 * [2024-07-23, 11:44:57](https://news.ycombinator.com/item?id=41044952) - [Sharks test positive for cocaine in waters off Brazilian coast](https://www.thetimes.com/world/latin-america/article/sharks-test-positive-for-cocaine-in-waters-off-brazilian-coast-v6x73k9fc)
 * [2024-07-23, 11:41:21](https://news.ycombinator.com/item?id=41044932) - [Strace Revisited: Simple Is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
 * [2024-07-23, 11:39:33](https://news.ycombinator.com/item?id=41044921) - [As a cafe worker, there's one question customers ask and show a lack of respect](https://www.smh.com.au/lifestyle/life-and-relationships/as-a-cafe-worker-there-s-one-question-customers-ask-that-shows-a-lack-of-respect-20240703-p5jqtz.html)
+* [2024-07-23, 10:52:57](https://news.ycombinator.com/item?id=41044657) - [Rediscovering Transaction Processing from History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 10:40:08](https://news.ycombinator.com/item?id=41044596) - [IRC Networks – Top 100](https://netsplit.de/networks/top100.php)
 * [2024-07-23, 10:26:56](https://news.ycombinator.com/item?id=41044520) - [Install Docmost – open-source Notion Clone](https://tillcarlos.com/install-docmost/)
 * [2024-07-23, 10:15:36](https://news.ycombinator.com/item?id=41044452) - [Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?](http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html)
