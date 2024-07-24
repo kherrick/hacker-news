@@ -31,22 +31,12 @@
   ],
   [
     [
-      "2024-07-24, 16:18:27",
-      "https://news.ycombinator.com/item?id=41058616"
+      "2024-07-24, 16:03:30",
+      "https://news.ycombinator.com/item?id=41058424"
     ],
     [
-      "OpenAI may lose $5B this year and may run out of cash in 12 months",
-      "https://twitter.com/garymarcus/status/1816116071226868085"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 15:49:39",
-      "https://news.ycombinator.com/item?id=41058261"
-    ],
-    [
-      "CrowdStrike offers a $10 apology gift card to say sorry for outage",
-      "https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/"
+      "Phish-Friendly Domain Registry \".top\" Put on Notice",
+      "https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41057814"
     ],
     [
-      "Visual explanation of SAML authentication",
+      "Visual explanation of SAML authentication (2020)",
       "https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41057289"
     ],
     [
-      "Crash Course in Deep Learning (For Computer Graphics)",
+      "Crash course in deep learning for computer graphics",
       "https://gpuopen.com/learn/deep_learning_crash_course/"
     ]
   ],
@@ -145,8 +135,8 @@
       "https://news.ycombinator.com/item?id=41056463"
     ],
     [
-      "MIT researchers advance automated interpretability in AI models",
-      "https://news.mit.edu/2024/mit-researchers-advance-automated-interpretability-ai-models-maia-0723"
+      "A Multimodal Automated Interpretability Agent",
+      "https://arxiv.org/abs/2404.14394"
     ]
   ],
   [
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41056391"
     ],
     [
-      "The algebra (and calculus) of algebraic data types",
+      "The algebra and calculus of algebraic data types (2015)",
       "https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)",
       "http://www.kohala.com/start/papers.others/doors.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 04:35:27",
+      "https://news.ycombinator.com/item?id=41053645"
+    ],
+    [
+      "Falcon Content Update Preliminary Post Incident Report",
+      "https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=41001744"
     ],
     [
-      "Bubble Sort: An Archaeological Algorithmic Analysis (2003) [pdf]",
+      "Bubble Sort: An archaeological algorithmic analysis (2003) [pdf]",
       "https://users.cs.duke.edu/~ola/papers/bubble.pdf"
     ]
   ]
