@@ -7,6 +7,7 @@
 * [2024-07-24, 18:28:07](https://news.ycombinator.com/item?id=41060158) - [CrowdStrike global outage to cost US Fortune 500 companies $5.4B](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost)
 * [2024-07-24, 17:34:57](https://news.ycombinator.com/item?id=41059567) - [Smart jerks aren't worth it](https://tonyalicea.dev/blog/smart-jerks-arent-worth-it/)
 * [2024-07-24, 17:33:16](https://news.ycombinator.com/item?id=41059548) - [How to develop on Windows: comparing native, MinGW, Cygwin, WSL](https://tmewett.com/dev-on-windows/)
+* [2024-07-24, 17:15:46](https://news.ycombinator.com/item?id=41059342) - [Why Big Tech Wants to Make AI Cost Nothing](https://dublog.net/blog/commoditize-complement/)
 * [2024-07-24, 17:00:07](https://news.ycombinator.com/item?id=41059148) - [Join YC's Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
 * [2024-07-24, 16:40:24](https://news.ycombinator.com/item?id=41058867) - [The problem of 'model collapse': how a lack of human data limits AI progress](https://www.ft.com/content/ae507468-7f5b-440b-8512-aea81c6bf4a5)
 * [2024-07-24, 16:33:53](https://news.ycombinator.com/item?id=41058791) - [Intel confirms oxidation and excessive voltage in 13th and 14th Gen CPUs [video]](https://www.youtube.com/watch?v=OVdmK1UGzGs)
