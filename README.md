@@ -24,10 +24,10 @@
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 * [2024-07-23, 14:34:50](https://news.ycombinator.com/item?id=41046397) - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
+* [2024-07-22, 18:07:16](https://news.ycombinator.com/item?id=41037532) - [Ask HN: I built a Yubikey-based domain controller. Is it sellable?](https://news.ycombinator.com/item?id=41037532)
 * [2024-07-22, 17:27:44](https://news.ycombinator.com/item?id=41036982) - [A Gentle Introduction to SAML](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/)
 * [2024-07-22, 11:06:22](https://news.ycombinator.com/item?id=41033042) - [Demystifying Cookies and Tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 * [2024-07-21, 03:54:35](https://news.ycombinator.com/item?id=41022251) - [Relationships are coevolutionary loops (2023)](https://www.henrikkarlsson.xyz/p/making-a-home-together)
-* [2024-07-20, 10:15:55](https://news.ycombinator.com/item?id=41015400) - [When Smart Ships Divide by Zer0 – Stranding the USS Yorktown (2018)](https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2)
 * [2024-07-20, 00:15:13](https://news.ycombinator.com/item?id=41012854) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/main.html)
 * [2024-07-18, 23:53:18](https://news.ycombinator.com/item?id=41000844) - [Ask HN: Fast data structures for disjoint intervals?](https://news.ycombinator.com/item?id=41000844)
 
