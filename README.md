@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-24, 06:25:06](https://news.ycombinator.com/item?id=41054133) - [CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee](https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/)
 * [2024-07-24, 05:44:13](https://news.ycombinator.com/item?id=41053939) - [More delays for Euston's HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)
 * [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
@@ -25,7 +26,6 @@
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 * [2024-07-23, 14:34:50](https://news.ycombinator.com/item?id=41046397) - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
-* [2024-07-22, 18:07:16](https://news.ycombinator.com/item?id=41037532) - [Ask HN: I built a Yubikey-based domain controller. Is it sellable?](https://news.ycombinator.com/item?id=41037532)
 * [2024-07-22, 11:06:22](https://news.ycombinator.com/item?id=41033042) - [Demystifying Cookies and Tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 * [2024-07-21, 03:54:35](https://news.ycombinator.com/item?id=41022251) - [Relationships are coevolutionary loops (2023)](https://www.henrikkarlsson.xyz/p/making-a-home-together)
 * [2024-07-20, 00:15:13](https://news.ycombinator.com/item?id=41012854) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/main.html)
