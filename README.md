@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-24, 00:08:21](https://news.ycombinator.com/item?id=41052371) - [Scrapscript: A functional, content-addressable programming language](https://github.com/tekknolagi/scrapscript)
 * [2024-07-23, 21:50:09](https://news.ycombinator.com/item?id=41051327) - [You can opt out of airport face scans](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
 * [2024-07-23, 21:41:25](https://news.ycombinator.com/item?id=41051257) - [ESA report shows unsustainable levels of orbital debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
 * [2024-07-23, 21:00:56](https://news.ycombinator.com/item?id=41050801) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
@@ -12,6 +13,7 @@
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
 * [2024-07-23, 17:41:27](https://news.ycombinator.com/item?id=41048747) - [Chinese-born chemist cleared of last conviction under US’s espionage probe](https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article)
 * [2024-07-23, 17:33:28](https://news.ycombinator.com/item?id=41048677) - [Warsaw came close to never being rebuilt (2015)](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
+* [2024-07-23, 16:49:53](https://news.ycombinator.com/item?id=41048194) - [Show HN: Zerox – Document OCR with GPT-mini](https://github.com/getomni-ai/zerox)
 * [2024-07-23, 15:35:10](https://news.ycombinator.com/item?id=41047110) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2024-07-23, 15:25:14](https://news.ycombinator.com/item?id=41046956) - [Intent to end OCSP service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
@@ -19,8 +21,6 @@
 * [2024-07-23, 13:59:27](https://news.ycombinator.com/item?id=41046107) - [A (not so) small library for terminal based game development](https://github.com/pygamelib/pygamelib)
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
-* [2024-07-23, 08:13:31](https://news.ycombinator.com/item?id=41043771) - [Show HN: Convert HTML DOM to semantic markdown for use in LLMs](https://github.com/romansky/dom-to-semantic-markdown)
-* [2024-07-23, 07:34:09](https://news.ycombinator.com/item?id=41043568) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 02:42:59](https://news.ycombinator.com/item?id=41042034) - [Google-Wiz deal fizzles out, company will pursue IPO](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
 * [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States discloses nuclear warhead numbers; restores nuclear transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
 * [2024-07-22, 18:07:16](https://news.ycombinator.com/item?id=41037532) - [Ask HN: I built a Yubikey-based domain controller. Is it sellable?](https://news.ycombinator.com/item?id=41037532)
