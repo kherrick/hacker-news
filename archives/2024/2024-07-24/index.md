@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 17:34:57](https://news.ycombinator.com/item?id=41059567) - [Smart jerks aren't worth it](https://tonyalicea.dev/blog/smart-jerks-arent-worth-it/)
 * [2024-07-24, 17:00:07](https://news.ycombinator.com/item?id=41059148) - [Join YC's Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
 * [2024-07-24, 16:40:24](https://news.ycombinator.com/item?id=41058867) - [The problem of 'model collapse': how a lack of human data limits AI progress](https://www.ft.com/content/ae507468-7f5b-440b-8512-aea81c6bf4a5)
 * [2024-07-24, 16:33:53](https://news.ycombinator.com/item?id=41058791) - [Intel confirms oxidation and excessive voltage in 13th and 14th Gen CPUs [video]](https://www.youtube.com/watch?v=OVdmK1UGzGs)
+* [2024-07-24, 16:22:58](https://news.ycombinator.com/item?id=41058671) - [Biological Circuit Design by Caltech](https://biocircuits.github.io/index.html)
 * [2024-07-24, 16:18:27](https://news.ycombinator.com/item?id=41058616) - [OpenAI may lose $5B this year and may run out of cash in 12 months](https://twitter.com/garymarcus/status/1816116071226868085)
 * [2024-07-24, 16:03:30](https://news.ycombinator.com/item?id=41058424) - [Phish-Friendly Domain Registry \".top\" Put on Notice](https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/)
+* [2024-07-24, 15:52:06](https://news.ycombinator.com/item?id=41058292) - [Hiding Linux Processes with Bind Mounts](https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/)
 * [2024-07-24, 15:49:39](https://news.ycombinator.com/item?id=41058261) - [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
 * [2024-07-24, 15:42:03](https://news.ycombinator.com/item?id=41058194) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 * [2024-07-24, 15:32:21](https://news.ycombinator.com/item?id=41058107) - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
