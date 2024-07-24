@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 15:49:39](https://news.ycombinator.com/item?id=41058261) - [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
+* [2024-07-24, 15:42:03](https://news.ycombinator.com/item?id=41058194) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 * [2024-07-24, 15:32:21](https://news.ycombinator.com/item?id=41058107) - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
 * [2024-07-24, 15:04:30](https://news.ycombinator.com/item?id=41057827) - [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)
 * [2024-07-24, 15:02:57](https://news.ycombinator.com/item?id=41057814) - [Visual Explanation of SAML Authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
