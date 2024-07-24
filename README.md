@@ -7,7 +7,6 @@
 * [2024-07-24, 03:28:01](https://news.ycombinator.com/item?id=41053364) - [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
 * [2024-07-24, 03:16:15](https://news.ycombinator.com/item?id=41053329) - [What \"consent\" looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
 * [2024-07-24, 02:49:44](https://news.ycombinator.com/item?id=41053201) - [Llama 3.1 in C](https://github.com/trholding/llama2.c/blob/master/runq.c)
-* [2024-07-24, 02:31:46](https://news.ycombinator.com/item?id=41053117) - [Beego: A Full Stack Web Framework for Go](https://github.com/beego/beego)
 * [2024-07-24, 01:52:09](https://news.ycombinator.com/item?id=41052934) - [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)
 * [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
 * [2024-07-24, 00:22:04](https://news.ycombinator.com/item?id=41052446) - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
@@ -29,6 +28,7 @@
 * [2024-07-22, 11:06:22](https://news.ycombinator.com/item?id=41033042) - [Demystifying Cookies and Tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 * [2024-07-21, 03:54:35](https://news.ycombinator.com/item?id=41022251) - [Relationships are coevolutionary loops (2023)](https://www.henrikkarlsson.xyz/p/making-a-home-together)
 * [2024-07-20, 00:15:13](https://news.ycombinator.com/item?id=41012854) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/main.html)
+* [2024-07-19, 04:07:51](https://news.ycombinator.com/item?id=41001951) - [Ruby methods are colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
 * [2024-07-18, 23:53:18](https://news.ycombinator.com/item?id=41000844) - [Ask HN: Fast data structures for disjoint intervals?](https://news.ycombinator.com/item?id=41000844)
 
 ## [Archives](archives/index.md)
