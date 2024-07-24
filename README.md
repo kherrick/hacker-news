@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-24, 06:25:06](https://news.ycombinator.com/item?id=41054133) - [CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee](https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/)
+* [2024-07-24, 06:11:09](https://news.ycombinator.com/item?id=41054059) - [Pinned Places](https://without.boats/blog/pinned-places/)
 * [2024-07-24, 05:44:13](https://news.ycombinator.com/item?id=41053939) - [More delays for Euston's HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)
 * [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
-* [2024-07-24, 03:28:01](https://news.ycombinator.com/item?id=41053364) - [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
 * [2024-07-24, 03:16:15](https://news.ycombinator.com/item?id=41053329) - [What \"consent\" looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
 * [2024-07-24, 02:49:44](https://news.ycombinator.com/item?id=41053201) - [Llama 3.1 in C](https://github.com/trholding/llama2.c/blob/master/runq.c)
 * [2024-07-24, 01:52:09](https://news.ycombinator.com/item?id=41052934) - [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)

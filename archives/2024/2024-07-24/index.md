@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
 * [2024-07-24, 06:25:06](https://news.ycombinator.com/item?id=41054133) - [CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee](https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/)
+* [2024-07-24, 06:11:09](https://news.ycombinator.com/item?id=41054059) - [Pinned Places](https://without.boats/blog/pinned-places/)
 * [2024-07-24, 05:44:13](https://news.ycombinator.com/item?id=41053939) - [More delays for Euston's HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)
 * [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-24, 04:42:17](https://news.ycombinator.com/item?id=41053675) - [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)
