@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
 * [2024-07-24, 15:32:21](https://news.ycombinator.com/item?id=41058107) - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
+* [2024-07-24, 15:04:30](https://news.ycombinator.com/item?id=41057827) - [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)
 * [2024-07-24, 15:02:57](https://news.ycombinator.com/item?id=41057814) - [Visual Explanation of SAML Authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
 * [2024-07-24, 14:57:14](https://news.ycombinator.com/item?id=41057766) - [InteractiVenn – Interactive Venn Diagrams](https://interactivenn.net/index.html)
 * [2024-07-24, 14:35:45](https://news.ycombinator.com/item?id=41057541) - [Patrick McKenzie – How a Discord Server Saved 1000s of Lives [video]](https://www.youtube.com/watch?v=18zpjpPNWRw)

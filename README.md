@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-24, 15:32:21](https://news.ycombinator.com/item?id=41058107) - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
+* [2024-07-24, 15:04:30](https://news.ycombinator.com/item?id=41057827) - [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)
 * [2024-07-24, 15:02:57](https://news.ycombinator.com/item?id=41057814) - [Visual explanation of saml authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
 * [2024-07-24, 14:57:14](https://news.ycombinator.com/item?id=41057766) - [InteractiVenn – Interactive Venn Diagrams](https://interactivenn.net/index.html)
-* [2024-07-24, 14:16:30](https://news.ycombinator.com/item?id=41057361) - [How Do You Find a Good Manager?](https://www.nber.org/papers/w32699)
+* [2024-07-24, 14:16:30](https://news.ycombinator.com/item?id=41057361) - [How do you find a good manager?](https://www.nber.org/papers/w32699)
 * [2024-07-24, 14:10:04](https://news.ycombinator.com/item?id=41057302) - [How to Fine-Tune Llama 3 for Customer Service](https://symbl.ai/developers/blog/how-to-fine-tune-llama-3-for-customer-service/)
 * [2024-07-24, 14:08:38](https://news.ycombinator.com/item?id=41057289) - [Crash Course in Deep Learning (For Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/)
 * [2024-07-24, 13:59:02](https://news.ycombinator.com/item?id=41057199) - [Learn in Public (2018)](https://www.swyx.io/learn-in-public)
@@ -17,7 +18,6 @@
 * [2024-07-24, 00:22:04](https://news.ycombinator.com/item?id=41052446) - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
 * [2024-07-24, 00:08:21](https://news.ycombinator.com/item?id=41052371) - [Scrapscript: A functional, content-addressable programming language](https://github.com/tekknolagi/scrapscript)
 * [2024-07-24, 00:06:59](https://news.ycombinator.com/item?id=41052365) - [Taking my diabetes treatment into my own hands (2024)](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
-* [2024-07-23, 21:00:56](https://news.ycombinator.com/item?id=41050801) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
 * [2024-07-23, 19:49:44](https://news.ycombinator.com/item?id=41050055) - [Hydrothermal explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics officials try to catch “motor doping”](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 17:43:41](https://news.ycombinator.com/item?id=41048777) - [Turing's topological proof that every written alphabet is finite (2010)](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
@@ -27,7 +27,7 @@
 * [2024-07-23, 15:25:14](https://news.ycombinator.com/item?id=41046956) - [Intent to end OCSP service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 * [2024-07-23, 14:34:50](https://news.ycombinator.com/item?id=41046397) - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
-* [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
+* [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – Multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
 * [2024-07-20, 00:15:13](https://news.ycombinator.com/item?id=41012854) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/main.html)
 
