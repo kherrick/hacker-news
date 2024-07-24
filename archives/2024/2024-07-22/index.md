@@ -78,6 +78,7 @@
 * [2024-07-22, 12:01:14](https://news.ycombinator.com/item?id=41033442) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-07-22, 11:29:45](https://news.ycombinator.com/item?id=41033209) - [Physicist, 98, honoured with doctorate 75 years after groundbreaking discovery](https://www.theguardian.com/science/article/2024/jul/22/physicist-rosemary-fowler-honoured-doctorate-75-years-after-discovery)
 * [2024-07-22, 11:25:46](https://news.ycombinator.com/item?id=41033177) - [Can you tell if these images are real or generated?](https://britannicaeducation.com/blog/quiz-real-or-ai/)
+* [2024-07-22, 11:06:22](https://news.ycombinator.com/item?id=41033042) - [Demystifying Cookies and Tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
 * [2024-07-22, 10:43:51](https://news.ycombinator.com/item?id=41032918) - [No One Expects Young Men to Do Anything and They Respond by Doing Nothing (2022)](https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything)
 * [2024-07-22, 10:12:24](https://news.ycombinator.com/item?id=41032694) - [Web Crap Has Taken Control](https://medium.com/@fulalas/web-crap-has-taken-control-71c459df6e62)
