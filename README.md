@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 * [2024-07-24, 03:16:15](https://news.ycombinator.com/item?id=41053329) - [What \"consent\" looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
 * [2024-07-24, 01:52:09](https://news.ycombinator.com/item?id=41052934) - [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)
 * [2024-07-24, 01:47:52](https://news.ycombinator.com/item?id=41052903) - [GM indefinitely halts work on driverless car at Cruise unit](https://www.ft.com/content/85bfbfd0-1036-44c7-89bb-72d1cd8f8ea2)
@@ -21,7 +22,6 @@
 * [2024-07-23, 15:08:41](https://news.ycombinator.com/item?id=41046773) - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 * [2024-07-23, 14:34:50](https://news.ycombinator.com/item?id=41046397) - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
-* [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 02:42:59](https://news.ycombinator.com/item?id=41042034) - [Google-Wiz deal fizzles out, company will pursue IPO](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
 * [2024-07-22, 22:16:04](https://news.ycombinator.com/item?id=41040417) - [United States discloses nuclear warhead numbers; restores nuclear transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
 * [2024-07-22, 18:07:16](https://news.ycombinator.com/item?id=41037532) - [Ask HN: I built a Yubikey-based domain controller. Is it sellable?](https://news.ycombinator.com/item?id=41037532)
