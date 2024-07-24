@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 19:22:37](https://news.ycombinator.com/item?id=41060834) - [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground)
+* [2024-07-24, 19:20:42](https://news.ycombinator.com/item?id=41060813) - [X redesigns water pistol emoji back to a firearm](https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/)
+* [2024-07-24, 19:12:09](https://news.ycombinator.com/item?id=41060710) - [Ask Siri, Dictation and Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)
+* [2024-07-24, 19:08:29](https://news.ycombinator.com/item?id=41060669) - [Countdown clock in NYC's Union Square ticks below 5 years](https://pix11.com/news/local-news/countdown-clock-in-nycs-union-square-ticks-below-5-years-what-it-means/)
 * [2024-07-24, 18:28:07](https://news.ycombinator.com/item?id=41060158) - [CrowdStrike global outage to cost US Fortune 500 companies $5.4B](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost)
 * [2024-07-24, 18:24:02](https://news.ycombinator.com/item?id=41060102) - [Anyone Can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 17:34:57](https://news.ycombinator.com/item?id=41059567) - [Smart jerks aren't worth it](https://tonyalicea.dev/blog/smart-jerks-arent-worth-it/)
