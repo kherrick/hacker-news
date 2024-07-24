@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 16:18:27](https://news.ycombinator.com/item?id=41058616) - [OpenAI may lose $5B this year and may run out of cash in 12 months](https://twitter.com/garymarcus/status/1816116071226868085)
 * [2024-07-24, 15:49:39](https://news.ycombinator.com/item?id=41058261) - [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
 * [2024-07-24, 15:42:03](https://news.ycombinator.com/item?id=41058194) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 * [2024-07-24, 15:32:21](https://news.ycombinator.com/item?id=41058107) - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
