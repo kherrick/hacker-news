@@ -86,6 +86,7 @@
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Windows Bluescreen and Boot Loops (update: caused by a Crowdstrike update)](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Windows Bluescreen and Boot Loops (update: caused by a Crowdstrike update)](https://news.ycombinator.com/item?id=41002195)
 * [2024-07-19, 05:26:13](https://news.ycombinator.com/item?id=41002195) - [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
+* [2024-07-19, 05:15:13](https://news.ycombinator.com/item?id=41002158) - [The Assyrian Renaissance](https://archaeology.org/issues/july-august-2024/features/the-assyrian-renaissance/)
 * [2024-07-19, 04:40:16](https://news.ycombinator.com/item?id=41002044) - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
 * [2024-07-19, 04:09:59](https://news.ycombinator.com/item?id=41001959) - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
 * [2024-07-19, 04:08:09](https://news.ycombinator.com/item?id=41001953) - [Condo prices at SF's beleaguered Millennium Tower drop to as low as $649,000](https://www.sfgate.com/bayarea/article/millennium-tower-san-francisco-price-drop-19582654.php)
