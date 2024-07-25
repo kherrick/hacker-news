@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 13:05:23](https://news.ycombinator.com/item?id=41068215) - [CrowdStrike is offering a $10 UberEats gift card as an apology for the outage](https://www.techradar.com/pro/crowdstrike-is-offering-a-dollar10-ubereats-gift-card-as-an-apology-for-the-recent-outage)
 * [2024-07-25, 12:00:35](https://news.ycombinator.com/item?id=41067578) - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
+* [2024-07-25, 11:47:57](https://news.ycombinator.com/item?id=41067468) - [Third Party Cookies Must Be Removed from the Web Platform](https://www.w3.org/2001/tag/doc/web-without-3p-cookies/)
 * [2024-07-25, 11:44:25](https://news.ycombinator.com/item?id=41067431) - [Southwest Airlines Is Ditching Open Seating on Flights](https://www.wsj.com/business/airlines/southwest-airlines-is-ditching-open-seating-on-flights-25bb30fd)
 * [2024-07-25, 11:31:54](https://news.ycombinator.com/item?id=41067316) - [Is a Universal Basic Income System Even Possible?](https://gizmodo.com/is-a-universal-basic-income-system-even-possible-2000469538)
 * [2024-07-25, 11:15:03](https://news.ycombinator.com/item?id=41067208) - [We bought everything needed to make $3M worth of fentanyl](https://www.reuters.com/investigates/special-report/drugs-fentanyl-supplychain/)
