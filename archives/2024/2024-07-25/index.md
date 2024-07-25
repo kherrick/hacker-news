@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 21:00:59](https://news.ycombinator.com/item?id=41073328) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41073328)
 * [2024-07-25, 20:34:40](https://news.ycombinator.com/item?id=41073086) - [Octopus farming in the U.S. would be banned under a new bill in Congress](https://www.npr.org/2024/07/25/nx-s1-5051801/octopus-farming-ban-us-congress)
 * [2024-07-25, 20:05:44](https://news.ycombinator.com/item?id=41072795) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-25, 19:54:02](https://news.ycombinator.com/item?id=41072668) - [Arch is a gateway drug to NixOS](https://wastedintel.ca/2024/07/25/arch-is-a-gateway-drug-to-nixos/)
