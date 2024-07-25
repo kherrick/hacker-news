@@ -29,7 +29,7 @@
 * [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When Objects Are Not Enough](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
 * [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
-* [2024-07-21, 14:17:01](https://news.ycombinator.com/item?id=41025267) - [When eyesight fades and climbing provides comfort](https://www.lacrux.com/en/videos/when-eyesight-fades-and-climbing-provides-comfort/)
+* [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
 
 ## [Archives](archives/index.md)
 
