@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-25, 01:10:21](https://news.ycombinator.com/item?id=41063853) - [500M-Year-Old 'Alien Fish Taco' Was Among First Creatures with Jaws](https://www.scientificamerican.com/article/500-million-year-old-alien-fish-taco-was-among-first-creatures-with-jaws/)
 * [2024-07-24, 23:27:57](https://news.ycombinator.com/item?id=41063307) - [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
 * [2024-07-24, 21:39:55](https://news.ycombinator.com/item?id=41062451) - [Show HN: Hooper – AI-driven stats and highlights for basketball play](https://www.hooper.gg)
@@ -17,7 +18,6 @@
 * [2024-07-24, 14:57:14](https://news.ycombinator.com/item?id=41057766) - [InteractiVenn – Interactive Venn Diagrams](https://interactivenn.net/index.html)
 * [2024-07-24, 13:06:41](https://news.ycombinator.com/item?id=41056694) - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
 * [2024-07-24, 12:42:53](https://news.ycombinator.com/item?id=41056463) - [A Multimodal Automated Interpretability Agent](https://arxiv.org/abs/2404.14394)
-* [2024-07-24, 12:35:00](https://news.ycombinator.com/item?id=41056387) - [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
 * [2024-07-24, 05:02:30](https://news.ycombinator.com/item?id=41053761) - [\"Doors\" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-24, 04:35:27](https://news.ycombinator.com/item?id=41053645) - [Preliminary Post Incident Review](https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/)
 * [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
