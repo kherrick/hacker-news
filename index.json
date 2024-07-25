@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-25, 03:06:17",
-      "https://news.ycombinator.com/item?id=41064383"
-    ],
-    [
-      "Navy SEALs, Sailors Who Refused Covid Vaccine Will Have Records Expunged",
-      "https://www.military.com/daily-news/2024/07/24/navy-seals-sailors-who-refused-covid-vaccine-will-have-records-expunged-after-legal-settlement.html"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 02:26:31",
       "https://news.ycombinator.com/item?id=41064217"
     ],
@@ -227,6 +217,16 @@
     [
       "The Origin of Emacs in 1976",
       "https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 00:22:04",
+      "https://news.ycombinator.com/item?id=41052446"
+    ],
+    [
+      "Pnut: A C to POSIX shell compiler you can trust",
+      "https://pnut.sh"
     ]
   ],
   [
