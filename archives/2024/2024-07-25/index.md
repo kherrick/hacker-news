@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 14:52:38](https://news.ycombinator.com/item?id=41069403) - [The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
+* [2024-07-25, 14:41:26](https://news.ycombinator.com/item?id=41069256) - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
 * [2024-07-25, 14:21:57](https://news.ycombinator.com/item?id=41069002) - [US economic growth increased last quarter to a healthy 2.8% annual rate](https://apnews.com/article/economy-growth-inflation-gdp-consumers-federal-reserve-ffba812f747d18d1f09fcf804fe4eceb)
 * [2024-07-25, 14:02:46](https://news.ycombinator.com/item?id=41068804) - [AOC's Deepfake AI Porn Bill Unanimously Passes the Senate](https://www.rollingstone.com/politics/politics-news/aoc-deepfake-porn-bill-senate-1235067061/)
 * [2024-07-25, 13:57:40](https://news.ycombinator.com/item?id=41068757) - [Senate to Vote on Web Censorship Bill Disguised as Kids Safety](https://reason.com/2024/07/24/senate-to-vote-on-web-censorship-bill-disguised-as-kids-safety/)
+* [2024-07-25, 13:27:53](https://news.ycombinator.com/item?id=41068451) - [PostgREST – Serve a RESTful API from Any Postgres Database](https://github.com/PostgREST/postgrest)
 * [2024-07-25, 13:15:10](https://news.ycombinator.com/item?id=41068318) - [The end of Mbed marks a new beginning for Arduino](https://blog.arduino.cc/2024/07/24/the-end-of-mbed-marks-a-new-beginning-for-arduino/)
 * [2024-07-25, 13:05:23](https://news.ycombinator.com/item?id=41068215) - [CrowdStrike is offering a $10 UberEats gift card as an apology for the outage](https://www.techradar.com/pro/crowdstrike-is-offering-a-dollar10-ubereats-gift-card-as-an-apology-for-the-recent-outage)
 * [2024-07-25, 12:58:12](https://news.ycombinator.com/item?id=41068153) - [Ask HN: What is your go to performance optimization?](https://news.ycombinator.com/item?id=41068153)
