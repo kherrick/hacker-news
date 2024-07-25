@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-25, 18:16:08](https://news.ycombinator.com/item?id=41071649) - [OpenAI announces SearchGPT, its AI-powered search engine](https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival)
+* [2024-07-25, 18:21:47](https://news.ycombinator.com/item?id=41071708) - [Secure Boot is completely broken on 200 models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 * [2024-07-25, 18:15:05](https://news.ycombinator.com/item?id=41071639) - [OpenAI Announces SearchGPT](https://chatgpt.com/search)
 * [2024-07-25, 18:11:03](https://news.ycombinator.com/item?id=41071585) - [SearchGPT Prototype](https://openai.com/index/searchgpt-prototype/)
 * [2024-07-25, 17:00:56](https://news.ycombinator.com/item?id=41070876) - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
