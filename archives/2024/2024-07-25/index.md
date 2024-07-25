@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 17:00:56](https://news.ycombinator.com/item?id=41070876) - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
 * [2024-07-25, 16:26:50](https://news.ycombinator.com/item?id=41070517) - [We just caught our first \"BANANA \"](https://twitter.com/karinemellata/status/1805429294841446815)
 * [2024-07-25, 16:10:15](https://news.ycombinator.com/item?id=41070319) - [Japanese population sees greatest fall amid record foreigner growth and numbers](https://www.asahi.com/ajw/articles/15361310)
 * [2024-07-25, 15:36:57](https://news.ycombinator.com/item?id=41069909) - [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
