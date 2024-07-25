@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 21:40:49](https://news.ycombinator.com/item?id=41073688) - [U.S. Department of Defense – Detecting Agile BS [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 * [2024-07-25, 21:33:07](https://news.ycombinator.com/item?id=41073637) - [How the American war on porn could change the way you use the internet](https://www.bbc.com/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet)
 * [2024-07-25, 21:04:07](https://news.ycombinator.com/item?id=41073363) - [Why is Xi Jinping building secret commodity stockpiles?](https://www.economist.com/finance-and-economics/2024/07/23/why-is-xi-jinping-building-secret-commodity-stockpiles)
 * [2024-07-25, 20:53:50](https://news.ycombinator.com/item?id=41073264) - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
@@ -23,7 +24,6 @@
 * [2024-07-25, 06:10:38](https://news.ycombinator.com/item?id=41065227) - [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
-* [2024-07-25, 02:53:14](https://news.ycombinator.com/item?id=41064333) - [What is Toybox?](http://landley.net/toybox/)
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-24, 20:35:49](https://news.ycombinator.com/item?id=41061755) - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When objects are not enough (2021)](https://www.tonysm.com/when-objects-are-not-enough/)
