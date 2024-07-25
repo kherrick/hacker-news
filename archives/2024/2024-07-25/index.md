@@ -8,6 +8,8 @@
 * [2024-07-25, 22:09:59](https://news.ycombinator.com/item?id=41073907) - [Is the nervous system a democracy? (2016)](https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/)
 * [2024-07-25, 22:03:01](https://news.ycombinator.com/item?id=41073849) - [Federal judge upholds FTC ban on noncompete agreements](https://thehill.com/business/4790236-federal-trade-commission-noncompete-ban/)
 * [2024-07-25, 21:40:49](https://news.ycombinator.com/item?id=41073688) - [U.S. Department of Defense – Detecting Agile BS [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+* [2024-07-25, 21:40:38](https://news.ycombinator.com/item?id=41073686) - [The Decline of Mobile Development](https://www.donnfelker.com/the-decline-of-mobile-development/)
+* [2024-07-25, 21:34:21](https://news.ycombinator.com/item?id=41073644) - [What's the deal with PFAS, a.k.a. 'forever chemicals'?](https://scopeblog.stanford.edu/2024/07/25/pfas-forever-chemicals-health-risks-scientists/)
 * [2024-07-25, 21:33:07](https://news.ycombinator.com/item?id=41073637) - [How the American war on porn could change the way you use the internet](https://www.bbc.com/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet)
 * [2024-07-25, 21:04:07](https://news.ycombinator.com/item?id=41073363) - [Why is Xi Jinping building secret commodity stockpiles?](https://www.economist.com/finance-and-economics/2024/07/23/why-is-xi-jinping-building-secret-commodity-stockpiles)
 * [2024-07-25, 21:00:59](https://news.ycombinator.com/item?id=41073328) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41073328)
