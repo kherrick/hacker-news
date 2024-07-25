@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 12:58:12](https://news.ycombinator.com/item?id=41068153) - [Ask HN: What is your go to performance optimization?](https://news.ycombinator.com/item?id=41068153)
 * [2024-07-25, 12:04:09](https://news.ycombinator.com/item?id=41067616) - [A chemist explains the chemistry behind decaf coffee](https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196)
 * [2024-07-25, 12:00:35](https://news.ycombinator.com/item?id=41067578) - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 * [2024-07-25, 10:54:14](https://news.ycombinator.com/item?id=41067079) - [Why Levittown Didn't Revolutionize Homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
@@ -29,7 +30,6 @@
 * [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
 * [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
-* [2024-07-21, 14:17:01](https://news.ycombinator.com/item?id=41025267) - [When eyesight fades and climbing provides comfort](https://www.lacrux.com/en/videos/when-eyesight-fades-and-climbing-provides-comfort/)
 
 ## [Archives](archives/index.md)
 
