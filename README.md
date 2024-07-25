@@ -4,7 +4,6 @@
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
 * [2024-07-25, 16:18:34](https://news.ycombinator.com/item?id=41070428) - [Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
 * [2024-07-25, 15:36:57](https://news.ycombinator.com/item?id=41069909) - [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
-* [2024-07-25, 15:34:55](https://news.ycombinator.com/item?id=41069886) - [Meta Releases Dreambooth Technique Requiring No Finetuning](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/452604312_1010783860585222_5768506504946476980_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YAv_wnbaeV4Q7kNvgFYk-3h&_nc_ht=scontent-sjc3-1.xx&oh=00_AYA8prM7RdSnA8iWL_UPB6qpQKjkeBOtp8zxoco6qb1Chw&oe=66A84FAB)
 * [2024-07-25, 15:29:41](https://news.ycombinator.com/item?id=41069829) - [AI solves IMO problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 * [2024-07-25, 15:17:01](https://news.ycombinator.com/item?id=41069681) - [Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
 * [2024-07-25, 14:52:38](https://news.ycombinator.com/item?id=41069403) - [The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
@@ -30,6 +29,7 @@
 * [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
 * [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five little languages and how they grew: Dennis Ritchie's talk at HOPL on the](https://www.bell-labs.com/usr/dmr/www/hopl.html)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
+* [2024-07-20, 20:06:46](https://news.ycombinator.com/item?id=41019354) - [The first currency in history: Kingdom of Lydia minted gold, silver coins (2022)](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)
 
 ## [Archives](archives/index.md)
 
