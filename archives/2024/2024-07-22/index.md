@@ -14,6 +14,7 @@
 * [2024-07-22, 21:33:37](https://news.ycombinator.com/item?id=41040047) - [July 2024 Update on Instability Reports on Intel Core Processors](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617116)
 * [2024-07-22, 21:23:02](https://news.ycombinator.com/item?id=41039967) - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
 * [2024-07-22, 20:55:02](https://news.ycombinator.com/item?id=41039708) - [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
+* [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When Objects Are Not Enough](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 20:47:44](https://news.ycombinator.com/item?id=41039644) - [Glasgow 2024 Hugo Awards Statement – 22 July, 2024](https://glasgow2024.org/hugo-awards/statement-22-july-2024/)
 * [2024-07-22, 20:43:43](https://news.ycombinator.com/item?id=41039606) - [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/articles/google-is-keeping-cookies-in-chrome-after-all-89debea8)
 * [2024-07-22, 20:17:05](https://news.ycombinator.com/item?id=41039333) - [SofleKeyboard – A split keyboard based on Lily58, Crkbd and Helix keyboards](https://josefadamcik.github.io/SofleKeyboard/)

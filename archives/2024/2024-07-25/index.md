@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
 * [2024-07-25, 12:00:35](https://news.ycombinator.com/item?id=41067578) - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
+* [2024-07-25, 11:31:54](https://news.ycombinator.com/item?id=41067316) - [Is a Universal Basic Income System Even Possible?](https://gizmodo.com/is-a-universal-basic-income-system-even-possible-2000469538)
+* [2024-07-25, 10:54:14](https://news.ycombinator.com/item?id=41067079) - [Why Levittown Didn't Revolutionize Homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
 * [2024-07-25, 10:50:32](https://news.ycombinator.com/item?id=41067051) - [One-dose nasal spray clears toxic Alzheimer's proteins to improve memory](https://newatlas.com/health-wellbeing/nasal-spray-tau-proteins-alzheimers/)
 * [2024-07-25, 10:40:57](https://news.ycombinator.com/item?id=41066984) - [Switzerland Makes Open Source Software Mandatory for Public Sector](https://news.itsfoss.com/switzerland-open-source/)
 * [2024-07-25, 10:22:45](https://news.ycombinator.com/item?id=41066872) - [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)
