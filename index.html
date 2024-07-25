@@ -129,6 +129,192 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41069909">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41069909"
+              >Launch HN: Undermind (YC S24) – AI agent for discovering
+              scientific papers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-25 @ 15:36:57</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41069909"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.undermind.ai/">https://www.undermind.ai/</a
+              >). We’re building a search engine for complex scientific
+              research.
+              <p>
+                We’re both physicists, and one of our biggest frustrations
+                during grad school was finding research — There were a lot of
+                times when we had to sit down to scope out new ideas for a
+                project and quickly become a deep expert, or we had to find
+                solutions to really complex technical problems, but the only way
+                to do that was manually dig through papers on Google Scholar for
+                hours. It was very tedious, to the point where we would often
+                just skip the careful research and hope for the best. Sometimes
+                you’d get burned a few months later because someone already
+                solved the problem you thought was novel and important, or you’d
+                waste your time inventing/building a solution for something when
+                one already existed.
+              </p>
+              <p>
+                The problem was there’s just no easy way to figure out what
+                others have done in research, and load it into your brain. It’s
+                one of the biggest bottlenecks for doing truly good, important
+                research.
+              </p>
+              <p>
+                We wanted to fix that. LLMs clearly help, but are mostly limited
+                to general knowledge. Instead, we needed something that would
+                pull in research papers, and give you exactly what you need to
+                know, even for very complex ideas and topics. We realized the
+                way to do this is to mimic the research strategies we already
+                know work, because we do them ourselves, and so we built an
+                agent-like LLM pipeline to carefully search in a way that mimics
+                human research strategies.
+              </p>
+              <p>
+                Our search system works a bit differently from casual search
+                engines. First, we have you chat back and forth with an LLM to
+                make sure we actually understand your really complex research
+                goals up front, like you’re talking to a colleague. Then the
+                system carefully searches for you for ~3 minutes. At a high
+                level, it does something similar to tree search, following
+                citation rabbit holes and adapting based on what it discovers to
+                look for more content over multiple iterations (the same way you
+                would if you decided to spend a few hours). The 3 minute delay
+                is annoying, but we’re optimizing for quality of results rather
+                than latency right now. At the end there’s a report.
+              </p>
+              <p>
+                We’re trying to achieve two things with this careful, systematic
+                agent-like discovery process:
+              </p>
+              <p>
+                1. We want to be very accurate, and only recommend very specific
+                results if you ask for a specific topic. To do this, we
+                carefully read and evaluate content from papers with the highest
+                quality LLMs (we’re just reading abstracts and citations for
+                now, because they’re more widely accessible - but also working
+                on adding full texts).
+              </p>
+              <p>
+                2. We want to find everything relevant to your search, because
+                in research it’s crucial to know if something exists or not. The
+                key to being exhaustive is the adaptive algorithms we’ve
+                developed (following citations, changing strategy based on what
+                we find, etc). However, one cool feature of the automated
+                pipeline is we can track the discovery process as the search
+                proceeds. Early on, we find many good results, and later on they
+                get more sparse, until all the good leads are exhausted and we
+                stop finding anything helpful. We can statistically model that
+                process, and figure out when we’ve found everything (it actually
+                has an interesting exponential saturation behavior, which you
+                can read a bit more about in our whitepaper (<a
+                  href="https://www.undermind.ai/static/Undermind_whitepaper.pdf"
+                  >https://www.undermind.ai/static/Undermind_whitepaper.pdf</a
+                >), which we wrote for a previous prototype.)
+              </p>
+              <p>
+                We have a demo video you can check out here:
+                <a
+                  href="https://www.loom.com/share/10067c49e4424b949a4b8c9fd8f3b12c?sid=5ee3cd96-2b05-4768-8856-cb1b83e40a70"
+                  >https://www.loom.com/share/10067c49e4424b949a4b8c9fd8f3b12c?...</a
+                >, and there are also some example search results on our
+                homepage.
+              </p>
+              <p>
+                You can try searching yourself here:
+                <a href="https://www.undermind.ai/query_app/promotion/"
+                  >https://www.undermind.ai/query_app/promotion/</a
+                >
+              </p>
+              <p>
+                (This is a special HN link where, for today, we’ve dropped the
+                signup gate for your first few searches. Usually we require
+                login so you can save searches.)
+              </p>
+              <p>
+                We’re excited to share this with you! We’d love to hear about
+                your experiences searching, what’s clear or not, and any
+                feedback. We’ll be here to answer any questions or comments.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="41069908">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nytimes.com/2024/07/25/business/southwest-airlines-assigned-seating.html"
+              >Southwest Airlines Will End Its Longstanding Open-Seating
+              Policy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-25 @ 15:36:51</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41069908"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41069896">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/technology/article/2024/jul/25/crowdstrike-workers-ubereats-vouchers"
+              >CrowdStrike faces backlash as 'thank you' gift cards are
+              blocked</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-25 @ 15:35:39</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41069896"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41069829">
+          <h3>
+            <a
+              class="item"
+              href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"
+              >AI solves IMO problems at silver medal level</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-25 @ 15:29:41</span
+              ><span class="points-container"
+                >Points: <span class="points">61</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41069829"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41069788">
           <h3>
             <a
@@ -141,11 +327,11 @@
             <h4>
               <span>2024-07-25 @ 15:25:52</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41069788"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -162,7 +348,7 @@
             <h4>
               <span>2024-07-25 @ 15:17:37</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41069691"
                   >Comments</a
@@ -188,7 +374,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41069626"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -205,11 +391,11 @@
             <h4>
               <span>2024-07-25 @ 14:52:38</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41069403"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -224,11 +410,11 @@
             <h4>
               <span>2024-07-25 @ 14:41:26</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41069256"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -245,11 +431,11 @@
             <h4>
               <span>2024-07-25 @ 14:21:36</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41068995"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -264,7 +450,7 @@
             <h4>
               <span>2024-07-25 @ 13:27:53</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41068451"
                   >Comments</a
@@ -285,11 +471,11 @@
             <h4>
               <span>2024-07-25 @ 12:04:09</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41067616"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -323,11 +509,11 @@
             <h4>
               <span>2024-07-25 @ 09:18:13</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41066544"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -344,11 +530,11 @@
             <h4>
               <span>2024-07-25 @ 09:16:53</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41066536"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -365,7 +551,7 @@
             <h4>
               <span>2024-07-25 @ 08:40:06</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41066303"
                   >Comments</a
@@ -386,11 +572,11 @@
             <h4>
               <span>2024-07-25 @ 06:26:40</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">259</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41065326"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 305</span></span
               >
             </h4>
           </section>
@@ -407,11 +593,11 @@
             <h4>
               <span>2024-07-25 @ 06:10:38</span
               ><span class="points-container"
-                >Points: <span class="points">519</span></span
+                >Points: <span class="points">526</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41065227"
                   >Comments</a
-                ><span class="descendants">: 605</span></span
+                ><span class="descendants">: 610</span></span
               >
             </h4>
           </section>
@@ -428,11 +614,11 @@
             <h4>
               <span>2024-07-25 @ 04:14:57</span
               ><span class="points-container"
-                >Points: <span class="points">360</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41064645"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -447,11 +633,11 @@
             <h4>
               <span>2024-07-25 @ 02:57:37</span
               ><span class="points-container"
-                >Points: <span class="points">790</span></span
+                >Points: <span class="points">795</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41064351"
                   >Comments</a
-                ><span class="descendants">: 350</span></span
+                ><span class="descendants">: 356</span></span
               >
             </h4>
           </section>
@@ -475,27 +661,6 @@
             </h4>
           </section>
         </section>
-        <section id="41063307">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html"
-              >Fossil hints that Jurassic mammals lived slow and died old</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-24 @ 23:27:57</span
-              ><span class="points-container"
-                >Points: <span class="points">82</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41063307"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41063258">
           <h3>
             <a
@@ -508,11 +673,11 @@
             <h4>
               <span>2024-07-24 @ 23:22:57</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41063258"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -529,7 +694,7 @@
             <h4>
               <span>2024-07-24 @ 21:02:09</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41062072"
                   >Comments</a
@@ -550,11 +715,11 @@
             <h4>
               <span>2024-07-24 @ 20:35:49</span
               ><span class="points-container"
-                >Points: <span class="points">283</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41061755"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -591,72 +756,11 @@
             <h4>
               <span>2024-07-24 @ 18:24:02</span
               ><span class="points-container"
-                >Points: <span class="points">1768</span></span
+                >Points: <span class="points">1775</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41060102"
                   >Comments</a
-                ><span class="descendants">: 338</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41058671">
-          <h3>
-            <a class="item" href="https://biocircuits.github.io/index.html"
-              >Biological Circuit Design</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-24 @ 16:22:58</span
-              ><span class="points-container"
-                >Points: <span class="points">153</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41058671"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41058424">
-          <h3>
-            <a
-              class="item"
-              href="https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/"
-              >Phish-friendly domain registry ".top" put on notice</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-24 @ 16:03:30</span
-              ><span class="points-container"
-                >Points: <span class="points">199</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41058424"
-                  >Comments</a
-                ><span class="descendants">: 142</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41056694">
-          <h3>
-            <a
-              class="item"
-              href="https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/"
-              >Physicists may now have a way to make element 120</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-24 @ 13:06:41</span
-              ><span class="points-container"
-                >Points: <span class="points">175</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41056694"
-                  >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 339</span></span
               >
             </h4>
           </section>
@@ -678,7 +782,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41042929"
                   >Comments</a
-                ><span class="descendants">: 735</span></span
+                ><span class="descendants">: 739</span></span
               >
             </h4>
           </section>
@@ -704,23 +808,24 @@
             </h4>
           </section>
         </section>
-        <section id="41036506">
+        <section id="41032097">
           <h3>
             <a
               class="item"
-              href="https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/"
-              >The Puzzle of How Large-Scale Order Emerges in Complex Systems</a
+              href="https://www.bell-labs.com/usr/dmr/www/hopl.html"
+              >Five little languages and how they grew: Dennis Ritchie's talk at
+              HOPL on the</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-07-22 @ 16:47:10</span
+              <span>2024-07-22 @ 08:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41036506"
+                ><a href="https://news.ycombinator.com/item?id=41032097"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -735,7 +840,7 @@
             <h4>
               <span>2024-07-21 @ 17:12:59</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41026480"
                   >Comments</a
