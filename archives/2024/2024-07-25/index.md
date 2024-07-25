@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
+* [2024-07-25, 09:06:36](https://news.ycombinator.com/item?id=41066470) - [Hugo awards organisers reveal thousands spent on fraudulent votes](https://www.theguardian.com/books/article/2024/jul/23/hugo-awards-fraudulent-votes-paid-for-one-author-ntwnfb)
 * [2024-07-25, 08:40:06](https://news.ycombinator.com/item?id=41066303) - [Versioned Finite-State Machines with PostgreSQL (2019)](https://raphael.medaer.me/2019/06/12/pgfsm.html)
 * [2024-07-25, 07:00:15](https://news.ycombinator.com/item?id=41065552) - [Wasmer (YC S19) Is Hiring Senior Front End Engineers](https://www.workatastartup.com/jobs/45795)
 * [2024-07-25, 06:44:45](https://news.ycombinator.com/item?id=41065444) - [Roblox's Predator Problem [video]](https://www.youtube.com/watch?v=DD6cac64fc4)

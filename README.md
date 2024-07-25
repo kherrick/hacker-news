@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
+* [2024-07-25, 09:06:36](https://news.ycombinator.com/item?id=41066470) - [Hugo awards organisers reveal thousands spent on fraudulent votes](https://www.theguardian.com/books/article/2024/jul/23/hugo-awards-fraudulent-votes-paid-for-one-author-ntwnfb)
 * [2024-07-25, 08:40:06](https://news.ycombinator.com/item?id=41066303) - [Versioned Finite-State Machines with PostgreSQL (2019)](https://raphael.medaer.me/2019/06/12/pgfsm.html)
 * [2024-07-25, 07:00:15](https://news.ycombinator.com/item?id=41065552) - [Wasmer (YC S19) Is Hiring Senior Front End Engineers](https://www.workatastartup.com/jobs/45795)
 * [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
@@ -24,8 +26,6 @@
 * [2024-07-24, 15:52:06](https://news.ycombinator.com/item?id=41058292) - [Hiding Linux Processes with Bind Mounts](https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/)
 * [2024-07-24, 14:57:14](https://news.ycombinator.com/item?id=41057766) - [InteractiVenn – Interactive Venn Diagrams](https://interactivenn.net/index.html)
 * [2024-07-24, 13:06:41](https://news.ycombinator.com/item?id=41056694) - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
-* [2024-07-24, 04:35:27](https://news.ycombinator.com/item?id=41053645) - [Preliminary Post Incident Review](https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/)
-* [2024-07-23, 10:52:57](https://news.ycombinator.com/item?id=41044657) - [Rediscovering Transaction Processing from History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 05:54:39](https://news.ycombinator.com/item?id=41042929) - [Alexa is in millions of households and Amazon is losing billions](https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a)
 * [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
 * [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
