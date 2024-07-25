@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 20:05:44](https://news.ycombinator.com/item?id=41072795) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-25, 19:39:46](https://news.ycombinator.com/item?id=41072549) - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
-* [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
+* [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 * [2024-07-25, 18:21:47](https://news.ycombinator.com/item?id=41071708) - [Secure Boot is broken on 200 models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 * [2024-07-25, 17:00:56](https://news.ycombinator.com/item?id=41070876) - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
@@ -27,7 +28,6 @@
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-24, 20:35:49](https://news.ycombinator.com/item?id=41061755) - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-24, 13:41:10](https://news.ycombinator.com/item?id=41057030) - [Show HN: A personalised AI tutor with < 1s voice responses](https://educationbot.cerebrium.ai/)
-* [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When objects are not enough (2021)](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five Little Languages and How They Grew: Talk at HOPL (1993)](https://www.bell-labs.com/usr/dmr/www/hopl.html)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
 
