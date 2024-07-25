@@ -84,6 +84,7 @@
 * [2024-07-22, 11:25:46](https://news.ycombinator.com/item?id=41033177) - [Can you tell if these images are real or generated?](https://britannicaeducation.com/blog/quiz-real-or-ai/)
 * [2024-07-22, 11:06:22](https://news.ycombinator.com/item?id=41033042) - [Demystifying Cookies and Tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
+* [2024-07-22, 10:57:49](https://news.ycombinator.com/item?id=41032991) - [Finalizers, Guardians, Phantom References](https://wingolog.org/archives/2024/07/22/finalizers-guardians-phantom-references-et-cetera)
 * [2024-07-22, 10:43:51](https://news.ycombinator.com/item?id=41032918) - [No One Expects Young Men to Do Anything and They Respond by Doing Nothing (2022)](https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything)
 * [2024-07-22, 10:12:24](https://news.ycombinator.com/item?id=41032694) - [Web Crap Has Taken Control](https://medium.com/@fulalas/web-crap-has-taken-control-71c459df6e62)
 * [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five little languages and how they grew: Dennis Ritchie's talk at HOPL on the](https://www.bell-labs.com/usr/dmr/www/hopl.html)
