@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-25, 12:00:35",
+      "https://news.ycombinator.com/item?id=41067578"
+    ],
+    [
+      "Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)",
+      "https://boards.greenhouse.io/supabase/jobs/5225004004"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 10:50:32",
       "https://news.ycombinator.com/item?id=41067051"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2024-07-25, 08:47:04",
-      "https://news.ycombinator.com/item?id=41066340"
-    ],
-    [
-      "Should AI workloads run on Kubernetes?",
-      "https://blog.skypilot.co/ai-on-kubernetes/"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 08:40:06",
       "https://news.ycombinator.com/item?id=41066303"
     ],
@@ -107,16 +107,6 @@
     [
       "Show HN: Compile Erlang to WASM and run as HTTP/incoming-handler",
       "https://github.com/muromec/erwasm-http"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 07:00:15",
-      "https://news.ycombinator.com/item?id=41065552"
-    ],
-    [
-      "Wasmer (YC S19) Is Hiring Senior Front End Engineers",
-      "https://www.workatastartup.com/jobs/45795"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "eBPF Offensive Capabilities – Get Ready for Next-Gen Malware (2023)",
       "https://sysdig.com/blog/ebpf-offensive-capabilities/"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 21:39:55",
+      "https://news.ycombinator.com/item?id=41062451"
+    ],
+    [
+      "Show HN: Hooper – AI-driven stats and highlights for basketball play",
+      "https://www.hooper.gg"
     ]
   ],
   [
