@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-25, 02:57:37",
+      "https://news.ycombinator.com/item?id=41064351"
+    ],
+    [
+      "Node.js adds experimental support for TypeScript",
+      "https://github.com/nodejs/node/pull/53725"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 01:10:21",
       "https://news.ycombinator.com/item?id=41063853"
     ],
@@ -167,16 +177,6 @@
     [
       "A Multimodal Automated Interpretability Agent",
       "https://arxiv.org/abs/2404.14394"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 12:35:00",
-      "https://news.ycombinator.com/item?id=41056387"
-    ],
-    [
-      "You got a null result. Will anyone publish it?",
-      "https://www.nature.com/articles/d41586-024-02383-9"
     ]
   ],
   [
