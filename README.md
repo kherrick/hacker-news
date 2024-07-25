@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-25, 02:26:31](https://news.ycombinator.com/item?id=41064217) - [Cutting forests for solar energy 'misses the plot' on climate action](https://news.mongabay.com/2024/05/cutting-forests-for-solar-energy-misses-the-plot-on-climate-action-commentary/)
 * [2024-07-25, 01:10:21](https://news.ycombinator.com/item?id=41063853) - [500M-Year-Old 'Alien Fish Taco' Was Among First Creatures with Jaws](https://www.scientificamerican.com/article/500-million-year-old-alien-fish-taco-was-among-first-creatures-with-jaws/)
 * [2024-07-24, 23:27:57](https://news.ycombinator.com/item?id=41063307) - [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
 * [2024-07-24, 21:39:55](https://news.ycombinator.com/item?id=41062451) - [Show HN: Hooper – AI-driven stats and highlights for basketball play](https://www.hooper.gg)
@@ -23,6 +22,7 @@
 * [2024-07-24, 04:35:27](https://news.ycombinator.com/item?id=41053645) - [Preliminary Post Incident Review](https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/)
 * [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
 * [2024-07-24, 00:22:04](https://news.ycombinator.com/item?id=41052446) - [Pnut: A C to POSIX shell compiler you can trust](https://pnut.sh)
+* [2024-07-23, 19:49:44](https://news.ycombinator.com/item?id=41050055) - [Hydrothermal explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics officials try to catch “motor doping”](https://spectrum.ieee.org/motor-doping-cycling)
 * [2024-07-23, 10:52:57](https://news.ycombinator.com/item?id=41044657) - [Rediscovering Transaction Processing from History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 05:54:39](https://news.ycombinator.com/item?id=41042929) - [Alexa is in millions of households and Amazon is losing billions](https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a)
