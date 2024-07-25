@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-25, 12:00:35](https://news.ycombinator.com/item?id=41067578) - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
-* [2024-07-25, 11:31:54](https://news.ycombinator.com/item?id=41067316) - [Is a Universal Basic Income System Even Possible?](https://gizmodo.com/is-a-universal-basic-income-system-even-possible-2000469538)
+* [2024-07-25, 11:44:25](https://news.ycombinator.com/item?id=41067431) - [Southwest Airlines Is Ditching Open Seating on Flights](https://www.wsj.com/business/airlines/southwest-airlines-is-ditching-open-seating-on-flights-25bb30fd)
+* [2024-07-25, 11:15:03](https://news.ycombinator.com/item?id=41067208) - [We bought everything needed to make $3M worth of fentanyl](https://www.reuters.com/investigates/special-report/drugs-fentanyl-supplychain/)
 * [2024-07-25, 10:54:14](https://news.ycombinator.com/item?id=41067079) - [Why Levittown Didn't Revolutionize Homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
-* [2024-07-25, 10:50:32](https://news.ycombinator.com/item?id=41067051) - [One-dose nasal spray clears toxic Alzheimer's proteins to improve memory](https://newatlas.com/health-wellbeing/nasal-spray-tau-proteins-alzheimers/)
 * [2024-07-25, 10:22:45](https://news.ycombinator.com/item?id=41066872) - [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)
 * [2024-07-25, 09:18:13](https://news.ycombinator.com/item?id=41066544) - [Defense of Lisp Macros](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
@@ -11,12 +11,11 @@
 * [2024-07-25, 08:19:57](https://news.ycombinator.com/item?id=41066169) - [Replay.io is discontinuing Replay Test Suites](https://blog.replay.io/a-new-direction)
 * [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
 * [2024-07-25, 06:10:38](https://news.ycombinator.com/item?id=41065227) - [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
-* [2024-07-25, 05:16:39](https://news.ycombinator.com/item?id=41064950) - [Google Search: Roboto Mono](https://www.google.com/search?q=roboto+mono+font)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-25, 02:53:14](https://news.ycombinator.com/item?id=41064333) - [What Is Toybox?](http://landley.net/toybox/)
+* [2024-07-24, 23:27:57](https://news.ycombinator.com/item?id=41063307) - [Fossil hints that Jurassic mammals lived slow and died old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
 * [2024-07-24, 23:22:57](https://news.ycombinator.com/item?id=41063258) - [Humans 1, Chimps 0: Correcting the Record](https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record)
-* [2024-07-24, 22:23:48](https://news.ycombinator.com/item?id=41062838) - [eBPF Offensive Capabilities – Get Ready for Next-Gen Malware (2023)](https://sysdig.com/blog/ebpf-offensive-capabilities/)
 * [2024-07-24, 21:39:55](https://news.ycombinator.com/item?id=41062451) - [Show HN: Hooper – AI-driven stats and highlights for basketball play](https://www.hooper.gg)
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-24, 20:35:49](https://news.ycombinator.com/item?id=41061755) - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
@@ -30,6 +29,7 @@
 * [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When Objects Are Not Enough](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
 * [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
+* [2024-07-21, 14:17:01](https://news.ycombinator.com/item?id=41025267) - [When eyesight fades and climbing provides comfort](https://www.lacrux.com/en/videos/when-eyesight-fades-and-climbing-provides-comfort/)
 
 ## [Archives](archives/index.md)
 

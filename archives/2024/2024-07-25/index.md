@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
 * [2024-07-25, 12:00:35](https://news.ycombinator.com/item?id=41067578) - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
+* [2024-07-25, 11:44:25](https://news.ycombinator.com/item?id=41067431) - [Southwest Airlines Is Ditching Open Seating on Flights](https://www.wsj.com/business/airlines/southwest-airlines-is-ditching-open-seating-on-flights-25bb30fd)
 * [2024-07-25, 11:31:54](https://news.ycombinator.com/item?id=41067316) - [Is a Universal Basic Income System Even Possible?](https://gizmodo.com/is-a-universal-basic-income-system-even-possible-2000469538)
+* [2024-07-25, 11:15:03](https://news.ycombinator.com/item?id=41067208) - [We bought everything needed to make $3M worth of fentanyl](https://www.reuters.com/investigates/special-report/drugs-fentanyl-supplychain/)
 * [2024-07-25, 10:54:14](https://news.ycombinator.com/item?id=41067079) - [Why Levittown Didn't Revolutionize Homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
 * [2024-07-25, 10:50:32](https://news.ycombinator.com/item?id=41067051) - [One-dose nasal spray clears toxic Alzheimer's proteins to improve memory](https://newatlas.com/health-wellbeing/nasal-spray-tau-proteins-alzheimers/)
 * [2024-07-25, 10:40:57](https://news.ycombinator.com/item?id=41066984) - [Switzerland Makes Open Source Software Mandatory for Public Sector](https://news.itsfoss.com/switzerland-open-source/)
