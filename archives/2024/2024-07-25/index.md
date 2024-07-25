@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 22:12:57](https://news.ycombinator.com/item?id=41073930) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-07-25, 21:40:49](https://news.ycombinator.com/item?id=41073688) - [U.S. Department of Defense – Detecting Agile BS [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 * [2024-07-25, 21:33:07](https://news.ycombinator.com/item?id=41073637) - [How the American war on porn could change the way you use the internet](https://www.bbc.com/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet)
 * [2024-07-25, 21:04:07](https://news.ycombinator.com/item?id=41073363) - [Why is Xi Jinping building secret commodity stockpiles?](https://www.economist.com/finance-and-economics/2024/07/23/why-is-xi-jinping-building-secret-commodity-stockpiles)
@@ -12,6 +13,7 @@
 * [2024-07-25, 20:34:40](https://news.ycombinator.com/item?id=41073086) - [Octopus farming in the U.S. would be banned under a new bill in Congress](https://www.npr.org/2024/07/25/nx-s1-5051801/octopus-farming-ban-us-congress)
 * [2024-07-25, 20:05:44](https://news.ycombinator.com/item?id=41072795) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-25, 19:54:02](https://news.ycombinator.com/item?id=41072668) - [Arch is a gateway drug to NixOS](https://wastedintel.ca/2024/07/25/arch-is-a-gateway-drug-to-nixos/)
+* [2024-07-25, 19:48:35](https://news.ycombinator.com/item?id=41072616) - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 * [2024-07-25, 19:39:46](https://news.ycombinator.com/item?id=41072549) - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
 * [2024-07-25, 19:10:12](https://news.ycombinator.com/item?id=41072256) - [What Rupert Murdoch Owns, and How He Built His Media Empire](https://www.nytimes.com/2024/07/25/business/rupert-murdoch-empire.html)
 * [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
