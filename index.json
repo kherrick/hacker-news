@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-25, 23:37:29",
+      "https://news.ycombinator.com/item?id=41074574"
+    ],
+    [
+      "Chicken wings advertised as 'boneless' can have bones,Ohio Supreme Court decides",
+      "https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 22:12:57",
       "https://news.ycombinator.com/item?id=41073930"
     ],
@@ -37,16 +47,6 @@
     [
       "Applied Machine Learning for Tabular Data",
       "https://aml4td.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 19:10:12",
-      "https://news.ycombinator.com/item?id=41072256"
-    ],
-    [
-      "What Rupert Murdoch Owns, and How He Built His Media Empire",
-      "https://www.nytimes.com/2024/07/25/business/rupert-murdoch-empire.html"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-07-24, 23:22:57",
-      "https://news.ycombinator.com/item?id=41063258"
-    ],
-    [
-      "Humans 1, Chimps 0: Correcting the Record",
-      "https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record"
-    ]
-  ],
-  [
-    [
       "2024-07-24, 21:02:09",
       "https://news.ycombinator.com/item?id=41062072"
     ],
@@ -277,6 +267,16 @@
     [
       "Real-Time Procedural Generation with GPU Work Graphs [pdf]",
       "https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 10:57:49",
+      "https://news.ycombinator.com/item?id=41032991"
+    ],
+    [
+      "Finalizers, Guardians, Phantom References",
+      "https://wingolog.org/archives/2024/07/22/finalizers-guardians-phantom-references-et-cetera"
     ]
   ],
   [
