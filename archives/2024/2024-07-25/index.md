@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 21:33:07](https://news.ycombinator.com/item?id=41073637) - [How the American war on porn could change the way you use the internet](https://www.bbc.com/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet)
+* [2024-07-25, 21:04:07](https://news.ycombinator.com/item?id=41073363) - [Why is Xi Jinping building secret commodity stockpiles?](https://www.economist.com/finance-and-economics/2024/07/23/why-is-xi-jinping-building-secret-commodity-stockpiles)
 * [2024-07-25, 21:00:59](https://news.ycombinator.com/item?id=41073328) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41073328)
 * [2024-07-25, 20:53:50](https://news.ycombinator.com/item?id=41073264) - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 * [2024-07-25, 20:34:40](https://news.ycombinator.com/item?id=41073086) - [Octopus farming in the U.S. would be banned under a new bill in Congress](https://www.npr.org/2024/07/25/nx-s1-5051801/octopus-farming-ban-us-congress)

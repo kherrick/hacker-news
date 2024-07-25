@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 21:33:07](https://news.ycombinator.com/item?id=41073637) - [How the American war on porn could change the way you use the internet](https://www.bbc.com/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet)
+* [2024-07-25, 21:04:07](https://news.ycombinator.com/item?id=41073363) - [Why is Xi Jinping building secret commodity stockpiles?](https://www.economist.com/finance-and-economics/2024/07/23/why-is-xi-jinping-building-secret-commodity-stockpiles)
 * [2024-07-25, 20:53:50](https://news.ycombinator.com/item?id=41073264) - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 * [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [Jacek Karpińśki, the computer genius the communists couldn't stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 * [2024-07-25, 17:00:56](https://news.ycombinator.com/item?id=41070876) - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -10,7 +12,6 @@
 * [2024-07-25, 15:29:41](https://news.ycombinator.com/item?id=41069829) - [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 * [2024-07-25, 15:17:01](https://news.ycombinator.com/item?id=41069681) - [Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
 * [2024-07-25, 15:04:24](https://news.ycombinator.com/item?id=41069527) - [Mapping Hacker News to find who knows what in the HN community](https://blog.wilsonl.in/hackerverse-2/#)
-* [2024-07-25, 14:52:38](https://news.ycombinator.com/item?id=41069403) - [Let's consign CAP to the cabinet of curiosities](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 14:41:26](https://news.ycombinator.com/item?id=41069256) - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
 * [2024-07-25, 14:21:36](https://news.ycombinator.com/item?id=41068995) - [Memory Mapping an FPGA from an STM32](https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html)
 * [2024-07-25, 13:54:14](https://news.ycombinator.com/item?id=41068719) - [Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas](https://haystackeditor.com/)
@@ -18,7 +19,6 @@
 * [2024-07-25, 12:04:09](https://news.ycombinator.com/item?id=41067616) - [A chemist explains the chemistry behind decaf coffee](https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196)
 * [2024-07-25, 09:18:13](https://news.ycombinator.com/item?id=41066544) - [Defense of Lisp macros: The automotive field as a case in point](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
-* [2024-07-25, 08:40:06](https://news.ycombinator.com/item?id=41066303) - [Versioned finite-state machines with Postgres (2019)](https://raphael.medaer.me/2019/06/12/pgfsm.html)
 * [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
 * [2024-07-25, 06:10:38](https://news.ycombinator.com/item?id=41065227) - [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
