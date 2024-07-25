@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 15:36:57](https://news.ycombinator.com/item?id=41069909) - [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
+* [2024-07-25, 15:36:51](https://news.ycombinator.com/item?id=41069908) - [Southwest Airlines Will End Its Longstanding Open-Seating Policy](https://www.nytimes.com/2024/07/25/business/southwest-airlines-assigned-seating.html)
+* [2024-07-25, 15:35:39](https://news.ycombinator.com/item?id=41069896) - [CrowdStrike faces backlash as 'thank you' gift cards are blocked](https://www.theguardian.com/technology/article/2024/jul/25/crowdstrike-workers-ubereats-vouchers)
+* [2024-07-25, 15:29:41](https://news.ycombinator.com/item?id=41069829) - [AI solves IMO problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 * [2024-07-25, 15:25:52](https://news.ycombinator.com/item?id=41069788) - [Machines might not take your job. But they could make it worse](https://www.economist.com/business/2024/07/25/machines-might-not-take-your-job-but-they-could-make-it-worse)
 * [2024-07-25, 15:17:37](https://news.ycombinator.com/item?id=41069691) - [Twice-yearly injection offers 100% protection against HIV](https://www.nbcnews.com/health/health-news/hiv-injection-twice-yearly-offers-protection-rcna163406)
 * [2024-07-25, 15:12:50](https://news.ycombinator.com/item?id=41069626) - [Microsoft Confirms New Blue Screen Warning for Windows 10 and 11 Users](https://www.forbes.com/sites/daveywinder/2024/07/24/microsofts-new-blue-screen-warning-for-windows-10-11-and-server-users/)

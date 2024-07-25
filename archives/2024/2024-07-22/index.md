@@ -85,6 +85,7 @@
 * [2024-07-22, 11:00:16](https://news.ycombinator.com/item?id=41033005) - [Unconditional Cash Study: first findings available](https://www.openresearchlab.org/studies/unconditional-cash-study/study)
 * [2024-07-22, 10:43:51](https://news.ycombinator.com/item?id=41032918) - [No One Expects Young Men to Do Anything and They Respond by Doing Nothing (2022)](https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything)
 * [2024-07-22, 10:12:24](https://news.ycombinator.com/item?id=41032694) - [Web Crap Has Taken Control](https://medium.com/@fulalas/web-crap-has-taken-control-71c459df6e62)
+* [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five little languages and how they grew: Dennis Ritchie's talk at HOPL on the](https://www.bell-labs.com/usr/dmr/www/hopl.html)
 * [2024-07-22, 08:33:05](https://news.ycombinator.com/item?id=41032038) - [Autism can be reversed, scientists discover](https://www.telegraph.co.uk/news/2024/07/20/severe-autism-can-be-reversed-groundbreaking-study-suggests/)
 * [2024-07-22, 08:26:07](https://news.ycombinator.com/item?id=41031998) - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 * [2024-07-22, 08:22:16](https://news.ycombinator.com/item?id=41031975) - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
