@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 18:16:08](https://news.ycombinator.com/item?id=41071649) - [OpenAI announces SearchGPT, its AI-powered search engine](https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival)
+* [2024-07-25, 18:15:05](https://news.ycombinator.com/item?id=41071639) - [OpenAI Announces SearchGPT](https://chatgpt.com/search)
+* [2024-07-25, 18:11:03](https://news.ycombinator.com/item?id=41071585) - [SearchGPT Prototype](https://openai.com/index/searchgpt-prototype/)
 * [2024-07-25, 17:00:56](https://news.ycombinator.com/item?id=41070876) - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
 * [2024-07-25, 16:44:50](https://news.ycombinator.com/item?id=41070703) - [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
