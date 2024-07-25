@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 15:25:52](https://news.ycombinator.com/item?id=41069788) - [Machines might not take your job. But they could make it worse](https://www.economist.com/business/2024/07/25/machines-might-not-take-your-job-but-they-could-make-it-worse)
+* [2024-07-25, 15:17:37](https://news.ycombinator.com/item?id=41069691) - [Twice-yearly injection offers 100% protection against HIV](https://www.nbcnews.com/health/health-news/hiv-injection-twice-yearly-offers-protection-rcna163406)
 * [2024-07-25, 15:12:50](https://news.ycombinator.com/item?id=41069626) - [Microsoft Confirms New Blue Screen Warning for Windows 10 and 11 Users](https://www.forbes.com/sites/daveywinder/2024/07/24/microsofts-new-blue-screen-warning-for-windows-10-11-and-server-users/)
 * [2024-07-25, 14:52:38](https://news.ycombinator.com/item?id=41069403) - [The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 14:41:26](https://news.ycombinator.com/item?id=41069256) - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
@@ -7,7 +9,6 @@
 * [2024-07-25, 13:27:53](https://news.ycombinator.com/item?id=41068451) - [PostgREST – Serve a RESTful API from Any Postgres Database](https://github.com/PostgREST/postgrest)
 * [2024-07-25, 12:04:09](https://news.ycombinator.com/item?id=41067616) - [A chemist explains the chemistry behind decaf coffee](https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196)
 * [2024-07-25, 12:00:35](https://news.ycombinator.com/item?id=41067578) - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
-* [2024-07-25, 10:54:14](https://news.ycombinator.com/item?id=41067079) - [Why Levittown Didn't Revolutionize Homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
 * [2024-07-25, 09:18:13](https://news.ycombinator.com/item?id=41066544) - [Defense of Lisp Macros](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
 * [2024-07-25, 08:40:06](https://news.ycombinator.com/item?id=41066303) - [Versioned Finite-State Machines with PostgreSQL (2019)](https://raphael.medaer.me/2019/06/12/pgfsm.html)
@@ -28,7 +29,6 @@
 * [2024-07-23, 05:54:39](https://news.ycombinator.com/item?id=41042929) - [Alexa is in millions of households and Amazon is losing billions](https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a)
 * [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When Objects Are Not Enough (2021)](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
-* [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 15:25:52](https://news.ycombinator.com/item?id=41069788) - [Machines might not take your job. But they could make it worse](https://www.economist.com/business/2024/07/25/machines-might-not-take-your-job-but-they-could-make-it-worse)
+* [2024-07-25, 15:17:37](https://news.ycombinator.com/item?id=41069691) - [Twice-yearly injection offers 100% protection against HIV](https://www.nbcnews.com/health/health-news/hiv-injection-twice-yearly-offers-protection-rcna163406)
 * [2024-07-25, 15:12:50](https://news.ycombinator.com/item?id=41069626) - [Microsoft Confirms New Blue Screen Warning for Windows 10 and 11 Users](https://www.forbes.com/sites/daveywinder/2024/07/24/microsofts-new-blue-screen-warning-for-windows-10-11-and-server-users/)
 * [2024-07-25, 14:52:38](https://news.ycombinator.com/item?id=41069403) - [The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 14:41:26](https://news.ycombinator.com/item?id=41069256) - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
