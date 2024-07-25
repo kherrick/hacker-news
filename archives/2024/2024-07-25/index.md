@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 10:07:21](https://news.ycombinator.com/item?id=41066811) - [CrowdStrike will be liable for damages in France](https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
 * [2024-07-25, 09:06:36](https://news.ycombinator.com/item?id=41066470) - [Hugo awards organisers reveal thousands spent on fraudulent votes](https://www.theguardian.com/books/article/2024/jul/23/hugo-awards-fraudulent-votes-paid-for-one-author-ntwnfb)
 * [2024-07-25, 08:40:06](https://news.ycombinator.com/item?id=41066303) - [Versioned Finite-State Machines with PostgreSQL (2019)](https://raphael.medaer.me/2019/06/12/pgfsm.html)

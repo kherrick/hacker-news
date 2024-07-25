@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 10:07:21](https://news.ycombinator.com/item?id=41066811) - [CrowdStrike will be liable for damages in France](https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
 * [2024-07-25, 09:06:36](https://news.ycombinator.com/item?id=41066470) - [Hugo awards organisers reveal thousands spent on fraudulent votes](https://www.theguardian.com/books/article/2024/jul/23/hugo-awards-fraudulent-votes-paid-for-one-author-ntwnfb)
 * [2024-07-25, 08:40:06](https://news.ycombinator.com/item?id=41066303) - [Versioned Finite-State Machines with PostgreSQL (2019)](https://raphael.medaer.me/2019/06/12/pgfsm.html)
@@ -8,7 +9,6 @@
 * [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
 * [2024-07-25, 06:10:38](https://news.ycombinator.com/item?id=41065227) - [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
 * [2024-07-25, 05:58:16](https://news.ycombinator.com/item?id=41065156) - [EU parliament member hit by Israeli Candiru spyware](https://twitter.com/moo9000/status/1816352054425829420)
-* [2024-07-25, 05:38:49](https://news.ycombinator.com/item?id=41065062) - [Working the International Space Station from a Commodore 64](https://www.alickgardiner.com/c64-packet-radio/)
 * [2024-07-25, 05:16:39](https://news.ycombinator.com/item?id=41064950) - [Google Search: Roboto Mono](https://www.google.com/search?q=roboto+mono+font)
 * [2024-07-25, 04:22:42](https://news.ycombinator.com/item?id=41064681) - [The Open Group Base Specifications Issue 8](https://pubs.opengroup.org/onlinepubs/9799919799/)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
