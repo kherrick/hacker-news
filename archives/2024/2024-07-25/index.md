@@ -8,6 +8,7 @@
 * [2024-07-25, 06:44:45](https://news.ycombinator.com/item?id=41065444) - [Roblox's Predator Problem [video]](https://www.youtube.com/watch?v=DD6cac64fc4)
 * [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
 * [2024-07-25, 06:10:38](https://news.ycombinator.com/item?id=41065227) - [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
+* [2024-07-25, 06:08:39](https://news.ycombinator.com/item?id=41065214) - [New source of Oxygen found in deep sea](https://www.nature.com/articles/d41586-024-02393-7)
 * [2024-07-25, 05:58:16](https://news.ycombinator.com/item?id=41065156) - [EU parliament member hit by Israeli Candiru spyware](https://twitter.com/moo9000/status/1816352054425829420)
 * [2024-07-25, 05:38:49](https://news.ycombinator.com/item?id=41065062) - [Working the International Space Station from a Commodore 64](https://www.alickgardiner.com/c64-packet-radio/)
 * [2024-07-25, 05:16:39](https://news.ycombinator.com/item?id=41064950) - [Google Search: Roboto Mono](https://www.google.com/search?q=roboto+mono+font)
