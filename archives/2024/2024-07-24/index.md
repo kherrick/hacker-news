@@ -12,6 +12,7 @@
 * [2024-07-24, 22:00:24](https://news.ycombinator.com/item?id=41062658) - [ULTRA drone flies for days in military test](https://www.axios.com/2024/07/24/ultra-intel-drone-air-force-testing)
 * [2024-07-24, 21:48:16](https://news.ycombinator.com/item?id=41062539) - [Half-Life Door Sound [video]](https://www.youtube.com/watch?v=i0k_lZ13nUA)
 * [2024-07-24, 21:40:53](https://news.ycombinator.com/item?id=41062460) - [Twitter API leak reveals group of protected users that are allowed to break TOS](https://twitter.com/TheAntifaTurtle/status/1816199705598255470)
+* [2024-07-24, 21:22:38](https://news.ycombinator.com/item?id=41062292) - [Ask HN: Am I crazy or is Android development awful?](https://news.ycombinator.com/item?id=41062292)
 * [2024-07-24, 20:35:49](https://news.ycombinator.com/item?id=41061755) - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-24, 20:30:09](https://news.ycombinator.com/item?id=41061689) - [Ask HN: Thoughts on shadow banning and other dick moves by Silicon Valley?](https://news.ycombinator.com/item?id=41061689)
 * [2024-07-24, 20:30:04](https://news.ycombinator.com/item?id=41061688) - [AMD delays Ryzen 9000 launch to August \"out of an abundance of caution\"](https://arstechnica.com/gadgets/2024/07/quality-issue-pushes-amds-ryzen-9000-cpu-launch-from-july-to-august/)
