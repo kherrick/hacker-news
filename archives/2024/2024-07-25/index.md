@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 * [2024-07-25, 18:21:47](https://news.ycombinator.com/item?id=41071708) - [Secure Boot is completely broken on 200 models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 * [2024-07-25, 18:16:08](https://news.ycombinator.com/item?id=41071649) - [OpenAI announces SearchGPT, its AI-powered search engine](https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival)
 * [2024-07-25, 18:15:05](https://news.ycombinator.com/item?id=41071639) - [OpenAI Announces SearchGPT](https://chatgpt.com/search)
@@ -35,6 +36,7 @@
 * [2024-07-25, 14:13:13](https://news.ycombinator.com/item?id=41068907) - [Gaia-X is a distraction which should be abandoned](https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/)
 * [2024-07-25, 14:02:46](https://news.ycombinator.com/item?id=41068804) - [AOC's Deepfake AI Porn Bill Unanimously Passes the Senate](https://www.rollingstone.com/politics/politics-news/aoc-deepfake-porn-bill-senate-1235067061/)
 * [2024-07-25, 13:57:40](https://news.ycombinator.com/item?id=41068757) - [Senate to Vote on Web Censorship Bill Disguised as Kids Safety](https://reason.com/2024/07/24/senate-to-vote-on-web-censorship-bill-disguised-as-kids-safety/)
+* [2024-07-25, 13:54:14](https://news.ycombinator.com/item?id=41068719) - [Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas](https://haystackeditor.com/)
 * [2024-07-25, 13:27:53](https://news.ycombinator.com/item?id=41068451) - [PostgREST – Serve a RESTful API from Any Postgres Database](https://github.com/PostgREST/postgrest)
 * [2024-07-25, 13:15:10](https://news.ycombinator.com/item?id=41068318) - [The end of Mbed marks a new beginning for Arduino](https://blog.arduino.cc/2024/07/24/the-end-of-mbed-marks-a-new-beginning-for-arduino/)
 * [2024-07-25, 13:13:14](https://news.ycombinator.com/item?id=41068294) - [What's so hard about constexpr allocation?](https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/)
