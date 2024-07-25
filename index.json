@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-25, 19:10:12",
-      "https://news.ycombinator.com/item?id=41072256"
+      "2024-07-25, 20:53:50",
+      "https://news.ycombinator.com/item?id=41073264"
     ],
     [
-      "What Rupert Murdoch Owns, and How He Built His Media Empire",
-      "https://www.nytimes.com/2024/07/25/business/rupert-murdoch-empire.html"
+      "A Clone of Deluxe Paint II Written in Python",
+      "https://github.com/mriale/PyDPainter"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-07-25, 15:34:55",
-      "https://news.ycombinator.com/item?id=41069886"
-    ],
-    [
-      "Tuning-Free Personalized Image Generation",
-      "https://ai.meta.com/research/publications/imagine-yourself-tuning-free-personalized-image-generation/"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 15:29:41",
       "https://news.ycombinator.com/item?id=41069829"
     ],
@@ -97,6 +87,16 @@
     [
       "Show HN: Tiny Moon – Swift library to calculate the moon phase",
       "https://github.com/mannylopez/TinyMoon"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 15:04:24",
+      "https://news.ycombinator.com/item?id=41069527"
+    ],
+    [
+      "Mapping Hacker News to find who knows what in the HN community",
+      "https://blog.wilsonl.in/hackerverse-2/#"
     ]
   ],
   [
