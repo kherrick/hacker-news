@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 07:00:15](https://news.ycombinator.com/item?id=41065552) - [Wasmer (YC S19) Is Hiring Senior Front End Engineers](https://www.workatastartup.com/jobs/45795)
 * [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
 * [2024-07-25, 06:10:38](https://news.ycombinator.com/item?id=41065227) - [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
 * [2024-07-25, 05:58:16](https://news.ycombinator.com/item?id=41065156) - [EU parliament member hit by Israeli Candiru spyware](https://twitter.com/moo9000/status/1816352054425829420)
 * [2024-07-25, 05:38:49](https://news.ycombinator.com/item?id=41065062) - [Working the International Space Station from a Commodore 64](https://www.alickgardiner.com/c64-packet-radio/)
 * [2024-07-25, 05:16:39](https://news.ycombinator.com/item?id=41064950) - [Google Search: Roboto Mono](https://www.google.com/search?q=roboto+mono+font)
+* [2024-07-25, 04:25:26](https://news.ycombinator.com/item?id=41064698) - [$1T Rout Hits Nasdaq 100 over AI Jitters in Worst Day Since 2022](https://www.bloomberg.com/news/articles/2024-07-24/ai-fever-cools-sending-nasdaq-100-into-1-trillion-tailspin)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-25, 02:53:14](https://news.ycombinator.com/item?id=41064333) - [What Is Toybox?](http://landley.net/toybox/)
@@ -16,7 +18,6 @@
 * [2024-07-24, 18:24:02](https://news.ycombinator.com/item?id=41060102) - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 18:00:17](https://news.ycombinator.com/item?id=41059821) - [Show HN: NoteTech – Create personal automations by writing notes](https://www.simpltech.ai)
 * [2024-07-24, 17:20:44](https://news.ycombinator.com/item?id=41059412) - [Space-filling curves, constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)
-* [2024-07-24, 17:00:07](https://news.ycombinator.com/item?id=41059148) - [Join YC's Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
 * [2024-07-24, 16:22:58](https://news.ycombinator.com/item?id=41058671) - [Biological Circuit Design](https://biocircuits.github.io/index.html)
 * [2024-07-24, 16:03:30](https://news.ycombinator.com/item?id=41058424) - [Phish-friendly domain registry \".top\" put on notice](https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/)
 * [2024-07-24, 15:52:06](https://news.ycombinator.com/item?id=41058292) - [Hiding Linux Processes with Bind Mounts](https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/)
@@ -28,7 +29,6 @@
 * [2024-07-23, 05:54:39](https://news.ycombinator.com/item?id=41042929) - [Alexa is in millions of households and Amazon is losing billions](https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a)
 * [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
 * [2024-07-22, 13:44:19](https://news.ycombinator.com/item?id=41034297) - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
-* [2024-07-21, 14:28:35](https://news.ycombinator.com/item?id=41025341) - [Why Discover is no American Express](https://www.popularfintech.com/p/why-discover-is-no-american-express)
 * [2024-07-21, 14:17:01](https://news.ycombinator.com/item?id=41025267) - [When eyesight fades and climbing provides comfort](https://www.lacrux.com/en/videos/when-eyesight-fades-and-climbing-provides-comfort/)
 
 ## [Archives](archives/index.md)
