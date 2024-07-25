@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41071708"
     ],
     [
-      "Secure Boot is completely broken on 200 models from 5 big device makers",
+      "Secure Boot is broken on 200 models from 5 big device makers",
       "https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/"
     ]
   ],
@@ -67,6 +67,16 @@
     [
       "Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers",
       "https://news.ycombinator.com/item?id=41069909"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 15:34:55",
+      "https://news.ycombinator.com/item?id=41069886"
+    ],
+    [
+      "Tuning-Free Personalized Image Generation",
+      "https://ai.meta.com/research/publications/imagine-yourself-tuning-free-personalized-image-generation/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Dungeons and Dragons taught me how to write alt text",
       "https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 20:04:24",
-      "https://news.ycombinator.com/item?id=41061390"
-    ],
-    [
-      "A multimodal dataset with one trillion tokens",
-      "https://github.com/mlfoundations/MINT-1T"
     ]
   ],
   [
