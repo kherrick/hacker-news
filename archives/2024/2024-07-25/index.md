@@ -9,6 +9,7 @@
 * [2024-07-25, 20:05:44](https://news.ycombinator.com/item?id=41072795) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-25, 19:54:02](https://news.ycombinator.com/item?id=41072668) - [Arch is a gateway drug to NixOS](https://wastedintel.ca/2024/07/25/arch-is-a-gateway-drug-to-nixos/)
 * [2024-07-25, 19:39:46](https://news.ycombinator.com/item?id=41072549) - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
+* [2024-07-25, 19:10:12](https://news.ycombinator.com/item?id=41072256) - [What Rupert Murdoch Owns, and How He Built His Media Empire](https://www.nytimes.com/2024/07/25/business/rupert-murdoch-empire.html)
 * [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 * [2024-07-25, 18:27:56](https://news.ycombinator.com/item?id=41071774) - [Oracle's Java pricing brews bitter taste, subscribers spill over to OpenJDK](https://www.theregister.com/2024/07/25/oracle_java_licensing_changes/)
 * [2024-07-25, 18:21:47](https://news.ycombinator.com/item?id=41071708) - [Secure Boot is completely broken on 200 models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)

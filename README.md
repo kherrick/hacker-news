@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-25, 21:00:59](https://news.ycombinator.com/item?id=41073328) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41073328)
-* [2024-07-25, 19:39:46](https://news.ycombinator.com/item?id=41072549) - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
-* [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
+* [2024-07-25, 19:10:12](https://news.ycombinator.com/item?id=41072256) - [What Rupert Murdoch Owns, and How He Built His Media Empire](https://www.nytimes.com/2024/07/25/business/rupert-murdoch-empire.html)
+* [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [Jacek Karpińśki, the computer genius the communists couldn't stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
+* [2024-07-25, 17:00:56](https://news.ycombinator.com/item?id=41070876) - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
 * [2024-07-25, 16:44:50](https://news.ycombinator.com/item?id=41070703) - [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
 * [2024-07-25, 16:18:34](https://news.ycombinator.com/item?id=41070428) - [Show HN: Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
