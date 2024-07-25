@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 05:58:16](https://news.ycombinator.com/item?id=41065156) - [EU parliament member hit by Israeli Candiru spyware](https://twitter.com/moo9000/status/1816352054425829420)
+* [2024-07-25, 05:38:49](https://news.ycombinator.com/item?id=41065062) - [Working the International Space Station from a Commodore 64](https://www.alickgardiner.com/c64-packet-radio/)
+* [2024-07-25, 05:16:39](https://news.ycombinator.com/item?id=41064950) - [Google Search: Roboto Mono](https://www.google.com/search?q=roboto+mono+font)
+* [2024-07-25, 04:25:26](https://news.ycombinator.com/item?id=41064698) - [$1T Rout Hits Nasdaq 100 over AI Jitters in Worst Day Since 2022](https://www.bloomberg.com/news/articles/2024-07-24/ai-fever-cools-sending-nasdaq-100-into-1-trillion-tailspin)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [The secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-25, 03:15:10](https://news.ycombinator.com/item?id=41064414) - [Japan chain uses AI to gauge staff smiles, speech tones in QoS push](https://www.scmp.com/news/people-culture/article/3271333/japan-supermarket-chain-uses-ai-gauge-staff-smiles-speech-tones-quality-service-push)
 * [2024-07-25, 03:06:17](https://news.ycombinator.com/item?id=41064383) - [Navy SEALs, Sailors Who Refused Covid Vaccine Will Have Records Expunged](https://www.military.com/daily-news/2024/07/24/navy-seals-sailors-who-refused-covid-vaccine-will-have-records-expunged-after-legal-settlement.html)
