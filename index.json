@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-07-25, 14:13:13",
-      "https://news.ycombinator.com/item?id=41068907"
-    ],
-    [
-      "Gaia-X is a distraction which should be abandoned",
-      "https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 13:54:14",
       "https://news.ycombinator.com/item?id=41068719"
     ],
@@ -187,6 +177,16 @@
     [
       "My Favorite Algorithm: Linear Time Median Finding (2018)",
       "https://rcoh.me/posts/linear-time-median-finding/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 08:40:06",
+      "https://news.ycombinator.com/item?id=41066303"
+    ],
+    [
+      "Versioned finite-state machines with Postgres (2019)",
+      "https://raphael.medaer.me/2019/06/12/pgfsm.html"
     ]
   ],
   [
