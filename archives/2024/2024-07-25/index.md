@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 14:02:46](https://news.ycombinator.com/item?id=41068804) - [AOC's Deepfake AI Porn Bill Unanimously Passes the Senate](https://www.rollingstone.com/politics/politics-news/aoc-deepfake-porn-bill-senate-1235067061/)
+* [2024-07-25, 13:15:10](https://news.ycombinator.com/item?id=41068318) - [The end of Mbed marks a new beginning for Arduino](https://blog.arduino.cc/2024/07/24/the-end-of-mbed-marks-a-new-beginning-for-arduino/)
 * [2024-07-25, 13:05:23](https://news.ycombinator.com/item?id=41068215) - [CrowdStrike is offering a $10 UberEats gift card as an apology for the outage](https://www.techradar.com/pro/crowdstrike-is-offering-a-dollar10-ubereats-gift-card-as-an-apology-for-the-recent-outage)
 * [2024-07-25, 12:00:35](https://news.ycombinator.com/item?id=41067578) - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 * [2024-07-25, 11:47:57](https://news.ycombinator.com/item?id=41067468) - [Third Party Cookies Must Be Removed from the Web Platform](https://www.w3.org/2001/tag/doc/web-without-3p-cookies/)
