@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 20:34:40](https://news.ycombinator.com/item?id=41073086) - [Octopus farming in the U.S. would be banned under a new bill in Congress](https://www.npr.org/2024/07/25/nx-s1-5051801/octopus-farming-ban-us-congress)
 * [2024-07-25, 20:05:44](https://news.ycombinator.com/item?id=41072795) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-25, 19:39:46](https://news.ycombinator.com/item?id=41072549) - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
 * [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
@@ -13,7 +14,6 @@
 * [2024-07-25, 15:34:55](https://news.ycombinator.com/item?id=41069886) - [Tuning-Free Personalized Image Generation](https://ai.meta.com/research/publications/imagine-yourself-tuning-free-personalized-image-generation/)
 * [2024-07-25, 15:29:41](https://news.ycombinator.com/item?id=41069829) - [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 * [2024-07-25, 15:17:01](https://news.ycombinator.com/item?id=41069681) - [Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
-* [2024-07-25, 14:52:38](https://news.ycombinator.com/item?id=41069403) - [Let's consign CAP to the cabinet of curiosities](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 14:41:26](https://news.ycombinator.com/item?id=41069256) - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
 * [2024-07-25, 14:21:36](https://news.ycombinator.com/item?id=41068995) - [Memory Mapping an FPGA from an STM32](https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html)
 * [2024-07-25, 13:54:14](https://news.ycombinator.com/item?id=41068719) - [Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas](https://haystackeditor.com/)
@@ -27,7 +27,7 @@
 * [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-24, 13:41:10](https://news.ycombinator.com/item?id=41057030) - [Show HN: A personalised AI tutor with < 1s voice responses](https://educationbot.cerebrium.ai/)
-* [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When objects are not enough (2021)](https://www.tonysm.com/when-objects-are-not-enough/)
+* [2024-07-22, 14:49:36](https://news.ycombinator.com/item?id=41035084) - [Real-Time Procedural Generation with GPU Work Graphs [pdf]](https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf)
 * [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five Little Languages and How They Grew: Talk at HOPL (1993)](https://www.bell-labs.com/usr/dmr/www/hopl.html)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
 

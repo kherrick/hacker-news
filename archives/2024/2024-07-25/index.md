@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 20:34:40](https://news.ycombinator.com/item?id=41073086) - [Octopus farming in the U.S. would be banned under a new bill in Congress](https://www.npr.org/2024/07/25/nx-s1-5051801/octopus-farming-ban-us-congress)
 * [2024-07-25, 20:05:44](https://news.ycombinator.com/item?id=41072795) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-25, 19:39:46](https://news.ycombinator.com/item?id=41072549) - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
 * [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
