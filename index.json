@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-07-25, 22:09:59",
-      "https://news.ycombinator.com/item?id=41073907"
-    ],
-    [
-      "Is the nervous system a democracy? (2016)",
-      "https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 21:40:38",
-      "https://news.ycombinator.com/item?id=41073686"
-    ],
-    [
-      "The Decline of Mobile Development",
-      "https://www.donnfelker.com/the-decline-of-mobile-development/"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 20:53:50",
       "https://news.ycombinator.com/item?id=41073264"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-07-25, 08:40:06",
+      "https://news.ycombinator.com/item?id=41066303"
+    ],
+    [
+      "Versioned finite-state machines with Postgres (2019)",
+      "https://raphael.medaer.me/2019/06/12/pgfsm.html"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 04:14:57",
       "https://news.ycombinator.com/item?id=41064645"
     ],
@@ -247,6 +237,16 @@
     [
       "Node.js adds experimental support for TypeScript",
       "https://github.com/nodejs/node/pull/53725"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 23:22:57",
+      "https://news.ycombinator.com/item?id=41063258"
+    ],
+    [
+      "Humans 1, Chimps 0: Correcting the Record",
+      "https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record"
     ]
   ],
   [
