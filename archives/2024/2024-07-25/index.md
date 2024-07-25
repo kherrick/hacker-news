@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 08:40:06](https://news.ycombinator.com/item?id=41066303) - [Versioned Finite-State Machines with PostgreSQL (2019)](https://raphael.medaer.me/2019/06/12/pgfsm.html)
 * [2024-07-25, 07:00:15](https://news.ycombinator.com/item?id=41065552) - [Wasmer (YC S19) Is Hiring Senior Front End Engineers](https://www.workatastartup.com/jobs/45795)
 * [2024-07-25, 06:44:45](https://news.ycombinator.com/item?id=41065444) - [Roblox's Predator Problem [video]](https://www.youtube.com/watch?v=DD6cac64fc4)
 * [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
