@@ -2,6 +2,7 @@
 
 * [2024-07-25, 20:34:40](https://news.ycombinator.com/item?id=41073086) - [Octopus farming in the U.S. would be banned under a new bill in Congress](https://www.npr.org/2024/07/25/nx-s1-5051801/octopus-farming-ban-us-congress)
 * [2024-07-25, 20:05:44](https://news.ycombinator.com/item?id=41072795) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
+* [2024-07-25, 19:54:02](https://news.ycombinator.com/item?id=41072668) - [Arch is a gateway drug to NixOS](https://wastedintel.ca/2024/07/25/arch-is-a-gateway-drug-to-nixos/)
 * [2024-07-25, 19:39:46](https://news.ycombinator.com/item?id=41072549) - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
 * [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [The Computer Genius the Communists Couldn't Stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 * [2024-07-25, 18:27:56](https://news.ycombinator.com/item?id=41071774) - [Oracle's Java pricing brews bitter taste, subscribers spill over to OpenJDK](https://www.theregister.com/2024/07/25/oracle_java_licensing_changes/)
@@ -21,7 +22,6 @@
 * [2024-07-25, 12:04:09](https://news.ycombinator.com/item?id=41067616) - [A chemist explains the chemistry behind decaf coffee](https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196)
 * [2024-07-25, 09:18:13](https://news.ycombinator.com/item?id=41066544) - [Defense of Lisp macros: The automotive field as a case in point](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
-* [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
 * [2024-07-25, 06:10:38](https://news.ycombinator.com/item?id=41065227) - [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
