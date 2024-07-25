@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 16:10:15](https://news.ycombinator.com/item?id=41070319) - [Japanese population sees greatest fall amid record foreigner growth and numbers](https://www.asahi.com/ajw/articles/15361310)
 * [2024-07-25, 15:36:57](https://news.ycombinator.com/item?id=41069909) - [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
 * [2024-07-25, 15:36:51](https://news.ycombinator.com/item?id=41069908) - [Southwest Airlines Will End Its Longstanding Open-Seating Policy](https://www.nytimes.com/2024/07/25/business/southwest-airlines-assigned-seating.html)
 * [2024-07-25, 15:35:39](https://news.ycombinator.com/item?id=41069896) - [CrowdStrike faces backlash as 'thank you' gift cards are blocked](https://www.theguardian.com/technology/article/2024/jul/25/crowdstrike-workers-ubereats-vouchers)
+* [2024-07-25, 15:34:55](https://news.ycombinator.com/item?id=41069886) - [Meta Releases Dreambooth Technique Requiring No Finetuning](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/452604312_1010783860585222_5768506504946476980_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YAv_wnbaeV4Q7kNvgFYk-3h&_nc_ht=scontent-sjc3-1.xx&oh=00_AYA8prM7RdSnA8iWL_UPB6qpQKjkeBOtp8zxoco6qb1Chw&oe=66A84FAB)
 * [2024-07-25, 15:29:41](https://news.ycombinator.com/item?id=41069829) - [AI solves IMO problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 * [2024-07-25, 15:29:30](https://news.ycombinator.com/item?id=41069825) - [Watch Carbon Dioxide Move Through Earth's Atmosphere](https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/)
 * [2024-07-25, 15:25:52](https://news.ycombinator.com/item?id=41069788) - [Machines might not take your job. But they could make it worse](https://www.economist.com/business/2024/07/25/machines-might-not-take-your-job-but-they-could-make-it-worse)
 * [2024-07-25, 15:17:37](https://news.ycombinator.com/item?id=41069691) - [Twice-yearly injection offers 100% protection against HIV](https://www.nbcnews.com/health/health-news/hiv-injection-twice-yearly-offers-protection-rcna163406)
+* [2024-07-25, 15:17:01](https://news.ycombinator.com/item?id=41069681) - [Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
 * [2024-07-25, 15:12:50](https://news.ycombinator.com/item?id=41069626) - [Microsoft Confirms New Blue Screen Warning for Windows 10 and 11 Users](https://www.forbes.com/sites/daveywinder/2024/07/24/microsofts-new-blue-screen-warning-for-windows-10-11-and-server-users/)
+* [2024-07-25, 15:04:24](https://news.ycombinator.com/item?id=41069527) - [Mapping Hacker News to find who knows what in the HN community](https://blog.wilsonl.in/hackerverse-2/#)
 * [2024-07-25, 14:52:38](https://news.ycombinator.com/item?id=41069403) - [The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 14:41:26](https://news.ycombinator.com/item?id=41069256) - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
 * [2024-07-25, 14:21:57](https://news.ycombinator.com/item?id=41069002) - [US economic growth increased last quarter to a healthy 2.8% annual rate](https://apnews.com/article/economy-growth-inflation-gdp-consumers-federal-reserve-ffba812f747d18d1f09fcf804fe4eceb)
