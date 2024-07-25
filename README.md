@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-25, 06:26:40](https://news.ycombinator.com/item?id=41065326) - [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
 * [2024-07-25, 06:10:38](https://news.ycombinator.com/item?id=41065227) - [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
 * [2024-07-25, 05:58:16](https://news.ycombinator.com/item?id=41065156) - [EU parliament member hit by Israeli Candiru spyware](https://twitter.com/moo9000/status/1816352054425829420)
 * [2024-07-25, 05:38:49](https://news.ycombinator.com/item?id=41065062) - [Working the International Space Station from a Commodore 64](https://www.alickgardiner.com/c64-packet-radio/)
@@ -23,7 +24,6 @@
 * [2024-07-24, 13:06:41](https://news.ycombinator.com/item?id=41056694) - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
 * [2024-07-24, 12:42:53](https://news.ycombinator.com/item?id=41056463) - [A Multimodal Automated Interpretability Agent](https://arxiv.org/abs/2404.14394)
 * [2024-07-24, 04:35:27](https://news.ycombinator.com/item?id=41053645) - [Preliminary Post Incident Review](https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/)
-* [2024-07-24, 00:49:26](https://news.ycombinator.com/item?id=41052593) - [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
 * [2024-07-23, 10:52:57](https://news.ycombinator.com/item?id=41044657) - [Rediscovering Transaction Processing from History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 05:54:39](https://news.ycombinator.com/item?id=41042929) - [Alexa is in millions of households and Amazon is losing billions](https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a)
 * [2024-07-22, 16:47:10](https://news.ycombinator.com/item?id=41036506) - [The Puzzle of How Large-Scale Order Emerges in Complex Systems](https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/)
