@@ -21,36 +21,6 @@
   ],
   [
     [
-      "2024-07-25, 22:03:01",
-      "https://news.ycombinator.com/item?id=41073849"
-    ],
-    [
-      "Federal judge upholds FTC ban on noncompete agreements",
-      "https://thehill.com/business/4790236-federal-trade-commission-noncompete-ban/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 21:40:49",
-      "https://news.ycombinator.com/item?id=41073688"
-    ],
-    [
-      "U.S. Department of Defense – Detecting Agile BS [pdf]",
-      "https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 21:04:07",
-      "https://news.ycombinator.com/item?id=41073363"
-    ],
-    [
-      "Why is Xi Jinping building commodity stockpiles?",
-      "https://www.economist.com/finance-and-economics/2024/07/23/why-is-xi-jinping-building-secret-commodity-stockpiles"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 20:53:50",
       "https://news.ycombinator.com/item?id=41073264"
     ],
@@ -67,6 +37,16 @@
     [
       "HellPot – A portal to endless suffering meant to punish unruly HTTP bots",
       "https://github.com/yunginnanet/HellPot"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 19:48:35",
+      "https://news.ycombinator.com/item?id=41072616"
+    ],
+    [
+      "Applied Machine Learning for Tabular Data",
+      "https://aml4td.org/"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-07-25, 04:14:57",
+      "https://news.ycombinator.com/item?id=41064645"
+    ],
+    [
+      "Investigating corrupt Winamp skins",
+      "https://jordaneldredge.com/notes/corrupted-skins/"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 02:57:37",
       "https://news.ycombinator.com/item?id=41064351"
     ],
     [
       "Node.js adds experimental support for TypeScript",
       "https://github.com/nodejs/node/pull/53725"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 02:53:14",
+      "https://news.ycombinator.com/item?id=41064333"
+    ],
+    [
+      "What is Toybox?",
+      "http://landley.net/toybox/"
     ]
   ],
   [
