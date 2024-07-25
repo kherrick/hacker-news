@@ -6,7 +6,7 @@
 * [2024-07-25, 17:00:56](https://news.ycombinator.com/item?id=41070876) - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
 * [2024-07-25, 16:44:50](https://news.ycombinator.com/item?id=41070703) - [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
-* [2024-07-25, 16:18:34](https://news.ycombinator.com/item?id=41070428) - [Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
+* [2024-07-25, 16:18:34](https://news.ycombinator.com/item?id=41070428) - [Show HN: Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
 * [2024-07-25, 15:36:57](https://news.ycombinator.com/item?id=41069909) - [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
 * [2024-07-25, 15:29:41](https://news.ycombinator.com/item?id=41069829) - [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 * [2024-07-25, 15:17:01](https://news.ycombinator.com/item?id=41069681) - [Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
