@@ -21,32 +21,22 @@
   ],
   [
     [
+      "2024-07-25, 16:44:50",
+      "https://news.ycombinator.com/item?id=41070703"
+    ],
+    [
+      "Ask HN: Best way to learn robotics with a 10 year old?",
+      "https://news.ycombinator.com/item?id=41070703"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 16:18:34",
       "https://news.ycombinator.com/item?id=41070428"
     ],
     [
       "Wat – Deep inspection of Python objects",
       "https://github.com/igrek51/wat"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 16:13:11",
-      "https://news.ycombinator.com/item?id=41070364"
-    ],
-    [
-      "Costs from Global Outage Could Exceed $1B – But Determining Liability Is Complex",
-      "https://thelawreporters.com/costs-from-global-outage-could-exceed-1b-but-determining-liability-is-complex/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 15:55:00",
-      "https://news.ycombinator.com/item?id=41070114"
-    ],
-    [
-      "The most, and least, walkable cities",
-      "https://www.economist.com/interactive/2024-walkable-cities"
     ]
   ],
   [
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41069403"
     ],
     [
-      "The CAP theorem Is Irrelevant for Cloud Systems",
+      "Let's consign CAP to the cabinet of curiosities",
       "https://brooker.co.za/blog/2024/07/25/cap-again.html"
     ]
   ],
@@ -111,6 +101,26 @@
   ],
   [
     [
+      "2024-07-25, 14:13:13",
+      "https://news.ycombinator.com/item?id=41068907"
+    ],
+    [
+      "Gaia-X is a distraction which should be abandoned",
+      "https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 13:13:14",
+      "https://news.ycombinator.com/item?id=41068294"
+    ],
+    [
+      "What's so hard about constexpr allocation?",
+      "https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 12:04:09",
       "https://news.ycombinator.com/item?id=41067616"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=41066544"
     ],
     [
-      "Defense of Lisp Macros",
+      "Defense of Lisp macros: The automotive field as a case in point",
       "https://mihaiolteanu.me/defense-of-lisp-macros"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=41066303"
     ],
     [
-      "Versioned Finite-State Machines with PostgreSQL (2019)",
+      "Versioned finite-state machines with Postgres (2019)",
       "https://raphael.medaer.me/2019/06/12/pgfsm.html"
     ]
   ],
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=41064333"
     ],
     [
-      "What Is Toybox?",
+      "What is Toybox?",
       "http://landley.net/toybox/"
     ]
   ],
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2024-07-24, 18:24:02",
-      "https://news.ycombinator.com/item?id=41060102"
-    ],
-    [
-      "Anyone can access deleted and private repository data on GitHub",
-      "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 05:54:39",
-      "https://news.ycombinator.com/item?id=41042929"
-    ],
-    [
-      "Alexa is in millions of households and Amazon is losing billions",
-      "https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 20:48:07",
       "https://news.ycombinator.com/item?id=41039647"
     ],
     [
-      "When Objects Are Not Enough (2021)",
+      "When objects are not enough (2021)",
       "https://www.tonysm.com/when-objects-are-not-enough/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 16:47:10",
+      "https://news.ycombinator.com/item?id=41036506"
+    ],
+    [
+      "The Puzzle of How Large-Scale Order Emerges in Complex Systems",
+      "https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=41032097"
     ],
     [
-      "Five little languages and how they grew: Dennis Ritchie's talk at HOPL on the",
+      "Five Little Languages and How They Grew: Talk at HOPL (1993)",
       "https://www.bell-labs.com/usr/dmr/www/hopl.html"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=41019354"
     ],
     [
-      "The first currency in history: Kingdom of Lydia minted gold, silver coins (2022)",
+      "The Kingdom of Lydia minted gold, silver coins (2022)",
       "https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold"
     ]
   ]
