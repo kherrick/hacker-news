@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 16:26:50](https://news.ycombinator.com/item?id=41070517) - [We just caught our first \"BANANA \"](https://twitter.com/karinemellata/status/1805429294841446815)
 * [2024-07-25, 16:10:15](https://news.ycombinator.com/item?id=41070319) - [Japanese population sees greatest fall amid record foreigner growth and numbers](https://www.asahi.com/ajw/articles/15361310)
 * [2024-07-25, 15:36:57](https://news.ycombinator.com/item?id=41069909) - [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
 * [2024-07-25, 15:36:51](https://news.ycombinator.com/item?id=41069908) - [Southwest Airlines Will End Its Longstanding Open-Seating Policy](https://www.nytimes.com/2024/07/25/business/southwest-airlines-assigned-seating.html)
