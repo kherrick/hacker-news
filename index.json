@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-26, 14:58:53",
+      "https://news.ycombinator.com/item?id=41079157"
+    ],
+    [
+      "Why Proton VPN doesn't use RAM-only VPN servers",
+      "https://protonvpn.com/blog/ram-only-servers"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 14:55:41",
+      "https://news.ycombinator.com/item?id=41079123"
+    ],
+    [
+      "Chrome will now prompt some users to send passwords for suspicious files",
+      "https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 14:43:35",
       "https://news.ycombinator.com/item?id=41079020"
     ],
@@ -31,12 +51,42 @@
   ],
   [
     [
+      "2024-07-26, 14:09:24",
+      "https://news.ycombinator.com/item?id=41078795"
+    ],
+    [
+      "Power-hungry data centres scrambling to find enough electricity to meet demand",
+      "https://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 14:03:53",
+      "https://news.ycombinator.com/item?id=41078759"
+    ],
+    [
+      "File.haus – Anonymously upload up to 300GB",
+      "https://filehaus.su/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 13:13:36",
       "https://news.ycombinator.com/item?id=41078354"
     ],
     [
       "Melting ice is slowing Earth's spin, shifting its axis and influencing its core",
       "https://www.nbcnews.com/science/environment/melting-ice-shifting-earth-spin-axis-core-rcna162089"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 13:07:07",
+      "https://news.ycombinator.com/item?id=41078307"
+    ],
+    [
+      "AI existential risk probabilities are too unreliable to inform policy",
+      "https://www.aisnakeoil.com/p/ai-existential-risk-probabilities"
     ]
   ],
   [
@@ -57,26 +107,6 @@
     [
       "A hash table by any other name",
       "https://lwn.net/Articles/972580/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 03:04:19",
-      "https://news.ycombinator.com/item?id=41075476"
-    ],
-    [
-      "Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL",
-      "https://github.com/paulmooreparks/ClifferBasic"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 23:25:00",
-      "https://news.ycombinator.com/item?id=41074500"
-    ],
-    [
-      "Dual action antibiotic could make bacterial resistance nearly impossible",
-      "https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Applied Machine Learning for Tabular Data",
       "https://aml4td.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 17:00:03",
-      "https://news.ycombinator.com/item?id=41070870"
-    ],
-    [
-      "Unfashionably secure: why we use isolated VMs",
-      "https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas",
       "https://haystackeditor.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 12:04:09",
-      "https://news.ycombinator.com/item?id=41067616"
-    ],
-    [
-      "A chemist explains the chemistry behind decaf coffee",
-      "https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Real-Time Procedural Generation with GPU Work Graphs [pdf]",
       "https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 08:42:03",
-      "https://news.ycombinator.com/item?id=41032097"
-    ],
-    [
-      "Five Little Languages and How They Grew: Talk at HOPL (1993)",
-      "https://www.bell-labs.com/usr/dmr/www/hopl.html"
     ]
   ],
   [
