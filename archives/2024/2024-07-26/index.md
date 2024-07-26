@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 22:27:26](https://news.ycombinator.com/item?id=41082877) - [MIT 11.350 – Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
 * [2024-07-26, 22:09:16](https://news.ycombinator.com/item?id=41082752) - [Apex Surplus is a movie industry props and parts source](https://apexsurplus.com)
 * [2024-07-26, 21:49:19](https://news.ycombinator.com/item?id=41082624) - [Funtoo Linux is shutting down](https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/)
 * [2024-07-26, 21:34:00](https://news.ycombinator.com/item?id=41082502) - [Crooks Bypassed Google's Email Verification to Create Workspace Accounts, Acces](https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/)
