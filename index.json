@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-07-25, 23:37:29",
-      "https://news.ycombinator.com/item?id=41074574"
+      "2024-07-26, 01:12:02",
+      "https://news.ycombinator.com/item?id=41075066"
     ],
     [
-      "Chicken wings advertised as 'boneless' can have bones,Ohio Supreme Court decides",
-      "https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"
+      "C# almost has implicit interfaces",
+      "https://clipperhouse.com/c-sharp-implicit-interfaces/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 01:06:36",
+      "https://news.ycombinator.com/item?id=41075043"
+    ],
+    [
+      "Southwest to get rid of open seating, offer extra legroom",
+      "https://www.cnbc.com/2024/07/25/southwest-airlines-seat-assignments.html"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41074022"
     ],
     [
-      "Cameo was once valued at $1B. Now it's so broke it can't pay a $600K fine",
+      "Cameo was once valued at $1B",
       "https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers",
       "https://news.ycombinator.com/item?id=41069909"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 15:34:55",
-      "https://news.ycombinator.com/item?id=41069886"
-    ],
-    [
-      "Tuning-Free Personalized Image Generation",
-      "https://ai.meta.com/research/publications/imagine-yourself-tuning-free-personalized-image-generation/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-07-25, 08:40:06",
-      "https://news.ycombinator.com/item?id=41066303"
-    ],
-    [
-      "Versioned finite-state machines with Postgres (2019)",
-      "https://raphael.medaer.me/2019/06/12/pgfsm.html"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 04:14:57",
       "https://news.ycombinator.com/item?id=41064645"
     ],
@@ -297,6 +287,16 @@
     [
       "Veles: Open-source tool for binary data analysis",
       "https://codisec.com/veles/"
+    ]
+  ],
+  [
+    [
+      "2024-07-20, 05:27:09",
+      "https://news.ycombinator.com/item?id=41014298"
+    ],
+    [
+      "A GIF animation loop, 2015, Duration 1k years",
+      "https://www.aslongaspossible.com/"
     ]
   ]
 ]
