@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 16:31:06](https://news.ycombinator.com/item?id=41079948) - [Ask HN: Best resources to learn about Search and Information retrieval](https://news.ycombinator.com/item?id=41079948)
 * [2024-07-26, 16:22:34](https://news.ycombinator.com/item?id=41079901) - [There is no fix for Intel's crashing 13th/14th Gen CPUs – damage is permanent](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
+* [2024-07-26, 16:16:47](https://news.ycombinator.com/item?id=41079841) - [LLMs will not automate work](https://www.noahpinion.blog/p/yes-we-still-have-to-work)
 * [2024-07-26, 16:14:15](https://news.ycombinator.com/item?id=41079814) - [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
+* [2024-07-26, 16:03:51](https://news.ycombinator.com/item?id=41079707) - [Ask HN: Could experienced developers have near 0 online prescence?](https://news.ycombinator.com/item?id=41079707)
 * [2024-07-26, 15:12:32](https://news.ycombinator.com/item?id=41079264) - [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
 * [2024-07-26, 14:58:53](https://news.ycombinator.com/item?id=41079157) - [Why Proton VPN doesn't use RAM-only VPN servers](https://protonvpn.com/blog/ram-only-servers)
 * [2024-07-26, 14:55:41](https://news.ycombinator.com/item?id=41079123) - [Chrome will now prompt some users to send passwords for suspicious files](https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/)

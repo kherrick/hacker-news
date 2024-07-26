@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-26, 16:22:34](https://news.ycombinator.com/item?id=41079901) - [There is no fix for Intel's crashing 13th/14th Gen CPUs – damage is permanent](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
-* [2024-07-26, 16:14:15](https://news.ycombinator.com/item?id=41079814) - [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
+* [2024-07-26, 16:31:06](https://news.ycombinator.com/item?id=41079948) - [Ask HN: Best resources to learn about Search and Information retrieval](https://news.ycombinator.com/item?id=41079948)
+* [2024-07-26, 16:16:47](https://news.ycombinator.com/item?id=41079841) - [LLMs will not automate work](https://www.noahpinion.blog/p/yes-we-still-have-to-work)
+* [2024-07-26, 16:03:51](https://news.ycombinator.com/item?id=41079707) - [Ask HN: Could experienced developers have near 0 online prescence?](https://news.ycombinator.com/item?id=41079707)
 * [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-26, 10:39:03](https://news.ycombinator.com/item?id=41077496) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
@@ -12,7 +13,6 @@
 * [2024-07-25, 20:53:50](https://news.ycombinator.com/item?id=41073264) - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 * [2024-07-25, 19:48:35](https://news.ycombinator.com/item?id=41072616) - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
-* [2024-07-25, 16:44:50](https://news.ycombinator.com/item?id=41070703) - [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
 * [2024-07-25, 16:18:34](https://news.ycombinator.com/item?id=41070428) - [Show HN: Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
 * [2024-07-25, 15:36:57](https://news.ycombinator.com/item?id=41069909) - [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
 * [2024-07-25, 15:29:41](https://news.ycombinator.com/item?id=41069829) - [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
