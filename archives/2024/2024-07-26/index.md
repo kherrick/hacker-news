@@ -22,6 +22,7 @@
 * [2024-07-26, 11:52:46](https://news.ycombinator.com/item?id=41077841) - [U.S. Commercial Real Estate Is Headed Toward a Crisis](https://hbr.org/2024/07/u-s-commercial-real-estate-is-headed-toward-a-crisis)
 * [2024-07-26, 11:43:14](https://news.ycombinator.com/item?id=41077798) - [French rail network hit by 'malicious acts' ahead of Paris Olympics](https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony)
 * [2024-07-26, 11:40:58](https://news.ycombinator.com/item?id=41077786) - [Fuzzify: A tiny library for fuzzy search](https://github.com/ad1992/fuzzify)
+* [2024-07-26, 10:39:03](https://news.ycombinator.com/item?id=41077496) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 * [2024-07-26, 09:14:28](https://news.ycombinator.com/item?id=41077061) - [French train network hit by 'malicious' arson attacks](https://www.bbc.com/news/live/cxe24vg59lzt)
 * [2024-07-26, 08:42:04](https://news.ycombinator.com/item?id=41076905) - [Using Rust to corrode insane Python run-times](https://www.vortexa.com/product-blog/using-rust-to-corrode-insane-python-run-times/)
 * [2024-07-26, 08:23:08](https://news.ycombinator.com/item?id=41076831) - [France High-Speed Rail Traffic Disrupted by 'Malicious Acts' on Olympic Ceremony](https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html)
