@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 17:50:42](https://news.ycombinator.com/item?id=41080644) - [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
+* [2024-07-26, 17:45:08](https://news.ycombinator.com/item?id=41080599) - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
+* [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 * [2024-07-26, 17:31:03](https://news.ycombinator.com/item?id=41080485) - [Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
 * [2024-07-26, 17:25:14](https://news.ycombinator.com/item?id=41080442) - [How a car cigarette lighter works, in CT scans](https://www.lumafield.com/article/how-does-a-car-cigarette-lighter-work)
 * [2024-07-26, 17:24:38](https://news.ycombinator.com/item?id=41080435) - [Google creates self-replicating life from digital 'primordial soup'](https://www.newscientist.com/article/2438117-google-creates-self-replicating-life-from-digital-primordial-soup/)
@@ -13,6 +16,7 @@
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental Proof Settles Geometric Langlands Conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
 * [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample (YC W24) Is Hiring](https://news.ycombinator.com/item?id=41080222)
 * [2024-07-26, 16:55:39](https://news.ycombinator.com/item?id=41080178) - [The Incredible Machine (1993)](https://www.myabandonware.com/game/the-incredible-machine-1mg/play-1mg)
+* [2024-07-26, 16:45:35](https://news.ycombinator.com/item?id=41080070) - [It is now easier to pass AP tests](https://www.wsj.com/us-news/education/advanced-placement-exams-test-scores-higher-f4dce3c2)
 * [2024-07-26, 16:44:35](https://news.ycombinator.com/item?id=41080063) - [Skip and Arc'teryx built a futuristic exoskeleton](https://www.fastcompany.com/91159743/skip-and-arcteryx-built-an-amazing-new-exoskeleton-heres-what-its-like-to-walk-in-it)
 * [2024-07-26, 16:39:59](https://news.ycombinator.com/item?id=41080018) - [Stripe Acquires Lemon Squeezy](https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy)
 * [2024-07-26, 16:31:06](https://news.ycombinator.com/item?id=41079948) - [Ask HN: Best resources to learn about Search and Information retrieval](https://news.ycombinator.com/item?id=41079948)
@@ -22,6 +26,7 @@
 * [2024-07-26, 16:14:15](https://news.ycombinator.com/item?id=41079814) - [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 16:03:51](https://news.ycombinator.com/item?id=41079707) - [Ask HN: Could experienced developers have near 0 online prescence?](https://news.ycombinator.com/item?id=41079707)
 * [2024-07-26, 15:47:28](https://news.ycombinator.com/item?id=41079571) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
+* [2024-07-26, 15:23:59](https://news.ycombinator.com/item?id=41079388) - [Captain Beefheart's 10 Commandments of Guitar Playing (1996)](https://blog.wfmu.org/freeform/2009/03/captain-beefhearts-10-commandments-of-guitar-playing.html)
 * [2024-07-26, 15:12:32](https://news.ycombinator.com/item?id=41079264) - [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
 * [2024-07-26, 14:58:53](https://news.ycombinator.com/item?id=41079157) - [Why Proton VPN doesn't use RAM-only VPN servers](https://protonvpn.com/blog/ram-only-servers)
 * [2024-07-26, 14:55:41](https://news.ycombinator.com/item?id=41079123) - [Chrome will now prompt some users to send passwords for suspicious files](https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/)
