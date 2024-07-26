@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-07-26, 18:55:30",
+      "https://news.ycombinator.com/item?id=41081238"
+    ],
+    [
+      "Europe is in danger of regulating its tech market out of existence",
+      "https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 18:19:11",
       "https://news.ycombinator.com/item?id=41080904"
     ],
     [
       "Why does the chromaticity diagram look like that?",
       "https://jlongster.com/why-chromaticity-shape"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 17:50:42",
-      "https://news.ycombinator.com/item?id=41080644"
-    ],
-    [
-      "Where should visual programming go?",
-      "https://tonsky.me/blog/diagrams/"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-07-26, 17:13:14",
-      "https://news.ycombinator.com/item?id=41080345"
-    ],
-    [
-      "Ability to Access Your Android Phone in File Explorer for Windows Insiders",
-      "https://blogs.windows.com/windows-insider/2024/07/25/ability-to-access-your-android-phone-in-file-explorer-begins-rolling-out-to-windows-insiders/"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 17:00:19",
       "https://news.ycombinator.com/item?id=41080222"
     ],
@@ -145,8 +135,18 @@
       "https://news.ycombinator.com/item?id=41079083"
     ],
     [
-      "How to optimize a CUDA matmul kernel for cuBLAS-like performance: a worklog",
+      "How to optimize a CUDA matmul kernel for cuBLAS-like performance (2022)",
       "https://siboehm.com/articles/22/CUDA-MMM"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 12:24:48",
+      "https://news.ycombinator.com/item?id=41078020"
+    ],
+    [
+      "Show HN: Word Slicer",
+      "https://wordslicer.com"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=41074485"
     ],
     [
-      "Treescope: Interactive HTML Pretty-Printer",
+      "Treescope: Interactive HTML visualization library for Python neural networks",
       "https://github.com/google-deepmind/treescope"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=41041846"
     ],
     [
-      "FCC Liability for Radio Pirates Operating on Your Property",
+      "FCC liability for radio pirates operating on your property",
       "https://www.jdsupra.com/legalnews/a-new-headache-for-landowners-fcc-9899137/"
     ]
   ],
