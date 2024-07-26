@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 12:15:00](https://news.ycombinator.com/item?id=41077960) - [BusyBox: Life Without Systemd](https://www.busybox.net/kill_it_with_fire.txt)
 * [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+* [2024-07-26, 11:52:46](https://news.ycombinator.com/item?id=41077841) - [U.S. Commercial Real Estate Is Headed Toward a Crisis](https://hbr.org/2024/07/u-s-commercial-real-estate-is-headed-toward-a-crisis)
 * [2024-07-26, 11:43:14](https://news.ycombinator.com/item?id=41077798) - [French rail network hit by 'malicious acts' ahead of Paris Olympics](https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony)
 * [2024-07-26, 11:40:58](https://news.ycombinator.com/item?id=41077786) - [Fuzzify: A tiny library for fuzzy search](https://github.com/ad1992/fuzzify)
 * [2024-07-26, 09:14:28](https://news.ycombinator.com/item?id=41077061) - [French train network hit by 'malicious' arson attacks](https://www.bbc.com/news/live/cxe24vg59lzt)
