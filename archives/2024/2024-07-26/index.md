@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 14:58:53](https://news.ycombinator.com/item?id=41079157) - [Why Proton VPN doesn't use RAM-only VPN servers](https://protonvpn.com/blog/ram-only-servers)
+* [2024-07-26, 14:55:41](https://news.ycombinator.com/item?id=41079123) - [Chrome will now prompt some users to send passwords for suspicious files](https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/)
 * [2024-07-26, 14:43:35](https://news.ycombinator.com/item?id=41079020) - [Automakers Sold Driver Data for Pennies, Senators Say](https://www.nytimes.com/2024/07/26/technology/driver-data-sold-for-pennies.html)
 * [2024-07-26, 14:28:10](https://news.ycombinator.com/item?id=41078910) - [Pilots said nothing as Southwest plane flew dangerously low over Tampa Bay](https://www.tampabay.com/news/transportation/2024/07/25/southwest-tampa-florida-flight-descent/)
 * [2024-07-26, 14:12:54](https://news.ycombinator.com/item?id=41078820) - [DARPA Brings Next-Gen US Microelectronics Manufacturing Closer to Reality](https://www.darpa.mil/news-events/2024-07-18)
+* [2024-07-26, 14:09:24](https://news.ycombinator.com/item?id=41078795) - [Power-hungry data centres scrambling to find enough electricity to meet demand](https://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808)
+* [2024-07-26, 14:03:53](https://news.ycombinator.com/item?id=41078759) - [File.haus – Anonymously upload up to 300GB](https://filehaus.su/)
 * [2024-07-26, 13:13:36](https://news.ycombinator.com/item?id=41078354) - [Melting ice is slowing Earth's spin, shifting its axis and influencing its core](https://www.nbcnews.com/science/environment/melting-ice-shifting-earth-spin-axis-core-rcna162089)
+* [2024-07-26, 13:07:07](https://news.ycombinator.com/item?id=41078307) - [AI existential risk probabilities are too unreliable to inform policy](https://www.aisnakeoil.com/p/ai-existential-risk-probabilities)
 * [2024-07-26, 13:04:12](https://news.ycombinator.com/item?id=41078283) - [Cars Are Now Computers, So How Long Will They Get Updates? Automakers Can't Say](https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/)
 * [2024-07-26, 12:15:00](https://news.ycombinator.com/item?id=41077960) - [BusyBox: Life Without Systemd](https://www.busybox.net/kill_it_with_fire.txt)
 * [2024-07-26, 12:13:09](https://news.ycombinator.com/item?id=41077946) - [AI: The Ultimate Sherlocking?](https://www.technicalchops.com/articles/ai-the-ultimate-sherlocking/)
