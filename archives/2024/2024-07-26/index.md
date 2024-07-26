@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-26](index.md)
+
+* [2024-07-26, 01:12:02](https://news.ycombinator.com/item?id=41075066) - [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
+* [2024-07-26, 01:06:36](https://news.ycombinator.com/item?id=41075043) - [Southwest to get rid of open seating, offer extra legroom](https://www.cnbc.com/2024/07/25/southwest-airlines-seat-assignments.html)
