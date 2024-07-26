@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41082752"
     ],
     [
-      "Apex Surplus is a movie industry props and parts source",
+      "Apex Surplus – a movie industry props and parts source",
       "https://apexsurplus.com"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Funtoo Linux is shutting down",
       "https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 21:44:46",
+      "https://news.ycombinator.com/item?id=41082584"
+    ],
+    [
+      "Deep Learning Interviews",
+      "https://arxiv.org/abs/2201.00650"
     ]
   ],
   [
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2024-07-26, 19:20:43",
+      "https://news.ycombinator.com/item?id=41081435"
+    ],
+    [
+      "TOTP tokens on my wrist with the smartest dumb watch",
+      "https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 18:55:30",
       "https://news.ycombinator.com/item?id=41081238"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41081021"
     ],
     [
-      "Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks",
+      "Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks",
       "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
     ]
   ],
@@ -117,16 +137,6 @@
     [
       "Why does the chromaticity diagram look like that?",
       "https://jlongster.com/why-chromaticity-shape"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 17:50:42",
-      "https://news.ycombinator.com/item?id=41080644"
-    ],
-    [
-      "Where should visual programming go?",
-      "https://tonsky.me/blog/diagrams/"
     ]
   ],
   [
@@ -201,42 +211,22 @@
   ],
   [
     [
-      "2024-07-26, 16:14:15",
-      "https://news.ycombinator.com/item?id=41079814"
-    ],
-    [
-      "Scaling One Million Checkboxes to 650M checks",
-      "https://eieio.games/essays/scaling-one-million-checkboxes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 14:50:10",
-      "https://news.ycombinator.com/item?id=41079083"
-    ],
-    [
-      "How to optimize a CUDA matmul kernel for cuBLAS-like performance (2022)",
-      "https://siboehm.com/articles/22/CUDA-MMM"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 04:26:53",
-      "https://news.ycombinator.com/item?id=41075766"
-    ],
-    [
-      "A Swiss town banned billboards. Zurich, Bern may soon follow",
-      "https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 02:31:56",
       "https://news.ycombinator.com/item?id=41075390"
     ],
     [
       "Alexandre Grothendieck, The New Universal Church (1971) [pdf]",
       "https://publish.uwo.ca/~jbell/univ.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 22:09:59",
+      "https://news.ycombinator.com/item?id=41073907"
+    ],
+    [
+      "Is the nervous system a democracy? (2016)",
+      "https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/"
     ]
   ],
   [
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2024-07-25, 10:54:14",
-      "https://news.ycombinator.com/item?id=41067079"
+      "2024-07-25, 15:11:20",
+      "https://news.ycombinator.com/item?id=41069606"
     ],
     [
-      "Why Levittown didn't revolutionize homebuilding",
-      "https://www.construction-physics.com/p/why-levittown-didnt-revolutionize"
+      "Reverse-engineering my speakers' API to get reasonable volume control",
+      "https://jamesbvaughan.com/volume-controller-1/"
     ]
   ],
   [
@@ -271,22 +261,32 @@
   ],
   [
     [
+      "2024-07-23, 21:07:55",
+      "https://news.ycombinator.com/item?id=41050885"
+    ],
+    [
+      "Understanding Performance Implications of Storage-Disaggregated Databases",
+      "https://muratbuffalo.blogspot.com/2024/07/understanding-performance-implications.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 12:33:20",
+      "https://news.ycombinator.com/item?id=41045291"
+    ],
+    [
+      "Superbabies: Putting the pieces together",
+      "https://www.lesswrong.com/posts/2uJsiQqHTjePTRqi4/superbabies-putting-the-pieces-together"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 09:34:38",
       "https://news.ycombinator.com/item?id=41044262"
     ],
     [
       "Counting bytes faster than you'd think possible",
       "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 16:34:23",
-      "https://news.ycombinator.com/item?id=41036370"
-    ],
-    [
-      "NASA Graphics Standards Manual (1975)",
-      "https://standardsmanual.com/products/nasa-graphics-standards-manual"
     ]
   ],
   [
