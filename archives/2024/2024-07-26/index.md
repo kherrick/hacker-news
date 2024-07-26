@@ -23,6 +23,7 @@
 * [2024-07-26, 09:14:28](https://news.ycombinator.com/item?id=41077061) - [French train network hit by 'malicious' arson attacks](https://www.bbc.com/news/live/cxe24vg59lzt)
 * [2024-07-26, 08:42:04](https://news.ycombinator.com/item?id=41076905) - [Using Rust to corrode insane Python run-times](https://www.vortexa.com/product-blog/using-rust-to-corrode-insane-python-run-times/)
 * [2024-07-26, 08:23:08](https://news.ycombinator.com/item?id=41076831) - [France High-Speed Rail Traffic Disrupted by 'Malicious Acts' on Olympic Ceremony](https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html)
+* [2024-07-26, 07:10:07](https://news.ycombinator.com/item?id=41076459) - [iFixit CEO takes shots at Anthropic for hitting servers a million times in 24h](https://www.pcgamer.com/software/ai/ifixit-ceo-takes-shots-at-anthropic-for-hitting-our-servers-a-million-times-in-24-hours-and-even-the-ai-companys-own-chatbot-disapproves/)
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 05:14:19](https://news.ycombinator.com/item?id=41075934) - [Zulip 9.0: Organized chat for distributed teams](https://blog.zulip.com/2024/07/25/zulip-9-0-released/)
