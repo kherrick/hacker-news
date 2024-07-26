@@ -15,6 +15,7 @@
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The Three Cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:52](https://news.ycombinator.com/item?id=41080367) - [Androgynous Peripheral Attach System](https://en.wikipedia.org/wiki/Androgynous_Peripheral_Attach_System)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental Proof Settles Geometric Langlands Conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
+* [2024-07-26, 17:13:14](https://news.ycombinator.com/item?id=41080345) - [Ability to Access Your Android Phone in File Explorer for Windows Insiders](https://blogs.windows.com/windows-insider/2024/07/25/ability-to-access-your-android-phone-in-file-explorer-begins-rolling-out-to-windows-insiders/)
 * [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample (YC W24) Is Hiring](https://news.ycombinator.com/item?id=41080222)
 * [2024-07-26, 16:55:39](https://news.ycombinator.com/item?id=41080178) - [The Incredible Machine (1993)](https://www.myabandonware.com/game/the-incredible-machine-1mg/play-1mg)
 * [2024-07-26, 16:45:35](https://news.ycombinator.com/item?id=41080070) - [It is now easier to pass AP tests](https://www.wsj.com/us-news/education/advanced-placement-exams-test-scores-higher-f4dce3c2)
