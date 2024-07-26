@@ -78,6 +78,7 @@
 * [2024-07-22, 13:36:21](https://news.ycombinator.com/item?id=41034211) - [Scan HTML even faster with SIMD instructions (C++ and C#) – Daniel Lemire's blog](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
 * [2024-07-22, 13:32:37](https://news.ycombinator.com/item?id=41034169) - [Writing Software Engineering Handbook](https://www.yusufaytas.com/on-writing-software-engineering-handbook/)
 * [2024-07-22, 13:30:29](https://news.ycombinator.com/item?id=41034147) - [Sam Altman Gave People Free Money. Here's What Happened](https://www.forbes.com/sites/sarahemerson/2024/07/22/openai-founder-sam-altman-gave-thousands-of-people-free-money-heres-what-happened/)
+* [2024-07-22, 12:32:42](https://news.ycombinator.com/item?id=41033652) - [Games for TI-83 Plus and TI-84 Plus](https://www.tiwizard.com/games-for-ti-83-plus-and-ti-84-plus-calculators/)
 * [2024-07-22, 12:21:06](https://news.ycombinator.com/item?id=41033579) - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 * [2024-07-22, 12:01:14](https://news.ycombinator.com/item?id=41033442) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-07-22, 11:29:45](https://news.ycombinator.com/item?id=41033209) - [Physicist, 98, honoured with doctorate 75 years after groundbreaking discovery](https://www.theguardian.com/science/article/2024/jul/22/physicist-rosemary-fowler-honoured-doctorate-75-years-after-discovery)
