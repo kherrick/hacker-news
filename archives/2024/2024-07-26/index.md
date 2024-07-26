@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 04:39:41](https://news.ycombinator.com/item?id=41075801) - [Great Rotation Trade Sees Investors Dump AI Giants for Less Obvious Stocks](https://www.bloomberg.com/news/articles/2024-07-26/great-rotation-trade-turns-spotlight-on-less-obvious-ai-winners)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
 * [2024-07-26, 02:32:47](https://news.ycombinator.com/item?id=41075395) - [American Suburbs Are a Horror Movie and We're the Protagonists](https://www.strongtowns.org/journal/2022/1/13/american-suburbs-are-a-horror-movie-and-were-the-protagonists)
 * [2024-07-26, 01:40:43](https://news.ycombinator.com/item?id=41075174) - ['New El Nino' discovered south of equator](https://www.reading.ac.uk/news/2024/Research-News/New-El-Nino-discovered-south-of-equator)

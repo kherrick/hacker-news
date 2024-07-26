@@ -19,6 +19,7 @@
 * [2024-07-23, 19:33:02](https://news.ycombinator.com/item?id=41049857) - [The rest of the world is building subways like crazy](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
 * [2024-07-23, 19:26:44](https://news.ycombinator.com/item?id=41049799) - [Google Drive actively scans for Copyright Violatins](https://twitter.com/1littlecoder/status/1815830211612586255)
 * [2024-07-23, 19:18:52](https://news.ycombinator.com/item?id=41049717) - [The challenges of working out how many CPUs your program can use on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/CPUCountingChallenges)
+* [2024-07-23, 19:12:20](https://news.ycombinator.com/item?id=41049666) - [Fair Chess and Simultaneous Games](https://asvarga.github.io/blog/2024/06/22/fair-chess-and-simultaneous-games.html)
 * [2024-07-23, 19:10:45](https://news.ycombinator.com/item?id=41049656) - [OpenBSD IPv6 Home Internet Gateway with AT&T Fibre](https://jgoguen.ca/posts/2024/07/20/openbsd-ipv6-home-internet-gateway-with-att-fibre/)
 * [2024-07-23, 19:02:48](https://news.ycombinator.com/item?id=41049587) - [Dtui – TUI for introspecting the state of the system/session dbus](https://github.com/Troels51/dtui)
 * [2024-07-23, 18:43:51](https://news.ycombinator.com/item?id=41049399) - [How Olympics Officials Try to Catch \"Motor Doping\"](https://spectrum.ieee.org/motor-doping-cycling)
