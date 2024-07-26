@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-26, 13:13:36](https://news.ycombinator.com/item?id=41078354) - [Melting ice is slowing Earth's spin, shifting its axis and influencing its core](https://www.nbcnews.com/science/environment/melting-ice-shifting-earth-spin-axis-core-rcna162089)
 * [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
@@ -21,7 +22,6 @@
 * [2024-07-25, 12:04:09](https://news.ycombinator.com/item?id=41067616) - [A chemist explains the chemistry behind decaf coffee](https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196)
 * [2024-07-25, 09:18:13](https://news.ycombinator.com/item?id=41066544) - [Defense of Lisp macros: The automotive field as a case in point](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
-* [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-23, 19:12:20](https://news.ycombinator.com/item?id=41049666) - [Fair Chess and Simultaneous Games](https://asvarga.github.io/blog/2024/06/22/fair-chess-and-simultaneous-games.html)
