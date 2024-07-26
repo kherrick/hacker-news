@@ -102,6 +102,7 @@
 * [2024-07-22, 06:57:19](https://news.ycombinator.com/item?id=41031585) - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-07-22, 06:31:04](https://news.ycombinator.com/item?id=41031449) - [PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
 * [2024-07-22, 06:18:34](https://news.ycombinator.com/item?id=41031379) - [Caffeine suppresses cerebral grey matter responses to chronic sleep restriction](https://www.nature.com/articles/s41598-024-61421-8)
+* [2024-07-22, 05:59:09](https://news.ycombinator.com/item?id=41031288) - [What's the Point? BigDecimal in review](https://dmiller.github.io/clojure-clr-next/general/2024/07/21/whats-the-point.html)
 * [2024-07-22, 05:42:46](https://news.ycombinator.com/item?id=41031219) - [The CrowdStrike Failure Was a Warning](https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/)
 * [2024-07-22, 05:17:23](https://news.ycombinator.com/item?id=41031112) - [Eza: A modern, maintained replacement for ls](https://github.com/eza-community/eza)
 * [2024-07-22, 04:57:46](https://news.ycombinator.com/item?id=41031037) - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The Three Cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
+* [2024-07-26, 17:14:52](https://news.ycombinator.com/item?id=41080367) - [Androgynous Peripheral Attach System](https://en.wikipedia.org/wiki/Androgynous_Peripheral_Attach_System)
 * [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample (YC W24) Is Hiring](https://news.ycombinator.com/item?id=41080222)
 * [2024-07-26, 16:55:39](https://news.ycombinator.com/item?id=41080178) - [The Incredible Machine (1993)](https://www.myabandonware.com/game/the-incredible-machine-1mg/play-1mg)
 * [2024-07-26, 16:44:35](https://news.ycombinator.com/item?id=41080063) - [Skip and Arc'teryx built a futuristic exoskeleton](https://www.fastcompany.com/91159743/skip-and-arcteryx-built-an-amazing-new-exoskeleton-heres-what-its-like-to-walk-in-it)
@@ -13,6 +15,7 @@
 * [2024-07-26, 16:16:47](https://news.ycombinator.com/item?id=41079841) - [LLMs will not automate work](https://www.noahpinion.blog/p/yes-we-still-have-to-work)
 * [2024-07-26, 16:14:15](https://news.ycombinator.com/item?id=41079814) - [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 16:03:51](https://news.ycombinator.com/item?id=41079707) - [Ask HN: Could experienced developers have near 0 online prescence?](https://news.ycombinator.com/item?id=41079707)
+* [2024-07-26, 15:47:28](https://news.ycombinator.com/item?id=41079571) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
 * [2024-07-26, 15:12:32](https://news.ycombinator.com/item?id=41079264) - [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
 * [2024-07-26, 14:58:53](https://news.ycombinator.com/item?id=41079157) - [Why Proton VPN doesn't use RAM-only VPN servers](https://protonvpn.com/blog/ram-only-servers)
 * [2024-07-26, 14:55:41](https://news.ycombinator.com/item?id=41079123) - [Chrome will now prompt some users to send passwords for suspicious files](https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/)
