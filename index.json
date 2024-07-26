@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-26, 18:19:11",
+      "https://news.ycombinator.com/item?id=41080904"
+    ],
+    [
+      "Why does the chromaticity diagram look like that?",
+      "https://jlongster.com/why-chromaticity-shape"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 17:50:42",
       "https://news.ycombinator.com/item?id=41080644"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2024-07-26, 17:24:38",
-      "https://news.ycombinator.com/item?id=41080435"
-    ],
-    [
-      "Google creates self-replicating life from digital 'primordial soup'",
-      "https://www.newscientist.com/article/2438117-google-creates-self-replicating-life-from-digital-primordial-soup/"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 17:15:15",
       "https://news.ycombinator.com/item?id=41080373"
     ],
@@ -105,18 +105,8 @@
       "https://news.ycombinator.com/item?id=41080222"
     ],
     [
-      "Sample (YC W24) Is Hiring",
+      "Sample Healthcare (YC W24) Is Hiring (SF)",
       "https://news.ycombinator.com/item?id=41080222"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 16:45:35",
-      "https://news.ycombinator.com/item?id=41080070"
-    ],
-    [
-      "It is now easier to pass AP tests",
-      "https://www.wsj.com/us-news/education/advanced-placement-exams-test-scores-higher-f4dce3c2"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Counting bytes faster than you'd think possible",
       "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 02:36:03",
+      "https://news.ycombinator.com/item?id=41041995"
+    ],
+    [
+      "From Linux to NetBSD, with SSH Only",
+      "https://cloudbsd.xyz/"
     ]
   ],
   [
