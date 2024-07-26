@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-26, 08:42:04](https://news.ycombinator.com/item?id=41076905) - [Using Rust to corrode insane Python run-times](https://www.vortexa.com/product-blog/using-rust-to-corrode-insane-python-run-times/)
 * [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
-* [2024-07-25, 23:23:26](https://news.ycombinator.com/item?id=41074485) - [Treescope: Interactive HTML Pretty-Printer](https://github.com/google-deepmind/treescope)
 * [2024-07-25, 22:20:28](https://news.ycombinator.com/item?id=41074002) - [Startup Finance for Founders — Part I, Accounting](https://rein.pk/startup-finance-for-founders-part-i-accounting)
 * [2024-07-25, 22:12:57](https://news.ycombinator.com/item?id=41073930) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-07-25, 20:53:50](https://news.ycombinator.com/item?id=41073264) - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
