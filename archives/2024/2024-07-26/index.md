@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 13:04:12](https://news.ycombinator.com/item?id=41078283) - [Cars Are Now Computers, So How Long Will They Get Updates? Automakers Can't Say](https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/)
 * [2024-07-26, 12:15:00](https://news.ycombinator.com/item?id=41077960) - [BusyBox: Life Without Systemd](https://www.busybox.net/kill_it_with_fire.txt)
 * [2024-07-26, 12:13:09](https://news.ycombinator.com/item?id=41077946) - [AI: The Ultimate Sherlocking?](https://www.technicalchops.com/articles/ai-the-ultimate-sherlocking/)
 * [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
