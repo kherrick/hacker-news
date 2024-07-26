@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
 * [2024-07-26, 22:27:26](https://news.ycombinator.com/item?id=41082877) - [MIT 11.350 – Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
+* [2024-07-26, 22:12:57](https://news.ycombinator.com/item?id=41082789) - [Intel confirms no recall for Raptor Lake CPUs,microcode won't fix affected units](https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units)
 * [2024-07-26, 22:09:16](https://news.ycombinator.com/item?id=41082752) - [Apex Surplus is a movie industry props and parts source](https://apexsurplus.com)
 * [2024-07-26, 21:49:19](https://news.ycombinator.com/item?id=41082624) - [Funtoo Linux is shutting down](https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/)
 * [2024-07-26, 21:44:46](https://news.ycombinator.com/item?id=41082584) - [Deep Learning Interviews](https://arxiv.org/abs/2201.00650)

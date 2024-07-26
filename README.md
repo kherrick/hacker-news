@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-26, 22:27:26](https://news.ycombinator.com/item?id=41082877) - [MIT 11.350 – Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
+* [2024-07-26, 22:12:57](https://news.ycombinator.com/item?id=41082789) - [Intel confirms no recall for Raptor Lake CPUs,microcode won't fix affected units](https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units)
 * [2024-07-26, 22:09:16](https://news.ycombinator.com/item?id=41082752) - [Apex Surplus – a movie industry props and parts source](https://apexsurplus.com)
 * [2024-07-26, 21:49:19](https://news.ycombinator.com/item?id=41082624) - [Funtoo Linux is shutting down](https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/)
 * [2024-07-26, 21:44:46](https://news.ycombinator.com/item?id=41082584) - [Deep Learning Interviews](https://arxiv.org/abs/2201.00650)
@@ -25,7 +26,6 @@
 * [2024-07-25, 22:09:59](https://news.ycombinator.com/item?id=41073907) - [Is the nervous system a democracy? (2016)](https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/)
 * [2024-07-25, 21:52:21](https://news.ycombinator.com/item?id=41073777) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
-* [2024-07-24, 23:36:37](https://news.ycombinator.com/item?id=41063361) - [Memory for music doesn't diminish with age](https://www.nature.com/articles/d41586-024-02369-7)
 * [2024-07-23, 18:40:52](https://news.ycombinator.com/item?id=41049365) - [Things I said as a manager part 2: Hiring is emotional](https://reactiverobot.com/writing/hiring.html)
 * [2024-07-23, 12:33:20](https://news.ycombinator.com/item?id=41045291) - [Superbabies: Putting the pieces together](https://www.lesswrong.com/posts/2uJsiQqHTjePTRqi4/superbabies-putting-the-pieces-together)
 * [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
