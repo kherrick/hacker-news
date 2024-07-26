@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-26, 21:00:22](https://news.ycombinator.com/item?id=41082230) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-07-26, 20:34:53](https://news.ycombinator.com/item?id=41082041) - [Show HN: Patchwork – Open-source framework to automate development gruntwork](https://github.com/patched-codes/patchwork)
 * [2024-07-26, 18:55:16](https://news.ycombinator.com/item?id=41081237) - [Beyond Clean Code](https://tobeva.com/articles/beyond/)
 * [2024-07-26, 18:32:37](https://news.ycombinator.com/item?id=41081021) - [Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 * [2024-07-26, 18:19:11](https://news.ycombinator.com/item?id=41080904) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
@@ -10,7 +12,6 @@
 * [2024-07-26, 17:31:03](https://news.ycombinator.com/item?id=41080485) - [Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
-* [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample Healthcare (YC W24) is hiring #1 engineer (SF)](https://news.ycombinator.com/item?id=41080222)
 * [2024-07-26, 16:39:59](https://news.ycombinator.com/item?id=41080018) - [Stripe acquires Lemon Squeezy](https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy)
 * [2024-07-26, 16:14:45](https://news.ycombinator.com/item?id=41079819) - [How Mihoyo's monetization works](https://moonbearmusings.com/lets-talk-about-how-mihoyos-monetization-works/)
 * [2024-07-26, 16:14:15](https://news.ycombinator.com/item?id=41079814) - [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
@@ -20,7 +21,6 @@
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
 * [2024-07-26, 02:31:56](https://news.ycombinator.com/item?id=41075390) - [Alexandre Grothendieck, The New Universal Church (1971) [pdf]](https://publish.uwo.ca/~jbell/univ.pdf)
-* [2024-07-25, 23:23:26](https://news.ycombinator.com/item?id=41074485) - [Treescope: Interactive HTML visualization library for Python neural networks](https://github.com/google-deepmind/treescope)
 * [2024-07-25, 21:52:21](https://news.ycombinator.com/item?id=41073777) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
 * [2024-07-25, 10:54:14](https://news.ycombinator.com/item?id=41067079) - [Why Levittown didn't revolutionize homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
 * [2024-07-24, 23:36:37](https://news.ycombinator.com/item?id=41063361) - [Memory for music doesn't diminish with age](https://www.nature.com/articles/d41586-024-02369-7)
