@@ -20,7 +20,6 @@
 * [2024-07-26, 16:39:59](https://news.ycombinator.com/item?id=41080018) - [Stripe acquires Lemon Squeezy](https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy)
 * [2024-07-26, 16:14:15](https://news.ycombinator.com/item?id=41079814) - [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 14:50:10](https://news.ycombinator.com/item?id=41079083) - [How to optimize a CUDA matmul kernel for cuBLAS-like performance (2022)](https://siboehm.com/articles/22/CUDA-MMM)
-* [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
 * [2024-07-26, 02:31:56](https://news.ycombinator.com/item?id=41075390) - [Alexandre Grothendieck, The New Universal Church (1971) [pdf]](https://publish.uwo.ca/~jbell/univ.pdf)
 * [2024-07-25, 21:52:21](https://news.ycombinator.com/item?id=41073777) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
@@ -28,6 +27,7 @@
 * [2024-07-24, 23:36:37](https://news.ycombinator.com/item?id=41063361) - [Memory for music doesn't diminish with age](https://www.nature.com/articles/d41586-024-02369-7)
 * [2024-07-23, 21:07:55](https://news.ycombinator.com/item?id=41050885) - [Understanding Performance Implications of Storage-Disaggregated Databases](https://muratbuffalo.blogspot.com/2024/07/understanding-performance-implications.html)
 * [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
+* [2024-07-23, 02:36:03](https://news.ycombinator.com/item?id=41041995) - [From Linux to NetBSD, with SSH Only](https://cloudbsd.xyz/)
 * [2024-07-22, 16:34:23](https://news.ycombinator.com/item?id=41036370) - [NASA Graphics Standards Manual (1975)](https://standardsmanual.com/products/nasa-graphics-standards-manual)
 * [2024-07-22, 14:58:15](https://news.ycombinator.com/item?id=41035211) - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 
