@@ -2,6 +2,7 @@
 
 * [2024-07-26, 21:00:22](https://news.ycombinator.com/item?id=41082230) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-07-26, 20:34:53](https://news.ycombinator.com/item?id=41082041) - [Show HN: Patchwork – Open-source framework to automate development gruntwork](https://github.com/patched-codes/patchwork)
+* [2024-07-26, 18:55:30](https://news.ycombinator.com/item?id=41081238) - [Europe is in danger of regulating its tech market out of existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
 * [2024-07-26, 18:55:16](https://news.ycombinator.com/item?id=41081237) - [Beyond Clean Code](https://tobeva.com/articles/beyond/)
 * [2024-07-26, 18:32:37](https://news.ycombinator.com/item?id=41081021) - [Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 * [2024-07-26, 18:19:11](https://news.ycombinator.com/item?id=41080904) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
@@ -29,7 +30,6 @@
 * [2024-07-23, 02:05:14](https://news.ycombinator.com/item?id=41041846) - [FCC liability for radio pirates operating on your property](https://www.jdsupra.com/legalnews/a-new-headache-for-landowners-fcc-9899137/)
 * [2024-07-22, 16:34:23](https://news.ycombinator.com/item?id=41036370) - [NASA Graphics Standards Manual (1975)](https://standardsmanual.com/products/nasa-graphics-standards-manual)
 * [2024-07-22, 16:27:59](https://news.ycombinator.com/item?id=41036267) - [When British Railways deliberately crashed a train](https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/)
-* [2024-07-22, 14:58:15](https://news.ycombinator.com/item?id=41035211) - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 
 ## [Archives](archives/index.md)
 
