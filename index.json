@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-26, 08:42:04",
+      "https://news.ycombinator.com/item?id=41076905"
+    ],
+    [
+      "Using Rust to corrode insane Python run-times",
+      "https://www.vortexa.com/product-blog/using-rust-to-corrode-insane-python-run-times/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 06:14:12",
       "https://news.ycombinator.com/item?id=41076190"
     ],
@@ -17,16 +27,6 @@
     [
       "A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow",
       "https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 23:23:26",
-      "https://news.ycombinator.com/item?id=41074485"
-    ],
-    [
-      "Treescope: Interactive HTML Pretty-Printer",
-      "https://github.com/google-deepmind/treescope"
     ]
   ],
   [
