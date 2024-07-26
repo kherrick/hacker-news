@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-26, 13:04:12](https://news.ycombinator.com/item?id=41078283) - [Cars Are Now Computers, So How Long Will They Get Updates? Automakers Can't Say](https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/)
 * [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-26, 11:40:58](https://news.ycombinator.com/item?id=41077786) - [Fuzzify: A tiny library for fuzzy search](https://github.com/ad1992/fuzzify)
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
+* [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 03:04:19](https://news.ycombinator.com/item?id=41075476) - [Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL](https://github.com/paulmooreparks/ClifferBasic)
+* [2024-07-25, 23:25:00](https://news.ycombinator.com/item?id=41074500) - [Dual action antibiotic could make bacterial resistance nearly impossible](https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html)
 * [2024-07-25, 22:20:28](https://news.ycombinator.com/item?id=41074002) - [Startup Finance for Founders — Part I, Accounting](https://rein.pk/startup-finance-for-founders-part-i-accounting)
 * [2024-07-25, 20:53:50](https://news.ycombinator.com/item?id=41073264) - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 * [2024-07-25, 19:48:35](https://news.ycombinator.com/item?id=41072616) - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
@@ -28,7 +29,6 @@
 * [2024-07-22, 16:27:59](https://news.ycombinator.com/item?id=41036267) - [When British Railways Deliberately Crashed a Train](https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/)
 * [2024-07-22, 14:49:36](https://news.ycombinator.com/item?id=41035084) - [Real-Time Procedural Generation with GPU Work Graphs [pdf]](https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf)
 * [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five Little Languages and How They Grew: Talk at HOPL (1993)](https://www.bell-labs.com/usr/dmr/www/hopl.html)
-* [2024-07-21, 18:36:49](https://news.ycombinator.com/item?id=41027112) - [Club Mate: The Lost History of Germany's Trendiest Soda [video]](https://www.youtube.com/watch?v=fg6dFhQOk4w)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
 
 ## [Archives](archives/index.md)
