@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-07-26, 18:55:16",
+      "https://news.ycombinator.com/item?id=41081237"
+    ],
+    [
+      "Beyond Clean Code",
+      "https://tobeva.com/articles/beyond/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 18:32:37",
+      "https://news.ycombinator.com/item?id=41081021"
+    ],
+    [
+      "Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks",
+      "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 18:19:11",
       "https://news.ycombinator.com/item?id=41080904"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-07-26, 16:44:35",
-      "https://news.ycombinator.com/item?id=41080063"
-    ],
-    [
-      "Skip and Arc'teryx built a futuristic exoskeleton",
-      "https://www.fastcompany.com/91159743/skip-and-arcteryx-built-an-amazing-new-exoskeleton-heres-what-its-like-to-walk-in-it"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 16:14:45",
       "https://news.ycombinator.com/item?id=41079819"
     ],
@@ -137,16 +147,6 @@
     [
       "How to optimize a CUDA matmul kernel for cuBLAS-like performance (2022)",
       "https://siboehm.com/articles/22/CUDA-MMM"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 12:24:48",
-      "https://news.ycombinator.com/item?id=41078020"
-    ],
-    [
-      "Show HN: Word Slicer",
-      "https://wordslicer.com"
     ]
   ],
   [
