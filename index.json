@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-07-26, 01:10:23",
-      "https://news.ycombinator.com/item?id=41075058"
-    ],
-    [
-      "Judge denies SpaceX effort to block move of NLRB case back to California [pdf]",
-      "https://storage.courtlistener.com/recap/gov.uscourts.txsd.1946370/gov.uscourts.txsd.1946370.131.0.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 01:06:36",
-      "https://news.ycombinator.com/item?id=41075043"
-    ],
-    [
-      "Southwest to get rid of open seating, offer extra legroom",
-      "https://www.cnbc.com/2024/07/25/southwest-airlines-seat-assignments.html"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 22:22:42",
       "https://news.ycombinator.com/item?id=41074022"
     ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-07-25, 08:40:06",
+      "https://news.ycombinator.com/item?id=41066303"
+    ],
+    [
+      "Versioned finite-state machines with Postgres (2019)",
+      "https://raphael.medaer.me/2019/06/12/pgfsm.html"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 04:14:57",
       "https://news.ycombinator.com/item?id=41064645"
     ],
@@ -237,6 +227,16 @@
     [
       "Node.js adds experimental support for TypeScript",
       "https://github.com/nodejs/node/pull/53725"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 23:22:57",
+      "https://news.ycombinator.com/item?id=41063258"
+    ],
+    [
+      "Humans 1, Chimps 0: Correcting the Record",
+      "https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record"
     ]
   ],
   [
