@@ -13,6 +13,7 @@
 * [2024-07-25, 22:09:59](https://news.ycombinator.com/item?id=41073907) - [Is the nervous system a democracy? (2016)](https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/)
 * [2024-07-25, 22:05:44](https://news.ycombinator.com/item?id=41073880) - [How Phones Are Making Parents the Anxious Generation](https://www.afterbabel.com/p/parents-are-the-anxious-generation)
 * [2024-07-25, 22:03:01](https://news.ycombinator.com/item?id=41073849) - [Federal judge upholds FTC ban on noncompete agreements](https://thehill.com/business/4790236-federal-trade-commission-noncompete-ban/)
+* [2024-07-25, 21:41:58](https://news.ycombinator.com/item?id=41073698) - [Pongamia trees grow where citrus once flourished](https://phys.org/news/2024-07-pongamia-trees-citrus-flourished-renewable.html)
 * [2024-07-25, 21:40:49](https://news.ycombinator.com/item?id=41073688) - [U.S. Department of Defense – Detecting Agile BS [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 * [2024-07-25, 21:40:38](https://news.ycombinator.com/item?id=41073686) - [The Decline of Mobile Development](https://www.donnfelker.com/the-decline-of-mobile-development/)
 * [2024-07-25, 21:34:21](https://news.ycombinator.com/item?id=41073644) - [What's the deal with PFAS, a.k.a. 'forever chemicals'?](https://scopeblog.stanford.edu/2024/07/25/pfas-forever-chemicals-health-risks-scientists/)
