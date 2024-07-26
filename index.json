@@ -1,72 +1,12 @@
 [
   [
     [
-      "2024-07-26, 14:58:53",
-      "https://news.ycombinator.com/item?id=41079157"
-    ],
-    [
-      "Why Proton VPN doesn't use RAM-only VPN servers",
-      "https://protonvpn.com/blog/ram-only-servers"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 14:55:41",
       "https://news.ycombinator.com/item?id=41079123"
     ],
     [
       "Chrome will now prompt some users to send passwords for suspicious files",
       "https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 14:43:35",
-      "https://news.ycombinator.com/item?id=41079020"
-    ],
-    [
-      "Automakers Sold Driver Data for Pennies, Senators Say",
-      "https://www.nytimes.com/2024/07/26/technology/driver-data-sold-for-pennies.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 14:28:10",
-      "https://news.ycombinator.com/item?id=41078910"
-    ],
-    [
-      "Pilots said nothing as Southwest plane flew dangerously low over Tampa Bay",
-      "https://www.tampabay.com/news/transportation/2024/07/25/southwest-tampa-florida-flight-descent/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 14:12:54",
-      "https://news.ycombinator.com/item?id=41078820"
-    ],
-    [
-      "DARPA Brings Next-Gen US Microelectronics Manufacturing Closer to Reality",
-      "https://www.darpa.mil/news-events/2024-07-18"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 14:09:24",
-      "https://news.ycombinator.com/item?id=41078795"
-    ],
-    [
-      "Power-hungry data centres scrambling to find enough electricity to meet demand",
-      "https://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 14:03:53",
-      "https://news.ycombinator.com/item?id=41078759"
-    ],
-    [
-      "File.haus – Anonymously upload up to 300GB",
-      "https://filehaus.su/"
     ]
   ],
   [
@@ -81,22 +21,22 @@
   ],
   [
     [
-      "2024-07-26, 13:07:07",
-      "https://news.ycombinator.com/item?id=41078307"
-    ],
-    [
-      "AI existential risk probabilities are too unreliable to inform policy",
-      "https://www.aisnakeoil.com/p/ai-existential-risk-probabilities"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 12:01:14",
       "https://news.ycombinator.com/item?id=41077879"
     ],
     [
       "OneSignal (YC S11) Is Hiring an Engineering Manager",
       "https://onesignal.com/careers/4381552006"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 07:10:07",
+      "https://news.ycombinator.com/item?id=41076459"
+    ],
+    [
+      "iFixit CEO takes shots at Anthropic for hitting servers a million times in 24h",
+      "https://www.pcgamer.com/software/ai/ifixit-ceo-takes-shots-at-anthropic-for-hitting-our-servers-a-million-times-in-24-hours-and-even-the-ai-companys-own-chatbot-disapproves/"
     ]
   ],
   [
@@ -111,11 +51,21 @@
   ],
   [
     [
+      "2024-07-26, 03:04:19",
+      "https://news.ycombinator.com/item?id=41075476"
+    ],
+    [
+      "Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL",
+      "https://github.com/paulmooreparks/ClifferBasic"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 22:20:28",
       "https://news.ycombinator.com/item?id=41074002"
     ],
     [
-      "Startup Finance for Founders — Part I, Accounting",
+      "Startup Finance for Founders – Part I, Accounting (2016)",
       "https://rein.pk/startup-finance-for-founders-part-i-accounting"
     ]
   ],
@@ -147,6 +97,16 @@
     [
       "Applied Machine Learning for Tabular Data",
       "https://aml4td.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 17:00:03",
+      "https://news.ycombinator.com/item?id=41070870"
+    ],
+    [
+      "Unfashionably secure: why we use isolated VMs",
+      "https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html"
     ]
   ],
   [
@@ -201,12 +161,32 @@
   ],
   [
     [
+      "2024-07-25, 14:21:36",
+      "https://news.ycombinator.com/item?id=41068995"
+    ],
+    [
+      "Memory Mapping an FPGA from an STM32",
+      "https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 13:54:14",
       "https://news.ycombinator.com/item?id=41068719"
     ],
     [
       "Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas",
       "https://haystackeditor.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 12:04:09",
+      "https://news.ycombinator.com/item?id=41067616"
+    ],
+    [
+      "A chemist explains the chemistry behind decaf coffee",
+      "https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "My Favorite Algorithm: Linear Time Median Finding (2018)",
       "https://rcoh.me/posts/linear-time-median-finding/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 04:14:57",
+      "https://news.ycombinator.com/item?id=41064645"
+    ],
+    [
+      "Investigating corrupt Winamp skins",
+      "https://jordaneldredge.com/notes/corrupted-skins/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Real-Time Procedural Generation with GPU Work Graphs [pdf]",
       "https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 08:42:03",
+      "https://news.ycombinator.com/item?id=41032097"
+    ],
+    [
+      "Five Little Languages and How They Grew: Talk at HOPL (1993)",
+      "https://www.bell-labs.com/usr/dmr/www/hopl.html"
     ]
   ],
   [
