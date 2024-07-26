@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-07-26, 12:15:00",
+      "https://news.ycombinator.com/item?id=41077960"
+    ],
+    [
+      "BusyBox: Life Without Systemd",
+      "https://www.busybox.net/kill_it_with_fire.txt"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 12:01:14",
       "https://news.ycombinator.com/item?id=41077879"
     ],
     [
       "OneSignal (YC S11) Is Hiring an Engineering Manager",
       "https://onesignal.com/careers/4381552006"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 11:52:46",
+      "https://news.ycombinator.com/item?id=41077841"
+    ],
+    [
+      "U.S. Commercial Real Estate Is Headed Toward a Crisis",
+      "https://hbr.org/2024/07/u-s-commercial-real-estate-is-headed-toward-a-crisis"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow",
       "https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 03:04:19",
-      "https://news.ycombinator.com/item?id=41075476"
-    ],
-    [
-      "Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL",
-      "https://github.com/paulmooreparks/ClifferBasic"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "My Favorite Algorithm: Linear Time Median Finding (2018)",
       "https://rcoh.me/posts/linear-time-median-finding/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 04:14:57",
-      "https://news.ycombinator.com/item?id=41064645"
-    ],
-    [
-      "Investigating corrupt Winamp skins",
-      "https://jordaneldredge.com/notes/corrupted-skins/"
     ]
   ],
   [
