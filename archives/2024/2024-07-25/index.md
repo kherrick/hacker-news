@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
 * [2024-07-25, 23:37:29](https://news.ycombinator.com/item?id=41074574) - [Chicken wings advertised as 'boneless' can have bones,Ohio Supreme Court decides](https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8)
+* [2024-07-25, 23:23:26](https://news.ycombinator.com/item?id=41074485) - [Treescope: Interactive HTML Pretty-Printer](https://github.com/google-deepmind/treescope)
 * [2024-07-25, 22:22:42](https://news.ycombinator.com/item?id=41074022) - [Cameo was once valued at $1B. Now it's so broke it can't pay a $600K fine](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
 * [2024-07-25, 22:20:28](https://news.ycombinator.com/item?id=41074002) - [Startup Finance for Founders — Part I, Accounting](https://rein.pk/startup-finance-for-founders-part-i-accounting)
 * [2024-07-25, 22:12:57](https://news.ycombinator.com/item?id=41073930) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
