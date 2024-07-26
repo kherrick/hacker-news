@@ -59,6 +59,7 @@
 * [2024-07-22, 16:42:22](https://news.ycombinator.com/item?id=41036462) - [Scientists Discover a New Hormone That Can Build Strong Bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
 * [2024-07-22, 16:35:05](https://news.ycombinator.com/item?id=41036383) - [It's Time for Americans to Get over It and Embrace the Bidet](https://www.good.is/features/why-wont-north-americans-use-bidets-toilet-paper-water-waste)
 * [2024-07-22, 16:32:31](https://news.ycombinator.com/item?id=41036334) - [You are probably sitting down for too long](https://www.bbc.com/future/article/20240722-why-you-are-probably-sitting-down-for-too-long)
+* [2024-07-22, 16:27:59](https://news.ycombinator.com/item?id=41036267) - [When British Railways Deliberately Crashed a Train](https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/)
 * [2024-07-22, 16:25:48](https://news.ycombinator.com/item?id=41036236) - [A Few Indisputable Points About Poptimism and Then I Give Up](https://freddiedeboer.substack.com/p/a-few-indisputable-points-about-poptimism)
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by word, not waveform](https://github.com/bugbakery/audapolis)
 * [2024-07-22, 16:24:11](https://news.ycombinator.com/item?id=41036216) - [All the existential risk, none of the economic impact. That's a shitty trade](https://www.theintrinsicperspective.com/p/all-the-existential-risk-none-of)
