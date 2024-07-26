@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+* [2024-07-26, 11:43:14](https://news.ycombinator.com/item?id=41077798) - [French rail network hit by 'malicious acts' ahead of Paris Olympics](https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony)
 * [2024-07-26, 09:14:28](https://news.ycombinator.com/item?id=41077061) - [French train network hit by 'malicious' arson attacks](https://www.bbc.com/news/live/cxe24vg59lzt)
 * [2024-07-26, 08:42:04](https://news.ycombinator.com/item?id=41076905) - [Using Rust to corrode insane Python run-times](https://www.vortexa.com/product-blog/using-rust-to-corrode-insane-python-run-times/)
 * [2024-07-26, 08:23:08](https://news.ycombinator.com/item?id=41076831) - [France High-Speed Rail Traffic Disrupted by 'Malicious Acts' on Olympic Ceremony](https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html)
