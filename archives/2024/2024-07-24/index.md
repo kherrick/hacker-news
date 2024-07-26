@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
 * [2024-07-24, 23:44:36](https://news.ycombinator.com/item?id=41063406) - [John Deere Dismissing 15% of Workforce](https://www.agweb.com/news/machinery/john-deere-dismissing-15-global-salaried-workforce-today)
+* [2024-07-24, 23:36:37](https://news.ycombinator.com/item?id=41063361) - [Memory for music doesn't diminish with age](https://www.nature.com/articles/d41586-024-02369-7)
 * [2024-07-24, 23:27:57](https://news.ycombinator.com/item?id=41063307) - [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
 * [2024-07-24, 23:25:28](https://news.ycombinator.com/item?id=41063279) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-24, 23:22:57](https://news.ycombinator.com/item?id=41063258) - [Humans 1, Chimps 0: Correcting the Record](https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record)
@@ -23,6 +24,7 @@
 * [2024-07-24, 20:30:04](https://news.ycombinator.com/item?id=41061688) - [AMD delays Ryzen 9000 launch to August \"out of an abundance of caution\"](https://arstechnica.com/gadgets/2024/07/quality-issue-pushes-amds-ryzen-9000-cpu-launch-from-july-to-august/)
 * [2024-07-24, 20:04:24](https://news.ycombinator.com/item?id=41061390) - [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
 * [2024-07-24, 19:34:33](https://news.ycombinator.com/item?id=41060985) - [Something is strange with CrowdStrike timeline](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
+* [2024-07-24, 19:32:17](https://news.ycombinator.com/item?id=41060951) - [The process that kept dying: A memory leak murder mystery](https://lukedeniston.com/memory-leak-mystery)
 * [2024-07-24, 19:22:37](https://news.ycombinator.com/item?id=41060834) - [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground)
 * [2024-07-24, 19:20:42](https://news.ycombinator.com/item?id=41060813) - [X redesigns water pistol emoji back to a firearm](https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/)
 * [2024-07-24, 19:12:09](https://news.ycombinator.com/item?id=41060710) - [Ask Siri, Dictation and Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)

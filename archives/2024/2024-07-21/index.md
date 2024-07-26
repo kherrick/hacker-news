@@ -25,6 +25,7 @@
 * [2024-07-21, 20:06:16](https://news.ycombinator.com/item?id=41027717) - [The Tech Industry's Moral Vacuum](https://www.shayon.dev/post/2024/203/the-tech-industrys-moral-vacuum/)
 * [2024-07-21, 19:56:40](https://news.ycombinator.com/item?id=41027658) - [When ChatGPT summarises, it does nothing of the kind](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/)
 * [2024-07-21, 19:45:36](https://news.ycombinator.com/item?id=41027588) - [1968 Democratic National Convention](https://en.wikipedia.org/wiki/1968_Democratic_National_Convention)
+* [2024-07-21, 19:36:48](https://news.ycombinator.com/item?id=41027535) - [Baby's second WASM compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler/)
 * [2024-07-21, 19:05:36](https://news.ycombinator.com/item?id=41027320) - [NYT: The Data That Powers AI Is Disappearing Fast](https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html)
 * [2024-07-21, 18:57:03](https://news.ycombinator.com/item?id=41027265) - [Ask HN: What resources do you recommend for learning Haskell?](https://news.ycombinator.com/item?id=41027265)
 * [2024-07-21, 18:36:49](https://news.ycombinator.com/item?id=41027112) - [Club Mate: The Lost History of Germany's Trendiest Soda [video]](https://www.youtube.com/watch?v=fg6dFhQOk4w)
