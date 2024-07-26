@@ -5,7 +5,6 @@
 * [2024-07-26, 17:45:08](https://news.ycombinator.com/item?id=41080599) - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 * [2024-07-26, 17:31:03](https://news.ycombinator.com/item?id=41080485) - [Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
-* [2024-07-26, 17:25:14](https://news.ycombinator.com/item?id=41080442) - [How a car cigarette lighter works, in CT scans](https://www.lumafield.com/article/how-does-a-car-cigarette-lighter-work)
 * [2024-07-26, 17:24:38](https://news.ycombinator.com/item?id=41080435) - [Google creates self-replicating life from digital 'primordial soup'](https://www.newscientist.com/article/2438117-google-creates-self-replicating-life-from-digital-primordial-soup/)
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The Three Cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:52](https://news.ycombinator.com/item?id=41080367) - [Androgynous Peripheral Attach System](https://en.wikipedia.org/wiki/Androgynous_Peripheral_Attach_System)
@@ -30,6 +29,7 @@
 * [2024-07-22, 23:28:23](https://news.ycombinator.com/item?id=41040900) - [Shoe prints lead FBI to suspect couple involved in multiple New Mexico wildfires](https://www.nbcnews.com/news/us-news/shoe-prints-lead-fbi-suspect-man-woman-involved-multiple-new-mexico-wi-rcna163087)
 * [2024-07-22, 16:34:23](https://news.ycombinator.com/item?id=41036370) - [NASA Graphics Standards Manual (1976)](https://standardsmanual.com/products/nasa-graphics-standards-manual)
 * [2024-07-22, 16:27:59](https://news.ycombinator.com/item?id=41036267) - [When British Railways deliberately crashed a train](https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/)
+* [2024-07-22, 14:58:15](https://news.ycombinator.com/item?id=41035211) - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 
 ## [Archives](archives/index.md)
 

@@ -71,6 +71,7 @@
 * [2024-07-22, 15:14:35](https://news.ycombinator.com/item?id=41035405) - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 15:06:07](https://news.ycombinator.com/item?id=41035309) - [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
 * [2024-07-22, 15:03:36](https://news.ycombinator.com/item?id=41035281) - [Brr Wants a Job](https://brr.fyi/posts/brr-wants-a-job)
+* [2024-07-22, 14:58:15](https://news.ycombinator.com/item?id=41035211) - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 * [2024-07-22, 14:56:53](https://news.ycombinator.com/item?id=41035183) - [Difference between running Postgres for yourself and for others](https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others)
 * [2024-07-22, 14:49:36](https://news.ycombinator.com/item?id=41035084) - [Real-Time Procedural Generation with GPU Work Graphs [pdf]](https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf)
 * [2024-07-22, 14:41:14](https://news.ycombinator.com/item?id=41034987) - [The serious science of trolling LLMs](https://lcamtuf.substack.com/p/the-serious-science-of-trolling-llms)
