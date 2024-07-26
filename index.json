@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2024-07-26, 17:24:38",
+      "https://news.ycombinator.com/item?id=41080435"
+    ],
+    [
+      "Google creates self-replicating life from digital 'primordial soup'",
+      "https://www.newscientist.com/article/2438117-google-creates-self-replicating-life-from-digital-primordial-soup/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 17:23:47",
+      "https://news.ycombinator.com/item?id=41080431"
+    ],
+    [
+      "Half of Teslas Q2 Profit Came from Your Taxes",
+      "https://jalopnik.com/half-of-teslas-q2-profit-came-from-your-taxes-1851606200"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 17:15:15",
       "https://news.ycombinator.com/item?id=41080373"
     ],
@@ -37,6 +57,16 @@
     [
       "Androgynous Peripheral Attach System",
       "https://en.wikipedia.org/wiki/Androgynous_Peripheral_Attach_System"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 17:14:32",
+      "https://news.ycombinator.com/item?id=41080366"
+    ],
+    [
+      "Monumental Proof Settles Geometric Langlands Conjecture",
+      "https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/"
     ]
   ],
   [
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2024-07-26, 15:47:28",
-      "https://news.ycombinator.com/item?id=41079571"
-    ],
-    [
-      "Safer code in C++ with lifetime bounds",
-      "https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 14:50:10",
       "https://news.ycombinator.com/item?id=41079083"
     ],
     [
       "How to Optimize a CUDA Matmul Kernel for CuBLAS-Like Performance: A Worklog",
       "https://siboehm.com/articles/22/CUDA-MMM"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 14:44:35",
-      "https://news.ycombinator.com/item?id=41079027"
-    ],
-    [
-      "So how do you 'accurately' speak English in ancient Rome?",
-      "https://text.npr.org/nx-s1-5049970"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-07-26, 10:39:03",
-      "https://news.ycombinator.com/item?id=41077496"
-    ],
-    [
-      "Fear of over-engineering has killed engineering altogether",
-      "https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 06:53:50",
       "https://news.ycombinator.com/item?id=41076375"
     ],
@@ -141,22 +141,12 @@
   ],
   [
     [
-      "2024-07-26, 04:26:53",
-      "https://news.ycombinator.com/item?id=41075766"
+      "2024-07-26, 02:31:56",
+      "https://news.ycombinator.com/item?id=41075390"
     ],
     [
-      "A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow",
-      "https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 22:20:28",
-      "https://news.ycombinator.com/item?id=41074002"
-    ],
-    [
-      "Startup Finance for Founders – Part I, Accounting (2016)",
-      "https://rein.pk/startup-finance-for-founders-part-i-accounting"
+      "Alexandre Grothendieck, The New Universal Church (1971) [pdf]",
+      "https://publish.uwo.ca/~jbell/univ.pdf"
     ]
   ],
   [
@@ -181,32 +171,22 @@
   ],
   [
     [
-      "2024-07-25, 21:41:58",
-      "https://news.ycombinator.com/item?id=41073698"
+      "2024-07-24, 23:36:37",
+      "https://news.ycombinator.com/item?id=41063361"
     ],
     [
-      "Pongamia trees grow where citrus once flourished",
-      "https://phys.org/news/2024-07-pongamia-trees-citrus-flourished-renewable.html"
+      "Memory for music doesn't diminish with age",
+      "https://www.nature.com/articles/d41586-024-02369-7"
     ]
   ],
   [
     [
-      "2024-07-25, 19:48:35",
-      "https://news.ycombinator.com/item?id=41072616"
+      "2024-07-24, 19:32:17",
+      "https://news.ycombinator.com/item?id=41060951"
     ],
     [
-      "Applied Machine Learning for Tabular Data",
-      "https://aml4td.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 15:29:41",
-      "https://news.ycombinator.com/item?id=41069829"
-    ],
-    [
-      "AI solves International Math Olympiad problems at silver medal level",
-      "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"
+      "The process that kept dying: A memory leak murder mystery",
+      "https://lukedeniston.com/memory-leak-mystery"
     ]
   ],
   [
@@ -221,12 +201,52 @@
   ],
   [
     [
+      "2024-07-23, 16:02:31",
+      "https://news.ycombinator.com/item?id=41047502"
+    ],
+    [
+      "Show HN: Slab – A programmable markup language for generating HTML",
+      "https://slab-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 12:24:59",
+      "https://news.ycombinator.com/item?id=41045233"
+    ],
+    [
+      "Lost by Schoolgirls: A display of 17th century papercuts",
+      "https://www.nationaltrust.org.uk/visit/london/sutton-house-and-breakers-yard/lost-by-schoolgirls-a-display-of-17th-century-papercuts"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 09:34:38",
+      "https://news.ycombinator.com/item?id=41044262"
+    ],
+    [
+      "Counting bytes faster than you'd think possible",
+      "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 02:36:03",
       "https://news.ycombinator.com/item?id=41041995"
     ],
     [
       "From Linux to NetBSD, with SSH Only",
       "https://cloudbsd.xyz/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 23:28:23",
+      "https://news.ycombinator.com/item?id=41040900"
+    ],
+    [
+      "Shoe prints lead FBI to suspect couple involved in multiple New Mexico wildfires",
+      "https://www.nbcnews.com/news/us-news/shoe-prints-lead-fbi-suspect-man-woman-involved-multiple-new-mexico-wi-rcna163087"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-07-22, 05:59:09",
-      "https://news.ycombinator.com/item?id=41031288"
+      "2024-07-21, 19:36:48",
+      "https://news.ycombinator.com/item?id=41027535"
     ],
     [
-      "What's the Point? BigDecimal in review",
-      "https://dmiller.github.io/clojure-clr-next/general/2024/07/21/whats-the-point.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 03:33:44",
-      "https://news.ycombinator.com/item?id=41030693"
-    ],
-    [
-      "What it's like to dissect a cadaver",
-      "https://alok.github.io/2022/11/09/dissection/"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 17:48:08",
-      "https://news.ycombinator.com/item?id=41026726"
-    ],
-    [
-      "An interactive guide to x86-64 assembly – moving data",
-      "https://halb.it/posts/x64-moving-data/"
+      "Baby's second WASM compiler",
+      "https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler/"
     ]
   ]
 ]
