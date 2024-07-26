@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
 * [2024-07-26, 18:55:30](https://news.ycombinator.com/item?id=41081238) - [Europe is in danger of regulating its tech market out of existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
+* [2024-07-26, 18:55:16](https://news.ycombinator.com/item?id=41081237) - [Beyond Clean Code](https://tobeva.com/articles/beyond/)
+* [2024-07-26, 18:32:37](https://news.ycombinator.com/item?id=41081021) - [Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 * [2024-07-26, 18:19:11](https://news.ycombinator.com/item?id=41080904) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 * [2024-07-26, 17:50:42](https://news.ycombinator.com/item?id=41080644) - [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
 * [2024-07-26, 17:50:30](https://news.ycombinator.com/item?id=41080642) - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
