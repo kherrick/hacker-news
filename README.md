@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-25, 23:37:29](https://news.ycombinator.com/item?id=41074574) - [Chicken wings advertised as 'boneless' can have bones,Ohio Supreme Court decides](https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8)
+* [2024-07-25, 22:22:42](https://news.ycombinator.com/item?id=41074022) - [Cameo was once valued at $1B. Now it's so broke it can't pay a $600K fine](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
 * [2024-07-25, 22:12:57](https://news.ycombinator.com/item?id=41073930) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-07-25, 20:53:50](https://news.ycombinator.com/item?id=41073264) - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
-* [2024-07-25, 20:48:19](https://news.ycombinator.com/item?id=41073214) - [HellPot – A portal to endless suffering meant to punish unruly HTTP bots](https://github.com/yunginnanet/HellPot)
 * [2024-07-25, 19:48:35](https://news.ycombinator.com/item?id=41072616) - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 * [2024-07-25, 18:50:04](https://news.ycombinator.com/item?id=41072026) - [Jacek Karpińśki, the computer genius the communists couldn't stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
@@ -24,10 +24,10 @@
 * [2024-07-25, 08:40:06](https://news.ycombinator.com/item?id=41066303) - [Versioned finite-state machines with Postgres (2019)](https://raphael.medaer.me/2019/06/12/pgfsm.html)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
+* [2024-07-24, 23:22:57](https://news.ycombinator.com/item?id=41063258) - [Humans 1, Chimps 0: Correcting the Record](https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record)
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When objects are not enough (2021)](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 14:49:36](https://news.ycombinator.com/item?id=41035084) - [Real-Time Procedural Generation with GPU Work Graphs [pdf]](https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf)
-* [2024-07-22, 10:57:49](https://news.ycombinator.com/item?id=41032991) - [Finalizers, Guardians, Phantom References](https://wingolog.org/archives/2024/07/22/finalizers-guardians-phantom-references-et-cetera)
 * [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five Little Languages and How They Grew: Talk at HOPL (1993)](https://www.bell-labs.com/usr/dmr/www/hopl.html)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
 
