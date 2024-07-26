@@ -14,6 +14,7 @@
 * [2024-07-25, 22:05:44](https://news.ycombinator.com/item?id=41073880) - [How Phones Are Making Parents the Anxious Generation](https://www.afterbabel.com/p/parents-are-the-anxious-generation)
 * [2024-07-25, 22:03:01](https://news.ycombinator.com/item?id=41073849) - [Federal judge upholds FTC ban on noncompete agreements](https://thehill.com/business/4790236-federal-trade-commission-noncompete-ban/)
 * [2024-07-25, 21:52:21](https://news.ycombinator.com/item?id=41073777) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
+* [2024-07-25, 21:47:57](https://news.ycombinator.com/item?id=41073741) - [NYPD Coppelgänger: Exploring Cop Data](https://lav.io/notes/exploring-cop-data/)
 * [2024-07-25, 21:41:58](https://news.ycombinator.com/item?id=41073698) - [Pongamia trees grow where citrus once flourished](https://phys.org/news/2024-07-pongamia-trees-citrus-flourished-renewable.html)
 * [2024-07-25, 21:40:49](https://news.ycombinator.com/item?id=41073688) - [U.S. Department of Defense – Detecting Agile BS [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 * [2024-07-25, 21:40:38](https://news.ycombinator.com/item?id=41073686) - [The Decline of Mobile Development](https://www.donnfelker.com/the-decline-of-mobile-development/)

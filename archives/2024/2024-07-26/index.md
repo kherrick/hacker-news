@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 17:31:03](https://news.ycombinator.com/item?id=41080485) - [Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
+* [2024-07-26, 17:25:14](https://news.ycombinator.com/item?id=41080442) - [How a car cigarette lighter works, in CT scans](https://www.lumafield.com/article/how-does-a-car-cigarette-lighter-work)
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The Three Cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:52](https://news.ycombinator.com/item?id=41080367) - [Androgynous Peripheral Attach System](https://en.wikipedia.org/wiki/Androgynous_Peripheral_Attach_System)
 * [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample (YC W24) Is Hiring](https://news.ycombinator.com/item?id=41080222)
@@ -13,6 +15,7 @@
 * [2024-07-26, 16:31:06](https://news.ycombinator.com/item?id=41079948) - [Ask HN: Best resources to learn about Search and Information retrieval](https://news.ycombinator.com/item?id=41079948)
 * [2024-07-26, 16:22:34](https://news.ycombinator.com/item?id=41079901) - [There is no fix for Intel's crashing 13th/14th Gen CPUs – damage is permanent](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
 * [2024-07-26, 16:16:47](https://news.ycombinator.com/item?id=41079841) - [LLMs will not automate work](https://www.noahpinion.blog/p/yes-we-still-have-to-work)
+* [2024-07-26, 16:14:45](https://news.ycombinator.com/item?id=41079819) - [Let's talk about how Mihoyo's monetization works](https://moonbearmusings.com/lets-talk-about-how-mihoyos-monetization-works/)
 * [2024-07-26, 16:14:15](https://news.ycombinator.com/item?id=41079814) - [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 16:03:51](https://news.ycombinator.com/item?id=41079707) - [Ask HN: Could experienced developers have near 0 online prescence?](https://news.ycombinator.com/item?id=41079707)
 * [2024-07-26, 15:47:28](https://news.ycombinator.com/item?id=41079571) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
