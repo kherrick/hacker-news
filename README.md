@@ -2,8 +2,8 @@
 
 * [2024-07-26, 13:04:12](https://news.ycombinator.com/item?id=41078283) - [Cars Are Now Computers, So How Long Will They Get Updates? Automakers Can't Say](https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/)
 * [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
-* [2024-07-26, 11:43:14](https://news.ycombinator.com/item?id=41077798) - [French rail network hit by 'malicious acts' ahead of Paris Olympics](https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony)
 * [2024-07-26, 11:40:58](https://news.ycombinator.com/item?id=41077786) - [Fuzzify: A tiny library for fuzzy search](https://github.com/ad1992/fuzzify)
+* [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 03:04:19](https://news.ycombinator.com/item?id=41075476) - [Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL](https://github.com/paulmooreparks/ClifferBasic)
 * [2024-07-25, 22:20:28](https://news.ycombinator.com/item?id=41074002) - [Startup Finance for Founders — Part I, Accounting](https://rein.pk/startup-finance-for-founders-part-i-accounting)
