@@ -23,11 +23,11 @@
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
 * [2024-07-25, 04:14:57](https://news.ycombinator.com/item?id=41064645) - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-25, 02:57:37](https://news.ycombinator.com/item?id=41064351) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
+* [2024-07-24, 23:22:57](https://news.ycombinator.com/item?id=41063258) - [Humans 1, Chimps 0: Correcting the Record](https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record)
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-22, 23:40:39](https://news.ycombinator.com/item?id=41040966) - [Imperfect, Linux-powered, DIY smart TV is the embodiment of ad fatigue](https://arstechnica.com/gadgets/2024/07/broken-linux-laptop-makes-for-a-fine-smart-tv-alternative/)
 * [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When objects are not enough (2021)](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 14:49:36](https://news.ycombinator.com/item?id=41035084) - [Real-Time Procedural Generation with GPU Work Graphs [pdf]](https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf)
-* [2024-07-22, 12:32:42](https://news.ycombinator.com/item?id=41033652) - [Games for TI-83 Plus and TI-84 Plus](https://www.tiwizard.com/games-for-ti-83-plus-and-ti-84-plus-calculators/)
 * [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five Little Languages and How They Grew: Talk at HOPL (1993)](https://www.bell-labs.com/usr/dmr/www/hopl.html)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
 
