@@ -55,6 +55,7 @@
 * [2024-07-25, 15:17:37](https://news.ycombinator.com/item?id=41069691) - [Twice-yearly injection offers 100% protection against HIV](https://www.nbcnews.com/health/health-news/hiv-injection-twice-yearly-offers-protection-rcna163406)
 * [2024-07-25, 15:17:01](https://news.ycombinator.com/item?id=41069681) - [Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
 * [2024-07-25, 15:12:50](https://news.ycombinator.com/item?id=41069626) - [Microsoft Confirms New Blue Screen Warning for Windows 10 and 11 Users](https://www.forbes.com/sites/daveywinder/2024/07/24/microsofts-new-blue-screen-warning-for-windows-10-11-and-server-users/)
+* [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-25, 15:04:24](https://news.ycombinator.com/item?id=41069527) - [Mapping Hacker News to find who knows what in the HN community](https://blog.wilsonl.in/hackerverse-2/#)
 * [2024-07-25, 14:52:38](https://news.ycombinator.com/item?id=41069403) - [The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 14:41:26](https://news.ycombinator.com/item?id=41069256) - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)

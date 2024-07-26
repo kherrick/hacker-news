@@ -55,6 +55,7 @@
 * [2024-07-23, 13:59:27](https://news.ycombinator.com/item?id=41046107) - [A (not so) small library for terminal based game development](https://github.com/pygamelib/pygamelib)
 * [2024-07-23, 13:30:32](https://news.ycombinator.com/item?id=41045834) - [Show HN: Briefer – multiplayer notebooks with schedules, SQL, and built-in LLMs](https://briefer.cloud/launches/notebooks/)
 * [2024-07-23, 13:27:02](https://news.ycombinator.com/item?id=41045801) - [Fine-Tune Embeddings in Google Colab](https://colab.research.google.com/drive/132QX_LM1db0huNpN41Vg62otSfcNuJu6?usp=sharing)
+* [2024-07-23, 12:33:20](https://news.ycombinator.com/item?id=41045291) - [Superbabies: Putting the pieces together](https://www.lesswrong.com/posts/2uJsiQqHTjePTRqi4/superbabies-putting-the-pieces-together)
 * [2024-07-23, 12:24:59](https://news.ycombinator.com/item?id=41045233) - [Paper cutting by schoolgirls nearly 350 years ago found under floorboards](https://www.nationaltrust.org.uk/visit/london/sutton-house-and-breakers-yard/lost-by-schoolgirls-a-display-of-17th-century-papercuts)
 * [2024-07-23, 12:17:02](https://news.ycombinator.com/item?id=41045176) - [Median filtering: naive algorithm, histogram-based, binary tree, and more (2022)](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 12:00:59](https://news.ycombinator.com/item?id=41045069) - [How the origins of America's immigrants have changed since 1850](https://www.pewresearch.org/short-reads/2024/07/22/how-the-origins-of-americas-immigrants-have-changed-since-1850/)
