@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-07-26, 18:29:17",
+      "https://news.ycombinator.com/item?id=41080991"
+    ],
+    [
+      "The New Internet",
+      "https://tailscale.com/blog/new-internet"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 18:19:11",
       "https://news.ycombinator.com/item?id=41080904"
     ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2024-07-26, 15:23:59",
-      "https://news.ycombinator.com/item?id=41079388"
-    ],
-    [
-      "Captain Beefheart's 10 Commandments of Guitar Playing (1996)",
-      "https://blog.wfmu.org/freeform/2009/03/captain-beefhearts-10-commandments-of-guitar-playing.html"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 14:50:10",
       "https://news.ycombinator.com/item?id=41079083"
     ],
     [
       "How to optimize a CUDA matmul kernel for cuBLAS-like performance (2022)",
       "https://siboehm.com/articles/22/CUDA-MMM"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 08:23:08",
-      "https://news.ycombinator.com/item?id=41076831"
-    ],
-    [
-      "France high-speed rail traffic disrupted by 'malicious acts' on Olympic ceremony",
-      "https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Alexandre Grothendieck, The New Universal Church (1971) [pdf]",
       "https://publish.uwo.ca/~jbell/univ.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 23:23:26",
+      "https://news.ycombinator.com/item?id=41074485"
+    ],
+    [
+      "Treescope: Interactive HTML visualization library for Python neural networks",
+      "https://github.com/google-deepmind/treescope"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-07-23, 02:05:14",
-      "https://news.ycombinator.com/item?id=41041846"
-    ],
-    [
-      "FCC liability for radio pirates operating on your property",
-      "https://www.jdsupra.com/legalnews/a-new-headache-for-landowners-fcc-9899137/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 16:34:23",
       "https://news.ycombinator.com/item?id=41036370"
     ],
@@ -297,6 +287,16 @@
     [
       "When British Railways deliberately crashed a train",
       "https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 14:58:15",
+      "https://news.ycombinator.com/item?id=41035211"
+    ],
+    [
+      "The Linux audio stack demystified",
+      "https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/"
     ]
   ]
 ]
