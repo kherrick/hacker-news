@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-07-26, 17:15:15",
+      "https://news.ycombinator.com/item?id=41080373"
+    ],
+    [
+      "Bayesian Statistics: The Three Cultures",
+      "https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 17:14:52",
+      "https://news.ycombinator.com/item?id=41080367"
+    ],
+    [
+      "Androgynous Peripheral Attach System",
+      "https://en.wikipedia.org/wiki/Androgynous_Peripheral_Attach_System"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 17:00:19",
       "https://news.ycombinator.com/item?id=41080222"
     ],
     [
       "Sample (YC W24) Is Hiring",
       "https://news.ycombinator.com/item?id=41080222"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 16:55:39",
-      "https://news.ycombinator.com/item?id=41080178"
-    ],
-    [
-      "The Incredible Machine (1993)",
-      "https://www.myabandonware.com/game/the-incredible-machine-1mg/play-1mg"
     ]
   ],
   [
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-07-26, 16:14:15",
-      "https://news.ycombinator.com/item?id=41079814"
+      "2024-07-26, 15:47:28",
+      "https://news.ycombinator.com/item?id=41079571"
     ],
     [
-      "Scaling One Million Checkboxes to 650M checks",
-      "https://eieio.games/essays/scaling-one-million-checkboxes/"
+      "Safer code in C++ with lifetime bounds",
+      "https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-07-26, 09:56:39",
-      "https://news.ycombinator.com/item?id=41077293"
-    ],
-    [
-      "Intel DDoS my website with 11.1M request",
-      "https://news.ycombinator.com/item?id=41077293"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 06:53:50",
       "https://news.ycombinator.com/item?id=41076375"
     ],
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-07-26, 03:04:19",
-      "https://news.ycombinator.com/item?id=41075476"
-    ],
-    [
-      "Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL",
-      "https://github.com/paulmooreparks/ClifferBasic"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 23:23:26",
       "https://news.ycombinator.com/item?id=41074485"
     ],
@@ -157,6 +147,16 @@
     [
       "Startup Finance for Founders – Part I, Accounting (2016)",
       "https://rein.pk/startup-finance-for-founders-part-i-accounting"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 21:52:21",
+      "https://news.ycombinator.com/item?id=41073777"
+    ],
+    [
+      "The Many Lives of Null Island",
+      "https://stamen.com/the-many-lives-of-null-island/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-07-25, 14:21:36",
-      "https://news.ycombinator.com/item?id=41068995"
-    ],
-    [
-      "Memory Mapping an FPGA from an STM32",
-      "https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 13:54:14",
       "https://news.ycombinator.com/item?id=41068719"
     ],
@@ -287,6 +277,16 @@
     [
       "When British Railways Deliberately Crashed a Train",
       "https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 05:59:09",
+      "https://news.ycombinator.com/item?id=41031288"
+    ],
+    [
+      "What's the Point? BigDecimal in review",
+      "https://dmiller.github.io/clojure-clr-next/general/2024/07/21/whats-the-point.html"
     ]
   ],
   [
