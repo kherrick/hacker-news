@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-26, 14:12:54](https://news.ycombinator.com/item?id=41078820) - [DARPA Brings Next-Gen US Microelectronics Manufacturing Closer to Reality](https://www.darpa.mil/news-events/2024-07-18)
-* [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+* [2024-07-26, 15:12:32](https://news.ycombinator.com/item?id=41079264) - [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
+* [2024-07-26, 14:42:08](https://news.ycombinator.com/item?id=41079006) - [Was Penrose right? New evidence for quantum effects in the brain [video]](https://www.youtube.com/watch?v=xa2Kpkksf3k)
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
