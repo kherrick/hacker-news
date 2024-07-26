@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-26, 09:14:28](https://news.ycombinator.com/item?id=41077061) - [French train network hit by 'malicious' arson attacks](https://www.bbc.com/news/live/cxe24vg59lzt)
 * [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
 * [2024-07-25, 22:20:28](https://news.ycombinator.com/item?id=41074002) - [Startup Finance for Founders — Part I, Accounting](https://rein.pk/startup-finance-for-founders-part-i-accounting)
@@ -18,6 +17,7 @@
 * [2024-07-25, 14:41:26](https://news.ycombinator.com/item?id=41069256) - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
 * [2024-07-25, 14:21:36](https://news.ycombinator.com/item?id=41068995) - [Memory Mapping an FPGA from an STM32](https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html)
 * [2024-07-25, 13:54:14](https://news.ycombinator.com/item?id=41068719) - [Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas](https://haystackeditor.com/)
+* [2024-07-25, 13:13:14](https://news.ycombinator.com/item?id=41068294) - [What's so hard about constexpr allocation?](https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/)
 * [2024-07-25, 12:04:09](https://news.ycombinator.com/item?id=41067616) - [A chemist explains the chemistry behind decaf coffee](https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196)
 * [2024-07-25, 09:18:13](https://news.ycombinator.com/item?id=41066544) - [Defense of Lisp macros: The automotive field as a case in point](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
