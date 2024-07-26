@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-26, 14:43:35](https://news.ycombinator.com/item?id=41079020) - [Automakers Sold Driver Data for Pennies, Senators Say](https://www.nytimes.com/2024/07/26/technology/driver-data-sold-for-pennies.html)
 * [2024-07-26, 14:28:10](https://news.ycombinator.com/item?id=41078910) - [Pilots said nothing as Southwest plane flew dangerously low over Tampa Bay](https://www.tampabay.com/news/transportation/2024/07/25/southwest-tampa-florida-flight-descent/)
 * [2024-07-26, 14:12:54](https://news.ycombinator.com/item?id=41078820) - [DARPA Brings Next-Gen US Microelectronics Manufacturing Closer to Reality](https://www.darpa.mil/news-events/2024-07-18)
 * [2024-07-26, 13:13:36](https://news.ycombinator.com/item?id=41078354) - [Melting ice is slowing Earth's spin, shifting its axis and influencing its core](https://www.nbcnews.com/science/environment/melting-ice-shifting-earth-spin-axis-core-rcna162089)
 * [2024-07-26, 12:01:14](https://news.ycombinator.com/item?id=41077879) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
-* [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 03:04:19](https://news.ycombinator.com/item?id=41075476) - [Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL](https://github.com/paulmooreparks/ClifferBasic)
 * [2024-07-25, 23:25:00](https://news.ycombinator.com/item?id=41074500) - [Dual action antibiotic could make bacterial resistance nearly impossible](https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html)
 * [2024-07-25, 22:20:28](https://news.ycombinator.com/item?id=41074002) - [Startup Finance for Founders — Part I, Accounting](https://rein.pk/startup-finance-for-founders-part-i-accounting)

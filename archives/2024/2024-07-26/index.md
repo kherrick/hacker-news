@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 14:43:35](https://news.ycombinator.com/item?id=41079020) - [Automakers Sold Driver Data for Pennies, Senators Say](https://www.nytimes.com/2024/07/26/technology/driver-data-sold-for-pennies.html)
 * [2024-07-26, 14:28:10](https://news.ycombinator.com/item?id=41078910) - [Pilots said nothing as Southwest plane flew dangerously low over Tampa Bay](https://www.tampabay.com/news/transportation/2024/07/25/southwest-tampa-florida-flight-descent/)
 * [2024-07-26, 14:12:54](https://news.ycombinator.com/item?id=41078820) - [DARPA Brings Next-Gen US Microelectronics Manufacturing Closer to Reality](https://www.darpa.mil/news-events/2024-07-18)
 * [2024-07-26, 13:13:36](https://news.ycombinator.com/item?id=41078354) - [Melting ice is slowing Earth's spin, shifting its axis and influencing its core](https://www.nbcnews.com/science/environment/melting-ice-shifting-earth-spin-axis-core-rcna162089)
