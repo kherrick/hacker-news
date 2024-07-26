@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-26, 17:50:42](https://news.ycombinator.com/item?id=41080644) - [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
+* [2024-07-26, 17:50:30](https://news.ycombinator.com/item?id=41080642) - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
 * [2024-07-26, 17:45:08](https://news.ycombinator.com/item?id=41080599) - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 * [2024-07-26, 17:31:03](https://news.ycombinator.com/item?id=41080485) - [Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
@@ -16,7 +17,6 @@
 * [2024-07-26, 16:14:15](https://news.ycombinator.com/item?id=41079814) - [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 15:23:59](https://news.ycombinator.com/item?id=41079388) - [Captain Beefheart's 10 Commandments of Guitar Playing (1996)](https://blog.wfmu.org/freeform/2009/03/captain-beefhearts-10-commandments-of-guitar-playing.html)
 * [2024-07-26, 14:50:10](https://news.ycombinator.com/item?id=41079083) - [How to optimize a CUDA matmul kernel for cuBLAS-like performance: a worklog](https://siboehm.com/articles/22/CUDA-MMM)
-* [2024-07-26, 14:44:35](https://news.ycombinator.com/item?id=41079027) - [how do you 'accurately' speak English in ancient Rome?](https://text.npr.org/nx-s1-5049970)
 * [2024-07-26, 08:23:08](https://news.ycombinator.com/item?id=41076831) - [France high-speed rail traffic disrupted by 'malicious acts' on Olympic ceremony](https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html)
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
@@ -28,7 +28,7 @@
 * [2024-07-24, 23:36:37](https://news.ycombinator.com/item?id=41063361) - [Memory for music doesn't diminish with age](https://www.nature.com/articles/d41586-024-02369-7)
 * [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-22, 23:28:23](https://news.ycombinator.com/item?id=41040900) - [Shoe prints lead FBI to suspect couple involved in multiple New Mexico wildfires](https://www.nbcnews.com/news/us-news/shoe-prints-lead-fbi-suspect-man-woman-involved-multiple-new-mexico-wi-rcna163087)
-* [2024-07-22, 16:34:23](https://news.ycombinator.com/item?id=41036370) - [NASA Graphics Standards Manual](https://standardsmanual.com/products/nasa-graphics-standards-manual)
+* [2024-07-22, 16:34:23](https://news.ycombinator.com/item?id=41036370) - [NASA Graphics Standards Manual (1976)](https://standardsmanual.com/products/nasa-graphics-standards-manual)
 * [2024-07-22, 16:27:59](https://news.ycombinator.com/item?id=41036267) - [When British Railways deliberately crashed a train](https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/)
 
 ## [Archives](archives/index.md)

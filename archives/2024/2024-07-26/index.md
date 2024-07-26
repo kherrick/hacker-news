@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
 * [2024-07-26, 17:50:42](https://news.ycombinator.com/item?id=41080644) - [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
+* [2024-07-26, 17:50:30](https://news.ycombinator.com/item?id=41080642) - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
 * [2024-07-26, 17:45:08](https://news.ycombinator.com/item?id=41080599) - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 * [2024-07-26, 17:31:03](https://news.ycombinator.com/item?id=41080485) - [Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
