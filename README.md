@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-26, 05:14:19](https://news.ycombinator.com/item?id=41075934) - [Zulip 9.0: Organized chat for distributed teams](https://blog.zulip.com/2024/07/25/zulip-9-0-released/)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
 * [2024-07-26, 01:40:43](https://news.ycombinator.com/item?id=41075174) - ['New El Nino' discovered south of equator](https://www.reading.ac.uk/news/2024/Research-News/New-El-Nino-discovered-south-of-equator)
 * [2024-07-26, 01:12:02](https://news.ycombinator.com/item?id=41075066) - [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
@@ -26,7 +27,6 @@
 * [2024-07-24, 23:22:57](https://news.ycombinator.com/item?id=41063258) - [Humans 1, Chimps 0: Correcting the Record](https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record)
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-23, 19:12:20](https://news.ycombinator.com/item?id=41049666) - [Fair Chess and Simultaneous Games](https://asvarga.github.io/blog/2024/06/22/fair-chess-and-simultaneous-games.html)
-* [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When objects are not enough (2021)](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 14:49:36](https://news.ycombinator.com/item?id=41035084) - [Real-Time Procedural Generation with GPU Work Graphs [pdf]](https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf)
 * [2024-07-22, 08:42:03](https://news.ycombinator.com/item?id=41032097) - [Five Little Languages and How They Grew: Talk at HOPL (1993)](https://www.bell-labs.com/usr/dmr/www/hopl.html)
 * [2024-07-21, 17:12:59](https://news.ycombinator.com/item?id=41026480) - [Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
