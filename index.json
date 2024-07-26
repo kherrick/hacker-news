@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-26, 16:22:34",
+      "https://news.ycombinator.com/item?id=41079901"
+    ],
+    [
+      "There is no fix for Intel's crashing 13th/14th Gen CPUs – damage is permanent",
+      "https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 16:14:15",
+      "https://news.ycombinator.com/item?id=41079814"
+    ],
+    [
+      "Scaling One Million Checkboxes to 650M checks",
+      "https://eieio.games/essays/scaling-one-million-checkboxes/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 12:01:14",
       "https://news.ycombinator.com/item?id=41077879"
     ],
@@ -47,16 +67,6 @@
     [
       "A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow",
       "https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 03:04:19",
-      "https://news.ycombinator.com/item?id=41075476"
-    ],
-    [
-      "Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL",
-      "https://github.com/paulmooreparks/ClifferBasic"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Reverse Engineering for Everyone",
       "https://0xinfection.github.io/reversing/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 14:21:36",
-      "https://news.ycombinator.com/item?id=41068995"
-    ],
-    [
-      "Memory Mapping an FPGA from an STM32",
-      "https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html"
     ]
   ],
   [
