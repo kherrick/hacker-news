@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-26, 17:31:03",
+      "https://news.ycombinator.com/item?id=41080485"
+    ],
+    [
+      "Finding a random seed that solves a LeetCode problem (2023)",
+      "https://mcognetta.github.io/posts/leetcode-random-seed/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 17:25:14",
+      "https://news.ycombinator.com/item?id=41080442"
+    ],
+    [
+      "How a car cigarette lighter works, in CT scans",
+      "https://www.lumafield.com/article/how-does-a-car-cigarette-lighter-work"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 17:15:15",
       "https://news.ycombinator.com/item?id=41080373"
     ],
@@ -47,6 +67,16 @@
     [
       "Stripe Acquires Lemon Squeezy",
       "https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 16:14:45",
+      "https://news.ycombinator.com/item?id=41079819"
+    ],
+    [
+      "Let's talk about how Mihoyo's monetization works",
+      "https://moonbearmusings.com/lets-talk-about-how-mihoyos-monetization-works/"
     ]
   ],
   [
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2024-07-26, 06:14:12",
-      "https://news.ycombinator.com/item?id=41076190"
-    ],
-    [
-      "Bcachefs, an Introduction/Exploration",
-      "http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 04:26:53",
       "https://news.ycombinator.com/item?id=41075766"
     ],
     [
       "A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow",
       "https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 03:04:19",
-      "https://news.ycombinator.com/item?id=41075476"
-    ],
-    [
-      "Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL",
-      "https://github.com/paulmooreparks/ClifferBasic"
     ]
   ],
   [
@@ -161,22 +171,22 @@
   ],
   [
     [
+      "2024-07-25, 21:47:57",
+      "https://news.ycombinator.com/item?id=41073741"
+    ],
+    [
+      "NYPD Coppelgänger: Exploring Cop Data",
+      "https://lav.io/notes/exploring-cop-data/"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 21:41:58",
       "https://news.ycombinator.com/item?id=41073698"
     ],
     [
       "Pongamia trees grow where citrus once flourished",
       "https://phys.org/news/2024-07-pongamia-trees-citrus-flourished-renewable.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 20:53:50",
-      "https://news.ycombinator.com/item?id=41073264"
-    ],
-    [
-      "A Clone of Deluxe Paint II Written in Python",
-      "https://github.com/mriale/PyDPainter"
     ]
   ],
   [
@@ -191,36 +201,6 @@
   ],
   [
     [
-      "2024-07-25, 17:00:03",
-      "https://news.ycombinator.com/item?id=41070870"
-    ],
-    [
-      "Unfashionably secure: why we use isolated VMs",
-      "https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 16:18:34",
-      "https://news.ycombinator.com/item?id=41070428"
-    ],
-    [
-      "Show HN: Wat – Deep inspection of Python objects",
-      "https://github.com/igrek51/wat"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 15:36:57",
-      "https://news.ycombinator.com/item?id=41069909"
-    ],
-    [
-      "Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers",
-      "https://news.ycombinator.com/item?id=41069909"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 15:29:41",
       "https://news.ycombinator.com/item?id=41069829"
     ],
@@ -231,32 +211,32 @@
   ],
   [
     [
-      "2024-07-25, 13:54:14",
-      "https://news.ycombinator.com/item?id=41068719"
+      "2024-07-24, 02:39:17",
+      "https://news.ycombinator.com/item?id=41053148"
     ],
     [
-      "Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas",
-      "https://haystackeditor.com/"
+      "FTC launches probe into 'surveillance pricing'",
+      "https://www.cnbc.com/2024/07/23/ftc-launches-probe-into-surveillance-pricing.html"
     ]
   ],
   [
     [
-      "2024-07-25, 04:14:57",
-      "https://news.ycombinator.com/item?id=41064645"
+      "2024-07-23, 02:36:03",
+      "https://news.ycombinator.com/item?id=41041995"
     ],
     [
-      "Investigating corrupt Winamp skins",
-      "https://jordaneldredge.com/notes/corrupted-skins/"
+      "From Linux to NetBSD, with SSH Only",
+      "https://cloudbsd.xyz/"
     ]
   ],
   [
     [
-      "2024-07-23, 16:50:05",
-      "https://news.ycombinator.com/item?id=41048196"
+      "2024-07-22, 22:28:08",
+      "https://news.ycombinator.com/item?id=41040520"
     ],
     [
-      "Show HN: I built a tool to expand your network (that introverts will love)",
-      "https://www.moreoverlap.com/"
+      "Clojure macros continue to surprise me",
+      "https://tonsky.me/blog/clojure-macros/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-07-22, 15:59:19",
+      "https://news.ycombinator.com/item?id=41035909"
+    ],
+    [
+      "'Evolution happens much quicker than Darwin thought'",
+      "https://www.theguardian.com/science/article/2024/jul/21/rosemary-grant-peter-grant-charles-darwin-finches-evolutionary-biology-princeton-one-step-sideways-three-steps-forward-memoir"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 05:59:09",
       "https://news.ycombinator.com/item?id=41031288"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-07-21, 17:12:59",
-      "https://news.ycombinator.com/item?id=41026480"
+      "2024-07-22, 03:33:44",
+      "https://news.ycombinator.com/item?id=41030693"
     ],
     [
-      "Veles: Open-source tool for binary data analysis",
-      "https://codisec.com/veles/"
+      "What it's like to dissect a cadaver",
+      "https://alok.github.io/2022/11/09/dissection/"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 17:48:08",
+      "https://news.ycombinator.com/item?id=41026726"
+    ],
+    [
+      "An interactive guide to x86-64 assembly – moving data",
+      "https://halb.it/posts/x64-moving-data/"
     ]
   ]
 ]
