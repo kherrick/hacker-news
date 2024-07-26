@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 02:32:47](https://news.ycombinator.com/item?id=41075395) - [American Suburbs Are a Horror Movie and We're the Protagonists](https://www.strongtowns.org/journal/2022/1/13/american-suburbs-are-a-horror-movie-and-were-the-protagonists)
 * [2024-07-26, 01:40:43](https://news.ycombinator.com/item?id=41075174) - ['New El Nino' discovered south of equator](https://www.reading.ac.uk/news/2024/Research-News/New-El-Nino-discovered-south-of-equator)
 * [2024-07-26, 01:12:02](https://news.ycombinator.com/item?id=41075066) - [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
 * [2024-07-26, 01:10:23](https://news.ycombinator.com/item?id=41075058) - [Judge denies SpaceX effort to block move of NLRB case back to California [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txsd.1946370/gov.uscourts.txsd.1946370.131.0.pdf)
