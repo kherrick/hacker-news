@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-26, 01:12:02",
-      "https://news.ycombinator.com/item?id=41075066"
-    ],
-    [
-      "C# almost has implicit interfaces",
-      "https://clipperhouse.com/c-sharp-implicit-interfaces/"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 22:12:57",
       "https://news.ycombinator.com/item?id=41073930"
     ],
@@ -187,6 +177,16 @@
     [
       "Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas",
       "https://haystackeditor.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 13:13:14",
+      "https://news.ycombinator.com/item?id=41068294"
+    ],
+    [
+      "What's so hard about constexpr allocation?",
+      "https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/"
     ]
   ],
   [
