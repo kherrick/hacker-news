@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
 * [2024-07-27, 19:47:30](https://news.ycombinator.com/item?id=41088860) - [The \"Perfect Score\" Script (2017)](https://www.kaggle.com/code/olegtrott/the-perfect-score-script)
+* [2024-07-27, 19:16:11](https://news.ycombinator.com/item?id=41088645) - [Workbrew](https://workbrew.com/)
 * [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
 * [2024-07-27, 19:00:20](https://news.ycombinator.com/item?id=41088548) - [Canadian women's soccer team loses six points, coach banned over drone scandal](https://www.reuters.com/sports/olympics/football-canada-womens-soccer-team-deducted-six-points-coach-banned-2024-07-27/)
 * [2024-07-27, 18:44:09](https://news.ycombinator.com/item?id=41088475) - [Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars](https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/)
