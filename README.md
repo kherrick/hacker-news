@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-27, 16:43:39](https://news.ycombinator.com/item?id=41087719) - [Big Tech says AI is booming. Wall Street is starting to see a bubble](https://www.washingtonpost.com/technology/2024/07/24/ai-bubble-big-tech-stocks-goldman-sachs/)
+* [2024-07-27, 16:08:26](https://news.ycombinator.com/item?id=41087429) - [One German city developed – and then lost – generations of math geniuses](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
 * [2024-07-27, 15:09:37](https://news.ycombinator.com/item?id=41087070) - [Abstract Interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
-* [2024-07-27, 15:05:50](https://news.ycombinator.com/item?id=41087048) - [Why the US still needs the F-15 [video]](https://www.youtube.com/watch?v=pIdzBDN3YZ4)
 * [2024-07-27, 14:23:11](https://news.ycombinator.com/item?id=41086789) - [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
 * [2024-07-27, 14:05:04](https://news.ycombinator.com/item?id=41086679) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
@@ -25,9 +25,9 @@
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
-* [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
 * [2024-07-24, 03:33:31](https://news.ycombinator.com/item?id=41053387) - [Did pizza exist in the Soviet Union?](https://www.quora.com/Did-pizza-exist-in-the-Soviet-Union)
+* [2024-07-23, 21:21:26](https://news.ycombinator.com/item?id=41051040) - [Enhancing Your Elixir Codebase with Gleam](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
 * [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Adventure Games Suck (2004)](https://grumpygamer.com/why_adventure_games_suck)
 
