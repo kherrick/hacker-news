@@ -39,6 +39,7 @@
 * [2024-07-23, 17:37:36](https://news.ycombinator.com/item?id=41048707) - [Computer program 'paints' porphyrin structures in the style of Piet Mondrian](https://www.chemistryworld.com/news/computer-program-paints-porphyrin-structures-in-the-style-of-famous-artist/4019839.article)
 * [2024-07-23, 17:33:28](https://news.ycombinator.com/item?id=41048677) - [How Warsaw Came Close to Never Being Rebuilt (2015)](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
 * [2024-07-23, 17:23:04](https://news.ycombinator.com/item?id=41048566) - [RAG architecture for SaaS – Learnings from building an AI code assistant](https://www.thenile.dev/blog/building_code_assistant)
+* [2024-07-23, 17:14:12](https://news.ycombinator.com/item?id=41048473) - [Show HN: Preprocessor I've been working 4 years now](https://www.npmjs.com/package/pretty-markup)
 * [2024-07-23, 17:00:55](https://news.ycombinator.com/item?id=41048325) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-07-23, 16:50:05](https://news.ycombinator.com/item?id=41048196) - [Show HN: I built a tool to expand your network (that introverts will love)](https://www.moreoverlap.com/)
 * [2024-07-23, 16:49:53](https://news.ycombinator.com/item?id=41048194) - [Show HN: Zerox – document OCR with GPT-mini](https://github.com/getomni-ai/zerox)

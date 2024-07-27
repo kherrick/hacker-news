@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
-* [2024-07-27, 20:34:15](https://news.ycombinator.com/item?id=41089153) - [America's 60-Year-Olds Are Staring at Financial Peril](https://www.msn.com/en-us/money/retirement/america-s-60-year-olds-are-staring-at-financial-peril/ar-BB1qrHXP)
 * [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 19:16:11](https://news.ycombinator.com/item?id=41088645) - [Workbrew](https://workbrew.com/)
 * [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
@@ -21,15 +20,16 @@
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a Cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 18:41:35](https://news.ycombinator.com/item?id=41081122) - [What happens if you connect Windows XP to the Internet in 2024? [video]](https://www.youtube.com/watch?v=6uSVVCmOH5w)
 * [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
-* [2024-07-26, 18:32:37](https://news.ycombinator.com/item?id=41081021) - [Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 * [2024-07-26, 17:51:36](https://news.ycombinator.com/item?id=41080654) - [Maglev titanium heart inside the chest of a live patient](https://newatlas.com/medical/maglev-titanium-heart-bivacor/)
 * [2024-07-26, 17:45:30](https://news.ycombinator.com/item?id=41080602) - [Show HN: Applesoft BASIC editor with example programs](https://paleotronic.com/applesoft/)
 * [2024-07-26, 17:44:12](https://news.ycombinator.com/item?id=41080593) - [Beyond Authenticity: Hannah Arendt's final unfinished work](https://aeon.co/essays/what-hannah-arendt-proposed-as-an-alternative-to-authenticity)
+* [2024-07-26, 17:09:13](https://news.ycombinator.com/item?id=41080303) - [The Man Who Invented Times Square](https://thereader.mitpress.mit.edu/the-man-who-invented-times-square-o-j-gude-and-the-birth-of-the-spectacular/)
+* [2024-07-26, 16:46:16](https://news.ycombinator.com/item?id=41080078) - [Why You Shouldn't Write a DAW (2023) [video]](https://www.youtube.com/watch?v=GMlnh6_9aTc)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-23, 21:25:35](https://news.ycombinator.com/item?id=41051086) - [Hosting Static Content with Gitlab](https://eklausmeier.goip.de/blog/2024/07-14-hosting-static-content-with-gitlab)
 * [2024-07-23, 21:21:26](https://news.ycombinator.com/item?id=41051040) - [Enhancing Your Elixir Codebase with Gleam](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
+* [2024-07-23, 17:14:12](https://news.ycombinator.com/item?id=41048473) - [Show HN: Preprocessor I've been working 4 years now](https://www.npmjs.com/package/pretty-markup)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
-* [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Adventure Games Suck (2004)](https://grumpygamer.com/why_adventure_games_suck)
 
 ## [Archives](archives/index.md)
 
