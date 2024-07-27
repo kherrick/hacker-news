@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-27, 02:32:18](https://news.ycombinator.com/item?id=41084077) - [Advanced Linux Programming [pdf]](https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf)
+* [2024-07-27, 02:48:17](https://news.ycombinator.com/item?id=41084132) - [Guish: Write shell pipelines at the command line with a GUI editor](https://github.com/williamcotton/guish)
 * [2024-07-27, 02:09:30](https://news.ycombinator.com/item?id=41083987) - [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
+* [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [2024-07-27, 01:00:27](https://news.ycombinator.com/item?id=41083726) - [How Large Language Models Will Disrupt Data Management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
 * [2024-07-27, 01:00:23](https://news.ycombinator.com/item?id=41083725) - [GCVR (YC W22) Is Hiring Lead Back End Engineer (Sr/Staff/Principal)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal)
 * [2024-07-27, 00:19:32](https://news.ycombinator.com/item?id=41083534) - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
@@ -21,7 +22,6 @@
 * [2024-07-26, 17:50:30](https://news.ycombinator.com/item?id=41080642) - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
 * [2024-07-26, 17:45:08](https://news.ycombinator.com/item?id=41080599) - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
-* [2024-07-26, 17:31:03](https://news.ycombinator.com/item?id=41080485) - [Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
 * [2024-07-26, 02:31:56](https://news.ycombinator.com/item?id=41075390) - [Alexandre Grothendieck, The New Universal Church (1971) [pdf]](https://publish.uwo.ca/~jbell/univ.pdf)
