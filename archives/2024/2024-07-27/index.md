@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 03:55:08](https://news.ycombinator.com/item?id=41084334) - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
+* [2024-07-27, 02:48:58](https://news.ycombinator.com/item?id=41084134) - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
 * [2024-07-27, 02:48:17](https://news.ycombinator.com/item?id=41084132) - [Guish: Write shell pipelines at the command line with a GUI editor](https://github.com/williamcotton/guish)
 * [2024-07-27, 02:32:18](https://news.ycombinator.com/item?id=41084077) - [Advanced Linux Programming [pdf]](https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf)
 * [2024-07-27, 02:09:30](https://news.ycombinator.com/item?id=41083987) - [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)

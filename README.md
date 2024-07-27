@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-27, 02:48:17](https://news.ycombinator.com/item?id=41084132) - [Guish: Write shell pipelines at the command line with a GUI editor](https://github.com/williamcotton/guish)
+* [2024-07-27, 03:55:08](https://news.ycombinator.com/item?id=41084334) - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
+* [2024-07-27, 02:48:58](https://news.ycombinator.com/item?id=41084134) - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
 * [2024-07-27, 02:09:30](https://news.ycombinator.com/item?id=41083987) - [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [2024-07-27, 01:00:27](https://news.ycombinator.com/item?id=41083726) - [How Large Language Models Will Disrupt Data Management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
@@ -28,7 +29,6 @@
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
 * [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper Cuttings Made by 17th-Century Schoolgirls Discovered Beneath Floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
-* [2024-07-23, 02:36:03](https://news.ycombinator.com/item?id=41041995) - [From Linux to NetBSD, with SSH Only](https://cloudbsd.xyz/)
 * [2024-07-22, 16:51:16](https://news.ycombinator.com/item?id=41036544) - [How to Preserve Physical Photos](https://ente.io/blog/how-to-preserve-physical-photos/)
 
 ## [Archives](archives/index.md)
