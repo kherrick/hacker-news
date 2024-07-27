@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 16:29:50](https://news.ycombinator.com/item?id=41087608) - [AI existential risk probabilities are too unreliable to inform policy](https://www.aisnakeoil.com/p/ai-existential-risk-probabilities)
 * [2024-07-27, 16:19:21](https://news.ycombinator.com/item?id=41087518) - [Sig Sauer guns hanging on soldiers' hips may be firing without trigger pull](https://text.npr.org/nx-s1-5023043)
 * [2024-07-27, 15:40:55](https://news.ycombinator.com/item?id=41087254) - [Why people on Hacker News comment without reading](https://www.markepear.com/blog/hacker-news-comments)
 * [2024-07-27, 15:39:16](https://news.ycombinator.com/item?id=41087246) - [Oh man! Our entire team has been replaced by Vietnam developers.](https://old.reddit.com/r/developersIndia/comments/1eckee9/oh_man_our_entire_team_has_been_replaced_by/)
