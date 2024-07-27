@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-27, 17:54:19",
+      "https://news.ycombinator.com/item?id=41088224"
+    ],
+    [
+      "Aphex Twin gave us a peek inside a 90s classic (2017)",
+      "https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 17:23:55",
+      "https://news.ycombinator.com/item?id=41088013"
+    ],
+    [
+      "An experiment in UI density created with Svelte",
+      "https://cybernetic.dev/grid"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 17:18:15",
       "https://news.ycombinator.com/item?id=41087977"
     ],
@@ -97,16 +117,6 @@
     [
       "In the Beginning Was the Command Line (1999)",
       "https://web.stanford.edu/class/cs81n/command.txt"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 03:55:08",
-      "https://news.ycombinator.com/item?id=41084334"
-    ],
-    [
-      "Better Firmware with LLVM/Clang (2020)",
-      "https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Reverse-engineering my speakers' API to get reasonable volume control",
       "https://jamesbvaughan.com/volume-controller-1/"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 19:03:36",
-      "https://news.ycombinator.com/item?id=41060618"
-    ],
-    [
-      "Seam Carving (2018)",
-      "https://andrewdcampbell.github.io/seam-carving"
     ]
   ],
   [
