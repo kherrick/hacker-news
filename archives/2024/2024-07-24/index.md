@@ -83,6 +83,7 @@
 * [2024-07-24, 04:42:17](https://news.ycombinator.com/item?id=41053675) - [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)
 * [2024-07-24, 04:35:27](https://news.ycombinator.com/item?id=41053645) - [Falcon Content Update Preliminary Post Incident Report](https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/)
 * [2024-07-24, 04:20:30](https://news.ycombinator.com/item?id=41053571) - [North Texas community says crypto-mining facility brings never-ending noise](https://www.cbsnews.com/texas/news/north-texas-community-says-crypto-mining-facility-never-ending-noise-declining-health/)
+* [2024-07-24, 03:33:31](https://news.ycombinator.com/item?id=41053387) - [Did pizza exist in the Soviet Union?](https://www.quora.com/Did-pizza-exist-in-the-Soviet-Union)
 * [2024-07-24, 03:32:40](https://news.ycombinator.com/item?id=41053383) - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 * [2024-07-24, 03:28:01](https://news.ycombinator.com/item?id=41053364) - [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
 * [2024-07-24, 03:16:15](https://news.ycombinator.com/item?id=41053329) - [What \"consent\" looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
