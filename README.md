@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-27, 12:41:18](https://news.ycombinator.com/item?id=41086206) - [Google reported a 13% increase in its emissions footprint in 2023](https://indianexpress.com/article/explained/explained-sci-tech/why-ais-present-and-future-bring-some-serious-environmental-concerns-9476135/)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 12:02:10](https://news.ycombinator.com/item?id=41086007) - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
 * [2024-07-27, 11:29:16](https://news.ycombinator.com/item?id=41085856) - [Sqlitefs: SQLite as a Filesystem](https://github.com/narumatt/sqlitefs)
@@ -23,7 +24,6 @@
 * [2024-07-26, 18:29:17](https://news.ycombinator.com/item?id=41080991) - [The New Internet](https://tailscale.com/blog/new-internet)
 * [2024-07-26, 18:19:11](https://news.ycombinator.com/item?id=41080904) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 * [2024-07-26, 17:50:30](https://news.ycombinator.com/item?id=41080642) - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
-* [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)

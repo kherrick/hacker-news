@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 12:41:18](https://news.ycombinator.com/item?id=41086206) - [Google reported a 13% increase in its emissions footprint in 2023](https://indianexpress.com/article/explained/explained-sci-tech/why-ais-present-and-future-bring-some-serious-environmental-concerns-9476135/)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 12:02:10](https://news.ycombinator.com/item?id=41086007) - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
 * [2024-07-27, 11:29:16](https://news.ycombinator.com/item?id=41085856) - [Sqlitefs: SQLite as a Filesystem](https://github.com/narumatt/sqlitefs)
