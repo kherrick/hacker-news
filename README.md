@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-27, 15:40:55](https://news.ycombinator.com/item?id=41087254) - [Why people on Hacker News comment without reading](https://www.markepear.com/blog/hacker-news-comments)
 * [2024-07-27, 15:39:16](https://news.ycombinator.com/item?id=41087246) - [Oh man! Our entire team has been replaced by Vietnam developers.](https://old.reddit.com/r/developersIndia/comments/1eckee9/oh_man_our_entire_team_has_been_replaced_by/)
 * [2024-07-27, 15:32:19](https://news.ycombinator.com/item?id=41087208) - [Adobe exec compared Creative Cloud cancellation fees to 'heroin'](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
+* [2024-07-27, 15:09:37](https://news.ycombinator.com/item?id=41087070) - [Abstract Interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
+* [2024-07-27, 15:05:50](https://news.ycombinator.com/item?id=41087048) - [Why the US still needs the F-15 [video]](https://www.youtube.com/watch?v=pIdzBDN3YZ4)
 * [2024-07-27, 14:23:11](https://news.ycombinator.com/item?id=41086789) - [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
 * [2024-07-27, 14:05:04](https://news.ycombinator.com/item?id=41086679) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
@@ -22,7 +23,6 @@
 * [2024-07-26, 19:20:43](https://news.ycombinator.com/item?id=41081435) - [TOTP tokens on my wrist with the smartest dumb watch](https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/)
 * [2024-07-26, 18:32:37](https://news.ycombinator.com/item?id=41081021) - [Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 * [2024-07-26, 18:19:11](https://news.ycombinator.com/item?id=41080904) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
-* [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
