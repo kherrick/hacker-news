@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-27, 19:06:14",
+      "https://news.ycombinator.com/item?id=41088592"
+    ],
+    [
+      "Managarm: Pragmatic microkernel-based OS with asynchronous I/O",
+      "https://github.com/managarm/managarm"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 19:00:20",
+      "https://news.ycombinator.com/item?id=41088548"
+    ],
+    [
+      "Canadian women's soccer team loses six points, coach banned over drone scandal",
+      "https://www.reuters.com/sports/olympics/football-canada-womens-soccer-team-deducted-six-points-coach-banned-2024-07-27/"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 18:44:09",
+      "https://news.ycombinator.com/item?id=41088475"
+    ],
+    [
+      "Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars",
+      "https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 17:54:19",
       "https://news.ycombinator.com/item?id=41088224"
     ],
@@ -57,16 +87,6 @@
     [
       "Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces",
       "https://github.com/metal3d/bashsimplecurses"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 14:05:04",
-      "https://news.ycombinator.com/item?id=41086679"
-    ],
-    [
-      "Revealing the Inner Structure of AWS Session Tokens",
-      "https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-07-26, 17:15:15",
-      "https://news.ycombinator.com/item?id=41080373"
-    ],
-    [
-      "Bayesian Statistics: The three cultures",
-      "https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 17:14:32",
       "https://news.ycombinator.com/item?id=41080366"
     ],
@@ -257,16 +267,6 @@
     [
       "Minecraft (2014)",
       "https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 15:30:25",
-      "https://news.ycombinator.com/item?id=41058087"
-    ],
-    [
-      "Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024",
-      "https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/"
     ]
   ],
   [
