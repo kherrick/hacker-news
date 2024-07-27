@@ -20,16 +20,16 @@
 * [2024-07-26, 18:29:17](https://news.ycombinator.com/item?id=41080991) - [The New Internet](https://tailscale.com/blog/new-internet)
 * [2024-07-26, 18:19:11](https://news.ycombinator.com/item?id=41080904) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 * [2024-07-26, 17:50:30](https://news.ycombinator.com/item?id=41080642) - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
-* [2024-07-26, 17:45:08](https://news.ycombinator.com/item?id=41080599) - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
+* [2024-07-26, 17:31:03](https://news.ycombinator.com/item?id=41080485) - [Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
 * [2024-07-26, 02:31:56](https://news.ycombinator.com/item?id=41075390) - [Alexandre Grothendieck, The New Universal Church (1971) [pdf]](https://publish.uwo.ca/~jbell/univ.pdf)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
-* [2024-07-23, 12:33:20](https://news.ycombinator.com/item?id=41045291) - [Superbabies: Putting the pieces together](https://www.lesswrong.com/posts/2uJsiQqHTjePTRqi4/superbabies-putting-the-pieces-together)
 * [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper Cuttings Made by 17th-Century Schoolgirls Discovered Beneath Floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
+* [2024-07-23, 02:36:03](https://news.ycombinator.com/item?id=41041995) - [From Linux to NetBSD, with SSH Only](https://cloudbsd.xyz/)
 
 ## [Archives](archives/index.md)
 
