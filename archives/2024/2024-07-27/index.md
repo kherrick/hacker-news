@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 16:43:39](https://news.ycombinator.com/item?id=41087719) - [Big Tech says AI is booming. Wall Street is starting to see a bubble](https://www.washingtonpost.com/technology/2024/07/24/ai-bubble-big-tech-stocks-goldman-sachs/)
 * [2024-07-27, 16:29:50](https://news.ycombinator.com/item?id=41087608) - [AI existential risk probabilities are too unreliable to inform policy](https://www.aisnakeoil.com/p/ai-existential-risk-probabilities)
 * [2024-07-27, 16:19:21](https://news.ycombinator.com/item?id=41087518) - [Sig Sauer guns hanging on soldiers' hips may be firing without trigger pull](https://text.npr.org/nx-s1-5023043)
 * [2024-07-27, 15:40:55](https://news.ycombinator.com/item?id=41087254) - [Why people on Hacker News comment without reading](https://www.markepear.com/blog/hacker-news-comments)
