@@ -53,6 +53,7 @@
 * [2024-07-22, 17:15:54](https://news.ycombinator.com/item?id=41036844) - [How much money we can raise for transparently idiotic startups?](https://www.smbc-comics.com/comic/investment-2)
 * [2024-07-22, 17:04:45](https://news.ycombinator.com/item?id=41036683) - [Findings – OpenResearch](https://www.openresearchlab.org/findings)
 * [2024-07-22, 17:00:37](https://news.ycombinator.com/item?id=41036633) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
+* [2024-07-22, 16:51:16](https://news.ycombinator.com/item?id=41036544) - [How to Preserve Physical Photos](https://ente.io/blog/how-to-preserve-physical-photos/)
 * [2024-07-22, 16:49:08](https://news.ycombinator.com/item?id=41036530) - [AI Development Kits: Tenstorrent Update](https://morethanmoore.substack.com/p/ai-development-kits-tenstorrent-update)
 * [2024-07-22, 16:48:44](https://news.ycombinator.com/item?id=41036526) - [Oxygen discovery defies knowledge of the deep ocean](https://www.bbc.co.uk/news/articles/c728ven2v9eo)
 * [2024-07-22, 16:48:22](https://news.ycombinator.com/item?id=41036522) - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
