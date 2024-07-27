@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-27, 03:55:08](https://news.ycombinator.com/item?id=41084334) - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
 * [2024-07-27, 02:48:58](https://news.ycombinator.com/item?id=41084134) - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
 * [2024-07-27, 02:26:15](https://news.ycombinator.com/item?id=41084061) - [Taking a Radio Camping](https://ewpratten.com/blog/camping-radio/)
@@ -26,7 +27,6 @@
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
-* [2024-07-23, 18:09:08](https://news.ycombinator.com/item?id=41049026) - [\"We can't decide so we cheat and bundle 12 objectives under 3 priorities\"](https://rubenugarte.substack.com/p/i-dont-want-to-do-our-cheat-way-of)
 * [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
 * [2024-07-22, 16:51:16](https://news.ycombinator.com/item?id=41036544) - [How to Preserve Physical Photos](https://ente.io/blog/how-to-preserve-physical-photos/)
