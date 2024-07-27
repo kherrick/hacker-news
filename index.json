@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2024-07-26, 17:45:08",
-      "https://news.ycombinator.com/item?id=41080599"
-    ],
-    [
-      "Call the compiler, fax it your code [video]",
-      "https://www.youtube.com/watch?v=pJ-25-pRhpY"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 17:40:18",
       "https://news.ycombinator.com/item?id=41080570"
     ],
     [
       "A simple procedural animation technique [video]",
       "https://www.youtube.com/watch?v=qlfh_rv6khY"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 17:31:03",
+      "https://news.ycombinator.com/item?id=41080485"
+    ],
+    [
+      "Finding a random seed that solves a LeetCode problem (2023)",
+      "https://mcognetta.github.io/posts/leetcode-random-seed/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-07-23, 12:33:20",
-      "https://news.ycombinator.com/item?id=41045291"
-    ],
-    [
-      "Superbabies: Putting the pieces together",
-      "https://www.lesswrong.com/posts/2uJsiQqHTjePTRqi4/superbabies-putting-the-pieces-together"
-    ]
-  ],
-  [
-    [
       "2024-07-23, 09:34:38",
       "https://news.ycombinator.com/item?id=41044262"
     ],
@@ -297,6 +287,16 @@
     [
       "Paper Cuttings Made by 17th-Century Schoolgirls Discovered Beneath Floorboards",
       "https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 02:36:03",
+      "https://news.ycombinator.com/item?id=41041995"
+    ],
+    [
+      "From Linux to NetBSD, with SSH Only",
+      "https://cloudbsd.xyz/"
     ]
   ]
 ]
