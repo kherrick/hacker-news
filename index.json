@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-07-27, 19:16:11",
+      "https://news.ycombinator.com/item?id=41088645"
+    ],
+    [
+      "Workbrew",
+      "https://workbrew.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 19:06:14",
       "https://news.ycombinator.com/item?id=41088592"
     ],
     [
       "Managarm: Pragmatic microkernel-based OS with asynchronous I/O",
       "https://github.com/managarm/managarm"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 18:44:09",
-      "https://news.ycombinator.com/item?id=41088475"
-    ],
-    [
-      "Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars",
-      "https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-07-26, 21:34:00",
-      "https://news.ycombinator.com/item?id=41082502"
-    ],
-    [
-      "Crooks Bypassed Google's Email Verification to Create Workspace Accounts, Acces",
-      "https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 20:07:52",
       "https://news.ycombinator.com/item?id=41081810"
     ],
@@ -267,6 +257,16 @@
     [
       "Reverse-engineering my speakers' API to get reasonable volume control",
       "https://jamesbvaughan.com/volume-controller-1/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 21:25:35",
+      "https://news.ycombinator.com/item?id=41051086"
+    ],
+    [
+      "Hosting Static Content with Gitlab",
+      "https://eklausmeier.goip.de/blog/2024/07-14-hosting-static-content-with-gitlab"
     ]
   ],
   [
