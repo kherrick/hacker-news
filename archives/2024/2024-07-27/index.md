@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 11:17:26](https://news.ycombinator.com/item?id=41085806) - [Smartphone-maker Xiaomi unveils SU7 Ultra, a 1548hp, 4-door electric hypercar](https://electrek.co/2024/07/19/smartphone-maker-xiaomi-unveils-su7-ultra-a-1548hp-4-door-electric-hypercar/)
+* [2024-07-27, 10:40:02](https://news.ycombinator.com/item?id=41085660) - [Was early modern writing paper expensive? (2018]](https://www.rpvl.cz/en/)
+* [2024-07-27, 10:39:02](https://news.ycombinator.com/item?id=41085657) - [Objective-C is like Jimi Hendrix (2014)](http://frabjousdei.net/post/64096448121/objective-c-is-like-jimi-hendrix)
 * [2024-07-27, 09:19:30](https://news.ycombinator.com/item?id=41085408) - [Orcas sink $128K yacht in Mediterranean attack: 'Like watching wolves hunt'](https://nypost.com/2024/07/26/world-news/killer-whales-sink-128k-yacht-in-2-hour-mediterranean-sea-attack/)
 * [2024-07-27, 09:10:29](https://news.ycombinator.com/item?id=41085376) - [SQLite: 35% Faster Than the Filesystem](https://sqlite.org/fasterthanfs.html)
 * [2024-07-27, 07:00:34](https://news.ycombinator.com/item?id=41084918) - [Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
