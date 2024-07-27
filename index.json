@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-07-27, 14:23:22",
+      "https://news.ycombinator.com/item?id=41086790"
+    ],
+    [
+      "Of the 17 Y Combinator companies that IPOed, 14 have lost money for investors",
+      "https://old.reddit.com/r/wallstreetbets/comments/1edgadp/of_the_17_y_combinator_companies_that_went_public/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 13:49:44",
       "https://news.ycombinator.com/item?id=41086583"
     ],
     [
       "A Few Blockbuster Podcasts Are Making All the Money",
       "https://www.wsj.com/business/media/a-few-blockbuster-podcasts-are-making-all-the-money-d9cee36e"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 13:39:44",
-      "https://news.ycombinator.com/item?id=41086531"
-    ],
-    [
-      "Calculus for Beginners and Artists",
-      "https://math.mit.edu/~djk/calculus_beginners/"
     ]
   ],
   [
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-07-27, 11:29:16",
-      "https://news.ycombinator.com/item?id=41085856"
-    ],
-    [
-      "Sqlitefs: SQLite as a Filesystem",
-      "https://github.com/narumatt/sqlitefs"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 10:55:43",
       "https://news.ycombinator.com/item?id=41085713"
     ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2024-07-27, 09:10:29",
-      "https://news.ycombinator.com/item?id=41085376"
-    ],
-    [
-      "SQLite: 35% Faster Than the Filesystem",
-      "https://sqlite.org/fasterthanfs.html"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 07:59:23",
       "https://news.ycombinator.com/item?id=41085124"
     ],
@@ -127,16 +107,6 @@
     [
       "In the Beginning Was the Command Line",
       "https://web.stanford.edu/class/cs81n/command.txt"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 03:55:08",
-      "https://news.ycombinator.com/item?id=41084334"
-    ],
-    [
-      "Better Firmware with LLVM/Clang",
-      "https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang"
     ]
   ],
   [
@@ -211,6 +181,26 @@
   ],
   [
     [
+      "2024-07-26, 21:13:58",
+      "https://news.ycombinator.com/item?id=41082322"
+    ],
+    [
+      "Evidence for global cultural diffusion: Or, why are there Seven Sisters?",
+      "https://www.vectorsofmind.com/p/evidence-for-global-cultural-diffusion"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 20:07:52",
+      "https://news.ycombinator.com/item?id=41081810"
+    ],
+    [
+      "Free DDNS with Cloudflare and a Cronjob",
+      "https://github.com/devrim/cloudflare-noip"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 19:20:43",
       "https://news.ycombinator.com/item?id=41081435"
     ],
@@ -277,6 +267,16 @@
     [
       "Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024",
       "https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 21:28:21",
+      "https://news.ycombinator.com/item?id=41051120"
+    ],
+    [
+      "Douglas Adams' Rules for Technology",
+      "https://www.fullstackoptimization.com//a/douglas-adams-set-of-rules-for-technology"
     ]
   ],
   [
