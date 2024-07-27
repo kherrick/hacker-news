@@ -2,9 +2,9 @@
 
 * [2024-07-27, 03:55:08](https://news.ycombinator.com/item?id=41084334) - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
 * [2024-07-27, 02:48:58](https://news.ycombinator.com/item?id=41084134) - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
-* [2024-07-27, 02:09:30](https://news.ycombinator.com/item?id=41083987) - [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
+* [2024-07-27, 02:09:30](https://news.ycombinator.com/item?id=41083987) - [Windows recovery environment and bootable USB creator in 200kb](https://github.com/joshuacline/windick)
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-* [2024-07-27, 01:00:27](https://news.ycombinator.com/item?id=41083726) - [How Large Language Models Will Disrupt Data Management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
+* [2024-07-27, 01:00:27](https://news.ycombinator.com/item?id=41083726) - [How large language models will disrupt data management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
 * [2024-07-27, 01:00:23](https://news.ycombinator.com/item?id=41083725) - [GCVR (YC W22) Is Hiring Lead Back End Engineer (Sr/Staff/Principal)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal)
 * [2024-07-27, 00:19:32](https://news.ycombinator.com/item?id=41083534) - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 * [2024-07-26, 23:36:21](https://news.ycombinator.com/item?id=41083286) - [Courts Close the Loophole Letting the Feds Search Your Phone at the Border](https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/)
@@ -28,7 +28,7 @@
 * [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
 * [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
-* [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper Cuttings Made by 17th-Century Schoolgirls Discovered Beneath Floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
+* [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
 * [2024-07-22, 16:51:16](https://news.ycombinator.com/item?id=41036544) - [How to Preserve Physical Photos](https://ente.io/blog/how-to-preserve-physical-photos/)
 
 ## [Archives](archives/index.md)
