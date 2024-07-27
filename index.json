@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-27, 11:17:40",
-      "https://news.ycombinator.com/item?id=41085808"
-    ],
-    [
-      "Mathematicians discover impossible problem in Super Mario games",
-      "https://www.newscientist.com/article/2432195-mathematicians-discover-impossible-problem-in-super-mario-games/"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 10:55:43",
       "https://news.ycombinator.com/item?id=41085713"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41085660"
     ],
     [
-      "Was early modern writing paper expensive? (2018]",
+      "Was early modern writing paper expensive? (2018)",
       "https://www.rpvl.cz/en/"
     ]
   ],
@@ -87,6 +77,16 @@
     [
       "SQLite: 35% Faster Than the Filesystem",
       "https://sqlite.org/fasterthanfs.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 07:59:23",
+      "https://news.ycombinator.com/item?id=41085124"
+    ],
+    [
+      "Introduction to Linear Algebra",
+      "https://www.freetext.org/Introduction_to_Linear_Algebra/"
     ]
   ],
   [
@@ -167,6 +167,16 @@
     [
       "Introduction to Machine Learning Interviews Book",
       "https://huyenchip.com/ml-interviews-book/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 22:57:24",
+      "https://news.ycombinator.com/item?id=41083077"
+    ],
+    [
+      "Driving Compilers",
+      "https://fabiensanglard.net/dc/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Reverse-engineering my speakers' API to get reasonable volume control",
       "https://jamesbvaughan.com/volume-controller-1/"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 19:03:36",
-      "https://news.ycombinator.com/item?id=41060618"
-    ],
-    [
-      "Seam Carving (2018)",
-      "https://andrewdcampbell.github.io/seam-carving"
     ]
   ],
   [
