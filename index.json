@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-07-27, 02:48:17",
-      "https://news.ycombinator.com/item?id=41084132"
+      "2024-07-27, 03:55:08",
+      "https://news.ycombinator.com/item?id=41084334"
     ],
     [
-      "Guish: Write shell pipelines at the command line with a GUI editor",
-      "https://github.com/williamcotton/guish"
+      "Better Firmware with LLVM/Clang",
+      "https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 02:48:58",
+      "https://news.ycombinator.com/item?id=41084134"
+    ],
+    [
+      "IRS collects milestone $1B in back taxes from high-wealth taxpayers",
+      "https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Paper Cuttings Made by 17th-Century Schoolgirls Discovered Beneath Floorboards",
       "https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 02:36:03",
-      "https://news.ycombinator.com/item?id=41041995"
-    ],
-    [
-      "From Linux to NetBSD, with SSH Only",
-      "https://cloudbsd.xyz/"
     ]
   ],
   [
