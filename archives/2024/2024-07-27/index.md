@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
+* [2024-07-27, 12:02:10](https://news.ycombinator.com/item?id=41086007) - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
+* [2024-07-27, 11:29:16](https://news.ycombinator.com/item?id=41085856) - [Sqlitefs: SQLite as a Filesystem](https://github.com/narumatt/sqlitefs)
+* [2024-07-27, 11:17:40](https://news.ycombinator.com/item?id=41085808) - [Mathematicians discover impossible problem in Super Mario games](https://www.newscientist.com/article/2432195-mathematicians-discover-impossible-problem-in-super-mario-games/)
 * [2024-07-27, 11:17:26](https://news.ycombinator.com/item?id=41085806) - [Smartphone-maker Xiaomi unveils SU7 Ultra, a 1548hp, 4-door electric hypercar](https://electrek.co/2024/07/19/smartphone-maker-xiaomi-unveils-su7-ultra-a-1548hp-4-door-electric-hypercar/)
+* [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 10:40:02](https://news.ycombinator.com/item?id=41085660) - [Was early modern writing paper expensive? (2018]](https://www.rpvl.cz/en/)
 * [2024-07-27, 10:39:02](https://news.ycombinator.com/item?id=41085657) - [Objective-C is like Jimi Hendrix (2014)](http://frabjousdei.net/post/64096448121/objective-c-is-like-jimi-hendrix)
 * [2024-07-27, 09:19:30](https://news.ycombinator.com/item?id=41085408) - [Orcas sink $128K yacht in Mediterranean attack: 'Like watching wolves hunt'](https://nypost.com/2024/07/26/world-news/killer-whales-sink-128k-yacht-in-2-hour-mediterranean-sea-attack/)
