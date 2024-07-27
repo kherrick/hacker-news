@@ -6,6 +6,7 @@
 
 * [2024-07-27, 14:23:22](https://news.ycombinator.com/item?id=41086790) - [Of the 17 Y Combinator companies that IPOed, 14 have lost money for investors](https://old.reddit.com/r/wallstreetbets/comments/1edgadp/of_the_17_y_combinator_companies_that_went_public/)
 * [2024-07-27, 14:23:11](https://news.ycombinator.com/item?id=41086789) - [bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
+* [2024-07-27, 14:05:04](https://news.ycombinator.com/item?id=41086679) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 * [2024-07-27, 13:49:44](https://news.ycombinator.com/item?id=41086583) - [A Few Blockbuster Podcasts Are Making All the Money](https://www.wsj.com/business/media/a-few-blockbuster-podcasts-are-making-all-the-money-d9cee36e)
 * [2024-07-27, 13:39:44](https://news.ycombinator.com/item?id=41086531) - [Calculus for Beginners and Artists](https://math.mit.edu/~djk/calculus_beginners/)
 * [2024-07-27, 12:56:54](https://news.ycombinator.com/item?id=41086282) - [U.S. shelves $300M 'real-world' data platform for Alzheimer's](https://www.science.org/content/article/u-s-shelves-300-million-real-world-data-platform-alzheimer-s)
