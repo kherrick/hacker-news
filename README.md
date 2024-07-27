@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-27, 22:16:29](https://news.ycombinator.com/item?id=41089718) - [Firefox Testing New Privacy Feature, Working with Meta](https://www.maketecheasier.com/firefox-testing-new-privacy-feature-with-meta/)
 * [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 * [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
@@ -8,7 +9,6 @@
 * [2024-07-27, 17:54:19](https://news.ycombinator.com/item?id=41088224) - [Aphex Twin gave us a peek inside a 90s classic (2017)](https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
 * [2024-07-27, 17:23:55](https://news.ycombinator.com/item?id=41088013) - [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
 * [2024-07-27, 16:08:26](https://news.ycombinator.com/item?id=41087429) - [Göttingen was one of the most productive centers of mathematics](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
-* [2024-07-27, 15:09:37](https://news.ycombinator.com/item?id=41087070) - [Abstract Interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 12:02:10](https://news.ycombinator.com/item?id=41086007) - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
