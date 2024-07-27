@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-27, 06:04:07",
-      "https://news.ycombinator.com/item?id=41084736"
-    ],
-    [
-      "Beating the CAP theorem checklist (2013)",
-      "https://ferd.ca/beating-the-cap-theorem-checklist.html"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 03:55:30",
       "https://news.ycombinator.com/item?id=41084338"
     ],
@@ -267,6 +257,16 @@
     [
       "Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024",
       "https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 09:34:38",
+      "https://news.ycombinator.com/item?id=41044262"
+    ],
+    [
+      "Counting bytes faster than you'd think possible",
+      "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
     ]
   ],
   [
