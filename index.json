@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-27, 02:32:18",
-      "https://news.ycombinator.com/item?id=41084077"
+      "2024-07-27, 02:48:17",
+      "https://news.ycombinator.com/item?id=41084132"
     ],
     [
-      "Advanced Linux Programming [pdf]",
-      "https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf"
+      "Guish: Write shell pipelines at the command line with a GUI editor",
+      "https://github.com/williamcotton/guish"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Windows Recovery Environment and Bootable USB Creator in 200KB",
       "https://github.com/joshuacline/windick"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 02:04:35",
+      "https://news.ycombinator.com/item?id=41083972"
+    ],
+    [
+      "The Linux Kernel Module Programming Guide",
+      "https://sysprog21.github.io/lkmpg/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "A simple procedural animation technique [video]",
       "https://www.youtube.com/watch?v=qlfh_rv6khY"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 17:31:03",
-      "https://news.ycombinator.com/item?id=41080485"
-    ],
-    [
-      "Finding a random seed that solves a LeetCode problem (2023)",
-      "https://mcognetta.github.io/posts/leetcode-random-seed/"
     ]
   ],
   [
