@@ -87,6 +87,7 @@
 * [2024-07-23, 05:18:18](https://news.ycombinator.com/item?id=41042753) - [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 * [2024-07-23, 04:53:53](https://news.ycombinator.com/item?id=41042617) - [The Importance of 'Soft-Skills' for Professional Practice in the 21st Century](https://www.naps.edu.au/blog/the-importance-of-soft-skills-for-professional-practice-in-the-21st-century)
 * [2024-07-23, 04:48:08](https://news.ycombinator.com/item?id=41042588) - [Google Pixel 'Satellite SOS' support may be free for two years](https://9to5google.com/2024/07/22/google-pixel-satellite-sos-support-price/)
+* [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper Cuttings Made by 17th-Century Schoolgirls Discovered Beneath Floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
 * [2024-07-23, 03:37:53](https://news.ycombinator.com/item?id=41042294) - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 * [2024-07-23, 03:03:18](https://news.ycombinator.com/item?id=41042123) - [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
 * [2024-07-23, 03:02:56](https://news.ycombinator.com/item?id=41042121) - [Wiz Rejects Alphabet's $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
