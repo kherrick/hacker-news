@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2024-07-27, 20:31:15",
-      "https://news.ycombinator.com/item?id=41089127"
-    ],
-    [
-      "The uncertain possible futures of Unix graphical desktops",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixDesktopFutures"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 19:52:34",
       "https://news.ycombinator.com/item?id=41088895"
     ],
     [
       "Tritone Substitutions",
       "https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 19:16:11",
-      "https://news.ycombinator.com/item?id=41088645"
-    ],
-    [
-      "Workbrew",
-      "https://workbrew.com/"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2024-07-27, 16:08:26",
+      "https://news.ycombinator.com/item?id=41087429"
+    ],
+    [
+      "Göttingen was one of the most productive centers of mathematics",
+      "https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 15:09:37",
       "https://news.ycombinator.com/item?id=41087070"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2024-07-27, 10:40:02",
+      "https://news.ycombinator.com/item?id=41085660"
+    ],
+    [
+      "Was early modern writing paper expensive? (2018)",
+      "https://www.folger.edu/blogs/collation/writing-paper-expensive/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 06:25:02",
       "https://news.ycombinator.com/item?id=41084795"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=41081810"
     ],
     [
-      "Free DDNS with Cloudflare and a Cronjob",
+      "Free DDNS with Cloudflare and a cronjob",
       "https://github.com/devrim/cloudflare-noip"
     ]
   ],
@@ -197,6 +197,16 @@
     [
       "Vikings in al-Andalus and the Maghreb",
       "https://www.alandalusylahistoria.com/?p=4902"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 18:32:37",
+      "https://news.ycombinator.com/item?id=41081021"
+    ],
+    [
+      "Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks",
+      "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2024-07-26, 16:46:16",
-      "https://news.ycombinator.com/item?id=41080078"
+      "2024-07-25, 15:11:20",
+      "https://news.ycombinator.com/item?id=41069606"
     ],
     [
-      "Why You Shouldn't Write a DAW (2023) [video]",
-      "https://www.youtube.com/watch?v=GMlnh6_9aTc"
+      "Reverse-engineering my speakers' API to get reasonable volume control",
+      "https://jamesbvaughan.com/volume-controller-1/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Hosting Static Content with Gitlab",
       "https://eklausmeier.goip.de/blog/2024/07-14-hosting-static-content-with-gitlab"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 21:21:26",
-      "https://news.ycombinator.com/item?id=41051040"
-    ],
-    [
-      "Enhancing Your Elixir Codebase with Gleam",
-      "https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html"
     ]
   ],
   [
