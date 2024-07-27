@@ -2,6 +2,7 @@
 
 * [2024-07-27, 07:00:34](https://news.ycombinator.com/item?id=41084918) - [Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
+* [2024-07-27, 03:55:30](https://news.ycombinator.com/item?id=41084338) - [New Programming Languages of 2024](https://pldb.io/lists/explorer.html#searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3E%3D%22%2C%22data%22%3A%22appeared%22%2C%22origData%22%3A%22appeared%22%2C%22type%22%3A%22num%22%2C%22value%22%3A%5B%222024%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D)
 * [2024-07-27, 03:55:08](https://news.ycombinator.com/item?id=41084334) - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
 * [2024-07-27, 02:48:58](https://news.ycombinator.com/item?id=41084134) - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
 * [2024-07-27, 02:26:15](https://news.ycombinator.com/item?id=41084061) - [Taking a Radio Camping](https://ewpratten.com/blog/camping-radio/)
@@ -23,7 +24,6 @@
 * [2024-07-26, 17:40:18](https://news.ycombinator.com/item?id=41080570) - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 * [2024-07-26, 17:15:15](https://news.ycombinator.com/item?id=41080373) - [Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
-* [2024-07-26, 02:31:56](https://news.ycombinator.com/item?id=41075390) - [Alexandre Grothendieck, The New Universal Church (1971) [pdf]](https://publish.uwo.ca/~jbell/univ.pdf)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
