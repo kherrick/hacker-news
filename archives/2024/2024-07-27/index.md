@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 15:40:55](https://news.ycombinator.com/item?id=41087254) - [Why people on Hacker News comment without reading](https://www.markepear.com/blog/hacker-news-comments)
+* [2024-07-27, 15:39:16](https://news.ycombinator.com/item?id=41087246) - [Oh man! Our entire team has been replaced by Vietnam developers.](https://old.reddit.com/r/developersIndia/comments/1eckee9/oh_man_our_entire_team_has_been_replaced_by/)
+* [2024-07-27, 15:32:19](https://news.ycombinator.com/item?id=41087208) - [Adobe exec compared Creative Cloud cancellation fees to 'heroin'](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
 * [2024-07-27, 15:00:50](https://news.ycombinator.com/item?id=41087020) - [Justice Dept. says TikTok collects US user views on abortion and gun control](https://apnews.com/article/tiktok-bytedance-censorship-us-data-240e11d9bb6212b0c9b1adab821e5005)
 * [2024-07-27, 14:32:53](https://news.ycombinator.com/item?id=41086847) - [Ask HN: What's an appropriate compensation counter offer in London 2024?](https://news.ycombinator.com/item?id=41086847)
 * [2024-07-27, 14:23:22](https://news.ycombinator.com/item?id=41086790) - [Of the 17 Y Combinator companies that IPOed, 14 have lost money for investors](https://old.reddit.com/r/wallstreetbets/comments/1edgadp/of_the_17_y_combinator_companies_that_went_public/)
