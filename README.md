@@ -18,7 +18,6 @@
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [2024-07-26, 23:10:44](https://news.ycombinator.com/item?id=41083140) - [How Clang compiles a function (2018)](https://blog.regehr.org/archives/1605)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
-* [2024-07-26, 18:41:35](https://news.ycombinator.com/item?id=41081122) - [What happens if you connect Windows XP to the Internet in 2024? [video]](https://www.youtube.com/watch?v=6uSVVCmOH5w)
 * [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
 * [2024-07-26, 18:29:17](https://news.ycombinator.com/item?id=41080991) - [The New Internet](https://tailscale.com/blog/new-internet)
 * [2024-07-26, 17:51:36](https://news.ycombinator.com/item?id=41080654) - [Maglev titanium heart inside the chest of a live patient](https://newatlas.com/medical/maglev-titanium-heart-bivacor/)
@@ -29,6 +28,7 @@
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-23, 21:25:35](https://news.ycombinator.com/item?id=41051086) - [Hosting Static Content with Gitlab](https://eklausmeier.goip.de/blog/2024/07-14-hosting-static-content-with-gitlab)
 * [2024-07-23, 17:14:12](https://news.ycombinator.com/item?id=41048473) - [Show HN: Preprocessor I've been working 4 years now](https://www.npmjs.com/package/pretty-markup)
+* [2024-07-22, 20:40:07](https://news.ycombinator.com/item?id=41039578) - [100x Coding with Claude](https://0xksure.medium.com/100x-coding-with-claude-28cc413ca061)
 * [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Why Adventure Games Suck (1989)](https://grumpygamer.com/why_adventure_games_suck)
 
 ## [Archives](archives/index.md)

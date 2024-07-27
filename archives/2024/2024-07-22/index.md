@@ -19,6 +19,7 @@
 * [2024-07-22, 20:48:07](https://news.ycombinator.com/item?id=41039647) - [When Objects Are Not Enough](https://www.tonysm.com/when-objects-are-not-enough/)
 * [2024-07-22, 20:47:44](https://news.ycombinator.com/item?id=41039644) - [Glasgow 2024 Hugo Awards Statement – 22 July, 2024](https://glasgow2024.org/hugo-awards/statement-22-july-2024/)
 * [2024-07-22, 20:43:43](https://news.ycombinator.com/item?id=41039606) - [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/articles/google-is-keeping-cookies-in-chrome-after-all-89debea8)
+* [2024-07-22, 20:40:07](https://news.ycombinator.com/item?id=41039578) - [100x Coding with Claude](https://0xksure.medium.com/100x-coding-with-claude-28cc413ca061)
 * [2024-07-22, 20:17:05](https://news.ycombinator.com/item?id=41039333) - [SofleKeyboard – A split keyboard based on Lily58, Crkbd and Helix keyboards](https://josefadamcik.github.io/SofleKeyboard/)
 * [2024-07-22, 20:05:42](https://news.ycombinator.com/item?id=41039213) - [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
 * [2024-07-22, 20:00:40](https://news.ycombinator.com/item?id=41039142) - [Google says it won't be 'deprecating third-party cookies' in Chrome](https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/)
