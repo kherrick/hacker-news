@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-27, 11:17:26](https://news.ycombinator.com/item?id=41085806) - [Smartphone-maker Xiaomi unveils SU7 Ultra, a 1548hp, 4-door electric hypercar](https://electrek.co/2024/07/19/smartphone-maker-xiaomi-unveils-su7-ultra-a-1548hp-4-door-electric-hypercar/)
 * [2024-07-27, 10:40:02](https://news.ycombinator.com/item?id=41085660) - [Was early modern writing paper expensive? (2018]](https://www.rpvl.cz/en/)
 * [2024-07-27, 10:39:02](https://news.ycombinator.com/item?id=41085657) - [Objective-C is like Jimi Hendrix (2014)](http://frabjousdei.net/post/64096448121/objective-c-is-like-jimi-hendrix)
 * [2024-07-27, 09:19:30](https://news.ycombinator.com/item?id=41085408) - [Orcas sink $128K yacht in Mediterranean attack: 'Like watching wolves hunt'](https://nypost.com/2024/07/26/world-news/killer-whales-sink-128k-yacht-in-2-hour-mediterranean-sea-attack/)
+* [2024-07-27, 09:13:27](https://news.ycombinator.com/item?id=41085388) - [UBI and the Anti-Work Vibe Shift](https://www.greshm.org/blog/ubi-and-the-anti-work-vibe-shift/)
 * [2024-07-27, 09:10:29](https://news.ycombinator.com/item?id=41085376) - [SQLite: 35% Faster Than the Filesystem](https://sqlite.org/fasterthanfs.html)
 * [2024-07-27, 07:00:34](https://news.ycombinator.com/item?id=41084918) - [Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
@@ -14,6 +14,7 @@
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [2024-07-27, 01:17:53](https://news.ycombinator.com/item?id=41083801) - [Linux Network Performance Ultimate Guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/)
 * [2024-07-27, 00:19:32](https://news.ycombinator.com/item?id=41083534) - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+* [2024-07-26, 23:36:21](https://news.ycombinator.com/item?id=41083286) - [Courts Close the Loophole Letting the Feds Search Your Phone at the Border](https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/)
 * [2024-07-26, 22:57:24](https://news.ycombinator.com/item?id=41083077) - [Driving Compilers](https://fabiensanglard.net/dc/)
 * [2024-07-26, 21:34:00](https://news.ycombinator.com/item?id=41082502) - [Crooks Bypassed Google's Email Verification to Create Workspace Accounts, Acces](https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/)
 * [2024-07-26, 19:20:43](https://news.ycombinator.com/item?id=41081435) - [TOTP tokens on my wrist with the smartest dumb watch](https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/)
@@ -28,7 +29,6 @@
 * [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
-* [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Grumpy Gamer – Why Adventure Games Suck](https://grumpygamer.com/why_adventure_games_suck)
 * [2024-07-22, 16:51:16](https://news.ycombinator.com/item?id=41036544) - [How to Preserve Physical Photos](https://ente.io/blog/how-to-preserve-physical-photos/)
 
 ## [Archives](archives/index.md)
