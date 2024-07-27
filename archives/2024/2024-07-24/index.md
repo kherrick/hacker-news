@@ -47,6 +47,7 @@
 * [2024-07-24, 15:49:39](https://news.ycombinator.com/item?id=41058261) - [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
 * [2024-07-24, 15:42:03](https://news.ycombinator.com/item?id=41058194) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 * [2024-07-24, 15:32:21](https://news.ycombinator.com/item?id=41058107) - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
+* [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
 * [2024-07-24, 15:04:30](https://news.ycombinator.com/item?id=41057827) - [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)
 * [2024-07-24, 15:02:57](https://news.ycombinator.com/item?id=41057814) - [Visual Explanation of SAML Authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
 * [2024-07-24, 14:57:14](https://news.ycombinator.com/item?id=41057766) - [InteractiVenn – Interactive Venn Diagrams](https://interactivenn.net/index.html)
