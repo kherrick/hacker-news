@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 17:54:19](https://news.ycombinator.com/item?id=41088224) - [Aphex Twin gave us a peek inside a 90s classic (2017)](https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
+* [2024-07-27, 17:23:55](https://news.ycombinator.com/item?id=41088013) - [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
 * [2024-07-27, 17:18:15](https://news.ycombinator.com/item?id=41087977) - [How Soon Might the Atlantic Ocean Break? Two Sibling Scientists Found an Answer](https://www.wired.com/story/amoc-collapse-atlantic-ocean/)
 * [2024-07-27, 16:43:39](https://news.ycombinator.com/item?id=41087719) - [Big Tech says AI is booming. Wall Street is starting to see a bubble](https://www.washingtonpost.com/technology/2024/07/24/ai-bubble-big-tech-stocks-goldman-sachs/)
 * [2024-07-27, 16:29:50](https://news.ycombinator.com/item?id=41087608) - [AI existential risk probabilities are too unreliable to inform policy](https://www.aisnakeoil.com/p/ai-existential-risk-probabilities)
