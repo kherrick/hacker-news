@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-27, 07:00:34](https://news.ycombinator.com/item?id=41084918) - [Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-27, 03:55:08](https://news.ycombinator.com/item?id=41084334) - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
 * [2024-07-27, 02:48:58](https://news.ycombinator.com/item?id=41084134) - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
@@ -8,7 +9,6 @@
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [2024-07-27, 01:17:53](https://news.ycombinator.com/item?id=41083801) - [Linux Network Performance Ultimate Guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/)
 * [2024-07-27, 01:00:27](https://news.ycombinator.com/item?id=41083726) - [How large language models will disrupt data management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
-* [2024-07-27, 01:00:23](https://news.ycombinator.com/item?id=41083725) - [GCVR (YC W22) Is Hiring Lead Back End Engineer (Sr/Staff/Principal)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal)
 * [2024-07-27, 00:19:32](https://news.ycombinator.com/item?id=41083534) - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 * [2024-07-26, 23:36:21](https://news.ycombinator.com/item?id=41083286) - [Courts Close the Loophole Letting the Feds Search Your Phone at the Border](https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/)
 * [2024-07-26, 22:57:24](https://news.ycombinator.com/item?id=41083077) - [Driving Compilers](https://fabiensanglard.net/dc/)
