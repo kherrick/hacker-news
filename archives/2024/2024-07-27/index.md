@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 22:38:04](https://news.ycombinator.com/item?id=41089826) - [Contra Zuckerberg on 'Open Source AI'](https://far.in.net/zuckerberg)
 * [2024-07-27, 22:16:29](https://news.ycombinator.com/item?id=41089718) - [Firefox Testing New Privacy Feature, Working with Meta](https://www.maketecheasier.com/firefox-testing-new-privacy-feature-with-meta/)
 * [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 * [2024-07-27, 20:34:15](https://news.ycombinator.com/item?id=41089153) - [America's 60-Year-Olds Are Staring at Financial Peril](https://www.msn.com/en-us/money/retirement/america-s-60-year-olds-are-staring-at-financial-peril/ar-BB1qrHXP)
