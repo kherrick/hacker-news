@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 * [2024-07-27, 20:34:15](https://news.ycombinator.com/item?id=41089153) - [America's 60-Year-Olds Are Staring at Financial Peril](https://www.msn.com/en-us/money/retirement/america-s-60-year-olds-are-staring-at-financial-peril/ar-BB1qrHXP)
 * [2024-07-27, 20:27:31](https://news.ycombinator.com/item?id=41089100) - [Injuries with Electric vs. Conventional Scooters and Bicycles](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821387)
+* [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 19:47:30](https://news.ycombinator.com/item?id=41088860) - [The \"Perfect Score\" Script (2017)](https://www.kaggle.com/code/olegtrott/the-perfect-score-script)
 * [2024-07-27, 19:16:11](https://news.ycombinator.com/item?id=41088645) - [Workbrew](https://workbrew.com/)
 * [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
