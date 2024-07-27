@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=41086789"
     ],
     [
-      "bashsimplecurses: Simple curses library made in bash to draw terminal interfaces",
+      "Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces",
       "https://github.com/metal3d/bashsimplecurses"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 14:05:04",
+      "https://news.ycombinator.com/item?id=41086679"
+    ],
+    [
+      "Revealing the Inner Structure of AWS Session Tokens",
+      "https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Substack (YC W18) Is Hiring Systems Engineers",
       "https://grnh.se/4f362fed5us"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 11:17:26",
-      "https://news.ycombinator.com/item?id=41085806"
-    ],
-    [
-      "Smartphone-maker Xiaomi unveils SU7 Ultra, a 1548hp, 4-door electric hypercar",
-      "https://electrek.co/2024/07/19/smartphone-maker-xiaomi-unveils-su7-ultra-a-1548hp-4-door-electric-hypercar/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41084334"
     ],
     [
-      "Better Firmware with LLVM/Clang",
+      "Better Firmware with LLVM/Clang (2020)",
       "https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang"
     ]
   ],
@@ -121,12 +121,12 @@
   ],
   [
     [
-      "2024-07-26, 23:36:21",
-      "https://news.ycombinator.com/item?id=41083286"
+      "2024-07-27, 01:00:27",
+      "https://news.ycombinator.com/item?id=41083726"
     ],
     [
-      "Courts Close the Loophole Letting the Feds Search Your Phone at the Border",
-      "https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/"
+      "How large language models will disrupt data management [pdf]",
+      "https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf"
     ]
   ],
   [
