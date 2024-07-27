@@ -67,6 +67,7 @@
 * [2024-07-22, 16:25:21](https://news.ycombinator.com/item?id=41036231) - [Audapolis: Edit audio files by word, not waveform](https://github.com/bugbakery/audapolis)
 * [2024-07-22, 16:24:11](https://news.ycombinator.com/item?id=41036216) - [All the existential risk, none of the economic impact. That's a shitty trade](https://www.theintrinsicperspective.com/p/all-the-existential-risk-none-of)
 * [2024-07-22, 15:59:19](https://news.ycombinator.com/item?id=41035909) - ['Evolution happens much quicker than Darwin thought'](https://www.theguardian.com/science/article/2024/jul/21/rosemary-grant-peter-grant-charles-darwin-finches-evolutionary-biology-princeton-one-step-sideways-three-steps-forward-memoir)
+* [2024-07-22, 15:36:37](https://news.ycombinator.com/item?id=41035641) - [The Rich History of Ham Radio Culture](https://thereader.mitpress.mit.edu/the-rich-history-of-ham-radio-culture/)
 * [2024-07-22, 15:31:09](https://news.ycombinator.com/item?id=41035597) - [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
 * [2024-07-22, 15:14:35](https://news.ycombinator.com/item?id=41035405) - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 15:06:07](https://news.ycombinator.com/item?id=41035309) - [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
