@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
 * [2024-07-26, 23:36:21](https://news.ycombinator.com/item?id=41083286) - [Courts Close the Loophole Letting the Feds Search Your Phone at the Border](https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/)
+* [2024-07-26, 22:57:24](https://news.ycombinator.com/item?id=41083077) - [Driving Compilers](https://fabiensanglard.net/dc/)
 * [2024-07-26, 22:27:26](https://news.ycombinator.com/item?id=41082877) - [MIT 11.350 – Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
 * [2024-07-26, 22:12:57](https://news.ycombinator.com/item?id=41082789) - [Intel confirms no recall for Raptor Lake CPUs,microcode won't fix affected units](https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units)
 * [2024-07-26, 22:09:16](https://news.ycombinator.com/item?id=41082752) - [Apex Surplus is a movie industry props and parts source](https://apexsurplus.com)
