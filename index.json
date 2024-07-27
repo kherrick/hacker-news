@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-27, 13:49:44",
-      "https://news.ycombinator.com/item?id=41086583"
+      "2024-07-27, 14:23:11",
+      "https://news.ycombinator.com/item?id=41086789"
     ],
     [
-      "A Few Blockbuster Podcasts Are Making All the Money",
-      "https://www.wsj.com/business/media/a-few-blockbuster-podcasts-are-making-all-the-money-d9cee36e"
+      "bashsimplecurses: Simple curses library made in bash to draw terminal interfaces",
+      "https://github.com/metal3d/bashsimplecurses"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Substack (YC W18) Is Hiring Systems Engineers",
       "https://grnh.se/4f362fed5us"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 11:17:26",
+      "https://news.ycombinator.com/item?id=41085806"
+    ],
+    [
+      "Smartphone-maker Xiaomi unveils SU7 Ultra, a 1548hp, 4-door electric hypercar",
+      "https://electrek.co/2024/07/19/smartphone-maker-xiaomi-unveils-su7-ultra-a-1548hp-4-door-electric-hypercar/"
     ]
   ],
   [
@@ -111,22 +121,12 @@
   ],
   [
     [
-      "2024-07-27, 01:17:53",
-      "https://news.ycombinator.com/item?id=41083801"
+      "2024-07-26, 23:36:21",
+      "https://news.ycombinator.com/item?id=41083286"
     ],
     [
-      "Linux Network Performance Ultimate Guide",
-      "https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 00:19:32",
-      "https://news.ycombinator.com/item?id=41083534"
-    ],
-    [
-      "Introduction to Machine Learning Interviews Book",
-      "https://huyenchip.com/ml-interviews-book/"
+      "Courts Close the Loophole Letting the Feds Search Your Phone at the Border",
+      "https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-07-26, 17:50:30",
-      "https://news.ycombinator.com/item?id=41080642"
-    ],
-    [
-      "Repulsive Shells [video]",
-      "https://www.youtube.com/watch?v=qDM6bCt1Gic"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 17:40:18",
       "https://news.ycombinator.com/item?id=41080570"
     ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2024-07-23, 09:34:38",
+      "https://news.ycombinator.com/item?id=41044262"
+    ],
+    [
+      "Counting bytes faster than you'd think possible",
+      "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 04:33:38",
       "https://news.ycombinator.com/item?id=41042513"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-07-22, 16:51:16",
-      "https://news.ycombinator.com/item?id=41036544"
+      "2024-07-23, 02:36:03",
+      "https://news.ycombinator.com/item?id=41041995"
     ],
     [
-      "How to Preserve Physical Photos",
-      "https://ente.io/blog/how-to-preserve-physical-photos/"
+      "From Linux to NetBSD, with SSH Only",
+      "https://cloudbsd.xyz/"
     ]
   ]
 ]
