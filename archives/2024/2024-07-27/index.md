@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 09:19:30](https://news.ycombinator.com/item?id=41085408) - [Orcas sink $128K yacht in Mediterranean attack: 'Like watching wolves hunt'](https://nypost.com/2024/07/26/world-news/killer-whales-sink-128k-yacht-in-2-hour-mediterranean-sea-attack/)
 * [2024-07-27, 09:10:29](https://news.ycombinator.com/item?id=41085376) - [SQLite: 35% Faster Than the Filesystem](https://sqlite.org/fasterthanfs.html)
 * [2024-07-27, 07:00:34](https://news.ycombinator.com/item?id=41084918) - [Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
