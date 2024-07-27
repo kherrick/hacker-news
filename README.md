@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-27, 15:00:50](https://news.ycombinator.com/item?id=41087020) - [Justice Dept. says TikTok collects US user views on abortion and gun control](https://apnews.com/article/tiktok-bytedance-censorship-us-data-240e11d9bb6212b0c9b1adab821e5005)
 * [2024-07-27, 14:32:53](https://news.ycombinator.com/item?id=41086847) - [Ask HN: What's an appropriate compensation counter offer in London 2024?](https://news.ycombinator.com/item?id=41086847)
 * [2024-07-27, 14:23:11](https://news.ycombinator.com/item?id=41086789) - [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
 * [2024-07-27, 14:05:04](https://news.ycombinator.com/item?id=41086679) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
@@ -29,6 +28,7 @@
 * [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
+* [2024-07-23, 02:36:03](https://news.ycombinator.com/item?id=41041995) - [From Linux to NetBSD, with SSH Only](https://cloudbsd.xyz/)
 * [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Adventure Games Suck](https://grumpygamer.com/why_adventure_games_suck)
 
 ## [Archives](archives/index.md)
