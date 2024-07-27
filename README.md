@@ -5,6 +5,7 @@
 * [2024-07-27, 14:05:04](https://news.ycombinator.com/item?id=41086679) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 12:02:10](https://news.ycombinator.com/item?id=41086007) - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
+* [2024-07-27, 11:17:26](https://news.ycombinator.com/item?id=41085806) - [Smartphone-maker Xiaomi unveils SU7 Ultra, a 1548hp, 4-door electric hypercar](https://electrek.co/2024/07/19/smartphone-maker-xiaomi-unveils-su7-ultra-a-1548hp-4-door-electric-hypercar/)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 10:40:02](https://news.ycombinator.com/item?id=41085660) - [Was early modern writing paper expensive? (2018)](https://www.rpvl.cz/en/)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
@@ -28,7 +29,6 @@
 * [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
-* [2024-07-23, 02:36:03](https://news.ycombinator.com/item?id=41041995) - [From Linux to NetBSD, with SSH Only](https://cloudbsd.xyz/)
 * [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Adventure Games Suck](https://grumpygamer.com/why_adventure_games_suck)
 
 ## [Archives](archives/index.md)
