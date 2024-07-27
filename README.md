@@ -2,9 +2,9 @@
 
 * [2024-07-27, 07:00:34](https://news.ycombinator.com/item?id=41084918) - [Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
+* [2024-07-27, 03:55:30](https://news.ycombinator.com/item?id=41084338) - [New Programming Languages of 2024](https://pldb.io/lists/explorer.html#searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3E%3D%22%2C%22data%22%3A%22appeared%22%2C%22origData%22%3A%22appeared%22%2C%22type%22%3A%22num%22%2C%22value%22%3A%5B%222024%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D)
 * [2024-07-27, 03:55:08](https://news.ycombinator.com/item?id=41084334) - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
 * [2024-07-27, 03:50:49](https://news.ycombinator.com/item?id=41084318) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
-* [2024-07-27, 02:48:58](https://news.ycombinator.com/item?id=41084134) - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
 * [2024-07-27, 02:26:15](https://news.ycombinator.com/item?id=41084061) - [Taking a Radio Camping](https://ewpratten.com/blog/camping-radio/)
 * [2024-07-27, 02:09:30](https://news.ycombinator.com/item?id=41083987) - [Windows recovery environment and bootable USB creator in 200kb](https://github.com/joshuacline/windick)
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
@@ -27,8 +27,8 @@
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
-* [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
+* [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Grumpy Gamer – Why Adventure Games Suck](https://grumpygamer.com/why_adventure_games_suck)
 * [2024-07-22, 16:51:16](https://news.ycombinator.com/item?id=41036544) - [How to Preserve Physical Photos](https://ente.io/blog/how-to-preserve-physical-photos/)
 
 ## [Archives](archives/index.md)
