@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-27, 19:47:30](https://news.ycombinator.com/item?id=41088860) - [The \"Perfect Score\" Script (2017)](https://www.kaggle.com/code/olegtrott/the-perfect-score-script)
 * [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
-* [2024-07-27, 19:00:20](https://news.ycombinator.com/item?id=41088548) - [Canadian women's soccer team loses six points, coach banned over drone scandal](https://www.reuters.com/sports/olympics/football-canada-womens-soccer-team-deducted-six-points-coach-banned-2024-07-27/)
 * [2024-07-27, 18:44:09](https://news.ycombinator.com/item?id=41088475) - [Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars](https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/)
+* [2024-07-27, 18:33:13](https://news.ycombinator.com/item?id=41088421) - [Weight-loss drugs are causing people to spend less at the grocery store: study](https://nypost.com/2024/07/27/lifestyle/weight-loss-drugs-eat-into-grocery-basket/)
 * [2024-07-27, 18:10:31](https://news.ycombinator.com/item?id=41088314) - [An Interview with Robert Caro and Kurt Vonnegut (1999)](https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut)
 * [2024-07-27, 18:02:58](https://news.ycombinator.com/item?id=41088273) - [Show HN: Semantic Grep – A Word2Vec-powered search tool](https://github.com/arunsupe/semantic-grep)
 * [2024-07-27, 17:54:19](https://news.ycombinator.com/item?id=41088224) - [Aphex Twin gave us a peek inside a 90s classic (2017)](https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
@@ -26,7 +27,6 @@
 * [2024-07-26, 17:45:30](https://news.ycombinator.com/item?id=41080602) - [Show HN: Applesoft BASIC editor with example programs](https://paleotronic.com/applesoft/)
 * [2024-07-26, 17:14:32](https://news.ycombinator.com/item?id=41080366) - [Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
-* [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-23, 21:21:26](https://news.ycombinator.com/item?id=41051040) - [Enhancing Your Elixir Codebase with Gleam](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
 * [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Adventure Games Suck (2004)](https://grumpygamer.com/why_adventure_games_suck)
