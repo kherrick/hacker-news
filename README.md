@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-27, 15:00:50](https://news.ycombinator.com/item?id=41087020) - [Justice Dept. says TikTok collects US user views on abortion and gun control](https://apnews.com/article/tiktok-bytedance-censorship-us-data-240e11d9bb6212b0c9b1adab821e5005)
+* [2024-07-27, 14:32:53](https://news.ycombinator.com/item?id=41086847) - [Ask HN: What's an appropriate compensation counter offer in London 2024?](https://news.ycombinator.com/item?id=41086847)
 * [2024-07-27, 14:23:11](https://news.ycombinator.com/item?id=41086789) - [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
 * [2024-07-27, 14:05:04](https://news.ycombinator.com/item?id=41086679) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
-* [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
+* [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 12:02:10](https://news.ycombinator.com/item?id=41086007) - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 10:40:02](https://news.ycombinator.com/item?id=41085660) - [Was early modern writing paper expensive? (2018)](https://www.rpvl.cz/en/)
@@ -12,7 +14,6 @@
 * [2024-07-27, 02:26:15](https://news.ycombinator.com/item?id=41084061) - [Taking a Radio Camping](https://ewpratten.com/blog/camping-radio/)
 * [2024-07-27, 02:09:30](https://news.ycombinator.com/item?id=41083987) - [Windows recovery environment and bootable USB creator in 200kb](https://github.com/joshuacline/windick)
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-* [2024-07-27, 01:00:27](https://news.ycombinator.com/item?id=41083726) - [How large language models will disrupt data management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
 * [2024-07-26, 22:57:24](https://news.ycombinator.com/item?id=41083077) - [Driving Compilers](https://fabiensanglard.net/dc/)
 * [2024-07-26, 21:34:00](https://news.ycombinator.com/item?id=41082502) - [Crooks Bypassed Google's Email Verification to Create Workspace Accounts, Acces](https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/)
 * [2024-07-26, 21:13:58](https://news.ycombinator.com/item?id=41082322) - [Evidence for global cultural diffusion](https://www.vectorsofmind.com/p/evidence-for-global-cultural-diffusion)
@@ -27,9 +28,8 @@
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-24, 19:03:36](https://news.ycombinator.com/item?id=41060618) - [Seam Carving (2018)](https://andrewdcampbell.github.io/seam-carving)
 * [2024-07-24, 15:30:25](https://news.ycombinator.com/item?id=41058087) - [Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
-* [2024-07-23, 09:34:38](https://news.ycombinator.com/item?id=41044262) - [Counting bytes faster than you'd think possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
-* [2024-07-23, 02:36:03](https://news.ycombinator.com/item?id=41041995) - [From Linux to NetBSD, with SSH Only](https://cloudbsd.xyz/)
+* [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Adventure Games Suck](https://grumpygamer.com/why_adventure_games_suck)
 
 ## [Archives](archives/index.md)
 
