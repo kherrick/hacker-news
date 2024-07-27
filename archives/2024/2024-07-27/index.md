@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
+* [2024-07-27, 19:00:20](https://news.ycombinator.com/item?id=41088548) - [Canadian women's soccer team loses six points, coach banned over drone scandal](https://www.reuters.com/sports/olympics/football-canada-womens-soccer-team-deducted-six-points-coach-banned-2024-07-27/)
+* [2024-07-27, 18:44:09](https://news.ycombinator.com/item?id=41088475) - [Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars](https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/)
 * [2024-07-27, 17:54:19](https://news.ycombinator.com/item?id=41088224) - [Aphex Twin gave us a peek inside a 90s classic (2017)](https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
 * [2024-07-27, 17:23:55](https://news.ycombinator.com/item?id=41088013) - [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
 * [2024-07-27, 17:18:15](https://news.ycombinator.com/item?id=41087977) - [How Soon Might the Atlantic Ocean Break? Two Sibling Scientists Found an Answer](https://www.wired.com/story/amoc-collapse-atlantic-ocean/)
