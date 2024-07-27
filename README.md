@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-27, 20:34:15](https://news.ycombinator.com/item?id=41089153) - [America's 60-Year-Olds Are Staring at Financial Peril](https://www.msn.com/en-us/money/retirement/america-s-60-year-olds-are-staring-at-financial-peril/ar-BB1qrHXP)
+* [2024-07-27, 20:27:31](https://news.ycombinator.com/item?id=41089100) - [Injuries with Electric vs. Conventional Scooters and Bicycles](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821387)
 * [2024-07-27, 19:16:11](https://news.ycombinator.com/item?id=41088645) - [Workbrew](https://workbrew.com/)
 * [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
 * [2024-07-27, 18:33:13](https://news.ycombinator.com/item?id=41088421) - [Weight-loss drugs are causing people to spend less at the grocery store: study](https://nypost.com/2024/07/27/lifestyle/weight-loss-drugs-eat-into-grocery-basket/)
@@ -15,10 +17,8 @@
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-27, 03:50:49](https://news.ycombinator.com/item?id=41084318) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
-* [2024-07-27, 02:26:15](https://news.ycombinator.com/item?id=41084061) - [Taking a Radio Camping](https://ewpratten.com/blog/camping-radio/)
 * [2024-07-27, 02:09:30](https://news.ycombinator.com/item?id=41083987) - [Windows recovery environment and bootable USB creator in 200kb](https://github.com/joshuacline/windick)
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-* [2024-07-26, 21:34:00](https://news.ycombinator.com/item?id=41082502) - [Crooks Bypassed Google's Email Verification to Create Workspace Accounts, Acces](https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a Cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 19:20:43](https://news.ycombinator.com/item?id=41081435) - [TOTP tokens on my wrist with the smartest dumb watch](https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/)
 * [2024-07-26, 18:32:37](https://news.ycombinator.com/item?id=41081021) - [Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
