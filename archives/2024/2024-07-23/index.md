@@ -27,6 +27,7 @@
 * [2024-07-23, 18:43:02](https://news.ycombinator.com/item?id=41049388) - [Learn Web Components: A free roadmap for learning web components](https://learn-wcs.com/)
 * [2024-07-23, 18:40:52](https://news.ycombinator.com/item?id=41049365) - [Things I said as a manager part 2: Hiring is emotional](https://reactiverobot.com/writing/hiring.html)
 * [2024-07-23, 18:32:18](https://news.ycombinator.com/item?id=41049267) - [A Good Man Is Hard to Find: Egg Freezing and the 'Mating Gap' (2023)](https://blog.petrieflom.law.harvard.edu/2023/08/30/a-good-man-is-hard-to-find-egg-freezing-and-the-mating-gap/)
+* [2024-07-23, 18:09:08](https://news.ycombinator.com/item?id=41049026) - [\"We can't decide so we cheat and bundle 12 objectives under 3 priorities\"](https://rubenugarte.substack.com/p/i-dont-want-to-do-our-cheat-way-of)
 * [2024-07-23, 18:08:13](https://news.ycombinator.com/item?id=41049016) - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
 * [2024-07-23, 18:04:02](https://news.ycombinator.com/item?id=41048980) - [Engage, Don't Show](https://lea.verou.me/blog/2024/engage-dont-show/)
 * [2024-07-23, 17:52:32](https://news.ycombinator.com/item?id=41048866) - [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
