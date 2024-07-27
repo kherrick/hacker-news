@@ -20,16 +20,16 @@
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 18:41:35](https://news.ycombinator.com/item?id=41081122) - [What happens if you connect Windows XP to the Internet in 2024? [video]](https://www.youtube.com/watch?v=6uSVVCmOH5w)
 * [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
-* [2024-07-26, 18:32:37](https://news.ycombinator.com/item?id=41081021) - [Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
+* [2024-07-26, 18:29:17](https://news.ycombinator.com/item?id=41080991) - [The New Internet](https://tailscale.com/blog/new-internet)
 * [2024-07-26, 17:51:36](https://news.ycombinator.com/item?id=41080654) - [Maglev titanium heart inside the chest of a live patient](https://newatlas.com/medical/maglev-titanium-heart-bivacor/)
 * [2024-07-26, 17:45:30](https://news.ycombinator.com/item?id=41080602) - [Show HN: Applesoft BASIC editor with example programs](https://paleotronic.com/applesoft/)
 * [2024-07-26, 17:44:12](https://news.ycombinator.com/item?id=41080593) - [Beyond Authenticity: Hannah Arendt's final unfinished work](https://aeon.co/essays/what-hannah-arendt-proposed-as-an-alternative-to-authenticity)
 * [2024-07-26, 17:09:13](https://news.ycombinator.com/item?id=41080303) - [The Man Who Invented Times Square](https://thereader.mitpress.mit.edu/the-man-who-invented-times-square-o-j-gude-and-the-birth-of-the-spectacular/)
-* [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-23, 21:25:35](https://news.ycombinator.com/item?id=41051086) - [Hosting Static Content with Gitlab](https://eklausmeier.goip.de/blog/2024/07-14-hosting-static-content-with-gitlab)
 * [2024-07-23, 17:14:12](https://news.ycombinator.com/item?id=41048473) - [Show HN: Preprocessor I've been working 4 years now](https://www.npmjs.com/package/pretty-markup)
 * [2024-07-23, 04:33:38](https://news.ycombinator.com/item?id=41042513) - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
+* [2024-07-22, 17:02:39](https://news.ycombinator.com/item?id=41036663) - [Why Adventure Games Suck (1989)](https://grumpygamer.com/why_adventure_games_suck)
 
 ## [Archives](archives/index.md)
 
