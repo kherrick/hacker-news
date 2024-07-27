@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 13:49:44](https://news.ycombinator.com/item?id=41086583) - [A Few Blockbuster Podcasts Are Making All the Money](https://www.wsj.com/business/media/a-few-blockbuster-podcasts-are-making-all-the-money-d9cee36e)
 * [2024-07-27, 13:39:44](https://news.ycombinator.com/item?id=41086531) - [Calculus for Beginners and Artists](https://math.mit.edu/~djk/calculus_beginners/)
+* [2024-07-27, 12:56:54](https://news.ycombinator.com/item?id=41086282) - [U.S. shelves $300M 'real-world' data platform for Alzheimer's](https://www.science.org/content/article/u-s-shelves-300-million-real-world-data-platform-alzheimer-s)
 * [2024-07-27, 12:41:18](https://news.ycombinator.com/item?id=41086206) - [Google reported a 13% increase in its emissions footprint in 2023](https://indianexpress.com/article/explained/explained-sci-tech/why-ais-present-and-future-bring-some-serious-environmental-concerns-9476135/)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 12:02:10](https://news.ycombinator.com/item?id=41086007) - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
