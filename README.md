@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-28, 21:01:15](https://news.ycombinator.com/item?id=41095934) - [FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
+* [2024-07-28, 20:45:17](https://news.ycombinator.com/item?id=41095839) - [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
 * [2024-07-28, 20:42:03](https://news.ycombinator.com/item?id=41095814) - [Don't blindly prefer `emplace_back` to `push_back` in C++](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
 * [2024-07-28, 20:10:37](https://news.ycombinator.com/item?id=41095615) - [CrowdStrike offers partners $10 vouchers to say sorry – and they don't work](https://news.sky.com/story/crowdstrike-company-that-caused-global-techno-meltdown-offers-partners-10-vouchers-to-say-sorry-and-they-dont-work-13184488)
 * [2024-07-28, 19:55:42](https://news.ycombinator.com/item?id=41095530) - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
@@ -19,7 +20,6 @@
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to debug your battery design](https://github.com/ionworks/how-to-debug-your-battery)
 * [2024-07-28, 00:33:19](https://news.ycombinator.com/item?id=41090397) - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
 * [2024-07-27, 22:51:57](https://news.ycombinator.com/item?id=41089911) - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
-* [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 * [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
