@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 13:59:51](https://news.ycombinator.com/item?id=41093194) - [More Than Half of Teslas Are Being Traded in for Gas Cars](https://www.edmunds.com/car-news/tesla-trade-in-data-gas-cars.html)
+* [2024-07-28, 13:44:22](https://news.ycombinator.com/item?id=41093074) - [Digital Apartheid in Gaza: Unjust Content Moderation at the Request of Israel](https://www.eff.org/deeplinks/2024/07/digital-apartheid-gaza-unjust-content-moderation-request-israels-cyber-unit)
 * [2024-07-28, 13:42:49](https://news.ycombinator.com/item?id=41093063) - [NASA nears decision on what to do with Boeing's troubled Starliner spacecraft](https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/)
 * [2024-07-28, 13:14:36](https://news.ycombinator.com/item?id=41092928) - [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
 * [2024-07-28, 13:13:38](https://news.ycombinator.com/item?id=41092924) - [Rent control effects: An almost complete review of the literature](https://www.sciencedirect.com/science/article/pii/S1051137724000020)
@@ -14,6 +16,7 @@
 * [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://text.npr.org/nx-s1-5054329)
 * [2024-07-28, 12:18:02](https://news.ycombinator.com/item?id=41092738) - [A Time Traveler's Guide to the Stock Market](https://sherwood.news/markets/time-travelers-guide-to-the-stock-market/)
 * [2024-07-28, 12:00:48](https://news.ycombinator.com/item?id=41092667) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-07-28, 11:49:40](https://news.ycombinator.com/item?id=41092614) - [Eating Foods with Xylitol Can Be a Risk to Your Heart](https://health.clevelandclinic.org/dangers-of-xylitol)
 * [2024-07-28, 11:15:38](https://news.ycombinator.com/item?id=41092482) - [Why the greatest athletes don't get paid like it](https://thehustle.co/originals/why-the-worlds-greatest-athletes-at-the-olympics-dont-get-paid-like-it)
 * [2024-07-28, 11:11:10](https://news.ycombinator.com/item?id=41092467) - [Surprising element found in Tycho Brahe's alchemy lab confounds scientists](https://www.cnn.com/2024/07/27/science/tycho-brahe-alchemy-lab-tungsten/index.html)
 * [2024-07-28, 11:08:51](https://news.ycombinator.com/item?id=41092460) - [CalcGPT](https://calcgpt.io/)
