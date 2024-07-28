@@ -55,6 +55,7 @@
 * [2024-07-24, 15:02:57](https://news.ycombinator.com/item?id=41057814) - [Visual Explanation of SAML Authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
 * [2024-07-24, 14:57:14](https://news.ycombinator.com/item?id=41057766) - [InteractiVenn – Interactive Venn Diagrams](https://interactivenn.net/index.html)
 * [2024-07-24, 14:35:45](https://news.ycombinator.com/item?id=41057541) - [Patrick McKenzie – How a Discord Server Saved 1000s of Lives [video]](https://www.youtube.com/watch?v=18zpjpPNWRw)
+* [2024-07-24, 14:18:43](https://news.ycombinator.com/item?id=41057386) - [Using DORA metrics to coach teams](https://zarar.dev/using-dora-metrics-to-coach-teams/)
 * [2024-07-24, 14:16:30](https://news.ycombinator.com/item?id=41057361) - [How Do You Find a Good Manager?](https://www.nber.org/papers/w32699)
 * [2024-07-24, 14:10:04](https://news.ycombinator.com/item?id=41057302) - [How to Fine-Tune Llama 3 for Customer Service](https://symbl.ai/developers/blog/how-to-fine-tune-llama-3-for-customer-service/)
 * [2024-07-24, 14:08:38](https://news.ycombinator.com/item?id=41057289) - [Crash Course in Deep Learning (For Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/)
