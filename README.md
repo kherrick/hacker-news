@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-28, 17:27:05](https://news.ycombinator.com/item?id=41094559) - [How can a time traveler encrypt info so it's only decryptable after a given date](https://worldbuilding.stackexchange.com/questions/260342/what-can-a-time-traveler-use-to-generate-an-encryption-key-to-encrypt-informatio)
 * [2024-07-28, 16:23:38](https://news.ycombinator.com/item?id=41094180) - [The Moon Is Made of Cheese](https://fakepaper.app/)
 * [2024-07-28, 16:17:20](https://news.ycombinator.com/item?id=41094147) - [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates (2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
 * [2024-07-28, 15:48:53](https://news.ycombinator.com/item?id=41093989) - [An ordinary day with a Linux mobile device](https://dimitris.cc/posts/an-ordinary-day-with-a-linux-mobile-device.html)
@@ -7,7 +8,6 @@
 * [2024-07-28, 15:38:47](https://news.ycombinator.com/item?id=41093939) - [Complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
 * [2024-07-28, 15:35:25](https://news.ycombinator.com/item?id=41093918) - [An AI bot-war destroyed the online job market](https://www.salon.com/2024/07/28/everlasting-jobstoppers-how-an-ai-bot-destroyed-the-online-job-market/)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
-* [2024-07-28, 15:23:25](https://news.ycombinator.com/item?id=41093833) - [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
 * [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
 * [2024-07-28, 12:56:32](https://news.ycombinator.com/item?id=41092861) - [My favorite tools and techniques for procedural gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 * [2024-07-28, 12:00:48](https://news.ycombinator.com/item?id=41092667) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
