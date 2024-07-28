@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-28, 18:17:29",
+      "https://news.ycombinator.com/item?id=41094924"
+    ],
+    [
+      "William James and a Theory of Thinking [pdf]",
+      "https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta"
+    ]
+  ],
+  [
+    [
+      "2024-07-28, 18:06:54",
+      "https://news.ycombinator.com/item?id=41094836"
+    ],
+    [
+      "Facts about hardware are not copyrightable",
+      "https://social.treehouse.systems/@marcan/112863869736471663"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 17:56:30",
       "https://news.ycombinator.com/item?id=41094777"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2024-07-28, 17:27:05",
-      "https://news.ycombinator.com/item?id=41094559"
-    ],
-    [
-      "How can a time traveler encrypt info so it's only decryptable after a given date",
-      "https://worldbuilding.stackexchange.com/questions/260342/what-can-a-time-traveler-use-to-generate-an-encryption-key-to-encrypt-informatio"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 17:14:28",
       "https://news.ycombinator.com/item?id=41094485"
     ],
     [
       "Perfectionism – one of the biggest productivity killers in the eng industry",
       "https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 16:30:47",
-      "https://news.ycombinator.com/item?id=41094214"
-    ],
-    [
-      "What's trending on GitHub week ending July 28 2024",
-      "https://gitstars.substack.com/p/gittrends-july-28-2024"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "How simultaneous multithreading works under the hood",
       "https://blog.codingconfessions.com/p/simultaneous-multithreading"
+    ]
+  ],
+  [
+    [
+      "2024-07-28, 14:13:58",
+      "https://news.ycombinator.com/item?id=41093297"
+    ],
+    [
+      "Understanding Airflow DAG and Task Concurrency on Google Cloud Composer",
+      "https://cloud.google.com/blog/products/data-analytics/airflow-dag-and-task-concurrency-in-cloud-composer/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Intel N100 Radxa X4 First Thoughts",
       "https://bret.dk/intel-n100-radxa-x4-first-thoughts/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 20:35:40",
-      "https://news.ycombinator.com/item?id=41089161"
-    ],
-    [
-      "Roguecraft Devs on Developing for Amiga in 2024",
-      "https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024"
     ]
   ],
   [
