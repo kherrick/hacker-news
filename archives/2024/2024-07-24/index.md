@@ -9,6 +9,7 @@
 * [2024-07-24, 23:36:37](https://news.ycombinator.com/item?id=41063361) - [Memory for music doesn't diminish with age](https://www.nature.com/articles/d41586-024-02369-7)
 * [2024-07-24, 23:27:57](https://news.ycombinator.com/item?id=41063307) - [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
 * [2024-07-24, 23:25:28](https://news.ycombinator.com/item?id=41063279) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
+* [2024-07-24, 23:24:23](https://news.ycombinator.com/item?id=41063267) - [America's War on Theater](https://lareviewofbooks.org/article/americas-war-on-theater/)
 * [2024-07-24, 23:22:57](https://news.ycombinator.com/item?id=41063258) - [Humans 1, Chimps 0: Correcting the Record](https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record)
 * [2024-07-24, 23:09:20](https://news.ycombinator.com/item?id=41063162) - [X suspends account that leaked info about protected user TOS bypass](https://twitter.com/tippitytoptweet/status/1816232864243147112)
 * [2024-07-24, 22:59:43](https://news.ycombinator.com/item?id=41063097) - [OpenAI is set to lose $5B this year](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/)
