@@ -26,10 +26,10 @@
 * [2024-07-26, 10:24:57](https://news.ycombinator.com/item?id=41077443) - [Show HN: Anyma V, a powerful hybrid physical modelling virtual instrument](https://aodyo.com/product/anyma-v/)
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
 * [2024-07-25, 19:56:13](https://news.ycombinator.com/item?id=41072691) - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
+* [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-24, 19:03:56](https://news.ycombinator.com/item?id=41060621) - [Why the Wisconsin pizza farm movement is an idea whose time has come](https://www.chicagotribune.com/2024/07/01/pizza-farm-wisconsin/)
 * [2024-07-23, 23:04:03](https://news.ycombinator.com/item?id=41051938) - [A chemist explains the chemistry behind decaf coffee](https://phys.org/news/2024-07-retaining-flavor-caffeine-chemist-chemistry.html)
-* [2024-07-23, 17:14:12](https://news.ycombinator.com/item?id=41048473) - [Show HN: Preprocessor I've been working 4 years now](https://www.npmjs.com/package/pretty-markup)
 
 ## [Archives](archives/index.md)
 
