@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 * [2024-07-28, 06:57:48](https://news.ycombinator.com/item?id=41091687) - [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
 * [2024-07-28, 06:41:52](https://news.ycombinator.com/item?id=41091623) - [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
@@ -18,7 +19,6 @@
 * [2024-07-27, 09:44:32](https://news.ycombinator.com/item?id=41085471) - [Covering All Birthdays](https://liorsinai.github.io/mathematics/2024/07/09/birthday-covering.html)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-* [2024-07-26, 23:10:44](https://news.ycombinator.com/item?id=41083140) - [How Clang compiles a function (2018)](https://blog.regehr.org/archives/1605)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
 * [2024-07-26, 18:29:17](https://news.ycombinator.com/item?id=41080991) - [The New Internet](https://tailscale.com/blog/new-internet)
