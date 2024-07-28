@@ -2,6 +2,7 @@
 
 * [2024-07-28, 16:17:20](https://news.ycombinator.com/item?id=41094147) - [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates (2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
 * [2024-07-28, 15:38:47](https://news.ycombinator.com/item?id=41093939) - [Complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
+* [2024-07-28, 15:35:25](https://news.ycombinator.com/item?id=41093918) - [An AI bot-war destroyed the online job market](https://www.salon.com/2024/07/28/everlasting-jobstoppers-how-an-ai-bot-destroyed-the-online-job-market/)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-28, 15:23:25](https://news.ycombinator.com/item?id=41093833) - [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
 * [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
@@ -16,7 +17,6 @@
 * [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 * [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
-* [2024-07-27, 18:10:31](https://news.ycombinator.com/item?id=41088314) - [An Interview with Robert Caro and Kurt Vonnegut (1999)](https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut)
 * [2024-07-27, 18:02:58](https://news.ycombinator.com/item?id=41088273) - [Show HN: Semantic Grep – A Word2Vec-powered search tool](https://github.com/arunsupe/semantic-grep)
 * [2024-07-27, 17:23:55](https://news.ycombinator.com/item?id=41088013) - [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
 * [2024-07-27, 16:08:26](https://news.ycombinator.com/item?id=41087429) - [Göttingen was one of the most productive centers of mathematics (2019)](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
