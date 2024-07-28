@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-28, 14:04:34",
-      "https://news.ycombinator.com/item?id=41093215"
-    ],
-    [
-      "Non-Obvious Prompt Engineering Guide",
-      "https://www.techsistence.com/p/non-obvious-prompt-engineering-guide"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 12:56:55",
       "https://news.ycombinator.com/item?id=41092862"
     ],
@@ -27,16 +17,6 @@
     [
       "My favorite tools and techniques for procedural gamedev",
       "https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 12:36:01",
-      "https://news.ycombinator.com/item?id=41092797"
-    ],
-    [
-      "Why many studies wrongly claim it's healthy to drink a little alcohol",
-      "https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-07-26, 23:10:44",
+      "https://news.ycombinator.com/item?id=41083140"
+    ],
+    [
+      "How Clang compiles a function (2018)",
+      "https://blog.regehr.org/archives/1605"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 20:07:52",
       "https://news.ycombinator.com/item?id=41081810"
     ],
@@ -297,6 +287,16 @@
     [
       "The Ridgway: Hike the 5k-year-old pathway that's Britain's oldest road",
       "https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 12:22:02",
+      "https://news.ycombinator.com/item?id=41045212"
+    ],
+    [
+      "Show HN: SwimOS Rust – A framework for real-time streaming data applications",
+      "https://github.com/swimos/swim-rust"
     ]
   ]
 ]
