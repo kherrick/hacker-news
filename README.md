@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-28, 23:16:27](https://news.ycombinator.com/item?id=41096736) - [Four co's are hoarding billions worth of Nvidia GPU chips. Meta has 350K of them](https://sherwood.news/tech/companies-hoarding-nvidia-gpu-chips-meta-tesla/)
 * [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
 * [2024-07-28, 21:40:47](https://news.ycombinator.com/item?id=41096187) - [Higher-kinded bounded polymorphism in OCaml](https://okmij.org/ftp/ML/higher-kind-poly.html)
 * [2024-07-28, 21:01:15](https://news.ycombinator.com/item?id=41095934) - [FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
@@ -8,7 +9,6 @@
 * [2024-07-28, 20:38:59](https://news.ycombinator.com/item?id=41095790) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 20:21:43](https://news.ycombinator.com/item?id=41095697) - [A man's brain is like a little empty attic (1887)](http://metaphors.iath.virginia.edu/metaphors/17736)
 * [2024-07-28, 19:55:42](https://news.ycombinator.com/item?id=41095530) - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
-* [2024-07-28, 18:20:06](https://news.ycombinator.com/item?id=41094946) - [An approach to the fundamental theory of physics](https://www.wolframphysics.org/)
 * [2024-07-28, 17:11:47](https://news.ycombinator.com/item?id=41094469) - [The CMD FD-4000 Floppy Drive's Can Convert Disks from HD (1.4MB) to ED (3.2MB)](https://www.amigalove.com/viewtopic.php?t=2794)
 * [2024-07-28, 16:27:11](https://news.ycombinator.com/item?id=41094197) - [Italy's Sun Motorway (2021)](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
 * [2024-07-28, 16:19:50](https://news.ycombinator.com/item?id=41094159) - [Show HN: ThinkPost – split-panel note taking & brainstorming app for devs](https://thinkpost.io)
