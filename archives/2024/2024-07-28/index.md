@@ -14,6 +14,7 @@
 * [2024-07-28, 17:27:05](https://news.ycombinator.com/item?id=41094559) - [How can a time traveler encrypt info so it's only decryptable after a given date](https://worldbuilding.stackexchange.com/questions/260342/what-can-a-time-traveler-use-to-generate-an-encryption-key-to-encrypt-informatio)
 * [2024-07-28, 17:14:28](https://news.ycombinator.com/item?id=41094485) - [Perfectionism – one of the biggest productivity killers in the eng industry](https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest)
 * [2024-07-28, 16:30:47](https://news.ycombinator.com/item?id=41094214) - [What's trending on GitHub week ending July 28 2024](https://gitstars.substack.com/p/gittrends-july-28-2024)
+* [2024-07-28, 16:27:11](https://news.ycombinator.com/item?id=41094197) - [Italy's \"Sun Motorway\": the story of an exceptional infrastructure](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
 * [2024-07-28, 16:23:38](https://news.ycombinator.com/item?id=41094180) - [The Moon Is Made of Cheese](https://fakepaper.app/)
 * [2024-07-28, 16:17:20](https://news.ycombinator.com/item?id=41094147) - [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates (2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
 * [2024-07-28, 16:08:33](https://news.ycombinator.com/item?id=41094093) - [Stanhope (optical bijou)](https://en.wikipedia.org/wiki/Stanhope_(optical_bijou))
