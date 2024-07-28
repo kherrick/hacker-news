@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 18:17:29](https://news.ycombinator.com/item?id=41094924) - [William James and a Theory of Thinking [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
+* [2024-07-28, 18:06:54](https://news.ycombinator.com/item?id=41094836) - [Facts about hardware are not copyrightable](https://social.treehouse.systems/@marcan/112863869736471663)
 * [2024-07-28, 17:56:30](https://news.ycombinator.com/item?id=41094777) - [Greaseweazle: Tools for accessing a floppy drive at the raw flux level](https://github.com/keirf/greaseweazle)
 * [2024-07-28, 17:43:46](https://news.ycombinator.com/item?id=41094679) - [Local library has decades old server running,and they don't know what it's doing](https://old.reddit.com/r/selfhosted/comments/1ee95ps/local_library_has_decades_old_server_running_and/)
 * [2024-07-28, 17:42:02](https://news.ycombinator.com/item?id=41094665) - [A plot of all objects in the universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
@@ -22,6 +24,7 @@
 * [2024-07-28, 15:23:25](https://news.ycombinator.com/item?id=41093833) - [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
 * [2024-07-28, 14:29:06](https://news.ycombinator.com/item?id=41093390) - [Show HN: I built an affordable service for growing your SaaS](https://saastronomy.co/)
 * [2024-07-28, 14:25:04](https://news.ycombinator.com/item?id=41093362) - [Schengen ain't what it used to be](https://www.savageevan.com/schengen/)
+* [2024-07-28, 14:13:58](https://news.ycombinator.com/item?id=41093297) - [Understanding Airflow DAG and Task Concurrency on Google Cloud Composer](https://cloud.google.com/blog/products/data-analytics/airflow-dag-and-task-concurrency-in-cloud-composer/)
 * [2024-07-28, 14:04:34](https://news.ycombinator.com/item?id=41093215) - [Non-Obvious Prompt Engineering Guide](https://www.techsistence.com/p/non-obvious-prompt-engineering-guide)
 * [2024-07-28, 14:00:42](https://news.ycombinator.com/item?id=41093197) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 13:59:51](https://news.ycombinator.com/item?id=41093194) - [More Than Half of Teslas Are Being Traded in for Gas Cars](https://www.edmunds.com/car-news/tesla-trade-in-data-gas-cars.html)
