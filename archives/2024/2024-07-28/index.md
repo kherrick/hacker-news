@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 13:14:36](https://news.ycombinator.com/item?id=41092928) - [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
 * [2024-07-28, 13:09:08](https://news.ycombinator.com/item?id=41092909) - [1% of people are responsible for 24% of the health spending in America](https://twitter.com/cremieuxrecueil/status/1817249178017321257)
+* [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
 * [2024-07-28, 12:36:01](https://news.ycombinator.com/item?id=41092797) - [Why many studies wrongly claim it's healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)
 * [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://www.npr.org/2024/07/27/nx-s1-5054329/utah-great-salt-lake-carbon-emissions)
 * [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://text.npr.org/nx-s1-5054329)
