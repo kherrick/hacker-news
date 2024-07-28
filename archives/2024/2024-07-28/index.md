@@ -17,6 +17,7 @@
 * [2024-07-28, 16:30:47](https://news.ycombinator.com/item?id=41094214) - [What's trending on GitHub week ending July 28 2024](https://gitstars.substack.com/p/gittrends-july-28-2024)
 * [2024-07-28, 16:27:11](https://news.ycombinator.com/item?id=41094197) - [Italy's \"Sun Motorway\": the story of an exceptional infrastructure](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
 * [2024-07-28, 16:23:38](https://news.ycombinator.com/item?id=41094180) - [The Moon Is Made of Cheese](https://fakepaper.app/)
+* [2024-07-28, 16:19:50](https://news.ycombinator.com/item?id=41094159) - [Show HN: ThinkPost – split-panel note taking & brainstorming app for devs](https://thinkpost.io)
 * [2024-07-28, 16:17:20](https://news.ycombinator.com/item?id=41094147) - [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates (2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
 * [2024-07-28, 16:08:33](https://news.ycombinator.com/item?id=41094093) - [Stanhope (optical bijou)](https://en.wikipedia.org/wiki/Stanhope_(optical_bijou))
 * [2024-07-28, 15:48:53](https://news.ycombinator.com/item?id=41093989) - [An ordinary day with a Linux mobile device](https://dimitris.cc/posts/an-ordinary-day-with-a-linux-mobile-device.html)
