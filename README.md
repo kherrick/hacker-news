@@ -4,7 +4,6 @@
 * [2024-07-28, 00:33:19](https://news.ycombinator.com/item?id=41090397) - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
 * [2024-07-28, 00:08:21](https://news.ycombinator.com/item?id=41090304) - [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/)
 * [2024-07-27, 23:52:32](https://news.ycombinator.com/item?id=41090222) - [Plan 9 Is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
-* [2024-07-27, 23:33:45](https://news.ycombinator.com/item?id=41090134) - [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
 * [2024-07-27, 22:51:57](https://news.ycombinator.com/item?id=41089911) - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
 * [2024-07-27, 21:46:51](https://news.ycombinator.com/item?id=41089558) - [Apple has reached its first-ever union contract with store employees in Maryland](https://apnews.com/article/apple-union-contract-maryland-store-f9884d978bf3129c37726dd7978392a5)
 * [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
@@ -28,6 +27,7 @@
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
 * [2024-07-25, 19:56:13](https://news.ycombinator.com/item?id=41072691) - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
+* [2024-07-24, 14:18:43](https://news.ycombinator.com/item?id=41057386) - [Using DORA metrics to coach teams](https://zarar.dev/using-dora-metrics-to-coach-teams/)
 * [2024-07-23, 23:04:03](https://news.ycombinator.com/item?id=41051938) - [A chemist explains the chemistry behind decaf coffee](https://phys.org/news/2024-07-retaining-flavor-caffeine-chemist-chemistry.html)
 * [2024-07-23, 17:14:12](https://news.ycombinator.com/item?id=41048473) - [Show HN: Preprocessor I've been working 4 years now](https://www.npmjs.com/package/pretty-markup)
 
