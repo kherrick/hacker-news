@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-07-28, 17:42:02",
-      "https://news.ycombinator.com/item?id=41094665"
-    ],
-    [
-      "A plot of all objects in the universe (2023)",
-      "https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 17:14:28",
       "https://news.ycombinator.com/item?id=41094485"
     ],
@@ -197,6 +187,16 @@
     [
       "Managarm: Pragmatic microkernel-based OS with asynchronous I/O",
       "https://github.com/managarm/managarm"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 17:23:55",
+      "https://news.ycombinator.com/item?id=41088013"
+    ],
+    [
+      "An experiment in UI density created with Svelte",
+      "https://cybernetic.dev/grid"
     ]
   ],
   [
