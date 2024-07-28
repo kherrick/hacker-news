@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-28, 12:00:48](https://news.ycombinator.com/item?id=41092667) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-07-28, 07:38:24](https://news.ycombinator.com/item?id=41091810) - [Hiding in plain sight: Modifying process names in Unix-like systems](https://doubleagent.net/process-name-stomping/)
 * [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 * [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
@@ -25,7 +26,6 @@
 * [2024-07-26, 17:44:12](https://news.ycombinator.com/item?id=41080593) - [Beyond Authenticity: Hannah Arendt's final unfinished work](https://aeon.co/essays/what-hannah-arendt-proposed-as-an-alternative-to-authenticity)
 * [2024-07-26, 10:24:57](https://news.ycombinator.com/item?id=41077443) - [Show HN: Anyma V, a powerful hybrid physical modelling virtual instrument](https://aodyo.com/product/anyma-v/)
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
-* [2024-07-25, 19:56:13](https://news.ycombinator.com/item?id=41072691) - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
 * [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
 * [2024-07-25, 01:04:23](https://news.ycombinator.com/item?id=41063823) - [Electric Giraffe](https://electricgiraffe.com/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
