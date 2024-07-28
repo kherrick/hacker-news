@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 13:42:49](https://news.ycombinator.com/item?id=41093063) - [NASA nears decision on what to do with Boeing's troubled Starliner spacecraft](https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/)
 * [2024-07-28, 13:14:36](https://news.ycombinator.com/item?id=41092928) - [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
+* [2024-07-28, 13:13:38](https://news.ycombinator.com/item?id=41092924) - [Rent control effects: An almost complete review of the literature](https://www.sciencedirect.com/science/article/pii/S1051137724000020)
 * [2024-07-28, 13:09:08](https://news.ycombinator.com/item?id=41092909) - [1% of people are responsible for 24% of the health spending in America](https://twitter.com/cremieuxrecueil/status/1817249178017321257)
 * [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
 * [2024-07-28, 12:36:01](https://news.ycombinator.com/item?id=41092797) - [Why many studies wrongly claim it's healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)

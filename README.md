@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-28, 13:42:49](https://news.ycombinator.com/item?id=41093063) - [NASA nears decision on what to do with Boeing's troubled Starliner spacecraft](https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/)
 * [2024-07-28, 13:14:36](https://news.ycombinator.com/item?id=41092928) - [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
+* [2024-07-28, 13:13:38](https://news.ycombinator.com/item?id=41092924) - [Rent control effects: An almost complete review of the literature](https://www.sciencedirect.com/science/article/pii/S1051137724000020)
 * [2024-07-28, 13:09:08](https://news.ycombinator.com/item?id=41092909) - [1% of people are responsible for 24% of the health spending in America](https://twitter.com/cremieuxrecueil/status/1817249178017321257)
 * [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
 * [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://www.npr.org/2024/07/27/nx-s1-5054329/utah-great-salt-lake-carbon-emissions)
@@ -24,8 +26,6 @@
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
-* [2024-07-26, 17:44:12](https://news.ycombinator.com/item?id=41080593) - [Beyond Authenticity: Hannah Arendt's final unfinished work](https://aeon.co/essays/what-hannah-arendt-proposed-as-an-alternative-to-authenticity)
-* [2024-07-26, 10:24:57](https://news.ycombinator.com/item?id=41077443) - [Show HN: Anyma V, a powerful hybrid physical modelling virtual instrument](https://aodyo.com/product/anyma-v/)
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
 * [2024-07-25, 01:04:23](https://news.ycombinator.com/item?id=41063823) - [Electric Giraffe](https://electricgiraffe.com/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
