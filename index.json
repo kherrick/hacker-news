@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-28, 06:41:52",
+      "https://news.ycombinator.com/item?id=41091623"
+    ],
+    [
+      "A List of companies that use Array Languages (J, K, APL, q)",
+      "https://github.com/interregna/arraylanguage-companies"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 01:39:06",
       "https://news.ycombinator.com/item?id=41090658"
     ],
@@ -257,16 +267,6 @@
     [
       "A User’s Guide to Statistical Inference and Regression",
       "https://mattblackwell.github.io/gov2002-book/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 15:11:20",
-      "https://news.ycombinator.com/item?id=41069606"
-    ],
-    [
-      "Reverse-engineering my speakers' API to get reasonable volume control",
-      "https://jamesbvaughan.com/volume-controller-1/"
     ]
   ],
   [
