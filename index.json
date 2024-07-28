@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-07-28, 00:08:21",
+      "https://news.ycombinator.com/item?id=41090304"
+    ],
+    [
+      "How did Facebook intercept their competitor's encrypted mobile app traffic?",
+      "https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 23:52:32",
+      "https://news.ycombinator.com/item?id=41090222"
+    ],
+    [
+      "Plan 9 Is a Uniquely Complete Operating System",
+      "https://posixcafe.org/blogs/2024/07/27/0/"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 23:48:16",
+      "https://news.ycombinator.com/item?id=41090199"
+    ],
+    [
+      "Hosting the Olympics has become financially untenable, economists say",
+      "https://www.cnn.com/2024/07/26/economy/olympics-economics-paris-2024/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 23:33:45",
+      "https://news.ycombinator.com/item?id=41090134"
+    ],
+    [
+      "Lessons from Ancient File Systems",
+      "http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 22:51:57",
+      "https://news.ycombinator.com/item?id=41089911"
+    ],
+    [
+      "Intel N100 Radxa X4 First Thoughts",
+      "https://bret.dk/intel-n100-radxa-x4-first-thoughts/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 21:46:51",
       "https://news.ycombinator.com/item?id=41089558"
     ],
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2024-07-27, 17:54:19",
-      "https://news.ycombinator.com/item?id=41088224"
-    ],
-    [
-      "Aphex Twin gave us a peek inside a 90s classic (2017)",
-      "https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 17:23:55",
       "https://news.ycombinator.com/item?id=41088013"
     ],
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2024-07-27, 12:02:10",
-      "https://news.ycombinator.com/item?id=41086007"
-    ],
-    [
-      "Substack (YC W18) Is Hiring Systems Engineers",
-      "https://grnh.se/4f362fed5us"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 10:55:43",
       "https://news.ycombinator.com/item?id=41085713"
     ],
     [
       "Learning about PCI-e: Driver and DMA",
       "https://blog.davidv.dev/posts/pcie-driver-dma/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 10:40:02",
-      "https://news.ycombinator.com/item?id=41085660"
-    ],
-    [
-      "Was early modern writing paper expensive? (2018)",
-      "https://www.folger.edu/blogs/collation/writing-paper-expensive/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-26, 17:51:36",
-      "https://news.ycombinator.com/item?id=41080654"
-    ],
-    [
-      "Maglev titanium heart inside the chest of a live patient",
-      "https://newatlas.com/medical/maglev-titanium-heart-bivacor/"
-    ]
-  ],
-  [
-    [
       "2024-07-26, 17:45:30",
       "https://news.ycombinator.com/item?id=41080602"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2024-07-26, 17:09:13",
-      "https://news.ycombinator.com/item?id=41080303"
-    ],
-    [
-      "The Man Who Invented Times Square",
-      "https://thereader.mitpress.mit.edu/the-man-who-invented-times-square-o-j-gude-and-the-birth-of-the-spectacular/"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 19:56:13",
       "https://news.ycombinator.com/item?id=41072691"
     ],
     [
-      "A User's Guide to Statistical Inference and Regression",
+      "A User’s Guide to Statistical Inference and Regression",
       "https://mattblackwell.github.io/gov2002-book/"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 23:39:35",
+      "https://news.ycombinator.com/item?id=41063373"
+    ],
+    [
+      "Show HN: Slide the daily word into the bottom row or: Caesar's 20-puzzle",
+      "https://www.shuffdle.com"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The secret of Minecraft (2014)",
       "https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 21:25:35",
-      "https://news.ycombinator.com/item?id=41051086"
-    ],
-    [
-      "Hosting Static Content with Gitlab",
-      "https://eklausmeier.goip.de/blog/2024/07-14-hosting-static-content-with-gitlab"
     ]
   ],
   [
