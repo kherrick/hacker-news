@@ -7,6 +7,7 @@
 * [2024-07-28, 17:27:05](https://news.ycombinator.com/item?id=41094559) - [How can a time traveler encrypt info so it's only decryptable after a given date](https://worldbuilding.stackexchange.com/questions/260342/what-can-a-time-traveler-use-to-generate-an-encryption-key-to-encrypt-informatio)
 * [2024-07-28, 16:23:38](https://news.ycombinator.com/item?id=41094180) - [The Moon Is Made of Cheese](https://fakepaper.app/)
 * [2024-07-28, 16:17:20](https://news.ycombinator.com/item?id=41094147) - [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates (2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
+* [2024-07-28, 16:08:33](https://news.ycombinator.com/item?id=41094093) - [Stanhope (optical bijou)](https://en.wikipedia.org/wiki/Stanhope_(optical_bijou))
 * [2024-07-28, 15:48:53](https://news.ycombinator.com/item?id=41093989) - [An ordinary day with a Linux mobile device](https://dimitris.cc/posts/an-ordinary-day-with-a-linux-mobile-device.html)
 * [2024-07-28, 15:45:05](https://news.ycombinator.com/item?id=41093970) - [What we would've done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
 * [2024-07-28, 15:38:47](https://news.ycombinator.com/item?id=41093939) - [Complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
