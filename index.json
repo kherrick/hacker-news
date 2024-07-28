@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2024-07-28, 06:51:55",
-      "https://news.ycombinator.com/item?id=41091658"
-    ],
-    [
-      "400% increase in GPS spoofing – workgroup established",
-      "https://ops.group/blog/400-increase-in-gps-spoofing-workgroup-established/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 06:41:52",
-      "https://news.ycombinator.com/item?id=41091623"
-    ],
-    [
-      "A List of companies that use Array Languages (J, K, APL, q)",
-      "https://github.com/interregna/arraylanguage-companies"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 01:39:06",
       "https://news.ycombinator.com/item?id=41090658"
     ],
@@ -77,16 +57,6 @@
     [
       "How did Facebook intercept their competitor's encrypted mobile app traffic?",
       "https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 23:52:32",
-      "https://news.ycombinator.com/item?id=41090222"
-    ],
-    [
-      "Plan 9 is a uniquely complete operating system",
-      "https://posixcafe.org/blogs/2024/07/27/0/"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2024-07-26, 23:10:44",
+      "https://news.ycombinator.com/item?id=41083140"
+    ],
+    [
+      "How Clang compiles a function (2018)",
+      "https://blog.regehr.org/archives/1605"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 20:07:52",
       "https://news.ycombinator.com/item?id=41081810"
     ],
@@ -217,6 +197,26 @@
     [
       "Vikings in al-Andalus and the Maghreb",
       "https://www.alandalusylahistoria.com/?p=4902"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 18:32:37",
+      "https://news.ycombinator.com/item?id=41081021"
+    ],
+    [
+      "Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks",
+      "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 17:44:12",
+      "https://news.ycombinator.com/item?id=41080593"
+    ],
+    [
+      "Beyond Authenticity: Hannah Arendt's final unfinished work",
+      "https://aeon.co/essays/what-hannah-arendt-proposed-as-an-alternative-to-authenticity"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "A User’s Guide to Statistical Inference and Regression",
       "https://mattblackwell.github.io/gov2002-book/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 15:11:20",
+      "https://news.ycombinator.com/item?id=41069606"
+    ],
+    [
+      "Reverse-engineering my speakers' API to get reasonable volume control",
+      "https://jamesbvaughan.com/volume-controller-1/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why the Wisconsin pizza farm movement is an idea whose time has come",
       "https://www.chicagotribune.com/2024/07/01/pizza-farm-wisconsin/"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 23:04:03",
-      "https://news.ycombinator.com/item?id=41051938"
-    ],
-    [
-      "A chemist explains the chemistry behind decaf coffee",
-      "https://phys.org/news/2024-07-retaining-flavor-caffeine-chemist-chemistry.html"
     ]
   ]
 ]
