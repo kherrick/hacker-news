@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 06:57:48](https://news.ycombinator.com/item?id=41091687) - [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
 * [2024-07-28, 06:41:52](https://news.ycombinator.com/item?id=41091623) - [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
 * [2024-07-28, 00:33:19](https://news.ycombinator.com/item?id=41090397) - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)

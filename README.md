@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-28, 06:57:48](https://news.ycombinator.com/item?id=41091687) - [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
 * [2024-07-28, 06:41:52](https://news.ycombinator.com/item?id=41091623) - [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
 * [2024-07-28, 00:33:19](https://news.ycombinator.com/item?id=41090397) - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
@@ -18,7 +19,6 @@
 * [2024-07-27, 09:44:32](https://news.ycombinator.com/item?id=41085471) - [Covering All Birthdays](https://liorsinai.github.io/mathematics/2024/07/09/birthday-covering.html)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-* [2024-07-26, 23:10:44](https://news.ycombinator.com/item?id=41083140) - [How Clang compiles a function (2018)](https://blog.regehr.org/archives/1605)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
 * [2024-07-26, 18:29:17](https://news.ycombinator.com/item?id=41080991) - [The New Internet](https://tailscale.com/blog/new-internet)
@@ -26,7 +26,7 @@
 * [2024-07-26, 10:24:57](https://news.ycombinator.com/item?id=41077443) - [Show HN: Anyma V, a powerful hybrid physical modelling virtual instrument](https://aodyo.com/product/anyma-v/)
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
 * [2024-07-25, 19:56:13](https://news.ycombinator.com/item?id=41072691) - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
-* [2024-07-25, 15:11:20](https://news.ycombinator.com/item?id=41069606) - [Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
+* [2024-07-25, 11:49:10](https://news.ycombinator.com/item?id=41067476) - [A Journey with the Photographic Mind](https://photographylife.com/photographic-mind)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-24, 19:03:56](https://news.ycombinator.com/item?id=41060621) - [Why the Wisconsin pizza farm movement is an idea whose time has come](https://www.chicagotribune.com/2024/07/01/pizza-farm-wisconsin/)
 * [2024-07-23, 23:04:03](https://news.ycombinator.com/item?id=41051938) - [A chemist explains the chemistry behind decaf coffee](https://phys.org/news/2024-07-retaining-flavor-caffeine-chemist-chemistry.html)
