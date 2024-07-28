@@ -6,11 +6,13 @@
 
 * [2024-07-28, 16:23:38](https://news.ycombinator.com/item?id=41094180) - [The Moon Is Made of Cheese](https://fakepaper.app/)
 * [2024-07-28, 16:17:20](https://news.ycombinator.com/item?id=41094147) - [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates (2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
+* [2024-07-28, 15:48:53](https://news.ycombinator.com/item?id=41093989) - [An ordinary day with a Linux mobile device](https://dimitris.cc/posts/an-ordinary-day-with-a-linux-mobile-device.html)
 * [2024-07-28, 15:45:05](https://news.ycombinator.com/item?id=41093970) - [What we would've done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
 * [2024-07-28, 15:38:47](https://news.ycombinator.com/item?id=41093939) - [Complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
 * [2024-07-28, 15:35:25](https://news.ycombinator.com/item?id=41093918) - [An AI bot-war destroyed the online job market](https://www.salon.com/2024/07/28/everlasting-jobstoppers-how-an-ai-bot-destroyed-the-online-job-market/)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-28, 15:23:25](https://news.ycombinator.com/item?id=41093833) - [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
+* [2024-07-28, 14:29:06](https://news.ycombinator.com/item?id=41093390) - [Show HN: I built an affordable service for growing your SaaS](https://saastronomy.co/)
 * [2024-07-28, 14:25:04](https://news.ycombinator.com/item?id=41093362) - [Schengen ain't what it used to be](https://www.savageevan.com/schengen/)
 * [2024-07-28, 14:04:34](https://news.ycombinator.com/item?id=41093215) - [Non-Obvious Prompt Engineering Guide](https://www.techsistence.com/p/non-obvious-prompt-engineering-guide)
 * [2024-07-28, 14:00:42](https://news.ycombinator.com/item?id=41093197) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
