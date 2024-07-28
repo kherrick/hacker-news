@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41095814"
     ],
     [
-      "Don't blindly prefer `emplace_back` to `push_back` in C++",
+      "Don't blindly prefer `emplace_back` to `push_back`",
       "https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41094946"
     ],
     [
-      "An Approach to the Fundamental Theory of Physics",
+      "An approach to the fundamental theory of physics",
       "https://www.wolframphysics.org/"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Show HN: CeLLama – Single cell annotation with local LLMs",
       "https://github.com/CelVoxes/ceLLama"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 12:56:32",
-      "https://news.ycombinator.com/item?id=41092861"
-    ],
-    [
-      "My favorite tools and techniques for procedural gamedev",
-      "https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=41066700"
     ],
     [
-      "Coulomb Explosion",
+      "Coulomb explosion",
       "https://en.wikipedia.org/wiki/Coulomb_explosion"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "The Ridgeway: The 5k-year-old pathway that's Britain's oldest road",
       "https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 19:40:37",
+      "https://news.ycombinator.com/item?id=41049955"
+    ],
+    [
+      "How many children had Lady Macbeth?",
+      "https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth"
     ]
   ],
   [
