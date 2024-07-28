@@ -24,7 +24,7 @@
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-26, 17:51:36](https://news.ycombinator.com/item?id=41080654) - [Maglev titanium heart inside the chest of a live patient](https://newatlas.com/medical/maglev-titanium-heart-bivacor/)
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
-* [2024-07-25, 01:04:23](https://news.ycombinator.com/item?id=41063823) - [Electric Giraffe (2016)](https://electricgiraffe.com/)
+* [2024-07-25, 09:45:03](https://news.ycombinator.com/item?id=41066700) - [Coulomb Explosion](https://en.wikipedia.org/wiki/Coulomb_explosion)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-24, 19:05:11](https://news.ycombinator.com/item?id=41060631) - [The rich history of ham radio culture](https://thereader.mitpress.mit.edu/the-rich-history-of-ham-radio-culture/)
 * [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgeway: The 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
