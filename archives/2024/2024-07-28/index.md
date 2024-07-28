@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
 * [2024-07-28, 23:16:27](https://news.ycombinator.com/item?id=41096736) - [Four co's are hoarding billions worth of Nvidia GPU chips. Meta has 350K of them](https://sherwood.news/tech/companies-hoarding-nvidia-gpu-chips-meta-tesla/)
+* [2024-07-28, 22:53:00](https://news.ycombinator.com/item?id=41096600) - [Be MacGyver](https://macgyver.com/be-macgyver/)
 * [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
 * [2024-07-28, 21:53:59](https://news.ycombinator.com/item?id=41096254) - [Rust for Rustaceans](https://rust-for-rustaceans.com/)
 * [2024-07-28, 21:46:53](https://news.ycombinator.com/item?id=41096212) - [Ask HN: How do you choose a hostname for personal devices?](https://news.ycombinator.com/item?id=41096212)
