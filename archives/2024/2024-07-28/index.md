@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 14:25:04](https://news.ycombinator.com/item?id=41093362) - [Schengen ain't what it used to be](https://www.savageevan.com/schengen/)
+* [2024-07-28, 14:04:34](https://news.ycombinator.com/item?id=41093215) - [Non-Obvious Prompt Engineering Guide](https://www.techsistence.com/p/non-obvious-prompt-engineering-guide)
 * [2024-07-28, 13:59:51](https://news.ycombinator.com/item?id=41093194) - [More Than Half of Teslas Are Being Traded in for Gas Cars](https://www.edmunds.com/car-news/tesla-trade-in-data-gas-cars.html)
 * [2024-07-28, 13:44:22](https://news.ycombinator.com/item?id=41093074) - [Digital Apartheid in Gaza: Unjust Content Moderation at the Request of Israel](https://www.eff.org/deeplinks/2024/07/digital-apartheid-gaza-unjust-content-moderation-request-israels-cyber-unit)
 * [2024-07-28, 13:42:49](https://news.ycombinator.com/item?id=41093063) - [NASA nears decision on what to do with Boeing's troubled Starliner spacecraft](https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/)
@@ -13,6 +15,7 @@
 * [2024-07-28, 13:06:38](https://news.ycombinator.com/item?id=41092900) - [Office Space (2006)](http://www.aaronsw.com/weblog/officespace)
 * [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
 * [2024-07-28, 12:56:32](https://news.ycombinator.com/item?id=41092861) - [My Favorite Tools and Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
+* [2024-07-28, 12:47:41](https://news.ycombinator.com/item?id=41092831) - [What Was Cyberpunk? In Memoriam: 1980-2020](http://web.archive.org/web/20231206083302/https://forums.insertcredit.com/d/419-what-was-cyberpunk-in-memoriam-1980-2020)
 * [2024-07-28, 12:36:01](https://news.ycombinator.com/item?id=41092797) - [Why many studies wrongly claim it's healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)
 * [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://www.npr.org/2024/07/27/nx-s1-5054329/utah-great-salt-lake-carbon-emissions)
 * [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://text.npr.org/nx-s1-5054329)
