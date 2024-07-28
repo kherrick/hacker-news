@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 17:56:30](https://news.ycombinator.com/item?id=41094777) - [Greaseweazle: Tools for accessing a floppy drive at the raw flux level](https://github.com/keirf/greaseweazle)
+* [2024-07-28, 17:43:46](https://news.ycombinator.com/item?id=41094679) - [Local library has decades old server running,and they don't know what it's doing](https://old.reddit.com/r/selfhosted/comments/1ee95ps/local_library_has_decades_old_server_running_and/)
+* [2024-07-28, 17:42:02](https://news.ycombinator.com/item?id=41094665) - [A plot of all objects in the universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
+* [2024-07-28, 17:28:49](https://news.ycombinator.com/item?id=41094571) - [Alzheimer's blood test catches 90% of early dementia cases, study finds](https://www.cnn.com/2024/07/28/health/alzheimer-blood-test-p-tau-217-wellness/index.html)
 * [2024-07-28, 17:27:05](https://news.ycombinator.com/item?id=41094559) - [How can a time traveler encrypt info so it's only decryptable after a given date](https://worldbuilding.stackexchange.com/questions/260342/what-can-a-time-traveler-use-to-generate-an-encryption-key-to-encrypt-informatio)
+* [2024-07-28, 17:14:28](https://news.ycombinator.com/item?id=41094485) - [Perfectionism – one of the biggest productivity killers in the eng industry](https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest)
+* [2024-07-28, 16:30:47](https://news.ycombinator.com/item?id=41094214) - [What's trending on GitHub week ending July 28 2024](https://gitstars.substack.com/p/gittrends-july-28-2024)
 * [2024-07-28, 16:23:38](https://news.ycombinator.com/item?id=41094180) - [The Moon Is Made of Cheese](https://fakepaper.app/)
 * [2024-07-28, 16:17:20](https://news.ycombinator.com/item?id=41094147) - [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates (2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
 * [2024-07-28, 16:08:33](https://news.ycombinator.com/item?id=41094093) - [Stanhope (optical bijou)](https://en.wikipedia.org/wiki/Stanhope_(optical_bijou))
