@@ -15,6 +15,7 @@
 * [2024-07-27, 16:08:26](https://news.ycombinator.com/item?id=41087429) - [Göttingen was one of the most productive centers of mathematics](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
+* [2024-07-27, 10:40:02](https://news.ycombinator.com/item?id=41085660) - [Was early modern writing paper expensive? (2018)](https://www.folger.edu/blogs/collation/writing-paper-expensive/)
 * [2024-07-27, 09:44:32](https://news.ycombinator.com/item?id=41085471) - [Covering All Birthdays](https://liorsinai.github.io/mathematics/2024/07/09/birthday-covering.html)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-27, 02:04:35](https://news.ycombinator.com/item?id=41083972) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
@@ -27,7 +28,6 @@
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
 * [2024-07-25, 19:56:13](https://news.ycombinator.com/item?id=41072691) - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
-* [2024-07-24, 14:18:43](https://news.ycombinator.com/item?id=41057386) - [Using DORA metrics to coach teams](https://zarar.dev/using-dora-metrics-to-coach-teams/)
 * [2024-07-23, 23:04:03](https://news.ycombinator.com/item?id=41051938) - [A chemist explains the chemistry behind decaf coffee](https://phys.org/news/2024-07-retaining-flavor-caffeine-chemist-chemistry.html)
 * [2024-07-23, 17:14:12](https://news.ycombinator.com/item?id=41048473) - [Show HN: Preprocessor I've been working 4 years now](https://www.npmjs.com/package/pretty-markup)
 
