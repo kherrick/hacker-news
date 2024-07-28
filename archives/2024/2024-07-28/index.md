@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
 * [2024-07-28, 21:23:10](https://news.ycombinator.com/item?id=41096072) - [Temu's email unsubscribe page claims your Wi-Fi is disconnected](https://twitter.com/SwiftOnSecurity/status/1817303994735419560)
 * [2024-07-28, 21:01:15](https://news.ycombinator.com/item?id=41095934) - [FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
 * [2024-07-28, 20:45:17](https://news.ycombinator.com/item?id=41095839) - [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
 * [2024-07-28, 20:42:03](https://news.ycombinator.com/item?id=41095814) - [Don't blindly prefer `emplace_back` to `push_back` in C++](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
+* [2024-07-28, 20:38:59](https://news.ycombinator.com/item?id=41095790) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
+* [2024-07-28, 20:22:50](https://news.ycombinator.com/item?id=41095704) - [Privacy Guides Adds New \"Hardware Recommendations\" Section](https://www.privacyguides.org/en/basics/hardware/)
 * [2024-07-28, 20:15:08](https://news.ycombinator.com/item?id=41095653) - [Apple Intelligence to Miss Initial iOS 18 Launch](https://www.bloomberg.com/news/articles/2024-07-28/apple-intelligence-to-miss-initial-release-of-upcoming-ios-18-ipados-overhauls)
 * [2024-07-28, 20:10:37](https://news.ycombinator.com/item?id=41095615) - [CrowdStrike offers partners $10 vouchers to say sorry – and they don't work](https://news.sky.com/story/crowdstrike-company-that-caused-global-techno-meltdown-offers-partners-10-vouchers-to-say-sorry-and-they-dont-work-13184488)
 * [2024-07-28, 19:55:42](https://news.ycombinator.com/item?id=41095530) - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
