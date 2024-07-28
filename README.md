@@ -14,7 +14,7 @@
 * [2024-07-27, 18:10:31](https://news.ycombinator.com/item?id=41088314) - [An Interview with Robert Caro and Kurt Vonnegut (1999)](https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut)
 * [2024-07-27, 18:02:58](https://news.ycombinator.com/item?id=41088273) - [Show HN: Semantic Grep – A Word2Vec-powered search tool](https://github.com/arunsupe/semantic-grep)
 * [2024-07-27, 17:23:55](https://news.ycombinator.com/item?id=41088013) - [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
-* [2024-07-27, 16:08:26](https://news.ycombinator.com/item?id=41087429) - [Göttingen was one of the most productive centers of mathematics](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
+* [2024-07-27, 16:08:26](https://news.ycombinator.com/item?id=41087429) - [Göttingen was one of the most productive centers of mathematics (2019)](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
