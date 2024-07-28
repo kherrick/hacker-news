@@ -2,7 +2,6 @@
 
 * [2024-07-28, 18:20:06](https://news.ycombinator.com/item?id=41094946) - [The Wolfram Physics Project – An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
 * [2024-07-28, 18:17:29](https://news.ycombinator.com/item?id=41094924) - [William James and a Theory of Thinking [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
-* [2024-07-28, 17:42:02](https://news.ycombinator.com/item?id=41094665) - [A plot of all objects in the universe (2023)](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
 * [2024-07-28, 17:14:28](https://news.ycombinator.com/item?id=41094485) - [Perfectionism – one of the biggest productivity killers in the eng industry](https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest)
 * [2024-07-28, 15:45:05](https://news.ycombinator.com/item?id=41093970) - [What we would've done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
@@ -20,6 +19,7 @@
 * [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 * [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 19:06:14](https://news.ycombinator.com/item?id=41088592) - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
+* [2024-07-27, 17:23:55](https://news.ycombinator.com/item?id=41088013) - [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
