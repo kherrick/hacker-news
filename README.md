@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-28, 14:04:34](https://news.ycombinator.com/item?id=41093215) - [Non-Obvious Prompt Engineering Guide](https://www.techsistence.com/p/non-obvious-prompt-engineering-guide)
 * [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
 * [2024-07-28, 12:56:32](https://news.ycombinator.com/item?id=41092861) - [My favorite tools and techniques for procedural gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
-* [2024-07-28, 12:36:01](https://news.ycombinator.com/item?id=41092797) - [Why many studies wrongly claim it's healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)
 * [2024-07-28, 12:00:48](https://news.ycombinator.com/item?id=41092667) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [Irrational hungry judge effect: magnitude is overestimated (2023)](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 * [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
@@ -22,6 +20,7 @@
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
+* [2024-07-26, 23:10:44](https://news.ycombinator.com/item?id=41083140) - [How Clang compiles a function (2018)](https://blog.regehr.org/archives/1605)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
 * [2024-07-26, 17:51:36](https://news.ycombinator.com/item?id=41080654) - [Maglev titanium heart inside the chest of a live patient](https://newatlas.com/medical/maglev-titanium-heart-bivacor/)
@@ -30,6 +29,7 @@
 * [2024-07-25, 01:04:23](https://news.ycombinator.com/item?id=41063823) - [Electric Giraffe](https://electricgiraffe.com/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgway: Hike the 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
+* [2024-07-23, 12:22:02](https://news.ycombinator.com/item?id=41045212) - [Show HN: SwimOS Rust – A framework for real-time streaming data applications](https://github.com/swimos/swim-rust)
 
 ## [Archives](archives/index.md)
 
