@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-28, 14:25:04",
-      "https://news.ycombinator.com/item?id=41093362"
-    ],
-    [
-      "Schengen ain't what it used to be",
-      "https://www.savageevan.com/schengen/"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 14:04:34",
       "https://news.ycombinator.com/item?id=41093215"
     ],
@@ -21,22 +11,12 @@
   ],
   [
     [
-      "2024-07-28, 13:42:49",
-      "https://news.ycombinator.com/item?id=41093063"
+      "2024-07-28, 14:00:42",
+      "https://news.ycombinator.com/item?id=41093197"
     ],
     [
-      "Nasa nears decision on what to do with Boeing's Starliner spacecraft",
-      "https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 13:13:38",
-      "https://news.ycombinator.com/item?id=41092924"
-    ],
-    [
-      "Rent control effects: An almost complete review of the literature",
-      "https://www.sciencedirect.com/science/article/pii/S1051137724000020"
+      "A skeptic's first contact with Kubernetes",
+      "https://blog.davidv.dev/posts/first-contact-with-k8s/"
     ]
   ],
   [
@@ -55,38 +35,8 @@
       "https://news.ycombinator.com/item?id=41092861"
     ],
     [
-      "My Favorite Tools and Techniques for Procedural Gamedev",
+      "My favorite tools and techniques for procedural gamedev",
       "https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 12:47:41",
-      "https://news.ycombinator.com/item?id=41092831"
-    ],
-    [
-      "What Was Cyberpunk? In Memoriam: 1980-2020 (2020)",
-      "http://web.archive.org/web/20231206083302/https://forums.insertcredit.com/d/419-what-was-cyberpunk-in-memoriam-1980-2020"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 12:18:31",
-      "https://news.ycombinator.com/item?id=41092740"
-    ],
-    [
-      "As the Great Salt Lake dries up, it is emitting millions of tons of of CO2",
-      "https://www.npr.org/2024/07/27/nx-s1-5054329/utah-great-salt-lake-carbon-emissions"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 12:18:02",
-      "https://news.ycombinator.com/item?id=41092738"
-    ],
-    [
-      "A Time Traveler's Guide to the Stock Market",
-      "https://sherwood.news/markets/time-travelers-guide-to-the-stock-market/"
     ]
   ],
   [
@@ -97,26 +47,6 @@
     [
       "PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC",
       "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 11:49:40",
-      "https://news.ycombinator.com/item?id=41092614"
-    ],
-    [
-      "Eating Foods with Xylitol Can Be a Risk to Your Heart",
-      "https://health.clevelandclinic.org/dangers-of-xylitol"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 11:08:51",
-      "https://news.ycombinator.com/item?id=41092460"
-    ],
-    [
-      "CalcGPT",
-      "https://calcgpt.io/"
     ]
   ],
   [
@@ -161,6 +91,16 @@
   ],
   [
     [
+      "2024-07-28, 00:08:21",
+      "https://news.ycombinator.com/item?id=41090304"
+    ],
+    [
+      "How did Facebook intercept their competitor's encrypted mobile app traffic?",
+      "https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 20:35:40",
       "https://news.ycombinator.com/item?id=41089161"
     ],
@@ -191,6 +131,16 @@
   ],
   [
     [
+      "2024-07-27, 18:10:31",
+      "https://news.ycombinator.com/item?id=41088314"
+    ],
+    [
+      "An Interview with Robert Caro and Kurt Vonnegut (1999)",
+      "https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 18:02:58",
       "https://news.ycombinator.com/item?id=41088273"
     ],
@@ -211,12 +161,32 @@
   ],
   [
     [
+      "2024-07-27, 17:08:26",
+      "https://news.ycombinator.com/item?id=41087913"
+    ],
+    [
+      "The US fiscal mess: Some unpleasant fiscal simulations",
+      "https://cepr.org/voxeu/columns/us-fiscal-mess-some-unpleasant-fiscal-simulations"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 16:08:26",
       "https://news.ycombinator.com/item?id=41087429"
     ],
     [
       "Göttingen was one of the most productive centers of mathematics (2019)",
       "https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 12:12:18",
+      "https://news.ycombinator.com/item?id=41086060"
+    ],
+    [
+      "Oscar Zariski  was one of the founders of modern algebraic geometry",
+      "https://boogiemath.org/meta/meta-9.html"
     ]
   ],
   [
@@ -231,6 +201,16 @@
   ],
   [
     [
+      "2024-07-27, 10:40:02",
+      "https://news.ycombinator.com/item?id=41085660"
+    ],
+    [
+      "Was early modern writing paper expensive? (2018)",
+      "https://www.folger.edu/blogs/collation/writing-paper-expensive/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 06:25:02",
       "https://news.ycombinator.com/item?id=41084795"
     ],
@@ -241,12 +221,42 @@
   ],
   [
     [
+      "2024-07-26, 23:10:44",
+      "https://news.ycombinator.com/item?id=41083140"
+    ],
+    [
+      "How Clang compiles a function (2018)",
+      "https://blog.regehr.org/archives/1605"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 20:07:52",
       "https://news.ycombinator.com/item?id=41081810"
     ],
     [
       "Free DDNS with Cloudflare and a cronjob",
       "https://github.com/devrim/cloudflare-noip"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 18:36:38",
+      "https://news.ycombinator.com/item?id=41081067"
+    ],
+    [
+      "Vikings in al-Andalus and the Maghreb",
+      "https://www.alandalusylahistoria.com/?p=4902"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 17:44:12",
+      "https://news.ycombinator.com/item?id=41080593"
+    ],
+    [
+      "Beyond Authenticity: Hannah Arendt's final unfinished work",
+      "https://aeon.co/essays/what-hannah-arendt-proposed-as-an-alternative-to-authenticity"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Ridgway: Hike the 5k-year-old pathway that's Britain's oldest road",
       "https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 21:34:56",
-      "https://news.ycombinator.com/item?id=41051185"
-    ],
-    [
-      "Show HN: AI over Email",
-      "https://gpt.franzai.com/"
     ]
   ]
 ]
