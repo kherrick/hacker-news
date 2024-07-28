@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 15:38:47](https://news.ycombinator.com/item?id=41093939) - [Complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
+* [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
+* [2024-07-28, 15:23:25](https://news.ycombinator.com/item?id=41093833) - [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
 * [2024-07-28, 14:25:04](https://news.ycombinator.com/item?id=41093362) - [Schengen ain't what it used to be](https://www.savageevan.com/schengen/)
 * [2024-07-28, 14:04:34](https://news.ycombinator.com/item?id=41093215) - [Non-Obvious Prompt Engineering Guide](https://www.techsistence.com/p/non-obvious-prompt-engineering-guide)
 * [2024-07-28, 14:00:42](https://news.ycombinator.com/item?id=41093197) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
@@ -26,6 +29,7 @@
 * [2024-07-28, 11:15:38](https://news.ycombinator.com/item?id=41092482) - [Why the greatest athletes don't get paid like it](https://thehustle.co/originals/why-the-worlds-greatest-athletes-at-the-olympics-dont-get-paid-like-it)
 * [2024-07-28, 11:11:10](https://news.ycombinator.com/item?id=41092467) - [Surprising element found in Tycho Brahe's alchemy lab confounds scientists](https://www.cnn.com/2024/07/27/science/tycho-brahe-alchemy-lab-tungsten/index.html)
 * [2024-07-28, 11:08:51](https://news.ycombinator.com/item?id=41092460) - [CalcGPT](https://calcgpt.io/)
+* [2024-07-28, 09:32:35](https://news.ycombinator.com/item?id=41092168) - [SpaCy team back to an independent-minded self-sufficient company](https://honnibal.dev/blog/back-to-our-roots)
 * [2024-07-28, 07:38:24](https://news.ycombinator.com/item?id=41091810) - [Hiding in plain sight: Modifying process names in Unix-like systems](https://doubleagent.net/process-name-stomping/)
 * [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 * [2024-07-28, 06:57:48](https://news.ycombinator.com/item?id=41091687) - [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
