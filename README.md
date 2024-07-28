@@ -28,7 +28,7 @@
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
 * [2024-07-25, 19:56:13](https://news.ycombinator.com/item?id=41072691) - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
-* [2024-07-24, 14:18:43](https://news.ycombinator.com/item?id=41057386) - [Using DORA metrics to coach teams](https://zarar.dev/using-dora-metrics-to-coach-teams/)
+* [2024-07-23, 23:04:03](https://news.ycombinator.com/item?id=41051938) - [A chemist explains the chemistry behind decaf coffee](https://phys.org/news/2024-07-retaining-flavor-caffeine-chemist-chemistry.html)
 * [2024-07-23, 17:14:12](https://news.ycombinator.com/item?id=41048473) - [Show HN: Preprocessor I've been working 4 years now](https://www.npmjs.com/package/pretty-markup)
 
 ## [Archives](archives/index.md)
