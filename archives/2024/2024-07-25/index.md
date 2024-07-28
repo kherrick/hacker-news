@@ -6,6 +6,7 @@
 
 * [2024-07-25, 23:37:29](https://news.ycombinator.com/item?id=41074574) - [Chicken wings advertised as 'boneless' can have bones,Ohio Supreme Court decides](https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8)
 * [2024-07-25, 23:25:00](https://news.ycombinator.com/item?id=41074500) - [Dual action antibiotic could make bacterial resistance nearly impossible](https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html)
+* [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
 * [2024-07-25, 23:23:26](https://news.ycombinator.com/item?id=41074485) - [Treescope: Interactive HTML Pretty-Printer](https://github.com/google-deepmind/treescope)
 * [2024-07-25, 22:22:42](https://news.ycombinator.com/item?id=41074022) - [Cameo was once valued at $1B. Now it's so broke it can't pay a $600K fine](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
 * [2024-07-25, 22:20:28](https://news.ycombinator.com/item?id=41074002) - [Startup Finance for Founders — Part I, Accounting](https://rein.pk/startup-finance-for-founders-part-i-accounting)
