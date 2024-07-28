@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
 * [2024-07-28, 12:36:01](https://news.ycombinator.com/item?id=41092797) - [Why many studies wrongly claim it's healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)
+* [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://www.npr.org/2024/07/27/nx-s1-5054329/utah-great-salt-lake-carbon-emissions)
 * [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://text.npr.org/nx-s1-5054329)
 * [2024-07-28, 12:00:48](https://news.ycombinator.com/item?id=41092667) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-07-28, 11:15:38](https://news.ycombinator.com/item?id=41092482) - [Why the greatest athletes don't get paid like it](https://thehustle.co/originals/why-the-worlds-greatest-athletes-at-the-olympics-dont-get-paid-like-it)
