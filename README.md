@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-28, 13:59:51](https://news.ycombinator.com/item?id=41093194) - [More Than Half of Teslas Are Being Traded in for Gas Cars](https://www.edmunds.com/car-news/tesla-trade-in-data-gas-cars.html)
-* [2024-07-28, 13:44:22](https://news.ycombinator.com/item?id=41093074) - [Digital Apartheid in Gaza: Unjust Content Moderation at the Request of Israel](https://www.eff.org/deeplinks/2024/07/digital-apartheid-gaza-unjust-content-moderation-request-israels-cyber-unit)
 * [2024-07-28, 13:42:49](https://news.ycombinator.com/item?id=41093063) - [NASA nears decision on what to do with Boeing's troubled Starliner spacecraft](https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/)
 * [2024-07-28, 13:14:36](https://news.ycombinator.com/item?id=41092928) - [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
 * [2024-07-28, 13:13:38](https://news.ycombinator.com/item?id=41092924) - [Rent control effects: An almost complete review of the literature](https://www.sciencedirect.com/science/article/pii/S1051137724000020)
 * [2024-07-28, 13:09:08](https://news.ycombinator.com/item?id=41092909) - [1% of people are responsible for 24% of the health spending in America](https://twitter.com/cremieuxrecueil/status/1817249178017321257)
+* [2024-07-28, 13:06:38](https://news.ycombinator.com/item?id=41092900) - [Office Space (2006)](http://www.aaronsw.com/weblog/officespace)
 * [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
+* [2024-07-28, 12:56:32](https://news.ycombinator.com/item?id=41092861) - [My Favorite Tools and Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 * [2024-07-28, 12:18:31](https://news.ycombinator.com/item?id=41092740) - [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://www.npr.org/2024/07/27/nx-s1-5054329/utah-great-salt-lake-carbon-emissions)
 * [2024-07-28, 12:18:02](https://news.ycombinator.com/item?id=41092738) - [A Time Traveler's Guide to the Stock Market](https://sherwood.news/markets/time-travelers-guide-to-the-stock-market/)
 * [2024-07-28, 12:00:48](https://news.ycombinator.com/item?id=41092667) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
@@ -25,11 +25,11 @@
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
-* [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
 * [2024-07-25, 01:04:23](https://news.ycombinator.com/item?id=41063823) - [Electric Giraffe](https://electricgiraffe.com/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgway: Hike the 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
+* [2024-07-23, 21:34:56](https://news.ycombinator.com/item?id=41051185) - [Show HN: AI over Email](https://gpt.franzai.com/)
 
 ## [Archives](archives/index.md)
 
