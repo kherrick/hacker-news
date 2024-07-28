@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 11:15:38](https://news.ycombinator.com/item?id=41092482) - [Why the greatest athletes don't get paid like it](https://thehustle.co/originals/why-the-worlds-greatest-athletes-at-the-olympics-dont-get-paid-like-it)
 * [2024-07-28, 07:38:24](https://news.ycombinator.com/item?id=41091810) - [Hiding in plain sight: Modifying process names in Unix-like systems](https://doubleagent.net/process-name-stomping/)
 * [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 * [2024-07-28, 06:57:48](https://news.ycombinator.com/item?id=41091687) - [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
