@@ -61,6 +61,7 @@
 * [2024-07-24, 14:10:04](https://news.ycombinator.com/item?id=41057302) - [How to Fine-Tune Llama 3 for Customer Service](https://symbl.ai/developers/blog/how-to-fine-tune-llama-3-for-customer-service/)
 * [2024-07-24, 14:08:38](https://news.ycombinator.com/item?id=41057289) - [Crash Course in Deep Learning (For Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/)
 * [2024-07-24, 13:59:02](https://news.ycombinator.com/item?id=41057199) - [Learn in Public (2018)](https://www.swyx.io/learn-in-public)
+* [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgway: Hike the 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
 * [2024-07-24, 13:41:22](https://news.ycombinator.com/item?id=41057033) - [Google Is the Only Search Engine That Works on Reddit Now Thanks to AI Deal](https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/)
 * [2024-07-24, 13:41:10](https://news.ycombinator.com/item?id=41057030) - [Show HN: A personalised AI tutor with < 1s voice responses](https://educationbot.cerebrium.ai/)
 * [2024-07-24, 13:34:48](https://news.ycombinator.com/item?id=41056961) - [Styling Tables the Modern CSS Way](https://piccalil.li/blog/styling-tables-the-modern-css-way/)

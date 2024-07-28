@@ -17,7 +17,6 @@
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
-* [2024-07-26, 23:10:44](https://news.ycombinator.com/item?id=41083140) - [How Clang compiles a function (2018)](https://blog.regehr.org/archives/1605)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 18:36:38](https://news.ycombinator.com/item?id=41081067) - [Vikings in al-Andalus and the Maghreb](https://www.alandalusylahistoria.com/?p=4902)
 * [2024-07-26, 18:32:37](https://news.ycombinator.com/item?id=41081021) - [Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
@@ -30,6 +29,7 @@
 * [2024-07-25, 01:04:23](https://news.ycombinator.com/item?id=41063823) - [Electric Giraffe](https://electricgiraffe.com/)
 * [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-24, 19:03:56](https://news.ycombinator.com/item?id=41060621) - [Why the Wisconsin pizza farm movement is an idea whose time has come](https://www.chicagotribune.com/2024/07/01/pizza-farm-wisconsin/)
+* [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgway: Hike the 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
 
 ## [Archives](archives/index.md)
 
