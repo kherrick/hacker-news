@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 23:52:32](https://news.ycombinator.com/item?id=41090222) - [Plan 9 Is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
+* [2024-07-27, 23:48:16](https://news.ycombinator.com/item?id=41090199) - [Hosting the Olympics has become financially untenable, economists say](https://www.cnn.com/2024/07/26/economy/olympics-economics-paris-2024/index.html)
+* [2024-07-27, 23:33:45](https://news.ycombinator.com/item?id=41090134) - [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
+* [2024-07-27, 22:51:57](https://news.ycombinator.com/item?id=41089911) - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
 * [2024-07-27, 22:38:04](https://news.ycombinator.com/item?id=41089826) - [Contra Zuckerberg on 'Open Source AI'](https://far.in.net/zuckerberg)
 * [2024-07-27, 22:16:29](https://news.ycombinator.com/item?id=41089718) - [Firefox Testing New Privacy Feature, Working with Meta](https://www.maketecheasier.com/firefox-testing-new-privacy-feature-with-meta/)
 * [2024-07-27, 21:46:51](https://news.ycombinator.com/item?id=41089558) - [Apple has reached its first-ever union contract with store employees in Maryland](https://apnews.com/article/apple-union-contract-maryland-store-f9884d978bf3129c37726dd7978392a5)

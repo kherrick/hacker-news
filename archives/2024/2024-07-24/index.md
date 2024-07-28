@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
 * [2024-07-24, 23:44:36](https://news.ycombinator.com/item?id=41063406) - [John Deere Dismissing 15% of Workforce](https://www.agweb.com/news/machinery/john-deere-dismissing-15-global-salaried-workforce-today)
+* [2024-07-24, 23:39:35](https://news.ycombinator.com/item?id=41063373) - [Show HN: Slide the daily word into the bottom row or: Caesar's 20-puzzle](https://www.shuffdle.com)
 * [2024-07-24, 23:36:37](https://news.ycombinator.com/item?id=41063361) - [Memory for music doesn't diminish with age](https://www.nature.com/articles/d41586-024-02369-7)
 * [2024-07-24, 23:27:57](https://news.ycombinator.com/item?id=41063307) - [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
 * [2024-07-24, 23:25:28](https://news.ycombinator.com/item?id=41063279) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
