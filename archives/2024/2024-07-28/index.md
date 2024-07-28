@@ -6,6 +6,8 @@
 
 * [2024-07-28, 12:00:48](https://news.ycombinator.com/item?id=41092667) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-07-28, 11:15:38](https://news.ycombinator.com/item?id=41092482) - [Why the greatest athletes don't get paid like it](https://thehustle.co/originals/why-the-worlds-greatest-athletes-at-the-olympics-dont-get-paid-like-it)
+* [2024-07-28, 11:11:10](https://news.ycombinator.com/item?id=41092467) - [Surprising element found in Tycho Brahe's alchemy lab confounds scientists](https://www.cnn.com/2024/07/27/science/tycho-brahe-alchemy-lab-tungsten/index.html)
+* [2024-07-28, 11:08:51](https://news.ycombinator.com/item?id=41092460) - [CalcGPT](https://calcgpt.io/)
 * [2024-07-28, 07:38:24](https://news.ycombinator.com/item?id=41091810) - [Hiding in plain sight: Modifying process names in Unix-like systems](https://doubleagent.net/process-name-stomping/)
 * [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 * [2024-07-28, 06:57:48](https://news.ycombinator.com/item?id=41091687) - [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)

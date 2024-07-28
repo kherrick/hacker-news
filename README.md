@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-28, 12:00:48](https://news.ycombinator.com/item?id=41092667) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-07-28, 11:11:10](https://news.ycombinator.com/item?id=41092467) - [Surprising element found in Tycho Brahe's alchemy lab confounds scientists](https://www.cnn.com/2024/07/27/science/tycho-brahe-alchemy-lab-tungsten/index.html)
+* [2024-07-28, 11:08:51](https://news.ycombinator.com/item?id=41092460) - [CalcGPT](https://calcgpt.io/)
 * [2024-07-28, 07:38:24](https://news.ycombinator.com/item?id=41091810) - [Hiding in plain sight: Modifying process names in Unix-like systems](https://doubleagent.net/process-name-stomping/)
 * [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 * [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
@@ -16,8 +18,6 @@
 * [2024-07-27, 16:08:26](https://news.ycombinator.com/item?id=41087429) - [Göttingen was one of the most productive centers of mathematics (2019)](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
 * [2024-07-27, 12:12:18](https://news.ycombinator.com/item?id=41086060) - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 * [2024-07-27, 10:55:43](https://news.ycombinator.com/item?id=41085713) - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
-* [2024-07-27, 10:40:02](https://news.ycombinator.com/item?id=41085660) - [Was early modern writing paper expensive? (2018)](https://www.folger.edu/blogs/collation/writing-paper-expensive/)
-* [2024-07-27, 09:44:32](https://news.ycombinator.com/item?id=41085471) - [Covering All Birthdays](https://liorsinai.github.io/mathematics/2024/07/09/birthday-covering.html)
 * [2024-07-27, 06:25:02](https://news.ycombinator.com/item?id=41084795) - [In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2024-07-26, 23:10:44](https://news.ycombinator.com/item?id=41083140) - [How Clang compiles a function (2018)](https://blog.regehr.org/archives/1605)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a cronjob](https://github.com/devrim/cloudflare-noip)
