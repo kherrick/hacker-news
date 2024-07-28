@@ -10,6 +10,7 @@
 * [2024-07-28, 06:57:48](https://news.ycombinator.com/item?id=41091687) - [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
 * [2024-07-28, 06:51:55](https://news.ycombinator.com/item?id=41091658) - [400% increase in GPS spoofing – workgroup established](https://ops.group/blog/400-increase-in-gps-spoofing-workgroup-established/)
 * [2024-07-28, 06:41:52](https://news.ycombinator.com/item?id=41091623) - [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
+* [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
 * [2024-07-28, 00:33:19](https://news.ycombinator.com/item?id=41090397) - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
 * [2024-07-28, 00:08:21](https://news.ycombinator.com/item?id=41090304) - [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/)
