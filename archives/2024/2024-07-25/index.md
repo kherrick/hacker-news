@@ -84,6 +84,7 @@
 * [2024-07-25, 10:40:57](https://news.ycombinator.com/item?id=41066984) - [Switzerland Makes Open Source Software Mandatory for Public Sector](https://news.itsfoss.com/switzerland-open-source/)
 * [2024-07-25, 10:22:45](https://news.ycombinator.com/item?id=41066872) - [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)
 * [2024-07-25, 10:07:21](https://news.ycombinator.com/item?id=41066811) - [CrowdStrike will be liable for damages in France](https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/)
+* [2024-07-25, 09:49:54](https://news.ycombinator.com/item?id=41066734) - [A cheap barcode scanner helped fix CrowdStrike'd Windows PCs in a flash](https://www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/)
 * [2024-07-25, 09:45:03](https://news.ycombinator.com/item?id=41066700) - [Coulomb Explosion](https://en.wikipedia.org/wiki/Coulomb_explosion)
 * [2024-07-25, 09:18:13](https://news.ycombinator.com/item?id=41066544) - [Defense of Lisp Macros](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 09:16:53](https://news.ycombinator.com/item?id=41066536) - [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
