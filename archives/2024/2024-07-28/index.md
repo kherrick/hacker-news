@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 19:55:42](https://news.ycombinator.com/item?id=41095530) - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
 * [2024-07-28, 18:20:06](https://news.ycombinator.com/item?id=41094946) - [The Wolfram Physics Project – An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
 * [2024-07-28, 18:17:29](https://news.ycombinator.com/item?id=41094924) - [William James and a Theory of Thinking [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
 * [2024-07-28, 18:06:54](https://news.ycombinator.com/item?id=41094836) - [Facts about hardware are not copyrightable](https://social.treehouse.systems/@marcan/112863869736471663)

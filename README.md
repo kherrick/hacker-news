@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-28, 18:20:06](https://news.ycombinator.com/item?id=41094946) - [The Wolfram Physics Project – An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
-* [2024-07-28, 18:17:29](https://news.ycombinator.com/item?id=41094924) - [William James and a Theory of Thinking [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
-* [2024-07-28, 17:14:28](https://news.ycombinator.com/item?id=41094485) - [Perfectionism – one of the biggest productivity killers in the eng industry](https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest)
+* [2024-07-28, 19:55:42](https://news.ycombinator.com/item?id=41095530) - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
+* [2024-07-28, 18:20:06](https://news.ycombinator.com/item?id=41094946) - [An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
+* [2024-07-28, 18:17:29](https://news.ycombinator.com/item?id=41094924) - [William James and a Theory of Thinking (2004) [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
 * [2024-07-28, 16:27:11](https://news.ycombinator.com/item?id=41094197) - [Italy's \"Sun Motorway\": the story of an exceptional infrastructure](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
 * [2024-07-28, 15:45:05](https://news.ycombinator.com/item?id=41093970) - [What we would've done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
