@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [Running One-man SaaS for 9 Years](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
 * [2024-07-29, 21:40:42](https://news.ycombinator.com/item?id=41104077) - [The music industry is engineering artist popularity](https://www.theguardian.com/music/article/2024/jul/29/the-music-industry-is-engineering-artist-popularity-and-listeners-are-right-to-be-angry)
 * [2024-07-29, 21:31:57](https://news.ycombinator.com/item?id=41104002) - [Lego's CEO on the business case for play](https://www.bbc.com/worklife/article/20240725-legos-ceo-on-the-business-case-for-play)
 * [2024-07-29, 21:16:23](https://news.ycombinator.com/item?id=41103885) - [Microchip Technology Enters 64-Bit Microprocessor Market (RISC-V)](https://www.microchip.com/en-us/about/media-center/blog/2024/microchip-technology-enters-64-bit-microprocessor-market)
