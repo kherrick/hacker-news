@@ -6,8 +6,10 @@
 
 * [2024-07-29, 17:24:36](https://news.ycombinator.com/item?id=41102053) - [US border agents must get warrant before cell phone searches,federal court rules](https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/)
 * [2024-07-29, 17:09:04](https://news.ycombinator.com/item?id=41101948) - [Attribution is Dying. Clicks are Dying. Marketing is Back to the 20th Century](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
+* [2024-07-29, 17:05:52](https://news.ycombinator.com/item?id=41101915) - [Over 900 Artifacts Recovered from Ming Dynasty Shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
 * [2024-07-29, 16:44:35](https://news.ycombinator.com/item?id=41101761) - [Siggraph 2024 Technical Papers Trailer [video]](https://www.youtube.com/watch?v=tjYVcOJONdI)
 * [2024-07-29, 16:08:19](https://news.ycombinator.com/item?id=41101494) - [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
+* [2024-07-29, 15:13:45](https://news.ycombinator.com/item?id=41101068) - [Lambda: The Gathering](https://esolangs.org/wiki/Lambda:_the_Gathering)
 * [2024-07-29, 14:55:57](https://news.ycombinator.com/item?id=41100958) - [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
 * [2024-07-29, 14:54:43](https://news.ycombinator.com/item?id=41100951) - [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
 * [2024-07-29, 14:49:15](https://news.ycombinator.com/item?id=41100902) - [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
