@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 08:02:40](https://news.ycombinator.com/item?id=41098715) - [Tsoding livestreams trying out C3 (programming language) [video]](https://www.youtube.com/watch?v=Qzw1m7PweXs)
 * [2024-07-29, 07:40:33](https://news.ycombinator.com/item?id=41098579) - [Microsoft backs down over rivals' Vista access (2006)](https://web.archive.org/web/20061023112233/http://software.silicon.com/security/0,39024655,39163277,00.htm)
 * [2024-07-29, 07:17:12](https://news.ycombinator.com/item?id=41098488) - [Children should be allowed to get bored, expert says (2013)](https://www.bbc.com/news/education-21895704)
 * [2024-07-29, 05:43:41](https://news.ycombinator.com/item?id=41098166) - [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
@@ -23,7 +24,6 @@
 * [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to debug your battery design](https://github.com/ionworks/how-to-debug-your-battery)
 * [2024-07-27, 22:51:57](https://news.ycombinator.com/item?id=41089911) - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
-* [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-25, 23:25:00](https://news.ycombinator.com/item?id=41074500) - [Dual action antibiotic could make bacterial resistance nearly impossible](https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html)
 * [2024-07-25, 16:45:59](https://news.ycombinator.com/item?id=41070709) - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
