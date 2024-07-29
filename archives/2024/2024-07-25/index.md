@@ -40,6 +40,7 @@
 * [2024-07-25, 18:11:03](https://news.ycombinator.com/item?id=41071585) - [SearchGPT Prototype](https://openai.com/index/searchgpt-prototype/)
 * [2024-07-25, 17:00:56](https://news.ycombinator.com/item?id=41070876) - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
+* [2024-07-25, 16:45:59](https://news.ycombinator.com/item?id=41070709) - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
 * [2024-07-25, 16:44:50](https://news.ycombinator.com/item?id=41070703) - [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
 * [2024-07-25, 16:26:50](https://news.ycombinator.com/item?id=41070517) - [We just caught our first \"BANANA \"](https://twitter.com/karinemellata/status/1805429294841446815)
 * [2024-07-25, 16:21:47](https://news.ycombinator.com/item?id=41070457) - [Fujifilm Announces Linux SDK, Helping Drone Makers Use GFX100 Cameras](https://petapixel.com/2024/07/25/fujifilm-announces-linux-sdk-helping-drone-makers-use-gfx100-cameras/)
