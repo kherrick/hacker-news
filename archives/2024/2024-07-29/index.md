@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
 * [2024-07-29, 14:08:02](https://news.ycombinator.com/item?id=41100577) - [I built an RPG and LLM jailbreaking adventure game](https://www.sabrina.dev/p/glitch-game-an-llm-jailbreak-adventure)
+* [2024-07-29, 14:05:24](https://news.ycombinator.com/item?id=41100551) - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
 * [2024-07-29, 13:09:52](https://news.ycombinator.com/item?id=41100181) - [Android Cross-device services rolling out: Call casting, Internet sharing](https://9to5google.com/2024/07/28/android-cross-device-services-rolling-out/)
 * [2024-07-29, 13:08:26](https://news.ycombinator.com/item?id=41100170) - [New release of Gradient-Free-Optimizers with two new evolutionary algorithms](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)

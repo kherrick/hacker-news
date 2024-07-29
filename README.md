@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 14:05:24](https://news.ycombinator.com/item?id=41100551) - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
 * [2024-07-29, 13:08:26](https://news.ycombinator.com/item?id=41100170) - [New release of Gradient-Free-Optimizers with two new evolutionary algorithms](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
@@ -28,7 +29,6 @@
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [Columbia's near-miss: Why we should always expect the unexpected in space](https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/)
 * [2024-07-25, 16:45:59](https://news.ycombinator.com/item?id=41070709) - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
-* [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgeway: The 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
 * [2024-07-24, 13:06:10](https://news.ycombinator.com/item?id=41056691) - [Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)](https://arxiv.org/abs/2311.10911)
 
 ## [Archives](archives/index.md)
