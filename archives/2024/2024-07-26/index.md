@@ -16,6 +16,7 @@
 * [2024-07-26, 21:25:51](https://news.ycombinator.com/item?id=41082425) - [Show HN: Ray Tracing in One Weekend v4.0.0](https://raytracing.github.io)
 * [2024-07-26, 21:13:58](https://news.ycombinator.com/item?id=41082322) - [Evidence for global cultural diffusion: Or, why are there Seven Sisters?](https://www.vectorsofmind.com/p/evidence-for-global-cultural-diffusion)
 * [2024-07-26, 21:00:22](https://news.ycombinator.com/item?id=41082230) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-07-26, 20:38:03](https://news.ycombinator.com/item?id=41082058) - [Alfredo Moser: Bottle light inventor (2013)](https://www.bbc.co.uk/news/magazine-23536914)
 * [2024-07-26, 20:34:53](https://news.ycombinator.com/item?id=41082041) - [Show HN: Patchwork – Open-source framework to automate development gruntwork](https://github.com/patched-codes/patchwork)
 * [2024-07-26, 20:07:52](https://news.ycombinator.com/item?id=41081810) - [Free DDNS with Cloudflare and a Cronjob](https://github.com/devrim/cloudflare-noip)
 * [2024-07-26, 19:20:43](https://news.ycombinator.com/item?id=41081435) - [TOTP tokens on my wrist with the smartest dumb watch](https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/)

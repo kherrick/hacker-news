@@ -9,6 +9,7 @@
 * [2024-07-28, 22:53:00](https://news.ycombinator.com/item?id=41096600) - [Be MacGyver](https://macgyver.com/be-macgyver/)
 * [2024-07-28, 22:47:28](https://news.ycombinator.com/item?id=41096561) - [50th anniversary of Vannevar Bush's passing](https://thetech.com/2024/07/11/anniversary-vannevar-bush-passing)
 * [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
+* [2024-07-28, 22:34:04](https://news.ycombinator.com/item?id=41096483) - [Can the moon influence human health? New research](https://www.nationalgeographic.com/science/article/moon-bodies-health-sleep-menstruation)
 * [2024-07-28, 21:53:59](https://news.ycombinator.com/item?id=41096254) - [Rust for Rustaceans](https://rust-for-rustaceans.com/)
 * [2024-07-28, 21:46:53](https://news.ycombinator.com/item?id=41096212) - [Ask HN: How do you choose a hostname for personal devices?](https://news.ycombinator.com/item?id=41096212)
 * [2024-07-28, 21:40:47](https://news.ycombinator.com/item?id=41096187) - [Higher-kinded bounded polymorphism in OCaml](https://okmij.org/ftp/ML/higher-kind-poly.html)
