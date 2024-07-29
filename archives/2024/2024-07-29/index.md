@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 08:50:57](https://news.ycombinator.com/item?id=41098922) - [Typewise (YC S22) Is Hiring a DevOps Engineer (Europe Timezone)](https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x)
+* [2024-07-29, 08:47:03](https://news.ycombinator.com/item?id=41098909) - [Some packages are no longer installable after test command is removed](https://github.com/pypa/setuptools/issues/4519)
 * [2024-07-29, 08:02:40](https://news.ycombinator.com/item?id=41098715) - [Tsoding livestreams trying out C3 (programming language) [video]](https://www.youtube.com/watch?v=Qzw1m7PweXs)
 * [2024-07-29, 07:40:33](https://news.ycombinator.com/item?id=41098579) - [Microsoft backs down over rivals' Vista access (2006)](https://web.archive.org/web/20061023112233/http://software.silicon.com/security/0,39024655,39163277,00.htm)
 * [2024-07-29, 07:17:12](https://news.ycombinator.com/item?id=41098488) - [Children should be allowed to get bored, expert says](https://www.bbc.com/news/education-21895704)
