@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 19:55:36](https://news.ycombinator.com/item?id=41103220) - [A Crisis for Vultures Led to a Human Disaster: Half a Million Deaths](https://www.nytimes.com/2024/07/29/climate/vultures-india-poisoning.html)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
+* [2024-07-29, 19:32:46](https://news.ycombinator.com/item?id=41103041) - [End of an Era: A Message from the Founder as We Announce the Closure of AppleVis](https://www.applevis.com/blog/end-era-message-founder-we-announce-closure-applevis)
 * [2024-07-29, 19:22:55](https://news.ycombinator.com/item?id=41102973) - [SpaceX in talks to land and recover Starship rocket off Australia's coast](https://www.reuters.com/technology/space/spacex-talks-land-recover-starship-rocket-off-australias-coast-2024-07-29/)
 * [2024-07-29, 19:22:02](https://news.ycombinator.com/item?id=41102966) - [Why is it so expensive to make games in the United States?](https://www.gamedeveloper.com/business/why-is-it-so-expensive-to-make-games-in-the-united-states-)
 * [2024-07-29, 18:39:48](https://news.ycombinator.com/item?id=41102645) - [I Remain Astounded by How Bad AT&T Customer Service Is](https://win-vector.com/2024/07/25/i-remain-astounded-by-how-bad-att-customer-service-is/)
