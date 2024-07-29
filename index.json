@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-07-28, 04:09:04",
+      "https://news.ycombinator.com/item?id=41091163"
+    ],
+    [
+      "StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3",
+      "https://github.com/StreamPot/StreamPot"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 01:39:06",
       "https://news.ycombinator.com/item?id=41090658"
     ],
@@ -287,16 +297,6 @@
     [
       "SVG Triangle of Compromise",
       "https://me.micahrl.com/blog/svg-triangle-of-compromise/"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 13:06:10",
-      "https://news.ycombinator.com/item?id=41056691"
-    ],
-    [
-      "Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)",
-      "https://arxiv.org/abs/2311.10911"
     ]
   ]
 ]
