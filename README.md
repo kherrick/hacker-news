@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-29, 17:09:04](https://news.ycombinator.com/item?id=41101948) - [Attribution is dying, clicks are dying](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
 * [2024-07-29, 17:05:52](https://news.ycombinator.com/item?id=41101915) - [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
 * [2024-07-29, 16:10:07](https://news.ycombinator.com/item?id=41101502) - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
 * [2024-07-29, 16:08:19](https://news.ycombinator.com/item?id=41101494) - [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
+* [2024-07-29, 15:23:42](https://news.ycombinator.com/item?id=41101144) - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
 * [2024-07-29, 14:55:57](https://news.ycombinator.com/item?id=41100958) - [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
 * [2024-07-29, 14:49:15](https://news.ycombinator.com/item?id=41100902) - [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
@@ -12,7 +12,6 @@
 * [2024-07-29, 09:10:05](https://news.ycombinator.com/item?id=41099028) - [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
 * [2024-07-29, 08:59:41](https://news.ycombinator.com/item?id=41098974) - [MeTube: Self-hosted YouTube downloader](https://github.com/alexta69/metube)
 * [2024-07-29, 05:36:38](https://news.ycombinator.com/item?id=41098141) - [Understanding the design of the the Super Nintendo video system](https://fabiensanglard.net/snes_video/index.html)
-* [2024-07-29, 04:12:52](https://news.ycombinator.com/item?id=41097842) - [Pallene: A statically compiled companion language for Lua](https://github.com/pallene-lang/pallene/blob/master/doc/manual.md)
 * [2024-07-29, 01:40:11](https://news.ycombinator.com/item?id=41097350) - [The Smith-Prmier No. 1 Typewriter](https://www.antiquetypewriters.com/typewriter/smith-premier-1-typewriter/)
 * [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [ps aux written in bash without forking](https://github.com/izabera/ps)
 * [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
@@ -30,6 +29,7 @@
 * [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [STS-93: We don’t need any more of those (2014)](https://waynehale.wordpress.com/2014/10/26/sts-93-we-dont-need-any-more-of-those/)
 * [2024-07-26, 00:00:52](https://news.ycombinator.com/item?id=41074703) - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
 * [2024-07-25, 16:45:59](https://news.ycombinator.com/item?id=41070709) - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
+* [2024-07-24, 13:30:30](https://news.ycombinator.com/item?id=41056912) - [Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)
 
 ## [Archives](archives/index.md)
 

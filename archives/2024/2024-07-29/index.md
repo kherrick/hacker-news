@@ -10,6 +10,7 @@
 * [2024-07-29, 16:44:35](https://news.ycombinator.com/item?id=41101761) - [Siggraph 2024 Technical Papers Trailer [video]](https://www.youtube.com/watch?v=tjYVcOJONdI)
 * [2024-07-29, 16:10:07](https://news.ycombinator.com/item?id=41101502) - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
 * [2024-07-29, 16:08:19](https://news.ycombinator.com/item?id=41101494) - [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
+* [2024-07-29, 15:23:42](https://news.ycombinator.com/item?id=41101144) - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
 * [2024-07-29, 15:13:45](https://news.ycombinator.com/item?id=41101068) - [Lambda: The Gathering](https://esolangs.org/wiki/Lambda:_the_Gathering)
 * [2024-07-29, 14:55:57](https://news.ycombinator.com/item?id=41100958) - [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
 * [2024-07-29, 14:54:43](https://news.ycombinator.com/item?id=41100951) - [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)

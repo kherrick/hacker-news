@@ -69,6 +69,7 @@
 * [2024-07-24, 13:41:22](https://news.ycombinator.com/item?id=41057033) - [Google Is the Only Search Engine That Works on Reddit Now Thanks to AI Deal](https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/)
 * [2024-07-24, 13:41:10](https://news.ycombinator.com/item?id=41057030) - [Show HN: A personalised AI tutor with < 1s voice responses](https://educationbot.cerebrium.ai/)
 * [2024-07-24, 13:34:48](https://news.ycombinator.com/item?id=41056961) - [Styling Tables the Modern CSS Way](https://piccalil.li/blog/styling-tables-the-modern-css-way/)
+* [2024-07-24, 13:30:30](https://news.ycombinator.com/item?id=41056912) - [Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)
 * [2024-07-24, 13:06:41](https://news.ycombinator.com/item?id=41056694) - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
 * [2024-07-24, 13:06:10](https://news.ycombinator.com/item?id=41056691) - [Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)](https://arxiv.org/abs/2311.10911)
 * [2024-07-24, 13:04:48](https://news.ycombinator.com/item?id=41056673) - [Creator of Zig asked \"how to open a file in C++\" in SO 15 years ago](https://twitter.com/Deor/status/1815561281820127598)
