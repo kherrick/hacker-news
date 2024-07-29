@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-29, 08:50:57",
+      "https://news.ycombinator.com/item?id=41098922"
+    ],
+    [
+      "Typewise (YC S22) Is Hiring a DevOps Engineer (Europe Timezone)",
+      "https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 08:47:03",
+      "https://news.ycombinator.com/item?id=41098909"
+    ],
+    [
+      "Some packages are no longer installable after test command is removed",
+      "https://github.com/pypa/setuptools/issues/4519"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 08:02:40",
       "https://news.ycombinator.com/item?id=41098715"
     ],
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2024-07-28, 21:01:15",
-      "https://news.ycombinator.com/item?id=41095934"
-    ],
-    [
-      "FurtherAI (YC W24) is hiring founding software engineers in the Bay Area",
-      "https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 20:45:17",
       "https://news.ycombinator.com/item?id=41095839"
     ],
     [
       "Show HN: A football/soccer pass visualizer made with Three.js",
       "https://statsbomb-3d-viz.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 20:42:03",
-      "https://news.ycombinator.com/item?id=41095814"
-    ],
-    [
-      "Don't blindly prefer `emplace_back` to `push_back`",
-      "https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-07-27, 19:52:34",
+      "https://news.ycombinator.com/item?id=41088895"
+    ],
+    [
+      "Tritone Substitutions",
+      "https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 13:53:58",
       "https://news.ycombinator.com/item?id=41086620"
     ],
@@ -267,16 +277,6 @@
     [
       "SVG Triangle of Compromise",
       "https://me.micahrl.com/blog/svg-triangle-of-compromise/"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 19:05:11",
-      "https://news.ycombinator.com/item?id=41060631"
-    ],
-    [
-      "The rich history of ham radio culture",
-      "https://thereader.mitpress.mit.edu/the-rich-history-of-ham-radio-culture/"
     ]
   ],
   [
