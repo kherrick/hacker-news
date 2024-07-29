@@ -7,6 +7,7 @@
 * [2024-07-29, 16:44:35](https://news.ycombinator.com/item?id=41101761) - [Siggraph 2024 Technical Papers Trailer [video]](https://www.youtube.com/watch?v=tjYVcOJONdI)
 * [2024-07-29, 14:55:57](https://news.ycombinator.com/item?id=41100958) - [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
 * [2024-07-29, 14:54:43](https://news.ycombinator.com/item?id=41100951) - [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
+* [2024-07-29, 14:49:15](https://news.ycombinator.com/item?id=41100902) - [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
 * [2024-07-29, 14:37:27](https://news.ycombinator.com/item?id=41100820) - [Yark: YouTube Archiver with Offline UI](https://github.com/Owez/yark)
 * [2024-07-29, 14:23:01](https://news.ycombinator.com/item?id=41100700) - [\"Authentic\" is dead. And so is \"is dead.\"](https://longform.asmartbear.com/authentic-is-dead/)
 * [2024-07-29, 14:08:02](https://news.ycombinator.com/item?id=41100577) - [I built an RPG and LLM jailbreaking adventure game](https://www.sabrina.dev/p/glitch-game-an-llm-jailbreak-adventure)
