@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 18:39:48](https://news.ycombinator.com/item?id=41102645) - [I Remain Astounded by How Bad AT&T Customer Service Is](https://win-vector.com/2024/07/25/i-remain-astounded-by-how-bad-att-customer-service-is/)
 * [2024-07-29, 17:05:52](https://news.ycombinator.com/item?id=41101915) - [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
 * [2024-07-29, 16:10:07](https://news.ycombinator.com/item?id=41101502) - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
 * [2024-07-29, 16:08:19](https://news.ycombinator.com/item?id=41101494) - [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
@@ -17,7 +18,6 @@
 * [2024-07-28, 22:34:04](https://news.ycombinator.com/item?id=41096483) - [Can the moon influence human health? New research](https://www.nationalgeographic.com/science/article/moon-bodies-health-sleep-menstruation)
 * [2024-07-28, 21:40:47](https://news.ycombinator.com/item?id=41096187) - [Higher-kinded bounded polymorphism in OCaml (2021)](https://okmij.org/ftp/ML/higher-kind-poly.html)
 * [2024-07-28, 20:38:59](https://news.ycombinator.com/item?id=41095790) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
-* [2024-07-28, 19:36:20](https://news.ycombinator.com/item?id=41095429) - [SDcard wear leveling and translation layers (2014)](https://msreekan.com/2014/01/15/sdcard/)
 * [2024-07-28, 15:59:29](https://news.ycombinator.com/item?id=41094044) - [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-28, 15:09:20](https://news.ycombinator.com/item?id=41093719) - [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 18:39:48](https://news.ycombinator.com/item?id=41102645) - [I Remain Astounded by How Bad AT&T Customer Service Is](https://win-vector.com/2024/07/25/i-remain-astounded-by-how-bad-att-customer-service-is/)
 * [2024-07-29, 17:24:36](https://news.ycombinator.com/item?id=41102053) - [US border agents must get warrant before cell phone searches,federal court rules](https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/)
 * [2024-07-29, 17:09:04](https://news.ycombinator.com/item?id=41101948) - [Attribution is Dying. Clicks are Dying. Marketing is Back to the 20th Century](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
 * [2024-07-29, 17:05:52](https://news.ycombinator.com/item?id=41101915) - [Over 900 Artifacts Recovered from Ming Dynasty Shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
