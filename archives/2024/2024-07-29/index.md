@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 06:42:30](https://news.ycombinator.com/item?id=41098384) - [OpenAI could be on the brink of bankruptcy under 12 mths, projections $5B losses](https://www.windowscentral.com/software-apps/openai-could-be-on-the-brink-of-bankruptcy-in-under-12-months-with-projections-of-dollar5-billion-in-losses)
 * [2024-07-29, 05:43:41](https://news.ycombinator.com/item?id=41098166) - [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
 * [2024-07-29, 05:14:34](https://news.ycombinator.com/item?id=41098054) - [How to Compile Your Language – Guide to implement a modern compiler for language](https://isuckatcs.github.io/how-to-compile-your-language/)
 * [2024-07-29, 03:48:20](https://news.ycombinator.com/item?id=41097774) - [Nearly 2/3 of Home Listings Have Been Sitting on the Market Longer Than a Month](https://www.redfin.com/news/stale-inventory-june-2024/)
