@@ -17,7 +17,6 @@
 * [2024-07-29, 05:36:38](https://news.ycombinator.com/item?id=41098141) - [Understanding the design of the the Super Nintendo video system](https://fabiensanglard.net/snes_video/index.html)
 * [2024-07-29, 01:40:11](https://news.ycombinator.com/item?id=41097350) - [Smith Premier 1 Typewriter](https://www.antiquetypewriters.com/typewriter/smith-premier-1-typewriter/)
 * [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [ps aux written in bash without forking](https://github.com/izabera/ps)
-* [2024-07-28, 20:38:59](https://news.ycombinator.com/item?id=41095790) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 15:59:29](https://news.ycombinator.com/item?id=41094044) - [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
 * [2024-07-28, 15:09:20](https://news.ycombinator.com/item?id=41093719) - [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
 * [2024-07-27, 23:33:45](https://news.ycombinator.com/item?id=41090134) - [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
@@ -29,6 +28,7 @@
 * [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [STS-93: We don’t need any more of those (2014)](https://waynehale.wordpress.com/2014/10/26/sts-93-we-dont-need-any-more-of-those/)
 * [2024-07-26, 00:00:52](https://news.ycombinator.com/item?id=41074703) - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
 * [2024-07-25, 16:45:59](https://news.ycombinator.com/item?id=41070709) - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
+* [2024-07-24, 20:53:04](https://news.ycombinator.com/item?id=41061963) - [Julia for Economists Bootcamp](https://github.com/cpfiffer/julia-bootcamp-2022)
 * [2024-07-24, 13:30:30](https://news.ycombinator.com/item?id=41056912) - [Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)
 
 ## [Archives](archives/index.md)

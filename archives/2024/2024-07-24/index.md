@@ -22,6 +22,7 @@
 * [2024-07-24, 21:39:55](https://news.ycombinator.com/item?id=41062451) - [Show HN: Hooper – AI-driven stats and highlights for basketball play](https://www.hooper.gg)
 * [2024-07-24, 21:22:38](https://news.ycombinator.com/item?id=41062292) - [Ask HN: Am I crazy or is Android development awful?](https://news.ycombinator.com/item?id=41062292)
 * [2024-07-24, 21:02:09](https://news.ycombinator.com/item?id=41062072) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
+* [2024-07-24, 20:53:04](https://news.ycombinator.com/item?id=41061963) - [Julia for Economists Bootcamp](https://github.com/cpfiffer/julia-bootcamp-2022)
 * [2024-07-24, 20:35:49](https://news.ycombinator.com/item?id=41061755) - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-24, 20:30:09](https://news.ycombinator.com/item?id=41061689) - [Ask HN: Thoughts on shadow banning and other dick moves by Silicon Valley?](https://news.ycombinator.com/item?id=41061689)
 * [2024-07-24, 20:30:04](https://news.ycombinator.com/item?id=41061688) - [AMD delays Ryzen 9000 launch to August \"out of an abundance of caution\"](https://arstechnica.com/gadgets/2024/07/quality-issue-pushes-amds-ryzen-9000-cpu-launch-from-july-to-august/)
