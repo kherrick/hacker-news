@@ -77,6 +77,7 @@
 * [2024-07-26, 11:52:46](https://news.ycombinator.com/item?id=41077841) - [U.S. Commercial Real Estate Is Headed Toward a Crisis](https://hbr.org/2024/07/u-s-commercial-real-estate-is-headed-toward-a-crisis)
 * [2024-07-26, 11:43:14](https://news.ycombinator.com/item?id=41077798) - [French rail network hit by 'malicious acts' ahead of Paris Olympics](https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony)
 * [2024-07-26, 11:40:58](https://news.ycombinator.com/item?id=41077786) - [Fuzzify: A tiny library for fuzzy search](https://github.com/ad1992/fuzzify)
+* [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [Columbia's near-miss: Why we should always expect the unexpected in space](https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/)
 * [2024-07-26, 10:39:03](https://news.ycombinator.com/item?id=41077496) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 * [2024-07-26, 10:24:57](https://news.ycombinator.com/item?id=41077443) - [Show HN: Anyma V, a powerful hybrid physical modelling virtual instrument](https://aodyo.com/product/anyma-v/)
 * [2024-07-26, 09:56:39](https://news.ycombinator.com/item?id=41077293) - [Intel DDoS my website with 11.1M request](https://news.ycombinator.com/item?id=41077293)
