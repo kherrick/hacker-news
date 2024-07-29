@@ -2,9 +2,9 @@
 
 * [2024-07-29, 20:21:19](https://news.ycombinator.com/item?id=41103403) - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 * [2024-07-29, 19:59:13](https://news.ycombinator.com/item?id=41103244) - [Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL](https://cratedb.com/blog/hybrid-search-explained)
-* [2024-07-29, 19:48:48](https://news.ycombinator.com/item?id=41103166) - [Future Ford's May Detect Speeding and Report You to the Cops](https://www.motorauthority.com/news/1143913_future-fords-might-detect-speeding-and-report-you-to-the-cops)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
 * [2024-07-29, 19:32:46](https://news.ycombinator.com/item?id=41103041) - [End of an Era: A Message from the Founder as We Announce the Closure of AppleVis](https://www.applevis.com/blog/end-era-message-founder-we-announce-closure-applevis)
+* [2024-07-29, 19:09:01](https://news.ycombinator.com/item?id=41102862) - [McDonald's sales fall globally for first time in more than three years](https://www.reuters.com/business/retail-consumer/mcdonalds-posts-surprise-drop-quarterly-global-sales-spending-slows-2024-07-29/)
 * [2024-07-29, 17:05:52](https://news.ycombinator.com/item?id=41101915) - [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
 * [2024-07-29, 16:10:07](https://news.ycombinator.com/item?id=41101502) - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
 * [2024-07-29, 14:49:15](https://news.ycombinator.com/item?id=41100902) - [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
