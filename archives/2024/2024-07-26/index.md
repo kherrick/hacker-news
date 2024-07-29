@@ -47,6 +47,7 @@
 * [2024-07-26, 17:06:57](https://news.ycombinator.com/item?id=41080277) - [Show HN: Hyve Tile, a puzzle game but I can't solve it](https://yunusefendi52.itch.io/hyve-tile)
 * [2024-07-26, 17:05:36](https://news.ycombinator.com/item?id=41080266) - [Poisson designs and minimum detectable effects](https://andrewpwheeler.com/2024/03/18/poisson-designs-and-minimum-detectable-effects/)
 * [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample (YC W24) Is Hiring](https://news.ycombinator.com/item?id=41080222)
+* [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 16:55:39](https://news.ycombinator.com/item?id=41080178) - [The Incredible Machine (1993)](https://www.myabandonware.com/game/the-incredible-machine-1mg/play-1mg)
 * [2024-07-26, 16:46:16](https://news.ycombinator.com/item?id=41080078) - [Why You Shouldn't Write a DAW (2023) [video]](https://www.youtube.com/watch?v=GMlnh6_9aTc)
 * [2024-07-26, 16:45:35](https://news.ycombinator.com/item?id=41080070) - [It is now easier to pass AP tests](https://www.wsj.com/us-news/education/advanced-placement-exams-test-scores-higher-f4dce3c2)

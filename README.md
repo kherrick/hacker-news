@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-29, 22:59:15](https://news.ycombinator.com/item?id=41104561) - [Java 21 Virtual Threads – Dude, Where's My Lock?](https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d)
+* [2024-07-29, 23:13:37](https://news.ycombinator.com/item?id=41104615) - [LG and Samsung Are Making TV Screens Disappear](https://spectrum.ieee.org/transparent-tv)
 * [2024-07-29, 22:52:56](https://news.ycombinator.com/item?id=41104523) - [Sam 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
 * [2024-07-29, 22:36:23](https://news.ycombinator.com/item?id=41104395) - [PasteBar – Limitless, Free Clipboard Manager for Mac and Windows. Open Source](https://github.com/PasteBar/PasteBarApp)
 * [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [Running One-man SaaS for 9 Years](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
@@ -22,8 +22,8 @@
 * [2024-07-28, 15:59:29](https://news.ycombinator.com/item?id=41094044) - [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
 * [2024-07-28, 15:09:20](https://news.ycombinator.com/item?id=41093719) - [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
 * [2024-07-27, 23:33:45](https://news.ycombinator.com/item?id=41090134) - [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
-* [2024-07-27, 16:10:43](https://news.ycombinator.com/item?id=41087447) - [Show HN: Burrow is a globally distributed, serverless HTTP proxy](https://github.com/myzie/burrow)
 * [2024-07-26, 17:06:57](https://news.ycombinator.com/item?id=41080277) - [Show HN: Hyve Tile, a puzzle game but I can't solve it](https://yunusefendi52.itch.io/hyve-tile)
+* [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [STS-93: We don’t need any more of those (2014)](https://waynehale.wordpress.com/2014/10/26/sts-93-we-dont-need-any-more-of-those/)
 * [2024-07-26, 11:12:29](https://news.ycombinator.com/item?id=41077647) - [How it became like this? Ruby Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 00:00:52](https://news.ycombinator.com/item?id=41074703) - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
