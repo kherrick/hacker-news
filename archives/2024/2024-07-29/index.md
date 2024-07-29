@@ -12,6 +12,7 @@
 * [2024-07-29, 11:14:42](https://news.ycombinator.com/item?id=41099517) - [A Blood Test Accurately Diagnosed Alzheimer's 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
 * [2024-07-29, 11:12:33](https://news.ycombinator.com/item?id=41099509) - [AMD may have delayed Ryzen 9000 launch due to a typo](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9000-launch-delay-due-to-typo-ryzen-7-9700x-ryzen-5-9600x-confirmed)
 * [2024-07-29, 09:10:05](https://news.ycombinator.com/item?id=41099028) - [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
+* [2024-07-29, 08:52:52](https://news.ycombinator.com/item?id=41098931) - [Let's release Rust-based fish](https://github.com/fish-shell/fish-shell/issues/10633)
 * [2024-07-29, 08:50:57](https://news.ycombinator.com/item?id=41098922) - [Typewise (YC S22) Is Hiring a DevOps Engineer (Europe Timezone)](https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x)
 * [2024-07-29, 08:47:03](https://news.ycombinator.com/item?id=41098909) - [Some packages are no longer installable after test command is removed](https://github.com/pypa/setuptools/issues/4519)
 * [2024-07-29, 08:45:03](https://news.ycombinator.com/item?id=41098904) - [The Four Theories of Truth as a Method for Critical Thinking](https://imfeld.dev/notes/article_the_four_theories_of_truth_as_a_method_for_critical_thinking)
