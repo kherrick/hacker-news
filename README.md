@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-29, 05:14:34](https://news.ycombinator.com/item?id=41098054) - [How to Compile Your Language – Guide to implement a modern compiler for language](https://isuckatcs.github.io/how-to-compile-your-language/)
 * [2024-07-29, 02:42:51](https://news.ycombinator.com/item?id=41097576) - [Show HN: Vdm, a sane alternative to e.g. Git submodules](https://github.com/opensourcecorp/vdm)
 * [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [ps aux written in bash without forking](https://github.com/izabera/ps)
 * [2024-07-29, 01:07:40](https://news.ycombinator.com/item?id=41097228) - [The Tech of Planetary Annihilation: ChronoCam (2013)](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
-* [2024-07-29, 00:28:49](https://news.ycombinator.com/item?id=41097075) - [Why Navajo is one of the most difficult languages (2023)](https://bigthink.com/high-culture/navajo-language/)
 * [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
 * [2024-07-28, 21:40:47](https://news.ycombinator.com/item?id=41096187) - [Higher-kinded bounded polymorphism in OCaml (2021)](https://okmij.org/ftp/ML/higher-kind-poly.html)
 * [2024-07-28, 21:01:15](https://news.ycombinator.com/item?id=41095934) - [FurtherAI (YC W24) is hiring founding software engineers in the Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
@@ -12,7 +10,7 @@
 * [2024-07-28, 20:42:03](https://news.ycombinator.com/item?id=41095814) - [Don't blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
 * [2024-07-28, 20:38:59](https://news.ycombinator.com/item?id=41095790) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 19:55:42](https://news.ycombinator.com/item?id=41095530) - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
-* [2024-07-28, 19:36:20](https://news.ycombinator.com/item?id=41095429) - [SDcard wear leveling and translation layers](https://msreekan.com/2014/01/15/sdcard/)
+* [2024-07-28, 19:36:20](https://news.ycombinator.com/item?id=41095429) - [SDcard wear leveling and translation layers (2014)](https://msreekan.com/2014/01/15/sdcard/)
 * [2024-07-28, 16:27:11](https://news.ycombinator.com/item?id=41094197) - [Italy's Sun Motorway (2021)](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
 * [2024-07-28, 16:19:50](https://news.ycombinator.com/item?id=41094159) - [Show HN: ThinkPost – split-panel note taking & brainstorming app for devs](https://thinkpost.io)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
@@ -27,9 +25,11 @@
 * [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 * [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
+* [2024-07-26, 17:51:36](https://news.ycombinator.com/item?id=41080654) - [Maglev titanium heart inside the chest of a live patient](https://newatlas.com/medical/maglev-titanium-heart-bivacor/)
 * [2024-07-24, 19:05:11](https://news.ycombinator.com/item?id=41060631) - [The rich history of ham radio culture](https://thereader.mitpress.mit.edu/the-rich-history-of-ham-radio-culture/)
 * [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgeway: The 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
 * [2024-07-24, 13:06:10](https://news.ycombinator.com/item?id=41056691) - [Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)](https://arxiv.org/abs/2311.10911)
+* [2024-07-24, 11:14:22](https://news.ycombinator.com/item?id=41055736) - [Ask HN: Strategies to Reduce AI Hallucinations?](https://news.ycombinator.com/item?id=41055736)
 
 ## [Archives](archives/index.md)
 
