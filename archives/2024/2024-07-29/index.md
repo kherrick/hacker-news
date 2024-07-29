@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 05:43:41](https://news.ycombinator.com/item?id=41098166) - [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
 * [2024-07-29, 05:14:34](https://news.ycombinator.com/item?id=41098054) - [How to Compile Your Language – Guide to implement a modern compiler for language](https://isuckatcs.github.io/how-to-compile-your-language/)
 * [2024-07-29, 03:48:20](https://news.ycombinator.com/item?id=41097774) - [Nearly 2/3 of Home Listings Have Been Sitting on the Market Longer Than a Month](https://www.redfin.com/news/stale-inventory-june-2024/)
 * [2024-07-29, 02:56:09](https://news.ycombinator.com/item?id=41097622) - [Secure Boot useless on PCs from major vendors after key leak](https://www.theregister.com/2024/07/29/infosec_roundup/)

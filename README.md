@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 05:43:41](https://news.ycombinator.com/item?id=41098166) - [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
 * [2024-07-29, 02:42:51](https://news.ycombinator.com/item?id=41097576) - [Show HN: Vdm, a sane alternative to e.g. Git submodules](https://github.com/opensourcecorp/vdm)
 * [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [ps aux written in bash without forking](https://github.com/izabera/ps)
 * [2024-07-29, 01:07:40](https://news.ycombinator.com/item?id=41097228) - [The Tech of Planetary Annihilation: ChronoCam (2013)](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
@@ -26,7 +27,6 @@
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-26, 17:51:36](https://news.ycombinator.com/item?id=41080654) - [Maglev titanium heart inside the chest of a live patient](https://newatlas.com/medical/maglev-titanium-heart-bivacor/)
 * [2024-07-25, 16:45:59](https://news.ycombinator.com/item?id=41070709) - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
-* [2024-07-24, 20:26:00](https://news.ycombinator.com/item?id=41061646) - [The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 * [2024-07-24, 19:05:11](https://news.ycombinator.com/item?id=41060631) - [The rich history of ham radio culture](https://thereader.mitpress.mit.edu/the-rich-history-of-ham-radio-culture/)
 * [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgeway: The 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
 * [2024-07-24, 13:06:10](https://news.ycombinator.com/item?id=41056691) - [Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)](https://arxiv.org/abs/2311.10911)
