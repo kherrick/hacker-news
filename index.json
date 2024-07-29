@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-29, 14:55:57",
+      "https://news.ycombinator.com/item?id=41100958"
+    ],
+    [
+      "Is Cloudflare overcharging us for their images service?",
+      "http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 14:54:43",
       "https://news.ycombinator.com/item?id=41100951"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2024-07-29, 14:37:27",
-      "https://news.ycombinator.com/item?id=41100820"
+      "2024-07-29, 12:56:39",
+      "https://news.ycombinator.com/item?id=41100097"
     ],
     [
-      "Yark: YouTube Archiver with Offline UI",
-      "https://github.com/Owez/yark"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 13:08:26",
-      "https://news.ycombinator.com/item?id=41100170"
-    ],
-    [
-      "New release of Gradient-Free-Optimizers with two new evolutionary algorithms",
-      "https://github.com/SimonBlanke/Gradient-Free-Optimizers"
+      "Moral Implications of Being Moderately Successful Computer Scientist and a Woman",
+      "https://irenezhang.net/blog/2024/07/24/misogyny.html"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41100094"
     ],
     [
-      "Launch HN: Roame (YC S23) – flight search engine for your credit card points",
+      "Launch HN: Roame (YC S23) – Flight search engine for your credit card points",
       "https://news.ycombinator.com/item?id=41100094"
     ]
   ],
@@ -91,11 +91,21 @@
   ],
   [
     [
+      "2024-07-29, 08:59:41",
+      "https://news.ycombinator.com/item?id=41098974"
+    ],
+    [
+      "MeTube: Self-Hosted YouTube Downloader",
+      "https://github.com/alexta69/metube"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 05:36:38",
       "https://news.ycombinator.com/item?id=41098141"
     ],
     [
-      "Carving the Super Nintendo Video System",
+      "Understanding the design of the the Super Nintendo video system",
       "https://fabiensanglard.net/snes_video/index.html"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "The irrational hungry judge effect revisited (2023)",
       "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 04:09:04",
-      "https://news.ycombinator.com/item?id=41091163"
-    ],
-    [
-      "StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3",
-      "https://github.com/StreamPot/StreamPot"
     ]
   ],
   [
