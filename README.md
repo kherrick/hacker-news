@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [Ps aux written in bash without ever forking](https://github.com/izabera/ps)
+* [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [ps aux written in bash without forking](https://github.com/izabera/ps)
 * [2024-07-29, 01:07:40](https://news.ycombinator.com/item?id=41097228) - [The Tech of Planetary Annihilation: ChronoCam (2013)](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
 * [2024-07-29, 00:28:49](https://news.ycombinator.com/item?id=41097075) - [Why Navajo is one of the most difficult languages (2023)](https://bigthink.com/high-culture/navajo-language/)
 * [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
