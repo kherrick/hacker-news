@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 20:49:18](https://news.ycombinator.com/item?id=41103637) - [Chromium has over 1600 command-line switches](https://peter.sh/experiments/chromium-command-line-switches/)
 * [2024-07-29, 20:21:19](https://news.ycombinator.com/item?id=41103403) - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 * [2024-07-29, 19:59:13](https://news.ycombinator.com/item?id=41103244) - [Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL](https://cratedb.com/blog/hybrid-search-explained)
 * [2024-07-29, 19:55:36](https://news.ycombinator.com/item?id=41103220) - [A Crisis for Vultures Led to a Human Disaster: Half a Million Deaths](https://www.nytimes.com/2024/07/29/climate/vultures-india-poisoning.html)
