@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 11:35:58](https://news.ycombinator.com/item?id=41099609) - [Defense Innovation Board – 10 Commandments of Software [pdf]](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF)
+* [2024-07-29, 11:14:42](https://news.ycombinator.com/item?id=41099517) - [A Blood Test Accurately Diagnosed Alzheimer's 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
+* [2024-07-29, 11:12:33](https://news.ycombinator.com/item?id=41099509) - [AMD may have delayed Ryzen 9000 launch due to a typo](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9000-launch-delay-due-to-typo-ryzen-7-9700x-ryzen-5-9600x-confirmed)
 * [2024-07-29, 08:50:57](https://news.ycombinator.com/item?id=41098922) - [Typewise (YC S22) Is Hiring a DevOps Engineer (Europe Timezone)](https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x)
 * [2024-07-29, 08:47:03](https://news.ycombinator.com/item?id=41098909) - [Some packages are no longer installable after test command is removed](https://github.com/pypa/setuptools/issues/4519)
 * [2024-07-29, 08:45:03](https://news.ycombinator.com/item?id=41098904) - [The Four Theories of Truth as a Method for Critical Thinking](https://imfeld.dev/notes/article_the_four_theories_of_truth_as_a_method_for_critical_thinking)
@@ -15,7 +18,6 @@
 * [2024-07-28, 20:45:17](https://news.ycombinator.com/item?id=41095839) - [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
 * [2024-07-28, 20:38:59](https://news.ycombinator.com/item?id=41095790) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 19:36:20](https://news.ycombinator.com/item?id=41095429) - [SDcard wear leveling and translation layers (2014)](https://msreekan.com/2014/01/15/sdcard/)
-* [2024-07-28, 16:27:11](https://news.ycombinator.com/item?id=41094197) - [Italy's Sun Motorway (2021)](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
 * [2024-07-28, 16:19:50](https://news.ycombinator.com/item?id=41094159) - [Show HN: ThinkPost – split-panel note taking & brainstorming app for devs](https://thinkpost.io)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-28, 13:55:02](https://news.ycombinator.com/item?id=41093161) - [Show HN: I made a tool to receive alerts when answers change](https://www.alertfor.com/)
@@ -26,9 +28,7 @@
 * [2024-07-27, 22:51:57](https://news.ycombinator.com/item?id=41089911) - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [Columbia's near-miss: Why we should always expect the unexpected in space](https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/)
-* [2024-07-25, 23:25:00](https://news.ycombinator.com/item?id=41074500) - [Dual action antibiotic could make bacterial resistance nearly impossible](https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html)
 * [2024-07-25, 16:45:59](https://news.ycombinator.com/item?id=41070709) - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
-* [2024-07-24, 13:47:44](https://news.ycombinator.com/item?id=41057088) - [The Ridgeway: The 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
 * [2024-07-24, 13:06:10](https://news.ycombinator.com/item?id=41056691) - [Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)](https://arxiv.org/abs/2311.10911)
 
 ## [Archives](archives/index.md)
