@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 22:59:15](https://news.ycombinator.com/item?id=41104561) - [Java 21 Virtual Threads – Dude, Where's My Lock?](https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d)
+* [2024-07-29, 22:52:56](https://news.ycombinator.com/item?id=41104523) - [Sam 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
 * [2024-07-29, 22:36:23](https://news.ycombinator.com/item?id=41104395) - [PasteBar – Limitless, Free Clipboard Manager for Mac and Windows. Open Source](https://github.com/PasteBar/PasteBarApp)
 * [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [Running One-man SaaS for 9 Years](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
 * [2024-07-29, 22:09:04](https://news.ycombinator.com/item?id=41104243) - [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
