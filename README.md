@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 02:56:09](https://news.ycombinator.com/item?id=41097622) - [Secure Boot useless on PCs from major vendors after key leak](https://www.theregister.com/2024/07/29/infosec_roundup/)
+* [2024-07-29, 02:43:03](https://news.ycombinator.com/item?id=41097578) - [Planet eBook: free literature for your device](https://www.planetebook.com/)
 * [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [ps aux written in bash without forking](https://github.com/izabera/ps)
 * [2024-07-29, 01:07:40](https://news.ycombinator.com/item?id=41097228) - [The Tech of Planetary Annihilation: ChronoCam (2013)](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
 * [2024-07-29, 00:28:49](https://news.ycombinator.com/item?id=41097075) - [Why Navajo is one of the most difficult languages (2023)](https://bigthink.com/high-culture/navajo-language/)
@@ -21,9 +23,7 @@
 * [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [The irrational hungry judge effect revisited (2023)](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 * [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to debug your battery design](https://github.com/ionworks/how-to-debug-your-battery)
-* [2024-07-28, 00:33:19](https://news.ycombinator.com/item?id=41090397) - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
 * [2024-07-27, 22:51:57](https://news.ycombinator.com/item?id=41089911) - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
-* [2024-07-27, 20:35:40](https://news.ycombinator.com/item?id=41089161) - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 * [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
