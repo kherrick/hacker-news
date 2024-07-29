@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 14:08:02](https://news.ycombinator.com/item?id=41100577) - [I built an RPG and LLM jailbreaking adventure game](https://www.sabrina.dev/p/glitch-game-an-llm-jailbreak-adventure)
 * [2024-07-29, 13:09:52](https://news.ycombinator.com/item?id=41100181) - [Android Cross-device services rolling out: Call casting, Internet sharing](https://9to5google.com/2024/07/28/android-cross-device-services-rolling-out/)
 * [2024-07-29, 13:08:26](https://news.ycombinator.com/item?id=41100170) - [New release of Gradient-Free-Optimizers with two new evolutionary algorithms](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
+* [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 * [2024-07-29, 12:00:55](https://news.ycombinator.com/item?id=41099743) - [Confido (YC S21) Is Hiring](https://news.ycombinator.com/item?id=41099743)
 * [2024-07-29, 11:35:58](https://news.ycombinator.com/item?id=41099609) - [Defense Innovation Board – 10 Commandments of Software [pdf]](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF)
