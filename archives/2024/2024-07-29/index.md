@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 19:22:55](https://news.ycombinator.com/item?id=41102973) - [SpaceX in talks to land and recover Starship rocket off Australia's coast](https://www.reuters.com/technology/space/spacex-talks-land-recover-starship-rocket-off-australias-coast-2024-07-29/)
 * [2024-07-29, 19:22:02](https://news.ycombinator.com/item?id=41102966) - [Why is it so expensive to make games in the United States?](https://www.gamedeveloper.com/business/why-is-it-so-expensive-to-make-games-in-the-united-states-)
 * [2024-07-29, 18:39:48](https://news.ycombinator.com/item?id=41102645) - [I Remain Astounded by How Bad AT&T Customer Service Is](https://win-vector.com/2024/07/25/i-remain-astounded-by-how-bad-att-customer-service-is/)
 * [2024-07-29, 17:24:36](https://news.ycombinator.com/item?id=41102053) - [US border agents must get warrant before cell phone searches,federal court rules](https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/)

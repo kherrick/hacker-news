@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-29, 19:22:02](https://news.ycombinator.com/item?id=41102966) - [Why is it so expensive to make games in the United States?](https://www.gamedeveloper.com/business/why-is-it-so-expensive-to-make-games-in-the-united-states-)
+* [2024-07-29, 19:22:55](https://news.ycombinator.com/item?id=41102973) - [SpaceX in talks to land and recover Starship rocket off Australia's coast](https://www.reuters.com/technology/space/spacex-talks-land-recover-starship-rocket-off-australias-coast-2024-07-29/)
 * [2024-07-29, 17:05:52](https://news.ycombinator.com/item?id=41101915) - [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
 * [2024-07-29, 16:10:07](https://news.ycombinator.com/item?id=41101502) - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
 * [2024-07-29, 16:08:19](https://news.ycombinator.com/item?id=41101494) - [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
@@ -16,7 +16,6 @@
 * [2024-07-29, 05:36:38](https://news.ycombinator.com/item?id=41098141) - [Understanding the design of the the Super Nintendo video system](https://fabiensanglard.net/snes_video/index.html)
 * [2024-07-29, 01:40:11](https://news.ycombinator.com/item?id=41097350) - [Smith Premier 1 Typewriter](https://www.antiquetypewriters.com/typewriter/smith-premier-1-typewriter/)
 * [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [ps aux written in bash without forking](https://github.com/izabera/ps)
-* [2024-07-28, 22:34:04](https://news.ycombinator.com/item?id=41096483) - [Can the moon influence human health? New research](https://www.nationalgeographic.com/science/article/moon-bodies-health-sleep-menstruation)
 * [2024-07-28, 20:38:59](https://news.ycombinator.com/item?id=41095790) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 15:59:29](https://news.ycombinator.com/item?id=41094044) - [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
 * [2024-07-28, 15:35:14](https://news.ycombinator.com/item?id=41093916) - [How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
@@ -24,6 +23,7 @@
 * [2024-07-27, 23:33:45](https://news.ycombinator.com/item?id=41090134) - [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
 * [2024-07-27, 16:10:43](https://news.ycombinator.com/item?id=41087447) - [Show HN: Burrow is a globally distributed, serverless HTTP proxy](https://github.com/myzie/burrow)
 * [2024-07-27, 13:55:53](https://news.ycombinator.com/item?id=41086632) - [The Scale of Life](https://www.thescaleoflife.com/)
+* [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-26, 20:38:03](https://news.ycombinator.com/item?id=41082058) - [Alfredo Moser: Bottle light inventor (2013)](https://www.bbc.co.uk/news/magazine-23536914)
 * [2024-07-26, 17:05:36](https://news.ycombinator.com/item?id=41080266) - [Poisson designs and minimum detectable effects](https://andrewpwheeler.com/2024/03/18/poisson-designs-and-minimum-detectable-effects/)
 * [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [STS-93: We don’t need any more of those (2014)](https://waynehale.wordpress.com/2014/10/26/sts-93-we-dont-need-any-more-of-those/)
