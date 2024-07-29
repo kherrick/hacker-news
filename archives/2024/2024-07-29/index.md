@@ -6,10 +6,12 @@
 
 * [2024-07-29, 08:50:57](https://news.ycombinator.com/item?id=41098922) - [Typewise (YC S22) Is Hiring a DevOps Engineer (Europe Timezone)](https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x)
 * [2024-07-29, 08:47:03](https://news.ycombinator.com/item?id=41098909) - [Some packages are no longer installable after test command is removed](https://github.com/pypa/setuptools/issues/4519)
+* [2024-07-29, 08:45:03](https://news.ycombinator.com/item?id=41098904) - [The Four Theories of Truth as a Method for Critical Thinking](https://imfeld.dev/notes/article_the_four_theories_of_truth_as_a_method_for_critical_thinking)
 * [2024-07-29, 08:02:40](https://news.ycombinator.com/item?id=41098715) - [Tsoding livestreams trying out C3 (programming language) [video]](https://www.youtube.com/watch?v=Qzw1m7PweXs)
 * [2024-07-29, 07:40:33](https://news.ycombinator.com/item?id=41098579) - [Microsoft backs down over rivals' Vista access (2006)](https://web.archive.org/web/20061023112233/http://software.silicon.com/security/0,39024655,39163277,00.htm)
 * [2024-07-29, 07:17:12](https://news.ycombinator.com/item?id=41098488) - [Children should be allowed to get bored, expert says](https://www.bbc.com/news/education-21895704)
 * [2024-07-29, 06:42:30](https://news.ycombinator.com/item?id=41098384) - [OpenAI could be on the brink of bankruptcy under 12 mths, projections $5B losses](https://www.windowscentral.com/software-apps/openai-could-be-on-the-brink-of-bankruptcy-in-under-12-months-with-projections-of-dollar5-billion-in-losses)
+* [2024-07-29, 06:22:54](https://news.ycombinator.com/item?id=41098311) - [The Documentation Tradeoff](https://tidyfirst.substack.com/p/the-documentation-tradeoff)
 * [2024-07-29, 05:43:41](https://news.ycombinator.com/item?id=41098166) - [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
 * [2024-07-29, 05:14:34](https://news.ycombinator.com/item?id=41098054) - [How to Compile Your Language – Guide to implement a modern compiler for language](https://isuckatcs.github.io/how-to-compile-your-language/)
 * [2024-07-29, 04:12:52](https://news.ycombinator.com/item?id=41097842) - [Pallene: A statically compiled companion language for Lua](https://github.com/pallene-lang/pallene/blob/master/doc/manual.md)
