@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-07-29, 16:10:07",
+      "https://news.ycombinator.com/item?id=41101502"
+    ],
+    [
+      "Do Penguins Have Knees? (2019)",
+      "https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 16:08:19",
       "https://news.ycombinator.com/item?id=41101494"
     ],
@@ -37,16 +47,6 @@
     [
       "Is Cloudflare overcharging us for their images service?",
       "http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 14:54:43",
-      "https://news.ycombinator.com/item?id=41100951"
-    ],
-    [
-      "An Open Course on LLMs, Led by Practitioners",
-      "https://hamel.dev/blog/posts/course/"
     ]
   ],
   [
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-07-29, 11:26:29",
-      "https://news.ycombinator.com/item?id=41099567"
-    ],
-    [
-      "The weird and wonderful world of DNS LOC records",
-      "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 09:10:05",
       "https://news.ycombinator.com/item?id=41099028"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2024-07-29, 01:40:11",
+      "https://news.ycombinator.com/item?id=41097350"
+    ],
+    [
+      "The Smith-Prmier No. 1 Typewriter",
+      "https://www.antiquetypewriters.com/typewriter/smith-premier-1-typewriter/"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 01:10:57",
       "https://news.ycombinator.com/item?id=41097241"
     ],
@@ -151,22 +151,22 @@
   ],
   [
     [
-      "2024-07-29, 01:07:40",
-      "https://news.ycombinator.com/item?id=41097228"
-    ],
-    [
-      "The Tech of Planetary Annihilation: ChronoCam (2013)",
-      "https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 22:34:36",
       "https://news.ycombinator.com/item?id=41096486"
     ],
     [
       "LeanDojo: Theorem Proving in Lean Using LLMs",
       "https://leandojo.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-28, 22:34:04",
+      "https://news.ycombinator.com/item?id=41096483"
+    ],
+    [
+      "Can the moon influence human health? New research",
+      "https://www.nationalgeographic.com/science/article/moon-bodies-health-sleep-menstruation"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "tolower() with AVX-512",
       "https://dotat.at/@/2024-07-28-tolower-avx512.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 19:36:20",
-      "https://news.ycombinator.com/item?id=41095429"
-    ],
-    [
-      "SDcard wear leveling and translation layers (2014)",
-      "https://msreekan.com/2014/01/15/sdcard/"
     ]
   ],
   [
@@ -231,32 +221,32 @@
   ],
   [
     [
-      "2024-07-28, 13:55:02",
-      "https://news.ycombinator.com/item?id=41093161"
+      "2024-07-27, 23:33:45",
+      "https://news.ycombinator.com/item?id=41090134"
     ],
     [
-      "Show HN: I made a tool to receive alerts when answers change",
-      "https://www.alertfor.com/"
+      "Lessons from Ancient File Systems",
+      "http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html"
     ]
   ],
   [
     [
-      "2024-07-28, 12:56:55",
-      "https://news.ycombinator.com/item?id=41092862"
+      "2024-07-27, 16:10:43",
+      "https://news.ycombinator.com/item?id=41087447"
     ],
     [
-      "Show HN: CeLLama – Single cell annotation with local LLMs",
-      "https://github.com/CelVoxes/ceLLama"
+      "Show HN: Burrow is a globally distributed, serverless HTTP proxy",
+      "https://github.com/myzie/burrow"
     ]
   ],
   [
     [
-      "2024-07-28, 07:35:11",
-      "https://news.ycombinator.com/item?id=41091803"
+      "2024-07-27, 13:55:53",
+      "https://news.ycombinator.com/item?id=41086632"
     ],
     [
-      "The irrational hungry judge effect revisited (2023)",
-      "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58"
+      "The Scale of Life",
+      "https://www.thescaleoflife.com/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: I built an open-source tool to make on-call suck less",
       "https://github.com/opslane/opslane"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 20:38:03",
+      "https://news.ycombinator.com/item?id=41082058"
+    ],
+    [
+      "Alfredo Moser: Bottle light inventor (2013)",
+      "https://www.bbc.co.uk/news/magazine-23536914"
     ]
   ],
   [
