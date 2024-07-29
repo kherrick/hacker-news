@@ -13,6 +13,7 @@
 * [2024-07-24, 23:22:57](https://news.ycombinator.com/item?id=41063258) - [Humans 1, Chimps 0: Correcting the Record](https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record)
 * [2024-07-24, 23:09:20](https://news.ycombinator.com/item?id=41063162) - [X suspends account that leaked info about protected user TOS bypass](https://twitter.com/tippitytoptweet/status/1816232864243147112)
 * [2024-07-24, 22:59:43](https://news.ycombinator.com/item?id=41063097) - [OpenAI is set to lose $5B this year](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/)
+* [2024-07-24, 22:28:44](https://news.ycombinator.com/item?id=41062885) - [Low-Cost Method to Decompose PFAS Using LED Light and Semiconductor Nanocrystals](https://onlinelibrary.wiley.com/doi/10.1002/anie.202408687)
 * [2024-07-24, 22:23:48](https://news.ycombinator.com/item?id=41062838) - [eBPF Offensive Capabilities – Get Ready for Next-Gen Malware (2023)](https://sysdig.com/blog/ebpf-offensive-capabilities/)
 * [2024-07-24, 22:15:51](https://news.ycombinator.com/item?id=41062774) - [New Zealand \"deeply shocked\" after Canada drone-spied on its Olympic practices](https://arstechnica.com/culture/2024/07/new-zealand-deeply-shocked-after-canada-drone-spied-on-its-olympic-practices-twice/)
 * [2024-07-24, 22:00:24](https://news.ycombinator.com/item?id=41062658) - [ULTRA drone flies for days in military test](https://www.axios.com/2024/07/24/ultra-intel-drone-air-force-testing)
