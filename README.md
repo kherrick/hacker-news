@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 13:09:52](https://news.ycombinator.com/item?id=41100181) - [Android Cross-device services rolling out: Call casting, Internet sharing](https://9to5google.com/2024/07/28/android-cross-device-services-rolling-out/)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 * [2024-07-29, 12:00:55](https://news.ycombinator.com/item?id=41099743) - [Confido (YC S21) Is Hiring](https://news.ycombinator.com/item?id=41099743)
 * [2024-07-29, 11:26:29](https://news.ycombinator.com/item?id=41099567) - [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
@@ -22,7 +23,6 @@
 * [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to debug your battery design](https://github.com/ionworks/how-to-debug-your-battery)
 * [2024-07-27, 22:51:57](https://news.ycombinator.com/item?id=41089911) - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
-* [2024-07-27, 19:52:34](https://news.ycombinator.com/item?id=41088895) - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-26, 17:10:11](https://news.ycombinator.com/item?id=41080315) - [How to beg/borrow/steal your way to a cross platform Bluetooth LE library (2023)](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
 * [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [Columbia's near-miss: Why we should always expect the unexpected in space](https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/)
