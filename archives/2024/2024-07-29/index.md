@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 16:44:35](https://news.ycombinator.com/item?id=41101761) - [Siggraph 2024 Technical Papers Trailer [video]](https://www.youtube.com/watch?v=tjYVcOJONdI)
 * [2024-07-29, 14:55:57](https://news.ycombinator.com/item?id=41100958) - [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
 * [2024-07-29, 14:54:43](https://news.ycombinator.com/item?id=41100951) - [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
 * [2024-07-29, 14:37:27](https://news.ycombinator.com/item?id=41100820) - [Yark: YouTube Archiver with Offline UI](https://github.com/Owez/yark)

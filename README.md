@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 16:44:35](https://news.ycombinator.com/item?id=41101761) - [Siggraph 2024 Technical Papers Trailer [video]](https://www.youtube.com/watch?v=tjYVcOJONdI)
 * [2024-07-29, 14:55:57](https://news.ycombinator.com/item?id=41100958) - [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
-* [2024-07-29, 14:54:43](https://news.ycombinator.com/item?id=41100951) - [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
 * [2024-07-29, 14:23:01](https://news.ycombinator.com/item?id=41100700) - [\"Authentic\" is dead. And so is \"is dead.\"](https://longform.asmartbear.com/authentic-is-dead/)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
