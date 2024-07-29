@@ -2,6 +2,7 @@
 
 * [2024-07-29, 02:56:09](https://news.ycombinator.com/item?id=41097622) - [Secure Boot useless on PCs from major vendors after key leak](https://www.theregister.com/2024/07/29/infosec_roundup/)
 * [2024-07-29, 02:43:03](https://news.ycombinator.com/item?id=41097578) - [Planet eBook: free literature for your device](https://www.planetebook.com/)
+* [2024-07-29, 02:42:51](https://news.ycombinator.com/item?id=41097576) - [Show HN: Vdm, a sane alternative to e.g. Git submodules](https://github.com/opensourcecorp/vdm)
 * [2024-07-29, 01:10:57](https://news.ycombinator.com/item?id=41097241) - [ps aux written in bash without forking](https://github.com/izabera/ps)
 * [2024-07-29, 01:07:40](https://news.ycombinator.com/item?id=41097228) - [The Tech of Planetary Annihilation: ChronoCam (2013)](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
 * [2024-07-29, 00:28:49](https://news.ycombinator.com/item?id=41097075) - [Why Navajo is one of the most difficult languages (2023)](https://bigthink.com/high-culture/navajo-language/)
@@ -11,7 +12,6 @@
 * [2024-07-28, 20:45:17](https://news.ycombinator.com/item?id=41095839) - [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
 * [2024-07-28, 20:42:03](https://news.ycombinator.com/item?id=41095814) - [Don't blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
 * [2024-07-28, 20:38:59](https://news.ycombinator.com/item?id=41095790) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
-* [2024-07-28, 20:21:43](https://news.ycombinator.com/item?id=41095697) - [A man's brain is like a little empty attic (1887)](http://metaphors.iath.virginia.edu/metaphors/17736)
 * [2024-07-28, 19:55:42](https://news.ycombinator.com/item?id=41095530) - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
 * [2024-07-28, 19:36:20](https://news.ycombinator.com/item?id=41095429) - [SDcard wear leveling and translation layers](https://msreekan.com/2014/01/15/sdcard/)
 * [2024-07-28, 16:27:11](https://news.ycombinator.com/item?id=41094197) - [Italy's Sun Motorway (2021)](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
