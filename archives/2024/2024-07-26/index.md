@@ -44,6 +44,7 @@
 * [2024-07-26, 17:13:14](https://news.ycombinator.com/item?id=41080345) - [Ability to Access Your Android Phone in File Explorer for Windows Insiders](https://blogs.windows.com/windows-insider/2024/07/25/ability-to-access-your-android-phone-in-file-explorer-begins-rolling-out-to-windows-insiders/)
 * [2024-07-26, 17:10:11](https://news.ycombinator.com/item?id=41080315) - [How to beg/borrow/steal your way to a cross platform Bluetooth LE library (2023)](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
 * [2024-07-26, 17:09:13](https://news.ycombinator.com/item?id=41080303) - [The Man Who Invented Times Square](https://thereader.mitpress.mit.edu/the-man-who-invented-times-square-o-j-gude-and-the-birth-of-the-spectacular/)
+* [2024-07-26, 17:05:36](https://news.ycombinator.com/item?id=41080266) - [Poisson designs and minimum detectable effects](https://andrewpwheeler.com/2024/03/18/poisson-designs-and-minimum-detectable-effects/)
 * [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample (YC W24) Is Hiring](https://news.ycombinator.com/item?id=41080222)
 * [2024-07-26, 16:55:39](https://news.ycombinator.com/item?id=41080178) - [The Incredible Machine (1993)](https://www.myabandonware.com/game/the-incredible-machine-1mg/play-1mg)
 * [2024-07-26, 16:46:16](https://news.ycombinator.com/item?id=41080078) - [Why You Shouldn't Write a DAW (2023) [video]](https://www.youtube.com/watch?v=GMlnh6_9aTc)
