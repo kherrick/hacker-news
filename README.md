@@ -24,12 +24,12 @@
 * [2024-07-28, 13:55:02](https://news.ycombinator.com/item?id=41093161) - [Show HN: I made a tool to receive alerts when answers change](https://www.alertfor.com/)
 * [2024-07-28, 12:56:55](https://news.ycombinator.com/item?id=41092862) - [Show HN: CeLLama – Single cell annotation with local LLMs](https://github.com/CelVoxes/ceLLama)
 * [2024-07-28, 07:35:11](https://news.ycombinator.com/item?id=41091803) - [The irrational hungry judge effect revisited (2023)](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
+* [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to debug your battery design](https://github.com/ionworks/how-to-debug-your-battery)
 * [2024-07-27, 13:53:58](https://news.ycombinator.com/item?id=41086620) - [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 * [2024-07-26, 11:33:42](https://news.ycombinator.com/item?id=41077753) - [Columbia's near-miss: Why we should always expect the unexpected in space](https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/)
 * [2024-07-26, 00:00:52](https://news.ycombinator.com/item?id=41074703) - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
 * [2024-07-25, 16:45:59](https://news.ycombinator.com/item?id=41070709) - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
-* [2024-07-24, 13:06:10](https://news.ycombinator.com/item?id=41056691) - [Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)](https://arxiv.org/abs/2311.10911)
 
 ## [Archives](archives/index.md)
 
