@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-29, 13:09:52",
-      "https://news.ycombinator.com/item?id=41100181"
+      "2024-07-29, 13:08:26",
+      "https://news.ycombinator.com/item?id=41100170"
     ],
     [
-      "Android Cross-device services rolling out: Call casting, Internet sharing",
-      "https://9to5google.com/2024/07/28/android-cross-device-services-rolling-out/"
+      "New release of Gradient-Free-Optimizers with two new evolutionary algorithms",
+      "https://github.com/SimonBlanke/Gradient-Free-Optimizers"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests",
       "https://e10v.me/tea-tasting-analysis-of-experiments/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 08:52:52",
-      "https://news.ycombinator.com/item?id=41098931"
-    ],
-    [
-      "Let's release Rust-based fish",
-      "https://github.com/fish-shell/fish-shell/issues/10633"
     ]
   ],
   [
@@ -161,12 +151,32 @@
   ],
   [
     [
+      "2024-07-28, 15:59:29",
+      "https://news.ycombinator.com/item?id=41094044"
+    ],
+    [
+      "Virtual Apollo Guidance Computer",
+      "https://github.com/virtualagc/virtualagc"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 15:35:14",
       "https://news.ycombinator.com/item?id=41093916"
     ],
     [
       "How simultaneous multithreading works under the hood",
       "https://blog.codingconfessions.com/p/simultaneous-multithreading"
+    ]
+  ],
+  [
+    [
+      "2024-07-28, 15:09:20",
+      "https://news.ycombinator.com/item?id=41093719"
+    ],
+    [
+      "My mental model of setf was wrong",
+      "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Intel N100 Radxa X4 First Thoughts",
       "https://bret.dk/intel-n100-radxa-x4-first-thoughts/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 19:52:34",
-      "https://news.ycombinator.com/item?id=41088895"
-    ],
-    [
-      "Tritone Substitutions",
-      "https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/"
     ]
   ],
   [
