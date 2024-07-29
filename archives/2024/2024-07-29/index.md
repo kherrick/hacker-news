@@ -6,6 +6,7 @@
 
 * [2024-07-29, 12:00:55](https://news.ycombinator.com/item?id=41099743) - [Confido (YC S21) Is Hiring](https://news.ycombinator.com/item?id=41099743)
 * [2024-07-29, 11:35:58](https://news.ycombinator.com/item?id=41099609) - [Defense Innovation Board – 10 Commandments of Software [pdf]](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF)
+* [2024-07-29, 11:26:29](https://news.ycombinator.com/item?id=41099567) - [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
 * [2024-07-29, 11:14:42](https://news.ycombinator.com/item?id=41099517) - [A Blood Test Accurately Diagnosed Alzheimer's 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
 * [2024-07-29, 11:12:33](https://news.ycombinator.com/item?id=41099509) - [AMD may have delayed Ryzen 9000 launch due to a typo](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9000-launch-delay-due-to-typo-ryzen-7-9700x-ryzen-5-9600x-confirmed)
 * [2024-07-29, 08:50:57](https://news.ycombinator.com/item?id=41098922) - [Typewise (YC S22) Is Hiring a DevOps Engineer (Europe Timezone)](https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x)
@@ -17,6 +18,7 @@
 * [2024-07-29, 06:42:30](https://news.ycombinator.com/item?id=41098384) - [OpenAI could be on the brink of bankruptcy under 12 mths, projections $5B losses](https://www.windowscentral.com/software-apps/openai-could-be-on-the-brink-of-bankruptcy-in-under-12-months-with-projections-of-dollar5-billion-in-losses)
 * [2024-07-29, 06:22:54](https://news.ycombinator.com/item?id=41098311) - [The Documentation Tradeoff](https://tidyfirst.substack.com/p/the-documentation-tradeoff)
 * [2024-07-29, 05:43:41](https://news.ycombinator.com/item?id=41098166) - [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
+* [2024-07-29, 05:36:38](https://news.ycombinator.com/item?id=41098141) - [Carving the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)
 * [2024-07-29, 05:14:34](https://news.ycombinator.com/item?id=41098054) - [How to Compile Your Language – Guide to implement a modern compiler for language](https://isuckatcs.github.io/how-to-compile-your-language/)
 * [2024-07-29, 04:12:52](https://news.ycombinator.com/item?id=41097842) - [Pallene: A statically compiled companion language for Lua](https://github.com/pallene-lang/pallene/blob/master/doc/manual.md)
 * [2024-07-29, 03:48:20](https://news.ycombinator.com/item?id=41097774) - [Nearly 2/3 of Home Listings Have Been Sitting on the Market Longer Than a Month](https://www.redfin.com/news/stale-inventory-june-2024/)
