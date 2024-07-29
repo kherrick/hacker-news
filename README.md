@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [Running One-man SaaS for 9 Years](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
-* [2024-07-29, 21:16:20](https://news.ycombinator.com/item?id=41103884) - [Memory Efficient Data Streaming to Parquet Files](https://estuary.dev/memory-efficient-streaming-parquet/)
+* [2024-07-29, 22:09:04](https://news.ycombinator.com/item?id=41104243) - [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
 * [2024-07-29, 20:21:19](https://news.ycombinator.com/item?id=41103403) - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 * [2024-07-29, 19:59:13](https://news.ycombinator.com/item?id=41103244) - [Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL](https://cratedb.com/blog/hybrid-search-explained)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
