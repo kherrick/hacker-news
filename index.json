@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41101915"
     ],
     [
-      "Over 900 Artifacts Recovered from Ming Dynasty Shipwreck",
+      "Over 900 artifacts recovered from Ming dynasty shipwreck",
       "https://mymodernmet.com/ming-dynasty-shipwreck/"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins",
       "https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 15:13:45",
-      "https://news.ycombinator.com/item?id=41101068"
-    ],
-    [
-      "Lambda: The Gathering",
-      "https://esolangs.org/wiki/Lambda:_the_Gathering"
     ]
   ],
   [
@@ -241,22 +231,32 @@
   ],
   [
     [
+      "2024-07-28, 13:55:02",
+      "https://news.ycombinator.com/item?id=41093161"
+    ],
+    [
+      "Show HN: I made a tool to receive alerts when answers change",
+      "https://www.alertfor.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-28, 12:56:55",
+      "https://news.ycombinator.com/item?id=41092862"
+    ],
+    [
+      "Show HN: CeLLama – Single cell annotation with local LLMs",
+      "https://github.com/CelVoxes/ceLLama"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 07:35:11",
       "https://news.ycombinator.com/item?id=41091803"
     ],
     [
       "The irrational hungry judge effect revisited (2023)",
       "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 01:39:06",
-      "https://news.ycombinator.com/item?id=41090658"
-    ],
-    [
-      "How to debug your battery design",
-      "https://github.com/ionworks/how-to-debug-your-battery"
     ]
   ],
   [
