@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-29, 17:24:36",
+      "https://news.ycombinator.com/item?id=41102053"
+    ],
+    [
+      "US border agents must get warrant before cell phone searches,federal court rules",
+      "https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 17:09:04",
+      "https://news.ycombinator.com/item?id=41101948"
+    ],
+    [
+      "Attribution is Dying. Clicks are Dying. Marketing is Back to the 20th Century",
+      "https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 16:08:19",
+      "https://news.ycombinator.com/item?id=41101494"
+    ],
+    [
+      "Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins",
+      "https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 14:55:57",
       "https://news.ycombinator.com/item?id=41100958"
     ],
@@ -67,16 +97,6 @@
     [
       "The weird and wonderful world of DNS LOC records",
       "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 10:01:37",
-      "https://news.ycombinator.com/item?id=41099262"
-    ],
-    [
-      "Not So Secret: Analysis of KakaoTalk's Chat E2EE Feature",
-      "https://stulle123.github.io/posts/kakaotalk/secret-chat/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "My mental model of setf was wrong",
       "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 13:55:02",
-      "https://news.ycombinator.com/item?id=41093161"
-    ],
-    [
-      "Show HN: I made a tool to receive alerts when answers change",
-      "https://www.alertfor.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 12:56:55",
-      "https://news.ycombinator.com/item?id=41092862"
-    ],
-    [
-      "Show HN: CeLLama – Single cell annotation with local LLMs",
-      "https://github.com/CelVoxes/ceLLama"
     ]
   ],
   [
