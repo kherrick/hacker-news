@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-28, 22:47:28",
-      "https://news.ycombinator.com/item?id=41096561"
+      "2024-07-29, 00:28:49",
+      "https://news.ycombinator.com/item?id=41097075"
     ],
     [
-      "50th anniversary of Vannevar Bush's passing",
-      "https://thetech.com/2024/07/11/anniversary-vannevar-bush-passing"
+      "Why Navajo is one of the most difficult languages (2023)",
+      "https://bigthink.com/high-culture/navajo-language/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Higher-kinded bounded polymorphism in OCaml (2021)",
       "https://okmij.org/ftp/ML/higher-kind-poly.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 21:20:55",
-      "https://news.ycombinator.com/item?id=41096054"
-    ],
-    [
-      "Compare 75 AI Models on 200 Prompts Side by Side",
-      "https://aimodelreview.com"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Microsoft technical breakdown of CrowdStrike incident",
       "https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/"
+    ]
+  ],
+  [
+    [
+      "2024-07-28, 19:36:20",
+      "https://news.ycombinator.com/item?id=41095429"
+    ],
+    [
+      "SDcard wear leveling and translation layers",
+      "https://msreekan.com/2014/01/15/sdcard/"
     ]
   ],
   [
@@ -241,32 +241,22 @@
   ],
   [
     [
+      "2024-07-26, 17:51:36",
+      "https://news.ycombinator.com/item?id=41080654"
+    ],
+    [
+      "Maglev titanium heart inside the chest of a live patient",
+      "https://newatlas.com/medical/maglev-titanium-heart-bivacor/"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 23:23:34",
       "https://news.ycombinator.com/item?id=41074488"
     ],
     [
       "Small neural network enables realistic rendering of woven fabrics in real-time",
       "https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 16:21:47",
-      "https://news.ycombinator.com/item?id=41070457"
-    ],
-    [
-      "Fujifilm Announces Linux SDK, Helping Drone Makers Use GFX100 Cameras",
-      "https://petapixel.com/2024/07/25/fujifilm-announces-linux-sdk-helping-drone-makers-use-gfx100-cameras/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 09:49:54",
-      "https://news.ycombinator.com/item?id=41066734"
-    ],
-    [
-      "A cheap barcode scanner helped fix CrowdStrike'd Windows PCs in a flash",
-      "https://www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Ridgeway: The 5k-year-old pathway that's Britain's oldest road",
       "https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 13:06:10",
+      "https://news.ycombinator.com/item?id=41056691"
+    ],
+    [
+      "Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)",
+      "https://arxiv.org/abs/2311.10911"
     ]
   ]
 ]
