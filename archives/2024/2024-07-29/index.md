@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 12:00:55](https://news.ycombinator.com/item?id=41099743) - [Confido (YC S21) Is Hiring](https://news.ycombinator.com/item?id=41099743)
 * [2024-07-29, 11:35:58](https://news.ycombinator.com/item?id=41099609) - [Defense Innovation Board – 10 Commandments of Software [pdf]](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF)
 * [2024-07-29, 11:14:42](https://news.ycombinator.com/item?id=41099517) - [A Blood Test Accurately Diagnosed Alzheimer's 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
 * [2024-07-29, 11:12:33](https://news.ycombinator.com/item?id=41099509) - [AMD may have delayed Ryzen 9000 launch due to a typo](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9000-launch-delay-due-to-typo-ryzen-7-9700x-ryzen-5-9600x-confirmed)
