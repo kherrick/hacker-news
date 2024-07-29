@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-07-29, 14:08:02",
+      "https://news.ycombinator.com/item?id=41100577"
+    ],
+    [
+      "I built an RPG and LLM jailbreaking adventure game",
+      "https://www.sabrina.dev/p/glitch-game-an-llm-jailbreak-adventure"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 13:08:26",
       "https://news.ycombinator.com/item?id=41100170"
     ],
     [
       "New release of Gradient-Free-Optimizers with two new evolutionary algorithms",
       "https://github.com/SimonBlanke/Gradient-Free-Optimizers"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 12:56:23",
+      "https://news.ycombinator.com/item?id=41100094"
+    ],
+    [
+      "Launch HN: Roame (YC S23) – flight search engine for your credit card points",
+      "https://news.ycombinator.com/item?id=41100094"
     ]
   ],
   [
@@ -141,26 +161,6 @@
   ],
   [
     [
-      "2024-07-28, 16:27:11",
-      "https://news.ycombinator.com/item?id=41094197"
-    ],
-    [
-      "Italy's Sun Motorway (2021)",
-      "https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 16:19:50",
-      "https://news.ycombinator.com/item?id=41094159"
-    ],
-    [
-      "Show HN: ThinkPost – split-panel note taking & brainstorming app for devs",
-      "https://thinkpost.io"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 15:59:29",
       "https://news.ycombinator.com/item?id=41094044"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-07-27, 22:51:57",
-      "https://news.ycombinator.com/item?id=41089911"
-    ],
-    [
-      "Intel N100 Radxa X4 First Thoughts",
-      "https://bret.dk/intel-n100-radxa-x4-first-thoughts/"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 13:53:58",
       "https://news.ycombinator.com/item?id=41086620"
     ],
@@ -297,6 +287,16 @@
     [
       "Dazed and Confused: A Large-Scale Real-World User Study of ReCAPTCHAv (2023)",
       "https://arxiv.org/abs/2311.10911"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 08:26:50",
+      "https://news.ycombinator.com/item?id=41054800"
+    ],
+    [
+      "Ask HN: What feature flags platform do you use?",
+      "https://news.ycombinator.com/item?id=41054800"
     ]
   ]
 ]
