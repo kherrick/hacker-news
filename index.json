@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-07-29, 17:24:36",
-      "https://news.ycombinator.com/item?id=41102053"
-    ],
-    [
-      "US border agents must get warrant before cell phone searches,federal court rules",
-      "https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 17:09:04",
       "https://news.ycombinator.com/item?id=41101948"
     ],
     [
-      "Attribution is Dying. Clicks are Dying. Marketing is Back to the 20th Century",
+      "Attribution is dying, clicks are dying",
       "https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 17:05:52",
+      "https://news.ycombinator.com/item?id=41101915"
+    ],
+    [
+      "Over 900 Artifacts Recovered from Ming Dynasty Shipwreck",
+      "https://mymodernmet.com/ming-dynasty-shipwreck/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins",
       "https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 15:13:45",
+      "https://news.ycombinator.com/item?id=41101068"
+    ],
+    [
+      "Lambda: The Gathering",
+      "https://esolangs.org/wiki/Lambda:_the_Gathering"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41098974"
     ],
     [
-      "MeTube: Self-Hosted YouTube Downloader",
+      "MeTube: Self-hosted YouTube downloader",
       "https://github.com/alexta69/metube"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Higher-kinded bounded polymorphism in OCaml (2021)",
       "https://okmij.org/ftp/ML/higher-kind-poly.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 20:45:17",
-      "https://news.ycombinator.com/item?id=41095839"
-    ],
-    [
-      "Show HN: A football/soccer pass visualizer made with Three.js",
-      "https://statsbomb-3d-viz.vercel.app/"
     ]
   ],
   [
@@ -275,8 +275,8 @@
       "https://news.ycombinator.com/item?id=41077753"
     ],
     [
-      "Columbia's near-miss: Why we should always expect the unexpected in space",
-      "https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/"
+      "STS-93: We don’t need any more of those (2014)",
+      "https://waynehale.wordpress.com/2014/10/26/sts-93-we-dont-need-any-more-of-those/"
     ]
   ],
   [
