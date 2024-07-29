@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-29, 21:16:20](https://news.ycombinator.com/item?id=41103884) - [Memory Efficient Data Streaming to Parquet Files](https://estuary.dev/memory-efficient-streaming-parquet/)
 * [2024-07-29, 20:21:19](https://news.ycombinator.com/item?id=41103403) - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 * [2024-07-29, 19:59:13](https://news.ycombinator.com/item?id=41103244) - [Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL](https://cratedb.com/blog/hybrid-search-explained)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
 * [2024-07-29, 17:09:04](https://news.ycombinator.com/item?id=41101948) - [Attribution is dying, clicks are dying](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
-* [2024-07-29, 17:05:52](https://news.ycombinator.com/item?id=41101915) - [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
 * [2024-07-29, 16:10:07](https://news.ycombinator.com/item?id=41101502) - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
 * [2024-07-29, 14:49:15](https://news.ycombinator.com/item?id=41100902) - [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)

@@ -7,6 +7,7 @@
 * [2024-07-29, 21:40:42](https://news.ycombinator.com/item?id=41104077) - [The music industry is engineering artist popularity](https://www.theguardian.com/music/article/2024/jul/29/the-music-industry-is-engineering-artist-popularity-and-listeners-are-right-to-be-angry)
 * [2024-07-29, 21:31:57](https://news.ycombinator.com/item?id=41104002) - [Lego's CEO on the business case for play](https://www.bbc.com/worklife/article/20240725-legos-ceo-on-the-business-case-for-play)
 * [2024-07-29, 21:16:23](https://news.ycombinator.com/item?id=41103885) - [Microchip Technology Enters 64-Bit Microprocessor Market (RISC-V)](https://www.microchip.com/en-us/about/media-center/blog/2024/microchip-technology-enters-64-bit-microprocessor-market)
+* [2024-07-29, 21:16:20](https://news.ycombinator.com/item?id=41103884) - [Memory Efficient Data Streaming to Parquet Files](https://estuary.dev/memory-efficient-streaming-parquet/)
 * [2024-07-29, 20:49:18](https://news.ycombinator.com/item?id=41103637) - [Chromium has over 1600 command-line switches](https://peter.sh/experiments/chromium-command-line-switches/)
 * [2024-07-29, 20:21:19](https://news.ycombinator.com/item?id=41103403) - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 * [2024-07-29, 19:59:13](https://news.ycombinator.com/item?id=41103244) - [Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL](https://cratedb.com/blog/hybrid-search-explained)
