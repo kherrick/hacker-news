@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 14:37:27](https://news.ycombinator.com/item?id=41100820) - [Yark: YouTube Archiver with Offline UI](https://github.com/Owez/yark)
 * [2024-07-29, 14:08:02](https://news.ycombinator.com/item?id=41100577) - [I built an RPG and LLM jailbreaking adventure game](https://www.sabrina.dev/p/glitch-game-an-llm-jailbreak-adventure)
 * [2024-07-29, 14:05:24](https://news.ycombinator.com/item?id=41100551) - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
 * [2024-07-29, 13:09:52](https://news.ycombinator.com/item?id=41100181) - [Android Cross-device services rolling out: Call casting, Internet sharing](https://9to5google.com/2024/07/28/android-cross-device-services-rolling-out/)
@@ -15,6 +16,7 @@
 * [2024-07-29, 11:26:29](https://news.ycombinator.com/item?id=41099567) - [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
 * [2024-07-29, 11:14:42](https://news.ycombinator.com/item?id=41099517) - [A Blood Test Accurately Diagnosed Alzheimer's 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
 * [2024-07-29, 11:12:33](https://news.ycombinator.com/item?id=41099509) - [AMD may have delayed Ryzen 9000 launch due to a typo](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9000-launch-delay-due-to-typo-ryzen-7-9700x-ryzen-5-9600x-confirmed)
+* [2024-07-29, 10:01:37](https://news.ycombinator.com/item?id=41099262) - [Not So Secret: Analysis of KakaoTalk's Chat E2EE Feature](https://stulle123.github.io/posts/kakaotalk/secret-chat/)
 * [2024-07-29, 09:10:05](https://news.ycombinator.com/item?id=41099028) - [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
 * [2024-07-29, 08:52:52](https://news.ycombinator.com/item?id=41098931) - [Let's release Rust-based fish](https://github.com/fish-shell/fish-shell/issues/10633)
 * [2024-07-29, 08:50:57](https://news.ycombinator.com/item?id=41098922) - [Typewise (YC S22) Is Hiring a DevOps Engineer (Europe Timezone)](https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x)
