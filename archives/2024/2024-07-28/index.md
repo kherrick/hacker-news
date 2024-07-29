@@ -6,11 +6,13 @@
 
 * [2024-07-28, 23:16:27](https://news.ycombinator.com/item?id=41096736) - [Four co's are hoarding billions worth of Nvidia GPU chips. Meta has 350K of them](https://sherwood.news/tech/companies-hoarding-nvidia-gpu-chips-meta-tesla/)
 * [2024-07-28, 22:53:00](https://news.ycombinator.com/item?id=41096600) - [Be MacGyver](https://macgyver.com/be-macgyver/)
+* [2024-07-28, 22:47:28](https://news.ycombinator.com/item?id=41096561) - [50th anniversary of Vannevar Bush's passing](https://thetech.com/2024/07/11/anniversary-vannevar-bush-passing)
 * [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
 * [2024-07-28, 21:53:59](https://news.ycombinator.com/item?id=41096254) - [Rust for Rustaceans](https://rust-for-rustaceans.com/)
 * [2024-07-28, 21:46:53](https://news.ycombinator.com/item?id=41096212) - [Ask HN: How do you choose a hostname for personal devices?](https://news.ycombinator.com/item?id=41096212)
 * [2024-07-28, 21:40:47](https://news.ycombinator.com/item?id=41096187) - [Higher-kinded bounded polymorphism in OCaml](https://okmij.org/ftp/ML/higher-kind-poly.html)
 * [2024-07-28, 21:23:10](https://news.ycombinator.com/item?id=41096072) - [Temu's email unsubscribe page claims your Wi-Fi is disconnected](https://twitter.com/SwiftOnSecurity/status/1817303994735419560)
+* [2024-07-28, 21:20:55](https://news.ycombinator.com/item?id=41096054) - [Compare 75 AI Models on 200 Prompts Side by Side](https://aimodelreview.com)
 * [2024-07-28, 21:01:15](https://news.ycombinator.com/item?id=41095934) - [FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
 * [2024-07-28, 20:45:17](https://news.ycombinator.com/item?id=41095839) - [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
 * [2024-07-28, 20:42:03](https://news.ycombinator.com/item?id=41095814) - [Don't blindly prefer `emplace_back` to `push_back` in C++](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)

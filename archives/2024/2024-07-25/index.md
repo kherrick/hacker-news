@@ -42,6 +42,7 @@
 * [2024-07-25, 17:00:03](https://news.ycombinator.com/item?id=41070870) - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
 * [2024-07-25, 16:44:50](https://news.ycombinator.com/item?id=41070703) - [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
 * [2024-07-25, 16:26:50](https://news.ycombinator.com/item?id=41070517) - [We just caught our first \"BANANA \"](https://twitter.com/karinemellata/status/1805429294841446815)
+* [2024-07-25, 16:21:47](https://news.ycombinator.com/item?id=41070457) - [Fujifilm Announces Linux SDK, Helping Drone Makers Use GFX100 Cameras](https://petapixel.com/2024/07/25/fujifilm-announces-linux-sdk-helping-drone-makers-use-gfx100-cameras/)
 * [2024-07-25, 16:18:34](https://news.ycombinator.com/item?id=41070428) - [Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
 * [2024-07-25, 16:13:11](https://news.ycombinator.com/item?id=41070364) - [Costs from Global Outage Could Exceed $1B – But Determining Liability Is Complex](https://thelawreporters.com/costs-from-global-outage-could-exceed-1b-but-determining-liability-is-complex/)
 * [2024-07-25, 16:10:15](https://news.ycombinator.com/item?id=41070319) - [Japanese population sees greatest fall amid record foreigner growth and numbers](https://www.asahi.com/ajw/articles/15361310)
