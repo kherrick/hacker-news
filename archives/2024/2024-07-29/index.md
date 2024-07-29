@@ -7,6 +7,7 @@
 * [2024-07-29, 20:21:19](https://news.ycombinator.com/item?id=41103403) - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 * [2024-07-29, 19:59:13](https://news.ycombinator.com/item?id=41103244) - [Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL](https://cratedb.com/blog/hybrid-search-explained)
 * [2024-07-29, 19:55:36](https://news.ycombinator.com/item?id=41103220) - [A Crisis for Vultures Led to a Human Disaster: Half a Million Deaths](https://www.nytimes.com/2024/07/29/climate/vultures-india-poisoning.html)
+* [2024-07-29, 19:48:48](https://news.ycombinator.com/item?id=41103166) - [Future Ford's May Detect Speeding and Report You to the Cops](https://www.motorauthority.com/news/1143913_future-fords-might-detect-speeding-and-report-you-to-the-cops)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
 * [2024-07-29, 19:32:46](https://news.ycombinator.com/item?id=41103041) - [End of an Era: A Message from the Founder as We Announce the Closure of AppleVis](https://www.applevis.com/blog/end-era-message-founder-we-announce-closure-applevis)
 * [2024-07-29, 19:22:55](https://news.ycombinator.com/item?id=41102973) - [SpaceX in talks to land and recover Starship rocket off Australia's coast](https://www.reuters.com/technology/space/spacex-talks-land-recover-starship-rocket-off-australias-coast-2024-07-29/)
