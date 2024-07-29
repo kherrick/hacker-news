@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-07-29, 19:55:36",
+      "https://news.ycombinator.com/item?id=41103220"
+    ],
+    [
+      "A Crisis for Vultures Led to a Human Disaster: Half a Million Deaths",
+      "https://www.nytimes.com/2024/07/29/climate/vultures-india-poisoning.html"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 19:41:47",
       "https://news.ycombinator.com/item?id=41103101"
     ],
     [
       "CrowdStrike's impact on aviation",
       "https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 19:32:46",
+      "https://news.ycombinator.com/item?id=41103041"
+    ],
+    [
+      "End of an Era: A Message from the Founder as We Announce the Closure of AppleVis",
+      "https://www.applevis.com/blog/end-era-message-founder-we-announce-closure-applevis"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Do Penguins Have Knees? (2019)",
       "https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 16:08:19",
-      "https://news.ycombinator.com/item?id=41101494"
-    ],
-    [
-      "Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins",
-      "https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Virtual Apollo Guidance Computer",
       "https://github.com/virtualagc/virtualagc"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 15:35:14",
-      "https://news.ycombinator.com/item?id=41093916"
-    ],
-    [
-      "How simultaneous multithreading works under the hood",
-      "https://blog.codingconfessions.com/p/simultaneous-multithreading"
     ]
   ],
   [
