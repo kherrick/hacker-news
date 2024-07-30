@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 23:48:41](https://news.ycombinator.com/item?id=41104782) - [Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in medicine](https://www.nature.com/articles/s41746-024-01185-7)
 * [2024-07-29, 23:33:51](https://news.ycombinator.com/item?id=41104721) - [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
 * [2024-07-29, 23:31:57](https://news.ycombinator.com/item?id=41104709) - [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
 * [2024-07-29, 23:13:37](https://news.ycombinator.com/item?id=41104615) - [LG and Samsung Are Making TV Screens Disappear](https://spectrum.ieee.org/transparent-tv)
@@ -31,6 +32,7 @@
 * [2024-07-29, 19:22:02](https://news.ycombinator.com/item?id=41102966) - [Why is it so expensive to make games in the United States?](https://www.gamedeveloper.com/business/why-is-it-so-expensive-to-make-games-in-the-united-states-)
 * [2024-07-29, 19:09:01](https://news.ycombinator.com/item?id=41102862) - [McDonald's sales fall globally for first time in more than three years](https://www.reuters.com/business/retail-consumer/mcdonalds-posts-surprise-drop-quarterly-global-sales-spending-slows-2024-07-29/)
 * [2024-07-29, 18:39:48](https://news.ycombinator.com/item?id=41102645) - [I Remain Astounded by How Bad AT&T Customer Service Is](https://win-vector.com/2024/07/25/i-remain-astounded-by-how-bad-att-customer-service-is/)
+* [2024-07-29, 17:31:07](https://news.ycombinator.com/item?id=41102108) - [New Linguistics Technique Could Reveal Who Spoke First Indo-European Languages](https://www.scientificamerican.com/article/new-linguistics-technique-could-reveal-who-spoke-the-first-indo-european-languages/)
 * [2024-07-29, 17:24:36](https://news.ycombinator.com/item?id=41102053) - [US border agents must get warrant before cell phone searches,federal court rules](https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/)
 * [2024-07-29, 17:09:04](https://news.ycombinator.com/item?id=41101948) - [Attribution is Dying. Clicks are Dying. Marketing is Back to the 20th Century](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
 * [2024-07-29, 17:05:52](https://news.ycombinator.com/item?id=41101915) - [Over 900 Artifacts Recovered from Ming Dynasty Shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
