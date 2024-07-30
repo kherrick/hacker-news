@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 10:56:10",
+      "https://news.ycombinator.com/item?id=41107845"
+    ],
+    [
+      "FTC Wins Round Two in Its Non-Compete Ban Defense",
+      "https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 10:26:55",
       "https://news.ycombinator.com/item?id=41107721"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2024-07-30, 07:39:59",
+      "https://news.ycombinator.com/item?id=41106914"
+    ],
+    [
+      "Third-party cookies have got to go",
+      "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 07:00:41",
       "https://news.ycombinator.com/item?id=41106709"
     ],
@@ -37,6 +57,16 @@
     [
       "C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself",
       "https://jstrieb.github.io/posts/c-reflection-zig/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 06:50:40",
+      "https://news.ycombinator.com/item?id=41106633"
+    ],
+    [
+      "Implementing the \"one or more\" UI component",
+      "https://verbnounenter.net/one-or-more"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2024-07-29, 22:09:04",
-      "https://news.ycombinator.com/item?id=41104243"
-    ],
-    [
-      "How to save $13.27 on your SaaS bill",
-      "https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 20:21:19",
-      "https://news.ycombinator.com/item?id=41103403"
-    ],
-    [
-      "TreeSeg: Hierarchical Topic Segmentation of Large Transcripts",
-      "https://augmend.com/blog/TreeSeg"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 19:41:47",
       "https://news.ycombinator.com/item?id=41103101"
     ],
@@ -267,16 +277,6 @@
     [
       "Decline of Indian vultures led to 500k human deaths",
       "https://www.bbc.com/news/articles/c28e2pvzn3lo"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 00:00:52",
-      "https://news.ycombinator.com/item?id=41074703"
-    ],
-    [
-      "How to build highly-debuggable C++ binaries",
-      "https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html"
     ]
   ],
   [
