@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 10:56:10](https://news.ycombinator.com/item?id=41107845) - [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
 * [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
 * [2024-07-30, 09:18:58](https://news.ycombinator.com/item?id=41107396) - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
+* [2024-07-30, 07:39:59](https://news.ycombinator.com/item?id=41106914) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 * [2024-07-30, 07:00:41](https://news.ycombinator.com/item?id=41106709) - [Jiga (YC W21) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
+* [2024-07-30, 06:50:40](https://news.ycombinator.com/item?id=41106633) - [Implementing the \"one or more\" UI component](https://verbnounenter.net/one-or-more)
 * [2024-07-30, 06:22:28](https://news.ycombinator.com/item?id=41106505) - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
 * [2024-07-30, 05:12:42](https://news.ycombinator.com/item?id=41106205) - [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
 * [2024-07-30, 04:46:37](https://news.ycombinator.com/item?id=41106109) - [Video is a language for making movies](https://lang.video/)
