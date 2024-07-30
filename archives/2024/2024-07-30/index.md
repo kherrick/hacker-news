@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 21:47:25](https://news.ycombinator.com/item?id=41114456) - [Microsoft stock drops over 6% after results fall short in AI disappointment](https://finance.yahoo.com/news/microsoft-stock-drops-over-6-after-results-fall-short-in-latest-ai-disappointment-201321390.html)
+* [2024-07-30, 21:21:02](https://news.ycombinator.com/item?id=41114250) - [Coinbase appears to have violated campaign finance laws with 25M donation](https://www.citationneeded.news/coinbase-campaign-finance-violation/)
 * [2024-07-30, 20:06:56](https://news.ycombinator.com/item?id=41113575) - [Red Team Tools Collection](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 * [2024-07-30, 19:48:42](https://news.ycombinator.com/item?id=41113408) - [Astronomical Accidents, and the Proxima Centauri 'Signal' That Wasn't](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
 * [2024-07-30, 19:30:08](https://news.ycombinator.com/item?id=41113236) - [Anthropic is scraping websites so fast it's causing problems](https://pivot-to-ai.com/2024/07/29/anthropic-is-scraping-websites-so-fast-its-causing-problems/)
