@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 12:38:04",
+      "https://news.ycombinator.com/item?id=41108519"
+    ],
+    [
+      "Rust Port for Fish Shell Is Almost Ready for a Beta Release",
+      "https://news.itsfoss.com/fish-shell-rust-beta/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 11:50:01",
       "https://news.ycombinator.com/item?id=41108155"
     ],
@@ -17,6 +27,16 @@
     [
       "FTC Wins Round Two in Its Non-Compete Ban Defense",
       "https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 10:47:42",
+      "https://news.ycombinator.com/item?id=41107803"
+    ],
+    [
+      "Building a YouTube Video Summarizer with LLM and yt-dlp",
+      "https://shekhargulati.com/2024/07/30/building-a-youtube-video-summarizer-with-llm-and-yt-dlp/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself",
       "https://jstrieb.github.io/posts/c-reflection-zig/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 06:50:40",
-      "https://news.ycombinator.com/item?id=41106633"
-    ],
-    [
-      "Implementing the \"one or more\" UI component",
-      "https://verbnounenter.net/one-or-more"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "FastHTML – Modern web applications in pure Python",
       "https://fastht.ml/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 22:15:53",
-      "https://news.ycombinator.com/item?id=41104293"
-    ],
-    [
-      "One-man SaaS, 9 Years In",
-      "https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/"
     ]
   ],
   [
