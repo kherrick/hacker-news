@@ -11,22 +11,32 @@
   ],
   [
     [
+      "2024-07-30, 12:32:05",
+      "https://news.ycombinator.com/item?id=41108479"
+    ],
+    [
+      "PGP: The software that changed Internet Privacy and Cryptography",
+      "https://www.youtube.com/watch?v=0kcDBe6AkQE"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 12:29:27",
+      "https://news.ycombinator.com/item?id=41108465"
+    ],
+    [
+      "OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011",
+      "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 11:50:01",
       "https://news.ycombinator.com/item?id=41108155"
     ],
     [
       "AI and the Next Computing Platforms with Jensen Huang and Mark Zuckerberg",
       "https://www.youtube.com/watch?v=w-cmMcMZoZ4"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 10:56:10",
-      "https://news.ycombinator.com/item?id=41107845"
-    ],
-    [
-      "FTC Wins Round Two in Its Non-Compete Ban Defense",
-      "https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2024-07-30, 09:18:58",
-      "https://news.ycombinator.com/item?id=41107396"
+      "2024-07-30, 09:32:56",
+      "https://news.ycombinator.com/item?id=41107480"
     ],
     [
-      "The lie of music discovery algorithms",
-      "https://www.zeynepevecen.dev/writing/music"
+      "Butterflies accumulate static electricity to attract pollen without contact",
+      "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)",
       "https://canarytokens.org/nest/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 07:39:59",
-      "https://news.ycombinator.com/item?id=41106914"
-    ],
-    [
-      "Third-party cookies have got to go",
-      "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself",
       "https://jstrieb.github.io/posts/c-reflection-zig/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 06:50:40",
+      "https://news.ycombinator.com/item?id=41106633"
+    ],
+    [
+      "Implementing the \"one or more\" UI component",
+      "https://verbnounenter.net/one-or-more"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-07-29, 23:48:41",
-      "https://news.ycombinator.com/item?id=41104782"
-    ],
-    [
-      "Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in medicine",
-      "https://www.nature.com/articles/s41746-024-01185-7"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 23:33:51",
       "https://news.ycombinator.com/item?id=41104721"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-07-29, 22:15:53",
+      "https://news.ycombinator.com/item?id=41104293"
+    ],
+    [
+      "One-man SaaS, 9 Years In",
+      "https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 19:41:47",
       "https://news.ycombinator.com/item?id=41103101"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2024-07-29, 17:31:07",
-      "https://news.ycombinator.com/item?id=41102108"
+      "2024-07-29, 12:56:23",
+      "https://news.ycombinator.com/item?id=41100094"
     ],
     [
-      "New Linguistics Technique Could Reveal Who Spoke First Indo-European Languages",
-      "https://www.scientificamerican.com/article/new-linguistics-technique-could-reveal-who-spoke-the-first-indo-european-languages/"
+      "Launch HN: Roame (YC S23) – Flight search engine for your credit card points",
+      "https://news.ycombinator.com/item?id=41100094"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Ask HN: What are you using to parse PDFs for RAG?",
       "https://news.ycombinator.com/item?id=41072632"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 01:54:27",
-      "https://news.ycombinator.com/item?id=41064068"
-    ],
-    [
-      "The Story of VaccinateCA (2022)",
-      "https://worksinprogress.co/issue/the-story-of-vaccinateca/"
     ]
   ],
   [
