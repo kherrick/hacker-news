@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-30, 17:56:27",
+      "https://news.ycombinator.com/item?id=41112160"
+    ],
+    [
+      "How the Electricity Markets Respond to a Nuclear Trip",
+      "https://blog.gridstatus.io/ercot-nuclear-trip/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 17:18:14",
+      "https://news.ycombinator.com/item?id=41111681"
+    ],
+    [
+      "Open Source Claude Artifacts",
+      "https://github.com/e2b-dev/ai-artifacts"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 16:41:13",
       "https://news.ycombinator.com/item?id=41111145"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-07-30, 15:59:43",
-      "https://news.ycombinator.com/item?id=41110530"
-    ],
-    [
-      "CSC ServiceWorks laundry machine coin bypass (2023)",
-      "https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 15:07:51",
       "https://news.ycombinator.com/item?id=41109891"
     ],
@@ -147,16 +157,6 @@
     [
       "Show HN: A video editing SDK that runs in the browser",
       "https://rendley.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 12:29:27",
-      "https://news.ycombinator.com/item?id=41108465"
-    ],
-    [
-      "OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011",
-      "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
     ]
   ],
   [
