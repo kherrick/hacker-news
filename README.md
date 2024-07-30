@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-30, 04:46:37](https://news.ycombinator.com/item?id=41106109) - [Video is a language for making movies](https://lang.video/)
-* [2024-07-30, 04:26:29](https://news.ycombinator.com/item?id=41106041) - [Lewis H. Lapham, Harper's Editor and Piercing Columnist, Dies at 89](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
+* [2024-07-30, 04:26:29](https://news.ycombinator.com/item?id=41106041) - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
 * [2024-07-30, 04:07:55](https://news.ycombinator.com/item?id=41105971) - [Monetization and Monopolies: How the Internet You Loved Died](https://radicalcontributions.substack.com/p/monetization-amp-monopolies-how-the-internet-you-loved-died)
 * [2024-07-30, 03:59:52](https://news.ycombinator.com/item?id=41105944) - [If We Want a Shift to Walking, We Need to Prioritize Dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
 * [2024-07-30, 03:42:10](https://news.ycombinator.com/item?id=41105881) - [A Visual Guide to LLM Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 * [2024-07-30, 03:19:23](https://news.ycombinator.com/item?id=41105779) - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
 * [2024-07-30, 02:34:53](https://news.ycombinator.com/item?id=41105617) - [Orca: WebAssembly Apps Without the Web](https://orca-app.dev/index.html)
-* [2024-07-30, 02:14:28](https://news.ycombinator.com/item?id=41105527) - [Using Agents to Not Use Agents: How we built our Text-to-SQL Q & A system](https://idinsight.github.io/tech-blog/blog/aam_pseudo_agent/)
 * [2024-07-30, 01:21:53](https://news.ycombinator.com/item?id=41105285) - [A.I.-Powered Trap That Zaps Invasive Lanternflies](https://www.smithsonianmag.com/innovation/this-high-schooler-invented-an-ai-powered-trap-that-zaps-invasive-lanternflies-180983918/)
 * [2024-07-30, 01:16:23](https://news.ycombinator.com/item?id=41105261) - [Microjs](http://microjs.com/)
 * [2024-07-30, 00:27:03](https://news.ycombinator.com/item?id=41104997) - [AWS Code Commit Ceased Onboarding New Customers](https://repost.aws/questions/QUshILm0xbTjWJZSD8afYVgA/codecommit-cannot-create-a-repository)
@@ -29,6 +28,7 @@
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 11:12:29](https://news.ycombinator.com/item?id=41077647) - [The evolution of Ruby's Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 00:00:52](https://news.ycombinator.com/item?id=41074703) - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
+* [2024-07-25, 19:50:18](https://news.ycombinator.com/item?id=41072632) - [Ask HN: What are you using to parse PDFs for RAG?](https://news.ycombinator.com/item?id=41072632)
 * [2024-07-24, 23:59:10](https://news.ycombinator.com/item?id=41063489) - [Hackers Exploited a PC Driving SIM to Pull Off Disney Data Breach](https://www.thedrive.com/news/culture/hackers-exploited-a-pc-driving-sim-to-pull-off-massive-disney-data-breach)
 
 ## [Archives](archives/index.md)
