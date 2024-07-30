@@ -6,6 +6,7 @@
 
 * [2024-07-30, 17:56:27](https://news.ycombinator.com/item?id=41112160) - [How the Electricity Markets Respond to a Nuclear Trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
 * [2024-07-30, 17:51:12](https://news.ycombinator.com/item?id=41112105) - [Show HN: Browser Based RDP and SSH](https://www.tsncglobal.com/2024/07/apache-guacamole-installation-in-docker.html)
+* [2024-07-30, 17:51:08](https://news.ycombinator.com/item?id=41112103) - [The Hitchhiker's Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 * [2024-07-30, 17:37:12](https://news.ycombinator.com/item?id=41111922) - [VMware ESXi Hit by Zero-Day Auth Bypass, Ransomware Attacks Surge](https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24505)
 * [2024-07-30, 17:18:14](https://news.ycombinator.com/item?id=41111681) - [Open Source Claude Artifacts](https://github.com/e2b-dev/ai-artifacts)
 * [2024-07-30, 17:01:32](https://news.ycombinator.com/item?id=41111441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-30, 17:56:27](https://news.ycombinator.com/item?id=41112160) - [How the Electricity Markets Respond to a Nuclear Trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
-* [2024-07-30, 17:18:14](https://news.ycombinator.com/item?id=41111681) - [Open Source Claude Artifacts](https://github.com/e2b-dev/ai-artifacts)
+* [2024-07-30, 17:51:08](https://news.ycombinator.com/item?id=41112103) - [The Hitchhiker's Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
+* [2024-07-30, 16:53:11](https://news.ycombinator.com/item?id=41111317) - [Federal regulator says Amazon can be held responsible for faulty goods](https://www.cnbc.com/2024/07/30/cpsc-says-amazon-responsible-for-faulty-goods-sold-on-its-marketplace.html)
 * [2024-07-30, 16:41:13](https://news.ycombinator.com/item?id=41111145) - [Meta to pay Texas $1.4B for using facial recognition without users' permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
 * [2024-07-30, 16:40:13](https://news.ycombinator.com/item?id=41111129) - [Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
@@ -11,7 +12,6 @@
 * [2024-07-30, 16:20:24](https://news.ycombinator.com/item?id=41110860) - [A new approach to error handling](https://boomla.com/docs/error-handling)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO Painless and Open Source](https://news.ycombinator.com/item?id=41110850)
 * [2024-07-30, 15:07:51](https://news.ycombinator.com/item?id=41109891) - [Why doesn't advice work?](https://dynomight.substack.com/p/advice)
-* [2024-07-30, 15:00:34](https://news.ycombinator.com/item?id=41109822) - [Meta Launches AI Studio in US](https://ai.meta.com/ai-studio/)
 * [2024-07-30, 14:58:54](https://news.ycombinator.com/item?id=41109799) - [A eulogy for Dark Sky, a data visualization masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2024-07-30, 14:00:45](https://news.ycombinator.com/item?id=41109292) - [Making Machines Move](https://fly.io/blog/machine-migrations/)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike? (2022)](https://siliconfolklore.com/internet-history/)
