@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-30, 16:31:41](https://news.ycombinator.com/item?id=41111011) - [Dear Safari, Things I Hate About You](https://www.magiclasso.co/insights/dear-safari/)
+* [2024-07-30, 16:25:42](https://news.ycombinator.com/item?id=41110933) - [ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:(](https://evanp.me/2024/07/26/health-update/)
+* [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO Painless and Open Source](https://news.ycombinator.com/item?id=41110850)
 * [2024-07-30, 15:59:43](https://news.ycombinator.com/item?id=41110530) - [CSC ServiceWorks laundry machine coin bypass](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml)
-* [2024-07-30, 15:48:24](https://news.ycombinator.com/item?id=41110355) - [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
 * [2024-07-30, 15:42:06](https://news.ycombinator.com/item?id=41110269) - [DARPA: Translating All C to Rust (Tractor)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-07-30, 15:37:16](https://news.ycombinator.com/item?id=41110195) - [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)
 * [2024-07-30, 15:11:44](https://news.ycombinator.com/item?id=41109926) - [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
@@ -24,11 +26,9 @@
 * [2024-07-30, 03:19:23](https://news.ycombinator.com/item?id=41105779) - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
 * [2024-07-30, 01:16:23](https://news.ycombinator.com/item?id=41105261) - [Microjs](http://microjs.com/)
 * [2024-07-29, 23:33:51](https://news.ycombinator.com/item?id=41104721) - [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
-* [2024-07-29, 23:13:37](https://news.ycombinator.com/item?id=41104615) - [LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
 * [2024-07-29, 22:52:56](https://news.ycombinator.com/item?id=41104523) - [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
 * [2024-07-29, 22:18:01](https://news.ycombinator.com/item?id=41104305) - [FastHTML – Modern web applications in pure Python](https://fastht.ml/)
 * [2024-07-29, 17:01:49](https://news.ycombinator.com/item?id=41101882) - [Scientists Uncover the Ancient Origins of Baobab Trees in Genetic Study](https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/)
-* [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-25, 19:50:19](https://news.ycombinator.com/item?id=41072633) - [The Infinity Machine](https://www.chiark.greenend.org.uk/~sgtatham/infinity.html)
 
 ## [Archives](archives/index.md)

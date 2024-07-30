@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 16:31:41](https://news.ycombinator.com/item?id=41111011) - [Dear Safari, Things I Hate About You](https://www.magiclasso.co/insights/dear-safari/)
+* [2024-07-30, 16:25:42](https://news.ycombinator.com/item?id=41110933) - [ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:(](https://evanp.me/2024/07/26/health-update/)
+* [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO Painless and Open Source](https://news.ycombinator.com/item?id=41110850)
 * [2024-07-30, 15:59:43](https://news.ycombinator.com/item?id=41110530) - [CSC ServiceWorks laundry machine coin bypass](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml)
 * [2024-07-30, 15:48:24](https://news.ycombinator.com/item?id=41110355) - [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
 * [2024-07-30, 15:42:06](https://news.ycombinator.com/item?id=41110269) - [DARPA: Translating All C to Rust (Tractor)](https://www.darpa.mil/program/translating-all-c-to-rust)
