@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41106041"
     ],
     [
-      "Lewis H. Lapham, Harper's Editor and Piercing Columnist, Dies at 89",
+      "Lewis Lapham has died",
       "https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Orca: WebAssembly Apps Without the Web",
       "https://orca-app.dev/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 02:14:28",
-      "https://news.ycombinator.com/item?id=41105527"
-    ],
-    [
-      "Using Agents to Not Use Agents: How we built our Text-to-SQL Q & A system",
-      "https://idinsight.github.io/tech-blog/blog/aam_pseudo_agent/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "How to build highly-debuggable C++ binaries",
       "https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 19:50:18",
+      "https://news.ycombinator.com/item?id=41072632"
+    ],
+    [
+      "Ask HN: What are you using to parse PDFs for RAG?",
+      "https://news.ycombinator.com/item?id=41072632"
     ]
   ],
   [
