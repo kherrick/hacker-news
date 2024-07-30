@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-30, 03:19:23](https://news.ycombinator.com/item?id=41105779) - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
 * [2024-07-30, 00:12:06](https://news.ycombinator.com/item?id=41104908) - [Blood test for colon cancer screening approved by US regulators](https://apnews.com/article/colon-cancer-blood-test-fda-guardant-a2c2cda2cdaa52f081860f0faed1e5cf)
 * [2024-07-29, 23:33:51](https://news.ycombinator.com/item?id=41104721) - [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
 * [2024-07-29, 23:31:57](https://news.ycombinator.com/item?id=41104709) - [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
@@ -26,7 +27,6 @@
 * [2024-07-28, 15:59:29](https://news.ycombinator.com/item?id=41094044) - [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
 * [2024-07-28, 15:09:20](https://news.ycombinator.com/item?id=41093719) - [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
 * [2024-07-27, 23:33:45](https://news.ycombinator.com/item?id=41090134) - [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
-* [2024-07-27, 16:10:43](https://news.ycombinator.com/item?id=41087447) - [Show HN: Burrow is a globally distributed, serverless HTTP proxy](https://github.com/myzie/burrow)
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 11:12:29](https://news.ycombinator.com/item?id=41077647) - [The evolution of Ruby's Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 00:00:52](https://news.ycombinator.com/item?id=41074703) - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
