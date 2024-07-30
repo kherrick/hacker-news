@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-07-30, 17:55:55",
-      "https://news.ycombinator.com/item?id=41112154"
-    ],
-    [
-      "Show HN: I made a tool to easily transform and manipulate your JSON data",
-      "https://www.jsontransformer.com/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 17:51:08",
       "https://news.ycombinator.com/item?id=41112103"
     ],
@@ -97,16 +87,6 @@
     [
       "Before LA became Tinseltown, it was an oil town",
       "https://www.noemamag.com/its-oil-that-makes-la-boil/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 16:35:04",
-      "https://news.ycombinator.com/item?id=41111062"
-    ],
-    [
-      "JavaScript garbage collection and closures",
-      "https://jakearchibald.com/2024/garbage-collection-and-closures/"
     ]
   ],
   [
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2024-07-30, 04:26:29",
+      "https://news.ycombinator.com/item?id=41106041"
+    ],
+    [
+      "Lewis Lapham has died",
+      "https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 03:42:10",
       "https://news.ycombinator.com/item?id=41105881"
     ],
     [
       "A Visual Guide to LLM Quantization",
       "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 03:19:23",
+      "https://news.ycombinator.com/item?id=41105779"
+    ],
+    [
+      "Diffusion Training from Scratch on a Micro-Budget",
+      "https://arxiv.org/abs/2407.15811"
     ]
   ],
   [
