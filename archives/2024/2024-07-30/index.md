@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 15:37:16](https://news.ycombinator.com/item?id=41110195) - [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)
 * [2024-07-30, 15:25:43](https://news.ycombinator.com/item?id=41110074) - [White Dudes for Harris Rally Raises Millions but Then Sees X Account Suspended](https://deadline.com/2024/07/white-dudes-harris-rally-twitter-x-account-suspended-elon-musk-1236026283/)
 * [2024-07-30, 15:11:44](https://news.ycombinator.com/item?id=41109926) - [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
 * [2024-07-30, 15:07:51](https://news.ycombinator.com/item?id=41109891) - [Why Doesn't Advice Work?](https://dynomight.substack.com/p/advice)
@@ -11,6 +12,7 @@
 * [2024-07-30, 14:58:54](https://news.ycombinator.com/item?id=41109799) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2024-07-30, 14:01:05](https://news.ycombinator.com/item?id=41109295) - [Marcus Hutchins - Why Microsoft Is to Blame for the CrowdStrike Outage](https://www.youtube.com/watch?v=EGttFWntctU)
 * [2024-07-30, 14:00:45](https://news.ycombinator.com/item?id=41109292) - [Making Machines Move](https://fly.io/blog/machine-migrations/)
+* [2024-07-30, 13:39:31](https://news.ycombinator.com/item?id=41109077) - [Show HN: OneMillionColors – explore, add and customize One Million Colors](https://onemillioncolors.com/)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
 * [2024-07-30, 13:15:47](https://news.ycombinator.com/item?id=41108843) - [Show HN: A Video Editing SDK That Runs in the Browser](https://rendley.com/)
 * [2024-07-30, 13:15:25](https://news.ycombinator.com/item?id=41108841) - [Please Stop Reinventing JSX](https://gist.github.com/kevmo314/7bbf5d5868b973b53898d12b977b15b7)
