@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-30, 19:48:42](https://news.ycombinator.com/item?id=41113408) - [Astronomical Accidents, and the Proxima Centauri 'Signal' That Wasn't](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
-* [2024-07-30, 19:30:08](https://news.ycombinator.com/item?id=41113236) - [Anthropic is scraping websites so fast it's causing problems](https://pivot-to-ai.com/2024/07/29/anthropic-is-scraping-websites-so-fast-its-causing-problems/)
 * [2024-07-30, 19:18:16](https://news.ycombinator.com/item?id=41113101) - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 18:55:14](https://news.ycombinator.com/item?id=41112855) - [Fake Job Interviews Are Securities Fraud](https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
@@ -30,6 +29,7 @@
 * [2024-07-29, 17:01:49](https://news.ycombinator.com/item?id=41101882) - [Scientists uncover the ancient origins of baobab trees](https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 * [2024-07-26, 23:07:24](https://news.ycombinator.com/item?id=41083119) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
+* [2024-07-25, 19:50:19](https://news.ycombinator.com/item?id=41072633) - [The Infinity Machine](https://www.chiark.greenend.org.uk/~sgtatham/infinity.html)
 
 ## [Archives](archives/index.md)
 
