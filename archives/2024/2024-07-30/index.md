@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 15:59:43](https://news.ycombinator.com/item?id=41110530) - [CSC ServiceWorks laundry machine coin bypass](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml)
+* [2024-07-30, 15:48:24](https://news.ycombinator.com/item?id=41110355) - [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
 * [2024-07-30, 15:42:06](https://news.ycombinator.com/item?id=41110269) - [DARPA: Translating All C to Rust (Tractor)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-07-30, 15:37:16](https://news.ycombinator.com/item?id=41110195) - [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)
 * [2024-07-30, 15:25:43](https://news.ycombinator.com/item?id=41110074) - [White Dudes for Harris Rally Raises Millions but Then Sees X Account Suspended](https://deadline.com/2024/07/white-dudes-harris-rally-twitter-x-account-suspended-elon-musk-1236026283/)
