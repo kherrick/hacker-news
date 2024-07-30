@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-07-30, 18:55:10",
+      "https://news.ycombinator.com/item?id=41112854"
+    ],
+    [
+      "Porffor: A from-scratch ahead-of-time JS engine",
+      "https://porffor.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 18:49:02",
+      "https://news.ycombinator.com/item?id=41112794"
+    ],
+    [
+      "Running the latest Llama 3.1 8B on Raspberry Pi [video]",
+      "https://www.youtube.com/watch?v=KcWKTdkUpoQ"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 17:56:27",
       "https://news.ycombinator.com/item?id=41112160"
     ],
     [
-      "How the Electricity Markets Respond to a Nuclear Trip",
+      "How the electricity markets respond to a nuclear trip",
       "https://blog.gridstatus.io/ercot-nuclear-trip/"
     ]
   ],
@@ -17,16 +37,6 @@
     [
       "The Hitchhiker's Guide to Logical Verification [pdf]",
       "https://browncs1951x.github.io/static/files/hitchhikersguide.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 16:53:11",
-      "https://news.ycombinator.com/item?id=41111317"
-    ],
-    [
-      "Federal regulator says Amazon can be held responsible for faulty goods",
-      "https://www.cnbc.com/2024/07/30/cpsc-says-amazon-responsible-for-faulty-goods-sold-on-its-marketplace.html"
     ]
   ],
   [
@@ -105,8 +115,18 @@
       "https://news.ycombinator.com/item?id=41110850"
     ],
     [
-      "Launch HN: SSOReady (YC W24) – Making SAML SSO Painless and Open Source",
+      "Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source",
       "https://news.ycombinator.com/item?id=41110850"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 15:42:06",
+      "https://news.ycombinator.com/item?id=41110269"
+    ],
+    [
+      "Translating All C to Rust (TRACTOR)",
+      "https://www.darpa.mil/program/translating-all-c-to-rust"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-07-30, 03:59:52",
-      "https://news.ycombinator.com/item?id=41105944"
-    ],
-    [
-      "If we want a shift to walking, we need to prioritize dignity",
-      "https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 03:42:10",
       "https://news.ycombinator.com/item?id=41105881"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Stempad – Fast Online Scientific Writing",
       "https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 19:50:19",
-      "https://news.ycombinator.com/item?id=41072633"
-    ],
-    [
-      "The Infinity Machine",
-      "https://www.chiark.greenend.org.uk/~sgtatham/infinity.html"
     ]
   ]
 ]
