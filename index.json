@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 15:42:06",
+      "https://news.ycombinator.com/item?id=41110269"
+    ],
+    [
+      "DARPA: Translating All C to Rust (Tractor)",
+      "https://www.darpa.mil/program/translating-all-c-to-rust"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 15:37:16",
       "https://news.ycombinator.com/item?id=41110195"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41109799"
     ],
     [
-      "A Eulogy for Dark Sky, a Data Visualization Masterpiece",
+      "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
       "https://nightingaledvs.com/dark-sky-weather-data-viz/"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself",
       "https://jstrieb.github.io/posts/c-reflection-zig/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 06:50:40",
-      "https://news.ycombinator.com/item?id=41106633"
-    ],
-    [
-      "Implementing the “one or more” UI component",
-      "https://verbnounenter.net/one-or-more"
     ]
   ],
   [
