@@ -25,9 +25,9 @@
 * [2024-07-29, 15:23:42](https://news.ycombinator.com/item?id=41101144) - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
-* [2024-07-28, 03:15:56](https://news.ycombinator.com/item?id=41091004) - [Neuroscientists Battle Furiously over Jennifer Aniston](https://www.npr.org/sections/krulwich/2012/03/30/149685880/neuroscientists-battle-furiously-over-jennifer-aniston)
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 11:12:29](https://news.ycombinator.com/item?id=41077647) - [The evolution of Ruby's Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
+* [2024-07-26, 07:18:47](https://news.ycombinator.com/item?id=41076513) - [Decline of Indian vultures led to 500k human deaths](https://www.bbc.com/news/articles/c28e2pvzn3lo)
 * [2024-07-25, 19:50:18](https://news.ycombinator.com/item?id=41072632) - [Ask HN: What are you using to parse PDFs for RAG?](https://news.ycombinator.com/item?id=41072632)
 * [2024-07-24, 23:59:10](https://news.ycombinator.com/item?id=41063489) - [Hackers Exploited a PC Driving SIM to Pull Off Disney Data Breach](https://www.thedrive.com/news/culture/hackers-exploited-a-pc-driving-sim-to-pull-off-massive-disney-data-breach)
 
