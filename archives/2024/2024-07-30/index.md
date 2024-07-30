@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
+* [2024-07-30, 09:18:58](https://news.ycombinator.com/item?id=41107396) - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
 * [2024-07-30, 07:00:41](https://news.ycombinator.com/item?id=41106709) - [Jiga (YC W21) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 06:22:28](https://news.ycombinator.com/item?id=41106505) - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
