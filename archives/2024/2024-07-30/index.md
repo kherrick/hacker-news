@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 15:42:06](https://news.ycombinator.com/item?id=41110269) - [DARPA: Translating All C to Rust (Tractor)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-07-30, 15:37:16](https://news.ycombinator.com/item?id=41110195) - [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)
 * [2024-07-30, 15:25:43](https://news.ycombinator.com/item?id=41110074) - [White Dudes for Harris Rally Raises Millions but Then Sees X Account Suspended](https://deadline.com/2024/07/white-dudes-harris-rally-twitter-x-account-suspended-elon-musk-1236026283/)
 * [2024-07-30, 15:11:44](https://news.ycombinator.com/item?id=41109926) - [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
