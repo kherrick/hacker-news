@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 22:39:21](https://news.ycombinator.com/item?id=41114839) - [Our Audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 22:04:39](https://news.ycombinator.com/item?id=41114569) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
 * [2024-07-30, 21:47:25](https://news.ycombinator.com/item?id=41114456) - [Microsoft stock drops over 6% after results fall short in AI disappointment](https://finance.yahoo.com/news/microsoft-stock-drops-over-6-after-results-fall-short-in-latest-ai-disappointment-201321390.html)
 * [2024-07-30, 21:21:02](https://news.ycombinator.com/item?id=41114250) - [Coinbase appears to have violated campaign finance laws with 25M donation](https://www.citationneeded.news/coinbase-campaign-finance-violation/)
