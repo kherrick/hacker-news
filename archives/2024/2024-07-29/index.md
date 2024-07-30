@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
 * [2024-07-29, 23:33:51](https://news.ycombinator.com/item?id=41104721) - [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
+* [2024-07-29, 23:31:57](https://news.ycombinator.com/item?id=41104709) - [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
 * [2024-07-29, 23:13:37](https://news.ycombinator.com/item?id=41104615) - [LG and Samsung Are Making TV Screens Disappear](https://spectrum.ieee.org/transparent-tv)
 * [2024-07-29, 22:59:15](https://news.ycombinator.com/item?id=41104561) - [Java 21 Virtual Threads – Dude, Where's My Lock?](https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d)
 * [2024-07-29, 22:52:56](https://news.ycombinator.com/item?id=41104523) - [Sam 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
+* [2024-07-29, 22:50:45](https://news.ycombinator.com/item?id=41104504) - [DigiCert Revocation Incident (CNAME Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 * [2024-07-29, 22:36:23](https://news.ycombinator.com/item?id=41104395) - [PasteBar – Limitless, Free Clipboard Manager for Mac and Windows. Open Source](https://github.com/PasteBar/PasteBarApp)
+* [2024-07-29, 22:18:01](https://news.ycombinator.com/item?id=41104305) - [FastHTML – Modern web applications in pure Python](https://fastht.ml/)
 * [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [Running One-man SaaS for 9 Years](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
 * [2024-07-29, 22:09:04](https://news.ycombinator.com/item?id=41104243) - [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
 * [2024-07-29, 21:40:42](https://news.ycombinator.com/item?id=41104077) - [The music industry is engineering artist popularity](https://www.theguardian.com/music/article/2024/jul/29/the-music-industry-is-engineering-artist-popularity-and-listeners-are-right-to-be-angry)
