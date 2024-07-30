@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-30, 17:51:12](https://news.ycombinator.com/item?id=41112105) - [Show HN: Browser Based RDP and SSH](https://www.tsncglobal.com/2024/07/apache-guacamole-installation-in-docker.html)
 * [2024-07-30, 16:41:13](https://news.ycombinator.com/item?id=41111145) - [Meta to pay Texas $1.4B for using facial recognition without users' permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
 * [2024-07-30, 16:40:13](https://news.ycombinator.com/item?id=41111129) - [Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
@@ -27,6 +26,7 @@
 * [2024-07-30, 03:59:52](https://news.ycombinator.com/item?id=41105944) - [If we want a shift to walking, we need to prioritize dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
 * [2024-07-30, 03:42:10](https://news.ycombinator.com/item?id=41105881) - [A Visual Guide to LLM Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 * [2024-07-30, 03:19:23](https://news.ycombinator.com/item?id=41105779) - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
+* [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 * [2024-07-29, 17:01:49](https://news.ycombinator.com/item?id=41101882) - [Scientists uncover the ancient origins of baobab trees](https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 * [2024-07-25, 19:50:19](https://news.ycombinator.com/item?id=41072633) - [The Infinity Machine](https://www.chiark.greenend.org.uk/~sgtatham/infinity.html)
