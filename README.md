@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-30, 07:00:41](https://news.ycombinator.com/item?id=41106709) - [Jiga (YC W21) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
+* [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 06:22:28](https://news.ycombinator.com/item?id=41106505) - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
 * [2024-07-30, 05:12:42](https://news.ycombinator.com/item?id=41106205) - [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
 * [2024-07-30, 04:46:37](https://news.ycombinator.com/item?id=41106109) - [Video is a language for making movies](https://lang.video/)
 * [2024-07-30, 04:26:29](https://news.ycombinator.com/item?id=41106041) - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
-* [2024-07-30, 04:07:55](https://news.ycombinator.com/item?id=41105971) - [Monetization and Monopolies: How the Internet You Loved Died](https://radicalcontributions.substack.com/p/monetization-amp-monopolies-how-the-internet-you-loved-died)
 * [2024-07-30, 03:42:10](https://news.ycombinator.com/item?id=41105881) - [A Visual Guide to LLM Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 * [2024-07-30, 03:19:23](https://news.ycombinator.com/item?id=41105779) - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
 * [2024-07-30, 02:34:53](https://news.ycombinator.com/item?id=41105617) - [Orca: WebAssembly Apps Without the Web](https://orca-app.dev/index.html)
