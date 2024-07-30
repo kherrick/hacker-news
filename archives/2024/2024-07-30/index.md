@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 17:51:12](https://news.ycombinator.com/item?id=41112105) - [Show HN: Browser Based RDP and SSH](https://www.tsncglobal.com/2024/07/apache-guacamole-installation-in-docker.html)
 * [2024-07-30, 17:37:12](https://news.ycombinator.com/item?id=41111922) - [VMware ESXi Hit by Zero-Day Auth Bypass, Ransomware Attacks Surge](https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24505)
 * [2024-07-30, 17:01:32](https://news.ycombinator.com/item?id=41111441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-07-30, 16:53:11](https://news.ycombinator.com/item?id=41111317) - [Amazon can be held responsible for faulty goods sold on its marketplace](https://www.cnbc.com/2024/07/30/cpsc-says-amazon-responsible-for-faulty-goods-sold-on-its-marketplace.html)
