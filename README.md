@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-30, 05:12:42](https://news.ycombinator.com/item?id=41106205) - [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
 * [2024-07-30, 04:46:37](https://news.ycombinator.com/item?id=41106109) - [Video is a language for making movies](https://lang.video/)
 * [2024-07-30, 04:26:29](https://news.ycombinator.com/item?id=41106041) - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
 * [2024-07-30, 04:07:55](https://news.ycombinator.com/item?id=41105971) - [Monetization and Monopolies: How the Internet You Loved Died](https://radicalcontributions.substack.com/p/monetization-amp-monopolies-how-the-internet-you-loved-died)
@@ -20,7 +21,6 @@
 * [2024-07-29, 22:09:04](https://news.ycombinator.com/item?id=41104243) - [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
 * [2024-07-29, 20:21:19](https://news.ycombinator.com/item?id=41103403) - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
-* [2024-07-29, 16:10:07](https://news.ycombinator.com/item?id=41101502) - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
 * [2024-07-29, 15:23:42](https://news.ycombinator.com/item?id=41101144) - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
