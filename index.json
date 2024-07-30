@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 03:19:23",
+      "https://news.ycombinator.com/item?id=41105779"
+    ],
+    [
+      "Diffusion Training from Scratch on a Micro-Budget",
+      "https://arxiv.org/abs/2407.15811"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 00:12:06",
       "https://news.ycombinator.com/item?id=41104908"
     ],
@@ -257,16 +267,6 @@
     [
       "Lessons from Ancient File Systems",
       "http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 16:10:43",
-      "https://news.ycombinator.com/item?id=41087447"
-    ],
-    [
-      "Show HN: Burrow is a globally distributed, serverless HTTP proxy",
-      "https://github.com/myzie/burrow"
     ]
   ],
   [
