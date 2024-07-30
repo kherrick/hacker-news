@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2024-07-30, 02:34:53",
+      "https://news.ycombinator.com/item?id=41105617"
+    ],
+    [
+      "Orca: WebAssembly Apps Without the Web",
+      "https://orca-app.dev/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 02:14:28",
+      "https://news.ycombinator.com/item?id=41105527"
+    ],
+    [
+      "[LLMs] Using agents to not use agents",
+      "https://idinsight.github.io/tech-blog/blog/aam_pseudo_agent/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 01:21:53",
+      "https://news.ycombinator.com/item?id=41105285"
+    ],
+    [
+      "A.I.-Powered Trap That Zaps Invasive Lanternflies",
+      "https://www.smithsonianmag.com/innovation/this-high-schooler-invented-an-ai-powered-trap-that-zaps-invasive-lanternflies-180983918/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 00:12:06",
       "https://news.ycombinator.com/item?id=41104908"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2024-07-29, 14:49:15",
-      "https://news.ycombinator.com/item?id=41100902"
-    ],
-    [
-      "Debugging distributed database mysteries with Rust, packet capture and Polars",
-      "https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 12:56:23",
       "https://news.ycombinator.com/item?id=41100094"
     ],
@@ -187,16 +207,6 @@
     [
       "Movable tree CRDTs and Loro's implementation",
       "https://loro.dev/blog/movable-tree"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 11:26:29",
-      "https://news.ycombinator.com/item?id=41099567"
-    ],
-    [
-      "The weird and wonderful world of DNS LOC records",
-      "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2024-07-29, 05:36:38",
-      "https://news.ycombinator.com/item?id=41098141"
-    ],
-    [
-      "Understanding the design of the the Super Nintendo video system",
-      "https://fabiensanglard.net/snes_video/index.html"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 02:42:51",
       "https://news.ycombinator.com/item?id=41097576"
     ],
     [
       "Show HN: Vdm, a sane alternative to e.g. Git submodules",
       "https://github.com/opensourcecorp/vdm"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 15:59:29",
-      "https://news.ycombinator.com/item?id=41094044"
-    ],
-    [
-      "Virtual Apollo Guidance Computer",
-      "https://github.com/virtualagc/virtualagc"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to build highly-debuggable C++ binaries",
       "https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 23:59:10",
+      "https://news.ycombinator.com/item?id=41063489"
+    ],
+    [
+      "Hackers Exploited a PC Driving SIM to Pull Off Disney Data Breach",
+      "https://www.thedrive.com/news/culture/hackers-exploited-a-pc-driving-sim-to-pull-off-massive-disney-data-breach"
     ]
   ]
 ]
