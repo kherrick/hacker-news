@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 04:46:37](https://news.ycombinator.com/item?id=41106109) - [Video is a language for making movies](https://lang.video/)
 * [2024-07-30, 04:26:29](https://news.ycombinator.com/item?id=41106041) - [Lewis H. Lapham, Harper's Editor and Piercing Columnist, Dies at 89](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
 * [2024-07-30, 03:42:10](https://news.ycombinator.com/item?id=41105881) - [A Visual Guide to LLM Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 * [2024-07-30, 03:33:56](https://news.ycombinator.com/item?id=41105844) - [DHH: Make Software Simple Again](https://shiftmag.dev/dhh-make-software-simple-again-3829/)
