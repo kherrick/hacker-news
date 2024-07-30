@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-30, 19:18:16](https://news.ycombinator.com/item?id=41113101) - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
 * [2024-07-30, 18:49:02](https://news.ycombinator.com/item?id=41112794) - [Running the latest Llama 3.1 8B on Raspberry Pi [video]](https://www.youtube.com/watch?v=KcWKTdkUpoQ)
 * [2024-07-30, 17:56:27](https://news.ycombinator.com/item?id=41112160) - [How the electricity markets respond to a nuclear trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
@@ -24,12 +25,11 @@
 * [2024-07-30, 08:39:44](https://news.ycombinator.com/item?id=41107209) - [Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)](https://canarytokens.org/nest/)
 * [2024-07-30, 07:00:41](https://news.ycombinator.com/item?id=41106709) - [Jiga (YC W21) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/)
-* [2024-07-30, 04:26:29](https://news.ycombinator.com/item?id=41106041) - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
 * [2024-07-30, 03:42:10](https://news.ycombinator.com/item?id=41105881) - [A Visual Guide to LLM Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
-* [2024-07-30, 03:19:23](https://news.ycombinator.com/item?id=41105779) - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 * [2024-07-29, 17:01:49](https://news.ycombinator.com/item?id=41101882) - [Scientists uncover the ancient origins of baobab trees](https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
+* [2024-07-26, 23:07:24](https://news.ycombinator.com/item?id=41083119) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
 
 ## [Archives](archives/index.md)
 
