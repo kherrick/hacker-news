@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 07:00:41](https://news.ycombinator.com/item?id=41106709) - [Jiga (YC W21) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2024-07-30, 05:12:42](https://news.ycombinator.com/item?id=41106205) - [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
 * [2024-07-30, 04:46:37](https://news.ycombinator.com/item?id=41106109) - [Video is a language for making movies](https://lang.video/)
 * [2024-07-30, 04:26:29](https://news.ycombinator.com/item?id=41106041) - [Lewis H. Lapham, Harper's Editor and Piercing Columnist, Dies at 89](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
