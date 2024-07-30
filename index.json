@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-07-30, 19:30:08",
-      "https://news.ycombinator.com/item?id=41113236"
-    ],
-    [
-      "Anthropic is scraping websites so fast it's causing problems",
-      "https://pivot-to-ai.com/2024/07/29/anthropic-is-scraping-websites-so-fast-its-causing-problems/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 19:18:16",
       "https://news.ycombinator.com/item?id=41113101"
     ],
@@ -297,6 +287,16 @@
     [
       "Why is spawning a new process in Node so slow?",
       "https://blog.val.town/blog/node-spawn-performance/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 19:50:19",
+      "https://news.ycombinator.com/item?id=41072633"
+    ],
+    [
+      "The Infinity Machine",
+      "https://www.chiark.greenend.org.uk/~sgtatham/infinity.html"
     ]
   ]
 ]
