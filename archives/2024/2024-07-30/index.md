@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 14:01:05](https://news.ycombinator.com/item?id=41109295) - [Marcus Hutchins - Why Microsoft Is to Blame for the CrowdStrike Outage](https://www.youtube.com/watch?v=EGttFWntctU)
+* [2024-07-30, 14:00:45](https://news.ycombinator.com/item?id=41109292) - [Making Machines Move](https://fly.io/blog/machine-migrations/)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
 * [2024-07-30, 12:38:04](https://news.ycombinator.com/item?id=41108519) - [Rust Port for Fish Shell Is Almost Ready for a Beta Release](https://news.itsfoss.com/fish-shell-rust-beta/)
 * [2024-07-30, 12:32:05](https://news.ycombinator.com/item?id=41108479) - [PGP: The software that changed Internet Privacy and Cryptography](https://www.youtube.com/watch?v=0kcDBe6AkQE)
