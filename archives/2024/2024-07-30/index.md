@@ -6,6 +6,7 @@
 
 * [2024-07-30, 20:06:56](https://news.ycombinator.com/item?id=41113575) - [Red Team Tools Collection](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 * [2024-07-30, 19:18:16](https://news.ycombinator.com/item?id=41113101) - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
+* [2024-07-30, 18:55:14](https://news.ycombinator.com/item?id=41112855) - [Fake Job Interviews Are Securities Fraud](https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
 * [2024-07-30, 18:49:02](https://news.ycombinator.com/item?id=41112794) - [Running the latest Llama 3.1 8B on Raspberry Pi [video]](https://www.youtube.com/watch?v=KcWKTdkUpoQ)
 * [2024-07-30, 17:56:27](https://news.ycombinator.com/item?id=41112160) - [How the Electricity Markets Respond to a Nuclear Trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
