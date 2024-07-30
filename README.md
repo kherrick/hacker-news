@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-30, 02:17:20](https://news.ycombinator.com/item?id=41105536) - [Please add a \"dark\" theme for Hacker News](https://news.ycombinator.com)
+* [2024-07-30, 00:12:46](https://news.ycombinator.com/item?id=41104913) - [Delta to Seek Damages from CrowdStrike](https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html)
 * [2024-07-29, 23:33:51](https://news.ycombinator.com/item?id=41104721) - [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
 * [2024-07-29, 23:31:57](https://news.ycombinator.com/item?id=41104709) - [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
 * [2024-07-29, 23:13:37](https://news.ycombinator.com/item?id=41104615) - [LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
@@ -17,7 +19,7 @@
 * [2024-07-29, 14:49:15](https://news.ycombinator.com/item?id=41100902) - [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
-* [2024-07-29, 12:00:55](https://news.ycombinator.com/item?id=41099743) - [Confido (YC S21) Is Hiring](https://news.ycombinator.com/item?id=41099743)
+* [2024-07-29, 11:26:29](https://news.ycombinator.com/item?id=41099567) - [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
 * [2024-07-29, 09:10:05](https://news.ycombinator.com/item?id=41099028) - [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
 * [2024-07-29, 08:59:41](https://news.ycombinator.com/item?id=41098974) - [MeTube: Self-hosted YouTube downloader](https://github.com/alexta69/metube)
 * [2024-07-29, 05:36:38](https://news.ycombinator.com/item?id=41098141) - [Understanding the design of the the Super Nintendo video system](https://fabiensanglard.net/snes_video/index.html)
@@ -28,8 +30,6 @@
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 11:12:29](https://news.ycombinator.com/item?id=41077647) - [The evolution of Ruby's Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 00:00:52](https://news.ycombinator.com/item?id=41074703) - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
-* [2024-07-24, 20:53:04](https://news.ycombinator.com/item?id=41061963) - [Julia for Economists (2022)](https://github.com/cpfiffer/julia-bootcamp-2022)
-* [2024-07-24, 13:30:30](https://news.ycombinator.com/item?id=41056912) - [Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)
 
 ## [Archives](archives/index.md)
 
