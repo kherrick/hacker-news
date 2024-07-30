@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-30, 04:26:29",
+      "https://news.ycombinator.com/item?id=41106041"
+    ],
+    [
+      "Lewis H. Lapham, Harper's Editor and Piercing Columnist, Dies at 89",
+      "https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 03:42:10",
+      "https://news.ycombinator.com/item?id=41105881"
+    ],
+    [
+      "A Visual Guide to LLM Quantization",
+      "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 03:33:56",
+      "https://news.ycombinator.com/item?id=41105844"
+    ],
+    [
+      "DHH: Make Software Simple Again",
+      "https://shiftmag.dev/dhh-make-software-simple-again-3829/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 03:19:23",
       "https://news.ycombinator.com/item?id=41105779"
     ],
@@ -41,22 +71,22 @@
   ],
   [
     [
+      "2024-07-30, 00:32:44",
+      "https://news.ycombinator.com/item?id=41105018"
+    ],
+    [
+      "Email explained from first principles (2021)",
+      "https://explained-from-first-principles.com/email/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 00:27:03",
       "https://news.ycombinator.com/item?id=41104997"
     ],
     [
       "AWS Code Commit Ceased Onboarding New Customers",
       "https://repost.aws/questions/QUshILm0xbTjWJZSD8afYVgA/codecommit-cannot-create-a-repository"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 00:12:06",
-      "https://news.ycombinator.com/item?id=41104908"
-    ],
-    [
-      "Blood test for colon cancer screening approved by US regulators",
-      "https://apnews.com/article/colon-cancer-blood-test-fda-guardant-a2c2cda2cdaa52f081860f0faed1e5cf"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-07-29, 19:59:13",
-      "https://news.ycombinator.com/item?id=41103244"
-    ],
-    [
-      "Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL",
-      "https://cratedb.com/blog/hybrid-search-explained"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 19:41:47",
       "https://news.ycombinator.com/item?id=41103101"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-07-29, 09:10:05",
-      "https://news.ycombinator.com/item?id=41099028"
-    ],
-    [
-      "Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests",
-      "https://e10v.me/tea-tasting-analysis-of-experiments/"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 08:59:41",
       "https://news.ycombinator.com/item?id=41098974"
     ],
     [
       "MeTube: Self-hosted YouTube downloader",
       "https://github.com/alexta69/metube"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 02:42:51",
-      "https://news.ycombinator.com/item?id=41097576"
-    ],
-    [
-      "Show HN: Vdm, a sane alternative to e.g. Git submodules",
-      "https://github.com/opensourcecorp/vdm"
     ]
   ],
   [
