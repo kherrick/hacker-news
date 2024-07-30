@@ -49,6 +49,7 @@
 * [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample (YC W24) Is Hiring](https://news.ycombinator.com/item?id=41080222)
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 16:55:39](https://news.ycombinator.com/item?id=41080178) - [The Incredible Machine (1993)](https://www.myabandonware.com/game/the-incredible-machine-1mg/play-1mg)
+* [2024-07-26, 16:54:41](https://news.ycombinator.com/item?id=41080172) - [Ask HN: Weirdest Computer Architecture?](https://news.ycombinator.com/item?id=41080172)
 * [2024-07-26, 16:46:16](https://news.ycombinator.com/item?id=41080078) - [Why You Shouldn't Write a DAW (2023) [video]](https://www.youtube.com/watch?v=GMlnh6_9aTc)
 * [2024-07-26, 16:45:35](https://news.ycombinator.com/item?id=41080070) - [It is now easier to pass AP tests](https://www.wsj.com/us-news/education/advanced-placement-exams-test-scores-higher-f4dce3c2)
 * [2024-07-26, 16:44:35](https://news.ycombinator.com/item?id=41080063) - [Skip and Arc'teryx built a futuristic exoskeleton](https://www.fastcompany.com/91159743/skip-and-arcteryx-built-an-amazing-new-exoskeleton-heres-what-its-like-to-walk-in-it)
