@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
 * [2024-07-30, 10:56:10](https://news.ycombinator.com/item?id=41107845) - [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
+* [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 * [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
 * [2024-07-30, 09:18:58](https://news.ycombinator.com/item?id=41107396) - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
 * [2024-07-30, 07:39:59](https://news.ycombinator.com/item?id=41106914) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)

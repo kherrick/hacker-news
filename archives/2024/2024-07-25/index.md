@@ -29,6 +29,7 @@
 * [2024-07-25, 20:05:44](https://news.ycombinator.com/item?id=41072795) - [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)
 * [2024-07-25, 19:56:13](https://news.ycombinator.com/item?id=41072691) - [A User's Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
 * [2024-07-25, 19:54:02](https://news.ycombinator.com/item?id=41072668) - [Arch is a gateway drug to NixOS](https://wastedintel.ca/2024/07/25/arch-is-a-gateway-drug-to-nixos/)
+* [2024-07-25, 19:50:19](https://news.ycombinator.com/item?id=41072633) - [The Infinity Machine](https://www.chiark.greenend.org.uk/~sgtatham/infinity.html)
 * [2024-07-25, 19:50:18](https://news.ycombinator.com/item?id=41072632) - [Ask HN: What are you using to parse PDFs for RAG?](https://news.ycombinator.com/item?id=41072632)
 * [2024-07-25, 19:48:35](https://news.ycombinator.com/item?id=41072616) - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 * [2024-07-25, 19:39:46](https://news.ycombinator.com/item?id=41072549) - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)

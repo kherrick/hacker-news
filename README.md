@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-30, 10:56:10](https://news.ycombinator.com/item?id=41107845) - [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
+* [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 * [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
 * [2024-07-30, 09:18:58](https://news.ycombinator.com/item?id=41107396) - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
 * [2024-07-30, 07:39:59](https://news.ycombinator.com/item?id=41106914) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
@@ -21,13 +22,12 @@
 * [2024-07-29, 22:18:01](https://news.ycombinator.com/item?id=41104305) - [FastHTML – Modern web applications in pure Python](https://fastht.ml/)
 * [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [One-man SaaS, 9 Years In](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
-* [2024-07-29, 15:23:42](https://news.ycombinator.com/item?id=41101144) - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 12:24:48](https://news.ycombinator.com/item?id=41078020) - [Show HN: Word Slicer](https://wordslicer.com)
-* [2024-07-26, 11:12:29](https://news.ycombinator.com/item?id=41077647) - [The evolution of Ruby's Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 07:18:47](https://news.ycombinator.com/item?id=41076513) - [Decline of Indian vultures led to 500k human deaths](https://www.bbc.com/news/articles/c28e2pvzn3lo)
+* [2024-07-25, 19:50:19](https://news.ycombinator.com/item?id=41072633) - [The Infinity Machine](https://www.chiark.greenend.org.uk/~sgtatham/infinity.html)
 * [2024-07-25, 19:50:18](https://news.ycombinator.com/item?id=41072632) - [Ask HN: What are you using to parse PDFs for RAG?](https://news.ycombinator.com/item?id=41072632)
 * [2024-07-24, 23:59:10](https://news.ycombinator.com/item?id=41063489) - [Hackers Exploited a PC Driving SIM to Pull Off Disney Data Breach](https://www.thedrive.com/news/culture/hackers-exploited-a-pc-driving-sim-to-pull-off-massive-disney-data-breach)
 
