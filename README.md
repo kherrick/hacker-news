@@ -20,7 +20,6 @@
 * [2024-07-29, 22:18:01](https://news.ycombinator.com/item?id=41104305) - [FastHTML – Modern web applications in pure Python](https://fastht.ml/)
 * [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [One-man SaaS, 9 Years In](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
 * [2024-07-29, 22:09:04](https://news.ycombinator.com/item?id=41104243) - [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
-* [2024-07-29, 20:21:19](https://news.ycombinator.com/item?id=41103403) - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
 * [2024-07-29, 15:23:42](https://news.ycombinator.com/item?id=41101144) - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
@@ -28,6 +27,7 @@
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 11:12:29](https://news.ycombinator.com/item?id=41077647) - [The evolution of Ruby's Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 07:18:47](https://news.ycombinator.com/item?id=41076513) - [Decline of Indian vultures led to 500k human deaths](https://www.bbc.com/news/articles/c28e2pvzn3lo)
+* [2024-07-26, 00:00:52](https://news.ycombinator.com/item?id=41074703) - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
 * [2024-07-25, 19:50:18](https://news.ycombinator.com/item?id=41072632) - [Ask HN: What are you using to parse PDFs for RAG?](https://news.ycombinator.com/item?id=41072632)
 * [2024-07-24, 23:59:10](https://news.ycombinator.com/item?id=41063489) - [Hackers Exploited a PC Driving SIM to Pull Off Disney Data Breach](https://www.thedrive.com/news/culture/hackers-exploited-a-pc-driving-sim-to-pull-off-massive-disney-data-breach)
 
