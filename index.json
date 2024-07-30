@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-30, 16:43:43",
+      "https://news.ycombinator.com/item?id=41111175"
+    ],
+    [
+      "White House says no need to restrict 'open-source' AI at least for now",
+      "https://www.wdtn.com/news/business/ap-business/ap-white-house-says-no-need-to-restrict-open-source-artificial-intelligence-at-least-for-now/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 16:38:40",
+      "https://news.ycombinator.com/item?id=41111115"
+    ],
+    [
+      "The Truth About Linear Regression",
+      "https://www.stat.cmu.edu/~cshalizi/TALR/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 16:35:04",
+      "https://news.ycombinator.com/item?id=41111062"
+    ],
+    [
+      "JavaScript Garbage Collection and Closures",
+      "https://jakearchibald.com/2024/garbage-collection-and-closures/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 16:31:41",
       "https://news.ycombinator.com/item?id=41111011"
     ],
@@ -17,6 +47,36 @@
     [
       "ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:(",
       "https://evanp.me/2024/07/26/health-update/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 16:21:59",
+      "https://news.ycombinator.com/item?id=41110884"
+    ],
+    [
+      "Kagi LLM Benchmarking Project",
+      "https://help.kagi.com/kagi/ai/llm-benchmark.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 16:20:45",
+      "https://news.ycombinator.com/item?id=41110866"
+    ],
+    [
+      "Taking command of the Context Menu in macOS",
+      "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 16:20:24",
+      "https://news.ycombinator.com/item?id=41110860"
+    ],
+    [
+      "A new approach to error handling",
+      "https://boomla.com/docs/error-handling"
     ]
   ],
   [
@@ -131,16 +191,6 @@
   ],
   [
     [
-      "2024-07-30, 12:29:27",
-      "https://news.ycombinator.com/item?id=41108465"
-    ],
-    [
-      "OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011",
-      "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 10:26:55",
       "https://news.ycombinator.com/item?id=41107721"
     ],
@@ -201,16 +251,6 @@
   ],
   [
     [
-      "2024-07-30, 04:26:29",
-      "https://news.ycombinator.com/item?id=41106041"
-    ],
-    [
-      "Lewis Lapham has died",
-      "https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 03:59:52",
       "https://news.ycombinator.com/item?id=41105944"
     ],
@@ -221,42 +261,12 @@
   ],
   [
     [
-      "2024-07-30, 03:42:10",
-      "https://news.ycombinator.com/item?id=41105881"
-    ],
-    [
-      "A Visual Guide to LLM Quantization",
-      "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 03:19:23",
       "https://news.ycombinator.com/item?id=41105779"
     ],
     [
       "Diffusion Training from Scratch on a Micro-Budget",
       "https://arxiv.org/abs/2407.15811"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 01:16:23",
-      "https://news.ycombinator.com/item?id=41105261"
-    ],
-    [
-      "Microjs",
-      "http://microjs.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 23:33:51",
-      "https://news.ycombinator.com/item?id=41104721"
-    ],
-    [
-      "Four billion years in four minutes – Simulating worlds on the GPU",
-      "https://davidar.io/post/sim-glsl"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Scientists Uncover the Ancient Origins of Baobab Trees in Genetic Study",
       "https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 19:50:19",
-      "https://news.ycombinator.com/item?id=41072633"
-    ],
-    [
-      "The Infinity Machine",
-      "https://www.chiark.greenend.org.uk/~sgtatham/infinity.html"
     ]
   ]
 ]
