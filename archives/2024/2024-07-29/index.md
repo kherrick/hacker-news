@@ -48,6 +48,7 @@
 * [2024-07-29, 14:23:01](https://news.ycombinator.com/item?id=41100700) - [\"Authentic\" is dead. And so is \"is dead.\"](https://longform.asmartbear.com/authentic-is-dead/)
 * [2024-07-29, 14:08:02](https://news.ycombinator.com/item?id=41100577) - [I built an RPG and LLM jailbreaking adventure game](https://www.sabrina.dev/p/glitch-game-an-llm-jailbreak-adventure)
 * [2024-07-29, 14:05:24](https://news.ycombinator.com/item?id=41100551) - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
+* [2024-07-29, 14:02:21](https://news.ycombinator.com/item?id=41100518) - [Getting paid is weird and sometimes hard](https://cassidoo.co/post/getting-paid-is-weird/)
 * [2024-07-29, 13:09:52](https://news.ycombinator.com/item?id=41100181) - [Android Cross-device services rolling out: Call casting, Internet sharing](https://9to5google.com/2024/07/28/android-cross-device-services-rolling-out/)
 * [2024-07-29, 13:08:26](https://news.ycombinator.com/item?id=41100170) - [New release of Gradient-Free-Optimizers with two new evolutionary algorithms](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 * [2024-07-29, 12:56:39](https://news.ycombinator.com/item?id=41100097) - [Moral Implications of Being Moderately Successful Computer Scientist and a Woman](https://irenezhang.net/blog/2024/07/24/misogyny.html)

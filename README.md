@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-30, 12:32:05](https://news.ycombinator.com/item?id=41108479) - [PGP: The software that changed Internet Privacy and Cryptography](https://www.youtube.com/watch?v=0kcDBe6AkQE)
+* [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
 * [2024-07-30, 12:29:27](https://news.ycombinator.com/item?id=41108465) - [OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 * [2024-07-30, 11:50:01](https://news.ycombinator.com/item?id=41108155) - [AI and the Next Computing Platforms with Jensen Huang and Mark Zuckerberg](https://www.youtube.com/watch?v=w-cmMcMZoZ4)
 * [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
@@ -23,12 +23,12 @@
 * [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [One-man SaaS, 9 Years In](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
 * [2024-07-29, 19:41:47](https://news.ycombinator.com/item?id=41103101) - [CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
 * [2024-07-29, 15:23:42](https://news.ycombinator.com/item?id=41101144) - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
+* [2024-07-29, 14:02:21](https://news.ycombinator.com/item?id=41100518) - [Getting paid is weird and sometimes hard](https://cassidoo.co/post/getting-paid-is-weird/)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
-* [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
 * [2024-07-26, 07:18:47](https://news.ycombinator.com/item?id=41076513) - [Decline of Indian vultures led to 500k human deaths](https://www.bbc.com/news/articles/c28e2pvzn3lo)
 * [2024-07-25, 19:50:19](https://news.ycombinator.com/item?id=41072633) - [The Infinity Machine](https://www.chiark.greenend.org.uk/~sgtatham/infinity.html)
-* [2024-07-25, 19:50:18](https://news.ycombinator.com/item?id=41072632) - [Ask HN: What are you using to parse PDFs for RAG?](https://news.ycombinator.com/item?id=41072632)
+* [2024-07-25, 01:54:27](https://news.ycombinator.com/item?id=41064068) - [The Story of VaccinateCA (2022)](https://worksinprogress.co/issue/the-story-of-vaccinateca/)
 * [2024-07-24, 23:59:10](https://news.ycombinator.com/item?id=41063489) - [Hackers Exploited a PC Driving SIM to Pull Off Disney Data Breach](https://www.thedrive.com/news/culture/hackers-exploited-a-pc-driving-sim-to-pull-off-massive-disney-data-breach)
 
 ## [Archives](archives/index.md)
