@@ -6,6 +6,7 @@
 
 * [2024-07-30, 17:01:32](https://news.ycombinator.com/item?id=41111441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-07-30, 16:43:43](https://news.ycombinator.com/item?id=41111175) - [White House says no need to restrict 'open-source' AI at least for now](https://www.wdtn.com/news/business/ap-business/ap-white-house-says-no-need-to-restrict-open-source-artificial-intelligence-at-least-for-now/)
+* [2024-07-30, 16:41:13](https://news.ycombinator.com/item?id=41111145) - [Meta to pay Texas $1.4B for using facial recognition without users' permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/)
 * [2024-07-30, 16:36:29](https://news.ycombinator.com/item?id=41111084) - [It's Oil That Makes LA Boil](https://www.noemamag.com/its-oil-that-makes-la-boil/)
 * [2024-07-30, 16:35:04](https://news.ycombinator.com/item?id=41111062) - [JavaScript Garbage Collection and Closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
