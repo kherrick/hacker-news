@@ -19,7 +19,7 @@
 * [2024-07-29, 14:49:15](https://news.ycombinator.com/item?id=41100902) - [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
 * [2024-07-29, 12:56:23](https://news.ycombinator.com/item?id=41100094) - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 * [2024-07-29, 12:24:59](https://news.ycombinator.com/item?id=41099901) - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
-* [2024-07-29, 11:26:29](https://news.ycombinator.com/item?id=41099567) - [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
+* [2024-07-29, 12:00:55](https://news.ycombinator.com/item?id=41099743) - [Confido (YC S21) Is Hiring](https://news.ycombinator.com/item?id=41099743)
 * [2024-07-29, 09:10:05](https://news.ycombinator.com/item?id=41099028) - [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
 * [2024-07-29, 08:59:41](https://news.ycombinator.com/item?id=41098974) - [MeTube: Self-hosted YouTube downloader](https://github.com/alexta69/metube)
 * [2024-07-29, 05:36:38](https://news.ycombinator.com/item?id=41098141) - [Understanding the design of the the Super Nintendo video system](https://fabiensanglard.net/snes_video/index.html)
