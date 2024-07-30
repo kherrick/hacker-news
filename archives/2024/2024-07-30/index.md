@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 15:25:43](https://news.ycombinator.com/item?id=41110074) - [White Dudes for Harris Rally Raises Millions but Then Sees X Account Suspended](https://deadline.com/2024/07/white-dudes-harris-rally-twitter-x-account-suspended-elon-musk-1236026283/)
 * [2024-07-30, 15:11:44](https://news.ycombinator.com/item?id=41109926) - [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
 * [2024-07-30, 15:07:51](https://news.ycombinator.com/item?id=41109891) - [Why Doesn't Advice Work?](https://dynomight.substack.com/p/advice)
 * [2024-07-30, 15:00:34](https://news.ycombinator.com/item?id=41109822) - [Meta Launches AI Studio in US](https://ai.meta.com/ai-studio/)
@@ -12,6 +13,7 @@
 * [2024-07-30, 14:00:45](https://news.ycombinator.com/item?id=41109292) - [Making Machines Move](https://fly.io/blog/machine-migrations/)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
 * [2024-07-30, 13:15:47](https://news.ycombinator.com/item?id=41108843) - [Show HN: A Video Editing SDK That Runs in the Browser](https://rendley.com/)
+* [2024-07-30, 13:15:25](https://news.ycombinator.com/item?id=41108841) - [Please Stop Reinventing JSX](https://gist.github.com/kevmo314/7bbf5d5868b973b53898d12b977b15b7)
 * [2024-07-30, 12:38:04](https://news.ycombinator.com/item?id=41108519) - [Rust Port for Fish Shell Is Almost Ready for a Beta Release](https://news.itsfoss.com/fish-shell-rust-beta/)
 * [2024-07-30, 12:32:05](https://news.ycombinator.com/item?id=41108479) - [PGP: The software that changed Internet Privacy and Cryptography](https://www.youtube.com/watch?v=0kcDBe6AkQE)
 * [2024-07-30, 12:29:27](https://news.ycombinator.com/item?id=41108465) - [OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)

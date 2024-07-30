@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-30, 15:25:43](https://news.ycombinator.com/item?id=41110074) - [White Dudes for Harris Rally Raises Millions but Then Sees X Account Suspended](https://deadline.com/2024/07/white-dudes-harris-rally-twitter-x-account-suspended-elon-musk-1236026283/)
 * [2024-07-30, 15:11:44](https://news.ycombinator.com/item?id=41109926) - [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
 * [2024-07-30, 15:07:51](https://news.ycombinator.com/item?id=41109891) - [Why Doesn't Advice Work?](https://dynomight.substack.com/p/advice)
 * [2024-07-30, 15:00:34](https://news.ycombinator.com/item?id=41109822) - [Meta Launches AI Studio in US](https://ai.meta.com/ai-studio/)
@@ -7,6 +8,7 @@
 * [2024-07-30, 14:00:45](https://news.ycombinator.com/item?id=41109292) - [Making Machines Move](https://fly.io/blog/machine-migrations/)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
 * [2024-07-30, 13:15:47](https://news.ycombinator.com/item?id=41108843) - [Show HN: A Video Editing SDK That Runs in the Browser](https://rendley.com/)
+* [2024-07-30, 13:15:25](https://news.ycombinator.com/item?id=41108841) - [Please Stop Reinventing JSX](https://gist.github.com/kevmo314/7bbf5d5868b973b53898d12b977b15b7)
 * [2024-07-30, 12:29:27](https://news.ycombinator.com/item?id=41108465) - [OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 * [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [Calculating the Cost of a Google Deepmind Paper](https://152334H.github.io/blog/scaling-exponents/)
 * [2024-07-30, 09:32:56](https://news.ycombinator.com/item?id=41107480) - [Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
@@ -14,8 +16,6 @@
 * [2024-07-30, 08:39:44](https://news.ycombinator.com/item?id=41107209) - [Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)](https://canarytokens.org/nest/)
 * [2024-07-30, 07:00:41](https://news.ycombinator.com/item?id=41106709) - [Jiga (YC W21) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
-* [2024-07-30, 06:50:40](https://news.ycombinator.com/item?id=41106633) - [Implementing the “one or more” UI component](https://verbnounenter.net/one-or-more)
-* [2024-07-30, 04:46:37](https://news.ycombinator.com/item?id=41106109) - [Video is a language for making movies](https://lang.video/)
 * [2024-07-30, 04:26:29](https://news.ycombinator.com/item?id=41106041) - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
 * [2024-07-30, 03:59:52](https://news.ycombinator.com/item?id=41105944) - [If we want a shift to walking, we need to prioritize dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
 * [2024-07-30, 03:42:10](https://news.ycombinator.com/item?id=41105881) - [A Visual Guide to LLM Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
