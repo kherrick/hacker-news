@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-30, 19:48:42](https://news.ycombinator.com/item?id=41113408) - [Astronomical Accidents, and the Proxima Centauri 'Signal' That Wasn't](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
 * [2024-07-30, 19:18:16](https://news.ycombinator.com/item?id=41113101) - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 18:55:14](https://news.ycombinator.com/item?id=41112855) - [Fake Job Interviews Are Securities Fraud](https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
@@ -10,12 +11,10 @@
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
 * [2024-07-30, 16:36:29](https://news.ycombinator.com/item?id=41111084) - [Before LA became Tinseltown, it was an oil town](https://www.noemamag.com/its-oil-that-makes-la-boil/)
 * [2024-07-30, 16:35:04](https://news.ycombinator.com/item?id=41111062) - [JavaScript garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
-* [2024-07-30, 16:20:45](https://news.ycombinator.com/item?id=41110866) - [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://news.ycombinator.com/item?id=41110850)
 * [2024-07-30, 15:42:06](https://news.ycombinator.com/item?id=41110269) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-07-30, 15:07:51](https://news.ycombinator.com/item?id=41109891) - [Why doesn't advice work?](https://dynomight.substack.com/p/advice)
 * [2024-07-30, 14:58:54](https://news.ycombinator.com/item?id=41109799) - [A eulogy for Dark Sky, a data visualization masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
-* [2024-07-30, 14:00:45](https://news.ycombinator.com/item?id=41109292) - [Making Machines Move](https://fly.io/blog/machine-migrations/)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike? (2022)](https://siliconfolklore.com/internet-history/)
 * [2024-07-30, 13:15:47](https://news.ycombinator.com/item?id=41108843) - [Show HN: A video editing SDK that runs in the browser](https://rendley.com/)
 * [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [Calculating the cost of a Google DeepMind paper](https://152334H.github.io/blog/scaling-exponents/)
@@ -30,6 +29,7 @@
 * [2024-07-29, 17:01:49](https://news.ycombinator.com/item?id=41101882) - [Scientists uncover the ancient origins of baobab trees](https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 * [2024-07-26, 23:07:24](https://news.ycombinator.com/item?id=41083119) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
+* [2024-07-25, 19:50:19](https://news.ycombinator.com/item?id=41072633) - [The Infinity Machine](https://www.chiark.greenend.org.uk/~sgtatham/infinity.html)
 
 ## [Archives](archives/index.md)
 
