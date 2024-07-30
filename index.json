@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-30, 02:17:20",
+      "https://news.ycombinator.com/item?id=41105536"
+    ],
+    [
+      "Please add a \"dark\" theme for Hacker News",
+      "https://news.ycombinator.com"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 00:12:46",
+      "https://news.ycombinator.com/item?id=41104913"
+    ],
+    [
+      "Delta to Seek Damages from CrowdStrike",
+      "https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 23:33:51",
       "https://news.ycombinator.com/item?id=41104721"
     ],
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2024-07-29, 12:00:55",
-      "https://news.ycombinator.com/item?id=41099743"
+      "2024-07-29, 11:26:29",
+      "https://news.ycombinator.com/item?id=41099567"
     ],
     [
-      "Confido (YC S21) Is Hiring",
-      "https://news.ycombinator.com/item?id=41099743"
+      "The weird and wonderful world of DNS LOC records",
+      "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "How to build highly-debuggable C++ binaries",
       "https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 20:53:04",
-      "https://news.ycombinator.com/item?id=41061963"
-    ],
-    [
-      "Julia for Economists (2022)",
-      "https://github.com/cpfiffer/julia-bootcamp-2022"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 13:30:30",
-      "https://news.ycombinator.com/item?id=41056912"
-    ],
-    [
-      "Notes on Taylor and Maclaurin Series",
-      "https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/"
     ]
   ]
 ]
