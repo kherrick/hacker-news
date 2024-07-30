@@ -76,6 +76,7 @@
 * [2024-07-25, 13:13:14](https://news.ycombinator.com/item?id=41068294) - [What's so hard about constexpr allocation?](https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/)
 * [2024-07-25, 13:05:23](https://news.ycombinator.com/item?id=41068215) - [CrowdStrike is offering a $10 UberEats gift card as an apology for the outage](https://www.techradar.com/pro/crowdstrike-is-offering-a-dollar10-ubereats-gift-card-as-an-apology-for-the-recent-outage)
 * [2024-07-25, 12:58:12](https://news.ycombinator.com/item?id=41068153) - [Ask HN: What is your go to performance optimization?](https://news.ycombinator.com/item?id=41068153)
+* [2024-07-25, 12:45:36](https://news.ycombinator.com/item?id=41068016) - [Zuo: A Tiny Racket for Scripting](https://github.com/racket/zuo)
 * [2024-07-25, 12:04:09](https://news.ycombinator.com/item?id=41067616) - [A chemist explains the chemistry behind decaf coffee](https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196)
 * [2024-07-25, 12:00:35](https://news.ycombinator.com/item?id=41067578) - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 * [2024-07-25, 11:49:10](https://news.ycombinator.com/item?id=41067476) - [A Journey with the Photographic Mind](https://photographylife.com/photographic-mind)
