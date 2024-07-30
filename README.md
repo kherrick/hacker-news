@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-30, 21:47:25](https://news.ycombinator.com/item?id=41114456) - [Microsoft stock drops over 6% after results fall short in AI disappointment](https://finance.yahoo.com/news/microsoft-stock-drops-over-6-after-results-fall-short-in-latest-ai-disappointment-201321390.html)
 * [2024-07-30, 21:21:02](https://news.ycombinator.com/item?id=41114250) - [Coinbase appears to have violated campaign finance laws with 25M donation](https://www.citationneeded.news/coinbase-campaign-finance-violation/)
 * [2024-07-30, 21:17:47](https://news.ycombinator.com/item?id=41114225) - [Disneyland unions agree to 'historic' 31% pay raise](https://www.ocregister.com/2024/07/30/disneyland-unions-agree-to-historic-31-pay-raise/)
 * [2024-07-30, 19:48:42](https://news.ycombinator.com/item?id=41113408) - [Astronomical Accidents, and the Proxima Centauri 'Signal' That Wasn't](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
@@ -26,6 +25,7 @@
 * [2024-07-30, 09:18:58](https://news.ycombinator.com/item?id=41107396) - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
 * [2024-07-30, 08:39:44](https://news.ycombinator.com/item?id=41107209) - [Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)](https://canarytokens.org/nest/)
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/)
+* [2024-07-30, 01:16:23](https://news.ycombinator.com/item?id=41105261) - [Microjs](http://microjs.com/)
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 * [2024-07-29, 17:01:49](https://news.ycombinator.com/item?id=41101882) - [Scientists uncover the ancient origins of baobab trees](https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
