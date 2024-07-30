@@ -6,6 +6,7 @@
 
 * [2024-07-28, 23:33:14](https://news.ycombinator.com/item?id=41096814) - [NixOS Option Inspection](https://fzakaria.com/2024/07/28/nixos-option-inspection.html)
 * [2024-07-28, 23:16:27](https://news.ycombinator.com/item?id=41096736) - [Four co's are hoarding billions worth of Nvidia GPU chips. Meta has 350K of them](https://sherwood.news/tech/companies-hoarding-nvidia-gpu-chips-meta-tesla/)
+* [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 * [2024-07-28, 22:53:00](https://news.ycombinator.com/item?id=41096600) - [Be MacGyver](https://macgyver.com/be-macgyver/)
 * [2024-07-28, 22:47:28](https://news.ycombinator.com/item?id=41096561) - [50th anniversary of Vannevar Bush's passing](https://thetech.com/2024/07/11/anniversary-vannevar-bush-passing)
 * [2024-07-28, 22:34:36](https://news.ycombinator.com/item?id=41096486) - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
