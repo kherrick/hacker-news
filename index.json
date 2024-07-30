@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 17:37:12",
+      "https://news.ycombinator.com/item?id=41111922"
+    ],
+    [
+      "VMware ESXi Hit by Zero-Day Auth Bypass, Ransomware Attacks Surge",
+      "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24505"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 17:01:32",
       "https://news.ycombinator.com/item?id=41111441"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-07-30, 16:53:11",
+      "https://news.ycombinator.com/item?id=41111317"
+    ],
+    [
+      "Amazon can be held responsible for faulty goods sold on its marketplace",
+      "https://www.cnbc.com/2024/07/30/cpsc-says-amazon-responsible-for-faulty-goods-sold-on-its-marketplace.html"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 16:41:13",
       "https://news.ycombinator.com/item?id=41111145"
     ],
     [
       "Meta to pay Texas $1.4B for using facial recognition without users' permission",
       "https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 16:40:13",
+      "https://news.ycombinator.com/item?id=41111129"
+    ],
+    [
+      "Swift Homomorphic Encryption Package",
+      "https://www.swift.org/blog/announcing-swift-homomorphic-encryption/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "JavaScript Garbage Collection and Closures",
       "https://jakearchibald.com/2024/garbage-collection-and-closures/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 16:25:42",
-      "https://news.ycombinator.com/item?id=41110933"
-    ],
-    [
-      "ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:(",
-      "https://evanp.me/2024/07/26/health-update/"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41110530"
     ],
     [
-      "CSC ServiceWorks laundry machine coin bypass",
+      "CSC ServiceWorks laundry machine coin bypass (2023)",
       "https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml"
     ]
   ],
@@ -157,16 +177,6 @@
     [
       "Show HN: A Video Editing SDK That Runs in the Browser",
       "https://rendley.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 12:29:27",
-      "https://news.ycombinator.com/item?id=41108465"
-    ],
-    [
-      "OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011",
-      "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Diffusion Training from Scratch on a Micro-Budget",
       "https://arxiv.org/abs/2407.15811"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 23:33:51",
-      "https://news.ycombinator.com/item?id=41104721"
-    ],
-    [
-      "Four billion years in four minutes – Simulating worlds on the GPU",
-      "https://davidar.io/post/sim-glsl"
     ]
   ],
   [
