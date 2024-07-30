@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-07-30, 02:17:20",
-      "https://news.ycombinator.com/item?id=41105536"
+      "2024-07-30, 00:12:06",
+      "https://news.ycombinator.com/item?id=41104908"
     ],
     [
-      "Please add a \"dark\" theme for Hacker News",
-      "https://news.ycombinator.com"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 00:12:46",
-      "https://news.ycombinator.com/item?id=41104913"
-    ],
-    [
-      "Delta to Seek Damages from CrowdStrike",
-      "https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html"
+      "Blood test for colon cancer screening approved by US regulators",
+      "https://apnews.com/article/colon-cancer-blood-test-fda-guardant-a2c2cda2cdaa52f081860f0faed1e5cf"
     ]
   ],
   [
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2024-07-29, 12:00:55",
-      "https://news.ycombinator.com/item?id=41099743"
+      "2024-07-29, 11:26:29",
+      "https://news.ycombinator.com/item?id=41099567"
     ],
     [
-      "Confido (YC S21) Is Hiring",
-      "https://news.ycombinator.com/item?id=41099743"
+      "The weird and wonderful world of DNS LOC records",
+      "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Lessons from Ancient File Systems",
       "http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-27, 16:10:43",
+      "https://news.ycombinator.com/item?id=41087447"
+    ],
+    [
+      "Show HN: Burrow is a globally distributed, serverless HTTP proxy",
+      "https://github.com/myzie/burrow"
     ]
   ],
   [
