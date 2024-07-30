@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-30, 17:01:32](https://news.ycombinator.com/item?id=41111441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2024-07-30, 16:43:43](https://news.ycombinator.com/item?id=41111175) - [White House says no need to restrict 'open-source' AI at least for now](https://www.wdtn.com/news/business/ap-business/ap-white-house-says-no-need-to-restrict-open-source-artificial-intelligence-at-least-for-now/)
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/)
+* [2024-07-30, 16:36:29](https://news.ycombinator.com/item?id=41111084) - [It's Oil That Makes LA Boil](https://www.noemamag.com/its-oil-that-makes-la-boil/)
 * [2024-07-30, 16:35:04](https://news.ycombinator.com/item?id=41111062) - [JavaScript Garbage Collection and Closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
-* [2024-07-30, 16:31:41](https://news.ycombinator.com/item?id=41111011) - [Dear Safari, Things I Hate About You](https://www.magiclasso.co/insights/dear-safari/)
 * [2024-07-30, 16:28:43](https://news.ycombinator.com/item?id=41110972) - [Yes, there are more driverless Waymos in S.F](https://www.sfchronicle.com/sf/article/s-f-waymo-robotaxis-19592112.php)
 * [2024-07-30, 16:25:42](https://news.ycombinator.com/item?id=41110933) - [ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:(](https://evanp.me/2024/07/26/health-update/)
 * [2024-07-30, 16:25:02](https://news.ycombinator.com/item?id=41110927) - [Apple Intelligence Foundation Language Models](https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models)
@@ -28,6 +27,7 @@
 * [2024-07-30, 08:39:44](https://news.ycombinator.com/item?id=41107209) - [Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)](https://canarytokens.org/nest/)
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 03:59:52](https://news.ycombinator.com/item?id=41105944) - [If we want a shift to walking, we need to prioritize dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
+* [2024-07-30, 03:19:23](https://news.ycombinator.com/item?id=41105779) - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
 * [2024-07-29, 17:01:49](https://news.ycombinator.com/item?id=41101882) - [Scientists Uncover the Ancient Origins of Baobab Trees in Genetic Study](https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 
