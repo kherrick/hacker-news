@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-30, 10:26:55",
+      "https://news.ycombinator.com/item?id=41107721"
+    ],
+    [
+      "How to burn US$10M on an ArXiv preprint",
+      "https://152334H.github.io/blog/scaling-exponents/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 09:18:58",
+      "https://news.ycombinator.com/item?id=41107396"
+    ],
+    [
+      "The lie of music discovery algorithms",
+      "https://www.zeynepevecen.dev/writing/music"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 07:00:41",
       "https://news.ycombinator.com/item?id=41106709"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-07-29, 20:21:19",
-      "https://news.ycombinator.com/item?id=41103403"
-    ],
-    [
-      "TreeSeg: Hierarchical Topic Segmentation of Large Transcripts",
-      "https://augmend.com/blog/TreeSeg"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 19:41:47",
       "https://news.ycombinator.com/item?id=41103101"
     ],
@@ -217,16 +227,6 @@
     [
       "Movable tree CRDTs and Loro's implementation",
       "https://loro.dev/blog/movable-tree"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 09:10:05",
-      "https://news.ycombinator.com/item?id=41099028"
-    ],
-    [
-      "Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests",
-      "https://e10v.me/tea-tasting-analysis-of-experiments/"
     ]
   ],
   [
