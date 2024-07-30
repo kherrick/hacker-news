@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 19:18:16",
+      "https://news.ycombinator.com/item?id=41113101"
+    ],
+    [
+      "Functional programming languages should be better at mutation than they are",
+      "https://cohost.org/prophet/post/7083950-functional-programming"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 18:55:10",
       "https://news.ycombinator.com/item?id=41112854"
     ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2024-07-30, 04:26:29",
-      "https://news.ycombinator.com/item?id=41106041"
-    ],
-    [
-      "Lewis Lapham has died",
-      "https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 03:42:10",
       "https://news.ycombinator.com/item?id=41105881"
     ],
     [
       "A Visual Guide to LLM Quantization",
       "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 03:19:23",
-      "https://news.ycombinator.com/item?id=41105779"
-    ],
-    [
-      "Diffusion Training from Scratch on a Micro-Budget",
-      "https://arxiv.org/abs/2407.15811"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Stempad – Fast Online Scientific Writing",
       "https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 23:07:24",
+      "https://news.ycombinator.com/item?id=41083119"
+    ],
+    [
+      "Why is spawning a new process in Node so slow?",
+      "https://blog.val.town/blog/node-spawn-performance/"
     ]
   ]
 ]
