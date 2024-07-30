@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-07-30, 06:22:28",
-      "https://news.ycombinator.com/item?id=41106505"
-    ],
-    [
-      "Ferrari exec foils deepfake attempt by asking a question only CEO could answer",
-      "https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 05:12:42",
       "https://news.ycombinator.com/item?id=41106205"
     ],
@@ -97,6 +87,16 @@
     [
       "Microjs",
       "http://microjs.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 00:27:03",
+      "https://news.ycombinator.com/item?id=41104997"
+    ],
+    [
+      "AWS Code Commit Ceased Onboarding New Customers",
+      "https://repost.aws/questions/QUshILm0xbTjWJZSD8afYVgA/codecommit-cannot-create-a-repository"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-07-29, 16:10:07",
-      "https://news.ycombinator.com/item?id=41101502"
-    ],
-    [
-      "Do Penguins Have Knees? (2019)",
-      "https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 15:23:42",
       "https://news.ycombinator.com/item?id=41101144"
     ],
@@ -227,6 +217,16 @@
     [
       "Movable tree CRDTs and Loro's implementation",
       "https://loro.dev/blog/movable-tree"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 09:10:05",
+      "https://news.ycombinator.com/item?id=41099028"
+    ],
+    [
+      "Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests",
+      "https://e10v.me/tea-tasting-analysis-of-experiments/"
     ]
   ],
   [
