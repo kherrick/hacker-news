@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
+* [2024-07-30, 18:49:02](https://news.ycombinator.com/item?id=41112794) - [Running the latest Llama 3.1 8B on Raspberry Pi [video]](https://www.youtube.com/watch?v=KcWKTdkUpoQ)
 * [2024-07-30, 17:56:27](https://news.ycombinator.com/item?id=41112160) - [How the Electricity Markets Respond to a Nuclear Trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
 * [2024-07-30, 17:51:12](https://news.ycombinator.com/item?id=41112105) - [Show HN: Browser Based RDP and SSH](https://www.tsncglobal.com/2024/07/apache-guacamole-installation-in-docker.html)
 * [2024-07-30, 17:51:08](https://news.ycombinator.com/item?id=41112103) - [The Hitchhiker's Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
