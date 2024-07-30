@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 15:00:34",
+      "https://news.ycombinator.com/item?id=41109822"
+    ],
+    [
+      "Meta Launches AI Studio in US",
+      "https://ai.meta.com/ai-studio/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 14:00:45",
       "https://news.ycombinator.com/item?id=41109292"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2024-07-30, 13:15:47",
+      "https://news.ycombinator.com/item?id=41108843"
+    ],
+    [
+      "Show HN: A Video Editing SDK That Runs in the Browser",
+      "https://rendley.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 12:29:27",
       "https://news.ycombinator.com/item?id=41108465"
     ],
     [
       "OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011",
       "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 10:49:29",
-      "https://news.ycombinator.com/item?id=41107811"
-    ],
-    [
-      "Is a 'slow' swimming pool impeding world records?",
-      "https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-07-29, 22:50:45",
-      "https://news.ycombinator.com/item?id=41104504"
-    ],
-    [
-      "DigiCert Revocation Incident (CNAME Domain Validation)",
-      "https://www.digicert.com/support/certificate-revocation-incident"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 22:18:01",
       "https://news.ycombinator.com/item?id=41104305"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-07-26, 16:54:41",
+      "https://news.ycombinator.com/item?id=41080172"
+    ],
+    [
+      "Ask HN: Weirdest Computer Architecture?",
+      "https://news.ycombinator.com/item?id=41080172"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 07:18:47",
       "https://news.ycombinator.com/item?id=41076513"
     ],
@@ -287,16 +297,6 @@
     [
       "The Infinity Machine",
       "https://www.chiark.greenend.org.uk/~sgtatham/infinity.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 01:54:27",
-      "https://news.ycombinator.com/item?id=41064068"
-    ],
-    [
-      "The Story of VaccinateCA (2022)",
-      "https://worksinprogress.co/issue/the-story-of-vaccinateca/"
     ]
   ]
 ]
