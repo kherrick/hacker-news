@@ -46,6 +46,7 @@
 * [2024-07-26, 17:10:11](https://news.ycombinator.com/item?id=41080315) - [How to beg/borrow/steal your way to a cross platform Bluetooth LE library (2023)](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
 * [2024-07-26, 17:09:13](https://news.ycombinator.com/item?id=41080303) - [The Man Who Invented Times Square](https://thereader.mitpress.mit.edu/the-man-who-invented-times-square-o-j-gude-and-the-birth-of-the-spectacular/)
 * [2024-07-26, 17:06:57](https://news.ycombinator.com/item?id=41080277) - [Show HN: Hyve Tile, a puzzle game but I can't solve it](https://yunusefendi52.itch.io/hyve-tile)
+* [2024-07-26, 17:06:36](https://news.ycombinator.com/item?id=41080273) - [Implementing and Improving Skiplists](https://mattjhall.co.uk/posts/skiplists.html)
 * [2024-07-26, 17:05:36](https://news.ycombinator.com/item?id=41080266) - [Poisson designs and minimum detectable effects](https://andrewpwheeler.com/2024/03/18/poisson-designs-and-minimum-detectable-effects/)
 * [2024-07-26, 17:00:19](https://news.ycombinator.com/item?id=41080222) - [Sample (YC W24) Is Hiring](https://news.ycombinator.com/item?id=41080222)
 * [2024-07-26, 16:57:12](https://news.ycombinator.com/item?id=41080189) - [Show HN: Create diagrams of complex data flows in software systems](https://github.com/jodigiordano/gg)
