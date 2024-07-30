@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 11:50:01](https://news.ycombinator.com/item?id=41108155) - [AI and the Next Computing Platforms with Jensen Huang and Mark Zuckerberg](https://www.youtube.com/watch?v=w-cmMcMZoZ4)
 * [2024-07-30, 10:56:10](https://news.ycombinator.com/item?id=41107845) - [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
 * [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 * [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
