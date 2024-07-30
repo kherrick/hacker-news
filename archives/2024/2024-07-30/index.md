@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 16:43:43](https://news.ycombinator.com/item?id=41111175) - [White House says no need to restrict 'open-source' AI at least for now](https://www.wdtn.com/news/business/ap-business/ap-white-house-says-no-need-to-restrict-open-source-artificial-intelligence-at-least-for-now/)
+* [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/)
+* [2024-07-30, 16:35:04](https://news.ycombinator.com/item?id=41111062) - [JavaScript Garbage Collection and Closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
 * [2024-07-30, 16:31:41](https://news.ycombinator.com/item?id=41111011) - [Dear Safari, Things I Hate About You](https://www.magiclasso.co/insights/dear-safari/)
 * [2024-07-30, 16:25:42](https://news.ycombinator.com/item?id=41110933) - [ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:(](https://evanp.me/2024/07/26/health-update/)
+* [2024-07-30, 16:21:59](https://news.ycombinator.com/item?id=41110884) - [Kagi LLM Benchmarking Project](https://help.kagi.com/kagi/ai/llm-benchmark.html)
+* [2024-07-30, 16:20:45](https://news.ycombinator.com/item?id=41110866) - [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
+* [2024-07-30, 16:20:24](https://news.ycombinator.com/item?id=41110860) - [A new approach to error handling](https://boomla.com/docs/error-handling)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO Painless and Open Source](https://news.ycombinator.com/item?id=41110850)
 * [2024-07-30, 15:59:43](https://news.ycombinator.com/item?id=41110530) - [CSC ServiceWorks laundry machine coin bypass](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml)
 * [2024-07-30, 15:48:24](https://news.ycombinator.com/item?id=41110355) - [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
