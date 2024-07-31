@@ -96,6 +96,7 @@
 * [2024-07-26, 08:23:08](https://news.ycombinator.com/item?id=41076831) - [France High-Speed Rail Traffic Disrupted by 'Malicious Acts' on Olympic Ceremony](https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html)
 * [2024-07-26, 07:18:47](https://news.ycombinator.com/item?id=41076513) - [Decline of Indian vultures led to 500k human deaths](https://www.bbc.com/news/articles/c28e2pvzn3lo)
 * [2024-07-26, 07:10:07](https://news.ycombinator.com/item?id=41076459) - [iFixit CEO takes shots at Anthropic for hitting servers a million times in 24h](https://www.pcgamer.com/software/ai/ifixit-ceo-takes-shots-at-anthropic-for-hitting-our-servers-a-million-times-in-24-hours-and-even-the-ai-companys-own-chatbot-disapproves/)
+* [2024-07-26, 06:59:22](https://news.ycombinator.com/item?id=41076399) - [Two Threads One Core : How Simultaneous Multithreading Works Under the Hood ?](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 05:42:18](https://news.ycombinator.com/item?id=41076063) - [Genetically synthesized supergain broadband wire-bundle antenna](https://www.nature.com/articles/s44172-024-00235-y)
