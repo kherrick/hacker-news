@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 20:05:20](https://news.ycombinator.com/item?id=41122920) - [Foobar2000](https://www.foobar2000.org/)
+* [2024-07-31, 19:50:36](https://news.ycombinator.com/item?id=41122792) - [Heavy metal analysis of dark chocolate and cocoa products in the USA](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1366231/full)
 * [2024-07-31, 19:04:01](https://news.ycombinator.com/item?id=41122321) - [Java EA Released: JEP 401: Value Classes and Objects](https://jdk.java.net/valhalla/)
 * [2024-07-31, 18:21:46](https://news.ycombinator.com/item?id=41121789) - [Apple Arcade developers say working with Apple is like in 'abusive relationship'](https://appleinsider.com/articles/24/07/31/apple-arcade-developers-say-working-with-apple-is-like-being-in-an-abusive-relationship)
 * [2024-07-31, 18:16:30](https://news.ycombinator.com/item?id=41121718) - [Braid: Anniversary Edition \"sold like dog s***\", says creator Jonathan Blow](https://www.eurogamer.net/braid-anniversary-edition-sold-like-dog-s-says-creator-jonathan-blow)

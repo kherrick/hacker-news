@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 20:05:20](https://news.ycombinator.com/item?id=41122920) - [Foobar2000](https://www.foobar2000.org/)
+* [2024-07-31, 19:50:36](https://news.ycombinator.com/item?id=41122792) - [Heavy metal analysis of dark chocolate and cocoa products in the USA](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1366231/full)
 * [2024-07-31, 18:13:49](https://news.ycombinator.com/item?id=41121689) - [After years of leniency, ULA cracks down on hobbyist photographers](https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/)
 * [2024-07-31, 17:30:35](https://news.ycombinator.com/item?id=41121237) - [Meta Has Run Hundreds of Ads for Cocaine, Opioids and Other Drugs](https://www.wsj.com/tech/meta-cocaine-opioids-ads-dea8e0fc)
 * [2024-07-31, 17:00:42](https://news.ycombinator.com/item?id=41120954) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
@@ -7,7 +9,6 @@
 * [2024-07-31, 16:30:05](https://news.ycombinator.com/item?id=41120662) - [Ask HN: Best Tools for Monorepo?](https://news.ycombinator.com/item?id=41120662)
 * [2024-07-31, 16:19:04](https://news.ycombinator.com/item?id=41120535) - [The consequences of generative AI for online knowledge communities](https://www.nature.com/articles/s41598-024-61221-0)
 * [2024-07-31, 15:49:55](https://news.ycombinator.com/item?id=41120254) - [I prefer rST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
-* [2024-07-31, 15:44:10](https://news.ycombinator.com/item?id=41120201) - [Jeff Bezos' management rules are slowly unraveling inside Amazon](https://fortune.com/2024/07/31/amazon-leadership-principles-questions-future-jeff-bezos-departure-andy-jassy/)
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
 * [2024-07-31, 08:42:03](https://news.ycombinator.com/item?id=41117398) - [Constellations from Around the World (2019)](https://github.com/eleanorlutz/worldstars_atlas_of_space)
@@ -23,7 +24,6 @@
 * [2024-07-30, 16:46:15](https://news.ycombinator.com/item?id=41111208) - [Divers discover Roman mosaic](https://www.smithsonianmag.com/smart-news/underwater-marble-floor-mosaic-discovered-off-the-coast-of-naples-180984772/)
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
-* [2024-07-30, 05:31:05](https://news.ycombinator.com/item?id=41106280) - [Functional languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
 * [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
 * [2024-07-29, 23:09:58](https://news.ycombinator.com/item?id=41104597) - [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
 * [2024-07-29, 22:14:51](https://news.ycombinator.com/item?id=41104288) - [Amazon's exabyte-scale migration from Apache Spark to Ray on EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
