@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 10:37:23](https://news.ycombinator.com/item?id=41117922) - [Common side effects of not drinking](https://medium.com/@k.kozmana/common-side-effects-of-not-drinking-dd44714e619a)
 * [2024-07-31, 06:48:01](https://news.ycombinator.com/item?id=41116908) - [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
 * [2024-07-31, 06:26:36](https://news.ycombinator.com/item?id=41116813) - [Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
 * [2024-07-31, 05:54:15](https://news.ycombinator.com/item?id=41116682) - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
