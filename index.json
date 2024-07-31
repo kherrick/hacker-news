@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-31, 02:16:09",
+      "https://news.ycombinator.com/item?id=41115911"
+    ],
+    [
+      "Nobody Cares",
+      "https://a16z.com/nobody-cares/"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 01:06:09",
       "https://news.ycombinator.com/item?id=41115619"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-07-30, 18:55:14",
-      "https://news.ycombinator.com/item?id=41112855"
-    ],
-    [
-      "Fake job interviews are securities fraud",
-      "https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 18:55:10",
       "https://news.ycombinator.com/item?id=41112854"
     ],
@@ -127,6 +127,16 @@
     [
       "The Hitchhiker's Guide to Logical Verification [pdf] (2023)",
       "https://browncs1951x.github.io/static/files/hitchhikersguide.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 17:25:47",
+      "https://news.ycombinator.com/item?id=41111790"
+    ],
+    [
+      "Quint",
+      "https://quint-lang.org/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-07-30, 10:26:55",
-      "https://news.ycombinator.com/item?id=41107721"
-    ],
-    [
-      "Calculating the cost of a Google DeepMind paper",
-      "https://152334H.github.io/blog/scaling-exponents/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 09:32:56",
       "https://news.ycombinator.com/item?id=41107480"
     ],
@@ -227,6 +227,16 @@
     [
       "C Macro Reflection in Zig",
       "https://jstrieb.github.io/posts/c-reflection-zig/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 05:31:05",
+      "https://news.ycombinator.com/item?id=41106280"
+    ],
+    [
+      "Functional languages should be so much better at mutation than they are",
+      "https://cohost.org/prophet/post/7083950-functional-programmi"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Why is spawning a new process in Node so slow?",
       "https://blog.val.town/blog/node-spawn-performance/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 17:06:36",
-      "https://news.ycombinator.com/item?id=41080273"
-    ],
-    [
-      "Implementing and Improving Skiplists",
-      "https://mattjhall.co.uk/posts/skiplists.html"
     ]
   ],
   [
