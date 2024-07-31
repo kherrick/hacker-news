@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 06:48:01](https://news.ycombinator.com/item?id=41116908) - [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
 * [2024-07-31, 06:26:36](https://news.ycombinator.com/item?id=41116813) - [Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
 * [2024-07-31, 05:54:15](https://news.ycombinator.com/item?id=41116682) - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
 * [2024-07-31, 05:43:33](https://news.ycombinator.com/item?id=41116639) - [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
@@ -21,7 +22,6 @@
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://github.com/ssoready/ssoready)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike? (2022)](https://siliconfolklore.com/internet-history/)
 * [2024-07-30, 09:32:56](https://news.ycombinator.com/item?id=41107480) - [Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
-* [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 05:31:05](https://news.ycombinator.com/item?id=41106280) - [Functional languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 * [2024-07-29, 19:23:57](https://news.ycombinator.com/item?id=41102981) - [Show HN: Trayce – Network tab for Docker containers](https://trayce.dev)
