@@ -9,7 +9,6 @@
 * [2024-07-31, 15:07:24](https://news.ycombinator.com/item?id=41119874) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
-* [2024-07-31, 12:47:57](https://news.ycombinator.com/item?id=41118760) - [With CO2 Levels Rising, Drylands Are Turning Green – Yale E360](https://e360.yale.edu/features/greening-drylands-carbon-dioxide-climate-change)
 * [2024-07-31, 08:53:33](https://news.ycombinator.com/item?id=41117451) - [Spikey Spheres (2010)](https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2)
 * [2024-07-31, 06:26:36](https://news.ycombinator.com/item?id=41116813) - [Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
 * [2024-07-31, 05:43:33](https://news.ycombinator.com/item?id=41116639) - [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
@@ -30,6 +29,7 @@
 * [2024-07-28, 04:28:06](https://news.ycombinator.com/item?id=41091225) - [It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
 * [2024-07-27, 16:52:06](https://news.ycombinator.com/item?id=41087798) - [People Behind “The Print Shop” (1985)](https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/)
 * [2024-07-26, 05:32:05](https://news.ycombinator.com/item?id=41076021) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
+* [2024-07-25, 23:58:42](https://news.ycombinator.com/item?id=41074693) - [Marvell Teralynx 10 51.2T Switch in Volume Production with SONiC Support](https://www.servethehome.com/marvell-teralynx-10-51-2t-switch-in-volume-production-with-sonic-support/)
 
 ## [Archives](archives/index.md)
 

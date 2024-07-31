@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 23:58:42](https://news.ycombinator.com/item?id=41074693) - [Marvell Teralynx 10 51.2T Switch in Volume Production with SONiC Support](https://www.servethehome.com/marvell-teralynx-10-51-2t-switch-in-volume-production-with-sonic-support/)
 * [2024-07-25, 23:37:29](https://news.ycombinator.com/item?id=41074574) - [Chicken wings advertised as 'boneless' can have bones,Ohio Supreme Court decides](https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8)
 * [2024-07-25, 23:25:00](https://news.ycombinator.com/item?id=41074500) - [Dual action antibiotic could make bacterial resistance nearly impossible](https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html)
 * [2024-07-25, 23:23:34](https://news.ycombinator.com/item?id=41074488) - [Small neural network enables realistic rendering of woven fabrics in real-time](https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html)
