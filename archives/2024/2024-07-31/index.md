@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 20:09:26](https://news.ycombinator.com/item?id=41122939) - [Meta Reports Second Quarter 2024 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Second-Quarter-2024-Results-2024.pdf)
 * [2024-07-31, 20:05:20](https://news.ycombinator.com/item?id=41122920) - [Foobar2000](https://www.foobar2000.org/)
+* [2024-07-31, 20:04:03](https://news.ycombinator.com/item?id=41122911) - [Health Industry Company Sues to Prevent Certificate Revocation](https://www.hezmatt.org/~mpalmer/blog/2024/07/31/healthcare-company-sues-to-stop-certificate-revocation.html)
 * [2024-07-31, 19:50:36](https://news.ycombinator.com/item?id=41122792) - [Heavy metal analysis of dark chocolate and cocoa products in the USA](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1366231/full)
 * [2024-07-31, 19:04:01](https://news.ycombinator.com/item?id=41122321) - [Java EA Released: JEP 401: Value Classes and Objects](https://jdk.java.net/valhalla/)
 * [2024-07-31, 18:21:46](https://news.ycombinator.com/item?id=41121789) - [Apple Arcade developers say working with Apple is like in 'abusive relationship'](https://appleinsider.com/articles/24/07/31/apple-arcade-developers-say-working-with-apple-is-like-being-in-an-abusive-relationship)
