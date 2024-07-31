@@ -2,7 +2,6 @@
 
 * [2024-07-31, 22:05:25](https://news.ycombinator.com/item?id=41123989) - [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)
 * [2024-07-31, 22:01:42](https://news.ycombinator.com/item?id=41123945) - [How Middlemen Are Gaming the H-1B Program](https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/)
-* [2024-07-31, 22:01:02](https://news.ycombinator.com/item?id=41123941) - [Is A.I. Art Stealing from Artists? (2023)](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
 * [2024-07-31, 21:00:42](https://news.ycombinator.com/item?id=41123416) - [Andi (YC W22) is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
 * [2024-07-31, 20:34:31](https://news.ycombinator.com/item?id=41123155) - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
 * [2024-07-31, 20:24:24](https://news.ycombinator.com/item?id=41123061) - [Run Google Gemma 2 2B 100% Locally](https://news.ycombinator.com/item?id=41123061)
@@ -28,6 +27,7 @@
 * [2024-07-29, 23:09:58](https://news.ycombinator.com/item?id=41104597) - [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
 * [2024-07-29, 22:14:51](https://news.ycombinator.com/item?id=41104288) - [Amazon's exabyte-scale migration from Apache Spark to Ray on EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
 * [2024-07-29, 16:22:58](https://news.ycombinator.com/item?id=41101597) - [Polylith](https://polylith.gitbook.io/polylith)
+* [2024-07-28, 03:49:30](https://news.ycombinator.com/item?id=41091109) - [Milton Bartholomew: More pianos than typewriters](https://type-writer.org/?p=6981)
 * [2024-07-27, 18:19:30](https://news.ycombinator.com/item?id=41088355) - [Tell HN: I am going to host \"Real Analysis\" book club meetings](https://news.ycombinator.com/item?id=41088355)
 * [2024-07-26, 05:32:05](https://news.ycombinator.com/item?id=41076021) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 
