@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 12:33:32](https://news.ycombinator.com/item?id=41118659) - [New study finds people alter their appearance to suit their names](https://phys.org/news/2024-07-reveals-people-evolve.html)
 * [2024-07-31, 12:00:22](https://news.ycombinator.com/item?id=41118418) - [PlayAI (YC W23) Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
-* [2024-07-31, 11:50:37](https://news.ycombinator.com/item?id=41118349) - [Which country consumes the most coffee?](https://cafely.com/blogs/research/which-country-consumes-the-most-coffee)
-* [2024-07-31, 11:40:50](https://news.ycombinator.com/item?id=41118281) - [Australia starts world-first peanut allergy treatment for babies](https://www.bbc.co.uk/news/articles/c0xj3xq5l1vo)
 * [2024-07-31, 06:26:36](https://news.ycombinator.com/item?id=41116813) - [Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
 * [2024-07-31, 05:43:33](https://news.ycombinator.com/item?id=41116639) - [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
@@ -27,6 +26,7 @@
 * [2024-07-30, 05:31:05](https://news.ycombinator.com/item?id=41106280) - [Functional languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 * [2024-07-29, 19:23:57](https://news.ycombinator.com/item?id=41102981) - [Show HN: Trayce – Network tab for Docker containers](https://trayce.dev)
+* [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 * [2024-07-28, 04:28:06](https://news.ycombinator.com/item?id=41091225) - [It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
 * [2024-07-26, 05:42:18](https://news.ycombinator.com/item?id=41076063) - [Genetically synthesized supergain broadband wire-bundle antenna](https://www.nature.com/articles/s44172-024-00235-y)
 * [2024-07-26, 05:32:05](https://news.ycombinator.com/item?id=41076021) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)

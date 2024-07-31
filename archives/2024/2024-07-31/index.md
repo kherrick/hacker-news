@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 12:33:32](https://news.ycombinator.com/item?id=41118659) - [New study finds people alter their appearance to suit their names](https://phys.org/news/2024-07-reveals-people-evolve.html)
 * [2024-07-31, 12:00:22](https://news.ycombinator.com/item?id=41118418) - [PlayAI (YC W23) Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
 * [2024-07-31, 11:50:37](https://news.ycombinator.com/item?id=41118349) - [Which country consumes the most coffee?](https://cafely.com/blogs/research/which-country-consumes-the-most-coffee)
 * [2024-07-31, 11:40:50](https://news.ycombinator.com/item?id=41118281) - [Australia starts world-first peanut allergy treatment for babies](https://www.bbc.co.uk/news/articles/c0xj3xq5l1vo)
