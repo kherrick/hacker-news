@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 23:31:33](https://news.ycombinator.com/item?id=41115128) - [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
 * [2024-07-30, 22:56:07](https://news.ycombinator.com/item?id=41114935) - [Metaphysical Experiments Probe Our Hidden Assumptions About Reality](https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730)
 * [2024-07-30, 22:39:21](https://news.ycombinator.com/item?id=41114839) - [Our Audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
+* [2024-07-30, 22:37:24](https://news.ycombinator.com/item?id=41114825) - [Creativity fundamentally comes from memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
+* [2024-07-30, 22:07:53](https://news.ycombinator.com/item?id=41114601) - [Building static binaries with Go on Linux](https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/)
 * [2024-07-30, 22:04:39](https://news.ycombinator.com/item?id=41114569) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
+* [2024-07-30, 21:49:04](https://news.ycombinator.com/item?id=41114468) - [Check Maybe Div by Zero for Gleam](https://hexdocs.pm/check_maybe_div_by_zero/)
 * [2024-07-30, 21:47:25](https://news.ycombinator.com/item?id=41114456) - [Microsoft stock drops over 6% after results fall short in AI disappointment](https://finance.yahoo.com/news/microsoft-stock-drops-over-6-after-results-fall-short-in-latest-ai-disappointment-201321390.html)
 * [2024-07-30, 21:21:02](https://news.ycombinator.com/item?id=41114250) - [Coinbase appears to have violated campaign finance laws with 25M donation](https://www.citationneeded.news/coinbase-campaign-finance-violation/)
 * [2024-07-30, 21:17:47](https://news.ycombinator.com/item?id=41114225) - [Disneyland unions agree to 'historic' 31% pay raise](https://www.ocregister.com/2024/07/30/disneyland-unions-agree-to-historic-31-pay-raise/)
