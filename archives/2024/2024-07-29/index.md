@@ -15,6 +15,7 @@
 * [2024-07-29, 22:36:23](https://news.ycombinator.com/item?id=41104395) - [PasteBar – Limitless, Free Clipboard Manager for Mac and Windows. Open Source](https://github.com/PasteBar/PasteBarApp)
 * [2024-07-29, 22:18:01](https://news.ycombinator.com/item?id=41104305) - [FastHTML – Modern web applications in pure Python](https://fastht.ml/)
 * [2024-07-29, 22:15:53](https://news.ycombinator.com/item?id=41104293) - [Running One-man SaaS for 9 Years](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
+* [2024-07-29, 22:14:51](https://news.ycombinator.com/item?id=41104288) - [Amazon's exabyte-scale migration from Apache Spark to Ray on EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
 * [2024-07-29, 22:09:04](https://news.ycombinator.com/item?id=41104243) - [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
 * [2024-07-29, 21:40:42](https://news.ycombinator.com/item?id=41104077) - [The music industry is engineering artist popularity](https://www.theguardian.com/music/article/2024/jul/29/the-music-industry-is-engineering-artist-popularity-and-listeners-are-right-to-be-angry)
 * [2024-07-29, 21:31:57](https://news.ycombinator.com/item?id=41104002) - [Lego's CEO on the business case for play](https://www.bbc.com/worklife/article/20240725-legos-ceo-on-the-business-case-for-play)
