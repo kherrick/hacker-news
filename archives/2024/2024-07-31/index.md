@@ -6,6 +6,7 @@
 
 * [2024-07-31, 05:54:15](https://news.ycombinator.com/item?id=41116682) - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
 * [2024-07-31, 05:43:33](https://news.ycombinator.com/item?id=41116639) - [Rustgo: Calling Rust from Go with near-zero overhead](https://words.filippo.io/rustgo/)
+* [2024-07-31, 05:42:37](https://news.ycombinator.com/item?id=41116635) - [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
 * [2024-07-31, 04:03:28](https://news.ycombinator.com/item?id=41116333) - [It took some serious nerve for Wiz to walk away from Google's $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/)
 * [2024-07-31, 03:47:42](https://news.ycombinator.com/item?id=41116253) - [Construction of the AT&T Long Lines \"Cheshire\" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
