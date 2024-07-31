@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-31, 15:35:10](https://news.ycombinator.com/item?id=41120112) - [YouTube now flooding your ad-block with \"fake\" ads that slow the browser](https://old.reddit.com/r/youtube/comments/1egk580/youtube_now_flooding_your_adblock_with_fake_ads/)
 * [2024-07-31, 15:07:24](https://news.ycombinator.com/item?id=41119874) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How Great Was the “Great Oxidation Event”?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
 * [2024-07-31, 12:29:50](https://news.ycombinator.com/item?id=41118638) - [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
@@ -24,6 +23,7 @@
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://github.com/ssoready/ssoready)
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
+* [2024-07-30, 09:32:56](https://news.ycombinator.com/item?id=41107480) - [Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
 * [2024-07-30, 05:31:05](https://news.ycombinator.com/item?id=41106280) - [Functional languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 * [2024-07-29, 19:23:57](https://news.ycombinator.com/item?id=41102981) - [Show HN: Trayce – Network tab for Docker containers](https://trayce.dev)
