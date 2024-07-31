@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-31, 01:00:26",
+      "https://news.ycombinator.com/item?id=41115591"
+    ],
+    [
+      "Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)",
+      "https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 23:31:33",
       "https://news.ycombinator.com/item?id=41115128"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2024-07-30, 15:07:51",
-      "https://news.ycombinator.com/item?id=41109891"
-    ],
-    [
-      "Why doesn't advice work?",
-      "https://dynomight.substack.com/p/advice"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 13:20:14",
       "https://news.ycombinator.com/item?id=41108884"
     ],
     [
       "Was the Internet created to survive a nuclear strike? (2022)",
       "https://siliconfolklore.com/internet-history/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 13:15:47",
-      "https://news.ycombinator.com/item?id=41108843"
-    ],
-    [
-      "Show HN: A video editing SDK that runs in the browser",
-      "https://rendley.com/"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2024-07-30, 08:39:44",
-      "https://news.ycombinator.com/item?id=41107209"
-    ],
-    [
-      "Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)",
-      "https://canarytokens.org/nest/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 06:57:53",
       "https://news.ycombinator.com/item?id=41106686"
     ],
@@ -257,6 +237,26 @@
     [
       "Missing Henry VIII portrait found after random X post",
       "https://www.bbc.com/news/articles/ckdgp7r5y11o"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 00:19:48",
+      "https://news.ycombinator.com/item?id=41104954"
+    ],
+    [
+      "Show HN: An interactive creative coding project in p5.js",
+      "https://synapse.nugatio.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 19:23:57",
+      "https://news.ycombinator.com/item?id=41102981"
+    ],
+    [
+      "Show HN: Trayce – Network tab for Docker containers",
+      "https://trayce.dev"
     ]
   ],
   [
