@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-31, 02:16:09",
+      "https://news.ycombinator.com/item?id=41115911"
+    ],
+    [
+      "Nobody Cares",
+      "https://a16z.com/nobody-cares/"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 01:06:09",
       "https://news.ycombinator.com/item?id=41115619"
     ],
@@ -287,16 +297,6 @@
     [
       "Genetically synthesized supergain broadband wire-bundle antenna",
       "https://www.nature.com/articles/s44172-024-00235-y"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 12:45:36",
-      "https://news.ycombinator.com/item?id=41068016"
-    ],
-    [
-      "Zuo: A Tiny Racket for Scripting",
-      "https://github.com/racket/zuo"
     ]
   ]
 ]
