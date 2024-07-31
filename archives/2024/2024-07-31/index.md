@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 13:05:28](https://news.ycombinator.com/item?id=41118864) - [Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables](https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables)
+* [2024-07-31, 13:01:34](https://news.ycombinator.com/item?id=41118844) - [Using the term 'AI' in product descriptions reduces purchase intentions](https://news.wsu.edu/press-release/2024/07/30/using-the-term-artificial-intelligence-in-product-descriptions-reduces-purchase-intentions/)
 * [2024-07-31, 12:33:32](https://news.ycombinator.com/item?id=41118659) - [New study finds people alter their appearance to suit their names](https://phys.org/news/2024-07-reveals-people-evolve.html)
 * [2024-07-31, 12:29:50](https://news.ycombinator.com/item?id=41118638) - [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
 * [2024-07-31, 12:00:22](https://news.ycombinator.com/item?id=41118418) - [PlayAI (YC W23) Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
