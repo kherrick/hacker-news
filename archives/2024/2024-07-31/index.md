@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 15:13:12](https://news.ycombinator.com/item?id=41119933) - [Regular Glucosamine Use and Mortality](https://ard.bmj.com/content/79/6/829)
+* [2024-07-31, 15:07:24](https://news.ycombinator.com/item?id=41119874) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 14:21:49](https://news.ycombinator.com/item?id=41119415) - [Ask HN: How are you finding the job market in July 2024?](https://news.ycombinator.com/item?id=41119415)
+* [2024-07-31, 14:18:06](https://news.ycombinator.com/item?id=41119388) - [Complete WordStar 7.0 Archive](https://sfwriter.com/ws7.htm)
 * [2024-07-31, 14:00:53](https://news.ycombinator.com/item?id=41119244) - [Diet impacts metabolic disease via gut microbiota alterations](https://www.sciencedirect.com/science/article/pii/S0022316624002803)
 * [2024-07-31, 13:58:08](https://news.ycombinator.com/item?id=41119218) - [Tesla recalls 1.8M cars because their hoods can open while driving](https://arstechnica.com/cars/2024/07/tesla-recalls-1-8-million-cars-because-their-hoods-can-open-while-driving/)
 * [2024-07-31, 13:51:41](https://news.ycombinator.com/item?id=41119166) - [\"Sugar rush\" in children seems to be confirmation bias](https://juliawise.net/sugar-rush-in-children-seems-to-be-confirmation-bias/)
 * [2024-07-31, 13:49:07](https://news.ycombinator.com/item?id=41119151) - [Our data isn't safe. Resist giving it up whenever you can](https://www.washingtonpost.com/business/2024/07/31/data-breach-resistance/)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How Great Was the \"Great Oxidation Event\"?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
+* [2024-07-31, 13:37:12](https://news.ycombinator.com/item?id=41119047) - [GrapheneOS may take legal action against Google regarding Play Integrity API](https://x.com/arstechnica/status/1818325952553947517)
 * [2024-07-31, 13:37:12](https://news.ycombinator.com/item?id=41119047) - [GrapheneOS may take legal action against Google regarding Play Integrity API](https://nitter.poast.org/GrapheneOS/status/1818415391791570995#m)
 * [2024-07-31, 13:21:22](https://news.ycombinator.com/item?id=41118962) - [A Mathematician's Lament [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 * [2024-07-31, 13:05:28](https://news.ycombinator.com/item?id=41118864) - [Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables](https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables)
