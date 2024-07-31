@@ -84,6 +84,7 @@
 * [2024-07-28, 06:41:52](https://news.ycombinator.com/item?id=41091623) - [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
 * [2024-07-28, 04:28:06](https://news.ycombinator.com/item?id=41091225) - [It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
 * [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
+* [2024-07-28, 03:49:30](https://news.ycombinator.com/item?id=41091109) - [Milton Bartholomew: More pianos than typewriters](https://type-writer.org/?p=6981)
 * [2024-07-28, 03:15:56](https://news.ycombinator.com/item?id=41091004) - [Neuroscientists Battle Furiously over Jennifer Aniston](https://www.npr.org/sections/krulwich/2012/03/30/149685880/neuroscientists-battle-furiously-over-jennifer-aniston)
 * [2024-07-28, 01:39:06](https://news.ycombinator.com/item?id=41090658) - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
 * [2024-07-28, 00:33:19](https://news.ycombinator.com/item?id=41090397) - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
