@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-31, 17:16:16](https://news.ycombinator.com/item?id=41121083) - [Carbon capture and storage is a fantasy](https://www.vox.com/climate/363076/climate-change-solution-shell-exxon-mobil-carbon-capture)
-* [2024-07-31, 17:01:37](https://news.ycombinator.com/item?id=41120961) - [Xbox console sales continue to crater with 42% revenue drop](https://arstechnica.com/gaming/2024/07/xbox-console-sales-continue-to-crater-with-massive-42-revenue-drop/)
+* [2024-07-31, 17:30:35](https://news.ycombinator.com/item?id=41121237) - [Meta Has Run Hundreds of Ads for Cocaine, Opioids and Other Drugs](https://www.wsj.com/tech/meta-cocaine-opioids-ads-dea8e0fc)
 * [2024-07-31, 17:00:42](https://news.ycombinator.com/item?id=41120954) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
 * [2024-07-31, 16:47:54](https://news.ycombinator.com/item?id=41120835) - [Ampere AmpereOne Aurora 512 Core AI CPU Announced](https://www.servethehome.com/ampere-ampereone-aurora-512-core-ai-cpu-announced-arm/)
 * [2024-07-31, 16:19:04](https://news.ycombinator.com/item?id=41120535) - [The consequences of generative AI for online knowledge communities](https://www.nature.com/articles/s41598-024-61221-0)
@@ -26,10 +25,11 @@
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 * [2024-07-30, 05:31:05](https://news.ycombinator.com/item?id=41106280) - [Functional languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
-* [2024-07-28, 04:28:06](https://news.ycombinator.com/item?id=41091225) - [It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
+* [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
+* [2024-07-29, 23:09:58](https://news.ycombinator.com/item?id=41104597) - [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
+* [2024-07-29, 16:22:58](https://news.ycombinator.com/item?id=41101597) - [Polylith](https://polylith.gitbook.io/polylith)
 * [2024-07-27, 16:52:06](https://news.ycombinator.com/item?id=41087798) - [People Behind “The Print Shop” (1985)](https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/)
 * [2024-07-26, 05:32:05](https://news.ycombinator.com/item?id=41076021) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
-* [2024-07-25, 23:58:42](https://news.ycombinator.com/item?id=41074693) - [Marvell Teralynx 10 51.2T Switch in Volume Production with SONiC Support](https://www.servethehome.com/marvell-teralynx-10-51-2t-switch-in-volume-production-with-sonic-support/)
 
 ## [Archives](archives/index.md)
 

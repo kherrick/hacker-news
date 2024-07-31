@@ -94,6 +94,7 @@
 * [2024-07-30, 01:21:53](https://news.ycombinator.com/item?id=41105285) - [A.I.-Powered Trap That Zaps Invasive Lanternflies](https://www.smithsonianmag.com/innovation/this-high-schooler-invented-an-ai-powered-trap-that-zaps-invasive-lanternflies-180983918/)
 * [2024-07-30, 01:16:23](https://news.ycombinator.com/item?id=41105261) - [Microjs](http://microjs.com/)
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
+* [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
 * [2024-07-30, 00:32:44](https://news.ycombinator.com/item?id=41105018) - [Email explained from first principles (2021)](https://explained-from-first-principles.com/email/)
 * [2024-07-30, 00:27:03](https://news.ycombinator.com/item?id=41104997) - [AWS Code Commit Ceased Onboarding New Customers](https://repost.aws/questions/QUshILm0xbTjWJZSD8afYVgA/codecommit-cannot-create-a-repository)
 * [2024-07-30, 00:19:48](https://news.ycombinator.com/item?id=41104954) - [Show HN: An interactive creative coding project in p5.js](https://synapse.nugatio.com/)
