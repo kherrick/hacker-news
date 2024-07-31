@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-31, 00:08:24",
-      "https://news.ycombinator.com/item?id=41115309"
-    ],
-    [
-      "Amazon forced to recall 400K products that could kill, electrocute people",
-      "https://arstechnica.com/tech-policy/2024/07/amazon-forced-to-recall-400k-products-that-could-kill-electrocute-people/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 23:31:33",
       "https://news.ycombinator.com/item?id=41115128"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41114839"
     ],
     [
-      "Our Audit of Homebrew",
+      "Our audit of Homebrew",
       "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/"
     ]
   ],
@@ -67,16 +57,6 @@
     [
       "Troubleshooting: Terminal Lag",
       "https://lock.cmpxchg8b.com/slowterm.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 21:49:04",
-      "https://news.ycombinator.com/item?id=41114468"
-    ],
-    [
-      "Check Maybe Div by Zero for Gleam",
-      "https://hexdocs.pm/check_maybe_div_by_zero/"
     ]
   ],
   [
@@ -135,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41112103"
     ],
     [
-      "The Hitchhiker's Guide to Logical Verification [pdf]",
+      "The Hitchhiker's Guide to Logical Verification [pdf] (2023)",
       "https://browncs1951x.github.io/static/files/hitchhikersguide.pdf"
     ]
   ],
@@ -186,7 +166,7 @@
     ],
     [
       "Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source",
-      "https://news.ycombinator.com/item?id=41110850"
+      "https://github.com/ssoready/ssoready"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-07-30, 13:15:47",
+      "https://news.ycombinator.com/item?id=41108843"
+    ],
+    [
+      "Show HN: A video editing SDK that runs in the browser",
+      "https://rendley.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 10:26:55",
       "https://news.ycombinator.com/item?id=41107721"
     ],
@@ -237,6 +227,16 @@
     [
       "Butterflies accumulate static electricity to attract pollen without contact",
       "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 08:39:44",
+      "https://news.ycombinator.com/item?id=41107209"
+    ],
+    [
+      "Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)",
+      "https://canarytokens.org/nest/"
     ]
   ],
   [
