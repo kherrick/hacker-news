@@ -2,9 +2,7 @@
 
 * [2024-07-31, 22:05:25](https://news.ycombinator.com/item?id=41123989) - [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)
 * [2024-07-31, 22:01:02](https://news.ycombinator.com/item?id=41123941) - [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
-* [2024-07-31, 21:04:43](https://news.ycombinator.com/item?id=41123449) - [This Month in Ladybird: July 2024](https://mailchi.mp/ladybird/july-2024)
 * [2024-07-31, 21:00:42](https://news.ycombinator.com/item?id=41123416) - [Andi (YC W22) is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
-* [2024-07-31, 20:59:31](https://news.ycombinator.com/item?id=41123405) - [Milei's government will monitor social media with AI to 'predict future crimes'](https://english.elpais.com/international/2024-07-30/javier-mileis-government-will-monitor-social-media-with-ai-to-predict-future-crimes.html)
 * [2024-07-31, 20:34:31](https://news.ycombinator.com/item?id=41123155) - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
 * [2024-07-31, 20:15:26](https://news.ycombinator.com/item?id=41122986) - [An affordable, portable and focused device for music, writing and coding](https://tulip.computer/)
 * [2024-07-31, 19:50:37](https://news.ycombinator.com/item?id=41122793) - [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
@@ -19,6 +17,7 @@
 * [2024-07-31, 03:47:42](https://news.ycombinator.com/item?id=41116253) - [Construction of the AT&T Long Lines \"Cheshire\" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
+* [2024-07-30, 22:39:21](https://news.ycombinator.com/item?id=41114839) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 22:37:24](https://news.ycombinator.com/item?id=41114825) - [Creativity fundamentally comes from memorization?](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 * [2024-07-30, 16:46:15](https://news.ycombinator.com/item?id=41111208) - [Divers discover Roman mosaic](https://www.smithsonianmag.com/smart-news/underwater-marble-floor-mosaic-discovered-off-the-coast-of-naples-180984772/)
@@ -28,6 +27,7 @@
 * [2024-07-29, 23:09:58](https://news.ycombinator.com/item?id=41104597) - [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
 * [2024-07-29, 22:14:51](https://news.ycombinator.com/item?id=41104288) - [Amazon's exabyte-scale migration from Apache Spark to Ray on EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
 * [2024-07-29, 16:22:58](https://news.ycombinator.com/item?id=41101597) - [Polylith](https://polylith.gitbook.io/polylith)
+* [2024-07-28, 03:49:30](https://news.ycombinator.com/item?id=41091109) - [Milton Bartholomew: More pianos than typewriters](https://type-writer.org/?p=6981)
 * [2024-07-27, 18:19:30](https://news.ycombinator.com/item?id=41088355) - [Tell HN: I am going to host \"Real Analysis\" book club meetings](https://news.ycombinator.com/item?id=41088355)
 * [2024-07-26, 05:32:05](https://news.ycombinator.com/item?id=41076021) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 
