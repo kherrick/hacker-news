@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 15:49:55](https://news.ycombinator.com/item?id=41120254) - [Why I Prefer RST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
+* [2024-07-31, 15:44:10](https://news.ycombinator.com/item?id=41120201) - [Jeff Bezos' famed management rules are slowly unraveling inside Amazon](https://fortune.com/2024/07/31/amazon-leadership-principles-questions-future-jeff-bezos-departure-andy-jassy/)
 * [2024-07-31, 15:35:10](https://news.ycombinator.com/item?id=41120112) - [YouTube now flooding your ad-block with \"fake\" ads that slow the browser](https://old.reddit.com/r/youtube/comments/1egk580/youtube_now_flooding_your_adblock_with_fake_ads/)
 * [2024-07-31, 15:13:12](https://news.ycombinator.com/item?id=41119933) - [Regular Glucosamine Use and Mortality](https://ard.bmj.com/content/79/6/829)
 * [2024-07-31, 15:07:24](https://news.ycombinator.com/item?id=41119874) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
@@ -21,6 +23,7 @@
 * [2024-07-31, 13:21:22](https://news.ycombinator.com/item?id=41118962) - [A Mathematician's Lament [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 * [2024-07-31, 13:05:28](https://news.ycombinator.com/item?id=41118864) - [Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables](https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables)
 * [2024-07-31, 13:01:34](https://news.ycombinator.com/item?id=41118844) - [Using the term 'AI' in product descriptions reduces purchase intentions](https://news.wsu.edu/press-release/2024/07/30/using-the-term-artificial-intelligence-in-product-descriptions-reduces-purchase-intentions/)
+* [2024-07-31, 12:47:57](https://news.ycombinator.com/item?id=41118760) - [With CO2 Levels Rising, Drylands Are Turning Green – Yale E360](https://e360.yale.edu/features/greening-drylands-carbon-dioxide-climate-change)
 * [2024-07-31, 12:33:32](https://news.ycombinator.com/item?id=41118659) - [New study finds people alter their appearance to suit their names](https://phys.org/news/2024-07-reveals-people-evolve.html)
 * [2024-07-31, 12:29:50](https://news.ycombinator.com/item?id=41118638) - [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
 * [2024-07-31, 12:00:22](https://news.ycombinator.com/item?id=41118418) - [PlayAI (YC W23) Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
