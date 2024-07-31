@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 14:21:49](https://news.ycombinator.com/item?id=41119415) - [Ask HN: How are you finding the job market in July 2024?](https://news.ycombinator.com/item?id=41119415)
 * [2024-07-31, 13:51:41](https://news.ycombinator.com/item?id=41119166) - [\"Sugar rush\" in children seems to be confirmation bias](https://juliawise.net/sugar-rush-in-children-seems-to-be-confirmation-bias/)
 * [2024-07-31, 13:49:07](https://news.ycombinator.com/item?id=41119151) - [Our data isn't safe. Resist giving it up whenever you can](https://www.washingtonpost.com/business/2024/07/31/data-breach-resistance/)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How Great Was the \"Great Oxidation Event\"?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
@@ -25,7 +26,6 @@
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://github.com/ssoready/ssoready)
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
-* [2024-07-30, 05:31:05](https://news.ycombinator.com/item?id=41106280) - [Functional languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 * [2024-07-28, 04:28:06](https://news.ycombinator.com/item?id=41091225) - [It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
 * [2024-07-27, 16:52:06](https://news.ycombinator.com/item?id=41087798) - [People Behind \"The Print Shop\" (1985)](https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/)
