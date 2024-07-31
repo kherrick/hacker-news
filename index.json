@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-31, 00:08:24",
+      "https://news.ycombinator.com/item?id=41115309"
+    ],
+    [
+      "Amazon forced to recall 400K products that could kill, electrocute people",
+      "https://arstechnica.com/tech-policy/2024/07/amazon-forced-to-recall-400k-products-that-could-kill-electrocute-people/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 23:31:33",
+      "https://news.ycombinator.com/item?id=41115128"
+    ],
+    [
+      "Ngtop – Request analytics from the Nginx access logs",
+      "https://github.com/facundoolano/ngtop"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 22:56:07",
       "https://news.ycombinator.com/item?id=41114935"
     ],
@@ -21,12 +41,42 @@
   ],
   [
     [
+      "2024-07-30, 22:37:24",
+      "https://news.ycombinator.com/item?id=41114825"
+    ],
+    [
+      "Creativity fundamentally comes from memorization",
+      "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 22:07:53",
+      "https://news.ycombinator.com/item?id=41114601"
+    ],
+    [
+      "Building static binaries with Go on Linux",
+      "https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 22:04:39",
       "https://news.ycombinator.com/item?id=41114569"
     ],
     [
       "Troubleshooting: Terminal Lag",
       "https://lock.cmpxchg8b.com/slowterm.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 21:49:04",
+      "https://news.ycombinator.com/item?id=41114468"
+    ],
+    [
+      "Check Maybe Div by Zero for Gleam",
+      "https://hexdocs.pm/check_maybe_div_by_zero/"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2024-07-30, 16:35:04",
-      "https://news.ycombinator.com/item?id=41111062"
-    ],
-    [
-      "JavaScript garbage collection and closures",
-      "https://jakearchibald.com/2024/garbage-collection-and-closures/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 16:20:45",
       "https://news.ycombinator.com/item?id=41110866"
     ],
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2024-07-30, 14:58:54",
-      "https://news.ycombinator.com/item?id=41109799"
-    ],
-    [
-      "A eulogy for Dark Sky, a data visualization masterpiece (2023)",
-      "https://nightingaledvs.com/dark-sky-weather-data-viz/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 13:20:14",
       "https://news.ycombinator.com/item?id=41108884"
     ],
     [
       "Was the Internet created to survive a nuclear strike? (2022)",
       "https://siliconfolklore.com/internet-history/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 13:15:47",
-      "https://news.ycombinator.com/item?id=41108843"
-    ],
-    [
-      "Show HN: A video editing SDK that runs in the browser",
-      "https://rendley.com/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-07-30, 08:39:44",
-      "https://news.ycombinator.com/item?id=41107209"
-    ],
-    [
-      "Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)",
-      "https://canarytokens.org/nest/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 06:57:53",
       "https://news.ycombinator.com/item?id=41106686"
     ],
@@ -247,16 +257,6 @@
     [
       "Missing Henry VIII portrait found after random X post",
       "https://www.bbc.com/news/articles/ckdgp7r5y11o"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 17:01:49",
-      "https://news.ycombinator.com/item?id=41101882"
-    ],
-    [
-      "Scientists uncover the ancient origins of baobab trees",
-      "https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/"
     ]
   ],
   [
