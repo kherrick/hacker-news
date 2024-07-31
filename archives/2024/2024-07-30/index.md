@@ -43,6 +43,7 @@
 * [2024-07-30, 16:20:45](https://news.ycombinator.com/item?id=41110866) - [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
 * [2024-07-30, 16:20:24](https://news.ycombinator.com/item?id=41110860) - [A new approach to error handling](https://boomla.com/docs/error-handling)
 * [2024-07-30, 16:20:14](https://news.ycombinator.com/item?id=41110859) - [The Little Tech Agenda](https://a16z.com/the-little-tech-agenda/)
+* [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://github.com/ssoready/ssoready)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO Painless and Open Source](https://news.ycombinator.com/item?id=41110850)
 * [2024-07-30, 15:59:43](https://news.ycombinator.com/item?id=41110530) - [CSC ServiceWorks laundry machine coin bypass](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml)
 * [2024-07-30, 15:48:24](https://news.ycombinator.com/item?id=41110355) - [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
