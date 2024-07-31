@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 19:04:01](https://news.ycombinator.com/item?id=41122321) - [Java EA Released: JEP 401: Value Classes and Objects](https://jdk.java.net/valhalla/)
 * [2024-07-31, 18:21:46](https://news.ycombinator.com/item?id=41121789) - [Apple Arcade developers say working with Apple is like in 'abusive relationship'](https://appleinsider.com/articles/24/07/31/apple-arcade-developers-say-working-with-apple-is-like-being-in-an-abusive-relationship)
 * [2024-07-31, 18:16:30](https://news.ycombinator.com/item?id=41121718) - [Braid: Anniversary Edition \"sold like dog s***\", says creator Jonathan Blow](https://www.eurogamer.net/braid-anniversary-edition-sold-like-dog-s-says-creator-jonathan-blow)
 * [2024-07-31, 18:13:49](https://news.ycombinator.com/item?id=41121689) - [After years of leniency, ULA cracks down on hobbyist photographers](https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/)

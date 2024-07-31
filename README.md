@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 19:04:01](https://news.ycombinator.com/item?id=41122321) - [Java EA Released: JEP 401: Value Classes and Objects](https://jdk.java.net/valhalla/)
 * [2024-07-31, 18:13:49](https://news.ycombinator.com/item?id=41121689) - [After years of leniency, ULA cracks down on hobbyist photographers](https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/)
 * [2024-07-31, 17:30:35](https://news.ycombinator.com/item?id=41121237) - [Meta Has Run Hundreds of Ads for Cocaine, Opioids and Other Drugs](https://www.wsj.com/tech/meta-cocaine-opioids-ads-dea8e0fc)
 * [2024-07-31, 17:00:42](https://news.ycombinator.com/item?id=41120954) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
@@ -10,7 +11,6 @@
 * [2024-07-31, 15:44:10](https://news.ycombinator.com/item?id=41120201) - [Jeff Bezos' management rules are slowly unraveling inside Amazon](https://fortune.com/2024/07/31/amazon-leadership-principles-questions-future-jeff-bezos-departure-andy-jassy/)
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
-* [2024-07-31, 08:53:33](https://news.ycombinator.com/item?id=41117451) - [Spikey Spheres (2010)](https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2)
 * [2024-07-31, 08:42:03](https://news.ycombinator.com/item?id=41117398) - [Constellations from Around the World (2019)](https://github.com/eleanorlutz/worldstars_atlas_of_space)
 * [2024-07-31, 06:26:36](https://news.ycombinator.com/item?id=41116813) - [Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
