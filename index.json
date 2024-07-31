@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-31, 06:26:36",
+      "https://news.ycombinator.com/item?id=41116813"
+    ],
+    [
+      "Cargo Cult Science (1974)",
+      "https://fermatslibrary.com/s/cargo-cult-science"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 05:54:15",
       "https://news.ycombinator.com/item?id=41116682"
     ],
@@ -37,6 +47,16 @@
     [
       "macOS in Docker Container",
       "https://github.com/sickcodes/Docker-OSX"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 04:30:15",
+      "https://news.ycombinator.com/item?id=41116414"
+    ],
+    [
+      "FakeTraveler: Fake where your phone is located (Mock location for Android)",
+      "https://github.com/mcastillof/FakeTraveler"
     ]
   ],
   [
@@ -137,26 +157,6 @@
     [
       "Porffor: A from-scratch experimental ahead-of-time JS engine",
       "https://porffor.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 17:51:08",
-      "https://news.ycombinator.com/item?id=41112103"
-    ],
-    [
-      "The Hitchhiker's Guide to Logical Verification [pdf] (2023)",
-      "https://browncs1951x.github.io/static/files/hitchhikersguide.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 17:25:47",
-      "https://news.ycombinator.com/item?id=41111790"
-    ],
-    [
-      "Quint",
-      "https://quint-lang.org/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-07-27, 16:52:06",
+      "https://news.ycombinator.com/item?id=41087798"
+    ],
+    [
+      "People Behind \"The Print Shop\" (1985)",
+      "https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 05:42:18",
       "https://news.ycombinator.com/item?id=41076063"
     ],
     [
       "Genetically synthesized supergain broadband wire-bundle antenna",
       "https://www.nature.com/articles/s44172-024-00235-y"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 03:05:24",
-      "https://news.ycombinator.com/item?id=41075482"
-    ],
-    [
-      "The curious history of chain letters (2010)",
-      "https://slate.com/culture/2010/10/the-curious-history-of-chain-letters.html"
     ]
   ]
 ]
