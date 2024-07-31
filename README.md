@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-31, 06:48:01](https://news.ycombinator.com/item?id=41116908) - [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
+* [2024-07-31, 06:41:49](https://news.ycombinator.com/item?id=41116885) - [Fedora Asahi Remix](https://bentsukun.ch/posts/fedora-asahi/)
 * [2024-07-31, 06:26:36](https://news.ycombinator.com/item?id=41116813) - [Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
 * [2024-07-31, 05:54:15](https://news.ycombinator.com/item?id=41116682) - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
 * [2024-07-31, 05:43:33](https://news.ycombinator.com/item?id=41116639) - [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
-* [2024-07-31, 05:42:37](https://news.ycombinator.com/item?id=41116635) - [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
 * [2024-07-31, 04:30:15](https://news.ycombinator.com/item?id=41116414) - [FakeTraveler: Fake where your phone is located (Mock location for Android)](https://github.com/mcastillof/FakeTraveler)
 * [2024-07-31, 03:47:42](https://news.ycombinator.com/item?id=41116253) - [Construction of the AT&T Long Lines \"Cheshire\" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
