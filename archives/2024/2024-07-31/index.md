@@ -10,6 +10,7 @@
 * [2024-07-31, 12:29:50](https://news.ycombinator.com/item?id=41118638) - [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
 * [2024-07-31, 12:00:22](https://news.ycombinator.com/item?id=41118418) - [PlayAI (YC W23) Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
 * [2024-07-31, 11:50:37](https://news.ycombinator.com/item?id=41118349) - [Which country consumes the most coffee?](https://cafely.com/blogs/research/which-country-consumes-the-most-coffee)
+* [2024-07-31, 11:44:30](https://news.ycombinator.com/item?id=41118300) - [So You're Thinking About Monetizing Your Blog – Loren's Blog](https://lorenblog.me/posts/so-you-re-thinking-about-monetizing-your-blog)
 * [2024-07-31, 11:40:50](https://news.ycombinator.com/item?id=41118281) - [Australia starts world-first peanut allergy treatment for babies](https://www.bbc.co.uk/news/articles/c0xj3xq5l1vo)
 * [2024-07-31, 10:37:23](https://news.ycombinator.com/item?id=41117922) - [Common side effects of not drinking](https://medium.com/@k.kozmana/common-side-effects-of-not-drinking-dd44714e619a)
 * [2024-07-31, 08:53:33](https://news.ycombinator.com/item?id=41117451) - [Spikey Spheres (2010)](https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2)
