@@ -6,6 +6,7 @@
 
 * [2024-07-31, 15:13:12](https://news.ycombinator.com/item?id=41119933) - [Regular Glucosamine Use and Mortality](https://ard.bmj.com/content/79/6/829)
 * [2024-07-31, 15:07:24](https://news.ycombinator.com/item?id=41119874) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
+* [2024-07-31, 14:35:18](https://news.ycombinator.com/item?id=41119545) - [Increase in Transatlantic Narco Submarines](http://www.hisutton.com/Transatlantic-Narco-Submarines-202406.html)
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 14:21:49](https://news.ycombinator.com/item?id=41119415) - [Ask HN: How are you finding the job market in July 2024?](https://news.ycombinator.com/item?id=41119415)
 * [2024-07-31, 14:18:06](https://news.ycombinator.com/item?id=41119388) - [Complete WordStar 7.0 Archive](https://sfwriter.com/ws7.htm)
