@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-31, 22:05:25](https://news.ycombinator.com/item?id=41123989) - [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)
+* [2024-07-31, 22:01:02](https://news.ycombinator.com/item?id=41123941) - [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
 * [2024-07-31, 21:00:42](https://news.ycombinator.com/item?id=41123416) - [Andi (YC W22) is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
 * [2024-07-31, 20:34:31](https://news.ycombinator.com/item?id=41123155) - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
-* [2024-07-31, 20:15:26](https://news.ycombinator.com/item?id=41122986) - [An affordable, portable and focused device for music, writing and coding](https://tulip.computer/)
 * [2024-07-31, 19:50:37](https://news.ycombinator.com/item?id=41122793) - [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
 * [2024-07-31, 19:23:51](https://news.ycombinator.com/item?id=41122509) - [Skribilo: The Document Programming Framework](https://www.nongnu.org/skribilo/)
 * [2024-07-31, 18:13:49](https://news.ycombinator.com/item?id=41121689) - [After years of leniency, ULA cracks down on hobbyist photographers](https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/)
