@@ -129,196 +129,45 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="41119443">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=41119443"
-              >Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-31 @ 14:24:27</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41119443"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.trymartin.com">https://www.trymartin.com</a
-              >). Martin is a better Siri with an LLM brain and deeper
-              integrations with everyday apps. See our demo here (<a
-                href="https://youtu.be/jiJdfrWurvk"
-                >https://youtu.be/jiJdfrWurvk</a
-              >). You can talk to Martin through voice in our iOS app. You can
-              also text it via SMS, WhatsApp, or email. Currently, Martin can
-              manage your calendar, set reminders, find information, send you
-              daily briefings, and have text conversations with your contacts on
-              your behalf (from its own phone number).
-              <p>
-                I’ve been a Siri power user for a long time, mainly because I’ve
-                always liked using voice as an interface. But, legacy voice
-                assistants like Siri, Google Assistant, and Alexa were never
-                well integrated enough or reliable enough to actually save time.
-                Maybe 1 in 5 commands end up executing as smoothly as you
-                expected, but the most useful thing they do is play a song or
-                set an alarm. The advent of LLMs seemed like a great opportunity
-                to push the state of the art forward a notch or two!
-              </p>
-              <p>Our goal is to do 2 things better:</p>
-              <p>
-                1) Deeper integrations with productivity-related apps you use
-                every day, like calendar, email, messages, whatsApp, and soon
-                Google Docs, Slack, and phone calls.
-              </p>
-              <p>
-                2) Better memory of each user based on their past conversations
-                and integrations, so Martin can start to anticipate parameters
-                in the user’s commands (e.g. text the guy from yesterday about
-                the plans we made this morning)
-              </p>
-              <p>
-                A great way that our early users use Martin is having morning
-                syncs and evening debriefs with the software. At the start/end
-                of each day, they’ll have a 5-10 minute sync about their TODOs
-                for the next day, and Martin will brief them on upcoming tasks
-                and news they’re typically interested in.
-              </p>
-              <p>
-                Something else Martin does which is unlike other voice
-                assistants is it can have full text conversations with your
-                contacts on your behalf from its own phone number. For example,
-                you can tell it to plan a lunch with a friend, and it can text
-                back and forth with that friend to figure out a time and place.
-                After the text conversation between your friend and Martin is
-                over, Martin reports back to you via a notification and a text.
-                You can also monitor all of its messages with your contacts in
-                the app.
-              </p>
-              <p>
-                We started building Martin exactly 1 year ago, during our YC
-                batch. It’s definitely a hard product to “complete" because of
-                the many unsolved technical challenges, but we’re making
-                progress step by step. First was the voice interface, which Siri
-                still hasn’t gotten right after more than a decade. We have 2
-                modes: push-to-talk and handsfree. Handsfree is great for
-                obvious reasons. We’ve gotten our latency down to only a couple
-                seconds max for most commands, and we’ve tuned our own voice
-                activity detection model to minimize the chance of Martin
-                cutting you off (a common problem with voiceGPTs). But, even
-                then, Martin may still cut you off if you pause for 3-5 seconds
-                in the middle of a thought, so we made a push-to-talk mode. For
-                those cases where you want to describe something in detail or
-                just brain-dump to Martin, you might need 20-30 seconds to
-                finish speaking. So just hold down, speak, and release when
-                you’re done—like a walkie talkie.
-              </p>
-              <p>
-                We’ve also had to tackle a very long tail of integrations, and
-                we want to do each one well. For example, when we launched
-                Google calendar, we wanted to make sure you could add a Google
-                Meet link, invite your contacts to the events, and access
-                secondary calendars. And, you should be able to say things like
-                “set reminders leading up to the event” or “text Eric the
-                details of this event.” So, we pretty much release one new major
-                integration every month.
-              </p>
-              <p>
-                Finally, there’s the problem of personalization / LLM memory,
-                which is still very unsolved. From each conversation that a user
-                has with their Martin, we try to infer what the user is busy
-                with, worried about, or looking forward to, so in their next
-                “morning sync” or “evening debrief”, Martin can proactively
-                suggest to-dos or goals/topics to discuss with the user. Right
-                now, we use a few different LLMs and many chain-of-thought steps
-                to extract clues from each conversation and have Martin
-                “reflect” periodically to build its memory. But, with all that
-                said we still have a lot of work to do here, and this is just a
-                start!
-              </p>
-              <p>
-                You can try Martin by going to our website (<a
-                  href="https://www.trymartin.com"
-                  >https://www.trymartin.com</a
-                >) and starting a 7 day free trial. Once you start your trial,
-                you’ll get an access code emailed to you along with the download
-                link for our iOS app. After you enter your access code into the
-                app, you can integrate your calendar, contacts, etc. If you find
-                Martin useful after the trial, we charge our early users (who
-                are generally productivity gurus and prosumers with multiple AI
-                subscriptions) a $30/month subscription.
-              </p>
-              <p>
-                We can’t wait to hear your thoughts. Any cool experiences with
-                Siri, things you wish a voice assistant could do, or ideas about
-                LLM memory, tool calling, etc. - I’d love to discuss any of
-                these topics with you!
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="41119244">
-          <h3>
-            <a
-              class="item"
-              href="https://www.sciencedirect.com/science/article/pii/S0022316624002803"
-              >Diet impacts metabolic disease via gut microbiota alterations</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-31 @ 14:00:53</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41119244"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41119218">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/cars/2024/07/tesla-recalls-1-8-million-cars-because-their-hoods-can-open-while-driving/"
-              >Tesla recalls 1.8M cars because their hoods can open while
-              driving</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-31 @ 13:58:08</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41119218"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41119080">
           <h3>
             <a
               class="item"
               href="https://eos.org/science-updates/how-great-was-the-great-oxidation-event"
-              >How Great Was the "Great Oxidation Event"?</a
+              >How Great Was the “Great Oxidation Event”?</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-07-31 @ 13:40:49</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41119080"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41119047">
+          <h3>
+            <a
+              class="item"
+              href="https://nitter.poast.org/GrapheneOS/status/1818415391791570995#m"
+              >GrapheneOS may take legal action against Google regarding Play
+              Integrity API</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-31 @ 13:37:12</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41119047"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -335,11 +184,11 @@
             <h4>
               <span>2024-07-31 @ 12:29:50</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41118638"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -377,7 +226,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41117451"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -394,11 +243,11 @@
             <h4>
               <span>2024-07-31 @ 06:26:36</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41116813"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -413,11 +262,11 @@
             <h4>
               <span>2024-07-31 @ 05:43:33</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41116639"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -432,11 +281,11 @@
             <h4>
               <span>2024-07-31 @ 04:51:12</span
               ><span class="points-container"
-                >Points: <span class="points">354</span></span
+                >Points: <span class="points">358</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41116473"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -452,7 +301,7 @@
             <h4>
               <span>2024-07-31 @ 04:30:15</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41116414"
                   >Comments</a
@@ -472,11 +321,11 @@
             <h4>
               <span>2024-07-31 @ 03:47:42</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41116253"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -493,11 +342,11 @@
             <h4>
               <span>2024-07-31 @ 02:22:41</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41115941"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -514,11 +363,11 @@
             <h4>
               <span>2024-07-31 @ 01:06:09</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41115619"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -536,11 +385,30 @@
             <h4>
               <span>2024-07-31 @ 01:00:26</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41115591"
                   >Comments</a
                 ><span class="descendants">: 54</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41115128">
+          <h3>
+            <a class="item" href="https://github.com/facundoolano/ngtop"
+              >Ngtop – Request analytics from the Nginx access logs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-30 @ 23:31:33</span
+              ><span class="points-container"
+                >Points: <span class="points">87</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41115128"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -557,11 +425,11 @@
             <h4>
               <span>2024-07-30 @ 22:39:21</span
               ><span class="points-container"
-                >Points: <span class="points">668</span></span
+                >Points: <span class="points">672</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41114839"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -578,11 +446,11 @@
             <h4>
               <span>2024-07-30 @ 22:37:24</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41114825"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 139</span></span
               >
             </h4>
           </section>
@@ -597,7 +465,7 @@
             <h4>
               <span>2024-07-30 @ 22:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41114569"
                   >Comments</a
@@ -620,7 +488,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41112854"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -658,7 +526,7 @@
             <h4>
               <span>2024-07-30 @ 16:40:13</span
               ><span class="points-container"
-                >Points: <span class="points">292</span></span
+                >Points: <span class="points">293</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41111129"
                   >Comments</a
@@ -681,7 +549,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41111115"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -780,11 +648,33 @@
             <h4>
               <span>2024-07-30 @ 12:57:18</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41108662"
                   >Comments</a
                 ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41107480">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
+              >Butterflies accumulate static electricity to attract pollen
+              without contact</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-30 @ 09:32:56</span
+              ><span class="points-container"
+                >Points: <span class="points">238</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41107480"
+                  >Comments</a
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -806,7 +696,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41106280"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -823,11 +713,11 @@
             <h4>
               <span>2024-07-30 @ 01:10:28</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41105229"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -842,11 +732,11 @@
             <h4>
               <span>2024-07-29 @ 19:23:57</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41102981"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
             <div class="text">
@@ -888,11 +778,11 @@
             <h4>
               <span>2024-07-28 @ 04:28:06</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41091225"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -909,7 +799,7 @@
             <h4>
               <span>2024-07-27 @ 16:52:06</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41087798"
                   >Comments</a
@@ -934,7 +824,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41076021"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
