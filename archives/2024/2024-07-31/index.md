@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 18:16:30](https://news.ycombinator.com/item?id=41121718) - [Braid: Anniversary Edition \"sold like dog s***\", says creator Jonathan Blow](https://www.eurogamer.net/braid-anniversary-edition-sold-like-dog-s-says-creator-jonathan-blow)
+* [2024-07-31, 18:13:49](https://news.ycombinator.com/item?id=41121689) - [After years of leniency, ULA cracks down on hobbyist photographers](https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/)
+* [2024-07-31, 18:02:57](https://news.ycombinator.com/item?id=41121570) - [Stop Destroying Videogames – European Citizens' Initiative](https://citizens-initiative.europa.eu/initiatives/details/2024/000007_en)
 * [2024-07-31, 17:30:35](https://news.ycombinator.com/item?id=41121237) - [Meta Has Run Hundreds of Ads for Cocaine, Opioids and Other Drugs](https://www.wsj.com/tech/meta-cocaine-opioids-ads-dea8e0fc)
 * [2024-07-31, 17:16:16](https://news.ycombinator.com/item?id=41121083) - [Oil companies sold the public on a fake climate solution](https://www.vox.com/climate/363076/climate-change-solution-shell-exxon-mobil-carbon-capture)
 * [2024-07-31, 17:01:37](https://news.ycombinator.com/item?id=41120961) - [Xbox console sales continue to crater with 42% revenue drop](https://arstechnica.com/gaming/2024/07/xbox-console-sales-continue-to-crater-with-massive-42-revenue-drop/)
