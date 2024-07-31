@@ -6,6 +6,8 @@
 
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 14:21:49](https://news.ycombinator.com/item?id=41119415) - [Ask HN: How are you finding the job market in July 2024?](https://news.ycombinator.com/item?id=41119415)
+* [2024-07-31, 14:00:53](https://news.ycombinator.com/item?id=41119244) - [Diet impacts metabolic disease via gut microbiota alterations](https://www.sciencedirect.com/science/article/pii/S0022316624002803)
+* [2024-07-31, 13:58:08](https://news.ycombinator.com/item?id=41119218) - [Tesla recalls 1.8M cars because their hoods can open while driving](https://arstechnica.com/cars/2024/07/tesla-recalls-1-8-million-cars-because-their-hoods-can-open-while-driving/)
 * [2024-07-31, 13:51:41](https://news.ycombinator.com/item?id=41119166) - [\"Sugar rush\" in children seems to be confirmation bias](https://juliawise.net/sugar-rush-in-children-seems-to-be-confirmation-bias/)
 * [2024-07-31, 13:49:07](https://news.ycombinator.com/item?id=41119151) - [Our data isn't safe. Resist giving it up whenever you can](https://www.washingtonpost.com/business/2024/07/31/data-breach-resistance/)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How Great Was the \"Great Oxidation Event\"?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
