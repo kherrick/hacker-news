@@ -92,6 +92,7 @@
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 * [2024-07-30, 00:32:44](https://news.ycombinator.com/item?id=41105018) - [Email explained from first principles (2021)](https://explained-from-first-principles.com/email/)
 * [2024-07-30, 00:27:03](https://news.ycombinator.com/item?id=41104997) - [AWS Code Commit Ceased Onboarding New Customers](https://repost.aws/questions/QUshILm0xbTjWJZSD8afYVgA/codecommit-cannot-create-a-repository)
+* [2024-07-30, 00:19:48](https://news.ycombinator.com/item?id=41104954) - [Show HN: An interactive creative coding project in p5.js](https://synapse.nugatio.com/)
 * [2024-07-30, 00:14:15](https://news.ycombinator.com/item?id=41104919) - [What adults lost when kids stopped playing in the street](https://www.theatlantic.com/family/archive/2024/07/play-streets-children-adults/679258/)
 * [2024-07-30, 00:12:46](https://news.ycombinator.com/item?id=41104913) - [Delta to Seek Damages from CrowdStrike](https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html)
 * [2024-07-30, 00:12:06](https://news.ycombinator.com/item?id=41104908) - [Blood test for colon cancer screening approved by US regulators](https://apnews.com/article/colon-cancer-blood-test-fda-guardant-a2c2cda2cdaa52f081860f0faed1e5cf)
