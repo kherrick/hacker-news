@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
 * [2024-07-31, 17:16:16](https://news.ycombinator.com/item?id=41121083) - [Oil companies sold the public on a fake climate solution](https://www.vox.com/climate/363076/climate-change-solution-shell-exxon-mobil-carbon-capture)
+* [2024-07-31, 17:01:37](https://news.ycombinator.com/item?id=41120961) - [Xbox console sales continue to crater with 42% revenue drop](https://arstechnica.com/gaming/2024/07/xbox-console-sales-continue-to-crater-with-massive-42-revenue-drop/)
 * [2024-07-31, 17:00:42](https://news.ycombinator.com/item?id=41120954) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
+* [2024-07-31, 16:47:54](https://news.ycombinator.com/item?id=41120835) - [Ampere AmpereOne Aurora 512 Core AI CPU Announced](https://www.servethehome.com/ampere-ampereone-aurora-512-core-ai-cpu-announced-arm/)
 * [2024-07-31, 16:29:52](https://news.ycombinator.com/item?id=41120659) - [The sinister, shocking rise of dog attacks on postal workers](https://www.theguardian.com/lifeandstyle/article/2024/jul/30/sinister-shocking-rise-of-dog-attacks-on-postal-workers)
 * [2024-07-31, 16:19:04](https://news.ycombinator.com/item?id=41120535) - [The consequences of generative AI for online knowledge communities](https://www.nature.com/articles/s41598-024-61221-0)
 * [2024-07-31, 15:49:55](https://news.ycombinator.com/item?id=41120254) - [Why I Prefer RST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
