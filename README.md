@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 22:05:25](https://news.ycombinator.com/item?id=41123989) - [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)
 * [2024-07-31, 22:01:02](https://news.ycombinator.com/item?id=41123941) - [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
 * [2024-07-31, 21:04:43](https://news.ycombinator.com/item?id=41123449) - [This Month in Ladybird: July 2024](https://mailchi.mp/ladybird/july-2024)
 * [2024-07-31, 21:00:42](https://news.ycombinator.com/item?id=41123416) - [Andi (YC W22) is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
 * [2024-07-31, 20:59:31](https://news.ycombinator.com/item?id=41123405) - [Milei's government will monitor social media with AI to 'predict future crimes'](https://english.elpais.com/international/2024-07-30/javier-mileis-government-will-monitor-social-media-with-ai-to-predict-future-crimes.html)
 * [2024-07-31, 20:34:31](https://news.ycombinator.com/item?id=41123155) - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
 * [2024-07-31, 20:15:26](https://news.ycombinator.com/item?id=41122986) - [An affordable, portable and focused device for music, writing and coding](https://tulip.computer/)
-* [2024-07-31, 20:04:03](https://news.ycombinator.com/item?id=41122911) - [Health industry company sues to prevent certificate revocation](https://www.hezmatt.org/~mpalmer/blog/2024/07/31/healthcare-company-sues-to-stop-certificate-revocation.html)
 * [2024-07-31, 19:50:37](https://news.ycombinator.com/item?id=41122793) - [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
 * [2024-07-31, 19:23:51](https://news.ycombinator.com/item?id=41122509) - [Skribilo: The Document Programming Framework](https://www.nongnu.org/skribilo/)
 * [2024-07-31, 15:49:55](https://news.ycombinator.com/item?id=41120254) - [I prefer rST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
