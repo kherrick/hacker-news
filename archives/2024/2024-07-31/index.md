@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 22:01:02](https://news.ycombinator.com/item?id=41123941) - [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
 * [2024-07-31, 21:04:43](https://news.ycombinator.com/item?id=41123449) - [This Month in Ladybird: July 2024](https://mailchi.mp/ladybird/july-2024)
 * [2024-07-31, 21:00:42](https://news.ycombinator.com/item?id=41123416) - [Andi (YC W22) is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
 * [2024-07-31, 20:59:31](https://news.ycombinator.com/item?id=41123405) - [Milei's government will monitor social media with AI to 'predict future crimes'](https://english.elpais.com/international/2024-07-30/javier-mileis-government-will-monitor-social-media-with-ai-to-predict-future-crimes.html)
@@ -13,7 +14,9 @@
 * [2024-07-31, 20:09:26](https://news.ycombinator.com/item?id=41122939) - [Meta Reports Second Quarter 2024 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Second-Quarter-2024-Results-2024.pdf)
 * [2024-07-31, 20:05:20](https://news.ycombinator.com/item?id=41122920) - [Foobar2000](https://www.foobar2000.org/)
 * [2024-07-31, 20:04:03](https://news.ycombinator.com/item?id=41122911) - [Health Industry Company Sues to Prevent Certificate Revocation](https://www.hezmatt.org/~mpalmer/blog/2024/07/31/healthcare-company-sues-to-stop-certificate-revocation.html)
+* [2024-07-31, 19:50:37](https://news.ycombinator.com/item?id=41122793) - [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
 * [2024-07-31, 19:50:36](https://news.ycombinator.com/item?id=41122792) - [Heavy metal analysis of dark chocolate and cocoa products in the USA](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1366231/full)
+* [2024-07-31, 19:23:51](https://news.ycombinator.com/item?id=41122509) - [Skribilo: The Document Programming Framework](https://www.nongnu.org/skribilo/)
 * [2024-07-31, 19:04:01](https://news.ycombinator.com/item?id=41122321) - [Java EA Released: JEP 401: Value Classes and Objects](https://jdk.java.net/valhalla/)
 * [2024-07-31, 18:21:46](https://news.ycombinator.com/item?id=41121789) - [Apple Arcade developers say working with Apple is like in 'abusive relationship'](https://appleinsider.com/articles/24/07/31/apple-arcade-developers-say-working-with-apple-is-like-being-in-an-abusive-relationship)
 * [2024-07-31, 18:16:30](https://news.ycombinator.com/item?id=41121718) - [Braid: Anniversary Edition \"sold like dog s***\", says creator Jonathan Blow](https://www.eurogamer.net/braid-anniversary-edition-sold-like-dog-s-says-creator-jonathan-blow)
