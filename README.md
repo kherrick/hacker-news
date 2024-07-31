@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-31, 04:03:28](https://news.ycombinator.com/item?id=41116333) - [It took some serious nerve for Wiz to walk away from Google's $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/)
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 02:16:09](https://news.ycombinator.com/item?id=41115911) - [Nobody Cares (2011)](https://a16z.com/nobody-cares/)
 * [2024-07-31, 01:06:09](https://news.ycombinator.com/item?id=41115619) - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
@@ -26,6 +25,7 @@
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 05:31:05](https://news.ycombinator.com/item?id=41106280) - [Functional languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
 * [2024-07-30, 01:10:28](https://news.ycombinator.com/item?id=41105229) - [Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
+* [2024-07-30, 00:19:48](https://news.ycombinator.com/item?id=41104954) - [Show HN: An interactive creative coding project in p5.js](https://synapse.nugatio.com/)
 * [2024-07-29, 19:23:57](https://news.ycombinator.com/item?id=41102981) - [Show HN: Trayce – Network tab for Docker containers](https://trayce.dev)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 * [2024-07-26, 23:07:24](https://news.ycombinator.com/item?id=41083119) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
