@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 01:06:09](https://news.ycombinator.com/item?id=41115619) - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
 * [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 * [2024-07-30, 23:31:33](https://news.ycombinator.com/item?id=41115128) - [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
 * [2024-07-30, 22:56:07](https://news.ycombinator.com/item?id=41114935) - [Metaphysical Experiments Probe Our Hidden Assumptions About Reality](https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730)
@@ -11,7 +12,6 @@
 * [2024-07-30, 19:18:16](https://news.ycombinator.com/item?id=41113101) - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 18:55:14](https://news.ycombinator.com/item?id=41112855) - [Fake job interviews are securities fraud](https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
-* [2024-07-30, 17:56:27](https://news.ycombinator.com/item?id=41112160) - [How the electricity markets respond to a nuclear trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
 * [2024-07-30, 17:51:08](https://news.ycombinator.com/item?id=41112103) - [The Hitchhiker's Guide to Logical Verification [pdf] (2023)](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 * [2024-07-30, 16:41:13](https://news.ycombinator.com/item?id=41111145) - [Meta to pay Texas $1.4B for using facial recognition without users' permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
 * [2024-07-30, 16:40:13](https://news.ycombinator.com/item?id=41111129) - [Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
