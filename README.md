@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 06:26:36](https://news.ycombinator.com/item?id=41116813) - [Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
 * [2024-07-31, 05:54:15](https://news.ycombinator.com/item?id=41116682) - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
 * [2024-07-31, 05:43:33](https://news.ycombinator.com/item?id=41116639) - [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
 * [2024-07-31, 05:42:37](https://news.ycombinator.com/item?id=41116635) - [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
+* [2024-07-31, 04:30:15](https://news.ycombinator.com/item?id=41116414) - [FakeTraveler: Fake where your phone is located (Mock location for Android)](https://github.com/mcastillof/FakeTraveler)
 * [2024-07-31, 03:47:42](https://news.ycombinator.com/item?id=41116253) - [Construction of the AT&T Long Lines \"Cheshire\" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:06:09](https://news.ycombinator.com/item?id=41115619) - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
@@ -14,8 +16,6 @@
 * [2024-07-30, 22:07:53](https://news.ycombinator.com/item?id=41114601) - [Building static binaries with Go on Linux](https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/)
 * [2024-07-30, 22:04:39](https://news.ycombinator.com/item?id=41114569) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
-* [2024-07-30, 17:51:08](https://news.ycombinator.com/item?id=41112103) - [The Hitchhiker's Guide to Logical Verification [pdf] (2023)](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
-* [2024-07-30, 17:25:47](https://news.ycombinator.com/item?id=41111790) - [Quint](https://quint-lang.org/)
 * [2024-07-30, 16:40:13](https://news.ycombinator.com/item?id=41111129) - [Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://github.com/ssoready/ssoready)
@@ -28,8 +28,8 @@
 * [2024-07-29, 19:23:57](https://news.ycombinator.com/item?id=41102981) - [Show HN: Trayce – Network tab for Docker containers](https://trayce.dev)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 * [2024-07-28, 04:28:06](https://news.ycombinator.com/item?id=41091225) - [It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
+* [2024-07-27, 16:52:06](https://news.ycombinator.com/item?id=41087798) - [People Behind \"The Print Shop\" (1985)](https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/)
 * [2024-07-26, 05:42:18](https://news.ycombinator.com/item?id=41076063) - [Genetically synthesized supergain broadband wire-bundle antenna](https://www.nature.com/articles/s44172-024-00235-y)
-* [2024-07-26, 03:05:24](https://news.ycombinator.com/item?id=41075482) - [The curious history of chain letters (2010)](https://slate.com/culture/2010/10/the-curious-history-of-chain-letters.html)
 
 ## [Archives](archives/index.md)
 

@@ -28,6 +28,7 @@
 * [2024-07-27, 17:23:55](https://news.ycombinator.com/item?id=41088013) - [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
 * [2024-07-27, 17:18:15](https://news.ycombinator.com/item?id=41087977) - [How Soon Might the Atlantic Ocean Break? Two Sibling Scientists Found an Answer](https://www.wired.com/story/amoc-collapse-atlantic-ocean/)
 * [2024-07-27, 17:08:26](https://news.ycombinator.com/item?id=41087913) - [The US fiscal mess: Some unpleasant fiscal simulations](https://cepr.org/voxeu/columns/us-fiscal-mess-some-unpleasant-fiscal-simulations)
+* [2024-07-27, 16:52:06](https://news.ycombinator.com/item?id=41087798) - [People Behind \"The Print Shop\" (1985)](https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/)
 * [2024-07-27, 16:43:39](https://news.ycombinator.com/item?id=41087719) - [Big Tech says AI is booming. Wall Street is starting to see a bubble](https://www.washingtonpost.com/technology/2024/07/24/ai-bubble-big-tech-stocks-goldman-sachs/)
 * [2024-07-27, 16:29:50](https://news.ycombinator.com/item?id=41087608) - [AI existential risk probabilities are too unreliable to inform policy](https://www.aisnakeoil.com/p/ai-existential-risk-probabilities)
 * [2024-07-27, 16:19:21](https://news.ycombinator.com/item?id=41087518) - [Sig Sauer guns hanging on soldiers' hips may be firing without trigger pull](https://text.npr.org/nx-s1-5023043)
