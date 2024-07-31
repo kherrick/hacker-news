@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 02:16:09](https://news.ycombinator.com/item?id=41115911) - [Nobody Cares](https://a16z.com/nobody-cares/)
 * [2024-07-31, 01:06:09](https://news.ycombinator.com/item?id=41115619) - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
 * [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 * [2024-07-30, 23:31:33](https://news.ycombinator.com/item?id=41115128) - [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
@@ -29,7 +30,6 @@
 * [2024-07-26, 23:07:24](https://news.ycombinator.com/item?id=41083119) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
 * [2024-07-26, 17:06:36](https://news.ycombinator.com/item?id=41080273) - [Implementing and Improving Skiplists](https://mattjhall.co.uk/posts/skiplists.html)
 * [2024-07-26, 05:42:18](https://news.ycombinator.com/item?id=41076063) - [Genetically synthesized supergain broadband wire-bundle antenna](https://www.nature.com/articles/s44172-024-00235-y)
-* [2024-07-25, 12:45:36](https://news.ycombinator.com/item?id=41068016) - [Zuo: A Tiny Racket for Scripting](https://github.com/racket/zuo)
 
 ## [Archives](archives/index.md)
 
