@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 15:35:10](https://news.ycombinator.com/item?id=41120112) - [YouTube now flooding your ad-block with \"fake\" ads that slow the browser](https://old.reddit.com/r/youtube/comments/1egk580/youtube_now_flooding_your_adblock_with_fake_ads/)
 * [2024-07-31, 15:13:12](https://news.ycombinator.com/item?id=41119933) - [Regular Glucosamine Use and Mortality](https://ard.bmj.com/content/79/6/829)
 * [2024-07-31, 15:07:24](https://news.ycombinator.com/item?id=41119874) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
 * [2024-07-31, 14:35:18](https://news.ycombinator.com/item?id=41119545) - [Increase in Transatlantic Narco Submarines](http://www.hisutton.com/Transatlantic-Narco-Submarines-202406.html)
