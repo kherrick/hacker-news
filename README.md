@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 20:49:48](https://news.ycombinator.com/item?id=41123304) - [X suspends 'White Dudes for Harris' account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)
 * [2024-07-31, 20:05:20](https://news.ycombinator.com/item?id=41122920) - [Foobar2000](https://www.foobar2000.org/)
 * [2024-07-31, 20:04:03](https://news.ycombinator.com/item?id=41122911) - [Health Industry Company Sues to Prevent Certificate Revocation](https://www.hezmatt.org/~mpalmer/blog/2024/07/31/healthcare-company-sues-to-stop-certificate-revocation.html)
 * [2024-07-31, 18:13:49](https://news.ycombinator.com/item?id=41121689) - [After years of leniency, ULA cracks down on hobbyist photographers](https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/)
 * [2024-07-31, 17:30:35](https://news.ycombinator.com/item?id=41121237) - [Meta Has Run Hundreds of Ads for Cocaine, Opioids and Other Drugs](https://www.wsj.com/tech/meta-cocaine-opioids-ads-dea8e0fc)
 * [2024-07-31, 17:00:42](https://news.ycombinator.com/item?id=41120954) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
 * [2024-07-31, 16:47:54](https://news.ycombinator.com/item?id=41120835) - [Ampere AmpereOne Aurora 512 Core AI CPU Announced](https://www.servethehome.com/ampere-ampereone-aurora-512-core-ai-cpu-announced-arm/)
-* [2024-07-31, 16:30:05](https://news.ycombinator.com/item?id=41120662) - [Ask HN: Best Tools for Monorepo?](https://news.ycombinator.com/item?id=41120662)
 * [2024-07-31, 15:49:55](https://news.ycombinator.com/item?id=41120254) - [I prefer rST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
