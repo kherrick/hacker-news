@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-07-30, 19:18:16",
-      "https://news.ycombinator.com/item?id=41113101"
-    ],
-    [
-      "Functional programming languages should be better at mutation than they are",
-      "https://cohost.org/prophet/post/7083950-functional-programming"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 18:55:14",
       "https://news.ycombinator.com/item?id=41112855"
     ],
@@ -217,6 +207,16 @@
     [
       "Butterflies accumulate static electricity to attract pollen without contact",
       "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 08:39:44",
+      "https://news.ycombinator.com/item?id=41107209"
+    ],
+    [
+      "Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)",
+      "https://canarytokens.org/nest/"
     ]
   ],
   [
