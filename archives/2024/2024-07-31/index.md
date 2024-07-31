@@ -38,6 +38,7 @@
 * [2024-07-31, 13:37:12](https://news.ycombinator.com/item?id=41119047) - [GrapheneOS may take legal action against Google regarding Play Integrity API](https://x.com/arstechnica/status/1818325952553947517)
 * [2024-07-31, 13:37:12](https://news.ycombinator.com/item?id=41119047) - [GrapheneOS may take legal action against Google regarding Play Integrity API](https://nitter.poast.org/GrapheneOS/status/1818415391791570995#m)
 * [2024-07-31, 13:21:22](https://news.ycombinator.com/item?id=41118962) - [A Mathematician's Lament [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
+* [2024-07-31, 13:16:29](https://news.ycombinator.com/item?id=41118928) - [Fast Multidimensional Matrix Multiplication on CPU from Scratch](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
 * [2024-07-31, 13:05:28](https://news.ycombinator.com/item?id=41118864) - [Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables](https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables)
 * [2024-07-31, 13:01:34](https://news.ycombinator.com/item?id=41118844) - [Using the term 'AI' in product descriptions reduces purchase intentions](https://news.wsu.edu/press-release/2024/07/30/using-the-term-artificial-intelligence-in-product-descriptions-reduces-purchase-intentions/)
 * [2024-07-31, 12:47:57](https://news.ycombinator.com/item?id=41118760) - [With CO2 Levels Rising, Drylands Are Turning Green – Yale E360](https://e360.yale.edu/features/greening-drylands-carbon-dioxide-climate-change)
