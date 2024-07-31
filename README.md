@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 04:03:28](https://news.ycombinator.com/item?id=41116333) - [It took some serious nerve for Wiz to walk away from Google's $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/)
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
-* [2024-07-31, 02:16:09](https://news.ycombinator.com/item?id=41115911) - [Nobody Cares](https://a16z.com/nobody-cares/)
+* [2024-07-31, 02:16:09](https://news.ycombinator.com/item?id=41115911) - [Nobody Cares (2011)](https://a16z.com/nobody-cares/)
 * [2024-07-31, 01:06:09](https://news.ycombinator.com/item?id=41115619) - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
 * [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 * [2024-07-30, 23:31:33](https://news.ycombinator.com/item?id=41115128) - [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
@@ -17,7 +18,6 @@
 * [2024-07-30, 16:41:13](https://news.ycombinator.com/item?id=41111145) - [Meta to pay Texas $1.4B for using facial recognition without users' permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
 * [2024-07-30, 16:40:13](https://news.ycombinator.com/item?id=41111129) - [Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
-* [2024-07-30, 16:20:45](https://news.ycombinator.com/item?id=41110866) - [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://github.com/ssoready/ssoready)
 * [2024-07-30, 15:42:06](https://news.ycombinator.com/item?id=41110269) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike? (2022)](https://siliconfolklore.com/internet-history/)
