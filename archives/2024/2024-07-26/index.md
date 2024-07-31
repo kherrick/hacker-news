@@ -99,6 +99,7 @@
 * [2024-07-26, 06:53:50](https://news.ycombinator.com/item?id=41076375) - [A hash table by any other name](https://lwn.net/Articles/972580/)
 * [2024-07-26, 06:14:12](https://news.ycombinator.com/item?id=41076190) - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 * [2024-07-26, 05:42:18](https://news.ycombinator.com/item?id=41076063) - [Genetically synthesized supergain broadband wire-bundle antenna](https://www.nature.com/articles/s44172-024-00235-y)
+* [2024-07-26, 05:32:05](https://news.ycombinator.com/item?id=41076021) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 * [2024-07-26, 05:14:19](https://news.ycombinator.com/item?id=41075934) - [Zulip 9.0: Organized chat for distributed teams](https://blog.zulip.com/2024/07/25/zulip-9-0-released/)
 * [2024-07-26, 04:39:41](https://news.ycombinator.com/item?id=41075801) - [Great Rotation Trade Sees Investors Dump AI Giants for Less Obvious Stocks](https://www.bloomberg.com/news/articles/2024-07-26/great-rotation-trade-turns-spotlight-on-less-obvious-ai-winners)
 * [2024-07-26, 04:26:53](https://news.ycombinator.com/item?id=41075766) - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)

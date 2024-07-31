@@ -19,7 +19,6 @@
 * [2024-07-30, 16:40:13](https://news.ycombinator.com/item?id=41111129) - [Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 16:38:40](https://news.ycombinator.com/item?id=41111115) - [The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://github.com/ssoready/ssoready)
-* [2024-07-30, 15:42:06](https://news.ycombinator.com/item?id=41110269) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike? (2022)](https://siliconfolklore.com/internet-history/)
 * [2024-07-30, 09:32:56](https://news.ycombinator.com/item?id=41107480) - [Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/)
@@ -30,6 +29,7 @@
 * [2024-07-28, 04:28:06](https://news.ycombinator.com/item?id=41091225) - [It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
 * [2024-07-27, 16:52:06](https://news.ycombinator.com/item?id=41087798) - [People Behind \"The Print Shop\" (1985)](https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/)
 * [2024-07-26, 05:42:18](https://news.ycombinator.com/item?id=41076063) - [Genetically synthesized supergain broadband wire-bundle antenna](https://www.nature.com/articles/s44172-024-00235-y)
+* [2024-07-26, 05:32:05](https://news.ycombinator.com/item?id=41076021) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 
 ## [Archives](archives/index.md)
 
