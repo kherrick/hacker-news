@@ -21,6 +21,7 @@
 * [2024-07-30, 16:19:45](https://news.ycombinator.com/item?id=41110850) - [Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source](https://github.com/ssoready/ssoready)
 * [2024-07-30, 15:42:06](https://news.ycombinator.com/item?id=41110269) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-07-30, 13:20:14](https://news.ycombinator.com/item?id=41108884) - [Was the Internet created to survive a nuclear strike? (2022)](https://siliconfolklore.com/internet-history/)
+* [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [Calculating the cost of a Google DeepMind paper](https://152334H.github.io/blog/scaling-exponents/)
 * [2024-07-30, 09:32:56](https://news.ycombinator.com/item?id=41107480) - [Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
 * [2024-07-30, 06:57:53](https://news.ycombinator.com/item?id=41106686) - [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 05:31:05](https://news.ycombinator.com/item?id=41106280) - [Functional languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programmi)
@@ -28,7 +29,6 @@
 * [2024-07-30, 00:19:48](https://news.ycombinator.com/item?id=41104954) - [Show HN: An interactive creative coding project in p5.js](https://synapse.nugatio.com/)
 * [2024-07-29, 19:23:57](https://news.ycombinator.com/item?id=41102981) - [Show HN: Trayce – Network tab for Docker containers](https://trayce.dev)
 * [2024-07-28, 22:54:16](https://news.ycombinator.com/item?id=41096613) - [Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
-* [2024-07-26, 23:07:24](https://news.ycombinator.com/item?id=41083119) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
 * [2024-07-26, 05:42:18](https://news.ycombinator.com/item?id=41076063) - [Genetically synthesized supergain broadband wire-bundle antenna](https://www.nature.com/articles/s44172-024-00235-y)
 
 ## [Archives](archives/index.md)
