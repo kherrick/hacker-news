@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 14:21:49](https://news.ycombinator.com/item?id=41119415) - [Ask HN: How are you finding the job market in July 2024?](https://news.ycombinator.com/item?id=41119415)
-* [2024-07-31, 13:49:07](https://news.ycombinator.com/item?id=41119151) - [Our data isn't safe. Resist giving it up whenever you can](https://www.washingtonpost.com/business/2024/07/31/data-breach-resistance/)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How Great Was the \"Great Oxidation Event\"?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
-* [2024-07-31, 13:21:22](https://news.ycombinator.com/item?id=41118962) - [A Mathematician's Lament [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 * [2024-07-31, 12:29:50](https://news.ycombinator.com/item?id=41118638) - [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
 * [2024-07-31, 12:00:22](https://news.ycombinator.com/item?id=41118418) - [PlayAI (YC W23) Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
 * [2024-07-31, 08:53:33](https://news.ycombinator.com/item?id=41117451) - [Spikey Spheres (2010)](https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2)
@@ -15,6 +14,7 @@
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:06:09](https://news.ycombinator.com/item?id=41115619) - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
 * [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
+* [2024-07-30, 23:31:33](https://news.ycombinator.com/item?id=41115128) - [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
 * [2024-07-30, 22:39:21](https://news.ycombinator.com/item?id=41114839) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 22:37:24](https://news.ycombinator.com/item?id=41114825) - [Creativity fundamentally comes from memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 * [2024-07-30, 22:04:39](https://news.ycombinator.com/item?id=41114569) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
