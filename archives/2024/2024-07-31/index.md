@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 12:00:22](https://news.ycombinator.com/item?id=41118418) - [PlayAI (YC W23) Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
+* [2024-07-31, 11:50:37](https://news.ycombinator.com/item?id=41118349) - [Which country consumes the most coffee?](https://cafely.com/blogs/research/which-country-consumes-the-most-coffee)
+* [2024-07-31, 11:40:50](https://news.ycombinator.com/item?id=41118281) - [Australia starts world-first peanut allergy treatment for babies](https://www.bbc.co.uk/news/articles/c0xj3xq5l1vo)
 * [2024-07-31, 10:37:23](https://news.ycombinator.com/item?id=41117922) - [Common side effects of not drinking](https://medium.com/@k.kozmana/common-side-effects-of-not-drinking-dd44714e619a)
 * [2024-07-31, 06:48:01](https://news.ycombinator.com/item?id=41116908) - [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
 * [2024-07-31, 06:41:49](https://news.ycombinator.com/item?id=41116885) - [Fedora Asahi Remix](https://bentsukun.ch/posts/fedora-asahi/)
