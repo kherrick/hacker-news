@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 21:38:20](https://news.ycombinator.com/item?id=41133917) - [CrowdStrike attempts takedown of parody site](https://clownstrike.lol/crowdmad/)
 * [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
 * [2024-08-01, 21:22:22](https://news.ycombinator.com/item?id=41133778) - [I hate the Gemini 'Dear Sydney' ad more every passing moment](https://www.washingtonpost.com/opinions/2024/07/31/google-gemini-ai-dear-sydney-ad-olympics-satire/)
 * [2024-08-01, 21:01:17](https://news.ycombinator.com/item?id=41133574) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer)
@@ -25,7 +26,6 @@
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 04:39:03](https://news.ycombinator.com/item?id=41116439) - [WordGrinder: A simple word processor that runs on the console](https://github.com/davidgiven/wordgrinder)
 * [2024-07-31, 03:43:55](https://news.ycombinator.com/item?id=41116238) - [Australia starts peanut allergy treatment for babies](https://www.bbc.com/news/articles/c0xj3xq5l1vo)
-* [2024-07-31, 02:57:30](https://news.ycombinator.com/item?id=41116071) - [The effect of CRTs on pixel art](https://www.datagubbe.se/crt/)
 * [2024-07-30, 18:58:05](https://news.ycombinator.com/item?id=41112889) - [Show HN: Trayce – Network tab for your local Docker containers](https://trayce.dev)
 * [2024-07-29, 23:49:54](https://news.ycombinator.com/item?id=41104789) - [Artificial intelligence gives weather forecasters a new edge](https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html)
 * [2024-07-29, 14:27:40](https://news.ycombinator.com/item?id=41100737) - [The protein Reelin keeps popping up in brains that resist aging and Alzheimer’s](https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory)

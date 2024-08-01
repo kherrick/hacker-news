@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 21:38:20](https://news.ycombinator.com/item?id=41133917) - [CrowdStrike attempts takedown of parody site](https://clownstrike.lol/crowdmad/)
 * [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
 * [2024-08-01, 21:22:22](https://news.ycombinator.com/item?id=41133778) - [I hate the Gemini 'Dear Sydney' ad more every passing moment](https://www.washingtonpost.com/opinions/2024/07/31/google-gemini-ai-dear-sydney-ad-olympics-satire/)
 * [2024-08-01, 21:01:17](https://news.ycombinator.com/item?id=41133574) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer)
