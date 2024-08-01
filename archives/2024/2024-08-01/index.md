@@ -12,6 +12,7 @@
 * [2024-08-01, 02:25:51](https://news.ycombinator.com/item?id=41125648) - [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
 * [2024-08-01, 02:18:28](https://news.ycombinator.com/item?id=41125630) - [How Does OpenAI Survive](https://www.wheresyoured.at/to-serve-altman/)
 * [2024-08-01, 02:03:42](https://news.ycombinator.com/item?id=41125561) - [Compared to other distros, Vanilla OS 2 'Orchid' is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
+* [2024-08-01, 01:52:57](https://news.ycombinator.com/item?id=41125490) - [Just Disconnect the Internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-08-01, 01:49:58](https://news.ycombinator.com/item?id=41125474) - [A Blood Test Accurately Diagnosed Alzheimer's 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
 * [2024-08-01, 01:18:31](https://news.ycombinator.com/item?id=41125297) - [Rust Just Failed an Important Test](https://mccue.dev/pages/7-31-24-rust-just-failed-its-test)
 * [2024-08-01, 01:02:01](https://news.ycombinator.com/item?id=41125226) - [Etleap (YC W13) Is Hiring a Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
