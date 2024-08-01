@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 17:06:01](https://news.ycombinator.com/item?id=41131238) - [Planted bomb, remote control and AI: How the Mossad killed Hamas' leader in Iran](https://www.axios.com/2024/08/01/haniyeh-assassination-mossad)
+* [2024-08-01, 17:02:00](https://news.ycombinator.com/item?id=41131202) - [Hertz accelerates sales of Tesla vehicles as value crumbles](https://electrek.co/2024/08/01/hertz-accelerates-sales-of-tesla-vehicles-as-value-crumbles/)
 * [2024-08-01, 17:01:16](https://news.ycombinator.com/item?id=41131187) - [Fathom AI Notetaker (YC W21) Is Hiring a Head of Data (Remote/US)](https://www.ycombinator.com/companies/fathom/jobs/rNItrfZ-head-of-data)
+* [2024-08-01, 17:00:53](https://news.ycombinator.com/item?id=41131181) - [Hundred Rabbits is a small collective exploring the failability of modern tech](https://100r.co/site/about_us.html)
 * [2024-08-01, 16:44:03](https://news.ycombinator.com/item?id=41131018) - [The Nature of Consciousness](https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/)
 * [2024-08-01, 16:33:58](https://news.ycombinator.com/item?id=41130901) - [GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
 * [2024-08-01, 16:03:19](https://news.ycombinator.com/item?id=41130620) - [The open weight Flux text to image model is next level](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
