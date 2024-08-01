@@ -73,6 +73,7 @@
 * [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 * [2024-07-30, 10:47:42](https://news.ycombinator.com/item?id=41107803) - [Building a YouTube Video Summarizer with LLM and yt-dlp](https://shekhargulati.com/2024/07/30/building-a-youtube-video-summarizer-with-llm-and-yt-dlp/)
 * [2024-07-30, 10:26:55](https://news.ycombinator.com/item?id=41107721) - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
+* [2024-07-30, 10:19:09](https://news.ycombinator.com/item?id=41107685) - [Complex life forms existed 1.5B years earlier than believed, study finds](https://abcnews.go.com/International/complex-life-forms-existed-15-billion-years-earlier/story?id=112377072)
 * [2024-07-30, 09:32:56](https://news.ycombinator.com/item?id=41107480) - [Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
 * [2024-07-30, 09:18:58](https://news.ycombinator.com/item?id=41107396) - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
 * [2024-07-30, 08:39:44](https://news.ycombinator.com/item?id=41107209) - [Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)](https://canarytokens.org/nest/)
