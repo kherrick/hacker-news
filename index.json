@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-08-01, 18:13:35",
-      "https://news.ycombinator.com/item?id=41131914"
-    ],
-    [
-      "A network engineer in search of greener pastures",
-      "https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 17:01:16",
       "https://news.ycombinator.com/item?id=41131187"
     ],
@@ -67,16 +57,6 @@
     [
       "In a new book, Christof Koch views consciousness as a theorist and an aficionado",
       "https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 16:33:58",
-      "https://news.ycombinator.com/item?id=41130901"
-    ],
-    [
-      "GitHub Models: A new generation of AI engineers building on GitHub",
-      "https://github.blog/news-insights/product-news/introducing-github-models/"
     ]
   ],
   [
@@ -127,16 +107,6 @@
     [
       "Stable Fast 3D: Rapid 3D Asset Generation from Single Images",
       "https://stability.ai/news/introducing-stable-fast-3d"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 15:04:16",
-      "https://news.ycombinator.com/item?id=41129886"
-    ],
-    [
-      "Introducing The Fellowship for Maintainers – Sovereign Tech Fund",
-      "https://www.sovereigntechfund.de/news/introducing-the-fellowship-for-maintainers"
     ]
   ],
   [
@@ -251,12 +221,12 @@
   ],
   [
     [
-      "2024-07-31, 19:50:37",
-      "https://news.ycombinator.com/item?id=41122793"
+      "2024-07-31, 22:02:53",
+      "https://news.ycombinator.com/item?id=41123958"
     ],
     [
-      "Cardie – An open source business card designer and sharing platform",
-      "https://github.com/nfoert/cardie"
+      "The Open Source Aryn Partitioning Service",
+      "https://www.aryn.ai/post/announcing-the-aryn-partitioning-service"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
-      "2024-07-31, 04:51:12",
-      "https://news.ycombinator.com/item?id=41116473"
+      "2024-07-31, 03:43:55",
+      "https://news.ycombinator.com/item?id=41116238"
     ],
     [
-      "macOS in QEMU in Docker",
-      "https://github.com/sickcodes/Docker-OSX"
+      "Australia starts peanut allergy treatment for babies",
+      "https://www.bbc.com/news/articles/c0xj3xq5l1vo"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 02:57:30",
+      "https://news.ycombinator.com/item?id=41116071"
+    ],
+    [
+      "The effect of CRTs on pixel art",
+      "https://www.datagubbe.se/crt/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 11:31:00",
+      "https://news.ycombinator.com/item?id=41108026"
+    ],
+    [
+      "Ozempic's biggest side effect: Turning Denmark into a 'pharmastate'?",
+      "https://www.npr.org/sections/planet-money/2024/07/26/g-s1-13534/ozempic-biggest-side-effect-denmark-pharmastate"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 02:31:37",
+      "https://news.ycombinator.com/item?id=41105598"
+    ],
+    [
+      "Habitual stone-tool aided extractive foraging in white-faced capuchins (2018)",
+      "https://www.biorxiv.org/content/10.1101/351619v1"
     ]
   ]
 ]
