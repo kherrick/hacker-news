@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 12:23:15](https://news.ycombinator.com/item?id=41128413) - [Scientist Wants to Block the Sun to Cool the Earth](https://www.nytimes.com/2024/08/01/climate/david-keith-solar-geoengineering.html)
 * [2024-08-01, 12:07:58](https://news.ycombinator.com/item?id=41128325) - [Parasites Are Everywhere. Why Do So Few Researchers Study Them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
 * [2024-08-01, 12:00:38](https://news.ycombinator.com/item?id=41128284) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-01, 10:54:13](https://news.ycombinator.com/item?id=41127859) - [D&D will release its 2024 ruleset under a Creative Commons licence](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-2024-srd-wont-be-another-ogl-fiasco)

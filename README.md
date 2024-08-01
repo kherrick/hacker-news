@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 12:23:15](https://news.ycombinator.com/item?id=41128413) - [Scientist Wants to Block the Sun to Cool the Earth](https://www.nytimes.com/2024/08/01/climate/david-keith-solar-geoengineering.html)
 * [2024-08-01, 12:07:58](https://news.ycombinator.com/item?id=41128325) - [Parasites Are Everywhere. Why Do So Few Researchers Study Them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
 * [2024-08-01, 12:00:38](https://news.ycombinator.com/item?id=41128284) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-01, 10:29:21](https://news.ycombinator.com/item?id=41127726) - [I Recreated Shazam's Algorithm with Go](https://github.com/cgzirim/not-shazam)
@@ -7,7 +8,6 @@
 * [2024-08-01, 09:40:25](https://news.ycombinator.com/item?id=41127446) - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
 * [2024-08-01, 07:34:30](https://news.ycombinator.com/item?id=41126944) - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
 * [2024-08-01, 03:48:14](https://news.ycombinator.com/item?id=41125980) - [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
-* [2024-08-01, 03:41:14](https://news.ycombinator.com/item?id=41125954) - [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
 * [2024-08-01, 02:25:51](https://news.ycombinator.com/item?id=41125648) - [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
 * [2024-08-01, 02:03:42](https://news.ycombinator.com/item?id=41125561) - [Compared to other distros, Vanilla OS 2 'Orchid' is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
 * [2024-08-01, 02:00:12](https://news.ycombinator.com/item?id=41125544) - [Don't Let Your Domain Name Become a \"Sitting Duck\"](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
