@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 12:00:38](https://news.ycombinator.com/item?id=41128284) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-01, 10:54:13](https://news.ycombinator.com/item?id=41127859) - [D&D will release its 2024 ruleset under a Creative Commons licence](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-2024-srd-wont-be-another-ogl-fiasco)
+* [2024-08-01, 10:52:51](https://news.ycombinator.com/item?id=41127849) - [SQLite-vec v0.1.0: a vector search SQLite extension that runs everywhere](https://alexgarcia.xyz/blog/2024/sqlite-vec-stable-release/index.html)
 * [2024-08-01, 10:39:20](https://news.ycombinator.com/item?id=41127780) - [New EU rules promoting repair of goods enter into force](https://commission.europa.eu/law/law-topic/consumer-protection-law/consumer-contract-law/directive-repair-goods_en)
 * [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 * [2024-08-01, 09:40:25](https://news.ycombinator.com/item?id=41127446) - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
