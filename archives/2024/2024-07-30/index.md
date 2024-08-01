@@ -18,6 +18,7 @@
 * [2024-07-30, 19:48:42](https://news.ycombinator.com/item?id=41113408) - [Astronomical Accidents, and the Proxima Centauri 'Signal' That Wasn't](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
 * [2024-07-30, 19:30:08](https://news.ycombinator.com/item?id=41113236) - [Anthropic is scraping websites so fast it's causing problems](https://pivot-to-ai.com/2024/07/29/anthropic-is-scraping-websites-so-fast-its-causing-problems/)
 * [2024-07-30, 19:18:16](https://news.ycombinator.com/item?id=41113101) - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
+* [2024-07-30, 18:58:05](https://news.ycombinator.com/item?id=41112889) - [Show HN: Trayce – Network tab for your local Docker containers](https://trayce.dev)
 * [2024-07-30, 18:55:14](https://news.ycombinator.com/item?id=41112855) - [Fake Job Interviews Are Securities Fraud](https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
 * [2024-07-30, 18:49:02](https://news.ycombinator.com/item?id=41112794) - [Running the latest Llama 3.1 8B on Raspberry Pi [video]](https://www.youtube.com/watch?v=KcWKTdkUpoQ)
