@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-01, 02:47:34",
-      "https://news.ycombinator.com/item?id=41125733"
+      "2024-08-01, 04:21:46",
+      "https://news.ycombinator.com/item?id=41126130"
     ],
     [
-      "MIT: The Missing Semester of Your CS Education",
-      "https://missing.csail.mit.edu/"
+      "This month in Servo: console logging, parallel tables, OpenXR, and more",
+      "https://servo.org/blog/2024/07/31/this-month-in-servo/"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 03:41:14",
+      "https://news.ycombinator.com/item?id=41125954"
+    ],
+    [
+      "Differences in cancer rates among adults born between 1920 and 1990",
+      "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "macOS in QEMU in Docker",
       "https://github.com/sickcodes/Docker-OSX"
-    ]
-  ],
-  [
-    [
-      "2024-07-31, 04:30:15",
-      "https://news.ycombinator.com/item?id=41116414"
-    ],
-    [
-      "FakeTraveler: Fake where your phone is located (Mock location for Android)",
-      "https://github.com/mcastillof/FakeTraveler"
     ]
   ],
   [
