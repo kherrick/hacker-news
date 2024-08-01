@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
 * [2024-08-01, 04:21:46](https://news.ycombinator.com/item?id=41126130) - [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
+* [2024-08-01, 03:48:14](https://news.ycombinator.com/item?id=41125980) - [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
 * [2024-08-01, 03:41:14](https://news.ycombinator.com/item?id=41125954) - [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
 * [2024-08-01, 03:36:54](https://news.ycombinator.com/item?id=41125919) - [Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG](https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256)
 * [2024-08-01, 02:47:34](https://news.ycombinator.com/item?id=41125733) - [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-01, 04:21:46](https://news.ycombinator.com/item?id=41126130) - [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
+* [2024-08-01, 03:48:14](https://news.ycombinator.com/item?id=41125980) - [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
 * [2024-08-01, 03:41:14](https://news.ycombinator.com/item?id=41125954) - [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
 * [2024-08-01, 03:36:54](https://news.ycombinator.com/item?id=41125919) - [Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG](https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256)
 * [2024-08-01, 02:25:51](https://news.ycombinator.com/item?id=41125648) - [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
@@ -23,7 +24,6 @@
 * [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 * [2024-07-30, 22:37:24](https://news.ycombinator.com/item?id=41114825) - [Creativity fundamentally comes from memorization?](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
-* [2024-07-30, 16:46:15](https://news.ycombinator.com/item?id=41111208) - [Divers discover Roman mosaic](https://www.smithsonianmag.com/smart-news/underwater-marble-floor-mosaic-discovered-off-the-coast-of-naples-180984772/)
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 * [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
