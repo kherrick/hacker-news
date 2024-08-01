@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 13:46:46](https://news.ycombinator.com/item?id=41129007) - [Nothing in evolution makes sense except in the light of parasitism](https://royalsocietypublishing.org/doi/10.1098/rsos.210441)
+* [2024-08-01, 13:44:58](https://news.ycombinator.com/item?id=41128990) - [Proposed rule would ban airlines from charging parents to sit with children](https://www.cnbc.com/2024/08/01/proposed-rule-would-ban-airlines-from-charging-parents-to-sit-with-their-children.html)
+* [2024-08-01, 12:41:39](https://news.ycombinator.com/item?id=41128541) - [Unusual Whales Subversive Democratic Trading ETF](https://finance.yahoo.com/quote/NANC/)
 * [2024-08-01, 12:24:59](https://news.ycombinator.com/item?id=41128424) - [Framework is looking for Linux Community Ambassadors](https://community.frame.work/t/framework-is-looking-for-linux-community-ambassadors/55344)
 * [2024-08-01, 12:24:53](https://news.ycombinator.com/item?id=41128423) - [India's $45B Startup Implosion Puts Tech Future in Doubt](https://www.bloomberg.com/news/articles/2024-08-01/india-s-tech-startup-struggles-spark-vc-funding-retreat)
 * [2024-08-01, 12:23:15](https://news.ycombinator.com/item?id=41128413) - [Scientist Wants to Block the Sun to Cool the Earth](https://www.nytimes.com/2024/08/01/climate/david-keith-solar-geoengineering.html)
