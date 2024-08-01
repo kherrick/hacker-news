@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 15:16:09](https://news.ycombinator.com/item?id=41130042) - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
 * [2024-08-01, 14:42:03](https://news.ycombinator.com/item?id=41129601) - [Will Britain Survive?](https://www.theatlantic.com/international/archive/2022/01/will-britain-survive/621095/)
 * [2024-08-01, 14:19:04](https://news.ycombinator.com/item?id=41129353) - [Show HN: I am using AI to measure how well cats sit like bread](https://rateloaf.com)
+* [2024-08-01, 14:16:54](https://news.ycombinator.com/item?id=41129328) - [Anger mounts over environmental cost of Google datacentre in Uruguay](https://www.theguardian.com/global-development/article/2024/aug/01/uruguay-anger-environmental-cost-google-datacentre-carbon-emissions-toxic-waste-water)
 * [2024-08-01, 14:16:14](https://news.ycombinator.com/item?id=41129319) - [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
+* [2024-08-01, 14:02:12](https://news.ycombinator.com/item?id=41129154) - [Jira Tickets as a Checklist](https://jeremybelcher.co/jira-tickets-as-a-checklist/)
 * [2024-08-01, 13:57:10](https://news.ycombinator.com/item?id=41129102) - [Microwave technology saves diabetic patient from double amputation](https://www.bbc.co.uk/news/articles/c51y4wrqge7o)
 * [2024-08-01, 13:46:46](https://news.ycombinator.com/item?id=41129007) - [Nothing in evolution makes sense except in the light of parasitism](https://royalsocietypublishing.org/doi/10.1098/rsos.210441)
 * [2024-08-01, 13:44:58](https://news.ycombinator.com/item?id=41128990) - [Proposed rule would ban airlines from charging parents to sit with children](https://www.cnbc.com/2024/08/01/proposed-rule-would-ban-airlines-from-charging-parents-to-sit-with-their-children.html)
