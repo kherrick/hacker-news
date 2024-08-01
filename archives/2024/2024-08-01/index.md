@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 20:16:54](https://news.ycombinator.com/item?id=41133133) - [Intel to cut 15% of headcount, reports quarterly guidance miss](https://www.cnbc.com/2024/08/01/intel-intc-q2-earnings-report-2024.html)
+* [2024-08-01, 20:12:19](https://news.ycombinator.com/item?id=41133084) - [Intel Reports Second Quarter 2024 Financial Results](https://www.intc.com/news-events/press-releases/detail/1704/intel-reports-second-quarter-2024-financial-results)
 * [2024-08-01, 19:46:06](https://news.ycombinator.com/item?id=41132822) - [Pharma CIO cancels AI enhanced Office 365 deal as \"it doesn't add value\"](https://hardforum.com/threads/pharma-cio-cancels-ai-enhanced-office-365-deal-as-it-doesnt-add-value.2036205/)
 * [2024-08-01, 19:42:18](https://news.ycombinator.com/item?id=41132787) - [DIY, 8mm film scanner Kotokino Mark IV](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
 * [2024-08-01, 19:29:55](https://news.ycombinator.com/item?id=41132669) - [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 * [2024-08-01, 18:57:04](https://news.ycombinator.com/item?id=41132328) - [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
+* [2024-08-01, 18:51:33](https://news.ycombinator.com/item?id=41132261) - [Apple-1 Prototype Polaroid Photographs – 1976](https://www.rrauction.com/auctions/lot-detail/348985606984001-steve-jobs-3-apple-1-prototype-polaroid-photographs-given-to-paul-terrell-of-the-byte-shop-in-1976)
 * [2024-08-01, 18:35:46](https://news.ycombinator.com/item?id=41132104) - [Show HN: Anyma V, a hybrid physical modelling virtual instrument](https://aodyo.com/anyma-v/)
 * [2024-08-01, 18:28:31](https://news.ycombinator.com/item?id=41132023) - [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
 * [2024-08-01, 18:13:35](https://news.ycombinator.com/item?id=41131914) - [Job searching in 2024 is horribly broken](https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken)
