@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 * [2024-08-01, 09:40:25](https://news.ycombinator.com/item?id=41127446) - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
 * [2024-08-01, 08:52:34](https://news.ycombinator.com/item?id=41127269) - [Google listed my restaurant's number as its British HQ](https://www.theguardian.com/money/article/2024/aug/01/google-listed-my-restaurants-number-as-its-british-hq)
 * [2024-08-01, 07:34:30](https://news.ycombinator.com/item?id=41126944) - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
@@ -10,7 +11,6 @@
 * [2024-08-01, 04:59:21](https://news.ycombinator.com/item?id=41126307) - [Baidu's Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/abs/2407.19813)
 * [2024-08-01, 04:21:46](https://news.ycombinator.com/item?id=41126130) - [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
 * [2024-08-01, 03:48:14](https://news.ycombinator.com/item?id=41125980) - [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
-* [2024-08-01, 03:41:14](https://news.ycombinator.com/item?id=41125954) - [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
 * [2024-08-01, 03:36:54](https://news.ycombinator.com/item?id=41125919) - [Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG](https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256)
 * [2024-08-01, 02:25:51](https://news.ycombinator.com/item?id=41125648) - [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
 * [2024-08-01, 02:00:12](https://news.ycombinator.com/item?id=41125544) - [Don't Let Your Domain Name Become a \"Sitting Duck\"](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
