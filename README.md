@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 12:24:59](https://news.ycombinator.com/item?id=41128424) - [Framework is looking for Linux Community Ambassadors](https://community.frame.work/t/framework-is-looking-for-linux-community-ambassadors/55344)
+* [2024-08-01, 12:24:53](https://news.ycombinator.com/item?id=41128423) - [India's $45B Startup Implosion Puts Tech Future in Doubt](https://www.bloomberg.com/news/articles/2024-08-01/india-s-tech-startup-struggles-spark-vc-funding-retreat)
 * [2024-08-01, 12:23:15](https://news.ycombinator.com/item?id=41128413) - [Scientist Wants to Block the Sun to Cool the Earth](https://www.nytimes.com/2024/08/01/climate/david-keith-solar-geoengineering.html)
 * [2024-08-01, 12:07:58](https://news.ycombinator.com/item?id=41128325) - [Parasites Are Everywhere. Why Do So Few Researchers Study Them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
 * [2024-08-01, 12:00:38](https://news.ycombinator.com/item?id=41128284) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
@@ -9,7 +11,6 @@
 * [2024-08-01, 07:34:30](https://news.ycombinator.com/item?id=41126944) - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
 * [2024-08-01, 03:48:14](https://news.ycombinator.com/item?id=41125980) - [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
 * [2024-08-01, 02:25:51](https://news.ycombinator.com/item?id=41125648) - [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
-* [2024-08-01, 02:03:42](https://news.ycombinator.com/item?id=41125561) - [Compared to other distros, Vanilla OS 2 'Orchid' is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
 * [2024-08-01, 02:00:12](https://news.ycombinator.com/item?id=41125544) - [Don't Let Your Domain Name Become a \"Sitting Duck\"](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
 * [2024-08-01, 01:52:57](https://news.ycombinator.com/item?id=41125490) - [Just Disconnect the Internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-07-31, 23:06:11](https://news.ycombinator.com/item?id=41124472) - [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
@@ -22,7 +23,6 @@
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
 * [2024-07-31, 03:47:42](https://news.ycombinator.com/item?id=41116253) - [Construction of the AT&T Long Lines \"Cheshire\" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
-* [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 * [2024-07-30, 22:37:24](https://news.ycombinator.com/item?id=41114825) - [Creativity fundamentally comes from memorization?](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
