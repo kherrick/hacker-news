@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
 * [2024-08-01, 15:16:09](https://news.ycombinator.com/item?id=41130042) - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
+* [2024-08-01, 14:55:25](https://news.ycombinator.com/item?id=41129752) - [Say less in your emails, get more replies](https://www.gkogan.co/increase-reply-rates/)
 * [2024-08-01, 14:42:03](https://news.ycombinator.com/item?id=41129601) - [Will Britain Survive?](https://www.theatlantic.com/international/archive/2022/01/will-britain-survive/621095/)
 * [2024-08-01, 14:19:04](https://news.ycombinator.com/item?id=41129353) - [Show HN: I am using AI to measure how well cats sit like bread](https://rateloaf.com)
 * [2024-08-01, 14:16:54](https://news.ycombinator.com/item?id=41129328) - [Anger mounts over environmental cost of Google datacentre in Uruguay](https://www.theguardian.com/global-development/article/2024/aug/01/uruguay-anger-environmental-cost-google-datacentre-carbon-emissions-toxic-waste-water)
