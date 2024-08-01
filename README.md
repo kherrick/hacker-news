@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 14:42:03](https://news.ycombinator.com/item?id=41129601) - [Will Britain Survive?](https://www.theatlantic.com/international/archive/2022/01/will-britain-survive/621095/)
 * [2024-08-01, 14:16:14](https://news.ycombinator.com/item?id=41129319) - [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
 * [2024-08-01, 13:57:10](https://news.ycombinator.com/item?id=41129102) - [Microwave technology saves diabetic patient from double amputation](https://www.bbc.co.uk/news/articles/c51y4wrqge7o)
 * [2024-08-01, 13:46:46](https://news.ycombinator.com/item?id=41129007) - [Nothing in evolution makes sense except in the light of parasitism](https://royalsocietypublishing.org/doi/10.1098/rsos.210441)
 * [2024-08-01, 13:44:58](https://news.ycombinator.com/item?id=41128990) - [Proposed rule would ban airlines from charging parents to sit with children](https://www.cnbc.com/2024/08/01/proposed-rule-would-ban-airlines-from-charging-parents-to-sit-with-their-children.html)
 * [2024-08-01, 12:24:59](https://news.ycombinator.com/item?id=41128424) - [Framework is looking for Linux Community Ambassadors](https://community.frame.work/t/framework-is-looking-for-linux-community-ambassadors/55344)
-* [2024-08-01, 12:24:53](https://news.ycombinator.com/item?id=41128423) - [India's $45B Startup Implosion Puts Tech Future in Doubt](https://www.bloomberg.com/news/articles/2024-08-01/india-s-tech-startup-struggles-spark-vc-funding-retreat)
 * [2024-08-01, 12:07:58](https://news.ycombinator.com/item?id=41128325) - [Parasites Are Everywhere. Why Do So Few Researchers Study Them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
 * [2024-08-01, 12:00:38](https://news.ycombinator.com/item?id=41128284) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-01, 10:29:21](https://news.ycombinator.com/item?id=41127726) - [I Recreated Shazam's Algorithm with Go](https://github.com/cgzirim/not-shazam)
