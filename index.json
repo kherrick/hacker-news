@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-01, 18:57:04",
+      "https://news.ycombinator.com/item?id=41132328"
+    ],
+    [
+      "Threat actor abuses Cloudflare tunnels to deliver remote access trojans",
+      "https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 18:35:46",
+      "https://news.ycombinator.com/item?id=41132104"
+    ],
+    [
+      "Show HN: Anyma V, a hybrid physical modelling virtual instrument",
+      "https://aodyo.com/anyma-v/"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 18:28:31",
       "https://news.ycombinator.com/item?id=41132023"
     ],
@@ -15,28 +35,8 @@
       "https://news.ycombinator.com/item?id=41131914"
     ],
     [
-      "Job searching in 2024 is horribly broken",
+      "A network engineer in search of greener pastures",
       "https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 17:53:19",
-      "https://news.ycombinator.com/item?id=41131674"
-    ],
-    [
-      "Is C99 Turing-Complete?",
-      "https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 17:01:31",
-      "https://news.ycombinator.com/item?id=41131195"
-    ],
-    [
-      "Ask HN: What Are You Working On? (August 2024)",
-      "https://news.ycombinator.com/item?id=41131195"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41131018"
     ],
     [
-      "The Nature of Consciousness",
+      "In a new book, Christof Koch views consciousness as a theorist and an aficionado",
       "https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "GitHub Models: A new generation of AI engineers building on GitHub",
       "https://github.blog/news-insights/product-news/introducing-github-models/"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 16:10:46",
+      "https://news.ycombinator.com/item?id=41130693"
+    ],
+    [
+      "Univariate Coppersmith Algorithm",
+      "https://boogiemath.org/notes/misc/notes-3.html"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=41125980"
     ],
     [
-      "PyTorch – Torchchat: Chat with LLMs Everywhere",
+      "Torchchat: Chat with LLMs Everywhere",
       "https://github.com/pytorch/torchchat"
     ]
   ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=41125544"
     ],
     [
-      "Don’t Let Your Domain Name Become a “Sitting Duck”",
+      "Don’t let your domain name become a sitting duck",
       "https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/"
     ]
   ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=41125490"
     ],
     [
-      "Just Disconnect the Internet",
+      "Just disconnect the internet",
       "https://computer.rip/2024-07-31-just-disconnect-the-internet.html"
     ]
   ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=41119646"
     ],
     [
-      "Fully-automatic robot dentist performs first human procedure",
+      "Robot dentist performs first human procedure",
       "https://newatlas.com/health-wellbeing/robot-dentist-world-first/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "macOS in QEMU in Docker",
       "https://github.com/sickcodes/Docker-OSX"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 00:54:05",
-      "https://news.ycombinator.com/item?id=41105130"
-    ],
-    [
-      "Show HN: Turn any website into a knowledge base for LLMs",
-      "https://www.embedding.io/"
     ]
   ]
 ]
