@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 19:46:06](https://news.ycombinator.com/item?id=41132822) - [Pharma CIO cancels AI enhanced Office 365 deal as \"it doesn't add value\"](https://hardforum.com/threads/pharma-cio-cancels-ai-enhanced-office-365-deal-as-it-doesnt-add-value.2036205/)
 * [2024-08-01, 18:57:04](https://news.ycombinator.com/item?id=41132328) - [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
 * [2024-08-01, 18:35:46](https://news.ycombinator.com/item?id=41132104) - [Show HN: Anyma V, a hybrid physical modelling virtual instrument](https://aodyo.com/anyma-v/)
 * [2024-08-01, 18:28:31](https://news.ycombinator.com/item?id=41132023) - [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
