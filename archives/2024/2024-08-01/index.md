@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
 * [2024-08-01, 10:54:13](https://news.ycombinator.com/item?id=41127859) - [D&D will release its 2024 ruleset under a Creative Commons licence](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-2024-srd-wont-be-another-ogl-fiasco)
+* [2024-08-01, 10:39:20](https://news.ycombinator.com/item?id=41127780) - [New EU rules promoting repair of goods enter into force](https://commission.europa.eu/law/law-topic/consumer-protection-law/consumer-contract-law/directive-repair-goods_en)
 * [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 * [2024-08-01, 09:40:25](https://news.ycombinator.com/item?id=41127446) - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
 * [2024-08-01, 08:52:34](https://news.ycombinator.com/item?id=41127269) - [Google listed my restaurant's number as its British HQ](https://www.theguardian.com/money/article/2024/aug/01/google-listed-my-restaurants-number-as-its-british-hq)
