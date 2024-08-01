@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-07-31, 01:00:26",
-      "https://news.ycombinator.com/item?id=41115591"
-    ],
-    [
-      "Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)",
-      "https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 22:37:24",
       "https://news.ycombinator.com/item?id=41114825"
     ],
@@ -297,6 +287,16 @@
     [
       "Amazon's exabyte-scale migration from Apache Spark to Ray on EC2",
       "https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 16:22:58",
+      "https://news.ycombinator.com/item?id=41101597"
+    ],
+    [
+      "Polylith",
+      "https://polylith.gitbook.io/polylith"
     ]
   ]
 ]
