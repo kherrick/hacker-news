@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2024-08-01, 10:54:13",
-      "https://news.ycombinator.com/item?id=41127859"
+      "2024-08-01, 10:29:21",
+      "https://news.ycombinator.com/item?id=41127726"
     ],
     [
-      "D&D will release its 2024 ruleset under a Creative Commons licence",
-      "https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-2024-srd-wont-be-another-ogl-fiasco"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 10:52:51",
-      "https://news.ycombinator.com/item?id=41127849"
-    ],
-    [
-      "SQLite-vec v0.1.0: a vector search SQLite extension that runs everywhere",
-      "https://alexgarcia.xyz/blog/2024/sqlite-vec-stable-release/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 10:39:20",
-      "https://news.ycombinator.com/item?id=41127780"
-    ],
-    [
-      "New EU rules promoting repair of goods enter into force",
-      "https://commission.europa.eu/law/law-topic/consumer-protection-law/consumer-contract-law/directive-repair-goods_en"
+      "I Recreated Shazam's Algorithm with Go",
+      "https://github.com/cgzirim/not-shazam"
     ]
   ],
   [
@@ -71,16 +51,6 @@
   ],
   [
     [
-      "2024-08-01, 06:59:35",
-      "https://news.ycombinator.com/item?id=41126782"
-    ],
-    [
-      "Stop Killing Games – European Citizens' Initiative",
-      "https://www.stopkillinggames.com/eci"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 06:11:03",
       "https://news.ycombinator.com/item?id=41126577"
     ],
@@ -101,16 +71,6 @@
   ],
   [
     [
-      "2024-08-01, 04:21:46",
-      "https://news.ycombinator.com/item?id=41126130"
-    ],
-    [
-      "This month in Servo: console logging, parallel tables, OpenXR, and more",
-      "https://servo.org/blog/2024/07/31/this-month-in-servo/"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 03:48:14",
       "https://news.ycombinator.com/item?id=41125980"
     ],
@@ -121,12 +81,12 @@
   ],
   [
     [
-      "2024-08-01, 03:36:54",
-      "https://news.ycombinator.com/item?id=41125919"
+      "2024-08-01, 02:30:09",
+      "https://news.ycombinator.com/item?id=41125670"
     ],
     [
-      "Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG",
-      "https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256"
+      "How to Build Your First AI Model: A Comprehensive Guide",
+      "https://heyvivek.com/how-to-build-your-first-ai-model-a-comprehensive-guide"
     ]
   ],
   [
@@ -191,12 +151,12 @@
   ],
   [
     [
-      "2024-07-31, 17:02:13",
-      "https://news.ycombinator.com/item?id=41120966"
+      "2024-07-31, 19:23:51",
+      "https://news.ycombinator.com/item?id=41122509"
     ],
     [
-      "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7 (802.11 n/AC/ax/be)",
-      "https://www.wiisfi.com/"
+      "Skribilo: The Document Programming Framework",
+      "https://www.nongnu.org/skribilo/"
     ]
   ],
   [
@@ -241,6 +201,16 @@
   ],
   [
     [
+      "2024-07-31, 03:47:42",
+      "https://news.ycombinator.com/item?id=41116253"
+    ],
+    [
+      "Construction of the AT&T Long Lines \"Cheshire\" underground site",
+      "https://coldwar-ct.com/Home_Page_S1DO.html"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 02:22:41",
       "https://news.ycombinator.com/item?id=41115941"
     ],
@@ -257,6 +227,36 @@
     [
       "Creativity fundamentally comes from memorization?",
       "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 18:55:10",
+      "https://news.ycombinator.com/item?id=41112854"
+    ],
+    [
+      "Porffor: A from-scratch experimental ahead-of-time JS engine",
+      "https://porffor.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 12:57:18",
+      "https://news.ycombinator.com/item?id=41108662"
+    ],
+    [
+      "Crafting Interpreters with Rust: On Garbage Collection",
+      "https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 10:49:29",
+      "https://news.ycombinator.com/item?id=41107811"
+    ],
+    [
+      "Is a 'slow' swimming pool impeding world records?",
+      "https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html"
     ]
   ],
   [
