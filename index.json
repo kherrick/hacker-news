@@ -51,42 +51,12 @@
   ],
   [
     [
-      "2024-08-01, 16:44:03",
-      "https://news.ycombinator.com/item?id=41131018"
-    ],
-    [
-      "In a new book, Christof Koch views consciousness as a theorist and an aficionado",
-      "https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 16:10:46",
-      "https://news.ycombinator.com/item?id=41130693"
-    ],
-    [
-      "Univariate Coppersmith Algorithm",
-      "https://boogiemath.org/notes/misc/notes-3.html"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 16:03:19",
       "https://news.ycombinator.com/item?id=41130620"
     ],
     [
       "Flux: Open-source text-to-image model with 12B parameters",
       "https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 15:58:04",
-      "https://news.ycombinator.com/item?id=41130557"
-    ],
-    [
-      "Show HN: Engine Core – open-source LLM chat management and tool call framework",
-      "https://github.com/Engine-Labs/engine-core"
     ]
   ],
   [
@@ -131,16 +101,6 @@
   ],
   [
     [
-      "2024-08-01, 14:19:04",
-      "https://news.ycombinator.com/item?id=41129353"
-    ],
-    [
-      "Show HN: I am using AI to measure how well cats sit like bread",
-      "https://rateloaf.com"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 12:07:58",
       "https://news.ycombinator.com/item?id=41128325"
     ],
@@ -171,6 +131,16 @@
   ],
   [
     [
+      "2024-08-01, 07:55:57",
+      "https://news.ycombinator.com/item?id=41127048"
+    ],
+    [
+      "How Google handles JavaScript throughout the indexing process",
+      "https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 07:34:30",
       "https://news.ycombinator.com/item?id=41126944"
     ],
@@ -191,32 +161,12 @@
   ],
   [
     [
-      "2024-08-01, 02:25:51",
-      "https://news.ycombinator.com/item?id=41125648"
-    ],
-    [
-      "The Genomic Code: The genome instantiates a generative model of the organism",
-      "https://arxiv.org/abs/2407.15908"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 02:00:12",
       "https://news.ycombinator.com/item?id=41125544"
     ],
     [
       "Don’t let your domain name become a sitting duck",
       "https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 01:52:57",
-      "https://news.ycombinator.com/item?id=41125490"
-    ],
-    [
-      "Just disconnect the internet",
-      "https://computer.rip/2024-07-31-just-disconnect-the-internet.html"
     ]
   ],
   [
@@ -241,22 +191,22 @@
   ],
   [
     [
-      "2024-07-31, 15:49:55",
-      "https://news.ycombinator.com/item?id=41120254"
-    ],
-    [
-      "I prefer rST to Markdown",
-      "https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/"
-    ]
-  ],
-  [
-    [
       "2024-07-31, 14:44:35",
       "https://news.ycombinator.com/item?id=41119646"
     ],
     [
       "Robot dentist performs first human procedure",
       "https://newatlas.com/health-wellbeing/robot-dentist-world-first/"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 04:39:03",
+      "https://news.ycombinator.com/item?id=41116439"
+    ],
+    [
+      "WordGrinder: A simple word processor that runs on the console",
+      "https://github.com/davidgiven/wordgrinder"
     ]
   ],
   [
@@ -281,6 +231,26 @@
   ],
   [
     [
+      "2024-07-31, 01:27:52",
+      "https://news.ycombinator.com/item?id=41115712"
+    ],
+    [
+      "Ask HN: How to go about reverse engineering and deformulating a beverage at home",
+      "https://news.ycombinator.com/item?id=41115712"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 18:58:05",
+      "https://news.ycombinator.com/item?id=41112889"
+    ],
+    [
+      "Show HN: Trayce – Network tab for your local Docker containers",
+      "https://trayce.dev"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 11:31:00",
       "https://news.ycombinator.com/item?id=41108026"
     ],
@@ -297,6 +267,36 @@
     [
       "Habitual stone-tool aided extractive foraging in white-faced capuchins (2018)",
       "https://www.biorxiv.org/content/10.1101/351619v1"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 16:37:15",
+      "https://news.ycombinator.com/item?id=41101700"
+    ],
+    [
+      "Crafting endless AS paths in BGP",
+      "https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 14:27:40",
+      "https://news.ycombinator.com/item?id=41100737"
+    ],
+    [
+      "The protein Reelin keeps popping up in brains that resist aging and Alzheimer’s",
+      "https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory"
+    ]
+  ],
+  [
+    [
+      "2024-07-28, 14:00:42",
+      "https://news.ycombinator.com/item?id=41093197"
+    ],
+    [
+      "A skeptic's first contact with Kubernetes",
+      "https://blog.davidv.dev/posts/first-contact-with-k8s/"
     ]
   ]
 ]
