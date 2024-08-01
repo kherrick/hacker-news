@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 18:28:31](https://news.ycombinator.com/item?id=41132023) - [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
 * [2024-08-01, 18:13:35](https://news.ycombinator.com/item?id=41131914) - [Job searching in 2024 is horribly broken](https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken)
 * [2024-08-01, 17:53:19](https://news.ycombinator.com/item?id=41131674) - [Is C99 Turing-Complete?](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete)
 * [2024-08-01, 17:01:31](https://news.ycombinator.com/item?id=41131195) - [Ask HN: What Are You Working On? (August 2024)](https://news.ycombinator.com/item?id=41131195)
@@ -29,7 +30,6 @@
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Fully-automatic robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
 * [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
-* [2024-07-29, 23:09:58](https://news.ycombinator.com/item?id=41104597) - [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
 
 ## [Archives](archives/index.md)
 
