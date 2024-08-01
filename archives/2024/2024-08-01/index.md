@@ -15,6 +15,7 @@
 * [2024-08-01, 15:39:49](https://news.ycombinator.com/item?id=41130342) - [Intel Faces Potential Class-Action Lawsuit over Chip Bug Controversy](https://uk.pcmag.com/processors/153676/intel-faces-potential-class-action-lawsuit-over-chip-bug-controversy)
 * [2024-08-01, 15:30:34](https://news.ycombinator.com/item?id=41130233) - [I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-08-01, 15:16:09](https://news.ycombinator.com/item?id=41130042) - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
+* [2024-08-01, 15:04:16](https://news.ycombinator.com/item?id=41129886) - [Introducing The Fellowship for Maintainers – Sovereign Tech Fund](https://www.sovereigntechfund.de/news/introducing-the-fellowship-for-maintainers)
 * [2024-08-01, 15:00:34](https://news.ycombinator.com/item?id=41129813) - [Ask HN: Who is hiring? (August 2024)](https://news.ycombinator.com/item?id=41129813)
 * [2024-08-01, 15:00:32](https://news.ycombinator.com/item?id=41129811) - [Ask HN: Who wants to be hired? (August 2024)](https://news.ycombinator.com/item?id=41129811)
 * [2024-08-01, 14:55:25](https://news.ycombinator.com/item?id=41129752) - [Say less in your emails, get more replies](https://www.gkogan.co/increase-reply-rates/)
