@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 04:21:46](https://news.ycombinator.com/item?id=41126130) - [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
+* [2024-08-01, 03:41:14](https://news.ycombinator.com/item?id=41125954) - [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
 * [2024-08-01, 02:47:34](https://news.ycombinator.com/item?id=41125733) - [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [2024-08-01, 02:35:41](https://news.ycombinator.com/item?id=41125691) - [What Is Solar Punk? A Creative Commons Solar Punk Manifesto](https://www.re-des.org/es/a-solarpunk-manifesto/)
 * [2024-08-01, 02:30:46](https://news.ycombinator.com/item?id=41125675) - [Microsoft says OpenAI is now a competitor in AI and search](https://www.cnbc.com/2024/07/31/microsoft-says-openai-is-now-a-competitor-in-ai-and-search.html)

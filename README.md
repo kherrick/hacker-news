@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-01, 02:47:34](https://news.ycombinator.com/item?id=41125733) - [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* [2024-08-01, 04:21:46](https://news.ycombinator.com/item?id=41126130) - [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
+* [2024-08-01, 03:41:14](https://news.ycombinator.com/item?id=41125954) - [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
 * [2024-08-01, 02:25:51](https://news.ycombinator.com/item?id=41125648) - [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
 * [2024-08-01, 02:18:28](https://news.ycombinator.com/item?id=41125630) - [How Does OpenAI Survive](https://www.wheresyoured.at/to-serve-altman/)
 * [2024-08-01, 02:03:42](https://news.ycombinator.com/item?id=41125561) - [Compared to other distros, Vanilla OS 2 'Orchid' is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
@@ -16,7 +17,6 @@
 * [2024-07-31, 13:16:29](https://news.ycombinator.com/item?id=41118928) - [Fast Multidimensional Matrix Multiplication on CPU from Scratch (2022)](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
 * [2024-07-31, 12:05:41](https://news.ycombinator.com/item?id=41118468) - [Show HN: Shadow IT Scan – Uncover SaaS Apps, Users and Risky OAuth Scopes](https://www.accessowl.io/scan)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
-* [2024-07-31, 04:30:15](https://news.ycombinator.com/item?id=41116414) - [FakeTraveler: Fake where your phone is located (Mock location for Android)](https://github.com/mcastillof/FakeTraveler)
 * [2024-07-31, 03:47:42](https://news.ycombinator.com/item?id=41116253) - [Construction of the AT&T Long Lines \"Cheshire\" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
