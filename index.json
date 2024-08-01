@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-07-31, 22:05:25",
-      "https://news.ycombinator.com/item?id=41123989"
+      "2024-08-01, 01:02:01",
+      "https://news.ycombinator.com/item?id=41125226"
     ],
     [
-      "Two new dementia risks identified by major report",
-      "https://www.bbc.com/news/articles/c84jdxd4x1ro"
+      "Etleap (YC W13) Is Hiring a Customer Success Manager (SF)",
+      "https://etleap.com/careers/customer-success-manager/"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 23:06:11",
+      "https://news.ycombinator.com/item?id=41124472"
+    ],
+    [
+      "SnowflakeOS: Beginner friendly and GUI focused NixOS variant",
+      "https://snowflakeos.org/"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Suspicious data pattern in recent Venezuelan election",
       "https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/"
-    ]
-  ],
-  [
-    [
-      "2024-07-31, 20:24:24",
-      "https://news.ycombinator.com/item?id=41123061"
-    ],
-    [
-      "Run Google Gemma 2 2B 100% Locally",
-      "https://news.ycombinator.com/item?id=41123061"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41118928"
     ],
     [
-      "Fast Multidimensional Matrix Multiplication on CPU from Scratch",
+      "Fast Multidimensional Matrix Multiplication on CPU from Scratch (2022)",
       "https://siboehm.com/articles/22/Fast-MMM-on-CPU"
     ]
   ],
