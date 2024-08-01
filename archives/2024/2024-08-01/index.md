@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 17:01:16](https://news.ycombinator.com/item?id=41131187) - [Fathom AI Notetaker (YC W21) Is Hiring a Head of Data (Remote/US)](https://www.ycombinator.com/companies/fathom/jobs/rNItrfZ-head-of-data)
+* [2024-08-01, 16:44:03](https://news.ycombinator.com/item?id=41131018) - [The Nature of Consciousness](https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/)
+* [2024-08-01, 16:33:58](https://news.ycombinator.com/item?id=41130901) - [GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
 * [2024-08-01, 16:03:19](https://news.ycombinator.com/item?id=41130620) - [The open weight Flux text to image model is next level](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
+* [2024-08-01, 15:58:04](https://news.ycombinator.com/item?id=41130557) - [Show HN: Engine Core – open-source LLM chat management and tool call framework](https://github.com/Engine-Labs/engine-core)
+* [2024-08-01, 15:39:49](https://news.ycombinator.com/item?id=41130342) - [Intel Faces Potential Class-Action Lawsuit over Chip Bug Controversy](https://uk.pcmag.com/processors/153676/intel-faces-potential-class-action-lawsuit-over-chip-bug-controversy)
 * [2024-08-01, 15:30:34](https://news.ycombinator.com/item?id=41130233) - [I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-08-01, 15:16:09](https://news.ycombinator.com/item?id=41130042) - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
 * [2024-08-01, 15:00:34](https://news.ycombinator.com/item?id=41129813) - [Ask HN: Who is hiring? (August 2024)](https://news.ycombinator.com/item?id=41129813)
