@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 10:54:13](https://news.ycombinator.com/item?id=41127859) - [D&D will release its 2024 ruleset under a Creative Commons licence](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-2024-srd-wont-be-another-ogl-fiasco)
 * [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 * [2024-08-01, 09:40:25](https://news.ycombinator.com/item?id=41127446) - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
 * [2024-08-01, 08:52:34](https://news.ycombinator.com/item?id=41127269) - [Google listed my restaurant's number as its British HQ](https://www.theguardian.com/money/article/2024/aug/01/google-listed-my-restaurants-number-as-its-british-hq)
 * [2024-08-01, 07:34:30](https://news.ycombinator.com/item?id=41126944) - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
 * [2024-08-01, 07:00:18](https://news.ycombinator.com/item?id=41126786) - [Langfuse (YC W23) Is Hiring a Open Source Product Engineer in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-08-01, 06:59:35](https://news.ycombinator.com/item?id=41126782) - [Stop Killing Games – European Citizens' Initiative](https://www.stopkillinggames.com/eci)
-* [2024-08-01, 06:38:59](https://news.ycombinator.com/item?id=41126685) - [Study: Consumers Actively Turned Off by AI](https://futurism.com/the-byte/study-consumers-turned-off-products-ai)
 * [2024-08-01, 06:11:03](https://news.ycombinator.com/item?id=41126577) - [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 * [2024-08-01, 04:59:21](https://news.ycombinator.com/item?id=41126307) - [Baidu's Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/abs/2407.19813)
 * [2024-08-01, 04:21:46](https://news.ycombinator.com/item?id=41126130) - [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
@@ -26,10 +26,10 @@
 * [2024-07-30, 22:37:24](https://news.ycombinator.com/item?id=41114825) - [Creativity fundamentally comes from memorization?](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
-* [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 * [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
 * [2024-07-29, 23:09:58](https://news.ycombinator.com/item?id=41104597) - [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
 * [2024-07-29, 22:14:51](https://news.ycombinator.com/item?id=41104288) - [Amazon's exabyte-scale migration from Apache Spark to Ray on EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
+* [2024-07-28, 04:33:46](https://news.ycombinator.com/item?id=41091245) - [Discovering a New Neolithic World](https://archaeology.org/issues/march-april-2024/features/discovering-a-new-neolithic-world/)
 
 ## [Archives](archives/index.md)
 

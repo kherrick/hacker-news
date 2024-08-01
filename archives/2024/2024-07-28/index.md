@@ -82,6 +82,7 @@
 * [2024-07-28, 06:57:48](https://news.ycombinator.com/item?id=41091687) - [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
 * [2024-07-28, 06:51:55](https://news.ycombinator.com/item?id=41091658) - [400% increase in GPS spoofing – workgroup established](https://ops.group/blog/400-increase-in-gps-spoofing-workgroup-established/)
 * [2024-07-28, 06:41:52](https://news.ycombinator.com/item?id=41091623) - [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
+* [2024-07-28, 04:33:46](https://news.ycombinator.com/item?id=41091245) - [Discovering a New Neolithic World](https://archaeology.org/issues/march-april-2024/features/discovering-a-new-neolithic-world/)
 * [2024-07-28, 04:28:06](https://news.ycombinator.com/item?id=41091225) - [It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
 * [2024-07-28, 04:09:04](https://news.ycombinator.com/item?id=41091163) - [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
 * [2024-07-28, 03:49:30](https://news.ycombinator.com/item?id=41091109) - [Milton Bartholomew: More pianos than typewriters](https://type-writer.org/?p=6981)
