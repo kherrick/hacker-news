@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-01, 20:18:25](https://news.ycombinator.com/item?id=41133143) - [San Francisco to ban software that \"enables price collusion\" by landlords](https://arstechnica.com/tech-policy/2024/08/san-francisco-to-ban-software-that-enables-price-collusion-by-landlords/)
+* [2024-08-01, 20:39:17](https://news.ycombinator.com/item?id=41133371) - [Delta CEO calls Microsoft 'the most fragile platform' while praising Apple](https://9to5mac.com/2024/08/01/delta-ceo-calls-microsoft-probably-the-most-fragile-platform-while-praising-apple/)
 * [2024-08-01, 20:02:23](https://news.ycombinator.com/item?id=41132989) - [Sam Altman-Backed Rain AI Hires Apple Chip Vet to Lead Hardware](https://www.bloomberg.com/news/articles/2024-06-28/sam-altman-backed-rain-ai-hires-apple-chip-vet-to-lead-hardware)
 * [2024-08-01, 19:42:18](https://news.ycombinator.com/item?id=41132787) - [DIY, 8mm film scanner Kotokino Mark IV](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
 * [2024-08-01, 19:29:55](https://news.ycombinator.com/item?id=41132669) - [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
