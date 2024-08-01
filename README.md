@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 20:18:25](https://news.ycombinator.com/item?id=41133143) - [San Francisco to ban software that \"enables price collusion\" by landlords](https://arstechnica.com/tech-policy/2024/08/san-francisco-to-ban-software-that-enables-price-collusion-by-landlords/)
+* [2024-08-01, 20:02:23](https://news.ycombinator.com/item?id=41132989) - [Sam Altman-Backed Rain AI Hires Apple Chip Vet to Lead Hardware](https://www.bloomberg.com/news/articles/2024-06-28/sam-altman-backed-rain-ai-hires-apple-chip-vet-to-lead-hardware)
 * [2024-08-01, 19:42:18](https://news.ycombinator.com/item?id=41132787) - [DIY, 8mm film scanner Kotokino Mark IV](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
 * [2024-08-01, 19:29:55](https://news.ycombinator.com/item?id=41132669) - [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 * [2024-08-01, 18:57:04](https://news.ycombinator.com/item?id=41132328) - [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
@@ -11,7 +13,6 @@
 * [2024-08-01, 15:41:21](https://news.ycombinator.com/item?id=41130359) - [The Trouble with __all__](https://www.gauge.sh/blog/the-trouble-with-all)
 * [2024-08-01, 15:16:09](https://news.ycombinator.com/item?id=41130042) - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
 * [2024-08-01, 15:00:34](https://news.ycombinator.com/item?id=41129813) - [Ask HN: Who is hiring? (August 2024)](https://news.ycombinator.com/item?id=41129813)
-* [2024-08-01, 14:27:20](https://news.ycombinator.com/item?id=41129439) - [Unprofessionalism (2013)](https://allenpike.com/2013/unprofessionalism)
 * [2024-08-01, 12:07:58](https://news.ycombinator.com/item?id=41128325) - [Parasites are everywhere. Why do so few researchers study them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
 * [2024-08-01, 10:29:21](https://news.ycombinator.com/item?id=41127726) - [I recreated Shazam's algorithm with Go](https://github.com/cgzirim/not-shazam)
 * [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I got my laser eye injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
@@ -25,7 +26,6 @@
 * [2024-07-31, 03:43:55](https://news.ycombinator.com/item?id=41116238) - [Australia starts peanut allergy treatment for babies](https://www.bbc.com/news/articles/c0xj3xq5l1vo)
 * [2024-07-31, 02:57:30](https://news.ycombinator.com/item?id=41116071) - [The effect of CRTs on pixel art](https://www.datagubbe.se/crt/)
 * [2024-07-30, 18:58:05](https://news.ycombinator.com/item?id=41112889) - [Show HN: Trayce – Network tab for your local Docker containers](https://trayce.dev)
-* [2024-07-30, 11:31:00](https://news.ycombinator.com/item?id=41108026) - [Ozempic's biggest side effect: Turning Denmark into a 'pharmastate'?](https://www.npr.org/sections/planet-money/2024/07/26/g-s1-13534/ozempic-biggest-side-effect-denmark-pharmastate)
 * [2024-07-29, 23:49:54](https://news.ycombinator.com/item?id=41104789) - [Artificial intelligence gives weather forecasters a new edge](https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html)
 * [2024-07-29, 16:37:15](https://news.ycombinator.com/item?id=41101700) - [Crafting endless AS paths in BGP](https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath)
 * [2024-07-29, 14:27:40](https://news.ycombinator.com/item?id=41100737) - [The protein Reelin keeps popping up in brains that resist aging and Alzheimer’s](https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory)
