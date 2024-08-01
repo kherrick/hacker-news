@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 18:57:04](https://news.ycombinator.com/item?id=41132328) - [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
+* [2024-08-01, 18:35:46](https://news.ycombinator.com/item?id=41132104) - [Show HN: Anyma V, a hybrid physical modelling virtual instrument](https://aodyo.com/anyma-v/)
 * [2024-08-01, 18:28:31](https://news.ycombinator.com/item?id=41132023) - [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
 * [2024-08-01, 18:13:35](https://news.ycombinator.com/item?id=41131914) - [Job searching in 2024 is horribly broken](https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken)
 * [2024-08-01, 17:53:19](https://news.ycombinator.com/item?id=41131674) - [Is C99 Turing-Complete?](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete)
@@ -15,6 +17,7 @@
 * [2024-08-01, 16:44:03](https://news.ycombinator.com/item?id=41131018) - [The Nature of Consciousness](https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/)
 * [2024-08-01, 16:38:46](https://news.ycombinator.com/item?id=41130953) - [Germany names China as source of attack on government geospatial agency](https://www.theregister.com/2024/08/01/germany_accuses_china_of_cyberattack/)
 * [2024-08-01, 16:33:58](https://news.ycombinator.com/item?id=41130901) - [GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
+* [2024-08-01, 16:10:46](https://news.ycombinator.com/item?id=41130693) - [Univariate Coppersmith Algorithm](https://boogiemath.org/notes/misc/notes-3.html)
 * [2024-08-01, 16:03:19](https://news.ycombinator.com/item?id=41130620) - [The open weight Flux text to image model is next level](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 * [2024-08-01, 15:58:04](https://news.ycombinator.com/item?id=41130557) - [Show HN: Engine Core – open-source LLM chat management and tool call framework](https://github.com/Engine-Labs/engine-core)
 * [2024-08-01, 15:41:21](https://news.ycombinator.com/item?id=41130359) - [The Trouble with __all__](https://www.gauge.sh/blog/the-trouble-with-all)
