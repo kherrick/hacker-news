@@ -28,8 +28,8 @@
 * [2024-07-31, 15:49:55](https://news.ycombinator.com/item?id=41120254) - [I prefer rST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Fully-automatic robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
+* [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
 * [2024-07-29, 23:09:58](https://news.ycombinator.com/item?id=41104597) - [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
-* [2024-07-29, 22:14:51](https://news.ycombinator.com/item?id=41104288) - [Amazon's exabyte-scale migration from Apache Spark to Ray on EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
 
 ## [Archives](archives/index.md)
 
