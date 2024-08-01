@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 21:01:17](https://news.ycombinator.com/item?id=41133574) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer)
 * [2024-08-01, 20:39:17](https://news.ycombinator.com/item?id=41133371) - [Delta CEO calls Microsoft 'the most fragile platform' while praising Apple](https://9to5mac.com/2024/08/01/delta-ceo-calls-microsoft-probably-the-most-fragile-platform-while-praising-apple/)
 * [2024-08-01, 20:18:25](https://news.ycombinator.com/item?id=41133143) - [San Francisco to ban software that \"enables price collusion\" by landlords](https://arstechnica.com/tech-policy/2024/08/san-francisco-to-ban-software-that-enables-price-collusion-by-landlords/)
 * [2024-08-01, 20:16:54](https://news.ycombinator.com/item?id=41133133) - [Intel to cut 15% of headcount, reports quarterly guidance miss](https://www.cnbc.com/2024/08/01/intel-intc-q2-earnings-report-2024.html)
