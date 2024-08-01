@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 09:40:25](https://news.ycombinator.com/item?id=41127446) - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
 * [2024-08-01, 08:52:34](https://news.ycombinator.com/item?id=41127269) - [Google listed my restaurant's number as its British HQ](https://www.theguardian.com/money/article/2024/aug/01/google-listed-my-restaurants-number-as-its-british-hq)
 * [2024-08-01, 07:34:30](https://news.ycombinator.com/item?id=41126944) - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
 * [2024-08-01, 07:00:18](https://news.ycombinator.com/item?id=41126786) - [Langfuse (YC W23) Is Hiring a Open Source Product Engineer in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
@@ -17,7 +18,6 @@
 * [2024-08-01, 01:52:57](https://news.ycombinator.com/item?id=41125490) - [Just Disconnect the Internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-07-31, 23:06:11](https://news.ycombinator.com/item?id=41124472) - [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
 * [2024-07-31, 22:19:18](https://news.ycombinator.com/item?id=41124112) - [Show HN: Non SaaS – Directory of Non SaaS Apps](https://nonsaas.com)
-* [2024-07-31, 20:34:31](https://news.ycombinator.com/item?id=41123155) - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
 * [2024-07-31, 19:50:37](https://news.ycombinator.com/item?id=41122793) - [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
 * [2024-07-31, 19:23:51](https://news.ycombinator.com/item?id=41122509) - [Skribilo: The Document Programming Framework](https://www.nongnu.org/skribilo/)
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
