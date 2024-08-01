@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-01, 12:00:38",
+      "https://news.ycombinator.com/item?id=41128284"
+    ],
+    [
+      "Ashby (YC W19) Is Hiring Engineers Who Can Design",
+      "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 10:54:13",
       "https://news.ycombinator.com/item?id=41127859"
     ],
     [
       "D&D will release its 2024 ruleset under a Creative Commons licence",
       "https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-2024-srd-wont-be-another-ogl-fiasco"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 10:52:51",
+      "https://news.ycombinator.com/item?id=41127849"
+    ],
+    [
+      "SQLite-vec v0.1.0: a vector search SQLite extension that runs everywhere",
+      "https://alexgarcia.xyz/blog/2024/sqlite-vec-stable-release/index.html"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2024-08-01, 07:00:18",
-      "https://news.ycombinator.com/item?id=41126786"
-    ],
-    [
-      "Langfuse (YC W23) Is Hiring a Open Source Product Engineer in Berlin",
-      "https://github.com/langfuse/langfuse/blob/main/careers"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 06:59:35",
       "https://news.ycombinator.com/item?id=41126782"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41126577"
     ],
     [
-      "Baking Pi – Operating Systems Development",
+      "Baking Pi – Operating Systems Development (2012)",
       "https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Cardie – An open source business card designer and sharing platform",
       "https://github.com/nfoert/cardie"
-    ]
-  ],
-  [
-    [
-      "2024-07-31, 19:23:51",
-      "https://news.ycombinator.com/item?id=41122509"
-    ],
-    [
-      "Skribilo: The Document Programming Framework",
-      "https://www.nongnu.org/skribilo/"
     ]
   ],
   [
