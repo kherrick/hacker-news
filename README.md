@@ -15,11 +15,13 @@
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
 * [2024-07-31, 12:05:41](https://news.ycombinator.com/item?id=41118468) - [Show HN: Shadow IT Scan – Uncover SaaS Apps, Users and Risky OAuth Scopes](https://www.accessowl.io/scan)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
+* [2024-07-31, 04:30:15](https://news.ycombinator.com/item?id=41116414) - [FakeTraveler: Fake where your phone is located (Mock location for Android)](https://github.com/mcastillof/FakeTraveler)
 * [2024-07-31, 03:47:42](https://news.ycombinator.com/item?id=41116253) - [Construction of the AT&T Long Lines \"Cheshire\" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:00:26](https://news.ycombinator.com/item?id=41115591) - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 * [2024-07-30, 22:37:24](https://news.ycombinator.com/item?id=41114825) - [Creativity fundamentally comes from memorization?](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 * [2024-07-30, 18:55:10](https://news.ycombinator.com/item?id=41112854) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
+* [2024-07-30, 16:46:15](https://news.ycombinator.com/item?id=41111208) - [Divers discover Roman mosaic](https://www.smithsonianmag.com/smart-news/underwater-marble-floor-mosaic-discovered-off-the-coast-of-naples-180984772/)
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-30, 10:49:29](https://news.ycombinator.com/item?id=41107811) - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 * [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
@@ -28,8 +30,6 @@
 * [2024-07-29, 16:22:58](https://news.ycombinator.com/item?id=41101597) - [Polylith](https://polylith.gitbook.io/polylith)
 * [2024-07-28, 03:49:30](https://news.ycombinator.com/item?id=41091109) - [Milton Bartholomew: More pianos than typewriters](https://type-writer.org/?p=6981)
 * [2024-07-27, 18:19:30](https://news.ycombinator.com/item?id=41088355) - [Tell HN: I am going to host \"Real Analysis\" book club meetings](https://news.ycombinator.com/item?id=41088355)
-* [2024-07-26, 05:32:05](https://news.ycombinator.com/item?id=41076021) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
-* [2024-07-25, 22:09:59](https://news.ycombinator.com/item?id=41073907) - [Is the nervous system a democracy? (2016)](https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/)
 
 ## [Archives](archives/index.md)
 
