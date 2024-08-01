@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
 * [2024-07-31, 23:06:11](https://news.ycombinator.com/item?id=41124472) - [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
+* [2024-07-31, 22:19:18](https://news.ycombinator.com/item?id=41124112) - [Show HN: Non SaaS – Directory of Non SaaS Apps](https://nonsaas.com)
 * [2024-07-31, 22:05:25](https://news.ycombinator.com/item?id=41123989) - [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)
 * [2024-07-31, 22:01:42](https://news.ycombinator.com/item?id=41123945) - [How Middlemen Are Gaming the H-1B Program](https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/)
 * [2024-07-31, 22:01:02](https://news.ycombinator.com/item?id=41123941) - [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
