@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-01, 16:03:19](https://news.ycombinator.com/item?id=41130620) - [Flux: Open-source text-to-image model with 12B parameters](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
+* [2024-08-01, 15:30:34](https://news.ycombinator.com/item?id=41130233) - [I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-08-01, 15:16:09](https://news.ycombinator.com/item?id=41130042) - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
 * [2024-08-01, 15:00:34](https://news.ycombinator.com/item?id=41129813) - [Ask HN: Who is hiring? (August 2024)](https://news.ycombinator.com/item?id=41129813)
-* [2024-08-01, 15:00:32](https://news.ycombinator.com/item?id=41129811) - [Ask HN: Who wants to be hired? (August 2024)](https://news.ycombinator.com/item?id=41129811)
-* [2024-08-01, 14:55:25](https://news.ycombinator.com/item?id=41129752) - [Say less in your emails, get more replies](https://www.gkogan.co/increase-reply-rates/)
+* [2024-08-01, 14:55:25](https://news.ycombinator.com/item?id=41129752) - [Say less in your emails, get more replies (2017)](https://www.gkogan.co/increase-reply-rates/)
 * [2024-08-01, 14:16:14](https://news.ycombinator.com/item?id=41129319) - [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
 * [2024-08-01, 12:07:58](https://news.ycombinator.com/item?id=41128325) - [Parasites are everywhere. Why do so few researchers study them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
 * [2024-08-01, 12:00:38](https://news.ycombinator.com/item?id=41128284) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
