@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 07:00:18](https://news.ycombinator.com/item?id=41126786) - [Langfuse (YC W23) Is Hiring a Open Source Product Engineer in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
+* [2024-08-01, 06:38:59](https://news.ycombinator.com/item?id=41126685) - [Study: Consumers Actively Turned Off by AI](https://futurism.com/the-byte/study-consumers-turned-off-products-ai)
 * [2024-08-01, 04:21:46](https://news.ycombinator.com/item?id=41126130) - [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
 * [2024-08-01, 03:48:14](https://news.ycombinator.com/item?id=41125980) - [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
 * [2024-08-01, 03:41:14](https://news.ycombinator.com/item?id=41125954) - [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
@@ -10,7 +12,6 @@
 * [2024-08-01, 01:52:57](https://news.ycombinator.com/item?id=41125490) - [Just Disconnect the Internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-07-31, 23:06:11](https://news.ycombinator.com/item?id=41124472) - [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
 * [2024-07-31, 22:19:18](https://news.ycombinator.com/item?id=41124112) - [Show HN: Non SaaS – Directory of Non SaaS Apps](https://nonsaas.com)
-* [2024-07-31, 21:00:42](https://news.ycombinator.com/item?id=41123416) - [Andi (YC W22) is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
 * [2024-07-31, 20:34:31](https://news.ycombinator.com/item?id=41123155) - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
 * [2024-07-31, 20:05:20](https://news.ycombinator.com/item?id=41122920) - [Foobar2000](https://www.foobar2000.org/)
 * [2024-07-31, 19:50:37](https://news.ycombinator.com/item?id=41122793) - [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
@@ -29,7 +30,6 @@
 * [2024-07-30, 00:54:05](https://news.ycombinator.com/item?id=41105130) - [Show HN: Turn any website into a knowledge base for LLMs](https://www.embedding.io/)
 * [2024-07-29, 23:09:58](https://news.ycombinator.com/item?id=41104597) - [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
 * [2024-07-29, 22:14:51](https://news.ycombinator.com/item?id=41104288) - [Amazon's exabyte-scale migration from Apache Spark to Ray on EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
-* [2024-07-29, 16:22:58](https://news.ycombinator.com/item?id=41101597) - [Polylith](https://polylith.gitbook.io/polylith)
 
 ## [Archives](archives/index.md)
 
