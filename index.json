@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-01, 12:07:58",
+      "https://news.ycombinator.com/item?id=41128325"
+    ],
+    [
+      "Parasites Are Everywhere. Why Do So Few Researchers Study Them?",
+      "https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 12:00:38",
       "https://news.ycombinator.com/item?id=41128284"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2024-08-01, 09:48:15",
-      "https://news.ycombinator.com/item?id=41127496"
-    ],
-    [
-      "Amazon is responsible for recalling unsafe products sold on its site,agency says",
-      "https://www.npr.org/2024/08/01/g-s1-14633/amazon-must-recall-unsafe-products-independent-sellers"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 09:40:25",
       "https://news.ycombinator.com/item?id=41127446"
     ],
@@ -61,26 +61,6 @@
   ],
   [
     [
-      "2024-08-01, 06:11:03",
-      "https://news.ycombinator.com/item?id=41126577"
-    ],
-    [
-      "Baking Pi – Operating Systems Development (2012)",
-      "https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 04:59:21",
-      "https://news.ycombinator.com/item?id=41126307"
-    ],
-    [
-      "Baidu's Improving Retrieval Augmented Language Model with Self-Reasoning",
-      "https://arxiv.org/abs/2407.19813"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 03:48:14",
       "https://news.ycombinator.com/item?id=41125980"
     ],
@@ -91,12 +71,12 @@
   ],
   [
     [
-      "2024-08-01, 02:30:09",
-      "https://news.ycombinator.com/item?id=41125670"
+      "2024-08-01, 03:41:14",
+      "https://news.ycombinator.com/item?id=41125954"
     ],
     [
-      "How to Build Your First AI Model: A Comprehensive Guide",
-      "https://heyvivek.com/how-to-build-your-first-ai-model-a-comprehensive-guide"
+      "Differences in cancer rates among adults born between 1920 and 1990",
+      "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "The Genomic Code: The genome instantiates a generative model of the organism",
       "https://arxiv.org/abs/2407.15908"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 02:03:42",
+      "https://news.ycombinator.com/item?id=41125561"
+    ],
+    [
+      "Compared to other distros, Vanilla OS 2 'Orchid' is rewriting how Linux works",
+      "https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/"
     ]
   ],
   [
@@ -137,6 +127,16 @@
     [
       "SnowflakeOS: Beginner friendly and GUI focused NixOS variant",
       "https://snowflakeos.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 20:34:31",
+      "https://news.ycombinator.com/item?id=41123155"
+    ],
+    [
+      "Suspicious data pattern in recent Venezuelan election",
+      "https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/"
     ]
   ],
   [
