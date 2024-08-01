@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 14:16:14](https://news.ycombinator.com/item?id=41129319) - [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
+* [2024-08-01, 13:57:10](https://news.ycombinator.com/item?id=41129102) - [Microwave technology saves diabetic patient from double amputation](https://www.bbc.co.uk/news/articles/c51y4wrqge7o)
 * [2024-08-01, 13:46:46](https://news.ycombinator.com/item?id=41129007) - [Nothing in evolution makes sense except in the light of parasitism](https://royalsocietypublishing.org/doi/10.1098/rsos.210441)
 * [2024-08-01, 13:44:58](https://news.ycombinator.com/item?id=41128990) - [Proposed rule would ban airlines from charging parents to sit with children](https://www.cnbc.com/2024/08/01/proposed-rule-would-ban-airlines-from-charging-parents-to-sit-with-their-children.html)
 * [2024-08-01, 12:41:39](https://news.ycombinator.com/item?id=41128541) - [Unusual Whales Subversive Democratic Trading ETF](https://finance.yahoo.com/quote/NANC/)

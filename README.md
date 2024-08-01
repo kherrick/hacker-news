@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 14:16:14](https://news.ycombinator.com/item?id=41129319) - [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
+* [2024-08-01, 13:57:10](https://news.ycombinator.com/item?id=41129102) - [Microwave technology saves diabetic patient from double amputation](https://www.bbc.co.uk/news/articles/c51y4wrqge7o)
 * [2024-08-01, 13:46:46](https://news.ycombinator.com/item?id=41129007) - [Nothing in evolution makes sense except in the light of parasitism](https://royalsocietypublishing.org/doi/10.1098/rsos.210441)
 * [2024-08-01, 13:44:58](https://news.ycombinator.com/item?id=41128990) - [Proposed rule would ban airlines from charging parents to sit with children](https://www.cnbc.com/2024/08/01/proposed-rule-would-ban-airlines-from-charging-parents-to-sit-with-their-children.html)
-* [2024-08-01, 12:41:39](https://news.ycombinator.com/item?id=41128541) - [Unusual Whales Subversive Democratic Trading ETF](https://finance.yahoo.com/quote/NANC/)
 * [2024-08-01, 12:24:59](https://news.ycombinator.com/item?id=41128424) - [Framework is looking for Linux Community Ambassadors](https://community.frame.work/t/framework-is-looking-for-linux-community-ambassadors/55344)
 * [2024-08-01, 12:24:53](https://news.ycombinator.com/item?id=41128423) - [India's $45B Startup Implosion Puts Tech Future in Doubt](https://www.bloomberg.com/news/articles/2024-08-01/india-s-tech-startup-struggles-spark-vc-funding-retreat)
 * [2024-08-01, 12:07:58](https://news.ycombinator.com/item?id=41128325) - [Parasites Are Everywhere. Why Do So Few Researchers Study Them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
@@ -21,7 +22,6 @@
 * [2024-07-31, 14:24:27](https://news.ycombinator.com/item?id=41119443) - [Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri](https://news.ycombinator.com/item?id=41119443)
 * [2024-07-31, 13:40:49](https://news.ycombinator.com/item?id=41119080) - [How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
-* [2024-07-31, 03:47:42](https://news.ycombinator.com/item?id=41116253) - [Construction of the AT&T Long Lines \"Cheshire\" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
 * [2024-07-31, 02:22:41](https://news.ycombinator.com/item?id=41115941) - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-30, 22:37:24](https://news.ycombinator.com/item?id=41114825) - [Creativity fundamentally comes from memorization?](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 * [2024-07-30, 12:57:18](https://news.ycombinator.com/item?id=41108662) - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
