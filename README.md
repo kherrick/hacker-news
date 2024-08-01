@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-01, 22:11:40](https://news.ycombinator.com/item?id=41134167) - [Video segmentation with Segment Anything 2 (SAM2)](https://blog.roboflow.com/sam-2-video-segmentation/)
 * [2024-08-01, 21:38:20](https://news.ycombinator.com/item?id=41133917) - [CrowdStrike attempts takedown of parody site](https://clownstrike.lol/crowdmad/)
 * [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
-* [2024-08-01, 21:22:22](https://news.ycombinator.com/item?id=41133778) - [I hate the Gemini 'Dear Sydney' ad more every passing moment](https://www.washingtonpost.com/opinions/2024/07/31/google-gemini-ai-dear-sydney-ad-olympics-satire/)
 * [2024-08-01, 21:01:17](https://news.ycombinator.com/item?id=41133574) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer)
 * [2024-08-01, 20:43:29](https://news.ycombinator.com/item?id=41133405) - [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
 * [2024-08-01, 20:42:03](https://news.ycombinator.com/item?id=41133390) - [GitOpper: GitOps Without Kubernetes](https://github.com/miekg/gitopper)
