@@ -6,6 +6,8 @@
 
 * [2024-08-01, 16:03:19](https://news.ycombinator.com/item?id=41130620) - [The open weight Flux text to image model is next level](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 * [2024-08-01, 15:16:09](https://news.ycombinator.com/item?id=41130042) - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
+* [2024-08-01, 15:00:34](https://news.ycombinator.com/item?id=41129813) - [Ask HN: Who is hiring? (August 2024)](https://news.ycombinator.com/item?id=41129813)
+* [2024-08-01, 15:00:32](https://news.ycombinator.com/item?id=41129811) - [Ask HN: Who wants to be hired? (August 2024)](https://news.ycombinator.com/item?id=41129811)
 * [2024-08-01, 14:55:25](https://news.ycombinator.com/item?id=41129752) - [Say less in your emails, get more replies](https://www.gkogan.co/increase-reply-rates/)
 * [2024-08-01, 14:42:03](https://news.ycombinator.com/item?id=41129601) - [Will Britain Survive?](https://www.theatlantic.com/international/archive/2022/01/will-britain-survive/621095/)
 * [2024-08-01, 14:19:04](https://news.ycombinator.com/item?id=41129353) - [Show HN: I am using AI to measure how well cats sit like bread](https://rateloaf.com)
