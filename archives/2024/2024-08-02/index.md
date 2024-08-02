@@ -7,6 +7,7 @@
 * [2024-08-02, 11:55:59](https://news.ycombinator.com/item?id=41138085) - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
 * [2024-08-02, 11:25:08](https://news.ycombinator.com/item?id=41137899) - [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
 * [2024-08-02, 11:01:48](https://news.ycombinator.com/item?id=41137773) - [Ask iFixit: Does Blowing Into Gaming Cartridges Actually Fix Them?](https://www.ifixit.com/News/97647/ask-ifixit-does-blowing-into-gaming-cartridges-actually-fix-them)
+* [2024-08-02, 11:00:42](https://news.ycombinator.com/item?id=41137768) - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, dies at 87](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-02, 09:51:45](https://news.ycombinator.com/item?id=41137429) - [Lizard Optimization for Product Growth and Retention](https://www.infoq.com/news/2024/07/lizard-optimization-retention/)
 * [2024-08-02, 08:26:23](https://news.ycombinator.com/item?id=41137063) - [C Isn't a Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)

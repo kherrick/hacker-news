@@ -2,6 +2,7 @@
 
 * [2024-08-02, 11:55:59](https://news.ycombinator.com/item?id=41138085) - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
 * [2024-08-02, 11:25:08](https://news.ycombinator.com/item?id=41137899) - [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
+* [2024-08-02, 11:00:42](https://news.ycombinator.com/item?id=41137768) - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, dies at 87](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-02, 08:02:52](https://news.ycombinator.com/item?id=41136974) - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 07:37:24](https://news.ycombinator.com/item?id=41136871) - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025)
@@ -15,7 +16,6 @@
 * [2024-08-01, 19:42:18](https://news.ycombinator.com/item?id=41132787) - [DIY, 8mm film scanner Kotokino Mark IV (2020)](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
 * [2024-08-01, 19:29:55](https://news.ycombinator.com/item?id=41132669) - [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 * [2024-08-01, 18:57:04](https://news.ycombinator.com/item?id=41132328) - [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
-* [2024-08-01, 18:35:46](https://news.ycombinator.com/item?id=41132104) - [Show HN: Anyma V, a hybrid physical modelling virtual instrument](https://aodyo.com/anyma-v/)
 * [2024-08-01, 18:28:31](https://news.ycombinator.com/item?id=41132023) - [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
 * [2024-08-01, 17:00:53](https://news.ycombinator.com/item?id=41131181) - [Hundred Rabbits is a small collective exploring the failability of modern tech](https://100r.co/site/about_us.html)
 * [2024-08-01, 16:03:19](https://news.ycombinator.com/item?id=41130620) - [Flux: Open-source text-to-image model with 12B parameters](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
