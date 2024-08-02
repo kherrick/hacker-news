@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 16:26:19](https://news.ycombinator.com/item?id=41140185) - [About Google Chrome's \"This extension may soon no longer be supported\"](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
 * [2024-08-02, 16:23:01](https://news.ycombinator.com/item?id=41140162) - [Where Are Large Language Models for Code Generation on GitHub?](https://arxiv.org/abs/2406.19544)
 * [2024-08-02, 16:17:27](https://news.ycombinator.com/item?id=41140108) - [Self-hosting workshop in Portland tomorrow](https://2024.fossy.us/schedule/presentation/219/)
 * [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)

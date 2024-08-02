@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-02, 16:26:19](https://news.ycombinator.com/item?id=41140185) - [About Google Chrome's \"This extension may soon no longer be supported\"](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
 * [2024-08-02, 16:23:01](https://news.ycombinator.com/item?id=41140162) - [Where Are Large Language Models for Code Generation on GitHub?](https://arxiv.org/abs/2406.19544)
 * [2024-08-02, 16:17:27](https://news.ycombinator.com/item?id=41140108) - [Self-hosting workshop in Portland tomorrow](https://2024.fossy.us/schedule/presentation/219/)
 * [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
@@ -24,7 +25,6 @@
 * [2024-08-01, 15:00:34](https://news.ycombinator.com/item?id=41129813) - [Ask HN: Who is hiring? (August 2024)](https://news.ycombinator.com/item?id=41129813)
 * [2024-08-01, 15:00:32](https://news.ycombinator.com/item?id=41129811) - [Ask HN: Who wants to be hired? (August 2024)](https://news.ycombinator.com/item?id=41129811)
 * [2024-08-01, 14:24:00](https://news.ycombinator.com/item?id=41129403) - [The genome diversity of major crops tells the story of their evolution](https://phys.org/news/2024-07-genome-diversity-major-crops-story.html)
-* [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I got my laser eye injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 * [2024-08-01, 07:55:57](https://news.ycombinator.com/item?id=41127048) - [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-29, 23:49:54](https://news.ycombinator.com/item?id=41104789) - [Artificial intelligence gives weather forecasters a new edge](https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html)
