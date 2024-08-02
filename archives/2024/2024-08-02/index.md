@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 23:14:04](https://news.ycombinator.com/item?id=41143452) - [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
+* [2024-08-02, 22:28:50](https://news.ycombinator.com/item?id=41143216) - [DSCv3, the latest iteration of Microsoft's Desired State Configuration platform](https://github.com/PowerShell/DSC)
 * [2024-08-02, 22:04:44](https://news.ycombinator.com/item?id=41143061) - [How HashiCorp evolved its cloud infrastructure](https://platocommunity.substack.com/p/22-how-we-evolved-our-cloud-infrastructure)
 * [2024-08-02, 21:17:33](https://news.ycombinator.com/item?id=41142775) - [ROM hacking site shutting down after almost 20 years](https://arstechnica.com/gaming/2024/08/rom-hackings-premier-site-is-going-read-only-after-internal-struggle/)
 * [2024-08-02, 21:12:22](https://news.ycombinator.com/item?id=41142737) - [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
