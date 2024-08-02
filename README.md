@@ -4,7 +4,7 @@
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf] (2001)](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
 * [2024-08-02, 20:02:36](https://news.ycombinator.com/item?id=41142121) - [Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
 * [2024-08-02, 19:44:16](https://news.ycombinator.com/item?id=41141962) - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)
-* [2024-08-02, 19:23:57](https://news.ycombinator.com/item?id=41141779) - [A Year of Meta's News Ban in Canada](https://www.mediaecosystemobservatory.com/press-releases/old-news-new-reality-a-year-of-metas-news-ban-in-canada)
+* [2024-08-02, 19:23:57](https://news.ycombinator.com/item?id=41141779) - [A year of Meta's news ban in Canada](https://www.mediaecosystemobservatory.com/press-releases/old-news-new-reality-a-year-of-metas-news-ban-in-canada)
 * [2024-08-02, 18:45:08](https://news.ycombinator.com/item?id=41141460) - [Considerations when building embedded databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 * [2024-08-02, 18:20:57](https://news.ycombinator.com/item?id=41141225) - [Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure](https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain)
