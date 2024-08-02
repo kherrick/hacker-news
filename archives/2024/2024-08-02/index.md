@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 21:09:58](https://news.ycombinator.com/item?id=41142710) - [Judges Suspends FCC Net Neutrality Restoration Rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
+* [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-02, 20:25:33](https://news.ycombinator.com/item?id=41142304) - [Extended Warranty – Update on 13th/14th Stability Issue](https://old.reddit.com/r/intel/comments/1ehv0v8/extended_warranty_update_on_13th14th_stability/)
 * [2024-08-02, 20:23:07](https://news.ycombinator.com/item?id=41142288) - [Michael Phelps is 14 feet tall](https://www.google.com/search?q=does+michael+phelps+have+gigantic+hands)
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf]](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
