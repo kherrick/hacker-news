@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 21:12:22](https://news.ycombinator.com/item?id=41142737) - [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
 * [2024-08-02, 21:09:58](https://news.ycombinator.com/item?id=41142710) - [Judges Suspends FCC Net Neutrality Restoration Rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
 * [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-02, 20:25:33](https://news.ycombinator.com/item?id=41142304) - [Extended Warranty – Update on 13th/14th Stability Issue](https://old.reddit.com/r/intel/comments/1ehv0v8/extended_warranty_update_on_13th14th_stability/)
 * [2024-08-02, 20:23:07](https://news.ycombinator.com/item?id=41142288) - [Michael Phelps is 14 feet tall](https://www.google.com/search?q=does+michael+phelps+have+gigantic+hands)
+* [2024-08-02, 20:08:04](https://news.ycombinator.com/item?id=41142156) - [Pineboards AI HAT enables Hailo-8L and NVMe boot storage on a Pi 5](https://pineboards.io/blogs/news/introducing-the-ai-bundle-hailo-8l)
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf]](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
 * [2024-08-02, 20:02:36](https://news.ycombinator.com/item?id=41142121) - [Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
 * [2024-08-02, 19:44:16](https://news.ycombinator.com/item?id=41141962) - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)

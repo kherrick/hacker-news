@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-02, 21:12:22](https://news.ycombinator.com/item?id=41142737) - [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
 * [2024-08-02, 21:09:58](https://news.ycombinator.com/item?id=41142710) - [Judges Suspends FCC Net Neutrality Restoration Rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
 * [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
-* [2024-08-02, 20:25:33](https://news.ycombinator.com/item?id=41142304) - [Extended Warranty – Update on 13th/14th Stability Issue](https://old.reddit.com/r/intel/comments/1ehv0v8/extended_warranty_update_on_13th14th_stability/)
+* [2024-08-02, 20:08:04](https://news.ycombinator.com/item?id=41142156) - [Pineboards AI HAT enables Hailo-8L and NVMe boot storage on a Pi 5](https://pineboards.io/blogs/news/introducing-the-ai-bundle-hailo-8l)
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf] (2001)](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
 * [2024-08-02, 20:02:36](https://news.ycombinator.com/item?id=41142121) - [Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
 * [2024-08-02, 19:44:16](https://news.ycombinator.com/item?id=41141962) - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)
@@ -24,7 +25,6 @@
 * [2024-08-02, 02:44:44](https://news.ycombinator.com/item?id=41135671) - [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
 * [2024-08-01, 20:42:58](https://news.ycombinator.com/item?id=41133400) - [A rare disorder makes people see monsters](https://www.newyorker.com/news/annals-of-inquiry/how-a-rare-disorder-makes-people-see-monsters)
 * [2024-08-01, 14:24:00](https://news.ycombinator.com/item?id=41129403) - [The genome diversity of major crops tells the story of their evolution](https://phys.org/news/2024-07-genome-diversity-major-crops-story.html)
-* [2024-08-01, 14:05:16](https://news.ycombinator.com/item?id=41129195) - [IsoFLOP curves of large language models are flat](https://severelytheoretical.wordpress.com/2024/07/31/isoflop-curves-of-large-language-models-are-extremely-flat/)
 * [2024-08-01, 05:46:20](https://news.ycombinator.com/item?id=41126478) - [Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
 * [2024-07-31, 21:20:36](https://news.ycombinator.com/item?id=41123589) - [Eric Roberts (Spy)](https://en.wikipedia.org/wiki/Eric_Roberts_(spy))
 * [2024-07-31, 08:45:37](https://news.ycombinator.com/item?id=41117412) - [The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
