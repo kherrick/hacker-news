@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 21:17:33](https://news.ycombinator.com/item?id=41142775) - [ROM hacking site shutting down after almost 20 years](https://arstechnica.com/gaming/2024/08/rom-hackings-premier-site-is-going-read-only-after-internal-struggle/)
 * [2024-08-02, 21:12:22](https://news.ycombinator.com/item?id=41142737) - [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
 * [2024-08-02, 21:09:58](https://news.ycombinator.com/item?id=41142710) - [Judges Suspends FCC Net Neutrality Restoration Rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
 * [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
