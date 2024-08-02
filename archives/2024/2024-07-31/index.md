@@ -71,6 +71,7 @@
 * [2024-07-31, 11:40:50](https://news.ycombinator.com/item?id=41118281) - [Australia starts world-first peanut allergy treatment for babies](https://www.bbc.co.uk/news/articles/c0xj3xq5l1vo)
 * [2024-07-31, 10:37:23](https://news.ycombinator.com/item?id=41117922) - [Common side effects of not drinking](https://medium.com/@k.kozmana/common-side-effects-of-not-drinking-dd44714e619a)
 * [2024-07-31, 08:53:33](https://news.ycombinator.com/item?id=41117451) - [Spikey Spheres (2010)](https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2)
+* [2024-07-31, 08:45:37](https://news.ycombinator.com/item?id=41117412) - [The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
 * [2024-07-31, 08:42:03](https://news.ycombinator.com/item?id=41117398) - [Constellations from Around the World (2019)](https://github.com/eleanorlutz/worldstars_atlas_of_space)
 * [2024-07-31, 06:48:01](https://news.ycombinator.com/item?id=41116908) - [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
 * [2024-07-31, 06:41:49](https://news.ycombinator.com/item?id=41116885) - [Fedora Asahi Remix](https://bentsukun.ch/posts/fedora-asahi/)
