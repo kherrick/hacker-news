@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-02, 01:00:00",
+      "https://news.ycombinator.com/item?id=41135186"
+    ],
+    [
+      "Tensorfuse (YC W24) Is Hiring",
+      "https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 23:11:27",
+      "https://news.ycombinator.com/item?id=41134615"
+    ],
+    [
+      "Who Took the Cocaine Out of Coca-Cola?",
+      "https://daily.jstor.org/who-took-the-cocaine-out-of-coca-cola/"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 22:11:40",
       "https://news.ycombinator.com/item?id=41134167"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41133917"
     ],
     [
-      "CrowdStrike attempts takedown of parody site",
+      "CrowdStrike representatives issue trademark infringement notice to ClownStrike",
       "https://clownstrike.lol/crowdmad/"
     ]
   ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-08-01, 21:01:17",
-      "https://news.ycombinator.com/item?id=41133574"
+      "2024-08-01, 20:58:33",
+      "https://news.ycombinator.com/item?id=41133544"
     ],
     [
-      "Just Words (YC W24) Is Hiring",
-      "https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer"
+      "Scenefx: a drop-in replacement for the wlroots scene API",
+      "https://github.com/wlrfx/scenefx"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41132787"
     ],
     [
-      "DIY, 8mm film scanner Kotokino Mark IV",
+      "DIY, 8mm film scanner Kotokino Mark IV (2020)",
       "https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-08-01, 05:19:12",
-      "https://news.ycombinator.com/item?id=41126380"
-    ],
-    [
-      "Scenes of Reading on the Early Portrait Postcard",
-      "https://publicdomainreview.org/essay/scenes-of-reading-on-the-early-portrait-postcard/"
-    ]
-  ],
-  [
-    [
       "2024-07-31, 14:44:35",
       "https://news.ycombinator.com/item?id=41119646"
     ],
@@ -257,16 +267,6 @@
     [
       "The effect of CRTs on pixel art",
       "https://www.datagubbe.se/crt/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 18:58:05",
-      "https://news.ycombinator.com/item?id=41112889"
-    ],
-    [
-      "Show HN: Trayce – Network tab for your local Docker containers",
-      "https://trayce.dev"
     ]
   ],
   [
