@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-02, 20:25:33",
+      "https://news.ycombinator.com/item?id=41142304"
+    ],
+    [
+      "Extended Warranty – Update on 13th/14th Stability Issue",
+      "https://old.reddit.com/r/intel/comments/1ehv0v8/extended_warranty_update_on_13th14th_stability/"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 20:03:12",
       "https://news.ycombinator.com/item?id=41142125"
     ],
     [
       "Magnetically levitated space elevator to low-earth orbit [pdf]",
       "https://publications.anl.gov/anlpubs/2001/07/39886.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 20:02:36",
+      "https://news.ycombinator.com/item?id=41142121"
+    ],
+    [
+      "Lisp with GC in 436 Bytes",
+      "https://justine.lol/sectorlisp2/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure",
       "https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 18:06:39",
-      "https://news.ycombinator.com/item?id=41141112"
-    ],
-    [
-      "Character.ai CEO Noam Shazeer Returns to Google",
-      "https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Peerfetch – Peer-to-Peer HTTP over WebRTC",
       "https://github.com/ambianic/peerfetch"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 01:09:37",
-      "https://news.ycombinator.com/item?id=41135240"
-    ],
-    [
-      "Oscar, an open-source contributor agent architecture",
-      "https://go.googlesource.com/oscar/+/refs/heads/master/README.md"
     ]
   ],
   [
