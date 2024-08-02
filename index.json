@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-02, 21:17:33",
+      "https://news.ycombinator.com/item?id=41142775"
+    ],
+    [
+      "ROM hacking site shutting down after almost 20 years",
+      "https://arstechnica.com/gaming/2024/08/rom-hackings-premier-site-is-going-read-only-after-internal-struggle/"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 21:12:22",
       "https://news.ycombinator.com/item?id=41142737"
     ],
@@ -217,16 +227,6 @@
     [
       "Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere",
       "https://github.com/asg017/sqlite-vec"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 02:44:44",
-      "https://news.ycombinator.com/item?id=41135671"
-    ],
-    [
-      "Peerfetch – Peer-to-Peer HTTP over WebRTC",
-      "https://github.com/ambianic/peerfetch"
     ]
   ],
   [
