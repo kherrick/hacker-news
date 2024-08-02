@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=41138701"
     ],
     [
-      "HackberryPi – Pi zero handheld with Blackberry keyboard",
+      "Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W",
       "https://github.com/ZitaoTech/Hackberry-Pi_Zero"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 12:35:59",
+      "https://news.ycombinator.com/item?id=41138338"
+    ],
+    [
+      "What Happens in a Mind That Can't 'See' Mental Images",
+      "https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41136974"
     ],
     [
-      "JVM/Java: Null-Restricted and Nullable Types",
+      "Null-Restricted and Nullable Types",
       "https://bugs.openjdk.org/browse/JDK-8303099"
     ]
   ],
@@ -76,7 +86,7 @@
     ],
     [
       "The reanimation of pseudoscience in machine learning",
-      "https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025"
+      "https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Robot dentist performs first human procedure",
       "https://newatlas.com/health-wellbeing/robot-dentist-world-first/"
-    ]
-  ],
-  [
-    [
-      "2024-07-31, 04:39:03",
-      "https://news.ycombinator.com/item?id=41116439"
-    ],
-    [
-      "WordGrinder: A simple word processor that runs on the console",
-      "https://github.com/davidgiven/wordgrinder"
     ]
   ],
   [
