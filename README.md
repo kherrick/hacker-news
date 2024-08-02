@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
+* [2024-08-02, 16:51:39](https://news.ycombinator.com/item?id=41140465) - [Supercharged Labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
 * [2024-08-02, 15:57:33](https://news.ycombinator.com/item?id=41139924) - [ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [Marshmallow Test Fails to Replicate](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
@@ -23,7 +24,6 @@
 * [2024-08-01, 18:35:01](https://news.ycombinator.com/item?id=41132095) - [Ask HN: What is the best software to visualize a graph with a billion nodes?](https://news.ycombinator.com/item?id=41132095)
 * [2024-08-01, 14:24:00](https://news.ycombinator.com/item?id=41129403) - [The genome diversity of major crops tells the story of their evolution](https://phys.org/news/2024-07-genome-diversity-major-crops-story.html)
 * [2024-08-01, 14:05:16](https://news.ycombinator.com/item?id=41129195) - [IsoFLOP curves of large language models are flat](https://severelytheoretical.wordpress.com/2024/07/31/isoflop-curves-of-large-language-models-are-extremely-flat/)
-* [2024-08-01, 07:55:57](https://news.ycombinator.com/item?id=41127048) - [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
 * [2024-08-01, 05:46:20](https://news.ycombinator.com/item?id=41126478) - [Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
 * [2024-07-31, 21:20:36](https://news.ycombinator.com/item?id=41123589) - [Eric Roberts (Spy)](https://en.wikipedia.org/wiki/Eric_Roberts_(spy))
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)

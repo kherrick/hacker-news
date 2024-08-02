@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
 * [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
+* [2024-08-02, 16:51:39](https://news.ycombinator.com/item?id=41140465) - [Supercharged Labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 16:34:11](https://news.ycombinator.com/item?id=41140263) - [Does the success of LLM support Wittgenstein's position that \"meaning is use\"?](https://philosophy.stackexchange.com/questions/112021/does-the-success-of-ai-large-language-models-support-wittgensteins-position-t)
 * [2024-08-02, 16:26:19](https://news.ycombinator.com/item?id=41140185) - [About Google Chrome's \"This extension may soon no longer be supported\"](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
 * [2024-08-02, 16:23:01](https://news.ycombinator.com/item?id=41140162) - [Where Are Large Language Models for Code Generation on GitHub?](https://arxiv.org/abs/2406.19544)
