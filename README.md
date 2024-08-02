@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-02, 08:02:52](https://news.ycombinator.com/item?id=41136974) - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
+* [2024-08-02, 07:45:51](https://news.ycombinator.com/item?id=41136905) - [List of vintage Japanese pixel/dot art software](https://blog.gingerbeardman.com/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/)
 * [2024-08-02, 07:37:24](https://news.ycombinator.com/item?id=41136871) - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025)
 * [2024-08-02, 07:05:33](https://news.ycombinator.com/item?id=41136745) - [ChatGPT Citing Plagiarized Versions of NYT Articles on an Armenian Content Mill](https://futurism.com/chatgpt-plagiarized-nyt-articles)
 * [2024-08-02, 07:01:04](https://news.ycombinator.com/item?id=41136719) - [Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
@@ -9,7 +10,6 @@
 * [2024-08-02, 01:09:37](https://news.ycombinator.com/item?id=41135240) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 * [2024-08-01, 23:00:47](https://news.ycombinator.com/item?id=41134536) - [Rapidly build efficient sites with Neat, the minimalist CSS framework](https://neat.joeldare.com/)
 * [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
-* [2024-08-01, 20:58:33](https://news.ycombinator.com/item?id=41133544) - [Scenefx: a drop-in replacement for the wlroots scene API](https://github.com/wlrfx/scenefx)
 * [2024-08-01, 20:43:29](https://news.ycombinator.com/item?id=41133405) - [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
 * [2024-08-01, 20:42:03](https://news.ycombinator.com/item?id=41133390) - [GitOpper: GitOps Without Kubernetes](https://github.com/miekg/gitopper)
 * [2024-08-01, 19:42:18](https://news.ycombinator.com/item?id=41132787) - [DIY, 8mm film scanner Kotokino Mark IV (2020)](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
