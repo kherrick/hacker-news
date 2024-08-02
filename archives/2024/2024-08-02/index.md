@@ -6,6 +6,7 @@
 
 * [2024-08-02, 14:51:01](https://news.ycombinator.com/item?id=41139235) - [Why did the U.S. miss the battery revolution?](https://www.noahpinion.blog/p/why-did-the-us-miss-the-battery-revolution)
 * [2024-08-02, 14:48:15](https://news.ycombinator.com/item?id=41139216) - [Elliott says Nvidia is in a 'bubble' and AI is 'overhyped'](https://www.ft.com/content/24a12be1-a973-4efe-ab4f-b981aee0cd0b)
+* [2024-08-02, 14:40:50](https://news.ycombinator.com/item?id=41139149) - [The Upstream Cause of the Youth Mental Health Crisis Is the Loss of Community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental)
 * [2024-08-02, 13:53:39](https://news.ycombinator.com/item?id=41138819) - [Why Western Designs Fail in Developing Countries [video]](https://www.youtube.com/watch?v=CGRtyxEpoGg)
 * [2024-08-02, 13:34:37](https://news.ycombinator.com/item?id=41138701) - [HackberryPi – Pi zero handheld with Blackberry keyboard](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 * [2024-08-02, 12:35:59](https://news.ycombinator.com/item?id=41138338) - [What Happens in a Mind That Can't 'See' Mental Images](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/)
