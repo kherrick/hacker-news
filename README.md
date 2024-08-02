@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-02, 18:13:21](https://news.ycombinator.com/item?id=41141166) - [We Should Stop Using JavaScript According to Douglas Crockford](https://old.reddit.com/r/programming/comments/1eht39z/why_we_should_stop_using_javascript_according_to/)
 * [2024-08-02, 18:06:39](https://news.ycombinator.com/item?id=41141112) - [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
 * [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
 * [2024-08-02, 16:51:39](https://news.ycombinator.com/item?id=41140465) - [Supercharged Labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
@@ -29,7 +30,6 @@
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 13:52:23](https://news.ycombinator.com/item?id=41119174) - [Ocean Gyre](https://education.nationalgeographic.org/resource/ocean-gyre/)
 * [2024-07-30, 19:34:09](https://news.ycombinator.com/item?id=41113273) - [Early Bookcases, Cupboards and Carousels](https://blog.lostartpress.com/2024/07/28/early-bookcases-cupboards-and-carousels/)
-* [2024-07-29, 23:49:54](https://news.ycombinator.com/item?id=41104789) - [Artificial intelligence gives weather forecasters a new edge](https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html)
 
 ## [Archives](archives/index.md)
 

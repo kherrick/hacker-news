@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 18:13:21](https://news.ycombinator.com/item?id=41141166) - [We Should Stop Using JavaScript According to Douglas Crockford](https://old.reddit.com/r/programming/comments/1eht39z/why_we_should_stop_using_javascript_according_to/)
 * [2024-08-02, 18:06:39](https://news.ycombinator.com/item?id=41141112) - [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
 * [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
 * [2024-08-02, 16:51:39](https://news.ycombinator.com/item?id=41140465) - [Supercharged Labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
