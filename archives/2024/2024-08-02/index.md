@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
 * [2024-08-02, 18:45:08](https://news.ycombinator.com/item?id=41141460) - [Considerations When Building Embedded Databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
+* [2024-08-02, 18:34:45](https://news.ycombinator.com/item?id=41141360) - [Intel stock dropping toward 50 year low amid restructuring news](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-point-to-further-selling-after-amazon-intel-result/card/investors-dump-intel-s-bonds-as-spreads-blow-out-avlhO01UGmQh7rIhAa1U)
 * [2024-08-02, 18:20:57](https://news.ycombinator.com/item?id=41141225) - [Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure](https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain)
 * [2024-08-02, 18:13:21](https://news.ycombinator.com/item?id=41141166) - [We Should Stop Using JavaScript According to Douglas Crockford](https://old.reddit.com/r/programming/comments/1eht39z/why_we_should_stop_using_javascript_according_to/)
 * [2024-08-02, 18:06:39](https://news.ycombinator.com/item?id=41141112) - [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
