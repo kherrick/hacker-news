@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf]](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
 * [2024-08-02, 19:44:16](https://news.ycombinator.com/item?id=41141962) - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)
 * [2024-08-02, 19:23:57](https://news.ycombinator.com/item?id=41141779) - [A Year of Meta's News Ban in Canada](https://www.mediaecosystemobservatory.com/press-releases/old-news-new-reality-a-year-of-metas-news-ban-in-canada)
 * [2024-08-02, 19:03:40](https://news.ycombinator.com/item?id=41141612) - [It's Sounding Like Boeing's Starliner May Have Failed](https://futurism.com/the-byte/signs-boeing-starliner-completely-failed)
