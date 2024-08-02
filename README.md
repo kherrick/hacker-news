@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-02, 20:23:07](https://news.ycombinator.com/item?id=41142288) - [Michael Phelps is 14 feet tall](https://www.google.com/search?q=does+michael+phelps+have+gigantic+hands)
+* [2024-08-02, 20:25:33](https://news.ycombinator.com/item?id=41142304) - [Extended Warranty – Update on 13th/14th Stability Issue](https://old.reddit.com/r/intel/comments/1ehv0v8/extended_warranty_update_on_13th14th_stability/)
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf] (2001)](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
 * [2024-08-02, 20:02:36](https://news.ycombinator.com/item?id=41142121) - [Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
 * [2024-08-02, 19:44:16](https://news.ycombinator.com/item?id=41141962) - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)
