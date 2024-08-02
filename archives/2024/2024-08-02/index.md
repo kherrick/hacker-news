@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 16:17:27](https://news.ycombinator.com/item?id=41140108) - [Self-hosting workshop in Portland tomorrow](https://2024.fossy.us/schedule/presentation/219/)
+* [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
+* [2024-08-02, 15:57:33](https://news.ycombinator.com/item?id=41139924) - [ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
+* [2024-08-02, 15:50:22](https://news.ycombinator.com/item?id=41139864) - [Fear of US recession rattles global markets as tech shares fall](https://www.theguardian.com/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall)
+* [2024-08-02, 15:34:26](https://news.ycombinator.com/item?id=41139723) - [Intel's Day of Reckoning Arrives: 15,000 Jobs Will Be Eliminated](https://www.extremetech.com/computing/intels-day-of-reckoning-arrives-15000-jobs-will-be-eliminated)
+* [2024-08-02, 15:13:44](https://news.ycombinator.com/item?id=41139487) - [Rails Is Good Enough](https://onurozer.me/rails-is-good-enough/)
 * [2024-08-02, 14:51:01](https://news.ycombinator.com/item?id=41139235) - [Why did the U.S. miss the battery revolution?](https://www.noahpinion.blog/p/why-did-the-us-miss-the-battery-revolution)
 * [2024-08-02, 14:48:15](https://news.ycombinator.com/item?id=41139216) - [Elliott says Nvidia is in a 'bubble' and AI is 'overhyped'](https://www.ft.com/content/24a12be1-a973-4efe-ab4f-b981aee0cd0b)
 * [2024-08-02, 14:40:50](https://news.ycombinator.com/item?id=41139149) - [The Upstream Cause of the Youth Mental Health Crisis Is the Loss of Community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental)
