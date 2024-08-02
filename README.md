@@ -24,11 +24,11 @@
 * [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I got my laser eye injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 * [2024-08-01, 07:55:57](https://news.ycombinator.com/item?id=41127048) - [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
 * [2024-08-01, 07:34:30](https://news.ycombinator.com/item?id=41126944) - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
-* [2024-07-31, 16:21:49](https://news.ycombinator.com/item?id=41120568) - [Dunbar's Number Is Quadratic (2020)](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic)
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 04:39:03](https://news.ycombinator.com/item?id=41116439) - [WordGrinder: A simple word processor that runs on the console](https://github.com/davidgiven/wordgrinder)
 * [2024-07-31, 02:57:30](https://news.ycombinator.com/item?id=41116071) - [The effect of CRTs on pixel art](https://www.datagubbe.se/crt/)
 * [2024-07-29, 23:49:54](https://news.ycombinator.com/item?id=41104789) - [Artificial intelligence gives weather forecasters a new edge](https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html)
+* [2024-07-29, 16:37:15](https://news.ycombinator.com/item?id=41101700) - [Crafting endless AS paths in BGP](https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath)
 * [2024-07-29, 14:27:40](https://news.ycombinator.com/item?id=41100737) - [The protein Reelin keeps popping up in brains that resist aging and Alzheimer’s](https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory)
 
 ## [Archives](archives/index.md)
