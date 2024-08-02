@@ -16,6 +16,7 @@
 * [2024-07-30, 21:17:47](https://news.ycombinator.com/item?id=41114225) - [Disneyland unions agree to 'historic' 31% pay raise](https://www.ocregister.com/2024/07/30/disneyland-unions-agree-to-historic-31-pay-raise/)
 * [2024-07-30, 20:06:56](https://news.ycombinator.com/item?id=41113575) - [Red Team Tools Collection](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 * [2024-07-30, 19:48:42](https://news.ycombinator.com/item?id=41113408) - [Astronomical Accidents, and the Proxima Centauri 'Signal' That Wasn't](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
+* [2024-07-30, 19:34:09](https://news.ycombinator.com/item?id=41113273) - [Early Bookcases, Cupboards and Carousels](https://blog.lostartpress.com/2024/07/28/early-bookcases-cupboards-and-carousels/)
 * [2024-07-30, 19:30:08](https://news.ycombinator.com/item?id=41113236) - [Anthropic is scraping websites so fast it's causing problems](https://pivot-to-ai.com/2024/07/29/anthropic-is-scraping-websites-so-fast-its-causing-problems/)
 * [2024-07-30, 19:18:16](https://news.ycombinator.com/item?id=41113101) - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 18:58:05](https://news.ycombinator.com/item?id=41112889) - [Show HN: Trayce – Network tab for your local Docker containers](https://trayce.dev)
