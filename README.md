@@ -2,6 +2,7 @@
 
 * [2024-08-02, 18:13:21](https://news.ycombinator.com/item?id=41141166) - [We Should Stop Using JavaScript According to Douglas Crockford](https://old.reddit.com/r/programming/comments/1eht39z/why_we_should_stop_using_javascript_according_to/)
 * [2024-08-02, 18:06:39](https://news.ycombinator.com/item?id=41141112) - [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
+* [2024-08-02, 17:51:07](https://news.ycombinator.com/item?id=41140979) - [Google Pulls Olympics AI Ad 'Dear Sydney'](https://adage.com/article/special-report-olympics/google-pulls-olympics-ai-ad-dear-sydney/2573496)
 * [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
 * [2024-08-02, 16:51:39](https://news.ycombinator.com/item?id=41140465) - [Supercharged Labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
@@ -18,7 +19,6 @@
 * [2024-08-02, 08:02:52](https://news.ycombinator.com/item?id=41136974) - [Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 02:44:44](https://news.ycombinator.com/item?id=41135671) - [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
 * [2024-08-02, 01:09:37](https://news.ycombinator.com/item?id=41135240) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
-* [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
 * [2024-08-01, 20:42:58](https://news.ycombinator.com/item?id=41133400) - [A rare disorder makes people see monsters](https://www.newyorker.com/news/annals-of-inquiry/how-a-rare-disorder-makes-people-see-monsters)
 * [2024-08-01, 19:29:55](https://news.ycombinator.com/item?id=41132669) - [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 * [2024-08-01, 18:57:04](https://news.ycombinator.com/item?id=41132328) - [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
