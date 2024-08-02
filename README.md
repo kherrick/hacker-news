@@ -2,7 +2,6 @@
 
 * [2024-08-02, 21:17:33](https://news.ycombinator.com/item?id=41142775) - [ROM hacking site shutting down after almost 20 years](https://arstechnica.com/gaming/2024/08/rom-hackings-premier-site-is-going-read-only-after-internal-struggle/)
 * [2024-08-02, 21:12:22](https://news.ycombinator.com/item?id=41142737) - [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
-* [2024-08-02, 21:09:58](https://news.ycombinator.com/item?id=41142710) - [Judges Suspends FCC Net Neutrality Restoration Rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
 * [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-02, 20:08:04](https://news.ycombinator.com/item?id=41142156) - [Pineboards AI HAT enables Hailo-8L and NVMe boot storage on a Pi 5](https://pineboards.io/blogs/news/introducing-the-ai-bundle-hailo-8l)
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf] (2001)](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
@@ -25,6 +24,7 @@
 * [2024-08-02, 02:44:44](https://news.ycombinator.com/item?id=41135671) - [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
 * [2024-08-01, 20:42:58](https://news.ycombinator.com/item?id=41133400) - [A rare disorder makes people see monsters](https://www.newyorker.com/news/annals-of-inquiry/how-a-rare-disorder-makes-people-see-monsters)
 * [2024-08-01, 14:24:00](https://news.ycombinator.com/item?id=41129403) - [The genome diversity of major crops tells the story of their evolution](https://phys.org/news/2024-07-genome-diversity-major-crops-story.html)
+* [2024-08-01, 14:05:16](https://news.ycombinator.com/item?id=41129195) - [IsoFLOP curves of large language models are flat](https://severelytheoretical.wordpress.com/2024/07/31/isoflop-curves-of-large-language-models-are-extremely-flat/)
 * [2024-08-01, 05:46:20](https://news.ycombinator.com/item?id=41126478) - [Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
 * [2024-07-31, 21:20:36](https://news.ycombinator.com/item?id=41123589) - [Eric Roberts (Spy)](https://en.wikipedia.org/wiki/Eric_Roberts_(spy))
 * [2024-07-31, 08:45:37](https://news.ycombinator.com/item?id=41117412) - [The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
