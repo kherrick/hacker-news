@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, dies at 87](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-02, 09:51:45](https://news.ycombinator.com/item?id=41137429) - [Lizard Optimization for Product Growth and Retention](https://www.infoq.com/news/2024/07/lizard-optimization-retention/)
-* [2024-08-02, 08:26:23](https://news.ycombinator.com/item?id=41137063) - [C Isn't a Programming Language Anymore (2022)](https://faultlore.com/blah/c-isnt-a-language/)
 * [2024-08-02, 08:02:52](https://news.ycombinator.com/item?id=41136974) - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 07:37:24](https://news.ycombinator.com/item?id=41136871) - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025)
 * [2024-08-02, 07:01:04](https://news.ycombinator.com/item?id=41136719) - [Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
