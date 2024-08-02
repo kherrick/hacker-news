@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-02, 07:01:04](https://news.ycombinator.com/item?id=41136719) - [Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
 * [2024-08-02, 02:44:44](https://news.ycombinator.com/item?id=41135671) - [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
 * [2024-08-02, 01:33:06](https://news.ycombinator.com/item?id=41135363) - [YC closes deal with Google for dedicated compute cluster for AI startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
 * [2024-08-02, 01:09:37](https://news.ycombinator.com/item?id=41135240) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
-* [2024-08-02, 01:00:00](https://news.ycombinator.com/item?id=41135186) - [Tensorfuse (YC W24) Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
 * [2024-08-01, 23:00:47](https://news.ycombinator.com/item?id=41134536) - [Rapidly build efficient sites with Neat, the minimalist CSS framework](https://neat.joeldare.com/)
 * [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
 * [2024-08-01, 20:58:33](https://news.ycombinator.com/item?id=41133544) - [Scenefx: a drop-in replacement for the wlroots scene API](https://github.com/wlrfx/scenefx)
