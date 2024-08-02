@@ -28,6 +28,7 @@
 * [2024-08-01, 18:28:31](https://news.ycombinator.com/item?id=41132023) - [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
 * [2024-08-01, 18:13:35](https://news.ycombinator.com/item?id=41131914) - [Job searching in 2024 is horribly broken](https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken)
 * [2024-08-01, 17:53:19](https://news.ycombinator.com/item?id=41131674) - [Is C99 Turing-Complete?](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete)
+* [2024-08-01, 17:28:52](https://news.ycombinator.com/item?id=41131438) - [SF's Historic Preservation Rules Are in Limbo, All Part of CA's Push for Housing](https://thefrisc.com/sfs-historic-preservation-rules-are-in-limbo-all-part-of-californias-push-for-more-housing/)
 * [2024-08-01, 17:06:01](https://news.ycombinator.com/item?id=41131238) - [Planted bomb, remote control and AI: How the Mossad killed Hamas' leader in Iran](https://www.axios.com/2024/08/01/haniyeh-assassination-mossad)
 * [2024-08-01, 17:02:00](https://news.ycombinator.com/item?id=41131202) - [Hertz accelerates sales of Tesla vehicles as value crumbles](https://electrek.co/2024/08/01/hertz-accelerates-sales-of-tesla-vehicles-as-value-crumbles/)
 * [2024-08-01, 17:01:31](https://news.ycombinator.com/item?id=41131195) - [Ask HN: What Are You Working On? (August 2024)](https://news.ycombinator.com/item?id=41131195)
