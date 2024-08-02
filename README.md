@@ -24,7 +24,7 @@
 * [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I got my laser eye injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 * [2024-08-01, 07:55:57](https://news.ycombinator.com/item?id=41127048) - [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
 * [2024-08-01, 07:34:30](https://news.ycombinator.com/item?id=41126944) - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
-* [2024-07-31, 15:49:55](https://news.ycombinator.com/item?id=41120254) - [I prefer rST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
+* [2024-07-31, 16:21:49](https://news.ycombinator.com/item?id=41120568) - [Dunbar's Number Is Quadratic (2020)](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic)
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 04:39:03](https://news.ycombinator.com/item?id=41116439) - [WordGrinder: A simple word processor that runs on the console](https://github.com/davidgiven/wordgrinder)
 * [2024-07-31, 02:57:30](https://news.ycombinator.com/item?id=41116071) - [The effect of CRTs on pixel art](https://www.datagubbe.se/crt/)
