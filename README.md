@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-02, 01:33:06](https://news.ycombinator.com/item?id=41135363) - [YC closes deal with Google for dedicated compute cluster for AI startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
+* [2024-08-02, 01:09:37](https://news.ycombinator.com/item?id=41135240) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 * [2024-08-02, 01:00:00](https://news.ycombinator.com/item?id=41135186) - [Tensorfuse (YC W24) Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
 * [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
 * [2024-08-01, 20:58:33](https://news.ycombinator.com/item?id=41133544) - [Scenefx: a drop-in replacement for the wlroots scene API](https://github.com/wlrfx/scenefx)
@@ -25,7 +26,6 @@
 * [2024-08-01, 02:00:12](https://news.ycombinator.com/item?id=41125544) - [Don’t let your domain name become a sitting duck](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 04:39:03](https://news.ycombinator.com/item?id=41116439) - [WordGrinder: A simple word processor that runs on the console](https://github.com/davidgiven/wordgrinder)
-* [2024-07-31, 03:43:55](https://news.ycombinator.com/item?id=41116238) - [Australia starts peanut allergy treatment for babies](https://www.bbc.com/news/articles/c0xj3xq5l1vo)
 * [2024-07-31, 02:57:30](https://news.ycombinator.com/item?id=41116071) - [The effect of CRTs on pixel art](https://www.datagubbe.se/crt/)
 * [2024-07-29, 23:49:54](https://news.ycombinator.com/item?id=41104789) - [Artificial intelligence gives weather forecasters a new edge](https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html)
 * [2024-07-29, 14:27:40](https://news.ycombinator.com/item?id=41100737) - [The protein Reelin keeps popping up in brains that resist aging and Alzheimer’s](https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory)
