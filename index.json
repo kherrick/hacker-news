@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-08-02, 10:41:21",
+      "https://news.ycombinator.com/item?id=41137658"
+    ],
+    [
+      "SQLite vector search extension that runs anywhere",
+      "https://github.com/asg017/sqlite-vec"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 08:02:52",
       "https://news.ycombinator.com/item?id=41136974"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-08-02, 01:33:06",
-      "https://news.ycombinator.com/item?id=41135363"
-    ],
-    [
-      "YC closes deal with Google for dedicated compute cluster for AI startups",
-      "https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/"
-    ]
-  ],
-  [
-    [
       "2024-08-02, 01:09:37",
       "https://news.ycombinator.com/item?id=41135240"
     ],
@@ -137,16 +137,6 @@
     [
       "xdg-override: change default application temporarily on Linux",
       "https://github.com/koiuo/xdg-override"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 20:43:29",
-      "https://news.ycombinator.com/item?id=41133405"
-    ],
-    [
-      "InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds",
-      "https://instantsplat.github.io/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Threat actor abuses Cloudflare tunnels to deliver remote access trojans",
       "https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 18:35:01",
+      "https://news.ycombinator.com/item?id=41132095"
+    ],
+    [
+      "Ask HN: What is the best software to visualize a graph with a billion nodes?",
+      "https://news.ycombinator.com/item?id=41132095"
     ]
   ],
   [
