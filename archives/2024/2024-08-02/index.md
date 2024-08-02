@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 19:44:16](https://news.ycombinator.com/item?id=41141962) - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)
+* [2024-08-02, 19:23:57](https://news.ycombinator.com/item?id=41141779) - [A Year of Meta's News Ban in Canada](https://www.mediaecosystemobservatory.com/press-releases/old-news-new-reality-a-year-of-metas-news-ban-in-canada)
 * [2024-08-02, 19:03:40](https://news.ycombinator.com/item?id=41141612) - [It's Sounding Like Boeing's Starliner May Have Failed](https://futurism.com/the-byte/signs-boeing-starliner-completely-failed)
 * [2024-08-02, 18:45:08](https://news.ycombinator.com/item?id=41141460) - [Considerations When Building Embedded Databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
 * [2024-08-02, 18:34:45](https://news.ycombinator.com/item?id=41141360) - [Intel stock dropping toward 50 year low amid restructuring news](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-point-to-further-selling-after-amazon-intel-result/card/investors-dump-intel-s-bonds-as-spreads-blow-out-avlhO01UGmQh7rIhAa1U)
+* [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 * [2024-08-02, 18:20:57](https://news.ycombinator.com/item?id=41141225) - [Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure](https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain)
 * [2024-08-02, 18:13:21](https://news.ycombinator.com/item?id=41141166) - [We Should Stop Using JavaScript According to Douglas Crockford](https://old.reddit.com/r/programming/comments/1eht39z/why_we_should_stop_using_javascript_according_to/)
 * [2024-08-02, 18:06:39](https://news.ycombinator.com/item?id=41141112) - [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
