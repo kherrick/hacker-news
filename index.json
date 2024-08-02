@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-02, 19:03:40",
+      "https://news.ycombinator.com/item?id=41141612"
+    ],
+    [
+      "It's Sounding Like Boeing's Starliner May Have Failed",
+      "https://futurism.com/the-byte/signs-boeing-starliner-completely-failed"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 18:45:08",
       "https://news.ycombinator.com/item?id=41141460"
     ],
@@ -157,16 +167,6 @@
     [
       "Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere",
       "https://github.com/asg017/sqlite-vec"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 08:02:52",
-      "https://news.ycombinator.com/item?id=41136974"
-    ],
-    [
-      "Null-Restricted and Nullable Types",
-      "https://bugs.openjdk.org/browse/JDK-8303099"
     ]
   ],
   [
