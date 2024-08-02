@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-02, 14:48:15](https://news.ycombinator.com/item?id=41139216) - [Elliott says Nvidia is in a 'bubble' and AI is 'overhyped'](https://www.ft.com/content/24a12be1-a973-4efe-ab4f-b981aee0cd0b)
 * [2024-08-02, 13:53:39](https://news.ycombinator.com/item?id=41138819) - [Why Western Designs Fail in Developing Countries [video]](https://www.youtube.com/watch?v=CGRtyxEpoGg)
 * [2024-08-02, 13:34:37](https://news.ycombinator.com/item?id=41138701) - [Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 * [2024-08-02, 12:35:59](https://news.ycombinator.com/item?id=41138338) - [What Happens in a Mind That Can't 'See' Mental Images](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/)
@@ -7,7 +8,6 @@
 * [2024-08-02, 11:25:08](https://news.ycombinator.com/item?id=41137899) - [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
 * [2024-08-02, 11:00:42](https://news.ycombinator.com/item?id=41137768) - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, dies at 87](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
-* [2024-08-02, 10:41:21](https://news.ycombinator.com/item?id=41137658) - [SQLite vector search extension that runs anywhere](https://github.com/asg017/sqlite-vec)
 * [2024-08-02, 08:02:52](https://news.ycombinator.com/item?id=41136974) - [Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 07:37:24](https://news.ycombinator.com/item?id=41136871) - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0)
 * [2024-08-02, 07:01:04](https://news.ycombinator.com/item?id=41136719) - [Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
