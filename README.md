@@ -3,6 +3,7 @@
 * [2024-08-02, 01:33:06](https://news.ycombinator.com/item?id=41135363) - [YC closes deal with Google for dedicated compute cluster for AI startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
 * [2024-08-02, 01:09:37](https://news.ycombinator.com/item?id=41135240) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 * [2024-08-02, 01:00:00](https://news.ycombinator.com/item?id=41135186) - [Tensorfuse (YC W24) Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
+* [2024-08-02, 00:57:48](https://news.ycombinator.com/item?id=41135177) - [What I learned about a plastic-free life](https://www.npr.org/2024/07/26/nx-s1-5021546/plastic-free-sustainable-living-tips)
 * [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
 * [2024-08-01, 20:58:33](https://news.ycombinator.com/item?id=41133544) - [Scenefx: a drop-in replacement for the wlroots scene API](https://github.com/wlrfx/scenefx)
 * [2024-08-01, 20:43:29](https://news.ycombinator.com/item?id=41133405) - [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
@@ -23,13 +24,12 @@
 * [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I got my laser eye injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 * [2024-08-01, 07:55:57](https://news.ycombinator.com/item?id=41127048) - [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
 * [2024-08-01, 07:34:30](https://news.ycombinator.com/item?id=41126944) - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
-* [2024-08-01, 02:00:12](https://news.ycombinator.com/item?id=41125544) - [Don’t let your domain name become a sitting duck](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
+* [2024-08-01, 01:52:57](https://news.ycombinator.com/item?id=41125490) - [Just disconnect the internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 04:39:03](https://news.ycombinator.com/item?id=41116439) - [WordGrinder: A simple word processor that runs on the console](https://github.com/davidgiven/wordgrinder)
 * [2024-07-31, 02:57:30](https://news.ycombinator.com/item?id=41116071) - [The effect of CRTs on pixel art](https://www.datagubbe.se/crt/)
 * [2024-07-29, 23:49:54](https://news.ycombinator.com/item?id=41104789) - [Artificial intelligence gives weather forecasters a new edge](https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html)
 * [2024-07-29, 14:27:40](https://news.ycombinator.com/item?id=41100737) - [The protein Reelin keeps popping up in brains that resist aging and Alzheimer’s](https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory)
-* [2024-07-28, 14:00:42](https://news.ycombinator.com/item?id=41093197) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 
 ## [Archives](archives/index.md)
 
