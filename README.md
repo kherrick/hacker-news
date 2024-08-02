@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-02, 11:01:48](https://news.ycombinator.com/item?id=41137773) - [Ask iFixit: Does Blowing Into Gaming Cartridges Actually Fix Them?](https://www.ifixit.com/News/97647/ask-ifixit-does-blowing-into-gaming-cartridges-actually-fix-them)
+* [2024-08-02, 11:55:59](https://news.ycombinator.com/item?id=41138085) - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, dies at 87](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-02, 08:02:52](https://news.ycombinator.com/item?id=41136974) - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 07:37:24](https://news.ycombinator.com/item?id=41136871) - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025)
