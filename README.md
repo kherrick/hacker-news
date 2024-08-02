@@ -5,10 +5,10 @@
 * [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
 * [2024-08-02, 15:57:33](https://news.ycombinator.com/item?id=41139924) - [ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [Marshmallow Test Fails to Replicate](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
-* [2024-08-02, 15:31:55](https://news.ycombinator.com/item?id=41139696) - [Show HN: I built an interactive demo builder for your sales team](https://demoshake.com)
-* [2024-08-02, 14:40:50](https://news.ycombinator.com/item?id=41139149) - [The Upstream Cause of the Youth Mental Health Crisis Is the Loss of Community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental)
+* [2024-08-02, 14:40:50](https://news.ycombinator.com/item?id=41139149) - [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental)
 * [2024-08-02, 13:34:37](https://news.ycombinator.com/item?id=41138701) - [Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 * [2024-08-02, 13:17:45](https://news.ycombinator.com/item?id=41138616) - [A test for life versus non-life?](https://www.nytimes.com/2024/07/31/science/assembly-theory-life-sara-walker.html)
+* [2024-08-02, 12:35:59](https://news.ycombinator.com/item?id=41138338) - [What Happens in a Mind That Can't 'See' Mental Images](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/)
 * [2024-08-02, 11:55:59](https://news.ycombinator.com/item?id=41138085) - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
 * [2024-08-02, 11:25:08](https://news.ycombinator.com/item?id=41137899) - [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
 * [2024-08-02, 11:00:42](https://news.ycombinator.com/item?id=41137768) - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
@@ -29,7 +29,7 @@
 * [2024-07-31, 14:44:35](https://news.ycombinator.com/item?id=41119646) - [Robot dentist performs first human procedure](https://newatlas.com/health-wellbeing/robot-dentist-world-first/)
 * [2024-07-31, 13:52:23](https://news.ycombinator.com/item?id=41119174) - [Ocean Gyre](https://education.nationalgeographic.org/resource/ocean-gyre/)
 * [2024-07-30, 19:34:09](https://news.ycombinator.com/item?id=41113273) - [Early Bookcases, Cupboards and Carousels](https://blog.lostartpress.com/2024/07/28/early-bookcases-cupboards-and-carousels/)
-* [2024-07-29, 14:27:40](https://news.ycombinator.com/item?id=41100737) - [The protein Reelin keeps popping up in brains that resist aging and Alzheimer’s](https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory)
+* [2024-07-29, 23:49:54](https://news.ycombinator.com/item?id=41104789) - [Artificial intelligence gives weather forecasters a new edge](https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html)
 
 ## [Archives](archives/index.md)
 
