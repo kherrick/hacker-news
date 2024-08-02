@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 19:03:40](https://news.ycombinator.com/item?id=41141612) - [It's Sounding Like Boeing's Starliner May Have Failed](https://futurism.com/the-byte/signs-boeing-starliner-completely-failed)
 * [2024-08-02, 18:45:08](https://news.ycombinator.com/item?id=41141460) - [Considerations When Building Embedded Databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
 * [2024-08-02, 18:34:45](https://news.ycombinator.com/item?id=41141360) - [Intel stock dropping toward 50 year low amid restructuring news](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-point-to-further-selling-after-amazon-intel-result/card/investors-dump-intel-s-bonds-as-spreads-blow-out-avlhO01UGmQh7rIhAa1U)
 * [2024-08-02, 18:20:57](https://news.ycombinator.com/item?id=41141225) - [Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure](https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain)

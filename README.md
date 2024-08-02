@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-02, 19:03:40](https://news.ycombinator.com/item?id=41141612) - [It's Sounding Like Boeing's Starliner May Have Failed](https://futurism.com/the-byte/signs-boeing-starliner-completely-failed)
 * [2024-08-02, 18:45:08](https://news.ycombinator.com/item?id=41141460) - [Considerations when building embedded databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
 * [2024-08-02, 18:34:45](https://news.ycombinator.com/item?id=41141360) - [Intel stock dropping toward 50 year low amid restructuring news](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-point-to-further-selling-after-amazon-intel-result/card/investors-dump-intel-s-bonds-as-spreads-blow-out-avlhO01UGmQh7rIhAa1U)
 * [2024-08-02, 18:20:57](https://news.ycombinator.com/item?id=41141225) - [Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure](https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain)
@@ -16,7 +17,6 @@
 * [2024-08-02, 11:00:42](https://news.ycombinator.com/item?id=41137768) - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, has died](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-02, 10:41:21](https://news.ycombinator.com/item?id=41137658) - [Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere](https://github.com/asg017/sqlite-vec)
-* [2024-08-02, 08:02:52](https://news.ycombinator.com/item?id=41136974) - [Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 02:44:44](https://news.ycombinator.com/item?id=41135671) - [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
 * [2024-08-02, 01:09:37](https://news.ycombinator.com/item?id=41135240) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 * [2024-08-01, 20:42:58](https://news.ycombinator.com/item?id=41133400) - [A rare disorder makes people see monsters](https://www.newyorker.com/news/annals-of-inquiry/how-a-rare-disorder-makes-people-see-monsters)
