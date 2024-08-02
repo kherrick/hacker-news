@@ -6,6 +6,7 @@
 
 * [2024-08-02, 13:53:39](https://news.ycombinator.com/item?id=41138819) - [Why Western Designs Fail in Developing Countries [video]](https://www.youtube.com/watch?v=CGRtyxEpoGg)
 * [2024-08-02, 13:34:37](https://news.ycombinator.com/item?id=41138701) - [HackberryPi – Pi zero handheld with Blackberry keyboard](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
+* [2024-08-02, 12:35:59](https://news.ycombinator.com/item?id=41138338) - [What Happens in a Mind That Can't 'See' Mental Images](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/)
 * [2024-08-02, 11:55:59](https://news.ycombinator.com/item?id=41138085) - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
 * [2024-08-02, 11:25:08](https://news.ycombinator.com/item?id=41137899) - [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
 * [2024-08-02, 11:01:48](https://news.ycombinator.com/item?id=41137773) - [Ask iFixit: Does Blowing Into Gaming Cartridges Actually Fix Them?](https://www.ifixit.com/News/97647/ask-ifixit-does-blowing-into-gaming-cartridges-actually-fix-them)
@@ -15,6 +16,7 @@
 * [2024-08-02, 08:26:23](https://news.ycombinator.com/item?id=41137063) - [C Isn't a Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
 * [2024-08-02, 08:02:52](https://news.ycombinator.com/item?id=41136974) - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 07:45:51](https://news.ycombinator.com/item?id=41136905) - [List of vintage Japanese pixel/dot art software](https://blog.gingerbeardman.com/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/)
+* [2024-08-02, 07:37:24](https://news.ycombinator.com/item?id=41136871) - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0)
 * [2024-08-02, 07:37:24](https://news.ycombinator.com/item?id=41136871) - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025)
 * [2024-08-02, 07:05:33](https://news.ycombinator.com/item?id=41136745) - [ChatGPT Citing Plagiarized Versions of NYT Articles on an Armenian Content Mill](https://futurism.com/chatgpt-plagiarized-nyt-articles)
 * [2024-08-02, 07:01:04](https://news.ycombinator.com/item?id=41136719) - [Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
