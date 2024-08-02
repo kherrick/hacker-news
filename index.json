@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-02, 18:45:08",
+      "https://news.ycombinator.com/item?id=41141460"
+    ],
+    [
+      "Considerations When Building Embedded Databases",
+      "https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 18:20:57",
+      "https://news.ycombinator.com/item?id=41141225"
+    ],
+    [
+      "Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure",
+      "https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 18:13:21",
       "https://news.ycombinator.com/item?id=41141166"
     ],
@@ -17,16 +37,6 @@
     [
       "Character.ai CEO Noam Shazeer Returns to Google",
       "https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 17:51:07",
-      "https://news.ycombinator.com/item?id=41140979"
-    ],
-    [
-      "Google Pulls Olympics AI Ad 'Dear Sydney'",
-      "https://adage.com/article/special-report-olympics/google-pulls-olympics-ai-ad-dear-sydney/2573496"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41139978"
     ],
     [
-      "Fast Lua Serialization",
+      "Fast Lua Serialization (2023)",
       "https://artemis.sh/2023/02/23/fast-lua-serialization.html"
     ]
   ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-08-02, 08:02:52",
-      "https://news.ycombinator.com/item?id=41136974"
-    ],
-    [
-      "Null-Restricted and Nullable Types",
-      "https://bugs.openjdk.org/browse/JDK-8303099"
-    ]
-  ],
-  [
-    [
       "2024-08-02, 02:44:44",
       "https://news.ycombinator.com/item?id=41135671"
     ],
@@ -197,16 +197,6 @@
     [
       "A rare disorder makes people see monsters",
       "https://www.newyorker.com/news/annals-of-inquiry/how-a-rare-disorder-makes-people-see-monsters"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 19:29:55",
-      "https://news.ycombinator.com/item?id=41132669"
-    ],
-    [
-      "Russ Cox is stepping down as the Go tech lead",
-      "https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Ocean Gyre",
       "https://education.nationalgeographic.org/resource/ocean-gyre/"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 03:43:55",
+      "https://news.ycombinator.com/item?id=41116238"
+    ],
+    [
+      "Australia starts peanut allergy treatment for babies",
+      "https://www.bbc.com/news/articles/c0xj3xq5l1vo"
     ]
   ],
   [
