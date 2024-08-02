@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-08-02, 16:17:27",
+      "https://news.ycombinator.com/item?id=41140108"
+    ],
+    [
+      "Self-hosting workshop in Portland tomorrow",
+      "https://2024.fossy.us/schedule/presentation/219/"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 16:04:58",
+      "https://news.ycombinator.com/item?id=41139978"
+    ],
+    [
+      "Fast Lua Serialization",
+      "https://artemis.sh/2023/02/23/fast-lua-serialization.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 15:57:33",
+      "https://news.ycombinator.com/item?id=41139924"
+    ],
+    [
+      "ClickHouse acquires PeerDB to expand its Postgres support",
+      "https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 15:50:22",
+      "https://news.ycombinator.com/item?id=41139864"
+    ],
+    [
+      "Fear of US recession rattles global markets as tech shares fall",
+      "https://www.theguardian.com/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 15:34:26",
+      "https://news.ycombinator.com/item?id=41139723"
+    ],
+    [
+      "Intel's Day of Reckoning Arrives: 15,000 Jobs Will Be Eliminated",
+      "https://www.extremetech.com/computing/intels-day-of-reckoning-arrives-15000-jobs-will-be-eliminated"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 15:13:44",
+      "https://news.ycombinator.com/item?id=41139487"
+    ],
+    [
+      "Rails Is Good Enough",
+      "https://onurozer.me/rails-is-good-enough/"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 14:40:50",
       "https://news.ycombinator.com/item?id=41139149"
     ],
@@ -101,16 +161,6 @@
   ],
   [
     [
-      "2024-08-02, 01:33:06",
-      "https://news.ycombinator.com/item?id=41135363"
-    ],
-    [
-      "YC closes deal with Google for dedicated compute cluster for AI startups",
-      "https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/"
-    ]
-  ],
-  [
-    [
       "2024-08-02, 01:09:37",
       "https://news.ycombinator.com/item?id=41135240"
     ],
@@ -127,26 +177,6 @@
     [
       "xdg-override: change default application temporarily on Linux",
       "https://github.com/koiuo/xdg-override"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 20:43:29",
-      "https://news.ycombinator.com/item?id=41133405"
-    ],
-    [
-      "InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds",
-      "https://instantsplat.github.io/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 19:42:18",
-      "https://news.ycombinator.com/item?id=41132787"
-    ],
-    [
-      "DIY, 8mm film scanner Kotokino Mark IV (2020)",
-      "https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/"
     ]
   ],
   [
@@ -177,16 +207,6 @@
     [
       "Ask HN: What is the best software to visualize a graph with a billion nodes?",
       "https://news.ycombinator.com/item?id=41132095"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 18:28:31",
-      "https://news.ycombinator.com/item?id=41132023"
-    ],
-    [
-      "Space is a latent sequence: A theory of the hippocampus",
-      "https://www.science.org/doi/10.1126/sciadv.adm8470"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-08-01, 10:25:34",
-      "https://news.ycombinator.com/item?id=41127706"
-    ],
-    [
-      "How I got my laser eye injury",
-      "https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 07:55:57",
       "https://news.ycombinator.com/item?id=41127048"
     ],
@@ -277,16 +287,6 @@
     [
       "Artificial intelligence gives weather forecasters a new edge",
       "https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 16:37:15",
-      "https://news.ycombinator.com/item?id=41101700"
-    ],
-    [
-      "Crafting endless AS paths in BGP",
-      "https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath"
     ]
   ],
   [
