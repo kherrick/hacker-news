@@ -1,32 +1,22 @@
 [
   [
     [
-      "2024-08-02, 16:26:19",
-      "https://news.ycombinator.com/item?id=41140185"
+      "2024-08-02, 17:00:39",
+      "https://news.ycombinator.com/item?id=41140554"
     ],
     [
-      "About Google Chrome's \"This extension may soon no longer be supported\"",
-      "https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22"
+      "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
+      "https://news.ycombinator.com/item?id=41140554"
     ]
   ],
   [
     [
-      "2024-08-02, 16:23:01",
-      "https://news.ycombinator.com/item?id=41140162"
+      "2024-08-02, 16:34:11",
+      "https://news.ycombinator.com/item?id=41140263"
     ],
     [
-      "Where Are Large Language Models for Code Generation on GitHub?",
-      "https://arxiv.org/abs/2406.19544"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 16:17:27",
-      "https://news.ycombinator.com/item?id=41140108"
-    ],
-    [
-      "Self-hosting workshop in Portland tomorrow",
-      "https://2024.fossy.us/schedule/presentation/219/"
+      "Does the success of LLM support Wittgenstein's position that \"meaning is use\"?",
+      "https://philosophy.stackexchange.com/questions/112021/does-the-success-of-ai-large-language-models-support-wittgensteins-position-t"
     ]
   ],
   [
@@ -51,6 +41,26 @@
   ],
   [
     [
+      "2024-08-02, 15:49:33",
+      "https://news.ycombinator.com/item?id=41139854"
+    ],
+    [
+      "Marshmallow Test Fails to Replicate",
+      "https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 15:31:55",
+      "https://news.ycombinator.com/item?id=41139696"
+    ],
+    [
+      "Show HN: I built an interactive demo builder for your sales team",
+      "https://demoshake.com"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 14:40:50",
       "https://news.ycombinator.com/item?id=41139149"
     ],
@@ -67,6 +77,16 @@
     [
       "Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W",
       "https://github.com/ZitaoTech/Hackberry-Pi_Zero"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 13:17:45",
+      "https://news.ycombinator.com/item?id=41138616"
+    ],
+    [
+      "A test for life versus non-life?",
+      "https://www.nytimes.com/2024/07/31/science/assembly-theory-life-sara-walker.html"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41137694"
     ],
     [
-      "Robin Warren, pathologist who rewrote the science on ulcers, dies at 87",
+      "Robin Warren, pathologist who rewrote the science on ulcers, has died",
       "https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/"
     ]
   ],
@@ -127,16 +147,6 @@
     [
       "Null-Restricted and Nullable Types",
       "https://bugs.openjdk.org/browse/JDK-8303099"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 07:01:04",
-      "https://news.ycombinator.com/item?id=41136719"
-    ],
-    [
-      "Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)",
-      "https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2024-08-01, 20:42:58",
+      "https://news.ycombinator.com/item?id=41133400"
+    ],
+    [
+      "A rare disorder makes people see monsters",
+      "https://www.newyorker.com/news/annals-of-inquiry/how-a-rare-disorder-makes-people-see-monsters"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 19:29:55",
       "https://news.ycombinator.com/item?id=41132669"
     ],
@@ -201,46 +221,6 @@
   ],
   [
     [
-      "2024-08-01, 17:00:53",
-      "https://news.ycombinator.com/item?id=41131181"
-    ],
-    [
-      "Hundred Rabbits is a small collective exploring the failability of modern tech",
-      "https://100r.co/site/about_us.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 16:03:19",
-      "https://news.ycombinator.com/item?id=41130620"
-    ],
-    [
-      "Flux: Open-source text-to-image model with 12B parameters",
-      "https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 15:00:34",
-      "https://news.ycombinator.com/item?id=41129813"
-    ],
-    [
-      "Ask HN: Who is hiring? (August 2024)",
-      "https://news.ycombinator.com/item?id=41129813"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 15:00:32",
-      "https://news.ycombinator.com/item?id=41129811"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (August 2024)",
-      "https://news.ycombinator.com/item?id=41129811"
-    ]
-  ],
-  [
-    [
       "2024-08-01, 14:24:00",
       "https://news.ycombinator.com/item?id=41129403"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
-      "2024-08-01, 07:55:57",
-      "https://news.ycombinator.com/item?id=41127048"
+      "2024-08-01, 14:05:16",
+      "https://news.ycombinator.com/item?id=41129195"
     ],
     [
-      "How Google handles JavaScript throughout the indexing process",
-      "https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process"
+      "IsoFLOP curves of large language models are flat",
+      "https://severelytheoretical.wordpress.com/2024/07/31/isoflop-curves-of-large-language-models-are-extremely-flat/"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 05:46:20",
+      "https://news.ycombinator.com/item?id=41126478"
+    ],
+    [
+      "Kepler's 400-year-old sunspot sketches helped solve a modern mystery",
+      "https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 21:20:36",
+      "https://news.ycombinator.com/item?id=41123589"
+    ],
+    [
+      "Eric Roberts (Spy)",
+      "https://en.wikipedia.org/wiki/Eric_Roberts_(spy)"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-07-29, 23:49:54",
-      "https://news.ycombinator.com/item?id=41104789"
+      "2024-07-31, 13:52:23",
+      "https://news.ycombinator.com/item?id=41119174"
     ],
     [
-      "Artificial intelligence gives weather forecasters a new edge",
-      "https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html"
+      "Ocean Gyre",
+      "https://education.nationalgeographic.org/resource/ocean-gyre/"
     ]
   ],
   [
     [
-      "2024-07-29, 16:37:15",
-      "https://news.ycombinator.com/item?id=41101700"
+      "2024-07-30, 19:34:09",
+      "https://news.ycombinator.com/item?id=41113273"
     ],
     [
-      "Crafting endless AS paths in BGP",
-      "https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath"
+      "Early Bookcases, Cupboards and Carousels",
+      "https://blog.lostartpress.com/2024/07/28/early-bookcases-cupboards-and-carousels/"
     ]
   ],
   [
