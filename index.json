@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-02, 14:48:15",
+      "https://news.ycombinator.com/item?id=41139216"
+    ],
+    [
+      "Elliott says Nvidia is in a 'bubble' and AI is 'overhyped'",
+      "https://www.ft.com/content/24a12be1-a973-4efe-ab4f-b981aee0cd0b"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 13:53:39",
       "https://news.ycombinator.com/item?id=41138819"
     ],
@@ -67,16 +77,6 @@
     [
       "Robin Warren, pathologist who rewrote the science on ulcers, dies at 87",
       "https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 10:41:21",
-      "https://news.ycombinator.com/item?id=41137658"
-    ],
-    [
-      "SQLite vector search extension that runs anywhere",
-      "https://github.com/asg017/sqlite-vec"
     ]
   ],
   [
