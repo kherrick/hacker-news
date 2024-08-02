@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 16:23:01](https://news.ycombinator.com/item?id=41140162) - [Where Are Large Language Models for Code Generation on GitHub?](https://arxiv.org/abs/2406.19544)
 * [2024-08-02, 16:17:27](https://news.ycombinator.com/item?id=41140108) - [Self-hosting workshop in Portland tomorrow](https://2024.fossy.us/schedule/presentation/219/)
 * [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
 * [2024-08-02, 15:57:33](https://news.ycombinator.com/item?id=41139924) - [ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
