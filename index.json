@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-08-03, 19:44:09",
-      "https://news.ycombinator.com/item?id=41148754"
-    ],
-    [
-      "DARPA suggests turning old C code automatically into Rust – using AI, of course",
-      "https://www.theregister.com/2024/08/03/darpa_c_to_rust/"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 19:25:58",
       "https://news.ycombinator.com/item?id=41148650"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41148517"
     ],
     [
-      "How to Build Quickly",
+      "How to build quickly",
       "https://learnhowtolearn.org/how-to-build-extremely-quickly/"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41148438"
     ],
     [
-      "Manjaro Immutable Out Now for Community Testing",
+      "Manjaro Immutable out now for community testing",
       "https://forum.manjaro.org/t/manjaro-immutable-out-now-for-community-testing/166364"
     ]
   ],
@@ -87,6 +77,16 @@
     [
       "Prover-Verifier Games improve legibility of LLM outputs",
       "https://arxiv.org/abs/2407.13692"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 17:39:19",
+      "https://news.ycombinator.com/item?id=41148002"
+    ],
+    [
+      "Probability Estimates of a 21st Century AMOC Collapse",
+      "https://arxiv.org/abs/2406.11738"
     ]
   ],
   [
