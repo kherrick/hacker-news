@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-03, 23:02:33](https://news.ycombinator.com/item?id=41149931) - [Non-computability of solutions of certain equations on digital computers](https://arxiv.org/abs/2205.12626)
+* [2024-08-03, 22:51:31](https://news.ycombinator.com/item?id=41149882) - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
 * [2024-08-03, 21:08:39](https://news.ycombinator.com/item?id=41149275) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
 * [2024-08-03, 19:25:58](https://news.ycombinator.com/item?id=41148650) - [Make your electronics tamper-evident](https://www.anarsec.guide/posts/tamper/)
@@ -27,7 +28,6 @@
 * [2024-08-02, 18:57:05](https://news.ycombinator.com/item?id=41141553) - [Discovering algorithms by enumerating terms in Haskell](https://twitter.com/VictorTaelin/status/1819208143638831404)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
 * [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
-* [2024-07-31, 13:52:23](https://news.ycombinator.com/item?id=41119174) - [Ocean Gyre](https://education.nationalgeographic.org/resource/ocean-gyre/)
 * [2024-07-31, 04:56:59](https://news.ycombinator.com/item?id=41116489) - [Seeing Centuries, Part 2](https://charts.substack.com/p/seeing-centuries-part-2)
 * [2024-07-30, 10:19:09](https://news.ycombinator.com/item?id=41107685) - [Complex life forms existed 1.5B years earlier than believed, study finds](https://abcnews.go.com/International/complex-life-forms-existed-15-billion-years-earlier/story?id=112377072)
 
