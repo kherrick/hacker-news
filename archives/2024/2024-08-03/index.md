@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 03:40:26](https://news.ycombinator.com/item?id=41144521) - [US Library of Congress Digital Archive Formats](https://www.loc.gov/preservation/resources/rfs/TOC.html)
 * [2024-08-03, 03:16:47](https://news.ycombinator.com/item?id=41144434) - [Games Managers Play: Unmasking Psychological Tactics in Tech Leadership](https://praachi.work/blog/games-managers-play.html)
 * [2024-08-03, 03:05:49](https://news.ycombinator.com/item?id=41144401) - [Hitler Uses Docker [video]](https://www.youtube.com/watch?v=PivpCKEiQOQ)
 * [2024-08-03, 02:17:48](https://news.ycombinator.com/item?id=41144227) - [Show HN: webhooked.email (2023)](https://news.ycombinator.com/item?id=41144227)

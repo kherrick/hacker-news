@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-03, 03:16:47](https://news.ycombinator.com/item?id=41144434) - [Games Managers Play: Unmasking Psychological Tactics in Tech Leadership](https://praachi.work/blog/games-managers-play.html)
+* [2024-08-03, 03:40:26](https://news.ycombinator.com/item?id=41144521) - [US Library of Congress Digital Archive Formats](https://www.loc.gov/preservation/resources/rfs/TOC.html)
 * [2024-08-03, 02:17:48](https://news.ycombinator.com/item?id=41144227) - [Show HN: webhooked.email (2023)](https://news.ycombinator.com/item?id=41144227)
 * [2024-08-03, 01:47:40](https://news.ycombinator.com/item?id=41144108) - [Stop Destroying Videogames – European Citizens' Initiative](https://eci.ec.europa.eu/045/public/#/screen/home)
 * [2024-08-03, 01:24:50](https://news.ycombinator.com/item?id=41144021) - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
