@@ -2,6 +2,7 @@
 
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
 * [2024-08-03, 21:08:39](https://news.ycombinator.com/item?id=41149275) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
+* [2024-08-03, 20:58:06](https://news.ycombinator.com/item?id=41149220) - [Intel is a Victim of its Own Arrogance](https://innovationnation.blog/p/intel-is-a-victim-of-its-own-arrogance)
 * [2024-08-03, 20:06:27](https://news.ycombinator.com/item?id=41148889) - [How WASD became the standard PC control scheme (2016)](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/)
 * [2024-08-03, 19:44:09](https://news.ycombinator.com/item?id=41148754) - [DARPA suggests turning old C code automatically into Rust – using AI, of course](https://www.theregister.com/2024/08/03/darpa_c_to_rust/)
 * [2024-08-03, 19:25:58](https://news.ycombinator.com/item?id=41148650) - [Make your electronics tamper-evident](https://www.anarsec.guide/posts/tamper/)
@@ -18,7 +19,6 @@
 * [2024-08-03, 12:59:46](https://news.ycombinator.com/item?id=41146393) - [Go Donut: Convert Live Streaming to WebRTC](https://github.com/flavioribeiro/donut)
 * [2024-08-03, 12:32:01](https://news.ycombinator.com/item?id=41146278) - [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
-* [2024-08-03, 09:21:36](https://news.ycombinator.com/item?id=41145528) - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
 * [2024-08-03, 05:21:09](https://news.ycombinator.com/item?id=41144826) - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
 * [2024-08-03, 05:03:52](https://news.ycombinator.com/item?id=41144792) - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
