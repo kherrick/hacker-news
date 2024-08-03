@@ -13,7 +13,6 @@
 * [2024-08-03, 05:03:52](https://news.ycombinator.com/item?id=41144792) - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
 * [2024-08-03, 04:53:10](https://news.ycombinator.com/item?id=41144755) - [p5.js](https://p5js.org/)
 * [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
-* [2024-08-02, 21:41:33](https://news.ycombinator.com/item?id=41142921) - [Reverse Captcha](https://www.selabs.tech/reverse-captcha)
 * [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-02, 19:10:41](https://news.ycombinator.com/item?id=41141676) - [1991 WWW-NeXT Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
@@ -30,6 +29,7 @@
 * [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
 * [2024-07-31, 08:45:37](https://news.ycombinator.com/item?id=41117412) - [The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
 * [2024-07-31, 03:43:55](https://news.ycombinator.com/item?id=41116238) - [Australia starts peanut allergy treatment for babies](https://www.bbc.com/news/articles/c0xj3xq5l1vo)
+* [2024-07-30, 19:34:09](https://news.ycombinator.com/item?id=41113273) - [Early Bookcases, Cupboards and Carousels](https://blog.lostartpress.com/2024/07/28/early-bookcases-cupboards-and-carousels/)
 
 ## [Archives](archives/index.md)
 
