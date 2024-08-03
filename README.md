@@ -14,7 +14,6 @@
 * [2024-08-03, 12:04:16](https://news.ycombinator.com/item?id=41146132) - [The Danger of Superhuman AI Is Not What You Think](https://www.noemamag.com/the-danger-of-superhuman-ai-is-not-what-you-think/)
 * [2024-08-03, 11:34:56](https://news.ycombinator.com/item?id=41145983) - [Two months of feed reader behavior analysis](https://rachelbythebay.com/w/2024/08/02/fs/)
 * [2024-08-03, 09:21:36](https://news.ycombinator.com/item?id=41145528) - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
-* [2024-08-03, 08:30:37](https://news.ycombinator.com/item?id=41145388) - [AiOla open-sources ultra-fast ‘multi-head’ speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
 * [2024-08-03, 05:21:09](https://news.ycombinator.com/item?id=41144826) - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
 * [2024-08-03, 05:03:52](https://news.ycombinator.com/item?id=41144792) - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
@@ -29,6 +28,7 @@
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
 * [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [The Marshmallow Test does not reliably predict adult functioning](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
+* [2024-08-02, 15:23:18](https://news.ycombinator.com/item?id=41139595) - [RustPython: A Python Interpreter Written in Rust](https://github.com/RustPython/RustPython)
 * [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
 
 ## [Archives](archives/index.md)
