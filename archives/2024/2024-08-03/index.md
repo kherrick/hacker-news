@@ -7,6 +7,7 @@
 * [2024-08-03, 10:21:35](https://news.ycombinator.com/item?id=41145732) - [Delivery worker minimum wage is bringing order to a wild industry](https://nyc.streetsblog.org/2024/07/15/delivery-worker-minimum-wage-brings-order-to-industry-data-shows)
 * [2024-08-03, 09:42:00](https://news.ycombinator.com/item?id=41145607) - [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
 * [2024-08-03, 09:21:36](https://news.ycombinator.com/item?id=41145528) - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
+* [2024-08-03, 09:03:58](https://news.ycombinator.com/item?id=41145478) - [Hacked Tesla FSD computers disclose alarming raw data on deadly accidents](https://www.notebookcheck.net/Hacked-Tesla-FSD-computers-disclose-alarming-raw-data-on-deadly-Autopilot-accidents.869354.0.html)
 * [2024-08-03, 08:30:37](https://news.ycombinator.com/item?id=41145388) - [AiOla open-sources ultra-fast 'multi-head' speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 * [2024-08-03, 08:06:14](https://news.ycombinator.com/item?id=41145314) - [Why America fell behind in drones, and how to catch up agaon](https://www.noahpinion.blog/p/why-america-fell-behind-in-drones)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
