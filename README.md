@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-03, 01:32:32](https://news.ycombinator.com/item?id=41144054) - [China is slowly joining the economic war against Russia](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
+* [2024-08-03, 01:24:50](https://news.ycombinator.com/item?id=41144021) - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
 * [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The Future of Kdb+](https://www.timestored.com/b/the-future-of-kdb/)
 * [2024-08-02, 23:14:04](https://news.ycombinator.com/item?id=41143452) - [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
 * [2024-08-02, 22:28:50](https://news.ycombinator.com/item?id=41143216) - [DSCv3, the latest iteration of Microsoft's Desired State Configuration platform](https://github.com/PowerShell/DSC)
@@ -7,7 +9,6 @@
 * [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf] (2001)](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
 * [2024-08-02, 20:02:36](https://news.ycombinator.com/item?id=41142121) - [Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
-* [2024-08-02, 19:44:16](https://news.ycombinator.com/item?id=41141962) - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)
 * [2024-08-02, 19:10:41](https://news.ycombinator.com/item?id=41141676) - [1991 WWW-NeXT Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)
 * [2024-08-02, 18:45:08](https://news.ycombinator.com/item?id=41141460) - [Considerations when building embedded databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
@@ -24,7 +25,6 @@
 * [2024-08-02, 11:00:42](https://news.ycombinator.com/item?id=41137768) - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, has died](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-02, 10:41:21](https://news.ycombinator.com/item?id=41137658) - [Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere](https://github.com/asg017/sqlite-vec)
-* [2024-08-01, 20:42:58](https://news.ycombinator.com/item?id=41133400) - [A rare disorder makes people see monsters](https://www.newyorker.com/news/annals-of-inquiry/how-a-rare-disorder-makes-people-see-monsters)
 * [2024-08-01, 14:24:00](https://news.ycombinator.com/item?id=41129403) - [The genome diversity of major crops tells the story of their evolution](https://phys.org/news/2024-07-genome-diversity-major-crops-story.html)
 * [2024-08-01, 05:46:20](https://news.ycombinator.com/item?id=41126478) - [Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
 * [2024-07-31, 08:45:37](https://news.ycombinator.com/item?id=41117412) - [The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
