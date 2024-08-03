@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 15:24:01](https://news.ycombinator.com/item?id=41147109) - [Intel took billions from the CHIPS Act, and gave nothing back](https://nypost.com/2024/08/02/opinion/biden-harris-wasted-8-5-billion-in-taxpayer-money-to-lose-15000-jobs-at-intel/)
 * [2024-08-03, 14:11:37](https://news.ycombinator.com/item?id=41146705) - [He Skipped College to Become a Repairman. He's on His Way to $175,000 a Year](https://www.wsj.com/lifestyle/careers/he-skipped-college-to-become-a-repairman-hes-on-his-way-to-175-000-a-year-a1d6f02d)
 * [2024-08-03, 14:06:30](https://news.ycombinator.com/item?id=41146687) - [64k Demoscene Intros](https://64k-scene.github.io/)
 * [2024-08-03, 13:40:07](https://news.ycombinator.com/item?id=41146563) - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
@@ -13,6 +14,7 @@
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\" – The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-03, 12:24:26](https://news.ycombinator.com/item?id=41146226) - [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 * [2024-08-03, 12:12:51](https://news.ycombinator.com/item?id=41146172) - [The Orgasmatron: tale of a pleasure implant (2014)](https://www.bbc.com/future/article/20140321-orgasms-at-the-push-of-a-button)
+* [2024-08-03, 12:12:10](https://news.ycombinator.com/item?id=41146168) - [What is going wrong for Intel?](https://www.economist.com/business/2024/08/02/what-is-going-wrong-for-intel)
 * [2024-08-03, 12:12:05](https://news.ycombinator.com/item?id=41146167) - [Wi-Fi is an important threat to human health (2018)](https://www.sciencedirect.com/science/article/pii/S0013935118300355)
 * [2024-08-03, 12:04:20](https://news.ycombinator.com/item?id=41146133) - [Developing the RISC-V Framework Laptop Mainboard [video]](https://www.youtube.com/watch?v=iMwepyyaj8I)
 * [2024-08-03, 11:59:22](https://news.ycombinator.com/item?id=41146108) - [Imitation Intelligence, my keynote for PyCon US 2024](https://simonwillison.net/2024/Jul/14/pycon/)
