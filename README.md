@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-03, 21:21:12](https://news.ycombinator.com/item?id=41149340) - [Antarctica's winter is now 50F hotter than it used to be](https://www.cnn.com/2024/08/03/climate/antarctica-heat-wave-sea-level-rise/index.html)
+* [2024-08-03, 21:20:39](https://news.ycombinator.com/item?id=41149337) - [San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
+* [2024-08-03, 21:08:39](https://news.ycombinator.com/item?id=41149275) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
 * [2024-08-03, 20:06:27](https://news.ycombinator.com/item?id=41148889) - [How WASD became the standard PC control scheme (2016)](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/)
 * [2024-08-03, 19:44:09](https://news.ycombinator.com/item?id=41148754) - [DARPA suggests turning old C code automatically into Rust – using AI, of course](https://www.theregister.com/2024/08/03/darpa_c_to_rust/)
 * [2024-08-03, 19:25:58](https://news.ycombinator.com/item?id=41148650) - [Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
@@ -23,11 +26,8 @@
 * [2024-08-03, 05:03:52](https://news.ycombinator.com/item?id=41144792) - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
 * [2024-08-03, 04:53:10](https://news.ycombinator.com/item?id=41144755) - [p5.js](https://p5js.org/)
 * [2024-08-03, 01:37:09](https://news.ycombinator.com/item?id=41144072) - [Back dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)
-* [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
 * [2024-08-02, 18:57:05](https://news.ycombinator.com/item?id=41141553) - [Discovering algorithms by enumerating terms in Haskell](https://twitter.com/VictorTaelin/status/1819208143638831404)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
-* [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
-* [2024-07-31, 13:52:23](https://news.ycombinator.com/item?id=41119174) - [Ocean Gyre](https://education.nationalgeographic.org/resource/ocean-gyre/)
 * [2024-07-31, 04:56:59](https://news.ycombinator.com/item?id=41116489) - [Seeing Centuries, Part 2](https://charts.substack.com/p/seeing-centuries-part-2)
 * [2024-07-30, 10:19:09](https://news.ycombinator.com/item?id=41107685) - [Complex life forms existed 1.5B years earlier than believed, study finds](https://abcnews.go.com/International/complex-life-forms-existed-15-billion-years-earlier/story?id=112377072)
 
