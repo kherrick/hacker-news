@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41144521"
     ],
     [
-      "US Library of Congress Digital Archive Formats",
+      "Recommended Formats Statement",
       "https://www.loc.gov/preservation/resources/rfs/TOC.html"
     ]
   ],
@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2024-08-03, 01:47:40",
-      "https://news.ycombinator.com/item?id=41144108"
-    ],
-    [
-      "Stop Destroying Videogames – European Citizens' Initiative",
-      "https://eci.ec.europa.eu/045/public/#/screen/home"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 01:24:50",
       "https://news.ycombinator.com/item?id=41144021"
     ],
     [
-      "Promising therapy treatment killing glioblastoma cells in new brain pathway",
+      "Researchers develop treatment that can kill glioblastoma cells in brain pathway",
       "https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41143216"
     ],
     [
-      "DSCv3, the latest iteration of Microsoft's Desired State Configuration platform",
+      "This repo is for the DSC v3 project",
       "https://github.com/PowerShell/DSC"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Magnetically levitated space elevator to low-earth orbit [pdf] (2001)",
       "https://publications.anl.gov/anlpubs/2001/07/39886.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 20:02:36",
+      "https://news.ycombinator.com/item?id=41142121"
+    ],
+    [
+      "Lisp with GC in 436 Bytes",
+      "https://justine.lol/sectorlisp2/"
     ]
   ],
   [
