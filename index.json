@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-08-03, 04:53:10",
+      "https://news.ycombinator.com/item?id=41144755"
+    ],
+    [
+      "p5.js",
+      "https://p5js.org/"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 03:40:26",
       "https://news.ycombinator.com/item?id=41144521"
     ],
@@ -237,16 +247,6 @@
     [
       "Robin Warren, pathologist who rewrote the science on ulcers, has died",
       "https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 10:41:21",
-      "https://news.ycombinator.com/item?id=41137658"
-    ],
-    [
-      "Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere",
-      "https://github.com/asg017/sqlite-vec"
     ]
   ],
   [
