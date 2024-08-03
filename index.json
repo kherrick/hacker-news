@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 10:50:36",
+      "https://news.ycombinator.com/item?id=41145834"
+    ],
+    [
+      "More Germans left without jobs this summer as economy contracts",
+      "https://www.euronews.com/business/2024/07/31/more-germans-left-without-jobs-this-summer-as-economy-contracts"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 10:21:35",
       "https://news.ycombinator.com/item?id=41145732"
     ],
@@ -237,16 +247,6 @@
     [
       "Robin Warren, pathologist who rewrote the science on ulcers, has died",
       "https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 10:41:21",
-      "https://news.ycombinator.com/item?id=41137658"
-    ],
-    [
-      "Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere",
-      "https://github.com/asg017/sqlite-vec"
     ]
   ],
   [
