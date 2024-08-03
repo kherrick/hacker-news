@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-03, 19:44:09",
+      "https://news.ycombinator.com/item?id=41148754"
+    ],
+    [
+      "DARPA suggests turning old C code automatically into Rust – using AI, of course",
+      "https://www.theregister.com/2024/08/03/darpa_c_to_rust/"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 19:25:58",
       "https://news.ycombinator.com/item?id=41148650"
     ],
@@ -177,16 +187,6 @@
     [
       "Tzero: Social Timeboxing for IRC Channels",
       "https://github.com/susam/tzero"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 09:21:36",
-      "https://news.ycombinator.com/item?id=41145528"
-    ],
-    [
-      "A* search: optimized implementation in Lisp",
-      "https://gitlab.com/lockie/cl-astar"
     ]
   ],
   [
