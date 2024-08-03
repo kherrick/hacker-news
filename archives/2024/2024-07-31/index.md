@@ -39,6 +39,7 @@
 * [2024-07-31, 16:29:52](https://news.ycombinator.com/item?id=41120659) - [The sinister, shocking rise of dog attacks on postal workers](https://www.theguardian.com/lifeandstyle/article/2024/jul/30/sinister-shocking-rise-of-dog-attacks-on-postal-workers)
 * [2024-07-31, 16:21:49](https://news.ycombinator.com/item?id=41120568) - [Dunbar's Number Is Quadratic](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic)
 * [2024-07-31, 16:19:04](https://news.ycombinator.com/item?id=41120535) - [The consequences of generative AI for online knowledge communities](https://www.nature.com/articles/s41598-024-61221-0)
+* [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
 * [2024-07-31, 15:49:55](https://news.ycombinator.com/item?id=41120254) - [Why I Prefer RST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 * [2024-07-31, 15:44:10](https://news.ycombinator.com/item?id=41120201) - [Jeff Bezos' famed management rules are slowly unraveling inside Amazon](https://fortune.com/2024/07/31/amazon-leadership-principles-questions-future-jeff-bezos-departure-andy-jassy/)
 * [2024-07-31, 15:35:10](https://news.ycombinator.com/item?id=41120112) - [YouTube now flooding your ad-block with \"fake\" ads that slow the browser](https://old.reddit.com/r/youtube/comments/1egk580/youtube_now_flooding_your_adblock_with_fake_ads/)
