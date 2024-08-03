@@ -7,6 +7,7 @@
 * [2024-08-03, 21:21:12](https://news.ycombinator.com/item?id=41149340) - [Antarctica's winter is now 50F hotter than it used to be](https://www.cnn.com/2024/08/03/climate/antarctica-heat-wave-sea-level-rise/index.html)
 * [2024-08-03, 21:20:39](https://news.ycombinator.com/item?id=41149337) - [San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
 * [2024-08-03, 21:08:39](https://news.ycombinator.com/item?id=41149275) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
+* [2024-08-03, 20:39:36](https://news.ycombinator.com/item?id=41149088) - [Migration from loot boxes to gambling in a longitudinal study of young adults [pdf]](https://gamblingresearch.sites.olt.ubc.ca/files/2023/03/BrooksClark_LootBoxMigration_PostprintDec2022.pdf)
 * [2024-08-03, 20:06:27](https://news.ycombinator.com/item?id=41148889) - [How WASD became the standard PC control scheme](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/)
 * [2024-08-03, 19:44:09](https://news.ycombinator.com/item?id=41148754) - [DARPA suggests turning old C code automatically into Rust – using AI, of course](https://www.theregister.com/2024/08/03/darpa_c_to_rust/)
 * [2024-08-03, 19:25:58](https://news.ycombinator.com/item?id=41148650) - [Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
