@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-08-03, 15:04:34",
-      "https://news.ycombinator.com/item?id=41146980"
-    ],
-    [
-      "How to Escape from the Simulation [pdf]",
-      "https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 14:45:17",
       "https://news.ycombinator.com/item?id=41146860"
     ],
@@ -287,6 +277,16 @@
     [
       "RustPython: A Python Interpreter Written in Rust",
       "https://github.com/RustPython/RustPython"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 11:55:59",
+      "https://news.ycombinator.com/item?id=41138085"
+    ],
+    [
+      "Show HN: Ell – A command-line interface for LLMs written in Bash",
+      "https://github.com/simonmysun/ell"
     ]
   ],
   [
