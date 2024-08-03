@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
 * [2024-08-03, 21:21:12](https://news.ycombinator.com/item?id=41149340) - [Antarctica's winter is now 50F hotter than it used to be](https://www.cnn.com/2024/08/03/climate/antarctica-heat-wave-sea-level-rise/index.html)
 * [2024-08-03, 21:20:39](https://news.ycombinator.com/item?id=41149337) - [San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
 * [2024-08-03, 21:08:39](https://news.ycombinator.com/item?id=41149275) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
