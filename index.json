@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-08-03, 19:11:14",
+      "https://news.ycombinator.com/item?id=41148556"
+    ],
+    [
+      "Lisp's Grandfather Paradox",
+      "https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 19:05:02",
       "https://news.ycombinator.com/item?id=41148517"
     ],
@@ -67,16 +77,6 @@
     [
       "Manjaro Immutable out now for community testing",
       "https://forum.manjaro.org/t/manjaro-immutable-out-now-for-community-testing/166364"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 18:06:27",
-      "https://news.ycombinator.com/item?id=41148164"
-    ],
-    [
-      "The U.S. Wanted to Knock Down Huawei. It's Only Getting Stronger",
-      "https://www.wsj.com/business/telecom/huawei-china-technology-us-sanctions-76462031"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-08-03, 12:24:26",
-      "https://news.ycombinator.com/item?id=41146226"
-    ],
-    [
-      "Tzero: Social Timeboxing for IRC Channels",
-      "https://github.com/susam/tzero"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 09:21:36",
       "https://news.ycombinator.com/item?id=41145528"
     ],
@@ -247,6 +237,16 @@
     [
       "Back dating Git commits based on file modification dates",
       "https://til.simonwillison.net/git/backdate-git-commits"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 00:18:13",
+      "https://news.ycombinator.com/item?id=41143764"
+    ],
+    [
+      "The future of kdb+?",
+      "https://www.timestored.com/b/the-future-of-kdb/"
     ]
   ],
   [
