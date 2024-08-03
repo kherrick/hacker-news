@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 23:02:33](https://news.ycombinator.com/item?id=41149931) - [Non-computability of solutions of certain equations on digital computers](https://arxiv.org/abs/2205.12626)
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
 * [2024-08-03, 21:21:12](https://news.ycombinator.com/item?id=41149340) - [Antarctica's winter is now 50F hotter than it used to be](https://www.cnn.com/2024/08/03/climate/antarctica-heat-wave-sea-level-rise/index.html)
 * [2024-08-03, 21:20:39](https://news.ycombinator.com/item?id=41149337) - [San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
