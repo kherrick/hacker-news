@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-08-03, 08:30:37",
-      "https://news.ycombinator.com/item?id=41145388"
-    ],
-    [
-      "AiOla open-sources ultra-fast ‘multi-head’ speech recognition model",
-      "https://aiola.com/blog/introducing-whisper-medusa/"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 05:29:57",
       "https://news.ycombinator.com/item?id=41144843"
     ],
@@ -287,6 +277,16 @@
     [
       "The Marshmallow Test does not reliably predict adult functioning",
       "https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 15:23:18",
+      "https://news.ycombinator.com/item?id=41139595"
+    ],
+    [
+      "RustPython: A Python Interpreter Written in Rust",
+      "https://github.com/RustPython/RustPython"
     ]
   ],
   [
