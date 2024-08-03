@@ -80,6 +80,7 @@
 * [2024-07-31, 05:54:15](https://news.ycombinator.com/item?id=41116682) - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
 * [2024-07-31, 05:43:33](https://news.ycombinator.com/item?id=41116639) - [Rustgo: Calling Rust from Go with near-zero overhead](https://words.filippo.io/rustgo/)
 * [2024-07-31, 05:42:37](https://news.ycombinator.com/item?id=41116635) - [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
+* [2024-07-31, 04:56:59](https://news.ycombinator.com/item?id=41116489) - [Seeing Centuries, Part 2](https://charts.substack.com/p/seeing-centuries-part-2)
 * [2024-07-31, 04:51:12](https://news.ycombinator.com/item?id=41116473) - [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
 * [2024-07-31, 04:39:03](https://news.ycombinator.com/item?id=41116439) - [WordGrinder: A simple word processor that runs on the console](https://github.com/davidgiven/wordgrinder)
 * [2024-07-31, 04:30:15](https://news.ycombinator.com/item?id=41116414) - [FakeTraveler: Fake where your phone is located (Mock location for Android)](https://github.com/mcastillof/FakeTraveler)

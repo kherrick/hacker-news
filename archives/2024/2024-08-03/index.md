@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 19:23:09](https://news.ycombinator.com/item?id=41148633) - [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
+* [2024-08-03, 19:11:14](https://news.ycombinator.com/item?id=41148556) - [Lisp's Grandfather Paradox](https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html)
+* [2024-08-03, 19:05:02](https://news.ycombinator.com/item?id=41148517) - [How to Build Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 * [2024-08-03, 18:06:27](https://news.ycombinator.com/item?id=41148164) - [The U.S. Wanted to Knock Down Huawei. It's Only Getting Stronger](https://www.wsj.com/business/telecom/huawei-china-technology-us-sanctions-76462031)
 * [2024-08-03, 17:39:19](https://news.ycombinator.com/item?id=41148002) - [Probability Estimates of a 21st Century AMOC Collapse](https://arxiv.org/abs/2406.11738)
 * [2024-08-03, 17:19:28](https://news.ycombinator.com/item?id=41147862) - [From React to Htmx on a real-world SaaS product (2022) [video]](https://www.youtube.com/watch?v=3GObi93tjZI)
