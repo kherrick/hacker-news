@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 12:12:51](https://news.ycombinator.com/item?id=41146172) - [The Orgasmatron: tale of a pleasure implant (2014)](https://www.bbc.com/future/article/20140321-orgasms-at-the-push-of-a-button)
 * [2024-08-03, 10:50:36](https://news.ycombinator.com/item?id=41145834) - [More Germans left without jobs this summer as economy contracts](https://www.euronews.com/business/2024/07/31/more-germans-left-without-jobs-this-summer-as-economy-contracts)
+* [2024-08-03, 10:34:22](https://news.ycombinator.com/item?id=41145779) - [Full Introduction to Golang with Test-Driven Development](https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/)
 * [2024-08-03, 10:21:35](https://news.ycombinator.com/item?id=41145732) - [Delivery worker minimum wage is bringing order to a wild industry](https://nyc.streetsblog.org/2024/07/15/delivery-worker-minimum-wage-brings-order-to-industry-data-shows)
 * [2024-08-03, 09:42:00](https://news.ycombinator.com/item?id=41145607) - [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
 * [2024-08-03, 09:21:36](https://news.ycombinator.com/item?id=41145528) - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
