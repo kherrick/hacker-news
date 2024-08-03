@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 16:04:18](https://news.ycombinator.com/item?id=41147381) - [Berkshire Cuts Apple Stake by Almost Half in Selling Spree](https://www.bloomberg.com/news/articles/2024-08-03/berkshire-hathaway-s-cash-pile-soars-to-record-276-9-billion)
+* [2024-08-03, 15:55:08](https://news.ycombinator.com/item?id=41147317) - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
 * [2024-08-03, 15:24:01](https://news.ycombinator.com/item?id=41147109) - [Intel took billions from the CHIPS Act, and gave nothing back](https://nypost.com/2024/08/02/opinion/biden-harris-wasted-8-5-billion-in-taxpayer-money-to-lose-15000-jobs-at-intel/)
 * [2024-08-03, 15:04:34](https://news.ycombinator.com/item?id=41146980) - [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
+* [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 14:11:37](https://news.ycombinator.com/item?id=41146705) - [He Skipped College to Become a Repairman. He's on His Way to $175,000 a Year](https://www.wsj.com/lifestyle/careers/he-skipped-college-to-become-a-repairman-hes-on-his-way-to-175-000-a-year-a1d6f02d)
 * [2024-08-03, 14:06:30](https://news.ycombinator.com/item?id=41146687) - [64k Demoscene Intros](https://64k-scene.github.io/)
 * [2024-08-03, 13:40:07](https://news.ycombinator.com/item?id=41146563) - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
