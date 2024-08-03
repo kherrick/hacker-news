@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-03, 01:32:32](https://news.ycombinator.com/item?id=41144054) - [China is slowly joining the economic war against Russia](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
+* [2024-08-03, 01:32:32](https://news.ycombinator.com/item?id=41144054) - [China is slowly joining the economic war against Russia?](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
 * [2024-08-03, 01:24:50](https://news.ycombinator.com/item?id=41144021) - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
-* [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The Future of Kdb+](https://www.timestored.com/b/the-future-of-kdb/)
+* [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
 * [2024-08-02, 23:14:04](https://news.ycombinator.com/item?id=41143452) - [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
 * [2024-08-02, 22:28:50](https://news.ycombinator.com/item?id=41143216) - [DSCv3, the latest iteration of Microsoft's Desired State Configuration platform](https://github.com/PowerShell/DSC)
 * [2024-08-02, 21:09:58](https://news.ycombinator.com/item?id=41142710) - [Judges suspends FCC net neutrality restoration rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
