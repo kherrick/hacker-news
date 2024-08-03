@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-03, 01:47:25](https://news.ycombinator.com/item?id=41144106) - [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
+* [2024-08-03, 01:47:40](https://news.ycombinator.com/item?id=41144108) - [Stop Destroying Videogames – European Citizens' Initiative](https://eci.ec.europa.eu/045/public/#/screen/home)
 * [2024-08-03, 01:32:32](https://news.ycombinator.com/item?id=41144054) - [China is slowly joining the economic war against Russia?](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
 * [2024-08-03, 01:24:50](https://news.ycombinator.com/item?id=41144021) - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
 * [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
@@ -13,7 +13,6 @@
 * [2024-08-02, 19:10:41](https://news.ycombinator.com/item?id=41141676) - [1991 WWW-NeXT Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)
 * [2024-08-02, 18:45:08](https://news.ycombinator.com/item?id=41141460) - [Considerations when building embedded databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
-* [2024-08-02, 18:20:57](https://news.ycombinator.com/item?id=41141225) - [Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure](https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain)
 * [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
 * [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization (2023)](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [The Marshmallow Test does not reliably predict adult functioning](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
@@ -26,6 +25,7 @@
 * [2024-08-02, 11:00:42](https://news.ycombinator.com/item?id=41137768) - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, has died](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-02, 10:41:21](https://news.ycombinator.com/item?id=41137658) - [Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere](https://github.com/asg017/sqlite-vec)
+* [2024-08-02, 01:09:37](https://news.ycombinator.com/item?id=41135240) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 * [2024-08-01, 05:46:20](https://news.ycombinator.com/item?id=41126478) - [Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
 * [2024-07-31, 08:45:37](https://news.ycombinator.com/item?id=41117412) - [The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
 * [2024-07-31, 03:43:55](https://news.ycombinator.com/item?id=41116238) - [Australia starts peanut allergy treatment for babies](https://www.bbc.com/news/articles/c0xj3xq5l1vo)
