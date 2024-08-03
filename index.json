@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-08-03, 14:11:37",
-      "https://news.ycombinator.com/item?id=41146705"
-    ],
-    [
-      "He Skipped College to Become a Repairman. He's on His Way to $175k a Year",
-      "https://www.wsj.com/lifestyle/careers/he-skipped-college-to-become-a-repairman-hes-on-his-way-to-175-000-a-year-a1d6f02d"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 14:06:30",
-      "https://news.ycombinator.com/item?id=41146687"
-    ],
-    [
-      "64k Demoscene Intros",
-      "https://64k-scene.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 13:40:07",
       "https://news.ycombinator.com/item?id=41146563"
     ],
@@ -37,16 +17,6 @@
     [
       "Go Donut: Convert Live Streaming to WebRTC",
       "https://github.com/flavioribeiro/donut"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 12:39:34",
-      "https://news.ycombinator.com/item?id=41146304"
-    ],
-    [
-      "Wheel of Lunch: Killed by Yelp after 15 years",
-      "https://wheelof.com/lunch/"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2024-08-02, 16:04:58",
+      "https://news.ycombinator.com/item?id=41139978"
+    ],
+    [
+      "Fast Lua Serialization (2023)",
+      "https://artemis.sh/2023/02/23/fast-lua-serialization.html"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 15:49:33",
       "https://news.ycombinator.com/item?id=41139854"
     ],
@@ -217,6 +197,16 @@
     [
       "RustPython: A Python Interpreter Written in Rust",
       "https://github.com/RustPython/RustPython"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 14:40:50",
+      "https://news.ycombinator.com/item?id=41139149"
+    ],
+    [
+      "The upstream cause of the youth mental health crisis is the loss of community",
+      "https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Australia starts peanut allergy treatment for babies",
       "https://www.bbc.com/news/articles/c0xj3xq5l1vo"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 19:34:09",
+      "https://news.ycombinator.com/item?id=41113273"
+    ],
+    [
+      "Early Bookcases, Cupboards and Carousels",
+      "https://blog.lostartpress.com/2024/07/28/early-bookcases-cupboards-and-carousels/"
     ]
   ]
 ]
