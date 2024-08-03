@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-03, 16:25:48](https://news.ycombinator.com/item?id=41147523) - [Don't Value Efficiency over Effectiveness](https://emeaentrepreneurs.com/anti/dont-value-efficiency-over-effectiveness/)
 * [2024-08-03, 16:04:18](https://news.ycombinator.com/item?id=41147381) - [Berkshire Cuts Apple Stake by Almost Half in Selling Spree](https://www.bloomberg.com/news/articles/2024-08-03/berkshire-hathaway-s-cash-pile-soars-to-record-276-9-billion)
 * [2024-08-03, 15:55:08](https://news.ycombinator.com/item?id=41147317) - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
 * [2024-08-03, 15:04:34](https://news.ycombinator.com/item?id=41146980) - [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
@@ -24,7 +25,6 @@
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
 * [2024-08-02, 13:34:37](https://news.ycombinator.com/item?id=41138701) - [Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
-* [2024-08-02, 12:35:59](https://news.ycombinator.com/item?id=41138338) - [What happens in a mind that can't 'see' mental images](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, has died](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-01, 05:46:20](https://news.ycombinator.com/item?id=41126478) - [Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
 * [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
