@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 23:02:33",
+      "https://news.ycombinator.com/item?id=41149931"
+    ],
+    [
+      "Non-computability of solutions of certain equations on digital computers",
+      "https://arxiv.org/abs/2205.12626"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 21:27:47",
       "https://news.ycombinator.com/item?id=41149377"
     ],
@@ -17,36 +27,6 @@
     [
       "The difference between undefined behavior and ill-formed C++ programs",
       "https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 20:58:06",
-      "https://news.ycombinator.com/item?id=41149220"
-    ],
-    [
-      "Intel is a Victim of its Own Arrogance",
-      "https://innovationnation.blog/p/intel-is-a-victim-of-its-own-arrogance"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 20:06:27",
-      "https://news.ycombinator.com/item?id=41148889"
-    ],
-    [
-      "How WASD became the standard PC control scheme (2016)",
-      "https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 19:44:09",
-      "https://news.ycombinator.com/item?id=41148754"
-    ],
-    [
-      "DARPA suggests turning old C code automatically into Rust – using AI, of course",
-      "https://www.theregister.com/2024/08/03/darpa_c_to_rust/"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-08-03, 09:21:36",
+      "https://news.ycombinator.com/item?id=41145528"
+    ],
+    [
+      "A* search: optimized implementation in Lisp",
+      "https://gitlab.com/lockie/cl-astar"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 05:29:57",
       "https://news.ycombinator.com/item?id=41144843"
     ],
@@ -237,6 +227,16 @@
     [
       "The future of kdb+?",
       "https://www.timestored.com/b/the-future-of-kdb/"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 20:03:12",
+      "https://news.ycombinator.com/item?id=41142125"
+    ],
+    [
+      "Magnetically levitated space elevator to low-earth orbit (2001) [pdf]",
+      "https://publications.anl.gov/anlpubs/2001/07/39886.pdf"
     ]
   ],
   [
