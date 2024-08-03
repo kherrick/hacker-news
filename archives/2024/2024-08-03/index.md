@@ -11,6 +11,7 @@
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 14:11:37](https://news.ycombinator.com/item?id=41146705) - [He Skipped College to Become a Repairman. He's on His Way to $175,000 a Year](https://www.wsj.com/lifestyle/careers/he-skipped-college-to-become-a-repairman-hes-on-his-way-to-175-000-a-year-a1d6f02d)
 * [2024-08-03, 14:06:30](https://news.ycombinator.com/item?id=41146687) - [64k Demoscene Intros](https://64k-scene.github.io/)
+* [2024-08-03, 13:57:49](https://news.ycombinator.com/item?id=41146642) - [To preserve their work journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
 * [2024-08-03, 13:40:07](https://news.ycombinator.com/item?id=41146563) - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
 * [2024-08-03, 12:59:46](https://news.ycombinator.com/item?id=41146393) - [Go Donut: Convert Live Streaming to WebRTC](https://github.com/flavioribeiro/donut)
 * [2024-08-03, 12:39:34](https://news.ycombinator.com/item?id=41146304) - [Wheel of Lunch: Killed by Yelp after 15 years](https://wheelof.com/lunch/)
