@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-03, 12:32:01](https://news.ycombinator.com/item?id=41146278) - [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
+* [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\" – The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-03, 12:24:26](https://news.ycombinator.com/item?id=41146226) - [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 * [2024-08-03, 12:12:51](https://news.ycombinator.com/item?id=41146172) - [The Orgasmatron: tale of a pleasure implant (2014)](https://www.bbc.com/future/article/20140321-orgasms-at-the-push-of-a-button)
-* [2024-08-03, 12:12:05](https://news.ycombinator.com/item?id=41146167) - [Wi-Fi is an important threat to human health (2018)](https://www.sciencedirect.com/science/article/pii/S0013935118300355)
 * [2024-08-03, 12:04:20](https://news.ycombinator.com/item?id=41146133) - [Developing the RISC-V Framework Laptop Mainboard [video]](https://www.youtube.com/watch?v=iMwepyyaj8I)
+* [2024-08-03, 11:59:22](https://news.ycombinator.com/item?id=41146108) - [Imitation Intelligence, my keynote for PyCon US 2024](https://simonwillison.net/2024/Jul/14/pycon/)
 * [2024-08-03, 10:34:22](https://news.ycombinator.com/item?id=41145779) - [Full Introduction to Golang with Test-Driven Development](https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/)
 * [2024-08-03, 09:21:36](https://news.ycombinator.com/item?id=41145528) - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
 * [2024-08-03, 08:30:37](https://news.ycombinator.com/item?id=41145388) - [AiOla open-sources ultra-fast 'multi-head' speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
@@ -29,7 +30,6 @@
 * [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
 * [2024-07-31, 08:45:37](https://news.ycombinator.com/item?id=41117412) - [The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
 * [2024-07-31, 03:43:55](https://news.ycombinator.com/item?id=41116238) - [Australia starts peanut allergy treatment for babies](https://www.bbc.com/news/articles/c0xj3xq5l1vo)
-* [2024-07-30, 19:34:09](https://news.ycombinator.com/item?id=41113273) - [Early Bookcases, Cupboards and Carousels](https://blog.lostartpress.com/2024/07/28/early-bookcases-cupboards-and-carousels/)
 
 ## [Archives](archives/index.md)
 
