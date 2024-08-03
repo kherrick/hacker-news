@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 12:32:01",
+      "https://news.ycombinator.com/item?id=41146278"
+    ],
+    [
+      "Primitive Recursive Functions for a Working Programmer",
+      "https://matklad.github.io/2024/08/01/primitive-recursive-functions.html"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 12:24:26",
       "https://news.ycombinator.com/item?id=41146226"
     ],
@@ -17,6 +27,26 @@
     [
       "The Orgasmatron: tale of a pleasure implant (2014)",
       "https://www.bbc.com/future/article/20140321-orgasms-at-the-push-of-a-button"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 12:12:05",
+      "https://news.ycombinator.com/item?id=41146167"
+    ],
+    [
+      "Wi-Fi is an important threat to human health (2018)",
+      "https://www.sciencedirect.com/science/article/pii/S0013935118300355"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 12:04:20",
+      "https://news.ycombinator.com/item?id=41146133"
+    ],
+    [
+      "Developing the RISC-V Framework Laptop Mainboard [video]",
+      "https://www.youtube.com/watch?v=iMwepyyaj8I"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2024-08-02, 11:25:08",
-      "https://news.ycombinator.com/item?id=41137899"
-    ],
-    [
-      "Quark Stars",
-      "https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 11:00:42",
-      "https://news.ycombinator.com/item?id=41137768"
-    ],
-    [
-      "Programming a CH32v003 with light",
-      "https://mitxela.com/projects/lightcomm"
-    ]
-  ],
-  [
-    [
       "2024-08-02, 10:47:58",
       "https://news.ycombinator.com/item?id=41137694"
     ],
     [
       "Robin Warren, pathologist who rewrote the science on ulcers, has died",
       "https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 10:41:21",
-      "https://news.ycombinator.com/item?id=41137658"
-    ],
-    [
-      "Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere",
-      "https://github.com/asg017/sqlite-vec"
     ]
   ],
   [
