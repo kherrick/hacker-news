@@ -201,22 +201,22 @@
   ],
   [
     [
+      "2024-08-03, 01:37:09",
+      "https://news.ycombinator.com/item?id=41144072"
+    ],
+    [
+      "Back dating Git commits based on file modification dates",
+      "https://til.simonwillison.net/git/backdate-git-commits"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 00:18:13",
       "https://news.ycombinator.com/item?id=41143764"
     ],
     [
       "The future of kdb+?",
       "https://www.timestored.com/b/the-future-of-kdb/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 21:07:25",
-      "https://news.ycombinator.com/item?id=41142686"
-    ],
-    [
-      "Towards userspaceification of POSIX – part I: signal handling and IO",
-      "https://www.redox-os.org/news/kernel-11/"
     ]
   ],
   [
