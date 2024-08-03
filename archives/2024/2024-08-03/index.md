@@ -8,6 +8,7 @@
 * [2024-08-03, 05:21:09](https://news.ycombinator.com/item?id=41144826) - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
 * [2024-08-03, 05:03:52](https://news.ycombinator.com/item?id=41144792) - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
 * [2024-08-03, 04:54:27](https://news.ycombinator.com/item?id=41144759) - [Ray Dalio's \"The Changing World Order\" [pdf]](https://economicprinciples.org/DalioChangingWorldOrderCharts.pdf)
+* [2024-08-03, 04:53:10](https://news.ycombinator.com/item?id=41144755) - [p5.js](https://p5js.org/)
 * [2024-08-03, 03:52:42](https://news.ycombinator.com/item?id=41144571) - [SpaceX Raptor 3, SN1](https://twitter.com/elonmusk/status/1819551225504768286/photo/1)
 * [2024-08-03, 03:40:26](https://news.ycombinator.com/item?id=41144521) - [US Library of Congress Digital Archive Formats](https://www.loc.gov/preservation/resources/rfs/TOC.html)
 * [2024-08-03, 03:16:47](https://news.ycombinator.com/item?id=41144434) - [Games Managers Play: Unmasking Psychological Tactics in Tech Leadership](https://praachi.work/blog/games-managers-play.html)
