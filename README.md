@@ -3,7 +3,6 @@
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 16:28:30](https://news.ycombinator.com/item?id=41147545) - [Boeing's Starliner proves better at torching cash than reaching orbit](https://www.theregister.com/2024/08/02/boeing_starliner_losses/)
 * [2024-08-03, 15:55:08](https://news.ycombinator.com/item?id=41147317) - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
-* [2024-08-03, 15:04:34](https://news.ycombinator.com/item?id=41146980) - [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 14:28:45](https://news.ycombinator.com/item?id=41146779) - [How developers trick App Store into approving malicious apps](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
 * [2024-08-03, 13:57:49](https://news.ycombinator.com/item?id=41146642) - [To preserve their work journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
@@ -29,6 +28,7 @@
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [The Marshmallow Test does not reliably predict adult functioning](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
 * [2024-08-02, 15:23:18](https://news.ycombinator.com/item?id=41139595) - [RustPython: A Python Interpreter Written in Rust](https://github.com/RustPython/RustPython)
+* [2024-08-02, 11:55:59](https://news.ycombinator.com/item?id=41138085) - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
 * [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
 
 ## [Archives](archives/index.md)
