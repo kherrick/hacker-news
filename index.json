@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-08-03, 09:21:36",
+      "https://news.ycombinator.com/item?id=41145528"
+    ],
+    [
+      "A* search: optimized implementation in Lisp",
+      "https://gitlab.com/lockie/cl-astar"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 08:30:37",
       "https://news.ycombinator.com/item?id=41145388"
     ],
@@ -117,16 +127,6 @@
     [
       "1991 WWW-NeXT Implementation",
       "https://github.com/simonw/1991-WWW-NeXT-Implementation"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 18:45:08",
-      "https://news.ycombinator.com/item?id=41141460"
-    ],
-    [
-      "Considerations when building embedded databases",
-      "https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db"
     ]
   ],
   [
