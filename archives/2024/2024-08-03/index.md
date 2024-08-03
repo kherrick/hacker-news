@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 20:06:27](https://news.ycombinator.com/item?id=41148889) - [How WASD became the standard PC control scheme](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/)
+* [2024-08-03, 19:44:09](https://news.ycombinator.com/item?id=41148754) - [DARPA suggests turning old C code automatically into Rust – using AI, of course](https://www.theregister.com/2024/08/03/darpa_c_to_rust/)
 * [2024-08-03, 19:25:58](https://news.ycombinator.com/item?id=41148650) - [Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
 * [2024-08-03, 19:23:09](https://news.ycombinator.com/item?id=41148633) - [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
 * [2024-08-03, 19:13:59](https://news.ycombinator.com/item?id=41148575) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
