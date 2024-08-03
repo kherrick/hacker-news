@@ -2,6 +2,7 @@
 
 * [2024-08-03, 10:21:35](https://news.ycombinator.com/item?id=41145732) - [Delivery worker minimum wage is bringing order to a wild industry](https://nyc.streetsblog.org/2024/07/15/delivery-worker-minimum-wage-brings-order-to-industry-data-shows)
 * [2024-08-03, 09:42:00](https://news.ycombinator.com/item?id=41145607) - [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
+* [2024-08-03, 09:21:36](https://news.ycombinator.com/item?id=41145528) - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
 * [2024-08-03, 08:30:37](https://news.ycombinator.com/item?id=41145388) - [AiOla open-sources ultra-fast 'multi-head' speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
 * [2024-08-03, 05:21:09](https://news.ycombinator.com/item?id=41144826) - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
@@ -12,7 +13,6 @@
 * [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf] (2001)](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
 * [2024-08-02, 19:10:41](https://news.ycombinator.com/item?id=41141676) - [1991 WWW-NeXT Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)
-* [2024-08-02, 18:45:08](https://news.ycombinator.com/item?id=41141460) - [Considerations when building embedded databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 * [2024-08-02, 16:04:58](https://news.ycombinator.com/item?id=41139978) - [Fast Lua Serialization (2023)](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [The Marshmallow Test does not reliably predict adult functioning](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
