@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-03, 17:19:28](https://news.ycombinator.com/item?id=41147862) - [From React to Htmx on a real-world SaaS product (2022) [video]](https://www.youtube.com/watch?v=3GObi93tjZI)
+* [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 15:55:08](https://news.ycombinator.com/item?id=41147317) - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
 * [2024-08-03, 15:04:34](https://news.ycombinator.com/item?id=41146980) - [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
@@ -7,7 +9,6 @@
 * [2024-08-03, 13:57:49](https://news.ycombinator.com/item?id=41146642) - [To preserve their work journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
 * [2024-08-03, 13:40:07](https://news.ycombinator.com/item?id=41146563) - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
 * [2024-08-03, 12:59:46](https://news.ycombinator.com/item?id=41146393) - [Go Donut: Convert Live Streaming to WebRTC](https://github.com/flavioribeiro/donut)
-* [2024-08-03, 12:42:07](https://news.ycombinator.com/item?id=41146320) - [An epic environment manager to fix local environment variable management](https://github.com/danthegoodman1/EpicEnv)
 * [2024-08-03, 12:32:01](https://news.ycombinator.com/item?id=41146278) - [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\" – The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-03, 12:24:26](https://news.ycombinator.com/item?id=41146226) - [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
@@ -26,7 +27,6 @@
 * [2024-08-02, 18:57:05](https://news.ycombinator.com/item?id=41141553) - [Discovering algorithms by enumerating terms in Haskell](https://twitter.com/VictorTaelin/status/1819208143638831404)
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
-* [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [The Marshmallow Test does not reliably predict adult functioning](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
 * [2024-08-02, 15:23:18](https://news.ycombinator.com/item?id=41139595) - [RustPython: A Python Interpreter Written in Rust](https://github.com/RustPython/RustPython)
 * [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
