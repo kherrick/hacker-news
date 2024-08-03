@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 01:47:25",
+      "https://news.ycombinator.com/item?id=41144106"
+    ],
+    [
+      "What are the odds, II: the Venezuelan presidential election",
+      "https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 01:32:32",
       "https://news.ycombinator.com/item?id=41144054"
     ],
@@ -247,16 +257,6 @@
     [
       "Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere",
       "https://github.com/asg017/sqlite-vec"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 01:09:37",
-      "https://news.ycombinator.com/item?id=41135240"
-    ],
-    [
-      "Oscar, an open-source contributor agent architecture",
-      "https://go.googlesource.com/oscar/+/refs/heads/master/README.md"
     ]
   ],
   [
