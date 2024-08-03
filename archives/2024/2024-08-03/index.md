@@ -26,6 +26,7 @@
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 16:28:30](https://news.ycombinator.com/item?id=41147545) - [Boeing's Starliner proves better at torching cash than reaching orbit](https://www.theregister.com/2024/08/02/boeing_starliner_losses/)
 * [2024-08-03, 16:25:48](https://news.ycombinator.com/item?id=41147523) - [Don't Value Efficiency over Effectiveness](https://emeaentrepreneurs.com/anti/dont-value-efficiency-over-effectiveness/)
+* [2024-08-03, 16:23:07](https://news.ycombinator.com/item?id=41147504) - [Handwritten Text Recognition for Xournal++ Using Deep Learning](https://github.com/PellelNitram/xournalpp_htr)
 * [2024-08-03, 16:04:18](https://news.ycombinator.com/item?id=41147381) - [Berkshire Cuts Apple Stake by Almost Half in Selling Spree](https://www.bloomberg.com/news/articles/2024-08-03/berkshire-hathaway-s-cash-pile-soars-to-record-276-9-billion)
 * [2024-08-03, 15:55:08](https://news.ycombinator.com/item?id=41147317) - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
 * [2024-08-03, 15:24:01](https://news.ycombinator.com/item?id=41147109) - [Intel took billions from the CHIPS Act, and gave nothing back](https://nypost.com/2024/08/02/opinion/biden-harris-wasted-8-5-billion-in-taxpayer-money-to-lose-15000-jobs-at-intel/)
