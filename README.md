@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-03, 23:02:33](https://news.ycombinator.com/item?id=41149931) - [Non-computability of solutions of certain equations on digital computers](https://arxiv.org/abs/2205.12626)
+* [2024-08-03, 22:52:26](https://news.ycombinator.com/item?id=41149886) - [6.893 Philosophy and Theoretical Computer Science](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html)
 * [2024-08-03, 22:51:31](https://news.ycombinator.com/item?id=41149882) - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
 * [2024-08-03, 21:08:39](https://news.ycombinator.com/item?id=41149275) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
@@ -19,7 +20,6 @@
 * [2024-08-03, 12:59:46](https://news.ycombinator.com/item?id=41146393) - [Go Donut: Convert Live Streaming to WebRTC](https://github.com/flavioribeiro/donut)
 * [2024-08-03, 12:32:01](https://news.ycombinator.com/item?id=41146278) - [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
-* [2024-08-03, 09:21:36](https://news.ycombinator.com/item?id=41145528) - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
 * [2024-08-03, 05:21:09](https://news.ycombinator.com/item?id=41144826) - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
 * [2024-08-03, 05:03:52](https://news.ycombinator.com/item?id=41144792) - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
