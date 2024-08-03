@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-03, 09:42:00](https://news.ycombinator.com/item?id=41145607) - [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
 * [2024-08-03, 08:30:37](https://news.ycombinator.com/item?id=41145388) - [AiOla open-sources ultra-fast 'multi-head' speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
 * [2024-08-03, 05:21:09](https://news.ycombinator.com/item?id=41144826) - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
@@ -7,7 +8,6 @@
 * [2024-08-03, 04:53:10](https://news.ycombinator.com/item?id=41144755) - [p5.js](https://p5js.org/)
 * [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
 * [2024-08-02, 22:28:50](https://news.ycombinator.com/item?id=41143216) - [This repo is for the DSC v3 project](https://github.com/PowerShell/DSC)
-* [2024-08-02, 21:09:58](https://news.ycombinator.com/item?id=41142710) - [Judges suspends FCC net neutrality restoration rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
 * [2024-08-02, 21:07:25](https://news.ycombinator.com/item?id=41142686) - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-02, 20:03:12](https://news.ycombinator.com/item?id=41142125) - [Magnetically levitated space elevator to low-earth orbit [pdf] (2001)](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
 * [2024-08-02, 19:10:41](https://news.ycombinator.com/item?id=41141676) - [1991 WWW-NeXT Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)

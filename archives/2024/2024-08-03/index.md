@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 09:42:00](https://news.ycombinator.com/item?id=41145607) - [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
 * [2024-08-03, 08:30:37](https://news.ycombinator.com/item?id=41145388) - [AiOla open-sources ultra-fast 'multi-head' speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 * [2024-08-03, 08:06:14](https://news.ycombinator.com/item?id=41145314) - [Why America fell behind in drones, and how to catch up agaon](https://www.noahpinion.blog/p/why-america-fell-behind-in-drones)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
