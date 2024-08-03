@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 21:27:47",
+      "https://news.ycombinator.com/item?id=41149377"
+    ],
+    [
+      "Western Digital: We Are Sampling 32TB SMR Hard Drives",
+      "https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 21:08:39",
       "https://news.ycombinator.com/item?id=41149275"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41148650"
     ],
     [
-      "Make Your Electronics Tamper-Evident",
+      "Make your electronics tamper-evident",
       "https://www.anarsec.guide/posts/tamper/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Parsing Protobuf Definitions with Tree-sitter",
       "https://relistan.com/parsing-protobuf-files-with-treesitter"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 19:11:14",
-      "https://news.ycombinator.com/item?id=41148556"
-    ],
-    [
-      "Lisp's Grandfather Paradox",
-      "https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Game Informer shutting down after 33 years",
       "https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 14:45:17",
+      "https://news.ycombinator.com/item?id=41146860"
+    ],
+    [
+      "Clang vs. Clang",
+      "https://blog.cr.yp.to/20240803-clang.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The future of kdb+?",
       "https://www.timestored.com/b/the-future-of-kdb/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 20:03:12",
-      "https://news.ycombinator.com/item?id=41142125"
-    ],
-    [
-      "Magnetically levitated space elevator to low-earth orbit (2001) [pdf]",
-      "https://publications.anl.gov/anlpubs/2001/07/39886.pdf"
     ]
   ],
   [
