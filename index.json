@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-08-03, 12:04:16",
-      "https://news.ycombinator.com/item?id=41146132"
-    ],
-    [
-      "The Danger of Superhuman AI Is Not What You Think",
-      "https://www.noemamag.com/the-danger-of-superhuman-ai-is-not-what-you-think/"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 11:34:56",
       "https://news.ycombinator.com/item?id=41145983"
     ],
@@ -217,6 +207,16 @@
     [
       "The future of kdb+?",
       "https://www.timestored.com/b/the-future-of-kdb/"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 21:07:25",
+      "https://news.ycombinator.com/item?id=41142686"
+    ],
+    [
+      "Towards userspaceification of POSIX – part I: signal handling and IO",
+      "https://www.redox-os.org/news/kernel-11/"
     ]
   ],
   [
