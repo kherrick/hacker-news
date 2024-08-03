@@ -39,6 +39,7 @@
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [Marshmallow Test Fails to Replicate](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
 * [2024-08-02, 15:34:26](https://news.ycombinator.com/item?id=41139723) - [Intel's Day of Reckoning Arrives: 15,000 Jobs Will Be Eliminated](https://www.extremetech.com/computing/intels-day-of-reckoning-arrives-15000-jobs-will-be-eliminated)
 * [2024-08-02, 15:31:55](https://news.ycombinator.com/item?id=41139696) - [Show HN: I built an interactive demo builder for your sales team](https://demoshake.com)
+* [2024-08-02, 15:23:18](https://news.ycombinator.com/item?id=41139595) - [RustPython: A Python Interpreter Written in Rust](https://github.com/RustPython/RustPython)
 * [2024-08-02, 15:13:44](https://news.ycombinator.com/item?id=41139487) - [Rails Is Good Enough](https://onurozer.me/rails-is-good-enough/)
 * [2024-08-02, 14:51:01](https://news.ycombinator.com/item?id=41139235) - [Why did the U.S. miss the battery revolution?](https://www.noahpinion.blog/p/why-did-the-us-miss-the-battery-revolution)
 * [2024-08-02, 14:48:15](https://news.ycombinator.com/item?id=41139216) - [Elliott says Nvidia is in a 'bubble' and AI is 'overhyped'](https://www.ft.com/content/24a12be1-a973-4efe-ab4f-b981aee0cd0b)
