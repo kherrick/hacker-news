@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-03, 17:39:19](https://news.ycombinator.com/item?id=41148002) - [Probability Estimates of a 21st Century AMOC Collapse](https://arxiv.org/abs/2406.11738)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 16:28:30](https://news.ycombinator.com/item?id=41147545) - [Boeing's Starliner proves better at torching cash than reaching orbit](https://www.theregister.com/2024/08/02/boeing_starliner_losses/)
 * [2024-08-03, 15:55:08](https://news.ycombinator.com/item?id=41147317) - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
@@ -27,9 +28,8 @@
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
 * [2024-08-02, 15:49:33](https://news.ycombinator.com/item?id=41139854) - [The Marshmallow Test does not reliably predict adult functioning](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
-* [2024-08-02, 15:23:18](https://news.ycombinator.com/item?id=41139595) - [RustPython: A Python Interpreter Written in Rust](https://github.com/RustPython/RustPython)
-* [2024-08-02, 11:55:59](https://news.ycombinator.com/item?id=41138085) - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
 * [2024-07-31, 16:14:31](https://news.ycombinator.com/item?id=41120494) - [The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
+* [2024-07-31, 13:52:23](https://news.ycombinator.com/item?id=41119174) - [Ocean Gyre](https://education.nationalgeographic.org/resource/ocean-gyre/)
 
 ## [Archives](archives/index.md)
 

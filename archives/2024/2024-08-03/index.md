@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 17:39:19](https://news.ycombinator.com/item?id=41148002) - [Probability Estimates of a 21st Century AMOC Collapse](https://arxiv.org/abs/2406.11738)
 * [2024-08-03, 17:19:28](https://news.ycombinator.com/item?id=41147862) - [From React to Htmx on a real-world SaaS product (2022) [video]](https://www.youtube.com/watch?v=3GObi93tjZI)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 16:28:30](https://news.ycombinator.com/item?id=41147545) - [Boeing's Starliner proves better at torching cash than reaching orbit](https://www.theregister.com/2024/08/02/boeing_starliner_losses/)
