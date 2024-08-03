@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
 * [2024-08-03, 15:24:01](https://news.ycombinator.com/item?id=41147109) - [Intel took billions from the CHIPS Act, and gave nothing back](https://nypost.com/2024/08/02/opinion/biden-harris-wasted-8-5-billion-in-taxpayer-money-to-lose-15000-jobs-at-intel/)
+* [2024-08-03, 15:04:34](https://news.ycombinator.com/item?id=41146980) - [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
 * [2024-08-03, 14:11:37](https://news.ycombinator.com/item?id=41146705) - [He Skipped College to Become a Repairman. He's on His Way to $175,000 a Year](https://www.wsj.com/lifestyle/careers/he-skipped-college-to-become-a-repairman-hes-on-his-way-to-175-000-a-year-a1d6f02d)
 * [2024-08-03, 14:06:30](https://news.ycombinator.com/item?id=41146687) - [64k Demoscene Intros](https://64k-scene.github.io/)
 * [2024-08-03, 13:40:07](https://news.ycombinator.com/item?id=41146563) - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
@@ -38,6 +39,7 @@
 * [2024-08-03, 02:17:48](https://news.ycombinator.com/item?id=41144227) - [Show HN: webhooked.email (2023)](https://news.ycombinator.com/item?id=41144227)
 * [2024-08-03, 01:47:40](https://news.ycombinator.com/item?id=41144108) - [Stop Destroying Videogames – European Citizens' Initiative](https://eci.ec.europa.eu/045/public/#/screen/home)
 * [2024-08-03, 01:47:25](https://news.ycombinator.com/item?id=41144106) - [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
+* [2024-08-03, 01:37:09](https://news.ycombinator.com/item?id=41144072) - [Back dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)
 * [2024-08-03, 01:32:32](https://news.ycombinator.com/item?id=41144054) - [China is slowly joining the economic war against Russia](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
 * [2024-08-03, 01:24:50](https://news.ycombinator.com/item?id=41144021) - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
 * [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The Future of Kdb+](https://www.timestored.com/b/the-future-of-kdb/)
