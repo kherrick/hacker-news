@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 08:30:37](https://news.ycombinator.com/item?id=41145388) - [AiOla open-sources ultra-fast 'multi-head' speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 * [2024-08-03, 08:06:14](https://news.ycombinator.com/item?id=41145314) - [Why America fell behind in drones, and how to catch up agaon](https://www.noahpinion.blog/p/why-america-fell-behind-in-drones)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
 * [2024-08-03, 05:21:09](https://news.ycombinator.com/item?id=41144826) - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
