@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 12:24:26](https://news.ycombinator.com/item?id=41146226) - [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 * [2024-08-03, 12:12:51](https://news.ycombinator.com/item?id=41146172) - [The Orgasmatron: tale of a pleasure implant (2014)](https://www.bbc.com/future/article/20140321-orgasms-at-the-push-of-a-button)
 * [2024-08-03, 10:50:36](https://news.ycombinator.com/item?id=41145834) - [More Germans left without jobs this summer as economy contracts](https://www.euronews.com/business/2024/07/31/more-germans-left-without-jobs-this-summer-as-economy-contracts)
 * [2024-08-03, 10:34:22](https://news.ycombinator.com/item?id=41145779) - [Full Introduction to Golang with Test-Driven Development](https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/)
