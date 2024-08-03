@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-03, 01:47:25](https://news.ycombinator.com/item?id=41144106) - [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
 * [2024-08-03, 01:32:32](https://news.ycombinator.com/item?id=41144054) - [China is slowly joining the economic war against Russia?](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
 * [2024-08-03, 01:24:50](https://news.ycombinator.com/item?id=41144021) - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
 * [2024-08-03, 00:18:13](https://news.ycombinator.com/item?id=41143764) - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
@@ -25,7 +26,6 @@
 * [2024-08-02, 11:00:42](https://news.ycombinator.com/item?id=41137768) - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 * [2024-08-02, 10:47:58](https://news.ycombinator.com/item?id=41137694) - [Robin Warren, pathologist who rewrote the science on ulcers, has died](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
 * [2024-08-02, 10:41:21](https://news.ycombinator.com/item?id=41137658) - [Sqlite-vec: Work-in-progress vector search SQLite extension that runs anywhere](https://github.com/asg017/sqlite-vec)
-* [2024-08-02, 01:09:37](https://news.ycombinator.com/item?id=41135240) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 * [2024-08-01, 05:46:20](https://news.ycombinator.com/item?id=41126478) - [Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
 * [2024-07-31, 08:45:37](https://news.ycombinator.com/item?id=41117412) - [The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
 * [2024-07-31, 03:43:55](https://news.ycombinator.com/item?id=41116238) - [Australia starts peanut allergy treatment for babies](https://www.bbc.com/news/articles/c0xj3xq5l1vo)
