@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-04, 15:09:44](https://news.ycombinator.com/item?id=41154033) - [A WA Tax Break for Data Centers Became One of Their Biggest Corporate Giveaways](https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break)
 * [2024-08-04, 15:07:40](https://news.ycombinator.com/item?id=41154012) - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 * [2024-08-04, 14:48:42](https://news.ycombinator.com/item?id=41153892) - [Written by a 16 year old, a book on how computers work](https://github.com/hackclub/RAM-a-thon)
 * [2024-08-04, 12:41:33](https://news.ycombinator.com/item?id=41153158) - [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
@@ -27,7 +28,6 @@
 * [2024-08-03, 13:40:07](https://news.ycombinator.com/item?id=41146563) - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
 * [2024-08-03, 12:32:01](https://news.ycombinator.com/item?id=41146278) - [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
-* [2024-07-31, 21:20:36](https://news.ycombinator.com/item?id=41123589) - [Eric Roberts (Spy)](https://en.wikipedia.org/wiki/Eric_Roberts_(spy))
 * [2024-07-31, 16:42:12](https://news.ycombinator.com/item?id=41120789) - [I miss Lorina Bulwer: A hand-stitched letter of note](https://news.lettersofnote.com/p/i-miss-lorina-bulwer)
 * [2024-07-31, 07:11:53](https://news.ycombinator.com/item?id=41117005) - [The Hype Around Photobiomodulation](https://www.mcgill.ca/oss/article/medical-critical-thinking/hype-around-photobiomodulation)
 
