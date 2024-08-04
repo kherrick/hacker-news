@@ -6,7 +6,7 @@
 * [2024-08-04, 00:28:44](https://news.ycombinator.com/item?id=41150275) - [LLM as Database Administrator](https://arxiv.org/abs/2312.01454)
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
 * [2024-08-03, 23:32:04](https://news.ycombinator.com/item?id=41150069) - [Sega Jet Rocket: The '70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
-* [2024-08-03, 23:10:17](https://news.ycombinator.com/item?id=41149974) - [Can Reading Make You Happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
+* [2024-08-03, 23:10:17](https://news.ycombinator.com/item?id=41149974) - [Can reading make you happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
 * [2024-08-03, 23:05:56](https://news.ycombinator.com/item?id=41149948) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
 * [2024-08-03, 23:02:33](https://news.ycombinator.com/item?id=41149931) - [Non-computability of solutions of certain equations on digital computers (2022)](https://arxiv.org/abs/2205.12626)
 * [2024-08-03, 22:57:47](https://news.ycombinator.com/item?id=41149906) - [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
