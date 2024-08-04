@@ -28,6 +28,7 @@
 * [2024-08-02, 18:34:07](https://news.ycombinator.com/item?id=41141349) - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 * [2024-08-02, 18:20:57](https://news.ycombinator.com/item?id=41141225) - [Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure](https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain)
 * [2024-08-02, 18:13:21](https://news.ycombinator.com/item?id=41141166) - [We Should Stop Using JavaScript According to Douglas Crockford](https://old.reddit.com/r/programming/comments/1eht39z/why_we_should_stop_using_javascript_according_to/)
+* [2024-08-02, 18:12:55](https://news.ycombinator.com/item?id=41141163) - [How Diaries Evolved from Lists to Personal Histories](https://slate.com/culture/2024/07/book-author-roland-allen-explains-the-history-of-the-diary-in-the-notebook-a-history-of-thinking-on-paper.html)
 * [2024-08-02, 18:06:39](https://news.ycombinator.com/item?id=41141112) - [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
 * [2024-08-02, 17:51:07](https://news.ycombinator.com/item?id=41140979) - [Google Pulls Olympics AI Ad 'Dear Sydney'](https://adage.com/article/special-report-olympics/google-pulls-olympics-ai-ad-dear-sydney/2573496)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
