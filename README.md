@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-04, 02:03:59](https://news.ycombinator.com/item?id=41150697) - [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
+* [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use AI (Nicholas Carlini)](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-04, 00:29:27](https://news.ycombinator.com/item?id=41150278) - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
 * [2024-08-03, 23:32:04](https://news.ycombinator.com/item?id=41150069) - [Sega Jet Rocket: The '70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
@@ -11,6 +13,7 @@
 * [2024-08-03, 22:51:31](https://news.ycombinator.com/item?id=41149882) - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 * [2024-08-03, 22:40:47](https://news.ycombinator.com/item?id=41149832) - [The First Law of Complexodynamics (2011)](https://scottaaronson.blog/?p=762)
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
+* [2024-08-03, 20:06:27](https://news.ycombinator.com/item?id=41148889) - [How WASD became the standard PC control scheme (2016)](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/)
 * [2024-08-03, 19:25:58](https://news.ycombinator.com/item?id=41148650) - [Make your electronics tamper-evident](https://www.anarsec.guide/posts/tamper/)
 * [2024-08-03, 19:23:09](https://news.ycombinator.com/item?id=41148633) - [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
 * [2024-08-03, 19:13:59](https://news.ycombinator.com/item?id=41148575) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
@@ -25,9 +28,6 @@
 * [2024-08-03, 12:59:46](https://news.ycombinator.com/item?id=41146393) - [Go Donut: Convert Live Streaming to WebRTC](https://github.com/flavioribeiro/donut)
 * [2024-08-03, 12:32:01](https://news.ycombinator.com/item?id=41146278) - [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
-* [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
-* [2024-08-03, 05:21:09](https://news.ycombinator.com/item?id=41144826) - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
-* [2024-08-03, 04:53:10](https://news.ycombinator.com/item?id=41144755) - [p5.js](https://p5js.org/)
 * [2024-08-02, 18:57:05](https://news.ycombinator.com/item?id=41141553) - [Discovering algorithms by enumerating terms in Haskell](https://twitter.com/VictorTaelin/status/1819208143638831404)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
 
