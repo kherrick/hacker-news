@@ -8,6 +8,7 @@
 * [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 * [2024-08-04, 16:28:22](https://news.ycombinator.com/item?id=41154560) - [Praise My GitHub Profile](https://praise-me.fly.dev/)
 * [2024-08-04, 16:08:25](https://news.ycombinator.com/item?id=41154410) - [Jailbroke my Kindle to use it as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
+* [2024-08-04, 15:58:10](https://news.ycombinator.com/item?id=41154334) - [Making your own hot sauce](https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 15:11:53](https://news.ycombinator.com/item?id=41154053) - [Apprentice, Journeyman, and Master: The Medieval Guild (2018)](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
 * [2024-08-04, 14:50:00](https://news.ycombinator.com/item?id=41153902) - [Chinese archaeologists are striking out along the Silk Road](https://www.wsj.com/science/archaeology/china-reaches-back-in-time-to-challenge-the-west-way-way-back-236c4e90)
@@ -29,7 +30,6 @@
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
 * [2024-08-03, 22:42:21](https://news.ycombinator.com/item?id=41149842) - [Errors Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
 * [2024-08-01, 22:18:10](https://news.ycombinator.com/item?id=41134218) - [Ken Leishman](https://en.wikipedia.org/wiki/Ken_Leishman)
-* [2024-07-31, 16:42:12](https://news.ycombinator.com/item?id=41120789) - [I Miss Lorina Bulwer: A hand-stitched letter of note](https://news.lettersofnote.com/p/i-miss-lorina-bulwer)
 
 ## [Archives](archives/index.md)
 
