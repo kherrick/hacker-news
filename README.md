@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-04, 18:25:11](https://news.ycombinator.com/item?id=41155376) - [Berkshire halves Apple stake, boosts cash to $277B as it gets 'defensive'](https://www.reuters.com/business/finance/berkshires-cash-hits-277-bln-buffett-slashes-apple-stake-operating-profit-sets-2024-08-03/)
+* [2024-08-04, 17:49:08](https://news.ycombinator.com/item?id=41155177) - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
+* [2024-08-04, 17:03:45](https://news.ycombinator.com/item?id=41154839) - [Tech CEOs are backtrack on RTO mandates–now, 3% want workers in office full-time](https://fortune.com/2024/08/02/tech-ceos-return-to-office-mandate/)
 * [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
@@ -21,8 +23,6 @@
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
 * [2024-08-03, 23:10:17](https://news.ycombinator.com/item?id=41149974) - [Can reading make you happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
-* [2024-08-03, 19:07:15](https://news.ycombinator.com/item?id=41148532) - [TPU transformation: A look back at 10 years of our AI-specialized chips](https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai)
-* [2024-08-03, 17:50:13](https://news.ycombinator.com/item?id=41148073) - [Computer Archeology: Exploring the Anatomy of an MS-DOS Virus](https://www.metacodes.pro/blog/computer_archeology_exploring_the_anatomy_of_an_ms_dos_virus/)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-03, 06:26:31](https://news.ycombinator.com/item?id=41145002) - [Building a 10BASE5 Thick Ethernet Network (2012)](https://www.mattmillman.com/projects/10base5/)

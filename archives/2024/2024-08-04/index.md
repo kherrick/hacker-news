@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
 * [2024-08-04, 18:25:11](https://news.ycombinator.com/item?id=41155376) - [Berkshire halves Apple stake, boosts cash to $277B as it gets 'defensive'](https://www.reuters.com/business/finance/berkshires-cash-hits-277-bln-buffett-slashes-apple-stake-operating-profit-sets-2024-08-03/)
+* [2024-08-04, 17:49:08](https://news.ycombinator.com/item?id=41155177) - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
 * [2024-08-04, 17:03:45](https://news.ycombinator.com/item?id=41154839) - [Tech CEOs are backtrack on RTO mandates–now, 3% want workers in office full-time](https://fortune.com/2024/08/02/tech-ceos-return-to-office-mandate/)
 * [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
