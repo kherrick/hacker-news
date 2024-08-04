@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
+* [2024-08-04, 04:55:28](https://news.ycombinator.com/item?id=41151232) - [Why Old Sports Photos Often Have a Blue Haze (2015)](https://petapixel.com/2015/10/15/why-old-sports-photos-often-have-a-blue-haze/)
 * [2024-08-04, 04:30:21](https://news.ycombinator.com/item?id=41151147) - [Australia must treat housing as a human right: Former State Supreme Court judge](https://www.abc.net.au/news/2024-08-04/housing-is-a-human-right-says-former-vic-supreme-court-judge/104179612)
 * [2024-08-04, 03:52:17](https://news.ycombinator.com/item?id=41151057) - [Programming with Punch Cards [pdf]](https://web.archive.org/web/20090325223903/https://www.columbia.edu/acis/history/fisk.pdf)
 * [2024-08-04, 03:42:40](https://news.ycombinator.com/item?id=41151033) - [The Introverts Are Winning](https://newhumanist.org.uk/articles/6306/the-introverts-are-winning)
