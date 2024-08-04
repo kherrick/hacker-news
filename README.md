@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-04, 16:08:25](https://news.ycombinator.com/item?id=41154410) - [Show HN: Jailbroke my Kindle to use it as an e-ink monitor](https://twitter.com/adtac_/status/1820127470613622950)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 15:11:53](https://news.ycombinator.com/item?id=41154053) - [Apprentice, Journeyman, and Master: The Medieval Guild](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
 * [2024-08-04, 15:07:40](https://news.ycombinator.com/item?id=41154012) - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
@@ -20,6 +19,7 @@
 * [2024-08-03, 19:13:59](https://news.ycombinator.com/item?id=41148575) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-08-03, 19:07:15](https://news.ycombinator.com/item?id=41148532) - [TPU transformation: A look back at 10 years of our AI-specialized chips](https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai)
 * [2024-08-03, 17:50:13](https://news.ycombinator.com/item?id=41148073) - [Computer Archeology: Exploring the Anatomy of an MS-DOS Virus](https://www.metacodes.pro/blog/computer_archeology_exploring_the_anatomy_of_an_ms_dos_virus/)
+* [2024-08-03, 17:01:05](https://news.ycombinator.com/item?id=41147754) - [Revisiting Linux CPU Scheduling](https://www.uninformativ.de/blog/postings/2024-08-03/0/POSTING-en.html)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 14:28:45](https://news.ycombinator.com/item?id=41146779) - [Techniques used by developers to bypass App Store review](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
