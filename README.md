@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-04, 22:56:22](https://news.ycombinator.com/item?id=41156872) - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
 * [2024-08-04, 22:21:34](https://news.ycombinator.com/item?id=41156716) - [Myspace celebrates its 21st birthday. Do we still need it?](https://triblive.com/business/technology/myspace-celebrates-its-21st-birthday-do-we-still-need-it/)
 * [2024-08-04, 21:38:23](https://news.ycombinator.com/item?id=41156514) - [Nvidia's Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
 * [2024-08-04, 21:31:03](https://news.ycombinator.com/item?id=41156478) - [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
@@ -25,7 +26,6 @@
 * [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 07:54:22](https://news.ycombinator.com/item?id=41151825) - [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
 * [2024-08-04, 07:46:11](https://news.ycombinator.com/item?id=41151799) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
-* [2024-08-04, 06:24:53](https://news.ycombinator.com/item?id=41151476) - [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
 * [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [Rhombus: Macro-extensible language with conventional syntax built on Racket](https://docs.racket-lang.org/rhombus/index.html)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 * [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
