@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-04, 03:52:17](https://news.ycombinator.com/item?id=41151057) - [Programming with Punch Cards [pdf]](https://web.archive.org/web/20090325223903/https://www.columbia.edu/acis/history/fisk.pdf)
+* [2024-08-04, 04:30:21](https://news.ycombinator.com/item?id=41151147) - [Australia must treat housing as a human right: Former State Supreme Court judge](https://www.abc.net.au/news/2024-08-04/housing-is-a-human-right-says-former-vic-supreme-court-judge/104179612)
 * [2024-08-04, 03:42:40](https://news.ycombinator.com/item?id=41151033) - [The Introverts Are Winning](https://newhumanist.org.uk/articles/6306/the-introverts-are-winning)
 * [2024-08-04, 01:10:01](https://news.ycombinator.com/item?id=41150451) - [\"Grip Car\"](https://teenage.engineering/products/grip-car)
 * [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use AI (Nicholas Carlini)](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
