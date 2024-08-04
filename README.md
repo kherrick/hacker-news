@@ -6,7 +6,7 @@
 * [2024-08-04, 00:42:28](https://news.ycombinator.com/item?id=41150337) - [GTA 3 is being ported to the Sega Dreamcast](https://twitter.com/falco_girgis/status/1819686371528720481)
 * [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use AI (Nicholas Carlini)](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-04, 00:29:27](https://news.ycombinator.com/item?id=41150278) - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
-* [2024-08-04, 00:28:44](https://news.ycombinator.com/item?id=41150275) - [LLM as Database Administrator](https://arxiv.org/abs/2312.01454)
+* [2024-08-04, 00:28:44](https://news.ycombinator.com/item?id=41150275) - [LLM as Database Administrator (2023)](https://arxiv.org/abs/2312.01454)
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
 * [2024-08-03, 23:32:04](https://news.ycombinator.com/item?id=41150069) - [Sega Jet Rocket: The '70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
 * [2024-08-03, 23:10:17](https://news.ycombinator.com/item?id=41149974) - [Can reading make you happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
