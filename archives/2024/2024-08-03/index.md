@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
+* [2024-08-03, 23:32:04](https://news.ycombinator.com/item?id=41150069) - [Sega Jet Rocket: The '70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
+* [2024-08-03, 23:11:11](https://news.ycombinator.com/item?id=41149979) - [Taiwan is behind schedule in preparations to fend off Chinese invasion](https://www.washingtonpost.com/world/2024/08/03/taiwan-china-war-invasion-military-preparedness/)
+* [2024-08-03, 23:10:17](https://news.ycombinator.com/item?id=41149974) - [Can Reading Make You Happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
 * [2024-08-03, 23:02:33](https://news.ycombinator.com/item?id=41149931) - [Non-computability of solutions of certain equations on digital computers](https://arxiv.org/abs/2205.12626)
 * [2024-08-03, 22:52:26](https://news.ycombinator.com/item?id=41149886) - [6.893 Philosophy and Theoretical Computer Science](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html)
 * [2024-08-03, 22:51:31](https://news.ycombinator.com/item?id=41149882) - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
+* [2024-08-03, 22:40:47](https://news.ycombinator.com/item?id=41149832) - [The First Law of Complexodynamics (2011)](https://scottaaronson.blog/?p=762)
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
 * [2024-08-03, 21:21:12](https://news.ycombinator.com/item?id=41149340) - [Antarctica's winter is now 50F hotter than it used to be](https://www.cnn.com/2024/08/03/climate/antarctica-heat-wave-sea-level-rise/index.html)
 * [2024-08-03, 21:20:39](https://news.ycombinator.com/item?id=41149337) - [San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
@@ -19,6 +24,7 @@
 * [2024-08-03, 19:23:09](https://news.ycombinator.com/item?id=41148633) - [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
 * [2024-08-03, 19:13:59](https://news.ycombinator.com/item?id=41148575) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-08-03, 19:11:14](https://news.ycombinator.com/item?id=41148556) - [Lisp's Grandfather Paradox](https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html)
+* [2024-08-03, 19:07:15](https://news.ycombinator.com/item?id=41148532) - [TPU transformation: A look back at 10 years of our AI-specialized chips](https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai)
 * [2024-08-03, 19:05:02](https://news.ycombinator.com/item?id=41148517) - [How to Build Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 * [2024-08-03, 18:52:21](https://news.ycombinator.com/item?id=41148438) - [Manjaro Immutable Out Now for Community Testing](https://forum.manjaro.org/t/manjaro-immutable-out-now-for-community-testing/166364)
 * [2024-08-03, 18:06:27](https://news.ycombinator.com/item?id=41148164) - [The U.S. Wanted to Knock Down Huawei. It's Only Getting Stronger](https://www.wsj.com/business/telecom/huawei-china-technology-us-sanctions-76462031)
