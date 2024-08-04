@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-* [2024-08-04, 15:58:10](https://news.ycombinator.com/item?id=41154334) - [Making your own hot sauce](https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 15:11:53](https://news.ycombinator.com/item?id=41154053) - [Apprentice, Journeyman, and Master: The Medieval Guild](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
 * [2024-08-04, 15:07:40](https://news.ycombinator.com/item?id=41154012) - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
@@ -18,6 +17,7 @@
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
 * [2024-08-03, 23:10:17](https://news.ycombinator.com/item?id=41149974) - [Can reading make you happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
 * [2024-08-03, 23:02:33](https://news.ycombinator.com/item?id=41149931) - [Non-computability of solutions of certain equations on digital computers (2022)](https://arxiv.org/abs/2205.12626)
+* [2024-08-03, 19:23:09](https://news.ycombinator.com/item?id=41148633) - [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
 * [2024-08-03, 19:07:15](https://news.ycombinator.com/item?id=41148532) - [TPU transformation: A look back at 10 years of our AI-specialized chips](https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai)
 * [2024-08-03, 17:50:13](https://news.ycombinator.com/item?id=41148073) - [Computer Archeology: Exploring the Anatomy of an MS-DOS Virus](https://www.metacodes.pro/blog/computer_archeology_exploring_the_anatomy_of_an_ms_dos_virus/)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
