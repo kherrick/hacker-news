@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-08-04, 00:28:44",
+      "https://news.ycombinator.com/item?id=41150275"
+    ],
+    [
+      "LLM as Database Administrator",
+      "https://arxiv.org/abs/2312.01454"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 23:37:52",
       "https://news.ycombinator.com/item?id=41150095"
     ],
@@ -157,16 +167,6 @@
     [
       "Parsing Protobuf Definitions with Tree-sitter",
       "https://relistan.com/parsing-protobuf-files-with-treesitter"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 19:07:15",
-      "https://news.ycombinator.com/item?id=41148532"
-    ],
-    [
-      "TPU transformation: A look back at 10 years of our AI-specialized chips",
-      "https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai"
     ]
   ],
   [
