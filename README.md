@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-04, 07:26:27](https://news.ycombinator.com/item?id=41151718) - [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
-* [2024-08-04, 07:18:01](https://news.ycombinator.com/item?id=41151687) - [I made my personal website](https://www.mandar.fun/)
 * [2024-08-04, 06:50:52](https://news.ycombinator.com/item?id=41151572) - [Introduction to Kubernetes (k8) – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
+* [2024-08-04, 06:30:42](https://news.ycombinator.com/item?id=41151494) - [Computers are amazing. So why is software so terrible?](https://handmade.network/manifesto)
 * [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [racket/rhombus: \"We're now officially in the \"integration\" phase for Rhombus.\"](https://github.com/racket/rhombus/discussions/521)
-* [2024-08-04, 04:30:21](https://news.ycombinator.com/item?id=41151147) - [Australia must treat housing as a human right: Former State Supreme Court judge](https://www.abc.net.au/news/2024-08-04/housing-is-a-human-right-says-former-vic-supreme-court-judge/104179612)
+* [2024-08-04, 06:07:44](https://news.ycombinator.com/item?id=41151429) - [Why the international experimental nuclear fusion reactor is in 'big trouble'](https://www.theguardian.com/technology/article/2024/aug/03/is-the-dream-of-nuclear-fusion-dead-why-the-international-experimental-reactor-is-in-big-trouble)
 * [2024-08-04, 00:29:27](https://news.ycombinator.com/item?id=41150278) - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
 * [2024-08-04, 00:28:44](https://news.ycombinator.com/item?id=41150275) - [LLM as Database Administrator (2023)](https://arxiv.org/abs/2312.01454)
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
