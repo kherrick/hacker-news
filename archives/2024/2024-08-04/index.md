@@ -5,8 +5,13 @@
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
 * [2024-08-04, 12:45:44](https://news.ycombinator.com/item?id=41153177) - [FreeBSD Desktop Series](https://vermaden.wordpress.com/freebsd-desktop/)
+* [2024-08-04, 12:41:33](https://news.ycombinator.com/item?id=41153158) - [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
+* [2024-08-04, 12:39:53](https://news.ycombinator.com/item?id=41153147) - [AI Personal Assistant with RAG and LLM](https://github.com/mytechnotalent/pa)
 * [2024-08-04, 12:26:33](https://news.ycombinator.com/item?id=41153093) - [The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
+* [2024-08-04, 12:20:53](https://news.ycombinator.com/item?id=41153054) - [Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
+* [2024-08-04, 12:15:37](https://news.ycombinator.com/item?id=41153035) - [Show HN: Candix, a confidential, reverse recruiting platform](https://candix.com)
 * [2024-08-04, 09:52:29](https://news.ycombinator.com/item?id=41152340) - [Big Tech groups say their $100B AI spending spree is just beginning](https://www.ft.com/content/b7037ce1-4319-4a4a-8767-0b1373cec9ce)
+* [2024-08-04, 09:36:32](https://news.ycombinator.com/item?id=41152249) - [So Who Is Building That 100k GPU Cluster for XAI?](https://www.nextplatform.com/2024/07/30/so-who-is-building-that-100000-gpu-cluster-for-xai/)
 * [2024-08-04, 08:50:50](https://news.ycombinator.com/item?id=41152040) - [The Academic Culture of Fraud](https://www.palladiummag.com/2024/08/02/the-academic-culture-of-fraud/)
 * [2024-08-04, 08:19:27](https://news.ycombinator.com/item?id=41151933) - [Passengers at EU Airports Not Allowed over 100ml of Liquids on Cabin Luggage](https://schengen.news/passengers-at-eu-airports-not-allowed-to-carry-over-100ml-of-liquids-on-cabin-luggage-as-of-september-1/)
 * [2024-08-04, 07:26:27](https://news.ycombinator.com/item?id=41151718) - [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
@@ -29,3 +34,4 @@
 * [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use AI (Nicholas Carlini)](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-04, 00:29:27](https://news.ycombinator.com/item?id=41150278) - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
 * [2024-08-04, 00:28:44](https://news.ycombinator.com/item?id=41150275) - [LLM as Database Administrator](https://arxiv.org/abs/2312.01454)
+* [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
