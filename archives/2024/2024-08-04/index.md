@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 16:08:25](https://news.ycombinator.com/item?id=41154410) - [Show HN: Jailbroke my Kindle to use it as an e-ink monitor](https://twitter.com/adtac_/status/1820127470613622950)
 * [2024-08-04, 15:59:26](https://news.ycombinator.com/item?id=41154344) - [Google Says AI Olympics Ad 'Tested Well' Before Inspiring Outrage](https://gizmodo.com/google-says-ai-olympics-ad-tested-well-before-inspiring-outrage-2000482900)
 * [2024-08-04, 15:39:13](https://news.ycombinator.com/item?id=41154219) - [People High on Dark Triad Personality Traits Employ Distinct Defense Mechanisms](https://www.robkhenderson.com/p/people-with-dark-triad-personality)
 * [2024-08-04, 15:35:59](https://news.ycombinator.com/item?id=41154199) - [Gemini Ad Backlash](https://www.cbsnews.com/news/google-gemini-ai-dear-sydney-olympics-ad/)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
+* [2024-08-04, 15:11:53](https://news.ycombinator.com/item?id=41154053) - [Apprentice, Journeyman, and Master: The Medieval Guild](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
 * [2024-08-04, 15:09:44](https://news.ycombinator.com/item?id=41154033) - [A WA Tax Break for Data Centers Became One of Their Biggest Corporate Giveaways](https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break)
 * [2024-08-04, 15:07:40](https://news.ycombinator.com/item?id=41154012) - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 * [2024-08-04, 15:03:22](https://news.ycombinator.com/item?id=41153980) - [Wasted Education: How We Fail Our Graduates in STEM [video]](https://www.youtube.com/watch?v=ZTWaSPzAgBA)
