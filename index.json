@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-08-04, 21:30:00",
+      "https://news.ycombinator.com/item?id=41156474"
+    ],
+    [
+      "Cortex A73's Not-So-Infinite Reordering Capacity",
+      "https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 20:42:03",
+      "https://news.ycombinator.com/item?id=41156194"
+    ],
+    [
+      "Romram: Using QSPI RAM with RP2040's SSI in read-write mode",
+      "http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 20:09:37",
       "https://news.ycombinator.com/item?id=41155996"
     ],
     [
       "Enum class improvements for C++17, C++20 and C++23",
       "https://www.cppstories.com/2024/enum-improvements/"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 17:57:35",
+      "https://news.ycombinator.com/item?id=41155230"
+    ],
+    [
+      "A primer on the current state of longevity research",
+      "https://www.owlposting.com/p/some-questions-and-answers-i-had"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-08-04, 14:50:00",
-      "https://news.ycombinator.com/item?id=41153902"
-    ],
-    [
-      "Chinese archaeologists are striking out along the Silk Road",
-      "https://www.wsj.com/science/archaeology/china-reaches-back-in-time-to-challenge-the-west-way-way-back-236c4e90"
-    ]
-  ],
-  [
-    [
       "2024-08-04, 14:48:42",
       "https://news.ycombinator.com/item?id=41153892"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-08-04, 12:26:33",
-      "https://news.ycombinator.com/item?id=41153093"
-    ],
-    [
-      "The Untold Story of How US Spies Sabotaged Soviet Technology",
-      "https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126"
-    ]
-  ],
-  [
-    [
       "2024-08-04, 12:17:16",
       "https://news.ycombinator.com/item?id=41153039"
     ],
     [
       "Self-Compressing Neural Networks",
       "https://arxiv.org/abs/2301.13142"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 10:54:22",
-      "https://news.ycombinator.com/item?id=41152654"
-    ],
-    [
-      "You Can't Spell WebRTC Without RCE – Part 1",
-      "https://margin.re/2024/07/you-cant-spell-webrtc-without-rce-part-1/"
     ]
   ],
   [
