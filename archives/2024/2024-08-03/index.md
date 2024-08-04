@@ -28,6 +28,7 @@
 * [2024-08-03, 19:11:14](https://news.ycombinator.com/item?id=41148556) - [Lisp's Grandfather Paradox](https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html)
 * [2024-08-03, 19:07:15](https://news.ycombinator.com/item?id=41148532) - [TPU transformation: A look back at 10 years of our AI-specialized chips](https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai)
 * [2024-08-03, 19:05:02](https://news.ycombinator.com/item?id=41148517) - [How to Build Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
+* [2024-08-03, 18:54:48](https://news.ycombinator.com/item?id=41148450) - [Git: The Stupid Password Store](https://tylercipriani.com/blog/2024/07/31/git-as-a-password-prompt/)
 * [2024-08-03, 18:52:21](https://news.ycombinator.com/item?id=41148438) - [Manjaro Immutable Out Now for Community Testing](https://forum.manjaro.org/t/manjaro-immutable-out-now-for-community-testing/166364)
 * [2024-08-03, 18:06:27](https://news.ycombinator.com/item?id=41148164) - [The U.S. Wanted to Knock Down Huawei. It's Only Getting Stronger](https://www.wsj.com/business/telecom/huawei-china-technology-us-sanctions-76462031)
 * [2024-08-03, 18:05:36](https://news.ycombinator.com/item?id=41148160) - [Prover-Verifier Games improve legibility of LLM outputs](https://arxiv.org/abs/2407.13692)
