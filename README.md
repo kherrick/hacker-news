@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-04, 19:31:48](https://news.ycombinator.com/item?id=41155738) - [Does Sundar Pichai/Search team know how bad Google search is?](https://news.ycombinator.com/item?id=41155738)
 * [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
 * [2024-08-04, 17:49:08](https://news.ycombinator.com/item?id=41155177) - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
@@ -19,6 +18,7 @@
 * [2024-08-04, 12:15:37](https://news.ycombinator.com/item?id=41153035) - [Show HN: Candix, a confidential, reverse recruiting platform](https://candix.com)
 * [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 09:59:50](https://news.ycombinator.com/item?id=41152375) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
+* [2024-08-04, 09:26:46](https://news.ycombinator.com/item?id=41152198) - [HamClock – a real time space weather dashboard](https://www.clearskyinstitute.com/ham/HamClock/)
 * [2024-08-04, 07:54:22](https://news.ycombinator.com/item?id=41151825) - [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
 * [2024-08-04, 07:46:11](https://news.ycombinator.com/item?id=41151799) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
 * [2024-08-04, 06:24:53](https://news.ycombinator.com/item?id=41151476) - [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
