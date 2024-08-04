@@ -89,6 +89,7 @@
 * [2024-08-01, 05:19:12](https://news.ycombinator.com/item?id=41126380) - [Scenes of Reading on the Early Portrait Postcard](https://publicdomainreview.org/essay/scenes-of-reading-on-the-early-portrait-postcard/)
 * [2024-08-01, 04:59:21](https://news.ycombinator.com/item?id=41126307) - [Baidu's Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/abs/2407.19813)
 * [2024-08-01, 04:21:46](https://news.ycombinator.com/item?id=41126130) - [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
+* [2024-08-01, 03:56:13](https://news.ycombinator.com/item?id=41126015) - [Olympic surfing comes to a 'poisoned' paradise](https://www.nytimes.com/2024/07/30/world/olympics/olympics-tahiti-nuclear-testing.html)
 * [2024-08-01, 03:48:14](https://news.ycombinator.com/item?id=41125980) - [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
 * [2024-08-01, 03:41:14](https://news.ycombinator.com/item?id=41125954) - [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
 * [2024-08-01, 03:36:54](https://news.ycombinator.com/item?id=41125919) - [Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG](https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256)
