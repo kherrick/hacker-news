@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-08-04, 16:08:25](https://news.ycombinator.com/item?id=41154410) - [Show HN: Jailbroke my Kindle to use it as an e-ink monitor](https://twitter.com/adtac_/status/1820127470613622950)
 * [2024-08-04, 15:59:26](https://news.ycombinator.com/item?id=41154344) - [Google Says AI Olympics Ad 'Tested Well' Before Inspiring Outrage](https://gizmodo.com/google-says-ai-olympics-ad-tested-well-before-inspiring-outrage-2000482900)
+* [2024-08-04, 15:58:10](https://news.ycombinator.com/item?id=41154334) - [Making your own hot sauce](https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/)
 * [2024-08-04, 15:39:13](https://news.ycombinator.com/item?id=41154219) - [People High on Dark Triad Personality Traits Employ Distinct Defense Mechanisms](https://www.robkhenderson.com/p/people-with-dark-triad-personality)
 * [2024-08-04, 15:35:59](https://news.ycombinator.com/item?id=41154199) - [Gemini Ad Backlash](https://www.cbsnews.com/news/google-gemini-ai-dear-sydney-olympics-ad/)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
@@ -15,6 +17,7 @@
 * [2024-08-04, 15:03:22](https://news.ycombinator.com/item?id=41153980) - [Wasted Education: How We Fail Our Graduates in STEM [video]](https://www.youtube.com/watch?v=ZTWaSPzAgBA)
 * [2024-08-04, 14:50:00](https://news.ycombinator.com/item?id=41153902) - [China Reaches Back in Time to Challenge the West. Way, Way Back](https://www.wsj.com/science/archaeology/china-reaches-back-in-time-to-challenge-the-west-way-way-back-236c4e90)
 * [2024-08-04, 14:48:42](https://news.ycombinator.com/item?id=41153892) - [Written by a 16 year old, a book on how computers work](https://github.com/hackclub/RAM-a-thon)
+* [2024-08-04, 14:15:00](https://news.ycombinator.com/item?id=41153712) - [Show HN: KittyCal – minimalist PWA calendar app for couples](https://kittycal.net)
 * [2024-08-04, 13:50:42](https://news.ycombinator.com/item?id=41153532) - [Not Another Technical Debt Article](https://jimmyhmiller.github.io/not-another-technical-debt-article)
 * [2024-08-04, 13:41:29](https://news.ycombinator.com/item?id=41153473) - [Why Is the EdTech Industry So Damn Soft?](https://www.justinmath.com/why-is-the-edtech-industry-so-damn-soft/)
 * [2024-08-04, 12:45:44](https://news.ycombinator.com/item?id=41153177) - [FreeBSD Desktop Series](https://vermaden.wordpress.com/freebsd-desktop/)
@@ -24,6 +27,7 @@
 * [2024-08-04, 12:20:53](https://news.ycombinator.com/item?id=41153054) - [Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
 * [2024-08-04, 12:15:37](https://news.ycombinator.com/item?id=41153035) - [Show HN: Candix, a confidential, reverse recruiting platform](https://candix.com)
+* [2024-08-04, 10:54:22](https://news.ycombinator.com/item?id=41152654) - [You Can't Spell WebRTC Without RCE – Part 1](https://margin.re/2024/07/you-cant-spell-webrtc-without-rce-part-1/)
 * [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 09:59:50](https://news.ycombinator.com/item?id=41152375) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 * [2024-08-04, 09:52:29](https://news.ycombinator.com/item?id=41152340) - [Big Tech groups say their $100B AI spending spree is just beginning](https://www.ft.com/content/b7037ce1-4319-4a4a-8767-0b1373cec9ce)
