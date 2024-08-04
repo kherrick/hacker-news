@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-04, 02:03:59](https://news.ycombinator.com/item?id=41150697) - [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
+* [2024-08-04, 00:49:49](https://news.ycombinator.com/item?id=41150372) - [Automating away the boring parts of my job with Gemini 1.5 Pro and long context](https://medium.com/@webpaige/automating-away-the-boring-parts-of-my-job-with-gemini-1-5-pro-long-context-windows-6d5a1d9a6f38)
 * [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use AI (Nicholas Carlini)](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-04, 00:29:27](https://news.ycombinator.com/item?id=41150278) - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
 * [2024-08-04, 00:28:44](https://news.ycombinator.com/item?id=41150275) - [LLM as Database Administrator](https://arxiv.org/abs/2312.01454)
@@ -9,7 +10,6 @@
 * [2024-08-03, 23:10:17](https://news.ycombinator.com/item?id=41149974) - [Can reading make you happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
 * [2024-08-03, 23:05:56](https://news.ycombinator.com/item?id=41149948) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
 * [2024-08-03, 23:02:33](https://news.ycombinator.com/item?id=41149931) - [Non-computability of solutions of certain equations on digital computers (2022)](https://arxiv.org/abs/2205.12626)
-* [2024-08-03, 22:57:47](https://news.ycombinator.com/item?id=41149906) - [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
 * [2024-08-03, 22:51:31](https://news.ycombinator.com/item?id=41149882) - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 * [2024-08-03, 22:40:47](https://news.ycombinator.com/item?id=41149832) - [The First Law of Complexodynamics (2011)](https://scottaaronson.blog/?p=762)
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
