@@ -16,7 +16,6 @@
 * [2024-08-04, 12:41:33](https://news.ycombinator.com/item?id=41153158) - [Belenios: Verifiable online voting system](https://www.belenios.org/)
 * [2024-08-04, 12:26:33](https://news.ycombinator.com/item?id=41153093) - [The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
-* [2024-08-04, 12:15:37](https://news.ycombinator.com/item?id=41153035) - [Show HN: Candix, a confidential, reverse recruiting platform](https://candix.com)
 * [2024-08-04, 10:54:22](https://news.ycombinator.com/item?id=41152654) - [You Can't Spell WebRTC Without RCE – Part 1](https://margin.re/2024/07/you-cant-spell-webrtc-without-rce-part-1/)
 * [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 09:59:50](https://news.ycombinator.com/item?id=41152375) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
@@ -30,6 +29,7 @@
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
 * [2024-08-03, 22:42:21](https://news.ycombinator.com/item?id=41149842) - [Errors Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
 * [2024-08-01, 22:18:10](https://news.ycombinator.com/item?id=41134218) - [Ken Leishman](https://en.wikipedia.org/wiki/Ken_Leishman)
+* [2024-07-31, 16:42:12](https://news.ycombinator.com/item?id=41120789) - [I Miss Lorina Bulwer: A hand-stitched letter of note](https://news.lettersofnote.com/p/i-miss-lorina-bulwer)
 
 ## [Archives](archives/index.md)
 
