@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
 * [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 * [2024-08-04, 16:08:25](https://news.ycombinator.com/item?id=41154410) - [Show HN: Jailbroke my Kindle to use it as an e-ink monitor](https://twitter.com/adtac_/status/1820127470613622950)
 * [2024-08-04, 15:59:26](https://news.ycombinator.com/item?id=41154344) - [Google Says AI Olympics Ad 'Tested Well' Before Inspiring Outrage](https://gizmodo.com/google-says-ai-olympics-ad-tested-well-before-inspiring-outrage-2000482900)
 * [2024-08-04, 15:58:10](https://news.ycombinator.com/item?id=41154334) - [Making your own hot sauce](https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/)
