@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-04, 21:38:23",
+      "https://news.ycombinator.com/item?id=41156514"
+    ],
+    [
+      "Nvidia's Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms",
+      "https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 21:31:03",
       "https://news.ycombinator.com/item?id=41156478"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2024-08-04, 20:43:49",
+      "https://news.ycombinator.com/item?id=41156208"
+    ],
+    [
+      "Baron who revived Olympics believed they were a religion of perfection and peace",
+      "https://theconversation.com/the-french-baron-who-revived-the-olympics-believed-they-were-more-than-sport-they-were-a-religion-of-perfection-and-peace-233630"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 20:42:03",
       "https://news.ycombinator.com/item?id=41156194"
     ],
     [
       "Romram: Using QSPI RAM with RP2040's SSI in read-write mode",
       "http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 20:27:50",
+      "https://news.ycombinator.com/item?id=41156104"
+    ],
+    [
+      "Puget Systems' Perspective on Intel CPU Instability Issues",
+      "https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-08-04, 14:48:42",
-      "https://news.ycombinator.com/item?id=41153892"
-    ],
-    [
-      "Written by a 16 year old, a book on how computers work",
-      "https://github.com/hackclub/RAM-a-thon"
-    ]
-  ],
-  [
-    [
       "2024-08-04, 14:15:00",
       "https://news.ycombinator.com/item?id=41153712"
     ],
@@ -277,26 +297,6 @@
     [
       "Evaluating a class of infinite sums in closed form",
       "https://www.johndcook.com/blog/2024/08/03/polylog/"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 23:37:52",
-      "https://news.ycombinator.com/item?id=41150095"
-    ],
-    [
-      "Open Source Farming Robot",
-      "https://farm.bot/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 22:18:10",
-      "https://news.ycombinator.com/item?id=41134218"
-    ],
-    [
-      "Ken Leishman",
-      "https://en.wikipedia.org/wiki/Ken_Leishman"
     ]
   ]
 ]
