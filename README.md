@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
 * [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
@@ -15,7 +16,7 @@
 * [2024-08-04, 09:59:50](https://news.ycombinator.com/item?id=41152375) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 * [2024-08-04, 09:26:46](https://news.ycombinator.com/item?id=41152198) - [HamClock – a real time space weather dashboard](https://www.clearskyinstitute.com/ham/HamClock/)
 * [2024-08-04, 06:24:53](https://news.ycombinator.com/item?id=41151476) - [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
-* [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use AI (Nicholas Carlini)](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+* [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
 * [2024-08-03, 23:10:17](https://news.ycombinator.com/item?id=41149974) - [Can reading make you happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
@@ -24,7 +25,6 @@
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 14:28:45](https://news.ycombinator.com/item?id=41146779) - [Techniques used by developers to bypass App Store review](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
-* [2024-08-03, 13:57:49](https://news.ycombinator.com/item?id=41146642) - [To preserve their work journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-02, 18:12:55](https://news.ycombinator.com/item?id=41141163) - [How Diaries Evolved from Lists to Personal Histories](https://slate.com/culture/2024/07/book-author-roland-allen-explains-the-history-of-the-diary-in-the-notebook-a-history-of-thinking-on-paper.html)
 * [2024-08-01, 18:09:23](https://news.ycombinator.com/item?id=41131860) - [Review of Dark Star: A New History of the Space Shuttle](https://www.thespacereview.com/article/4738/1)
