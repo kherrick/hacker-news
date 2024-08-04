@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [racket/rhombus: \"We're now officially in the \"integration\" phase for Rhombus.\"](https://github.com/racket/rhombus/discussions/521)
-* [2024-08-04, 06:07:44](https://news.ycombinator.com/item?id=41151429) - [Why the international experimental nuclear fusion reactor is in 'big trouble'](https://www.theguardian.com/technology/article/2024/aug/03/is-the-dream-of-nuclear-fusion-dead-why-the-international-experimental-reactor-is-in-big-trouble)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 * [2024-08-04, 04:30:21](https://news.ycombinator.com/item?id=41151147) - [Australia must treat housing as a human right: Former State Supreme Court judge](https://www.abc.net.au/news/2024-08-04/housing-is-a-human-right-says-former-vic-supreme-court-judge/104179612)
 * [2024-08-04, 00:29:27](https://news.ycombinator.com/item?id=41150278) - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
@@ -18,6 +17,7 @@
 * [2024-08-03, 19:13:59](https://news.ycombinator.com/item?id=41148575) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-08-03, 19:07:15](https://news.ycombinator.com/item?id=41148532) - [TPU transformation: A look back at 10 years of our AI-specialized chips](https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai)
 * [2024-08-03, 19:05:02](https://news.ycombinator.com/item?id=41148517) - [How to build quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
+* [2024-08-03, 18:54:48](https://news.ycombinator.com/item?id=41148450) - [Git: The Stupid Password Store](https://tylercipriani.com/blog/2024/07/31/git-as-a-password-prompt/)
 * [2024-08-03, 18:05:36](https://news.ycombinator.com/item?id=41148160) - [Prover-Verifier Games improve legibility of LLM outputs](https://arxiv.org/abs/2407.13692)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
