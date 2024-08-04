@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 19:19:21](https://news.ycombinator.com/item?id=41155639) - [A Wealthy Couple Became Local Pariahs After Poisoning Their Neighbor's Trees](https://www.wsj.com/us-news/a-wealthy-couple-became-local-pariahs-after-poisoning-their-neighbors-trees-0bdf4791)
 * [2024-08-04, 19:09:22](https://news.ycombinator.com/item?id=41155587) - [Rich, western countries face a stark choice: 6-day workweeks or more immigration](https://fortune.com/2024/08/04/rich-western-countries-face-a-stark-choice-6-day-workweeks-or-more-immigration-top-economist-warns/)
 * [2024-08-04, 18:25:11](https://news.ycombinator.com/item?id=41155376) - [Berkshire halves Apple stake, boosts cash to $277B as it gets 'defensive'](https://www.reuters.com/business/finance/berkshires-cash-hits-277-bln-buffett-slashes-apple-stake-operating-profit-sets-2024-08-03/)
 * [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
