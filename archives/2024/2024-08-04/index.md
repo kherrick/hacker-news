@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
 * [2024-08-04, 14:48:42](https://news.ycombinator.com/item?id=41153892) - [Written by a 16 year old, a book on how computers work](https://github.com/hackclub/RAM-a-thon)
+* [2024-08-04, 13:50:42](https://news.ycombinator.com/item?id=41153532) - [Not Another Technical Debt Article](https://jimmyhmiller.github.io/not-another-technical-debt-article)
 * [2024-08-04, 12:45:44](https://news.ycombinator.com/item?id=41153177) - [FreeBSD Desktop Series](https://vermaden.wordpress.com/freebsd-desktop/)
 * [2024-08-04, 12:41:33](https://news.ycombinator.com/item?id=41153158) - [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
 * [2024-08-04, 12:39:53](https://news.ycombinator.com/item?id=41153147) - [AI Personal Assistant with RAG and LLM](https://github.com/mytechnotalent/pa)
