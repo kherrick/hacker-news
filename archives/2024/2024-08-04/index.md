@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 20:09:37](https://news.ycombinator.com/item?id=41155996) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
 * [2024-08-04, 19:31:48](https://news.ycombinator.com/item?id=41155738) - [Does Sundar Pichai/Search team know how bad Google search is?](https://news.ycombinator.com/item?id=41155738)
 * [2024-08-04, 19:19:21](https://news.ycombinator.com/item?id=41155639) - [A Wealthy Couple Became Local Pariahs After Poisoning Their Neighbor's Trees](https://www.wsj.com/us-news/a-wealthy-couple-became-local-pariahs-after-poisoning-their-neighbors-trees-0bdf4791)
 * [2024-08-04, 19:09:22](https://news.ycombinator.com/item?id=41155587) - [Rich, western countries face a stark choice: 6-day workweeks or more immigration](https://fortune.com/2024/08/04/rich-western-countries-face-a-stark-choice-6-day-workweeks-or-more-immigration-top-economist-warns/)
