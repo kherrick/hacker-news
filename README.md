@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-04, 21:31:03](https://news.ycombinator.com/item?id=41156478) - [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
 * [2024-08-04, 21:30:00](https://news.ycombinator.com/item?id=41156474) - [Cortex A73's Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
 * [2024-08-04, 20:42:03](https://news.ycombinator.com/item?id=41156194) - [Romram: Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 * [2024-08-04, 20:09:37](https://news.ycombinator.com/item?id=41155996) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
@@ -28,7 +29,6 @@
 * [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
-* [2024-08-03, 22:42:21](https://news.ycombinator.com/item?id=41149842) - [Errors Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
 * [2024-08-01, 22:18:10](https://news.ycombinator.com/item?id=41134218) - [Ken Leishman](https://en.wikipedia.org/wiki/Ken_Leishman)
 
 ## [Archives](archives/index.md)
