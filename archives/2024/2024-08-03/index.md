@@ -13,6 +13,7 @@
 * [2024-08-03, 22:57:47](https://news.ycombinator.com/item?id=41149906) - [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
 * [2024-08-03, 22:52:26](https://news.ycombinator.com/item?id=41149886) - [6.893 Philosophy and Theoretical Computer Science](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html)
 * [2024-08-03, 22:51:31](https://news.ycombinator.com/item?id=41149882) - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
+* [2024-08-03, 22:42:21](https://news.ycombinator.com/item?id=41149842) - [Errors Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
 * [2024-08-03, 22:40:47](https://news.ycombinator.com/item?id=41149832) - [The First Law of Complexodynamics (2011)](https://scottaaronson.blog/?p=762)
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
 * [2024-08-03, 21:21:12](https://news.ycombinator.com/item?id=41149340) - [Antarctica's winter is now 50F hotter than it used to be](https://www.cnn.com/2024/08/03/climate/antarctica-heat-wave-sea-level-rise/index.html)

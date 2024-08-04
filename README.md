@@ -27,9 +27,9 @@
 * [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 * [2024-08-03, 23:37:52](https://news.ycombinator.com/item?id=41150095) - [Open Source Farming Robot](https://farm.bot/)
+* [2024-08-03, 22:42:21](https://news.ycombinator.com/item?id=41149842) - [Errors Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
 * [2024-08-01, 22:18:10](https://news.ycombinator.com/item?id=41134218) - [Ken Leishman](https://en.wikipedia.org/wiki/Ken_Leishman)
 * [2024-08-01, 18:09:23](https://news.ycombinator.com/item?id=41131860) - [Review of Dark Star: A New History of the Space Shuttle](https://www.thespacereview.com/article/4738/1)
-* [2024-07-31, 16:42:12](https://news.ycombinator.com/item?id=41120789) - [I Miss Lorina Bulwer: A hand-stitched letter of note](https://news.lettersofnote.com/p/i-miss-lorina-bulwer)
 
 ## [Archives](archives/index.md)
 
