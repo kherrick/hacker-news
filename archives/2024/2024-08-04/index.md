@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
 * [2024-08-04, 03:52:17](https://news.ycombinator.com/item?id=41151057) - [Programming with Punch Cards [pdf]](https://web.archive.org/web/20090325223903/https://www.columbia.edu/acis/history/fisk.pdf)
+* [2024-08-04, 03:42:40](https://news.ycombinator.com/item?id=41151033) - [The Introverts Are Winning](https://newhumanist.org.uk/articles/6306/the-introverts-are-winning)
 * [2024-08-04, 02:03:59](https://news.ycombinator.com/item?id=41150697) - [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
 * [2024-08-04, 01:10:01](https://news.ycombinator.com/item?id=41150451) - [\"Grip Car\"](https://teenage.engineering/products/grip-car)
 * [2024-08-04, 00:49:49](https://news.ycombinator.com/item?id=41150372) - [Automating away the boring parts of my job with Gemini 1.5 Pro and long context](https://medium.com/@webpaige/automating-away-the-boring-parts-of-my-job-with-gemini-1-5-pro-long-context-windows-6d5a1d9a6f38)

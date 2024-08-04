@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-04, 03:52:17](https://news.ycombinator.com/item?id=41151057) - [Programming with Punch Cards [pdf]](https://web.archive.org/web/20090325223903/https://www.columbia.edu/acis/history/fisk.pdf)
+* [2024-08-04, 03:42:40](https://news.ycombinator.com/item?id=41151033) - [The Introverts Are Winning](https://newhumanist.org.uk/articles/6306/the-introverts-are-winning)
 * [2024-08-04, 02:03:59](https://news.ycombinator.com/item?id=41150697) - [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
 * [2024-08-04, 01:10:01](https://news.ycombinator.com/item?id=41150451) - [\"Grip Car\"](https://teenage.engineering/products/grip-car)
 * [2024-08-04, 00:42:28](https://news.ycombinator.com/item?id=41150337) - [GTA 3 is being ported to the Sega Dreamcast](https://twitter.com/falco_girgis/status/1819686371528720481)
@@ -12,7 +13,6 @@
 * [2024-08-03, 23:05:56](https://news.ycombinator.com/item?id=41149948) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
 * [2024-08-03, 23:02:33](https://news.ycombinator.com/item?id=41149931) - [Non-computability of solutions of certain equations on digital computers (2022)](https://arxiv.org/abs/2205.12626)
 * [2024-08-03, 22:51:31](https://news.ycombinator.com/item?id=41149882) - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
-* [2024-08-03, 22:40:47](https://news.ycombinator.com/item?id=41149832) - [The First Law of Complexodynamics (2011)](https://scottaaronson.blog/?p=762)
 * [2024-08-03, 21:27:47](https://news.ycombinator.com/item?id=41149377) - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
 * [2024-08-03, 19:25:58](https://news.ycombinator.com/item?id=41148650) - [Make your electronics tamper-evident](https://www.anarsec.guide/posts/tamper/)
 * [2024-08-03, 19:23:09](https://news.ycombinator.com/item?id=41148633) - [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
