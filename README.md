@@ -18,7 +18,6 @@
 * [2024-08-03, 19:13:59](https://news.ycombinator.com/item?id=41148575) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-08-03, 19:07:15](https://news.ycombinator.com/item?id=41148532) - [TPU transformation: A look back at 10 years of our AI-specialized chips](https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai)
 * [2024-08-03, 19:05:02](https://news.ycombinator.com/item?id=41148517) - [How to build quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
-* [2024-08-03, 18:54:48](https://news.ycombinator.com/item?id=41148450) - [Git: The Stupid Password Store](https://tylercipriani.com/blog/2024/07/31/git-as-a-password-prompt/)
 * [2024-08-03, 18:05:36](https://news.ycombinator.com/item?id=41148160) - [Prover-Verifier Games improve legibility of LLM outputs](https://arxiv.org/abs/2407.13692)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
@@ -30,6 +29,7 @@
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-02, 18:57:05](https://news.ycombinator.com/item?id=41141553) - [Discovering algorithms by enumerating terms in Haskell](https://twitter.com/VictorTaelin/status/1819208143638831404)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
+* [2024-08-01, 19:57:11](https://news.ycombinator.com/item?id=41132937) - [From McMurdo Sound to Flanders Fields](https://nathangoldwag.wordpress.com/2024/08/01/from-mcmurdo-sound-to-flanders-fields-the-end-of-the-heroic-age-of-antarctic-exploration/)
 
 ## [Archives](archives/index.md)
 
