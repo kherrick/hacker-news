@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 21:30:00](https://news.ycombinator.com/item?id=41156474) - [Cortex A73's Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
+* [2024-08-04, 20:42:03](https://news.ycombinator.com/item?id=41156194) - [Romram: Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 * [2024-08-04, 20:09:37](https://news.ycombinator.com/item?id=41155996) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
 * [2024-08-04, 19:31:48](https://news.ycombinator.com/item?id=41155738) - [Does Sundar Pichai/Search team know how bad Google search is?](https://news.ycombinator.com/item?id=41155738)
 * [2024-08-04, 19:19:21](https://news.ycombinator.com/item?id=41155639) - [A Wealthy Couple Became Local Pariahs After Poisoning Their Neighbor's Trees](https://www.wsj.com/us-news/a-wealthy-couple-became-local-pariahs-after-poisoning-their-neighbors-trees-0bdf4791)
 * [2024-08-04, 19:09:22](https://news.ycombinator.com/item?id=41155587) - [Rich, western countries face a stark choice: 6-day workweeks or more immigration](https://fortune.com/2024/08/04/rich-western-countries-face-a-stark-choice-6-day-workweeks-or-more-immigration-top-economist-warns/)
 * [2024-08-04, 18:25:11](https://news.ycombinator.com/item?id=41155376) - [Berkshire halves Apple stake, boosts cash to $277B as it gets 'defensive'](https://www.reuters.com/business/finance/berkshires-cash-hits-277-bln-buffett-slashes-apple-stake-operating-profit-sets-2024-08-03/)
+* [2024-08-04, 17:57:35](https://news.ycombinator.com/item?id=41155230) - [A primer on the current state of longevity research](https://www.owlposting.com/p/some-questions-and-answers-i-had)
 * [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
 * [2024-08-04, 17:49:08](https://news.ycombinator.com/item?id=41155177) - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
