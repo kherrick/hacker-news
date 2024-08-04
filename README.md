@@ -4,13 +4,14 @@
 * [2024-08-04, 21:38:23](https://news.ycombinator.com/item?id=41156514) - [Nvidia's Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
 * [2024-08-04, 21:31:03](https://news.ycombinator.com/item?id=41156478) - [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
 * [2024-08-04, 21:30:00](https://news.ycombinator.com/item?id=41156474) - [Cortex A73's Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
+* [2024-08-04, 20:46:15](https://news.ycombinator.com/item?id=41156222) - [Qub – a framework for building websites with QBasic](https://github.com/jamonholmgren/qub)
 * [2024-08-04, 20:43:49](https://news.ycombinator.com/item?id=41156208) - [Baron who revived Olympics believed they were a religion of perfection and peace](https://theconversation.com/the-french-baron-who-revived-the-olympics-believed-they-were-more-than-sport-they-were-a-religion-of-perfection-and-peace-233630)
 * [2024-08-04, 20:42:03](https://news.ycombinator.com/item?id=41156194) - [Romram: Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 * [2024-08-04, 20:27:50](https://news.ycombinator.com/item?id=41156104) - [Puget Systems' Perspective on Intel CPU Instability Issues](https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/)
 * [2024-08-04, 20:09:37](https://news.ycombinator.com/item?id=41155996) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
+* [2024-08-04, 19:29:39](https://news.ycombinator.com/item?id=41155718) - [The Spartan Protocol Homepage](http://portal.mozz.us/gemini/spartan.mozz.us/)
 * [2024-08-04, 17:57:35](https://news.ycombinator.com/item?id=41155230) - [A primer on the current state of longevity research](https://www.owlposting.com/p/some-questions-and-answers-i-had)
 * [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
-* [2024-08-04, 17:49:08](https://news.ycombinator.com/item?id=41155177) - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
 * [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
@@ -29,7 +30,6 @@
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 * [2024-08-04, 00:37:53](https://news.ycombinator.com/item?id=41150317) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
-* [2024-08-01, 22:18:10](https://news.ycombinator.com/item?id=41134218) - [Ken Leishman](https://en.wikipedia.org/wiki/Ken_Leishman)
 
 ## [Archives](archives/index.md)
 
