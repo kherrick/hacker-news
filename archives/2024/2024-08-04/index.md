@@ -13,6 +13,7 @@
 * [2024-08-04, 15:09:44](https://news.ycombinator.com/item?id=41154033) - [A WA Tax Break for Data Centers Became One of Their Biggest Corporate Giveaways](https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break)
 * [2024-08-04, 15:07:40](https://news.ycombinator.com/item?id=41154012) - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 * [2024-08-04, 15:03:22](https://news.ycombinator.com/item?id=41153980) - [Wasted Education: How We Fail Our Graduates in STEM [video]](https://www.youtube.com/watch?v=ZTWaSPzAgBA)
+* [2024-08-04, 14:50:00](https://news.ycombinator.com/item?id=41153902) - [China Reaches Back in Time to Challenge the West. Way, Way Back](https://www.wsj.com/science/archaeology/china-reaches-back-in-time-to-challenge-the-west-way-way-back-236c4e90)
 * [2024-08-04, 14:48:42](https://news.ycombinator.com/item?id=41153892) - [Written by a 16 year old, a book on how computers work](https://github.com/hackclub/RAM-a-thon)
 * [2024-08-04, 13:50:42](https://news.ycombinator.com/item?id=41153532) - [Not Another Technical Debt Article](https://jimmyhmiller.github.io/not-another-technical-debt-article)
 * [2024-08-04, 13:41:29](https://news.ycombinator.com/item?id=41153473) - [Why Is the EdTech Industry So Damn Soft?](https://www.justinmath.com/why-is-the-edtech-industry-so-damn-soft/)
