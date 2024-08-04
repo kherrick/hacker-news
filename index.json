@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-08-04, 12:45:44",
-      "https://news.ycombinator.com/item?id=41153177"
+      "2024-08-04, 12:26:33",
+      "https://news.ycombinator.com/item?id=41153093"
     ],
     [
-      "FreeBSD Desktop Series",
-      "https://vermaden.wordpress.com/freebsd-desktop/"
+      "The Untold Story of How US Spies Sabotaged Soviet Technology",
+      "https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126"
     ]
   ],
   [
     [
-      "2024-08-04, 07:26:27",
-      "https://news.ycombinator.com/item?id=41151718"
+      "2024-08-04, 06:50:52",
+      "https://news.ycombinator.com/item?id=41151572"
     ],
     [
-      "GitHub Copilot – Lessons",
-      "https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6"
+      "Introduction to Kubernetes (k8) – a quick lookback",
+      "https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/"
     ]
   ],
   [
@@ -27,6 +27,26 @@
     [
       "USB Sniffer Lite for RP2040",
       "https://github.com/ataradov/usb-sniffer-lite"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 06:07:44",
+      "https://news.ycombinator.com/item?id=41151429"
+    ],
+    [
+      "Why the international experimental nuclear fusion reactor is in 'big trouble'",
+      "https://www.theguardian.com/technology/article/2024/aug/03/is-the-dream-of-nuclear-fusion-dead-why-the-international-experimental-reactor-is-in-big-trouble"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 01:10:01",
+      "https://news.ycombinator.com/item?id=41150451"
+    ],
+    [
+      "\"Grip Car\"",
+      "https://teenage.engineering/products/grip-car"
     ]
   ],
   [
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2024-08-03, 23:05:56",
-      "https://news.ycombinator.com/item?id=41149948"
-    ],
-    [
-      "Upgrading my Chumby 8 kernel part 13: the end",
-      "https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 23:02:33",
       "https://news.ycombinator.com/item?id=41149931"
     ],
     [
       "Non-computability of solutions of certain equations on digital computers (2022)",
       "https://arxiv.org/abs/2205.12626"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 22:51:31",
-      "https://news.ycombinator.com/item?id=41149882"
-    ],
-    [
-      "Reverse engineering XC2064, the first FPGA  (2020)",
-      "https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html"
     ]
   ],
   [
