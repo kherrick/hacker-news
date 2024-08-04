@@ -32,6 +32,7 @@
 * [2024-08-03, 18:52:21](https://news.ycombinator.com/item?id=41148438) - [Manjaro Immutable Out Now for Community Testing](https://forum.manjaro.org/t/manjaro-immutable-out-now-for-community-testing/166364)
 * [2024-08-03, 18:06:27](https://news.ycombinator.com/item?id=41148164) - [The U.S. Wanted to Knock Down Huawei. It's Only Getting Stronger](https://www.wsj.com/business/telecom/huawei-china-technology-us-sanctions-76462031)
 * [2024-08-03, 18:05:36](https://news.ycombinator.com/item?id=41148160) - [Prover-Verifier Games improve legibility of LLM outputs](https://arxiv.org/abs/2407.13692)
+* [2024-08-03, 17:50:13](https://news.ycombinator.com/item?id=41148073) - [Computer Archeology: Exploring the Anatomy of an MS-DOS Virus](https://www.metacodes.pro/blog/computer_archeology_exploring_the_anatomy_of_an_ms_dos_virus/)
 * [2024-08-03, 17:39:19](https://news.ycombinator.com/item?id=41148002) - [Probability Estimates of a 21st Century AMOC Collapse](https://arxiv.org/abs/2406.11738)
 * [2024-08-03, 17:19:28](https://news.ycombinator.com/item?id=41147862) - [From React to Htmx on a real-world SaaS product (2022) [video]](https://www.youtube.com/watch?v=3GObi93tjZI)
 * [2024-08-03, 17:15:26](https://news.ycombinator.com/item?id=41147830) - [Show HN: Plain Vanilla – a tutorial website for vanilla web development](https://plainvanillaweb.com/)

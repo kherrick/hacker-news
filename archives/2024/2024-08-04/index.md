@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 15:07:40](https://news.ycombinator.com/item?id=41154012) - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 * [2024-08-04, 14:48:42](https://news.ycombinator.com/item?id=41153892) - [Written by a 16 year old, a book on how computers work](https://github.com/hackclub/RAM-a-thon)
 * [2024-08-04, 13:50:42](https://news.ycombinator.com/item?id=41153532) - [Not Another Technical Debt Article](https://jimmyhmiller.github.io/not-another-technical-debt-article)
 * [2024-08-04, 12:45:44](https://news.ycombinator.com/item?id=41153177) - [FreeBSD Desktop Series](https://vermaden.wordpress.com/freebsd-desktop/)
