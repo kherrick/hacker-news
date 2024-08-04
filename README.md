@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-04, 06:30:42](https://news.ycombinator.com/item?id=41151494) - [Computers are amazing. So why is software so terrible?](https://handmade.network/manifesto)
 * [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [racket/rhombus: \"We're now officially in the \"integration\" phase for Rhombus.\"](https://github.com/racket/rhombus/discussions/521)
 * [2024-08-04, 06:07:44](https://news.ycombinator.com/item?id=41151429) - [Why the international experimental nuclear fusion reactor is in 'big trouble'](https://www.theguardian.com/technology/article/2024/aug/03/is-the-dream-of-nuclear-fusion-dead-why-the-international-experimental-reactor-is-in-big-trouble)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
@@ -25,7 +26,6 @@
 * [2024-08-03, 14:28:45](https://news.ycombinator.com/item?id=41146779) - [Techniques used by developers to bypass App Store review](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
 * [2024-08-03, 13:57:49](https://news.ycombinator.com/item?id=41146642) - [To preserve their work journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
 * [2024-08-03, 13:40:07](https://news.ycombinator.com/item?id=41146563) - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
-* [2024-08-03, 12:59:46](https://news.ycombinator.com/item?id=41146393) - [Go Donut: Convert Live Streaming to WebRTC](https://github.com/flavioribeiro/donut)
 * [2024-08-03, 12:32:01](https://news.ycombinator.com/item?id=41146278) - [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:26:03](https://news.ycombinator.com/item?id=41146239) - [\"We ran out of columns\"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-02, 18:57:05](https://news.ycombinator.com/item?id=41141553) - [Discovering algorithms by enumerating terms in Haskell](https://twitter.com/VictorTaelin/status/1819208143638831404)
