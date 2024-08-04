@@ -43,6 +43,7 @@
 * [2024-08-04, 08:50:50](https://news.ycombinator.com/item?id=41152040) - [The Academic Culture of Fraud](https://www.palladiummag.com/2024/08/02/the-academic-culture-of-fraud/)
 * [2024-08-04, 08:19:27](https://news.ycombinator.com/item?id=41151933) - [Passengers at EU Airports Not Allowed over 100ml of Liquids on Cabin Luggage](https://schengen.news/passengers-at-eu-airports-not-allowed-to-carry-over-100ml-of-liquids-on-cabin-luggage-as-of-september-1/)
 * [2024-08-04, 07:54:22](https://news.ycombinator.com/item?id=41151825) - [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
+* [2024-08-04, 07:46:11](https://news.ycombinator.com/item?id=41151799) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
 * [2024-08-04, 07:26:27](https://news.ycombinator.com/item?id=41151718) - [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
 * [2024-08-04, 07:18:01](https://news.ycombinator.com/item?id=41151687) - [I made my personal website](https://www.mandar.fun/)
 * [2024-08-04, 06:50:52](https://news.ycombinator.com/item?id=41151572) - [Introduction to Kubernetes (k8) – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
