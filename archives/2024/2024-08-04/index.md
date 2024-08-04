@@ -49,6 +49,7 @@
 * [2024-08-04, 06:30:42](https://news.ycombinator.com/item?id=41151494) - [Computers are amazing. So why is software so terrible?](https://handmade.network/manifesto)
 * [2024-08-04, 06:24:53](https://news.ycombinator.com/item?id=41151476) - [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
 * [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [racket/rhombus: \"We're now officially in the \"integration\" phase for Rhombus.\"](https://github.com/racket/rhombus/discussions/521)
+* [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [Rhombus: Macro-extensible language with conventional syntax built on Racket](https://docs.racket-lang.org/rhombus/index.html)
 * [2024-08-04, 06:07:44](https://news.ycombinator.com/item?id=41151429) - [Why the international experimental nuclear fusion reactor is in 'big trouble'](https://www.theguardian.com/technology/article/2024/aug/03/is-the-dream-of-nuclear-fusion-dead-why-the-international-experimental-reactor-is-in-big-trouble)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 * [2024-08-04, 04:55:28](https://news.ycombinator.com/item?id=41151232) - [Why Old Sports Photos Often Have a Blue Haze (2015)](https://petapixel.com/2015/10/15/why-old-sports-photos-often-have-a-blue-haze/)
