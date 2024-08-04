@@ -11,6 +11,7 @@
 * [2024-08-04, 12:39:53](https://news.ycombinator.com/item?id=41153147) - [AI Personal Assistant with RAG and LLM](https://github.com/mytechnotalent/pa)
 * [2024-08-04, 12:26:33](https://news.ycombinator.com/item?id=41153093) - [The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
 * [2024-08-04, 12:20:53](https://news.ycombinator.com/item?id=41153054) - [Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
+* [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
 * [2024-08-04, 12:15:37](https://news.ycombinator.com/item?id=41153035) - [Show HN: Candix, a confidential, reverse recruiting platform](https://candix.com)
 * [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 09:59:50](https://news.ycombinator.com/item?id=41152375) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
