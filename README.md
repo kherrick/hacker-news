@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-04, 08:50:50](https://news.ycombinator.com/item?id=41152040) - [The Academic Culture of Fraud](https://www.palladiummag.com/2024/08/02/the-academic-culture-of-fraud/)
 * [2024-08-04, 07:26:27](https://news.ycombinator.com/item?id=41151718) - [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
 * [2024-08-04, 06:50:52](https://news.ycombinator.com/item?id=41151572) - [Introduction to Kubernetes (k8) – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
 * [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [racket/rhombus: \"We're now officially in the \"integration\" phase for Rhombus.\"](https://github.com/racket/rhombus/discussions/521)
@@ -18,7 +19,6 @@
 * [2024-08-03, 19:13:59](https://news.ycombinator.com/item?id=41148575) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-08-03, 19:07:15](https://news.ycombinator.com/item?id=41148532) - [TPU transformation: A look back at 10 years of our AI-specialized chips](https://cloud.google.com/blog/transform/ai-specialized-chips-tpu-history-gen-ai)
 * [2024-08-03, 19:05:02](https://news.ycombinator.com/item?id=41148517) - [How to build quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
-* [2024-08-03, 18:54:48](https://news.ycombinator.com/item?id=41148450) - [Git: The Stupid Password Store](https://tylercipriani.com/blog/2024/07/31/git-as-a-password-prompt/)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 14:28:45](https://news.ycombinator.com/item?id=41146779) - [Techniques used by developers to bypass App Store review](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
