@@ -11,6 +11,7 @@
 * [2024-08-04, 07:18:01](https://news.ycombinator.com/item?id=41151687) - [I made my personal website](https://www.mandar.fun/)
 * [2024-08-04, 06:50:52](https://news.ycombinator.com/item?id=41151572) - [Introduction to Kubernetes (k8) – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
 * [2024-08-04, 06:30:42](https://news.ycombinator.com/item?id=41151494) - [Computers are amazing. So why is software so terrible?](https://handmade.network/manifesto)
+* [2024-08-04, 06:24:53](https://news.ycombinator.com/item?id=41151476) - [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
 * [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [racket/rhombus: \"We're now officially in the \"integration\" phase for Rhombus.\"](https://github.com/racket/rhombus/discussions/521)
 * [2024-08-04, 06:07:44](https://news.ycombinator.com/item?id=41151429) - [Why the international experimental nuclear fusion reactor is in 'big trouble'](https://www.theguardian.com/technology/article/2024/aug/03/is-the-dream-of-nuclear-fusion-dead-why-the-international-experimental-reactor-is-in-big-trouble)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
