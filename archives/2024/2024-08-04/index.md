@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 21:38:23](https://news.ycombinator.com/item?id=41156514) - [Nvidia's Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
 * [2024-08-04, 21:31:03](https://news.ycombinator.com/item?id=41156478) - [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
 * [2024-08-04, 21:30:00](https://news.ycombinator.com/item?id=41156474) - [Cortex A73's Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
+* [2024-08-04, 20:43:49](https://news.ycombinator.com/item?id=41156208) - [Baron who revived Olympics believed they were a religion of perfection and peace](https://theconversation.com/the-french-baron-who-revived-the-olympics-believed-they-were-more-than-sport-they-were-a-religion-of-perfection-and-peace-233630)
 * [2024-08-04, 20:42:03](https://news.ycombinator.com/item?id=41156194) - [Romram: Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
+* [2024-08-04, 20:27:50](https://news.ycombinator.com/item?id=41156104) - [Puget Systems' Perspective on Intel CPU Instability Issues](https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/)
 * [2024-08-04, 20:09:37](https://news.ycombinator.com/item?id=41155996) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
 * [2024-08-04, 19:31:48](https://news.ycombinator.com/item?id=41155738) - [Does Sundar Pichai/Search team know how bad Google search is?](https://news.ycombinator.com/item?id=41155738)
 * [2024-08-04, 19:19:21](https://news.ycombinator.com/item?id=41155639) - [A Wealthy Couple Became Local Pariahs After Poisoning Their Neighbor's Trees](https://www.wsj.com/us-news/a-wealthy-couple-became-local-pariahs-after-poisoning-their-neighbors-trees-0bdf4791)
