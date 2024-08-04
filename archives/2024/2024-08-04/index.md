@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 19:09:22](https://news.ycombinator.com/item?id=41155587) - [Rich, western countries face a stark choice: 6-day workweeks or more immigration](https://fortune.com/2024/08/04/rich-western-countries-face-a-stark-choice-6-day-workweeks-or-more-immigration-top-economist-warns/)
 * [2024-08-04, 18:25:11](https://news.ycombinator.com/item?id=41155376) - [Berkshire halves Apple stake, boosts cash to $277B as it gets 'defensive'](https://www.reuters.com/business/finance/berkshires-cash-hits-277-bln-buffett-slashes-apple-stake-operating-profit-sets-2024-08-03/)
+* [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
 * [2024-08-04, 17:49:08](https://news.ycombinator.com/item?id=41155177) - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
 * [2024-08-04, 17:03:45](https://news.ycombinator.com/item?id=41154839) - [Tech CEOs are backtrack on RTO mandates–now, 3% want workers in office full-time](https://fortune.com/2024/08/02/tech-ceos-return-to-office-mandate/)
@@ -40,6 +42,7 @@
 * [2024-08-04, 09:26:46](https://news.ycombinator.com/item?id=41152198) - [HamClock – a real time space weather dashboard](https://www.clearskyinstitute.com/ham/HamClock/)
 * [2024-08-04, 08:50:50](https://news.ycombinator.com/item?id=41152040) - [The Academic Culture of Fraud](https://www.palladiummag.com/2024/08/02/the-academic-culture-of-fraud/)
 * [2024-08-04, 08:19:27](https://news.ycombinator.com/item?id=41151933) - [Passengers at EU Airports Not Allowed over 100ml of Liquids on Cabin Luggage](https://schengen.news/passengers-at-eu-airports-not-allowed-to-carry-over-100ml-of-liquids-on-cabin-luggage-as-of-september-1/)
+* [2024-08-04, 07:54:22](https://news.ycombinator.com/item?id=41151825) - [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
 * [2024-08-04, 07:26:27](https://news.ycombinator.com/item?id=41151718) - [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
 * [2024-08-04, 07:18:01](https://news.ycombinator.com/item?id=41151687) - [I made my personal website](https://www.mandar.fun/)
 * [2024-08-04, 06:50:52](https://news.ycombinator.com/item?id=41151572) - [Introduction to Kubernetes (k8) – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)

@@ -6,6 +6,7 @@
 
 * [2024-08-01, 23:11:27](https://news.ycombinator.com/item?id=41134615) - [Who Took the Cocaine Out of Coca-Cola?](https://daily.jstor.org/who-took-the-cocaine-out-of-coca-cola/)
 * [2024-08-01, 23:00:47](https://news.ycombinator.com/item?id=41134536) - [Rapidly build efficient sites with Neat, the minimalist CSS framework](https://neat.joeldare.com/)
+* [2024-08-01, 22:18:10](https://news.ycombinator.com/item?id=41134218) - [Ken Leishman](https://en.wikipedia.org/wiki/Ken_Leishman)
 * [2024-08-01, 22:11:40](https://news.ycombinator.com/item?id=41134167) - [Video segmentation with Segment Anything 2 (SAM2)](https://blog.roboflow.com/sam-2-video-segmentation/)
 * [2024-08-01, 21:38:20](https://news.ycombinator.com/item?id=41133917) - [CrowdStrike attempts takedown of parody site](https://clownstrike.lol/crowdmad/)
 * [2024-08-01, 21:32:56](https://news.ycombinator.com/item?id=41133876) - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
