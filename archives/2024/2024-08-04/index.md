@@ -10,6 +10,8 @@
 * [2024-08-04, 12:26:33](https://news.ycombinator.com/item?id=41153093) - [The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
 * [2024-08-04, 12:20:53](https://news.ycombinator.com/item?id=41153054) - [Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
 * [2024-08-04, 12:15:37](https://news.ycombinator.com/item?id=41153035) - [Show HN: Candix, a confidential, reverse recruiting platform](https://candix.com)
+* [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
+* [2024-08-04, 09:59:50](https://news.ycombinator.com/item?id=41152375) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 * [2024-08-04, 09:52:29](https://news.ycombinator.com/item?id=41152340) - [Big Tech groups say their $100B AI spending spree is just beginning](https://www.ft.com/content/b7037ce1-4319-4a4a-8767-0b1373cec9ce)
 * [2024-08-04, 09:36:32](https://news.ycombinator.com/item?id=41152249) - [So Who Is Building That 100k GPU Cluster for XAI?](https://www.nextplatform.com/2024/07/30/so-who-is-building-that-100000-gpu-cluster-for-xai/)
 * [2024-08-04, 09:26:46](https://news.ycombinator.com/item?id=41152198) - [HamClock – a real time space weather dashboard](https://www.clearskyinstitute.com/ham/HamClock/)
