@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 09:52:29](https://news.ycombinator.com/item?id=41152340) - [Big Tech groups say their $100B AI spending spree is just beginning](https://www.ft.com/content/b7037ce1-4319-4a4a-8767-0b1373cec9ce)
 * [2024-08-04, 08:50:50](https://news.ycombinator.com/item?id=41152040) - [The Academic Culture of Fraud](https://www.palladiummag.com/2024/08/02/the-academic-culture-of-fraud/)
+* [2024-08-04, 08:19:27](https://news.ycombinator.com/item?id=41151933) - [Passengers at EU Airports Not Allowed over 100ml of Liquids on Cabin Luggage](https://schengen.news/passengers-at-eu-airports-not-allowed-to-carry-over-100ml-of-liquids-on-cabin-luggage-as-of-september-1/)
 * [2024-08-04, 07:26:27](https://news.ycombinator.com/item?id=41151718) - [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
 * [2024-08-04, 07:18:01](https://news.ycombinator.com/item?id=41151687) - [I made my personal website](https://www.mandar.fun/)
 * [2024-08-04, 06:50:52](https://news.ycombinator.com/item?id=41151572) - [Introduction to Kubernetes (k8) – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
