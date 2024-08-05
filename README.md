@@ -9,7 +9,6 @@
 * [2024-08-04, 23:25:14](https://news.ycombinator.com/item?id=41156985) - [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
 * [2024-08-04, 22:56:22](https://news.ycombinator.com/item?id=41156872) - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
 * [2024-08-04, 22:42:39](https://news.ycombinator.com/item?id=41156793) - [Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
-* [2024-08-04, 21:51:58](https://news.ycombinator.com/item?id=41156568) - [Zero regrets: Firefox power user kept 7,500 tabs open for two years](https://www.techspot.com/news/102871-zero-regrets-firefox-power-user-kept-7500-tabs.html)
 * [2024-08-04, 21:30:00](https://news.ycombinator.com/item?id=41156474) - [Cortex A73's Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
 * [2024-08-04, 20:46:15](https://news.ycombinator.com/item?id=41156222) - [Qub – a framework for building websites with QBasic](https://github.com/jamonholmgren/qub)
 * [2024-08-04, 20:42:03](https://news.ycombinator.com/item?id=41156194) - [Romram: Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
@@ -28,6 +27,7 @@
 * [2024-08-04, 15:11:53](https://news.ycombinator.com/item?id=41154053) - [Apprentice, Journeyman, and Master: The Medieval Guild (2018)](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
 * [2024-08-04, 12:41:33](https://news.ycombinator.com/item?id=41153158) - [Belenios: Verifiable online voting system](https://www.belenios.org/)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
+* [2024-08-04, 07:46:11](https://news.ycombinator.com/item?id=41151799) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 
