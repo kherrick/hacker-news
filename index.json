@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-08-05, 12:41:17",
-      "https://news.ycombinator.com/item?id=41160815"
-    ],
-    [
-      "CrowdStrike unhappy with Delta litigation threat, says airline refused free help",
-      "https://www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 12:02:17",
       "https://news.ycombinator.com/item?id=41160466"
     ],
@@ -61,16 +51,6 @@
   ],
   [
     [
-      "2024-08-05, 06:54:50",
-      "https://news.ycombinator.com/item?id=41158709"
-    ],
-    [
-      "Why We Shut Down",
-      "https://asteriskmag.com/issues/07/why-we-shut-down"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 03:35:53",
       "https://news.ycombinator.com/item?id=41157974"
     ],
@@ -87,16 +67,6 @@
     [
       "Building Lego Machines to Destroy Tall Lego Towers",
       "https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 01:28:39",
-      "https://news.ycombinator.com/item?id=41157494"
-    ],
-    [
-      "How I Program in 2024",
-      "http://akkartik.name/post/programming-2024"
     ]
   ],
   [
@@ -211,22 +181,22 @@
   ],
   [
     [
+      "2024-08-04, 17:47:18",
+      "https://news.ycombinator.com/item?id=41155164"
+    ],
+    [
+      "Buster: Captcha Solver for Humans",
+      "https://github.com/dessant/buster"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 16:35:36",
       "https://news.ycombinator.com/item?id=41154616"
     ],
     [
       "WhenFS: Calender Is Now a File System",
       "https://github.com/lvkv/whenfs"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 16:28:22",
-      "https://news.ycombinator.com/item?id=41154560"
-    ],
-    [
-      "Praise My GitHub Profile",
-      "https://praise-me.fly.dev/"
     ]
   ],
   [
@@ -261,6 +231,26 @@
   ],
   [
     [
+      "2024-08-04, 15:11:53",
+      "https://news.ycombinator.com/item?id=41154053"
+    ],
+    [
+      "Apprentice, Journeyman, and Master: The Medieval Guild (2018)",
+      "https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 12:41:33",
+      "https://news.ycombinator.com/item?id=41153158"
+    ],
+    [
+      "Belenios: Verifiable online voting system",
+      "https://www.belenios.org/"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 12:17:16",
       "https://news.ycombinator.com/item?id=41153039"
     ],
@@ -277,6 +267,16 @@
     [
       "Organic maps: Experimental feed based public transport mapping",
       "https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 06:24:53",
+      "https://news.ycombinator.com/item?id=41151476"
+    ],
+    [
+      "USB Sniffer Lite for RP2040",
+      "https://github.com/ataradov/usb-sniffer-lite"
     ]
   ],
   [
