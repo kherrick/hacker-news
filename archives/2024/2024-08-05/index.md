@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 14:08:08](https://news.ycombinator.com/item?id=41161498) - [Schwab users are unable to log in](https://twitter.com/CharlesSchwab/status/1820460824973979956)
+* [2024-08-05, 14:03:20](https://news.ycombinator.com/item?id=41161463) - [California lawmakers got ticket freebies as they cracked down on Ticketmaster](https://www.politico.com/news/2024/08/05/california-lawmakers-free-tickets-00170882)
 * [2024-08-05, 13:03:07](https://news.ycombinator.com/item?id=41160988) - [Olympic athletes (legally) use banned drugs](https://www.cbc.ca/sports/olympics/therapeutic-use-exemptions-1.3801960)
 * [2024-08-05, 12:58:58](https://news.ycombinator.com/item?id=41160953) - [New study uses self-interacting dark matter to solve the final parsec problem](https://phys.org/news/2024-07-interacting-dark-parsec-problem.html)
 * [2024-08-05, 12:41:17](https://news.ycombinator.com/item?id=41160815) - [CrowdStrike unhappy with Delta litigation threat, says airline refused free help](https://www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/)
