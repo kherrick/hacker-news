@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 11:03:42](https://news.ycombinator.com/item?id=41160004) - [The meanest app: Duolingo subjects its users to \"emotional blackmail\"](https://www.businessinsider.com/duolingo-meanest-app-nagging-notifications-melting-icon-gen-z-marketing-2024-7)
 * [2024-08-05, 10:30:58](https://news.ycombinator.com/item?id=41159797) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
 * [2024-08-05, 10:12:04](https://news.ycombinator.com/item?id=41159680) - [Apple Intelligence beta flagged a phishing email as \"Priority\"](https://social.panic.com/@cabel/112905175504595751)
 * [2024-08-05, 09:37:57](https://news.ycombinator.com/item?id=41159512) - [OpenAI won't watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
@@ -11,6 +12,7 @@
 * [2024-08-05, 09:05:48](https://news.ycombinator.com/item?id=41159372) - [Japan's Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f)
 * [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 08:06:51](https://news.ycombinator.com/item?id=41159063) - [Stop Killing Games](https://eci.ec.europa.eu/045/public/)
+* [2024-08-05, 07:33:49](https://news.ycombinator.com/item?id=41158918) - [Why Does Everyone Hate Haskell, Jazz, and Pure Math?](https://adueck.github.io/blog/on-haskell-jazz-and-pure-math/)
 * [2024-08-05, 07:13:30](https://news.ycombinator.com/item?id=41158824) - [Stocks trampled as Nikkei crashes 13%](https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-04/)
 * [2024-08-05, 07:00:40](https://news.ycombinator.com/item?id=41158747) - [Unify (YC W23) Is Hiring LLM Engineers (Contributors)](https://www.ycombinator.com/companies/unify/jobs)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
