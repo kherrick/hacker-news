@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 09:05:48](https://news.ycombinator.com/item?id=41159372) - [Japan's Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f)
+* [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 08:06:51](https://news.ycombinator.com/item?id=41159063) - [Stop Killing Games](https://eci.ec.europa.eu/045/public/)
 * [2024-08-05, 07:13:30](https://news.ycombinator.com/item?id=41158824) - [Stocks trampled as Nikkei crashes 13%](https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-04/)
 * [2024-08-05, 07:00:40](https://news.ycombinator.com/item?id=41158747) - [Unify (YC W23) Is Hiring LLM Engineers (Contributors)](https://www.ycombinator.com/companies/unify/jobs)
