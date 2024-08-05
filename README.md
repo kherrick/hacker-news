@@ -3,9 +3,8 @@
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A New Type of Neural Network Is More Interpretable](https://spectrum.ieee.org/kan-neural-network)
 * [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual a* Pathfinding and Maze Generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
-* [2024-08-05, 15:07:35](https://news.ycombinator.com/item?id=41162054) - [What do people ask chatbots? It's a lot of sex and homework](https://www.washingtonpost.com/technology/2024/08/04/chatgpt-use-real-ai-chatbot-conversations/)
 * [2024-08-05, 14:57:36](https://news.ycombinator.com/item?id=41161968) - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
-* [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [A 20-something dethroned dotcom CEO that went to work the counter at McDonald's](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
+* [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [A 20-something dethroned dotcom CEO that went to work the counter at McDonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
 * [2024-08-05, 14:12:20](https://news.ycombinator.com/item?id=41161536) - [Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
 * [2024-08-05, 12:58:58](https://news.ycombinator.com/item?id=41160953) - [New study uses self-interacting dark matter to solve the final parsec problem](https://phys.org/news/2024-07-interacting-dark-parsec-problem.html)
@@ -28,6 +27,7 @@
 * [2024-08-04, 15:58:10](https://news.ycombinator.com/item?id=41154334) - [Making your own hot sauce](https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
+* [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 
