@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-05, 09:37:57",
+      "https://news.ycombinator.com/item?id=41159512"
+    ],
+    [
+      "OpenAI won't watermark ChatGPT text because its users could get caught",
+      "https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 09:09:04",
       "https://news.ycombinator.com/item?id=41159384"
     ],
@@ -147,16 +157,6 @@
     [
       "Puget Systems' Perspective on Intel CPU Instability Issues",
       "https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 20:09:37",
-      "https://news.ycombinator.com/item?id=41155996"
-    ],
-    [
-      "Enum class improvements for C++17, C++20 and C++23",
-      "https://www.cppstories.com/2024/enum-improvements/"
     ]
   ],
   [
