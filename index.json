@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-08-04, 19:29:39",
-      "https://news.ycombinator.com/item?id=41155718"
-    ],
-    [
-      "The Spartan Protocol Homepage",
-      "http://portal.mozz.us/gemini/spartan.mozz.us/"
-    ]
-  ],
-  [
-    [
       "2024-08-04, 18:46:25",
       "https://news.ycombinator.com/item?id=41155462"
     ],
@@ -277,6 +267,16 @@
     [
       "Self-Compressing Neural Networks",
       "https://arxiv.org/abs/2301.13142"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 06:11:00",
+      "https://news.ycombinator.com/item?id=41151439"
+    ],
+    [
+      "Rhombus: Macro-extensible language with conventional syntax built on Racket",
+      "https://docs.racket-lang.org/rhombus/index.html"
     ]
   ],
   [
