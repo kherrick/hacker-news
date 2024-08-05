@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 19:54:14](https://news.ycombinator.com/item?id=41164878) - [A Republican State A.G. Fights to Keep Exonerated Prisoners Behind Bars](https://www.nytimes.com/2024/08/05/us/missouri-andrew-bailey-exonerated.html)
+* [2024-08-05, 19:29:47](https://news.ycombinator.com/item?id=41164585) - [Below the Root: A story, a computer game and my lifelong obsession (2015)](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
 * [2024-08-05, 18:58:16](https://news.ycombinator.com/item?id=41164240) - [Google Loses DOJ Antitrust Suit Over Search](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
 * [2024-08-05, 18:37:19](https://news.ycombinator.com/item?id=41164037) - [World markets shaken over fears of U.S. recession as sell-offs deepen](https://www.cbc.ca/news/business/world-market-united-states-recession-1.7285512)
 * [2024-08-05, 18:31:59](https://news.ycombinator.com/item?id=41163983) - [Every Microsoft employee is now being judged on their security work](https://www.theverge.com/2024/8/5/24213774/microsoft-security-performance-reviews-employees-top-priority)
