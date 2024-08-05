@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-05, 19:54:14](https://news.ycombinator.com/item?id=41164878) - [A Republican State A.G. Fights to Keep Exonerated Prisoners Behind Bars](https://www.nytimes.com/2024/08/05/us/missouri-andrew-bailey-exonerated.html)
 * [2024-08-05, 19:29:47](https://news.ycombinator.com/item?id=41164585) - [Below the Root: A story, a computer game and my lifelong obsession (2015)](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
 * [2024-08-05, 18:58:16](https://news.ycombinator.com/item?id=41164240) - [Google Loses DOJ Antitrust Suit Over Search](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
@@ -19,6 +18,7 @@
 * [2024-08-05, 14:57:36](https://news.ycombinator.com/item?id=41161968) - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
 * [2024-08-05, 14:43:25](https://news.ycombinator.com/item?id=41161830) - [It's Lights Out at a Cosmic Restaurant](https://www.nytimes.com/2024/08/04/science/space/astronomy-palomar-restaurant.html)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
+* [2024-08-05, 14:12:20](https://news.ycombinator.com/item?id=41161536) - [Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
 * [2024-08-05, 14:02:13](https://news.ycombinator.com/item?id=41161455) - [Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-05, 13:16:06](https://news.ycombinator.com/item?id=41161098) - [The tragedy of low-level exploitation](https://gynvael.coldwind.pl/?id=791)
 * [2024-08-05, 11:38:51](https://news.ycombinator.com/item?id=41160268) - [Show HN: Pie Menu – a radial menu for macOS](https://www.pie-menu.com/)
