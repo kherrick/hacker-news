@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-05, 17:27:28",
+      "https://news.ycombinator.com/item?id=41163389"
+    ],
+    [
+      "America Has Too Many Laws – An excess of restrictions has taken a real toll",
+      "https://www.theatlantic.com/ideas/archive/2024/08/america-has-too-many-laws-neil-gorsuch/679237/"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 17:26:43",
       "https://news.ycombinator.com/item?id=41163382"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2024-08-05, 16:49:24",
-      "https://news.ycombinator.com/item?id=41163022"
-    ],
-    [
-      "CVE-2024-40798 – an app may be able to read Safari's browsing history",
-      "https://nvd.nist.gov/vuln/detail/CVE-2024-40798"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 16:15:19",
       "https://news.ycombinator.com/item?id=41162676"
     ],
     [
-      "A New Type of Neural Network Is More Interpretable",
+      "A new type of neural network is more interpretable",
       "https://spectrum.ieee.org/kan-neural-network"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-08-04, 17:55:25",
+      "https://news.ycombinator.com/item?id=41155214"
+    ],
+    [
+      "Dispatches from the farm upstate",
+      "https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 16:35:36",
       "https://news.ycombinator.com/item?id=41154616"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2024-08-04, 14:34:26",
-      "https://news.ycombinator.com/item?id=41153811"
-    ],
-    [
-      "I Wasn't the First Person to Find the NJ Coca-Cola Cocaine Factory (2016)",
-      "https://rmcortes.medium.com/i-wasnt-the-first-to-find-the-nj-cocaine-factory-5f37aed74776"
-    ]
-  ],
-  [
-    [
       "2024-08-04, 12:17:16",
       "https://news.ycombinator.com/item?id=41153039"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-08-04, 10:37:37",
+      "https://news.ycombinator.com/item?id=41152559"
+    ],
+    [
+      "Organic maps: Experimental feed based public transport mapping",
+      "https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 00:20:10",
       "https://news.ycombinator.com/item?id=41150249"
     ],
     [
       "Evaluating a class of infinite sums in closed form",
       "https://www.johndcook.com/blog/2024/08/03/polylog/"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 09:18:36",
-      "https://news.ycombinator.com/item?id=41145517"
-    ],
-    [
-      "GitHub Profile Roast",
-      "https://github-roast.pages.dev/"
     ]
   ],
   [
