@@ -4,7 +4,7 @@
 * [2024-08-05, 12:02:17](https://news.ycombinator.com/item?id=41160466) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-08-05, 11:51:26](https://news.ycombinator.com/item?id=41160376) - [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
 * [2024-08-05, 09:09:04](https://news.ycombinator.com/item?id=41159384) - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
-* [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+* [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 02:02:20](https://news.ycombinator.com/item?id=41157595) - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 * [2024-08-05, 00:11:33](https://news.ycombinator.com/item?id=41157192) - [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
