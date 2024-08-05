@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 08:06:51](https://news.ycombinator.com/item?id=41159063) - [Stop Killing Games](https://eci.ec.europa.eu/045/public/)
 * [2024-08-05, 07:13:30](https://news.ycombinator.com/item?id=41158824) - [Stocks trampled as Nikkei crashes 13%](https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-04/)
 * [2024-08-05, 07:00:40](https://news.ycombinator.com/item?id=41158747) - [Unify (YC W23) Is Hiring LLM Engineers (Contributors)](https://www.ycombinator.com/companies/unify/jobs)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-05, 08:06:51](https://news.ycombinator.com/item?id=41159063) - [Stop Killing Games](https://eci.ec.europa.eu/045/public/)
 * [2024-08-05, 07:00:40](https://news.ycombinator.com/item?id=41158747) - [Unify (YC W23) Is Hiring LLM Engineers (Contributors)](https://www.ycombinator.com/companies/unify/jobs)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
-* [2024-08-05, 03:35:52](https://news.ycombinator.com/item?id=41157973) - [Thunderstorms Have Caused $45B in Damages in the U.S. in Six Months](https://www.scientificamerican.com/article/thunderstorms-have-caused-usd45-billion-in-damages-in-the-u-s-in-just-six/)
 * [2024-08-05, 02:02:20](https://news.ycombinator.com/item?id=41157595) - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 * [2024-08-05, 01:28:39](https://news.ycombinator.com/item?id=41157494) - [How I Program in 2024](http://akkartik.name/post/programming-2024)
 * [2024-08-04, 23:25:14](https://news.ycombinator.com/item?id=41156985) - [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
