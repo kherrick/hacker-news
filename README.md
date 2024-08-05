@@ -7,6 +7,7 @@
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [A 20-something dethroned dotcom CEO that went to work the counter at McDonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
 * [2024-08-05, 14:12:20](https://news.ycombinator.com/item?id=41161536) - [Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
+* [2024-08-05, 14:02:13](https://news.ycombinator.com/item?id=41161455) - [Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-05, 12:58:58](https://news.ycombinator.com/item?id=41160953) - [New study uses self-interacting dark matter to solve the final parsec problem](https://phys.org/news/2024-07-interacting-dark-parsec-problem.html)
 * [2024-08-05, 12:02:17](https://news.ycombinator.com/item?id=41160466) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-08-05, 11:51:26](https://news.ycombinator.com/item?id=41160376) - [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
@@ -27,7 +28,6 @@
 * [2024-08-04, 15:58:10](https://news.ycombinator.com/item?id=41154334) - [Making your own hot sauce](https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
-* [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 

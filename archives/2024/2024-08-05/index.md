@@ -17,6 +17,7 @@
 * [2024-08-05, 14:08:41](https://news.ycombinator.com/item?id=41161502) - [Online trading platforms down for users](https://www.reuters.com/business/finance/online-trading-platforms-down-thousands-users-downdetector-shows-2024-08-05/)
 * [2024-08-05, 14:08:08](https://news.ycombinator.com/item?id=41161498) - [Schwab users are unable to log in](https://twitter.com/CharlesSchwab/status/1820460824973979956)
 * [2024-08-05, 14:03:20](https://news.ycombinator.com/item?id=41161463) - [California lawmakers got ticket freebies as they cracked down on Ticketmaster](https://www.politico.com/news/2024/08/05/california-lawmakers-free-tickets-00170882)
+* [2024-08-05, 14:02:13](https://news.ycombinator.com/item?id=41161455) - [Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-05, 13:59:42](https://news.ycombinator.com/item?id=41161437) - [CrowdStrike to Delta: Stop pointing at us](https://www.wsj.com/business/airlines/crowdstrike-to-delta-stop-pointing-the-finger-at-us-5b2eea6c)
 * [2024-08-05, 13:55:32](https://news.ycombinator.com/item?id=41161413) - [Declaring 'Crisis,' South Korean Firms Tell Managers to Work 6 Days a Week](https://www.nytimes.com/2024/08/05/business/south-korea-labor-workweek.html)
 * [2024-08-05, 13:38:31](https://news.ycombinator.com/item?id=41161281) - [Chicago Fed President Goolsbee says if economy deteriorates, Fed will 'fix it'](https://www.cnbc.com/2024/08/05/chicago-fed-president-goolsbee-says-if-economy-deteriorates-fed-will-fix-it.html)
