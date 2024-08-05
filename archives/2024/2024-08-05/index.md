@@ -6,6 +6,7 @@
 
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:46:35](https://news.ycombinator.com/item?id=41163550) - [Karpathy/Nano-Llama31](https://github.com/karpathy/nano-llama31)
+* [2024-08-05, 17:44:48](https://news.ycombinator.com/item?id=41163536) - [Apple's new Safari feature removes distracting items from websites](https://techcrunch.com/2024/08/05/apples-new-safari-feature-removes-distracting-items-from-websites/)
 * [2024-08-05, 17:44:40](https://news.ycombinator.com/item?id=41163533) - [MacBook Owners with Faulty Butterfly Keyboards Begin Receiving Payouts](https://www.macrumors.com/2024/08/05/macbook-faulty-keyboard-payouts/)
 * [2024-08-05, 17:28:12](https://news.ycombinator.com/item?id=41163398) - [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
 * [2024-08-05, 17:27:28](https://news.ycombinator.com/item?id=41163389) - [America Has Too Many Laws – An excess of restrictions has taken a real toll](https://www.theatlantic.com/ideas/archive/2024/08/america-has-too-many-laws-neil-gorsuch/679237/)
@@ -17,6 +18,7 @@
 * [2024-08-05, 16:38:54](https://news.ycombinator.com/item?id=41162916) - [Jeff Bezos' family office is making big investments in AI](https://www.cnbc.com/2024/08/02/jeff-bezos-investing-big-in-ai-through-his-family-office.html)
 * [2024-08-05, 16:34:20](https://news.ycombinator.com/item?id=41162875) - [Groq Raises $640M to Meet Soaring Demand for Fast AI Inference](https://wow.groq.com/news_press/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference/)
 * [2024-08-05, 16:29:18](https://news.ycombinator.com/item?id=41162827) - [Associative tools, thinking, and creativity: On augmenting creativity](https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity)
+* [2024-08-05, 16:25:09](https://news.ycombinator.com/item?id=41162789) - [Smartphone use decreases trustworthiness of strangers](https://www.sciencedirect.com/science/article/pii/S0167487024000229)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A New Type of Neural Network Is More Interpretable](https://spectrum.ieee.org/kan-neural-network)
 * [2024-08-05, 16:13:39](https://news.ycombinator.com/item?id=41162664) - [A RoCE network for distributed AI training at scale](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
 * [2024-08-05, 16:03:47](https://news.ycombinator.com/item?id=41162576) - [DCPerf: An open source benchmark suite for hyperscale compute applications](https://engineering.fb.com/2024/08/05/data-center-engineering/dcperf-open-source-benchmark-suite-for-hyperscale-compute-applications/)
