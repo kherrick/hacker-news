@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
+* [2024-08-05, 15:07:35](https://news.ycombinator.com/item?id=41162054) - [What do people ask chatbots? It's a lot of sex and homework](https://www.washingtonpost.com/technology/2024/08/04/chatgpt-use-real-ai-chatbot-conversations/)
 * [2024-08-05, 14:57:36](https://news.ycombinator.com/item?id=41161968) - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
+* [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [A 20-something dethroned dotcom CEO that went to work the counter at McDonald's](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
+* [2024-08-05, 14:52:17](https://news.ycombinator.com/item?id=41161920) - [Weak Soft Skills: Why you are stuck at the Senior engineer level](https://pathtostaff.substack.com/p/weak-soft-skills-why-you-are-stuck)
 * [2024-08-05, 14:34:31](https://news.ycombinator.com/item?id=41161736) - [Build a Digital Human](https://build.nvidia.com/nvidia/digital-humans-virtual-assistant)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
 * [2024-08-05, 14:12:20](https://news.ycombinator.com/item?id=41161536) - [Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
