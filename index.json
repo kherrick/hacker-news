@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-08-05, 13:03:07",
-      "https://news.ycombinator.com/item?id=41160988"
-    ],
-    [
-      "Olympic athletes (legally) use banned drugs",
-      "https://www.cbc.ca/sports/olympics/therapeutic-use-exemptions-1.3801960"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 12:58:58",
       "https://news.ycombinator.com/item?id=41160953"
     ],
     [
       "New study uses self-interacting dark matter to solve the final parsec problem",
       "https://phys.org/news/2024-07-interacting-dark-parsec-problem.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 12:41:17",
+      "https://news.ycombinator.com/item?id=41160815"
+    ],
+    [
+      "CrowdStrike unhappy with Delta litigation threat, says airline refused free help",
+      "https://www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Computer Security Is a Political Struggle",
       "https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 10:30:58",
-      "https://news.ycombinator.com/item?id=41159797"
-    ],
-    [
-      "How to Get or Create in PostgreSQL",
-      "https://hakibenita.com/postgresql-get-or-create"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2024-08-04, 17:55:25",
+      "https://news.ycombinator.com/item?id=41155214"
+    ],
+    [
+      "Dispatches from the farm upstate",
+      "https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 16:35:36",
       "https://news.ycombinator.com/item?id=41154616"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-08-04, 15:11:53",
-      "https://news.ycombinator.com/item?id=41154053"
-    ],
-    [
-      "Apprentice, Journeyman, and Master: The Medieval Guild (2018)",
-      "https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/"
-    ]
-  ],
-  [
-    [
       "2024-08-04, 12:17:16",
       "https://news.ycombinator.com/item?id=41153039"
     ],
     [
       "Self-Compressing Neural Networks",
       "https://arxiv.org/abs/2301.13142"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 10:37:37",
+      "https://news.ycombinator.com/item?id=41152559"
+    ],
+    [
+      "Organic maps: Experimental feed based public transport mapping",
+      "https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md"
     ]
   ],
   [
