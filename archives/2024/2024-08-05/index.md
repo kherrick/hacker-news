@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 17:00:02](https://news.ycombinator.com/item?id=41163124) - [Infisical (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
+* [2024-08-05, 16:38:54](https://news.ycombinator.com/item?id=41162916) - [Jeff Bezos' family office is making big investments in AI](https://www.cnbc.com/2024/08/02/jeff-bezos-investing-big-in-ai-through-his-family-office.html)
+* [2024-08-05, 16:34:20](https://news.ycombinator.com/item?id=41162875) - [Groq Raises $640M to Meet Soaring Demand for Fast AI Inference](https://wow.groq.com/news_press/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference/)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A New Type of Neural Network Is More Interpretable](https://spectrum.ieee.org/kan-neural-network)
 * [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual a* Pathfinding and Maze Generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
@@ -26,6 +29,7 @@
 * [2024-08-05, 12:41:17](https://news.ycombinator.com/item?id=41160815) - [CrowdStrike unhappy with Delta litigation threat, says airline refused free help](https://www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/)
 * [2024-08-05, 12:02:17](https://news.ycombinator.com/item?id=41160466) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-08-05, 11:51:26](https://news.ycombinator.com/item?id=41160376) - [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
+* [2024-08-05, 11:38:51](https://news.ycombinator.com/item?id=41160268) - [Show HN: Pie Menu – a radial menu for macOS](https://www.pie-menu.com/)
 * [2024-08-05, 11:03:42](https://news.ycombinator.com/item?id=41160004) - [The meanest app: Duolingo subjects its users to \"emotional blackmail\"](https://www.businessinsider.com/duolingo-meanest-app-nagging-notifications-melting-icon-gen-z-marketing-2024-7)
 * [2024-08-05, 10:49:23](https://news.ycombinator.com/item?id=41159919) - [Climate change deniers make up nearly a quarter of US Congress](https://www.theguardian.com/us-news/article/2024/aug/05/climate-change-denial-congress)
 * [2024-08-05, 10:30:58](https://news.ycombinator.com/item?id=41159797) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
