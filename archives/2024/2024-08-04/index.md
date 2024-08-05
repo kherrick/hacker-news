@@ -6,6 +6,7 @@
 
 * [2024-08-04, 23:25:14](https://news.ycombinator.com/item?id=41156985) - [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
 * [2024-08-04, 22:56:22](https://news.ycombinator.com/item?id=41156872) - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
+* [2024-08-04, 22:42:39](https://news.ycombinator.com/item?id=41156793) - [Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
 * [2024-08-04, 22:21:34](https://news.ycombinator.com/item?id=41156716) - [Myspace celebrates its 21st birthday. Do we still need it?](https://triblive.com/business/technology/myspace-celebrates-its-21st-birthday-do-we-still-need-it/)
 * [2024-08-04, 21:38:23](https://news.ycombinator.com/item?id=41156514) - [Nvidia's Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
 * [2024-08-04, 21:31:03](https://news.ycombinator.com/item?id=41156478) - [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
