@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
 * [2024-08-05, 17:00:02](https://news.ycombinator.com/item?id=41163124) - [Infisical (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
 * [2024-08-05, 16:49:24](https://news.ycombinator.com/item?id=41163022) - [CVE-2024-40798 – an app may be able to read Safari's browsing history](https://nvd.nist.gov/vuln/detail/CVE-2024-40798)
 * [2024-08-05, 16:38:54](https://news.ycombinator.com/item?id=41162916) - [Jeff Bezos' family office is making big investments in AI](https://www.cnbc.com/2024/08/02/jeff-bezos-investing-big-in-ai-through-his-family-office.html)

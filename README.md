@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
 * [2024-08-05, 17:00:02](https://news.ycombinator.com/item?id=41163124) - [Infisical (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
 * [2024-08-05, 16:49:24](https://news.ycombinator.com/item?id=41163022) - [CVE-2024-40798 – an app may be able to read Safari's browsing history](https://nvd.nist.gov/vuln/detail/CVE-2024-40798)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A New Type of Neural Network Is More Interpretable](https://spectrum.ieee.org/kan-neural-network)
@@ -11,7 +12,6 @@
 * [2024-08-05, 14:12:20](https://news.ycombinator.com/item?id=41161536) - [Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
 * [2024-08-05, 14:02:13](https://news.ycombinator.com/item?id=41161455) - [Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-05, 12:58:58](https://news.ycombinator.com/item?id=41160953) - [New study uses self-interacting dark matter to solve the final parsec problem](https://phys.org/news/2024-07-interacting-dark-parsec-problem.html)
-* [2024-08-05, 11:51:26](https://news.ycombinator.com/item?id=41160376) - [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
 * [2024-08-05, 11:38:51](https://news.ycombinator.com/item?id=41160268) - [Show HN: Pie Menu – a radial menu for macOS](https://www.pie-menu.com/)
 * [2024-08-05, 09:09:04](https://news.ycombinator.com/item?id=41159384) - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
 * [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
@@ -23,13 +23,13 @@
 * [2024-08-04, 21:30:00](https://news.ycombinator.com/item?id=41156474) - [Cortex A73's Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
 * [2024-08-04, 20:46:15](https://news.ycombinator.com/item?id=41156222) - [Qub – a framework for building websites with QBasic](https://github.com/jamonholmgren/qub)
 * [2024-08-04, 18:46:25](https://news.ycombinator.com/item?id=41155462) - [Airlines are running out of 4-digit flight numbers](https://viewfromthewing.com/airlines-are-running-out-of-flight-numbers-and-they-dont-know-what-to-do-about-it/)
-* [2024-08-04, 17:57:35](https://news.ycombinator.com/item?id=41155230) - [A primer on the current state of longevity research](https://www.owlposting.com/p/some-questions-and-answers-i-had)
-* [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
 * [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact)
+* [2024-08-04, 14:34:26](https://news.ycombinator.com/item?id=41153811) - [I Wasn't the First Person to Find the NJ Coca-Cola Cocaine Factory (2016)](https://rmcortes.medium.com/i-wasnt-the-first-to-find-the-nj-cocaine-factory-5f37aed74776)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
-* [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
+* [2024-08-03, 09:18:36](https://news.ycombinator.com/item?id=41145517) - [GitHub Profile Roast](https://github-roast.pages.dev/)
+* [2024-08-02, 22:48:14](https://news.ycombinator.com/item?id=41143322) - [Fiber optic drone control beats any RF jammer](https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/)
 
 ## [Archives](archives/index.md)
 

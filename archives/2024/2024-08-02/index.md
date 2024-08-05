@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
 * [2024-08-02, 23:14:04](https://news.ycombinator.com/item?id=41143452) - [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
+* [2024-08-02, 22:48:14](https://news.ycombinator.com/item?id=41143322) - [Fiber optic drone control beats any RF jammer](https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/)
 * [2024-08-02, 22:28:50](https://news.ycombinator.com/item?id=41143216) - [DSCv3, the latest iteration of Microsoft's Desired State Configuration platform](https://github.com/PowerShell/DSC)
 * [2024-08-02, 22:04:44](https://news.ycombinator.com/item?id=41143061) - [How HashiCorp evolved its cloud infrastructure](https://platocommunity.substack.com/p/22-how-we-evolved-our-cloud-infrastructure)
 * [2024-08-02, 21:41:33](https://news.ycombinator.com/item?id=41142921) - [Reverse Captcha](https://www.selabs.tech/reverse-captcha)
