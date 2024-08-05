@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 12:02:17](https://news.ycombinator.com/item?id=41160466) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-08-05, 11:03:42](https://news.ycombinator.com/item?id=41160004) - [The meanest app: Duolingo subjects its users to \"emotional blackmail\"](https://www.businessinsider.com/duolingo-meanest-app-nagging-notifications-melting-icon-gen-z-marketing-2024-7)
 * [2024-08-05, 10:49:23](https://news.ycombinator.com/item?id=41159919) - [Climate change deniers make up nearly a quarter of US Congress](https://www.theguardian.com/us-news/article/2024/aug/05/climate-change-denial-congress)
 * [2024-08-05, 10:30:58](https://news.ycombinator.com/item?id=41159797) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
@@ -17,6 +18,7 @@
 * [2024-08-05, 07:33:49](https://news.ycombinator.com/item?id=41158918) - [Why Does Everyone Hate Haskell, Jazz, and Pure Math?](https://adueck.github.io/blog/on-haskell-jazz-and-pure-math/)
 * [2024-08-05, 07:13:30](https://news.ycombinator.com/item?id=41158824) - [Stocks trampled as Nikkei crashes 13%](https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-04/)
 * [2024-08-05, 07:00:40](https://news.ycombinator.com/item?id=41158747) - [Unify (YC W23) Is Hiring LLM Engineers (Contributors)](https://www.ycombinator.com/companies/unify/jobs)
+* [2024-08-05, 06:54:50](https://news.ycombinator.com/item?id=41158709) - [Why We Shut Down](https://asteriskmag.com/issues/07/why-we-shut-down)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 03:35:52](https://news.ycombinator.com/item?id=41157973) - [Thunderstorms Have Caused $45B in Damages in the U.S. in Six Months](https://www.scientificamerican.com/article/thunderstorms-have-caused-usd45-billion-in-damages-in-the-u-s-in-just-six/)
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
