@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-08-05, 15:07:35",
-      "https://news.ycombinator.com/item?id=41162054"
-    ],
-    [
-      "What do people ask chatbots? It's a lot of sex and homework",
-      "https://www.washingtonpost.com/technology/2024/08/04/chatgpt-use-real-ai-chatbot-conversations/"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 14:57:36",
       "https://news.ycombinator.com/item?id=41161968"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41161947"
     ],
     [
-      "A 20-something dethroned dotcom CEO that went to work the counter at McDonald's",
+      "A 20-something dethroned dotcom CEO that went to work the counter at McDonald's (2000)",
       "https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Self-Compressing Neural Networks",
       "https://arxiv.org/abs/2301.13142"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 10:37:37",
+      "https://news.ycombinator.com/item?id=41152559"
+    ],
+    [
+      "Organic maps: Experimental feed based public transport mapping",
+      "https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md"
     ]
   ],
   [
