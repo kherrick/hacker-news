@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-05, 07:13:30](https://news.ycombinator.com/item?id=41158824) - [Stocks trampled as Nikkei crashes 13%](https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-04/)
 * [2024-08-05, 07:00:40](https://news.ycombinator.com/item?id=41158747) - [Unify (YC W23) Is Hiring LLM Engineers (Contributors)](https://www.ycombinator.com/companies/unify/jobs)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 03:35:52](https://news.ycombinator.com/item?id=41157973) - [Thunderstorms Have Caused $45B in Damages in the U.S. in Six Months](https://www.scientificamerican.com/article/thunderstorms-have-caused-usd45-billion-in-damages-in-the-u-s-in-just-six/)
@@ -27,6 +26,7 @@
 * [2024-08-04, 15:11:53](https://news.ycombinator.com/item?id=41154053) - [Apprentice, Journeyman, and Master: The Medieval Guild (2018)](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
 * [2024-08-04, 12:41:33](https://news.ycombinator.com/item?id=41153158) - [Belenios: Verifiable online voting system](https://www.belenios.org/)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
+* [2024-08-04, 07:46:11](https://news.ycombinator.com/item?id=41151799) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
 * [2024-08-04, 06:11:00](https://news.ycombinator.com/item?id=41151439) - [Rhombus: Macro-extensible language with conventional syntax built on Racket](https://docs.racket-lang.org/rhombus/index.html)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 * [2024-08-04, 00:20:10](https://news.ycombinator.com/item?id=41150249) - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
