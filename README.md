@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-05, 14:34:31](https://news.ycombinator.com/item?id=41161736) - [Build a Digital Human](https://build.nvidia.com/nvidia/digital-humans-virtual-assistant)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
 * [2024-08-05, 14:12:20](https://news.ycombinator.com/item?id=41161536) - [Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
 * [2024-08-05, 13:59:42](https://news.ycombinator.com/item?id=41161437) - [CrowdStrike to Delta: Stop pointing at us](https://www.wsj.com/business/airlines/crowdstrike-to-delta-stop-pointing-the-finger-at-us-5b2eea6c)
@@ -25,7 +26,6 @@
 * [2024-08-04, 16:08:25](https://news.ycombinator.com/item?id=41154410) - [Jailbroke my Kindle to use it as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 * [2024-08-04, 15:58:10](https://news.ycombinator.com/item?id=41154334) - [Making your own hot sauce](https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact)
-* [2024-08-04, 15:11:53](https://news.ycombinator.com/item?id=41154053) - [Apprentice, Journeyman, and Master: The Medieval Guild (2018)](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
 * [2024-08-04, 10:37:37](https://news.ycombinator.com/item?id=41152559) - [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
 * [2024-08-04, 05:58:37](https://news.ycombinator.com/item?id=41151409) - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)

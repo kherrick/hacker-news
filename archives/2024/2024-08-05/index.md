@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 14:34:31](https://news.ycombinator.com/item?id=41161736) - [Build a Digital Human](https://build.nvidia.com/nvidia/digital-humans-virtual-assistant)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
 * [2024-08-05, 14:12:20](https://news.ycombinator.com/item?id=41161536) - [Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
 * [2024-08-05, 14:08:41](https://news.ycombinator.com/item?id=41161502) - [Online trading platforms down for users](https://www.reuters.com/business/finance/online-trading-platforms-down-thousands-users-downdetector-shows-2024-08-05/)
