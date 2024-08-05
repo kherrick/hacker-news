@@ -129,6 +129,232 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41163382">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41163382"
+              >Launch HN: Airhart Aeronautics (YC S22) – A modern personal
+              airplane</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-05 @ 17:26:43</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41163382"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.airhartaero.com/"
+                >https://www.airhartaero.com/</a
+              >). We are building an airplane for people who don’t fly
+              airplanes. The goal is to make flying as easy as driving a
+              car—while maintaining a high bar for safety. Here’s a video that
+              shows a bit of our hardware and quite a bit of our software:
+              <a href="https://youtu.be/PGJUGUceu8A"
+                >https://youtu.be/PGJUGUceu8A</a
+              >
+              <p>
+                In the US, trips that are 50-300 miles are almost all done by
+                car because that distance is too short for commercial airlines
+                and too far for public transportation. Thanks to the Wright
+                Brothers we've had aerial transport for over 100 years. The US
+                has over 19,000 airports, and large commercial airplane
+                technology has developed to the point that the planes
+                practically fly themselves. If we already have the
+                infrastructure and the technology, why isn't everyone flying
+                planes?
+              </p>
+              <p>
+                The problem is that small airplane technology hasn’t innovated
+                and is stuck in the past. Flying a small airplane is
+                complicated, mentally taxing, and dangerous—about 28x more
+                dangerous than driving a car. Outdated airplanes, coupled with
+                outdated flight controls, lead to regular accidents, often due
+                to some form of loss of control. The planes are expensive and
+                margins are small. There is no incentive to innovate within the
+                current market, so we are looking at the new, untapped market of
+                those who don’t think about flying as an option today and making
+                it an option.
+              </p>
+              <p>
+                I first came across this when I learned to fly in 2020. I was
+                learning in a “modern” GA airplane but was immediately struck by
+                the fact that an airplane built in 2018 did not have an engine
+                computer and there was a manual level to control the fuel/air
+                mixture ratio. Starting it on a hot day was like starting a
+                stubborn lawn mower. On top of that, my instructor was telling
+                me all the various ways I could kill myself if I’m not running
+                at 100% concentration for hours on end. This just didn’t sit
+                right with me.
+              </p>
+              <p>
+                At the time I was working at SpaceX as an avionics engineer,
+                leading the development of the avionics for the fairing recovery
+                program. I also built autonomous aircraft when I was a student
+                at Cornell, where I got a degree in electrical and computer
+                engineering. It was clear to me that the core problem is that
+                airplanes are too unsafe and too complicated to operate which is
+                keeping too many people out of aviation. So, I decided to leave
+                SpaceX and was joined by my long-time friend Brendan (he was a
+                software engineer at Apple at the time; we built autonomous
+                aircraft together at Cornell) to start Airhart to tackle this
+                problem and make flying safer and more accessible.
+              </p>
+              <p>
+                We are developing a full hardware and software package to change
+                how people fly airplanes. It’s a fly-by-wire control system,
+                meaning instead of mechanical linkages between the pilot’s
+                control stick and the control surfaces, it’s a joystick that
+                sends digital commands to a computer that then moves the control
+                surfaces accordingly with servo actuators. We’re developing all
+                of the hardware ourselves: the computers, the sensors, the
+                actuators–and all of the software that actually does the
+                control. But it’s not just fly-by-wire. On top of it, we are
+                implementing a simplified control scheme that reduces flying the
+                airplane to just one action to perform one maneuver.
+              </p>
+              <p>
+                For readers who aren’t pilots: all flying is basically
+                coordinating the aircraft pitch, roll, yaw, and throttle to
+                coordinate actions. Something as simple as a level turn to the
+                right means you have to 1) roll the airplane, 2) use your feet
+                on the rudder pedals to keep the turn coordinated, 3) pull back
+                to increase your lift since you are now losing lift in a bank,
+                4) monitor your airspeed (especially if at slow speeds when
+                coming in to land), 5) monitor your altitude as you’re adjusting
+                your lift in (3), 6) monitor your turn coordination as you
+                adjust it in (2). You are now established in a turn. To return
+                to flying straight and level do those in reverse. And while
+                doing all this, you need to be navigating through complex
+                airpaces and talking to air traffic control over 1940s radio
+                technology. All this together makes it very hard to fly and very
+                easy for a pilot (especially a new pilot) to lose control of the
+                airplane, which is still the leading cause of fatalities in
+                general aviation.
+              </p>
+              <p>
+                With Airhart Assist (that’s what we call our system), you just
+                push a control stick to the right and the flight computers do
+                all those steps to put you into a coordinated level turn.
+              </p>
+              <p>So, how does this actually work?</p>
+              <p>
+                The force-feedback joystick in the plane sends its position to a
+                flight controller (actually 3 that work in parallel for safety
+                and redundancy, more on that later). The flight controller
+                interprets the position as a turn rate or climb rate command
+                (for left/right or forward/back). The flight controller also
+                reads a bunch of sensors (gyroscope, accelerometer,
+                magnetometer, air pressure, GPS, etc) to develop an accurate
+                estimate of the airplane’s state: roll, pitch, yaw, velocity,
+                position, etc. Using the current state from the sensor fusion
+                algorithms and the desired state from the joystick, the
+                controller does a bunch of aerodynamics and control theory math
+                to compute the control surface position necessary to bring the
+                aircraft to the desired state. Mixed into this is error
+                checking, envelope protection, and other various safety measures
+                to make sure the aircraft never enters an unsafe state.
+              </p>
+              <p>
+                Unlike a traditional airplane, it becomes impossible to command
+                the airplane into a stall, a spin, unsafe attitudes, or other
+                bad states. This is the key to the safety of the system: it
+                prevents the common mistakes that pilots make that lead to
+                disastrous consequences.
+              </p>
+              <p>
+                To make sure that this system is always functioning, everything
+                is single-fault tolerant. That means that there are no single
+                points of failure. Any fault that might occur–a broken wire, a
+                fried resistor, a bitflip in a processor, a random hang in a
+                kernel–does not affect the functionality of the system. This is
+                achieved by having three flight controllers that take in
+                information from two different sets of sensors (we call them
+                “strings”), independently compute the desired actions to take,
+                and vote on what to do. Each string has its own power source,
+                backup battery, networking hardware, and set of critical
+                sensors.
+              </p>
+              <p>
+                The only real single point of failure is the engine. We only
+                have one, though the engine itself has redundant ignition
+                systems, fuel pumps, controllers, etc. If the engine were to
+                die, the batteries would keep the system running for ~30
+                minutes, giving you time to make an emergency landing. If the
+                pilot somehow becomes incapacitated, any passenger can initiate
+                an autonomous emergency landing. And if many things go wrong and
+                the system does fail, there’s a full airframe parachute that can
+                be activated to bring the airplane safely to the ground.
+              </p>
+              <p>
+                A lot of people will likely wonder: “isn’t removing stick and
+                rudder skills going to make worse pilots”? Short answer: no. The
+                core of what makes a good pilot isn’t stick and rudder skills;
+                it’s good decision making and risk management. For single pilots
+                in GA, it’s even more important. So we are building a system
+                that will give our pilots the tools to focus entirely on
+                decision making and risk management and remove the distraction
+                of stick and rudder that creates so many problems today. We
+                think stick and rudder skills are definitely a necessity for
+                airline pilots flying hundreds of people on board for the
+                extremely rare cases where emergencies do happen and many
+                people's lives are at risk, but not for an average person flying
+                a four seat airplane to go on a weekend trip to the mountains.
+                Our system makes it impossible to lose control of the airplane,
+                potentially solving 80% of today’s fatal accidents in general
+                aviation.
+              </p>
+              <p>
+                Fly-by-wire systems typically cost millions of dollars. We
+                intend to build it for much less. How? By leveraging automotive
+                grade components, clever sensor fusion math so that we can use
+                MEMS gyroscopes that cost &lt;$100 instead of laser-ring gyros
+                that cost $1000 if not $10k, and by a first principles approach
+                to the design of our system. This requires that we build a lot
+                of our own hardware. We’ve developed our own control surface
+                actuators, our own display assemblies, we’re developing our own
+                radios and GPS hardware (an aviation grade GPS can cost upwards
+                of $10k, but it’s the same hardware as in a $20 consumer grade
+                GPS).
+              </p>
+              <p>
+                To take advantage of this automotive style approach requires
+                scale. Enter the final third of the problem: flying isn’t sexy.
+                Modern airplanes look like they are from the 90s. With our first
+                airplane, the Airhart Sling, we are redesigning the entire UI/UX
+                of the flight deck to make it as easy as possible to use,
+                redesigning the cabin to feel much more like a luxury car than
+                an airplane today, and integrating Airhart Assist to make flying
+                much more accessible and much more inviting. You can see
+                previews of the Airhart Sling on our website,
+                <a href="https://www.airhartaero.com/"
+                  >https://www.airhartaero.com/</a
+                >. The sexiness of design is extremely important for the
+                economies of scale of an automotive-style approach to work.
+              </p>
+              <p>
+                There’s a plethora of other problems that make flying
+                cumbersome: weight and balance worksheets, complicated route
+                planning, talking to ATC, lengthy preflight checks, a fractured
+                system of FBOs, difficult access to instruction, the list goes
+                on. We are working on all of these too, but no amount of extra
+                UI features can solve the fundamental problem that aviating
+                itself is hard. So that’s what we’re solving first.
+              </p>
+              <p>
+                We want people who don’t think about airplanes as a mode of
+                transportation to start flying and are hoping that Airhart will
+                pave the way. Whether you fly planes today or not, I’d love to
+                hear your thoughts. This is a very exciting topic with lots to
+                discuss so I’m very much looking forward to the conversation!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="41163124">
           <h3>
             <a
@@ -163,7 +389,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41163022"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -178,11 +404,11 @@
             <h4>
               <span>2024-08-05 @ 16:15:19</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41162676"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -199,11 +425,11 @@
             <h4>
               <span>2024-08-05 @ 15:56:01</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41162505"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -260,11 +486,11 @@
             <h4>
               <span>2024-08-05 @ 15:33:30</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41162311"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -281,7 +507,7 @@
             <h4>
               <span>2024-08-05 @ 14:57:36</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41161968"
                   >Comments</a
@@ -303,11 +529,11 @@
             <h4>
               <span>2024-08-05 @ 14:55:21</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41161947"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -324,11 +550,11 @@
             <h4>
               <span>2024-08-05 @ 14:18:13</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41161580"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -345,11 +571,11 @@
             <h4>
               <span>2024-08-05 @ 14:12:20</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41161536"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -364,11 +590,11 @@
             <h4>
               <span>2024-08-05 @ 14:02:13</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41161455"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -395,27 +621,6 @@
             </h4>
           </section>
         </section>
-        <section id="41160376">
-          <h3>
-            <a
-              class="item"
-              href="https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/"
-              >Computer Security Is a Political Struggle</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-05 @ 11:51:26</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41160376"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41160268">
           <h3>
             <a class="item" href="https://www.pie-menu.com/"
@@ -426,11 +631,11 @@
             <h4>
               <span>2024-08-05 @ 11:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41160268"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -473,7 +678,7 @@
             <h4>
               <span>2024-08-05 @ 09:09:04</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41159384"
                   >Comments</a
@@ -494,11 +699,11 @@
             <h4>
               <span>2024-08-05 @ 08:28:25</span
               ><span class="points-container"
-                >Points: <span class="points">297</span></span
+                >Points: <span class="points">300</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41159180"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -515,7 +720,7 @@
             <h4>
               <span>2024-08-05 @ 03:35:53</span
               ><span class="points-container"
-                >Points: <span class="points">548</span></span
+                >Points: <span class="points">561</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41157974"
                   >Comments</a
@@ -536,7 +741,7 @@
             <h4>
               <span>2024-08-05 @ 02:02:20</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41157595"
                   >Comments</a
@@ -557,11 +762,11 @@
             <h4>
               <span>2024-08-05 @ 00:11:33</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41157192"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -576,11 +781,11 @@
             <h4>
               <span>2024-08-04 @ 22:56:22</span
               ><span class="points-container"
-                >Points: <span class="points">368</span></span
+                >Points: <span class="points">369</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41156872"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
             <div class="text">
@@ -604,11 +809,11 @@
             <h4>
               <span>2024-08-04 @ 22:42:39</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41156793"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -629,7 +834,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41156474"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -665,53 +870,11 @@
             <h4>
               <span>2024-08-04 @ 18:46:25</span
               ><span class="points-container"
-                >Points: <span class="points">209</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41155462"
                   >Comments</a
-                ><span class="descendants">: 334</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41155230">
-          <h3>
-            <a
-              class="item"
-              href="https://www.owlposting.com/p/some-questions-and-answers-i-had"
-              >A primer on the current state of longevity research</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-04 @ 17:57:35</span
-              ><span class="points-container"
-                >Points: <span class="points">140</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41155230"
-                  >Comments</a
-                ><span class="descendants">: 100</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41155214">
-          <h3>
-            <a
-              class="item"
-              href="https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate"
-              >Dispatches from the farm upstate</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-04 @ 17:55:25</span
-              ><span class="points-container"
-                >Points: <span class="points">114</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41155214"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 336</span></span
               >
             </h4>
           </section>
@@ -726,7 +889,7 @@
             <h4>
               <span>2024-08-04 @ 16:35:36</span
               ><span class="points-container"
-                >Points: <span class="points">320</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41154616"
                   >Comments</a
@@ -754,6 +917,28 @@
             </h4>
           </section>
         </section>
+        <section id="41153811">
+          <h3>
+            <a
+              class="item"
+              href="https://rmcortes.medium.com/i-wasnt-the-first-to-find-the-nj-cocaine-factory-5f37aed74776"
+              >I Wasn't the First Person to Find the NJ Coca-Cola Cocaine
+              Factory (2016)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-04 @ 14:34:26</span
+              ><span class="points-container"
+                >Points: <span class="points">72</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41153811"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41153039">
           <h3>
             <a class="item" href="https://arxiv.org/abs/2301.13142"
@@ -773,27 +958,6 @@
             </h4>
           </section>
         </section>
-        <section id="41152559">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md"
-              >Organic maps: Experimental feed based public transport mapping</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-04 @ 10:37:37</span
-              ><span class="points-container"
-                >Points: <span class="points">168</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41152559"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41150249">
           <h3>
             <a
@@ -806,11 +970,51 @@
             <h4>
               <span>2024-08-04 @ 00:20:10</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41150249"
                   >Comments</a
                 ><span class="descendants">: 32</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41145517">
+          <h3>
+            <a class="item" href="https://github-roast.pages.dev/"
+              >GitHub Profile Roast</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-03 @ 09:18:36</span
+              ><span class="points-container"
+                >Points: <span class="points">73</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41145517"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41143322">
+          <h3>
+            <a
+              class="item"
+              href="https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/"
+              >Fiber optic drone control beats any RF jammer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-02 @ 22:48:14</span
+              ><span class="points-container"
+                >Points: <span class="points">73</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41143322"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
