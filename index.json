@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-05, 16:15:19",
+      "https://news.ycombinator.com/item?id=41162676"
+    ],
+    [
+      "A New Type of Neural Network Is More Interpretable",
+      "https://spectrum.ieee.org/kan-neural-network"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 15:56:01",
+      "https://news.ycombinator.com/item?id=41162505"
+    ],
+    [
+      "Show HN: Visual a* Pathfinding and Maze Generation in Python",
+      "https://github.com/Dicklesworthstone/visual_astar_python"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 15:33:30",
       "https://news.ycombinator.com/item?id=41162311"
     ],
@@ -37,16 +57,6 @@
     [
       "A 20-something dethroned dotcom CEO that went to work the counter at McDonald's",
       "https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 14:52:17",
-      "https://news.ycombinator.com/item?id=41161920"
-    ],
-    [
-      "Weak Soft Skills: Why you are stuck at the Senior engineer level",
-      "https://pathtostaff.substack.com/p/weak-soft-skills-why-you-are-stuck"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Qub – a framework for building websites with QBasic",
       "https://github.com/jamonholmgren/qub"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 20:42:03",
-      "https://news.ycombinator.com/item?id=41156194"
-    ],
-    [
-      "Romram: Using QSPI RAM with RP2040's SSI in read-write mode",
-      "http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam"
     ]
   ],
   [
