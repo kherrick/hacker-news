@@ -7,7 +7,7 @@
 * [2024-08-05, 09:09:04](https://news.ycombinator.com/item?id=41159384) - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
 * [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 08:06:51](https://news.ycombinator.com/item?id=41159063) - [Stop Killing Games](https://eci.ec.europa.eu/045/public/)
-* [2024-08-05, 07:33:49](https://news.ycombinator.com/item?id=41158918) - [Why Does Everyone Hate Haskell, Jazz, and Pure Math?](https://adueck.github.io/blog/on-haskell-jazz-and-pure-math/)
+* [2024-08-05, 06:54:50](https://news.ycombinator.com/item?id=41158709) - [Why We Shut Down](https://asteriskmag.com/issues/07/why-we-shut-down)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 02:02:20](https://news.ycombinator.com/item?id=41157595) - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 * [2024-08-05, 01:28:39](https://news.ycombinator.com/item?id=41157494) - [How I Program in 2024](http://akkartik.name/post/programming-2024)
