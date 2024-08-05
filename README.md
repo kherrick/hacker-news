@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-05, 17:00:02](https://news.ycombinator.com/item?id=41163124) - [Infisical (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
-* [2024-08-05, 16:38:54](https://news.ycombinator.com/item?id=41162916) - [Jeff Bezos' family office is making big investments in AI](https://www.cnbc.com/2024/08/02/jeff-bezos-investing-big-in-ai-through-his-family-office.html)
-* [2024-08-05, 16:34:20](https://news.ycombinator.com/item?id=41162875) - [Groq Raises $640M to Meet Soaring Demand for Fast AI Inference](https://wow.groq.com/news_press/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference/)
+* [2024-08-05, 16:49:24](https://news.ycombinator.com/item?id=41163022) - [CVE-2024-40798 – an app may be able to read Safari's browsing history](https://nvd.nist.gov/vuln/detail/CVE-2024-40798)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A New Type of Neural Network Is More Interpretable](https://spectrum.ieee.org/kan-neural-network)
 * [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual a* Pathfinding and Maze Generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
@@ -25,6 +24,7 @@
 * [2024-08-04, 20:46:15](https://news.ycombinator.com/item?id=41156222) - [Qub – a framework for building websites with QBasic](https://github.com/jamonholmgren/qub)
 * [2024-08-04, 18:46:25](https://news.ycombinator.com/item?id=41155462) - [Airlines are running out of 4-digit flight numbers](https://viewfromthewing.com/airlines-are-running-out-of-flight-numbers-and-they-dont-know-what-to-do-about-it/)
 * [2024-08-04, 17:57:35](https://news.ycombinator.com/item?id=41155230) - [A primer on the current state of longevity research](https://www.owlposting.com/p/some-questions-and-answers-i-had)
+* [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
 * [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 * [2024-08-04, 15:26:34](https://news.ycombinator.com/item?id=41154135) - [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 12:17:16](https://news.ycombinator.com/item?id=41153039) - [Self-Compressing Neural Networks](https://arxiv.org/abs/2301.13142)
