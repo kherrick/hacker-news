@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
-* [2024-08-05, 20:42:26](https://news.ycombinator.com/item?id=41165409) - [The Anatomy of Brainwashing](https://www.science.org/doi/10.1126/science.adp1705)
+* [2024-08-05, 20:15:21](https://news.ycombinator.com/item?id=41165117) - [Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
+* [2024-08-05, 19:54:45](https://news.ycombinator.com/item?id=41164885) - [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 * [2024-08-05, 19:29:47](https://news.ycombinator.com/item?id=41164585) - [Below the Root: A story, a computer game and my lifelong obsession (2015)](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
 * [2024-08-05, 18:58:16](https://news.ycombinator.com/item?id=41164240) - [Google Loses DOJ Antitrust Suit Over Search](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
@@ -16,7 +17,6 @@
 * [2024-08-05, 15:42:21](https://news.ycombinator.com/item?id=41162397) - [KCL, a constraint-based functional language for configuration](https://www.kcl-lang.io/)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [2024-08-05, 15:05:21](https://news.ycombinator.com/item?id=41162036) - [WebGL visual programming editor cables.gl is now open source](https://cables.gl/standalone)
-* [2024-08-05, 14:57:36](https://news.ycombinator.com/item?id=41161968) - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
 * [2024-08-05, 14:43:25](https://news.ycombinator.com/item?id=41161830) - [It's Lights Out at a Cosmic Restaurant](https://www.nytimes.com/2024/08/04/science/space/astronomy-palomar-restaurant.html)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
 * [2024-08-05, 14:02:13](https://news.ycombinator.com/item?id=41161455) - [Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
