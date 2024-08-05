@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 18:58:16](https://news.ycombinator.com/item?id=41164240) - [Google Loses DOJ Antitrust Suit Over Search](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
+* [2024-08-05, 18:37:19](https://news.ycombinator.com/item?id=41164037) - [World markets shaken over fears of U.S. recession as sell-offs deepen](https://www.cbc.ca/news/business/world-market-united-states-recession-1.7285512)
 * [2024-08-05, 18:31:59](https://news.ycombinator.com/item?id=41163983) - [Every Microsoft employee is now being judged on their security work](https://www.theverge.com/2024/8/5/24213774/microsoft-security-performance-reviews-employees-top-priority)
+* [2024-08-05, 18:26:50](https://news.ycombinator.com/item?id=41163936) - [San Francisco to Ban Rent-Setting Software Amid Gouging Worry](https://www.bloomberg.com/news/articles/2024-07-31/san-francisco-to-ban-software-amid-worry-on-gouging-in-rents)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
+* [2024-08-05, 17:50:58](https://news.ycombinator.com/item?id=41163602) - [Undark and the Radium Girls](https://www.damninteresting.com/undark-and-the-radium-girls/)
 * [2024-08-05, 17:46:35](https://news.ycombinator.com/item?id=41163550) - [Karpathy/Nano-Llama31](https://github.com/karpathy/nano-llama31)
 * [2024-08-05, 17:44:48](https://news.ycombinator.com/item?id=41163536) - [Apple's new Safari feature removes distracting items from websites](https://techcrunch.com/2024/08/05/apples-new-safari-feature-removes-distracting-items-from-websites/)
 * [2024-08-05, 17:44:40](https://news.ycombinator.com/item?id=41163533) - [MacBook Owners with Faulty Butterfly Keyboards Begin Receiving Payouts](https://www.macrumors.com/2024/08/05/macbook-faulty-keyboard-payouts/)
