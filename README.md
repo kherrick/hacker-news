@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-05, 09:37:57](https://news.ycombinator.com/item?id=41159512) - [OpenAI won't watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
 * [2024-08-05, 09:09:04](https://news.ycombinator.com/item?id=41159384) - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
 * [2024-08-05, 09:05:48](https://news.ycombinator.com/item?id=41159372) - [Japan's Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f)
 * [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
@@ -15,7 +16,6 @@
 * [2024-08-04, 20:46:15](https://news.ycombinator.com/item?id=41156222) - [Qub – a framework for building websites with QBasic](https://github.com/jamonholmgren/qub)
 * [2024-08-04, 20:42:03](https://news.ycombinator.com/item?id=41156194) - [Romram: Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 * [2024-08-04, 20:27:50](https://news.ycombinator.com/item?id=41156104) - [Puget Systems' Perspective on Intel CPU Instability Issues](https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/)
-* [2024-08-04, 20:09:37](https://news.ycombinator.com/item?id=41155996) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
 * [2024-08-04, 18:46:25](https://news.ycombinator.com/item?id=41155462) - [Airlines are running out of 4-digit flight numbers](https://viewfromthewing.com/airlines-are-running-out-of-flight-numbers-and-they-dont-know-what-to-do-about-it/)
 * [2024-08-04, 17:57:35](https://news.ycombinator.com/item?id=41155230) - [A primer on the current state of longevity research](https://www.owlposting.com/p/some-questions-and-answers-i-had)
 * [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
