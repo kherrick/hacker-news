@@ -6,7 +6,7 @@
 * [2024-08-05, 19:54:45](https://news.ycombinator.com/item?id=41164885) - [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 * [2024-08-05, 19:29:47](https://news.ycombinator.com/item?id=41164585) - [Below the Root: A story, a computer game and my lifelong obsession (2015)](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
 * [2024-08-05, 18:58:16](https://news.ycombinator.com/item?id=41164240) - [Google loses antitrust suit over search deals on phones](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
-* [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
+* [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:50:58](https://news.ycombinator.com/item?id=41163602) - [Undark and the Radium Girls (2006)](https://www.damninteresting.com/undark-and-the-radium-girls/)
 * [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
 * [2024-08-05, 16:55:52](https://news.ycombinator.com/item?id=41163083) - [C++'s `Noexcept` Can (Sometimes) Help (Or Hurt) Performance](https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/)
@@ -27,9 +27,9 @@
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 00:11:33](https://news.ycombinator.com/item?id=41157192) - [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
 * [2024-08-04, 22:56:22](https://news.ycombinator.com/item?id=41156872) - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
-* [2024-08-04, 22:42:39](https://news.ycombinator.com/item?id=41156793) - [Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
-* [2024-08-04, 18:46:25](https://news.ycombinator.com/item?id=41155462) - [Airlines are running out of 4-digit flight numbers](https://viewfromthewing.com/airlines-are-running-out-of-flight-numbers-and-they-dont-know-what-to-do-about-it/)
 * [2024-08-02, 22:48:14](https://news.ycombinator.com/item?id=41143322) - [Fiber optic drone control beats any RF jammer](https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/)
+* [2024-08-01, 14:19:07](https://news.ycombinator.com/item?id=41129356) - [Rosalind Franklin's Methods of Discovery](https://daily.jstor.org/rosalind-franklins-methods-of-discovery/)
+* [2024-08-01, 13:54:00](https://news.ycombinator.com/item?id=41129081) - [I don't know how CPUs work so I simulated one in code (2019)](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
 
 ## [Archives](archives/index.md)
 
