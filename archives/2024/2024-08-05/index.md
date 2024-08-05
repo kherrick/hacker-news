@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
 * [2024-08-05, 12:02:17](https://news.ycombinator.com/item?id=41160466) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+* [2024-08-05, 11:51:26](https://news.ycombinator.com/item?id=41160376) - [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
 * [2024-08-05, 11:03:42](https://news.ycombinator.com/item?id=41160004) - [The meanest app: Duolingo subjects its users to \"emotional blackmail\"](https://www.businessinsider.com/duolingo-meanest-app-nagging-notifications-melting-icon-gen-z-marketing-2024-7)
 * [2024-08-05, 10:49:23](https://news.ycombinator.com/item?id=41159919) - [Climate change deniers make up nearly a quarter of US Congress](https://www.theguardian.com/us-news/article/2024/aug/05/climate-change-denial-congress)
 * [2024-08-05, 10:30:58](https://news.ycombinator.com/item?id=41159797) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
@@ -26,3 +27,4 @@
 * [2024-08-05, 02:03:48](https://news.ycombinator.com/item?id=41157604) - [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
 * [2024-08-05, 02:02:20](https://news.ycombinator.com/item?id=41157595) - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 * [2024-08-05, 01:28:39](https://news.ycombinator.com/item?id=41157494) - [How I Program in 2024](http://akkartik.name/post/programming-2024)
+* [2024-08-05, 00:11:33](https://news.ycombinator.com/item?id=41157192) - [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
