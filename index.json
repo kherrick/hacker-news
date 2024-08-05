@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-05, 09:05:48",
+      "https://news.ycombinator.com/item?id=41159372"
+    ],
+    [
+      "Japan's Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data",
+      "https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 08:28:25",
+      "https://news.ycombinator.com/item?id=41159180"
+    ],
+    [
+      "Postgres stores data on disk – this one's a page turner",
+      "https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 08:06:51",
       "https://news.ycombinator.com/item?id=41159063"
     ],
@@ -257,26 +277,6 @@
     [
       "Self-Compressing Neural Networks",
       "https://arxiv.org/abs/2301.13142"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 10:37:37",
-      "https://news.ycombinator.com/item?id=41152559"
-    ],
-    [
-      "Organic maps: Experimental feed based public transport mapping",
-      "https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 06:11:00",
-      "https://news.ycombinator.com/item?id=41151439"
-    ],
-    [
-      "Rhombus: Macro-extensible language with conventional syntax built on Racket",
-      "https://docs.racket-lang.org/rhombus/index.html"
     ]
   ],
   [
