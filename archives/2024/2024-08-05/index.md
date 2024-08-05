@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 10:12:04](https://news.ycombinator.com/item?id=41159680) - [Apple Intelligence beta flagged a phishing email as \"Priority\"](https://social.panic.com/@cabel/112905175504595751)
 * [2024-08-05, 09:37:57](https://news.ycombinator.com/item?id=41159512) - [OpenAI won't watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
 * [2024-08-05, 09:09:04](https://news.ycombinator.com/item?id=41159384) - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
 * [2024-08-05, 09:05:48](https://news.ycombinator.com/item?id=41159372) - [Japan's Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f)
