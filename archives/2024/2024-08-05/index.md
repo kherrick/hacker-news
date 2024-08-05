@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 18:31:59](https://news.ycombinator.com/item?id=41163983) - [Every Microsoft employee is now being judged on their security work](https://www.theverge.com/2024/8/5/24213774/microsoft-security-performance-reviews-employees-top-priority)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:46:35](https://news.ycombinator.com/item?id=41163550) - [Karpathy/Nano-Llama31](https://github.com/karpathy/nano-llama31)
 * [2024-08-05, 17:44:48](https://news.ycombinator.com/item?id=41163536) - [Apple's new Safari feature removes distracting items from websites](https://techcrunch.com/2024/08/05/apples-new-safari-feature-removes-distracting-items-from-websites/)
@@ -43,6 +44,7 @@
 * [2024-08-05, 13:03:07](https://news.ycombinator.com/item?id=41160988) - [Olympic athletes (legally) use banned drugs](https://www.cbc.ca/sports/olympics/therapeutic-use-exemptions-1.3801960)
 * [2024-08-05, 12:58:58](https://news.ycombinator.com/item?id=41160953) - [New study uses self-interacting dark matter to solve the final parsec problem](https://phys.org/news/2024-07-interacting-dark-parsec-problem.html)
 * [2024-08-05, 12:41:17](https://news.ycombinator.com/item?id=41160815) - [CrowdStrike unhappy with Delta litigation threat, says airline refused free help](https://www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/)
+* [2024-08-05, 12:29:52](https://news.ycombinator.com/item?id=41160701) - [First impressions of Gleam: lots of joys and some rough edges](https://ntietz.com/blog/first-impressions-of-gleam/)
 * [2024-08-05, 12:02:17](https://news.ycombinator.com/item?id=41160466) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-08-05, 11:51:26](https://news.ycombinator.com/item?id=41160376) - [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
 * [2024-08-05, 11:38:51](https://news.ycombinator.com/item?id=41160268) - [Show HN: Pie Menu – a radial menu for macOS](https://www.pie-menu.com/)
