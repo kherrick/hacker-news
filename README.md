@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-05, 21:26:05](https://news.ycombinator.com/item?id=41165770) - [Microsoft's internal memo: So Long, Intel (1992) [pdf]](http://iowa.gotthefacts.org/011607/5000/PX05476.pdf)
 * [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
-* [2024-08-05, 20:57:15](https://news.ycombinator.com/item?id=41165536) - [Moral Implications of Being a Moderately Successful Computer Scientist and Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-08-05, 20:30:01](https://news.ycombinator.com/item?id=41165273) - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
 * [2024-08-05, 20:15:21](https://news.ycombinator.com/item?id=41165117) - [Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
 * [2024-08-05, 19:54:45](https://news.ycombinator.com/item?id=41164885) - [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)

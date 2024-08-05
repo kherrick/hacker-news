@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 21:26:05](https://news.ycombinator.com/item?id=41165770) - [Microsoft's internal memo: So Long, Intel (1992) [pdf]](http://iowa.gotthefacts.org/011607/5000/PX05476.pdf)
 * [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 * [2024-08-05, 20:57:15](https://news.ycombinator.com/item?id=41165536) - [Moral Implications of Being a Moderately Successful Computer Scientist and Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-08-05, 20:42:26](https://news.ycombinator.com/item?id=41165409) - [The Anatomy of Brainwashing](https://www.science.org/doi/10.1126/science.adp1705)
