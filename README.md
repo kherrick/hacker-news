@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-05, 10:30:58](https://news.ycombinator.com/item?id=41159797) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
 * [2024-08-05, 10:12:04](https://news.ycombinator.com/item?id=41159680) - [Apple Intelligence beta flagged a phishing email as \"Priority\"](https://social.panic.com/@cabel/112905175504595751)
 * [2024-08-05, 09:37:57](https://news.ycombinator.com/item?id=41159512) - [OpenAI won't watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
 * [2024-08-05, 09:09:04](https://news.ycombinator.com/item?id=41159384) - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
@@ -19,7 +20,6 @@
 * [2024-08-04, 20:27:50](https://news.ycombinator.com/item?id=41156104) - [Puget Systems' Perspective on Intel CPU Instability Issues](https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/)
 * [2024-08-04, 18:46:25](https://news.ycombinator.com/item?id=41155462) - [Airlines are running out of 4-digit flight numbers](https://viewfromthewing.com/airlines-are-running-out-of-flight-numbers-and-they-dont-know-what-to-do-about-it/)
 * [2024-08-04, 17:57:35](https://news.ycombinator.com/item?id=41155230) - [A primer on the current state of longevity research](https://www.owlposting.com/p/some-questions-and-answers-i-had)
-* [2024-08-04, 17:55:25](https://news.ycombinator.com/item?id=41155214) - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
 * [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 * [2024-08-04, 16:28:22](https://news.ycombinator.com/item?id=41154560) - [Praise My GitHub Profile](https://praise-me.fly.dev/)
