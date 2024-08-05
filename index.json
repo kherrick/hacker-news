@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-05, 02:04:21",
+      "https://news.ycombinator.com/item?id=41157605"
+    ],
+    [
+      "Japan stocks plunge as much as 7% as Asia shares extend sell-off",
+      "https://www.cnbc.com/2024/08/05/asia-markets.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 01:28:39",
+      "https://news.ycombinator.com/item?id=41157494"
+    ],
+    [
+      "How I Program in 2024",
+      "http://akkartik.name/post/programming-2024"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 23:25:14",
       "https://news.ycombinator.com/item?id=41156985"
     ],
@@ -17,6 +37,16 @@
     [
       "Show HN: Free e-book about WebGPU Programming",
       "https://shi-yan.github.io/webgpuunleashed/"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 22:42:39",
+      "https://news.ycombinator.com/item?id=41156793"
+    ],
+    [
+      "Age is a simple, modern and secure file encryption tool, format, and Go library",
+      "https://github.com/FiloSottile/age"
     ]
   ],
   [
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2024-08-04, 10:37:37",
-      "https://news.ycombinator.com/item?id=41152559"
-    ],
-    [
-      "Organic maps: Experimental feed based public transport mapping",
-      "https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 07:54:22",
-      "https://news.ycombinator.com/item?id=41151825"
-    ],
-    [
-      "A Knownbits Abstract Domain for the Toy Optimizer, Correctly",
-      "https://pypy.org/posts/2024/08/toy-knownbits.html"
-    ]
-  ],
-  [
-    [
       "2024-08-04, 07:46:11",
       "https://news.ycombinator.com/item?id=41151799"
     ],
     [
       "Improving _Generic in C2y",
       "https://thephd.dev/improving-_generic-in-c2y"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 06:11:00",
-      "https://news.ycombinator.com/item?id=41151439"
-    ],
-    [
-      "Rhombus: Macro-extensible language with conventional syntax built on Racket",
-      "https://docs.racket-lang.org/rhombus/index.html"
     ]
   ],
   [
