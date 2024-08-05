@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A New Type of Neural Network Is More Interpretable](https://spectrum.ieee.org/kan-neural-network)
+* [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual a* Pathfinding and Maze Generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [2024-08-05, 15:07:35](https://news.ycombinator.com/item?id=41162054) - [What do people ask chatbots? It's a lot of sex and homework](https://www.washingtonpost.com/technology/2024/08/04/chatgpt-use-real-ai-chatbot-conversations/)
 * [2024-08-05, 14:57:36](https://news.ycombinator.com/item?id=41161968) - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
