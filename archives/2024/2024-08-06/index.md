@@ -9,3 +9,5 @@
 * [2024-08-06, 01:36:00](https://news.ycombinator.com/item?id=41167140) - [#F – A Minimalistic Scheme System](https://github.com/false-schemers/sharpF)
 * [2024-08-06, 01:20:22](https://news.ycombinator.com/item?id=41167060) - [Building rqlite 9.0 – the lightweight distributed DB: Cutting Disk Usage by Half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
 * [2024-08-06, 00:44:26](https://news.ycombinator.com/item?id=41166897) - [Trio of Leaders Leave OpenAI](https://www.theinformation.com/articles/trio-of-leaders-leave-openai)
+* [2024-08-06, 00:30:40](https://news.ycombinator.com/item?id=41166844) - [Why is it so hard for the U.S. to build quality transit?](https://www.fastcompany.com/91166562/us-transit-exceptionalism)
+* [2024-08-06, 00:03:10](https://news.ycombinator.com/item?id=41166719) - [Eeverybody Gets a Star: Yelp's Affect on Restaurants and Reviews, 20 Years In](https://www.eater.com/24200672/yelp-effect-on-restaurants-culture-review-everything)
