@@ -28,7 +28,7 @@
 * [2024-08-05, 20:28:45](https://news.ycombinator.com/item?id=41165257) - [Does space dust fall on the roof of my house?](https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch)
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 14:43:40](https://news.ycombinator.com/item?id=41161831) - [Scheduling Model in LLVM](https://myhsu.xyz/llvm-sched-model-1/)
-* [2024-08-04, 19:06:39](https://news.ycombinator.com/item?id=41155571) - [Show HN: Muky – A kid-friendly music player for iOS](https://muky.app)
+* [2024-08-02, 21:16:58](https://news.ycombinator.com/item?id=41142767) - [Unmanned submarine discovers ice shelf mysteries, then disappears](https://scitechdaily.com/revolutionary-submarine-discovers-ice-shelf-mysteries-then-disappears-without-a-trace/)
 * [2024-08-01, 11:09:20](https://news.ycombinator.com/item?id=41127949) - ['Weird and Daunting': 7k Readers Told Us How It Felt to Focus](https://www.nytimes.com/2024/08/01/upshot/experiment-focus-painting-art.html)
 
 ## [Archives](archives/index.md)
