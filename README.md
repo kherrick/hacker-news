@@ -2,6 +2,7 @@
 
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 * [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
+* [2024-08-06, 04:38:32](https://news.ycombinator.com/item?id=41167800) - [IP.network: Check IP Address](https://www.ip.network)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-06, 03:03:31](https://news.ycombinator.com/item?id=41167467) - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 * [2024-08-06, 01:20:22](https://news.ycombinator.com/item?id=41167060) - [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
@@ -16,7 +17,6 @@
 * [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
 * [2024-08-05, 16:55:52](https://news.ycombinator.com/item?id=41163083) - [C++'s `noexcept` can sometimes help or hurt performance](https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
-* [2024-08-05, 16:13:39](https://news.ycombinator.com/item?id=41162664) - [A RoCE network for distributed AI training at scale](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
 * [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual A* pathfinding and maze generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [2024-08-05, 15:05:21](https://news.ycombinator.com/item?id=41162036) - [WebGL visual programming editor cables.gl is now open source](https://cables.gl/standalone)
