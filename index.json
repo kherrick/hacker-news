@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-08-06, 16:00:38",
-      "https://news.ycombinator.com/item?id=41172143"
-    ],
-    [
-      "Google TV Streamer: Our new entertainment and smart home hub",
-      "https://blog.google/products/google-nest/google-tv-streamer/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 15:56:51",
       "https://news.ycombinator.com/item?id=41172109"
     ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2024-08-06, 00:14:41",
-      "https://news.ycombinator.com/item?id=41166774"
-    ],
-    [
-      "Everything that turned out well in my life followed the same design process",
-      "https://www.henrikkarlsson.xyz/p/unfolding"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 22:02:24",
       "https://news.ycombinator.com/item?id=41166036"
     ],
@@ -237,6 +217,16 @@
     [
       "Show HN: Datoviz – Vulkan-based GPU scientific visualization (C/C++/Python)",
       "https://github.com/datoviz/datoviz"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 19:54:45",
+      "https://news.ycombinator.com/item?id=41164885"
+    ],
+    [
+      "Debugging a rustc segfault on Illumos",
+      "https://sunshowers.io/posts/rustc-segfault-illumos/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Hexsheets: Hexagonal Spreadsheets",
       "https://github.com/pladams9/hexsheets"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 23:10:25",
+      "https://news.ycombinator.com/item?id=41134606"
+    ],
+    [
+      "Japanese multiplication method and other ways to multiply (2020)",
+      "https://www.popularmechanics.com/science/a32131826/ancient-multiplication-method/"
     ]
   ]
 ]
