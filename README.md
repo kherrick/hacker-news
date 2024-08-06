@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-06, 21:38:50](https://news.ycombinator.com/item?id=41175666) - [Drake Releases 100gb Data Dump](https://100gigs.org/)
 * [2024-08-06, 21:30:12](https://news.ycombinator.com/item?id=41175586) - [Please Do Not Attempt to Simplify This Code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-08-06, 20:47:48](https://news.ycombinator.com/item?id=41175181) - [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
@@ -27,7 +28,6 @@
 * [2024-08-06, 01:31:49](https://news.ycombinator.com/item?id=41167116) - [Slingcode – App platform in a single HTML file, QR-code transmittable apps](https://slingcode.net/)
 * [2024-08-05, 20:28:45](https://news.ycombinator.com/item?id=41165257) - [Does space dust fall on the roof of my house?](https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch)
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
-* [2024-08-05, 14:43:40](https://news.ycombinator.com/item?id=41161831) - [Scheduling Model in LLVM](https://myhsu.xyz/llvm-sched-model-1/)
 * [2024-08-02, 17:59:21](https://news.ycombinator.com/item?id=41141062) - [Japan cracks down on use of rideable electric suitcases amid tourist boom](https://www.theguardian.com/world/article/2024/jul/29/japan-rideable-luggage-suitcases-ban-crack-down-tourism)
 * [2024-08-01, 11:09:20](https://news.ycombinator.com/item?id=41127949) - ['Weird and Daunting': 7k Readers Told Us How It Felt to Focus](https://www.nytimes.com/2024/08/01/upshot/experiment-focus-painting-art.html)
 
