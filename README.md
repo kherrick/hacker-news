@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-06, 18:15:58](https://news.ycombinator.com/item?id=41173564) - [Former geography teacher Tim Walz is really into maps](https://minnesotareformer.com/2024/08/06/former-geography-teacher-tim-walz-is-really-into-maps/)
 * [2024-08-06, 18:07:07](https://news.ycombinator.com/item?id=41173486) - [Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
 * [2024-08-06, 18:00:52](https://news.ycombinator.com/item?id=41173423) - [WD announces enterprise 128TB SSD](https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024)
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The Actual Wolf of Wallstreet Cold Call Script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
@@ -17,6 +16,7 @@
 * [2024-08-06, 17:00:15](https://news.ycombinator.com/item?id=41172751) - [Danswer (YC W24) Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source, aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – no storage, low latency](https://fleak.ai/)
+* [2024-08-06, 14:15:41](https://news.ycombinator.com/item?id=41171060) - [Ending production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
 * [2024-08-06, 13:58:24](https://news.ycombinator.com/item?id=41170925) - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
 * [2024-08-06, 10:56:30](https://news.ycombinator.com/item?id=41169611) - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting formulas: Lambdas all the way down](https://text.marvinborner.de/2024-04-16-10.html)
