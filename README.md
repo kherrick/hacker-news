@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-06, 07:03:57](https://news.ycombinator.com/item?id=41168462) - [How old is your globe? [pdf]](https://replogleglobes.com/app/uploads/2023/09/How-old-is-your-globerv.pdf)
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 * [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
 * [2024-08-06, 04:38:32](https://news.ycombinator.com/item?id=41167800) - [IP.network: Check IP Address](https://www.ip.network)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-06, 03:03:31](https://news.ycombinator.com/item?id=41167467) - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 * [2024-08-06, 01:20:22](https://news.ycombinator.com/item?id=41167060) - [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
-* [2024-08-05, 22:58:06](https://news.ycombinator.com/item?id=41166392) - [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
 * [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 * [2024-08-05, 20:30:01](https://news.ycombinator.com/item?id=41165273) - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
 * [2024-08-05, 20:15:21](https://news.ycombinator.com/item?id=41165117) - [Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
