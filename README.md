@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 11:05:03](https://news.ycombinator.com/item?id=41169642) - [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
 * [2024-08-06, 10:43:47](https://news.ycombinator.com/item?id=41169538) - [Big Macs and the Cost of Living Crisis](https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654)
 * [2024-08-06, 09:47:17](https://news.ycombinator.com/item?id=41169195) - [WordStar 7, the last ever DOS version, is re-released for free](https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/)
@@ -11,10 +12,10 @@
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-06, 03:03:31](https://news.ycombinator.com/item?id=41167467) - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 * [2024-08-06, 01:20:22](https://news.ycombinator.com/item?id=41167060) - [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
-* [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
+* [2024-08-05, 22:02:24](https://news.ycombinator.com/item?id=41166036) - [The Saucer – A DIY trackpad attachment for the Voyager](https://blog.zsa.io/diy-voyager-trackpad-saucer/)
 * [2024-08-05, 20:30:01](https://news.ycombinator.com/item?id=41165273) - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
+* [2024-08-05, 20:15:21](https://news.ycombinator.com/item?id=41165117) - [Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
 * [2024-08-05, 19:54:45](https://news.ycombinator.com/item?id=41164885) - [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
-* [2024-08-05, 19:29:47](https://news.ycombinator.com/item?id=41164585) - [Below the Root: A story, a computer game and my lifelong obsession (2015)](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
 * [2024-08-05, 16:55:52](https://news.ycombinator.com/item?id=41163083) - [C++'s `noexcept` can sometimes help or hurt performance](https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/)
@@ -28,7 +29,6 @@
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 00:11:33](https://news.ycombinator.com/item?id=41157192) - [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
 * [2024-08-02, 22:48:14](https://news.ycombinator.com/item?id=41143322) - [Fiber optic drone control beats any RF jammer](https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/)
-* [2024-08-01, 14:19:07](https://news.ycombinator.com/item?id=41129356) - [Rosalind Franklin's Methods of Discovery](https://daily.jstor.org/rosalind-franklins-methods-of-discovery/)
 * [2024-08-01, 13:54:00](https://news.ycombinator.com/item?id=41129081) - [I don't know how CPUs work so I simulated one in code (2019)](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
 
 ## [Archives](archives/index.md)

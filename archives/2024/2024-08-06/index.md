@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 11:05:03](https://news.ycombinator.com/item?id=41169642) - [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
 * [2024-08-06, 10:43:47](https://news.ycombinator.com/item?id=41169538) - [Big Macs and the Cost of Living Crisis](https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654)
 * [2024-08-06, 09:47:17](https://news.ycombinator.com/item?id=41169195) - [WordStar 7, the last ever DOS version, is re-released for free](https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/)
