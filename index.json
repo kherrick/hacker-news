@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-08-06, 00:03:10",
-      "https://news.ycombinator.com/item?id=41166719"
-    ],
-    [
-      "Everybody gets a star: Yelp's effect on restaurants and reviews",
-      "https://www.eater.com/24200672/yelp-effect-on-restaurants-culture-review-everything"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 22:58:06",
       "https://news.ycombinator.com/item?id=41166392"
     ],
@@ -167,6 +157,16 @@
     [
       "A new type of neural network is more interpretable",
       "https://spectrum.ieee.org/kan-neural-network"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 16:13:39",
+      "https://news.ycombinator.com/item?id=41162664"
+    ],
+    [
+      "A RoCE network for distributed AI training at scale",
+      "https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/"
     ]
   ],
   [
