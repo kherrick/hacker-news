@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-06, 21:30:12",
+      "https://news.ycombinator.com/item?id=41175586"
+    ],
+    [
+      "Please Do Not Attempt to Simplify This Code",
+      "https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go"
+    ]
+  ],
+  [
+    [
       "2024-08-06, 21:00:16",
       "https://news.ycombinator.com/item?id=41175322"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41175105"
     ],
     [
-      "Systemd, 10 years later: a historical and technical retrospective",
+      "Systemd, 10 years later: a historical and technical retrospective (2020)",
       "https://blog.darknedgy.net/technology/2020/05/02/0/"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Twitter kills its San Francisco headquarters, will relocate to South Bay",
       "https://sfstandard.com/2024/08/05/x-officially-kills-its-san-francisco-headquarters-will-relocate-workers-to-south-bay/"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 01:31:49",
-      "https://news.ycombinator.com/item?id=41167116"
-    ],
-    [
-      "Slingcode – App platform in a single HTML file, QR-code transmittable apps",
-      "https://slingcode.net/"
     ]
   ],
   [
