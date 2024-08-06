@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 19:12:33](https://news.ycombinator.com/item?id=41174200) - [No price Microsoft could pay Apple to use Bing: Google antitrust ruling excerpts](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)
+* [2024-08-06, 18:40:47](https://news.ycombinator.com/item?id=41173850) - [Nobel Prize-winning physicist Tsung-Dao Lee has died at age 97](https://www.npr.org/2024/08/06/nx-s1-5065675/chinese-american-physicist-tsung-dao-lee-dies)
 * [2024-08-06, 18:15:58](https://news.ycombinator.com/item?id=41173564) - [Former geography teacher Tim Walz is really into maps](https://minnesotareformer.com/2024/08/06/former-geography-teacher-tim-walz-is-really-into-maps/)
 * [2024-08-06, 18:07:07](https://news.ycombinator.com/item?id=41173486) - [Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
 * [2024-08-06, 18:00:52](https://news.ycombinator.com/item?id=41173423) - [WD announces enterprise 128TB SSD](https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024)

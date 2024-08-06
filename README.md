@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-06, 19:12:33](https://news.ycombinator.com/item?id=41174200) - [No price Microsoft could pay Apple to use Bing: Google antitrust ruling excerpts](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)
+* [2024-08-06, 18:40:47](https://news.ycombinator.com/item?id=41173850) - [Nobel Prize-winning physicist Tsung-Dao Lee has died at age 97](https://www.npr.org/2024/08/06/nx-s1-5065675/chinese-american-physicist-tsung-dao-lee-dies)
 * [2024-08-06, 18:07:07](https://news.ycombinator.com/item?id=41173486) - [Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
 * [2024-08-06, 18:00:52](https://news.ycombinator.com/item?id=41173423) - [WD announces enterprise 128TB SSD](https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024)
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The Actual Wolf of Wallstreet Cold Call Script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
@@ -8,7 +10,6 @@
 * [2024-08-06, 17:48:11](https://news.ycombinator.com/item?id=41173288) - [What Postgres Full Text Search Is Missing](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 * [2024-08-06, 17:41:41](https://news.ycombinator.com/item?id=41173223) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
-* [2024-08-06, 17:32:21](https://news.ycombinator.com/item?id=41173111) - [Google transfers 1.2 EB of data every day using Effingo](https://www.theregister.com/2024/08/06/google_effingo/)
 * [2024-08-06, 17:30:19](https://news.ycombinator.com/item?id=41173089) - [Proton announces release of a new VPN protocol, \"Stealth\"](https://protonvpn.com/blog/stealth-vpn-protocol)
 * [2024-08-06, 17:19:03](https://news.ycombinator.com/item?id=41172961) - [Who Wrote the Blue Screens of Death](https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062)
 * [2024-08-06, 17:16:21](https://news.ycombinator.com/item?id=41172938) - [What Is Rotoscope Animation? The Process Explained (2020)](https://www.studiobinder.com/blog/what-is-rotoscope-animation-definition/)
@@ -16,7 +17,6 @@
 * [2024-08-06, 17:00:15](https://news.ycombinator.com/item?id=41172751) - [Danswer (YC W24) Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source, aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – no storage, low latency](https://fleak.ai/)
-* [2024-08-06, 14:15:41](https://news.ycombinator.com/item?id=41171060) - [Ending production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
 * [2024-08-06, 13:58:24](https://news.ycombinator.com/item?id=41170925) - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
 * [2024-08-06, 10:56:30](https://news.ycombinator.com/item?id=41169611) - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting formulas: Lambdas all the way down](https://text.marvinborner.de/2024-04-16-10.html)
