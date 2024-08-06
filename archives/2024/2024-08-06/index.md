@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 09:47:17](https://news.ycombinator.com/item?id=41169195) - [WordStar 7, the last ever DOS version, is re-released for free](https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/)
 * [2024-08-06, 08:39:55](https://news.ycombinator.com/item?id=41168904) - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
 * [2024-08-06, 08:37:31](https://news.ycombinator.com/item?id=41168889) - [X is closing San Francisco HQ and relocating staffers to San Jose](https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/)
 * [2024-08-06, 07:03:57](https://news.ycombinator.com/item?id=41168462) - [How old is your globe? [pdf]](https://replogleglobes.com/app/uploads/2023/09/How-old-is-your-globerv.pdf)
