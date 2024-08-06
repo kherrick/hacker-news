@@ -129,6 +129,235 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41173486">
+          <h3>
+            <a
+              class="item"
+              href="https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/"
+              >Parody site ClownStrike refused to bow to CrowdStrike's bogus
+              DMCA takedown</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-06 @ 18:07:07</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41173486"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41173423">
+          <h3>
+            <a
+              class="item"
+              href="https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024"
+              >WD announces enterprise 128TB SSD</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-06 @ 18:00:52</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41173423"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41173377">
+          <h3>
+            <a
+              class="item"
+              href="https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script"
+              >The Actual Wolf of Wallstreet Cold Call Script</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-06 @ 17:56:37</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41173377"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41173335">
+          <h3>
+            <a
+              class="item"
+              href="https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/"
+              >Tracking Supermarket Prices with Playwright</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-06 @ 17:52:51</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41173335"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41173330">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41173330"
+              >Launch HN: Firezone (YC W22) – Zero-trust access platform built
+              on WireGuard</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-06 @ 17:52:32</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41173330"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.firezone.dev">https://www.firezone.dev</a>),
+              a remote access platform that is a replacement for legacy
+              corporate VPNs. Built on WireGuard (a fast, modern VPN protocol),
+              Firezone secures your team’s apps, networks and services using
+              access policies synced with your identity provider. You deploy
+              tiny, self-contained binaries into your infrastructure anywhere
+              you need access, and your workforce uses our client apps to reach
+              the resources they protect.
+              <p>
+                Here’s a demo:
+                <a href="https://youtu.be/QEv7dJwKMvo"
+                  >https://youtu.be/QEv7dJwKMvo</a
+                >.
+              </p>
+              <p>
+                Historically, the tool used to achieve this has been the
+                corporate VPN. These work off a security model where you
+                authenticate with the perimeter and gain access to the network
+                behind it, which works when most workers are in office and
+                resources on-prem. But as workers go remote and resources move
+                to the cloud, the perimeter blurs, making it harder to secure.
+              </p>
+              <p>
+                I experienced this issue first-hand as a security engineer
+                hunting for APT malware on Cisco's intranet. Malware often
+                landed first on remote employee laptops, then spread from there
+                to critical internal systems. Firewalls were somewhat effective
+                at solving this problem, but they were clunky—it could take
+                months for Infosec to approve requests to allow your team’s app
+                or services through.
+              </p>
+              <p>
+                When Covid forced everyone to work from home, even Cisco
+                struggled to grapple with the increased demand on its VPN
+                concentrators. The perimeter defense model meant that we had to
+                VPN into the intranet to get anything done, and if the speeds
+                were really bad, we couldn't work that day.
+              </p>
+              <p>
+                One way to solve the above problems is to break up the single
+                perimeter into many smaller ones, shifting them closer to the
+                resources they protect. That way, compromising one perimeter
+                does not gain you access to all others, and traffic is not
+                bottlenecked through a single choke point. However, now you have
+                many VPN tunnels instead of one, and most VPN protocols are too
+                heavyweight for this.
+              </p>
+              <p>
+                If <i>Cisco</i> was facing these issues with remote access, I
+                thought, others <i>must</i> be facing similar problems. So when
+                WireGuard came along, I started Firezone.
+              </p>
+              <p>
+                WireGuard tunnels are so lightweight you can open thousands of
+                them from an iPhone to whatever resources you need access to.
+                Firezone builds on that and also handles NAT traversal, so you
+                don’t need to change your firewall configuration to use it. Just
+                deploy Gateways - small, statically-linked Linux binaries -
+                where you need access, and Firezone’s homegrown STUN/TURN layer
+                (we call “snownet”) handles the rest. If you need more
+                throughput, just deploy more Gateways, and load is balanced
+                across all of them.
+              </p>
+              <p>
+                WireGuard keys are distributed to peers only when access to a
+                particular resource is authorized, and private keys never leave
+                the device’s memory where they were generated. If a Gateway goes
+                offline, Firezone will migrate connections from it to healthy
+                ones within about 10 seconds, without user intervention. We lean
+                heavily on Elixir/Phoenix and OTP’s awesome concurrency features
+                to power all of this.
+              </p>
+              <p>
+                Firezone’s access control system is intentionally very simple.
+                Policies define which user groups have access to which resources
+                based on a default-deny system. More perimeters means more rules
+                managing access to them, so we intentionally wanted to keep
+                admins out of “ACL hell” as the number of controls grew.
+              </p>
+              <p>
+                One area we’re actively working to improve is our UI/UX -
+                Firezone is a product built by engineers, for engineers, and at
+                times, it shows! Expect refinements to come in this area over
+                the coming months.
+              </p>
+              <p>
+                I’d love for you to give Firezone a try! You can spin up a demo
+                instance at
+                <a href="https://app.firezone.dev/try"
+                  >https://app.firezone.dev/try</a
+                >
+                without signing up, and download clients from
+                <a href="https://www.firezone.dev/kb/client-apps"
+                  >https://www.firezone.dev/kb/client-apps</a
+                >. And if you’re curious to learn more about how Firezone works,
+                see for yourself - we build in the open at
+                <a href="https://www.github.com/firezone/firezone"
+                  >https://www.github.com/firezone/firezone</a
+                >.
+              </p>
+              <p>Thanks for reading, and I look forward to your feedback!</p>
+            </div>
+          </section>
+        </section>
+        <section id="41173288">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.paradedb.com/pages/elasticsearch_vs_postgres"
+              >What Postgres Full Text Search Is Missing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-06 @ 17:48:11</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41173288"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41173223">
           <h3>
             <a
@@ -141,11 +370,11 @@
             <h4>
               <span>2024-08-06 @ 17:41:41</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41173223"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -160,11 +389,11 @@
             <h4>
               <span>2024-08-06 @ 17:36:10</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41173161"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -216,11 +445,11 @@
             <h4>
               <span>2024-08-06 @ 17:30:19</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41173089"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -237,11 +466,11 @@
             <h4>
               <span>2024-08-06 @ 17:19:03</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41172961"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -277,11 +506,11 @@
             <h4>
               <span>2024-08-06 @ 17:13:46</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41172899"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -304,7 +533,7 @@
         <section id="41172509">
           <h3>
             <a class="item" href="https://github.com/dagmawibabi/ScholArxiv"
-              >ScholArxiv – an open-source aesthetic and minimal research paper
+              >ScholArxiv – an open-source, aesthetic and minimal research paper
               explorer</a
             >
           </h3>
@@ -312,7 +541,7 @@
             <h4>
               <span>2024-08-06 @ 16:37:48</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41172509"
                   >Comments</a
@@ -333,11 +562,11 @@
             <h4>
               <span>2024-08-06 @ 15:56:51</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41172109"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -353,7 +582,7 @@
             <h4>
               <span>2024-08-06 @ 15:49:07</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41172036"
                   >Comments</a
@@ -421,11 +650,11 @@
             <h4>
               <span>2024-08-06 @ 14:15:41</span
               ><span class="points-container"
-                >Points: <span class="points">494</span></span
+                >Points: <span class="points">497</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41171060"
                   >Comments</a
-                ><span class="descendants">: 480</span></span
+                ><span class="descendants">: 483</span></span
               >
             </h4>
           </section>
@@ -441,7 +670,7 @@
             <h4>
               <span>2024-08-06 @ 13:58:24</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41170925"
                   >Comments</a
@@ -504,30 +733,11 @@
             <h4>
               <span>2024-08-06 @ 09:54:31</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41169244"
                   >Comments</a
                 ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41168971">
-          <h3>
-            <a class="item" href="https://github.com/useplunk/plunk"
-              >Plunk: The open source email platform</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-06 @ 08:54:58</span
-              ><span class="points-container"
-                >Points: <span class="points">72</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41168971"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -544,11 +754,11 @@
             <h4>
               <span>2024-08-06 @ 03:49:20</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41167615"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -566,11 +776,11 @@
             <h4>
               <span>2024-08-06 @ 03:30:50</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41167561"
                   >Comments</a
-                ><span class="descendants">: 377</span></span
+                ><span class="descendants">: 398</span></span
               >
             </h4>
           </section>
@@ -586,32 +796,11 @@
             <h4>
               <span>2024-08-06 @ 01:31:49</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41167116"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41167060">
-          <h3>
-            <a
-              class="item"
-              href="https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/"
-              >Building rqlite 9.0: Cutting disk usage by half</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-06 @ 01:20:22</span
-              ><span class="points-container"
-                >Points: <span class="points">163</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41167060"
-                  >Comments</a
-                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -637,104 +826,23 @@
             </h4>
           </section>
         </section>
-        <section id="41164993">
-          <h3>
-            <a class="item" href="https://github.com/datoviz/datoviz"
-              >Show HN: Datoviz – Vulkan-based GPU scientific visualization
-              (C/C++/Python)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-05 @ 20:03:38</span
-              ><span class="points-container"
-                >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41164993"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Datoviz is a key part of the CZI-funded Vispy 2.0 project and
-                will serve as its main GPU backend. Datoviz provides core GPU
-                visualization capabilities while VisPy 2.0 will provide
-                high-level plotting functionality (a bit similar to NumPy vs
-                SciPy).
-              </p>
-              <p>What I'm looking for from the community:</p>
-              <p>
-                1. Compatibility feedback: I'd appreciate quick feedback on how
-                these precompiled Python wheels perform across different
-                operating systems and graphics hardware.
-              </p>
-              <p>
-                2. Library feedback: Datoviz is still in its early stages and
-                actively evolving. The API is subject to change, and I'd
-                appreciate any feedback on its functionality and design.
-              </p>
-              <p>Please report issues on GitHub.</p>
-              <p>
-                Since the initial 2021 v0.1 release, the underlying technology
-                has matured significantly. The internal architecture is now more
-                robust and modular, paving the way for support for other
-                rendering technologies like WebGPU and WebAssembly in the medium
-                term.
-              </p>
-              <p>
-                While still somewhat limited, the focus is on ensuring
-                stability, performance, and visual quality. Available visuals
-                include points, markers, line segments, paths, glyphs, images,
-                spheres, 3D meshes, and basic volume rendering. Some important
-                features, like axes and picking, are planned for v0.3 and later.
-              </p>
-              <p>
-                Please give it a try, report any issues on GitHub, and feel free
-                to ask questions. You're also welcome to contribute. I'm looking
-                forward to your feedback!
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="41164885">
+        <section id="41165257">
           <h3>
             <a
               class="item"
-              href="https://sunshowers.io/posts/rustc-segfault-illumos/"
-              >Debugging a rustc segfault on Illumos</a
+              href="https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch"
+              >Does space dust fall on the roof of my house?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-05 @ 19:54:45</span
+              <span>2024-08-05 @ 20:28:45</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41164885"
+                ><a href="https://news.ycombinator.com/item?id=41165257"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41164833">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
-              >Hiding messages in x86 binaries using semantic duals (2020)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-05 @ 19:50:02</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41164833"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -758,6 +866,63 @@
             </h4>
           </section>
         </section>
+        <section id="41155571">
+          <h3>
+            <a class="item" href="https://muky.app"
+              >Show HN: Muky – A kid-friendly music player for iOS</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-04 @ 19:06:39</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41155571"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I've developed an iOS app called Muky (<a
+                  href="https://muky.app/"
+                  >https://muky.app/</a
+                >) that allows parents to create and manage music playlists for
+                their children. It provides a focused, distraction-free audio
+                experience for kids.
+              </p>
+              <p>
+                I created this app because my 4-year-old daughter loves music,
+                but existing solutions like Tonies or cassettes didn't meet our
+                needs. Using an iPhone or iPad directly with Apple Music wasn't
+                ideal either. Muky aims to solve these issues under the motto
+                "Music for the Kids".
+              </p>
+              <p>Here some key features:</p>
+              <p>* Dedicated music player for children</p>
+              <p>* Parent-controlled playlists</p>
+              <p>* Compatible with Apple Music (Spotify support coming soon)</p>
+              <p>* Distraction-free interface</p>
+              <p>* Works well with iOS "Guided Access" feature</p>
+              <p>
+                * Keeps kids' music separate from parents' personal collections
+                and algorithms
+              </p>
+              <p>* iOS 15 Support for Older Devices</p>
+              <p>* Direct Start in Audio Player</p>
+              <p>
+                * Password Protection (Secure the audio player mode with a
+                password. Exiting the audio player mode requires the password
+                set by the parents, ensuring kids cannot exit the app simply.)
+              </p>
+              <p>
+                I'd love to get your feedback and hear your thoughts on this
+                approach to kid-friendly music streaming.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="41154650">
           <h3>
             <a class="item" href="https://www.w3.org/2014/strint/papers/65.pdf"
@@ -769,45 +934,13 @@
             <h4>
               <span>2024-08-04 @ 16:39:30</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41154650"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41147651">
-          <h3>
-            <a class="item" href="https://creduse.com"
-              >Show HN: I made a credit system API</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-03 @ 16:44:26</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41147651"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I built Creduse because more and more users want pay-as-you-go
-                models, and founders need new ways to increase user engagement
-                or nicely limit cost-intensive features (see AI).
-              </p>
-              <p>
-                Creduse is built by a developer for developers. I hope it will
-                help as many startups as possible.
-              </p>
-              <p>Feedback are very much appreciated.</p>
-              <p>Francesco</p>
-            </div>
           </section>
         </section>
         <section id="41142767">
@@ -823,52 +956,11 @@
             <h4>
               <span>2024-08-02 @ 21:16:58</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41142767"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41138388">
-          <h3>
-            <a class="item" href="https://github.com/pladams9/hexsheets"
-              >Hexsheets: Hexagonal Spreadsheets</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-02 @ 12:43:20</span
-              ><span class="points-container"
-                >Points: <span class="points">40</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41138388"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41134606">
-          <h3>
-            <a
-              class="item"
-              href="https://www.popularmechanics.com/science/a32131826/ancient-multiplication-method/"
-              >Japanese multiplication method and other ways to multiply
-              (2020)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-01 @ 23:10:25</span
-              ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41134606"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
