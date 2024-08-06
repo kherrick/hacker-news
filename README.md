@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-06, 14:15:41](https://news.ycombinator.com/item?id=41171060) - [Google Is Ending Production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
+* [2024-08-06, 14:15:41](https://news.ycombinator.com/item?id=41171060) - [We’re ending production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
 * [2024-08-06, 13:58:24](https://news.ycombinator.com/item?id=41170925) - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 10:56:30](https://news.ycombinator.com/item?id=41169611) - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
