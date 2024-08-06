@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 19:48:16](https://news.ycombinator.com/item?id=41174559) - [AI agents but they're working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)
+* [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall 24 batch](https://www.ycombinator.com/blog/yc-fall-2024#)
 * [2024-08-06, 19:12:33](https://news.ycombinator.com/item?id=41174200) - [No price Microsoft could pay Apple to use Bing: Google antitrust ruling excerpts](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)
 * [2024-08-06, 18:40:47](https://news.ycombinator.com/item?id=41173850) - [Nobel Prize-winning physicist Tsung-Dao Lee has died at age 97](https://www.npr.org/2024/08/06/nx-s1-5065675/chinese-american-physicist-tsung-dao-lee-dies)
 * [2024-08-06, 18:15:58](https://news.ycombinator.com/item?id=41173564) - [Former geography teacher Tim Walz is really into maps](https://minnesotareformer.com/2024/08/06/former-geography-teacher-tim-walz-is-really-into-maps/)
@@ -26,6 +28,7 @@
 * [2024-08-06, 17:00:15](https://news.ycombinator.com/item?id=41172751) - [Danswer (YC W24) Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
 * [2024-08-06, 16:50:05](https://news.ycombinator.com/item?id=41172637) - [ByteDance joins OpenAI's Sora rivals with AI video app launch](https://www.reuters.com/technology/artificial-intelligence/bytedance-joins-openais-sora-rivals-with-ai-video-app-launch-2024-08-06/)
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
+* [2024-08-06, 16:28:54](https://news.ycombinator.com/item?id=41172411) - [Hetzner Cloud – Singapore location available](https://docs.hetzner.cloud/whats-new#2024-08-06-hetzner-goes-singapore---new-location-available-)
 * [2024-08-06, 16:28:21](https://news.ycombinator.com/item?id=41172399) - [Dell lays of 12,500 people](https://www.theregister.com/2024/08/06/dell_layoffs/)
 * [2024-08-06, 16:00:38](https://news.ycombinator.com/item?id=41172143) - [Google TV Streamer: Our new entertainment and smart home hub](https://blog.google/products/google-nest/google-tv-streamer/)
 * [2024-08-06, 15:56:51](https://news.ycombinator.com/item?id=41172109) - [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
