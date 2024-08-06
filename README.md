@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-06, 00:44:26](https://news.ycombinator.com/item?id=41166897) - [Trio of Leaders Leave OpenAI](https://www.theinformation.com/articles/trio-of-leaders-leave-openai)
 * [2024-08-05, 22:58:06](https://news.ycombinator.com/item?id=41166392) - [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
 * [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 * [2024-08-05, 20:30:01](https://news.ycombinator.com/item?id=41165273) - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
@@ -14,7 +15,6 @@
 * [2024-08-05, 16:29:18](https://news.ycombinator.com/item?id=41162827) - [Associative tools, thinking, and creativity: On augmenting creativity](https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
 * [2024-08-05, 16:13:39](https://news.ycombinator.com/item?id=41162664) - [A RoCE network for distributed AI training at scale](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
-* [2024-08-05, 16:03:47](https://news.ycombinator.com/item?id=41162576) - [DCPerf: An open source benchmark suite for hyperscale compute applications](https://engineering.fb.com/2024/08/05/data-center-engineering/dcperf-open-source-benchmark-suite-for-hyperscale-compute-applications/)
 * [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual A* pathfinding and maze generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
 * [2024-08-05, 15:42:21](https://news.ycombinator.com/item?id=41162397) - [KCL, a constraint-based functional language for configuration](https://www.kcl-lang.io/)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
@@ -26,10 +26,10 @@
 * [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 00:11:33](https://news.ycombinator.com/item?id=41157192) - [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
-* [2024-08-04, 22:56:22](https://news.ycombinator.com/item?id=41156872) - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
 * [2024-08-04, 21:36:29](https://news.ycombinator.com/item?id=41156506) - [The Path to StyleGan2 – Implementing the Progressive Growing GAN](https://ym2132.github.io/Progressive_GAN)
 * [2024-08-01, 14:19:07](https://news.ycombinator.com/item?id=41129356) - [Rosalind Franklin's Methods of Discovery](https://daily.jstor.org/rosalind-franklins-methods-of-discovery/)
 * [2024-08-01, 13:54:00](https://news.ycombinator.com/item?id=41129081) - [I don't know how CPUs work so I simulated one in code (2019)](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
+* [2024-08-01, 05:51:38](https://news.ycombinator.com/item?id=41126504) - [The human typewriter, or why optimizing for typing is short-sighted](https://felixk15.github.io/posts/dont-optimize-for-typing/)
 
 ## [Archives](archives/index.md)
 

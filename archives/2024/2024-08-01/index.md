@@ -89,6 +89,7 @@
 * [2024-08-01, 06:59:35](https://news.ycombinator.com/item?id=41126782) - [Stop Killing Games – European Citizens' Initiative](https://www.stopkillinggames.com/eci)
 * [2024-08-01, 06:38:59](https://news.ycombinator.com/item?id=41126685) - [Study: Consumers Actively Turned Off by AI](https://futurism.com/the-byte/study-consumers-turned-off-products-ai)
 * [2024-08-01, 06:11:03](https://news.ycombinator.com/item?id=41126577) - [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
+* [2024-08-01, 05:51:38](https://news.ycombinator.com/item?id=41126504) - [The human typewriter, or why optimizing for typing is short-sighted](https://felixk15.github.io/posts/dont-optimize-for-typing/)
 * [2024-08-01, 05:46:20](https://news.ycombinator.com/item?id=41126478) - [Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
 * [2024-08-01, 05:19:12](https://news.ycombinator.com/item?id=41126380) - [Scenes of Reading on the Early Portrait Postcard](https://publicdomainreview.org/essay/scenes-of-reading-on-the-early-portrait-postcard/)
 * [2024-08-01, 04:59:21](https://news.ycombinator.com/item?id=41126307) - [Baidu's Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/abs/2407.19813)
