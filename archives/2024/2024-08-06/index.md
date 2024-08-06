@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+* [2024-08-06, 20:47:48](https://news.ycombinator.com/item?id=41175181) - [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
 * [2024-08-06, 20:42:03](https://news.ycombinator.com/item?id=41175105) - [Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-08-06, 20:31:34](https://news.ycombinator.com/item?id=41174996) - [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
 * [2024-08-06, 20:16:22](https://news.ycombinator.com/item?id=41174862) - [The Future of Open Source](https://blog.gitbutler.com/the-future-of-open-source/)
@@ -12,6 +13,7 @@
 * [2024-08-06, 19:48:16](https://news.ycombinator.com/item?id=41174559) - [AI agents but they're working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)
 * [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall 24 batch](https://www.ycombinator.com/blog/yc-fall-2024#)
 * [2024-08-06, 19:12:33](https://news.ycombinator.com/item?id=41174200) - [No price Microsoft could pay Apple to use Bing: Google antitrust ruling excerpts](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)
+* [2024-08-06, 18:54:28](https://news.ycombinator.com/item?id=41174014) - [How not to say the wrong thing (2013)](https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html)
 * [2024-08-06, 18:40:47](https://news.ycombinator.com/item?id=41173850) - [Nobel Prize-winning physicist Tsung-Dao Lee has died at age 97](https://www.npr.org/2024/08/06/nx-s1-5065675/chinese-american-physicist-tsung-dao-lee-dies)
 * [2024-08-06, 18:15:58](https://news.ycombinator.com/item?id=41173564) - [Former geography teacher Tim Walz is really into maps](https://minnesotareformer.com/2024/08/06/former-geography-teacher-tim-walz-is-really-into-maps/)
 * [2024-08-06, 18:07:07](https://news.ycombinator.com/item?id=41173486) - [Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
