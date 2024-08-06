@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
 * [2024-08-06, 14:18:35](https://news.ycombinator.com/item?id=41171087) - [Berkshire Hathaway sub TransRe announces CAIO post, dedicated AI team](https://www.reinsurancene.ws/transre-creates-chief-ai-officer-role-restructures-data-science-team/)
+* [2024-08-06, 14:15:41](https://news.ycombinator.com/item?id=41171060) - [Google Is Ending Production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
+* [2024-08-06, 14:13:23](https://news.ycombinator.com/item?id=41171045) - [Applied Materials Denied US CHIPS Act Funding](https://www.datacenterdynamics.com/en/news/applied-materials-denied-us-chips-act-funding-report/)
 * [2024-08-06, 13:58:24](https://news.ycombinator.com/item?id=41170925) - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
 * [2024-08-06, 13:45:59](https://news.ycombinator.com/item?id=41170830) - [Men report more pressure and threats to share location and accounts](https://malware.news/t/men-report-more-pressure-and-threats-to-share-location-and-accounts-with-partners-research-shows/84907)
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
@@ -14,6 +16,7 @@
 * [2024-08-06, 10:19:47](https://news.ycombinator.com/item?id=41169407) - [Minds are 'not currency for social media,' says EU as TikTok kills Lite Rewards](https://thenextweb.com/news/tiktok-kills-lite-rewards-eu)
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
 * [2024-08-06, 09:47:17](https://news.ycombinator.com/item?id=41169195) - [WordStar 7, the last ever DOS version, is re-released for free](https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/)
+* [2024-08-06, 08:54:58](https://news.ycombinator.com/item?id=41168971) - [Plunk: The open source email platform](https://github.com/useplunk/plunk)
 * [2024-08-06, 08:39:55](https://news.ycombinator.com/item?id=41168904) - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
 * [2024-08-06, 08:37:31](https://news.ycombinator.com/item?id=41168889) - [X is closing San Francisco HQ and relocating staffers to San Jose](https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/)
 * [2024-08-06, 07:03:57](https://news.ycombinator.com/item?id=41168462) - [How old is your globe? [pdf]](https://replogleglobes.com/app/uploads/2023/09/How-old-is-your-globerv.pdf)
