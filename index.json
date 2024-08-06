@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-06, 14:18:35",
-      "https://news.ycombinator.com/item?id=41171087"
-    ],
-    [
-      "Berkshire Hathaway sub TransRe announces CAIO post, dedicated AI team",
-      "https://www.reinsurancene.ws/transre-creates-chief-ai-officer-role-restructures-data-science-team/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 14:15:41",
       "https://news.ycombinator.com/item?id=41171060"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
-      "2024-08-06, 14:13:23",
-      "https://news.ycombinator.com/item?id=41171045"
-    ],
-    [
-      "Applied Materials Denied US CHIPS Act Funding",
-      "https://www.datacenterdynamics.com/en/news/applied-materials-denied-us-chips-act-funding-report/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 13:58:24",
       "https://news.ycombinator.com/item?id=41170925"
     ],
     [
       "Show HN: I built a simple, open-source tool to manage servers and SSH keys",
       "https://github.com/d3witt/viking"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 13:31:36",
+      "https://news.ycombinator.com/item?id=41170713"
+    ],
+    [
+      "Ziff Davis is buying CNET for just $100M",
+      "https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane",
       "https://news.ycombinator.com/item?id=41163382"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 16:55:52",
+      "https://news.ycombinator.com/item?id=41163083"
+    ],
+    [
+      "C++'s `noexcept` can sometimes help or hurt performance",
+      "https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/"
     ]
   ],
   [
