@@ -2,7 +2,7 @@
 
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 11:05:03](https://news.ycombinator.com/item?id=41169642) - [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
-* [2024-08-06, 10:43:47](https://news.ycombinator.com/item?id=41169538) - [Big Macs and the Cost of Living Crisis](https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654)
+* [2024-08-06, 10:19:47](https://news.ycombinator.com/item?id=41169407) - [Minds are 'not currency for social media,' says EU as TikTok kills Lite Rewards](https://thenextweb.com/news/tiktok-kills-lite-rewards-eu)
 * [2024-08-06, 09:47:17](https://news.ycombinator.com/item?id=41169195) - [WordStar 7, the last ever DOS version, is re-released for free](https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/)
 * [2024-08-06, 08:39:55](https://news.ycombinator.com/item?id=41168904) - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
 * [2024-08-06, 08:37:31](https://news.ycombinator.com/item?id=41168889) - [X is closing San Francisco HQ and relocating staffers to San Jose](https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/)
@@ -14,7 +14,6 @@
 * [2024-08-06, 01:20:22](https://news.ycombinator.com/item?id=41167060) - [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
 * [2024-08-05, 22:02:24](https://news.ycombinator.com/item?id=41166036) - [The Saucer – A DIY trackpad attachment for the Voyager](https://blog.zsa.io/diy-voyager-trackpad-saucer/)
 * [2024-08-05, 20:30:01](https://news.ycombinator.com/item?id=41165273) - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
-* [2024-08-05, 20:15:21](https://news.ycombinator.com/item?id=41165117) - [Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
 * [2024-08-05, 19:54:45](https://news.ycombinator.com/item?id=41164885) - [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
@@ -29,6 +28,7 @@
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 00:11:33](https://news.ycombinator.com/item?id=41157192) - [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
 * [2024-08-02, 22:48:14](https://news.ycombinator.com/item?id=41143322) - [Fiber optic drone control beats any RF jammer](https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/)
+* [2024-08-01, 14:19:07](https://news.ycombinator.com/item?id=41129356) - [Rosalind Franklin's Methods of Discovery](https://daily.jstor.org/rosalind-franklins-methods-of-discovery/)
 * [2024-08-01, 13:54:00](https://news.ycombinator.com/item?id=41129081) - [I don't know how CPUs work so I simulated one in code (2019)](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
 
 ## [Archives](archives/index.md)
