@@ -16,7 +16,7 @@
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source, aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – no storage, low latency](https://fleak.ai/)
 * [2024-08-06, 14:42:03](https://news.ycombinator.com/item?id=41171280) - [Why Polars rewrote its Arrow string data type](https://pola.rs/posts/polars-string-type/)
-* [2024-08-06, 13:58:24](https://news.ycombinator.com/item?id=41170925) - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
+* [2024-08-06, 12:59:51](https://news.ycombinator.com/item?id=41170454) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
 * [2024-08-06, 10:56:30](https://news.ycombinator.com/item?id=41169611) - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting formulas: Lambdas all the way down](https://text.marvinborner.de/2024-04-16-10.html)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
