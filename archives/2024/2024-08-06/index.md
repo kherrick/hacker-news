@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 17:41:41](https://news.ycombinator.com/item?id=41173223) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+* [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
+* [2024-08-06, 17:30:19](https://news.ycombinator.com/item?id=41173089) - [Proton announces release of a new VPN protocol, \"Stealth\"](https://protonvpn.com/blog/stealth-vpn-protocol)
 * [2024-08-06, 17:22:52](https://news.ycombinator.com/item?id=41173001) - [Open source tools to query OpenStreetMap](https://wcedmisten.fyi/post/how-to-query-osm/)
 * [2024-08-06, 17:21:28](https://news.ycombinator.com/item?id=41172987) - [Microsoft says Delta ignored Satya Nadella's offer of CrowdStrike help](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
 * [2024-08-06, 17:19:03](https://news.ycombinator.com/item?id=41172961) - [Who Wrote the Blue Screens of Death](https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062)
@@ -14,6 +17,7 @@
 * [2024-08-06, 16:50:05](https://news.ycombinator.com/item?id=41172637) - [ByteDance joins OpenAI's Sora rivals with AI video app launch](https://www.reuters.com/technology/artificial-intelligence/bytedance-joins-openais-sora-rivals-with-ai-video-app-launch-2024-08-06/)
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 16:28:21](https://news.ycombinator.com/item?id=41172399) - [Dell lays of 12,500 people](https://www.theregister.com/2024/08/06/dell_layoffs/)
+* [2024-08-06, 16:00:38](https://news.ycombinator.com/item?id=41172143) - [Google TV Streamer: Our new entertainment and smart home hub](https://blog.google/products/google-nest/google-tv-streamer/)
 * [2024-08-06, 15:56:51](https://news.ycombinator.com/item?id=41172109) - [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – No storage, Low Latency](https://fleak.ai/)
 * [2024-08-06, 14:18:35](https://news.ycombinator.com/item?id=41171087) - [Berkshire Hathaway sub TransRe announces CAIO post, dedicated AI team](https://www.reinsurancene.ws/transre-creates-chief-ai-officer-role-restructures-data-science-team/)
@@ -42,6 +46,7 @@
 * [2024-08-06, 03:56:12](https://news.ycombinator.com/item?id=41167645) - [Don't use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
 * [2024-08-06, 03:51:31](https://news.ycombinator.com/item?id=41167624) - [A simply utility script which allows you to analyze your Python file](https://github.com/mraza007/python-file-analyzer)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
+* [2024-08-06, 03:30:50](https://news.ycombinator.com/item?id=41167561) - [Twitter kills its San Francisco headquarters, will relocate to South Bay](https://sfstandard.com/2024/08/05/x-officially-kills-its-san-francisco-headquarters-will-relocate-workers-to-south-bay/)
 * [2024-08-06, 03:03:31](https://news.ycombinator.com/item?id=41167467) - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 * [2024-08-06, 02:30:23](https://news.ycombinator.com/item?id=41167359) - [Creativity secrets from armed robbers, fraudsters and other criminals](https://denisecullen.com.au/creativity-secrets-from-armed-robbers-fraudsters-and-other-criminals/)
 * [2024-08-06, 01:36:00](https://news.ycombinator.com/item?id=41167140) - [#F – A Minimalistic Scheme System](https://github.com/false-schemers/sharpF)
