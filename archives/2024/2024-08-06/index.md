@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
+* [2024-08-06, 05:25:15](https://news.ycombinator.com/item?id=41168031) - [Is Europe headed towards a new Ice Age as ocean current nears collapse?](https://www.thenationalnews.com/business/energy/2024/07/29/is-europe-headed-for-ice-age-as-ocean-current-nears-collapse/)
 * [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
 * [2024-08-06, 03:56:12](https://news.ycombinator.com/item?id=41167645) - [Don't use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
 * [2024-08-06, 03:51:31](https://news.ycombinator.com/item?id=41167624) - [A simply utility script which allows you to analyze your Python file](https://github.com/mraza007/python-file-analyzer)
