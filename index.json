@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-06, 14:18:35",
+      "https://news.ycombinator.com/item?id=41171087"
+    ],
+    [
+      "Berkshire Hathaway sub TransRe announces CAIO post, dedicated AI team",
+      "https://www.reinsurancene.ws/transre-creates-chief-ai-officer-role-restructures-data-science-team/"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 13:58:24",
+      "https://news.ycombinator.com/item?id=41170925"
+    ],
+    [
+      "Show HN: I built a simple, open-source tool to manage servers and SSH keys",
+      "https://github.com/d3witt/viking"
+    ]
+  ],
+  [
+    [
       "2024-08-06, 12:01:09",
       "https://news.ycombinator.com/item?id=41170008"
     ],
@@ -11,12 +31,22 @@
   ],
   [
     [
-      "2024-08-06, 08:39:55",
-      "https://news.ycombinator.com/item?id=41168904"
+      "2024-08-06, 10:56:30",
+      "https://news.ycombinator.com/item?id=41169611"
     ],
     [
-      "OpenAI co-founder John Schulman says he will leave and join rival Anthropic",
-      "https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html"
+      "Stereographer",
+      "https://www.engineersneedart.com/stereographer/stereographer.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 09:54:31",
+      "https://news.ycombinator.com/item?id=41169244"
+    ],
+    [
+      "Crafting Formulas: Lambdas All the Way Down",
+      "https://text.marvinborner.de/2024-04-16-10.html"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-08-05, 19:29:47",
-      "https://news.ycombinator.com/item?id=41164585"
-    ],
-    [
-      "Below the Root: A story, a computer game and my lifelong obsession (2015)",
-      "https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 17:55:41",
       "https://news.ycombinator.com/item?id=41163645"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-08-05, 16:29:18",
-      "https://news.ycombinator.com/item?id=41162827"
-    ],
-    [
-      "Associative tools, thinking, and creativity: On augmenting creativity",
-      "https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 16:15:19",
       "https://news.ycombinator.com/item?id=41162676"
     ],
     [
       "A new type of neural network is more interpretable",
       "https://spectrum.ieee.org/kan-neural-network"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 16:13:39",
-      "https://news.ycombinator.com/item?id=41162664"
-    ],
-    [
-      "A RoCE network for distributed AI training at scale",
-      "https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-08-05, 14:28:01",
+      "https://news.ycombinator.com/item?id=41161674"
+    ],
+    [
+      "Phantom Menance: memory leak that wasn't there",
+      "https://flakm.com/posts/phantom_leak/"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 14:18:13",
       "https://news.ycombinator.com/item?id=41161580"
     ],
@@ -257,16 +267,6 @@
     [
       "Uncovered Euripides fragments are 'kind of a big deal'",
       "https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 21:36:29",
-      "https://news.ycombinator.com/item?id=41156506"
-    ],
-    [
-      "The Path to StyleGan2 – Implementing the Progressive Growing GAN",
-      "https://ym2132.github.io/Progressive_GAN"
     ]
   ],
   [
