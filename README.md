@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-06, 00:44:26](https://news.ycombinator.com/item?id=41166897) - [Trio of Leaders Leave OpenAI](https://www.theinformation.com/articles/trio-of-leaders-leave-openai)
 * [2024-08-05, 22:58:06](https://news.ycombinator.com/item?id=41166392) - [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
 * [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 * [2024-08-05, 20:30:01](https://news.ycombinator.com/item?id=41165273) - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
@@ -15,6 +14,7 @@
 * [2024-08-05, 16:29:18](https://news.ycombinator.com/item?id=41162827) - [Associative tools, thinking, and creativity: On augmenting creativity](https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
 * [2024-08-05, 16:13:39](https://news.ycombinator.com/item?id=41162664) - [A RoCE network for distributed AI training at scale](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
+* [2024-08-05, 16:03:47](https://news.ycombinator.com/item?id=41162576) - [DCPerf: An open source benchmark suite for hyperscale compute applications](https://engineering.fb.com/2024/08/05/data-center-engineering/dcperf-open-source-benchmark-suite-for-hyperscale-compute-applications/)
 * [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual A* pathfinding and maze generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
 * [2024-08-05, 15:42:21](https://news.ycombinator.com/item?id=41162397) - [KCL, a constraint-based functional language for configuration](https://www.kcl-lang.io/)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
