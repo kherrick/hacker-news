@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 03:03:31](https://news.ycombinator.com/item?id=41167467) - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 * [2024-08-06, 00:44:26](https://news.ycombinator.com/item?id=41166897) - [Trio of Leaders Leave OpenAI](https://www.theinformation.com/articles/trio-of-leaders-leave-openai)

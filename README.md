@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-06, 03:03:31](https://news.ycombinator.com/item?id=41167467) - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 * [2024-08-05, 22:58:06](https://news.ycombinator.com/item?id=41166392) - [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
 * [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 * [2024-08-05, 20:30:01](https://news.ycombinator.com/item?id=41165273) - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
@@ -21,7 +22,6 @@
 * [2024-08-05, 15:05:21](https://news.ycombinator.com/item?id=41162036) - [WebGL visual programming editor cables.gl is now open source](https://cables.gl/standalone)
 * [2024-08-05, 14:43:25](https://news.ycombinator.com/item?id=41161830) - [It's lights out at a cosmic restaurant](https://www.nytimes.com/2024/08/04/science/space/astronomy-palomar-restaurant.html)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
-* [2024-08-05, 14:02:13](https://news.ycombinator.com/item?id=41161455) - [Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-05, 11:38:51](https://news.ycombinator.com/item?id=41160268) - [Show HN: Pie Menu – a radial menu for macOS](https://www.pie-menu.com/)
 * [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
