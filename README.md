@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-06, 13:45:59](https://news.ycombinator.com/item?id=41170830) - [Men report more pressure and threats to share location and accounts](https://malware.news/t/men-report-more-pressure-and-threats-to-share-location-and-accounts-with-partners-research-shows/84907)
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 08:39:55](https://news.ycombinator.com/item?id=41168904) - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
@@ -17,7 +18,6 @@
 * [2024-08-05, 16:55:52](https://news.ycombinator.com/item?id=41163083) - [C++'s `noexcept` can sometimes help or hurt performance](https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/)
 * [2024-08-05, 16:29:18](https://news.ycombinator.com/item?id=41162827) - [Associative tools, thinking, and creativity: On augmenting creativity](https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
-* [2024-08-05, 16:13:39](https://news.ycombinator.com/item?id=41162664) - [A RoCE network for distributed AI training at scale](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
 * [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual A* pathfinding and maze generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [2024-08-05, 15:05:21](https://news.ycombinator.com/item?id=41162036) - [WebGL visual programming editor cables.gl is now open source](https://cables.gl/standalone)

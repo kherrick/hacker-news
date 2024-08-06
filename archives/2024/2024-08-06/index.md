@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 13:45:59](https://news.ycombinator.com/item?id=41170830) - [Men report more pressure and threats to share location and accounts](https://malware.news/t/men-report-more-pressure-and-threats-to-share-location-and-accounts-with-partners-research-shows/84907)
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 11:05:03](https://news.ycombinator.com/item?id=41169642) - [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
 * [2024-08-06, 10:43:47](https://news.ycombinator.com/item?id=41169538) - [Big Macs and the Cost of Living Crisis](https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654)
