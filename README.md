@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-06, 22:25:55](https://news.ycombinator.com/item?id=41176087) - [OpenBSD on ThinkPad L13 Gen 2 running KDE 6](https://brynet.ca/article-l13gen2.html)
+* [2024-08-06, 23:15:30](https://news.ycombinator.com/item?id=41176535) - [NVMe 2.1 Specifications Published with New Capabilities](https://www.phoronix.com/news/NVMe-2.1-Specifications)
+* [2024-08-06, 23:07:33](https://news.ycombinator.com/item?id=41176466) - [Why is 'Left Stick to Sprint' so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
 * [2024-08-06, 21:30:12](https://news.ycombinator.com/item?id=41175586) - [Please do not attempt to simplify this code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-08-06, 20:47:48](https://news.ycombinator.com/item?id=41175181) - [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
-* [2024-08-06, 20:42:03](https://news.ycombinator.com/item?id=41175105) - [Systemd, 10 years later: a historical and technical retrospective (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-08-06, 20:31:34](https://news.ycombinator.com/item?id=41174996) - [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
 * [2024-08-06, 20:30:10](https://news.ycombinator.com/item?id=41174979) - [Carvings at Gobekli Tepe may be oldest calendar](https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract)
 * [2024-08-06, 20:02:28](https://news.ycombinator.com/item?id=41174712) - [Can we trust Microsoft with Open Source? (2021)](https://dusted.codes/can-we-trust-microsoft-with-open-source)
