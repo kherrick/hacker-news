@@ -2,7 +2,6 @@
 
 * [2024-08-06, 14:15:41](https://news.ycombinator.com/item?id=41171060) - [Google Is Ending Production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
 * [2024-08-06, 13:58:24](https://news.ycombinator.com/item?id=41170925) - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
-* [2024-08-06, 13:31:36](https://news.ycombinator.com/item?id=41170713) - [Ziff Davis is buying CNET for just $100M](https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million)
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 10:56:30](https://news.ycombinator.com/item?id=41169611) - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
@@ -14,6 +13,7 @@
 * [2024-08-06, 01:20:22](https://news.ycombinator.com/item?id=41167060) - [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
 * [2024-08-05, 22:02:24](https://news.ycombinator.com/item?id=41166036) - [The Saucer – A DIY trackpad attachment for the Voyager](https://blog.zsa.io/diy-voyager-trackpad-saucer/)
 * [2024-08-05, 20:30:01](https://news.ycombinator.com/item?id=41165273) - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
+* [2024-08-05, 20:15:21](https://news.ycombinator.com/item?id=41165117) - [Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
 * [2024-08-05, 19:54:45](https://news.ycombinator.com/item?id=41164885) - [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
