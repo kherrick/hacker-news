@@ -2,7 +2,6 @@
 
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 08:39:55](https://news.ycombinator.com/item?id=41168904) - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
-* [2024-08-06, 08:37:31](https://news.ycombinator.com/item?id=41168889) - [X is closing San Francisco HQ and relocating staffers to San Jose](https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/)
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 * [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
@@ -16,6 +15,7 @@
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
 * [2024-08-05, 16:55:52](https://news.ycombinator.com/item?id=41163083) - [C++'s `noexcept` can sometimes help or hurt performance](https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/)
+* [2024-08-05, 16:29:18](https://news.ycombinator.com/item?id=41162827) - [Associative tools, thinking, and creativity: On augmenting creativity](https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity)
 * [2024-08-05, 16:15:19](https://news.ycombinator.com/item?id=41162676) - [A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
 * [2024-08-05, 16:13:39](https://news.ycombinator.com/item?id=41162664) - [A RoCE network for distributed AI training at scale](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
 * [2024-08-05, 15:56:01](https://news.ycombinator.com/item?id=41162505) - [Show HN: Visual A* pathfinding and maze generation in Python](https://github.com/Dicklesworthstone/visual_astar_python)
