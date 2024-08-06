@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 17:00:15](https://news.ycombinator.com/item?id=41172751) - [Danswer (YC W24) Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
 * [2024-08-06, 16:50:05](https://news.ycombinator.com/item?id=41172637) - [ByteDance joins OpenAI's Sora rivals with AI video app launch](https://www.reuters.com/technology/artificial-intelligence/bytedance-joins-openais-sora-rivals-with-ai-video-app-launch-2024-08-06/)
+* [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 16:28:21](https://news.ycombinator.com/item?id=41172399) - [Dell lays of 12,500 people](https://www.theregister.com/2024/08/06/dell_layoffs/)
 * [2024-08-06, 15:56:51](https://news.ycombinator.com/item?id=41172109) - [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – No storage, Low Latency](https://fleak.ai/)
@@ -15,6 +17,7 @@
 * [2024-08-06, 13:45:59](https://news.ycombinator.com/item?id=41170830) - [Men report more pressure and threats to share location and accounts](https://malware.news/t/men-report-more-pressure-and-threats-to-share-location-and-accounts-with-partners-research-shows/84907)
 * [2024-08-06, 13:31:36](https://news.ycombinator.com/item?id=41170713) - [Ziff Davis is buying CNET for just $100M](https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million)
 * [2024-08-06, 13:27:52](https://news.ycombinator.com/item?id=41170685) - [Speedrunning 30yrs of lithography technology [video]](https://www.youtube.com/watch?v=RuVS7MsQk4Y)
+* [2024-08-06, 12:59:51](https://news.ycombinator.com/item?id=41170454) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 11:05:03](https://news.ycombinator.com/item?id=41169642) - [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
 * [2024-08-06, 10:56:30](https://news.ycombinator.com/item?id=41169611) - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
