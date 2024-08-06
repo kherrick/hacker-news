@@ -7,7 +7,7 @@
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
 * [2024-08-06, 08:54:58](https://news.ycombinator.com/item?id=41168971) - [Plunk: The open source email platform](https://github.com/useplunk/plunk)
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
-* [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
+* [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler (2023)](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-06, 03:03:31](https://news.ycombinator.com/item?id=41167467) - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 * [2024-08-06, 01:20:22](https://news.ycombinator.com/item?id=41167060) - [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
