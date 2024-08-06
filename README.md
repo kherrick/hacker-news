@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-06, 03:56:12](https://news.ycombinator.com/item?id=41167645) - [Don't use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
+* [2024-08-06, 03:56:12](https://news.ycombinator.com/item?id=41167645) - [Don't use Vim for the wrong reasons (2020)](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-06, 03:03:31](https://news.ycombinator.com/item?id=41167467) - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 * [2024-08-06, 02:30:23](https://news.ycombinator.com/item?id=41167359) - [Creativity secrets from armed robbers, fraudsters and other criminals](https://denisecullen.com.au/creativity-secrets-from-armed-robbers-fraudsters-and-other-criminals/)
