@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-06, 22:32:12](https://news.ycombinator.com/item?id=41176148) - [Bring Crypto Back to Currency](https://rohan.ga/blog/bring-crypto-back-to_currency/)
 * [2024-08-06, 21:38:50](https://news.ycombinator.com/item?id=41175666) - [Drake Releases 100gb Data Dump](https://100gigs.org/)
-* [2024-08-06, 21:30:12](https://news.ycombinator.com/item?id=41175586) - [Please Do Not Attempt to Simplify This Code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
+* [2024-08-06, 21:30:12](https://news.ycombinator.com/item?id=41175586) - [Please do not attempt to simplify this code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-08-06, 20:47:48](https://news.ycombinator.com/item?id=41175181) - [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
 * [2024-08-06, 20:42:03](https://news.ycombinator.com/item?id=41175105) - [Systemd, 10 years later: a historical and technical retrospective (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
@@ -12,7 +13,6 @@
 * [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall batch – applications due by 8/27](https://www.ycombinator.com/blog/yc-fall-2024#)
 * [2024-08-06, 18:54:28](https://news.ycombinator.com/item?id=41174014) - [How not to say the wrong thing (2013)](https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html)
 * [2024-08-06, 18:07:07](https://news.ycombinator.com/item?id=41173486) - [Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
-* [2024-08-06, 18:00:52](https://news.ycombinator.com/item?id=41173423) - [WD announces enterprise 128TB SSD](https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024)
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The real \"Wolf of Wall Street\" sales script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
 * [2024-08-06, 17:52:51](https://news.ycombinator.com/item?id=41173335) - [Tracking supermarket prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
 * [2024-08-06, 17:52:32](https://news.ycombinator.com/item?id=41173330) - [Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard](https://news.ycombinator.com/item?id=41173330)
