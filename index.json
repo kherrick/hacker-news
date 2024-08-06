@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-08-06, 17:22:52",
-      "https://news.ycombinator.com/item?id=41173001"
-    ],
-    [
-      "Open source tools to query OpenStreetMap",
-      "https://wcedmisten.fyi/post/how-to-query-osm/"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 17:21:28",
-      "https://news.ycombinator.com/item?id=41172987"
-    ],
-    [
-      "Microsoft says Delta ignored Satya Nadella's offer of CrowdStrike help",
-      "https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 17:19:03",
       "https://news.ycombinator.com/item?id=41172961"
     ],
@@ -81,21 +61,11 @@
   ],
   [
     [
-      "2024-08-06, 15:56:51",
-      "https://news.ycombinator.com/item?id=41172109"
-    ],
-    [
-      "The Zombie Pharmacies That Are Holding Back New York City Retail",
-      "https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 15:49:07",
       "https://news.ycombinator.com/item?id=41172036"
     ],
     [
-      "Show HN: I built a serverless data API builder – No storage, Low Latency",
+      "Show HN: I built a serverless data API builder – no storage, low latency",
       "https://fleak.ai/"
     ]
   ],
@@ -145,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41169244"
     ],
     [
-      "Crafting Formulas: Lambdas All the Way Down",
+      "Crafting formulas: Lambdas all the way down",
       "https://text.marvinborner.de/2024-04-16-10.html"
     ]
   ],
@@ -167,6 +137,16 @@
     [
       "The Soul of Maintaining a New Machine",
       "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 01:31:49",
+      "https://news.ycombinator.com/item?id=41167116"
+    ],
+    [
+      "Slingcode – App platform in a single HTML file, QR-code transmittable apps",
+      "https://slingcode.net/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2024-08-05, 20:03:38",
+      "https://news.ycombinator.com/item?id=41164993"
+    ],
+    [
+      "Show HN: Datoviz – Vulkan-based GPU scientific visualization (C/C++/Python)",
+      "https://github.com/datoviz/datoviz"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 19:54:45",
       "https://news.ycombinator.com/item?id=41164885"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2024-08-05, 17:26:43",
-      "https://news.ycombinator.com/item?id=41163382"
+      "2024-08-05, 19:50:02",
+      "https://news.ycombinator.com/item?id=41164833"
     ],
     [
-      "Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane",
-      "https://news.ycombinator.com/item?id=41163382"
+      "Hiding messages in x86 binaries using semantic duals (2020)",
+      "https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
     ]
   ],
   [
@@ -261,12 +251,32 @@
   ],
   [
     [
+      "2024-08-02, 21:16:58",
+      "https://news.ycombinator.com/item?id=41142767"
+    ],
+    [
+      "Unmanned submarine discovers ice shelf mysteries, then disappears",
+      "https://scitechdaily.com/revolutionary-submarine-discovers-ice-shelf-mysteries-then-disappears-without-a-trace/"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 12:43:20",
       "https://news.ycombinator.com/item?id=41138388"
     ],
     [
       "Hexsheets: Hexagonal Spreadsheets",
       "https://github.com/pladams9/hexsheets"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 09:19:02",
+      "https://news.ycombinator.com/item?id=41137266"
+    ],
+    [
+      "Show HN: Three.js mirror cube that stays in sync",
+      "https://mirror-cube.martinpiala.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I don't know how CPUs work so I simulated one in code (2019)",
       "https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 12:11:49",
-      "https://news.ycombinator.com/item?id=41128346"
-    ],
-    [
-      "Ask HN: What's the most fun you've had developing for an older gaming system?",
-      "https://news.ycombinator.com/item?id=41128346"
     ]
   ]
 ]
