@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
 * [2024-08-06, 22:32:12](https://news.ycombinator.com/item?id=41176148) - [Bring Crypto Back to Currency](https://rohan.ga/blog/bring-crypto-back-to_currency/)
+* [2024-08-06, 22:25:55](https://news.ycombinator.com/item?id=41176087) - [OpenBSD on ThinkPad L13 Gen 2 running KDE 6](https://brynet.ca/article-l13gen2.html)
 * [2024-08-06, 21:38:50](https://news.ycombinator.com/item?id=41175666) - [Drake Releases 100gb Data Dump](https://100gigs.org/)
 * [2024-08-06, 21:30:12](https://news.ycombinator.com/item?id=41175586) - [Please Do Not Attempt to Simplify This Code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
