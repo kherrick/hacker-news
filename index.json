@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-08-06, 16:50:05",
-      "https://news.ycombinator.com/item?id=41172637"
+      "2024-08-06, 17:00:15",
+      "https://news.ycombinator.com/item?id=41172751"
     ],
     [
-      "ByteDance joins OpenAI's Sora rivals with AI video app launch",
-      "https://www.reuters.com/technology/artificial-intelligence/bytedance-joins-openais-sora-rivals-with-ai-video-app-launch-2024-08-06/"
+      "Danswer (YC W24) Is Hiring Founding Full Stack Engineer",
+      "https://www.workatastartup.com/jobs/65936"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 16:37:48",
+      "https://news.ycombinator.com/item?id=41172509"
+    ],
+    [
+      "ScholArxiv – an open-source aesthetic and minimal research paper explorer",
+      "https://github.com/dagmawibabi/ScholArxiv"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 16:28:21",
+      "https://news.ycombinator.com/item?id=41172399"
+    ],
+    [
+      "Dell lays off 12,500 people",
+      "https://www.theregister.com/2024/08/06/dell_layoffs/"
     ]
   ],
   [
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2024-08-06, 12:01:09",
-      "https://news.ycombinator.com/item?id=41170008"
+      "2024-08-06, 12:59:51",
+      "https://news.ycombinator.com/item?id=41170454"
     ],
     [
-      "Hazel (YC W24) Is Hiring",
-      "https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml"
+      "Understanding 3D Graphics",
+      "https://azeemba.com/posts/understanding-3d-graphics.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-08-06, 03:03:31",
-      "https://news.ycombinator.com/item?id=41167467"
-    ],
-    [
-      "No Salt",
-      "https://jakeseliger.com/2024/08/05/no-salt/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 01:20:22",
       "https://news.ycombinator.com/item?id=41167060"
     ],
@@ -147,16 +157,6 @@
     [
       "The Saucer – A DIY trackpad attachment for the Voyager",
       "https://blog.zsa.io/diy-voyager-trackpad-saucer/"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 20:30:01",
-      "https://news.ycombinator.com/item?id=41165273"
-    ],
-    [
-      "Can we stop the decline of monarch butterflies and other pollinators?",
-      "https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/"
     ]
   ],
   [
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2024-08-05, 16:15:19",
-      "https://news.ycombinator.com/item?id=41162676"
+      "2024-08-05, 16:55:52",
+      "https://news.ycombinator.com/item?id=41163083"
     ],
     [
-      "A new type of neural network is more interpretable",
-      "https://spectrum.ieee.org/kan-neural-network"
+      "C++'s `noexcept` can sometimes help or hurt performance",
+      "https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/"
     ]
   ],
   [
     [
-      "2024-08-05, 15:56:01",
-      "https://news.ycombinator.com/item?id=41162505"
+      "2024-08-05, 15:33:36",
+      "https://news.ycombinator.com/item?id=41162312"
     ],
     [
-      "Show HN: Visual A* pathfinding and maze generation in Python",
-      "https://github.com/Dicklesworthstone/visual_astar_python"
+      "'Quantum Drama' Review: Entangled in Physics",
+      "https://www.wsj.com/arts-culture/books/quantum-drama-review-entangled-in-physics-4e5acf16"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-08-05, 14:57:36",
-      "https://news.ycombinator.com/item?id=41161968"
-    ],
-    [
-      "How the music industry learned to love piracy",
-      "https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 14:28:01",
       "https://news.ycombinator.com/item?id=41161674"
     ],
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2024-08-05, 14:18:13",
-      "https://news.ycombinator.com/item?id=41161580"
+      "2024-08-05, 11:38:51",
+      "https://news.ycombinator.com/item?id=41160268"
     ],
     [
-      "A cryptographically secure bootloader for RISC-V in Rust",
-      "https://www.codethink.co.uk/articles/2024/secure_bootloader/"
+      "Show HN: Pie Menu – a radial menu for macOS",
+      "https://www.pie-menu.com/"
     ]
   ],
   [
     [
-      "2024-08-05, 00:11:33",
-      "https://news.ycombinator.com/item?id=41157192"
+      "2024-08-02, 22:48:14",
+      "https://news.ycombinator.com/item?id=41143322"
     ],
     [
-      "Uncovered Euripides fragments are 'kind of a big deal'",
-      "https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal"
+      "Fiber optic drone control beats any RF jammer",
+      "https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/"
+    ]
+  ],
+  [
+    [
+      "2024-08-01, 14:19:07",
+      "https://news.ycombinator.com/item?id=41129356"
+    ],
+    [
+      "Rosalind Franklin's Methods of Discovery",
+      "https://daily.jstor.org/rosalind-franklins-methods-of-discovery/"
     ]
   ],
   [
