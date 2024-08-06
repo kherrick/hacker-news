@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 18:07:07](https://news.ycombinator.com/item?id=41173486) - [Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
+* [2024-08-06, 18:00:52](https://news.ycombinator.com/item?id=41173423) - [WD announces enterprise 128TB SSD](https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024)
+* [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The Actual Wolf of Wallstreet Cold Call Script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
+* [2024-08-06, 17:52:51](https://news.ycombinator.com/item?id=41173335) - [Tracking Supermarket Prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
+* [2024-08-06, 17:52:32](https://news.ycombinator.com/item?id=41173330) - [Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard](https://news.ycombinator.com/item?id=41173330)
+* [2024-08-06, 17:48:11](https://news.ycombinator.com/item?id=41173288) - [What Postgres Full Text Search Is Missing](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 * [2024-08-06, 17:41:41](https://news.ycombinator.com/item?id=41173223) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
 * [2024-08-06, 17:30:19](https://news.ycombinator.com/item?id=41173089) - [Proton announces release of a new VPN protocol, \"Stealth\"](https://protonvpn.com/blog/stealth-vpn-protocol)
