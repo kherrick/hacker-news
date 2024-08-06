@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-06, 09:47:17",
+      "https://news.ycombinator.com/item?id=41169195"
+    ],
+    [
+      "WordStar 7, the last ever DOS version, is re-released for free",
+      "https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/"
+    ]
+  ],
+  [
+    [
       "2024-08-06, 08:39:55",
       "https://news.ycombinator.com/item?id=41168904"
     ],
@@ -47,16 +57,6 @@
     [
       "A Different Kind of Disc Brake: 1949 Chrysler",
       "https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 04:38:32",
-      "https://news.ycombinator.com/item?id=41167800"
-    ],
-    [
-      "IP.network: Check IP Address",
-      "https://www.ip.network"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-08-04, 21:36:29",
+      "https://news.ycombinator.com/item?id=41156506"
+    ],
+    [
+      "The Path to StyleGan2 – Implementing the Progressive Growing GAN",
+      "https://ym2132.github.io/Progressive_GAN"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 22:48:14",
       "https://news.ycombinator.com/item?id=41143322"
     ],
@@ -287,16 +297,6 @@
     [
       "I don't know how CPUs work so I simulated one in code (2019)",
       "https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 05:51:38",
-      "https://news.ycombinator.com/item?id=41126504"
-    ],
-    [
-      "The human typewriter, or why optimizing for typing is short-sighted",
-      "https://felixk15.github.io/posts/dont-optimize-for-typing/"
     ]
   ]
 ]
