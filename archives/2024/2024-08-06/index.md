@@ -30,6 +30,7 @@
 * [2024-08-06, 16:00:38](https://news.ycombinator.com/item?id=41172143) - [Google TV Streamer: Our new entertainment and smart home hub](https://blog.google/products/google-nest/google-tv-streamer/)
 * [2024-08-06, 15:56:51](https://news.ycombinator.com/item?id=41172109) - [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – No storage, Low Latency](https://fleak.ai/)
+* [2024-08-06, 14:42:03](https://news.ycombinator.com/item?id=41171280) - [Why Polars rewrote its Arrow string data type](https://pola.rs/posts/polars-string-type/)
 * [2024-08-06, 14:18:35](https://news.ycombinator.com/item?id=41171087) - [Berkshire Hathaway sub TransRe announces CAIO post, dedicated AI team](https://www.reinsurancene.ws/transre-creates-chief-ai-officer-role-restructures-data-science-team/)
 * [2024-08-06, 14:15:41](https://news.ycombinator.com/item?id=41171060) - [Google Is Ending Production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
 * [2024-08-06, 14:13:23](https://news.ycombinator.com/item?id=41171045) - [Applied Materials Denied US CHIPS Act Funding](https://www.datacenterdynamics.com/en/news/applied-materials-denied-us-chips-act-funding-report/)

@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-06, 19:12:33](https://news.ycombinator.com/item?id=41174200) - [No price Microsoft could pay Apple to use Bing: Google antitrust ruling excerpts](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)
-* [2024-08-06, 18:40:47](https://news.ycombinator.com/item?id=41173850) - [Nobel Prize-winning physicist Tsung-Dao Lee has died at age 97](https://www.npr.org/2024/08/06/nx-s1-5065675/chinese-american-physicist-tsung-dao-lee-dies)
 * [2024-08-06, 18:07:07](https://news.ycombinator.com/item?id=41173486) - [Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
 * [2024-08-06, 18:00:52](https://news.ycombinator.com/item?id=41173423) - [WD announces enterprise 128TB SSD](https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024)
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The Actual Wolf of Wallstreet Cold Call Script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
@@ -17,6 +16,7 @@
 * [2024-08-06, 17:00:15](https://news.ycombinator.com/item?id=41172751) - [Danswer (YC W24) Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source, aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – no storage, low latency](https://fleak.ai/)
+* [2024-08-06, 14:42:03](https://news.ycombinator.com/item?id=41171280) - [Why Polars rewrote its Arrow string data type](https://pola.rs/posts/polars-string-type/)
 * [2024-08-06, 13:58:24](https://news.ycombinator.com/item?id=41170925) - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
 * [2024-08-06, 10:56:30](https://news.ycombinator.com/item?id=41169611) - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting formulas: Lambdas all the way down](https://text.marvinborner.de/2024-04-16-10.html)
@@ -27,9 +27,9 @@
 * [2024-08-05, 20:28:45](https://news.ycombinator.com/item?id=41165257) - [Does space dust fall on the roof of my house?](https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch)
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 14:43:40](https://news.ycombinator.com/item?id=41161831) - [Scheduling Model in LLVM](https://myhsu.xyz/llvm-sched-model-1/)
-* [2024-08-04, 19:06:39](https://news.ycombinator.com/item?id=41155571) - [Show HN: Muky – A kid-friendly music player for iOS](https://muky.app)
 * [2024-08-04, 16:39:30](https://news.ycombinator.com/item?id=41154650) - [The Internet Is Broken: Idealistic Ideas for Building a GNU Network [pdf] (2014)](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-02, 21:16:58](https://news.ycombinator.com/item?id=41142767) - [Unmanned submarine discovers ice shelf mysteries, then disappears](https://scitechdaily.com/revolutionary-submarine-discovers-ice-shelf-mysteries-then-disappears-without-a-trace/)
+* [2024-08-01, 11:09:20](https://news.ycombinator.com/item?id=41127949) - ['Weird and Daunting': 7k Readers Told Us How It Felt to Focus](https://www.nytimes.com/2024/08/01/upshot/experiment-focus-painting-art.html)
 
 ## [Archives](archives/index.md)
 
