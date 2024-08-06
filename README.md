@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
-* [2024-08-06, 05:25:15](https://news.ycombinator.com/item?id=41168031) - [Is Europe headed towards a new Ice Age as ocean current nears collapse?](https://www.thenationalnews.com/business/energy/2024/07/29/is-europe-headed-for-ice-age-as-ocean-current-nears-collapse/)
 * [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
 * [2024-08-06, 03:51:31](https://news.ycombinator.com/item?id=41167624) - [A simply utility script which allows you to analyze your Python file](https://github.com/mraza007/python-file-analyzer)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
@@ -25,6 +24,7 @@
 * [2024-08-05, 14:57:36](https://news.ycombinator.com/item?id=41161968) - [How the music industry learned to love piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
 * [2024-08-05, 14:18:13](https://news.ycombinator.com/item?id=41161580) - [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
 * [2024-08-05, 11:38:51](https://news.ycombinator.com/item?id=41160268) - [Show HN: Pie Menu – a radial menu for macOS](https://www.pie-menu.com/)
+* [2024-08-05, 03:35:53](https://news.ycombinator.com/item?id=41157974) - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 * [2024-08-05, 00:11:33](https://news.ycombinator.com/item?id=41157192) - [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
 * [2024-08-04, 21:36:29](https://news.ycombinator.com/item?id=41156506) - [The Path to StyleGan2 – Implementing the Progressive Growing GAN](https://ym2132.github.io/Progressive_GAN)
 * [2024-08-01, 14:19:07](https://news.ycombinator.com/item?id=41129356) - [Rosalind Franklin's Methods of Discovery](https://daily.jstor.org/rosalind-franklins-methods-of-discovery/)
