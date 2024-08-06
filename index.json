@@ -11,36 +11,6 @@
   ],
   [
     [
-      "2024-08-06, 11:05:03",
-      "https://news.ycombinator.com/item?id=41169642"
-    ],
-    [
-      "The Resurrection of Intel Will Take More Than Three Days",
-      "https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 10:19:47",
-      "https://news.ycombinator.com/item?id=41169407"
-    ],
-    [
-      "Minds are 'not currency for social media,' says EU as TikTok kills Lite Rewards",
-      "https://thenextweb.com/news/tiktok-kills-lite-rewards-eu"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 09:47:17",
-      "https://news.ycombinator.com/item?id=41169195"
-    ],
-    [
-      "WordStar 7, the last ever DOS version, is re-released for free",
-      "https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 08:39:55",
       "https://news.ycombinator.com/item?id=41168904"
     ],
@@ -57,16 +27,6 @@
     [
       "X is closing San Francisco HQ and relocating staffers to San Jose",
       "https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 07:03:57",
-      "https://news.ycombinator.com/item?id=41168462"
-    ],
-    [
-      "How old is your globe? [pdf]",
-      "https://replogleglobes.com/app/uploads/2023/09/How-old-is-your-globerv.pdf"
     ]
   ],
   [
@@ -141,12 +101,32 @@
   ],
   [
     [
+      "2024-08-05, 20:15:21",
+      "https://news.ycombinator.com/item?id=41165117"
+    ],
+    [
+      "Replacing Liquid Metal on an Asus Zephyrus G15's CPU",
+      "https://flemesre.github.io/posts/liquid-metal-replacement/"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 19:54:45",
       "https://news.ycombinator.com/item?id=41164885"
     ],
     [
       "Debugging a rustc segfault on Illumos",
       "https://sunshowers.io/posts/rustc-segfault-illumos/"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 19:29:47",
+      "https://news.ycombinator.com/item?id=41164585"
+    ],
+    [
+      "Below the Root: A story, a computer game and my lifelong obsession (2015)",
+      "https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/"
     ]
   ],
   [
@@ -187,6 +167,16 @@
     [
       "A new type of neural network is more interpretable",
       "https://spectrum.ieee.org/kan-neural-network"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 16:13:39",
+      "https://news.ycombinator.com/item?id=41162664"
+    ],
+    [
+      "A RoCE network for distributed AI training at scale",
+      "https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Uncovered Euripides fragments are 'kind of a big deal'",
       "https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 21:36:29",
+      "https://news.ycombinator.com/item?id=41156506"
+    ],
+    [
+      "The Path to StyleGan2 – Implementing the Progressive Growing GAN",
+      "https://ym2132.github.io/Progressive_GAN"
     ]
   ],
   [
