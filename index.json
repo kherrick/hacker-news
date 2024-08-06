@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-08-06, 18:07:07",
+      "https://news.ycombinator.com/item?id=41173486"
+    ],
+    [
+      "Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown",
+      "https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 18:00:52",
+      "https://news.ycombinator.com/item?id=41173423"
+    ],
+    [
+      "WD announces enterprise 128TB SSD",
+      "https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 17:56:37",
+      "https://news.ycombinator.com/item?id=41173377"
+    ],
+    [
+      "The Actual Wolf of Wallstreet Cold Call Script",
+      "https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 17:52:51",
+      "https://news.ycombinator.com/item?id=41173335"
+    ],
+    [
+      "Tracking Supermarket Prices with Playwright",
+      "https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 17:52:32",
+      "https://news.ycombinator.com/item?id=41173330"
+    ],
+    [
+      "Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard",
+      "https://news.ycombinator.com/item?id=41173330"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 17:48:11",
+      "https://news.ycombinator.com/item?id=41173288"
+    ],
+    [
+      "What Postgres Full Text Search Is Missing",
+      "https://blog.paradedb.com/pages/elasticsearch_vs_postgres"
+    ]
+  ],
+  [
+    [
       "2024-08-06, 17:41:41",
       "https://news.ycombinator.com/item?id=41173223"
     ],
@@ -75,7 +135,7 @@
       "https://news.ycombinator.com/item?id=41172509"
     ],
     [
-      "ScholArxiv – an open-source aesthetic and minimal research paper explorer",
+      "ScholArxiv – an open-source, aesthetic and minimal research paper explorer",
       "https://github.com/dagmawibabi/ScholArxiv"
     ]
   ],
@@ -151,16 +211,6 @@
   ],
   [
     [
-      "2024-08-06, 08:54:58",
-      "https://news.ycombinator.com/item?id=41168971"
-    ],
-    [
-      "Plunk: The open source email platform",
-      "https://github.com/useplunk/plunk"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 03:49:20",
       "https://news.ycombinator.com/item?id=41167615"
     ],
@@ -191,16 +241,6 @@
   ],
   [
     [
-      "2024-08-06, 01:20:22",
-      "https://news.ycombinator.com/item?id=41167060"
-    ],
-    [
-      "Building rqlite 9.0: Cutting disk usage by half",
-      "https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 22:02:24",
       "https://news.ycombinator.com/item?id=41166036"
     ],
@@ -211,32 +251,12 @@
   ],
   [
     [
-      "2024-08-05, 20:03:38",
-      "https://news.ycombinator.com/item?id=41164993"
+      "2024-08-05, 20:28:45",
+      "https://news.ycombinator.com/item?id=41165257"
     ],
     [
-      "Show HN: Datoviz – Vulkan-based GPU scientific visualization (C/C++/Python)",
-      "https://github.com/datoviz/datoviz"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 19:54:45",
-      "https://news.ycombinator.com/item?id=41164885"
-    ],
-    [
-      "Debugging a rustc segfault on Illumos",
-      "https://sunshowers.io/posts/rustc-segfault-illumos/"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 19:50:02",
-      "https://news.ycombinator.com/item?id=41164833"
-    ],
-    [
-      "Hiding messages in x86 binaries using semantic duals (2020)",
-      "https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
+      "Does space dust fall on the roof of my house?",
+      "https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch"
     ]
   ],
   [
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2024-08-04, 19:06:39",
+      "https://news.ycombinator.com/item?id=41155571"
+    ],
+    [
+      "Show HN: Muky – A kid-friendly music player for iOS",
+      "https://muky.app"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 16:39:30",
       "https://news.ycombinator.com/item?id=41154650"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2024-08-03, 16:44:26",
-      "https://news.ycombinator.com/item?id=41147651"
-    ],
-    [
-      "Show HN: I made a credit system API",
-      "https://creduse.com"
-    ]
-  ],
-  [
-    [
       "2024-08-02, 21:16:58",
       "https://news.ycombinator.com/item?id=41142767"
     ],
     [
       "Unmanned submarine discovers ice shelf mysteries, then disappears",
       "https://scitechdaily.com/revolutionary-submarine-discovers-ice-shelf-mysteries-then-disappears-without-a-trace/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 12:43:20",
-      "https://news.ycombinator.com/item?id=41138388"
-    ],
-    [
-      "Hexsheets: Hexagonal Spreadsheets",
-      "https://github.com/pladams9/hexsheets"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 23:10:25",
-      "https://news.ycombinator.com/item?id=41134606"
-    ],
-    [
-      "Japanese multiplication method and other ways to multiply (2020)",
-      "https://www.popularmechanics.com/science/a32131826/ancient-multiplication-method/"
     ]
   ]
 ]
