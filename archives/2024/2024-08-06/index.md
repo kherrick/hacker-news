@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+* [2024-08-06, 20:42:03](https://news.ycombinator.com/item?id=41175105) - [Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
+* [2024-08-06, 20:31:34](https://news.ycombinator.com/item?id=41174996) - [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
+* [2024-08-06, 20:16:22](https://news.ycombinator.com/item?id=41174862) - [The Future of Open Source](https://blog.gitbutler.com/the-future-of-open-source/)
 * [2024-08-06, 19:50:10](https://news.ycombinator.com/item?id=41174580) - [Partisan bot-like accounts continue to amplify divisive content on X](https://www.globalwitness.org/en/campaigns/digital-threats/no-ifs-many-bots-partisan-bot-accounts-continue-amplify-divisive-content-x-generating-over-4-billion-views-uk-general-election-was-called/)
 * [2024-08-06, 19:48:16](https://news.ycombinator.com/item?id=41174559) - [AI agents but they're working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)
 * [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall 24 batch](https://www.ycombinator.com/blog/yc-fall-2024#)
