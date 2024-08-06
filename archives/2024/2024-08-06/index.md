@@ -12,6 +12,7 @@
 * [2024-08-06, 17:48:11](https://news.ycombinator.com/item?id=41173288) - [What Postgres Full Text Search Is Missing](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 * [2024-08-06, 17:41:41](https://news.ycombinator.com/item?id=41173223) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
+* [2024-08-06, 17:32:21](https://news.ycombinator.com/item?id=41173111) - [Google transfers 1.2 EB of data every day using Effingo](https://www.theregister.com/2024/08/06/google_effingo/)
 * [2024-08-06, 17:30:19](https://news.ycombinator.com/item?id=41173089) - [Proton announces release of a new VPN protocol, \"Stealth\"](https://protonvpn.com/blog/stealth-vpn-protocol)
 * [2024-08-06, 17:22:52](https://news.ycombinator.com/item?id=41173001) - [Open source tools to query OpenStreetMap](https://wcedmisten.fyi/post/how-to-query-osm/)
 * [2024-08-06, 17:21:28](https://news.ycombinator.com/item?id=41172987) - [Microsoft says Delta ignored Satya Nadella's offer of CrowdStrike help](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
