@@ -53,6 +53,7 @@
 * [2024-08-02, 13:53:39](https://news.ycombinator.com/item?id=41138819) - [Why Western Designs Fail in Developing Countries [video]](https://www.youtube.com/watch?v=CGRtyxEpoGg)
 * [2024-08-02, 13:34:37](https://news.ycombinator.com/item?id=41138701) - [HackberryPi – Pi zero handheld with Blackberry keyboard](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 * [2024-08-02, 13:17:45](https://news.ycombinator.com/item?id=41138616) - [A test for life versus non-life?](https://www.nytimes.com/2024/07/31/science/assembly-theory-life-sara-walker.html)
+* [2024-08-02, 12:43:20](https://news.ycombinator.com/item?id=41138388) - [Hexsheets: Hexagonal Spreadsheets](https://github.com/pladams9/hexsheets)
 * [2024-08-02, 12:35:59](https://news.ycombinator.com/item?id=41138338) - [What Happens in a Mind That Can't 'See' Mental Images](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/)
 * [2024-08-02, 11:55:59](https://news.ycombinator.com/item?id=41138085) - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
 * [2024-08-02, 11:25:08](https://news.ycombinator.com/item?id=41137899) - [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)

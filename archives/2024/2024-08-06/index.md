@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 17:22:52](https://news.ycombinator.com/item?id=41173001) - [Open source tools to query OpenStreetMap](https://wcedmisten.fyi/post/how-to-query-osm/)
+* [2024-08-06, 17:21:28](https://news.ycombinator.com/item?id=41172987) - [Microsoft says Delta ignored Satya Nadella's offer of CrowdStrike help](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
+* [2024-08-06, 17:19:03](https://news.ycombinator.com/item?id=41172961) - [Who Wrote the Blue Screens of Death](https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062)
+* [2024-08-06, 17:16:21](https://news.ycombinator.com/item?id=41172938) - [What Is Rotoscope Animation? The Process Explained (2020)](https://www.studiobinder.com/blog/what-is-rotoscope-animation-definition/)
+* [2024-08-06, 17:15:31](https://news.ycombinator.com/item?id=41172923) - [Soup Dumpling Index: How prices compare around the world](https://www.axios.com/2024/07/31/din-tai-fung-soup-dumplings)
+* [2024-08-06, 17:13:46](https://news.ycombinator.com/item?id=41172899) - [Finding Nash equilibria through simulation](https://coe.psu.ac.th/ad/nashSim/)
 * [2024-08-06, 17:00:15](https://news.ycombinator.com/item?id=41172751) - [Danswer (YC W24) Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
 * [2024-08-06, 16:50:05](https://news.ycombinator.com/item?id=41172637) - [ByteDance joins OpenAI's Sora rivals with AI video app launch](https://www.reuters.com/technology/artificial-intelligence/bytedance-joins-openais-sora-rivals-with-ai-video-app-launch-2024-08-06/)
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
@@ -42,4 +48,5 @@
 * [2024-08-06, 01:20:22](https://news.ycombinator.com/item?id=41167060) - [Building rqlite 9.0 – the lightweight distributed DB: Cutting Disk Usage by Half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
 * [2024-08-06, 00:44:26](https://news.ycombinator.com/item?id=41166897) - [Trio of Leaders Leave OpenAI](https://www.theinformation.com/articles/trio-of-leaders-leave-openai)
 * [2024-08-06, 00:30:40](https://news.ycombinator.com/item?id=41166844) - [Why is it so hard for the U.S. to build quality transit?](https://www.fastcompany.com/91166562/us-transit-exceptionalism)
+* [2024-08-06, 00:14:41](https://news.ycombinator.com/item?id=41166774) - [Everything that turned out well in my life followed the same design process](https://www.henrikkarlsson.xyz/p/unfolding)
 * [2024-08-06, 00:03:10](https://news.ycombinator.com/item?id=41166719) - [Eeverybody Gets a Star: Yelp's Affect on Restaurants and Reviews, 20 Years In](https://www.eater.com/24200672/yelp-effect-on-restaurants-culture-review-everything)

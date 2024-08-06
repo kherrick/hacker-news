@@ -31,6 +31,7 @@
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
 * [2024-08-04, 17:03:45](https://news.ycombinator.com/item?id=41154839) - [Tech CEOs are backtrack on RTO mandates–now, 3% want workers in office full-time](https://fortune.com/2024/08/02/tech-ceos-return-to-office-mandate/)
 * [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-08-04, 16:39:30](https://news.ycombinator.com/item?id=41154650) - [The Internet Is Broken: Idealistic Ideas for Building a GNU Network [pdf] (2014)](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-04, 16:35:36](https://news.ycombinator.com/item?id=41154616) - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 * [2024-08-04, 16:28:22](https://news.ycombinator.com/item?id=41154560) - [Praise My GitHub Profile](https://praise-me.fly.dev/)
 * [2024-08-04, 16:08:25](https://news.ycombinator.com/item?id=41154410) - [Show HN: Jailbroke my Kindle to use it as an e-ink monitor](https://twitter.com/adtac_/status/1820127470613622950)

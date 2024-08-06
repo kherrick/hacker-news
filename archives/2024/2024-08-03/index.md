@@ -38,6 +38,7 @@
 * [2024-08-03, 17:19:28](https://news.ycombinator.com/item?id=41147862) - [From React to Htmx on a real-world SaaS product (2022) [video]](https://www.youtube.com/watch?v=3GObi93tjZI)
 * [2024-08-03, 17:15:26](https://news.ycombinator.com/item?id=41147830) - [Show HN: Plain Vanilla – a tutorial website for vanilla web development](https://plainvanillaweb.com/)
 * [2024-08-03, 17:01:05](https://news.ycombinator.com/item?id=41147754) - [Revisiting Linux CPU Scheduling](https://www.uninformativ.de/blog/postings/2024-08-03/0/POSTING-en.html)
+* [2024-08-03, 16:44:26](https://news.ycombinator.com/item?id=41147651) - [Show HN: I made a credit system API](https://creduse.com)
 * [2024-08-03, 16:43:09](https://news.ycombinator.com/item?id=41147643) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 16:28:30](https://news.ycombinator.com/item?id=41147545) - [Boeing's Starliner proves better at torching cash than reaching orbit](https://www.theregister.com/2024/08/02/boeing_starliner_losses/)
 * [2024-08-03, 16:25:48](https://news.ycombinator.com/item?id=41147523) - [Don't Value Efficiency over Effectiveness](https://emeaentrepreneurs.com/anti/dont-value-efficiency-over-effectiveness/)

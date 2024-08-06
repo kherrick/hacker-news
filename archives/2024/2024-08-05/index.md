@@ -49,6 +49,7 @@
 * [2024-08-05, 14:57:36](https://news.ycombinator.com/item?id=41161968) - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [A 20-something dethroned dotcom CEO that went to work the counter at McDonald's](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 14:52:17](https://news.ycombinator.com/item?id=41161920) - [Weak Soft Skills: Why you are stuck at the Senior engineer level](https://pathtostaff.substack.com/p/weak-soft-skills-why-you-are-stuck)
+* [2024-08-05, 14:43:40](https://news.ycombinator.com/item?id=41161831) - [Scheduling Model in LLVM](https://myhsu.xyz/llvm-sched-model-1/)
 * [2024-08-05, 14:43:25](https://news.ycombinator.com/item?id=41161830) - [It's Lights Out at a Cosmic Restaurant](https://www.nytimes.com/2024/08/04/science/space/astronomy-palomar-restaurant.html)
 * [2024-08-05, 14:34:31](https://news.ycombinator.com/item?id=41161736) - [Build a Digital Human](https://build.nvidia.com/nvidia/digital-humans-virtual-assistant)
 * [2024-08-05, 14:28:01](https://news.ycombinator.com/item?id=41161674) - [Phantom Menance: memory leak that wasn't there](https://flakm.com/posts/phantom_leak/)

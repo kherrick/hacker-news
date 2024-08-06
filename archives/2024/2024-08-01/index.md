@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
 * [2024-08-01, 23:11:27](https://news.ycombinator.com/item?id=41134615) - [Who Took the Cocaine Out of Coca-Cola?](https://daily.jstor.org/who-took-the-cocaine-out-of-coca-cola/)
+* [2024-08-01, 23:10:25](https://news.ycombinator.com/item?id=41134606) - [Japanese multiplication method and other ways to multiply (2020)](https://www.popularmechanics.com/science/a32131826/ancient-multiplication-method/)
 * [2024-08-01, 23:00:47](https://news.ycombinator.com/item?id=41134536) - [Rapidly build efficient sites with Neat, the minimalist CSS framework](https://neat.joeldare.com/)
 * [2024-08-01, 22:18:10](https://news.ycombinator.com/item?id=41134218) - [Ken Leishman](https://en.wikipedia.org/wiki/Ken_Leishman)
 * [2024-08-01, 22:11:40](https://news.ycombinator.com/item?id=41134167) - [Video segmentation with Segment Anything 2 (SAM2)](https://blog.roboflow.com/sam-2-video-segmentation/)
@@ -72,6 +73,7 @@
 * [2024-08-01, 12:24:59](https://news.ycombinator.com/item?id=41128424) - [Framework is looking for Linux Community Ambassadors](https://community.frame.work/t/framework-is-looking-for-linux-community-ambassadors/55344)
 * [2024-08-01, 12:24:53](https://news.ycombinator.com/item?id=41128423) - [India's $45B Startup Implosion Puts Tech Future in Doubt](https://www.bloomberg.com/news/articles/2024-08-01/india-s-tech-startup-struggles-spark-vc-funding-retreat)
 * [2024-08-01, 12:23:15](https://news.ycombinator.com/item?id=41128413) - [Scientist Wants to Block the Sun to Cool the Earth](https://www.nytimes.com/2024/08/01/climate/david-keith-solar-geoengineering.html)
+* [2024-08-01, 12:11:49](https://news.ycombinator.com/item?id=41128346) - [Ask HN: What's the most fun you've had developing for an older gaming system?](https://news.ycombinator.com/item?id=41128346)
 * [2024-08-01, 12:07:58](https://news.ycombinator.com/item?id=41128325) - [Parasites Are Everywhere. Why Do So Few Researchers Study Them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
 * [2024-08-01, 12:00:38](https://news.ycombinator.com/item?id=41128284) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-01, 10:54:13](https://news.ycombinator.com/item?id=41127859) - [D&D will release its 2024 ruleset under a Creative Commons licence](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-2024-srd-wont-be-another-ogl-fiasco)
