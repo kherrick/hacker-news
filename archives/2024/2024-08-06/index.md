@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 08:39:55](https://news.ycombinator.com/item?id=41168904) - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
 * [2024-08-06, 07:03:57](https://news.ycombinator.com/item?id=41168462) - [How old is your globe? [pdf]](https://replogleglobes.com/app/uploads/2023/09/How-old-is-your-globerv.pdf)
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 * [2024-08-06, 05:25:15](https://news.ycombinator.com/item?id=41168031) - [Is Europe headed towards a new Ice Age as ocean current nears collapse?](https://www.thenationalnews.com/business/energy/2024/07/29/is-europe-headed-for-ice-age-as-ocean-current-nears-collapse/)
