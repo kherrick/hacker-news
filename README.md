@@ -13,7 +13,6 @@
 * [2024-08-05, 20:15:21](https://news.ycombinator.com/item?id=41165117) - [Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
 * [2024-08-05, 19:54:45](https://news.ycombinator.com/item?id=41164885) - [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 * [2024-08-05, 19:29:47](https://news.ycombinator.com/item?id=41164585) - [Below the Root: A story, a computer game and my lifelong obsession (2015)](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
-* [2024-08-05, 18:58:16](https://news.ycombinator.com/item?id=41164240) - [Google loses antitrust suit over search deals on phones](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:26:43](https://news.ycombinator.com/item?id=41163382) - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
 * [2024-08-05, 16:55:52](https://news.ycombinator.com/item?id=41163083) - [C++'s `noexcept` can sometimes help or hurt performance](https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/)
@@ -29,6 +28,7 @@
 * [2024-08-04, 21:36:29](https://news.ycombinator.com/item?id=41156506) - [The Path to StyleGan2 – Implementing the Progressive Growing GAN](https://ym2132.github.io/Progressive_GAN)
 * [2024-08-01, 14:19:07](https://news.ycombinator.com/item?id=41129356) - [Rosalind Franklin's Methods of Discovery](https://daily.jstor.org/rosalind-franklins-methods-of-discovery/)
 * [2024-08-01, 13:54:00](https://news.ycombinator.com/item?id=41129081) - [I don't know how CPUs work so I simulated one in code (2019)](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
+* [2024-08-01, 10:02:34](https://news.ycombinator.com/item?id=41127579) - [Introdution to Computer architecture explained with Minecraft [video]](https://www.youtube.com/watch?v=dV_lf1kyV9M)
 * [2024-08-01, 05:51:38](https://news.ycombinator.com/item?id=41126504) - [The human typewriter, or why optimizing for typing is short-sighted](https://felixk15.github.io/posts/dont-optimize-for-typing/)
 
 ## [Archives](archives/index.md)

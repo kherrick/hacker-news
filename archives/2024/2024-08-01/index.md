@@ -79,6 +79,7 @@
 * [2024-08-01, 10:39:20](https://news.ycombinator.com/item?id=41127780) - [New EU rules promoting repair of goods enter into force](https://commission.europa.eu/law/law-topic/consumer-protection-law/consumer-contract-law/directive-repair-goods_en)
 * [2024-08-01, 10:29:21](https://news.ycombinator.com/item?id=41127726) - [I Recreated Shazam's Algorithm with Go](https://github.com/cgzirim/not-shazam)
 * [2024-08-01, 10:25:34](https://news.ycombinator.com/item?id=41127706) - [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
+* [2024-08-01, 10:02:34](https://news.ycombinator.com/item?id=41127579) - [Introdution to Computer architecture explained with Minecraft [video]](https://www.youtube.com/watch?v=dV_lf1kyV9M)
 * [2024-08-01, 09:48:15](https://news.ycombinator.com/item?id=41127496) - [Amazon is responsible for recalling unsafe products sold on its site,agency says](https://www.npr.org/2024/08/01/g-s1-14633/amazon-must-recall-unsafe-products-independent-sellers)
 * [2024-08-01, 09:40:25](https://news.ycombinator.com/item?id=41127446) - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
 * [2024-08-01, 08:52:34](https://news.ycombinator.com/item?id=41127269) - [Google listed my restaurant's number as its British HQ](https://www.theguardian.com/money/article/2024/aug/01/google-listed-my-restaurants-number-as-its-british-hq)
