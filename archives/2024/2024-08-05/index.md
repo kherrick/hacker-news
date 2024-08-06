@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
 * [2024-08-05, 23:05:09](https://news.ycombinator.com/item?id=41166437) - [X to shut down SF office in 'next few weeks,' according to report](https://www.kron4.com/news/bay-area/x-to-shut-down-sf-office-in-next-few-weeks-according-to-report/)
+* [2024-08-05, 22:58:06](https://news.ycombinator.com/item?id=41166392) - [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
 * [2024-08-05, 21:26:05](https://news.ycombinator.com/item?id=41165770) - [Microsoft's internal memo: So Long, Intel (1992) [pdf]](http://iowa.gotthefacts.org/011607/5000/PX05476.pdf)
 * [2024-08-05, 21:00:04](https://news.ycombinator.com/item?id=41165567) - [Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 * [2024-08-05, 20:57:15](https://news.ycombinator.com/item?id=41165536) - [Moral Implications of Being a Moderately Successful Computer Scientist and Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
