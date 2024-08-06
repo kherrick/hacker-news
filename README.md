@@ -18,7 +18,6 @@
 * [2024-08-06, 17:48:11](https://news.ycombinator.com/item?id=41173288) - [Full text search over Postgres: Elasticsearch vs. alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 * [2024-08-06, 17:41:41](https://news.ycombinator.com/item?id=41173223) - [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
-* [2024-08-06, 17:30:19](https://news.ycombinator.com/item?id=41173089) - [Proton announces release of a new VPN protocol, \"Stealth\"](https://protonvpn.com/blog/stealth-vpn-protocol)
 * [2024-08-06, 17:13:46](https://news.ycombinator.com/item?id=41172899) - [Finding Nash equilibria through simulation](https://coe.psu.ac.th/ad/nashSim/)
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source, aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – no storage, low latency](https://fleak.ai/)
@@ -29,6 +28,7 @@
 * [2024-08-05, 20:28:45](https://news.ycombinator.com/item?id=41165257) - [Does space dust fall on the roof of my house?](https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch)
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 14:43:40](https://news.ycombinator.com/item?id=41161831) - [Scheduling Model in LLVM](https://myhsu.xyz/llvm-sched-model-1/)
+* [2024-08-02, 17:59:21](https://news.ycombinator.com/item?id=41141062) - [Japan cracks down on use of rideable electric suitcases amid tourist boom](https://www.theguardian.com/world/article/2024/jul/29/japan-rideable-luggage-suitcases-ban-crack-down-tourism)
 * [2024-08-01, 11:09:20](https://news.ycombinator.com/item?id=41127949) - ['Weird and Daunting': 7k Readers Told Us How It Felt to Focus](https://www.nytimes.com/2024/08/01/upshot/experiment-focus-painting-art.html)
 
 ## [Archives](archives/index.md)
