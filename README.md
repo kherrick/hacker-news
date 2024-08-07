@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-07, 02:31:32](https://news.ycombinator.com/item?id=41177701) - [LangChain vs. LlamaIndex](https://myscale.com/blog/llamaindex-vs-langchain-detailed-comparison/)
 * [2024-08-07, 00:54:57](https://news.ycombinator.com/item?id=41177161) - [Jeremy Rowley resigns from DigiCert due to mass-revocation incident](https://bugzilla.mozilla.org/show_bug.cgi?id=1910322)
 * [2024-08-06, 23:57:42](https://news.ycombinator.com/item?id=41176831) - [Medieval](https://teenage.engineering/products/ep-1320)
 * [2024-08-06, 23:56:05](https://news.ycombinator.com/item?id=41176817) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
@@ -18,6 +17,7 @@
 * [2024-08-06, 17:52:51](https://news.ycombinator.com/item?id=41173335) - [Tracking supermarket prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
 * [2024-08-06, 17:52:32](https://news.ycombinator.com/item?id=41173330) - [Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard](https://news.ycombinator.com/item?id=41173330)
 * [2024-08-06, 17:48:11](https://news.ycombinator.com/item?id=41173288) - [Full text search over Postgres: Elasticsearch vs. alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
+* [2024-08-06, 17:45:09](https://news.ycombinator.com/item?id=41173261) - [Time Is an Illusion, and These Physicists Say They Know How It Works](http://backreaction.blogspot.com/2024/08/time-is-illusion-and-these-physicists.html)
 * [2024-08-06, 17:41:41](https://news.ycombinator.com/item?id=41173223) - [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
 * [2024-08-06, 17:13:46](https://news.ycombinator.com/item?id=41172899) - [Finding Nash equilibria through simulation](https://coe.psu.ac.th/ad/nashSim/)
