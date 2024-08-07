@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
 * [2024-08-07, 16:15:58](https://news.ycombinator.com/item?id=41182823) - [Ask HN: How to build site with payment, subscriptions, user login, registration](https://news.ycombinator.com/item?id=41182823)
+* [2024-08-07, 15:51:55](https://news.ycombinator.com/item?id=41182588) - [End of an era: Apple's SuperDrive has sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years)
 * [2024-08-07, 15:25:48](https://news.ycombinator.com/item?id=41182370) - [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
 * [2024-08-07, 14:58:04](https://news.ycombinator.com/item?id=41182121) - [The Pesticide Industry's Toxic Lobby](https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/)
 * [2024-08-07, 14:56:51](https://news.ycombinator.com/item?id=41182101) - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
