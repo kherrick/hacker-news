@@ -50,6 +50,7 @@
 * [2024-08-06, 17:16:21](https://news.ycombinator.com/item?id=41172938) - [What Is Rotoscope Animation? The Process Explained (2020)](https://www.studiobinder.com/blog/what-is-rotoscope-animation-definition/)
 * [2024-08-06, 17:15:31](https://news.ycombinator.com/item?id=41172923) - [Soup Dumpling Index: How prices compare around the world](https://www.axios.com/2024/07/31/din-tai-fung-soup-dumplings)
 * [2024-08-06, 17:13:46](https://news.ycombinator.com/item?id=41172899) - [Finding Nash equilibria through simulation](https://coe.psu.ac.th/ad/nashSim/)
+* [2024-08-06, 17:12:01](https://news.ycombinator.com/item?id=41172883) - [Chemical 'waves' used to encode words as Morse code](https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article)
 * [2024-08-06, 17:00:15](https://news.ycombinator.com/item?id=41172751) - [Danswer (YC W24) Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
 * [2024-08-06, 16:50:05](https://news.ycombinator.com/item?id=41172637) - [ByteDance joins OpenAI's Sora rivals with AI video app launch](https://www.reuters.com/technology/artificial-intelligence/bytedance-joins-openais-sora-rivals-with-ai-video-app-launch-2024-08-06/)
 * [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [ScholArxiv – an open-source aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
