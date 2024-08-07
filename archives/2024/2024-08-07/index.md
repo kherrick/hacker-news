@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 22:39:23](https://news.ycombinator.com/item?id=41186282) - [Critical 1Password Security Flaw Could Let Hackers Steal Unlock Key](https://www.forbes.com/sites/daveywinder/2024/08/07/critical-1password-security-flaw-could-let-hackers-steal-unlock-key/)
+* [2024-08-07, 22:35:17](https://news.ycombinator.com/item?id=41186261) - [Susskind: String Theory Is Not the Theory of the Real World](https://www.math.columbia.edu/~woit/wordpress/?p=14059)
+* [2024-08-07, 22:26:35](https://news.ycombinator.com/item?id=41186212) - [Terraforming Mars may be easier than scientists thought](https://www.science.org/content/article/terraforming-mars-could-be-easier-scientists-thought)
+* [2024-08-07, 22:11:25](https://news.ycombinator.com/item?id=41186116) - [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
 * [2024-08-07, 21:47:28](https://news.ycombinator.com/item?id=41185930) - [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)
 * [2024-08-07, 21:39:24](https://news.ycombinator.com/item?id=41185859) - [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
 * [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
