@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 17:22:32](https://news.ycombinator.com/item?id=41183421) - [Humane's daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
+* [2024-08-07, 17:02:00](https://news.ycombinator.com/item?id=41183240) - [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
 * [2024-08-07, 17:00:39](https://news.ycombinator.com/item?id=41183224) - [Flexport is hiring a product designer for our new Control Tower Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 * [2024-08-07, 16:49:06](https://news.ycombinator.com/item?id=41183119) - [Humanity is failing one of its greatest moral tests](https://www.vox.com/future-perfect/363550/factory-farming-human-progress-sustainable-food-movement)
+* [2024-08-07, 16:48:42](https://news.ycombinator.com/item?id=41183115) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 16:31:29](https://news.ycombinator.com/item?id=41182963) - [Green Tech Startup with No Climate Experience Secured Millions in Gov Contracts](https://www.propublica.org/article/nevada-nzero-carbon-emissions-tracking-project)
 * [2024-08-07, 16:15:58](https://news.ycombinator.com/item?id=41182823) - [Ask HN: How to build site with payment, subscriptions, user login, registration](https://news.ycombinator.com/item?id=41182823)
 * [2024-08-07, 15:51:55](https://news.ycombinator.com/item?id=41182588) - [End of an era: Apple's SuperDrive has sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years)
+* [2024-08-07, 15:28:30](https://news.ycombinator.com/item?id=41182395) - [Zen5's AVX512 Teardown and More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-07, 15:25:48](https://news.ycombinator.com/item?id=41182370) - [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
 * [2024-08-07, 14:58:04](https://news.ycombinator.com/item?id=41182121) - [The Pesticide Industry's Toxic Lobby](https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/)
 * [2024-08-07, 14:56:51](https://news.ycombinator.com/item?id=41182101) - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
