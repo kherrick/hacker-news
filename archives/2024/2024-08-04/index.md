@@ -19,6 +19,7 @@
 * [2024-08-04, 20:42:03](https://news.ycombinator.com/item?id=41156194) - [Romram: Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 * [2024-08-04, 20:27:50](https://news.ycombinator.com/item?id=41156104) - [Puget Systems' Perspective on Intel CPU Instability Issues](https://www.pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues/)
 * [2024-08-04, 20:09:37](https://news.ycombinator.com/item?id=41155996) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
+* [2024-08-04, 20:09:13](https://news.ycombinator.com/item?id=41155994) - [Music labels' AI lawsuits create copyright puzzle for courts](https://www.reuters.com/legal/music-labels-ai-lawsuits-create-new-copyright-puzzle-us-courts-2024-08-03/)
 * [2024-08-04, 19:31:48](https://news.ycombinator.com/item?id=41155738) - [Does Sundar Pichai/Search team know how bad Google search is?](https://news.ycombinator.com/item?id=41155738)
 * [2024-08-04, 19:29:39](https://news.ycombinator.com/item?id=41155718) - [The Spartan Protocol Homepage](http://portal.mozz.us/gemini/spartan.mozz.us/)
 * [2024-08-04, 19:19:21](https://news.ycombinator.com/item?id=41155639) - [A Wealthy Couple Became Local Pariahs After Poisoning Their Neighbor's Trees](https://www.wsj.com/us-news/a-wealthy-couple-became-local-pariahs-after-poisoning-their-neighbors-trees-0bdf4791)

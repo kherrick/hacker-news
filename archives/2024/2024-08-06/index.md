@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 23:57:42](https://news.ycombinator.com/item?id=41176831) - [Medieval](https://teenage.engineering/products/ep-1320)
 * [2024-08-06, 23:56:05](https://news.ycombinator.com/item?id=41176817) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 * [2024-08-06, 23:21:21](https://news.ycombinator.com/item?id=41176578) - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 * [2024-08-06, 23:15:30](https://news.ycombinator.com/item?id=41176535) - [NVMe 2.1 Specifications Published with New Capabilities](https://www.phoronix.com/news/NVMe-2.1-Specifications)
 * [2024-08-06, 23:07:33](https://news.ycombinator.com/item?id=41176466) - [Why is 'Left Stick to Sprint' so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
+* [2024-08-06, 22:47:33](https://news.ycombinator.com/item?id=41176265) - [How long does Apple support Mac firmware?](https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/)
 * [2024-08-06, 22:32:12](https://news.ycombinator.com/item?id=41176148) - [Bring Crypto Back to Currency](https://rohan.ga/blog/bring-crypto-back-to_currency/)
 * [2024-08-06, 22:25:55](https://news.ycombinator.com/item?id=41176087) - [OpenBSD on ThinkPad L13 Gen 2 running KDE 6](https://brynet.ca/article-l13gen2.html)
 * [2024-08-06, 22:22:38](https://news.ycombinator.com/item?id=41176056) - [Airbnb shares drop 12% as company flags weakening US demand](https://www.theguardian.com/technology/article/2024/aug/06/airbnb-shares-drop-earnings)
