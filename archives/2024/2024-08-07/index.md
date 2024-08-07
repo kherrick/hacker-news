@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 19:18:16](https://news.ycombinator.com/item?id=41184420) - [2.9B hit in one of largest data breaches; full names and SSNs exposed](https://www.tomsguide.com/computing/online-security/29-billion-hit-in-one-of-largest-data-breaches-ever-full-names-addresses-and-ssns-exposed)
 * [2024-08-07, 18:52:42](https://news.ycombinator.com/item?id=41184174) - [Deprecate 0.0.0.0 for Private Network Access](https://chromestatus.com/feature/5106143060033536)
+* [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-07, 18:44:03](https://news.ycombinator.com/item?id=41184102) - [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)
 * [2024-08-07, 18:35:08](https://news.ycombinator.com/item?id=41184037) - [GitButler is now Fair Source](https://blog.gitbutler.com/gitbutler-is-now-fair-source/)
 * [2024-08-07, 17:58:58](https://news.ycombinator.com/item?id=41183725) - [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
