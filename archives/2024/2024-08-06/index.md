@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 23:56:05](https://news.ycombinator.com/item?id=41176817) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
+* [2024-08-06, 23:21:21](https://news.ycombinator.com/item?id=41176578) - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 * [2024-08-06, 23:15:30](https://news.ycombinator.com/item?id=41176535) - [NVMe 2.1 Specifications Published with New Capabilities](https://www.phoronix.com/news/NVMe-2.1-Specifications)
 * [2024-08-06, 23:07:33](https://news.ycombinator.com/item?id=41176466) - [Why is 'Left Stick to Sprint' so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
 * [2024-08-06, 22:32:12](https://news.ycombinator.com/item?id=41176148) - [Bring Crypto Back to Currency](https://rohan.ga/blog/bring-crypto-back-to_currency/)
 * [2024-08-06, 22:25:55](https://news.ycombinator.com/item?id=41176087) - [OpenBSD on ThinkPad L13 Gen 2 running KDE 6](https://brynet.ca/article-l13gen2.html)
+* [2024-08-06, 22:22:38](https://news.ycombinator.com/item?id=41176056) - [Airbnb shares drop 12% as company flags weakening US demand](https://www.theguardian.com/technology/article/2024/aug/06/airbnb-shares-drop-earnings)
 * [2024-08-06, 21:38:50](https://news.ycombinator.com/item?id=41175666) - [Drake Releases 100gb Data Dump](https://100gigs.org/)
 * [2024-08-06, 21:30:12](https://news.ycombinator.com/item?id=41175586) - [Please Do Not Attempt to Simplify This Code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
