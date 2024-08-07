@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-07, 12:00:20](https://news.ycombinator.com/item?id=41180481) - [Sieve (YC W22) is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-08-07, 09:46:25](https://news.ycombinator.com/item?id=41179735) - [First USGS supercomputer decommissioning makes way for successors](https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors)
-* [2024-08-07, 09:36:35](https://news.ycombinator.com/item?id=41179682) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-08-07, 09:33:00](https://news.ycombinator.com/item?id=41179666) - [Show HN: Lacakgrak – simple inbound/outbound packet sniffer](https://github.com/altilunium/lacakgrak)
-* [2024-08-07, 09:04:36](https://news.ycombinator.com/item?id=41179513) - [AMD Ryzen 9000 Series processors are ready to deliver world class gaming](https://twitter.com/amdryzen/status/1820956835794358451)
 * [2024-08-07, 08:43:47](https://news.ycombinator.com/item?id=41179446) - [Sourcetrail: Free and Open-Source Interactive Source Explorer](https://github.com/CoatiSoftware/Sourcetrail)
 * [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-07, 05:55:11](https://news.ycombinator.com/item?id=41178596) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
@@ -22,6 +21,7 @@
 * [2024-08-06, 17:41:41](https://news.ycombinator.com/item?id=41173223) - [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-06, 17:37:51](https://news.ycombinator.com/item?id=41173177) - [Smashing idea: how East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
 * [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
+* [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [Show HN: ScholArxiv – an open-source, aesthetic, minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 14:42:03](https://news.ycombinator.com/item?id=41171280) - [Why Polars rewrote its Arrow string data type](https://pola.rs/posts/polars-string-type/)
 * [2024-08-06, 12:13:21](https://news.ycombinator.com/item?id=41170111) - [Exploiting authorization by nonce in WordPress plugins](https://nowotarski.info/wordpress-nonce-authorization/)
 * [2024-08-06, 11:49:57](https://news.ycombinator.com/item?id=41169924) - [Tsung-Dao Lee, physicist who challenged a law of nature, has died](https://www.nytimes.com/2024/08/05/science/tsung-dao-lee-dead.html)

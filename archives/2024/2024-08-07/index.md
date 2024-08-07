@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 12:00:20](https://news.ycombinator.com/item?id=41180481) - [Sieve (YC W22) is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-08-07, 09:46:25](https://news.ycombinator.com/item?id=41179735) - [First USGS supercomputer decommissioning makes way for successors](https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors)
 * [2024-08-07, 09:36:35](https://news.ycombinator.com/item?id=41179682) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-08-07, 09:33:00](https://news.ycombinator.com/item?id=41179666) - [Show HN: Lacakgrak – simple inbound/outbound packet sniffer](https://github.com/altilunium/lacakgrak)
