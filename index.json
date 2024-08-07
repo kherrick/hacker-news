@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-08-07, 03:51:45",
-      "https://news.ycombinator.com/item?id=41178092"
-    ],
-    [
-      "Gangs in the Los Angeles County Sheriff's Department",
-      "https://en.wikipedia.org/wiki/Gangs_in_the_Los_Angeles_County_Sheriff%27s_Department"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 03:27:47",
       "https://news.ycombinator.com/item?id=41177984"
     ],
     [
-      "Electric Chainsaws and the Gorge of Misery",
+      "Electric chainsaws and the gorge of misery",
       "https://lcamtuf.substack.com/p/electric-chainsaws-and-the-gorge"
     ]
   ],
@@ -27,16 +17,6 @@
     [
       "The Private Life: On James Baldwin",
       "https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 00:54:57",
-      "https://news.ycombinator.com/item?id=41177161"
-    ],
-    [
-      "Jeremy Rowley resigns from DigiCert due to mass-revocation incident",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=1910322"
     ]
   ],
   [
@@ -77,6 +57,16 @@
     [
       "Please do not attempt to simplify this code",
       "https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 21:00:16",
+      "https://news.ycombinator.com/item?id=41175322"
+    ],
+    [
+      "Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)",
+      "https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack"
     ]
   ],
   [
@@ -185,8 +175,8 @@
       "https://news.ycombinator.com/item?id=41173261"
     ],
     [
-      "Time Is an Illusion, and These Physicists Say They Know How It Works",
-      "http://backreaction.blogspot.com/2024/08/time-is-illusion-and-these-physicists.html"
+      "Time is an illusion, and these physicists say they know how it works [video]",
+      "https://www.youtube.com/watch?v=uYOF-YggWAg"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Crafting formulas: Lambdas all the way down",
       "https://text.marvinborner.de/2024-04-16-10.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 03:49:20",
+      "https://news.ycombinator.com/item?id=41167615"
+    ],
+    [
+      "The Soul of Maintaining a New Machine",
+      "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1"
     ]
   ],
   [
