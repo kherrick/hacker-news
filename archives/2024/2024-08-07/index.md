@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 17:58:58](https://news.ycombinator.com/item?id=41183725) - [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
 * [2024-08-07, 17:22:32](https://news.ycombinator.com/item?id=41183421) - [Humane's daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
 * [2024-08-07, 17:02:00](https://news.ycombinator.com/item?id=41183240) - [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
 * [2024-08-07, 17:00:39](https://news.ycombinator.com/item?id=41183224) - [Flexport is hiring a product designer for our new Control Tower Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
@@ -15,6 +16,7 @@
 * [2024-08-07, 16:14:04](https://news.ycombinator.com/item?id=41182805) - [Python extensions should be lazy](https://www.gauge.sh/blog/python-extensions-should-be-lazy)
 * [2024-08-07, 16:04:18](https://news.ycombinator.com/item?id=41182714) - [Cell-Free Bioactive Scaffold Supports Cartilage Regeneration-Large Animal Joints](https://www.genengnews.com/topics/translational-medicine/cell-free-bioactive-scaffold-supports-cartilage-regeneration-in-large-animal-joints/)
 * [2024-08-07, 15:51:55](https://news.ycombinator.com/item?id=41182588) - [End of an era: Apple's SuperDrive has sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years)
+* [2024-08-07, 15:48:38](https://news.ycombinator.com/item?id=41182565) - [Ask HN: How different is AWS/GCP/Azure in everyday work](https://news.ycombinator.com/item?id=41182565)
 * [2024-08-07, 15:28:30](https://news.ycombinator.com/item?id=41182395) - [Zen5's AVX512 Teardown and More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-07, 15:25:48](https://news.ycombinator.com/item?id=41182370) - [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
 * [2024-08-07, 14:58:04](https://news.ycombinator.com/item?id=41182121) - [The Pesticide Industry's Toxic Lobby](https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/)
