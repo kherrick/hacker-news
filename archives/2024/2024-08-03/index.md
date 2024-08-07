@@ -31,6 +31,7 @@
 * [2024-08-03, 19:05:02](https://news.ycombinator.com/item?id=41148517) - [How to Build Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 * [2024-08-03, 18:54:48](https://news.ycombinator.com/item?id=41148450) - [Git: The Stupid Password Store](https://tylercipriani.com/blog/2024/07/31/git-as-a-password-prompt/)
 * [2024-08-03, 18:52:21](https://news.ycombinator.com/item?id=41148438) - [Manjaro Immutable Out Now for Community Testing](https://forum.manjaro.org/t/manjaro-immutable-out-now-for-community-testing/166364)
+* [2024-08-03, 18:42:55](https://news.ycombinator.com/item?id=41148379) - [Setting expectations for open source participation (2018)](https://snarky.ca/setting-expectations-for-open-source-participation/)
 * [2024-08-03, 18:06:27](https://news.ycombinator.com/item?id=41148164) - [The U.S. Wanted to Knock Down Huawei. It's Only Getting Stronger](https://www.wsj.com/business/telecom/huawei-china-technology-us-sanctions-76462031)
 * [2024-08-03, 18:05:36](https://news.ycombinator.com/item?id=41148160) - [Prover-Verifier Games improve legibility of LLM outputs](https://arxiv.org/abs/2407.13692)
 * [2024-08-03, 17:50:13](https://news.ycombinator.com/item?id=41148073) - [Computer Archeology: Exploring the Anatomy of an MS-DOS Virus](https://www.metacodes.pro/blog/computer_archeology_exploring_the_anatomy_of_an_ms_dos_virus/)
