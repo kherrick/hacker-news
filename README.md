@@ -27,8 +27,8 @@
 * [2024-08-06, 17:12:01](https://news.ycombinator.com/item?id=41172883) - [Chemical 'waves' used to encode words as Morse code](https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article)
 * [2024-08-06, 12:13:21](https://news.ycombinator.com/item?id=41170111) - [Exploiting authorization by nonce in WordPress plugins](https://nowotarski.info/wordpress-nonce-authorization/)
 * [2024-08-06, 11:49:57](https://news.ycombinator.com/item?id=41169924) - [Tsung-Dao Lee, physicist who challenged a law of nature, has died](https://www.nytimes.com/2024/08/05/science/tsung-dao-lee-dead.html)
+* [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 * [2024-08-03, 16:06:24](https://news.ycombinator.com/item?id=41147393) - [Nxylon: New super-black material made from wood](https://news.ubc.ca/2024/07/ubc-super-black-wood-nxylon/)
-* [2024-08-03, 05:50:10](https://news.ycombinator.com/item?id=41144909) - [Emotional about X11: I'm creating a pure X11 “emoji keyboard”](https://github.com/Zirias/xmoji)
 * [2024-08-03, 04:30:27](https://news.ycombinator.com/item?id=41144685) - [R5N - Obfuscated mesh routing on hostile networks.](https://lsd.gnunet.org/lsd0004/draft-schanzen-r5n.html)
 
 ## [Archives](archives/index.md)
