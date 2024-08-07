@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 13:01:15](https://news.ycombinator.com/item?id=41180976) - [AMD Ryzen 5 9600X and Ryzen 7 9700X Offer Excellent Linux Performance](https://www.phoronix.com/review/ryzen-9600x-9700x)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 * [2024-08-07, 12:00:20](https://news.ycombinator.com/item?id=41180481) - [Sieve (YC W22) is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-08-07, 11:59:17](https://news.ycombinator.com/item?id=41180468) - [Google's real monopoly is on the user data](https://www.propellernet.co.uk/googles-real-monopoly-is-on-the-user-data/)
