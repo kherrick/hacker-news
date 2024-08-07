@@ -6,6 +6,7 @@
 
 * [2024-08-07, 14:56:51](https://news.ycombinator.com/item?id=41182101) - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
 * [2024-08-07, 14:50:11](https://news.ycombinator.com/item?id=41182055) - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
+* [2024-08-07, 14:32:36](https://news.ycombinator.com/item?id=41181871) - [Gear Acquisition Syndrome – Consumption of Instruments and Technology (2021)](https://library.oapen.org/handle/20.500.12657/48282)
 * [2024-08-07, 14:06:00](https://news.ycombinator.com/item?id=41181610) - [Cats appear to grieve death of fellow pets – even dogs, study finds](https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds)
 * [2024-08-07, 13:34:43](https://news.ycombinator.com/item?id=41181316) - [Home Insurance Decisions Based on Drones and AI](https://www.businessinsider.com/homeowners-insurance-nightmare-cancellation-surveillance-drone-ai-future-2024-8)
 * [2024-08-07, 13:20:17](https://news.ycombinator.com/item?id=41181176) - [How the super-rich are building their luxury 'safe house' bunkers](https://www.cnn.com/2024/08/07/style/underground-bunkers-super-rich/index.html)
