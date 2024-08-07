@@ -14,6 +14,7 @@
 * [2024-08-06, 20:30:10](https://news.ycombinator.com/item?id=41174979) - [Carvings at Gobekli Tepe may be oldest calendar](https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract)
 * [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall batch – applications due by 8/27](https://www.ycombinator.com/blog/yc-fall-2024#)
 * [2024-08-06, 18:54:28](https://news.ycombinator.com/item?id=41174014) - [How not to say the wrong thing (2013)](https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html)
+* [2024-08-06, 18:28:32](https://news.ycombinator.com/item?id=41173719) - [Google says it is obligated to disclose confidential info to U.S. government](https://targettrend.com/google-says-it-is-obligated-to-disclose-confidential-information-of-users-to-u-s-government/)
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The real \"Wolf of Wall Street\" sales script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
 * [2024-08-06, 17:52:51](https://news.ycombinator.com/item?id=41173335) - [Tracking supermarket prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
 * [2024-08-06, 17:52:32](https://news.ycombinator.com/item?id=41173330) - [Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard](https://news.ycombinator.com/item?id=41173330)
@@ -29,7 +30,6 @@
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 14:43:40](https://news.ycombinator.com/item?id=41161831) - [Scheduling Model in LLVM](https://myhsu.xyz/llvm-sched-model-1/)
 * [2024-08-05, 09:21:39](https://news.ycombinator.com/item?id=41159438) - [Squeezing a key through a carry bit (2017) [video]](https://media.ccc.de/v/34c3-9021-squeezing_a_key_through_a_carry_bit)
-* [2024-08-04, 03:00:56](https://news.ycombinator.com/item?id=41150879) - [Remembering the First 'Cold-Storage Banquet'](https://www.atlasobscura.com/articles/first-cold-storage-banquet-frostbite-nicola-twilley)
 
 ## [Archives](archives/index.md)
 
