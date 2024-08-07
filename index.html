@@ -129,6 +129,142 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41182055">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41182055"
+              >Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and
+              Applications</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-07 @ 14:50:11</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41182055"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://release.ai/">https://release.ai/</a>). We
+              launched on HN in 2020 (<a
+                href="https://news.ycombinator.com/item?id=22486031"
+                >https://news.ycombinator.com/item?id=22486031</a
+              >) after leaving TrueCar, where we managed a 300 person
+              development team. Our original focus was making staging
+              environments easier with ephemeral environments, but along the way
+              AI applications started to emerge as an important and critical
+              component of distributed applications. As we talked to customers
+              using our original product, we realized we had built the
+              underlying platform needed to address the needs of orchestrating
+              AI applications and infrastructure. So here we are and we’re
+              excited to share Release.ai with HN.
+              <p>
+                Here’s a video showcasing the platform and demonstrating how to
+                easily manage new data and changes using the RAG stack of your
+                choice:
+                <a href="https://www.youtube.com/watch?v=-OdWRxMX1iA"
+                  >https://www.youtube.com/watch?v=-OdWRxMX1iA</a
+                >
+              </p>
+              <p>
+                If you want to try release.ai out, we’re offering a sandbox
+                account with limited free GPU cycles so you can play around and
+                get a feel for Release.ai:
+                <a href="https://release.ai">https://release.ai</a>. We suggest
+                playing around with some of the RAG AI templates and adding
+                custom workflows like in the demo video. The sandbox comes with
+                5 free compute hours on an Amazon g5.2xlarge instance (A10 with
+                24GB VRAM, 8vCPUs and 32GB). You will also get 16 GB and 4vCPUs
+                for cpu workloads such as web servers. You will be able to run
+                an inference engine plus things like an api server, etc.
+              </p>
+              <p>
+                After the sandbox expires, you can switch to our free plan,
+                which requires a credit card and associating an AWS/GCP account
+                with Release to manage the compute in your cloud account. The
+                free account provides 100 free managed environment hours a
+                month. If you never go over, you never pay us anything. If you
+                do, our pricing is here:
+                <a href="https://release.com/pricing"
+                  >https://release.com/pricing</a
+                >.
+              </p>
+              <p>
+                For those that like to read more, here’s the deeper background.
+              </p>
+              <p>
+                It’s clear that open source AI and AI privacy are going to be
+                big. Yes, many developers are going to choose SaaS offerings
+                like OpenAI to build their AI applications, but as open source
+                frameworks and models improve, we’re seeing a shift to open
+                source running on cloud. Security and privacy is a top concern
+                of companies leveraging these SaaS solutions, which forces them
+                to look at running infrastructure themselves. That’s where we
+                hope to come in: we’ve built Release.ai so all your data, models
+                and infrastructure stay in your cloud account and open source
+                frameworks are first class citizens.
+              </p>
+              <p>
+                Orchestration - Integrating AI applications into a software
+                development workflow and orchestrating their lifecycle is a new
+                and different challenge than traditional web application
+                development. Release also makes it possible to manage and
+                integrate your web and AI apps using a single application and
+                methodology.
+              </p>
+              <p>
+                To make orchestrating AI applications easier, we built a
+                workflow engine that can create the complex workflows that AI
+                applications require. For example, you can automate the
+                redeployment of an AI inference server easily when underlying
+                data changes using webhooks and our workflow engine.
+              </p>
+              <p>
+                Cost and expertise - Managing and scaling the hardware required
+                to run AI workloads is hard and can be incredibly expensive.
+                Release.ai lets you manage GPU compute resources across multiple
+                clouds with different instance/node groups for various jobs
+                within a single admin interface. We use K8s under the covers to
+                pull this off. With over 5 years of building and running K8s
+                infrastructure our customers have told us this is how it should
+                be done.
+              </p>
+              <p>
+                Getting started with AI frameworks is time consuming and
+                requires some pretty in-depth expertise. We built out a library
+                of AI templates (<a
+                  href="https://docs.release.com/release.ai/release.ai-templates"
+                  >https://docs.release.com/release.ai/release.ai-templates</a
+                >) using our Application Template format (which is kind of a
+                super docker-compose:
+                <a
+                  href="https://docs.release.com/reference-documentation/application-settings/application-template"
+                  >https://docs.release.com/reference-documentation/application...</a
+                >) for common open source frameworks to make it easy to get
+                started developing AI applications. Setting up and getting these
+                frameworks running is a hassle, so we made it one click to
+                launch and deploy.
+              </p>
+              <p>
+                We currently have over 20 templates including temples for RAG
+                applications, fine tuning and useful tools like Juypter
+                notebooks, Promptfoo, etc. We worked closely with Docker and
+                Nvidia to support their frameworks: GenAI and Nvidia NEMO/Nims.
+                We plan to launch community templates soon after launch. If you
+                have suggestions for more templates we should support, please
+                let us know in the comments.
+              </p>
+              <p>
+                We’re thrilled to share Release.ai with you and would love to
+                get your feedback. We hope you’ll try it out, and please let us
+                know what you think!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="41181610">
           <h3>
             <a
@@ -142,11 +278,11 @@
             <h4>
               <span>2024-08-07 @ 14:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41181610"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -162,11 +298,11 @@
             <h4>
               <span>2024-08-07 @ 12:03:39</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41180504"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -198,11 +334,11 @@
             <h4>
               <span>2024-08-07 @ 11:56:02</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41180441"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -220,11 +356,11 @@
             <h4>
               <span>2024-08-07 @ 11:43:15</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41180346"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -242,11 +378,11 @@
             <h4>
               <span>2024-08-07 @ 09:46:25</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41179735"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -282,11 +418,11 @@
             <h4>
               <span>2024-08-07 @ 07:16:02</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41178959"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -303,7 +439,7 @@
             <h4>
               <span>2024-08-07 @ 05:55:11</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41178596"
                   >Comments</a
@@ -324,7 +460,7 @@
             <h4>
               <span>2024-08-07 @ 02:58:57</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41177831"
                   >Comments</a
@@ -343,11 +479,11 @@
             <h4>
               <span>2024-08-06 @ 23:57:42</span
               ><span class="points-container"
-                >Points: <span class="points">686</span></span
+                >Points: <span class="points">697</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41176831"
                   >Comments</a
-                ><span class="descendants">: 249</span></span
+                ><span class="descendants">: 255</span></span
               >
             </h4>
           </section>
@@ -373,6 +509,27 @@
             </h4>
           </section>
         </section>
+        <section id="41176461">
+          <h3>
+            <a
+              class="item"
+              href="https://practical.engineering/blog/2024/8/6/how-french-drains-work"
+              >How French Drains Work</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-06 @ 23:07:07</span
+              ><span class="points-container"
+                >Points: <span class="points">51</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41176461"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41174979">
           <h3>
             <a
@@ -389,7 +546,28 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41174979"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 26</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41174890">
+          <h3>
+            <a
+              class="item"
+              href="https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html"
+              >Blackhouses of Scotland</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-06 @ 20:19:58</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41174890"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -427,11 +605,11 @@
             <h4>
               <span>2024-08-06 @ 17:52:51</span
               ><span class="points-container"
-                >Points: <span class="points">401</span></span
+                >Points: <span class="points">407</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41173335"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -447,11 +625,11 @@
             <h4>
               <span>2024-08-06 @ 17:52:32</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41173330"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
             <div class="text">
@@ -571,7 +749,7 @@
             <h4>
               <span>2024-08-06 @ 17:41:41</span
               ><span class="points-container"
-                >Points: <span class="points">697</span></span
+                >Points: <span class="points">700</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41173223"
                   >Comments</a
@@ -593,11 +771,11 @@
             <h4>
               <span>2024-08-06 @ 17:37:51</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41173177"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 150</span></span
               >
             </h4>
           </section>
@@ -612,11 +790,11 @@
             <h4>
               <span>2024-08-06 @ 17:36:10</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">380</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41173161"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
             <div class="text">
@@ -656,25 +834,6 @@
             </div>
           </section>
         </section>
-        <section id="41172899">
-          <h3>
-            <a class="item" href="https://coe.psu.ac.th/ad/nashSim/"
-              >Finding Nash equilibria through simulation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-06 @ 17:13:46</span
-              ><span class="points-container"
-                >Points: <span class="points">92</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41172899"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41172883">
           <h3>
             <a
@@ -687,7 +846,7 @@
             <h4>
               <span>2024-08-06 @ 17:12:01</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41172883"
                   >Comments</a
@@ -726,11 +885,11 @@
             <h4>
               <span>2024-08-06 @ 14:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41171280"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -747,11 +906,11 @@
             <h4>
               <span>2024-08-06 @ 12:13:21</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41170111"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -769,53 +928,11 @@
             <h4>
               <span>2024-08-06 @ 11:49:57</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41169924"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41167615">
-          <h3>
-            <a
-              class="item"
-              href="https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1"
-              >The Soul of Maintaining a New Machine</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-06 @ 03:49:20</span
-              ><span class="points-container"
-                >Points: <span class="points">313</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41167615"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41159438">
-          <h3>
-            <a
-              class="item"
-              href="https://media.ccc.de/v/34c3-9021-squeezing_a_key_through_a_carry_bit"
-              >Squeezing a key through a carry bit (2017) [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-05 @ 09:21:39</span
-              ><span class="points-container"
-                >Points: <span class="points">32</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41159438"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -836,7 +953,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41155021"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -853,7 +970,7 @@
             <h4>
               <span>2024-08-03 @ 16:06:24</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41147393"
                   >Comments</a
@@ -872,11 +989,11 @@
             <h4>
               <span>2024-08-03 @ 05:50:10</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41144909"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
