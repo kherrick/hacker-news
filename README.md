@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-07, 21:47:28](https://news.ycombinator.com/item?id=41185930) - [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)
+* [2024-08-07, 21:39:24](https://news.ycombinator.com/item?id=41185859) - [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
 * [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
-* [2024-08-07, 19:25:31](https://news.ycombinator.com/item?id=41184476) - [DSOP – Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication)
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
 * [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-07, 18:44:03](https://news.ycombinator.com/item?id=41184102) - [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)

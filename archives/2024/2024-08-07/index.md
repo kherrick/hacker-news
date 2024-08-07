@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
 * [2024-08-07, 21:47:28](https://news.ycombinator.com/item?id=41185930) - [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)
+* [2024-08-07, 21:39:24](https://news.ycombinator.com/item?id=41185859) - [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
 * [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
 * [2024-08-07, 20:16:06](https://news.ycombinator.com/item?id=41184952) - [Neon: A serverless open-source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
 * [2024-08-07, 19:52:29](https://news.ycombinator.com/item?id=41184726) - [Ask HN: Front-End Bait and Switch?](https://news.ycombinator.com/item?id=41184726)
