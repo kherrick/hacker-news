@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-07, 14:56:51](https://news.ycombinator.com/item?id=41182101) - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
 * [2024-08-07, 14:50:11](https://news.ycombinator.com/item?id=41182055) - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
 * [2024-08-07, 14:06:00](https://news.ycombinator.com/item?id=41181610) - [Cats appear to grieve death of fellow pets – even dogs, study finds](https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
@@ -23,7 +24,6 @@
 * [2024-08-06, 17:37:51](https://news.ycombinator.com/item?id=41173177) - [Smashing idea: how East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
 * [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
 * [2024-08-06, 17:12:01](https://news.ycombinator.com/item?id=41172883) - [Chemical 'waves' used to encode words as Morse code](https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article)
-* [2024-08-06, 16:37:48](https://news.ycombinator.com/item?id=41172509) - [Show HN: ScholArxiv – an open-source, aesthetic, minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
 * [2024-08-06, 14:42:03](https://news.ycombinator.com/item?id=41171280) - [Why Polars rewrote its Arrow string data type](https://pola.rs/posts/polars-string-type/)
 * [2024-08-06, 12:13:21](https://news.ycombinator.com/item?id=41170111) - [Exploiting authorization by nonce in WordPress plugins](https://nowotarski.info/wordpress-nonce-authorization/)
 * [2024-08-06, 11:49:57](https://news.ycombinator.com/item?id=41169924) - [Tsung-Dao Lee, physicist who challenged a law of nature, has died](https://www.nytimes.com/2024/08/05/science/tsung-dao-lee-dead.html)
