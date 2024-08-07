@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-07, 18:44:03](https://news.ycombinator.com/item?id=41184102) - [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)
 * [2024-08-07, 17:58:58](https://news.ycombinator.com/item?id=41183725) - [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
 * [2024-08-07, 17:22:32](https://news.ycombinator.com/item?id=41183421) - [Humane's daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
 * [2024-08-07, 17:02:00](https://news.ycombinator.com/item?id=41183240) - [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
@@ -18,7 +19,6 @@
 * [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [How Uber tests payments in production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-07, 02:58:57](https://news.ycombinator.com/item?id=41177831) - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
 * [2024-08-06, 23:57:42](https://news.ycombinator.com/item?id=41176831) - [Medieval](https://teenage.engineering/products/ep-1320)
-* [2024-08-06, 23:56:05](https://news.ycombinator.com/item?id=41176817) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 * [2024-08-06, 23:07:07](https://news.ycombinator.com/item?id=41176461) - [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
 * [2024-08-06, 20:56:13](https://news.ycombinator.com/item?id=41175281) - [A 3D-printable quartz glass for high-performance applications](https://lithoz.com/en/lithoz-and-glassomer-launch-innovation-partnership-presenting-lithaglass-powered-by-glassomer-a-3d-printable-quartz-glass-for-high-performance-applications/)
 * [2024-08-06, 20:19:58](https://news.ycombinator.com/item?id=41174890) - [Blackhouses of Scotland](https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html)
