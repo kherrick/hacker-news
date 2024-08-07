@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 19:52:29](https://news.ycombinator.com/item?id=41184726) - [Ask HN: Front-End Bait and Switch?](https://news.ycombinator.com/item?id=41184726)
 * [2024-08-07, 19:32:46](https://news.ycombinator.com/item?id=41184559) - [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
 * [2024-08-07, 19:18:16](https://news.ycombinator.com/item?id=41184420) - [2.9B hit in one of largest data breaches; full names and SSNs exposed](https://www.tomsguide.com/computing/online-security/29-billion-hit-in-one-of-largest-data-breaches-ever-full-names-addresses-and-ssns-exposed)
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
@@ -12,6 +13,7 @@
 * [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-07, 18:44:03](https://news.ycombinator.com/item?id=41184102) - [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)
 * [2024-08-07, 18:35:08](https://news.ycombinator.com/item?id=41184037) - [GitButler is now Fair Source](https://blog.gitbutler.com/gitbutler-is-now-fair-source/)
+* [2024-08-07, 18:08:24](https://news.ycombinator.com/item?id=41183808) - [What Are the Olympics Shooting Competitors Wearing on Their Faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)
 * [2024-08-07, 17:58:58](https://news.ycombinator.com/item?id=41183725) - [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
 * [2024-08-07, 17:22:32](https://news.ycombinator.com/item?id=41183421) - [Humane's daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
 * [2024-08-07, 17:05:12](https://news.ycombinator.com/item?id=41183269) - [1970 Clean Air Act Was Intended to Cover Carbon Dioxide](https://e360.yale.edu/digest/clean-air-act-climate-change)
