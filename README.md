@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-07, 09:36:35](https://news.ycombinator.com/item?id=41179682) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-08-07, 09:04:36](https://news.ycombinator.com/item?id=41179513) - [AMD Ryzen 9000 Series processors are ready to deliver world class gaming](https://twitter.com/amdryzen/status/1820956835794358451)
 * [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-07, 05:55:11](https://news.ycombinator.com/item?id=41178596) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
 * [2024-08-07, 04:31:58](https://news.ycombinator.com/item?id=41178258) - [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)
@@ -7,10 +9,8 @@
 * [2024-08-06, 23:57:42](https://news.ycombinator.com/item?id=41176831) - [Medieval](https://teenage.engineering/products/ep-1320)
 * [2024-08-06, 23:56:05](https://news.ycombinator.com/item?id=41176817) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 * [2024-08-06, 22:47:33](https://news.ycombinator.com/item?id=41176265) - [How long does Apple support Mac firmware?](https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/)
-* [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-08-06, 20:31:34](https://news.ycombinator.com/item?id=41174996) - [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
 * [2024-08-06, 20:30:10](https://news.ycombinator.com/item?id=41174979) - [Carvings at Gobekli Tepe may be oldest calendar](https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract)
-* [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall batch – applications due by 8/27](https://www.ycombinator.com/blog/yc-fall-2024#)
 * [2024-08-06, 18:54:28](https://news.ycombinator.com/item?id=41174014) - [How not to say the wrong thing (2013)](https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html)
 * [2024-08-06, 18:28:32](https://news.ycombinator.com/item?id=41173719) - [Google says it is obligated to disclose confidential info to U.S. government](https://targettrend.com/google-says-it-is-obligated-to-disclose-confidential-information-of-users-to-u-s-government/)
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The real \"Wolf of Wall Street\" sales script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)

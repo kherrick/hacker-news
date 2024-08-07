@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 09:36:35](https://news.ycombinator.com/item?id=41179682) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-08-07, 09:04:36](https://news.ycombinator.com/item?id=41179513) - [AMD Ryzen 9000 Series processors are ready to deliver world class gaming](https://twitter.com/amdryzen/status/1820956835794358451)
 * [2024-08-07, 08:28:23](https://news.ycombinator.com/item?id=41179349) - [Bitcoin Investors Buy Puts Aggressively](https://en.bitcoinhaber.net/bitcoin-investors-buy-puts-aggressively)
 * [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-07, 06:40:40](https://news.ycombinator.com/item?id=41178808) - [The future of F/OSS continues to be AGPL](https://news.ycombinator.com/item?id=41178808)
