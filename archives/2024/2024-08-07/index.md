@@ -9,6 +9,7 @@
 * [2024-08-07, 19:52:29](https://news.ycombinator.com/item?id=41184726) - [Ask HN: Front-End Bait and Switch?](https://news.ycombinator.com/item?id=41184726)
 * [2024-08-07, 19:32:46](https://news.ycombinator.com/item?id=41184559) - [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
 * [2024-08-07, 19:32:16](https://news.ycombinator.com/item?id=41184553) - [macOS Sequoia makes it harder to run not notarized or signed apps](https://9to5mac.com/2024/08/06/macos-sequoia-makes-it-harder-to-run-apps-that-dont-follow-apples-security-rules/)
+* [2024-08-07, 19:25:31](https://news.ycombinator.com/item?id=41184476) - [DSOP – Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication)
 * [2024-08-07, 19:18:16](https://news.ycombinator.com/item?id=41184420) - [2.9B hit in one of largest data breaches; full names and SSNs exposed](https://www.tomsguide.com/computing/online-security/29-billion-hit-in-one-of-largest-data-breaches-ever-full-names-addresses-and-ssns-exposed)
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
 * [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)

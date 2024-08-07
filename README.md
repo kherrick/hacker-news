@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
+* [2024-08-07, 19:25:31](https://news.ycombinator.com/item?id=41184476) - [DSOP – Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication)
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
 * [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-07, 18:44:03](https://news.ycombinator.com/item?id=41184102) - [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)
@@ -15,7 +16,6 @@
 * [2024-08-07, 14:50:11](https://news.ycombinator.com/item?id=41182055) - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 * [2024-08-07, 11:56:02](https://news.ycombinator.com/item?id=41180441) - [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
-* [2024-08-07, 09:46:25](https://news.ycombinator.com/item?id=41179735) - [First USGS supercomputer decommissioning makes way for successors](https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors)
 * [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [How Uber tests payments in production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-07, 02:58:57](https://news.ycombinator.com/item?id=41177831) - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
 * [2024-08-06, 23:07:07](https://news.ycombinator.com/item?id=41176461) - [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
