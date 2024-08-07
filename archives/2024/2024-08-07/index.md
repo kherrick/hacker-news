@@ -6,6 +6,7 @@
 
 * [2024-08-07, 06:36:18](https://news.ycombinator.com/item?id=41178776) - [Rising rates of cancer in young people prompts hunt for environmental culprit](https://www.ft.com/content/491d7760-c329-4f57-9509-0da36bc9e7de)
 * [2024-08-07, 05:55:11](https://news.ycombinator.com/item?id=41178596) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
+* [2024-08-07, 04:47:53](https://news.ycombinator.com/item?id=41178321) - [China is stockpiling – we must do the same](https://www.thetimes.com/comment/columnists/article/china-is-stockpiling-we-must-do-the-same-02sgc8529)
 * [2024-08-07, 03:51:45](https://news.ycombinator.com/item?id=41178092) - [Gangs in the Los Angeles County Sheriff's Department](https://en.wikipedia.org/wiki/Gangs_in_the_Los_Angeles_County_Sheriff%27s_Department)
 * [2024-08-07, 03:27:47](https://news.ycombinator.com/item?id=41177984) - [Electric Chainsaws and the Gorge of Misery](https://lcamtuf.substack.com/p/electric-chainsaws-and-the-gorge)
 * [2024-08-07, 02:58:57](https://news.ycombinator.com/item?id=41177831) - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
