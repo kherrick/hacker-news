@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-07, 06:40:40",
-      "https://news.ycombinator.com/item?id=41178808"
-    ],
-    [
-      "The future of F/OSS continues to be AGPL",
-      "https://news.ycombinator.com/item?id=41178808"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 06:36:18",
       "https://news.ycombinator.com/item?id=41178776"
     ],
@@ -31,32 +21,12 @@
   ],
   [
     [
-      "2024-08-07, 04:47:53",
-      "https://news.ycombinator.com/item?id=41178321"
-    ],
-    [
-      "China is stockpiling – we must do the same",
-      "https://www.thetimes.com/comment/columnists/article/china-is-stockpiling-we-must-do-the-same-02sgc8529"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 04:31:58",
       "https://news.ycombinator.com/item?id=41178258"
     ],
     [
       "70% of new NPM packages in last 6 months were spam",
       "https://blog.phylum.io/the-great-npm-garbage-patch/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 03:27:47",
-      "https://news.ycombinator.com/item?id=41177984"
-    ],
-    [
-      "Electric chainsaws and the gorge of misery",
-      "https://lcamtuf.substack.com/p/electric-chainsaws-and-the-gorge"
     ]
   ],
   [
@@ -101,12 +71,22 @@
   ],
   [
     [
-      "2024-08-06, 21:30:12",
-      "https://news.ycombinator.com/item?id=41175586"
+      "2024-08-06, 21:00:16",
+      "https://news.ycombinator.com/item?id=41175322"
     ],
     [
-      "Please do not attempt to simplify this code",
-      "https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go"
+      "Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)",
+      "https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 20:31:34",
+      "https://news.ycombinator.com/item?id=41174996"
+    ],
+    [
+      "Show HN: AutoEditor – Edit your video in just a few clicks",
+      "https://autoeditor.video/"
     ]
   ],
   [
@@ -137,16 +117,6 @@
     [
       "How not to say the wrong thing (2013)",
       "https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 18:28:32",
-      "https://news.ycombinator.com/item?id=41173719"
-    ],
-    [
-      "Google says it is obligated to disclose confidential info to U.S. government",
-      "https://targettrend.com/google-says-it-is-obligated-to-disclose-confidential-information-of-users-to-u-s-government/"
     ]
   ],
   [
@@ -261,12 +231,42 @@
   ],
   [
     [
+      "2024-08-06, 09:54:31",
+      "https://news.ycombinator.com/item?id=41169244"
+    ],
+    [
+      "Crafting formulas: Lambdas all the way down",
+      "https://text.marvinborner.de/2024-04-16-10.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 03:49:20",
+      "https://news.ycombinator.com/item?id=41167615"
+    ],
+    [
+      "The Soul of Maintaining a New Machine",
+      "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1"
+    ]
+  ],
+  [
+    [
       "2024-08-06, 03:30:50",
       "https://news.ycombinator.com/item?id=41167561"
     ],
     [
       "Twitter kills its San Francisco headquarters, will relocate to South Bay",
       "https://sfstandard.com/2024/08/05/x-officially-kills-its-san-francisco-headquarters-will-relocate-workers-to-south-bay/"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 20:28:45",
+      "https://news.ycombinator.com/item?id=41165257"
+    ],
+    [
+      "Does space dust fall on the roof of my house?",
+      "https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-08-05, 14:43:40",
-      "https://news.ycombinator.com/item?id=41161831"
-    ],
-    [
-      "Scheduling Model in LLVM",
-      "https://myhsu.xyz/llvm-sched-model-1/"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 09:21:39",
       "https://news.ycombinator.com/item?id=41159438"
     ],
     [
       "Squeezing a key through a carry bit (2017) [video]",
       "https://media.ccc.de/v/34c3-9021-squeezing_a_key_through_a_carry_bit"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 03:00:56",
+      "https://news.ycombinator.com/item?id=41150879"
+    ],
+    [
+      "Remembering the First 'Cold-Storage Banquet'",
+      "https://www.atlasobscura.com/articles/first-cold-storage-banquet-frostbite-nicola-twilley"
     ]
   ]
 ]
