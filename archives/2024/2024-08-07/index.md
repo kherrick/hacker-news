@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
 * [2024-08-07, 20:16:06](https://news.ycombinator.com/item?id=41184952) - [Neon: A serverless open-source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
 * [2024-08-07, 19:52:29](https://news.ycombinator.com/item?id=41184726) - [Ask HN: Front-End Bait and Switch?](https://news.ycombinator.com/item?id=41184726)
 * [2024-08-07, 19:32:46](https://news.ycombinator.com/item?id=41184559) - [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
