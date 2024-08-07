@@ -26,9 +26,9 @@
 * [2024-08-06, 14:42:03](https://news.ycombinator.com/item?id=41171280) - [Why Polars rewrote its Arrow string data type](https://pola.rs/posts/polars-string-type/)
 * [2024-08-06, 11:49:57](https://news.ycombinator.com/item?id=41169924) - [Tsung-Dao Lee, physicist who challenged a law of nature, has died](https://www.nytimes.com/2024/08/05/science/tsung-dao-lee-dead.html)
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting formulas: Lambdas all the way down](https://text.marvinborner.de/2024-04-16-10.html)
-* [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-06, 03:30:50](https://news.ycombinator.com/item?id=41167561) - [Twitter kills its San Francisco headquarters, will relocate to South Bay](https://sfstandard.com/2024/08/05/x-officially-kills-its-san-francisco-headquarters-will-relocate-workers-to-south-bay/)
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
+* [2024-08-05, 09:21:39](https://news.ycombinator.com/item?id=41159438) - [Squeezing a key through a carry bit (2017) [video]](https://media.ccc.de/v/34c3-9021-squeezing_a_key_through_a_carry_bit)
 * [2024-08-04, 03:00:56](https://news.ycombinator.com/item?id=41150879) - [Remembering the First 'Cold-Storage Banquet'](https://www.atlasobscura.com/articles/first-cold-storage-banquet-frostbite-nicola-twilley)
 
 ## [Archives](archives/index.md)
