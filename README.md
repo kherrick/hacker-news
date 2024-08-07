@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-07, 13:34:43](https://news.ycombinator.com/item?id=41181316) - [Home Insurance Decisions Based on Drones and AI](https://www.businessinsider.com/homeowners-insurance-nightmare-cancellation-surveillance-drone-ai-future-2024-8)
+* [2024-08-07, 14:06:00](https://news.ycombinator.com/item?id=41181610) - [Cats appear to grieve death of fellow pets – even dogs, study finds](https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds)
 * [2024-08-07, 13:01:15](https://news.ycombinator.com/item?id=41180976) - [AMD Ryzen 5 9600X and Ryzen 7 9700X Offer Excellent Linux Performance](https://www.phoronix.com/review/ryzen-9600x-9700x)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 * [2024-08-07, 12:00:20](https://news.ycombinator.com/item?id=41180481) - [Sieve (YC W22) is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
