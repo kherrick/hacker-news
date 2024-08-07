@@ -23,13 +23,13 @@
 * [2024-08-06, 20:56:13](https://news.ycombinator.com/item?id=41175281) - [A 3D-printable quartz glass for high-performance applications](https://lithoz.com/en/lithoz-and-glassomer-launch-innovation-partnership-presenting-lithaglass-powered-by-glassomer-a-3d-printable-quartz-glass-for-high-performance-applications/)
 * [2024-08-06, 20:19:58](https://news.ycombinator.com/item?id=41174890) - [Blackhouses of Scotland](https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html)
 * [2024-08-06, 17:37:51](https://news.ycombinator.com/item?id=41173177) - [East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
-* [2024-08-06, 17:12:01](https://news.ycombinator.com/item?id=41172883) - [Chemical 'waves' used to encode words as Morse code](https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article)
 * [2024-08-06, 12:13:21](https://news.ycombinator.com/item?id=41170111) - [Exploiting authorization by nonce in WordPress plugins](https://nowotarski.info/wordpress-nonce-authorization/)
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 * [2024-08-03, 18:42:55](https://news.ycombinator.com/item?id=41148379) - [Setting expectations for open source participation (2018)](https://snarky.ca/setting-expectations-for-open-source-participation/)
 * [2024-08-03, 16:06:24](https://news.ycombinator.com/item?id=41147393) - [Nxylon: New super-black material made from wood](https://news.ubc.ca/2024/07/ubc-super-black-wood-nxylon/)
 * [2024-08-03, 05:50:10](https://news.ycombinator.com/item?id=41144909) - [Emotional about X11: I'm creating a pure X11 “emoji keyboard”](https://github.com/Zirias/xmoji)
 * [2024-08-03, 04:30:27](https://news.ycombinator.com/item?id=41144685) - [R5N - Obfuscated mesh routing on hostile networks.](https://lsd.gnunet.org/lsd0004/draft-schanzen-r5n.html)
+* [2024-08-02, 17:30:23](https://news.ycombinator.com/item?id=41140791) - [To preserve their work, journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
 
 ## [Archives](archives/index.md)
 

@@ -34,6 +34,7 @@
 * [2024-08-02, 18:06:39](https://news.ycombinator.com/item?id=41141112) - [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
 * [2024-08-02, 17:59:21](https://news.ycombinator.com/item?id=41141062) - [Japan cracks down on use of rideable electric suitcases amid tourist boom](https://www.theguardian.com/world/article/2024/jul/29/japan-rideable-luggage-suitcases-ban-crack-down-tourism)
 * [2024-08-02, 17:51:07](https://news.ycombinator.com/item?id=41140979) - [Google Pulls Olympics AI Ad 'Dear Sydney'](https://adage.com/article/special-report-olympics/google-pulls-olympics-ai-ad-dear-sydney/2573496)
+* [2024-08-02, 17:30:23](https://news.ycombinator.com/item?id=41140791) - [To preserve their work, journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
 * [2024-08-02, 17:09:19](https://news.ycombinator.com/item?id=41140623) - [Additive manufacturing of an ultrastrong, deformable Aluminum alloy](https://www.nature.com/articles/s41467-024-48693-4)
 * [2024-08-02, 17:00:39](https://news.ycombinator.com/item?id=41140554) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
 * [2024-08-02, 16:51:39](https://news.ycombinator.com/item?id=41140465) - [Supercharged Labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
