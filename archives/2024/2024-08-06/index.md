@@ -40,6 +40,7 @@
 * [2024-08-06, 17:45:09](https://news.ycombinator.com/item?id=41173261) - [Time is an illusion, and these physicists say they know how it works [video]](https://www.youtube.com/watch?v=uYOF-YggWAg)
 * [2024-08-06, 17:45:09](https://news.ycombinator.com/item?id=41173261) - [Time Is an Illusion, and These Physicists Say They Know How It Works](http://backreaction.blogspot.com/2024/08/time-is-illusion-and-these-physicists.html)
 * [2024-08-06, 17:41:41](https://news.ycombinator.com/item?id=41173223) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+* [2024-08-06, 17:37:51](https://news.ycombinator.com/item?id=41173177) - [Smashing idea: how East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
 * [2024-08-06, 17:36:10](https://news.ycombinator.com/item?id=41173161) - [Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
 * [2024-08-06, 17:32:21](https://news.ycombinator.com/item?id=41173111) - [Google transfers 1.2 EB of data every day using Effingo](https://www.theregister.com/2024/08/06/google_effingo/)
 * [2024-08-06, 17:30:19](https://news.ycombinator.com/item?id=41173089) - [Proton announces release of a new VPN protocol, \"Stealth\"](https://protonvpn.com/blog/stealth-vpn-protocol)
