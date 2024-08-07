@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-07, 02:31:32](https://news.ycombinator.com/item?id=41177701) - [LangChain vs. LlamaIndex](https://myscale.com/blog/llamaindex-vs-langchain-detailed-comparison/)
 * [2024-08-07, 00:54:57](https://news.ycombinator.com/item?id=41177161) - [Jeremy Rowley resigns from DigiCert due to mass-revocation incident](https://bugzilla.mozilla.org/show_bug.cgi?id=1910322)
 * [2024-08-06, 23:57:42](https://news.ycombinator.com/item?id=41176831) - [Medieval](https://teenage.engineering/products/ep-1320)
 * [2024-08-06, 23:56:05](https://news.ycombinator.com/item?id=41176817) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
@@ -7,10 +8,10 @@
 * [2024-08-06, 22:47:33](https://news.ycombinator.com/item?id=41176265) - [How long does Apple support Mac firmware?](https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/)
 * [2024-08-06, 21:30:12](https://news.ycombinator.com/item?id=41175586) - [Please do not attempt to simplify this code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
-* [2024-08-06, 20:47:48](https://news.ycombinator.com/item?id=41175181) - [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
 * [2024-08-06, 20:31:34](https://news.ycombinator.com/item?id=41174996) - [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
 * [2024-08-06, 20:30:10](https://news.ycombinator.com/item?id=41174979) - [Carvings at Gobekli Tepe may be oldest calendar](https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract)
 * [2024-08-06, 20:02:28](https://news.ycombinator.com/item?id=41174712) - [Can we trust Microsoft with Open Source? (2021)](https://dusted.codes/can-we-trust-microsoft-with-open-source)
+* [2024-08-06, 19:53:51](https://news.ycombinator.com/item?id=41174621) - [How to let go: Jake's life ends as his daughter's begins](https://jakeseliger.com/2024/08/06/how-to-let-go-one-life-ends-while-another-begins/)
 * [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall batch – applications due by 8/27](https://www.ycombinator.com/blog/yc-fall-2024#)
 * [2024-08-06, 18:54:28](https://news.ycombinator.com/item?id=41174014) - [How not to say the wrong thing (2013)](https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html)
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The real \"Wolf of Wall Street\" sales script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
@@ -29,7 +30,6 @@
 * [2024-08-05, 20:28:45](https://news.ycombinator.com/item?id=41165257) - [Does space dust fall on the roof of my house?](https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch)
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-04, 03:00:56](https://news.ycombinator.com/item?id=41150879) - [Remembering the First 'Cold-Storage Banquet'](https://www.atlasobscura.com/articles/first-cold-storage-banquet-frostbite-nicola-twilley)
-* [2024-08-02, 17:59:21](https://news.ycombinator.com/item?id=41141062) - [Japan cracks down on use of rideable electric suitcases amid tourist boom](https://www.theguardian.com/world/article/2024/jul/29/japan-rideable-luggage-suitcases-ban-crack-down-tourism)
 
 ## [Archives](archives/index.md)
 

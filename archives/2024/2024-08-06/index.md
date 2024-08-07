@@ -22,6 +22,7 @@
 * [2024-08-06, 20:30:10](https://news.ycombinator.com/item?id=41174979) - [Carvings at Gobekli Tepe may be oldest calendar](https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract)
 * [2024-08-06, 20:16:22](https://news.ycombinator.com/item?id=41174862) - [The Future of Open Source](https://blog.gitbutler.com/the-future-of-open-source/)
 * [2024-08-06, 20:02:28](https://news.ycombinator.com/item?id=41174712) - [Can we trust Microsoft with Open Source?](https://dusted.codes/can-we-trust-microsoft-with-open-source)
+* [2024-08-06, 19:53:51](https://news.ycombinator.com/item?id=41174621) - [How to let go: Jake's life ends as his daughter's begins](https://jakeseliger.com/2024/08/06/how-to-let-go-one-life-ends-while-another-begins/)
 * [2024-08-06, 19:50:10](https://news.ycombinator.com/item?id=41174580) - [Partisan bot-like accounts continue to amplify divisive content on X](https://www.globalwitness.org/en/campaigns/digital-threats/no-ifs-many-bots-partisan-bot-accounts-continue-amplify-divisive-content-x-generating-over-4-billion-views-uk-general-election-was-called/)
 * [2024-08-06, 19:48:16](https://news.ycombinator.com/item?id=41174559) - [AI agents but they're working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)
 * [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall 24 batch](https://www.ycombinator.com/blog/yc-fall-2024#)
