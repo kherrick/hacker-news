@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-07, 15:51:55",
+      "https://news.ycombinator.com/item?id=41182588"
+    ],
+    [
+      "End of an era: Apple's SuperDrive has sold out after 16 years",
+      "https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 15:25:48",
       "https://news.ycombinator.com/item?id=41182370"
     ],
@@ -27,16 +37,6 @@
     [
       "The Pesticide Industry's Toxic Lobby",
       "https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 14:56:51",
-      "https://news.ycombinator.com/item?id=41182101"
-    ],
-    [
-      "Show HN: Play with an interactive heatmap of SF crime (and other cities)",
-      "https://safemap.io/sf/map"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "First USGS supercomputer decommissioning makes way for successors",
       "https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 09:33:00",
-      "https://news.ycombinator.com/item?id=41179666"
-    ],
-    [
-      "Show HN: Lacakgrak – Simple inbound/outbound packet sniffer",
-      "https://github.com/altilunium/lacakgrak"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Chemical 'waves' used to encode words as Morse code",
       "https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 14:42:03",
+      "https://news.ycombinator.com/item?id=41171280"
+    ],
+    [
+      "Why Polars rewrote its Arrow string data type",
+      "https://pola.rs/posts/polars-string-type/"
     ]
   ],
   [
