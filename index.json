@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-07, 03:51:45",
+      "https://news.ycombinator.com/item?id=41178092"
+    ],
+    [
+      "Gangs in the Los Angeles County Sheriff's Department",
+      "https://en.wikipedia.org/wiki/Gangs_in_the_Los_Angeles_County_Sheriff%27s_Department"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 02:58:57",
+      "https://news.ycombinator.com/item?id=41177831"
+    ],
+    [
+      "The Private Life: On James Baldwin",
+      "https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 00:54:57",
       "https://news.ycombinator.com/item?id=41177161"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2024-08-06, 21:30:12",
-      "https://news.ycombinator.com/item?id=41175586"
-    ],
-    [
-      "Please do not attempt to simplify this code",
-      "https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 21:00:16",
       "https://news.ycombinator.com/item?id=41175322"
     ],
@@ -87,16 +97,6 @@
     [
       "Carvings at Gobekli Tepe may be oldest calendar",
       "https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 20:02:28",
-      "https://news.ycombinator.com/item?id=41174712"
-    ],
-    [
-      "Can we trust Microsoft with Open Source? (2021)",
-      "https://dusted.codes/can-we-trust-microsoft-with-open-source"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-08-06, 03:49:20",
-      "https://news.ycombinator.com/item?id=41167615"
-    ],
-    [
-      "The Soul of Maintaining a New Machine",
-      "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 03:30:50",
       "https://news.ycombinator.com/item?id=41167561"
     ],
@@ -287,6 +277,16 @@
     [
       "I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)",
       "https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 09:21:39",
+      "https://news.ycombinator.com/item?id=41159438"
+    ],
+    [
+      "Squeezing a key through a carry bit (2017) [video]",
+      "https://media.ccc.de/v/34c3-9021-squeezing_a_key_through_a_carry_bit"
     ]
   ],
   [
