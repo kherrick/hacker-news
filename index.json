@@ -5,28 +5,8 @@
       "https://news.ycombinator.com/item?id=41183224"
     ],
     [
-      "Flexport is hiring a product designer for our new Control Tower Product",
+      "Flexport (YC W14) is hiring a product designer for our new Control Tower product",
       "https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 16:49:06",
-      "https://news.ycombinator.com/item?id=41183119"
-    ],
-    [
-      "Humanity is failing one of its greatest moral tests",
-      "https://www.vox.com/future-perfect/363550/factory-farming-human-progress-sustainable-food-movement"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 16:31:29",
-      "https://news.ycombinator.com/item?id=41182963"
-    ],
-    [
-      "Green Tech Startup with No Climate Experience Secured Millions in Gov Contracts",
-      "https://www.propublica.org/article/nevada-nzero-carbon-emissions-tracking-project"
     ]
   ],
   [
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41181871"
     ],
     [
-      "Gear Acquisition Syndrome – Consumption of Instruments and Technology (2021)",
+      "Gear Acquisition Syndrome",
       "https://library.oapen.org/handle/20.500.12657/48282"
     ]
   ],
@@ -115,8 +95,28 @@
       "https://news.ycombinator.com/item?id=41178959"
     ],
     [
-      "Uber tests its payment systems in production",
+      "How Uber tests payments in production",
       "https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 05:55:11",
+      "https://news.ycombinator.com/item?id=41178596"
+    ],
+    [
+      "Streams, Calculational Proofs and Dafny",
+      "https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 05:20:28",
+      "https://news.ycombinator.com/item?id=41178455"
+    ],
+    [
+      "Linux for UX Designers: What I learn after a year of doing design work on Linux",
+      "https://www.chris-wood.design/resources/linux-for-ux-designers"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2024-08-06, 17:52:51",
-      "https://news.ycombinator.com/item?id=41173335"
+      "2024-08-06, 17:52:32",
+      "https://news.ycombinator.com/item?id=41173330"
     ],
     [
-      "Tracking supermarket prices with Playwright",
-      "https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/"
+      "Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard",
+      "https://news.ycombinator.com/item?id=41173330"
     ]
   ],
   [
@@ -215,18 +215,8 @@
       "https://news.ycombinator.com/item?id=41173177"
     ],
     [
-      "Smashing idea: how East Germany invented 'unbreakable' drinking glasses",
+      "East Germany invented 'unbreakable' drinking glasses",
       "https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 17:36:10",
-      "https://news.ycombinator.com/item?id=41173161"
-    ],
-    [
-      "Show HN: 1-FPS encrypted screen sharing for introverts",
-      "https://1fps.video/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Chemical 'waves' used to encode words as Morse code",
       "https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 14:42:03",
+      "https://news.ycombinator.com/item?id=41171280"
+    ],
+    [
+      "Why Polars rewrote its Arrow string data type",
+      "https://pola.rs/posts/polars-string-type/"
     ]
   ],
   [
