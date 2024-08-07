@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-07, 13:01:15",
+      "https://news.ycombinator.com/item?id=41180976"
+    ],
+    [
+      "AMD Ryzen 5 9600X and Ryzen 7 9700X Offer Excellent Linux Performance",
+      "https://www.phoronix.com/review/ryzen-9600x-9700x"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 12:03:39",
       "https://news.ycombinator.com/item?id=41180504"
     ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2024-08-07, 11:59:17",
-      "https://news.ycombinator.com/item?id=41180468"
-    ],
-    [
-      "Google's real monopoly is on the user data",
-      "https://www.propellernet.co.uk/googles-real-monopoly-is-on-the-user-data/"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 11:56:02",
       "https://news.ycombinator.com/item?id=41180441"
     ],
     [
       "Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams",
       "https://www.budgetflow.cc/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 10:47:36",
-      "https://news.ycombinator.com/item?id=41180007"
-    ],
-    [
-      "Coq will be renamed into 'The Rocq Prover'",
-      "https://coq.inria.fr/"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41179666"
     ],
     [
-      "Show HN: Lacakgrak – simple inbound/outbound packet sniffer",
+      "Show HN: Lacakgrak – Simple inbound/outbound packet sniffer",
       "https://github.com/altilunium/lacakgrak"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41178959"
     ],
     [
-      "Cringey, but True: How Uber Tests Payments in Production",
+      "Uber tests its payment systems in production",
       "https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments"
     ]
   ],
@@ -147,6 +137,16 @@
     [
       "Carvings at Gobekli Tepe may be oldest calendar",
       "https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 18:54:28",
+      "https://news.ycombinator.com/item?id=41174014"
+    ],
+    [
+      "How not to say the wrong thing (2013)",
+      "https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-08-06, 16:37:48",
+      "https://news.ycombinator.com/item?id=41172509"
+    ],
+    [
+      "Show HN: ScholArxiv – an open-source, aesthetic, minimal research paper explorer",
+      "https://github.com/dagmawibabi/ScholArxiv"
+    ]
+  ],
+  [
+    [
       "2024-08-06, 14:42:03",
       "https://news.ycombinator.com/item?id=41171280"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2024-08-06, 03:30:50",
-      "https://news.ycombinator.com/item?id=41167561"
+      "2024-08-05, 09:21:39",
+      "https://news.ycombinator.com/item?id=41159438"
     ],
     [
-      "Twitter kills its San Francisco headquarters, will relocate to South Bay",
-      "https://sfstandard.com/2024/08/05/x-officially-kills-its-san-francisco-headquarters-will-relocate-workers-to-south-bay/"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 19:15:51",
-      "https://news.ycombinator.com/item?id=41155618"
-    ],
-    [
-      "World of Goo 2: now available",
-      "https://worldofgoo2.com/"
+      "Squeezing a key through a carry bit (2017) [video]",
+      "https://media.ccc.de/v/34c3-9021-squeezing_a_key_through_a_carry_bit"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=41144909"
     ],
     [
-      "Emotional about X11: I'm creating a pure X11 \"emoji keyboard\"",
+      "Emotional about X11: I'm creating a pure X11 “emoji keyboard”",
       "https://github.com/Zirias/xmoji"
     ]
   ]
