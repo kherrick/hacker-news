@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-08-06, 17:13:46",
-      "https://news.ycombinator.com/item?id=41172899"
-    ],
-    [
-      "Finding Nash equilibria through simulation",
-      "https://coe.psu.ac.th/ad/nashSim/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 16:37:48",
       "https://news.ycombinator.com/item?id=41172509"
     ],
@@ -227,6 +217,16 @@
     [
       "Why Polars rewrote its Arrow string data type",
       "https://pola.rs/posts/polars-string-type/"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 12:13:21",
+      "https://news.ycombinator.com/item?id=41170111"
+    ],
+    [
+      "Exploiting authorization by nonce in WordPress plugins",
+      "https://nowotarski.info/wordpress-nonce-authorization/"
     ]
   ],
   [
