@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-07, 14:06:00](https://news.ycombinator.com/item?id=41181610) - [Cats appear to grieve death of fellow pets – even dogs, study finds](https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds)
-* [2024-08-07, 13:01:15](https://news.ycombinator.com/item?id=41180976) - [AMD Ryzen 5 9600X and Ryzen 7 9700X Offer Excellent Linux Performance](https://www.phoronix.com/review/ryzen-9600x-9700x)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 * [2024-08-07, 12:00:20](https://news.ycombinator.com/item?id=41180481) - [Sieve (YC W22) is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-08-07, 11:56:02](https://news.ycombinator.com/item?id=41180441) - [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
+* [2024-08-07, 11:43:15](https://news.ycombinator.com/item?id=41180346) - [If Fever Helps Fight Infection, Should I Avoid Fever-Reducing Drugs? (2018)](https://www.nytimes.com/2018/05/11/well/live/fever-infection-drugs-tylenol-acetaminophen-ibuprofen-advil-aspirin.html)
 * [2024-08-07, 09:46:25](https://news.ycombinator.com/item?id=41179735) - [First USGS supercomputer decommissioning makes way for successors](https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors)
 * [2024-08-07, 09:33:00](https://news.ycombinator.com/item?id=41179666) - [Show HN: Lacakgrak – Simple inbound/outbound packet sniffer](https://github.com/altilunium/lacakgrak)
 * [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [Uber tests its payment systems in production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
