@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-07, 21:00:39",
+      "https://news.ycombinator.com/item?id=41185460"
+    ],
+    [
+      "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
+      "https://news.ycombinator.com/item?id=41185460"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 20:16:06",
       "https://news.ycombinator.com/item?id=41184952"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2024-08-07, 18:35:08",
-      "https://news.ycombinator.com/item?id=41184037"
-    ],
-    [
-      "GitButler is now fair source",
-      "https://blog.gitbutler.com/gitbutler-is-now-fair-source/"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 18:08:24",
       "https://news.ycombinator.com/item?id=41183808"
     ],
@@ -117,16 +117,6 @@
     [
       "Official proposal for Type Unions in C#",
       "https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 17:00:39",
-      "https://news.ycombinator.com/item?id=41183224"
-    ],
-    [
-      "Flexport (YC W14) is hiring a product designer for our new Control Tower product",
-      "https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "East Germany invented 'unbreakable' drinking glasses",
       "https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 12:13:21",
+      "https://news.ycombinator.com/item?id=41170111"
+    ],
+    [
+      "Exploiting authorization by nonce in WordPress plugins",
+      "https://nowotarski.info/wordpress-nonce-authorization/"
     ]
   ],
   [
