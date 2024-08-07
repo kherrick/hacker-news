@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 19:32:46](https://news.ycombinator.com/item?id=41184559) - [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
 * [2024-08-07, 19:18:16](https://news.ycombinator.com/item?id=41184420) - [2.9B hit in one of largest data breaches; full names and SSNs exposed](https://www.tomsguide.com/computing/online-security/29-billion-hit-in-one-of-largest-data-breaches-ever-full-names-addresses-and-ssns-exposed)
+* [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
+* [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
 * [2024-08-07, 18:52:42](https://news.ycombinator.com/item?id=41184174) - [Deprecate 0.0.0.0 for Private Network Access](https://chromestatus.com/feature/5106143060033536)
 * [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-07, 18:44:03](https://news.ycombinator.com/item?id=41184102) - [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)
