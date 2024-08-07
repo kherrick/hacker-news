@@ -28,8 +28,8 @@
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 09:21:39](https://news.ycombinator.com/item?id=41159438) - [Squeezing a key through a carry bit (2017) [video]](https://media.ccc.de/v/34c3-9021-squeezing_a_key_through_a_carry_bit)
 * [2024-08-04, 17:25:09](https://news.ycombinator.com/item?id=41155021) - [What Is Analog Computing?](https://www.quantamagazine.org/what-is-analog-computing-20240802/)
-* [2024-08-04, 03:00:56](https://news.ycombinator.com/item?id=41150879) - [Remembering the First 'Cold-Storage Banquet'](https://www.atlasobscura.com/articles/first-cold-storage-banquet-frostbite-nicola-twilley)
 * [2024-08-03, 16:06:24](https://news.ycombinator.com/item?id=41147393) - [Nxylon: New super-black material made from wood](https://news.ubc.ca/2024/07/ubc-super-black-wood-nxylon/)
+* [2024-08-03, 05:50:10](https://news.ycombinator.com/item?id=41144909) - [Emotional about X11: I'm creating a pure X11 \"emoji keyboard\"](https://github.com/Zirias/xmoji)
 
 ## [Archives](archives/index.md)
 
