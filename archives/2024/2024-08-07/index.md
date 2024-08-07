@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 18:52:42](https://news.ycombinator.com/item?id=41184174) - [Deprecate 0.0.0.0 for Private Network Access](https://chromestatus.com/feature/5106143060033536)
 * [2024-08-07, 18:44:03](https://news.ycombinator.com/item?id=41184102) - [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)
+* [2024-08-07, 18:35:08](https://news.ycombinator.com/item?id=41184037) - [GitButler is now Fair Source](https://blog.gitbutler.com/gitbutler-is-now-fair-source/)
 * [2024-08-07, 17:58:58](https://news.ycombinator.com/item?id=41183725) - [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
 * [2024-08-07, 17:22:32](https://news.ycombinator.com/item?id=41183421) - [Humane's daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
+* [2024-08-07, 17:05:12](https://news.ycombinator.com/item?id=41183269) - [1970 Clean Air Act Was Intended to Cover Carbon Dioxide](https://e360.yale.edu/digest/clean-air-act-climate-change)
 * [2024-08-07, 17:02:00](https://news.ycombinator.com/item?id=41183240) - [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
 * [2024-08-07, 17:00:39](https://news.ycombinator.com/item?id=41183224) - [Flexport is hiring a product designer for our new Control Tower Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 * [2024-08-07, 16:49:06](https://news.ycombinator.com/item?id=41183119) - [Humanity is failing one of its greatest moral tests](https://www.vox.com/future-perfect/363550/factory-farming-human-progress-sustainable-food-movement)
