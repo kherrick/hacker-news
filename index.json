@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-07, 16:15:58",
+      "https://news.ycombinator.com/item?id=41182823"
+    ],
+    [
+      "Ask HN: How to build site with payment, subscriptions, user login, registration",
+      "https://news.ycombinator.com/item?id=41182823"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 15:25:48",
       "https://news.ycombinator.com/item?id=41182370"
     ],
     [
       "I Got a Sleep Study in My 30s. It Probably Saved My Life",
       "https://www.gq.com/story/sleep-apnea-study"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 14:58:04",
+      "https://news.ycombinator.com/item?id=41182121"
+    ],
+    [
+      "The Pesticide Industry's Toxic Lobby",
+      "https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Gear Acquisition Syndrome – Consumption of Instruments and Technology (2021)",
       "https://library.oapen.org/handle/20.500.12657/48282"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 13:09:54",
+      "https://news.ycombinator.com/item?id=41181057"
+    ],
+    [
+      "Basic ReAct webapp using FastHTML and LangGraph",
+      "https://github.com/jank/curiosity"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Uber tests its payment systems in production",
       "https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 05:55:11",
-      "https://news.ycombinator.com/item?id=41178596"
-    ],
-    [
-      "Streams, Calculational Proofs and Dafny",
-      "https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-08-06, 17:52:32",
-      "https://news.ycombinator.com/item?id=41173330"
-    ],
-    [
-      "Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard",
-      "https://news.ycombinator.com/item?id=41173330"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 17:41:41",
       "https://news.ycombinator.com/item?id=41173223"
     ],
@@ -237,16 +247,6 @@
     [
       "Chemical 'waves' used to encode words as Morse code",
       "https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 14:42:03",
-      "https://news.ycombinator.com/item?id=41171280"
-    ],
-    [
-      "Why Polars rewrote its Arrow string data type",
-      "https://pola.rs/posts/polars-string-type/"
     ]
   ],
   [
