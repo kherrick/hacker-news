@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-07, 21:47:28](https://news.ycombinator.com/item?id=41185930) - [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)
 * [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
 * [2024-08-07, 19:25:31](https://news.ycombinator.com/item?id=41184476) - [DSOP – Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication)
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
@@ -24,7 +25,6 @@
 * [2024-08-06, 17:37:51](https://news.ycombinator.com/item?id=41173177) - [East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
 * [2024-08-06, 17:12:01](https://news.ycombinator.com/item?id=41172883) - [Chemical 'waves' used to encode words as Morse code](https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article)
 * [2024-08-06, 12:13:21](https://news.ycombinator.com/item?id=41170111) - [Exploiting authorization by nonce in WordPress plugins](https://nowotarski.info/wordpress-nonce-authorization/)
-* [2024-08-06, 11:49:57](https://news.ycombinator.com/item?id=41169924) - [Tsung-Dao Lee, physicist who challenged a law of nature, has died](https://www.nytimes.com/2024/08/05/science/tsung-dao-lee-dead.html)
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 * [2024-08-03, 18:42:55](https://news.ycombinator.com/item?id=41148379) - [Setting expectations for open source participation (2018)](https://snarky.ca/setting-expectations-for-open-source-participation/)
 * [2024-08-03, 16:06:24](https://news.ycombinator.com/item?id=41147393) - [Nxylon: New super-black material made from wood](https://news.ubc.ca/2024/07/ubc-super-black-wood-nxylon/)
