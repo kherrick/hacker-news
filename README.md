@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-07, 06:36:18](https://news.ycombinator.com/item?id=41178776) - [Rising rates of cancer in young people prompts hunt for environmental culprit](https://www.ft.com/content/491d7760-c329-4f57-9509-0da36bc9e7de)
+* [2024-08-07, 08:28:23](https://news.ycombinator.com/item?id=41179349) - [Bitcoin Investors Buy Puts Aggressively](https://en.bitcoinhaber.net/bitcoin-investors-buy-puts-aggressively)
+* [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-07, 05:55:11](https://news.ycombinator.com/item?id=41178596) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
 * [2024-08-07, 04:31:58](https://news.ycombinator.com/item?id=41178258) - [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)
 * [2024-08-07, 02:58:57](https://news.ycombinator.com/item?id=41177831) - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
@@ -10,7 +11,6 @@
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-08-06, 20:31:34](https://news.ycombinator.com/item?id=41174996) - [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
 * [2024-08-06, 20:30:10](https://news.ycombinator.com/item?id=41174979) - [Carvings at Gobekli Tepe may be oldest calendar](https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract)
-* [2024-08-06, 19:21:06](https://news.ycombinator.com/item?id=41174281) - [YC is doing a first ever Fall batch – applications due by 8/27](https://www.ycombinator.com/blog/yc-fall-2024#)
 * [2024-08-06, 18:54:28](https://news.ycombinator.com/item?id=41174014) - [How not to say the wrong thing (2013)](https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html)
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The real \"Wolf of Wall Street\" sales script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
 * [2024-08-06, 17:52:51](https://news.ycombinator.com/item?id=41173335) - [Tracking supermarket prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
@@ -26,10 +26,10 @@
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting formulas: Lambdas all the way down](https://text.marvinborner.de/2024-04-16-10.html)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-06, 03:30:50](https://news.ycombinator.com/item?id=41167561) - [Twitter kills its San Francisco headquarters, will relocate to South Bay](https://sfstandard.com/2024/08/05/x-officially-kills-its-san-francisco-headquarters-will-relocate-workers-to-south-bay/)
-* [2024-08-05, 20:28:45](https://news.ycombinator.com/item?id=41165257) - [Does space dust fall on the roof of my house?](https://astronomy.stackexchange.com/questions/58254/does-space-dust-fall-on-the-roof-of-my-house-and-if-so-can-i-detect-it-with-a-ch)
 * [2024-08-05, 14:55:21](https://news.ycombinator.com/item?id=41161947) - [I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
 * [2024-08-05, 09:21:39](https://news.ycombinator.com/item?id=41159438) - [Squeezing a key through a carry bit (2017) [video]](https://media.ccc.de/v/34c3-9021-squeezing_a_key_through_a_carry_bit)
 * [2024-08-04, 03:00:56](https://news.ycombinator.com/item?id=41150879) - [Remembering the First 'Cold-Storage Banquet'](https://www.atlasobscura.com/articles/first-cold-storage-banquet-frostbite-nicola-twilley)
+* [2024-08-03, 16:06:24](https://news.ycombinator.com/item?id=41147393) - [Nxylon: New super-black material made from wood](https://news.ubc.ca/2024/07/ubc-super-black-wood-nxylon/)
 
 ## [Archives](archives/index.md)
 

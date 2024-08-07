@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 08:28:23](https://news.ycombinator.com/item?id=41179349) - [Bitcoin Investors Buy Puts Aggressively](https://en.bitcoinhaber.net/bitcoin-investors-buy-puts-aggressively)
+* [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-07, 06:40:40](https://news.ycombinator.com/item?id=41178808) - [The future of F/OSS continues to be AGPL](https://news.ycombinator.com/item?id=41178808)
 * [2024-08-07, 06:36:18](https://news.ycombinator.com/item?id=41178776) - [Rising rates of cancer in young people prompts hunt for environmental culprit](https://www.ft.com/content/491d7760-c329-4f57-9509-0da36bc9e7de)
 * [2024-08-07, 05:55:11](https://news.ycombinator.com/item?id=41178596) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
