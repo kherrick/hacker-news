@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-08-07, 19:52:29",
+      "https://news.ycombinator.com/item?id=41184726"
+    ],
+    [
+      "Ask HN: Front-End Bait and Switch?",
+      "https://news.ycombinator.com/item?id=41184726"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 19:32:46",
       "https://news.ycombinator.com/item?id=41184559"
     ],
     [
       "Mistral Agents",
       "https://mistral.ai/news/build-tweak-repeat/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 19:18:16",
-      "https://news.ycombinator.com/item?id=41184420"
-    ],
-    [
-      "2.9B hit in one of largest data breaches; full names and SSNs exposed",
-      "https://www.tomsguide.com/computing/online-security/29-billion-hit-in-one-of-largest-data-breaches-ever-full-names-addresses-and-ssns-exposed"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025",
       "https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 18:52:42",
-      "https://news.ycombinator.com/item?id=41184174"
-    ],
-    [
-      "Deprecate 0.0.0.0 for Private Network Access",
-      "https://chromestatus.com/feature/5106143060033536"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "GitButler is now Fair Source",
       "https://blog.gitbutler.com/gitbutler-is-now-fair-source/"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 18:08:24",
+      "https://news.ycombinator.com/item?id=41183808"
+    ],
+    [
+      "What Are the Olympics Shooting Competitors Wearing on Their Faces?",
+      "https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-08-07, 16:14:04",
+      "https://news.ycombinator.com/item?id=41182805"
+    ],
+    [
+      "Python extensions should be lazy",
+      "https://www.gauge.sh/blog/python-extensions-should-be-lazy"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 16:04:18",
       "https://news.ycombinator.com/item?id=41182714"
     ],
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2024-08-07, 15:48:38",
-      "https://news.ycombinator.com/item?id=41182565"
-    ],
-    [
-      "Ask HN: How different is AWS/GCP/Azure in everyday work",
-      "https://news.ycombinator.com/item?id=41182565"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 15:28:30",
       "https://news.ycombinator.com/item?id=41182395"
     ],
     [
       "Zen5's AVX512 Teardown and More",
       "http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 14:56:51",
+      "https://news.ycombinator.com/item?id=41182101"
+    ],
+    [
+      "Show HN: Play with an interactive heatmap of SF crime (and other cities)",
+      "https://safemap.io/sf/map"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams",
       "https://www.budgetflow.cc/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 07:16:02",
-      "https://news.ycombinator.com/item?id=41178959"
-    ],
-    [
-      "How Uber tests payments in production",
-      "https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments"
     ]
   ],
   [
