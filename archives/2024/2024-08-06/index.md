@@ -67,6 +67,7 @@
 * [2024-08-06, 13:31:36](https://news.ycombinator.com/item?id=41170713) - [Ziff Davis is buying CNET for just $100M](https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million)
 * [2024-08-06, 13:27:52](https://news.ycombinator.com/item?id=41170685) - [Speedrunning 30yrs of lithography technology [video]](https://www.youtube.com/watch?v=RuVS7MsQk4Y)
 * [2024-08-06, 12:59:51](https://news.ycombinator.com/item?id=41170454) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
+* [2024-08-06, 12:13:21](https://news.ycombinator.com/item?id=41170111) - [Exploiting authorization by nonce in WordPress plugins](https://nowotarski.info/wordpress-nonce-authorization/)
 * [2024-08-06, 12:01:09](https://news.ycombinator.com/item?id=41170008) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 * [2024-08-06, 11:49:57](https://news.ycombinator.com/item?id=41169924) - [Tsung-Dao Lee, physicist who challenged a law of nature, has died](https://www.nytimes.com/2024/08/05/science/tsung-dao-lee-dead.html)
 * [2024-08-06, 11:05:03](https://news.ycombinator.com/item?id=41169642) - [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
