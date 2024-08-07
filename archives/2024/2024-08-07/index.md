@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 16:15:58](https://news.ycombinator.com/item?id=41182823) - [Ask HN: How to build site with payment, subscriptions, user login, registration](https://news.ycombinator.com/item?id=41182823)
 * [2024-08-07, 15:25:48](https://news.ycombinator.com/item?id=41182370) - [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
+* [2024-08-07, 14:58:04](https://news.ycombinator.com/item?id=41182121) - [The Pesticide Industry's Toxic Lobby](https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/)
 * [2024-08-07, 14:56:51](https://news.ycombinator.com/item?id=41182101) - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
 * [2024-08-07, 14:50:11](https://news.ycombinator.com/item?id=41182055) - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
 * [2024-08-07, 14:32:36](https://news.ycombinator.com/item?id=41181871) - [Gear Acquisition Syndrome – Consumption of Instruments and Technology (2021)](https://library.oapen.org/handle/20.500.12657/48282)
 * [2024-08-07, 14:06:00](https://news.ycombinator.com/item?id=41181610) - [Cats appear to grieve death of fellow pets – even dogs, study finds](https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds)
 * [2024-08-07, 13:34:43](https://news.ycombinator.com/item?id=41181316) - [Home Insurance Decisions Based on Drones and AI](https://www.businessinsider.com/homeowners-insurance-nightmare-cancellation-surveillance-drone-ai-future-2024-8)
 * [2024-08-07, 13:20:17](https://news.ycombinator.com/item?id=41181176) - [How the super-rich are building their luxury 'safe house' bunkers](https://www.cnn.com/2024/08/07/style/underground-bunkers-super-rich/index.html)
+* [2024-08-07, 13:09:54](https://news.ycombinator.com/item?id=41181057) - [Basic ReAct webapp using FastHTML and LangGraph](https://github.com/jank/curiosity)
 * [2024-08-07, 13:01:15](https://news.ycombinator.com/item?id=41180976) - [AMD Ryzen 5 9600X and Ryzen 7 9700X Offer Excellent Linux Performance](https://www.phoronix.com/review/ryzen-9600x-9700x)
 * [2024-08-07, 12:56:53](https://news.ycombinator.com/item?id=41180932) - [What's Up Python? Setuptools Breaks, a Better PDB, CPython on CalVer](https://www.bitecode.dev/p/whats-up-python-setuptools-breaks)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
