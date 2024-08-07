@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-08-07, 20:16:06",
+      "https://news.ycombinator.com/item?id=41184952"
+    ],
+    [
+      "Neon: A serverless open-source alternative to AWS Aurora Postgres",
+      "https://github.com/neondatabase/neon"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 19:52:29",
       "https://news.ycombinator.com/item?id=41184726"
     ],
     [
-      "Ask HN: Front-End Bait and Switch?",
+      "Ask HN: Front-end bait and switch?",
       "https://news.ycombinator.com/item?id=41184726"
     ]
   ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2024-08-07, 19:05:42",
+      "https://news.ycombinator.com/item?id=41184307"
+    ],
+    [
+      "Türkiye Bans Roblox",
+      "https://www.turkiyetoday.com/turkiye/4-reasons-why-turkiye-banned-roblox-37404/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 18:50:55",
       "https://news.ycombinator.com/item?id=41184153"
     ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41184037"
     ],
     [
-      "GitButler is now Fair Source",
+      "GitButler is now fair source",
       "https://blog.gitbutler.com/gitbutler-is-now-fair-source/"
     ]
   ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41183269"
     ],
     [
-      "1970 Clean Air Act Was Intended to Cover Carbon Dioxide",
+      "1970 Clean Air Act was intended to cover carbon dioxide",
       "https://e360.yale.edu/digest/clean-air-act-climate-change"
     ]
   ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41182847"
     ],
     [
-      "Official Puppeteer Support for Firefox",
+      "Puppeteer Support for Firefox",
       "https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/"
     ]
   ],
@@ -247,26 +267,6 @@
     [
       "East Germany invented 'unbreakable' drinking glasses",
       "https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 17:12:01",
-      "https://news.ycombinator.com/item?id=41172883"
-    ],
-    [
-      "Chemical 'waves' used to encode words as Morse code",
-      "https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 12:13:21",
-      "https://news.ycombinator.com/item?id=41170111"
-    ],
-    [
-      "Exploiting authorization by nonce in WordPress plugins",
-      "https://nowotarski.info/wordpress-nonce-authorization/"
     ]
   ],
   [
