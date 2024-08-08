@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-08-08, 20:19:48",
+      "https://news.ycombinator.com/item?id=41195765"
+    ],
+    [
+      "Gemini 1.5 Flash price is now ~70% lower ($0.075 / 1M)",
+      "https://twitter.com/OfficialLoganK/status/1821601298195878323"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 20:00:20",
       "https://news.ycombinator.com/item?id=41195584"
     ],
     [
-      "Apple Is America's Semiconductor Problem",
+      "Apple is America's semiconductor problem",
       "https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/"
     ]
   ],
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2024-08-08, 16:13:05",
-      "https://news.ycombinator.com/item?id=41193112"
+      "2024-08-08, 16:07:54",
+      "https://news.ycombinator.com/item?id=41193045"
     ],
     [
-      "Show HN: RoundtableJS – Open-source programmatic survey library",
-      "https://github.com/roundtableAI/roundtable-js"
+      "How we migrated onto K8s in less than 12 months",
+      "https://www.figma.com/blog/migrating-onto-kubernetes/"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-08-08, 15:00:18",
-      "https://news.ycombinator.com/item?id=41192247"
-    ],
-    [
-      "Qwen2-Math",
-      "https://qwenlm.github.io/blog/qwen2-math/"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 14:49:27",
       "https://news.ycombinator.com/item?id=41192147"
     ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-08-08, 13:55:09",
+      "https://news.ycombinator.com/item?id=41191540"
+    ],
+    [
+      "How long does music stardom last? A statistical analysis",
+      "https://www.statsignificant.com/p/how-long-does-music-stardom-last"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 13:03:22",
       "https://news.ycombinator.com/item?id=41191069"
     ],
@@ -147,16 +157,6 @@
     [
       "How we found and fixed an eBPF Linux kernel vulnerability",
       "https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 07:40:20",
-      "https://news.ycombinator.com/item?id=41189056"
-    ],
-    [
-      "Show HN: I built interactive map of active and decommissioned nuclear stations",
-      "https://nuclearstations.com/map"
     ]
   ],
   [
@@ -191,12 +191,22 @@
   ],
   [
     [
-      "2024-08-07, 19:10:54",
-      "https://news.ycombinator.com/item?id=41184359"
+      "2024-08-07, 21:48:43",
+      "https://news.ycombinator.com/item?id=41185945"
     ],
     [
-      "NASA says Boeing Starliner astronauts may fly home on SpaceX in 2025",
-      "https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html"
+      "The Third Atomic Bomb",
+      "https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 21:47:52",
+      "https://news.ycombinator.com/item?id=41185937"
+    ],
+    [
+      "Canonical S-Expressions",
+      "https://en.wikipedia.org/wiki/Canonical_S-expressions"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2024-08-06, 03:51:51",
-      "https://news.ycombinator.com/item?id=41167626"
+      "2024-08-05, 23:23:17",
+      "https://news.ycombinator.com/item?id=41166512"
     ],
     [
-      "The Story of Samsung's failed deal with iFixit, as told by iFixit's CEO",
-      "https://www.androidauthority.com/samsung-ifixit-partnership-story-3456726/"
+      "Eyechat",
+      "https://neal.fun/eyechat/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "ICPP – Run C++ anywhere like a script",
       "https://github.com/vpand/icpp"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 09:34:43",
-      "https://news.ycombinator.com/item?id=41145573"
-    ],
-    [
-      "Linear Algebra Done Wrong (2004)",
-      "https://www.math.brown.edu/streil/papers/LADW/LADW.html"
     ]
   ]
 ]
