@@ -17,6 +17,7 @@
 * [2024-08-07, 22:11:25](https://news.ycombinator.com/item?id=41186116) - [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
 * [2024-08-07, 22:09:43](https://news.ycombinator.com/item?id=41186099) - [Can kids master the video games their parents loved?](https://www.theguardian.com/games/article/2024/aug/07/this-is-impossible-can-kids-master-the-video-games-their-parents-loved)
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
+* [2024-08-07, 21:47:52](https://news.ycombinator.com/item?id=41185937) - [Thoughts on Canonical S-Expressions (2019)](https://write.emacsen.net/thoughts-on-canonical-s-expressions)
 * [2024-08-07, 21:47:52](https://news.ycombinator.com/item?id=41185937) - [Canonical S-Expressions](https://en.wikipedia.org/wiki/Canonical_S-expressions)
 * [2024-08-07, 21:47:28](https://news.ycombinator.com/item?id=41185930) - [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)
 * [2024-08-07, 21:39:24](https://news.ycombinator.com/item?id=41185859) - [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)

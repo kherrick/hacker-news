@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 20:44:28](https://news.ycombinator.com/item?id=41196053) - [Zero calorie sweetener linked to blood clots and heart disease, study finds](https://www.cnn.com/2024/08/08/health/erythritol-blood-clotting-wellness/index.html)
 * [2024-08-08, 20:19:48](https://news.ycombinator.com/item?id=41195765) - [Gemini 1.5 Flash price is now ~70% lower ($0.075 / 1M)](https://twitter.com/OfficialLoganK/status/1821601298195878323)
 * [2024-08-08, 20:08:43](https://news.ycombinator.com/item?id=41195652) - [Ask HN: How did you learn Regex?](https://news.ycombinator.com/item?id=41195652)
 * [2024-08-08, 20:00:20](https://news.ycombinator.com/item?id=41195584) - [Apple Is America's Semiconductor Problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
