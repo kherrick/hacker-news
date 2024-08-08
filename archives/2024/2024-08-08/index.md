@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
 * [2024-08-08, 20:44:28](https://news.ycombinator.com/item?id=41196053) - [Zero calorie sweetener linked to blood clots and heart disease, study finds](https://www.cnn.com/2024/08/08/health/erythritol-blood-clotting-wellness/index.html)
+* [2024-08-08, 20:21:45](https://news.ycombinator.com/item?id=41195791) - [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
 * [2024-08-08, 20:19:48](https://news.ycombinator.com/item?id=41195765) - [Gemini 1.5 Flash price is now ~70% lower ($0.075 / 1M)](https://twitter.com/OfficialLoganK/status/1821601298195878323)
+* [2024-08-08, 20:11:48](https://news.ycombinator.com/item?id=41195681) - [Over 90% of US Population Growth Since 2020 Came from Hispanics](https://www.bloomberg.com/news/articles/2024-08-07/over-90-of-us-population-growth-since-2020-came-from-hispanics)
 * [2024-08-08, 20:08:43](https://news.ycombinator.com/item?id=41195652) - [Ask HN: How did you learn Regex?](https://news.ycombinator.com/item?id=41195652)
 * [2024-08-08, 20:00:20](https://news.ycombinator.com/item?id=41195584) - [Apple Is America's Semiconductor Problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
 * [2024-08-08, 19:39:29](https://news.ycombinator.com/item?id=41195375) - [New doctoral thesis proposes Buckminster Fuller was a 'charlatan'](https://research.aalto.fi/en/publications/genius-or-charlatanry-a-psychobiographical-reinterpretation-of-th)

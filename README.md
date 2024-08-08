@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-08, 20:44:28](https://news.ycombinator.com/item?id=41196053) - [Zero calorie sweetener linked to blood clots and heart disease, study finds](https://www.cnn.com/2024/08/08/health/erythritol-blood-clotting-wellness/index.html)
+* [2024-08-08, 20:21:45](https://news.ycombinator.com/item?id=41195791) - [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
+* [2024-08-08, 20:11:48](https://news.ycombinator.com/item?id=41195681) - [Over 90% of US Population Growth Since 2020 Came from Hispanics](https://www.bloomberg.com/news/articles/2024-08-07/over-90-of-us-population-growth-since-2020-came-from-hispanics)
 * [2024-08-08, 20:00:20](https://news.ycombinator.com/item?id=41195584) - [Apple is America's semiconductor problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
 * [2024-08-08, 19:23:36](https://news.ycombinator.com/item?id=41195225) - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-08, 19:11:49](https://news.ycombinator.com/item?id=41195124) - [Intel's Immiseration](https://thechipletter.substack.com/p/intels-immiseration)
@@ -8,9 +10,7 @@
 * [2024-08-08, 18:23:57](https://news.ycombinator.com/item?id=41194673) - [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
 * [2024-08-08, 18:02:12](https://news.ycombinator.com/item?id=41194431) - [Do Quests, Not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
 * [2024-08-08, 17:24:40](https://news.ycombinator.com/item?id=41194024) - [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
-* [2024-08-08, 16:13:05](https://news.ycombinator.com/item?id=41193112) - [Show HN: RoundtableJS – Open-source programmatic survey library](https://github.com/roundtableAI/roundtable-js)
 * [2024-08-08, 16:07:54](https://news.ycombinator.com/item?id=41193045) - [How we migrated onto K8s in less than 12 months](https://www.figma.com/blog/migrating-onto-kubernetes/)
-* [2024-08-08, 15:38:43](https://news.ycombinator.com/item?id=41192698) - [Duperemove – Tools for deduping file systems](https://github.com/markfasheh/duperemove)
 * [2024-08-08, 15:34:28](https://news.ycombinator.com/item?id=41192643) - [Engineering the First Fitbit: The Inside Story](https://spectrum.ieee.org/fitbit)
 * [2024-08-08, 14:49:27](https://news.ycombinator.com/item?id=41192147) - [Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
 * [2024-08-08, 14:46:48](https://news.ycombinator.com/item?id=41192118) - [Firefox Sidebar and Vertical tabs: try them out](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
