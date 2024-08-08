@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 19:39:29](https://news.ycombinator.com/item?id=41195375) - [New doctoral thesis proposes Buckminster Fuller was a 'charlatan'](https://research.aalto.fi/en/publications/genius-or-charlatanry-a-psychobiographical-reinterpretation-of-th)
 * [2024-08-08, 19:29:48](https://news.ycombinator.com/item?id=41195271) - [Show HN: The First Non-Smart AI Pendant (NotFriend)](https://notfriend.org/)
+* [2024-08-08, 19:23:36](https://news.ycombinator.com/item?id=41195225) - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-08, 19:11:49](https://news.ycombinator.com/item?id=41195124) - [Intel's Immiseration – The Chip Letter](https://thechipletter.substack.com/p/intels-immiseration)
 * [2024-08-08, 18:39:51](https://news.ycombinator.com/item?id=41194806) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2024-08-08, 18:34:25](https://news.ycombinator.com/item?id=41194750) - [Molecule restores cognition, memory in Alzheimer's disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
