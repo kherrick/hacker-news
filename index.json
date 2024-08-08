@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-08, 16:43:54",
-      "https://news.ycombinator.com/item?id=41193507"
+      "2024-08-08, 16:17:39",
+      "https://news.ycombinator.com/item?id=41193157"
     ],
     [
-      "Dairy Queen's Soft Serve Isn't What You Think It Is",
-      "https://www.thetakeout.com/1630132/dairy-queen-not-ice-cream/"
+      "Home security giant ADT says it was hacked",
+      "https://techcrunch.com/2024/08/08/home-security-giant-adt-says-it-was-hacked/"
     ]
   ],
   [
@@ -21,42 +21,12 @@
   ],
   [
     [
-      "2024-08-08, 16:02:18",
-      "https://news.ycombinator.com/item?id=41192959"
+      "2024-08-08, 15:27:46",
+      "https://news.ycombinator.com/item?id=41192566"
     ],
     [
-      "Paper Straws Are Often Touted as Alternative to Plastic, but They're Toxic",
-      "https://www.xatakaon.com/health/paper-straws-are-often-touted-as-a-great-alternative-to-plastic-but-theres-a-small-problem-theyre-toxic"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 15:09:21",
-      "https://news.ycombinator.com/item?id=41192341"
-    ],
-    [
-      "Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now",
-      "https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 15:05:18",
-      "https://news.ycombinator.com/item?id=41192303"
-    ],
-    [
-      "Cosmic: A New Desktop Environment",
-      "https://system76.com/cosmic"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 15:02:16",
-      "https://news.ycombinator.com/item?id=41192269"
-    ],
-    [
-      "Raspberry Pi Pico 2",
-      "https://www.raspberrypi.com/products/raspberry-pi-pico-2/"
+      "Show HN: We Open Sourced Our GitOps Template for ArgoCD",
+      "https://github.com/glasskube/gitops-template"
     ]
   ],
   [
@@ -85,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41192118"
     ],
     [
-      "Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131",
+      "Firefox Sidebar and Vertical tabs: try them out",
       "https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/"
     ]
   ],
@@ -131,16 +101,6 @@
   ],
   [
     [
-      "2024-08-08, 10:10:22",
-      "https://news.ycombinator.com/item?id=41189834"
-    ],
-    [
-      "More and more German trains are not allowed to enter Switzerland",
-      "https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 09:35:46",
       "https://news.ycombinator.com/item?id=41189637"
     ],
@@ -161,6 +121,16 @@
   ],
   [
     [
+      "2024-08-08, 06:22:18",
+      "https://news.ycombinator.com/item?id=41188647"
+    ],
+    [
+      "RLHF is just barely RL",
+      "https://twitter.com/karpathy/status/1821277264996352246"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 00:18:19",
       "https://news.ycombinator.com/item?id=41186862"
     ],
@@ -177,6 +147,26 @@
     [
       "Review – Ford's First Engine",
       "https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 22:45:00",
+      "https://news.ycombinator.com/item?id=41186310"
+    ],
+    [
+      "Argdown, like Markdown for argument mapping",
+      "https://argdown.org/"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 22:11:33",
+      "https://news.ycombinator.com/item?id=41186117"
+    ],
+    [
+      "In ‘The Book Against Death,’ Elias Canetti rants against mortality",
+      "https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "ICPP – Running C++ in anywhere like a script",
       "https://github.com/vpand/icpp"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 09:34:43",
+      "https://news.ycombinator.com/item?id=41145573"
+    ],
+    [
+      "Linear Algebra Done Wrong",
+      "https://www.math.brown.edu/streil/papers/LADW/LADW.html"
     ]
   ]
 ]
