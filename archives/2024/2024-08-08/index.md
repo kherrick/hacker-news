@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 11:32:17](https://news.ycombinator.com/item?id=41190354) - [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
+* [2024-08-08, 11:11:35](https://news.ycombinator.com/item?id=41190180) - [Tsunami Alert Issued for Japan](https://tsunami.gov/events/PHEB/2024/08/08/24221000/2/WEPA40//WEPA40.txt)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-08, 10:34:30](https://news.ycombinator.com/item?id=41189946) - [The News Is Information Junk Food (2022)](https://chuck.is/news/)
 * [2024-08-08, 10:10:22](https://news.ycombinator.com/item?id=41189834) - [More and more German trains are not allowed to enter Switzerland](https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html)
 * [2024-08-08, 09:46:59](https://news.ycombinator.com/item?id=41189707) - [The post-neoliberalism moment](https://reason.com/2024/01/07/the-post-neoliberalism-moment/)
+* [2024-08-08, 09:41:59](https://news.ycombinator.com/item?id=41189678) - [Digital Tools I Wish Existed (2019)](https://jon.bo/posts/digital-tools/)
 * [2024-08-08, 09:40:20](https://news.ycombinator.com/item?id=41189669) - [Reading the source code of Zig [video]](https://www.youtube.com/watch?v=BgZ0EMXjnVc)
 * [2024-08-08, 09:08:46](https://news.ycombinator.com/item?id=41189494) - [Open Source AWS SDK Code Examples: Your Go-To Resource for Cloud Development](https://github.com/awsdocs/aws-doc-sdk-examples)
 * [2024-08-08, 07:40:20](https://news.ycombinator.com/item?id=41189056) - [Show HN: I built interactive map of active and decommissioned nuclear stations](https://nuclearstations.com/map)
