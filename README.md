@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-08, 02:38:57](https://news.ycombinator.com/item?id=41187606) - [Django 5.1 Released](https://www.djangoproject.com/weblog/2024/aug/07/django-51-released/)
-* [2024-08-08, 02:36:31](https://news.ycombinator.com/item?id=41187596) - [Children today are suffering a deficit of play](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
+* [2024-08-08, 02:36:31](https://news.ycombinator.com/item?id=41187596) - [The play deficit (2013)](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
 * [2024-08-08, 01:56:46](https://news.ycombinator.com/item?id=41187395) - [Mineshaft Gap – A real-time strategy game for the C64 by Drmortalwombat](https://www.indieretronews.com/2024/08/mineshaft-gap-real-time-strategy-game.html)
 * [2024-08-07, 23:05:46](https://news.ycombinator.com/item?id=41186415) - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 22:45:00](https://news.ycombinator.com/item?id=41186310) - [Argdown, like Markdown for argument mapping](https://argdown.org/)
@@ -30,6 +29,7 @@
 * [2024-08-05, 17:01:48](https://news.ycombinator.com/item?id=41163141) - [Quantum Physicists Found a New, Safer Way to Navigate](https://www.wired.com/story/quantum-physicists-found-a-new-safer-way-to-navigate/)
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 * [2024-08-03, 18:42:55](https://news.ycombinator.com/item?id=41148379) - [Setting expectations for open source participation (2018)](https://snarky.ca/setting-expectations-for-open-source-participation/)
+* [2024-08-03, 07:30:41](https://news.ycombinator.com/item?id=41145204) - [Ancient Stars (and a Thought on SETI)](https://www.centauri-dreams.org/2024/08/02/on-ancient-stars-and-a-thought-on-seti/)
 
 ## [Archives](archives/index.md)
 

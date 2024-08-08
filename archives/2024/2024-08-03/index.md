@@ -77,6 +77,7 @@
 * [2024-08-03, 09:03:58](https://news.ycombinator.com/item?id=41145478) - [Hacked Tesla FSD computers disclose alarming raw data on deadly accidents](https://www.notebookcheck.net/Hacked-Tesla-FSD-computers-disclose-alarming-raw-data-on-deadly-Autopilot-accidents.869354.0.html)
 * [2024-08-03, 08:30:37](https://news.ycombinator.com/item?id=41145388) - [AiOla open-sources ultra-fast 'multi-head' speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 * [2024-08-03, 08:06:14](https://news.ycombinator.com/item?id=41145314) - [Why America fell behind in drones, and how to catch up agaon](https://www.noahpinion.blog/p/why-america-fell-behind-in-drones)
+* [2024-08-03, 07:30:41](https://news.ycombinator.com/item?id=41145204) - [Ancient Stars (and a Thought on SETI)](https://www.centauri-dreams.org/2024/08/02/on-ancient-stars-and-a-thought-on-seti/)
 * [2024-08-03, 06:26:31](https://news.ycombinator.com/item?id=41145002) - [Building a 10BASE5 Thick Ethernet Network (2012)](https://www.mattmillman.com/projects/10base5/)
 * [2024-08-03, 05:50:10](https://news.ycombinator.com/item?id=41144909) - [Emotional about X11: I'm creating a pure X11 \"emoji keyboard\"](https://github.com/Zirias/xmoji)
 * [2024-08-03, 05:29:57](https://news.ycombinator.com/item?id=41144843) - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
