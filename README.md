@@ -23,7 +23,7 @@
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
 * [2024-08-07, 21:47:52](https://news.ycombinator.com/item?id=41185937) - [Thoughts on Canonical S-Expressions (2019)](https://write.emacsen.net/thoughts-on-canonical-s-expressions)
 * [2024-08-07, 16:26:34](https://news.ycombinator.com/item?id=41182917) - [Maximal min() and max()](https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/)
-* [2024-08-06, 08:23:01](https://news.ycombinator.com/item?id=41168814) - [Scheduling Model in LLVM – Part I](https://myhsu.xyz/llvm-sched-model-1/)
+* [2024-08-06, 15:58:21](https://news.ycombinator.com/item?id=41172125) - [Show HN: Spawn – Build iOS Apps with English](https://spawnapp.com/)
 * [2024-08-06, 06:35:10](https://news.ycombinator.com/item?id=41168344) - [The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 * [2024-08-05, 23:23:17](https://news.ycombinator.com/item?id=41166512) - [Eyechat](https://neal.fun/eyechat/)
