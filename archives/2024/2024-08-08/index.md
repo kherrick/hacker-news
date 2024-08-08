@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 17:24:40](https://news.ycombinator.com/item?id=41194024) - [LibreCUDA – launch CUDA code on Nvidia GPUs without the proprietary CUDA runtime](https://github.com/mikex86/LibreCuda)
 * [2024-08-08, 17:21:02](https://news.ycombinator.com/item?id=41193968) - [Employers used return-to-office to make workers quit](https://thehill.com/opinion/technology/4800828-office-mandates-cause-attrition/)
 * [2024-08-08, 17:12:35](https://news.ycombinator.com/item?id=41193859) - [GPT-4o System Card](https://openai.com/index/gpt-4o-system-card/)
 * [2024-08-08, 16:45:37](https://news.ycombinator.com/item?id=41193531) - [There's a Surprisingly Easy Way to Remove Microplastics from Your Drinking Water](https://www.sciencealert.com/theres-a-surprisingly-easy-way-to-remove-microplastics-from-your-drinking-water)
