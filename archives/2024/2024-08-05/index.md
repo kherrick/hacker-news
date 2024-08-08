@@ -51,6 +51,7 @@
 * [2024-08-05, 15:42:21](https://news.ycombinator.com/item?id=41162397) - [KCL, a constraint-based functional language for configuration](https://www.kcl-lang.io/)
 * [2024-08-05, 15:33:36](https://news.ycombinator.com/item?id=41162312) - ['Quantum Drama' Review: Entangled in Physics](https://www.wsj.com/arts-culture/books/quantum-drama-review-entangled-in-physics-4e5acf16)
 * [2024-08-05, 15:33:30](https://news.ycombinator.com/item?id=41162311) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
+* [2024-08-05, 15:22:35](https://news.ycombinator.com/item?id=41162216) - [Public Work: a search engine for public domain images](https://public.work)
 * [2024-08-05, 15:07:35](https://news.ycombinator.com/item?id=41162054) - [What do people ask chatbots? It's a lot of sex and homework](https://www.washingtonpost.com/technology/2024/08/04/chatgpt-use-real-ai-chatbot-conversations/)
 * [2024-08-05, 15:05:21](https://news.ycombinator.com/item?id=41162036) - [WebGL visual programming editor cables.gl is now open source](https://cables.gl/standalone)
 * [2024-08-05, 14:57:36](https://news.ycombinator.com/item?id=41161968) - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
