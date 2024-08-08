@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-08-08, 14:49:27",
+      "https://news.ycombinator.com/item?id=41192147"
+    ],
+    [
+      "Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI",
+      "https://careers.activeloop.ai/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 14:09:14",
       "https://news.ycombinator.com/item?id=41191720"
     ],
     [
       "Jepsen: Jetcd 0.8.2",
       "https://jepsen.io/analyses/jetcd-0.8.2"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 13:14:07",
-      "https://news.ycombinator.com/item?id=41191149"
-    ],
-    [
-      "Instagram Saved 90% of Computing Power and Improved Video Quality",
-      "https://newsletter.betterstack.com/p/how-instagram-saved-90-of-computing"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "How we found and fixed an eBPF Linux Kernel Vulnerability",
       "https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 10:10:22",
+      "https://news.ycombinator.com/item?id=41189834"
+    ],
+    [
+      "More and more German trains are not allowed to enter Switzerland",
+      "https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html"
     ]
   ],
   [
@@ -87,6 +97,16 @@
     [
       "Mouse Pong: play a game from mouse's firmware with persistence of vision cursor",
       "https://github.com/dupontgu/pov_pong_mouse"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 23:40:14",
+      "https://news.ycombinator.com/item?id=41186631"
+    ],
+    [
+      "Review – Ford's First Engine",
+      "https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-08-07, 11:56:02",
-      "https://news.ycombinator.com/item?id=41180441"
-    ],
-    [
-      "Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams",
-      "https://www.budgetflow.cc/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 23:07:07",
       "https://news.ycombinator.com/item?id=41176461"
     ],
@@ -267,16 +277,6 @@
     [
       "Quantum Physicists Found a New, Safer Way to Navigate",
       "https://www.wired.com/story/quantum-physicists-found-a-new-safer-way-to-navigate/"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 03:15:44",
-      "https://news.ycombinator.com/item?id=41157876"
-    ],
-    [
-      "I turned an old phone into a NAS",
-      "https://www.xda-developers.com/how-turned-old-phone-nas/"
     ]
   ],
   [
