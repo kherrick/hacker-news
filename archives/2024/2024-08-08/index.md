@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 20:19:48](https://news.ycombinator.com/item?id=41195765) - [Gemini 1.5 Flash price is now ~70% lower ($0.075 / 1M)](https://twitter.com/OfficialLoganK/status/1821601298195878323)
 * [2024-08-08, 20:08:43](https://news.ycombinator.com/item?id=41195652) - [Ask HN: How did you learn Regex?](https://news.ycombinator.com/item?id=41195652)
 * [2024-08-08, 20:00:20](https://news.ycombinator.com/item?id=41195584) - [Apple Is America's Semiconductor Problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
 * [2024-08-08, 19:39:29](https://news.ycombinator.com/item?id=41195375) - [New doctoral thesis proposes Buckminster Fuller was a 'charlatan'](https://research.aalto.fi/en/publications/genius-or-charlatanry-a-psychobiographical-reinterpretation-of-th)
