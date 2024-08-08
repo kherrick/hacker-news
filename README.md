@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-08, 05:08:00](https://news.ycombinator.com/item?id=41188292) - [ISS astronauts on eight-day mission may be stuck until 2025, NASA says](https://www.theguardian.com/science/article/2024/aug/07/spacex-delay-international-space-station-boeing-nasa)
+* [2024-08-08, 04:35:40](https://news.ycombinator.com/item?id=41188155) - [What I Saw in the Darién Gap](https://www.theatlantic.com/magazine/archive/2024/09/darien-gap-route-migrants-panama/679156/)
 * [2024-08-08, 04:07:50](https://news.ycombinator.com/item?id=41188010) - [Microsoft says Delta's ancient IT explains long outage after CrowdStrike snafu](https://arstechnica.com/tech-policy/2024/08/microsoft-says-deltas-ancient-it-explains-long-outage-after-crowdstrike-snafu/)
 * [2024-08-08, 02:36:31](https://news.ycombinator.com/item?id=41187596) - [The play deficit (2013)](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
 * [2024-08-07, 23:05:46](https://news.ycombinator.com/item?id=41186415) - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
@@ -22,14 +24,12 @@
 * [2024-08-07, 14:50:11](https://news.ycombinator.com/item?id=41182055) - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 * [2024-08-07, 11:56:02](https://news.ycombinator.com/item?id=41180441) - [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
-* [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [How Uber tests payments in production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-06, 23:07:07](https://news.ycombinator.com/item?id=41176461) - [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
 * [2024-08-06, 20:19:58](https://news.ycombinator.com/item?id=41174890) - [Blackhouses of Scotland](https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html)
 * [2024-08-06, 17:37:51](https://news.ycombinator.com/item?id=41173177) - [East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
 * [2024-08-05, 17:01:48](https://news.ycombinator.com/item?id=41163141) - [Quantum Physicists Found a New, Safer Way to Navigate](https://www.wired.com/story/quantum-physicists-found-a-new-safer-way-to-navigate/)
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 * [2024-08-03, 18:42:55](https://news.ycombinator.com/item?id=41148379) - [Setting expectations for open source participation (2018)](https://snarky.ca/setting-expectations-for-open-source-participation/)
-* [2024-08-03, 07:30:41](https://news.ycombinator.com/item?id=41145204) - [Ancient Stars (and a Thought on SETI)](https://www.centauri-dreams.org/2024/08/02/on-ancient-stars-and-a-thought-on-seti/)
 
 ## [Archives](archives/index.md)
 
