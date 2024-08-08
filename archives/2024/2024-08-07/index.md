@@ -6,6 +6,7 @@
 
 * [2024-08-07, 23:45:57](https://news.ycombinator.com/item?id=41186675) - [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
 * [2024-08-07, 23:44:38](https://news.ycombinator.com/item?id=41186665) - [Costco membership scanners coming to clubs in sharing crackdown](https://www.axios.com/2024/08/07/costco-membership-scanners-card-sharing-crackdown)
+* [2024-08-07, 23:40:14](https://news.ycombinator.com/item?id=41186631) - [Review – Ford's First Engine](https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine)
 * [2024-08-07, 23:08:12](https://news.ycombinator.com/item?id=41186432) - [Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity](https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents)
 * [2024-08-07, 23:05:46](https://news.ycombinator.com/item?id=41186415) - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 22:45:00](https://news.ycombinator.com/item?id=41186310) - [Argdown, like Markdown for argument mapping](https://argdown.org/)
