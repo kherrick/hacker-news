@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
 * [2024-08-08, 16:43:54](https://news.ycombinator.com/item?id=41193507) - [Dairy Queen's Soft Serve Isn't What You Think It Is](https://www.thetakeout.com/1630132/dairy-queen-not-ice-cream/)
+* [2024-08-08, 16:17:39](https://news.ycombinator.com/item?id=41193157) - [Home security giant ADT says it was hacked](https://techcrunch.com/2024/08/08/home-security-giant-adt-says-it-was-hacked/)
 * [2024-08-08, 16:13:05](https://news.ycombinator.com/item?id=41193112) - [Show HN: RoundtableJS – Open-source programmatic survey library](https://github.com/roundtableAI/roundtable-js)
 * [2024-08-08, 16:02:18](https://news.ycombinator.com/item?id=41192959) - [Paper Straws Are Often Touted as Alternative to Plastic, but They're Toxic](https://www.xatakaon.com/health/paper-straws-are-often-touted-as-a-great-alternative-to-plastic-but-theres-a-small-problem-theyre-toxic)
+* [2024-08-08, 15:27:46](https://news.ycombinator.com/item?id=41192566) - [Show HN: We Open Sourced Our GitOps Template for ArgoCD](https://github.com/glasskube/gitops-template)
 * [2024-08-08, 15:09:21](https://news.ycombinator.com/item?id=41192341) - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
 * [2024-08-08, 15:05:18](https://news.ycombinator.com/item?id=41192303) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 * [2024-08-08, 15:02:16](https://news.ycombinator.com/item?id=41192269) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)

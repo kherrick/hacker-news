@@ -74,6 +74,7 @@
 * [2024-08-03, 10:34:22](https://news.ycombinator.com/item?id=41145779) - [Full Introduction to Golang with Test-Driven Development](https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/)
 * [2024-08-03, 10:21:35](https://news.ycombinator.com/item?id=41145732) - [Delivery worker minimum wage is bringing order to a wild industry](https://nyc.streetsblog.org/2024/07/15/delivery-worker-minimum-wage-brings-order-to-industry-data-shows)
 * [2024-08-03, 09:42:00](https://news.ycombinator.com/item?id=41145607) - [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
+* [2024-08-03, 09:34:43](https://news.ycombinator.com/item?id=41145573) - [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
 * [2024-08-03, 09:21:36](https://news.ycombinator.com/item?id=41145528) - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
 * [2024-08-03, 09:18:36](https://news.ycombinator.com/item?id=41145517) - [GitHub Profile Roast](https://github-roast.pages.dev/)
 * [2024-08-03, 09:03:58](https://news.ycombinator.com/item?id=41145478) - [Hacked Tesla FSD computers disclose alarming raw data on deadly accidents](https://www.notebookcheck.net/Hacked-Tesla-FSD-computers-disclose-alarming-raw-data-on-deadly-Autopilot-accidents.869354.0.html)
