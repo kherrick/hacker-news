@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-08, 05:08:00](https://news.ycombinator.com/item?id=41188292) - [ISS astronauts on eight-day mission may be stuck until 2025, NASA says](https://www.theguardian.com/science/article/2024/aug/07/spacex-delay-international-space-station-boeing-nasa)
 * [2024-08-08, 04:35:40](https://news.ycombinator.com/item?id=41188155) - [What I Saw in the Darién Gap](https://www.theatlantic.com/magazine/archive/2024/09/darien-gap-route-migrants-panama/679156/)
 * [2024-08-08, 04:07:50](https://news.ycombinator.com/item?id=41188010) - [Microsoft says Delta's ancient IT explains long outage after CrowdStrike snafu](https://arstechnica.com/tech-policy/2024/08/microsoft-says-deltas-ancient-it-explains-long-outage-after-crowdstrike-snafu/)
 * [2024-08-08, 02:36:31](https://news.ycombinator.com/item?id=41187596) - [The play deficit (2013)](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
@@ -12,6 +11,7 @@
 * [2024-08-07, 21:30:36](https://news.ycombinator.com/item?id=41185783) - [GPT-4 LLM simulates people well enough to replicate social science experiments](https://www.treatmenteffect.app/)
 * [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
+* [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
 * [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-07, 18:46:03](https://news.ycombinator.com/item?id=41184114) - [A Texas DNA Lab Cracked the 1995 Murder of Catherine Edwards](https://www.texasmonthly.com/news-politics/othram-forensic-genetic-genealogy-catherine-edwards-murder/)
 * [2024-08-07, 18:08:24](https://news.ycombinator.com/item?id=41183808) - [What are the Olympics shooting competitors wearing on their faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)
