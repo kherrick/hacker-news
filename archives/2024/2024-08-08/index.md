@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 20:08:43](https://news.ycombinator.com/item?id=41195652) - [Ask HN: How did you learn Regex?](https://news.ycombinator.com/item?id=41195652)
+* [2024-08-08, 20:00:20](https://news.ycombinator.com/item?id=41195584) - [Apple Is America's Semiconductor Problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
 * [2024-08-08, 19:39:29](https://news.ycombinator.com/item?id=41195375) - [New doctoral thesis proposes Buckminster Fuller was a 'charlatan'](https://research.aalto.fi/en/publications/genius-or-charlatanry-a-psychobiographical-reinterpretation-of-th)
 * [2024-08-08, 19:29:48](https://news.ycombinator.com/item?id=41195271) - [Show HN: The First Non-Smart AI Pendant (NotFriend)](https://notfriend.org/)
 * [2024-08-08, 19:23:36](https://news.ycombinator.com/item?id=41195225) - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
