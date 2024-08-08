@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-08, 13:29:03",
-      "https://news.ycombinator.com/item?id=41191263"
-    ],
-    [
-      "Collaborating with Markdown files is painful",
-      "https://opral.substack.com/p/collaborative-markdown-with-lix-change"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 10:39:06",
       "https://news.ycombinator.com/item?id=41189971"
     ],
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2024-08-07, 21:39:24",
+      "https://news.ycombinator.com/item?id=41185859"
+    ],
+    [
+      "Gazette: Cloud-native millisecond-latency streaming",
+      "https://github.com/gazette"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 21:30:36",
       "https://news.ycombinator.com/item?id=41185783"
     ],
@@ -147,6 +147,16 @@
     [
       "NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025",
       "https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 18:08:24",
+      "https://news.ycombinator.com/item?id=41183808"
+    ],
+    [
+      "What are the Olympics shooting competitors wearing on their faces?",
+      "https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "RAM Test ROM for IBM PC/XT and Clones",
       "https://github.com/ki3v/xtramtest"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 15:53:54",
-      "https://news.ycombinator.com/item?id=41147304"
-    ],
-    [
-      "Pascal65 beta – an IDE and Pascal compiler that run directly on the MEGA 65",
-      "https://pascal65.org/blog/pascal65-first-beta-release"
     ]
   ]
 ]
