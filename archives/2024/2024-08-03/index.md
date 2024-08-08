@@ -21,6 +21,7 @@
 * [2024-08-03, 21:08:39](https://news.ycombinator.com/item?id=41149275) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
 * [2024-08-03, 20:58:06](https://news.ycombinator.com/item?id=41149220) - [Intel is a Victim of its Own Arrogance](https://innovationnation.blog/p/intel-is-a-victim-of-its-own-arrogance)
 * [2024-08-03, 20:39:36](https://news.ycombinator.com/item?id=41149088) - [Migration from loot boxes to gambling in a longitudinal study of young adults [pdf]](https://gamblingresearch.sites.olt.ubc.ca/files/2023/03/BrooksClark_LootBoxMigration_PostprintDec2022.pdf)
+* [2024-08-03, 20:27:14](https://news.ycombinator.com/item?id=41149014) - [RAM Test ROM for IBM PC/XT and Clones](https://github.com/ki3v/xtramtest)
 * [2024-08-03, 20:06:27](https://news.ycombinator.com/item?id=41148889) - [How WASD became the standard PC control scheme](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/)
 * [2024-08-03, 19:44:09](https://news.ycombinator.com/item?id=41148754) - [DARPA suggests turning old C code automatically into Rust – using AI, of course](https://www.theregister.com/2024/08/03/darpa_c_to_rust/)
 * [2024-08-03, 19:25:58](https://news.ycombinator.com/item?id=41148650) - [Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)

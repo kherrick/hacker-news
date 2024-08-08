@@ -16,7 +16,6 @@
 * [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
 * [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-07, 18:08:24](https://news.ycombinator.com/item?id=41183808) - [What are the Olympics shooting competitors wearing on their faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)
-* [2024-08-07, 17:02:00](https://news.ycombinator.com/item?id=41183240) - [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
 * [2024-08-07, 16:48:42](https://news.ycombinator.com/item?id=41183115) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 16:19:06](https://news.ycombinator.com/item?id=41182847) - [Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 * [2024-08-07, 14:56:51](https://news.ycombinator.com/item?id=41182101) - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
@@ -30,6 +29,7 @@
 * [2024-08-05, 17:01:48](https://news.ycombinator.com/item?id=41163141) - [Quantum Physicists Found a New, Safer Way to Navigate](https://www.wired.com/story/quantum-physicists-found-a-new-safer-way-to-navigate/)
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 * [2024-08-05, 02:21:45](https://news.ycombinator.com/item?id=41157652) - [Tetris for Sharp Electronic Notebook (1989)](https://blog.gingerbeardman.com/2024/08/04/tetris-for-sharp-electronic-notebook-1989/)
+* [2024-08-03, 20:27:14](https://news.ycombinator.com/item?id=41149014) - [RAM Test ROM for IBM PC/XT and Clones](https://github.com/ki3v/xtramtest)
 
 ## [Archives](archives/index.md)
 
