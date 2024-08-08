@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 14:09:14](https://news.ycombinator.com/item?id=41191720) - [Jepsen: Jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
+* [2024-08-08, 14:06:12](https://news.ycombinator.com/item?id=41191689) - [CrowdStrike releases root cause analysis of the global Microsoft breakdown](https://www.abc.net.au/news/2024-08-07/drt-crowdstrike-root-cause-analysis/104193866)
 * [2024-08-08, 13:44:02](https://news.ycombinator.com/item?id=41191426) - [After private equity takes over hospitals, they are less adept of providing care](https://www.nbcnews.com/investigations/private-equity-takes-over-hospitals-less-able-care-patients-jama-rcna164497)
 * [2024-08-08, 13:29:03](https://news.ycombinator.com/item?id=41191263) - [Collaborating with Markdown files is painful](https://opral.substack.com/p/collaborative-markdown-with-lix-change)
 * [2024-08-08, 11:32:17](https://news.ycombinator.com/item?id=41190354) - [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
 * [2024-08-08, 11:11:35](https://news.ycombinator.com/item?id=41190180) - [Tsunami Alert Issued for Japan](https://tsunami.gov/events/PHEB/2024/08/08/24221000/2/WEPA40//WEPA40.txt)
+* [2024-08-08, 11:00:58](https://news.ycombinator.com/item?id=41190101) - [All the possible ways to destroy Google's monopoly in search](https://arstechnica.com/tech-policy/2024/08/all-the-possible-ways-to-destroy-googles-monopoly-in-search/)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-08, 10:34:30](https://news.ycombinator.com/item?id=41189946) - [The News Is Information Junk Food (2022)](https://chuck.is/news/)
 * [2024-08-08, 10:10:22](https://news.ycombinator.com/item?id=41189834) - [More and more German trains are not allowed to enter Switzerland](https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html)
