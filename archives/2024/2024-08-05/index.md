@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 23:23:17](https://news.ycombinator.com/item?id=41166512) - [Eyechat](https://neal.fun/eyechat/)
 * [2024-08-05, 23:05:09](https://news.ycombinator.com/item?id=41166437) - [X to shut down SF office in 'next few weeks,' according to report](https://www.kron4.com/news/bay-area/x-to-shut-down-sf-office-in-next-few-weeks-according-to-report/)
 * [2024-08-05, 22:58:06](https://news.ycombinator.com/item?id=41166392) - [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
 * [2024-08-05, 22:02:24](https://news.ycombinator.com/item?id=41166036) - [The Saucer – A DIY trackpad attachment for the Voyager](https://blog.zsa.io/diy-voyager-trackpad-saucer/)
