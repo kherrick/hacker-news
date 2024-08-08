@@ -27,3 +27,4 @@
 * [2024-08-08, 01:10:07](https://news.ycombinator.com/item?id=41187122) - [Mozilla wants you to love Firefox again](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again)
 * [2024-08-08, 00:52:38](https://news.ycombinator.com/item?id=41187036) - [Bun v1.1.22 – Bun Blog](https://bun.sh/blog/bun-v1.1.22)
 * [2024-08-08, 00:46:33](https://news.ycombinator.com/item?id=41187011) - [CrowdStrike's outage should not have happened](https://ebellani.github.io/blog/2024/analyzing-crowdstrike-s-root-cause-analysis-or-on-missing-the-point-about-quality/)
+* [2024-08-08, 00:18:19](https://news.ycombinator.com/item?id=41186862) - [Mouse Pong: play a game from mouse's firmware with persistence of vision cursor](https://github.com/dupontgu/pov_pong_mouse)
