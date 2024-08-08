@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 21:33:53](https://news.ycombinator.com/item?id=41196554) - [National Park Service Will Cite AWD Drivers for Driving on 4WD-Only Trails](https://jalopnik.com/national-park-service-will-cite-drivers-of-awd-cars-for-1851617315)
 * [2024-08-08, 20:44:28](https://news.ycombinator.com/item?id=41196053) - [Zero calorie sweetener linked to blood clots and heart disease, study finds](https://www.cnn.com/2024/08/08/health/erythritol-blood-clotting-wellness/index.html)
 * [2024-08-08, 20:40:21](https://news.ycombinator.com/item?id=41195988) - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
