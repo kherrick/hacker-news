@@ -129,19 +129,23 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="41193507">
+        <section id="41193157">
           <h3>
             <a
               class="item"
-              href="https://www.thetakeout.com/1630132/dairy-queen-not-ice-cream/"
-              >Dairy Queen's Soft Serve Isn't What You Think It Is</a
+              href="https://techcrunch.com/2024/08/08/home-security-giant-adt-says-it-was-hacked/"
+              >Home security giant ADT says it was hacked</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-08 @ 16:43:54</span
+              <span>2024-08-08 @ 16:17:39</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41193157"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -157,7 +161,7 @@
             <h4>
               <span>2024-08-08 @ 16:13:05</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41193112"
                   >Comments</a
@@ -239,88 +243,81 @@
             </div>
           </section>
         </section>
-        <section id="41192959">
+        <section id="41192566">
           <h3>
-            <a
-              class="item"
-              href="https://www.xatakaon.com/health/paper-straws-are-often-touted-as-a-great-alternative-to-plastic-but-theres-a-small-problem-theyre-toxic"
-              >Paper Straws Are Often Touted as Alternative to Plastic, but
-              They're Toxic</a
+            <a class="item" href="https://github.com/glasskube/gitops-template"
+              >Show HN: We Open Sourced Our GitOps Template for ArgoCD</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-08 @ 16:02:18</span
+              <span>2024-08-08 @ 15:27:46</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41192959"
+                ><a href="https://news.ycombinator.com/item?id=41192566"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41192341">
-          <h3>
-            <a
-              class="item"
-              href="https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/"
-              >Raspberry Pi Pico 2, our new $5 microcontroller board, on sale
-              now</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-08 @ 15:09:21</span
-              ><span class="points-container"
-                >Points: <span class="points">186</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41192341"
-                  >Comments</a
-                ><span class="descendants">: 68</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41192303">
-          <h3>
-            <a class="item" href="https://system76.com/cosmic"
-              >Cosmic: A New Desktop Environment</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-08 @ 15:05:18</span
-              ><span class="points-container"
-                >Points: <span class="points">186</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41192303"
-                  >Comments</a
-                ><span class="descendants">: 124</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41192269">
-          <h3>
-            <a
-              class="item"
-              href="https://www.raspberrypi.com/products/raspberry-pi-pico-2/"
-              >Raspberry Pi Pico 2</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-08 @ 15:02:16</span
-              ><span class="points-container"
-                >Points: <span class="points">39</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41192269"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
+            <div class="text">
+              <p>
+                Previously it was always a struggle to setup your Kubernetes
+                Cluster with the GitOps approach leading to teams manually
+                deploying manifests and helm charts which results in Kubernetes
+                clusters that are hard to maintain. As of today git is still the
+                most popular solution for managing your Kubernetes Cluster with
+                IaC.
+              </p>
+              <p>
+                The GitOps template uses the ArgoCD's App of Apps model and all
+                packages (including ArgoCD itself) will receive automatic update
+                suggestions via pull requests thanks to the Renovate and
+                Glasskube integration.
+              </p>
+              <p>
+                In order to get started, you just need to create your own
+                repository from our template and bootstrap it with a single
+                command. This will include: - ArgoCD for GitOps -
+                Kube-Prometheus-Stack for Monitoring - Postgres Operator (Cloud
+                Native PG) - Glasskube for package management - Renovate for
+                updates via pull request
+              </p>
+              <p>
+                Additionally, we deployed Shiori (<a
+                  href="https://github.com/go-shiori/shiori"
+                  >https://github.com/go-shiori/shiori</a
+                >) as a simple application that requires a Postgres database.
+                This is meant as an example application you can replace with
+                your application you want to deploy to Kubernetes.
+              </p>
+              <p>
+                I also created a walk-through demo video explaining the setup
+                steps in more detail:
+                <a href="https://www.youtube.com/watch?v=Xbs2Tq-dgbI"
+                  >https://www.youtube.com/watch?v=Xbs2Tq-dgbI</a
+                >
+              </p>
+              <p>
+                Sometimes, you may need to manually refresh the App of Apps
+                inside ArgoCD to ensure that the other apps appear in the
+                cluster.
+              </p>
+              <p>
+                In addition, we will work on the following features in the
+                future: - Support private repositories from the beginning. At
+                the moment the repository needs to be public during
+                bootstrapping. The visibility can be marked as private
+                afterwards. (You will also need to manually configure your
+                personal access token in ArgoCD) - Improve the Renovate
+                integration, so we don’t need the custom regex matcher and can
+                upgrade the glasskube manifest.
+              </p>
+              <p>
+                Feel free to comment what is still missing or what you would do
+                differently?
+              </p>
+            </div>
           </section>
         </section>
         <section id="41192247">
@@ -333,11 +330,11 @@
             <h4>
               <span>2024-08-08 @ 15:00:18</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41192247"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -363,19 +360,18 @@
             <a
               class="item"
               href="https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/"
-              >Firefox Sidebar and Vertical tabs: try them out in Nightly
-              Firefox Labs 131</a
+              >Firefox Sidebar and Vertical tabs: try them out</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-08-08 @ 14:46:48</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41192118"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -390,7 +386,7 @@
             <h4>
               <span>2024-08-08 @ 14:09:14</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41191720"
                   >Comments</a
@@ -411,11 +407,11 @@
             <h4>
               <span>2024-08-08 @ 13:55:09</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41191540"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -432,11 +428,11 @@
             <h4>
               <span>2024-08-08 @ 13:03:22</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41191069"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -457,29 +453,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41189971"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41189834">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html"
-              >More and more German trains are not allowed to enter
-              Switzerland</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-08 @ 10:10:22</span
-              ><span class="points-container"
-                >Points: <span class="points">126</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41189834"
-                  >Comments</a
-                ><span class="descendants">: 214</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -494,11 +468,11 @@
             <h4>
               <span>2024-08-08 @ 09:35:46</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41189637"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -514,11 +488,32 @@
             <h4>
               <span>2024-08-08 @ 07:24:58</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41188966"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41188647">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/karpathy/status/1821277264996352246"
+              >RLHF is just barely RL</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-08 @ 06:22:18</span
+              ><span class="points-container"
+                >Points: <span class="points">327</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41188647"
+                  >Comments</a
+                ><span class="descendants">: 198</span></span
               >
             </h4>
           </section>
@@ -534,7 +529,7 @@
             <h4>
               <span>2024-08-08 @ 00:18:19</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41186862"
                   >Comments</a
@@ -555,11 +550,52 @@
             <h4>
               <span>2024-08-07 @ 23:40:14</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41186631"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41186310">
+          <h3>
+            <a class="item" href="https://argdown.org/"
+              >Argdown, like Markdown for argument mapping</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-07 @ 22:45:00</span
+              ><span class="points-container"
+                >Points: <span class="points">156</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41186310"
+                  >Comments</a
+                ><span class="descendants">: 44</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41186117">
+          <h3>
+            <a
+              class="item"
+              href="https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/"
+              >In ‘The Book Against Death,’ Elias Canetti rants against
+              mortality</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-07 @ 22:11:33</span
+              ><span class="points-container"
+                >Points: <span class="points">111</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41186117"
+                  >Comments</a
+                ><span class="descendants">: 454</span></span
               >
             </h4>
           </section>
@@ -576,11 +612,11 @@
             <h4>
               <span>2024-08-07 @ 19:11:39</span
               ><span class="points-container"
-                >Points: <span class="points">599</span></span
+                >Points: <span class="points">601</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41184365"
                   >Comments</a
-                ><span class="descendants">: 247</span></span
+                ><span class="descendants">: 248</span></span
               >
             </h4>
           </section>
@@ -598,11 +634,11 @@
             <h4>
               <span>2024-08-07 @ 19:10:54</span
               ><span class="points-container"
-                >Points: <span class="points">318</span></span
+                >Points: <span class="points">327</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41184359"
                   >Comments</a
-                ><span class="descendants">: 422</span></span
+                ><span class="descendants">: 433</span></span
               >
             </h4>
           </section>
@@ -617,11 +653,11 @@
             <h4>
               <span>2024-08-07 @ 16:48:42</span
               ><span class="points-container"
-                >Points: <span class="points">657</span></span
+                >Points: <span class="points">661</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41183115"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -638,11 +674,11 @@
             <h4>
               <span>2024-08-07 @ 16:26:34</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41182917"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -659,11 +695,11 @@
             <h4>
               <span>2024-08-07 @ 16:19:06</span
               ><span class="points-container"
-                >Points: <span class="points">602</span></span
+                >Points: <span class="points">603</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41182847"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -702,7 +738,7 @@
             <h4>
               <span>2024-08-06 @ 23:07:07</span
               ><span class="points-container"
-                >Points: <span class="points">688</span></span
+                >Points: <span class="points">689</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41176461"
                   >Comments</a
@@ -721,7 +757,7 @@
             <h4>
               <span>2024-08-06 @ 14:25:45</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41171144"
                   >Comments</a
@@ -823,11 +859,11 @@
             <h4>
               <span>2024-08-06 @ 04:58:59</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41167899"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -845,11 +881,11 @@
             <h4>
               <span>2024-08-06 @ 03:51:51</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41167626"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -866,7 +902,7 @@
             <h4>
               <span>2024-08-05 @ 18:19:57</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41163875"
                   >Comments</a
@@ -889,7 +925,28 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41151013"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41145573">
+          <h3>
+            <a
+              class="item"
+              href="https://www.math.brown.edu/streil/papers/LADW/LADW.html"
+              >Linear Algebra Done Wrong</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-03 @ 09:34:43</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41145573"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
