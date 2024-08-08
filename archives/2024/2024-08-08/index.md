@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 19:29:48](https://news.ycombinator.com/item?id=41195271) - [Show HN: The First Non-Smart AI Pendant (NotFriend)](https://notfriend.org/)
+* [2024-08-08, 19:11:49](https://news.ycombinator.com/item?id=41195124) - [Intel's Immiseration – The Chip Letter](https://thechipletter.substack.com/p/intels-immiseration)
 * [2024-08-08, 18:39:51](https://news.ycombinator.com/item?id=41194806) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2024-08-08, 18:34:25](https://news.ycombinator.com/item?id=41194750) - [Molecule restores cognition, memory in Alzheimer's disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
 * [2024-08-08, 18:23:57](https://news.ycombinator.com/item?id=41194673) - [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)

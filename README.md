@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-08, 19:29:48](https://news.ycombinator.com/item?id=41195271) - [Show HN: The First Non-Smart AI Pendant (NotFriend)](https://notfriend.org/)
+* [2024-08-08, 19:11:49](https://news.ycombinator.com/item?id=41195124) - [Intel's Immiseration – The Chip Letter](https://thechipletter.substack.com/p/intels-immiseration)
 * [2024-08-08, 18:39:51](https://news.ycombinator.com/item?id=41194806) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2024-08-08, 18:34:25](https://news.ycombinator.com/item?id=41194750) - [Molecule restores cognition, memory in Alzheimer's disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
 * [2024-08-08, 18:23:57](https://news.ycombinator.com/item?id=41194673) - [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
@@ -12,10 +14,8 @@
 * [2024-08-08, 15:00:18](https://news.ycombinator.com/item?id=41192247) - [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/)
 * [2024-08-08, 14:49:27](https://news.ycombinator.com/item?id=41192147) - [Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
 * [2024-08-08, 14:46:48](https://news.ycombinator.com/item?id=41192118) - [Firefox Sidebar and Vertical tabs: try them out](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
-* [2024-08-08, 14:09:14](https://news.ycombinator.com/item?id=41191720) - [Jepsen: Jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux kernel vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
-* [2024-08-08, 09:35:46](https://news.ycombinator.com/item?id=41189637) - [Show HN: Orbit – A CSS radial UI composer framework](https://zumerlab.github.io/orbit-docs/)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 00:18:19](https://news.ycombinator.com/item?id=41186862) - [Mouse Pong: play a game from mouse's firmware with persistence of vision cursor](https://github.com/dupontgu/pov_pong_mouse)
 * [2024-08-07, 23:40:14](https://news.ycombinator.com/item?id=41186631) - [Review – Ford's First Engine](https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine)
