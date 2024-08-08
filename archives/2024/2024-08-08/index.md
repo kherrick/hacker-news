@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 09:46:59](https://news.ycombinator.com/item?id=41189707) - [The post-neoliberalism moment](https://reason.com/2024/01/07/the-post-neoliberalism-moment/)
 * [2024-08-08, 07:40:20](https://news.ycombinator.com/item?id=41189056) - [Show HN: I built interactive map of active and decommissioned nuclear stations](https://nuclearstations.com/map)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
