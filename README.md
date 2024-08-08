@@ -2,6 +2,7 @@
 
 * [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-08, 21:48:48](https://news.ycombinator.com/item?id=41196689) - [The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
+* [2024-08-08, 21:47:21](https://news.ycombinator.com/item?id=41196669) - [The Outrageous Rise of Neotoddlerism](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)
 * [2024-08-08, 20:40:21](https://news.ycombinator.com/item?id=41195988) - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
 * [2024-08-08, 20:21:45](https://news.ycombinator.com/item?id=41195791) - [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
 * [2024-08-08, 19:23:36](https://news.ycombinator.com/item?id=41195225) - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
@@ -15,7 +16,6 @@
 * [2024-08-08, 13:55:09](https://news.ycombinator.com/item?id=41191540) - [How long does music stardom last? A statistical analysis](https://www.statsignificant.com/p/how-long-does-music-stardom-last)
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux kernel vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
-* [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 00:18:19](https://news.ycombinator.com/item?id=41186862) - [Mouse Pong: play a game from mouse's firmware with persistence of vision cursor](https://github.com/dupontgu/pov_pong_mouse)
 * [2024-08-07, 23:40:14](https://news.ycombinator.com/item?id=41186631) - [Review – Ford's First Engine](https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine)
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
