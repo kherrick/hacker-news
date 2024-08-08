@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 02:38:57](https://news.ycombinator.com/item?id=41187606) - [Django 5.1 Released](https://www.djangoproject.com/weblog/2024/aug/07/django-51-released/)
 * [2024-08-08, 02:36:31](https://news.ycombinator.com/item?id=41187596) - [Children today are suffering a deficit of play](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
 * [2024-08-08, 02:06:37](https://news.ycombinator.com/item?id=41187445) - [Holodomor](https://en.wikipedia.org/wiki/Holodomor)
 * [2024-08-08, 01:56:46](https://news.ycombinator.com/item?id=41187395) - [Mineshaft Gap – A real-time strategy game for the C64 by Drmortalwombat](https://www.indieretronews.com/2024/08/mineshaft-gap-real-time-strategy-game.html)
