@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-08, 16:02:18](https://news.ycombinator.com/item?id=41192959) - [Paper Straws Are Often Touted as Alternative to Plastic, but They're Toxic](https://www.xatakaon.com/health/paper-straws-are-often-touted-as-a-great-alternative-to-plastic-but-theres-a-small-problem-theyre-toxic)
 * [2024-08-08, 15:09:21](https://news.ycombinator.com/item?id=41192341) - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
 * [2024-08-08, 15:05:18](https://news.ycombinator.com/item?id=41192303) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 * [2024-08-08, 15:02:16](https://news.ycombinator.com/item?id=41192269) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
@@ -28,7 +29,6 @@
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 * [2024-08-06, 03:51:51](https://news.ycombinator.com/item?id=41167626) - [The Story of Samsung's failed deal with iFixit, as told by iFixit's CEO](https://www.androidauthority.com/samsung-ifixit-partnership-story-3456726/)
 * [2024-08-05, 18:19:57](https://news.ycombinator.com/item?id=41163875) - [Ontario's Computer: The Burroughs ICON (2022)](https://jasoneckert.github.io/myblog/icon-computer/)
-* [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
 * [2024-08-04, 03:36:37](https://news.ycombinator.com/item?id=41151013) - [ICPP – Running C++ in anywhere like a script](https://github.com/vpand/icpp)
 
 ## [Archives](archives/index.md)
