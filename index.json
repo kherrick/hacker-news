@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-08, 00:52:38",
+      "https://news.ycombinator.com/item?id=41187036"
+    ],
+    [
+      "Bun v1.1.22 – Bun Blog",
+      "https://bun.sh/blog/bun-v1.1.22"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 00:46:33",
+      "https://news.ycombinator.com/item?id=41187011"
+    ],
+    [
+      "CrowdStrike's outage should not have happened",
+      "https://ebellani.github.io/blog/2024/analyzing-crowdstrike-s-root-cause-analysis-or-on-missing-the-point-about-quality/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 23:45:57",
       "https://news.ycombinator.com/item?id=41186675"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
-      "2024-08-07, 23:08:12",
-      "https://news.ycombinator.com/item?id=41186432"
+      "2024-08-07, 23:44:38",
+      "https://news.ycombinator.com/item?id=41186665"
     ],
     [
-      "Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity",
-      "https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents"
+      "Costco membership scanners coming to clubs in sharing crackdown",
+      "https://www.axios.com/2024/08/07/costco-membership-scanners-card-sharing-crackdown"
     ]
   ],
   [
     [
-      "2024-08-07, 22:26:35",
-      "https://news.ycombinator.com/item?id=41186212"
+      "2024-08-07, 22:45:00",
+      "https://news.ycombinator.com/item?id=41186310"
     ],
     [
-      "Terraforming Mars may be easier than scientists thought",
-      "https://www.science.org/content/article/terraforming-mars-could-be-easier-scientists-thought"
+      "Argdown, like Markdown for argument mapping",
+      "https://argdown.org/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2024-08-07, 21:30:36",
+      "https://news.ycombinator.com/item?id=41185783"
+    ],
+    [
+      "GPT-4 LLM simulates people well enough to replicate social science experiments",
+      "https://www.treatmenteffect.app/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 21:00:39",
       "https://news.ycombinator.com/item?id=41185460"
     ],
@@ -87,6 +117,16 @@
     [
       "Apple memory holed its broken promise for an OCSP opt-out",
       "https://lapcatsoftware.com/articles/2024/8/3.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 18:46:03",
+      "https://news.ycombinator.com/item?id=41184114"
+    ],
+    [
+      "A Texas DNA Lab Cracked the 1995 Murder of Catherine Edwards",
+      "https://www.texasmonthly.com/news-politics/othram-forensic-genetic-genealogy-catherine-edwards-murder/"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2024-08-07, 07:16:02",
-      "https://news.ycombinator.com/item?id=41178959"
-    ],
-    [
-      "How Uber tests payments in production",
-      "https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 23:07:07",
       "https://news.ycombinator.com/item?id=41176461"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2024-08-06, 12:13:21",
-      "https://news.ycombinator.com/item?id=41170111"
-    ],
-    [
-      "Exploiting authorization by nonce in WordPress plugins",
-      "https://nowotarski.info/wordpress-nonce-authorization/"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 03:15:44",
       "https://news.ycombinator.com/item?id=41157876"
     ],
@@ -267,26 +287,6 @@
     [
       "Setting expectations for open source participation (2018)",
       "https://snarky.ca/setting-expectations-for-open-source-participation/"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 16:06:24",
-      "https://news.ycombinator.com/item?id=41147393"
-    ],
-    [
-      "Nxylon: New super-black material made from wood",
-      "https://news.ubc.ca/2024/07/ubc-super-black-wood-nxylon/"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 05:50:10",
-      "https://news.ycombinator.com/item?id=41144909"
-    ],
-    [
-      "Emotional about X11: I'm creating a pure X11 “emoji keyboard”",
-      "https://github.com/Zirias/xmoji"
     ]
   ],
   [
