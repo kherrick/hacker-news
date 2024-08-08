@@ -41,26 +41,6 @@
   ],
   [
     [
-      "2024-08-08, 17:21:02",
-      "https://news.ycombinator.com/item?id=41193968"
-    ],
-    [
-      "Employers used return-to-office to make workers quit",
-      "https://thehill.com/opinion/technology/4800828-office-mandates-cause-attrition/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 16:44:18",
-      "https://news.ycombinator.com/item?id=41193512"
-    ],
-    [
-      "Cloudflare Introduces Automatic SSL/TLS",
-      "https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 16:13:05",
       "https://news.ycombinator.com/item?id=41193112"
     ],
@@ -87,6 +67,16 @@
     [
       "Duperemove – Tools for deduping file systems",
       "https://github.com/markfasheh/duperemove"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 15:34:28",
+      "https://news.ycombinator.com/item?id=41192643"
+    ],
+    [
+      "Engineering the First Fitbit: The Inside Story",
+      "https://spectrum.ieee.org/fitbit"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "How we found and fixed an eBPF Linux kernel vulnerability",
       "https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 09:35:46",
+      "https://news.ycombinator.com/item?id=41189637"
+    ],
+    [
+      "Show HN: Orbit – A CSS radial UI composer framework",
+      "https://zumerlab.github.io/orbit-docs/"
     ]
   ],
   [
