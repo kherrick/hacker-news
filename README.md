@@ -2,6 +2,7 @@
 
 * [2024-08-08, 15:09:21](https://news.ycombinator.com/item?id=41192341) - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
 * [2024-08-08, 15:05:18](https://news.ycombinator.com/item?id=41192303) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
+* [2024-08-08, 15:02:16](https://news.ycombinator.com/item?id=41192269) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 15:00:18](https://news.ycombinator.com/item?id=41192247) - [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/)
 * [2024-08-08, 14:49:27](https://news.ycombinator.com/item?id=41192147) - [Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
 * [2024-08-08, 14:46:48](https://news.ycombinator.com/item?id=41192118) - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
@@ -13,7 +14,6 @@
 * [2024-08-08, 09:35:46](https://news.ycombinator.com/item?id=41189637) - [Show HN: Orbit – A CSS radial UI composer framework](https://zumerlab.github.io/orbit-docs/)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
-* [2024-08-08, 05:08:18](https://news.ycombinator.com/item?id=41188295) - [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
 * [2024-08-08, 00:18:19](https://news.ycombinator.com/item?id=41186862) - [Mouse Pong: play a game from mouse's firmware with persistence of vision cursor](https://github.com/dupontgu/pov_pong_mouse)
 * [2024-08-07, 23:40:14](https://news.ycombinator.com/item?id=41186631) - [Review – Ford's First Engine](https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine)
 * [2024-08-07, 22:45:00](https://news.ycombinator.com/item?id=41186310) - [Argdown, like Markdown for argument mapping](https://argdown.org/)
@@ -27,8 +27,8 @@
 * [2024-08-06, 23:07:07](https://news.ycombinator.com/item?id=41176461) - [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 * [2024-08-06, 03:51:51](https://news.ycombinator.com/item?id=41167626) - [The Story of Samsung's failed deal with iFixit, as told by iFixit's CEO](https://www.androidauthority.com/samsung-ifixit-partnership-story-3456726/)
-* [2024-08-05, 19:07:24](https://news.ycombinator.com/item?id=41164368) - [Casio VZ-1 Algorithms](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/)
 * [2024-08-05, 18:19:57](https://news.ycombinator.com/item?id=41163875) - [Ontario's Computer: The Burroughs ICON (2022)](https://jasoneckert.github.io/myblog/icon-computer/)
+* [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
 * [2024-08-04, 03:36:37](https://news.ycombinator.com/item?id=41151013) - [ICPP – Running C++ in anywhere like a script](https://github.com/vpand/icpp)
 
 ## [Archives](archives/index.md)

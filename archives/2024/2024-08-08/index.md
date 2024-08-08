@@ -6,6 +6,7 @@
 
 * [2024-08-08, 15:09:21](https://news.ycombinator.com/item?id=41192341) - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
 * [2024-08-08, 15:05:18](https://news.ycombinator.com/item?id=41192303) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
+* [2024-08-08, 15:02:16](https://news.ycombinator.com/item?id=41192269) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 15:00:18](https://news.ycombinator.com/item?id=41192247) - [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/)
 * [2024-08-08, 14:49:27](https://news.ycombinator.com/item?id=41192147) - [Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
 * [2024-08-08, 14:46:48](https://news.ycombinator.com/item?id=41192118) - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)

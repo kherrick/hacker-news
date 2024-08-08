@@ -68,6 +68,7 @@
 * [2024-08-05, 14:02:13](https://news.ycombinator.com/item?id=41161455) - [Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-05, 13:59:42](https://news.ycombinator.com/item?id=41161437) - [CrowdStrike to Delta: Stop pointing at us](https://www.wsj.com/business/airlines/crowdstrike-to-delta-stop-pointing-the-finger-at-us-5b2eea6c)
 * [2024-08-05, 13:55:32](https://news.ycombinator.com/item?id=41161413) - [Declaring 'Crisis,' South Korean Firms Tell Managers to Work 6 Days a Week](https://www.nytimes.com/2024/08/05/business/south-korea-labor-workweek.html)
+* [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
 * [2024-08-05, 13:38:31](https://news.ycombinator.com/item?id=41161281) - [Chicago Fed President Goolsbee says if economy deteriorates, Fed will 'fix it'](https://www.cnbc.com/2024/08/05/chicago-fed-president-goolsbee-says-if-economy-deteriorates-fed-will-fix-it.html)
 * [2024-08-05, 13:16:06](https://news.ycombinator.com/item?id=41161098) - [The tragedy of low-level exploitation](https://gynvael.coldwind.pl/?id=791)
 * [2024-08-05, 13:03:07](https://news.ycombinator.com/item?id=41160988) - [Olympic athletes (legally) use banned drugs](https://www.cbc.ca/sports/olympics/therapeutic-use-exemptions-1.3801960)
