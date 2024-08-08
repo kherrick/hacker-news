@@ -25,6 +25,7 @@
 * [2024-08-05, 18:37:19](https://news.ycombinator.com/item?id=41164037) - [World markets shaken over fears of U.S. recession as sell-offs deepen](https://www.cbc.ca/news/business/world-market-united-states-recession-1.7285512)
 * [2024-08-05, 18:31:59](https://news.ycombinator.com/item?id=41163983) - [Every Microsoft employee is now being judged on their security work](https://www.theverge.com/2024/8/5/24213774/microsoft-security-performance-reviews-employees-top-priority)
 * [2024-08-05, 18:26:50](https://news.ycombinator.com/item?id=41163936) - [San Francisco to Ban Rent-Setting Software Amid Gouging Worry](https://www.bloomberg.com/news/articles/2024-07-31/san-francisco-to-ban-software-amid-worry-on-gouging-in-rents)
+* [2024-08-05, 18:19:57](https://news.ycombinator.com/item?id=41163875) - [Ontario's Computer: The Burroughs ICON (2022)](https://jasoneckert.github.io/myblog/icon-computer/)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:50:58](https://news.ycombinator.com/item?id=41163602) - [Undark and the Radium Girls](https://www.damninteresting.com/undark-and-the-radium-girls/)
 * [2024-08-05, 17:47:56](https://news.ycombinator.com/item?id=41163569) - [Markets tremble over risks to US economy – AP News](https://apnews.com/article/stocks-markets-nikkei-economy-c6240977e9482bf7207abc53b2a11e58)
