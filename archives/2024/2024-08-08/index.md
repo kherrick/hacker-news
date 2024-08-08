@@ -12,6 +12,7 @@
 * [2024-08-08, 09:46:59](https://news.ycombinator.com/item?id=41189707) - [The post-neoliberalism moment](https://reason.com/2024/01/07/the-post-neoliberalism-moment/)
 * [2024-08-08, 09:41:59](https://news.ycombinator.com/item?id=41189678) - [Digital Tools I Wish Existed (2019)](https://jon.bo/posts/digital-tools/)
 * [2024-08-08, 09:40:20](https://news.ycombinator.com/item?id=41189669) - [Reading the source code of Zig [video]](https://www.youtube.com/watch?v=BgZ0EMXjnVc)
+* [2024-08-08, 09:35:46](https://news.ycombinator.com/item?id=41189637) - [Show HN: Orbit – A CSS radial UI composer framework](https://zumerlab.github.io/orbit-docs/)
 * [2024-08-08, 09:08:46](https://news.ycombinator.com/item?id=41189494) - [Open Source AWS SDK Code Examples: Your Go-To Resource for Cloud Development](https://github.com/awsdocs/aws-doc-sdk-examples)
 * [2024-08-08, 07:40:20](https://news.ycombinator.com/item?id=41189056) - [Show HN: I built interactive map of active and decommissioned nuclear stations](https://nuclearstations.com/map)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)

@@ -87,6 +87,7 @@
 * [2024-08-06, 05:25:45](https://news.ycombinator.com/item?id=41168033) - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 * [2024-08-06, 05:25:15](https://news.ycombinator.com/item?id=41168031) - [Is Europe headed towards a new Ice Age as ocean current nears collapse?](https://www.thenationalnews.com/business/energy/2024/07/29/is-europe-headed-for-ice-age-as-ocean-current-nears-collapse/)
 * [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
+* [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 * [2024-08-06, 04:38:32](https://news.ycombinator.com/item?id=41167800) - [IP.network: Check IP Address](https://www.ip.network)
 * [2024-08-06, 03:56:12](https://news.ycombinator.com/item?id=41167645) - [Don't use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
 * [2024-08-06, 03:51:51](https://news.ycombinator.com/item?id=41167626) - [The Story of Samsung's failed deal with iFixit, as told by iFixit's CEO](https://www.androidauthority.com/samsung-ifixit-partnership-story-3456726/)
