@@ -7,6 +7,7 @@
 * [2024-08-07, 22:45:00](https://news.ycombinator.com/item?id=41186310) - [Argdown, like Markdown for argument mapping](https://argdown.org/)
 * [2024-08-07, 22:11:33](https://news.ycombinator.com/item?id=41186117) - [In ‘The Book Against Death,’ Elias Canetti rants against mortality](https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/)
 * [2024-08-07, 22:11:25](https://news.ycombinator.com/item?id=41186116) - [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
+* [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
 * [2024-08-07, 21:39:24](https://news.ycombinator.com/item?id=41185859) - [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
 * [2024-08-07, 21:30:36](https://news.ycombinator.com/item?id=41185783) - [GPT-4 LLM simulates people well enough to replicate social science experiments](https://www.treatmenteffect.app/)
 * [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
@@ -29,7 +30,6 @@
 * [2024-08-05, 17:01:48](https://news.ycombinator.com/item?id=41163141) - [Quantum Physicists Found a New, Safer Way to Navigate](https://www.wired.com/story/quantum-physicists-found-a-new-safer-way-to-navigate/)
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 * [2024-08-03, 18:42:55](https://news.ycombinator.com/item?id=41148379) - [Setting expectations for open source participation (2018)](https://snarky.ca/setting-expectations-for-open-source-participation/)
-* [2024-08-03, 04:30:27](https://news.ycombinator.com/item?id=41144685) - [R5N - Obfuscated mesh routing on hostile networks.](https://lsd.gnunet.org/lsd0004/draft-schanzen-r5n.html)
 
 ## [Archives](archives/index.md)
 
