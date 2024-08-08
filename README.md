@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-08, 02:36:31](https://news.ycombinator.com/item?id=41187596) - [The play deficit (2013)](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
-* [2024-08-08, 01:56:46](https://news.ycombinator.com/item?id=41187395) - [Mineshaft Gap – A real-time strategy game for the C64 by Drmortalwombat](https://www.indieretronews.com/2024/08/mineshaft-gap-real-time-strategy-game.html)
+* [2024-08-08, 01:10:07](https://news.ycombinator.com/item?id=41187122) - [Mozilla wants you to love Firefox again](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again)
 * [2024-08-07, 23:05:46](https://news.ycombinator.com/item?id=41186415) - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 22:45:00](https://news.ycombinator.com/item?id=41186310) - [Argdown, like Markdown for argument mapping](https://argdown.org/)
 * [2024-08-07, 22:11:33](https://news.ycombinator.com/item?id=41186117) - [In ‘The Book Against Death,’ Elias Canetti rants against mortality](https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/)
