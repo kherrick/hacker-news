@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-08, 18:39:51](https://news.ycombinator.com/item?id=41194806) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2024-08-08, 18:34:25](https://news.ycombinator.com/item?id=41194750) - [Molecule restores cognition, memory in Alzheimer's disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
 * [2024-08-08, 18:23:57](https://news.ycombinator.com/item?id=41194673) - [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
 * [2024-08-08, 18:02:12](https://news.ycombinator.com/item?id=41194431) - [Do Quests, Not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
@@ -15,12 +16,10 @@
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux kernel vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-08, 09:35:46](https://news.ycombinator.com/item?id=41189637) - [Show HN: Orbit – A CSS radial UI composer framework](https://zumerlab.github.io/orbit-docs/)
-* [2024-08-08, 07:40:20](https://news.ycombinator.com/item?id=41189056) - [Show HN: I built interactive map of active and decommissioned nuclear stations](https://nuclearstations.com/map)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 00:18:19](https://news.ycombinator.com/item?id=41186862) - [Mouse Pong: play a game from mouse's firmware with persistence of vision cursor](https://github.com/dupontgu/pov_pong_mouse)
 * [2024-08-07, 23:40:14](https://news.ycombinator.com/item?id=41186631) - [Review – Ford's First Engine](https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine)
 * [2024-08-07, 22:09:43](https://news.ycombinator.com/item?id=41186099) - [Can kids master the video games their parents loved?](https://www.theguardian.com/games/article/2024/aug/07/this-is-impossible-can-kids-master-the-video-games-their-parents-loved)
-* [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
 * [2024-08-07, 16:26:34](https://news.ycombinator.com/item?id=41182917) - [Maximal min() and max()](https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/)
 * [2024-08-06, 15:58:21](https://news.ycombinator.com/item?id=41172125) - [Show HN: Spawn – Build iOS Apps with English](https://spawnapp.com/)
 * [2024-08-06, 14:25:45](https://news.ycombinator.com/item?id=41171144) - [Show HN: Launch React components in your app with no-code](https://news.ycombinator.com/item?id=41171144)
@@ -28,6 +27,7 @@
 * [2024-08-06, 03:51:51](https://news.ycombinator.com/item?id=41167626) - [The Story of Samsung's failed deal with iFixit, as told by iFixit's CEO](https://www.androidauthority.com/samsung-ifixit-partnership-story-3456726/)
 * [2024-08-05, 18:19:57](https://news.ycombinator.com/item?id=41163875) - [Ontario's Computer: The Burroughs ICON (2022)](https://jasoneckert.github.io/myblog/icon-computer/)
 * [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
+* [2024-08-05, 11:42:03](https://news.ycombinator.com/item?id=41160292) - [Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2024-08-04, 03:36:37](https://news.ycombinator.com/item?id=41151013) - [ICPP – Run C++ anywhere like a script](https://github.com/vpand/icpp)
 * [2024-08-03, 09:34:43](https://news.ycombinator.com/item?id=41145573) - [Linear Algebra Done Wrong (2004)](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
 

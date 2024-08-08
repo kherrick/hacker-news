@@ -77,6 +77,7 @@
 * [2024-08-05, 12:29:52](https://news.ycombinator.com/item?id=41160701) - [First impressions of Gleam: lots of joys and some rough edges](https://ntietz.com/blog/first-impressions-of-gleam/)
 * [2024-08-05, 12:02:17](https://news.ycombinator.com/item?id=41160466) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-08-05, 11:51:26](https://news.ycombinator.com/item?id=41160376) - [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
+* [2024-08-05, 11:42:03](https://news.ycombinator.com/item?id=41160292) - [Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2024-08-05, 11:38:51](https://news.ycombinator.com/item?id=41160268) - [Show HN: Pie Menu – a radial menu for macOS](https://www.pie-menu.com/)
 * [2024-08-05, 11:03:42](https://news.ycombinator.com/item?id=41160004) - [The meanest app: Duolingo subjects its users to \"emotional blackmail\"](https://www.businessinsider.com/duolingo-meanest-app-nagging-notifications-melting-icon-gen-z-marketing-2024-7)
 * [2024-08-05, 10:49:23](https://news.ycombinator.com/item?id=41159919) - [Climate change deniers make up nearly a quarter of US Congress](https://www.theguardian.com/us-news/article/2024/aug/05/climate-change-denial-congress)

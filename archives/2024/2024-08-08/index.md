@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 18:39:51](https://news.ycombinator.com/item?id=41194806) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2024-08-08, 18:34:25](https://news.ycombinator.com/item?id=41194750) - [Molecule restores cognition, memory in Alzheimer's disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
 * [2024-08-08, 18:23:57](https://news.ycombinator.com/item?id=41194673) - [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
 * [2024-08-08, 18:02:12](https://news.ycombinator.com/item?id=41194431) - [Do Quests, Not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
