@@ -48,6 +48,7 @@
 * [2024-08-03, 16:06:24](https://news.ycombinator.com/item?id=41147393) - [Nxylon: New super-black material made from wood](https://news.ubc.ca/2024/07/ubc-super-black-wood-nxylon/)
 * [2024-08-03, 16:04:18](https://news.ycombinator.com/item?id=41147381) - [Berkshire Cuts Apple Stake by Almost Half in Selling Spree](https://www.bloomberg.com/news/articles/2024-08-03/berkshire-hathaway-s-cash-pile-soars-to-record-276-9-billion)
 * [2024-08-03, 15:55:08](https://news.ycombinator.com/item?id=41147317) - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
+* [2024-08-03, 15:53:54](https://news.ycombinator.com/item?id=41147304) - [Pascal65 beta – an IDE and Pascal compiler that run directly on the MEGA 65](https://pascal65.org/blog/pascal65-first-beta-release)
 * [2024-08-03, 15:24:01](https://news.ycombinator.com/item?id=41147109) - [Intel took billions from the CHIPS Act, and gave nothing back](https://nypost.com/2024/08/02/opinion/biden-harris-wasted-8-5-billion-in-taxpayer-money-to-lose-15000-jobs-at-intel/)
 * [2024-08-03, 15:04:34](https://news.ycombinator.com/item?id=41146980) - [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)

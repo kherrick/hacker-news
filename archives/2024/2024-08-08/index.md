@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
 * [2024-08-08, 10:34:30](https://news.ycombinator.com/item?id=41189946) - [The News Is Information Junk Food (2022)](https://chuck.is/news/)
+* [2024-08-08, 10:10:22](https://news.ycombinator.com/item?id=41189834) - [More and more German trains are not allowed to enter Switzerland](https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html)
 * [2024-08-08, 09:46:59](https://news.ycombinator.com/item?id=41189707) - [The post-neoliberalism moment](https://reason.com/2024/01/07/the-post-neoliberalism-moment/)
+* [2024-08-08, 09:40:20](https://news.ycombinator.com/item?id=41189669) - [Reading the source code of Zig [video]](https://www.youtube.com/watch?v=BgZ0EMXjnVc)
+* [2024-08-08, 09:08:46](https://news.ycombinator.com/item?id=41189494) - [Open Source AWS SDK Code Examples: Your Go-To Resource for Cloud Development](https://github.com/awsdocs/aws-doc-sdk-examples)
 * [2024-08-08, 07:40:20](https://news.ycombinator.com/item?id=41189056) - [Show HN: I built interactive map of active and decommissioned nuclear stations](https://nuclearstations.com/map)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)

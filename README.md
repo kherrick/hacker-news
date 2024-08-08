@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-08, 10:34:30](https://news.ycombinator.com/item?id=41189946) - [The News Is Information Junk Food (2022)](https://chuck.is/news/)
+* [2024-08-08, 10:10:22](https://news.ycombinator.com/item?id=41189834) - [More and more German trains are not allowed to enter Switzerland](https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html)
+* [2024-08-08, 09:46:59](https://news.ycombinator.com/item?id=41189707) - [The post-neoliberalism moment](https://reason.com/2024/01/07/the-post-neoliberalism-moment/)
+* [2024-08-08, 09:40:20](https://news.ycombinator.com/item?id=41189669) - [Reading the source code of Zig [video]](https://www.youtube.com/watch?v=BgZ0EMXjnVc)
+* [2024-08-08, 09:08:46](https://news.ycombinator.com/item?id=41189494) - [Open Source AWS SDK Code Examples: Your Go-To Resource for Cloud Development](https://github.com/awsdocs/aws-doc-sdk-examples)
 * [2024-08-08, 07:40:20](https://news.ycombinator.com/item?id=41189056) - [Show HN: I built interactive map of active and decommissioned nuclear stations](https://nuclearstations.com/map)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
@@ -13,12 +17,8 @@
 * [2024-08-07, 21:00:39](https://news.ycombinator.com/item?id=41185460) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
 * [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
-* [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
-* [2024-08-07, 18:08:24](https://news.ycombinator.com/item?id=41183808) - [What are the Olympics shooting competitors wearing on their faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)
 * [2024-08-07, 16:48:42](https://news.ycombinator.com/item?id=41183115) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 16:19:06](https://news.ycombinator.com/item?id=41182847) - [Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
-* [2024-08-07, 14:56:51](https://news.ycombinator.com/item?id=41182101) - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
-* [2024-08-07, 14:50:11](https://news.ycombinator.com/item?id=41182055) - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 * [2024-08-07, 11:56:02](https://news.ycombinator.com/item?id=41180441) - [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
 * [2024-08-06, 23:07:07](https://news.ycombinator.com/item?id=41176461) - [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
@@ -28,8 +28,8 @@
 * [2024-08-05, 19:07:24](https://news.ycombinator.com/item?id=41164368) - [Casio VZ-1 Algorithms](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/)
 * [2024-08-05, 17:01:48](https://news.ycombinator.com/item?id=41163141) - [Quantum Physicists Found a New, Safer Way to Navigate](https://www.wired.com/story/quantum-physicists-found-a-new-safer-way-to-navigate/)
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
-* [2024-08-05, 02:21:45](https://news.ycombinator.com/item?id=41157652) - [Tetris for Sharp Electronic Notebook (1989)](https://blog.gingerbeardman.com/2024/08/04/tetris-for-sharp-electronic-notebook-1989/)
 * [2024-08-03, 20:27:14](https://news.ycombinator.com/item?id=41149014) - [RAM Test ROM for IBM PC/XT and Clones](https://github.com/ki3v/xtramtest)
+* [2024-08-03, 15:53:54](https://news.ycombinator.com/item?id=41147304) - [Pascal65 beta – an IDE and Pascal compiler that run directly on the MEGA 65](https://pascal65.org/blog/pascal65-first-beta-release)
 
 ## [Archives](archives/index.md)
 
