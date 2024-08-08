@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 13:44:02](https://news.ycombinator.com/item?id=41191426) - [After private equity takes over hospitals, they are less adept of providing care](https://www.nbcnews.com/investigations/private-equity-takes-over-hospitals-less-able-care-patients-jama-rcna164497)
 * [2024-08-08, 13:29:03](https://news.ycombinator.com/item?id=41191263) - [Collaborating with Markdown files is painful](https://opral.substack.com/p/collaborative-markdown-with-lix-change)
 * [2024-08-08, 11:32:17](https://news.ycombinator.com/item?id=41190354) - [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
 * [2024-08-08, 11:11:35](https://news.ycombinator.com/item?id=41190180) - [Tsunami Alert Issued for Japan](https://tsunami.gov/events/PHEB/2024/08/08/24221000/2/WEPA40//WEPA40.txt)
