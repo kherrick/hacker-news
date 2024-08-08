@@ -11,6 +11,7 @@
 * [2024-08-08, 14:46:48](https://news.ycombinator.com/item?id=41192118) - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
 * [2024-08-08, 14:09:14](https://news.ycombinator.com/item?id=41191720) - [Jepsen: Jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 * [2024-08-08, 14:06:12](https://news.ycombinator.com/item?id=41191689) - [CrowdStrike releases root cause analysis of the global Microsoft breakdown](https://www.abc.net.au/news/2024-08-07/drt-crowdstrike-root-cause-analysis/104193866)
+* [2024-08-08, 13:55:09](https://news.ycombinator.com/item?id=41191540) - [How Long Does Music Stardom Last? A Statistical Analysis](https://www.statsignificant.com/p/how-long-does-music-stardom-last)
 * [2024-08-08, 13:44:02](https://news.ycombinator.com/item?id=41191426) - [After private equity takes over hospitals, they are less adept of providing care](https://www.nbcnews.com/investigations/private-equity-takes-over-hospitals-less-able-care-patients-jama-rcna164497)
 * [2024-08-08, 13:29:03](https://news.ycombinator.com/item?id=41191263) - [Collaborating with Markdown files is painful](https://opral.substack.com/p/collaborative-markdown-with-lix-change)
 * [2024-08-08, 13:14:07](https://news.ycombinator.com/item?id=41191149) - [Instagram Saved 90% of Computing Power and Improved Video Quality](https://newsletter.betterstack.com/p/how-instagram-saved-90-of-computing)
