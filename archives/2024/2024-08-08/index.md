@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
 * [2024-08-08, 05:08:18](https://news.ycombinator.com/item?id=41188295) - [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
 * [2024-08-08, 05:08:00](https://news.ycombinator.com/item?id=41188292) - [ISS astronauts on eight-day mission may be stuck until 2025, NASA says](https://www.theguardian.com/science/article/2024/aug/07/spacex-delay-international-space-station-boeing-nasa)
 * [2024-08-08, 04:35:40](https://news.ycombinator.com/item?id=41188155) - [What I Saw in the Darién Gap](https://www.theatlantic.com/magazine/archive/2024/09/darien-gap-route-migrants-panama/679156/)

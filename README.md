@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
 * [2024-08-08, 05:08:18](https://news.ycombinator.com/item?id=41188295) - [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
 * [2024-08-08, 04:35:40](https://news.ycombinator.com/item?id=41188155) - [What I Saw in the Darién Gap](https://www.theatlantic.com/magazine/archive/2024/09/darien-gap-route-migrants-panama/679156/)
 * [2024-08-07, 23:05:46](https://news.ycombinator.com/item?id=41186415) - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
@@ -12,7 +13,6 @@
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
 * [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
 * [2024-08-07, 18:50:55](https://news.ycombinator.com/item?id=41184153) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
-* [2024-08-07, 18:46:03](https://news.ycombinator.com/item?id=41184114) - [A Texas DNA Lab Cracked the 1995 Murder of Catherine Edwards](https://www.texasmonthly.com/news-politics/othram-forensic-genetic-genealogy-catherine-edwards-murder/)
 * [2024-08-07, 18:08:24](https://news.ycombinator.com/item?id=41183808) - [What are the Olympics shooting competitors wearing on their faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)
 * [2024-08-07, 17:02:00](https://news.ycombinator.com/item?id=41183240) - [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
 * [2024-08-07, 16:48:42](https://news.ycombinator.com/item?id=41183115) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
