@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 17:21:02](https://news.ycombinator.com/item?id=41193968) - [Employers used return-to-office to make workers quit](https://thehill.com/opinion/technology/4800828-office-mandates-cause-attrition/)
 * [2024-08-08, 17:12:35](https://news.ycombinator.com/item?id=41193859) - [GPT-4o System Card](https://openai.com/index/gpt-4o-system-card/)
 * [2024-08-08, 16:45:37](https://news.ycombinator.com/item?id=41193531) - [There's a Surprisingly Easy Way to Remove Microplastics from Your Drinking Water](https://www.sciencealert.com/theres-a-surprisingly-easy-way-to-remove-microplastics-from-your-drinking-water)
 * [2024-08-08, 16:44:18](https://news.ycombinator.com/item?id=41193512) - [Cloudflare Introduces Automatic SSL/TLS](https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity)
@@ -12,6 +13,7 @@
 * [2024-08-08, 16:17:39](https://news.ycombinator.com/item?id=41193157) - [Home security giant ADT says it was hacked](https://techcrunch.com/2024/08/08/home-security-giant-adt-says-it-was-hacked/)
 * [2024-08-08, 16:13:05](https://news.ycombinator.com/item?id=41193112) - [Show HN: RoundtableJS – Open-source programmatic survey library](https://github.com/roundtableAI/roundtable-js)
 * [2024-08-08, 16:02:18](https://news.ycombinator.com/item?id=41192959) - [Paper Straws Are Often Touted as Alternative to Plastic, but They're Toxic](https://www.xatakaon.com/health/paper-straws-are-often-touted-as-a-great-alternative-to-plastic-but-theres-a-small-problem-theyre-toxic)
+* [2024-08-08, 15:45:09](https://news.ycombinator.com/item?id=41192775) - [Nissan Invents Car Paint That Can Lower Interior Temps by Nearly 10 Degrees](https://www.thedrive.com/news/tech/nissan-invents-car-paint-that-can-lower-interior-temps-by-nearly-10-degrees)
 * [2024-08-08, 15:27:46](https://news.ycombinator.com/item?id=41192566) - [Show HN: We Open Sourced Our GitOps Template for ArgoCD](https://github.com/glasskube/gitops-template)
 * [2024-08-08, 15:09:21](https://news.ycombinator.com/item?id=41192341) - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
 * [2024-08-08, 15:05:18](https://news.ycombinator.com/item?id=41192303) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
