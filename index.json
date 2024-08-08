@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-08-08, 17:12:35",
+      "https://news.ycombinator.com/item?id=41193859"
+    ],
+    [
+      "GPT-4o System Card",
+      "https://openai.com/index/gpt-4o-system-card/"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 16:45:37",
+      "https://news.ycombinator.com/item?id=41193531"
+    ],
+    [
+      "There's a Surprisingly Easy Way to Remove Microplastics from Your Drinking Water",
+      "https://www.sciencealert.com/theres-a-surprisingly-easy-way-to-remove-microplastics-from-your-drinking-water"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 16:44:18",
+      "https://news.ycombinator.com/item?id=41193512"
+    ],
+    [
+      "Cloudflare Introduces Automatic SSL/TLS",
+      "https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 16:36:07",
+      "https://news.ycombinator.com/item?id=41193416"
+    ],
+    [
+      "A new report finds Boeing's rockets are built with an unqualified work force",
+      "https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 16:17:39",
       "https://news.ycombinator.com/item?id=41193157"
     ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41192566"
     ],
     [
-      "Show HN: We Open Sourced Our GitOps Template for ArgoCD",
+      "Show HN: We open-sourced our GitOps template for ArgoCD",
       "https://github.com/glasskube/gitops-template"
     ]
   ],
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41191069"
     ],
     [
-      "Introducing the RP2350",
+      "I got almost all of my wishes granted with RP2350",
       "https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350"
     ]
   ],
@@ -95,7 +135,7 @@
       "https://news.ycombinator.com/item?id=41189971"
     ],
     [
-      "How we found and fixed an eBPF Linux Kernel Vulnerability",
+      "How we found and fixed an eBPF Linux kernel vulnerability",
       "https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability"
     ]
   ],
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2024-08-07, 19:11:39",
-      "https://news.ycombinator.com/item?id=41184365"
-    ],
-    [
-      "Prevention of HIV",
-      "https://www.science.org/content/blog-post/prevention-hiv"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 19:10:54",
       "https://news.ycombinator.com/item?id=41184359"
     ],
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2024-08-07, 16:48:42",
-      "https://news.ycombinator.com/item?id=41183115"
-    ],
-    [
-      "Tony Hawk's Pro Strcpy",
-      "https://icode4.coffee/?p=954"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 16:26:34",
       "https://news.ycombinator.com/item?id=41182917"
     ],
     [
-      "Maximal Min() and Max()",
+      "Maximal min() and max()",
       "https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 16:19:06",
-      "https://news.ycombinator.com/item?id=41182847"
-    ],
-    [
-      "Puppeteer Support for Firefox",
-      "https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Fruitful innovation: Transforming watermelon genetics with advanced base editors",
       "https://phys.org/news/2024-07-fruitful-watermelon-genetics-advanced-base.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 23:07:07",
-      "https://news.ycombinator.com/item?id=41176461"
-    ],
-    [
-      "How French Drains Work",
-      "https://practical.engineering/blog/2024/8/6/how-french-drains-work"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=41145573"
     ],
     [
-      "Linear Algebra Done Wrong",
+      "Linear Algebra Done Wrong (2004)",
       "https://www.math.brown.edu/streil/papers/LADW/LADW.html"
     ]
   ]
