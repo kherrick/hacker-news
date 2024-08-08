@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-08, 20:19:48",
-      "https://news.ycombinator.com/item?id=41195765"
+      "2024-08-08, 20:44:28",
+      "https://news.ycombinator.com/item?id=41196053"
     ],
     [
-      "Gemini 1.5 Flash price is now ~70% lower ($0.075 / 1M)",
-      "https://twitter.com/OfficialLoganK/status/1821601298195878323"
+      "Zero calorie sweetener linked to blood clots and heart disease, study finds",
+      "https://www.cnn.com/2024/08/08/health/erythritol-blood-clotting-wellness/index.html"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime",
       "https://github.com/mikex86/LibreCuda"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 16:13:05",
+      "https://news.ycombinator.com/item?id=41193112"
+    ],
+    [
+      "Show HN: RoundtableJS – Open-source programmatic survey library",
+      "https://github.com/roundtableAI/roundtable-js"
     ]
   ],
   [
@@ -205,8 +215,8 @@
       "https://news.ycombinator.com/item?id=41185937"
     ],
     [
-      "Canonical S-Expressions",
-      "https://en.wikipedia.org/wiki/Canonical_S-expressions"
+      "Thoughts on Canonical S-Expressions (2019)",
+      "https://write.emacsen.net/thoughts-on-canonical-s-expressions"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2024-08-06, 06:35:10",
+      "https://news.ycombinator.com/item?id=41168344"
+    ],
+    [
+      "The Indigenous Communities Preserving the Ancient Art of Roasting Agave",
+      "https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave"
+    ]
+  ],
+  [
+    [
       "2024-08-06, 04:58:59",
       "https://news.ycombinator.com/item?id=41167899"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-08-05, 18:19:57",
-      "https://news.ycombinator.com/item?id=41163875"
-    ],
-    [
-      "Ontario's Computer: The Burroughs ICON (2022)",
-      "https://jasoneckert.github.io/myblog/icon-computer/"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 13:43:40",
       "https://news.ycombinator.com/item?id=41161315"
     ],
@@ -287,16 +297,6 @@
     [
       "Mysteries of the Griffin iMate and the Apple Extended Keyboard II",
       "https://www.projectgus.com/2023/04/griffin-imate/"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 03:36:37",
-      "https://news.ycombinator.com/item?id=41151013"
-    ],
-    [
-      "ICPP – Run C++ anywhere like a script",
-      "https://github.com/vpand/icpp"
     ]
   ]
 ]
