@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-08, 17:24:40",
+      "https://news.ycombinator.com/item?id=41194024"
+    ],
+    [
+      "LibreCUDA – launch CUDA code on Nvidia GPUs without the proprietary CUDA runtime",
+      "https://github.com/mikex86/LibreCuda"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 17:21:02",
       "https://news.ycombinator.com/item?id=41193968"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-08-08, 13:55:09",
-      "https://news.ycombinator.com/item?id=41191540"
-    ],
-    [
-      "How Long Does Music Stardom Last? A Statistical Analysis",
-      "https://www.statsignificant.com/p/how-long-does-music-stardom-last"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 13:03:22",
       "https://news.ycombinator.com/item?id=41191069"
     ],
@@ -131,22 +131,22 @@
   ],
   [
     [
-      "2024-08-08, 09:41:59",
-      "https://news.ycombinator.com/item?id=41189678"
-    ],
-    [
-      "Digital Tools I Wish Existed (2019)",
-      "https://jon.bo/posts/digital-tools/"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 09:35:46",
       "https://news.ycombinator.com/item?id=41189637"
     ],
     [
       "Show HN: Orbit – A CSS radial UI composer framework",
       "https://zumerlab.github.io/orbit-docs/"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 07:40:20",
+      "https://news.ycombinator.com/item?id=41189056"
+    ],
+    [
+      "Show HN: I built interactive map of active and decommissioned nuclear stations",
+      "https://nuclearstations.com/map"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-08-07, 16:14:37",
-      "https://news.ycombinator.com/item?id=41182810"
-    ],
-    [
-      "Fruitful innovation: Transforming watermelon genetics with advanced base editors",
-      "https://phys.org/news/2024-07-fruitful-watermelon-genetics-advanced-base.html"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 14:25:45",
       "https://news.ycombinator.com/item?id=41171144"
     ],
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2024-08-05, 13:43:40",
+      "https://news.ycombinator.com/item?id=41161315"
+    ],
+    [
+      "Ask HN: Should we bring software dev in-house?",
+      "https://news.ycombinator.com/item?id=41161315"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 03:36:37",
       "https://news.ycombinator.com/item?id=41151013"
     ],
     [
-      "ICPP – Running C++ in anywhere like a script",
+      "ICPP – Run C++ anywhere like a script",
       "https://github.com/vpand/icpp"
     ]
   ],
