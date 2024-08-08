@@ -89,6 +89,7 @@
 * [2024-08-06, 05:09:58](https://news.ycombinator.com/item?id=41167947) - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
 * [2024-08-06, 04:38:32](https://news.ycombinator.com/item?id=41167800) - [IP.network: Check IP Address](https://www.ip.network)
 * [2024-08-06, 03:56:12](https://news.ycombinator.com/item?id=41167645) - [Don't use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
+* [2024-08-06, 03:51:51](https://news.ycombinator.com/item?id=41167626) - [The Story of Samsung's failed deal with iFixit, as told by iFixit's CEO](https://www.androidauthority.com/samsung-ifixit-partnership-story-3456726/)
 * [2024-08-06, 03:51:31](https://news.ycombinator.com/item?id=41167624) - [A simply utility script which allows you to analyze your Python file](https://github.com/mraza007/python-file-analyzer)
 * [2024-08-06, 03:49:20](https://news.ycombinator.com/item?id=41167615) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-06, 03:30:50](https://news.ycombinator.com/item?id=41167561) - [Twitter kills its San Francisco headquarters, will relocate to South Bay](https://sfstandard.com/2024/08/05/x-officially-kills-its-san-francisco-headquarters-will-relocate-workers-to-south-bay/)
