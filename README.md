@@ -5,7 +5,7 @@
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-08, 10:34:30](https://news.ycombinator.com/item?id=41189946) - [The News Is Information Junk Food (2022)](https://chuck.is/news/)
 * [2024-08-08, 09:41:59](https://news.ycombinator.com/item?id=41189678) - [Digital Tools I Wish Existed (2019)](https://jon.bo/posts/digital-tools/)
-* [2024-08-08, 09:35:46](https://news.ycombinator.com/item?id=41189637) - [Show HN: Orbit – A CSS radial UI composer framework](https://zumerlab.github.io/orbit-docs/)
+* [2024-08-08, 07:48:41](https://news.ycombinator.com/item?id=41189101) - [Out of the Tar Pit [pdf]](https://curtclifton.net/papers/MoseleyMarks06a.pdf)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
 * [2024-08-08, 05:08:18](https://news.ycombinator.com/item?id=41188295) - [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
