@@ -60,6 +60,7 @@
 * [2024-08-06, 16:28:54](https://news.ycombinator.com/item?id=41172411) - [Hetzner Cloud – Singapore location available](https://docs.hetzner.cloud/whats-new#2024-08-06-hetzner-goes-singapore---new-location-available-)
 * [2024-08-06, 16:28:21](https://news.ycombinator.com/item?id=41172399) - [Dell lays of 12,500 people](https://www.theregister.com/2024/08/06/dell_layoffs/)
 * [2024-08-06, 16:00:38](https://news.ycombinator.com/item?id=41172143) - [Google TV Streamer: Our new entertainment and smart home hub](https://blog.google/products/google-nest/google-tv-streamer/)
+* [2024-08-06, 15:58:21](https://news.ycombinator.com/item?id=41172125) - [Show HN: Spawn – Build iOS Apps with English](https://spawnapp.com/)
 * [2024-08-06, 15:56:51](https://news.ycombinator.com/item?id=41172109) - [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
 * [2024-08-06, 15:49:07](https://news.ycombinator.com/item?id=41172036) - [Show HN: I built a serverless data API builder – No storage, Low Latency](https://fleak.ai/)
 * [2024-08-06, 14:42:03](https://news.ycombinator.com/item?id=41171280) - [Why Polars rewrote its Arrow string data type](https://pola.rs/posts/polars-string-type/)

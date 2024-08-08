@@ -15,6 +15,7 @@
 * [2024-08-07, 22:26:35](https://news.ycombinator.com/item?id=41186212) - [Terraforming Mars may be easier than scientists thought](https://www.science.org/content/article/terraforming-mars-could-be-easier-scientists-thought)
 * [2024-08-07, 22:11:33](https://news.ycombinator.com/item?id=41186117) - [In ‘The Book Against Death,’ Elias Canetti rants against mortality](https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/)
 * [2024-08-07, 22:11:25](https://news.ycombinator.com/item?id=41186116) - [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
+* [2024-08-07, 22:09:43](https://news.ycombinator.com/item?id=41186099) - [Can kids master the video games their parents loved?](https://www.theguardian.com/games/article/2024/aug/07/this-is-impossible-can-kids-master-the-video-games-their-parents-loved)
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
 * [2024-08-07, 21:47:28](https://news.ycombinator.com/item?id=41185930) - [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)
 * [2024-08-07, 21:39:24](https://news.ycombinator.com/item?id=41185859) - [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
