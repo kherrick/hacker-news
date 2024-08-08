@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-08, 05:08:18](https://news.ycombinator.com/item?id=41188295) - [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
 * [2024-08-08, 04:35:40](https://news.ycombinator.com/item?id=41188155) - [What I Saw in the Darién Gap](https://www.theatlantic.com/magazine/archive/2024/09/darien-gap-route-migrants-panama/679156/)
 * [2024-08-08, 04:07:50](https://news.ycombinator.com/item?id=41188010) - [Microsoft says Delta's ancient IT explains long outage after CrowdStrike snafu](https://arstechnica.com/tech-policy/2024/08/microsoft-says-deltas-ancient-it-explains-long-outage-after-crowdstrike-snafu/)
-* [2024-08-08, 02:36:31](https://news.ycombinator.com/item?id=41187596) - [The play deficit (2013)](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
 * [2024-08-07, 23:05:46](https://news.ycombinator.com/item?id=41186415) - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 22:45:00](https://news.ycombinator.com/item?id=41186310) - [Argdown, like Markdown for argument mapping](https://argdown.org/)
 * [2024-08-07, 22:11:33](https://news.ycombinator.com/item?id=41186117) - [In ‘The Book Against Death,’ Elias Canetti rants against mortality](https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/)
