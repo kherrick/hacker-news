@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-08-07, 17:02:00",
-      "https://news.ycombinator.com/item?id=41183240"
-    ],
-    [
-      "Official proposal for Type Unions in C#",
-      "https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 16:48:42",
       "https://news.ycombinator.com/item?id=41183115"
     ],
@@ -297,6 +287,16 @@
     [
       "Tetris for Sharp Electronic Notebook (1989)",
       "https://blog.gingerbeardman.com/2024/08/04/tetris-for-sharp-electronic-notebook-1989/"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 20:27:14",
+      "https://news.ycombinator.com/item?id=41149014"
+    ],
+    [
+      "RAM Test ROM for IBM PC/XT and Clones",
+      "https://github.com/ki3v/xtramtest"
     ]
   ]
 ]
