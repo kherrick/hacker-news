@@ -8,6 +8,7 @@
 * [2024-08-08, 14:06:12](https://news.ycombinator.com/item?id=41191689) - [CrowdStrike releases root cause analysis of the global Microsoft breakdown](https://www.abc.net.au/news/2024-08-07/drt-crowdstrike-root-cause-analysis/104193866)
 * [2024-08-08, 13:44:02](https://news.ycombinator.com/item?id=41191426) - [After private equity takes over hospitals, they are less adept of providing care](https://www.nbcnews.com/investigations/private-equity-takes-over-hospitals-less-able-care-patients-jama-rcna164497)
 * [2024-08-08, 13:29:03](https://news.ycombinator.com/item?id=41191263) - [Collaborating with Markdown files is painful](https://opral.substack.com/p/collaborative-markdown-with-lix-change)
+* [2024-08-08, 13:14:07](https://news.ycombinator.com/item?id=41191149) - [Instagram Saved 90% of Computing Power and Improved Video Quality](https://newsletter.betterstack.com/p/how-instagram-saved-90-of-computing)
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [Introducing the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 * [2024-08-08, 11:32:17](https://news.ycombinator.com/item?id=41190354) - [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
 * [2024-08-08, 11:11:35](https://news.ycombinator.com/item?id=41190180) - [Tsunami Alert Issued for Japan](https://tsunami.gov/events/PHEB/2024/08/08/24221000/2/WEPA40//WEPA40.txt)
