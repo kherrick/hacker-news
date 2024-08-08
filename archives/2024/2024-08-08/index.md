@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 16:43:54](https://news.ycombinator.com/item?id=41193507) - [Dairy Queen's Soft Serve Isn't What You Think It Is](https://www.thetakeout.com/1630132/dairy-queen-not-ice-cream/)
+* [2024-08-08, 16:13:05](https://news.ycombinator.com/item?id=41193112) - [Show HN: RoundtableJS – Open-source programmatic survey library](https://github.com/roundtableAI/roundtable-js)
 * [2024-08-08, 16:02:18](https://news.ycombinator.com/item?id=41192959) - [Paper Straws Are Often Touted as Alternative to Plastic, but They're Toxic](https://www.xatakaon.com/health/paper-straws-are-often-touted-as-a-great-alternative-to-plastic-but-theres-a-small-problem-theyre-toxic)
 * [2024-08-08, 15:09:21](https://news.ycombinator.com/item?id=41192341) - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
 * [2024-08-08, 15:05:18](https://news.ycombinator.com/item?id=41192303) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
