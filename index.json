@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-08, 07:24:58",
+      "https://news.ycombinator.com/item?id=41188966"
+    ],
+    [
+      "FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention",
+      "https://pytorch.org/blog/flexattention/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 06:22:18",
       "https://news.ycombinator.com/item?id=41188647"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-08-07, 18:46:03",
+      "https://news.ycombinator.com/item?id=41184114"
+    ],
+    [
+      "A Texas DNA Lab Cracked the 1995 Murder of Catherine Edwards",
+      "https://www.texasmonthly.com/news-politics/othram-forensic-genetic-genealogy-catherine-edwards-murder/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 18:08:24",
       "https://news.ycombinator.com/item?id=41183808"
     ],
@@ -167,16 +187,6 @@
     [
       "Puppeteer Support for Firefox",
       "https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 16:14:04",
-      "https://news.ycombinator.com/item?id=41182805"
-    ],
-    [
-      "Python extensions should be lazy",
-      "https://www.gauge.sh/blog/python-extensions-should-be-lazy"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-08-06, 20:19:58",
-      "https://news.ycombinator.com/item?id=41174890"
-    ],
-    [
-      "Blackhouses of Scotland",
-      "https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 17:37:51",
       "https://news.ycombinator.com/item?id=41173177"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-08-03, 18:42:55",
-      "https://news.ycombinator.com/item?id=41148379"
+      "2024-08-05, 02:21:45",
+      "https://news.ycombinator.com/item?id=41157652"
     ],
     [
-      "Setting expectations for open source participation (2018)",
-      "https://snarky.ca/setting-expectations-for-open-source-participation/"
+      "Tetris for Sharp Electronic Notebook (1989)",
+      "https://blog.gingerbeardman.com/2024/08/04/tetris-for-sharp-electronic-notebook-1989/"
     ]
   ]
 ]
