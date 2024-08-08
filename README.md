@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-08, 14:09:14](https://news.ycombinator.com/item?id=41191720) - [Jepsen: Jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
-* [2024-08-08, 14:06:12](https://news.ycombinator.com/item?id=41191689) - [CrowdStrike releases root cause analysis of the global Microsoft breakdown](https://www.abc.net.au/news/2024-08-07/drt-crowdstrike-root-cause-analysis/104193866)
-* [2024-08-08, 11:00:58](https://news.ycombinator.com/item?id=41190101) - [All the possible ways to destroy Google's monopoly in search](https://arstechnica.com/tech-policy/2024/08/all-the-possible-ways-to-destroy-googles-monopoly-in-search/)
-* [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
+* [2024-08-08, 13:44:02](https://news.ycombinator.com/item?id=41191426) - [After private equity takes over hospitals, they are less adept of providing care](https://www.nbcnews.com/investigations/private-equity-takes-over-hospitals-less-able-care-patients-jama-rcna164497)
+* [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [Introducing the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
+* [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-08, 09:35:46](https://news.ycombinator.com/item?id=41189637) - [Show HN: Orbit – A CSS radial UI composer framework](https://zumerlab.github.io/orbit-docs/)
 * [2024-08-08, 07:24:58](https://news.ycombinator.com/item?id=41188966) - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 * [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
