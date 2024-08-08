@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-08, 13:29:03](https://news.ycombinator.com/item?id=41191263) - [Collaborating with Markdown files is painful](https://opral.substack.com/p/collaborative-markdown-with-lix-change)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-08, 10:34:30](https://news.ycombinator.com/item?id=41189946) - [The News Is Information Junk Food (2022)](https://chuck.is/news/)
 * [2024-08-08, 09:41:59](https://news.ycombinator.com/item?id=41189678) - [Digital Tools I Wish Existed (2019)](https://jon.bo/posts/digital-tools/)
@@ -12,9 +11,11 @@
 * [2024-08-07, 23:05:46](https://news.ycombinator.com/item?id=41186415) - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 22:45:00](https://news.ycombinator.com/item?id=41186310) - [Argdown, like Markdown for argument mapping](https://argdown.org/)
 * [2024-08-07, 22:11:33](https://news.ycombinator.com/item?id=41186117) - [In ‘The Book Against Death,’ Elias Canetti rants against mortality](https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/)
+* [2024-08-07, 21:39:24](https://news.ycombinator.com/item?id=41185859) - [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
 * [2024-08-07, 21:30:36](https://news.ycombinator.com/item?id=41185783) - [GPT-4 LLM simulates people well enough to replicate social science experiments](https://www.treatmenteffect.app/)
 * [2024-08-07, 19:11:39](https://news.ycombinator.com/item?id=41184365) - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
 * [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
+* [2024-08-07, 18:08:24](https://news.ycombinator.com/item?id=41183808) - [What are the Olympics shooting competitors wearing on their faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)
 * [2024-08-07, 16:48:42](https://news.ycombinator.com/item?id=41183115) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 16:19:06](https://news.ycombinator.com/item?id=41182847) - [Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 * [2024-08-07, 16:14:37](https://news.ycombinator.com/item?id=41182810) - [Fruitful innovation: Transforming watermelon genetics with advanced base editors](https://phys.org/news/2024-07-fruitful-watermelon-genetics-advanced-base.html)
@@ -29,7 +30,6 @@
 * [2024-08-05, 03:15:44](https://news.ycombinator.com/item?id=41157876) - [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 * [2024-08-04, 03:36:37](https://news.ycombinator.com/item?id=41151013) - [ICPP – Running C++ in anywhere like a script](https://github.com/vpand/icpp)
 * [2024-08-03, 20:27:14](https://news.ycombinator.com/item?id=41149014) - [RAM Test ROM for IBM PC/XT and Clones](https://github.com/ki3v/xtramtest)
-* [2024-08-03, 15:53:54](https://news.ycombinator.com/item?id=41147304) - [Pascal65 beta – an IDE and Pascal compiler that run directly on the MEGA 65](https://pascal65.org/blog/pascal65-first-beta-release)
 
 ## [Archives](archives/index.md)
 
