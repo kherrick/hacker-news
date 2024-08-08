@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-08, 01:56:46](https://news.ycombinator.com/item?id=41187395) - [Mineshaft Gap – A real-time strategy game for the C64 by Drmortalwombat](https://www.indieretronews.com/2024/08/mineshaft-gap-real-time-strategy-game.html)
 * [2024-08-08, 01:10:07](https://news.ycombinator.com/item?id=41187122) - [Mozilla wants you to love Firefox again](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again)
 * [2024-08-07, 23:45:57](https://news.ycombinator.com/item?id=41186675) - [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
+* [2024-08-07, 23:05:46](https://news.ycombinator.com/item?id=41186415) - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 22:45:00](https://news.ycombinator.com/item?id=41186310) - [Argdown, like Markdown for argument mapping](https://argdown.org/)
 * [2024-08-07, 22:11:25](https://news.ycombinator.com/item?id=41186116) - [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
@@ -22,8 +24,6 @@
 * [2024-08-07, 14:50:11](https://news.ycombinator.com/item?id=41182055) - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
 * [2024-08-07, 12:03:39](https://news.ycombinator.com/item?id=41180504) - [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 * [2024-08-07, 11:56:02](https://news.ycombinator.com/item?id=41180441) - [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
-* [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [How Uber tests payments in production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
-* [2024-08-07, 02:58:57](https://news.ycombinator.com/item?id=41177831) - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
 * [2024-08-06, 23:07:07](https://news.ycombinator.com/item?id=41176461) - [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
 * [2024-08-06, 20:19:58](https://news.ycombinator.com/item?id=41174890) - [Blackhouses of Scotland](https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html)
 * [2024-08-06, 17:37:51](https://news.ycombinator.com/item?id=41173177) - [East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
