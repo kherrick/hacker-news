@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-08, 20:44:28](https://news.ycombinator.com/item?id=41196053) - [Zero calorie sweetener linked to blood clots and heart disease, study finds](https://www.cnn.com/2024/08/08/health/erythritol-blood-clotting-wellness/index.html)
+* [2024-08-08, 20:40:21](https://news.ycombinator.com/item?id=41195988) - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
+* [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [2024-08-08, 20:21:45](https://news.ycombinator.com/item?id=41195791) - [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
-* [2024-08-08, 20:11:48](https://news.ycombinator.com/item?id=41195681) - [Over 90% of US Population Growth Since 2020 Came from Hispanics](https://www.bloomberg.com/news/articles/2024-08-07/over-90-of-us-population-growth-since-2020-came-from-hispanics)
-* [2024-08-08, 20:00:20](https://news.ycombinator.com/item?id=41195584) - [Apple is America's semiconductor problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
 * [2024-08-08, 19:23:36](https://news.ycombinator.com/item?id=41195225) - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-08, 19:11:49](https://news.ycombinator.com/item?id=41195124) - [Intel's Immiseration](https://thechipletter.substack.com/p/intels-immiseration)
 * [2024-08-08, 18:34:25](https://news.ycombinator.com/item?id=41194750) - [Molecule restores cognition, memory in Alzheimer's disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
