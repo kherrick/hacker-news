@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-08-09, 03:08:48",
+      "https://news.ycombinator.com/item?id=41198491"
+    ],
+    [
+      "Sonic Pi: Ruby as a Composition Tool",
+      "https://bhmt.dev/blog/sonic_pi/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 23:00:21",
       "https://news.ycombinator.com/item?id=41197300"
     ],
@@ -177,6 +187,16 @@
     [
       "A heck of a wild bug chase",
       "https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 16:00:52",
+      "https://news.ycombinator.com/item?id=41192941"
+    ],
+    [
+      "Taking the Drizzle Challenge",
+      "https://ben.mk/notes/taking-the-drizzle-challenge"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-08-06, 17:51:29",
-      "https://news.ycombinator.com/item?id=41173321"
-    ],
-    [
-      "Debugging running Python scripts with PDB via GDB",
-      "https://disconnect3d.pl//2024/08/04/debugging-cpython-live/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 14:25:35",
       "https://news.ycombinator.com/item?id=41171142"
     ],
@@ -247,16 +257,6 @@
     [
       "Qlot: Common Lisp Library Manager",
       "https://github.com/fukamachi/qlot"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 16:46:47",
-      "https://news.ycombinator.com/item?id=41162989"
-    ],
-    [
-      "Breaking my hand forced me to write all my code with AI for 2 months",
-      "https://erikschluntz.com/software/2024/07/30/code-with-ai.html"
     ]
   ],
   [
