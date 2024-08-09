@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-09, 08:48:50",
+      "https://news.ycombinator.com/item?id=41200019"
+    ],
+    [
+      "Number of incidents affecting GitHub, Bitbucket, Gitlab and Jira is rising",
+      "https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/"
+    ]
+  ],
+  [
+    [
       "2024-08-09, 07:31:15",
       "https://news.ycombinator.com/item?id=41199567"
     ],
@@ -197,16 +207,6 @@
     [
       "How we found and fixed an eBPF Linux kernel vulnerability",
       "https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 00:18:19",
-      "https://news.ycombinator.com/item?id=41186862"
-    ],
-    [
-      "Mouse Pong: play a game from mouse's firmware with persistence of vision cursor",
-      "https://github.com/dupontgu/pov_pong_mouse"
     ]
   ],
   [
