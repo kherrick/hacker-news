@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-08-09, 17:46:31",
+      "https://news.ycombinator.com/item?id=41203909"
+    ],
+    [
+      "Perceived Age",
+      "https://suryad.com/blog/percieved-age/"
+    ]
+  ],
+  [
+    [
       "2024-08-09, 17:00:56",
       "https://news.ycombinator.com/item?id=41203571"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41203475"
     ],
     [
-      "Show HN: Attaching to a Virtual GPU over TCP",
+      "Show HN: Attaching to a virtual GPU over TCP",
       "https://www.thundercompute.com/"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-08-09, 14:01:19",
-      "https://news.ycombinator.com/item?id=41201922"
-    ],
-    [
-      "Base 3 Computing Beats Binary",
-      "https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 13:19:03",
       "https://news.ycombinator.com/item?id=41201555"
     ],
@@ -131,32 +131,12 @@
   ],
   [
     [
-      "2024-08-09, 10:58:12",
-      "https://news.ycombinator.com/item?id=41200605"
-    ],
-    [
-      "Show HN: I built Mailhub – A scalable API for sending emails with ease not tears",
-      "https://www.mailhub.sh/"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 07:31:15",
       "https://news.ycombinator.com/item?id=41199567"
     ],
     [
       "OTranscribe: A free and open tool for transcribing audio interviews",
       "https://otranscribe.com/"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 03:08:48",
-      "https://news.ycombinator.com/item?id=41198491"
-    ],
-    [
-      "Sonic Pi: Ruby as a Composition Tool",
-      "https://bhmt.dev/blog/sonic_pi/"
     ]
   ],
   [
@@ -177,16 +157,6 @@
     [
       "Marta File Manager: Back on Track",
       "https://marta.sh/blog/back-on-track/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 18:02:12",
-      "https://news.ycombinator.com/item?id=41194431"
-    ],
-    [
-      "Do quests, not goals",
-      "https://www.raptitude.com/2024/08/do-quests-not-goals/"
     ]
   ],
   [
@@ -217,16 +187,6 @@
     [
       "Row Embedded Cache: Experimenting with a new pattern of caching",
       "https://zarar.dev/row-embedded-cache/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 13:03:22",
-      "https://news.ycombinator.com/item?id=41191069"
-    ],
-    [
-      "I got almost all of my wishes granted with RP2350",
-      "https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350"
     ]
   ],
   [
@@ -271,6 +231,36 @@
   ],
   [
     [
+      "2024-08-06, 14:25:35",
+      "https://news.ycombinator.com/item?id=41171142"
+    ],
+    [
+      "VisiCalc – The Early Days (2003)",
+      "https://benlo.com/visicalc/"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 05:04:04",
+      "https://news.ycombinator.com/item?id=41167921"
+    ],
+    [
+      "Qlot: Common Lisp Library Manager",
+      "https://github.com/fukamachi/qlot"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 16:46:47",
+      "https://news.ycombinator.com/item?id=41162989"
+    ],
+    [
+      "Breaking my hand forced me to write all my code with AI for 2 months",
+      "https://erikschluntz.com/software/2024/07/30/code-with-ai.html"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 08:10:04",
       "https://news.ycombinator.com/item?id=41159075"
     ],
@@ -287,6 +277,16 @@
     [
       "'Agua, Agua'",
       "https://www.altaonline.com/dispatches/a43145605/sonoran-desert-survival-julian-smith-pablo-valencia-bill-broyles/"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 21:44:38",
+      "https://news.ycombinator.com/item?id=41156534"
+    ],
+    [
+      "Photino: A lighter Electron",
+      "https://www.tryphotino.io/"
     ]
   ],
   [
