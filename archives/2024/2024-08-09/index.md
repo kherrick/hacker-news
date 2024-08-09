@@ -17,6 +17,7 @@
 * [2024-08-09, 11:32:43](https://news.ycombinator.com/item?id=41200825) - [What do scientists tell us about boxing's gender row?](https://www.bbc.com/news/articles/crlr8gp813ko)
 * [2024-08-09, 11:18:37](https://news.ycombinator.com/item?id=41200720) - [Show HN: I created a Next.js CLI to ship code like a hacker](https://www.nextinject.pro)
 * [2024-08-09, 11:04:05](https://news.ycombinator.com/item?id=41200645) - [Can We Hear Temperature? New Study Says Yes](https://neurosciencenews.com/sound-temperature-neuroscience-27532/)
+* [2024-08-09, 10:58:12](https://news.ycombinator.com/item?id=41200605) - [Show HN: I built Mailhub – A scalable API for sending emails with ease not tears](https://www.mailhub.sh/)
 * [2024-08-09, 09:16:34](https://news.ycombinator.com/item?id=41200142) - [Solar energy breakthrough could reduce need for solar farms](https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms)
 * [2024-08-09, 08:51:16](https://news.ycombinator.com/item?id=41200028) - [XMPP vs. Matrix](https://news.ycombinator.com/item?id=41200028)
 * [2024-08-09, 08:48:50](https://news.ycombinator.com/item?id=41200019) - [Number of incidents affecting GitHub, Bitbucket, Gitlab and Jira is rising](https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/)
