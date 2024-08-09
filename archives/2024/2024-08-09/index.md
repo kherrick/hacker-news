@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 15:27:00](https://news.ycombinator.com/item?id=41202788) - [Robocars improve traffic even when most cars around them are driven by people](https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546)
 * [2024-08-09, 14:38:45](https://news.ycombinator.com/item?id=41202300) - [Why do big digital projects in the public sector fail?](https://www.newstatesman.com/spotlight/tech-regulation/public-sector-tech/2024/07/public-sector-digital-transformation-projects-government-nhs-horizon)
 * [2024-08-09, 14:31:51](https://news.ycombinator.com/item?id=41202213) - [You're Not Indecisive, You're Unbiased](https://www.sciencealert.com/youre-not-indecisive-youre-unbiased-science-says-so)
 * [2024-08-09, 14:16:09](https://news.ycombinator.com/item?id=41202064) - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
