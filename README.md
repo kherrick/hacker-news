@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 22:52:13](https://news.ycombinator.com/item?id=41206025) - [Grace Hopper, Nvidia's Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
 * [2024-08-09, 21:33:18](https://news.ycombinator.com/item?id=41205554) - [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
 * [2024-08-09, 21:12:34](https://news.ycombinator.com/item?id=41205439) - [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
 * [2024-08-09, 21:01:00](https://news.ycombinator.com/item?id=41205372) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
@@ -15,7 +16,6 @@
 * [2024-08-09, 16:28:39](https://news.ycombinator.com/item?id=41203306) - [Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs](https://github.com/Dicklesworthstone/llm_aided_ocr)
 * [2024-08-09, 15:17:06](https://news.ycombinator.com/item?id=41202694) - [Launch HN: Roe AI (YC W24) – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 * [2024-08-09, 14:16:09](https://news.ycombinator.com/item?id=41202064) - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
-* [2024-08-09, 14:01:19](https://news.ycombinator.com/item?id=41201922) - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
 * [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
 * [2024-08-09, 10:58:12](https://news.ycombinator.com/item?id=41200605) - [Show HN: I built Mailhub – A scalable API for sending emails with ease not tears](https://www.mailhub.sh/)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)

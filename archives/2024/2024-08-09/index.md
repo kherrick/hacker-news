@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 22:52:13](https://news.ycombinator.com/item?id=41206025) - [Grace Hopper, Nvidia's Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
 * [2024-08-09, 22:46:57](https://news.ycombinator.com/item?id=41205995) - [Proxy Please: Help People Connect to Signal](https://signal.org/blog/proxy-please/)
 * [2024-08-09, 21:33:18](https://news.ycombinator.com/item?id=41205554) - [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
 * [2024-08-09, 21:12:34](https://news.ycombinator.com/item?id=41205439) - [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
