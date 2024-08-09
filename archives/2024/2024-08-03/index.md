@@ -54,6 +54,7 @@
 * [2024-08-03, 15:04:34](https://news.ycombinator.com/item?id=41146980) - [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
 * [2024-08-03, 14:45:17](https://news.ycombinator.com/item?id=41146860) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 14:28:45](https://news.ycombinator.com/item?id=41146779) - [How developers trick App Store into approving malicious apps](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
+* [2024-08-03, 14:25:33](https://news.ycombinator.com/item?id=41146766) - [Rise of the New York Tech Scene](https://newsletter.rhizomerd.com/p/rise-of-the-new-york-tech-scene)
 * [2024-08-03, 14:11:37](https://news.ycombinator.com/item?id=41146705) - [He Skipped College to Become a Repairman. He's on His Way to $175,000 a Year](https://www.wsj.com/lifestyle/careers/he-skipped-college-to-become-a-repairman-hes-on-his-way-to-175-000-a-year-a1d6f02d)
 * [2024-08-03, 14:06:30](https://news.ycombinator.com/item?id=41146687) - [64k Demoscene Intros](https://64k-scene.github.io/)
 * [2024-08-03, 13:57:49](https://news.ycombinator.com/item?id=41146642) - [To preserve their work journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)

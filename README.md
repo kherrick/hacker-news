@@ -2,12 +2,11 @@
 
 * [2024-08-09, 01:08:29](https://news.ycombinator.com/item?id=41197950) - [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
 * [2024-08-08, 23:35:16](https://news.ycombinator.com/item?id=41197514) - [IRC Will Never Die (2021)](https://hackaday.com/2021/05/22/irc-will-never-die/)
+* [2024-08-08, 22:56:57](https://news.ycombinator.com/item?id=41197277) - [Forest Service orders Arrowhead bottled water to shut down California pipeline](https://www.latimes.com/environment/story/2024-08-07/arrowhead-bottled-water-permit)
 * [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-* [2024-08-08, 21:48:48](https://news.ycombinator.com/item?id=41196689) - [The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
 * [2024-08-08, 20:40:21](https://news.ycombinator.com/item?id=41195988) - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
 * [2024-08-08, 20:21:45](https://news.ycombinator.com/item?id=41195791) - [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
 * [2024-08-08, 19:23:36](https://news.ycombinator.com/item?id=41195225) - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
-* [2024-08-08, 18:34:25](https://news.ycombinator.com/item?id=41194750) - [Molecule restores cognition, memory in Alzheimer's disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
 * [2024-08-08, 18:23:57](https://news.ycombinator.com/item?id=41194673) - [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
 * [2024-08-08, 18:02:12](https://news.ycombinator.com/item?id=41194431) - [Do quests, not goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
 * [2024-08-08, 17:24:40](https://news.ycombinator.com/item?id=41194024) - [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
@@ -30,6 +29,7 @@
 * [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
 * [2024-08-05, 11:42:03](https://news.ycombinator.com/item?id=41160292) - [Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2024-08-03, 16:15:36](https://news.ycombinator.com/item?id=41147452) - [Harmonic Function Theory](https://www.axler.net/HFT.html)
+* [2024-08-03, 14:25:33](https://news.ycombinator.com/item?id=41146766) - [Rise of the New York Tech Scene](https://newsletter.rhizomerd.com/p/rise-of-the-new-york-tech-scene)
 
 ## [Archives](archives/index.md)
 
