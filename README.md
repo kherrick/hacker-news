@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-09, 02:49:18](https://news.ycombinator.com/item?id=41198422) - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 * [2024-08-09, 01:49:22](https://news.ycombinator.com/item?id=41198151) - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
 * [2024-08-08, 23:00:21](https://news.ycombinator.com/item?id=41197300) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
@@ -20,7 +21,6 @@
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux kernel vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-07, 22:09:43](https://news.ycombinator.com/item?id=41186099) - [Can kids master the video games their parents loved?](https://www.theguardian.com/games/article/2024/aug/07/this-is-impossible-can-kids-master-the-video-games-their-parents-loved)
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
-* [2024-08-07, 19:10:54](https://news.ycombinator.com/item?id=41184359) - [NASA says Boeing Starliner astronauts may fly home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
 * [2024-08-06, 14:31:47](https://news.ycombinator.com/item?id=41171187) - [Tvision – A modern port of Turbo Vision 2.0](https://github.com/magiblot/tvision)
 * [2024-08-06, 06:35:10](https://news.ycombinator.com/item?id=41168344) - [The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
