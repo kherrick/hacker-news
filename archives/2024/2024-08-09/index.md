@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 13:29:19](https://news.ycombinator.com/item?id=41201630) - [The Rise of Neotoddlerism: how society encourages activists to act like infants](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)
 * [2024-08-09, 13:19:48](https://news.ycombinator.com/item?id=41201562) - [Boeing Starliner Could Brick ISS Docking Port If Crew Abandons It](https://jalopnik.com/boeing-starliner-could-brick-iss-docking-port-if-crew-a-1851615463)
 * [2024-08-09, 12:53:38](https://news.ycombinator.com/item?id=41201373) - [NASA inspector general gives damning assessment of Boeing's quality control](https://www.nbcnews.com/science/space/nasa-report-boeing-damning-assessments-rcna165813)
 * [2024-08-09, 11:46:48](https://news.ycombinator.com/item?id=41200914) - [The Dying Web](https://endler.dev/2024/the-dying-web/)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 13:29:19](https://news.ycombinator.com/item?id=41201630) - [The Rise of Neotoddlerism: how society encourages activists to act like infants](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)
 * [2024-08-09, 13:19:48](https://news.ycombinator.com/item?id=41201562) - [Boeing Starliner Could Brick ISS Docking Port If Crew Abandons It](https://jalopnik.com/boeing-starliner-could-brick-iss-docking-port-if-crew-a-1851615463)
 * [2024-08-09, 12:53:38](https://news.ycombinator.com/item?id=41201373) - [NASA inspector general gives damning assessment of Boeing's quality control](https://www.nbcnews.com/science/space/nasa-report-boeing-damning-assessments-rcna165813)
-* [2024-08-09, 11:32:43](https://news.ycombinator.com/item?id=41200825) - [What do scientists tell us about boxing's gender row?](https://www.bbc.com/news/articles/crlr8gp813ko)
 * [2024-08-09, 11:18:37](https://news.ycombinator.com/item?id=41200720) - [Show HN: I created a Next.js CLI to ship code like a hacker](https://www.nextinject.pro)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
