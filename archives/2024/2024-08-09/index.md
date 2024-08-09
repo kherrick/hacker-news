@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 05:50:58](https://news.ycombinator.com/item?id=41199109) - [I built a second brain tool for college students](https://ainotebook.app/)
 * [2024-08-09, 05:27:54](https://news.ycombinator.com/item?id=41199006) - [AI Pastor: Your Guide to Spiritual Growth](https://ai-pastor.com)
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-09, 02:49:18](https://news.ycombinator.com/item?id=41198422) - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
