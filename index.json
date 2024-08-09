@@ -41,26 +41,6 @@
   ],
   [
     [
-      "2024-08-09, 12:53:38",
-      "https://news.ycombinator.com/item?id=41201373"
-    ],
-    [
-      "NASA inspector general gives damning assessment of Boeing's quality control",
-      "https://www.nbcnews.com/science/space/nasa-report-boeing-damning-assessments-rcna165813"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 11:18:37",
-      "https://news.ycombinator.com/item?id=41200720"
-    ],
-    [
-      "Show HN: I created a Next.js CLI to ship code like a hacker",
-      "https://www.nextinject.pro"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 07:31:15",
       "https://news.ycombinator.com/item?id=41199567"
     ],
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-08-08, 14:46:48",
+      "https://news.ycombinator.com/item?id=41192118"
+    ],
+    [
+      "Firefox Sidebar and Vertical tabs: try them out",
+      "https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 13:55:09",
       "https://news.ycombinator.com/item?id=41191540"
     ],
@@ -187,6 +177,16 @@
     [
       "How we found and fixed an eBPF Linux kernel vulnerability",
       "https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 00:18:19",
+      "https://news.ycombinator.com/item?id=41186862"
+    ],
+    [
+      "Mouse Pong: play a game from mouse's firmware with persistence of vision cursor",
+      "https://github.com/dupontgu/pov_pong_mouse"
     ]
   ],
   [
