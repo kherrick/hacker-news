@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-09, 13:29:19](https://news.ycombinator.com/item?id=41201630) - [The Rise of Neotoddlerism: how society encourages activists to act like infants](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)
+* [2024-08-09, 14:01:19](https://news.ycombinator.com/item?id=41201922) - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
+* [2024-08-09, 13:45:20](https://news.ycombinator.com/item?id=41201783) - [What Happens When Ozempic Takes over Your Town](https://www.bloomberg.com/news/features/2024-08-07/ozempic-boom-inside-usa-s-weight-loss-drug-capital)
 * [2024-08-09, 13:19:48](https://news.ycombinator.com/item?id=41201562) - [Boeing Starliner Could Brick ISS Docking Port If Crew Abandons It](https://jalopnik.com/boeing-starliner-could-brick-iss-docking-port-if-crew-a-1851615463)
 * [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger Is Dead](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
 * [2024-08-09, 12:53:38](https://news.ycombinator.com/item?id=41201373) - [NASA inspector general gives damning assessment of Boeing's quality control](https://www.nbcnews.com/science/space/nasa-report-boeing-damning-assessments-rcna165813)
@@ -24,7 +25,6 @@
 * [2024-08-06, 06:35:10](https://news.ycombinator.com/item?id=41168344) - [The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 * [2024-08-05, 23:23:17](https://news.ycombinator.com/item?id=41166512) - [Eyechat](https://neal.fun/eyechat/)
-* [2024-08-05, 20:42:26](https://news.ycombinator.com/item?id=41165409) - [The Anatomy of Brainwashing](https://www.science.org/doi/10.1126/science.adp1705)
 * [2024-08-05, 15:22:35](https://news.ycombinator.com/item?id=41162216) - [Public Work: a search engine for public domain images](https://public.work)
 * [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
 * [2024-08-05, 11:42:03](https://news.ycombinator.com/item?id=41160292) - [Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)

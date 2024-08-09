@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 14:01:19](https://news.ycombinator.com/item?id=41201922) - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
+* [2024-08-09, 13:45:20](https://news.ycombinator.com/item?id=41201783) - [What Happens When Ozempic Takes over Your Town](https://www.bloomberg.com/news/features/2024-08-07/ozempic-boom-inside-usa-s-weight-loss-drug-capital)
 * [2024-08-09, 13:29:19](https://news.ycombinator.com/item?id=41201630) - [The Rise of Neotoddlerism: how society encourages activists to act like infants](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)
 * [2024-08-09, 13:19:48](https://news.ycombinator.com/item?id=41201562) - [Boeing Starliner Could Brick ISS Docking Port If Crew Abandons It](https://jalopnik.com/boeing-starliner-could-brick-iss-docking-port-if-crew-a-1851615463)
 * [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger Is Dead](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
