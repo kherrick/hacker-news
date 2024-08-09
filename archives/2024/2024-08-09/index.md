@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 11:04:05](https://news.ycombinator.com/item?id=41200645) - [Can We Hear Temperature? New Study Says Yes](https://neurosciencenews.com/sound-temperature-neuroscience-27532/)
 * [2024-08-09, 09:16:34](https://news.ycombinator.com/item?id=41200142) - [Solar energy breakthrough could reduce need for solar farms](https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms)
 * [2024-08-09, 08:51:16](https://news.ycombinator.com/item?id=41200028) - [XMPP vs. Matrix](https://news.ycombinator.com/item?id=41200028)
 * [2024-08-09, 08:48:50](https://news.ycombinator.com/item?id=41200019) - [Number of incidents affecting GitHub, Bitbucket, Gitlab and Jira is rising](https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/)
@@ -17,6 +18,7 @@
 * [2024-08-09, 04:24:03](https://news.ycombinator.com/item?id=41198748) - [The Complexity of Business Source License (BUSL) Transformation](https://lwn.net/SubscriberLink/984249/8b7d0d5e28d96241/)
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-09, 02:49:18](https://news.ycombinator.com/item?id=41198422) - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
+* [2024-08-09, 02:31:57](https://news.ycombinator.com/item?id=41198358) - [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java/)
 * [2024-08-09, 01:49:22](https://news.ycombinator.com/item?id=41198151) - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
 * [2024-08-09, 01:08:29](https://news.ycombinator.com/item?id=41197950) - [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
 * [2024-08-09, 00:09:25](https://news.ycombinator.com/item?id=41197681) - [The UK government has blocked IPs](https://www.police.uk/)
