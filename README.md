@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 07:13:59](https://news.ycombinator.com/item?id=41199474) - [Japan Issues First Ever Mega Earthquake Warning](https://www.nbcnews.com/news/world/japan-earthquake-tsunami-advisory-rcna165728)
 * [2024-08-09, 05:50:58](https://news.ycombinator.com/item?id=41199109) - [I built a second brain tool for college students](https://ainotebook.app/)
+* [2024-08-09, 04:24:03](https://news.ycombinator.com/item?id=41198748) - [The Complexity of Business Source License (BUSL) Transformation](https://lwn.net/SubscriberLink/984249/8b7d0d5e28d96241/)
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-09, 02:49:18](https://news.ycombinator.com/item?id=41198422) - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 * [2024-08-09, 01:49:22](https://news.ycombinator.com/item?id=41198151) - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
@@ -23,12 +25,10 @@
 * [2024-08-06, 06:35:10](https://news.ycombinator.com/item?id=41168344) - [The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 * [2024-08-05, 23:23:17](https://news.ycombinator.com/item?id=41166512) - [Eyechat](https://neal.fun/eyechat/)
-* [2024-08-05, 17:48:38](https://news.ycombinator.com/item?id=41163576) - [Show HN: Indicate new stories on HN frontpage (Bookmarklet/UserScript)](https://gist.github.com/SMUsamaShah/e7c9ed3936ba69e522f8cb38671f1da7)
 * [2024-08-05, 15:22:35](https://news.ycombinator.com/item?id=41162216) - [Public Work: a search engine for public domain images](https://public.work)
 * [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
 * [2024-08-05, 12:03:30](https://news.ycombinator.com/item?id=41160483) - [How to get to know someone (2018)](https://noorsiddiqui.com/how-to-get-to-know-someone/)
 * [2024-08-05, 11:42:03](https://news.ycombinator.com/item?id=41160292) - [Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)
-* [2024-08-04, 23:10:47](https://news.ycombinator.com/item?id=41156929) - [Visual Variables are a specified set of symbols that can be applied to data](https://infovis-wiki.net/wiki/Visual_Variables)
 * [2024-08-04, 22:04:36](https://news.ycombinator.com/item?id=41156638) - [DIY Raspberry Pi 1000 turns a Raspberry Pi 5 into a PC-in-a-keyboard](https://liliputing.com/diy-raspberry-pi-1000-turns-a-raspberry-pi-5-into-a-pc-in-a-keyboard/)
 
 ## [Archives](archives/index.md)
