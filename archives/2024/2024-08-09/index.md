@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 18:38:35](https://news.ycombinator.com/item?id=41204287) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 18:20:37](https://news.ycombinator.com/item?id=41204160) - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
 * [2024-08-09, 17:49:00](https://news.ycombinator.com/item?id=41203937) - [AI Generated Song \"Zo Zomer\" in in Dutch Top25-NL Charts](https://www.top40.nl/john-de-koning/zo-zomer-42356)
 * [2024-08-09, 17:15:57](https://news.ycombinator.com/item?id=41203691) - [Magit 4.0 Released](https://emacsair.me/2024/08/09/magit-4.0/)
