@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-09, 17:15:57](https://news.ycombinator.com/item?id=41203691) - [Magit 4.0 Released](https://emacsair.me/2024/08/09/magit-4.0/)
 * [2024-08-09, 17:00:56](https://news.ycombinator.com/item?id=41203571) - [Motion (YC W20) Is Hiring Senior Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-08-09, 16:55:14](https://news.ycombinator.com/item?id=41203509) - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
 * [2024-08-09, 16:51:36](https://news.ycombinator.com/item?id=41203484) - [Books of the world, stand up and be counted All 129,864,880 of you. (2010)](http://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html)
@@ -16,6 +15,7 @@
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-08, 23:00:21](https://news.ycombinator.com/item?id=41197300) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
 * [2024-08-08, 20:40:21](https://news.ycombinator.com/item?id=41195988) - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
+* [2024-08-08, 19:23:36](https://news.ycombinator.com/item?id=41195225) - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-08, 18:23:57](https://news.ycombinator.com/item?id=41194673) - [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
 * [2024-08-08, 18:02:12](https://news.ycombinator.com/item?id=41194431) - [Do quests, not goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
 * [2024-08-08, 17:24:40](https://news.ycombinator.com/item?id=41194024) - [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
