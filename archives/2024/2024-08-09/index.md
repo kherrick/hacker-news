@@ -9,6 +9,7 @@
 * [2024-08-09, 19:55:42](https://news.ycombinator.com/item?id=41204881) - [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice Is a Garden: Margaret Watts Hughes's Victorian Sound Visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
 * [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
+* [2024-08-09, 18:49:45](https://news.ycombinator.com/item?id=41204378) - [What the hell is a luminiferous theremin?](https://extkits.co.uk/what-the-hell-is-a-luminiferous-theremin/)
 * [2024-08-09, 18:38:35](https://news.ycombinator.com/item?id=41204287) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 18:20:37](https://news.ycombinator.com/item?id=41204160) - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
 * [2024-08-09, 17:49:00](https://news.ycombinator.com/item?id=41203937) - [AI Generated Song \"Zo Zomer\" in in Dutch Top25-NL Charts](https://www.top40.nl/john-de-koning/zo-zomer-42356)
