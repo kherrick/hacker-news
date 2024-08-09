@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 19:55:42](https://news.ycombinator.com/item?id=41204881) - [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice Is a Garden: Margaret Watts Hughes's Victorian Sound Visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
 * [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
 * [2024-08-09, 18:38:35](https://news.ycombinator.com/item?id=41204287) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)

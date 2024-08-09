@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 19:55:42](https://news.ycombinator.com/item?id=41204881) - [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice Is a Garden: Margaret Watts Hughes's Victorian Sound Visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
 * [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
-* [2024-08-09, 18:20:37](https://news.ycombinator.com/item?id=41204160) - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
 * [2024-08-09, 17:46:31](https://news.ycombinator.com/item?id=41203909) - [Perceived Age](https://suryad.com/blog/percieved-age/)
 * [2024-08-09, 17:00:56](https://news.ycombinator.com/item?id=41203571) - [Motion (YC W20) Is Hiring Senior Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-08-09, 16:55:14](https://news.ycombinator.com/item?id=41203509) - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
