@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-08-09, 11:04:05",
+      "https://news.ycombinator.com/item?id=41200645"
+    ],
+    [
+      "Can We Hear Temperature? New Study Says Yes",
+      "https://neurosciencenews.com/sound-temperature-neuroscience-27532/"
+    ]
+  ],
+  [
+    [
       "2024-08-09, 09:16:34",
       "https://news.ycombinator.com/item?id=41200142"
     ],
     [
       "Solar energy breakthrough could reduce need for solar farms",
       "https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 08:51:16",
-      "https://news.ycombinator.com/item?id=41200028"
-    ],
-    [
-      "XMPP vs. Matrix",
-      "https://news.ycombinator.com/item?id=41200028"
     ]
   ],
   [
@@ -61,12 +61,32 @@
   ],
   [
     [
+      "2024-08-09, 02:31:57",
+      "https://news.ycombinator.com/item?id=41198358"
+    ],
+    [
+      "Don't write Rust like it's Java",
+      "https://jgayfer.com/dont-write-rust-like-java/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 23:00:21",
       "https://news.ycombinator.com/item?id=41197300"
     ],
     [
       "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
       "https://www.wired.com/story/usps-scam-text-smishing-triad/"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 22:13:46",
+      "https://news.ycombinator.com/item?id=41196916"
+    ],
+    [
+      "Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms",
+      "https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS",
       "https://arxiv.org/abs/2408.01584"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 20:00:20",
-      "https://news.ycombinator.com/item?id=41195584"
-    ],
-    [
-      "Apple is America's semiconductor problem",
-      "https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "How we migrated onto K8s in less than 12 months",
       "https://www.figma.com/blog/migrating-onto-kubernetes/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 14:46:48",
-      "https://news.ycombinator.com/item?id=41192118"
-    ],
-    [
-      "Firefox Sidebar and Vertical tabs: try them out",
-      "https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/"
     ]
   ],
   [
