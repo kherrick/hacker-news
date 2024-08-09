@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 09:16:34](https://news.ycombinator.com/item?id=41200142) - [Solar energy breakthrough could reduce need for solar farms](https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms)
 * [2024-08-09, 08:51:16](https://news.ycombinator.com/item?id=41200028) - [XMPP vs. Matrix](https://news.ycombinator.com/item?id=41200028)
 * [2024-08-09, 08:48:50](https://news.ycombinator.com/item?id=41200019) - [Number of incidents affecting GitHub, Bitbucket, Gitlab and Jira is rising](https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/)
 * [2024-08-09, 07:42:51](https://news.ycombinator.com/item?id=41199627) - [Apple: Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)

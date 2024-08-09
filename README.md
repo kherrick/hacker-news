@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 09:16:34](https://news.ycombinator.com/item?id=41200142) - [Solar energy breakthrough could reduce need for solar farms](https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms)
 * [2024-08-09, 08:51:16](https://news.ycombinator.com/item?id=41200028) - [XMPP vs. Matrix](https://news.ycombinator.com/item?id=41200028)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 * [2024-08-09, 07:20:57](https://news.ycombinator.com/item?id=41199515) - [If you give Copilot the reins, don't be surprised when it spills your secrets](https://www.theregister.com/2024/08/08/copilot_black_hat_vulns/)
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-09, 02:49:18](https://news.ycombinator.com/item?id=41198422) - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 * [2024-08-08, 23:00:21](https://news.ycombinator.com/item?id=41197300) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
-* [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-08, 21:33:53](https://news.ycombinator.com/item?id=41196554) - [National Park Service Will Cite AWD Drivers for Driving on 4WD-Only Trails](https://jalopnik.com/national-park-service-will-cite-drivers-of-awd-cars-for-1851617315)
 * [2024-08-08, 20:40:21](https://news.ycombinator.com/item?id=41195988) - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
 * [2024-08-08, 20:00:20](https://news.ycombinator.com/item?id=41195584) - [Apple is America's semiconductor problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
@@ -26,8 +26,8 @@
 * [2024-08-05, 23:23:17](https://news.ycombinator.com/item?id=41166512) - [Eyechat](https://neal.fun/eyechat/)
 * [2024-08-05, 15:22:35](https://news.ycombinator.com/item?id=41162216) - [Public Work: a search engine for public domain images](https://public.work)
 * [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
-* [2024-08-05, 12:03:30](https://news.ycombinator.com/item?id=41160483) - [How to get to know someone (2018)](https://noorsiddiqui.com/how-to-get-to-know-someone/)
 * [2024-08-05, 11:42:03](https://news.ycombinator.com/item?id=41160292) - [Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)
+* [2024-08-05, 05:13:06](https://news.ycombinator.com/item?id=41158333) - ['Agua, Agua'](https://www.altaonline.com/dispatches/a43145605/sonoran-desert-survival-julian-smith-pablo-valencia-bill-broyles/)
 * [2024-08-04, 22:08:41](https://news.ycombinator.com/item?id=41156660) - [1935: Britain's First Milk Bar Opens](https://www.historytoday.com/archive/months-past/britains-first-milk-bar-opens)
 * [2024-08-04, 22:04:36](https://news.ycombinator.com/item?id=41156638) - [DIY Raspberry Pi 1000 turns a Raspberry Pi 5 into a PC-in-a-keyboard](https://liliputing.com/diy-raspberry-pi-1000-turns-a-raspberry-pi-5-into-a-pc-in-a-keyboard/)
 
