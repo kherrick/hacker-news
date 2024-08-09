@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice Is a Garden: Margaret Watts Hughes's Victorian Sound Visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
 * [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
 * [2024-08-09, 18:38:35](https://news.ycombinator.com/item?id=41204287) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 18:20:37](https://news.ycombinator.com/item?id=41204160) - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
@@ -16,6 +17,7 @@
 * [2024-08-09, 16:51:36](https://news.ycombinator.com/item?id=41203484) - [Books of the world, stand up and be counted All 129,864,880 of you. (2010)](http://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html)
 * [2024-08-09, 16:50:41](https://news.ycombinator.com/item?id=41203475) - [Show HN: Attaching to a Virtual GPU over TCP](https://www.thundercompute.com/)
 * [2024-08-09, 16:41:15](https://news.ycombinator.com/item?id=41203411) - [Africa CDC to Declare First-Ever Continental Health Emergency as Mpox Surges](https://healthpolicy-watch.news/africa-cdc-to-declare-first-ever-continental-health-emergency-as-mpox-surges/)
+* [2024-08-09, 16:36:50](https://news.ycombinator.com/item?id=41203368) - [.INTERNAL is now reserved for private-use applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [2024-08-09, 16:34:27](https://news.ycombinator.com/item?id=41203353) - [Signal messenger blocked in Russia, says Roskomnadzor](https://www.reuters.com/technology/signal-messenger-blocked-russia-says-roskomnadzor-ifax-2024-08-09/)
 * [2024-08-09, 16:31:31](https://news.ycombinator.com/item?id=41203330) - [AI-Driven Drone Surveillance Is Leading to Home Insurance Cancellations](https://scnr.com/article/ai-driven-drone-surveillance-is-leading-to-unexpected-home-insurance-cancellations_ea244cc8558f11ef9c930242ac1c0002)
 * [2024-08-09, 16:28:43](https://news.ycombinator.com/item?id=41203307) - [LangGraph Engineer](https://github.com/hwchase17/langgraph-engineer)
