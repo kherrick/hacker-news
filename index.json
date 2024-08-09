@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-09, 17:15:57",
-      "https://news.ycombinator.com/item?id=41203691"
-    ],
-    [
-      "Magit 4.0 Released",
-      "https://emacsair.me/2024/08/09/magit-4.0/"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 17:00:56",
       "https://news.ycombinator.com/item?id=41203571"
     ],
@@ -157,6 +147,16 @@
     [
       "GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS",
       "https://arxiv.org/abs/2408.01584"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 19:23:36",
+      "https://news.ycombinator.com/item?id=41195225"
+    ],
+    [
+      "Recent Performance Improvements in Function Calls in CPython",
+      "https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python"
     ]
   ],
   [
