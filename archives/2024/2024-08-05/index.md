@@ -28,6 +28,7 @@
 * [2024-08-05, 18:19:57](https://news.ycombinator.com/item?id=41163875) - [Ontario's Computer: The Burroughs ICON (2022)](https://jasoneckert.github.io/myblog/icon-computer/)
 * [2024-08-05, 17:55:41](https://news.ycombinator.com/item?id=41163645) - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
 * [2024-08-05, 17:50:58](https://news.ycombinator.com/item?id=41163602) - [Undark and the Radium Girls](https://www.damninteresting.com/undark-and-the-radium-girls/)
+* [2024-08-05, 17:48:38](https://news.ycombinator.com/item?id=41163576) - [Show HN: Indicate new stories on HN frontpage (Bookmarklet/UserScript)](https://gist.github.com/SMUsamaShah/e7c9ed3936ba69e522f8cb38671f1da7)
 * [2024-08-05, 17:47:56](https://news.ycombinator.com/item?id=41163569) - [Markets tremble over risks to US economy – AP News](https://apnews.com/article/stocks-markets-nikkei-economy-c6240977e9482bf7207abc53b2a11e58)
 * [2024-08-05, 17:46:35](https://news.ycombinator.com/item?id=41163550) - [Karpathy/Nano-Llama31](https://github.com/karpathy/nano-llama31)
 * [2024-08-05, 17:44:48](https://news.ycombinator.com/item?id=41163536) - [Apple's new Safari feature removes distracting items from websites](https://techcrunch.com/2024/08/05/apples-new-safari-feature-removes-distracting-items-from-websites/)

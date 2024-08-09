@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 01:49:22](https://news.ycombinator.com/item?id=41198151) - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
 * [2024-08-09, 01:08:29](https://news.ycombinator.com/item?id=41197950) - [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
 * [2024-08-08, 23:35:16](https://news.ycombinator.com/item?id=41197514) - [IRC Will Never Die (2021)](https://hackaday.com/2021/05/22/irc-will-never-die/)
 * [2024-08-08, 22:56:57](https://news.ycombinator.com/item?id=41197277) - [Forest Service orders Arrowhead bottled water to shut down California pipeline](https://www.latimes.com/environment/story/2024-08-07/arrowhead-bottled-water-permit)
@@ -25,11 +26,10 @@
 * [2024-08-06, 06:35:10](https://news.ycombinator.com/item?id=41168344) - [The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 * [2024-08-05, 23:23:17](https://news.ycombinator.com/item?id=41166512) - [Eyechat](https://neal.fun/eyechat/)
+* [2024-08-05, 17:48:38](https://news.ycombinator.com/item?id=41163576) - [Show HN: Indicate new stories on HN frontpage (Bookmarklet/UserScript)](https://gist.github.com/SMUsamaShah/e7c9ed3936ba69e522f8cb38671f1da7)
 * [2024-08-05, 15:22:35](https://news.ycombinator.com/item?id=41162216) - [Public Work: a search engine for public domain images](https://public.work)
 * [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
 * [2024-08-05, 11:42:03](https://news.ycombinator.com/item?id=41160292) - [Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)
-* [2024-08-03, 16:15:36](https://news.ycombinator.com/item?id=41147452) - [Harmonic Function Theory](https://www.axler.net/HFT.html)
-* [2024-08-03, 14:25:33](https://news.ycombinator.com/item?id=41146766) - [Rise of the New York Tech Scene](https://newsletter.rhizomerd.com/p/rise-of-the-new-york-tech-scene)
 
 ## [Archives](archives/index.md)
 
