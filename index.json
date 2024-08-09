@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-09, 11:04:05",
-      "https://news.ycombinator.com/item?id=41200645"
+      "2024-08-09, 11:32:43",
+      "https://news.ycombinator.com/item?id=41200825"
     ],
     [
-      "Can We Hear Temperature? New Study Says Yes",
-      "https://neurosciencenews.com/sound-temperature-neuroscience-27532/"
+      "What do scientists tell us about boxing's gender row?",
+      "https://www.bbc.com/news/articles/crlr8gp813ko"
+    ]
+  ],
+  [
+    [
+      "2024-08-09, 11:18:37",
+      "https://news.ycombinator.com/item?id=41200720"
+    ],
+    [
+      "Show HN: I created a Next.js CLI to ship code like a hacker",
+      "https://www.nextinject.pro"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2024-08-08, 07:40:20",
-      "https://news.ycombinator.com/item?id=41189056"
-    ],
-    [
-      "Show HN: I built interactive map of active and decommissioned nuclear stations",
-      "https://nuclearstations.com/map"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 00:18:19",
       "https://news.ycombinator.com/item?id=41186862"
     ],
     [
       "Mouse Pong: play a game from mouse's firmware with persistence of vision cursor",
       "https://github.com/dupontgu/pov_pong_mouse"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 22:09:43",
-      "https://news.ycombinator.com/item?id=41186099"
-    ],
-    [
-      "Can kids master the video games their parents loved?",
-      "https://www.theguardian.com/games/article/2024/aug/07/this-is-impossible-can-kids-master-the-video-games-their-parents-loved"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Maximal min() and max()",
       "https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 06:40:53",
+      "https://news.ycombinator.com/item?id=41168372"
+    ],
+    [
+      "State Monad for the Rest of Us",
+      "https://arialdomartini.github.io/state-monad-for-the-rest-of-us"
     ]
   ],
   [
