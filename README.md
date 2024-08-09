@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-09, 15:27:00](https://news.ycombinator.com/item?id=41202788) - [Robocars improve traffic even when most cars around them are driven by people](https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546)
+* [2024-08-09, 15:17:06](https://news.ycombinator.com/item?id=41202694) - [Launch HN: Roe.ai (YC W24) – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 * [2024-08-09, 14:16:09](https://news.ycombinator.com/item?id=41202064) - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
 * [2024-08-09, 14:01:19](https://news.ycombinator.com/item?id=41201922) - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
 * [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
