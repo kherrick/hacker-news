@@ -2,7 +2,6 @@
 
 * [2024-08-09, 01:49:22](https://news.ycombinator.com/item?id=41198151) - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
 * [2024-08-09, 01:08:29](https://news.ycombinator.com/item?id=41197950) - [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
-* [2024-08-08, 23:35:16](https://news.ycombinator.com/item?id=41197514) - [IRC Will Never Die (2021)](https://hackaday.com/2021/05/22/irc-will-never-die/)
 * [2024-08-08, 23:00:21](https://news.ycombinator.com/item?id=41197300) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
 * [2024-08-08, 22:56:57](https://news.ycombinator.com/item?id=41197277) - [Forest Service orders Arrowhead bottled water to shut down California pipeline](https://www.latimes.com/environment/story/2024-08-07/arrowhead-bottled-water-permit)
 * [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
@@ -22,6 +21,7 @@
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
 * [2024-08-07, 21:47:52](https://news.ycombinator.com/item?id=41185937) - [Thoughts on Canonical S-Expressions (2019)](https://write.emacsen.net/thoughts-on-canonical-s-expressions)
 * [2024-08-07, 16:26:34](https://news.ycombinator.com/item?id=41182917) - [Maximal min() and max()](https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/)
+* [2024-08-06, 14:31:47](https://news.ycombinator.com/item?id=41171187) - [Tvision – A modern port of Turbo Vision 2.0](https://github.com/magiblot/tvision)
 * [2024-08-06, 08:23:01](https://news.ycombinator.com/item?id=41168814) - [Scheduling Model in LLVM – Part I](https://myhsu.xyz/llvm-sched-model-1/)
 * [2024-08-06, 06:35:10](https://news.ycombinator.com/item?id=41168344) - [The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
