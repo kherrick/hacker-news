@@ -28,7 +28,7 @@
 * [2024-08-05, 13:43:40](https://news.ycombinator.com/item?id=41161315) - [Ask HN: Should we bring software dev in-house?](https://news.ycombinator.com/item?id=41161315)
 * [2024-08-05, 12:03:30](https://news.ycombinator.com/item?id=41160483) - [How to get to know someone (2018)](https://noorsiddiqui.com/how-to-get-to-know-someone/)
 * [2024-08-05, 11:42:03](https://news.ycombinator.com/item?id=41160292) - [Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)
-* [2024-08-05, 06:52:41](https://news.ycombinator.com/item?id=41158699) - [Ask HN: Changing my mind about JavaScript](https://news.ycombinator.com/item?id=41158699)
+* [2024-08-04, 22:08:41](https://news.ycombinator.com/item?id=41156660) - [1935: Britain's First Milk Bar Opens](https://www.historytoday.com/archive/months-past/britains-first-milk-bar-opens)
 * [2024-08-04, 22:04:36](https://news.ycombinator.com/item?id=41156638) - [DIY Raspberry Pi 1000 turns a Raspberry Pi 5 into a PC-in-a-keyboard](https://liliputing.com/diy-raspberry-pi-1000-turns-a-raspberry-pi-5-into-a-pc-in-a-keyboard/)
 
 ## [Archives](archives/index.md)

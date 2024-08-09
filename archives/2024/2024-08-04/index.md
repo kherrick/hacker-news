@@ -9,6 +9,7 @@
 * [2024-08-04, 22:56:22](https://news.ycombinator.com/item?id=41156872) - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
 * [2024-08-04, 22:42:39](https://news.ycombinator.com/item?id=41156793) - [Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
 * [2024-08-04, 22:21:34](https://news.ycombinator.com/item?id=41156716) - [Myspace celebrates its 21st birthday. Do we still need it?](https://triblive.com/business/technology/myspace-celebrates-its-21st-birthday-do-we-still-need-it/)
+* [2024-08-04, 22:08:41](https://news.ycombinator.com/item?id=41156660) - [1935: Britain's First Milk Bar Opens](https://www.historytoday.com/archive/months-past/britains-first-milk-bar-opens)
 * [2024-08-04, 22:04:36](https://news.ycombinator.com/item?id=41156638) - [DIY Raspberry Pi 1000 turns a Raspberry Pi 5 into a PC-in-a-keyboard](https://liliputing.com/diy-raspberry-pi-1000-turns-a-raspberry-pi-5-into-a-pc-in-a-keyboard/)
 * [2024-08-04, 21:51:58](https://news.ycombinator.com/item?id=41156568) - [Zero regrets: Firefox power user kept 7,500 tabs open for two years](https://www.techspot.com/news/102871-zero-regrets-firefox-power-user-kept-7500-tabs.html)
 * [2024-08-04, 21:38:23](https://news.ycombinator.com/item?id=41156514) - [Nvidia's Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
