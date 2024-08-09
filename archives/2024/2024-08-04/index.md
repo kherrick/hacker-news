@@ -12,6 +12,7 @@
 * [2024-08-04, 22:08:41](https://news.ycombinator.com/item?id=41156660) - [1935: Britain's First Milk Bar Opens](https://www.historytoday.com/archive/months-past/britains-first-milk-bar-opens)
 * [2024-08-04, 22:04:36](https://news.ycombinator.com/item?id=41156638) - [DIY Raspberry Pi 1000 turns a Raspberry Pi 5 into a PC-in-a-keyboard](https://liliputing.com/diy-raspberry-pi-1000-turns-a-raspberry-pi-5-into-a-pc-in-a-keyboard/)
 * [2024-08-04, 21:51:58](https://news.ycombinator.com/item?id=41156568) - [Zero regrets: Firefox power user kept 7,500 tabs open for two years](https://www.techspot.com/news/102871-zero-regrets-firefox-power-user-kept-7500-tabs.html)
+* [2024-08-04, 21:44:38](https://news.ycombinator.com/item?id=41156534) - [Photino: A lighter Electron](https://www.tryphotino.io/)
 * [2024-08-04, 21:38:23](https://news.ycombinator.com/item?id=41156514) - [Nvidia's Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
 * [2024-08-04, 21:36:29](https://news.ycombinator.com/item?id=41156506) - [The Path to StyleGan2 – Implementing the Progressive Growing GAN](https://ym2132.github.io/Progressive_GAN)
 * [2024-08-04, 21:31:03](https://news.ycombinator.com/item?id=41156478) - [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)

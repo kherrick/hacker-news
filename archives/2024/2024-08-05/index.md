@@ -41,6 +41,7 @@
 * [2024-08-05, 17:00:02](https://news.ycombinator.com/item?id=41163124) - [Infisical (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
 * [2024-08-05, 16:55:52](https://news.ycombinator.com/item?id=41163083) - [C++'s `Noexcept` Can (Sometimes) Help (Or Hurt) Performance](https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/)
 * [2024-08-05, 16:49:24](https://news.ycombinator.com/item?id=41163022) - [CVE-2024-40798 – an app may be able to read Safari's browsing history](https://nvd.nist.gov/vuln/detail/CVE-2024-40798)
+* [2024-08-05, 16:46:47](https://news.ycombinator.com/item?id=41162989) - [Breaking my hand forced me to write all my code with AI for 2 months](https://erikschluntz.com/software/2024/07/30/code-with-ai.html)
 * [2024-08-05, 16:38:54](https://news.ycombinator.com/item?id=41162916) - [Jeff Bezos' family office is making big investments in AI](https://www.cnbc.com/2024/08/02/jeff-bezos-investing-big-in-ai-through-his-family-office.html)
 * [2024-08-05, 16:34:20](https://news.ycombinator.com/item?id=41162875) - [Groq Raises $640M to Meet Soaring Demand for Fast AI Inference](https://wow.groq.com/news_press/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference/)
 * [2024-08-05, 16:29:18](https://news.ycombinator.com/item?id=41162827) - [Associative tools, thinking, and creativity: On augmenting creativity](https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity)
