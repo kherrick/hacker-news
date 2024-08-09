@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-08-08, 21:33:53",
+      "https://news.ycombinator.com/item?id=41196554"
+    ],
+    [
+      "National Park Service Will Cite AWD Drivers for Driving on 4WD-Only Trails",
+      "https://jalopnik.com/national-park-service-will-cite-drivers-of-awd-cars-for-1851617315"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 20:40:21",
       "https://news.ycombinator.com/item?id=41195988"
     ],
@@ -71,12 +81,32 @@
   ],
   [
     [
+      "2024-08-08, 20:00:20",
+      "https://news.ycombinator.com/item?id=41195584"
+    ],
+    [
+      "Apple is America's semiconductor problem",
+      "https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 19:23:36",
       "https://news.ycombinator.com/item?id=41195225"
     ],
     [
       "Recent Performance Improvements in Function Calls in CPython",
       "https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 19:11:49",
+      "https://news.ycombinator.com/item?id=41195124"
+    ],
+    [
+      "Intel's Immiseration",
+      "https://thechipletter.substack.com/p/intels-immiseration"
     ]
   ],
   [
@@ -171,12 +201,12 @@
   ],
   [
     [
-      "2024-08-08, 00:18:19",
-      "https://news.ycombinator.com/item?id=41186862"
+      "2024-08-07, 22:09:43",
+      "https://news.ycombinator.com/item?id=41186099"
     ],
     [
-      "Mouse Pong: play a game from mouse's firmware with persistence of vision cursor",
-      "https://github.com/dupontgu/pov_pong_mouse"
+      "Can kids master the video games their parents loved?",
+      "https://www.theguardian.com/games/article/2024/aug/07/this-is-impossible-can-kids-master-the-video-games-their-parents-loved"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2024-08-07, 21:47:52",
-      "https://news.ycombinator.com/item?id=41185937"
-    ],
-    [
-      "Thoughts on Canonical S-Expressions (2019)",
-      "https://write.emacsen.net/thoughts-on-canonical-s-expressions"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 16:26:34",
-      "https://news.ycombinator.com/item?id=41182917"
-    ],
-    [
-      "Maximal min() and max()",
-      "https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/"
-    ]
-  ],
-  [
-    [
       "2024-08-06, 14:31:47",
       "https://news.ycombinator.com/item?id=41171187"
     ],
     [
       "Tvision – A modern port of Turbo Vision 2.0",
       "https://github.com/magiblot/tvision"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 08:23:01",
-      "https://news.ycombinator.com/item?id=41168814"
-    ],
-    [
-      "Scheduling Model in LLVM – Part I",
-      "https://myhsu.xyz/llvm-sched-model-1/"
     ]
   ],
   [
