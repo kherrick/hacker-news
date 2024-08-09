@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-09, 14:31:51",
+      "https://news.ycombinator.com/item?id=41202213"
+    ],
+    [
+      "You're Not Indecisive, You're Unbiased",
+      "https://www.sciencealert.com/youre-not-indecisive-youre-unbiased-science-says-so"
+    ]
+  ],
+  [
+    [
+      "2024-08-09, 14:16:09",
+      "https://news.ycombinator.com/item?id=41202064"
+    ],
+    [
+      "Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI",
+      "https://github.com/TrafficGuard/nous"
+    ]
+  ],
+  [
+    [
       "2024-08-09, 14:01:19",
       "https://news.ycombinator.com/item?id=41201922"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-08-08, 14:46:48",
-      "https://news.ycombinator.com/item?id=41192118"
-    ],
-    [
-      "Firefox Sidebar and Vertical tabs: try them out",
-      "https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 13:55:09",
       "https://news.ycombinator.com/item?id=41191540"
     ],
@@ -167,16 +177,6 @@
     [
       "How we found and fixed an eBPF Linux kernel vulnerability",
       "https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 00:18:19",
-      "https://news.ycombinator.com/item?id=41186862"
-    ],
-    [
-      "Mouse Pong: play a game from mouse's firmware with persistence of vision cursor",
-      "https://github.com/dupontgu/pov_pong_mouse"
     ]
   ],
   [
