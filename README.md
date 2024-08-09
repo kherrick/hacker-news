@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 14:38:45](https://news.ycombinator.com/item?id=41202300) - [Why do big digital projects in the public sector fail?](https://www.newstatesman.com/spotlight/tech-regulation/public-sector-tech/2024/07/public-sector-digital-transformation-projects-government-nhs-horizon)
 * [2024-08-09, 14:04:31](https://news.ycombinator.com/item?id=41201944) - [Bootstrap post-collapse OOP technology (Part 1)](https://marianoguerra.org/posts/bootstrap-post-collapse-oop-technology-part-1/)
 * [2024-08-09, 14:01:19](https://news.ycombinator.com/item?id=41201922) - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
-* [2024-08-09, 13:19:48](https://news.ycombinator.com/item?id=41201562) - [Boeing Starliner could brick ISS docking port if crew abandons it](https://jalopnik.com/boeing-starliner-could-brick-iss-docking-port-if-crew-a-1851615463)
 * [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)

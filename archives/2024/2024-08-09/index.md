@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 14:38:45](https://news.ycombinator.com/item?id=41202300) - [Why do big digital projects in the public sector fail?](https://www.newstatesman.com/spotlight/tech-regulation/public-sector-tech/2024/07/public-sector-digital-transformation-projects-government-nhs-horizon)
 * [2024-08-09, 14:04:31](https://news.ycombinator.com/item?id=41201944) - [Bootstrap post-collapse OOP technology (Part 1)](https://marianoguerra.org/posts/bootstrap-post-collapse-oop-technology-part-1/)
 * [2024-08-09, 14:01:19](https://news.ycombinator.com/item?id=41201922) - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
 * [2024-08-09, 13:45:20](https://news.ycombinator.com/item?id=41201783) - [What Happens When Ozempic Takes over Your Town](https://www.bloomberg.com/news/features/2024-08-07/ozempic-boom-inside-usa-s-weight-loss-drug-capital)
