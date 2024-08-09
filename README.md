@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-09, 01:49:22](https://news.ycombinator.com/item?id=41198151) - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
-* [2024-08-09, 01:08:29](https://news.ycombinator.com/item?id=41197950) - [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
 * [2024-08-08, 23:00:21](https://news.ycombinator.com/item?id=41197300) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
 * [2024-08-08, 22:56:57](https://news.ycombinator.com/item?id=41197277) - [Forest Service orders Arrowhead bottled water to shut down California pipeline](https://www.latimes.com/environment/story/2024-08-07/arrowhead-bottled-water-permit)
 * [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
@@ -20,6 +19,7 @@
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux kernel vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-08, 06:30:59](https://news.ycombinator.com/item?id=41188676) - [Ergodic Literature](https://weirdnovels.com/articles/what-is-ergodic-literature/)
+* [2024-08-08, 00:18:19](https://news.ycombinator.com/item?id=41186862) - [Mouse Pong: play a game from mouse's firmware with persistence of vision cursor](https://github.com/dupontgu/pov_pong_mouse)
 * [2024-08-07, 22:09:43](https://news.ycombinator.com/item?id=41186099) - [Can kids master the video games their parents loved?](https://www.theguardian.com/games/article/2024/aug/07/this-is-impossible-can-kids-master-the-video-games-their-parents-loved)
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
 * [2024-08-06, 14:31:47](https://news.ycombinator.com/item?id=41171187) - [Tvision – A modern port of Turbo Vision 2.0](https://github.com/magiblot/tvision)
