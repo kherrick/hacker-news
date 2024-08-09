@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 17:49:00](https://news.ycombinator.com/item?id=41203937) - [AI Generated Song \"Zo Zomer\" in in Dutch Top25-NL Charts](https://www.top40.nl/john-de-koning/zo-zomer-42356)
 * [2024-08-09, 17:15:57](https://news.ycombinator.com/item?id=41203691) - [Magit 4.0 Released](https://emacsair.me/2024/08/09/magit-4.0/)
 * [2024-08-09, 17:00:56](https://news.ycombinator.com/item?id=41203571) - [Motion (YC W20) Is Hiring Senior Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-08-09, 16:55:14](https://news.ycombinator.com/item?id=41203509) - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
 * [2024-08-09, 16:51:36](https://news.ycombinator.com/item?id=41203484) - [Books of the world, stand up and be counted All 129,864,880 of you. (2010)](http://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html)
 * [2024-08-09, 16:50:41](https://news.ycombinator.com/item?id=41203475) - [Show HN: Attaching to a Virtual GPU over TCP](https://www.thundercompute.com/)
 * [2024-08-09, 16:41:15](https://news.ycombinator.com/item?id=41203411) - [Africa CDC to Declare First-Ever Continental Health Emergency as Mpox Surges](https://healthpolicy-watch.news/africa-cdc-to-declare-first-ever-continental-health-emergency-as-mpox-surges/)
+* [2024-08-09, 16:34:27](https://news.ycombinator.com/item?id=41203353) - [Signal messenger blocked in Russia, says Roskomnadzor](https://www.reuters.com/technology/signal-messenger-blocked-russia-says-roskomnadzor-ifax-2024-08-09/)
 * [2024-08-09, 16:31:31](https://news.ycombinator.com/item?id=41203330) - [AI-Driven Drone Surveillance Is Leading to Home Insurance Cancellations](https://scnr.com/article/ai-driven-drone-surveillance-is-leading-to-unexpected-home-insurance-cancellations_ea244cc8558f11ef9c930242ac1c0002)
 * [2024-08-09, 16:28:43](https://news.ycombinator.com/item?id=41203307) - [LangGraph Engineer](https://github.com/hwchase17/langgraph-engineer)
 * [2024-08-09, 16:28:39](https://news.ycombinator.com/item?id=41203306) - [Show HN: LLM Aided OCR (Correcting Tesseract OCR Errors with LLMs)](https://github.com/Dicklesworthstone/llm_aided_ocr)
