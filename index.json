@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-09, 14:31:51",
-      "https://news.ycombinator.com/item?id=41202213"
+      "2024-08-09, 15:27:00",
+      "https://news.ycombinator.com/item?id=41202788"
     ],
     [
-      "You're Not Indecisive, You're Unbiased",
-      "https://www.sciencealert.com/youre-not-indecisive-youre-unbiased-science-says-so"
+      "Robocars improve traffic even when most cars around them are driven by people",
+      "https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-08-08, 14:46:48",
+      "https://news.ycombinator.com/item?id=41192118"
+    ],
+    [
+      "Firefox Sidebar and Vertical tabs: try them out",
+      "https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 13:55:09",
       "https://news.ycombinator.com/item?id=41191540"
     ],
@@ -197,16 +207,6 @@
     [
       "Maximal min() and max()",
       "https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 06:40:53",
-      "https://news.ycombinator.com/item?id=41168372"
-    ],
-    [
-      "State Monad for the Rest of Us",
-      "https://arialdomartini.github.io/state-monad-for-the-rest-of-us"
     ]
   ],
   [
