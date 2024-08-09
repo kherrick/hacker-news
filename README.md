@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 08:51:16](https://news.ycombinator.com/item?id=41200028) - [XMPP vs. Matrix](https://news.ycombinator.com/item?id=41200028)
 * [2024-08-09, 08:48:50](https://news.ycombinator.com/item?id=41200019) - [Number of incidents affecting GitHub, Bitbucket, Gitlab and Jira is rising](https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 * [2024-08-09, 07:20:57](https://news.ycombinator.com/item?id=41199515) - [If you give Copilot the reins, don't be surprised when it spills your secrets](https://www.theregister.com/2024/08/08/copilot_black_hat_vulns/)
@@ -9,7 +10,6 @@
 * [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-08, 21:33:53](https://news.ycombinator.com/item?id=41196554) - [National Park Service Will Cite AWD Drivers for Driving on 4WD-Only Trails](https://jalopnik.com/national-park-service-will-cite-drivers-of-awd-cars-for-1851617315)
 * [2024-08-08, 20:40:21](https://news.ycombinator.com/item?id=41195988) - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
-* [2024-08-08, 20:00:20](https://news.ycombinator.com/item?id=41195584) - [Apple is America's semiconductor problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
 * [2024-08-08, 19:23:36](https://news.ycombinator.com/item?id=41195225) - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-08, 19:11:49](https://news.ycombinator.com/item?id=41195124) - [Intel's Immiseration](https://thechipletter.substack.com/p/intels-immiseration)
 * [2024-08-08, 18:23:57](https://news.ycombinator.com/item?id=41194673) - [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
