@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 08:48:50](https://news.ycombinator.com/item?id=41200019) - [Number of incidents affecting GitHub, Bitbucket, Gitlab and Jira is rising](https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/)
 * [2024-08-09, 07:42:51](https://news.ycombinator.com/item?id=41199627) - [Apple: Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 * [2024-08-09, 07:20:57](https://news.ycombinator.com/item?id=41199515) - [If you give Copilot the reins, don't be surprised when it spills your secrets](https://www.theregister.com/2024/08/08/copilot_black_hat_vulns/)
