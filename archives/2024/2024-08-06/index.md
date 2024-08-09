@@ -39,6 +39,7 @@
 * [2024-08-06, 17:56:37](https://news.ycombinator.com/item?id=41173377) - [The Actual Wolf of Wallstreet Cold Call Script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
 * [2024-08-06, 17:52:51](https://news.ycombinator.com/item?id=41173335) - [Tracking Supermarket Prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
 * [2024-08-06, 17:52:32](https://news.ycombinator.com/item?id=41173330) - [Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard](https://news.ycombinator.com/item?id=41173330)
+* [2024-08-06, 17:51:29](https://news.ycombinator.com/item?id=41173321) - [Debugging running Python scripts with PDB via GDB](https://disconnect3d.pl//2024/08/04/debugging-cpython-live/)
 * [2024-08-06, 17:48:11](https://news.ycombinator.com/item?id=41173288) - [What Postgres Full Text Search Is Missing](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 * [2024-08-06, 17:45:09](https://news.ycombinator.com/item?id=41173261) - [Time is an illusion, and these physicists say they know how it works [video]](https://www.youtube.com/watch?v=uYOF-YggWAg)
 * [2024-08-06, 17:45:09](https://news.ycombinator.com/item?id=41173261) - [Time Is an Illusion, and These Physicists Say They Know How It Works](http://backreaction.blogspot.com/2024/08/time-is-illusion-and-these-physicists.html)
