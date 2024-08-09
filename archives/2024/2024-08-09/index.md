@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 22:46:57](https://news.ycombinator.com/item?id=41205995) - [Proxy Please: Help People Connect to Signal](https://signal.org/blog/proxy-please/)
 * [2024-08-09, 21:33:18](https://news.ycombinator.com/item?id=41205554) - [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
 * [2024-08-09, 21:12:34](https://news.ycombinator.com/item?id=41205439) - [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
 * [2024-08-09, 21:01:00](https://news.ycombinator.com/item?id=41205372) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)

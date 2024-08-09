@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 22:46:57](https://news.ycombinator.com/item?id=41205995) - [Proxy Please: Help People Connect to Signal](https://signal.org/blog/proxy-please/)
 * [2024-08-09, 21:33:18](https://news.ycombinator.com/item?id=41205554) - [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
 * [2024-08-09, 21:12:34](https://news.ycombinator.com/item?id=41205439) - [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
 * [2024-08-09, 21:01:00](https://news.ycombinator.com/item?id=41205372) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
@@ -7,7 +8,6 @@
 * [2024-08-09, 20:32:11](https://news.ycombinator.com/item?id=41205176) - [Urchin Software Corp: The unlikely origin story of Google Analytics, 1996–2005](https://urchin.biz/urchin-software-corp-89a1f5292999)
 * [2024-08-09, 19:55:42](https://news.ycombinator.com/item?id=41204881) - [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice is a garden: Margaret Watts Hughes's Victorian sound visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
-* [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
 * [2024-08-09, 18:49:45](https://news.ycombinator.com/item?id=41204378) - [What the hell is a luminiferous theremin?](https://extkits.co.uk/what-the-hell-is-a-luminiferous-theremin/)
 * [2024-08-09, 16:55:14](https://news.ycombinator.com/item?id=41203509) - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
 * [2024-08-09, 16:50:41](https://news.ycombinator.com/item?id=41203475) - [Show HN: Attaching to a virtual GPU over TCP](https://www.thundercompute.com/)
