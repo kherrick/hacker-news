@@ -36,6 +36,7 @@
 * [2024-08-04, 17:49:08](https://news.ycombinator.com/item?id=41155177) - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 * [2024-08-04, 17:47:18](https://news.ycombinator.com/item?id=41155164) - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
 * [2024-08-04, 17:25:09](https://news.ycombinator.com/item?id=41155021) - [What Is Analog Computing?](https://www.quantamagazine.org/what-is-analog-computing-20240802/)
+* [2024-08-04, 17:10:23](https://news.ycombinator.com/item?id=41154895) - [Jerk](https://ivanish.ca/jerk/)
 * [2024-08-04, 17:03:45](https://news.ycombinator.com/item?id=41154839) - [Tech CEOs are backtrack on RTO mandates–now, 3% want workers in office full-time](https://fortune.com/2024/08/02/tech-ceos-return-to-office-mandate/)
 * [2024-08-04, 17:01:59](https://news.ycombinator.com/item?id=41154826) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-08-04, 16:39:30](https://news.ycombinator.com/item?id=41154650) - [The Internet Is Broken: Idealistic Ideas for Building a GNU Network [pdf] (2014)](https://www.w3.org/2014/strint/papers/65.pdf)

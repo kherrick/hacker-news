@@ -21,7 +21,6 @@
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux kernel vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
-* [2024-08-07, 16:26:34](https://news.ycombinator.com/item?id=41182917) - [Maximal min() and max()](https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/)
 * [2024-08-06, 06:35:10](https://news.ycombinator.com/item?id=41168344) - [The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
 * [2024-08-06, 04:58:59](https://news.ycombinator.com/item?id=41167899) - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 * [2024-08-05, 23:23:17](https://news.ycombinator.com/item?id=41166512) - [Eyechat](https://neal.fun/eyechat/)
@@ -30,6 +29,7 @@
 * [2024-08-05, 08:10:04](https://news.ycombinator.com/item?id=41159075) - [Harder Drive: Hard drives we didn't want or need (2022) [pdf]](http://tom7.org/papers/murphy2022harder.pdf)
 * [2024-08-05, 05:13:06](https://news.ycombinator.com/item?id=41158333) - ['Agua, Agua'](https://www.altaonline.com/dispatches/a43145605/sonoran-desert-survival-julian-smith-pablo-valencia-bill-broyles/)
 * [2024-08-04, 22:08:41](https://news.ycombinator.com/item?id=41156660) - [1935: Britain's First Milk Bar Opens](https://www.historytoday.com/archive/months-past/britains-first-milk-bar-opens)
+* [2024-08-04, 17:10:23](https://news.ycombinator.com/item?id=41154895) - [Jerk](https://ivanish.ca/jerk/)
 
 ## [Archives](archives/index.md)
 
