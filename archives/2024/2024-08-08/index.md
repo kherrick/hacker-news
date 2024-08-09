@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
 * [2024-08-08, 23:35:16](https://news.ycombinator.com/item?id=41197514) - [IRC Will Never Die](https://hackaday.com/2021/05/22/irc-will-never-die/)
+* [2024-08-08, 23:00:21](https://news.ycombinator.com/item?id=41197300) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
 * [2024-08-08, 22:56:57](https://news.ycombinator.com/item?id=41197277) - [Forest Service orders Arrowhead bottled water to shut down California pipeline](https://www.latimes.com/environment/story/2024-08-07/arrowhead-bottled-water-permit)
 * [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-08, 21:48:48](https://news.ycombinator.com/item?id=41196689) - [The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
