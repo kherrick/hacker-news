@@ -2,6 +2,7 @@
 
 * [2024-08-09, 13:29:19](https://news.ycombinator.com/item?id=41201630) - [The Rise of Neotoddlerism: how society encourages activists to act like infants](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)
 * [2024-08-09, 13:19:48](https://news.ycombinator.com/item?id=41201562) - [Boeing Starliner Could Brick ISS Docking Port If Crew Abandons It](https://jalopnik.com/boeing-starliner-could-brick-iss-docking-port-if-crew-a-1851615463)
+* [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger Is Dead](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
 * [2024-08-09, 12:53:38](https://news.ycombinator.com/item?id=41201373) - [NASA inspector general gives damning assessment of Boeing's quality control](https://www.nbcnews.com/science/space/nasa-report-boeing-damning-assessments-rcna165813)
 * [2024-08-09, 11:18:37](https://news.ycombinator.com/item?id=41200720) - [Show HN: I created a Next.js CLI to ship code like a hacker](https://www.nextinject.pro)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
@@ -14,7 +15,6 @@
 * [2024-08-08, 18:02:12](https://news.ycombinator.com/item?id=41194431) - [Do quests, not goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
 * [2024-08-08, 17:24:40](https://news.ycombinator.com/item?id=41194024) - [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
 * [2024-08-08, 16:07:54](https://news.ycombinator.com/item?id=41193045) - [How we migrated onto K8s in less than 12 months](https://www.figma.com/blog/migrating-onto-kubernetes/)
-* [2024-08-08, 14:46:48](https://news.ycombinator.com/item?id=41192118) - [Firefox Sidebar and Vertical tabs: try them out](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
 * [2024-08-08, 13:55:09](https://news.ycombinator.com/item?id=41191540) - [How long does music stardom last? A statistical analysis](https://www.statsignificant.com/p/how-long-does-music-stardom-last)
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux kernel vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
