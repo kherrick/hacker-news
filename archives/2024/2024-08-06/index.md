@@ -82,6 +82,7 @@
 * [2024-08-06, 11:05:03](https://news.ycombinator.com/item?id=41169642) - [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
 * [2024-08-06, 10:56:30](https://news.ycombinator.com/item?id=41169611) - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
 * [2024-08-06, 10:43:47](https://news.ycombinator.com/item?id=41169538) - [Big Macs and the Cost of Living Crisis](https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654)
+* [2024-08-06, 10:23:20](https://news.ycombinator.com/item?id=41169437) - [TR1X: Open-source re-implementation of Tomb Raider 1](https://github.com/LostArtefacts/TR1X)
 * [2024-08-06, 10:19:47](https://news.ycombinator.com/item?id=41169407) - [Minds are 'not currency for social media,' says EU as TikTok kills Lite Rewards](https://thenextweb.com/news/tiktok-kills-lite-rewards-eu)
 * [2024-08-06, 09:54:31](https://news.ycombinator.com/item?id=41169244) - [Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
 * [2024-08-06, 09:47:17](https://news.ycombinator.com/item?id=41169195) - [WordStar 7, the last ever DOS version, is re-released for free](https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/)
