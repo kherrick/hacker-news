@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 23:35:16](https://news.ycombinator.com/item?id=41197514) - [IRC Will Never Die](https://hackaday.com/2021/05/22/irc-will-never-die/)
 * [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-08, 21:48:48](https://news.ycombinator.com/item?id=41196689) - [The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
 * [2024-08-08, 21:47:21](https://news.ycombinator.com/item?id=41196669) - [The Outrageous Rise of Neotoddlerism](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)
