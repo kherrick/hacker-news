@@ -6,6 +6,7 @@
 
 * [2024-08-09, 21:12:34](https://news.ycombinator.com/item?id=41205439) - [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
 * [2024-08-09, 21:01:00](https://news.ycombinator.com/item?id=41205372) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-08-09, 20:58:40](https://news.ycombinator.com/item?id=41205358) - [23-Floor Manhattan Office Building Just Sold at a 97.5% Discount](https://www.nytimes.com/2024/08/01/nyregion/manhattan-office-building-auction.html)
 * [2024-08-09, 20:32:11](https://news.ycombinator.com/item?id=41205176) - [Urchin Software Corp: The unlikely origin story of Google Analytics, 1996–2005](https://urchin.biz/urchin-software-corp-89a1f5292999)
 * [2024-08-09, 19:55:42](https://news.ycombinator.com/item?id=41204881) - [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice Is a Garden: Margaret Watts Hughes's Victorian Sound Visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
