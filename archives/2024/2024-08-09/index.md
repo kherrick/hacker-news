@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
 * [2024-08-09, 18:38:35](https://news.ycombinator.com/item?id=41204287) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 18:20:37](https://news.ycombinator.com/item?id=41204160) - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
 * [2024-08-09, 17:49:00](https://news.ycombinator.com/item?id=41203937) - [AI Generated Song \"Zo Zomer\" in in Dutch Top25-NL Charts](https://www.top40.nl/john-de-koning/zo-zomer-42356)
