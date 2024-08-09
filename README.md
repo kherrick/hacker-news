@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-09, 16:41:15](https://news.ycombinator.com/item?id=41203411) - [Africa CDC to Declare First-Ever Continental Health Emergency as Mpox Surges](https://healthpolicy-watch.news/africa-cdc-to-declare-first-ever-continental-health-emergency-as-mpox-surges/)
 * [2024-08-09, 15:17:06](https://news.ycombinator.com/item?id=41202694) - [Launch HN: Roe.ai (YC W24) – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 * [2024-08-09, 14:16:09](https://news.ycombinator.com/item?id=41202064) - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
 * [2024-08-09, 14:01:19](https://news.ycombinator.com/item?id=41201922) - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
@@ -15,7 +16,6 @@
 * [2024-08-08, 18:02:12](https://news.ycombinator.com/item?id=41194431) - [Do quests, not goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
 * [2024-08-08, 17:24:40](https://news.ycombinator.com/item?id=41194024) - [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
 * [2024-08-08, 16:07:54](https://news.ycombinator.com/item?id=41193045) - [How we migrated onto K8s in less than 12 months](https://www.figma.com/blog/migrating-onto-kubernetes/)
-* [2024-08-08, 14:46:48](https://news.ycombinator.com/item?id=41192118) - [Firefox Sidebar and Vertical tabs: try them out](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
 * [2024-08-08, 13:55:09](https://news.ycombinator.com/item?id=41191540) - [How long does music stardom last? A statistical analysis](https://www.statsignificant.com/p/how-long-does-music-stardom-last)
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 * [2024-08-08, 10:39:06](https://news.ycombinator.com/item?id=41189971) - [How we found and fixed an eBPF Linux kernel vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)

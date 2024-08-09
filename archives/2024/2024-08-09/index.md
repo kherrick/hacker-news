@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 16:41:15](https://news.ycombinator.com/item?id=41203411) - [Africa CDC to Declare First-Ever Continental Health Emergency as Mpox Surges](https://healthpolicy-watch.news/africa-cdc-to-declare-first-ever-continental-health-emergency-as-mpox-surges/)
 * [2024-08-09, 15:27:00](https://news.ycombinator.com/item?id=41202788) - [Robocars improve traffic even when most cars around them are driven by people](https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546)
 * [2024-08-09, 15:17:06](https://news.ycombinator.com/item?id=41202694) - [Launch HN: Roe.ai (YC W24) – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 * [2024-08-09, 14:38:45](https://news.ycombinator.com/item?id=41202300) - [Why do big digital projects in the public sector fail?](https://www.newstatesman.com/spotlight/tech-regulation/public-sector-tech/2024/07/public-sector-digital-transformation-projects-government-nhs-horizon)
