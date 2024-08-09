@@ -92,6 +92,7 @@
 * [2024-08-05, 09:09:04](https://news.ycombinator.com/item?id=41159384) - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
 * [2024-08-05, 09:05:48](https://news.ycombinator.com/item?id=41159372) - [Japan's Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f)
 * [2024-08-05, 08:28:25](https://news.ycombinator.com/item?id=41159180) - [Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+* [2024-08-05, 08:10:04](https://news.ycombinator.com/item?id=41159075) - [Harder Drive: Hard drives we didn't want or need (2022) [pdf]](http://tom7.org/papers/murphy2022harder.pdf)
 * [2024-08-05, 08:06:51](https://news.ycombinator.com/item?id=41159063) - [Stop Killing Games](https://eci.ec.europa.eu/045/public/)
 * [2024-08-05, 07:33:49](https://news.ycombinator.com/item?id=41158918) - [Why Does Everyone Hate Haskell, Jazz, and Pure Math?](https://adueck.github.io/blog/on-haskell-jazz-and-pure-math/)
 * [2024-08-05, 07:13:30](https://news.ycombinator.com/item?id=41158824) - [Stocks trampled as Nikkei crashes 13%](https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-04/)
