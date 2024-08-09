@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 07:42:51](https://news.ycombinator.com/item?id=41199627) - [Apple: Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
+* [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 * [2024-08-09, 07:13:59](https://news.ycombinator.com/item?id=41199474) - [Japan Issues First Ever Mega Earthquake Warning](https://www.nbcnews.com/news/world/japan-earthquake-tsunami-advisory-rcna165728)
 * [2024-08-09, 06:49:08](https://news.ycombinator.com/item?id=41199363) - [A powerful tool for converting speech into text](https://app.trintai.com/)
 * [2024-08-09, 05:50:58](https://news.ycombinator.com/item?id=41199109) - [I built a second brain tool for college students](https://ainotebook.app/)
