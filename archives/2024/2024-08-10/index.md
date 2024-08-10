@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
+* [2024-08-10, 16:46:43](https://news.ycombinator.com/item?id=41210668) - [Inside Apple Arcade](https://mjtsai.com/blog/2024/08/07/inside-apple-arcade/)
 * [2024-08-10, 16:14:02](https://news.ycombinator.com/item?id=41210469) - [Online sports betting hurts consumers](https://www.slowboring.com/p/online-sports-betting-hurts-consumers)
 * [2024-08-10, 14:57:00](https://news.ycombinator.com/item?id=41209966) - [PEP 750: Tag Strings for Writing Domain-Specific Languages](https://discuss.python.org/t/pep-750-tag-strings-for-writing-domain-specific-languages/60408)
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
