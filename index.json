@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-08-10, 18:10:53",
-      "https://news.ycombinator.com/item?id=41211215"
-    ],
-    [
-      "Waymo got a ticket and there was confusion about who or what was being ticketed",
-      "https://twitter.com/antoniogm/status/1822141923538161776"
-    ]
-  ],
-  [
-    [
       "2024-08-10, 17:42:02",
       "https://news.ycombinator.com/item?id=41211039"
     ],
@@ -71,22 +61,22 @@
   ],
   [
     [
-      "2024-08-10, 16:52:49",
-      "https://news.ycombinator.com/item?id=41210700"
-    ],
-    [
-      "Show HN: I created quick and simple file converter and resizer – Converay",
-      "https://www.converay.com/"
-    ]
-  ],
-  [
-    [
       "2024-08-10, 15:00:41",
       "https://news.ycombinator.com/item?id=41209994"
     ],
     [
       "Show HN: Pg_replicate – Build Postgres replication applications in Rust",
       "https://github.com/supabase/pg_replicate"
+    ]
+  ],
+  [
+    [
+      "2024-08-10, 14:57:00",
+      "https://news.ycombinator.com/item?id=41209966"
+    ],
+    [
+      "PEP 750: Tag Strings for Writing Domain-Specific Languages",
+      "https://discuss.python.org/t/pep-750-tag-strings-for-writing-domain-specific-languages/60408"
     ]
   ],
   [
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2024-08-10, 12:13:01",
-      "https://news.ycombinator.com/item?id=41208934"
-    ],
-    [
-      "Evidence for ~12-h ultradian gene programs in humans",
-      "https://www.nature.com/articles/s44323-024-00005-1"
-    ]
-  ],
-  [
-    [
       "2024-08-10, 11:13:37",
       "https://news.ycombinator.com/item?id=41208704"
     ],
@@ -151,12 +131,22 @@
   ],
   [
     [
-      "2024-08-10, 05:00:00",
-      "https://news.ycombinator.com/item?id=41207417"
+      "2024-08-10, 06:51:39",
+      "https://news.ycombinator.com/item?id=41207793"
     ],
     [
-      "Hal Hickel on Creating Tarkin for Rogue One",
-      "http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html"
+      "Linearizability: A correctness condition for concurrent objects",
+      "http://muratbuffalo.blogspot.com/2024/08/linearizability-correctness-condition.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-10, 05:48:43",
+      "https://news.ycombinator.com/item?id=41207608"
+    ],
+    [
+      "How the SNES Graphics System Works",
+      "https://fabiensanglard.net/snes_ppus_how/index.html"
     ]
   ],
   [
@@ -171,52 +161,52 @@
   ],
   [
     [
-      "2024-08-10, 02:37:55",
-      "https://news.ycombinator.com/item?id=41206908"
+      "2024-08-10, 03:16:14",
+      "https://news.ycombinator.com/item?id=41207048"
     ],
     [
-      "Building a highly-available web service without a database",
-      "https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/"
+      "Shanghai's Automotive Metamorphosis",
+      "https://arun.is/blog/shanghai-cars/"
     ]
   ],
   [
     [
-      "2024-08-10, 00:17:59",
-      "https://news.ycombinator.com/item?id=41206465"
+      "2024-08-09, 18:30:18",
+      "https://news.ycombinator.com/item?id=41204228"
     ],
     [
-      "Common Lisp Community Survey 2024 Results",
-      "https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/"
+      "Animated Film Making Process",
+      "https://disneyanimation.com/process/"
     ]
   ],
   [
     [
-      "2024-08-09, 22:52:13",
-      "https://news.ycombinator.com/item?id=41206025"
+      "2024-08-09, 16:24:28",
+      "https://news.ycombinator.com/item?id=41203269"
     ],
     [
-      "Grace Hopper, Nvidia's Halfway APU",
-      "https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/"
+      "Nissin Our Founder (Instant Ramen Noodle)",
+      "https://www.nissin.com/en_jp/about/founder/"
     ]
   ],
   [
     [
-      "2024-08-09, 16:28:39",
-      "https://news.ycombinator.com/item?id=41203306"
+      "2024-08-09, 14:24:19",
+      "https://news.ycombinator.com/item?id=41202134"
     ],
     [
-      "Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs",
-      "https://github.com/Dicklesworthstone/llm_aided_ocr"
+      "Of Mice and Men and Magdalen",
+      "https://thecritic.co.uk/issues/july-2024/of-mice-and-men-and-magdalen/"
     ]
   ],
   [
     [
-      "2024-08-09, 14:16:09",
-      "https://news.ycombinator.com/item?id=41202064"
+      "2024-08-09, 05:47:11",
+      "https://news.ycombinator.com/item?id=41199092"
     ],
     [
-      "Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI",
-      "https://github.com/TrafficGuard/nous"
+      "Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server",
+      "https://blog.orange.tw/2024/08/confusion-attacks-en.html"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-08-07, 18:06:44",
+      "https://news.ycombinator.com/item?id=41183795"
+    ],
+    [
+      "Imagining a personal data pipeline",
+      "https://www.joshcanhelp.com/personal-data-pipeline/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 17:25:09",
       "https://news.ycombinator.com/item?id=41183439"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2024-08-07, 13:49:45",
+      "https://news.ycombinator.com/item?id=41181468"
+    ],
+    [
+      "An article using The Little Schemer format, what do you think of it?",
+      "https://phfrohring.com/page/ac946fae-6766-428b-bb26-c63880167228/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 07:31:12",
       "https://news.ycombinator.com/item?id=41179043"
     ],
     [
       "A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]",
       "https://www.ams.org/notices/200503/fea-weil.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 04:59:51",
-      "https://news.ycombinator.com/item?id=41178372"
-    ],
-    [
-      "The Powers of Soviet Puppetry",
-      "https://www.historytoday.com/archive/history-matters/powers-soviet-puppetry"
     ]
   ],
   [
