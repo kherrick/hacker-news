@@ -20,6 +20,7 @@
 * [2024-08-09, 18:20:37](https://news.ycombinator.com/item?id=41204160) - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
 * [2024-08-09, 17:49:00](https://news.ycombinator.com/item?id=41203937) - [AI Generated Song \"Zo Zomer\" in in Dutch Top25-NL Charts](https://www.top40.nl/john-de-koning/zo-zomer-42356)
 * [2024-08-09, 17:48:26](https://news.ycombinator.com/item?id=41203934) - [Galea: The most advanced biosensing VR headset](https://galea.co/)
+* [2024-08-09, 17:48:10](https://news.ycombinator.com/item?id=41203928) - [Data types as Lattices – Dana Scott [pdf]](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1976-data-types-as-lattices.pdf)
 * [2024-08-09, 17:46:31](https://news.ycombinator.com/item?id=41203909) - [Perceived Age](https://suryad.com/blog/percieved-age/)
 * [2024-08-09, 17:15:57](https://news.ycombinator.com/item?id=41203691) - [Magit 4.0 Released](https://emacsair.me/2024/08/09/magit-4.0/)
 * [2024-08-09, 17:00:56](https://news.ycombinator.com/item?id=41203571) - [Motion (YC W20) Is Hiring Senior Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
