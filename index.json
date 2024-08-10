@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-08-10, 05:00:00",
+      "https://news.ycombinator.com/item?id=41207417"
+    ],
+    [
+      "Hal Hickel on Creating Tarkin for Rogue One",
+      "http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 03:53:04",
       "https://news.ycombinator.com/item?id=41207182"
     ],
@@ -257,16 +267,6 @@
     [
       "A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]",
       "https://www.ams.org/notices/200503/fea-weil.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 21:52:48",
-      "https://news.ycombinator.com/item?id=41175784"
-    ],
-    [
-      "An SVE backend for astcenc (Adaptive Scalable Texture Compression Encoder)",
-      "https://solidpixel.github.io/astcenc_meets_sve"
     ]
   ],
   [
