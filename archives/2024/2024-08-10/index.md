@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+* [2024-08-10, 12:15:23](https://news.ycombinator.com/item?id=41208946) - ['Smart' technology is out of control. We adore this dumb tech](https://www.washingtonpost.com/technology/2024/08/09/why-dumb-technology-vs-smart-gadgets/)
 * [2024-08-10, 12:13:01](https://news.ycombinator.com/item?id=41208934) - [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
 * [2024-08-10, 12:10:47](https://news.ycombinator.com/item?id=41208923) - [Susan Wojcicki, Former Chief of YouTube, Dies at 56](https://www.nytimes.com/2024/08/10/business/susan-wojcicki-dead.html)
 * [2024-08-10, 12:02:16](https://news.ycombinator.com/item?id=41208881) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
