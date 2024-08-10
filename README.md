@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-10, 17:58:59](https://news.ycombinator.com/item?id=41211147) - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
 * [2024-08-10, 17:36:57](https://news.ycombinator.com/item?id=41210994) - [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)
 * [2024-08-10, 17:02:51](https://news.ycombinator.com/item?id=41210760) - [The spinning ATR plane crash in Brazil](https://philip.greenspun.com/blog/2024/08/10/the-spinning-atr-crash-in-brazil/)
@@ -10,7 +11,6 @@
 * [2024-08-10, 14:57:00](https://news.ycombinator.com/item?id=41209966) - [PEP 750: Tag Strings for Writing Domain-Specific Languages](https://discuss.python.org/t/pep-750-tag-strings-for-writing-domain-specific-languages/60408)
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 * [2024-08-10, 14:10:48](https://news.ycombinator.com/item?id=41209658) - [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
-* [2024-08-10, 13:45:12](https://news.ycombinator.com/item?id=41209452) - [Ray Tracing Harmonic Functions](https://markjgillespie.com/Research/harnack-tracing/index.html)
 * [2024-08-10, 13:05:48](https://news.ycombinator.com/item?id=41209181) - [Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
 * [2024-08-10, 12:13:01](https://news.ycombinator.com/item?id=41208934) - [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
