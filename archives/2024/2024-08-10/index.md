@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
+* [2024-08-10, 14:10:48](https://news.ycombinator.com/item?id=41209658) - [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
 * [2024-08-10, 13:40:04](https://news.ycombinator.com/item?id=41209416) - [Apple Intelligence System Prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
 * [2024-08-10, 13:05:48](https://news.ycombinator.com/item?id=41209181) - [Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool](https://deeplive.cam)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)

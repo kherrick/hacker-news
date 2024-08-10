@@ -81,6 +81,7 @@
 * [2024-08-07, 09:04:36](https://news.ycombinator.com/item?id=41179513) - [AMD Ryzen 9000 Series processors are ready to deliver world class gaming](https://twitter.com/amdryzen/status/1820956835794358451)
 * [2024-08-07, 08:43:47](https://news.ycombinator.com/item?id=41179446) - [Sourcetrail: Free and Open-Source Interactive Source Explorer](https://github.com/CoatiSoftware/Sourcetrail)
 * [2024-08-07, 08:28:23](https://news.ycombinator.com/item?id=41179349) - [Bitcoin Investors Buy Puts Aggressively](https://en.bitcoinhaber.net/bitcoin-investors-buy-puts-aggressively)
+* [2024-08-07, 07:31:12](https://news.ycombinator.com/item?id=41179043) - [A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]](https://www.ams.org/notices/200503/fea-weil.pdf)
 * [2024-08-07, 07:16:02](https://news.ycombinator.com/item?id=41178959) - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 * [2024-08-07, 06:40:40](https://news.ycombinator.com/item?id=41178808) - [The future of F/OSS continues to be AGPL](https://news.ycombinator.com/item?id=41178808)
 * [2024-08-07, 06:36:18](https://news.ycombinator.com/item?id=41178776) - [Rising rates of cancer in young people prompts hunt for environmental culprit](https://www.ft.com/content/491d7760-c329-4f57-9509-0da36bc9e7de)
