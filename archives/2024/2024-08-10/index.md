@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+* [2024-08-10, 12:02:16](https://news.ycombinator.com/item?id=41208881) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+* [2024-08-10, 11:52:22](https://news.ycombinator.com/item?id=41208836) - [Ladybird browser to start using Swift language this fall](https://twitter.com/awesomekling/status/1822236888188498031)
 * [2024-08-10, 10:18:02](https://news.ycombinator.com/item?id=41208506) - [The friendliest social network you've never heard of](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
 * [2024-08-10, 09:09:53](https://news.ycombinator.com/item?id=41208265) - [Chinese drones will fly trash out of Everest slopes](https://kathmandupost.com/money/2024/08/05/it-s-official-chinese-drones-will-fly-trash-out-of-everest-slopes)
 * [2024-08-10, 09:06:10](https://news.ycombinator.com/item?id=41208252) - [Does Astrology Work?](https://www.clearerthinking.org/post/does-astrology-work)
@@ -19,6 +22,7 @@
 * [2024-08-10, 04:28:35](https://news.ycombinator.com/item?id=41207317) - [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
 * [2024-08-10, 04:12:48](https://news.ycombinator.com/item?id=41207274) - [The Red Herring of Red Flags: Why Resumes Are a Relic of the Past](https://praachi.work/blog/red-flags-resumes.html)
 * [2024-08-10, 03:59:50](https://news.ycombinator.com/item?id=41207221) - [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
+* [2024-08-10, 03:53:04](https://news.ycombinator.com/item?id=41207182) - [Caltech Develops First Noninvasive Method to Continually Measure Blood Pressure](https://www.caltech.edu/about/news/caltech-team-develops-first-noninvasive-method-to-continually-measure-true-blood-pressure)
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
 * [2024-08-10, 02:33:49](https://news.ycombinator.com/item?id=41206887) - [We now know how kestrels stay perfectly still while hovering](https://www.newscientist.com/article/2443209-we-now-know-how-kestrels-stay-perfectly-still-while-hovering/)
 * [2024-08-10, 01:38:49](https://news.ycombinator.com/item?id=41206723) - [Will there be 50B+ in student loan delinquencies in US?](https://wordsofwill.com/2024/08/09/august-2024-housing-credit-market-analysis-may-2024-follow-up/)
