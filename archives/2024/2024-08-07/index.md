@@ -73,6 +73,7 @@
 * [2024-08-07, 12:00:20](https://news.ycombinator.com/item?id=41180481) - [Sieve (YC W22) is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
 * [2024-08-07, 11:59:17](https://news.ycombinator.com/item?id=41180468) - [Google's real monopoly is on the user data](https://www.propellernet.co.uk/googles-real-monopoly-is-on-the-user-data/)
 * [2024-08-07, 11:56:02](https://news.ycombinator.com/item?id=41180441) - [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
+* [2024-08-07, 11:45:23](https://news.ycombinator.com/item?id=41180356) - [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)
 * [2024-08-07, 11:43:15](https://news.ycombinator.com/item?id=41180346) - [If Fever Helps Fight Infection, Should I Avoid Fever-Reducing Drugs? (2018)](https://www.nytimes.com/2018/05/11/well/live/fever-infection-drugs-tylenol-acetaminophen-ibuprofen-advil-aspirin.html)
 * [2024-08-07, 11:17:44](https://news.ycombinator.com/item?id=41180181) - [The Paige Compositor: First US Typography Machine](https://www.asme.org/about-asme/engineering-history/landmarks/11-paige-compositor)
 * [2024-08-07, 11:12:24](https://news.ycombinator.com/item?id=41180154) - [Massachusetts 'Reviewing' Kei Car Ban After Uproar over Canceled Registrations](https://www.thedrive.com/news/massachusetts-reviewing-kei-car-ban-after-uproar-over-canceled-registrations)
