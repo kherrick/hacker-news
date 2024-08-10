@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 20:45:08](https://news.ycombinator.com/item?id=41212099) - [Ask HN: 19yr old child suffering from internet gaming disorder? Any suggestions?](https://news.ycombinator.com/item?id=41212099)
 * [2024-08-10, 19:34:27](https://news.ycombinator.com/item?id=41211692) - [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
+* [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 * [2024-08-10, 19:07:23](https://news.ycombinator.com/item?id=41211519) - [DEF CON's response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
 * [2024-08-10, 19:00:26](https://news.ycombinator.com/item?id=41211481) - [The Mac Is a Power Tool](https://daringfireball.net/2024/08/the_mac_is_a_power_tool)
 * [2024-08-10, 18:59:53](https://news.ycombinator.com/item?id=41211475) - [Defcon Response to Badge Issues](https://twitter.com/defcon/status/1822344607063302200)
@@ -16,6 +18,7 @@
 * [2024-08-10, 17:36:57](https://news.ycombinator.com/item?id=41210994) - [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)
 * [2024-08-10, 17:02:51](https://news.ycombinator.com/item?id=41210760) - [The spinning ATR plane crash in Brazil](https://philip.greenspun.com/blog/2024/08/10/the-spinning-atr-crash-in-brazil/)
 * [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
+* [2024-08-10, 16:52:49](https://news.ycombinator.com/item?id=41210700) - [Show HN: I created quick and simple file converter and resizer – Converay](https://www.converay.com/)
 * [2024-08-10, 16:46:43](https://news.ycombinator.com/item?id=41210668) - [Inside Apple Arcade](https://mjtsai.com/blog/2024/08/07/inside-apple-arcade/)
 * [2024-08-10, 16:24:51](https://news.ycombinator.com/item?id=41210537) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/index.html)
 * [2024-08-10, 16:14:02](https://news.ycombinator.com/item?id=41210469) - [Online sports betting hurts consumers](https://www.slowboring.com/p/online-sports-betting-hurts-consumers)
