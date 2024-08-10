@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
+* [2024-08-10, 17:36:57](https://news.ycombinator.com/item?id=41210994) - [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)
+* [2024-08-10, 17:02:51](https://news.ycombinator.com/item?id=41210760) - [The spinning ATR plane crash in Brazil](https://philip.greenspun.com/blog/2024/08/10/the-spinning-atr-crash-in-brazil/)
 * [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
 * [2024-08-10, 16:46:43](https://news.ycombinator.com/item?id=41210668) - [Inside Apple Arcade](https://mjtsai.com/blog/2024/08/07/inside-apple-arcade/)
 * [2024-08-10, 16:24:51](https://news.ycombinator.com/item?id=41210537) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/index.html)
