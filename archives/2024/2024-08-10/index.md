@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 13:40:04](https://news.ycombinator.com/item?id=41209416) - [Apple Intelligence System Prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
 * [2024-08-10, 13:05:48](https://news.ycombinator.com/item?id=41209181) - [Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool](https://deeplive.cam)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
 * [2024-08-10, 12:15:23](https://news.ycombinator.com/item?id=41208946) - ['Smart' technology is out of control. We adore this dumb tech](https://www.washingtonpost.com/technology/2024/08/09/why-dumb-technology-vs-smart-gadgets/)
