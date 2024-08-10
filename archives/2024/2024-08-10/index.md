@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 05:48:01](https://news.ycombinator.com/item?id=41207604) - [SNES Graphics: 186.2ns or Bust](https://fabiensanglard.net/snes_ppus_why/index.html)
 * [2024-08-10, 05:35:27](https://news.ycombinator.com/item?id=41207556) - [Larry Wall's Very Own Home Page](http://wall.org/%7Elarry/)
 * [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Susan Wojcicki has died](https://www.facebook.com/share/p/qe2ZMcs9Bz4K1SPt/)
 * [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Former YouTube CEO Susan Wojcicki Has Died](https://www.threads.net/@crumbler/post/C-ecdHJxHMq)
