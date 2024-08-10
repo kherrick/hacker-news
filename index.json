@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-08-10, 05:48:01",
-      "https://news.ycombinator.com/item?id=41207604"
-    ],
-    [
-      "SNES Graphics: 186.2ns or Bust",
-      "https://fabiensanglard.net/snes_ppus_why/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 05:35:27",
-      "https://news.ycombinator.com/item?id=41207556"
-    ],
-    [
-      "Larry Wall's Very Own Home Page",
-      "http://wall.org/%7Elarry/"
-    ]
-  ],
-  [
-    [
       "2024-08-10, 05:00:00",
       "https://news.ycombinator.com/item?id=41207417"
     ],
@@ -37,36 +17,6 @@
     [
       "Susan Wojcicki has died",
       "https://twitter.com/sundarpichai/status/1822132667959386588"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 04:28:35",
-      "https://news.ycombinator.com/item?id=41207317"
-    ],
-    [
-      "Google Strategy Doc from Antitrust Proceedings",
-      "https://threadreaderapp.com/thread/1821554841786683554.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 04:12:48",
-      "https://news.ycombinator.com/item?id=41207274"
-    ],
-    [
-      "The Red Herring of Red Flags: Why Resumes Are a Relic of the Past",
-      "https://praachi.work/blog/red-flags-resumes.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 03:59:50",
-      "https://news.ycombinator.com/item?id=41207221"
-    ],
-    [
-      "Defcon stiffs badge HW vendor, drags FW author offstage during talk",
-      "https://twitter.com/mightymogomra/status/1822119942281650278"
     ]
   ],
   [
@@ -91,12 +41,12 @@
   ],
   [
     [
-      "2024-08-10, 00:17:59",
-      "https://news.ycombinator.com/item?id=41206465"
+      "2024-08-10, 00:12:05",
+      "https://news.ycombinator.com/item?id=41206443"
     ],
     [
-      "Common Lisp Community Survey 2024 Results",
-      "https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/"
+      "Rivian reduced electrical wiring by 1.6 miles and 44 pounds",
+      "https://www.popsci.com/technology/rivian-zonal-electrical-architecture/"
     ]
   ],
   [
@@ -107,6 +57,26 @@
     [
       "Grace Hopper, Nvidia's Halfway APU",
       "https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/"
+    ]
+  ],
+  [
+    [
+      "2024-08-09, 21:33:18",
+      "https://news.ycombinator.com/item?id=41205554"
+    ],
+    [
+      "Show HN: Personal Interactive Cantonese Dictionary",
+      "https://nomenclature.ctang.art"
+    ]
+  ],
+  [
+    [
+      "2024-08-09, 21:12:34",
+      "https://news.ycombinator.com/item?id=41205439"
+    ],
+    [
+      "DARPA wants to bypass the thermal middleman in nuclear power systems",
+      "https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/"
     ]
   ],
   [
@@ -221,12 +191,22 @@
   ],
   [
     [
-      "2024-08-09, 11:20:32",
-      "https://news.ycombinator.com/item?id=41200734"
+      "2024-08-09, 10:58:12",
+      "https://news.ycombinator.com/item?id=41200605"
     ],
     [
-      "For the first time since 2011, Burning Man is struggling to sell tickets",
-      "https://www.bloomberg.com/news/newsletters/2024-08-09/silicon-valley-may-be-losing-its-cultural-connection-with-burning-man"
+      "Show HN: I built Mailhub – A scalable API for sending emails with ease not tears",
+      "https://www.mailhub.sh/"
+    ]
+  ],
+  [
+    [
+      "2024-08-09, 07:31:15",
+      "https://news.ycombinator.com/item?id=41199567"
+    ],
+    [
+      "OTranscribe: A free and open tool for transcribing audio interviews",
+      "https://otranscribe.com/"
     ]
   ],
   [
@@ -251,6 +231,26 @@
   ],
   [
     [
+      "2024-08-08, 17:17:19",
+      "https://news.ycombinator.com/item?id=41193922"
+    ],
+    [
+      "A heck of a wild bug chase",
+      "https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 13:11:21",
+      "https://news.ycombinator.com/item?id=41191125"
+    ],
+    [
+      "Row Embedded Cache: Experimenting with a new pattern of caching",
+      "https://zarar.dev/row-embedded-cache/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 06:47:26",
       "https://news.ycombinator.com/item?id=41188769"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-08-06, 22:26:18",
-      "https://news.ycombinator.com/item?id=41176091"
+      "2024-08-07, 11:17:44",
+      "https://news.ycombinator.com/item?id=41180181"
     ],
     [
-      "Keynote Speech to the 1996 Oopsla Convention",
-      "https://www.patternlanguage.com/archive/ieee.html"
+      "The Paige Compositor: First US Typography Machine",
+      "https://www.asme.org/about-asme/engineering-history/landmarks/11-paige-compositor"
     ]
   ],
   [
