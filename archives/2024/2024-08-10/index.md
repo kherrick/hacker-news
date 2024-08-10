@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
 * [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Former YouTube CEO Susan Wojcicki Has Died](https://www.threads.net/@crumbler/post/C-ecdHJxHMq)
+* [2024-08-10, 04:28:35](https://news.ycombinator.com/item?id=41207317) - [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
 * [2024-08-10, 03:59:50](https://news.ycombinator.com/item?id=41207221) - [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
 * [2024-08-10, 02:33:49](https://news.ycombinator.com/item?id=41206887) - [We now know how kestrels stay perfectly still while hovering](https://www.newscientist.com/article/2443209-we-now-know-how-kestrels-stay-perfectly-still-while-hovering/)

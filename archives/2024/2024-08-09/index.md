@@ -48,6 +48,7 @@
 * [2024-08-09, 11:46:48](https://news.ycombinator.com/item?id=41200914) - [The Dying Web](https://endler.dev/2024/the-dying-web/)
 * [2024-08-09, 11:46:11](https://news.ycombinator.com/item?id=41200910) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/#212%20-%2014651691)
 * [2024-08-09, 11:32:43](https://news.ycombinator.com/item?id=41200825) - [What do scientists tell us about boxing's gender row?](https://www.bbc.com/news/articles/crlr8gp813ko)
+* [2024-08-09, 11:20:32](https://news.ycombinator.com/item?id=41200734) - [Has Burning Man Peaked?](https://www.bloomberg.com/news/newsletters/2024-08-09/silicon-valley-may-be-losing-its-cultural-connection-with-burning-man)
 * [2024-08-09, 11:18:37](https://news.ycombinator.com/item?id=41200720) - [Show HN: I created a Next.js CLI to ship code like a hacker](https://www.nextinject.pro)
 * [2024-08-09, 11:04:05](https://news.ycombinator.com/item?id=41200645) - [Can We Hear Temperature? New Study Says Yes](https://neurosciencenews.com/sound-temperature-neuroscience-27532/)
 * [2024-08-09, 10:58:12](https://news.ycombinator.com/item?id=41200605) - [Show HN: I built Mailhub – A scalable API for sending emails with ease not tears](https://www.mailhub.sh/)
