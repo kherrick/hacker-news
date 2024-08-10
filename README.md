@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-10, 20:45:08](https://news.ycombinator.com/item?id=41212099) - [Ask HN: 19yr old child suffering from internet gaming disorder? Any suggestions?](https://news.ycombinator.com/item?id=41212099)
 * [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 * [2024-08-10, 19:07:23](https://news.ycombinator.com/item?id=41211519) - [DEF CON's response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
 * [2024-08-10, 18:10:53](https://news.ycombinator.com/item?id=41211215) - [Waymo got a ticket and there was confusion about who or what was being ticketed](https://twitter.com/antoniogm/status/1822141923538161776)
@@ -18,6 +17,7 @@
 * [2024-08-10, 03:53:04](https://news.ycombinator.com/item?id=41207182) - [Caltech Develops First Noninvasive Method to Continually Measure Blood Pressure](https://www.caltech.edu/about/news/caltech-team-develops-first-noninvasive-method-to-continually-measure-true-blood-pressure)
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
 * [2024-08-09, 22:52:13](https://news.ycombinator.com/item?id=41206025) - [Grace Hopper, Nvidia's Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
+* [2024-08-09, 19:55:42](https://news.ycombinator.com/item?id=41204881) - [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice is a garden: Margaret Watts Hughes's Victorian sound visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
 * [2024-08-09, 16:28:39](https://news.ycombinator.com/item?id=41203306) - [Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs](https://github.com/Dicklesworthstone/llm_aided_ocr)
 * [2024-08-09, 14:16:09](https://news.ycombinator.com/item?id=41202064) - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
