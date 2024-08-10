@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-10, 16:14:02](https://news.ycombinator.com/item?id=41210469) - [Online sports betting hurts consumers](https://www.slowboring.com/p/online-sports-betting-hurts-consumers)
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 * [2024-08-10, 14:10:48](https://news.ycombinator.com/item?id=41209658) - [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
 * [2024-08-10, 13:05:48](https://news.ycombinator.com/item?id=41209181) - [Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
@@ -18,7 +19,6 @@
 * [2024-08-09, 16:50:41](https://news.ycombinator.com/item?id=41203475) - [Show HN: Attaching to a virtual GPU over TCP](https://www.thundercompute.com/)
 * [2024-08-09, 16:36:50](https://news.ycombinator.com/item?id=41203368) - [.INTERNAL is now reserved for private-use applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [2024-08-09, 16:28:39](https://news.ycombinator.com/item?id=41203306) - [Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs](https://github.com/Dicklesworthstone/llm_aided_ocr)
-* [2024-08-09, 15:17:06](https://news.ycombinator.com/item?id=41202694) - [Launch HN: Roe AI (YC W24) – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 * [2024-08-09, 14:16:09](https://news.ycombinator.com/item?id=41202064) - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
 * [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 16:14:02](https://news.ycombinator.com/item?id=41210469) - [Online sports betting hurts consumers](https://www.slowboring.com/p/online-sports-betting-hurts-consumers)
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 * [2024-08-10, 14:10:48](https://news.ycombinator.com/item?id=41209658) - [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
 * [2024-08-10, 13:40:04](https://news.ycombinator.com/item?id=41209416) - [Apple Intelligence System Prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
