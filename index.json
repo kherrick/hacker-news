@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-08-10, 01:32:58",
-      "https://news.ycombinator.com/item?id=41206703"
-    ],
-    [
-      "X: Rolling out now: sort replies on any post by most relevant, recent, or liked",
-      "https://twitter.com/X/status/1822009969610293687"
-    ]
-  ],
-  [
-    [
       "2024-08-10, 01:18:35",
       "https://news.ycombinator.com/item?id=41206667"
     ],
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2024-08-09, 16:28:43",
-      "https://news.ycombinator.com/item?id=41203307"
-    ],
-    [
-      "LangGraph Engineer",
-      "https://github.com/hwchase17/langgraph-engineer"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 16:28:39",
       "https://news.ycombinator.com/item?id=41203306"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2024-08-08, 13:11:21",
+      "https://news.ycombinator.com/item?id=41191125"
+    ],
+    [
+      "Row Embedded Cache: Experimenting with a new pattern of caching",
+      "https://zarar.dev/row-embedded-cache/"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 06:47:26",
       "https://news.ycombinator.com/item?id=41188769"
     ],
     [
       "Using the Moon as an Echo [video]",
       "https://www.youtube.com/watch?v=yxBC6XzuMPs"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 04:58:54",
+      "https://news.ycombinator.com/item?id=41188260"
+    ],
+    [
+      "Is it time to version observability?",
+      "https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/"
     ]
   ],
   [
