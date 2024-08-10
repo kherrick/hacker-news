@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-10, 01:36:31](https://news.ycombinator.com/item?id=41206718) - [Daily marijuana use linked to increased risk of deadly head and neck cancers](https://www.cnn.com/2024/08/08/health/marijuana-head-and-neck-cancer-wellness/index.html)
-* [2024-08-10, 01:32:58](https://news.ycombinator.com/item?id=41206703) - [X: Rolling out now: sort replies on any post by most relevant, recent, or liked](https://twitter.com/X/status/1822009969610293687)
 * [2024-08-10, 01:18:35](https://news.ycombinator.com/item?id=41206667) - [HIV drug could be made for just $40 a year for every patient](https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing)
 * [2024-08-10, 01:01:02](https://news.ycombinator.com/item?id=41206619) - [GCVR (YC W22) Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
 * [2024-08-10, 00:17:59](https://news.ycombinator.com/item?id=41206465) - [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
@@ -17,7 +16,6 @@
 * [2024-08-09, 16:55:14](https://news.ycombinator.com/item?id=41203509) - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
 * [2024-08-09, 16:50:41](https://news.ycombinator.com/item?id=41203475) - [Show HN: Attaching to a virtual GPU over TCP](https://www.thundercompute.com/)
 * [2024-08-09, 16:36:50](https://news.ycombinator.com/item?id=41203368) - [.INTERNAL is now reserved for private-use applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
-* [2024-08-09, 16:28:43](https://news.ycombinator.com/item?id=41203307) - [LangGraph Engineer](https://github.com/hwchase17/langgraph-engineer)
 * [2024-08-09, 16:28:39](https://news.ycombinator.com/item?id=41203306) - [Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs](https://github.com/Dicklesworthstone/llm_aided_ocr)
 * [2024-08-09, 15:17:06](https://news.ycombinator.com/item?id=41202694) - [Launch HN: Roe AI (YC W24) – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 * [2024-08-09, 14:16:09](https://news.ycombinator.com/item?id=41202064) - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
@@ -27,7 +25,9 @@
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-08, 18:52:57](https://news.ycombinator.com/item?id=41194929) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-08, 17:17:19](https://news.ycombinator.com/item?id=41193922) - [A heck of a wild bug chase](https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html)
+* [2024-08-08, 13:11:21](https://news.ycombinator.com/item?id=41191125) - [Row Embedded Cache: Experimenting with a new pattern of caching](https://zarar.dev/row-embedded-cache/)
 * [2024-08-08, 06:47:26](https://news.ycombinator.com/item?id=41188769) - [Using the Moon as an Echo [video]](https://www.youtube.com/watch?v=yxBC6XzuMPs)
+* [2024-08-08, 04:58:54](https://news.ycombinator.com/item?id=41188260) - [Is it time to version observability?](https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/)
 * [2024-08-06, 14:25:35](https://news.ycombinator.com/item?id=41171142) - [VisiCalc – The Early Days (2003)](https://benlo.com/visicalc/)
 * [2024-08-06, 05:04:04](https://news.ycombinator.com/item?id=41167921) - [Qlot: Common Lisp Library Manager](https://github.com/fukamachi/qlot)
 
