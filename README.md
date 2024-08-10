@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-10, 18:25:28](https://news.ycombinator.com/item?id=41211303) - ['It's devastating': summer in Canada's Arctic region brings heatwaves](https://www.theguardian.com/world/article/2024/aug/08/canada-arctic-region-heat-wave)
-* [2024-08-10, 18:14:32](https://news.ycombinator.com/item?id=41211235) - [Apple. Apple Please](https://digipres.club/@misty/112927898002214724)
+* [2024-08-10, 19:34:27](https://news.ycombinator.com/item?id=41211692) - [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
 * [2024-08-10, 17:58:59](https://news.ycombinator.com/item?id=41211147) - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
 * [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
@@ -28,6 +27,7 @@
 * [2024-08-07, 07:31:12](https://news.ycombinator.com/item?id=41179043) - [A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]](https://www.ams.org/notices/200503/fea-weil.pdf)
 * [2024-08-07, 04:59:51](https://news.ycombinator.com/item?id=41178372) - [The Powers of Soviet Puppetry](https://www.historytoday.com/archive/history-matters/powers-soviet-puppetry)
 * [2024-08-06, 21:52:48](https://news.ycombinator.com/item?id=41175784) - [An SVE backend for astcenc (Adaptive Scalable Texture Compression Encoder)](https://solidpixel.github.io/astcenc_meets_sve)
+* [2024-08-06, 14:25:35](https://news.ycombinator.com/item?id=41171142) - [VisiCalc – The Early Days (2003)](https://benlo.com/visicalc/)
 * [2024-08-06, 05:04:04](https://news.ycombinator.com/item?id=41167921) - [Qlot: Common Lisp Library Manager](https://github.com/fukamachi/qlot)
 * [2024-08-05, 20:40:47](https://news.ycombinator.com/item?id=41165392) - [Influential descriptions of depression are often misleading](https://www.bps.org.uk/research-digest/influential-descriptions-depression-are-often-misleading)
 

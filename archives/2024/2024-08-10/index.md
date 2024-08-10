@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 19:34:27](https://news.ycombinator.com/item?id=41211692) - [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
 * [2024-08-10, 18:53:00](https://news.ycombinator.com/item?id=41211437) - [\"Jeff Bezos and Amazon tried to imprison my husband\"](https://twitter.com/Amy_K_Nelson/status/1822318185556648348)
 * [2024-08-10, 18:25:28](https://news.ycombinator.com/item?id=41211303) - ['It's devastating': summer in Canada's Arctic region brings heatwaves](https://www.theguardian.com/world/article/2024/aug/08/canada-arctic-region-heat-wave)
 * [2024-08-10, 18:14:32](https://news.ycombinator.com/item?id=41211235) - [Apple. Apple Please](https://digipres.club/@misty/112927898002214724)
