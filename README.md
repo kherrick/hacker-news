@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-10, 01:01:02](https://news.ycombinator.com/item?id=41206619) - [GCVR (YC W22) Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
+* [2024-08-09, 23:11:58](https://news.ycombinator.com/item?id=41206147) - [Frank Zappa estate: the feud, and the pain, that dogs his children](https://www.washingtonpost.com/entertainment/music/interactive/2024/frank-zappa-family-feud-moon-unit-dweezil/)
 * [2024-08-09, 22:52:13](https://news.ycombinator.com/item?id=41206025) - [Grace Hopper, Nvidia's Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
 * [2024-08-09, 21:33:18](https://news.ycombinator.com/item?id=41205554) - [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
 * [2024-08-09, 21:12:34](https://news.ycombinator.com/item?id=41205439) - [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
-* [2024-08-09, 21:01:00](https://news.ycombinator.com/item?id=41205372) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-* [2024-08-09, 20:32:11](https://news.ycombinator.com/item?id=41205176) - [Urchin Software Corp: The unlikely origin story of Google Analytics, 1996–2005](https://urchin.biz/urchin-software-corp-89a1f5292999)
+* [2024-08-09, 20:32:11](https://news.ycombinator.com/item?id=41205176) - [Urchin Software Corp: The unlikely origin story of Google Analytics, 1996–2005 (2016)](https://urchin.biz/urchin-software-corp-89a1f5292999)
 * [2024-08-09, 19:55:42](https://news.ycombinator.com/item?id=41204881) - [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice is a garden: Margaret Watts Hughes's Victorian sound visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
 * [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
@@ -28,7 +29,6 @@
 * [2024-08-06, 05:04:04](https://news.ycombinator.com/item?id=41167921) - [Qlot: Common Lisp Library Manager](https://github.com/fukamachi/qlot)
 * [2024-08-05, 14:27:53](https://news.ycombinator.com/item?id=41161672) - [Show HN: PlatePlanner – Design Beautiful Platemaps](https://plateplanner.nitro.bio/)
 * [2024-08-05, 08:10:04](https://news.ycombinator.com/item?id=41159075) - [Harder Drive: Hard drives we didn't want or need (2022) [pdf]](http://tom7.org/papers/murphy2022harder.pdf)
-* [2024-08-05, 05:13:06](https://news.ycombinator.com/item?id=41158333) - ['Agua, Agua'](https://www.altaonline.com/dispatches/a43145605/sonoran-desert-survival-julian-smith-pablo-valencia-bill-broyles/)
 * [2024-08-04, 17:10:23](https://news.ycombinator.com/item?id=41154895) - [Jerk](https://ivanish.ca/jerk/)
 
 ## [Archives](archives/index.md)

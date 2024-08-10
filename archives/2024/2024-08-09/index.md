@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 23:11:58](https://news.ycombinator.com/item?id=41206147) - [Frank Zappa estate: the feud, and the pain, that dogs his children](https://www.washingtonpost.com/entertainment/music/interactive/2024/frank-zappa-family-feud-moon-unit-dweezil/)
 * [2024-08-09, 22:52:13](https://news.ycombinator.com/item?id=41206025) - [Grace Hopper, Nvidia's Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
 * [2024-08-09, 22:46:57](https://news.ycombinator.com/item?id=41205995) - [Proxy Please: Help People Connect to Signal](https://signal.org/blog/proxy-please/)
 * [2024-08-09, 21:33:18](https://news.ycombinator.com/item?id=41205554) - [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
