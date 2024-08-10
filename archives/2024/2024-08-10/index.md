@@ -7,6 +7,7 @@
 * [2024-08-10, 05:35:27](https://news.ycombinator.com/item?id=41207556) - [Larry Wall's Very Own Home Page](http://wall.org/%7Elarry/)
 * [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Susan Wojcicki has died](https://www.facebook.com/share/p/qe2ZMcs9Bz4K1SPt/)
 * [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Former YouTube CEO Susan Wojcicki Has Died](https://www.threads.net/@crumbler/post/C-ecdHJxHMq)
+* [2024-08-10, 04:58:29](https://news.ycombinator.com/item?id=41207415) - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
 * [2024-08-10, 04:28:35](https://news.ycombinator.com/item?id=41207317) - [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
 * [2024-08-10, 04:12:48](https://news.ycombinator.com/item?id=41207274) - [The Red Herring of Red Flags: Why Resumes Are a Relic of the Past](https://praachi.work/blog/red-flags-resumes.html)
 * [2024-08-10, 03:59:50](https://news.ycombinator.com/item?id=41207221) - [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
