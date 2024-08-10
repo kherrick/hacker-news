@@ -2,7 +2,6 @@
 
 * [2024-08-10, 19:34:27](https://news.ycombinator.com/item?id=41211692) - [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
 * [2024-08-10, 19:07:23](https://news.ycombinator.com/item?id=41211519) - [DEF CON's response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
-* [2024-08-10, 19:00:26](https://news.ycombinator.com/item?id=41211481) - [The Mac Is a Power Tool](https://daringfireball.net/2024/08/the_mac_is_a_power_tool)
 * [2024-08-10, 18:59:53](https://news.ycombinator.com/item?id=41211475) - [Defcon Response to Badge Issues](https://twitter.com/defcon/status/1822344607063302200)
 * [2024-08-10, 17:58:59](https://news.ycombinator.com/item?id=41211147) - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
@@ -15,6 +14,7 @@
 * [2024-08-10, 13:05:48](https://news.ycombinator.com/item?id=41209181) - [Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
 * [2024-08-10, 12:13:01](https://news.ycombinator.com/item?id=41208934) - [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
+* [2024-08-10, 11:13:37](https://news.ycombinator.com/item?id=41208704) - [Command-Line Utility to Backup Google Mail, Calendar and Contacts to Files](https://github.com/WeeJeWel/node-google-backup)
 * [2024-08-10, 05:00:00](https://news.ycombinator.com/item?id=41207417) - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
 * [2024-08-10, 03:53:04](https://news.ycombinator.com/item?id=41207182) - [Caltech Develops First Noninvasive Method to Continually Measure Blood Pressure](https://www.caltech.edu/about/news/caltech-team-develops-first-noninvasive-method-to-continually-measure-true-blood-pressure)
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)

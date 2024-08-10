@@ -34,6 +34,7 @@
 * [2024-08-10, 12:10:47](https://news.ycombinator.com/item?id=41208923) - [Susan Wojcicki, Former Chief of YouTube, Dies at 56](https://www.nytimes.com/2024/08/10/business/susan-wojcicki-dead.html)
 * [2024-08-10, 12:02:16](https://news.ycombinator.com/item?id=41208881) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-08-10, 11:52:22](https://news.ycombinator.com/item?id=41208836) - [Ladybird browser to start using Swift language this fall](https://twitter.com/awesomekling/status/1822236888188498031)
+* [2024-08-10, 11:13:37](https://news.ycombinator.com/item?id=41208704) - [Command-Line Utility to Backup Google Mail, Calendar and Contacts to Files](https://github.com/WeeJeWel/node-google-backup)
 * [2024-08-10, 10:49:39](https://news.ycombinator.com/item?id=41208627) - [Moxie Marlinspike: Agile is killing software innovation](https://www.theregister.com/2024/08/09/marlinspike/)
 * [2024-08-10, 10:18:02](https://news.ycombinator.com/item?id=41208506) - [The friendliest social network you've never heard of](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
 * [2024-08-10, 09:09:53](https://news.ycombinator.com/item?id=41208265) - [Chinese drones will fly trash out of Everest slopes](https://kathmandupost.com/money/2024/08/05/it-s-official-chinese-drones-will-fly-trash-out-of-everest-slopes)
