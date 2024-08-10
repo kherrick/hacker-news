@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 09:06:10](https://news.ycombinator.com/item?id=41208252) - [Does Astrology Work?](https://www.clearerthinking.org/post/does-astrology-work)
+* [2024-08-10, 07:51:35](https://news.ycombinator.com/item?id=41208005) - [Former YouTube CEO Susan Wojcicki dies at 56 of lung cancer](https://www.reuters.com/business/former-youtube-ceo-susan-wojcicki-has-died-google-ceo-says-2024-08-10/)
 * [2024-08-10, 05:48:01](https://news.ycombinator.com/item?id=41207604) - [SNES Graphics: 186.2ns or Bust](https://fabiensanglard.net/snes_ppus_why/index.html)
 * [2024-08-10, 05:35:27](https://news.ycombinator.com/item?id=41207556) - [Larry Wall's Very Own Home Page](http://wall.org/%7Elarry/)
 * [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Susan Wojcicki has died](https://www.facebook.com/share/p/qe2ZMcs9Bz4K1SPt/)
