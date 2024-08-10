@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-10, 22:11:24](https://news.ycombinator.com/item?id=41212616) - [Algorithmic price-fixing of rents is here](https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/)
 * [2024-08-10, 21:30:46](https://news.ycombinator.com/item?id=41212364) - [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
 * [2024-08-10, 21:18:51](https://news.ycombinator.com/item?id=41212271) - [AMD's Strix Point: Zen 5 Hits Mobile](https://chipsandcheese.com/2024/08/10/amds-strix-point-zen-5-hits-mobile/)
 * [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
@@ -27,7 +28,6 @@
 * [2024-08-07, 13:49:45](https://news.ycombinator.com/item?id=41181468) - [An article using The Little Schemer format, what do you think of it?](https://phfrohring.com/page/ac946fae-6766-428b-bb26-c63880167228/)
 * [2024-08-07, 11:45:23](https://news.ycombinator.com/item?id=41180356) - [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)
 * [2024-08-07, 07:31:12](https://news.ycombinator.com/item?id=41179043) - [A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]](https://www.ams.org/notices/200503/fea-weil.pdf)
-* [2024-08-06, 17:16:21](https://news.ycombinator.com/item?id=41172938) - [What Is Rotoscope Animation? The Process Explained (2020)](https://www.studiobinder.com/blog/what-is-rotoscope-animation-definition/)
 * [2024-08-06, 00:14:41](https://news.ycombinator.com/item?id=41166774) - [Everything that turned out well in my life followed the same design process](https://www.henrikkarlsson.xyz/p/unfolding)
 * [2024-08-05, 20:40:47](https://news.ycombinator.com/item?id=41165392) - [Influential descriptions of depression are often misleading](https://www.bps.org.uk/research-digest/influential-descriptions-depression-are-often-misleading)
 
