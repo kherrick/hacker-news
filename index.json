@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-08-10, 14:15:52",
+      "https://news.ycombinator.com/item?id=41209688"
+    ],
+    [
+      "OpenSnitch is a GNU/Linux interactive application firewall",
+      "https://github.com/evilsocket/opensnitch"
+    ]
+  ],
+  [
+    [
+      "2024-08-10, 14:10:48",
+      "https://news.ycombinator.com/item?id=41209658"
+    ],
+    [
+      "Another Look at the Voynich Manuscript",
+      "https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 13:05:48",
       "https://news.ycombinator.com/item?id=41209181"
     ],
     [
-      "Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool",
+      "Deep Live Cam: Real-time face swapping and one-click video deepfake tool",
       "https://deeplive.cam"
     ]
   ],
@@ -91,26 +111,6 @@
   ],
   [
     [
-      "2024-08-10, 00:17:59",
-      "https://news.ycombinator.com/item?id=41206465"
-    ],
-    [
-      "Common Lisp Community Survey 2024 Results",
-      "https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 00:12:05",
-      "https://news.ycombinator.com/item?id=41206443"
-    ],
-    [
-      "Rivian reduced electrical wiring by 1.6 miles and 44 pounds",
-      "https://www.popsci.com/technology/rivian-zonal-electrical-architecture/"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 22:52:13",
       "https://news.ycombinator.com/item?id=41206025"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-08-09, 15:17:06",
-      "https://news.ycombinator.com/item?id=41202694"
-    ],
-    [
-      "Launch HN: Roe AI (YC W24) – AI-powered data warehouse to query multimodal data",
-      "https://news.ycombinator.com/item?id=41202694"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 14:16:09",
       "https://news.ycombinator.com/item?id=41202064"
     ],
@@ -267,6 +257,16 @@
     [
       "SQL/SE Query Language Extension for Schema Evolution (1992) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/140979.140985"
+    ]
+  ],
+  [
+    [
+      "2024-08-07, 07:31:12",
+      "https://news.ycombinator.com/item?id=41179043"
+    ],
+    [
+      "A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]",
+      "https://www.ams.org/notices/200503/fea-weil.pdf"
     ]
   ],
   [
