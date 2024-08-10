@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Susan Wojcicki has died](https://www.threads.net/@crumbler/post/C-ecdHJxHMq)
+* [2024-08-10, 05:35:27](https://news.ycombinator.com/item?id=41207556) - [Larry Wall's Very Own Home Page](http://wall.org/%7Elarry/)
+* [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Susan Wojcicki has died](https://www.facebook.com/share/p/qe2ZMcs9Bz4K1SPt/)
 * [2024-08-10, 04:28:35](https://news.ycombinator.com/item?id=41207317) - [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
 * [2024-08-10, 03:59:50](https://news.ycombinator.com/item?id=41207221) - [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
@@ -23,11 +24,10 @@
 * [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
 * [2024-08-09, 11:20:32](https://news.ycombinator.com/item?id=41200734) - [Has Burning Man Peaked?](https://www.bloomberg.com/news/newsletters/2024-08-09/silicon-valley-may-be-losing-its-cultural-connection-with-burning-man)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
-* [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-08, 18:52:57](https://news.ycombinator.com/item?id=41194929) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-08, 17:17:19](https://news.ycombinator.com/item?id=41193922) - [A heck of a wild bug chase](https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html)
 * [2024-08-08, 06:47:26](https://news.ycombinator.com/item?id=41188769) - [Using the Moon as an Echo [video]](https://www.youtube.com/watch?v=yxBC6XzuMPs)
-* [2024-08-06, 22:26:18](https://news.ycombinator.com/item?id=41176091) - [Keynote Speech to the 1996 Oopsla Convention](https://www.patternlanguage.com/archive/ieee.html)
+* [2024-08-07, 11:17:44](https://news.ycombinator.com/item?id=41180181) - [The Paige Compositor: First US Typography Machine](https://www.asme.org/about-asme/engineering-history/landmarks/11-paige-compositor)
 * [2024-08-06, 14:25:35](https://news.ycombinator.com/item?id=41171142) - [VisiCalc – The Early Days (2003)](https://benlo.com/visicalc/)
 * [2024-08-06, 05:04:04](https://news.ycombinator.com/item?id=41167921) - [Qlot: Common Lisp Library Manager](https://github.com/fukamachi/qlot)
 
