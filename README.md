@@ -12,7 +12,6 @@
 * [2024-08-09, 20:32:11](https://news.ycombinator.com/item?id=41205176) - [Urchin Software Corp: The unlikely origin story of Google Analytics (2016)](https://urchin.biz/urchin-software-corp-89a1f5292999)
 * [2024-08-09, 19:55:42](https://news.ycombinator.com/item?id=41204881) - [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice is a garden: Margaret Watts Hughes's Victorian sound visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
-* [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
 * [2024-08-09, 18:49:45](https://news.ycombinator.com/item?id=41204378) - [What the hell is a luminiferous theremin?](https://extkits.co.uk/what-the-hell-is-a-luminiferous-theremin/)
 * [2024-08-09, 17:48:10](https://news.ycombinator.com/item?id=41203928) - [Data types as Lattices – Dana Scott [pdf]](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1976-data-types-as-lattices.pdf)
 * [2024-08-09, 16:55:14](https://news.ycombinator.com/item?id=41203509) - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
@@ -28,6 +27,7 @@
 * [2024-08-08, 17:17:19](https://news.ycombinator.com/item?id=41193922) - [A heck of a wild bug chase](https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html)
 * [2024-08-08, 13:11:21](https://news.ycombinator.com/item?id=41191125) - [Row Embedded Cache: Experimenting with a new pattern of caching](https://zarar.dev/row-embedded-cache/)
 * [2024-08-08, 06:47:26](https://news.ycombinator.com/item?id=41188769) - [Using the Moon as an Echo [video]](https://www.youtube.com/watch?v=yxBC6XzuMPs)
+* [2024-08-06, 22:26:18](https://news.ycombinator.com/item?id=41176091) - [Keynote Speech to the 1996 Oopsla Convention](https://www.patternlanguage.com/archive/ieee.html)
 * [2024-08-06, 14:25:35](https://news.ycombinator.com/item?id=41171142) - [VisiCalc – The Early Days (2003)](https://benlo.com/visicalc/)
 * [2024-08-06, 05:04:04](https://news.ycombinator.com/item?id=41167921) - [Qlot: Common Lisp Library Manager](https://github.com/fukamachi/qlot)
 

@@ -12,6 +12,7 @@
 * [2024-08-06, 23:07:07](https://news.ycombinator.com/item?id=41176461) - [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
 * [2024-08-06, 22:47:33](https://news.ycombinator.com/item?id=41176265) - [How long does Apple support Mac firmware?](https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/)
 * [2024-08-06, 22:32:12](https://news.ycombinator.com/item?id=41176148) - [Bring Crypto Back to Currency](https://rohan.ga/blog/bring-crypto-back-to_currency/)
+* [2024-08-06, 22:26:18](https://news.ycombinator.com/item?id=41176091) - [Keynote Speech to the 1996 Oopsla Convention](https://www.patternlanguage.com/archive/ieee.html)
 * [2024-08-06, 22:25:55](https://news.ycombinator.com/item?id=41176087) - [OpenBSD on ThinkPad L13 Gen 2 running KDE 6](https://brynet.ca/article-l13gen2.html)
 * [2024-08-06, 22:22:38](https://news.ycombinator.com/item?id=41176056) - [Airbnb shares drop 12% as company flags weakening US demand](https://www.theguardian.com/technology/article/2024/aug/06/airbnb-shares-drop-earnings)
 * [2024-08-06, 21:38:50](https://news.ycombinator.com/item?id=41175666) - [Drake Releases 100gb Data Dump](https://100gigs.org/)
