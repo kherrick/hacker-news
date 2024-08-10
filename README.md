@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-10, 13:40:04](https://news.ycombinator.com/item?id=41209416) - [Apple Intelligence System Prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
 * [2024-08-10, 13:05:48](https://news.ycombinator.com/item?id=41209181) - [Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool](https://deeplive.cam)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
 * [2024-08-10, 12:13:01](https://news.ycombinator.com/item?id=41208934) - [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
+* [2024-08-10, 12:10:47](https://news.ycombinator.com/item?id=41208923) - [Susan Wojcicki, Former Chief of YouTube, Dies at 56](https://www.nytimes.com/2024/08/10/business/susan-wojcicki-dead.html)
 * [2024-08-10, 12:02:16](https://news.ycombinator.com/item?id=41208881) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-08-10, 08:36:44](https://news.ycombinator.com/item?id=41208148) - [Pursuits That Can't Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
 * [2024-08-10, 05:00:00](https://news.ycombinator.com/item?id=41207417) - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
