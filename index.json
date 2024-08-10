@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-10, 18:25:28",
+      "https://news.ycombinator.com/item?id=41211303"
+    ],
+    [
+      "'It's devastating': summer in Canada's Arctic region brings heatwaves",
+      "https://www.theguardian.com/world/article/2024/aug/08/canada-arctic-region-heat-wave"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 18:14:32",
       "https://news.ycombinator.com/item?id=41211235"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2024-08-10, 15:36:45",
-      "https://news.ycombinator.com/item?id=41210221"
-    ],
-    [
-      "Simple CLI Tool for Optimizing Your CSS Files",
-      "https://github.com/happer64bit/style-eyes"
-    ]
-  ],
-  [
-    [
       "2024-08-10, 15:16:08",
       "https://news.ycombinator.com/item?id=41210110"
     ],
@@ -107,16 +107,6 @@
     [
       "OpenSnitch is a GNU/Linux interactive application firewall",
       "https://github.com/evilsocket/opensnitch"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 14:10:48",
-      "https://news.ycombinator.com/item?id=41209658"
-    ],
-    [
-      "Another Look at the Voynich Manuscript",
-      "https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Caltech Develops First Noninvasive Method to Continually Measure Blood Pressure",
       "https://www.caltech.edu/about/news/caltech-team-develops-first-noninvasive-method-to-continually-measure-true-blood-pressure"
+    ]
+  ],
+  [
+    [
+      "2024-08-10, 02:37:55",
+      "https://news.ycombinator.com/item?id=41206908"
+    ],
+    [
+      "Building a highly-available web service without a database",
+      "https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/"
     ]
   ],
   [
