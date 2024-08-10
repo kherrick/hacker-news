@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
-* [2024-08-10, 01:38:49](https://news.ycombinator.com/item?id=41206723) - [Will there be 50B+ in student loan delinquencies in US?](https://wordsofwill.com/2024/08/09/august-2024-housing-credit-market-analysis-may-2024-follow-up/)
 * [2024-08-10, 01:36:31](https://news.ycombinator.com/item?id=41206718) - [Daily marijuana use linked to increased risk of deadly head and neck cancers](https://www.cnn.com/2024/08/08/health/marijuana-head-and-neck-cancer-wellness/index.html)
 * [2024-08-10, 01:18:35](https://news.ycombinator.com/item?id=41206667) - [HIV drug could be made for just $40 a year for every patient](https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing)
 * [2024-08-10, 01:01:02](https://news.ycombinator.com/item?id=41206619) - [GCVR (YC W22) Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
@@ -15,6 +14,7 @@
 * [2024-08-09, 19:21:21](https://news.ycombinator.com/item?id=41204622) - [Voice is a garden: Margaret Watts Hughes's Victorian sound visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
 * [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
 * [2024-08-09, 18:49:45](https://news.ycombinator.com/item?id=41204378) - [What the hell is a luminiferous theremin?](https://extkits.co.uk/what-the-hell-is-a-luminiferous-theremin/)
+* [2024-08-09, 17:48:10](https://news.ycombinator.com/item?id=41203928) - [Data types as Lattices – Dana Scott [pdf]](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1976-data-types-as-lattices.pdf)
 * [2024-08-09, 16:55:14](https://news.ycombinator.com/item?id=41203509) - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
 * [2024-08-09, 16:50:41](https://news.ycombinator.com/item?id=41203475) - [Show HN: Attaching to a virtual GPU over TCP](https://www.thundercompute.com/)
 * [2024-08-09, 16:36:50](https://news.ycombinator.com/item?id=41203368) - [.INTERNAL is now reserved for private-use applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
