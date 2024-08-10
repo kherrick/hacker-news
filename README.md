@@ -2,6 +2,7 @@
 
 * [2024-08-10, 19:34:27](https://news.ycombinator.com/item?id=41211692) - [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
 * [2024-08-10, 19:07:23](https://news.ycombinator.com/item?id=41211519) - [DEF CON's response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
+* [2024-08-10, 19:00:26](https://news.ycombinator.com/item?id=41211481) - [The Mac Is a Power Tool](https://daringfireball.net/2024/08/the_mac_is_a_power_tool)
 * [2024-08-10, 18:59:53](https://news.ycombinator.com/item?id=41211475) - [Defcon Response to Badge Issues](https://twitter.com/defcon/status/1822344607063302200)
 * [2024-08-10, 17:58:59](https://news.ycombinator.com/item?id=41211147) - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
@@ -21,14 +22,13 @@
 * [2024-08-09, 20:32:11](https://news.ycombinator.com/item?id=41205176) - [Urchin Software Corp: The unlikely origin story of Google Analytics (2016)](https://urchin.biz/urchin-software-corp-89a1f5292999)
 * [2024-08-09, 16:50:41](https://news.ycombinator.com/item?id=41203475) - [Show HN: Attaching to a virtual GPU over TCP](https://www.thundercompute.com/)
 * [2024-08-09, 16:36:50](https://news.ycombinator.com/item?id=41203368) - [.INTERNAL is now reserved for private-use applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
-* [2024-08-09, 16:28:39](https://news.ycombinator.com/item?id=41203306) - [Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs](https://github.com/Dicklesworthstone/llm_aided_ocr)
 * [2024-08-08, 21:03:31](https://news.ycombinator.com/item?id=41196237) - [Ask HN: Resources about math behind A/B testing](https://news.ycombinator.com/item?id=41196237)
 * [2024-08-08, 18:52:57](https://news.ycombinator.com/item?id=41194929) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-07, 17:25:09](https://news.ycombinator.com/item?id=41183439) - [SQL/SE Query Language Extension for Schema Evolution (1992) [pdf]](https://dl.acm.org/doi/pdf/10.1145/140979.140985)
 * [2024-08-07, 07:31:12](https://news.ycombinator.com/item?id=41179043) - [A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]](https://www.ams.org/notices/200503/fea-weil.pdf)
-* [2024-08-07, 04:59:51](https://news.ycombinator.com/item?id=41178372) - [The Powers of Soviet Puppetry](https://www.historytoday.com/archive/history-matters/powers-soviet-puppetry)
 * [2024-08-06, 21:52:48](https://news.ycombinator.com/item?id=41175784) - [An SVE backend for astcenc (Adaptive Scalable Texture Compression Encoder)](https://solidpixel.github.io/astcenc_meets_sve)
 * [2024-08-06, 05:04:04](https://news.ycombinator.com/item?id=41167921) - [Qlot: Common Lisp Library Manager](https://github.com/fukamachi/qlot)
+* [2024-08-06, 02:24:40](https://news.ycombinator.com/item?id=41167340) - [Touch Wood: The Roman Phallus as a Lucky Charm](https://www.athenaartfoundation.org/read/ancient-roman-phallus)
 * [2024-08-05, 20:40:47](https://news.ycombinator.com/item?id=41165392) - [Influential descriptions of depression are often misleading](https://www.bps.org.uk/research-digest/influential-descriptions-depression-are-often-misleading)
 
 ## [Archives](archives/index.md)
