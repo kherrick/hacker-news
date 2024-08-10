@@ -22,7 +22,7 @@
 * [2024-08-09, 15:17:06](https://news.ycombinator.com/item?id=41202694) - [Launch HN: Roe AI (YC W24) – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 * [2024-08-09, 14:16:09](https://news.ycombinator.com/item?id=41202064) - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
 * [2024-08-09, 13:19:03](https://news.ycombinator.com/item?id=41201555) - [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
-* [2024-08-09, 11:20:32](https://news.ycombinator.com/item?id=41200734) - [Has Burning Man Peaked?](https://www.bloomberg.com/news/newsletters/2024-08-09/silicon-valley-may-be-losing-its-cultural-connection-with-burning-man)
+* [2024-08-09, 11:20:32](https://news.ycombinator.com/item?id=41200734) - [For the first time since 2011, Burning Man is struggling to sell tickets](https://www.bloomberg.com/news/newsletters/2024-08-09/silicon-valley-may-be-losing-its-cultural-connection-with-burning-man)
 * [2024-08-09, 07:31:15](https://news.ycombinator.com/item?id=41199567) - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 * [2024-08-08, 18:52:57](https://news.ycombinator.com/item?id=41194929) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-08, 17:17:19](https://news.ycombinator.com/item?id=41193922) - [A heck of a wild bug chase](https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html)
