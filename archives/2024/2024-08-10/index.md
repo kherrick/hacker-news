@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 18:25:28](https://news.ycombinator.com/item?id=41211303) - ['It's devastating': summer in Canada's Arctic region brings heatwaves](https://www.theguardian.com/world/article/2024/aug/08/canada-arctic-region-heat-wave)
 * [2024-08-10, 18:14:32](https://news.ycombinator.com/item?id=41211235) - [Apple. Apple Please](https://digipres.club/@misty/112927898002214724)
 * [2024-08-10, 17:58:59](https://news.ycombinator.com/item?id=41211147) - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
