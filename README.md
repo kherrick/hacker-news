@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-10, 18:53:00](https://news.ycombinator.com/item?id=41211437) - [\"Jeff Bezos and Amazon tried to imprison my husband\"](https://twitter.com/Amy_K_Nelson/status/1822318185556648348)
 * [2024-08-10, 18:25:28](https://news.ycombinator.com/item?id=41211303) - ['It's devastating': summer in Canada's Arctic region brings heatwaves](https://www.theguardian.com/world/article/2024/aug/08/canada-arctic-region-heat-wave)
 * [2024-08-10, 18:14:32](https://news.ycombinator.com/item?id=41211235) - [Apple. Apple Please](https://digipres.club/@misty/112927898002214724)
 * [2024-08-10, 17:58:59](https://news.ycombinator.com/item?id=41211147) - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
-* [2024-08-10, 17:36:57](https://news.ycombinator.com/item?id=41210994) - [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)
 * [2024-08-10, 17:02:51](https://news.ycombinator.com/item?id=41210760) - [The spinning ATR plane crash in Brazil](https://philip.greenspun.com/blog/2024/08/10/the-spinning-atr-crash-in-brazil/)
 * [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
 * [2024-08-10, 15:16:08](https://news.ycombinator.com/item?id=41210110) - [New U.N. Cybercrime Treaty Unanimously Approved, Could Threaten Human Rights](https://www.scientificamerican.com/article/0724--un-cybercrime/)
