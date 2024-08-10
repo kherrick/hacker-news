@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
+* [2024-08-10, 02:33:49](https://news.ycombinator.com/item?id=41206887) - [We now know how kestrels stay perfectly still while hovering](https://www.newscientist.com/article/2443209-we-now-know-how-kestrels-stay-perfectly-still-while-hovering/)
+* [2024-08-10, 01:38:49](https://news.ycombinator.com/item?id=41206723) - [Will there be 50B+ in student loan delinquencies in US?](https://wordsofwill.com/2024/08/09/august-2024-housing-credit-market-analysis-may-2024-follow-up/)
 * [2024-08-10, 01:36:31](https://news.ycombinator.com/item?id=41206718) - [Daily marijuana use linked to increased risk of deadly head and neck cancers](https://www.cnn.com/2024/08/08/health/marijuana-head-and-neck-cancer-wellness/index.html)
 * [2024-08-10, 01:32:58](https://news.ycombinator.com/item?id=41206703) - [X: Rolling out now: sort replies on any post by most relevant, recent, or liked](https://twitter.com/X/status/1822009969610293687)
 * [2024-08-10, 01:18:35](https://news.ycombinator.com/item?id=41206667) - [HIV drug could be made for just $40 a year for every patient](https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing)
