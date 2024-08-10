@@ -39,6 +39,7 @@
 * [2024-08-07, 18:35:08](https://news.ycombinator.com/item?id=41184037) - [GitButler is now Fair Source](https://blog.gitbutler.com/gitbutler-is-now-fair-source/)
 * [2024-08-07, 18:08:24](https://news.ycombinator.com/item?id=41183808) - [What Are the Olympics Shooting Competitors Wearing on Their Faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)
 * [2024-08-07, 17:58:58](https://news.ycombinator.com/item?id=41183725) - [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
+* [2024-08-07, 17:25:09](https://news.ycombinator.com/item?id=41183439) - [SQL/SE Query Language Extension for Schema Evolution (1992) [pdf]](https://dl.acm.org/doi/pdf/10.1145/140979.140985)
 * [2024-08-07, 17:22:32](https://news.ycombinator.com/item?id=41183421) - [Humane's daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
 * [2024-08-07, 17:05:12](https://news.ycombinator.com/item?id=41183269) - [1970 Clean Air Act Was Intended to Cover Carbon Dioxide](https://e360.yale.edu/digest/clean-air-act-climate-change)
 * [2024-08-07, 17:02:00](https://news.ycombinator.com/item?id=41183240) - [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
