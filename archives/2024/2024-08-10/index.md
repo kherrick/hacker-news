@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 10:18:02](https://news.ycombinator.com/item?id=41208506) - [The friendliest social network you've never heard of](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
 * [2024-08-10, 09:09:53](https://news.ycombinator.com/item?id=41208265) - [Chinese drones will fly trash out of Everest slopes](https://kathmandupost.com/money/2024/08/05/it-s-official-chinese-drones-will-fly-trash-out-of-everest-slopes)
 * [2024-08-10, 09:06:10](https://news.ycombinator.com/item?id=41208252) - [Does Astrology Work?](https://www.clearerthinking.org/post/does-astrology-work)
 * [2024-08-10, 08:36:44](https://news.ycombinator.com/item?id=41208148) - [Pursuits That Can't Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)

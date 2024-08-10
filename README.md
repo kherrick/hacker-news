@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-10, 10:18:02](https://news.ycombinator.com/item?id=41208506) - [The friendliest social network you've never heard of](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
 * [2024-08-10, 08:36:44](https://news.ycombinator.com/item?id=41208148) - [Pursuits That Can't Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
 * [2024-08-10, 05:00:00](https://news.ycombinator.com/item?id=41207417) - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
 * [2024-08-10, 04:58:29](https://news.ycombinator.com/item?id=41207415) - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
@@ -25,9 +26,8 @@
 * [2024-08-08, 18:52:57](https://news.ycombinator.com/item?id=41194929) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-08, 17:17:19](https://news.ycombinator.com/item?id=41193922) - [A heck of a wild bug chase](https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html)
 * [2024-08-08, 06:47:26](https://news.ycombinator.com/item?id=41188769) - [Using the Moon as an Echo [video]](https://www.youtube.com/watch?v=yxBC6XzuMPs)
-* [2024-08-07, 21:48:43](https://news.ycombinator.com/item?id=41185945) - [The Third Atomic Bomb](https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/)
+* [2024-08-07, 04:59:51](https://news.ycombinator.com/item?id=41178372) - [The Powers of Soviet Puppetry](https://www.historytoday.com/archive/history-matters/powers-soviet-puppetry)
 * [2024-08-06, 17:22:52](https://news.ycombinator.com/item?id=41173001) - [Open source tools to query OpenStreetMap](https://wcedmisten.fyi/post/how-to-query-osm/)
-* [2024-08-06, 17:15:31](https://news.ycombinator.com/item?id=41172923) - [Soup Dumpling Index: How prices compare around the world](https://www.axios.com/2024/07/31/din-tai-fung-soup-dumplings)
 * [2024-08-06, 14:25:35](https://news.ycombinator.com/item?id=41171142) - [VisiCalc – The Early Days (2003)](https://benlo.com/visicalc/)
 * [2024-08-06, 05:04:04](https://news.ycombinator.com/item?id=41167921) - [Qlot: Common Lisp Library Manager](https://github.com/fukamachi/qlot)
 
