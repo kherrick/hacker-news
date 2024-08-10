@@ -15,6 +15,7 @@
 * [2024-08-06, 22:26:18](https://news.ycombinator.com/item?id=41176091) - [Keynote Speech to the 1996 Oopsla Convention](https://www.patternlanguage.com/archive/ieee.html)
 * [2024-08-06, 22:25:55](https://news.ycombinator.com/item?id=41176087) - [OpenBSD on ThinkPad L13 Gen 2 running KDE 6](https://brynet.ca/article-l13gen2.html)
 * [2024-08-06, 22:22:38](https://news.ycombinator.com/item?id=41176056) - [Airbnb shares drop 12% as company flags weakening US demand](https://www.theguardian.com/technology/article/2024/aug/06/airbnb-shares-drop-earnings)
+* [2024-08-06, 21:52:48](https://news.ycombinator.com/item?id=41175784) - [An SVE backend for astcenc (Adaptive Scalable Texture Compression Encoder)](https://solidpixel.github.io/astcenc_meets_sve)
 * [2024-08-06, 21:38:50](https://news.ycombinator.com/item?id=41175666) - [Drake Releases 100gb Data Dump](https://100gigs.org/)
 * [2024-08-06, 21:30:12](https://news.ycombinator.com/item?id=41175586) - [Please Do Not Attempt to Simplify This Code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
 * [2024-08-06, 21:00:16](https://news.ycombinator.com/item?id=41175322) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)

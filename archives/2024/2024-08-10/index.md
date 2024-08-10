@@ -4,15 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
 * [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
 * [2024-08-10, 16:46:43](https://news.ycombinator.com/item?id=41210668) - [Inside Apple Arcade](https://mjtsai.com/blog/2024/08/07/inside-apple-arcade/)
 * [2024-08-10, 16:24:51](https://news.ycombinator.com/item?id=41210537) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/index.html)
 * [2024-08-10, 16:14:02](https://news.ycombinator.com/item?id=41210469) - [Online sports betting hurts consumers](https://www.slowboring.com/p/online-sports-betting-hurts-consumers)
+* [2024-08-10, 15:36:45](https://news.ycombinator.com/item?id=41210221) - [Simple CLI Tool for Optimizing Your CSS Files](https://github.com/happer64bit/style-eyes)
 * [2024-08-10, 15:16:08](https://news.ycombinator.com/item?id=41210110) - [New U.N. Cybercrime Treaty Unanimously Approved, Could Threaten Human Rights](https://www.scientificamerican.com/article/0724--un-cybercrime/)
 * [2024-08-10, 15:00:41](https://news.ycombinator.com/item?id=41209994) - [Show HN: Pg_replicate – Build Postgres replication applications in Rust](https://github.com/supabase/pg_replicate)
 * [2024-08-10, 14:57:00](https://news.ycombinator.com/item?id=41209966) - [PEP 750: Tag Strings for Writing Domain-Specific Languages](https://discuss.python.org/t/pep-750-tag-strings-for-writing-domain-specific-languages/60408)
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 * [2024-08-10, 14:10:48](https://news.ycombinator.com/item?id=41209658) - [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
+* [2024-08-10, 13:45:12](https://news.ycombinator.com/item?id=41209452) - [Ray Tracing Harmonic Functions](https://markjgillespie.com/Research/harnack-tracing/index.html)
 * [2024-08-10, 13:40:04](https://news.ycombinator.com/item?id=41209416) - [Apple Intelligence System Prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
 * [2024-08-10, 13:05:48](https://news.ycombinator.com/item?id=41209181) - [Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool](https://deeplive.cam)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
