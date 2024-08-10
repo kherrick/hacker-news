@@ -2,7 +2,6 @@
 
 * [2024-08-10, 09:09:53](https://news.ycombinator.com/item?id=41208265) - [Chinese drones will fly trash out of Everest slopes](https://kathmandupost.com/money/2024/08/05/it-s-official-chinese-drones-will-fly-trash-out-of-everest-slopes)
 * [2024-08-10, 08:36:44](https://news.ycombinator.com/item?id=41208148) - [Pursuits That Can't Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
-* [2024-08-10, 08:36:28](https://news.ycombinator.com/item?id=41208147) - [Cancer Incidence by Country](https://ourworldindata.org/grapher/cancer-incidence)
 * [2024-08-10, 05:00:00](https://news.ycombinator.com/item?id=41207417) - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
 * [2024-08-10, 04:58:29](https://news.ycombinator.com/item?id=41207415) - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
@@ -26,6 +25,7 @@
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-08, 21:03:31](https://news.ycombinator.com/item?id=41196237) - [Ask HN: Resources about math behind A/B testing](https://news.ycombinator.com/item?id=41196237)
 * [2024-08-08, 18:52:57](https://news.ycombinator.com/item?id=41194929) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
+* [2024-08-08, 17:17:19](https://news.ycombinator.com/item?id=41193922) - [A heck of a wild bug chase](https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html)
 * [2024-08-08, 06:47:26](https://news.ycombinator.com/item?id=41188769) - [Using the Moon as an Echo [video]](https://www.youtube.com/watch?v=yxBC6XzuMPs)
 * [2024-08-06, 17:22:52](https://news.ycombinator.com/item?id=41173001) - [Open source tools to query OpenStreetMap](https://wcedmisten.fyi/post/how-to-query-osm/)
 * [2024-08-06, 14:25:35](https://news.ycombinator.com/item?id=41171142) - [VisiCalc – The Early Days (2003)](https://benlo.com/visicalc/)
