@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-10, 08:36:44](https://news.ycombinator.com/item?id=41208148) - [Pursuits That Can't Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
 * [2024-08-10, 05:00:00](https://news.ycombinator.com/item?id=41207417) - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
 * [2024-08-10, 04:58:29](https://news.ycombinator.com/item?id=41207415) - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
@@ -24,7 +25,6 @@
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-08, 18:52:57](https://news.ycombinator.com/item?id=41194929) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-08, 17:17:19](https://news.ycombinator.com/item?id=41193922) - [A heck of a wild bug chase](https://georgemauer.net/2024/08/01/a-heck-of-a-wild-bug-chase.html)
-* [2024-08-08, 13:11:21](https://news.ycombinator.com/item?id=41191125) - [Row Embedded Cache: Experimenting with a new pattern of caching](https://zarar.dev/row-embedded-cache/)
 * [2024-08-08, 06:47:26](https://news.ycombinator.com/item?id=41188769) - [Using the Moon as an Echo [video]](https://www.youtube.com/watch?v=yxBC6XzuMPs)
 * [2024-08-07, 11:17:44](https://news.ycombinator.com/item?id=41180181) - [The Paige Compositor: First US Typography Machine](https://www.asme.org/about-asme/engineering-history/landmarks/11-paige-compositor)
 * [2024-08-06, 17:22:52](https://news.ycombinator.com/item?id=41173001) - [Open source tools to query OpenStreetMap](https://wcedmisten.fyi/post/how-to-query-osm/)
