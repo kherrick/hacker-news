@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-10, 17:42:02",
+      "https://news.ycombinator.com/item?id=41211039"
+    ],
+    [
+      "Interval parsing grammars for file format parsing (2023)",
+      "https://dl.acm.org/doi/10.1145/3591264"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 17:00:01",
       "https://news.ycombinator.com/item?id=41210742"
     ],
     [
       "OneText (YC W23) is hiring a lead TypeScript/Node engineer",
       "https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4"
+    ]
+  ],
+  [
+    [
+      "2024-08-10, 15:36:45",
+      "https://news.ycombinator.com/item?id=41210221"
+    ],
+    [
+      "Simple CLI Tool for Optimizing Your CSS Files",
+      "https://github.com/happer64bit/style-eyes"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2024-08-10, 13:45:12",
+      "https://news.ycombinator.com/item?id=41209452"
+    ],
+    [
+      "Ray Tracing Harmonic Functions",
+      "https://markjgillespie.com/Research/harnack-tracing/index.html"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 13:05:48",
       "https://news.ycombinator.com/item?id=41209181"
     ],
@@ -97,16 +127,6 @@
     [
       "Hal Hickel on Creating Tarkin for Rogue One",
       "http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 04:58:29",
-      "https://news.ycombinator.com/item?id=41207415"
-    ],
-    [
-      "Susan Wojcicki has died",
-      "https://twitter.com/sundarpichai/status/1822132667959386588"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-08-09, 19:55:42",
-      "https://news.ycombinator.com/item?id=41204881"
-    ],
-    [
-      "VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models",
-      "https://github.com/facebookresearch/vfusion3d"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 19:21:21",
       "https://news.ycombinator.com/item?id=41204622"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-08-09, 14:16:09",
-      "https://news.ycombinator.com/item?id=41202064"
-    ],
-    [
-      "Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI",
-      "https://github.com/TrafficGuard/nous"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 21:03:31",
       "https://news.ycombinator.com/item?id=41196237"
     ],
@@ -227,16 +227,6 @@
     [
       "Hacking a Virtual Power Plant",
       "https://rya.nc/vpp-hack.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 06:47:26",
-      "https://news.ycombinator.com/item?id=41188769"
-    ],
-    [
-      "Using the Moon as an Echo [video]",
-      "https://www.youtube.com/watch?v=yxBC6XzuMPs"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The Powers of Soviet Puppetry",
       "https://www.historytoday.com/archive/history-matters/powers-soviet-puppetry"
+    ]
+  ],
+  [
+    [
+      "2024-08-06, 21:52:48",
+      "https://news.ycombinator.com/item?id=41175784"
+    ],
+    [
+      "An SVE backend for astcenc (Adaptive Scalable Texture Compression Encoder)",
+      "https://solidpixel.github.io/astcenc_meets_sve"
     ]
   ],
   [
