@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-11, 06:38:27](https://news.ycombinator.com/item?id=41214369) - [Bevy's Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
 * [2024-08-11, 06:00:17](https://news.ycombinator.com/item?id=41214259) - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
 * [2024-08-11, 05:35:12](https://news.ycombinator.com/item?id=41214180) - [The Gervais Principle, or the Office According to \"The Office\" (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 * [2024-08-11, 05:04:44](https://news.ycombinator.com/item?id=41214096) - [Online Dating](https://geohot.github.io//blog/jekyll/update/2024/08/02/online-dating.html)
@@ -16,7 +17,6 @@
 * [2024-08-10, 21:03:04](https://news.ycombinator.com/item?id=41212193) - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
 * [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium (2013)](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
-* [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
 * [2024-08-10, 15:00:41](https://news.ycombinator.com/item?id=41209994) - [Show HN: Pg_replicate – Build Postgres replication applications in Rust](https://github.com/supabase/pg_replicate)
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
