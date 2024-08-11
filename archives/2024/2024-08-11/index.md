@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 13:41:59](https://news.ycombinator.com/item?id=41216087) - [The Imminent Student-Loan Disaster](https://www.jamesgmartin.center/2024/08/the-imminent-student-loan-disaster-were-not-talking-about/)
 * [2024-08-11, 13:41:41](https://news.ycombinator.com/item?id=41216083) - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
 * [2024-08-11, 13:20:32](https://news.ycombinator.com/item?id=41215927) - [X's likelihood of prevailing in boycott suit is higher than I thought](https://shaungallagher.pressbin.com/blog/group-boycotts.html)
 * [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
