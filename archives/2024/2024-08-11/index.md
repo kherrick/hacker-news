@@ -53,6 +53,7 @@
 * [2024-08-11, 06:00:17](https://news.ycombinator.com/item?id=41214259) - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
 * [2024-08-11, 05:35:12](https://news.ycombinator.com/item?id=41214180) - [The Gervais Principle, or the Office According to \"The Office\" (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 * [2024-08-11, 05:04:44](https://news.ycombinator.com/item?id=41214096) - [Online Dating](https://geohot.github.io//blog/jekyll/update/2024/08/02/online-dating.html)
+* [2024-08-11, 04:03:12](https://news.ycombinator.com/item?id=41213902) - [The most cited authors in the Stanford Encyclopedia of Philosophy](https://schwitzsplinters.blogspot.com/2024/08/the-378-most-cited-contemporary-authors.html)
 * [2024-08-11, 02:55:20](https://news.ycombinator.com/item?id=41213711) - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 * [2024-08-11, 02:18:33](https://news.ycombinator.com/item?id=41213582) - [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
 * [2024-08-11, 02:11:47](https://news.ycombinator.com/item?id=41213561) - [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
