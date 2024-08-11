@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 23:30:33](https://news.ycombinator.com/item?id=41219981) - [Samsung's New EV Battery Tech: 600-Mile Ranges, and 9-Minute Charges?](https://www.pcmag.com/how-to/what-is-solid-state-battery-for-electric-vehicles)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
 * [2024-08-11, 21:18:47](https://news.ycombinator.com/item?id=41219385) - [The Sarumans and the Radagasts (2023)](https://medium.com/@komorama/the-sarumans-and-the-radagasts-6392f889d142)
 * [2024-08-11, 21:08:35](https://news.ycombinator.com/item?id=41219325) - [UK police commissioner threatens to extradite,jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)
