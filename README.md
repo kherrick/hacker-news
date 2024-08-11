@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-11, 06:00:17](https://news.ycombinator.com/item?id=41214259) - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
+* [2024-08-11, 05:35:12](https://news.ycombinator.com/item?id=41214180) - [The Gervais Principle, or the Office According to \"The Office\" (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 * [2024-08-11, 05:04:44](https://news.ycombinator.com/item?id=41214096) - [Online Dating](https://geohot.github.io//blog/jekyll/update/2024/08/02/online-dating.html)
 * [2024-08-11, 02:55:20](https://news.ycombinator.com/item?id=41213711) - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 * [2024-08-11, 02:18:33](https://news.ycombinator.com/item?id=41213582) - [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
@@ -21,7 +22,6 @@
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
 * [2024-08-10, 10:18:02](https://news.ycombinator.com/item?id=41208506) - [On Front Porch Forum, politics is fair game but unkindness is prohibited](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
-* [2024-08-10, 06:51:39](https://news.ycombinator.com/item?id=41207793) - [Linearizability: A correctness condition for concurrent objects](http://muratbuffalo.blogspot.com/2024/08/linearizability-correctness-condition.html)
 * [2024-08-10, 05:48:43](https://news.ycombinator.com/item?id=41207608) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/index.html)
 * [2024-08-10, 03:53:04](https://news.ycombinator.com/item?id=41207182) - [Caltech Develops First Noninvasive Method to Continually Measure Blood Pressure](https://www.caltech.edu/about/news/caltech-team-develops-first-noninvasive-method-to-continually-measure-true-blood-pressure)
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
