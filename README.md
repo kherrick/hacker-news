@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-11, 16:59:16](https://news.ycombinator.com/item?id=41217571) - [iPhone SE 4 due in early 2025 with OLED and Apple Intelligence](https://appleinsider.com/articles/24/08/11/iphone-se-4-due-in-early-2025-with-oled-and-apple-intelligence)
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
 * [2024-08-11, 16:16:36](https://news.ycombinator.com/item?id=41217229) - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
 * [2024-08-11, 16:07:30](https://news.ycombinator.com/item?id=41217162) - [Judge orders CDC to stop deleting emails of departing staff: 'likely unlawful'](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)
@@ -30,6 +29,7 @@
 * [2024-08-07, 14:57:15](https://news.ycombinator.com/item?id=41182109) - [Limits to running speed in dogs, horses and human](https://journals.biologists.com/jeb/article/211/24/3836/18013/Limits-to-running-speed-in-dogs-horses-and-humans)
 * [2024-08-07, 12:02:27](https://news.ycombinator.com/item?id=41180492) - [Ask HN: How to Price a Product](https://news.ycombinator.com/item?id=41180492)
 * [2024-08-07, 05:46:28](https://news.ycombinator.com/item?id=41178560) - [A simple proof that pi is irrational [pdf] (1946)](https://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08821-2/S0002-9904-1947-08821-2.pdf)
+* [2024-08-07, 05:05:34](https://news.ycombinator.com/item?id=41178388) - [12 Coins in Verse: Genius solution of twelve balls and a scale problem](https://www.cut-the-knot.org/blue/12CoinsInVerse.shtml#solution)
 
 ## [Archives](archives/index.md)
 
