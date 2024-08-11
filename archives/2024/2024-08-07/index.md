@@ -66,6 +66,7 @@
 * [2024-08-07, 13:49:45](https://news.ycombinator.com/item?id=41181468) - [An article using The Little Schemer format, what do you think of it?](https://phfrohring.com/page/ac946fae-6766-428b-bb26-c63880167228/)
 * [2024-08-07, 13:34:43](https://news.ycombinator.com/item?id=41181316) - [Home Insurance Decisions Based on Drones and AI](https://www.businessinsider.com/homeowners-insurance-nightmare-cancellation-surveillance-drone-ai-future-2024-8)
 * [2024-08-07, 13:20:17](https://news.ycombinator.com/item?id=41181176) - [How the super-rich are building their luxury 'safe house' bunkers](https://www.cnn.com/2024/08/07/style/underground-bunkers-super-rich/index.html)
+* [2024-08-07, 13:18:00](https://news.ycombinator.com/item?id=41181155) - [How Olympic Timing Works](https://entertainment.howstuffworks.com/olympic-timing.htm)
 * [2024-08-07, 13:09:54](https://news.ycombinator.com/item?id=41181057) - [Basic ReAct webapp using FastHTML and LangGraph](https://github.com/jank/curiosity)
 * [2024-08-07, 13:01:15](https://news.ycombinator.com/item?id=41180976) - [AMD Ryzen 5 9600X and Ryzen 7 9700X Offer Excellent Linux Performance](https://www.phoronix.com/review/ryzen-9600x-9700x)
 * [2024-08-07, 12:56:53](https://news.ycombinator.com/item?id=41180932) - [What's Up Python? Setuptools Breaks, a Better PDB, CPython on CalVer](https://www.bitecode.dev/p/whats-up-python-setuptools-breaks)
