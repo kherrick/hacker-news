@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 23:56:26](https://news.ycombinator.com/item?id=41186735) - [Study finds organizations have a significant gap in security on macOS endpoints](https://9to5mac.com/2024/08/05/new-study-finds-organizations-have-a-significant-gap-in-security-on-macos-systems/)
 * [2024-08-07, 23:45:57](https://news.ycombinator.com/item?id=41186675) - [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
 * [2024-08-07, 23:44:38](https://news.ycombinator.com/item?id=41186665) - [Costco membership scanners coming to clubs in sharing crackdown](https://www.axios.com/2024/08/07/costco-membership-scanners-card-sharing-crackdown)
 * [2024-08-07, 23:40:14](https://news.ycombinator.com/item?id=41186631) - [Review – Ford's First Engine](https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine)
