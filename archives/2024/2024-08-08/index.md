@@ -81,6 +81,7 @@
 * [2024-08-08, 06:47:26](https://news.ycombinator.com/item?id=41188769) - [Using the Moon as an Echo [video]](https://www.youtube.com/watch?v=yxBC6XzuMPs)
 * [2024-08-08, 06:30:59](https://news.ycombinator.com/item?id=41188676) - [Ergodic Literature](https://weirdnovels.com/articles/what-is-ergodic-literature/)
 * [2024-08-08, 06:22:18](https://news.ycombinator.com/item?id=41188647) - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
+* [2024-08-08, 05:51:38](https://news.ycombinator.com/item?id=41188491) - [Nuances around location-based programming](https://austingil.com/user-location-is-a-lie/)
 * [2024-08-08, 05:08:18](https://news.ycombinator.com/item?id=41188295) - [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
 * [2024-08-08, 05:08:00](https://news.ycombinator.com/item?id=41188292) - [ISS astronauts on eight-day mission may be stuck until 2025, NASA says](https://www.theguardian.com/science/article/2024/aug/07/spacex-delay-international-space-station-boeing-nasa)
 * [2024-08-08, 04:58:54](https://news.ycombinator.com/item?id=41188260) - [Is it time to version observability?](https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/)
