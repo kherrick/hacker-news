@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-11, 02:55:20](https://news.ycombinator.com/item?id=41213711) - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
+* [2024-08-11, 02:11:47](https://news.ycombinator.com/item?id=41213561) - [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
 * [2024-08-11, 01:59:17](https://news.ycombinator.com/item?id=41213514) - [ANTSDR: Low-cost SDR Alternatives for Ettus Research and Lime Microsystems](https://github.com/MicroPhase/antsdr-fw-patch)
 * [2024-08-11, 01:41:18](https://news.ycombinator.com/item?id=41213442) - [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [2024-08-11, 01:29:16](https://news.ycombinator.com/item?id=41213387) - [Quantum Cryptography Has Everyone Scrambling](https://spectrum.ieee.org/quantum-key-distribution)
@@ -29,7 +30,6 @@
 * [2024-08-07, 18:06:44](https://news.ycombinator.com/item?id=41183795) - [Imagining a personal data pipeline](https://www.joshcanhelp.com/personal-data-pipeline/)
 * [2024-08-07, 13:18:00](https://news.ycombinator.com/item?id=41181155) - [How Olympic Timing Works](https://entertainment.howstuffworks.com/olympic-timing.htm)
 * [2024-08-07, 11:45:23](https://news.ycombinator.com/item?id=41180356) - [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)
-* [2024-08-07, 07:31:12](https://news.ycombinator.com/item?id=41179043) - [A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]](https://www.ams.org/notices/200503/fea-weil.pdf)
 
 ## [Archives](archives/index.md)
 
