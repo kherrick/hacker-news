@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-11, 10:24:06](https://news.ycombinator.com/item?id=41215201) - [Why Your Data Stack Won't Last – and How to Build Data Infrastructure That Will](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
 * [2024-08-11, 08:47:22](https://news.ycombinator.com/item?id=41214860) - [Open Letter to the European Commission](https://nixos.org/blog/announcements/2024/letter/)
 * [2024-08-11, 08:23:43](https://news.ycombinator.com/item?id=41214762) - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
 * [2024-08-11, 07:30:07](https://news.ycombinator.com/item?id=41214540) - [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)
@@ -14,7 +15,6 @@
 * [2024-08-11, 01:41:18](https://news.ycombinator.com/item?id=41213442) - [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [2024-08-11, 01:29:16](https://news.ycombinator.com/item?id=41213387) - [Quantum Cryptography Has Everyone Scrambling](https://spectrum.ieee.org/quantum-key-distribution)
 * [2024-08-11, 00:20:41](https://news.ycombinator.com/item?id=41213151) - [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
-* [2024-08-11, 00:01:09](https://news.ycombinator.com/item?id=41213082) - [The Tic-Tac-Toe Mysteries of Xerloc O'Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 23:10:49](https://news.ycombinator.com/item?id=41212899) - [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
 * [2024-08-10, 21:03:04](https://news.ycombinator.com/item?id=41212193) - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)

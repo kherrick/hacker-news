@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 10:24:06](https://news.ycombinator.com/item?id=41215201) - [Why Your Data Stack Won't Last – and How to Build Data Infrastructure That Will](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
 * [2024-08-11, 08:47:22](https://news.ycombinator.com/item?id=41214860) - [Open Letter to the European Commission](https://nixos.org/blog/announcements/2024/letter/)
 * [2024-08-11, 08:23:43](https://news.ycombinator.com/item?id=41214762) - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
 * [2024-08-11, 07:30:07](https://news.ycombinator.com/item?id=41214540) - [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)
