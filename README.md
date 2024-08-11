@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
-* [2024-08-11, 12:24:43](https://news.ycombinator.com/item?id=41215685) - [The Authoritarian Playbook (2022)](https://protectdemocracy.org/work/the-authoritarian-playbook/)
 * [2024-08-11, 11:35:16](https://news.ycombinator.com/item?id=41215489) - [Samsung's EV batteries with 600Mi/1000KM range, 9min charging and 20years life](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)
 * [2024-08-11, 10:24:06](https://news.ycombinator.com/item?id=41215201) - [Building data infrastructure that will last](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
 * [2024-08-11, 10:11:35](https://news.ycombinator.com/item?id=41215154) - [After Breaking Free, Largest Iceberg Is Stuck Spinning in Circles](https://www.nytimes.com/2024/08/07/science/a23a-iceberg-antarctica-spinning.html)
@@ -20,6 +19,7 @@
 * [2024-08-10, 23:10:49](https://news.ycombinator.com/item?id=41212899) - [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
 * [2024-08-10, 21:03:04](https://news.ycombinator.com/item?id=41212193) - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
 * [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium (2013)](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
+* [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
 * [2024-08-10, 15:00:41](https://news.ycombinator.com/item?id=41209994) - [Show HN: Pg_replicate – Build Postgres replication applications in Rust](https://github.com/supabase/pg_replicate)
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
