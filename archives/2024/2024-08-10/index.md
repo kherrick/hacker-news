@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 23:55:12](https://news.ycombinator.com/item?id=41213064) - [Black Hat 2024: Secure Shells in Shambles [pdf]](https://i.blackhat.com/BH-US-24/Presentations/REVISED02-US24_Moore_Secure_Shells_in_Shambles_Wednesday.pdf)
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 23:10:49](https://news.ycombinator.com/item?id=41212899) - [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
 * [2024-08-10, 22:42:54](https://news.ycombinator.com/item?id=41212773) - [Golang Sync Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
