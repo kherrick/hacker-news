@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-11, 06:00:17](https://news.ycombinator.com/item?id=41214259) - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
+* [2024-08-11, 05:04:44](https://news.ycombinator.com/item?id=41214096) - [Online Dating](https://geohot.github.io//blog/jekyll/update/2024/08/02/online-dating.html)
 * [2024-08-11, 02:55:20](https://news.ycombinator.com/item?id=41213711) - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 * [2024-08-11, 02:18:33](https://news.ycombinator.com/item?id=41213582) - [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
 * [2024-08-11, 02:11:47](https://news.ycombinator.com/item?id=41213561) - [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
@@ -10,7 +12,6 @@
 * [2024-08-11, 00:01:09](https://news.ycombinator.com/item?id=41213082) - [The Tic-Tac-Toe Mysteries of Xerloc O'Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 23:10:49](https://news.ycombinator.com/item?id=41212899) - [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
-* [2024-08-10, 22:42:54](https://news.ycombinator.com/item?id=41212773) - [Golang Sync Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
 * [2024-08-10, 21:30:46](https://news.ycombinator.com/item?id=41212364) - [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
 * [2024-08-10, 21:03:04](https://news.ycombinator.com/item?id=41212193) - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
 * [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium (2013)](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
@@ -29,7 +30,6 @@
 * [2024-08-07, 18:06:44](https://news.ycombinator.com/item?id=41183795) - [Imagining a personal data pipeline](https://www.joshcanhelp.com/personal-data-pipeline/)
 * [2024-08-07, 13:18:00](https://news.ycombinator.com/item?id=41181155) - [How Olympic Timing Works](https://entertainment.howstuffworks.com/olympic-timing.htm)
 * [2024-08-07, 11:45:23](https://news.ycombinator.com/item?id=41180356) - [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)
-* [2024-08-07, 07:31:12](https://news.ycombinator.com/item?id=41179043) - [A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]](https://www.ams.org/notices/200503/fea-weil.pdf)
 
 ## [Archives](archives/index.md)
 
