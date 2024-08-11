@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
 * [2024-08-11, 19:31:10](https://news.ycombinator.com/item?id=41218721) - [Instagram Is Over](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/)
+* [2024-08-11, 19:28:54](https://news.ycombinator.com/item?id=41218706) - [Atlas: A Windows modification to optimize performance, privacy and usability](https://atlasos.net/)
 * [2024-08-11, 19:24:41](https://news.ycombinator.com/item?id=41218675) - [UK police commish threatens to extradite, jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)
+* [2024-08-11, 19:21:39](https://news.ycombinator.com/item?id=41218658) - [The case for pole dancing in the Olympics](https://www.vox.com/culture/366257/pole-dancing-olympics-sport-sex-work-gymnastics-paris)
 * [2024-08-11, 18:28:25](https://news.ycombinator.com/item?id=41218314) - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You've Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
+* [2024-08-11, 17:42:05](https://news.ycombinator.com/item?id=41217903) - [Another variable-length integer encoding](https://dcreager.net/2021/03/a-better-varint/)
 * [2024-08-11, 17:23:17](https://news.ycombinator.com/item?id=41217758) - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
 * [2024-08-11, 16:59:16](https://news.ycombinator.com/item?id=41217571) - [iPhone SE 4 due in early 2025 with OLED and Apple Intelligence](https://appleinsider.com/articles/24/08/11/iphone-se-4-due-in-early-2025-with-oled-and-apple-intelligence)
 * [2024-08-11, 16:42:32](https://news.ycombinator.com/item?id=41217411) - [MacBook Air, M2 Chip, 8GB RAM: Nothing is open, but half the memory is gone](https://twitter.com/Hasen_Judi/status/1822460173430194407)
