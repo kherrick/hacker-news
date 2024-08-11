@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+* [2024-08-11, 21:18:47](https://news.ycombinator.com/item?id=41219385) - [The Sarumans and the Radagasts (2023)](https://medium.com/@komorama/the-sarumans-and-the-radagasts-6392f889d142)
 * [2024-08-11, 21:08:35](https://news.ycombinator.com/item?id=41219325) - [UK police commissioner threatens to extradite,jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)
 * [2024-08-11, 21:00:26](https://news.ycombinator.com/item?id=41219284) - [Intel Raptor Lake 0x129 CPU Microcode Performance Impact on Linux](https://www.phoronix.com/review/intel-raptor-lake-0x129)
 * [2024-08-11, 20:43:47](https://news.ycombinator.com/item?id=41219196) - [The Bad Politics of Bad Posture](https://newrepublic.com/article/183924/bad-politics-bad-posture-slouch-review)

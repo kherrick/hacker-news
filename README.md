@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-11, 21:00:26](https://news.ycombinator.com/item?id=41219284) - [Intel Raptor Lake 0x129 CPU Microcode Performance Impact on Linux](https://www.phoronix.com/review/intel-raptor-lake-0x129)
+* [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+* [2024-08-11, 21:18:47](https://news.ycombinator.com/item?id=41219385) - [The Sarumans and the Radagasts (2023)](https://medium.com/@komorama/the-sarumans-and-the-radagasts-6392f889d142)
 * [2024-08-11, 20:29:34](https://news.ycombinator.com/item?id=41219122) - [Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where](https://www.wired.com/story/apple-prototypes-corporate-data/)
 * [2024-08-11, 20:22:11](https://news.ycombinator.com/item?id=41219080) - [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
 * [2024-08-11, 19:42:18](https://news.ycombinator.com/item?id=41218811) - [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
@@ -20,7 +21,6 @@
 * [2024-08-11, 12:02:55](https://news.ycombinator.com/item?id=41215593) - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
 * [2024-08-11, 10:24:06](https://news.ycombinator.com/item?id=41215201) - [Building data infrastructure that will last](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
 * [2024-08-11, 08:23:43](https://news.ycombinator.com/item?id=41214762) - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
-* [2024-08-11, 06:00:17](https://news.ycombinator.com/item?id=41214259) - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
 * [2024-08-11, 02:55:20](https://news.ycombinator.com/item?id=41213711) - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 20:46:27](https://news.ycombinator.com/item?id=41212103) - [Genetics solves a thorny problem: how plants have prickles](https://cosmosmagazine.com/nature/plants/thorns-prickles-roses-plants/)
