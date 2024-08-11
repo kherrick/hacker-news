@@ -13,7 +13,6 @@
 * [2024-08-11, 00:01:09](https://news.ycombinator.com/item?id=41213082) - [The Tic-Tac-Toe Mysteries of Xerloc O'Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 23:10:49](https://news.ycombinator.com/item?id=41212899) - [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
-* [2024-08-10, 21:30:46](https://news.ycombinator.com/item?id=41212364) - [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
 * [2024-08-10, 21:03:04](https://news.ycombinator.com/item?id=41212193) - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
 * [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium (2013)](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
@@ -28,6 +27,7 @@
 * [2024-08-09, 18:30:18](https://news.ycombinator.com/item?id=41204228) - [Animated Film Making Process](https://disneyanimation.com/process/)
 * [2024-08-09, 16:24:28](https://news.ycombinator.com/item?id=41203269) - [Our Founder – Momofuku Ando](https://www.nissin.com/en_jp/about/founder/)
 * [2024-08-07, 18:06:44](https://news.ycombinator.com/item?id=41183795) - [Imagining a personal data pipeline](https://www.joshcanhelp.com/personal-data-pipeline/)
+* [2024-08-07, 17:26:29](https://news.ycombinator.com/item?id=41183445) - [Canadian Tire Money](https://en.wikipedia.org/wiki/Canadian_Tire_money)
 * [2024-08-07, 13:18:00](https://news.ycombinator.com/item?id=41181155) - [How Olympic Timing Works](https://entertainment.howstuffworks.com/olympic-timing.htm)
 * [2024-08-07, 11:45:23](https://news.ycombinator.com/item?id=41180356) - [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)
 
