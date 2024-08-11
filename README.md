@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
+* [2024-08-11, 16:16:36](https://news.ycombinator.com/item?id=41217229) - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
 * [2024-08-11, 16:01:50](https://news.ycombinator.com/item?id=41217109) - [Show HN: My 70 year old grandma is learning to code and made a word game](https://grandmasword.com)
 * [2024-08-11, 15:52:00](https://news.ycombinator.com/item?id=41217037) - [CrowdStrike accepting the PwnieAwards for \"most epic fail\" at defcon](https://twitter.com/singe/status/1822324795645575263)
 * [2024-08-11, 14:48:26](https://news.ycombinator.com/item?id=41216560) - [Finite State Machine Designer](https://madebyevan.com/fsm/)
@@ -17,7 +18,6 @@
 * [2024-08-11, 05:35:12](https://news.ycombinator.com/item?id=41214180) - [The Gervais Principle, or the Office According to “The Office” (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 * [2024-08-11, 02:55:20](https://news.ycombinator.com/item?id=41213711) - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 * [2024-08-11, 02:11:47](https://news.ycombinator.com/item?id=41213561) - [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
-* [2024-08-11, 01:41:18](https://news.ycombinator.com/item?id=41213442) - [RFC 9180: Hybrid Public Key Encryption (2022)](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 21:18:51](https://news.ycombinator.com/item?id=41212271) - [AMD's Strix Point: Zen 5 Hits Mobile](https://chipsandcheese.com/2024/08/10/amds-strix-point-zen-5-hits-mobile/)
 * [2024-08-10, 21:03:04](https://news.ycombinator.com/item?id=41212193) - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
