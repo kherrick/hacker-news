@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-11, 16:42:32](https://news.ycombinator.com/item?id=41217411) - [MacBook Air, M2 Chip, 8GB RAM: Nothing is open, but half the memory is gone](https://twitter.com/Hasen_Judi/status/1822460173430194407)
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
 * [2024-08-11, 16:16:36](https://news.ycombinator.com/item?id=41217229) - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
 * [2024-08-11, 16:01:50](https://news.ycombinator.com/item?id=41217109) - [Show HN: My 70 year old grandma is learning to code and made a word game](https://grandmasword.com)
 * [2024-08-11, 15:52:00](https://news.ycombinator.com/item?id=41217037) - [CrowdStrike accepting the PwnieAwards for \"most epic fail\" at defcon](https://twitter.com/singe/status/1822324795645575263)
 * [2024-08-11, 14:48:26](https://news.ycombinator.com/item?id=41216560) - [Finite State Machine Designer](https://madebyevan.com/fsm/)
-* [2024-08-11, 13:41:41](https://news.ycombinator.com/item?id=41216083) - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
 * [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 * [2024-08-11, 12:33:40](https://news.ycombinator.com/item?id=41215724) - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
 * [2024-08-11, 12:22:50](https://news.ycombinator.com/item?id=41215679) - [Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)

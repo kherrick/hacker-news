@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 16:42:32](https://news.ycombinator.com/item?id=41217411) - [MacBook Air, M2 Chip, 8GB RAM: Nothing is open, but half the memory is gone](https://twitter.com/Hasen_Judi/status/1822460173430194407)
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
 * [2024-08-11, 16:16:36](https://news.ycombinator.com/item?id=41217229) - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
 * [2024-08-11, 16:01:50](https://news.ycombinator.com/item?id=41217109) - [Show HN: My 70 year old grandma is learning to code and made a word game](https://grandmasword.com)
