@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
 * [2024-08-11, 06:38:27](https://news.ycombinator.com/item?id=41214369) - [Bevy's Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
+* [2024-08-11, 06:12:02](https://news.ycombinator.com/item?id=41214307) - [Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
 * [2024-08-11, 06:00:17](https://news.ycombinator.com/item?id=41214259) - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
 * [2024-08-11, 05:35:12](https://news.ycombinator.com/item?id=41214180) - [The Gervais Principle, or the Office According to \"The Office\" (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 * [2024-08-11, 05:04:44](https://news.ycombinator.com/item?id=41214096) - [Online Dating](https://geohot.github.io//blog/jekyll/update/2024/08/02/online-dating.html)
