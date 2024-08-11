@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-08-11, 12:34:41",
+      "https://news.ycombinator.com/item?id=41215727"
+    ],
+    [
+      "Verso – web browser built on top of the Servo web engine",
+      "https://github.com/versotile-org/verso"
+    ]
+  ],
+  [
+    [
+      "2024-08-11, 11:35:16",
+      "https://news.ycombinator.com/item?id=41215489"
+    ],
+    [
+      "Samsung's EV batteries with 600Mi/1000KM range, 9min charging and 20years life",
+      "https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 10:24:06",
       "https://news.ycombinator.com/item?id=41215201"
     ],
     [
       "Why Your Data Stack Won't Last – and How to Build Data Infrastructure That Will",
       "https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and"
+    ]
+  ],
+  [
+    [
+      "2024-08-11, 10:11:35",
+      "https://news.ycombinator.com/item?id=41215154"
+    ],
+    [
+      "After Breaking Free, Largest Iceberg Is Stuck Spinning in Circles",
+      "https://www.nytimes.com/2024/08/07/science/a23a-iceberg-antarctica-spinning.html"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41214307"
     ],
     [
-      "Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug",
+      "Hazard3: 3-stage RV32IMACZb* processor with debug",
       "https://github.com/Wren6991/Hazard3"
     ]
   ],
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2024-08-11, 01:18:12",
-      "https://news.ycombinator.com/item?id=41213347"
-    ],
-    [
-      "Fighting Fantasy Collection",
-      "https://www.michaeloglesby.com/fighting-fantasy-collection/"
-    ]
-  ],
-  [
-    [
       "2024-08-11, 00:20:41",
       "https://news.ycombinator.com/item?id=41213151"
     ],
     [
       "The surveilled society: Who is watching you and how",
       "https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 00:01:09",
-      "https://news.ycombinator.com/item?id=41213082"
-    ],
-    [
-      "The Tic-Tac-Toe Mysteries of Xerloc O'Xolmes",
-      "https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "On Front Porch Forum, politics is fair game but unkindness is prohibited",
       "https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 06:51:39",
-      "https://news.ycombinator.com/item?id=41207793"
-    ],
-    [
-      "Linearizability: A correctness condition for concurrent objects",
-      "http://muratbuffalo.blogspot.com/2024/08/linearizability-correctness-condition.html"
     ]
   ],
   [
