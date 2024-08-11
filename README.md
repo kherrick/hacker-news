@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-11, 02:55:20](https://news.ycombinator.com/item?id=41213711) - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
+* [2024-08-11, 01:59:17](https://news.ycombinator.com/item?id=41213514) - [ANTSDR: Low-cost SDR Alternatives for Ettus Research and Lime Microsystems](https://github.com/MicroPhase/antsdr-fw-patch)
 * [2024-08-11, 01:41:18](https://news.ycombinator.com/item?id=41213442) - [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [2024-08-11, 01:29:16](https://news.ycombinator.com/item?id=41213387) - [Quantum Cryptography Has Everyone Scrambling](https://spectrum.ieee.org/quantum-key-distribution)
 * [2024-08-11, 00:20:41](https://news.ycombinator.com/item?id=41213151) - [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
@@ -24,8 +26,6 @@
 * [2024-08-10, 02:37:55](https://news.ycombinator.com/item?id=41206908) - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
 * [2024-08-09, 18:30:18](https://news.ycombinator.com/item?id=41204228) - [Animated Film Making Process](https://disneyanimation.com/process/)
 * [2024-08-09, 16:24:28](https://news.ycombinator.com/item?id=41203269) - [Our Founder – Momofuku Ando](https://www.nissin.com/en_jp/about/founder/)
-* [2024-08-09, 05:47:11](https://news.ycombinator.com/item?id=41199092) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
-* [2024-08-08, 16:00:52](https://news.ycombinator.com/item?id=41192941) - [Taking the Drizzle Challenge](https://ben.mk/notes/taking-the-drizzle-challenge)
 * [2024-08-07, 18:06:44](https://news.ycombinator.com/item?id=41183795) - [Imagining a personal data pipeline](https://www.joshcanhelp.com/personal-data-pipeline/)
 * [2024-08-07, 13:18:00](https://news.ycombinator.com/item?id=41181155) - [How Olympic Timing Works](https://entertainment.howstuffworks.com/olympic-timing.htm)
 * [2024-08-07, 11:45:23](https://news.ycombinator.com/item?id=41180356) - [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)
