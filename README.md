@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-11, 18:28:25](https://news.ycombinator.com/item?id=41218314) - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You've Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
 * [2024-08-11, 16:16:36](https://news.ycombinator.com/item?id=41217229) - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
 * [2024-08-11, 16:07:30](https://news.ycombinator.com/item?id=41217162) - [Judge orders CDC to stop deleting emails of departing staff: 'likely unlawful'](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)
@@ -24,7 +25,6 @@
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
 * [2024-08-09, 18:48:32](https://news.ycombinator.com/item?id=41204368) - [A gang of harmonica geeks saved the soul of the blues harp (2013)](https://www.collectorsweekly.com/articles/how-a-gang-of-harmonica-geeks-saved-the-soul-of-the-blues-harp/)
-* [2024-08-09, 16:24:28](https://news.ycombinator.com/item?id=41203269) - [Our Founder – Momofuku Ando](https://www.nissin.com/en_jp/about/founder/)
 * [2024-08-07, 14:57:15](https://news.ycombinator.com/item?id=41182109) - [Limits to running speed in dogs, horses and human](https://journals.biologists.com/jeb/article/211/24/3836/18013/Limits-to-running-speed-in-dogs-horses-and-humans)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
 * [2024-08-07, 12:02:27](https://news.ycombinator.com/item?id=41180492) - [Ask HN: How to Price a Product](https://news.ycombinator.com/item?id=41180492)

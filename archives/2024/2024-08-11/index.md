@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 18:28:25](https://news.ycombinator.com/item?id=41218314) - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You've Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
 * [2024-08-11, 16:59:16](https://news.ycombinator.com/item?id=41217571) - [iPhone SE 4 due in early 2025 with OLED and Apple Intelligence](https://appleinsider.com/articles/24/08/11/iphone-se-4-due-in-early-2025-with-oled-and-apple-intelligence)
 * [2024-08-11, 16:42:32](https://news.ycombinator.com/item?id=41217411) - [MacBook Air, M2 Chip, 8GB RAM: Nothing is open, but half the memory is gone](https://twitter.com/Hasen_Judi/status/1822460173430194407)
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
