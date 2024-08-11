@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-11, 16:59:16",
-      "https://news.ycombinator.com/item?id=41217571"
-    ],
-    [
-      "iPhone SE 4 due in early 2025 with OLED and Apple Intelligence",
-      "https://appleinsider.com/articles/24/08/11/iphone-se-4-due-in-early-2025-with-oled-and-apple-intelligence"
-    ]
-  ],
-  [
-    [
       "2024-08-11, 16:42:32",
       "https://news.ycombinator.com/item?id=41217411"
     ],
@@ -147,6 +137,16 @@
     [
       "Firefox Browser Ported to HaikuOS",
       "https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7"
+    ]
+  ],
+  [
+    [
+      "2024-08-11, 06:12:02",
+      "https://news.ycombinator.com/item?id=41214307"
+    ],
+    [
+      "Hazard3: 3-stage RV32IMACZb* processor with debug",
+      "https://github.com/Wren6991/Hazard3"
     ]
   ],
   [
