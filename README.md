@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-11, 16:59:16](https://news.ycombinator.com/item?id=41217571) - [iPhone SE 4 due in early 2025 with OLED and Apple Intelligence](https://appleinsider.com/articles/24/08/11/iphone-se-4-due-in-early-2025-with-oled-and-apple-intelligence)
 * [2024-08-11, 16:42:32](https://news.ycombinator.com/item?id=41217411) - [MacBook Air, M2 Chip, 8GB RAM: Nothing is open, but half the memory is gone](https://twitter.com/Hasen_Judi/status/1822460173430194407)
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
 * [2024-08-11, 16:16:36](https://news.ycombinator.com/item?id=41217229) - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
@@ -15,6 +14,7 @@
 * [2024-08-11, 11:35:16](https://news.ycombinator.com/item?id=41215489) - [Samsung to Mass-Produce Solid-State Batteries for 'Super Premium' EVs](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)
 * [2024-08-11, 10:24:06](https://news.ycombinator.com/item?id=41215201) - [Building data infrastructure that will last](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
 * [2024-08-11, 08:23:43](https://news.ycombinator.com/item?id=41214762) - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
+* [2024-08-11, 06:12:02](https://news.ycombinator.com/item?id=41214307) - [Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
 * [2024-08-11, 06:00:17](https://news.ycombinator.com/item?id=41214259) - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
 * [2024-08-11, 02:55:20](https://news.ycombinator.com/item?id=41213711) - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 * [2024-08-11, 02:11:47](https://news.ycombinator.com/item?id=41213561) - [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
