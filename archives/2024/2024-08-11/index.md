@@ -11,6 +11,7 @@
 * [2024-08-11, 20:43:47](https://news.ycombinator.com/item?id=41219196) - [The Bad Politics of Bad Posture](https://newrepublic.com/article/183924/bad-politics-bad-posture-slouch-review)
 * [2024-08-11, 20:29:34](https://news.ycombinator.com/item?id=41219122) - [Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where](https://www.wired.com/story/apple-prototypes-corporate-data/)
 * [2024-08-11, 20:22:11](https://news.ycombinator.com/item?id=41219080) - [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
+* [2024-08-11, 20:02:58](https://news.ycombinator.com/item?id=41218928) - [Tree Attention: Topology-Aware Decoding for Long-Context](https://arxiv.org/abs/2408.04093)
 * [2024-08-11, 19:58:43](https://news.ycombinator.com/item?id=41218906) - [Logitech F710 gamepad, allegedly contributed to Titan submersible implosion](https://www.tomshardware.com/peripherals/controllers-gamepads/cheap-logitech-f710-controller-may-have-contributed-to-titan-submersible-implosion-lawsuit-alleges)
 * [2024-08-11, 19:42:18](https://news.ycombinator.com/item?id=41218811) - [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
 * [2024-08-11, 19:33:01](https://news.ycombinator.com/item?id=41218737) - [OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
