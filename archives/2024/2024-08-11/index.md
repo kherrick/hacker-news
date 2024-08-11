@@ -7,6 +7,7 @@
 * [2024-08-11, 20:29:34](https://news.ycombinator.com/item?id=41219122) - [Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where](https://www.wired.com/story/apple-prototypes-corporate-data/)
 * [2024-08-11, 19:31:10](https://news.ycombinator.com/item?id=41218721) - [Instagram Is Over](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/)
 * [2024-08-11, 19:28:54](https://news.ycombinator.com/item?id=41218706) - [Atlas: A Windows modification to optimize performance, privacy and usability](https://atlasos.net/)
+* [2024-08-11, 19:27:39](https://news.ycombinator.com/item?id=41218696) - [Trolltech's Documentation Process](https://rant.gulbrandsen.priv.no/udoc/trolltech-documentation-process)
 * [2024-08-11, 19:24:41](https://news.ycombinator.com/item?id=41218675) - [UK police commish threatens to extradite, jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)
 * [2024-08-11, 19:21:39](https://news.ycombinator.com/item?id=41218658) - [The case for pole dancing in the Olympics](https://www.vox.com/culture/366257/pole-dancing-olympics-sport-sex-work-gymnastics-paris)
 * [2024-08-11, 18:28:25](https://news.ycombinator.com/item?id=41218314) - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You've Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
