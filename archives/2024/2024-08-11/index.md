@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
 * [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
+* [2024-08-11, 12:24:43](https://news.ycombinator.com/item?id=41215685) - [The Authoritarian Playbook](https://protectdemocracy.org/work/the-authoritarian-playbook/)
 * [2024-08-11, 11:35:16](https://news.ycombinator.com/item?id=41215489) - [Samsung's EV batteries with 600Mi/1000KM range, 9min charging and 20years life](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)
 * [2024-08-11, 10:24:06](https://news.ycombinator.com/item?id=41215201) - [Why Your Data Stack Won't Last – and How to Build Data Infrastructure That Will](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
 * [2024-08-11, 10:11:35](https://news.ycombinator.com/item?id=41215154) - [After Breaking Free, Largest Iceberg Is Stuck Spinning in Circles](https://www.nytimes.com/2024/08/07/science/a23a-iceberg-antarctica-spinning.html)
