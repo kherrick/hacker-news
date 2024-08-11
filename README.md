@@ -6,7 +6,7 @@
 * [2024-08-11, 12:33:40](https://news.ycombinator.com/item?id=41215724) - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
 * [2024-08-11, 12:22:50](https://news.ycombinator.com/item?id=41215679) - [Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 * [2024-08-11, 12:02:55](https://news.ycombinator.com/item?id=41215593) - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
-* [2024-08-11, 11:35:16](https://news.ycombinator.com/item?id=41215489) - [Samsung's EV batteries with 600Mi/1000KM range, 9min charging and 20years life](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)
+* [2024-08-11, 11:35:16](https://news.ycombinator.com/item?id=41215489) - [Samsung to Mass-Produce Solid-State Batteries for 'Super Premium' EVs](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)
 * [2024-08-11, 10:24:06](https://news.ycombinator.com/item?id=41215201) - [Building data infrastructure that will last](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
 * [2024-08-11, 08:23:43](https://news.ycombinator.com/item?id=41214762) - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
 * [2024-08-11, 06:12:02](https://news.ycombinator.com/item?id=41214307) - [Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
