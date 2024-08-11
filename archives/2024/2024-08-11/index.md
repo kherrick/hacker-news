@@ -9,6 +9,7 @@
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
 * [2024-08-11, 16:16:36](https://news.ycombinator.com/item?id=41217229) - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
 * [2024-08-11, 16:07:30](https://news.ycombinator.com/item?id=41217162) - [Judge orders CDC to stop deleting emails of departing staff: 'likely unlawful'](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)
+* [2024-08-11, 16:04:49](https://news.ycombinator.com/item?id=41217136) - [Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs](https://servermono.com/)
 * [2024-08-11, 16:01:50](https://news.ycombinator.com/item?id=41217109) - [Show HN: My 70 year old grandma is learning to code and made a word game](https://grandmasword.com)
 * [2024-08-11, 15:52:00](https://news.ycombinator.com/item?id=41217037) - [CrowdStrike accepting the PwnieAwards for \"most epic fail\" at defcon](https://twitter.com/singe/status/1822324795645575263)
 * [2024-08-11, 14:48:26](https://news.ycombinator.com/item?id=41216560) - [Finite State Machine Designer](https://madebyevan.com/fsm/)
