@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 20:43:47](https://news.ycombinator.com/item?id=41219196) - [The Bad Politics of Bad Posture](https://newrepublic.com/article/183924/bad-politics-bad-posture-slouch-review)
 * [2024-08-11, 20:29:34](https://news.ycombinator.com/item?id=41219122) - [Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where](https://www.wired.com/story/apple-prototypes-corporate-data/)
 * [2024-08-11, 19:31:10](https://news.ycombinator.com/item?id=41218721) - [Instagram Is Over](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/)
 * [2024-08-11, 19:28:54](https://news.ycombinator.com/item?id=41218706) - [Atlas: A Windows modification to optimize performance, privacy and usability](https://atlasos.net/)
