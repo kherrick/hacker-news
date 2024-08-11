@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
 * [2024-08-11, 13:41:41](https://news.ycombinator.com/item?id=41216083) - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
+* [2024-08-11, 13:20:32](https://news.ycombinator.com/item?id=41215927) - [X's likelihood of prevailing in boycott suit is higher than I thought](https://shaungallagher.pressbin.com/blog/group-boycotts.html)
 * [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 * [2024-08-11, 12:33:40](https://news.ycombinator.com/item?id=41215724) - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
 * [2024-08-11, 12:24:43](https://news.ycombinator.com/item?id=41215685) - [The Authoritarian Playbook](https://protectdemocracy.org/work/the-authoritarian-playbook/)
