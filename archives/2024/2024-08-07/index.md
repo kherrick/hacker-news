@@ -96,6 +96,7 @@
 * [2024-08-07, 06:36:18](https://news.ycombinator.com/item?id=41178776) - [Rising rates of cancer in young people prompts hunt for environmental culprit](https://www.ft.com/content/491d7760-c329-4f57-9509-0da36bc9e7de)
 * [2024-08-07, 05:55:11](https://news.ycombinator.com/item?id=41178596) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
 * [2024-08-07, 05:20:28](https://news.ycombinator.com/item?id=41178455) - [Linux for UX Designers: What I learn after a year of doing design work on Linux](https://www.chris-wood.design/resources/linux-for-ux-designers)
+* [2024-08-07, 05:05:34](https://news.ycombinator.com/item?id=41178388) - [12 Coins in Verse: Genius solution of twelve balls and a scale problem](https://www.cut-the-knot.org/blue/12CoinsInVerse.shtml#solution)
 * [2024-08-07, 04:59:51](https://news.ycombinator.com/item?id=41178372) - [The Powers of Soviet Puppetry](https://www.historytoday.com/archive/history-matters/powers-soviet-puppetry)
 * [2024-08-07, 04:47:53](https://news.ycombinator.com/item?id=41178321) - [China is stockpiling – we must do the same](https://www.thetimes.com/comment/columnists/article/china-is-stockpiling-we-must-do-the-same-02sgc8529)
 * [2024-08-07, 04:31:58](https://news.ycombinator.com/item?id=41178258) - [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)

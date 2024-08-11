@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
+* [2024-08-11, 16:01:50](https://news.ycombinator.com/item?id=41217109) - [Show HN: My 70 year old grandma is learning to code and made a word game](https://grandmasword.com)
 * [2024-08-11, 15:52:00](https://news.ycombinator.com/item?id=41217037) - [CrowdStrike accepting the PwnieAwards for \"most epic fail\" at defcon](https://twitter.com/singe/status/1822324795645575263)
 * [2024-08-11, 14:48:26](https://news.ycombinator.com/item?id=41216560) - [Finite State Machine Designer](https://madebyevan.com/fsm/)
-* [2024-08-11, 14:27:30](https://news.ycombinator.com/item?id=41216399) - [The Coffee Machine Hiring Test](https://manuel.darcemont.fr/posts/coffee-machine-test/)
 * [2024-08-11, 13:41:41](https://news.ycombinator.com/item?id=41216083) - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
 * [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 * [2024-08-11, 12:33:40](https://news.ycombinator.com/item?id=41215724) - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
@@ -26,10 +27,9 @@
 * [2024-08-09, 18:48:32](https://news.ycombinator.com/item?id=41204368) - [A gang of harmonica geeks saved the soul of the blues harp (2013)](https://www.collectorsweekly.com/articles/how-a-gang-of-harmonica-geeks-saved-the-soul-of-the-blues-harp/)
 * [2024-08-09, 16:24:28](https://news.ycombinator.com/item?id=41203269) - [Our Founder – Momofuku Ando](https://www.nissin.com/en_jp/about/founder/)
 * [2024-08-08, 13:39:38](https://news.ycombinator.com/item?id=41191369) - [What is the ideal chapter length? (2023)](https://www.penguin.co.uk/articles/2023/03/what-is-the-ideal-chapter-length)
-* [2024-08-07, 15:26:52](https://news.ycombinator.com/item?id=41182380) - [Optimize the Overall System Not the Individual Components](https://deming.org/optimize-the-overall-system-not-the-individual-components/)
 * [2024-08-07, 14:57:15](https://news.ycombinator.com/item?id=41182109) - [Limits to running speed in dogs, horses and human](https://journals.biologists.com/jeb/article/211/24/3836/18013/Limits-to-running-speed-in-dogs-horses-and-humans)
-* [2024-08-07, 13:18:00](https://news.ycombinator.com/item?id=41181155) - [How Olympic Timing Works](https://entertainment.howstuffworks.com/olympic-timing.htm)
 * [2024-08-07, 12:02:27](https://news.ycombinator.com/item?id=41180492) - [Ask HN: How to Price a Product](https://news.ycombinator.com/item?id=41180492)
+* [2024-08-07, 05:05:34](https://news.ycombinator.com/item?id=41178388) - [12 Coins in Verse: Genius solution of twelve balls and a scale problem](https://www.cut-the-knot.org/blue/12CoinsInVerse.shtml#solution)
 
 ## [Archives](archives/index.md)
 
