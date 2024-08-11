@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
+* [2024-08-11, 11:35:16](https://news.ycombinator.com/item?id=41215489) - [Samsung's EV batteries with 600Mi/1000KM range, 9min charging and 20years life](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)
 * [2024-08-11, 10:24:06](https://news.ycombinator.com/item?id=41215201) - [Why Your Data Stack Won't Last – and How to Build Data Infrastructure That Will](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
+* [2024-08-11, 10:11:35](https://news.ycombinator.com/item?id=41215154) - [After Breaking Free, Largest Iceberg Is Stuck Spinning in Circles](https://www.nytimes.com/2024/08/07/science/a23a-iceberg-antarctica-spinning.html)
 * [2024-08-11, 08:47:22](https://news.ycombinator.com/item?id=41214860) - [Open Letter to the European Commission](https://nixos.org/blog/announcements/2024/letter/)
 * [2024-08-11, 08:23:43](https://news.ycombinator.com/item?id=41214762) - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
 * [2024-08-11, 07:30:07](https://news.ycombinator.com/item?id=41214540) - [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)
