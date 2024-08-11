@@ -10,12 +10,12 @@
 * [2024-08-11, 02:11:47](https://news.ycombinator.com/item?id=41213561) - [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
 * [2024-08-11, 01:41:18](https://news.ycombinator.com/item?id=41213442) - [RFC 9180: Hybrid Public Key Encryption (2022)](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [2024-08-11, 01:29:16](https://news.ycombinator.com/item?id=41213387) - [Quantum Cryptography Has Everyone Scrambling](https://spectrum.ieee.org/quantum-key-distribution)
+* [2024-08-11, 01:18:12](https://news.ycombinator.com/item?id=41213347) - [Fighting Fantasy Collection](https://www.michaeloglesby.com/fighting-fantasy-collection/)
 * [2024-08-11, 00:20:41](https://news.ycombinator.com/item?id=41213151) - [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
 * [2024-08-11, 00:01:09](https://news.ycombinator.com/item?id=41213082) - [The Tic-Tac-Toe Mysteries of Xerloc O'Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
 * [2024-08-10, 23:55:12](https://news.ycombinator.com/item?id=41213064) - [Black Hat 2024: Secure Shells in Shambles [pdf]](https://i.blackhat.com/BH-US-24/Presentations/REVISED02-US24_Moore_Secure_Shells_in_Shambles_Wednesday.pdf)
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 23:10:49](https://news.ycombinator.com/item?id=41212899) - [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
-* [2024-08-10, 21:30:46](https://news.ycombinator.com/item?id=41212364) - [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
 * [2024-08-10, 21:03:04](https://news.ycombinator.com/item?id=41212193) - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
 * [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium (2013)](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
@@ -28,8 +28,8 @@
 * [2024-08-09, 16:24:28](https://news.ycombinator.com/item?id=41203269) - [Our Founder – Momofuku Ando](https://www.nissin.com/en_jp/about/founder/)
 * [2024-08-08, 13:39:38](https://news.ycombinator.com/item?id=41191369) - [What is the ideal chapter length? (2023)](https://www.penguin.co.uk/articles/2023/03/what-is-the-ideal-chapter-length)
 * [2024-08-07, 18:06:44](https://news.ycombinator.com/item?id=41183795) - [Imagining a personal data pipeline](https://www.joshcanhelp.com/personal-data-pipeline/)
+* [2024-08-07, 15:26:52](https://news.ycombinator.com/item?id=41182380) - [Optimize the Overall System Not the Individual Components](https://deming.org/optimize-the-overall-system-not-the-individual-components/)
 * [2024-08-07, 13:18:00](https://news.ycombinator.com/item?id=41181155) - [How Olympic Timing Works](https://entertainment.howstuffworks.com/olympic-timing.htm)
-* [2024-08-07, 07:31:12](https://news.ycombinator.com/item?id=41179043) - [A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]](https://www.ams.org/notices/200503/fea-weil.pdf)
 
 ## [Archives](archives/index.md)
 

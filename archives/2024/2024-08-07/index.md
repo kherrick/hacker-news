@@ -59,6 +59,7 @@
 * [2024-08-07, 15:51:55](https://news.ycombinator.com/item?id=41182588) - [End of an era: Apple's SuperDrive has sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years)
 * [2024-08-07, 15:48:38](https://news.ycombinator.com/item?id=41182565) - [Ask HN: How different is AWS/GCP/Azure in everyday work](https://news.ycombinator.com/item?id=41182565)
 * [2024-08-07, 15:28:30](https://news.ycombinator.com/item?id=41182395) - [Zen5's AVX512 Teardown and More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
+* [2024-08-07, 15:26:52](https://news.ycombinator.com/item?id=41182380) - [Optimize the Overall System Not the Individual Components](https://deming.org/optimize-the-overall-system-not-the-individual-components/)
 * [2024-08-07, 15:25:48](https://news.ycombinator.com/item?id=41182370) - [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
 * [2024-08-07, 14:58:04](https://news.ycombinator.com/item?id=41182121) - [The Pesticide Industry's Toxic Lobby](https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/)
 * [2024-08-07, 14:56:51](https://news.ycombinator.com/item?id=41182101) - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
