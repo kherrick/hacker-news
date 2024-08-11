@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-11, 01:41:18](https://news.ycombinator.com/item?id=41213442) - [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
-* [2024-08-11, 01:00:11](https://news.ycombinator.com/item?id=41213281) - [SanDisk introduces the first 8TB SD and 4TB microSD cards](https://liliputing.com/sandisk-introduces-the-first-8tb-sd-and-4tb-microsd-cards/)
+* [2024-08-11, 01:29:16](https://news.ycombinator.com/item?id=41213387) - [Quantum Cryptography Has Everyone Scrambling](https://spectrum.ieee.org/quantum-key-distribution)
 * [2024-08-11, 00:20:41](https://news.ycombinator.com/item?id=41213151) - [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
 * [2024-08-11, 00:01:09](https://news.ycombinator.com/item?id=41213082) - [The Tic-Tac-Toe Mysteries of Xerloc O'Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
@@ -16,8 +16,8 @@
 * [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
 * [2024-08-10, 15:00:41](https://news.ycombinator.com/item?id=41209994) - [Show HN: Pg_replicate – Build Postgres replication applications in Rust](https://github.com/supabase/pg_replicate)
 * [2024-08-10, 14:15:52](https://news.ycombinator.com/item?id=41209688) - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
-* [2024-08-10, 13:45:12](https://news.ycombinator.com/item?id=41209452) - [Ray Tracing Harmonic Functions](https://markjgillespie.com/Research/harnack-tracing/index.html)
 * [2024-08-10, 12:24:54](https://news.ycombinator.com/item?id=41208988) - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+* [2024-08-10, 11:13:37](https://news.ycombinator.com/item?id=41208704) - [Command-Line Utility to Backup Google Mail, Calendar and Contacts to Files](https://github.com/WeeJeWel/node-google-backup)
 * [2024-08-10, 10:18:02](https://news.ycombinator.com/item?id=41208506) - [On Front Porch Forum, politics is fair game but unkindness is prohibited](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
 * [2024-08-10, 06:51:39](https://news.ycombinator.com/item?id=41207793) - [Linearizability: A correctness condition for concurrent objects](http://muratbuffalo.blogspot.com/2024/08/linearizability-correctness-condition.html)
 * [2024-08-10, 05:48:43](https://news.ycombinator.com/item?id=41207608) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/index.html)
