@@ -7,7 +7,6 @@
 * [2024-08-11, 19:42:18](https://news.ycombinator.com/item?id=41218811) - [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
 * [2024-08-11, 19:33:01](https://news.ycombinator.com/item?id=41218737) - [OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
 * [2024-08-11, 19:27:39](https://news.ycombinator.com/item?id=41218696) - [Trolltech's Documentation Process](https://rant.gulbrandsen.priv.no/udoc/trolltech-documentation-process)
-* [2024-08-11, 18:28:25](https://news.ycombinator.com/item?id=41218314) - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You've Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
 * [2024-08-11, 17:42:05](https://news.ycombinator.com/item?id=41217903) - [Another variable-length integer encoding (2021)](https://dcreager.net/2021/03/a-better-varint/)
 * [2024-08-11, 17:23:17](https://news.ycombinator.com/item?id=41217758) - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
 * [2024-08-11, 16:07:30](https://news.ycombinator.com/item?id=41217162) - [Judge orders CDC to stop deleting emails of departing staff: 'likely unlawful'](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)
@@ -28,6 +27,7 @@
 * [2024-08-10, 04:40:57](https://news.ycombinator.com/item?id=41207355) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
 * [2024-08-09, 18:48:32](https://news.ycombinator.com/item?id=41204368) - [A gang of harmonica geeks saved the soul of the blues harp (2013)](https://www.collectorsweekly.com/articles/how-a-gang-of-harmonica-geeks-saved-the-soul-of-the-blues-harp/)
 * [2024-08-08, 05:51:38](https://news.ycombinator.com/item?id=41188491) - [Nuances around location-based programming](https://austingil.com/user-location-is-a-lie/)
+* [2024-08-07, 15:26:43](https://news.ycombinator.com/item?id=41182376) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
 * [2024-08-07, 05:05:34](https://news.ycombinator.com/item?id=41178388) - [12 Coins in Verse: Genius solution of twelve balls and a scale problem](https://www.cut-the-knot.org/blue/12CoinsInVerse.shtml#solution)
 

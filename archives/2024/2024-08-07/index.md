@@ -61,6 +61,7 @@
 * [2024-08-07, 15:48:38](https://news.ycombinator.com/item?id=41182565) - [Ask HN: How different is AWS/GCP/Azure in everyday work](https://news.ycombinator.com/item?id=41182565)
 * [2024-08-07, 15:28:30](https://news.ycombinator.com/item?id=41182395) - [Zen5's AVX512 Teardown and More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-07, 15:26:52](https://news.ycombinator.com/item?id=41182380) - [Optimize the Overall System Not the Individual Components](https://deming.org/optimize-the-overall-system-not-the-individual-components/)
+* [2024-08-07, 15:26:43](https://news.ycombinator.com/item?id=41182376) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
 * [2024-08-07, 15:25:48](https://news.ycombinator.com/item?id=41182370) - [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
 * [2024-08-07, 14:58:04](https://news.ycombinator.com/item?id=41182121) - [The Pesticide Industry's Toxic Lobby](https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/)
 * [2024-08-07, 14:57:15](https://news.ycombinator.com/item?id=41182109) - [Limits to running speed in dogs, horses and human](https://journals.biologists.com/jeb/article/211/24/3836/18013/Limits-to-running-speed-in-dogs-horses-and-humans)
