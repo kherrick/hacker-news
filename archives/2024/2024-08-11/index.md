@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 08:47:22](https://news.ycombinator.com/item?id=41214860) - [Open Letter to the European Commission](https://nixos.org/blog/announcements/2024/letter/)
 * [2024-08-11, 08:23:43](https://news.ycombinator.com/item?id=41214762) - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
 * [2024-08-11, 07:30:07](https://news.ycombinator.com/item?id=41214540) - [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)
 * [2024-08-11, 06:38:27](https://news.ycombinator.com/item?id=41214369) - [Bevy's Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
