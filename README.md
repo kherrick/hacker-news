@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-11, 13:41:59](https://news.ycombinator.com/item?id=41216087) - [The Imminent Student-Loan Disaster](https://www.jamesgmartin.center/2024/08/the-imminent-student-loan-disaster-were-not-talking-about/)
 * [2024-08-11, 13:41:41](https://news.ycombinator.com/item?id=41216083) - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
 * [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 * [2024-08-11, 12:33:40](https://news.ycombinator.com/item?id=41215724) - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
@@ -30,6 +29,7 @@
 * [2024-08-07, 15:26:52](https://news.ycombinator.com/item?id=41182380) - [Optimize the Overall System Not the Individual Components](https://deming.org/optimize-the-overall-system-not-the-individual-components/)
 * [2024-08-07, 14:57:15](https://news.ycombinator.com/item?id=41182109) - [Limits to running speed in dogs, horses and human](https://journals.biologists.com/jeb/article/211/24/3836/18013/Limits-to-running-speed-in-dogs-horses-and-humans)
 * [2024-08-07, 13:18:00](https://news.ycombinator.com/item?id=41181155) - [How Olympic Timing Works](https://entertainment.howstuffworks.com/olympic-timing.htm)
+* [2024-08-07, 12:02:27](https://news.ycombinator.com/item?id=41180492) - [Ask HN: How to Price a Product](https://news.ycombinator.com/item?id=41180492)
 
 ## [Archives](archives/index.md)
 
