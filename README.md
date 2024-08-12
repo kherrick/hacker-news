@@ -4,6 +4,7 @@
 * [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 04:49:02](https://news.ycombinator.com/item?id=41221242) - [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
 * [2024-08-12, 04:47:19](https://news.ycombinator.com/item?id=41221235) - [Show HN: Simple Science – The Newest Science Explained Simply](https://simplescience.ai)
+* [2024-08-12, 02:41:05](https://news.ycombinator.com/item?id=41220775) - [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
 * [2024-08-12, 00:43:22](https://news.ycombinator.com/item?id=41220284) - [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
 * [2024-08-11, 23:47:35](https://news.ycombinator.com/item?id=41220059) - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
 * [2024-08-11, 23:24:12](https://news.ycombinator.com/item?id=41219962) - [KnitScape](https://depts.washington.edu/machines/projects/knitscape/)
@@ -28,7 +29,6 @@
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: OSM – self host the entire planet in ~30 minutes](https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
-* [2024-08-07, 11:12:24](https://news.ycombinator.com/item?id=41180154) - [Massachusetts 'Reviewing' Kei Car Ban After Uproar over Canceled Registrations](https://www.thedrive.com/news/massachusetts-reviewing-kei-car-ban-after-uproar-over-canceled-registrations)
 * [2024-08-07, 05:47:23](https://news.ycombinator.com/item?id=41178564) - [Kitchen sponges can be used as memory devices](https://www.nature.com/articles/d44151-024-00120-9)
 
 ## [Archives](archives/index.md)
