@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 11:04:22](https://news.ycombinator.com/item?id=41223145) - [The Decline of Etiquette and the Rise of 'Boundaries'](https://www.theatlantic.com/family/archive/2022/11/people-oversharing-tmi-friendship-boundaries/671970/)
+* [2024-08-12, 10:52:28](https://news.ycombinator.com/item?id=41223085) - [India's Bharti Enterprises Now Largest Shareholder in UK's BT Group](https://www.theregister.com/2024/08/12/indias_bharti_enterprises_now_largest/)
 * [2024-08-12, 10:19:41](https://news.ycombinator.com/item?id=41222930) - [DEFCON attendees having mandatory daily room searches by conference block hotels](https://twitter.com/d0rkph0enix/status/1822814018643374260)
 * [2024-08-12, 10:04:26](https://news.ycombinator.com/item?id=41222862) - [Interstellar movie is implemented with Einstein's equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
 * [2024-08-12, 06:56:23](https://news.ycombinator.com/item?id=41221814) - [Box2D 3.0 Released](https://box2d.org/posts/2024/08/releasing-box2d-3.0/)
@@ -14,7 +16,6 @@
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
 * [2024-08-11, 20:22:11](https://news.ycombinator.com/item?id=41219080) - [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
 * [2024-08-11, 20:02:58](https://news.ycombinator.com/item?id=41218928) - [Tree Attention: Topology-Aware Decoding for Long-Context](https://arxiv.org/abs/2408.04093)
-* [2024-08-11, 19:42:18](https://news.ycombinator.com/item?id=41218811) - [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
 * [2024-08-11, 19:33:01](https://news.ycombinator.com/item?id=41218737) - [OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
 * [2024-08-11, 18:28:25](https://news.ycombinator.com/item?id=41218314) - [The 1986 Oldsmobile Incas Dashboard (2020)](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
 * [2024-08-11, 17:23:17](https://news.ycombinator.com/item?id=41217758) - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
@@ -29,7 +30,6 @@
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: OSM – self host the entire planet in ~30 minutes](https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
-* [2024-08-07, 05:47:23](https://news.ycombinator.com/item?id=41178564) - [Kitchen sponges can be used as memory devices](https://www.nature.com/articles/d44151-024-00120-9)
 
 ## [Archives](archives/index.md)
 
