@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 15:03:04](https://news.ycombinator.com/item?id=41225238) - [Iran Emerges as the Most Aggressive Foreign Threat to U.S. Election](https://www.wsj.com/politics/national-security/iran-emerges-as-the-most-aggressive-foreign-threat-to-u-s-election-b61161ad)
+* [2024-08-12, 14:27:21](https://news.ycombinator.com/item?id=41224780) - [Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
 * [2024-08-12, 14:24:33](https://news.ycombinator.com/item?id=41224741) - [New research on why Cahokia Mounds civilization left](https://scitechdaily.com/900-years-ago-one-of-the-largest-civilizations-in-the-world-was-abandoned-archaeologists-have-now-discovered-new-clues/)
 * [2024-08-12, 14:20:03](https://news.ycombinator.com/item?id=41224689) - [Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync](https://pglite.dev/)
 * [2024-08-12, 14:19:54](https://news.ycombinator.com/item?id=41224686) - [Paris Agreement Thresholds Crossed](https://arctic-news.blogspot.com/2024/08/paris-agreement-thresholds-crossed.html)
+* [2024-08-12, 14:10:21](https://news.ycombinator.com/item?id=41224557) - [Creating the largest protein-protein interaction dataset in the world](https://www.owlposting.com/p/creating-the-largest-protein-protein)
 * [2024-08-12, 14:07:57](https://news.ycombinator.com/item?id=41224536) - [Pushing baby booms to boost economic growth amounts to a Ponzi scheme](https://theconversation.com/the-problem-with-pronatalism-pushing-baby-booms-to-boost-economic-growth-amounts-to-a-ponzi-scheme-235725)
 * [2024-08-12, 14:02:20](https://news.ycombinator.com/item?id=41224472) - [Ask HN: What code editors or IDE's are easily scriptable?](https://news.ycombinator.com/item?id=41224472)
+* [2024-08-12, 13:40:54](https://news.ycombinator.com/item?id=41224260) - [A UX Designer Walks into a Tesla Bar – Scott Jenson](https://jenson.org/tesla/)
 * [2024-08-12, 13:40:21](https://news.ycombinator.com/item?id=41224253) - [AMD records its highest server market share in decades](https://www.tomshardware.com/pc-components/cpus/amd-records-its-highest-server-market-share-in-decades-but-intel-fights-back-in-client-pcs)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 13:32:12](https://news.ycombinator.com/item?id=41224173) - [\"Does astrology work? We tested the ability of 152 astrologers\"](https://threadreaderapp.com/thread/1822663687145972105.html)
