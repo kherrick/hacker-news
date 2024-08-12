@@ -27,9 +27,9 @@
 * [2024-08-10, 14:48:13](https://news.ycombinator.com/item?id=41209900) - [Open source laser microphone picks up laptop keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)
 * [2024-08-09, 23:15:19](https://news.ycombinator.com/item?id=41206168) - [Room inspections at Resorts World confuse, annoy DEF CON attendees](https://www.reviewjournal.com/business/tourism/invasion-of-privacy-hotel-room-inspections-confuse-hacker-convention-attendees-3121350/)
 * [2024-08-09, 05:09:25](https://news.ycombinator.com/item?id=41198931) - [Is running a more efficient way to travel than walking?](https://www.joehxblog.com/is-running-a-more-efficient-way-to-travel-than-walking/)
+* [2024-08-08, 20:22:52](https://news.ycombinator.com/item?id=41195805) - [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
 * [2024-08-08, 19:51:53](https://news.ycombinator.com/item?id=41195492) - [Making earthly paradise: The art and crafts of William Morris](https://www.the-tls.co.uk/literature-by-region/british-literature/william-morris-ingrid-hanson-marcus-waithe/)
 * [2024-08-07, 17:33:04](https://news.ycombinator.com/item?id=41183513) - [Faulty instructions in C910 RISC-V CPUs](https://ghostwriteattack.com)
-* [2024-08-07, 16:24:12](https://news.ycombinator.com/item?id=41182895) - [Poetry was an official Olympic event](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
 
 ## [Archives](archives/index.md)
 

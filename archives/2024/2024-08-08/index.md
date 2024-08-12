@@ -17,6 +17,7 @@
 * [2024-08-08, 20:40:21](https://news.ycombinator.com/item?id=41195988) - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
 * [2024-08-08, 20:28:43](https://news.ycombinator.com/item?id=41195872) - [Marta File Manager: Back on Track](https://marta.sh/blog/back-on-track/)
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
+* [2024-08-08, 20:22:52](https://news.ycombinator.com/item?id=41195805) - [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
 * [2024-08-08, 20:21:45](https://news.ycombinator.com/item?id=41195791) - [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
 * [2024-08-08, 20:19:48](https://news.ycombinator.com/item?id=41195765) - [Gemini 1.5 Flash price is now ~70% lower ($0.075 / 1M)](https://twitter.com/OfficialLoganK/status/1821601298195878323)
 * [2024-08-08, 20:11:48](https://news.ycombinator.com/item?id=41195681) - [Over 90% of US Population Growth Since 2020 Came from Hispanics](https://www.bloomberg.com/news/articles/2024-08-07/over-90-of-us-population-growth-since-2020-came-from-hispanics)
