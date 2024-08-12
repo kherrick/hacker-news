@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-12, 15:03:04",
+      "https://news.ycombinator.com/item?id=41225238"
+    ],
+    [
+      "Iran Emerges as the Most Aggressive Foreign Threat to U.S. Election",
+      "https://www.wsj.com/politics/national-security/iran-emerges-as-the-most-aggressive-foreign-threat-to-u-s-election-b61161ad"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 14:27:21",
+      "https://news.ycombinator.com/item?id=41224780"
+    ],
+    [
+      "Keeping Secrets (2014)",
+      "https://stanfordmag.org/contents/keeping-secrets"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 14:24:33",
       "https://news.ycombinator.com/item?id=41224741"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-08-12, 14:07:57",
-      "https://news.ycombinator.com/item?id=41224536"
+      "2024-08-12, 14:10:21",
+      "https://news.ycombinator.com/item?id=41224557"
     ],
     [
-      "Pushing baby booms to boost economic growth amounts to a Ponzi scheme",
-      "https://theconversation.com/the-problem-with-pronatalism-pushing-baby-booms-to-boost-economic-growth-amounts-to-a-ponzi-scheme-235725"
+      "Creating the largest protein-protein interaction dataset in the world",
+      "https://www.owlposting.com/p/creating-the-largest-protein-protein"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Ask HN: What code editors or IDE's are easily scriptable?",
       "https://news.ycombinator.com/item?id=41224472"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 13:40:54",
+      "https://news.ycombinator.com/item?id=41224260"
+    ],
+    [
+      "A UX Designer Walks into a Tesla Bar – Scott Jenson",
+      "https://jenson.org/tesla/"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Okay, I Like WezTerm",
       "https://alexplescan.com/posts/2024/08/10/wezterm/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 12:59:34",
-      "https://news.ycombinator.com/item?id=41223902"
-    ],
-    [
-      "Go is my hammer, and everything is a nail",
-      "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Adbfs-rootless – Mount Android phones on Linux with adb. No root required",
       "https://github.com/spion/adbfs-rootless"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 20:02:58",
-      "https://news.ycombinator.com/item?id=41218928"
-    ],
-    [
-      "Tree Attention: Topology-Aware Decoding for Long-Context",
-      "https://arxiv.org/abs/2408.04093"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2024-08-07, 16:24:12",
-      "https://news.ycombinator.com/item?id=41182895"
-    ],
-    [
-      "Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?",
-      "https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 13:07:37",
       "https://news.ycombinator.com/item?id=41181036"
     ],
     [
       "Show HN: OpenStreetMaps – Self host the entire planet",
-      "https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc"
+      "https://github.com/markuman/sms"
     ]
   ]
 ]
