@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 16:15:41](https://news.ycombinator.com/item?id=41226147) - [Apple to take 30% of all Patreon donations](https://twitter.com/KenneyNL/status/1822996361551184290)
+* [2024-08-12, 15:54:40](https://news.ycombinator.com/item?id=41225871) - [NASA is about to make its most important safety decision in nearly a generation](https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/)
+* [2024-08-12, 15:47:14](https://news.ycombinator.com/item?id=41225795) - [Apple's requirements are about to hit creators and fans on Patreon](https://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon)
+* [2024-08-12, 15:38:42](https://news.ycombinator.com/item?id=41225678) - [Cancer Rates Are Rising in Young People](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/)
 * [2024-08-12, 15:24:28](https://news.ycombinator.com/item?id=41225503) - [New data shows violent crime dropping sharply in major U.S. cities](https://www.axios.com/2024/08/12/violent-crime-harris-trump-election)
+* [2024-08-12, 15:11:31](https://news.ycombinator.com/item?id=41225357) - [The Geometric Tool That Solved Einstein's Relativity Problem](https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/)
 * [2024-08-12, 15:03:04](https://news.ycombinator.com/item?id=41225238) - [Iran Emerges as the Most Aggressive Foreign Threat to U.S. Election](https://www.wsj.com/politics/national-security/iran-emerges-as-the-most-aggressive-foreign-threat-to-u-s-election-b61161ad)
 * [2024-08-12, 14:39:36](https://news.ycombinator.com/item?id=41224909) - [Ask HN: Why ChatGPT loves the word: \"eager\" so much?](https://news.ycombinator.com/item?id=41224909)
 * [2024-08-12, 14:34:46](https://news.ycombinator.com/item?id=41224853) - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
 * [2024-08-12, 14:27:21](https://news.ycombinator.com/item?id=41224780) - [Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
 * [2024-08-12, 14:27:15](https://news.ycombinator.com/item?id=41224777) - [X targeted with 9 privacy complaints after grabbing EU users' data for training](https://techcrunch.com/2024/08/11/elon-musks-x-targeted-with-eight-privacy-complaints-after-grabbing-eu-users-data-for-training-grok/)
+* [2024-08-12, 14:25:10](https://news.ycombinator.com/item?id=41224749) - [Postgres.new](https://postgres.new/)
 * [2024-08-12, 14:24:33](https://news.ycombinator.com/item?id=41224741) - [New research on why Cahokia Mounds civilization left](https://scitechdaily.com/900-years-ago-one-of-the-largest-civilizations-in-the-world-was-abandoned-archaeologists-have-now-discovered-new-clues/)
 * [2024-08-12, 14:20:03](https://news.ycombinator.com/item?id=41224689) - [Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync](https://pglite.dev/)
 * [2024-08-12, 14:19:54](https://news.ycombinator.com/item?id=41224686) - [Paris Agreement Thresholds Crossed](https://arctic-news.blogspot.com/2024/08/paris-agreement-thresholds-crossed.html)
