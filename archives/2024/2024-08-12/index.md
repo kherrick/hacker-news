@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 06:17:32](https://news.ycombinator.com/item?id=41221558) - [I Quit Spotify](https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify)
+* [2024-08-12, 05:42:34](https://news.ycombinator.com/item?id=41221403) - [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
 * [2024-08-12, 05:36:11](https://news.ycombinator.com/item?id=41221383) - [OnlyFans' porn juggernaut fueled by a deception](https://www.reuters.com/investigates/special-report/onlyfans-sex-chatters/)
 * [2024-08-12, 05:07:22](https://news.ycombinator.com/item?id=41221292) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)

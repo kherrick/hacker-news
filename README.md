@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 06:17:32](https://news.ycombinator.com/item?id=41221558) - [I Quit Spotify](https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify)
+* [2024-08-12, 05:42:34](https://news.ycombinator.com/item?id=41221403) - [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
 * [2024-08-12, 05:36:11](https://news.ycombinator.com/item?id=41221383) - [OnlyFans' porn juggernaut fueled by a deception](https://www.reuters.com/investigates/special-report/onlyfans-sex-chatters/)
 * [2024-08-12, 05:07:22](https://news.ycombinator.com/item?id=41221292) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 04:49:02](https://news.ycombinator.com/item?id=41221242) - [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
-* [2024-08-12, 02:41:05](https://news.ycombinator.com/item?id=41220775) - [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
 * [2024-08-12, 00:43:22](https://news.ycombinator.com/item?id=41220284) - [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
 * [2024-08-11, 23:47:35](https://news.ycombinator.com/item?id=41220059) - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
 * [2024-08-11, 23:24:12](https://news.ycombinator.com/item?id=41219962) - [KnitScape](https://depts.washington.edu/machines/projects/knitscape/)
@@ -29,7 +30,6 @@
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
 * [2024-08-07, 05:47:23](https://news.ycombinator.com/item?id=41178564) - [Kitchen sponges can be used as memory devices](https://www.nature.com/articles/d44151-024-00120-9)
-* [2024-08-07, 03:30:33](https://news.ycombinator.com/item?id=41178000) - [1 vs. 1000 guitar picks (5000 picks/second) [video]](https://www.youtube.com/watch?v=H4VgGn2tPWc)
 
 ## [Archives](archives/index.md)
 
