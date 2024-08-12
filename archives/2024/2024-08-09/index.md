@@ -17,6 +17,7 @@
 * [2024-08-09, 19:13:16](https://news.ycombinator.com/item?id=41204552) - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
 * [2024-08-09, 18:49:45](https://news.ycombinator.com/item?id=41204378) - [What the hell is a luminiferous theremin?](https://extkits.co.uk/what-the-hell-is-a-luminiferous-theremin/)
 * [2024-08-09, 18:48:32](https://news.ycombinator.com/item?id=41204368) - [A gang of harmonica geeks saved the soul of the blues harp (2013)](https://www.collectorsweekly.com/articles/how-a-gang-of-harmonica-geeks-saved-the-soul-of-the-blues-harp/)
+* [2024-08-09, 18:47:26](https://news.ycombinator.com/item?id=41204359) - [The Empathy Punishment](https://www.grubstreet.com/article/chipotle-burrito-bowl-thrower-woman-judge-sentence-fast-food.html)
 * [2024-08-09, 18:38:35](https://news.ycombinator.com/item?id=41204287) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 18:30:18](https://news.ycombinator.com/item?id=41204228) - [Animated Film Making Process](https://disneyanimation.com/process/)
 * [2024-08-09, 18:20:37](https://news.ycombinator.com/item?id=41204160) - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
