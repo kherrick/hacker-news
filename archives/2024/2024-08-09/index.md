@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 23:15:19](https://news.ycombinator.com/item?id=41206168) - [Room inspections at Resorts World confuse, annoy DEF CON attendees](https://www.reviewjournal.com/business/tourism/invasion-of-privacy-hotel-room-inspections-confuse-hacker-convention-attendees-3121350/)
 * [2024-08-09, 23:11:58](https://news.ycombinator.com/item?id=41206147) - [Frank Zappa estate: the feud, and the pain, that dogs his children](https://www.washingtonpost.com/entertainment/music/interactive/2024/frank-zappa-family-feud-moon-unit-dweezil/)
 * [2024-08-09, 22:52:13](https://news.ycombinator.com/item?id=41206025) - [Grace Hopper, Nvidia's Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
 * [2024-08-09, 22:46:57](https://news.ycombinator.com/item?id=41205995) - [Proxy Please: Help People Connect to Signal](https://signal.org/blog/proxy-please/)
@@ -75,4 +76,5 @@
 * [2024-08-09, 02:31:57](https://news.ycombinator.com/item?id=41198358) - [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java/)
 * [2024-08-09, 01:49:22](https://news.ycombinator.com/item?id=41198151) - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
 * [2024-08-09, 01:08:29](https://news.ycombinator.com/item?id=41197950) - [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
+* [2024-08-09, 00:19:55](https://news.ycombinator.com/item?id=41197726) - [History of HTTPS Usage](https://www.jefftk.com/p/history-of-https-usage)
 * [2024-08-09, 00:09:25](https://news.ycombinator.com/item?id=41197681) - [The UK government has blocked IPs](https://www.police.uk/)
