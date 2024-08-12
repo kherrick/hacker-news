@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-12, 01:09:26](https://news.ycombinator.com/item?id=41220393) - [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
-* [2024-08-12, 00:31:52](https://news.ycombinator.com/item?id=41220233) - [AMD's processors have been shipping with a dangerous security bug](https://www.interest.co.nz/technology/129141/researchers-suggest-throw-away-your-computer-if-sinkclose-flaw-amd-processors)
 * [2024-08-11, 23:54:18](https://news.ycombinator.com/item?id=41220098) - [China's total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
 * [2024-08-11, 23:47:35](https://news.ycombinator.com/item?id=41220059) - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
@@ -30,6 +29,7 @@
 * [2024-08-08, 05:51:38](https://news.ycombinator.com/item?id=41188491) - [Nuances around location-based programming](https://austingil.com/user-location-is-a-lie/)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
 * [2024-08-07, 05:47:23](https://news.ycombinator.com/item?id=41178564) - [Kitchen sponges can be used as memory devices](https://www.nature.com/articles/d44151-024-00120-9)
+* [2024-08-07, 03:30:33](https://news.ycombinator.com/item?id=41178000) - [1 vs. 1000 guitar picks (5000 picks/second) [video]](https://www.youtube.com/watch?v=H4VgGn2tPWc)
 
 ## [Archives](archives/index.md)
 

@@ -106,6 +106,7 @@
 * [2024-08-07, 04:47:53](https://news.ycombinator.com/item?id=41178321) - [China is stockpiling – we must do the same](https://www.thetimes.com/comment/columnists/article/china-is-stockpiling-we-must-do-the-same-02sgc8529)
 * [2024-08-07, 04:31:58](https://news.ycombinator.com/item?id=41178258) - [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)
 * [2024-08-07, 03:51:45](https://news.ycombinator.com/item?id=41178092) - [Gangs in the Los Angeles County Sheriff's Department](https://en.wikipedia.org/wiki/Gangs_in_the_Los_Angeles_County_Sheriff%27s_Department)
+* [2024-08-07, 03:30:33](https://news.ycombinator.com/item?id=41178000) - [1 vs. 1000 guitar picks (5000 picks/second) [video]](https://www.youtube.com/watch?v=H4VgGn2tPWc)
 * [2024-08-07, 03:27:47](https://news.ycombinator.com/item?id=41177984) - [Electric Chainsaws and the Gorge of Misery](https://lcamtuf.substack.com/p/electric-chainsaws-and-the-gorge)
 * [2024-08-07, 02:58:57](https://news.ycombinator.com/item?id=41177831) - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
 * [2024-08-07, 02:31:32](https://news.ycombinator.com/item?id=41177701) - [LangChain vs. LlamaIndex](https://myscale.com/blog/llamaindex-vs-langchain-detailed-comparison/)
