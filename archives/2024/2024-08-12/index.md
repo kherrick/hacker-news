@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 17:19:38](https://news.ycombinator.com/item?id=41226947) - [Racetrack Memory May Arrive in 5-7 Years (2010)](https://www.computerworld.com/article/1432071/racetrack-memory-computer-memory-that-s-100-000-times-faster-than-today-s-may-arrive-in-5-7-ye.html)
 * [2024-08-12, 17:01:11](https://news.ycombinator.com/item?id=41226700) - [ProhostAI (YC S24) Is Hiring](https://www.ycombinator.com/companies/prohostai/jobs/E50Yl4C-founding-engineer)
 * [2024-08-12, 16:15:41](https://news.ycombinator.com/item?id=41226147) - [Apple to take 30% of all Patreon donations](https://twitter.com/KenneyNL/status/1822996361551184290)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
