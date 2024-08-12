@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 05:36:11](https://news.ycombinator.com/item?id=41221383) - [OnlyFans' porn juggernaut fueled by a deception](https://www.reuters.com/investigates/special-report/onlyfans-sex-chatters/)
+* [2024-08-12, 05:07:22](https://news.ycombinator.com/item?id=41221292) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 04:49:02](https://news.ycombinator.com/item?id=41221242) - [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
 * [2024-08-12, 02:41:05](https://news.ycombinator.com/item?id=41220775) - [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
