@@ -91,6 +91,7 @@
 * [2024-08-07, 11:17:44](https://news.ycombinator.com/item?id=41180181) - [The Paige Compositor: First US Typography Machine](https://www.asme.org/about-asme/engineering-history/landmarks/11-paige-compositor)
 * [2024-08-07, 11:12:24](https://news.ycombinator.com/item?id=41180154) - [Massachusetts 'Reviewing' Kei Car Ban After Uproar over Canceled Registrations](https://www.thedrive.com/news/massachusetts-reviewing-kei-car-ban-after-uproar-over-canceled-registrations)
 * [2024-08-07, 10:47:36](https://news.ycombinator.com/item?id=41180007) - [Coq will be renamed into 'The Rocq Prover'](https://coq.inria.fr/)
+* [2024-08-07, 10:27:57](https://news.ycombinator.com/item?id=41179897) - [SS Warrimoo, the Ship That Existed in Two Centuries at Once](https://www.atlasobscura.com/articles/ss-warimoo-ship-in-two-centuries)
 * [2024-08-07, 09:46:25](https://news.ycombinator.com/item?id=41179735) - [First USGS supercomputer decommissioning makes way for successors](https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors)
 * [2024-08-07, 09:36:35](https://news.ycombinator.com/item?id=41179682) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-08-07, 09:33:00](https://news.ycombinator.com/item?id=41179666) - [Show HN: Lacakgrak – simple inbound/outbound packet sniffer](https://github.com/altilunium/lacakgrak)
