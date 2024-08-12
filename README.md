@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
+* [2024-08-12, 04:49:02](https://news.ycombinator.com/item?id=41221242) - [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
 * [2024-08-12, 02:41:05](https://news.ycombinator.com/item?id=41220775) - [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
 * [2024-08-12, 00:43:22](https://news.ycombinator.com/item?id=41220284) - [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
 * [2024-08-11, 23:47:35](https://news.ycombinator.com/item?id=41220059) - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
 * [2024-08-11, 23:24:12](https://news.ycombinator.com/item?id=41219962) - [KnitScape](https://depts.washington.edu/machines/projects/knitscape/)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
-* [2024-08-11, 21:27:48](https://news.ycombinator.com/item?id=41219440) - [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
 * [2024-08-11, 20:22:11](https://news.ycombinator.com/item?id=41219080) - [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
 * [2024-08-11, 20:02:58](https://news.ycombinator.com/item?id=41218928) - [Tree Attention: Topology-Aware Decoding for Long-Context](https://arxiv.org/abs/2408.04093)
 * [2024-08-11, 19:42:18](https://news.ycombinator.com/item?id=41218811) - [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
