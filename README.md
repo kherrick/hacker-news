@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
 * [2024-08-12, 22:23:40](https://news.ycombinator.com/item?id=41230039) - [Why brutalist buildings should stay, even if people think they're ugly](https://text.npr.org/g-s1-6417)
 * [2024-08-12, 21:36:56](https://news.ycombinator.com/item?id=41229600) - [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
-* [2024-08-12, 21:36:00](https://news.ycombinator.com/item?id=41229597) - [Piecing Together an Ancient Epic Was Slow Work. Until A.I. Got Involved](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
+* [2024-08-12, 21:36:00](https://news.ycombinator.com/item?id=41229597) - [Piecing together the epic of Gilgamesh with NLP](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
 * [2024-08-12, 21:08:15](https://news.ycombinator.com/item?id=41229328) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 * [2024-08-12, 20:38:27](https://news.ycombinator.com/item?id=41229049) - [NASA Investigation Finds Boeing Hindering Americans' Return to Moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
 * [2024-08-12, 20:27:27](https://news.ycombinator.com/item?id=41228935) - [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
@@ -29,7 +30,6 @@
 * [2024-08-08, 19:51:53](https://news.ycombinator.com/item?id=41195492) - [Making earthly paradise: The art and crafts of William Morris](https://www.the-tls.co.uk/literature-by-region/british-literature/william-morris-ingrid-hanson-marcus-waithe/)
 * [2024-08-07, 17:33:04](https://news.ycombinator.com/item?id=41183513) - [Faulty instructions in C910 RISC-V CPUs](https://ghostwriteattack.com)
 * [2024-08-07, 16:24:12](https://news.ycombinator.com/item?id=41182895) - [Poetry was an official Olympic event](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
-* [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: Simple Mbtiles Server – Self-host the entire planet of OpenStreetMaps](https://github.com/markuman/sms)
 
 ## [Archives](archives/index.md)
 

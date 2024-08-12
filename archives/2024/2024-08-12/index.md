@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
 * [2024-08-12, 22:23:40](https://news.ycombinator.com/item?id=41230039) - [Why brutalist buildings should stay, even if people think they're ugly](https://text.npr.org/g-s1-6417)
 * [2024-08-12, 21:36:56](https://news.ycombinator.com/item?id=41229600) - [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
 * [2024-08-12, 21:36:00](https://news.ycombinator.com/item?id=41229597) - [Piecing Together an Ancient Epic Was Slow Work. Until A.I. Got Involved](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
