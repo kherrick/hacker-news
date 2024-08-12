@@ -14,7 +14,6 @@
 * [2024-08-11, 20:02:58](https://news.ycombinator.com/item?id=41218928) - [Tree Attention: Topology-Aware Decoding for Long-Context](https://arxiv.org/abs/2408.04093)
 * [2024-08-11, 19:42:18](https://news.ycombinator.com/item?id=41218811) - [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
 * [2024-08-11, 19:33:01](https://news.ycombinator.com/item?id=41218737) - [OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
-* [2024-08-11, 17:42:05](https://news.ycombinator.com/item?id=41217903) - [Another variable-length integer encoding (2021)](https://dcreager.net/2021/03/a-better-varint/)
 * [2024-08-11, 17:23:17](https://news.ycombinator.com/item?id=41217758) - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
 * [2024-08-11, 16:29:16](https://news.ycombinator.com/item?id=41217319) - [It took my savings and 14 years but I’m about to beat arthritis](https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz)
 * [2024-08-11, 16:04:49](https://news.ycombinator.com/item?id=41217136) - [Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs](https://servermono.com/)
@@ -29,6 +28,7 @@
 * [2024-08-09, 05:09:25](https://news.ycombinator.com/item?id=41198931) - [Is Running a More Efficient Way to Travel Than Walking?](https://www.joehxblog.com/is-running-a-more-efficient-way-to-travel-than-walking/)
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
+* [2024-08-07, 11:12:24](https://news.ycombinator.com/item?id=41180154) - [Massachusetts 'Reviewing' Kei Car Ban After Uproar over Canceled Registrations](https://www.thedrive.com/news/massachusetts-reviewing-kei-car-ban-after-uproar-over-canceled-registrations)
 * [2024-08-07, 05:47:23](https://news.ycombinator.com/item?id=41178564) - [Kitchen sponges can be used as memory devices](https://www.nature.com/articles/d44151-024-00120-9)
 
 ## [Archives](archives/index.md)
