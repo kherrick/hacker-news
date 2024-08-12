@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 21:07:10](https://news.ycombinator.com/item?id=41229320) - [Ask HN: What's Your Experience with eSIMs?](https://news.ycombinator.com/item?id=41229320)
 * [2024-08-12, 20:54:56](https://news.ycombinator.com/item?id=41229221) - [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)
 * [2024-08-12, 20:27:27](https://news.ycombinator.com/item?id=41228935) - [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
 * [2024-08-12, 19:57:57](https://news.ycombinator.com/item?id=41228630) - [Federal appeals court finds geofence warrants \"categorically\" unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
@@ -29,7 +30,6 @@
 * [2024-08-07, 17:33:04](https://news.ycombinator.com/item?id=41183513) - [Faulty instructions in C910 RISC-V CPUs](https://ghostwriteattack.com)
 * [2024-08-07, 16:24:12](https://news.ycombinator.com/item?id=41182895) - [Poetry was an official Olympic event](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
 * [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: Simple Mbtiles Server – Self-host the entire planet of OpenStreetMaps](https://github.com/markuman/sms)
-* [2024-08-07, 10:27:57](https://news.ycombinator.com/item?id=41179897) - [SS Warrimoo, the Ship That Existed in Two Centuries at Once](https://www.atlasobscura.com/articles/ss-warimoo-ship-in-two-centuries)
 
 ## [Archives](archives/index.md)
 
