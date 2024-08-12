@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 19:12:06](https://news.ycombinator.com/item?id=41228191) - ['Logical, beautiful, perfect' WordStar rises again](https://www.zdnet.com/article/logical-beautiful-perfect-wordstar-rises-again-how-you-can-type-faster-with-this-old-tech/)
+* [2024-08-12, 18:59:47](https://news.ycombinator.com/item?id=41228069) - [Working from home allowed him to be a more engaged dad. Now it's over](https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order)
 * [2024-08-12, 18:07:12](https://news.ycombinator.com/item?id=41227515) - [Ask HN: What are some \"toy\" projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://www.synnaxlabs.com/)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://news.ycombinator.com/item?id=41227369)
@@ -36,6 +38,7 @@
 * [2024-08-12, 14:07:57](https://news.ycombinator.com/item?id=41224536) - [Pushing baby booms to boost economic growth amounts to a Ponzi scheme](https://theconversation.com/the-problem-with-pronatalism-pushing-baby-booms-to-boost-economic-growth-amounts-to-a-ponzi-scheme-235725)
 * [2024-08-12, 14:02:20](https://news.ycombinator.com/item?id=41224472) - [Ask HN: What code editors or IDE's are easily scriptable?](https://news.ycombinator.com/item?id=41224472)
 * [2024-08-12, 13:46:28](https://news.ycombinator.com/item?id=41224316) - [New Apache Airflow Operators for Google Generative AI](https://cloud.google.com/blog/products/data-analytics/announcing-apache-airflow-operators-for-google-generative-ai)
+* [2024-08-12, 13:43:30](https://news.ycombinator.com/item?id=41224286) - [Postgres.new: In-browser Postgres with an AI interface](https://supabase.com/blog/postgres-new)
 * [2024-08-12, 13:40:54](https://news.ycombinator.com/item?id=41224260) - [A UX Designer Walks into a Tesla Bar – Scott Jenson](https://jenson.org/tesla/)
 * [2024-08-12, 13:40:21](https://news.ycombinator.com/item?id=41224253) - [AMD records its highest server market share in decades](https://www.tomshardware.com/pc-components/cpus/amd-records-its-highest-server-market-share-in-decades-but-intel-fights-back-in-client-pcs)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
