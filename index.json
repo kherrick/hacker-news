@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-11, 23:54:18",
+      "https://news.ycombinator.com/item?id=41220098"
+    ],
+    [
+      "China's total wind and solar capacity outstrips coal",
+      "https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 23:30:33",
       "https://news.ycombinator.com/item?id=41219981"
     ],
@@ -17,6 +27,16 @@
     [
       "Generating Simpson's Paradox with Z3",
       "https://kevinlynagh.com/z3-simpsons-paradox/"
+    ]
+  ],
+  [
+    [
+      "2024-08-11, 21:27:48",
+      "https://news.ycombinator.com/item?id=41219440"
+    ],
+    [
+      "WireGuard-rs – Official Rust implementation of WireGuard",
+      "https://git.zx2c4.com/wireguard-rs/"
     ]
   ],
   [
@@ -97,6 +117,16 @@
     [
       "Introduction to Golang Preemption Mechanisms",
       "https://unskilled.blog/posts/preemption-in-go-an-introduction/"
+    ]
+  ],
+  [
+    [
+      "2024-08-11, 16:29:16",
+      "https://news.ycombinator.com/item?id=41217319"
+    ],
+    [
+      "It took my savings and 14 years – but I'm about to cure arthritis",
+      "https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz"
     ]
   ],
   [
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2024-08-09, 18:48:32",
-      "https://news.ycombinator.com/item?id=41204368"
-    ],
-    [
-      "A gang of harmonica geeks saved the soul of the blues harp (2013)",
-      "https://www.collectorsweekly.com/articles/how-a-gang-of-harmonica-geeks-saved-the-soul-of-the-blues-harp/"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 05:51:38",
       "https://news.ycombinator.com/item?id=41188491"
     ],
     [
       "Nuances around location-based programming",
       "https://austingil.com/user-location-is-a-lie/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 15:26:43",
-      "https://news.ycombinator.com/item?id=41182376"
-    ],
-    [
-      "Y'all are sleeping on HTTP/3",
-      "https://kmcd.dev/posts/yall-are-sleeping-on-http3/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A simple proof that pi is irrational [pdf] (1946)",
       "https://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08821-2/S0002-9904-1947-08821-2.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 05:05:34",
-      "https://news.ycombinator.com/item?id=41178388"
-    ],
-    [
-      "12 Coins in Verse: Genius solution of twelve balls and a scale problem",
-      "https://www.cut-the-knot.org/blue/12CoinsInVerse.shtml#solution"
     ]
   ]
 ]
