@@ -26,7 +26,7 @@
 * [2024-08-11, 12:02:55](https://news.ycombinator.com/item?id=41215593) - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
 * [2024-08-10, 20:46:27](https://news.ycombinator.com/item?id=41212103) - [Genetics solves a thorny problem: how plants have prickles](https://cosmosmagazine.com/nature/plants/thorns-prickles-roses-plants/)
 * [2024-08-10, 09:31:05](https://news.ycombinator.com/item?id=41208343) - [ASCII 3D Renderer for JavaScript](https://github.com/kciter/ascii-3d-renderer.js)
-* [2024-08-10, 04:40:57](https://news.ycombinator.com/item?id=41207355) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
+* [2024-08-10, 05:37:43](https://news.ycombinator.com/item?id=41207569) - [Ancient DNA Revolution](https://archaeology.org/collection/ancient-dna-revolution/)
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: OSM – self host the entire planet in ~30 minutes](https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)

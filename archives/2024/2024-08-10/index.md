@@ -60,6 +60,7 @@
 * [2024-08-10, 06:51:39](https://news.ycombinator.com/item?id=41207793) - [Linearizability: A correctness condition for concurrent objects](http://muratbuffalo.blogspot.com/2024/08/linearizability-correctness-condition.html)
 * [2024-08-10, 05:48:43](https://news.ycombinator.com/item?id=41207608) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/index.html)
 * [2024-08-10, 05:48:01](https://news.ycombinator.com/item?id=41207604) - [SNES Graphics: 186.2ns or Bust](https://fabiensanglard.net/snes_ppus_why/index.html)
+* [2024-08-10, 05:37:43](https://news.ycombinator.com/item?id=41207569) - [Ancient DNA Revolution](https://archaeology.org/collection/ancient-dna-revolution/)
 * [2024-08-10, 05:35:27](https://news.ycombinator.com/item?id=41207556) - [Larry Wall's Very Own Home Page](http://wall.org/%7Elarry/)
 * [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Susan Wojcicki has died](https://www.facebook.com/share/p/qe2ZMcs9Bz4K1SPt/)
 * [2024-08-10, 05:07:01](https://news.ycombinator.com/item?id=41207446) - [Former YouTube CEO Susan Wojcicki Has Died](https://www.threads.net/@crumbler/post/C-ecdHJxHMq)
