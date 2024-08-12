@@ -7,6 +7,7 @@
 * [2024-08-12, 06:56:23](https://news.ycombinator.com/item?id=41221814) - [Box2D 3.0 Released](https://box2d.org/posts/2024/08/releasing-box2d-3.0/)
 * [2024-08-12, 06:34:30](https://news.ycombinator.com/item?id=41221666) - [53% Less JavaScript with jQuery](https://twitter.com/classicgamertwr/status/1822691525463347442)
 * [2024-08-12, 06:17:32](https://news.ycombinator.com/item?id=41221558) - [I Quit Spotify](https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify)
+* [2024-08-12, 06:06:06](https://news.ycombinator.com/item?id=41221501) - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
 * [2024-08-12, 05:42:34](https://news.ycombinator.com/item?id=41221403) - [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
 * [2024-08-12, 05:36:11](https://news.ycombinator.com/item?id=41221383) - [OnlyFans' porn juggernaut fueled by a deception](https://www.reuters.com/investigates/special-report/onlyfans-sex-chatters/)
 * [2024-08-12, 05:07:22](https://news.ycombinator.com/item?id=41221292) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
