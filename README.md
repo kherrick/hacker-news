@@ -19,7 +19,6 @@
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 13:02:31](https://news.ycombinator.com/item?id=41223934) - [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 12:59:34](https://news.ycombinator.com/item?id=41223902) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
-* [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-11, 12:11:22](https://news.ycombinator.com/item?id=41215626) - [A camera that shoots 40k FPS decided the 100-meter sprint final](https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/)
 * [2024-08-11, 04:03:12](https://news.ycombinator.com/item?id=41213902) - [The most cited authors in the Stanford Encyclopedia of Philosophy](https://schwitzsplinters.blogspot.com/2024/08/the-378-most-cited-contemporary-authors.html)
 * [2024-08-10, 19:05:17](https://news.ycombinator.com/item?id=41211507) - [A worker from Berkeley's Urban Ore has opened a museum celebrating wingnuts](https://www.berkeleyside.org/2024/08/09/a-worker-from-berkeleys-urban-ore-has-opened-a-museum-celebrating-wingnuts)
@@ -30,6 +29,7 @@
 * [2024-08-07, 17:33:04](https://news.ycombinator.com/item?id=41183513) - [Faulty instructions in C910 RISC-V CPUs](https://ghostwriteattack.com)
 * [2024-08-07, 16:24:12](https://news.ycombinator.com/item?id=41182895) - [Poetry was an official Olympic event](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
 * [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: Simple Mbtiles Server – Self-host the entire planet of OpenStreetMaps](https://github.com/markuman/sms)
+* [2024-08-07, 10:27:57](https://news.ycombinator.com/item?id=41179897) - [SS Warrimoo, the Ship That Existed in Two Centuries at Once](https://www.atlasobscura.com/articles/ss-warimoo-ship-in-two-centuries)
 
 ## [Archives](archives/index.md)
 
