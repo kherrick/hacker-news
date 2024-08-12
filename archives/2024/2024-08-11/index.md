@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 23:54:18](https://news.ycombinator.com/item?id=41220098) - [China's total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
 * [2024-08-11, 23:30:33](https://news.ycombinator.com/item?id=41219981) - [Samsung's New EV Battery Tech: 600-Mile Ranges, and 9-Minute Charges?](https://www.pcmag.com/how-to/what-is-solid-state-battery-for-electric-vehicles)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+* [2024-08-11, 21:27:48](https://news.ycombinator.com/item?id=41219440) - [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
 * [2024-08-11, 21:18:47](https://news.ycombinator.com/item?id=41219385) - [The Sarumans and the Radagasts (2023)](https://medium.com/@komorama/the-sarumans-and-the-radagasts-6392f889d142)
 * [2024-08-11, 21:08:35](https://news.ycombinator.com/item?id=41219325) - [UK police commissioner threatens to extradite,jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)
 * [2024-08-11, 21:00:26](https://news.ycombinator.com/item?id=41219284) - [Intel Raptor Lake 0x129 CPU Microcode Performance Impact on Linux](https://www.phoronix.com/review/intel-raptor-lake-0x129)
@@ -27,6 +29,7 @@
 * [2024-08-11, 17:23:17](https://news.ycombinator.com/item?id=41217758) - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
 * [2024-08-11, 16:59:16](https://news.ycombinator.com/item?id=41217571) - [iPhone SE 4 due in early 2025 with OLED and Apple Intelligence](https://appleinsider.com/articles/24/08/11/iphone-se-4-due-in-early-2025-with-oled-and-apple-intelligence)
 * [2024-08-11, 16:42:32](https://news.ycombinator.com/item?id=41217411) - [MacBook Air, M2 Chip, 8GB RAM: Nothing is open, but half the memory is gone](https://twitter.com/Hasen_Judi/status/1822460173430194407)
+* [2024-08-11, 16:29:16](https://news.ycombinator.com/item?id=41217319) - [It took my savings and 14 years – but I'm about to cure arthritis](https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz)
 * [2024-08-11, 16:28:39](https://news.ycombinator.com/item?id=41217313) - [ChatGPT unexpectedly began speaking in a user's cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
 * [2024-08-11, 16:16:36](https://news.ycombinator.com/item?id=41217229) - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
 * [2024-08-11, 16:07:30](https://news.ycombinator.com/item?id=41217162) - [Judge orders CDC to stop deleting emails of departing staff: 'likely unlawful'](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)

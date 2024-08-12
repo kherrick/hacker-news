@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-11, 23:54:18](https://news.ycombinator.com/item?id=41220098) - [China's total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
 * [2024-08-11, 23:30:33](https://news.ycombinator.com/item?id=41219981) - [Samsung's New EV Battery Tech: 600-Mile Ranges, and 9-Minute Charges?](https://www.pcmag.com/how-to/what-is-solid-state-battery-for-electric-vehicles)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+* [2024-08-11, 21:27:48](https://news.ycombinator.com/item?id=41219440) - [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
 * [2024-08-11, 20:29:34](https://news.ycombinator.com/item?id=41219122) - [Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where](https://www.wired.com/story/apple-prototypes-corporate-data/)
 * [2024-08-11, 20:22:11](https://news.ycombinator.com/item?id=41219080) - [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
 * [2024-08-11, 20:02:58](https://news.ycombinator.com/item?id=41218928) - [Tree Attention: Topology-Aware Decoding for Long-Context](https://arxiv.org/abs/2408.04093)
@@ -10,6 +12,7 @@
 * [2024-08-11, 19:27:39](https://news.ycombinator.com/item?id=41218696) - [Trolltech's Documentation Process](https://rant.gulbrandsen.priv.no/udoc/trolltech-documentation-process)
 * [2024-08-11, 17:42:05](https://news.ycombinator.com/item?id=41217903) - [Another variable-length integer encoding (2021)](https://dcreager.net/2021/03/a-better-varint/)
 * [2024-08-11, 17:23:17](https://news.ycombinator.com/item?id=41217758) - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
+* [2024-08-11, 16:29:16](https://news.ycombinator.com/item?id=41217319) - [It took my savings and 14 years – but I'm about to cure arthritis](https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz)
 * [2024-08-11, 16:07:30](https://news.ycombinator.com/item?id=41217162) - [Judge orders CDC to stop deleting emails of departing staff: 'likely unlawful'](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)
 * [2024-08-11, 16:04:49](https://news.ycombinator.com/item?id=41217136) - [Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs](https://servermono.com/)
 * [2024-08-11, 16:01:50](https://news.ycombinator.com/item?id=41217109) - [Show HN: My 70 year old grandma is learning to code and made a word game](https://grandmasword.com)
@@ -24,12 +27,9 @@
 * [2024-08-10, 23:52:44](https://news.ycombinator.com/item?id=41213053) - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 20:46:27](https://news.ycombinator.com/item?id=41212103) - [Genetics solves a thorny problem: how plants have prickles](https://cosmosmagazine.com/nature/plants/thorns-prickles-roses-plants/)
 * [2024-08-10, 04:40:57](https://news.ycombinator.com/item?id=41207355) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
-* [2024-08-09, 18:48:32](https://news.ycombinator.com/item?id=41204368) - [A gang of harmonica geeks saved the soul of the blues harp (2013)](https://www.collectorsweekly.com/articles/how-a-gang-of-harmonica-geeks-saved-the-soul-of-the-blues-harp/)
 * [2024-08-08, 05:51:38](https://news.ycombinator.com/item?id=41188491) - [Nuances around location-based programming](https://austingil.com/user-location-is-a-lie/)
-* [2024-08-07, 15:26:43](https://news.ycombinator.com/item?id=41182376) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
 * [2024-08-07, 05:46:28](https://news.ycombinator.com/item?id=41178560) - [A simple proof that pi is irrational [pdf] (1946)](https://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08821-2/S0002-9904-1947-08821-2.pdf)
-* [2024-08-07, 05:05:34](https://news.ycombinator.com/item?id=41178388) - [12 Coins in Verse: Genius solution of twelve balls and a scale problem](https://www.cut-the-knot.org/blue/12CoinsInVerse.shtml#solution)
 
 ## [Archives](archives/index.md)
 
