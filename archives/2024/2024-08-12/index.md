@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 15:24:28](https://news.ycombinator.com/item?id=41225503) - [New data shows violent crime dropping sharply in major U.S. cities](https://www.axios.com/2024/08/12/violent-crime-harris-trump-election)
 * [2024-08-12, 15:03:04](https://news.ycombinator.com/item?id=41225238) - [Iran Emerges as the Most Aggressive Foreign Threat to U.S. Election](https://www.wsj.com/politics/national-security/iran-emerges-as-the-most-aggressive-foreign-threat-to-u-s-election-b61161ad)
 * [2024-08-12, 14:39:36](https://news.ycombinator.com/item?id=41224909) - [Ask HN: Why ChatGPT loves the word: \"eager\" so much?](https://news.ycombinator.com/item?id=41224909)
 * [2024-08-12, 14:34:46](https://news.ycombinator.com/item?id=41224853) - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
