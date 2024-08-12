@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-12, 06:17:32",
-      "https://news.ycombinator.com/item?id=41221558"
-    ],
-    [
-      "I Quit Spotify",
-      "https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify"
-    ]
-  ],
-  [
-    [
       "2024-08-12, 05:42:34",
       "https://news.ycombinator.com/item?id=41221403"
     ],
@@ -147,6 +137,16 @@
     [
       "OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)",
       "https://hackmd.gfuzz.de/s/Qsk14kc3i"
+    ]
+  ],
+  [
+    [
+      "2024-08-11, 17:42:05",
+      "https://news.ycombinator.com/item?id=41217903"
+    ],
+    [
+      "Another variable-length integer encoding (2021)",
+      "https://dcreager.net/2021/03/a-better-varint/"
     ]
   ],
   [
