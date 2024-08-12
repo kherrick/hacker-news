@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-12, 04:52:21",
+      "https://news.ycombinator.com/item?id=41221252"
+    ],
+    [
+      "Blitz: A lightweight, modular, extensible web renderer",
+      "https://github.com/DioxusLabs/blitz"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 02:41:05",
       "https://news.ycombinator.com/item?id=41220775"
     ],
@@ -57,16 +67,6 @@
     [
       "WireGuard-rs – Official Rust implementation of WireGuard",
       "https://git.zx2c4.com/wireguard-rs/"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 20:29:34",
-      "https://news.ycombinator.com/item?id=41219122"
-    ],
-    [
-      "Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where",
-      "https://www.wired.com/story/apple-prototypes-corporate-data/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-08-10, 09:31:05",
+      "https://news.ycombinator.com/item?id=41208343"
+    ],
+    [
+      "ASCII 3D Renderer for JavaScript",
+      "https://github.com/kciter/ascii-3d-renderer.js"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 04:40:57",
       "https://news.ycombinator.com/item?id=41207355"
     ],
@@ -257,16 +267,6 @@
     [
       "Isometric Projection in Game Development",
       "https://pikuma.com/blog/isometric-projection-in-games"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 05:51:38",
-      "https://news.ycombinator.com/item?id=41188491"
-    ],
-    [
-      "Nuances around location-based programming",
-      "https://austingil.com/user-location-is-a-lie/"
     ]
   ],
   [
