@@ -52,6 +52,7 @@
 * [2024-08-07, 16:48:42](https://news.ycombinator.com/item?id=41183115) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 16:31:29](https://news.ycombinator.com/item?id=41182963) - [Green Tech Startup with No Climate Experience Secured Millions in Gov Contracts](https://www.propublica.org/article/nevada-nzero-carbon-emissions-tracking-project)
 * [2024-08-07, 16:26:34](https://news.ycombinator.com/item?id=41182917) - [Maximal Min() and Max()](https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/)
+* [2024-08-07, 16:24:12](https://news.ycombinator.com/item?id=41182895) - [Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
 * [2024-08-07, 16:19:06](https://news.ycombinator.com/item?id=41182847) - [Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 * [2024-08-07, 16:15:58](https://news.ycombinator.com/item?id=41182823) - [Ask HN: How to build site with payment, subscriptions, user login, registration](https://news.ycombinator.com/item?id=41182823)
 * [2024-08-07, 16:14:37](https://news.ycombinator.com/item?id=41182810) - [Fruitful innovation: Transforming watermelon genetics with advanced base editors](https://phys.org/news/2024-07-fruitful-watermelon-genetics-advanced-base.html)
