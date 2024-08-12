@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 17:30:09](https://news.ycombinator.com/item?id=41227072) - [Britain to use \"AI\" to answer taxpayer's letters](https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/)
 * [2024-08-12, 17:08:12](https://news.ycombinator.com/item?id=41226802) - [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
 * [2024-08-12, 17:04:46](https://news.ycombinator.com/item?id=41226754) - [Tim Sweeney: \" Now Apple is demanding a 30% cut of all Patreon DONATIONS](https://twitter.com/TimSweeneyEpic/status/1823027135784558842)
 * [2024-08-12, 17:01:11](https://news.ycombinator.com/item?id=41226700) - [ProhostAI (YC S24) Is Hiring](https://www.ycombinator.com/companies/prohostai/jobs/E50Yl4C-founding-engineer)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
 * [2024-08-12, 15:49:20](https://news.ycombinator.com/item?id=41225816) - [How Bank of America Ignores Its Own Rules to Prevent Dangerous Workloads](https://www.wsj.com/finance/banking/bank-of-america-worker-death-policies-89eff5f6)
-* [2024-08-12, 15:38:42](https://news.ycombinator.com/item?id=41225678) - [Cancer Rates Are Rising in Young People](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/)
 * [2024-08-12, 15:11:31](https://news.ycombinator.com/item?id=41225357) - [The Geometric Tool That Solved Einstein's Relativity Problem](https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/)
 * [2024-08-12, 14:34:46](https://news.ycombinator.com/item?id=41224853) - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
 * [2024-08-12, 14:27:21](https://news.ycombinator.com/item?id=41224780) - [Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
