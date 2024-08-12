@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 22:23:40](https://news.ycombinator.com/item?id=41230039) - [Why brutalist buildings should stay, even if people think they're ugly](https://text.npr.org/g-s1-6417)
+* [2024-08-12, 21:36:56](https://news.ycombinator.com/item?id=41229600) - [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
+* [2024-08-12, 21:36:00](https://news.ycombinator.com/item?id=41229597) - [Piecing Together an Ancient Epic Was Slow Work. Until A.I. Got Involved](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
 * [2024-08-12, 21:07:10](https://news.ycombinator.com/item?id=41229320) - [Ask HN: What's Your Experience with eSIMs?](https://news.ycombinator.com/item?id=41229320)
 * [2024-08-12, 20:54:56](https://news.ycombinator.com/item?id=41229221) - [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)
 * [2024-08-12, 20:27:27](https://news.ycombinator.com/item?id=41228935) - [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
 * [2024-08-12, 19:57:57](https://news.ycombinator.com/item?id=41228630) - [Federal Appeals Court Finds Geofence Warrants Are Categorically Unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
 * [2024-08-12, 19:12:06](https://news.ycombinator.com/item?id=41228191) - ['Logical, beautiful, perfect' WordStar rises again](https://www.zdnet.com/article/logical-beautiful-perfect-wordstar-rises-again-how-you-can-type-faster-with-this-old-tech/)
+* [2024-08-12, 19:04:16](https://news.ycombinator.com/item?id=41228113) - [Damn Vulnerable UEFI](https://github.com/hacking-support/DVUEFI)
 * [2024-08-12, 18:59:47](https://news.ycombinator.com/item?id=41228069) - [Working from home allowed him to be a more engaged dad. Now it's over](https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order)
 * [2024-08-12, 18:55:37](https://news.ycombinator.com/item?id=41228022) - [Stop Relying on IF NOT EXISTS for Concurrent Index Creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
 * [2024-08-12, 18:33:38](https://news.ycombinator.com/item?id=41227792) - [San Francisco seeks ban of software critics say is used to inflate rents](https://www.latimes.com/california/story/2024-08-01/san-francisco-seeks-ban-of-software-critics-say-is-used-to-artificially-inflate-rents)
