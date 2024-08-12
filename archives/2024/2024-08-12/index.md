@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
 * [2024-08-12, 15:03:04](https://news.ycombinator.com/item?id=41225238) - [Iran Emerges as the Most Aggressive Foreign Threat to U.S. Election](https://www.wsj.com/politics/national-security/iran-emerges-as-the-most-aggressive-foreign-threat-to-u-s-election-b61161ad)
+* [2024-08-12, 14:39:36](https://news.ycombinator.com/item?id=41224909) - [Ask HN: Why ChatGPT loves the word: \"eager\" so much?](https://news.ycombinator.com/item?id=41224909)
+* [2024-08-12, 14:34:46](https://news.ycombinator.com/item?id=41224853) - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
 * [2024-08-12, 14:27:21](https://news.ycombinator.com/item?id=41224780) - [Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
+* [2024-08-12, 14:27:15](https://news.ycombinator.com/item?id=41224777) - [X targeted with 9 privacy complaints after grabbing EU users' data for training](https://techcrunch.com/2024/08/11/elon-musks-x-targeted-with-eight-privacy-complaints-after-grabbing-eu-users-data-for-training-grok/)
 * [2024-08-12, 14:24:33](https://news.ycombinator.com/item?id=41224741) - [New research on why Cahokia Mounds civilization left](https://scitechdaily.com/900-years-ago-one-of-the-largest-civilizations-in-the-world-was-abandoned-archaeologists-have-now-discovered-new-clues/)
 * [2024-08-12, 14:20:03](https://news.ycombinator.com/item?id=41224689) - [Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync](https://pglite.dev/)
 * [2024-08-12, 14:19:54](https://news.ycombinator.com/item?id=41224686) - [Paris Agreement Thresholds Crossed](https://arctic-news.blogspot.com/2024/08/paris-agreement-thresholds-crossed.html)
