@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-12, 06:17:32](https://news.ycombinator.com/item?id=41221558) - [I Quit Spotify](https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify)
 * [2024-08-12, 05:42:34](https://news.ycombinator.com/item?id=41221403) - [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
 * [2024-08-12, 05:07:22](https://news.ycombinator.com/item?id=41221292) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
@@ -15,6 +14,7 @@
 * [2024-08-11, 20:02:58](https://news.ycombinator.com/item?id=41218928) - [Tree Attention: Topology-Aware Decoding for Long-Context](https://arxiv.org/abs/2408.04093)
 * [2024-08-11, 19:42:18](https://news.ycombinator.com/item?id=41218811) - [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
 * [2024-08-11, 19:33:01](https://news.ycombinator.com/item?id=41218737) - [OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
+* [2024-08-11, 17:42:05](https://news.ycombinator.com/item?id=41217903) - [Another variable-length integer encoding (2021)](https://dcreager.net/2021/03/a-better-varint/)
 * [2024-08-11, 17:23:17](https://news.ycombinator.com/item?id=41217758) - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
 * [2024-08-11, 16:29:16](https://news.ycombinator.com/item?id=41217319) - [It took my savings and 14 years but I’m about to beat arthritis](https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz)
 * [2024-08-11, 16:04:49](https://news.ycombinator.com/item?id=41217136) - [Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs](https://servermono.com/)
