@@ -129,6 +129,147 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41227369">
+          <h3>
+            <a class="item" href="https://www.synnaxlabs.com/"
+              >Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor
+              Data Streaming</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-12 @ 17:55:07</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41227369"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.synnaxlabs.com">https://www.synnaxlabs.com</a
+              >). With Synnax, engineers connect to their sensors and actuators,
+              stream telemetry for control and post-processing, and query
+              historical data for analysis. Hardware teams use our platform in
+              areas ranging from firing rocket engines to operating
+              manufacturing lines. Here’s a video:
+              <a href="https://youtu.be/OJtVBfRwooA"
+                >https://youtu.be/OJtVBfRwooA</a
+              >.
+              <p>
+                Software developers on hardware teams don’t usually have
+                infrastructure to build their custom software on. They have to
+                work with dozens of data acquisition devices to get data into a
+                single database. Oftentimes, they have to use several different
+                solutions to communicate with different devices: LabVIEW for
+                National Instruments hardware, ROS for robotics, and SCADA
+                software for PLCs.
+              </p>
+              <p>
+                There’s no good “glue” that lets you coordinate all of these
+                devices together. Developers end up using tools like Apache
+                Kafka for streaming and InfluxDB for storage, but these tools
+                are hard to get working with hardware, plus it’s a pain to
+                configure these tools to also record and stream data whenever
+                commands are sent to control hardware.
+              </p>
+              <p>
+                This forces developers to repeatedly build adapters to get data
+                off hardware devices and manage separate systems for real-time
+                streaming, data storage, and hardware control.
+              </p>
+              <p>
+                I (Emiliano) discovered this problem while working as a test
+                engineer at an aerospace company. We used old control software
+                that spit out data in massive 10 GB CSV or TDMS files. After a
+                long day and night of testing, no one wanted to go through all
+                the work to review the data.
+              </p>
+              <p>
+                One day, I was operating the system, and a very expensive
+                component failed, causing a multi-million dollar test stand to
+                explode. After many days of data review, we found a small
+                anomaly that indicated a component defect.
+              </p>
+              <p>
+                I then got fascinated by this problem, and moved into a software
+                engineering role to improve their data pipeline. After I left
+                this job and went back to school, I spent most of my time
+                skipping classes to build Synnax, eventually meeting Patrick and
+                Elham.
+              </p>
+              <p>
+                Synnax has several main parts. We have a custom time
+                series-database that was designed to be horizontally scalable
+                and fault-tolerant. The database can deploy in an OS or in a
+                container. Every sensor and actuator can fit into a “channel”
+                that can be written to using our client libraries in C++,
+                Python, and TypeScript.
+              </p>
+              <p>
+                When writing to a channel the server both persists it to the
+                database and streams it for real-time consumption for any type
+                of service, such as a GUI, automated post-processing tools, and
+                supervisory control sequences.
+              </p>
+              <p>
+                Finally, we’ve built a React component library that simplifies
+                the process of making a GUI, a visualization and control desktop
+                application, and pre-built device integrations for National
+                Instruments hardware and PLCs via OPC UA.
+              </p>
+              <p>
+                We think Synnax is unique in that it provides a bridge between
+                existing solutions like ROS, LabVIEW, and SCADA software and
+                general purpose tools like Apache Kafka or InfluxDB.
+              </p>
+              <p>
+                Synnax is source-available on a BSL 1.1 license (GitHub:
+                <a href="https://github.com/synnaxlabs/synnax"
+                  >https://github.com/synnaxlabs/synnax</a
+                >, documentation:
+                <a href="https://docs.synnaxlabs.com"
+                  >https://docs.synnaxlabs.com</a
+                >). Usage of the software is free for up to 50 channels. We
+                aren’t yet sure on what pricing to settle on—we’ve talked about
+                doing only usage-based implementation or also adding an
+                implementation cost.
+              </p>
+              <p>
+                If this sounds interesting to you, please check us out! You can
+                follow through on our documentation website (<a
+                  href="https://docs.synnaxlabs.com"
+                  >https://docs.synnaxlabs.com</a
+                >) to deploy a database and download the desktop visualization
+                dashboard.
+              </p>
+              <p>
+                We’d really love to hear your feedback and look forward to all
+                of the comments!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="41227350">
+          <h3>
+            <a class="item" href="https://github.com/mawise/bookshelf"
+              >Show HN: I built an animated 3D bookshelf for ebooks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-12 @ 17:53:36</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41227350"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41227072">
           <h3>
             <a
@@ -141,11 +282,11 @@
             <h4>
               <span>2024-08-12 @ 17:30:09</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41227072"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -163,11 +304,11 @@
             <h4>
               <span>2024-08-12 @ 17:08:12</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41226802"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -185,11 +326,11 @@
             <h4>
               <span>2024-08-12 @ 17:04:46</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41226754"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -222,11 +363,11 @@
             <h4>
               <span>2024-08-12 @ 16:06:42</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41226039"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -244,11 +385,11 @@
             <h4>
               <span>2024-08-12 @ 15:49:20</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41225816"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -265,11 +406,11 @@
             <h4>
               <span>2024-08-12 @ 15:11:31</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41225357"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -287,11 +428,11 @@
             <h4>
               <span>2024-08-12 @ 14:34:46</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224853"
                   >Comments</a
-                ><span class="descendants">: 250</span></span
+                ><span class="descendants">: 278</span></span
               >
             </h4>
           </section>
@@ -312,7 +453,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224780"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -323,11 +464,11 @@
             <h4>
               <span>2024-08-12 @ 14:25:10</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224749"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -343,11 +484,11 @@
             <h4>
               <span>2024-08-12 @ 14:20:03</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224689"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
             <div class="text">
@@ -427,7 +568,7 @@
             <h4>
               <span>2024-08-12 @ 14:10:21</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224557"
                   >Comments</a
@@ -448,11 +589,11 @@
             <h4>
               <span>2024-08-12 @ 13:46:28</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224316"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -469,11 +610,11 @@
             <h4>
               <span>2024-08-12 @ 13:40:21</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224253"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -488,11 +629,11 @@
             <h4>
               <span>2024-08-12 @ 13:37:42</span
               ><span class="points-container"
-                >Points: <span class="points">318</span></span
+                >Points: <span class="points">328</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224225"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -509,33 +650,11 @@
             <h4>
               <span>2024-08-12 @ 13:02:31</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41223934"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41223774">
-          <h3>
-            <a
-              class="item"
-              href="https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da"
-              >US Government wants to make it easier for you to click the
-              'unsubscribe' button</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-12 @ 12:46:09</span
-              ><span class="points-container"
-                >Points: <span class="points">382</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41223774"
-                  >Comments</a
-                ><span class="descendants">: 183</span></span
+                ><span class="descendants">: 170</span></span
               >
             </h4>
           </section>
@@ -550,7 +669,7 @@
             <h4>
               <span>2024-08-12 @ 06:06:06</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41221501"
                   >Comments</a
@@ -569,11 +688,11 @@
             <h4>
               <span>2024-08-12 @ 04:52:21</span
               ><span class="points-container"
-                >Points: <span class="points">363</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41221252"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -590,11 +709,11 @@
             <h4>
               <span>2024-08-12 @ 04:41:46</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41221218"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -611,11 +730,11 @@
             <h4>
               <span>2024-08-11 @ 23:47:35</span
               ><span class="points-container"
-                >Points: <span class="points">331</span></span
+                >Points: <span class="points">335</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41220059"
                   >Comments</a
-                ><span class="descendants">: 212</span></span
+                ><span class="descendants">: 213</span></span
               >
             </h4>
           </section>
@@ -651,7 +770,7 @@
             <h4>
               <span>2024-08-11 @ 21:53:14</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41219562"
                   >Comments</a
@@ -693,30 +812,11 @@
             <h4>
               <span>2024-08-11 @ 16:29:16</span
               ><span class="points-container"
-                >Points: <span class="points">372</span></span
+                >Points: <span class="points">374</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41217319"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41215727">
-          <h3>
-            <a class="item" href="https://github.com/versotile-org/verso"
-              >Verso – Web browser built on top of the Servo web engine</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-11 @ 12:34:41</span
-              ><span class="points-container"
-                >Points: <span class="points">783</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41215727"
-                  >Comments</a
-                ><span class="descendants">: 285</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -734,7 +834,7 @@
             <h4>
               <span>2024-08-10 @ 19:05:17</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41211507"
                   >Comments</a
@@ -755,11 +855,11 @@
             <h4>
               <span>2024-08-08 @ 20:25:07</span
               ><span class="points-container"
-                >Points: <span class="points">320</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41195823"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -774,7 +874,7 @@
             <h4>
               <span>2024-08-07 @ 17:33:04</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41183513"
                   >Comments</a
