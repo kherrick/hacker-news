@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-08-11, 17:42:05",
-      "https://news.ycombinator.com/item?id=41217903"
-    ],
-    [
-      "Another variable-length integer encoding (2021)",
-      "https://dcreager.net/2021/03/a-better-varint/"
-    ]
-  ],
-  [
-    [
       "2024-08-11, 17:23:17",
       "https://news.ycombinator.com/item?id=41217758"
     ],
@@ -267,6 +257,16 @@
     [
       "Go structs are copied on assignment (and other things about Go I'd missed)",
       "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/"
+    ]
+  ],
+  [
+    [
+      "2024-08-09, 05:09:25",
+      "https://news.ycombinator.com/item?id=41198931"
+    ],
+    [
+      "Is Running a More Efficient Way to Travel Than Walking?",
+      "https://www.joehxblog.com/is-running-a-more-efficient-way-to-travel-than-walking/"
     ]
   ],
   [
