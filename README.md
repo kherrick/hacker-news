@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 02:41:05](https://news.ycombinator.com/item?id=41220775) - [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
 * [2024-08-12, 01:09:26](https://news.ycombinator.com/item?id=41220393) - [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
 * [2024-08-12, 00:43:22](https://news.ycombinator.com/item?id=41220284) - [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
-* [2024-08-11, 23:54:18](https://news.ycombinator.com/item?id=41220098) - [China's total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
 * [2024-08-11, 23:47:35](https://news.ycombinator.com/item?id=41220059) - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
 * [2024-08-11, 21:27:48](https://news.ycombinator.com/item?id=41219440) - [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
