@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-12, 00:43:22",
+      "https://news.ycombinator.com/item?id=41220284"
+    ],
+    [
+      "Comma.ai: Refactoring for Growth",
+      "https://blog.comma.ai/refactoring-for-growth/"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 23:54:18",
       "https://news.ycombinator.com/item?id=41220098"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-08-11, 23:24:12",
+      "https://news.ycombinator.com/item?id=41219962"
+    ],
+    [
+      "KnitScape",
+      "https://depts.washington.edu/machines/projects/knitscape/"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 21:53:14",
       "https://news.ycombinator.com/item?id=41219562"
     ],
@@ -47,16 +67,6 @@
     [
       "WireGuard-rs – Official Rust implementation of WireGuard",
       "https://git.zx2c4.com/wireguard-rs/"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 20:29:34",
-      "https://news.ycombinator.com/item?id=41219122"
-    ],
-    [
-      "Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where",
-      "https://www.wired.com/story/apple-prototypes-corporate-data/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Go structs are copied on assignment (and other things about Go I'd missed)",
       "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 05:51:38",
-      "https://news.ycombinator.com/item?id=41188491"
-    ],
-    [
-      "Nuances around location-based programming",
-      "https://austingil.com/user-location-is-a-lie/"
     ]
   ],
   [
