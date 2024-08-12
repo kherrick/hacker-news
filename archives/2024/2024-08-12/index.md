@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 10:19:41](https://news.ycombinator.com/item?id=41222930) - [DEFCON attendees having mandatory daily room searches by conference block hotels](https://twitter.com/d0rkph0enix/status/1822814018643374260)
+* [2024-08-12, 10:04:26](https://news.ycombinator.com/item?id=41222862) - [Interstellar movie is implemented with Einstein's equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
 * [2024-08-12, 06:56:23](https://news.ycombinator.com/item?id=41221814) - [Box2D 3.0 Released](https://box2d.org/posts/2024/08/releasing-box2d-3.0/)
 * [2024-08-12, 06:34:30](https://news.ycombinator.com/item?id=41221666) - [53% Less JavaScript with jQuery](https://twitter.com/classicgamertwr/status/1822691525463347442)
 * [2024-08-12, 06:17:32](https://news.ycombinator.com/item?id=41221558) - [I Quit Spotify](https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify)
