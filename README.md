@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://www.synnaxlabs.com/)
+* [2024-08-12, 17:53:36](https://news.ycombinator.com/item?id=41227350) - [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
 * [2024-08-12, 17:30:09](https://news.ycombinator.com/item?id=41227072) - [Britain to use \"AI\" to answer taxpayer's letters](https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/)
 * [2024-08-12, 17:08:12](https://news.ycombinator.com/item?id=41226802) - [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
 * [2024-08-12, 17:04:46](https://news.ycombinator.com/item?id=41226754) - [Tim Sweeney: \" Now Apple is demanding a 30% cut of all Patreon DONATIONS](https://twitter.com/TimSweeneyEpic/status/1823027135784558842)
@@ -16,7 +18,6 @@
 * [2024-08-12, 13:40:21](https://news.ycombinator.com/item?id=41224253) - [AMD records its highest server market share in decades](https://www.tomshardware.com/pc-components/cpus/amd-records-its-highest-server-market-share-in-decades-but-intel-fights-back-in-client-pcs)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 13:02:31](https://news.ycombinator.com/item?id=41223934) - [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
-* [2024-08-12, 12:46:09](https://news.ycombinator.com/item?id=41223774) - [US Government wants to make it easier for you to click the 'unsubscribe' button](https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da)
 * [2024-08-12, 06:06:06](https://news.ycombinator.com/item?id=41221501) - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
 * [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 04:41:46](https://news.ycombinator.com/item?id=41221218) - [Gaussian Splatting SLAM](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)
@@ -25,7 +26,6 @@
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
 * [2024-08-11, 20:22:11](https://news.ycombinator.com/item?id=41219080) - [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
 * [2024-08-11, 16:29:16](https://news.ycombinator.com/item?id=41217319) - [It took my savings and 14 years but I’m about to beat arthritis](https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz)
-* [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 * [2024-08-10, 19:05:17](https://news.ycombinator.com/item?id=41211507) - [A worker from Berkeley's Urban Ore has opened a museum celebrating wingnuts](https://www.berkeleyside.org/2024/08/09/a-worker-from-berkeleys-urban-ore-has-opened-a-museum-celebrating-wingnuts)
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [2024-08-07, 17:33:04](https://news.ycombinator.com/item?id=41183513) - [Faulty instructions in C910 RISC-V CPUs](https://ghostwriteattack.com)
