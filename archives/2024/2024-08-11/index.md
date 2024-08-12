@@ -7,6 +7,7 @@
 * [2024-08-11, 23:54:18](https://news.ycombinator.com/item?id=41220098) - [China's total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
 * [2024-08-11, 23:47:35](https://news.ycombinator.com/item?id=41220059) - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
 * [2024-08-11, 23:30:33](https://news.ycombinator.com/item?id=41219981) - [Samsung's New EV Battery Tech: 600-Mile Ranges, and 9-Minute Charges?](https://www.pcmag.com/how-to/what-is-solid-state-battery-for-electric-vehicles)
+* [2024-08-11, 23:24:12](https://news.ycombinator.com/item?id=41219962) - [KnitScape](https://depts.washington.edu/machines/projects/knitscape/)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
 * [2024-08-11, 21:27:48](https://news.ycombinator.com/item?id=41219440) - [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
 * [2024-08-11, 21:18:47](https://news.ycombinator.com/item?id=41219385) - [The Sarumans and the Radagasts (2023)](https://medium.com/@komorama/the-sarumans-and-the-radagasts-6392f889d142)
