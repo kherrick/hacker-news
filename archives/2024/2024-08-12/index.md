@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 13:13:02](https://news.ycombinator.com/item?id=41224009) - [2024 Paris Olympics: No, breaking shouldn't be an Olympic sport](https://sports.yahoo.com/2024-paris-olympics-no-breaking-shouldnt-be-an-olympic-sport-190421401.html)
+* [2024-08-12, 13:00:04](https://news.ycombinator.com/item?id=41223907) - [Everything You Ever Wanted to Know about E. Coli (2008)](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
+* [2024-08-12, 12:46:09](https://news.ycombinator.com/item?id=41223774) - [US Government wants to make it easier for you to click the 'unsubscribe' button](https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da)
 * [2024-08-12, 12:16:17](https://news.ycombinator.com/item?id=41223554) - [They encouraged us to insulate our home. Now it's unmortgageable](https://www.theguardian.com/money/article/2024/aug/12/they-encouraged-us-to-insulate-our-home-now-its-unmortgageable)
 * [2024-08-12, 12:00:51](https://news.ycombinator.com/item?id=41223457) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-08-12, 11:04:22](https://news.ycombinator.com/item?id=41223145) - [The Decline of Etiquette and the Rise of 'Boundaries'](https://www.theatlantic.com/family/archive/2022/11/people-oversharing-tmi-friendship-boundaries/671970/)
