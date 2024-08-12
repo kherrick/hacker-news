@@ -6,6 +6,7 @@
 
 * [2024-08-12, 18:07:12](https://news.ycombinator.com/item?id=41227515) - [Ask HN: What are some \"toy\" projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://www.synnaxlabs.com/)
+* [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://news.ycombinator.com/item?id=41227369)
 * [2024-08-12, 17:53:36](https://news.ycombinator.com/item?id=41227350) - [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
 * [2024-08-12, 17:30:09](https://news.ycombinator.com/item?id=41227072) - [Britain to use \"AI\" to answer taxpayer's letters](https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/)
 * [2024-08-12, 17:20:17](https://news.ycombinator.com/item?id=41226958) - [Takeaways from the Vision Pro After 6 Months](https://www.matthewball.co/all/applevision2024)
