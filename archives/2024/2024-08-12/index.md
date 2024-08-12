@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 14:24:33](https://news.ycombinator.com/item?id=41224741) - [New research on why Cahokia Mounds civilization left](https://scitechdaily.com/900-years-ago-one-of-the-largest-civilizations-in-the-world-was-abandoned-archaeologists-have-now-discovered-new-clues/)
+* [2024-08-12, 14:19:54](https://news.ycombinator.com/item?id=41224686) - [Paris Agreement Thresholds Crossed](https://arctic-news.blogspot.com/2024/08/paris-agreement-thresholds-crossed.html)
 * [2024-08-12, 14:07:57](https://news.ycombinator.com/item?id=41224536) - [Pushing baby booms to boost economic growth amounts to a Ponzi scheme](https://theconversation.com/the-problem-with-pronatalism-pushing-baby-booms-to-boost-economic-growth-amounts-to-a-ponzi-scheme-235725)
+* [2024-08-12, 14:02:20](https://news.ycombinator.com/item?id=41224472) - [Ask HN: What code editors or IDE's are easily scriptable?](https://news.ycombinator.com/item?id=41224472)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 13:32:12](https://news.ycombinator.com/item?id=41224173) - [\"Does astrology work? We tested the ability of 152 astrologers\"](https://threadreaderapp.com/thread/1822663687145972105.html)
 * [2024-08-12, 13:30:45](https://news.ycombinator.com/item?id=41224164) - [Google Down](https://downdetector.com/status/google/)
