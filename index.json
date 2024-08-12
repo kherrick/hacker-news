@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-08-11, 23:24:12",
-      "https://news.ycombinator.com/item?id=41219962"
-    ],
-    [
-      "KnitScape",
-      "https://depts.washington.edu/machines/projects/knitscape/"
-    ]
-  ],
-  [
-    [
       "2024-08-11, 21:53:14",
       "https://news.ycombinator.com/item?id=41219562"
     ],
@@ -267,6 +257,16 @@
     [
       "Go structs are copied on assignment (and other things about Go I'd missed)",
       "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 20:25:07",
+      "https://news.ycombinator.com/item?id=41195823"
+    ],
+    [
+      "Isometric Projection in Game Development",
+      "https://pikuma.com/blog/isometric-projection-in-games"
     ]
   ],
   [
