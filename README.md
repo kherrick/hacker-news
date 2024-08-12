@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-12, 05:42:34](https://news.ycombinator.com/item?id=41221403) - [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
-* [2024-08-12, 05:07:22](https://news.ycombinator.com/item?id=41221292) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 04:52:21](https://news.ycombinator.com/item?id=41221252) - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 04:49:02](https://news.ycombinator.com/item?id=41221242) - [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
 * [2024-08-12, 04:47:19](https://news.ycombinator.com/item?id=41221235) - [Show HN: Simple Science – The Newest Science Explained Simply](https://simplescience.ai)
@@ -27,6 +26,7 @@
 * [2024-08-10, 04:40:57](https://news.ycombinator.com/item?id=41207355) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
 * [2024-08-09, 05:09:25](https://news.ycombinator.com/item?id=41198931) - [Is Running a More Efficient Way to Travel Than Walking?](https://www.joehxblog.com/is-running-a-more-efficient-way-to-travel-than-walking/)
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
+* [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: OSM – self host the entire planet in ~30 minutes](https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc)
 * [2024-08-07, 12:22:14](https://news.ycombinator.com/item?id=41180632) - [Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
 * [2024-08-07, 11:12:24](https://news.ycombinator.com/item?id=41180154) - [Massachusetts 'Reviewing' Kei Car Ban After Uproar over Canceled Registrations](https://www.thedrive.com/news/massachusetts-reviewing-kei-car-ban-after-uproar-over-canceled-registrations)
 * [2024-08-07, 05:47:23](https://news.ycombinator.com/item?id=41178564) - [Kitchen sponges can be used as memory devices](https://www.nature.com/articles/d44151-024-00120-9)
