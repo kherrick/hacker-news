@@ -67,6 +67,7 @@
 * [2024-08-09, 05:50:58](https://news.ycombinator.com/item?id=41199109) - [I built a second brain tool for college students](https://ainotebook.app/)
 * [2024-08-09, 05:47:11](https://news.ycombinator.com/item?id=41199092) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 * [2024-08-09, 05:27:54](https://news.ycombinator.com/item?id=41199006) - [AI Pastor: Your Guide to Spiritual Growth](https://ai-pastor.com)
+* [2024-08-09, 05:09:25](https://news.ycombinator.com/item?id=41198931) - [Is Running a More Efficient Way to Travel Than Walking?](https://www.joehxblog.com/is-running-a-more-efficient-way-to-travel-than-walking/)
 * [2024-08-09, 04:24:03](https://news.ycombinator.com/item?id=41198748) - [The Complexity of Business Source License (BUSL) Transformation](https://lwn.net/SubscriberLink/984249/8b7d0d5e28d96241/)
 * [2024-08-09, 03:08:48](https://news.ycombinator.com/item?id=41198491) - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 * [2024-08-09, 02:49:18](https://news.ycombinator.com/item?id=41198422) - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
