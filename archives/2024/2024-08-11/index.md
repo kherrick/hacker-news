@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
 * [2024-08-11, 23:54:18](https://news.ycombinator.com/item?id=41220098) - [China's total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
+* [2024-08-11, 23:47:35](https://news.ycombinator.com/item?id=41220059) - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
 * [2024-08-11, 23:30:33](https://news.ycombinator.com/item?id=41219981) - [Samsung's New EV Battery Tech: 600-Mile Ranges, and 9-Minute Charges?](https://www.pcmag.com/how-to/what-is-solid-state-battery-for-electric-vehicles)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
 * [2024-08-11, 21:27:48](https://news.ycombinator.com/item?id=41219440) - [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)

@@ -98,6 +98,7 @@
 * [2024-08-07, 06:40:40](https://news.ycombinator.com/item?id=41178808) - [The future of F/OSS continues to be AGPL](https://news.ycombinator.com/item?id=41178808)
 * [2024-08-07, 06:36:18](https://news.ycombinator.com/item?id=41178776) - [Rising rates of cancer in young people prompts hunt for environmental culprit](https://www.ft.com/content/491d7760-c329-4f57-9509-0da36bc9e7de)
 * [2024-08-07, 05:55:11](https://news.ycombinator.com/item?id=41178596) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
+* [2024-08-07, 05:47:23](https://news.ycombinator.com/item?id=41178564) - [Kitchen sponges can be used as memory devices](https://www.nature.com/articles/d44151-024-00120-9)
 * [2024-08-07, 05:46:28](https://news.ycombinator.com/item?id=41178560) - [A simple proof that pi is irrational [pdf] (1946)](https://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08821-2/S0002-9904-1947-08821-2.pdf)
 * [2024-08-07, 05:20:28](https://news.ycombinator.com/item?id=41178455) - [Linux for UX Designers: What I learn after a year of doing design work on Linux](https://www.chris-wood.design/resources/linux-for-ux-designers)
 * [2024-08-07, 05:05:34](https://news.ycombinator.com/item?id=41178388) - [12 Coins in Verse: Genius solution of twelve balls and a scale problem](https://www.cut-the-knot.org/blue/12CoinsInVerse.shtml#solution)
