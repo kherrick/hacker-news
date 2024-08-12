@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
 * [2024-08-12, 16:15:41](https://news.ycombinator.com/item?id=41226147) - [Apple to take 30% of all Patreon donations](https://twitter.com/KenneyNL/status/1822996361551184290)
+* [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
 * [2024-08-12, 15:54:40](https://news.ycombinator.com/item?id=41225871) - [NASA is about to make its most important safety decision in nearly a generation](https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/)
 * [2024-08-12, 15:47:14](https://news.ycombinator.com/item?id=41225795) - [Apple's requirements are about to hit creators and fans on Patreon](https://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon)
 * [2024-08-12, 15:38:42](https://news.ycombinator.com/item?id=41225678) - [Cancer Rates Are Rising in Young People](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/)
@@ -12,6 +13,7 @@
 * [2024-08-12, 15:11:31](https://news.ycombinator.com/item?id=41225357) - [The Geometric Tool That Solved Einstein's Relativity Problem](https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/)
 * [2024-08-12, 15:03:04](https://news.ycombinator.com/item?id=41225238) - [Iran Emerges as the Most Aggressive Foreign Threat to U.S. Election](https://www.wsj.com/politics/national-security/iran-emerges-as-the-most-aggressive-foreign-threat-to-u-s-election-b61161ad)
 * [2024-08-12, 14:39:36](https://news.ycombinator.com/item?id=41224909) - [Ask HN: Why ChatGPT loves the word: \"eager\" so much?](https://news.ycombinator.com/item?id=41224909)
+* [2024-08-12, 14:39:20](https://news.ycombinator.com/item?id=41224905) - [Genie: Best AI Software Engineer](https://cosine.sh/genie)
 * [2024-08-12, 14:34:46](https://news.ycombinator.com/item?id=41224853) - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
 * [2024-08-12, 14:27:21](https://news.ycombinator.com/item?id=41224780) - [Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
 * [2024-08-12, 14:27:15](https://news.ycombinator.com/item?id=41224777) - [X targeted with 9 privacy complaints after grabbing EU users' data for training](https://techcrunch.com/2024/08/11/elon-musks-x-targeted-with-eight-privacy-complaints-after-grabbing-eu-users-data-for-training-grok/)
@@ -22,6 +24,7 @@
 * [2024-08-12, 14:10:21](https://news.ycombinator.com/item?id=41224557) - [Creating the largest protein-protein interaction dataset in the world](https://www.owlposting.com/p/creating-the-largest-protein-protein)
 * [2024-08-12, 14:07:57](https://news.ycombinator.com/item?id=41224536) - [Pushing baby booms to boost economic growth amounts to a Ponzi scheme](https://theconversation.com/the-problem-with-pronatalism-pushing-baby-booms-to-boost-economic-growth-amounts-to-a-ponzi-scheme-235725)
 * [2024-08-12, 14:02:20](https://news.ycombinator.com/item?id=41224472) - [Ask HN: What code editors or IDE's are easily scriptable?](https://news.ycombinator.com/item?id=41224472)
+* [2024-08-12, 13:46:28](https://news.ycombinator.com/item?id=41224316) - [New Apache Airflow Operators for Google Generative AI](https://cloud.google.com/blog/products/data-analytics/announcing-apache-airflow-operators-for-google-generative-ai)
 * [2024-08-12, 13:40:54](https://news.ycombinator.com/item?id=41224260) - [A UX Designer Walks into a Tesla Bar – Scott Jenson](https://jenson.org/tesla/)
 * [2024-08-12, 13:40:21](https://news.ycombinator.com/item?id=41224253) - [AMD records its highest server market share in decades](https://www.tomshardware.com/pc-components/cpus/amd-records-its-highest-server-market-share-in-decades-but-intel-fights-back-in-client-pcs)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
