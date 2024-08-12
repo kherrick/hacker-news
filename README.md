@@ -2,11 +2,11 @@
 
 * [2024-08-12, 18:59:47](https://news.ycombinator.com/item?id=41228069) - [Working from home allowed him to be a more engaged dad. Now it's over](https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order)
 * [2024-08-12, 18:55:37](https://news.ycombinator.com/item?id=41228022) - [Stop Relying on IF NOT EXISTS for Concurrent Index Creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
+* [2024-08-12, 18:33:38](https://news.ycombinator.com/item?id=41227792) - [San Francisco seeks ban of software critics say is used to inflate rents](https://www.latimes.com/california/story/2024-08-01/san-francisco-seeks-ban-of-software-critics-say-is-used-to-artificially-inflate-rents)
 * [2024-08-12, 18:07:12](https://news.ycombinator.com/item?id=41227515) - [Ask HN: What are some \"toy\" projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified hardware control and sensor data streaming](https://news.ycombinator.com/item?id=41227369)
 * [2024-08-12, 17:53:36](https://news.ycombinator.com/item?id=41227350) - [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
 * [2024-08-12, 17:30:09](https://news.ycombinator.com/item?id=41227072) - [Britain to use \"AI\" to answer taxpayer's letters](https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/)
-* [2024-08-12, 17:20:17](https://news.ycombinator.com/item?id=41226958) - [Takeaways from the Vision Pro After 6 Months](https://www.matthewball.co/all/applevision2024)
 * [2024-08-12, 17:08:12](https://news.ycombinator.com/item?id=41226802) - [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
 * [2024-08-12, 17:01:11](https://news.ycombinator.com/item?id=41226700) - [ProhostAI (YC S24) Is Hiring](https://www.ycombinator.com/companies/prohostai/jobs/E50Yl4C-founding-engineer)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
