@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41223554"
     ],
     [
-      "They encouraged us to insulate our home. Now it's unmortgageable",
+      "Spray-foam insulation makes homes unable to be mortgaged",
       "https://www.theguardian.com/money/article/2024/aug/12/they-encouraged-us-to-insulate-our-home-now-its-unmortgageable"
     ]
   ],
@@ -51,32 +51,22 @@
   ],
   [
     [
-      "2024-08-12, 04:49:02",
-      "https://news.ycombinator.com/item?id=41221242"
+      "2024-08-12, 04:41:46",
+      "https://news.ycombinator.com/item?id=41221218"
     ],
     [
-      "Show HN: Anycast+ – An AI-powered podcast app",
-      "https://anycast.website/"
+      "Gaussian Splatting Slam [CVPR 2024]",
+      "https://rmurai.co.uk/projects/GaussianSplattingSLAM/"
     ]
   ],
   [
     [
-      "2024-08-12, 04:47:19",
-      "https://news.ycombinator.com/item?id=41221235"
+      "2024-08-12, 02:41:05",
+      "https://news.ycombinator.com/item?id=41220775"
     ],
     [
-      "Show HN: Simple Science – The Newest Science Explained Simply",
-      "https://simplescience.ai"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 00:43:22",
-      "https://news.ycombinator.com/item?id=41220284"
-    ],
-    [
-      "Comma.ai: Refactoring for Growth",
-      "https://blog.comma.ai/refactoring-for-growth/"
+      "Show HN: Copy-Paste from Webflow into Webstudio",
+      "https://webstudio.is/copy-paste"
     ]
   ],
   [
@@ -191,11 +181,21 @@
   ],
   [
     [
+      "2024-08-11, 14:48:26",
+      "https://news.ycombinator.com/item?id=41216560"
+    ],
+    [
+      "Finite State Machine Designer",
+      "https://madebyevan.com/fsm/"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 12:34:41",
       "https://news.ycombinator.com/item?id=41215727"
     ],
     [
-      "Verso – web browser built on top of the Servo web engine",
+      "Verso – Web browser built on top of the Servo web engine",
       "https://github.com/versotile-org/verso"
     ]
   ],
@@ -217,6 +217,16 @@
     [
       "OpenDevin: An Open Platform for AI Software Developers as Generalist Agents",
       "https://arxiv.org/abs/2407.16741"
+    ]
+  ],
+  [
+    [
+      "2024-08-11, 08:23:43",
+      "https://news.ycombinator.com/item?id=41214762"
+    ],
+    [
+      "Firefox Browser Ported to HaikuOS",
+      "https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=41181036"
     ],
     [
-      "Show HN: OSM – self host the entire planet in ~30 minutes",
+      "Show HN: OpenStreetMaps – Self host the entire planet",
       "https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 12:22:14",
-      "https://news.ycombinator.com/item?id=41180632"
-    ],
-    [
-      "Segment Anything Model and Friends",
-      "https://www.lightly.ai/post/segment-anything-model-and-friends"
     ]
   ],
   [
