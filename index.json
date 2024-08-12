@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41228022"
     ],
     [
-      "Stop Relying on IF NOT EXISTS for Concurrent Index Creation in PostgreSQL",
+      "Don't rely on IF NOT EXISTS for concurrent index creation in PostgreSQL",
       "https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/"
     ]
   ],
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2024-08-12, 17:30:09",
-      "https://news.ycombinator.com/item?id=41227072"
+      "2024-08-12, 17:20:17",
+      "https://news.ycombinator.com/item?id=41226958"
     ],
     [
-      "Britain to use \"AI\" to answer taxpayer's letters",
-      "https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/"
+      "Takeaways from the Vision Pro after 6 months",
+      "https://www.matthewball.co/all/applevision2024"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41226039"
     ],
     [
-      "Repair and Remain: How to do the slow, hard, good work of staying put",
+      "Repair and Remain",
       "https://comment.org/repair-and-remain/"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-08-12, 12:59:34",
+      "https://news.ycombinator.com/item?id=41223902"
+    ],
+    [
+      "Go is my hammer, and everything is a nail",
+      "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 06:06:06",
       "https://news.ycombinator.com/item?id=41221501"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-08-12, 04:41:46",
-      "https://news.ycombinator.com/item?id=41221218"
-    ],
-    [
-      "Gaussian Splatting SLAM",
-      "https://rmurai.co.uk/projects/GaussianSplattingSLAM/"
-    ]
-  ],
-  [
-    [
       "2024-08-11, 23:47:35",
       "https://news.ycombinator.com/item?id=41220059"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-08-11, 20:22:11",
-      "https://news.ycombinator.com/item?id=41219080"
+      "2024-08-11, 12:11:22",
+      "https://news.ycombinator.com/item?id=41215626"
     ],
     [
-      "Adbfs-rootless – Mount Android phones on Linux with adb. No root required",
-      "https://github.com/spion/adbfs-rootless"
+      "A camera that shoots 40k FPS decided the 100-meter sprint final",
+      "https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/"
     ]
   ],
   [
