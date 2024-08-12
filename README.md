@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 20:54:56](https://news.ycombinator.com/item?id=41229221) - [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)
 * [2024-08-12, 20:27:27](https://news.ycombinator.com/item?id=41228935) - [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
 * [2024-08-12, 19:57:57](https://news.ycombinator.com/item?id=41228630) - [Federal appeals court finds geofence warrants \"categorically\" unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
 * [2024-08-12, 18:55:37](https://news.ycombinator.com/item?id=41228022) - [Don't rely on IF NOT EXISTS for concurrent index creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
@@ -11,7 +12,6 @@
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain (2022)](https://comment.org/repair-and-remain/)
 * [2024-08-12, 15:11:31](https://news.ycombinator.com/item?id=41225357) - [Tensors, the geometric tool that solved Einstein's relativity problem](https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/)
 * [2024-08-12, 14:34:46](https://news.ycombinator.com/item?id=41224853) - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
-* [2024-08-12, 14:27:21](https://news.ycombinator.com/item?id=41224780) - [Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
 * [2024-08-12, 14:10:21](https://news.ycombinator.com/item?id=41224557) - [Creating the largest protein-protein interaction dataset in the world](https://www.owlposting.com/p/creating-the-largest-protein-protein)
 * [2024-08-12, 13:46:28](https://news.ycombinator.com/item?id=41224316) - [New Apache Airflow Operators for Google Generative AI](https://cloud.google.com/blog/products/data-analytics/announcing-apache-airflow-operators-for-google-generative-ai)
 * [2024-08-12, 13:43:30](https://news.ycombinator.com/item?id=41224286) - [Postgres.new: In-browser Postgres with an AI interface](https://supabase.com/blog/postgres-new)

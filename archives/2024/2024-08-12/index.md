@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 20:54:56](https://news.ycombinator.com/item?id=41229221) - [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)
 * [2024-08-12, 20:27:27](https://news.ycombinator.com/item?id=41228935) - [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
 * [2024-08-12, 19:57:57](https://news.ycombinator.com/item?id=41228630) - [Federal Appeals Court Finds Geofence Warrants Are Categorically Unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
 * [2024-08-12, 19:12:06](https://news.ycombinator.com/item?id=41228191) - ['Logical, beautiful, perfect' WordStar rises again](https://www.zdnet.com/article/logical-beautiful-perfect-wordstar-rises-again-how-you-can-type-faster-with-this-old-tech/)
