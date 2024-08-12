@@ -17,6 +17,7 @@
 * [2024-08-10, 19:34:27](https://news.ycombinator.com/item?id=41211692) - [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
 * [2024-08-10, 19:11:39](https://news.ycombinator.com/item?id=41211540) - [Things I Won't Work With: Dimethylcadmium](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 * [2024-08-10, 19:07:23](https://news.ycombinator.com/item?id=41211519) - [DEF CON's response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
+* [2024-08-10, 19:05:17](https://news.ycombinator.com/item?id=41211507) - [A worker from Berkeley's Urban Ore has opened a museum celebrating wingnuts](https://www.berkeleyside.org/2024/08/09/a-worker-from-berkeleys-urban-ore-has-opened-a-museum-celebrating-wingnuts)
 * [2024-08-10, 19:00:26](https://news.ycombinator.com/item?id=41211481) - [The Mac Is a Power Tool](https://daringfireball.net/2024/08/the_mac_is_a_power_tool)
 * [2024-08-10, 18:59:53](https://news.ycombinator.com/item?id=41211475) - [Defcon Response to Badge Issues](https://twitter.com/defcon/status/1822344607063302200)
 * [2024-08-10, 18:53:00](https://news.ycombinator.com/item?id=41211437) - [\"Jeff Bezos and Amazon tried to imprison my husband\"](https://twitter.com/Amy_K_Nelson/status/1822318185556648348)

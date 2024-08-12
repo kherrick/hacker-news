@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-12, 14:07:57](https://news.ycombinator.com/item?id=41224536) - [Pushing baby booms to boost economic growth amounts to a Ponzi scheme](https://theconversation.com/the-problem-with-pronatalism-pushing-baby-booms-to-boost-economic-growth-amounts-to-a-ponzi-scheme-235725)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 13:32:12](https://news.ycombinator.com/item?id=41224173) - [\"Does astrology work? We tested the ability of 152 astrologers\"](https://threadreaderapp.com/thread/1822663687145972105.html)
-* [2024-08-12, 13:30:45](https://news.ycombinator.com/item?id=41224164) - [Google Down](https://downdetector.com/status/google/)
 * [2024-08-12, 13:22:29](https://news.ycombinator.com/item?id=41224089) - [What startup founders have in common](https://slimsaas.com/blog/data-driven-analysis-startup-success)
 * [2024-08-12, 13:02:31](https://news.ycombinator.com/item?id=41223934) - [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 12:59:34](https://news.ycombinator.com/item?id=41223902) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
@@ -23,13 +23,13 @@
 * [2024-08-11, 12:34:41](https://news.ycombinator.com/item?id=41215727) - [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 * [2024-08-11, 12:22:50](https://news.ycombinator.com/item?id=41215679) - [Things I've learned building a modern TUI Framework (2022)](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 * [2024-08-10, 20:46:27](https://news.ycombinator.com/item?id=41212103) - [Genetics solves a thorny problem: how plants have prickles](https://cosmosmagazine.com/nature/plants/thorns-prickles-roses-plants/)
+* [2024-08-10, 19:05:17](https://news.ycombinator.com/item?id=41211507) - [A worker from Berkeley's Urban Ore has opened a museum celebrating wingnuts](https://www.berkeleyside.org/2024/08/09/a-worker-from-berkeleys-urban-ore-has-opened-a-museum-celebrating-wingnuts)
 * [2024-08-10, 09:31:05](https://news.ycombinator.com/item?id=41208343) - [ASCII 3D Renderer for JavaScript](https://github.com/kciter/ascii-3d-renderer.js)
 * [2024-08-10, 05:37:43](https://news.ycombinator.com/item?id=41207569) - [Ancient DNA Revolution](https://archaeology.org/collection/ancient-dna-revolution/)
 * [2024-08-09, 18:47:26](https://news.ycombinator.com/item?id=41204359) - [The Empathy Punishment](https://www.grubstreet.com/article/chipotle-burrito-bowl-thrower-woman-judge-sentence-fast-food.html)
 * [2024-08-08, 20:25:07](https://news.ycombinator.com/item?id=41195823) - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 * [2024-08-07, 16:24:12](https://news.ycombinator.com/item?id=41182895) - [Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
 * [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: OpenStreetMaps – Self host the entire planet](https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc)
-* [2024-08-07, 05:47:23](https://news.ycombinator.com/item?id=41178564) - [Kitchen sponges can be used as memory devices](https://www.nature.com/articles/d44151-024-00120-9)
 
 ## [Archives](archives/index.md)
 
