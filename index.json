@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-08-12, 05:36:11",
-      "https://news.ycombinator.com/item?id=41221383"
-    ],
-    [
-      "OnlyFans' porn juggernaut fueled by a deception",
-      "https://www.reuters.com/investigates/special-report/onlyfans-sex-chatters/"
-    ]
-  ],
-  [
-    [
       "2024-08-12, 05:07:22",
       "https://news.ycombinator.com/item?id=41221292"
     ],
@@ -61,12 +51,22 @@
   ],
   [
     [
-      "2024-08-12, 01:45:21",
-      "https://news.ycombinator.com/item?id=41220532"
+      "2024-08-12, 04:47:19",
+      "https://news.ycombinator.com/item?id=41221235"
     ],
     [
-      "CVBasic v0.6.0: The retro Z80 BASIC compiler now targets 6502",
-      "https://github.com/nanochess/CVBasic"
+      "Show HN: Simple Science – The Newest Science Explained Simply",
+      "https://simplescience.ai"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 02:41:05",
+      "https://news.ycombinator.com/item?id=41220775"
+    ],
+    [
+      "Show HN: Copy-Paste from Webflow into Webstudio",
+      "https://webstudio.is/copy-paste"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-08-11, 17:42:05",
+      "https://news.ycombinator.com/item?id=41217903"
+    ],
+    [
+      "Another variable-length integer encoding (2021)",
+      "https://dcreager.net/2021/03/a-better-varint/"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 17:23:17",
       "https://news.ycombinator.com/item?id=41217758"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=41215679"
     ],
     [
-      "Things I've learned building a modern TUI Framework",
+      "Things I've learned building a modern TUI Framework (2022)",
       "https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Firefox Browser Ported to HaikuOS",
       "https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 02:55:20",
-      "https://news.ycombinator.com/item?id=41213711"
-    ],
-    [
-      "Show HN: Rust GUI Library via Flutter",
-      "https://cjycode.com/posts/rust-ui-flutter/"
     ]
   ],
   [
