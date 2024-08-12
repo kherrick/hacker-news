@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
 * [2024-08-12, 17:19:38](https://news.ycombinator.com/item?id=41226947) - [Racetrack Memory May Arrive in 5-7 Years (2010)](https://www.computerworld.com/article/1432071/racetrack-memory-computer-memory-that-s-100-000-times-faster-than-today-s-may-arrive-in-5-7-ye.html)
+* [2024-08-12, 17:08:12](https://news.ycombinator.com/item?id=41226802) - [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
+* [2024-08-12, 17:04:46](https://news.ycombinator.com/item?id=41226754) - [Tim Sweeney: \" Now Apple is demanding a 30% cut of all Patreon DONATIONS](https://twitter.com/TimSweeneyEpic/status/1823027135784558842)
 * [2024-08-12, 17:01:11](https://news.ycombinator.com/item?id=41226700) - [ProhostAI (YC S24) Is Hiring](https://www.ycombinator.com/companies/prohostai/jobs/E50Yl4C-founding-engineer)
 * [2024-08-12, 16:15:41](https://news.ycombinator.com/item?id=41226147) - [Apple to take 30% of all Patreon donations](https://twitter.com/KenneyNL/status/1822996361551184290)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
 * [2024-08-12, 15:54:40](https://news.ycombinator.com/item?id=41225871) - [NASA is about to make its most important safety decision in nearly a generation](https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/)
+* [2024-08-12, 15:49:20](https://news.ycombinator.com/item?id=41225816) - [How Bank of America Ignores Its Own Rules to Prevent Dangerous Workloads](https://www.wsj.com/finance/banking/bank-of-america-worker-death-policies-89eff5f6)
 * [2024-08-12, 15:47:14](https://news.ycombinator.com/item?id=41225795) - [Apple's requirements are about to hit creators and fans on Patreon](https://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon)
 * [2024-08-12, 15:38:42](https://news.ycombinator.com/item?id=41225678) - [Cancer Rates Are Rising in Young People](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/)
 * [2024-08-12, 15:24:28](https://news.ycombinator.com/item?id=41225503) - [New data shows violent crime dropping sharply in major U.S. cities](https://www.axios.com/2024/08/12/violent-crime-harris-trump-election)
