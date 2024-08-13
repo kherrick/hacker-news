@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-08-13, 03:34:33",
+      "https://news.ycombinator.com/item?id=41231964"
+    ],
+    [
+      "Haiku Activity and Contract Report, July 2024",
+      "https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 02:53:59",
       "https://news.ycombinator.com/item?id=41231731"
     ],
@@ -77,16 +87,6 @@
     [
       "Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig",
       "https://github.com/judofyr/spice"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 21:08:15",
-      "https://news.ycombinator.com/item?id=41229328"
-    ],
-    [
-      "Distributed == Relational",
-      "https://frest.substack.com/p/distributed-relational"
     ]
   ],
   [
