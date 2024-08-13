@@ -26,9 +26,9 @@
 * [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in complex dynamical systems](https://www.nature.com/articles/s44260-024-00014-y)
 * [2024-08-10, 14:48:13](https://news.ycombinator.com/item?id=41209900) - [Open source laser microphone picks up laptop keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)
 * [2024-08-09, 23:15:19](https://news.ycombinator.com/item?id=41206168) - [Room inspections at Resorts World confuse, annoy DEF CON attendees](https://www.reviewjournal.com/business/tourism/invasion-of-privacy-hotel-room-inspections-confuse-hacker-convention-attendees-3121350/)
+* [2024-08-09, 15:33:20](https://news.ycombinator.com/item?id=41202841) - [Upsetting Magazine #77 (2023)](https://www.markdomowicz.com/all/2023_10_16_upsetting_magazine_77/article/upsettingmagazine77/)
 * [2024-08-08, 21:37:28](https://news.ycombinator.com/item?id=41196582) - [Robert Elder's Guide to GNU Coreutils](https://blog.robertelder.org/gnu-coreutils-package-guide/)
 * [2024-08-08, 20:22:52](https://news.ycombinator.com/item?id=41195805) - [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
-* [2024-08-08, 19:21:18](https://news.ycombinator.com/item?id=41195211) - [F21 in a Mouse](https://www.ultratechnology.com/scope)
 * [2024-08-08, 13:16:50](https://news.ycombinator.com/item?id=41191175) - [Video with Alpha Transparency on the Web](https://jakearchibald.com/2024/video-with-transparency/)
 
 ## [Archives](archives/index.md)

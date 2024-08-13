@@ -38,6 +38,7 @@
 * [2024-08-09, 16:28:43](https://news.ycombinator.com/item?id=41203307) - [LangGraph Engineer](https://github.com/hwchase17/langgraph-engineer)
 * [2024-08-09, 16:28:39](https://news.ycombinator.com/item?id=41203306) - [Show HN: LLM Aided OCR (Correcting Tesseract OCR Errors with LLMs)](https://github.com/Dicklesworthstone/llm_aided_ocr)
 * [2024-08-09, 16:24:28](https://news.ycombinator.com/item?id=41203269) - [Nissin Our Founder (Instant Ramen Noodle)](https://www.nissin.com/en_jp/about/founder/)
+* [2024-08-09, 15:33:20](https://news.ycombinator.com/item?id=41202841) - [Upsetting Magazine #77 (2023)](https://www.markdomowicz.com/all/2023_10_16_upsetting_magazine_77/article/upsettingmagazine77/)
 * [2024-08-09, 15:27:00](https://news.ycombinator.com/item?id=41202788) - [Robocars improve traffic even when most cars around them are driven by people](https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546)
 * [2024-08-09, 15:17:06](https://news.ycombinator.com/item?id=41202694) - [Launch HN: Roe.ai (YC W24) – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 * [2024-08-09, 14:38:45](https://news.ycombinator.com/item?id=41202300) - [Why do big digital projects in the public sector fail?](https://www.newstatesman.com/spotlight/tech-regulation/public-sector-tech/2024/07/public-sector-digital-transformation-projects-government-nhs-horizon)
