@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 22:01:22](https://news.ycombinator.com/item?id=41240300) - [US Air Force avoids PFAS water cleanup, citing Supreme Court's Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
 * [2024-08-13, 21:52:47](https://news.ycombinator.com/item?id=41240240) - [Ozempic is changing people's skin, say plastic surgeons](https://www.allure.com/story/ozempics-effects-on-skin)
 * [2024-08-13, 21:12:32](https://news.ycombinator.com/item?id=41239913) - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 * [2024-08-13, 21:00:34](https://news.ycombinator.com/item?id=41239805) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
+* [2024-08-13, 20:47:13](https://news.ycombinator.com/item?id=41239670) - [Show HN: I built a tool to try artworks on your own wall](https://wallartlovers.com)
 * [2024-08-13, 19:55:19](https://news.ycombinator.com/item?id=41239096) - [Self-driving Waymo cars keep SF residents awake all night by honking](https://arstechnica.com/information-technology/2024/08/self-driving-waymo-cars-keep-sf-residents-awake-all-night-by-honking-at-each-other/)
 * [2024-08-13, 19:14:29](https://news.ycombinator.com/item?id=41238632) - [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
