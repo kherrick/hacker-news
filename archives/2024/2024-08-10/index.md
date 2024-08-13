@@ -30,6 +30,7 @@
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
 * [2024-08-10, 17:36:57](https://news.ycombinator.com/item?id=41210994) - [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)
 * [2024-08-10, 17:02:51](https://news.ycombinator.com/item?id=41210760) - [The spinning ATR plane crash in Brazil](https://philip.greenspun.com/blog/2024/08/10/the-spinning-atr-crash-in-brazil/)
+* [2024-08-10, 17:00:17](https://news.ycombinator.com/item?id=41210745) - [What to know about real robots deployed in the real world](https://spectrum.ieee.org/rodney-brooks-three-laws-robotics)
 * [2024-08-10, 17:00:01](https://news.ycombinator.com/item?id=41210742) - [OneText (YC W23) is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
 * [2024-08-10, 16:52:49](https://news.ycombinator.com/item?id=41210700) - [Show HN: I created quick and simple file converter and resizer – Converay](https://www.converay.com/)
 * [2024-08-10, 16:46:43](https://news.ycombinator.com/item?id=41210668) - [Inside Apple Arcade](https://mjtsai.com/blog/2024/08/07/inside-apple-arcade/)
