@@ -9,6 +9,7 @@
 * [2024-08-12, 22:23:40](https://news.ycombinator.com/item?id=41230039) - [Why brutalist buildings should stay, even if people think they're ugly](https://text.npr.org/g-s1-6417)
 * [2024-08-12, 21:36:56](https://news.ycombinator.com/item?id=41229600) - [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
 * [2024-08-12, 21:36:00](https://news.ycombinator.com/item?id=41229597) - [Piecing Together an Ancient Epic Was Slow Work. Until A.I. Got Involved](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
+* [2024-08-12, 21:33:25](https://news.ycombinator.com/item?id=41229573) - [Pedants (1999)](https://douglasadams.com/dna/pedants.html)
 * [2024-08-12, 21:08:15](https://news.ycombinator.com/item?id=41229328) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 * [2024-08-12, 21:07:10](https://news.ycombinator.com/item?id=41229320) - [Ask HN: What's Your Experience with eSIMs?](https://news.ycombinator.com/item?id=41229320)
 * [2024-08-12, 20:54:56](https://news.ycombinator.com/item?id=41229221) - [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 15:14:54](https://news.ycombinator.com/item?id=41236275) - [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
 * [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
 * [2024-08-13, 14:19:21](https://news.ycombinator.com/item?id=41235733) - [Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search](https://news.ycombinator.com/item?id=41235733)
+* [2024-08-13, 14:12:54](https://news.ycombinator.com/item?id=41235677) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
 * [2024-08-13, 14:06:49](https://news.ycombinator.com/item?id=41235619) - [With Shared Software, Landlords Are Teaming Up to Raise Rents](https://jacobin.com/2024/08/realpage-software-housing-landlords/)
 * [2024-08-13, 14:06:22](https://news.ycombinator.com/item?id=41235614) - [Saudi Arabia to Host Sixth Halo Space Test Flight in September](https://techmgzn.com/saudi-arabia-to-host-sixth-halo-space-test-flight-in-september/)
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
