@@ -25,10 +25,10 @@
 * [2024-08-12, 18:31:45](https://news.ycombinator.com/item?id=41227772) - [Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain (2022)](https://comment.org/repair-and-remain/)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
-* [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [David Beckham beach kick video debunked [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
-* [2024-08-10, 20:42:03](https://news.ycombinator.com/item?id=41212072) - [Someone's been messing with Python's floating point subnormals](https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html)
-* [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in complex dynamical systems](https://www.nature.com/articles/s44260-024-00014-y)
+* [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
+* [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [Captain Disillusion debunks David Beckham beach kicks [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 17:00:17](https://news.ycombinator.com/item?id=41210745) - [Rodney Brooks’s Three Laws of Robotics](https://spectrum.ieee.org/rodney-brooks-three-laws-robotics)
+* [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
 * [2024-08-10, 07:05:33](https://news.ycombinator.com/item?id=41207838) - [Visualizing Complex Functions](https://vankessel.io/visualizing-complex-functions)
 
 ## [Archives](archives/index.md)

@@ -64,6 +64,7 @@
 * [2024-08-10, 08:36:44](https://news.ycombinator.com/item?id=41208148) - [Pursuits That Can't Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
 * [2024-08-10, 08:36:28](https://news.ycombinator.com/item?id=41208147) - [Cancer Incidence by Country](https://ourworldindata.org/grapher/cancer-incidence)
 * [2024-08-10, 07:51:35](https://news.ycombinator.com/item?id=41208005) - [Former YouTube CEO Susan Wojcicki dies at 56 of lung cancer](https://www.reuters.com/business/former-youtube-ceo-susan-wojcicki-has-died-google-ceo-says-2024-08-10/)
+* [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
 * [2024-08-10, 07:05:33](https://news.ycombinator.com/item?id=41207838) - [Visualizing Complex Functions](https://vankessel.io/visualizing-complex-functions)
 * [2024-08-10, 06:51:39](https://news.ycombinator.com/item?id=41207793) - [Linearizability: A correctness condition for concurrent objects](http://muratbuffalo.blogspot.com/2024/08/linearizability-correctness-condition.html)
 * [2024-08-10, 05:48:43](https://news.ycombinator.com/item?id=41207608) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/index.html)
