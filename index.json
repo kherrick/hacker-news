@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-13, 17:08:20",
-      "https://news.ycombinator.com/item?id=41237275"
-    ],
-    [
-      "Google Pixel 9 Pro",
-      "https://store.google.com/us/product/pixel_9_pro?hl=en-US"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 17:00:31",
       "https://news.ycombinator.com/item?id=41237200"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-08-12, 18:52:59",
+      "https://news.ycombinator.com/item?id=41227987"
+    ],
+    [
+      "SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level",
+      "https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 18:31:45",
       "https://news.ycombinator.com/item?id=41227772"
     ],
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2024-08-12, 16:06:42",
-      "https://news.ycombinator.com/item?id=41226039"
+      "2024-08-12, 17:39:45",
+      "https://news.ycombinator.com/item?id=41227172"
     ],
     [
-      "Repair and Remain (2022)",
-      "https://comment.org/repair-and-remain/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 13:37:42",
-      "https://news.ycombinator.com/item?id=41224225"
-    ],
-    [
-      "There Is No Antimemetics Division (2018)",
-      "https://qntm.org/scp"
+      "Why we picked AGPL",
+      "https://blog.paradedb.com/pages/agpl"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Visualizing Complex Functions",
       "https://vankessel.io/visualizing-complex-functions"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 23:57:50",
+      "https://news.ycombinator.com/item?id=41197629"
+    ],
+    [
+      "Show HN: SpecOS – A 64 bit OS kernel from scratch",
+      "https://github.com/jakeSteinburger/SpecOS"
     ]
   ]
 ]
