@@ -21,6 +21,7 @@
 * [2024-08-12, 18:59:47](https://news.ycombinator.com/item?id=41228069) - [Working from home allowed him to be a more engaged dad. Now it's over](https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order)
 * [2024-08-12, 18:55:37](https://news.ycombinator.com/item?id=41228022) - [Stop Relying on IF NOT EXISTS for Concurrent Index Creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
 * [2024-08-12, 18:33:38](https://news.ycombinator.com/item?id=41227792) - [San Francisco seeks ban of software critics say is used to inflate rents](https://www.latimes.com/california/story/2024-08-01/san-francisco-seeks-ban-of-software-critics-say-is-used-to-artificially-inflate-rents)
+* [2024-08-12, 18:31:45](https://news.ycombinator.com/item?id=41227772) - [Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
 * [2024-08-12, 18:07:12](https://news.ycombinator.com/item?id=41227515) - [Ask HN: What are some \"toy\" projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://www.synnaxlabs.com/)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://news.ycombinator.com/item?id=41227369)
@@ -88,3 +89,4 @@
 * [2024-08-12, 01:09:26](https://news.ycombinator.com/item?id=41220393) - [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
 * [2024-08-12, 00:43:22](https://news.ycombinator.com/item?id=41220284) - [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
 * [2024-08-12, 00:31:52](https://news.ycombinator.com/item?id=41220233) - [AMD's processors have been shipping with a dangerous security bug](https://www.interest.co.nz/technology/129141/researchers-suggest-throw-away-your-computer-if-sinkclose-flaw-amd-processors)
+* [2024-08-12, 00:08:09](https://news.ycombinator.com/item?id=41220143) - [Comparing HTTP/3 vs. HTTP/2 Performance](https://blog.cloudflare.com/http-3-vs-http-2)
