@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
 * [2024-08-13, 15:14:54](https://news.ycombinator.com/item?id=41236275) - [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
+* [2024-08-13, 15:14:47](https://news.ycombinator.com/item?id=41236273) - [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
 * [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
 * [2024-08-13, 14:19:21](https://news.ycombinator.com/item?id=41235733) - [Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search](https://news.ycombinator.com/item?id=41235733)
 * [2024-08-13, 14:12:54](https://news.ycombinator.com/item?id=41235677) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
@@ -12,6 +13,7 @@
 * [2024-08-13, 14:06:22](https://news.ycombinator.com/item?id=41235614) - [Saudi Arabia to Host Sixth Halo Space Test Flight in September](https://techmgzn.com/saudi-arabia-to-host-sixth-halo-space-test-flight-in-september/)
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
 * [2024-08-13, 13:36:08](https://news.ycombinator.com/item?id=41235318) - [Alcohol Consumption Patterns and Mortality Among Older Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822215)
+* [2024-08-13, 13:29:27](https://news.ycombinator.com/item?id=41235259) - [Show HN: Stipple Effect – a scriptable pixel art editor to make game art faster](https://github.com/jbunke/stipple-effect)
 * [2024-08-13, 13:04:58](https://news.ycombinator.com/item?id=41235072) - [HTTP/1.0 from Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 13:00:42](https://news.ycombinator.com/item?id=41235038) - [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope Further Deepens the Biggest Controversy in Cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
