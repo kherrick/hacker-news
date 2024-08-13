@@ -63,6 +63,7 @@
 * [2024-08-08, 13:44:02](https://news.ycombinator.com/item?id=41191426) - [After private equity takes over hospitals, they are less adept of providing care](https://www.nbcnews.com/investigations/private-equity-takes-over-hospitals-less-able-care-patients-jama-rcna164497)
 * [2024-08-08, 13:39:38](https://news.ycombinator.com/item?id=41191369) - [What is the ideal chapter length? (2023)](https://www.penguin.co.uk/articles/2023/03/what-is-the-ideal-chapter-length)
 * [2024-08-08, 13:29:03](https://news.ycombinator.com/item?id=41191263) - [Collaborating with Markdown files is painful](https://opral.substack.com/p/collaborative-markdown-with-lix-change)
+* [2024-08-08, 13:16:50](https://news.ycombinator.com/item?id=41191175) - [Video with Alpha Transparency on the Web](https://jakearchibald.com/2024/video-with-transparency/)
 * [2024-08-08, 13:14:07](https://news.ycombinator.com/item?id=41191149) - [Instagram Saved 90% of Computing Power and Improved Video Quality](https://newsletter.betterstack.com/p/how-instagram-saved-90-of-computing)
 * [2024-08-08, 13:11:21](https://news.ycombinator.com/item?id=41191125) - [Row Embedded Cache: Experimenting with a new pattern of caching](https://zarar.dev/row-embedded-cache/)
 * [2024-08-08, 13:03:22](https://news.ycombinator.com/item?id=41191069) - [Introducing the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)

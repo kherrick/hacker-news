@@ -29,7 +29,7 @@
 * [2024-08-08, 21:37:28](https://news.ycombinator.com/item?id=41196582) - [Robert Elder's Guide to GNU Coreutils](https://blog.robertelder.org/gnu-coreutils-package-guide/)
 * [2024-08-08, 20:22:52](https://news.ycombinator.com/item?id=41195805) - [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
 * [2024-08-08, 19:51:53](https://news.ycombinator.com/item?id=41195492) - [Making earthly paradise: The art and crafts of William Morris](https://www.the-tls.co.uk/literature-by-region/british-literature/william-morris-ingrid-hanson-marcus-waithe/)
-* [2024-08-07, 16:24:12](https://news.ycombinator.com/item?id=41182895) - [Poetry was an official Olympic event](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
+* [2024-08-08, 13:16:50](https://news.ycombinator.com/item?id=41191175) - [Video with Alpha Transparency on the Web](https://jakearchibald.com/2024/video-with-transparency/)
 
 ## [Archives](archives/index.md)
 
