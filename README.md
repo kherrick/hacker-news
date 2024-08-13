@@ -16,7 +16,6 @@
 * [2024-08-13, 12:41:07](https://news.ycombinator.com/item?id=41234877) - [Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-13, 12:05:22](https://news.ycombinator.com/item?id=41234636) - [Emacs: Contextual Interfaces in Casual Calc](http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html)
-* [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-12, 22:22:51](https://news.ycombinator.com/item?id=41230033) - [The Record: Music before mass production (2018)](https://www.historytoday.com/miscellanies/record-music-mass-production)
 * [2024-08-12, 19:21:47](https://news.ycombinator.com/item?id=41228278) - [National Instruments acquired by Emerson](https://www.ni.com/en/perspectives/letter-to-customers.html)
 * [2024-08-12, 18:52:59](https://news.ycombinator.com/item?id=41227987) - [SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level](https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/)
@@ -29,6 +28,7 @@
 * [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [Captain Disillusion debunks David Beckham beach kicks [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
 * [2024-08-09, 14:24:19](https://news.ycombinator.com/item?id=41202134) - [Of mice and men and Magdalen: C. S. Lewis’s Oxford](https://thecritic.co.uk/issues/july-2024/of-mice-and-men-and-magdalen/)
+* [2024-08-09, 06:40:29](https://news.ycombinator.com/item?id=41199320) - [Using Lego bricks to model DNA replication (2015)](https://www.scienceandmathwithmrslau.com/2015/01/using-lego-bricks-model-dna-replication/)
 * [2024-08-09, 05:47:11](https://news.ycombinator.com/item?id=41199092) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 
 ## [Archives](archives/index.md)
