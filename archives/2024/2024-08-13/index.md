@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
 * [2024-08-13, 07:00:54](https://news.ycombinator.com/item?id=41233012) - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
+* [2024-08-13, 06:52:25](https://news.ycombinator.com/item?id=41232974) - [Pokémon series voice star Rachael Lillis dies at 46](https://www.bbc.com/news/articles/c4ge9zdve9no)
 * [2024-08-13, 05:43:49](https://news.ycombinator.com/item?id=41232621) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 * [2024-08-13, 05:10:14](https://news.ycombinator.com/item?id=41232446) - [Leaked Secrets and Unlimited Miles: Hacking Airline and Hotel Rewards Platform](https://samcurry.net/points-com)
 * [2024-08-13, 04:30:15](https://news.ycombinator.com/item?id=41232259) - [The Goths](https://www.the-hinternet.com/p/the-goths)
