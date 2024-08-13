@@ -17,7 +17,7 @@
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-13, 12:05:22](https://news.ycombinator.com/item?id=41234636) - [Emacs: Contextual Interfaces in Casual Calc](http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html)
 * [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
-* [2024-08-12, 22:22:51](https://news.ycombinator.com/item?id=41230033) - [The Record: Music before mass production](https://www.historytoday.com/miscellanies/record-music-mass-production)
+* [2024-08-12, 22:22:51](https://news.ycombinator.com/item?id=41230033) - [The Record: Music before mass production (2018)](https://www.historytoday.com/miscellanies/record-music-mass-production)
 * [2024-08-12, 19:21:47](https://news.ycombinator.com/item?id=41228278) - [National Instruments acquired by Emerson](https://www.ni.com/en/perspectives/letter-to-customers.html)
 * [2024-08-12, 18:52:59](https://news.ycombinator.com/item?id=41227987) - [SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level](https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/)
 * [2024-08-12, 18:31:45](https://news.ycombinator.com/item?id=41227772) - [Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
