@@ -10,6 +10,7 @@
 * [2024-08-10, 22:42:54](https://news.ycombinator.com/item?id=41212773) - [Golang Sync Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
 * [2024-08-10, 22:11:24](https://news.ycombinator.com/item?id=41212616) - [Algorithmic price-fixing of rents is here](https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/)
 * [2024-08-10, 21:30:46](https://news.ycombinator.com/item?id=41212364) - [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
+* [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [David Beckham beach kick video debunked [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 21:18:51](https://news.ycombinator.com/item?id=41212271) - [AMD's Strix Point: Zen 5 Hits Mobile](https://chipsandcheese.com/2024/08/10/amds-strix-point-zen-5-hits-mobile/)
 * [2024-08-10, 21:03:04](https://news.ycombinator.com/item?id=41212193) - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
 * [2024-08-10, 20:46:27](https://news.ycombinator.com/item?id=41212103) - [Genetics solves a thorny problem: how plants have prickles](https://cosmosmagazine.com/nature/plants/thorns-prickles-roses-plants/)
