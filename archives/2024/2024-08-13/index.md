@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 21:52:47](https://news.ycombinator.com/item?id=41240240) - [Ozempic is changing people's skin, say plastic surgeons](https://www.allure.com/story/ozempics-effects-on-skin)
+* [2024-08-13, 21:12:32](https://news.ycombinator.com/item?id=41239913) - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 * [2024-08-13, 21:00:34](https://news.ycombinator.com/item?id=41239805) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
 * [2024-08-13, 19:55:19](https://news.ycombinator.com/item?id=41239096) - [Self-driving Waymo cars keep SF residents awake all night by honking](https://arstechnica.com/information-technology/2024/08/self-driving-waymo-cars-keep-sf-residents-awake-all-night-by-honking-at-each-other/)
