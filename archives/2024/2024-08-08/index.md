@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 23:57:50](https://news.ycombinator.com/item?id=41197629) - [Show HN: SpecOS – A 64 bit OS kernel from scratch](https://github.com/jakeSteinburger/SpecOS)
 * [2024-08-08, 23:35:16](https://news.ycombinator.com/item?id=41197514) - [IRC Will Never Die](https://hackaday.com/2021/05/22/irc-will-never-die/)
 * [2024-08-08, 23:00:21](https://news.ycombinator.com/item?id=41197300) - [USPS text scammers duped his wife, so he hacked their operation](https://blog.smithsecurity.biz/hacking-the-scammers)
 * [2024-08-08, 23:00:21](https://news.ycombinator.com/item?id=41197300) - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)

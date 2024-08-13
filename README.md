@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
 * [2024-08-13, 17:00:31](https://news.ycombinator.com/item?id=41237200) - [Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer](https://news.ycombinator.com/item?id=41237200)
 * [2024-08-13, 16:05:33](https://news.ycombinator.com/item?id=41236745) - [Tell HN: Google OAuth consent screen issue could be costing you signups](https://news.ycombinator.com/item?id=41236745)
 * [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
@@ -22,14 +21,15 @@
 * [2024-08-13, 05:10:14](https://news.ycombinator.com/item?id=41232446) - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
 * [2024-08-13, 01:03:12](https://news.ycombinator.com/item?id=41231141) - [0xCAFEBABE & 0xFEEDFACE (2003)](http://radio-weblogs.com/0100490/2003/01/28.html)
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
+* [2024-08-12, 18:52:59](https://news.ycombinator.com/item?id=41227987) - [SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level](https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/)
 * [2024-08-12, 18:31:45](https://news.ycombinator.com/item?id=41227772) - [Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
-* [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain (2022)](https://comment.org/repair-and-remain/)
-* [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
+* [2024-08-12, 17:39:45](https://news.ycombinator.com/item?id=41227172) - [Why we picked AGPL](https://blog.paradedb.com/pages/agpl)
 * [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
 * [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [Captain Disillusion debunks David Beckham beach kicks [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 17:00:17](https://news.ycombinator.com/item?id=41210745) - [Rodney Brooks’s Three Laws of Robotics](https://spectrum.ieee.org/rodney-brooks-three-laws-robotics)
 * [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
 * [2024-08-10, 07:05:33](https://news.ycombinator.com/item?id=41207838) - [Visualizing Complex Functions](https://vankessel.io/visualizing-complex-functions)
+* [2024-08-08, 23:57:50](https://news.ycombinator.com/item?id=41197629) - [Show HN: SpecOS – A 64 bit OS kernel from scratch](https://github.com/jakeSteinburger/SpecOS)
 
 ## [Archives](archives/index.md)
 
