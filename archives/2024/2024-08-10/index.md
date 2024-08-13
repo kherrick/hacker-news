@@ -9,6 +9,7 @@
 * [2024-08-10, 23:10:49](https://news.ycombinator.com/item?id=41212899) - [Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
 * [2024-08-10, 22:42:54](https://news.ycombinator.com/item?id=41212773) - [Golang Sync Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
 * [2024-08-10, 22:11:24](https://news.ycombinator.com/item?id=41212616) - [Algorithmic price-fixing of rents is here](https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/)
+* [2024-08-10, 22:01:49](https://news.ycombinator.com/item?id=41212566) - [How the Totem Compass Works](https://www.totemlabs.com/post/how-the-totem-compass-works)
 * [2024-08-10, 21:30:46](https://news.ycombinator.com/item?id=41212364) - [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
 * [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [David Beckham beach kick video debunked [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 21:18:51](https://news.ycombinator.com/item?id=41212271) - [AMD's Strix Point: Zen 5 Hits Mobile](https://chipsandcheese.com/2024/08/10/amds-strix-point-zen-5-hits-mobile/)

@@ -67,6 +67,7 @@
 * [2024-08-09, 07:20:57](https://news.ycombinator.com/item?id=41199515) - [If you give Copilot the reins, don't be surprised when it spills your secrets](https://www.theregister.com/2024/08/08/copilot_black_hat_vulns/)
 * [2024-08-09, 07:13:59](https://news.ycombinator.com/item?id=41199474) - [Japan Issues First Ever Mega Earthquake Warning](https://www.nbcnews.com/news/world/japan-earthquake-tsunami-advisory-rcna165728)
 * [2024-08-09, 06:49:08](https://news.ycombinator.com/item?id=41199363) - [A powerful tool for converting speech into text](https://app.trintai.com/)
+* [2024-08-09, 06:40:29](https://news.ycombinator.com/item?id=41199320) - [Using Lego bricks to model DNA replication (2015)](https://www.scienceandmathwithmrslau.com/2015/01/using-lego-bricks-model-dna-replication/)
 * [2024-08-09, 05:50:58](https://news.ycombinator.com/item?id=41199109) - [I built a second brain tool for college students](https://ainotebook.app/)
 * [2024-08-09, 05:47:11](https://news.ycombinator.com/item?id=41199092) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 * [2024-08-09, 05:27:54](https://news.ycombinator.com/item?id=41199006) - [AI Pastor: Your Guide to Spiritual Growth](https://ai-pastor.com)
