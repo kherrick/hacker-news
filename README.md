@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 12:36:10](https://news.ycombinator.com/item?id=41234849) - [You can kick the alpha tires on System76's Cosmic, a new Linux desktop](https://arstechnica.com/gadgets/2024/08/you-can-kick-the-alpha-tires-on-system76s-cosmic-a-new-linux-desktop/)
+* [2024-08-13, 12:24:08](https://news.ycombinator.com/item?id=41234767) - [Psssst! Your date of birth can be a random number!](https://shkspr.mobi/blog/2024/08/psssst-your-date-of-birth-can-be-a-random-number/)
 * [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-13, 07:00:54](https://news.ycombinator.com/item?id=41233012) - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
 * [2024-08-13, 05:43:49](https://news.ycombinator.com/item?id=41232621) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
@@ -12,7 +14,6 @@
 * [2024-08-12, 20:38:27](https://news.ycombinator.com/item?id=41229049) - [NASA investigation finds Boeing hindering Americans' return to moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
 * [2024-08-12, 19:57:57](https://news.ycombinator.com/item?id=41228630) - [Federal appeals court finds geofence warrants \"categorically\" unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
 * [2024-08-12, 19:04:16](https://news.ycombinator.com/item?id=41228113) - [Damn Vulnerable UEFI](https://github.com/hacking-support/DVUEFI)
-* [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified hardware control and sensor data streaming](https://news.ycombinator.com/item?id=41227369)
 * [2024-08-12, 17:53:36](https://news.ycombinator.com/item?id=41227350) - [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
 * [2024-08-12, 17:08:12](https://news.ycombinator.com/item?id=41226802) - [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain (2022)](https://comment.org/repair-and-remain/)
@@ -22,7 +23,6 @@
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 12:59:34](https://news.ycombinator.com/item?id=41223902) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
 * [2024-08-11, 12:11:22](https://news.ycombinator.com/item?id=41215626) - [A camera that shoots 40k FPS decided the 100-meter sprint final](https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/)
-* [2024-08-10, 20:15:16](https://news.ycombinator.com/item?id=41211889) - [Architectural Retrospectives: The Key to Getting Better at Architecting](https://www.infoq.com/articles/architectural-retrospectives/)
 * [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in complex dynamical systems](https://www.nature.com/articles/s44260-024-00014-y)
 * [2024-08-10, 17:00:17](https://news.ycombinator.com/item?id=41210745) - [What to know about real robots deployed in the real world](https://spectrum.ieee.org/rodney-brooks-three-laws-robotics)
 * [2024-08-10, 14:48:13](https://news.ycombinator.com/item?id=41209900) - [Open source laser microphone picks up laptop keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)

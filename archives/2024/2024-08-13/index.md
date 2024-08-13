@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 12:36:10](https://news.ycombinator.com/item?id=41234849) - [You can kick the alpha tires on System76's Cosmic, a new Linux desktop](https://arstechnica.com/gadgets/2024/08/you-can-kick-the-alpha-tires-on-system76s-cosmic-a-new-linux-desktop/)
+* [2024-08-13, 12:24:08](https://news.ycombinator.com/item?id=41234767) - [Psssst! Your date of birth can be a random number!](https://shkspr.mobi/blog/2024/08/psssst-your-date-of-birth-can-be-a-random-number/)
 * [2024-08-13, 10:48:37](https://news.ycombinator.com/item?id=41234180) - [Core Python developer suspended for three months](https://www.theregister.com/2024/08/09/core_python_developer_suspended_coc/)
 * [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-13, 09:17:19](https://news.ycombinator.com/item?id=41233722) - [Go Algorithms and Data Structures: Best Practices for Beginners](https://github.com/TheAlgorithms/Go)
