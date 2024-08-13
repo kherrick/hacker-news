@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 03:34:33](https://news.ycombinator.com/item?id=41231964) - [Haiku Activity and Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
 * [2024-08-13, 02:55:15](https://news.ycombinator.com/item?id=41231735) - [Gitlab is reportedly up for sale](https://www.developer-tech.com/news/gitlab-is-reportedly-up-for-sale/)
 * [2024-08-13, 02:53:59](https://news.ycombinator.com/item?id=41231731) - [Brands should avoid the term 'AI'. It's turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
 * [2024-08-13, 02:10:58](https://news.ycombinator.com/item?id=41231490) - [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
@@ -28,7 +29,6 @@
 * [2024-08-09, 23:15:19](https://news.ycombinator.com/item?id=41206168) - [Room inspections at Resorts World confuse, annoy DEF CON attendees](https://www.reviewjournal.com/business/tourism/invasion-of-privacy-hotel-room-inspections-confuse-hacker-convention-attendees-3121350/)
 * [2024-08-08, 21:37:28](https://news.ycombinator.com/item?id=41196582) - [Robert Elder's Guide to GNU Coreutils](https://blog.robertelder.org/gnu-coreutils-package-guide/)
 * [2024-08-08, 20:22:52](https://news.ycombinator.com/item?id=41195805) - [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
-* [2024-08-08, 19:51:53](https://news.ycombinator.com/item?id=41195492) - [Making earthly paradise: The art and crafts of William Morris](https://www.the-tls.co.uk/literature-by-region/british-literature/william-morris-ingrid-hanson-marcus-waithe/)
 * [2024-08-08, 13:16:50](https://news.ycombinator.com/item?id=41191175) - [Video with Alpha Transparency on the Web](https://jakearchibald.com/2024/video-with-transparency/)
 
 ## [Archives](archives/index.md)
