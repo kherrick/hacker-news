@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 02:55:15](https://news.ycombinator.com/item?id=41231735) - [Gitlab is reportedly up for sale](https://www.developer-tech.com/news/gitlab-is-reportedly-up-for-sale/)
 * [2024-08-13, 02:53:59](https://news.ycombinator.com/item?id=41231731) - [Brands should avoid the term 'AI'. It's turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
 * [2024-08-13, 02:10:58](https://news.ycombinator.com/item?id=41231490) - [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
 * [2024-08-13, 01:03:36](https://news.ycombinator.com/item?id=41231145) - [Mastering Osint: How to Find Information on Anyone](https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f)
@@ -20,7 +21,6 @@
 * [2024-08-12, 14:34:46](https://news.ycombinator.com/item?id=41224853) - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
 * [2024-08-12, 13:43:30](https://news.ycombinator.com/item?id=41224286) - [Postgres.new: In-browser Postgres with an AI interface](https://supabase.com/blog/postgres-new)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
-* [2024-08-12, 13:02:31](https://news.ycombinator.com/item?id=41223934) - [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 12:59:34](https://news.ycombinator.com/item?id=41223902) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
 * [2024-08-11, 12:11:22](https://news.ycombinator.com/item?id=41215626) - [A camera that shoots 40k FPS decided the 100-meter sprint final](https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/)
 * [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in Complex Dynamical Systems](https://www.nature.com/articles/s44260-024-00014-y)
