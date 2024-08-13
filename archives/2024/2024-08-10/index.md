@@ -25,6 +25,7 @@
 * [2024-08-10, 18:14:32](https://news.ycombinator.com/item?id=41211235) - [Apple. Apple Please](https://digipres.club/@misty/112927898002214724)
 * [2024-08-10, 18:10:53](https://news.ycombinator.com/item?id=41211215) - [Waymo got a ticket and there was confusion about who or what was being ticketed](https://twitter.com/antoniogm/status/1822141923538161776)
 * [2024-08-10, 17:58:59](https://news.ycombinator.com/item?id=41211147) - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
+* [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in Complex Dynamical Systems](https://www.nature.com/articles/s44260-024-00014-y)
 * [2024-08-10, 17:42:02](https://news.ycombinator.com/item?id=41211039) - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
 * [2024-08-10, 17:36:57](https://news.ycombinator.com/item?id=41210994) - [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)
 * [2024-08-10, 17:02:51](https://news.ycombinator.com/item?id=41210760) - [The spinning ATR plane crash in Brazil](https://philip.greenspun.com/blog/2024/08/10/the-spinning-atr-crash-in-brazil/)
