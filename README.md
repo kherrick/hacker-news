@@ -2,6 +2,7 @@
 
 * [2024-08-13, 21:00:34](https://news.ycombinator.com/item?id=41239805) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
+* [2024-08-13, 19:55:19](https://news.ycombinator.com/item?id=41239096) - [Self-driving Waymo cars keep SF residents awake all night by honking](https://arstechnica.com/information-technology/2024/08/self-driving-waymo-cars-keep-sf-residents-awake-all-night-by-honking-at-each-other/)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
 * [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
@@ -13,7 +14,6 @@
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [AudioFlux: A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
 * [2024-08-13, 13:29:27](https://news.ycombinator.com/item?id=41235259) - [Show HN: Stipple Effect – a scriptable pixel art editor to make game art faster](https://github.com/jbunke/stipple-effect)
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
-* [2024-08-13, 12:41:07](https://news.ycombinator.com/item?id=41234877) - [Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-13, 12:05:22](https://news.ycombinator.com/item?id=41234636) - [Emacs: Contextual Interfaces in Casual Calc](http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html)
 * [2024-08-12, 23:31:17](https://news.ycombinator.com/item?id=41230546) - [Wet-lab innovations will lead the AI revolution in biology](https://substack.com/@abhishaikemahajan/p-146580339)
