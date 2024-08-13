@@ -22,7 +22,7 @@
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 12:59:34](https://news.ycombinator.com/item?id=41223902) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
 * [2024-08-11, 12:11:22](https://news.ycombinator.com/item?id=41215626) - [A camera that shoots 40k FPS decided the 100-meter sprint final](https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/)
-* [2024-08-11, 04:03:12](https://news.ycombinator.com/item?id=41213902) - [The most cited authors in the Stanford Encyclopedia of Philosophy](https://schwitzsplinters.blogspot.com/2024/08/the-378-most-cited-contemporary-authors.html)
+* [2024-08-10, 20:42:03](https://news.ycombinator.com/item?id=41212072) - [Someone's been messing with Python's floating point subnormals](https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html)
 * [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in complex dynamical systems](https://www.nature.com/articles/s44260-024-00014-y)
 * [2024-08-10, 17:00:17](https://news.ycombinator.com/item?id=41210745) - [What to know about real robots deployed in the real world](https://spectrum.ieee.org/rodney-brooks-three-laws-robotics)
 * [2024-08-10, 14:48:13](https://news.ycombinator.com/item?id=41209900) - [Open source laser microphone picks up laptop keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)
