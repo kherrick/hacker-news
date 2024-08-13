@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 16:42:50](https://news.ycombinator.com/item?id=41237057) - [Tell HN: Steinberg shut down their eLicenser service, breaking older software](https://www.steinberg.net/licensing/elicenser-end-of-service/)
 * [2024-08-13, 16:05:33](https://news.ycombinator.com/item?id=41236745) - [Tell HN: Google OAuth consent screen issue could be costing you signups](https://news.ycombinator.com/item?id=41236745)
 * [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 * [2024-08-13, 15:14:54](https://news.ycombinator.com/item?id=41236275) - [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
@@ -27,7 +28,6 @@
 * [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in complex dynamical systems](https://www.nature.com/articles/s44260-024-00014-y)
 * [2024-08-10, 14:48:13](https://news.ycombinator.com/item?id=41209900) - [Open source laser microphone picks up laptop keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)
 * [2024-08-10, 07:05:33](https://news.ycombinator.com/item?id=41207838) - [Visualizing Complex Functions](https://vankessel.io/visualizing-complex-functions)
-* [2024-08-09, 15:33:20](https://news.ycombinator.com/item?id=41202841) - [Upsetting Magazine #77 (2023)](https://www.markdomowicz.com/all/2023_10_16_upsetting_magazine_77/article/upsettingmagazine77/)
 * [2024-08-09, 04:30:01](https://news.ycombinator.com/item?id=41198776) - [Raspberry Pi Pico 2 lands with RISC-V cores](https://www.theregister.com/2024/08/08/pi_pico_2_risc_v/)
 * [2024-08-08, 13:16:50](https://news.ycombinator.com/item?id=41191175) - [Video with Alpha Transparency on the Web](https://jakearchibald.com/2024/video-with-transparency/)
 
