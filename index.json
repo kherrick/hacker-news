@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-08-13, 09:33:28",
+      "https://news.ycombinator.com/item?id=41233811"
+    ],
+    [
+      "Serena: An experimental operating system for 32bit Amiga computers",
+      "https://github.com/dplanitzer/Serena"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 22:22:51",
       "https://news.ycombinator.com/item?id=41230033"
     ],
@@ -287,16 +297,6 @@
     [
       "Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server",
       "https://blog.orange.tw/2024/08/confusion-attacks-en.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 23:57:50",
-      "https://news.ycombinator.com/item?id=41197629"
-    ],
-    [
-      "Show HN: SpecOS – A 64 bit OS kernel from scratch",
-      "https://github.com/jakeSteinburger/SpecOS"
     ]
   ]
 ]
