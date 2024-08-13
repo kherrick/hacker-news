@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
-* [2024-08-13, 09:17:19](https://news.ycombinator.com/item?id=41233722) - [Go Algorithms and Data Structures: Best Practices for Beginners](https://github.com/TheAlgorithms/Go)
 * [2024-08-13, 07:00:54](https://news.ycombinator.com/item?id=41233012) - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
 * [2024-08-13, 05:43:49](https://news.ycombinator.com/item?id=41232621) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 * [2024-08-13, 05:10:14](https://news.ycombinator.com/item?id=41232446) - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
@@ -12,6 +11,8 @@
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
 * [2024-08-12, 20:38:27](https://news.ycombinator.com/item?id=41229049) - [NASA investigation finds Boeing hindering Americans' return to moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
 * [2024-08-12, 19:57:57](https://news.ycombinator.com/item?id=41228630) - [Federal appeals court finds geofence warrants \"categorically\" unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
+* [2024-08-12, 19:04:16](https://news.ycombinator.com/item?id=41228113) - [Damn Vulnerable UEFI](https://github.com/hacking-support/DVUEFI)
+* [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified hardware control and sensor data streaming](https://news.ycombinator.com/item?id=41227369)
 * [2024-08-12, 17:53:36](https://news.ycombinator.com/item?id=41227350) - [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
 * [2024-08-12, 17:08:12](https://news.ycombinator.com/item?id=41226802) - [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain (2022)](https://comment.org/repair-and-remain/)
@@ -25,9 +26,8 @@
 * [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in complex dynamical systems](https://www.nature.com/articles/s44260-024-00014-y)
 * [2024-08-10, 17:00:17](https://news.ycombinator.com/item?id=41210745) - [What to know about real robots deployed in the real world](https://spectrum.ieee.org/rodney-brooks-three-laws-robotics)
 * [2024-08-10, 14:48:13](https://news.ycombinator.com/item?id=41209900) - [Open source laser microphone picks up laptop keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)
-* [2024-08-09, 23:15:19](https://news.ycombinator.com/item?id=41206168) - [Room inspections at Resorts World confuse, annoy DEF CON attendees](https://www.reviewjournal.com/business/tourism/invasion-of-privacy-hotel-room-inspections-confuse-hacker-convention-attendees-3121350/)
+* [2024-08-10, 07:05:33](https://news.ycombinator.com/item?id=41207838) - [Visualizing Complex Functions](https://vankessel.io/visualizing-complex-functions)
 * [2024-08-09, 15:33:20](https://news.ycombinator.com/item?id=41202841) - [Upsetting Magazine #77 (2023)](https://www.markdomowicz.com/all/2023_10_16_upsetting_magazine_77/article/upsettingmagazine77/)
-* [2024-08-08, 21:37:28](https://news.ycombinator.com/item?id=41196582) - [Robert Elder's Guide to GNU Coreutils](https://blog.robertelder.org/gnu-coreutils-package-guide/)
 * [2024-08-08, 20:22:52](https://news.ycombinator.com/item?id=41195805) - [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
 * [2024-08-08, 13:16:50](https://news.ycombinator.com/item?id=41191175) - [Video with Alpha Transparency on the Web](https://jakearchibald.com/2024/video-with-transparency/)
 
