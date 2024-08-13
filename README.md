@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-13, 21:52:47](https://news.ycombinator.com/item?id=41240240) - [Ozempic is changing people's skin, say plastic surgeons](https://www.allure.com/story/ozempics-effects-on-skin)
 * [2024-08-13, 21:12:32](https://news.ycombinator.com/item?id=41239913) - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 * [2024-08-13, 21:00:34](https://news.ycombinator.com/item?id=41239805) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
@@ -19,6 +18,7 @@
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-13, 12:05:22](https://news.ycombinator.com/item?id=41234636) - [Emacs: Contextual Interfaces in Casual Calc](http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html)
 * [2024-08-12, 23:31:17](https://news.ycombinator.com/item?id=41230546) - [Wet-lab innovations will lead the AI revolution in biology](https://substack.com/@abhishaikemahajan/p-146580339)
+* [2024-08-12, 22:22:51](https://news.ycombinator.com/item?id=41230033) - [The Record: Music before mass production (2018)](https://www.historytoday.com/miscellanies/record-music-mass-production)
 * [2024-08-12, 19:21:47](https://news.ycombinator.com/item?id=41228278) - [National Instruments acquired by Emerson](https://www.ni.com/en/perspectives/letter-to-customers.html)
 * [2024-08-12, 18:52:59](https://news.ycombinator.com/item?id=41227987) - [SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level](https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/)
 * [2024-08-12, 17:40:09](https://news.ycombinator.com/item?id=41227179) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
