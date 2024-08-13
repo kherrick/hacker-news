@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 17:37:50](https://news.ycombinator.com/item?id=41237542) - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
 * [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
 * [2024-08-13, 17:00:31](https://news.ycombinator.com/item?id=41237200) - [Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer](https://news.ycombinator.com/item?id=41237200)
 * [2024-08-13, 16:42:50](https://news.ycombinator.com/item?id=41237057) - [Tell HN: Steinberg shut down their eLicenser service, breaking older software](https://www.steinberg.net/licensing/elicenser-end-of-service/)

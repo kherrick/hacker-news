@@ -33,6 +33,7 @@
 * [2024-08-12, 17:40:09](https://news.ycombinator.com/item?id=41227179) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-12, 17:39:45](https://news.ycombinator.com/item?id=41227172) - [Why we picked AGPL](https://blog.paradedb.com/pages/agpl)
 * [2024-08-12, 17:30:09](https://news.ycombinator.com/item?id=41227072) - [Britain to use \"AI\" to answer taxpayer's letters](https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/)
+* [2024-08-12, 17:24:40](https://news.ycombinator.com/item?id=41227011) - [Ancient calendar, recently discovered, may document a long-ago disaster](https://www.nytimes.com/2024/08/10/world/asia/worlds-oldest-calendar-gobekli-tepe.html)
 * [2024-08-12, 17:20:17](https://news.ycombinator.com/item?id=41226958) - [Takeaways from the Vision Pro After 6 Months](https://www.matthewball.co/all/applevision2024)
 * [2024-08-12, 17:19:38](https://news.ycombinator.com/item?id=41226947) - [Racetrack Memory May Arrive in 5-7 Years (2010)](https://www.computerworld.com/article/1432071/racetrack-memory-computer-memory-that-s-100-000-times-faster-than-today-s-may-arrive-in-5-7-ye.html)
 * [2024-08-12, 17:08:12](https://news.ycombinator.com/item?id=41226802) - [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
