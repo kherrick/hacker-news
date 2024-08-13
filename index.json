@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-13, 14:19:21",
+      "https://news.ycombinator.com/item?id=41235733"
+    ],
+    [
+      "Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search",
+      "https://news.ycombinator.com/item?id=41235733"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 14:06:49",
+      "https://news.ycombinator.com/item?id=41235619"
+    ],
+    [
+      "With Shared Software, Landlords Are Teaming Up to Raise Rents",
+      "https://jacobin.com/2024/08/realpage-software-housing-landlords/"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 13:51:27",
       "https://news.ycombinator.com/item?id=41235462"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2024-08-13, 11:30:52",
-      "https://news.ycombinator.com/item?id=41234382"
-    ],
-    [
-      "Rethinking the Nature of Light",
-      "https://chatgpt.com/share/9296f553-d36d-4c02-b73d-31b1058afe60"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 10:47:57",
       "https://news.ycombinator.com/item?id=41234174"
     ],
     [
       "Are We Living in the Age of Info-Determinism?",
       "https://www.newyorker.com/culture/open-questions/are-we-living-in-the-age-of-info-determinism"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 09:58:16",
-      "https://news.ycombinator.com/item?id=41233924"
-    ],
-    [
-      "Show HN:I build a website to generate infographics",
-      "https://graphicinfo.cc/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-08-12, 18:31:45",
+      "https://news.ycombinator.com/item?id=41227772"
+    ],
+    [
+      "Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth",
+      "https://github.com/callisto-lang/compiler"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 17:53:36",
       "https://news.ycombinator.com/item?id=41227350"
     ],
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2024-08-12, 14:34:46",
-      "https://news.ycombinator.com/item?id=41224853"
-    ],
-    [
-      "Apple's requirements are about to hit creators and fans on Patreon",
-      "https://news.patreon.com/articles/understanding-apple-requirements-for-patreon"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 14:20:03",
-      "https://news.ycombinator.com/item?id=41224689"
-    ],
-    [
-      "Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync",
-      "https://pglite.dev/"
-    ]
-  ],
-  [
-    [
       "2024-08-12, 13:37:42",
       "https://news.ycombinator.com/item?id=41224225"
     ],
@@ -217,6 +207,16 @@
     [
       "Go is my hammer, and everything is a nail",
       "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 00:08:09",
+      "https://news.ycombinator.com/item?id=41220143"
+    ],
+    [
+      "Comparing HTTP/3 vs. HTTP/2 Performance",
+      "https://blog.cloudflare.com/http-3-vs-http-2"
     ]
   ],
   [
