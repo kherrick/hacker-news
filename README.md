@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 23:03:21](https://news.ycombinator.com/item?id=41240755) - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
 * [2024-08-13, 22:01:22](https://news.ycombinator.com/item?id=41240300) - [US Air Force avoids PFAS water cleanup, citing Supreme Court's Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
 * [2024-08-13, 21:12:32](https://news.ycombinator.com/item?id=41239913) - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 * [2024-08-13, 21:00:34](https://news.ycombinator.com/item?id=41239805) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -25,7 +26,6 @@
 * [2024-08-12, 11:36:02](https://news.ycombinator.com/item?id=41223327) - [Neon Postgres vs. Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase)
 * [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
 * [2024-08-12, 00:21:01](https://news.ycombinator.com/item?id=41220188) - [Hcreate(3)](https://linux.die.net/man/3/hcreate)
-* [2024-08-10, 22:01:49](https://news.ycombinator.com/item?id=41212566) - [How the Totem Compass Works](https://www.totemlabs.com/post/how-the-totem-compass-works)
 * [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [Captain Disillusion debunks David Beckham beach kicks [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
 * [2024-08-09, 14:24:19](https://news.ycombinator.com/item?id=41202134) - [Of mice and men and Magdalen: C. S. Lewis’s Oxford](https://thecritic.co.uk/issues/july-2024/of-mice-and-men-and-magdalen/)
