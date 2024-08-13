@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 17:37:50](https://news.ycombinator.com/item?id=41237542) - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
 * [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
 * [2024-08-13, 17:00:31](https://news.ycombinator.com/item?id=41237200) - [Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer](https://news.ycombinator.com/item?id=41237200)
@@ -16,7 +17,6 @@
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-13, 12:05:22](https://news.ycombinator.com/item?id=41234636) - [Emacs: Contextual Interfaces in Casual Calc](http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html)
 * [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
-* [2024-08-13, 05:10:14](https://news.ycombinator.com/item?id=41232446) - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
 * [2024-08-12, 22:22:51](https://news.ycombinator.com/item?id=41230033) - [The Record: Music before mass production](https://www.historytoday.com/miscellanies/record-music-mass-production)
 * [2024-08-12, 19:21:47](https://news.ycombinator.com/item?id=41228278) - [National Instruments acquired by Emerson](https://www.ni.com/en/perspectives/letter-to-customers.html)
 * [2024-08-12, 18:52:59](https://news.ycombinator.com/item?id=41227987) - [SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level](https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/)
