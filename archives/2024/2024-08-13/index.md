@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 13:36:08](https://news.ycombinator.com/item?id=41235318) - [Alcohol Consumption Patterns and Mortality Among Older Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822215)
+* [2024-08-13, 13:04:58](https://news.ycombinator.com/item?id=41235072) - [HTTP/1.0 from Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 13:00:42](https://news.ycombinator.com/item?id=41235038) - [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
 * [2024-08-13, 12:36:10](https://news.ycombinator.com/item?id=41234849) - [You can kick the alpha tires on System76's Cosmic, a new Linux desktop](https://arstechnica.com/gadgets/2024/08/you-can-kick-the-alpha-tires-on-system76s-cosmic-a-new-linux-desktop/)
 * [2024-08-13, 12:24:08](https://news.ycombinator.com/item?id=41234767) - [Psssst! Your date of birth can be a random number!](https://shkspr.mobi/blog/2024/08/psssst-your-date-of-birth-can-be-a-random-number/)
