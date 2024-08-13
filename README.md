@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-13, 07:00:54](https://news.ycombinator.com/item?id=41233012) - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
-* [2024-08-13, 06:52:25](https://news.ycombinator.com/item?id=41232974) - [Pokémon series voice star Rachael Lillis dies at 46](https://www.bbc.com/news/articles/c4ge9zdve9no)
 * [2024-08-13, 05:43:49](https://news.ycombinator.com/item?id=41232621) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 * [2024-08-13, 05:10:14](https://news.ycombinator.com/item?id=41232446) - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
 * [2024-08-13, 04:30:15](https://news.ycombinator.com/item?id=41232259) - [The Goths](https://www.the-hinternet.com/p/the-goths)
@@ -23,6 +22,7 @@
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 12:59:34](https://news.ycombinator.com/item?id=41223902) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
 * [2024-08-11, 12:11:22](https://news.ycombinator.com/item?id=41215626) - [A camera that shoots 40k FPS decided the 100-meter sprint final](https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/)
+* [2024-08-10, 20:15:16](https://news.ycombinator.com/item?id=41211889) - [Architectural Retrospectives: The Key to Getting Better at Architecting – InfoQ](https://www.infoq.com/articles/architectural-retrospectives/)
 * [2024-08-10, 17:50:14](https://news.ycombinator.com/item?id=41211091) - [Antifragility in complex dynamical systems](https://www.nature.com/articles/s44260-024-00014-y)
 * [2024-08-10, 14:48:13](https://news.ycombinator.com/item?id=41209900) - [Open source laser microphone picks up laptop keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)
 * [2024-08-09, 23:15:19](https://news.ycombinator.com/item?id=41206168) - [Room inspections at Resorts World confuse, annoy DEF CON attendees](https://www.reviewjournal.com/business/tourism/invasion-of-privacy-hotel-room-inspections-confuse-hacker-convention-attendees-3121350/)
