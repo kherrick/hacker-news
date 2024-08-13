@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
 * [2024-08-13, 14:19:21](https://news.ycombinator.com/item?id=41235733) - [Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search](https://news.ycombinator.com/item?id=41235733)
 * [2024-08-13, 14:06:49](https://news.ycombinator.com/item?id=41235619) - [With Shared Software, Landlords Are Teaming Up to Raise Rents](https://jacobin.com/2024/08/realpage-software-housing-landlords/)
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
@@ -15,6 +16,7 @@
 * [2024-08-13, 12:36:10](https://news.ycombinator.com/item?id=41234849) - [You can kick the alpha tires on System76's Cosmic, a new Linux desktop](https://arstechnica.com/gadgets/2024/08/you-can-kick-the-alpha-tires-on-system76s-cosmic-a-new-linux-desktop/)
 * [2024-08-13, 12:24:08](https://news.ycombinator.com/item?id=41234767) - [Psssst! Your date of birth can be a random number!](https://shkspr.mobi/blog/2024/08/psssst-your-date-of-birth-can-be-a-random-number/)
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
+* [2024-08-13, 12:05:22](https://news.ycombinator.com/item?id=41234636) - [Emacs: Contextual Interfaces in Casual Calc](http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html)
 * [2024-08-13, 11:30:52](https://news.ycombinator.com/item?id=41234382) - [Rethinking the Nature of Light](https://chatgpt.com/share/9296f553-d36d-4c02-b73d-31b1058afe60)
 * [2024-08-13, 10:48:37](https://news.ycombinator.com/item?id=41234180) - [Core Python developer suspended for three months](https://www.theregister.com/2024/08/09/core_python_developer_suspended_coc/)
 * [2024-08-13, 10:47:57](https://news.ycombinator.com/item?id=41234174) - [Are We Living in the Age of Info-Determinism?](https://www.newyorker.com/culture/open-questions/are-we-living-in-the-age-of-info-determinism)
