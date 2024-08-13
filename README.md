@@ -5,7 +5,7 @@
 * [2024-08-13, 02:53:59](https://news.ycombinator.com/item?id=41231731) - [Brands should avoid the term 'AI'. It's turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
 * [2024-08-13, 02:10:58](https://news.ycombinator.com/item?id=41231490) - [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
 * [2024-08-13, 01:03:36](https://news.ycombinator.com/item?id=41231145) - [Mastering Osint: How to Find Information on Anyone](https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f)
-* [2024-08-13, 01:03:12](https://news.ycombinator.com/item?id=41231141) - [0xCAFEBABE & 0xFEEDFACE](http://radio-weblogs.com/0100490/2003/01/28.html)
+* [2024-08-13, 01:03:12](https://news.ycombinator.com/item?id=41231141) - [0xCAFEBABE & 0xFEEDFACE (2003)](http://radio-weblogs.com/0100490/2003/01/28.html)
 * [2024-08-13, 00:11:04](https://news.ycombinator.com/item?id=41230794) - [Faster Docker builds using a remote BuildKit instance](https://www.blacksmith.sh/blog/faster-docker-builds-using-a-remote-buildkit-instance)
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
 * [2024-08-12, 21:08:15](https://news.ycombinator.com/item?id=41229328) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
