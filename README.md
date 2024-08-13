@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 16:05:33](https://news.ycombinator.com/item?id=41236745) - [Tell HN: Google OAuth consent screen issue could be costing you signups](https://news.ycombinator.com/item?id=41236745)
 * [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 * [2024-08-13, 15:14:54](https://news.ycombinator.com/item?id=41236275) - [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
 * [2024-08-13, 15:14:47](https://news.ycombinator.com/item?id=41236273) - [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
@@ -13,12 +14,10 @@
 * [2024-08-13, 12:41:07](https://news.ycombinator.com/item?id=41234877) - [Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-13, 12:05:22](https://news.ycombinator.com/item?id=41234636) - [Emacs: Contextual Interfaces in Casual Calc](http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html)
-* [2024-08-13, 09:58:16](https://news.ycombinator.com/item?id=41233924) - [Show HN:I build a website to generate infographics](https://graphicinfo.cc/)
 * [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-13, 07:00:54](https://news.ycombinator.com/item?id=41233012) - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
 * [2024-08-13, 05:43:49](https://news.ycombinator.com/item?id=41232621) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 * [2024-08-13, 05:10:14](https://news.ycombinator.com/item?id=41232446) - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
-* [2024-08-13, 04:30:15](https://news.ycombinator.com/item?id=41232259) - [The Goths](https://www.the-hinternet.com/p/the-goths)
 * [2024-08-13, 02:10:58](https://news.ycombinator.com/item?id=41231490) - [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
 * [2024-08-12, 18:31:45](https://news.ycombinator.com/item?id=41227772) - [Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
@@ -29,6 +28,7 @@
 * [2024-08-10, 14:48:13](https://news.ycombinator.com/item?id=41209900) - [Open source laser microphone picks up laptop keystrokes](https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/)
 * [2024-08-10, 07:05:33](https://news.ycombinator.com/item?id=41207838) - [Visualizing Complex Functions](https://vankessel.io/visualizing-complex-functions)
 * [2024-08-09, 15:33:20](https://news.ycombinator.com/item?id=41202841) - [Upsetting Magazine #77 (2023)](https://www.markdomowicz.com/all/2023_10_16_upsetting_magazine_77/article/upsettingmagazine77/)
+* [2024-08-09, 04:30:01](https://news.ycombinator.com/item?id=41198776) - [Raspberry Pi Pico 2 lands with RISC-V cores](https://www.theregister.com/2024/08/08/pi_pico_2_risc_v/)
 * [2024-08-08, 13:16:50](https://news.ycombinator.com/item?id=41191175) - [Video with Alpha Transparency on the Web](https://jakearchibald.com/2024/video-with-transparency/)
 
 ## [Archives](archives/index.md)
