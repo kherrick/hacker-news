@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-13, 09:17:19",
+      "https://news.ycombinator.com/item?id=41233722"
+    ],
+    [
+      "Go Algorithms and Data Structures: Best Practices for Beginners",
+      "https://github.com/TheAlgorithms/Go"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 07:00:54",
       "https://news.ycombinator.com/item?id=41233012"
     ],
@@ -67,16 +77,6 @@
     [
       "Mastering Osint: How to Find Information on Anyone",
       "https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 01:03:12",
-      "https://news.ycombinator.com/item?id=41231141"
-    ],
-    [
-      "0xCAFEBABE & 0xFEEDFACE (2003)",
-      "http://radio-weblogs.com/0100490/2003/01/28.html"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=41211889"
     ],
     [
-      "Architectural Retrospectives: The Key to Getting Better at Architecting – InfoQ",
+      "Architectural Retrospectives: The Key to Getting Better at Architecting",
       "https://www.infoq.com/articles/architectural-retrospectives/"
     ]
   ],
