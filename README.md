@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 00:11:04](https://news.ycombinator.com/item?id=41230794) - [Faster Docker builds using a remote BuildKit instance](https://www.blacksmith.sh/blog/faster-docker-builds-using-a-remote-buildkit-instance)
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
 * [2024-08-12, 21:36:56](https://news.ycombinator.com/item?id=41229600) - [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
 * [2024-08-12, 21:36:00](https://news.ycombinator.com/item?id=41229597) - [Piecing together the epic of Gilgamesh with NLP](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
 * [2024-08-12, 21:08:15](https://news.ycombinator.com/item?id=41229328) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
-* [2024-08-12, 20:38:27](https://news.ycombinator.com/item?id=41229049) - [NASA Investigation Finds Boeing Hindering Americans' Return to Moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
+* [2024-08-12, 20:38:27](https://news.ycombinator.com/item?id=41229049) - [NASA investigation finds Boeing hindering Americans' return to moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
 * [2024-08-12, 20:27:27](https://news.ycombinator.com/item?id=41228935) - [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
 * [2024-08-12, 19:57:57](https://news.ycombinator.com/item?id=41228630) - [Federal appeals court finds geofence warrants \"categorically\" unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
 * [2024-08-12, 19:53:19](https://news.ycombinator.com/item?id=41228579) - [TP-Link GPL Code Center](https://www.tp-link.com/us/support/gpl-code/)
@@ -15,7 +16,6 @@
 * [2024-08-12, 17:01:11](https://news.ycombinator.com/item?id=41226700) - [ProhostAI (YC S24) Is Hiring](https://www.ycombinator.com/companies/prohostai/jobs/E50Yl4C-founding-engineer)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain (2022)](https://comment.org/repair-and-remain/)
 * [2024-08-12, 14:34:46](https://news.ycombinator.com/item?id=41224853) - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
-* [2024-08-12, 14:10:21](https://news.ycombinator.com/item?id=41224557) - [Creating the largest protein-protein interaction dataset in the world](https://www.owlposting.com/p/creating-the-largest-protein-protein)
 * [2024-08-12, 13:43:30](https://news.ycombinator.com/item?id=41224286) - [Postgres.new: In-browser Postgres with an AI interface](https://supabase.com/blog/postgres-new)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 13:02:31](https://news.ycombinator.com/item?id=41223934) - [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
@@ -27,9 +27,9 @@
 * [2024-08-09, 05:09:25](https://news.ycombinator.com/item?id=41198931) - [Is running a more efficient way to travel than walking?](https://www.joehxblog.com/is-running-a-more-efficient-way-to-travel-than-walking/)
 * [2024-08-08, 20:22:52](https://news.ycombinator.com/item?id=41195805) - [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
 * [2024-08-08, 19:51:53](https://news.ycombinator.com/item?id=41195492) - [Making earthly paradise: The art and crafts of William Morris](https://www.the-tls.co.uk/literature-by-region/british-literature/william-morris-ingrid-hanson-marcus-waithe/)
+* [2024-08-08, 05:52:19](https://news.ycombinator.com/item?id=41188496) - [Just Say It, Henry](https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry)
 * [2024-08-07, 17:33:04](https://news.ycombinator.com/item?id=41183513) - [Faulty instructions in C910 RISC-V CPUs](https://ghostwriteattack.com)
 * [2024-08-07, 16:24:12](https://news.ycombinator.com/item?id=41182895) - [Poetry was an official Olympic event](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
-* [2024-08-07, 13:07:37](https://news.ycombinator.com/item?id=41181036) - [Show HN: Simple Mbtiles Server – Self-host the entire planet of OpenStreetMaps](https://github.com/markuman/sms)
 
 ## [Archives](archives/index.md)
 
