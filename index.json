@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-13, 00:41:54",
+      "https://news.ycombinator.com/item?id=41230994"
+    ],
+    [
+      "Waymo to begin testing on San Francisco freeways this week",
+      "https://techcrunch.com/2024/08/12/waymo-to-begin-testing-driverless-robotaxis-on-san-francisco-freeways/"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 00:11:04",
       "https://news.ycombinator.com/item?id=41230794"
     ],
@@ -17,6 +27,16 @@
     [
       "Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig",
       "https://github.com/judofyr/spice"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 22:40:53",
+      "https://news.ycombinator.com/item?id=41230169"
+    ],
+    [
+      "User-defined Order in SQL (2018)",
+      "https://begriffs.com/posts/2018-03-20-user-defined-order.html"
     ]
   ],
   [
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2024-08-11, 04:03:12",
-      "https://news.ycombinator.com/item?id=41213902"
+      "2024-08-10, 17:50:14",
+      "https://news.ycombinator.com/item?id=41211091"
     ],
     [
-      "The most cited authors in the Stanford Encyclopedia of Philosophy",
-      "https://schwitzsplinters.blogspot.com/2024/08/the-378-most-cited-contemporary-authors.html"
+      "Antifragility in Complex Dynamical Systems",
+      "https://www.nature.com/articles/s44260-024-00014-y"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Making earthly paradise: The art and crafts of William Morris",
       "https://www.the-tls.co.uk/literature-by-region/british-literature/william-morris-ingrid-hanson-marcus-waithe/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 05:52:19",
-      "https://news.ycombinator.com/item?id=41188496"
-    ],
-    [
-      "Just Say It, Henry",
-      "https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 17:33:04",
-      "https://news.ycombinator.com/item?id=41183513"
-    ],
-    [
-      "Faulty instructions in C910 RISC-V CPUs",
-      "https://ghostwriteattack.com"
     ]
   ],
   [
