@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 17:00:31](https://news.ycombinator.com/item?id=41237200) - [Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer](https://news.ycombinator.com/item?id=41237200)
 * [2024-08-13, 16:42:50](https://news.ycombinator.com/item?id=41237057) - [Tell HN: Steinberg shut down their eLicenser service, breaking older software](https://www.steinberg.net/licensing/elicenser-end-of-service/)
 * [2024-08-13, 16:05:33](https://news.ycombinator.com/item?id=41236745) - [Tell HN: Google OAuth consent screen issue could be costing you signups](https://news.ycombinator.com/item?id=41236745)
 * [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
