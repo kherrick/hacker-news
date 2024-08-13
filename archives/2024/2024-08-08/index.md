@@ -11,6 +11,7 @@
 * [2024-08-08, 22:13:46](https://news.ycombinator.com/item?id=41196916) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-08, 21:48:48](https://news.ycombinator.com/item?id=41196689) - [The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
 * [2024-08-08, 21:47:21](https://news.ycombinator.com/item?id=41196669) - [The Outrageous Rise of Neotoddlerism](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)
+* [2024-08-08, 21:37:28](https://news.ycombinator.com/item?id=41196582) - [Robert Elder's Guide to GNU Coreutils](https://blog.robertelder.org/gnu-coreutils-package-guide/)
 * [2024-08-08, 21:33:53](https://news.ycombinator.com/item?id=41196554) - [National Park Service Will Cite AWD Drivers for Driving on 4WD-Only Trails](https://jalopnik.com/national-park-service-will-cite-drivers-of-awd-cars-for-1851617315)
 * [2024-08-08, 21:03:31](https://news.ycombinator.com/item?id=41196237) - [Ask HN: Resources about math behind A/B testing](https://news.ycombinator.com/item?id=41196237)
 * [2024-08-08, 20:44:28](https://news.ycombinator.com/item?id=41196053) - [Zero calorie sweetener linked to blood clots and heart disease, study finds](https://www.cnn.com/2024/08/08/health/erythritol-blood-clotting-wellness/index.html)
