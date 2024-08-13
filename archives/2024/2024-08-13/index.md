@@ -7,6 +7,7 @@
 * [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
 * [2024-08-13, 14:19:21](https://news.ycombinator.com/item?id=41235733) - [Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search](https://news.ycombinator.com/item?id=41235733)
 * [2024-08-13, 14:06:49](https://news.ycombinator.com/item?id=41235619) - [With Shared Software, Landlords Are Teaming Up to Raise Rents](https://jacobin.com/2024/08/realpage-software-housing-landlords/)
+* [2024-08-13, 14:06:22](https://news.ycombinator.com/item?id=41235614) - [Saudi Arabia to Host Sixth Halo Space Test Flight in September](https://techmgzn.com/saudi-arabia-to-host-sixth-halo-space-test-flight-in-september/)
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
 * [2024-08-13, 13:36:08](https://news.ycombinator.com/item?id=41235318) - [Alcohol Consumption Patterns and Mortality Among Older Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822215)
 * [2024-08-13, 13:04:58](https://news.ycombinator.com/item?id=41235072) - [HTTP/1.0 from Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
