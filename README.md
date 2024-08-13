@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-13, 03:53:38](https://news.ycombinator.com/item?id=41232054) - [Auto-Generated Transcript of Musk-Trump Twitter Space](https://gist.githubusercontent.com/bubbaprog/1eb29610374ff9f458a37a648a4004e1/raw/212ad823d62f7c2948749b976f7a0fa7cda046d9/gistfile1.txt)
 * [2024-08-13, 03:34:33](https://news.ycombinator.com/item?id=41231964) - [Haiku Activity and Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
 * [2024-08-13, 02:55:15](https://news.ycombinator.com/item?id=41231735) - [Gitlab is reportedly up for sale](https://www.developer-tech.com/news/gitlab-is-reportedly-up-for-sale/)
 * [2024-08-13, 02:53:59](https://news.ycombinator.com/item?id=41231731) - [Brands should avoid the term 'AI'. It's turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
@@ -11,6 +10,7 @@
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
 * [2024-08-12, 21:08:15](https://news.ycombinator.com/item?id=41229328) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 * [2024-08-12, 20:38:27](https://news.ycombinator.com/item?id=41229049) - [NASA investigation finds Boeing hindering Americans' return to moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
+* [2024-08-12, 20:27:27](https://news.ycombinator.com/item?id=41228935) - [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
 * [2024-08-12, 19:57:57](https://news.ycombinator.com/item?id=41228630) - [Federal appeals court finds geofence warrants \"categorically\" unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
 * [2024-08-12, 19:53:19](https://news.ycombinator.com/item?id=41228579) - [TP-Link GPL Code Center](https://www.tp-link.com/us/support/gpl-code/)
 * [2024-08-12, 19:04:16](https://news.ycombinator.com/item?id=41228113) - [Damn Vulnerable UEFI](https://github.com/hacking-support/DVUEFI)
