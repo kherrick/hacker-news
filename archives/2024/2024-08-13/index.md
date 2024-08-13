@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-13, 09:17:19](https://news.ycombinator.com/item?id=41233722) - [Go Algorithms and Data Structures: Best Practices for Beginners](https://github.com/TheAlgorithms/Go)
 * [2024-08-13, 07:00:54](https://news.ycombinator.com/item?id=41233012) - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
 * [2024-08-13, 06:52:25](https://news.ycombinator.com/item?id=41232974) - [Pokémon series voice star Rachael Lillis dies at 46](https://www.bbc.com/news/articles/c4ge9zdve9no)
