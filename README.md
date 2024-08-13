@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 * [2024-08-13, 15:14:54](https://news.ycombinator.com/item?id=41236275) - [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
 * [2024-08-13, 15:14:47](https://news.ycombinator.com/item?id=41236273) - [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
 * [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
@@ -19,7 +20,6 @@
 * [2024-08-13, 05:10:14](https://news.ycombinator.com/item?id=41232446) - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
 * [2024-08-13, 02:10:58](https://news.ycombinator.com/item?id=41231490) - [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
-* [2024-08-12, 21:33:25](https://news.ycombinator.com/item?id=41229573) - [Pedants (1999)](https://douglasadams.com/dna/pedants.html)
 * [2024-08-12, 18:31:45](https://news.ycombinator.com/item?id=41227772) - [Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain (2022)](https://comment.org/repair-and-remain/)
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)

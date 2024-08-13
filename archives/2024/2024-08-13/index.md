@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 * [2024-08-13, 15:14:54](https://news.ycombinator.com/item?id=41236275) - [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
 * [2024-08-13, 15:14:47](https://news.ycombinator.com/item?id=41236273) - [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
 * [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
