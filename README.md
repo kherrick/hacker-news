@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-13, 07:00:54](https://news.ycombinator.com/item?id=41233012) - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
+* [2024-08-13, 05:43:49](https://news.ycombinator.com/item?id=41232621) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 * [2024-08-13, 05:10:14](https://news.ycombinator.com/item?id=41232446) - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
 * [2024-08-13, 04:30:15](https://news.ycombinator.com/item?id=41232259) - [The Goths](https://www.the-hinternet.com/p/the-goths)
-* [2024-08-13, 03:34:33](https://news.ycombinator.com/item?id=41231964) - [Haiku Activity and Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
 * [2024-08-13, 02:53:59](https://news.ycombinator.com/item?id=41231731) - [Brands should avoid the term 'AI'. It's turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
 * [2024-08-13, 02:10:58](https://news.ycombinator.com/item?id=41231490) - [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
 * [2024-08-13, 01:03:36](https://news.ycombinator.com/item?id=41231145) - [Mastering Osint: How to Find Information on Anyone](https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f)
