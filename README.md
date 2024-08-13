@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-13, 19:14:29](https://news.ycombinator.com/item?id=41238632) - [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 17:37:50](https://news.ycombinator.com/item?id=41237542) - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
 * [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
@@ -23,11 +24,10 @@
 * [2024-08-12, 18:31:45](https://news.ycombinator.com/item?id=41227772) - [Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
 * [2024-08-12, 17:40:09](https://news.ycombinator.com/item?id=41227179) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-12, 17:24:40](https://news.ycombinator.com/item?id=41227011) - [Ancient calendar, recently discovered, may document a long-ago disaster](https://www.nytimes.com/2024/08/10/world/asia/worlds-oldest-calendar-gobekli-tepe.html)
-* [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
 * [2024-08-12, 00:21:01](https://news.ycombinator.com/item?id=41220188) - [Hcreate(3)](https://linux.die.net/man/3/hcreate)
 * [2024-08-10, 22:01:49](https://news.ycombinator.com/item?id=41212566) - [How the Totem Compass Works](https://www.totemlabs.com/post/how-the-totem-compass-works)
-* [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [Captain Disillusion debunks David Beckham beach kicks [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
+* [2024-08-09, 14:24:19](https://news.ycombinator.com/item?id=41202134) - [Of mice and men and Magdalen: C. S. Lewis’s Oxford](https://thecritic.co.uk/issues/july-2024/of-mice-and-men-and-magdalen/)
 * [2024-08-09, 05:47:11](https://news.ycombinator.com/item?id=41199092) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 * [2024-08-08, 23:57:50](https://news.ycombinator.com/item?id=41197629) - [Show HN: SpecOS – A 64 bit OS kernel from scratch](https://github.com/jakeSteinburger/SpecOS)
 
