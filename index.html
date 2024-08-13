@@ -142,13 +142,123 @@
             <h4>
               <span>2024-08-13 @ 15:14:54</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41236275"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41236273">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41236273"
+              >Launch HN: Trellis (YC W24) – AI-powered workflows for
+              unstructured data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-13 @ 15:14:47</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41236273"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://runtrellis.com/">https://runtrellis.com/</a>).
+              We’re building AI-powered ETL for unstructured data. Trellis
+              transforms phone calls, PDFs, and chats into structured SQL format
+              based on any schema you define in natural language. This helps
+              data and ops teams automate manual data entry and run SQL queries
+              on messy data.
+              <p>
+                There’s a demo video at
+                <a href="https://www.youtube.com/watch?v=ib3mRh2tnSo"
+                  >https://www.youtube.com/watch?v=ib3mRh2tnSo</a
+                >
+                and a sandbox to try out (no sign-in required!) at
+                <a href="https://demo.runtrellis.com/"
+                  >https://demo.runtrellis.com/</a
+                >. An interesting historical archive of unstructured data we
+                thought it would be interesting to run Trellis on top of are old
+                Enron emails which famously took months to review. We’ve created
+                a showcase demo here:
+                <a
+                  href="https://demo.runtrellis.com/showcase/enron-email-analysis"
+                  >https://demo.runtrellis.com/showcase/enron-email-analysis</a
+                >, with some documentation here:
+                <a
+                  href="https://docs.runtrellis.com/docs/example-email-analytics"
+                  >https://docs.runtrellis.com/docs/example-email-analytics</a
+                >.
+              </p>
+              <p>
+                Why we built this: At the Stanford AI lab where we met, we
+                collaborated with many F500 data teams (including Amazon, Meta,
+                and Standard Chartered), and repeatedly saw the same problem:
+                80% of enterprise data is unstructured, and traditional
+                platforms can’t handle it. For example, a major commercial bank
+                I work with couldn’t improve credit risk models because critical
+                data was stuck in PDFs and emails.
+              </p>
+              <p>
+                We realized that our research from the AI lab could be turned
+                into a solution with an abstraction layer that works as well for
+                financial underwriting as it does for analysis of call center
+                transcripts: an AI-powered ETL that takes in any unstructured
+                data source and turns it into a schematically correct table.
+              </p>
+              <p>
+                Some interesting technical challenges we had to tackle along the
+                way: (1) Supporting complex documents out of the box: We use
+                LLM-based map-reduce to handle long documents and vision models
+                for table and layout extraction. (2) Model Routing: We select
+                the best model for each transformation to optimize cost and
+                speed. For instance, in data extraction tasks, we could leverage
+                simpler fine-tuned models that are specialized in returning
+                structured JSONs of financial tables. (3) Data Validation and
+                Schema Guarantees: We ensure accuracy with reference links and
+                anomaly detection.
+              </p>
+              <p>
+                After launching Trellis, we’ve seen diverse use cases,
+                especially in legacy industries where PDFs are treated as APIs.
+                For example, financial services companies need to process
+                complex documents like bonds and credit ratings into a
+                structured format, and need to speed up underwriting and enable
+                pass-through loan processing. Customer support and back-office
+                operations need to accelerate onboarding by mapping documents
+                across different schema and ERP systems, and ensure support
+                agents follow SOPs (security questions, compliance disclosures,
+                etc.). And many companies today want data preprocessing in ETL
+                pipelines and data ingestion for RAG.
+              </p>
+              <p>
+                We’d love your feedback! Try it out at
+                <a href="https://demo.runtrellis.com/"
+                  >https://demo.runtrellis.com/</a
+                >. To save and track your large data transformations, you can
+                visit our dashboard and create an account at
+                <a href="https://dashboard.runtrellis.com/"
+                  >https://dashboard.runtrellis.com/</a
+                >. If you’re interested in integrating with our APIs, our quick
+                start docs are here:
+                <a href="https://docs.runtrellis.com/docs/getting-started"
+                  >https://docs.runtrellis.com/docs/getting-started</a
+                >. If you have any specific use cases in mind, we’d be happy to
+                do a custom integration and onboarding—anything for HN. :)
+              </p>
+              <p>
+                Excited to hear about your experience wrangling with
+                unstructured data in the past, workflows you want to automate,
+                and what data integration you would like to see.
+              </p>
+            </div>
           </section>
         </section>
         <section id="41235789">
@@ -163,11 +273,11 @@
             <h4>
               <span>2024-08-13 @ 14:25:19</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41235789"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -183,11 +293,11 @@
             <h4>
               <span>2024-08-13 @ 14:19:21</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41235733"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
@@ -285,11 +395,11 @@
             <h4>
               <span>2024-08-13 @ 14:12:54</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41235677"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -304,11 +414,31 @@
             <h4>
               <span>2024-08-13 @ 13:51:27</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41235462"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41235259">
+          <h3>
+            <a class="item" href="https://github.com/jbunke/stipple-effect"
+              >Show HN: Stipple Effect – a scriptable pixel art editor to make
+              game art faster</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-13 @ 13:29:27</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41235259"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -323,7 +453,7 @@
             <h4>
               <span>2024-08-13 @ 13:00:42</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41235038"
                   >Comments</a
@@ -395,11 +525,11 @@
             <h4>
               <span>2024-08-13 @ 12:50:54</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41234964"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -414,7 +544,7 @@
             <h4>
               <span>2024-08-13 @ 12:41:07</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41234877"
                   >Comments</a
@@ -434,7 +564,7 @@
             <h4>
               <span>2024-08-13 @ 12:15:57</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41234713"
                   >Comments</a
@@ -455,7 +585,7 @@
             <h4>
               <span>2024-08-13 @ 12:05:22</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41234636"
                   >Comments</a
@@ -474,7 +604,7 @@
             <h4>
               <span>2024-08-13 @ 09:58:16</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41233924"
                   >Comments</a
@@ -494,11 +624,11 @@
             <h4>
               <span>2024-08-13 @ 09:33:28</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41233811"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -532,11 +662,11 @@
             <h4>
               <span>2024-08-13 @ 05:43:49</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41232621"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -551,30 +681,11 @@
             <h4>
               <span>2024-08-13 @ 05:10:14</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41232446"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41232259">
-          <h3>
-            <a class="item" href="https://www.the-hinternet.com/p/the-goths"
-              >The Goths</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-13 @ 04:30:15</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41232259"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -590,7 +701,7 @@
             <h4>
               <span>2024-08-13 @ 02:10:58</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41231490"
                   >Comments</a
@@ -614,7 +725,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41230344"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -629,7 +740,7 @@
             <h4>
               <span>2024-08-12 @ 21:33:25</span
               ><span class="points-container"
-                >Points: <span class="points">3</span></span
+                >Points: <span class="points">4</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41229573"
                   >Comments</a
@@ -649,30 +760,11 @@
             <h4>
               <span>2024-08-12 @ 18:31:45</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41227772"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41227350">
-          <h3>
-            <a class="item" href="https://github.com/mawise/bookshelf"
-              >Show HN: I built an animated 3D bookshelf for ebooks</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-12 @ 17:53:36</span
-              ><span class="points-container"
-                >Points: <span class="points">252</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41227350"
-                  >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -687,7 +779,7 @@
             <h4>
               <span>2024-08-12 @ 16:06:42</span
               ><span class="points-container"
-                >Points: <span class="points">551</span></span
+                >Points: <span class="points">553</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41226039"
                   >Comments</a
@@ -706,11 +798,11 @@
             <h4>
               <span>2024-08-12 @ 13:37:42</span
               ><span class="points-container"
-                >Points: <span class="points">662</span></span
+                >Points: <span class="points">664</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224225"
                   >Comments</a
-                ><span class="descendants">: 245</span></span
+                ><span class="descendants">: 247</span></span
               >
             </h4>
           </section>
@@ -727,7 +819,7 @@
             <h4>
               <span>2024-08-10 @ 20:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41212072"
                   >Comments</a
@@ -748,11 +840,11 @@
             <h4>
               <span>2024-08-10 @ 17:50:14</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41211091"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -773,7 +865,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41210745"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -790,7 +882,7 @@
             <h4>
               <span>2024-08-10 @ 14:48:13</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41209900"
                   >Comments</a
@@ -815,7 +907,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41207838"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -832,7 +924,7 @@
             <h4>
               <span>2024-08-09 @ 15:33:20</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41202841"
                   >Comments</a
@@ -853,7 +945,7 @@
             <h4>
               <span>2024-08-08 @ 13:16:50</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41191175"
                   >Comments</a
