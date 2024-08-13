@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-08-13, 13:36:08",
-      "https://news.ycombinator.com/item?id=41235318"
+      "2024-08-13, 13:51:27",
+      "https://news.ycombinator.com/item?id=41235462"
     ],
     [
-      "Alcohol Consumption Patterns and Mortality Among Older Adults",
-      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822215"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 13:04:58",
-      "https://news.ycombinator.com/item?id=41235072"
-    ],
-    [
-      "HTTP/1.0 from Scratch",
-      "https://kmcd.dev/posts/http1.0-from-scratch/"
+      "A C/C++ library for audio and music analysis",
+      "https://github.com/libAudioFlux/audioFlux"
     ]
   ],
   [
@@ -31,12 +21,62 @@
   ],
   [
     [
+      "2024-08-13, 12:50:54",
+      "https://news.ycombinator.com/item?id=41234964"
+    ],
+    [
+      "The Webb Telescope Further Deepens the Biggest Controversy in Cosmology",
+      "https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 12:41:07",
+      "https://news.ycombinator.com/item?id=41234877"
+    ],
+    [
+      "Printf Oriented Message Protocol",
+      "https://github.com/Parrot-Developers/libpomp"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 12:15:57",
+      "https://news.ycombinator.com/item?id=41234713"
+    ],
+    [
+      "Open-source tool translates and dubs videos into other languages using AI",
+      "https://github.com/jianchang512/pyvideotrans"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 11:30:52",
+      "https://news.ycombinator.com/item?id=41234382"
+    ],
+    [
+      "Rethinking the Nature of Light",
+      "https://chatgpt.com/share/9296f553-d36d-4c02-b73d-31b1058afe60"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 10:47:57",
       "https://news.ycombinator.com/item?id=41234174"
     ],
     [
       "Are We Living in the Age of Info-Determinism?",
       "https://www.newyorker.com/culture/open-questions/are-we-living-in-the-age-of-info-determinism"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 09:58:16",
+      "https://news.ycombinator.com/item?id=41233924"
+    ],
+    [
+      "Show HN:I build a website to generate infographics",
+      "https://graphicinfo.cc/"
     ]
   ],
   [
@@ -121,26 +161,6 @@
   ],
   [
     [
-      "2024-08-12, 20:38:27",
-      "https://news.ycombinator.com/item?id=41229049"
-    ],
-    [
-      "NASA investigation finds Boeing hindering Americans' return to moon",
-      "https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 19:57:57",
-      "https://news.ycombinator.com/item?id=41228630"
-    ],
-    [
-      "Federal appeals court finds geofence warrants \"categorically\" unconstitutional",
-      "https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional"
-    ]
-  ],
-  [
-    [
       "2024-08-12, 17:53:36",
       "https://news.ycombinator.com/item?id=41227350"
     ],
@@ -177,16 +197,6 @@
     [
       "Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync",
       "https://pglite.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 13:43:30",
-      "https://news.ycombinator.com/item?id=41224286"
-    ],
-    [
-      "Postgres.new: In-browser Postgres with an AI interface",
-      "https://supabase.com/blog/postgres-new"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Upsetting Magazine #77 (2023)",
       "https://www.markdomowicz.com/all/2023_10_16_upsetting_magazine_77/article/upsettingmagazine77/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 20:22:52",
-      "https://news.ycombinator.com/item?id=41195805"
-    ],
-    [
-      "Queues invert control flow but require flow control",
-      "https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html"
     ]
   ],
   [
