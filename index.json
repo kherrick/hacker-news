@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41232446"
     ],
     [
-      "Leaked Secrets and Unlimited Miles: Hacking Airline and Hotel Rewards Platform",
+      "Hacking the largest airline and hotel rewards platform (2023)",
       "https://samcurry.net/points-com"
     ]
   ],
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-08-13, 00:11:04",
-      "https://news.ycombinator.com/item?id=41230794"
-    ],
-    [
-      "Faster Docker builds using a remote BuildKit instance",
-      "https://www.blacksmith.sh/blog/faster-docker-builds-using-a-remote-buildkit-instance"
-    ]
-  ],
-  [
-    [
       "2024-08-12, 23:01:37",
       "https://news.ycombinator.com/item?id=41230344"
     ],
@@ -147,6 +137,16 @@
     [
       "Damn Vulnerable UEFI",
       "https://github.com/hacking-support/DVUEFI"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 17:55:07",
+      "https://news.ycombinator.com/item?id=41227369"
+    ],
+    [
+      "Launch HN: Synnax (YC S24) – Unified hardware control and sensor data streaming",
+      "https://news.ycombinator.com/item?id=41227369"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=41211091"
     ],
     [
-      "Antifragility in Complex Dynamical Systems",
+      "Antifragility in complex dynamical systems",
       "https://www.nature.com/articles/s44260-024-00014-y"
     ]
   ],
