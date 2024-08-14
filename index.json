@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-14, 21:58:06",
-      "https://news.ycombinator.com/item?id=41250939"
+      "2024-08-14, 23:03:23",
+      "https://news.ycombinator.com/item?id=41251412"
     ],
     [
-      "OpenVMS x86 E9.2-3 fixes CDE (DECWindows) and adds a Guest Console",
-      "https://raymii.org/s/blog/OpenVMS_x86_E9.2-3_fixes_CDE_and_adds_Guest_Console.html"
+      "GitHub Is Down",
+      "https://github.com/"
     ]
   ],
   [
@@ -17,36 +17,6 @@
     [
       "International Study Detects Consciousness in Unresponsive Patients",
       "https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 21:34:53",
-      "https://news.ycombinator.com/item?id=41250749"
-    ],
-    [
-      "WHO Declares Mpox Global Health Emergency",
-      "https://www.bbc.com/news/articles/cvg35w27gzno"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 21:03:45",
-      "https://news.ycombinator.com/item?id=41250470"
-    ],
-    [
-      "AltStore PAL receives Epic Games MegaGrant, will no longer require subscription",
-      "https://fosstodon.org/@altstore/112962388607680148"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 18:42:17",
-      "https://news.ycombinator.com/item?id=41249212"
-    ],
-    [
-      "Patrol the pool with this Arduino Nano-powered DIY RC submarine",
-      "https://blog.arduino.cc/2024/08/03/patrol-the-pool-with-this-arduino-nano-powered-diy-rc-submarine/"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2024-08-14, 13:36:40",
+      "https://news.ycombinator.com/item?id=41245901"
+    ],
+    [
+      "Re-fixing Servo's event-loop",
+      "https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 12:12:23",
       "https://news.ycombinator.com/item?id=41245159"
     ],
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2024-08-14, 11:22:29",
+      "https://news.ycombinator.com/item?id=41244847"
+    ],
+    [
+      "Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG (2005)",
+      "https://spectrum.ieee.org/of-modes-and-men"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 10:12:04",
       "https://news.ycombinator.com/item?id=41244468"
     ],
     [
       "The Syndicated Actor Model",
       "https://syndicate-lang.org/about/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 10:03:32",
+      "https://news.ycombinator.com/item?id=41244423"
+    ],
+    [
+      "Show HN: We made a tool to help developers improve OpenAPI specs",
+      "https://github.com/zuplo/rate-my-openapi"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-08-12, 21:30:45",
+      "https://news.ycombinator.com/item?id=41229555"
+    ],
+    [
+      "Script-kidding the Bitcoin blockchain [video]",
+      "https://media.ccc.de/v/cosin2024-56240-script-kidding-the-bitco"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 13:27:39",
       "https://news.ycombinator.com/item?id=41224128"
     ],
     [
       "Approximating sum types in Python with Pydantic",
       "https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 09:01:28",
-      "https://news.ycombinator.com/item?id=41222528"
-    ],
-    [
-      "From Sets to Categories (2023)",
-      "https://abuseofnotation.github.io/category-theory-illustrated/02_category/"
     ]
   ],
   [
