@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 21:45:39](https://news.ycombinator.com/item?id=41250830) - [International Study Detects Consciousness in Unresponsive Patients](https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients)
 * [2024-08-14, 21:15:06](https://news.ycombinator.com/item?id=41250577) - [Eric Schmidt Says Google Is Falling Behind on AI–and Remote Work Is Why](https://www.wsj.com/tech/ai/google-eric-schmidt-ai-remote-work-stanford-f92f4ca5)
 * [2024-08-14, 21:03:45](https://news.ycombinator.com/item?id=41250470) - [AltStore PAL receives Epic Games MegaGrant, will no longer require subscription](https://fosstodon.org/@altstore/112962388607680148)
 * [2024-08-14, 19:13:44](https://news.ycombinator.com/item?id=41249504) - [ISPs worry that killing FCC net neutrality rules will come back to haunt them](https://arstechnica.com/tech-policy/2024/08/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans/)
