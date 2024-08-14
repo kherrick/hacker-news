@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-08-14, 13:50:26",
-      "https://news.ycombinator.com/item?id=41246050"
+      "2024-08-14, 14:21:55",
+      "https://news.ycombinator.com/item?id=41246413"
     ],
     [
-      "Texas Sues GM for Unlaw­Ful­Ly Collecting and Selling Dri­Vers' Pri­Vate Data [pdf]",
-      "https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 13:47:11",
-      "https://news.ycombinator.com/item?id=41246015"
-    ],
-    [
-      "Apple open-sources its Homomorphic Encryption library",
-      "https://www.thestack.technology/apple-open-sources-its-homomorphic-encryption-library/"
+      "Where Banking APIs Fall Short",
+      "https://blog.svapnil.com/p/where-bank-apis-fall-short"
     ]
   ],
   [
@@ -27,6 +17,16 @@
     [
       "Re-fixing Servo's event-loop",
       "https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 12:16:31",
+      "https://news.ycombinator.com/item?id=41245199"
+    ],
+    [
+      "It's Not Just You. No One Wants Kids Anymore [video]",
+      "https://www.youtube.com/watch?v=u-PinTQcuik"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Examples of Great URL Design (2023)",
       "https://blog.jim-nielsen.com/2023/examples-of-great-urls/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 06:21:26",
-      "https://news.ycombinator.com/item?id=41243147"
-    ],
-    [
-      "Vaultwarden: Unofficial Bitwarden compatible server written in Rust",
-      "https://github.com/dani-garcia/vaultwarden"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "AudioFlux: A C/C++ library for audio and music analysis",
       "https://github.com/libAudioFlux/audioFlux"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 13:00:42",
+      "https://news.ycombinator.com/item?id=41235038"
+    ],
+    [
+      "Show HN: See the impact on your cloud costs as you code",
+      "https://news.ycombinator.com/item?id=41235038"
     ]
   ],
   [
