@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 23:55:09](https://news.ycombinator.com/item?id=41241124) - [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
 * [2024-08-13, 23:03:21](https://news.ycombinator.com/item?id=41240755) - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
 * [2024-08-13, 22:55:36](https://news.ycombinator.com/item?id=41240716) - [DOJ may want to break up Google](https://www.zdnet.com/article/report-doj-may-want-to-break-up-google/)
 * [2024-08-13, 22:01:22](https://news.ycombinator.com/item?id=41240300) - [US Air Force avoids PFAS water cleanup, citing Supreme Court's Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
