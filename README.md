@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-14, 19:13:44](https://news.ycombinator.com/item?id=41249504) - [ISPs worry that killing FCC net neutrality rules will come back to haunt them](https://arstechnica.com/tech-policy/2024/08/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans/)
+* [2024-08-14, 18:29:40](https://news.ycombinator.com/item?id=41249080) - [My Trial as a War Criminal (By Leo Szilard, Inventor of Nuclear Chain Reaction)](https://en.wikipedia.org/wiki/My_Trial_as_a_War_Criminal)
+* [2024-08-14, 17:36:47](https://news.ycombinator.com/item?id=41248542) - [Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all](https://news.ycombinator.com/item?id=41248542)
 * [2024-08-14, 17:27:04](https://news.ycombinator.com/item?id=41248438) - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
 * [2024-08-14, 17:08:48](https://news.ycombinator.com/item?id=41248260) - [Zen5's AVX512 Teardown and More (Without Redacted Content)](http://numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
@@ -26,10 +28,8 @@
 * [2024-08-13, 22:34:00](https://news.ycombinator.com/item?id=41240556) - [Show HN: I've open sourced DD Poker](https://github.com/dougdonohoe/ddpoker)
 * [2024-08-13, 16:02:57](https://news.ycombinator.com/item?id=41236718) - [DUNE scientists observe first neutrinos with prototype detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
 * [2024-08-13, 14:11:36](https://news.ycombinator.com/item?id=41235662) - [I put a toaster in the dishwasher (2012)](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html)
-* [2024-08-13, 00:59:54](https://news.ycombinator.com/item?id=41231123) - [I'm Back, Ruby on Rails](https://blog.wildcat.io/2024/08/i-m-back-rails/)
 * [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
-* [2024-08-12, 09:20:32](https://news.ycombinator.com/item?id=41222632) - [Imec demonstrates logic and DRAM structures using High NA EUV Lithography](https://www.imec-int.com/en/press/imec-demonstrates-logic-and-dram-structures-using-high-na-euv-lithography)
-* [2024-08-11, 21:41:31](https://news.ycombinator.com/item?id=41219501) - [Cutaway drawings of nuclear reactors around the world](https://econtent.unm.edu/digital/collection/nuceng/search)
+* [2024-08-12, 09:01:28](https://news.ycombinator.com/item?id=41222528) - [From Sets to Categories (2023)](https://abuseofnotation.github.io/category-theory-illustrated/02_category/)
 
 ## [Archives](archives/index.md)
 
