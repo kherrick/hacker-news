@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-08-14, 08:34:45",
+      "https://news.ycombinator.com/item?id=41243931"
+    ],
+    [
+      "CVE-2024-38063, Windows TCP/IP Remote Code Execution Vulnerability",
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 06:21:26",
       "https://news.ycombinator.com/item?id=41243147"
     ],
@@ -207,16 +217,6 @@
     [
       "Entangled Photons Maintained Under New York Streets",
       "https://physics.aps.org/articles/v17/125"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 17:40:09",
-      "https://news.ycombinator.com/item?id=41227179"
-    ],
-    [
-      "Quote-unquote \"macros\"",
-      "https://ianthehenry.com/posts/quote-unquote-macros/"
     ]
   ],
   [
