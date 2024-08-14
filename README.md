@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-14, 21:03:45](https://news.ycombinator.com/item?id=41250470) - [AltStore PAL receives Epic Games MegaGrant, will no longer require subscription](https://fosstodon.org/@altstore/112962388607680148)
-* [2024-08-14, 18:19:37](https://news.ycombinator.com/item?id=41248984) - [Apple Pushes Ahead with Tabletop Home Device in Shift to Robotics](https://www.bloomberg.com/news/articles/2024-08-14/apple-pushes-ahead-with-tabletop-home-device-in-shift-to-robotics)
 * [2024-08-14, 17:36:47](https://news.ycombinator.com/item?id=41248542) - [Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all](https://news.ycombinator.com/item?id=41248542)
 * [2024-08-14, 17:29:30](https://news.ycombinator.com/item?id=41248460) - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
 * [2024-08-14, 17:27:04](https://news.ycombinator.com/item?id=41248438) - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
@@ -28,6 +27,7 @@
 * [2024-08-13, 22:34:00](https://news.ycombinator.com/item?id=41240556) - [Show HN: I've open sourced DD Poker](https://github.com/dougdonohoe/ddpoker)
 * [2024-08-13, 16:02:57](https://news.ycombinator.com/item?id=41236718) - [DUNE scientists observe first neutrinos with prototype detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
 * [2024-08-13, 14:11:36](https://news.ycombinator.com/item?id=41235662) - [I put a toaster in the dishwasher (2012)](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html)
+* [2024-08-12, 22:52:21](https://news.ycombinator.com/item?id=41230267) - [Reading Akkadian cuneiform using natural language processing (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240511)
 * [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 09:01:28](https://news.ycombinator.com/item?id=41222528) - [From Sets to Categories (2023)](https://abuseofnotation.github.io/category-theory-illustrated/02_category/)
 

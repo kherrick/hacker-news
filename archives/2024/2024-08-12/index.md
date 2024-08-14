@@ -6,6 +6,7 @@
 
 * [2024-08-12, 23:31:17](https://news.ycombinator.com/item?id=41230546) - [Wet-lab innovations will lead the AI revolution in biology](https://substack.com/@abhishaikemahajan/p-146580339)
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
+* [2024-08-12, 22:52:21](https://news.ycombinator.com/item?id=41230267) - [Reading Akkadian cuneiform using natural language processing (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240511)
 * [2024-08-12, 22:40:53](https://news.ycombinator.com/item?id=41230169) - [User-defined Order in SQL (2018)](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
 * [2024-08-12, 22:23:40](https://news.ycombinator.com/item?id=41230039) - [Why brutalist buildings should stay, even if people think they're ugly](https://text.npr.org/g-s1-6417)
 * [2024-08-12, 22:22:51](https://news.ycombinator.com/item?id=41230033) - [The Record: Music before mass production](https://www.historytoday.com/miscellanies/record-music-mass-production)
