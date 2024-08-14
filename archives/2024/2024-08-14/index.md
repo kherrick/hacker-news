@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
+* [2024-08-14, 16:51:00](https://news.ycombinator.com/item?id=41248112) - [Mark Zuckerberg unveils giant Roman sculpture of his wife – AP News](https://apnews.com/video/social-media-national-national-2a82183dc6804624bb49de45ed710a9d)
+* [2024-08-14, 16:20:10](https://news.ycombinator.com/item?id=41247806) - [An innovative cryptocurrency payment platform to provide payment solutions](https://github.com/Victor-Sava/LuminaPay)
 * [2024-08-14, 15:34:04](https://news.ycombinator.com/item?id=41247275) - [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
 * [2024-08-14, 15:30:46](https://news.ycombinator.com/item?id=41247238) - [A Different Kind of Keyboard](https://ianthehenry.com/posts/peggi/)
 * [2024-08-14, 15:28:43](https://news.ycombinator.com/item?id=41247211) - [Launch HN: Promi (YC S24) – AI-powered ecommerce discounts](https://news.ycombinator.com/item?id=41247211)
@@ -17,6 +20,7 @@
 * [2024-08-14, 14:40:02](https://news.ycombinator.com/item?id=41246643) - [Show HN: An open-source AI Gateway with integrated guardrails](https://github.com/Portkey-AI/gateway/wiki/Guardrails-on-the-Gateway-Framework)
 * [2024-08-14, 14:21:55](https://news.ycombinator.com/item?id=41246413) - [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
+* [2024-08-14, 14:02:44](https://news.ycombinator.com/item?id=41246204) - [Integration and Android](https://stratechery.com/2024/integration-and-android/)
 * [2024-08-14, 14:00:55](https://news.ycombinator.com/item?id=41246181) - [Project Oak by Google](https://github.com/project-oak/oak)
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas Sues GM for Unlaw­Ful­Ly Collecting and Selling Dri­Vers' Pri­Vate Data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
 * [2024-08-14, 13:47:11](https://news.ycombinator.com/item?id=41246015) - [Apple open-sources its Homomorphic Encryption library](https://www.thestack.technology/apple-open-sources-its-homomorphic-encryption-library/)
