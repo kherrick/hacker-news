@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney Seeks Dismissal Wrongful Death Lawsuit b/c Victim Is Disney+ Subscriber](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
+* [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 * [2024-08-14, 03:43:47](https://news.ycombinator.com/item?id=41242361) - [Introducing passkey support to Fastmail](https://www.fastmail.com/blog/introducing-passkeys/)
 * [2024-08-14, 01:56:35](https://news.ycombinator.com/item?id=41241825) - [Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
 * [2024-08-14, 01:20:11](https://news.ycombinator.com/item?id=41241637) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?proj=27.+rePalm&r=05.Projects)
