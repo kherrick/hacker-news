@@ -10,6 +10,7 @@
 * [2024-08-14, 18:04:30](https://news.ycombinator.com/item?id=41248847) - [Enzo Biochem must pay $4.5M for lousy security that led to ransomware disaster](https://www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/)
 * [2024-08-14, 17:50:32](https://news.ycombinator.com/item?id=41248707) - [X's new AI image generator will make anything](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
 * [2024-08-14, 17:38:32](https://news.ycombinator.com/item?id=41248564) - [Agile Is for Losers (2020)](https://www.hypermatic.com/articles/agile-is-for-losers/)
+* [2024-08-14, 17:36:47](https://news.ycombinator.com/item?id=41248542) - [Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all](https://news.ycombinator.com/item?id=41248542)
 * [2024-08-14, 17:29:01](https://news.ycombinator.com/item?id=41248453) - [WHO Declares Global Emergency over New Mpox Outbreak](https://www.nytimes.com/2024/08/14/health/mpox-who-emergency-africa.html)
 * [2024-08-14, 17:28:30](https://news.ycombinator.com/item?id=41248448) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-14, 17:27:04](https://news.ycombinator.com/item?id=41248438) - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
