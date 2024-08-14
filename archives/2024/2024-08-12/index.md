@@ -83,6 +83,7 @@
 * [2024-08-12, 12:00:51](https://news.ycombinator.com/item?id=41223457) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-08-12, 11:36:02](https://news.ycombinator.com/item?id=41223327) - [Neon Postgres vs. Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase)
 * [2024-08-12, 11:04:22](https://news.ycombinator.com/item?id=41223145) - [The Decline of Etiquette and the Rise of 'Boundaries'](https://www.theatlantic.com/family/archive/2022/11/people-oversharing-tmi-friendship-boundaries/671970/)
+* [2024-08-12, 11:04:13](https://news.ycombinator.com/item?id=41223143) - [Real-Time Human Attention Estimation on Device](https://testflight.apple.com/join/Z6UFZA6Y)
 * [2024-08-12, 10:52:28](https://news.ycombinator.com/item?id=41223085) - [India's Bharti Enterprises Now Largest Shareholder in UK's BT Group](https://www.theregister.com/2024/08/12/indias_bharti_enterprises_now_largest/)
 * [2024-08-12, 10:19:41](https://news.ycombinator.com/item?id=41222930) - [DEFCON attendees having mandatory daily room searches by conference block hotels](https://twitter.com/d0rkph0enix/status/1822814018643374260)
 * [2024-08-12, 10:04:26](https://news.ycombinator.com/item?id=41222862) - [Interstellar movie is implemented with Einstein's equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
