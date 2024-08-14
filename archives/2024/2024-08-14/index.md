@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
 * [2024-08-14, 14:21:55](https://news.ycombinator.com/item?id=41246413) - [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
+* [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas Sues GM for Unlaw­Ful­Ly Collecting and Selling Dri­Vers' Pri­Vate Data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
 * [2024-08-14, 13:47:11](https://news.ycombinator.com/item?id=41246015) - [Apple open-sources its Homomorphic Encryption library](https://www.thestack.technology/apple-open-sources-its-homomorphic-encryption-library/)
 * [2024-08-14, 13:36:40](https://news.ycombinator.com/item?id=41245901) - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
