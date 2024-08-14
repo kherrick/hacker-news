@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-13, 23:55:09",
+      "https://news.ycombinator.com/item?id=41241124"
+    ],
+    [
+      "LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023",
+      "https://outerbounds.com/blog/hacker-news-sentiment/"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 23:03:21",
       "https://news.ycombinator.com/item?id=41240755"
     ],
@@ -11,31 +21,11 @@
   ],
   [
     [
-      "2024-08-13, 22:55:36",
-      "https://news.ycombinator.com/item?id=41240716"
-    ],
-    [
-      "DOJ may want to break up Google",
-      "https://www.zdnet.com/article/report-doj-may-want-to-break-up-google/"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 22:01:22",
-      "https://news.ycombinator.com/item?id=41240300"
-    ],
-    [
-      "US Air Force avoids PFAS water cleanup, citing Supreme Court's Chevron ruling",
-      "https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 21:12:32",
       "https://news.ycombinator.com/item?id=41239913"
     ],
     [
-      "Rust Atomics and Locks by Mara Bos",
+      "Rust Atomics and Locks (2023)",
       "https://marabos.nl/atomics/"
     ]
   ],
@@ -61,16 +51,6 @@
   ],
   [
     [
-      "2024-08-13, 20:47:13",
-      "https://news.ycombinator.com/item?id=41239670"
-    ],
-    [
-      "Show HN: I built a tool to try artworks on your own wall",
-      "https://wallartlovers.com"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 19:14:29",
       "https://news.ycombinator.com/item?id=41238632"
     ],
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41238102"
     ],
     [
-      "All of Earth's water in a single sphere",
+      "All of Earth's water in a single sphere (2019)",
       "https://www.usgs.gov/media/images/all-earths-water-a-single-sphere"
     ]
   ],
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2024-08-13, 13:00:42",
+      "https://news.ycombinator.com/item?id=41235038"
+    ],
+    [
+      "Show HN: See the impact on your cloud costs as you code",
+      "https://news.ycombinator.com/item?id=41235038"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 12:50:54",
       "https://news.ycombinator.com/item?id=41234964"
     ],
@@ -231,12 +221,22 @@
   ],
   [
     [
-      "2024-08-12, 11:36:02",
-      "https://news.ycombinator.com/item?id=41223327"
+      "2024-08-12, 17:29:09",
+      "https://news.ycombinator.com/item?id=41227061"
     ],
     [
-      "Neon Postgres vs. Supabase",
-      "https://www.devtoolsacademy.com/blog/neon-vs-supabase"
+      "A Guide to CRT Photography",
+      "https://nyanpasu64.gitlab.io/blog/crt-photography/"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 09:23:29",
+      "https://news.ycombinator.com/item?id=41222655"
+    ],
+    [
+      "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images",
+      "https://donydchen.github.io/mvsplat/"
     ]
   ],
   [
