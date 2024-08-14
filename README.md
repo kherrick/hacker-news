@@ -2,7 +2,6 @@
 
 * [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney Seeks Dismissal Wrongful Death Lawsuit b/c Victim Is Disney+ Subscriber](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 * [2024-08-14, 03:43:47](https://news.ycombinator.com/item?id=41242361) - [Introducing passkey support to Fastmail](https://www.fastmail.com/blog/introducing-passkeys/)
-* [2024-08-14, 02:12:30](https://news.ycombinator.com/item?id=41241915) - [The TikTok Case Will Be Determined by What's Behind the Government's Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
 * [2024-08-14, 01:56:35](https://news.ycombinator.com/item?id=41241825) - [Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
 * [2024-08-14, 01:20:11](https://news.ycombinator.com/item?id=41241637) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?proj=27.+rePalm&r=05.Projects)
 * [2024-08-13, 23:55:09](https://news.ycombinator.com/item?id=41241124) - [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
@@ -25,6 +24,7 @@
 * [2024-08-12, 19:47:39](https://news.ycombinator.com/item?id=41228513) - [Entangled Photons Maintained Under New York Streets](https://physics.aps.org/articles/v17/125)
 * [2024-08-12, 19:21:47](https://news.ycombinator.com/item?id=41228278) - [National Instruments acquired by Emerson (2023)](https://www.ni.com/en/perspectives/letter-to-customers.html)
 * [2024-08-12, 17:40:09](https://news.ycombinator.com/item?id=41227179) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
+* [2024-08-12, 16:48:14](https://news.ycombinator.com/item?id=41226548) - [An approach to optimizing TypeScript type checking performance](https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload)
 * [2024-08-12, 09:23:29](https://news.ycombinator.com/item?id=41222655) - [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
 * [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
 * [2024-08-11, 14:14:51](https://news.ycombinator.com/item?id=41216323) - [Corporate Secrets Were Left Exposed. This Guy Found Them All](https://www.wired.com/story/secret-hunting-bill-demirkapi/)
