@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-14, 08:01:13](https://news.ycombinator.com/item?id=41243703) - [Show HN: I made a tool to help collect and validate startup ideas](https://www.keepmyidea.app)
 * [2024-08-14, 05:49:53](https://news.ycombinator.com/item?id=41242979) - [Grok-2 Beta Release](https://x.ai/blog/grok-2)
 * [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 * [2024-08-14, 01:56:35](https://news.ycombinator.com/item?id=41241825) - [Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
@@ -25,6 +24,7 @@
 * [2024-08-12, 16:48:14](https://news.ycombinator.com/item?id=41226548) - [An approach to optimizing TypeScript type checking performance](https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload)
 * [2024-08-12, 09:23:29](https://news.ycombinator.com/item?id=41222655) - [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
 * [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
+* [2024-08-12, 07:47:42](https://news.ycombinator.com/item?id=41222101) - [Kubernetes Cost Management with the New OpenCost Plugin for Headlamp](https://headlamp.dev/blog/2024/08/08/opencost-plugin)
 * [2024-08-12, 01:48:51](https://news.ycombinator.com/item?id=41220549) - [Safe curves for Elliptic Curve Cryptography [pdf]](https://eprint.iacr.org/2024/1265.pdf)
 * [2024-08-11, 14:14:51](https://news.ycombinator.com/item?id=41216323) - [Corporate Secrets Were Left Exposed. This Guy Found Them All](https://www.wired.com/story/secret-hunting-bill-demirkapi/)
 * [2024-08-11, 08:08:18](https://news.ycombinator.com/item?id=41214693) - [SD/MMC cards, a year later (2010)](http://lists.laptop.org/pipermail/devel/2010-August/029503.html)

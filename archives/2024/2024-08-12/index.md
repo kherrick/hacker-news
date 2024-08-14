@@ -86,6 +86,7 @@
 * [2024-08-12, 10:04:26](https://news.ycombinator.com/item?id=41222862) - [Interstellar movie is implemented with Einstein's equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
 * [2024-08-12, 09:23:29](https://news.ycombinator.com/item?id=41222655) - [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
 * [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
+* [2024-08-12, 07:47:42](https://news.ycombinator.com/item?id=41222101) - [Kubernetes Cost Management with the New OpenCost Plugin for Headlamp](https://headlamp.dev/blog/2024/08/08/opencost-plugin)
 * [2024-08-12, 06:56:23](https://news.ycombinator.com/item?id=41221814) - [Box2D 3.0 Released](https://box2d.org/posts/2024/08/releasing-box2d-3.0/)
 * [2024-08-12, 06:34:30](https://news.ycombinator.com/item?id=41221666) - [53% Less JavaScript with jQuery](https://twitter.com/classicgamertwr/status/1822691525463347442)
 * [2024-08-12, 06:17:32](https://news.ycombinator.com/item?id=41221558) - [I Quit Spotify](https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify)
