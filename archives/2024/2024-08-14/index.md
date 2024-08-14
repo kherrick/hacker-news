@@ -8,6 +8,7 @@
 * [2024-08-14, 17:38:32](https://news.ycombinator.com/item?id=41248564) - [Agile Is for Losers (2020)](https://www.hypermatic.com/articles/agile-is-for-losers/)
 * [2024-08-14, 17:29:01](https://news.ycombinator.com/item?id=41248453) - [WHO Declares Global Emergency over New Mpox Outbreak](https://www.nytimes.com/2024/08/14/health/mpox-who-emergency-africa.html)
 * [2024-08-14, 17:28:30](https://news.ycombinator.com/item?id=41248448) - [Against Names](https://steveklabnik.com/writing/against-names/)
+* [2024-08-14, 17:27:04](https://news.ycombinator.com/item?id=41248438) - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
 * [2024-08-14, 17:25:39](https://news.ycombinator.com/item?id=41248417) - [Show HN: SandFaux – Your Sandbox and Our Faux Data](https://www.sandfaux.com)
 * [2024-08-14, 17:14:58](https://news.ycombinator.com/item?id=41248315) - [Ask HN: Why are there so many 3D Gaussian splatting posts?](https://news.ycombinator.com/item?id=41248315)
 * [2024-08-14, 17:05:51](https://news.ycombinator.com/item?id=41248241) - [Korea EV explosion prompts charging rethink, sparks safety fears](https://www.japantimes.co.jp/business/2024/08/08/tech/korea-ev-explosion-safety-fears/)
