@@ -2,7 +2,7 @@
 
 * [2024-08-14, 19:13:44](https://news.ycombinator.com/item?id=41249504) - [ISPs worry that killing FCC net neutrality rules will come back to haunt them](https://arstechnica.com/tech-policy/2024/08/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans/)
 * [2024-08-14, 18:43:01](https://news.ycombinator.com/item?id=41249218) - [Personality Types and Hiring](https://vaishnavsunil.substack.com/p/you-seem-too-high-in-openness)
-* [2024-08-14, 17:36:47](https://news.ycombinator.com/item?id=41248542) - [Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all](https://news.ycombinator.com/item?id=41248542)
+* [2024-08-14, 18:29:40](https://news.ycombinator.com/item?id=41249080) - [My Trial as a War Criminal (By Leo Szilard, Inventor of Nuclear Chain Reaction)](https://en.wikipedia.org/wiki/My_Trial_as_a_War_Criminal)
 * [2024-08-14, 17:27:04](https://news.ycombinator.com/item?id=41248438) - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
