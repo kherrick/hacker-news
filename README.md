@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-14, 02:52:30](https://news.ycombinator.com/item?id=41242091) - [Meshtastic's Opposition to Proposed Changes on 900 MHz Band](https://meshtastic.org/blog/meshtastic-opposition-to-nextnav-proposed-changes/)
 * [2024-08-14, 02:12:30](https://news.ycombinator.com/item?id=41241915) - [The TikTok Case Will Be Determined by What's Behind the Government's Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
 * [2024-08-14, 01:20:11](https://news.ycombinator.com/item?id=41241637) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?proj=27.+rePalm&r=05.Projects)
 * [2024-08-13, 23:55:09](https://news.ycombinator.com/item?id=41241124) - [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
@@ -15,7 +16,6 @@
 * [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
 * [2024-08-13, 14:19:21](https://news.ycombinator.com/item?id=41235733) - [Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search](https://news.ycombinator.com/item?id=41235733)
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [AudioFlux: A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
-* [2024-08-13, 13:29:27](https://news.ycombinator.com/item?id=41235259) - [Show HN: Stipple Effect – a scriptable pixel art editor to make game art faster](https://github.com/jbunke/stipple-effect)
 * [2024-08-13, 13:00:42](https://news.ycombinator.com/item?id=41235038) - [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
@@ -25,11 +25,11 @@
 * [2024-08-12, 17:40:09](https://news.ycombinator.com/item?id=41227179) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-12, 09:23:29](https://news.ycombinator.com/item?id=41222655) - [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
 * [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
+* [2024-08-12, 01:45:21](https://news.ycombinator.com/item?id=41220532) - [CVBasic v0.6.0: The retro Z80 BASIC compiler now targets 6502](https://github.com/nanochess/CVBasic)
 * [2024-08-11, 19:10:06](https://news.ycombinator.com/item?id=41218600) - [Trying for twelve years to chase down and catch an antelope by foot [audio]](https://www.thisamericanlife.org/80/running-after-antelope)
 * [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [Captain Disillusion debunks David Beckham beach kicks [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
 * [2024-08-09, 14:24:19](https://news.ycombinator.com/item?id=41202134) - [Of mice and men and Magdalen: C. S. Lewis’s Oxford](https://thecritic.co.uk/issues/july-2024/of-mice-and-men-and-magdalen/)
-* [2024-08-09, 05:47:11](https://news.ycombinator.com/item?id=41199092) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 
 ## [Archives](archives/index.md)
 
