@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
+* [2024-08-14, 15:05:04](https://news.ycombinator.com/item?id=41246961) - [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge)
+* [2024-08-14, 14:40:02](https://news.ycombinator.com/item?id=41246643) - [Show HN: An open-source AI Gateway with integrated guardrails](https://github.com/Portkey-AI/gateway/wiki/Guardrails-on-the-Gateway-Framework)
 * [2024-08-14, 14:21:55](https://news.ycombinator.com/item?id=41246413) - [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas Sues GM for Unlaw­Ful­Ly Collecting and Selling Dri­Vers' Pri­Vate Data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
