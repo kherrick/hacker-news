@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-14, 03:26:32](https://news.ycombinator.com/item?id=41242280) - [Japan's Leader, Fumio Kishida, Will Step Down](https://www.nytimes.com/2024/08/13/world/asia/fumio-kishida-japan-prime-minister.html)
 * [2024-08-14, 02:52:30](https://news.ycombinator.com/item?id=41242091) - [Meshtastic's Opposition to Proposed Changes on 900 MHz Band](https://meshtastic.org/blog/meshtastic-opposition-to-nextnav-proposed-changes/)
 * [2024-08-14, 02:12:30](https://news.ycombinator.com/item?id=41241915) - [The TikTok Case Will Be Determined by What's Behind the Government's Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
 * [2024-08-14, 01:20:11](https://news.ycombinator.com/item?id=41241637) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?proj=27.+rePalm&r=05.Projects)
@@ -29,7 +30,6 @@
 * [2024-08-11, 19:10:06](https://news.ycombinator.com/item?id=41218600) - [Trying for twelve years to chase down and catch an antelope by foot [audio]](https://www.thisamericanlife.org/80/running-after-antelope)
 * [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [Captain Disillusion debunks David Beckham beach kicks [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
 * [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
-* [2024-08-09, 14:24:19](https://news.ycombinator.com/item?id=41202134) - [Of mice and men and Magdalen: C. S. Lewis’s Oxford](https://thecritic.co.uk/issues/july-2024/of-mice-and-men-and-magdalen/)
 
 ## [Archives](archives/index.md)
 
