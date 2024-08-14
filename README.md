@@ -8,7 +8,7 @@
 * [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 * [2024-08-14, 01:56:35](https://news.ycombinator.com/item?id=41241825) - [Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
 * [2024-08-13, 23:03:21](https://news.ycombinator.com/item?id=41240755) - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
-* [2024-08-13, 21:12:32](https://news.ycombinator.com/item?id=41239913) - [Rust Atomics and Locks (2023)](https://marabos.nl/atomics/)
+* [2024-08-13, 21:00:34](https://news.ycombinator.com/item?id=41239805) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
