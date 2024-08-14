@@ -7,6 +7,7 @@
 * [2024-08-14, 10:12:04](https://news.ycombinator.com/item?id=41244468) - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 * [2024-08-14, 09:14:30](https://news.ycombinator.com/item?id=41244172) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
 * [2024-08-14, 08:42:22](https://news.ycombinator.com/item?id=41243992) - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
+* [2024-08-14, 08:34:45](https://news.ycombinator.com/item?id=41243931) - [CVE-2024-38063, Windows TCP/IP Remote Code Execution Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063)
 * [2024-08-14, 08:01:13](https://news.ycombinator.com/item?id=41243703) - [Show HN: I made a tool to help collect and validate startup ideas](https://www.keepmyidea.app)
 * [2024-08-14, 06:21:26](https://news.ycombinator.com/item?id=41243147) - [Vaultwarden: Unofficial Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
 * [2024-08-14, 05:49:53](https://news.ycombinator.com/item?id=41242979) - [Grok-2 Beta Release](https://x.ai/blog/grok-2)
