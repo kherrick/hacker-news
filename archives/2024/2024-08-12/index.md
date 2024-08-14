@@ -43,6 +43,7 @@
 * [2024-08-12, 17:04:46](https://news.ycombinator.com/item?id=41226754) - [Tim Sweeney: \" Now Apple is demanding a 30% cut of all Patreon DONATIONS](https://twitter.com/TimSweeneyEpic/status/1823027135784558842)
 * [2024-08-12, 17:01:11](https://news.ycombinator.com/item?id=41226700) - [ProhostAI (YC S24) Is Hiring](https://www.ycombinator.com/companies/prohostai/jobs/E50Yl4C-founding-engineer)
 * [2024-08-12, 16:48:14](https://news.ycombinator.com/item?id=41226548) - [An approach to optimizing TypeScript type checking performance](https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload)
+* [2024-08-12, 16:47:19](https://news.ycombinator.com/item?id=41226538) - [Achieving the perfect golden record with graph data](https://aerospike.com/blog/entity-resolution-golden-record/)
 * [2024-08-12, 16:15:41](https://news.ycombinator.com/item?id=41226147) - [Apple to take 30% of all Patreon donations](https://twitter.com/KenneyNL/status/1822996361551184290)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
 * [2024-08-12, 15:54:40](https://news.ycombinator.com/item?id=41225871) - [NASA is about to make its most important safety decision in nearly a generation](https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/)
