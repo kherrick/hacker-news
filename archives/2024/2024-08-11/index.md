@@ -42,6 +42,7 @@
 * [2024-08-11, 15:52:00](https://news.ycombinator.com/item?id=41217037) - [CrowdStrike accepting the PwnieAwards for \"most epic fail\" at defcon](https://twitter.com/singe/status/1822324795645575263)
 * [2024-08-11, 14:48:26](https://news.ycombinator.com/item?id=41216560) - [Finite State Machine Designer](https://madebyevan.com/fsm/)
 * [2024-08-11, 14:27:30](https://news.ycombinator.com/item?id=41216399) - [The Coffee Machine Hiring Test](https://manuel.darcemont.fr/posts/coffee-machine-test/)
+* [2024-08-11, 14:14:51](https://news.ycombinator.com/item?id=41216323) - [Corporate Secrets Were Left Exposed. This Guy Found Them All](https://www.wired.com/story/secret-hunting-bill-demirkapi/)
 * [2024-08-11, 13:41:59](https://news.ycombinator.com/item?id=41216087) - [The Imminent Student-Loan Disaster](https://www.jamesgmartin.center/2024/08/the-imminent-student-loan-disaster-were-not-talking-about/)
 * [2024-08-11, 13:41:41](https://news.ycombinator.com/item?id=41216083) - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
 * [2024-08-11, 13:20:32](https://news.ycombinator.com/item?id=41215927) - [X's likelihood of prevailing in boycott suit is higher than I thought](https://shaungallagher.pressbin.com/blog/group-boycotts.html)
