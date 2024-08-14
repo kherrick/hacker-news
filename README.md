@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-14, 09:14:30](https://news.ycombinator.com/item?id=41244172) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
+* [2024-08-14, 08:42:22](https://news.ycombinator.com/item?id=41243992) - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 * [2024-08-14, 05:49:53](https://news.ycombinator.com/item?id=41242979) - [Grok-2 Beta Release](https://x.ai/blog/grok-2)
 * [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 * [2024-08-14, 01:56:35](https://news.ycombinator.com/item?id=41241825) - [Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
@@ -8,7 +10,6 @@
 * [2024-08-13, 21:00:34](https://news.ycombinator.com/item?id=41239805) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
-* [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
 * [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 * [2024-08-13, 15:14:54](https://news.ycombinator.com/item?id=41236275) - [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
 * [2024-08-13, 15:14:47](https://news.ycombinator.com/item?id=41236273) - [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
@@ -20,7 +21,6 @@
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-12, 19:47:39](https://news.ycombinator.com/item?id=41228513) - [Entangled Photons Maintained Under New York Streets](https://physics.aps.org/articles/v17/125)
-* [2024-08-12, 17:40:09](https://news.ycombinator.com/item?id=41227179) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-12, 17:39:45](https://news.ycombinator.com/item?id=41227172) - [Why we picked AGPL](https://blog.paradedb.com/pages/agpl)
 * [2024-08-12, 16:48:14](https://news.ycombinator.com/item?id=41226548) - [An approach to optimizing TypeScript type checking performance](https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload)
 * [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
