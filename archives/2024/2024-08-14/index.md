@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 17:29:01](https://news.ycombinator.com/item?id=41248453) - [WHO Declares Global Emergency over New Mpox Outbreak](https://www.nytimes.com/2024/08/14/health/mpox-who-emergency-africa.html)
+* [2024-08-14, 17:25:39](https://news.ycombinator.com/item?id=41248417) - [Show HN: SandFaux – Your Sandbox and Our Faux Data](https://www.sandfaux.com)
 * [2024-08-14, 17:05:51](https://news.ycombinator.com/item?id=41248241) - [Korea EV explosion prompts charging rethink, sparks safety fears](https://www.japantimes.co.jp/business/2024/08/08/tech/korea-ev-explosion-safety-fears/)
 * [2024-08-14, 17:04:37](https://news.ycombinator.com/item?id=41248232) - [Neighbours turn on each other in Portofino air-con crackdown](https://www.theguardian.com/world/article/2024/aug/12/portofino-air-con-crackdown-neighbours-italy)
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
