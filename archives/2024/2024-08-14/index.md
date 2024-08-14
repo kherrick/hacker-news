@@ -23,6 +23,7 @@
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
 * [2024-08-14, 16:51:00](https://news.ycombinator.com/item?id=41248112) - [Mark Zuckerberg unveils giant Roman sculpture of his wife – AP News](https://apnews.com/video/social-media-national-national-2a82183dc6804624bb49de45ed710a9d)
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [The \"3B People\" National Public Data Breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
+* [2024-08-14, 16:37:38](https://news.ycombinator.com/item?id=41247992) - [California bill to ban food dyes in schools may have nationwide impact](https://www.thenewlede.org/2024/08/california-bill-to-ban-food-dyes-in-schools-may-have-nationwide-impact/)
 * [2024-08-14, 16:35:52](https://news.ycombinator.com/item?id=41247982) - [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40)
 * [2024-08-14, 16:25:39](https://news.ycombinator.com/item?id=41247881) - [Making 'food out of thin air'](https://www.noemamag.com/making-food-out-of-thin-air/)
 * [2024-08-14, 16:22:40](https://news.ycombinator.com/item?id=41247841) - [How to triage patients and run a ER during a mass casualty incident](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
