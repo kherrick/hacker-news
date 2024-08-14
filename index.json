@@ -1,32 +1,22 @@
 [
   [
     [
-      "2024-08-14, 19:13:44",
-      "https://news.ycombinator.com/item?id=41249504"
-    ],
-    [
-      "ISPs worry that killing FCC net neutrality rules will come back to haunt them",
-      "https://arstechnica.com/tech-policy/2024/08/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 18:04:30",
-      "https://news.ycombinator.com/item?id=41248847"
-    ],
-    [
-      "Enzo Biochem must pay $4.5M for lousy security that led to ransomware disaster",
-      "https://www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/"
-    ]
-  ],
-  [
-    [
       "2024-08-14, 17:36:47",
       "https://news.ycombinator.com/item?id=41248542"
     ],
     [
       "Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all",
       "https://news.ycombinator.com/item?id=41248542"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 17:29:30",
+      "https://news.ycombinator.com/item?id=41248460"
+    ],
+    [
+      "Algorithms through the lens of symbolic pattern matching",
+      "https://symbolica.io/posts/pattern_matching/"
     ]
   ],
   [
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2024-08-14, 16:37:38",
-      "https://news.ycombinator.com/item?id=41247992"
+      "2024-08-14, 16:39:53",
+      "https://news.ycombinator.com/item?id=41248015"
     ],
     [
-      "California bill to ban food dyes in schools may have nationwide impact",
-      "https://www.thenewlede.org/2024/08/california-bill-to-ban-food-dyes-in-schools-may-have-nationwide-impact/"
+      "Developers can soon offer in‑app NFC transactions using the Secure Element",
+      "https://www.apple.com/newsroom/2024/08/developers-can-soon-offer-in-app-nfc-transactions-using-the-secure-element/"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "How one ED mobilized his department during a mass casualty incident (2017)",
       "https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 16:13:58",
+      "https://news.ycombinator.com/item?id=41247727"
+    ],
+    [
+      "Windows TCP/IP Remote Code Execution Vulnerability",
+      "https://www.cve.org/CVERecord?id=CVE-2024-38063"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Hilary Mantel Reviews “A Life of One's Own/An Experiment in Leisure” (1986)",
       "https://literaryreview.co.uk/journeys-into-the-interior"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 15:16:38",
-      "https://news.ycombinator.com/item?id=41247083"
-    ],
-    [
-      "Kiota: OpenAPI-based HTTP client code generator",
-      "https://github.com/microsoft/kiota"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Re-fixing Servo's event-loop",
       "https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 12:12:23",
+      "https://news.ycombinator.com/item?id=41245159"
+    ],
+    [
+      "Font with Built-In Syntax Highlighting",
+      "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
     ]
   ],
   [
