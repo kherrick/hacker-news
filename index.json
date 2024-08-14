@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 02:52:30",
+      "https://news.ycombinator.com/item?id=41242091"
+    ],
+    [
+      "Meshtastic's Opposition to Proposed Changes on 900 MHz Band",
+      "https://meshtastic.org/blog/meshtastic-opposition-to-nextnav-proposed-changes/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 02:12:30",
       "https://news.ycombinator.com/item?id=41241915"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-08-13, 13:29:27",
-      "https://news.ycombinator.com/item?id=41235259"
-    ],
-    [
-      "Show HN: Stipple Effect – a scriptable pixel art editor to make game art faster",
-      "https://github.com/jbunke/stipple-effect"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 13:00:42",
       "https://news.ycombinator.com/item?id=41235038"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-08-12, 01:45:21",
+      "https://news.ycombinator.com/item?id=41220532"
+    ],
+    [
+      "CVBasic v0.6.0: The retro Z80 BASIC compiler now targets 6502",
+      "https://github.com/nanochess/CVBasic"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 19:10:06",
       "https://news.ycombinator.com/item?id=41218600"
     ],
@@ -287,16 +297,6 @@
     [
       "Of mice and men and Magdalen: C. S. Lewis’s Oxford",
       "https://thecritic.co.uk/issues/july-2024/of-mice-and-men-and-magdalen/"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 05:47:11",
-      "https://news.ycombinator.com/item?id=41199092"
-    ],
-    [
-      "Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server",
-      "https://blog.orange.tw/2024/08/confusion-attacks-en.html"
     ]
   ]
 ]
