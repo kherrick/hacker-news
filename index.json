@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-14, 17:05:51",
-      "https://news.ycombinator.com/item?id=41248241"
+      "2024-08-14, 17:29:01",
+      "https://news.ycombinator.com/item?id=41248453"
     ],
     [
-      "Korea EV explosion prompts charging rethink, sparks safety fears",
-      "https://www.japantimes.co.jp/business/2024/08/08/tech/korea-ev-explosion-safety-fears/"
+      "WHO Declares Global Emergency over New Mpox Outbreak",
+      "https://www.nytimes.com/2024/08/14/health/mpox-who-emergency-africa.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 17:25:39",
+      "https://news.ycombinator.com/item?id=41248417"
+    ],
+    [
+      "Show HN: SandFaux – Your Sandbox and Our Faux Data",
+      "https://www.sandfaux.com"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41248104"
     ],
     [
-      "The \"3B People\" National Public Data Breach",
+      "Inside the \"3 billion people\" national public data breach",
       "https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41246181"
     ],
     [
-      "Project Oak by Google",
+      "Project Oak: Meaningful control of data in distributed systems",
       "https://github.com/project-oak/oak"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-08-13, 12:50:54",
-      "https://news.ycombinator.com/item?id=41234964"
-    ],
-    [
-      "The Webb Telescope further deepens the Hubble tension controversy in cosmology",
-      "https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/"
-    ]
-  ],
-  [
-    [
       "2024-08-12, 17:24:40",
       "https://news.ycombinator.com/item?id=41227011"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-08-12, 09:23:29",
+      "https://news.ycombinator.com/item?id=41222655"
+    ],
+    [
+      "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images",
+      "https://donydchen.github.io/mvsplat/"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 09:01:28",
       "https://news.ycombinator.com/item?id=41222528"
     ],
@@ -287,16 +297,6 @@
     [
       "Safe curves for Elliptic Curve Cryptography [pdf]",
       "https://eprint.iacr.org/2024/1265.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 15:53:38",
-      "https://news.ycombinator.com/item?id=41217058"
-    ],
-    [
-      "Don't make your own game engine [video]",
-      "https://www.youtube.com/watch?v=KgY6LQ46F5M"
     ]
   ]
 ]
