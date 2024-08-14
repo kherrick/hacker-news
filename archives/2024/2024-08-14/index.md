@@ -9,6 +9,7 @@
 * [2024-08-14, 18:43:01](https://news.ycombinator.com/item?id=41249218) - [Personality Types and Hiring](https://vaishnavsunil.substack.com/p/you-seem-too-high-in-openness)
 * [2024-08-14, 18:29:40](https://news.ycombinator.com/item?id=41249080) - [My Trial as a War Criminal (By Leo Szilard, Inventor of Nuclear Chain Reaction)](https://en.wikipedia.org/wiki/My_Trial_as_a_War_Criminal)
 * [2024-08-14, 18:28:38](https://news.ycombinator.com/item?id=41249066) - [Who Goes Nazi? (1941)](https://harpers.org/archive/1941/08/who-goes-nazi/)
+* [2024-08-14, 18:19:37](https://news.ycombinator.com/item?id=41248984) - [Apple Pushes Ahead with Tabletop Home Device in Shift to Robotics](https://www.bloomberg.com/news/articles/2024-08-14/apple-pushes-ahead-with-tabletop-home-device-in-shift-to-robotics)
 * [2024-08-14, 18:04:30](https://news.ycombinator.com/item?id=41248847) - [Enzo Biochem must pay $4.5M for lousy security that led to ransomware disaster](https://www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/)
 * [2024-08-14, 17:50:32](https://news.ycombinator.com/item?id=41248707) - [X's new AI image generator will make anything](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
 * [2024-08-14, 17:38:32](https://news.ycombinator.com/item?id=41248564) - [Agile Is for Losers (2020)](https://www.hypermatic.com/articles/agile-is-for-losers/)

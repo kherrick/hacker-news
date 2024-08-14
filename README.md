@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-14, 21:03:45](https://news.ycombinator.com/item?id=41250470) - [AltStore PAL receives Epic Games MegaGrant, will no longer require subscription](https://fosstodon.org/@altstore/112962388607680148)
+* [2024-08-14, 18:19:37](https://news.ycombinator.com/item?id=41248984) - [Apple Pushes Ahead with Tabletop Home Device in Shift to Robotics](https://www.bloomberg.com/news/articles/2024-08-14/apple-pushes-ahead-with-tabletop-home-device-in-shift-to-robotics)
 * [2024-08-14, 17:36:47](https://news.ycombinator.com/item?id=41248542) - [Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all](https://news.ycombinator.com/item?id=41248542)
 * [2024-08-14, 17:29:30](https://news.ycombinator.com/item?id=41248460) - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
 * [2024-08-14, 17:27:04](https://news.ycombinator.com/item?id=41248438) - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
@@ -13,7 +14,6 @@
 * [2024-08-14, 15:27:01](https://news.ycombinator.com/item?id=41247193) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 * [2024-08-14, 15:22:54](https://news.ycombinator.com/item?id=41247153) - [Poor Richard's Almanack](https://blog.plover.com/calendar/poor-richards-almanack.html)
 * [2024-08-14, 15:21:08](https://news.ycombinator.com/item?id=41247132) - [Hilary Mantel Reviews “A Life of One's Own/An Experiment in Leisure” (1986)](https://literaryreview.co.uk/journeys-into-the-interior)
-* [2024-08-14, 15:16:38](https://news.ycombinator.com/item?id=41247083) - [Kiota: OpenAPI-based HTTP client code generator](https://github.com/microsoft/kiota)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 14:42:43](https://news.ycombinator.com/item?id=41246686) - [Show HN: Double – Design and invest in your own stock index](https://news.ycombinator.com/item?id=41246686)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
