@@ -71,6 +71,7 @@
 * [2024-08-12, 13:37:42](https://news.ycombinator.com/item?id=41224225) - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 * [2024-08-12, 13:32:12](https://news.ycombinator.com/item?id=41224173) - [\"Does astrology work? We tested the ability of 152 astrologers\"](https://threadreaderapp.com/thread/1822663687145972105.html)
 * [2024-08-12, 13:30:45](https://news.ycombinator.com/item?id=41224164) - [Google Down](https://downdetector.com/status/google/)
+* [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 13:22:29](https://news.ycombinator.com/item?id=41224089) - [What startup founders have in common](https://slimsaas.com/blog/data-driven-analysis-startup-success)
 * [2024-08-12, 13:13:02](https://news.ycombinator.com/item?id=41224009) - [2024 Paris Olympics: No, breaking shouldn't be an Olympic sport](https://sports.yahoo.com/2024-paris-olympics-no-breaking-shouldnt-be-an-olympic-sport-190421401.html)
 * [2024-08-12, 13:02:31](https://news.ycombinator.com/item?id=41223934) - [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
