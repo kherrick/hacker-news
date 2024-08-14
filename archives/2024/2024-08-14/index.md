@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 15:34:04](https://news.ycombinator.com/item?id=41247275) - [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
 * [2024-08-14, 15:30:46](https://news.ycombinator.com/item?id=41247238) - [A Different Kind of Keyboard](https://ianthehenry.com/posts/peggi/)
 * [2024-08-14, 15:28:43](https://news.ycombinator.com/item?id=41247211) - [Launch HN: Promi (YC S24) – AI-powered ecommerce discounts](https://news.ycombinator.com/item?id=41247211)
 * [2024-08-14, 15:27:01](https://news.ycombinator.com/item?id=41247193) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
