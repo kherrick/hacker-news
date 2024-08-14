@@ -51,6 +51,7 @@
 * [2024-08-11, 12:33:40](https://news.ycombinator.com/item?id=41215724) - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
 * [2024-08-11, 12:24:43](https://news.ycombinator.com/item?id=41215685) - [The Authoritarian Playbook](https://protectdemocracy.org/work/the-authoritarian-playbook/)
 * [2024-08-11, 12:22:50](https://news.ycombinator.com/item?id=41215679) - [Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
+* [2024-08-11, 12:16:08](https://news.ycombinator.com/item?id=41215649) - [A Backstage Pass to the Production of the MoonSwatch and Scuba Fifty Fathoms](https://www.hodinkee.com/articles/a-backstage-pass-to-the-production-of-the-moonswatch-and-scuba-fifty-fathoms)
 * [2024-08-11, 12:11:22](https://news.ycombinator.com/item?id=41215626) - [A camera that shoots 40k FPS decided the 100-meter sprint final](https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/)
 * [2024-08-11, 12:02:55](https://news.ycombinator.com/item?id=41215593) - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
 * [2024-08-11, 11:35:16](https://news.ycombinator.com/item?id=41215489) - [Samsung's EV batteries with 600Mi/1000KM range, 9min charging and 20years life](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)

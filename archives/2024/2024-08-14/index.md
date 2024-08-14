@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 12:00:35](https://news.ycombinator.com/item?id=41245073) - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
+* [2024-08-14, 11:54:08](https://news.ycombinator.com/item?id=41245032) - [London Tube map redesigned by Essex lecturer goes viral](https://www.bbc.co.uk/news/articles/c9843r0dz3go)
+* [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler, Inventor of Cut/Paste, Has Died](https://www.bbc.com/news/world-us-canada-51567695)
 * [2024-08-14, 10:50:14](https://news.ycombinator.com/item?id=41244648) - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
 * [2024-08-14, 10:12:04](https://news.ycombinator.com/item?id=41244468) - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 * [2024-08-14, 09:14:30](https://news.ycombinator.com/item?id=41244172) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
@@ -16,6 +19,7 @@
 * [2024-08-14, 03:43:47](https://news.ycombinator.com/item?id=41242361) - [Introducing passkey support to Fastmail](https://www.fastmail.com/blog/introducing-passkeys/)
 * [2024-08-14, 03:26:32](https://news.ycombinator.com/item?id=41242280) - [Japan's Leader, Fumio Kishida, Will Step Down](https://www.nytimes.com/2024/08/13/world/asia/fumio-kishida-japan-prime-minister.html)
 * [2024-08-14, 02:52:30](https://news.ycombinator.com/item?id=41242091) - [Meshtastic's Opposition to Proposed Changes on 900 MHz Band](https://meshtastic.org/blog/meshtastic-opposition-to-nextnav-proposed-changes/)
+* [2024-08-14, 02:19:17](https://news.ycombinator.com/item?id=41241942) - [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
 * [2024-08-14, 02:12:30](https://news.ycombinator.com/item?id=41241915) - [The TikTok Case Will Be Determined by What's Behind the Government's Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
 * [2024-08-14, 01:56:35](https://news.ycombinator.com/item?id=41241825) - [Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
 * [2024-08-14, 01:27:40](https://news.ycombinator.com/item?id=41241682) - [Former Google CEO blames remote work for company's struggles](https://www.sfgate.com/tech/article/eric-schmidt-google-remote-work-19655216.php)
