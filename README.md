@@ -14,7 +14,6 @@
 * [2024-08-14, 15:28:43](https://news.ycombinator.com/item?id=41247211) - [Launch HN: Promi (YC S24) – AI-powered ecommerce discounts](https://news.ycombinator.com/item?id=41247211)
 * [2024-08-14, 15:27:01](https://news.ycombinator.com/item?id=41247193) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 * [2024-08-14, 15:22:54](https://news.ycombinator.com/item?id=41247153) - [Poor Richard's Almanack](https://blog.plover.com/calendar/poor-richards-almanack.html)
-* [2024-08-14, 15:21:08](https://news.ycombinator.com/item?id=41247132) - [Hilary Mantel Reviews “A Life of One's Own/An Experiment in Leisure” (1986)](https://literaryreview.co.uk/journeys-into-the-interior)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 14:42:43](https://news.ycombinator.com/item?id=41246686) - [Show HN: Double – Design and invest in your own stock index](https://news.ycombinator.com/item?id=41246686)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
@@ -30,6 +29,7 @@
 * [2024-08-13, 14:11:36](https://news.ycombinator.com/item?id=41235662) - [I put a toaster in the dishwasher (2012)](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html)
 * [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 09:20:32](https://news.ycombinator.com/item?id=41222632) - [Imec demonstrates logic and DRAM structures using High NA EUV Lithography](https://www.imec-int.com/en/press/imec-demonstrates-logic-and-dram-structures-using-high-na-euv-lithography)
+* [2024-08-11, 21:41:31](https://news.ycombinator.com/item?id=41219501) - [Cutaway drawings of nuclear reactors around the world](https://econtent.unm.edu/digital/collection/nuceng/search)
 
 ## [Archives](archives/index.md)
 

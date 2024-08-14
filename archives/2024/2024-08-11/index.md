@@ -11,6 +11,7 @@
 * [2024-08-11, 23:24:12](https://news.ycombinator.com/item?id=41219962) - [KnitScape](https://depts.washington.edu/machines/projects/knitscape/)
 * [2024-08-11, 22:23:47](https://news.ycombinator.com/item?id=41219723) - [Julia Margaret Cameron](https://www.lrb.co.uk/the-paper/v46/n16/susannah-clapp/on-julia-margaret-cameron)
 * [2024-08-11, 21:53:14](https://news.ycombinator.com/item?id=41219562) - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+* [2024-08-11, 21:41:31](https://news.ycombinator.com/item?id=41219501) - [Cutaway drawings of nuclear reactors around the world](https://econtent.unm.edu/digital/collection/nuceng/search)
 * [2024-08-11, 21:27:48](https://news.ycombinator.com/item?id=41219440) - [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
 * [2024-08-11, 21:18:47](https://news.ycombinator.com/item?id=41219385) - [The Sarumans and the Radagasts (2023)](https://medium.com/@komorama/the-sarumans-and-the-radagasts-6392f889d142)
 * [2024-08-11, 21:08:35](https://news.ycombinator.com/item?id=41219325) - [UK police commissioner threatens to extradite,jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)
