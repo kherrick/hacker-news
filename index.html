@@ -129,6 +129,131 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41247023">
+          <h3>
+            <a class="item" href="https://ytch.xyz"
+              >Show HN: If YouTube had actual channels</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-14 @ 15:10:06</span
+              ><span class="points-container"
+                >Points: <span class="points">77</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41247023"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41246961">
+          <h3>
+            <a class="item" href="https://nesslabs.com/curse-of-knowledge"
+              >The Curse of Knowledge</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-14 @ 15:05:04</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41246961"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41246643">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/Portkey-AI/gateway/wiki/Guardrails-on-the-Gateway-Framework"
+              >Show HN: An open-source AI Gateway with integrated guardrails</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-14 @ 14:40:02</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41246643"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I've been developing Portkey Gateway, an open-source AI gateway
+                that's now processing billions of tokens daily across 200+ LLMs.
+                Today, we're launching a significant update: integrated
+                Guardrails at the gateway level.
+              </p>
+              <p>
+                Key technical features: 1. Guardrails as middleware: We've
+                implemented a hooks architecture that allows guardrails to act
+                as middleware in the request/response flow. This enables
+                real-time LLM output evaluation and transformation. 2. Flexible
+                orchestration: The gateway can now route requests based on
+                guardrail verdicts. This allows for complex logic like fallbacks
+                to different models or prompts based on output quality. 3.
+                Plugin system: We've designed a modular plugin system that
+                allows integration of various guardrail implementations (e.g.,
+                anthropic/constrained-llm, microsoft/guidance). 4. Stateless
+                design: The guardrails implementation maintains the gateway's
+                stateless nature, ensuring scalability and allowing for easy
+                horizontal scaling. 5. Unified API: Despite the added
+                complexity, we've maintained our unified API across different
+                LLM providers, now extended to include guardrail configurations.
+              </p>
+              <p>
+                Implementation details: * The guardrails are implemented as
+                async functions in the request pipeline. * We use a combination
+                of regex and LLM-based evaluation for output validation. * The
+                system supports both pre-processing (input modification) and
+                post-processing (output filtering/transformation) guardrails.
+              </p>
+              <p>
+                Performance impact: * Latency increase is minimal (&lt;50ms) for
+                most deterministic guardrails. * We've implemented caching
+                mechanisms to reduce repeated evaluations. * Since the gateway
+                lives on the edge, it avoids longer roundtrips
+              </p>
+              <p>
+                Challenges we're still tackling: * Balancing strict guardrails
+                with maintaining model creativity * Standardizing evaluation
+                metrics across different types of guardrails * Handling
+                guardrail false positives/negatives effectively
+              </p>
+              <p>
+                We believe this approach of integrating guardrails at the
+                gateway level provides a powerful tool for managing LLM behavior
+                in production environments.
+              </p>
+              <p>
+                The code is open-source, and we welcome contributions and
+                feedback. We're particularly interested in hearing about
+                specific use cases or challenges you've faced in implementing
+                reliable LLM systems.
+              </p>
+              <p>
+                Detailed documentation:
+                <a href="https://portkey.wiki/guardrails"
+                  >https://portkey.wiki/guardrails</a
+                >
+              </p>
+              <p>
+                What are your thoughts on this approach? Are there specific
+                guardrail implementations or orchestration patterns you'd like
+                to see added?
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="41246211">
           <h3>
             <a class="item" href="https://github.com/sdushantha/tmpmail"
@@ -140,7 +265,7 @@
             <h4>
               <span>2024-08-14 @ 14:03:42</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41246211"
                   >Comments</a
@@ -161,7 +286,7 @@
             <h4>
               <span>2024-08-14 @ 13:36:40</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41245901"
                   >Comments</a
@@ -199,11 +324,11 @@
             <h4>
               <span>2024-08-14 @ 11:22:29</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41244847"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -218,11 +343,11 @@
             <h4>
               <span>2024-08-14 @ 10:50:14</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41244648"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
@@ -241,7 +366,7 @@
             <h4>
               <span>2024-08-14 @ 10:12:04</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41244468"
                   >Comments</a
@@ -261,11 +386,11 @@
             <h4>
               <span>2024-08-14 @ 10:03:32</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41244423"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -306,11 +431,11 @@
             <h4>
               <span>2024-08-14 @ 03:53:54</span
               ><span class="points-container"
-                >Points: <span class="points">505</span></span
+                >Points: <span class="points">510</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41242400"
                   >Comments</a
-                ><span class="descendants">: 271</span></span
+                ><span class="descendants">: 273</span></span
               >
             </h4>
           </section>
@@ -325,7 +450,7 @@
             <h4>
               <span>2024-08-14 @ 02:19:17</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41241942"
                   >Comments</a
@@ -347,7 +472,7 @@
             <h4>
               <span>2024-08-13 @ 21:00:10</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41239800"
                   >Comments</a
@@ -368,11 +493,11 @@
             <h4>
               <span>2024-08-13 @ 18:32:52</span
               ><span class="points-container"
-                >Points: <span class="points">685</span></span
+                >Points: <span class="points">687</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41238102"
                   >Comments</a
-                ><span class="descendants">: 254</span></span
+                ><span class="descendants">: 255</span></span
               >
             </h4>
           </section>
@@ -390,11 +515,11 @@
             <h4>
               <span>2024-08-13 @ 16:02:57</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41236718"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -416,7 +541,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41236275"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -432,7 +557,7 @@
             <h4>
               <span>2024-08-13 @ 15:14:47</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41236273"
                   >Comments</a
@@ -547,110 +672,9 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41235789"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41235733">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=41235733"
-              >Launch HN: Shaped (YC W22) – AI-Powered Recommendations and
-              Search</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-13 @ 14:19:21</span
-              ><span class="points-container"
-                >Points: <span class="points">120</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41235733"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.shaped.ai/">https://www.shaped.ai/</a>).
-              We're building a semantic recommendation and search platform for
-              marketplaces and content companies.
-              <p>
-                There’s a sandbox at
-                <a href="https://play.shaped.ai/dashboard/home"
-                  >https://play.shaped.ai/dashboard/home</a
-                >
-                that you can use to explore demo models and evaluate results
-                interactively. And we have a demo video at
-                <a href="https://www.youtube.com/watch?v=toCsUYQnJ_g"
-                  >https://www.youtube.com/watch?v=toCsUYQnJ_g</a
-                >.
-              </p>
-              <p>
-                The explosion of online content, driven by both individuals and
-                generative tools, is making it harder than ever for users to
-                sift through the noise and find what's relevant to them.
-                Platforms like Netflix, TikTok, and Meta have set a high bar,
-                proving that personalized experiences are key to cutting through
-                the clutter and engaging users effectively.
-              </p>
-              <p>
-                Despite advancements in AI and semantic infrastructure like
-                vector stores, building a truly relevant recommendation or
-                search system is still extremely difficult. It's not just about
-                deploying the latest LLM—the difficulties lie in creating the
-                infrastructure to orchestrate the components seamlessly.
-                Consider the challenge of continuously fine-tuning models with
-                fresh data while simultaneously serving real-time personalized
-                recommendations to millions of users. It requires a delicate
-                balancing act of speed, scale, and sophistication.
-              </p>
-              <p>
-                Our goal is to empower any technical team to build
-                state-of-the-art recommendation and search systems, regardless
-                of their data infrastructure. Here's how we eliminate the
-                friction:
-              </p>
-              <p>
-                Solving Data Challenges: We integrate directly with your data
-                sources—Segment, Amplitude, Rudderstack, and more. We handle the
-                complexities of real-time streaming, ETLs, and data quality
-                robustness, so you can get started in minutes.
-              </p>
-              <p>
-                Leveraging Cutting-Edge Models – we utilize state-of-the-art
-                large-scale language, image, and tabular encoding models. This
-                not only extracts maximum value from your data but also
-                simplifies the process, even with unstructured data.
-              </p>
-              <p>
-                Real-time Optimization: Unlike vision or NLP tasks,
-                recommendation system performance hinges on real-time
-                capabilities—training, feature engineering, and serving. We've
-                architected our platform with this at its core.
-              </p>
-              <p>
-                We're already helping many companies build relevant
-                recommendations and search for their users. Outdoorsy, for
-                example, uses us to power its RV rental marketplace. E-commerce
-                businesses like DribbleUp and startups like Overlap have seen up
-                to a 40% increase in both conversions and engagement when
-                integrating Shaped.
-              </p>
-              <p>
-                A bit about us: Tullie was previously an AI Researcher at FAIR
-                working on multimodal ranking at Meta. He released PyTorchVideo,
-                a widely-used video understanding library, which contains the
-                video understanding models that power systems like IG Reels. Dan
-                led product research at Afterpay and Uber, driven by how
-                behavioral psychology influences user experience.
-              </p>
-              <p>
-                We've been heads down building Shaped for quite a while, so this
-                launch feels like a big milestone. We'd love to hear your
-                feedback – technical deep dives, feature requests, you name it.
-                Let us know what you think!
-              </p>
-            </div>
           </section>
         </section>
         <section id="41235462">
@@ -663,7 +687,7 @@
             <h4>
               <span>2024-08-13 @ 13:51:27</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41235462"
                   >Comments</a
@@ -754,7 +778,7 @@
             <h4>
               <span>2024-08-13 @ 12:50:54</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41234964"
                   >Comments</a
@@ -773,30 +797,11 @@
             <h4>
               <span>2024-08-12 @ 19:47:39</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41228513"
                   >Comments</a
                 ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41227172">
-          <h3>
-            <a class="item" href="https://blog.paradedb.com/pages/agpl"
-              >Why we picked AGPL</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-12 @ 17:39:45</span
-              ><span class="points-container"
-                >Points: <span class="points">197</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41227172"
-                  >Comments</a
-                ><span class="descendants">: 182</span></span
               >
             </h4>
           </section>
@@ -814,7 +819,7 @@
             <h4>
               <span>2024-08-12 @ 17:24:40</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41227011"
                   >Comments</a
@@ -835,11 +840,11 @@
             <h4>
               <span>2024-08-12 @ 16:48:14</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41226548"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -856,11 +861,11 @@
             <h4>
               <span>2024-08-12 @ 13:27:39</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41224128"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -876,7 +881,7 @@
             <h4>
               <span>2024-08-12 @ 09:23:29</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41222655"
                   >Comments</a
@@ -897,33 +902,11 @@
             <h4>
               <span>2024-08-12 @ 09:01:28</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41222528"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41222101">
-          <h3>
-            <a
-              class="item"
-              href="https://headlamp.dev/blog/2024/08/08/opencost-plugin"
-              >Kubernetes Cost Management with the New OpenCost Plugin for
-              Headlamp</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-12 @ 07:47:42</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41222101"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -938,7 +921,7 @@
             <h4>
               <span>2024-08-12 @ 01:48:51</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41220549"
                   >Comments</a
@@ -947,21 +930,23 @@
             </h4>
           </section>
         </section>
-        <section id="41212297">
+        <section id="41220079">
           <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=oVWsbpdDxTg"
-              >Captain Disillusion debunks David Beckham beach kicks [video]</a
+            <a
+              class="item"
+              href="https://blog.alexwendland.com/2024-03-03-can-a-product-with-0g-sugar-contain-lactose/"
+              >Can a product with "0g sugar" contain lactose?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-10 @ 21:22:10</span
+              <span>2024-08-11 @ 23:50:35</span
               ><span class="points-container"
-                >Points: <span class="points">555</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41212297"
+                ><a href="https://news.ycombinator.com/item?id=41220079"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -982,7 +967,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41207987"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
