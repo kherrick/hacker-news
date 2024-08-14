@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 12:34:20](https://news.ycombinator.com/item?id=41245342) - [CPI for all items rises 3.2%; shelter up](https://www.bls.gov/news.release/archives/cpi_08142024.htm)
 * [2024-08-14, 12:00:35](https://news.ycombinator.com/item?id=41245073) - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
 * [2024-08-14, 11:54:08](https://news.ycombinator.com/item?id=41245032) - [London Tube map redesigned by Essex lecturer goes viral](https://www.bbc.co.uk/news/articles/c9843r0dz3go)
 * [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler, Inventor of Cut/Paste, Has Died](https://www.bbc.com/news/world-us-canada-51567695)
 * [2024-08-14, 10:50:14](https://news.ycombinator.com/item?id=41244648) - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
 * [2024-08-14, 10:12:04](https://news.ycombinator.com/item?id=41244468) - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
+* [2024-08-14, 10:03:32](https://news.ycombinator.com/item?id=41244423) - [Show HN: We made a tool to help developers improve OpenAPI specs](https://github.com/zuplo/rate-my-openapi)
 * [2024-08-14, 09:14:30](https://news.ycombinator.com/item?id=41244172) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
 * [2024-08-14, 08:42:22](https://news.ycombinator.com/item?id=41243992) - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 * [2024-08-14, 08:34:45](https://news.ycombinator.com/item?id=41243931) - [CVE-2024-38063, Windows TCP/IP Remote Code Execution Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063)
