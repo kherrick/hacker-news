@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 17:05:51](https://news.ycombinator.com/item?id=41248241) - [Korea EV explosion prompts charging rethink, sparks safety fears](https://www.japantimes.co.jp/business/2024/08/08/tech/korea-ev-explosion-safety-fears/)
+* [2024-08-14, 17:04:37](https://news.ycombinator.com/item?id=41248232) - [Neighbours turn on each other in Portofino air-con crackdown](https://www.theguardian.com/world/article/2024/aug/12/portofino-air-con-crackdown-neighbours-italy)
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
 * [2024-08-14, 16:51:00](https://news.ycombinator.com/item?id=41248112) - [Mark Zuckerberg unveils giant Roman sculpture of his wife – AP News](https://apnews.com/video/social-media-national-national-2a82183dc6804624bb49de45ed710a9d)
+* [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [The \"3B People\" National Public Data Breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
+* [2024-08-14, 16:22:40](https://news.ycombinator.com/item?id=41247841) - [How to triage patients and run a ER during a mass casualty incident](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
 * [2024-08-14, 16:20:10](https://news.ycombinator.com/item?id=41247806) - [An innovative cryptocurrency payment platform to provide payment solutions](https://github.com/Victor-Sava/LuminaPay)
 * [2024-08-14, 15:34:04](https://news.ycombinator.com/item?id=41247275) - [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
 * [2024-08-14, 15:30:46](https://news.ycombinator.com/item?id=41247238) - [A Different Kind of Keyboard](https://ianthehenry.com/posts/peggi/)
@@ -16,6 +20,7 @@
 * [2024-08-14, 15:06:53](https://news.ycombinator.com/item?id=41246985) - [Napkin math suggests Bitcoin will perish unless its mining incentives change](https://keydiscussions.com/2024/08/13/napkin-math-says-bitcoin-will-perish-unless-it-dramatically-changes-its-incentive-structure-for-miners/)
 * [2024-08-14, 15:05:04](https://news.ycombinator.com/item?id=41246961) - [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge)
 * [2024-08-14, 15:02:16](https://news.ycombinator.com/item?id=41246922) - [SiFive announces high performance RISC-V cores for Datacentres](https://www.sifive.com/press/sifive-announces-high-performance-risc-v-datacenter-processor-for-ai-workloads)
+* [2024-08-14, 14:42:43](https://news.ycombinator.com/item?id=41246686) - [Show HN: Double – Design and invest in your own stock index](https://news.ycombinator.com/item?id=41246686)
 * [2024-08-14, 14:40:50](https://news.ycombinator.com/item?id=41246655) - [Americans dying younger than their English-speaking peers worldwide](https://studyfinds.org/americans-dying-younger/)
 * [2024-08-14, 14:40:02](https://news.ycombinator.com/item?id=41246643) - [Show HN: An open-source AI Gateway with integrated guardrails](https://github.com/Portkey-AI/gateway/wiki/Guardrails-on-the-Gateway-Framework)
 * [2024-08-14, 14:21:55](https://news.ycombinator.com/item?id=41246413) - [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
