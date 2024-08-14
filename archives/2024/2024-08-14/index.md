@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas Sues GM for Unlaw­Ful­Ly Collecting and Selling Dri­Vers' Pri­Vate Data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
+* [2024-08-14, 13:47:11](https://news.ycombinator.com/item?id=41246015) - [Apple open-sources its Homomorphic Encryption library](https://www.thestack.technology/apple-open-sources-its-homomorphic-encryption-library/)
 * [2024-08-14, 13:36:40](https://news.ycombinator.com/item?id=41245901) - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
 * [2024-08-14, 13:22:01](https://news.ycombinator.com/item?id=41245779) - [Hackers may have leaked the Social Security Numbers of every American](https://www.engadget.com/cybersecurity/hackers-may-have-leaked-the-social-security-numbers-of-every-american-150834276.html)
 * [2024-08-14, 13:12:24](https://news.ycombinator.com/item?id=41245702) - [Is \"Rich Dad Poor Dad\" a Fraud?](https://economistwritingeveryday.com/2024/02/13/is-rich-dad-poor-dad-a-fraud/)
