@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-14, 01:27:40](https://news.ycombinator.com/item?id=41241682) - [Former Google CEO blames remote work for company's struggles](https://www.sfgate.com/tech/article/eric-schmidt-google-remote-work-19655216.php)
+* [2024-08-14, 02:12:30](https://news.ycombinator.com/item?id=41241915) - [The TikTok Case Will Be Determined by What's Behind the Government's Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
 * [2024-08-14, 01:20:11](https://news.ycombinator.com/item?id=41241637) - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?proj=27.+rePalm&r=05.Projects)
 * [2024-08-13, 23:55:09](https://news.ycombinator.com/item?id=41241124) - [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
 * [2024-08-13, 23:03:21](https://news.ycombinator.com/item?id=41240755) - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
@@ -20,9 +20,9 @@
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-12, 23:31:17](https://news.ycombinator.com/item?id=41230546) - [Wet-lab innovations will lead the AI revolution in biology](https://substack.com/@abhishaikemahajan/p-146580339)
+* [2024-08-12, 19:47:39](https://news.ycombinator.com/item?id=41228513) - [Entangled Photons Maintained Under New York Streets](https://physics.aps.org/articles/v17/125)
 * [2024-08-12, 19:21:47](https://news.ycombinator.com/item?id=41228278) - [National Instruments acquired by Emerson](https://www.ni.com/en/perspectives/letter-to-customers.html)
 * [2024-08-12, 17:40:09](https://news.ycombinator.com/item?id=41227179) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
-* [2024-08-12, 17:29:09](https://news.ycombinator.com/item?id=41227061) - [A Guide to CRT Photography](https://nyanpasu64.gitlab.io/blog/crt-photography/)
 * [2024-08-12, 09:23:29](https://news.ycombinator.com/item?id=41222655) - [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
 * [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
 * [2024-08-11, 19:10:06](https://news.ycombinator.com/item?id=41218600) - [Trying for twelve years to chase down and catch an antelope by foot [audio]](https://www.thisamericanlife.org/80/running-after-antelope)
