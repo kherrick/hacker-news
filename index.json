@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-14, 15:30:46",
+      "https://news.ycombinator.com/item?id=41247238"
+    ],
+    [
+      "A Different Kind of Keyboard",
+      "https://ianthehenry.com/posts/peggi/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 15:28:43",
+      "https://news.ycombinator.com/item?id=41247211"
+    ],
+    [
+      "Launch HN: Promi (YC S24) – AI-powered ecommerce discounts",
+      "https://news.ycombinator.com/item?id=41247211"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 15:27:01",
+      "https://news.ycombinator.com/item?id=41247193"
+    ],
+    [
+      "Some thoughts on OpenSSH 9.8's PerSourcePenalties feature",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 15:16:38",
       "https://news.ycombinator.com/item?id=41247083"
     ],
@@ -27,6 +57,16 @@
     [
       "Tmpmail: Temporary email right from your terminal written in POSIX sh",
       "https://github.com/sdushantha/tmpmail"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 14:00:55",
+      "https://news.ycombinator.com/item?id=41246181"
+    ],
+    [
+      "Project Oak by Google",
+      "https://github.com/project-oak/oak"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2024-08-13, 15:31:45",
-      "https://news.ycombinator.com/item?id=41236430"
-    ],
-    [
-      "From object transition to RCE in the Chrome renderer",
-      "https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 15:14:54",
       "https://news.ycombinator.com/item?id=41236275"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2024-08-13, 14:19:21",
-      "https://news.ycombinator.com/item?id=41235733"
-    ],
-    [
-      "Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search",
-      "https://news.ycombinator.com/item?id=41235733"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 13:51:27",
       "https://news.ycombinator.com/item?id=41235462"
     ],
     [
       "AudioFlux: A C/C++ library for audio and music analysis",
       "https://github.com/libAudioFlux/audioFlux"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 13:00:42",
-      "https://news.ycombinator.com/item?id=41235038"
-    ],
-    [
-      "Show HN: See the impact on your cloud costs as you code",
-      "https://news.ycombinator.com/item?id=41235038"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Entangled Photons Maintained Under New York Streets",
       "https://physics.aps.org/articles/v17/125"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 17:39:45",
-      "https://news.ycombinator.com/item?id=41227172"
-    ],
-    [
-      "Why we picked AGPL",
-      "https://blog.paradedb.com/pages/agpl"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-08-11, 12:16:08",
-      "https://news.ycombinator.com/item?id=41215649"
+      "2024-08-11, 15:53:38",
+      "https://news.ycombinator.com/item?id=41217058"
     ],
     [
-      "A Backstage Pass to the Production of the MoonSwatch and Scuba Fifty Fathoms",
-      "https://www.hodinkee.com/articles/a-backstage-pass-to-the-production-of-the-moonswatch-and-scuba-fifty-fathoms"
+      "Don't make your own game engine [video]",
+      "https://www.youtube.com/watch?v=KgY6LQ46F5M"
     ]
   ],
   [
