@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 10:12:04",
+      "https://news.ycombinator.com/item?id=41244468"
+    ],
+    [
+      "The Syndicated Actor Model",
+      "https://syndicate-lang.org/about/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 09:14:30",
       "https://news.ycombinator.com/item?id=41244172"
     ],
@@ -17,6 +27,16 @@
     [
       "Examples of Great URL Design (2023)",
       "https://blog.jim-nielsen.com/2023/examples-of-great-urls/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 06:21:26",
+      "https://news.ycombinator.com/item?id=41243147"
+    ],
+    [
+      "Vaultwarden: Unofficial Bitwarden compatible server written in Rust",
+      "https://github.com/dani-garcia/vaultwarden"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Ex-Kansas police chief who raided local newspaper criminally charged",
       "https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 21:12:32",
-      "https://news.ycombinator.com/item?id=41239913"
-    ],
-    [
-      "Rust Atomics and Locks (2023)",
-      "https://marabos.nl/atomics/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "AudioFlux: A C/C++ library for audio and music analysis",
       "https://github.com/libAudioFlux/audioFlux"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 13:29:27",
-      "https://news.ycombinator.com/item?id=41235259"
-    ],
-    [
-      "Show HN: Stipple Effect – a scriptable pixel art editor to make game art faster",
-      "https://github.com/jbunke/stipple-effect"
     ]
   ],
   [
