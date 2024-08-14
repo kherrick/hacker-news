@@ -58,6 +58,7 @@
 * [2024-08-11, 10:11:35](https://news.ycombinator.com/item?id=41215154) - [After Breaking Free, Largest Iceberg Is Stuck Spinning in Circles](https://www.nytimes.com/2024/08/07/science/a23a-iceberg-antarctica-spinning.html)
 * [2024-08-11, 08:47:22](https://news.ycombinator.com/item?id=41214860) - [Open Letter to the European Commission](https://nixos.org/blog/announcements/2024/letter/)
 * [2024-08-11, 08:23:43](https://news.ycombinator.com/item?id=41214762) - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
+* [2024-08-11, 08:08:18](https://news.ycombinator.com/item?id=41214693) - [SD/MMC cards, a year later (2010)](http://lists.laptop.org/pipermail/devel/2010-August/029503.html)
 * [2024-08-11, 07:30:07](https://news.ycombinator.com/item?id=41214540) - [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)
 * [2024-08-11, 06:38:27](https://news.ycombinator.com/item?id=41214369) - [Bevy's Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
 * [2024-08-11, 06:12:02](https://news.ycombinator.com/item?id=41214307) - [Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
