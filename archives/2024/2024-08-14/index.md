@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 15:16:38](https://news.ycombinator.com/item?id=41247083) - [Kiota: OpenAPI-Based HTTP Client Code Generator](https://github.com/microsoft/kiota)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 15:06:53](https://news.ycombinator.com/item?id=41246985) - [Napkin math suggests Bitcoin will perish unless its mining incentives change](https://keydiscussions.com/2024/08/13/napkin-math-says-bitcoin-will-perish-unless-it-dramatically-changes-its-incentive-structure-for-miners/)
 * [2024-08-14, 15:05:04](https://news.ycombinator.com/item?id=41246961) - [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge)
