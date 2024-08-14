@@ -17,6 +17,7 @@
 * [2024-08-14, 17:27:04](https://news.ycombinator.com/item?id=41248438) - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
 * [2024-08-14, 17:25:39](https://news.ycombinator.com/item?id=41248417) - [Show HN: SandFaux – Your Sandbox and Our Faux Data](https://www.sandfaux.com)
 * [2024-08-14, 17:14:58](https://news.ycombinator.com/item?id=41248315) - [Ask HN: Why are there so many 3D Gaussian splatting posts?](https://news.ycombinator.com/item?id=41248315)
+* [2024-08-14, 17:08:48](https://news.ycombinator.com/item?id=41248260) - [Zen5's AVX512 Teardown and More (Without Redacted Content)](http://numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-14, 17:05:51](https://news.ycombinator.com/item?id=41248241) - [Korea EV explosion prompts charging rethink, sparks safety fears](https://www.japantimes.co.jp/business/2024/08/08/tech/korea-ev-explosion-safety-fears/)
 * [2024-08-14, 17:04:37](https://news.ycombinator.com/item?id=41248232) - [Neighbours turn on each other in Portofino air-con crackdown](https://www.theguardian.com/world/article/2024/aug/12/portofino-air-con-crackdown-neighbours-italy)
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
