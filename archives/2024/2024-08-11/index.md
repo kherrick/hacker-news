@@ -40,6 +40,7 @@
 * [2024-08-11, 16:07:30](https://news.ycombinator.com/item?id=41217162) - [Judge orders CDC to stop deleting emails of departing staff: 'likely unlawful'](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)
 * [2024-08-11, 16:04:49](https://news.ycombinator.com/item?id=41217136) - [Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs](https://servermono.com/)
 * [2024-08-11, 16:01:50](https://news.ycombinator.com/item?id=41217109) - [Show HN: My 70 year old grandma is learning to code and made a word game](https://grandmasword.com)
+* [2024-08-11, 15:53:38](https://news.ycombinator.com/item?id=41217058) - [Don't make your own game engine [video]](https://www.youtube.com/watch?v=KgY6LQ46F5M)
 * [2024-08-11, 15:52:00](https://news.ycombinator.com/item?id=41217037) - [CrowdStrike accepting the PwnieAwards for \"most epic fail\" at defcon](https://twitter.com/singe/status/1822324795645575263)
 * [2024-08-11, 14:48:26](https://news.ycombinator.com/item?id=41216560) - [Finite State Machine Designer](https://madebyevan.com/fsm/)
 * [2024-08-11, 14:27:30](https://news.ycombinator.com/item?id=41216399) - [The Coffee Machine Hiring Test](https://manuel.darcemont.fr/posts/coffee-machine-test/)

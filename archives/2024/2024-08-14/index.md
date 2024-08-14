@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 15:30:46](https://news.ycombinator.com/item?id=41247238) - [A Different Kind of Keyboard](https://ianthehenry.com/posts/peggi/)
+* [2024-08-14, 15:28:43](https://news.ycombinator.com/item?id=41247211) - [Launch HN: Promi (YC S24) – AI-powered ecommerce discounts](https://news.ycombinator.com/item?id=41247211)
+* [2024-08-14, 15:27:01](https://news.ycombinator.com/item?id=41247193) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 * [2024-08-14, 15:16:38](https://news.ycombinator.com/item?id=41247083) - [Kiota: OpenAPI-Based HTTP Client Code Generator](https://github.com/microsoft/kiota)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 15:06:53](https://news.ycombinator.com/item?id=41246985) - [Napkin math suggests Bitcoin will perish unless its mining incentives change](https://keydiscussions.com/2024/08/13/napkin-math-says-bitcoin-will-perish-unless-it-dramatically-changes-its-incentive-structure-for-miners/)
@@ -13,6 +16,7 @@
 * [2024-08-14, 14:40:02](https://news.ycombinator.com/item?id=41246643) - [Show HN: An open-source AI Gateway with integrated guardrails](https://github.com/Portkey-AI/gateway/wiki/Guardrails-on-the-Gateway-Framework)
 * [2024-08-14, 14:21:55](https://news.ycombinator.com/item?id=41246413) - [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
+* [2024-08-14, 14:00:55](https://news.ycombinator.com/item?id=41246181) - [Project Oak by Google](https://github.com/project-oak/oak)
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas Sues GM for Unlaw­Ful­Ly Collecting and Selling Dri­Vers' Pri­Vate Data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
 * [2024-08-14, 13:47:11](https://news.ycombinator.com/item?id=41246015) - [Apple open-sources its Homomorphic Encryption library](https://www.thestack.technology/apple-open-sources-its-homomorphic-encryption-library/)
 * [2024-08-14, 13:36:40](https://news.ycombinator.com/item?id=41245901) - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
