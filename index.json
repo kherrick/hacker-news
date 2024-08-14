@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-14, 12:34:20",
-      "https://news.ycombinator.com/item?id=41245342"
-    ],
-    [
-      "CPI for all items rises 3.2%; shelter up",
-      "https://www.bls.gov/news.release/archives/cpi_08142024.htm"
-    ]
-  ],
-  [
-    [
       "2024-08-14, 12:00:35",
       "https://news.ycombinator.com/item?id=41245073"
     ],
@@ -35,8 +25,8 @@
       "https://news.ycombinator.com/item?id=41244847"
     ],
     [
-      "Larry Tesler: Computer scientist behind cut, copy and paste (2020)",
-      "https://www.bbc.com/news/world-us-canada-51567695"
+      "Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG (2005)",
+      "https://spectrum.ieee.org/of-modes-and-men"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "AudioFlux: A C/C++ library for audio and music analysis",
       "https://github.com/libAudioFlux/audioFlux"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 13:00:42",
+      "https://news.ycombinator.com/item?id=41235038"
+    ],
+    [
+      "Show HN: See the impact on your cloud costs as you code",
+      "https://news.ycombinator.com/item?id=41235038"
     ]
   ],
   [
