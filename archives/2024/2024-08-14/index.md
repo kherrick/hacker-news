@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 18:43:01](https://news.ycombinator.com/item?id=41249218) - [Personality Types and Hiring](https://vaishnavsunil.substack.com/p/you-seem-too-high-in-openness)
+* [2024-08-14, 18:28:38](https://news.ycombinator.com/item?id=41249066) - [Who Goes Nazi? (1941)](https://harpers.org/archive/1941/08/who-goes-nazi/)
 * [2024-08-14, 18:04:30](https://news.ycombinator.com/item?id=41248847) - [Enzo Biochem must pay $4.5M for lousy security that led to ransomware disaster](https://www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/)
+* [2024-08-14, 17:50:32](https://news.ycombinator.com/item?id=41248707) - [X's new AI image generator will make anything](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
 * [2024-08-14, 17:38:32](https://news.ycombinator.com/item?id=41248564) - [Agile Is for Losers (2020)](https://www.hypermatic.com/articles/agile-is-for-losers/)
 * [2024-08-14, 17:29:01](https://news.ycombinator.com/item?id=41248453) - [WHO Declares Global Emergency over New Mpox Outbreak](https://www.nytimes.com/2024/08/14/health/mpox-who-emergency-africa.html)
 * [2024-08-14, 17:28:30](https://news.ycombinator.com/item?id=41248448) - [Against Names](https://steveklabnik.com/writing/against-names/)
