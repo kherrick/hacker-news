@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-14, 17:38:32](https://news.ycombinator.com/item?id=41248564) - [Agile Is for Losers (2020)](https://www.hypermatic.com/articles/agile-is-for-losers/)
+* [2024-08-14, 17:28:30](https://news.ycombinator.com/item?id=41248448) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-14, 17:25:39](https://news.ycombinator.com/item?id=41248417) - [Show HN: SandFaux – Your sandbox and our faux data](https://www.sandfaux.com)
-* [2024-08-14, 17:14:58](https://news.ycombinator.com/item?id=41248315) - [Ask HN: Why are there so many 3D Gaussian splatting posts?](https://news.ycombinator.com/item?id=41248315)
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
 * [2024-08-14, 16:25:39](https://news.ycombinator.com/item?id=41247881) - [Making 'food out of thin air'](https://www.noemamag.com/making-food-out-of-thin-air/)
@@ -24,11 +23,12 @@
 * [2024-08-14, 10:12:04](https://news.ycombinator.com/item?id=41244468) - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 * [2024-08-14, 10:03:32](https://news.ycombinator.com/item?id=41244423) - [Show HN: We made a tool to help developers improve OpenAPI specs](https://github.com/zuplo/rate-my-openapi)
 * [2024-08-14, 02:19:17](https://news.ycombinator.com/item?id=41241942) - [Sort, sweep, and prune: Collision detection algorithms (2023)](https://leanrada.com/notes/sweep-and-prune/)
+* [2024-08-13, 22:34:00](https://news.ycombinator.com/item?id=41240556) - [Show HN: I've open sourced DD Poker](https://github.com/dougdonohoe/ddpoker)
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
 * [2024-08-13, 16:02:57](https://news.ycombinator.com/item?id=41236718) - [DUNE scientists observe first neutrinos with prototype detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
+* [2024-08-13, 14:11:36](https://news.ycombinator.com/item?id=41235662) - [I put a toaster in the dishwasher (2012)](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html)
 * [2024-08-12, 17:24:40](https://news.ycombinator.com/item?id=41227011) - [Ancient calendar, recently discovered, may document a long-ago disaster](https://www.nytimes.com/2024/08/10/world/asia/worlds-oldest-calendar-gobekli-tepe.html)
 * [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
-* [2024-08-12, 11:04:13](https://news.ycombinator.com/item?id=41223143) - [Real-Time Human Attention Estimation on Device](https://testflight.apple.com/join/Z6UFZA6Y)
 * [2024-08-12, 09:01:28](https://news.ycombinator.com/item?id=41222528) - [From Sets to Categories (2023)](https://abuseofnotation.github.io/category-theory-illustrated/02_category/)
 
 ## [Archives](archives/index.md)
