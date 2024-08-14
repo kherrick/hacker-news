@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-08-13, 23:55:09",
-      "https://news.ycombinator.com/item?id=41241124"
-    ],
-    [
-      "LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023",
-      "https://outerbounds.com/blog/hacker-news-sentiment/"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 23:03:21",
       "https://news.ycombinator.com/item?id=41240755"
     ],
@@ -157,6 +147,16 @@
     [
       "AudioFlux: A C/C++ library for audio and music analysis",
       "https://github.com/libAudioFlux/audioFlux"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 13:29:27",
+      "https://news.ycombinator.com/item?id=41235259"
+    ],
+    [
+      "Show HN: Stipple Effect – a scriptable pixel art editor to make game art faster",
+      "https://github.com/jbunke/stipple-effect"
     ]
   ],
   [
