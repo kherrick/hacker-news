@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 10:50:14](https://news.ycombinator.com/item?id=41244648) - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
 * [2024-08-14, 10:12:04](https://news.ycombinator.com/item?id=41244468) - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 * [2024-08-14, 09:14:30](https://news.ycombinator.com/item?id=41244172) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
 * [2024-08-14, 08:42:22](https://news.ycombinator.com/item?id=41243992) - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
