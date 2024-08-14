@@ -8,6 +8,7 @@
 * [2024-08-14, 15:06:53](https://news.ycombinator.com/item?id=41246985) - [Napkin math suggests Bitcoin will perish unless its mining incentives change](https://keydiscussions.com/2024/08/13/napkin-math-says-bitcoin-will-perish-unless-it-dramatically-changes-its-incentive-structure-for-miners/)
 * [2024-08-14, 15:05:04](https://news.ycombinator.com/item?id=41246961) - [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge)
 * [2024-08-14, 15:02:16](https://news.ycombinator.com/item?id=41246922) - [SiFive announces high performance RISC-V cores for Datacentres](https://www.sifive.com/press/sifive-announces-high-performance-risc-v-datacenter-processor-for-ai-workloads)
+* [2024-08-14, 14:40:50](https://news.ycombinator.com/item?id=41246655) - [Americans dying younger than their English-speaking peers worldwide](https://studyfinds.org/americans-dying-younger/)
 * [2024-08-14, 14:40:02](https://news.ycombinator.com/item?id=41246643) - [Show HN: An open-source AI Gateway with integrated guardrails](https://github.com/Portkey-AI/gateway/wiki/Guardrails-on-the-Gateway-Framework)
 * [2024-08-14, 14:21:55](https://news.ycombinator.com/item?id=41246413) - [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
