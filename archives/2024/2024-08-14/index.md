@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 13:22:01](https://news.ycombinator.com/item?id=41245779) - [Hackers may have leaked the Social Security Numbers of every American](https://www.engadget.com/cybersecurity/hackers-may-have-leaked-the-social-security-numbers-of-every-american-150834276.html)
+* [2024-08-14, 13:12:24](https://news.ycombinator.com/item?id=41245702) - [Is \"Rich Dad Poor Dad\" a Fraud?](https://economistwritingeveryday.com/2024/02/13/is-rich-dad-poor-dad-a-fraud/)
 * [2024-08-14, 12:34:20](https://news.ycombinator.com/item?id=41245342) - [CPI for all items rises 3.2%; shelter up](https://www.bls.gov/news.release/archives/cpi_08142024.htm)
 * [2024-08-14, 12:00:35](https://news.ycombinator.com/item?id=41245073) - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
 * [2024-08-14, 11:54:08](https://news.ycombinator.com/item?id=41245032) - [London Tube map redesigned by Essex lecturer goes viral](https://www.bbc.co.uk/news/articles/c9843r0dz3go)
