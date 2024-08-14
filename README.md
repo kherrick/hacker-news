@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-14, 12:34:20](https://news.ycombinator.com/item?id=41245342) - [CPI for all items rises 3.2%; shelter up](https://www.bls.gov/news.release/archives/cpi_08142024.htm)
 * [2024-08-14, 12:00:35](https://news.ycombinator.com/item?id=41245073) - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
 * [2024-08-14, 11:54:08](https://news.ycombinator.com/item?id=41245032) - [London Tube map redesigned by Essex lecturer goes viral](https://www.bbc.co.uk/news/articles/c9843r0dz3go)
-* [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler: Computer scientist behind cut, copy and paste (2020)](https://www.bbc.com/news/world-us-canada-51567695)
+* [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG (2005)](https://spectrum.ieee.org/of-modes-and-men)
 * [2024-08-14, 10:50:14](https://news.ycombinator.com/item?id=41244648) - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
 * [2024-08-14, 10:12:04](https://news.ycombinator.com/item?id=41244468) - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 * [2024-08-14, 10:03:32](https://news.ycombinator.com/item?id=41244423) - [Show HN: We made a tool to help developers improve OpenAPI specs](https://github.com/zuplo/rate-my-openapi)
@@ -19,6 +18,7 @@
 * [2024-08-13, 15:14:47](https://news.ycombinator.com/item?id=41236273) - [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
 * [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [AudioFlux: A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
+* [2024-08-13, 13:00:42](https://news.ycombinator.com/item?id=41235038) - [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
 * [2024-08-12, 19:47:39](https://news.ycombinator.com/item?id=41228513) - [Entangled Photons Maintained Under New York Streets](https://physics.aps.org/articles/v17/125)
 * [2024-08-12, 16:48:14](https://news.ycombinator.com/item?id=41226548) - [An approach to optimizing TypeScript type checking performance](https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload)
