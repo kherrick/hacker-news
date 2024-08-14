@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
-* [2024-08-14, 15:05:04](https://news.ycombinator.com/item?id=41246961) - [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge)
-* [2024-08-14, 14:40:02](https://news.ycombinator.com/item?id=41246643) - [Show HN: An open-source AI Gateway with integrated guardrails](https://github.com/Portkey-AI/gateway/wiki/Guardrails-on-the-Gateway-Framework)
+* [2024-08-14, 15:06:53](https://news.ycombinator.com/item?id=41246985) - [Napkin math suggests Bitcoin will perish unless its mining incentives change](https://keydiscussions.com/2024/08/13/napkin-math-says-bitcoin-will-perish-unless-it-dramatically-changes-its-incentive-structure-for-miners/)
+* [2024-08-14, 15:02:16](https://news.ycombinator.com/item?id=41246922) - [SiFive announces high performance RISC-V cores for Datacentres](https://www.sifive.com/press/sifive-announces-high-performance-risc-v-datacenter-processor-for-ai-workloads)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
 * [2024-08-14, 13:36:40](https://news.ycombinator.com/item?id=41245901) - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
 * [2024-08-14, 12:00:35](https://news.ycombinator.com/item?id=41245073) - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
@@ -21,7 +21,6 @@
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [AudioFlux: A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
 * [2024-08-13, 13:00:42](https://news.ycombinator.com/item?id=41235038) - [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
-* [2024-08-12, 19:47:39](https://news.ycombinator.com/item?id=41228513) - [Entangled Photons Maintained Under New York Streets](https://physics.aps.org/articles/v17/125)
 * [2024-08-12, 17:24:40](https://news.ycombinator.com/item?id=41227011) - [Ancient calendar, recently discovered, may document a long-ago disaster](https://www.nytimes.com/2024/08/10/world/asia/worlds-oldest-calendar-gobekli-tepe.html)
 * [2024-08-12, 16:48:14](https://news.ycombinator.com/item?id=41226548) - [An approach to optimizing TypeScript type checking performance](https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload)
 * [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
@@ -29,6 +28,7 @@
 * [2024-08-12, 09:01:28](https://news.ycombinator.com/item?id=41222528) - [From Sets to Categories](https://abuseofnotation.github.io/category-theory-illustrated/02_category/)
 * [2024-08-12, 01:48:51](https://news.ycombinator.com/item?id=41220549) - [Safe curves for Elliptic Curve Cryptography [pdf]](https://eprint.iacr.org/2024/1265.pdf)
 * [2024-08-11, 23:50:35](https://news.ycombinator.com/item?id=41220079) - [Can a product with \"0g sugar\" contain lactose?](https://blog.alexwendland.com/2024-03-03-can-a-product-with-0g-sugar-contain-lactose/)
+* [2024-08-11, 12:16:08](https://news.ycombinator.com/item?id=41215649) - [A Backstage Pass to the Production of the MoonSwatch and Scuba Fifty Fathoms](https://www.hodinkee.com/articles/a-backstage-pass-to-the-production-of-the-moonswatch-and-scuba-fifty-fathoms)
 * [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
 
 ## [Archives](archives/index.md)
