@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-14, 13:36:40](https://news.ycombinator.com/item?id=41245901) - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
 * [2024-08-14, 13:22:01](https://news.ycombinator.com/item?id=41245779) - [Hackers may have leaked the Social Security Numbers of every American](https://www.engadget.com/cybersecurity/hackers-may-have-leaked-the-social-security-numbers-of-every-american-150834276.html)
 * [2024-08-14, 13:12:24](https://news.ycombinator.com/item?id=41245702) - [Is \"Rich Dad Poor Dad\" a Fraud?](https://economistwritingeveryday.com/2024/02/13/is-rich-dad-poor-dad-a-fraud/)
+* [2024-08-14, 12:52:54](https://news.ycombinator.com/item?id=41245504) - [The Complex Relationship Between ADHD, Autism, and Personality Disorders](https://www.traudhd.com/p/autism-adhd-personality-disorders-narcissism)
 * [2024-08-14, 12:00:35](https://news.ycombinator.com/item?id=41245073) - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
 * [2024-08-14, 11:54:08](https://news.ycombinator.com/item?id=41245032) - [London Tube map redesigned by Essex lecturer goes viral](https://www.bbc.co.uk/news/articles/c9843r0dz3go)
 * [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG (2005)](https://spectrum.ieee.org/of-modes-and-men)
@@ -16,7 +18,6 @@
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 16:02:57](https://news.ycombinator.com/item?id=41236718) - [Dune Scientists Observe First Neutrinos with Prototype Detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
 * [2024-08-13, 15:14:47](https://news.ycombinator.com/item?id=41236273) - [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
-* [2024-08-13, 14:25:19](https://news.ycombinator.com/item?id=41235789) - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
 * [2024-08-13, 13:51:27](https://news.ycombinator.com/item?id=41235462) - [AudioFlux: A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
 * [2024-08-12, 19:47:39](https://news.ycombinator.com/item?id=41228513) - [Entangled Photons Maintained Under New York Streets](https://physics.aps.org/articles/v17/125)
@@ -29,7 +30,6 @@
 * [2024-08-12, 01:48:51](https://news.ycombinator.com/item?id=41220549) - [Safe curves for Elliptic Curve Cryptography [pdf]](https://eprint.iacr.org/2024/1265.pdf)
 * [2024-08-11, 12:16:08](https://news.ycombinator.com/item?id=41215649) - [A Backstage Pass to the Production of the MoonSwatch and Scuba Fifty Fathoms](https://www.hodinkee.com/articles/a-backstage-pass-to-the-production-of-the-moonswatch-and-scuba-fifty-fathoms)
 * [2024-08-10, 21:22:10](https://news.ycombinator.com/item?id=41212297) - [Captain Disillusion debunks David Beckham beach kicks [video]](https://www.youtube.com/watch?v=oVWsbpdDxTg)
-* [2024-08-10, 07:46:45](https://news.ycombinator.com/item?id=41207987) - [EFF’s concerns about the UN Cybercrime Convention](https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention)
 
 ## [Archives](archives/index.md)
 
