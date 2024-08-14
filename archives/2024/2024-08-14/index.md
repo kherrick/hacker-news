@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 14:21:55](https://news.ycombinator.com/item?id=41246413) - [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas Sues GM for Unlaw­Ful­Ly Collecting and Selling Dri­Vers' Pri­Vate Data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
 * [2024-08-14, 13:47:11](https://news.ycombinator.com/item?id=41246015) - [Apple open-sources its Homomorphic Encryption library](https://www.thestack.technology/apple-open-sources-its-homomorphic-encryption-library/)
 * [2024-08-14, 13:36:40](https://news.ycombinator.com/item?id=41245901) - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
@@ -11,6 +12,7 @@
 * [2024-08-14, 13:12:24](https://news.ycombinator.com/item?id=41245702) - [Is \"Rich Dad Poor Dad\" a Fraud?](https://economistwritingeveryday.com/2024/02/13/is-rich-dad-poor-dad-a-fraud/)
 * [2024-08-14, 12:52:54](https://news.ycombinator.com/item?id=41245504) - [The Complex Relationship Between ADHD, Autism, and Personality Disorders](https://www.traudhd.com/p/autism-adhd-personality-disorders-narcissism)
 * [2024-08-14, 12:34:20](https://news.ycombinator.com/item?id=41245342) - [CPI for all items rises 3.2%; shelter up](https://www.bls.gov/news.release/archives/cpi_08142024.htm)
+* [2024-08-14, 12:16:31](https://news.ycombinator.com/item?id=41245199) - [It's Not Just You. No One Wants Kids Anymore [video]](https://www.youtube.com/watch?v=u-PinTQcuik)
 * [2024-08-14, 12:00:35](https://news.ycombinator.com/item?id=41245073) - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
 * [2024-08-14, 11:54:08](https://news.ycombinator.com/item?id=41245032) - [London Tube map redesigned by Essex lecturer goes viral](https://www.bbc.co.uk/news/articles/c9843r0dz3go)
 * [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler, Inventor of Cut/Paste, Has Died](https://www.bbc.com/news/world-us-canada-51567695)
