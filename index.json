@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-08-14, 02:12:30",
-      "https://news.ycombinator.com/item?id=41241915"
-    ],
-    [
-      "The TikTok Case Will Be Determined by What's Behind the Government's Black Lines",
-      "https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines"
-    ]
-  ],
-  [
-    [
       "2024-08-14, 01:56:35",
       "https://news.ycombinator.com/item?id=41241825"
     ],
@@ -247,6 +237,16 @@
     [
       "Quote-unquote \"macros\"",
       "https://ianthehenry.com/posts/quote-unquote-macros/"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 16:48:14",
+      "https://news.ycombinator.com/item?id=41226548"
+    ],
+    [
+      "An approach to optimizing TypeScript type checking performance",
+      "https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload"
     ]
   ],
   [
