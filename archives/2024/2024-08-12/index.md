@@ -36,6 +36,7 @@
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://www.synnaxlabs.com/)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://news.ycombinator.com/item?id=41227369)
 * [2024-08-12, 17:53:36](https://news.ycombinator.com/item?id=41227350) - [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
+* [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the Devil Aren't What They Used to Be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
 * [2024-08-12, 17:40:09](https://news.ycombinator.com/item?id=41227179) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-12, 17:39:45](https://news.ycombinator.com/item?id=41227172) - [Why we picked AGPL](https://blog.paradedb.com/pages/agpl)
 * [2024-08-12, 17:30:09](https://news.ycombinator.com/item?id=41227072) - [Britain to use \"AI\" to answer taxpayer's letters](https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/)
