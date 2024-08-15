@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 05:59:42](https://news.ycombinator.com/item?id=41253461) - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
+* [2024-08-15, 04:56:16](https://news.ycombinator.com/item?id=41253204) - [Victorian Artistic Printing (2009)](https://www.sheaff-ephemera.com/list/artistic_printing.html)
 * [2024-08-15, 04:27:51](https://news.ycombinator.com/item?id=41253083) - [ALS Stole His Voice. A.I. Retrieved It](https://www.nytimes.com/2024/08/14/health/als-ai-brain-implants.html)
 * [2024-08-15, 03:43:10](https://news.ycombinator.com/item?id=41252949) - [No tax on tips: Why politicians love it, and economists don't](https://www.npr.org/2024/08/11/nx-s1-5071144/no-tax-on-tips-campaigns-trump-harris)
 * [2024-08-15, 03:26:28](https://news.ycombinator.com/item?id=41252893) - [2024-08-12 a pedantic review of the Las Vegas loop](https://computer.rip/2024-08-12-a-pedantic-review-of-the-las-vegas-loop.html)
