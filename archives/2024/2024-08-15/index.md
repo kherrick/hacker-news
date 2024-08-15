@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 22:07:25](https://news.ycombinator.com/item?id=41260951) - [Black Mesa](https://blackmesa.com/)
 * [2024-08-15, 21:42:53](https://news.ycombinator.com/item?id=41260679) - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
 * [2024-08-15, 21:34:30](https://news.ycombinator.com/item?id=41260603) - [Slow Is Smooth, Smooth Is Fast: Navy SEALs' Efficiency Secret](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
 * [2024-08-15, 21:10:00](https://news.ycombinator.com/item?id=41260394) - [Why we need Ladybird [audio]](https://changelog.com/podcast/604)

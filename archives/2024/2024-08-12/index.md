@@ -94,6 +94,7 @@
 * [2024-08-12, 10:52:28](https://news.ycombinator.com/item?id=41223085) - [India's Bharti Enterprises Now Largest Shareholder in UK's BT Group](https://www.theregister.com/2024/08/12/indias_bharti_enterprises_now_largest/)
 * [2024-08-12, 10:19:41](https://news.ycombinator.com/item?id=41222930) - [DEFCON attendees having mandatory daily room searches by conference block hotels](https://twitter.com/d0rkph0enix/status/1822814018643374260)
 * [2024-08-12, 10:04:26](https://news.ycombinator.com/item?id=41222862) - [Interstellar movie is implemented with Einstein's equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
+* [2024-08-12, 09:39:44](https://news.ycombinator.com/item?id=41222738) - [How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
 * [2024-08-12, 09:23:29](https://news.ycombinator.com/item?id=41222655) - [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
 * [2024-08-12, 09:20:32](https://news.ycombinator.com/item?id=41222632) - [Imec demonstrates logic and DRAM structures using High NA EUV Lithography](https://www.imec-int.com/en/press/imec-demonstrates-logic-and-dram-structures-using-high-na-euv-lithography)
 * [2024-08-12, 09:10:44](https://news.ycombinator.com/item?id=41222577) - [SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
