@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 04:27:51](https://news.ycombinator.com/item?id=41253083) - [ALS Stole His Voice. A.I. Retrieved It](https://www.nytimes.com/2024/08/14/health/als-ai-brain-implants.html)
 * [2024-08-15, 03:26:28](https://news.ycombinator.com/item?id=41252893) - [2024-08-12 a pedantic review of the Las Vegas loop](https://computer.rip/2024-08-12-a-pedantic-review-of-the-las-vegas-loop.html)
 * [2024-08-15, 02:48:16](https://news.ycombinator.com/item?id=41252731) - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 * [2024-08-15, 01:59:29](https://news.ycombinator.com/item?id=41252505) - [Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
-* [2024-08-14, 23:03:23](https://news.ycombinator.com/item?id=41251412) - [GitHub was down](https://github.com/)
 * [2024-08-14, 22:45:14](https://news.ycombinator.com/item?id=41251312) - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
 * [2024-08-14, 18:42:17](https://news.ycombinator.com/item?id=41249212) - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://www.instructables.com/Diy-Rc-Submarine/)
 * [2024-08-14, 17:29:30](https://news.ycombinator.com/item?id=41248460) - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
