@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 * [2024-08-15, 19:18:45](https://news.ycombinator.com/item?id=41259415) - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
 * [2024-08-15, 18:55:42](https://news.ycombinator.com/item?id=41259229) - [It's the land, stupid: How the homebuilder cartel drives high housing prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
 * [2024-08-15, 18:43:26](https://news.ycombinator.com/item?id=41259131) - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
@@ -29,7 +30,6 @@
 * [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [How NASA brought the F-1 “moon rocket” engine back to life (2013)](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Writing a C Compiler: Build a Real Programming Language from Scratch](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 13:00:04](https://news.ycombinator.com/item?id=41223907) - [Everything You Ever Wanted to Know about E. Coli (2008)](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
-* [2024-08-12, 04:34:59](https://news.ycombinator.com/item?id=41221186) - [Firedancer: Language for 2D shmups bullet-hell patterns](https://firedancer-lang.com/)
 
 ## [Archives](archives/index.md)
 

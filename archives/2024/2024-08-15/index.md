@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 * [2024-08-15, 19:39:00](https://news.ycombinator.com/item?id=41259592) - [NeuroAI paper proposes \"Embodied Turing Test\" to evaluate AI (2023)](https://www.nature.com/articles/s41467-023-37180-x)
 * [2024-08-15, 19:18:45](https://news.ycombinator.com/item?id=41259415) - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
 * [2024-08-15, 19:02:43](https://news.ycombinator.com/item?id=41259286) - [Gemma explained: An overview of Gemma model family architectures](https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/)
