@@ -22,14 +22,14 @@
 * [2024-08-14, 20:37:33](https://news.ycombinator.com/item?id=41250239) - [Detecting Sign Language in News Videos](https://vrroom.github.io/blog/2024/08/11/sign-detection.html)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 12:12:23](https://news.ycombinator.com/item?id=41245159) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+* [2024-08-13, 19:30:45](https://news.ycombinator.com/item?id=41238823) - [Security Clearances at the Speed of Startups](https://steveblank.com/2024/08/13/security-clearances-at-the-speed-of-startups/)
 * [2024-08-13, 16:57:10](https://news.ycombinator.com/item?id=41237176) - [Open Source FPGA Expansion Card for the Apple II](https://wiki.reactivemicro.com/A2FPGA)
 * [2024-08-13, 10:18:34](https://news.ycombinator.com/item?id=41234024) - [Kioxia Demonstrates Raid Offload Scheme for NVMe Drives](https://www.anandtech.com/show/21523/kioxia-demonstrates-raid-offload-scheme-for-nvme-drives)
 * [2024-08-13, 07:58:45](https://news.ycombinator.com/item?id=41233309) - [The History of Orthogonal Frequency Division Multiplexing (OFDM)](https://ieeexplore.ieee.org/abstract/document/4698465)
 * [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [How NASA brought the F-1 “moon rocket” engine back to life (2013)](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
-* [2024-08-12, 18:37:46](https://news.ycombinator.com/item?id=41227839) - [Sebastian Marset built an empire as a kingpin and professional soccer player](https://www.washingtonpost.com/world/interactive/2024/sebastian-marset-soccer-football-cocaine-trafficking/)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Writing a C Compiler: Build a Real Programming Language from Scratch](https://nostarch.com/writing-c-compiler)
-* [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the Devil Aren't What They Used to Be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
 * [2024-08-12, 13:00:04](https://news.ycombinator.com/item?id=41223907) - [Everything You Ever Wanted to Know about E. Coli (2008)](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
+* [2024-08-12, 04:34:59](https://news.ycombinator.com/item?id=41221186) - [Firedancer: Language for 2D shmups bullet-hell patterns](https://firedancer-lang.com/)
 
 ## [Archives](archives/index.md)
 
