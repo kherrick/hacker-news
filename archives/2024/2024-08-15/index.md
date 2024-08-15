@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 13:43:12](https://news.ycombinator.com/item?id=41255968) - [Iranian banks hit by major cyber attack, reportedly one of largest in history](https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iranian-banks-hit-by-major-cyber-attack-reportedly-one-of-largest-in-history)
 * [2024-08-15, 13:26:30](https://news.ycombinator.com/item?id=41255782) - [Apple vs. the \"Free Market\"](https://pluralistic.net/2024/08/15/private-law/#thirty-percent-vig)
 * [2024-08-15, 12:19:03](https://news.ycombinator.com/item?id=41255050) - [Kim Dotcom to be extradited from New Zealand](https://www.reuters.com/world/kim-dotcom-be-extradited-new-zealand-after-12-year-fight-with-us-2024-08-15/)
 * [2024-08-15, 12:12:23](https://news.ycombinator.com/item?id=41255021) - [Toyota bets big on hybrid-only models as EV demand slows](https://www.reuters.com/business/autos-transportation/toyota-bets-big-hybrid-only-models-ev-demand-slows-2024-08-15/)
