@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-08-15, 18:43:34",
-      "https://news.ycombinator.com/item?id=41259133"
-    ],
-    [
-      "Shell oil non-profit donated to anti-climate groups behind Project 2025",
-      "https://www.theguardian.com/us-news/article/2024/aug/15/shell-oil-project-2025-climate-crisis"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 18:43:26",
       "https://news.ycombinator.com/item?id=41259131"
     ],
@@ -41,32 +31,12 @@
   ],
   [
     [
-      "2024-08-15, 18:29:58",
-      "https://news.ycombinator.com/item?id=41259006"
+      "2024-08-15, 17:50:27",
+      "https://news.ycombinator.com/item?id=41258628"
     ],
     [
-      "Stablecoins Can Have Bank Runs",
-      "https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 18:29:42",
-      "https://news.ycombinator.com/item?id=41259003"
-    ],
-    [
-      "Judge tells Google: Play Store shakeup coming; punishment for running a monopoly",
-      "https://apnews.com/article/google-play-store-android-apps-antitrust-monopoly-240b2493110660684198822c57e22a60"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 18:06:46",
-      "https://news.ycombinator.com/item?id=41258787"
-    ],
-    [
-      "Teach TLDraw",
-      "https://teach.tldraw.com/"
+      "GEN One: Innovations from the Paul G. Allen Collection",
+      "https://www.christies.com/en/stories/gen-one-innovations-from-the-paul-g-allen-collection-1f0df60a726e4dcbabef3a91a57ef7ee"
     ]
   ],
   [
@@ -77,16 +47,6 @@
     [
       "Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion",
       "https://github.com/probably-nothing-labs/denormalized"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 17:13:34",
-      "https://news.ycombinator.com/item?id=41258241"
-    ],
-    [
-      "Galois Theory of Algorithms (2018) [pdf]",
-      "https://arxiv.org/abs/1011.0014"
     ]
   ],
   [
@@ -221,12 +181,42 @@
   ],
   [
     [
+      "2024-08-14, 16:50:31",
+      "https://news.ycombinator.com/item?id=41248104"
+    ],
+    [
+      "Inside the \"3 billion people\" national public data breach",
+      "https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 15:10:06",
+      "https://news.ycombinator.com/item?id=41247023"
+    ],
+    [
+      "Show HN: If YouTube had actual channels",
+      "https://ytch.xyz"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 12:12:23",
       "https://news.ycombinator.com/item?id=41245159"
     ],
     [
       "Font with Built-In Syntax Highlighting",
       "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 02:19:17",
+      "https://news.ycombinator.com/item?id=41241942"
+    ],
+    [
+      "Sort, sweep, and prune: Collision detection algorithms (2023)",
+      "https://leanrada.com/notes/sweep-and-prune/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Everything You Ever Wanted to Know about E. Coli (2008)",
       "https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 04:34:59",
+      "https://news.ycombinator.com/item?id=41221186"
+    ],
+    [
+      "Firedancer: Language for 2D shmups bullet-hell patterns",
+      "https://firedancer-lang.com/"
     ]
   ]
 ]
