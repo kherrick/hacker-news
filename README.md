@@ -2,7 +2,8 @@
 
 * [2024-08-15, 16:17:18](https://news.ycombinator.com/item?id=41257677) - [Uncleftish Beholding](https://en.wikipedia.org/wiki/Uncleftish_Beholding)
 * [2024-08-15, 16:10:06](https://news.ycombinator.com/item?id=41257606) - [The AMD Ryzen 9 9950X and Ryzen 9 9900X Review: Flagship Zen 5 Soars and Stalls](https://www.anandtech.com/show/21524/the-amd-ryzen-9-9950x-and-ryzen-9-9900x-review)
-* [2024-08-15, 15:51:00](https://news.ycombinator.com/item?id=41257416) - [US judge has girl handcuffed for sleeping during court field trip](https://www.bbc.com/news/articles/cn7lxly3xddo)
+* [2024-08-15, 16:01:10](https://news.ycombinator.com/item?id=41257509) - [Low magnesium levels increase disease risk, new study shows](https://www.unisa.edu.au/media-centre/Releases/2024/low-magnesium-levels-increase-disease-risk-new-study-shows/)
+* [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
 * [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 * [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
 * [2024-08-15, 13:33:48](https://news.ycombinator.com/item?id=41255880) - [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
@@ -18,7 +19,6 @@
 * [2024-08-15, 05:59:42](https://news.ycombinator.com/item?id=41253461) - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
 * [2024-08-15, 02:48:16](https://news.ycombinator.com/item?id=41252731) - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
-* [2024-08-14, 16:22:40](https://news.ycombinator.com/item?id=41247841) - [How one ED mobilized his department during a mass casualty incident (2017)](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 12:12:23](https://news.ycombinator.com/item?id=41245159) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2024-08-14, 02:19:17](https://news.ycombinator.com/item?id=41241942) - [Sort, sweep, and prune: Collision detection algorithms (2023)](https://leanrada.com/notes/sweep-and-prune/)
