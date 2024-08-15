@@ -6,6 +6,7 @@
 
 * [2024-08-15, 10:04:36](https://news.ycombinator.com/item?id=41254441) - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
 * [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
+* [2024-08-15, 07:40:35](https://news.ycombinator.com/item?id=41253860) - [How we migrated GOV.UK Notify to AWS Elastic Container Service](https://gds.blog.gov.uk/2024/08/14/how-we-migrated-gov-uk-notify-to-aws-elastic-container-service/)
 * [2024-08-15, 07:07:08](https://news.ycombinator.com/item?id=41253720) - [Open-source utils for devs who don't like ads](https://github.com/jamdotdev/jam-dev-utilities)
 * [2024-08-15, 07:00:29](https://news.ycombinator.com/item?id=41253691) - [Legalist (YC S16) Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
 * [2024-08-15, 06:21:24](https://news.ycombinator.com/item?id=41253544) - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
