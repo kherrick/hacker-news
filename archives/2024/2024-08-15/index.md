@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 16:17:18](https://news.ycombinator.com/item?id=41257677) - [Uncleftish Beholding](https://en.wikipedia.org/wiki/Uncleftish_Beholding)
+* [2024-08-15, 16:10:06](https://news.ycombinator.com/item?id=41257606) - [The AMD Ryzen 9 9950X and Ryzen 9 9900X Review: Flagship Zen 5 Soars and Stalls](https://www.anandtech.com/show/21524/the-amd-ryzen-9-9950x-and-ryzen-9-9900x-review)
 * [2024-08-15, 15:52:51](https://news.ycombinator.com/item?id=41257432) - [ChatGPT –> Bad Gateway](https://chatgpt.com/)
+* [2024-08-15, 15:51:00](https://news.ycombinator.com/item?id=41257416) - [US judge has girl handcuffed for sleeping during court field trip](https://www.bbc.com/news/articles/cn7lxly3xddo)
 * [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
 * [2024-08-15, 14:33:51](https://news.ycombinator.com/item?id=41256623) - [Private, Secure and Uncensorable Messaging over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/)
 * [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
