@@ -24,6 +24,7 @@
 * [2024-08-13, 16:42:50](https://news.ycombinator.com/item?id=41237057) - [Tell HN: Steinberg shut down their eLicenser service, breaking older software](https://www.steinberg.net/licensing/elicenser-end-of-service/)
 * [2024-08-13, 16:05:33](https://news.ycombinator.com/item?id=41236745) - [Tell HN: Google OAuth consent screen issue could be costing you signups](https://news.ycombinator.com/item?id=41236745)
 * [2024-08-13, 16:02:57](https://news.ycombinator.com/item?id=41236718) - [Dune Scientists Observe First Neutrinos with Prototype Detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
+* [2024-08-13, 15:56:18](https://news.ycombinator.com/item?id=41236657) - [RubyGateway: Embed Ruby in Swift](https://github.com/johnfairh/RubyGateway)
 * [2024-08-13, 15:45:35](https://news.ycombinator.com/item?id=41236555) - [Raptor Lake microcode limits chips to 1.55 volts to prevent CPU destruction](https://www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/)
 * [2024-08-13, 15:31:45](https://news.ycombinator.com/item?id=41236430) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 * [2024-08-13, 15:22:45](https://news.ycombinator.com/item?id=41236351) - [The Myth of the Product-Market Fit](https://blog.nishantsoni.com/p/the-myth-of-the-product-market-fit)
