@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 21:01:13](https://news.ycombinator.com/item?id=41260321) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
+* [2024-08-15, 20:36:41](https://news.ycombinator.com/item?id=41260098) - [We Survived 10k Requests/Second: Switching to Signed Asset URLs in an Emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
 * [2024-08-15, 20:31:24](https://news.ycombinator.com/item?id=41260050) - [Cleaning up the aging brain: Scientists restore brain's trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
 * [2024-08-15, 20:30:37](https://news.ycombinator.com/item?id=41260040) - [Unveiling Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
 * [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
