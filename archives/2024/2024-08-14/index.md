@@ -12,6 +12,7 @@
 * [2024-08-14, 21:34:53](https://news.ycombinator.com/item?id=41250749) - [WHO Declares Mpox Global Health Emergency](https://www.bbc.com/news/articles/cvg35w27gzno)
 * [2024-08-14, 21:15:06](https://news.ycombinator.com/item?id=41250577) - [Eric Schmidt Says Google Is Falling Behind on AI–and Remote Work Is Why](https://www.wsj.com/tech/ai/google-eric-schmidt-ai-remote-work-stanford-f92f4ca5)
 * [2024-08-14, 21:03:45](https://news.ycombinator.com/item?id=41250470) - [AltStore PAL receives Epic Games MegaGrant, will no longer require subscription](https://fosstodon.org/@altstore/112962388607680148)
+* [2024-08-14, 21:03:25](https://news.ycombinator.com/item?id=41250466) - [Stacking molecules like plates improves organic solar device performance](https://phys.org/news/2024-08-stacking-molecules-plates-solar-device.html)
 * [2024-08-14, 19:13:44](https://news.ycombinator.com/item?id=41249504) - [ISPs worry that killing FCC net neutrality rules will come back to haunt them](https://arstechnica.com/tech-policy/2024/08/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans/)
 * [2024-08-14, 18:43:01](https://news.ycombinator.com/item?id=41249218) - [Personality Types and Hiring](https://vaishnavsunil.substack.com/p/you-seem-too-high-in-openness)
 * [2024-08-14, 18:42:17](https://news.ycombinator.com/item?id=41249212) - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://www.instructables.com/Diy-Rc-Submarine/)
