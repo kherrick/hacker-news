@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-15, 21:01:13",
+      "https://news.ycombinator.com/item?id=41260321"
+    ],
+    [
+      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
+      "https://news.ycombinator.com/item?id=41260321"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 20:36:41",
+      "https://news.ycombinator.com/item?id=41260098"
+    ],
+    [
+      "We Survived 10k Requests/Second: Switching to Signed Asset URLs in an Emergency",
+      "https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 20:31:24",
       "https://news.ycombinator.com/item?id=41260050"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41260040"
     ],
     [
-      "Unveiling Hermes 3: The First Fine-Tuned Llama 3.1 405B Model",
+      "Hermes 3: The First Fine-Tuned Llama 3.1 405B Model",
       "https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "Looking Glass' new lineup includes a $300 phone-sized holographic display",
       "https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 18:55:42",
-      "https://news.ycombinator.com/item?id=41259229"
-    ],
-    [
-      "It's the land, stupid: How the homebuilder cartel drives high housing prices",
-      "https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder"
     ]
   ],
   [
@@ -81,42 +91,12 @@
   ],
   [
     [
-      "2024-08-15, 17:01:10",
-      "https://news.ycombinator.com/item?id=41258123"
-    ],
-    [
-      "RankScience (YC W17) is hiring to supercharge SEO for startups",
-      "https://remotejobs.org/companies/rankscience-remote-jobs"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 15:44:53",
       "https://news.ycombinator.com/item?id=41257369"
     ],
     [
       "Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents",
       "https://news.ycombinator.com/item?id=41257369"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 14:23:36",
-      "https://news.ycombinator.com/item?id=41256477"
-    ],
-    [
-      "Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels",
-      "https://mobiusml.github.io/gemlite_blogpost/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 14:05:30",
-      "https://news.ycombinator.com/item?id=41256222"
-    ],
-    [
-      "CockroachDB License Change",
-      "https://www.cockroachlabs.com/enterprise-license-update/"
     ]
   ],
   [
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2024-08-14, 12:12:23",
-      "https://news.ycombinator.com/item?id=41245159"
+      "2024-08-14, 19:20:09",
+      "https://news.ycombinator.com/item?id=41249571"
     ],
     [
-      "Font with Built-In Syntax Highlighting",
-      "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
+      "Why won't some people pay for news? (2022)",
+      "https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2024-08-13, 07:58:45",
+      "https://news.ycombinator.com/item?id=41233309"
+    ],
+    [
+      "The history of orthogonal frequency-division multiplexing (2009)",
+      "https://ieeexplore.ieee.org/abstract/document/5307460"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 07:06:46",
       "https://news.ycombinator.com/item?id=41233032"
     ],
@@ -287,6 +277,16 @@
     [
       "Writing a C Compiler: Build a Real Programming Language from Scratch",
       "https://nostarch.com/writing-c-compiler"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 17:47:20",
+      "https://news.ycombinator.com/item?id=41227279"
+    ],
+    [
+      "Deals with the devil aren't what they used to be",
+      "https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review"
     ]
   ],
   [
