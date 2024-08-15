@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
 * [2024-08-12, 23:31:17](https://news.ycombinator.com/item?id=41230546) - [Wet-lab innovations will lead the AI revolution in biology](https://substack.com/@abhishaikemahajan/p-146580339)
+* [2024-08-12, 23:07:41](https://news.ycombinator.com/item?id=41230396) - [My chatbot builder is over-engineered, and I love it](https://www.fastmind.ai/blog/over-engineered-chatbot)
 * [2024-08-12, 23:01:37](https://news.ycombinator.com/item?id=41230344) - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
 * [2024-08-12, 22:52:21](https://news.ycombinator.com/item?id=41230267) - [Reading Akkadian cuneiform using natural language processing (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240511)
 * [2024-08-12, 22:40:53](https://news.ycombinator.com/item?id=41230169) - [User-defined Order in SQL (2018)](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
