@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
 * [2024-08-15, 10:04:36](https://news.ycombinator.com/item?id=41254441) - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
+* [2024-08-15, 09:45:29](https://news.ycombinator.com/item?id=41254373) - [Alpine.js for Ruby on Rails Developers: Simplifying Front End Development](https://alexsinelnikov.blog/alpinejs-for-ruby-on-rails-developers-simplifying-frontend-development)
 * [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
 * [2024-08-15, 07:40:35](https://news.ycombinator.com/item?id=41253860) - [How we migrated GOV.UK Notify to AWS Elastic Container Service](https://gds.blog.gov.uk/2024/08/14/how-we-migrated-gov-uk-notify-to-aws-elastic-container-service/)
 * [2024-08-15, 07:07:08](https://news.ycombinator.com/item?id=41253720) - [Open-source utils for devs who don't like ads](https://github.com/jamdotdev/jam-dev-utilities)

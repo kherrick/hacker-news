@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-15, 10:04:36](https://news.ycombinator.com/item?id=41254441) - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
+* [2024-08-15, 09:45:29](https://news.ycombinator.com/item?id=41254373) - [Alpine.js for Ruby on Rails Developers: Simplifying Front End Development](https://alexsinelnikov.blog/alpinejs-for-ruby-on-rails-developers-simplifying-frontend-development)
 * [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
 * [2024-08-15, 07:40:35](https://news.ycombinator.com/item?id=41253860) - [How we migrated GOV.UK Notify to AWS Elastic Container Service](https://gds.blog.gov.uk/2024/08/14/how-we-migrated-gov-uk-notify-to-aws-elastic-container-service/)
 * [2024-08-15, 07:00:29](https://news.ycombinator.com/item?id=41253691) - [Legalist (YC S16) Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
@@ -13,7 +14,6 @@
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
 * [2024-08-14, 16:35:52](https://news.ycombinator.com/item?id=41247982) - [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40)
 * [2024-08-14, 16:22:40](https://news.ycombinator.com/item?id=41247841) - [How one ED mobilized his department during a mass casualty incident (2017)](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
-* [2024-08-14, 15:21:08](https://news.ycombinator.com/item?id=41247132) - [Hilary Mantel Reviews “A Life of One's Own/An Experiment in Leisure” (1986)](https://literaryreview.co.uk/journeys-into-the-interior)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
 * [2024-08-14, 14:00:55](https://news.ycombinator.com/item?id=41246181) - [Project Oak: Meaningful control of data in distributed systems](https://github.com/project-oak/oak)
