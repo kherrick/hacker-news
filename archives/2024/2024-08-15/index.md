@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 20:31:24](https://news.ycombinator.com/item?id=41260050) - [Cleaning up the aging brain: Scientists restore brain's trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
+* [2024-08-15, 20:30:37](https://news.ycombinator.com/item?id=41260040) - [Unveiling Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
 * [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 * [2024-08-15, 19:39:00](https://news.ycombinator.com/item?id=41259592) - [NeuroAI paper proposes \"Embodied Turing Test\" to evaluate AI (2023)](https://www.nature.com/articles/s41467-023-37180-x)
 * [2024-08-15, 19:18:45](https://news.ycombinator.com/item?id=41259415) - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
