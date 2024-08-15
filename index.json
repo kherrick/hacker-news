@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-15, 19:39:00",
-      "https://news.ycombinator.com/item?id=41259592"
-    ],
-    [
-      "NeuroAI paper proposes \"Embodied Turing Test\" to evaluate AI (2023)",
-      "https://www.nature.com/articles/s41467-023-37180-x"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 19:18:45",
       "https://news.ycombinator.com/item?id=41259415"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41259229"
     ],
     [
-      "It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices",
+      "It's the land, stupid: How the homebuilder cartel drives high housing prices",
       "https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder"
     ]
   ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2024-08-15, 13:33:48",
-      "https://news.ycombinator.com/item?id=41255880"
-    ],
-    [
-      "YouTube Video to Tabs and Lyrics",
-      "https://github.com/JoinMusic/fish"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 13:00:48",
       "https://news.ycombinator.com/item?id=41255456"
     ],
@@ -131,6 +111,26 @@
   ],
   [
     [
+      "2024-08-15, 12:02:09",
+      "https://news.ycombinator.com/item?id=41254976"
+    ],
+    [
+      "Google is a monopoly – the fix isn't obvious",
+      "https://www.theregister.com/2024/08/15/google_monopoly_fix/"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 11:53:47",
+      "https://news.ycombinator.com/item?id=41254936"
+    ],
+    [
+      "Markdown is meant to be shown (2021)",
+      "https://daringfireball.net/linked/2021/03/05/snell-ios-markdown-editors"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 11:13:37",
       "https://news.ycombinator.com/item?id=41254740"
     ],
@@ -147,6 +147,16 @@
     [
       "Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL",
       "https://github.com/avishek-sen-gupta/cobol-rekt"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 08:36:42",
+      "https://news.ycombinator.com/item?id=41254094"
+    ],
+    [
+      "Cryptographic Right Answers: Post Quantum Edition",
+      "https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/"
     ]
   ],
   [
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2024-08-14, 16:50:31",
-      "https://news.ycombinator.com/item?id=41248104"
+      "2024-08-14, 20:37:33",
+      "https://news.ycombinator.com/item?id=41250239"
     ],
     [
-      "Inside the \"3 billion people\" national public data breach",
-      "https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/"
+      "Detecting Sign Language in News Videos",
+      "https://vrroom.github.io/blog/2024/08/11/sign-detection.html"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=41227716"
     ],
     [
-      "Book – Writing a C Compiler: Build a Real Programming Language from Scratch 2024",
+      "Writing a C Compiler: Build a Real Programming Language from Scratch",
       "https://nostarch.com/writing-c-compiler"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Everything You Ever Wanted to Know about E. Coli (2008)",
       "https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 04:34:59",
-      "https://news.ycombinator.com/item?id=41221186"
-    ],
-    [
-      "Firedancer: Language for 2D shmups bullet-hell patterns",
-      "https://firedancer-lang.com/"
     ]
   ]
 ]
