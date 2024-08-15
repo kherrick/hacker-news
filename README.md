@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 19:18:45](https://news.ycombinator.com/item?id=41259415) - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
 * [2024-08-15, 19:02:43](https://news.ycombinator.com/item?id=41259286) - [Gemma explained: An overview of Gemma model family architectures](https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/)
 * [2024-08-15, 18:55:42](https://news.ycombinator.com/item?id=41259229) - [It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
 * [2024-08-15, 18:43:26](https://news.ycombinator.com/item?id=41259131) - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
@@ -20,7 +21,6 @@
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 12:12:23](https://news.ycombinator.com/item?id=41245159) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-* [2024-08-14, 02:19:17](https://news.ycombinator.com/item?id=41241942) - [Sort, sweep, and prune: Collision detection algorithms (2023)](https://leanrada.com/notes/sweep-and-prune/)
 * [2024-08-13, 16:57:10](https://news.ycombinator.com/item?id=41237176) - [Open Source FPGA Expansion Card for the Apple II](https://wiki.reactivemicro.com/A2FPGA)
 * [2024-08-13, 10:18:34](https://news.ycombinator.com/item?id=41234024) - [Kioxia Demonstrates Raid Offload Scheme for NVMe Drives](https://www.anandtech.com/show/21523/kioxia-demonstrates-raid-offload-scheme-for-nvme-drives)
 * [2024-08-13, 07:58:45](https://news.ycombinator.com/item?id=41233309) - [The History of Orthogonal Frequency Division Multiplexing (OFDM)](https://ieeexplore.ieee.org/abstract/document/4698465)

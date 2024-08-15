@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 19:18:45](https://news.ycombinator.com/item?id=41259415) - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
 * [2024-08-15, 19:02:43](https://news.ycombinator.com/item?id=41259286) - [Gemma explained: An overview of Gemma model family architectures](https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/)
 * [2024-08-15, 18:55:42](https://news.ycombinator.com/item?id=41259229) - [It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
 * [2024-08-15, 18:43:34](https://news.ycombinator.com/item?id=41259133) - [Shell oil non-profit donated to anti-climate groups behind Project 2025](https://www.theguardian.com/us-news/article/2024/aug/15/shell-oil-project-2025-climate-crisis)
