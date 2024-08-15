@@ -31,6 +31,7 @@
 * [2024-08-12, 18:52:59](https://news.ycombinator.com/item?id=41227987) - [SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level](https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/)
 * [2024-08-12, 18:33:38](https://news.ycombinator.com/item?id=41227792) - [San Francisco seeks ban of software critics say is used to inflate rents](https://www.latimes.com/california/story/2024-08-01/san-francisco-seeks-ban-of-software-critics-say-is-used-to-artificially-inflate-rents)
 * [2024-08-12, 18:31:45](https://news.ycombinator.com/item?id=41227772) - [Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
+* [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Book – Writing a C Compiler: Build a Real Programming Language from Scratch 2024](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 18:07:12](https://news.ycombinator.com/item?id=41227515) - [Ask HN: What are some \"toy\" projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://www.synnaxlabs.com/)
 * [2024-08-12, 17:55:07](https://news.ycombinator.com/item?id=41227369) - [Launch HN: Synnax (YC S24) – Unified Hardware Control and Sensor Data Streaming](https://news.ycombinator.com/item?id=41227369)
