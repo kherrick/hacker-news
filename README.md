@@ -3,6 +3,7 @@
 * [2024-08-15, 11:13:37](https://news.ycombinator.com/item?id=41254740) - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-15, 10:04:36](https://news.ycombinator.com/item?id=41254441) - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
 * [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
+* [2024-08-15, 07:42:28](https://news.ycombinator.com/item?id=41253870) - [WriteFreely: An open source platform for building a writing space on the web](https://writefreely.org/)
 * [2024-08-15, 07:40:35](https://news.ycombinator.com/item?id=41253860) - [How we migrated GOV.UK Notify to AWS Elastic Container Service](https://gds.blog.gov.uk/2024/08/14/how-we-migrated-gov-uk-notify-to-aws-elastic-container-service/)
 * [2024-08-15, 07:00:29](https://news.ycombinator.com/item?id=41253691) - [Legalist (YC S16) Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
 * [2024-08-15, 06:21:24](https://news.ycombinator.com/item?id=41253544) - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
@@ -27,7 +28,6 @@
 * [2024-08-13, 15:22:45](https://news.ycombinator.com/item?id=41236351) - [The Myth of the Product-Market Fit (2013)](https://blog.nishantsoni.com/p/the-myth-of-the-product-market-fit)
 * [2024-08-12, 22:52:21](https://news.ycombinator.com/item?id=41230267) - [Reading Akkadian cuneiform using natural language processing (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240511)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Book – Writing a C Compiler: Build a Real Programming Language from Scratch 2024](https://nostarch.com/writing-c-compiler)
-* [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 04:34:59](https://news.ycombinator.com/item?id=41221186) - [Firedancer: Language for 2D shmups bullet-hell patterns](https://firedancer-lang.com/)
 * [2024-08-11, 23:07:32](https://news.ycombinator.com/item?id=41219903) - [Is oral history more durable than written history?](https://www.washingtonpost.com/opinions/2024/08/06/indigenous-oral-history/)
 
