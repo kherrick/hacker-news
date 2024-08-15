@@ -44,6 +44,7 @@
 * [2024-08-13, 12:24:08](https://news.ycombinator.com/item?id=41234767) - [Psssst! Your date of birth can be a random number!](https://shkspr.mobi/blog/2024/08/psssst-your-date-of-birth-can-be-a-random-number/)
 * [2024-08-13, 12:15:57](https://news.ycombinator.com/item?id=41234713) - [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 * [2024-08-13, 12:05:22](https://news.ycombinator.com/item?id=41234636) - [Emacs: Contextual Interfaces in Casual Calc](http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html)
+* [2024-08-13, 12:05:16](https://news.ycombinator.com/item?id=41234635) - [I gave my kids a summer like mine in the 1980s – every parent should try it](https://inews.co.uk/inews-lifestyle/gave-my-kids-summer-1980s-every-parent-should-try-3222527)
 * [2024-08-13, 11:30:52](https://news.ycombinator.com/item?id=41234382) - [Rethinking the Nature of Light](https://chatgpt.com/share/9296f553-d36d-4c02-b73d-31b1058afe60)
 * [2024-08-13, 10:48:37](https://news.ycombinator.com/item?id=41234180) - [Core Python developer suspended for three months](https://www.theregister.com/2024/08/09/core_python_developer_suspended_coc/)
 * [2024-08-13, 10:47:57](https://news.ycombinator.com/item?id=41234174) - [Are We Living in the Age of Info-Determinism?](https://www.newyorker.com/culture/open-questions/are-we-living-in-the-age-of-info-determinism)
