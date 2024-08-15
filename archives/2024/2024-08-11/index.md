@@ -31,6 +31,7 @@
 * [2024-08-11, 19:21:39](https://news.ycombinator.com/item?id=41218658) - [The case for pole dancing in the Olympics](https://www.vox.com/culture/366257/pole-dancing-olympics-sport-sex-work-gymnastics-paris)
 * [2024-08-11, 19:10:06](https://news.ycombinator.com/item?id=41218600) - [Trying for twelve years to chase down and catch an antelope by foot [audio]](https://www.thisamericanlife.org/80/running-after-antelope)
 * [2024-08-11, 18:28:25](https://news.ycombinator.com/item?id=41218314) - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You've Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
+* [2024-08-11, 17:59:25](https://news.ycombinator.com/item?id=41218069) - [Ask HN: Any product inventors or creators here?](https://news.ycombinator.com/item?id=41218069)
 * [2024-08-11, 17:42:05](https://news.ycombinator.com/item?id=41217903) - [Another variable-length integer encoding](https://dcreager.net/2021/03/a-better-varint/)
 * [2024-08-11, 17:36:52](https://news.ycombinator.com/item?id=41217855) - ['smart' insulin that responds to changing blood sugar levels in real time](https://www.theguardian.com/society/article/2024/aug/11/scientists-hail-smart-insulin-responds-changing-blood-sugar-levels-real-time-diabetes)
 * [2024-08-11, 17:23:17](https://news.ycombinator.com/item?id=41217758) - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)

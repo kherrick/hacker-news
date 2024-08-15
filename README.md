@@ -9,7 +9,6 @@
 * [2024-08-15, 19:19:23](https://news.ycombinator.com/item?id=41259425) - [FoodAnalyze: Instant Food Label Analysis – Free for 24 Hours](https://foodanalyze.com/)
 * [2024-08-15, 19:18:45](https://news.ycombinator.com/item?id=41259415) - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
 * [2024-08-15, 18:43:26](https://news.ycombinator.com/item?id=41259131) - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
-* [2024-08-15, 18:33:04](https://news.ycombinator.com/item?id=41259034) - [Programmers Don't Read Books – But You Should (2008)](https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/)
 * [2024-08-15, 17:16:47](https://news.ycombinator.com/item?id=41258276) - [Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
@@ -30,6 +29,7 @@
 * [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [How NASA brought the F-1 “moon rocket” engine back to life (2013)](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Writing a C Compiler: Build a Real Programming Language from Scratch](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the devil aren't what they used to be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
+* [2024-08-11, 17:59:25](https://news.ycombinator.com/item?id=41218069) - [Ask HN: Any product inventors or creators here?](https://news.ycombinator.com/item?id=41218069)
 
 ## [Archives](archives/index.md)
 
