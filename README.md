@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 19:02:43](https://news.ycombinator.com/item?id=41259286) - [Gemma explained: An overview of Gemma model family architectures](https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/)
+* [2024-08-15, 18:55:42](https://news.ycombinator.com/item?id=41259229) - [It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
+* [2024-08-15, 18:43:34](https://news.ycombinator.com/item?id=41259133) - [Shell oil non-profit donated to anti-climate groups behind Project 2025](https://www.theguardian.com/us-news/article/2024/aug/15/shell-oil-project-2025-climate-crisis)
 * [2024-08-15, 18:43:26](https://news.ycombinator.com/item?id=41259131) - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
 * [2024-08-15, 18:29:58](https://news.ycombinator.com/item?id=41259006) - [Stablecoins Can Have Bank Runs](https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs)
 * [2024-08-15, 18:29:42](https://news.ycombinator.com/item?id=41259003) - [Judge tells Google: Play Store shakeup coming; punishment for running a monopoly](https://apnews.com/article/google-play-store-android-apps-antitrust-monopoly-240b2493110660684198822c57e22a60)
-* [2024-08-15, 17:50:27](https://news.ycombinator.com/item?id=41258628) - [GEN One: Innovations from the Paul G. Allen Collection](https://www.christies.com/en/stories/gen-one-innovations-from-the-paul-g-allen-collection-1f0df60a726e4dcbabef3a91a57ef7ee)
+* [2024-08-15, 18:06:46](https://news.ycombinator.com/item?id=41258787) - [Teach TLDraw](https://teach.tldraw.com/)
 * [2024-08-15, 17:16:47](https://news.ycombinator.com/item?id=41258276) - [Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)
 * [2024-08-15, 17:13:34](https://news.ycombinator.com/item?id=41258241) - [Galois Theory of Algorithms (2018) [pdf]](https://arxiv.org/abs/1011.0014)
 * [2024-08-15, 17:01:10](https://news.ycombinator.com/item?id=41258123) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -19,8 +22,6 @@
 * [2024-08-15, 07:54:02](https://news.ycombinator.com/item?id=41253922) - [Nomad, communicate off-grid mesh, forward secrecy and extreme privacy](https://github.com/markqvist/NomadNet)
 * [2024-08-15, 07:42:28](https://news.ycombinator.com/item?id=41253870) - [WriteFreely: An open source platform for building a writing space on the web](https://writefreely.org/)
 * [2024-08-15, 05:59:42](https://news.ycombinator.com/item?id=41253461) - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
-* [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
-* [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 12:12:23](https://news.ycombinator.com/item?id=41245159) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2024-08-13, 16:57:10](https://news.ycombinator.com/item?id=41237176) - [Open Source FPGA Expansion Card for the Apple II](https://wiki.reactivemicro.com/A2FPGA)
 * [2024-08-13, 10:18:34](https://news.ycombinator.com/item?id=41234024) - [Kioxia Demonstrates Raid Offload Scheme for NVMe Drives](https://www.anandtech.com/show/21523/kioxia-demonstrates-raid-offload-scheme-for-nvme-drives)
@@ -29,7 +30,6 @@
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Book – Writing a C Compiler: Build a Real Programming Language from Scratch 2024](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the Devil Aren't What They Used to Be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
 * [2024-08-12, 13:00:04](https://news.ycombinator.com/item?id=41223907) - [Everything You Ever Wanted to Know about E. Coli (2008)](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
-* [2024-08-12, 04:34:59](https://news.ycombinator.com/item?id=41221186) - [Firedancer: Language for 2D shmups bullet-hell patterns](https://firedancer-lang.com/)
 
 ## [Archives](archives/index.md)
 
