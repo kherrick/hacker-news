@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 03:43:10](https://news.ycombinator.com/item?id=41252949) - [No tax on tips: Why politicians love it, and economists don't](https://www.npr.org/2024/08/11/nx-s1-5071144/no-tax-on-tips-campaigns-trump-harris)
 * [2024-08-15, 02:48:16](https://news.ycombinator.com/item?id=41252731) - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 * [2024-08-15, 01:59:29](https://news.ycombinator.com/item?id=41252505) - [Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
 * [2024-08-14, 23:03:23](https://news.ycombinator.com/item?id=41251412) - [GitHub was down](https://github.com/)
 * [2024-08-14, 22:45:14](https://news.ycombinator.com/item?id=41251312) - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
-* [2024-08-14, 21:45:39](https://news.ycombinator.com/item?id=41250830) - [International Study Detects Consciousness in Unresponsive Patients](https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients)
 * [2024-08-14, 18:42:17](https://news.ycombinator.com/item?id=41249212) - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://www.instructables.com/Diy-Rc-Submarine/)
 * [2024-08-14, 17:29:30](https://news.ycombinator.com/item?id=41248460) - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
@@ -20,7 +20,6 @@
 * [2024-08-14, 14:00:55](https://news.ycombinator.com/item?id=41246181) - [Project Oak: Meaningful control of data in distributed systems](https://github.com/project-oak/oak)
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas sues GM for unlaw­ful­ly collecting and selling dri­vers' pri­vate data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
 * [2024-08-14, 12:12:23](https://news.ycombinator.com/item?id=41245159) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-* [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWYG (2005)](https://spectrum.ieee.org/of-modes-and-men)
 * [2024-08-14, 10:12:04](https://news.ycombinator.com/item?id=41244468) - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 * [2024-08-14, 02:19:17](https://news.ycombinator.com/item?id=41241942) - [Sort, sweep, and prune: Collision detection algorithms (2023)](https://leanrada.com/notes/sweep-and-prune/)
 * [2024-08-13, 22:34:00](https://news.ycombinator.com/item?id=41240556) - [Show HN: I've open sourced DD Poker](https://github.com/dougdonohoe/ddpoker)
@@ -29,6 +28,7 @@
 * [2024-08-12, 23:07:41](https://news.ycombinator.com/item?id=41230396) - [My chatbot builder is over-engineered and I love it](https://www.fastmind.ai/blog/over-engineered-chatbot)
 * [2024-08-12, 22:52:21](https://news.ycombinator.com/item?id=41230267) - [Reading Akkadian cuneiform using natural language processing (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240511)
 * [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
+* [2024-08-12, 12:51:42](https://news.ycombinator.com/item?id=41223835) - [The Design Space of Wikis](https://borretti.me/article/the-design-space-of-wikis)
 * [2024-08-12, 04:34:59](https://news.ycombinator.com/item?id=41221186) - [Firedancer: Language for 2D shmups bullet-hell patterns](https://firedancer-lang.com/)
 
 ## [Archives](archives/index.md)

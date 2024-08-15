@@ -81,6 +81,7 @@
 * [2024-08-12, 13:02:31](https://news.ycombinator.com/item?id=41223934) - [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 13:00:04](https://news.ycombinator.com/item?id=41223907) - [Everything You Ever Wanted to Know about E. Coli (2008)](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
 * [2024-08-12, 12:59:34](https://news.ycombinator.com/item?id=41223902) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
+* [2024-08-12, 12:51:42](https://news.ycombinator.com/item?id=41223835) - [The Design Space of Wikis](https://borretti.me/article/the-design-space-of-wikis)
 * [2024-08-12, 12:46:09](https://news.ycombinator.com/item?id=41223774) - [US Government wants to make it easier for you to click the 'unsubscribe' button](https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da)
 * [2024-08-12, 12:16:17](https://news.ycombinator.com/item?id=41223554) - [They encouraged us to insulate our home. Now it's unmortgageable](https://www.theguardian.com/money/article/2024/aug/12/they-encouraged-us-to-insulate-our-home-now-its-unmortgageable)
 * [2024-08-12, 12:00:51](https://news.ycombinator.com/item?id=41223457) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
