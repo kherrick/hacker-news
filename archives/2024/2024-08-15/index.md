@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One Man's Quest to Restore the First-Ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 * [2024-08-15, 21:01:13](https://news.ycombinator.com/item?id=41260321) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
 * [2024-08-15, 20:36:41](https://news.ycombinator.com/item?id=41260098) - [We Survived 10k Requests/Second: Switching to Signed Asset URLs in an Emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
 * [2024-08-15, 20:31:24](https://news.ycombinator.com/item?id=41260050) - [Cleaning up the aging brain: Scientists restore brain's trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
