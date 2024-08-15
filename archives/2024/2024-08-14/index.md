@@ -13,6 +13,7 @@
 * [2024-08-14, 21:03:45](https://news.ycombinator.com/item?id=41250470) - [AltStore PAL receives Epic Games MegaGrant, will no longer require subscription](https://fosstodon.org/@altstore/112962388607680148)
 * [2024-08-14, 19:13:44](https://news.ycombinator.com/item?id=41249504) - [ISPs worry that killing FCC net neutrality rules will come back to haunt them](https://arstechnica.com/tech-policy/2024/08/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans/)
 * [2024-08-14, 18:43:01](https://news.ycombinator.com/item?id=41249218) - [Personality Types and Hiring](https://vaishnavsunil.substack.com/p/you-seem-too-high-in-openness)
+* [2024-08-14, 18:42:17](https://news.ycombinator.com/item?id=41249212) - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://www.instructables.com/Diy-Rc-Submarine/)
 * [2024-08-14, 18:42:17](https://news.ycombinator.com/item?id=41249212) - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://blog.arduino.cc/2024/08/03/patrol-the-pool-with-this-arduino-nano-powered-diy-rc-submarine/)
 * [2024-08-14, 18:29:40](https://news.ycombinator.com/item?id=41249080) - [My Trial as a War Criminal (By Leo Szilard, Inventor of Nuclear Chain Reaction)](https://en.wikipedia.org/wiki/My_Trial_as_a_War_Criminal)
 * [2024-08-14, 18:28:38](https://news.ycombinator.com/item?id=41249066) - [Who Goes Nazi? (1941)](https://harpers.org/archive/1941/08/who-goes-nazi/)

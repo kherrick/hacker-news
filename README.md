@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-15, 02:18:45](https://news.ycombinator.com/item?id=41252582) - [Nate Silver's guide to \"The River\"](https://www.vanityfair.com/news/story/nate-silver-on-the-edge)
+* [2024-08-15, 02:48:16](https://news.ycombinator.com/item?id=41252731) - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 * [2024-08-15, 01:59:29](https://news.ycombinator.com/item?id=41252505) - [Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
 * [2024-08-14, 23:03:23](https://news.ycombinator.com/item?id=41251412) - [GitHub was down](https://github.com/)
 * [2024-08-14, 22:45:14](https://news.ycombinator.com/item?id=41251312) - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
 * [2024-08-14, 21:45:39](https://news.ycombinator.com/item?id=41250830) - [International Study Detects Consciousness in Unresponsive Patients](https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients)
-* [2024-08-14, 18:42:17](https://news.ycombinator.com/item?id=41249212) - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://blog.arduino.cc/2024/08/03/patrol-the-pool-with-this-arduino-nano-powered-diy-rc-submarine/)
+* [2024-08-14, 18:42:17](https://news.ycombinator.com/item?id=41249212) - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://www.instructables.com/Diy-Rc-Submarine/)
 * [2024-08-14, 17:29:30](https://news.ycombinator.com/item?id=41248460) - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
 * [2024-08-14, 17:00:54](https://news.ycombinator.com/item?id=41248208) - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
