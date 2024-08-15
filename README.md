@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-15, 04:27:51](https://news.ycombinator.com/item?id=41253083) - [ALS Stole His Voice. A.I. Retrieved It](https://www.nytimes.com/2024/08/14/health/als-ai-brain-implants.html)
+* [2024-08-15, 03:26:28](https://news.ycombinator.com/item?id=41252893) - [2024-08-12 a pedantic review of the Las Vegas loop](https://computer.rip/2024-08-12-a-pedantic-review-of-the-las-vegas-loop.html)
 * [2024-08-15, 02:48:16](https://news.ycombinator.com/item?id=41252731) - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 * [2024-08-15, 01:59:29](https://news.ycombinator.com/item?id=41252505) - [Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
 * [2024-08-14, 23:03:23](https://news.ycombinator.com/item?id=41251412) - [GitHub was down](https://github.com/)
@@ -15,6 +15,7 @@
 * [2024-08-14, 15:22:54](https://news.ycombinator.com/item?id=41247153) - [Poor Richard's Almanack](https://blog.plover.com/calendar/poor-richards-almanack.html)
 * [2024-08-14, 15:21:08](https://news.ycombinator.com/item?id=41247132) - [Hilary Mantel Reviews “A Life of One's Own/An Experiment in Leisure” (1986)](https://literaryreview.co.uk/journeys-into-the-interior)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
+* [2024-08-14, 14:42:43](https://news.ycombinator.com/item?id=41246686) - [Show HN: Double – Design and invest in your own stock index](https://news.ycombinator.com/item?id=41246686)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
 * [2024-08-14, 14:00:55](https://news.ycombinator.com/item?id=41246181) - [Project Oak: Meaningful control of data in distributed systems](https://github.com/project-oak/oak)
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas sues GM for unlaw­ful­ly collecting and selling dri­vers' pri­vate data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
@@ -25,7 +26,6 @@
 * [2024-08-13, 16:02:57](https://news.ycombinator.com/item?id=41236718) - [DUNE scientists observe first neutrinos with prototype detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
 * [2024-08-13, 15:22:45](https://news.ycombinator.com/item?id=41236351) - [The Myth of the Product-Market Fit](https://blog.nishantsoni.com/p/the-myth-of-the-product-market-fit)
 * [2024-08-13, 14:11:36](https://news.ycombinator.com/item?id=41235662) - [I put a toaster in the dishwasher (2012)](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html)
-* [2024-08-12, 23:07:41](https://news.ycombinator.com/item?id=41230396) - [My chatbot builder is over-engineered and I love it](https://www.fastmind.ai/blog/over-engineered-chatbot)
 * [2024-08-12, 22:52:21](https://news.ycombinator.com/item?id=41230267) - [Reading Akkadian cuneiform using natural language processing (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240511)
 * [2024-08-12, 13:27:39](https://news.ycombinator.com/item?id=41224128) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 12:51:42](https://news.ycombinator.com/item?id=41223835) - [The Design Space of Wikis](https://borretti.me/article/the-design-space-of-wikis)
