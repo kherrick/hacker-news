@@ -15,6 +15,7 @@
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
 * [2024-08-13, 20:47:13](https://news.ycombinator.com/item?id=41239670) - [Show HN: I built a tool to try artworks on your own wall](https://wallartlovers.com)
 * [2024-08-13, 19:55:19](https://news.ycombinator.com/item?id=41239096) - [Self-driving Waymo cars keep SF residents awake all night by honking](https://arstechnica.com/information-technology/2024/08/self-driving-waymo-cars-keep-sf-residents-awake-all-night-by-honking-at-each-other/)
+* [2024-08-13, 19:53:12](https://news.ycombinator.com/item?id=41239067) - [A Nice, Provocative Silence: An Interview with the Author of Cahokia Jazz](https://www.historynewsnetwork.org/article/a-nice-provocative-silence)
 * [2024-08-13, 19:14:29](https://news.ycombinator.com/item?id=41238632) - [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 17:37:50](https://news.ycombinator.com/item?id=41237542) - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)

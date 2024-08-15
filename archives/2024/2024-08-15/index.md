@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 07:07:08](https://news.ycombinator.com/item?id=41253720) - [Open-source utils for devs who don't like ads](https://github.com/jamdotdev/jam-dev-utilities)
 * [2024-08-15, 07:00:29](https://news.ycombinator.com/item?id=41253691) - [Legalist (YC S16) Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
 * [2024-08-15, 06:21:24](https://news.ycombinator.com/item?id=41253544) - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
 * [2024-08-15, 05:59:42](https://news.ycombinator.com/item?id=41253461) - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
