@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
+* [2024-08-15, 14:01:36](https://news.ycombinator.com/item?id=41256167) - [I disapprove of what you say, but will defend to the death your right to say it](https://www.socratic-method.com/quote-meanings-interpretations/evelyn-beatrice-hall-i-disapprove-of-what-you-say-but-i-will-defend-to-the-death-your-right-to-say-it)
+* [2024-08-15, 13:53:20](https://news.ycombinator.com/item?id=41256077) - [We have discovered antibiotics in the global microbiome with AI, ask us anything](https://old.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
 * [2024-08-15, 13:43:12](https://news.ycombinator.com/item?id=41255968) - [Iranian banks hit by major cyber attack, reportedly one of largest in history](https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iranian-banks-hit-by-major-cyber-attack-reportedly-one-of-largest-in-history)
+* [2024-08-15, 13:33:48](https://news.ycombinator.com/item?id=41255880) - [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
 * [2024-08-15, 13:26:30](https://news.ycombinator.com/item?id=41255782) - [Apple vs. the \"Free Market\"](https://pluralistic.net/2024/08/15/private-law/#thirty-percent-vig)
+* [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:19:03](https://news.ycombinator.com/item?id=41255050) - [Kim Dotcom to be extradited from New Zealand](https://www.reuters.com/world/kim-dotcom-be-extradited-new-zealand-after-12-year-fight-with-us-2024-08-15/)
 * [2024-08-15, 12:12:23](https://news.ycombinator.com/item?id=41255021) - [Toyota bets big on hybrid-only models as EV demand slows](https://www.reuters.com/business/autos-transportation/toyota-bets-big-hybrid-only-models-ev-demand-slows-2024-08-15/)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's Extradition to the U.S. Given Green Light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
