@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
 * [2024-08-15, 07:07:08](https://news.ycombinator.com/item?id=41253720) - [Open-source utils for devs who don't like ads](https://github.com/jamdotdev/jam-dev-utilities)
 * [2024-08-15, 07:00:29](https://news.ycombinator.com/item?id=41253691) - [Legalist (YC S16) Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
 * [2024-08-15, 06:21:24](https://news.ycombinator.com/item?id=41253544) - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
@@ -15,7 +16,6 @@
 * [2024-08-14, 15:22:54](https://news.ycombinator.com/item?id=41247153) - [Poor Richard's Almanack](https://blog.plover.com/calendar/poor-richards-almanack.html)
 * [2024-08-14, 15:21:08](https://news.ycombinator.com/item?id=41247132) - [Hilary Mantel Reviews “A Life of One's Own/An Experiment in Leisure” (1986)](https://literaryreview.co.uk/journeys-into-the-interior)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
-* [2024-08-14, 14:42:43](https://news.ycombinator.com/item?id=41246686) - [Show HN: Double – Design and invest in your own stock index](https://news.ycombinator.com/item?id=41246686)
 * [2024-08-14, 14:03:42](https://news.ycombinator.com/item?id=41246211) - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
 * [2024-08-14, 14:00:55](https://news.ycombinator.com/item?id=41246181) - [Project Oak: Meaningful control of data in distributed systems](https://github.com/project-oak/oak)
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas sues GM for unlaw­ful­ly collecting and selling dri­vers' pri­vate data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
