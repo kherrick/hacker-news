@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-15, 17:50:27](https://news.ycombinator.com/item?id=41258628) - [GEN One: Innovations from the Paul G. Allen Collection](https://www.christies.com/en/stories/gen-one-innovations-from-the-paul-g-allen-collection-1f0df60a726e4dcbabef3a91a57ef7ee)
+* [2024-08-15, 18:29:58](https://news.ycombinator.com/item?id=41259006) - [Stablecoins Can Have Bank Runs](https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs)
+* [2024-08-15, 18:29:42](https://news.ycombinator.com/item?id=41259003) - [Judge tells Google: Play Store shakeup coming; punishment for running a monopoly](https://apnews.com/article/google-play-store-android-apps-antitrust-monopoly-240b2493110660684198822c57e22a60)
 * [2024-08-15, 17:16:47](https://news.ycombinator.com/item?id=41258276) - [Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)
 * [2024-08-15, 17:13:34](https://news.ycombinator.com/item?id=41258241) - [Galois Theory of Algorithms (2018) [pdf]](https://arxiv.org/abs/1011.0014)
 * [2024-08-15, 17:01:10](https://news.ycombinator.com/item?id=41258123) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -16,7 +17,6 @@
 * [2024-08-15, 07:54:02](https://news.ycombinator.com/item?id=41253922) - [Nomad, communicate off-grid mesh, forward secrecy and extreme privacy](https://github.com/markqvist/NomadNet)
 * [2024-08-15, 07:42:28](https://news.ycombinator.com/item?id=41253870) - [WriteFreely: An open source platform for building a writing space on the web](https://writefreely.org/)
 * [2024-08-15, 05:59:42](https://news.ycombinator.com/item?id=41253461) - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
-* [2024-08-15, 02:48:16](https://news.ycombinator.com/item?id=41252731) - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
 * [2024-08-14, 15:10:06](https://news.ycombinator.com/item?id=41247023) - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 * [2024-08-14, 12:12:23](https://news.ycombinator.com/item?id=41245159) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 18:29:58](https://news.ycombinator.com/item?id=41259006) - [Stablecoins Can Have Bank Runs](https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs)
+* [2024-08-15, 18:29:42](https://news.ycombinator.com/item?id=41259003) - [Judge tells Google: Play Store shakeup coming; punishment for running a monopoly](https://apnews.com/article/google-play-store-android-apps-antitrust-monopoly-240b2493110660684198822c57e22a60)
 * [2024-08-15, 17:50:27](https://news.ycombinator.com/item?id=41258628) - [GEN One: Innovations from the Paul G. Allen Collection](https://www.christies.com/en/stories/gen-one-innovations-from-the-paul-g-allen-collection-1f0df60a726e4dcbabef3a91a57ef7ee)
 * [2024-08-15, 17:36:21](https://news.ycombinator.com/item?id=41258492) - [German climate activists stop air traffic after breaking into four airport sites](https://www.theguardian.com/world/article/2024/aug/15/german-climate-activists-breach-four-airport-sites-halting-air-traffic)
 * [2024-08-15, 17:16:47](https://news.ycombinator.com/item?id=41258276) - [Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)
