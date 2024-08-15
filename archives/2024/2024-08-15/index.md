@@ -8,6 +8,7 @@
 * [2024-08-15, 18:55:42](https://news.ycombinator.com/item?id=41259229) - [It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
 * [2024-08-15, 18:43:34](https://news.ycombinator.com/item?id=41259133) - [Shell oil non-profit donated to anti-climate groups behind Project 2025](https://www.theguardian.com/us-news/article/2024/aug/15/shell-oil-project-2025-climate-crisis)
 * [2024-08-15, 18:43:26](https://news.ycombinator.com/item?id=41259131) - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
+* [2024-08-15, 18:33:04](https://news.ycombinator.com/item?id=41259034) - [Programmers Don't Read Books – But You Should (2008)](https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/)
 * [2024-08-15, 18:29:58](https://news.ycombinator.com/item?id=41259006) - [Stablecoins Can Have Bank Runs](https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs)
 * [2024-08-15, 18:29:42](https://news.ycombinator.com/item?id=41259003) - [Judge tells Google: Play Store shakeup coming; punishment for running a monopoly](https://apnews.com/article/google-play-store-android-apps-antitrust-monopoly-240b2493110660684198822c57e22a60)
 * [2024-08-15, 18:06:46](https://news.ycombinator.com/item?id=41258787) - [Teach TLDraw](https://teach.tldraw.com/)
