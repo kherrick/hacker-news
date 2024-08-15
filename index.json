@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=41252582"
     ],
     [
-      "Poker Pros, Crypto Kings, and Tech Titans: Nate Silver's Guide to \"The River\"",
+      "Nate Silver's guide to \"The River\"",
       "https://www.vanityfair.com/news/story/nate-silver-on-the-edge"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 01:26:21",
-      "https://news.ycombinator.com/item?id=41252355"
-    ],
-    [
-      "Repulsive Shells [video]",
-      "https://www.youtube.com/watch?v=skEnUjpNN5w"
     ]
   ],
   [
@@ -47,6 +37,16 @@
     [
       "Algorithms through the lens of symbolic pattern matching",
       "https://symbolica.io/posts/pattern_matching/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 17:01:45",
+      "https://news.ycombinator.com/item?id=41248214"
+    ],
+    [
+      "A Scottish Provenance for the Altar Stone of Stonehenge",
+      "https://www.nature.com/articles/s41586-024-07652-1"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Launch HN: Promi (YC S24) – AI-powered ecommerce discounts",
       "https://news.ycombinator.com/item?id=41247211"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 15:27:01",
+      "https://news.ycombinator.com/item?id=41247193"
+    ],
+    [
+      "Some thoughts on OpenSSH 9.8's PerSourcePenalties feature",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings"
     ]
   ],
   [
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2024-08-13, 02:52:33",
-      "https://news.ycombinator.com/item?id=41231723"
-    ],
-    [
-      "Mastering Dynamic Programming: A Comprehensive Guide",
-      "https://cosmicmeta.io/2024/08/12/mastering-dynamic-programming-a-comprehensive-guide/"
-    ]
-  ],
-  [
-    [
       "2024-08-12, 23:07:41",
       "https://news.ycombinator.com/item?id=41230396"
     ],
     [
-      "My chatbot builder is over-engineered, and I love it",
+      "My chatbot builder is over-engineered and I love it",
       "https://www.fastmind.ai/blog/over-engineered-chatbot"
     ]
   ],
