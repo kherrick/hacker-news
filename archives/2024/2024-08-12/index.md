@@ -52,6 +52,7 @@
 * [2024-08-12, 16:47:19](https://news.ycombinator.com/item?id=41226538) - [Achieving the perfect golden record with graph data](https://aerospike.com/blog/entity-resolution-golden-record/)
 * [2024-08-12, 16:15:41](https://news.ycombinator.com/item?id=41226147) - [Apple to take 30% of all Patreon donations](https://twitter.com/KenneyNL/status/1822996361551184290)
 * [2024-08-12, 16:06:42](https://news.ycombinator.com/item?id=41226039) - [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
+* [2024-08-12, 16:06:21](https://news.ycombinator.com/item?id=41226035) - [How to keep up with AI/ML as a full stack dev?](https://news.ycombinator.com/item?id=41226035)
 * [2024-08-12, 15:54:40](https://news.ycombinator.com/item?id=41225871) - [NASA is about to make its most important safety decision in nearly a generation](https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/)
 * [2024-08-12, 15:49:20](https://news.ycombinator.com/item?id=41225816) - [How Bank of America Ignores Its Own Rules to Prevent Dangerous Workloads](https://www.wsj.com/finance/banking/bank-of-america-worker-death-policies-89eff5f6)
 * [2024-08-12, 15:47:14](https://news.ycombinator.com/item?id=41225795) - [Apple's requirements are about to hit creators and fans on Patreon](https://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon)
