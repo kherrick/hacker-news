@@ -9,6 +9,7 @@
 * [2024-08-15, 16:17:18](https://news.ycombinator.com/item?id=41257677) - [Uncleftish Beholding](https://en.wikipedia.org/wiki/Uncleftish_Beholding)
 * [2024-08-15, 16:10:06](https://news.ycombinator.com/item?id=41257606) - [The AMD Ryzen 9 9950X and Ryzen 9 9900X Review: Flagship Zen 5 Soars and Stalls](https://www.anandtech.com/show/21524/the-amd-ryzen-9-9950x-and-ryzen-9-9900x-review)
 * [2024-08-15, 16:01:10](https://news.ycombinator.com/item?id=41257509) - [Low magnesium levels increase disease risk, new study shows](https://www.unisa.edu.au/media-centre/Releases/2024/low-magnesium-levels-increase-disease-risk-new-study-shows/)
+* [2024-08-15, 16:00:41](https://news.ycombinator.com/item?id=41257505) - [Show HN: Kardinal–The lightest-weight Kubernetes dev environment in the world](https://github.com/kurtosis-tech/kardinal)
 * [2024-08-15, 15:52:51](https://news.ycombinator.com/item?id=41257432) - [ChatGPT –> Bad Gateway](https://chatgpt.com/)
 * [2024-08-15, 15:51:00](https://news.ycombinator.com/item?id=41257416) - [US judge has girl handcuffed for sleeping during court field trip](https://www.bbc.com/news/articles/cn7lxly3xddo)
 * [2024-08-15, 15:45:47](https://news.ycombinator.com/item?id=41257377) - [Google Deletes App on Pixel Phones–'Dangerous' New Spyware Warning](https://www.forbes.com/sites/zakdoffman/2024/08/15/new-pixel-warning-as-pixel-9-pixel-9-pro-pixel-9-pro-fold-release/)
