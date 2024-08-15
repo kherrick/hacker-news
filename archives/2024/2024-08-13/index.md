@@ -52,6 +52,7 @@
 * [2024-08-13, 11:30:52](https://news.ycombinator.com/item?id=41234382) - [Rethinking the Nature of Light](https://chatgpt.com/share/9296f553-d36d-4c02-b73d-31b1058afe60)
 * [2024-08-13, 10:48:37](https://news.ycombinator.com/item?id=41234180) - [Core Python developer suspended for three months](https://www.theregister.com/2024/08/09/core_python_developer_suspended_coc/)
 * [2024-08-13, 10:47:57](https://news.ycombinator.com/item?id=41234174) - [Are We Living in the Age of Info-Determinism?](https://www.newyorker.com/culture/open-questions/are-we-living-in-the-age-of-info-determinism)
+* [2024-08-13, 10:18:34](https://news.ycombinator.com/item?id=41234024) - [Kioxia Demonstrates Raid Offload Scheme for NVMe Drives](https://www.anandtech.com/show/21523/kioxia-demonstrates-raid-offload-scheme-for-nvme-drives)
 * [2024-08-13, 09:58:16](https://news.ycombinator.com/item?id=41233924) - [Show HN:I build a website to generate infographics](https://graphicinfo.cc/)
 * [2024-08-13, 09:33:28](https://news.ycombinator.com/item?id=41233811) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-13, 09:17:19](https://news.ycombinator.com/item?id=41233722) - [Go Algorithms and Data Structures: Best Practices for Beginners](https://github.com/TheAlgorithms/Go)

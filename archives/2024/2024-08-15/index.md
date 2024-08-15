@@ -14,6 +14,7 @@
 * [2024-08-15, 15:51:00](https://news.ycombinator.com/item?id=41257416) - [US judge has girl handcuffed for sleeping during court field trip](https://www.bbc.com/news/articles/cn7lxly3xddo)
 * [2024-08-15, 15:45:47](https://news.ycombinator.com/item?id=41257377) - [Google Deletes App on Pixel Phones–'Dangerous' New Spyware Warning](https://www.forbes.com/sites/zakdoffman/2024/08/15/new-pixel-warning-as-pixel-9-pixel-9-pro-pixel-9-pro-fold-release/)
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
+* [2024-08-15, 15:30:31](https://news.ycombinator.com/item?id=41257223) - [Eric Schmidt Walks Back Claim Google Is Behind on AI Because of Remote Work](https://www.msn.com/en-us/money/companies/eric-schmidt-walks-back-claim-google-is-behind-on-ai-because-of-remote-work/ar-AA1oO2my)
 * [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
 * [2024-08-15, 14:33:51](https://news.ycombinator.com/item?id=41256623) - [Private, Secure and Uncensorable Messaging over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/)
 * [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
