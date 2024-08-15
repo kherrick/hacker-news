@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
 * [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
+* [2024-08-15, 14:33:51](https://news.ycombinator.com/item?id=41256623) - [Private, Secure and Uncensorable Messaging over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/)
+* [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 * [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [A $36,000 Graphical Workstation from 1993 – SGI Indigo 2](https://www.youtube.com/watch?v=1PP--lVTPCQ)
 * [2024-08-15, 14:18:13](https://news.ycombinator.com/item?id=41256401) - [Show HN: Mindtown.ai – an open source Midjourney alternative built on top FLUX](https://mindtown.ai/)
 * [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
 * [2024-08-15, 14:01:36](https://news.ycombinator.com/item?id=41256167) - [I disapprove of what you say, but will defend to the death your right to say it](https://www.socratic-method.com/quote-meanings-interpretations/evelyn-beatrice-hall-i-disapprove-of-what-you-say-but-i-will-defend-to-the-death-your-right-to-say-it)
+* [2024-08-15, 13:53:20](https://news.ycombinator.com/item?id=41256077) - [We have discovered antibiotics in the global microbiome with AI](https://www.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
 * [2024-08-15, 13:53:20](https://news.ycombinator.com/item?id=41256077) - [We have discovered antibiotics in the global microbiome with AI, ask us anything](https://old.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
 * [2024-08-15, 13:43:12](https://news.ycombinator.com/item?id=41255968) - [Iranian banks hit by major cyber attack, reportedly one of largest in history](https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iranian-banks-hit-by-major-cyber-attack-reportedly-one-of-largest-in-history)
 * [2024-08-15, 13:33:48](https://news.ycombinator.com/item?id=41255880) - [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)

@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
-* [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [A $36,000 Graphical Workstation from 1993 – SGI Indigo 2](https://www.youtube.com/watch?v=1PP--lVTPCQ)
-* [2024-08-15, 14:18:13](https://news.ycombinator.com/item?id=41256401) - [Show HN: Mindtown.ai – an open source Midjourney alternative built on top FLUX](https://mindtown.ai/)
+* [2024-08-15, 14:33:51](https://news.ycombinator.com/item?id=41256623) - [Private, Secure and Uncensorable Messaging over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/)
+* [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 * [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
-* [2024-08-15, 13:53:20](https://news.ycombinator.com/item?id=41256077) - [We have discovered antibiotics in the global microbiome with AI, ask us anything](https://old.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
+* [2024-08-15, 13:53:20](https://news.ycombinator.com/item?id=41256077) - [We have discovered antibiotics in the global microbiome with AI](https://www.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
 * [2024-08-15, 13:33:48](https://news.ycombinator.com/item?id=41255880) - [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's Extradition to the U.S. Given Green Light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
@@ -27,7 +27,7 @@
 * [2024-08-13, 15:56:18](https://news.ycombinator.com/item?id=41236657) - [RubyGateway: Embed Ruby in Swift](https://github.com/johnfairh/RubyGateway)
 * [2024-08-13, 15:22:45](https://news.ycombinator.com/item?id=41236351) - [The Myth of the Product-Market Fit (2013)](https://blog.nishantsoni.com/p/the-myth-of-the-product-market-fit)
 * [2024-08-13, 07:58:45](https://news.ycombinator.com/item?id=41233309) - [The History of Orthogonal Frequency Division Multiplexing (OFDM)](https://ieeexplore.ieee.org/abstract/document/4698465)
-* [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [NASA brought the monstrous F-1 \"moon rocket\" engine back to life (2013)](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
+* [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [How NASA brought the F-1 “moon rocket” engine back to life (2013)](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Book – Writing a C Compiler: Build a Real Programming Language from Scratch 2024](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 04:34:59](https://news.ycombinator.com/item?id=41221186) - [Firedancer: Language for 2D shmups bullet-hell patterns](https://firedancer-lang.com/)
 
