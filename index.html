@@ -141,7 +141,7 @@
             <h4>
               <span>2024-08-15 @ 16:17:18</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41257677"
                   >Comments</a
@@ -163,35 +163,197 @@
             <h4>
               <span>2024-08-15 @ 16:10:06</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41257606"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="41257416">
+        <section id="41257509">
           <h3>
             <a
               class="item"
-              href="https://www.bbc.com/news/articles/cn7lxly3xddo"
-              >US judge has girl handcuffed for sleeping during court field
-              trip</a
+              href="https://www.unisa.edu.au/media-centre/Releases/2024/low-magnesium-levels-increase-disease-risk-new-study-shows/"
+              >Low magnesium levels increase disease risk, new study shows</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-15 @ 15:51:00</span
+              <span>2024-08-15 @ 16:01:10</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41257416"
+                ><a href="https://news.ycombinator.com/item?id=41257509"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41257369">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41257369"
+              >Launch HN: Hamming (YC S24) – Automated Testing for Voice
+              Agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-15 @ 15:44:53</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41257369"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.hamming.ai">https://www.hamming.ai</a>).
+              Hamming lets you automatically test your LLM voice agent. In our
+              interactive demo, you play the role of the voice agent, and our
+              agent will play the role of a difficult end user. We'll then score
+              your performance on the call. Try it here:
+              <a href="https://app.hamming.ai/voice-demo"
+                >https://app.hamming.ai/voice-demo</a
+              >
+              (no signup needed). In practice, our agents call your agent!
+              <p>
+                LLM voice agents currently require a lot of iteration and
+                tuning. For example, one of our customers is building an LLM
+                drive-through voice agent for fast food chains. Their KPI is
+                order accuracy. It's crucial for their system to gracefully
+                handle dietary restrictions like allergies and customers who get
+                distracted or otherwise change their minds mid-order. Mistakes
+                in this context could lead to unhappy customers, potential
+                health risks, and financial losses.
+              </p>
+              <p>
+                How do you make sure that such a thing actually works? Most
+                teams spend hours calling their voice agent to find bugs, change
+                the prompt or function definitions, and then call their voice
+                agent again to ensure they fixed the problem and didn't create
+                regressions. This is slow, ad hoc, and feels like a waste of
+                time. In other areas of software development, automated testing
+                has already eliminated this kind of repetitive grunt work — so
+                why not here, too?
+              </p>
+              <p>
+                We were initially working on helping users create evals for
+                prompts &amp; LLM pipelines for a few months but noticed two
+                things:
+              </p>
+              <p>1) Many of our friends were building LLM voice agents.</p>
+              <p>2) They were spending too much time on manual testing.</p>
+              <p>
+                This gave us evidence that there will be more voice companies in
+                the future, and they will need something to make the iteration
+                process easier. We decided to build it!
+              </p>
+              <p>Our solution involves four steps:</p>
+              <p>
+                (1) Create diverse but realistic user personas and scenarios
+                covering the expected conversation space. We create these
+                ourselves for each of our customers. Getting LLMs to create
+                diverse scenarios even with high temperatures is surprisingly
+                tricky. We're learning a lot of tricks along the way to create
+                more randomness and more faithful role-play from the folks at
+                <a href="https://www.reddit.com/r/LocalLLaMA/"
+                  >https://www.reddit.com/r/LocalLLaMA/</a
+                >.
+              </p>
+              <p>
+                (2) Have our agents call your agent when we test your agent's
+                ability to handle things like background noise, long silences,
+                or interruptions. Or have us test just the LLM / logic layer
+                (function calls, etc.) via an API hook.
+              </p>
+              <p>
+                (3) We score the outputs for each conversation using
+                deterministic checks and LLM judges tailored to the specific
+                problem domain (e.g., order accuracy, tone, friendliness). An
+                LLM judge reviews the entire conversation transcript (including
+                function calls and traces) against predefined success criteria,
+                using examples of both good and bad transcripts as references.
+                It then provides a classification output and detailed reasoning
+                to justify its decisions. Building LLM judges that consistently
+                align with human preferences is challenging, but we're improving
+                with each judge we manually develop.
+              </p>
+              <p>
+                (4) Re-use the checks and judges above to score production
+                traffic and use it to track quality metrics in production.
+                (i.e., online evals)
+              </p>
+              <p>
+                We created a Loom recording showing our customers' logged-in
+                experience. We cover how you store and manage scenarios, how you
+                can trigger an experiment run, and how we score each transcript.
+                See the video here:
+                <a
+                  href="https://www.loom.com/share/839fe585aa1740c0baa4faa33d772d3e"
+                  >https://www.loom.com/share/839fe585aa1740c0baa4faa33d772d3e</a
+                >
+              </p>
+              <p>
+                We're inspired by our experiences at Tesla, where Sumanyu led
+                growth initiatives as a data scientist, and Anduril, where
+                Marius headed a data infrastructure team. At both companies,
+                simulations were key to testing autonomous systems before
+                deployment. A common challenge, however, was that simulations
+                often fell short of capturing real-world complexity, resulting
+                in outcomes that didn't always translate to reality. In voice
+                testing, we're optimistic about overcoming this issue. With
+                tools like PlayHT and ElevenLabs, we can generate highly
+                realistic voice interactions, and by integrating LLMs that
+                exhibit human-like reasoning, we hope our simulations will
+                closely replicate how real users interact with voice agents.
+              </p>
+              <p>
+                For now, we're manually onboarding and activating each user.
+                We're working hard to make it self-serve in the next few weeks.
+                The demo at
+                <a href="https://app.hamming.ai/voice-demo"
+                  >https://app.hamming.ai/voice-demo</a
+                >
+                doesn't require any signup, though!
+              </p>
+              <p>
+                Our current pricing is a mix of usage and the number of seats:
+                <a href="https://hamming.ai/pricing"
+                  >https://hamming.ai/pricing</a
+                >. We don't use customer data for training purposes or to
+                benefit other customers, and we don't sell any data. We use
+                PostHog to track usage. We're in the process of getting HIPAA
+                compliance, with SOC 2 being next on the list.
+              </p>
+              <p>
+                Looking ahead, we're focused on making scenario generation and
+                LLM judge creation more automated and self-serve. We also want
+                to create personas based on real production conversations to
+                make it easier to ‘replay’ a user on demand.
+              </p>
+              <p>
+                A natural next step beyond testing is optimization. We're
+                considering building a voice agent optimizer (like DSPy) that
+                uses scenarios from testing that failed to generate a new set of
+                prompts or function call definitions to make the scenario pass.
+                We find the potential of self-play and self-improvement here
+                super exciting.
+              </p>
+              <p>
+                We'd love to hear about your experiences with voice agents,
+                whether as a user or someone building them. If you're building
+                in the voice or agentic space, we're curious about what is
+                working well for you and what challenges you are encountering.
+                We're eager to learn from your insights about setting up evals
+                and simulation pipelines or your thoughts on where this space is
+                heading.
+              </p>
+            </div>
           </section>
         </section>
         <section id="41256477">
@@ -204,7 +366,7 @@
             <h4>
               <span>2024-08-15 @ 14:23:36</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41256477"
                   >Comments</a
@@ -225,11 +387,11 @@
             <h4>
               <span>2024-08-15 @ 14:05:30</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41256222"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -244,11 +406,11 @@
             <h4>
               <span>2024-08-15 @ 13:33:48</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41255880"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -265,11 +427,11 @@
             <h4>
               <span>2024-08-15 @ 13:00:48</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41255456"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -287,11 +449,11 @@
             <h4>
               <span>2024-08-15 @ 12:05:50</span
               ><span class="points-container"
-                >Points: <span class="points">386</span></span
+                >Points: <span class="points">402</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41254989"
                   >Comments</a
-                ><span class="descendants">: 494</span></span
+                ><span class="descendants">: 511</span></span
               >
             </h4>
           </section>
@@ -326,11 +488,11 @@
             <h4>
               <span>2024-08-15 @ 11:53:47</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41254936"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -345,11 +507,11 @@
             <h4>
               <span>2024-08-15 @ 11:13:37</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41254740"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -371,7 +533,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41254441"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
             <div class="text">
@@ -413,11 +575,11 @@
             <h4>
               <span>2024-08-15 @ 08:36:42</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41254094"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -433,11 +595,11 @@
             <h4>
               <span>2024-08-15 @ 07:54:02</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41253922"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -453,11 +615,11 @@
             <h4>
               <span>2024-08-15 @ 07:42:28</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41253870"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -475,7 +637,7 @@
             <h4>
               <span>2024-08-15 @ 05:59:42</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41253461"
                   >Comments</a
@@ -494,11 +656,11 @@
             <h4>
               <span>2024-08-15 @ 02:48:16</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41252731"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
             <div class="text">
@@ -530,33 +692,11 @@
             <h4>
               <span>2024-08-14 @ 16:50:31</span
               ><span class="points-container"
-                >Points: <span class="points">501</span></span
+                >Points: <span class="points">503</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41248104"
                   >Comments</a
                 ><span class="descendants">: 333</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41247841">
-          <h3>
-            <a
-              class="item"
-              href="https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/"
-              >How one ED mobilized his department during a mass casualty
-              incident (2017)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-14 @ 16:22:40</span
-              ><span class="points-container"
-                >Points: <span class="points">270</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41247841"
-                  >Comments</a
-                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -571,11 +711,11 @@
             <h4>
               <span>2024-08-14 @ 15:10:06</span
               ><span class="points-container"
-                >Points: <span class="points">2468</span></span
+                >Points: <span class="points">2470</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41247023"
                   >Comments</a
-                ><span class="descendants">: 486</span></span
+                ><span class="descendants">: 487</span></span
               >
             </h4>
           </section>
@@ -592,7 +732,7 @@
             <h4>
               <span>2024-08-14 @ 12:12:23</span
               ><span class="points-container"
-                >Points: <span class="points">525</span></span
+                >Points: <span class="points">528</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41245159"
                   >Comments</a
@@ -611,7 +751,7 @@
             <h4>
               <span>2024-08-14 @ 02:19:17</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41241942"
                   >Comments</a
@@ -630,11 +770,11 @@
             <h4>
               <span>2024-08-13 @ 16:57:10</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41237176"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -673,11 +813,11 @@
             <h4>
               <span>2024-08-13 @ 07:58:45</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41233309"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -715,11 +855,11 @@
             <h4>
               <span>2024-08-12 @ 18:26:49</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41227716"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -736,7 +876,7 @@
             <h4>
               <span>2024-08-12 @ 13:00:04</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41223907"
                   >Comments</a
@@ -755,7 +895,7 @@
             <h4>
               <span>2024-08-12 @ 04:34:59</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41221186"
                   >Comments</a
@@ -774,11 +914,11 @@
             <h4>
               <span>2024-08-12 @ 00:21:01</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41220188"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
