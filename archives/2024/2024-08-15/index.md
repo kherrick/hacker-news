@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 15:52:51](https://news.ycombinator.com/item?id=41257432) - [ChatGPT –> Bad Gateway](https://chatgpt.com/)
 * [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
 * [2024-08-15, 14:33:51](https://news.ycombinator.com/item?id=41256623) - [Private, Secure and Uncensorable Messaging over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/)
 * [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
