@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 21:42:53](https://news.ycombinator.com/item?id=41260679) - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
+* [2024-08-15, 21:34:30](https://news.ycombinator.com/item?id=41260603) - [Slow Is Smooth, Smooth Is Fast: Navy SEALs' Efficiency Secret](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
+* [2024-08-15, 21:10:00](https://news.ycombinator.com/item?id=41260394) - [Why we need Ladybird [audio]](https://changelog.com/podcast/604)
 * [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 * [2024-08-15, 21:01:13](https://news.ycombinator.com/item?id=41260321) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
 * [2024-08-15, 20:36:41](https://news.ycombinator.com/item?id=41260098) - [We survived 10k requests/second: Switching to signed asset URLs in an emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
@@ -13,8 +16,6 @@
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
-* [2024-08-15, 12:02:09](https://news.ycombinator.com/item?id=41254976) - [Google is a monopoly – the fix isn't obvious](https://www.theregister.com/2024/08/15/google_monopoly_fix/)
-* [2024-08-15, 11:53:47](https://news.ycombinator.com/item?id=41254936) - [Markdown is meant to be shown (2021)](https://daringfireball.net/linked/2021/03/05/snell-ios-markdown-editors)
 * [2024-08-15, 11:13:37](https://news.ycombinator.com/item?id=41254740) - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-15, 10:04:36](https://news.ycombinator.com/item?id=41254441) - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
 * [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
@@ -29,7 +30,6 @@
 * [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [How NASA brought the F-1 “moon rocket” engine back to life (2013)](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Writing a C Compiler: Build a Real Programming Language from Scratch](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the devil aren't what they used to be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
-* [2024-08-12, 13:00:04](https://news.ycombinator.com/item?id=41223907) - [Everything You Ever Wanted to Know about E. Coli (2008)](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
 
 ## [Archives](archives/index.md)
 

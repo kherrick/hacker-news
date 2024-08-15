@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 21:42:53](https://news.ycombinator.com/item?id=41260679) - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
+* [2024-08-15, 21:34:30](https://news.ycombinator.com/item?id=41260603) - [Slow Is Smooth, Smooth Is Fast: Navy SEALs' Efficiency Secret](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
+* [2024-08-15, 21:10:00](https://news.ycombinator.com/item?id=41260394) - [Why we need Ladybird [audio]](https://changelog.com/podcast/604)
 * [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One Man's Quest to Restore the First-Ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 * [2024-08-15, 21:01:13](https://news.ycombinator.com/item?id=41260321) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
 * [2024-08-15, 20:36:41](https://news.ycombinator.com/item?id=41260098) - [We Survived 10k Requests/Second: Switching to Signed Asset URLs in an Emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
