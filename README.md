@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 13:26:30](https://news.ycombinator.com/item?id=41255782) - [Apple vs. the \"Free Market\"](https://pluralistic.net/2024/08/15/private-law/#thirty-percent-vig)
 * [2024-08-15, 12:19:03](https://news.ycombinator.com/item?id=41255050) - [Kim Dotcom to be extradited from New Zealand](https://www.reuters.com/world/kim-dotcom-be-extradited-new-zealand-after-12-year-fight-with-us-2024-08-15/)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's Extradition to the U.S. Given Green Light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
 * [2024-08-15, 12:02:09](https://news.ycombinator.com/item?id=41254976) - [Google is a monopoly. Breakup may be coming; what comes after may not be better](https://www.theregister.com/2024/08/15/google_monopoly_fix/)
 * [2024-08-15, 12:00:49](https://news.ycombinator.com/item?id=41254972) - [Ego (YC W24, Gaming) Is Hiring Community Manager/Social Media Marketer](https://www.ycombinator.com/companies/ego/jobs/rgl6DLy-community-manager-social-media-marketer-contract)
-* [2024-08-15, 11:55:13](https://news.ycombinator.com/item?id=41254941) - [Mini imported Japanese vehicles may soon be banned on Massachusetts roads](https://www.wgbh.org/news/local/2024-08-14/these-mini-imported-japanese-vehicles-may-soon-be-banned-on-massachusetts-roads)
 * [2024-08-15, 11:53:47](https://news.ycombinator.com/item?id=41254936) - [Markdown Is Meant to Be Shown: Stop Hiding the Syntax (2021)](https://daringfireball.net/linked/2021/03/05/snell-ios-markdown-editors)
 * [2024-08-15, 11:13:37](https://news.ycombinator.com/item?id=41254740) - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-15, 10:04:36](https://news.ycombinator.com/item?id=41254441) - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
