@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-15, 04:27:51](https://news.ycombinator.com/item?id=41253083) - [ALS Stole His Voice. A.I. Retrieved It](https://www.nytimes.com/2024/08/14/health/als-ai-brain-implants.html)
 * [2024-08-15, 03:43:10](https://news.ycombinator.com/item?id=41252949) - [No tax on tips: Why politicians love it, and economists don't](https://www.npr.org/2024/08/11/nx-s1-5071144/no-tax-on-tips-campaigns-trump-harris)
 * [2024-08-15, 02:48:16](https://news.ycombinator.com/item?id=41252731) - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 * [2024-08-15, 01:59:29](https://news.ycombinator.com/item?id=41252505) - [Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
@@ -11,7 +12,6 @@
 * [2024-08-14, 16:50:31](https://news.ycombinator.com/item?id=41248104) - [Inside the \"3 billion people\" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
 * [2024-08-14, 16:35:52](https://news.ycombinator.com/item?id=41247982) - [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40)
 * [2024-08-14, 16:22:40](https://news.ycombinator.com/item?id=41247841) - [How one ED mobilized his department during a mass casualty incident (2017)](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
-* [2024-08-14, 15:30:46](https://news.ycombinator.com/item?id=41247238) - [A different kind of keyboard (2021)](https://ianthehenry.com/posts/peggi/)
 * [2024-08-14, 15:28:43](https://news.ycombinator.com/item?id=41247211) - [Launch HN: Promi (YC S24) – AI-powered ecommerce discounts](https://news.ycombinator.com/item?id=41247211)
 * [2024-08-14, 15:22:54](https://news.ycombinator.com/item?id=41247153) - [Poor Richard's Almanack](https://blog.plover.com/calendar/poor-richards-almanack.html)
 * [2024-08-14, 15:21:08](https://news.ycombinator.com/item?id=41247132) - [Hilary Mantel Reviews “A Life of One's Own/An Experiment in Leisure” (1986)](https://literaryreview.co.uk/journeys-into-the-interior)
