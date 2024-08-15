@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
 * [2024-08-15, 17:36:21](https://news.ycombinator.com/item?id=41258492) - [German climate activists stop air traffic after breaking into four airport sites](https://www.theguardian.com/world/article/2024/aug/15/german-climate-activists-breach-four-airport-sites-halting-air-traffic)
+* [2024-08-15, 17:10:06](https://news.ycombinator.com/item?id=41258201) - [Kim Dotcom: The Full Story](https://www.digitalwelt.org/en/digital-subcultures/kim-dotcom-story)
 * [2024-08-15, 17:01:10](https://news.ycombinator.com/item?id=41258123) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-08-15, 16:36:15](https://news.ycombinator.com/item?id=41257861) - [When something that was working, suddenly doesn't work when demoing to others](https://en.wiktionary.org/wiki/Vorf%C3%BChreffekt)
 * [2024-08-15, 16:17:18](https://news.ycombinator.com/item?id=41257677) - [Uncleftish Beholding](https://en.wikipedia.org/wiki/Uncleftish_Beholding)
@@ -15,6 +16,7 @@
 * [2024-08-15, 15:51:00](https://news.ycombinator.com/item?id=41257416) - [US judge has girl handcuffed for sleeping during court field trip](https://www.bbc.com/news/articles/cn7lxly3xddo)
 * [2024-08-15, 15:45:47](https://news.ycombinator.com/item?id=41257377) - [Google Deletes App on Pixel Phones–'Dangerous' New Spyware Warning](https://www.forbes.com/sites/zakdoffman/2024/08/15/new-pixel-warning-as-pixel-9-pixel-9-pro-pixel-9-pro-fold-release/)
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
+* [2024-08-15, 15:44:00](https://news.ycombinator.com/item?id=41257362) - [Keep uBlock Origin in Chrome for another year by enabling Enterprise policy](https://www.ghacks.net/2024/08/15/google-is-killing-ublock-origin-in-chrome-but-this-trick-lets-you-keep-it-for-another-year/)
 * [2024-08-15, 15:30:31](https://news.ycombinator.com/item?id=41257223) - [Eric Schmidt Walks Back Claim Google Is Behind on AI Because of Remote Work](https://www.msn.com/en-us/money/companies/eric-schmidt-walks-back-claim-google-is-behind-on-ai-because-of-remote-work/ar-AA1oO2my)
 * [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
 * [2024-08-15, 14:37:00](https://news.ycombinator.com/item?id=41256660) - [Food banks prevented 1.8M metric tons of carbon emissions last year](https://grist.org/food-and-agriculture/food-banks-mitigated-1-8-million-metric-tons-of-co2-emissions-globally-last-year/)

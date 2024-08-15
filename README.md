@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-15, 17:36:21](https://news.ycombinator.com/item?id=41258492) - [German climate activists stop air traffic after breaking into four airport sites](https://www.theguardian.com/world/article/2024/aug/15/german-climate-activists-breach-four-airport-sites-halting-air-traffic)
+* [2024-08-15, 17:10:06](https://news.ycombinator.com/item?id=41258201) - [Kim Dotcom: The Full Story](https://www.digitalwelt.org/en/digital-subcultures/kim-dotcom-story)
 * [2024-08-15, 17:01:10](https://news.ycombinator.com/item?id=41258123) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-08-15, 16:36:15](https://news.ycombinator.com/item?id=41257861) - [When something that was working, suddenly doesn't work when demoing to others](https://en.wiktionary.org/wiki/Vorf%C3%BChreffekt)
-* [2024-08-15, 16:00:41](https://news.ycombinator.com/item?id=41257505) - [Show HN: Kardinal–The lightest-weight Kubernetes dev environment in the world](https://github.com/kurtosis-tech/kardinal)
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
+* [2024-08-15, 15:44:00](https://news.ycombinator.com/item?id=41257362) - [Keep uBlock Origin in Chrome for another year by enabling Enterprise policy](https://www.ghacks.net/2024/08/15/google-is-killing-ublock-origin-in-chrome-but-this-trick-lets-you-keep-it-for-another-year/)
 * [2024-08-15, 14:37:00](https://news.ycombinator.com/item?id=41256660) - [Food banks prevented 1.8M metric tons of carbon emissions last year](https://grist.org/food-and-agriculture/food-banks-mitigated-1-8-million-metric-tons-of-co2-emissions-globally-last-year/)
 * [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 * [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
