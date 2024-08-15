@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
+* [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [A $36,000 Graphical Workstation from 1993 – SGI Indigo 2](https://www.youtube.com/watch?v=1PP--lVTPCQ)
 * [2024-08-15, 14:18:13](https://news.ycombinator.com/item?id=41256401) - [Show HN: Mindtown.ai – an open source Midjourney alternative built on top FLUX](https://mindtown.ai/)
 * [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
 * [2024-08-15, 14:01:36](https://news.ycombinator.com/item?id=41256167) - [I disapprove of what you say, but will defend to the death your right to say it](https://www.socratic-method.com/quote-meanings-interpretations/evelyn-beatrice-hall-i-disapprove-of-what-you-say-but-i-will-defend-to-the-death-your-right-to-say-it)
