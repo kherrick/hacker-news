@@ -4,7 +4,9 @@
 * [2024-08-15, 20:36:41](https://news.ycombinator.com/item?id=41260098) - [We Survived 10k Requests/Second: Switching to Signed Asset URLs in an Emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
 * [2024-08-15, 20:31:24](https://news.ycombinator.com/item?id=41260050) - [Cleaning up the aging brain: Scientists restore brain's trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
 * [2024-08-15, 20:30:37](https://news.ycombinator.com/item?id=41260040) - [Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
+* [2024-08-15, 20:16:41](https://news.ycombinator.com/item?id=41259912) - [Unix file access rwx permissions are simple but tricky](https://igoro.pro/a-reminder-unix-file-access-rwx-permissions-are-simple-but-tricky/)
 * [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
+* [2024-08-15, 19:19:23](https://news.ycombinator.com/item?id=41259425) - [FoodAnalyze: Instant Food Label Analysis – Free for 24 Hours](https://foodanalyze.com/)
 * [2024-08-15, 19:18:45](https://news.ycombinator.com/item?id=41259415) - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
 * [2024-08-15, 18:43:26](https://news.ycombinator.com/item?id=41259131) - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
 * [2024-08-15, 18:33:04](https://news.ycombinator.com/item?id=41259034) - [Programmers Don't Read Books – But You Should (2008)](https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/)
@@ -12,7 +14,6 @@
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
-* [2024-08-15, 12:02:09](https://news.ycombinator.com/item?id=41254976) - [Google is a monopoly – the fix isn't obvious](https://www.theregister.com/2024/08/15/google_monopoly_fix/)
 * [2024-08-15, 11:53:47](https://news.ycombinator.com/item?id=41254936) - [Markdown is meant to be shown (2021)](https://daringfireball.net/linked/2021/03/05/snell-ios-markdown-editors)
 * [2024-08-15, 11:13:37](https://news.ycombinator.com/item?id=41254740) - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-15, 10:04:36](https://news.ycombinator.com/item?id=41254441) - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
@@ -29,7 +30,6 @@
 * [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [How NASA brought the F-1 “moon rocket” engine back to life (2013)](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Writing a C Compiler: Build a Real Programming Language from Scratch](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the devil aren't what they used to be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
-* [2024-08-12, 13:00:04](https://news.ycombinator.com/item?id=41223907) - [Everything You Ever Wanted to Know about E. Coli (2008)](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
 
 ## [Archives](archives/index.md)
 
