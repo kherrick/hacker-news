@@ -27,7 +27,7 @@
 * [2024-08-13, 16:02:57](https://news.ycombinator.com/item?id=41236718) - [DUNE scientists observe first neutrinos with prototype detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
 * [2024-08-13, 15:56:18](https://news.ycombinator.com/item?id=41236657) - [RubyGateway: Embed Ruby in Swift](https://github.com/johnfairh/RubyGateway)
 * [2024-08-13, 15:22:45](https://news.ycombinator.com/item?id=41236351) - [The Myth of the Product-Market Fit (2013)](https://blog.nishantsoni.com/p/the-myth-of-the-product-market-fit)
-* [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [NASA brought the monstrous F-1 \"moon rocket\" engine back to life](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
+* [2024-08-13, 07:06:46](https://news.ycombinator.com/item?id=41233032) - [NASA brought the monstrous F-1 \"moon rocket\" engine back to life (2013)](https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Book – Writing a C Compiler: Build a Real Programming Language from Scratch 2024](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 04:34:59](https://news.ycombinator.com/item?id=41221186) - [Firedancer: Language for 2D shmups bullet-hell patterns](https://firedancer-lang.com/)
 
