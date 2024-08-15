@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 23:11:39](https://news.ycombinator.com/item?id=41251499) - [Esoterica Engine](https://www.esotericaengine.com)
 * [2024-08-14, 23:03:23](https://news.ycombinator.com/item?id=41251412) - [GitHub Is Down](https://github.com/)
 * [2024-08-14, 22:45:14](https://news.ycombinator.com/item?id=41251312) - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
 * [2024-08-14, 21:58:06](https://news.ycombinator.com/item?id=41250939) - [OpenVMS x86 E9.2-3 fixes CDE (DECWindows) and adds a Guest Console](https://raymii.org/s/blog/OpenVMS_x86_E9.2-3_fixes_CDE_and_adds_Guest_Console.html)
