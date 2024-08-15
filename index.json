@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2024-08-15, 01:59:29",
+      "https://news.ycombinator.com/item?id=41252505"
+    ],
+    [
+      "Nu-Klear Fallout Detector (ca. 1962-1968)",
+      "https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 23:03:23",
+      "https://news.ycombinator.com/item?id=41251412"
+    ],
+    [
+      "GitHub was down",
+      "https://github.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 22:45:14",
+      "https://news.ycombinator.com/item?id=41251312"
+    ],
+    [
+      "Show HN: Browser-based XSS scanner",
+      "https://github.com/dshieble/playwright_xss_scanner"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 21:45:39",
       "https://news.ycombinator.com/item?id=41250830"
     ],
@@ -37,16 +67,6 @@
     [
       "Algorithms through the lens of symbolic pattern matching",
       "https://symbolica.io/posts/pattern_matching/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 17:01:45",
-      "https://news.ycombinator.com/item?id=41248214"
-    ],
-    [
-      "A Scottish Provenance for the Altar Stone of Stonehenge",
-      "https://www.nature.com/articles/s41586-024-07652-1"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Launch HN: Promi (YC S24) – AI-powered ecommerce discounts",
       "https://news.ycombinator.com/item?id=41247211"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 15:27:01",
-      "https://news.ycombinator.com/item?id=41247193"
-    ],
-    [
-      "Some thoughts on OpenSSH 9.8's PerSourcePenalties feature",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2024-08-14, 11:22:29",
-      "https://news.ycombinator.com/item?id=41244847"
-    ],
-    [
-      "Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWYG (2005)",
-      "https://spectrum.ieee.org/of-modes-and-men"
-    ]
-  ],
-  [
-    [
       "2024-08-14, 10:12:04",
       "https://news.ycombinator.com/item?id=41244468"
     ],
     [
       "The Syndicated Actor Model",
       "https://syndicate-lang.org/about/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 10:03:32",
-      "https://news.ycombinator.com/item?id=41244423"
-    ],
-    [
-      "Show HN: We made a tool to help developers improve OpenAPI specs",
-      "https://github.com/zuplo/rate-my-openapi"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2024-08-13, 12:05:16",
+      "https://news.ycombinator.com/item?id=41234635"
+    ],
+    [
+      "I gave my kids a summer like mine in the 1980s – every parent should try it",
+      "https://inews.co.uk/inews-lifestyle/gave-my-kids-summer-1980s-every-parent-should-try-3222527"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 23:07:41",
       "https://news.ycombinator.com/item?id=41230396"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-08-12, 02:50:46",
-      "https://news.ycombinator.com/item?id=41220806"
+      "2024-08-12, 04:34:59",
+      "https://news.ycombinator.com/item?id=41221186"
     ],
     [
-      "Making the Strofara",
-      "https://www.stavros.io/posts/making-the-strofara/"
+      "Firedancer: Language for 2D shmups bullet-hell patterns",
+      "https://firedancer-lang.com/"
     ]
   ]
 ]
