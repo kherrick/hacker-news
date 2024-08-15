@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-15, 13:26:30](https://news.ycombinator.com/item?id=41255782) - [Apple vs. the \"Free Market\"](https://pluralistic.net/2024/08/15/private-law/#thirty-percent-vig)
-* [2024-08-15, 12:19:03](https://news.ycombinator.com/item?id=41255050) - [Kim Dotcom to be extradited from New Zealand](https://www.reuters.com/world/kim-dotcom-be-extradited-new-zealand-after-12-year-fight-with-us-2024-08-15/)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's Extradition to the U.S. Given Green Light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
 * [2024-08-15, 12:02:09](https://news.ycombinator.com/item?id=41254976) - [Google is a monopoly. Breakup may be coming; what comes after may not be better](https://www.theregister.com/2024/08/15/google_monopoly_fix/)
 * [2024-08-15, 12:00:49](https://news.ycombinator.com/item?id=41254972) - [Ego (YC W24, Gaming) Is Hiring Community Manager/Social Media Marketer](https://www.ycombinator.com/companies/ego/jobs/rgl6DLy-community-manager-social-media-marketer-contract)
@@ -23,6 +22,7 @@
 * [2024-08-14, 13:50:26](https://news.ycombinator.com/item?id=41246050) - [Texas sues GM for unlaw­ful­ly collecting and selling dri­vers' pri­vate data [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/press/General%20Motors%20Data%20Privacy%20Petition%20Filed.pdf)
 * [2024-08-14, 12:12:23](https://news.ycombinator.com/item?id=41245159) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2024-08-14, 02:19:17](https://news.ycombinator.com/item?id=41241942) - [Sort, sweep, and prune: Collision detection algorithms (2023)](https://leanrada.com/notes/sweep-and-prune/)
+* [2024-08-13, 22:34:00](https://news.ycombinator.com/item?id=41240556) - [Show HN: I've open sourced DD Poker](https://github.com/dougdonohoe/ddpoker)
 * [2024-08-13, 16:57:10](https://news.ycombinator.com/item?id=41237176) - [Open Source FPGA Expansion Card for the Apple II](https://wiki.reactivemicro.com/A2FPGA)
 * [2024-08-13, 16:02:57](https://news.ycombinator.com/item?id=41236718) - [DUNE scientists observe first neutrinos with prototype detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
 * [2024-08-13, 15:56:18](https://news.ycombinator.com/item?id=41236657) - [RubyGateway: Embed Ruby in Swift](https://github.com/johnfairh/RubyGateway)
