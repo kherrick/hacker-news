@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-16, 02:49:32](https://news.ycombinator.com/item?id=41262691) - [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
-* [2024-08-16, 02:20:56](https://news.ycombinator.com/item?id=41262547) - [Ask HN: Why are AI generated images so shiny/glossy?](https://news.ycombinator.com/item?id=41262547)
 * [2024-08-16, 02:03:23](https://news.ycombinator.com/item?id=41262439) - [Ditch banks – Go with money market funds and treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
 * [2024-08-16, 01:25:44](https://news.ycombinator.com/item?id=41262244) - [SREBench Competition](https://sreben.ch/)
 * [2024-08-16, 00:41:16](https://news.ycombinator.com/item?id=41261986) - [CEOs are running companies from afar even as workers return to office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
@@ -18,6 +17,7 @@
 * [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB license change](https://www.cockroachlabs.com/enterprise-license-update/)
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
+* [2024-08-15, 11:13:37](https://news.ycombinator.com/item?id=41254740) - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
 * [2024-08-15, 07:42:28](https://news.ycombinator.com/item?id=41253870) - [WriteFreely: An open source platform for building a writing space on the web](https://writefreely.org/)
 * [2024-08-14, 20:37:33](https://news.ycombinator.com/item?id=41250239) - [Weak supervision to isolate sign language communicators in crowded news videos](https://vrroom.github.io/blog/2024/08/11/sign-detection.html)
