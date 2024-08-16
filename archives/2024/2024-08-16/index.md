@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 17:07:38](https://news.ycombinator.com/item?id=41268245) - [FUTO](https://www.futo.org/)
 * [2024-08-16, 17:00:35](https://news.ycombinator.com/item?id=41268185) - [Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-08-16, 16:52:09](https://news.ycombinator.com/item?id=41268104) - [Subway calls 'emergency' meeting with franchisees as sales plummet](https://nypost.com/2024/08/14/business/subway-calls-emergency-meeting-with-franchisees-as-sales-plummet-sources/)
 * [2024-08-16, 16:40:14](https://news.ycombinator.com/item?id=41267960) - [Can Large Language Models Understand Symbolic Graphics Programs?](https://www.arxiv.org/abs/2408.08313)
@@ -15,11 +16,14 @@
 * [2024-08-16, 15:37:39](https://news.ycombinator.com/item?id=41267308) - [The LMAX Architecture (2011)](https://martinfowler.com/articles/lmax.html)
 * [2024-08-16, 15:04:06](https://news.ycombinator.com/item?id=41267045) - [A Texas \"Moth Man\" Photographed 550 Species in His Own Yard](https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/)
 * [2024-08-16, 14:59:01](https://news.ycombinator.com/item?id=41267002) - [The shortest, strangest engineering interview I've ever done](https://bluepnume.medium.com/the-shortest-strangest-engineering-interview-ive-ever-done-950e8fa95f4e)
+* [2024-08-16, 14:26:00](https://news.ycombinator.com/item?id=41266738) - [Show HN: I develop free, open source and web based irregular shapes bin solver](https://nest2d.online/project/laser-gridfinityopen-scad)
 * [2024-08-16, 14:19:10](https://news.ycombinator.com/item?id=41266682) - [Halide embraces photo purists with new anti-AI processing mode](https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/)
+* [2024-08-16, 14:05:12](https://news.ycombinator.com/item?id=41266548) - [MIT engineers design tiny batteries for powering cell-sized robots](https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815)
 * [2024-08-16, 13:48:24](https://news.ycombinator.com/item?id=41266398) - [Tom Cruise is dangerous and irresponsible (2005)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180571/)
 * [2024-08-16, 13:44:35](https://news.ycombinator.com/item?id=41266371) - [Low Earth Orbit Satellites Cause Environmental Harm Regulators Didnt Prepare For](https://www.techdirt.com/2024/08/16/report-low-earth-orbit-leo-satellite-systems-like-starlink-cause-environmental-harm-regulators-didnt-prepare-for/)
 * [2024-08-16, 13:40:41](https://news.ycombinator.com/item?id=41266342) - [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
 * [2024-08-16, 13:35:09](https://news.ycombinator.com/item?id=41266297) - [Weird Object Careening Across the Cosmos at Ludicrous Speeds](https://gizmodo.com/citizen-scientists-spot-weird-object-careening-across-the-cosmos-at-ludicrous-speeds-2000487675)
+* [2024-08-16, 12:49:07](https://news.ycombinator.com/item?id=41265930) - [America prepares for a new nuclear-arms race](https://www.economist.com/united-states/2024/08/12/america-prepares-for-a-new-nuclear-arms-race)
 * [2024-08-16, 12:05:01](https://news.ycombinator.com/item?id=41265562) - [The Day GitHub Almost CrowdStriked Us All (Again)](https://blog.codeminer42.com/the-day-github-almost-crowdstriked-us-all-again/)
 * [2024-08-16, 11:58:47](https://news.ycombinator.com/item?id=41265525) - [Carles Puigdemont: How I pulled off my daring escape from Spain](https://www.politico.eu/article/carles-puigdemont-catalonia-independence-spain-operation-arc-de-triomf-escape-exile/)
 * [2024-08-16, 11:56:49](https://news.ycombinator.com/item?id=41265512) - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
