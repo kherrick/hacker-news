@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-16, 02:20:56](https://news.ycombinator.com/item?id=41262547) - [Ask HN: Why are AI generated images so shiny/glossy?](https://news.ycombinator.com/item?id=41262547)
 * [2024-08-16, 02:03:23](https://news.ycombinator.com/item?id=41262439) - [Ditch Banks – Go with Money Market Funds and Treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
 * [2024-08-16, 01:25:44](https://news.ycombinator.com/item?id=41262244) - [SREBench Competition](https://sreben.ch/)
 * [2024-08-16, 00:41:16](https://news.ycombinator.com/item?id=41261986) - [CEOs are running companies from afar even as workers return to office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
@@ -15,7 +16,6 @@
 * [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 * [2024-08-15, 17:16:47](https://news.ycombinator.com/item?id=41258276) - [Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
-* [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB license change](https://www.cockroachlabs.com/enterprise-license-update/)
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
 * [2024-08-15, 11:13:37](https://news.ycombinator.com/item?id=41254740) - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
@@ -26,9 +26,9 @@
 * [2024-08-14, 19:20:09](https://news.ycombinator.com/item?id=41249571) - [Why won't some people pay for news? (2022)](https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257)
 * [2024-08-13, 18:55:19](https://news.ycombinator.com/item?id=41238392) - [What I Learned Writing an Album in Just Intonation](https://www.osar.fr/notes/justintonation/)
 * [2024-08-13, 17:31:21](https://news.ycombinator.com/item?id=41237472) - [Integrating Random Functions on a Cluster with Temporal](https://carlkolon.com/2024/08/12/integration-temporal/)
+* [2024-08-13, 16:14:40](https://news.ycombinator.com/item?id=41236824) - [A practitioner's guide to testing and running GPU clusters](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 * [2024-08-12, 18:26:49](https://news.ycombinator.com/item?id=41227716) - [Writing a C Compiler: Build a Real Programming Language from Scratch](https://nostarch.com/writing-c-compiler)
 * [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the devil aren't what they used to be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
-* [2024-08-12, 16:06:21](https://news.ycombinator.com/item?id=41226035) - [How to keep up with AI/ML as a full stack dev?](https://news.ycombinator.com/item?id=41226035)
 * [2024-08-12, 09:39:44](https://news.ycombinator.com/item?id=41222738) - [How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
 
 ## [Archives](archives/index.md)
