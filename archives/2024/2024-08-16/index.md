@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 11:58:47](https://news.ycombinator.com/item?id=41265525) - [Carles Puigdemont: How I pulled off my daring escape from Spain](https://www.politico.eu/article/carles-puigdemont-catalonia-independence-spain-operation-arc-de-triomf-escape-exile/)
+* [2024-08-16, 11:36:43](https://news.ycombinator.com/item?id=41265396) - [The Tenth Man Rule: How to Take Devil's Advocacy to a New Level](https://themindcollection.com/the-tenth-man-rule-devils-advocacy/)
 * [2024-08-16, 11:02:16](https://news.ycombinator.com/item?id=41265199) - [Brain-to-Speech Tech Good Enough for Everyday Use Debuts in a Man with ALS](https://www.scientificamerican.com/article/brain-to-speech-tech-good-enough-for-everyday-use-debuts-in-a-man-with-als/)
 * [2024-08-16, 10:17:07](https://news.ycombinator.com/item?id=41264973) - [Mpox: Sweden confirms first case of 'more grave' variant outside Africa](https://www.theguardian.com/world/article/2024/aug/15/mpox-variant-clade-i-case-sweden)
 * [2024-08-16, 09:50:38](https://news.ycombinator.com/item?id=41264844) - [Microsoft is finally removing the FAT32 partition size limit in Windows 11](https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11)
