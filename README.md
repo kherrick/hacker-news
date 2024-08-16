@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-16, 14:59:01](https://news.ycombinator.com/item?id=41267002) - [The shortest, strangest engineering interview I've ever done](https://bluepnume.medium.com/the-shortest-strangest-engineering-interview-ive-ever-done-950e8fa95f4e)
 * [2024-08-16, 14:19:10](https://news.ycombinator.com/item?id=41266682) - [Halide embraces photo purists with new anti-AI processing mode](https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/)
 * [2024-08-16, 13:44:35](https://news.ycombinator.com/item?id=41266371) - [Low Earth Orbit Satellites Cause Environmental Harm Regulators Didnt Prepare For](https://www.techdirt.com/2024/08/16/report-low-earth-orbit-leo-satellite-systems-like-starlink-cause-environmental-harm-regulators-didnt-prepare-for/)
 * [2024-08-16, 11:56:49](https://news.ycombinator.com/item?id=41265512) - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
@@ -22,6 +21,7 @@
 * [2024-08-15, 20:40:17](https://news.ycombinator.com/item?id=41260127) - [Mermaid: Diagramming and Charting Tool](https://mermaid.js.org/)
 * [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
+* [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB license change](https://www.cockroachlabs.com/enterprise-license-update/)
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
 * [2024-08-14, 19:20:09](https://news.ycombinator.com/item?id=41249571) - [Why won't some people pay for news? (2022)](https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257)
