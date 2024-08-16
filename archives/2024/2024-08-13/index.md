@@ -20,6 +20,7 @@
 * [2024-08-13, 19:14:29](https://news.ycombinator.com/item?id=41238632) - [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 17:37:50](https://news.ycombinator.com/item?id=41237542) - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
+* [2024-08-13, 17:31:21](https://news.ycombinator.com/item?id=41237472) - [Integrating Random Functions on a Cluster with Temporal](https://carlkolon.com/2024/08/12/integration-temporal/)
 * [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
 * [2024-08-13, 17:00:31](https://news.ycombinator.com/item?id=41237200) - [Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer](https://news.ycombinator.com/item?id=41237200)
 * [2024-08-13, 16:57:10](https://news.ycombinator.com/item?id=41237176) - [Open Source FPGA Expansion Card for the Apple II](https://wiki.reactivemicro.com/A2FPGA)
