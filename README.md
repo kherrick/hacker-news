@@ -6,7 +6,6 @@
 * [2024-08-16, 01:25:44](https://news.ycombinator.com/item?id=41262244) - [SREBench Competition](https://sreben.ch/)
 * [2024-08-16, 00:41:16](https://news.ycombinator.com/item?id=41261986) - [CEOs are running companies from afar even as workers return to office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
 * [2024-08-15, 23:06:06](https://news.ycombinator.com/item?id=41261426) - [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
-* [2024-08-15, 22:24:21](https://news.ycombinator.com/item?id=41261107) - [Reticulum Is Unstoppable Networks for the People](https://reticulum.network/)
 * [2024-08-15, 21:42:53](https://news.ycombinator.com/item?id=41260679) - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
 * [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 * [2024-08-15, 21:01:13](https://news.ycombinator.com/item?id=41260321) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
@@ -28,6 +27,7 @@
 * [2024-08-13, 16:57:10](https://news.ycombinator.com/item?id=41237176) - [Open Source FPGA Expansion Card for the Apple II](https://wiki.reactivemicro.com/A2FPGA)
 * [2024-08-13, 16:14:40](https://news.ycombinator.com/item?id=41236824) - [A practitioner's guide to testing and running GPU clusters](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 * [2024-08-13, 09:59:48](https://news.ycombinator.com/item?id=41233939) - [Total War: Rome II and Creative Assembly – My Statement Ten Years On](https://medium.com/@julianmckinlay/total-war-rome-ii-and-creative-assembly-my-statement-ten-years-on-d964f65b0a8f)
+* [2024-08-12, 22:22:51](https://news.ycombinator.com/item?id=41230033) - [On the Record: Music before mass production (2018)](https://www.historytoday.com/miscellanies/record-music-mass-production)
 * [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the devil aren't what they used to be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
 * [2024-08-12, 09:39:44](https://news.ycombinator.com/item?id=41222738) - [How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
 
