@@ -9,6 +9,8 @@
 * [2024-08-16, 20:24:55](https://news.ycombinator.com/item?id=41270043) - [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
 * [2024-08-16, 20:14:31](https://news.ycombinator.com/item?id=41269955) - [America is sabotaging itself in the global battle for talent](https://www.economist.com/leaders/2024/08/15/america-is-sabotaging-itself-in-the-global-battle-for-talent)
 * [2024-08-16, 20:06:17](https://news.ycombinator.com/item?id=41269886) - [Fortnite app returns to iPhones – but only in the EU](https://www.bbc.com/news/articles/c70j5rx72yvo)
+* [2024-08-16, 20:00:34](https://news.ycombinator.com/item?id=41269832) - [The Bare Minimum Beats: Panasonic's RD-9844 Rhythm Machine](https://nicole.express/2024/panasonic-the-hedgehog.html)
+* [2024-08-16, 19:56:41](https://news.ycombinator.com/item?id=41269791) - [LLM and Bug Finding: Insights from a $2M Winning Team in the White House's AIxCC](https://team-atlanta.github.io/blog/post-atl/)
 * [2024-08-16, 19:24:54](https://news.ycombinator.com/item?id=41269514) - [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
 * [2024-08-16, 19:20:07](https://news.ycombinator.com/item?id=41269474) - [First Look Inside Blue Origin's New Glenn Factory with Jeff Bezos [video]](https://www.youtube.com/watch?v=rsuqSn7ifpU)
 * [2024-08-16, 19:01:09](https://news.ycombinator.com/item?id=41269321) - [VanillaJSX.com](https://vanillajsx.com/)
