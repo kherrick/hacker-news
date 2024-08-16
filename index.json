@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-08-16, 13:40:41",
+      "https://news.ycombinator.com/item?id=41266342"
+    ],
+    [
+      "The Untold Story of SQLite",
+      "https://corecursive.com/066-sqlite-with-richard-hipp/"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 11:56:49",
       "https://news.ycombinator.com/item?id=41265512"
     ],
     [
       "JPlag – Detecting Software Plagiarism",
       "https://github.com/jplag/JPlag"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 11:37:04",
+      "https://news.ycombinator.com/item?id=41265397"
+    ],
+    [
+      "FusionAuth 1.52.0 – Passkeys for Everyone",
+      "https://fusionauth.io/blog/announcing-fusionauth-1-52"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 10:22:15",
+      "https://news.ycombinator.com/item?id=41265007"
+    ],
+    [
+      "Show HN: I made an open-source personal dashboard builder",
+      "https://github.com/tryglow/glow"
     ]
   ],
   [
@@ -21,12 +51,32 @@
   ],
   [
     [
+      "2024-08-16, 09:30:09",
+      "https://news.ycombinator.com/item?id=41264730"
+    ],
+    [
+      "Cleed – simple feed reader for the command line",
+      "https://github.com/radulucut/cleed"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 09:27:50",
       "https://news.ycombinator.com/item?id=41264716"
     ],
     [
       "Automating My /Now Page",
       "https://akashgoswami.dev/posts/automating-my-now-page/"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 08:10:48",
+      "https://news.ycombinator.com/item?id=41264270"
+    ],
+    [
+      "Crafting a 13KB Game: The Story of Space Huggers",
+      "https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/"
     ]
   ],
   [
@@ -171,16 +221,6 @@
   ],
   [
     [
-      "2024-08-15, 11:13:37",
-      "https://news.ycombinator.com/item?id=41254740"
-    ],
-    [
-      "Show HN: High-precision date/time in SQLite",
-      "https://antonz.org/sqlean-time/"
-    ]
-  ],
-  [
-    [
       "2024-08-14, 20:37:33",
       "https://news.ycombinator.com/item?id=41250239"
     ],
@@ -197,16 +237,6 @@
     [
       "Why won't some people pay for news? (2022)",
       "https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 00:44:59",
-      "https://news.ycombinator.com/item?id=41241431"
-    ],
-    [
-      "Intel sells stake in chip designer Arm Holdings",
-      "https://www.reuters.com/markets/deals/intel-sells-stake-chip-designer-arm-holdings-2024-08-13/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2024-08-13, 16:57:10",
-      "https://news.ycombinator.com/item?id=41237176"
-    ],
-    [
-      "Open Source FPGA Expansion Card for the Apple II",
-      "https://wiki.reactivemicro.com/A2FPGA"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 16:34:07",
       "https://news.ycombinator.com/item?id=41236993"
     ],
@@ -257,26 +277,6 @@
     [
       "Remembering a Medieval Polymath Who Paved the Way for the Renaissance",
       "https://worldsensorium.com/albert-the-great-remembering-a-medieval-polymath-who-paved-the-way-for-the-renaissance-and-holistic-thinking/"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 07:06:46",
-      "https://news.ycombinator.com/item?id=41233032"
-    ],
-    [
-      "How NASA brought the F-1 “moon rocket” engine back to life (2013)",
-      "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 22:22:51",
-      "https://news.ycombinator.com/item?id=41230033"
-    ],
-    [
-      "On the Record: Music before mass production (2018)",
-      "https://www.historytoday.com/miscellanies/record-music-mass-production"
     ]
   ],
   [
