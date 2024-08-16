@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
+* [2024-08-16, 06:24:45](https://news.ycombinator.com/item?id=41263656) - [Show HN: Free Online Car Logo Information Website](https://carlogohub.com)
 * [2024-08-16, 04:21:27](https://news.ycombinator.com/item?id=41263143) - [Former Google CEO Eric Schmidt's Leaked Stanford Talk](https://github.com/ociubotaru/transcripts/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt)
 * [2024-08-16, 02:49:32](https://news.ycombinator.com/item?id=41262691) - [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 * [2024-08-16, 02:03:23](https://news.ycombinator.com/item?id=41262439) - [Ditch banks – Go with money market funds and treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
@@ -10,7 +11,6 @@
 * [2024-08-15, 21:42:53](https://news.ycombinator.com/item?id=41260679) - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
 * [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 * [2024-08-15, 21:01:13](https://news.ycombinator.com/item?id=41260321) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
-* [2024-08-15, 20:36:41](https://news.ycombinator.com/item?id=41260098) - [We survived 10k requests/second: Switching to signed asset URLs in an emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
 * [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 * [2024-08-15, 17:16:47](https://news.ycombinator.com/item?id=41258276) - [Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
