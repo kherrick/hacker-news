@@ -29,6 +29,7 @@
 * [2024-08-16, 17:00:35](https://news.ycombinator.com/item?id=41268185) - [Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-08-16, 16:55:42](https://news.ycombinator.com/item?id=41268140) - [AI audiobooks – 10% more audiobooks this year than all of 2023](https://bookrank.io/blog/audiobook-statistics-august-2024)
 * [2024-08-16, 16:52:09](https://news.ycombinator.com/item?id=41268104) - [Subway calls 'emergency' meeting with franchisees as sales plummet](https://nypost.com/2024/08/14/business/subway-calls-emergency-meeting-with-franchisees-as-sales-plummet-sources/)
+* [2024-08-16, 16:47:05](https://news.ycombinator.com/item?id=41268043) - [Whither CockroachDB?](https://rfd.shared.oxide.computer/rfd/0508)
 * [2024-08-16, 16:40:14](https://news.ycombinator.com/item?id=41267960) - [Can Large Language Models Understand Symbolic Graphics Programs?](https://www.arxiv.org/abs/2408.08313)
 * [2024-08-16, 16:19:11](https://news.ycombinator.com/item?id=41267746) - [Does Reasoning Emerge? Probabilities of Causation in Large Language Models](https://arxiv.org/abs/2408.08210)
 * [2024-08-16, 16:03:56](https://news.ycombinator.com/item?id=41267583) - [Disney's not alone in saying your clicks means you can't sue](https://www.cnn.com/2024/08/16/politics/arbitration-signing-away-rights-disney-plus-wrongful-death-lawsuit/index.html)
