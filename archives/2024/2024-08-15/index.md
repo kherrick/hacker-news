@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 22:46:02](https://news.ycombinator.com/item?id=41261256) - [Nationalpublicdata.com Hack Exposes a Nation's Data](https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/)
 * [2024-08-15, 22:40:00](https://news.ycombinator.com/item?id=41261214) - [Epic vs. Google judge says he'll 'tear the barriers down' on Google's app store](https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing)
+* [2024-08-15, 22:24:21](https://news.ycombinator.com/item?id=41261107) - [Reticulum Is Unstoppable Networks for the People](https://reticulum.network/)
 * [2024-08-15, 22:07:25](https://news.ycombinator.com/item?id=41260951) - [Black Mesa](https://blackmesa.com/)
 * [2024-08-15, 21:42:53](https://news.ycombinator.com/item?id=41260679) - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
 * [2024-08-15, 21:34:30](https://news.ycombinator.com/item?id=41260603) - [Slow Is Smooth, Smooth Is Fast: Navy SEALs' Efficiency Secret](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
