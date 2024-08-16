@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-08-16, 18:08:55",
-      "https://news.ycombinator.com/item?id=41268800"
-    ],
-    [
-      "Banks Are Now Accused of Cheating Customers Billions",
-      "https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/"
-    ]
-  ],
-  [
-    [
       "2024-08-16, 18:08:21",
       "https://news.ycombinator.com/item?id=41268794"
     ],
@@ -137,16 +127,6 @@
     [
       "Does Reasoning Emerge? Probabilities of Causation in Large Language Models",
       "https://arxiv.org/abs/2408.08210"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 15:56:14",
-      "https://news.ycombinator.com/item?id=41267509"
-    ],
-    [
-      "The world will lose $4.7T of revenue in the next decade to tax havens",
-      "https://www.tbsnews.net/features/panorama/world-will-lose-47-trillion-revenue-next-decade-tax-havens-how-did-we-get-here"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-08-15, 21:42:53",
+      "https://news.ycombinator.com/item?id=41260679"
+    ],
+    [
+      "RP2350 PicoDVI Preview",
+      "https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 21:04:35",
       "https://news.ycombinator.com/item?id=41260345"
     ],
     [
       "One man's quest to restore the first-ever Air Force One",
       "https://www.atlasobscura.com/articles/first-air-force-one"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 22:45:14",
+      "https://news.ycombinator.com/item?id=41251312"
+    ],
+    [
+      "Show HN: Browser-based XSS scanner",
+      "https://github.com/dshieble/playwright_xss_scanner"
     ]
   ],
   [
