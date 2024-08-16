@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
 * [2024-08-16, 19:24:54](https://news.ycombinator.com/item?id=41269514) - [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
+* [2024-08-16, 19:20:07](https://news.ycombinator.com/item?id=41269474) - [First Look Inside Blue Origin's New Glenn Factory with Jeff Bezos [video]](https://www.youtube.com/watch?v=rsuqSn7ifpU)
+* [2024-08-16, 19:00:03](https://news.ycombinator.com/item?id=41269309) - [Web Platform Status](https://webstatus.dev/)
 * [2024-08-16, 18:53:57](https://news.ycombinator.com/item?id=41269249) - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
 * [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
 * [2024-08-16, 18:36:31](https://news.ycombinator.com/item?id=41269079) - [.kkrieger – An FPS game from 2004 in 96kb](https://en.wikipedia.org/wiki/.kkrieger)
