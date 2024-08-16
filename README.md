@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-16, 20:24:55](https://news.ycombinator.com/item?id=41270043) - [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
+* [2024-08-16, 20:14:31](https://news.ycombinator.com/item?id=41269955) - [America is sabotaging itself in the global battle for talent](https://www.economist.com/leaders/2024/08/15/america-is-sabotaging-itself-in-the-global-battle-for-talent)
 * [2024-08-16, 20:06:17](https://news.ycombinator.com/item?id=41269886) - [Fortnite app returns to iPhones – but only in the EU](https://www.bbc.com/news/articles/c70j5rx72yvo)
 * [2024-08-16, 19:24:54](https://news.ycombinator.com/item?id=41269514) - [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
-* [2024-08-16, 19:20:07](https://news.ycombinator.com/item?id=41269474) - [First Look Inside Blue Origin's New Glenn Factory with Jeff Bezos [video]](https://www.youtube.com/watch?v=rsuqSn7ifpU)
 * [2024-08-16, 19:00:03](https://news.ycombinator.com/item?id=41269309) - [Web Platform Status](https://webstatus.dev/)
 * [2024-08-16, 18:53:57](https://news.ycombinator.com/item?id=41269249) - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
 * [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
@@ -12,7 +13,6 @@
 * [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
 * [2024-08-16, 18:21:50](https://news.ycombinator.com/item?id=41268925) - [TMobile fined $60M for unauthorized access to data: the largest fine of its type](https://9to5mac.com/2024/08/15/t-mobile-fined-60m/)
 * [2024-08-16, 18:12:22](https://news.ycombinator.com/item?id=41268832) - [Building a GATT Server on Pi Pico W](https://vanhunteradams.com/Pico/BLE/GATT_Server.html)
-* [2024-08-16, 18:09:13](https://news.ycombinator.com/item?id=41268803) - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268800) - [Banks Are Now Accused of Cheating Customers Billions](https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/)
 * [2024-08-16, 18:08:21](https://news.ycombinator.com/item?id=41268794) - [IEEE and Keysight Team Up to Teach Kids About Electronics](https://spectrum.ieee.org/ieee-and-keysight-team-up-to-teach-kids-about-electronics-2668966742)
 * [2024-08-16, 17:08:10](https://news.ycombinator.com/item?id=41268256) - [The Apple IIGS Megahertz Myth – Userlandia](https://www.userlandia.com/home/iigs-mhz-myth)

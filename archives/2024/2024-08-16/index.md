@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 20:24:55](https://news.ycombinator.com/item?id=41270043) - [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
+* [2024-08-16, 20:14:31](https://news.ycombinator.com/item?id=41269955) - [America is sabotaging itself in the global battle for talent](https://www.economist.com/leaders/2024/08/15/america-is-sabotaging-itself-in-the-global-battle-for-talent)
 * [2024-08-16, 20:06:17](https://news.ycombinator.com/item?id=41269886) - [Fortnite app returns to iPhones – but only in the EU](https://www.bbc.com/news/articles/c70j5rx72yvo)
 * [2024-08-16, 19:24:54](https://news.ycombinator.com/item?id=41269514) - [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
 * [2024-08-16, 19:20:07](https://news.ycombinator.com/item?id=41269474) - [First Look Inside Blue Origin's New Glenn Factory with Jeff Bezos [video]](https://www.youtube.com/watch?v=rsuqSn7ifpU)
