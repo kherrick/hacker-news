@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-16, 21:35:24",
+      "https://news.ycombinator.com/item?id=41270596"
+    ],
+    [
+      "ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)",
+      "https://github.com/LiciaHe/threadPlotter"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 21:00:14",
       "https://news.ycombinator.com/item?id=41270371"
     ],
@@ -17,6 +27,16 @@
     [
       "PyTorch is dead. Long live Jax",
       "https://neel04.github.io/my-website/blog/pytorch_rant/"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 19:01:09",
+      "https://news.ycombinator.com/item?id=41269321"
+    ],
+    [
+      "VanillaJSX.com",
+      "https://vanillajsx.com/"
     ]
   ],
   [
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=41267478"
     ],
     [
-      "Discrete Mathematics – An Open Introduction 4ed (By Oscar Levin)",
+      "Discrete Mathematics  An Open Introduction, 4th edition",
       "https://discrete.openmathbooks.org/dmoi4.html"
     ]
   ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-08-15, 21:42:53",
-      "https://news.ycombinator.com/item?id=41260679"
-    ],
-    [
-      "RP2350 PicoDVI Preview",
-      "https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 21:04:35",
       "https://news.ycombinator.com/item?id=41260345"
     ],
     [
       "One man's quest to restore the first-ever Air Force One",
       "https://www.atlasobscura.com/articles/first-air-force-one"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 22:45:14",
-      "https://news.ycombinator.com/item?id=41251312"
-    ],
-    [
-      "Show HN: Browser-based XSS scanner",
-      "https://github.com/dshieble/playwright_xss_scanner"
     ]
   ],
   [
