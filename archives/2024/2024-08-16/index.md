@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268800) - [Banks Are Now Accused of Cheating Customers Billions](https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/)
+* [2024-08-16, 17:54:19](https://news.ycombinator.com/item?id=41268671) - [Military sexual assaults far exceed DoD estimates, new report finds](https://www.stripes.com/theaters/us/2024-08-15/military-sexual-assault-numbers-14871731.html)
 * [2024-08-16, 17:08:10](https://news.ycombinator.com/item?id=41268256) - [The Apple IIGS Megahertz Myth – Userlandia](https://www.userlandia.com/home/iigs-mhz-myth)
 * [2024-08-16, 17:07:38](https://news.ycombinator.com/item?id=41268245) - [FUTO](https://www.futo.org/)
 * [2024-08-16, 17:00:35](https://news.ycombinator.com/item?id=41268185) - [Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform](https://www.ycombinator.com/companies/aviator/jobs)
+* [2024-08-16, 16:55:42](https://news.ycombinator.com/item?id=41268140) - [AI audiobooks – 10% more audiobooks this year than all of 2023](https://bookrank.io/blog/audiobook-statistics-august-2024)
 * [2024-08-16, 16:52:09](https://news.ycombinator.com/item?id=41268104) - [Subway calls 'emergency' meeting with franchisees as sales plummet](https://nypost.com/2024/08/14/business/subway-calls-emergency-meeting-with-franchisees-as-sales-plummet-sources/)
 * [2024-08-16, 16:40:14](https://news.ycombinator.com/item?id=41267960) - [Can Large Language Models Understand Symbolic Graphics Programs?](https://www.arxiv.org/abs/2408.08313)
 * [2024-08-16, 16:19:11](https://news.ycombinator.com/item?id=41267746) - [Does Reasoning Emerge? Probabilities of Causation in Large Language Models](https://arxiv.org/abs/2408.08210)
