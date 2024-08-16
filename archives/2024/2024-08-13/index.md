@@ -48,6 +48,7 @@
 * [2024-08-13, 13:04:58](https://news.ycombinator.com/item?id=41235072) - [HTTP/1.0 from Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 13:00:42](https://news.ycombinator.com/item?id=41235038) - [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
 * [2024-08-13, 12:50:54](https://news.ycombinator.com/item?id=41234964) - [The Webb Telescope Further Deepens the Biggest Controversy in Cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
+* [2024-08-13, 12:48:52](https://news.ycombinator.com/item?id=41234951) - [Remembering a Medieval Polymath Who Paved the Way for the Renaissance](https://worldsensorium.com/albert-the-great-remembering-a-medieval-polymath-who-paved-the-way-for-the-renaissance-and-holistic-thinking/)
 * [2024-08-13, 12:41:07](https://news.ycombinator.com/item?id=41234877) - [Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
 * [2024-08-13, 12:36:10](https://news.ycombinator.com/item?id=41234849) - [You can kick the alpha tires on System76's Cosmic, a new Linux desktop](https://arstechnica.com/gadgets/2024/08/you-can-kick-the-alpha-tires-on-system76s-cosmic-a-new-linux-desktop/)
 * [2024-08-13, 12:24:08](https://news.ycombinator.com/item?id=41234767) - [Psssst! Your date of birth can be a random number!](https://shkspr.mobi/blog/2024/08/psssst-your-date-of-birth-can-be-a-random-number/)
