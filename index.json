@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-16, 01:25:44",
+      "https://news.ycombinator.com/item?id=41262244"
+    ],
+    [
+      "SREBench Competition",
+      "https://sreben.ch/"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 00:41:16",
       "https://news.ycombinator.com/item?id=41261986"
     ],
@@ -31,42 +41,12 @@
   ],
   [
     [
-      "2024-08-15, 22:40:00",
-      "https://news.ycombinator.com/item?id=41261214"
-    ],
-    [
-      "Epic vs. Google judge says he'll 'tear the barriers down' on Google's app store",
-      "https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 22:24:21",
-      "https://news.ycombinator.com/item?id=41261107"
-    ],
-    [
-      "Reticulum Is Unstoppable Networks for the People",
-      "https://reticulum.network/"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 21:42:53",
       "https://news.ycombinator.com/item?id=41260679"
     ],
     [
       "RP2350 PicoDVI Preview",
       "https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 21:34:30",
-      "https://news.ycombinator.com/item?id=41260603"
-    ],
-    [
-      "Slow is smooth, smooth is fast: Navy SEALs' efficiency secret",
-      "https://www.navyseal.com/slow-is-smooth-smooth-is-fast/"
     ]
   ],
   [
@@ -117,16 +97,6 @@
     [
       "Hermes 3: The First Fine-Tuned Llama 3.1 405B Model",
       "https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 20:16:41",
-      "https://news.ycombinator.com/item?id=41259912"
-    ],
-    [
-      "Unix file access rwx permissions are simple but tricky",
-      "https://igoro.pro/a-reminder-unix-file-access-rwx-permissions-are-simple-but-tricky/"
     ]
   ],
   [
@@ -201,12 +171,32 @@
   ],
   [
     [
+      "2024-08-15, 08:36:42",
+      "https://news.ycombinator.com/item?id=41254094"
+    ],
+    [
+      "Cryptographic Right Answers: Post Quantum Edition",
+      "https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 07:54:02",
       "https://news.ycombinator.com/item?id=41253922"
     ],
     [
       "Nomad, communicate off-grid mesh, forward secrecy and extreme privacy",
       "https://github.com/markqvist/NomadNet"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 07:42:28",
+      "https://news.ycombinator.com/item?id=41253870"
+    ],
+    [
+      "WriteFreely: An open source platform for building a writing space on the web",
+      "https://writefreely.org/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-08-13, 17:31:21",
+      "https://news.ycombinator.com/item?id=41237472"
+    ],
+    [
+      "Integrating Random Functions on a Cluster with Temporal",
+      "https://carlkolon.com/2024/08/12/integration-temporal/"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 16:57:10",
       "https://news.ycombinator.com/item?id=41237176"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-08-13, 05:54:44",
-      "https://news.ycombinator.com/item?id=41232682"
+      "2024-08-13, 07:06:46",
+      "https://news.ycombinator.com/item?id=41233032"
     ],
     [
-      "Take selfies with public traffic cameras",
-      "https://trafficcamphotobooth.com/"
+      "How NASA brought the F-1 “moon rocket” engine back to life (2013)",
+      "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
     ]
   ],
   [
