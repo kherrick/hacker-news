@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-08-16, 12:05:01",
-      "https://news.ycombinator.com/item?id=41265562"
-    ],
-    [
-      "The Day GitHub Almost CrowdStriked Us All (Again)",
-      "https://blog.codeminer42.com/the-day-github-almost-crowdstriked-us-all-again/"
-    ]
-  ],
-  [
-    [
       "2024-08-16, 11:56:49",
       "https://news.ycombinator.com/item?id=41265512"
     ],
     [
       "JPlag – Detecting Software Plagiarism",
       "https://github.com/jplag/JPlag"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 10:51:42",
-      "https://news.ycombinator.com/item?id=41265163"
-    ],
-    [
-      "Debunking fake stock Pixel OS vulnerability from an EDR company",
-      "https://discuss.grapheneos.org/d/14993-debunking-fake-stock-pixel-os-vulnerability-from-an-edr-company"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 09:50:38",
-      "https://news.ycombinator.com/item?id=41264844"
-    ],
-    [
-      "Microsoft is finally removing the FAT32 partition size limit in Windows 11",
-      "https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11"
     ]
   ],
   [
@@ -71,6 +41,16 @@
   ],
   [
     [
+      "2024-08-16, 04:35:24",
+      "https://news.ycombinator.com/item?id=41263203"
+    ],
+    [
+      "Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes",
+      "https://steezeburger.com/wikipedia-browser/"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 02:49:32",
       "https://news.ycombinator.com/item?id=41262691"
     ],
@@ -81,32 +61,12 @@
   ],
   [
     [
-      "2024-08-16, 01:25:44",
-      "https://news.ycombinator.com/item?id=41262244"
-    ],
-    [
-      "SREBench Competition",
-      "https://sreben.ch/"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 23:06:06",
       "https://news.ycombinator.com/item?id=41261426"
     ],
     [
       "ImRAD is a GUI builder for the ImGui library",
       "https://github.com/tpecholt/imrad"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 22:24:21",
-      "https://news.ycombinator.com/item?id=41261107"
-    ],
-    [
-      "Reticulum Is Unstoppable Networks for the People",
-      "https://reticulum.network/"
     ]
   ],
   [
@@ -141,6 +101,16 @@
   ],
   [
     [
+      "2024-08-15, 20:40:17",
+      "https://news.ycombinator.com/item?id=41260127"
+    ],
+    [
+      "Mermaid: Diagramming and Charting Tool",
+      "https://mermaid.js.org/"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 19:55:28",
       "https://news.ycombinator.com/item?id=41259754"
     ],
@@ -157,6 +127,16 @@
     [
       "Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents",
       "https://news.ycombinator.com/item?id=41257369"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 14:05:30",
+      "https://news.ycombinator.com/item?id=41256222"
+    ],
+    [
+      "CockroachDB license change",
+      "https://www.cockroachlabs.com/enterprise-license-update/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-08-13, 16:57:10",
+      "https://news.ycombinator.com/item?id=41237176"
+    ],
+    [
+      "Open Source FPGA Expansion Card for the Apple II",
+      "https://wiki.reactivemicro.com/A2FPGA"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 16:34:07",
       "https://news.ycombinator.com/item?id=41236993"
     ],
@@ -267,6 +257,16 @@
     [
       "Remembering a Medieval Polymath Who Paved the Way for the Renaissance",
       "https://worldsensorium.com/albert-the-great-remembering-a-medieval-polymath-who-paved-the-way-for-the-renaissance-and-holistic-thinking/"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 07:06:46",
+      "https://news.ycombinator.com/item?id=41233032"
+    ],
+    [
+      "How NASA brought the F-1 “moon rocket” engine back to life (2013)",
+      "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
     ]
   ],
   [
