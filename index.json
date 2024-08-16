@@ -111,22 +111,22 @@
   ],
   [
     [
+      "2024-08-15, 20:36:41",
+      "https://news.ycombinator.com/item?id=41260098"
+    ],
+    [
+      "We survived 10k requests/second: Switching to signed asset URLs in an emergency",
+      "https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 19:55:28",
       "https://news.ycombinator.com/item?id=41259754"
     ],
     [
       "Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables",
       "https://news.ycombinator.com/item?id=41259754"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 17:16:47",
-      "https://news.ycombinator.com/item?id=41258276"
-    ],
-    [
-      "Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion",
-      "https://github.com/probably-nothing-labs/denormalized"
     ]
   ],
   [
