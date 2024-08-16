@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-16, 18:21:50",
+      "https://news.ycombinator.com/item?id=41268925"
+    ],
+    [
+      "TMobile fined $60M for unauthorized access to data: the largest fine of its type",
+      "https://9to5mac.com/2024/08/15/t-mobile-fined-60m/"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 18:09:13",
+      "https://news.ycombinator.com/item?id=41268803"
+    ],
+    [
+      "Good programmers worry about data structures and their relationships",
+      "https://read.engineerscodex.com/p/good-programmers-worry-about-data"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 18:08:55",
       "https://news.ycombinator.com/item?id=41268800"
     ],
@@ -47,16 +67,6 @@
     [
       "Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform",
       "https://www.ycombinator.com/companies/aviator/jobs"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 16:55:42",
-      "https://news.ycombinator.com/item?id=41268140"
-    ],
-    [
-      "AI audiobooks – 10% more audiobooks this year than all of 2023",
-      "https://bookrank.io/blog/audiobook-statistics-august-2024"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "MIT engineers design tiny batteries for powering cell-sized robots",
       "https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 12:49:07",
-      "https://news.ycombinator.com/item?id=41265930"
-    ],
-    [
-      "America prepares for a new nuclear-arms race",
-      "https://www.economist.com/united-states/2024/08/12/america-prepares-for-a-new-nuclear-arms-race"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-08-15, 13:00:48",
-      "https://news.ycombinator.com/item?id=41255456"
+      "2024-08-14, 22:45:14",
+      "https://news.ycombinator.com/item?id=41251312"
     ],
     [
-      "Galois Theory",
-      "https://golem.ph.utexas.edu/category/2024/08/galois_theory.html"
+      "Show HN: Browser-based XSS scanner",
+      "https://github.com/dshieble/playwright_xss_scanner"
     ]
   ],
   [
