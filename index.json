@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-16, 03:03:38",
+      "https://news.ycombinator.com/item?id=41262755"
+    ],
+    [
+      "Geekbench AI 1.0",
+      "https://www.geekbench.com/blog/2024/08/geekbench-ai/"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 02:49:32",
+      "https://news.ycombinator.com/item?id=41262691"
+    ],
+    [
+      "CSS Grid Areas",
+      "https://ishadeed.com/article/css-grid-area/"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 02:20:56",
       "https://news.ycombinator.com/item?id=41262547"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-08-15, 07:54:02",
-      "https://news.ycombinator.com/item?id=41253922"
-    ],
-    [
-      "Nomad, communicate off-grid mesh, forward secrecy and extreme privacy",
-      "https://github.com/markqvist/NomadNet"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 07:42:28",
       "https://news.ycombinator.com/item?id=41253870"
     ],
     [
       "WriteFreely: An open source platform for building a writing space on the web",
       "https://writefreely.org/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 05:59:42",
-      "https://news.ycombinator.com/item?id=41253461"
-    ],
-    [
-      "Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing",
-      "https://jonathanolson.net/exact-polygonal-filtering"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2024-08-13, 16:57:10",
+      "https://news.ycombinator.com/item?id=41237176"
+    ],
+    [
+      "Open Source FPGA Expansion Card for the Apple II",
+      "https://wiki.reactivemicro.com/A2FPGA"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 16:14:40",
       "https://news.ycombinator.com/item?id=41236824"
     ],
     [
       "A practitioner's guide to testing and running GPU clusters",
       "https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 18:26:49",
-      "https://news.ycombinator.com/item?id=41227716"
-    ],
-    [
-      "Writing a C Compiler: Build a Real Programming Language from Scratch",
-      "https://nostarch.com/writing-c-compiler"
     ]
   ],
   [
