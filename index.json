@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-08-16, 21:24:38",
+      "https://news.ycombinator.com/item?id=41270531"
+    ],
+    [
+      "RFC: 64-Bit Sequence Numbers for TCP",
+      "http://www.watersprings.org/pub/id/draft-looney-tcpm-64-bit-seqnos-00.html"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 21:00:14",
       "https://news.ycombinator.com/item?id=41270371"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-08-16, 04:35:24",
-      "https://news.ycombinator.com/item?id=41263203"
+      "2024-08-14, 19:33:03",
+      "https://news.ycombinator.com/item?id=41249671"
     ],
     [
-      "Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes",
-      "https://steezeburger.com/wikipedia-browser/"
+      "Run Diablo Inside Your Web Browser",
+      "https://d07riv.github.io/diabloweb/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Do Art Scenes Lead to Gentrification? (2018)",
       "https://www.bloomberg.com/news/articles/2018-03-22/artists-aren-t-to-blame-for-gentrification-after-all"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 16:34:07",
-      "https://news.ycombinator.com/item?id=41236993"
-    ],
-    [
-      "Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor",
-      "https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html"
     ]
   ],
   [
