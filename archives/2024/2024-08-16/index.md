@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
 * [2024-08-16, 06:16:45](https://news.ycombinator.com/item?id=41263616) - [Cryptominers made $100k from mining at an Airbnb for three weeks](https://www.tomshardware.com/tech-industry/cryptomining/cryptominers-made-100000-dollars-from-mining-at-an-airbnb-for-three-weeks)
+* [2024-08-16, 04:21:27](https://news.ycombinator.com/item?id=41263143) - [Former Google CEO Eric Schmidt's Leaked Stanford Talk](https://github.com/ociubotaru/transcripts/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt)
 * [2024-08-16, 03:03:38](https://news.ycombinator.com/item?id=41262755) - [Geekbench AI 1.0](https://www.geekbench.com/blog/2024/08/geekbench-ai/)
 * [2024-08-16, 02:49:32](https://news.ycombinator.com/item?id=41262691) - [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 * [2024-08-16, 02:20:56](https://news.ycombinator.com/item?id=41262547) - [Ask HN: Why are AI generated images so shiny/glossy?](https://news.ycombinator.com/item?id=41262547)
