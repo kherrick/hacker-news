@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-08-16, 19:20:07",
+      "https://news.ycombinator.com/item?id=41269474"
+    ],
+    [
+      "First Look Inside Blue Origin's New Glenn Factory with Jeff Bezos [video]",
+      "https://www.youtube.com/watch?v=rsuqSn7ifpU"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 19:00:03",
+      "https://news.ycombinator.com/item?id=41269309"
+    ],
+    [
+      "Web Platform Status",
+      "https://webstatus.dev/"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 18:53:57",
       "https://news.ycombinator.com/item?id=41269249"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-08-16, 10:11:28",
-      "https://news.ycombinator.com/item?id=41264941"
-    ],
-    [
-      "Supporting game design with evolutionary algorithms",
-      "https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms"
-    ]
-  ],
-  [
-    [
       "2024-08-16, 09:30:09",
       "https://news.ycombinator.com/item?id=41264730"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2024-08-14, 22:45:14",
-      "https://news.ycombinator.com/item?id=41251312"
+      "2024-08-14, 00:36:25",
+      "https://news.ycombinator.com/item?id=41241373"
     ],
     [
-      "Show HN: Browser-based XSS scanner",
-      "https://github.com/dshieble/playwright_xss_scanner"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 16:34:07",
-      "https://news.ycombinator.com/item?id=41236993"
-    ],
-    [
-      "Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor",
-      "https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html"
+      "Nitric Is Terraform for Developers",
+      "https://medium.com/@rsiva_nitric/nitric-is-terraform-for-developers-9cd6cd7f0e76"
     ]
   ],
   [
