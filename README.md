@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-16, 18:53:57](https://news.ycombinator.com/item?id=41269249) - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
 * [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
 * [2024-08-16, 18:36:31](https://news.ycombinator.com/item?id=41269079) - [.kkrieger – An FPS game from 2004 in 96kb](https://en.wikipedia.org/wiki/.kkrieger)
 * [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
@@ -8,7 +9,6 @@
 * [2024-08-16, 18:09:13](https://news.ycombinator.com/item?id=41268803) - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268801) - [the US government has to start paying for things again](https://www.vox.com/policy/367278/us-national-debt-gdp-government-inflation-solutions-recession)
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268800) - [Banks Are Now Accused of Cheating Customers Billions](https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/)
-* [2024-08-16, 17:54:19](https://news.ycombinator.com/item?id=41268671) - [Military sexual assaults far exceed DoD estimates, new report finds](https://www.stripes.com/theaters/us/2024-08-15/military-sexual-assault-numbers-14871731.html)
 * [2024-08-16, 17:08:10](https://news.ycombinator.com/item?id=41268256) - [The Apple IIGS Megahertz Myth – Userlandia](https://www.userlandia.com/home/iigs-mhz-myth)
 * [2024-08-16, 17:07:38](https://news.ycombinator.com/item?id=41268245) - [FUTO](https://www.futo.org/)
 * [2024-08-16, 17:00:35](https://news.ycombinator.com/item?id=41268185) - [Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform](https://www.ycombinator.com/companies/aviator/jobs)
