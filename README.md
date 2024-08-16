@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
+* [2024-08-16, 18:36:31](https://news.ycombinator.com/item?id=41269079) - [.kkrieger – An FPS game from 2004 in 96kb](https://en.wikipedia.org/wiki/.kkrieger)
 * [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
 * [2024-08-16, 18:21:50](https://news.ycombinator.com/item?id=41268925) - [TMobile fined $60M for unauthorized access to data: the largest fine of its type](https://9to5mac.com/2024/08/15/t-mobile-fined-60m/)
 * [2024-08-16, 18:12:22](https://news.ycombinator.com/item?id=41268832) - [Building a GATT Server on Pi Pico W](https://vanhunteradams.com/Pico/BLE/GATT_Server.html)
@@ -20,7 +21,6 @@
 * [2024-08-16, 14:05:12](https://news.ycombinator.com/item?id=41266548) - [MIT engineers design tiny batteries for powering cell-sized robots](https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815)
 * [2024-08-16, 10:11:28](https://news.ycombinator.com/item?id=41264941) - [Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
 * [2024-08-16, 09:30:09](https://news.ycombinator.com/item?id=41264730) - [Show HN: Cleed – Simple feed reader for the command line](https://github.com/radulucut/cleed)
-* [2024-08-16, 09:27:50](https://news.ycombinator.com/item?id=41264716) - [Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-16, 04:35:24](https://news.ycombinator.com/item?id=41263203) - [Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
