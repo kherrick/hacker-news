@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-16, 15:41:20](https://news.ycombinator.com/item?id=41267351) - [Apple's Hold on the App Store Is Loosening, at Least in Europe](https://www.wsj.com/tech/epic-games-apple-app-store-europe-44ceda50)
 * [2024-08-16, 11:56:49](https://news.ycombinator.com/item?id=41265512) - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
 * [2024-08-16, 10:22:15](https://news.ycombinator.com/item?id=41265007) - [Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
 * [2024-08-16, 10:11:28](https://news.ycombinator.com/item?id=41264941) - [Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
@@ -12,6 +11,7 @@
 * [2024-08-16, 07:12:23](https://news.ycombinator.com/item?id=41263912) - [Show HN: A ninja's Handbook: A book on privacy, security, and anonymity online](https://zolagonano.github.io/a-ninjas-handbook/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-16, 04:35:24](https://news.ycombinator.com/item?id=41263203) - [Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
+* [2024-08-15, 23:23:30](https://news.ycombinator.com/item?id=41261569) - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 * [2024-08-15, 23:06:06](https://news.ycombinator.com/item?id=41261426) - [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
 * [2024-08-15, 21:42:53](https://news.ycombinator.com/item?id=41260679) - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
 * [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
