@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
+* [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
 * [2024-08-16, 18:21:50](https://news.ycombinator.com/item?id=41268925) - [TMobile fined $60M for unauthorized access to data: the largest fine of its type](https://9to5mac.com/2024/08/15/t-mobile-fined-60m/)
+* [2024-08-16, 18:12:22](https://news.ycombinator.com/item?id=41268832) - [Building a GATT Server on Pi Pico W](https://vanhunteradams.com/Pico/BLE/GATT_Server.html)
 * [2024-08-16, 18:10:36](https://news.ycombinator.com/item?id=41268818) - [Forbes 30 under 30 inductee charged with fraud in the same week](https://www.cbsnews.com/chicago/news/chicago-rapper-g-herbo-5-others-charged-with-using-stolen-credit-info-for-flights-vacations-and-designer-puppies/)
 * [2024-08-16, 18:09:13](https://news.ycombinator.com/item?id=41268803) - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268801) - [the US government has to start paying for things again](https://www.vox.com/policy/367278/us-national-debt-gdp-government-inflation-solutions-recession)

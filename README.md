@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
+* [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
 * [2024-08-16, 18:21:50](https://news.ycombinator.com/item?id=41268925) - [TMobile fined $60M for unauthorized access to data: the largest fine of its type](https://9to5mac.com/2024/08/15/t-mobile-fined-60m/)
-* [2024-08-16, 18:10:36](https://news.ycombinator.com/item?id=41268818) - [Forbes 30 under 30 inductee charged with fraud in the same week](https://www.cbsnews.com/chicago/news/chicago-rapper-g-herbo-5-others-charged-with-using-stolen-credit-info-for-flights-vacations-and-designer-puppies/)
+* [2024-08-16, 18:12:22](https://news.ycombinator.com/item?id=41268832) - [Building a GATT Server on Pi Pico W](https://vanhunteradams.com/Pico/BLE/GATT_Server.html)
 * [2024-08-16, 18:09:13](https://news.ycombinator.com/item?id=41268803) - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268801) - [the US government has to start paying for things again](https://www.vox.com/policy/367278/us-national-debt-gdp-government-inflation-solutions-recession)
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268800) - [Banks Are Now Accused of Cheating Customers Billions](https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/)
@@ -25,10 +27,8 @@
 * [2024-08-15, 21:42:53](https://news.ycombinator.com/item?id=41260679) - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
 * [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 * [2024-08-14, 22:45:14](https://news.ycombinator.com/item?id=41251312) - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
-* [2024-08-14, 17:01:45](https://news.ycombinator.com/item?id=41248214) - [A Scottish Provenance for the Altar Stone of Stonehenge](https://www.nature.com/articles/s41586-024-07652-1)
 * [2024-08-13, 18:09:16](https://news.ycombinator.com/item?id=41237857) - [Why did Borland ignore the Macintosh market?](https://retrocomputing.stackexchange.com/questions/30513/why-did-borland-ignore-the-macintosh-market)
 * [2024-08-13, 16:34:07](https://news.ycombinator.com/item?id=41236993) - [Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor](https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html)
-* [2024-08-13, 11:37:25](https://news.ycombinator.com/item?id=41234424) - [Show HN: Create interactive vector animations with Lottielab Interactivity](https://www.lottielab.com/interactivity)
 * [2024-08-13, 10:21:50](https://news.ycombinator.com/item?id=41234038) - [Using a list to manage executive function](https://drmaciver.substack.com/p/using-a-list-to-manage-executive)
 
 ## [Archives](archives/index.md)
