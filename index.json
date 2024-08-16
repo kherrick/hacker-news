@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2024-08-16, 20:06:17",
-      "https://news.ycombinator.com/item?id=41269886"
-    ],
-    [
-      "Fortnite app returns to iPhones – but only in the EU",
-      "https://www.bbc.com/news/articles/c70j5rx72yvo"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 19:20:07",
-      "https://news.ycombinator.com/item?id=41269474"
-    ],
-    [
-      "First Look Inside Blue Origin's New Glenn Factory with Jeff Bezos [video]",
-      "https://www.youtube.com/watch?v=rsuqSn7ifpU"
-    ]
-  ],
-  [
-    [
       "2024-08-16, 18:53:57",
       "https://news.ycombinator.com/item?id=41269249"
     ],
@@ -71,16 +51,6 @@
   ],
   [
     [
-      "2024-08-16, 18:36:31",
-      "https://news.ycombinator.com/item?id=41269079"
-    ],
-    [
-      ".kkrieger – An FPS game from 2004 in 96kb",
-      "https://en.wikipedia.org/wiki/.kkrieger"
-    ]
-  ],
-  [
-    [
       "2024-08-16, 18:28:01",
       "https://news.ycombinator.com/item?id=41268998"
     ],
@@ -107,6 +77,16 @@
     [
       "Building a GATT Server on Pi Pico W",
       "https://vanhunteradams.com/Pico/BLE/GATT_Server.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 18:10:36",
+      "https://news.ycombinator.com/item?id=41268818"
+    ],
+    [
+      "Forbes 30 under 30 inductee charged with fraud in the same week",
+      "https://www.cbsnews.com/chicago/news/chicago-rapper-g-herbo-5-others-charged-with-using-stolen-credit-info-for-flights-vacations-and-designer-puppies/"
     ]
   ],
   [
@@ -147,16 +127,6 @@
     [
       "Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform",
       "https://www.ycombinator.com/companies/aviator/jobs"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 16:47:05",
-      "https://news.ycombinator.com/item?id=41268043"
-    ],
-    [
-      "Whither CockroachDB?",
-      "https://rfd.shared.oxide.computer/rfd/0508"
     ]
   ],
   [
@@ -281,12 +251,42 @@
   ],
   [
     [
+      "2024-08-15, 21:04:35",
+      "https://news.ycombinator.com/item?id=41260345"
+    ],
+    [
+      "One man's quest to restore the first-ever Air Force One",
+      "https://www.atlasobscura.com/articles/first-air-force-one"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 00:36:25",
       "https://news.ycombinator.com/item?id=41241373"
     ],
     [
       "Nitric Is Terraform for Developers",
       "https://medium.com/@rsiva_nitric/nitric-is-terraform-for-developers-9cd6cd7f0e76"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 18:09:16",
+      "https://news.ycombinator.com/item?id=41237857"
+    ],
+    [
+      "Why did Borland ignore the Macintosh market?",
+      "https://retrocomputing.stackexchange.com/questions/30513/why-did-borland-ignore-the-macintosh-market"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 16:34:07",
+      "https://news.ycombinator.com/item?id=41236993"
+    ],
+    [
+      "Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor",
+      "https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html"
     ]
   ],
   [
