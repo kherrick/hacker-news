@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-16, 07:39:24](https://news.ycombinator.com/item?id=41264070) - [Pixel smartphones delivered with secret but inactive remote maintenance](https://www.heise.de/en/news/Pixel-smartphones-delivered-with-secret-but-inactive-remote-maintenance-9836887.html)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
-* [2024-08-16, 06:24:45](https://news.ycombinator.com/item?id=41263656) - [Show HN: Free Online Car Logo Information Website](https://carlogohub.com)
 * [2024-08-16, 04:21:27](https://news.ycombinator.com/item?id=41263143) - [Former Google CEO Eric Schmidt's Leaked Stanford Talk](https://github.com/ociubotaru/transcripts/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt)
 * [2024-08-16, 02:49:32](https://news.ycombinator.com/item?id=41262691) - [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 * [2024-08-16, 02:03:23](https://news.ycombinator.com/item?id=41262439) - [Ditch banks – Go with money market funds and treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
