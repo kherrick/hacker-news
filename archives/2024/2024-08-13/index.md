@@ -22,6 +22,7 @@
 * [2024-08-13, 18:55:19](https://news.ycombinator.com/item?id=41238392) - [What I Learned Writing an Album in Just Intonation](https://www.osar.fr/notes/justintonation/)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 18:09:16](https://news.ycombinator.com/item?id=41237857) - [Why did Borland ignore the Macintosh market?](https://retrocomputing.stackexchange.com/questions/30513/why-did-borland-ignore-the-macintosh-market)
+* [2024-08-13, 18:04:12](https://news.ycombinator.com/item?id=41237811) - [Do Art Scenes Lead to Gentrification? (2018)](https://www.bloomberg.com/news/articles/2018-03-22/artists-aren-t-to-blame-for-gentrification-after-all)
 * [2024-08-13, 17:37:50](https://news.ycombinator.com/item?id=41237542) - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
 * [2024-08-13, 17:31:21](https://news.ycombinator.com/item?id=41237472) - [Integrating Random Functions on a Cluster with Temporal](https://carlkolon.com/2024/08/12/integration-temporal/)
 * [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
