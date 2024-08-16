@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-16, 15:58:05](https://news.ycombinator.com/item?id=41267523) - [AFP Spent $500k Trying to Lock Up Autistic 13-Year-Old on Terrorism Charges](https://www.techdirt.com/2024/08/15/australian-feds-spent-more-than-500000-trying-to-lock-up-an-autistic-13-year-old-on-terrorism-charges/)
+* [2024-08-16, 16:03:56](https://news.ycombinator.com/item?id=41267583) - [Disney's not alone in saying your clicks means you can't sue](https://www.cnn.com/2024/08/16/politics/arbitration-signing-away-rights-disney-plus-wrongful-death-lawsuit/index.html)
 * [2024-08-16, 15:41:20](https://news.ycombinator.com/item?id=41267351) - [Apple's Hold on the App Store Is Loosening, at Least in Europe](https://www.wsj.com/tech/epic-games-apple-app-store-europe-44ceda50)
-* [2024-08-16, 13:44:35](https://news.ycombinator.com/item?id=41266371) - [Low Earth Orbit Satellites Cause Environmental Harm Regulators Didnt Prepare For](https://www.techdirt.com/2024/08/16/report-low-earth-orbit-leo-satellite-systems-like-starlink-cause-environmental-harm-regulators-didnt-prepare-for/)
 * [2024-08-16, 11:56:49](https://news.ycombinator.com/item?id=41265512) - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
 * [2024-08-16, 10:22:15](https://news.ycombinator.com/item?id=41265007) - [Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
 * [2024-08-16, 10:11:28](https://news.ycombinator.com/item?id=41264941) - [Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
@@ -11,6 +10,7 @@
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 * [2024-08-16, 07:36:17](https://news.ycombinator.com/item?id=41264046) - [From Bede (731) to BONE (1991-2004): A sparrow's flight through the ages](https://thijsporck.com/2020/07/27/from-bede-731-to-bone-1991-2004-a-sparrows-flight-through-the-ages/)
 * [2024-08-16, 07:20:02](https://news.ycombinator.com/item?id=41263951) - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
+* [2024-08-16, 07:12:23](https://news.ycombinator.com/item?id=41263912) - [Show HN: A ninja's Handbook: A book on privacy, security, and anonymity online](https://zolagonano.github.io/a-ninjas-handbook/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-16, 04:35:24](https://news.ycombinator.com/item?id=41263203) - [Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
 * [2024-08-15, 23:23:30](https://news.ycombinator.com/item?id=41261569) - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
