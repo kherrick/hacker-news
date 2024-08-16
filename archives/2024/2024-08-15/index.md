@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 23:23:30](https://news.ycombinator.com/item?id=41261569) - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 * [2024-08-15, 23:06:06](https://news.ycombinator.com/item?id=41261426) - [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
 * [2024-08-15, 22:46:02](https://news.ycombinator.com/item?id=41261256) - [Nationalpublicdata.com Hack Exposes a Nation's Data](https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/)
 * [2024-08-15, 22:40:00](https://news.ycombinator.com/item?id=41261214) - [Epic vs. Google judge says he'll 'tear the barriers down' on Google's app store](https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing)
