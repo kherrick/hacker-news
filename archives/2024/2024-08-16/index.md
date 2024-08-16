@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 13:48:24](https://news.ycombinator.com/item?id=41266398) - [Tom Cruise is dangerous and irresponsible (2005)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180571/)
 * [2024-08-16, 13:40:41](https://news.ycombinator.com/item?id=41266342) - [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
+* [2024-08-16, 13:35:09](https://news.ycombinator.com/item?id=41266297) - [Weird Object Careening Across the Cosmos at Ludicrous Speeds](https://gizmodo.com/citizen-scientists-spot-weird-object-careening-across-the-cosmos-at-ludicrous-speeds-2000487675)
 * [2024-08-16, 12:05:01](https://news.ycombinator.com/item?id=41265562) - [The Day GitHub Almost CrowdStriked Us All (Again)](https://blog.codeminer42.com/the-day-github-almost-crowdstriked-us-all-again/)
 * [2024-08-16, 11:58:47](https://news.ycombinator.com/item?id=41265525) - [Carles Puigdemont: How I pulled off my daring escape from Spain](https://www.politico.eu/article/carles-puigdemont-catalonia-independence-spain-operation-arc-de-triomf-escape-exile/)
 * [2024-08-16, 11:56:49](https://news.ycombinator.com/item?id=41265512) - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
@@ -20,7 +22,9 @@
 * [2024-08-16, 09:27:50](https://news.ycombinator.com/item?id=41264716) - [Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 * [2024-08-16, 07:39:24](https://news.ycombinator.com/item?id=41264070) - [Pixel smartphones delivered with secret but inactive remote maintenance](https://www.heise.de/en/news/Pixel-smartphones-delivered-with-secret-but-inactive-remote-maintenance-9836887.html)
+* [2024-08-16, 07:36:17](https://news.ycombinator.com/item?id=41264046) - [From Bede (731) to BONE (1991-2004): A sparrow's flight through the ages](https://thijsporck.com/2020/07/27/from-bede-731-to-bone-1991-2004-a-sparrows-flight-through-the-ages/)
 * [2024-08-16, 07:20:02](https://news.ycombinator.com/item?id=41263951) - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
+* [2024-08-16, 07:12:23](https://news.ycombinator.com/item?id=41263912) - [Show HN: A ninja's Handbook: A book on privacy, security, and anonymity online](https://zolagonano.github.io/a-ninjas-handbook/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-16, 06:24:45](https://news.ycombinator.com/item?id=41263656) - [Show HN: Free Online Car Logo Information Website](https://carlogohub.com)
 * [2024-08-16, 06:16:45](https://news.ycombinator.com/item?id=41263616) - [Cryptominers made $100k from mining at an Airbnb for three weeks](https://www.tomshardware.com/tech-industry/cryptomining/cryptominers-made-100000-dollars-from-mining-at-an-airbnb-for-three-weeks)
