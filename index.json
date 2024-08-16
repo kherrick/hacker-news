@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-16, 09:50:38",
+      "https://news.ycombinator.com/item?id=41264844"
+    ],
+    [
+      "Microsoft is finally removing the FAT32 partition size limit in Windows 11",
+      "https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 09:27:50",
       "https://news.ycombinator.com/item?id=41264716"
     ],
@@ -177,16 +187,6 @@
     [
       "WriteFreely: An open source platform for building a writing space on the web",
       "https://writefreely.org/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 20:37:33",
-      "https://news.ycombinator.com/item?id=41250239"
-    ],
-    [
-      "Weak supervision to isolate sign language communicators in crowded news videos",
-      "https://vrroom.github.io/blog/2024/08/11/sign-detection.html"
     ]
   ],
   [
