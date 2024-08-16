@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
 * [2024-08-16, 10:17:07](https://news.ycombinator.com/item?id=41264973) - [Mpox: Sweden confirms first case of 'more grave' variant outside Africa](https://www.theguardian.com/world/article/2024/aug/15/mpox-variant-clade-i-case-sweden)
+* [2024-08-16, 09:50:38](https://news.ycombinator.com/item?id=41264844) - [Microsoft is finally removing the FAT32 partition size limit in Windows 11](https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11)
 * [2024-08-16, 09:27:50](https://news.ycombinator.com/item?id=41264716) - [Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
 * [2024-08-16, 07:39:24](https://news.ycombinator.com/item?id=41264070) - [Pixel smartphones delivered with secret but inactive remote maintenance](https://www.heise.de/en/news/Pixel-smartphones-delivered-with-secret-but-inactive-remote-maintenance-9836887.html)
 * [2024-08-16, 07:20:02](https://news.ycombinator.com/item?id=41263951) - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)

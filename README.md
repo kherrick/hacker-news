@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-16, 10:17:07](https://news.ycombinator.com/item?id=41264973) - [Mpox: Sweden confirms first case of 'more grave' variant outside Africa](https://www.theguardian.com/world/article/2024/aug/15/mpox-variant-clade-i-case-sweden)
+* [2024-08-16, 09:50:38](https://news.ycombinator.com/item?id=41264844) - [Microsoft is finally removing the FAT32 partition size limit in Windows 11](https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11)
 * [2024-08-16, 09:27:50](https://news.ycombinator.com/item?id=41264716) - [Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
 * [2024-08-16, 07:39:24](https://news.ycombinator.com/item?id=41264070) - [Pixel smartphones delivered with secret but inactive remote maintenance](https://www.heise.de/en/news/Pixel-smartphones-delivered-with-secret-but-inactive-remote-maintenance-9836887.html)
 * [2024-08-16, 07:20:02](https://news.ycombinator.com/item?id=41263951) - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
@@ -18,7 +19,6 @@
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
 * [2024-08-15, 07:42:28](https://news.ycombinator.com/item?id=41253870) - [WriteFreely: An open source platform for building a writing space on the web](https://writefreely.org/)
-* [2024-08-14, 20:37:33](https://news.ycombinator.com/item?id=41250239) - [Weak supervision to isolate sign language communicators in crowded news videos](https://vrroom.github.io/blog/2024/08/11/sign-detection.html)
 * [2024-08-14, 19:20:09](https://news.ycombinator.com/item?id=41249571) - [Why won't some people pay for news? (2022)](https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257)
 * [2024-08-13, 20:54:47](https://news.ycombinator.com/item?id=41239739) - [VCs don't care if you're nice, they want founders who take risks](https://www.businessinsider.com/startup-success-secret-vcs-founders-nate-silver-on-the-edge-2024-8)
 * [2024-08-13, 18:55:19](https://news.ycombinator.com/item?id=41238392) - [What I Learned Writing an Album in Just Intonation](https://www.osar.fr/notes/justintonation/)
