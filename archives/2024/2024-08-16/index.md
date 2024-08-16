@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 21:45:46](https://news.ycombinator.com/item?id=41270674) - [The Cause of Alzheimer's Might Not Be Amyloid](https://scitechdaily.com/the-real-cause-of-alzheimers-might-not-be-amyloid-groundbreaking-discovery-challenges-decades-old-theories/)
 * [2024-08-16, 21:35:24](https://news.ycombinator.com/item?id=41270596) - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
+* [2024-08-16, 21:25:24](https://news.ycombinator.com/item?id=41270536) - [Dubai Court Declares Crypto Salary Legal](https://www.econotimes.com/Dubai-Court-Declares-Crypto-Salary-Legal-Ushering-in-a-Revolutionary-Shift-for-UAE-Workers-1684321)
 * [2024-08-16, 21:00:14](https://news.ycombinator.com/item?id=41270371) - [Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
 * [2024-08-16, 20:24:55](https://news.ycombinator.com/item?id=41270043) - [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
 * [2024-08-16, 20:14:31](https://news.ycombinator.com/item?id=41269955) - [America is sabotaging itself in the global battle for talent](https://www.economist.com/leaders/2024/08/15/america-is-sabotaging-itself-in-the-global-battle-for-talent)
@@ -13,6 +15,7 @@
 * [2024-08-16, 19:56:41](https://news.ycombinator.com/item?id=41269791) - [LLM and Bug Finding: Insights from a $2M Winning Team in the White House's AIxCC](https://team-atlanta.github.io/blog/post-atl/)
 * [2024-08-16, 19:24:54](https://news.ycombinator.com/item?id=41269514) - [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
 * [2024-08-16, 19:20:07](https://news.ycombinator.com/item?id=41269474) - [First Look Inside Blue Origin's New Glenn Factory with Jeff Bezos [video]](https://www.youtube.com/watch?v=rsuqSn7ifpU)
+* [2024-08-16, 19:16:07](https://news.ycombinator.com/item?id=41269444) - [Fun times with energy-based models](https://mpmisko.github.io/2024/ai-fundamentals-energy-based-models/)
 * [2024-08-16, 19:01:09](https://news.ycombinator.com/item?id=41269321) - [VanillaJSX.com](https://vanillajsx.com/)
 * [2024-08-16, 19:00:03](https://news.ycombinator.com/item?id=41269309) - [Web Platform Status](https://webstatus.dev/)
 * [2024-08-16, 18:53:57](https://news.ycombinator.com/item?id=41269249) - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
