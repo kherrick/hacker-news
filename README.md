@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-16, 11:02:16](https://news.ycombinator.com/item?id=41265199) - [Brain-to-Speech Tech Good Enough for Everyday Use Debuts in a Man with ALS](https://www.scientificamerican.com/article/brain-to-speech-tech-good-enough-for-everyday-use-debuts-in-a-man-with-als/)
-* [2024-08-16, 10:17:07](https://news.ycombinator.com/item?id=41264973) - [Mpox: Sweden confirms first case of 'more grave' variant outside Africa](https://www.theguardian.com/world/article/2024/aug/15/mpox-variant-clade-i-case-sweden)
 * [2024-08-16, 09:50:38](https://news.ycombinator.com/item?id=41264844) - [Microsoft is finally removing the FAT32 partition size limit in Windows 11](https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11)
 * [2024-08-16, 09:27:50](https://news.ycombinator.com/item?id=41264716) - [Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
 * [2024-08-16, 07:39:24](https://news.ycombinator.com/item?id=41264070) - [Pixel smartphones delivered with secret but inactive remote maintenance](https://www.heise.de/en/news/Pixel-smartphones-delivered-with-secret-but-inactive-remote-maintenance-9836887.html)
@@ -15,10 +14,12 @@
 * [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 * [2024-08-15, 21:01:13](https://news.ycombinator.com/item?id=41260321) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
 * [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
+* [2024-08-15, 16:25:42](https://news.ycombinator.com/item?id=41257767) - [The TRS-80 Pocket Computer](http://www.trs-80.org/pocket-computer-1/)
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
 * [2024-08-15, 07:42:28](https://news.ycombinator.com/item?id=41253870) - [WriteFreely: An open source platform for building a writing space on the web](https://writefreely.org/)
+* [2024-08-14, 20:37:33](https://news.ycombinator.com/item?id=41250239) - [Weak supervision to isolate sign language communicators in crowded news videos](https://vrroom.github.io/blog/2024/08/11/sign-detection.html)
 * [2024-08-14, 19:20:09](https://news.ycombinator.com/item?id=41249571) - [Why won't some people pay for news? (2022)](https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257)
 * [2024-08-14, 00:44:59](https://news.ycombinator.com/item?id=41241431) - [Intel sells stake in chip designer Arm Holdings](https://www.reuters.com/markets/deals/intel-sells-stake-chip-designer-arm-holdings-2024-08-13/)
 * [2024-08-13, 20:54:47](https://news.ycombinator.com/item?id=41239739) - [VCs don't care if you're nice, they want founders who take risks](https://www.businessinsider.com/startup-success-secret-vcs-founders-nate-silver-on-the-edge-2024-8)
@@ -27,7 +28,6 @@
 * [2024-08-13, 16:34:07](https://news.ycombinator.com/item?id=41236993) - [Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor](https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html)
 * [2024-08-13, 16:14:40](https://news.ycombinator.com/item?id=41236824) - [A practitioner's guide to testing and running GPU clusters](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 * [2024-08-13, 12:48:52](https://news.ycombinator.com/item?id=41234951) - [Remembering a Medieval Polymath Who Paved the Way for the Renaissance](https://worldsensorium.com/albert-the-great-remembering-a-medieval-polymath-who-paved-the-way-for-the-renaissance-and-holistic-thinking/)
-* [2024-08-13, 09:59:48](https://news.ycombinator.com/item?id=41233939) - [Total War: Rome II and Creative Assembly – My Statement Ten Years On](https://medium.com/@julianmckinlay/total-war-rome-ii-and-creative-assembly-my-statement-ten-years-on-d964f65b0a8f)
 * [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the devil aren't what they used to be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
 * [2024-08-12, 09:39:44](https://news.ycombinator.com/item?id=41222738) - [How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
 

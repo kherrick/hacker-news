@@ -37,6 +37,7 @@
 * [2024-08-15, 17:10:06](https://news.ycombinator.com/item?id=41258201) - [Kim Dotcom: The Full Story](https://www.digitalwelt.org/en/digital-subcultures/kim-dotcom-story)
 * [2024-08-15, 17:01:10](https://news.ycombinator.com/item?id=41258123) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-08-15, 16:36:15](https://news.ycombinator.com/item?id=41257861) - [When something that was working, suddenly doesn't work when demoing to others](https://en.wiktionary.org/wiki/Vorf%C3%BChreffekt)
+* [2024-08-15, 16:25:42](https://news.ycombinator.com/item?id=41257767) - [The TRS-80 Pocket Computer](http://www.trs-80.org/pocket-computer-1/)
 * [2024-08-15, 16:17:18](https://news.ycombinator.com/item?id=41257677) - [Uncleftish Beholding](https://en.wikipedia.org/wiki/Uncleftish_Beholding)
 * [2024-08-15, 16:10:06](https://news.ycombinator.com/item?id=41257606) - [The AMD Ryzen 9 9950X and Ryzen 9 9900X Review: Flagship Zen 5 Soars and Stalls](https://www.anandtech.com/show/21524/the-amd-ryzen-9-9950x-and-ryzen-9-9900x-review)
 * [2024-08-15, 16:01:10](https://news.ycombinator.com/item?id=41257509) - [Low magnesium levels increase disease risk, new study shows](https://www.unisa.edu.au/media-centre/Releases/2024/low-magnesium-levels-increase-disease-risk-new-study-shows/)
