@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 23:16:28](https://news.ycombinator.com/item?id=41271223) - [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)
 * [2024-08-16, 21:45:46](https://news.ycombinator.com/item?id=41270674) - [The Cause of Alzheimer's Might Not Be Amyloid](https://scitechdaily.com/the-real-cause-of-alzheimers-might-not-be-amyloid-groundbreaking-discovery-challenges-decades-old-theories/)
 * [2024-08-16, 21:38:27](https://news.ycombinator.com/item?id=41270618) - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 * [2024-08-16, 21:35:24](https://news.ycombinator.com/item?id=41270596) - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
 * [2024-08-16, 21:25:24](https://news.ycombinator.com/item?id=41270536) - [Dubai Court Declares Crypto Salary Legal](https://www.econotimes.com/Dubai-Court-Declares-Crypto-Salary-Legal-Ushering-in-a-Revolutionary-Shift-for-UAE-Workers-1684321)
 * [2024-08-16, 21:24:38](https://news.ycombinator.com/item?id=41270531) - [RFC: 64-Bit Sequence Numbers for TCP](http://www.watersprings.org/pub/id/draft-looney-tcpm-64-bit-seqnos-00.html)
 * [2024-08-16, 21:00:14](https://news.ycombinator.com/item?id=41270371) - [Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
+* [2024-08-16, 20:50:36](https://news.ycombinator.com/item?id=41270277) - [Should I Close Source My Company? Replying to Supabase](https://orth.uk/close-source/)
 * [2024-08-16, 20:24:55](https://news.ycombinator.com/item?id=41270043) - [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
 * [2024-08-16, 20:14:31](https://news.ycombinator.com/item?id=41269955) - [America is sabotaging itself in the global battle for talent](https://www.economist.com/leaders/2024/08/15/america-is-sabotaging-itself-in-the-global-battle-for-talent)
 * [2024-08-16, 20:06:17](https://news.ycombinator.com/item?id=41269886) - [Fortnite app returns to iPhones – but only in the EU](https://www.bbc.com/news/articles/c70j5rx72yvo)
