@@ -20,7 +20,6 @@
 * [2024-08-15, 13:00:48](https://news.ycombinator.com/item?id=41255456) - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 * [2024-08-15, 12:05:50](https://news.ycombinator.com/item?id=41254989) - [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
 * [2024-08-15, 11:13:37](https://news.ycombinator.com/item?id=41254740) - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
-* [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
 * [2024-08-15, 07:42:28](https://news.ycombinator.com/item?id=41253870) - [WriteFreely: An open source platform for building a writing space on the web](https://writefreely.org/)
 * [2024-08-14, 20:37:33](https://news.ycombinator.com/item?id=41250239) - [Weak supervision to isolate sign language communicators in crowded news videos](https://vrroom.github.io/blog/2024/08/11/sign-detection.html)
 * [2024-08-14, 19:20:09](https://news.ycombinator.com/item?id=41249571) - [Why won't some people pay for news? (2022)](https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257)
@@ -28,6 +27,7 @@
 * [2024-08-13, 17:31:21](https://news.ycombinator.com/item?id=41237472) - [Integrating Random Functions on a Cluster with Temporal](https://carlkolon.com/2024/08/12/integration-temporal/)
 * [2024-08-13, 16:57:10](https://news.ycombinator.com/item?id=41237176) - [Open Source FPGA Expansion Card for the Apple II](https://wiki.reactivemicro.com/A2FPGA)
 * [2024-08-13, 16:14:40](https://news.ycombinator.com/item?id=41236824) - [A practitioner's guide to testing and running GPU clusters](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
+* [2024-08-13, 09:59:48](https://news.ycombinator.com/item?id=41233939) - [Total War: Rome II and Creative Assembly – My Statement Ten Years On](https://medium.com/@julianmckinlay/total-war-rome-ii-and-creative-assembly-my-statement-ten-years-on-d964f65b0a8f)
 * [2024-08-12, 17:47:20](https://news.ycombinator.com/item?id=41227279) - [Deals with the devil aren't what they used to be](https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review)
 * [2024-08-12, 09:39:44](https://news.ycombinator.com/item?id=41222738) - [How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
 
