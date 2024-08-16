@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 18:21:50](https://news.ycombinator.com/item?id=41268925) - [TMobile fined $60M for unauthorized access to data: the largest fine of its type](https://9to5mac.com/2024/08/15/t-mobile-fined-60m/)
+* [2024-08-16, 18:09:13](https://news.ycombinator.com/item?id=41268803) - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268800) - [Banks Are Now Accused of Cheating Customers Billions](https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/)
 * [2024-08-16, 17:54:19](https://news.ycombinator.com/item?id=41268671) - [Military sexual assaults far exceed DoD estimates, new report finds](https://www.stripes.com/theaters/us/2024-08-15/military-sexual-assault-numbers-14871731.html)
 * [2024-08-16, 17:08:10](https://news.ycombinator.com/item?id=41268256) - [The Apple IIGS Megahertz Myth – Userlandia](https://www.userlandia.com/home/iigs-mhz-myth)
