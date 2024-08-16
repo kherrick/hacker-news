@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 15:58:05](https://news.ycombinator.com/item?id=41267523) - [AFP Spent $500k Trying to Lock Up Autistic 13-Year-Old on Terrorism Charges](https://www.techdirt.com/2024/08/15/australian-feds-spent-more-than-500000-trying-to-lock-up-an-autistic-13-year-old-on-terrorism-charges/)
 * [2024-08-16, 15:41:20](https://news.ycombinator.com/item?id=41267351) - [Apple's Hold on the App Store Is Loosening, at Least in Europe](https://www.wsj.com/tech/epic-games-apple-app-store-europe-44ceda50)
 * [2024-08-16, 14:59:01](https://news.ycombinator.com/item?id=41267002) - [The shortest, strangest engineering interview I've ever done](https://bluepnume.medium.com/the-shortest-strangest-engineering-interview-ive-ever-done-950e8fa95f4e)
 * [2024-08-16, 14:19:10](https://news.ycombinator.com/item?id=41266682) - [Halide embraces photo purists with new anti-AI processing mode](https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/)
