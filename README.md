@@ -26,8 +26,8 @@
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-16, 04:35:24](https://news.ycombinator.com/item?id=41263203) - [Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
-* [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 * [2024-08-14, 00:36:25](https://news.ycombinator.com/item?id=41241373) - [Nitric Is Terraform for Developers](https://medium.com/@rsiva_nitric/nitric-is-terraform-for-developers-9cd6cd7f0e76)
+* [2024-08-13, 18:09:16](https://news.ycombinator.com/item?id=41237857) - [Why did Borland ignore the Macintosh market?](https://retrocomputing.stackexchange.com/questions/30513/why-did-borland-ignore-the-macintosh-market)
 * [2024-08-13, 16:34:07](https://news.ycombinator.com/item?id=41236993) - [Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor](https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html)
 * [2024-08-13, 10:21:50](https://news.ycombinator.com/item?id=41234038) - [Using a list to manage executive function](https://drmaciver.substack.com/p/using-a-list-to-manage-executive)
 
