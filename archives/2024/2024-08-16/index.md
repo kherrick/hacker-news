@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 14:19:10](https://news.ycombinator.com/item?id=41266682) - [Halide embraces photo purists with new anti-AI processing mode](https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/)
 * [2024-08-16, 13:48:24](https://news.ycombinator.com/item?id=41266398) - [Tom Cruise is dangerous and irresponsible (2005)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180571/)
+* [2024-08-16, 13:44:35](https://news.ycombinator.com/item?id=41266371) - [Low Earth Orbit Satellites Cause Environmental Harm Regulators Didnt Prepare For](https://www.techdirt.com/2024/08/16/report-low-earth-orbit-leo-satellite-systems-like-starlink-cause-environmental-harm-regulators-didnt-prepare-for/)
 * [2024-08-16, 13:40:41](https://news.ycombinator.com/item?id=41266342) - [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
 * [2024-08-16, 13:35:09](https://news.ycombinator.com/item?id=41266297) - [Weird Object Careening Across the Cosmos at Ludicrous Speeds](https://gizmodo.com/citizen-scientists-spot-weird-object-careening-across-the-cosmos-at-ludicrous-speeds-2000487675)
 * [2024-08-16, 12:05:01](https://news.ycombinator.com/item?id=41265562) - [The Day GitHub Almost CrowdStriked Us All (Again)](https://blog.codeminer42.com/the-day-github-almost-crowdstriked-us-all-again/)
