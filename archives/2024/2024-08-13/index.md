@@ -18,6 +18,7 @@
 * [2024-08-13, 19:53:12](https://news.ycombinator.com/item?id=41239067) - [A Nice, Provocative Silence: An Interview with the Author of Cahokia Jazz](https://www.historynewsnetwork.org/article/a-nice-provocative-silence)
 * [2024-08-13, 19:30:45](https://news.ycombinator.com/item?id=41238823) - [Security Clearances at the Speed of Startups](https://steveblank.com/2024/08/13/security-clearances-at-the-speed-of-startups/)
 * [2024-08-13, 19:14:29](https://news.ycombinator.com/item?id=41238632) - [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
+* [2024-08-13, 18:55:19](https://news.ycombinator.com/item?id=41238392) - [What I Learned Writing an Album in Just Intonation](https://www.osar.fr/notes/justintonation/)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 17:37:50](https://news.ycombinator.com/item?id=41237542) - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
 * [2024-08-13, 17:31:21](https://news.ycombinator.com/item?id=41237472) - [Integrating Random Functions on a Cluster with Temporal](https://carlkolon.com/2024/08/12/integration-temporal/)
