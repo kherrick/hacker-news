@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 21:00:14](https://news.ycombinator.com/item?id=41270371) - [Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
 * [2024-08-16, 20:24:55](https://news.ycombinator.com/item?id=41270043) - [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
 * [2024-08-16, 20:14:31](https://news.ycombinator.com/item?id=41269955) - [America is sabotaging itself in the global battle for talent](https://www.economist.com/leaders/2024/08/15/america-is-sabotaging-itself-in-the-global-battle-for-talent)
 * [2024-08-16, 20:06:17](https://news.ycombinator.com/item?id=41269886) - [Fortnite app returns to iPhones – but only in the EU](https://www.bbc.com/news/articles/c70j5rx72yvo)
@@ -23,6 +24,7 @@
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268801) - [the US government has to start paying for things again](https://www.vox.com/policy/367278/us-national-debt-gdp-government-inflation-solutions-recession)
 * [2024-08-16, 18:08:55](https://news.ycombinator.com/item?id=41268800) - [Banks Are Now Accused of Cheating Customers Billions](https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/)
 * [2024-08-16, 18:08:21](https://news.ycombinator.com/item?id=41268794) - [IEEE and Keysight Team Up to Teach Kids About Electronics](https://spectrum.ieee.org/ieee-and-keysight-team-up-to-teach-kids-about-electronics-2668966742)
+* [2024-08-16, 18:05:04](https://news.ycombinator.com/item?id=41268759) - [A web scraping CLI made for AI that is idempotent](https://github.com/clemlesne/scrape-it-now)
 * [2024-08-16, 17:54:19](https://news.ycombinator.com/item?id=41268671) - [Military sexual assaults far exceed DoD estimates, new report finds](https://www.stripes.com/theaters/us/2024-08-15/military-sexual-assault-numbers-14871731.html)
 * [2024-08-16, 17:08:10](https://news.ycombinator.com/item?id=41268256) - [The Apple IIGS Megahertz Myth – Userlandia](https://www.userlandia.com/home/iigs-mhz-myth)
 * [2024-08-16, 17:07:38](https://news.ycombinator.com/item?id=41268245) - [FUTO](https://www.futo.org/)
@@ -34,6 +36,7 @@
 * [2024-08-16, 16:19:11](https://news.ycombinator.com/item?id=41267746) - [Does Reasoning Emerge? Probabilities of Causation in Large Language Models](https://arxiv.org/abs/2408.08210)
 * [2024-08-16, 16:03:56](https://news.ycombinator.com/item?id=41267583) - [Disney's not alone in saying your clicks means you can't sue](https://www.cnn.com/2024/08/16/politics/arbitration-signing-away-rights-disney-plus-wrongful-death-lawsuit/index.html)
 * [2024-08-16, 15:58:05](https://news.ycombinator.com/item?id=41267523) - [AFP Spent $500k Trying to Lock Up Autistic 13-Year-Old on Terrorism Charges](https://www.techdirt.com/2024/08/15/australian-feds-spent-more-than-500000-trying-to-lock-up-an-autistic-13-year-old-on-terrorism-charges/)
+* [2024-08-16, 15:56:14](https://news.ycombinator.com/item?id=41267509) - [The world will lose $4.7T of revenue in the next decade to tax havens](https://www.tbsnews.net/features/panorama/world-will-lose-47-trillion-revenue-next-decade-tax-havens-how-did-we-get-here)
 * [2024-08-16, 15:53:09](https://news.ycombinator.com/item?id=41267478) - [Discrete Mathematics – An Open Introduction 4ed (By Oscar Levin)](https://discrete.openmathbooks.org/dmoi4.html)
 * [2024-08-16, 15:41:20](https://news.ycombinator.com/item?id=41267351) - [Apple's Hold on the App Store Is Loosening, at Least in Europe](https://www.wsj.com/tech/epic-games-apple-app-store-europe-44ceda50)
 * [2024-08-16, 15:37:39](https://news.ycombinator.com/item?id=41267308) - [The LMAX Architecture (2011)](https://martinfowler.com/articles/lmax.html)
