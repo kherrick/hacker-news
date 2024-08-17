@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-17, 19:53:29](https://news.ycombinator.com/item?id=41277422) - [Python Bans Prominent Dev for Enjoying the Wrong Old SNL Sketch](https://lunduke.locals.com/post/5985667/python-bans-prominent-dev-for-enjoying-the-wrong-old-snl-sketch)
 * [2024-08-17, 19:21:52](https://news.ycombinator.com/item?id=41277179) - [Are you smarter than a language model?](https://joel.tools/smarter/)
 * [2024-08-17, 19:17:34](https://news.ycombinator.com/item?id=41277154) - [Ambulances called to Amazon's UK warehouses 1,400 times in five years](https://www.theguardian.com/technology/article/2024/aug/17/ambulances-called-to-amazons-uk-warehouses-1400-times-in-five-years)
 * [2024-08-17, 19:04:04](https://news.ycombinator.com/item?id=41277058) - [Releasing everyone's SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)
@@ -13,7 +14,6 @@
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
 * [2024-08-17, 16:41:21](https://news.ycombinator.com/item?id=41275759) - [Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
-* [2024-08-17, 16:40:55](https://news.ycombinator.com/item?id=41275758) - [Toothpaste Null-Terminator](https://dunkels.com/adam/sentinel-toothpaste/)
 * [2024-08-17, 16:31:05](https://news.ycombinator.com/item?id=41275674) - [AMD's Ryzen CPUs might be slower in PC games due to a weird Windows 11 bug](https://www.techradar.com/computing/cpu/amds-ryzen-cpus-might-be-slower-in-pc-games-due-to-a-weird-windows-11-bug-and-while-theres-a-fix-you-absolutely-shouldnt-use-it)
 * [2024-08-17, 15:45:43](https://news.ycombinator.com/item?id=41275342) - [Ask HN: Do we need to pay billions in fees to Stripe, Block, PayPal and Visa/MC?](https://news.ycombinator.com/item?id=41275342)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
