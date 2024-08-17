@@ -11,6 +11,7 @@
 * [2024-08-13, 22:34:00](https://news.ycombinator.com/item?id=41240556) - [Show HN: I've open sourced DD Poker](https://github.com/dougdonohoe/ddpoker)
 * [2024-08-13, 22:01:22](https://news.ycombinator.com/item?id=41240300) - [US Air Force avoids PFAS water cleanup, citing Supreme Court's Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
 * [2024-08-13, 21:52:47](https://news.ycombinator.com/item?id=41240240) - [Ozempic is changing people's skin, say plastic surgeons](https://www.allure.com/story/ozempics-effects-on-skin)
+* [2024-08-13, 21:12:58](https://news.ycombinator.com/item?id=41239916) - [Doing vibes-based engineering right](https://forestfriends.tech/doing-vibes-based-engineering-right/)
 * [2024-08-13, 21:12:32](https://news.ycombinator.com/item?id=41239913) - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 * [2024-08-13, 21:00:34](https://news.ycombinator.com/item?id=41239805) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)

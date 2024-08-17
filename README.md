@@ -23,11 +23,11 @@
 * [2024-08-16, 15:37:39](https://news.ycombinator.com/item?id=41267308) - [The LMAX Architecture (2011)](https://martinfowler.com/articles/lmax.html)
 * [2024-08-16, 15:04:06](https://news.ycombinator.com/item?id=41267045) - [A Texas \"moth man\" photographed 550 species in his own yard](https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/)
 * [2024-08-16, 14:05:12](https://news.ycombinator.com/item?id=41266548) - [MIT engineers design tiny batteries for powering cell-sized robots](https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815)
-* [2024-08-16, 09:30:09](https://news.ycombinator.com/item?id=41264730) - [Show HN: Cleed – Simple feed reader for the command line](https://github.com/radulucut/cleed)
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-14, 00:50:45](https://news.ycombinator.com/item?id=41241457) - [John Rawls, liberalism and what it means to live a good life](https://aeon.co/essays/john-rawls-liberalism-and-what-it-means-to-live-a-good-life)
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost Crack\" Sounds May Come from Sky, Not Trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
+* [2024-08-13, 21:12:58](https://news.ycombinator.com/item?id=41239916) - [Doing vibes-based engineering right](https://forestfriends.tech/doing-vibes-based-engineering-right/)
 * [2024-08-13, 20:01:17](https://news.ycombinator.com/item?id=41239161) - [WTH Is Cerebrolysin, Actually?](https://moreisdifferent.blog/p/wth-is-cerebrolysin-actually)
 * [2024-08-13, 10:21:50](https://news.ycombinator.com/item?id=41234038) - [Using a list to manage executive function](https://drmaciver.substack.com/p/using-a-list-to-manage-executive)
 
