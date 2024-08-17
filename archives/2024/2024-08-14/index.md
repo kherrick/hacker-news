@@ -89,6 +89,7 @@
 * [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 * [2024-08-14, 06:21:26](https://news.ycombinator.com/item?id=41243147) - [Vaultwarden: Unofficial Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
 * [2024-08-14, 05:49:53](https://news.ycombinator.com/item?id=41242979) - [Grok-2 Beta Release](https://x.ai/blog/grok-2)
+* [2024-08-14, 05:49:27](https://news.ycombinator.com/item?id=41242972) - [NixOS, Raspberry Pi and Me](https://fzakaria.com/2024/08/13/nixos-raspberry-pi-me.html)
 * [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney Seeks Dismissal Wrongful Death Lawsuit b/c Victim Is Disney+ Subscriber](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 * [2024-08-14, 03:43:47](https://news.ycombinator.com/item?id=41242361) - [Introducing passkey support to Fastmail](https://www.fastmail.com/blog/introducing-passkeys/)
 * [2024-08-14, 03:26:32](https://news.ycombinator.com/item?id=41242280) - [Japan's Leader, Fumio Kishida, Will Step Down](https://www.nytimes.com/2024/08/13/world/asia/fumio-kishida-japan-prime-minister.html)
