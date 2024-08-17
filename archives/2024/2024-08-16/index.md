@@ -22,6 +22,7 @@
 * [2024-08-16, 19:16:07](https://news.ycombinator.com/item?id=41269444) - [Fun times with energy-based models](https://mpmisko.github.io/2024/ai-fundamentals-energy-based-models/)
 * [2024-08-16, 19:01:09](https://news.ycombinator.com/item?id=41269321) - [VanillaJSX.com](https://vanillajsx.com/)
 * [2024-08-16, 19:00:03](https://news.ycombinator.com/item?id=41269309) - [Web Platform Status](https://webstatus.dev/)
+* [2024-08-16, 18:54:17](https://news.ycombinator.com/item?id=41269255) - [The Gallery of Regrettable Food](https://www.lileks.com/institute/gallery/index.html)
 * [2024-08-16, 18:53:57](https://news.ycombinator.com/item?id=41269249) - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
 * [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
 * [2024-08-16, 18:39:38](https://news.ycombinator.com/item?id=41269113) - [Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)
