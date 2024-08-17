@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-17, 05:27:20](https://news.ycombinator.com/item?id=41272309) - [It is dangerously easy to hack the worlds phones](https://www.economist.com/science-and-technology/2024/05/17/it-is-dangerously-easy-to-hack-the-worlds-phones)
 * [2024-08-16, 23:41:35](https://news.ycombinator.com/item?id=41271326) - [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
 * [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
 * [2024-08-16, 22:38:06](https://news.ycombinator.com/item?id=41271014) - [Show HN: Learn Blender shortcuts with lots of tiny videos](https://hollisbrown.github.io/blendershortcuts/)
@@ -12,10 +13,8 @@
 * [2024-08-16, 19:56:41](https://news.ycombinator.com/item?id=41269791) - [LLM and Bug Finding: Insights from a $2M Winning Team in the White House's AIxCC](https://team-atlanta.github.io/blog/post-atl/)
 * [2024-08-16, 19:16:07](https://news.ycombinator.com/item?id=41269444) - [Fun times with energy-based models](https://mpmisko.github.io/2024/ai-fundamentals-energy-based-models/)
 * [2024-08-16, 19:01:09](https://news.ycombinator.com/item?id=41269321) - [VanillaJSX.com](https://vanillajsx.com/)
-* [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
 * [2024-08-16, 18:28:01](https://news.ycombinator.com/item?id=41268998) - [The Flywheel Effect](https://www.jimcollins.com/concepts/the-flywheel.html)
 * [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
-* [2024-08-16, 18:08:21](https://news.ycombinator.com/item?id=41268794) - [IEEE and Keysight Team Up to Teach Kids About Electronics](https://spectrum.ieee.org/ieee-and-keysight-team-up-to-teach-kids-about-electronics-2668966742)
 * [2024-08-16, 18:05:04](https://news.ycombinator.com/item?id=41268759) - [A web scraping CLI made for AI that is idempotent](https://github.com/clemlesne/scrape-it-now)
 * [2024-08-16, 17:08:10](https://news.ycombinator.com/item?id=41268256) - [The Apple IIGS Megahertz Myth](https://www.userlandia.com/home/iigs-mhz-myth)
 * [2024-08-16, 15:53:09](https://news.ycombinator.com/item?id=41267478) - [Discrete Mathematics – An Open Introduction, 4th edition](https://discrete.openmathbooks.org/dmoi4.html)
@@ -28,6 +27,7 @@
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-14, 16:53:30](https://news.ycombinator.com/item?id=41248130) - [The threads of glass that make the internet run: How fiber-optic cable is made](https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/)
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost Crack\" Sounds May Come from Sky, Not Trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
+* [2024-08-13, 21:12:58](https://news.ycombinator.com/item?id=41239916) - [Doing vibes-based engineering right](https://forestfriends.tech/doing-vibes-based-engineering-right/)
 * [2024-08-13, 20:01:17](https://news.ycombinator.com/item?id=41239161) - [WTH Is Cerebrolysin, Actually?](https://moreisdifferent.blog/p/wth-is-cerebrolysin-actually)
 * [2024-08-13, 10:21:50](https://news.ycombinator.com/item?id=41234038) - [Using a list to manage executive function](https://drmaciver.substack.com/p/using-a-list-to-manage-executive)
 
