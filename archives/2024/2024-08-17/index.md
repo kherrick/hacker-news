@@ -12,6 +12,7 @@
 * [2024-08-17, 16:40:55](https://news.ycombinator.com/item?id=41275758) - [Toothpaste Null-Terminator](https://dunkels.com/adam/sentinel-toothpaste/)
 * [2024-08-17, 16:33:51](https://news.ycombinator.com/item?id=41275696) - [UK chip giant ARM developing GPU in Israel](https://en.globes.co.il/en/article-uk-chip-giant-arm-developing-gpu-in-israel-1001486761)
 * [2024-08-17, 16:33:50](https://news.ycombinator.com/item?id=41275695) - [AI stole my job and my work, and the boss didn't know – or care](https://www.theregister.com/2024/08/15/robot_took_my_job/)
+* [2024-08-17, 16:31:05](https://news.ycombinator.com/item?id=41275674) - [AMD's Ryzen CPUs might be slower in PC games due to a weird Windows 11 bug](https://www.techradar.com/computing/cpu/amds-ryzen-cpus-might-be-slower-in-pc-games-due-to-a-weird-windows-11-bug-and-while-theres-a-fix-you-absolutely-shouldnt-use-it)
 * [2024-08-17, 16:20:19](https://news.ycombinator.com/item?id=41275600) - [X to close operations in Brazil 'effective immediately'](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
 * [2024-08-17, 16:17:00](https://news.ycombinator.com/item?id=41275573) - [Home to Anything JavaFX Related](https://www.jfx-central.com/)
 * [2024-08-17, 15:45:43](https://news.ycombinator.com/item?id=41275342) - [Do we need to pay billions in fees to Stripe, Block, PayPal and Visa/MC?](https://news.ycombinator.com/item?id=41275342)
