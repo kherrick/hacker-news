@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 13:00:26](https://news.ycombinator.com/item?id=41274255) - [Online dating apps struggle as people swear off swiping](https://www.theguardian.com/lifeandstyle/article/2024/aug/17/dating-apps-decline-bumble-tinder)
 * [2024-08-17, 11:48:34](https://news.ycombinator.com/item?id=41273786) - [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
 * [2024-08-17, 10:42:54](https://news.ycombinator.com/item?id=41273415) - [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
 * [2024-08-17, 10:29:50](https://news.ycombinator.com/item?id=41273357) - [Brain found to store three copies of every memory](https://newatlas.com/biology/brain-three-copies-memory/)
