@@ -25,6 +25,7 @@
 * [2024-08-13, 19:30:45](https://news.ycombinator.com/item?id=41238823) - [Security Clearances at the Speed of Startups](https://steveblank.com/2024/08/13/security-clearances-at-the-speed-of-startups/)
 * [2024-08-13, 19:14:29](https://news.ycombinator.com/item?id=41238632) - [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
 * [2024-08-13, 18:55:19](https://news.ycombinator.com/item?id=41238392) - [What I Learned Writing an Album in Just Intonation](https://www.osar.fr/notes/justintonation/)
+* [2024-08-13, 18:34:43](https://news.ycombinator.com/item?id=41238130) - [Encyclopedia of Optimization](https://link.springer.com/referencework/10.1007/978-0-387-74759-0)
 * [2024-08-13, 18:32:52](https://news.ycombinator.com/item?id=41238102) - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 * [2024-08-13, 18:09:16](https://news.ycombinator.com/item?id=41237857) - [Why did Borland ignore the Macintosh market?](https://retrocomputing.stackexchange.com/questions/30513/why-did-borland-ignore-the-macintosh-market)
 * [2024-08-13, 18:04:12](https://news.ycombinator.com/item?id=41237811) - [Do Art Scenes Lead to Gentrification? (2018)](https://www.bloomberg.com/news/articles/2018-03-22/artists-aren-t-to-blame-for-gentrification-after-all)
