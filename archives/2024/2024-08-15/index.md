@@ -84,6 +84,7 @@
 * [2024-08-15, 06:51:03](https://news.ycombinator.com/item?id=41253657) - [Metaprogramming in Bash](http://adam.younglogic.com/2024/08/metaprogramming-in-bash/)
 * [2024-08-15, 06:21:24](https://news.ycombinator.com/item?id=41253544) - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
 * [2024-08-15, 05:59:42](https://news.ycombinator.com/item?id=41253461) - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
+* [2024-08-15, 05:05:49](https://news.ycombinator.com/item?id=41253244) - [The Key to Bizarro's Symbols](https://www.bizarro.com/secret-symbols)
 * [2024-08-15, 04:56:16](https://news.ycombinator.com/item?id=41253204) - [Victorian Artistic Printing (2009)](https://www.sheaff-ephemera.com/list/artistic_printing.html)
 * [2024-08-15, 04:27:51](https://news.ycombinator.com/item?id=41253083) - [ALS Stole His Voice. A.I. Retrieved It](https://www.nytimes.com/2024/08/14/health/als-ai-brain-implants.html)
 * [2024-08-15, 04:13:43](https://news.ycombinator.com/item?id=41253041) - [Learning from the Earthquake (1990)](https://sb.longnow.org/SB_homepage/Earthquake_Lessons.html)
