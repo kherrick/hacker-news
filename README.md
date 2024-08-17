@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-17, 00:16:46](https://news.ycombinator.com/item?id=41271458) - [Show HN: an AI copilot for Next.js developers](https://useglass.ai)
+* [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
+* [2024-08-16, 22:09:26](https://news.ycombinator.com/item?id=41270830) - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 * [2024-08-16, 21:38:27](https://news.ycombinator.com/item?id=41270618) - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 * [2024-08-16, 21:35:24](https://news.ycombinator.com/item?id=41270596) - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
 * [2024-08-16, 21:00:14](https://news.ycombinator.com/item?id=41270371) - [Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
@@ -10,7 +13,6 @@
 * [2024-08-16, 18:54:17](https://news.ycombinator.com/item?id=41269255) - [The Gallery of Regrettable Food](https://www.lileks.com/institute/gallery/index.html)
 * [2024-08-16, 18:53:57](https://news.ycombinator.com/item?id=41269249) - [MIFARE Classic: exposing the static encrypted nonce variant [pdf]](https://eprint.iacr.org/2024/1275.pdf)
 * [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
-* [2024-08-16, 18:39:38](https://news.ycombinator.com/item?id=41269113) - [Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)
 * [2024-08-16, 18:28:01](https://news.ycombinator.com/item?id=41268998) - [The Flywheel Effect](https://www.jimcollins.com/concepts/the-flywheel.html)
 * [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
 * [2024-08-16, 18:12:22](https://news.ycombinator.com/item?id=41268832) - [Building a GATT Server on Pi Pico W](https://vanhunteradams.com/Pico/BLE/GATT_Server.html)
@@ -25,10 +27,8 @@
 * [2024-08-16, 09:30:09](https://news.ycombinator.com/item?id=41264730) - [Show HN: Cleed – Simple feed reader for the command line](https://github.com/radulucut/cleed)
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
-* [2024-08-16, 04:35:24](https://news.ycombinator.com/item?id=41263203) - [Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
-* [2024-08-15, 21:04:35](https://news.ycombinator.com/item?id=41260345) - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
+* [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost Crack\" Sounds May Come from Sky, Not Trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 * [2024-08-13, 18:04:12](https://news.ycombinator.com/item?id=41237811) - [Do Art Scenes Lead to Gentrification? (2018)](https://www.bloomberg.com/news/articles/2018-03-22/artists-aren-t-to-blame-for-gentrification-after-all)
-* [2024-08-13, 16:34:07](https://news.ycombinator.com/item?id=41236993) - [Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor](https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html)
 * [2024-08-13, 10:21:50](https://news.ycombinator.com/item?id=41234038) - [Using a list to manage executive function](https://drmaciver.substack.com/p/using-a-list-to-manage-executive)
 
 ## [Archives](archives/index.md)

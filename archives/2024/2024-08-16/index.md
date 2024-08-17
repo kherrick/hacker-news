@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
 * [2024-08-16, 23:16:28](https://news.ycombinator.com/item?id=41271223) - [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)
+* [2024-08-16, 22:09:26](https://news.ycombinator.com/item?id=41270830) - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 * [2024-08-16, 21:45:46](https://news.ycombinator.com/item?id=41270674) - [The Cause of Alzheimer's Might Not Be Amyloid](https://scitechdaily.com/the-real-cause-of-alzheimers-might-not-be-amyloid-groundbreaking-discovery-challenges-decades-old-theories/)
 * [2024-08-16, 21:38:27](https://news.ycombinator.com/item?id=41270618) - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 * [2024-08-16, 21:35:24](https://news.ycombinator.com/item?id=41270596) - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)

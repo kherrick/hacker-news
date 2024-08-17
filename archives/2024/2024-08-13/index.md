@@ -7,6 +7,7 @@
 * [2024-08-13, 23:55:09](https://news.ycombinator.com/item?id=41241124) - [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
 * [2024-08-13, 23:03:21](https://news.ycombinator.com/item?id=41240755) - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
 * [2024-08-13, 22:55:36](https://news.ycombinator.com/item?id=41240716) - [DOJ may want to break up Google](https://www.zdnet.com/article/report-doj-may-want-to-break-up-google/)
+* [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost Crack\" Sounds May Come from Sky, Not Trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 * [2024-08-13, 22:34:00](https://news.ycombinator.com/item?id=41240556) - [Show HN: I've open sourced DD Poker](https://github.com/dougdonohoe/ddpoker)
 * [2024-08-13, 22:01:22](https://news.ycombinator.com/item?id=41240300) - [US Air Force avoids PFAS water cleanup, citing Supreme Court's Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
 * [2024-08-13, 21:52:47](https://news.ycombinator.com/item?id=41240240) - [Ozempic is changing people's skin, say plastic surgeons](https://www.allure.com/story/ozempics-effects-on-skin)
