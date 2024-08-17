@@ -48,6 +48,7 @@
 * [2024-08-14, 16:22:40](https://news.ycombinator.com/item?id=41247841) - [How to triage patients and run a ER during a mass casualty incident](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
 * [2024-08-14, 16:20:10](https://news.ycombinator.com/item?id=41247806) - [An innovative cryptocurrency payment platform to provide payment solutions](https://github.com/Victor-Sava/LuminaPay)
 * [2024-08-14, 16:13:58](https://news.ycombinator.com/item?id=41247727) - [Windows TCP/IP Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2024-38063)
+* [2024-08-14, 15:37:05](https://news.ycombinator.com/item?id=41247322) - [The use of mare's milk for yogurt ice cream and synbiotic ice cream production](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304692)
 * [2024-08-14, 15:34:04](https://news.ycombinator.com/item?id=41247275) - [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
 * [2024-08-14, 15:30:46](https://news.ycombinator.com/item?id=41247238) - [A Different Kind of Keyboard](https://ianthehenry.com/posts/peggi/)
 * [2024-08-14, 15:28:43](https://news.ycombinator.com/item?id=41247211) - [Launch HN: Promi (YC S24) – AI-powered ecommerce discounts](https://news.ycombinator.com/item?id=41247211)
