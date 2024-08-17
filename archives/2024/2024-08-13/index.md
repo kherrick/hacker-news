@@ -16,6 +16,7 @@
 * [2024-08-13, 21:00:10](https://news.ycombinator.com/item?id=41239800) - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
 * [2024-08-13, 20:54:47](https://news.ycombinator.com/item?id=41239739) - [VCs don't care if you're nice, they want founders who take risks](https://www.businessinsider.com/startup-success-secret-vcs-founders-nate-silver-on-the-edge-2024-8)
 * [2024-08-13, 20:47:13](https://news.ycombinator.com/item?id=41239670) - [Show HN: I built a tool to try artworks on your own wall](https://wallartlovers.com)
+* [2024-08-13, 20:01:17](https://news.ycombinator.com/item?id=41239161) - [WTH Is Cerebrolysin, Actually?](https://moreisdifferent.blog/p/wth-is-cerebrolysin-actually)
 * [2024-08-13, 19:55:19](https://news.ycombinator.com/item?id=41239096) - [Self-driving Waymo cars keep SF residents awake all night by honking](https://arstechnica.com/information-technology/2024/08/self-driving-waymo-cars-keep-sf-residents-awake-all-night-by-honking-at-each-other/)
 * [2024-08-13, 19:53:12](https://news.ycombinator.com/item?id=41239067) - [A Nice, Provocative Silence: An Interview with the Author of Cahokia Jazz](https://www.historynewsnetwork.org/article/a-nice-provocative-silence)
 * [2024-08-13, 19:30:45](https://news.ycombinator.com/item?id=41238823) - [Security Clearances at the Speed of Startups](https://steveblank.com/2024/08/13/security-clearances-at-the-speed-of-startups/)
