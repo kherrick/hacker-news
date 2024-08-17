@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-08-17, 13:08:31",
-      "https://news.ycombinator.com/item?id=41274299"
-    ],
-    [
-      "Stressed mouse brain sends gut messages that reduce beneficial bacteria levels",
-      "https://medicalxpress.com/news/2024-08-mouse-brain-stress-messages-gut.html"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 13:03:33",
       "https://news.ycombinator.com/item?id=41274274"
     ],
@@ -227,6 +217,16 @@
     [
       "Slackdump",
       "https://github.com/rusq/slackdump"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 23:27:21",
+      "https://news.ycombinator.com/item?id=41271273"
+    ],
+    [
+      "Zngur: A C++/Rust interop tool",
+      "https://hkalbasi.github.io/zngur/"
     ]
   ],
   [
