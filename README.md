@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-17, 08:46:56](https://news.ycombinator.com/item?id=41272861) - [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
 * [2024-08-17, 08:19:33](https://news.ycombinator.com/item?id=41272771) - [Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
 * [2024-08-17, 07:25:27](https://news.ycombinator.com/item?id=41272603) - [There's an AI – No Junk, Just Gems](https://theresanai.com)
 * [2024-08-17, 05:20:02](https://news.ycombinator.com/item?id=41272294) - [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
@@ -23,7 +24,6 @@
 * [2024-08-16, 14:05:12](https://news.ycombinator.com/item?id=41266548) - [MIT engineers design tiny batteries for powering cell-sized robots](https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815)
 * [2024-08-16, 10:11:28](https://news.ycombinator.com/item?id=41264941) - [Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
-* [2024-08-16, 07:36:17](https://news.ycombinator.com/item?id=41264046) - [From Bede (731) to BONE (1991-2004): A sparrow's flight through the ages](https://thijsporck.com/2020/07/27/from-bede-731-to-bone-1991-2004-a-sparrows-flight-through-the-ages/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost crack\" sounds may come from sky, not trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
