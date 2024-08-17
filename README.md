@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-17, 16:20:19](https://news.ycombinator.com/item?id=41275600) - [X to close operations in Brazil 'effective immediately'](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
+* [2024-08-17, 15:45:43](https://news.ycombinator.com/item?id=41275342) - [Do we need to pay billions in fees to Stripe, Block, PayPal and Visa/MC?](https://news.ycombinator.com/item?id=41275342)
 * [2024-08-17, 15:14:32](https://news.ycombinator.com/item?id=41275114) - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
 * [2024-08-17, 15:08:40](https://news.ycombinator.com/item?id=41275073) - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
 * [2024-08-17, 14:28:47](https://news.ycombinator.com/item?id=41274850) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 * [2024-08-17, 13:08:31](https://news.ycombinator.com/item?id=41274299) - [Stressed mouse brain sends gut messages that reduce beneficial bacteria levels](https://medicalxpress.com/news/2024-08-mouse-brain-stress-messages-gut.html)
 * [2024-08-17, 13:03:33](https://news.ycombinator.com/item?id=41274274) - [Hacking with PDF (2022)](https://0xcybery.github.io/blog/hacking-with-pdf)
+* [2024-08-17, 12:40:23](https://news.ycombinator.com/item?id=41274138) - [Spring-rs is a microservice framework in Rust inspired by Java's spring-boot](https://github.com/spring-rs/spring-rs)
 * [2024-08-17, 12:27:05](https://news.ycombinator.com/item?id=41274041) - [Analysis of EV charging stations finds reliability issues galore](https://www.emergingtechbrew.com/stories/2024/08/12/chargerhelp-analysis-ev-charging-stations)
 * [2024-08-17, 10:42:54](https://news.ycombinator.com/item?id=41273415) - [Xapian: Open source search engine library](https://xapian.org/)
 * [2024-08-17, 08:46:56](https://news.ycombinator.com/item?id=41272861) - [X ordered to pay €550k to Irish employee fired after yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
@@ -14,7 +16,6 @@
 * [2024-08-17, 04:42:52](https://news.ycombinator.com/item?id=41272213) - [Slackdump](https://github.com/rusq/slackdump)
 * [2024-08-17, 02:09:34](https://news.ycombinator.com/item?id=41271839) - [Ditch the sim rig and use your car instead (2019)](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/)
 * [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
-* [2024-08-16, 22:38:06](https://news.ycombinator.com/item?id=41271014) - [Show HN: Learn Blender shortcuts with lots of tiny videos](https://hollisbrown.github.io/blendershortcuts/)
 * [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
 * [2024-08-16, 21:35:24](https://news.ycombinator.com/item?id=41270596) - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
 * [2024-08-16, 20:24:55](https://news.ycombinator.com/item?id=41270043) - [The future of Deep Learning frameworks](https://neel04.github.io/my-website/blog/pytorch_rant/)
@@ -29,7 +30,6 @@
 * [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost crack\" sounds may come from sky, not trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 * [2024-08-13, 18:34:43](https://news.ycombinator.com/item?id=41238130) - [Encyclopedia of Optimization](https://link.springer.com/referencework/10.1007/978-0-387-74759-0)
-* [2024-08-13, 10:21:50](https://news.ycombinator.com/item?id=41234038) - [Using a list to manage executive function](https://drmaciver.substack.com/p/using-a-list-to-manage-executive)
 
 ## [Archives](archives/index.md)
 

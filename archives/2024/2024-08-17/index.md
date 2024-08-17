@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
 * [2024-08-17, 16:20:19](https://news.ycombinator.com/item?id=41275600) - [X to close operations in Brazil 'effective immediately'](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
+* [2024-08-17, 15:45:43](https://news.ycombinator.com/item?id=41275342) - [Do we need to pay billions in fees to Stripe, Block, PayPal and Visa/MC?](https://news.ycombinator.com/item?id=41275342)
 * [2024-08-17, 15:14:32](https://news.ycombinator.com/item?id=41275114) - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
 * [2024-08-17, 15:08:40](https://news.ycombinator.com/item?id=41275073) - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
 * [2024-08-17, 14:28:47](https://news.ycombinator.com/item?id=41274850) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
@@ -15,6 +16,7 @@
 * [2024-08-17, 13:08:31](https://news.ycombinator.com/item?id=41274299) - [Stressed mouse brain sends gut messages that reduce beneficial bacteria levels](https://medicalxpress.com/news/2024-08-mouse-brain-stress-messages-gut.html)
 * [2024-08-17, 13:03:33](https://news.ycombinator.com/item?id=41274274) - [Hacking with PDF (2022)](https://0xcybery.github.io/blog/hacking-with-pdf)
 * [2024-08-17, 13:00:26](https://news.ycombinator.com/item?id=41274255) - [Online dating apps struggle as people swear off swiping](https://www.theguardian.com/lifeandstyle/article/2024/aug/17/dating-apps-decline-bumble-tinder)
+* [2024-08-17, 12:40:23](https://news.ycombinator.com/item?id=41274138) - [Spring-rs is a microservice framework in Rust inspired by Java's spring-boot](https://github.com/spring-rs/spring-rs)
 * [2024-08-17, 12:35:24](https://news.ycombinator.com/item?id=41274098) - [You Can Gaslight Yourself into Loving Someone](https://gist.github.com/Wilsontomass/de0d9b4d331eda0880c601c8890c1143)
 * [2024-08-17, 12:27:05](https://news.ycombinator.com/item?id=41274041) - [Analysis of EV charging stations finds reliability issues galore](https://www.emergingtechbrew.com/stories/2024/08/12/chargerhelp-analysis-ev-charging-stations)
 * [2024-08-17, 11:48:34](https://news.ycombinator.com/item?id=41273786) - [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
