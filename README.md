@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-17, 08:19:33](https://news.ycombinator.com/item?id=41272771) - [Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
 * [2024-08-17, 07:25:27](https://news.ycombinator.com/item?id=41272603) - [There's an AI – No Junk, Just Gems](https://theresanai.com)
 * [2024-08-17, 05:20:02](https://news.ycombinator.com/item?id=41272294) - [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
-* [2024-08-17, 04:43:40](https://news.ycombinator.com/item?id=41272216) - [Private Internet](https://kevincox.ca/2024/08/16/private-internet/)
 * [2024-08-17, 04:42:52](https://news.ycombinator.com/item?id=41272213) - [Slackdump](https://github.com/rusq/slackdump)
 * [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
 * [2024-08-16, 22:38:06](https://news.ycombinator.com/item?id=41271014) - [Show HN: Learn Blender shortcuts with lots of tiny videos](https://hollisbrown.github.io/blendershortcuts/)

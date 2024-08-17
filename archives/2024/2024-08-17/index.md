@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 08:19:33](https://news.ycombinator.com/item?id=41272771) - [Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
 * [2024-08-17, 07:25:27](https://news.ycombinator.com/item?id=41272603) - [There's an AI – No Junk, Just Gems](https://theresanai.com)
 * [2024-08-17, 05:27:20](https://news.ycombinator.com/item?id=41272309) - [It is dangerously easy to hack the worlds phones](https://www.economist.com/science-and-technology/2024/05/17/it-is-dangerously-easy-to-hack-the-worlds-phones)
 * [2024-08-17, 05:20:02](https://news.ycombinator.com/item?id=41272294) - [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
