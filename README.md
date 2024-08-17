@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-17, 07:25:27](https://news.ycombinator.com/item?id=41272603) - [There's an AI – No Junk, Just Gems](https://theresanai.com)
-* [2024-08-17, 05:27:20](https://news.ycombinator.com/item?id=41272309) - [It is dangerously easy to hack the worlds phones](https://www.economist.com/science-and-technology/2024/05/17/it-is-dangerously-easy-to-hack-the-worlds-phones)
 * [2024-08-17, 05:20:02](https://news.ycombinator.com/item?id=41272294) - [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
 * [2024-08-17, 04:43:40](https://news.ycombinator.com/item?id=41272216) - [Private Internet](https://kevincox.ca/2024/08/16/private-internet/)
 * [2024-08-17, 04:42:52](https://news.ycombinator.com/item?id=41272213) - [Slackdump](https://github.com/rusq/slackdump)
@@ -26,6 +25,7 @@
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 * [2024-08-16, 07:36:17](https://news.ycombinator.com/item?id=41264046) - [From Bede (731) to BONE (1991-2004): A sparrow's flight through the ages](https://thijsporck.com/2020/07/27/from-bede-731-to-bone-1991-2004-a-sparrows-flight-through-the-ages/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
+* [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost crack\" sounds may come from sky, not trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 * [2024-08-13, 20:37:59](https://news.ycombinator.com/item?id=41239571) - [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
 * [2024-08-13, 20:01:17](https://news.ycombinator.com/item?id=41239161) - [WTH Is Cerebrolysin, Actually?](https://moreisdifferent.blog/p/wth-is-cerebrolysin-actually)

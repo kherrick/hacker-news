@@ -86,6 +86,7 @@
 * [2024-08-14, 08:42:22](https://news.ycombinator.com/item?id=41243992) - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 * [2024-08-14, 08:34:45](https://news.ycombinator.com/item?id=41243931) - [CVE-2024-38063, Windows TCP/IP Remote Code Execution Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063)
 * [2024-08-14, 08:01:13](https://news.ycombinator.com/item?id=41243703) - [Show HN: I made a tool to help collect and validate startup ideas](https://www.keepmyidea.app)
+* [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 * [2024-08-14, 06:21:26](https://news.ycombinator.com/item?id=41243147) - [Vaultwarden: Unofficial Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
 * [2024-08-14, 05:49:53](https://news.ycombinator.com/item?id=41242979) - [Grok-2 Beta Release](https://x.ai/blog/grok-2)
 * [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney Seeks Dismissal Wrongful Death Lawsuit b/c Victim Is Disney+ Subscriber](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
