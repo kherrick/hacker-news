@@ -6,7 +6,7 @@
 * [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [mpv a free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-17, 18:17:12](https://news.ycombinator.com/item?id=41276675) - [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
 * [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
-* [2024-08-17, 17:16:23](https://news.ycombinator.com/item?id=41276063) - [The Vala Language](https://www.bassi.io/articles/2017/02/13/on-vala/)
+* [2024-08-17, 17:16:23](https://news.ycombinator.com/item?id=41276063) - [The Vala Language (2017)](https://www.bassi.io/articles/2017/02/13/on-vala/)
 * [2024-08-17, 16:59:47](https://news.ycombinator.com/item?id=41275920) - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
