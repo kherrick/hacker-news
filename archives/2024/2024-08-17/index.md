@@ -6,8 +6,10 @@
 
 * [2024-08-17, 17:00:21](https://news.ycombinator.com/item?id=41275922) - [Seam (YC S20) Is Hiring a Mobile SDK Engineer (iOS, Android)](https://www.workatastartup.com/jobs/67744)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
+* [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
 * [2024-08-17, 16:41:54](https://news.ycombinator.com/item?id=41275766) - [The Living Computer Museum auction listing](https://onlineonly.christies.com/s/firsts-history-computing-paul-g-allen-collection/lots/3726)
 * [2024-08-17, 16:40:55](https://news.ycombinator.com/item?id=41275758) - [Toothpaste Null-Terminator](https://dunkels.com/adam/sentinel-toothpaste/)
+* [2024-08-17, 16:33:51](https://news.ycombinator.com/item?id=41275696) - [UK chip giant ARM developing GPU in Israel](https://en.globes.co.il/en/article-uk-chip-giant-arm-developing-gpu-in-israel-1001486761)
 * [2024-08-17, 16:33:50](https://news.ycombinator.com/item?id=41275695) - [AI stole my job and my work, and the boss didn't know – or care](https://www.theregister.com/2024/08/15/robot_took_my_job/)
 * [2024-08-17, 16:20:19](https://news.ycombinator.com/item?id=41275600) - [X to close operations in Brazil 'effective immediately'](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
 * [2024-08-17, 16:17:00](https://news.ycombinator.com/item?id=41275573) - [Home to Anything JavaFX Related](https://www.jfx-central.com/)
