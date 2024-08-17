@@ -6,6 +6,7 @@
 
 * [2024-08-17, 15:14:32](https://news.ycombinator.com/item?id=41275114) - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
 * [2024-08-17, 15:08:40](https://news.ycombinator.com/item?id=41275073) - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
+* [2024-08-17, 14:28:47](https://news.ycombinator.com/item?id=41274850) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 14:18:48](https://news.ycombinator.com/item?id=41274774) - [China's manufacturers are going broke](https://www.economist.com/business/2024/08/08/chinas-manufacturers-are-going-broke)
 * [2024-08-17, 14:11:53](https://news.ycombinator.com/item?id=41274726) - [An AI that unexpectedly modified its own source code](https://arstechnica.com/information-technology/2024/08/research-ai-model-unexpectedly-modified-its-own-code-to-extend-runtime/)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
