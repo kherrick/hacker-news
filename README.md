@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-17, 15:14:32](https://news.ycombinator.com/item?id=41275114) - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
 * [2024-08-17, 14:18:48](https://news.ycombinator.com/item?id=41274774) - [China's manufacturers are going broke](https://www.economist.com/business/2024/08/08/chinas-manufacturers-are-going-broke)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 * [2024-08-17, 13:38:35](https://news.ycombinator.com/item?id=41274507) - [NSA tracks Google ads to find Tor users](https://www.cnet.com/news/privacy/nsa-tracks-google-ads-to-find-tor-users/)
@@ -9,7 +10,6 @@
 * [2024-08-17, 11:48:34](https://news.ycombinator.com/item?id=41273786) - [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
 * [2024-08-17, 10:42:54](https://news.ycombinator.com/item?id=41273415) - [Xapian: Open source search engine library](https://xapian.org/)
 * [2024-08-17, 10:29:50](https://news.ycombinator.com/item?id=41273357) - [Brain found to store three copies of every memory](https://newatlas.com/biology/brain-three-copies-memory/)
-* [2024-08-17, 09:01:24](https://news.ycombinator.com/item?id=41272925) - [Google removed Organic Maps from the Play Store](https://twitter.com/organicmapsapp/status/1824727403580596260)
 * [2024-08-17, 08:46:56](https://news.ycombinator.com/item?id=41272861) - [X ordered to pay €550k to Irish employee fired after yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
 * [2024-08-17, 04:42:52](https://news.ycombinator.com/item?id=41272213) - [Slackdump](https://github.com/rusq/slackdump)
 * [2024-08-17, 02:09:34](https://news.ycombinator.com/item?id=41271839) - [Ditch the sim rig and use your car instead (2019)](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/)
