@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 18:13:13](https://news.ycombinator.com/item?id=41276633) - [Troubled Amazon drone delivery program faces latest challenge: Annoyed residents](https://www.cnbc.com/2024/08/16/amazons-drone-expansion-plans-spur-pushback-from-texas-residents.html)
+* [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
 * [2024-08-17, 17:00:21](https://news.ycombinator.com/item?id=41275922) - [Seam (YC S20) Is Hiring a Mobile SDK Engineer (iOS, Android)](https://www.workatastartup.com/jobs/67744)
 * [2024-08-17, 16:59:47](https://news.ycombinator.com/item?id=41275920) - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
