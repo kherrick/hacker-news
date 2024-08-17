@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2024-08-17, 20:51:26",
-      "https://news.ycombinator.com/item?id=41277856"
-    ],
-    [
-      "Photon entanglement could explain the rapid brain signals behind consciousness",
-      "https://phys.org/news/2024-08-photon-entanglement-rapid-brain-consciousness.html"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 19:54:12",
       "https://news.ycombinator.com/item?id=41277429"
     ],
     [
       "FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)",
       "https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 19:21:52",
-      "https://news.ycombinator.com/item?id=41277179"
-    ],
-    [
-      "Are you smarter than a language model?",
-      "https://joel.tools/smarter/"
     ]
   ],
   [
@@ -97,16 +77,6 @@
     [
       "Magic Wormhole: get things from one computer to another, safely",
       "https://github.com/magic-wormhole/magic-wormhole"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 16:51:34",
-      "https://news.ycombinator.com/item?id=41275846"
-    ],
-    [
-      "Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out",
-      "https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html"
     ]
   ],
   [
@@ -211,12 +181,32 @@
   ],
   [
     [
+      "2024-08-17, 10:42:54",
+      "https://news.ycombinator.com/item?id=41273415"
+    ],
+    [
+      "Xapian: Open source search engine library",
+      "https://xapian.org/"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 08:36:23",
       "https://news.ycombinator.com/item?id=41272830"
     ],
     [
       "Colorize Lidar point clouds with camera images",
       "https://medium.com/mindkosh/colorize-lidar-point-clouds-with-camera-images-4af69cb3efea"
+    ]
+  ],
+  [
+    [
+      "2024-08-17, 04:42:52",
+      "https://news.ycombinator.com/item?id=41272213"
+    ],
+    [
+      "Slackdump",
+      "https://github.com/rusq/slackdump"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Blue Collar Jobs of Philip Glass",
       "https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 18:34:43",
+      "https://news.ycombinator.com/item?id=41238130"
+    ],
+    [
+      "Encyclopedia of Optimization",
+      "https://link.springer.com/referencework/10.1007/978-0-387-74759-0"
     ]
   ]
 ]
