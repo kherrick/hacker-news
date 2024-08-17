@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2024-08-17, 16:20:19",
-      "https://news.ycombinator.com/item?id=41275600"
+      "2024-08-17, 16:31:05",
+      "https://news.ycombinator.com/item?id=41275674"
     ],
     [
-      "X says it is closing operations in Brazil due to judge's content orders",
-      "https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/"
+      "AMD's Ryzen CPUs might be slower in PC games due to a weird Windows 11 bug",
+      "https://www.techradar.com/computing/cpu/amds-ryzen-cpus-might-be-slower-in-pc-games-due-to-a-weird-windows-11-bug-and-while-theres-a-fix-you-absolutely-shouldnt-use-it"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-08-17, 14:28:47",
-      "https://news.ycombinator.com/item?id=41274850"
-    ],
-    [
-      "An unordered list of things I miss in Go",
-      "https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 13:53:11",
       "https://news.ycombinator.com/item?id=41274602"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2024-08-17, 13:08:31",
+      "https://news.ycombinator.com/item?id=41274299"
+    ],
+    [
+      "Stressed mouse brain sends gut messages that reduce beneficial bacteria levels",
+      "https://medicalxpress.com/news/2024-08-mouse-brain-stress-messages-gut.html"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 13:03:33",
       "https://news.ycombinator.com/item?id=41274274"
     ],
@@ -177,16 +177,6 @@
     [
       "Spring-rs is a microservice framework in Rust inspired by Java's spring-boot",
       "https://github.com/spring-rs/spring-rs"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 12:27:05",
-      "https://news.ycombinator.com/item?id=41274041"
-    ],
-    [
-      "Analysis of EV charging stations finds reliability issues galore",
-      "https://www.emergingtechbrew.com/stories/2024/08/12/chargerhelp-analysis-ev-charging-stations"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Discrete Mathematics – An Open Introduction, 4th edition",
       "https://discrete.openmathbooks.org/dmoi4.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 17:29:30",
+      "https://news.ycombinator.com/item?id=41248460"
+    ],
+    [
+      "Algorithms through the lens of symbolic pattern matching",
+      "https://symbolica.io/posts/pattern_matching/"
     ]
   ],
   [
