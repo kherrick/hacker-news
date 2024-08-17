@@ -22,6 +22,7 @@
 * [2024-08-17, 16:41:54](https://news.ycombinator.com/item?id=41275766) - [The Living Computer Museum auction listing](https://onlineonly.christies.com/s/firsts-history-computing-paul-g-allen-collection/lots/3726)
 * [2024-08-17, 16:41:21](https://news.ycombinator.com/item?id=41275759) - [Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
 * [2024-08-17, 16:40:55](https://news.ycombinator.com/item?id=41275758) - [Toothpaste Null-Terminator](https://dunkels.com/adam/sentinel-toothpaste/)
+* [2024-08-17, 16:40:13](https://news.ycombinator.com/item?id=41275751) - [pg_duckdb: Splicing Duck and Elephant DNA](https://motherduck.com/blog/pg_duckdb-postgresql-extension-for-duckdb-motherduck/)
 * [2024-08-17, 16:33:51](https://news.ycombinator.com/item?id=41275696) - [UK chip giant ARM developing GPU in Israel](https://en.globes.co.il/en/article-uk-chip-giant-arm-developing-gpu-in-israel-1001486761)
 * [2024-08-17, 16:33:50](https://news.ycombinator.com/item?id=41275695) - [AI stole my job and my work, and the boss didn't know – or care](https://www.theregister.com/2024/08/15/robot_took_my_job/)
 * [2024-08-17, 16:31:05](https://news.ycombinator.com/item?id=41275674) - [AMD's Ryzen CPUs might be slower in PC games due to a weird Windows 11 bug](https://www.techradar.com/computing/cpu/amds-ryzen-cpus-might-be-slower-in-pc-games-due-to-a-weird-windows-11-bug-and-while-theres-a-fix-you-absolutely-shouldnt-use-it)
