@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 11:48:34](https://news.ycombinator.com/item?id=41273786) - [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
 * [2024-08-17, 10:42:54](https://news.ycombinator.com/item?id=41273415) - [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
 * [2024-08-17, 09:53:36](https://news.ycombinator.com/item?id=41273163) - ['Kafkaesque': bank blocks cash transfer, saying it could be an AI scam](https://www.theguardian.com/money/article/2024/aug/17/bank-blocks-cash-transfer-ai-scam-fraud)
 * [2024-08-17, 09:49:55](https://news.ycombinator.com/item?id=41273148) - [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)
@@ -11,6 +12,7 @@
 * [2024-08-17, 08:46:56](https://news.ycombinator.com/item?id=41272861) - [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
 * [2024-08-17, 08:44:26](https://news.ycombinator.com/item?id=41272854) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
 * [2024-08-17, 08:19:33](https://news.ycombinator.com/item?id=41272771) - [Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
+* [2024-08-17, 07:39:29](https://news.ycombinator.com/item?id=41272645) - [Danger, AI Scientist, Danger](https://thezvi.substack.com/p/danger-ai-scientist-danger)
 * [2024-08-17, 07:25:27](https://news.ycombinator.com/item?id=41272603) - [There's an AI – No Junk, Just Gems](https://theresanai.com)
 * [2024-08-17, 05:27:20](https://news.ycombinator.com/item?id=41272309) - [It is dangerously easy to hack the worlds phones](https://www.economist.com/science-and-technology/2024/05/17/it-is-dangerously-easy-to-hack-the-worlds-phones)
 * [2024-08-17, 05:20:02](https://news.ycombinator.com/item?id=41272294) - [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
