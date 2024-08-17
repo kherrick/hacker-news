@@ -2,7 +2,6 @@
 
 * [2024-08-16, 23:41:35](https://news.ycombinator.com/item?id=41271326) - [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
 * [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
-* [2024-08-16, 22:09:26](https://news.ycombinator.com/item?id=41270830) - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 * [2024-08-16, 21:38:27](https://news.ycombinator.com/item?id=41270618) - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 * [2024-08-16, 21:35:24](https://news.ycombinator.com/item?id=41270596) - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
 * [2024-08-16, 21:00:14](https://news.ycombinator.com/item?id=41270371) - [Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
@@ -26,6 +25,7 @@
 * [2024-08-16, 14:05:12](https://news.ycombinator.com/item?id=41266548) - [MIT engineers design tiny batteries for powering cell-sized robots](https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815)
 * [2024-08-16, 08:10:48](https://news.ycombinator.com/item?id=41264270) - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
+* [2024-08-14, 00:50:45](https://news.ycombinator.com/item?id=41241457) - [John Rawls, liberalism and what it means to live a good life](https://aeon.co/essays/john-rawls-liberalism-and-what-it-means-to-live-a-good-life)
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost Crack\" Sounds May Come from Sky, Not Trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 * [2024-08-13, 20:01:17](https://news.ycombinator.com/item?id=41239161) - [WTH Is Cerebrolysin, Actually?](https://moreisdifferent.blog/p/wth-is-cerebrolysin-actually)
 * [2024-08-13, 18:04:12](https://news.ycombinator.com/item?id=41237811) - [Do Art Scenes Lead to Gentrification? (2018)](https://www.bloomberg.com/news/articles/2018-03-22/artists-aren-t-to-blame-for-gentrification-after-all)
