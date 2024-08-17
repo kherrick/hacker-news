@@ -9,6 +9,7 @@
 * [2024-08-16, 23:16:28](https://news.ycombinator.com/item?id=41271223) - [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)
 * [2024-08-16, 22:38:06](https://news.ycombinator.com/item?id=41271014) - [Show HN: Learn Blender shortcuts with lots of tiny videos](https://hollisbrown.github.io/blendershortcuts/)
 * [2024-08-16, 22:09:26](https://news.ycombinator.com/item?id=41270830) - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
+* [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
 * [2024-08-16, 21:45:46](https://news.ycombinator.com/item?id=41270674) - [The Cause of Alzheimer's Might Not Be Amyloid](https://scitechdaily.com/the-real-cause-of-alzheimers-might-not-be-amyloid-groundbreaking-discovery-challenges-decades-old-theories/)
 * [2024-08-16, 21:38:27](https://news.ycombinator.com/item?id=41270618) - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 * [2024-08-16, 21:35:24](https://news.ycombinator.com/item?id=41270596) - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)

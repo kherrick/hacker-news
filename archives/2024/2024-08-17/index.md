@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 16:20:19](https://news.ycombinator.com/item?id=41275600) - [X to close operations in Brazil 'effective immediately'](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
 * [2024-08-17, 15:14:32](https://news.ycombinator.com/item?id=41275114) - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
 * [2024-08-17, 15:08:40](https://news.ycombinator.com/item?id=41275073) - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
 * [2024-08-17, 14:28:47](https://news.ycombinator.com/item?id=41274850) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
@@ -24,6 +25,7 @@
 * [2024-08-17, 09:01:24](https://news.ycombinator.com/item?id=41272925) - [Google Removed Organic Maps from the Playstore](https://twitter.com/organicmapsapp/status/1824727403580596260)
 * [2024-08-17, 08:46:56](https://news.ycombinator.com/item?id=41272861) - [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
 * [2024-08-17, 08:44:26](https://news.ycombinator.com/item?id=41272854) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
+* [2024-08-17, 08:36:23](https://news.ycombinator.com/item?id=41272830) - [Colorize Lidar point clouds with camera images](https://medium.com/mindkosh/colorize-lidar-point-clouds-with-camera-images-4af69cb3efea)
 * [2024-08-17, 08:19:33](https://news.ycombinator.com/item?id=41272771) - [Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
 * [2024-08-17, 07:39:29](https://news.ycombinator.com/item?id=41272645) - [Danger, AI Scientist, Danger](https://thezvi.substack.com/p/danger-ai-scientist-danger)
 * [2024-08-17, 07:25:27](https://news.ycombinator.com/item?id=41272603) - [There's an AI – No Junk, Just Gems](https://theresanai.com)
