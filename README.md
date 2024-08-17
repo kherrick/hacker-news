@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-17, 17:00:21](https://news.ycombinator.com/item?id=41275922) - [Seam (YC S20) Is Hiring a Mobile SDK Engineer (iOS, Android)](https://www.workatastartup.com/jobs/67744)
+* [2024-08-17, 16:59:47](https://news.ycombinator.com/item?id=41275920) - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
 * [2024-08-17, 16:41:54](https://news.ycombinator.com/item?id=41275766) - [The Living Computer Museum auction listing](https://onlineonly.christies.com/s/firsts-history-computing-paul-g-allen-collection/lots/3726)
@@ -9,7 +10,6 @@
 * [2024-08-17, 16:33:50](https://news.ycombinator.com/item?id=41275695) - [AI stole my job and my work, and the boss didn't know – or care](https://www.theregister.com/2024/08/15/robot_took_my_job/)
 * [2024-08-17, 16:20:19](https://news.ycombinator.com/item?id=41275600) - [X says it is closing operations in Brazil due to judge's content orders](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
 * [2024-08-17, 16:17:00](https://news.ycombinator.com/item?id=41275573) - [Home to Anything JavaFX Related](https://www.jfx-central.com/)
-* [2024-08-17, 15:45:43](https://news.ycombinator.com/item?id=41275342) - [Do we need to pay billions in fees to Stripe, Block, PayPal and Visa/MC?](https://news.ycombinator.com/item?id=41275342)
 * [2024-08-17, 15:14:32](https://news.ycombinator.com/item?id=41275114) - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
 * [2024-08-17, 15:08:40](https://news.ycombinator.com/item?id=41275073) - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
 * [2024-08-17, 14:42:02](https://news.ycombinator.com/item?id=41274932) - [Summary of the USA federal government's zero-trust memo](https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
 * [2024-08-17, 17:00:21](https://news.ycombinator.com/item?id=41275922) - [Seam (YC S20) Is Hiring a Mobile SDK Engineer (iOS, Android)](https://www.workatastartup.com/jobs/67744)
+* [2024-08-17, 16:59:47](https://news.ycombinator.com/item?id=41275920) - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
 * [2024-08-17, 16:41:54](https://news.ycombinator.com/item?id=41275766) - [The Living Computer Museum auction listing](https://onlineonly.christies.com/s/firsts-history-computing-paul-g-allen-collection/lots/3726)
