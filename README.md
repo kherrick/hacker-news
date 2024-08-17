@@ -2,10 +2,10 @@
 
 * [2024-08-17, 21:00:44](https://news.ycombinator.com/item?id=41277919) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-17, 20:51:26](https://news.ycombinator.com/item?id=41277856) - [Photon entanglement could explain the rapid brain signals behind consciousness](https://phys.org/news/2024-08-photon-entanglement-rapid-brain-consciousness.html)
-* [2024-08-17, 20:15:44](https://news.ycombinator.com/item?id=41277593) - [AI Seinfeld was the peak of AI-generated content. It will never happen again](https://minimaxir.com/2024/08/ai-seinfeld/)
 * [2024-08-17, 19:54:12](https://news.ycombinator.com/item?id=41277429) - [FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
 * [2024-08-17, 19:21:52](https://news.ycombinator.com/item?id=41277179) - [Are you smarter than a language model?](https://joel.tools/smarter/)
-* [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [mpv a free, open-source, and cross-platform media player](https://mpv.io/)
+* [2024-08-17, 19:13:49](https://news.ycombinator.com/item?id=41277120) - [Why do people believe true things?](https://www.conspicuouscognition.com/p/why-do-people-believe-true-things)
+* [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-17, 18:17:12](https://news.ycombinator.com/item?id=41276675) - [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
 * [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
 * [2024-08-17, 17:16:23](https://news.ycombinator.com/item?id=41276063) - [The Vala Language (2017)](https://www.bassi.io/articles/2017/02/13/on-vala/)
