@@ -16,7 +16,6 @@
 * [2024-08-16, 20:24:55](https://news.ycombinator.com/item?id=41270043) - [The future of Deep Learning frameworks](https://neel04.github.io/my-website/blog/pytorch_rant/)
 * [2024-08-16, 20:00:34](https://news.ycombinator.com/item?id=41269832) - [The Bare Minimum Beats: Panasonic's RD-9844 Rhythm Machine](https://nicole.express/2024/panasonic-the-hedgehog.html)
 * [2024-08-16, 19:56:41](https://news.ycombinator.com/item?id=41269791) - [LLM and Bug Finding: Insights from a $2M Winning Team in the White House's AIxCC](https://team-atlanta.github.io/blog/post-atl/)
-* [2024-08-16, 19:16:07](https://news.ycombinator.com/item?id=41269444) - [Fun times with energy-based models](https://mpmisko.github.io/2024/ai-fundamentals-energy-based-models/)
 * [2024-08-16, 19:01:09](https://news.ycombinator.com/item?id=41269321) - [VanillaJSX.com](https://vanillajsx.com/)
 * [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
 * [2024-08-16, 17:08:10](https://news.ycombinator.com/item?id=41268256) - [The Apple IIGS Megahertz Myth](https://www.userlandia.com/home/iigs-mhz-myth)
@@ -30,6 +29,7 @@
 * [2024-08-13, 21:47:48](https://news.ycombinator.com/item?id=41240211) - [Smol Business](https://smoldungeon.com/biz)
 * [2024-08-13, 20:37:59](https://news.ycombinator.com/item?id=41239571) - [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
 * [2024-08-13, 20:01:17](https://news.ycombinator.com/item?id=41239161) - [WTH Is Cerebrolysin, Actually?](https://moreisdifferent.blog/p/wth-is-cerebrolysin-actually)
+* [2024-08-13, 10:21:50](https://news.ycombinator.com/item?id=41234038) - [Using a list to manage executive function](https://drmaciver.substack.com/p/using-a-list-to-manage-executive)
 
 ## [Archives](archives/index.md)
 
