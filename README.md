@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-17, 00:16:46](https://news.ycombinator.com/item?id=41271458) - [Show HN: an AI copilot for Next.js developers](https://useglass.ai)
+* [2024-08-16, 23:41:35](https://news.ycombinator.com/item?id=41271326) - [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
 * [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
-* [2024-08-16, 22:09:26](https://news.ycombinator.com/item?id=41270830) - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 * [2024-08-16, 21:38:27](https://news.ycombinator.com/item?id=41270618) - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 * [2024-08-16, 21:35:24](https://news.ycombinator.com/item?id=41270596) - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
 * [2024-08-16, 21:00:14](https://news.ycombinator.com/item?id=41270371) - [Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
