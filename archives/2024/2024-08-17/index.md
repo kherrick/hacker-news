@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 19:21:52](https://news.ycombinator.com/item?id=41277179) - [Are you smarter than a language model?](https://joel.tools/smarter/)
 * [2024-08-17, 19:17:34](https://news.ycombinator.com/item?id=41277154) - [Ambulances called to Amazon's UK warehouses 1,400 times in five years](https://www.theguardian.com/technology/article/2024/aug/17/ambulances-called-to-amazons-uk-warehouses-1400-times-in-five-years)
 * [2024-08-17, 19:04:04](https://news.ycombinator.com/item?id=41277058) - [Releasing everyone's SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)
 * [2024-08-17, 19:00:44](https://news.ycombinator.com/item?id=41277040) - [Sergey Brin: \"Irate Call from Steve Jobs\" (2005)](https://twitter.com/TechEmails/status/1610099684345024512)

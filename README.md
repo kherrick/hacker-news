@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-17, 19:21:52](https://news.ycombinator.com/item?id=41277179) - [Are you smarter than a language model?](https://joel.tools/smarter/)
 * [2024-08-17, 19:17:34](https://news.ycombinator.com/item?id=41277154) - [Ambulances called to Amazon's UK warehouses 1,400 times in five years](https://www.theguardian.com/technology/article/2024/aug/17/ambulances-called-to-amazons-uk-warehouses-1400-times-in-five-years)
 * [2024-08-17, 19:04:04](https://news.ycombinator.com/item?id=41277058) - [Releasing everyone's SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)
 * [2024-08-17, 19:00:44](https://news.ycombinator.com/item?id=41277040) - [Sergey Brin: \"Irate Call from Steve Jobs\" (2005)](https://twitter.com/TechEmails/status/1610099684345024512)
-* [2024-08-17, 18:51:00](https://news.ycombinator.com/item?id=41276951) - [I just declined a job offer from a billionaire friend](https://leanercloud.beehiiv.com/p/just-declined-job-offer-billionaire-friend)
 * [2024-08-17, 18:17:12](https://news.ycombinator.com/item?id=41276675) - [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
 * [2024-08-17, 18:13:13](https://news.ycombinator.com/item?id=41276633) - [Troubled Amazon drone delivery program faces latest challenge: Annoyed residents](https://www.cnbc.com/2024/08/16/amazons-drone-expansion-plans-spur-pushback-from-texas-residents.html)
 * [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
@@ -24,10 +24,10 @@
 * [2024-08-17, 04:42:52](https://news.ycombinator.com/item?id=41272213) - [Slackdump](https://github.com/rusq/slackdump)
 * [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
 * [2024-08-16, 19:01:09](https://news.ycombinator.com/item?id=41269321) - [VanillaJSX.com](https://vanillajsx.com/)
+* [2024-08-15, 01:59:29](https://news.ycombinator.com/item?id=41252505) - [Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
 * [2024-08-14, 22:12:26](https://news.ycombinator.com/item?id=41251061) - [BMX: A Freshly Baked Take on BM25](https://www.mixedbread.ai/blog/intro-bmx)
 * [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost crack\" sounds may come from sky, not trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
-* [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
 * [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 * [2024-08-13, 18:34:43](https://news.ycombinator.com/item?id=41238130) - [Encyclopedia of Optimization](https://link.springer.com/referencework/10.1007/978-0-387-74759-0)
 
