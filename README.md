@@ -25,10 +25,10 @@
 * [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
 * [2024-08-16, 19:01:09](https://news.ycombinator.com/item?id=41269321) - [VanillaJSX.com](https://vanillajsx.com/)
 * [2024-08-16, 15:53:09](https://news.ycombinator.com/item?id=41267478) - [Discrete Mathematics – An Open Introduction, 4th edition](https://discrete.openmathbooks.org/dmoi4.html)
-* [2024-08-14, 17:29:30](https://news.ycombinator.com/item?id=41248460) - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
 * [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost crack\" sounds may come from sky, not trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
+* [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 * [2024-08-13, 18:34:43](https://news.ycombinator.com/item?id=41238130) - [Encyclopedia of Optimization](https://link.springer.com/referencework/10.1007/978-0-387-74759-0)
 
 ## [Archives](archives/index.md)
