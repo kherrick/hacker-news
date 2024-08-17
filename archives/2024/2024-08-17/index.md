@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
 * [2024-08-17, 15:14:32](https://news.ycombinator.com/item?id=41275114) - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
+* [2024-08-17, 15:08:40](https://news.ycombinator.com/item?id=41275073) - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
 * [2024-08-17, 14:18:48](https://news.ycombinator.com/item?id=41274774) - [China's manufacturers are going broke](https://www.economist.com/business/2024/08/08/chinas-manufacturers-are-going-broke)
 * [2024-08-17, 14:11:53](https://news.ycombinator.com/item?id=41274726) - [An AI that unexpectedly modified its own source code](https://arstechnica.com/information-technology/2024/08/research-ai-model-unexpectedly-modified-its-own-code-to-extend-runtime/)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
@@ -13,6 +14,7 @@
 * [2024-08-17, 13:03:33](https://news.ycombinator.com/item?id=41274274) - [Hacking with PDF (2022)](https://0xcybery.github.io/blog/hacking-with-pdf)
 * [2024-08-17, 13:00:26](https://news.ycombinator.com/item?id=41274255) - [Online dating apps struggle as people swear off swiping](https://www.theguardian.com/lifeandstyle/article/2024/aug/17/dating-apps-decline-bumble-tinder)
 * [2024-08-17, 12:35:24](https://news.ycombinator.com/item?id=41274098) - [You Can Gaslight Yourself into Loving Someone](https://gist.github.com/Wilsontomass/de0d9b4d331eda0880c601c8890c1143)
+* [2024-08-17, 12:27:05](https://news.ycombinator.com/item?id=41274041) - [Analysis of EV charging stations finds reliability issues galore](https://www.emergingtechbrew.com/stories/2024/08/12/chargerhelp-analysis-ev-charging-stations)
 * [2024-08-17, 11:48:34](https://news.ycombinator.com/item?id=41273786) - [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
 * [2024-08-17, 10:42:54](https://news.ycombinator.com/item?id=41273415) - [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
 * [2024-08-17, 10:29:50](https://news.ycombinator.com/item?id=41273357) - [Brain found to store three copies of every memory](https://newatlas.com/biology/brain-three-copies-memory/)
