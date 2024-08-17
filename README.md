@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-17, 22:45:19](https://news.ycombinator.com/item?id=41278636) - [Low level of Magnesium linked to disease-causing DNA damage](https://newatlas.com/health-wellbeing/nutrient-dna-damage/)
 * [2024-08-17, 21:00:44](https://news.ycombinator.com/item?id=41277919) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-17, 19:54:12](https://news.ycombinator.com/item?id=41277429) - [FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
 * [2024-08-17, 19:13:49](https://news.ycombinator.com/item?id=41277120) - [Why do people believe true things?](https://www.conspicuouscognition.com/p/why-do-people-believe-true-things)
@@ -29,7 +30,6 @@
 * [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost crack\" sounds may come from sky, not trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
 * [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
-* [2024-08-13, 18:34:43](https://news.ycombinator.com/item?id=41238130) - [Encyclopedia of Optimization](https://link.springer.com/referencework/10.1007/978-0-387-74759-0)
 
 ## [Archives](archives/index.md)
 
