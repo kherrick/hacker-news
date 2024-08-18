@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-18, 12:59:35](https://news.ycombinator.com/item?id=41282122) - [Fake insects – Find the AI generated insect](https://huggingface.co/spaces/victor/fake-insects)
 * [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+* [2024-08-18, 12:29:26](https://news.ycombinator.com/item?id=41281946) - [SolarWind Web Help Desk Java Deserialization Remote Code Execution Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2024-28986)
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
 * [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
 * [2024-08-18, 02:31:01](https://news.ycombinator.com/item?id=41279691) - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
-* [2024-08-18, 02:25:56](https://news.ycombinator.com/item?id=41279665) - [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
 * [2024-08-17, 23:22:14](https://news.ycombinator.com/item?id=41278862) - [I spent 2 years building my own game engine (Rust, WASM, WebGPU)](https://legendofworlds.com/blog/4)
 * [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-08-17, 21:00:44](https://news.ycombinator.com/item?id=41277919) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
@@ -28,7 +29,6 @@
 * [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
 * [2024-08-14, 16:39:27](https://news.ycombinator.com/item?id=41248013) - [Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
 * [2024-08-14, 15:59:19](https://news.ycombinator.com/item?id=41247550) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
-* [2024-08-14, 09:51:07](https://news.ycombinator.com/item?id=41244362) - [Exactly-Once Payments at Airbnb](https://news.alvaroduran.com/p/exactly-once-payments-at-airbnb)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
 
 ## [Archives](archives/index.md)
