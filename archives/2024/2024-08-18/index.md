@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 17:28:46](https://news.ycombinator.com/item?id=41283761) - [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)
+* [2024-08-18, 17:25:54](https://news.ycombinator.com/item?id=41283738) - [Popular introduction to Huffman, arithmetic, ANS coding [video]](https://www.youtube.com/watch?v=RFWJM8JMXBs)
 * [2024-08-18, 17:23:08](https://news.ycombinator.com/item?id=41283715) - [Organic Maps Removed from Play Store Due to \"Requirements for Family Program\"](https://fosstodon.org/@organicmaps/112976308191001762)
 * [2024-08-18, 17:01:09](https://news.ycombinator.com/item?id=41283540) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-18, 16:53:59](https://news.ycombinator.com/item?id=41283479) - [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)
@@ -27,6 +29,7 @@
 * [2024-08-18, 12:59:35](https://news.ycombinator.com/item?id=41282122) - [Fake insects – Find the AI generated insect](https://huggingface.co/spaces/victor/fake-insects)
 * [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [2024-08-18, 12:29:26](https://news.ycombinator.com/item?id=41281946) - [SolarWind Web Help Desk Java Deserialization Remote Code Execution Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2024-28986)
+* [2024-08-18, 11:26:29](https://news.ycombinator.com/item?id=41281673) - [Why toilet paper keeps getting smaller and smaller – The Hustle](https://thehustle.co/news/why-toilet-paper-keeps-getting-smaller-and-smaller)
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:58:32](https://news.ycombinator.com/item?id=41281579) - [Discord runs Powershell on load to find Nvidia binaries](https://twitter.com/da_wamwoowam/status/1824872498363523537)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
