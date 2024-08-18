@@ -85,6 +85,7 @@
 * [2024-08-16, 07:36:17](https://news.ycombinator.com/item?id=41264046) - [From Bede (731) to BONE (1991-2004): A sparrow's flight through the ages](https://thijsporck.com/2020/07/27/from-bede-731-to-bone-1991-2004-a-sparrows-flight-through-the-ages/)
 * [2024-08-16, 07:20:02](https://news.ycombinator.com/item?id=41263951) - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
 * [2024-08-16, 07:12:23](https://news.ycombinator.com/item?id=41263912) - [Show HN: A ninja's Handbook: A book on privacy, security, and anonymity online](https://zolagonano.github.io/a-ninjas-handbook/)
+* [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [The Games People Play with Cash Flow](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-16, 06:24:45](https://news.ycombinator.com/item?id=41263656) - [Show HN: Free Online Car Logo Information Website](https://carlogohub.com)
 * [2024-08-16, 06:16:45](https://news.ycombinator.com/item?id=41263616) - [Cryptominers made $100k from mining at an Airbnb for three weeks](https://www.tomshardware.com/tech-industry/cryptomining/cryptominers-made-100000-dollars-from-mining-at-an-airbnb-for-three-weeks)

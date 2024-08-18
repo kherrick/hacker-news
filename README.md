@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-18, 02:31:01](https://news.ycombinator.com/item?id=41279691) - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
-* [2024-08-17, 23:30:00](https://news.ycombinator.com/item?id=41278907) - [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
+* [2024-08-18, 02:25:56](https://news.ycombinator.com/item?id=41279665) - [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
 * [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-08-17, 21:00:44](https://news.ycombinator.com/item?id=41277919) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-17, 19:54:12](https://news.ycombinator.com/item?id=41277429) - [FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
@@ -18,8 +18,8 @@
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 * [2024-08-17, 12:40:23](https://news.ycombinator.com/item?id=41274138) - [Spring-rs is a microservice framework in Rust inspired by Java's spring-boot](https://github.com/spring-rs/spring-rs)
 * [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
+* [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [The Games People Play with Cash Flow](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
-* [2024-08-15, 23:13:50](https://news.ycombinator.com/item?id=41261481) - [Symmetric Power Transformers](https://manifestai.com/articles/symmetric-power-transformers/)
 * [2024-08-15, 05:05:49](https://news.ycombinator.com/item?id=41253244) - [The Key to Bizarro's Symbols](https://www.bizarro.com/secret-symbols)
 * [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
 * [2024-08-14, 22:12:26](https://news.ycombinator.com/item?id=41251061) - [BMX: A Freshly Baked Take on BM25](https://www.mixedbread.ai/blog/intro-bmx)
