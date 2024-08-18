@@ -3,7 +3,7 @@
 * [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
 * [2024-08-18, 16:13:31](https://news.ycombinator.com/item?id=41283215) - [Are Geofence Warrants Headed for Extinction?](https://www.americanbar.org/groups/criminal_justice/publications/criminal-justice-magazine/2024/summer/geofence-warrants-headed-extinction/)
 * [2024-08-18, 16:02:25](https://news.ycombinator.com/item?id=41283149) - [Surveillance Watch – the hidden connections within the surveillance industry](https://www.surveillancewatch.io)
-* [2024-08-18, 15:39:21](https://news.ycombinator.com/item?id=41283010) - [\"Us vs. Them\" language shapes the Apple ecosystem narrative](https://twitter.com/xroissance/status/1825068918509072852)
+* [2024-08-18, 15:58:16](https://news.ycombinator.com/item?id=41283129) - [Microsoft begins cracking down on people dodging Windows 11 system requirements](https://www.xda-developers.com/microsoft-cracking-down-dodging-windows-11-system-requirements/)
 * [2024-08-18, 15:21:10](https://news.ycombinator.com/item?id=41282889) - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
 * [2024-08-18, 14:32:02](https://news.ycombinator.com/item?id=41282607) - [17,000 AT&T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
