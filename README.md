@@ -7,7 +7,6 @@
 * [2024-08-18, 19:48:33](https://news.ycombinator.com/item?id=41284873) - [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 19:14:27](https://news.ycombinator.com/item?id=41284639) - [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
-* [2024-08-18, 19:04:33](https://news.ycombinator.com/item?id=41284549) - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
 * [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-08-18, 18:38:28](https://news.ycombinator.com/item?id=41284335) - [Micro-libraries should never be used](https://bvisness.me/microlibraries/)
 * [2024-08-18, 18:37:10](https://news.ycombinator.com/item?id=41284322) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
@@ -28,6 +27,7 @@
 * [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-17, 01:10:59](https://news.ycombinator.com/item?id=41271667) - [Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
+* [2024-08-15, 09:47:33](https://news.ycombinator.com/item?id=41254378) - [Genghis Khan, trade warrior (2021)](https://www.richmondfed.org/publications/research/econ_focus/2021/q4_economic_history)
 * [2024-08-14, 20:47:46](https://news.ycombinator.com/item?id=41250343) - [Blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [How the instrument landing system at Antarctica's McMurdo Station works](https://www.flightradar24.com/blog/transponder-landing-system/)
 
