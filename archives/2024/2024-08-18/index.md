@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
 * [2024-08-18, 12:59:35](https://news.ycombinator.com/item?id=41282122) - [Fake insects – Find the AI generated insect](https://huggingface.co/spaces/victor/fake-insects)
 * [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [2024-08-18, 12:29:26](https://news.ycombinator.com/item?id=41281946) - [SolarWind Web Help Desk Java Deserialization Remote Code Execution Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2024-28986)

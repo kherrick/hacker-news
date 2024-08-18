@@ -87,6 +87,7 @@
 * [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler, Inventor of Cut/Paste, Has Died](https://www.bbc.com/news/world-us-canada-51567695)
 * [2024-08-14, 11:22:29](https://news.ycombinator.com/item?id=41244847) - [Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG (2005)](https://spectrum.ieee.org/of-modes-and-men)
 * [2024-08-14, 10:50:14](https://news.ycombinator.com/item?id=41244648) - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
+* [2024-08-14, 10:16:47](https://news.ycombinator.com/item?id=41244493) - [Speedo-Shaped Skillset](https://www.scottantipa.com/speedo-shaped-skillset)
 * [2024-08-14, 10:12:04](https://news.ycombinator.com/item?id=41244468) - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 * [2024-08-14, 10:03:32](https://news.ycombinator.com/item?id=41244423) - [Show HN: We made a tool to help developers improve OpenAPI specs](https://github.com/zuplo/rate-my-openapi)
 * [2024-08-14, 09:51:07](https://news.ycombinator.com/item?id=41244362) - [Exactly-Once Payments at Airbnb](https://news.alvaroduran.com/p/exactly-once-payments-at-airbnb)
