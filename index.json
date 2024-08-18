@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41284703"
     ],
     [
-      "Show HN: Transform Your PostgreSQL into a Powerful Job Queue",
+      "Show HN: PgQueuer – Transform PostgreSQL into a Job Queue",
       "https://github.com/janbjorge/PgQueuer"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-08-18, 15:40:39",
+      "https://news.ycombinator.com/item?id=41283018"
+    ],
+    [
+      "`noexcept` affects libstdc++'s `unordered_set`",
+      "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 14:24:39",
       "https://news.ycombinator.com/item?id=41282574"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2024-08-17, 23:22:14",
-      "https://news.ycombinator.com/item?id=41278862"
+      "2024-08-18, 09:17:25",
+      "https://news.ycombinator.com/item?id=41281176"
     ],
     [
-      "I spent 2 years building my own game engine (Rust, WASM, WebGPU)",
-      "https://legendofworlds.com/blog/4"
+      "UK launches its first Earth-imaging military satellite",
+      "https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite"
     ]
   ],
   [
@@ -237,6 +247,16 @@
     [
       "Mpv – A free, open-source, and cross-platform media player",
       "https://mpv.io/"
+    ]
+  ],
+  [
+    [
+      "2024-08-17, 01:10:59",
+      "https://news.ycombinator.com/item?id=41271667"
+    ],
+    [
+      "Linux Memory Overcommit (2007)",
+      "http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Games People Play with Cash Flow (2020)",
       "https://commoncog.com/cash-flow-games/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 18:07:04",
-      "https://news.ycombinator.com/item?id=41258793"
-    ],
-    [
-      "How the Hidden Sounds of Horror Movie Soundtracks Freak You Out (2016)",
-      "https://www.atlasobscura.com/articles/how-the-hidden-sounds-of-horror-movie-soundtracks-freak-you-out"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 09:47:33",
-      "https://news.ycombinator.com/item?id=41254378"
-    ],
-    [
-      "Genghis Khan, trade warrior (2021)",
-      "https://www.richmondfed.org/publications/research/econ_focus/2021/q4_economic_history"
     ]
   ],
   [
