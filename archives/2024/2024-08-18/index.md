@@ -11,6 +11,7 @@
 * [2024-08-18, 17:28:46](https://news.ycombinator.com/item?id=41283761) - [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)
 * [2024-08-18, 17:25:54](https://news.ycombinator.com/item?id=41283738) - [Popular introduction to Huffman, arithmetic, ANS coding [video]](https://www.youtube.com/watch?v=RFWJM8JMXBs)
 * [2024-08-18, 17:23:08](https://news.ycombinator.com/item?id=41283715) - [Organic Maps Removed from Play Store Due to \"Requirements for Family Program\"](https://fosstodon.org/@organicmaps/112976308191001762)
+* [2024-08-18, 17:18:59](https://news.ycombinator.com/item?id=41283675) - [Detailed Map of Cancer-Causing Industrial Air Pollution in the U.S.](https://projects.propublica.org/toxmap/)
 * [2024-08-18, 17:01:09](https://news.ycombinator.com/item?id=41283540) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-18, 16:56:11](https://news.ycombinator.com/item?id=41283497) - [Show HN: I Made a Website for Problems](https://www.theproblemplatform.com/)
 * [2024-08-18, 16:53:59](https://news.ycombinator.com/item?id=41283479) - [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)
