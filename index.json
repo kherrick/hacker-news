@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-18, 09:17:25",
+      "https://news.ycombinator.com/item?id=41281176"
+    ],
+    [
+      "UK launches its first Earth-imaging military satellite",
+      "https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 07:36:23",
       "https://news.ycombinator.com/item?id=41280792"
     ],
@@ -17,16 +27,6 @@
     [
       "GDash – A Feature-Rich Boulder Dash Clone for Mac, Win and Linux",
       "https://github.com/revvv/gdash-export-CrLi"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 02:31:01",
-      "https://news.ycombinator.com/item?id=41279691"
-    ],
-    [
-      "Show HN: Grug Notes, a simple take on text notes",
-      "https://grugnotes.com"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=41263855"
     ],
     [
-      "The Games People Play with Cash Flow (2020)",
+      "Games People Play with Cash Flow (2020)",
       "https://commoncog.com/cash-flow-games/"
     ]
   ],
@@ -227,16 +227,6 @@
     [
       "Yesterday's Pixels, Today",
       "https://nas.sr/text/yesterdays-pixels-today/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 05:05:49",
-      "https://news.ycombinator.com/item?id=41253244"
-    ],
-    [
-      "The Key to Bizarro's Symbols",
-      "https://www.bizarro.com/secret-symbols"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Blue Collar Jobs of Philip Glass",
       "https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 17:01:02",
+      "https://news.ycombinator.com/item?id=41237204"
+    ],
+    [
+      "SWE-Bench Verified",
+      "https://openai.com/index/introducing-swe-bench-verified/"
     ]
   ]
 ]
