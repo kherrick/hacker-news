@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 22:25:59](https://news.ycombinator.com/item?id=41286045) - [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
+* [2024-08-18, 21:56:26](https://news.ycombinator.com/item?id=41285851) - [Mike Magee, founder of the Register, is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 * [2024-08-18, 21:31:10](https://news.ycombinator.com/item?id=41285665) - [Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
 * [2024-08-18, 21:02:37](https://news.ycombinator.com/item?id=41285484) - [Parents outraged at Snoo after smart bassinet company charges fee to rock crib](https://www.independent.co.uk/news/world/americas/snoo-bassinet-baby-sleeping-subscription-b2597869.html)
 * [2024-08-18, 20:20:23](https://news.ycombinator.com/item?id=41285136) - [How You Communicate Signals Your Seniority](https://yuezhao.substack.com/p/the-altitude-of-the-communication)
