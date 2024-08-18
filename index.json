@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-08-18, 10:58:32",
-      "https://news.ycombinator.com/item?id=41281579"
+      "2024-08-18, 10:52:38",
+      "https://news.ycombinator.com/item?id=41281555"
     ],
     [
-      "Discord runs Powershell on load to find Nvidia binaries",
-      "https://twitter.com/da_wamwoowam/status/1824872498363523537"
+      "How the OCaml type checker works (2022)",
+      "https://okmij.org/ftp/ML/generalization.html"
     ]
   ],
   [
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2024-08-17, 23:30:00",
-      "https://news.ycombinator.com/item?id=41278907"
+      "2024-08-17, 23:22:14",
+      "https://news.ycombinator.com/item?id=41278862"
     ],
     [
-      "Postmortem of my 9 year journey at Google",
-      "https://tinystruggles.com/posts/google_postmortem/"
+      "I spent 2 years building my own game engine (Rust, WASM, WebGPU)",
+      "https://legendofworlds.com/blog/4"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Build your own SQLite, Part 1: Listing tables",
       "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 19:54:12",
-      "https://news.ycombinator.com/item?id=41277429"
-    ],
-    [
-      "FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)",
-      "https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Blockbuster Video VHS insert template",
       "https://github.com/rfinnie/blockbuster"
+    ]
+  ],
+  [
+    [
+      "2024-08-17, 17:16:23",
+      "https://news.ycombinator.com/item?id=41276063"
+    ],
+    [
+      "The Vala Language (2017)",
+      "https://www.bassi.io/articles/2017/02/13/on-vala/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-08-15, 10:51:19",
-      "https://news.ycombinator.com/item?id=41254622"
+      "2024-08-15, 05:05:49",
+      "https://news.ycombinator.com/item?id=41253244"
     ],
     [
-      "Bamboo Can Invade Your House",
-      "https://www.core77.com/posts/133313/How-Bamboo-Can-Invade-Your-House"
+      "The Key to Bizarro's Symbols",
+      "https://www.bizarro.com/secret-symbols"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-08-14, 02:53:20",
-      "https://news.ycombinator.com/item?id=41242095"
+      "2024-08-14, 09:51:07",
+      "https://news.ycombinator.com/item?id=41244362"
     ],
     [
-      "Basic MetaProgramming in Zig",
-      "https://www.openmymind.net/Basic-MetaProgramming-in-Zig/"
+      "Exactly-Once Payments at Airbnb",
+      "https://news.alvaroduran.com/p/exactly-once-payments-at-airbnb"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-08-13, 17:01:02",
-      "https://news.ycombinator.com/item?id=41237204"
+      "2024-08-13, 21:42:07",
+      "https://news.ycombinator.com/item?id=41240152"
     ],
     [
-      "SWE-Bench Verified",
-      "https://openai.com/index/introducing-swe-bench-verified/"
+      "The Blue Collar Jobs of Philip Glass",
+      "https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass"
     ]
   ]
 ]
