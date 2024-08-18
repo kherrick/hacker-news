@@ -4,6 +4,7 @@
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
 * [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
+* [2024-08-18, 07:36:23](https://news.ycombinator.com/item?id=41280792) - [Alain Delon has died](https://www.theguardian.com/film/article/2024/aug/18/french-screen-star-alain-delon-dies-aged-88)
 * [2024-08-18, 02:31:01](https://news.ycombinator.com/item?id=41279691) - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
 * [2024-08-17, 23:22:14](https://news.ycombinator.com/item?id=41278862) - [I spent 2 years building my own game engine (Rust, WASM, WebGPU)](https://legendofworlds.com/blog/4)
 * [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
@@ -11,7 +12,6 @@
 * [2024-08-17, 19:21:52](https://news.ycombinator.com/item?id=41277179) - [Are you better than a language model at predicting the next word?](https://joel.tools/smarter/)
 * [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
-* [2024-08-17, 17:16:23](https://news.ycombinator.com/item?id=41276063) - [The Vala Language (2017)](https://www.bassi.io/articles/2017/02/13/on-vala/)
 * [2024-08-17, 16:59:47](https://news.ycombinator.com/item?id=41275920) - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
@@ -27,9 +27,9 @@
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
 * [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
 * [2024-08-14, 16:39:27](https://news.ycombinator.com/item?id=41248013) - [Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
-* [2024-08-14, 15:59:19](https://news.ycombinator.com/item?id=41247550) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-14, 10:16:47](https://news.ycombinator.com/item?id=41244493) - [Speedo-Shaped Skillset](https://www.scottantipa.com/speedo-shaped-skillset)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
+* [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 
 ## [Archives](archives/index.md)
 
