@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 21:02:37](https://news.ycombinator.com/item?id=41285484) - [Parents outraged at Snoo after smart bassinet company charges fee to rock crib](https://www.independent.co.uk/news/world/americas/snoo-bassinet-baby-sleeping-subscription-b2597869.html)
 * [2024-08-18, 20:20:23](https://news.ycombinator.com/item?id=41285136) - [How You Communicate Signals Your Seniority](https://yuezhao.substack.com/p/the-altitude-of-the-communication)
 * [2024-08-18, 19:48:33](https://news.ycombinator.com/item?id=41284873) - [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: Transform Your PostgreSQL into a Powerful Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 19:14:27](https://news.ycombinator.com/item?id=41284639) - [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
 * [2024-08-18, 19:10:30](https://news.ycombinator.com/item?id=41284604) - [Stop Using Git Ignore](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
 * [2024-08-18, 19:04:33](https://news.ycombinator.com/item?id=41284549) - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
+* [2024-08-18, 19:01:55](https://news.ycombinator.com/item?id=41284510) - [Laptop-like CrowView Note ready to work with Pi, phones and mini-PCs](https://newatlas.com/laptops/elecrow-crowview-note/)
 * [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
 * [2024-08-18, 18:38:28](https://news.ycombinator.com/item?id=41284335) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 18:37:10](https://news.ycombinator.com/item?id=41284322) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
