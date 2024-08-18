@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
+* [2024-08-18, 16:13:31](https://news.ycombinator.com/item?id=41283215) - [Are Geofence Warrants Headed for Extinction?](https://www.americanbar.org/groups/criminal_justice/publications/criminal-justice-magazine/2024/summer/geofence-warrants-headed-extinction/)
+* [2024-08-18, 16:02:25](https://news.ycombinator.com/item?id=41283149) - [Surveillance Watch – the hidden connections within the surveillance industry](https://www.surveillancewatch.io)
 * [2024-08-18, 15:39:21](https://news.ycombinator.com/item?id=41283010) - [\"Us vs. Them\" language shapes the Apple ecosystem narrative](https://twitter.com/xroissance/status/1825068918509072852)
 * [2024-08-18, 15:21:10](https://news.ycombinator.com/item?id=41282889) - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
 * [2024-08-18, 14:47:47](https://news.ycombinator.com/item?id=41282694) - [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
