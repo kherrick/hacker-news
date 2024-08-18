@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 17:23:08](https://news.ycombinator.com/item?id=41283715) - [Organic Maps Removed from Play Store Due to \"Requirements for Family Program\"](https://fosstodon.org/@organicmaps/112976308191001762)
 * [2024-08-18, 17:01:09](https://news.ycombinator.com/item?id=41283540) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-18, 16:53:59](https://news.ycombinator.com/item?id=41283479) - [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)
 * [2024-08-18, 16:39:40](https://news.ycombinator.com/item?id=41283383) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)

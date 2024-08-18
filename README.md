@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-18, 17:23:08](https://news.ycombinator.com/item?id=41283715) - [Organic Maps Removed from Play Store Due to \"Requirements for Family Program\"](https://fosstodon.org/@organicmaps/112976308191001762)
 * [2024-08-18, 17:01:09](https://news.ycombinator.com/item?id=41283540) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-18, 16:53:59](https://news.ycombinator.com/item?id=41283479) - [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)
 * [2024-08-18, 16:39:40](https://news.ycombinator.com/item?id=41283383) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
@@ -13,7 +14,6 @@
 * [2024-08-18, 14:32:02](https://news.ycombinator.com/item?id=41282607) - [17,000 AT&T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
-* [2024-08-18, 13:58:18](https://news.ycombinator.com/item?id=41282416) - [NASA Citizen Scientists Spot Object Moving 1M Miles per Hour](https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/)
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
 * [2024-08-17, 23:22:14](https://news.ycombinator.com/item?id=41278862) - [I spent 2 years building my own game engine (Rust, WASM, WebGPU)](https://legendofworlds.com/blog/4)
