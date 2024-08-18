@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-18, 18:25:44](https://news.ycombinator.com/item?id=41284200) - [Gentoo Linux Drops IA-64 (Itanium) Support – Gentoo Linux](https://www.gentoo.org/news/2024/08/14/Gentoo-drops-IA-64-support.html)
-* [2024-08-18, 17:45:46](https://news.ycombinator.com/item?id=41283900) - [Moonlight](https://moonlight-stream.org)
 * [2024-08-18, 17:28:46](https://news.ycombinator.com/item?id=41283761) - [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)
 * [2024-08-18, 17:01:09](https://news.ycombinator.com/item?id=41283540) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-18, 16:56:11](https://news.ycombinator.com/item?id=41283497) - [Show HN: I Made a Website for Problems](https://www.theproblemplatform.com/)
@@ -22,6 +21,7 @@
 * [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
 * [2024-08-17, 16:59:47](https://news.ycombinator.com/item?id=41275920) - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
+* [2024-08-17, 16:41:21](https://news.ycombinator.com/item?id=41275759) - [Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
 * [2024-08-16, 22:52:30](https://news.ycombinator.com/item?id=41271098) - [Painting with Plotters](https://github.com/LiciaHe/painting_with_plotters)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
 * [2024-08-16, 12:38:10](https://news.ycombinator.com/item?id=41265839) - [Abel, the Mozart of Mathematics](https://www.privatdozent.co/p/abel-the-mozart-of-mathematics)
