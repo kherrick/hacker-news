@@ -14,7 +14,6 @@
 * [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
 * [2024-08-17, 16:41:21](https://news.ycombinator.com/item?id=41275759) - [Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
 * [2024-08-17, 16:40:13](https://news.ycombinator.com/item?id=41275751) - [pg_duckdb: Splicing Duck and Elephant DNA](https://motherduck.com/blog/pg_duckdb-postgresql-extension-for-duckdb-motherduck/)
-* [2024-08-17, 16:20:19](https://news.ycombinator.com/item?id=41275600) - [X says it is closing operations in Brazil due to judge's content orders](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
 * [2024-08-17, 14:28:47](https://news.ycombinator.com/item?id=41274850) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 * [2024-08-17, 12:40:23](https://news.ycombinator.com/item?id=41274138) - [Spring-rs is a microservice framework in Rust inspired by Java's spring-boot](https://github.com/spring-rs/spring-rs)
@@ -28,6 +27,7 @@
 * [2024-08-14, 12:40:19](https://news.ycombinator.com/item?id=41245390) - [Alive and Well, as a Matter of Fax](https://cacm.acm.org/news/alive-and-well-as-a-matter-of-fax/)
 * [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 * [2024-08-14, 02:53:20](https://news.ycombinator.com/item?id=41242095) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
+* [2024-08-13, 22:44:31](https://news.ycombinator.com/item?id=41240631) - [\"Frost crack\" sounds may come from sky, not trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
 * [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 
