@@ -15,6 +15,7 @@
 * [2024-08-14, 21:15:06](https://news.ycombinator.com/item?id=41250577) - [Eric Schmidt Says Google Is Falling Behind on AI–and Remote Work Is Why](https://www.wsj.com/tech/ai/google-eric-schmidt-ai-remote-work-stanford-f92f4ca5)
 * [2024-08-14, 21:03:45](https://news.ycombinator.com/item?id=41250470) - [AltStore PAL receives Epic Games MegaGrant, will no longer require subscription](https://fosstodon.org/@altstore/112962388607680148)
 * [2024-08-14, 21:03:25](https://news.ycombinator.com/item?id=41250466) - [Stacking molecules like plates improves organic solar device performance](https://phys.org/news/2024-08-stacking-molecules-plates-solar-device.html)
+* [2024-08-14, 20:47:46](https://news.ycombinator.com/item?id=41250343) - [Blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
 * [2024-08-14, 20:37:33](https://news.ycombinator.com/item?id=41250239) - [Detecting Sign Language in News Videos](https://vrroom.github.io/blog/2024/08/11/sign-detection.html)
 * [2024-08-14, 19:33:03](https://news.ycombinator.com/item?id=41249671) - [Run Diablo Inside Your Web Browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 19:20:09](https://news.ycombinator.com/item?id=41249571) - [Why won't some people pay for news? (2022)](https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257)
