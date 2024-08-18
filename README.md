@@ -1,9 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-18, 17:01:09](https://news.ycombinator.com/item?id=41283540) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
+* [2024-08-18, 16:39:40](https://news.ycombinator.com/item?id=41283383) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
 * [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
 * [2024-08-18, 16:13:31](https://news.ycombinator.com/item?id=41283215) - [Are Geofence Warrants Headed for Extinction?](https://www.americanbar.org/groups/criminal_justice/publications/criminal-justice-magazine/2024/summer/geofence-warrants-headed-extinction/)
+* [2024-08-18, 16:11:44](https://news.ycombinator.com/item?id=41283209) - [Tell HN: X stopped requiring authentication, nitter works again](https://nitter.lucabased.xyz/x)
 * [2024-08-18, 16:02:25](https://news.ycombinator.com/item?id=41283149) - [Surveillance Watch – the hidden connections within the surveillance industry](https://www.surveillancewatch.io)
 * [2024-08-18, 15:58:16](https://news.ycombinator.com/item?id=41283129) - [Microsoft begins cracking down on people dodging Windows 11 system requirements](https://www.xda-developers.com/microsoft-cracking-down-dodging-windows-11-system-requirements/)
+* [2024-08-18, 15:40:39](https://news.ycombinator.com/item?id=41283018) - [`noexcept` affects libstdc++'s `unordered_set`](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-18, 15:21:10](https://news.ycombinator.com/item?id=41282889) - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
 * [2024-08-18, 14:32:02](https://news.ycombinator.com/item?id=41282607) - [17,000 AT&T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
@@ -18,7 +22,6 @@
 * [2024-08-17, 16:59:47](https://news.ycombinator.com/item?id=41275920) - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [2024-08-17, 16:41:21](https://news.ycombinator.com/item?id=41275759) - [Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
-* [2024-08-17, 16:40:13](https://news.ycombinator.com/item?id=41275751) - [pg_duckdb: Splicing Duck and Elephant DNA](https://motherduck.com/blog/pg_duckdb-postgresql-extension-for-duckdb-motherduck/)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
 * [2024-08-16, 14:45:53](https://news.ycombinator.com/item?id=41266899) - [Transaction models are programming paradigms](https://mmapped.blog/posts/30-transaction-models)
@@ -26,10 +29,7 @@
 * [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [Games People Play with Cash Flow (2020)](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
 * [2024-08-15, 09:47:33](https://news.ycombinator.com/item?id=41254378) - [Genghis Khan, trade warrior (2021)](https://www.richmondfed.org/publications/research/econ_focus/2021/q4_economic_history)
-* [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
 * [2024-08-14, 20:47:46](https://news.ycombinator.com/item?id=41250343) - [Blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
-* [2024-08-14, 16:39:27](https://news.ycombinator.com/item?id=41248013) - [Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
-* [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
 
 ## [Archives](archives/index.md)
 
