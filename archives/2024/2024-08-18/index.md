@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
 * [2024-08-18, 17:01:09](https://news.ycombinator.com/item?id=41283540) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
+* [2024-08-18, 16:53:59](https://news.ycombinator.com/item?id=41283479) - [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)
 * [2024-08-18, 16:39:40](https://news.ycombinator.com/item?id=41283383) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
 * [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
 * [2024-08-18, 16:13:31](https://news.ycombinator.com/item?id=41283215) - [Are Geofence Warrants Headed for Extinction?](https://www.americanbar.org/groups/criminal_justice/publications/criminal-justice-magazine/2024/summer/geofence-warrants-headed-extinction/)

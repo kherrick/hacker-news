@@ -93,6 +93,7 @@
 * [2024-08-14, 10:03:32](https://news.ycombinator.com/item?id=41244423) - [Show HN: We made a tool to help developers improve OpenAPI specs](https://github.com/zuplo/rate-my-openapi)
 * [2024-08-14, 09:51:07](https://news.ycombinator.com/item?id=41244362) - [Exactly-Once Payments at Airbnb](https://news.alvaroduran.com/p/exactly-once-payments-at-airbnb)
 * [2024-08-14, 09:14:30](https://news.ycombinator.com/item?id=41244172) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
+* [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [How the instrument landing system at Antarctica's McMurdo Station works](https://www.flightradar24.com/blog/transponder-landing-system/)
 * [2024-08-14, 08:42:22](https://news.ycombinator.com/item?id=41243992) - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 * [2024-08-14, 08:34:45](https://news.ycombinator.com/item?id=41243931) - [CVE-2024-38063, Windows TCP/IP Remote Code Execution Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063)
 * [2024-08-14, 08:01:13](https://news.ycombinator.com/item?id=41243703) - [Show HN: I made a tool to help collect and validate startup ideas](https://www.keepmyidea.app)
