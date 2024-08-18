@@ -21,7 +21,7 @@
 * [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
 * [2024-08-16, 12:38:10](https://news.ycombinator.com/item?id=41265839) - [Abel, the Mozart of Mathematics](https://www.privatdozent.co/p/abel-the-mozart-of-mathematics)
-* [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [The Games People Play with Cash Flow](https://commoncog.com/cash-flow-games/)
+* [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [The Games People Play with Cash Flow (2020)](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
 * [2024-08-15, 05:05:49](https://news.ycombinator.com/item?id=41253244) - [The Key to Bizarro's Symbols](https://www.bizarro.com/secret-symbols)
 * [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
