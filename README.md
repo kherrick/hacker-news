@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-18, 14:47:47](https://news.ycombinator.com/item?id=41282694) - [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
+* [2024-08-18, 14:32:02](https://news.ycombinator.com/item?id=41282607) - [17,000 AT&T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
@@ -18,7 +19,6 @@
 * [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
 * [2024-08-17, 16:41:21](https://news.ycombinator.com/item?id=41275759) - [Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
 * [2024-08-17, 16:40:13](https://news.ycombinator.com/item?id=41275751) - [pg_duckdb: Splicing Duck and Elephant DNA](https://motherduck.com/blog/pg_duckdb-postgresql-extension-for-duckdb-motherduck/)
-* [2024-08-17, 14:28:47](https://news.ycombinator.com/item?id=41274850) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 * [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
@@ -26,10 +26,10 @@
 * [2024-08-16, 12:38:10](https://news.ycombinator.com/item?id=41265839) - [Abel, the Mozart of Mathematics](https://www.privatdozent.co/p/abel-the-mozart-of-mathematics)
 * [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [Games People Play with Cash Flow (2020)](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
+* [2024-08-15, 09:47:33](https://news.ycombinator.com/item?id=41254378) - [Genghis Khan, trade warrior (2021)](https://www.richmondfed.org/publications/research/econ_focus/2021/q4_economic_history)
 * [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
 * [2024-08-14, 16:39:27](https://news.ycombinator.com/item?id=41248013) - [Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
-* [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 
 ## [Archives](archives/index.md)
 
