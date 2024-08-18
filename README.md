@@ -2,7 +2,6 @@
 
 * [2024-08-18, 10:58:32](https://news.ycombinator.com/item?id=41281579) - [Discord runs Powershell on load to find Nvidia binaries](https://twitter.com/da_wamwoowam/status/1824872498363523537)
 * [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
-* [2024-08-18, 06:34:44](https://news.ycombinator.com/item?id=41280569) - [GDash – A Feature-Rich Boulder Dash Clone for Mac, Win and Linux](https://github.com/revvv/gdash-export-CrLi)
 * [2024-08-18, 02:31:01](https://news.ycombinator.com/item?id=41279691) - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
 * [2024-08-18, 02:25:56](https://news.ycombinator.com/item?id=41279665) - [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
 * [2024-08-17, 23:30:00](https://news.ycombinator.com/item?id=41278907) - [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
@@ -29,6 +28,7 @@
 * [2024-08-14, 15:59:19](https://news.ycombinator.com/item?id=41247550) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-14, 02:53:20](https://news.ycombinator.com/item?id=41242095) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
+* [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 * [2024-08-13, 17:01:02](https://news.ycombinator.com/item?id=41237204) - [SWE-Bench Verified](https://openai.com/index/introducing-swe-bench-verified/)
 
 ## [Archives](archives/index.md)
