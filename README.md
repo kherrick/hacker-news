@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
 * [2024-08-18, 18:25:44](https://news.ycombinator.com/item?id=41284200) - [Gentoo Linux Drops IA-64 (Itanium) Support – Gentoo Linux](https://www.gentoo.org/news/2024/08/14/Gentoo-drops-IA-64-support.html)
-* [2024-08-18, 17:28:46](https://news.ycombinator.com/item?id=41283761) - [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)
 * [2024-08-18, 17:01:09](https://news.ycombinator.com/item?id=41283540) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 * [2024-08-18, 16:56:11](https://news.ycombinator.com/item?id=41283497) - [Show HN: I Made a Website for Problems](https://www.theproblemplatform.com/)
 * [2024-08-18, 16:53:59](https://news.ycombinator.com/item?id=41283479) - [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
 * [2024-08-18, 18:25:44](https://news.ycombinator.com/item?id=41284200) - [Gentoo Linux Drops IA-64 (Itanium) Support – Gentoo Linux](https://www.gentoo.org/news/2024/08/14/Gentoo-drops-IA-64-support.html)
 * [2024-08-18, 17:45:46](https://news.ycombinator.com/item?id=41283900) - [Moonlight](https://moonlight-stream.org)
 * [2024-08-18, 17:28:46](https://news.ycombinator.com/item?id=41283761) - [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)
