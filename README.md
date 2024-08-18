@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-18, 09:37:44](https://news.ycombinator.com/item?id=41281259) - [Male UK university students are 'less macho' when sharing flats with women](https://www.theguardian.com/education/article/2024/aug/18/male-uk-university-students-are-less-macho-when-sharing-flats-with-women)
 * [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
 * [2024-08-18, 07:36:23](https://news.ycombinator.com/item?id=41280792) - [Alain Delon has died](https://www.theguardian.com/film/article/2024/aug/18/french-screen-star-alain-delon-dies-aged-88)
 * [2024-08-18, 06:34:44](https://news.ycombinator.com/item?id=41280569) - [GDash – A Feature-Rich Boulder Dash Clone for Mac, Win and Linux](https://github.com/revvv/gdash-export-CrLi)
@@ -26,7 +27,6 @@
 * [2024-08-15, 15:56:44](https://news.ycombinator.com/item?id=41257472) - [Ask HN: Combine Qix and falling block game genre via falling (working) pens?](https://news.ycombinator.com/item?id=41257472)
 * [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
 * [2024-08-14, 16:39:27](https://news.ycombinator.com/item?id=41248013) - [Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
-* [2024-08-14, 15:59:19](https://news.ycombinator.com/item?id=41247550) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-14, 02:53:20](https://news.ycombinator.com/item?id=41242095) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
 * [2024-08-13, 17:01:02](https://news.ycombinator.com/item?id=41237204) - [SWE-Bench Verified](https://openai.com/index/introducing-swe-bench-verified/)
