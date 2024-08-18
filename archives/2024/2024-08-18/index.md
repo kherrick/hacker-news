@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: Transform Your PostgreSQL into a Powerful Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 19:14:27](https://news.ycombinator.com/item?id=41284639) - [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
 * [2024-08-18, 19:04:33](https://news.ycombinator.com/item?id=41284549) - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
 * [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
+* [2024-08-18, 18:38:28](https://news.ycombinator.com/item?id=41284335) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 18:37:10](https://news.ycombinator.com/item?id=41284322) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
+* [2024-08-18, 18:33:49](https://news.ycombinator.com/item?id=41284285) - [Energy economics and rocket science with Casey Handmer](https://www.complexsystemspodcast.com/episodes/solar-economics/)
+* [2024-08-18, 18:28:59](https://news.ycombinator.com/item?id=41284235) - [Debugging operating systems with time-traveling virtual machines [pdf]](https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf)
 * [2024-08-18, 18:25:44](https://news.ycombinator.com/item?id=41284200) - [Gentoo Linux Drops IA-64 (Itanium) Support – Gentoo Linux](https://www.gentoo.org/news/2024/08/14/Gentoo-drops-IA-64-support.html)
 * [2024-08-18, 17:45:46](https://news.ycombinator.com/item?id=41283900) - [Moonlight](https://moonlight-stream.org)
+* [2024-08-18, 17:41:11](https://news.ycombinator.com/item?id=41283856) - [A Letter from Orkut Büyükkökten](https://www.orkut.com/)
 * [2024-08-18, 17:28:46](https://news.ycombinator.com/item?id=41283761) - [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)
 * [2024-08-18, 17:25:54](https://news.ycombinator.com/item?id=41283738) - [Popular introduction to Huffman, arithmetic, ANS coding [video]](https://www.youtube.com/watch?v=RFWJM8JMXBs)
 * [2024-08-18, 17:23:08](https://news.ycombinator.com/item?id=41283715) - [Organic Maps Removed from Play Store Due to \"Requirements for Family Program\"](https://fosstodon.org/@organicmaps/112976308191001762)
