@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 15:39:21](https://news.ycombinator.com/item?id=41283010) - [\"Us vs. Them\" language shapes the Apple ecosystem narrative](https://twitter.com/xroissance/status/1825068918509072852)
 * [2024-08-18, 15:21:10](https://news.ycombinator.com/item?id=41282889) - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
 * [2024-08-18, 14:47:47](https://news.ycombinator.com/item?id=41282694) - [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
 * [2024-08-18, 14:32:02](https://news.ycombinator.com/item?id=41282607) - [17,000 AT&T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)
