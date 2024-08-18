@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 23:30:00](https://news.ycombinator.com/item?id=41278907) - [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
+* [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite with Rust, Part 1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-08-17, 22:45:19](https://news.ycombinator.com/item?id=41278636) - [Low level of Magnesium linked to disease-causing DNA damage](https://newatlas.com/health-wellbeing/nutrient-dna-damage/)
 * [2024-08-17, 21:00:44](https://news.ycombinator.com/item?id=41277919) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-17, 20:51:26](https://news.ycombinator.com/item?id=41277856) - [Photon entanglement could explain the rapid brain signals behind consciousness](https://phys.org/news/2024-08-photon-entanglement-rapid-brain-consciousness.html)
