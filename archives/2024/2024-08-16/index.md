@@ -60,6 +60,7 @@
 * [2024-08-16, 15:37:39](https://news.ycombinator.com/item?id=41267308) - [The LMAX Architecture (2011)](https://martinfowler.com/articles/lmax.html)
 * [2024-08-16, 15:04:06](https://news.ycombinator.com/item?id=41267045) - [A Texas \"Moth Man\" Photographed 550 Species in His Own Yard](https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/)
 * [2024-08-16, 14:59:01](https://news.ycombinator.com/item?id=41267002) - [The shortest, strangest engineering interview I've ever done](https://bluepnume.medium.com/the-shortest-strangest-engineering-interview-ive-ever-done-950e8fa95f4e)
+* [2024-08-16, 14:45:53](https://news.ycombinator.com/item?id=41266899) - [Transaction models are programming paradigms](https://mmapped.blog/posts/30-transaction-models)
 * [2024-08-16, 14:26:00](https://news.ycombinator.com/item?id=41266738) - [Show HN: I develop free, open source and web based irregular shapes bin solver](https://nest2d.online/project/laser-gridfinityopen-scad)
 * [2024-08-16, 14:19:10](https://news.ycombinator.com/item?id=41266682) - [Halide embraces photo purists with new anti-AI processing mode](https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/)
 * [2024-08-16, 14:05:12](https://news.ycombinator.com/item?id=41266548) - [MIT engineers design tiny batteries for powering cell-sized robots](https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815)

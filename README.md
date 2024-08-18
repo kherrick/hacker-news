@@ -1,15 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-18, 12:59:35](https://news.ycombinator.com/item?id=41282122) - [Fake insects – Find the AI generated insect](https://huggingface.co/spaces/victor/fake-insects)
-* [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
-* [2024-08-18, 12:29:26](https://news.ycombinator.com/item?id=41281946) - [SolarWind Web Help Desk Java Deserialization Remote Code Execution Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2024-28986)
+* [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer (2012)](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
+* [2024-08-18, 10:26:38](https://news.ycombinator.com/item?id=41281454) - [Compiling Tetris from 1992 on OpenVMS x86 in 2024](https://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html)
 * [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
 * [2024-08-18, 02:31:01](https://news.ycombinator.com/item?id=41279691) - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
 * [2024-08-17, 23:22:14](https://news.ycombinator.com/item?id=41278862) - [I spent 2 years building my own game engine (Rust, WASM, WebGPU)](https://legendofworlds.com/blog/4)
 * [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
-* [2024-08-17, 21:00:44](https://news.ycombinator.com/item?id=41277919) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-17, 19:21:52](https://news.ycombinator.com/item?id=41277179) - [Are you better than a language model at predicting the next word?](https://joel.tools/smarter/)
 * [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
@@ -23,6 +21,7 @@
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 * [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
+* [2024-08-16, 14:45:53](https://news.ycombinator.com/item?id=41266899) - [Transaction models are programming paradigms](https://mmapped.blog/posts/30-transaction-models)
 * [2024-08-16, 12:38:10](https://news.ycombinator.com/item?id=41265839) - [Abel, the Mozart of Mathematics](https://www.privatdozent.co/p/abel-the-mozart-of-mathematics)
 * [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [Games People Play with Cash Flow (2020)](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
@@ -30,6 +29,7 @@
 * [2024-08-14, 16:39:27](https://news.ycombinator.com/item?id=41248013) - [Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
 * [2024-08-14, 15:59:19](https://news.ycombinator.com/item?id=41247550) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
+* [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 
 ## [Archives](archives/index.md)
 
