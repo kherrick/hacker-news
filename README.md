@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-17, 23:30:00](https://news.ycombinator.com/item?id=41278907) - [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
-* [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite with Rust, Part 1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
+* [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-08-17, 22:45:19](https://news.ycombinator.com/item?id=41278636) - [Low level of Magnesium linked to disease-causing DNA damage](https://newatlas.com/health-wellbeing/nutrient-dna-damage/)
 * [2024-08-17, 21:00:44](https://news.ycombinator.com/item?id=41277919) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-17, 19:54:12](https://news.ycombinator.com/item?id=41277429) - [FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
 * [2024-08-17, 19:21:52](https://news.ycombinator.com/item?id=41277179) - [Are you better than a language model at predicting the next word?](https://joel.tools/smarter/)
-* [2024-08-17, 19:13:49](https://news.ycombinator.com/item?id=41277120) - [Why do people believe true things?](https://www.conspicuouscognition.com/p/why-do-people-believe-true-things)
 * [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
 * [2024-08-17, 17:16:23](https://news.ycombinator.com/item?id=41276063) - [The Vala Language (2017)](https://www.bassi.io/articles/2017/02/13/on-vala/)
@@ -28,6 +27,7 @@
 * [2024-08-14, 15:59:19](https://news.ycombinator.com/item?id=41247550) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-14, 12:40:19](https://news.ycombinator.com/item?id=41245390) - [Alive and Well, as a Matter of Fax](https://cacm.acm.org/news/alive-and-well-as-a-matter-of-fax/)
 * [2024-08-14, 06:56:23](https://news.ycombinator.com/item?id=41243278) - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
+* [2024-08-14, 02:53:20](https://news.ycombinator.com/item?id=41242095) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
 * [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 

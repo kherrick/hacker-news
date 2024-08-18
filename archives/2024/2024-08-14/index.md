@@ -99,6 +99,7 @@
 * [2024-08-14, 03:53:54](https://news.ycombinator.com/item?id=41242400) - [Disney Seeks Dismissal Wrongful Death Lawsuit b/c Victim Is Disney+ Subscriber](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 * [2024-08-14, 03:43:47](https://news.ycombinator.com/item?id=41242361) - [Introducing passkey support to Fastmail](https://www.fastmail.com/blog/introducing-passkeys/)
 * [2024-08-14, 03:26:32](https://news.ycombinator.com/item?id=41242280) - [Japan's Leader, Fumio Kishida, Will Step Down](https://www.nytimes.com/2024/08/13/world/asia/fumio-kishida-japan-prime-minister.html)
+* [2024-08-14, 02:53:20](https://news.ycombinator.com/item?id=41242095) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
 * [2024-08-14, 02:52:30](https://news.ycombinator.com/item?id=41242091) - [Meshtastic's Opposition to Proposed Changes on 900 MHz Band](https://meshtastic.org/blog/meshtastic-opposition-to-nextnav-proposed-changes/)
 * [2024-08-14, 02:19:17](https://news.ycombinator.com/item?id=41241942) - [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
 * [2024-08-14, 02:12:30](https://news.ycombinator.com/item?id=41241915) - [The TikTok Case Will Be Determined by What's Behind the Government's Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
