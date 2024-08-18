@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-18, 19:04:33](https://news.ycombinator.com/item?id=41284549) - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
 * [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
 * [2024-08-18, 18:37:10](https://news.ycombinator.com/item?id=41284322) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-18, 17:25:54](https://news.ycombinator.com/item?id=41283738) - [Popular introduction to Huffman, arithmetic, ANS coding [video]](https://www.youtube.com/watch?v=RFWJM8JMXBs)
@@ -13,7 +14,6 @@
 * [2024-08-18, 15:40:39](https://news.ycombinator.com/item?id=41283018) - [`noexcept` affects libstdc++'s `unordered_set`](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf] (2006)](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
-* [2024-08-18, 13:58:18](https://news.ycombinator.com/item?id=41282416) - [NASA Citizen Scientists Spot Object Moving 1M Miles per Hour](https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/)
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
 * [2024-08-17, 23:22:14](https://news.ycombinator.com/item?id=41278862) - [I spent 2 years building my own game engine (Rust, WASM, WebGPU)](https://legendofworlds.com/blog/4)

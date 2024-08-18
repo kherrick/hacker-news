@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 19:04:33](https://news.ycombinator.com/item?id=41284549) - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
 * [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
 * [2024-08-18, 18:37:10](https://news.ycombinator.com/item?id=41284322) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-18, 18:25:44](https://news.ycombinator.com/item?id=41284200) - [Gentoo Linux Drops IA-64 (Itanium) Support – Gentoo Linux](https://www.gentoo.org/news/2024/08/14/Gentoo-drops-IA-64-support.html)
