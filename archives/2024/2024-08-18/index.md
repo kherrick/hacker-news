@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 21:31:10](https://news.ycombinator.com/item?id=41285665) - [Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
 * [2024-08-18, 21:02:37](https://news.ycombinator.com/item?id=41285484) - [Parents outraged at Snoo after smart bassinet company charges fee to rock crib](https://www.independent.co.uk/news/world/americas/snoo-bassinet-baby-sleeping-subscription-b2597869.html)
 * [2024-08-18, 20:20:23](https://news.ycombinator.com/item?id=41285136) - [How You Communicate Signals Your Seniority](https://yuezhao.substack.com/p/the-altitude-of-the-communication)
 * [2024-08-18, 19:48:33](https://news.ycombinator.com/item?id=41284873) - [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
