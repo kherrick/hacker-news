@@ -27,7 +27,7 @@
 * [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-17, 01:10:59](https://news.ycombinator.com/item?id=41271667) - [Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
-* [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [Games People Play with Cash Flow (2020)](https://commoncog.com/cash-flow-games/)
+* [2024-08-15, 09:47:33](https://news.ycombinator.com/item?id=41254378) - [Genghis Khan, trade warrior (2021)](https://www.richmondfed.org/publications/research/econ_focus/2021/q4_economic_history)
 * [2024-08-14, 20:47:46](https://news.ycombinator.com/item?id=41250343) - [Blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [How the instrument landing system at Antarctica's McMurdo Station works](https://www.flightradar24.com/blog/transponder-landing-system/)
 
