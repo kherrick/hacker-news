@@ -8,7 +8,7 @@
 * [2024-08-18, 19:04:33](https://news.ycombinator.com/item?id=41284549) - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
 * [2024-08-18, 19:01:55](https://news.ycombinator.com/item?id=41284510) - [Laptop-like CrowView Note ready to work with Pi, phones and mini-PCs](https://newatlas.com/laptops/elecrow-crowview-note/)
 * [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
-* [2024-08-18, 18:38:28](https://news.ycombinator.com/item?id=41284335) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
+* [2024-08-18, 18:38:28](https://news.ycombinator.com/item?id=41284335) - [Micro-libraries should never be used](https://bvisness.me/microlibraries/)
 * [2024-08-18, 18:37:10](https://news.ycombinator.com/item?id=41284322) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-18, 18:33:49](https://news.ycombinator.com/item?id=41284285) - [Energy economics and rocket science with Casey Handmer](https://www.complexsystemspodcast.com/episodes/solar-economics/)
 * [2024-08-18, 18:28:59](https://news.ycombinator.com/item?id=41284235) - [Debugging operating systems with time-traveling virtual machines [pdf]](https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf)
