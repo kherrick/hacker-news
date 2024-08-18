@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-18, 07:36:23](https://news.ycombinator.com/item?id=41280792) - [French screen star Alain Delon dies aged 88](https://www.theguardian.com/film/article/2024/aug/18/french-screen-star-alain-delon-dies-aged-88)
+* [2024-08-18, 06:34:44](https://news.ycombinator.com/item?id=41280569) - [GDash – A Feature-Rich Boulder Dash Clone for Mac, Win and Linux](https://github.com/revvv/gdash-export-CrLi)
 * [2024-08-18, 02:31:01](https://news.ycombinator.com/item?id=41279691) - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
 * [2024-08-18, 02:25:56](https://news.ycombinator.com/item?id=41279665) - [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
 * [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
@@ -26,7 +27,6 @@
 * [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
 * [2024-08-14, 16:39:27](https://news.ycombinator.com/item?id=41248013) - [Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
 * [2024-08-14, 15:59:19](https://news.ycombinator.com/item?id=41247550) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
-* [2024-08-14, 12:35:15](https://news.ycombinator.com/item?id=41245349) - [Show HN: RelayBeam – A multi-port real-time contextual messaging platform](https://relaybeam.com/about)
 * [2024-08-14, 02:53:20](https://news.ycombinator.com/item?id=41242095) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
 * [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
