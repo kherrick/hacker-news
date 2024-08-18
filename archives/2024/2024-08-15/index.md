@@ -75,6 +75,7 @@
 * [2024-08-15, 11:55:13](https://news.ycombinator.com/item?id=41254941) - [Mini imported Japanese vehicles may soon be banned on Massachusetts roads](https://www.wgbh.org/news/local/2024-08-14/these-mini-imported-japanese-vehicles-may-soon-be-banned-on-massachusetts-roads)
 * [2024-08-15, 11:53:47](https://news.ycombinator.com/item?id=41254936) - [Markdown Is Meant to Be Shown: Stop Hiding the Syntax (2021)](https://daringfireball.net/linked/2021/03/05/snell-ios-markdown-editors)
 * [2024-08-15, 11:13:37](https://news.ycombinator.com/item?id=41254740) - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
+* [2024-08-15, 10:51:19](https://news.ycombinator.com/item?id=41254622) - [Bamboo Can Invade Your House](https://www.core77.com/posts/133313/How-Bamboo-Can-Invade-Your-House)
 * [2024-08-15, 10:04:36](https://news.ycombinator.com/item?id=41254441) - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
 * [2024-08-15, 09:45:29](https://news.ycombinator.com/item?id=41254373) - [Alpine.js for Ruby on Rails Developers: Simplifying Front End Development](https://alexsinelnikov.blog/alpinejs-for-ruby-on-rails-developers-simplifying-frontend-development)
 * [2024-08-15, 08:36:42](https://news.ycombinator.com/item?id=41254094) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
