@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-18, 20:20:23](https://news.ycombinator.com/item?id=41285136) - [How You Communicate Signals Your Seniority](https://yuezhao.substack.com/p/the-altitude-of-the-communication)
 * [2024-08-18, 19:48:33](https://news.ycombinator.com/item?id=41284873) - [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: Transform Your PostgreSQL into a Powerful Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 19:14:27](https://news.ycombinator.com/item?id=41284639) - [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
@@ -26,7 +27,6 @@
 * [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [Games People Play with Cash Flow (2020)](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
 * [2024-08-15, 18:07:04](https://news.ycombinator.com/item?id=41258793) - [How the Hidden Sounds of Horror Movie Soundtracks Freak You Out (2016)](https://www.atlasobscura.com/articles/how-the-hidden-sounds-of-horror-movie-soundtracks-freak-you-out)
-* [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [A $36,000 Graphical Workstation from 1993 – SGI Indigo 2](https://www.youtube.com/watch?v=1PP--lVTPCQ)
 * [2024-08-15, 09:47:33](https://news.ycombinator.com/item?id=41254378) - [Genghis Khan, trade warrior (2021)](https://www.richmondfed.org/publications/research/econ_focus/2021/q4_economic_history)
 * [2024-08-14, 20:47:46](https://news.ycombinator.com/item?id=41250343) - [Blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [How the instrument landing system at Antarctica's McMurdo Station works](https://www.flightradar24.com/blog/transponder-landing-system/)
