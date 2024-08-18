@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-18, 02:25:56",
+      "https://news.ycombinator.com/item?id=41279665"
+    ],
+    [
+      "Air Quality Monitors Compared: AirGradient One vs. Airthings",
+      "https://www.airgradient.com/blog/airgradient-vs-airthings/"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 23:30:00",
       "https://news.ycombinator.com/item?id=41278907"
     ],
@@ -167,16 +177,6 @@
     [
       "Spring-rs is a microservice framework in Rust inspired by Java's spring-boot",
       "https://github.com/spring-rs/spring-rs"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 08:36:23",
-      "https://news.ycombinator.com/item?id=41272830"
-    ],
-    [
-      "Colorize Lidar point clouds with camera images",
-      "https://medium.com/mindkosh/colorize-lidar-point-clouds-with-camera-images-4af69cb3efea"
     ]
   ],
   [
