@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41278807"
     ],
     [
-      "Build your own SQLite with Rust, Part 1",
+      "Build your own SQLite, Part 1: Listing tables",
       "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Are you better than a language model at predicting the next word?",
       "https://joel.tools/smarter/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 19:13:49",
-      "https://news.ycombinator.com/item?id=41277120"
-    ],
-    [
-      "Why do people believe true things?",
-      "https://www.conspicuouscognition.com/p/why-do-people-believe-true-things"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Interviewing the Interviewer: Questions to Uncover a Company's True Culture",
       "https://praachi.work/blog/questions-to-ask-in-a-job-interview"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 02:53:20",
+      "https://news.ycombinator.com/item?id=41242095"
+    ],
+    [
+      "Basic MetaProgramming in Zig",
+      "https://www.openmymind.net/Basic-MetaProgramming-in-Zig/"
     ]
   ],
   [
