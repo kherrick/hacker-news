@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-18, 19:22:31",
+      "https://news.ycombinator.com/item?id=41284703"
+    ],
+    [
+      "Show HN: Transform Your PostgreSQL into a Powerful Job Queue",
+      "https://github.com/janbjorge/PgQueuer"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 19:14:27",
       "https://news.ycombinator.com/item?id=41284639"
     ],
@@ -31,12 +41,52 @@
   ],
   [
     [
+      "2024-08-18, 18:38:28",
+      "https://news.ycombinator.com/item?id=41284335"
+    ],
+    [
+      "Micro-libraries need to die already",
+      "https://bvisness.me/microlibraries/"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 18:37:10",
       "https://news.ycombinator.com/item?id=41284322"
     ],
     [
       "Leaving Neovim for Zed",
       "https://stevedylan.dev/posts/leaving-neovim-for-zed/"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 18:33:49",
+      "https://news.ycombinator.com/item?id=41284285"
+    ],
+    [
+      "Energy economics and rocket science with Casey Handmer",
+      "https://www.complexsystemspodcast.com/episodes/solar-economics/"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 18:28:59",
+      "https://news.ycombinator.com/item?id=41284235"
+    ],
+    [
+      "Debugging operating systems with time-traveling virtual machines [pdf]",
+      "https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 17:41:11",
+      "https://news.ycombinator.com/item?id=41283856"
+    ],
+    [
+      "A Letter from Orkut Büyükkökten",
+      "https://www.orkut.com/"
     ]
   ],
   [
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2024-08-17, 23:22:14",
-      "https://news.ycombinator.com/item?id=41278862"
-    ],
-    [
-      "I spent 2 years building my own game engine (Rust, WASM, WebGPU)",
-      "https://legendofworlds.com/blog/4"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 18:56:36",
       "https://news.ycombinator.com/item?id=41277014"
     ],
@@ -181,32 +221,12 @@
   ],
   [
     [
-      "2024-08-17, 18:09:49",
-      "https://news.ycombinator.com/item?id=41276605"
-    ],
-    [
-      "Blockbuster Video VHS insert template",
-      "https://github.com/rfinnie/blockbuster"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 16:51:34",
       "https://news.ycombinator.com/item?id=41275846"
     ],
     [
       "Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out",
       "https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 16:41:21",
-      "https://news.ycombinator.com/item?id=41275759"
-    ],
-    [
-      "Alien – CUDA-powered artificial life simulation program",
-      "https://github.com/chrxh/alien"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Ask for Advice, Not Permission (2015)",
       "https://boz.com/articles/advice-not-permission"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 12:38:10",
-      "https://news.ycombinator.com/item?id=41265839"
-    ],
-    [
-      "Abel, the Mozart of Mathematics",
-      "https://www.privatdozent.co/p/abel-the-mozart-of-mathematics"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 07:03:17",
-      "https://news.ycombinator.com/item?id=41263855"
-    ],
-    [
-      "Games People Play with Cash Flow (2020)",
-      "https://commoncog.com/cash-flow-games/"
     ]
   ],
   [
