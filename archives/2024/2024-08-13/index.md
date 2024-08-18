@@ -34,6 +34,7 @@
 * [2024-08-13, 17:37:50](https://news.ycombinator.com/item?id=41237542) - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
 * [2024-08-13, 17:31:21](https://news.ycombinator.com/item?id=41237472) - [Integrating Random Functions on a Cluster with Temporal](https://carlkolon.com/2024/08/12/integration-temporal/)
 * [2024-08-13, 17:08:20](https://news.ycombinator.com/item?id=41237275) - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
+* [2024-08-13, 17:01:02](https://news.ycombinator.com/item?id=41237204) - [SWE-Bench Verified](https://openai.com/index/introducing-swe-bench-verified/)
 * [2024-08-13, 17:00:31](https://news.ycombinator.com/item?id=41237200) - [Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer](https://news.ycombinator.com/item?id=41237200)
 * [2024-08-13, 16:57:10](https://news.ycombinator.com/item?id=41237176) - [Open Source FPGA Expansion Card for the Apple II](https://wiki.reactivemicro.com/A2FPGA)
 * [2024-08-13, 16:42:50](https://news.ycombinator.com/item?id=41237057) - [Tell HN: Steinberg shut down their eLicenser service, breaking older software](https://www.steinberg.net/licensing/elicenser-end-of-service/)

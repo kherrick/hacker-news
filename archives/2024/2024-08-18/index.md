@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
 * [2024-08-18, 07:36:23](https://news.ycombinator.com/item?id=41280792) - [French screen star Alain Delon dies aged 88](https://www.theguardian.com/film/article/2024/aug/18/french-screen-star-alain-delon-dies-aged-88)
 * [2024-08-18, 06:34:44](https://news.ycombinator.com/item?id=41280569) - [GDash – A Feature-Rich Boulder Dash Clone for Mac, Win and Linux](https://github.com/revvv/gdash-export-CrLi)
 * [2024-08-18, 02:31:01](https://news.ycombinator.com/item?id=41279691) - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
