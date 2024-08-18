@@ -67,6 +67,7 @@
 * [2024-08-16, 13:40:41](https://news.ycombinator.com/item?id=41266342) - [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
 * [2024-08-16, 13:35:09](https://news.ycombinator.com/item?id=41266297) - [Weird Object Careening Across the Cosmos at Ludicrous Speeds](https://gizmodo.com/citizen-scientists-spot-weird-object-careening-across-the-cosmos-at-ludicrous-speeds-2000487675)
 * [2024-08-16, 12:49:07](https://news.ycombinator.com/item?id=41265930) - [America prepares for a new nuclear-arms race](https://www.economist.com/united-states/2024/08/12/america-prepares-for-a-new-nuclear-arms-race)
+* [2024-08-16, 12:38:10](https://news.ycombinator.com/item?id=41265839) - [Abel, the Mozart of Mathematics](https://www.privatdozent.co/p/abel-the-mozart-of-mathematics)
 * [2024-08-16, 12:05:01](https://news.ycombinator.com/item?id=41265562) - [The Day GitHub Almost CrowdStriked Us All (Again)](https://blog.codeminer42.com/the-day-github-almost-crowdstriked-us-all-again/)
 * [2024-08-16, 11:58:47](https://news.ycombinator.com/item?id=41265525) - [Carles Puigdemont: How I pulled off my daring escape from Spain](https://www.politico.eu/article/carles-puigdemont-catalonia-independence-spain-operation-arc-de-triomf-escape-exile/)
 * [2024-08-16, 11:56:49](https://news.ycombinator.com/item?id=41265512) - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
