@@ -7,6 +7,7 @@
 * [2024-08-16, 23:41:35](https://news.ycombinator.com/item?id=41271326) - [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
 * [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
 * [2024-08-16, 23:16:28](https://news.ycombinator.com/item?id=41271223) - [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)
+* [2024-08-16, 22:52:30](https://news.ycombinator.com/item?id=41271098) - [Painting with Plotters](https://github.com/LiciaHe/painting_with_plotters)
 * [2024-08-16, 22:38:06](https://news.ycombinator.com/item?id=41271014) - [Show HN: Learn Blender shortcuts with lots of tiny videos](https://hollisbrown.github.io/blendershortcuts/)
 * [2024-08-16, 22:09:26](https://news.ycombinator.com/item?id=41270830) - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 * [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
