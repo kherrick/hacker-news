@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-17, 23:30:00",
+      "https://news.ycombinator.com/item?id=41278907"
+    ],
+    [
+      "Postmortem of my 9 year journey at Google",
+      "https://tinystruggles.com/posts/google_postmortem/"
+    ]
+  ],
+  [
+    [
+      "2024-08-17, 23:13:53",
+      "https://news.ycombinator.com/item?id=41278807"
+    ],
+    [
+      "Build your own SQLite with Rust, Part 1",
+      "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 22:45:19",
       "https://news.ycombinator.com/item?id=41278636"
     ],
@@ -47,16 +67,6 @@
     [
       "Mpv – A free, open-source, and cross-platform media player",
       "https://mpv.io/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 18:17:12",
-      "https://news.ycombinator.com/item?id=41276675"
-    ],
-    [
-      "How to get from high school math to cutting-edge ML/AI",
-      "https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/"
     ]
   ],
   [
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2024-08-17, 13:03:33",
-      "https://news.ycombinator.com/item?id=41274274"
-    ],
-    [
-      "Hacking with PDF (2022)",
-      "https://0xcybery.github.io/blog/hacking-with-pdf"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 12:40:23",
       "https://news.ycombinator.com/item?id=41274138"
     ],
     [
       "Spring-rs is a microservice framework in Rust inspired by Java's spring-boot",
       "https://github.com/spring-rs/spring-rs"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 10:42:54",
-      "https://news.ycombinator.com/item?id=41273415"
-    ],
-    [
-      "Xapian: Open source search engine library",
-      "https://xapian.org/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "The Key to Bizarro's Symbols",
       "https://www.bizarro.com/secret-symbols"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 22:24:42",
+      "https://news.ycombinator.com/item?id=41251172"
+    ],
+    [
+      "Building an EEG with a Children's Toy",
+      "https://geofflord.substack.com/p/brainwaves-on-a-budget"
     ]
   ],
   [
