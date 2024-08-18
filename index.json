@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-08-18, 12:59:35",
-      "https://news.ycombinator.com/item?id=41282122"
-    ],
-    [
-      "Fake insects – Find the AI generated insect",
-      "https://huggingface.co/spaces/victor/fake-insects"
-    ]
-  ],
-  [
-    [
       "2024-08-18, 12:42:11",
       "https://news.ycombinator.com/item?id=41282033"
     ],
     [
-      "On Being a Senior Engineer",
+      "On Being a Senior Engineer (2012)",
       "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 12:29:26",
-      "https://news.ycombinator.com/item?id=41281946"
-    ],
-    [
-      "SolarWind Web Help Desk Java Deserialization Remote Code Execution Vulnerability",
-      "https://nvd.nist.gov/vuln/detail/CVE-2024-28986"
     ]
   ],
   [
@@ -47,6 +27,16 @@
     [
       "How the OCaml type checker works (2022)",
       "https://okmij.org/ftp/ML/generalization.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 10:26:38",
+      "https://news.ycombinator.com/item?id=41281454"
+    ],
+    [
+      "Compiling Tetris from 1992 on OpenVMS x86 in 2024",
+      "https://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html"
     ]
   ],
   [
@@ -87,16 +77,6 @@
     [
       "Build your own SQLite, Part 1: Listing tables",
       "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 21:00:44",
-      "https://news.ycombinator.com/item?id=41277919"
-    ],
-    [
-      "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
-      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-08-16, 14:45:53",
+      "https://news.ycombinator.com/item?id=41266899"
+    ],
+    [
+      "Transaction models are programming paradigms",
+      "https://mmapped.blog/posts/30-transaction-models"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 12:38:10",
       "https://news.ycombinator.com/item?id=41265839"
     ],
@@ -297,6 +287,16 @@
     [
       "Ask HN: What do you monitor on your servers?",
       "https://news.ycombinator.com/item?id=41240379"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 21:42:07",
+      "https://news.ycombinator.com/item?id=41240152"
+    ],
+    [
+      "The Blue Collar Jobs of Philip Glass",
+      "https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass"
     ]
   ]
 ]
