@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-08-18, 15:40:39",
-      "https://news.ycombinator.com/item?id=41283018"
-    ],
-    [
-      "`noexcept` affects libstdc++'s `unordered_set`",
-      "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/"
-    ]
-  ],
-  [
-    [
       "2024-08-18, 14:24:39",
       "https://news.ycombinator.com/item?id=41282574"
     ],
@@ -227,6 +217,16 @@
     [
       "How the OCaml type checker works (2022)",
       "https://okmij.org/ftp/ML/generalization.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-17, 23:22:14",
+      "https://news.ycombinator.com/item?id=41278862"
+    ],
+    [
+      "I spent 2 years building my own game engine (Rust, WASM, WebGPU)",
+      "https://legendofworlds.com/blog/4"
     ]
   ],
   [
