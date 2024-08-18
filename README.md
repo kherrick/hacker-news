@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-18, 02:25:56](https://news.ycombinator.com/item?id=41279665) - [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
 * [2024-08-17, 23:30:00](https://news.ycombinator.com/item?id=41278907) - [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
 * [2024-08-17, 23:13:53](https://news.ycombinator.com/item?id=41278807) - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-08-17, 22:45:19](https://news.ycombinator.com/item?id=41278636) - [Low level of Magnesium linked to disease-causing DNA damage](https://newatlas.com/health-wellbeing/nutrient-dna-damage/)
@@ -18,6 +17,7 @@
 * [2024-08-17, 14:28:47](https://news.ycombinator.com/item?id=41274850) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 * [2024-08-17, 12:40:23](https://news.ycombinator.com/item?id=41274138) - [Spring-rs is a microservice framework in Rust inspired by Java's spring-boot](https://github.com/spring-rs/spring-rs)
+* [2024-08-17, 08:36:23](https://news.ycombinator.com/item?id=41272830) - [Colorize Lidar point clouds with camera images](https://medium.com/mindkosh/colorize-lidar-point-clouds-with-camera-images-4af69cb3efea)
 * [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
 * [2024-08-15, 23:13:50](https://news.ycombinator.com/item?id=41261481) - [Symmetric Power Transformers](https://manifestai.com/articles/symmetric-power-transformers/)
