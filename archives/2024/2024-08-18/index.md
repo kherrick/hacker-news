@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 14:47:47](https://news.ycombinator.com/item?id=41282694) - [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
+* [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
 * [2024-08-18, 12:59:35](https://news.ycombinator.com/item?id=41282122) - [Fake insects – Find the AI generated insect](https://huggingface.co/spaces/victor/fake-insects)
 * [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
