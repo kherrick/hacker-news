@@ -78,6 +78,7 @@
 * [2024-08-14, 13:12:24](https://news.ycombinator.com/item?id=41245702) - [Is \"Rich Dad Poor Dad\" a Fraud?](https://economistwritingeveryday.com/2024/02/13/is-rich-dad-poor-dad-a-fraud/)
 * [2024-08-14, 12:52:54](https://news.ycombinator.com/item?id=41245504) - [The Complex Relationship Between ADHD, Autism, and Personality Disorders](https://www.traudhd.com/p/autism-adhd-personality-disorders-narcissism)
 * [2024-08-14, 12:40:19](https://news.ycombinator.com/item?id=41245390) - [Alive and Well, as a Matter of Fax](https://cacm.acm.org/news/alive-and-well-as-a-matter-of-fax/)
+* [2024-08-14, 12:35:15](https://news.ycombinator.com/item?id=41245349) - [Show HN: RelayBeam – A multi-port real-time contextual messaging platform](https://relaybeam.com/about)
 * [2024-08-14, 12:34:20](https://news.ycombinator.com/item?id=41245342) - [CPI for all items rises 3.2%; shelter up](https://www.bls.gov/news.release/archives/cpi_08142024.htm)
 * [2024-08-14, 12:16:31](https://news.ycombinator.com/item?id=41245199) - [It's Not Just You. No One Wants Kids Anymore [video]](https://www.youtube.com/watch?v=u-PinTQcuik)
 * [2024-08-14, 12:12:23](https://news.ycombinator.com/item?id=41245159) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
