@@ -2,6 +2,7 @@
 
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: Transform Your PostgreSQL into a Powerful Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 19:14:27](https://news.ycombinator.com/item?id=41284639) - [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
+* [2024-08-18, 19:10:30](https://news.ycombinator.com/item?id=41284604) - [Stop Using Git Ignore](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
 * [2024-08-18, 19:04:33](https://news.ycombinator.com/item?id=41284549) - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
 * [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
 * [2024-08-18, 18:38:28](https://news.ycombinator.com/item?id=41284335) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
@@ -25,7 +26,6 @@
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [2024-08-16, 22:52:30](https://news.ycombinator.com/item?id=41271098) - [Painting with Plotters](https://github.com/LiciaHe/painting_with_plotters)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
-* [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
 * [2024-08-15, 18:07:04](https://news.ycombinator.com/item?id=41258793) - [How the Hidden Sounds of Horror Movie Soundtracks Freak You Out (2016)](https://www.atlasobscura.com/articles/how-the-hidden-sounds-of-horror-movie-soundtracks-freak-you-out)
 * [2024-08-15, 09:47:33](https://news.ycombinator.com/item?id=41254378) - [Genghis Khan, trade warrior (2021)](https://www.richmondfed.org/publications/research/econ_focus/2021/q4_economic_history)
 * [2024-08-14, 20:47:46](https://news.ycombinator.com/item?id=41250343) - [Blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
