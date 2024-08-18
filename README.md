@@ -16,11 +16,10 @@
 * [2024-08-17, 18:09:49](https://news.ycombinator.com/item?id=41276605) - [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
 * [2024-08-17, 16:59:47](https://news.ycombinator.com/item?id=41275920) - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 * [2024-08-17, 16:51:34](https://news.ycombinator.com/item?id=41275846) - [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
-* [2024-08-17, 16:50:10](https://news.ycombinator.com/item?id=41275832) - [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
 * [2024-08-17, 16:41:21](https://news.ycombinator.com/item?id=41275759) - [Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
 * [2024-08-17, 16:40:13](https://news.ycombinator.com/item?id=41275751) - [pg_duckdb: Splicing Duck and Elephant DNA](https://motherduck.com/blog/pg_duckdb-postgresql-extension-for-duckdb-motherduck/)
+* [2024-08-17, 14:28:47](https://news.ycombinator.com/item?id=41274850) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 13:53:11](https://news.ycombinator.com/item?id=41274602) - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
-* [2024-08-16, 21:51:59](https://news.ycombinator.com/item?id=41270715) - [There Is No Website](https://www.thereisnoweb.site/)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
 * [2024-08-16, 14:45:53](https://news.ycombinator.com/item?id=41266899) - [Transaction models are programming paradigms](https://mmapped.blog/posts/30-transaction-models)
 * [2024-08-16, 12:38:10](https://news.ycombinator.com/item?id=41265839) - [Abel, the Mozart of Mathematics](https://www.privatdozent.co/p/abel-the-mozart-of-mathematics)
@@ -30,6 +29,7 @@
 * [2024-08-14, 22:24:42](https://news.ycombinator.com/item?id=41251172) - [Building an EEG with a Children's Toy](https://geofflord.substack.com/p/brainwaves-on-a-budget)
 * [2024-08-14, 16:39:27](https://news.ycombinator.com/item?id=41248013) - [Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
 * [2024-08-13, 22:13:25](https://news.ycombinator.com/item?id=41240379) - [Ask HN: What do you monitor on your servers?](https://news.ycombinator.com/item?id=41240379)
+* [2024-08-13, 21:42:07](https://news.ycombinator.com/item?id=41240152) - [The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
 
 ## [Archives](archives/index.md)
 
