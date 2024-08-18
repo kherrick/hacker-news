@@ -11,6 +11,7 @@
 * [2024-08-18, 16:11:44](https://news.ycombinator.com/item?id=41283209) - [Tell HN: X stopped requiring authentication, nitter works again](https://nitter.lucabased.xyz/x)
 * [2024-08-18, 16:02:25](https://news.ycombinator.com/item?id=41283149) - [Surveillance Watch – the hidden connections within the surveillance industry](https://www.surveillancewatch.io)
 * [2024-08-18, 15:58:16](https://news.ycombinator.com/item?id=41283129) - [Microsoft begins cracking down on people dodging Windows 11 system requirements](https://www.xda-developers.com/microsoft-cracking-down-dodging-windows-11-system-requirements/)
+* [2024-08-18, 15:44:13](https://news.ycombinator.com/item?id=41283046) - [EVs are starting to overtake gas-powered cars in Ethiopia](https://www.cnn.com/2024/08/17/climate/ethiopia-evs-gas-car-ban-climate/index.html)
 * [2024-08-18, 15:40:39](https://news.ycombinator.com/item?id=41283018) - [`noexcept` affects libstdc++'s `unordered_set`](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-18, 15:39:21](https://news.ycombinator.com/item?id=41283010) - [\"Us vs. Them\" language shapes the Apple ecosystem narrative](https://twitter.com/xroissance/status/1825068918509072852)
 * [2024-08-18, 15:21:10](https://news.ycombinator.com/item?id=41282889) - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
