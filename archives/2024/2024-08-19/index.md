@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 21:03:50](https://news.ycombinator.com/item?id=41294579) - [Millennials Are Becoming Boomers](https://awealthofcommonsense.com/2024/08/millennials-are-becoming-boomers/)
 * [2024-08-19, 21:00:50](https://news.ycombinator.com/item?id=41294553) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2024-08-19, 20:52:56](https://news.ycombinator.com/item?id=41294490) - [Show HN: Robata, macOS window selector: put it on the grill](https://robata.app)
 * [2024-08-19, 20:34:28](https://news.ycombinator.com/item?id=41294360) - [The Winamp Era](https://changelog.com/friends/57)
 * [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 19:50:58](https://news.ycombinator.com/item?id=41294075) - [How to Make Wealth as a Startup Founder](https://blog.nishantsoni.com/p/how-to-think-about-liquidity-as-a)
