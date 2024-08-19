@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 10:03:46](https://news.ycombinator.com/item?id=41289557) - [The Epic Games Store Launches on iOS and Android](https://www.epicgames.com/site/en-US/news/the-epic-games-store-launches-on-mobile)
+* [2024-08-19, 09:31:27](https://news.ycombinator.com/item?id=41289384) - [Blaming Agile for software stagnation puts the wrong villain in the wrong play](https://www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/)
 * [2024-08-19, 08:42:03](https://news.ycombinator.com/item?id=41289114) - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 * [2024-08-19, 08:39:07](https://news.ycombinator.com/item?id=41289096) - [What comes after the AI crash?](https://disconnect.blog/what-comes-after-the-ai-crash/)
 * [2024-08-19, 08:37:50](https://news.ycombinator.com/item?id=41289087) - [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
@@ -12,6 +14,8 @@
 * [2024-08-19, 06:13:13](https://news.ycombinator.com/item?id=41288269) - [Introduction to Information Theory – Edward Witten [video]](https://www.youtube.com/watch?v=XYugyhoohhY)
 * [2024-08-19, 05:23:51](https://news.ycombinator.com/item?id=41288051) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 05:02:56](https://news.ycombinator.com/item?id=41287955) - [The broligarchs are trying to have their way](https://www.theatlantic.com/ideas/archive/2024/08/tech-bro-male-billionaire-anti-democratic/679267/)
+* [2024-08-19, 03:02:52](https://news.ycombinator.com/item?id=41287425) - [Archiving \"The Famous Computer Cafe\"](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
+* [2024-08-19, 02:40:21](https://news.ycombinator.com/item?id=41287326) - [The Charming, Eccentric, Blessed Life of Lee Maxwell](https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/)
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox Is Already the Biggest Game in the World. Why Can't It Make a Profit?](https://www.matthewball.co/all/roblox2024)
 * [2024-08-19, 01:31:05](https://news.ycombinator.com/item?id=41287031) - [FindMy Flipper – AirTag and SmartTag Emulator](https://github.com/MatthewKuKanich/FindMyFlipper)
 * [2024-08-19, 01:27:44](https://news.ycombinator.com/item?id=41287014) - [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)
