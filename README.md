@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
-* [2024-08-19, 17:20:41](https://news.ycombinator.com/item?id=41292835) - [Modern Unix Tool List](https://notes.billmill.org/computer_usage/cli_tips_and_tools/modern_unix_tool_list.html)
 * [2024-08-19, 17:19:55](https://news.ycombinator.com/item?id=41292827) - [Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults](https://sociologicalscience.com/articles-v11-20-553/)
 * [2024-08-19, 17:14:12](https://news.ycombinator.com/item?id=41292784) - [Migrating Mess with DNS to Use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
 * [2024-08-19, 17:01:07](https://news.ycombinator.com/item?id=41292692) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41292692)
@@ -23,6 +22,7 @@
 * [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf] (2006)](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
+* [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
 * [2024-08-16, 23:22:40](https://news.ycombinator.com/item?id=41271248) - [How high speed fiber optic internet cables are made](https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/)
 * [2024-08-16, 17:18:21](https://news.ycombinator.com/item?id=41268347) - [Behavioral Specialization During the Neolithic–An Evolutionary Model](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2018.00035/full)
 * [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
