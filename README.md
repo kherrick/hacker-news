@@ -6,7 +6,7 @@
 * [2024-08-19, 11:57:26](https://news.ycombinator.com/item?id=41290237) - [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 * [2024-08-19, 10:07:31](https://news.ycombinator.com/item?id=41289575) - [Show HN: FlowVision – Waterfall-Style Image Browser for macOS (Open-Source)](https://github.com/netdcy/FlowVision)
 * [2024-08-19, 08:42:03](https://news.ycombinator.com/item?id=41289114) - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
-* [2024-08-19, 08:37:50](https://news.ycombinator.com/item?id=41289087) - [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
+* [2024-08-19, 03:37:54](https://news.ycombinator.com/item?id=41287589) - [How I Became the EEVBlog Guy [video]](https://www.youtube.com/watch?v=riBwRC_CaAA)
 * [2024-08-19, 03:02:52](https://news.ycombinator.com/item?id=41287425) - [Archiving \"The Famous Computer Cafe\"](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
 * [2024-08-19, 02:40:21](https://news.ycombinator.com/item?id=41287326) - [The Charming, Eccentric, Blessed Life of Lee Maxwell](https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/)
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
