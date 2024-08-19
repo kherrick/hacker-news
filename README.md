@@ -2,7 +2,7 @@
 
 * [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
 * [2024-08-19, 19:19:44](https://news.ycombinator.com/item?id=41293850) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/)
-* [2024-08-19, 18:32:39](https://news.ycombinator.com/item?id=41293505) - [Everyone's Life Is Weird](https://www.avabear.xyz/p/actually-everyones-life-is-weird)
+* [2024-08-19, 19:06:59](https://news.ycombinator.com/item?id=41293767) - [The guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
 * [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
 * [2024-08-19, 17:19:55](https://news.ycombinator.com/item?id=41292827) - [Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults](https://sociologicalscience.com/articles-v11-20-553/)
 * [2024-08-19, 17:14:12](https://news.ycombinator.com/item?id=41292784) - [Migrating Mess with DNS to Use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
@@ -11,7 +11,6 @@
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 14:40:42](https://news.ycombinator.com/item?id=41291470) - [Optimizing global message transit latency: a journey through TCP configuration](https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
-* [2024-08-19, 13:07:51](https://news.ycombinator.com/item?id=41290730) - [Wafris – an Open Source Web Application Firewall that lives in your stack](https://wafris.org/)
 * [2024-08-19, 12:23:09](https://news.ycombinator.com/item?id=41290409) - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 * [2024-08-19, 11:57:26](https://news.ycombinator.com/item?id=41290237) - [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 * [2024-08-19, 08:42:03](https://news.ycombinator.com/item?id=41289114) - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
@@ -30,6 +29,7 @@
 * [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
 * [2024-08-15, 18:22:06](https://news.ycombinator.com/item?id=41258932) - [Stripe's Monorepo Developer Environment](https://blog.nelhage.com/post/stripe-dev-environment/)
+* [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [Transponder Landing System enables precision approaches at McMurdo in Antarctica](https://www.flightradar24.com/blog/transponder-landing-system/)
 
 ## [Archives](archives/index.md)
 
