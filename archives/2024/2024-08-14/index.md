@@ -81,6 +81,7 @@
 * [2024-08-14, 13:36:40](https://news.ycombinator.com/item?id=41245901) - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
 * [2024-08-14, 13:22:01](https://news.ycombinator.com/item?id=41245779) - [Hackers may have leaked the Social Security Numbers of every American](https://www.engadget.com/cybersecurity/hackers-may-have-leaked-the-social-security-numbers-of-every-american-150834276.html)
 * [2024-08-14, 13:12:24](https://news.ycombinator.com/item?id=41245702) - [Is \"Rich Dad Poor Dad\" a Fraud?](https://economistwritingeveryday.com/2024/02/13/is-rich-dad-poor-dad-a-fraud/)
+* [2024-08-14, 13:11:24](https://news.ycombinator.com/item?id=41245692) - [In \"The Texas Chain Saw Massacre,\" Feeding Your Family Comes First](https://www.newyorker.com/culture/cultural-comment/in-the-texas-chainsaw-massacre-feeding-your-family-comes-first)
 * [2024-08-14, 12:52:54](https://news.ycombinator.com/item?id=41245504) - [The Complex Relationship Between ADHD, Autism, and Personality Disorders](https://www.traudhd.com/p/autism-adhd-personality-disorders-narcissism)
 * [2024-08-14, 12:40:19](https://news.ycombinator.com/item?id=41245390) - [Alive and Well, as a Matter of Fax](https://cacm.acm.org/news/alive-and-well-as-a-matter-of-fax/)
 * [2024-08-14, 12:35:15](https://news.ycombinator.com/item?id=41245349) - [Show HN: RelayBeam – A multi-port real-time contextual messaging platform](https://relaybeam.com/about)

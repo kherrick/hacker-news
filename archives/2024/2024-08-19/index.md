@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 12:00:48](https://news.ycombinator.com/item?id=41290259) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
+* [2024-08-19, 11:57:26](https://news.ycombinator.com/item?id=41290237) - [Bit-Banging a Basic Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 * [2024-08-19, 10:20:12](https://news.ycombinator.com/item?id=41289652) - [Mystery Flesh Pit National Park](https://www.mysteryfleshpitnationalpark.com)
 * [2024-08-19, 10:10:34](https://news.ycombinator.com/item?id=41289594) - [The CEO Who Made a Fortune While His Hospital Chain Collapsed](https://www.wsj.com/business/steward-health-ceo-ralph-de-la-torre-deabfe4b)
 * [2024-08-19, 10:03:46](https://news.ycombinator.com/item?id=41289557) - [The Epic Games Store Launches on iOS and Android](https://www.epicgames.com/site/en-US/news/the-epic-games-store-launches-on-mobile)
@@ -16,6 +18,7 @@
 * [2024-08-19, 06:13:13](https://news.ycombinator.com/item?id=41288269) - [Introduction to Information Theory – Edward Witten [video]](https://www.youtube.com/watch?v=XYugyhoohhY)
 * [2024-08-19, 05:23:51](https://news.ycombinator.com/item?id=41288051) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 05:02:56](https://news.ycombinator.com/item?id=41287955) - [The broligarchs are trying to have their way](https://www.theatlantic.com/ideas/archive/2024/08/tech-bro-male-billionaire-anti-democratic/679267/)
+* [2024-08-19, 03:37:54](https://news.ycombinator.com/item?id=41287589) - [How I Became the EEVBlog Guy [video]](https://www.youtube.com/watch?v=riBwRC_CaAA)
 * [2024-08-19, 03:02:52](https://news.ycombinator.com/item?id=41287425) - [Archiving \"The Famous Computer Cafe\"](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
 * [2024-08-19, 02:40:21](https://news.ycombinator.com/item?id=41287326) - [The Charming, Eccentric, Blessed Life of Lee Maxwell](https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/)
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox Is Already the Biggest Game in the World. Why Can't It Make a Profit?](https://www.matthewball.co/all/roblox2024)
