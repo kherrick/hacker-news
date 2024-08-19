@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-19, 05:02:56](https://news.ycombinator.com/item?id=41287955) - [The broligarchs are trying to have their way](https://www.theatlantic.com/ideas/archive/2024/08/tech-bro-male-billionaire-anti-democratic/679267/)
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
 * [2024-08-19, 00:21:54](https://news.ycombinator.com/item?id=41286678) - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
 * [2024-08-18, 23:46:17](https://news.ycombinator.com/item?id=41286509) - [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
 * [2024-08-18, 22:52:37](https://news.ycombinator.com/item?id=41286203) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 * [2024-08-18, 22:25:59](https://news.ycombinator.com/item?id=41286045) - [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
-* [2024-08-18, 21:56:26](https://news.ycombinator.com/item?id=41285851) - [Mike Magee, founder of the Register, has died](https://fudzilla.com/news/59503-mike-mageek-is-dead)
+* [2024-08-18, 21:56:26](https://news.ycombinator.com/item?id=41285851) - [Mike Mageek is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 * [2024-08-18, 21:31:10](https://news.ycombinator.com/item?id=41285665) - [Interposer to fix the Symmetricom SyncServer S200 GPS week rollover problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
 * [2024-08-18, 20:09:40](https://news.ycombinator.com/item?id=41285046) - [NASA acknowledges it cannot quantify risk of Starliner propulsion issues](https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
@@ -28,6 +27,7 @@
 * [2024-08-16, 15:00:39](https://news.ycombinator.com/item?id=41267021) - [Renderings Created with Only a Pencil](https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil)
 * [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [Silicon Graphics Indigo 2 Workstation [video]](https://www.youtube.com/watch?v=1PP--lVTPCQ)
 * [2024-08-15, 05:46:35](https://news.ycombinator.com/item?id=41253409) - [The Quantum Butterfly Effect](https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/)
+* [2024-08-14, 23:06:40](https://news.ycombinator.com/item?id=41251439) - [Trainwreck Design](https://j3s.sh/thought/trainwreck-design.html)
 * [2024-08-14, 22:37:07](https://news.ycombinator.com/item?id=41251256) - [Window-Switcher: Alt+(backtick) same-app window switching for Windows 10/11](https://github.com/sigoden/window-switcher)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [Transponder Landing System enables precision approaches at McMurdo in Antarctica](https://www.flightradar24.com/blog/transponder-landing-system/)
 

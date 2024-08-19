@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
 * [2024-08-14, 23:11:39](https://news.ycombinator.com/item?id=41251499) - [Esoterica Engine](https://www.esotericaengine.com)
+* [2024-08-14, 23:06:40](https://news.ycombinator.com/item?id=41251439) - [Trainwreck Design](https://j3s.sh/thought/trainwreck-design.html)
 * [2024-08-14, 23:03:23](https://news.ycombinator.com/item?id=41251412) - [GitHub Is Down](https://github.com/)
 * [2024-08-14, 22:45:14](https://news.ycombinator.com/item?id=41251312) - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
 * [2024-08-14, 22:37:07](https://news.ycombinator.com/item?id=41251256) - [Window-Switcher: Alt+(backtick) same-app window switching for Windows 10/11](https://github.com/sigoden/window-switcher)
