@@ -9,7 +9,7 @@
 * [2024-08-19, 20:33:25](https://news.ycombinator.com/item?id=41294354) - [Court Sees Through California's 'Protect the Children' Ruse, Strikes Down AADC](https://www.techdirt.com/2024/08/19/court-sees-through-californias-protect-the-children-ruse-strikes-down-kids-code/)
 * [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 20:10:48](https://news.ycombinator.com/item?id=41294202) - ['Rare species' not seen in the area for 50 years spotted on Arizona trail camera](https://phys.org/news/2024-08-rare-species-area-years-arizona.html)
-* [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
+* [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft)
 * [2024-08-19, 19:32:02](https://news.ycombinator.com/item?id=41293929) - [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [2024-08-19, 19:28:22](https://news.ycombinator.com/item?id=41293901) - [Music recommendation system using transformer models](https://research.google/blog/transformers-in-music-recommendation/)
 * [2024-08-19, 19:19:44](https://news.ycombinator.com/item?id=41293850) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/)
