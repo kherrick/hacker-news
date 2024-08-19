@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-19](index.md)
+
+* [2024-08-19, 00:22:13](https://news.ycombinator.com/item?id=41286681) - [Humble Tech Book Bundle: Head First 2024 by O'Reilly](https://www.humblebundle.com/books/head-first-2024-oreilly-books)
+* [2024-08-19, 00:21:54](https://news.ycombinator.com/item?id=41286678) - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)

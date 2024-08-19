@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 22:52:37](https://news.ycombinator.com/item?id=41286203) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
+* [2024-08-18, 22:45:23](https://news.ycombinator.com/item?id=41286163) - [EFF Presses Federal Circuit to Make Patent Case Filings Public](https://www.eff.org/deeplinks/2024/08/eff-presses-federal-circuit-make-patent-case-filings-public)
 * [2024-08-18, 22:25:59](https://news.ycombinator.com/item?id=41286045) - [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
 * [2024-08-18, 21:56:26](https://news.ycombinator.com/item?id=41285851) - [Mike Magee, founder of the Register, is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 * [2024-08-18, 21:31:10](https://news.ycombinator.com/item?id=41285665) - [Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
