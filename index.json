@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-19, 12:55:42",
-      "https://news.ycombinator.com/item?id=41290648"
-    ],
-    [
-      "Mark Simmons' ship joke named funniest of Edinburgh fringe",
-      "https://www.theguardian.com/stage/article/2024/aug/19/mark-simmons-ship-joke-named-funniest-of-edinburgh-fringe"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 12:23:09",
       "https://news.ycombinator.com/item?id=41290409"
     ],
@@ -111,12 +101,12 @@
   ],
   [
     [
-      "2024-08-18, 23:46:17",
-      "https://news.ycombinator.com/item?id=41286509"
+      "2024-08-19, 00:21:54",
+      "https://news.ycombinator.com/item?id=41286678"
     ],
     [
-      "Can a Rust binary use incompatible versions of the same library?",
-      "https://github.com/brannondorsey/rust-incompatible-transitive-dependencies"
+      "The Curious Case of QUEENCREEK",
+      "https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Seven basic rules for causal inference",
       "https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 23:40:31",
+      "https://news.ycombinator.com/item?id=41261661"
+    ],
+    [
+      "Real-Time Mouse Pointers",
+      "https://www.canva.dev/blog/engineering/realtime-mouse-pointers/"
     ]
   ],
   [
