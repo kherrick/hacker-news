@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 12:55:42](https://news.ycombinator.com/item?id=41290648) - [Mark Simmons' ship joke named funniest of Edinburgh fringe](https://www.theguardian.com/stage/article/2024/aug/19/mark-simmons-ship-joke-named-funniest-of-edinburgh-fringe)
+* [2024-08-19, 12:23:09](https://news.ycombinator.com/item?id=41290409) - [Classifying All of the Pdfs on the Internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 * [2024-08-19, 12:00:48](https://news.ycombinator.com/item?id=41290259) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
 * [2024-08-19, 11:57:26](https://news.ycombinator.com/item?id=41290237) - [Bit-Banging a Basic Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 * [2024-08-19, 10:20:12](https://news.ycombinator.com/item?id=41289652) - [Mystery Flesh Pit National Park](https://www.mysteryfleshpitnationalpark.com)
