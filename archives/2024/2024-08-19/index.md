@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 18:32:39](https://news.ycombinator.com/item?id=41293505) - [Everyone's Life Is Weird](https://www.avabear.xyz/p/actually-everyones-life-is-weird)
 * [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
 * [2024-08-19, 17:33:35](https://news.ycombinator.com/item?id=41292945) - [Patrick McKenzie (patio11) podcast on technology, finance, and systems thinking](https://www.complexsystemspodcast.com/)
 * [2024-08-19, 17:20:41](https://news.ycombinator.com/item?id=41292835) - [Modern Unix Tool List](https://notes.billmill.org/computer_usage/cli_tips_and_tools/modern_unix_tool_list.html)

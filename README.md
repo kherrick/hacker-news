@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-19, 18:32:39](https://news.ycombinator.com/item?id=41293505) - [Everyone's Life Is Weird](https://www.avabear.xyz/p/actually-everyones-life-is-weird)
 * [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
 * [2024-08-19, 17:19:55](https://news.ycombinator.com/item?id=41292827) - [Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults](https://sociologicalscience.com/articles-v11-20-553/)
 * [2024-08-19, 17:14:12](https://news.ycombinator.com/item?id=41292784) - [Migrating Mess with DNS to Use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
@@ -28,7 +29,6 @@
 * [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
 * [2024-08-15, 18:22:06](https://news.ycombinator.com/item?id=41258932) - [Stripe's Monorepo Developer Environment](https://blog.nelhage.com/post/stripe-dev-environment/)
-* [2024-08-15, 05:46:35](https://news.ycombinator.com/item?id=41253409) - [The Quantum Butterfly Effect](https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [Transponder Landing System enables precision approaches at McMurdo in Antarctica](https://www.flightradar24.com/blog/transponder-landing-system/)
 
 ## [Archives](archives/index.md)
