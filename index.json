@@ -1,46 +1,6 @@
 [
   [
     [
-      "2024-08-19, 10:20:12",
-      "https://news.ycombinator.com/item?id=41289652"
-    ],
-    [
-      "Mystery Flesh Pit National Park",
-      "https://www.mysteryfleshpitnationalpark.com"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 10:10:34",
-      "https://news.ycombinator.com/item?id=41289594"
-    ],
-    [
-      "The CEO Who Made a Fortune While His Hospital Chain Collapsed",
-      "https://www.wsj.com/business/steward-health-ceo-ralph-de-la-torre-deabfe4b"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 10:03:46",
-      "https://news.ycombinator.com/item?id=41289557"
-    ],
-    [
-      "The Epic Games Store Launches on iOS and Android",
-      "https://www.epicgames.com/site/en-US/news/the-epic-games-store-launches-on-mobile"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 09:31:27",
-      "https://news.ycombinator.com/item?id=41289384"
-    ],
-    [
-      "Blaming Agile for software stagnation puts the wrong villain in the wrong play",
-      "https://www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 08:42:03",
       "https://news.ycombinator.com/item?id=41289114"
     ],
@@ -57,16 +17,6 @@
     [
       "Ask HN: Determine sound quality of a file, objectively?",
       "https://news.ycombinator.com/item?id=41289087"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 08:12:14",
-      "https://news.ycombinator.com/item?id=41288930"
-    ],
-    [
-      "Bootstrap Your SaaS (The Fast Way)",
-      "https://bernhard.hauser.io/bootstrap-your-saas-the-fast-way/"
     ]
   ],
   [
@@ -161,6 +111,16 @@
   ],
   [
     [
+      "2024-08-18, 21:31:10",
+      "https://news.ycombinator.com/item?id=41285665"
+    ],
+    [
+      "Interposer to fix the Symmetricom SyncServer S200 GPS week rollover problem",
+      "https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 20:09:40",
       "https://news.ycombinator.com/item?id=41285046"
     ],
@@ -177,6 +137,26 @@
     [
       "Show HN: PgQueuer – Transform PostgreSQL into a Job Queue",
       "https://github.com/janbjorge/PgQueuer"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 18:47:42",
+      "https://news.ycombinator.com/item?id=41284409"
+    ],
+    [
+      "Algorithms we develop software by",
+      "https://grantslatton.com/software-pathfinding"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 18:37:10",
+      "https://news.ycombinator.com/item?id=41284322"
+    ],
+    [
+      "Leaving Neovim for Zed",
+      "https://stevedylan.dev/posts/leaving-neovim-for-zed/"
     ]
   ],
   [
@@ -237,6 +217,26 @@
     [
       "How the OCaml type checker works (2022)",
       "https://okmij.org/ftp/ML/generalization.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 09:17:25",
+      "https://news.ycombinator.com/item?id=41281176"
+    ],
+    [
+      "UK launches its first Earth-imaging military satellite",
+      "https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite"
+    ]
+  ],
+  [
+    [
+      "2024-08-17, 18:56:36",
+      "https://news.ycombinator.com/item?id=41277014"
+    ],
+    [
+      "Mpv – A free, open-source, and cross-platform media player",
+      "https://mpv.io/"
     ]
   ],
   [
