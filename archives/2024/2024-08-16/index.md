@@ -45,6 +45,7 @@
 * [2024-08-16, 18:08:21](https://news.ycombinator.com/item?id=41268794) - [IEEE and Keysight Team Up to Teach Kids About Electronics](https://spectrum.ieee.org/ieee-and-keysight-team-up-to-teach-kids-about-electronics-2668966742)
 * [2024-08-16, 18:05:04](https://news.ycombinator.com/item?id=41268759) - [A web scraping CLI made for AI that is idempotent](https://github.com/clemlesne/scrape-it-now)
 * [2024-08-16, 17:54:19](https://news.ycombinator.com/item?id=41268671) - [Military sexual assaults far exceed DoD estimates, new report finds](https://www.stripes.com/theaters/us/2024-08-15/military-sexual-assault-numbers-14871731.html)
+* [2024-08-16, 17:18:21](https://news.ycombinator.com/item?id=41268347) - [Behavioral Specialization During the Neolithic–An Evolutionary Model](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2018.00035/full)
 * [2024-08-16, 17:08:10](https://news.ycombinator.com/item?id=41268256) - [The Apple IIGS Megahertz Myth – Userlandia](https://www.userlandia.com/home/iigs-mhz-myth)
 * [2024-08-16, 17:07:38](https://news.ycombinator.com/item?id=41268245) - [FUTO](https://www.futo.org/)
 * [2024-08-16, 17:00:35](https://news.ycombinator.com/item?id=41268185) - [Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform](https://www.ycombinator.com/companies/aviator/jobs)

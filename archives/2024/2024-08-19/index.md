@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
 * [2024-08-19, 17:33:35](https://news.ycombinator.com/item?id=41292945) - [Patrick McKenzie (patio11) podcast on technology, finance, and systems thinking](https://www.complexsystemspodcast.com/)
 * [2024-08-19, 17:20:41](https://news.ycombinator.com/item?id=41292835) - [Modern Unix Tool List](https://notes.billmill.org/computer_usage/cli_tips_and_tools/modern_unix_tool_list.html)
 * [2024-08-19, 17:19:55](https://news.ycombinator.com/item?id=41292827) - [Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults](https://sociologicalscience.com/articles-v11-20-553/)
@@ -11,6 +12,7 @@
 * [2024-08-19, 17:01:07](https://news.ycombinator.com/item?id=41292692) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41292692)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 15:44:53](https://news.ycombinator.com/item?id=41292012) - [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)
+* [2024-08-19, 14:40:42](https://news.ycombinator.com/item?id=41291470) - [Optimizing global message transit latency: a journey through TCP configuration](https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration)
 * [2024-08-19, 14:35:42](https://news.ycombinator.com/item?id=41291425) - [Ollama now supports tool calling with popular models in local LLM](https://ollama.com/blog/tool-support)
 * [2024-08-19, 14:29:48](https://news.ycombinator.com/item?id=41291360) - [Demand for seed-oil-free foods is growing](https://www.foodnavigator.com/Article/2024/07/26/demand-for-seed-oil-free-foods-is-growing)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
