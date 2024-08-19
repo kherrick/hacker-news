@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-19, 19:50:58](https://news.ycombinator.com/item?id=41294075) - [How to Make Wealth as a Startup Founder](https://blog.nishantsoni.com/p/how-to-think-about-liquidity-as-a)
+* [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
 * [2024-08-19, 19:32:02](https://news.ycombinator.com/item?id=41293929) - [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [2024-08-19, 19:19:44](https://news.ycombinator.com/item?id=41293850) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/)
