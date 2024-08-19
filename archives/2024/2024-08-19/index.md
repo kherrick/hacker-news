@@ -6,6 +6,7 @@
 
 * [2024-08-19, 17:33:35](https://news.ycombinator.com/item?id=41292945) - [Patrick McKenzie (patio11) podcast on technology, finance, and systems thinking](https://www.complexsystemspodcast.com/)
 * [2024-08-19, 17:19:55](https://news.ycombinator.com/item?id=41292827) - [Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults](https://sociologicalscience.com/articles-v11-20-553/)
+* [2024-08-19, 17:14:12](https://news.ycombinator.com/item?id=41292784) - [Migrating Mess with DNS to Use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
 * [2024-08-19, 17:01:07](https://news.ycombinator.com/item?id=41292692) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41292692)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 15:44:53](https://news.ycombinator.com/item?id=41292012) - [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)

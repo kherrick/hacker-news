@@ -2,6 +2,7 @@
 
 * [2024-08-19, 17:33:35](https://news.ycombinator.com/item?id=41292945) - [Patrick McKenzie (patio11) podcast on technology, finance, and systems thinking](https://www.complexsystemspodcast.com/)
 * [2024-08-19, 17:19:55](https://news.ycombinator.com/item?id=41292827) - [Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults](https://sociologicalscience.com/articles-v11-20-553/)
+* [2024-08-19, 17:14:12](https://news.ycombinator.com/item?id=41292784) - [Migrating Mess with DNS to Use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
 * [2024-08-19, 17:01:07](https://news.ycombinator.com/item?id=41292692) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41292692)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
@@ -15,7 +16,6 @@
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
 * [2024-08-19, 01:31:05](https://news.ycombinator.com/item?id=41287031) - [FindMy Flipper – AirTag and SmartTag Emulator](https://github.com/MatthewKuKanich/FindMyFlipper)
 * [2024-08-18, 22:52:37](https://news.ycombinator.com/item?id=41286203) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
-* [2024-08-18, 21:56:26](https://news.ycombinator.com/item?id=41285851) - [Mike Mageek is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 * [2024-08-18, 20:09:40](https://news.ycombinator.com/item?id=41285046) - [NASA acknowledges it cannot quantify risk of Starliner propulsion issues](https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 18:28:59](https://news.ycombinator.com/item?id=41284235) - [Debugging operating systems with time-traveling virtual machines (2005) [pdf]](https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf)
