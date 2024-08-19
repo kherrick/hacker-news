@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-19, 19:49:22",
+      "https://news.ycombinator.com/item?id=41294067"
+    ],
+    [
+      "13ft – A site similar to 12ft.io but is self hosted",
+      "https://github.com/wasi-master/13ft"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 19:19:44",
+      "https://news.ycombinator.com/item?id=41293850"
+    ],
+    [
+      "Netboot.xyz: your favorite operating systems in one place",
+      "https://netboot.xyz/"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 18:32:39",
       "https://news.ycombinator.com/item?id=41293505"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-08-18, 16:28:12",
-      "https://news.ycombinator.com/item?id=41283310"
-    ],
-    [
-      "Police cannot seize property indefinitely after an arrest, federal court rules",
-      "https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/"
-    ]
-  ],
-  [
-    [
       "2024-08-18, 14:11:50",
       "https://news.ycombinator.com/item?id=41282495"
     ],
@@ -287,16 +297,6 @@
     [
       "Stripe's Monorepo Developer Environment",
       "https://blog.nelhage.com/post/stripe-dev-environment/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 09:07:00",
-      "https://news.ycombinator.com/item?id=41244137"
-    ],
-    [
-      "Transponder Landing System enables precision approaches at McMurdo in Antarctica",
-      "https://www.flightradar24.com/blog/transponder-landing-system/"
     ]
   ]
 ]
