@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-19, 01:27:44",
+      "https://news.ycombinator.com/item?id=41287014"
+    ],
+    [
+      "Eric Schmidt deleted Stanford interview",
+      "https://www.youtube.com/watch?v=3f6XM6_7pUE"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 00:22:13",
       "https://news.ycombinator.com/item?id=41286681"
     ],
@@ -17,6 +27,16 @@
     [
       "The Curious Case of QUEENCREEK",
       "https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 23:46:17",
+      "https://news.ycombinator.com/item?id=41286509"
+    ],
+    [
+      "Can a Rust binary use incompatible versions of the same library?",
+      "https://github.com/brannondorsey/rust-incompatible-transitive-dependencies"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem",
       "https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 20:09:40",
-      "https://news.ycombinator.com/item?id=41285046"
-    ],
-    [
-      "NASA acknowledges it cannot quantify risk of Starliner propulsion issues",
-      "https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-08-18, 14:24:39",
-      "https://news.ycombinator.com/item?id=41282574"
-    ],
-    [
-      "The Expert Mind [pdf] (2006)",
-      "https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf"
-    ]
-  ],
-  [
-    [
       "2024-08-18, 14:11:50",
       "https://news.ycombinator.com/item?id=41282495"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-08-14, 16:37:20",
-      "https://news.ycombinator.com/item?id=41247991"
+      "2024-08-15, 05:46:35",
+      "https://news.ycombinator.com/item?id=41253409"
     ],
     [
-      "Animate.css: Seamless CSS Animations Across All Browsers",
-      "https://github.com/animate-css/animate.css"
+      "The Quantum Butterfly Effect",
+      "https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/"
     ]
   ],
   [
