@@ -2,7 +2,6 @@
 
 * [2024-08-19, 17:01:07](https://news.ycombinator.com/item?id=41292692) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41292692)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
-* [2024-08-19, 15:44:53](https://news.ycombinator.com/item?id=41292012) - [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
 * [2024-08-19, 13:28:03](https://news.ycombinator.com/item?id=41290890) - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
 * [2024-08-19, 12:23:09](https://news.ycombinator.com/item?id=41290409) - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
@@ -21,6 +20,7 @@
 * [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf] (2006)](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
+* [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
 * [2024-08-16, 23:22:40](https://news.ycombinator.com/item?id=41271248) - [How high speed fiber optic internet cables are made](https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/)
 * [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
