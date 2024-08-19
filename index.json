@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-08-18, 15:40:39",
-      "https://news.ycombinator.com/item?id=41283018"
-    ],
-    [
-      "Noexcept affects libstdc++’s unordered_set",
-      "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/"
-    ]
-  ],
-  [
-    [
       "2024-08-18, 14:24:39",
       "https://news.ycombinator.com/item?id=41282574"
     ],
@@ -247,6 +237,16 @@
     [
       "Renderings Created with Only a Pencil",
       "https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 18:22:06",
+      "https://news.ycombinator.com/item?id=41258932"
+    ],
+    [
+      "Stripe's Monorepo Developer Environment",
+      "https://blog.nelhage.com/post/stripe-dev-environment/"
     ]
   ],
   [
