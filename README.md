@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-19, 21:00:50](https://news.ycombinator.com/item?id=41294553) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-* [2024-08-19, 20:34:28](https://news.ycombinator.com/item?id=41294360) - [The Winamp Era](https://changelog.com/friends/57)
 * [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
 * [2024-08-19, 19:32:02](https://news.ycombinator.com/item?id=41293929) - [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
@@ -30,6 +29,7 @@
 * [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
 * [2024-08-15, 20:34:19](https://news.ycombinator.com/item?id=41260076) - [Designing (Procedural) Monsters (2021) [video]](https://www.youtube.com/watch?v=a87tB__3KEs)
+* [2024-08-15, 18:22:06](https://news.ycombinator.com/item?id=41258932) - [Stripe's Monorepo Developer Environment](https://blog.nelhage.com/post/stripe-dev-environment/)
 
 ## [Archives](archives/index.md)
 
