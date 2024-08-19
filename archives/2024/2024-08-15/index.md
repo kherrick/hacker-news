@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 23:48:59](https://news.ycombinator.com/item?id=41261711) - [Searching a Codebase in English](https://www.greptile.com/blog/semantic)
 * [2024-08-15, 23:40:31](https://news.ycombinator.com/item?id=41261661) - [Real-Time Mouse Pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
 * [2024-08-15, 23:23:30](https://news.ycombinator.com/item?id=41261569) - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 * [2024-08-15, 23:13:50](https://news.ycombinator.com/item?id=41261481) - [Symmetric Power Transformers](https://manifestai.com/articles/symmetric-power-transformers/)

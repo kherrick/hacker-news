@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
 * [2024-08-19, 21:45:56](https://news.ycombinator.com/item?id=41294822) - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
+* [2024-08-19, 21:34:30](https://news.ycombinator.com/item?id=41294764) - [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
 * [2024-08-19, 21:03:50](https://news.ycombinator.com/item?id=41294579) - [Millennials Are Becoming Boomers](https://awealthofcommonsense.com/2024/08/millennials-are-becoming-boomers/)
 * [2024-08-19, 21:01:33](https://news.ycombinator.com/item?id=41294559) - [Scientist performs the first nonlinear study of black hole mimickers](https://phys.org/news/2024-08-scientist-nonlinear-black-hole-mimickers.html)
 * [2024-08-19, 21:00:50](https://news.ycombinator.com/item?id=41294553) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)

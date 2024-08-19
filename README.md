@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-19, 21:45:56](https://news.ycombinator.com/item?id=41294822) - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
+* [2024-08-19, 21:34:30](https://news.ycombinator.com/item?id=41294764) - [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
 * [2024-08-19, 21:01:33](https://news.ycombinator.com/item?id=41294559) - [Scientist performs the first nonlinear study of black hole mimickers](https://phys.org/news/2024-08-scientist-nonlinear-black-hole-mimickers.html)
 * [2024-08-19, 21:00:50](https://news.ycombinator.com/item?id=41294553) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-08-19, 20:54:59](https://news.ycombinator.com/item?id=41294509) - [Late Again](https://randsinrepose.com/archives/late-again/)
@@ -26,9 +27,8 @@
 * [2024-08-19, 01:31:05](https://news.ycombinator.com/item?id=41287031) - [FindMy Flipper – AirTag and SmartTag Emulator](https://github.com/MatthewKuKanich/FindMyFlipper)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
-* [2024-08-16, 17:18:21](https://news.ycombinator.com/item?id=41268347) - [Behavioral Specialization During the Neolithic–An Evolutionary Model (2018)](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2018.00035/full)
-* [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
+* [2024-08-15, 23:48:59](https://news.ycombinator.com/item?id=41261711) - [Searching a Codebase in English](https://www.greptile.com/blog/semantic)
 * [2024-08-15, 20:34:19](https://news.ycombinator.com/item?id=41260076) - [Designing (Procedural) Monsters (2021) [video]](https://www.youtube.com/watch?v=a87tB__3KEs)
 
 ## [Archives](archives/index.md)
