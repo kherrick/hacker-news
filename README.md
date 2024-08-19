@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-19, 14:35:42](https://news.ycombinator.com/item?id=41291425) - [Ollama now supports tool calling with popular models in local LLM](https://ollama.com/blog/tool-support)
 * [2024-08-19, 13:28:03](https://news.ycombinator.com/item?id=41290890) - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
 * [2024-08-19, 12:23:09](https://news.ycombinator.com/item?id=41290409) - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 * [2024-08-19, 12:00:48](https://news.ycombinator.com/item?id=41290259) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
@@ -17,6 +16,7 @@
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 18:28:59](https://news.ycombinator.com/item?id=41284235) - [Debugging operating systems with time-traveling virtual machines (2005) [pdf]](https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf)
 * [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
+* [2024-08-18, 15:21:31](https://news.ycombinator.com/item?id=41282890) - [A Starter's guide on recovering damaged and rotten CDs](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf] (2006)](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
