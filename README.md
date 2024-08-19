@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox Is Already the Biggest Game in the World. Why Can't It Make a Profit?](https://www.matthewball.co/all/roblox2024)
+* [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
 * [2024-08-19, 01:27:44](https://news.ycombinator.com/item?id=41287014) - [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)
 * [2024-08-19, 00:21:54](https://news.ycombinator.com/item?id=41286678) - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
 * [2024-08-18, 23:46:17](https://news.ycombinator.com/item?id=41286509) - [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
