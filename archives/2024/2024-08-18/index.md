@@ -15,6 +15,7 @@
 * [2024-08-18, 20:09:40](https://news.ycombinator.com/item?id=41285046) - [NASA acknowledges it cannot quantify risk of Starliner propulsion issues](https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/)
 * [2024-08-18, 19:48:33](https://news.ycombinator.com/item?id=41284873) - [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: Transform Your PostgreSQL into a Powerful Job Queue](https://github.com/janbjorge/PgQueuer)
+* [2024-08-18, 19:14:27](https://news.ycombinator.com/item?id=41284639) - [Prompt Caching](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching)
 * [2024-08-18, 19:14:27](https://news.ycombinator.com/item?id=41284639) - [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
 * [2024-08-18, 19:10:30](https://news.ycombinator.com/item?id=41284604) - [Stop Using Git Ignore](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
 * [2024-08-18, 19:04:33](https://news.ycombinator.com/item?id=41284549) - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
