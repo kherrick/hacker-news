@@ -13,6 +13,7 @@
 * [2024-08-18, 20:09:40](https://news.ycombinator.com/item?id=41285046) - [NASA acknowledges it cannot quantify risk of Starliner propulsion issues](https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 19:14:27](https://news.ycombinator.com/item?id=41284639) - [Prompt Caching](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching)
+* [2024-08-18, 18:37:10](https://news.ycombinator.com/item?id=41284322) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-18, 18:33:49](https://news.ycombinator.com/item?id=41284285) - [Energy economics and rocket science with Casey Handmer](https://www.complexsystemspodcast.com/episodes/solar-economics/)
 * [2024-08-18, 18:28:59](https://news.ycombinator.com/item?id=41284235) - [Debugging operating systems with time-traveling virtual machines (2005) [pdf]](https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf)
 * [2024-08-18, 16:53:59](https://news.ycombinator.com/item?id=41283479) - [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)
@@ -28,7 +29,6 @@
 * [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [Silicon Graphics Indigo 2 Workstation [video]](https://www.youtube.com/watch?v=1PP--lVTPCQ)
 * [2024-08-15, 05:46:35](https://news.ycombinator.com/item?id=41253409) - [The Quantum Butterfly Effect](https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/)
 * [2024-08-14, 23:06:40](https://news.ycombinator.com/item?id=41251439) - [Trainwreck Design](https://j3s.sh/thought/trainwreck-design.html)
-* [2024-08-14, 22:37:07](https://news.ycombinator.com/item?id=41251256) - [Window-Switcher: Alt+(backtick) same-app window switching for Windows 10/11](https://github.com/sigoden/window-switcher)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [Transponder Landing System enables precision approaches at McMurdo in Antarctica](https://www.flightradar24.com/blog/transponder-landing-system/)
 
 ## [Archives](archives/index.md)
