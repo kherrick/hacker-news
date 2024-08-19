@@ -2,6 +2,7 @@
 
 * [2024-08-19, 21:03:50](https://news.ycombinator.com/item?id=41294579) - [Millennials Are Becoming Boomers](https://awealthofcommonsense.com/2024/08/millennials-are-becoming-boomers/)
 * [2024-08-19, 21:00:50](https://news.ycombinator.com/item?id=41294553) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2024-08-19, 20:54:59](https://news.ycombinator.com/item?id=41294509) - [Late Again](https://randsinrepose.com/archives/late-again/)
 * [2024-08-19, 20:52:56](https://news.ycombinator.com/item?id=41294490) - [Show HN: Robata, macOS window selector: put it on the grill](https://robata.app)
 * [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
@@ -20,7 +21,6 @@
 * [2024-08-19, 08:42:03](https://news.ycombinator.com/item?id=41289114) - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 * [2024-08-19, 03:02:52](https://news.ycombinator.com/item?id=41287425) - [Archiving \"The Famous Computer Cafe\"](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
 * [2024-08-19, 01:31:05](https://news.ycombinator.com/item?id=41287031) - [FindMy Flipper – AirTag and SmartTag Emulator](https://github.com/MatthewKuKanich/FindMyFlipper)
-* [2024-08-18, 22:52:37](https://news.ycombinator.com/item?id=41286203) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 * [2024-08-18, 20:09:40](https://news.ycombinator.com/item?id=41285046) - [NASA acknowledges it cannot quantify risk of Starliner propulsion issues](https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/)
 * [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
@@ -28,8 +28,8 @@
 * [2024-08-16, 17:18:21](https://news.ycombinator.com/item?id=41268347) - [Behavioral Specialization During the Neolithic–An Evolutionary Model (2018)](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2018.00035/full)
 * [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
+* [2024-08-16, 06:23:29](https://news.ycombinator.com/item?id=41263647) - [Venix is a discontinued version of the Unix operating system](https://en.wikipedia.org/wiki/Venix)
 * [2024-08-15, 20:34:19](https://news.ycombinator.com/item?id=41260076) - [Designing (Procedural) Monsters (2021) [video]](https://www.youtube.com/watch?v=a87tB__3KEs)
-* [2024-08-15, 18:22:06](https://news.ycombinator.com/item?id=41258932) - [Stripe's Monorepo Developer Environment](https://blog.nelhage.com/post/stripe-dev-environment/)
 
 ## [Archives](archives/index.md)
 

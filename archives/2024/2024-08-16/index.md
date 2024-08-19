@@ -98,6 +98,7 @@
 * [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [The Games People Play with Cash Flow](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 * [2024-08-16, 06:24:45](https://news.ycombinator.com/item?id=41263656) - [Show HN: Free Online Car Logo Information Website](https://carlogohub.com)
+* [2024-08-16, 06:23:29](https://news.ycombinator.com/item?id=41263647) - [Venix is a discontinued version of the Unix operating system](https://en.wikipedia.org/wiki/Venix)
 * [2024-08-16, 06:16:45](https://news.ycombinator.com/item?id=41263616) - [Cryptominers made $100k from mining at an Airbnb for three weeks](https://www.tomshardware.com/tech-industry/cryptomining/cryptominers-made-100000-dollars-from-mining-at-an-airbnb-for-three-weeks)
 * [2024-08-16, 05:13:24](https://news.ycombinator.com/item?id=41263344) - [Visualization of Consistent Hashing Rings](https://gallery.selfboot.cn/en/algorithms/hashring)
 * [2024-08-16, 04:35:24](https://news.ycombinator.com/item?id=41263203) - [Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
