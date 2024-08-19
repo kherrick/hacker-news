@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-08-19, 01:31:05",
+      "https://news.ycombinator.com/item?id=41287031"
+    ],
+    [
+      "FindMy Flipper – AirTag and SmartTag Emulator",
+      "https://github.com/MatthewKuKanich/FindMyFlipper"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 00:21:54",
       "https://news.ycombinator.com/item?id=41286678"
     ],
@@ -197,16 +207,6 @@
     [
       "Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV",
       "https://github.com/TomWright/dasel"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 10:52:38",
-      "https://news.ycombinator.com/item?id=41281555"
-    ],
-    [
-      "How the OCaml type checker works (2022)",
-      "https://okmij.org/ftp/ML/generalization.html"
     ]
   ],
   [
