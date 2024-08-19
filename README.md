@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-19, 08:37:50](https://news.ycombinator.com/item?id=41289087) - [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
 * [2024-08-19, 07:00:28](https://news.ycombinator.com/item?id=41288507) - [Odigos (YC W23) Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
-* [2024-08-19, 05:23:51](https://news.ycombinator.com/item?id=41288051) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
 * [2024-08-19, 01:31:05](https://news.ycombinator.com/item?id=41287031) - [FindMy Flipper – AirTag and SmartTag Emulator](https://github.com/MatthewKuKanich/FindMyFlipper)
 * [2024-08-19, 00:21:54](https://news.ycombinator.com/item?id=41286678) - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
