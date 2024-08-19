@@ -29,6 +29,7 @@
 * [2024-08-14, 18:19:37](https://news.ycombinator.com/item?id=41248984) - [Apple Pushes Ahead with Tabletop Home Device in Shift to Robotics](https://www.bloomberg.com/news/articles/2024-08-14/apple-pushes-ahead-with-tabletop-home-device-in-shift-to-robotics)
 * [2024-08-14, 18:04:30](https://news.ycombinator.com/item?id=41248847) - [Enzo Biochem must pay $4.5M for lousy security that led to ransomware disaster](https://www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/)
 * [2024-08-14, 17:50:32](https://news.ycombinator.com/item?id=41248707) - [X's new AI image generator will make anything](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
+* [2024-08-14, 17:49:57](https://news.ycombinator.com/item?id=41248701) - [Ask HN: Looking for kids books about famous people](https://news.ycombinator.com/item?id=41248701)
 * [2024-08-14, 17:38:32](https://news.ycombinator.com/item?id=41248564) - [Agile Is for Losers (2020)](https://www.hypermatic.com/articles/agile-is-for-losers/)
 * [2024-08-14, 17:36:47](https://news.ycombinator.com/item?id=41248542) - [Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all](https://news.ycombinator.com/item?id=41248542)
 * [2024-08-14, 17:29:30](https://news.ycombinator.com/item?id=41248460) - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
