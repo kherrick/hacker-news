@@ -22,6 +22,7 @@
 * [2024-08-15, 20:31:24](https://news.ycombinator.com/item?id=41260050) - [Cleaning up the aging brain: Scientists restore brain's trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
 * [2024-08-15, 20:30:37](https://news.ycombinator.com/item?id=41260040) - [Unveiling Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
 * [2024-08-15, 20:16:41](https://news.ycombinator.com/item?id=41259912) - [Unix file access rwx permissions are simple but tricky](https://igoro.pro/a-reminder-unix-file-access-rwx-permissions-are-simple-but-tricky/)
+* [2024-08-15, 20:15:08](https://news.ycombinator.com/item?id=41259900) - [Ask HN: Pragmatic way to avoid supply chain attacks as a developer](https://news.ycombinator.com/item?id=41259900)
 * [2024-08-15, 19:55:28](https://news.ycombinator.com/item?id=41259754) - [Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 * [2024-08-15, 19:39:00](https://news.ycombinator.com/item?id=41259592) - [NeuroAI paper proposes \"Embodied Turing Test\" to evaluate AI (2023)](https://www.nature.com/articles/s41467-023-37180-x)
 * [2024-08-15, 19:19:23](https://news.ycombinator.com/item?id=41259425) - [FoodAnalyze: Instant Food Label Analysis – Free for 24 Hours](https://foodanalyze.com/)
