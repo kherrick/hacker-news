@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-19, 01:27:44](https://news.ycombinator.com/item?id=41287014) - [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)
-* [2024-08-19, 00:22:13](https://news.ycombinator.com/item?id=41286681) - [Humble Tech Book Bundle: Head First 2024 by O'Reilly](https://www.humblebundle.com/books/head-first-2024-oreilly-books)
 * [2024-08-19, 00:21:54](https://news.ycombinator.com/item?id=41286678) - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
 * [2024-08-18, 23:46:17](https://news.ycombinator.com/item?id=41286509) - [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
 * [2024-08-18, 22:52:37](https://news.ycombinator.com/item?id=41286203) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
@@ -29,6 +28,7 @@
 * [2024-08-17, 01:10:59](https://news.ycombinator.com/item?id=41271667) - [Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
 * [2024-08-16, 15:00:39](https://news.ycombinator.com/item?id=41267021) - [Renderings Created with Only a Pencil](https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil)
 * [2024-08-15, 05:46:35](https://news.ycombinator.com/item?id=41253409) - [The Quantum Butterfly Effect](https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/)
+* [2024-08-14, 22:37:07](https://news.ycombinator.com/item?id=41251256) - [Window-Switcher: Alt+(backtick) same-app window switching for Windows 10/11](https://github.com/sigoden/window-switcher)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [How the instrument landing system at Antarctica's McMurdo Station works](https://www.flightradar24.com/blog/transponder-landing-system/)
 
 ## [Archives](archives/index.md)
