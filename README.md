@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-19, 08:39:07](https://news.ycombinator.com/item?id=41289096) - [What comes after the AI crash?](https://disconnect.blog/what-comes-after-the-ai-crash/)
 * [2024-08-19, 08:37:50](https://news.ycombinator.com/item?id=41289087) - [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
 * [2024-08-19, 07:00:28](https://news.ycombinator.com/item?id=41288507) - [Odigos (YC W23) Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
@@ -14,7 +15,6 @@
 * [2024-08-18, 18:47:42](https://news.ycombinator.com/item?id=41284409) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-08-18, 18:37:10](https://news.ycombinator.com/item?id=41284322) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-18, 18:28:59](https://news.ycombinator.com/item?id=41284235) - [Debugging operating systems with time-traveling virtual machines (2005) [pdf]](https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf)
-* [2024-08-18, 16:56:11](https://news.ycombinator.com/item?id=41283497) - [Show HN: I Made a Website for Problems](https://www.theproblemplatform.com/)
 * [2024-08-18, 16:39:40](https://news.ycombinator.com/item?id=41283383) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
 * [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
 * [2024-08-18, 15:21:31](https://news.ycombinator.com/item?id=41282890) - [A Starter's guide on recovering damaged and rotten CDs](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/)
