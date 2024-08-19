@@ -17,6 +17,7 @@
 * [2024-08-19, 14:29:48](https://news.ycombinator.com/item?id=41291360) - [Demand for seed-oil-free foods is growing](https://www.foodnavigator.com/Article/2024/07/26/demand-for-seed-oil-free-foods-is-growing)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
 * [2024-08-19, 13:28:03](https://news.ycombinator.com/item?id=41290890) - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
+* [2024-08-19, 13:07:51](https://news.ycombinator.com/item?id=41290730) - [Wafris – an Open Source Web Application Firewall that lives in your stack](https://wafris.org/)
 * [2024-08-19, 12:55:42](https://news.ycombinator.com/item?id=41290648) - [Mark Simmons' ship joke named funniest of Edinburgh fringe](https://www.theguardian.com/stage/article/2024/aug/19/mark-simmons-ship-joke-named-funniest-of-edinburgh-fringe)
 * [2024-08-19, 12:23:09](https://news.ycombinator.com/item?id=41290409) - [Classifying All of the Pdfs on the Internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 * [2024-08-19, 12:00:48](https://news.ycombinator.com/item?id=41290259) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
