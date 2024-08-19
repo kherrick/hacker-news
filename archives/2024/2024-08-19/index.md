@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 10:20:12](https://news.ycombinator.com/item?id=41289652) - [Mystery Flesh Pit National Park](https://www.mysteryfleshpitnationalpark.com)
+* [2024-08-19, 10:10:34](https://news.ycombinator.com/item?id=41289594) - [The CEO Who Made a Fortune While His Hospital Chain Collapsed](https://www.wsj.com/business/steward-health-ceo-ralph-de-la-torre-deabfe4b)
 * [2024-08-19, 10:03:46](https://news.ycombinator.com/item?id=41289557) - [The Epic Games Store Launches on iOS and Android](https://www.epicgames.com/site/en-US/news/the-epic-games-store-launches-on-mobile)
 * [2024-08-19, 09:31:27](https://news.ycombinator.com/item?id=41289384) - [Blaming Agile for software stagnation puts the wrong villain in the wrong play](https://www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/)
 * [2024-08-19, 08:42:03](https://news.ycombinator.com/item?id=41289114) - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
