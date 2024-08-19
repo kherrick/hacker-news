@@ -2,7 +2,6 @@
 
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 15:44:53](https://news.ycombinator.com/item?id=41292012) - [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)
-* [2024-08-19, 14:35:42](https://news.ycombinator.com/item?id=41291425) - [Ollama now supports tool calling with popular models in local LLM](https://ollama.com/blog/tool-support)
 * [2024-08-19, 13:28:03](https://news.ycombinator.com/item?id=41290890) - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
 * [2024-08-19, 12:23:09](https://news.ycombinator.com/item?id=41290409) - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 * [2024-08-19, 12:00:48](https://news.ycombinator.com/item?id=41290259) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
@@ -25,6 +24,7 @@
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
 * [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
 * [2024-08-16, 23:22:40](https://news.ycombinator.com/item?id=41271248) - [How high speed fiber optic internet cables are made](https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/)
+* [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
 * [2024-08-15, 18:22:06](https://news.ycombinator.com/item?id=41258932) - [Stripe's Monorepo Developer Environment](https://blog.nelhage.com/post/stripe-dev-environment/)
 * [2024-08-15, 05:46:35](https://news.ycombinator.com/item?id=41253409) - [The Quantum Butterfly Effect](https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/)
