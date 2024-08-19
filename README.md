@@ -28,8 +28,8 @@
 * [2024-08-16, 17:18:21](https://news.ycombinator.com/item?id=41268347) - [Behavioral Specialization During the Neolithic–An Evolutionary Model (2018)](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2018.00035/full)
 * [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
+* [2024-08-15, 20:34:19](https://news.ycombinator.com/item?id=41260076) - [Designing (Procedural) Monsters (2021) [video]](https://www.youtube.com/watch?v=a87tB__3KEs)
 * [2024-08-15, 18:22:06](https://news.ycombinator.com/item?id=41258932) - [Stripe's Monorepo Developer Environment](https://blog.nelhage.com/post/stripe-dev-environment/)
-* [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [Transponder Landing System enables precision approaches at McMurdo in Antarctica](https://www.flightradar24.com/blog/transponder-landing-system/)
 
 ## [Archives](archives/index.md)
 
