@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-19, 21:00:50",
+      "https://news.ycombinator.com/item?id=41294553"
+    ],
+    [
+      "UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance",
+      "https://up.codes/careers?utm_source=HN"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 20:34:28",
+      "https://news.ycombinator.com/item?id=41294360"
+    ],
+    [
+      "The Winamp Era",
+      "https://changelog.com/friends/57"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 20:29:45",
       "https://news.ycombinator.com/item?id=41294332"
     ],
@@ -27,6 +47,16 @@
     [
       "Lenticular Clock",
       "https://www.instructables.com/Lenticular-Clock/"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 19:28:22",
+      "https://news.ycombinator.com/item?id=41293901"
+    ],
+    [
+      "Music recommendation system using transformer models",
+      "https://research.google/blog/transformers-in-music-recommendation/"
     ]
   ],
   [
@@ -81,12 +111,12 @@
   ],
   [
     [
-      "2024-08-19, 17:01:07",
-      "https://news.ycombinator.com/item?id=41292692"
+      "2024-08-19, 16:53:09",
+      "https://news.ycombinator.com/item?id=41292633"
     ],
     [
-      "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
-      "https://news.ycombinator.com/item?id=41292692"
+      "LLMs know more than what they say",
+      "https://arjunbansal.substack.com/p/llms-know-more-than-what-they-say"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-08-19, 02:40:21",
-      "https://news.ycombinator.com/item?id=41287326"
-    ],
-    [
-      "The Charming, Eccentric, Blessed Life of Lee Maxwell",
-      "https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 01:31:05",
       "https://news.ycombinator.com/item?id=41287031"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-08-16, 23:22:40",
-      "https://news.ycombinator.com/item?id=41271248"
-    ],
-    [
-      "How high speed fiber optic internet cables are made",
-      "https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/"
-    ]
-  ],
-  [
-    [
       "2024-08-16, 17:40:10",
       "https://news.ycombinator.com/item?id=41268540"
     ],
@@ -287,16 +297,6 @@
     [
       "Designing (Procedural) Monsters (2021) [video]",
       "https://www.youtube.com/watch?v=a87tB__3KEs"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 18:22:06",
-      "https://news.ycombinator.com/item?id=41258932"
-    ],
-    [
-      "Stripe's Monorepo Developer Environment",
-      "https://blog.nelhage.com/post/stripe-dev-environment/"
     ]
   ]
 ]
