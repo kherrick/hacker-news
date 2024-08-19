@@ -90,6 +90,7 @@
 * [2024-08-16, 07:39:24](https://news.ycombinator.com/item?id=41264070) - [Pixel smartphones delivered with secret but inactive remote maintenance](https://www.heise.de/en/news/Pixel-smartphones-delivered-with-secret-but-inactive-remote-maintenance-9836887.html)
 * [2024-08-16, 07:36:17](https://news.ycombinator.com/item?id=41264046) - [From Bede (731) to BONE (1991-2004): A sparrow's flight through the ages](https://thijsporck.com/2020/07/27/from-bede-731-to-bone-1991-2004-a-sparrows-flight-through-the-ages/)
 * [2024-08-16, 07:20:02](https://news.ycombinator.com/item?id=41263951) - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
+* [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
 * [2024-08-16, 07:12:23](https://news.ycombinator.com/item?id=41263912) - [Show HN: A ninja's Handbook: A book on privacy, security, and anonymity online](https://zolagonano.github.io/a-ninjas-handbook/)
 * [2024-08-16, 07:03:17](https://news.ycombinator.com/item?id=41263855) - [The Games People Play with Cash Flow](https://commoncog.com/cash-flow-games/)
 * [2024-08-16, 07:01:49](https://news.ycombinator.com/item?id=41263843) - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)

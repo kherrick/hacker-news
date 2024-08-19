@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 08:42:03](https://news.ycombinator.com/item?id=41289114) - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 * [2024-08-19, 08:39:07](https://news.ycombinator.com/item?id=41289096) - [What comes after the AI crash?](https://disconnect.blog/what-comes-after-the-ai-crash/)
 * [2024-08-19, 08:37:50](https://news.ycombinator.com/item?id=41289087) - [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
+* [2024-08-19, 08:12:14](https://news.ycombinator.com/item?id=41288930) - [Bootstrap Your SaaS (The Fast Way)](https://bernhard.hauser.io/bootstrap-your-saas-the-fast-way/)
 * [2024-08-19, 07:00:28](https://news.ycombinator.com/item?id=41288507) - [Odigos (YC W23) Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
 * [2024-08-19, 06:13:13](https://news.ycombinator.com/item?id=41288269) - [Introduction to Information Theory – Edward Witten [video]](https://www.youtube.com/watch?v=XYugyhoohhY)
 * [2024-08-19, 05:23:51](https://news.ycombinator.com/item?id=41288051) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
