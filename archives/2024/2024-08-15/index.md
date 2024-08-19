@@ -54,6 +54,7 @@
 * [2024-08-15, 15:44:53](https://news.ycombinator.com/item?id=41257369) - [Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
 * [2024-08-15, 15:44:00](https://news.ycombinator.com/item?id=41257362) - [Keep uBlock Origin in Chrome for another year by enabling Enterprise policy](https://www.ghacks.net/2024/08/15/google-is-killing-ublock-origin-in-chrome-but-this-trick-lets-you-keep-it-for-another-year/)
 * [2024-08-15, 15:30:31](https://news.ycombinator.com/item?id=41257223) - [Eric Schmidt Walks Back Claim Google Is Behind on AI Because of Remote Work](https://www.msn.com/en-us/money/companies/eric-schmidt-walks-back-claim-google-is-behind-on-ai-because-of-remote-work/ar-AA1oO2my)
+* [2024-08-15, 15:10:53](https://news.ycombinator.com/item?id=41257000) - [Fantastical Creatures](https://semiengineering.com/fantastical-creatures/)
 * [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
 * [2024-08-15, 14:37:00](https://news.ycombinator.com/item?id=41256660) - [Food banks prevented 1.8M metric tons of carbon emissions last year](https://grist.org/food-and-agriculture/food-banks-mitigated-1-8-million-metric-tons-of-co2-emissions-globally-last-year/)
 * [2024-08-15, 14:33:51](https://news.ycombinator.com/item?id=41256623) - [Private, Secure and Uncensorable Messaging over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/)
