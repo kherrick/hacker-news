@@ -129,147 +129,66 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="41291219">
+        <section id="41292018">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=41291219"
-              >Launch HN: Sorcerer (YC S24) – Weather balloons that collect more
-              data</a
+            <a
+              class="item"
+              href="https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/"
+              >The gigantic and unregulated power plants in the cloud</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-19 @ 14:13:36</span
+              <span>2024-08-19 @ 15:45:19</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41291219"
+                ><a href="https://news.ycombinator.com/item?id=41292018"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
-            <div class="text">
-              <a href="https://sorcerer.earth">https://sorcerer.earth</a>).
-              Sorcerer builds weather balloons that last for over six months,
-              collecting 1000x more data per dollar and reaching previously
-              inaccessible regions.
-              <p>
-                In 1981, weather disasters caused $3.5 billion in damages in the
-                United States. In 2023, that number was $94.9 billion (<a
-                  href="https://www.ncei.noaa.gov/access/billions/time-series"
-                  >https://www.ncei.noaa.gov/access/billions/time-series</a
-                >). The National Weather Service spends billions annually on its
-                network of weather balloons, satellites, and aircraft sensors –
-                generating hundreds of terabytes of data every day. This data,
-                called observation data, is fed into massive supercomputers
-                running advanced physics to produce global weather forecasts.
-                Despite this cost, there are still places in the US where we
-                don't know what the temperature will be two days from now:
-                <a
-                  href="https://www.washingtonpost.com/climate-environment/interactive/2024/how-accurate-is-the-weather-forecast/"
-                  >https://www.washingtonpost.com/climate-environment/interacti...</a
-                >. And for the rest of the world that lacks weather
-                infrastructure? There’s always the Weather Rock:
-                <a href="https://en.wikipedia.org/wiki/Weather_rock"
-                  >https://en.wikipedia.org/wiki/Weather_rock</a
-                >.
-              </p>
-              <p>
-                The most important data for these forecasts come from vertical
-                data ‘slices’ of the atmosphere, called soundings. Every day
-                2,500 single-use latex radiosondes are launched across the globe
-                to collect these soundings. They stay aloft for about two hours
-                before popping and falling back to Earth. Launch sites for these
-                systems are sparse in Latin America and Africa, and they’re
-                completely non-existent over oceans. This leaves about 80% of
-                the globe with inadequate weather data for accurate predictions.
-              </p>
-              <p>
-                The coverage gap became painfully evident to Max and Alex during
-                their time at Urban Sky. While building balloons for
-                high-altitude aerial imaging, they kept running into a problem:
-                no matter what weather forecast they used, they couldn’t get
-                accurate wind predictions for the upper atmosphere. They tried
-                all of the free and commercial forecast products, but none of
-                them were accurate enough. Digging into it more, we learned that
-                a big part of the problem was the lack of high-quality in-situ
-                data at those altitudes.
-              </p>
-              <p>
-                To solve this problem, our systems ascend and descend between
-                sea level and 65,000ft several times a day to collect vertical
-                data soundings. Each vehicle (balloon + payload) weighs less
-                than a pound and can be launched from anywhere in the world, per
-                the FAA and ICAO reg. Here’s one we launched from Potrero Hill
-                in SF,
-                <a href="https://youtu.be/75fN5WpRWH0"
-                  >https://youtu.be/75fN5WpRWH0</a
-                >
-                and here’s another near the Golden Gate Bridge,
-                <a href="https://youtu.be/7yLmzLPUFVQ"
-                  >https://youtu.be/7yLmzLPUFVQ</a
-                >. Although we can’t “drive” these balloons laterally, we can
-                use opposing wind layers to target or avoid specific regions.
-                Here’s what a few simulated flight paths look like, to give you
-                an idea:
-                <a href="https://youtu.be/F_Di8cjaEUY"
-                  >https://youtu.be/F_Di8cjaEUY</a
-                >
-              </p>
-              <p>
-                Our payload uses a satellite transceiver for communications and
-                a small, thin film solar panel array to generate power. In
-                addition to the weather data, we also get real-time telemetry
-                from the vehicles, which we use to optimize their flight paths.
-                This includes maintaining the optimal spacing between balloons
-                and steering them to a recovery zone at the end of their
-                lifespan so we can recycle them.
-              </p>
-              <p>
-                These systems spend most of their time in the stratosphere which
-                is an extremely unforgiving environment. We’ll often see
-                temperatures as low as -80°C while flying near the equator.
-                Throughout the day, we experience extreme temperature cycling as
-                they ascend and descend through the atmosphere. We’ll often
-                encounter 100mph+ wind shears near the boundary with the
-                troposphere (the tropopause) that can rip apart the balloon
-                envelope. These conditions make the stratosphere a very
-                difficult place to deploy to prod.
-              </p>
-              <p>
-                The real magic of what we’re building will come into play when
-                we have hundreds of these systems in the air over data-sparse
-                regions. But even now, we can do useful and interesting things
-                with them. Some of our early customers are companies who fly
-                very big, very expensive things into the stratosphere. They use
-                our balloons to give them a clear idea of what conditions are
-                ahead of their operations, and we’re working on a forecast
-                product specifically designed for the stratosphere.
-              </p>
-              <p>
-                The combination of long duration and low cost is novel. We can
-                theoretically maintain thousands of balloons in the atmosphere
-                at any given time for a tenth of the cost of one useful weather
-                satellite. We’re also using the data we collect to train AI
-                models that produce forecasts with better accuracy than existing
-                numerical (supercomputer) forecasts. Because we’re collecting
-                totally unique data over areas that lack observation, our models
-                will maintain a consistent edge versus models that are only
-                trained on open data.
-              </p>
-              <p>
-                We’re really excited to be launching Sorcerer here with you!
-                We’d love to hear what you think. And if you find one of our
-                balloons in the Bay Area: Sorry! It’s still a work in progress
-                (and please get it back to us).
-              </p>
-              <p>
-                I’ll leave you all with a bonus video of Paul Buchheit launching
-                one of our balloons, which we thought was pretty cool:
-                <a href="https://www.youtube.com/watch?v=-sngF9VvDzg"
-                  >https://www.youtube.com/watch?v=-sngF9VvDzg</a
-                >
-              </p>
-            </div>
+          </section>
+        </section>
+        <section id="41292012">
+          <h3>
+            <a
+              class="item"
+              href="https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/"
+              >Wyoming mayoral candidate vows to let an AI bot run Cheyenne</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-19 @ 15:44:53</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41292012"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41291425">
+          <h3>
+            <a class="item" href="https://ollama.com/blog/tool-support"
+              >Ollama now supports tool calling with popular models in local
+              LLM</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-19 @ 14:35:42</span
+              ><span class="points-container"
+                >Points: <span class="points">65</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41291425"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="41290890">
@@ -284,11 +203,11 @@
             <h4>
               <span>2024-08-19 @ 13:28:03</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41290890"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -305,11 +224,11 @@
             <h4>
               <span>2024-08-19 @ 12:23:09</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41290409"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -341,11 +260,11 @@
             <h4>
               <span>2024-08-19 @ 11:57:26</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41290237"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -361,7 +280,7 @@
             <h4>
               <span>2024-08-19 @ 10:07:31</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41289575"
                   >Comments</a
@@ -383,11 +302,11 @@
             <h4>
               <span>2024-08-19 @ 08:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">236</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41289114"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -404,11 +323,11 @@
             <h4>
               <span>2024-08-19 @ 03:02:52</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41287425"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -444,11 +363,11 @@
             <h4>
               <span>2024-08-19 @ 01:45:56</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">342</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41287099"
                   >Comments</a
-                ><span class="descendants">: 374</span></span
+                ><span class="descendants">: 379</span></span
               >
             </h4>
           </section>
@@ -465,11 +384,11 @@
             <h4>
               <span>2024-08-19 @ 01:31:05</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41287031"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -486,11 +405,11 @@
             <h4>
               <span>2024-08-18 @ 22:52:37</span
               ><span class="points-container"
-                >Points: <span class="points">413</span></span
+                >Points: <span class="points">417</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41286203"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 188</span></span
               >
             </h4>
           </section>
@@ -507,11 +426,11 @@
             <h4>
               <span>2024-08-18 @ 21:56:26</span
               ><span class="points-container"
-                >Points: <span class="points">312</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41285851"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -529,11 +448,11 @@
             <h4>
               <span>2024-08-18 @ 20:09:40</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41285046"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 262</span></span
               >
             </h4>
           </section>
@@ -548,7 +467,7 @@
             <h4>
               <span>2024-08-18 @ 19:22:31</span
               ><span class="points-container"
-                >Points: <span class="points">317</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41284703"
                   >Comments</a
@@ -576,7 +495,7 @@
             <h4>
               <span>2024-08-18 @ 18:28:59</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41284235"
                   >Comments</a
@@ -598,32 +517,11 @@
             <h4>
               <span>2024-08-18 @ 16:28:12</span
               ><span class="points-container"
-                >Points: <span class="points">726</span></span
+                >Points: <span class="points">730</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41283310"
                   >Comments</a
-                ><span class="descendants">: 328</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41282890">
-          <h3>
-            <a
-              class="item"
-              href="https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/"
-              >A Starter's guide on recovering damaged and rotten CDs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-18 @ 15:21:31</span
-              ><span class="points-container"
-                >Points: <span class="points">54</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41282890"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 331</span></span
               >
             </h4>
           </section>
@@ -640,7 +538,7 @@
             <h4>
               <span>2024-08-18 @ 14:24:39</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41282574"
                   >Comments</a
@@ -660,7 +558,7 @@
             <h4>
               <span>2024-08-18 @ 14:11:50</span
               ><span class="points-container"
-                >Points: <span class="points">413</span></span
+                >Points: <span class="points">414</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41282495"
                   >Comments</a
@@ -679,7 +577,7 @@
             <h4>
               <span>2024-08-18 @ 11:24:02</span
               ><span class="points-container"
-                >Points: <span class="points">199</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41281665"
                   >Comments</a
@@ -698,11 +596,11 @@
             <h4>
               <span>2024-08-18 @ 10:52:38</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41281555"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -719,7 +617,7 @@
             <h4>
               <span>2024-08-18 @ 09:17:25</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41281176"
                   >Comments</a
@@ -740,11 +638,11 @@
             <h4>
               <span>2024-08-16 @ 23:22:40</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41271248"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -761,11 +659,11 @@
             <h4>
               <span>2024-08-16 @ 07:14:57</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41263928"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -782,11 +680,11 @@
             <h4>
               <span>2024-08-15 @ 18:22:06</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41258932"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -803,30 +701,11 @@
             <h4>
               <span>2024-08-15 @ 05:46:35</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41253409"
                   >Comments</a
                 ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41252926">
-          <h3>
-            <a class="item" href="https://www.payphone-project.com/"
-              >The Payphone Project</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-15 @ 03:37:05</span
-              ><span class="points-container"
-                >Points: <span class="points">21</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41252926"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -844,11 +723,11 @@
             <h4>
               <span>2024-08-14 @ 13:11:24</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41245692"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -866,7 +745,7 @@
             <h4>
               <span>2024-08-14 @ 09:07:00</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41244137"
                   >Comments</a
