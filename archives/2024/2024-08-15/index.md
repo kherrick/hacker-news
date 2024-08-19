@@ -60,6 +60,7 @@
 * [2024-08-15, 14:39:10](https://news.ycombinator.com/item?id=41256692) - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
 * [2024-08-15, 14:37:00](https://news.ycombinator.com/item?id=41256660) - [Food banks prevented 1.8M metric tons of carbon emissions last year](https://grist.org/food-and-agriculture/food-banks-mitigated-1-8-million-metric-tons-of-co2-emissions-globally-last-year/)
 * [2024-08-15, 14:33:51](https://news.ycombinator.com/item?id=41256623) - [Private, Secure and Uncensorable Messaging over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/)
+* [2024-08-15, 14:24:24](https://news.ycombinator.com/item?id=41256498) - [Show HN: Fast Incremental Plaintext Searcher](https://ksylvestre.itch.io/mightygrep)
 * [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 * [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [A $36,000 Graphical Workstation from 1993 – SGI Indigo 2](https://www.youtube.com/watch?v=1PP--lVTPCQ)
 * [2024-08-15, 14:18:13](https://news.ycombinator.com/item?id=41256401) - [Show HN: Mindtown.ai – an open source Midjourney alternative built on top FLUX](https://mindtown.ai/)

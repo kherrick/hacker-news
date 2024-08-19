@@ -23,11 +23,11 @@
 * [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
 * [2024-08-18, 09:17:25](https://news.ycombinator.com/item?id=41281176) - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
-* [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-16, 23:22:40](https://news.ycombinator.com/item?id=41271248) - [How high speed fiber optic internet cables are made](https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
 * [2024-08-16, 05:13:24](https://news.ycombinator.com/item?id=41263344) - [Visualization of Consistent Hashing Rings](https://gallery.selfboot.cn/en/algorithms/hashring)
 * [2024-08-15, 18:22:06](https://news.ycombinator.com/item?id=41258932) - [Stripe's Monorepo Developer Environment](https://blog.nelhage.com/post/stripe-dev-environment/)
+* [2024-08-15, 14:24:24](https://news.ycombinator.com/item?id=41256498) - [Show HN: Fast Incremental Plaintext Searcher](https://ksylvestre.itch.io/mightygrep)
 * [2024-08-15, 05:46:35](https://news.ycombinator.com/item?id=41253409) - [The Quantum Butterfly Effect](https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [Transponder Landing System enables precision approaches at McMurdo in Antarctica](https://www.flightradar24.com/blog/transponder-landing-system/)
 
