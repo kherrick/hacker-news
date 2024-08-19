@@ -91,6 +91,7 @@
 * [2024-08-15, 07:54:02](https://news.ycombinator.com/item?id=41253922) - [Nomad, communicate off-grid mesh, forward secrecy and extreme privacy](https://github.com/markqvist/NomadNet)
 * [2024-08-15, 07:42:28](https://news.ycombinator.com/item?id=41253870) - [WriteFreely: An open source platform for building a writing space on the web](https://writefreely.org/)
 * [2024-08-15, 07:40:35](https://news.ycombinator.com/item?id=41253860) - [How we migrated GOV.UK Notify to AWS Elastic Container Service](https://gds.blog.gov.uk/2024/08/14/how-we-migrated-gov-uk-notify-to-aws-elastic-container-service/)
+* [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 * [2024-08-15, 07:07:08](https://news.ycombinator.com/item?id=41253720) - [Open-source utils for devs who don't like ads](https://github.com/jamdotdev/jam-dev-utilities)
 * [2024-08-15, 07:00:29](https://news.ycombinator.com/item?id=41253691) - [Legalist (YC S16) Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
 * [2024-08-15, 06:51:03](https://news.ycombinator.com/item?id=41253657) - [Metaprogramming in Bash](http://adam.younglogic.com/2024/08/metaprogramming-in-bash/)

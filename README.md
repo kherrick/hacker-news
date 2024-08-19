@@ -24,12 +24,12 @@
 * [2024-08-19, 08:42:03](https://news.ycombinator.com/item?id=41289114) - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 * [2024-08-19, 03:02:52](https://news.ycombinator.com/item?id=41287425) - [Archiving \"The Famous Computer Cafe\"](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
 * [2024-08-19, 01:31:05](https://news.ycombinator.com/item?id=41287031) - [FindMy Flipper – AirTag and SmartTag Emulator](https://github.com/MatthewKuKanich/FindMyFlipper)
-* [2024-08-18, 19:22:31](https://news.ycombinator.com/item?id=41284703) - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 * [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
 * [2024-08-16, 14:26:55](https://news.ycombinator.com/item?id=41266748) - [Vaseline and Uranium Glass (ca. 1930s)](https://www.orau.org/health-physics-museum/collection/consumer/glass/vaseline-uranium-glass.html)
 * [2024-08-16, 07:14:57](https://news.ycombinator.com/item?id=41263928) - [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
 * [2024-08-15, 23:48:59](https://news.ycombinator.com/item?id=41261711) - [Searching a Codebase in English](https://www.greptile.com/blog/semantic)
 * [2024-08-15, 20:34:19](https://news.ycombinator.com/item?id=41260076) - [Designing (Procedural) Monsters (2021) [video]](https://www.youtube.com/watch?v=a87tB__3KEs)
+* [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 
 ## [Archives](archives/index.md)
 
