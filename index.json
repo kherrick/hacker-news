@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-19, 21:01:33",
+      "https://news.ycombinator.com/item?id=41294559"
+    ],
+    [
+      "Scientist performs the first nonlinear study of black hole mimickers",
+      "https://phys.org/news/2024-08-scientist-nonlinear-black-hole-mimickers.html"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 21:00:50",
       "https://news.ycombinator.com/item?id=41294553"
     ],
@@ -237,16 +247,6 @@
     [
       "Show HN: PgQueuer – Transform PostgreSQL into a Job Queue",
       "https://github.com/janbjorge/PgQueuer"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 14:11:50",
-      "https://news.ycombinator.com/item?id=41282495"
-    ],
-    [
-      "Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV",
-      "https://github.com/TomWright/dasel"
     ]
   ],
   [
