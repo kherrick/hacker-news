@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
 * [2024-08-19, 07:00:28](https://news.ycombinator.com/item?id=41288507) - [Odigos (YC W23) Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
+* [2024-08-19, 06:13:13](https://news.ycombinator.com/item?id=41288269) - [Introduction to Information Theory – Edward Witten [video]](https://www.youtube.com/watch?v=XYugyhoohhY)
 * [2024-08-19, 05:23:51](https://news.ycombinator.com/item?id=41288051) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 05:02:56](https://news.ycombinator.com/item?id=41287955) - [The broligarchs are trying to have their way](https://www.theatlantic.com/ideas/archive/2024/08/tech-bro-male-billionaire-anti-democratic/679267/)
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox Is Already the Biggest Game in the World. Why Can't It Make a Profit?](https://www.matthewball.co/all/roblox2024)

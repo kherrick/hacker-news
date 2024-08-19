@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-19, 07:00:28](https://news.ycombinator.com/item?id=41288507) - [Odigos (YC W23) Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
+* [2024-08-19, 06:13:13](https://news.ycombinator.com/item?id=41288269) - [Introduction to Information Theory – Edward Witten [video]](https://www.youtube.com/watch?v=XYugyhoohhY)
 * [2024-08-19, 05:23:51](https://news.ycombinator.com/item?id=41288051) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 01:45:56](https://news.ycombinator.com/item?id=41287099) - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
 * [2024-08-19, 00:21:54](https://news.ycombinator.com/item?id=41286678) - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
@@ -19,7 +20,6 @@
 * [2024-08-18, 16:28:12](https://news.ycombinator.com/item?id=41283310) - [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf] (2006)](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
-* [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
 * [2024-08-17, 01:10:59](https://news.ycombinator.com/item?id=41271667) - [Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
 * [2024-08-16, 23:22:40](https://news.ycombinator.com/item?id=41271248) - [How high speed fiber optic internet cables are made](https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/)
