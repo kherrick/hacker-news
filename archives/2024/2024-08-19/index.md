@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 13:28:03](https://news.ycombinator.com/item?id=41290890) - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
 * [2024-08-19, 12:55:42](https://news.ycombinator.com/item?id=41290648) - [Mark Simmons' ship joke named funniest of Edinburgh fringe](https://www.theguardian.com/stage/article/2024/aug/19/mark-simmons-ship-joke-named-funniest-of-edinburgh-fringe)
 * [2024-08-19, 12:23:09](https://news.ycombinator.com/item?id=41290409) - [Classifying All of the Pdfs on the Internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 * [2024-08-19, 12:00:48](https://news.ycombinator.com/item?id=41290259) - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
