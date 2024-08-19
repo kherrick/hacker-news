@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-08-19, 06:13:13",
-      "https://news.ycombinator.com/item?id=41288269"
-    ],
-    [
-      "Introduction to Information Theory – Edward Witten [video]",
-      "https://www.youtube.com/watch?v=XYugyhoohhY"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 05:23:51",
       "https://news.ycombinator.com/item?id=41288051"
     ],
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2024-08-18, 22:25:59",
-      "https://news.ycombinator.com/item?id=41286045"
-    ],
-    [
-      "Google took three months to remove scam app that stole over $5M",
-      "https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit"
-    ]
-  ],
-  [
-    [
       "2024-08-18, 21:56:26",
       "https://news.ycombinator.com/item?id=41285851"
     ],
@@ -131,12 +111,12 @@
   ],
   [
     [
-      "2024-08-18, 19:14:27",
-      "https://news.ycombinator.com/item?id=41284639"
+      "2024-08-18, 18:47:42",
+      "https://news.ycombinator.com/item?id=41284409"
     ],
     [
-      "Prompt Caching",
-      "https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching"
+      "Algorithms we develop software by",
+      "https://grantslatton.com/software-pathfinding"
     ]
   ],
   [
@@ -171,12 +151,22 @@
   ],
   [
     [
-      "2024-08-18, 16:53:59",
-      "https://news.ycombinator.com/item?id=41283479"
+      "2024-08-18, 16:39:40",
+      "https://news.ycombinator.com/item?id=41283383"
     ],
     [
-      "Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more",
-      "https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php"
+      "Fear Not the Association of Types",
+      "https://gavinleroy.com/writings/i-heart-assoc-types.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 16:36:19",
+      "https://news.ycombinator.com/item?id=41283367"
+    ],
+    [
+      "Bold Edit: An editor written by power users",
+      "https://bold-edit.com"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Police cannot seize property indefinitely after an arrest, federal court rules",
       "https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 15:40:39",
+      "https://news.ycombinator.com/item?id=41283018"
+    ],
+    [
+      "Noexcept affects libstdc++’s unordered_set",
+      "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/"
     ]
   ],
   [
@@ -211,6 +211,36 @@
   ],
   [
     [
+      "2024-08-18, 11:24:02",
+      "https://news.ycombinator.com/item?id=41281665"
+    ],
+    [
+      "Getting back into C programming for CP/M",
+      "https://kevinboone.me/cpm-c.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 10:52:38",
+      "https://news.ycombinator.com/item?id=41281555"
+    ],
+    [
+      "How the OCaml type checker works (2022)",
+      "https://okmij.org/ftp/ML/generalization.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 09:17:25",
+      "https://news.ycombinator.com/item?id=41281176"
+    ],
+    [
+      "UK launches its first Earth-imaging military satellite",
+      "https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 01:10:59",
       "https://news.ycombinator.com/item?id=41271667"
     ],
@@ -227,16 +257,6 @@
     [
       "How high speed fiber optic internet cables are made",
       "https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 15:00:39",
-      "https://news.ycombinator.com/item?id=41267021"
-    ],
-    [
-      "Renderings Created with Only a Pencil",
-      "https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-08-15, 14:19:16",
-      "https://news.ycombinator.com/item?id=41256414"
-    ],
-    [
-      "Silicon Graphics Indigo 2 Workstation [video]",
-      "https://www.youtube.com/watch?v=1PP--lVTPCQ"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 05:46:35",
       "https://news.ycombinator.com/item?id=41253409"
     ],
     [
       "The Quantum Butterfly Effect",
       "https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 23:06:40",
-      "https://news.ycombinator.com/item?id=41251439"
-    ],
-    [
-      "Trainwreck Design",
-      "https://j3s.sh/thought/trainwreck-design.html"
     ]
   ],
   [
