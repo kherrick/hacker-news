@@ -21,6 +21,7 @@
 * [2024-08-18, 15:40:39](https://news.ycombinator.com/item?id=41283018) - [Noexcept affects libstdc++’s unordered_set](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-18, 14:24:39](https://news.ycombinator.com/item?id=41282574) - [The Expert Mind [pdf] (2006)](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
+* [2024-08-18, 11:24:02](https://news.ycombinator.com/item?id=41281665) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-18, 10:52:38](https://news.ycombinator.com/item?id=41281555) - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
 * [2024-08-17, 01:10:59](https://news.ycombinator.com/item?id=41271667) - [Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
 * [2024-08-16, 23:22:40](https://news.ycombinator.com/item?id=41271248) - [How high speed fiber optic internet cables are made](https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/)
@@ -28,7 +29,6 @@
 * [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [Silicon Graphics Indigo 2 Workstation [video]](https://www.youtube.com/watch?v=1PP--lVTPCQ)
 * [2024-08-15, 05:46:35](https://news.ycombinator.com/item?id=41253409) - [The Quantum Butterfly Effect](https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/)
 * [2024-08-14, 22:37:07](https://news.ycombinator.com/item?id=41251256) - [Window-Switcher: Alt+(backtick) same-app window switching for Windows 10/11](https://github.com/sigoden/window-switcher)
-* [2024-08-14, 17:49:57](https://news.ycombinator.com/item?id=41248701) - [Ask HN: Looking for kids books about famous people](https://news.ycombinator.com/item?id=41248701)
 * [2024-08-14, 09:07:00](https://news.ycombinator.com/item?id=41244137) - [Transponder Landing System enables precision approaches at McMurdo in Antarctica](https://www.flightradar24.com/blog/transponder-landing-system/)
 
 ## [Archives](archives/index.md)
