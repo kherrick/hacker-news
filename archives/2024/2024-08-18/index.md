@@ -47,6 +47,7 @@
 * [2024-08-18, 15:40:39](https://news.ycombinator.com/item?id=41283018) - [`noexcept` affects libstdc++'s `unordered_set`](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-18, 15:39:21](https://news.ycombinator.com/item?id=41283010) - [\"Us vs. Them\" language shapes the Apple ecosystem narrative](https://twitter.com/xroissance/status/1825068918509072852)
 * [2024-08-18, 15:35:02](https://news.ycombinator.com/item?id=41282981) - [Show HN: Proxmox VE Helper Scripts: Make managing your homelab a breeze](https://proxmox-helper-scripts.vercel.app)
+* [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [the US lays out a road safety plan that will see cars 'talk' to each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
 * [2024-08-18, 15:21:31](https://news.ycombinator.com/item?id=41282890) - [A Starter's guide on recovering damaged and rotten CDs](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/)
 * [2024-08-18, 15:21:10](https://news.ycombinator.com/item?id=41282889) - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
 * [2024-08-18, 14:47:47](https://news.ycombinator.com/item?id=41282694) - [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
