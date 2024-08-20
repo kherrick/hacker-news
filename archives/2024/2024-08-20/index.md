@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 17:40:57](https://news.ycombinator.com/item?id=41302140) - [Republicans ask Supreme Court to block 40k Arizonans from voting in November](https://www.yahoo.com/news/republicans-ask-supreme-court-block-100050322.html)
+* [2024-08-20, 17:36:58](https://news.ycombinator.com/item?id=41302103) - [Higher ultraviolet light exposure is associated with lower mortality](https://www.sciencedirect.com/science/article/pii/S1353829224001564)
+* [2024-08-20, 17:32:22](https://news.ycombinator.com/item?id=41302068) - [Rocket explodes during testing at UK's new spaceport in Shetland](https://www.theguardian.com/business/article/2024/aug/20/spacecraft-explodes-during-launch-test-at-uks-new-spaceport-in-shetland)
 * [2024-08-20, 17:11:02](https://news.ycombinator.com/item?id=41301858) - [Harris has the right idea on housing](https://www.noahpinion.blog/p/harris-has-the-right-idea-on-housing)
 * [2024-08-20, 16:50:52](https://news.ycombinator.com/item?id=41301673) - [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/)
 * [2024-08-20, 16:46:57](https://news.ycombinator.com/item?id=41301639) - [Roc Lang – Elm but for everywhere [video]](https://www.youtube.com/watch?v=s--2X0kwe4Y)
