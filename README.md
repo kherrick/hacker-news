@@ -19,7 +19,7 @@
 * [2024-08-19, 19:28:22](https://news.ycombinator.com/item?id=41293901) - [Music recommendation system using transformer models](https://research.google/blog/transformers-in-music-recommendation/)
 * [2024-08-19, 19:19:24](https://news.ycombinator.com/item?id=41293847) - [Client-side filtering of private data is a bad idea](https://mjg59.dreamwidth.org/70061.html)
 * [2024-08-19, 19:06:59](https://news.ycombinator.com/item?id=41293767) - [The guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
-* [2024-08-19, 17:14:12](https://news.ycombinator.com/item?id=41292784) - [Migrating Mess with DNS to Use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
+* [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
 * [2024-08-19, 15:54:56](https://news.ycombinator.com/item?id=41292103) - [Schedule Email API](https://resend.com/blog/introducing-the-schedule-email-api)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
