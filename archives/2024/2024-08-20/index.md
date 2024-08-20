@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 * [2024-08-20, 18:16:21](https://news.ycombinator.com/item?id=41302493) - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
+* [2024-08-20, 18:13:21](https://news.ycombinator.com/item?id=41302453) - [Making Database Systems Usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
 * [2024-08-20, 18:11:51](https://news.ycombinator.com/item?id=41302445) - [2d Circuit Holds Lawfully Possessed Gun Does Not Constitute Probable Cause](https://blog.simplejustice.us/2024/08/17/2d-circuit-holds-lawfully-possessed-gun-does-not-constitute-probable-cause/)
 * [2024-08-20, 18:02:02](https://news.ycombinator.com/item?id=41302350) - [Lago (OSS Usage Based Billing) Is Hiring a Head of Product Marketing (SF)](https://www.ycombinator.com/companies/lago/jobs/Y4jNcwj-head-of-marketing)
 * [2024-08-20, 17:48:09](https://news.ycombinator.com/item?id=41302203) - [Avoiding Sun as Dangerous as Smoking (2016)](https://www.medscape.com/viewarticle/860805)
+* [2024-08-20, 17:42:03](https://news.ycombinator.com/item?id=41302150) - [Reflecting on Transducers in Scheme](https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/)
 * [2024-08-20, 17:40:57](https://news.ycombinator.com/item?id=41302140) - [Republicans ask Supreme Court to block 40k Arizonans from voting in November](https://www.yahoo.com/news/republicans-ask-supreme-court-block-100050322.html)
 * [2024-08-20, 17:36:58](https://news.ycombinator.com/item?id=41302103) - [Higher ultraviolet light exposure is associated with lower mortality](https://www.sciencedirect.com/science/article/pii/S1353829224001564)
 * [2024-08-20, 17:32:22](https://news.ycombinator.com/item?id=41302068) - [Rocket explodes during testing at UK's new spaceport in Shetland](https://www.theguardian.com/business/article/2024/aug/20/spacecraft-explodes-during-launch-test-at-uks-new-spaceport-in-shetland)
