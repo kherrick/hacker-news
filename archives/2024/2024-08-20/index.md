@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: The practical and pragmatic code editor](https://pragtical.dev/)
 * [2024-08-20, 06:39:39](https://news.ycombinator.com/item?id=41297406) - [Shapez2 Released](https://shapez2.com/)
 * [2024-08-20, 05:21:52](https://news.ycombinator.com/item?id=41297061) - [2024's Hugo Award Winners Announced](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/)
 * [2024-08-20, 04:57:50](https://news.ycombinator.com/item?id=41296949) - [Phrack 71 Released](http://phrack.org/issues/71/1.html)
