@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 06:39:39](https://news.ycombinator.com/item?id=41297406) - [Shapez2 Released](https://shapez2.com/)
+* [2024-08-20, 05:21:52](https://news.ycombinator.com/item?id=41297061) - [2024's Hugo Award Winners Announced](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/)
 * [2024-08-20, 04:57:50](https://news.ycombinator.com/item?id=41296949) - [Phrack 71 Released](http://phrack.org/issues/71/1.html)
 * [2024-08-20, 03:30:27](https://news.ycombinator.com/item?id=41296481) - [Sourcegraph Went Dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 * [2024-08-20, 03:14:31](https://news.ycombinator.com/item?id=41296421) - [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)

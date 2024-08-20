@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-20, 06:39:39](https://news.ycombinator.com/item?id=41297406) - [Shapez2 Released](https://shapez2.com/)
+* [2024-08-20, 05:21:52](https://news.ycombinator.com/item?id=41297061) - [2024's Hugo Award Winners Announced](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/)
 * [2024-08-20, 04:57:50](https://news.ycombinator.com/item?id=41296949) - [Phrack 71 Released](http://phrack.org/issues/71/1.html)
 * [2024-08-20, 03:30:27](https://news.ycombinator.com/item?id=41296481) - [Sourcegraph Went Dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 * [2024-08-20, 03:14:31](https://news.ycombinator.com/item?id=41296421) - [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)
 * [2024-08-20, 01:20:18](https://news.ycombinator.com/item?id=41295957) - [Procreate's anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
 * [2024-08-20, 01:00:51](https://news.ycombinator.com/item?id=41295845) - [Infisical (YC W23) Is Hiring Full Stack Engineer (Remote)](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
-* [2024-08-20, 00:38:59](https://news.ycombinator.com/item?id=41295730) - [6th-generation Waymo Driver](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver/)
 * [2024-08-19, 23:35:01](https://news.ycombinator.com/item?id=41295433) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-08-19, 23:24:23](https://news.ycombinator.com/item?id=41295390) - [RP2040 Hid Remapper](https://github.com/jfedor2/hid-remapper)
 * [2024-08-19, 23:01:51](https://news.ycombinator.com/item?id=41295296) - [Good Refactoring vs. Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
@@ -28,7 +29,6 @@
 * [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
 * [2024-08-16, 00:45:19](https://news.ycombinator.com/item?id=41262010) - [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
 * [2024-08-15, 23:48:59](https://news.ycombinator.com/item?id=41261711) - [Searching a Codebase in English](https://www.greptile.com/blog/semantic)
-* [2024-08-15, 12:36:30](https://news.ycombinator.com/item?id=41255203) - [Rhumb Line](https://en.wikipedia.org/wiki/Rhumb_line)
 * [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 
 ## [Archives](archives/index.md)
