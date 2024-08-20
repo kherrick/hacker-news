@@ -51,6 +51,7 @@
 * [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [the US lays out a road safety plan that will see cars 'talk' to each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
 * [2024-08-18, 15:21:31](https://news.ycombinator.com/item?id=41282890) - [A Starter's guide on recovering damaged and rotten CDs](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/)
 * [2024-08-18, 15:21:10](https://news.ycombinator.com/item?id=41282889) - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
+* [2024-08-18, 15:07:51](https://news.ycombinator.com/item?id=41282807) - [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/)
 * [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why It Matters, How to Curb It](https://arxiv.org/abs/2408.07710)
 * [2024-08-18, 14:47:47](https://news.ycombinator.com/item?id=41282694) - [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
 * [2024-08-18, 14:32:02](https://news.ycombinator.com/item?id=41282607) - [17,000 AT&T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)

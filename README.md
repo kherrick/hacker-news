@@ -2,7 +2,6 @@
 
 * [2024-08-20, 21:00:26](https://news.ycombinator.com/item?id=41304014) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-08-20, 20:41:49](https://news.ycombinator.com/item?id=41303844) - [An admittedly wandering defense of the SSO tax](https://ssoready.com/blog/from-the-founders/an-unpopular-perspective-on-the-sso-tax/)
-* [2024-08-20, 20:09:38](https://news.ycombinator.com/item?id=41303547) - [Judge orders removal of 1,000ft rotting ocean liner from Philadelphia pier](https://www.theguardian.com/us-news/article/2024/aug/20/ss-united-states-philadelphia-removal)
 * [2024-08-20, 19:27:52](https://news.ycombinator.com/item?id=41303159) - [MIT leaders describe the experience of not renewing Elsevier contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
 * [2024-08-20, 19:04:53](https://news.ycombinator.com/item?id=41302944) - [Why are Texas interchanges so tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
@@ -28,6 +27,7 @@
 * [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
 * [2024-08-18, 20:23:23](https://news.ycombinator.com/item?id=41285170) - [Fragments of two lost tragedies by Euripides discovered in an Egyptian papyrus](https://www.labrujulaverde.com/en/2024/08/previously-unknown-fragments-of-two-lost-tragedies-by-euripides-discovered-in-an-egyptian-papyrus/)
 * [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [A road safety plan that will lead to cars communicating with each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
+* [2024-08-18, 15:07:51](https://news.ycombinator.com/item?id=41282807) - [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/)
 * [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why it matters, how to curb it](https://arxiv.org/abs/2408.07710)
 * [2024-08-18, 13:18:04](https://news.ycombinator.com/item?id=41282212) - [I wag, therefore I am: the philosophy of dogs](https://www.theguardian.com/books/article/2024/aug/18/i-wag-therefore-i-am-the-philosophy-of-dogs)
 
