@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-20, 18:47:49",
+      "https://news.ycombinator.com/item?id=41302782"
+    ],
+    [
+      "Zed AI",
+      "https://zed.dev/blog/zed-ai"
+    ]
+  ],
+  [
+    [
       "2024-08-20, 18:27:45",
       "https://news.ycombinator.com/item?id=41302597"
     ],
@@ -37,16 +47,6 @@
     [
       "Lago (OSS Usage Based Billing) Is Hiring a Head of Product Marketing (SF)",
       "https://www.ycombinator.com/companies/lago/jobs/Y4jNcwj-head-of-marketing"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 17:48:09",
-      "https://news.ycombinator.com/item?id=41302203"
-    ],
-    [
-      "Avoiding Sun as Dangerous as Smoking (2016)",
-      "https://www.medscape.com/viewarticle/860805"
     ]
   ],
   [
@@ -107,26 +107,6 @@
     [
       "Fine-tuning now available for GPT-4o",
       "https://openai.com/index/gpt-4o-fine-tuning/"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 16:46:57",
-      "https://news.ycombinator.com/item?id=41301639"
-    ],
-    [
-      "Roc Lang – Elm but for everywhere [video]",
-      "https://www.youtube.com/watch?v=s--2X0kwe4Y"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 16:43:52",
-      "https://news.ycombinator.com/item?id=41301612"
-    ],
-    [
-      "The AI photo editing era is here, and it's every person for themselves",
-      "https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-08-19, 20:10:48",
+      "https://news.ycombinator.com/item?id=41294202"
+    ],
+    [
+      "'Rare species' not seen in the area for 50 years spotted on Arizona trail camera",
+      "https://phys.org/news/2024-08-rare-species-area-years-arizona.html"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 15:09:56",
       "https://news.ycombinator.com/item?id=41291700"
     ],
@@ -267,6 +257,16 @@
     [
       "I wag, therefore I am: the philosophy of dogs",
       "https://www.theguardian.com/books/article/2024/aug/18/i-wag-therefore-i-am-the-philosophy-of-dogs"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 13:09:53",
+      "https://news.ycombinator.com/item?id=41282157"
+    ],
+    [
+      "Convert Markdown files to RSS feed",
+      "https://github.com/TimoKats/mdrss"
     ]
   ],
   [
