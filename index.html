@@ -129,26 +129,72 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="41299443">
+        <section id="41299594">
           <h3>
-            <a
-              class="item"
-              href="https://reason.com/2024/08/20/how-the-feds-buy-their-way-around-the-fourth-amendment/"
-              >The Feds Are Skirting the 4th Amendment by Buying Data from Tech
-              Companies</a
+            <a class="item" href="https://sudoku.dotslashdan.com/"
+              >Show HN: Visual Sudoku Solver in the Browser (With OpenCV and
+              TensorFlow)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-20 @ 12:29:16</span
+              <span>2024-08-20 @ 12:49:15</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41299443"
+                ><a href="https://news.ycombinator.com/item?id=41299594"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                I recently wanted to learn a bit about computer vision.
+                Initially, I wanted to build something which could solve a
+                jigsaw puzzle, but figured I should start with something (much)
+                simpler, so I've built this instead.
+              </p>
+              <p>
+                This is a visual Sudoku solver which runs in the browser. It
+                works by using OpenCV to identify and process the Sudoku grid,
+                passing this to a simple ML model to identify the digits, and
+                then solving the puzzle with a backtracking algorithm. The ML
+                model was trained on the TMNIST data set using a model built
+                with Keras, also a completely new area to me.
+              </p>
+              <p>
+                It's far from perfect, and doesn't like non perfectly lit or
+                overly warped puzzles, but the main goal here was learning,
+                which I did, a lot.
+              </p>
+              <p>
+                As this was primarily a learning project, I've tried to document
+                my approach as much as possible, which can be found in this
+                Python notebook:
+              </p>
+              <p>
+                <a
+                  href="https://github.com/Taiters/sudoku-solver/blob/main/notebooks/explore.ipynb"
+                  >https://github.com/Taiters/sudoku-solver/blob/main/notebooks...</a
+                >
+              </p>
+              <p>
+                I used Python while exploring OpenCV and training the models
+                etc, and eventually ported this over to web (OpenCV.js +
+                Tensorflow.js) to get something I could actually share with
+                people.
+              </p>
+              <p>
+                Feel free to have a dig around the source or play around with
+                the solver!
+              </p>
+              <p>
+                Github:
+                <a href="https://github.com/Taiters/sudoku-solver"
+                  >https://github.com/Taiters/sudoku-solver</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="41299211">
@@ -161,11 +207,11 @@
             <h4>
               <span>2024-08-20 @ 12:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41299211"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -195,11 +241,11 @@
             <h4>
               <span>2024-08-20 @ 11:54:07</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41299148"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -217,11 +263,32 @@
             <h4>
               <span>2024-08-20 @ 11:28:24</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41298969"
                   >Comments</a
                 ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41298899">
+          <h3>
+            <a
+              class="item"
+              href="https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html"
+              >What's the big deal about Deterministic Simulation Testing?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-20 @ 11:16:47</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41298899"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -236,11 +303,11 @@
             <h4>
               <span>2024-08-20 @ 10:57:27</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41298794"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -256,11 +323,11 @@
             <h4>
               <span>2024-08-20 @ 10:56:22</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41298789"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -276,27 +343,6 @@
             </div>
           </section>
         </section>
-        <section id="41298116">
-          <h3>
-            <a
-              class="item"
-              href="https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/"
-              >Go automatically downloads a newer toolchain if needed</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-20 @ 08:47:03</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41298116"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41297609">
           <h3>
             <a class="item" href="https://pragtical.dev/"
@@ -307,7 +353,7 @@
             <h4>
               <span>2024-08-20 @ 07:15:34</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41297609"
                   >Comments</a
@@ -328,7 +374,7 @@
             <h4>
               <span>2024-08-20 @ 03:30:27</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41296481"
                   >Comments</a
@@ -349,11 +395,11 @@
             <h4>
               <span>2024-08-20 @ 02:39:17</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41296274"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -370,11 +416,11 @@
             <h4>
               <span>2024-08-19 @ 23:35:01</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41295433"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -393,7 +439,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41295390"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -411,7 +457,7 @@
             <h4>
               <span>2024-08-19 @ 20:10:48</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41294202"
                   >Comments</a
@@ -430,11 +476,11 @@
             <h4>
               <span>2024-08-19 @ 19:49:22</span
               ><span class="points-container"
-                >Points: <span class="points">521</span></span
+                >Points: <span class="points">525</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41294067"
                   >Comments</a
-                ><span class="descendants">: 215</span></span
+                ><span class="descendants">: 216</span></span
               >
             </h4>
           </section>
@@ -451,7 +497,7 @@
             <h4>
               <span>2024-08-19 @ 19:32:02</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41293929"
                   >Comments</a
@@ -472,7 +518,7 @@
             <h4>
               <span>2024-08-19 @ 19:28:22</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41293901"
                   >Comments</a
@@ -491,11 +537,11 @@
             <h4>
               <span>2024-08-19 @ 19:19:24</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41293847"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -513,11 +559,11 @@
             <h4>
               <span>2024-08-19 @ 19:06:59</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41293767"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -543,6 +589,27 @@
             </h4>
           </section>
         </section>
+        <section id="41292103">
+          <h3>
+            <a
+              class="item"
+              href="https://resend.com/blog/introducing-the-schedule-email-api"
+              >Schedule Email API</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-19 @ 15:54:56</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41292103"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41292018">
           <h3>
             <a
@@ -559,7 +626,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41292018"
                   >Comments</a
-                ><span class="descendants">: 203</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -574,7 +641,7 @@
             <h4>
               <span>2024-08-19 @ 15:09:56</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41291700"
                   >Comments</a
@@ -618,11 +685,11 @@
             <h4>
               <span>2024-08-19 @ 14:13:36</span
               ><span class="points-container"
-                >Points: <span class="points">330</span></span
+                >Points: <span class="points">331</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41291219"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
             <div class="text">
@@ -764,7 +831,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41282798"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -779,7 +846,7 @@
             <h4>
               <span>2024-08-18 @ 13:09:53</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41282157"
                   >Comments</a
@@ -799,7 +866,7 @@
             <h4>
               <span>2024-08-16 @ 17:40:10</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41268540"
                   >Comments</a
@@ -821,11 +888,11 @@
             <h4>
               <span>2024-08-16 @ 00:45:19</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41262010"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -850,25 +917,6 @@
             </h4>
           </section>
         </section>
-        <section id="41255975">
-          <h3>
-            <a class="item" href="https://taylor.town/my-superintelligence"
-              >Against the Advice of My Superintelligence</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-15 @ 13:43:30</span
-              ><span class="points-container"
-                >Points: <span class="points">58</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41255975"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41253850">
           <h3>
             <a
@@ -881,7 +929,7 @@
             <h4>
               <span>2024-08-15 @ 07:37:54</span
               ><span class="points-container"
-                >Points: <span class="points">285</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41253850"
                   >Comments</a
