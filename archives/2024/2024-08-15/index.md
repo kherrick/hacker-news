@@ -103,6 +103,7 @@
 * [2024-08-15, 05:46:35](https://news.ycombinator.com/item?id=41253409) - [The Quantum Butterfly Effect](https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/)
 * [2024-08-15, 05:05:49](https://news.ycombinator.com/item?id=41253244) - [The Key to Bizarro's Symbols](https://www.bizarro.com/secret-symbols)
 * [2024-08-15, 04:56:16](https://news.ycombinator.com/item?id=41253204) - [Victorian Artistic Printing (2009)](https://www.sheaff-ephemera.com/list/artistic_printing.html)
+* [2024-08-15, 04:55:08](https://news.ycombinator.com/item?id=41253198) - [Want to Win a Bike Race? Hack Your Rival's Wireless Shifters](https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/)
 * [2024-08-15, 04:27:51](https://news.ycombinator.com/item?id=41253083) - [ALS Stole His Voice. A.I. Retrieved It](https://www.nytimes.com/2024/08/14/health/als-ai-brain-implants.html)
 * [2024-08-15, 04:13:43](https://news.ycombinator.com/item?id=41253041) - [Learning from the Earthquake (1990)](https://sb.longnow.org/SB_homepage/Earthquake_Lessons.html)
 * [2024-08-15, 03:43:10](https://news.ycombinator.com/item?id=41252949) - [No tax on tips: Why politicians love it, and economists don't](https://www.npr.org/2024/08/11/nx-s1-5071144/no-tax-on-tips-campaigns-trump-harris)

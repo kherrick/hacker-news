@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 09:45:05](https://news.ycombinator.com/item?id=41298430) - [Foone gets a NUC binned by an AI startup](https://digipres.club/@foone/112990331505043510)
 * [2024-08-20, 07:47:32](https://news.ycombinator.com/item?id=41297798) - ['Model collapse'? An expert explains the rumours about an impending AI doom](https://theconversation.com/what-is-model-collapse-an-expert-explains-the-rumours-about-an-impending-ai-doom-236415)
 * [2024-08-20, 07:33:55](https://news.ycombinator.com/item?id=41297709) - [Mike Lynch's co-defendant in fraud trial 'fatally struck' by car while jogging](https://www.theguardian.com/uk-news/article/2024/aug/19/mike-lynchs-co-defendant-in-us-trial-fatally-struck-by-car-while-jogging)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: The practical and pragmatic code editor](https://pragtical.dev/)
