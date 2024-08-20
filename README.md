@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-20, 17:11:02](https://news.ycombinator.com/item?id=41301858) - [Harris has the right idea on housing](https://www.noahpinion.blog/p/harris-has-the-right-idea-on-housing)
 * [2024-08-20, 16:50:52](https://news.ycombinator.com/item?id=41301673) - [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/)
 * [2024-08-20, 16:46:57](https://news.ycombinator.com/item?id=41301639) - [Roc Lang – Elm but for everywhere [video]](https://www.youtube.com/watch?v=s--2X0kwe4Y)
 * [2024-08-20, 16:43:52](https://news.ycombinator.com/item?id=41301612) - [The AI photo editing era is here, and it's every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)
@@ -26,6 +25,7 @@
 * [2024-08-19, 19:28:22](https://news.ycombinator.com/item?id=41293901) - [Music recommendation system using transformer models](https://research.google/blog/transformers-in-music-recommendation/)
 * [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
 * [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why It Matters, How to Curb It](https://arxiv.org/abs/2408.07710)
+* [2024-08-18, 13:18:04](https://news.ycombinator.com/item?id=41282212) - [I wag, therefore I am: the philosophy of dogs](https://www.theguardian.com/books/article/2024/aug/18/i-wag-therefore-i-am-the-philosophy-of-dogs)
 * [2024-08-18, 13:09:53](https://news.ycombinator.com/item?id=41282157) - [Convert Markdown files to RSS feed](https://github.com/TimoKats/mdrss)
 * [2024-08-16, 02:59:24](https://news.ycombinator.com/item?id=41262739) - [SPL: A programming language coding in a grid](https://blog.scudata.com/a-programming-language-coding-in-a-grid/)
 * [2024-08-16, 00:45:19](https://news.ycombinator.com/item?id=41262010) - [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
