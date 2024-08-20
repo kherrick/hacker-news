@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-20, 01:45:19",
-      "https://news.ycombinator.com/item?id=41296065"
+      "2024-08-20, 03:14:31",
+      "https://news.ycombinator.com/item?id=41296421"
     ],
     [
-      "The ribosome lowers the entropic penalty of protein folding",
-      "https://www.nature.com/articles/s41586-024-07784-4"
+      "$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU",
+      "https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 03:04:40",
+      "https://news.ycombinator.com/item?id=41296366"
+    ],
+    [
+      "Show HN: I Made an AI Song Generator",
+      "https://song.do"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Procreate's anti-AI pledge attracts praise from digital creatives",
       "https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 01:13:23",
+      "https://news.ycombinator.com/item?id=41295923"
+    ],
+    [
+      "Artificial intelligence is losing hype",
+      "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-08-19, 14:40:42",
-      "https://news.ycombinator.com/item?id=41291470"
-    ],
-    [
-      "Optimizing global message transit latency: a journey through TCP configuration",
-      "https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 14:13:36",
       "https://news.ycombinator.com/item?id=41291219"
     ],
@@ -237,16 +247,6 @@
     [
       "Classifying all of the pdfs on the internet",
       "https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 11:57:26",
-      "https://news.ycombinator.com/item?id=41290237"
-    ],
-    [
-      "Bit-banging a BASIC Birthday",
-      "https://thingswemake.com/bit-banging-a-basic-birthday/"
     ]
   ],
   [
