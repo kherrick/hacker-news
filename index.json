@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-20, 20:41:49",
+      "https://news.ycombinator.com/item?id=41303844"
+    ],
+    [
+      "An admittedly wandering defense of the SSO tax",
+      "https://ssoready.com/blog/from-the-founders/an-unpopular-perspective-on-the-sso-tax/"
+    ]
+  ],
+  [
+    [
       "2024-08-20, 20:09:38",
       "https://news.ycombinator.com/item?id=41303547"
     ],
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2024-08-20, 18:14:49",
-      "https://news.ycombinator.com/item?id=41302475"
-    ],
-    [
-      "Uv 0.3 – Unified Python packaging",
-      "https://astral.sh/blog/uv-unified-python-packaging"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 18:13:21",
       "https://news.ycombinator.com/item?id=41302453"
     ],
     [
       "Making database systems usable",
       "http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 18:02:39",
-      "https://news.ycombinator.com/item?id=41302357"
-    ],
-    [
-      "Profiling Programming Language Learning",
-      "https://arxiv.org/abs/2401.01257"
     ]
   ],
   [
@@ -97,26 +87,6 @@
     [
       "The Harmless Pi-Hole Bug",
       "https://www.kiyell.com/The-Harmless-Pihole-Bug/"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 17:36:58",
-      "https://news.ycombinator.com/item?id=41302103"
-    ],
-    [
-      "Higher ultraviolet light exposure is associated with lower mortality",
-      "https://www.sciencedirect.com/science/article/pii/S1353829224001564"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 17:03:01",
-      "https://news.ycombinator.com/item?id=41301777"
-    ],
-    [
-      "Show HN: Tree-sitter Integration for Swift",
-      "https://github.com/daspoon/tree-sitter-kit"
     ]
   ],
   [
@@ -175,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41299594"
     ],
     [
-      "Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)",
+      "Show HN: Visual Sudoku solver in the browser",
       "https://sudoku.dotslashdan.com/"
     ]
   ],
@@ -241,22 +211,52 @@
   ],
   [
     [
+      "2024-08-20, 01:13:23",
+      "https://news.ycombinator.com/item?id=41295923"
+    ],
+    [
+      "Artificial intelligence is losing hype",
+      "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 23:01:51",
+      "https://news.ycombinator.com/item?id=41295296"
+    ],
+    [
+      "Good refactoring vs. bad refactoring",
+      "https://www.builder.io/blog/good-vs-bad-refactoring"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 20:17:35",
+      "https://news.ycombinator.com/item?id=41294254"
+    ],
+    [
+      "JavaScript weakmaps should be iterable",
+      "https://wingolog.org/archives/2024/08/19/javascript-weakmaps-should-be-iterable"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 19:12:28",
+      "https://news.ycombinator.com/item?id=41293805"
+    ],
+    [
+      "The dark secret of Swift optionals",
+      "https://jacobbartlett.substack.com/p/2-minute-tips-the-dark-secret-of"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 18:03:21",
       "https://news.ycombinator.com/item?id=41293219"
     ],
     [
       "On finishing projects",
       "https://www.alexreichert.com/blog/finishing"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 15:09:56",
-      "https://news.ycombinator.com/item?id=41291700"
-    ],
-    [
-      "Show HN: Srcbook – A TypeScript notebook for rapid prototyping",
-      "https://github.com/srcbookdev/srcbook"
     ]
   ],
   [
