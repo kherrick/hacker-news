@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 13:37:15](https://news.ycombinator.com/item?id=41299954) - [World’s oldest person, Maria Branyas Morera, dies aged 117](https://www.theguardian.com/world/article/2024/aug/20/worlds-oldest-person-maria-branyas-morera-dies-aged-117)
 * [2024-08-20, 12:49:15](https://news.ycombinator.com/item?id=41299594) - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)
 * [2024-08-20, 12:29:16](https://news.ycombinator.com/item?id=41299443) - [The Feds Are Skirting the 4th Amendment by Buying Data from Tech Companies](https://reason.com/2024/08/20/how-the-feds-buy-their-way-around-the-fourth-amendment/)
 * [2024-08-20, 12:02:00](https://news.ycombinator.com/item?id=41299211) - [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
@@ -37,4 +38,5 @@
 * [2024-08-20, 01:13:23](https://news.ycombinator.com/item?id=41295923) - [Artificial intelligence is losing hype](https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype)
 * [2024-08-20, 01:00:51](https://news.ycombinator.com/item?id=41295845) - [Infisical (YC W23) Is Hiring Full Stack Engineer (Remote)](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
 * [2024-08-20, 00:38:59](https://news.ycombinator.com/item?id=41295730) - [6th-generation Waymo Driver](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver/)
+* [2024-08-20, 00:29:40](https://news.ycombinator.com/item?id=41295692) - [So you want to build an embedded Linux system?](https://jaycarlson.net/embedded-linux/)
 * [2024-08-20, 00:12:36](https://news.ycombinator.com/item?id=41295609) - [Boeing Halts 777X Flight Tests over Damage Found in Engine Mount](https://www.bloomberg.com/news/articles/2024-08-19/boeing-halts-777x-flight-tests-over-damage-found-in-engine-mount)

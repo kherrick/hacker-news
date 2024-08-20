@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-20, 13:37:15](https://news.ycombinator.com/item?id=41299954) - [World’s oldest person, Maria Branyas Morera, dies aged 117](https://www.theguardian.com/world/article/2024/aug/20/worlds-oldest-person-maria-branyas-morera-dies-aged-117)
 * [2024-08-20, 12:49:15](https://news.ycombinator.com/item?id=41299594) - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)
 * [2024-08-20, 12:02:00](https://news.ycombinator.com/item?id=41299211) - [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
 * [2024-08-20, 12:00:01](https://news.ycombinator.com/item?id=41299194) - [Nango (YC W23) Is Hiring a Product Engineer (Remote)](https://www.nango.dev/jobs)
@@ -8,10 +9,10 @@
 * [2024-08-20, 11:16:47](https://news.ycombinator.com/item?id=41298899) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:57:27](https://news.ycombinator.com/item?id=41298794) - [Toasts Are Bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
 * [2024-08-20, 10:56:22](https://news.ycombinator.com/item?id=41298789) - [Show HN: Mailik – Effortlessly Receive Form Responses in Your Inbox](https://mailik.dev/)
-* [2024-08-20, 10:54:00](https://news.ycombinator.com/item?id=41298774) - [On Writing Well](https://zodvik.com/posts/on-writing-well/)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 * [2024-08-20, 03:30:27](https://news.ycombinator.com/item?id=41296481) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 * [2024-08-20, 02:39:17](https://news.ycombinator.com/item?id=41296274) - [Neo Geo Dev: Fixed Point Numbers](https://mattgreer.dev/blog/neo-geo-dev-fixed-point/)
+* [2024-08-20, 00:29:40](https://news.ycombinator.com/item?id=41295692) - [So you want to build an embedded Linux system?](https://jaycarlson.net/embedded-linux/)
 * [2024-08-19, 23:35:01](https://news.ycombinator.com/item?id=41295433) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-08-19, 23:24:23](https://news.ycombinator.com/item?id=41295390) - [RP2040 Hid Remapper](https://github.com/jfedor2/hid-remapper)
 * [2024-08-19, 20:10:48](https://news.ycombinator.com/item?id=41294202) - ['Rare species' not seen in the area for 50 years spotted on Arizona trail camera](https://phys.org/news/2024-08-rare-species-area-years-arizona.html)
@@ -28,7 +29,6 @@
 * [2024-08-18, 13:09:53](https://news.ycombinator.com/item?id=41282157) - [Convert Markdown files to RSS feed](https://github.com/TimoKats/mdrss)
 * [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
 * [2024-08-16, 00:45:19](https://news.ycombinator.com/item?id=41262010) - [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
-* [2024-08-15, 15:39:36](https://news.ycombinator.com/item?id=41257314) - [Blockdiag – simple diagram images generator – blockdiag 1.0 documentation](http://blockdiag.com/en/index.html)
 * [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 
 ## [Archives](archives/index.md)
