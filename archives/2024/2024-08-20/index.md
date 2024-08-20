@@ -15,6 +15,7 @@
 * [2024-08-20, 11:54:07](https://news.ycombinator.com/item?id=41299148) - [Transformers for Ruby](https://github.com/ankane/transformers-ruby)
 * [2024-08-20, 11:28:24](https://news.ycombinator.com/item?id=41298969) - [Spider Uses a Light Show to Trick Eager Male Fireflies into Its Web](https://www.nytimes.com/2024/08/19/science/spider-firefly-flash-web.html)
 * [2024-08-20, 11:16:47](https://news.ycombinator.com/item?id=41298899) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
+* [2024-08-20, 11:04:00](https://news.ycombinator.com/item?id=41298819) - [My Auschwitz vacation](https://harpers.org/archive/2024/09/my-auschwitz-vacation-tanya-gold-tourism/)
 * [2024-08-20, 10:57:27](https://news.ycombinator.com/item?id=41298794) - [Toasts Are Bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
 * [2024-08-20, 10:56:22](https://news.ycombinator.com/item?id=41298789) - [Show HN: Mailik – Effortlessly Receive Form Responses in Your Inbox](https://mailik.dev/)
 * [2024-08-20, 10:54:00](https://news.ycombinator.com/item?id=41298774) - [Writing Technical Documents Well](https://zodvik.com/posts/on-writing-well/)
