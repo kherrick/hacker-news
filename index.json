@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-08-20, 07:33:55",
-      "https://news.ycombinator.com/item?id=41297709"
-    ],
-    [
-      "Mike Lynch's co-defendant in fraud trial 'fatally struck' by car while jogging",
-      "https://www.theguardian.com/uk-news/article/2024/aug/19/mike-lynchs-co-defendant-in-us-trial-fatally-struck-by-car-while-jogging"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 07:15:34",
       "https://news.ycombinator.com/item?id=41297609"
     ],
@@ -71,6 +61,16 @@
   ],
   [
     [
+      "2024-08-20, 03:14:31",
+      "https://news.ycombinator.com/item?id=41296421"
+    ],
+    [
+      "$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU",
+      "https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/"
+    ]
+  ],
+  [
+    [
       "2024-08-20, 01:00:51",
       "https://news.ycombinator.com/item?id=41295845"
     ],
@@ -107,16 +107,6 @@
     [
       "Good Refactoring vs. Bad Refactoring",
       "https://www.builder.io/blog/good-vs-bad-refactoring"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 21:45:56",
-      "https://news.ycombinator.com/item?id=41294822"
-    ],
-    [
-      "The oral history of the Dinosaur Input Device",
-      "https://vfxblog.com/dinosaurinputdevice/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "the US lays out a road safety plan that will see cars 'talk' to each other",
       "https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 13:09:53",
+      "https://news.ycombinator.com/item?id=41282157"
+    ],
+    [
+      "Convert Markdown files to RSS feed",
+      "https://github.com/TimoKats/mdrss"
     ]
   ],
   [
