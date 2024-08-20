@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 10:51:45](https://news.ycombinator.com/item?id=41298766) - [A Lego Model of Capitalist Central Planning](https://www.asomo.co/p/lego-capitalist-central-planning)
+* [2024-08-20, 10:04:24](https://news.ycombinator.com/item?id=41298522) - [Copilot turns a court reporter into a child molester](https://www.heise.de/en/news/Copilot-turns-a-court-reporter-into-a-child-molester-9840612.html)
 * [2024-08-20, 09:45:05](https://news.ycombinator.com/item?id=41298430) - [Foone gets a NUC binned by an AI startup](https://digipres.club/@foone/112990331505043510)
 * [2024-08-20, 09:24:48](https://news.ycombinator.com/item?id=41298312) - [&udm=14 for Safari (iOS/iPadOS)](https://apps.apple.com/gb/app/udm14-for-safari/id6520379591)
 * [2024-08-20, 08:47:03](https://news.ycombinator.com/item?id=41298116) - [Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
