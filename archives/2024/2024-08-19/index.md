@@ -7,6 +7,7 @@
 * [2024-08-19, 23:53:21](https://news.ycombinator.com/item?id=41295519) - [What I Learned Working for Mark Zuckerberg](https://noahkagan.com/what-i-learned-working-for-mark-zuckerberg/)
 * [2024-08-19, 23:35:01](https://news.ycombinator.com/item?id=41295433) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-08-19, 23:01:51](https://news.ycombinator.com/item?id=41295296) - [Good Refactoring vs. Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
+* [2024-08-19, 22:48:12](https://news.ycombinator.com/item?id=41295206) - [2024 Olympics game U.S. medals by colleges](https://www.chart2char.com/expo/post/?channelHandle=sportsmeter&post=2024%20Olympic%20Game%20U.S.%20Medalists)
 * [2024-08-19, 21:45:56](https://news.ycombinator.com/item?id=41294822) - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
 * [2024-08-19, 21:34:30](https://news.ycombinator.com/item?id=41294764) - [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
 * [2024-08-19, 21:03:50](https://news.ycombinator.com/item?id=41294579) - [Millennials Are Becoming Boomers](https://awealthofcommonsense.com/2024/08/millennials-are-becoming-boomers/)
