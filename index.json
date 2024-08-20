@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-20, 18:27:45",
+      "https://news.ycombinator.com/item?id=41302597"
+    ],
+    [
+      "Attackers can exfil data with Slack AI",
+      "https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via"
+    ]
+  ],
+  [
+    [
       "2024-08-20, 18:16:21",
       "https://news.ycombinator.com/item?id=41302493"
     ],
     [
       "Condé Nast Signs Deal with OpenAI",
       "https://www.wired.com/story/conde-nast-openai-deal/"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 18:13:21",
+      "https://news.ycombinator.com/item?id=41302453"
+    ],
+    [
+      "Making Database Systems Usable",
+      "http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Avoiding Sun as Dangerous as Smoking (2016)",
       "https://www.medscape.com/viewarticle/860805"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 17:42:03",
+      "https://news.ycombinator.com/item?id=41302150"
+    ],
+    [
+      "Reflecting on Transducers in Scheme",
+      "https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "The AI photo editing era is here, and it's every person for themselves",
       "https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 16:25:26",
-      "https://news.ycombinator.com/item?id=41301463"
-    ],
-    [
-      "Can Digital Emulations (Plugins) Ever Be as Good as Analog Hardware?",
-      "https://www.okmog.de/index.php/training/articles/can-digital-emulations-ever-be-as-good-as-analog-hardware"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-08-19, 19:32:02",
-      "https://news.ycombinator.com/item?id=41293929"
-    ],
-    [
-      "Lenticular Clock",
-      "https://www.instructables.com/Lenticular-Clock/"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 15:09:56",
       "https://news.ycombinator.com/item?id=41291700"
     ],
@@ -257,16 +267,6 @@
     [
       "Convert Markdown files to RSS feed",
       "https://github.com/TimoKats/mdrss"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 10:23:38",
-      "https://news.ycombinator.com/item?id=41273325"
-    ],
-    [
-      "RP2350 Launch Blog",
-      "https://thejpster.org.uk/blog/blog-2024-08-08/"
     ]
   ],
   [
