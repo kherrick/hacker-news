@@ -7,6 +7,7 @@
 * [2024-08-20, 14:59:23](https://news.ycombinator.com/item?id=41300685) - [Stripe Built One of Silicon Valley's Best Engineering Teams (2013)](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
 * [2024-08-20, 14:25:03](https://news.ycombinator.com/item?id=41300368) - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
 * [2024-08-20, 14:15:33](https://news.ycombinator.com/item?id=41300277) - [The world is relying on a flawed psychological test to fight racism (2017)](https://qz.com/1144504/the-world-is-relying-on-a-flawed-psychological-test-to-fight-racism)
+* [2024-08-20, 14:10:03](https://news.ycombinator.com/item?id=41300244) - [The DA Says He's Innocent. He Might Spend Life in Prison Anyway](https://www.propublica.org/article/nashville-conviction-review-russell-maze-shaken-baby-syndrome)
 * [2024-08-20, 13:55:08](https://news.ycombinator.com/item?id=41300111) - [Waiting Time Paradox or Why Is My Bus Always Late?](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
 * [2024-08-20, 13:37:15](https://news.ycombinator.com/item?id=41299954) - [World’s oldest person, Maria Branyas Morera, dies aged 117](https://www.theguardian.com/world/article/2024/aug/20/worlds-oldest-person-maria-branyas-morera-dies-aged-117)
 * [2024-08-20, 12:49:15](https://news.ycombinator.com/item?id=41299594) - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)

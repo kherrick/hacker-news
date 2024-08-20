@@ -2,14 +2,13 @@
 
 * [2024-08-20, 14:25:03](https://news.ycombinator.com/item?id=41300368) - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
 * [2024-08-20, 14:15:33](https://news.ycombinator.com/item?id=41300277) - [The world is relying on a flawed psychological test to fight racism (2017)](https://qz.com/1144504/the-world-is-relying-on-a-flawed-psychological-test-to-fight-racism)
+* [2024-08-20, 14:10:03](https://news.ycombinator.com/item?id=41300244) - [The DA Says He's Innocent. He Might Spend Life in Prison Anyway](https://www.propublica.org/article/nashville-conviction-review-russell-maze-shaken-baby-syndrome)
 * [2024-08-20, 13:55:08](https://news.ycombinator.com/item?id=41300111) - [Waiting Time Paradox or Why Is My Bus Always Late?](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
 * [2024-08-20, 12:49:15](https://news.ycombinator.com/item?id=41299594) - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)
 * [2024-08-20, 12:02:00](https://news.ycombinator.com/item?id=41299211) - [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
 * [2024-08-20, 12:00:01](https://news.ycombinator.com/item?id=41299194) - [Nango (YC W23) Is Hiring a Product Engineer (Remote)](https://www.nango.dev/jobs)
 * [2024-08-20, 11:54:07](https://news.ycombinator.com/item?id=41299148) - [Transformers for Ruby](https://github.com/ankane/transformers-ruby)
-* [2024-08-20, 11:28:24](https://news.ycombinator.com/item?id=41298969) - [Spider Uses a Light Show to Trick Eager Male Fireflies into Its Web](https://www.nytimes.com/2024/08/19/science/spider-firefly-flash-web.html)
 * [2024-08-20, 11:16:47](https://news.ycombinator.com/item?id=41298899) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
-* [2024-08-20, 11:04:00](https://news.ycombinator.com/item?id=41298819) - [My Auschwitz vacation](https://harpers.org/archive/2024/09/my-auschwitz-vacation-tanya-gold-tourism/)
 * [2024-08-20, 10:57:27](https://news.ycombinator.com/item?id=41298794) - [Toasts Are Bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
 * [2024-08-20, 10:56:22](https://news.ycombinator.com/item?id=41298789) - [Show HN: Mailik – Effortlessly Receive Form Responses in Your Inbox](https://mailik.dev/)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
@@ -28,6 +27,7 @@
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
 * [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why It Matters, How to Curb It](https://arxiv.org/abs/2408.07710)
 * [2024-08-18, 13:09:53](https://news.ycombinator.com/item?id=41282157) - [Convert Markdown files to RSS feed](https://github.com/TimoKats/mdrss)
+* [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
 * [2024-08-16, 00:45:19](https://news.ycombinator.com/item?id=41262010) - [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
 * [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb (2021)](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 
