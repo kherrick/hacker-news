@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-20, 03:14:31](https://news.ycombinator.com/item?id=41296421) - [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)
-* [2024-08-20, 02:09:32](https://news.ycombinator.com/item?id=41296152) - [GM to Cut More Than 1k Software Engineers, Mostly in US](https://webcache.googleusercontent.com/search?q=cache:https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us)
 * [2024-08-20, 01:20:18](https://news.ycombinator.com/item?id=41295957) - [Procreate's anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
 * [2024-08-20, 01:13:23](https://news.ycombinator.com/item?id=41295923) - [Artificial intelligence is losing hype](https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype)
 * [2024-08-20, 01:00:51](https://news.ycombinator.com/item?id=41295845) - [Infisical (YC W23) Is Hiring Full Stack Engineer (Remote)](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
@@ -15,6 +14,7 @@
 * [2024-08-19, 19:32:02](https://news.ycombinator.com/item?id=41293929) - [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [2024-08-19, 19:28:22](https://news.ycombinator.com/item?id=41293901) - [Music recommendation system using transformer models](https://research.google/blog/transformers-in-music-recommendation/)
 * [2024-08-19, 19:19:44](https://news.ycombinator.com/item?id=41293850) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/)
+* [2024-08-19, 19:19:24](https://news.ycombinator.com/item?id=41293847) - [Client-side filtering of private data is a bad idea](https://mjg59.dreamwidth.org/70061.html)
 * [2024-08-19, 19:06:59](https://news.ycombinator.com/item?id=41293767) - [The guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
 * [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
 * [2024-08-19, 17:14:12](https://news.ycombinator.com/item?id=41292784) - [Migrating Mess with DNS to Use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
@@ -24,10 +24,10 @@
 * [2024-08-19, 14:40:42](https://news.ycombinator.com/item?id=41291470) - [Optimizing global message transit latency: a journey through TCP configuration](https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
 * [2024-08-19, 12:23:09](https://news.ycombinator.com/item?id=41290409) - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
+* [2024-08-19, 08:42:03](https://news.ycombinator.com/item?id=41289114) - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 * [2024-08-18, 13:36:07](https://news.ycombinator.com/item?id=41282307) - [Page Turns: Literary Translations on the American Ballet Theater's Summer Stage](https://lithub.com/page-turns-on-literary-translations-on-the-american-ballet-theaters-summer-stage/)
 * [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
 * [2024-08-15, 23:48:59](https://news.ycombinator.com/item?id=41261711) - [Searching a Codebase in English](https://www.greptile.com/blog/semantic)
-* [2024-08-15, 17:12:51](https://news.ycombinator.com/item?id=41258233) - [Mass Market DVDs Are Dead: Long Live Heritage Physical Media](https://variety.com/2024/film/global/heritage-physical-media-locarno-film-festival-1236105213/)
 * [2024-08-15, 12:36:30](https://news.ycombinator.com/item?id=41255203) - [Rhumb Line](https://en.wikipedia.org/wiki/Rhumb_line)
 * [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 

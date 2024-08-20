@@ -24,6 +24,7 @@
 * [2024-08-19, 19:32:02](https://news.ycombinator.com/item?id=41293929) - [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [2024-08-19, 19:28:22](https://news.ycombinator.com/item?id=41293901) - [Music recommendation system using transformer models](https://research.google/blog/transformers-in-music-recommendation/)
 * [2024-08-19, 19:19:44](https://news.ycombinator.com/item?id=41293850) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/)
+* [2024-08-19, 19:19:24](https://news.ycombinator.com/item?id=41293847) - [Client-side filtering of private data is a bad idea](https://mjg59.dreamwidth.org/70061.html)
 * [2024-08-19, 19:06:59](https://news.ycombinator.com/item?id=41293767) - [The guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
 * [2024-08-19, 18:32:39](https://news.ycombinator.com/item?id=41293505) - [Everyone's Life Is Weird](https://www.avabear.xyz/p/actually-everyones-life-is-weird)
 * [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
