@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 17:11:02](https://news.ycombinator.com/item?id=41301858) - [Harris has the right idea on housing](https://www.noahpinion.blog/p/harris-has-the-right-idea-on-housing)
 * [2024-08-20, 16:50:52](https://news.ycombinator.com/item?id=41301673) - [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/)
 * [2024-08-20, 16:46:57](https://news.ycombinator.com/item?id=41301639) - [Roc Lang – Elm but for everywhere [video]](https://www.youtube.com/watch?v=s--2X0kwe4Y)
 * [2024-08-20, 16:43:52](https://news.ycombinator.com/item?id=41301612) - [The AI photo editing era is here, and it's every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)
@@ -17,6 +18,7 @@
 * [2024-08-20, 14:15:33](https://news.ycombinator.com/item?id=41300277) - [The world is relying on a flawed psychological test to fight racism (2017)](https://qz.com/1144504/the-world-is-relying-on-a-flawed-psychological-test-to-fight-racism)
 * [2024-08-20, 14:10:03](https://news.ycombinator.com/item?id=41300244) - [The DA Says He's Innocent. He Might Spend Life in Prison Anyway](https://www.propublica.org/article/nashville-conviction-review-russell-maze-shaken-baby-syndrome)
 * [2024-08-20, 13:55:08](https://news.ycombinator.com/item?id=41300111) - [Waiting Time Paradox or Why Is My Bus Always Late?](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
+* [2024-08-20, 13:52:21](https://news.ycombinator.com/item?id=41300071) - [Nasir Ahmed's digital-compression breakthrough helped make JPEGs/MPEGs possible](https://spectrum.ieee.org/compression-algorithms)
 * [2024-08-20, 13:37:15](https://news.ycombinator.com/item?id=41299954) - [World’s oldest person, Maria Branyas Morera, dies aged 117](https://www.theguardian.com/world/article/2024/aug/20/worlds-oldest-person-maria-branyas-morera-dies-aged-117)
 * [2024-08-20, 12:49:15](https://news.ycombinator.com/item?id=41299594) - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)
 * [2024-08-20, 12:29:16](https://news.ycombinator.com/item?id=41299443) - [The Feds Are Skirting the 4th Amendment by Buying Data from Tech Companies](https://reason.com/2024/08/20/how-the-feds-buy-their-way-around-the-fourth-amendment/)
