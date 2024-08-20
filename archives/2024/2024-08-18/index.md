@@ -56,6 +56,7 @@
 * [2024-08-18, 14:14:24](https://news.ycombinator.com/item?id=41282514) - [Telegram Deletes User Groups Without Warning: A Concerning Issue](https://twitter.com/edisonjwa/status/1825142648933625913)
 * [2024-08-18, 14:11:50](https://news.ycombinator.com/item?id=41282495) - [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
 * [2024-08-18, 13:58:18](https://news.ycombinator.com/item?id=41282416) - [NASA Citizen Scientists Spot Object Moving 1M Miles per Hour](https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/)
+* [2024-08-18, 13:36:07](https://news.ycombinator.com/item?id=41282307) - [Page Turns: Literary Translations on the American Ballet Theater's Summer Stage](https://lithub.com/page-turns-on-literary-translations-on-the-american-ballet-theaters-summer-stage/)
 * [2024-08-18, 12:59:35](https://news.ycombinator.com/item?id=41282122) - [Fake insects – Find the AI generated insect](https://huggingface.co/spaces/victor/fake-insects)
 * [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [2024-08-18, 12:29:26](https://news.ycombinator.com/item?id=41281946) - [SolarWind Web Help Desk Java Deserialization Remote Code Execution Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2024-28986)

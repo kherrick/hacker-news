@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 23:53:21](https://news.ycombinator.com/item?id=41295519) - [What I Learned Working for Mark Zuckerberg](https://noahkagan.com/what-i-learned-working-for-mark-zuckerberg/)
+* [2024-08-19, 23:35:01](https://news.ycombinator.com/item?id=41295433) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-08-19, 21:45:56](https://news.ycombinator.com/item?id=41294822) - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
 * [2024-08-19, 21:34:30](https://news.ycombinator.com/item?id=41294764) - [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
 * [2024-08-19, 21:03:50](https://news.ycombinator.com/item?id=41294579) - [Millennials Are Becoming Boomers](https://awealthofcommonsense.com/2024/08/millennials-are-becoming-boomers/)
@@ -28,6 +30,7 @@
 * [2024-08-19, 17:19:55](https://news.ycombinator.com/item?id=41292827) - [Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults](https://sociologicalscience.com/articles-v11-20-553/)
 * [2024-08-19, 17:14:12](https://news.ycombinator.com/item?id=41292784) - [Migrating Mess with DNS to Use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
 * [2024-08-19, 17:01:07](https://news.ycombinator.com/item?id=41292692) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41292692)
+* [2024-08-19, 16:59:04](https://news.ycombinator.com/item?id=41292674) - [Ask HN: How do you work as a tech lead?](https://news.ycombinator.com/item?id=41292674)
 * [2024-08-19, 16:53:09](https://news.ycombinator.com/item?id=41292633) - [LLMs know more than what they say](https://arjunbansal.substack.com/p/llms-know-more-than-what-they-say)
 * [2024-08-19, 16:02:20](https://news.ycombinator.com/item?id=41292172) - [Ask HN: Google Ads Rejected My SaaS as Compromised Site](https://news.ycombinator.com/item?id=41292172)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
