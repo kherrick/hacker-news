@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-20, 19:04:53](https://news.ycombinator.com/item?id=41302944) - [Why Are Texas Interchanges So Tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
 * [2024-08-20, 18:47:49](https://news.ycombinator.com/item?id=41302782) - [Zed AI](https://zed.dev/blog/zed-ai)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 * [2024-08-20, 18:16:21](https://news.ycombinator.com/item?id=41302493) - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
@@ -23,10 +24,9 @@
 * [2024-08-20, 10:57:27](https://news.ycombinator.com/item?id=41298794) - [Toasts Are Bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 * [2024-08-20, 03:30:27](https://news.ycombinator.com/item?id=41296481) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
-* [2024-08-19, 20:10:48](https://news.ycombinator.com/item?id=41294202) - ['Rare species' not seen in the area for 50 years spotted on Arizona trail camera](https://phys.org/news/2024-08-rare-species-area-years-arizona.html)
+* [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
 * [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
 * [2024-08-18, 13:18:04](https://news.ycombinator.com/item?id=41282212) - [I wag, therefore I am: the philosophy of dogs](https://www.theguardian.com/books/article/2024/aug/18/i-wag-therefore-i-am-the-philosophy-of-dogs)
-* [2024-08-18, 13:09:53](https://news.ycombinator.com/item?id=41282157) - [Convert Markdown files to RSS feed](https://github.com/TimoKats/mdrss)
 * [2024-08-16, 02:59:24](https://news.ycombinator.com/item?id=41262739) - [SPL: A programming language coding in a grid](https://blog.scudata.com/a-programming-language-coding-in-a-grid/)
 * [2024-08-16, 00:45:19](https://news.ycombinator.com/item?id=41262010) - [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
 * [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb (2021)](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
