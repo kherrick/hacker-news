@@ -7,6 +7,7 @@
 * [2024-08-20, 07:47:32](https://news.ycombinator.com/item?id=41297798) - ['Model collapse'? An expert explains the rumours about an impending AI doom](https://theconversation.com/what-is-model-collapse-an-expert-explains-the-rumours-about-an-impending-ai-doom-236415)
 * [2024-08-20, 07:33:55](https://news.ycombinator.com/item?id=41297709) - [Mike Lynch's co-defendant in fraud trial 'fatally struck' by car while jogging](https://www.theguardian.com/uk-news/article/2024/aug/19/mike-lynchs-co-defendant-in-us-trial-fatally-struck-by-car-while-jogging)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: The practical and pragmatic code editor](https://pragtical.dev/)
+* [2024-08-20, 07:09:36](https://news.ycombinator.com/item?id=41297563) - [The U.S. Navy's $100M Checkbox (2019)](https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php)
 * [2024-08-20, 06:39:39](https://news.ycombinator.com/item?id=41297406) - [Shapez2 Released](https://shapez2.com/)
 * [2024-08-20, 05:21:52](https://news.ycombinator.com/item?id=41297061) - [2024's Hugo Award Winners Announced](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/)
 * [2024-08-20, 04:57:50](https://news.ycombinator.com/item?id=41296949) - [Phrack 71 Released](http://phrack.org/issues/71/1.html)
