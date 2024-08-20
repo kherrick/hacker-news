@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-20, 07:47:32](https://news.ycombinator.com/item?id=41297798) - ['Model collapse'? An expert explains the rumours about an impending AI doom](https://theconversation.com/what-is-model-collapse-an-expert-explains-the-rumours-about-an-impending-ai-doom-236415)
 * [2024-08-20, 07:33:55](https://news.ycombinator.com/item?id=41297709) - [Mike Lynch's co-defendant in fraud trial 'fatally struck' by car while jogging](https://www.theguardian.com/uk-news/article/2024/aug/19/mike-lynchs-co-defendant-in-us-trial-fatally-struck-by-car-while-jogging)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 * [2024-08-20, 06:39:39](https://news.ycombinator.com/item?id=41297406) - [Shapez2 Released](https://shapez2.com/)
@@ -11,7 +12,6 @@
 * [2024-08-19, 23:24:23](https://news.ycombinator.com/item?id=41295390) - [RP2040 Hid Remapper](https://github.com/jfedor2/hid-remapper)
 * [2024-08-19, 23:01:51](https://news.ycombinator.com/item?id=41295296) - [Good Refactoring vs. Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
 * [2024-08-19, 21:45:56](https://news.ycombinator.com/item?id=41294822) - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
-* [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 20:10:48](https://news.ycombinator.com/item?id=41294202) - ['Rare species' not seen in the area for 50 years spotted on Arizona trail camera](https://phys.org/news/2024-08-rare-species-area-years-arizona.html)
 * [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft)
 * [2024-08-19, 19:32:02](https://news.ycombinator.com/item?id=41293929) - [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
