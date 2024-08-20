@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 16:50:52](https://news.ycombinator.com/item?id=41301673) - [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/)
+* [2024-08-20, 16:46:57](https://news.ycombinator.com/item?id=41301639) - [Roc Lang – Elm but for everywhere [video]](https://www.youtube.com/watch?v=s--2X0kwe4Y)
+* [2024-08-20, 16:43:52](https://news.ycombinator.com/item?id=41301612) - [The AI photo editing era is here, and it's every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)
+* [2024-08-20, 16:38:59](https://news.ycombinator.com/item?id=41301572) - [The YouTube like button glows when you say \"smash that like button\" [video]](https://www.youtube.com/watch?v=obX2WdINsZo)
+* [2024-08-20, 16:25:26](https://news.ycombinator.com/item?id=41301463) - [Can Digital Emulations (Plugins) Ever Be as Good as Analog Hardware?](https://www.okmog.de/index.php/training/articles/can-digital-emulations-ever-be-as-good-as-analog-hardware)
 * [2024-08-20, 16:24:02](https://news.ycombinator.com/item?id=41301448) - [Launch HN: MinusX (YC S24) – AI assistant for data tools like Jupyter/Metabase](https://news.ycombinator.com/item?id=41301448)
+* [2024-08-20, 16:23:56](https://news.ycombinator.com/item?id=41301447) - [Exposure to the Sun's UV radiation may be good for you](https://www.economist.com/science-and-technology/2024/08/12/exposure-to-the-suns-uv-radiation-may-be-good-for-you)
 * [2024-08-20, 15:52:49](https://news.ycombinator.com/item?id=41301150) - [Host Your Own Copilot](https://dublog.net/blog/open-weight-copilots/)
 * [2024-08-20, 14:59:23](https://news.ycombinator.com/item?id=41300685) - [Stripe Built One of Silicon Valley's Best Engineering Teams (2013)](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
 * [2024-08-20, 14:25:03](https://news.ycombinator.com/item?id=41300368) - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
