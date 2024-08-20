@@ -2,12 +2,12 @@
 
 * [2024-08-20, 09:45:05](https://news.ycombinator.com/item?id=41298430) - [Foone gets a NUC binned by an AI startup](https://digipres.club/@foone/112990331505043510)
 * [2024-08-20, 09:24:48](https://news.ycombinator.com/item?id=41298312) - [&udm=14 for Safari (iOS/iPadOS)](https://apps.apple.com/gb/app/udm14-for-safari/id6520379591)
+* [2024-08-20, 08:47:03](https://news.ycombinator.com/item?id=41298116) - [Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 * [2024-08-20, 07:09:36](https://news.ycombinator.com/item?id=41297563) - [The U.S. Navy's $100M Checkbox (2019)](https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php)
 * [2024-08-20, 06:39:39](https://news.ycombinator.com/item?id=41297406) - [Shapez2 Released](https://shapez2.com/)
 * [2024-08-20, 04:57:50](https://news.ycombinator.com/item?id=41296949) - [Phrack 71](http://phrack.org/issues/71/1.html)
 * [2024-08-20, 03:30:27](https://news.ycombinator.com/item?id=41296481) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
-* [2024-08-20, 03:14:31](https://news.ycombinator.com/item?id=41296421) - [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)
 * [2024-08-20, 02:39:17](https://news.ycombinator.com/item?id=41296274) - [Neo Geo Dev: Fixed Point Numbers](https://mattgreer.dev/blog/neo-geo-dev-fixed-point/)
 * [2024-08-20, 01:00:51](https://news.ycombinator.com/item?id=41295845) - [Infisical (YC W23) Is Hiring Full Stack Engineer (Remote)](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
 * [2024-08-19, 23:35:01](https://news.ycombinator.com/item?id=41295433) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
