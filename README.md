@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-20, 14:59:23](https://news.ycombinator.com/item?id=41300685) - [Stripe Built One of Silicon Valley's Best Engineering Teams (2013)](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
 * [2024-08-20, 14:25:03](https://news.ycombinator.com/item?id=41300368) - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
+* [2024-08-20, 13:55:08](https://news.ycombinator.com/item?id=41300111) - [Waiting Time Paradox or Why Is My Bus Always Late?](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
 * [2024-08-20, 13:37:15](https://news.ycombinator.com/item?id=41299954) - [World’s oldest person, Maria Branyas Morera, dies aged 117](https://www.theguardian.com/world/article/2024/aug/20/worlds-oldest-person-maria-branyas-morera-dies-aged-117)
 * [2024-08-20, 12:49:15](https://news.ycombinator.com/item?id=41299594) - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)
 * [2024-08-20, 12:02:00](https://news.ycombinator.com/item?id=41299211) - [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
@@ -21,13 +23,11 @@
 * [2024-08-19, 19:28:22](https://news.ycombinator.com/item?id=41293901) - [Music recommendation system using transformer models](https://research.google/blog/transformers-in-music-recommendation/)
 * [2024-08-19, 19:19:24](https://news.ycombinator.com/item?id=41293847) - [Client-side filtering of private data is a bad idea](https://mjg59.dreamwidth.org/70061.html)
 * [2024-08-19, 19:06:59](https://news.ycombinator.com/item?id=41293767) - [The guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
-* [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 14:58:30](https://news.ycombinator.com/item?id=41291613) - [The creatives pushing nail art to sculptural new lengths](https://www.cnn.com/2024/08/19/style/sculptural-nail-art-manicures/index.html)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
 * [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why It Matters, How to Curb It](https://arxiv.org/abs/2408.07710)
 * [2024-08-18, 13:09:53](https://news.ycombinator.com/item?id=41282157) - [Convert Markdown files to RSS feed](https://github.com/TimoKats/mdrss)
-* [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
 * [2024-08-16, 00:45:19](https://news.ycombinator.com/item?id=41262010) - [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
 * [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 
