@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-20, 20:25:38](https://news.ycombinator.com/item?id=41303706) - [Meta permanently bans The Cradle in latest attack on free speech](https://thecradle.co/articles-id/26473)
+* [2024-08-20, 20:09:38](https://news.ycombinator.com/item?id=41303547) - [Judge orders removal of 1,000ft rotting ocean liner from Philadelphia pier](https://www.theguardian.com/us-news/article/2024/aug/20/ss-united-states-philadelphia-removal)
 * [2024-08-20, 19:27:52](https://news.ycombinator.com/item?id=41303159) - [MIT expericence after canceling the full Elsevier journals contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 * [2024-08-20, 18:16:21](https://news.ycombinator.com/item?id=41302493) - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
@@ -11,7 +13,6 @@
 * [2024-08-20, 17:41:26](https://news.ycombinator.com/item?id=41302144) - [The Harmless Pi-Hole Bug](https://www.kiyell.com/The-Harmless-Pihole-Bug/)
 * [2024-08-20, 17:36:58](https://news.ycombinator.com/item?id=41302103) - [Higher ultraviolet light exposure is associated with lower mortality](https://www.sciencedirect.com/science/article/pii/S1353829224001564)
 * [2024-08-20, 17:03:01](https://news.ycombinator.com/item?id=41301777) - [Show HN: Tree-sitter Integration for Swift](https://github.com/daspoon/tree-sitter-kit)
-* [2024-08-20, 16:50:52](https://news.ycombinator.com/item?id=41301673) - [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/)
 * [2024-08-20, 16:24:02](https://news.ycombinator.com/item?id=41301448) - [Launch HN: MinusX (YC S24) – AI assistant for data tools like Jupyter/Metabase](https://news.ycombinator.com/item?id=41301448)
 * [2024-08-20, 16:23:56](https://news.ycombinator.com/item?id=41301447) - [Exposure to the Sun's UV radiation may be good for you](https://www.economist.com/science-and-technology/2024/08/12/exposure-to-the-suns-uv-radiation-may-be-good-for-you)
 * [2024-08-20, 14:25:03](https://news.ycombinator.com/item?id=41300368) - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
@@ -19,7 +20,6 @@
 * [2024-08-20, 12:49:15](https://news.ycombinator.com/item?id=41299594) - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)
 * [2024-08-20, 12:02:00](https://news.ycombinator.com/item?id=41299211) - [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
 * [2024-08-20, 11:54:07](https://news.ycombinator.com/item?id=41299148) - [Transformers for Ruby](https://github.com/ankane/transformers-ruby)
-* [2024-08-20, 11:16:47](https://news.ycombinator.com/item?id=41298899) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:57:27](https://news.ycombinator.com/item?id=41298794) - [Toasts Are Bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 * [2024-08-20, 03:30:27](https://news.ycombinator.com/item?id=41296481) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
