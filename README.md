@@ -9,7 +9,6 @@
 * [2024-08-19, 23:35:01](https://news.ycombinator.com/item?id=41295433) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-08-19, 23:01:51](https://news.ycombinator.com/item?id=41295296) - [Good Refactoring vs. Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
 * [2024-08-19, 21:45:56](https://news.ycombinator.com/item?id=41294822) - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
-* [2024-08-19, 21:34:30](https://news.ycombinator.com/item?id=41294764) - [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
 * [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 20:10:48](https://news.ycombinator.com/item?id=41294202) - ['Rare species' not seen in the area for 50 years spotted on Arizona trail camera](https://phys.org/news/2024-08-rare-species-area-years-arizona.html)
 * [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft)
@@ -29,6 +28,7 @@
 * [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
 * [2024-08-15, 23:48:59](https://news.ycombinator.com/item?id=41261711) - [Searching a Codebase in English](https://www.greptile.com/blog/semantic)
 * [2024-08-15, 17:12:51](https://news.ycombinator.com/item?id=41258233) - [Mass Market DVDs Are Dead: Long Live Heritage Physical Media](https://variety.com/2024/film/global/heritage-physical-media-locarno-film-festival-1236105213/)
+* [2024-08-15, 12:36:30](https://news.ycombinator.com/item?id=41255203) - [Rhumb Line](https://en.wikipedia.org/wiki/Rhumb_line)
 * [2024-08-15, 07:37:54](https://news.ycombinator.com/item?id=41253850) - [Let's Write a Reverb](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 
 ## [Archives](archives/index.md)
