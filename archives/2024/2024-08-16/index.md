@@ -110,5 +110,6 @@
 * [2024-08-16, 01:57:23](https://news.ycombinator.com/item?id=41262407) - [Disney wants wrongful death suit thrown out because widower had Disney+](https://www.cnn.com/2024/08/14/business/disney-plus-wrongful-death-lawsuit/index.html)
 * [2024-08-16, 01:25:44](https://news.ycombinator.com/item?id=41262244) - [SREBench Competition](https://sreben.ch/)
 * [2024-08-16, 00:50:34](https://news.ycombinator.com/item?id=41262043) - [Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
+* [2024-08-16, 00:45:19](https://news.ycombinator.com/item?id=41262010) - [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
 * [2024-08-16, 00:41:16](https://news.ycombinator.com/item?id=41261986) - [CEOs Are Running Companies from Afar Even as Workers Return to Office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
 * [2024-08-16, 00:27:37](https://news.ycombinator.com/item?id=41261902) - [We're Cutting L40S Prices in Half](https://fly.io/blog/cutting-prices-for-l40s-gpus-in-half/)

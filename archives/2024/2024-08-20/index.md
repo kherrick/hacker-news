@@ -11,4 +11,5 @@
 * [2024-08-20, 01:20:18](https://news.ycombinator.com/item?id=41295957) - [Procreate's anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
 * [2024-08-20, 01:13:23](https://news.ycombinator.com/item?id=41295923) - [Artificial intelligence is losing hype](https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype)
 * [2024-08-20, 01:00:51](https://news.ycombinator.com/item?id=41295845) - [Infisical (YC W23) Is Hiring Full Stack Engineer (Remote)](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
+* [2024-08-20, 00:38:59](https://news.ycombinator.com/item?id=41295730) - [6th-generation Waymo Driver](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver/)
 * [2024-08-20, 00:12:36](https://news.ycombinator.com/item?id=41295609) - [Boeing Halts 777X Flight Tests over Damage Found in Engine Mount](https://www.bloomberg.com/news/articles/2024-08-19/boeing-halts-777x-flight-tests-over-damage-found-in-engine-mount)
