@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 04:57:50](https://news.ycombinator.com/item?id=41296949) - [Phrack 71 Released](http://phrack.org/issues/71/1.html)
 * [2024-08-20, 03:14:31](https://news.ycombinator.com/item?id=41296421) - [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)
 * [2024-08-20, 03:04:40](https://news.ycombinator.com/item?id=41296366) - [Show HN: I Made an AI Song Generator](https://song.do)
 * [2024-08-20, 02:09:32](https://news.ycombinator.com/item?id=41296152) - [GM to Cut More Than 1k Software Engineers, Mostly in US](https://webcache.googleusercontent.com/search?q=cache:https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us)
