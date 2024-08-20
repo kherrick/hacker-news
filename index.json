@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-08-20, 01:13:23",
-      "https://news.ycombinator.com/item?id=41295923"
-    ],
-    [
-      "Artificial intelligence is losing hype",
-      "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 01:00:51",
       "https://news.ycombinator.com/item?id=41295845"
     ],
@@ -41,12 +31,12 @@
   ],
   [
     [
-      "2024-08-20, 00:12:36",
-      "https://news.ycombinator.com/item?id=41295609"
+      "2024-08-20, 00:38:59",
+      "https://news.ycombinator.com/item?id=41295730"
     ],
     [
-      "Boeing Halts 777X Flight Tests over Damage Found in Engine Mount",
-      "https://www.bloomberg.com/news/articles/2024-08-19/boeing-halts-777x-flight-tests-over-damage-found-in-engine-mount"
+      "6th-generation Waymo Driver",
+      "https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver/"
     ]
   ],
   [
@@ -57,6 +47,16 @@
     [
       "On the cruelty of really teaching computing science (1988)",
       "https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 23:24:23",
+      "https://news.ycombinator.com/item?id=41295390"
+    ],
+    [
+      "RP2040 Hid Remapper",
+      "https://github.com/jfedor2/hid-remapper"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-08-19, 08:42:03",
-      "https://news.ycombinator.com/item?id=41289114"
-    ],
-    [
-      "Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)",
-      "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html"
-    ]
-  ],
-  [
-    [
       "2024-08-18, 13:36:07",
       "https://news.ycombinator.com/item?id=41282307"
     ],
@@ -267,6 +257,16 @@
     [
       "Spine – 2D skeletal animation for games, with physical secondary motions",
       "https://en.esotericsoftware.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 00:45:19",
+      "https://news.ycombinator.com/item?id=41262010"
+    ],
+    [
+      "When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)",
+      "https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667"
     ]
   ],
   [
