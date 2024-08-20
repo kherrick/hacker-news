@@ -37,6 +37,7 @@
 * [2024-08-19, 16:02:20](https://news.ycombinator.com/item?id=41292172) - [Ask HN: Google Ads Rejected My SaaS as Compromised Site](https://news.ycombinator.com/item?id=41292172)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 15:44:53](https://news.ycombinator.com/item?id=41292012) - [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)
+* [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 14:40:42](https://news.ycombinator.com/item?id=41291470) - [Optimizing global message transit latency: a journey through TCP configuration](https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration)
 * [2024-08-19, 14:35:42](https://news.ycombinator.com/item?id=41291425) - [Ollama now supports tool calling with popular models in local LLM](https://ollama.com/blog/tool-support)
 * [2024-08-19, 14:29:48](https://news.ycombinator.com/item?id=41291360) - [Demand for seed-oil-free foods is growing](https://www.foodnavigator.com/Article/2024/07/26/demand-for-seed-oil-free-foods-is-growing)
