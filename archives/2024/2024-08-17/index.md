@@ -69,6 +69,7 @@
 * [2024-08-17, 05:20:02](https://news.ycombinator.com/item?id=41272294) - [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
 * [2024-08-17, 04:43:40](https://news.ycombinator.com/item?id=41272216) - [Private Internet](https://kevincox.ca/2024/08/16/private-internet/)
 * [2024-08-17, 04:42:52](https://news.ycombinator.com/item?id=41272213) - [Slackdump](https://github.com/rusq/slackdump)
+* [2024-08-17, 04:31:26](https://news.ycombinator.com/item?id=41272192) - [Intel's Thunderbolt Share is a speedy sneakernet replacement and more](https://www.pcworld.com/article/2330173/meet-thunderbolt-share-intels-ultra-fast-sneakernet-replacement-and-more.html)
 * [2024-08-17, 03:39:52](https://news.ycombinator.com/item?id=41272075) - [Flightaware Security Breach](https://www.pilotsofamerica.com/community/threads/flightaware-security-breach.148348/)
 * [2024-08-17, 02:09:34](https://news.ycombinator.com/item?id=41271839) - [Ditch the Sim Rig! Use Your Car Instead](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/)
 * [2024-08-17, 01:10:59](https://news.ycombinator.com/item?id=41271667) - [Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
