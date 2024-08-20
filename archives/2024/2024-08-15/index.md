@@ -44,6 +44,7 @@
 * [2024-08-15, 17:36:21](https://news.ycombinator.com/item?id=41258492) - [German climate activists stop air traffic after breaking into four airport sites](https://www.theguardian.com/world/article/2024/aug/15/german-climate-activists-breach-four-airport-sites-halting-air-traffic)
 * [2024-08-15, 17:16:47](https://news.ycombinator.com/item?id=41258276) - [Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)
 * [2024-08-15, 17:13:34](https://news.ycombinator.com/item?id=41258241) - [Galois Theory of Algorithms (2018) [pdf]](https://arxiv.org/abs/1011.0014)
+* [2024-08-15, 17:12:51](https://news.ycombinator.com/item?id=41258233) - [Mass Market DVDs Are Dead: Long Live Heritage Physical Media](https://variety.com/2024/film/global/heritage-physical-media-locarno-film-festival-1236105213/)
 * [2024-08-15, 17:10:06](https://news.ycombinator.com/item?id=41258201) - [Kim Dotcom: The Full Story](https://www.digitalwelt.org/en/digital-subcultures/kim-dotcom-story)
 * [2024-08-15, 17:01:10](https://news.ycombinator.com/item?id=41258123) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-08-15, 16:36:15](https://news.ycombinator.com/item?id=41257861) - [When something that was working, suddenly doesn't work when demoing to others](https://en.wiktionary.org/wiki/Vorf%C3%BChreffekt)
