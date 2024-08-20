@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-08-20, 16:50:52",
+      "https://news.ycombinator.com/item?id=41301673"
+    ],
+    [
+      "Fine-tuning now available for GPT-4o",
+      "https://openai.com/index/gpt-4o-fine-tuning/"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 16:46:57",
+      "https://news.ycombinator.com/item?id=41301639"
+    ],
+    [
+      "Roc Lang – Elm but for everywhere [video]",
+      "https://www.youtube.com/watch?v=s--2X0kwe4Y"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 16:43:52",
+      "https://news.ycombinator.com/item?id=41301612"
+    ],
+    [
+      "The AI photo editing era is here, and it's every person for themselves",
+      "https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 16:38:59",
+      "https://news.ycombinator.com/item?id=41301572"
+    ],
+    [
+      "The YouTube like button glows when you say \"smash that like button\" [video]",
+      "https://www.youtube.com/watch?v=obX2WdINsZo"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 16:25:26",
+      "https://news.ycombinator.com/item?id=41301463"
+    ],
+    [
+      "Can Digital Emulations (Plugins) Ever Be as Good as Analog Hardware?",
+      "https://www.okmog.de/index.php/training/articles/can-digital-emulations-ever-be-as-good-as-analog-hardware"
+    ]
+  ],
+  [
+    [
       "2024-08-20, 16:24:02",
       "https://news.ycombinator.com/item?id=41301448"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2024-08-20, 15:52:49",
-      "https://news.ycombinator.com/item?id=41301150"
+      "2024-08-20, 16:23:56",
+      "https://news.ycombinator.com/item?id=41301447"
     ],
     [
-      "Host Your Own Copilot",
-      "https://dublog.net/blog/open-weight-copilots/"
+      "Exposure to the Sun's UV radiation may be good for you",
+      "https://www.economist.com/science-and-technology/2024/08/12/exposure-to-the-suns-uv-radiation-may-be-good-for-you"
     ]
   ],
   [
@@ -77,16 +127,6 @@
     [
       "Transformers for Ruby",
       "https://github.com/ankane/transformers-ruby"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 11:28:24",
-      "https://news.ycombinator.com/item?id=41298969"
-    ],
-    [
-      "Spider Uses a Light Show to Trick Eager Male Fireflies into Its Web",
-      "https://www.nytimes.com/2024/08/19/science/spider-firefly-flash-web.html"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2024-08-19, 19:49:22",
-      "https://news.ycombinator.com/item?id=41294067"
-    ],
-    [
-      "13ft – A site similar to 12ft.io but self-hosted",
-      "https://github.com/wasi-master/13ft"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 19:32:02",
       "https://news.ycombinator.com/item?id=41293929"
     ],
@@ -197,16 +227,6 @@
     [
       "Music recommendation system using transformer models",
       "https://research.google/blog/transformers-in-music-recommendation/"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 19:19:24",
-      "https://news.ycombinator.com/item?id=41293847"
-    ],
-    [
-      "Client-side filtering of private data is a bad idea",
-      "https://mjg59.dreamwidth.org/70061.html"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-08-19, 14:58:30",
-      "https://news.ycombinator.com/item?id=41291613"
-    ],
-    [
-      "The creatives pushing nail art to sculptural new lengths",
-      "https://www.cnn.com/2024/08/19/style/sculptural-nail-art-manicures/index.html"
-    ]
-  ],
-  [
-    [
       "2024-08-18, 15:06:01",
       "https://news.ycombinator.com/item?id=41282798"
     ],
@@ -257,16 +267,6 @@
     [
       "Convert Markdown files to RSS feed",
       "https://github.com/TimoKats/mdrss"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 17:40:10",
-      "https://news.ycombinator.com/item?id=41268540"
-    ],
-    [
-      "Spine – 2D skeletal animation for games, with physical secondary motions",
-      "https://en.esotericsoftware.com/"
     ]
   ],
   [
