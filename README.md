@@ -2,6 +2,7 @@
 
 * [2024-08-20, 03:14:31](https://news.ycombinator.com/item?id=41296421) - [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)
 * [2024-08-20, 03:04:40](https://news.ycombinator.com/item?id=41296366) - [Show HN: I Made an AI Song Generator](https://song.do)
+* [2024-08-20, 02:09:32](https://news.ycombinator.com/item?id=41296152) - [GM to Cut More Than 1k Software Engineers, Mostly in US](https://webcache.googleusercontent.com/search?q=cache:https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us)
 * [2024-08-20, 01:20:18](https://news.ycombinator.com/item?id=41295957) - [Procreate's anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
 * [2024-08-20, 01:13:23](https://news.ycombinator.com/item?id=41295923) - [Artificial intelligence is losing hype](https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype)
 * [2024-08-20, 01:00:51](https://news.ycombinator.com/item?id=41295845) - [Infisical (YC W23) Is Hiring Full Stack Engineer (Remote)](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
@@ -9,7 +10,6 @@
 * [2024-08-19, 23:35:01](https://news.ycombinator.com/item?id=41295433) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-08-19, 23:01:51](https://news.ycombinator.com/item?id=41295296) - [Good Refactoring vs. Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
 * [2024-08-19, 21:45:56](https://news.ycombinator.com/item?id=41294822) - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
-* [2024-08-19, 21:34:30](https://news.ycombinator.com/item?id=41294764) - [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
 * [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 20:10:48](https://news.ycombinator.com/item?id=41294202) - ['Rare species' not seen in the area for 50 years spotted on Arizona trail camera](https://phys.org/news/2024-08-rare-species-area-years-arizona.html)
 * [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft)
