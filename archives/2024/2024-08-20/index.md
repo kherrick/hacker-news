@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 18:47:49](https://news.ycombinator.com/item?id=41302782) - [Zed AI](https://zed.dev/blog/zed-ai)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 * [2024-08-20, 18:16:21](https://news.ycombinator.com/item?id=41302493) - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
 * [2024-08-20, 18:13:21](https://news.ycombinator.com/item?id=41302453) - [Making Database Systems Usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
