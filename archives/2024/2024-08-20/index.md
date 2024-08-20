@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
 * [2024-08-20, 16:24:02](https://news.ycombinator.com/item?id=41301448) - [Launch HN: MinusX (YC S24) – AI assistant for data tools like Jupyter/Metabase](https://news.ycombinator.com/item?id=41301448)
+* [2024-08-20, 15:52:49](https://news.ycombinator.com/item?id=41301150) - [Host Your Own Copilot](https://dublog.net/blog/open-weight-copilots/)
 * [2024-08-20, 14:59:23](https://news.ycombinator.com/item?id=41300685) - [Stripe Built One of Silicon Valley's Best Engineering Teams (2013)](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
 * [2024-08-20, 14:25:03](https://news.ycombinator.com/item?id=41300368) - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
 * [2024-08-20, 14:15:33](https://news.ycombinator.com/item?id=41300277) - [The world is relying on a flawed psychological test to fight racism (2017)](https://qz.com/1144504/the-world-is-relying-on-a-flawed-psychological-test-to-fight-racism)
