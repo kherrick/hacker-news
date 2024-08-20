@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-20, 09:45:05](https://news.ycombinator.com/item?id=41298430) - [Foone gets a NUC binned by an AI startup](https://digipres.club/@foone/112990331505043510)
+* [2024-08-20, 09:24:48](https://news.ycombinator.com/item?id=41298312) - [&udm=14 for Safari (iOS/iPadOS)](https://apps.apple.com/gb/app/udm14-for-safari/id6520379591)
 * [2024-08-20, 07:15:34](https://news.ycombinator.com/item?id=41297609) - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 * [2024-08-20, 07:09:36](https://news.ycombinator.com/item?id=41297563) - [The U.S. Navy's $100M Checkbox (2019)](https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php)
 * [2024-08-20, 06:39:39](https://news.ycombinator.com/item?id=41297406) - [Shapez2 Released](https://shapez2.com/)
@@ -24,7 +25,6 @@
 * [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
 * [2024-08-18, 13:09:53](https://news.ycombinator.com/item?id=41282157) - [Convert Markdown files to RSS feed](https://github.com/TimoKats/mdrss)
-* [2024-08-17, 04:31:26](https://news.ycombinator.com/item?id=41272192) - [Intel's Thunderbolt Share is a speedy sneakernet replacement and more](https://www.pcworld.com/article/2330173/meet-thunderbolt-share-intels-ultra-fast-sneakernet-replacement-and-more.html)
 * [2024-08-16, 17:40:10](https://news.ycombinator.com/item?id=41268540) - [Spine – 2D skeletal animation for games, with physical secondary motions](https://en.esotericsoftware.com/)
 * [2024-08-16, 00:45:19](https://news.ycombinator.com/item?id=41262010) - [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks (2016)](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
 * [2024-08-15, 13:43:30](https://news.ycombinator.com/item?id=41255975) - [Against the Advice of My Superintelligence](https://taylor.town/my-superintelligence)
