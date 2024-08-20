@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 21:00:26](https://news.ycombinator.com/item?id=41304014) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-08-20, 20:25:38](https://news.ycombinator.com/item?id=41303706) - [Meta permanently bans The Cradle in latest attack on free speech](https://thecradle.co/articles-id/26473)
 * [2024-08-20, 20:09:38](https://news.ycombinator.com/item?id=41303547) - [Judge orders removal of 1,000ft rotting ocean liner from Philadelphia pier](https://www.theguardian.com/us-news/article/2024/aug/20/ss-united-states-philadelphia-removal)
 * [2024-08-20, 19:38:19](https://news.ycombinator.com/item?id=41303260) - [OpenAI Partners with Condé Nast](https://openai.com/index/conde-nast/)
