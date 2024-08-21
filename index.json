@@ -21,22 +21,22 @@
   ],
   [
     [
-      "2024-08-21, 15:55:49",
-      "https://news.ycombinator.com/item?id=41311461"
-    ],
-    [
-      "Russia: Citizens must turn off home surveillance because Ukrainians are coming",
-      "https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 15:54:05",
       "https://news.ycombinator.com/item?id=41311446"
     ],
     [
       "There aren't that many uses for blockchains (2022)",
       "https://calpaterson.com/blockchain.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 15:25:05",
+      "https://news.ycombinator.com/item?id=41311222"
+    ],
+    [
+      "Eli Lilly's weight loss drug slashes the risk of diabetes in long-term trial",
+      "https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-08-20, 18:13:21",
+      "https://news.ycombinator.com/item?id=41302453"
+    ],
+    [
+      "Making database systems usable",
+      "http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html"
+    ]
+  ],
+  [
+    [
       "2024-08-20, 13:52:21",
       "https://news.ycombinator.com/item?id=41300071"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2024-08-20, 12:02:00",
-      "https://news.ycombinator.com/item?id=41299211"
+      "2024-08-20, 11:54:07",
+      "https://news.ycombinator.com/item?id=41299148"
     ],
     [
-      "Basic Mechanisms In Fire Control Computers (1953) [video]",
-      "https://www.youtube.com/watch?v=gwf5mAlI7Ug"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 10:57:27",
-      "https://news.ycombinator.com/item?id=41298794"
-    ],
-    [
-      "Toasts are bad UX",
-      "https://maxschmitt.me/posts/toasts-bad-ux"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 07:09:36",
-      "https://news.ycombinator.com/item?id=41297563"
-    ],
-    [
-      "The U.S. Navy's $100M checkbox (2019)",
-      "https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php"
+      "Transformers for Ruby",
+      "https://github.com/ankane/transformers-ruby"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "On finishing projects",
       "https://www.alexreichert.com/blog/finishing"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 07:16:28",
+      "https://news.ycombinator.com/item?id=41288579"
+    ],
+    [
+      "Migrating from DokuWiki to Obsidian",
+      "https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=41271139"
     ],
     [
-      "Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf]",
+      "Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)",
       "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf"
     ]
   ]
