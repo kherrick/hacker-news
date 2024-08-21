@@ -6,6 +6,7 @@
 
 * [2024-08-21, 18:42:55](https://news.ycombinator.com/item?id=41312984) - [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
 * [2024-08-21, 18:42:20](https://news.ycombinator.com/item?id=41312975) - [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
+* [2024-08-21, 18:32:54](https://news.ycombinator.com/item?id=41312883) - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
 * [2024-08-21, 17:31:26](https://news.ycombinator.com/item?id=41312381) - [Google's 'Reimagine' tool helped us add wrecks, disasters, and corpses to photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
 * [2024-08-21, 17:22:52](https://news.ycombinator.com/item?id=41312317) - [Hurricane season has flatlined. When will it roar back to life?](https://www.washingtonpost.com/weather/2024/08/21/hurricane-season-atlantic-tropical-storms/)
 * [2024-08-21, 17:15:29](https://news.ycombinator.com/item?id=41312259) - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
