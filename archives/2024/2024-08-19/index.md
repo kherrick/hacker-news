@@ -39,6 +39,7 @@
 * [2024-08-19, 17:01:07](https://news.ycombinator.com/item?id=41292692) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41292692)
 * [2024-08-19, 16:59:04](https://news.ycombinator.com/item?id=41292674) - [Ask HN: How do you work as a tech lead?](https://news.ycombinator.com/item?id=41292674)
 * [2024-08-19, 16:53:09](https://news.ycombinator.com/item?id=41292633) - [LLMs know more than what they say](https://arjunbansal.substack.com/p/llms-know-more-than-what-they-say)
+* [2024-08-19, 16:17:12](https://news.ycombinator.com/item?id=41292321) - [Maps Mania: How the World Powers Itself](https://googlemapsmania.blogspot.com/2024/08/how-world-powers-itself.html)
 * [2024-08-19, 16:02:20](https://news.ycombinator.com/item?id=41292172) - [Ask HN: Google Ads Rejected My SaaS as Compromised Site](https://news.ycombinator.com/item?id=41292172)
 * [2024-08-19, 15:54:56](https://news.ycombinator.com/item?id=41292103) - [Schedule Email API](https://resend.com/blog/introducing-the-schedule-email-api)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
