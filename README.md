@@ -3,7 +3,6 @@
 * [2024-08-21, 17:15:29](https://news.ycombinator.com/item?id=41312259) - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 * [2024-08-21, 17:01:26](https://news.ycombinator.com/item?id=41312134) - [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 * [2024-08-21, 15:54:05](https://news.ycombinator.com/item?id=41311446) - [There aren't that many uses for blockchains (2022)](https://calpaterson.com/blockchain.html)
-* [2024-08-21, 15:25:05](https://news.ycombinator.com/item?id=41311222) - [Eli Lilly's weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
 * [2024-08-21, 15:09:42](https://news.ycombinator.com/item?id=41311071) - [Mimalloc Cigarette: Losing one week of my life catching a memory leak (Rust)](https://pwy.io/posts/mimalloc-cigarette/)
 * [2024-08-21, 14:46:17](https://news.ycombinator.com/item?id=41310834) - [Self-Supervised Learning for Videos](https://www.lightly.ai/post/self-supervised-learning-for-videos)
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to Build a 50K Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
@@ -30,6 +29,7 @@
 * [2024-08-17, 04:04:26](https://news.ycombinator.com/item?id=41272125) - [David Mackenzie – A Personal History with Linux and BSD Unix [video]](https://www.youtube.com/watch?v=D7vfI-WSP8Q)
 * [2024-08-17, 00:13:19](https://news.ycombinator.com/item?id=41271453) - [Evolution of adhesive systems in amphibians by shifts in gene expression](https://www.nature.com/articles/s41467-024-49917-3)
 * [2024-08-16, 22:59:50](https://news.ycombinator.com/item?id=41271139) - [Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
+* [2024-08-16, 16:34:56](https://news.ycombinator.com/item?id=41267894) - [The 1 Hour per Year Bug, but only in Pacific time](https://tomeraberba.ch/the-1-hour-per-year-bug)
 
 ## [Archives](archives/index.md)
 
