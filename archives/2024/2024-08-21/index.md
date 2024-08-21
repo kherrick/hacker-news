@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 05:52:31](https://news.ycombinator.com/item?id=41307166) - [Australia approves 17-20GW solar power link to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
 * [2024-08-21, 05:22:27](https://news.ycombinator.com/item?id=41307011) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 * [2024-08-21, 05:13:48](https://news.ycombinator.com/item?id=41306978) - [Sonos CEO says the old app can't be rereleased](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
 * [2024-08-21, 04:02:10](https://news.ycombinator.com/item?id=41306664) - [The Decay of Boeing](https://brief.bismarckanalysis.com/p/the-decay-of-boeing)
