@@ -22,6 +22,7 @@
 * [2024-08-21, 15:54:05](https://news.ycombinator.com/item?id=41311446) - [There aren't that many uses for blockchains (2022)](https://calpaterson.com/blockchain.html)
 * [2024-08-21, 15:25:05](https://news.ycombinator.com/item?id=41311222) - [Eli Lilly's weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
 * [2024-08-21, 15:09:42](https://news.ycombinator.com/item?id=41311071) - [Mimalloc Cigarette: Losing one week of my life catching a memory leak (Rust)](https://pwy.io/posts/mimalloc-cigarette/)
+* [2024-08-21, 14:50:20](https://news.ycombinator.com/item?id=41310865) - [Mathematicians Prove Hawking Wrong About the Most Extreme Black Holes](https://www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/)
 * [2024-08-21, 14:46:17](https://news.ycombinator.com/item?id=41310834) - [Self-Supervised Learning for Videos](https://www.lightly.ai/post/self-supervised-learning-for-videos)
 * [2024-08-21, 14:05:48](https://news.ycombinator.com/item?id=41310433) - [Revisiting the Classics: Jensen's Inequality (2023)](https://francisbach.com/jensen-inequality/)
 * [2024-08-21, 14:03:00](https://news.ycombinator.com/item?id=41310404) - [Trillian Tessera: Next Generation Tile-Based Transparency Logs](https://blog.transparency.dev/introducing-trillian-tessera)
