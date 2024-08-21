@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-21, 21:01:27](https://news.ycombinator.com/item?id=41314161) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
+* [2024-08-21, 20:26:13](https://news.ycombinator.com/item?id=41313920) - [IT tycoon Mike Lynch, daughter Hannah found dead](https://www.theregister.com/2024/08/21/mike_lynch_dead/)
 * [2024-08-21, 20:07:48](https://news.ycombinator.com/item?id=41313740) - [US hospital told family their daughter had checked out when in fact she'd died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
-* [2024-08-21, 18:42:55](https://news.ycombinator.com/item?id=41312984) - [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
 * [2024-08-21, 18:32:54](https://news.ycombinator.com/item?id=41312883) - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
 * [2024-08-21, 18:29:08](https://news.ycombinator.com/item?id=41312845) - [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
 * [2024-08-21, 17:49:40](https://news.ycombinator.com/item?id=41312521) - [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
