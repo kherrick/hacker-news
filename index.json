@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-08-21, 11:12:28",
-      "https://news.ycombinator.com/item?id=41309072"
+      "2024-08-21, 11:59:34",
+      "https://news.ycombinator.com/item?id=41309387"
     ],
     [
-      "Rye and Uv: August Is Harvest Season for Python Packaging",
-      "https://lucumr.pocoo.org/2024/8/21/harvest-season/"
+      "The Atlantic is cooling at record speed and nobody knows why",
+      "https://www.scihb.com/2024/08/the-atlantic-is-cooling-at-record-speed.html"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41307195"
     ],
     [
-      "PS4 Emulator for Windows,Linux,macOS",
+      "PS4 Emulator for Windows, Linux, macOS",
       "https://github.com/shadps4-emu/shadPS4"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41307011"
     ],
     [
-      "Being on The Semantic Web is easy, and, frankly, well worth the bother",
+      "The Semantic Web is now very widely adopted",
       "https://csvbase.com/blog/13"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "Plasmo – a framework for building modern Chrome extensions",
       "https://github.com/PlasmoHQ/plasmo"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 21:36:12",
+      "https://news.ycombinator.com/item?id=41304335"
+    ],
+    [
+      "Taichi: Productive, portable, and performant GPU programming in Python",
+      "https://github.com/taichi-dev/taichi"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-08-19, 20:17:35",
-      "https://news.ycombinator.com/item?id=41294254"
-    ],
-    [
-      "JavaScript weakmaps should be iterable",
-      "https://wingolog.org/archives/2024/08/19/javascript-weakmaps-should-be-iterable"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 18:03:21",
       "https://news.ycombinator.com/item?id=41293219"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-08-17, 08:54:44",
+      "https://news.ycombinator.com/item?id=41272893"
+    ],
+    [
+      "The weird of function-local types in Rust",
+      "https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 04:04:26",
       "https://news.ycombinator.com/item?id=41272125"
     ],
     [
       "David Mackenzie – A Personal History with Linux and BSD Unix [video]",
       "https://www.youtube.com/watch?v=D7vfI-WSP8Q"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 16:34:56",
-      "https://news.ycombinator.com/item?id=41267894"
-    ],
-    [
-      "The 1 Hour per Year Bug (But Only in Pacific Time!)",
-      "https://tomeraberba.ch/the-1-hour-per-year-bug"
     ]
   ]
 ]
