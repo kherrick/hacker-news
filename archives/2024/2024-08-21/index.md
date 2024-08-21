@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
 * [2024-08-21, 05:22:27](https://news.ycombinator.com/item?id=41307011) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
+* [2024-08-21, 05:13:48](https://news.ycombinator.com/item?id=41306978) - [Sonos CEO says the old app can't be rereleased](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
 * [2024-08-21, 03:44:27](https://news.ycombinator.com/item?id=41306589) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/)
 * [2024-08-21, 02:08:56](https://news.ycombinator.com/item?id=41306128) - [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
 * [2024-08-21, 01:10:29](https://news.ycombinator.com/item?id=41305770) - [PUBG developer Krafton make a life simulation game inzoi](https://playinzoi.com/en)
