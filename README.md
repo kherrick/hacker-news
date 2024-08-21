@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-21, 20:07:48](https://news.ycombinator.com/item?id=41313740) - [US hospital told family their daughter had checked out when in fact she'd died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
 * [2024-08-21, 18:42:55](https://news.ycombinator.com/item?id=41312984) - [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
-* [2024-08-21, 18:42:20](https://news.ycombinator.com/item?id=41312975) - [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
 * [2024-08-21, 18:32:54](https://news.ycombinator.com/item?id=41312883) - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
 * [2024-08-21, 18:29:08](https://news.ycombinator.com/item?id=41312845) - [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
 * [2024-08-21, 17:49:40](https://news.ycombinator.com/item?id=41312521) - [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
-* [2024-08-21, 17:49:34](https://news.ycombinator.com/item?id=41312520) - [Duck Typing (Horror) in Go](https://www.ccampo.me/go/2024/08/20/go-duck-typing.html)
+* [2024-08-21, 17:49:34](https://news.ycombinator.com/item?id=41312520) - [Duck typing (horror) in Go](https://www.ccampo.me/go/2024/08/20/go-duck-typing.html)
 * [2024-08-21, 17:15:29](https://news.ycombinator.com/item?id=41312259) - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 * [2024-08-21, 17:11:48](https://news.ycombinator.com/item?id=41312225) - [Midjourney web experience is now open to everyone](https://www.midjourney.com/)
 * [2024-08-21, 17:01:26](https://news.ycombinator.com/item?id=41312134) - [Flexport (YC W14) is hiring a senior product designer for our newest product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
@@ -29,7 +29,7 @@
 * [2024-08-17, 08:54:44](https://news.ycombinator.com/item?id=41272893) - [The weird of function-local types in Rust](https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust)
 * [2024-08-17, 04:04:26](https://news.ycombinator.com/item?id=41272125) - [David Mackenzie – A Personal History with Linux and BSD Unix [video]](https://www.youtube.com/watch?v=D7vfI-WSP8Q)
 * [2024-08-16, 22:59:50](https://news.ycombinator.com/item?id=41271139) - [Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
-* [2024-08-16, 07:06:41](https://news.ycombinator.com/item?id=41263876) - [Better Living Through Algorithms (just won the Hugo for short SF story [1])](https://clarkesworldmagazine.com/kritzer_05_23/)
+* [2024-08-16, 07:06:41](https://news.ycombinator.com/item?id=41263876) - [Better Living Through Algorithms (2023)](https://clarkesworldmagazine.com/kritzer_05_23/)
 
 ## [Archives](archives/index.md)
 
