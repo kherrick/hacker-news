@@ -142,11 +142,33 @@
             <h4>
               <span>2024-08-21 @ 17:31:26</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41312381"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41312317">
+          <h3>
+            <a
+              class="item"
+              href="https://www.washingtonpost.com/weather/2024/08/21/hurricane-season-atlantic-tropical-storms/"
+              >Hurricane season has flatlined. When will it roar back to
+              life?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-21 @ 17:22:52</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41312317"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -161,11 +183,11 @@
             <h4>
               <span>2024-08-21 @ 17:15:29</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41312259"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -188,23 +210,153 @@
             </h4>
           </section>
         </section>
-        <section id="41311446">
+        <section id="41312084">
           <h3>
-            <a class="item" href="https://calpaterson.com/blockchain.html"
-              >There aren't that many uses for blockchains (2022)</a
+            <a
+              class="item"
+              href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/"
+              >Code Review Antipatterns</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-21 @ 15:54:05</span
+              <span>2024-08-21 @ 16:55:55</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41311446"
+                ><a href="https://news.ycombinator.com/item?id=41312084"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41312079">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41312079"
+              >Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model
+              weights</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-21 @ 16:55:36</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41312079"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://outerport.com">https://outerport.com</a>), a
+              distribution network for AI model weights that enables
+              ‘hot-swapping’ of AI models to save on GPU costs.
+              <p>
+                ‘Hot-swapping’ lets you serve different models on the same GPU
+                machine with only ~2 second swap times (~150x faster than
+                baseline). You can see this in action through a live demo where
+                you try the same prompts on different open source large language
+                models at
+                <a href="https://hotswap.outerport.com"
+                  >https://hotswap.outerport.com</a
+                >
+                and see the docs here
+                <a href="https://docs.outerport.com"
+                  >https://docs.outerport.com</a
+                >.
+              </p>
+              <p>
+                Running AI models on the cloud is expensive. Outerport came from
+                our own experience working on AI services ourselves and
+                struggling with the cost.
+              </p>
+              <p>
+                Cloud GPUs are charged by the amount of time used. A long
+                start-up time (from loading models into GPU memory) means that
+                to serve requests quickly, we need to acquire extra GPUs with
+                models pre-loaded for spare capacity (i.e. ‘overprovision’). The
+                time spent on loading models also adds to the cost. Both lead to
+                inefficient use of expensive hardware.
+              </p>
+              <p>
+                The long start-up times are caused by how massive modern AI
+                models are, particularly large language models. These models are
+                often several gigabytes to terabytes in size. Their sizes
+                continue to grow as models evolve, exacerbating the issue.
+              </p>
+              <p>
+                GPU capacity also needs to adapt dynamically according to
+                demand, further complicating the issue. Starting up a new
+                machine with another GPU is time consuming, and sending a large
+                model there is also time consuming.
+              </p>
+              <p>
+                Traditional container-based solutions and orchestration systems
+                (like Docker, Kubernetes) are not optimized for these large,
+                storage-intensive AI models, as they are designed for smaller,
+                more numerous containerized applications (which are usually 50MB
+                to 1GB in size). There needs to be a solution that is designed
+                specifically for model weights (floating point arrays) running
+                on GPUs, to take advantage of things like layer sharing, caching
+                and compression.
+              </p>
+              <p>
+                We made Outerport, a specialized system to manage and deploy AI
+                models, as a solution to these problems and to help save GPU
+                costs.
+              </p>
+              <p>
+                Outerport is a caching system for model weights, allowing
+                read-only models to be cached in pinned RAM for fast loading
+                into GPU. Outerport is also hierarchical, maintaining a cache
+                across S3 to local SSD to RAM to GPU memory, optimizing for
+                reduced data transfer costs and load balancing.
+              </p>
+              <p>
+                Within Outerport, models are managed by a dedicated daemon
+                process which handles transfer to GPU, loading models from
+                registry, and orchestrates the ‘hot swapping’ of multiple models
+                on one machine.
+              </p>
+              <p>
+                ‘Hot-swapping’ lets you provision a single GPU machine to be
+                ‘multi-tenant’, such that multiple services with different
+                models can run on the same machine. For example, this can
+                facilitate A/B testing of two different models or having a text
+                generation &amp; image generation endpoint on the same machine.
+              </p>
+              <p>
+                We have been busy running simulations to determine the cost
+                reductions we can get from leveraging this multi-model service
+                scheme instead of multiple single-model services. Our initial
+                simulation results show that we can achieve a 40% reduction in
+                GPU running time costs. This improvement can be attributed to
+                the multi-model service’s ability to smoothen out peaks of
+                traffic, enabling more effective horizontal scaling. Overall,
+                less time is wasted on acquiring additional machines and model
+                loading, significantly saving costs. Our hypothesis is that the
+                cost savings are substantial enough to make a viable business
+                while still saving customers significant amounts of money.
+              </p>
+              <p>
+                We think that there are lots of exciting directions to take from
+                here—from more sophisticated compression algorithms to providing
+                a central platform for model management and governance. Towaki
+                worked on ML systems and model compression at NVIDIA, and Allen
+                used to do research in operations research, which is also why
+                we’re so excited about this problem as something that combines
+                both.
+              </p>
+              <p>
+                We’re super excited to share Outerport with you all. We’re also
+                intending to release as much as possible of this in an open core
+                model when we’re ready. We would love to know what you think—and
+                experiences you have in working on this, related problems, or
+                any other ideas you might have on this problem!
+              </p>
+            </div>
           </section>
         </section>
         <section id="41311071">
@@ -218,7 +370,7 @@
             <h4>
               <span>2024-08-21 @ 15:09:42</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41311071"
                   >Comments</a
@@ -239,9 +391,28 @@
             <h4>
               <span>2024-08-21 @ 14:46:17</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41310834"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41310433">
+          <h3>
+            <a class="item" href="https://francisbach.com/jensen-inequality/"
+              >Revisiting the Classics: Jensen's Inequality (2023)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-21 @ 14:05:48</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41310433"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
@@ -260,11 +431,11 @@
             <h4>
               <span>2024-08-21 @ 14:00:47</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41310384"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -279,11 +450,11 @@
             <h4>
               <span>2024-08-21 @ 11:43:19</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41309292"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -300,11 +471,11 @@
             <h4>
               <span>2024-08-21 @ 10:15:09</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41308712"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -321,11 +492,11 @@
             <h4>
               <span>2024-08-21 @ 09:59:41</span
               ><span class="points-container"
-                >Points: <span class="points">549</span></span
+                >Points: <span class="points">568</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41308599"
                   >Comments</a
-                ><span class="descendants">: 160</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -342,7 +513,7 @@
             <h4>
               <span>2024-08-21 @ 08:32:48</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41308114"
                   >Comments</a
@@ -362,7 +533,7 @@
             <h4>
               <span>2024-08-21 @ 07:47:05</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41307815"
                   >Comments</a
@@ -377,25 +548,6 @@
               generates and rasterizes handwriting-style font, backed by a
               super-lightweight RNN model (~14MiB).
             </div>
-          </section>
-        </section>
-        <section id="41307195">
-          <h3>
-            <a class="item" href="https://github.com/shadps4-emu/shadPS4"
-              >ShadPS4 – PlayStation 4 emulator</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-21 @ 05:58:12</span
-              ><span class="points-container"
-                >Points: <span class="points">319</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41307195"
-                  >Comments</a
-                ><span class="descendants">: 144</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="41307166">
@@ -415,7 +567,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41307166"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -430,11 +582,11 @@
             <h4>
               <span>2024-08-21 @ 05:22:27</span
               ><span class="points-container"
-                >Points: <span class="points">366</span></span
+                >Points: <span class="points">368</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41307011"
                   >Comments</a
-                ><span class="descendants">: 222</span></span
+                ><span class="descendants">: 224</span></span
               >
             </h4>
           </section>
@@ -449,11 +601,11 @@
             <h4>
               <span>2024-08-21 @ 02:08:56</span
               ><span class="points-container"
-                >Points: <span class="points">388</span></span
+                >Points: <span class="points">401</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41306128"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -468,7 +620,7 @@
             <h4>
               <span>2024-08-20 @ 21:56:05</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41304508"
                   >Comments</a
@@ -488,11 +640,11 @@
             <h4>
               <span>2024-08-20 @ 20:57:04</span
               ><span class="points-container"
-                >Points: <span class="points">599</span></span
+                >Points: <span class="points">610</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41303974"
                   >Comments</a
-                ><span class="descendants">: 295</span></span
+                ><span class="descendants">: 300</span></span
               >
             </h4>
           </section>
@@ -513,28 +665,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41302597"
                   >Comments</a
-                ><span class="descendants">: 169</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41302453">
-          <h3>
-            <a
-              class="item"
-              href="http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html"
-              >Making database systems usable</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-20 @ 18:13:21</span
-              ><span class="points-container"
-                >Points: <span class="points">128</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41302453"
-                  >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 170</span></span
               >
             </h4>
           </section>
@@ -561,25 +692,6 @@
             </h4>
           </section>
         </section>
-        <section id="41299148">
-          <h3>
-            <a class="item" href="https://github.com/ankane/transformers-ruby"
-              >Transformers for Ruby</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-20 @ 11:54:07</span
-              ><span class="points-container"
-                >Points: <span class="points">346</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41299148"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41293219">
           <h3>
             <a class="item" href="https://www.alexreichert.com/blog/finishing"
@@ -590,32 +702,32 @@
             <h4>
               <span>2024-08-19 @ 18:03:21</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41293219"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="41288579">
+        <section id="41287641">
           <h3>
             <a
               class="item"
-              href="https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/"
-              >Migrating from DokuWiki to Obsidian</a
+              href="https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/"
+              >The Origins of the Bloody Mary (2014)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-19 @ 07:16:28</span
+              <span>2024-08-19 @ 03:48:49</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41288579"
+                ><a href="https://news.ycombinator.com/item?id=41287641"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -637,7 +749,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41282948"
                   >Comments</a
-                ><span class="descendants">: 365</span></span
+                ><span class="descendants">: 369</span></span
               >
             </h4>
           </section>
@@ -654,11 +766,11 @@
             <h4>
               <span>2024-08-18 @ 12:42:11</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41282033"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -675,11 +787,11 @@
             <h4>
               <span>2024-08-17 @ 08:54:44</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41272893"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -695,7 +807,7 @@
             <h4>
               <span>2024-08-17 @ 04:04:26</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41272125"
                   >Comments</a
@@ -721,7 +833,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41271453"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
