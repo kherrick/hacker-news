@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-21, 05:58:12](https://news.ycombinator.com/item?id=41307195) - [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 05:52:31](https://news.ycombinator.com/item?id=41307166) - [Australia approves 17-20GW solar power link to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
 * [2024-08-21, 05:22:27](https://news.ycombinator.com/item?id=41307011) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 * [2024-08-21, 05:13:48](https://news.ycombinator.com/item?id=41306978) - [Sonos CEO says the old app can't be rereleased](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
-* [2024-08-21, 04:02:10](https://news.ycombinator.com/item?id=41306664) - [The Decay of Boeing](https://brief.bismarckanalysis.com/p/the-decay-of-boeing)
 * [2024-08-21, 03:44:27](https://news.ycombinator.com/item?id=41306589) - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/)
 * [2024-08-21, 02:51:56](https://news.ycombinator.com/item?id=41306332) - [How I started blogging (2024)](https://roarepally.com/blog/why-I-blog)
 * [2024-08-21, 02:08:56](https://news.ycombinator.com/item?id=41306128) - [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
@@ -27,7 +27,7 @@
 * [2024-08-18, 18:24:15](https://news.ycombinator.com/item?id=41284189) - [Show HN: Wd-40, a static webserver with automatic hot-reloads](https://github.com/baalimago/wd-40)
 * [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [A road safety plan that will lead to cars communicating with each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
 * [2024-08-18, 15:07:51](https://news.ycombinator.com/item?id=41282807) - [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/)
-* [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why it matters, how to curb it](https://arxiv.org/abs/2408.07710)
+* [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer (2012)](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [2024-08-16, 18:37:32](https://news.ycombinator.com/item?id=41269093) - [Postgres feature you're not using – CTEs a.k.a. WITH clauses](https://www.craigkerstiens.com/2013/11/18/best-postgres-feature-youre-not-using/)
 * [2024-08-16, 16:34:56](https://news.ycombinator.com/item?id=41267894) - [The 1 Hour per Year Bug (But Only in Pacific Time!)](https://tomeraberba.ch/the-1-hour-per-year-bug)
 
