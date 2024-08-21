@@ -8,6 +8,7 @@
 * [2024-08-20, 22:19:53](https://news.ycombinator.com/item?id=41304695) - [US Judge Strikes Down Ban on Worker 'Noncompete' Agreements](https://www.reuters.com/legal/us-judge-strikes-down-biden-administration-ban-worker-noncompete-agreements-2024-08-20/)
 * [2024-08-20, 21:56:05](https://news.ycombinator.com/item?id=41304508) - [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 * [2024-08-20, 21:00:26](https://news.ycombinator.com/item?id=41304014) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+* [2024-08-20, 20:57:04](https://news.ycombinator.com/item?id=41303974) - [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/)
 * [2024-08-20, 20:41:49](https://news.ycombinator.com/item?id=41303844) - [An admittedly wandering defense of the SSO tax](https://ssoready.com/blog/from-the-founders/an-unpopular-perspective-on-the-sso-tax/)
 * [2024-08-20, 20:25:38](https://news.ycombinator.com/item?id=41303706) - [Meta permanently bans The Cradle in latest attack on free speech](https://thecradle.co/articles-id/26473)
 * [2024-08-20, 20:09:38](https://news.ycombinator.com/item?id=41303547) - [Judge orders removal of 1,000ft rotting ocean liner from Philadelphia pier](https://www.theguardian.com/us-news/article/2024/aug/20/ss-united-states-philadelphia-removal)
