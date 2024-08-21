@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2024-08-21, 20:26:13",
-      "https://news.ycombinator.com/item?id=41313920"
+      "2024-08-21, 20:42:03",
+      "https://news.ycombinator.com/item?id=41314039"
     ],
     [
-      "IT tycoon Mike Lynch, daughter Hannah found dead",
-      "https://www.theregister.com/2024/08/21/mike_lynch_dead/"
+      "Do low-level optimizations matter? Faster quicksort with cmov",
+      "http://cantrip.org/sortfast.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 20:39:50",
+      "https://news.ycombinator.com/item?id=41314031"
+    ],
+    [
+      "Euclid's Proof that √2 is Irrational",
+      "https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "US hospital told family their daughter had checked out when in fact she'd died",
       "https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 19:56:56",
+      "https://news.ycombinator.com/item?id=41313619"
+    ],
+    [
+      ".less: Crafting .less Docker Containers That Will Blow Your Mind",
+      "https://pointlesscode.dev/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-08-21, 05:22:27",
-      "https://news.ycombinator.com/item?id=41307011"
-    ],
-    [
-      "The semantic web is now widely adopted",
-      "https://csvbase.com/blog/13"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 02:08:56",
       "https://news.ycombinator.com/item?id=41306128"
     ],
     [
       "Calling All Hackers",
       "https://phrack.org/issues/71/17.html#article"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 20:57:04",
-      "https://news.ycombinator.com/item?id=41303974"
-    ],
-    [
-      "Zen, a Arc-like open-source browser based on the Firefox engine",
-      "https://www.zen-browser.app/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-08-17, 04:04:26",
-      "https://news.ycombinator.com/item?id=41272125"
-    ],
-    [
-      "David Mackenzie – A Personal History with Linux and BSD Unix [video]",
-      "https://www.youtube.com/watch?v=D7vfI-WSP8Q"
-    ]
-  ],
-  [
-    [
       "2024-08-16, 22:59:50",
       "https://news.ycombinator.com/item?id=41271139"
     ],
     [
       "Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)",
       "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 15:47:03",
+      "https://news.ycombinator.com/item?id=41267412"
+    ],
+    [
+      "Py5, a Python version of Processing for your creative coding projects",
+      "http://py5coding.org/index.html"
     ]
   ],
   [
