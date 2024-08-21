@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 17:15:29](https://news.ycombinator.com/item?id=41312259) - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 * [2024-08-21, 17:01:26](https://news.ycombinator.com/item?id=41312134) - [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 * [2024-08-21, 16:01:15](https://news.ycombinator.com/item?id=41311519) - [U.S. Added 818,000 Fewer Jobs Than Reported Earlier](https://www.nytimes.com/2024/08/21/business/economy/us-jobs-economy.html)
 * [2024-08-21, 15:55:49](https://news.ycombinator.com/item?id=41311461) - [Russia: Citizens must turn off home surveillance because Ukrainians are coming](https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/)

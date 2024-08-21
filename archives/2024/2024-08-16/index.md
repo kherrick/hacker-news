@@ -8,6 +8,7 @@
 * [2024-08-16, 23:27:21](https://news.ycombinator.com/item?id=41271273) - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
 * [2024-08-16, 23:22:40](https://news.ycombinator.com/item?id=41271248) - [How high speed fiber optic internet cables are made](https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/)
 * [2024-08-16, 23:16:28](https://news.ycombinator.com/item?id=41271223) - [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)
+* [2024-08-16, 22:59:50](https://news.ycombinator.com/item?id=41271139) - [Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf]](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
 * [2024-08-16, 22:52:30](https://news.ycombinator.com/item?id=41271098) - [Painting with Plotters](https://github.com/LiciaHe/painting_with_plotters)
 * [2024-08-16, 22:38:06](https://news.ycombinator.com/item?id=41271014) - [Show HN: Learn Blender shortcuts with lots of tiny videos](https://hollisbrown.github.io/blendershortcuts/)
 * [2024-08-16, 22:09:26](https://news.ycombinator.com/item?id=41270830) - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
