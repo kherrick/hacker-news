@@ -2,7 +2,6 @@
 
 * [2024-08-20, 22:19:53](https://news.ycombinator.com/item?id=41304695) - [US Judge Strikes Down Ban on Worker 'Noncompete' Agreements](https://www.reuters.com/legal/us-judge-strikes-down-biden-administration-ban-worker-noncompete-agreements-2024-08-20/)
 * [2024-08-20, 21:00:26](https://news.ycombinator.com/item?id=41304014) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-* [2024-08-20, 20:41:49](https://news.ycombinator.com/item?id=41303844) - [An admittedly wandering defense of the SSO tax](https://ssoready.com/blog/from-the-founders/an-unpopular-perspective-on-the-sso-tax/)
 * [2024-08-20, 19:27:52](https://news.ycombinator.com/item?id=41303159) - [MIT leaders describe the experience of not renewing Elsevier contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
 * [2024-08-20, 19:04:53](https://news.ycombinator.com/item?id=41302944) - [Why are Texas interchanges so tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
 * [2024-08-20, 18:47:49](https://news.ycombinator.com/item?id=41302782) - [Zed AI](https://zed.dev/blog/zed-ai)
@@ -29,6 +28,7 @@
 * [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [A road safety plan that will lead to cars communicating with each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
 * [2024-08-18, 15:07:51](https://news.ycombinator.com/item?id=41282807) - [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/)
 * [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why it matters, how to curb it](https://arxiv.org/abs/2408.07710)
+* [2024-08-18, 13:18:04](https://news.ycombinator.com/item?id=41282212) - [I wag, therefore I am: the philosophy of dogs](https://www.theguardian.com/books/article/2024/aug/18/i-wag-therefore-i-am-the-philosophy-of-dogs)
 * [2024-08-16, 20:10:21](https://news.ycombinator.com/item?id=41269925) - [The First Mass Produced DRAM of the Soviet Union](https://www.cpushack.com/2023/12/21/the-first-mass-produced-dram-of-the-soviet-union/)
 
 ## [Archives](archives/index.md)
