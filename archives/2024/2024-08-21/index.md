@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 12:36:53](https://news.ycombinator.com/item?id=41309664) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 12:01:07](https://news.ycombinator.com/item?id=41309401) - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
 * [2024-08-21, 11:59:34](https://news.ycombinator.com/item?id=41309387) - [The Atlantic is cooling at record speed and nobody knows why](https://www.scihb.com/2024/08/the-atlantic-is-cooling-at-record-speed.html)
 * [2024-08-21, 11:12:28](https://news.ycombinator.com/item?id=41309072) - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 09:14:33](https://news.ycombinator.com/item?id=41308361) - [Why has nuclear power been a flop? (2021)](https://blog.rootsofprogress.org/devanney-on-the-nuclear-flop)
+* [2024-08-21, 08:32:48](https://news.ycombinator.com/item?id=41308114) - [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
 * [2024-08-21, 08:22:09](https://news.ycombinator.com/item?id=41308038) - [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
 * [2024-08-21, 08:14:30](https://news.ycombinator.com/item?id=41307993) - [AMD and FreeBSD Begin Collaborating over OS Improvements](https://www.phoronix.com/news/FreeBSD-Q2-2024-Improvements)
+* [2024-08-21, 07:47:05](https://news.ycombinator.com/item?id=41307815) - [Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
 * [2024-08-21, 06:23:10](https://news.ycombinator.com/item?id=41307341) - [Show HN: Webaggr – handpicked collection of landing page design](https://webaggr.com/)
 * [2024-08-21, 05:58:12](https://news.ycombinator.com/item?id=41307195) - [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 05:52:31](https://news.ycombinator.com/item?id=41307166) - [Australia approves 17-20GW solar power link to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
