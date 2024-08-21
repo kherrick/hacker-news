@@ -77,3 +77,4 @@
 * [2024-08-17, 02:09:34](https://news.ycombinator.com/item?id=41271839) - [Ditch the Sim Rig! Use Your Car Instead](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/)
 * [2024-08-17, 01:10:59](https://news.ycombinator.com/item?id=41271667) - [Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
 * [2024-08-17, 00:16:46](https://news.ycombinator.com/item?id=41271458) - [Show HN: an AI copilot for Next.js developers](https://useglass.ai)
+* [2024-08-17, 00:13:19](https://news.ycombinator.com/item?id=41271453) - [Evolution of adhesive systems in amphibians by shifts in gene expression](https://www.nature.com/articles/s41467-024-49917-3)
