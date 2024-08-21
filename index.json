@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41310217"
     ],
     [
-      "Dual-boot systems warn after Microsoft update, Cannot boot into Linux",
+      "“Something has gone seriously wrong,” dual-boot systems warn after MS update",
       "https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/"
     ]
   ],
@@ -91,32 +91,12 @@
   ],
   [
     [
-      "2024-08-20, 23:47:22",
-      "https://news.ycombinator.com/item?id=41305272"
-    ],
-    [
-      "Show HN: A simple and powerful RSS reader for the web",
-      "https://www.feedbomb.app"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 21:56:05",
       "https://news.ycombinator.com/item?id=41304508"
     ],
     [
       "Plasmo – a framework for building modern Chrome extensions",
       "https://github.com/PlasmoHQ/plasmo"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 21:36:12",
-      "https://news.ycombinator.com/item?id=41304335"
-    ],
-    [
-      "Taichi: Productive, portable, and performant GPU programming in Python",
-      "https://github.com/taichi-dev/taichi"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-08-19, 07:16:28",
+      "https://news.ycombinator.com/item?id=41288579"
+    ],
+    [
+      "Migrating from DokuWiki to Obsidian",
+      "https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 18:24:15",
       "https://news.ycombinator.com/item?id=41284189"
     ],
@@ -297,6 +287,16 @@
     [
       "David Mackenzie – A Personal History with Linux and BSD Unix [video]",
       "https://www.youtube.com/watch?v=D7vfI-WSP8Q"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 16:34:56",
+      "https://news.ycombinator.com/item?id=41267894"
+    ],
+    [
+      "The 1 Hour per Year Bug, but only in Pacific time",
+      "https://tomeraberba.ch/the-1-hour-per-year-bug"
     ]
   ]
 ]
