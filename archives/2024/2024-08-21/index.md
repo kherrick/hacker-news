@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 13:43:48](https://news.ycombinator.com/item?id=41310217) - [Dual-boot systems warn after Microsoft update, Cannot boot into Linux](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
 * [2024-08-21, 12:36:53](https://news.ycombinator.com/item?id=41309664) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 12:01:07](https://news.ycombinator.com/item?id=41309401) - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
 * [2024-08-21, 11:59:34](https://news.ycombinator.com/item?id=41309387) - [The Atlantic is cooling at record speed and nobody knows why](https://www.scihb.com/2024/08/the-atlantic-is-cooling-at-record-speed.html)
 * [2024-08-21, 11:12:28](https://news.ycombinator.com/item?id=41309072) - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
+* [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 09:14:33](https://news.ycombinator.com/item?id=41308361) - [Why has nuclear power been a flop? (2021)](https://blog.rootsofprogress.org/devanney-on-the-nuclear-flop)
 * [2024-08-21, 08:32:48](https://news.ycombinator.com/item?id=41308114) - [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
 * [2024-08-21, 08:22:09](https://news.ycombinator.com/item?id=41308038) - [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
