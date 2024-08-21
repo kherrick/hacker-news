@@ -69,6 +69,7 @@
 * [2024-08-15, 14:23:36](https://news.ycombinator.com/item?id=41256477) - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 * [2024-08-15, 14:19:16](https://news.ycombinator.com/item?id=41256414) - [A $36,000 Graphical Workstation from 1993 – SGI Indigo 2](https://www.youtube.com/watch?v=1PP--lVTPCQ)
 * [2024-08-15, 14:18:13](https://news.ycombinator.com/item?id=41256401) - [Show HN: Mindtown.ai – an open source Midjourney alternative built on top FLUX](https://mindtown.ai/)
+* [2024-08-15, 14:08:32](https://news.ycombinator.com/item?id=41256266) - [3D Cellular Automata](https://williamyang98.github.io/3D-Cellular-Automata/)
 * [2024-08-15, 14:05:30](https://news.ycombinator.com/item?id=41256222) - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
 * [2024-08-15, 14:01:36](https://news.ycombinator.com/item?id=41256167) - [I disapprove of what you say, but will defend to the death your right to say it](https://www.socratic-method.com/quote-meanings-interpretations/evelyn-beatrice-hall-i-disapprove-of-what-you-say-but-i-will-defend-to-the-death-your-right-to-say-it)
 * [2024-08-15, 13:53:20](https://news.ycombinator.com/item?id=41256077) - [We have discovered antibiotics in the global microbiome with AI](https://www.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
