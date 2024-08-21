@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-08-21, 12:01:07",
+      "https://news.ycombinator.com/item?id=41309401"
+    ],
+    [
+      "Sieve (YC W22) Is hiring engineers to build AI [video] developer tools",
+      "https://www.sievedata.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 11:12:28",
+      "https://news.ycombinator.com/item?id=41309072"
+    ],
+    [
+      "Rye and Uv: August Is Harvest Season for Python Packaging",
+      "https://lucumr.pocoo.org/2024/8/21/harvest-season/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 08:22:09",
       "https://news.ycombinator.com/item?id=41308038"
     ],
     [
       "ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X",
       "https://screen-play.app/"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 06:23:10",
-      "https://news.ycombinator.com/item?id=41307341"
-    ],
-    [
-      "Show HN: Webaggr – handpicked collection of landing page design",
-      "https://webaggr.com/"
     ]
   ],
   [
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2024-08-21, 02:51:56",
-      "https://news.ycombinator.com/item?id=41306332"
-    ],
-    [
-      "How I started blogging (2024)",
-      "https://roarepally.com/blog/why-I-blog"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 02:08:56",
       "https://news.ycombinator.com/item?id=41306128"
     ],
     [
       "Calling All Hackers",
       "https://phrack.org/issues/71/17.html#article"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 01:04:06",
-      "https://news.ycombinator.com/item?id=41305736"
-    ],
-    [
-      "Ares Industries – Building low-cost cruise missiles",
-      "https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles"
     ]
   ],
   [
@@ -91,22 +81,22 @@
   ],
   [
     [
-      "2024-08-20, 21:00:26",
-      "https://news.ycombinator.com/item?id=41304014"
-    ],
-    [
-      "Emerge Tools (YC W21) is hiring a senior front end engineer",
-      "https://www.emergetools.com/careers/jobs/senior-frontend-engineer"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 20:57:04",
       "https://news.ycombinator.com/item?id=41303974"
     ],
     [
       "Zen, a Arc-like open-source browser based on the Firefox engine",
       "https://www.zen-browser.app/"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 19:27:52",
+      "https://news.ycombinator.com/item?id=41303159"
+    ],
+    [
+      "MIT leaders describe the experience of not renewing Elsevier contract",
+      "https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Artificial intelligence is losing hype",
       "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 20:17:35",
+      "https://news.ycombinator.com/item?id=41294254"
+    ],
+    [
+      "JavaScript weakmaps should be iterable",
+      "https://wingolog.org/archives/2024/08/19/javascript-weakmaps-should-be-iterable"
     ]
   ],
   [
