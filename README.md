@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-21, 21:52:05](https://news.ycombinator.com/item?id=41314542) - [Crypto 'pig butchering' scam wrecks bank, sends ex-CEO to prison for 24 years](https://www.cnbc.com/2024/08/21/cryptocurrency-shan-hanes-pig-butchering-scam.html)
 * [2024-08-21, 21:39:38](https://news.ycombinator.com/item?id=41314453) - [New anti-speeding system coming to Australia is dangerous](https://www.carexpert.com.au/opinion/new-anti-speeding-system-coming-to-australia-is-dangerous)
 * [2024-08-21, 21:01:27](https://news.ycombinator.com/item?id=41314161) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
 * [2024-08-21, 20:42:03](https://news.ycombinator.com/item?id=41314039) - [Do low-level optimizations matter? Faster quicksort with cmov (2020)](http://cantrip.org/sortfast.html)
@@ -26,7 +27,6 @@
 * [2024-08-21, 05:52:31](https://news.ycombinator.com/item?id=41307166) - [Australian government approves AAPowerLink project to export solar to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
 * [2024-08-21, 02:08:56](https://news.ycombinator.com/item?id=41306128) - [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
 * [2024-08-19, 03:48:49](https://news.ycombinator.com/item?id=41287641) - [The Origins of the Bloody Mary (2014)](https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/)
-* [2024-08-17, 08:54:44](https://news.ycombinator.com/item?id=41272893) - [The weird of function-local types in Rust](https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust)
 * [2024-08-16, 22:59:50](https://news.ycombinator.com/item?id=41271139) - [Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
 * [2024-08-16, 15:47:03](https://news.ycombinator.com/item?id=41267412) - [Py5, a Python version of Processing for your creative coding projects](http://py5coding.org/index.html)
 * [2024-08-16, 07:06:41](https://news.ycombinator.com/item?id=41263876) - [Better Living Through Algorithms (2023)](https://clarkesworldmagazine.com/kritzer_05_23/)

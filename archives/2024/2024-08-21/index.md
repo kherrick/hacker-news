@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 21:52:05](https://news.ycombinator.com/item?id=41314542) - [Crypto 'pig butchering' scam wrecks bank, sends ex-CEO to prison for 24 years](https://www.cnbc.com/2024/08/21/cryptocurrency-shan-hanes-pig-butchering-scam.html)
 * [2024-08-21, 21:39:38](https://news.ycombinator.com/item?id=41314453) - [New anti-speeding system coming to Australia is dangerous](https://www.carexpert.com.au/opinion/new-anti-speeding-system-coming-to-australia-is-dangerous)
 * [2024-08-21, 21:01:27](https://news.ycombinator.com/item?id=41314161) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
 * [2024-08-21, 20:42:03](https://news.ycombinator.com/item?id=41314039) - [Do low-level optimizations matter? Faster quicksort with cmov](http://cantrip.org/sortfast.html)
