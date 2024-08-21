@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 16:01:15](https://news.ycombinator.com/item?id=41311519) - [U.S. Added 818,000 Fewer Jobs Than Reported Earlier](https://www.nytimes.com/2024/08/21/business/economy/us-jobs-economy.html)
+* [2024-08-21, 15:25:05](https://news.ycombinator.com/item?id=41311222) - [Eli Lilly's weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
 * [2024-08-21, 14:03:00](https://news.ycombinator.com/item?id=41310404) - [Trillian Tessera: Next Generation Tile-Based Transparency Logs](https://blog.transparency.dev/introducing-trillian-tessera)
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to Build a 50k Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 * [2024-08-21, 13:43:48](https://news.ycombinator.com/item?id=41310217) - [Dual-boot systems warn after Microsoft update, Cannot boot into Linux](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
