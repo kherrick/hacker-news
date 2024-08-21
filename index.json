@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-08-20, 18:27:45",
-      "https://news.ycombinator.com/item?id=41302597"
-    ],
-    [
-      "Data Exfiltration from Slack AI via indirect prompt injection",
-      "https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 13:52:21",
       "https://news.ycombinator.com/item?id=41300071"
     ],
@@ -297,6 +287,16 @@
     [
       "Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)",
       "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 07:06:41",
+      "https://news.ycombinator.com/item?id=41263876"
+    ],
+    [
+      "Better Living Through Algorithms (just won the Hugo for short SF story [1])",
+      "https://clarkesworldmagazine.com/kritzer_05_23/"
     ]
   ]
 ]
