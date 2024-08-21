@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-21, 08:14:30](https://news.ycombinator.com/item?id=41307993) - [AMD and FreeBSD Begin Collaborating over OS Improvements](https://www.phoronix.com/news/FreeBSD-Q2-2024-Improvements)
 * [2024-08-21, 05:58:12](https://news.ycombinator.com/item?id=41307195) - [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 05:52:31](https://news.ycombinator.com/item?id=41307166) - [Australia approves 17-20GW solar power link to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
 * [2024-08-21, 05:22:27](https://news.ycombinator.com/item?id=41307011) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
@@ -22,7 +23,6 @@
 * [2024-08-20, 07:09:36](https://news.ycombinator.com/item?id=41297563) - [The U.S. Navy's $100M checkbox (2019)](https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php)
 * [2024-08-20, 01:13:23](https://news.ycombinator.com/item?id=41295923) - [Artificial intelligence is losing hype](https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype)
 * [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
-* [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
 * [2024-08-18, 18:24:15](https://news.ycombinator.com/item?id=41284189) - [Show HN: Wd-40, a static webserver with automatic hot-reloads](https://github.com/baalimago/wd-40)
 * [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [A road safety plan that will lead to cars communicating with each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
 * [2024-08-18, 15:07:51](https://news.ycombinator.com/item?id=41282807) - [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/)
