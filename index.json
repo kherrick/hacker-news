@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-20, 22:19:53",
-      "https://news.ycombinator.com/item?id=41304695"
+      "2024-08-21, 00:38:55",
+      "https://news.ycombinator.com/item?id=41305591"
     ],
     [
-      "US Judge Strikes Down Ban on Worker 'Noncompete' Agreements",
-      "https://www.reuters.com/legal/us-judge-strikes-down-biden-administration-ban-worker-noncompete-agreements-2024-08-20/"
+      "US judge throws out FTC's ban on non-compete agreements",
+      "https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 21:56:05",
+      "https://news.ycombinator.com/item?id=41304508"
+    ],
+    [
+      "Plasmo – a framework for building modern Chrome extensions",
+      "https://github.com/PlasmoHQ/plasmo"
     ]
   ],
   [
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2024-08-20, 07:15:34",
-      "https://news.ycombinator.com/item?id=41297609"
-    ],
-    [
-      "Pragtical: Practical and pragmatic code editor",
-      "https://pragtical.dev/"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 07:09:36",
       "https://news.ycombinator.com/item?id=41297563"
     ],
     [
       "The U.S. Navy's $100M checkbox (2019)",
       "https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 03:30:27",
-      "https://news.ycombinator.com/item?id=41296481"
-    ],
-    [
-      "Sourcegraph went dark",
-      "https://eric-fritz.com/articles/sourcegraph-went-dark/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "On finishing projects",
       "https://www.alexreichert.com/blog/finishing"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 15:09:56",
+      "https://news.ycombinator.com/item?id=41291700"
+    ],
+    [
+      "Show HN: Srcbook – A TypeScript notebook for rapid prototyping",
+      "https://github.com/srcbookdev/srcbook"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-08-18, 13:18:04",
-      "https://news.ycombinator.com/item?id=41282212"
-    ],
-    [
-      "I wag, therefore I am: the philosophy of dogs",
-      "https://www.theguardian.com/books/article/2024/aug/18/i-wag-therefore-i-am-the-philosophy-of-dogs"
-    ]
-  ],
-  [
-    [
       "2024-08-16, 20:10:21",
       "https://news.ycombinator.com/item?id=41269925"
     ],
     [
-      "The First Mass Produced DRAM of the Soviet Union",
+      "The first mass-produced DRAM of the Soviet Union",
       "https://www.cpushack.com/2023/12/21/the-first-mass-produced-dram-of-the-soviet-union/"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 14:08:32",
+      "https://news.ycombinator.com/item?id=41256266"
+    ],
+    [
+      "3D Cellular Automata",
+      "https://williamyang98.github.io/3D-Cellular-Automata/"
     ]
   ]
 ]
