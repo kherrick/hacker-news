@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-21, 16:01:15",
-      "https://news.ycombinator.com/item?id=41311519"
+      "2024-08-21, 15:55:49",
+      "https://news.ycombinator.com/item?id=41311461"
     ],
     [
-      "U.S. Added 818,000 Fewer Jobs Than Reported Earlier",
-      "https://www.nytimes.com/2024/08/21/business/economy/us-jobs-economy.html"
+      "Russia: Citizens must turn off home surveillance because Ukrainians are coming",
+      "https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 15:54:05",
+      "https://news.ycombinator.com/item?id=41311446"
+    ],
+    [
+      "There aren't that many uses for blockchains (2022)",
+      "https://calpaterson.com/blockchain.html"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Eli Lilly's weight loss drug slashes the risk of diabetes in long-term trial",
       "https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 15:09:42",
+      "https://news.ycombinator.com/item?id=41311071"
+    ],
+    [
+      "Mimalloc Cigarette: Losing one week of my life catching a memory leak (Rust)",
+      "https://pwy.io/posts/mimalloc-cigarette/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-08-20, 16:24:02",
-      "https://news.ycombinator.com/item?id=41301448"
-    ],
-    [
-      "Launch HN: MinusX (YC S24) – AI assistant for data tools like Jupyter/Metabase",
-      "https://news.ycombinator.com/item?id=41301448"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 13:52:21",
       "https://news.ycombinator.com/item?id=41300071"
     ],
@@ -227,16 +237,6 @@
     [
       "On finishing projects",
       "https://www.alexreichert.com/blog/finishing"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 07:16:28",
-      "https://news.ycombinator.com/item?id=41288579"
-    ],
-    [
-      "Migrating from DokuWiki to Obsidian",
-      "https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/"
     ]
   ],
   [
