@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
 * [2024-08-21, 12:01:07](https://news.ycombinator.com/item?id=41309401) - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
+* [2024-08-21, 11:59:34](https://news.ycombinator.com/item?id=41309387) - [The Atlantic is cooling at record speed and nobody knows why](https://www.scihb.com/2024/08/the-atlantic-is-cooling-at-record-speed.html)
 * [2024-08-21, 11:12:28](https://news.ycombinator.com/item?id=41309072) - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 09:14:33](https://news.ycombinator.com/item?id=41308361) - [Why has nuclear power been a flop? (2021)](https://blog.rootsofprogress.org/devanney-on-the-nuclear-flop)
 * [2024-08-21, 08:22:09](https://news.ycombinator.com/item?id=41308038) - [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)

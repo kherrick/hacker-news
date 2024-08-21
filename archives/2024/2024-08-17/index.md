@@ -60,6 +60,7 @@
 * [2024-08-17, 09:53:36](https://news.ycombinator.com/item?id=41273163) - ['Kafkaesque': bank blocks cash transfer, saying it could be an AI scam](https://www.theguardian.com/money/article/2024/aug/17/bank-blocks-cash-transfer-ai-scam-fraud)
 * [2024-08-17, 09:49:55](https://news.ycombinator.com/item?id=41273148) - [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)
 * [2024-08-17, 09:01:24](https://news.ycombinator.com/item?id=41272925) - [Google Removed Organic Maps from the Playstore](https://twitter.com/organicmapsapp/status/1824727403580596260)
+* [2024-08-17, 08:54:44](https://news.ycombinator.com/item?id=41272893) - [The weird of function-local types in Rust](https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust)
 * [2024-08-17, 08:46:56](https://news.ycombinator.com/item?id=41272861) - [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
 * [2024-08-17, 08:44:26](https://news.ycombinator.com/item?id=41272854) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
 * [2024-08-17, 08:36:23](https://news.ycombinator.com/item?id=41272830) - [Colorize Lidar point clouds with camera images](https://medium.com/mindkosh/colorize-lidar-point-clouds-with-camera-images-4af69cb3efea)
