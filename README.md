@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-21, 17:31:26](https://news.ycombinator.com/item?id=41312381) - [Google's 'Reimagine' tool helped us add wrecks, disasters, and corpses to photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
 * [2024-08-21, 17:15:29](https://news.ycombinator.com/item?id=41312259) - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 * [2024-08-21, 17:01:26](https://news.ycombinator.com/item?id=41312134) - [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 * [2024-08-21, 15:54:05](https://news.ycombinator.com/item?id=41311446) - [There aren't that many uses for blockchains (2022)](https://calpaterson.com/blockchain.html)
@@ -29,7 +30,6 @@
 * [2024-08-17, 04:04:26](https://news.ycombinator.com/item?id=41272125) - [David Mackenzie – A Personal History with Linux and BSD Unix [video]](https://www.youtube.com/watch?v=D7vfI-WSP8Q)
 * [2024-08-17, 00:13:19](https://news.ycombinator.com/item?id=41271453) - [Evolution of adhesive systems in amphibians by shifts in gene expression](https://www.nature.com/articles/s41467-024-49917-3)
 * [2024-08-16, 22:59:50](https://news.ycombinator.com/item?id=41271139) - [Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
-* [2024-08-16, 16:34:56](https://news.ycombinator.com/item?id=41267894) - [The 1 Hour per Year Bug, but only in Pacific time](https://tomeraberba.ch/the-1-hour-per-year-bug)
 
 ## [Archives](archives/index.md)
 

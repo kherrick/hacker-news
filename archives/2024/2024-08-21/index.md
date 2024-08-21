@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 17:31:26](https://news.ycombinator.com/item?id=41312381) - [Google's 'Reimagine' tool helped us add wrecks, disasters, and corpses to photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
 * [2024-08-21, 17:15:29](https://news.ycombinator.com/item?id=41312259) - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 * [2024-08-21, 17:01:26](https://news.ycombinator.com/item?id=41312134) - [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 * [2024-08-21, 16:01:15](https://news.ycombinator.com/item?id=41311519) - [U.S. Added 818,000 Fewer Jobs Than Reported Earlier](https://www.nytimes.com/2024/08/21/business/economy/us-jobs-economy.html)
