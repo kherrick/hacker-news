@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-21, 21:39:38](https://news.ycombinator.com/item?id=41314453) - [New anti-speeding system coming to Australia is dangerous](https://www.carexpert.com.au/opinion/new-anti-speeding-system-coming-to-australia-is-dangerous)
 * [2024-08-21, 21:01:27](https://news.ycombinator.com/item?id=41314161) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
 * [2024-08-21, 20:42:03](https://news.ycombinator.com/item?id=41314039) - [Do low-level optimizations matter? Faster quicksort with cmov](http://cantrip.org/sortfast.html)
 * [2024-08-21, 20:39:50](https://news.ycombinator.com/item?id=41314031) - [Euclid's Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
 * [2024-08-21, 20:26:13](https://news.ycombinator.com/item?id=41313920) - [IT tycoon Mike Lynch, daughter Hannah found dead](https://www.theregister.com/2024/08/21/mike_lynch_dead/)
 * [2024-08-21, 20:07:48](https://news.ycombinator.com/item?id=41313740) - [US hospital told family their daughter had checked out when in fact she'd died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
 * [2024-08-21, 19:18:48](https://news.ycombinator.com/item?id=41313290) - [Breaking down a record-setting day on the Texas grid](https://blog.gridstatus.io/a-record-setting-day-in-ercot/)
-* [2024-08-21, 18:32:54](https://news.ycombinator.com/item?id=41312883) - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
 * [2024-08-21, 18:29:08](https://news.ycombinator.com/item?id=41312845) - [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
 * [2024-08-21, 17:49:40](https://news.ycombinator.com/item?id=41312521) - [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
 * [2024-08-21, 17:49:34](https://news.ycombinator.com/item?id=41312520) - [Duck typing (horror) in Go](https://www.ccampo.me/go/2024/08/20/go-duck-typing.html)
