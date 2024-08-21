@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 14:03:00](https://news.ycombinator.com/item?id=41310404) - [Trillian Tessera: Next Generation Tile-Based Transparency Logs](https://blog.transparency.dev/introducing-trillian-tessera)
 * [2024-08-21, 13:43:48](https://news.ycombinator.com/item?id=41310217) - [Dual-boot systems warn after Microsoft update, Cannot boot into Linux](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
 * [2024-08-21, 12:36:53](https://news.ycombinator.com/item?id=41309664) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 12:01:07](https://news.ycombinator.com/item?id=41309401) - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)

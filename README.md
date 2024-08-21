@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-21, 14:03:00](https://news.ycombinator.com/item?id=41310404) - [Trillian Tessera: Next Generation Tile-Based Transparency Logs](https://blog.transparency.dev/introducing-trillian-tessera)
 * [2024-08-21, 12:01:07](https://news.ycombinator.com/item?id=41309401) - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 08:32:48](https://news.ycombinator.com/item?id=41308114) - [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
@@ -13,7 +14,6 @@
 * [2024-08-20, 20:57:04](https://news.ycombinator.com/item?id=41303974) - [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 * [2024-08-20, 18:13:21](https://news.ycombinator.com/item?id=41302453) - [Making database systems usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
-* [2024-08-20, 17:42:03](https://news.ycombinator.com/item?id=41302150) - [Reflecting on transducers in Scheme (2023)](https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/)
 * [2024-08-20, 16:24:02](https://news.ycombinator.com/item?id=41301448) - [Launch HN: MinusX (YC S24) – AI assistant for data tools like Jupyter/Metabase](https://news.ycombinator.com/item?id=41301448)
 * [2024-08-20, 13:52:21](https://news.ycombinator.com/item?id=41300071) - [Nasir Ahmed's digital-compression breakthrough helped make JPEGs/MPEGs possible](https://spectrum.ieee.org/compression-algorithms)
 * [2024-08-20, 12:02:00](https://news.ycombinator.com/item?id=41299211) - [Basic Mechanisms In Fire Control Computers (1953) [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
