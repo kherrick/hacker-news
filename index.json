@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-08-21, 03:44:27",
+      "https://news.ycombinator.com/item?id=41306589"
+    ],
+    [
+      "How the SNES Graphics System Works",
+      "https://fabiensanglard.net/snes_ppus_how/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 02:08:56",
+      "https://news.ycombinator.com/item?id=41306128"
+    ],
+    [
+      "Calling All Hackers",
+      "https://phrack.org/issues/71/17.html#article"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 01:10:29",
       "https://news.ycombinator.com/item?id=41305770"
     ],
     [
       "PUBG developer Krafton make a life simulation game inzoi",
       "https://playinzoi.com/en"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 01:04:06",
+      "https://news.ycombinator.com/item?id=41305736"
+    ],
+    [
+      "Ares Industries – Building low-cost cruise missiles",
+      "https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Zen, a Arc-like open-source browser based on the Firefox engine",
       "https://www.zen-browser.app/"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 20:41:49",
-      "https://news.ycombinator.com/item?id=41303844"
-    ],
-    [
-      "An admittedly wandering defense of the SSO tax",
-      "https://ssoready.com/blog/from-the-founders/an-unpopular-perspective-on-the-sso-tax/"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2024-08-20, 13:55:08",
-      "https://news.ycombinator.com/item?id=41300111"
-    ],
-    [
-      "The waiting time paradox: why is my bus always late? (2018)",
-      "https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 13:52:21",
       "https://news.ycombinator.com/item?id=41300071"
     ],
     [
       "Nasir Ahmed's digital-compression breakthrough helped make JPEGs/MPEGs possible",
       "https://spectrum.ieee.org/compression-algorithms"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 12:49:15",
-      "https://news.ycombinator.com/item?id=41299594"
-    ],
-    [
-      "Show HN: Visual Sudoku solver in the browser",
-      "https://sudoku.dotslashdan.com/"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Artificial intelligence is losing hype",
       "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 20:17:35",
-      "https://news.ycombinator.com/item?id=41294254"
-    ],
-    [
-      "JavaScript weakmaps should be iterable",
-      "https://wingolog.org/archives/2024/08/19/javascript-weakmaps-should-be-iterable"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The first mass-produced DRAM of the Soviet Union",
       "https://www.cpushack.com/2023/12/21/the-first-mass-produced-dram-of-the-soviet-union/"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 16:34:56",
+      "https://news.ycombinator.com/item?id=41267894"
+    ],
+    [
+      "The 1 Hour per Year Bug (But Only in Pacific Time!)",
+      "https://tomeraberba.ch/the-1-hour-per-year-bug"
     ]
   ]
 ]
