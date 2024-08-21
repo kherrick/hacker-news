@@ -20,7 +20,6 @@
 * [2024-08-21, 02:08:56](https://news.ycombinator.com/item?id=41306128) - [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
 * [2024-08-20, 21:56:05](https://news.ycombinator.com/item?id=41304508) - [Plasmo – A framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 * [2024-08-20, 20:57:04](https://news.ycombinator.com/item?id=41303974) - [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/)
-* [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 * [2024-08-20, 13:52:21](https://news.ycombinator.com/item?id=41300071) - [Nasir Ahmed's digital-compression breakthrough helped make JPEGs/MPEGs possible](https://spectrum.ieee.org/compression-algorithms)
 * [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
 * [2024-08-19, 03:48:49](https://news.ycombinator.com/item?id=41287641) - [The Origins of the Bloody Mary (2014)](https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/)
@@ -30,6 +29,7 @@
 * [2024-08-17, 04:04:26](https://news.ycombinator.com/item?id=41272125) - [David Mackenzie – A Personal History with Linux and BSD Unix [video]](https://www.youtube.com/watch?v=D7vfI-WSP8Q)
 * [2024-08-17, 00:13:19](https://news.ycombinator.com/item?id=41271453) - [Evolution of adhesive systems in amphibians by shifts in gene expression](https://www.nature.com/articles/s41467-024-49917-3)
 * [2024-08-16, 22:59:50](https://news.ycombinator.com/item?id=41271139) - [Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
+* [2024-08-16, 07:06:41](https://news.ycombinator.com/item?id=41263876) - [Better Living Through Algorithms (just won the Hugo for short SF story [1])](https://clarkesworldmagazine.com/kritzer_05_23/)
 
 ## [Archives](archives/index.md)
 
