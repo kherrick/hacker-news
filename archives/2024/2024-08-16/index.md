@@ -55,6 +55,7 @@
 * [2024-08-16, 16:52:09](https://news.ycombinator.com/item?id=41268104) - [Subway calls 'emergency' meeting with franchisees as sales plummet](https://nypost.com/2024/08/14/business/subway-calls-emergency-meeting-with-franchisees-as-sales-plummet-sources/)
 * [2024-08-16, 16:47:05](https://news.ycombinator.com/item?id=41268043) - [Whither CockroachDB?](https://rfd.shared.oxide.computer/rfd/0508)
 * [2024-08-16, 16:40:14](https://news.ycombinator.com/item?id=41267960) - [Can Large Language Models Understand Symbolic Graphics Programs?](https://www.arxiv.org/abs/2408.08313)
+* [2024-08-16, 16:34:56](https://news.ycombinator.com/item?id=41267894) - [The 1 Hour per Year Bug (But Only in Pacific Time!)](https://tomeraberba.ch/the-1-hour-per-year-bug)
 * [2024-08-16, 16:19:11](https://news.ycombinator.com/item?id=41267746) - [Does Reasoning Emerge? Probabilities of Causation in Large Language Models](https://arxiv.org/abs/2408.08210)
 * [2024-08-16, 16:03:56](https://news.ycombinator.com/item?id=41267583) - [Disney's not alone in saying your clicks means you can't sue](https://www.cnn.com/2024/08/16/politics/arbitration-signing-away-rights-disney-plus-wrongful-death-lawsuit/index.html)
 * [2024-08-16, 15:58:05](https://news.ycombinator.com/item?id=41267523) - [AFP Spent $500k Trying to Lock Up Autistic 13-Year-Old on Terrorism Charges](https://www.techdirt.com/2024/08/15/australian-feds-spent-more-than-500000-trying-to-lock-up-an-autistic-13-year-old-on-terrorism-charges/)
