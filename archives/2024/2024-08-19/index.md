@@ -69,6 +69,7 @@
 * [2024-08-19, 06:13:13](https://news.ycombinator.com/item?id=41288269) - [Introduction to Information Theory – Edward Witten [video]](https://www.youtube.com/watch?v=XYugyhoohhY)
 * [2024-08-19, 05:23:51](https://news.ycombinator.com/item?id=41288051) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 05:02:56](https://news.ycombinator.com/item?id=41287955) - [The broligarchs are trying to have their way](https://www.theatlantic.com/ideas/archive/2024/08/tech-bro-male-billionaire-anti-democratic/679267/)
+* [2024-08-19, 03:48:49](https://news.ycombinator.com/item?id=41287641) - [The Origins of the Bloody Mary (2014)](https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/)
 * [2024-08-19, 03:37:54](https://news.ycombinator.com/item?id=41287589) - [How I Became the EEVBlog Guy [video]](https://www.youtube.com/watch?v=riBwRC_CaAA)
 * [2024-08-19, 03:02:52](https://news.ycombinator.com/item?id=41287425) - [Archiving \"The Famous Computer Cafe\"](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
 * [2024-08-19, 02:40:21](https://news.ycombinator.com/item?id=41287326) - [The Charming, Eccentric, Blessed Life of Lee Maxwell](https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/)
