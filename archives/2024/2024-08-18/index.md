@@ -27,6 +27,7 @@
 * [2024-08-18, 18:33:49](https://news.ycombinator.com/item?id=41284285) - [Energy economics and rocket science with Casey Handmer](https://www.complexsystemspodcast.com/episodes/solar-economics/)
 * [2024-08-18, 18:28:59](https://news.ycombinator.com/item?id=41284235) - [Debugging operating systems with time-traveling virtual machines [pdf]](https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf)
 * [2024-08-18, 18:25:44](https://news.ycombinator.com/item?id=41284200) - [Gentoo Linux Drops IA-64 (Itanium) Support – Gentoo Linux](https://www.gentoo.org/news/2024/08/14/Gentoo-drops-IA-64-support.html)
+* [2024-08-18, 18:24:15](https://news.ycombinator.com/item?id=41284189) - [Show HN: Wd-40, a static webserver with automatic hot-reloads](https://github.com/baalimago/wd-40)
 * [2024-08-18, 17:45:46](https://news.ycombinator.com/item?id=41283900) - [Moonlight](https://moonlight-stream.org)
 * [2024-08-18, 17:41:11](https://news.ycombinator.com/item?id=41283856) - [A Letter from Orkut Büyükkökten](https://www.orkut.com/)
 * [2024-08-18, 17:28:46](https://news.ycombinator.com/item?id=41283761) - [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)

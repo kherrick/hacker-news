@@ -23,13 +23,13 @@
 * [2024-08-19, 23:01:51](https://news.ycombinator.com/item?id=41295296) - [Good refactoring vs. bad refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
 * [2024-08-19, 20:17:35](https://news.ycombinator.com/item?id=41294254) - [JavaScript weakmaps should be iterable](https://wingolog.org/archives/2024/08/19/javascript-weakmaps-should-be-iterable)
 * [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
+* [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 07:16:28](https://news.ycombinator.com/item?id=41288579) - [Migrating from DokuWiki to Obsidian](https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/)
+* [2024-08-18, 18:24:15](https://news.ycombinator.com/item?id=41284189) - [Show HN: Wd-40, a static webserver with automatic hot-reloads](https://github.com/baalimago/wd-40)
 * [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [A road safety plan that will lead to cars communicating with each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
 * [2024-08-18, 15:07:51](https://news.ycombinator.com/item?id=41282807) - [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/)
 * [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why it matters, how to curb it](https://arxiv.org/abs/2408.07710)
 * [2024-08-16, 20:10:21](https://news.ycombinator.com/item?id=41269925) - [The first mass-produced DRAM of the Soviet Union](https://www.cpushack.com/2023/12/21/the-first-mass-produced-dram-of-the-soviet-union/)
-* [2024-08-15, 16:05:29](https://news.ycombinator.com/item?id=41257561) - [Created This Library for Finite State Machine Based LLM Agents](https://news.ycombinator.com/item?id=41257561)
-* [2024-08-15, 14:08:32](https://news.ycombinator.com/item?id=41256266) - [3D Cellular Automata](https://williamyang98.github.io/3D-Cellular-Automata/)
 
 ## [Archives](archives/index.md)
 
