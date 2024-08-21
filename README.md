@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-21, 13:43:48](https://news.ycombinator.com/item?id=41310217) - [“Something has gone seriously wrong,” dual-boot systems warn after MS update](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
 * [2024-08-21, 12:01:07](https://news.ycombinator.com/item?id=41309401) - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 08:32:48](https://news.ycombinator.com/item?id=41308114) - [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
@@ -9,6 +8,7 @@
 * [2024-08-21, 05:58:12](https://news.ycombinator.com/item?id=41307195) - [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 05:22:27](https://news.ycombinator.com/item?id=41307011) - [The semantic web is now very widely adopted](https://csvbase.com/blog/13)
 * [2024-08-21, 02:08:56](https://news.ycombinator.com/item?id=41306128) - [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
+* [2024-08-20, 23:47:22](https://news.ycombinator.com/item?id=41305272) - [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
 * [2024-08-20, 21:56:05](https://news.ycombinator.com/item?id=41304508) - [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 * [2024-08-20, 20:57:04](https://news.ycombinator.com/item?id=41303974) - [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
