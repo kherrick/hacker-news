@@ -14,6 +14,7 @@
 * [2024-08-21, 14:05:48](https://news.ycombinator.com/item?id=41310433) - [Revisiting the Classics: Jensen's Inequality (2023)](https://francisbach.com/jensen-inequality/)
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to build a 50k ton forging press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 * [2024-08-21, 11:43:19](https://news.ycombinator.com/item?id=41309292) - [Electrostatic motors reach the macro scale](https://spectrum.ieee.org/electrostatic-motor)
+* [2024-08-21, 11:12:28](https://news.ycombinator.com/item?id=41309072) - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 10:15:09](https://news.ycombinator.com/item?id=41308712) - [Juice rerouted to Venus in first lunar-Earth flyby](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 08:32:48](https://news.ycombinator.com/item?id=41308114) - [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
@@ -27,7 +28,6 @@
 * [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer (2012)](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [2024-08-17, 08:54:44](https://news.ycombinator.com/item?id=41272893) - [The weird of function-local types in Rust](https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust)
 * [2024-08-17, 04:04:26](https://news.ycombinator.com/item?id=41272125) - [David Mackenzie – A Personal History with Linux and BSD Unix [video]](https://www.youtube.com/watch?v=D7vfI-WSP8Q)
-* [2024-08-17, 00:13:19](https://news.ycombinator.com/item?id=41271453) - [Evolution of adhesive systems in amphibians by shifts in gene expression](https://www.nature.com/articles/s41467-024-49917-3)
 * [2024-08-16, 22:59:50](https://news.ycombinator.com/item?id=41271139) - [Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
 * [2024-08-16, 07:06:41](https://news.ycombinator.com/item?id=41263876) - [Better Living Through Algorithms (just won the Hugo for short SF story [1])](https://clarkesworldmagazine.com/kritzer_05_23/)
 
