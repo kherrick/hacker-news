@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-21, 01:04:06](https://news.ycombinator.com/item?id=41305736) - [Launch YC: Ares Industries – Building low-cost cruise missiles](https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles)
 * [2024-08-21, 00:38:55](https://news.ycombinator.com/item?id=41305591) - [US judge throws out FTC's ban on non-compete agreements](https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4)
 * [2024-08-20, 23:47:22](https://news.ycombinator.com/item?id=41305272) - [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
 * [2024-08-20, 21:56:05](https://news.ycombinator.com/item?id=41304508) - [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
@@ -22,13 +23,12 @@
 * [2024-08-19, 23:01:51](https://news.ycombinator.com/item?id=41295296) - [Good refactoring vs. bad refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
 * [2024-08-19, 20:17:35](https://news.ycombinator.com/item?id=41294254) - [JavaScript weakmaps should be iterable](https://wingolog.org/archives/2024/08/19/javascript-weakmaps-should-be-iterable)
 * [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
-* [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 07:16:28](https://news.ycombinator.com/item?id=41288579) - [Migrating from DokuWiki to Obsidian](https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/)
-* [2024-08-18, 20:23:23](https://news.ycombinator.com/item?id=41285170) - [Fragments of two lost tragedies by Euripides discovered in an Egyptian papyrus](https://www.labrujulaverde.com/en/2024/08/previously-unknown-fragments-of-two-lost-tragedies-by-euripides-discovered-in-an-egyptian-papyrus/)
 * [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [A road safety plan that will lead to cars communicating with each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
 * [2024-08-18, 15:07:51](https://news.ycombinator.com/item?id=41282807) - [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/)
 * [2024-08-18, 15:06:01](https://news.ycombinator.com/item?id=41282798) - [Uniqueness Bias: Why it matters, how to curb it](https://arxiv.org/abs/2408.07710)
 * [2024-08-16, 20:10:21](https://news.ycombinator.com/item?id=41269925) - [The first mass-produced DRAM of the Soviet Union](https://www.cpushack.com/2023/12/21/the-first-mass-produced-dram-of-the-soviet-union/)
+* [2024-08-15, 16:05:29](https://news.ycombinator.com/item?id=41257561) - [Created This Library for Finite State Machine Based LLM Agents](https://news.ycombinator.com/item?id=41257561)
 * [2024-08-15, 14:08:32](https://news.ycombinator.com/item?id=41256266) - [3D Cellular Automata](https://williamyang98.github.io/3D-Cellular-Automata/)
 
 ## [Archives](archives/index.md)

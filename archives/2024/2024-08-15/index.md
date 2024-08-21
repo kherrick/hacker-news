@@ -51,6 +51,7 @@
 * [2024-08-15, 16:25:42](https://news.ycombinator.com/item?id=41257767) - [The TRS-80 Pocket Computer](http://www.trs-80.org/pocket-computer-1/)
 * [2024-08-15, 16:17:18](https://news.ycombinator.com/item?id=41257677) - [Uncleftish Beholding](https://en.wikipedia.org/wiki/Uncleftish_Beholding)
 * [2024-08-15, 16:10:06](https://news.ycombinator.com/item?id=41257606) - [The AMD Ryzen 9 9950X and Ryzen 9 9900X Review: Flagship Zen 5 Soars and Stalls](https://www.anandtech.com/show/21524/the-amd-ryzen-9-9950x-and-ryzen-9-9900x-review)
+* [2024-08-15, 16:05:29](https://news.ycombinator.com/item?id=41257561) - [Created This Library for Finite State Machine Based LLM Agents](https://news.ycombinator.com/item?id=41257561)
 * [2024-08-15, 16:01:10](https://news.ycombinator.com/item?id=41257509) - [Low magnesium levels increase disease risk, new study shows](https://www.unisa.edu.au/media-centre/Releases/2024/low-magnesium-levels-increase-disease-risk-new-study-shows/)
 * [2024-08-15, 16:00:41](https://news.ycombinator.com/item?id=41257505) - [Show HN: Kardinal–The lightest-weight Kubernetes dev environment in the world](https://github.com/kurtosis-tech/kardinal)
 * [2024-08-15, 15:56:44](https://news.ycombinator.com/item?id=41257472) - [Ask HN: Combine Qix and falling block game genre via falling (working) pens?](https://news.ycombinator.com/item?id=41257472)
