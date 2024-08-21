@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-21, 13:43:48](https://news.ycombinator.com/item?id=41310217) - [Dual-boot systems warn after Microsoft update, Cannot boot into Linux](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
+* [2024-08-21, 13:43:48](https://news.ycombinator.com/item?id=41310217) - [“Something has gone seriously wrong,” dual-boot systems warn after MS update](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
 * [2024-08-21, 12:01:07](https://news.ycombinator.com/item?id=41309401) - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 08:32:48](https://news.ycombinator.com/item?id=41308114) - [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
@@ -9,9 +9,7 @@
 * [2024-08-21, 05:58:12](https://news.ycombinator.com/item?id=41307195) - [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 05:22:27](https://news.ycombinator.com/item?id=41307011) - [The semantic web is now very widely adopted](https://csvbase.com/blog/13)
 * [2024-08-21, 02:08:56](https://news.ycombinator.com/item?id=41306128) - [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
-* [2024-08-20, 23:47:22](https://news.ycombinator.com/item?id=41305272) - [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
 * [2024-08-20, 21:56:05](https://news.ycombinator.com/item?id=41304508) - [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
-* [2024-08-20, 21:36:12](https://news.ycombinator.com/item?id=41304335) - [Taichi: Productive, portable, and performant GPU programming in Python](https://github.com/taichi-dev/taichi)
 * [2024-08-20, 20:57:04](https://news.ycombinator.com/item?id=41303974) - [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 * [2024-08-20, 18:13:21](https://news.ycombinator.com/item?id=41302453) - [Making database systems usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
@@ -23,6 +21,7 @@
 * [2024-08-20, 10:57:27](https://news.ycombinator.com/item?id=41298794) - [Toasts are bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
 * [2024-08-20, 07:09:36](https://news.ycombinator.com/item?id=41297563) - [The U.S. Navy's $100M checkbox (2019)](https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php)
 * [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
+* [2024-08-19, 07:16:28](https://news.ycombinator.com/item?id=41288579) - [Migrating from DokuWiki to Obsidian](https://kaeruct.github.io/posts/2024/08/18/migrating-from-dokuwiki-to-obsidian/)
 * [2024-08-18, 18:24:15](https://news.ycombinator.com/item?id=41284189) - [Show HN: Wd-40, a static webserver with automatic hot-reloads](https://github.com/baalimago/wd-40)
 * [2024-08-18, 15:29:33](https://news.ycombinator.com/item?id=41282948) - [A road safety plan that will lead to cars communicating with each other](https://www.engadget.com/transportation/the-us-lays-out-a-road-safety-plan-that-will-see-cars-talk-to-each-other-170043265.html)
 * [2024-08-18, 15:07:51](https://news.ycombinator.com/item?id=41282807) - [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/)
@@ -30,6 +29,7 @@
 * [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer (2012)](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [2024-08-17, 08:54:44](https://news.ycombinator.com/item?id=41272893) - [The weird of function-local types in Rust](https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust)
 * [2024-08-17, 04:04:26](https://news.ycombinator.com/item?id=41272125) - [David Mackenzie – A Personal History with Linux and BSD Unix [video]](https://www.youtube.com/watch?v=D7vfI-WSP8Q)
+* [2024-08-16, 16:34:56](https://news.ycombinator.com/item?id=41267894) - [The 1 Hour per Year Bug, but only in Pacific time](https://tomeraberba.ch/the-1-hour-per-year-bug)
 
 ## [Archives](archives/index.md)
 
