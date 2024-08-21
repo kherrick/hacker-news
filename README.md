@@ -19,6 +19,7 @@
 * [2024-08-20, 21:56:05](https://news.ycombinator.com/item?id=41304508) - [Plasmo – A framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 * [2024-08-20, 20:57:04](https://news.ycombinator.com/item?id=41303974) - [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
+* [2024-08-20, 16:24:02](https://news.ycombinator.com/item?id=41301448) - [Launch HN: MinusX (YC S24) – AI assistant for data tools like Jupyter/Metabase](https://news.ycombinator.com/item?id=41301448)
 * [2024-08-20, 13:52:21](https://news.ycombinator.com/item?id=41300071) - [Nasir Ahmed's digital-compression breakthrough helped make JPEGs/MPEGs possible](https://spectrum.ieee.org/compression-algorithms)
 * [2024-08-20, 12:02:00](https://news.ycombinator.com/item?id=41299211) - [Basic Mechanisms In Fire Control Computers (1953) [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
 * [2024-08-20, 10:57:27](https://news.ycombinator.com/item?id=41298794) - [Toasts are bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
@@ -29,7 +30,6 @@
 * [2024-08-17, 08:54:44](https://news.ycombinator.com/item?id=41272893) - [The weird of function-local types in Rust](https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust)
 * [2024-08-17, 04:04:26](https://news.ycombinator.com/item?id=41272125) - [David Mackenzie – A Personal History with Linux and BSD Unix [video]](https://www.youtube.com/watch?v=D7vfI-WSP8Q)
 * [2024-08-17, 00:13:19](https://news.ycombinator.com/item?id=41271453) - [Evolution of adhesive systems in amphibians by shifts in gene expression](https://www.nature.com/articles/s41467-024-49917-3)
-* [2024-08-16, 16:34:56](https://news.ycombinator.com/item?id=41267894) - [The 1 Hour per Year Bug, but only in Pacific time](https://tomeraberba.ch/the-1-hour-per-year-bug)
 
 ## [Archives](archives/index.md)
 
