@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
 * [2024-08-21, 18:42:55](https://news.ycombinator.com/item?id=41312984) - [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
+* [2024-08-21, 18:42:20](https://news.ycombinator.com/item?id=41312975) - [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
 * [2024-08-21, 17:31:26](https://news.ycombinator.com/item?id=41312381) - [Google's 'Reimagine' tool helped us add wrecks, disasters, and corpses to photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
 * [2024-08-21, 17:22:52](https://news.ycombinator.com/item?id=41312317) - [Hurricane season has flatlined. When will it roar back to life?](https://www.washingtonpost.com/weather/2024/08/21/hurricane-season-atlantic-tropical-storms/)
 * [2024-08-21, 17:15:29](https://news.ycombinator.com/item?id=41312259) - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
+* [2024-08-21, 17:11:48](https://news.ycombinator.com/item?id=41312225) - [Midjourney web experience is now open to everyone](https://www.midjourney.com/)
 * [2024-08-21, 17:01:26](https://news.ycombinator.com/item?id=41312134) - [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 * [2024-08-21, 16:55:55](https://news.ycombinator.com/item?id=41312084) - [Code Review Antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 * [2024-08-21, 16:55:36](https://news.ycombinator.com/item?id=41312079) - [Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model weights](https://news.ycombinator.com/item?id=41312079)
