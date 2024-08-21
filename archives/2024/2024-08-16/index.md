@@ -34,6 +34,7 @@
 * [2024-08-16, 18:53:57](https://news.ycombinator.com/item?id=41269249) - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
 * [2024-08-16, 18:40:34](https://news.ycombinator.com/item?id=41269130) - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
 * [2024-08-16, 18:39:38](https://news.ycombinator.com/item?id=41269113) - [Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)
+* [2024-08-16, 18:37:32](https://news.ycombinator.com/item?id=41269093) - [Postgres feature you're not using – CTEs a.k.a. WITH clauses](https://www.craigkerstiens.com/2013/11/18/best-postgres-feature-youre-not-using/)
 * [2024-08-16, 18:36:31](https://news.ycombinator.com/item?id=41269079) - [.kkrieger – An FPS game from 2004 in 96kb](https://en.wikipedia.org/wiki/.kkrieger)
 * [2024-08-16, 18:28:01](https://news.ycombinator.com/item?id=41268998) - [The Flywheel Effect](https://www.jimcollins.com/concepts/the-flywheel.html)
 * [2024-08-16, 18:22:26](https://news.ycombinator.com/item?id=41268929) - [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
