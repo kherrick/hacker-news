@@ -63,6 +63,7 @@
 * [2024-08-16, 15:58:05](https://news.ycombinator.com/item?id=41267523) - [AFP Spent $500k Trying to Lock Up Autistic 13-Year-Old on Terrorism Charges](https://www.techdirt.com/2024/08/15/australian-feds-spent-more-than-500000-trying-to-lock-up-an-autistic-13-year-old-on-terrorism-charges/)
 * [2024-08-16, 15:56:14](https://news.ycombinator.com/item?id=41267509) - [The world will lose $4.7T of revenue in the next decade to tax havens](https://www.tbsnews.net/features/panorama/world-will-lose-47-trillion-revenue-next-decade-tax-havens-how-did-we-get-here)
 * [2024-08-16, 15:53:09](https://news.ycombinator.com/item?id=41267478) - [Discrete Mathematics – An Open Introduction 4ed (By Oscar Levin)](https://discrete.openmathbooks.org/dmoi4.html)
+* [2024-08-16, 15:47:03](https://news.ycombinator.com/item?id=41267412) - [Py5, a Python version of Processing for your creative coding projects](http://py5coding.org/index.html)
 * [2024-08-16, 15:41:20](https://news.ycombinator.com/item?id=41267351) - [Apple's Hold on the App Store Is Loosening, at Least in Europe](https://www.wsj.com/tech/epic-games-apple-app-store-europe-44ceda50)
 * [2024-08-16, 15:38:08](https://news.ycombinator.com/item?id=41267316) - [Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
 * [2024-08-16, 15:37:39](https://news.ycombinator.com/item?id=41267308) - [The LMAX Architecture (2011)](https://martinfowler.com/articles/lmax.html)
