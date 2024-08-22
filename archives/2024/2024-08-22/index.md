@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 06:03:50](https://news.ycombinator.com/item?id=41317280) - [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
 * [2024-08-22, 05:05:11](https://news.ycombinator.com/item?id=41316999) - [Celebrating 6 years since Valve announced Steam Play Proton for Linux](https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/)
 * [2024-08-22, 04:44:43](https://news.ycombinator.com/item?id=41316890) - [Webtoon Targets 170 Pirate Domains Through DMCA Subpoena](https://torrentfreak.com/webtoon-targets-170-pirate-domains-through-dmca-subpoena-240821/)
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing My Own Watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
