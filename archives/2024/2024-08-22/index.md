@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 09:46:32](https://news.ycombinator.com/item?id=41318408) - [No \"Hello\", No \"Quick Call\", and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
+* [2024-08-22, 09:33:08](https://news.ycombinator.com/item?id=41318336) - [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
+* [2024-08-22, 09:23:40](https://news.ycombinator.com/item?id=41318284) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
+* [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:53:33](https://news.ycombinator.com/item?id=41318127) - [Starbucks' new CEO will supercommute 1k miles from California to Seattle](https://www.cnbc.com/2024/08/20/starbucks-new-ceo-brian-niccol-will-supercommute-to-seattle-instead-of-relocating.html)
 * [2024-08-22, 08:33:00](https://news.ycombinator.com/item?id=41318033) - [Haiku OS [GSoC 2024] Hardware Virtualization: Final Report](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
 * [2024-08-22, 08:27:23](https://news.ycombinator.com/item?id=41318000) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
