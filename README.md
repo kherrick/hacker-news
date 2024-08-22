@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-22, 22:39:57](https://news.ycombinator.com/item?id=41324905) - [ARRL IT Security Incident – $1M ransom](https://www.arrl.org/news/arrl-it-security-incident-report-to-members)
+* [2024-08-22, 23:45:32](https://news.ycombinator.com/item?id=41325199) - [Starlink Now Being Deployed on U.S. Navy Warships](https://www.twz.com/sea/starlink-now-being-deployed-on-u-s-navy-warships)
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 18:13:40](https://news.ycombinator.com/item?id=41322955) - [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
@@ -20,7 +20,6 @@
 * [2024-08-22, 08:33:00](https://news.ycombinator.com/item?id=41318033) - [Hardware Virtualization](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
 * [2024-08-22, 08:29:45](https://news.ycombinator.com/item?id=41318013) - [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
-* [2024-08-21, 17:44:34](https://news.ycombinator.com/item?id=41312480) - [Show HN: VirtualStorageLibrary – .NET Tree solutions for items, dirs, symlinks](https://shimodateakira.github.io/VirtualStorageLibrary/)
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
 * [2024-08-19, 17:10:13](https://news.ycombinator.com/item?id=41292757) - [DRAKON](https://en.wikipedia.org/wiki/DRAKON)
 * [2024-08-19, 16:34:30](https://news.ycombinator.com/item?id=41292481) - [Constraining writers in distributed systems](https://shachaf.net/w/constraining-writers-in-distributed-systems)
@@ -28,6 +27,7 @@
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
 * [2024-08-19, 00:33:24](https://news.ycombinator.com/item?id=41286753) - [When Serial Isn't RS-232, Geocaching with the Garmin GPS 95](https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/)
 * [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
+* [2024-08-18, 17:43:16](https://news.ycombinator.com/item?id=41283877) - [Ask HN: What was your biggest startup fail?](https://news.ycombinator.com/item?id=41283877)
 * [2024-08-18, 13:13:40](https://news.ycombinator.com/item?id=41282181) - [Notris: A Tetris clone for the PlayStation 1](https://github.com/jbreckmckye/notris)
 * [2024-08-17, 18:37:09](https://news.ycombinator.com/item?id=41276809) - [Batteryless OP-1](https://shred.zone/cilla/page/503/batteryless-op-1.html)
 
