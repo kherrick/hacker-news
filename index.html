@@ -141,13 +141,171 @@
             <h4>
               <span>2024-08-22 @ 17:10:35</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41322297"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41322281">
+          <h3>
+            <a class="item" href="https://github.com/instantdb/instant"
+              >Show HN: InstantDB – A Modern Firebase</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-22 @ 17:08:50</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41322281"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Building modern apps these days involves a lot of schleps. For a
+                basic CRUD app you need to spin up servers, wire up endpoints,
+                integrate auth, add permissions, and then marshal data from the
+                backend to the frontend and back again. If you want to deliver a
+                buttery smooth user experience, you’ll need to add optimistic
+                updates and rollbacks. We do these steps over and over for every
+                feature we build, which can make it difficult to build
+                delightful software. Could it be better?
+              </p>
+              <p>
+                We were senior and staff engineers at Facebook and Airbnb and
+                had been thinking about this problem for years. In 2021, Stopa
+                wrote an essay talking about how these schleps are actually
+                database problems in disguise [1]. In 2022, Stopa wrote another
+                essay sketching out a solution with a Firebase-like database
+                with support for relations [2]. In the last two years we got the
+                backing of James Tamplin (CEO of Firebase), became a team of 5
+                engineers, pushed almost ~2k commits, and today became open
+                source.
+              </p>
+              <p>Making a chat app in Instant is as simple as</p>
+              <p></p>
+              <pre><code>    function Chat() {
+      // 1. Read
+      const { isLoading, error, data } = useQuery({
+        messages: {},
+      });
+    
+      // 2. Write
+      const addMessage = (message) =&gt; {
+        transact(tx.messages[id()].update(message));
+      }
+    
+      // 3. Render!
+      return &lt;UI data={data} onAdd={addMessage} /&gt;
+    }
+</code></pre>
+              Instant gives you a database you can subscribe to directly in the
+              browser. You write relational queries in the shape of the data you
+              want and we handle all the data fetching, permission checking, and
+              offline caching. When you write transactions, optimistic updates
+              and rollbacks are handled for you as well.
+              <p>
+                Under the hood we save data to postgres as triples and wrote a
+                datalog engine for fetching data [3]. We don’t expect you to
+                write datalog queries so we wrote a graphql-like query language
+                that doesn’t require any build step.
+              </p>
+              <p>
+                Taking inspiration from Asana’s WorldStore and Figma’s
+                LiveGraph, we tail postgres’ WAL to detect novelty and use
+                last-write-win semantics to handle conflicts [4][5]. We also
+                handle websocket connections and persist data to IndexDB on web
+                and AsyncStorage for React Native, giving you multiplayer and
+                offline mode for free.
+              </p>
+              <p>
+                This is the kind of infrastructure Linear uses to power their
+                sync and build better features faster [6]. Instant gives you
+                this infrastructure so you can focus on what’s important:
+                building a great UX for your users, and doing it quickly. We
+                have auth, permissions, and a dashboard with a suite tools for
+                you to explore and manage your data. We also support ephemeral
+                capabilities like presence (e.g. sharing cursors) and broadcast
+                (e.g. live reactions) [7][8].
+              </p>
+              <p>
+                We have a free hosted solution where we don’t pause projects, we
+                don’t limit the number of active applications, and we have no
+                restrictions for commercial use. We can do this because our
+                architecture doesn’t require spinning up a separate servers for
+                each app. When you’re ready to grow, we have paid plans that
+                scale with you. And of course you can self host both the backend
+                and the dashboard tools on your own.
+              </p>
+              <p>
+                Give us a spin today at
+                <a href="https://instantdb.com/tutorial"
+                  >https://instantdb.com/tutorial</a
+                >
+                and see our code at
+                <a href="https://github.com/instantdb/instant"
+                  >https://github.com/instantdb/instant</a
+                >
+              </p>
+              <p>We love feedback :)</p>
+              <p>
+                [1]
+                <a href="https://www.instantdb.com/essays/db_browser"
+                  >https://www.instantdb.com/essays/db_browser</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://www.instantdb.com/essays/next_firebase"
+                  >https://www.instantdb.com/essays/next_firebase</a
+                >
+              </p>
+              <p>
+                [3]
+                <a href="https://www.instantdb.com/essays/datalogjs"
+                  >https://www.instantdb.com/essays/datalogjs</a
+                >
+              </p>
+              <p>
+                [4]
+                <a
+                  href="https://asana.com/inside-asana/worldstore-distributed-caching-reactivity-part-1"
+                  >https://asana.com/inside-asana/worldstore-distributed-cachin...</a
+                >
+              </p>
+              <p>
+                [5]
+                <a
+                  href="https://www.figma.com/blog/how-figmas-multiplayer-technology-works/#syncing-object-properties"
+                  >https://www.figma.com/blog/how-figmas-multiplayer-technology...</a
+                >
+              </p>
+              <p>
+                [6]
+                <a href="https://www.youtube.com/live/WxK11RsLqp4?t=2175s"
+                  >https://www.youtube.com/live/WxK11RsLqp4?t=2175s</a
+                >
+              </p>
+              <p>
+                [7]
+                <a href="https://www.joewords.com/posts/cursors"
+                  >https://www.joewords.com/posts/cursors</a
+                >
+              </p>
+              <p>
+                [8]
+                <a href="https://www.instantdb.com/examples?#5-reactions"
+                  >https://www.instantdb.com/examples?#5-reactions</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="41322266">
@@ -162,11 +320,11 @@
             <h4>
               <span>2024-08-22 @ 17:06:31</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41322266"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -176,7 +334,7 @@
             <a
               class="item"
               href="https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead"
-              >Vooma (YC W23) Is Hiring a Growth Lead</a
+              >Vooma (YC W23) is hiring a growth lead</a
             >
           </h3>
           <section>
@@ -198,11 +356,11 @@
             <h4>
               <span>2024-08-22 @ 16:36:34</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41321998"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -212,18 +370,18 @@
             <a
               class="item"
               href="https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/"
-              >Aerc: A Well-Crafted TUI for Email</a
+              >Aerc: A well-crafted TUI for email</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-08-22 @ 16:34:30</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41321981"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -239,11 +397,11 @@
             <h4>
               <span>2024-08-22 @ 16:28:26</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41321936"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -349,7 +507,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41321467"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -367,32 +525,11 @@
             <h4>
               <span>2024-08-22 @ 14:59:14</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41321063"
                   >Comments</a
                 ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41319003">
-          <h3>
-            <a
-              class="item"
-              href="https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8"
-              >Electric Clojure v3: Differential Dataflow for UI [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-22 @ 11:24:07</span
-              ><span class="points-container"
-                >Points: <span class="points">88</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41319003"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -407,7 +544,7 @@
             <h4>
               <span>2024-08-22 @ 09:11:10</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41318222"
                   >Comments</a
@@ -429,11 +566,11 @@
             <h4>
               <span>2024-08-22 @ 08:54:44</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41318133"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
             <div class="text">
@@ -470,7 +607,7 @@
             <h4>
               <span>2024-08-22 @ 08:33:00</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41318033"
                   >Comments</a
@@ -492,11 +629,11 @@
             <h4>
               <span>2024-08-22 @ 08:29:45</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41318013"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -512,7 +649,7 @@
             <h4>
               <span>2024-08-22 @ 08:25:35</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41317988"
                   >Comments</a
@@ -537,7 +674,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41317280"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -552,7 +689,7 @@
             <h4>
               <span>2024-08-22 @ 02:47:18</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41316342"
                   >Comments</a
@@ -593,7 +730,7 @@
             <h4>
               <span>2024-08-21 @ 17:44:34</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41312480"
                   >Comments</a
@@ -715,11 +852,11 @@
             <h4>
               <span>2024-08-21 @ 17:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41312335"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -737,11 +874,11 @@
             <h4>
               <span>2024-08-21 @ 15:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41311135"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -779,7 +916,7 @@
             <h4>
               <span>2024-08-19 @ 19:28:54</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41293907"
                   >Comments</a
@@ -819,7 +956,7 @@
             <h4>
               <span>2024-08-19 @ 16:34:30</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41292481"
                   >Comments</a
@@ -840,11 +977,11 @@
             <h4>
               <span>2024-08-19 @ 15:48:23</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41292049"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -882,11 +1019,11 @@
             <h4>
               <span>2024-08-19 @ 11:47:41</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41290189"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -904,7 +1041,7 @@
             <h4>
               <span>2024-08-18 @ 20:35:06</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41285275"
                   >Comments</a
@@ -925,11 +1062,11 @@
             <h4>
               <span>2024-08-18 @ 19:32:07</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41284775"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
