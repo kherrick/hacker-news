@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 13:05:12](https://news.ycombinator.com/item?id=41319809) - [Show HN: 100kb – an opinionated feed of personal blogs](https://100kb.danhill.is/)
+* [2024-08-22, 12:50:56](https://news.ycombinator.com/item?id=41319700) - [The surprising cause of fasting's regenerative powers](https://www.nature.com/articles/d41586-024-02700-2)
 * [2024-08-22, 12:48:13](https://news.ycombinator.com/item?id=41319678) - [84% want stronger online privacy laws, but Congress's corruption stalls progress](https://www.techdirt.com/2024/08/21/84-of-americans-want-tougher-online-privacy-laws-but-congress-is-too-corrupt-to-follow-through/)
 * [2024-08-22, 12:40:07](https://news.ycombinator.com/item?id=41319610) - [German Navy blasts out Darth Vader theme on Thames](https://www.bbc.com/news/videos/cn87608w389o)
+* [2024-08-22, 12:23:45](https://news.ycombinator.com/item?id=41319477) - [Show HN: Track project ETAs and statuses based on due date with this Jira App](https://easyestimate.app/)
 * [2024-08-22, 11:52:42](https://news.ycombinator.com/item?id=41319224) - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 * [2024-08-22, 11:24:07](https://news.ycombinator.com/item?id=41319003) - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
 * [2024-08-22, 10:44:27](https://news.ycombinator.com/item?id=41318736) - [Dad hacks database to fake death and avoid child support pay](https://www.bbc.com/news/articles/cgrj9r5qpego)
