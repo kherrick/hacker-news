@@ -15,6 +15,7 @@
 * [2024-08-21, 20:42:03](https://news.ycombinator.com/item?id=41314039) - [Do low-level optimizations matter? Faster quicksort with cmov](http://cantrip.org/sortfast.html)
 * [2024-08-21, 20:39:50](https://news.ycombinator.com/item?id=41314031) - [Euclid's Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
 * [2024-08-21, 20:26:13](https://news.ycombinator.com/item?id=41313920) - [IT tycoon Mike Lynch, daughter Hannah found dead](https://www.theregister.com/2024/08/21/mike_lynch_dead/)
+* [2024-08-21, 20:23:49](https://news.ycombinator.com/item?id=41313894) - [Wardriving for a place to Live](https://jampauchoa.substack.com/p/wardriving-for-place-to-live)
 * [2024-08-21, 20:19:06](https://news.ycombinator.com/item?id=41313849) - [Was the Real Jobs Revision Negative 818,000 or Negative 915,000?](https://mishtalk.com/economics/was-the-real-jobs-revision-negative-818000-or-negative-915000/)
 * [2024-08-21, 20:07:48](https://news.ycombinator.com/item?id=41313740) - [US hospital told family their daughter had checked out when in fact she'd died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
 * [2024-08-21, 19:56:56](https://news.ycombinator.com/item?id=41313619) - [.less: Crafting .less Docker Containers That Will Blow Your Mind](https://pointlesscode.dev/)
