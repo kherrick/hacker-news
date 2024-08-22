@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 14:16:14](https://news.ycombinator.com/item?id=41320554) - [Make Sports Betting Taboo Again](https://jacobin.com/2024/08/sports-betting-taxation-robinhood-draftkings/)
 * [2024-08-22, 13:23:05](https://news.ycombinator.com/item?id=41319983) - [Gastroenteritis Rates Higher in Seine Events Than in Previous Olympics](https://www.medpagetoday.com/special-reports/exclusives/111605)
 * [2024-08-22, 13:22:24](https://news.ycombinator.com/item?id=41319973) - [eBay just charged me a $1.02 fee on an item I sold for $0.99](https://mastodon.social/@nfriedly/113005868074504264)
 * [2024-08-22, 13:21:56](https://news.ycombinator.com/item?id=41319967) - [Australia to build the largest solar power plant](https://news.az/news/australia-to-build-the-world-s-largest-solar-power-plant)
@@ -35,6 +36,7 @@
 * [2024-08-22, 06:03:50](https://news.ycombinator.com/item?id=41317280) - [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
 * [2024-08-22, 05:05:11](https://news.ycombinator.com/item?id=41316999) - [Celebrating 6 years since Valve announced Steam Play Proton for Linux](https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/)
 * [2024-08-22, 04:44:43](https://news.ycombinator.com/item?id=41316890) - [Webtoon Targets 170 Pirate Domains Through DMCA Subpoena](https://torrentfreak.com/webtoon-targets-170-pirate-domains-through-dmca-subpoena-240821/)
+* [2024-08-22, 04:20:34](https://news.ycombinator.com/item?id=41316782) - [WelsonJS: Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing My Own Watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
 * [2024-08-22, 03:04:23](https://news.ycombinator.com/item?id=41316436) - [Self-Hosting DNS](https://ghostdev.xyz/posts/self-hosting-dns/)
 * [2024-08-22, 02:47:18](https://news.ycombinator.com/item?id=41316342) - [A 20-part deep dive into how linkers work](https://lwn.net/Articles/276782/)
