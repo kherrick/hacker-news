@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 12:48:13](https://news.ycombinator.com/item?id=41319678) - [84% want stronger online privacy laws, but Congress's corruption stalls progress](https://www.techdirt.com/2024/08/21/84-of-americans-want-tougher-online-privacy-laws-but-congress-is-too-corrupt-to-follow-through/)
 * [2024-08-22, 12:40:07](https://news.ycombinator.com/item?id=41319610) - [German Navy blasts out Darth Vader theme on Thames](https://www.bbc.com/news/videos/cn87608w389o)
 * [2024-08-22, 11:52:42](https://news.ycombinator.com/item?id=41319224) - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 * [2024-08-22, 11:24:07](https://news.ycombinator.com/item?id=41319003) - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
 * [2024-08-22, 10:44:27](https://news.ycombinator.com/item?id=41318736) - [Dad hacks database to fake death and avoid child support pay](https://www.bbc.com/news/articles/cgrj9r5qpego)
 * [2024-08-22, 10:17:55](https://news.ycombinator.com/item?id=41318553) - [Nix in 100 Seconds [video]](https://www.youtube.com/watch?v=FJVFXsNzYZQ)
 * [2024-08-22, 09:57:51](https://news.ycombinator.com/item?id=41318459) - [Second human being implanted with Neuralink brain chip](https://neuralink.com/blog/prime-study-progress-update-second-participant/)
+* [2024-08-22, 09:56:26](https://news.ycombinator.com/item?id=41318452) - [Study explains why laws are written in an incomprehensible style](https://phys.org/news/2024-08-laws-written-incomprehensible-style.html)
 * [2024-08-22, 09:46:32](https://news.ycombinator.com/item?id=41318408) - [No \"Hello\", No \"Quick Call\", and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
 * [2024-08-22, 09:33:08](https://news.ycombinator.com/item?id=41318336) - [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
 * [2024-08-22, 09:23:40](https://news.ycombinator.com/item?id=41318284) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
