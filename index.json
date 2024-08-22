@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-22, 02:05:49",
+      "https://news.ycombinator.com/item?id=41316067"
+    ],
+    [
+      "Bum Farto",
+      "https://en.wikipedia.org/wiki/Bum_Farto"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 23:55:42",
+      "https://news.ycombinator.com/item?id=41315359"
+    ],
+    [
+      "SIMD Matters: Graph Coloring",
+      "https://box2d.org/posts/2024/08/simd-matters/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 23:16:21",
       "https://news.ycombinator.com/item?id=41315138"
     ],
@@ -211,6 +231,16 @@
   ],
   [
     [
+      "2024-08-21, 08:32:48",
+      "https://news.ycombinator.com/item?id=41308114"
+    ],
+    [
+      "The Discovery of the Celendrical Date Line",
+      "https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 07:47:05",
       "https://news.ycombinator.com/item?id=41307815"
     ],
@@ -251,52 +281,22 @@
   ],
   [
     [
-      "2024-08-17, 01:54:32",
-      "https://news.ycombinator.com/item?id=41271783"
+      "2024-08-18, 23:42:15",
+      "https://news.ycombinator.com/item?id=41286486"
     ],
     [
-      "Ren'Py",
-      "https://github.com/renpy/renpy"
+      "Why isn't Colorado's snowpack ending up in the Colorado River?",
+      "https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html"
     ]
   ],
   [
     [
-      "2024-08-16, 22:59:50",
-      "https://news.ycombinator.com/item?id=41271139"
+      "2024-08-17, 08:54:44",
+      "https://news.ycombinator.com/item?id=41272893"
     ],
     [
-      "Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)",
-      "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 16:54:33",
-      "https://news.ycombinator.com/item?id=41268126"
-    ],
-    [
-      "Underware, open source 3D-printed cable management",
-      "https://handsonkatie.com/underware/"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 15:47:03",
-      "https://news.ycombinator.com/item?id=41267412"
-    ],
-    [
-      "Py5, a Python version of Processing for your creative coding projects",
-      "http://py5coding.org/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 07:06:41",
-      "https://news.ycombinator.com/item?id=41263876"
-    ],
-    [
-      "Better Living Through Algorithms (2023)",
-      "https://clarkesworldmagazine.com/kritzer_05_23/"
+      "The weird of function-local types in Rust",
+      "https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust"
     ]
   ]
 ]
