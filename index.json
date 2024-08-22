@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-08-21, 23:06:17",
-      "https://news.ycombinator.com/item?id=41315068"
-    ],
-    [
-      "Google Play will no longer pay to discover vulnerabilities in Android apps",
-      "https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 21:01:27",
       "https://news.ycombinator.com/item?id=41314161"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM",
       "https://github.com/hsfzxjy/handwriter.ttf"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 16:34:21",
+      "https://news.ycombinator.com/item?id=41292477"
+    ],
+    [
+      "Distributed Locks with Redis (2014)",
+      "https://redis.io/docs/latest/develop/use/patterns/distributed-locks/"
     ]
   ],
   [
