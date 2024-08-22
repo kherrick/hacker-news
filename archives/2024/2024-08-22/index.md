@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 13:23:05](https://news.ycombinator.com/item?id=41319983) - [Gastroenteritis Rates Higher in Seine Events Than in Previous Olympics](https://www.medpagetoday.com/special-reports/exclusives/111605)
 * [2024-08-22, 13:05:12](https://news.ycombinator.com/item?id=41319809) - [Show HN: 100kb – an opinionated feed of personal blogs](https://100kb.danhill.is/)
 * [2024-08-22, 12:50:56](https://news.ycombinator.com/item?id=41319700) - [The surprising cause of fasting's regenerative powers](https://www.nature.com/articles/d41586-024-02700-2)
 * [2024-08-22, 12:48:13](https://news.ycombinator.com/item?id=41319678) - [84% want stronger online privacy laws, but Congress's corruption stalls progress](https://www.techdirt.com/2024/08/21/84-of-americans-want-tougher-online-privacy-laws-but-congress-is-too-corrupt-to-follow-through/)
@@ -19,8 +20,10 @@
 * [2024-08-22, 09:33:08](https://news.ycombinator.com/item?id=41318336) - [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
 * [2024-08-22, 09:23:40](https://news.ycombinator.com/item?id=41318284) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
+* [2024-08-22, 08:54:44](https://news.ycombinator.com/item?id=41318133) - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
 * [2024-08-22, 08:53:33](https://news.ycombinator.com/item?id=41318127) - [Starbucks' new CEO will supercommute 1k miles from California to Seattle](https://www.cnbc.com/2024/08/20/starbucks-new-ceo-brian-niccol-will-supercommute-to-seattle-instead-of-relocating.html)
 * [2024-08-22, 08:33:00](https://news.ycombinator.com/item?id=41318033) - [Haiku OS [GSoC 2024] Hardware Virtualization: Final Report](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
+* [2024-08-22, 08:29:45](https://news.ycombinator.com/item?id=41318013) - [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 08:27:23](https://news.ycombinator.com/item?id=41318000) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
 * [2024-08-22, 08:19:41](https://news.ycombinator.com/item?id=41317971) - [If you can't code, remember this video](https://twitter.com/0xluffyb/status/1825854097481736479)
