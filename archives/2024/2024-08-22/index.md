@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 14:50:10](https://news.ycombinator.com/item?id=41320937) - [How Costco Hacked the American Shopping Psyche](https://www.nytimes.com/2024/08/20/dining/costco.html)
 * [2024-08-22, 14:16:14](https://news.ycombinator.com/item?id=41320554) - [Make Sports Betting Taboo Again](https://jacobin.com/2024/08/sports-betting-taxation-robinhood-draftkings/)
 * [2024-08-22, 14:00:48](https://news.ycombinator.com/item?id=41320365) - [Leaked Microsoft pay data shows how much software engineers report making](https://www.businessinsider.com/microsoft-spreadsheet-shows-pay-engineers-2024-8)
 * [2024-08-22, 13:23:05](https://news.ycombinator.com/item?id=41319983) - [Gastroenteritis Rates Higher in Seine Events Than in Previous Olympics](https://www.medpagetoday.com/special-reports/exclusives/111605)

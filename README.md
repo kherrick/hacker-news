@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 14:50:10](https://news.ycombinator.com/item?id=41320937) - [How Costco Hacked the American Shopping Psyche](https://www.nytimes.com/2024/08/20/dining/costco.html)
 * [2024-08-22, 14:00:48](https://news.ycombinator.com/item?id=41320365) - [Leaked Microsoft pay data shows how much software engineers report making](https://www.businessinsider.com/microsoft-spreadsheet-shows-pay-engineers-2024-8)
 * [2024-08-22, 12:50:56](https://news.ycombinator.com/item?id=41319700) - [The surprising cause of fasting's regenerative powers](https://www.nature.com/articles/d41586-024-02700-2)
 * [2024-08-22, 11:52:42](https://news.ycombinator.com/item?id=41319224) - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
@@ -23,7 +24,6 @@
 * [2024-08-21, 17:49:40](https://news.ycombinator.com/item?id=41312521) - [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
 * [2024-08-21, 16:55:36](https://news.ycombinator.com/item?id=41312079) - [Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model weights](https://news.ycombinator.com/item?id=41312079)
 * [2024-08-21, 15:57:36](https://news.ycombinator.com/item?id=41311479) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
-* [2024-08-21, 14:50:20](https://news.ycombinator.com/item?id=41310865) - [Mathematicians prove Hawking wrong about the most extreme black holes](https://www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/)
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to build a 50k ton forging press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-19, 05:33:17](https://news.ycombinator.com/item?id=41288084) - [Tom Wolfe's Irresistible Snap, Crackle and Pop](https://www.nytimes.com/2024/08/15/books/review/tom-wolfe-radical-chic-black-panthers-leonard-bernstein.html)
