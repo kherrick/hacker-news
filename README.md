@@ -5,7 +5,7 @@
 * [2024-08-22, 04:44:43](https://news.ycombinator.com/item?id=41316890) - [Webtoon Targets 170 Pirate Domains Through DMCA Subpoena](https://torrentfreak.com/webtoon-targets-170-pirate-domains-through-dmca-subpoena-240821/)
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing my own watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
 * [2024-08-22, 03:04:23](https://news.ycombinator.com/item?id=41316436) - [Self-Hosting DNS](https://ghostdev.xyz/posts/self-hosting-dns/)
-* [2024-08-22, 02:47:18](https://news.ycombinator.com/item?id=41316342) - [A 20-part deep dive into how linkers work](https://lwn.net/Articles/276782/)
+* [2024-08-22, 02:47:18](https://news.ycombinator.com/item?id=41316342) - [A 20-part deep dive into how linkers work (2008)](https://lwn.net/Articles/276782/)
 * [2024-08-21, 23:55:42](https://news.ycombinator.com/item?id=41315359) - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-21, 23:16:21](https://news.ycombinator.com/item?id=41315138) - [I'm tired of fixing customers' AI generated code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
 * [2024-08-21, 23:14:59](https://news.ycombinator.com/item?id=41315126) - [Euphemisms are best changed frequently (2016)](https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently)
