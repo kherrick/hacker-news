@@ -37,6 +37,7 @@
 * [2024-08-17, 16:31:05](https://news.ycombinator.com/item?id=41275674) - [AMD's Ryzen CPUs might be slower in PC games due to a weird Windows 11 bug](https://www.techradar.com/computing/cpu/amds-ryzen-cpus-might-be-slower-in-pc-games-due-to-a-weird-windows-11-bug-and-while-theres-a-fix-you-absolutely-shouldnt-use-it)
 * [2024-08-17, 16:20:19](https://news.ycombinator.com/item?id=41275600) - [X to close operations in Brazil 'effective immediately'](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
 * [2024-08-17, 16:17:00](https://news.ycombinator.com/item?id=41275573) - [Home to Anything JavaFX Related](https://www.jfx-central.com/)
+* [2024-08-17, 15:53:02](https://news.ycombinator.com/item?id=41275395) - [Code as Art](https://www.awwsmm.com/blog/code-as-art)
 * [2024-08-17, 15:45:43](https://news.ycombinator.com/item?id=41275342) - [Do we need to pay billions in fees to Stripe, Block, PayPal and Visa/MC?](https://news.ycombinator.com/item?id=41275342)
 * [2024-08-17, 15:14:32](https://news.ycombinator.com/item?id=41275114) - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
 * [2024-08-17, 15:08:40](https://news.ycombinator.com/item?id=41275073) - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)

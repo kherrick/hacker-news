@@ -4,7 +4,6 @@
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing my own watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
 * [2024-08-22, 02:47:18](https://news.ycombinator.com/item?id=41316342) - [A 20-part deep dive into how linkers work](https://lwn.net/Articles/276782/)
 * [2024-08-22, 02:05:49](https://news.ycombinator.com/item?id=41316067) - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
-* [2024-08-22, 01:23:50](https://news.ycombinator.com/item?id=41315802) - [Jobalytics – ATS Resume Checker – Job Search Tools](https://jobalytics.app/)
 * [2024-08-21, 23:55:42](https://news.ycombinator.com/item?id=41315359) - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-21, 23:16:21](https://news.ycombinator.com/item?id=41315138) - [I'm tired of fixing customers' AI generated code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
 * [2024-08-21, 23:14:59](https://news.ycombinator.com/item?id=41315126) - [Euphemisms are best changed frequently (2016)](https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently)
@@ -30,6 +29,7 @@
 * [2024-08-19, 16:34:21](https://news.ycombinator.com/item?id=41292477) - [Distributed Locks with Redis (2014)](https://redis.io/docs/latest/develop/use/patterns/distributed-locks/)
 * [2024-08-19, 16:17:12](https://news.ycombinator.com/item?id=41292321) - [Maps Mania: How the World Powers Itself](https://googlemapsmania.blogspot.com/2024/08/how-world-powers-itself.html)
 * [2024-08-18, 23:42:15](https://news.ycombinator.com/item?id=41286486) - [Why isn't Colorado's snowpack ending up in the Colorado River?](https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html)
+* [2024-08-17, 15:53:02](https://news.ycombinator.com/item?id=41275395) - [Code as Art](https://www.awwsmm.com/blog/code-as-art)
 
 ## [Archives](archives/index.md)
 
