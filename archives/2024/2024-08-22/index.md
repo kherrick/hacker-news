@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 14:50:10](https://news.ycombinator.com/item?id=41320937) - [How Costco Hacked the American Shopping Psyche](https://www.nytimes.com/2024/08/20/dining/costco.html)
 * [2024-08-22, 14:16:14](https://news.ycombinator.com/item?id=41320554) - [Make Sports Betting Taboo Again](https://jacobin.com/2024/08/sports-betting-taxation-robinhood-draftkings/)
 * [2024-08-22, 14:00:48](https://news.ycombinator.com/item?id=41320365) - [Leaked Microsoft pay data shows how much software engineers report making](https://www.businessinsider.com/microsoft-spreadsheet-shows-pay-engineers-2024-8)
