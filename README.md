@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-22, 02:05:49](https://news.ycombinator.com/item?id=41316067) - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
 * [2024-08-21, 23:16:21](https://news.ycombinator.com/item?id=41315138) - [I'm Tired of Fixing Customers' AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
 * [2024-08-21, 23:14:59](https://news.ycombinator.com/item?id=41315126) - [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)
 * [2024-08-21, 23:06:17](https://news.ycombinator.com/item?id=41315068) - [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
@@ -19,6 +18,7 @@
 * [2024-08-21, 14:46:17](https://news.ycombinator.com/item?id=41310834) - [Self-Supervised Learning for Videos](https://www.lightly.ai/post/self-supervised-learning-for-videos)
 * [2024-08-21, 14:05:48](https://news.ycombinator.com/item?id=41310433) - [Revisiting the Classics: Jensen's Inequality (2023)](https://francisbach.com/jensen-inequality/)
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to build a 50k ton forging press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
+* [2024-08-21, 11:43:19](https://news.ycombinator.com/item?id=41309292) - [Electrostatic motors reach the macro scale](https://spectrum.ieee.org/electrostatic-motor)
 * [2024-08-21, 11:12:28](https://news.ycombinator.com/item?id=41309072) - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 07:47:05](https://news.ycombinator.com/item?id=41307815) - [Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
