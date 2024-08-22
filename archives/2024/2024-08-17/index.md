@@ -59,6 +59,7 @@
 * [2024-08-17, 10:42:54](https://news.ycombinator.com/item?id=41273415) - [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
 * [2024-08-17, 10:29:50](https://news.ycombinator.com/item?id=41273357) - [Brain found to store three copies of every memory](https://newatlas.com/biology/brain-three-copies-memory/)
 * [2024-08-17, 10:23:38](https://news.ycombinator.com/item?id=41273325) - [RP2350 Launch Blog](https://thejpster.org.uk/blog/blog-2024-08-08/)
+* [2024-08-17, 10:17:35](https://news.ycombinator.com/item?id=41273292) - [Filament: Full-Stack Laravel Components with Livewire and Tailwind](https://github.com/filamentphp/filament)
 * [2024-08-17, 09:54:08](https://news.ycombinator.com/item?id=41273167) - [The River, the Village, and the Fort: Nate Silver's New Book, \"On the Edge\"](https://statmodeling.stat.columbia.edu/2024/08/13/the-river-the-village-and-the-fort-nate-silvers-new-book-on-the-edge/)
 * [2024-08-17, 09:53:36](https://news.ycombinator.com/item?id=41273163) - ['Kafkaesque': bank blocks cash transfer, saying it could be an AI scam](https://www.theguardian.com/money/article/2024/aug/17/bank-blocks-cash-transfer-ai-scam-fraud)
 * [2024-08-17, 09:49:55](https://news.ycombinator.com/item?id=41273148) - [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)

@@ -2,7 +2,6 @@
 
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
-* [2024-08-22, 17:33:29](https://news.ycombinator.com/item?id=41322548) - [Venezuela's Supreme Court certifies Maduro's claims he won presidential election](https://www.ctvnews.ca/world/venezuela-s-supreme-court-certifies-maduro-s-claims-that-he-won-presidential-election-1.7010540)
 * [2024-08-22, 17:29:54](https://news.ycombinator.com/item?id=41322506) - [JEP Draft: Adapt Object Monitors for Virtual Threads](https://openjdk.org/jeps/8337395)
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-22, 17:00:47](https://news.ycombinator.com/item?id=41322207) - [Vooma (YC W23) is hiring a growth lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
@@ -30,6 +29,7 @@
 * [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
 * [2024-08-18, 13:13:40](https://news.ycombinator.com/item?id=41282181) - [Writing a Playstation 1 Game in 2024](https://github.com/jbreckmckye/notris)
 * [2024-08-18, 00:23:52](https://news.ycombinator.com/item?id=41279166) - [Trailer Faces HQ Dataset](https://www.justinpinkney.com/blog/2024/trailer-faces/)
+* [2024-08-17, 10:17:35](https://news.ycombinator.com/item?id=41273292) - [Filament: Full-Stack Laravel Components with Livewire and Tailwind](https://github.com/filamentphp/filament)
 
 ## [Archives](archives/index.md)
 
