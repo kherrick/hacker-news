@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
 * [2024-08-22, 17:10:35](https://news.ycombinator.com/item?id=41322297) - [Apple splits App Store team in two, introduces new leadership](https://arstechnica.com/gadgets/2024/08/apple-says-farewell-to-its-app-store-chief-as-it-splits-his-team-in-two/)
+* [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-22, 17:06:31](https://news.ycombinator.com/item?id=41322266) - [Peloton to charge $95 activation fee for used bikes](https://www.cnbc.com/2024/08/22/peloton-to-charge-95-activation-fee-for-used-bikes-.html)
 * [2024-08-22, 17:00:47](https://news.ycombinator.com/item?id=41322207) - [Vooma (YC W23) Is Hiring a Growth Lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
 * [2024-08-22, 16:36:34](https://news.ycombinator.com/item?id=41321998) - [Making PyPy's GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
