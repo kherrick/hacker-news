@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 * [2024-08-22, 17:10:35](https://news.ycombinator.com/item?id=41322297) - [Apple splits App Store team in two, introduces new leadership](https://arstechnica.com/gadgets/2024/08/apple-says-farewell-to-its-app-store-chief-as-it-splits-his-team-in-two/)
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-22, 17:06:31](https://news.ycombinator.com/item?id=41322266) - [Peloton to charge $95 activation fee for used bikes](https://www.cnbc.com/2024/08/22/peloton-to-charge-95-activation-fee-for-used-bikes-.html)
@@ -20,7 +21,6 @@
 * [2024-08-21, 17:44:34](https://news.ycombinator.com/item?id=41312480) - [Show HN: VirtualStorageLibrary – .NET Tree solutions for items, dirs, symlinks](https://shimodateakira.github.io/VirtualStorageLibrary/)
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
 * [2024-08-21, 15:16:00](https://news.ycombinator.com/item?id=41311135) - [We don't know how bad most things are nor precisely how they're bad](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how)
-* [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to build a 50k ton forging press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 * [2024-08-19, 19:28:54](https://news.ycombinator.com/item?id=41293907) - [Largest protein yet discovered builds algal toxins](https://phys.org/news/2024-08-largest-protein-algal-toxins.html)
 * [2024-08-19, 17:10:13](https://news.ycombinator.com/item?id=41292757) - [DRAKON](https://en.wikipedia.org/wiki/DRAKON)
 * [2024-08-19, 16:34:30](https://news.ycombinator.com/item?id=41292481) - [Constraining writers in distributed systems](https://shachaf.net/w/constraining-writers-in-distributed-systems)
