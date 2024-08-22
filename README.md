@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 09:57:51](https://news.ycombinator.com/item?id=41318459) - [Second human being implanted with Neuralink brain chip](https://neuralink.com/blog/prime-study-progress-update-second-participant/)
 * [2024-08-22, 09:46:32](https://news.ycombinator.com/item?id=41318408) - [No \"Hello\", No \"Quick Call\", and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
 * [2024-08-22, 09:33:08](https://news.ycombinator.com/item?id=41318336) - [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
 * [2024-08-22, 09:23:40](https://news.ycombinator.com/item?id=41318284) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
@@ -11,7 +12,6 @@
 * [2024-08-22, 06:03:50](https://news.ycombinator.com/item?id=41317280) - [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
 * [2024-08-22, 05:05:11](https://news.ycombinator.com/item?id=41316999) - [Celebrating 6 years since Valve announced Steam Play Proton for Linux](https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/)
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing my own watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
-* [2024-08-22, 03:04:23](https://news.ycombinator.com/item?id=41316436) - [Self-Hosting DNS](https://ghostdev.xyz/posts/self-hosting-dns/)
 * [2024-08-22, 02:47:18](https://news.ycombinator.com/item?id=41316342) - [A 20-part deep dive into how linkers work (2008)](https://lwn.net/Articles/276782/)
 * [2024-08-21, 23:55:42](https://news.ycombinator.com/item?id=41315359) - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-21, 23:16:21](https://news.ycombinator.com/item?id=41315138) - [I'm tired of fixing customers' AI generated code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
