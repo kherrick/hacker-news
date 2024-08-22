@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 11:52:42](https://news.ycombinator.com/item?id=41319224) - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 * [2024-08-22, 11:24:07](https://news.ycombinator.com/item?id=41319003) - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
 * [2024-08-22, 10:44:27](https://news.ycombinator.com/item?id=41318736) - [Dad hacks database to fake death and avoid child support pay](https://www.bbc.com/news/articles/cgrj9r5qpego)
 * [2024-08-22, 10:17:55](https://news.ycombinator.com/item?id=41318553) - [Nix in 100 Seconds [video]](https://www.youtube.com/watch?v=FJVFXsNzYZQ)
@@ -30,3 +31,4 @@
 * [2024-08-22, 01:59:51](https://news.ycombinator.com/item?id=41316029) - [Never enable 2FA for accounts that you actually care about (2023)](https://benwilber.github.io/2023/07/17/never-enable-2fa-for-accounts-you-actually-care-about.html)
 * [2024-08-22, 01:23:50](https://news.ycombinator.com/item?id=41315802) - [Jobalytics – ATS Resume Checker – Job Search Tools](https://jobalytics.app/)
 * [2024-08-22, 01:01:57](https://news.ycombinator.com/item?id=41315701) - [Microsoft's latest security update has ruined dual-boot Windows and Linux PCs](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)
+* [2024-08-22, 00:05:36](https://news.ycombinator.com/item?id=41315415) - [Windows 11 tweaks and usability improvements](https://kittenlabs.de/blog/2024/08/20/windows-11-tweaks-usability-improvements/)
