@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 17:00:47](https://news.ycombinator.com/item?id=41322207) - [Vooma (YC W23) Is Hiring a Growth Lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
 * [2024-08-22, 16:36:34](https://news.ycombinator.com/item?id=41321998) - [Making PyPy's GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
 * [2024-08-22, 16:34:30](https://news.ycombinator.com/item?id=41321981) - [Aerc: A Well-Crafted TUI for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [2024-08-22, 16:28:26](https://news.ycombinator.com/item?id=41321936) - [Launch HN: Arva AI (YC S24) – AI agents for instant global KYB onboarding](https://news.ycombinator.com/item?id=41321936)
@@ -7,7 +8,6 @@
 * [2024-08-22, 15:48:22](https://news.ycombinator.com/item?id=41321572) - [The Story of the Successful Life and Abrupt Death of Flip Video Cameras](https://petapixel.com/2024/08/21/the-story-of-the-successful-life-and-abrupt-death-of-flip-video-cameras/)
 * [2024-08-22, 15:37:50](https://news.ycombinator.com/item?id=41321467) - [Japan's Public Didn't Buy Fumio Kishida's New Capitalism](https://foreignpolicy.com/2024/08/15/japan-fumio-kishida-departure-capitalism-liberal-democratic-party/)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
-* [2024-08-22, 11:52:42](https://news.ycombinator.com/item?id=41319224) - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 * [2024-08-22, 11:24:07](https://news.ycombinator.com/item?id=41319003) - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:54:44](https://news.ycombinator.com/item?id=41318133) - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
