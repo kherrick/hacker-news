@@ -75,6 +75,7 @@
 * [2024-08-17, 04:04:26](https://news.ycombinator.com/item?id=41272125) - [David Mackenzie – A Personal History with Linux and BSD Unix [video]](https://www.youtube.com/watch?v=D7vfI-WSP8Q)
 * [2024-08-17, 03:39:52](https://news.ycombinator.com/item?id=41272075) - [Flightaware Security Breach](https://www.pilotsofamerica.com/community/threads/flightaware-security-breach.148348/)
 * [2024-08-17, 02:09:34](https://news.ycombinator.com/item?id=41271839) - [Ditch the Sim Rig! Use Your Car Instead](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/)
+* [2024-08-17, 01:54:32](https://news.ycombinator.com/item?id=41271783) - [Ren'Py](https://github.com/renpy/renpy)
 * [2024-08-17, 01:10:59](https://news.ycombinator.com/item?id=41271667) - [Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
 * [2024-08-17, 00:16:46](https://news.ycombinator.com/item?id=41271458) - [Show HN: an AI copilot for Next.js developers](https://useglass.ai)
 * [2024-08-17, 00:13:19](https://news.ycombinator.com/item?id=41271453) - [Evolution of adhesive systems in amphibians by shifts in gene expression](https://www.nature.com/articles/s41467-024-49917-3)
