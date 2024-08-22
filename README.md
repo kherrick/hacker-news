@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-22, 23:45:32](https://news.ycombinator.com/item?id=41325199) - [Starlink Now Being Deployed on U.S. Navy Warships](https://www.twz.com/sea/starlink-now-being-deployed-on-u-s-navy-warships)
+* [2024-08-22, 22:39:57](https://news.ycombinator.com/item?id=41324905) - [ARRL IT Security Incident – $1M ransom](https://www.arrl.org/news/arrl-it-security-incident-report-to-members)
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 18:13:40](https://news.ycombinator.com/item?id=41322955) - [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
