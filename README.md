@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 22:07:19](https://news.ycombinator.com/item?id=41324735) - [Show HN: Bullshit-detector – quickly detect amount of bullshit in any text](https://github.com/pilotpirxie/bullshit-detector)
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
@@ -11,6 +12,7 @@
 * [2024-08-22, 16:36:34](https://news.ycombinator.com/item?id=41321998) - [Making PyPy's GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
 * [2024-08-22, 16:34:30](https://news.ycombinator.com/item?id=41321981) - [Aerc: A well-crafted TUI for email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [2024-08-22, 16:28:26](https://news.ycombinator.com/item?id=41321936) - [Launch HN: Arva AI (YC S24) – AI agents for instant global KYB onboarding](https://news.ycombinator.com/item?id=41321936)
+* [2024-08-22, 15:33:00](https://news.ycombinator.com/item?id=41321420) - [Ordinals aren't much worse than Quaternions](https://www.philipzucker.com/ordinals/)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:54:44](https://news.ycombinator.com/item?id=41318133) - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
@@ -20,7 +22,6 @@
 * [2024-08-22, 02:47:18](https://news.ycombinator.com/item?id=41316342) - [A deep dive into how linkers work (2008)](https://lwn.net/Articles/276782/)
 * [2024-08-21, 17:44:34](https://news.ycombinator.com/item?id=41312480) - [Show HN: VirtualStorageLibrary – .NET Tree solutions for items, dirs, symlinks](https://shimodateakira.github.io/VirtualStorageLibrary/)
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
-* [2024-08-19, 19:28:54](https://news.ycombinator.com/item?id=41293907) - [Largest protein yet discovered builds algal toxins](https://phys.org/news/2024-08-largest-protein-algal-toxins.html)
 * [2024-08-19, 17:10:13](https://news.ycombinator.com/item?id=41292757) - [DRAKON](https://en.wikipedia.org/wiki/DRAKON)
 * [2024-08-19, 16:34:30](https://news.ycombinator.com/item?id=41292481) - [Constraining writers in distributed systems](https://shachaf.net/w/constraining-writers-in-distributed-systems)
 * [2024-08-19, 15:48:23](https://news.ycombinator.com/item?id=41292049) - [How Deep Can Humans Go?](https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go)
@@ -28,7 +29,6 @@
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
 * [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
 * [2024-08-18, 13:13:40](https://news.ycombinator.com/item?id=41282181) - [Notris: A Tetris clone for the PlayStation 1](https://github.com/jbreckmckye/notris)
-* [2024-08-18, 00:23:52](https://news.ycombinator.com/item?id=41279166) - [Trailer Faces HQ Dataset](https://www.justinpinkney.com/blog/2024/trailer-faces/)
 * [2024-08-17, 18:37:09](https://news.ycombinator.com/item?id=41276809) - [Batteryless OP-1](https://shred.zone/cilla/page/503/batteryless-op-1.html)
 
 ## [Archives](archives/index.md)

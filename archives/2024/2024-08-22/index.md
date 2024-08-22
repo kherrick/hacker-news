@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 22:07:19](https://news.ycombinator.com/item?id=41324735) - [Show HN: Bullshit-detector – quickly detect amount of bullshit in any text](https://github.com/pilotpirxie/bullshit-detector)
 * [2024-08-22, 20:03:33](https://news.ycombinator.com/item?id=41323925) - [Problem with Rescuing Stranded Astronauts: Spacesuits Aren't Compatible](https://futurism.com/stranded-astronauts-spacex-boeing-spacesuits-incompatible)
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
@@ -23,6 +24,7 @@
 * [2024-08-22, 16:21:46](https://news.ycombinator.com/item?id=41321881) - [NASA says data will guide whether astronauts return on troubled Starliner](https://www.washingtonpost.com/technology/2024/08/22/boeing-starliner-nasa-astronauts-dragon-spacex/)
 * [2024-08-22, 15:48:22](https://news.ycombinator.com/item?id=41321572) - [The Story of the Successful Life and Abrupt Death of Flip Video Cameras](https://petapixel.com/2024/08/21/the-story-of-the-successful-life-and-abrupt-death-of-flip-video-cameras/)
 * [2024-08-22, 15:37:50](https://news.ycombinator.com/item?id=41321467) - [Japan's Public Didn't Buy Fumio Kishida's New Capitalism](https://foreignpolicy.com/2024/08/15/japan-fumio-kishida-departure-capitalism-liberal-democratic-party/)
+* [2024-08-22, 15:33:00](https://news.ycombinator.com/item?id=41321420) - [Ordinals aren't much worse than Quaternions](https://www.philipzucker.com/ordinals/)
 * [2024-08-22, 15:20:03](https://news.ycombinator.com/item?id=41321292) - [Xkcd Game Theory Question](https://blog.plover.com/2024/08/22#xkcd-game-theory)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 14:50:10](https://news.ycombinator.com/item?id=41320937) - [How Costco Hacked the American Shopping Psyche](https://www.nytimes.com/2024/08/20/dining/costco.html)
