@@ -66,6 +66,7 @@
 * [2024-08-18, 13:58:18](https://news.ycombinator.com/item?id=41282416) - [NASA Citizen Scientists Spot Object Moving 1M Miles per Hour](https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/)
 * [2024-08-18, 13:36:07](https://news.ycombinator.com/item?id=41282307) - [Page Turns: Literary Translations on the American Ballet Theater's Summer Stage](https://lithub.com/page-turns-on-literary-translations-on-the-american-ballet-theaters-summer-stage/)
 * [2024-08-18, 13:18:04](https://news.ycombinator.com/item?id=41282212) - [I wag, therefore I am: the philosophy of dogs](https://www.theguardian.com/books/article/2024/aug/18/i-wag-therefore-i-am-the-philosophy-of-dogs)
+* [2024-08-18, 13:13:40](https://news.ycombinator.com/item?id=41282181) - [Writing a Playstation 1 Game in 2024](https://github.com/jbreckmckye/notris)
 * [2024-08-18, 13:09:53](https://news.ycombinator.com/item?id=41282157) - [Convert Markdown files to RSS feed](https://github.com/TimoKats/mdrss)
 * [2024-08-18, 12:59:35](https://news.ycombinator.com/item?id=41282122) - [Fake insects – Find the AI generated insect](https://huggingface.co/spaces/victor/fake-insects)
 * [2024-08-18, 12:42:11](https://news.ycombinator.com/item?id=41282033) - [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
