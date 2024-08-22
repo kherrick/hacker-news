@@ -17,7 +17,6 @@
 * [2024-08-22, 08:29:45](https://news.ycombinator.com/item?id=41318013) - [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
 * [2024-08-22, 02:47:18](https://news.ycombinator.com/item?id=41316342) - [A deep dive into how linkers work (2008)](https://lwn.net/Articles/276782/)
-* [2024-08-21, 23:55:42](https://news.ycombinator.com/item?id=41315359) - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-21, 17:44:34](https://news.ycombinator.com/item?id=41312480) - [Show HN: VirtualStorageLibrary – .NET Tree solutions for items, dirs, symlinks](https://shimodateakira.github.io/VirtualStorageLibrary/)
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
 * [2024-08-21, 15:16:00](https://news.ycombinator.com/item?id=41311135) - [We don't know how bad most things are nor precisely how they're bad](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how)
@@ -30,6 +29,7 @@
 * [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
 * [2024-08-18, 13:13:40](https://news.ycombinator.com/item?id=41282181) - [Notris: A Tetris clone for the PlayStation 1](https://github.com/jbreckmckye/notris)
 * [2024-08-18, 00:23:52](https://news.ycombinator.com/item?id=41279166) - [Trailer Faces HQ Dataset](https://www.justinpinkney.com/blog/2024/trailer-faces/)
+* [2024-08-17, 18:37:09](https://news.ycombinator.com/item?id=41276809) - [Batteryless OP-1](https://shred.zone/cilla/page/503/batteryless-op-1.html)
 
 ## [Archives](archives/index.md)
 

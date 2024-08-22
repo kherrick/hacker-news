@@ -20,6 +20,7 @@
 * [2024-08-17, 19:00:44](https://news.ycombinator.com/item?id=41277040) - [Sergey Brin: \"Irate Call from Steve Jobs\" (2005)](https://twitter.com/TechEmails/status/1610099684345024512)
 * [2024-08-17, 18:56:36](https://news.ycombinator.com/item?id=41277014) - [mpv a free, open-source, and cross-platform media player](https://mpv.io/)
 * [2024-08-17, 18:51:00](https://news.ycombinator.com/item?id=41276951) - [I just declined a job offer from a billionaire friend](https://leanercloud.beehiiv.com/p/just-declined-job-offer-billionaire-friend)
+* [2024-08-17, 18:37:09](https://news.ycombinator.com/item?id=41276809) - [Batteryless OP-1](https://shred.zone/cilla/page/503/batteryless-op-1.html)
 * [2024-08-17, 18:32:21](https://news.ycombinator.com/item?id=41276763) - [The Secret Lives of Snowblowers](https://lcamtuf.substack.com/p/the-secret-lives-of-snowblowers)
 * [2024-08-17, 18:17:12](https://news.ycombinator.com/item?id=41276675) - [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
 * [2024-08-17, 18:13:13](https://news.ycombinator.com/item?id=41276633) - [Troubled Amazon drone delivery program faces latest challenge: Annoyed residents](https://www.cnbc.com/2024/08/16/amazons-drone-expansion-plans-spur-pushback-from-texas-residents.html)
