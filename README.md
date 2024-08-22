@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing My Own Watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
-* [2024-08-22, 02:05:49](https://news.ycombinator.com/item?id=41316067) - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
 * [2024-08-21, 23:55:42](https://news.ycombinator.com/item?id=41315359) - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-21, 23:16:21](https://news.ycombinator.com/item?id=41315138) - [I'm Tired of Fixing Customers' AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
 * [2024-08-21, 23:14:59](https://news.ycombinator.com/item?id=41315126) - [Euphemisms are best changed frequently (2016)](https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently)
@@ -10,6 +9,7 @@
 * [2024-08-21, 21:01:27](https://news.ycombinator.com/item?id=41314161) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
 * [2024-08-21, 20:42:03](https://news.ycombinator.com/item?id=41314039) - [Do low-level optimizations matter? Faster quicksort with cmov (2020)](http://cantrip.org/sortfast.html)
 * [2024-08-21, 20:39:50](https://news.ycombinator.com/item?id=41314031) - [Euclid's Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
+* [2024-08-21, 20:23:49](https://news.ycombinator.com/item?id=41313894) - [Wardriving for a place to Live](https://jampauchoa.substack.com/p/wardriving-for-place-to-live)
 * [2024-08-21, 20:07:48](https://news.ycombinator.com/item?id=41313740) - [US hospital told family their daughter had checked out when in fact she'd died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
 * [2024-08-21, 19:18:48](https://news.ycombinator.com/item?id=41313290) - [Breaking down a record-setting day on the Texas grid](https://blog.gridstatus.io/a-record-setting-day-in-ercot/)
 * [2024-08-21, 18:29:08](https://news.ycombinator.com/item?id=41312845) - [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
