@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 10:17:55](https://news.ycombinator.com/item?id=41318553) - [Nix in 100 Seconds [video]](https://www.youtube.com/watch?v=FJVFXsNzYZQ)
 * [2024-08-22, 09:57:51](https://news.ycombinator.com/item?id=41318459) - [Second human being implanted with Neuralink brain chip](https://neuralink.com/blog/prime-study-progress-update-second-participant/)
 * [2024-08-22, 09:46:32](https://news.ycombinator.com/item?id=41318408) - [No \"Hello\", No \"Quick Call\", and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
 * [2024-08-22, 09:33:08](https://news.ycombinator.com/item?id=41318336) - [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
@@ -25,7 +26,6 @@
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to build a 50k ton forging press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 * [2024-08-21, 11:12:28](https://news.ycombinator.com/item?id=41309072) - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
-* [2024-08-21, 07:47:05](https://news.ycombinator.com/item?id=41307815) - [Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
 * [2024-08-18, 23:42:15](https://news.ycombinator.com/item?id=41286486) - [Why isn't Colorado's snowpack ending up in the Colorado River?](https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html)
 * [2024-08-17, 18:32:21](https://news.ycombinator.com/item?id=41276763) - [The Secret Lives of Snowblowers](https://lcamtuf.substack.com/p/the-secret-lives-of-snowblowers)
 * [2024-08-17, 15:53:02](https://news.ycombinator.com/item?id=41275395) - [Code as Art](https://www.awwsmm.com/blog/code-as-art)
