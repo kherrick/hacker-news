@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 11:24:07](https://news.ycombinator.com/item?id=41319003) - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
+* [2024-08-22, 10:44:27](https://news.ycombinator.com/item?id=41318736) - [Dad hacks database to fake death and avoid child support pay](https://www.bbc.com/news/articles/cgrj9r5qpego)
 * [2024-08-22, 10:17:55](https://news.ycombinator.com/item?id=41318553) - [Nix in 100 Seconds [video]](https://www.youtube.com/watch?v=FJVFXsNzYZQ)
 * [2024-08-22, 09:57:51](https://news.ycombinator.com/item?id=41318459) - [Second human being implanted with Neuralink brain chip](https://neuralink.com/blog/prime-study-progress-update-second-participant/)
 * [2024-08-22, 09:46:32](https://news.ycombinator.com/item?id=41318408) - [No \"Hello\", No \"Quick Call\", and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
