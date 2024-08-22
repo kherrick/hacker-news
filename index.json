@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-08-22, 01:01:57",
+      "https://news.ycombinator.com/item?id=41315701"
+    ],
+    [
+      "Microsoft's latest security update has ruined dual-boot Windows and Linux PCs",
+      "https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 23:35:03",
+      "https://news.ycombinator.com/item?id=41315235"
+    ],
+    [
+      "Americans are doing less DIY. It's another worrying sign for the economy",
+      "https://www.businessinsider.com/americans-doing-less-diy-worrying-sign-economy-lowes-earnings-2024-8"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 23:16:21",
+      "https://news.ycombinator.com/item?id=41315138"
+    ],
+    [
+      "I'm Tired of Fixing Customers' AI Generated Code",
+      "https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 23:14:59",
+      "https://news.ycombinator.com/item?id=41315126"
+    ],
+    [
+      "The Euphemism Treadmill",
+      "https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 23:06:17",
+      "https://news.ycombinator.com/item?id=41315068"
+    ],
+    [
+      "Google Play will no longer pay to discover vulnerabilities in Android apps",
+      "https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 22:07:09",
+      "https://news.ycombinator.com/item?id=41314674"
+    ],
+    [
+      "Bioaccumulation of Microplastics in Decedent Human Brains",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11100893/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 21:52:05",
       "https://news.ycombinator.com/item?id=41314542"
     ],
@@ -41,16 +101,6 @@
   ],
   [
     [
-      "2024-08-21, 20:19:06",
-      "https://news.ycombinator.com/item?id=41313849"
-    ],
-    [
-      "Was the Real Jobs Revision Negative 818,000 or Negative 915,000?",
-      "https://mishtalk.com/economics/was-the-real-jobs-revision-negative-818000-or-negative-915000/"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 20:07:48",
       "https://news.ycombinator.com/item?id=41313740"
     ],
@@ -87,26 +137,6 @@
     [
       "Turnstyle – An esoteric, graphical functional language",
       "https://jaspervdj.be/posts/2024-08-21-turnstyle.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 17:49:34",
-      "https://news.ycombinator.com/item?id=41312520"
-    ],
-    [
-      "Duck typing (horror) in Go",
-      "https://www.ccampo.me/go/2024/08/20/go-duck-typing.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 17:15:29",
-      "https://news.ycombinator.com/item?id=41312259"
-    ],
-    [
-      "Kill the Newsletter: Convert email newsletters into Atom feeds",
-      "https://kill-the-newsletter.com/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-08-21, 11:43:19",
-      "https://news.ycombinator.com/item?id=41309292"
-    ],
-    [
-      "Electrostatic motors reach the macro scale",
-      "https://spectrum.ieee.org/electrostatic-motor"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 11:12:28",
       "https://news.ycombinator.com/item?id=41309072"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-08-21, 10:15:09",
-      "https://news.ycombinator.com/item?id=41308712"
-    ],
-    [
-      "Juice rerouted to Venus in first lunar-Earth flyby",
-      "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 09:59:41",
       "https://news.ycombinator.com/item?id=41308599"
     ],
     [
       "I've built my first successful side project, and I hate it",
       "https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 08:32:48",
-      "https://news.ycombinator.com/item?id=41308114"
-    ],
-    [
-      "The Discovery of the Celendrical Date Line",
-      "https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-08-21, 02:08:56",
-      "https://news.ycombinator.com/item?id=41306128"
+      "2024-08-19, 16:34:21",
+      "https://news.ycombinator.com/item?id=41292477"
     ],
     [
-      "Calling All Hackers",
-      "https://phrack.org/issues/71/17.html#article"
+      "Distributed Locks with Redis",
+      "https://redis.io/docs/latest/develop/use/patterns/distributed-locks/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-08-19, 03:48:49",
-      "https://news.ycombinator.com/item?id=41287641"
+      "2024-08-17, 01:54:32",
+      "https://news.ycombinator.com/item?id=41271783"
     ],
     [
-      "The Origins of the Bloody Mary (2014)",
-      "https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/"
+      "Ren'Py",
+      "https://github.com/renpy/renpy"
     ]
   ],
   [
