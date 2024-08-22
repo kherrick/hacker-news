@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-22, 16:36:34",
+      "https://news.ycombinator.com/item?id=41321998"
+    ],
+    [
+      "Making PyPy's GC and JIT produce a sound [video]",
+      "https://www.youtube.com/watch?v=drwJBzDM1jI"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 16:34:30",
       "https://news.ycombinator.com/item?id=41321981"
     ],
     [
       "Aerc: A Well-Crafted TUI for Email",
       "https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 16:28:26",
+      "https://news.ycombinator.com/item?id=41321936"
+    ],
+    [
+      "Launch HN: Arva AI (YC S24) – AI agents for instant global KYB onboarding",
+      "https://news.ycombinator.com/item?id=41321936"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-08-22, 04:20:34",
-      "https://news.ycombinator.com/item?id=41316782"
-    ],
-    [
-      "WelsonJS: Build a Windows app on the Windows built-in JavaScript engine",
-      "https://github.com/gnh1201/welsonjs"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 02:47:18",
       "https://news.ycombinator.com/item?id=41316342"
     ],
@@ -161,36 +171,6 @@
   ],
   [
     [
-      "2024-08-21, 23:14:59",
-      "https://news.ycombinator.com/item?id=41315126"
-    ],
-    [
-      "Euphemisms are best changed frequently (2016)",
-      "https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 21:01:27",
-      "https://news.ycombinator.com/item?id=41314161"
-    ],
-    [
-      "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
-      "https://news.ycombinator.com/item?id=41314161"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 20:42:03",
-      "https://news.ycombinator.com/item?id=41314039"
-    ],
-    [
-      "Do low-level optimizations matter? Faster quicksort with cmov (2020)",
-      "http://cantrip.org/sortfast.html"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 17:44:34",
       "https://news.ycombinator.com/item?id=41312480"
     ],
@@ -207,16 +187,6 @@
     [
       "GPU utilization can be a misleading metric",
       "https://trainy.ai/blog/gpu-utilization-misleading"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 15:59:25",
-      "https://news.ycombinator.com/item?id=41311500"
-    ],
-    [
-      "A 24 year dance of decoding UX",
-      "https://medium.com/@jasonmesut/a-24-year-dance-of-decoding-ux-851fae35c582"
     ]
   ],
   [
@@ -251,12 +221,42 @@
   ],
   [
     [
+      "2024-08-19, 17:10:13",
+      "https://news.ycombinator.com/item?id=41292757"
+    ],
+    [
+      "DRAKON",
+      "https://en.wikipedia.org/wiki/DRAKON"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 16:34:30",
+      "https://news.ycombinator.com/item?id=41292481"
+    ],
+    [
+      "Constraining writers in distributed systems",
+      "https://shachaf.net/w/constraining-writers-in-distributed-systems"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 15:48:23",
       "https://news.ycombinator.com/item?id=41292049"
     ],
     [
       "How Deep Can Humans Go?",
       "https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 12:58:17",
+      "https://news.ycombinator.com/item?id=41290664"
+    ],
+    [
+      "Meteorites give the Moon its thin atmosphere",
+      "https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/"
     ]
   ],
   [
@@ -271,12 +271,22 @@
   ],
   [
     [
-      "2024-08-18, 23:42:15",
-      "https://news.ycombinator.com/item?id=41286486"
+      "2024-08-18, 20:35:06",
+      "https://news.ycombinator.com/item?id=41285275"
     ],
     [
-      "Why isn't Colorado's snowpack ending up in the Colorado River?",
-      "https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html"
+      "'Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI",
+      "https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 08:57:28",
+      "https://news.ycombinator.com/item?id=41281097"
+    ],
+    [
+      "Discovery of Roman water wells in England proves trial and error",
+      "https://www.theguardian.com/uk-news/article/2024/aug/17/failure-of-roman-engineering-on-industrial-scale-discovery-of-water-wells-in-england-proves-trial-and-error"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Trailer Faces HQ Dataset",
       "https://www.justinpinkney.com/blog/2024/trailer-faces/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 18:32:21",
-      "https://news.ycombinator.com/item?id=41276763"
-    ],
-    [
-      "The secret lives of snowblowers",
-      "https://lcamtuf.substack.com/p/the-secret-lives-of-snowblowers"
     ]
   ]
 ]
