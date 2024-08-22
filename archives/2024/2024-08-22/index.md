@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 04:44:43](https://news.ycombinator.com/item?id=41316890) - [Webtoon Targets 170 Pirate Domains Through DMCA Subpoena](https://torrentfreak.com/webtoon-targets-170-pirate-domains-through-dmca-subpoena-240821/)
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing My Own Watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
+* [2024-08-22, 02:18:32](https://news.ycombinator.com/item?id=41316160) - [In a leaked recording, AWS CEO tells most developers could stop coding soon](https://www.businessinsider.com/aws-ceo-developers-stop-coding-ai-takes-over-2024-8)
 * [2024-08-22, 02:05:49](https://news.ycombinator.com/item?id=41316067) - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
 * [2024-08-22, 01:59:51](https://news.ycombinator.com/item?id=41316029) - [Never enable 2FA for accounts that you actually care about (2023)](https://benwilber.github.io/2023/07/17/never-enable-2fa-for-accounts-you-actually-care-about.html)
+* [2024-08-22, 01:23:50](https://news.ycombinator.com/item?id=41315802) - [Jobalytics – ATS Resume Checker – Job Search Tools](https://jobalytics.app/)
 * [2024-08-22, 01:01:57](https://news.ycombinator.com/item?id=41315701) - [Microsoft's latest security update has ruined dual-boot Windows and Linux PCs](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)
