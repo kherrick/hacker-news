@@ -35,6 +35,7 @@
 * [2024-08-21, 16:55:55](https://news.ycombinator.com/item?id=41312084) - [Code Review Antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 * [2024-08-21, 16:55:36](https://news.ycombinator.com/item?id=41312079) - [Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model weights](https://news.ycombinator.com/item?id=41312079)
 * [2024-08-21, 16:01:15](https://news.ycombinator.com/item?id=41311519) - [U.S. Added 818,000 Fewer Jobs Than Reported Earlier](https://www.nytimes.com/2024/08/21/business/economy/us-jobs-economy.html)
+* [2024-08-21, 15:57:36](https://news.ycombinator.com/item?id=41311479) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
 * [2024-08-21, 15:55:49](https://news.ycombinator.com/item?id=41311461) - [Russia: Citizens must turn off home surveillance because Ukrainians are coming](https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/)
 * [2024-08-21, 15:54:05](https://news.ycombinator.com/item?id=41311446) - [There aren't that many uses for blockchains (2022)](https://calpaterson.com/blockchain.html)
 * [2024-08-21, 15:25:05](https://news.ycombinator.com/item?id=41311222) - [Eli Lilly's weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
