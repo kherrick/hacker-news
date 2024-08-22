@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
 * [2024-08-18, 23:46:17](https://news.ycombinator.com/item?id=41286509) - [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
+* [2024-08-18, 23:42:15](https://news.ycombinator.com/item?id=41286486) - [Why isn't Colorado's snowpack ending up in the Colorado River?](https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html)
 * [2024-08-18, 22:52:37](https://news.ycombinator.com/item?id=41286203) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 * [2024-08-18, 22:45:23](https://news.ycombinator.com/item?id=41286163) - [EFF Presses Federal Circuit to Make Patent Case Filings Public](https://www.eff.org/deeplinks/2024/08/eff-presses-federal-circuit-make-patent-case-filings-public)
 * [2024-08-18, 22:25:59](https://news.ycombinator.com/item?id=41286045) - [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
