@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-22, 22:07:19](https://news.ycombinator.com/item?id=41324735) - [Show HN: Bullshit-detector – quickly detect amount of bullshit in any text](https://github.com/pilotpirxie/bullshit-detector)
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
@@ -27,6 +26,7 @@
 * [2024-08-19, 15:48:23](https://news.ycombinator.com/item?id=41292049) - [How Deep Can Humans Go?](https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go)
 * [2024-08-19, 12:58:17](https://news.ycombinator.com/item?id=41290664) - [Meteorites give the Moon its thin atmosphere](https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/)
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
+* [2024-08-19, 00:33:24](https://news.ycombinator.com/item?id=41286753) - [When Serial Isn't RS-232, Geocaching with the Garmin GPS 95](https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/)
 * [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
 * [2024-08-18, 13:13:40](https://news.ycombinator.com/item?id=41282181) - [Notris: A Tetris clone for the PlayStation 1](https://github.com/jbreckmckye/notris)
 * [2024-08-17, 18:37:09](https://news.ycombinator.com/item?id=41276809) - [Batteryless OP-1](https://shred.zone/cilla/page/503/batteryless-op-1.html)
