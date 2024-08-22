@@ -28,7 +28,7 @@
 * [2024-08-19, 14:27:46](https://news.ycombinator.com/item?id=41291345) - [Caltrain's New Electric Trains](https://www.fastcompany.com/91174458/californias-new-electric-train-makes-for-a-shockingly-better-trip-we-tried-it)
 * [2024-08-19, 12:58:17](https://news.ycombinator.com/item?id=41290664) - [Meteorites give the Moon its thin atmosphere](https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/)
 * [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
-* [2024-08-18, 13:13:40](https://news.ycombinator.com/item?id=41282181) - [Writing a Playstation 1 Game in 2024](https://github.com/jbreckmckye/notris)
+* [2024-08-18, 13:13:40](https://news.ycombinator.com/item?id=41282181) - [Notris: A Tetris clone for the PlayStation 1](https://github.com/jbreckmckye/notris)
 * [2024-08-18, 00:23:52](https://news.ycombinator.com/item?id=41279166) - [Trailer Faces HQ Dataset](https://www.justinpinkney.com/blog/2024/trailer-faces/)
 
 ## [Archives](archives/index.md)
