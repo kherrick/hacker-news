@@ -3,6 +3,7 @@
 * [2024-08-22, 08:53:33](https://news.ycombinator.com/item?id=41318127) - [Starbucks' new CEO will supercommute 1k miles from California to Seattle](https://www.cnbc.com/2024/08/20/starbucks-new-ceo-brian-niccol-will-supercommute-to-seattle-instead-of-relocating.html)
 * [2024-08-22, 08:27:23](https://news.ycombinator.com/item?id=41318000) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
+* [2024-08-22, 07:55:10](https://news.ycombinator.com/item?id=41317824) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 * [2024-08-22, 06:03:50](https://news.ycombinator.com/item?id=41317280) - [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
 * [2024-08-22, 05:05:11](https://news.ycombinator.com/item?id=41316999) - [Celebrating 6 years since Valve announced Steam Play Proton for Linux](https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/)
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing my own watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
@@ -27,7 +28,6 @@
 * [2024-08-21, 11:12:28](https://news.ycombinator.com/item?id=41309072) - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 07:47:05](https://news.ycombinator.com/item?id=41307815) - [Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
-* [2024-08-19, 16:34:21](https://news.ycombinator.com/item?id=41292477) - [Distributed Locks with Redis (2014)](https://redis.io/docs/latest/develop/use/patterns/distributed-locks/)
 * [2024-08-18, 23:42:15](https://news.ycombinator.com/item?id=41286486) - [Why isn't Colorado's snowpack ending up in the Colorado River?](https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html)
 * [2024-08-17, 15:53:02](https://news.ycombinator.com/item?id=41275395) - [Code as Art](https://www.awwsmm.com/blog/code-as-art)
 
