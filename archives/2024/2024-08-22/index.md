@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 15:48:22](https://news.ycombinator.com/item?id=41321572) - [The Story of the Successful Life and Abrupt Death of Flip Video Cameras](https://petapixel.com/2024/08/21/the-story-of-the-successful-life-and-abrupt-death-of-flip-video-cameras/)
+* [2024-08-22, 15:37:50](https://news.ycombinator.com/item?id=41321467) - [Japan's Public Didn't Buy Fumio Kishida's New Capitalism](https://foreignpolicy.com/2024/08/15/japan-fumio-kishida-departure-capitalism-liberal-democratic-party/)
 * [2024-08-22, 15:20:03](https://news.ycombinator.com/item?id=41321292) - [Xkcd Game Theory Question](https://blog.plover.com/2024/08/22#xkcd-game-theory)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 14:50:10](https://news.ycombinator.com/item?id=41320937) - [How Costco Hacked the American Shopping Psyche](https://www.nytimes.com/2024/08/20/dining/costco.html)

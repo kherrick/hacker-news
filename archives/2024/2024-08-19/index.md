@@ -43,6 +43,7 @@
 * [2024-08-19, 16:17:12](https://news.ycombinator.com/item?id=41292321) - [Maps Mania: How the World Powers Itself](https://googlemapsmania.blogspot.com/2024/08/how-world-powers-itself.html)
 * [2024-08-19, 16:02:20](https://news.ycombinator.com/item?id=41292172) - [Ask HN: Google Ads Rejected My SaaS as Compromised Site](https://news.ycombinator.com/item?id=41292172)
 * [2024-08-19, 15:54:56](https://news.ycombinator.com/item?id=41292103) - [Schedule Email API](https://resend.com/blog/introducing-the-schedule-email-api)
+* [2024-08-19, 15:48:23](https://news.ycombinator.com/item?id=41292049) - [How Deep Can Humans Go?](https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go)
 * [2024-08-19, 15:45:19](https://news.ycombinator.com/item?id=41292018) - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
 * [2024-08-19, 15:44:53](https://news.ycombinator.com/item?id=41292012) - [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)
 * [2024-08-19, 15:09:56](https://news.ycombinator.com/item?id=41291700) - [Show HN: Srcbook – A TypeScript notebook for rapid prototyping](https://github.com/srcbookdev/srcbook)
