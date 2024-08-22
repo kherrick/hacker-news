@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
+* [2024-08-22, 17:42:02](https://news.ycombinator.com/item?id=41322655) - [Faster Inverse BWT](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
+* [2024-08-22, 17:37:31](https://news.ycombinator.com/item?id=41322603) - [Data Modeling SaaS Entitlements and Pricing](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
 * [2024-08-22, 17:33:29](https://news.ycombinator.com/item?id=41322548) - [Venezuela's Supreme Court certifies Maduro's claims he won presidential election](https://www.ctvnews.ca/world/venezuela-s-supreme-court-certifies-maduro-s-claims-that-he-won-presidential-election-1.7010540)
 * [2024-08-22, 17:29:54](https://news.ycombinator.com/item?id=41322506) - [JEP Draft: Adapt Object Monitors for Virtual Threads](https://openjdk.org/jeps/8337395)
 * [2024-08-22, 17:10:35](https://news.ycombinator.com/item?id=41322297) - [Apple splits App Store team in two, introduces new leadership](https://arstechnica.com/gadgets/2024/08/apple-says-farewell-to-its-app-store-chief-as-it-splits-his-team-in-two/)
