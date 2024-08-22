@@ -12,7 +12,6 @@
 * [2024-08-21, 23:55:42](https://news.ycombinator.com/item?id=41315359) - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-21, 23:16:21](https://news.ycombinator.com/item?id=41315138) - [I'm tired of fixing customers' AI generated code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
 * [2024-08-21, 23:14:59](https://news.ycombinator.com/item?id=41315126) - [Euphemisms are best changed frequently (2016)](https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently)
-* [2024-08-21, 23:06:17](https://news.ycombinator.com/item?id=41315068) - [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
 * [2024-08-21, 21:01:27](https://news.ycombinator.com/item?id=41314161) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
 * [2024-08-21, 20:42:03](https://news.ycombinator.com/item?id=41314039) - [Do low-level optimizations matter? Faster quicksort with cmov (2020)](http://cantrip.org/sortfast.html)
 * [2024-08-21, 20:39:50](https://news.ycombinator.com/item?id=41314031) - [Euclid's Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
@@ -28,6 +27,7 @@
 * [2024-08-21, 11:12:28](https://news.ycombinator.com/item?id=41309072) - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 07:47:05](https://news.ycombinator.com/item?id=41307815) - [Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
+* [2024-08-19, 16:34:21](https://news.ycombinator.com/item?id=41292477) - [Distributed Locks with Redis (2014)](https://redis.io/docs/latest/develop/use/patterns/distributed-locks/)
 * [2024-08-18, 23:42:15](https://news.ycombinator.com/item?id=41286486) - [Why isn't Colorado's snowpack ending up in the Colorado River?](https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html)
 * [2024-08-17, 15:53:02](https://news.ycombinator.com/item?id=41275395) - [Code as Art](https://www.awwsmm.com/blog/code-as-art)
 
