@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-22, 15:20:03](https://news.ycombinator.com/item?id=41321292) - [Xkcd Game Theory Question](https://blog.plover.com/2024/08/22#xkcd-game-theory)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 11:52:42](https://news.ycombinator.com/item?id=41319224) - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 * [2024-08-22, 11:24:07](https://news.ycombinator.com/item?id=41319003) - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
@@ -9,6 +8,7 @@
 * [2024-08-22, 08:33:00](https://news.ycombinator.com/item?id=41318033) - [Hardware Virtualization](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
 * [2024-08-22, 08:29:45](https://news.ycombinator.com/item?id=41318013) - [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
+* [2024-08-22, 06:24:43](https://news.ycombinator.com/item?id=41317372) - [An Age of Hyperabundance](https://www.nplusonemag.com/issue-47/essays/an-age-of-hyperabundance/)
 * [2024-08-22, 06:03:50](https://news.ycombinator.com/item?id=41317280) - [Mourning and moving on: rituals for leaving a career (2014)](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
 * [2024-08-22, 04:20:34](https://news.ycombinator.com/item?id=41316782) - [WelsonJS: Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
 * [2024-08-22, 03:41:41](https://news.ycombinator.com/item?id=41316598) - [Designing my own watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
