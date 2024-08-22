@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
 * [2024-08-22, 13:23:05](https://news.ycombinator.com/item?id=41319983) - [Gastroenteritis Rates Higher in Seine Events Than in Previous Olympics](https://www.medpagetoday.com/special-reports/exclusives/111605)
+* [2024-08-22, 13:22:24](https://news.ycombinator.com/item?id=41319973) - [eBay just charged me a $1.02 fee on an item I sold for $0.99](https://mastodon.social/@nfriedly/113005868074504264)
 * [2024-08-22, 13:21:56](https://news.ycombinator.com/item?id=41319967) - [Australia to build the largest solar power plant](https://news.az/news/australia-to-build-the-world-s-largest-solar-power-plant)
 * [2024-08-22, 13:20:55](https://news.ycombinator.com/item?id=41319955) - [Beastie Boys dismantled their gold record plaque,it didn't contain their music](https://djmag.com/news/beastie-boys-dismantled-their-pauls-boutique-gold-record-plaque-find-it-didnt-contain-their)
 * [2024-08-22, 13:05:12](https://news.ycombinator.com/item?id=41319809) - [Show HN: 100kb – an opinionated feed of personal blogs](https://100kb.danhill.is/)
