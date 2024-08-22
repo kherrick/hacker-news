@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 07:40:04](https://news.ycombinator.com/item?id=41317732) - [Ars Technica content is now available in OpenAI services](https://arstechnica.com/information-technology/2024/08/openai-signs-ai-deal-with-conde-nast/)
 * [2024-08-22, 06:03:50](https://news.ycombinator.com/item?id=41317280) - [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
 * [2024-08-22, 05:05:11](https://news.ycombinator.com/item?id=41316999) - [Celebrating 6 years since Valve announced Steam Play Proton for Linux](https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/)
 * [2024-08-22, 04:44:43](https://news.ycombinator.com/item?id=41316890) - [Webtoon Targets 170 Pirate Domains Through DMCA Subpoena](https://torrentfreak.com/webtoon-targets-170-pirate-domains-through-dmca-subpoena-240821/)
@@ -27,7 +28,6 @@
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 07:47:05](https://news.ycombinator.com/item?id=41307815) - [Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
 * [2024-08-19, 16:34:21](https://news.ycombinator.com/item?id=41292477) - [Distributed Locks with Redis (2014)](https://redis.io/docs/latest/develop/use/patterns/distributed-locks/)
-* [2024-08-19, 16:17:12](https://news.ycombinator.com/item?id=41292321) - [Maps Mania: How the World Powers Itself](https://googlemapsmania.blogspot.com/2024/08/how-world-powers-itself.html)
 * [2024-08-18, 23:42:15](https://news.ycombinator.com/item?id=41286486) - [Why isn't Colorado's snowpack ending up in the Colorado River?](https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html)
 * [2024-08-17, 15:53:02](https://news.ycombinator.com/item?id=41275395) - [Code as Art](https://www.awwsmm.com/blog/code-as-art)
 
