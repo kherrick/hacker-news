@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-22, 14:16:14](https://news.ycombinator.com/item?id=41320554) - [Make sports betting taboo again](https://jacobin.com/2024/08/sports-betting-taxation-robinhood-draftkings/)
+* [2024-08-22, 14:00:48](https://news.ycombinator.com/item?id=41320365) - [Leaked Microsoft pay data shows how much software engineers report making](https://www.businessinsider.com/microsoft-spreadsheet-shows-pay-engineers-2024-8)
 * [2024-08-22, 12:50:56](https://news.ycombinator.com/item?id=41319700) - [The surprising cause of fasting's regenerative powers](https://www.nature.com/articles/d41586-024-02700-2)
 * [2024-08-22, 11:52:42](https://news.ycombinator.com/item?id=41319224) - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 * [2024-08-22, 11:24:07](https://news.ycombinator.com/item?id=41319003) - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
 * [2024-08-22, 14:16:14](https://news.ycombinator.com/item?id=41320554) - [Make Sports Betting Taboo Again](https://jacobin.com/2024/08/sports-betting-taxation-robinhood-draftkings/)
+* [2024-08-22, 14:00:48](https://news.ycombinator.com/item?id=41320365) - [Leaked Microsoft pay data shows how much software engineers report making](https://www.businessinsider.com/microsoft-spreadsheet-shows-pay-engineers-2024-8)
 * [2024-08-22, 13:23:05](https://news.ycombinator.com/item?id=41319983) - [Gastroenteritis Rates Higher in Seine Events Than in Previous Olympics](https://www.medpagetoday.com/special-reports/exclusives/111605)
 * [2024-08-22, 13:22:24](https://news.ycombinator.com/item?id=41319973) - [eBay just charged me a $1.02 fee on an item I sold for $0.99](https://mastodon.social/@nfriedly/113005868074504264)
 * [2024-08-22, 13:21:56](https://news.ycombinator.com/item?id=41319967) - [Australia to build the largest solar power plant](https://news.az/news/australia-to-build-the-world-s-largest-solar-power-plant)
