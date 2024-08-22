@@ -54,6 +54,7 @@
 * [2024-08-16, 17:07:38](https://news.ycombinator.com/item?id=41268245) - [FUTO](https://www.futo.org/)
 * [2024-08-16, 17:00:35](https://news.ycombinator.com/item?id=41268185) - [Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2024-08-16, 16:55:42](https://news.ycombinator.com/item?id=41268140) - [AI audiobooks – 10% more audiobooks this year than all of 2023](https://bookrank.io/blog/audiobook-statistics-august-2024)
+* [2024-08-16, 16:54:33](https://news.ycombinator.com/item?id=41268126) - [Underware, open source 3D-printed cable management](https://handsonkatie.com/underware/)
 * [2024-08-16, 16:52:09](https://news.ycombinator.com/item?id=41268104) - [Subway calls 'emergency' meeting with franchisees as sales plummet](https://nypost.com/2024/08/14/business/subway-calls-emergency-meeting-with-franchisees-as-sales-plummet-sources/)
 * [2024-08-16, 16:47:05](https://news.ycombinator.com/item?id=41268043) - [Whither CockroachDB?](https://rfd.shared.oxide.computer/rfd/0508)
 * [2024-08-16, 16:40:14](https://news.ycombinator.com/item?id=41267960) - [Can Large Language Models Understand Symbolic Graphics Programs?](https://www.arxiv.org/abs/2408.08313)
