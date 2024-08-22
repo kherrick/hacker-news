@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 15:20:03](https://news.ycombinator.com/item?id=41321292) - [Xkcd Game Theory Question](https://blog.plover.com/2024/08/22#xkcd-game-theory)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
-* [2024-08-22, 14:00:48](https://news.ycombinator.com/item?id=41320365) - [Leaked Microsoft pay data shows how much software engineers report making](https://www.businessinsider.com/microsoft-spreadsheet-shows-pay-engineers-2024-8)
 * [2024-08-22, 11:52:42](https://news.ycombinator.com/item?id=41319224) - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 * [2024-08-22, 11:24:07](https://news.ycombinator.com/item?id=41319003) - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
@@ -20,7 +20,6 @@
 * [2024-08-21, 20:42:03](https://news.ycombinator.com/item?id=41314039) - [Do low-level optimizations matter? Faster quicksort with cmov (2020)](http://cantrip.org/sortfast.html)
 * [2024-08-21, 20:39:50](https://news.ycombinator.com/item?id=41314031) - [Euclid's Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
 * [2024-08-21, 17:49:40](https://news.ycombinator.com/item?id=41312521) - [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
-* [2024-08-21, 17:11:48](https://news.ycombinator.com/item?id=41312225) - [Midjourney web experience is now open to everyone](https://www.midjourney.com/)
 * [2024-08-21, 16:55:36](https://news.ycombinator.com/item?id=41312079) - [Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model weights](https://news.ycombinator.com/item?id=41312079)
 * [2024-08-21, 15:57:36](https://news.ycombinator.com/item?id=41311479) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
 * [2024-08-21, 14:50:20](https://news.ycombinator.com/item?id=41310865) - [Mathematicians prove Hawking wrong about the most extreme black holes](https://www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/)
@@ -28,6 +27,7 @@
 * [2024-08-21, 09:59:41](https://news.ycombinator.com/item?id=41308599) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-19, 05:33:17](https://news.ycombinator.com/item?id=41288084) - [Tom Wolfe's Irresistible Snap, Crackle and Pop](https://www.nytimes.com/2024/08/15/books/review/tom-wolfe-radical-chic-black-panthers-leonard-bernstein.html)
 * [2024-08-18, 23:42:15](https://news.ycombinator.com/item?id=41286486) - [Why isn't Colorado's snowpack ending up in the Colorado River?](https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html)
+* [2024-08-18, 00:23:52](https://news.ycombinator.com/item?id=41279166) - [Trailer Faces HQ Dataset](https://www.justinpinkney.com/blog/2024/trailer-faces/)
 * [2024-08-17, 18:32:21](https://news.ycombinator.com/item?id=41276763) - [The secret lives of snowblowers](https://lcamtuf.substack.com/p/the-secret-lives-of-snowblowers)
 * [2024-08-17, 15:53:02](https://news.ycombinator.com/item?id=41275395) - [Code as Art](https://www.awwsmm.com/blog/code-as-art)
 
