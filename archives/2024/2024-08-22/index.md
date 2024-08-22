@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 16:34:30](https://news.ycombinator.com/item?id=41321981) - [Aerc: A Well-Crafted TUI for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
+* [2024-08-22, 16:21:46](https://news.ycombinator.com/item?id=41321881) - [NASA says data will guide whether astronauts return on troubled Starliner](https://www.washingtonpost.com/technology/2024/08/22/boeing-starliner-nasa-astronauts-dragon-spacex/)
 * [2024-08-22, 15:48:22](https://news.ycombinator.com/item?id=41321572) - [The Story of the Successful Life and Abrupt Death of Flip Video Cameras](https://petapixel.com/2024/08/21/the-story-of-the-successful-life-and-abrupt-death-of-flip-video-cameras/)
 * [2024-08-22, 15:37:50](https://news.ycombinator.com/item?id=41321467) - [Japan's Public Didn't Buy Fumio Kishida's New Capitalism](https://foreignpolicy.com/2024/08/15/japan-fumio-kishida-departure-capitalism-liberal-democratic-party/)
 * [2024-08-22, 15:20:03](https://news.ycombinator.com/item?id=41321292) - [Xkcd Game Theory Question](https://blog.plover.com/2024/08/22#xkcd-game-theory)
