@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-22, 08:53:33",
+      "https://news.ycombinator.com/item?id=41318127"
+    ],
+    [
+      "Starbucks' new CEO will supercommute 1k miles from California to Seattle",
+      "https://www.cnbc.com/2024/08/20/starbucks-new-ceo-brian-niccol-will-supercommute-to-seattle-instead-of-relocating.html"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 08:27:23",
       "https://news.ycombinator.com/item?id=41318000"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM",
       "https://github.com/hsfzxjy/handwriter.ttf"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 16:34:21",
-      "https://news.ycombinator.com/item?id=41292477"
-    ],
-    [
-      "Distributed Locks with Redis (2014)",
-      "https://redis.io/docs/latest/develop/use/patterns/distributed-locks/"
     ]
   ],
   [
