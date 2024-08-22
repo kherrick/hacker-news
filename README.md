@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 * [2024-08-22, 17:10:35](https://news.ycombinator.com/item?id=41322297) - [Apple splits App Store team in two, introduces new leadership](https://arstechnica.com/gadgets/2024/08/apple-says-farewell-to-its-app-store-chief-as-it-splits-his-team-in-two/)
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
@@ -28,7 +29,6 @@
 * [2024-08-19, 12:58:17](https://news.ycombinator.com/item?id=41290664) - [Meteorites give the Moon its thin atmosphere](https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/)
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
 * [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
-* [2024-08-18, 19:32:07](https://news.ycombinator.com/item?id=41284775) - [Aliasing Your Git Commands for Maximum Developer Efficiency](https://tutorialedge.net/tips/aliasing-your-git-commands/)
 * [2024-08-18, 00:23:52](https://news.ycombinator.com/item?id=41279166) - [Trailer Faces HQ Dataset](https://www.justinpinkney.com/blog/2024/trailer-faces/)
 
 ## [Archives](archives/index.md)
