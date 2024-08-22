@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41322758"
     ],
     [
-      "Python's Preprocessor – Pydong",
+      "Python's Preprocessor",
       "https://pydong.org/posts/PythonsPreprocessor/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41322655"
     ],
     [
-      "Faster Inverse BWT",
+      "Faster Inverse BWT (2021)",
       "http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Data Modeling SaaS Entitlements and Pricing",
       "https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 17:21:33",
+      "https://news.ycombinator.com/item?id=41322392"
+    ],
+    [
+      "Tornado (2021)",
+      "https://fiftytwo.in/story/tornado/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-08-21, 23:55:42",
-      "https://news.ycombinator.com/item?id=41315359"
-    ],
-    [
-      "SIMD Matters: Graph Coloring",
-      "https://box2d.org/posts/2024/08/simd-matters/"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 17:44:34",
       "https://news.ycombinator.com/item?id=41312480"
     ],
@@ -197,16 +197,6 @@
     [
       "GPU utilization can be a misleading metric",
       "https://trainy.ai/blog/gpu-utilization-misleading"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 15:16:00",
-      "https://news.ycombinator.com/item?id=41311135"
-    ],
-    [
-      "We don't know how bad most things are nor precisely how they're bad",
-      "https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2024-08-19, 14:27:46",
-      "https://news.ycombinator.com/item?id=41291345"
+      "2024-08-19, 15:48:23",
+      "https://news.ycombinator.com/item?id=41292049"
     ],
     [
-      "Caltrain's New Electric Trains",
-      "https://www.fastcompany.com/91174458/californias-new-electric-train-makes-for-a-shockingly-better-trip-we-tried-it"
+      "How Deep Can Humans Go?",
+      "https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Meteorites give the Moon its thin atmosphere",
       "https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 11:47:41",
+      "https://news.ycombinator.com/item?id=41290189"
+    ],
+    [
+      "What If Data Is a Bad Idea?",
+      "https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html"
     ]
   ],
   [
