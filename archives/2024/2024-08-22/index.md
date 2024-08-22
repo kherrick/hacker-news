@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 22:39:57](https://news.ycombinator.com/item?id=41324905) - [ARRL IT Security Incident – $1M ransom](https://www.arrl.org/news/arrl-it-security-incident-report-to-members)
 * [2024-08-22, 22:07:19](https://news.ycombinator.com/item?id=41324735) - [Show HN: Bullshit-detector – quickly detect amount of bullshit in any text](https://github.com/pilotpirxie/bullshit-detector)
 * [2024-08-22, 20:03:33](https://news.ycombinator.com/item?id=41323925) - [Problem with Rescuing Stranded Astronauts: Spacesuits Aren't Compatible](https://futurism.com/stranded-astronauts-spacex-boeing-spacesuits-incompatible)
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
