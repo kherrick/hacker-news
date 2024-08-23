@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 11:09:04](https://news.ycombinator.com/item?id=41327956) - [$9/Hour Software Engineers Cost Boeing Billions [2019]](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
 * [2024-08-23, 09:43:44](https://news.ycombinator.com/item?id=41327567) - [A Symbol for the Fediverse ⁂](https://symbol.fediverse.info/)
 * [2024-08-23, 07:59:03](https://news.ycombinator.com/item?id=41327039) - [Ex-bank CEO gets 24 years after falling for crypto scam, causing bank collapse](https://arstechnica.com/tech-policy/2024/08/ex-bank-ceo-gets-24-years-after-falling-for-crypto-scam-causing-bank-collapse/)
 * [2024-08-23, 07:44:25](https://news.ycombinator.com/item?id=41326965) - [The biggest diamond in over a century is found in Botswana](https://www.ynetnews.com/article/sk9b3zrs0)
