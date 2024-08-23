@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-23, 14:50:09",
+      "https://news.ycombinator.com/item?id=41329505"
+    ],
+    [
+      "SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99",
+      "https://github.com/dpjudas/SurrealEngine"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 14:22:32",
       "https://news.ycombinator.com/item?id=41329274"
     ],
@@ -37,6 +47,16 @@
     [
       "17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist",
       "https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 13:15:40",
+      "https://news.ycombinator.com/item?id=41328749"
+    ],
+    [
+      "Vega – A declarative language for interactive visualization designs",
+      "https://vega.github.io/vega/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-08-22, 08:54:44",
-      "https://news.ycombinator.com/item?id=41318133"
-    ],
-    [
-      "Show HN: A Ghidra extension for exporting parts of a program as object files",
-      "https://github.com/boricj/ghidra-delinker-extension"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 15:16:00",
       "https://news.ycombinator.com/item?id=41311135"
     ],
     [
       "We don't know how bad most things are nor precisely how they're bad",
       "https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 18:04:51",
-      "https://news.ycombinator.com/item?id=41293241"
-    ],
-    [
-      "Objective Bayesian Hypothesis Testing",
-      "https://www.objectivebayesian.com/p/hypothesis-testing"
     ]
   ],
   [
