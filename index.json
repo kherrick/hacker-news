@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41325719"
     ],
     [
-      "Surfer is the first personal data scraper",
+      "Surfer: Centralize all your personal data from online platforms",
       "https://github.com/CEREBRUS-MAXIMUS/Surfer-Data"
     ]
   ],
@@ -27,6 +27,26 @@
     [
       "Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments",
       "https://kardinal.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 23:50:22",
+      "https://news.ycombinator.com/item?id=41325215"
+    ],
+    [
+      "Is AI eating all the energy?",
+      "https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 23:37:26",
+      "https://news.ycombinator.com/item?id=41325170"
+    ],
+    [
+      "StructuredRAG: JSON Response Formatting with Large Language Models",
+      "https://arxiv.org/abs/2408.11061"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2024-08-22, 17:37:31",
+      "https://news.ycombinator.com/item?id=41322603"
+    ],
+    [
+      "Data Modeling SaaS Entitlements and Pricing",
+      "https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 17:08:50",
       "https://news.ycombinator.com/item?id=41322281"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-08-22, 15:33:00",
-      "https://news.ycombinator.com/item?id=41321420"
-    ],
-    [
-      "Ordinals aren't much worse than Quaternions",
-      "https://www.philipzucker.com/ordinals/"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 14:59:14",
       "https://news.ycombinator.com/item?id=41321063"
     ],
@@ -167,6 +187,16 @@
     [
       "Show HN: A Ghidra extension for exporting parts of a program as object files",
       "https://github.com/boricj/ghidra-delinker-extension"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 08:33:00",
+      "https://news.ycombinator.com/item?id=41318033"
+    ],
+    [
+      "Hardware Virtualization",
+      "https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "When Serial Isn't RS-232, Geocaching with the Garmin GPS 95",
       "https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 13:58:53",
-      "https://news.ycombinator.com/item?id=41282419"
-    ],
-    [
-      "Rare yet Impactful – Orthographic Projection in Films and Animations",
-      "https://www.cined.com/rare-yet-impactful-orthographic-projection-in-films-and-animations/"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 13:13:40",
-      "https://news.ycombinator.com/item?id=41282181"
-    ],
-    [
-      "Notris: A Tetris clone for the PlayStation 1",
-      "https://github.com/jbreckmckye/notris"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 18:37:09",
-      "https://news.ycombinator.com/item?id=41276809"
-    ],
-    [
-      "Batteryless OP-1",
-      "https://shred.zone/cilla/page/503/batteryless-op-1.html"
     ]
   ]
 ]
