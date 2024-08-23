@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-23, 19:27:32](https://news.ycombinator.com/item?id=41332246) - [Ask HN: Imagine a world with 1Tb/s internet. What would change?](https://news.ycombinator.com/item?id=41332246)
-* [2024-08-23, 19:21:09](https://news.ycombinator.com/item?id=41332192) - [Stanford Reverses Cognitive Decline in Alzheimer's with Brain Metabolism Drug](https://scitechdaily.com/stanford-reverses-cognitive-decline-in-alzheimers-with-brain-metabolism-drug/)
-* [2024-08-23, 19:00:54](https://news.ycombinator.com/item?id=41331987) - [As cars and trucks get bigger and taller, lawmakers look to protect pedestrians](https://www.npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks)
+* [2024-08-23, 19:10:39](https://news.ycombinator.com/item?id=41332093) - [CA Governor Newsom and AG Bonta Pretend Court Agreed with Them on Kids Code](https://www.techdirt.com/2024/08/23/ca-governor-newsom-and-ag-bonta-pretend-court-agreed-with-them-on-kids-code/)
 * [2024-08-23, 18:49:33](https://news.ycombinator.com/item?id=41331851) - [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 17:01:15](https://news.ycombinator.com/item?id=41330690) - [Roboflow (YC S20) is hiring an ML Engineer to democratize computer vision](https://www.ycombinator.com/companies/roboflow/jobs/Hz7YcFa-full-stack-machine-learning-engineer)
@@ -26,6 +25,7 @@
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-21, 18:27:56](https://news.ycombinator.com/item?id=41312834) - [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
 * [2024-08-21, 17:14:54](https://news.ycombinator.com/item?id=41312252) - [Science of Groove [video]](https://www.youtube.com/watch?v=d0Ch7avfPP0)
+* [2024-08-21, 15:16:00](https://news.ycombinator.com/item?id=41311135) - [We don't know how bad most things are nor precisely how they're bad](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how)
 * [2024-08-21, 08:01:01](https://news.ycombinator.com/item?id=41307918) - [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 * [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)

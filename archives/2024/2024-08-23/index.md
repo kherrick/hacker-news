@@ -6,6 +6,7 @@
 
 * [2024-08-23, 19:27:32](https://news.ycombinator.com/item?id=41332246) - [Ask HN: Imagine a world with 1Tb/s internet. What would change?](https://news.ycombinator.com/item?id=41332246)
 * [2024-08-23, 19:21:09](https://news.ycombinator.com/item?id=41332192) - [Stanford Reverses Cognitive Decline in Alzheimer's with Brain Metabolism Drug](https://scitechdaily.com/stanford-reverses-cognitive-decline-in-alzheimers-with-brain-metabolism-drug/)
+* [2024-08-23, 19:10:39](https://news.ycombinator.com/item?id=41332093) - [CA Governor Newsom and AG Bonta Pretend Court Agreed with Them on Kids Code](https://www.techdirt.com/2024/08/23/ca-governor-newsom-and-ag-bonta-pretend-court-agreed-with-them-on-kids-code/)
 * [2024-08-23, 19:00:54](https://news.ycombinator.com/item?id=41331987) - [As cars and trucks get bigger and taller, lawmakers look to protect pedestrians](https://www.npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks)
 * [2024-08-23, 18:49:33](https://news.ycombinator.com/item?id=41331851) - [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [2024-08-23, 18:00:17](https://news.ycombinator.com/item?id=41331369) - [Meta Cancels High-End Mixed Reality Headset After Apple Vision Pro Struggles](https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/)
