@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-23, 19:27:32](https://news.ycombinator.com/item?id=41332246) - [Ask HN: Imagine a world with 1Tb/s internet. What would change?](https://news.ycombinator.com/item?id=41332246)
+* [2024-08-23, 19:56:20](https://news.ycombinator.com/item?id=41332537) - [How I lost my Google Play dev account forever](https://old.reddit.com/r/gamedev/comments/1ezirdx/how_i_lost_my_google_play_dev_account_forever/)
 * [2024-08-23, 19:10:39](https://news.ycombinator.com/item?id=41332093) - [CA Governor Newsom and AG Bonta Pretend Court Agreed with Them on Kids Code](https://www.techdirt.com/2024/08/23/ca-governor-newsom-and-ag-bonta-pretend-court-agreed-with-them-on-kids-code/)
 * [2024-08-23, 18:49:33](https://news.ycombinator.com/item?id=41331851) - [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
