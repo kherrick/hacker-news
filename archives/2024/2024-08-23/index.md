@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
+* [2024-08-23, 21:29:44](https://news.ycombinator.com/item?id=41333284) - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
+* [2024-08-23, 21:04:12](https://news.ycombinator.com/item?id=41333082) - [BMW Overtakes Tesla in European EV Sales for First Time](https://electriccarsreport.com/2024/08/bmw-overtakes-tesla-in-european-ev-sales-for-first-time/)
 * [2024-08-23, 21:01:15](https://news.ycombinator.com/item?id=41333059) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-08-23, 20:38:49](https://news.ycombinator.com/item?id=41332891) - ['Megalopolis' Trailer's Fake Critic Quotes Were AI-Generated](https://variety.com/2024/film/news/megalopolis-trailer-fake-quotes-ai-lionsgate-1236116485/)
+* [2024-08-23, 20:29:42](https://news.ycombinator.com/item?id=41332811) - [Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs](https://github.com/ptrsr/pi-ci)
+* [2024-08-23, 20:18:29](https://news.ycombinator.com/item?id=41332732) - [Liger-Kernel: Efficient Triton kernels for LLM training](https://github.com/linkedin/Liger-Kernel)
 * [2024-08-23, 20:13:09](https://news.ycombinator.com/item?id=41332682) - [Molecule restores cognition and memory in Alzheimer's disease mouse study](https://newsroom.ucla.edu/releases/molecule-restores-cognition-memory-in-alzheimers-disease-model-mice)
+* [2024-08-23, 20:04:05](https://news.ycombinator.com/item?id=41332605) - [The AI Arms Race Isn't Inevitable](https://www.palladiummag.com/2024/08/23/the-ai-arms-race-isnt-inevitable/)
 * [2024-08-23, 19:56:20](https://news.ycombinator.com/item?id=41332537) - [How I lost my Google Play dev account forever](https://old.reddit.com/r/gamedev/comments/1ezirdx/how_i_lost_my_google_play_dev_account_forever/)
 * [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
