@@ -7,6 +7,7 @@
 * [2024-08-23, 12:32:15](https://news.ycombinator.com/item?id=41328447) - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 * [2024-08-23, 11:47:10](https://news.ycombinator.com/item?id=41328133) - [Companies ground Microsoft Copilot over data governance concerns](https://www.theregister.com/2024/08/21/microsoft_ai_copilots/)
 * [2024-08-23, 11:29:46](https://news.ycombinator.com/item?id=41328043) - [NGI Taler](https://nlnet.nl/taler/)
+* [2024-08-23, 11:28:56](https://news.ycombinator.com/item?id=41328038) - [Apple Adopts 6 of OWA's Browser Choice Architecture Recommendations](https://open-web-advocacy.org/blog/apple-adopts-6-owa-choice-architecture-recommendations/)
 * [2024-08-23, 11:09:04](https://news.ycombinator.com/item?id=41327956) - [$9/Hour Software Engineers Cost Boeing Billions [2019]](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
 * [2024-08-23, 10:29:46](https://news.ycombinator.com/item?id=41327783) - [Facebook Helped the FBI Exploit Vulnerability in a Secure Linux Distro](https://gizmodo.com/report-facebook-helped-the-fbi-exploit-vulnerability-i-1843988377)
 * [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
