@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
+* [2024-08-23, 05:14:35](https://news.ycombinator.com/item?id=41326357) - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
 * [2024-08-23, 04:18:35](https://news.ycombinator.com/item?id=41326138) - [Semaglutide like Ozempic burn visceral fat, don't just suppress appetite](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126)
 * [2024-08-23, 04:14:41](https://news.ycombinator.com/item?id=41326127) - [Microsoft's controversial Windows Recall feature is coming back in October](https://www.ghacks.net/2024/08/22/microsofts-controversial-windows-recall-feature-is-coming-back-in-october/)
 * [2024-08-23, 04:13:16](https://news.ycombinator.com/item?id=41326117) - [The \"Hacker Purity Test\" from 1989](http://www.armory.com/tests/hacker.html)

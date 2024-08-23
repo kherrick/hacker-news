@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
+* [2024-08-23, 05:14:35](https://news.ycombinator.com/item?id=41326357) - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
 * [2024-08-23, 04:18:35](https://news.ycombinator.com/item?id=41326138) - [Semaglutide like Ozempic burn visceral fat, don't just suppress appetite](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126)
 * [2024-08-23, 04:14:41](https://news.ycombinator.com/item?id=41326127) - [Microsoft's controversial Windows Recall feature is coming back in October](https://www.ghacks.net/2024/08/22/microsofts-controversial-windows-recall-feature-is-coming-back-in-october/)
 * [2024-08-23, 04:13:16](https://news.ycombinator.com/item?id=41326117) - [Hacker Purity Test (1989)](http://www.armory.com/tests/hacker.html)
@@ -16,9 +18,7 @@
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
-* [2024-08-22, 16:36:34](https://news.ycombinator.com/item?id=41321998) - [Making PyPy's GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
 * [2024-08-22, 16:34:30](https://news.ycombinator.com/item?id=41321981) - [Aerc: A well-crafted TUI for email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
-* [2024-08-22, 16:28:26](https://news.ycombinator.com/item?id=41321936) - [Launch HN: Arva AI (YC S24) – AI agents for instant global KYB onboarding](https://news.ycombinator.com/item?id=41321936)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:54:44](https://news.ycombinator.com/item?id=41318133) - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
