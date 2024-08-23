@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 02:16:02](https://news.ycombinator.com/item?id=41325725) - [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer is the first personal data scraper](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
 * [2024-08-23, 01:18:59](https://news.ycombinator.com/item?id=41325543) - [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
 * [2024-08-23, 01:10:11](https://news.ycombinator.com/item?id=41325514) - [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)

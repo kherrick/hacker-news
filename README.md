@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-23, 02:16:02](https://news.ycombinator.com/item?id=41325725) - [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
 * [2024-08-23, 01:18:59](https://news.ycombinator.com/item?id=41325543) - [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
 * [2024-08-23, 01:10:11](https://news.ycombinator.com/item?id=41325514) - [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)
@@ -10,7 +11,6 @@
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 * [2024-08-22, 17:42:02](https://news.ycombinator.com/item?id=41322655) - [Faster Inverse BWT (2021)](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
-* [2024-08-22, 17:37:31](https://news.ycombinator.com/item?id=41322603) - [Data Modeling SaaS Entitlements and Pricing](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-22, 17:00:47](https://news.ycombinator.com/item?id=41322207) - [Vooma (YC W23) is hiring a growth lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
 * [2024-08-22, 16:36:34](https://news.ycombinator.com/item?id=41321998) - [Making PyPy's GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
@@ -19,7 +19,6 @@
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:54:44](https://news.ycombinator.com/item?id=41318133) - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
-* [2024-08-22, 08:33:00](https://news.ycombinator.com/item?id=41318033) - [Hardware Virtualization](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
 * [2024-08-22, 08:29:45](https://news.ycombinator.com/item?id=41318013) - [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
@@ -28,6 +27,7 @@
 * [2024-08-19, 16:34:30](https://news.ycombinator.com/item?id=41292481) - [Constraining writers in distributed systems](https://shachaf.net/w/constraining-writers-in-distributed-systems)
 * [2024-08-19, 15:48:23](https://news.ycombinator.com/item?id=41292049) - [How Deep Can Humans Go?](https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go)
 * [2024-08-19, 13:46:05](https://news.ycombinator.com/item?id=41291006) - [The Katsuification of Britain](https://www.vittlesmagazine.com/p/the-katsuification-of-britain)
+* [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
 * [2024-08-19, 00:33:24](https://news.ycombinator.com/item?id=41286753) - [When Serial Isn't RS-232, Geocaching with the Garmin GPS 95](https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/)
 
