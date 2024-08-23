@@ -6,8 +6,10 @@
 
 * [2024-08-23, 07:59:03](https://news.ycombinator.com/item?id=41327039) - [Ex-bank CEO gets 24 years after falling for crypto scam, causing bank collapse](https://arstechnica.com/tech-policy/2024/08/ex-bank-ceo-gets-24-years-after-falling-for-crypto-scam-causing-bank-collapse/)
 * [2024-08-23, 07:44:25](https://news.ycombinator.com/item?id=41326965) - [The biggest diamond in over a century is found in Botswana](https://www.ynetnews.com/article/sk9b3zrs0)
+* [2024-08-23, 07:18:23](https://news.ycombinator.com/item?id=41326794) - [Is your website Secure!](https://inspect.new)
 * [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 * [2024-08-23, 05:14:35](https://news.ycombinator.com/item?id=41326357) - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
+* [2024-08-23, 05:00:13](https://news.ycombinator.com/item?id=41326300) - [About the browser choice screen in the EU](https://developer.apple.com/support/browser-choice-screen/)
 * [2024-08-23, 04:47:04](https://news.ycombinator.com/item?id=41326244) - [ShipFast alternative, Next.js SaaS Boilerplate and Starter Kit](https://play.nextjstemplates.com/)
 * [2024-08-23, 04:31:35](https://news.ycombinator.com/item?id=41326179) - [EPUBCheck – The official conformance checker for ePub publications](https://github.com/w3c/epubcheck)
 * [2024-08-23, 04:18:35](https://news.ycombinator.com/item?id=41326138) - [Semaglutide like Ozempic burn visceral fat, don't just suppress appetite](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126)
