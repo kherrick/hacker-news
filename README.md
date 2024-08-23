@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-23, 04:18:35](https://news.ycombinator.com/item?id=41326138) - [Semaglutide like Ozempic burn visceral fat, don't just suppress appetite](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126)
-* [2024-08-23, 04:13:16](https://news.ycombinator.com/item?id=41326117) - [The \"Hacker Purity Test\" from 1989](http://www.armory.com/tests/hacker.html)
+* [2024-08-23, 04:13:16](https://news.ycombinator.com/item?id=41326117) - [Hacker Purity Test (1989)](http://www.armory.com/tests/hacker.html)
 * [2024-08-23, 03:49:12](https://news.ycombinator.com/item?id=41326039) - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 * [2024-08-23, 03:05:33](https://news.ycombinator.com/item?id=41325889) - [Claude's API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
 * [2024-08-23, 02:16:02](https://news.ycombinator.com/item?id=41325725) - [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
