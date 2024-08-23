@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 22:31:45](https://news.ycombinator.com/item?id=41333648) - [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
 * [2024-08-23, 22:27:12](https://news.ycombinator.com/item?id=41333617) - [Metabolic byproduct of exercise helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
 * [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
 * [2024-08-23, 21:29:44](https://news.ycombinator.com/item?id=41333284) - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
