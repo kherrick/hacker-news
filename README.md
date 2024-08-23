@@ -4,8 +4,10 @@
 * [2024-08-23, 13:58:22](https://news.ycombinator.com/item?id=41329073) - [Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://www.webcrumbs.org/frontend-ai)
 * [2024-08-23, 13:45:20](https://news.ycombinator.com/item?id=41328964) - [The staggering death toll of scientific lies](https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time)
 * [2024-08-23, 13:20:19](https://news.ycombinator.com/item?id=41328784) - [17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/)
+* [2024-08-23, 13:06:05](https://news.ycombinator.com/item?id=41328677) - [TextBundle](http://textbundle.org/)
 * [2024-08-23, 12:32:15](https://news.ycombinator.com/item?id=41328447) - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 * [2024-08-23, 11:57:31](https://news.ycombinator.com/item?id=41328185) - [SnapDiagram – Instantly Convert Hand-Drawn Diagrams to Digital with AI](https://snapdiagram.xyz/)
+* [2024-08-23, 11:28:56](https://news.ycombinator.com/item?id=41328038) - [Apple Adopts 6 of OWA's Browser Choice Architecture Recommendations](https://open-web-advocacy.org/blog/apple-adopts-6-owa-choice-architecture-recommendations/)
 * [2024-08-23, 11:23:21](https://news.ycombinator.com/item?id=41328014) - [The Chancellor's Excellent Questions](https://montanaskeptic.substack.com/p/the-chancellors-excellent-questions)
 * [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 * [2024-08-23, 04:31:35](https://news.ycombinator.com/item?id=41326179) - [EPUBCheck – The official conformance checker for ePub publications](https://github.com/w3c/epubcheck)
@@ -13,7 +15,6 @@
 * [2024-08-23, 03:49:12](https://news.ycombinator.com/item?id=41326039) - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 * [2024-08-23, 03:05:33](https://news.ycombinator.com/item?id=41325889) - [Claude's API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
-* [2024-08-23, 01:10:11](https://news.ycombinator.com/item?id=41325514) - [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)
 * [2024-08-23, 00:09:32](https://news.ycombinator.com/item?id=41325284) - [Bit Twiddling Hacks (2009)](https://graphics.stanford.edu/~seander/bithacks.html)
 * [2024-08-22, 19:05:47](https://news.ycombinator.com/item?id=41323454) - [What's Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
@@ -29,7 +30,6 @@
 * [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
 * [2024-08-19, 01:42:32](https://news.ycombinator.com/item?id=41287085) - [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
-* [2024-08-19, 00:33:24](https://news.ycombinator.com/item?id=41286753) - [When Serial Isn't RS-232, Geocaching with the Garmin GPS 95](https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/)
 
 ## [Archives](archives/index.md)
 
