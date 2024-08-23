@@ -129,6 +129,141 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41330007">
+          <h3>
+            <a
+              class="item"
+              href="https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters"
+              >DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms
+              Renters</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-23 @ 15:51:46</span
+              ><span class="points-container"
+                >Points: <span class="points">63</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41330007"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41329750">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41329750"
+              >Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-23 @ 15:20:20</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41329750"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://moonglow.ai">https://moonglow.ai</a>). We let you
+              run local Jupyter notebooks on remote cloud GPUs. Here’s a quick
+              demo video:
+              <a href="https://www.youtube.com/watch?v=Bf-xTsDT5FQ"
+                >https://www.youtube.com/watch?v=Bf-xTsDT5FQ</a
+              >. If you want to try it out directly, there are instructions
+              below.
+              <p>
+                With Moonglow, you can start and stop pre-configured remote
+                cloud machines within VSCode, and it makes those servers appear
+                to VSCode like normal Jupyter kernels that you can connect your
+                notebook to.
+              </p>
+              <p>
+                We built this because we learned from talking to data scientists
+                and ML researchers that scaling up experiments is hard. Most
+                researchers like to start in a Jupyter notebook, but they
+                rapidly hit a wall when they need to scale up to more powerful
+                compute resources. To do so, they need to spin up a remote
+                machine and then also start a Jupyter server on it so they can
+                access it from their laptop. To avoid wasting compute resources,
+                they might end up setting this up and tearing it down multiple
+                times a day.
+              </p>
+              <p>
+                When Trevor used to do ML research at Stanford, he faced this
+                exact problem: often, he needed to move between cloud providers
+                to find GPU availability. This meant he was constantly clicking
+                through various cloud compute UIs, as well as copying both
+                notebook files and data across different providers over and over
+                again.
+              </p>
+              <p>
+                Our goal with Moonglow is to make it easy to transfer your dev
+                environment from your local machine to your cloud GPU. If you’ve
+                used Google Colab, you’ve seen how easy it is to switch from a
+                CPU to a GPU - we want to bring that experience to VSCode and
+                Cursor.
+              </p>
+              <p>
+                If you’re curious, here’s some background on how it works. You
+                can model a local Jupyter server as actually having three parts:
+                a frontend (also known as a notebook), a server and an
+                underlying backend kernel. The frontend is where you enter code
+                into your notebook, the kernel is what actually executes it, and
+                the server in the middle is responsible for spinning up and
+                restarting kernels. Moonglow is a rewrite of this middle server
+                part: where an ordinary Jupyter server would just start and stop
+                kernels, we’ve added extra orchestration that provisions a
+                machine from your cloud, starts a kernel on it, then sets up a
+                tunnel between you and that kernel.
+              </p>
+              <p>
+                In the demo video (<a
+                  href="https://www.youtube.com/watch?v=Bf-xTsDT5FQ"
+                  >https://www.youtube.com/watch?v=Bf-xTsDT5FQ</a
+                >), you can see Trevor demonstrate how he uses Moonglow to train
+                a ResNet to 94% accuracy on the CIFAR-10 classification
+                benchmark in 1m16s of wall clock time. (In fact, it only takes 5
+                seconds of H100 time; the rest of it is all setup.)
+              </p>
+              <p>
+                On privacy: we tunnel your code and notebook output through our
+                servers. We don’t store or log this data if you are bringing
+                your own compute provider. However, we do monitor it if you are
+                using compute provided by us, to make sure that what you are
+                running doesn’t break our compute vendor’s terms of service.
+              </p>
+              <p>
+                We currently aren’t charging individuals for Moonglow. When we
+                do, we plan to price individuals a reasonable amount per-seat,
+                and we have a business plan for teams with more requirements.
+              </p>
+              <p>
+                Right now, we support Runpod and AWS. We’ll add support for GCP
+                and Azure soon, too. (If you’d like to use us to connect to your
+                own AWS account, please email me at trevor@moonglow.ai.)
+              </p>
+              <p>
+                For today’s launch on HN only, you can get a free API key at
+                <a href="https://app.moonglow.ai/hn-launch"
+                  >https://app.moonglow.ai/hn-launch</a
+                >. You don’t need to sign in and you don’t need to bring your
+                own compute; we’ll let you run it on servers we provide. This
+                API key will give you enough credit to run Moonglow with an A40
+                for an hour.
+              </p>
+              <p>
+                We’re still very early, and there are a lot of features we’d
+                still like to add, but we’d love to get your feedback on this.
+                We look forward to your comments!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="41329505">
           <h3>
             <a class="item" href="https://github.com/dpjudas/SurrealEngine"
@@ -140,11 +275,11 @@
             <h4>
               <span>2024-08-23 @ 14:50:09</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41329505"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -161,11 +296,11 @@
             <h4>
               <span>2024-08-23 @ 14:22:32</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41329274"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -181,11 +316,11 @@
             <h4>
               <span>2024-08-23 @ 13:58:22</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41329073"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -202,11 +337,11 @@
             <h4>
               <span>2024-08-23 @ 13:45:20</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41328964"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -224,11 +359,11 @@
             <h4>
               <span>2024-08-23 @ 13:20:19</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41328784"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -244,11 +379,11 @@
             <h4>
               <span>2024-08-23 @ 13:15:40</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41328749"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -259,11 +394,11 @@
             <h4>
               <span>2024-08-23 @ 13:06:05</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41328677"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -278,11 +413,11 @@
             <h4>
               <span>2024-08-23 @ 12:32:15</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41328447"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -298,33 +433,11 @@
             <h4>
               <span>2024-08-23 @ 11:57:31</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41328185"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41328038">
-          <h3>
-            <a
-              class="item"
-              href="https://open-web-advocacy.org/blog/apple-adopts-6-owa-choice-architecture-recommendations/"
-              >Apple Adopts 6 of OWA's Browser Choice Architecture
-              Recommendations</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-23 @ 11:28:56</span
-              ><span class="points-container"
-                >Points: <span class="points">42</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41328038"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -341,11 +454,11 @@
             <h4>
               <span>2024-08-23 @ 11:23:21</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41328014"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -360,11 +473,11 @@
             <h4>
               <span>2024-08-23 @ 10:19:07</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41327735"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
             <div class="text">
@@ -415,11 +528,11 @@
             <h4>
               <span>2024-08-23 @ 04:31:35</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41326179"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -434,11 +547,11 @@
             <h4>
               <span>2024-08-23 @ 04:13:16</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41326117"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -455,11 +568,11 @@
             <h4>
               <span>2024-08-23 @ 03:49:12</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41326039"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -477,11 +590,11 @@
             <h4>
               <span>2024-08-23 @ 03:05:33</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41325889"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -499,7 +612,7 @@
             <h4>
               <span>2024-08-23 @ 02:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41325719"
                   >Comments</a
@@ -520,7 +633,7 @@
             <h4>
               <span>2024-08-23 @ 00:09:32</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41325284"
                   >Comments</a
@@ -541,11 +654,11 @@
             <h4>
               <span>2024-08-22 @ 19:05:47</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41323454"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -560,7 +673,7 @@
             <h4>
               <span>2024-08-22 @ 17:54:25</span
               ><span class="points-container"
-                >Points: <span class="points">348</span></span
+                >Points: <span class="points">354</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41322758"
                   >Comments</a
@@ -579,11 +692,11 @@
             <h4>
               <span>2024-08-22 @ 17:08:50</span
               ><span class="points-container"
-                >Points: <span class="points">971</span></span
+                >Points: <span class="points">980</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41322281"
                   >Comments</a
-                ><span class="descendants">: 206</span></span
+                ><span class="descendants">: 208</span></span
               >
             </h4>
             <div class="text">
@@ -727,27 +840,6 @@
             </div>
           </section>
         </section>
-        <section id="41321981">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/"
-              >Aerc: A well-crafted TUI for email</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-22 @ 16:34:30</span
-              ><span class="points-container"
-                >Points: <span class="points">273</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41321981"
-                  >Comments</a
-                ><span class="descendants">: 143</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41321063">
           <h3>
             <a
@@ -761,11 +853,11 @@
             <h4>
               <span>2024-08-22 @ 14:59:14</span
               ><span class="points-container"
-                >Points: <span class="points">341</span></span
+                >Points: <span class="points">346</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41321063"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -783,11 +875,11 @@
             <h4>
               <span>2024-08-21 @ 15:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">302</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41311135"
                   >Comments</a
-                ><span class="descendants">: 231</span></span
+                ><span class="descendants">: 236</span></span
               >
             </h4>
           </section>
@@ -802,7 +894,7 @@
             <h4>
               <span>2024-08-19 @ 17:10:13</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41292757"
                   >Comments</a
@@ -823,11 +915,11 @@
             <h4>
               <span>2024-08-19 @ 14:31:01</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41291372"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -844,11 +936,11 @@
             <h4>
               <span>2024-08-19 @ 13:46:05</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41291006"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -865,7 +957,7 @@
             <h4>
               <span>2024-08-19 @ 13:43:48</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41290994"
                   >Comments</a
@@ -886,11 +978,11 @@
             <h4>
               <span>2024-08-19 @ 11:47:41</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41290189"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -907,7 +999,7 @@
             <h4>
               <span>2024-08-19 @ 01:42:32</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41287085"
                   >Comments</a
