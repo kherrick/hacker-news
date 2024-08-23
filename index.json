@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-23, 02:13:00",
+      "https://news.ycombinator.com/item?id=41325719"
+    ],
+    [
+      "Surfer is the first personal data scraper",
+      "https://github.com/CEREBRUS-MAXIMUS/Surfer-Data"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 01:18:59",
       "https://news.ycombinator.com/item?id=41325543"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: A Ghidra extension for exporting parts of a program as object files",
       "https://github.com/boricj/ghidra-delinker-extension"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 08:33:00",
-      "https://news.ycombinator.com/item?id=41318033"
-    ],
-    [
-      "Hardware Virtualization",
-      "https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/"
     ]
   ],
   [
