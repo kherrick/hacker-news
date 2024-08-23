@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-23, 17:14:05",
+      "https://news.ycombinator.com/item?id=41330852"
+    ],
+    [
+      "Adding 16 KB Page Size to Android",
+      "https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 17:01:15",
       "https://news.ycombinator.com/item?id=41330690"
     ],
@@ -27,6 +37,16 @@
     [
       "Amazon is bricking primary feature on $160 Echo device after 1 year",
       "https://arstechnica.com/gadgets/2024/08/amazon-is-bricking-primary-feature-on-160-echo-device-after-1-year/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 16:22:12",
+      "https://news.ycombinator.com/item?id=41330319"
+    ],
+    [
+      "Sanitarium",
+      "https://www.filfre.net/2024/08/sanitarium/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue",
       "https://www.webcrumbs.org/frontend-ai"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 13:45:20",
-      "https://news.ycombinator.com/item?id=41328964"
-    ],
-    [
-      "The staggering death toll of scientific lies",
-      "https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Claude's API now supports CORS requests, enabling client-side applications",
       "https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 02:13:00",
-      "https://news.ycombinator.com/item?id=41325719"
-    ],
-    [
-      "Surfer: Centralize all your personal data from online platforms",
-      "https://github.com/CEREBRUS-MAXIMUS/Surfer-Data"
     ]
   ],
   [
