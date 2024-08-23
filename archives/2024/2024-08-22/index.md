@@ -15,6 +15,7 @@
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 19:05:47](https://news.ycombinator.com/item?id=41323454) - [What's Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
 * [2024-08-22, 18:13:40](https://news.ycombinator.com/item?id=41322955) - [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
+* [2024-08-22, 18:01:01](https://news.ycombinator.com/item?id=41322818) - [How we built Townie – an app that generates fullstack apps](https://blog.val.town/blog/codegen/)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 * [2024-08-22, 17:42:02](https://news.ycombinator.com/item?id=41322655) - [Faster Inverse BWT](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
