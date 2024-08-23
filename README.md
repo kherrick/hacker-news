@@ -2,7 +2,6 @@
 
 * [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 * [2024-08-23, 05:14:35](https://news.ycombinator.com/item?id=41326357) - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
-* [2024-08-23, 04:47:04](https://news.ycombinator.com/item?id=41326244) - [ShipFast alternative, Next.js SaaS Boilerplate and Starter Kit](https://play.nextjstemplates.com/)
 * [2024-08-23, 03:49:12](https://news.ycombinator.com/item?id=41326039) - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 * [2024-08-23, 03:05:33](https://news.ycombinator.com/item?id=41325889) - [Claude's API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
@@ -20,6 +19,7 @@
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:54:44](https://news.ycombinator.com/item?id=41318133) - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
+* [2024-08-22, 08:33:00](https://news.ycombinator.com/item?id=41318033) - [Hardware Virtualization](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
 * [2024-08-22, 08:29:45](https://news.ycombinator.com/item?id=41318013) - [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
