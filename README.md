@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-23, 04:18:35](https://news.ycombinator.com/item?id=41326138) - [Semaglutide like Ozempic burn visceral fat, don't just suppress appetite](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126)
+* [2024-08-23, 04:14:41](https://news.ycombinator.com/item?id=41326127) - [Microsoft's controversial Windows Recall feature is coming back in October](https://www.ghacks.net/2024/08/22/microsofts-controversial-windows-recall-feature-is-coming-back-in-october/)
 * [2024-08-23, 04:13:16](https://news.ycombinator.com/item?id=41326117) - [Hacker Purity Test (1989)](http://www.armory.com/tests/hacker.html)
 * [2024-08-23, 03:49:12](https://news.ycombinator.com/item?id=41326039) - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 * [2024-08-23, 03:05:33](https://news.ycombinator.com/item?id=41325889) - [Claude's API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
@@ -16,7 +17,6 @@
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-22, 17:00:47](https://news.ycombinator.com/item?id=41322207) - [Vooma (YC W23) is hiring a growth lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
-* [2024-08-22, 16:36:34](https://news.ycombinator.com/item?id=41321998) - [Making PyPy's GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
 * [2024-08-22, 16:34:30](https://news.ycombinator.com/item?id=41321981) - [Aerc: A well-crafted TUI for email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [2024-08-22, 16:28:26](https://news.ycombinator.com/item?id=41321936) - [Launch HN: Arva AI (YC S24) – AI agents for instant global KYB onboarding](https://news.ycombinator.com/item?id=41321936)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
