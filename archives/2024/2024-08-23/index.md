@@ -7,6 +7,7 @@
 * [2024-08-23, 20:13:09](https://news.ycombinator.com/item?id=41332682) - [Molecule restores cognition and memory in Alzheimer's disease mouse study](https://newsroom.ucla.edu/releases/molecule-restores-cognition-memory-in-alzheimers-disease-model-mice)
 * [2024-08-23, 19:56:20](https://news.ycombinator.com/item?id=41332537) - [How I lost my Google Play dev account forever](https://old.reddit.com/r/gamedev/comments/1ezirdx/how_i_lost_my_google_play_dev_account_forever/)
 * [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
+* [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:27:32](https://news.ycombinator.com/item?id=41332246) - [Ask HN: Imagine a world with 1Tb/s internet. What would change?](https://news.ycombinator.com/item?id=41332246)
 * [2024-08-23, 19:21:09](https://news.ycombinator.com/item?id=41332192) - [Stanford Reverses Cognitive Decline in Alzheimer's with Brain Metabolism Drug](https://scitechdaily.com/stanford-reverses-cognitive-decline-in-alzheimers-with-brain-metabolism-drug/)
 * [2024-08-23, 19:10:39](https://news.ycombinator.com/item?id=41332093) - [CA Governor Newsom and AG Bonta Pretend Court Agreed with Them on Kids Code](https://www.techdirt.com/2024/08/23/ca-governor-newsom-and-ag-bonta-pretend-court-agreed-with-them-on-kids-code/)

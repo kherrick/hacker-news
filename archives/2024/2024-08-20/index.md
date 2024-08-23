@@ -17,6 +17,7 @@
 * [2024-08-20, 19:27:52](https://news.ycombinator.com/item?id=41303159) - [MIT expericence after canceling the full Elsevier journals contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
 * [2024-08-20, 19:04:53](https://news.ycombinator.com/item?id=41302944) - [Why Are Texas Interchanges So Tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
 * [2024-08-20, 18:47:49](https://news.ycombinator.com/item?id=41302782) - [Zed AI](https://zed.dev/blog/zed-ai)
+* [2024-08-20, 18:36:34](https://news.ycombinator.com/item?id=41302695) - [SwissMicros DM32 Released [video]](https://www.youtube.com/watch?v=xyLr8z5-q5Q)
 * [2024-08-20, 18:27:45](https://news.ycombinator.com/item?id=41302597) - [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 * [2024-08-20, 18:16:21](https://news.ycombinator.com/item?id=41302493) - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
 * [2024-08-20, 18:14:49](https://news.ycombinator.com/item?id=41302475) - [Uv 0.3 – Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
