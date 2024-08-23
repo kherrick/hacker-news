@@ -57,6 +57,7 @@
 * [2024-08-19, 14:29:48](https://news.ycombinator.com/item?id=41291360) - [Demand for seed-oil-free foods is growing](https://www.foodnavigator.com/Article/2024/07/26/demand-for-seed-oil-free-foods-is-growing)
 * [2024-08-19, 14:27:46](https://news.ycombinator.com/item?id=41291345) - [Caltrain's New Electric Trains](https://www.fastcompany.com/91174458/californias-new-electric-train-makes-for-a-shockingly-better-trip-we-tried-it)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
+* [2024-08-19, 13:46:05](https://news.ycombinator.com/item?id=41291006) - [The Katsuification of Britain](https://www.vittlesmagazine.com/p/the-katsuification-of-britain)
 * [2024-08-19, 13:28:03](https://news.ycombinator.com/item?id=41290890) - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
 * [2024-08-19, 13:07:51](https://news.ycombinator.com/item?id=41290730) - [Wafris – an Open Source Web Application Firewall that lives in your stack](https://wafris.org/)
 * [2024-08-19, 12:58:17](https://news.ycombinator.com/item?id=41290664) - [Meteorites give the Moon its thin atmosphere](https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/)
