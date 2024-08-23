@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 14:22:32](https://news.ycombinator.com/item?id=41329274) - [Valve New Employee Handbook (2012) [pdf]](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
 * [2024-08-23, 12:32:15](https://news.ycombinator.com/item?id=41328447) - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 * [2024-08-23, 11:47:10](https://news.ycombinator.com/item?id=41328133) - [Companies ground Microsoft Copilot over data governance concerns](https://www.theregister.com/2024/08/21/microsoft_ai_copilots/)
 * [2024-08-23, 11:29:46](https://news.ycombinator.com/item?id=41328043) - [NGI Taler](https://nlnet.nl/taler/)
