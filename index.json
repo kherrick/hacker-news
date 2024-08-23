@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-08-23, 20:18:29",
+      "https://news.ycombinator.com/item?id=41332732"
+    ],
+    [
+      "Liger-Kernel: Efficient Triton kernels for LLM training",
+      "https://github.com/linkedin/Liger-Kernel"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 20:13:09",
       "https://news.ycombinator.com/item?id=41332682"
     ],
@@ -207,16 +217,6 @@
     [
       "Nanolog supports logging with 7 ns median latency",
       "https://github.com/PlatformLab/NanoLog"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 10:19:07",
-      "https://news.ycombinator.com/item?id=41327735"
-    ],
-    [
-      "Show HN: Ruroco – like port knocking, but better",
-      "https://github.com/beac0n/ruroco"
     ]
   ],
   [
