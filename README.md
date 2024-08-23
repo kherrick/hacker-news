@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-23, 21:01:15](https://news.ycombinator.com/item?id=41333059) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-* [2024-08-23, 20:38:49](https://news.ycombinator.com/item?id=41332891) - ['Megalopolis' Trailer's Fake Critic Quotes Were AI-Generated](https://variety.com/2024/film/news/megalopolis-trailer-fake-quotes-ai-lionsgate-1236116485/)
+* [2024-08-23, 20:38:49](https://news.ycombinator.com/item?id=41332891) - ['Megalopolis' trailer's fake critic quotes were AI-generated](https://variety.com/2024/film/news/megalopolis-trailer-fake-quotes-ai-lionsgate-1236116485/)
 * [2024-08-23, 20:13:09](https://news.ycombinator.com/item?id=41332682) - [Molecule restores cognition and memory in Alzheimer's disease mouse study](https://newsroom.ucla.edu/releases/molecule-restores-cognition-memory-in-alzheimers-disease-model-mice)
 * [2024-08-23, 19:56:20](https://news.ycombinator.com/item?id=41332537) - [How I lost my Google Play dev account forever](https://old.reddit.com/r/gamedev/comments/1ezirdx/how_i_lost_my_google_play_dev_account_forever/)
 * [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
