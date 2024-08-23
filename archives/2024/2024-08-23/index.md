@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 17:01:15](https://news.ycombinator.com/item?id=41330690) - [Roboflow (YC S20) is hiring an ML Engineer to democratize computer vision](https://www.ycombinator.com/companies/roboflow/jobs/Hz7YcFa-full-stack-machine-learning-engineer)
 * [2024-08-23, 16:38:18](https://news.ycombinator.com/item?id=41330478) - [Cautionary tale on using Chase bank for indie business](https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/)
 * [2024-08-23, 16:33:55](https://news.ycombinator.com/item?id=41330433) - [Amazon is bricking primary feature on $160 Echo device after 1 year](https://arstechnica.com/gadgets/2024/08/amazon-is-bricking-primary-feature-on-160-echo-device-after-1-year/)
+* [2024-08-23, 16:22:12](https://news.ycombinator.com/item?id=41330319) - [Sanitarium](https://www.filfre.net/2024/08/sanitarium/)
 * [2024-08-23, 16:14:54](https://news.ycombinator.com/item?id=41330258) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [2024-08-23, 16:04:37](https://news.ycombinator.com/item?id=41330153) - [AI photo editing raises trust issues in photography](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
 * [2024-08-23, 15:51:46](https://news.ycombinator.com/item?id=41330007) - [DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms Renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
