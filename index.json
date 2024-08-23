@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-08-23, 14:22:32",
+      "https://news.ycombinator.com/item?id=41329274"
+    ],
+    [
+      "Valve New Employee Handbook (2012) [pdf]",
+      "https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 12:32:15",
       "https://news.ycombinator.com/item?id=41328447"
     ],
     [
       "Nanolog supports logging with 7 ns median latency",
       "https://github.com/PlatformLab/NanoLog"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 11:47:10",
-      "https://news.ycombinator.com/item?id=41328133"
-    ],
-    [
-      "Companies ground Microsoft Copilot over data governance concerns",
-      "https://www.theregister.com/2024/08/21/microsoft_ai_copilots/"
     ]
   ],
   [
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-08-23, 04:13:16",
+      "https://news.ycombinator.com/item?id=41326117"
+    ],
+    [
+      "Hacker Purity Test (1989)",
+      "http://www.armory.com/tests/hacker.html"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 03:49:12",
       "https://news.ycombinator.com/item?id=41326039"
     ],
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2024-08-23, 00:31:45",
-      "https://news.ycombinator.com/item?id=41325388"
-    ],
-    [
-      "Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments",
-      "https://kardinal.dev/"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 00:09:32",
       "https://news.ycombinator.com/item?id=41325284"
     ],
     [
       "Bit Twiddling Hacks (2009)",
       "https://graphics.stanford.edu/~seander/bithacks.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 23:10:36",
-      "https://news.ycombinator.com/item?id=41325067"
-    ],
-    [
-      "Show HN: FOSD – Framework of Operating System Development",
-      "https://github.com/fosd-project/FOSD"
     ]
   ],
   [
@@ -221,22 +211,12 @@
   ],
   [
     [
-      "2024-08-22, 08:29:45",
-      "https://news.ycombinator.com/item?id=41318013"
+      "2024-08-21, 15:16:00",
+      "https://news.ycombinator.com/item?id=41311135"
     ],
     [
-      "Ethernet History Deepdive – Why Do We Have Different Frame Types?",
-      "https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 17:25:00",
-      "https://news.ycombinator.com/item?id=41312335"
-    ],
-    [
-      "GPU utilization can be a misleading metric",
-      "https://trainy.ai/blog/gpu-utilization-misleading"
+      "We don't know how bad most things are nor precisely how they're bad",
+      "https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2024-08-19, 13:46:05",
+      "https://news.ycombinator.com/item?id=41291006"
+    ],
+    [
+      "The Katsuification of Britain",
+      "https://www.vittlesmagazine.com/p/the-katsuification-of-britain"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 13:43:48",
       "https://news.ycombinator.com/item?id=41290994"
     ],
@@ -287,6 +277,16 @@
     [
       "What If Data Is a Bad Idea?",
       "https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 01:42:32",
+      "https://news.ycombinator.com/item?id=41287085"
+    ],
+    [
+      "Optimisation-dependent IR decisions in Clang",
+      "https://convolv.es/blog/2024/08/17/clang-ir-opt-level/"
     ]
   ],
   [
