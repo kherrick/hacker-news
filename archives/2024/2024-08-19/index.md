@@ -54,6 +54,7 @@
 * [2024-08-19, 14:58:30](https://news.ycombinator.com/item?id=41291613) - [The creatives pushing nail art to sculptural new lengths](https://www.cnn.com/2024/08/19/style/sculptural-nail-art-manicures/index.html)
 * [2024-08-19, 14:40:42](https://news.ycombinator.com/item?id=41291470) - [Optimizing global message transit latency: a journey through TCP configuration](https://ably.com/blog/optimizing-global-message-transit-latency-a-journey-through-tcp-configuration)
 * [2024-08-19, 14:35:42](https://news.ycombinator.com/item?id=41291425) - [Ollama now supports tool calling with popular models in local LLM](https://ollama.com/blog/tool-support)
+* [2024-08-19, 14:31:01](https://news.ycombinator.com/item?id=41291372) - [Evidence stacks up for poisonous books containing toxic dyes](https://phys.org/news/2024-08-evidence-stacks-poisonous-toxic-dyes.html)
 * [2024-08-19, 14:29:48](https://news.ycombinator.com/item?id=41291360) - [Demand for seed-oil-free foods is growing](https://www.foodnavigator.com/Article/2024/07/26/demand-for-seed-oil-free-foods-is-growing)
 * [2024-08-19, 14:27:46](https://news.ycombinator.com/item?id=41291345) - [Caltrain's New Electric Trains](https://www.fastcompany.com/91174458/californias-new-electric-train-makes-for-a-shockingly-better-trip-we-tried-it)
 * [2024-08-19, 14:13:36](https://news.ycombinator.com/item?id=41291219) - [Launch HN: Sorcerer (YC S24) – Weather balloons that collect more data](https://news.ycombinator.com/item?id=41291219)
