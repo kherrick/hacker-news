@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer is the first personal data scraper](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
 * [2024-08-23, 01:18:59](https://news.ycombinator.com/item?id=41325543) - [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
 * [2024-08-23, 00:31:45](https://news.ycombinator.com/item?id=41325388) - [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
 * [2024-08-22, 19:05:47](https://news.ycombinator.com/item?id=41323454) - [What's Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
@@ -17,7 +18,6 @@
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:54:44](https://news.ycombinator.com/item?id=41318133) - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
-* [2024-08-22, 08:33:00](https://news.ycombinator.com/item?id=41318033) - [Hardware Virtualization](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
 * [2024-08-22, 08:29:45](https://news.ycombinator.com/item?id=41318013) - [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
