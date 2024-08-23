@@ -7,6 +7,7 @@
 * [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:38:28](https://news.ycombinator.com/item?id=41332338) - [Wcurl Is Here](https://daniel.haxx.se/blog/2024/07/03/wcurl-is-here/)
+* [2024-08-23, 19:02:08](https://news.ycombinator.com/item?id=41332011) - [Show HN: Monogo – Evolve your go workspace to a real monorepo](https://github.com/nicolasgere/monogo)
 * [2024-08-23, 18:00:17](https://news.ycombinator.com/item?id=41331369) - [Meta cancels high-end mixed reality headset after Apple Vision Pro struggles](https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 16:38:18](https://news.ycombinator.com/item?id=41330478) - [Cautionary tale on using Chase bank for indie business](https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/)
@@ -29,7 +30,6 @@
 * [2024-08-21, 08:01:01](https://news.ycombinator.com/item?id=41307918) - [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)
 * [2024-08-20, 18:36:34](https://news.ycombinator.com/item?id=41302695) - [SwissMicros DM32 Released [video]](https://www.youtube.com/watch?v=xyLr8z5-q5Q)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
-* [2024-08-19, 18:10:31](https://news.ycombinator.com/item?id=41293299) - [The Physics of Cold Water May Have Jump-Started Complex Life](https://www.wired.com/story/the-physics-of-cold-water-may-have-jump-started-complex-life/)
 
 ## [Archives](archives/index.md)
 
