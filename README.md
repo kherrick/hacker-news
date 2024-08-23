@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-23, 22:27:12](https://news.ycombinator.com/item?id=41333617) - [Metabolic byproduct of exercise helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
+* [2024-08-23, 22:27:12](https://news.ycombinator.com/item?id=41333617) - [Metabolic byproduct of anaerobic exercise helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
 * [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
 * [2024-08-23, 21:29:44](https://news.ycombinator.com/item?id=41333284) - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
 * [2024-08-23, 21:04:12](https://news.ycombinator.com/item?id=41333082) - [BMW Overtakes Tesla in European EV Sales for First Time](https://electriccarsreport.com/2024/08/bmw-overtakes-tesla-in-european-ev-sales-for-first-time/)
@@ -12,6 +12,7 @@
 * [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:38:28](https://news.ycombinator.com/item?id=41332338) - [Wcurl Is Here](https://daniel.haxx.se/blog/2024/07/03/wcurl-is-here/)
+* [2024-08-23, 19:02:08](https://news.ycombinator.com/item?id=41332011) - [Show HN: Monogo – Evolve your go workspace to a real monorepo](https://github.com/nicolasgere/monogo)
 * [2024-08-23, 18:00:17](https://news.ycombinator.com/item?id=41331369) - [Meta cancels high-end mixed reality headset after Apple Vision Pro struggles](https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 16:38:18](https://news.ycombinator.com/item?id=41330478) - [Cautionary tale on using Chase bank for indie business](https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/)
@@ -21,7 +22,6 @@
 * [2024-08-23, 13:20:19](https://news.ycombinator.com/item?id=41328784) - [17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/)
 * [2024-08-23, 13:15:40](https://news.ycombinator.com/item?id=41328749) - [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
 * [2024-08-23, 12:32:15](https://news.ycombinator.com/item?id=41328447) - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
-* [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 * [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [We need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 * [2024-08-22, 18:01:01](https://news.ycombinator.com/item?id=41322818) - [How we built Townie – an app that generates fullstack apps](https://blog.val.town/blog/codegen/)
 * [2024-08-22, 16:38:45](https://news.ycombinator.com/item?id=41322012) - [About the IMGUI Paradigm](https://github.com/ocornut/imgui/wiki/About-the-IMGUI-paradigm)
