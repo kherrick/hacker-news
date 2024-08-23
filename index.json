@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-23, 21:44:59",
+      "https://news.ycombinator.com/item?id=41333384"
+    ],
+    [
+      "Show HN: Hacker News for film buffs",
+      "https://www.newyorkdailyinquirer.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 21:29:44",
+      "https://news.ycombinator.com/item?id=41333284"
+    ],
+    [
+      "Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?",
+      "https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 21:04:12",
+      "https://news.ycombinator.com/item?id=41333082"
+    ],
+    [
+      "BMW Overtakes Tesla in European EV Sales for First Time",
+      "https://electriccarsreport.com/2024/08/bmw-overtakes-tesla-in-european-ev-sales-for-first-time/"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 21:01:15",
       "https://news.ycombinator.com/item?id=41333059"
     ],
@@ -21,6 +51,26 @@
   ],
   [
     [
+      "2024-08-23, 20:29:42",
+      "https://news.ycombinator.com/item?id=41332811"
+    ],
+    [
+      "Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs",
+      "https://github.com/ptrsr/pi-ci"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 20:18:29",
+      "https://news.ycombinator.com/item?id=41332732"
+    ],
+    [
+      "Liger-Kernel: Efficient Triton kernels for LLM training",
+      "https://github.com/linkedin/Liger-Kernel"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 20:13:09",
       "https://news.ycombinator.com/item?id=41332682"
     ],
@@ -31,12 +81,12 @@
   ],
   [
     [
-      "2024-08-23, 19:56:20",
-      "https://news.ycombinator.com/item?id=41332537"
+      "2024-08-23, 20:04:05",
+      "https://news.ycombinator.com/item?id=41332605"
     ],
     [
-      "How I lost my Google Play dev account forever",
-      "https://old.reddit.com/r/gamedev/comments/1ezirdx/how_i_lost_my_google_play_dev_account_forever/"
+      "The AI Arms Race Isn't Inevitable",
+      "https://www.palladiummag.com/2024/08/23/the-ai-arms-race-isnt-inevitable/"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "Wcurl Is Here",
       "https://daniel.haxx.se/blog/2024/07/03/wcurl-is-here/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 19:02:08",
-      "https://news.ycombinator.com/item?id=41332011"
-    ],
-    [
-      "Show HN: Monogo – Evolve your go workspace to a real monorepo",
-      "https://github.com/nicolasgere/monogo"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2024-08-23, 13:06:05",
-      "https://news.ycombinator.com/item?id=41328677"
-    ],
-    [
-      "TextBundle",
-      "http://textbundle.org/"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 12:32:15",
       "https://news.ycombinator.com/item?id=41328447"
     ],
     [
       "Nanolog supports logging with 7 ns median latency",
       "https://github.com/PlatformLab/NanoLog"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 11:57:31",
-      "https://news.ycombinator.com/item?id=41328185"
-    ],
-    [
-      "SnapDiagram – Instantly Convert Hand-Drawn Diagrams to Digital with AI",
-      "https://snapdiagram.xyz/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "We need to liberate the Postcode Address File",
       "https://takes.jamesomalley.co.uk/p/secret-paf-report"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 05:14:35",
-      "https://news.ycombinator.com/item?id=41326357"
-    ],
-    [
-      "Confessions of a Theoretical Physicist",
-      "https://nautil.us/confessions-of-a-theoretical-physicist-787199/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 04:31:35",
-      "https://news.ycombinator.com/item?id=41326179"
-    ],
-    [
-      "EPUBCheck – The official conformance checker for ePub publications",
-      "https://github.com/w3c/epubcheck"
     ]
   ],
   [
