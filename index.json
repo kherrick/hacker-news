@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-23, 22:27:12",
+      "https://news.ycombinator.com/item?id=41333617"
+    ],
+    [
+      "Metabolic byproduct of exercise helps cancer cells resist chemotherapy",
+      "https://www.nature.com/articles/d41586-024-02731-9"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 21:44:59",
       "https://news.ycombinator.com/item?id=41333384"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-08-23, 21:01:42",
+      "https://news.ycombinator.com/item?id=41333064"
+    ],
+    [
+      "People with Disabilities Use the Web",
+      "https://www.w3.org/WAI/people-use-web/"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 21:01:15",
       "https://news.ycombinator.com/item?id=41333059"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2024-08-23, 20:38:49",
-      "https://news.ycombinator.com/item?id=41332891"
-    ],
-    [
-      "'Megalopolis' trailer's fake critic quotes were AI-generated",
-      "https://variety.com/2024/film/news/megalopolis-trailer-fake-quotes-ai-lionsgate-1236116485/"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 20:29:42",
       "https://news.ycombinator.com/item?id=41332811"
     ],
     [
       "Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs",
       "https://github.com/ptrsr/pi-ci"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 20:18:29",
-      "https://news.ycombinator.com/item?id=41332732"
-    ],
-    [
-      "Liger-Kernel: Efficient Triton kernels for LLM training",
-      "https://github.com/linkedin/Liger-Kernel"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-08-23, 16:22:12",
-      "https://news.ycombinator.com/item?id=41330319"
-    ],
-    [
-      "Sanitarium",
-      "https://www.filfre.net/2024/08/sanitarium/"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 16:14:54",
       "https://news.ycombinator.com/item?id=41330258"
     ],
@@ -241,22 +231,32 @@
   ],
   [
     [
-      "2024-08-23, 03:05:33",
-      "https://news.ycombinator.com/item?id=41325889"
-    ],
-    [
-      "Claude's API now supports CORS requests, enabling client-side applications",
-      "https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 18:01:01",
       "https://news.ycombinator.com/item?id=41322818"
     ],
     [
       "How we built Townie – an app that generates fullstack apps",
       "https://blog.val.town/blog/codegen/"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 16:38:45",
+      "https://news.ycombinator.com/item?id=41322012"
+    ],
+    [
+      "About the IMGUI Paradigm",
+      "https://github.com/ocornut/imgui/wiki/About-the-IMGUI-paradigm"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 04:24:22",
+      "https://news.ycombinator.com/item?id=41316807"
+    ],
+    [
+      "I sped up serde_json strings by 20%",
+      "https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/"
     ]
   ],
   [
