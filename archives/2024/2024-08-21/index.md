@@ -34,6 +34,7 @@
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
 * [2024-08-21, 17:22:52](https://news.ycombinator.com/item?id=41312317) - [Hurricane season has flatlined. When will it roar back to life?](https://www.washingtonpost.com/weather/2024/08/21/hurricane-season-atlantic-tropical-storms/)
 * [2024-08-21, 17:15:29](https://news.ycombinator.com/item?id=41312259) - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
+* [2024-08-21, 17:14:54](https://news.ycombinator.com/item?id=41312252) - [Science of Groove [video]](https://www.youtube.com/watch?v=d0Ch7avfPP0)
 * [2024-08-21, 17:11:48](https://news.ycombinator.com/item?id=41312225) - [Midjourney web experience is now open to everyone](https://www.midjourney.com/)
 * [2024-08-21, 17:01:26](https://news.ycombinator.com/item?id=41312134) - [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 * [2024-08-21, 16:55:55](https://news.ycombinator.com/item?id=41312084) - [Code Review Antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
