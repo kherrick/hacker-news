@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-23, 19:00:54](https://news.ycombinator.com/item?id=41331987) - [As cars and trucks get bigger and taller, lawmakers look to protect pedestrians](https://www.npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks)
 * [2024-08-23, 18:49:33](https://news.ycombinator.com/item?id=41331851) - [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 17:01:15](https://news.ycombinator.com/item?id=41330690) - [Roboflow (YC S20) is hiring an ML Engineer to democratize computer vision](https://www.ycombinator.com/companies/roboflow/jobs/Hz7YcFa-full-stack-machine-learning-engineer)
@@ -22,7 +23,6 @@
 * [2024-08-23, 04:31:35](https://news.ycombinator.com/item?id=41326179) - [EPUBCheck – The official conformance checker for ePub publications](https://github.com/w3c/epubcheck)
 * [2024-08-23, 03:05:33](https://news.ycombinator.com/item?id=41325889) - [Claude's API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
-* [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-21, 18:27:56](https://news.ycombinator.com/item?id=41312834) - [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
 * [2024-08-21, 17:14:54](https://news.ycombinator.com/item?id=41312252) - [Science of Groove [video]](https://www.youtube.com/watch?v=d0Ch7avfPP0)
