@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-23, 16:04:37",
+      "https://news.ycombinator.com/item?id=41330153"
+    ],
+    [
+      "AI photo editing raises trust issues in photography",
+      "https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 15:51:46",
       "https://news.ycombinator.com/item?id=41330007"
     ],
     [
       "DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms Renters",
       "https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 15:45:32",
+      "https://news.ycombinator.com/item?id=41329954"
+    ],
+    [
+      "Pierre Cartier Has Died",
+      "https://www.lemonde.fr/disparitions/article/2024/08/19/pierre-cartier-mathematicien-francais-est-mort_6286756_3382.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-08-23, 10:19:07",
-      "https://news.ycombinator.com/item?id=41327735"
-    ],
-    [
-      "Show HN: Ruroco – like port knocking, but better",
-      "https://github.com/beac0n/ruroco"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 04:31:35",
       "https://news.ycombinator.com/item?id=41326179"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-08-23, 03:49:12",
-      "https://news.ycombinator.com/item?id=41326039"
-    ],
-    [
-      "Leveraging AI for efficient incident response",
-      "https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 03:05:33",
       "https://news.ycombinator.com/item?id=41325889"
     ],
@@ -177,16 +177,6 @@
     [
       "Surfer: Centralize all your personal data from online platforms",
       "https://github.com/CEREBRUS-MAXIMUS/Surfer-Data"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 00:09:32",
-      "https://news.ycombinator.com/item?id=41325284"
-    ],
-    [
-      "Bit Twiddling Hacks (2009)",
-      "https://graphics.stanford.edu/~seander/bithacks.html"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "We don't know how bad most things are nor precisely how they're bad",
       "https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 21:18:19",
+      "https://news.ycombinator.com/item?id=41294663"
+    ],
+    [
+      "Playing Sudoku in TypeScript while the type checker highlights mistakes",
+      "https://github.com/gruhn/typescript-sudoku"
     ]
   ],
   [
