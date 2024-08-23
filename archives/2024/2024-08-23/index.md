@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 16:38:18](https://news.ycombinator.com/item?id=41330478) - [Cautionary tale on using Chase bank for indie business](https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/)
+* [2024-08-23, 16:14:54](https://news.ycombinator.com/item?id=41330258) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [2024-08-23, 16:04:37](https://news.ycombinator.com/item?id=41330153) - [AI photo editing raises trust issues in photography](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
 * [2024-08-23, 15:51:46](https://news.ycombinator.com/item?id=41330007) - [DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms Renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
 * [2024-08-23, 15:45:32](https://news.ycombinator.com/item?id=41329954) - [Pierre Cartier Has Died](https://www.lemonde.fr/disparitions/article/2024/08/19/pierre-cartier-mathematicien-francais-est-mort_6286756_3382.html)
