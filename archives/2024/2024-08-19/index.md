@@ -32,6 +32,7 @@
 * [2024-08-19, 19:06:59](https://news.ycombinator.com/item?id=41293767) - [The guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
 * [2024-08-19, 18:32:39](https://news.ycombinator.com/item?id=41293505) - [Everyone's Life Is Weird](https://www.avabear.xyz/p/actually-everyones-life-is-weird)
 * [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
+* [2024-08-19, 18:04:51](https://news.ycombinator.com/item?id=41293241) - [Objective Bayesian Hypothesis Testing](https://www.objectivebayesian.com/p/hypothesis-testing)
 * [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
 * [2024-08-19, 17:33:35](https://news.ycombinator.com/item?id=41292945) - [Patrick McKenzie (patio11) podcast on technology, finance, and systems thinking](https://www.complexsystemspodcast.com/)
 * [2024-08-19, 17:20:41](https://news.ycombinator.com/item?id=41292835) - [Modern Unix Tool List](https://notes.billmill.org/computer_usage/cli_tips_and_tools/modern_unix_tool_list.html)
