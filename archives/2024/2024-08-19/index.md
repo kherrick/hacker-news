@@ -33,6 +33,7 @@
 * [2024-08-19, 19:06:59](https://news.ycombinator.com/item?id=41293767) - [The guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
 * [2024-08-19, 18:32:39](https://news.ycombinator.com/item?id=41293505) - [Everyone's Life Is Weird](https://www.avabear.xyz/p/actually-everyones-life-is-weird)
 * [2024-08-19, 18:19:51](https://news.ycombinator.com/item?id=41293381) - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
+* [2024-08-19, 18:10:31](https://news.ycombinator.com/item?id=41293299) - [The Physics of Cold Water May Have Jump-Started Complex Life](https://www.wired.com/story/the-physics-of-cold-water-may-have-jump-started-complex-life/)
 * [2024-08-19, 18:04:51](https://news.ycombinator.com/item?id=41293241) - [Objective Bayesian Hypothesis Testing](https://www.objectivebayesian.com/p/hypothesis-testing)
 * [2024-08-19, 18:03:21](https://news.ycombinator.com/item?id=41293219) - [On finishing projects](https://www.alexreichert.com/blog/finishing)
 * [2024-08-19, 17:33:35](https://news.ycombinator.com/item?id=41292945) - [Patrick McKenzie (patio11) podcast on technology, finance, and systems thinking](https://www.complexsystemspodcast.com/)
