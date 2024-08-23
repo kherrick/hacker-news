@@ -2,6 +2,7 @@
 
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
 * [2024-08-23, 01:18:59](https://news.ycombinator.com/item?id=41325543) - [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
+* [2024-08-23, 01:10:11](https://news.ycombinator.com/item?id=41325514) - [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)
 * [2024-08-23, 00:31:45](https://news.ycombinator.com/item?id=41325388) - [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
 * [2024-08-22, 23:50:22](https://news.ycombinator.com/item?id=41325215) - [Is AI eating all the energy?](https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/)
 * [2024-08-22, 23:37:26](https://news.ycombinator.com/item?id=41325170) - [StructuredRAG: JSON Response Formatting with Large Language Models](https://arxiv.org/abs/2408.11061)
@@ -29,7 +30,6 @@
 * [2024-08-19, 13:46:05](https://news.ycombinator.com/item?id=41291006) - [The Katsuification of Britain](https://www.vittlesmagazine.com/p/the-katsuification-of-britain)
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
 * [2024-08-19, 00:33:24](https://news.ycombinator.com/item?id=41286753) - [When Serial Isn't RS-232, Geocaching with the Garmin GPS 95](https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/)
-* [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
 
 ## [Archives](archives/index.md)
 
