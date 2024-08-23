@@ -13,7 +13,6 @@
 * [2024-08-23, 00:31:45](https://news.ycombinator.com/item?id=41325388) - [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
 * [2024-08-23, 00:09:32](https://news.ycombinator.com/item?id=41325284) - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 * [2024-08-22, 23:37:26](https://news.ycombinator.com/item?id=41325170) - [StructuredRAG: JSON Response Formatting with Large Language Models](https://arxiv.org/abs/2408.11061)
-* [2024-08-22, 23:10:36](https://news.ycombinator.com/item?id=41325067) - [Show HN: FOSD – Framework of Operating System Development](https://github.com/fosd-project/FOSD)
 * [2024-08-22, 19:05:47](https://news.ycombinator.com/item?id=41323454) - [What's Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
@@ -29,6 +28,7 @@
 * [2024-08-19, 13:46:05](https://news.ycombinator.com/item?id=41291006) - [The Katsuification of Britain](https://www.vittlesmagazine.com/p/the-katsuification-of-britain)
 * [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
+* [2024-08-19, 05:29:51](https://news.ycombinator.com/item?id=41288075) - ['The Avant-Gardists' Review: Russia's Visual Revolutionaries](https://www.wsj.com/arts-culture/books/the-avant-gardists-review-russias-visual-revolutionaries-ba47e79d)
 * [2024-08-19, 00:33:24](https://news.ycombinator.com/item?id=41286753) - [When Serial Isn't RS-232, Geocaching with the Garmin GPS 95](https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/)
 
 ## [Archives](archives/index.md)

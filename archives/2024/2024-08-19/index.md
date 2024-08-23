@@ -80,6 +80,7 @@
 * [2024-08-19, 07:00:28](https://news.ycombinator.com/item?id=41288507) - [Odigos (YC W23) Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
 * [2024-08-19, 06:13:13](https://news.ycombinator.com/item?id=41288269) - [Introduction to Information Theory – Edward Witten [video]](https://www.youtube.com/watch?v=XYugyhoohhY)
 * [2024-08-19, 05:33:17](https://news.ycombinator.com/item?id=41288084) - [Tom Wolfe's Irresistible Snap, Crackle and Pop](https://www.nytimes.com/2024/08/15/books/review/tom-wolfe-radical-chic-black-panthers-leonard-bernstein.html)
+* [2024-08-19, 05:29:51](https://news.ycombinator.com/item?id=41288075) - ['The Avant-Gardists' Review: Russia's Visual Revolutionaries](https://www.wsj.com/arts-culture/books/the-avant-gardists-review-russias-visual-revolutionaries-ba47e79d)
 * [2024-08-19, 05:23:51](https://news.ycombinator.com/item?id=41288051) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 05:02:56](https://news.ycombinator.com/item?id=41287955) - [The broligarchs are trying to have their way](https://www.theatlantic.com/ideas/archive/2024/08/tech-bro-male-billionaire-anti-democratic/679267/)
 * [2024-08-19, 03:48:49](https://news.ycombinator.com/item?id=41287641) - [The Origins of the Bloody Mary (2014)](https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/)
