@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2024-08-23, 20:52:57",
-      "https://news.ycombinator.com/item?id=41333011"
+      "2024-08-23, 20:58:04",
+      "https://news.ycombinator.com/item?id=41333038"
     ],
     [
-      "The Dawn of Decentralized Social Media",
-      "https://arxiv.org/abs/2408.03146"
+      "Elon Musk was just forced to reveal who owns X. Here's the list",
+      "https://fortune.com/2024/08/22/elon-musk-x-twitter-owner-list/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "We have reached OpenBSD of Theseus",
       "https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 19:38:28",
-      "https://news.ycombinator.com/item?id=41332338"
-    ],
-    [
-      "Wcurl Is Here",
-      "https://daniel.haxx.se/blog/2024/07/03/wcurl-is-here/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Nanolog supports logging with 7 ns median latency",
       "https://github.com/PlatformLab/NanoLog"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 10:19:07",
+      "https://news.ycombinator.com/item?id=41327735"
+    ],
+    [
+      "Show HN: Ruroco – like port knocking, but better",
+      "https://github.com/beac0n/ruroco"
     ]
   ],
   [
