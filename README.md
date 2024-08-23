@@ -6,7 +6,6 @@
 * [2024-08-22, 23:50:22](https://news.ycombinator.com/item?id=41325215) - [Is AI eating all the energy?](https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/)
 * [2024-08-22, 23:37:26](https://news.ycombinator.com/item?id=41325170) - [StructuredRAG: JSON Response Formatting with Large Language Models](https://arxiv.org/abs/2408.11061)
 * [2024-08-22, 19:05:47](https://news.ycombinator.com/item?id=41323454) - [What's Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
-* [2024-08-22, 18:13:40](https://news.ycombinator.com/item?id=41322955) - [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 * [2024-08-22, 17:42:02](https://news.ycombinator.com/item?id=41322655) - [Faster Inverse BWT (2021)](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
@@ -30,6 +29,7 @@
 * [2024-08-19, 13:46:05](https://news.ycombinator.com/item?id=41291006) - [The Katsuification of Britain](https://www.vittlesmagazine.com/p/the-katsuification-of-britain)
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
 * [2024-08-19, 00:33:24](https://news.ycombinator.com/item?id=41286753) - [When Serial Isn't RS-232, Geocaching with the Garmin GPS 95](https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/)
+* [2024-08-18, 20:35:06](https://news.ycombinator.com/item?id=41285275) - ['Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI](https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi)
 
 ## [Archives](archives/index.md)
 
