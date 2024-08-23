@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-23, 19:27:32](https://news.ycombinator.com/item?id=41332246) - [Ask HN: Imagine a world with 1Tb/s internet. What would change?](https://news.ycombinator.com/item?id=41332246)
+* [2024-08-23, 19:21:09](https://news.ycombinator.com/item?id=41332192) - [Stanford Reverses Cognitive Decline in Alzheimer's with Brain Metabolism Drug](https://scitechdaily.com/stanford-reverses-cognitive-decline-in-alzheimers-with-brain-metabolism-drug/)
 * [2024-08-23, 19:00:54](https://news.ycombinator.com/item?id=41331987) - [As cars and trucks get bigger and taller, lawmakers look to protect pedestrians](https://www.npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks)
 * [2024-08-23, 18:49:33](https://news.ycombinator.com/item?id=41331851) - [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
@@ -15,7 +17,6 @@
 * [2024-08-23, 13:06:05](https://news.ycombinator.com/item?id=41328677) - [TextBundle](http://textbundle.org/)
 * [2024-08-23, 12:32:15](https://news.ycombinator.com/item?id=41328447) - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 * [2024-08-23, 11:57:31](https://news.ycombinator.com/item?id=41328185) - [SnapDiagram – Instantly Convert Hand-Drawn Diagrams to Digital with AI](https://snapdiagram.xyz/)
-* [2024-08-23, 11:23:21](https://news.ycombinator.com/item?id=41328014) - [The Chancellor's Excellent Questions](https://montanaskeptic.substack.com/p/the-chancellors-excellent-questions)
 * [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 * [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [We need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 * [2024-08-23, 05:14:35](https://news.ycombinator.com/item?id=41326357) - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
@@ -27,7 +28,6 @@
 * [2024-08-21, 17:14:54](https://news.ycombinator.com/item?id=41312252) - [Science of Groove [video]](https://www.youtube.com/watch?v=d0Ch7avfPP0)
 * [2024-08-21, 15:16:00](https://news.ycombinator.com/item?id=41311135) - [We don't know how bad most things are nor precisely how they're bad](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
-* [2024-08-19, 14:31:01](https://news.ycombinator.com/item?id=41291372) - [Evidence stacks up for poisonous books containing toxic dyes](https://phys.org/news/2024-08-evidence-stacks-poisonous-toxic-dyes.html)
 * [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
 * [2024-08-19, 01:42:32](https://news.ycombinator.com/item?id=41287085) - [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
 
