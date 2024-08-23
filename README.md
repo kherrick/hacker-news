@@ -26,7 +26,7 @@
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-21, 18:27:56](https://news.ycombinator.com/item?id=41312834) - [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
 * [2024-08-21, 17:14:54](https://news.ycombinator.com/item?id=41312252) - [Science of Groove [video]](https://www.youtube.com/watch?v=d0Ch7avfPP0)
-* [2024-08-21, 15:16:00](https://news.ycombinator.com/item?id=41311135) - [We don't know how bad most things are nor precisely how they're bad](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how)
+* [2024-08-21, 08:01:01](https://news.ycombinator.com/item?id=41307918) - [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 * [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
 * [2024-08-19, 01:42:32](https://news.ycombinator.com/item?id=41287085) - [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
