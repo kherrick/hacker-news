@@ -11,6 +11,7 @@
 * [2024-08-23, 21:04:12](https://news.ycombinator.com/item?id=41333082) - [BMW Overtakes Tesla in European EV Sales for First Time](https://electriccarsreport.com/2024/08/bmw-overtakes-tesla-in-european-ev-sales-for-first-time/)
 * [2024-08-23, 21:01:42](https://news.ycombinator.com/item?id=41333064) - [People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
 * [2024-08-23, 21:01:15](https://news.ycombinator.com/item?id=41333059) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-08-23, 20:58:04](https://news.ycombinator.com/item?id=41333038) - [Elon Musk was just forced to reveal who owns X. Here's the list](https://fortune.com/2024/08/22/elon-musk-x-twitter-owner-list/)
 * [2024-08-23, 20:52:57](https://news.ycombinator.com/item?id=41333011) - [The Dawn of Decentralized Social Media](https://arxiv.org/abs/2408.03146)
 * [2024-08-23, 20:38:49](https://news.ycombinator.com/item?id=41332891) - ['Megalopolis' Trailer's Fake Critic Quotes Were AI-Generated](https://variety.com/2024/film/news/megalopolis-trailer-fake-quotes-ai-lionsgate-1236116485/)
 * [2024-08-23, 20:29:42](https://news.ycombinator.com/item?id=41332811) - [Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs](https://github.com/ptrsr/pi-ci)
