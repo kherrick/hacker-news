@@ -26,6 +26,7 @@
 * [2024-08-21, 18:42:20](https://news.ycombinator.com/item?id=41312975) - [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
 * [2024-08-21, 18:32:54](https://news.ycombinator.com/item?id=41312883) - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
 * [2024-08-21, 18:29:08](https://news.ycombinator.com/item?id=41312845) - [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
+* [2024-08-21, 18:27:56](https://news.ycombinator.com/item?id=41312834) - [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
 * [2024-08-21, 17:49:40](https://news.ycombinator.com/item?id=41312521) - [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
 * [2024-08-21, 17:49:34](https://news.ycombinator.com/item?id=41312520) - [Duck Typing (Horror) in Go](https://www.ccampo.me/go/2024/08/20/go-duck-typing.html)
 * [2024-08-21, 17:44:34](https://news.ycombinator.com/item?id=41312480) - [Show HN: VirtualStorageLibrary – .NET Tree solutions for items, dirs, symlinks](https://shimodateakira.github.io/VirtualStorageLibrary/)
