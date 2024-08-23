@@ -11,6 +11,7 @@
 * [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:38:28](https://news.ycombinator.com/item?id=41332338) - [Wcurl Is Here](https://daniel.haxx.se/blog/2024/07/03/wcurl-is-here/)
+* [2024-08-23, 19:31:02](https://news.ycombinator.com/item?id=41332273) - [Kansas judge dismisses machine gun case after SCOTUS gun rights ruling](https://www.cjonline.com/story/news/politics/courts/2024/08/22/kansas-judge-dismisses-machine-gun-case-after-scotus-gun-rights-ruling/74903536007/)
 * [2024-08-23, 19:27:32](https://news.ycombinator.com/item?id=41332246) - [Ask HN: Imagine a world with 1Tb/s internet. What would change?](https://news.ycombinator.com/item?id=41332246)
 * [2024-08-23, 19:21:09](https://news.ycombinator.com/item?id=41332192) - [Stanford Reverses Cognitive Decline in Alzheimer's with Brain Metabolism Drug](https://scitechdaily.com/stanford-reverses-cognitive-decline-in-alzheimers-with-brain-metabolism-drug/)
 * [2024-08-23, 19:10:39](https://news.ycombinator.com/item?id=41332093) - [CA Governor Newsom and AG Bonta Pretend Court Agreed with Them on Kids Code](https://www.techdirt.com/2024/08/23/ca-governor-newsom-and-ag-bonta-pretend-court-agreed-with-them-on-kids-code/)

@@ -7,7 +7,8 @@
 * [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:38:28](https://news.ycombinator.com/item?id=41332338) - [Wcurl Is Here](https://daniel.haxx.se/blog/2024/07/03/wcurl-is-here/)
-* [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
+* [2024-08-23, 19:31:02](https://news.ycombinator.com/item?id=41332273) - [Kansas judge dismisses machine gun case after SCOTUS gun rights ruling](https://www.cjonline.com/story/news/politics/courts/2024/08/22/kansas-judge-dismisses-machine-gun-case-after-scotus-gun-rights-ruling/74903536007/)
+* [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 16:38:18](https://news.ycombinator.com/item?id=41330478) - [Cautionary tale on using Chase bank for indie business](https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/)
 * [2024-08-23, 16:22:12](https://news.ycombinator.com/item?id=41330319) - [Sanitarium](https://www.filfre.net/2024/08/sanitarium/)
 * [2024-08-23, 16:14:54](https://news.ycombinator.com/item?id=41330258) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
@@ -28,7 +29,6 @@
 * [2024-08-21, 08:01:01](https://news.ycombinator.com/item?id=41307918) - [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)
 * [2024-08-20, 18:36:34](https://news.ycombinator.com/item?id=41302695) - [SwissMicros DM32 Released [video]](https://www.youtube.com/watch?v=xyLr8z5-q5Q)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
-* [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
 * [2024-08-19, 01:42:32](https://news.ycombinator.com/item?id=41287085) - [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
 
 ## [Archives](archives/index.md)
