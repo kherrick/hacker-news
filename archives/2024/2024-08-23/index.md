@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 03:49:12](https://news.ycombinator.com/item?id=41326039) - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 * [2024-08-23, 02:16:02](https://news.ycombinator.com/item?id=41325725) - [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer is the first personal data scraper](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
 * [2024-08-23, 01:18:59](https://news.ycombinator.com/item?id=41325543) - [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)

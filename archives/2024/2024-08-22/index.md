@@ -8,6 +8,7 @@
 * [2024-08-22, 23:45:32](https://news.ycombinator.com/item?id=41325199) - [Starlink Now Being Deployed on U.S. Navy Warships](https://www.twz.com/sea/starlink-now-being-deployed-on-u-s-navy-warships)
 * [2024-08-22, 23:41:06](https://news.ycombinator.com/item?id=41325184) - [Apple to update EU browser options, make more apps deletable](https://www.reuters.com/technology/apple-update-eu-browser-options-make-more-apps-deletable-2024-08-22/)
 * [2024-08-22, 23:37:26](https://news.ycombinator.com/item?id=41325170) - [StructuredRAG: JSON Response Formatting with Large Language Models](https://arxiv.org/abs/2408.11061)
+* [2024-08-22, 23:10:36](https://news.ycombinator.com/item?id=41325067) - [Show HN: FOSD – Framework of Operating System Development](https://github.com/fosd-project/FOSD)
 * [2024-08-22, 22:39:57](https://news.ycombinator.com/item?id=41324905) - [ARRL IT Security Incident – $1M ransom](https://www.arrl.org/news/arrl-it-security-incident-report-to-members)
 * [2024-08-22, 22:07:19](https://news.ycombinator.com/item?id=41324735) - [Show HN: Bullshit-detector – quickly detect amount of bullshit in any text](https://github.com/pilotpirxie/bullshit-detector)
 * [2024-08-22, 20:03:33](https://news.ycombinator.com/item?id=41323925) - [Problem with Rescuing Stranded Astronauts: Spacesuits Aren't Compatible](https://futurism.com/stranded-astronauts-spacex-boeing-spacesuits-incompatible)
