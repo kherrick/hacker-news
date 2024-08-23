@@ -2,7 +2,6 @@
 
 * [2024-08-23, 12:32:15](https://news.ycombinator.com/item?id=41328447) - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 * [2024-08-23, 11:47:10](https://news.ycombinator.com/item?id=41328133) - [Companies ground Microsoft Copilot over data governance concerns](https://www.theregister.com/2024/08/21/microsoft_ai_copilots/)
-* [2024-08-23, 11:29:46](https://news.ycombinator.com/item?id=41328043) - [NGI Taler](https://nlnet.nl/taler/)
 * [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 * [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 * [2024-08-23, 05:14:35](https://news.ycombinator.com/item?id=41326357) - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
@@ -10,6 +9,7 @@
 * [2024-08-23, 03:49:12](https://news.ycombinator.com/item?id=41326039) - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 * [2024-08-23, 03:05:33](https://news.ycombinator.com/item?id=41325889) - [Claude's API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
+* [2024-08-23, 01:10:11](https://news.ycombinator.com/item?id=41325514) - [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)
 * [2024-08-23, 00:31:45](https://news.ycombinator.com/item?id=41325388) - [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
 * [2024-08-23, 00:09:32](https://news.ycombinator.com/item?id=41325284) - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 * [2024-08-22, 23:10:36](https://news.ycombinator.com/item?id=41325067) - [Show HN: FOSD – Framework of Operating System Development](https://github.com/fosd-project/FOSD)
