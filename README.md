@@ -11,7 +11,7 @@
 * [2024-08-23, 02:13:00](https://news.ycombinator.com/item?id=41325719) - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
 * [2024-08-23, 01:10:11](https://news.ycombinator.com/item?id=41325514) - [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)
 * [2024-08-23, 00:31:45](https://news.ycombinator.com/item?id=41325388) - [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
-* [2024-08-23, 00:09:32](https://news.ycombinator.com/item?id=41325284) - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+* [2024-08-23, 00:09:32](https://news.ycombinator.com/item?id=41325284) - [Bit Twiddling Hacks (2009)](https://graphics.stanford.edu/~seander/bithacks.html)
 * [2024-08-22, 23:10:36](https://news.ycombinator.com/item?id=41325067) - [Show HN: FOSD – Framework of Operating System Development](https://github.com/fosd-project/FOSD)
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 19:05:47](https://news.ycombinator.com/item?id=41323454) - [What's Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
