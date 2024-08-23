@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-23, 11:09:04](https://news.ycombinator.com/item?id=41327956) - [$9/Hour Software Engineers Cost Boeing Billions [2019]](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
 * [2024-08-23, 09:43:44](https://news.ycombinator.com/item?id=41327567) - [A Symbol for the Fediverse ⁂](https://symbol.fediverse.info/)
 * [2024-08-23, 07:59:03](https://news.ycombinator.com/item?id=41327039) - [Ex-bank CEO gets 24 years after falling for crypto scam, causing bank collapse](https://arstechnica.com/tech-policy/2024/08/ex-bank-ceo-gets-24-years-after-falling-for-crypto-scam-causing-bank-collapse/)
 * [2024-08-23, 07:18:23](https://news.ycombinator.com/item?id=41326794) - [Is your website Secure!](https://inspect.new)
@@ -25,6 +24,7 @@
 * [2024-08-21, 17:25:00](https://news.ycombinator.com/item?id=41312335) - [GPU utilization can be a misleading metric](https://trainy.ai/blog/gpu-utilization-misleading)
 * [2024-08-19, 18:04:51](https://news.ycombinator.com/item?id=41293241) - [Objective Bayesian Hypothesis Testing](https://www.objectivebayesian.com/p/hypothesis-testing)
 * [2024-08-19, 17:10:13](https://news.ycombinator.com/item?id=41292757) - [DRAKON](https://en.wikipedia.org/wiki/DRAKON)
+* [2024-08-19, 15:48:23](https://news.ycombinator.com/item?id=41292049) - [How Deep Can Humans Go?](https://www.mcgill.ca/oss/article/student-contributors-did-you-know/how-deep-can-humans-really-go)
 * [2024-08-19, 14:31:01](https://news.ycombinator.com/item?id=41291372) - [Evidence stacks up for poisonous books containing toxic dyes](https://phys.org/news/2024-08-evidence-stacks-poisonous-toxic-dyes.html)
 * [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
 * [2024-08-19, 13:16:03](https://news.ycombinator.com/item?id=41290792) - [AMD's Zen 5 is a missed opportunity in messaging](https://semiaccurate.com/2024/07/24/amds-zen-5-is-a-missed-opportunity-in-messaging/)
