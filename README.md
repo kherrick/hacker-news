@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-23, 12:32:15](https://news.ycombinator.com/item?id=41328447) - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 * [2024-08-23, 11:47:10](https://news.ycombinator.com/item?id=41328133) - [Companies ground Microsoft Copilot over data governance concerns](https://www.theregister.com/2024/08/21/microsoft_ai_copilots/)
-* [2024-08-23, 11:09:04](https://news.ycombinator.com/item?id=41327956) - [Outsourcing Cost Boeing Billions (2019)](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
-* [2024-08-23, 10:29:46](https://news.ycombinator.com/item?id=41327783) - [Facebook Helped the FBI Exploit Vulnerability in a Secure Linux Distro](https://gizmodo.com/report-facebook-helped-the-fbi-exploit-vulnerability-i-1843988377)
 * [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 * [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 * [2024-08-23, 05:14:35](https://news.ycombinator.com/item?id=41326357) - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
@@ -16,6 +15,7 @@
 * [2024-08-22, 23:10:36](https://news.ycombinator.com/item?id=41325067) - [Show HN: FOSD – Framework of Operating System Development](https://github.com/fosd-project/FOSD)
 * [2024-08-22, 19:05:47](https://news.ycombinator.com/item?id=41323454) - [What's Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
 * [2024-08-22, 17:54:25](https://news.ycombinator.com/item?id=41322758) - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
+* [2024-08-22, 17:51:01](https://news.ycombinator.com/item?id=41322730) - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 * [2024-08-22, 17:08:50](https://news.ycombinator.com/item?id=41322281) - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 * [2024-08-22, 16:34:30](https://news.ycombinator.com/item?id=41321981) - [Aerc: A well-crafted TUI for email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [2024-08-22, 14:59:14](https://news.ycombinator.com/item?id=41321063) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
