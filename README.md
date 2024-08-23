@@ -7,7 +7,6 @@
 * [2024-08-23, 11:28:56](https://news.ycombinator.com/item?id=41328038) - [Apple Adopts 6 of OWA's Browser Choice Architecture Recommendations](https://open-web-advocacy.org/blog/apple-adopts-6-owa-choice-architecture-recommendations/)
 * [2024-08-23, 11:23:21](https://news.ycombinator.com/item?id=41328014) - [The Chancellor's Excellent Questions](https://montanaskeptic.substack.com/p/the-chancellors-excellent-questions)
 * [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
-* [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 * [2024-08-23, 04:31:35](https://news.ycombinator.com/item?id=41326179) - [EPUBCheck – The official conformance checker for ePub publications](https://github.com/w3c/epubcheck)
 * [2024-08-23, 04:13:16](https://news.ycombinator.com/item?id=41326117) - [Hacker Purity Test (1989)](http://www.armory.com/tests/hacker.html)
 * [2024-08-23, 03:49:12](https://news.ycombinator.com/item?id=41326039) - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
@@ -30,6 +29,7 @@
 * [2024-08-19, 13:43:48](https://news.ycombinator.com/item?id=41290994) - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
 * [2024-08-19, 11:47:41](https://news.ycombinator.com/item?id=41290189) - [What If Data Is a Bad Idea?](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html)
 * [2024-08-19, 01:42:32](https://news.ycombinator.com/item?id=41287085) - [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
+* [2024-08-19, 00:33:24](https://news.ycombinator.com/item?id=41286753) - [When Serial Isn't RS-232, Geocaching with the Garmin GPS 95](https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/)
 
 ## [Archives](archives/index.md)
 
