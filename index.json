@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-24, 14:58:33",
+      "https://news.ycombinator.com/item?id=41338776"
+    ],
+    [
+      "Small Strings in Rust: smolstr vs. smartstring",
+      "https://fasterthanli.me/articles/small-strings-in-rust"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 13:57:56",
+      "https://news.ycombinator.com/item?id=41338354"
+    ],
+    [
+      "You Are Not Dumb, You Just Lack the Prerequisites",
+      "https://lelouch.dev/blog/you-are-probably-not-dumb/"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 13:05:14",
       "https://news.ycombinator.com/item?id=41338000"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-08-23, 14:50:09",
-      "https://news.ycombinator.com/item?id=41329505"
-    ],
-    [
-      "SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99",
-      "https://github.com/dpjudas/SurrealEngine"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 13:15:40",
       "https://news.ycombinator.com/item?id=41328749"
     ],
@@ -197,16 +207,6 @@
     [
       "LM Studio 0.3 – Discover, download, and run local LLMs",
       "https://lmstudio.ai/blog/lmstudio-v0.3.0"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 18:01:01",
-      "https://news.ycombinator.com/item?id=41322818"
-    ],
-    [
-      "How we built Townie – an app that generates fullstack apps",
-      "https://blog.val.town/blog/codegen/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-08-20, 22:10:48",
-      "https://news.ycombinator.com/item?id=41304610"
+      "2024-08-21, 06:57:39",
+      "https://news.ycombinator.com/item?id=41307529"
     ],
     [
-      "Origins of the Lab Mouse",
-      "https://www.asimov.press/p/lab-mouse"
+      "Random Thoughts about Unity",
+      "https://aras-p.info/blog/2024/08/11/Random-thoughts-about-Unity/"
     ]
   ],
   [
