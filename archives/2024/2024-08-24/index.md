@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 20:20:15](https://news.ycombinator.com/item?id=41341192) - [CORS Is Stupid](https://kevincox.ca/2024/08/24/cors/)
 * [2024-08-24, 19:49:25](https://news.ycombinator.com/item?id=41340948) - [The Vital Necessity of Old Books (2023)](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
 * [2024-08-24, 19:40:18](https://news.ycombinator.com/item?id=41340874) - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
 * [2024-08-24, 19:28:19](https://news.ycombinator.com/item?id=41340777) - [Karpathy on VS Code Cursor and Sonnet 3.5 vs. GitHub Copilot](https://twitter.com/karpathy/status/1827143768459637073)

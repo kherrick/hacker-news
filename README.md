@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-24, 20:20:15](https://news.ycombinator.com/item?id=41341192) - [CORS Is Stupid](https://kevincox.ca/2024/08/24/cors/)
 * [2024-08-24, 19:49:25](https://news.ycombinator.com/item?id=41340948) - [The Vital Necessity of Old Books (2023)](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
 * [2024-08-24, 19:40:18](https://news.ycombinator.com/item?id=41340874) - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
 * [2024-08-24, 19:28:19](https://news.ycombinator.com/item?id=41340777) - [Karpathy on VS Code Cursor and Sonnet 3.5 vs. GitHub Copilot](https://twitter.com/karpathy/status/1827143768459637073)
@@ -7,7 +8,6 @@
 * [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
 * [2024-08-24, 17:14:09](https://news.ycombinator.com/item?id=41339667) - [NASA announces Boeing Starliner crew will return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
 * [2024-08-24, 17:00:05](https://news.ycombinator.com/item?id=41339577) - [OneText (YC W23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff)
-* [2024-08-24, 16:53:32](https://news.ycombinator.com/item?id=41339537) - [Biorecap: An R package for summarizing bioRxiv preprints with a local LLM](https://blog.stephenturner.us/p/biorecap-r-package-for-summarizing-biorxiv-preprints-local-llm)
 * [2024-08-24, 16:47:12](https://news.ycombinator.com/item?id=41339493) - [JavaScript dates are about to be fixed](https://docs.timetime.in/blog/js-dates-finally-fixed)
 * [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 16:04:28](https://news.ycombinator.com/item?id=41339163) - [Foundation for Human Vision Models](https://github.com/facebookresearch/sapiens)
@@ -20,7 +20,7 @@
 * [2024-08-24, 11:30:24](https://news.ycombinator.com/item?id=41337356) - [Hot Page – a graphical site builder](https://hot.page/)
 * [2024-08-21, 17:01:05](https://news.ycombinator.com/item?id=41312124) - [Async hazard: MMAP is blocking IO](https://huonw.github.io/blog/2024/08/async-hazard-mmap/)
 * [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
-* [2024-08-21, 14:53:45](https://news.ycombinator.com/item?id=41310903) - [Pong.bash](https://0x0.st/XJg2.bash)
+* [2024-08-21, 15:14:38](https://news.ycombinator.com/item?id=41311122) - [Military Motivation and Frontier Maintenance](https://acoup.blog/2024/08/16/fireside-friday-august-16-2024/)
 * [2024-08-21, 14:53:33](https://news.ycombinator.com/item?id=41310899) - [The Elegant Universe: 25th Anniversary Edition](https://www.math.columbia.edu/~woit/wordpress/?p=14092)
 * [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 * [2024-08-21, 14:12:14](https://news.ycombinator.com/item?id=41310491) - [CNCFsweeper](https://cncfsweeper.netlify.app/)
