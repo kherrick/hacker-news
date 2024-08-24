@@ -18,6 +18,7 @@
 * [2024-08-24, 13:46:31](https://news.ycombinator.com/item?id=41338285) - [A $10k stipend is available for anyone moving to Cumberland, MD](https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program)
 * [2024-08-24, 13:05:14](https://news.ycombinator.com/item?id=41338000) - [Against all odds, an asteroid mining company appears to be making headway](https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/)
 * [2024-08-24, 11:30:24](https://news.ycombinator.com/item?id=41337356) - [Hot Page – a graphical site builder](https://hot.page/)
+* [2024-08-24, 09:14:34](https://news.ycombinator.com/item?id=41336762) - [Consistently Making Wrong Decisions Whilst Writing Recreational C](https://amodernist.com/texts/fun-c.html)
 * [2024-08-21, 17:01:05](https://news.ycombinator.com/item?id=41312124) - [Async hazard: MMAP is blocking IO](https://huonw.github.io/blog/2024/08/async-hazard-mmap/)
 * [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-21, 15:14:38](https://news.ycombinator.com/item?id=41311122) - [Military Motivation and Frontier Maintenance](https://acoup.blog/2024/08/16/fireside-friday-august-16-2024/)
@@ -27,7 +28,6 @@
 * [2024-08-21, 13:53:09](https://news.ycombinator.com/item?id=41310319) - [\"YOLO\" is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 * [2024-08-21, 13:28:34](https://news.ycombinator.com/item?id=41310085) - [An introduction to the remontoire](https://www.watchaffinity.co.uk/blog/its-complicated-the-remontoire/)
 * [2024-08-21, 13:17:12](https://news.ycombinator.com/item?id=41309997) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
-* [2024-08-21, 03:38:33](https://news.ycombinator.com/item?id=41306555) - [Exploring Impact of Code in Pre-Training](https://arxiv.org/abs/2408.10914)
 * [2024-08-20, 19:05:37](https://news.ycombinator.com/item?id=41302950) - [Windows 0-day was exploited by North Korea to install advanced rootkit](https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/)
 * [2024-08-20, 15:22:27](https://news.ycombinator.com/item?id=41300888) - [Software possession for personal use](https://olano.dev/blog/software-possession-for-personal-use/)
 
