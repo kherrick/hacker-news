@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
 * [2024-08-24, 17:14:13](https://news.ycombinator.com/item?id=41339668) - [Starliner astronauts will return to Earth on SpaceX Dragon](https://twitter.com/SciGuySpace/status/1827393747010908548)
 * [2024-08-24, 17:14:09](https://news.ycombinator.com/item?id=41339667) - [NASA Announces Boeing Starliner Crew Will Return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
 * [2024-08-24, 17:03:55](https://news.ycombinator.com/item?id=41339606) - [ISS Astronauts to Return to Earth on SpaceX Crew Dragon: NASA [video]](https://www.youtube.com/watch?v=AGOswKRSsHc)
 * [2024-08-24, 17:00:05](https://news.ycombinator.com/item?id=41339577) - [OneText (YC W23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff)
 * [2024-08-24, 16:47:12](https://news.ycombinator.com/item?id=41339493) - [JavaScript Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed)
+* [2024-08-24, 16:35:55](https://news.ycombinator.com/item?id=41339407) - [Carmack on Oculus, Minecraft, Meta and Microsoft](https://twitter.com/ID_AA_Carmack/status/1827363452194619692)
 * [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 15:21:46](https://news.ycombinator.com/item?id=41338913) - [Death Cafe](https://deathcafe.com/what/)
 * [2024-08-24, 15:15:04](https://news.ycombinator.com/item?id=41338877) - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
