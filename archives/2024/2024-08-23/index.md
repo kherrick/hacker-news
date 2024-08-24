@@ -49,6 +49,7 @@
 * [2024-08-23, 13:45:20](https://news.ycombinator.com/item?id=41328964) - [The staggering death toll of scientific lies](https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time)
 * [2024-08-23, 13:20:19](https://news.ycombinator.com/item?id=41328784) - [17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/)
 * [2024-08-23, 13:15:40](https://news.ycombinator.com/item?id=41328749) - [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
+* [2024-08-23, 13:11:43](https://news.ycombinator.com/item?id=41328712) - [AI training shouldn't erase authorship](https://justine.lol/history/)
 * [2024-08-23, 13:06:05](https://news.ycombinator.com/item?id=41328677) - [TextBundle](http://textbundle.org/)
 * [2024-08-23, 12:32:15](https://news.ycombinator.com/item?id=41328447) - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 * [2024-08-23, 11:57:31](https://news.ycombinator.com/item?id=41328185) - [SnapDiagram – Instantly Convert Hand-Drawn Diagrams to Digital with AI](https://snapdiagram.xyz/)
