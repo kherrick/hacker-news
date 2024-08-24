@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 23:54:28](https://news.ycombinator.com/item?id=41334207) - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 * [2024-08-23, 22:31:45](https://news.ycombinator.com/item?id=41333648) - [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
 * [2024-08-23, 22:27:12](https://news.ycombinator.com/item?id=41333617) - [Metabolic byproduct of exercise helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
 * [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
@@ -29,6 +30,7 @@
 * [2024-08-23, 19:02:08](https://news.ycombinator.com/item?id=41332011) - [Show HN: Monogo – Evolve your go workspace to a real monorepo](https://github.com/nicolasgere/monogo)
 * [2024-08-23, 19:00:54](https://news.ycombinator.com/item?id=41331987) - [As cars and trucks get bigger and taller, lawmakers look to protect pedestrians](https://www.npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks)
 * [2024-08-23, 18:49:33](https://news.ycombinator.com/item?id=41331851) - [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
+* [2024-08-23, 18:17:38](https://news.ycombinator.com/item?id=41331531) - [Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
 * [2024-08-23, 18:00:17](https://news.ycombinator.com/item?id=41331369) - [Meta Cancels High-End Mixed Reality Headset After Apple Vision Pro Struggles](https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 17:01:15](https://news.ycombinator.com/item?id=41330690) - [Roboflow (YC S20) is hiring an ML Engineer to democratize computer vision](https://www.ycombinator.com/companies/roboflow/jobs/Hz7YcFa-full-stack-machine-learning-engineer)

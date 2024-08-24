@@ -28,6 +28,7 @@
 * [2024-08-22, 17:06:31](https://news.ycombinator.com/item?id=41322266) - [Peloton to charge $95 activation fee for used bikes](https://www.cnbc.com/2024/08/22/peloton-to-charge-95-activation-fee-for-used-bikes-.html)
 * [2024-08-22, 17:00:47](https://news.ycombinator.com/item?id=41322207) - [Vooma (YC W23) Is Hiring a Growth Lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
 * [2024-08-22, 16:38:45](https://news.ycombinator.com/item?id=41322012) - [About the IMGUI Paradigm](https://github.com/ocornut/imgui/wiki/About-the-IMGUI-paradigm)
+* [2024-08-22, 16:37:35](https://news.ycombinator.com/item?id=41322001) - [Arroost: Unblocking Creation with Friends](https://www.todepond.com/report/arroost/)
 * [2024-08-22, 16:36:34](https://news.ycombinator.com/item?id=41321998) - [Making PyPy's GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
 * [2024-08-22, 16:34:30](https://news.ycombinator.com/item?id=41321981) - [Aerc: A Well-Crafted TUI for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [2024-08-22, 16:28:26](https://news.ycombinator.com/item?id=41321936) - [Launch HN: Arva AI (YC S24) – AI agents for instant global KYB onboarding](https://news.ycombinator.com/item?id=41321936)
