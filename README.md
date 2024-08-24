@@ -5,7 +5,6 @@
 * [2024-08-24, 01:35:15](https://news.ycombinator.com/item?id=41334802) - [Ask HN: Struggle with project ideas? Heres some novel ideas you can build now](https://news.ycombinator.com/item?id=41334802)
 * [2024-08-23, 23:54:28](https://news.ycombinator.com/item?id=41334207) - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 * [2024-08-23, 22:31:45](https://news.ycombinator.com/item?id=41333648) - [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
-* [2024-08-23, 22:27:12](https://news.ycombinator.com/item?id=41333617) - [Lactate helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
 * [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
 * [2024-08-23, 21:29:44](https://news.ycombinator.com/item?id=41333284) - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
 * [2024-08-23, 21:01:42](https://news.ycombinator.com/item?id=41333064) - [People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
@@ -28,6 +27,7 @@
 * [2024-08-22, 16:37:35](https://news.ycombinator.com/item?id=41322001) - [Arroost: Unblocking Creation with Friends](https://www.todepond.com/report/arroost/)
 * [2024-08-22, 04:24:22](https://news.ycombinator.com/item?id=41316807) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 * [2024-08-21, 18:27:56](https://news.ycombinator.com/item?id=41312834) - [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
+* [2024-08-21, 13:03:23](https://news.ycombinator.com/item?id=41309870) - [Ask HN: How do you keep track \"Log in with \" accounts](https://news.ycombinator.com/item?id=41309870)
 * [2024-08-21, 08:01:01](https://news.ycombinator.com/item?id=41307918) - [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 
