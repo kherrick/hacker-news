@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-24, 20:46:00](https://news.ycombinator.com/item?id=41341353) - [Telegram CEO Pavel Durov just got arrested in France](https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html)
 * [2024-08-24, 19:49:25](https://news.ycombinator.com/item?id=41340948) - [The Vital Necessity of Old Books (2023)](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
 * [2024-08-24, 19:40:18](https://news.ycombinator.com/item?id=41340874) - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
 * [2024-08-24, 19:28:19](https://news.ycombinator.com/item?id=41340777) - [Karpathy on VS Code Cursor and Sonnet 3.5 vs. GitHub Copilot](https://twitter.com/karpathy/status/1827143768459637073)
@@ -29,7 +30,6 @@
 * [2024-08-21, 13:17:12](https://news.ycombinator.com/item?id=41309997) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 * [2024-08-21, 03:38:33](https://news.ycombinator.com/item?id=41306555) - [Exploring Impact of Code in Pre-Training](https://arxiv.org/abs/2408.10914)
 * [2024-08-20, 19:05:37](https://news.ycombinator.com/item?id=41302950) - [Windows 0-day was exploited by North Korea to install advanced rootkit](https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/)
-* [2024-08-20, 15:22:27](https://news.ycombinator.com/item?id=41300888) - [Software possession for personal use](https://olano.dev/blog/software-possession-for-personal-use/)
 
 ## [Archives](archives/index.md)
 
