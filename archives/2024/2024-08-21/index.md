@@ -38,6 +38,7 @@
 * [2024-08-21, 17:14:54](https://news.ycombinator.com/item?id=41312252) - [Science of Groove [video]](https://www.youtube.com/watch?v=d0Ch7avfPP0)
 * [2024-08-21, 17:11:48](https://news.ycombinator.com/item?id=41312225) - [Midjourney web experience is now open to everyone](https://www.midjourney.com/)
 * [2024-08-21, 17:01:26](https://news.ycombinator.com/item?id=41312134) - [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
+* [2024-08-21, 17:01:05](https://news.ycombinator.com/item?id=41312124) - [Async hazard: MMAP is blocking IO](https://huonw.github.io/blog/2024/08/async-hazard-mmap/)
 * [2024-08-21, 16:55:55](https://news.ycombinator.com/item?id=41312084) - [Code Review Antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 * [2024-08-21, 16:55:36](https://news.ycombinator.com/item?id=41312079) - [Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model weights](https://news.ycombinator.com/item?id=41312079)
 * [2024-08-21, 16:01:15](https://news.ycombinator.com/item?id=41311519) - [U.S. Added 818,000 Fewer Jobs Than Reported Earlier](https://www.nytimes.com/2024/08/21/business/economy/us-jobs-economy.html)
