@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
 * [2024-08-24, 00:22:13](https://news.ycombinator.com/item?id=41334387) - [Makefiles for Web Work (2022)](https://rosszurowski.com/log/2022/makefiles)
@@ -29,7 +30,6 @@
 * [2024-08-20, 22:10:48](https://news.ycombinator.com/item?id=41304610) - [Origins of the Lab Mouse](https://www.asimov.press/p/lab-mouse)
 * [2024-08-20, 10:54:00](https://news.ycombinator.com/item?id=41298774) - [On Writing Well](https://zodvik.com/posts/on-writing-well/)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
-* [2024-08-19, 20:13:09](https://news.ycombinator.com/item?id=41294217) - [Synchronization of bowhead whales](https://phys.org/news/2024-08-chaos-theory-approach-reveals-distance.html)
 
 ## [Archives](archives/index.md)
 
