@@ -51,6 +51,7 @@
 * [2024-08-21, 14:54:42](https://news.ycombinator.com/item?id=41310921) - [The UX of HTML (2023)](https://www.htmhell.dev/adventcalendar/2023/1/)
 * [2024-08-21, 14:50:20](https://news.ycombinator.com/item?id=41310865) - [Mathematicians Prove Hawking Wrong About the Most Extreme Black Holes](https://www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/)
 * [2024-08-21, 14:46:17](https://news.ycombinator.com/item?id=41310834) - [Self-Supervised Learning for Videos](https://www.lightly.ai/post/self-supervised-learning-for-videos)
+* [2024-08-21, 14:27:37](https://news.ycombinator.com/item?id=41310637) - [Don't obsess over tax and legal structures](https://emeaentrepreneurs.com/anti/dont-obsess-over-tax/)
 * [2024-08-21, 14:05:48](https://news.ycombinator.com/item?id=41310433) - [Revisiting the Classics: Jensen's Inequality (2023)](https://francisbach.com/jensen-inequality/)
 * [2024-08-21, 14:03:00](https://news.ycombinator.com/item?id=41310404) - [Trillian Tessera: Next Generation Tile-Based Transparency Logs](https://blog.transparency.dev/introducing-trillian-tessera)
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to Build a 50k Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)

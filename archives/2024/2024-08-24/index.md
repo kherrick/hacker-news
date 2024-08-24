@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 12:02:20](https://news.ycombinator.com/item?id=41337553) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+* [2024-08-24, 11:40:17](https://news.ycombinator.com/item?id=41337413) - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-24, 11:30:24](https://news.ycombinator.com/item?id=41337356) - [Hot Page – a graphical site builder](https://hot.page/)
 * [2024-08-24, 11:23:14](https://news.ycombinator.com/item?id=41337322) - [Sabotage Confirmed at Norwegian Air Base](https://www.twz.com/air/sabotage-confirmed-at-norwegian-air-base)
 * [2024-08-24, 11:08:32](https://news.ycombinator.com/item?id=41337271) - [Observe HN: ChatGPT Fills in My Memory](https://news.ycombinator.com/item?id=41337271)
