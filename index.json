@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-24, 02:18:15",
+      "https://news.ycombinator.com/item?id=41335008"
+    ],
+    [
+      "Tesla starts scrubbing its Full Self Driving claims from official website",
+      "https://twitter.com/AdrianSumBond/status/1827105729859473773"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 01:58:25",
+      "https://news.ycombinator.com/item?id=41334910"
+    ],
+    [
+      "An Overview of Datalog",
+      "https://clojure.github.io/clojure-contrib/doc/datalog.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 01:35:15",
+      "https://news.ycombinator.com/item?id=41334802"
+    ],
+    [
+      "Ask HN: Struggle with project ideas? Heres some novel ideas you can build now",
+      "https://news.ycombinator.com/item?id=41334802"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 23:54:28",
       "https://news.ycombinator.com/item?id=41334207"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2024-08-23, 21:04:12",
-      "https://news.ycombinator.com/item?id=41333082"
-    ],
-    [
-      "BMW Overtakes Tesla in European EV Sales for First Time",
-      "https://electriccarsreport.com/2024/08/bmw-overtakes-tesla-in-european-ev-sales-for-first-time/"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 21:01:42",
       "https://news.ycombinator.com/item?id=41333064"
     ],
@@ -107,16 +127,6 @@
     [
       "Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs",
       "https://github.com/ptrsr/pi-ci"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 20:13:09",
-      "https://news.ycombinator.com/item?id=41332682"
-    ],
-    [
-      "Molecule restores cognition and memory in Alzheimer's disease mouse study",
-      "https://newsroom.ucla.edu/releases/molecule-restores-cognition-memory-in-alzheimers-disease-model-mice"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Vega – A declarative language for interactive visualization designs",
       "https://vega.github.io/vega/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 10:19:07",
-      "https://news.ycombinator.com/item?id=41327735"
-    ],
-    [
-      "Show HN: Ruroco – like port knocking, but better",
-      "https://github.com/beac0n/ruroco"
     ]
   ],
   [
