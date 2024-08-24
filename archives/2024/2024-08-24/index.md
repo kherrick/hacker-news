@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 19:49:25](https://news.ycombinator.com/item?id=41340948) - [The Vital Necessity of Old Books (2023)](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
 * [2024-08-24, 19:40:18](https://news.ycombinator.com/item?id=41340874) - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
+* [2024-08-24, 19:28:19](https://news.ycombinator.com/item?id=41340777) - [Karpathy on VS Code Cursor and Sonnet 3.5 vs. GitHub Copilot](https://twitter.com/karpathy/status/1827143768459637073)
 * [2024-08-24, 19:18:29](https://news.ycombinator.com/item?id=41340700) - [X is partly funded by sanctioned oligarchs](https://twitter.com/HeatherBurgundy/status/1827303361106108789)
 * [2024-08-24, 18:22:39](https://news.ycombinator.com/item?id=41340233) - [NASA says astronauts stuck in orbit to return February, not on Boeing Starliner](https://www.theguardian.com/science/article/2024/aug/24/nasa-astronauts-return-february-spacex)
 * [2024-08-24, 18:04:19](https://news.ycombinator.com/item?id=41340076) - [With Power Comes Great Responsibility Platforms Want to Be Utilities (2021)](https://www.eff.org/deeplinks/2021/08/utilities-governed-empires)

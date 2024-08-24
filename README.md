@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-24, 19:49:25](https://news.ycombinator.com/item?id=41340948) - [The Vital Necessity of Old Books (2023)](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
 * [2024-08-24, 19:40:18](https://news.ycombinator.com/item?id=41340874) - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
+* [2024-08-24, 19:28:19](https://news.ycombinator.com/item?id=41340777) - [Karpathy on VS Code Cursor and Sonnet 3.5 vs. GitHub Copilot](https://twitter.com/karpathy/status/1827143768459637073)
 * [2024-08-24, 17:41:48](https://news.ycombinator.com/item?id=41339885) - [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)
 * [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
 * [2024-08-24, 17:14:09](https://news.ycombinator.com/item?id=41339667) - [NASA announces Boeing Starliner crew will return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
@@ -16,8 +18,6 @@
 * [2024-08-24, 14:40:21](https://news.ycombinator.com/item?id=41338661) - [Julius: Open-source reimplementation of Caesar III](https://github.com/bvschaik/julius)
 * [2024-08-24, 13:46:31](https://news.ycombinator.com/item?id=41338285) - [A $10k stipend is available for anyone moving to Cumberland, MD](https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program)
 * [2024-08-24, 11:30:24](https://news.ycombinator.com/item?id=41337356) - [Hot Page – a graphical site builder](https://hot.page/)
-* [2024-08-23, 23:54:28](https://news.ycombinator.com/item?id=41334207) - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
-* [2024-08-22, 04:24:22](https://news.ycombinator.com/item?id=41316807) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 * [2024-08-21, 17:01:05](https://news.ycombinator.com/item?id=41312124) - [Async hazard: MMAP is blocking IO](https://huonw.github.io/blog/2024/08/async-hazard-mmap/)
 * [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-21, 15:14:38](https://news.ycombinator.com/item?id=41311122) - [Military Motivation and Frontier Maintenance](https://acoup.blog/2024/08/16/fireside-friday-august-16-2024/)
