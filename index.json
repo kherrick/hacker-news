@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-24, 17:34:13",
+      "https://news.ycombinator.com/item?id=41339818"
+    ],
+    [
+      "Golang Interpreter Written in PHP",
+      "https://github.com/tuqqu/go-php"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 17:14:13",
       "https://news.ycombinator.com/item?id=41339668"
     ],
@@ -47,6 +57,16 @@
     [
       "JavaScript Dates Are About to Be Fixed",
       "https://docs.timetime.in/blog/js-dates-finally-fixed"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 16:35:55",
+      "https://news.ycombinator.com/item?id=41339407"
+    ],
+    [
+      "Carmack on Oculus, Minecraft, Meta and Microsoft",
+      "https://twitter.com/ID_AA_Carmack/status/1827363452194619692"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Japan on edge of EUV lithography chip-making revolution",
       "https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 01:58:25",
-      "https://news.ycombinator.com/item?id=41334910"
-    ],
-    [
-      "An Overview of Datalog (2010)",
-      "https://clojure.github.io/clojure-contrib/doc/datalog.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Moom 4: Next-generation window manager",
       "https://manytricks.com/blog/?p=6385"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 15:26:04",
-      "https://news.ycombinator.com/item?id=41311228"
-    ],
-    [
-      "Essential Terminal Commands Every Developer Should Know",
-      "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know/"
     ]
   ],
   [
