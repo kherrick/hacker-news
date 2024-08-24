@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
 * [2024-08-21, 23:55:42](https://news.ycombinator.com/item?id=41315359) - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
+* [2024-08-21, 23:50:36](https://news.ycombinator.com/item?id=41315330) - [Ask HN: Which movies did you watch multiple times?](https://news.ycombinator.com/item?id=41315330)
 * [2024-08-21, 23:35:03](https://news.ycombinator.com/item?id=41315235) - [Americans are doing less DIY. It's another worrying sign for the economy](https://www.businessinsider.com/americans-doing-less-diy-worrying-sign-economy-lowes-earnings-2024-8)
 * [2024-08-21, 23:16:21](https://news.ycombinator.com/item?id=41315138) - [I'm Tired of Fixing Customers' AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
 * [2024-08-21, 23:14:59](https://news.ycombinator.com/item?id=41315126) - [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)

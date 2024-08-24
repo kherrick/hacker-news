@@ -7,6 +7,7 @@
 * [2024-08-24, 21:47:08](https://news.ycombinator.com/item?id=41341873) - [Telegram CEO Pavel Durov Arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/)
 * [2024-08-24, 21:39:39](https://news.ycombinator.com/item?id=41341797) - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
 * [2024-08-24, 20:55:51](https://news.ycombinator.com/item?id=41341427) - [Founder and CEO of Telegram Pavel Durov Arrested in France at the Airport](https://twitter.com/igorsushko/status/1827448480693948673)
+* [2024-08-24, 20:46:00](https://news.ycombinator.com/item?id=41341353) - [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport)
 * [2024-08-24, 20:46:00](https://news.ycombinator.com/item?id=41341353) - [Telegram CEO Pavel Durov just got arrested in France](https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html)
 * [2024-08-24, 20:20:15](https://news.ycombinator.com/item?id=41341192) - [CORS Is Stupid](https://kevincox.ca/2024/08/24/cors/)
 * [2024-08-24, 19:49:25](https://news.ycombinator.com/item?id=41340948) - [The Vital Necessity of Old Books (2023)](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
