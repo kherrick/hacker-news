@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 15:21:46](https://news.ycombinator.com/item?id=41338913) - [Death Cafe](https://deathcafe.com/what/)
 * [2024-08-24, 15:15:04](https://news.ycombinator.com/item?id=41338877) - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)

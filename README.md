@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 15:21:46](https://news.ycombinator.com/item?id=41338913) - [Death Cafe](https://deathcafe.com/what/)
 * [2024-08-24, 15:15:04](https://news.ycombinator.com/item?id=41338877) - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
@@ -9,7 +10,6 @@
 * [2024-08-24, 08:57:07](https://news.ycombinator.com/item?id=41336690) - [Japan on edge of EUV lithography chip-making revolution](https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
-* [2024-08-24, 00:22:13](https://news.ycombinator.com/item?id=41334387) - [Makefiles for Web Work (2022)](https://rosszurowski.com/log/2022/makefiles)
 * [2024-08-23, 23:54:28](https://news.ycombinator.com/item?id=41334207) - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 18:17:38](https://news.ycombinator.com/item?id=41331531) - [Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
