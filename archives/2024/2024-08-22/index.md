@@ -59,6 +59,7 @@
 * [2024-08-22, 09:56:26](https://news.ycombinator.com/item?id=41318452) - [Study explains why laws are written in an incomprehensible style](https://phys.org/news/2024-08-laws-written-incomprehensible-style.html)
 * [2024-08-22, 09:46:32](https://news.ycombinator.com/item?id=41318408) - [No \"Hello\", No \"Quick Call\", and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
 * [2024-08-22, 09:33:08](https://news.ycombinator.com/item?id=41318336) - [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
+* [2024-08-22, 09:31:14](https://news.ycombinator.com/item?id=41318332) - [Reverse Engineering Franklin Bookmans](https://bookmanarchive.com/reverse-engineering)
 * [2024-08-22, 09:23:40](https://news.ycombinator.com/item?id=41318284) - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
 * [2024-08-22, 09:11:10](https://news.ycombinator.com/item?id=41318222) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:54:44](https://news.ycombinator.com/item?id=41318133) - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
