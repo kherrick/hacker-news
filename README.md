@@ -19,7 +19,6 @@
 * [2024-08-23, 16:14:54](https://news.ycombinator.com/item?id=41330258) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [2024-08-23, 15:20:20](https://news.ycombinator.com/item?id=41329750) - [Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks](https://news.ycombinator.com/item?id=41329750)
 * [2024-08-23, 14:50:09](https://news.ycombinator.com/item?id=41329505) - [SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
-* [2024-08-23, 13:20:19](https://news.ycombinator.com/item?id=41328784) - [17-year-old student exposes Germany's 'secret' pirate site blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/)
 * [2024-08-23, 13:15:40](https://news.ycombinator.com/item?id=41328749) - [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
 * [2024-08-22, 18:22:14](https://news.ycombinator.com/item?id=41323042) - [LM Studio 0.3 – Discover, download, and run local LLMs](https://lmstudio.ai/blog/lmstudio-v0.3.0)
 * [2024-08-22, 18:01:01](https://news.ycombinator.com/item?id=41322818) - [How we built Townie – an app that generates fullstack apps](https://blog.val.town/blog/codegen/)
@@ -28,6 +27,7 @@
 * [2024-08-21, 18:27:56](https://news.ycombinator.com/item?id=41312834) - [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
 * [2024-08-21, 14:54:42](https://news.ycombinator.com/item?id=41310921) - [The UX of HTML (2023)](https://www.htmhell.dev/adventcalendar/2023/1/)
 * [2024-08-21, 12:54:14](https://news.ycombinator.com/item?id=41309793) - [The Advantage of Generational Knowledge (2022)](https://neuroleadership.com/your-brain-at-work/generational-knowledge)
+* [2024-08-20, 10:54:00](https://news.ycombinator.com/item?id=41298774) - [On Writing Well](https://zodvik.com/posts/on-writing-well/)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 * [2024-08-19, 20:13:09](https://news.ycombinator.com/item?id=41294217) - [Synchronization of bowhead whales](https://phys.org/news/2024-08-chaos-theory-approach-reveals-distance.html)
 
