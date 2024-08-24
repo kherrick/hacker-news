@@ -23,6 +23,7 @@
 * [2024-08-21, 20:07:48](https://news.ycombinator.com/item?id=41313740) - [US hospital told family their daughter had checked out when in fact she'd died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
 * [2024-08-21, 19:56:56](https://news.ycombinator.com/item?id=41313619) - [.less: Crafting .less Docker Containers That Will Blow Your Mind](https://pointlesscode.dev/)
 * [2024-08-21, 19:18:48](https://news.ycombinator.com/item?id=41313290) - [Breaking down a record-setting day on the Texas grid](https://blog.gridstatus.io/a-record-setting-day-in-ercot/)
+* [2024-08-21, 19:03:18](https://news.ycombinator.com/item?id=41313152) - [Arsy-versy Argy-bargy: How Chaucer remade language](https://www.poetryfoundation.org/articles/1583602/arsy-versy-argy-bargy)
 * [2024-08-21, 18:42:55](https://news.ycombinator.com/item?id=41312984) - [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
 * [2024-08-21, 18:42:20](https://news.ycombinator.com/item?id=41312975) - [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
 * [2024-08-21, 18:32:54](https://news.ycombinator.com/item?id=41312883) - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
