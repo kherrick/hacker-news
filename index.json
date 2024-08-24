@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-08-24, 17:14:09",
+      "https://news.ycombinator.com/item?id=41339667"
+    ],
+    [
+      "NASA announces Boeing Starliner crew will return on SpaceX Crew-9",
+      "https://twitter.com/NASA/status/1827393397939634503"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 17:00:05",
       "https://news.ycombinator.com/item?id=41339577"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2024-08-24, 13:57:56",
+      "https://news.ycombinator.com/item?id=41338354"
+    ],
+    [
+      "You are not dumb, you just lack the prerequisites",
+      "https://lelouch.dev/blog/you-are-probably-not-dumb/"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 11:30:24",
       "https://news.ycombinator.com/item?id=41337356"
     ],
@@ -211,6 +231,16 @@
   ],
   [
     [
+      "2024-08-21, 17:01:05",
+      "https://news.ycombinator.com/item?id=41312124"
+    ],
+    [
+      "Async hazard: MMAP is blocking IO",
+      "https://huonw.github.io/blog/2024/08/async-hazard-mmap/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 15:50:18",
       "https://news.ycombinator.com/item?id=41311416"
     ],
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2024-08-21, 15:14:38",
-      "https://news.ycombinator.com/item?id=41311122"
-    ],
-    [
-      "Military Motivation and Frontier Maintenance",
-      "https://acoup.blog/2024/08/16/fireside-friday-august-16-2024/"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 14:53:33",
       "https://news.ycombinator.com/item?id=41310899"
     ],
     [
       "The Elegant Universe: 25th Anniversary Edition",
       "https://www.math.columbia.edu/~woit/wordpress/?p=14092"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 14:45:16",
-      "https://news.ycombinator.com/item?id=41310822"
-    ],
-    [
-      "Compressing data with sample points and polynomial interpolation",
-      "https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "ArcticDB: Why a Hedge Fund Built Its Own Database",
       "https://www.infoq.com/presentations/arcticdb/"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 19:05:37",
-      "https://news.ycombinator.com/item?id=41302950"
-    ],
-    [
-      "Windows 0-day was exploited by North Korea to install advanced rootkit",
-      "https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/"
     ]
   ],
   [
