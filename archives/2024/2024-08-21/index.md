@@ -55,6 +55,7 @@
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to Build a 50k Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 * [2024-08-21, 13:43:48](https://news.ycombinator.com/item?id=41310217) - [Dual-boot systems warn after Microsoft update, Cannot boot into Linux](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
 * [2024-08-21, 13:03:23](https://news.ycombinator.com/item?id=41309870) - [Ask HN: How do you keep track \"Log in with \" accounts](https://news.ycombinator.com/item?id=41309870)
+* [2024-08-21, 12:56:49](https://news.ycombinator.com/item?id=41309821) - [Rod McKuen Was the Bestselling Poet in American History. What Happened? (2022)](https://slate.com/culture/2022/10/rod-mckuen-bestselling-poet-songs-what-happened.html)
 * [2024-08-21, 12:54:14](https://news.ycombinator.com/item?id=41309793) - [The Advantage of Generational Knowledge (2022)](https://neuroleadership.com/your-brain-at-work/generational-knowledge)
 * [2024-08-21, 12:36:53](https://news.ycombinator.com/item?id=41309664) - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 * [2024-08-21, 12:22:18](https://news.ycombinator.com/item?id=41309561) - [Recording and Processing Spoken Word](https://tratt.net/laurie/blog/2024/recording_and_processing_spoken_word.html)
