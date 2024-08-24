@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-08-24, 11:40:17",
-      "https://news.ycombinator.com/item?id=41337413"
-    ],
-    [
-      "They don't make 'em like that any more: Borland Turbo Pascal 7",
-      "https://kevinboone.me/tpwin.html"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 11:30:24",
       "https://news.ycombinator.com/item?id=41337356"
     ],
@@ -147,6 +137,16 @@
     [
       "Did you lose your AirPods?",
       "https://alexyancey.com/lost-airpods/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 20:29:42",
+      "https://news.ycombinator.com/item?id=41332811"
+    ],
+    [
+      "Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs",
+      "https://github.com/ptrsr/pi-ci"
     ]
   ],
   [
