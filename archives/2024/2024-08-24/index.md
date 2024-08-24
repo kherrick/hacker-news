@@ -8,6 +8,7 @@
 * [2024-08-24, 11:40:17](https://news.ycombinator.com/item?id=41337413) - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-24, 11:30:24](https://news.ycombinator.com/item?id=41337356) - [Hot Page – a graphical site builder](https://hot.page/)
 * [2024-08-24, 11:23:14](https://news.ycombinator.com/item?id=41337322) - [Sabotage Confirmed at Norwegian Air Base](https://www.twz.com/air/sabotage-confirmed-at-norwegian-air-base)
+* [2024-08-24, 11:19:06](https://news.ycombinator.com/item?id=41337307) - [Scientists Build a Simple Gel 'Brain' That Learns How to Play Pong Better](https://www.sciencealert.com/scientists-build-a-simple-gel-brain-that-learns-how-to-play-pong-better)
 * [2024-08-24, 11:08:32](https://news.ycombinator.com/item?id=41337271) - [Observe HN: ChatGPT Fills in My Memory](https://news.ycombinator.com/item?id=41337271)
 * [2024-08-24, 10:14:50](https://news.ycombinator.com/item?id=41337034) - [Why Ed-Tech Startups Don't Scale (2022)](https://giansegato.com/essays/why-edtech-startups-dont-scale)
 * [2024-08-24, 09:54:24](https://news.ycombinator.com/item?id=41336944) - [48% less emissions if Germany had invested in nuclear (2002-2022)](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642)
