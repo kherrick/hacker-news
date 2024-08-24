@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-08-23, 20:52:57",
-      "https://news.ycombinator.com/item?id=41333011"
-    ],
-    [
-      "An exploration of Bluesky's public opening",
-      "https://arxiv.org/abs/2408.03146"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 20:29:42",
       "https://news.ycombinator.com/item?id=41332811"
     ],
@@ -147,6 +137,16 @@
     [
       "Meta cancels high-end mixed reality headset after Apple Vision Pro struggles",
       "https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 17:44:42",
+      "https://news.ycombinator.com/item?id=41331185"
+    ],
+    [
+      "Bypass Paywalls Add-On Takedown Notice",
+      "https://github.com/github/dmca/blob/master/2024/08/2024-08-09-news-media-alliance.md"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2024-08-22, 18:22:14",
+      "https://news.ycombinator.com/item?id=41323042"
+    ],
+    [
+      "LM Studio 0.3 – Discover, download, and run local LLMs",
+      "https://lmstudio.ai/blog/lmstudio-v0.3.0"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 18:01:01",
       "https://news.ycombinator.com/item?id=41322818"
     ],
     [
       "How we built Townie – an app that generates fullstack apps",
       "https://blog.val.town/blog/codegen/"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 16:38:45",
-      "https://news.ycombinator.com/item?id=41322012"
-    ],
-    [
-      "About the IMGUI Paradigm",
-      "https://github.com/ocornut/imgui/wiki/About-the-IMGUI-paradigm"
     ]
   ],
   [
