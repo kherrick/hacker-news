@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 17:00:05](https://news.ycombinator.com/item?id=41339577) - [OneText (YC W23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff)
+* [2024-08-24, 16:47:12](https://news.ycombinator.com/item?id=41339493) - [JavaScript Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed)
 * [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 15:21:46](https://news.ycombinator.com/item?id=41338913) - [Death Cafe](https://deathcafe.com/what/)
 * [2024-08-24, 15:15:04](https://news.ycombinator.com/item?id=41338877) - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
+* [2024-08-24, 14:50:31](https://news.ycombinator.com/item?id=41338729) - [Implementing React from Scratch](https://www.rob.directory/blog/react-from-scratch)
 * [2024-08-24, 13:57:56](https://news.ycombinator.com/item?id=41338354) - [You Are Not Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 * [2024-08-24, 13:46:31](https://news.ycombinator.com/item?id=41338285) - [A $10k stipend is available for anyone moving to Cumberland, MD](https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program)
 * [2024-08-24, 13:26:44](https://news.ycombinator.com/item?id=41338148) - [Warren Buffet's Missed Opportunity](https://www.city-journal.org/article/warren-buffetts-missed-opportunity)
