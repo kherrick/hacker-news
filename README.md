@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-24, 09:54:24](https://news.ycombinator.com/item?id=41336944) - [48% less emissions if Germany had invested in nuclear (2002-2022)](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642)
+* [2024-08-24, 08:57:07](https://news.ycombinator.com/item?id=41336690) - [Japan on edge of EUV lithography chip-making revolution](https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/)
 * [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
@@ -7,7 +9,6 @@
 * [2024-08-23, 23:54:28](https://news.ycombinator.com/item?id=41334207) - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 * [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
 * [2024-08-23, 21:29:44](https://news.ycombinator.com/item?id=41333284) - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
-* [2024-08-23, 21:01:15](https://news.ycombinator.com/item?id=41333059) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-08-23, 20:29:42](https://news.ycombinator.com/item?id=41332811) - [Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs](https://github.com/ptrsr/pi-ci)
 * [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
@@ -17,7 +18,6 @@
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 16:14:54](https://news.ycombinator.com/item?id=41330258) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [2024-08-23, 15:20:20](https://news.ycombinator.com/item?id=41329750) - [Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks](https://news.ycombinator.com/item?id=41329750)
-* [2024-08-23, 14:50:09](https://news.ycombinator.com/item?id=41329505) - [SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
 * [2024-08-23, 13:15:40](https://news.ycombinator.com/item?id=41328749) - [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
 * [2024-08-22, 18:22:14](https://news.ycombinator.com/item?id=41323042) - [LM Studio 0.3 – Discover, download, and run local LLMs](https://lmstudio.ai/blog/lmstudio-v0.3.0)
 * [2024-08-22, 18:01:01](https://news.ycombinator.com/item?id=41322818) - [How we built Townie – an app that generates fullstack apps](https://blog.val.town/blog/codegen/)
