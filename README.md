@@ -9,7 +9,6 @@
 * [2024-08-24, 08:57:07](https://news.ycombinator.com/item?id=41336690) - [Japan on edge of EUV lithography chip-making revolution](https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
-* [2024-08-24, 00:22:13](https://news.ycombinator.com/item?id=41334387) - [Makefiles for Web Work (2022)](https://rosszurowski.com/log/2022/makefiles)
 * [2024-08-23, 23:54:28](https://news.ycombinator.com/item?id=41334207) - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 18:17:38](https://news.ycombinator.com/item?id=41331531) - [Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
@@ -30,6 +29,7 @@
 * [2024-08-21, 06:57:39](https://news.ycombinator.com/item?id=41307529) - [Random Thoughts about Unity](https://aras-p.info/blog/2024/08/11/Random-thoughts-about-Unity/)
 * [2024-08-20, 19:05:37](https://news.ycombinator.com/item?id=41302950) - [Windows 0-day was exploited by North Korea to install advanced rootkit](https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/)
 * [2024-08-20, 15:22:27](https://news.ycombinator.com/item?id=41300888) - [Software possession for personal use](https://olano.dev/blog/software-possession-for-personal-use/)
+* [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 
 ## [Archives](archives/index.md)
 
