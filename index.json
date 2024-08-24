@@ -111,26 +111,6 @@
   ],
   [
     [
-      "2024-08-23, 21:29:44",
-      "https://news.ycombinator.com/item?id=41333284"
-    ],
-    [
-      "Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?",
-      "https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 20:29:42",
-      "https://news.ycombinator.com/item?id=41332811"
-    ],
-    [
-      "Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs",
-      "https://github.com/ptrsr/pi-ci"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 19:39:11",
       "https://news.ycombinator.com/item?id=41332342"
     ],
@@ -151,16 +131,6 @@
   ],
   [
     [
-      "2024-08-23, 18:00:17",
-      "https://news.ycombinator.com/item?id=41331369"
-    ],
-    [
-      "Meta cancels high-end mixed reality headset after Apple Vision Pro struggles",
-      "https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 17:14:05",
       "https://news.ycombinator.com/item?id=41330852"
     ],
@@ -177,16 +147,6 @@
     [
       "OpenSSH Backdoors",
       "https://blog.isosceles.com/openssh-backdoors/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 15:20:20",
-      "https://news.ycombinator.com/item?id=41329750"
-    ],
-    [
-      "Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks",
-      "https://news.ycombinator.com/item?id=41329750"
     ]
   ],
   [
@@ -261,6 +221,36 @@
   ],
   [
     [
+      "2024-08-21, 15:58:40",
+      "https://news.ycombinator.com/item?id=41311489"
+    ],
+    [
+      "Show HN: Permify 1.0 – Open-source fine-grained authorization service",
+      "https://github.com/Permify/permify"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 15:32:14",
+      "https://news.ycombinator.com/item?id=41311269"
+    ],
+    [
+      "Moom 4: Next-generation window manager",
+      "https://manytricks.com/blog/?p=6385"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 15:04:35",
+      "https://news.ycombinator.com/item?id=41311029"
+    ],
+    [
+      "Recurring Systems Archetypes (2017)",
+      "https://medium.com/disruptive-design/tools-for-systems-thinkers-the-12-recurring-systems-archetypes-2e2c8ae8fc99"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 14:27:37",
       "https://news.ycombinator.com/item?id=41310637"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2024-08-20, 10:54:00",
-      "https://news.ycombinator.com/item?id=41298774"
+      "2024-08-20, 19:05:37",
+      "https://news.ycombinator.com/item?id=41302950"
     ],
     [
-      "On Writing Well",
-      "https://zodvik.com/posts/on-writing-well/"
+      "Windows 0-day was exploited by North Korea to install advanced rootkit",
+      "https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/"
+    ]
+  ],
+  [
+    [
+      "2024-08-20, 15:22:27",
+      "https://news.ycombinator.com/item?id=41300888"
+    ],
+    [
+      "Software possession for personal use",
+      "https://olano.dev/blog/software-possession-for-personal-use/"
     ]
   ],
   [
