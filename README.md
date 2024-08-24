@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-24, 18:22:39](https://news.ycombinator.com/item?id=41340233) - [NASA says astronauts stuck in orbit to return February, not on Boeing Starliner](https://www.theguardian.com/science/article/2024/aug/24/nasa-astronauts-return-february-spacex)
 * [2024-08-24, 17:41:48](https://news.ycombinator.com/item?id=41339885) - [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)
 * [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
 * [2024-08-24, 17:14:09](https://news.ycombinator.com/item?id=41339667) - [NASA announces Boeing Starliner crew will return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
@@ -26,6 +25,7 @@
 * [2024-08-22, 04:24:22](https://news.ycombinator.com/item?id=41316807) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 * [2024-08-21, 19:03:18](https://news.ycombinator.com/item?id=41313152) - [Arsy-versy Argy-bargy: How Chaucer remade language](https://www.poetryfoundation.org/articles/1583602/arsy-versy-argy-bargy)
 * [2024-08-21, 17:01:05](https://news.ycombinator.com/item?id=41312124) - [Async hazard: MMAP is blocking IO](https://huonw.github.io/blog/2024/08/async-hazard-mmap/)
+* [2024-08-21, 15:32:14](https://news.ycombinator.com/item?id=41311269) - [Moom 4: Next-generation window manager](https://manytricks.com/blog/?p=6385)
 * [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 * [2024-08-21, 13:28:34](https://news.ycombinator.com/item?id=41310085) - [An introduction to the remontoire](https://www.watchaffinity.co.uk/blog/its-complicated-the-remontoire/)
 * [2024-08-20, 19:05:37](https://news.ycombinator.com/item?id=41302950) - [Windows 0-day was exploited by North Korea to install advanced rootkit](https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/)
