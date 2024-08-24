@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-24, 15:15:04",
+      "https://news.ycombinator.com/item?id=41338877"
+    ],
+    [
+      "Pipe Syntax in SQL",
+      "https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 14:58:33",
       "https://news.ycombinator.com/item?id=41338776"
     ],
@@ -47,16 +57,6 @@
     [
       "Hot Page – a graphical site builder",
       "https://hot.page/"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 11:19:06",
-      "https://news.ycombinator.com/item?id=41337307"
-    ],
-    [
-      "Scientists Build a Simple Gel 'Brain' That Learns How to Play Pong Better",
-      "https://www.sciencealert.com/scientists-build-a-simple-gel-brain-that-learns-how-to-play-pong-better"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-08-23, 13:15:40",
-      "https://news.ycombinator.com/item?id=41328749"
-    ],
-    [
-      "Vega – A declarative language for interactive visualization designs",
-      "https://vega.github.io/vega/"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 18:22:14",
       "https://news.ycombinator.com/item?id=41323042"
     ],
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2024-08-21, 20:16:07",
-      "https://news.ycombinator.com/item?id=41313815"
-    ],
-    [
-      "King John's Lost Treasure",
-      "https://www.historytoday.com/archive/missing-pieces/king-johns-lost-treasure"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 18:27:56",
       "https://news.ycombinator.com/item?id=41312834"
     ],
@@ -241,6 +221,26 @@
   ],
   [
     [
+      "2024-08-21, 15:26:04",
+      "https://news.ycombinator.com/item?id=41311228"
+    ],
+    [
+      "Essential Terminal Commands Every Developer Should Know",
+      "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 15:14:38",
+      "https://news.ycombinator.com/item?id=41311122"
+    ],
+    [
+      "Military Motivation and Frontier Maintenance",
+      "https://acoup.blog/2024/08/16/fireside-friday-august-16-2024/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 15:04:35",
       "https://news.ycombinator.com/item?id=41311029"
     ],
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2024-08-21, 14:27:37",
-      "https://news.ycombinator.com/item?id=41310637"
+      "2024-08-21, 14:45:16",
+      "https://news.ycombinator.com/item?id=41310822"
     ],
     [
-      "Don't obsess over tax and legal structures",
-      "https://emeaentrepreneurs.com/anti/dont-obsess-over-tax/"
+      "Compressing data with sample points and polynomial interpolation",
+      "https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 13:28:34",
+      "https://news.ycombinator.com/item?id=41310085"
+    ],
+    [
+      "An introduction to the remontoire",
+      "https://www.watchaffinity.co.uk/blog/its-complicated-the-remontoire/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Software possession for personal use",
       "https://olano.dev/blog/software-possession-for-personal-use/"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 21:18:19",
-      "https://news.ycombinator.com/item?id=41294663"
-    ],
-    [
-      "Playing Sudoku in TypeScript while the type checker highlights mistakes",
-      "https://github.com/gruhn/typescript-sudoku"
     ]
   ]
 ]
