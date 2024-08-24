@@ -21,6 +21,7 @@
 * [2024-08-19, 20:33:25](https://news.ycombinator.com/item?id=41294354) - [Court Sees Through California's 'Protect the Children' Ruse, Strikes Down AADC](https://www.techdirt.com/2024/08/19/court-sees-through-californias-protect-the-children-ruse-strikes-down-kids-code/)
 * [2024-08-19, 20:29:45](https://news.ycombinator.com/item?id=41294332) - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 * [2024-08-19, 20:17:35](https://news.ycombinator.com/item?id=41294254) - [JavaScript weakmaps should be iterable](https://wingolog.org/archives/2024/08/19/javascript-weakmaps-should-be-iterable)
+* [2024-08-19, 20:13:09](https://news.ycombinator.com/item?id=41294217) - [Chaos theory shows long-distance relationship in seemingly behavior of whales](https://phys.org/news/2024-08-chaos-theory-approach-reveals-distance.html)
 * [2024-08-19, 20:10:48](https://news.ycombinator.com/item?id=41294202) - ['Rare species' not seen in the area for 50 years spotted on Arizona trail camera](https://phys.org/news/2024-08-rare-species-area-years-arizona.html)
 * [2024-08-19, 19:50:58](https://news.ycombinator.com/item?id=41294075) - [How to Make Wealth as a Startup Founder](https://blog.nishantsoni.com/p/how-to-think-about-liquidity-as-a)
 * [2024-08-19, 19:49:22](https://news.ycombinator.com/item?id=41294067) - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
