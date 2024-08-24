@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 21:47:08](https://news.ycombinator.com/item?id=41341873) - [Telegram CEO Pavel Durov Arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/)
 * [2024-08-24, 21:39:39](https://news.ycombinator.com/item?id=41341797) - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
 * [2024-08-24, 20:46:00](https://news.ycombinator.com/item?id=41341353) - [Telegram CEO Pavel Durov just got arrested in France](https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html)
 * [2024-08-24, 20:20:15](https://news.ycombinator.com/item?id=41341192) - [CORS Is Stupid](https://kevincox.ca/2024/08/24/cors/)
