@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=41335008"
     ],
     [
-      "Tesla starts scrubbing its Full Self Driving claims from official website",
+      "Tesla has taken down 2016 release noting full self driving hardware capability",
       "https://twitter.com/AdrianSumBond/status/1827105729859473773"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 02:09:05",
+      "https://news.ycombinator.com/item?id=41334964"
+    ],
+    [
+      "iPhone 16 could let you shoot in JPEG-XL",
+      "https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "An Overview of Datalog",
       "https://clojure.github.io/clojure-contrib/doc/datalog.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 01:35:15",
-      "https://news.ycombinator.com/item?id=41334802"
-    ],
-    [
-      "Ask HN: Struggle with project ideas? Heres some novel ideas you can build now",
-      "https://news.ycombinator.com/item?id=41334802"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-08-23, 20:52:57",
-      "https://news.ycombinator.com/item?id=41333011"
-    ],
-    [
-      "The Dawn of Decentralized Social Media",
-      "https://arxiv.org/abs/2408.03146"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 20:29:42",
       "https://news.ycombinator.com/item?id=41332811"
     ],
@@ -137,6 +127,16 @@
     [
       "We have reached OpenBSD of Theseus",
       "https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 18:49:33",
+      "https://news.ycombinator.com/item?id=41331851"
+    ],
+    [
+      "Microsoft formally deprecates the Windows Control Panel",
+      "https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/"
     ]
   ],
   [
@@ -275,18 +275,8 @@
       "https://news.ycombinator.com/item?id=41309870"
     ],
     [
-      "Ask HN: How do you keep track \"Log in with \" accounts",
+      "Ask HN: How do you keep track of “Log in with” accounts",
       "https://news.ycombinator.com/item?id=41309870"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 08:01:01",
-      "https://news.ycombinator.com/item?id=41307918"
-    ],
-    [
-      "Whisper-WebUI",
-      "https://github.com/jhj0517/Whisper-WebUI"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Playing Sudoku in TypeScript while the type checker highlights mistakes",
       "https://github.com/gruhn/typescript-sudoku"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 20:13:09",
+      "https://news.ycombinator.com/item?id=41294217"
+    ],
+    [
+      "Chaos theory shows long-distance relationship in seemingly behavior of whales",
+      "https://phys.org/news/2024-08-chaos-theory-approach-reveals-distance.html"
     ]
   ]
 ]
