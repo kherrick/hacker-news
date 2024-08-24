@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-08-24, 11:30:24",
+      "https://news.ycombinator.com/item?id=41337356"
+    ],
+    [
+      "Hot Page – a graphical site builder",
+      "https://hot.page/"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 11:23:14",
+      "https://news.ycombinator.com/item?id=41337322"
+    ],
+    [
+      "Sabotage Confirmed at Norwegian Air Base",
+      "https://www.twz.com/air/sabotage-confirmed-at-norwegian-air-base"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 11:08:32",
+      "https://news.ycombinator.com/item?id=41337271"
+    ],
+    [
+      "Observe HN: ChatGPT Fills in My Memory",
+      "https://news.ycombinator.com/item?id=41337271"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 10:14:50",
+      "https://news.ycombinator.com/item?id=41337034"
+    ],
+    [
+      "Why Ed-Tech Startups Don't Scale (2022)",
+      "https://giansegato.com/essays/why-edtech-startups-dont-scale"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 08:57:07",
       "https://news.ycombinator.com/item?id=41336690"
     ],
@@ -81,22 +121,22 @@
   ],
   [
     [
+      "2024-08-23, 21:01:15",
+      "https://news.ycombinator.com/item?id=41333059"
+    ],
+    [
+      "Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)",
+      "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 20:29:42",
       "https://news.ycombinator.com/item?id=41332811"
     ],
     [
       "Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs",
       "https://github.com/ptrsr/pi-ci"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 19:46:40",
-      "https://news.ycombinator.com/item?id=41332427"
-    ],
-    [
-      "My IRC client runs on Kubernetes",
-      "https://xeiaso.net/blog/2024/k8s-irc-client/"
     ]
   ],
   [
@@ -157,26 +197,6 @@
     [
       "OpenSSH Backdoors",
       "https://blog.isosceles.com/openssh-backdoors/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 15:20:20",
-      "https://news.ycombinator.com/item?id=41329750"
-    ],
-    [
-      "Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks",
-      "https://news.ycombinator.com/item?id=41329750"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 14:50:09",
-      "https://news.ycombinator.com/item?id=41329505"
-    ],
-    [
-      "SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99",
-      "https://github.com/dpjudas/SurrealEngine"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-08-21, 12:22:18",
-      "https://news.ycombinator.com/item?id=41309561"
-    ],
-    [
-      "Recording and Processing Spoken Word",
-      "https://tratt.net/laurie/blog/2024/recording_and_processing_spoken_word.html"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 22:10:48",
       "https://news.ycombinator.com/item?id=41304610"
     ],
     [
       "Origins of the Lab Mouse",
       "https://www.asimov.press/p/lab-mouse"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 10:54:00",
-      "https://news.ycombinator.com/item?id=41298774"
-    ],
-    [
-      "On Writing Well",
-      "https://zodvik.com/posts/on-writing-well/"
     ]
   ],
   [
