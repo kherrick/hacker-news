@@ -8,6 +8,7 @@
 * [2024-08-24, 21:47:08](https://news.ycombinator.com/item?id=41341873) - [Telegram CEO Pavel Durov Arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/)
 * [2024-08-24, 21:39:39](https://news.ycombinator.com/item?id=41341797) - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
 * [2024-08-24, 21:39:07](https://news.ycombinator.com/item?id=41341786) - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
+* [2024-08-24, 20:56:32](https://news.ycombinator.com/item?id=41341432) - [Black hole in orbit around planet could be sign of advanced civilization](https://phys.org/news/2024-08-professor-black-hole-orbit-planet.html)
 * [2024-08-24, 20:55:51](https://news.ycombinator.com/item?id=41341427) - [Founder and CEO of Telegram Pavel Durov Arrested in France at the Airport](https://twitter.com/igorsushko/status/1827448480693948673)
 * [2024-08-24, 20:46:00](https://news.ycombinator.com/item?id=41341353) - [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport)
 * [2024-08-24, 20:46:00](https://news.ycombinator.com/item?id=41341353) - [Telegram CEO Pavel Durov just got arrested in France](https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html)
