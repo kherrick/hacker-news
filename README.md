@@ -17,7 +17,6 @@
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 16:14:54](https://news.ycombinator.com/item?id=41330258) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [2024-08-23, 15:20:20](https://news.ycombinator.com/item?id=41329750) - [Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks](https://news.ycombinator.com/item?id=41329750)
-* [2024-08-23, 14:50:09](https://news.ycombinator.com/item?id=41329505) - [SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
 * [2024-08-23, 13:15:40](https://news.ycombinator.com/item?id=41328749) - [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
 * [2024-08-22, 18:22:14](https://news.ycombinator.com/item?id=41323042) - [LM Studio 0.3 – Discover, download, and run local LLMs](https://lmstudio.ai/blog/lmstudio-v0.3.0)
 * [2024-08-22, 18:01:01](https://news.ycombinator.com/item?id=41322818) - [How we built Townie – an app that generates fullstack apps](https://blog.val.town/blog/codegen/)
@@ -28,6 +27,7 @@
 * [2024-08-21, 12:54:14](https://news.ycombinator.com/item?id=41309793) - [The Advantage of Generational Knowledge (2022)](https://neuroleadership.com/your-brain-at-work/generational-knowledge)
 * [2024-08-21, 12:22:18](https://news.ycombinator.com/item?id=41309561) - [Recording and Processing Spoken Word](https://tratt.net/laurie/blog/2024/recording_and_processing_spoken_word.html)
 * [2024-08-20, 22:10:48](https://news.ycombinator.com/item?id=41304610) - [Origins of the Lab Mouse](https://www.asimov.press/p/lab-mouse)
+* [2024-08-20, 22:09:44](https://news.ycombinator.com/item?id=41304600) - ['It could disappear for ever': Anger over sale of George Orwell archive](https://www.theguardian.com/books/article/2024/aug/17/it-could-disappear-for-ever-anger-over-sale-of-george-orwell-archive)
 * [2024-08-20, 10:54:00](https://news.ycombinator.com/item?id=41298774) - [On Writing Well](https://zodvik.com/posts/on-writing-well/)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 

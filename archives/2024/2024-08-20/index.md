@@ -7,6 +7,7 @@
 * [2024-08-20, 23:47:22](https://news.ycombinator.com/item?id=41305272) - [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
 * [2024-08-20, 22:19:53](https://news.ycombinator.com/item?id=41304695) - [US Judge Strikes Down Ban on Worker 'Noncompete' Agreements](https://www.reuters.com/legal/us-judge-strikes-down-biden-administration-ban-worker-noncompete-agreements-2024-08-20/)
 * [2024-08-20, 22:10:48](https://news.ycombinator.com/item?id=41304610) - [Origins of the Lab Mouse](https://www.asimov.press/p/lab-mouse)
+* [2024-08-20, 22:09:44](https://news.ycombinator.com/item?id=41304600) - ['It could disappear for ever': Anger over sale of George Orwell archive](https://www.theguardian.com/books/article/2024/aug/17/it-could-disappear-for-ever-anger-over-sale-of-george-orwell-archive)
 * [2024-08-20, 21:56:05](https://news.ycombinator.com/item?id=41304508) - [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 * [2024-08-20, 21:36:12](https://news.ycombinator.com/item?id=41304335) - [Taichi: Productive, portable, and performant GPU programming in Python](https://github.com/taichi-dev/taichi)
 * [2024-08-20, 21:00:26](https://news.ycombinator.com/item?id=41304014) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
