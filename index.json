@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-24, 09:54:24",
-      "https://news.ycombinator.com/item?id=41336944"
-    ],
-    [
-      "What if Germany had invested in nuclear power?",
-      "https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 08:57:07",
       "https://news.ycombinator.com/item?id=41336690"
     ],
@@ -27,6 +17,16 @@
     [
       "Reddit banned me for developing Geddit",
       "https://www.buzl.uk/2024/08/24/reddit.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 07:39:40",
+      "https://news.ycombinator.com/item?id=41336374"
+    ],
+    [
+      "Create an internal CLI using Just",
+      "https://blog.chay.dev/create-an-internal-cli/"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs",
       "https://github.com/ptrsr/pi-ci"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 19:46:40",
+      "https://news.ycombinator.com/item?id=41332427"
+    ],
+    [
+      "My IRC client runs on Kubernetes",
+      "https://xeiaso.net/blog/2024/k8s-irc-client/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Origins of the Lab Mouse",
       "https://www.asimov.press/p/lab-mouse"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 22:09:44",
-      "https://news.ycombinator.com/item?id=41304600"
-    ],
-    [
-      "'It could disappear for ever': Anger over sale of George Orwell archive",
-      "https://www.theguardian.com/books/article/2024/aug/17/it-could-disappear-for-ever-anger-over-sale-of-george-orwell-archive"
     ]
   ],
   [
