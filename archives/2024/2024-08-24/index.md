@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 19:18:29](https://news.ycombinator.com/item?id=41340700) - [X is partly funded by sanctioned oligarchs](https://twitter.com/HeatherBurgundy/status/1827303361106108789)
 * [2024-08-24, 18:22:39](https://news.ycombinator.com/item?id=41340233) - [NASA says astronauts stuck in orbit to return February, not on Boeing Starliner](https://www.theguardian.com/science/article/2024/aug/24/nasa-astronauts-return-february-spacex)
 * [2024-08-24, 18:04:19](https://news.ycombinator.com/item?id=41340076) - [With Power Comes Great Responsibility Platforms Want to Be Utilities (2021)](https://www.eff.org/deeplinks/2021/08/utilities-governed-empires)
 * [2024-08-24, 17:41:48](https://news.ycombinator.com/item?id=41339885) - [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)
