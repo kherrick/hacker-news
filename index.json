@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-24, 02:18:15",
-      "https://news.ycombinator.com/item?id=41335008"
-    ],
-    [
-      "Tesla has taken down 2016 release noting full self driving hardware capability",
-      "https://twitter.com/AdrianSumBond/status/1827105729859473773"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 02:09:05",
       "https://news.ycombinator.com/item?id=41334964"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41334910"
     ],
     [
-      "An Overview of Datalog",
+      "An Overview of Datalog (2010)",
       "https://clojure.github.io/clojure-contrib/doc/datalog.html"
     ]
   ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2024-08-23, 13:11:43",
-      "https://news.ycombinator.com/item?id=41328712"
-    ],
-    [
-      "AI training shouldn't erase authorship",
-      "https://justine.lol/history/"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 18:01:01",
       "https://news.ycombinator.com/item?id=41322818"
     ],
@@ -277,6 +257,26 @@
     [
       "Ask HN: How do you keep track of “Log in with” accounts",
       "https://news.ycombinator.com/item?id=41309870"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 12:54:14",
+      "https://news.ycombinator.com/item?id=41309793"
+    ],
+    [
+      "The Advantage of Generational Knowledge (2022)",
+      "https://neuroleadership.com/your-brain-at-work/generational-knowledge"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 08:01:01",
+      "https://news.ycombinator.com/item?id=41307918"
+    ],
+    [
+      "Whisper-WebUI",
+      "https://github.com/jhj0517/Whisper-WebUI"
     ]
   ],
   [
