@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 23:12:18](https://news.ycombinator.com/item?id=41342637) - [Defenders think in lists. Attackers think in graphs. So attackers win](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
 * [2024-08-24, 22:00:34](https://news.ycombinator.com/item?id=41342017) - [Ask HN: What are you working on (August 2024)?](https://news.ycombinator.com/item?id=41342017)
 * [2024-08-24, 21:47:08](https://news.ycombinator.com/item?id=41341873) - [Telegram CEO Pavel Durov Arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/)
+* [2024-08-24, 21:41:21](https://news.ycombinator.com/item?id=41341817) - [Birds Aren't Real – How to Create Your Own \"Bird\"](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
 * [2024-08-24, 21:39:39](https://news.ycombinator.com/item?id=41341797) - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
 * [2024-08-24, 21:39:07](https://news.ycombinator.com/item?id=41341786) - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
 * [2024-08-24, 20:56:32](https://news.ycombinator.com/item?id=41341432) - [Black hole in orbit around planet could be sign of advanced civilization](https://phys.org/news/2024-08-professor-black-hole-orbit-planet.html)
