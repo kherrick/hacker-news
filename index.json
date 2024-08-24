@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-08-24, 18:04:19",
-      "https://news.ycombinator.com/item?id=41340076"
-    ],
-    [
-      "With Power Comes Great Responsibility Platforms Want to Be Utilities (2021)",
-      "https://www.eff.org/deeplinks/2021/08/utilities-governed-empires"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 17:41:48",
       "https://news.ycombinator.com/item?id=41339885"
     ],
@@ -57,6 +47,16 @@
     [
       "OneText (YC W23) Is Hiring a Chief of Staff",
       "https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 16:53:32",
+      "https://news.ycombinator.com/item?id=41339537"
+    ],
+    [
+      "Biorecap: An R package for summarizing bioRxiv preprints with a local LLM",
+      "https://blog.stephenturner.us/p/biorecap-r-package-for-summarizing-biorxiv-preprints-local-llm"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-08-24, 14:40:21",
+      "https://news.ycombinator.com/item?id=41338661"
+    ],
+    [
+      "Julius: Open-source reimplementation of Caesar III",
+      "https://github.com/bvschaik/julius"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 13:57:56",
       "https://news.ycombinator.com/item?id=41338354"
     ],
@@ -217,16 +227,6 @@
     [
       "Adding 16 kb page size to Android",
       "https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 18:22:14",
-      "https://news.ycombinator.com/item?id=41323042"
-    ],
-    [
-      "LM Studio 0.3 – Discover, download, and run local LLMs",
-      "https://lmstudio.ai/blog/lmstudio-v0.3.0"
     ]
   ],
   [
