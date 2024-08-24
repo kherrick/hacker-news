@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-24, 12:50:05](https://news.ycombinator.com/item?id=41337899) - [Contempt for the Glue People](https://surfingcomplexity.blog/2021/08/28/contempt-for-the-glue-people/)
 * [2024-08-24, 12:02:20](https://news.ycombinator.com/item?id=41337553) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-08-24, 11:40:17](https://news.ycombinator.com/item?id=41337413) - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-24, 11:30:24](https://news.ycombinator.com/item?id=41337356) - [Hot Page – a graphical site builder](https://hot.page/)
@@ -7,7 +8,6 @@
 * [2024-08-24, 11:19:06](https://news.ycombinator.com/item?id=41337307) - [Scientists Build a Simple Gel 'Brain' That Learns How to Play Pong Better](https://www.sciencealert.com/scientists-build-a-simple-gel-brain-that-learns-how-to-play-pong-better)
 * [2024-08-24, 10:14:50](https://news.ycombinator.com/item?id=41337034) - [Why Ed-Tech Startups Don't Scale (2022)](https://giansegato.com/essays/why-edtech-startups-dont-scale)
 * [2024-08-24, 08:57:07](https://news.ycombinator.com/item?id=41336690) - [Japan on edge of EUV lithography chip-making revolution](https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/)
-* [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
 * [2024-08-24, 07:39:40](https://news.ycombinator.com/item?id=41336374) - [Create an internal CLI using Just](https://blog.chay.dev/create-an-internal-cli/)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
