@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-24, 16:23:46",
+      "https://news.ycombinator.com/item?id=41339308"
+    ],
+    [
+      "Show HN: Visualize database schemas with a single query",
+      "https://github.com/chartdb/chartdb"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 15:21:46",
       "https://news.ycombinator.com/item?id=41338913"
     ],
@@ -87,16 +97,6 @@
     [
       "An Overview of Datalog (2010)",
       "https://clojure.github.io/clojure-contrib/doc/datalog.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 00:22:13",
-      "https://news.ycombinator.com/item?id=41334387"
-    ],
-    [
-      "Makefiles for Web Work (2022)",
-      "https://rosszurowski.com/log/2022/makefiles"
     ]
   ],
   [
