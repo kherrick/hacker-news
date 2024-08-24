@@ -2,6 +2,7 @@
 
 * [2024-08-24, 02:09:05](https://news.ycombinator.com/item?id=41334964) - [iPhone 16 could let you shoot in JPEG-XL](https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
+* [2024-08-24, 00:22:13](https://news.ycombinator.com/item?id=41334387) - [Makefiles for Web Work (2022)](https://rosszurowski.com/log/2022/makefiles)
 * [2024-08-23, 23:54:28](https://news.ycombinator.com/item?id=41334207) - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 * [2024-08-23, 22:31:45](https://news.ycombinator.com/item?id=41333648) - [Show HN: Omi – Open-source AI wearable for capturing conversations](https://github.com/BasedHardware/Omi)
 * [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
@@ -25,7 +26,6 @@
 * [2024-08-22, 18:01:01](https://news.ycombinator.com/item?id=41322818) - [How we built Townie – an app that generates fullstack apps](https://blog.val.town/blog/codegen/)
 * [2024-08-22, 04:24:22](https://news.ycombinator.com/item?id=41316807) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 * [2024-08-21, 18:27:56](https://news.ycombinator.com/item?id=41312834) - [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
-* [2024-08-21, 13:03:23](https://news.ycombinator.com/item?id=41309870) - [Ask HN: How do you keep track of “Log in with” accounts](https://news.ycombinator.com/item?id=41309870)
 * [2024-08-21, 12:54:14](https://news.ycombinator.com/item?id=41309793) - [The Advantage of Generational Knowledge (2022)](https://neuroleadership.com/your-brain-at-work/generational-knowledge)
 * [2024-08-21, 08:01:01](https://news.ycombinator.com/item?id=41307918) - [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
