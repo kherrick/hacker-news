@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-24, 09:54:24](https://news.ycombinator.com/item?id=41336944) - [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642)
 * [2024-08-24, 08:57:07](https://news.ycombinator.com/item?id=41336690) - [Japan on edge of EUV lithography chip-making revolution](https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/)
 * [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
+* [2024-08-24, 07:39:40](https://news.ycombinator.com/item?id=41336374) - [Create an internal CLI using Just](https://blog.chay.dev/create-an-internal-cli/)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
 * [2024-08-24, 00:22:13](https://news.ycombinator.com/item?id=41334387) - [Makefiles for Web Work (2022)](https://rosszurowski.com/log/2022/makefiles)
@@ -10,6 +10,7 @@
 * [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
 * [2024-08-23, 21:29:44](https://news.ycombinator.com/item?id=41333284) - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
 * [2024-08-23, 20:29:42](https://news.ycombinator.com/item?id=41332811) - [Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs](https://github.com/ptrsr/pi-ci)
+* [2024-08-23, 19:46:40](https://news.ycombinator.com/item?id=41332427) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-23, 19:39:11](https://news.ycombinator.com/item?id=41332342) - [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 18:49:33](https://news.ycombinator.com/item?id=41331851) - [Microsoft formally deprecates the Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [2024-08-23, 18:17:38](https://news.ycombinator.com/item?id=41331531) - [Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
@@ -27,7 +28,6 @@
 * [2024-08-21, 12:54:14](https://news.ycombinator.com/item?id=41309793) - [The Advantage of Generational Knowledge (2022)](https://neuroleadership.com/your-brain-at-work/generational-knowledge)
 * [2024-08-21, 12:22:18](https://news.ycombinator.com/item?id=41309561) - [Recording and Processing Spoken Word](https://tratt.net/laurie/blog/2024/recording_and_processing_spoken_word.html)
 * [2024-08-20, 22:10:48](https://news.ycombinator.com/item?id=41304610) - [Origins of the Lab Mouse](https://www.asimov.press/p/lab-mouse)
-* [2024-08-20, 22:09:44](https://news.ycombinator.com/item?id=41304600) - ['It could disappear for ever': Anger over sale of George Orwell archive](https://www.theguardian.com/books/article/2024/aug/17/it-could-disappear-for-ever-anger-over-sale-of-george-orwell-archive)
 * [2024-08-20, 10:54:00](https://news.ycombinator.com/item?id=41298774) - [On Writing Well](https://zodvik.com/posts/on-writing-well/)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 
