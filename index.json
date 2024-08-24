@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-08-24, 16:04:28",
+      "https://news.ycombinator.com/item?id=41339163"
+    ],
+    [
+      "Foundation for Human Vision Models",
+      "https://github.com/facebookresearch/sapiens"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 15:21:46",
       "https://news.ycombinator.com/item?id=41338913"
     ],
@@ -247,16 +257,6 @@
     [
       "Async hazard: MMAP is blocking IO",
       "https://huonw.github.io/blog/2024/08/async-hazard-mmap/"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 15:32:14",
-      "https://news.ycombinator.com/item?id=41311269"
-    ],
-    [
-      "Moom 4: Next-generation window manager",
-      "https://manytricks.com/blog/?p=6385"
     ]
   ],
   [
