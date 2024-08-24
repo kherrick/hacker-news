@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 18:04:19](https://news.ycombinator.com/item?id=41340076) - [With Power Comes Great Responsibility Platforms Want to Be Utilities (2021)](https://www.eff.org/deeplinks/2021/08/utilities-governed-empires)
+* [2024-08-24, 17:41:48](https://news.ycombinator.com/item?id=41339885) - [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)
 * [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
 * [2024-08-24, 17:14:13](https://news.ycombinator.com/item?id=41339668) - [Starliner astronauts will return to Earth on SpaceX Dragon](https://twitter.com/SciGuySpace/status/1827393747010908548)
 * [2024-08-24, 17:14:09](https://news.ycombinator.com/item?id=41339667) - [NASA Announces Boeing Starliner Crew Will Return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
