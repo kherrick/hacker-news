@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-23, 23:54:28",
+      "https://news.ycombinator.com/item?id=41334207"
+    ],
+    [
+      "Did you lose your AirPods?",
+      "https://alexyancey.com/lost-airpods/"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 22:31:45",
       "https://news.ycombinator.com/item?id=41333648"
     ],
@@ -81,22 +91,22 @@
   ],
   [
     [
+      "2024-08-23, 20:52:57",
+      "https://news.ycombinator.com/item?id=41333011"
+    ],
+    [
+      "The Dawn of Decentralized Social Media",
+      "https://arxiv.org/abs/2408.03146"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 20:29:42",
       "https://news.ycombinator.com/item?id=41332811"
     ],
     [
       "Pi-CI – A RasPi 5 emulator in a Docker image for creating and flashing configs",
       "https://github.com/ptrsr/pi-ci"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 20:18:29",
-      "https://news.ycombinator.com/item?id=41332732"
-    ],
-    [
-      "Liger-Kernel: Efficient Triton kernels for LLM training",
-      "https://github.com/linkedin/Liger-Kernel"
     ]
   ],
   [
@@ -127,6 +137,16 @@
     [
       "We have reached OpenBSD of Theseus",
       "https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 18:17:38",
+      "https://news.ycombinator.com/item?id=41331531"
+    ],
+    [
+      "Author-paid publication fees corrupt science and should be abandoned",
+      "https://osf.io/preprints/osf/3ez9v"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2024-08-23, 12:32:15",
-      "https://news.ycombinator.com/item?id=41328447"
-    ],
-    [
-      "Nanolog supports logging with 7 ns median latency",
-      "https://github.com/PlatformLab/NanoLog"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 06:36:29",
-      "https://news.ycombinator.com/item?id=41326604"
-    ],
-    [
-      "We need to liberate the Postcode Address File",
-      "https://takes.jamesomalley.co.uk/p/secret-paf-report"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 18:01:01",
       "https://news.ycombinator.com/item?id=41322818"
     ],
@@ -247,6 +247,16 @@
     [
       "About the IMGUI Paradigm",
       "https://github.com/ocornut/imgui/wiki/About-the-IMGUI-paradigm"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 16:37:35",
+      "https://news.ycombinator.com/item?id=41322001"
+    ],
+    [
+      "Arroost: Unblocking Creation with Friends",
+      "https://www.todepond.com/report/arroost/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Whisper-WebUI",
       "https://github.com/jhj0517/Whisper-WebUI"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 18:36:34",
-      "https://news.ycombinator.com/item?id=41302695"
-    ],
-    [
-      "SwissMicros DM32 Released [video]",
-      "https://www.youtube.com/watch?v=xyLr8z5-q5Q"
     ]
   ],
   [
