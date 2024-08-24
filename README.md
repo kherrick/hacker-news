@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-24, 13:05:14](https://news.ycombinator.com/item?id=41338000) - [Against all odds, an asteroid mining company appears to be making headway](https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/)
-* [2024-08-24, 12:50:05](https://news.ycombinator.com/item?id=41337899) - [Contempt for the Glue People](https://surfingcomplexity.blog/2021/08/28/contempt-for-the-glue-people/)
 * [2024-08-24, 12:02:20](https://news.ycombinator.com/item?id=41337553) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-* [2024-08-24, 12:01:35](https://news.ycombinator.com/item?id=41337542) - [Ask HN: What's your experience with Cursor and Sonnet 3.5 for coding?](https://news.ycombinator.com/item?id=41337542)
 * [2024-08-24, 11:30:24](https://news.ycombinator.com/item?id=41337356) - [Hot Page – a graphical site builder](https://hot.page/)
 * [2024-08-24, 11:23:14](https://news.ycombinator.com/item?id=41337322) - [Sabotage Confirmed at Norwegian Air Base](https://www.twz.com/air/sabotage-confirmed-at-norwegian-air-base)
 * [2024-08-24, 11:19:06](https://news.ycombinator.com/item?id=41337307) - [Scientists Build a Simple Gel 'Brain' That Learns How to Play Pong Better](https://www.sciencealert.com/scientists-build-a-simple-gel-brain-that-learns-how-to-play-pong-better)
@@ -21,6 +19,7 @@
 * [2024-08-23, 18:00:17](https://news.ycombinator.com/item?id=41331369) - [Meta cancels high-end mixed reality headset after Apple Vision Pro struggles](https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 16:14:54](https://news.ycombinator.com/item?id=41330258) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
+* [2024-08-23, 15:20:20](https://news.ycombinator.com/item?id=41329750) - [Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks](https://news.ycombinator.com/item?id=41329750)
 * [2024-08-23, 13:15:40](https://news.ycombinator.com/item?id=41328749) - [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
 * [2024-08-22, 18:22:14](https://news.ycombinator.com/item?id=41323042) - [LM Studio 0.3 – Discover, download, and run local LLMs](https://lmstudio.ai/blog/lmstudio-v0.3.0)
 * [2024-08-22, 07:03:58](https://news.ycombinator.com/item?id=41317561) - [Microwaves: A Haven for Bacterial Diversity](https://tecscience.tec.mx/en/biotechnology/bacteria-in-microwave/)
@@ -29,6 +28,7 @@
 * [2024-08-21, 18:27:56](https://news.ycombinator.com/item?id=41312834) - [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
 * [2024-08-21, 14:54:42](https://news.ycombinator.com/item?id=41310921) - [The UX of HTML (2023)](https://www.htmhell.dev/adventcalendar/2023/1/)
 * [2024-08-21, 14:27:37](https://news.ycombinator.com/item?id=41310637) - [Don't obsess over tax and legal structures](https://emeaentrepreneurs.com/anti/dont-obsess-over-tax/)
+* [2024-08-20, 22:10:48](https://news.ycombinator.com/item?id=41304610) - [Origins of the Lab Mouse](https://www.asimov.press/p/lab-mouse)
 * [2024-08-19, 21:18:19](https://news.ycombinator.com/item?id=41294663) - [Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 
 ## [Archives](archives/index.md)
