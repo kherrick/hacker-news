@@ -2,7 +2,6 @@
 
 * [2024-08-24, 08:57:07](https://news.ycombinator.com/item?id=41336690) - [Japan on edge of EUV lithography chip-making revolution](https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/)
 * [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
-* [2024-08-24, 07:39:40](https://news.ycombinator.com/item?id=41336374) - [Create an internal CLI using Just](https://blog.chay.dev/create-an-internal-cli/)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
 * [2024-08-24, 00:22:13](https://news.ycombinator.com/item?id=41334387) - [Makefiles for Web Work (2022)](https://rosszurowski.com/log/2022/makefiles)
@@ -18,6 +17,7 @@
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 16:14:54](https://news.ycombinator.com/item?id=41330258) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [2024-08-23, 15:20:20](https://news.ycombinator.com/item?id=41329750) - [Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks](https://news.ycombinator.com/item?id=41329750)
+* [2024-08-23, 14:50:09](https://news.ycombinator.com/item?id=41329505) - [SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
 * [2024-08-23, 13:15:40](https://news.ycombinator.com/item?id=41328749) - [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
 * [2024-08-22, 18:22:14](https://news.ycombinator.com/item?id=41323042) - [LM Studio 0.3 – Discover, download, and run local LLMs](https://lmstudio.ai/blog/lmstudio-v0.3.0)
 * [2024-08-22, 18:01:01](https://news.ycombinator.com/item?id=41322818) - [How we built Townie – an app that generates fullstack apps](https://blog.val.town/blog/codegen/)
