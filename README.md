@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-24, 20:20:15](https://news.ycombinator.com/item?id=41341192) - [CORS Is Stupid](https://kevincox.ca/2024/08/24/cors/)
 * [2024-08-24, 19:49:25](https://news.ycombinator.com/item?id=41340948) - [The Vital Necessity of Old Books (2023)](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
 * [2024-08-24, 19:40:18](https://news.ycombinator.com/item?id=41340874) - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
 * [2024-08-24, 19:28:19](https://news.ycombinator.com/item?id=41340777) - [Karpathy on VS Code Cursor and Sonnet 3.5 vs. GitHub Copilot](https://twitter.com/karpathy/status/1827143768459637073)
@@ -21,6 +20,7 @@
 * [2024-08-21, 17:01:05](https://news.ycombinator.com/item?id=41312124) - [Async hazard: MMAP is blocking IO](https://huonw.github.io/blog/2024/08/async-hazard-mmap/)
 * [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-21, 15:14:38](https://news.ycombinator.com/item?id=41311122) - [Military Motivation and Frontier Maintenance](https://acoup.blog/2024/08/16/fireside-friday-august-16-2024/)
+* [2024-08-21, 14:53:45](https://news.ycombinator.com/item?id=41310903) - [Pong.bash](https://0x0.st/XJg2.bash)
 * [2024-08-21, 14:53:33](https://news.ycombinator.com/item?id=41310899) - [The Elegant Universe: 25th Anniversary Edition](https://www.math.columbia.edu/~woit/wordpress/?p=14092)
 * [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 * [2024-08-21, 14:12:14](https://news.ycombinator.com/item?id=41310491) - [CNCFsweeper](https://cncfsweeper.netlify.app/)
