@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-24, 19:18:29",
-      "https://news.ycombinator.com/item?id=41340700"
+      "2024-08-24, 19:40:18",
+      "https://news.ycombinator.com/item?id=41340874"
     ],
     [
-      "X is partly funded by sanctioned oligarchs",
-      "https://twitter.com/HeatherBurgundy/status/1827303361106108789"
+      "Show HN: High school robotics code/CAD/design binder release",
+      "https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "JavaScript dates are about to be fixed",
       "https://docs.timetime.in/blog/js-dates-finally-fixed"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 16:35:55",
-      "https://news.ycombinator.com/item?id=41339407"
-    ],
-    [
-      "Carmack on Oculus, Minecraft, Meta and Microsoft",
-      "https://twitter.com/ID_AA_Carmack/status/1827363452194619692"
     ]
   ],
   [
@@ -151,32 +141,12 @@
   ],
   [
     [
-      "2024-08-24, 13:57:56",
-      "https://news.ycombinator.com/item?id=41338354"
-    ],
-    [
-      "You are not dumb, you just lack the prerequisites",
-      "https://lelouch.dev/blog/you-are-probably-not-dumb/"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 13:46:31",
       "https://news.ycombinator.com/item?id=41338285"
     ],
     [
       "A $10k stipend is available for anyone moving to Cumberland, MD",
       "https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 13:05:14",
-      "https://news.ycombinator.com/item?id=41338000"
-    ],
-    [
-      "Against all odds, an asteroid mining company appears to be making headway",
-      "https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/"
     ]
   ],
   [
@@ -201,26 +171,6 @@
   ],
   [
     [
-      "2024-08-23, 19:39:11",
-      "https://news.ycombinator.com/item?id=41332342"
-    ],
-    [
-      "We have reached OpenBSD of Theseus",
-      "https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 18:17:38",
-      "https://news.ycombinator.com/item?id=41331531"
-    ],
-    [
-      "Author-paid publication fees corrupt science and should be abandoned",
-      "https://osf.io/preprints/osf/3ez9v"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 04:24:22",
       "https://news.ycombinator.com/item?id=41316807"
     ],
@@ -241,6 +191,16 @@
   ],
   [
     [
+      "2024-08-21, 15:50:18",
+      "https://news.ycombinator.com/item?id=41311416"
+    ],
+    [
+      "Techniques for safe garbage collection in Rust",
+      "https://kyju.org/blog/rust-safe-garbage-collection/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 15:14:38",
       "https://news.ycombinator.com/item?id=41311122"
     ],
@@ -251,12 +211,42 @@
   ],
   [
     [
+      "2024-08-21, 14:53:45",
+      "https://news.ycombinator.com/item?id=41310903"
+    ],
+    [
+      "Pong.bash",
+      "https://0x0.st/XJg2.bash"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 14:53:33",
+      "https://news.ycombinator.com/item?id=41310899"
+    ],
+    [
+      "The Elegant Universe: 25th Anniversary Edition",
+      "https://www.math.columbia.edu/~woit/wordpress/?p=14092"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 14:45:16",
       "https://news.ycombinator.com/item?id=41310822"
     ],
     [
       "Compressing data with sample points and polynomial interpolation",
       "https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 14:12:14",
+      "https://news.ycombinator.com/item?id=41310491"
+    ],
+    [
+      "CNCFsweeper",
+      "https://cncfsweeper.netlify.app/"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2024-08-20, 19:05:37",
-      "https://news.ycombinator.com/item?id=41302950"
+      "2024-08-21, 13:17:12",
+      "https://news.ycombinator.com/item?id=41309997"
     ],
     [
-      "Windows 0-day was exploited by North Korea to install advanced rootkit",
-      "https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/"
+      "ArcticDB: Why a Hedge Fund Built Its Own Database",
+      "https://www.infoq.com/presentations/arcticdb/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 03:38:33",
+      "https://news.ycombinator.com/item?id=41306555"
+    ],
+    [
+      "Exploring Impact of Code in Pre-Training",
+      "https://arxiv.org/abs/2408.10914"
     ]
   ],
   [
