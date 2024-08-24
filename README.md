@@ -11,7 +11,6 @@
 * [2024-08-24, 16:47:12](https://news.ycombinator.com/item?id=41339493) - [JavaScript dates are about to be fixed](https://docs.timetime.in/blog/js-dates-finally-fixed)
 * [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 16:04:28](https://news.ycombinator.com/item?id=41339163) - [Foundation for Human Vision Models](https://github.com/facebookresearch/sapiens)
-* [2024-08-24, 15:21:46](https://news.ycombinator.com/item?id=41338913) - [Death Cafe](https://deathcafe.com/what/)
 * [2024-08-24, 15:15:04](https://news.ycombinator.com/item?id=41338877) - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
 * [2024-08-24, 14:50:31](https://news.ycombinator.com/item?id=41338729) - [Implementing React from Scratch](https://www.rob.directory/blog/react-from-scratch)
@@ -30,6 +29,7 @@
 * [2024-08-21, 13:17:12](https://news.ycombinator.com/item?id=41309997) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 * [2024-08-21, 03:38:33](https://news.ycombinator.com/item?id=41306555) - [Exploring Impact of Code in Pre-Training](https://arxiv.org/abs/2408.10914)
 * [2024-08-20, 19:05:37](https://news.ycombinator.com/item?id=41302950) - [Windows 0-day was exploited by North Korea to install advanced rootkit](https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/)
+* [2024-08-20, 15:22:27](https://news.ycombinator.com/item?id=41300888) - [Software possession for personal use](https://olano.dev/blog/software-possession-for-personal-use/)
 
 ## [Archives](archives/index.md)
 
