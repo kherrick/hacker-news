@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-25, 17:47:21](https://news.ycombinator.com/item?id=41349443) - [The art of programming and why I won't use LLM](https://kennethnym.com/blog/why-i-still-wont-use-llm/)
-* [2024-08-25, 16:53:44](https://news.ycombinator.com/item?id=41348874) - [Bananas almost went extinct 70 years ago – Now a deadly fungus is trying again](https://studyfinds.org/bananas-extinct-deadly-fungus/)
 * [2024-08-25, 16:37:59](https://news.ycombinator.com/item?id=41348683) - [Man Arrested for Creating Child Porn Using AI](https://futurism.com/the-byte/man-arrested-csam-ai)
 * [2024-08-25, 16:35:52](https://news.ycombinator.com/item?id=41348659) - [Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing](https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311)
 * [2024-08-25, 16:34:05](https://news.ycombinator.com/item?id=41348631) - [BuffDB is a Rust library to simplify multi-plexing on edge devices](https://github.com/buffdb/buffdb)
@@ -17,6 +16,7 @@
 * [2024-08-25, 14:45:41](https://news.ycombinator.com/item?id=41347661) - [4.6M Voter and Election Documents Exposed Online by Technology Contractor](https://www.vpnmentor.com/news/report-election-records-breach/)
 * [2024-08-25, 13:48:08](https://news.ycombinator.com/item?id=41347290) - [Speeding Up Your Website Using Cloudflare Cache](https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
+* [2024-08-25, 12:07:17](https://news.ycombinator.com/item?id=41346712) - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 * [2024-08-25, 00:05:44](https://news.ycombinator.com/item?id=41343024) - [Looming Liability Machines (LLMs)](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
 * [2024-08-24, 23:12:18](https://news.ycombinator.com/item?id=41342637) - [Defenders think in lists, attackers think in graphs (2015)](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
