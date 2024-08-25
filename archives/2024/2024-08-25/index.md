@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
+* [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
 * [2024-08-25, 14:21:47](https://news.ycombinator.com/item?id=41347501) - [Things I Learned from Doing Triathlon in My 70s](https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-25, 12:55:02](https://news.ycombinator.com/item?id=41346955) - [Scientists achieve more than 98% efficiency removing nanoplastics from water](https://showme.missouri.edu/2024/mizzou-scientists-achieve-more-than-98-efficiency-removing-nanoplastics-from-water/)

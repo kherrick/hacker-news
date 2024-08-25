@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
+* [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-25, 12:07:17](https://news.ycombinator.com/item?id=41346712) - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
 * [2024-08-25, 12:07:06](https://news.ycombinator.com/item?id=41346711) - [Ask HN: Why not replace technical job interviews with yearly standardized exams?](https://news.ycombinator.com/item?id=41346711)
@@ -26,7 +27,6 @@
 * [2024-08-23, 11:05:10](https://news.ycombinator.com/item?id=41327933) - [Generating Mazes](https://healeycodes.com/generating-mazes)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-22, 21:55:56](https://news.ycombinator.com/item?id=41324688) - [A World Split Apart (1978)](https://www.solzhenitsyncenter.org/a-world-split-apart)
-* [2024-08-22, 20:23:57](https://news.ycombinator.com/item?id=41324086) - [Lessons in Mannerism at the Palazzo Del Te](https://daily.jstor.org/lessons-in-mannerism-at-the-palazzo-del-te/)
 * [2024-08-21, 15:58:40](https://news.ycombinator.com/item?id=41311489) - [Show HN: Permify 1.0 – Open-source fine-grained authorization service](https://github.com/Permify/permify)
 * [2024-08-21, 13:55:02](https://news.ycombinator.com/item?id=41310334) - [A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
 * [2024-08-21, 13:53:09](https://news.ycombinator.com/item?id=41310319) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
