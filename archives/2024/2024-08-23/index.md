@@ -30,6 +30,7 @@
 * [2024-08-23, 19:02:08](https://news.ycombinator.com/item?id=41332011) - [Show HN: Monogo – Evolve your go workspace to a real monorepo](https://github.com/nicolasgere/monogo)
 * [2024-08-23, 19:00:54](https://news.ycombinator.com/item?id=41331987) - [As cars and trucks get bigger and taller, lawmakers look to protect pedestrians](https://www.npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks)
 * [2024-08-23, 18:49:33](https://news.ycombinator.com/item?id=41331851) - [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
+* [2024-08-23, 18:19:11](https://news.ycombinator.com/item?id=41331541) - [Show HN: SplitScreen – Create dual-video content for TikTok, YouTube, Reels](https://splitscreen.studio/)
 * [2024-08-23, 18:17:38](https://news.ycombinator.com/item?id=41331531) - [Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
 * [2024-08-23, 18:00:17](https://news.ycombinator.com/item?id=41331369) - [Meta Cancels High-End Mixed Reality Headset After Apple Vision Pro Struggles](https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/)
 * [2024-08-23, 17:44:42](https://news.ycombinator.com/item?id=41331185) - [Bypass Paywalls Add-On Takedown Notice](https://github.com/github/dmca/blob/master/2024/08/2024-08-09-news-media-alliance.md)
