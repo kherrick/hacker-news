@@ -12,6 +12,7 @@
 * [2024-08-22, 22:39:57](https://news.ycombinator.com/item?id=41324905) - [ARRL IT Security Incident – $1M ransom](https://www.arrl.org/news/arrl-it-security-incident-report-to-members)
 * [2024-08-22, 22:07:19](https://news.ycombinator.com/item?id=41324735) - [Show HN: Bullshit-detector – quickly detect amount of bullshit in any text](https://github.com/pilotpirxie/bullshit-detector)
 * [2024-08-22, 21:55:56](https://news.ycombinator.com/item?id=41324688) - [A World Split Apart – Aleksandr Solzhenitsyn (1978)](https://www.solzhenitsyncenter.org/a-world-split-apart)
+* [2024-08-22, 20:23:57](https://news.ycombinator.com/item?id=41324086) - [Lessons in Mannerism at the Palazzo Del Te](https://daily.jstor.org/lessons-in-mannerism-at-the-palazzo-del-te/)
 * [2024-08-22, 20:03:33](https://news.ycombinator.com/item?id=41323925) - [Problem with Rescuing Stranded Astronauts: Spacesuits Aren't Compatible](https://futurism.com/stranded-astronauts-spacex-boeing-spacesuits-incompatible)
 * [2024-08-22, 20:03:24](https://news.ycombinator.com/item?id=41323923) - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-22, 19:05:47](https://news.ycombinator.com/item?id=41323454) - [What's Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
