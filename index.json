@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-08-25, 16:04:21",
+      "https://news.ycombinator.com/item?id=41348338"
+    ],
+    [
+      "Emulating the Early Macintosh Floppy Drive",
+      "https://thomasw.dev/post/mac-floppy-emu/"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 15:46:11",
+      "https://news.ycombinator.com/item?id=41348149"
+    ],
+    [
+      "Facebook Banned Me for Life Because I Help People Use It Less (2021)",
+      "https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 15:41:10",
       "https://news.ycombinator.com/item?id=41348096"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-08-25, 03:01:21",
-      "https://news.ycombinator.com/item?id=41344004"
-    ],
-    [
-      "Ruby's official documentation just got a new look",
-      "https://docs.ruby-lang.org/en/master/"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 02:46:52",
       "https://news.ycombinator.com/item?id=41343924"
     ],
@@ -137,16 +147,6 @@
     [
       "Ask HN: What are you working on (August 2024)?",
       "https://news.ycombinator.com/item?id=41342017"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 21:41:21",
-      "https://news.ycombinator.com/item?id=41341817"
-    ],
-    [
-      "Birds aren't real – how to create your own \"bird\"",
-      "https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-08-24, 11:16:57",
+      "https://news.ycombinator.com/item?id=41337301"
+    ],
+    [
+      "The Cryptographic Doom Principle (2011)",
+      "https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 09:14:34",
       "https://news.ycombinator.com/item?id=41336762"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: Permify 1.0 – Open-source fine-grained authorization service",
       "https://github.com/Permify/permify"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 15:50:18",
-      "https://news.ycombinator.com/item?id=41311416"
-    ],
-    [
-      "Techniques for safe garbage collection in Rust",
-      "https://kyju.org/blog/rust-safe-garbage-collection/"
     ]
   ],
   [
