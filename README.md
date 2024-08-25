@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-25, 12:55:02](https://news.ycombinator.com/item?id=41346955) - [Scientists achieve more than 98% efficiency removing nanoplastics from water](https://showme.missouri.edu/2024/mizzou-scientists-achieve-more-than-98-efficiency-removing-nanoplastics-from-water/)
 * [2024-08-25, 12:18:47](https://news.ycombinator.com/item?id=41346778) - [NASA's Starliner decision was the right one, but it's a crushing blow for Boeing](https://arstechnica.com/space/2024/08/after-latest-starliner-setback-will-boeing-ever-deliver-on-its-crew-contract/)
-* [2024-08-25, 11:26:44](https://news.ycombinator.com/item?id=41346476) - [MavenGate gets it all wrong and hurts open source](http://day-to-day-stuff.blogspot.com/2024/08/mavengate-gets-it-all-wrong-and-hurts.html)
+* [2024-08-25, 12:07:17](https://news.ycombinator.com/item?id=41346712) - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 * [2024-08-25, 03:01:21](https://news.ycombinator.com/item?id=41344004) - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
 * [2024-08-25, 02:46:52](https://news.ycombinator.com/item?id=41343924) - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
@@ -29,7 +30,6 @@
 * [2024-08-21, 15:58:40](https://news.ycombinator.com/item?id=41311489) - [Show HN: Permify 1.0 – Open-source fine-grained authorization service](https://github.com/Permify/permify)
 * [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-21, 13:55:02](https://news.ycombinator.com/item?id=41310334) - [A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
-* [2024-08-21, 13:17:12](https://news.ycombinator.com/item?id=41309997) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 
 ## [Archives](archives/index.md)
 
