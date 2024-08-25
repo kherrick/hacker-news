@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-08-24, 14:50:31",
+      "https://news.ycombinator.com/item?id=41338729"
+    ],
+    [
+      "Implementing React from Scratch",
+      "https://www.rob.directory/blog/react-from-scratch"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 14:40:21",
       "https://news.ycombinator.com/item?id=41338661"
     ],
@@ -247,16 +257,6 @@
     [
       "Degrees of Kevin Bacon Using Postgres",
       "https://www.crunchydata.com/blog/six-degrees-of-kevin-bacon-postgres-style"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 17:01:05",
-      "https://news.ycombinator.com/item?id=41312124"
-    ],
-    [
-      "Async hazard: MMAP is blocking IO",
-      "https://huonw.github.io/blog/2024/08/async-hazard-mmap/"
     ]
   ],
   [
