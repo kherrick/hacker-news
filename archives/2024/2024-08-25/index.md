@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
+* [2024-08-25, 21:34:44](https://news.ycombinator.com/item?id=41351662) - [Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
 * [2024-08-25, 21:08:06](https://news.ycombinator.com/item?id=41351446) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 * [2024-08-25, 20:42:02](https://news.ycombinator.com/item?id=41351219) - [Database \"sharding\" came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
@@ -19,9 +20,11 @@
 * [2024-08-25, 19:12:23](https://news.ycombinator.com/item?id=41350286) - [Los Angeles is in a 4-year sprint to deliver a car-free 2028 Olympics](https://theconversation.com/los-angeles-is-in-a-4-year-sprint-to-deliver-a-car-free-2028-olympics-236925)
 * [2024-08-25, 19:11:03](https://news.ycombinator.com/item?id=41350273) - [GenAI diminishes creativity instead of inspiration](https://dl.acm.org/doi/full/10.1145/3613904.3642919)
 * [2024-08-25, 19:05:20](https://news.ycombinator.com/item?id=41350225) - [TIL: Versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
+* [2024-08-25, 18:58:19](https://news.ycombinator.com/item?id=41350151) - [An AWS IAM Security Tooling Reference](https://ramimac.me/aws-iam-tools-2024)
 * [2024-08-25, 17:47:21](https://news.ycombinator.com/item?id=41349443) - [The art of programming and why I won't use LLM](https://kennethnym.com/blog/why-i-still-wont-use-llm/)
 * [2024-08-25, 17:27:02](https://news.ycombinator.com/item?id=41349252) - [Fair Source licensing is the worst thing to happen to open source-definitely ma](https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/)
 * [2024-08-25, 16:53:44](https://news.ycombinator.com/item?id=41348874) - [Bananas almost went extinct 70 years ago – Now a deadly fungus is trying again](https://studyfinds.org/bananas-extinct-deadly-fungus/)
+* [2024-08-25, 16:52:14](https://news.ycombinator.com/item?id=41348844) - [Linux Pipes Are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
 * [2024-08-25, 16:37:59](https://news.ycombinator.com/item?id=41348683) - [Man Arrested for Creating Child Porn Using AI](https://futurism.com/the-byte/man-arrested-csam-ai)
 * [2024-08-25, 16:35:52](https://news.ycombinator.com/item?id=41348659) - [Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing](https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311)
 * [2024-08-25, 16:34:05](https://news.ycombinator.com/item?id=41348631) - [BuffDB is a Rust library to simplify multi-plexing on edge devices](https://github.com/buffdb/buffdb)
