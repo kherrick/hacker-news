@@ -6,7 +6,7 @@
 * [2024-08-25, 21:08:06](https://news.ycombinator.com/item?id=41351446) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 * [2024-08-25, 20:42:02](https://news.ycombinator.com/item?id=41351219) - [Database \"sharding\" came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
-* [2024-08-25, 20:20:56](https://news.ycombinator.com/item?id=41351009) - [Olivetti Programma 101: At the Origins of the Personal Computer – Inexhibit](https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/)
+* [2024-08-25, 20:20:56](https://news.ycombinator.com/item?id=41351009) - [Olivetti Programma 101: At the Origins of the Personal Computer](https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/)
 * [2024-08-25, 20:14:27](https://news.ycombinator.com/item?id=41350940) - [Big Pharma claims lower prices means giving up miracle medications. Ignore them](https://www.vox.com/future-perfect/368538/medicare-drug-prices-pharma-negotiations-innovation)
 * [2024-08-25, 20:08:20](https://news.ycombinator.com/item?id=41350869) - [MacOS X Malware Development](https://0xf00sec.github.io/0x1A)
 * [2024-08-25, 20:07:09](https://news.ycombinator.com/item?id=41350854) - [Essays: NSA Surveillance: A Guide to Staying Secure – Schneier on Security](https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html)
