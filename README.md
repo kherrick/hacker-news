@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-25, 20:27:59](https://news.ycombinator.com/item?id=41351070) - [The Power of Attraction: How Beauty Influences Startup Investments](https://www.unisg.ch/en/newsdetail/news/the-power-of-attraction-study-about-attractiveness-bias/)
+* [2024-08-25, 20:14:27](https://news.ycombinator.com/item?id=41350940) - [Big Pharma claims lower prices means giving up miracle medications. Ignore them](https://www.vox.com/future-perfect/368538/medicare-drug-prices-pharma-negotiations-innovation)
 * [2024-08-25, 20:07:09](https://news.ycombinator.com/item?id=41350854) - [Essays: NSA Surveillance: A Guide to Staying Secure – Schneier on Security](https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html)
 * [2024-08-25, 19:34:53](https://news.ycombinator.com/item?id=41350530) - [Is Telegram really an encrypted messaging app?](https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/)
 * [2024-08-25, 19:26:02](https://news.ycombinator.com/item?id=41350438) - [Telegram: We abide by EU laws, including the Digital Services Act](https://twitter.com/telegram/status/1827787345367834772)
 * [2024-08-25, 19:21:20](https://news.ycombinator.com/item?id=41350396) - [Why is a Guillotine blade diagonal?](http://pepijndevos.nl/2024/08/24/why-is-a-guillotine-blade-diagonal.html)
-* [2024-08-25, 19:12:23](https://news.ycombinator.com/item?id=41350286) - [Los Angeles is in a 4-year sprint to deliver a car-free 2028 Olympics](https://theconversation.com/los-angeles-is-in-a-4-year-sprint-to-deliver-a-car-free-2028-olympics-236925)
 * [2024-08-25, 19:05:20](https://news.ycombinator.com/item?id=41350225) - [TIL: Versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
 * [2024-08-25, 17:47:21](https://news.ycombinator.com/item?id=41349443) - [The art of programming and why I won't use LLM](https://kennethnym.com/blog/why-i-still-wont-use-llm/)
 * [2024-08-25, 16:35:52](https://news.ycombinator.com/item?id=41348659) - [Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing](https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311)
