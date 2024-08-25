@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
+* [2024-08-25, 19:12:23](https://news.ycombinator.com/item?id=41350286) - [Los Angeles is in a 4-year sprint to deliver a car-free 2028 Olympics](https://theconversation.com/los-angeles-is-in-a-4-year-sprint-to-deliver-a-car-free-2028-olympics-236925)
 * [2024-08-25, 17:47:21](https://news.ycombinator.com/item?id=41349443) - [The art of programming and why I won't use LLM](https://kennethnym.com/blog/why-i-still-wont-use-llm/)
 * [2024-08-25, 17:27:02](https://news.ycombinator.com/item?id=41349252) - [Fair Source licensing is the worst thing to happen to open source-definitely ma](https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/)
 * [2024-08-25, 16:53:44](https://news.ycombinator.com/item?id=41348874) - [Bananas almost went extinct 70 years ago – Now a deadly fungus is trying again](https://studyfinds.org/bananas-extinct-deadly-fungus/)
