@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 15:20:29",
+      "https://news.ycombinator.com/item?id=41347909"
+    ],
+    [
+      "Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn",
+      "https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 13:06:08",
       "https://news.ycombinator.com/item?id=41347016"
     ],
@@ -17,6 +27,16 @@
     [
       "Sticker on caption phone says that using the captions can be illegal. Why?",
       "https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 12:07:06",
+      "https://news.ycombinator.com/item?id=41346711"
+    ],
+    [
+      "Ask HN: Why not replace technical job interviews with yearly standardized exams?",
+      "https://news.ycombinator.com/item?id=41346711"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-08-24, 17:34:13",
-      "https://news.ycombinator.com/item?id=41339818"
-    ],
-    [
-      "Golang Interpreter Written in PHP",
-      "https://github.com/tuqqu/go-php"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 16:23:46",
       "https://news.ycombinator.com/item?id=41339308"
     ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2024-08-23, 18:19:11",
+      "https://news.ycombinator.com/item?id=41331541"
+    ],
+    [
+      "Show HN: SplitScreen – Create dual-video content for TikTok, YouTube, Reels",
+      "https://splitscreen.studio/"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 11:05:10",
       "https://news.ycombinator.com/item?id=41327933"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-08-21, 15:50:18",
-      "https://news.ycombinator.com/item?id=41311416"
-    ],
-    [
-      "Techniques for safe garbage collection in Rust",
-      "https://kyju.org/blog/rust-safe-garbage-collection/"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 13:55:02",
       "https://news.ycombinator.com/item?id=41310334"
     ],
@@ -287,16 +297,6 @@
     [
       "“YOLO” is not a valid hash construction",
       "https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 19:05:37",
-      "https://news.ycombinator.com/item?id=41302950"
-    ],
-    [
-      "Windows 0-day was exploited by North Korea to install advanced rootkit",
-      "https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/"
     ]
   ]
 ]
