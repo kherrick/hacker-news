@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
+* [2024-08-25, 21:08:06](https://news.ycombinator.com/item?id=41351446) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
+* [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 * [2024-08-25, 20:42:02](https://news.ycombinator.com/item?id=41351219) - [Database \"sharding\" came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2024-08-25, 20:27:59](https://news.ycombinator.com/item?id=41351070) - [The Power of Attraction: How Beauty Influences Startup Investments](https://www.unisg.ch/en/newsdetail/news/the-power-of-attraction-study-about-attractiveness-bias/)
 * [2024-08-25, 20:18:58](https://news.ycombinator.com/item?id=41350992) - [Fermi Resonance and the Quantum Mechanical Basis of Global Warming](https://iopscience.iop.org/article/10.3847/PSJ/ad226d)
@@ -13,6 +15,7 @@
 * [2024-08-25, 19:34:53](https://news.ycombinator.com/item?id=41350530) - [Is Telegram really an encrypted messaging app?](https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/)
 * [2024-08-25, 19:26:02](https://news.ycombinator.com/item?id=41350438) - [Telegram: We abide by EU laws, including the Digital Services Act](https://twitter.com/telegram/status/1827787345367834772)
 * [2024-08-25, 19:21:20](https://news.ycombinator.com/item?id=41350396) - [Why is a Guillotine blade diagonal?](http://pepijndevos.nl/2024/08/24/why-is-a-guillotine-blade-diagonal.html)
+* [2024-08-25, 19:18:02](https://news.ycombinator.com/item?id=41350355) - [Extracting Pre-Post Correlations for Meta-Analyses of Repeated Measures Designs](https://matthewbjane.quarto.pub/pre-post-correlations/)
 * [2024-08-25, 19:12:23](https://news.ycombinator.com/item?id=41350286) - [Los Angeles is in a 4-year sprint to deliver a car-free 2028 Olympics](https://theconversation.com/los-angeles-is-in-a-4-year-sprint-to-deliver-a-car-free-2028-olympics-236925)
 * [2024-08-25, 19:11:03](https://news.ycombinator.com/item?id=41350273) - [GenAI diminishes creativity instead of inspiration](https://dl.acm.org/doi/full/10.1145/3613904.3642919)
 * [2024-08-25, 19:05:20](https://news.ycombinator.com/item?id=41350225) - [TIL: Versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
