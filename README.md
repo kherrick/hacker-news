@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-25, 14:21:47](https://news.ycombinator.com/item?id=41347501) - [Things I Learned from Doing Triathlon in My 70s](https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-25, 12:07:17](https://news.ycombinator.com/item?id=41346712) - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
 * [2024-08-25, 11:57:47](https://news.ycombinator.com/item?id=41346659) - [Guide to Error Handling in Rust](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
@@ -7,13 +8,13 @@
 * [2024-08-25, 03:01:21](https://news.ycombinator.com/item?id=41344004) - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
 * [2024-08-25, 02:46:52](https://news.ycombinator.com/item?id=41343924) - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
 * [2024-08-25, 02:27:51](https://news.ycombinator.com/item?id=41343826) - [Anthropic Claude 3.5 can create icalendar files, so I did this](https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35)
-* [2024-08-25, 01:10:13](https://news.ycombinator.com/item?id=41343444) - [Serpent OS Prealpha0 Released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
+* [2024-08-25, 01:10:13](https://news.ycombinator.com/item?id=41343444) - [Serpent OS Pre-Alpha-0 released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
+* [2024-08-25, 00:05:44](https://news.ycombinator.com/item?id=41343024) - [Looming Liability Machines (LLMs)](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
 * [2024-08-24, 23:12:18](https://news.ycombinator.com/item?id=41342637) - [Defenders think in lists, attackers think in graphs (2015)](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
 * [2024-08-24, 22:00:34](https://news.ycombinator.com/item?id=41342017) - [Ask HN: What are you working on (August 2024)?](https://news.ycombinator.com/item?id=41342017)
 * [2024-08-24, 21:41:21](https://news.ycombinator.com/item?id=41341817) - [Birds aren't real – how to create your own \"bird\"](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
 * [2024-08-24, 21:39:39](https://news.ycombinator.com/item?id=41341797) - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
 * [2024-08-24, 21:39:07](https://news.ycombinator.com/item?id=41341786) - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
-* [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
 * [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring (2020)](https://fasterthanli.me/articles/small-strings-in-rust)
 * [2024-08-24, 14:29:40](https://news.ycombinator.com/item?id=41338582) - [The Treacherous Optimization (2006)](https://ridiculousfish.com/blog/posts/old-age-and-treachery.html)
@@ -28,8 +29,7 @@
 * [2024-08-21, 15:58:40](https://news.ycombinator.com/item?id=41311489) - [Show HN: Permify 1.0 – Open-source fine-grained authorization service](https://github.com/Permify/permify)
 * [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-21, 13:55:02](https://news.ycombinator.com/item?id=41310334) - [A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
-* [2024-08-21, 13:53:09](https://news.ycombinator.com/item?id=41310319) - [\"YOLO\" is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
-* [2024-08-20, 19:05:37](https://news.ycombinator.com/item?id=41302950) - [Windows 0-day was exploited by North Korea to install advanced rootkit](https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/)
+* [2024-08-21, 13:53:09](https://news.ycombinator.com/item?id=41310319) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 
 ## [Archives](archives/index.md)
 
