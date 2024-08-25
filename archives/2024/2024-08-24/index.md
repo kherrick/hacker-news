@@ -64,6 +64,7 @@
 * [2024-08-24, 07:39:40](https://news.ycombinator.com/item?id=41336374) - [Create an internal CLI using Just](https://blog.chay.dev/create-an-internal-cli/)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 04:58:04](https://news.ycombinator.com/item?id=41335770) - [Guy Davenport–The Last High Modernist](https://www.thenation.com/article/culture/guy-davenport-geography-imagination/)
+* [2024-08-24, 04:10:10](https://news.ycombinator.com/item?id=41335549) - ['The Cheese and the Worms': Carlo Ginzburg Launches Microhistory](https://thereader.mitpress.mit.edu/the-cheese-and-the-worms-carlo-ginzburg-launches-microhistory/)
 * [2024-08-24, 02:18:15](https://news.ycombinator.com/item?id=41335008) - [Tesla starts scrubbing its Full Self Driving claims from official website](https://twitter.com/AdrianSumBond/status/1827105729859473773)
 * [2024-08-24, 02:09:05](https://news.ycombinator.com/item?id=41334964) - [iPhone 16 could let you shoot in JPEG-XL](https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/)
 * [2024-08-24, 01:58:25](https://news.ycombinator.com/item?id=41334910) - [An Overview of Datalog](https://clojure.github.io/clojure-contrib/doc/datalog.html)

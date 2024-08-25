@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-25, 20:27:59](https://news.ycombinator.com/item?id=41351070) - [The Power of Attraction: How Beauty Influences Startup Investments](https://www.unisg.ch/en/newsdetail/news/the-power-of-attraction-study-about-attractiveness-bias/)
 * [2024-08-25, 20:07:09](https://news.ycombinator.com/item?id=41350854) - [Essays: NSA Surveillance: A Guide to Staying Secure – Schneier on Security](https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html)
 * [2024-08-25, 19:34:53](https://news.ycombinator.com/item?id=41350530) - [Is Telegram really an encrypted messaging app?](https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/)
 * [2024-08-25, 19:26:02](https://news.ycombinator.com/item?id=41350438) - [Telegram: We abide by EU laws, including the Digital Services Act](https://twitter.com/telegram/status/1827787345367834772)
@@ -18,7 +19,6 @@
 * [2024-08-25, 15:12:58](https://news.ycombinator.com/item?id=41347852) - [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/)
 * [2024-08-25, 13:48:08](https://news.ycombinator.com/item?id=41347290) - [Speeding Up Your Website Using Cloudflare Cache](https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
-* [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 * [2024-08-25, 00:05:44](https://news.ycombinator.com/item?id=41343024) - [Looming Liability Machines (LLMs)](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
 * [2024-08-24, 23:12:18](https://news.ycombinator.com/item?id=41342637) - [Defenders think in lists, attackers think in graphs (2015)](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
 * [2024-08-24, 22:00:34](https://news.ycombinator.com/item?id=41342017) - [Ask HN: What are you working on (August 2024)?](https://news.ycombinator.com/item?id=41342017)
@@ -26,7 +26,7 @@
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 * [2024-08-24, 10:44:30](https://news.ycombinator.com/item?id=41337156) - [Why don't we have personalized search engines?](https://news.ycombinator.com/item?id=41337156)
 * [2024-08-24, 09:14:34](https://news.ycombinator.com/item?id=41336762) - [Consistently Making Wrong Decisions Whilst Writing Recreational C](https://amodernist.com/texts/fun-c.html)
-* [2024-08-24, 04:58:04](https://news.ycombinator.com/item?id=41335770) - [Guy Davenport–The Last High Modernist](https://www.thenation.com/article/culture/guy-davenport-geography-imagination/)
+* [2024-08-24, 04:10:10](https://news.ycombinator.com/item?id=41335549) - ['The Cheese and the Worms': Carlo Ginzburg Launches Microhistory](https://thereader.mitpress.mit.edu/the-cheese-and-the-worms-carlo-ginzburg-launches-microhistory/)
 * [2024-08-23, 11:05:10](https://news.ycombinator.com/item?id=41327933) - [Generating Mazes](https://healeycodes.com/generating-mazes)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-21, 20:20:16](https://news.ycombinator.com/item?id=41313861) - [A Comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
