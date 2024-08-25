@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-25, 19:34:53",
+      "https://news.ycombinator.com/item?id=41350530"
+    ],
+    [
+      "Is Telegram really an encrypted messaging app?",
+      "https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 19:26:02",
+      "https://news.ycombinator.com/item?id=41350438"
+    ],
+    [
+      "Telegram: We abide by EU laws, including the Digital Services Act",
+      "https://twitter.com/telegram/status/1827787345367834772"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 19:12:23",
       "https://news.ycombinator.com/item?id=41350286"
     ],
@@ -11,22 +31,32 @@
   ],
   [
     [
+      "2024-08-25, 19:11:03",
+      "https://news.ycombinator.com/item?id=41350273"
+    ],
+    [
+      "GenAI diminishes creativity instead of inspiration",
+      "https://dl.acm.org/doi/full/10.1145/3613904.3642919"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 19:05:20",
+      "https://news.ycombinator.com/item?id=41350225"
+    ],
+    [
+      "TIL: Versions of UUID and when to use them",
+      "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 17:47:21",
       "https://news.ycombinator.com/item?id=41349443"
     ],
     [
       "The art of programming and why I won't use LLM",
       "https://kennethnym.com/blog/why-i-still-wont-use-llm/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 17:27:02",
-      "https://news.ycombinator.com/item?id=41349252"
-    ],
-    [
-      "Fair Source licensing is the worst thing to happen to open source-definitely ma",
-      "https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-08-25, 00:05:44",
-      "https://news.ycombinator.com/item?id=41343024"
-    ],
-    [
-      "Looming Liability Machines (LLMs)",
-      "http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 23:12:18",
       "https://news.ycombinator.com/item?id=41342637"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-08-23, 11:05:10",
-      "https://news.ycombinator.com/item?id=41327933"
-    ],
-    [
-      "Generating Mazes",
-      "https://healeycodes.com/generating-mazes"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 04:27:54",
       "https://news.ycombinator.com/item?id=41326169"
     ],
@@ -287,16 +297,6 @@
     [
       "A Comparison of Arenas in Rust",
       "https://donsz.nl/blog/arenas/"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 13:55:02",
-      "https://news.ycombinator.com/item?id=41310334"
-    ],
-    [
-      "A 4096 channel event-based multielectrode array with asynchronous outputs",
-      "https://www.nature.com/articles/s41467-024-50783-2"
     ]
   ]
 ]
