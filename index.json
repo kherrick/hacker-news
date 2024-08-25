@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 21:34:44",
+      "https://news.ycombinator.com/item?id=41351662"
+    ],
+    [
+      "Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)",
+      "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 21:08:06",
       "https://news.ycombinator.com/item?id=41351446"
     ],
@@ -37,16 +47,6 @@
     [
       "The Power of Attraction: How Beauty Influences Startup Investments",
       "https://www.unisg.ch/en/newsdetail/news/the-power-of-attraction-study-about-attractiveness-bias/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 20:18:58",
-      "https://news.ycombinator.com/item?id=41350992"
-    ],
-    [
-      "Fermi Resonance and the Quantum Mechanical Basis of Global Warming",
-      "https://iopscience.iop.org/article/10.3847/PSJ/ad226d"
     ]
   ],
   [
@@ -131,12 +131,22 @@
   ],
   [
     [
-      "2024-08-25, 17:47:21",
-      "https://news.ycombinator.com/item?id=41349443"
+      "2024-08-25, 18:58:19",
+      "https://news.ycombinator.com/item?id=41350151"
     ],
     [
-      "The art of programming and why I won't use LLM",
-      "https://kennethnym.com/blog/why-i-still-wont-use-llm/"
+      "An AWS IAM Security Tooling Reference",
+      "https://ramimac.me/aws-iam-tools-2024"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 16:52:14",
+      "https://news.ycombinator.com/item?id=41348844"
+    ],
+    [
+      "Linux Pipes Are Slow",
+      "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/"
     ]
   ],
   [
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2024-08-24, 23:12:18",
-      "https://news.ycombinator.com/item?id=41342637"
-    ],
-    [
-      "Defenders think in lists, attackers think in graphs (2015)",
-      "https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 22:00:34",
-      "https://news.ycombinator.com/item?id=41342017"
-    ],
-    [
-      "Ask HN: What are you working on (August 2024)?",
-      "https://news.ycombinator.com/item?id=41342017"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 11:16:57",
       "https://news.ycombinator.com/item?id=41337301"
     ],
     [
       "The Cryptographic Doom Principle (2011)",
       "https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 10:44:30",
+      "https://news.ycombinator.com/item?id=41337156"
+    ],
+    [
+      "Why don't we have personalized search engines?",
+      "https://news.ycombinator.com/item?id=41337156"
     ]
   ],
   [
