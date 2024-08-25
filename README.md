@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-25, 09:50:20](https://news.ycombinator.com/item?id=41345989) - [Why fans of nuclear are a problem today](https://jeromeaparis.substack.com/p/why-fans-of-nuclear-are-a-problem)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 * [2024-08-25, 03:01:21](https://news.ycombinator.com/item?id=41344004) - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
 * [2024-08-25, 02:46:52](https://news.ycombinator.com/item?id=41343924) - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
@@ -13,6 +12,7 @@
 * [2024-08-24, 21:39:39](https://news.ycombinator.com/item?id=41341797) - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
 * [2024-08-24, 21:39:07](https://news.ycombinator.com/item?id=41341786) - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
 * [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
+* [2024-08-24, 17:14:09](https://news.ycombinator.com/item?id=41339667) - [NASA announces Boeing Starliner crew will return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
 * [2024-08-24, 17:00:05](https://news.ycombinator.com/item?id=41339577) - [OneText (YC W23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff)
 * [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
