@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 16:35:52",
+      "https://news.ycombinator.com/item?id=41348659"
+    ],
+    [
+      "Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing",
+      "https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 16:12:13",
       "https://news.ycombinator.com/item?id=41348421"
     ],
@@ -17,6 +27,16 @@
     [
       "Emulating the Early Macintosh Floppy Drive",
       "https://thomasw.dev/post/mac-floppy-emu/"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 15:51:11",
+      "https://news.ycombinator.com/item?id=41348204"
+    ],
+    [
+      "Rnote – Sketch and take handwritten notes",
+      "https://github.com/flxzt/rnote"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-08-24, 14:58:33",
-      "https://news.ycombinator.com/item?id=41338776"
-    ],
-    [
-      "Small Strings in Rust: smolstr vs. smartstring (2020)",
-      "https://fasterthanli.me/articles/small-strings-in-rust"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 14:29:40",
       "https://news.ycombinator.com/item?id=41338582"
     ],
@@ -277,16 +287,6 @@
     [
       "Modern Wardriving (2023)",
       "https://simonroses.com/2023/12/modern-wardriving/"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 15:58:40",
-      "https://news.ycombinator.com/item?id=41311489"
-    ],
-    [
-      "Show HN: Permify 1.0 – Open-source fine-grained authorization service",
-      "https://github.com/Permify/permify"
     ]
   ],
   [
