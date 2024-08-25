@@ -7,7 +7,6 @@
 * [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 * [2024-08-25, 20:42:02](https://news.ycombinator.com/item?id=41351219) - [Database \"sharding\" came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2024-08-25, 20:20:56](https://news.ycombinator.com/item?id=41351009) - [Olivetti Programma 101: At the Origins of the Personal Computer](https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/)
-* [2024-08-25, 20:14:27](https://news.ycombinator.com/item?id=41350940) - [Big Pharma claims lower prices means giving up miracle medications. Ignore them](https://www.vox.com/future-perfect/368538/medicare-drug-prices-pharma-negotiations-innovation)
 * [2024-08-25, 20:08:20](https://news.ycombinator.com/item?id=41350869) - [MacOS X Malware Development](https://0xf00sec.github.io/0x1A)
 * [2024-08-25, 20:07:09](https://news.ycombinator.com/item?id=41350854) - [Essays: NSA Surveillance: A Guide to Staying Secure – Schneier on Security](https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html)
 * [2024-08-25, 19:34:53](https://news.ycombinator.com/item?id=41350530) - [Is Telegram really an encrypted messaging app?](https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/)
@@ -28,6 +27,7 @@
 * [2024-08-24, 13:23:11](https://news.ycombinator.com/item?id=41338128) - [Getting up close and personal with Concorde, Concordski, and Buran](https://www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/)
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 * [2024-08-24, 04:10:10](https://news.ycombinator.com/item?id=41335549) - ['The Cheese and the Worms': Carlo Ginzburg Launches Microhistory](https://thereader.mitpress.mit.edu/the-cheese-and-the-worms-carlo-ginzburg-launches-microhistory/)
+* [2024-08-23, 19:02:08](https://news.ycombinator.com/item?id=41332011) - [Show HN: Monogo – Evolve your go workspace to a real monorepo](https://github.com/nicolasgere/monogo)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-21, 20:20:16](https://news.ycombinator.com/item?id=41313861) - [A Comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 
