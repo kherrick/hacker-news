@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 16:12:13",
+      "https://news.ycombinator.com/item?id=41348421"
+    ],
+    [
+      "Finding a therapist who takes your insurance can be nearly impossible",
+      "https://www.npr.org/sections/shots-health-news/2024/08/24/nx-s1-5028551/insurance-therapy-therapist-mental-health-coverage"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 15:41:10",
       "https://news.ycombinator.com/item?id=41348096"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41347868"
     ],
     [
-      "Study: Air purifier use at daycare centres cut kids' sick days by a third",
+      "Study: Air purifier use at daycare centres cut kids' sick days by a third (2023)",
       "https://yle.fi/a/74-20062381"
     ]
   ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2024-08-22, 21:55:56",
-      "https://news.ycombinator.com/item?id=41324688"
-    ],
-    [
-      "A World Split Apart (1978)",
-      "https://www.solzhenitsyncenter.org/a-world-split-apart"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 15:58:40",
       "https://news.ycombinator.com/item?id=41311489"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-08-21, 15:50:18",
+      "https://news.ycombinator.com/item?id=41311416"
+    ],
+    [
+      "Techniques for safe garbage collection in Rust",
+      "https://kyju.org/blog/rust-safe-garbage-collection/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 13:55:02",
       "https://news.ycombinator.com/item?id=41310334"
     ],
     [
       "A 4096 channel event-based multielectrode array with asynchronous outputs",
       "https://www.nature.com/articles/s41467-024-50783-2"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 13:53:09",
-      "https://news.ycombinator.com/item?id=41310319"
-    ],
-    [
-      "“YOLO” is not a valid hash construction",
-      "https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/"
     ]
   ]
 ]
