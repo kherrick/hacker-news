@@ -10,6 +10,7 @@
 * [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 * [2024-08-25, 20:42:02](https://news.ycombinator.com/item?id=41351219) - [Database \"sharding\" came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2024-08-25, 20:27:59](https://news.ycombinator.com/item?id=41351070) - [The Power of Attraction: How Beauty Influences Startup Investments](https://www.unisg.ch/en/newsdetail/news/the-power-of-attraction-study-about-attractiveness-bias/)
+* [2024-08-25, 20:20:56](https://news.ycombinator.com/item?id=41351009) - [Olivetti Programma 101: At the Origins of the Personal Computer – Inexhibit](https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/)
 * [2024-08-25, 20:18:58](https://news.ycombinator.com/item?id=41350992) - [Fermi Resonance and the Quantum Mechanical Basis of Global Warming](https://iopscience.iop.org/article/10.3847/PSJ/ad226d)
 * [2024-08-25, 20:14:27](https://news.ycombinator.com/item?id=41350940) - [Big Pharma claims lower prices means giving up miracle medications. Ignore them](https://www.vox.com/future-perfect/368538/medicare-drug-prices-pharma-negotiations-innovation)
 * [2024-08-25, 20:08:20](https://news.ycombinator.com/item?id=41350869) - [MacOS X Malware Development](https://0xf00sec.github.io/0x1A)
