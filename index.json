@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-08-25, 10:20:11",
-      "https://news.ycombinator.com/item?id=41346156"
+      "2024-08-25, 11:47:14",
+      "https://news.ycombinator.com/item?id=41346597"
     ],
     [
-      "Show HN: Cursor AI Rules Directory (Open Source)",
-      "https://cursor.directory"
+      "Kalman and Bayesian Filters in Python",
+      "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/README.md"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Anthropic Claude 3.5 can create icalendar files, so I did this",
       "https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 02:25:51",
-      "https://news.ycombinator.com/item?id=41343814"
-    ],
-    [
-      "Postgres as a Search Engine",
-      "https://anyblockers.com/posts/postgres-as-a-search-engine"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "\"YOLO\" is not a valid hash construction",
       "https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 13:17:12",
+      "https://news.ycombinator.com/item?id=41309997"
+    ],
+    [
+      "ArcticDB: Why a Hedge Fund Built Its Own Database",
+      "https://www.infoq.com/presentations/arcticdb/"
     ]
   ]
 ]
