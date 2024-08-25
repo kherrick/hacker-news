@@ -39,6 +39,7 @@
 * [2024-08-24, 14:54:09](https://news.ycombinator.com/item?id=41338751) - [Never take health tips from oldest people, say scientists](https://www.theguardian.com/science/article/2024/aug/24/never-take-health-tips-from-worlds-oldest-people-say-scientists)
 * [2024-08-24, 14:50:31](https://news.ycombinator.com/item?id=41338729) - [Implementing React from Scratch](https://www.rob.directory/blog/react-from-scratch)
 * [2024-08-24, 14:40:21](https://news.ycombinator.com/item?id=41338661) - [Julius: Open-source reimplementation of Caesar III](https://github.com/bvschaik/julius)
+* [2024-08-24, 14:29:40](https://news.ycombinator.com/item?id=41338582) - [The Treacherous Optimization (2006)](https://ridiculousfish.com/blog/posts/old-age-and-treachery.html)
 * [2024-08-24, 13:57:56](https://news.ycombinator.com/item?id=41338354) - [You Are Not Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 * [2024-08-24, 13:46:31](https://news.ycombinator.com/item?id=41338285) - [A $10k stipend is available for anyone moving to Cumberland, MD](https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program)
 * [2024-08-24, 13:26:44](https://news.ycombinator.com/item?id=41338148) - [Warren Buffet's Missed Opportunity](https://www.city-journal.org/article/warren-buffetts-missed-opportunity)
