@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-25, 21:59:24](https://news.ycombinator.com/item?id=41351844) - [San Francisco officials weigh in on departure of X headquarters: 'Good riddance'](https://nypost.com/2024/08/25/us-news/san-francisco-officials-weigh-in-on-departure-of-musks-x-good-riddance/)
 * [2024-08-25, 21:34:44](https://news.ycombinator.com/item?id=41351662) - [Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
 * [2024-08-25, 21:08:06](https://news.ycombinator.com/item?id=41351446) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
@@ -26,7 +27,6 @@
 * [2024-08-25, 13:48:08](https://news.ycombinator.com/item?id=41347290) - [Speeding Up Your Website Using Cloudflare Cache](https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
-* [2024-08-24, 10:44:30](https://news.ycombinator.com/item?id=41337156) - [Why don't we have personalized search engines?](https://news.ycombinator.com/item?id=41337156)
 * [2024-08-24, 04:10:10](https://news.ycombinator.com/item?id=41335549) - ['The Cheese and the Worms': Carlo Ginzburg Launches Microhistory](https://thereader.mitpress.mit.edu/the-cheese-and-the-worms-carlo-ginzburg-launches-microhistory/)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-21, 20:20:16](https://news.ycombinator.com/item?id=41313861) - [A Comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)

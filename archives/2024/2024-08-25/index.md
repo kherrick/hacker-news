@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
+* [2024-08-25, 21:59:24](https://news.ycombinator.com/item?id=41351844) - [San Francisco officials weigh in on departure of X headquarters: 'Good riddance'](https://nypost.com/2024/08/25/us-news/san-francisco-officials-weigh-in-on-departure-of-musks-x-good-riddance/)
 * [2024-08-25, 21:34:44](https://news.ycombinator.com/item?id=41351662) - [Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
 * [2024-08-25, 21:08:06](https://news.ycombinator.com/item?id=41351446) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
