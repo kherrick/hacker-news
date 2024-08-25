@@ -14,7 +14,6 @@
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
 * [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third (2023)](https://yle.fi/a/74-20062381)
 * [2024-08-25, 15:12:58](https://news.ycombinator.com/item?id=41347852) - [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/)
-* [2024-08-25, 14:45:41](https://news.ycombinator.com/item?id=41347661) - [4.6M Voter and Election Documents Exposed Online by Technology Contractor](https://www.vpnmentor.com/news/report-election-records-breach/)
 * [2024-08-25, 13:48:08](https://news.ycombinator.com/item?id=41347290) - [Speeding Up Your Website Using Cloudflare Cache](https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
@@ -24,12 +23,13 @@
 * [2024-08-24, 21:39:07](https://news.ycombinator.com/item?id=41341786) - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
 * [2024-08-24, 13:57:56](https://news.ycombinator.com/item?id=41338354) - [You are not dumb, you just lack the prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
+* [2024-08-24, 10:44:30](https://news.ycombinator.com/item?id=41337156) - [Why don't we have personalized search engines?](https://news.ycombinator.com/item?id=41337156)
 * [2024-08-24, 09:14:34](https://news.ycombinator.com/item?id=41336762) - [Consistently Making Wrong Decisions Whilst Writing Recreational C](https://amodernist.com/texts/fun-c.html)
 * [2024-08-24, 04:58:04](https://news.ycombinator.com/item?id=41335770) - [Guy Davenport–The Last High Modernist](https://www.thenation.com/article/culture/guy-davenport-geography-imagination/)
-* [2024-08-23, 18:19:11](https://news.ycombinator.com/item?id=41331541) - [Show HN: SplitScreen – Create dual-video content for TikTok, YouTube, Reels](https://splitscreen.studio/)
 * [2024-08-23, 11:05:10](https://news.ycombinator.com/item?id=41327933) - [Generating Mazes](https://healeycodes.com/generating-mazes)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-21, 20:20:16](https://news.ycombinator.com/item?id=41313861) - [A Comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
+* [2024-08-21, 13:55:02](https://news.ycombinator.com/item?id=41310334) - [A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
 
 ## [Archives](archives/index.md)
 
