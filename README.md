@@ -3,7 +3,7 @@
 * [2024-08-25, 05:22:16](https://news.ycombinator.com/item?id=41344613) - [How a flawed idea is teaching kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology Numbers Worth Knowing](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 * [2024-08-25, 03:01:21](https://news.ycombinator.com/item?id=41344004) - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
-* [2024-08-25, 02:46:52](https://news.ycombinator.com/item?id=41343924) - [Transfer energy from nitrogen to argon enables 2-wayl cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
+* [2024-08-25, 02:46:52](https://news.ycombinator.com/item?id=41343924) - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
 * [2024-08-25, 02:27:51](https://news.ycombinator.com/item?id=41343826) - [Anthropic Claude 3.5 can create icalendar files, so I did this](https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35)
 * [2024-08-25, 02:25:51](https://news.ycombinator.com/item?id=41343814) - [Postgres as a Search Engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
 * [2024-08-25, 01:10:13](https://news.ycombinator.com/item?id=41343444) - [Serpent OS Prealpha0 Released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
