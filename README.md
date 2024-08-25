@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-25, 02:46:52](https://news.ycombinator.com/item?id=41343924) - [Transfer energy from nitrogen to argon enables 2-wayl cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
 * [2024-08-25, 01:10:13](https://news.ycombinator.com/item?id=41343444) - [Serpent OS Prealpha0 Released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
 * [2024-08-25, 00:05:44](https://news.ycombinator.com/item?id=41343024) - [Looming Liability Machines (LLMs)](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
 * [2024-08-24, 23:12:18](https://news.ycombinator.com/item?id=41342637) - [Defenders think in lists, attackers think in graphs (2015)](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
@@ -27,7 +28,6 @@
 * [2024-08-23, 11:05:10](https://news.ycombinator.com/item?id=41327933) - [Generating Mazes](https://healeycodes.com/generating-mazes)
 * [2024-08-21, 17:01:05](https://news.ycombinator.com/item?id=41312124) - [Async hazard: MMAP is blocking IO](https://huonw.github.io/blog/2024/08/async-hazard-mmap/)
 * [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
-* [2024-08-21, 14:12:14](https://news.ycombinator.com/item?id=41310491) - [CNCFsweeper](https://cncfsweeper.netlify.app/)
 * [2024-08-21, 13:53:09](https://news.ycombinator.com/item?id=41310319) - [\"YOLO\" is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 * [2024-08-21, 13:17:12](https://news.ycombinator.com/item?id=41309997) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 
