@@ -2,6 +2,7 @@
 
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-25, 12:07:17](https://news.ycombinator.com/item?id=41346712) - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
+* [2024-08-25, 11:57:47](https://news.ycombinator.com/item?id=41346659) - [Guide to Error Handling in Rust](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 * [2024-08-25, 03:01:21](https://news.ycombinator.com/item?id=41344004) - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
 * [2024-08-25, 02:46:52](https://news.ycombinator.com/item?id=41343924) - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
@@ -13,7 +14,6 @@
 * [2024-08-24, 21:39:39](https://news.ycombinator.com/item?id=41341797) - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
 * [2024-08-24, 21:39:07](https://news.ycombinator.com/item?id=41341786) - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
 * [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
-* [2024-08-24, 17:14:09](https://news.ycombinator.com/item?id=41339667) - [NASA announces Boeing Starliner crew will return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
 * [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
 * [2024-08-24, 14:50:31](https://news.ycombinator.com/item?id=41338729) - [Implementing React from Scratch](https://www.rob.directory/blog/react-from-scratch)
