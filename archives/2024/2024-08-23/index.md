@@ -73,6 +73,7 @@
 * [2024-08-23, 05:00:13](https://news.ycombinator.com/item?id=41326300) - [About the browser choice screen in the EU](https://developer.apple.com/support/browser-choice-screen/)
 * [2024-08-23, 04:47:04](https://news.ycombinator.com/item?id=41326244) - [ShipFast alternative, Next.js SaaS Boilerplate and Starter Kit](https://play.nextjstemplates.com/)
 * [2024-08-23, 04:31:35](https://news.ycombinator.com/item?id=41326179) - [EPUBCheck – The official conformance checker for ePub publications](https://github.com/w3c/epubcheck)
+* [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-23, 04:18:35](https://news.ycombinator.com/item?id=41326138) - [Semaglutide like Ozempic burn visceral fat, don't just suppress appetite](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126)
 * [2024-08-23, 04:14:41](https://news.ycombinator.com/item?id=41326127) - [Microsoft's controversial Windows Recall feature is coming back in October](https://www.ghacks.net/2024/08/22/microsofts-controversial-windows-recall-feature-is-coming-back-in-october/)
 * [2024-08-23, 04:13:16](https://news.ycombinator.com/item?id=41326117) - [The \"Hacker Purity Test\" from 1989](http://www.armory.com/tests/hacker.html)
