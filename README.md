@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-25, 12:55:02](https://news.ycombinator.com/item?id=41346955) - [Scientists achieve more than 98% efficiency removing nanoplastics from water](https://showme.missouri.edu/2024/mizzou-scientists-achieve-more-than-98-efficiency-removing-nanoplastics-from-water/)
-* [2024-08-25, 12:18:47](https://news.ycombinator.com/item?id=41346778) - [NASA's Starliner decision was the right one, but it's a crushing blow for Boeing](https://arstechnica.com/space/2024/08/after-latest-starliner-setback-will-boeing-ever-deliver-on-its-crew-contract/)
+* [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-25, 12:07:17](https://news.ycombinator.com/item?id=41346712) - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
 * [2024-08-25, 10:20:11](https://news.ycombinator.com/item?id=41346156) - [Show HN: Cursor AI Rules Directory (Open Source)](https://cursor.directory)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
@@ -15,6 +14,7 @@
 * [2024-08-24, 21:41:21](https://news.ycombinator.com/item?id=41341817) - [Birds aren't real – how to create your own \"bird\"](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
 * [2024-08-24, 21:39:39](https://news.ycombinator.com/item?id=41341797) - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
 * [2024-08-24, 21:39:07](https://news.ycombinator.com/item?id=41341786) - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
+* [2024-08-24, 17:34:13](https://news.ycombinator.com/item?id=41339818) - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
 * [2024-08-24, 16:23:46](https://news.ycombinator.com/item?id=41339308) - [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
 * [2024-08-24, 14:40:21](https://news.ycombinator.com/item?id=41338661) - [Julius: Open-source reimplementation of Caesar III](https://github.com/bvschaik/julius)
@@ -26,10 +26,10 @@
 * [2024-08-23, 11:05:10](https://news.ycombinator.com/item?id=41327933) - [Generating Mazes](https://healeycodes.com/generating-mazes)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-22, 21:55:56](https://news.ycombinator.com/item?id=41324688) - [A World Split Apart (1978)](https://www.solzhenitsyncenter.org/a-world-split-apart)
-* [2024-08-21, 21:44:52](https://news.ycombinator.com/item?id=41314492) - [Degrees of Kevin Bacon Using Postgres](https://www.crunchydata.com/blog/six-degrees-of-kevin-bacon-postgres-style)
 * [2024-08-21, 15:58:40](https://news.ycombinator.com/item?id=41311489) - [Show HN: Permify 1.0 – Open-source fine-grained authorization service](https://github.com/Permify/permify)
 * [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-21, 13:55:02](https://news.ycombinator.com/item?id=41310334) - [A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
+* [2024-08-21, 13:53:09](https://news.ycombinator.com/item?id=41310319) - [\"YOLO\" is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 
 ## [Archives](archives/index.md)
 
