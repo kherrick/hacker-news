@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-25, 16:12:13](https://news.ycombinator.com/item?id=41348421) - [Finding a therapist who takes your insurance can be nearly impossible](https://www.npr.org/sections/shots-health-news/2024/08/24/nx-s1-5028551/insurance-therapy-therapist-mental-health-coverage)
 * [2024-08-25, 15:41:10](https://news.ycombinator.com/item?id=41348096) - [Apple Explores Robotics in Search of Life Beyond the iPhone](https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex)
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
-* [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
+* [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third (2023)](https://yle.fi/a/74-20062381)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-25, 12:07:17](https://news.ycombinator.com/item?id=41346712) - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
@@ -26,10 +27,9 @@
 * [2024-08-23, 18:19:11](https://news.ycombinator.com/item?id=41331541) - [Show HN: SplitScreen – Create dual-video content for TikTok, YouTube, Reels](https://splitscreen.studio/)
 * [2024-08-23, 11:05:10](https://news.ycombinator.com/item?id=41327933) - [Generating Mazes](https://healeycodes.com/generating-mazes)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
-* [2024-08-22, 21:55:56](https://news.ycombinator.com/item?id=41324688) - [A World Split Apart (1978)](https://www.solzhenitsyncenter.org/a-world-split-apart)
 * [2024-08-21, 15:58:40](https://news.ycombinator.com/item?id=41311489) - [Show HN: Permify 1.0 – Open-source fine-grained authorization service](https://github.com/Permify/permify)
+* [2024-08-21, 15:50:18](https://news.ycombinator.com/item?id=41311416) - [Techniques for safe garbage collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-21, 13:55:02](https://news.ycombinator.com/item?id=41310334) - [A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
-* [2024-08-21, 13:53:09](https://news.ycombinator.com/item?id=41310319) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 
 ## [Archives](archives/index.md)
 
