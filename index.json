@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 20:07:09",
+      "https://news.ycombinator.com/item?id=41350854"
+    ],
+    [
+      "Essays: NSA Surveillance: A Guide to Staying Secure – Schneier on Security",
+      "https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 19:34:53",
       "https://news.ycombinator.com/item?id=41350530"
     ],
@@ -27,16 +37,6 @@
     [
       "Los Angeles is in a 4-year sprint to deliver a car-free 2028 Olympics",
       "https://theconversation.com/los-angeles-is-in-a-4-year-sprint-to-deliver-a-car-free-2028-olympics-236925"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 19:11:03",
-      "https://news.ycombinator.com/item?id=41350273"
-    ],
-    [
-      "GenAI diminishes creativity instead of inspiration",
-      "https://dl.acm.org/doi/full/10.1145/3613904.3642919"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-08-25, 15:41:10",
-      "https://news.ycombinator.com/item?id=41348096"
-    ],
-    [
-      "Apple explores robotics in search of life beyond the iPhone",
-      "https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 15:32:00",
       "https://news.ycombinator.com/item?id=41348000"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-08-25, 00:05:44",
+      "https://news.ycombinator.com/item?id=41343024"
+    ],
+    [
+      "Looming Liability Machines (LLMs)",
+      "http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 23:12:18",
       "https://news.ycombinator.com/item?id=41342637"
     ],
@@ -227,16 +227,6 @@
     [
       "AMD's Radeon 890M: Strix Point's Bigger iGPU",
       "https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 13:57:56",
-      "https://news.ycombinator.com/item?id=41338354"
-    ],
-    [
-      "You are not dumb, you just lack the prerequisites",
-      "https://lelouch.dev/blog/you-are-probably-not-dumb/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Guy Davenport–The Last High Modernist",
       "https://www.thenation.com/article/culture/guy-davenport-geography-imagination/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 11:05:10",
+      "https://news.ycombinator.com/item?id=41327933"
+    ],
+    [
+      "Generating Mazes",
+      "https://healeycodes.com/generating-mazes"
     ]
   ],
   [
