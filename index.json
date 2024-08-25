@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-08-25, 11:47:14",
-      "https://news.ycombinator.com/item?id=41346597"
-    ],
-    [
-      "Kalman and Bayesian Filters in Python",
-      "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/README.md"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 03:40:30",
       "https://news.ycombinator.com/item?id=41344176"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2024-08-24, 17:14:09",
+      "https://news.ycombinator.com/item?id=41339667"
+    ],
+    [
+      "NASA announces Boeing Starliner crew will return on SpaceX Crew-9",
+      "https://twitter.com/NASA/status/1827393397939634503"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 16:23:46",
       "https://news.ycombinator.com/item?id=41339308"
     ],
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2024-08-24, 14:40:21",
-      "https://news.ycombinator.com/item?id=41338661"
+      "2024-08-24, 14:50:31",
+      "https://news.ycombinator.com/item?id=41338729"
     ],
     [
-      "Julius: Open-source reimplementation of Caesar III",
-      "https://github.com/bvschaik/julius"
+      "Implementing React from Scratch",
+      "https://www.rob.directory/blog/react-from-scratch"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-08-21, 13:17:12",
-      "https://news.ycombinator.com/item?id=41309997"
+      "2024-08-20, 19:05:37",
+      "https://news.ycombinator.com/item?id=41302950"
     ],
     [
-      "ArcticDB: Why a Hedge Fund Built Its Own Database",
-      "https://www.infoq.com/presentations/arcticdb/"
+      "Windows 0-day was exploited by North Korea to install advanced rootkit",
+      "https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/"
     ]
   ]
 ]
