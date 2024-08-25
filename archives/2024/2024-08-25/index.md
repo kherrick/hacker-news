@@ -18,6 +18,7 @@
 * [2024-08-25, 20:08:20](https://news.ycombinator.com/item?id=41350869) - [MacOS X Malware Development](https://0xf00sec.github.io/0x1A)
 * [2024-08-25, 20:07:09](https://news.ycombinator.com/item?id=41350854) - [Essays: NSA Surveillance: A Guide to Staying Secure – Schneier on Security](https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html)
 * [2024-08-25, 19:34:53](https://news.ycombinator.com/item?id=41350530) - [Is Telegram really an encrypted messaging app?](https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/)
+* [2024-08-25, 19:28:26](https://news.ycombinator.com/item?id=41350468) - [Stripe Data vs. Open‐Source Alternatives: A MRR Example](https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open%E2%80%90Source-Alternatives:-a-MRR-example)
 * [2024-08-25, 19:26:02](https://news.ycombinator.com/item?id=41350438) - [Telegram: We abide by EU laws, including the Digital Services Act](https://twitter.com/telegram/status/1827787345367834772)
 * [2024-08-25, 19:21:20](https://news.ycombinator.com/item?id=41350396) - [Why is a Guillotine blade diagonal?](http://pepijndevos.nl/2024/08/24/why-is-a-guillotine-blade-diagonal.html)
 * [2024-08-25, 19:18:02](https://news.ycombinator.com/item?id=41350355) - [Extracting Pre-Post Correlations for Meta-Analyses of Repeated Measures Designs](https://matthewbjane.quarto.pub/pre-post-correlations/)
