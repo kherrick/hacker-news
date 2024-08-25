@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-08-25, 12:55:02",
-      "https://news.ycombinator.com/item?id=41346955"
+      "2024-08-25, 13:06:08",
+      "https://news.ycombinator.com/item?id=41347016"
     ],
     [
-      "Scientists achieve more than 98% efficiency removing nanoplastics from water",
-      "https://showme.missouri.edu/2024/mizzou-scientists-achieve-more-than-98-efficiency-removing-nanoplastics-from-water/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 12:18:47",
-      "https://news.ycombinator.com/item?id=41346778"
-    ],
-    [
-      "NASA's Starliner decision was the right one, but it's a crushing blow for Boeing",
-      "https://arstechnica.com/space/2024/08/after-latest-starliner-setback-will-boeing-ever-deliver-on-its-crew-contract/"
+      "Strandbeest",
+      "https://www.strandbeest.com/"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2024-08-24, 17:34:13",
+      "https://news.ycombinator.com/item?id=41339818"
+    ],
+    [
+      "Golang Interpreter Written in PHP",
+      "https://github.com/tuqqu/go-php"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 16:23:46",
       "https://news.ycombinator.com/item?id=41339308"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-08-21, 21:44:52",
-      "https://news.ycombinator.com/item?id=41314492"
-    ],
-    [
-      "Degrees of Kevin Bacon Using Postgres",
-      "https://www.crunchydata.com/blog/six-degrees-of-kevin-bacon-postgres-style"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 15:58:40",
       "https://news.ycombinator.com/item?id=41311489"
     ],
@@ -297,6 +287,16 @@
     [
       "A 4096 channel event-based multielectrode array with asynchronous outputs",
       "https://www.nature.com/articles/s41467-024-50783-2"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 13:53:09",
+      "https://news.ycombinator.com/item?id=41310319"
+    ],
+    [
+      "\"YOLO\" is not a valid hash construction",
+      "https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/"
     ]
   ]
 ]
