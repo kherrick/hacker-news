@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-25, 15:41:10](https://news.ycombinator.com/item?id=41348096) - [Apple Explores Robotics in Search of Life Beyond the iPhone](https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex)
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
 * [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
 * [2024-08-25, 12:07:17](https://news.ycombinator.com/item?id=41346712) - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
-* [2024-08-25, 12:07:06](https://news.ycombinator.com/item?id=41346711) - [Ask HN: Why not replace technical job interviews with yearly standardized exams?](https://news.ycombinator.com/item?id=41346711)
 * [2024-08-25, 03:40:30](https://news.ycombinator.com/item?id=41344176) - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 * [2024-08-25, 03:01:21](https://news.ycombinator.com/item?id=41344004) - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
 * [2024-08-25, 02:46:52](https://news.ycombinator.com/item?id=41343924) - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
