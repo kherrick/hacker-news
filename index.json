@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 05:39:43",
+      "https://news.ycombinator.com/item?id=41344688"
+    ],
+    [
+      "European iPhones are more fun now",
+      "https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 03:40:30",
       "https://news.ycombinator.com/item?id=41344176"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-08-24, 17:00:05",
-      "https://news.ycombinator.com/item?id=41339577"
-    ],
-    [
-      "OneText (YC W23) Is Hiring a Chief of Staff",
-      "https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 16:23:46",
       "https://news.ycombinator.com/item?id=41339308"
     ],
@@ -197,16 +197,6 @@
     [
       "Julius: Open-source reimplementation of Caesar III",
       "https://github.com/bvschaik/julius"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 14:29:40",
-      "https://news.ycombinator.com/item?id=41338582"
-    ],
-    [
-      "The Treacherous Optimization (2006)",
-      "https://ridiculousfish.com/blog/posts/old-age-and-treachery.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Generating Mazes",
       "https://healeycodes.com/generating-mazes"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 17:01:05",
+      "https://news.ycombinator.com/item?id=41312124"
+    ],
+    [
+      "Async hazard: MMAP is blocking IO",
+      "https://huonw.github.io/blog/2024/08/async-hazard-mmap/"
     ]
   ],
   [
