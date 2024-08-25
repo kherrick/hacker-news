@@ -6,7 +6,6 @@
 * [2024-08-25, 16:04:21](https://news.ycombinator.com/item?id=41348338) - [Emulating the Early Macintosh Floppy Drive](https://thomasw.dev/post/mac-floppy-emu/)
 * [2024-08-25, 15:51:11](https://news.ycombinator.com/item?id=41348204) - [Rnote – Sketch and take handwritten notes](https://github.com/flxzt/rnote)
 * [2024-08-25, 15:46:11](https://news.ycombinator.com/item?id=41348149) - [Facebook Banned Me for Life Because I Help People Use It Less (2021)](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
-* [2024-08-25, 15:41:10](https://news.ycombinator.com/item?id=41348096) - [Apple Explores Robotics in Search of Life Beyond the iPhone](https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex)
 * [2024-08-25, 15:32:00](https://news.ycombinator.com/item?id=41348000) - [Programming terrain from scratch using C++ and OpenGL by Shamus Young (2006)](https://www.shamusyoung.com/twentysidedtale/?p=141)
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
 * [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third (2023)](https://yle.fi/a/74-20062381)
@@ -29,6 +28,7 @@
 * [2024-08-23, 18:19:11](https://news.ycombinator.com/item?id=41331541) - [Show HN: SplitScreen – Create dual-video content for TikTok, YouTube, Reels](https://splitscreen.studio/)
 * [2024-08-23, 11:05:10](https://news.ycombinator.com/item?id=41327933) - [Generating Mazes](https://healeycodes.com/generating-mazes)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
+* [2024-08-21, 20:20:16](https://news.ycombinator.com/item?id=41313861) - [A Comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 * [2024-08-21, 13:55:02](https://news.ycombinator.com/item?id=41310334) - [A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
 
 ## [Archives](archives/index.md)
