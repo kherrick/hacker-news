@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
 * [2024-08-25, 16:12:13](https://news.ycombinator.com/item?id=41348421) - [Finding a therapist who takes your insurance can be nearly impossible](https://www.npr.org/sections/shots-health-news/2024/08/24/nx-s1-5028551/insurance-therapy-therapist-mental-health-coverage)
+* [2024-08-25, 16:04:21](https://news.ycombinator.com/item?id=41348338) - [Emulating the Early Macintosh Floppy Drive](https://thomasw.dev/post/mac-floppy-emu/)
+* [2024-08-25, 15:46:11](https://news.ycombinator.com/item?id=41348149) - [Facebook Banned Me for Life Because I Help People Use It Less (2021)](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
 * [2024-08-25, 15:41:10](https://news.ycombinator.com/item?id=41348096) - [Apple Explores Robotics in Search of Life Beyond the iPhone](https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex)
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
 * [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
