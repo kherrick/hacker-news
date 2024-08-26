@@ -14,6 +14,7 @@
 * [2024-08-26, 19:09:58](https://news.ycombinator.com/item?id=41360622) - [Apple to upgrade base Macs to 16GB RAM, starting from Apple M4 models](https://www.business-standard.com/technology/tech-news/apple-to-upgrade-base-macs-to-16gb-ram-starting-from-m4-models-report-124082600272_1.html)
 * [2024-08-26, 19:07:29](https://news.ycombinator.com/item?id=41360595) - [Intel Layoffs: Is Future U.S. Chip Independence in Trouble](https://spectrum.ieee.org/chips-act-and-intel)
 * [2024-08-26, 19:02:41](https://news.ycombinator.com/item?id=41360537) - [Why should anyone boot *you* up?](https://solmaz.io/why-should-anyone-boot-you-up)
+* [2024-08-26, 19:00:55](https://news.ycombinator.com/item?id=41360510) - [The \"Reimagine\" feature on Google's new Pixel 9 lineup is incredible](https://www.threads.net/@chriswelch/post/C-8LF4BOSAP)
 * [2024-08-26, 18:57:29](https://news.ycombinator.com/item?id=41360466) - [McKinsey Reveals: Leaders Are Wrong About Why Employees Quit](https://www.worktango.com/resources/articles/mckinsey-report-2021)
 * [2024-08-26, 18:45:14](https://news.ycombinator.com/item?id=41360329) - [Judge who overturned verdict against Boeing bought and sold Boeing stock](https://www.businessinsider.com/judge-boeing-zunum-lawsuit-stock-trade-accident-ethics-2024-8)
 * [2024-08-26, 18:32:53](https://news.ycombinator.com/item?id=41360195) - [Using $300 robot arms and a MacBook to fold a T-shirt](https://twitter.com/remicadene/status/1828006677528137977)
