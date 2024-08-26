@@ -44,6 +44,7 @@
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
 * [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
 * [2024-08-25, 15:12:58](https://news.ycombinator.com/item?id=41347852) - [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/)
+* [2024-08-25, 14:50:09](https://news.ycombinator.com/item?id=41347697) - [Why Does EmacsLisp Suck?](https://www.emacswiki.org/emacs/WhyDoesElispSuck)
 * [2024-08-25, 14:45:41](https://news.ycombinator.com/item?id=41347661) - [4.6M Voter and Election Documents Exposed Online by Technology Contractor](https://www.vpnmentor.com/news/report-election-records-breach/)
 * [2024-08-25, 14:21:47](https://news.ycombinator.com/item?id=41347501) - [Things I Learned from Doing Triathlon in My 70s](https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/)
 * [2024-08-25, 13:48:08](https://news.ycombinator.com/item?id=41347290) - [Speeding Up Your Website Using Cloudflare Cache](https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache)
