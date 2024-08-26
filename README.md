@@ -17,6 +17,7 @@
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 * [2024-08-26, 01:59:13](https://news.ycombinator.com/item?id=41353328) - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 * [2024-08-26, 00:08:07](https://news.ycombinator.com/item?id=41352681) - [Australian employees now have the right to ignore work emails, calls after hours](https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/)
+* [2024-08-25, 21:08:06](https://news.ycombinator.com/item?id=41351446) - [Writing a Rust compiler in C](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 * [2024-08-25, 20:42:02](https://news.ycombinator.com/item?id=41351219) - [Database \"sharding\" came from Ultima Online? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2024-08-25, 20:20:56](https://news.ycombinator.com/item?id=41351009) - [Olivetti Programma 101: At the Origins of the Personal Computer](https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/)
@@ -27,7 +28,6 @@
 * [2024-08-25, 15:51:11](https://news.ycombinator.com/item?id=41348204) - [Rnote – Sketch and take handwritten notes](https://github.com/flxzt/rnote)
 * [2024-08-25, 14:21:47](https://news.ycombinator.com/item?id=41347501) - [Things I Learned from Doing Triathlon in My 70s (2023)](https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/)
 * [2024-08-24, 13:33:42](https://news.ycombinator.com/item?id=41338193) - [Dual-screen laptops make more sense with this spiral notebook-like hinge](https://arstechnica.com/gadgets/2024/08/acemagics-x1-is-a-clever-but-delicate-approach-to-dual-screen-laptops/)
-* [2024-08-23, 17:59:09](https://news.ycombinator.com/item?id=41331356) - [Show HN: Support.dev – a non-trivial Vue and Supabase app](https://github.com/bwship/support-dev)
 * [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – a minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
 * [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
 
