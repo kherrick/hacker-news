@@ -7,6 +7,7 @@
 * [2024-08-26, 09:25:01](https://news.ycombinator.com/item?id=41355380) - [Uber fined €290M ($324M) in Netherlands for sending drivers' data to the US](https://www.reuters.com/technology/cybersecurity/dutch-privacy-watchdog-fines-uber-sending-drivers-data-us-2024-08-26/)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 08:25:07](https://news.ycombinator.com/item?id=41355079) - [Investing for Anyone: a low-stress and effective way to invest your savings](https://blog.strnisa.com/p/investing-for-anyone)
+* [2024-08-26, 08:15:55](https://news.ycombinator.com/item?id=41355021) - [Dutch DPA fines Uber 290M euro because of transfers of drivers' data to the US](https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us)
 * [2024-08-26, 07:33:35](https://news.ycombinator.com/item?id=41354830) - [Four Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
 * [2024-08-26, 05:34:57](https://news.ycombinator.com/item?id=41354297) - [Why Everything Is CRUD](https://blog.smartclient.com/why-everything-is-crud/)
 * [2024-08-26, 04:48:05](https://news.ycombinator.com/item?id=41354101) - [A Jenga tower about to collapse: Software erosion is happening all around us](https://www.techradar.com/pro/software-erosion-is-happening-all-around-us)
