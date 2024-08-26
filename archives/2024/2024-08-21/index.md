@@ -15,6 +15,7 @@
 * [2024-08-21, 21:52:05](https://news.ycombinator.com/item?id=41314542) - [Crypto 'pig butchering' scam wrecks bank, sends ex-CEO to prison for 24 years](https://www.cnbc.com/2024/08/21/cryptocurrency-shan-hanes-pig-butchering-scam.html)
 * [2024-08-21, 21:44:52](https://news.ycombinator.com/item?id=41314492) - [Degrees of Kevin Bacon Using Postgres](https://www.crunchydata.com/blog/six-degrees-of-kevin-bacon-postgres-style)
 * [2024-08-21, 21:39:38](https://news.ycombinator.com/item?id=41314453) - [New anti-speeding system coming to Australia is dangerous](https://www.carexpert.com.au/opinion/new-anti-speeding-system-coming-to-australia-is-dangerous)
+* [2024-08-21, 21:01:59](https://news.ycombinator.com/item?id=41314166) - [How WW2 bombs across the Pacific are found and destroyed, decades after war](https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo)
 * [2024-08-21, 21:01:27](https://news.ycombinator.com/item?id=41314161) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
 * [2024-08-21, 20:42:03](https://news.ycombinator.com/item?id=41314039) - [Do low-level optimizations matter? Faster quicksort with cmov](http://cantrip.org/sortfast.html)
 * [2024-08-21, 20:39:50](https://news.ycombinator.com/item?id=41314031) - [Euclid's Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
