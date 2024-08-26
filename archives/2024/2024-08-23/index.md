@@ -8,6 +8,7 @@
 * [2024-08-23, 22:31:45](https://news.ycombinator.com/item?id=41333648) - [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
 * [2024-08-23, 22:27:12](https://news.ycombinator.com/item?id=41333617) - [Metabolic byproduct of exercise helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
 * [2024-08-23, 21:44:59](https://news.ycombinator.com/item?id=41333384) - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
+* [2024-08-23, 21:43:14](https://news.ycombinator.com/item?id=41333369) - [Show HN: Play this game to prove your humanity against AI](https://playandsurvive.vercel.app/)
 * [2024-08-23, 21:29:44](https://news.ycombinator.com/item?id=41333284) - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
 * [2024-08-23, 21:04:12](https://news.ycombinator.com/item?id=41333082) - [BMW Overtakes Tesla in European EV Sales for First Time](https://electriccarsreport.com/2024/08/bmw-overtakes-tesla-in-european-ev-sales-for-first-time/)
 * [2024-08-23, 21:01:42](https://news.ycombinator.com/item?id=41333064) - [People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
