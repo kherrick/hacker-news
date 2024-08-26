@@ -20,6 +20,7 @@
 * [2024-08-26, 19:02:41](https://news.ycombinator.com/item?id=41360537) - [Why should anyone boot *you* up?](https://solmaz.io/why-should-anyone-boot-you-up)
 * [2024-08-26, 19:00:55](https://news.ycombinator.com/item?id=41360510) - [The \"Reimagine\" feature on Google's new Pixel 9 lineup is incredible](https://www.threads.net/@chriswelch/post/C-8LF4BOSAP)
 * [2024-08-26, 18:57:29](https://news.ycombinator.com/item?id=41360466) - [McKinsey Reveals: Leaders Are Wrong About Why Employees Quit](https://www.worktango.com/resources/articles/mckinsey-report-2021)
+* [2024-08-26, 18:53:06](https://news.ycombinator.com/item?id=41360409) - [CL-32 is a DIY pocket computer with a thumb keyboard, E-Ink and ESP32-S3 chip](https://liliputing.com/cl-32-is-a-diy-pocket-computer-with-a-thumb-keyboard-e-ink-screen-and-esp32-s3-chip/)
 * [2024-08-26, 18:45:14](https://news.ycombinator.com/item?id=41360329) - [Judge who overturned verdict against Boeing bought and sold Boeing stock](https://www.businessinsider.com/judge-boeing-zunum-lawsuit-stock-trade-accident-ethics-2024-8)
 * [2024-08-26, 18:32:53](https://news.ycombinator.com/item?id=41360195) - [Using $300 robot arms and a MacBook to fold a T-shirt](https://twitter.com/remicadene/status/1828006677528137977)
 * [2024-08-26, 18:16:23](https://news.ycombinator.com/item?id=41360030) - [Ask HN: Could early 80s computers have had better software given today's CS?](https://news.ycombinator.com/item?id=41360030)
