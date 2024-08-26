@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-26, 04:48:05",
-      "https://news.ycombinator.com/item?id=41354101"
+      "2024-08-26, 09:25:01",
+      "https://news.ycombinator.com/item?id=41355380"
     ],
     [
-      "A Jenga tower about to collapse: Software erosion is happening all around us",
-      "https://www.techradar.com/pro/software-erosion-is-happening-all-around-us"
+      "Uber fined €290M ($324M) in Netherlands for sending drivers' data to the US",
+      "https://www.reuters.com/technology/cybersecurity/dutch-privacy-watchdog-fines-uber-sending-drivers-data-us-2024-08-26/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 09:10:56",
+      "https://news.ycombinator.com/item?id=41355303"
+    ],
+    [
+      "Fixing a Bug in Google Chrome as a First-Time Contributor",
+      "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Cryptographic Doom Principle (2011)",
       "https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 19:02:08",
-      "https://news.ycombinator.com/item?id=41332011"
-    ],
-    [
-      "Show HN: Monogo – Evolve your go workspace to a real monorepo",
-      "https://github.com/nicolasgere/monogo"
     ]
   ],
   [
