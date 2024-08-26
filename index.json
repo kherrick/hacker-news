@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-08-26, 12:30:03",
-      "https://news.ycombinator.com/item?id=41356483"
-    ],
-    [
-      "US dismantles laptop farm used by undercover North Korean IT workers",
-      "https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 12:12:57",
       "https://news.ycombinator.com/item?id=41356382"
     ],
@@ -187,6 +177,16 @@
     [
       "BuffDB is a Rust library to simplify multi-plexing on edge devices",
       "https://github.com/buffdb/buffdb"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 16:04:21",
+      "https://news.ycombinator.com/item?id=41348338"
+    ],
+    [
+      "Emulating the Early Macintosh Floppy Drive",
+      "https://thomasw.dev/post/mac-floppy-emu/"
     ]
   ],
   [
