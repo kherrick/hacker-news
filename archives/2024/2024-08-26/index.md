@@ -43,6 +43,7 @@
 * [2024-08-26, 04:28:38](https://news.ycombinator.com/item?id=41354021) - [Association of the \"Weekend Warrior\" Physical Activity Patterns with Mortality](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2794038)
 * [2024-08-26, 04:18:07](https://news.ycombinator.com/item?id=41353979) - [Show HN: Ward – a file vault written in bash](https://github.com/oeo/ward)
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
+* [2024-08-26, 03:41:09](https://news.ycombinator.com/item?id=41353811) - [Helen Fisher, who researched the brain’s love circuitry, has died](https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html)
 * [2024-08-26, 01:59:20](https://news.ycombinator.com/item?id=41353330) - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
 * [2024-08-26, 01:59:13](https://news.ycombinator.com/item?id=41353328) - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 * [2024-08-26, 01:50:43](https://news.ycombinator.com/item?id=41353284) - [Server Setup Basics for Self Hosting](https://becomesovran.com/blog/server-setup-basics.html)
@@ -50,3 +51,4 @@
 * [2024-08-26, 01:18:54](https://news.ycombinator.com/item?id=41353079) - [We found North Korean engineers in our application pile. Here's what we did](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
 * [2024-08-26, 01:05:40](https://news.ycombinator.com/item?id=41352997) - [Uber loses New Zealand appeal, court rules drivers are employees not contractors](https://www.nzherald.co.nz/business/uber-loses-landmark-appeal-court-rules-drivers-are-employees-not-contractors/JDXF52QBBBHPJIQJNFNGYC4JOE/)
 * [2024-08-26, 00:08:07](https://news.ycombinator.com/item?id=41352681) - [Australian employees now have the right to ignore work emails, calls after hours](https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/)
+* [2024-08-26, 00:02:06](https://news.ycombinator.com/item?id=41352656) - [Matching dinosaur footprints found on opposite sides of the Atlantic Ocean](https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html)
