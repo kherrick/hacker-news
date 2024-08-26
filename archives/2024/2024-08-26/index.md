@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 15:46:01](https://news.ycombinator.com/item?id=41358327) - [A Massachusetts town closes its parks to stop a mosquito-borne disease](https://www.npr.org/2024/08/26/nx-s1-5089737/massachusetts-mosquito-disease-parks-fatal)
+* [2024-08-26, 15:31:54](https://news.ycombinator.com/item?id=41358132) - [Make your health insurance company cry: One woman's fight to turn the tables](https://sfstandard.com/2024/08/23/holden-karau-fight-health-insurance-appeal-claims-denials/)
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 * [2024-08-26, 15:17:05](https://news.ycombinator.com/item?id=41357969) - [Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
 * [2024-08-26, 15:05:51](https://news.ycombinator.com/item?id=41357853) - [Linux: We need tiling desktop environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 14:55:56](https://news.ycombinator.com/item?id=41357765) - [Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes](https://news.ycombinator.com/item?id=41357765)
+* [2024-08-26, 14:50:26](https://news.ycombinator.com/item?id=41357714) - [How a tiny radio station came to play a continuous loop since the late-1990s](https://www.northjersey.com/story/news/essex/montclair/2024/06/20/tiny-montclair-radio-station-plays-one-song-over-and-over/74124151007/)
 * [2024-08-26, 14:40:33](https://news.ycombinator.com/item?id=41357609) - [The Mystics of Progress](https://isaacyoung.substack.com/p/the-mystics-of-progress)
 * [2024-08-26, 14:39:18](https://news.ycombinator.com/item?id=41357594) - [Emmanuel Macron on the Arrest of Pavel Durov](https://twitter.com/EmmanuelMacron/status/1828077245606342672)
 * [2024-08-26, 14:36:30](https://news.ycombinator.com/item?id=41357557) - [DOJ Files Antitrust Suit Against RealPage, Maker of Rent-Setting Algorithm](https://www.propublica.org/article/realpage-lawsuit-doj-antitrustdoj-files-antitrust-suit-against-maker-of-rent-setting-algorithm)
