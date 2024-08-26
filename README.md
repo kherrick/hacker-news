@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-26, 13:39:21](https://news.ycombinator.com/item?id=41356998) - [Mozilla removes telemetry service Adjust from mobile Firefox versions](https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/)
 * [2024-08-26, 12:49:27](https://news.ycombinator.com/item?id=41356632) - [Love them or hate them, this couple reign in Russian literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
 * [2024-08-26, 12:12:57](https://news.ycombinator.com/item?id=41356382) - [IKEA launches secondhand marketplace to compete with eBay](https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734)
 * [2024-08-26, 12:00:56](https://news.ycombinator.com/item?id=41356310) - [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
@@ -27,7 +28,6 @@
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 * [2024-08-23, 17:59:09](https://news.ycombinator.com/item?id=41331356) - [Show HN: Support.dev – a non-trivial Vue and Supabase app](https://github.com/bwship/support-dev)
 * [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
-* [2024-08-21, 21:01:59](https://news.ycombinator.com/item?id=41314166) - [How WW2 bombs across the Pacific are found and destroyed, decades after war](https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo)
 * [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – a minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
 * [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
 

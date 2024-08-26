@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 13:39:21](https://news.ycombinator.com/item?id=41356998) - [Mozilla removes telemetry service Adjust from mobile Firefox versions](https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/)
 * [2024-08-26, 12:49:27](https://news.ycombinator.com/item?id=41356632) - [Love Them or Hate Them, This Couple Reign in Russian Literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
 * [2024-08-26, 12:30:03](https://news.ycombinator.com/item?id=41356483) - [US dismantles laptop farm used by undercover North Korean IT workers](https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/)
 * [2024-08-26, 12:12:57](https://news.ycombinator.com/item?id=41356382) - [IKEA launches secondhand marketplace to compete with eBay](https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734)
