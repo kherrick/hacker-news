@@ -1,11 +1,51 @@
 [
   [
     [
+      "2024-08-26, 15:21:56",
+      "https://news.ycombinator.com/item?id=41358020"
+    ],
+    [
+      "Dokku: My favorite personal serverless platform",
+      "https://hamel.dev/blog/posts/dokku/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 15:17:05",
+      "https://news.ycombinator.com/item?id=41357969"
+    ],
+    [
+      "Frontier is about to offer 7-gig fiber across several states",
+      "https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 15:05:51",
+      "https://news.ycombinator.com/item?id=41357853"
+    ],
+    [
+      "Linux: We need tiling desktop environments",
+      "https://linuxblog.io/linux-tiling-desktop-environments/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 14:55:56",
+      "https://news.ycombinator.com/item?id=41357765"
+    ],
+    [
+      "Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes",
+      "https://news.ycombinator.com/item?id=41357765"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 14:40:33",
       "https://news.ycombinator.com/item?id=41357609"
     ],
     [
-      "The Mystics of Progress",
+      "The Mystics of Progress (2023)",
       "https://isaacyoung.substack.com/p/the-mystics-of-progress"
     ]
   ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41357016"
     ],
     [
-      "New study reveals loophole in digital wallets–even if cardholder doesn't use one",
+      "Loophole in digital wallet security even if rightful cardholder doesn’t use one",
       "https://techxplore.com/news/2024-08-reveals-loophole-digital-wallet-rightful.html"
     ]
   ],
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41356239"
     ],
     [
-      "Coolify's rise to fame. And why it could be a big deal.",
+      "Coolify’s rise to fame, and why it could be a big deal",
       "https://blog.api-fiddle.com/posts/coolify-revolution"
     ]
   ],
@@ -85,8 +125,18 @@
       "https://news.ycombinator.com/item?id=41355303"
     ],
     [
-      "Fixing a Bug in Google Chrome as a First-Time Contributor",
+      "Fixing a bug in Google Chrome as a first-time contributor",
       "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 09:08:28",
+      "https://news.ycombinator.com/item?id=41355288"
+    ],
+    [
+      "The Iron Law of Bureaucracy (2010)",
+      "https://www.jerrypournelle.com/reports/jerryp/iron.html"
     ]
   ],
   [
@@ -117,26 +167,6 @@
     [
       "Australian employees now have the right to ignore work emails, calls after hours",
       "https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 22:32:32",
-      "https://news.ycombinator.com/item?id=41352091"
-    ],
-    [
-      "Realistic Synthetic UGC: A Scaffolding Approach to Generating Online Discussions",
-      "https://arxiv.org/abs/2408.08379"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 21:08:06",
-      "https://news.ycombinator.com/item?id=41351446"
-    ],
-    [
-      "Writing a Rust compiler in C",
-      "https://notgull.net/announcing-dozer/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2024-08-25, 13:06:08",
-      "https://news.ycombinator.com/item?id=41347016"
-    ],
-    [
-      "Strandbeest",
-      "https://www.strandbeest.com/"
-    ]
-  ],
-  [
-    [
       "2024-08-24, 13:33:42",
       "https://news.ycombinator.com/item?id=41338193"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-08-24, 11:16:57",
-      "https://news.ycombinator.com/item?id=41337301"
-    ],
-    [
-      "The Cryptographic Doom Principle (2011)",
-      "https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 17:59:09",
       "https://news.ycombinator.com/item?id=41331356"
     ],
     [
       "Show HN: Support.dev – a non-trivial Vue and Supabase app",
       "https://github.com/bwship/support-dev"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 04:27:54",
-      "https://news.ycombinator.com/item?id=41326169"
-    ],
-    [
-      "Modern Wardriving (2023)",
-      "https://simonroses.com/2023/12/modern-wardriving/"
     ]
   ],
   [
