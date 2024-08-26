@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 19:26:36](https://news.ycombinator.com/item?id=41360836) - [Oxford's Philosophy of Mathematics YouTube series [video]](https://www.youtube.com/watch?v=uo1xDbsYAcU&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
+* [2024-08-26, 19:24:16](https://news.ycombinator.com/item?id=41360808) - [Snowden: The arrest of Durov is an assault on the basic human rights](https://twitter.com/Snowden/status/1827695836832334169)
 * [2024-08-26, 19:19:58](https://news.ycombinator.com/item?id=41360758) - [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
+* [2024-08-26, 19:09:58](https://news.ycombinator.com/item?id=41360622) - [Apple to upgrade base Macs to 16GB RAM, starting from Apple M4 models](https://www.business-standard.com/technology/tech-news/apple-to-upgrade-base-macs-to-16gb-ram-starting-from-m4-models-report-124082600272_1.html)
+* [2024-08-26, 19:07:29](https://news.ycombinator.com/item?id=41360595) - [Intel Layoffs: Is Future U.S. Chip Independence in Trouble](https://spectrum.ieee.org/chips-act-and-intel)
+* [2024-08-26, 19:02:41](https://news.ycombinator.com/item?id=41360537) - [Why should anyone boot *you* up?](https://solmaz.io/why-should-anyone-boot-you-up)
+* [2024-08-26, 18:57:29](https://news.ycombinator.com/item?id=41360466) - [McKinsey Reveals: Leaders Are Wrong About Why Employees Quit](https://www.worktango.com/resources/articles/mckinsey-report-2021)
 * [2024-08-26, 18:45:14](https://news.ycombinator.com/item?id=41360329) - [Judge who overturned verdict against Boeing bought and sold Boeing stock](https://www.businessinsider.com/judge-boeing-zunum-lawsuit-stock-trade-accident-ethics-2024-8)
 * [2024-08-26, 18:32:53](https://news.ycombinator.com/item?id=41360195) - [Using $300 robot arms and a MacBook to fold a T-shirt](https://twitter.com/remicadene/status/1828006677528137977)
 * [2024-08-26, 18:16:23](https://news.ycombinator.com/item?id=41360030) - [Ask HN: Could early 80s computers have had better software given today's CS?](https://news.ycombinator.com/item?id=41360030)
