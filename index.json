@@ -1,36 +1,6 @@
 [
   [
     [
-      "2024-08-26, 14:08:24",
-      "https://news.ycombinator.com/item?id=41357269"
-    ],
-    [
-      "Schools are competing with cell phones",
-      "https://apnews.com/article/school-cell-phone-ban-extracurricular-afterschool-4d89f5b7fd7c8f1d5903f8c04f26da54"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 13:39:21",
-      "https://news.ycombinator.com/item?id=41356998"
-    ],
-    [
-      "Mozilla removes telemetry service Adjust from mobile Firefox versions",
-      "https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 13:31:06",
-      "https://news.ycombinator.com/item?id=41356930"
-    ],
-    [
-      "32M invoices, contracts, patient consent forms, and more exposed to the internet",
-      "https://www.websiteplanet.com/news/servicebridge-breach-report/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 12:49:27",
       "https://news.ycombinator.com/item?id=41356632"
     ],
@@ -161,16 +131,6 @@
   ],
   [
     [
-      "2024-08-25, 18:58:19",
-      "https://news.ycombinator.com/item?id=41350151"
-    ],
-    [
-      "An AWS IAM Security Tooling Reference",
-      "https://ramimac.me/aws-iam-tools-2024"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 16:52:14",
       "https://news.ycombinator.com/item?id=41348844"
     ],
@@ -201,12 +161,42 @@
   ],
   [
     [
+      "2024-08-25, 16:04:21",
+      "https://news.ycombinator.com/item?id=41348338"
+    ],
+    [
+      "Emulating the Early Macintosh Floppy Drive",
+      "https://thomasw.dev/post/mac-floppy-emu/"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 15:51:11",
       "https://news.ycombinator.com/item?id=41348204"
     ],
     [
       "Rnote – Sketch and take handwritten notes",
       "https://github.com/flxzt/rnote"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 15:32:00",
+      "https://news.ycombinator.com/item?id=41348000"
+    ],
+    [
+      "Programming terrain from scratch using C++ and OpenGL by Shamus Young (2006)",
+      "https://www.shamusyoung.com/twentysidedtale/?p=141"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 14:55:48",
+      "https://news.ycombinator.com/item?id=41347740"
+    ],
+    [
+      "How de-Googled is Lineage OS?",
+      "https://kevinboone.me/lineageos-degoogled.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The Calendar of Sound of Hermeto Pascoal (2020) [pdf]",
       "https://www.ijassjournal.com/2020/V3I6/4146575149.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 12:01:21",
+      "https://news.ycombinator.com/item?id=41337540"
+    ],
+    [
+      "Database in the Browser, a Spec",
+      "https://www.instantdb.com/essays/db_browser"
     ]
   ],
   [
