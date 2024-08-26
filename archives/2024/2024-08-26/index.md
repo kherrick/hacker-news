@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
 * [2024-08-26, 22:26:03](https://news.ycombinator.com/item?id=41362852) - [Months ago, Florida OK'd giving 324 acres of state forest to golf course company](https://www.tampabay.com/news/environment/2024/08/26/desantis-state-park-golf-course-land-swap-withlacoochee-forest-brooksville-cabot/)
+* [2024-08-26, 22:18:23](https://news.ycombinator.com/item?id=41362798) - [Blood Pressure Control Should Focus on More Potassium (2023)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.20545)
+* [2024-08-26, 22:10:36](https://news.ycombinator.com/item?id=41362737) - [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
 * [2024-08-26, 21:18:42](https://news.ycombinator.com/item?id=41362306) - [U.S. national park system gets a $100M grant, the largest in its history](https://www.npr.org/2024/08/26/nx-s1-5089844/national-park-system-100-million-dollar-grant)
 * [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
 * [2024-08-26, 21:01:16](https://news.ycombinator.com/item?id=41362122) - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
