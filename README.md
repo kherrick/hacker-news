@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-26, 22:26:03](https://news.ycombinator.com/item?id=41362852) - [Months ago, Florida OK'd giving 324 acres of state forest to golf course company](https://www.tampabay.com/news/environment/2024/08/26/desantis-state-park-golf-course-land-swap-withlacoochee-forest-brooksville-cabot/)
 * [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
 * [2024-08-26, 21:01:16](https://news.ycombinator.com/item?id=41362122) - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
 * [2024-08-26, 20:03:45](https://news.ycombinator.com/item?id=41361281) - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
@@ -10,7 +11,6 @@
 * [2024-08-26, 16:55:16](https://news.ycombinator.com/item?id=41359132) - [Eating the Birds of America: Audubon's Culinary Reviews of America's Birds](https://usbirdhistory.com/audubon-eating-americas-birds/)
 * [2024-08-26, 15:58:09](https://news.ycombinator.com/item?id=41358490) - [Show HN: Remove-bg – open-source remove background using WebGPU](https://bannerify.co/tools/remove-bg)
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
-* [2024-08-26, 15:05:51](https://news.ycombinator.com/item?id=41357853) - [Linux: We need tiling desktop environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 14:55:56](https://news.ycombinator.com/item?id=41357765) - [Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes](https://news.ycombinator.com/item?id=41357765)
 * [2024-08-26, 12:37:32](https://news.ycombinator.com/item?id=41356528) - [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 * [2024-08-26, 11:50:20](https://news.ycombinator.com/item?id=41356239) - [Coolify’s rise to fame, and why it could be a big deal](https://blog.api-fiddle.com/posts/coolify-revolution)
@@ -25,11 +25,11 @@
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
 * [2024-08-25, 10:38:26](https://news.ycombinator.com/item?id=41346244) - [A Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
 * [2024-08-25, 03:54:41](https://news.ycombinator.com/item?id=41344245) - [All Texts in Brooklyn](https://brooklyn.alltexts.nyc/)
+* [2024-08-24, 12:55:33](https://news.ycombinator.com/item?id=41337941) - [PHP-Parser: A Native PHP Parser for Parsing and Analyzing PHP Code](https://github.com/nikic/PHP-Parser)
 * [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-23, 15:51:46](https://news.ycombinator.com/item?id=41330007) - [DOJ sues realpage for algorithmic pricing scheme that harms renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
 * [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 * [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – A minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
-* [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
 
 ## [Archives](archives/index.md)
 
