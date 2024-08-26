@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-26, 09:25:01",
-      "https://news.ycombinator.com/item?id=41355380"
-    ],
-    [
-      "Uber fined €290M ($324M) in Netherlands for sending drivers' data to the US",
-      "https://www.reuters.com/technology/cybersecurity/dutch-privacy-watchdog-fines-uber-sending-drivers-data-us-2024-08-26/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 09:10:56",
       "https://news.ycombinator.com/item?id=41355303"
     ],
@@ -197,6 +187,16 @@
     [
       "Rnote – Sketch and take handwritten notes",
       "https://github.com/flxzt/rnote"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 15:32:00",
+      "https://news.ycombinator.com/item?id=41348000"
+    ],
+    [
+      "Programming terrain from scratch using C++ and OpenGL by Shamus Young (2006)",
+      "https://www.shamusyoung.com/twentysidedtale/?p=141"
     ]
   ],
   [
