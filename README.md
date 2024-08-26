@@ -25,11 +25,11 @@
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
 * [2024-08-25, 10:38:26](https://news.ycombinator.com/item?id=41346244) - [A Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
 * [2024-08-25, 03:54:41](https://news.ycombinator.com/item?id=41344245) - [All Texts in Brooklyn](https://brooklyn.alltexts.nyc/)
-* [2024-08-24, 12:55:33](https://news.ycombinator.com/item?id=41337941) - [PHP-Parser: A Native PHP Parser for Parsing and Analyzing PHP Code](https://github.com/nikic/PHP-Parser)
 * [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-23, 15:51:46](https://news.ycombinator.com/item?id=41330007) - [DOJ sues realpage for algorithmic pricing scheme that harms renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
 * [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 * [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – A minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
+* [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
 
 ## [Archives](archives/index.md)
 
