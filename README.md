@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-26, 22:59:31](https://news.ycombinator.com/item?id=41363043) - [Apple to Replace CFO Luca Maestri on Jan. 1](https://www.cnbc.com/2024/08/26/apple-to-replace-cfo-luca-maestri-on-jan-1.html)
 * [2024-08-26, 22:18:23](https://news.ycombinator.com/item?id=41362798) - [Blood Pressure Control Should Focus on More Potassium (2023)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.20545)
 * [2024-08-26, 22:10:36](https://news.ycombinator.com/item?id=41362737) - [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
 * [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
@@ -19,7 +20,6 @@
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 * [2024-08-26, 03:41:09](https://news.ycombinator.com/item?id=41353811) - [Helen Fisher, who researched the brain’s love circuitry, has died](https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html)
 * [2024-08-26, 00:02:06](https://news.ycombinator.com/item?id=41352656) - [Matching dinosaur footprints found on opposite sides of the Atlantic Ocean](https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html)
-* [2024-08-25, 18:03:21](https://news.ycombinator.com/item?id=41349585) - [Fossils are found all over, but what made them was a mystery](https://www.nytimes.com/2024/08/22/science/fossils-worms-bifungites-brazil.html)
 * [2024-08-25, 14:42:02](https://news.ycombinator.com/item?id=41347635) - [The Tao of Unicode Sparklines (2021)](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
 * [2024-08-25, 13:34:31](https://news.ycombinator.com/item?id=41347197) - [Acorn – Use Laravel Inside WordPress](https://roots.io/acorn/)
 * [2024-08-25, 13:23:21](https://news.ycombinator.com/item?id=41347119) - [What it's like to work on cold cases](https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html)
