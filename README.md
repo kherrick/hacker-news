@@ -23,7 +23,7 @@
 * [2024-08-25, 15:51:11](https://news.ycombinator.com/item?id=41348204) - [Rnote – Sketch and take handwritten notes](https://github.com/flxzt/rnote)
 * [2024-08-25, 14:50:09](https://news.ycombinator.com/item?id=41347697) - [Why Does Elisp Suck](https://www.emacswiki.org/emacs/WhyDoesElispSuck)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
-* [2024-08-24, 13:29:32](https://news.ycombinator.com/item?id=41338159) - [The Calendar of Sound of Hermeto Pascoal (2020) [pdf]](https://www.ijassjournal.com/2020/V3I6/4146575149.pdf)
+* [2024-08-24, 13:23:11](https://news.ycombinator.com/item?id=41338128) - [Getting up close and personal with Concorde, Concordski, and Buran](https://www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/)
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 * [2024-08-24, 08:50:33](https://news.ycombinator.com/item?id=41336655) - [Separating Data from Instructions in Prompting](https://zzbbyy.substack.com/p/separating-data-from-instructions)
 * [2024-08-21, 21:01:59](https://news.ycombinator.com/item?id=41314166) - [How WW2 bombs across the Pacific are found and destroyed, decades after war](https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo)
