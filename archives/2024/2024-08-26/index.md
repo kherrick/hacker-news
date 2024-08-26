@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 17:06:55](https://news.ycombinator.com/item?id=41359270) - [IOGraphica](https://iographica.com/)
+* [2024-08-26, 17:01:15](https://news.ycombinator.com/item?id=41359214) - [ProhostAI (YC S24) Is Hiring an iOS Engineer (SF)](https://www.ycombinator.com/companies/prohostai/jobs/if61XBq-founding-engineer-ios)
+* [2024-08-26, 16:55:16](https://news.ycombinator.com/item?id=41359132) - [Eating the Birds of America: Audubon's Culinary Reviews of America's Birds](https://usbirdhistory.com/audubon-eating-americas-birds/)
+* [2024-08-26, 16:53:01](https://news.ycombinator.com/item?id=41359109) - [Pavel Durov is questioned on 12 charges [pdf]](https://www.tribunal-de-paris.justice.fr/sites/default/files/2024-08/2024-08-26%20-%20CP%20TELEGRAM%20.pdf)
 * [2024-08-26, 15:58:09](https://news.ycombinator.com/item?id=41358490) - [Show HN: Remove-bg – open-source remove background using WebGPU](https://bannerify.co/tools/remove-bg)
 * [2024-08-26, 15:46:01](https://news.ycombinator.com/item?id=41358327) - [A Massachusetts town closes its parks to stop a mosquito-borne disease](https://www.npr.org/2024/08/26/nx-s1-5089737/massachusetts-mosquito-disease-parks-fatal)
 * [2024-08-26, 15:31:54](https://news.ycombinator.com/item?id=41358132) - [Make your health insurance company cry: One woman's fight to turn the tables](https://sfstandard.com/2024/08/23/holden-karau-fight-health-insurance-appeal-claims-denials/)
