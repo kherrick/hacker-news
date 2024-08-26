@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-08-26, 15:17:05",
-      "https://news.ycombinator.com/item?id=41357969"
-    ],
-    [
-      "Frontier is about to offer 7-gig fiber across several states",
-      "https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 15:05:51",
       "https://news.ycombinator.com/item?id=41357853"
     ],
@@ -67,16 +57,6 @@
     [
       "How a tiny radio station came to play a continuous loop since the late-1990s",
       "https://www.northjersey.com/story/news/essex/montclair/2024/06/20/tiny-montclair-radio-station-plays-one-song-over-and-over/74124151007/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 14:40:33",
-      "https://news.ycombinator.com/item?id=41357609"
-    ],
-    [
-      "The Mystics of Progress (2023)",
-      "https://isaacyoung.substack.com/p/the-mystics-of-progress"
     ]
   ],
   [
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=41351219"
     ],
     [
-      "Database \"sharding\" came from Ultima Online? (2009)",
+      "Database “sharding” came from Ultima Online? (2009)",
       "https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/"
     ]
   ],
@@ -217,6 +197,16 @@
     [
       "Olivetti Programma 101: At the Origins of the Personal Computer",
       "https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 19:28:26",
+      "https://news.ycombinator.com/item?id=41350468"
+    ],
+    [
+      "Stripe Data vs. Open‐Source Alternatives: A MRR Example",
+      "https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open%E2%80%90Source-Alternatives:-a-MRR-example"
     ]
   ],
   [
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2024-08-24, 04:58:04",
+      "https://news.ycombinator.com/item?id=41335770"
+    ],
+    [
+      "Guy Davenport – The Last High Modernist",
+      "https://www.thenation.com/article/culture/guy-davenport-geography-imagination/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 14:13:33",
       "https://news.ycombinator.com/item?id=41310508"
     ],
     [
-      "Peng – a minimal Rust-based quadrotor simulation pipeline",
+      "Peng – A minimal Rust-based quadrotor simulation pipeline",
       "https://github.com/makeecat/Peng"
     ]
   ],
