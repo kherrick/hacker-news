@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 05:34:57](https://news.ycombinator.com/item?id=41354297) - [Why Everything Is CRUD](https://blog.smartclient.com/why-everything-is-crud/)
 * [2024-08-26, 04:45:10](https://news.ycombinator.com/item?id=41354083) - [Sam Altman doesn't care about you](https://disconnect.blog/sam-altman-doesnt-care-about-you/)
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 * [2024-08-26, 01:59:20](https://news.ycombinator.com/item?id=41353330) - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
