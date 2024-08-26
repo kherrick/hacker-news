@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
 * [2024-08-25, 22:32:32](https://news.ycombinator.com/item?id=41352091) - [Realistic Synthetic UGC: A Scaffolding Approach to Generating Online Discussions](https://arxiv.org/abs/2408.08379)
+* [2024-08-25, 22:27:20](https://news.ycombinator.com/item?id=41352055) - [Bootstrap a Linux system from a 512 byte binary seed with 170 steps](https://github.com/fosslinux/live-bootstrap/blob/master/parts.rst)
 * [2024-08-25, 22:23:54](https://news.ycombinator.com/item?id=41352027) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
 * [2024-08-25, 22:18:02](https://news.ycombinator.com/item?id=41351993) - [Police Chief Says Cops Have a 5th Amendment Right to Leave Body Cameras Off](https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/)
 * [2024-08-25, 21:59:24](https://news.ycombinator.com/item?id=41351844) - [San Francisco officials weigh in on departure of X headquarters: 'Good riddance'](https://nypost.com/2024/08/25/us-news/san-francisco-officials-weigh-in-on-departure-of-musks-x-good-riddance/)
