@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-26, 12:49:27](https://news.ycombinator.com/item?id=41356632) - [Love Them or Hate Them, This Couple Reign in Russian Literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
+* [2024-08-26, 12:49:27](https://news.ycombinator.com/item?id=41356632) - [Love them or hate them, this couple reign in Russian literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
 * [2024-08-26, 12:30:03](https://news.ycombinator.com/item?id=41356483) - [US dismantles laptop farm used by undercover North Korean IT workers](https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/)
 * [2024-08-26, 12:12:57](https://news.ycombinator.com/item?id=41356382) - [IKEA launches secondhand marketplace to compete with eBay](https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734)
 * [2024-08-26, 12:00:56](https://news.ycombinator.com/item?id=41356310) - [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
@@ -9,6 +9,7 @@
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 * [2024-08-26, 01:59:13](https://news.ycombinator.com/item?id=41353328) - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 * [2024-08-26, 00:08:07](https://news.ycombinator.com/item?id=41352681) - [Australian employees now have the right to ignore work emails, calls after hours](https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/)
+* [2024-08-25, 22:32:32](https://news.ycombinator.com/item?id=41352091) - [Realistic Synthetic UGC: A Scaffolding Approach to Generating Online Discussions](https://arxiv.org/abs/2408.08379)
 * [2024-08-25, 21:08:06](https://news.ycombinator.com/item?id=41351446) - [Writing a Rust compiler in C](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 21:01:04](https://news.ycombinator.com/item?id=41351380) - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 * [2024-08-25, 20:42:02](https://news.ycombinator.com/item?id=41351219) - [Database \"sharding\" came from Ultima Online? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
@@ -18,7 +19,6 @@
 * [2024-08-25, 16:52:14](https://news.ycombinator.com/item?id=41348844) - [Linux Pipes Are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
 * [2024-08-25, 16:35:52](https://news.ycombinator.com/item?id=41348659) - [Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing](https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311)
 * [2024-08-25, 16:34:05](https://news.ycombinator.com/item?id=41348631) - [BuffDB is a Rust library to simplify multi-plexing on edge devices](https://github.com/buffdb/buffdb)
-* [2024-08-25, 16:04:21](https://news.ycombinator.com/item?id=41348338) - [Emulating the Early Macintosh Floppy Drive](https://thomasw.dev/post/mac-floppy-emu/)
 * [2024-08-25, 15:51:11](https://news.ycombinator.com/item?id=41348204) - [Rnote – Sketch and take handwritten notes](https://github.com/flxzt/rnote)
 * [2024-08-25, 14:50:09](https://news.ycombinator.com/item?id=41347697) - [Why Does Elisp Suck](https://www.emacswiki.org/emacs/WhyDoesElispSuck)
 * [2024-08-25, 14:21:47](https://news.ycombinator.com/item?id=41347501) - [Things I Learned from Doing Triathlon in My 70s](https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/)
