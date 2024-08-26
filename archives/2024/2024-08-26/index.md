@@ -8,6 +8,7 @@
 * [2024-08-26, 20:11:43](https://news.ycombinator.com/item?id=41361406) - [One Laptop per Child](https://en.wikipedia.org/wiki/One_Laptop_per_Child)
 * [2024-08-26, 20:03:59](https://news.ycombinator.com/item?id=41361286) - [The $16K Humanoid Robot Leaping into Production [video]](https://www.youtube.com/watch?v=y2KF2DnvN9Y)
 * [2024-08-26, 19:44:46](https://news.ycombinator.com/item?id=41361024) - [Crypto tax evasion is 'pervasive'](https://www.ft.com/content/5707abb8-fb86-4b3d-b7e0-4bc716c12b36)
+* [2024-08-26, 19:40:19](https://news.ycombinator.com/item?id=41360979) - [Finding love: Study reveals where love lives in the brain](https://medicalxpress.com/news/2024-08-reveals-brain.html)
 * [2024-08-26, 19:26:36](https://news.ycombinator.com/item?id=41360836) - [Oxford's Philosophy of Mathematics YouTube series [video]](https://www.youtube.com/watch?v=uo1xDbsYAcU&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
 * [2024-08-26, 19:24:16](https://news.ycombinator.com/item?id=41360808) - [Snowden: The arrest of Durov is an assault on the basic human rights](https://twitter.com/Snowden/status/1827695836832334169)
 * [2024-08-26, 19:19:58](https://news.ycombinator.com/item?id=41360758) - [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
