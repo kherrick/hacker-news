@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-26, 12:30:03](https://news.ycombinator.com/item?id=41356483) - [US dismantles laptop farm used by undercover North Korean IT workers](https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/)
 * [2024-08-26, 12:00:56](https://news.ycombinator.com/item?id=41356310) - [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
 * [2024-08-26, 10:48:50](https://news.ycombinator.com/item?id=41355890) - [13 Years of Building Infrastructure Control Planes in Ruby](https://www.ubicloud.com/blog/building-infrastructure-control-planes-in-ruby)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
@@ -19,7 +20,6 @@
 * [2024-08-25, 16:34:05](https://news.ycombinator.com/item?id=41348631) - [BuffDB is a Rust library to simplify multi-plexing on edge devices](https://github.com/buffdb/buffdb)
 * [2024-08-25, 16:04:21](https://news.ycombinator.com/item?id=41348338) - [Emulating the Early Macintosh Floppy Drive](https://thomasw.dev/post/mac-floppy-emu/)
 * [2024-08-25, 15:51:11](https://news.ycombinator.com/item?id=41348204) - [Rnote – Sketch and take handwritten notes](https://github.com/flxzt/rnote)
-* [2024-08-25, 15:32:00](https://news.ycombinator.com/item?id=41348000) - [Programming terrain from scratch using C++ and OpenGL by Shamus Young (2006)](https://www.shamusyoung.com/twentysidedtale/?p=141)
 * [2024-08-25, 14:50:09](https://news.ycombinator.com/item?id=41347697) - [Why Does Elisp Suck](https://www.emacswiki.org/emacs/WhyDoesElispSuck)
 * [2024-08-25, 14:21:47](https://news.ycombinator.com/item?id=41347501) - [Things I Learned from Doing Triathlon in My 70s](https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
