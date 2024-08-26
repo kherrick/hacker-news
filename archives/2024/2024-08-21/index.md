@@ -72,6 +72,7 @@
 * [2024-08-21, 14:00:47](https://news.ycombinator.com/item?id=41310384) - [How to Build a 50k Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 * [2024-08-21, 13:55:02](https://news.ycombinator.com/item?id=41310334) - [A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
 * [2024-08-21, 13:53:09](https://news.ycombinator.com/item?id=41310319) - [\"YOLO\" is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
+* [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
 * [2024-08-21, 13:43:48](https://news.ycombinator.com/item?id=41310217) - [Dual-boot systems warn after Microsoft update, Cannot boot into Linux](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
 * [2024-08-21, 13:28:34](https://news.ycombinator.com/item?id=41310085) - [An introduction to the remontoire](https://www.watchaffinity.co.uk/blog/its-complicated-the-remontoire/)
 * [2024-08-21, 13:17:12](https://news.ycombinator.com/item?id=41309997) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
