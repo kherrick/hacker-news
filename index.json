@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-26, 07:33:35",
-      "https://news.ycombinator.com/item?id=41354830"
-    ],
-    [
-      "Four Stages of Competence",
-      "https://en.wikipedia.org/wiki/Four_stages_of_competence"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 05:34:57",
       "https://news.ycombinator.com/item?id=41354297"
     ],
@@ -31,22 +21,22 @@
   ],
   [
     [
+      "2024-08-26, 04:18:07",
+      "https://news.ycombinator.com/item?id=41353979"
+    ],
+    [
+      "Show HN: Ward – a file vault written in bash",
+      "https://github.com/oeo/ward"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 03:44:48",
       "https://news.ycombinator.com/item?id=41353835"
     ],
     [
       "Avante.nvim: Use Your Neovim Like Using Cursor AI IDE",
       "https://github.com/yetone/avante.nvim"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 01:59:20",
-      "https://news.ycombinator.com/item?id=41353330"
-    ],
-    [
-      "Open-Source Cola",
-      "https://en.wikipedia.org/wiki/Open-source_cola"
     ]
   ],
   [
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2024-08-26, 01:28:28",
-      "https://news.ycombinator.com/item?id=41353155"
+      "2024-08-26, 01:50:43",
+      "https://news.ycombinator.com/item?id=41353284"
     ],
     [
-      "Senior Intel CPU architects splinter to develop RISC-V processors",
-      "https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing"
+      "Server Setup Basics for Self Hosting",
+      "https://becomesovran.com/blog/server-setup-basics.html"
     ]
   ],
   [
@@ -131,32 +121,12 @@
   ],
   [
     [
-      "2024-08-25, 19:34:53",
-      "https://news.ycombinator.com/item?id=41350530"
-    ],
-    [
-      "Is Telegram really an encrypted messaging app?",
-      "https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 19:28:26",
       "https://news.ycombinator.com/item?id=41350468"
     ],
     [
       "Stripe Data vs. Open‐Source Alternatives: A MRR Example",
       "https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open%E2%80%90Source-Alternatives:-a-MRR-example"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 19:05:20",
-      "https://news.ycombinator.com/item?id=41350225"
-    ],
-    [
-      "TIL: Versions of UUID and when to use them",
-      "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-08-25, 16:34:05",
+      "https://news.ycombinator.com/item?id=41348631"
+    ],
+    [
+      "BuffDB is a Rust library to simplify multi-plexing on edge devices",
+      "https://github.com/buffdb/buffdb"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 16:04:21",
       "https://news.ycombinator.com/item?id=41348338"
     ],
@@ -207,6 +187,16 @@
     [
       "Rnote – Sketch and take handwritten notes",
       "https://github.com/flxzt/rnote"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 15:32:00",
+      "https://news.ycombinator.com/item?id=41348000"
+    ],
+    [
+      "Programming terrain from scratch using C++ and OpenGL by Shamus Young (2006)",
+      "https://www.shamusyoung.com/twentysidedtale/?p=141"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-08-24, 13:23:11",
+      "https://news.ycombinator.com/item?id=41338128"
+    ],
+    [
+      "Getting up close and personal with Concorde, Concordski, and Buran",
+      "https://www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 11:16:57",
       "https://news.ycombinator.com/item?id=41337301"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2024-08-23, 04:27:54",
+      "https://news.ycombinator.com/item?id=41326169"
+    ],
+    [
+      "Modern Wardriving (2023)",
+      "https://simonroses.com/2023/12/modern-wardriving/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 21:01:59",
       "https://news.ycombinator.com/item?id=41314166"
     ],
     [
       "How WW2 bombs across the Pacific are found and destroyed, decades after war",
       "https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 20:20:16",
-      "https://news.ycombinator.com/item?id=41313861"
-    ],
-    [
-      "A Comparison of Arenas in Rust",
-      "https://donsz.nl/blog/arenas/"
     ]
   ],
   [
