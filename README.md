@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-26, 04:45:10](https://news.ycombinator.com/item?id=41354083) - [Sam Altman doesn't care about you](https://disconnect.blog/sam-altman-doesnt-care-about-you/)
+* [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 * [2024-08-26, 01:59:20](https://news.ycombinator.com/item?id=41353330) - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
 * [2024-08-26, 01:59:13](https://news.ycombinator.com/item?id=41353328) - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 * [2024-08-26, 01:50:43](https://news.ycombinator.com/item?id=41353284) - [Server Setup Basics for Self Hosting](https://becomesovran.com/blog/server-setup-basics.html)
@@ -26,7 +27,6 @@
 * [2024-08-24, 13:29:32](https://news.ycombinator.com/item?id=41338159) - [The Calendar of Sound of Hermeto Pascoal (2020) [pdf]](https://www.ijassjournal.com/2020/V3I6/4146575149.pdf)
 * [2024-08-24, 13:23:11](https://news.ycombinator.com/item?id=41338128) - [Getting up close and personal with Concorde, Concordski, and Buran](https://www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/)
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
-* [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-21, 21:01:59](https://news.ycombinator.com/item?id=41314166) - [How WW2 bombs across the Pacific are found and destroyed, decades after war](https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo)
 * [2024-08-21, 20:20:16](https://news.ycombinator.com/item?id=41313861) - [A Comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 * [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
