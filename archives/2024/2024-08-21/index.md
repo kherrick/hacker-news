@@ -67,6 +67,7 @@
 * [2024-08-21, 14:46:17](https://news.ycombinator.com/item?id=41310834) - [Self-Supervised Learning for Videos](https://www.lightly.ai/post/self-supervised-learning-for-videos)
 * [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 * [2024-08-21, 14:27:37](https://news.ycombinator.com/item?id=41310637) - [Don't obsess over tax and legal structures](https://emeaentrepreneurs.com/anti/dont-obsess-over-tax/)
+* [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – a minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
 * [2024-08-21, 14:12:14](https://news.ycombinator.com/item?id=41310491) - [CNCFsweeper](https://cncfsweeper.netlify.app/)
 * [2024-08-21, 14:05:48](https://news.ycombinator.com/item?id=41310433) - [Revisiting the Classics: Jensen's Inequality (2023)](https://francisbach.com/jensen-inequality/)
 * [2024-08-21, 14:03:00](https://news.ycombinator.com/item?id=41310404) - [Trillian Tessera: Next Generation Tile-Based Transparency Logs](https://blog.transparency.dev/introducing-trillian-tessera)

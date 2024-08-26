@@ -26,9 +26,9 @@
 * [2024-08-24, 13:23:11](https://news.ycombinator.com/item?id=41338128) - [Getting up close and personal with Concorde, Concordski, and Buran](https://www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/)
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 * [2024-08-24, 08:50:33](https://news.ycombinator.com/item?id=41336655) - [Separating Data from Instructions in Prompting](https://zzbbyy.substack.com/p/separating-data-from-instructions)
-* [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-21, 21:01:59](https://news.ycombinator.com/item?id=41314166) - [How WW2 bombs across the Pacific are found and destroyed, decades after war](https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo)
 * [2024-08-21, 20:20:16](https://news.ycombinator.com/item?id=41313861) - [A Comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
+* [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – a minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
 * [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
 
 ## [Archives](archives/index.md)
