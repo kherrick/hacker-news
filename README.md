@@ -24,10 +24,10 @@
 * [2024-08-25, 15:32:00](https://news.ycombinator.com/item?id=41348000) - [Programming terrain from scratch using C++ and OpenGL by Shamus Young (2006)](https://www.shamusyoung.com/twentysidedtale/?p=141)
 * [2024-08-25, 14:50:09](https://news.ycombinator.com/item?id=41347697) - [Why Does EmacsLisp Suck?](https://www.emacswiki.org/emacs/WhyDoesElispSuck)
 * [2024-08-25, 13:06:08](https://news.ycombinator.com/item?id=41347016) - [Strandbeest](https://www.strandbeest.com/)
-* [2024-08-24, 13:29:32](https://news.ycombinator.com/item?id=41338159) - [The Calendar of Sound of Hermeto Pascoal (2020) [pdf]](https://www.ijassjournal.com/2020/V3I6/4146575149.pdf)
 * [2024-08-24, 13:23:11](https://news.ycombinator.com/item?id=41338128) - [Getting up close and personal with Concorde, Concordski, and Buran](https://www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/)
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 * [2024-08-23, 19:02:08](https://news.ycombinator.com/item?id=41332011) - [Show HN: Monogo – Evolve your go workspace to a real monorepo](https://github.com/nicolasgere/monogo)
+* [2024-08-23, 04:27:54](https://news.ycombinator.com/item?id=41326169) - [Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 * [2024-08-21, 20:20:16](https://news.ycombinator.com/item?id=41313861) - [A Comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 * [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
 
