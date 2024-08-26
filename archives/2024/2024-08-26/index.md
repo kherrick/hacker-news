@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 14:39:18](https://news.ycombinator.com/item?id=41357594) - [Emmanuel Macron on the Arrest of Pavel Durov](https://twitter.com/EmmanuelMacron/status/1828077245606342672)
+* [2024-08-26, 14:36:30](https://news.ycombinator.com/item?id=41357557) - [DOJ Files Antitrust Suit Against RealPage, Maker of Rent-Setting Algorithm](https://www.propublica.org/article/realpage-lawsuit-doj-antitrustdoj-files-antitrust-suit-against-maker-of-rent-setting-algorithm)
 * [2024-08-26, 14:08:24](https://news.ycombinator.com/item?id=41357269) - [Schools are competing with cell phones](https://apnews.com/article/school-cell-phone-ban-extracurricular-afterschool-4d89f5b7fd7c8f1d5903f8c04f26da54)
 * [2024-08-26, 13:39:21](https://news.ycombinator.com/item?id=41356998) - [Mozilla removes telemetry service Adjust from mobile Firefox versions](https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/)
 * [2024-08-26, 13:31:06](https://news.ycombinator.com/item?id=41356930) - [32M invoices, contracts, patient consent forms, and more exposed to the internet](https://www.websiteplanet.com/news/servicebridge-breach-report/)
