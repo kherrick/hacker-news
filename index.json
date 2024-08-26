@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-26, 20:03:59",
+      "https://news.ycombinator.com/item?id=41361286"
+    ],
+    [
+      "The $16K Humanoid Robot Leaping into Production [video]",
+      "https://www.youtube.com/watch?v=y2KF2DnvN9Y"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 19:44:46",
+      "https://news.ycombinator.com/item?id=41361024"
+    ],
+    [
+      "Crypto tax evasion is 'pervasive'",
+      "https://www.ft.com/content/5707abb8-fb86-4b3d-b7e0-4bc716c12b36"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 19:26:36",
       "https://news.ycombinator.com/item?id=41360836"
     ],
@@ -47,16 +67,6 @@
     [
       "Intel Layoffs: Is Future U.S. Chip Independence in Trouble",
       "https://spectrum.ieee.org/chips-act-and-intel"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 19:02:41",
-      "https://news.ycombinator.com/item?id=41360537"
-    ],
-    [
-      "Why should anyone boot *you* up?",
-      "https://solmaz.io/why-should-anyone-boot-you-up"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Dokku: My favorite personal serverless platform",
       "https://hamel.dev/blog/posts/dokku/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 15:05:51",
-      "https://news.ycombinator.com/item?id=41357853"
-    ],
-    [
-      "Linux: We need tiling desktop environments",
-      "https://linuxblog.io/linux-tiling-desktop-environments/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-08-25, 03:54:41",
+      "https://news.ycombinator.com/item?id=41344245"
+    ],
+    [
+      "All Texts in Brooklyn",
+      "https://brooklyn.alltexts.nyc/"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 08:51:00",
       "https://news.ycombinator.com/item?id=41336657"
     ],
@@ -287,16 +297,6 @@
     [
       "Compressing data with sample points and polynomial interpolation",
       "https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 14:13:33",
-      "https://news.ycombinator.com/item?id=41310508"
-    ],
-    [
-      "Peng – A minimal Rust-based quadrotor simulation pipeline",
-      "https://github.com/makeecat/Peng"
     ]
   ]
 ]
