@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-08-23, 04:27:54",
-      "https://news.ycombinator.com/item?id=41326169"
-    ],
-    [
-      "Modern Wardriving (2023)",
-      "https://simonroses.com/2023/12/modern-wardriving/"
-    ]
-  ],
-  [
-    [
       "2024-08-21, 21:01:59",
       "https://news.ycombinator.com/item?id=41314166"
     ],
@@ -287,6 +277,16 @@
     [
       "A Comparison of Arenas in Rust",
       "https://donsz.nl/blog/arenas/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 14:13:33",
+      "https://news.ycombinator.com/item?id=41310508"
+    ],
+    [
+      "Peng – a minimal Rust-based quadrotor simulation pipeline",
+      "https://github.com/makeecat/Peng"
     ]
   ],
   [
