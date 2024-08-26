@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 19:19:58](https://news.ycombinator.com/item?id=41360758) - [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
 * [2024-08-26, 18:45:14](https://news.ycombinator.com/item?id=41360329) - [Judge who overturned verdict against Boeing bought and sold Boeing stock](https://www.businessinsider.com/judge-boeing-zunum-lawsuit-stock-trade-accident-ethics-2024-8)
 * [2024-08-26, 18:32:53](https://news.ycombinator.com/item?id=41360195) - [Using $300 robot arms and a MacBook to fold a T-shirt](https://twitter.com/remicadene/status/1828006677528137977)
 * [2024-08-26, 18:16:23](https://news.ycombinator.com/item?id=41360030) - [Ask HN: Could early 80s computers have had better software given today's CS?](https://news.ycombinator.com/item?id=41360030)
