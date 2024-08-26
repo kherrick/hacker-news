@@ -61,6 +61,7 @@
 * [2024-08-24, 09:54:24](https://news.ycombinator.com/item?id=41336944) - [48% less emissions if Germany had invested in nuclear (2002-2022)](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642)
 * [2024-08-24, 09:14:34](https://news.ycombinator.com/item?id=41336762) - [Consistently Making Wrong Decisions Whilst Writing Recreational C](https://amodernist.com/texts/fun-c.html)
 * [2024-08-24, 08:57:07](https://news.ycombinator.com/item?id=41336690) - [Japan on edge of EUV lithography chip-making revolution](https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/)
+* [2024-08-24, 08:50:33](https://news.ycombinator.com/item?id=41336655) - [Separating Data from Instructions in Prompting](https://zzbbyy.substack.com/p/separating-data-from-instructions)
 * [2024-08-24, 08:09:17](https://news.ycombinator.com/item?id=41336497) - [Shell.how: Explain Shell Commands](https://www.shell.how)
 * [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
 * [2024-08-24, 07:39:40](https://news.ycombinator.com/item?id=41336374) - [Create an internal CLI using Just](https://blog.chay.dev/create-an-internal-cli/)
