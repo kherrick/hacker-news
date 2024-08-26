@@ -42,6 +42,7 @@
 * [2024-08-24, 14:29:40](https://news.ycombinator.com/item?id=41338582) - [The Treacherous Optimization (2006)](https://ridiculousfish.com/blog/posts/old-age-and-treachery.html)
 * [2024-08-24, 13:57:56](https://news.ycombinator.com/item?id=41338354) - [You Are Not Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 * [2024-08-24, 13:46:31](https://news.ycombinator.com/item?id=41338285) - [A $10k stipend is available for anyone moving to Cumberland, MD](https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program)
+* [2024-08-24, 13:29:32](https://news.ycombinator.com/item?id=41338159) - [The Calendar of Sound of Hermeto Pascoal (2020) [pdf]](https://www.ijassjournal.com/2020/V3I6/4146575149.pdf)
 * [2024-08-24, 13:26:44](https://news.ycombinator.com/item?id=41338148) - [Warren Buffet's Missed Opportunity](https://www.city-journal.org/article/warren-buffetts-missed-opportunity)
 * [2024-08-24, 13:23:11](https://news.ycombinator.com/item?id=41338128) - [Getting up close and personal with Concorde, Concordski, and Buran](https://www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/)
 * [2024-08-24, 13:21:36](https://news.ycombinator.com/item?id=41338120) - [SCOTUS could deal another blow to climate action](https://www.theverge.com/2024/8/23/24226042/scotus-epa-clean-power-coal-plants-pause-rule)
