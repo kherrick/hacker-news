@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
+* [2024-08-26, 15:17:05](https://news.ycombinator.com/item?id=41357969) - [Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
+* [2024-08-26, 15:05:51](https://news.ycombinator.com/item?id=41357853) - [Linux: We need tiling desktop environments](https://linuxblog.io/linux-tiling-desktop-environments/)
+* [2024-08-26, 14:55:56](https://news.ycombinator.com/item?id=41357765) - [Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes](https://news.ycombinator.com/item?id=41357765)
 * [2024-08-26, 14:40:33](https://news.ycombinator.com/item?id=41357609) - [The Mystics of Progress](https://isaacyoung.substack.com/p/the-mystics-of-progress)
 * [2024-08-26, 14:39:18](https://news.ycombinator.com/item?id=41357594) - [Emmanuel Macron on the Arrest of Pavel Durov](https://twitter.com/EmmanuelMacron/status/1828077245606342672)
 * [2024-08-26, 14:36:30](https://news.ycombinator.com/item?id=41357557) - [DOJ Files Antitrust Suit Against RealPage, Maker of Rent-Setting Algorithm](https://www.propublica.org/article/realpage-lawsuit-doj-antitrustdoj-files-antitrust-suit-against-maker-of-rent-setting-algorithm)
@@ -21,6 +25,7 @@
 * [2024-08-26, 10:35:11](https://news.ycombinator.com/item?id=41355800) - [Show HN: I published a book to save you from my software architecture mistakes](https://leanpub.com/master-software-architecture)
 * [2024-08-26, 09:25:01](https://news.ycombinator.com/item?id=41355380) - [Uber fined €290M ($324M) in Netherlands for sending drivers' data to the US](https://www.reuters.com/technology/cybersecurity/dutch-privacy-watchdog-fines-uber-sending-drivers-data-us-2024-08-26/)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
+* [2024-08-26, 09:08:28](https://news.ycombinator.com/item?id=41355288) - [The Iron Law of Bureaucracy (2010)](https://www.jerrypournelle.com/reports/jerryp/iron.html)
 * [2024-08-26, 08:25:07](https://news.ycombinator.com/item?id=41355079) - [Investing for Anyone: a low-stress and effective way to invest your savings](https://blog.strnisa.com/p/investing-for-anyone)
 * [2024-08-26, 08:15:55](https://news.ycombinator.com/item?id=41355021) - [Dutch DPA fines Uber 290M euro because of transfers of drivers' data to the US](https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us)
 * [2024-08-26, 07:33:35](https://news.ycombinator.com/item?id=41354830) - [Four Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
