@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 18:16:23](https://news.ycombinator.com/item?id=41360030) - [Ask HN: Could early 80s computers have had better software given today's CS?](https://news.ycombinator.com/item?id=41360030)
+* [2024-08-26, 17:28:13](https://news.ycombinator.com/item?id=41359502) - [The Arrest of Pavel Durov Is a Reminder That Telegram Is Not Encrypted](https://gizmodo.com/the-arrest-of-pavel-durov-is-a-reminder-that-telegram-is-not-encrypted-2000490960)
 * [2024-08-26, 17:10:59](https://news.ycombinator.com/item?id=41359311) - [Young workers face a new challenge: Older workers aren't retiring](https://www.washingtonpost.com/opinions/2024/08/26/five-generations-workforce-gen-z-challenge/)
 * [2024-08-26, 17:06:55](https://news.ycombinator.com/item?id=41359270) - [IOGraphica](https://iographica.com/)
 * [2024-08-26, 17:01:15](https://news.ycombinator.com/item?id=41359214) - [ProhostAI (YC S24) Is Hiring an iOS Engineer (SF)](https://www.ycombinator.com/companies/prohostai/jobs/if61XBq-founding-engineer-ios)
@@ -21,6 +23,7 @@
 * [2024-08-26, 14:39:18](https://news.ycombinator.com/item?id=41357594) - [Emmanuel Macron on the Arrest of Pavel Durov](https://twitter.com/EmmanuelMacron/status/1828077245606342672)
 * [2024-08-26, 14:36:30](https://news.ycombinator.com/item?id=41357557) - [DOJ Files Antitrust Suit Against RealPage, Maker of Rent-Setting Algorithm](https://www.propublica.org/article/realpage-lawsuit-doj-antitrustdoj-files-antitrust-suit-against-maker-of-rent-setting-algorithm)
 * [2024-08-26, 14:08:24](https://news.ycombinator.com/item?id=41357269) - [Schools are competing with cell phones](https://apnews.com/article/school-cell-phone-ban-extracurricular-afterschool-4d89f5b7fd7c8f1d5903f8c04f26da54)
+* [2024-08-26, 13:43:22](https://news.ycombinator.com/item?id=41357037) - [In 2024, it really is better to run a startup in SF](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/)
 * [2024-08-26, 13:41:02](https://news.ycombinator.com/item?id=41357016) - [New study reveals loophole in digital wallets–even if cardholder doesn't use one](https://techxplore.com/news/2024-08-reveals-loophole-digital-wallet-rightful.html)
 * [2024-08-26, 13:39:21](https://news.ycombinator.com/item?id=41356998) - [Mozilla removes telemetry service Adjust from mobile Firefox versions](https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/)
 * [2024-08-26, 13:31:06](https://news.ycombinator.com/item?id=41356930) - [32M invoices, contracts, patient consent forms, and more exposed to the internet](https://www.websiteplanet.com/news/servicebridge-breach-report/)
