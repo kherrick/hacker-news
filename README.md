@@ -1,15 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-26, 20:15:52](https://news.ycombinator.com/item?id=41361473) - [Exxon still expects fossil fuels to make up the majority of energy in 25 years](https://www.cnbc.com/2024/08/26/exxon-still-sees-fossil-fuels-as-majority-of-energy-market-in-25-years.html)
-* [2024-08-26, 19:44:46](https://news.ycombinator.com/item?id=41361024) - [Crypto tax evasion is 'pervasive'](https://www.ft.com/content/5707abb8-fb86-4b3d-b7e0-4bc716c12b36)
-* [2024-08-26, 19:40:19](https://news.ycombinator.com/item?id=41360979) - [Finding love: Study reveals where love lives in the brain](https://medicalxpress.com/news/2024-08-reveals-brain.html)
+* [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
+* [2024-08-26, 21:01:16](https://news.ycombinator.com/item?id=41362122) - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
+* [2024-08-26, 20:30:56](https://news.ycombinator.com/item?id=41361715) - [Cash for catching scientific errors: bug bounties for academic publishing](https://www.nature.com/articles/d41586-024-02681-2)
 * [2024-08-26, 19:19:58](https://news.ycombinator.com/item?id=41360758) - [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
 * [2024-08-26, 17:06:55](https://news.ycombinator.com/item?id=41359270) - [IOGraphica](https://iographica.com/)
-* [2024-08-26, 17:01:15](https://news.ycombinator.com/item?id=41359214) - [ProhostAI (YC S24) Is Hiring an iOS Engineer (SF)](https://www.ycombinator.com/companies/prohostai/jobs/if61XBq-founding-engineer-ios)
+* [2024-08-26, 16:58:28](https://news.ycombinator.com/item?id=41359181) - [Show HN: Strict interfaces and dep management for Python, written in Rust](https://github.com/gauge-sh/tach)
 * [2024-08-26, 16:55:16](https://news.ycombinator.com/item?id=41359132) - [Eating the Birds of America: Audubon's Culinary Reviews of America's Birds](https://usbirdhistory.com/audubon-eating-americas-birds/)
 * [2024-08-26, 15:58:09](https://news.ycombinator.com/item?id=41358490) - [Show HN: Remove-bg – open-source remove background using WebGPU](https://bannerify.co/tools/remove-bg)
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
-* [2024-08-26, 15:05:51](https://news.ycombinator.com/item?id=41357853) - [Linux: We need tiling desktop environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 14:55:56](https://news.ycombinator.com/item?id=41357765) - [Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes](https://news.ycombinator.com/item?id=41357765)
 * [2024-08-26, 12:37:32](https://news.ycombinator.com/item?id=41356528) - [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 * [2024-08-26, 11:50:20](https://news.ycombinator.com/item?id=41356239) - [Coolify’s rise to fame, and why it could be a big deal](https://blog.api-fiddle.com/posts/coolify-revolution)
@@ -30,6 +29,7 @@
 * [2024-08-23, 13:21:45](https://news.ycombinator.com/item?id=41328794) - [Show HN: D&D meets Siri – Interactive voice adventure](https://pocket.computer)
 * [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 * [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – A minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
+* [2024-08-21, 13:52:40](https://news.ycombinator.com/item?id=41310311) - [Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
 
 ## [Archives](archives/index.md)
 

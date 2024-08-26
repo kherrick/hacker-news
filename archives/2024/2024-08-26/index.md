@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
+* [2024-08-26, 21:01:16](https://news.ycombinator.com/item?id=41362122) - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
+* [2024-08-26, 20:30:56](https://news.ycombinator.com/item?id=41361715) - [Cash for catching scientific errors: bug bounties for academic publishing](https://www.nature.com/articles/d41586-024-02681-2)
 * [2024-08-26, 20:15:52](https://news.ycombinator.com/item?id=41361473) - [Exxon still expects fossil fuels to make up the majority of energy in 25 years](https://www.cnbc.com/2024/08/26/exxon-still-sees-fossil-fuels-as-majority-of-energy-market-in-25-years.html)
 * [2024-08-26, 20:11:43](https://news.ycombinator.com/item?id=41361406) - [One Laptop per Child](https://en.wikipedia.org/wiki/One_Laptop_per_Child)
 * [2024-08-26, 20:03:59](https://news.ycombinator.com/item?id=41361286) - [The $16K Humanoid Robot Leaping into Production [video]](https://www.youtube.com/watch?v=y2KF2DnvN9Y)
@@ -25,6 +28,7 @@
 * [2024-08-26, 17:10:59](https://news.ycombinator.com/item?id=41359311) - [Young workers face a new challenge: Older workers aren't retiring](https://www.washingtonpost.com/opinions/2024/08/26/five-generations-workforce-gen-z-challenge/)
 * [2024-08-26, 17:06:55](https://news.ycombinator.com/item?id=41359270) - [IOGraphica](https://iographica.com/)
 * [2024-08-26, 17:01:15](https://news.ycombinator.com/item?id=41359214) - [ProhostAI (YC S24) Is Hiring an iOS Engineer (SF)](https://www.ycombinator.com/companies/prohostai/jobs/if61XBq-founding-engineer-ios)
+* [2024-08-26, 16:58:28](https://news.ycombinator.com/item?id=41359181) - [Show HN: Strict interfaces and dep management for Python, written in Rust](https://github.com/gauge-sh/tach)
 * [2024-08-26, 16:55:16](https://news.ycombinator.com/item?id=41359132) - [Eating the Birds of America: Audubon's Culinary Reviews of America's Birds](https://usbirdhistory.com/audubon-eating-americas-birds/)
 * [2024-08-26, 16:53:01](https://news.ycombinator.com/item?id=41359109) - [Pavel Durov is questioned on 12 charges [pdf]](https://www.tribunal-de-paris.justice.fr/sites/default/files/2024-08/2024-08-26%20-%20CP%20TELEGRAM%20.pdf)
 * [2024-08-26, 16:37:57](https://news.ycombinator.com/item?id=41358965) - [Cops are using AI chatbots to write crime reports. Will they hold up in court?](https://apnews.com/article/ai-writes-police-reports-axon-body-cameras-chatgpt-a24d1502b53faae4be0dac069243f418)
