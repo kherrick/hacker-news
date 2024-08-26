@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-26, 14:08:24](https://news.ycombinator.com/item?id=41357269) - [Schools are competing with cell phones](https://apnews.com/article/school-cell-phone-ban-extracurricular-afterschool-4d89f5b7fd7c8f1d5903f8c04f26da54)
 * [2024-08-26, 13:39:21](https://news.ycombinator.com/item?id=41356998) - [Mozilla removes telemetry service Adjust from mobile Firefox versions](https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/)
+* [2024-08-26, 13:31:06](https://news.ycombinator.com/item?id=41356930) - [32M invoices, contracts, patient consent forms, and more exposed to the internet](https://www.websiteplanet.com/news/servicebridge-breach-report/)
 * [2024-08-26, 12:49:27](https://news.ycombinator.com/item?id=41356632) - [Love them or hate them, this couple reign in Russian literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
-* [2024-08-26, 12:12:57](https://news.ycombinator.com/item?id=41356382) - [IKEA launches secondhand marketplace to compete with eBay](https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734)
 * [2024-08-26, 12:00:56](https://news.ycombinator.com/item?id=41356310) - [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 08:15:55](https://news.ycombinator.com/item?id=41355021) - [Dutch DPA fines Uber 290M euro because of transfers of drivers' data to the US](https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us)
@@ -19,7 +20,6 @@
 * [2024-08-25, 16:52:14](https://news.ycombinator.com/item?id=41348844) - [Linux Pipes Are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
 * [2024-08-25, 16:35:52](https://news.ycombinator.com/item?id=41348659) - [Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing](https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311)
 * [2024-08-25, 16:34:05](https://news.ycombinator.com/item?id=41348631) - [BuffDB is a Rust library to simplify multi-plexing on edge devices](https://github.com/buffdb/buffdb)
-* [2024-08-25, 16:04:21](https://news.ycombinator.com/item?id=41348338) - [Emulating the Early Macintosh Floppy Drive](https://thomasw.dev/post/mac-floppy-emu/)
 * [2024-08-25, 15:51:11](https://news.ycombinator.com/item?id=41348204) - [Rnote – Sketch and take handwritten notes](https://github.com/flxzt/rnote)
 * [2024-08-25, 14:50:09](https://news.ycombinator.com/item?id=41347697) - [Why Does Elisp Suck](https://www.emacswiki.org/emacs/WhyDoesElispSuck)
 * [2024-08-25, 14:21:47](https://news.ycombinator.com/item?id=41347501) - [Things I Learned from Doing Triathlon in My 70s](https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/)
