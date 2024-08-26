@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-26, 22:26:03",
+      "https://news.ycombinator.com/item?id=41362852"
+    ],
+    [
+      "Months ago, Florida OK'd giving 324 acres of state forest to golf course company",
+      "https://www.tampabay.com/news/environment/2024/08/26/desantis-state-park-golf-course-land-swap-withlacoochee-forest-brooksville-cabot/"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 21:02:00",
       "https://news.ycombinator.com/item?id=41362131"
     ],
@@ -97,16 +107,6 @@
     [
       "Dokku: My favorite personal serverless platform",
       "https://hamel.dev/blog/posts/dokku/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 15:05:51",
-      "https://news.ycombinator.com/item?id=41357853"
-    ],
-    [
-      "Linux: We need tiling desktop environments",
-      "https://linuxblog.io/linux-tiling-desktop-environments/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-08-24, 12:55:33",
+      "https://news.ycombinator.com/item?id=41337941"
+    ],
+    [
+      "PHP-Parser: A Native PHP Parser for Parsing and Analyzing PHP Code",
+      "https://github.com/nikic/PHP-Parser"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 08:51:00",
       "https://news.ycombinator.com/item?id=41336657"
     ],
@@ -287,16 +297,6 @@
     [
       "Peng – A minimal Rust-based quadrotor simulation pipeline",
       "https://github.com/makeecat/Peng"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 13:52:40",
-      "https://news.ycombinator.com/item?id=41310311"
-    ],
-    [
-      "Degas: Detailed Expressions on Full-Body Gaussian Avatars",
-      "https://initialneil.github.io/DEGAS"
     ]
   ]
 ]
