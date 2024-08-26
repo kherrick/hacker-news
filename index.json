@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-26, 04:45:10",
-      "https://news.ycombinator.com/item?id=41354083"
-    ],
-    [
-      "Sam Altman doesn't care about you",
-      "https://disconnect.blog/sam-altman-doesnt-care-about-you/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 03:44:48",
       "https://news.ycombinator.com/item?id=41353835"
     ],
@@ -57,16 +47,6 @@
     [
       "Senior Intel CPU architects splinter to develop RISC-V processors",
       "https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 01:18:54",
-      "https://news.ycombinator.com/item?id=41353079"
-    ],
-    [
-      "We found North Korean engineers in our application pile",
-      "https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-08-25, 15:32:00",
+      "https://news.ycombinator.com/item?id=41348000"
+    ],
+    [
+      "Programming terrain from scratch using C++ and OpenGL by Shamus Young (2006)",
+      "https://www.shamusyoung.com/twentysidedtale/?p=141"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 14:50:09",
       "https://news.ycombinator.com/item?id=41347697"
     ],
@@ -267,6 +257,16 @@
     [
       "The Cryptographic Doom Principle (2011)",
       "https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 04:27:54",
+      "https://news.ycombinator.com/item?id=41326169"
+    ],
+    [
+      "Modern Wardriving (2023)",
+      "https://simonroses.com/2023/12/modern-wardriving/"
     ]
   ],
   [
