@@ -34,6 +34,7 @@
 * [2024-08-23, 18:19:11](https://news.ycombinator.com/item?id=41331541) - [Show HN: SplitScreen – Create dual-video content for TikTok, YouTube, Reels](https://splitscreen.studio/)
 * [2024-08-23, 18:17:38](https://news.ycombinator.com/item?id=41331531) - [Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
 * [2024-08-23, 18:00:17](https://news.ycombinator.com/item?id=41331369) - [Meta Cancels High-End Mixed Reality Headset After Apple Vision Pro Struggles](https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/)
+* [2024-08-23, 17:59:09](https://news.ycombinator.com/item?id=41331356) - [Show HN: Support.dev – a non-trivial Vue and Supabase app](https://github.com/bwship/support-dev)
 * [2024-08-23, 17:44:42](https://news.ycombinator.com/item?id=41331185) - [Bypass Paywalls Add-On Takedown Notice](https://github.com/github/dmca/blob/master/2024/08/2024-08-09-news-media-alliance.md)
 * [2024-08-23, 17:14:05](https://news.ycombinator.com/item?id=41330852) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 17:01:15](https://news.ycombinator.com/item?id=41330690) - [Roboflow (YC S20) is hiring an ML Engineer to democratize computer vision](https://www.ycombinator.com/companies/roboflow/jobs/Hz7YcFa-full-stack-machine-learning-engineer)
