@@ -1,12 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-26, 20:03:59](https://news.ycombinator.com/item?id=41361286) - [The $16K Humanoid Robot Leaping into Production [video]](https://www.youtube.com/watch?v=y2KF2DnvN9Y)
+* [2024-08-26, 20:15:52](https://news.ycombinator.com/item?id=41361473) - [Exxon still expects fossil fuels to make up the majority of energy in 25 years](https://www.cnbc.com/2024/08/26/exxon-still-sees-fossil-fuels-as-majority-of-energy-market-in-25-years.html)
+* [2024-08-26, 20:11:43](https://news.ycombinator.com/item?id=41361406) - [One Laptop per Child](https://en.wikipedia.org/wiki/One_Laptop_per_Child)
 * [2024-08-26, 19:44:46](https://news.ycombinator.com/item?id=41361024) - [Crypto tax evasion is 'pervasive'](https://www.ft.com/content/5707abb8-fb86-4b3d-b7e0-4bc716c12b36)
-* [2024-08-26, 19:26:36](https://news.ycombinator.com/item?id=41360836) - [Oxford's Philosophy of Mathematics YouTube series [video]](https://www.youtube.com/watch?v=uo1xDbsYAcU&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
-* [2024-08-26, 19:24:16](https://news.ycombinator.com/item?id=41360808) - [Snowden: The arrest of Durov is an assault on the basic human rights](https://twitter.com/Snowden/status/1827695836832334169)
 * [2024-08-26, 19:19:58](https://news.ycombinator.com/item?id=41360758) - [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
-* [2024-08-26, 19:09:58](https://news.ycombinator.com/item?id=41360622) - [Apple to upgrade base Macs to 16GB RAM, starting from Apple M4 models](https://www.business-standard.com/technology/tech-news/apple-to-upgrade-base-macs-to-16gb-ram-starting-from-m4-models-report-124082600272_1.html)
-* [2024-08-26, 19:07:29](https://news.ycombinator.com/item?id=41360595) - [Intel Layoffs: Is Future U.S. Chip Independence in Trouble](https://spectrum.ieee.org/chips-act-and-intel)
 * [2024-08-26, 17:28:13](https://news.ycombinator.com/item?id=41359502) - [The Arrest of Pavel Durov Is a Reminder That Telegram Is Not Encrypted](https://gizmodo.com/the-arrest-of-pavel-durov-is-a-reminder-that-telegram-is-not-encrypted-2000490960)
 * [2024-08-26, 17:06:55](https://news.ycombinator.com/item?id=41359270) - [IOGraphica](https://iographica.com/)
 * [2024-08-26, 17:01:15](https://news.ycombinator.com/item?id=41359214) - [ProhostAI (YC S24) Is Hiring an iOS Engineer (SF)](https://www.ycombinator.com/companies/prohostai/jobs/if61XBq-founding-engineer-ios)
@@ -15,6 +12,7 @@
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 * [2024-08-26, 14:55:56](https://news.ycombinator.com/item?id=41357765) - [Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes](https://news.ycombinator.com/item?id=41357765)
 * [2024-08-26, 12:37:32](https://news.ycombinator.com/item?id=41356528) - [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
+* [2024-08-26, 11:50:20](https://news.ycombinator.com/item?id=41356239) - [Coolify’s rise to fame, and why it could be a big deal](https://blog.api-fiddle.com/posts/coolify-revolution)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a bug in Google Chrome as a first-time contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 * [2024-08-26, 03:41:09](https://news.ycombinator.com/item?id=41353811) - [Helen Fisher, who researched the brain’s love circuitry, has died](https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html)
@@ -29,7 +27,9 @@
 * [2024-08-24, 06:44:13](https://news.ycombinator.com/item?id=41336159) - [What Lasts and (Mostly) Doesn't Last](https://countercraft.substack.com/p/what-lasts-and-mostly-doesnt-last)
 * [2024-08-23, 15:51:46](https://news.ycombinator.com/item?id=41330007) - [DOJ sues realpage for algorithmic pricing scheme that harms renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
 * [2024-08-23, 13:21:45](https://news.ycombinator.com/item?id=41328794) - [Show HN: D&D meets Siri – Interactive voice adventure](https://pocket.computer)
+* [2024-08-21, 15:14:38](https://news.ycombinator.com/item?id=41311122) - [Military Motivation and Frontier Maintenance](https://acoup.blog/2024/08/16/fireside-friday-august-16-2024/)
 * [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
+* [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – A minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
 
 ## [Archives](archives/index.md)
 

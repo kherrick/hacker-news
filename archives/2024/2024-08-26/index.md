@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 20:15:52](https://news.ycombinator.com/item?id=41361473) - [Exxon still expects fossil fuels to make up the majority of energy in 25 years](https://www.cnbc.com/2024/08/26/exxon-still-sees-fossil-fuels-as-majority-of-energy-market-in-25-years.html)
+* [2024-08-26, 20:11:43](https://news.ycombinator.com/item?id=41361406) - [One Laptop per Child](https://en.wikipedia.org/wiki/One_Laptop_per_Child)
 * [2024-08-26, 20:03:59](https://news.ycombinator.com/item?id=41361286) - [The $16K Humanoid Robot Leaping into Production [video]](https://www.youtube.com/watch?v=y2KF2DnvN9Y)
 * [2024-08-26, 19:44:46](https://news.ycombinator.com/item?id=41361024) - [Crypto tax evasion is 'pervasive'](https://www.ft.com/content/5707abb8-fb86-4b3d-b7e0-4bc716c12b36)
 * [2024-08-26, 19:26:36](https://news.ycombinator.com/item?id=41360836) - [Oxford's Philosophy of Mathematics YouTube series [video]](https://www.youtube.com/watch?v=uo1xDbsYAcU&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
