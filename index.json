@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-26, 12:00:56",
+      "https://news.ycombinator.com/item?id=41356310"
+    ],
+    [
+      "Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search",
+      "https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 10:48:50",
+      "https://news.ycombinator.com/item?id=41355890"
+    ],
+    [
+      "13 Years of Building Infrastructure Control Planes in Ruby",
+      "https://www.ubicloud.com/blog/building-infrastructure-control-planes-in-ruby"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 09:10:56",
       "https://news.ycombinator.com/item?id=41355303"
     ],
@@ -17,16 +37,6 @@
     [
       "Dutch DPA fines Uber 290M euro because of transfers of drivers' data to the US",
       "https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 04:48:05",
-      "https://news.ycombinator.com/item?id=41354101"
-    ],
-    [
-      "A Jenga tower about to collapse: Software erosion is happening all around us",
-      "https://www.techradar.com/pro/software-erosion-is-happening-all-around-us"
     ]
   ],
   [
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2024-08-25, 21:34:44",
-      "https://news.ycombinator.com/item?id=41351662"
+      "2024-08-25, 22:27:20",
+      "https://news.ycombinator.com/item?id=41352055"
     ],
     [
-      "Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)",
-      "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only"
+      "Bootstrap a Linux system from a 512 byte binary seed with 170 steps",
+      "https://github.com/fosslinux/live-bootstrap/blob/master/parts.rst"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2024-08-25, 14:55:48",
-      "https://news.ycombinator.com/item?id=41347740"
-    ],
-    [
-      "How de-Googled is Lineage OS?",
-      "https://kevinboone.me/lineageos-degoogled.html"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 14:50:09",
       "https://news.ycombinator.com/item?id=41347697"
     ],
     [
       "Why Does Elisp Suck",
       "https://www.emacswiki.org/emacs/WhyDoesElispSuck"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 14:21:47",
+      "https://news.ycombinator.com/item?id=41347501"
+    ],
+    [
+      "Things I Learned from Doing Triathlon in My 70s",
+      "https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Show HN: Play this game to prove your humanity against AI",
       "https://playandsurvive.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 19:02:08",
-      "https://news.ycombinator.com/item?id=41332011"
-    ],
-    [
-      "Show HN: Monogo – Evolve your go workspace to a real monorepo",
-      "https://github.com/nicolasgere/monogo"
     ]
   ],
   [
