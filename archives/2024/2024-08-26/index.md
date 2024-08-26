@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 21:18:42](https://news.ycombinator.com/item?id=41362306) - [U.S. national park system gets a $100M grant, the largest in its history](https://www.npr.org/2024/08/26/nx-s1-5089844/national-park-system-100-million-dollar-grant)
 * [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
 * [2024-08-26, 21:01:16](https://news.ycombinator.com/item?id=41362122) - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
 * [2024-08-26, 20:30:56](https://news.ycombinator.com/item?id=41361715) - [Cash for catching scientific errors: bug bounties for academic publishing](https://www.nature.com/articles/d41586-024-02681-2)
