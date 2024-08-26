@@ -51,6 +51,7 @@
 * [2024-08-23, 14:22:32](https://news.ycombinator.com/item?id=41329274) - [Valve New Employee Handbook (2012) [pdf]](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
 * [2024-08-23, 13:58:22](https://news.ycombinator.com/item?id=41329073) - [Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://www.webcrumbs.org/frontend-ai)
 * [2024-08-23, 13:45:20](https://news.ycombinator.com/item?id=41328964) - [The staggering death toll of scientific lies](https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time)
+* [2024-08-23, 13:21:45](https://news.ycombinator.com/item?id=41328794) - [Show HN: D&D meets Siri – Interactive voice adventure](https://pocket.computer)
 * [2024-08-23, 13:20:19](https://news.ycombinator.com/item?id=41328784) - [17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/)
 * [2024-08-23, 13:15:40](https://news.ycombinator.com/item?id=41328749) - [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
 * [2024-08-23, 13:11:43](https://news.ycombinator.com/item?id=41328712) - [AI training shouldn't erase authorship](https://justine.lol/history/)

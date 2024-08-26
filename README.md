@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-26, 18:32:53](https://news.ycombinator.com/item?id=41360195) - [Using $300 robot arms and a MacBook to fold a T-shirt](https://twitter.com/remicadene/status/1828006677528137977)
 * [2024-08-26, 18:16:23](https://news.ycombinator.com/item?id=41360030) - [Ask HN: Could early 80s computers have had better software given today's CS?](https://news.ycombinator.com/item?id=41360030)
 * [2024-08-26, 17:28:13](https://news.ycombinator.com/item?id=41359502) - [The Arrest of Pavel Durov Is a Reminder That Telegram Is Not Encrypted](https://gizmodo.com/the-arrest-of-pavel-durov-is-a-reminder-that-telegram-is-not-encrypted-2000490960)
 * [2024-08-26, 17:06:55](https://news.ycombinator.com/item?id=41359270) - [IOGraphica](https://iographica.com/)
@@ -17,8 +18,6 @@
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 * [2024-08-26, 03:41:09](https://news.ycombinator.com/item?id=41353811) - [Helen Fisher, who researched the brain’s love circuitry, has died](https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html)
 * [2024-08-26, 00:02:06](https://news.ycombinator.com/item?id=41352656) - [Matching dinosaur footprints found on opposite sides of the Atlantic Ocean](https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html)
-* [2024-08-25, 22:20:58](https://news.ycombinator.com/item?id=41352008) - [Real-world uplift modelling with significance-based uplift trees [pdf]](https://www.stochasticsolutions.com/pdf/sig-based-up-trees.pdf)
-* [2024-08-25, 16:52:14](https://news.ycombinator.com/item?id=41348844) - [Linux Pipes Are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
 * [2024-08-25, 14:42:02](https://news.ycombinator.com/item?id=41347635) - [The Tao of Unicode Sparklines (2021)](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
 * [2024-08-25, 13:34:31](https://news.ycombinator.com/item?id=41347197) - [Acorn – Use Laravel Inside WordPress](https://roots.io/acorn/)
 * [2024-08-25, 13:23:21](https://news.ycombinator.com/item?id=41347119) - [What it's like to work on cold cases](https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html)
@@ -27,8 +26,9 @@
 * [2024-08-25, 03:54:41](https://news.ycombinator.com/item?id=41344245) - [All Texts in Brooklyn](https://brooklyn.alltexts.nyc/)
 * [2024-08-24, 13:33:42](https://news.ycombinator.com/item?id=41338193) - [Dual-screen laptops make more sense with this spiral notebook-like hinge](https://arstechnica.com/gadgets/2024/08/acemagics-x1-is-a-clever-but-delicate-approach-to-dual-screen-laptops/)
 * [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
+* [2024-08-24, 06:44:13](https://news.ycombinator.com/item?id=41336159) - [What Lasts and (Mostly) Doesn't Last](https://countercraft.substack.com/p/what-lasts-and-mostly-doesnt-last)
 * [2024-08-23, 15:51:46](https://news.ycombinator.com/item?id=41330007) - [DOJ sues realpage for algorithmic pricing scheme that harms renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
-* [2024-08-21, 15:04:35](https://news.ycombinator.com/item?id=41311029) - [Recurring Systems Archetypes (2017)](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-12-recurring-systems-archetypes-2e2c8ae8fc99)
+* [2024-08-23, 13:21:45](https://news.ycombinator.com/item?id=41328794) - [Show HN: D&D meets Siri – Interactive voice adventure](https://pocket.computer)
 * [2024-08-21, 14:13:33](https://news.ycombinator.com/item?id=41310508) - [Peng – A minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
 
 ## [Archives](archives/index.md)

@@ -68,6 +68,7 @@
 * [2024-08-24, 08:09:17](https://news.ycombinator.com/item?id=41336497) - [Shell.how: Explain Shell Commands](https://www.shell.how)
 * [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
 * [2024-08-24, 07:39:40](https://news.ycombinator.com/item?id=41336374) - [Create an internal CLI using Just](https://blog.chay.dev/create-an-internal-cli/)
+* [2024-08-24, 06:44:13](https://news.ycombinator.com/item?id=41336159) - [What Lasts and (Mostly) Doesn't Last](https://countercraft.substack.com/p/what-lasts-and-mostly-doesnt-last)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-24, 04:58:04](https://news.ycombinator.com/item?id=41335770) - [Guy Davenport–The Last High Modernist](https://www.thenation.com/article/culture/guy-davenport-geography-imagination/)
 * [2024-08-24, 04:10:10](https://news.ycombinator.com/item?id=41335549) - ['The Cheese and the Worms': Carlo Ginzburg Launches Microhistory](https://thereader.mitpress.mit.edu/the-cheese-and-the-worms-carlo-ginzburg-launches-microhistory/)
