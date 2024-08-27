@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 18:02:29](https://news.ycombinator.com/item?id=41370714) - [Malware infiltrates Pidgin messenger's official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
 * [2024-08-27, 17:00:27](https://news.ycombinator.com/item?id=41369885) - [Great Question (YC W21) Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
 * [2024-08-27, 16:53:45](https://news.ycombinator.com/item?id=41369769) - [Is 'No tax on tips' a distraction from the fight to end sub-minimum wages?](https://www.theguardian.com/us-news/article/2024/aug/27/no-tax-on-tips-unlivable-minimum-wages)
 * [2024-08-27, 16:51:58](https://news.ycombinator.com/item?id=41369734) - [CMG pitch deck on listening to your conversations to target ads](https://gizmodo.com/pitch-dek-gives-new-details-on-companys-plan-to-listen-to-your-devices-for-ad-targeting-2000491095)
@@ -15,7 +16,10 @@
 * [2024-08-27, 15:46:02](https://news.ycombinator.com/item?id=41368835) - [Bootstrappable Builds](https://bootstrappable.org)
 * [2024-08-27, 15:32:28](https://news.ycombinator.com/item?id=41368690) - [Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
 * [2024-08-27, 15:31:47](https://news.ycombinator.com/item?id=41368677) - [No smoking in your own home, California city orders residents](https://www.thetimes.com/world/us-world/article/carlsbad-california-smoking-illegal-where-houses-k9qrrvm05)
+* [2024-08-27, 15:31:33](https://news.ycombinator.com/item?id=41368674) - [A New Wave of Underwater Comms Is Coming](https://spectrum.ieee.org/underwater-communication)
+* [2024-08-27, 15:30:23](https://news.ycombinator.com/item?id=41368659) - [A somewhat faster, more lightweight, ripgrep-inspired alternative](https://github.com/alexpasmantier/grip-grab)
 * [2024-08-27, 15:04:46](https://news.ycombinator.com/item?id=41368363) - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
+* [2024-08-27, 15:00:08](https://news.ycombinator.com/item?id=41368304) - [We built an open-source UIPath alternative that solves problem in all RPA](https://www.openagent.studio/)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 * [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)
 * [2024-08-27, 14:12:40](https://news.ycombinator.com/item?id=41367749) - [The Real Exponential Curve for LLMs](https://fume.substack.com/p/inference-is-free-and-instant)
