@@ -59,6 +59,7 @@
 * [2024-08-22, 10:17:55](https://news.ycombinator.com/item?id=41318553) - [Nix in 100 Seconds [video]](https://www.youtube.com/watch?v=FJVFXsNzYZQ)
 * [2024-08-22, 09:57:51](https://news.ycombinator.com/item?id=41318459) - [Second human being implanted with Neuralink brain chip](https://neuralink.com/blog/prime-study-progress-update-second-participant/)
 * [2024-08-22, 09:56:26](https://news.ycombinator.com/item?id=41318452) - [Study explains why laws are written in an incomprehensible style](https://phys.org/news/2024-08-laws-written-incomprehensible-style.html)
+* [2024-08-22, 09:52:29](https://news.ycombinator.com/item?id=41318440) - [To kill mammoths in the Ice Age, people used planted pikes, not throwing spears](https://phys.org/news/2024-08-mammoths-ice-age-people-pikes.html)
 * [2024-08-22, 09:46:32](https://news.ycombinator.com/item?id=41318408) - [No \"Hello\", No \"Quick Call\", and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
 * [2024-08-22, 09:33:08](https://news.ycombinator.com/item?id=41318336) - [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
 * [2024-08-22, 09:31:14](https://news.ycombinator.com/item?id=41318332) - [Reverse Engineering Franklin Bookmans](https://bookmanarchive.com/reverse-engineering)
