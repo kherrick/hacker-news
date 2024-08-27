@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 12:00:06](https://news.ycombinator.com/item?id=41366602) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
+* [2024-08-27, 11:36:25](https://news.ycombinator.com/item?id=41366436) - [How do you make safe, cheap nuclear reactors? Bury them a mile deep](https://newatlas.com/energy/underground-nuclear-reactors/)
 * [2024-08-27, 11:19:42](https://news.ycombinator.com/item?id=41366304) - [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
 * [2024-08-27, 10:39:23](https://news.ycombinator.com/item?id=41366075) - [The Google Fit APIs will no longer be available after June 30, 2025](https://developers.google.com/fit)
 * [2024-08-27, 10:37:06](https://news.ycombinator.com/item?id=41366064) - [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)

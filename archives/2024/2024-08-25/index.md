@@ -69,6 +69,7 @@
 * [2024-08-25, 12:07:06](https://news.ycombinator.com/item?id=41346711) - [Ask HN: Why not replace technical job interviews with yearly standardized exams?](https://news.ycombinator.com/item?id=41346711)
 * [2024-08-25, 11:57:47](https://news.ycombinator.com/item?id=41346659) - [Guide to Error Handling in Rust](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
 * [2024-08-25, 11:47:14](https://news.ycombinator.com/item?id=41346597) - [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/README.md)
+* [2024-08-25, 11:37:50](https://news.ycombinator.com/item?id=41346530) - [Parochialism in Time and Space (2021)](https://wyclif.substack.com/p/parochialism-in-time-and-space)
 * [2024-08-25, 11:26:44](https://news.ycombinator.com/item?id=41346476) - [MavenGate gets it all wrong and hurts open source](http://day-to-day-stuff.blogspot.com/2024/08/mavengate-gets-it-all-wrong-and-hurts.html)
 * [2024-08-25, 10:40:44](https://news.ycombinator.com/item?id=41346258) - [Electric vehicle battery fires–what to know and how to react](https://www.wired.com/story/ev-battery-fires-explained/)
 * [2024-08-25, 10:38:26](https://news.ycombinator.com/item?id=41346244) - [A Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
