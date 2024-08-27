@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-27, 18:16:18](https://news.ycombinator.com/item?id=41370877) - [Unlocking the Pixel 9 bootloader breaks some Pixel AI apps](https://liliputing.com/unlocking-the-pixel-9-bootloader-breaks-some-pixel-ai-apps/)
 * [2024-08-27, 18:02:29](https://news.ycombinator.com/item?id=41370714) - [Malware infiltrates Pidgin messenger's official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
 * [2024-08-27, 17:00:27](https://news.ycombinator.com/item?id=41369885) - [Great Question (YC W21) Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
 * [2024-08-27, 16:53:45](https://news.ycombinator.com/item?id=41369769) - [Is 'No tax on tips' a distraction from the fight to end sub-minimum wages?](https://www.theguardian.com/us-news/article/2024/aug/27/no-tax-on-tips-unlivable-minimum-wages)
 * [2024-08-27, 16:49:46](https://news.ycombinator.com/item?id=41369705) - [Cerebras Inference: AI at Instant Speed](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed)
 * [2024-08-27, 16:42:01](https://news.ycombinator.com/item?id=41369586) - [Cerebras launches inference for Llama 3.1; benchmarked at 1846 tokens/s on 8B](https://twitter.com/ArtificialAnlys/status/1828463912389402896)
-* [2024-08-27, 16:02:44](https://news.ycombinator.com/item?id=41369008) - [The historical distinction between coder and programmer](https://cacm.acm.org/opinion/the-myth-of-the-coder/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 * [2024-08-27, 15:46:02](https://news.ycombinator.com/item?id=41368835) - [Bootstrappable Builds](https://bootstrappable.org)
 * [2024-08-27, 15:31:33](https://news.ycombinator.com/item?id=41368674) - [A New Wave of Underwater Comms Is Coming](https://spectrum.ieee.org/underwater-communication)

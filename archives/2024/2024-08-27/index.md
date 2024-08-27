@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 18:16:18](https://news.ycombinator.com/item?id=41370877) - [Unlocking the Pixel 9 bootloader breaks some Pixel AI apps](https://liliputing.com/unlocking-the-pixel-9-bootloader-breaks-some-pixel-ai-apps/)
 * [2024-08-27, 18:02:29](https://news.ycombinator.com/item?id=41370714) - [Malware infiltrates Pidgin messenger's official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
 * [2024-08-27, 17:00:27](https://news.ycombinator.com/item?id=41369885) - [Great Question (YC W21) Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
 * [2024-08-27, 16:53:45](https://news.ycombinator.com/item?id=41369769) - [Is 'No tax on tips' a distraction from the fight to end sub-minimum wages?](https://www.theguardian.com/us-news/article/2024/aug/27/no-tax-on-tips-unlivable-minimum-wages)
