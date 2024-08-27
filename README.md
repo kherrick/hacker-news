@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-27, 15:55:56](https://news.ycombinator.com/item?id=41368935) - [80% of AI Projects Crash and Burn, Billions Wasted Says Rand Report](https://salesforcedevops.net/index.php/2024/08/19/ai-apocalypse/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 * [2024-08-27, 15:46:02](https://news.ycombinator.com/item?id=41368835) - [Bootstrappable Builds](https://bootstrappable.org)
-* [2024-08-27, 15:32:28](https://news.ycombinator.com/item?id=41368690) - [Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
 * [2024-08-27, 15:04:46](https://news.ycombinator.com/item?id=41368363) - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 * [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)
@@ -18,6 +18,7 @@
 * [2024-08-27, 04:23:27](https://news.ycombinator.com/item?id=41364549) - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 03:46:35](https://news.ycombinator.com/item?id=41364412) - [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
 * [2024-08-27, 00:34:05](https://news.ycombinator.com/item?id=41363549) - [The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
+* [2024-08-27, 00:26:37](https://news.ycombinator.com/item?id=41363499) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 * [2024-08-26, 23:34:21](https://news.ycombinator.com/item?id=41363231) - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
 * [2024-08-26, 20:03:45](https://news.ycombinator.com/item?id=41361281) - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
@@ -27,7 +28,6 @@
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
 * [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 13:39:42](https://news.ycombinator.com/item?id=41338240) - [Firewalling your code](https://lackofimagination.org/2024/08/firewalling-your-code/)
-* [2024-08-24, 12:53:48](https://news.ycombinator.com/item?id=41337927) - [Out of Your Head](https://nautil.us/out-of-your-head-791745/)
 * [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-22, 09:52:29](https://news.ycombinator.com/item?id=41318440) - [To kill mammoths in the Ice Age, people used planted pikes, not throwing spears](https://phys.org/news/2024-08-mammoths-ice-age-people-pikes.html)
 
