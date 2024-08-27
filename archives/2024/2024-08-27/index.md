@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-27, 20:47:51](https://news.ycombinator.com/item?id=41372836) - [Starliner Is Such a Disaster That Boeing May Cancel the Entire Project](https://futurism.com/starliner-failure-embarrassment-boeing)
 * [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)

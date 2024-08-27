@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-27, 20:47:51](https://news.ycombinator.com/item?id=41372836) - [Starliner Is Such a Disaster That Boeing May Cancel the Entire Project](https://futurism.com/starliner-failure-embarrassment-boeing)
 * [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
 * [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
 * [2024-08-27, 19:43:54](https://news.ycombinator.com/item?id=41372059) - [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
-* [2024-08-27, 19:43:46](https://news.ycombinator.com/item?id=41372056) - [Microsoft security tools questioned for treating employees as threats](https://www.theregister.com/2024/08/27/microsoft_workplace_surveillance/)
 * [2024-08-27, 19:41:59](https://news.ycombinator.com/item?id=41372028) - [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
 * [2024-08-27, 18:49:15](https://news.ycombinator.com/item?id=41371288) - [PyRoboCOP: Python-Based Robotic Control and Optimization Package](https://ieeexplore.ieee.org/abstract/document/10440590)
 * [2024-08-27, 18:38:59](https://news.ycombinator.com/item?id=41371170) - [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
