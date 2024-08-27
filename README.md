@@ -27,8 +27,8 @@
 * [2024-08-27, 10:23:35](https://news.ycombinator.com/item?id=41366006) - [Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs](https://splatt3r.active.vision/)
 * [2024-08-27, 09:50:15](https://news.ycombinator.com/item?id=41365868) - [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
 * [2024-08-27, 04:45:46](https://news.ycombinator.com/item?id=41364637) - [Anthropic publishes the 'system prompts' that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
+* [2024-08-25, 13:59:55](https://news.ycombinator.com/item?id=41347368) - [If Your World Is Not Enchanted, You're Not Paying Attention](https://theconvivialsociety.substack.com/p/if-your-world-is-not-enchanted-youre)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
-* [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
 
 ## [Archives](archives/index.md)
