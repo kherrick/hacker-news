@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-08-27, 00:46:42",
+      "https://news.ycombinator.com/item?id=41363637"
+    ],
+    [
+      "From 14 years old till 29, my experience with desktop Linux",
+      "https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 00:34:05",
+      "https://news.ycombinator.com/item?id=41363549"
+    ],
+    [
+      "Harvard and MIT's $800M Mistake: The Triple Failure of 2U, EdX, and Axim",
+      "https://www.classcentral.com/report/2u-edx-bankruptcy/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 00:26:37",
       "https://news.ycombinator.com/item?id=41363499"
     ],
     [
       "Predicting the Future of Distributed Systems",
       "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 23:06:29",
+      "https://news.ycombinator.com/item?id=41363082"
+    ],
+    [
+      "Marcus Aurelius: On Humility and Duty (2019)",
+      "https://alifeofvirtue.ca/2019/11/02/marcus-aurelius-on-humility-and-duty/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Erasure Coding for Distributed Systems",
       "https://transactional.blog/blog/2024-erasure-coding"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 19:19:58",
-      "https://news.ycombinator.com/item?id=41360758"
-    ],
-    [
-      "Engineers develop new two-dimensional, low-power- field-effect transistor",
-      "https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-08-26, 15:05:51",
-      "https://news.ycombinator.com/item?id=41357853"
-    ],
-    [
-      "Linux: We need tiling desktop environments",
-      "https://linuxblog.io/linux-tiling-desktop-environments/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 14:55:56",
       "https://news.ycombinator.com/item?id=41357765"
     ],
@@ -187,16 +197,6 @@
     [
       "Matching dinosaur footprints found on opposite sides of the Atlantic Ocean",
       "https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 18:03:21",
-      "https://news.ycombinator.com/item?id=41349585"
-    ],
-    [
-      "Fossils are found all over, but what made them was a mystery",
-      "https://www.nytimes.com/2024/08/22/science/fossils-worms-bifungites-brazil.html"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-08-24, 08:01:39",
+      "https://news.ycombinator.com/item?id=41336462"
+    ],
+    [
+      "Clojure Desktop UI Framework",
+      "https://github.com/HumbleUI/HumbleUI"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 15:51:46",
       "https://news.ycombinator.com/item?id=41330007"
     ],
@@ -287,16 +297,6 @@
     [
       "Peng – A minimal Rust-based quadrotor simulation pipeline",
       "https://github.com/makeecat/Peng"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 13:52:40",
-      "https://news.ycombinator.com/item?id=41310311"
-    ],
-    [
-      "Degas: Detailed Expressions on Full-Body Gaussian Avatars",
-      "https://initialneil.github.io/DEGAS"
     ]
   ]
 ]
