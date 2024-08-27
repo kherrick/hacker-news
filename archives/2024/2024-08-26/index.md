@@ -73,6 +73,7 @@
 * [2024-08-26, 08:25:07](https://news.ycombinator.com/item?id=41355079) - [Investing for Anyone: a low-stress and effective way to invest your savings](https://blog.strnisa.com/p/investing-for-anyone)
 * [2024-08-26, 08:15:55](https://news.ycombinator.com/item?id=41355021) - [Dutch DPA fines Uber 290M euro because of transfers of drivers' data to the US](https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us)
 * [2024-08-26, 07:33:35](https://news.ycombinator.com/item?id=41354830) - [Four Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
+* [2024-08-26, 07:30:20](https://news.ycombinator.com/item?id=41354804) - [Attempting to Use GNU Guix](https://amodernist.com/texts/guix.html)
 * [2024-08-26, 05:34:57](https://news.ycombinator.com/item?id=41354297) - [Why Everything Is CRUD](https://blog.smartclient.com/why-everything-is-crud/)
 * [2024-08-26, 04:48:05](https://news.ycombinator.com/item?id=41354101) - [A Jenga tower about to collapse: Software erosion is happening all around us](https://www.techradar.com/pro/software-erosion-is-happening-all-around-us)
 * [2024-08-26, 04:45:10](https://news.ycombinator.com/item?id=41354083) - [Sam Altman doesn't care about you](https://disconnect.blog/sam-altman-doesnt-care-about-you/)
