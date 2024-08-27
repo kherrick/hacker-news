@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-27, 12:37:16](https://news.ycombinator.com/item?id=41366871) - [Black Myth: Wukong Devs Told Streamers to Avoid Politics in Their Playthroughs](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)
+* [2024-08-27, 12:42:12](https://news.ycombinator.com/item?id=41366910) - [Have Swiss scientists made a chocolate breakthrough?](https://www.bbc.co.uk/news/articles/cn47zg3xgxxo)
 * [2024-08-27, 12:00:06](https://news.ycombinator.com/item?id=41366602) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-08-27, 11:36:25](https://news.ycombinator.com/item?id=41366436) - [How do you make safe, cheap nuclear reactors? Bury them a mile deep](https://newatlas.com/energy/underground-nuclear-reactors/)
 * [2024-08-27, 10:37:06](https://news.ycombinator.com/item?id=41366064) - [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
@@ -21,8 +21,8 @@
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 * [2024-08-26, 12:37:32](https://news.ycombinator.com/item?id=41356528) - [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a bug in Google Chrome as a first-time contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
-* [2024-08-26, 07:30:20](https://news.ycombinator.com/item?id=41354804) - [Attempting to Use GNU Guix (2019)](https://amodernist.com/texts/guix.html)
 * [2024-08-25, 14:03:46](https://news.ycombinator.com/item?id=41347388) - [Deliberate Practice and Acquisition of Expert Performance: A General Overview](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x)
+* [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
 * [2024-08-25, 11:37:50](https://news.ycombinator.com/item?id=41346530) - [Parochialism in Time and Space (2021)](https://wyclif.substack.com/p/parochialism-in-time-and-space)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
 * [2024-08-25, 09:52:19](https://news.ycombinator.com/item?id=41346001) - [How to run Valgrind on a CGI program in C](https://boston.conman.org/2024/08/24.1)

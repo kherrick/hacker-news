@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 12:42:12](https://news.ycombinator.com/item?id=41366910) - [Have Swiss scientists made a chocolate breakthrough?](https://www.bbc.co.uk/news/articles/cn47zg3xgxxo)
 * [2024-08-27, 12:37:16](https://news.ycombinator.com/item?id=41366871) - [Black Myth: Wukong Devs Told Streamers to Avoid Politics in Their Playthroughs](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)
 * [2024-08-27, 12:00:06](https://news.ycombinator.com/item?id=41366602) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-08-27, 11:36:25](https://news.ycombinator.com/item?id=41366436) - [How do you make safe, cheap nuclear reactors? Bury them a mile deep](https://newatlas.com/energy/underground-nuclear-reactors/)
