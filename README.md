@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
 * [2024-08-27, 19:43:54](https://news.ycombinator.com/item?id=41372059) - [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
 * [2024-08-27, 19:41:59](https://news.ycombinator.com/item?id=41372028) - [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
 * [2024-08-27, 19:39:25](https://news.ycombinator.com/item?id=41371994) - [UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat)
@@ -10,6 +11,7 @@
 * [2024-08-27, 18:32:37](https://news.ycombinator.com/item?id=41371083) - [DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
 * [2024-08-27, 18:29:16](https://news.ycombinator.com/item?id=41371038) - [Why is the Oral-B iOS app almost 300 MB? And why is Colgate's app even bigger..?](https://twitter.com/emergetools/status/1828490449881047401)
 * [2024-08-27, 18:24:16](https://news.ycombinator.com/item?id=41370982) - [NASA's SLS rocket's Mobile Launcher-2 increase from $383M to $2.7B](https://twitter.com/SciGuySpace/status/1828458852586525075)
+* [2024-08-27, 18:16:18](https://news.ycombinator.com/item?id=41370877) - [Unlocking the Pixel 9 bootloader breaks some Pixel AI apps](https://liliputing.com/unlocking-the-pixel-9-bootloader-breaks-some-pixel-ai-apps/)
 * [2024-08-27, 18:02:29](https://news.ycombinator.com/item?id=41370714) - [Malware infiltrates Pidgin messenger's official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
 * [2024-08-27, 17:42:03](https://news.ycombinator.com/item?id=41370420) - [Vulnerabilities show why STARTTLS should be avoided if possible](https://blog.apnic.net/2021/11/18/vulnerabilities-show-why-starttls-should-be-avoided-if-possible/)
 * [2024-08-27, 17:41:20](https://news.ycombinator.com/item?id=41370411) - [Grace Hopper on Future Possibilities: Data, Hardware, Software, and People](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3884041/nsa-releases-copy-of-internal-lecture-delivered-by-computing-giant-rear-adm-gra/)
@@ -18,7 +20,6 @@
 * [2024-08-27, 17:21:56](https://news.ycombinator.com/item?id=41370187) - [Blitzortung – real time lightning strikes around the world](https://www.blitzortung.org/en/live_lightning_maps.php)
 * [2024-08-27, 17:09:56](https://news.ycombinator.com/item?id=41370020) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 * [2024-08-27, 17:00:27](https://news.ycombinator.com/item?id=41369885) - [Great Question (YC W21) Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
-* [2024-08-27, 16:42:01](https://news.ycombinator.com/item?id=41369586) - [Cerebras launches inference for Llama 3.1; benchmarked at 1846 tokens/s on 8B](https://twitter.com/ArtificialAnlys/status/1828463912389402896)
 * [2024-08-27, 16:06:57](https://news.ycombinator.com/item?id=41369061) - [Your Immune System Is Not a Muscle](https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 * [2024-08-27, 15:31:33](https://news.ycombinator.com/item?id=41368674) - [A New Wave of Underwater Comms Is Coming](https://spectrum.ieee.org/underwater-communication)
@@ -27,7 +28,6 @@
 * [2024-08-27, 10:23:35](https://news.ycombinator.com/item?id=41366006) - [Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs](https://splatt3r.active.vision/)
 * [2024-08-27, 09:50:15](https://news.ycombinator.com/item?id=41365868) - [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
 * [2024-08-27, 04:45:46](https://news.ycombinator.com/item?id=41364637) - [Anthropic publishes the 'system prompts' that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
-* [2024-08-27, 04:23:27](https://news.ycombinator.com/item?id=41364549) - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
 

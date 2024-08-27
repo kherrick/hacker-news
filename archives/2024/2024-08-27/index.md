@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
 * [2024-08-27, 19:43:54](https://news.ycombinator.com/item?id=41372059) - [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
 * [2024-08-27, 19:41:59](https://news.ycombinator.com/item?id=41372028) - [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
 * [2024-08-27, 19:39:25](https://news.ycombinator.com/item?id=41371994) - [UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat)
