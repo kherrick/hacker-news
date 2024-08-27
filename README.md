@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-27, 21:39:06](https://news.ycombinator.com/item?id=41373384) - [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
-* [2024-08-27, 21:37:37](https://news.ycombinator.com/item?id=41373368) - [Should the richest 1% – who gained $42T/decade – be taxed more?](https://www.business-standard.com/world-news/world-s-top-1-gained-42-trillion-in-a-decade-taxes-at-record-lows-oxfam-124072500348_1.html)
 * [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2024-08-27, 20:47:51](https://news.ycombinator.com/item?id=41372836) - [Starliner Is Such a Disaster That Boeing May Cancel the Entire Project](https://futurism.com/starliner-failure-embarrassment-boeing)
 * [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
 * [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
 * [2024-08-27, 19:43:54](https://news.ycombinator.com/item?id=41372059) - [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
@@ -21,6 +19,7 @@
 * [2024-08-27, 17:34:52](https://news.ycombinator.com/item?id=41370344) - [Rustproofing Linux (Part 1/4 Leaking Addresses) (2023)](https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/)
 * [2024-08-27, 17:21:56](https://news.ycombinator.com/item?id=41370187) - [Blitzortung – real time lightning strikes around the world](https://www.blitzortung.org/en/live_lightning_maps.php)
 * [2024-08-27, 17:09:56](https://news.ycombinator.com/item?id=41370020) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
+* [2024-08-27, 16:06:57](https://news.ycombinator.com/item?id=41369061) - [Your Immune System Is Not a Muscle](https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 * [2024-08-27, 15:31:33](https://news.ycombinator.com/item?id=41368674) - [A New Wave of Underwater Comms Is Coming](https://spectrum.ieee.org/underwater-communication)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
@@ -29,6 +28,7 @@
 * [2024-08-27, 09:50:15](https://news.ycombinator.com/item?id=41365868) - [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
 * [2024-08-27, 04:45:46](https://news.ycombinator.com/item?id=41364637) - [Anthropic publishes the 'system prompts' that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
+* [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
 
 ## [Archives](archives/index.md)
