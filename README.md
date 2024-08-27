@@ -2,6 +2,7 @@
 
 * [2024-08-27, 23:24:01](https://news.ycombinator.com/item?id=41374359) - [SF Mutual Fund Exec Front-Ran His Fund's Trades](https://www.propublica.org/article/dodge-cox-exec-david-hoeft-made-millions-trading-same-stocks)
 * [2024-08-27, 21:39:06](https://news.ycombinator.com/item?id=41373384) - [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
+* [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [Faster CRDTs (2021)](https://josephg.com/blog/crdts-go-brrr/)
 * [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
@@ -18,7 +19,6 @@
 * [2024-08-27, 17:34:52](https://news.ycombinator.com/item?id=41370344) - [Rustproofing Linux (Part 1/4 Leaking Addresses) (2023)](https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/)
 * [2024-08-27, 17:21:56](https://news.ycombinator.com/item?id=41370187) - [Blitzortung – real time lightning strikes around the world](https://www.blitzortung.org/en/live_lightning_maps.php)
 * [2024-08-27, 17:09:56](https://news.ycombinator.com/item?id=41370020) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
-* [2024-08-27, 16:06:57](https://news.ycombinator.com/item?id=41369061) - [Your Immune System Is Not a Muscle](https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 * [2024-08-27, 15:31:33](https://news.ycombinator.com/item?id=41368674) - [A New Wave of Underwater Comms Is Coming](https://spectrum.ieee.org/underwater-communication)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
