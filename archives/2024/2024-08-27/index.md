@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 11:19:42](https://news.ycombinator.com/item?id=41366304) - [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
 * [2024-08-27, 10:39:23](https://news.ycombinator.com/item?id=41366075) - [The Google Fit APIs will no longer be available after June 30, 2025](https://developers.google.com/fit)
+* [2024-08-27, 10:37:06](https://news.ycombinator.com/item?id=41366064) - [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
 * [2024-08-27, 09:50:15](https://news.ycombinator.com/item?id=41365868) - [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
 * [2024-08-27, 09:17:11](https://news.ycombinator.com/item?id=41365714) - [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
 * [2024-08-27, 08:54:44](https://news.ycombinator.com/item?id=41365637) - [Tinybox of tinygrad by George Hotz is finally entering production](https://twitter.com/realgeorgehotz/status/1828197925874463166)
