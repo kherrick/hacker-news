@@ -2,10 +2,10 @@
 
 * [2024-08-27, 15:04:46](https://news.ycombinator.com/item?id=41368363) - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
+* [2024-08-27, 14:02:43](https://news.ycombinator.com/item?id=41367644) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 * [2024-08-27, 12:42:12](https://news.ycombinator.com/item?id=41366910) - [Have Swiss scientists made a chocolate breakthrough?](https://www.bbc.co.uk/news/articles/cn47zg3xgxxo)
 * [2024-08-27, 12:00:06](https://news.ycombinator.com/item?id=41366602) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-08-27, 11:36:25](https://news.ycombinator.com/item?id=41366436) - [Nuclear reactors a mile underground promise safe, cheap power](https://newatlas.com/energy/underground-nuclear-reactors/)
-* [2024-08-27, 11:19:42](https://news.ycombinator.com/item?id=41366304) - [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
 * [2024-08-27, 10:37:06](https://news.ycombinator.com/item?id=41366064) - [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
 * [2024-08-27, 10:23:35](https://news.ycombinator.com/item?id=41366006) - [Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs](https://splatt3r.active.vision/)
 * [2024-08-27, 05:25:52](https://news.ycombinator.com/item?id=41364783) - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
