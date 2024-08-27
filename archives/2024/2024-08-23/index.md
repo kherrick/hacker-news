@@ -74,6 +74,7 @@
 * [2024-08-23, 07:25:30](https://news.ycombinator.com/item?id=41326841) - [Windows Control Panel set for deprecation](https://www.theregister.com/2024/08/22/windows_control_panel_deprecation/)
 * [2024-08-23, 07:18:23](https://news.ycombinator.com/item?id=41326794) - [Is your website Secure!](https://inspect.new)
 * [2024-08-23, 06:36:29](https://news.ycombinator.com/item?id=41326604) - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
+* [2024-08-23, 05:46:53](https://news.ycombinator.com/item?id=41326461) - [Slime mold simulation in Rust using WASM and WebGPU](https://github.com/plul/slime-mold-simulation)
 * [2024-08-23, 05:14:35](https://news.ycombinator.com/item?id=41326357) - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
 * [2024-08-23, 05:00:13](https://news.ycombinator.com/item?id=41326300) - [About the browser choice screen in the EU](https://developer.apple.com/support/browser-choice-screen/)
 * [2024-08-23, 04:47:04](https://news.ycombinator.com/item?id=41326244) - [ShipFast alternative, Next.js SaaS Boilerplate and Starter Kit](https://play.nextjstemplates.com/)

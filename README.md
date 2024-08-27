@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-27, 23:24:01](https://news.ycombinator.com/item?id=41374359) - [SF Mutual Fund Exec Front-Ran His Fund's Trades](https://www.propublica.org/article/dodge-cox-exec-david-hoeft-made-millions-trading-same-stocks)
 * [2024-08-27, 21:39:06](https://news.ycombinator.com/item?id=41373384) - [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
-* [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [Faster CRDTs (2021)](https://josephg.com/blog/crdts-go-brrr/)
 * [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
@@ -13,7 +13,6 @@
 * [2024-08-27, 18:34:55](https://news.ycombinator.com/item?id=41371117) - [U.S. Ambassador says Canadians are consuming 'unhealthy' amount of American news](https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/)
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 * [2024-08-27, 18:32:37](https://news.ycombinator.com/item?id=41371083) - [DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
-* [2024-08-27, 18:29:16](https://news.ycombinator.com/item?id=41371038) - [Why is the Oral-B iOS app almost 300 MB? And why is Colgate's app even bigger..?](https://twitter.com/emergetools/status/1828490449881047401)
 * [2024-08-27, 18:02:29](https://news.ycombinator.com/item?id=41370714) - [Malware infiltrates Pidgin messenger's official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
 * [2024-08-27, 17:42:03](https://news.ycombinator.com/item?id=41370420) - [Vulnerabilities show why STARTTLS should be avoided if possible (2021)](https://blog.apnic.net/2021/11/18/vulnerabilities-show-why-starttls-should-be-avoided-if-possible/)
 * [2024-08-27, 17:34:52](https://news.ycombinator.com/item?id=41370344) - [Rustproofing Linux (Part 1/4 Leaking Addresses) (2023)](https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/)
@@ -30,6 +29,7 @@
 * [2024-08-25, 13:59:55](https://news.ycombinator.com/item?id=41347368) - [If Your World Is Not Enchanted, You're Not Paying Attention](https://theconvivialsociety.substack.com/p/if-your-world-is-not-enchanted-youre)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
+* [2024-08-23, 05:46:53](https://news.ycombinator.com/item?id=41326461) - [Slime mold simulation in Rust using WASM and WebGPU](https://github.com/plul/slime-mold-simulation)
 
 ## [Archives](archives/index.md)
 
