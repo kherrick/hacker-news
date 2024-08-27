@@ -3,7 +3,7 @@
 * [2024-08-27, 21:39:06](https://news.ycombinator.com/item?id=41373384) - [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
 * [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
+* [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [Faster CRDTs (2021)](https://josephg.com/blog/crdts-go-brrr/)
 * [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
 * [2024-08-27, 19:43:54](https://news.ycombinator.com/item?id=41372059) - [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
 * [2024-08-27, 19:43:46](https://news.ycombinator.com/item?id=41372056) - [Microsoft security tools questioned for treating employees as threats](https://www.theregister.com/2024/08/27/microsoft_workplace_surveillance/)
