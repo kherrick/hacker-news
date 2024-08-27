@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-08-27, 02:13:51",
-      "https://news.ycombinator.com/item?id=41364042"
-    ],
-    [
-      "AI predicts earthquakes with unprecedented accuracy",
-      "https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 01:52:56",
       "https://news.ycombinator.com/item?id=41363943"
     ],
@@ -215,8 +205,18 @@
       "https://news.ycombinator.com/item?id=41354804"
     ],
     [
-      "Attempting to Use GNU Guix",
+      "Attempting to Use GNU Guix (2019)",
       "https://amodernist.com/texts/guix.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 03:44:48",
+      "https://news.ycombinator.com/item?id=41353835"
+    ],
+    [
+      "Avante.nvim: Use Your Neovim Like Using Cursor AI IDE",
+      "https://github.com/yetone/avante.nvim"
     ]
   ],
   [
