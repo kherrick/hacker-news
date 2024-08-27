@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-08-27, 20:47:51](https://news.ycombinator.com/item?id=41372836) - [Starliner Is Such a Disaster That Boeing May Cancel the Entire Project](https://futurism.com/starliner-failure-embarrassment-boeing)
+* [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
 * [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
 * [2024-08-27, 19:43:54](https://news.ycombinator.com/item?id=41372059) - [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
 * [2024-08-27, 19:41:59](https://news.ycombinator.com/item?id=41372028) - [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
