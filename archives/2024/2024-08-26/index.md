@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 23:06:29](https://news.ycombinator.com/item?id=41363082) - [Marcus Aurelius: On Humility and Duty (2019)](https://alifeofvirtue.ca/2019/11/02/marcus-aurelius-on-humility-and-duty/)
 * [2024-08-26, 22:59:31](https://news.ycombinator.com/item?id=41363043) - [Apple to Replace CFO Luca Maestri on Jan. 1](https://www.cnbc.com/2024/08/26/apple-to-replace-cfo-luca-maestri-on-jan-1.html)
 * [2024-08-26, 22:26:03](https://news.ycombinator.com/item?id=41362852) - [Months ago, Florida OK'd giving 324 acres of state forest to golf course company](https://www.tampabay.com/news/environment/2024/08/26/desantis-state-park-golf-course-land-swap-withlacoochee-forest-brooksville-cabot/)
 * [2024-08-26, 22:18:23](https://news.ycombinator.com/item?id=41362798) - [Blood Pressure Control Should Focus on More Potassium (2023)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.20545)

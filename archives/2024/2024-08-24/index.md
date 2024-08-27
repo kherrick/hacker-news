@@ -68,6 +68,7 @@
 * [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-24, 08:50:33](https://news.ycombinator.com/item?id=41336655) - [Separating Data from Instructions in Prompting](https://zzbbyy.substack.com/p/separating-data-from-instructions)
 * [2024-08-24, 08:09:17](https://news.ycombinator.com/item?id=41336497) - [Shell.how: Explain Shell Commands](https://www.shell.how)
+* [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
 * [2024-08-24, 07:39:40](https://news.ycombinator.com/item?id=41336374) - [Create an internal CLI using Just](https://blog.chay.dev/create-an-internal-cli/)
 * [2024-08-24, 06:44:13](https://news.ycombinator.com/item?id=41336159) - [What Lasts and (Mostly) Doesn't Last](https://countercraft.substack.com/p/what-lasts-and-mostly-doesnt-last)
