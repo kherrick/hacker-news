@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 07:17:07](https://news.ycombinator.com/item?id=41365223) - [RISC-V CPU arrives on a tablet starting at $149](https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage)
 * [2024-08-27, 05:25:52](https://news.ycombinator.com/item?id=41364783) - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
 * [2024-08-27, 05:23:49](https://news.ycombinator.com/item?id=41364776) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 * [2024-08-27, 04:45:46](https://news.ycombinator.com/item?id=41364637) - [Anthropic publishes the 'system prompts' that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)

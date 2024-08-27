@@ -72,6 +72,7 @@
 * [2024-08-25, 11:26:44](https://news.ycombinator.com/item?id=41346476) - [MavenGate gets it all wrong and hurts open source](http://day-to-day-stuff.blogspot.com/2024/08/mavengate-gets-it-all-wrong-and-hurts.html)
 * [2024-08-25, 10:40:44](https://news.ycombinator.com/item?id=41346258) - [Electric vehicle battery fires–what to know and how to react](https://www.wired.com/story/ev-battery-fires-explained/)
 * [2024-08-25, 10:38:26](https://news.ycombinator.com/item?id=41346244) - [A Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
+* [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
 * [2024-08-25, 10:20:11](https://news.ycombinator.com/item?id=41346156) - [Show HN: Cursor AI Rules Directory (Open Source)](https://cursor.directory)
 * [2024-08-25, 09:50:20](https://news.ycombinator.com/item?id=41345989) - [Why fans of nuclear are a problem today](https://jeromeaparis.substack.com/p/why-fans-of-nuclear-are-a-problem)
 * [2024-08-25, 05:39:43](https://news.ycombinator.com/item?id=41344688) - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)
