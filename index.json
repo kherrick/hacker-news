@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-08-27, 23:24:01",
+      "https://news.ycombinator.com/item?id=41374359"
+    ],
+    [
+      "SF Mutual Fund Exec Front-Ran His Fund's Trades",
+      "https://www.propublica.org/article/dodge-cox-exec-david-hoeft-made-millions-trading-same-stocks"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 21:39:06",
       "https://news.ycombinator.com/item?id=41373384"
     ],
     [
       "Tattoo ink sold on Amazon has high levels of weird and rare bacteria",
       "https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 21:13:34",
-      "https://news.ycombinator.com/item?id=41373120"
-    ],
-    [
-      "Hackers infect ISPs with malware that steals customers' credentials",
-      "https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "DisTrO – a family of low latency distributed optimizers",
       "https://github.com/NousResearch/DisTrO"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 18:29:16",
-      "https://news.ycombinator.com/item?id=41371038"
-    ],
-    [
-      "Why is the Oral-B iOS app almost 300 MB? And why is Colgate's app even bigger..?",
-      "https://twitter.com/emergetools/status/1828490449881047401"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Simple Algorithm That Ants Use to Build Bridges (2018)",
       "https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 05:46:53",
+      "https://news.ycombinator.com/item?id=41326461"
+    ],
+    [
+      "Slime mold simulation in Rust using WASM and WebGPU",
+      "https://github.com/plul/slime-mold-simulation"
     ]
   ]
 ]
