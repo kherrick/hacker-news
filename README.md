@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-27, 03:46:47](https://news.ycombinator.com/item?id=41364413) - [A $557B Drop in Office Values Eclipses a Revival of Cities](https://www.bloomberg.com/news/features/2024-08-26/downtown-office-real-estate-suffers-as-new-neighborhoods-take-off)
 * [2024-08-27, 02:13:51](https://news.ycombinator.com/item?id=41364042) - [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
 * [2024-08-27, 00:34:05](https://news.ycombinator.com/item?id=41363549) - [Harvard and MIT's $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
 * [2024-08-27, 00:26:37](https://news.ycombinator.com/item?id=41363499) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
@@ -10,7 +11,6 @@
 * [2024-08-26, 20:03:45](https://news.ycombinator.com/item?id=41361281) - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
 * [2024-08-26, 17:06:55](https://news.ycombinator.com/item?id=41359270) - [IOGraphica](https://iographica.com/)
 * [2024-08-26, 16:58:28](https://news.ycombinator.com/item?id=41359181) - [Show HN: Strict interfaces and dep management for Python, written in Rust](https://github.com/gauge-sh/tach)
-* [2024-08-26, 16:56:47](https://news.ycombinator.com/item?id=41359152) - [Intel SGX Fuse Key0, a.k.a. Root Provisioning Key Was Extracted by Researchers](https://twitter.com/_markel___/status/1828112469010596347)
 * [2024-08-26, 16:55:16](https://news.ycombinator.com/item?id=41359132) - [Eating the Birds of America: Audubon's Culinary Reviews of America's Birds](https://usbirdhistory.com/audubon-eating-americas-birds/)
 * [2024-08-26, 15:58:09](https://news.ycombinator.com/item?id=41358490) - [Show HN: Remove-bg – open-source remove background using WebGPU](https://bannerify.co/tools/remove-bg)
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
