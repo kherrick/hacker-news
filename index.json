@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-27, 05:25:52",
+      "https://news.ycombinator.com/item?id=41364783"
+    ],
+    [
+      "Notes on Buttondown.com",
+      "https://jmduke.com/posts/microblog/buttondown-dot-com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 05:23:49",
+      "https://news.ycombinator.com/item?id=41364776"
+    ],
+    [
+      "Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization",
+      "https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 04:45:46",
       "https://news.ycombinator.com/item?id=41364637"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-08-26, 17:06:55",
-      "https://news.ycombinator.com/item?id=41359270"
-    ],
-    [
-      "IOGraphica",
-      "https://iographica.com/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 16:58:28",
       "https://news.ycombinator.com/item?id=41359181"
     ],
@@ -197,16 +207,6 @@
     [
       "Fixing a bug in Google Chrome as a first-time contributor",
       "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 03:44:48",
-      "https://news.ycombinator.com/item?id=41353835"
-    ],
-    [
-      "Avante.nvim: Use Your Neovim Like Using Cursor AI IDE",
-      "https://github.com/yetone/avante.nvim"
     ]
   ],
   [
