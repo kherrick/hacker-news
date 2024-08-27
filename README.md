@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-27, 04:45:46](https://news.ycombinator.com/item?id=41364637) - [Anthropic publishes the 'system prompts' that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
 * [2024-08-27, 04:23:27](https://news.ycombinator.com/item?id=41364549) - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 03:46:35](https://news.ycombinator.com/item?id=41364412) - [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
 * [2024-08-27, 02:13:51](https://news.ycombinator.com/item?id=41364042) - [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
@@ -21,7 +22,6 @@
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a bug in Google Chrome as a first-time contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 * [2024-08-26, 03:41:09](https://news.ycombinator.com/item?id=41353811) - [Helen Fisher, who researched the brain’s love circuitry, has died](https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html)
-* [2024-08-26, 00:02:06](https://news.ycombinator.com/item?id=41352656) - [Matching dinosaur footprints found on opposite sides of the Atlantic Ocean](https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html)
 * [2024-08-25, 14:42:02](https://news.ycombinator.com/item?id=41347635) - [The Tao of Unicode Sparklines (2021)](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
 * [2024-08-25, 14:03:46](https://news.ycombinator.com/item?id=41347388) - [Deliberate Practice and Acquisition of Expert Performance: A General Overview](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x)
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)

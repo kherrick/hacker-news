@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 04:45:46](https://news.ycombinator.com/item?id=41364637) - [Anthropic publishes the 'system prompts' that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
 * [2024-08-27, 04:23:27](https://news.ycombinator.com/item?id=41364549) - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 03:46:47](https://news.ycombinator.com/item?id=41364413) - [A $557B Drop in Office Values Eclipses a Revival of Cities](https://www.bloomberg.com/news/features/2024-08-26/downtown-office-real-estate-suffers-as-new-neighborhoods-take-off)
 * [2024-08-27, 03:46:35](https://news.ycombinator.com/item?id=41364412) - [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
