@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-27, 07:17:07",
+      "https://news.ycombinator.com/item?id=41365223"
+    ],
+    [
+      "RISC-V CPU arrives on a tablet starting at $149",
+      "https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 05:25:52",
       "https://news.ycombinator.com/item?id=41364783"
     ],
@@ -17,16 +27,6 @@
     [
       "Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization",
       "https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 04:45:46",
-      "https://news.ycombinator.com/item?id=41364637"
-    ],
-    [
-      "Anthropic publishes the 'system prompts' that make Claude tick",
-      "https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Predicting the Future of Distributed Systems",
       "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 23:34:21",
-      "https://news.ycombinator.com/item?id=41363231"
-    ],
-    [
-      "The End of Finale",
-      "https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Vim Racer",
       "https://vim-racer.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 10:28:47",
+      "https://news.ycombinator.com/item?id=41346201"
+    ],
+    [
+      "Ruby in Jupyter Notebook",
+      "https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb"
     ]
   ],
   [
