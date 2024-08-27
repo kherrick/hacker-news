@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 12:46:46](https://news.ycombinator.com/item?id=41366954) - [What Does It Mean to Be a Signal Competitor?](https://soatok.blog/2024/07/31/what-does-it-mean-to-be-a-signal-competitor/)
 * [2024-08-27, 12:42:12](https://news.ycombinator.com/item?id=41366910) - [Have Swiss scientists made a chocolate breakthrough?](https://www.bbc.co.uk/news/articles/cn47zg3xgxxo)
 * [2024-08-27, 12:37:16](https://news.ycombinator.com/item?id=41366871) - [Black Myth: Wukong Devs Told Streamers to Avoid Politics in Their Playthroughs](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)
 * [2024-08-27, 12:10:14](https://news.ycombinator.com/item?id=41366663) - [Nvidia employees can work 7 days a week until 2 a.m.But few leave because of pay](https://nypost.com/2024/08/26/business/nvidia-employees-can-work-7-days-a-week-until-2-a-m-but-few-leave-because-of-ai-chip-giants-lavish-pay-report/)
+* [2024-08-27, 12:00:42](https://news.ycombinator.com/item?id=41366609) - [Intelligence is not like height](https://theinfinitesimal.substack.com/p/no-intelligence-is-not-like-height)
 * [2024-08-27, 12:00:06](https://news.ycombinator.com/item?id=41366602) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-08-27, 11:36:25](https://news.ycombinator.com/item?id=41366436) - [How do you make safe, cheap nuclear reactors? Bury them a mile deep](https://newatlas.com/energy/underground-nuclear-reactors/)
 * [2024-08-27, 11:19:42](https://news.ycombinator.com/item?id=41366304) - [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
