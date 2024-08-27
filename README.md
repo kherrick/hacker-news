@@ -3,7 +3,7 @@
 * [2024-08-27, 00:46:42](https://news.ycombinator.com/item?id=41363637) - [From 14 years old till 29, my experience with desktop Linux](https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00)
 * [2024-08-27, 00:34:05](https://news.ycombinator.com/item?id=41363549) - [Harvard and MIT's $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
 * [2024-08-27, 00:26:37](https://news.ycombinator.com/item?id=41363499) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
-* [2024-08-26, 23:06:29](https://news.ycombinator.com/item?id=41363082) - [Marcus Aurelius: On Humility and Duty (2019)](https://alifeofvirtue.ca/2019/11/02/marcus-aurelius-on-humility-and-duty/)
+* [2024-08-26, 23:34:21](https://news.ycombinator.com/item?id=41363231) - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
 * [2024-08-26, 22:10:36](https://news.ycombinator.com/item?id=41362737) - [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
 * [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
 * [2024-08-26, 21:01:16](https://news.ycombinator.com/item?id=41362122) - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
