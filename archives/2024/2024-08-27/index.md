@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
 * [2024-08-27, 17:00:27](https://news.ycombinator.com/item?id=41369885) - [Great Question (YC W21) Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
+* [2024-08-27, 16:49:46](https://news.ycombinator.com/item?id=41369705) - [Cerebras Inference: AI at Instant Speed](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed)
+* [2024-08-27, 16:42:01](https://news.ycombinator.com/item?id=41369586) - [Cerebras launches inference for Llama 3.1; benchmarked at 1846 tokens/s on 8B](https://twitter.com/ArtificialAnlys/status/1828463912389402896)
 * [2024-08-27, 16:02:44](https://news.ycombinator.com/item?id=41369008) - [The Myth of the Coder and Programmer](https://cacm.acm.org/opinion/the-myth-of-the-coder/)
 * [2024-08-27, 15:55:56](https://news.ycombinator.com/item?id=41368935) - [80% of AI Projects Crash and Burn, Billions Wasted Says Rand Report](https://salesforcedevops.net/index.php/2024/08/19/ai-apocalypse/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
