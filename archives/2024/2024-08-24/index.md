@@ -43,6 +43,7 @@
 * [2024-08-24, 14:29:40](https://news.ycombinator.com/item?id=41338582) - [The Treacherous Optimization (2006)](https://ridiculousfish.com/blog/posts/old-age-and-treachery.html)
 * [2024-08-24, 13:57:56](https://news.ycombinator.com/item?id=41338354) - [You Are Not Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 * [2024-08-24, 13:46:31](https://news.ycombinator.com/item?id=41338285) - [A $10k stipend is available for anyone moving to Cumberland, MD](https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program)
+* [2024-08-24, 13:39:42](https://news.ycombinator.com/item?id=41338240) - [Firewalling Your Code](https://lackofimagination.org/2024/08/firewalling-your-code/)
 * [2024-08-24, 13:33:42](https://news.ycombinator.com/item?id=41338193) - [Dual-screen laptops make more sense with this spiral notebook-like hinge](https://arstechnica.com/gadgets/2024/08/acemagics-x1-is-a-clever-but-delicate-approach-to-dual-screen-laptops/)
 * [2024-08-24, 13:29:32](https://news.ycombinator.com/item?id=41338159) - [The Calendar of Sound of Hermeto Pascoal (2020) [pdf]](https://www.ijassjournal.com/2020/V3I6/4146575149.pdf)
 * [2024-08-24, 13:26:44](https://news.ycombinator.com/item?id=41338148) - [Warren Buffet's Missed Opportunity](https://www.city-journal.org/article/warren-buffetts-missed-opportunity)
