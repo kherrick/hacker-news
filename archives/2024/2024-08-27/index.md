@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 19:41:59](https://news.ycombinator.com/item?id=41372028) - [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
+* [2024-08-27, 19:39:25](https://news.ycombinator.com/item?id=41371994) - [UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat)
 * [2024-08-27, 18:38:59](https://news.ycombinator.com/item?id=41371170) - [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
 * [2024-08-27, 18:34:55](https://news.ycombinator.com/item?id=41371117) - [U.S. Ambassador says Canadians are consuming 'unhealthy' amount of American news](https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/)
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
