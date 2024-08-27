@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-27, 02:32:40](https://news.ycombinator.com/item?id=41364114) - [Show HN: I built a site that tracks short-lived flight deals](https://flight-price-alert.com/)
+* [2024-08-27, 02:13:51](https://news.ycombinator.com/item?id=41364042) - [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
 * [2024-08-27, 02:04:50](https://news.ycombinator.com/item?id=41363994) - [Can a Closed Nuclear Power Plant from the '70s Be Brought Back to Life?](https://www.wsj.com/business/energy-oil/biden-nuclear-power-plant-loan-michigan-eee64904)
 * [2024-08-27, 00:46:42](https://news.ycombinator.com/item?id=41363637) - [From 14 years old till 29, my experience with desktop Linux](https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00)
 * [2024-08-27, 00:34:05](https://news.ycombinator.com/item?id=41363549) - [Harvard and MIT's $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
@@ -23,13 +23,13 @@
 * [2024-08-26, 00:02:06](https://news.ycombinator.com/item?id=41352656) - [Matching dinosaur footprints found on opposite sides of the Atlantic Ocean](https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html)
 * [2024-08-25, 17:19:23](https://news.ycombinator.com/item?id=41349172) - [Application Without Application](https://github.com/SuperMicha/appless_platform/wiki/Application-without-application)
 * [2024-08-25, 14:42:02](https://news.ycombinator.com/item?id=41347635) - [The Tao of Unicode Sparklines (2021)](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
+* [2024-08-25, 14:03:46](https://news.ycombinator.com/item?id=41347388) - [Deliberate Practice and Acquisition of Expert Performance: A General Overview](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x)
 * [2024-08-25, 13:34:31](https://news.ycombinator.com/item?id=41347197) - [Acorn – Use Laravel Inside WordPress](https://roots.io/acorn/)
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
 * [2024-08-25, 10:38:26](https://news.ycombinator.com/item?id=41346244) - [A Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
 * [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-23, 15:51:46](https://news.ycombinator.com/item?id=41330007) - [DOJ sues realpage for algorithmic pricing scheme that harms renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
-* [2024-08-21, 14:45:16](https://news.ycombinator.com/item?id=41310822) - [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
 
 ## [Archives](archives/index.md)
 
