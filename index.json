@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-27, 18:16:18",
+      "https://news.ycombinator.com/item?id=41370877"
+    ],
+    [
+      "Unlocking the Pixel 9 bootloader breaks some Pixel AI apps",
+      "https://liliputing.com/unlocking-the-pixel-9-bootloader-breaks-some-pixel-ai-apps/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 18:02:29",
       "https://news.ycombinator.com/item?id=41370714"
     ],
@@ -47,16 +57,6 @@
     [
       "Cerebras launches inference for Llama 3.1; benchmarked at 1846 tokens/s on 8B",
       "https://twitter.com/ArtificialAnlys/status/1828463912389402896"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 16:02:44",
-      "https://news.ycombinator.com/item?id=41369008"
-    ],
-    [
-      "The historical distinction between coder and programmer",
-      "https://cacm.acm.org/opinion/the-myth-of-the-coder/"
     ]
   ],
   [
