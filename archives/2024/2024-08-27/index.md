@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 18:38:59](https://news.ycombinator.com/item?id=41371170) - [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
+* [2024-08-27, 18:34:55](https://news.ycombinator.com/item?id=41371117) - [U.S. Ambassador says Canadians are consuming 'unhealthy' amount of American news](https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/)
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
+* [2024-08-27, 18:32:37](https://news.ycombinator.com/item?id=41371083) - [DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
 * [2024-08-27, 18:29:16](https://news.ycombinator.com/item?id=41371038) - [Why is the Oral-B iOS app almost 300 MB? And why is Colgate's app even bigger..?](https://twitter.com/emergetools/status/1828490449881047401)
 * [2024-08-27, 18:24:16](https://news.ycombinator.com/item?id=41370982) - [NASA's SLS rocket's Mobile Launcher-2 increase from $383M to $2.7B](https://twitter.com/SciGuySpace/status/1828458852586525075)
 * [2024-08-27, 18:16:18](https://news.ycombinator.com/item?id=41370877) - [Unlocking the Pixel 9 bootloader breaks some Pixel AI apps](https://liliputing.com/unlocking-the-pixel-9-bootloader-breaks-some-pixel-ai-apps/)
