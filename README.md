@@ -2,7 +2,7 @@
 
 * [2024-08-27, 07:17:07](https://news.ycombinator.com/item?id=41365223) - [RISC-V CPU arrives on a tablet starting at $149](https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage)
 * [2024-08-27, 05:25:52](https://news.ycombinator.com/item?id=41364783) - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
-* [2024-08-27, 05:23:49](https://news.ycombinator.com/item?id=41364776) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
+* [2024-08-27, 05:23:49](https://news.ycombinator.com/item?id=41364776) - [Sovereign Tech Fund to Invest €686k in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 * [2024-08-27, 04:23:27](https://news.ycombinator.com/item?id=41364549) - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 03:46:35](https://news.ycombinator.com/item?id=41364412) - [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
 * [2024-08-27, 01:52:56](https://news.ycombinator.com/item?id=41363943) - [Qualcomm Oryon CPU Core Design](https://chipsandcheese.com/2024/08/26/hot-chips-2024-qualcomms-oryon-core/)
