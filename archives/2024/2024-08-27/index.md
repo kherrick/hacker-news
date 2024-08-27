@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 21:39:06](https://news.ycombinator.com/item?id=41373384) - [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
+* [2024-08-27, 21:37:37](https://news.ycombinator.com/item?id=41373368) - [Should the richest 1% – who gained $42T/decade – be taxed more?](https://www.business-standard.com/world-news/world-s-top-1-gained-42-trillion-in-a-decade-taxes-at-record-lows-oxfam-124072500348_1.html)
 * [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-27, 20:47:51](https://news.ycombinator.com/item?id=41372836) - [Starliner Is Such a Disaster That Boeing May Cancel the Entire Project](https://futurism.com/starliner-failure-embarrassment-boeing)
