@@ -6,6 +6,7 @@
 
 * [2024-08-27, 09:50:15](https://news.ycombinator.com/item?id=41365868) - [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
 * [2024-08-27, 08:54:44](https://news.ycombinator.com/item?id=41365637) - [Tinybox of tinygrad by George Hotz is finally entering production](https://twitter.com/realgeorgehotz/status/1828197925874463166)
+* [2024-08-27, 08:43:33](https://news.ycombinator.com/item?id=41365598) - [2023 state of the climate Entering uncharted territory](https://academic.oup.com/bioscience/article/73/12/841/7319571)
 * [2024-08-27, 07:17:07](https://news.ycombinator.com/item?id=41365223) - [RISC-V CPU arrives on a tablet starting at $149](https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage)
 * [2024-08-27, 07:03:21](https://news.ycombinator.com/item?id=41365157) - [Run System Commands in Ruby – When to use which methods to run shell commands](https://kirillshevch.medium.com/9-ways-to-run-system-commands-in-ruby-d099223a0ec6)
 * [2024-08-27, 05:25:52](https://news.ycombinator.com/item?id=41364783) - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)

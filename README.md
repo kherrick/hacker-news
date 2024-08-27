@@ -2,6 +2,7 @@
 
 * [2024-08-27, 09:50:15](https://news.ycombinator.com/item?id=41365868) - [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
 * [2024-08-27, 08:54:44](https://news.ycombinator.com/item?id=41365637) - [Tinybox of tinygrad by George Hotz is finally entering production](https://twitter.com/realgeorgehotz/status/1828197925874463166)
+* [2024-08-27, 08:43:33](https://news.ycombinator.com/item?id=41365598) - [2023 state of the climate Entering uncharted territory](https://academic.oup.com/bioscience/article/73/12/841/7319571)
 * [2024-08-27, 07:17:07](https://news.ycombinator.com/item?id=41365223) - [RISC-V CPU arrives on a tablet starting at $149](https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage)
 * [2024-08-27, 07:03:21](https://news.ycombinator.com/item?id=41365157) - [Run System Commands in Ruby – When to use which methods to run shell commands](https://kirillshevch.medium.com/9-ways-to-run-system-commands-in-ruby-d099223a0ec6)
 * [2024-08-27, 05:25:52](https://news.ycombinator.com/item?id=41364783) - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
@@ -20,7 +21,6 @@
 * [2024-08-26, 12:37:32](https://news.ycombinator.com/item?id=41356528) - [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a bug in Google Chrome as a first-time contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 07:30:20](https://news.ycombinator.com/item?id=41354804) - [Attempting to Use GNU Guix (2019)](https://amodernist.com/texts/guix.html)
-* [2024-08-26, 03:41:09](https://news.ycombinator.com/item?id=41353811) - [Helen Fisher, who researched the brain’s love circuitry, has died](https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html)
 * [2024-08-25, 14:03:46](https://news.ycombinator.com/item?id=41347388) - [Deliberate Practice and Acquisition of Expert Performance: A General Overview](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x)
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
