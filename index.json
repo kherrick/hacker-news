@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-27, 18:02:29",
+      "https://news.ycombinator.com/item?id=41370714"
+    ],
+    [
+      "Malware infiltrates Pidgin messenger's official plugin repository",
+      "https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 17:00:27",
       "https://news.ycombinator.com/item?id=41369885"
     ],
@@ -17,16 +27,6 @@
     [
       "Is 'No tax on tips' a distraction from the fight to end sub-minimum wages?",
       "https://www.theguardian.com/us-news/article/2024/aug/27/no-tax-on-tips-unlivable-minimum-wages"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 16:51:58",
-      "https://news.ycombinator.com/item?id=41369734"
-    ],
-    [
-      "CMG pitch deck on listening to your conversations to target ads",
-      "https://gizmodo.com/pitch-dek-gives-new-details-on-companys-plan-to-listen-to-your-devices-for-ad-targeting-2000491095"
     ]
   ],
   [
@@ -81,12 +81,42 @@
   ],
   [
     [
+      "2024-08-27, 15:31:33",
+      "https://news.ycombinator.com/item?id=41368674"
+    ],
+    [
+      "A New Wave of Underwater Comms Is Coming",
+      "https://spectrum.ieee.org/underwater-communication"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 15:30:23",
+      "https://news.ycombinator.com/item?id=41368659"
+    ],
+    [
+      "A somewhat faster, more lightweight, ripgrep-inspired alternative",
+      "https://github.com/alexpasmantier/grip-grab"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 15:04:46",
       "https://news.ycombinator.com/item?id=41368363"
     ],
     [
       "Eazel, ex-Apple led Linux startup",
       "https://en.wikipedia.org/wiki/Eazel"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 15:00:08",
+      "https://news.ycombinator.com/item?id=41368304"
+    ],
+    [
+      "We built an open-source UIPath alternative that solves problem in all RPA",
+      "https://www.openagent.studio/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-08-27, 10:37:06",
-      "https://news.ycombinator.com/item?id=41366064"
-    ],
-    [
-      "The possibilities for dark matter have shrunk",
-      "https://www.sciencenews.org/article/dark-matter-wimps-lz"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 10:23:35",
       "https://news.ycombinator.com/item?id=41366006"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-08-27, 08:54:44",
-      "https://news.ycombinator.com/item?id=41365637"
-    ],
-    [
-      "\"Tinyboxes finally have a buy it now button\"",
-      "https://twitter.com/realgeorgehotz/status/1828197925874463166"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 04:45:46",
       "https://news.ycombinator.com/item?id=41364637"
     ],
@@ -197,16 +207,6 @@
     [
       "Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V",
       "https://box86.org/2024/08/box64-and-risc-v-in-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 03:46:35",
-      "https://news.ycombinator.com/item?id=41364412"
-    ],
-    [
-      "FreeBSD-rustdate, a reimplementation of FreeBSD-update",
-      "https://rustdate.over-yonder.net/"
     ]
   ],
   [
