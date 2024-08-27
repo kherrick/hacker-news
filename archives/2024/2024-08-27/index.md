@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
+* [2024-08-27, 15:32:28](https://news.ycombinator.com/item?id=41368690) - [Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
+* [2024-08-27, 15:31:47](https://news.ycombinator.com/item?id=41368677) - [No smoking in your own home, California city orders residents](https://www.thetimes.com/world/us-world/article/carlsbad-california-smoking-illegal-where-houses-k9qrrvm05)
 * [2024-08-27, 15:04:46](https://news.ycombinator.com/item?id=41368363) - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 * [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)
