@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 13:41:27](https://news.ycombinator.com/item?id=41367424) - [Zuckerberg says the White House pressured Facebook over some Covid-19 content](https://apnews.com/article/meta-platforms-mark-zuckerberg-biden-facebook-covid19-463ac6e125b0d004b16c7943633673fc)
+* [2024-08-27, 13:40:08](https://news.ycombinator.com/item?id=41367411) - [Super Micro: Fresh Evidence of Accounting Manipulation, etc.](https://hindenburgresearch.com/smci/)
 * [2024-08-27, 12:46:46](https://news.ycombinator.com/item?id=41366954) - [What Does It Mean to Be a Signal Competitor?](https://soatok.blog/2024/07/31/what-does-it-mean-to-be-a-signal-competitor/)
 * [2024-08-27, 12:42:12](https://news.ycombinator.com/item?id=41366910) - [Have Swiss scientists made a chocolate breakthrough?](https://www.bbc.co.uk/news/articles/cn47zg3xgxxo)
 * [2024-08-27, 12:37:16](https://news.ycombinator.com/item?id=41366871) - [Black Myth: Wukong Devs Told Streamers to Avoid Politics in Their Playthroughs](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)
