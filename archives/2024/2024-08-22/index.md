@@ -71,6 +71,7 @@
 * [2024-08-22, 08:27:23](https://news.ycombinator.com/item?id=41318000) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 * [2024-08-22, 08:25:35](https://news.ycombinator.com/item?id=41317988) - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
 * [2024-08-22, 08:19:41](https://news.ycombinator.com/item?id=41317971) - [If you can't code, remember this video](https://twitter.com/0xluffyb/status/1825854097481736479)
+* [2024-08-22, 08:15:45](https://news.ycombinator.com/item?id=41317952) - [Sydney aquarium filled with song after sea birds mourn death of gay penguin](https://www.theguardian.com/world/article/2024/aug/22/magic-moment-sydney-aquarium-filled-with-song-after-sea-birds-mourn-death-of-gay-penguin-sphen)
 * [2024-08-22, 07:55:10](https://news.ycombinator.com/item?id=41317824) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 * [2024-08-22, 07:40:04](https://news.ycombinator.com/item?id=41317732) - [Ars Technica content is now available in OpenAI services](https://arstechnica.com/information-technology/2024/08/openai-signs-ai-deal-with-conde-nast/)
 * [2024-08-22, 07:03:58](https://news.ycombinator.com/item?id=41317561) - [Microwaves: A Haven for Bacterial Diversity](https://tecscience.tec.mx/en/biotechnology/bacteria-in-microwave/)

@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-27, 12:46:46](https://news.ycombinator.com/item?id=41366954) - [What Does It Mean to Be a Signal Competitor?](https://soatok.blog/2024/07/31/what-does-it-mean-to-be-a-signal-competitor/)
-* [2024-08-27, 12:42:12](https://news.ycombinator.com/item?id=41366910) - [Have Swiss scientists made a chocolate breakthrough?](https://www.bbc.co.uk/news/articles/cn47zg3xgxxo)
 * [2024-08-27, 12:00:06](https://news.ycombinator.com/item?id=41366602) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-08-27, 11:19:42](https://news.ycombinator.com/item?id=41366304) - [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
 * [2024-08-27, 10:37:06](https://news.ycombinator.com/item?id=41366064) - [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
@@ -9,10 +7,10 @@
 * [2024-08-27, 05:25:52](https://news.ycombinator.com/item?id=41364783) - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
 * [2024-08-27, 04:23:27](https://news.ycombinator.com/item?id=41364549) - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 03:46:35](https://news.ycombinator.com/item?id=41364412) - [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
-* [2024-08-27, 01:52:56](https://news.ycombinator.com/item?id=41363943) - [Qualcomm Oryon CPU Core Design](https://chipsandcheese.com/2024/08/26/hot-chips-2024-qualcomms-oryon-core/)
 * [2024-08-27, 00:26:37](https://news.ycombinator.com/item?id=41363499) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 * [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
 * [2024-08-26, 20:03:45](https://news.ycombinator.com/item?id=41361281) - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
+* [2024-08-26, 16:55:16](https://news.ycombinator.com/item?id=41359132) - [Eating the Birds of America: Audubon's Culinary Reviews of America's Birds](https://usbirdhistory.com/audubon-eating-americas-birds/)
 * [2024-08-26, 15:58:09](https://news.ycombinator.com/item?id=41358490) - [Show HN: Remove-bg – open-source remove background using WebGPU](https://bannerify.co/tools/remove-bg)
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 * [2024-08-26, 14:55:56](https://news.ycombinator.com/item?id=41357765) - [Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes](https://news.ycombinator.com/item?id=41357765)
@@ -20,6 +18,7 @@
 * [2024-08-26, 12:37:32](https://news.ycombinator.com/item?id=41356528) - [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a bug in Google Chrome as a first-time contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 03:41:09](https://news.ycombinator.com/item?id=41353811) - [Helen Fisher, who researched the brain’s love circuitry, has died](https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html)
+* [2024-08-25, 14:42:02](https://news.ycombinator.com/item?id=41347635) - [The Tao of Unicode Sparklines (2021)](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
 * [2024-08-25, 14:03:46](https://news.ycombinator.com/item?id=41347388) - [Deliberate Practice and Acquisition of Expert Performance: A General Overview](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x)
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
 * [2024-08-25, 11:37:50](https://news.ycombinator.com/item?id=41346530) - [Parochialism in Time and Space (2021)](https://wyclif.substack.com/p/parochialism-in-time-and-space)
@@ -30,6 +29,7 @@
 * [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-24, 07:42:44](https://news.ycombinator.com/item?id=41336389) - [The formatting of Oracle-branded HGST SSDs (2021)](https://www.wanhunglo.com/2021/the-strange-formatting-of-oracle-branded-hgst-ssds-whl-71)
+* [2024-08-22, 08:15:45](https://news.ycombinator.com/item?id=41317952) - [Sydney aquarium filled with song after sea birds mourn death of gay penguin](https://www.theguardian.com/world/article/2024/aug/22/magic-moment-sydney-aquarium-filled-with-song-after-sea-birds-mourn-death-of-gay-penguin-sphen)
 
 ## [Archives](archives/index.md)
 
