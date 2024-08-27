@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-27, 12:00:42](https://news.ycombinator.com/item?id=41366609) - [Intelligence is not like height](https://theinfinitesimal.substack.com/p/no-intelligence-is-not-like-height)
 * [2024-08-27, 12:00:06](https://news.ycombinator.com/item?id=41366602) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-08-27, 11:19:42](https://news.ycombinator.com/item?id=41366304) - [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
 * [2024-08-27, 10:37:06](https://news.ycombinator.com/item?id=41366064) - [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
@@ -21,15 +22,14 @@
 * [2024-08-25, 14:42:02](https://news.ycombinator.com/item?id=41347635) - [The Tao of Unicode Sparklines (2021)](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
 * [2024-08-25, 14:03:46](https://news.ycombinator.com/item?id=41347388) - [Deliberate Practice and Acquisition of Expert Performance: A General Overview](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x)
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
-* [2024-08-25, 11:37:50](https://news.ycombinator.com/item?id=41346530) - [Parochialism in Time and Space (2021)](https://wyclif.substack.com/p/parochialism-in-time-and-space)
+* [2024-08-25, 11:37:50](https://news.ycombinator.com/item?id=41346530) - [Parochialism in time and space (2021)](https://wyclif.substack.com/p/parochialism-in-time-and-space)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
 * [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
-* [2024-08-24, 13:39:42](https://news.ycombinator.com/item?id=41338240) - [Firewalling Your Code](https://lackofimagination.org/2024/08/firewalling-your-code/)
+* [2024-08-24, 13:39:42](https://news.ycombinator.com/item?id=41338240) - [Firewalling your code](https://lackofimagination.org/2024/08/firewalling-your-code/)
 * [2024-08-24, 12:53:48](https://news.ycombinator.com/item?id=41337927) - [Out of Your Head](https://nautil.us/out-of-your-head-791745/)
 * [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-24, 07:42:44](https://news.ycombinator.com/item?id=41336389) - [The formatting of Oracle-branded HGST SSDs (2021)](https://www.wanhunglo.com/2021/the-strange-formatting-of-oracle-branded-hgst-ssds-whl-71)
-* [2024-08-22, 08:15:45](https://news.ycombinator.com/item?id=41317952) - [Sydney aquarium filled with song after sea birds mourn death of gay penguin](https://www.theguardian.com/world/article/2024/aug/22/magic-moment-sydney-aquarium-filled-with-song-after-sea-birds-mourn-death-of-gay-penguin-sphen)
 
 ## [Archives](archives/index.md)
 
