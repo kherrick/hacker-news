@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-08-27, 18:38:59",
+      "https://news.ycombinator.com/item?id=41371170"
+    ],
+    [
+      "A Collection of Free Public APIs That Is Tested Daily",
+      "https://www.freepublicapis.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 18:34:55",
+      "https://news.ycombinator.com/item?id=41371117"
+    ],
+    [
+      "U.S. Ambassador says Canadians are consuming 'unhealthy' amount of American news",
+      "https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 18:34:09",
       "https://news.ycombinator.com/item?id=41371106"
     ],
     [
       "Microsoft donates the Mono Project to the Wine team",
       "https://www.mono-project.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 18:32:37",
+      "https://news.ycombinator.com/item?id=41371083"
+    ],
+    [
+      "DisTrO – a family of low latency distributed optimizers",
+      "https://github.com/NousResearch/DisTrO"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-08-27, 16:49:46",
-      "https://news.ycombinator.com/item?id=41369705"
-    ],
-    [
-      "Cerebras Inference: AI at Instant Speed",
-      "https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 16:42:01",
       "https://news.ycombinator.com/item?id=41369586"
     ],
@@ -147,16 +167,6 @@
     [
       "Sainsbury Wing contractors find 1990 letter from donor",
       "https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 15:46:02",
-      "https://news.ycombinator.com/item?id=41368835"
-    ],
-    [
-      "Bootstrappable Builds",
-      "https://bootstrappable.org"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2024-08-27, 00:34:05",
+      "https://news.ycombinator.com/item?id=41363549"
+    ],
+    [
+      "The Triple Failure of 2U, EdX, and Axim",
+      "https://www.classcentral.com/report/2u-edx-bankruptcy/"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 10:28:47",
       "https://news.ycombinator.com/item?id=41346201"
     ],
@@ -277,26 +297,6 @@
     [
       "Clay (short for C Layout) is a high performance 2D UI layout library",
       "https://github.com/nicbarker/clay"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 08:01:39",
-      "https://news.ycombinator.com/item?id=41336462"
-    ],
-    [
-      "Clojure Desktop UI Framework",
-      "https://github.com/HumbleUI/HumbleUI"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 09:52:29",
-      "https://news.ycombinator.com/item?id=41318440"
-    ],
-    [
-      "To kill mammoths in the Ice Age, people used planted pikes, not throwing spears",
-      "https://phys.org/news/2024-08-mammoths-ice-age-people-pikes.html"
     ]
   ]
 ]
