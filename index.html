@@ -139,11 +139,11 @@
             <h4>
               <span>2024-08-27 @ 15:04:46</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41368363"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -160,13 +160,149 @@
             <h4>
               <span>2024-08-27 @ 14:31:50</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41367964"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41367750">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41367750"
+              >Launch HN: Bucket Robotics (YC S24) – Defect detection for molded
+              and cast parts</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-27 @ 14:12:45</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41367750"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://bucket.bot">https://bucket.bot</a> Bucket
+              transforms CAD models into custom defect detection models for
+              manufacturing:
+              <a href="https://youtu.be/RCyguguf3Is"
+                >https://youtu.be/RCyguguf3Is</a
+              >
+              <p>
+                Injection molded and cast parts are everywhere – 50% of what’s
+                visible on a modern car is injection molded – and these molds
+                are custom created for each part and assembly line. Injection
+                molding is a process where small plastic pellets are heated -
+                primarily by friction from an auger - and pushed into a mold -
+                usually two big milled out chunks of aluminum or steel - that
+                are pushed together by somewhere between 10 tons and 1000s of
+                tons of pressure. Once the plastic cools the machine opens up
+                the mold and pushes the newly formed object out using rods
+                called ejector pins. Look at a plastic object and you can
+                usually find a couple round marks from the ejector pins, a mark
+                from the injection site, a ridge where the faces of the molds
+                meet, and maybe some round stamp marks that tell you the day and
+                shift it was made on. (Link to a great explainer on the process:
+                <a href="https://youtu.be/RMjtmsr3CqA?si=QjErT_rOU9-_TQ8d"
+                  >https://youtu.be/RMjtmsr3CqA?si=QjErT_rOU9-_TQ8d</a
+                >)
+              </p>
+              <p>
+                Defect detection is either traditional ML based – get a
+                real-world sample, image it, label defect, repeat until there’s
+                a big enough set to build a model – or done manually. Humans
+                have an 80% success rate at detection - that gets worse
+                throughout the day, because decision fatigue leads to
+                deterioration in performance near lunch/end-of-shift (<a
+                  href="https://en.wikipedia.org/wiki/Decision_fatigue"
+                  >https://en.wikipedia.org/wiki/Decision_fatigue</a
+                >). Creating an automated system usually takes somewhere between
+                2 days and 2 weeks to collect and label real world samples then
+                build a model.
+              </p>
+              <p>
+                Injection molding is currently a 300 billion USD market, and as
+                vehicle electrification increases, more of the total components
+                of a car are injection molded making that market even bigger.
+                And because so much of that surface area is customer-facing –
+                any blemish, scratch, or burn is considered defective. Speaking
+                to folks in the space, you can see a defect rate as high as 15%
+                for blemishes as small as 1cm^2.
+              </p>
+              <p>
+                Our solution to this problem is to build the models off of CAD
+                designs instead of real world data. An injection mold is usually
+                machined aluminum or steel and can cost anywhere from $5k to
+                &gt;$100k - usually with a significant lead time. So when
+                customers send out their designs to the mold makers - or their
+                CNC if they do it in-house - they can also send them to us in
+                parallel and have a defect detection model ready to go long
+                before their mold is even finished.
+              </p>
+              <p>
+                On the backend we’re generating these detection models by
+                creating a large number of variations of the 3D model - some to
+                simulate innocuous things like ejector pin marks and most to
+                simulate various defects like flash. Once we have our 3D models
+                generated we fire them off to the cloud to render photorealistic
+                scenes with varied camera parameters, lighting, and obscurants
+                (shops are dusty). Now that we have labeled images it’s a simple
+                task to train a fairly off the shelf transformer based vision
+                model from them and deliver it to the customer.
+              </p>
+              <p>
+                Running the model doesn’t require fancy hardware - our usual
+                target device is an Orin Nano with a 12MP camera on it - and we
+                run it purely on-device so that customer images don’t need to
+                leave their worksite. We charge customers by the model — when
+                they plan a line change to a new mold, ideally they’ll contact
+                us and we’ll have their model ready before retooling is
+                complete.
+              </p>
+              <p>
+                Injection molding is as error prone as it is cool to watch. For
+                example, flash is a thin layer of extra plastic - usually
+                hanging off the edge of the part or overhanging a hole in the
+                part which makes parts defective aesthetically or can even
+                prevent parts from joining up properly. It can happen for so
+                many reasons. Too high an injection pressure, too low a clamping
+                pressure, a grubby mold surface, mold wear, poor mold design,
+                and that’s just to name a few!
+              </p>
+              <p>
+                Steph and I have a history of working on tasks performed
+                manually that we want to automate – we’ve been working together
+                for the last five years in Pittsburgh on self-driving cars at
+                Argo AI, Latitude AI, and Stack AV. Before that, I worked at
+                Michelin’s test track and Uber ATG. We really, really love
+                robots.
+              </p>
+              <p>
+                Our first pitch to Y Combinator was, “build a better Intel
+                RealSense” since it’s a universally used (and loathed) vision
+                system in robotics. We built our first few units and started
+                building demos for how folks could use our camera - and that’s
+                when we found defect detection for injection molding and
+                casting. Defect detection is understood and highly automated for
+                things like PCBs – where a surface defect can indicate a future
+                critical failure (hey that capacitor looks a little big?) but
+                defect detection for higher volume/lower cost parts is still too
+                high a cost and effort for most shops.
+              </p>
+              <p>
+                We’re excited to launch Bucket with you all! We’d love to hear
+                from the community – and if you know anyone working in
+                industrial computer vision or in quality control, please connect
+                us! My email is matt@bucket.bot – we can’t wait to see what you
+                all think!
+              </p>
+            </div>
           </section>
         </section>
         <section id="41367644">
@@ -179,11 +315,11 @@
             <h4>
               <span>2024-08-27 @ 14:02:43</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41367644"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -200,11 +336,11 @@
             <h4>
               <span>2024-08-27 @ 12:42:12</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41366910"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -238,11 +374,11 @@
             <h4>
               <span>2024-08-27 @ 11:36:25</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41366436"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -252,14 +388,14 @@
             <a
               class="item"
               href="https://www.sciencenews.org/article/dark-matter-wimps-lz"
-              >The possibilities for dark matter have just shrunk – by a lot</a
+              >The possibilities for dark matter have shrunk</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-08-27 @ 10:37:06</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41366064"
                   >Comments</a
@@ -279,7 +415,7 @@
             <h4>
               <span>2024-08-27 @ 10:23:35</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41366006"
                   >Comments</a
@@ -321,11 +457,11 @@
             <h4>
               <span>2024-08-27 @ 04:45:46</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41364637"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -343,11 +479,11 @@
             <h4>
               <span>2024-08-27 @ 04:23:27</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41364549"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -387,7 +523,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41363499"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -423,11 +559,11 @@
             <h4>
               <span>2024-08-26 @ 20:03:45</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41361281"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -442,11 +578,11 @@
             <h4>
               <span>2024-08-26 @ 15:21:56</span
               ><span class="points-container"
-                >Points: <span class="points">819</span></span
+                >Points: <span class="points">820</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41358020"
                   >Comments</a
-                ><span class="descendants">: 258</span></span
+                ><span class="descendants">: 259</span></span
               >
             </h4>
           </section>
@@ -574,7 +710,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41356632"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -591,7 +727,7 @@
             <h4>
               <span>2024-08-26 @ 12:37:32</span
               ><span class="points-container"
-                >Points: <span class="points">819</span></span
+                >Points: <span class="points">822</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41356528"
                   >Comments</a
@@ -610,32 +746,11 @@
             <h4>
               <span>2024-08-26 @ 07:30:20</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41354804"
                   >Comments</a
                 ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41347635">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/"
-              >The Tao of Unicode Sparklines (2021)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-25 @ 14:42:02</span
-              ><span class="points-container"
-                >Points: <span class="points">97</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41347635"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -653,11 +768,11 @@
             <h4>
               <span>2024-08-25 @ 14:03:46</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41347388"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -700,7 +815,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41346530"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -717,11 +832,11 @@
             <h4>
               <span>2024-08-25 @ 10:28:47</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41346201"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -737,11 +852,11 @@
             <h4>
               <span>2024-08-24 @ 15:26:45</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41338946"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -762,7 +877,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41338240"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -777,11 +892,11 @@
             <h4>
               <span>2024-08-24 @ 12:53:48</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41337927"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
