@@ -121,26 +121,6 @@
   ],
   [
     [
-      "2024-08-27, 18:29:16",
-      "https://news.ycombinator.com/item?id=41371038"
-    ],
-    [
-      "Why is the Oral-B iOS app almost 300 MB? And why is Colgate's app even bigger..?",
-      "https://twitter.com/emergetools/status/1828490449881047401"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 18:24:16",
-      "https://news.ycombinator.com/item?id=41370982"
-    ],
-    [
-      "NASA's SLS rocket's Mobile Launcher-2 increase from $383M to $2.7B",
-      "https://twitter.com/SciGuySpace/status/1828458852586525075"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 18:16:18",
       "https://news.ycombinator.com/item?id=41370877"
     ],
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41370420"
     ],
     [
-      "Vulnerabilities show why STARTTLS should be avoided if possible",
+      "Vulnerabilities show why STARTTLS should be avoided if possible (2021)",
       "https://blog.apnic.net/2021/11/18/vulnerabilities-show-why-starttls-should-be-avoided-if-possible/"
     ]
   ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-08-27, 09:50:15",
+      "https://news.ycombinator.com/item?id=41365868"
+    ],
+    [
+      "Zuckerberg claims regret on caving to White House pressure on content",
+      "https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 04:45:46",
       "https://news.ycombinator.com/item?id=41364637"
     ],
     [
       "Anthropic publishes the 'system prompts' that make Claude tick",
       "https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 10:28:47",
+      "https://news.ycombinator.com/item?id=41346201"
+    ],
+    [
+      "Ruby in Jupyter Notebook",
+      "https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb"
     ]
   ],
   [
