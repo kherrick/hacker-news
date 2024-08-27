@@ -71,6 +71,7 @@
 * [2024-08-24, 08:09:17](https://news.ycombinator.com/item?id=41336497) - [Shell.how: Explain Shell Commands](https://www.shell.how)
 * [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-24, 07:57:40](https://news.ycombinator.com/item?id=41336446) - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
+* [2024-08-24, 07:42:44](https://news.ycombinator.com/item?id=41336389) - [The formatting of Oracle-branded HGST SSDs (2021)](https://www.wanhunglo.com/2021/the-strange-formatting-of-oracle-branded-hgst-ssds-whl-71)
 * [2024-08-24, 07:39:40](https://news.ycombinator.com/item?id=41336374) - [Create an internal CLI using Just](https://blog.chay.dev/create-an-internal-cli/)
 * [2024-08-24, 06:44:13](https://news.ycombinator.com/item?id=41336159) - [What Lasts and (Mostly) Doesn't Last](https://countercraft.substack.com/p/what-lasts-and-mostly-doesnt-last)
 * [2024-08-24, 05:18:13](https://news.ycombinator.com/item?id=41335830) - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
