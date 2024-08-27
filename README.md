@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-27, 11:19:42](https://news.ycombinator.com/item?id=41366304) - [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
-* [2024-08-27, 10:39:23](https://news.ycombinator.com/item?id=41366075) - [The Google Fit APIs will no longer be available after June 30, 2025](https://developers.google.com/fit)
 * [2024-08-27, 10:37:06](https://news.ycombinator.com/item?id=41366064) - [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
 * [2024-08-27, 09:17:11](https://news.ycombinator.com/item?id=41365714) - [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
 * [2024-08-27, 08:54:44](https://news.ycombinator.com/item?id=41365637) - [Tinybox of tinygrad by George Hotz is finally entering production](https://twitter.com/realgeorgehotz/status/1828197925874463166)
@@ -28,6 +27,7 @@
 * [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 13:39:42](https://news.ycombinator.com/item?id=41338240) - [Firewalling Your Code](https://lackofimagination.org/2024/08/firewalling-your-code/)
 * [2024-08-24, 12:53:48](https://news.ycombinator.com/item?id=41337927) - [Out of Your Head](https://nautil.us/out-of-your-head-791745/)
+* [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-24, 07:42:44](https://news.ycombinator.com/item?id=41336389) - [The formatting of Oracle-branded HGST SSDs (2021)](https://www.wanhunglo.com/2021/the-strange-formatting-of-oracle-branded-hgst-ssds-whl-71)
 
