@@ -61,6 +61,26 @@
   ],
   [
     [
+      "2024-08-27, 17:42:03",
+      "https://news.ycombinator.com/item?id=41370420"
+    ],
+    [
+      "Vulnerabilities show why STARTTLS should be avoided if possible",
+      "https://blog.apnic.net/2021/11/18/vulnerabilities-show-why-starttls-should-be-avoided-if-possible/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 17:34:52",
+      "https://news.ycombinator.com/item?id=41370344"
+    ],
+    [
+      "Rustproofing Linux (Part 1/4 Leaking Addresses) (2023)",
+      "https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 17:26:47",
       "https://news.ycombinator.com/item?id=41370251"
     ],
@@ -71,22 +91,32 @@
   ],
   [
     [
+      "2024-08-27, 17:21:56",
+      "https://news.ycombinator.com/item?id=41370187"
+    ],
+    [
+      "Blitzortung – real time lightning strikes around the world",
+      "https://www.blitzortung.org/en/live_lightning_maps.php"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 17:19:27",
+      "https://news.ycombinator.com/item?id=41370147"
+    ],
+    [
+      "Show HN: I Built DollarAI.Store – A Collection of 350 AI Tools",
+      "https://app.dollarai.store"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 17:00:27",
       "https://news.ycombinator.com/item?id=41369885"
     ],
     [
       "Great Question (YC W21) Is Hiring Customer Support Lead",
       "https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 16:53:45",
-      "https://news.ycombinator.com/item?id=41369769"
-    ],
-    [
-      "Is 'No tax on tips' a distraction from the fight to end sub-minimum wages?",
-      "https://www.theguardian.com/us-news/article/2024/aug/27/no-tax-on-tips-unlivable-minimum-wages"
     ]
   ],
   [
@@ -217,36 +247,6 @@
     [
       "Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V",
       "https://box86.org/2024/08/box64-and-risc-v-in-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 00:34:05",
-      "https://news.ycombinator.com/item?id=41363549"
-    ],
-    [
-      "The Triple Failure of 2U, EdX, and Axim",
-      "https://www.classcentral.com/report/2u-edx-bankruptcy/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 20:03:45",
-      "https://news.ycombinator.com/item?id=41361281"
-    ],
-    [
-      "Erasure Coding for Distributed Systems",
-      "https://transactional.blog/blog/2024-erasure-coding"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 13:38:45",
-      "https://news.ycombinator.com/item?id=41347230"
-    ],
-    [
-      "Show HN: Outperforming VByte for Large Integers Using Phi-Encoding",
-      "https://github.com/DOSAYGO-Research/irradix/blob/main/paper.md"
     ]
   ],
   [
