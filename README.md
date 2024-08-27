@@ -24,10 +24,10 @@
 * [2024-08-25, 14:03:46](https://news.ycombinator.com/item?id=41347388) - [Deliberate Practice and Acquisition of Expert Performance: A General Overview](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x)
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
+* [2024-08-25, 09:52:19](https://news.ycombinator.com/item?id=41346001) - [How to run Valgrind on a CGI program in C](https://boston.conman.org/2024/08/24.1)
 * [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 13:39:42](https://news.ycombinator.com/item?id=41338240) - [Firewalling Your Code](https://lackofimagination.org/2024/08/firewalling-your-code/)
 * [2024-08-24, 12:53:48](https://news.ycombinator.com/item?id=41337927) - [Out of Your Head](https://nautil.us/out-of-your-head-791745/)
-* [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-24, 07:42:44](https://news.ycombinator.com/item?id=41336389) - [The formatting of Oracle-branded HGST SSDs (2021)](https://www.wanhunglo.com/2021/the-strange-formatting-of-oracle-branded-hgst-ssds-whl-71)
 

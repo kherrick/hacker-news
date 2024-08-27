@@ -74,6 +74,7 @@
 * [2024-08-25, 10:38:26](https://news.ycombinator.com/item?id=41346244) - [A Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
 * [2024-08-25, 10:20:11](https://news.ycombinator.com/item?id=41346156) - [Show HN: Cursor AI Rules Directory (Open Source)](https://cursor.directory)
+* [2024-08-25, 09:52:19](https://news.ycombinator.com/item?id=41346001) - [How to run Valgrind on a CGI program in C](https://boston.conman.org/2024/08/24.1)
 * [2024-08-25, 09:50:20](https://news.ycombinator.com/item?id=41345989) - [Why fans of nuclear are a problem today](https://jeromeaparis.substack.com/p/why-fans-of-nuclear-are-a-problem)
 * [2024-08-25, 05:39:43](https://news.ycombinator.com/item?id=41344688) - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)
 * [2024-08-25, 05:22:16](https://news.ycombinator.com/item?id=41344613) - [How a flawed idea is teaching kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
