@@ -8,7 +8,6 @@
 * [2024-08-27, 18:24:16](https://news.ycombinator.com/item?id=41370982) - [NASA's SLS rocket's Mobile Launcher-2 increase from $383M to $2.7B](https://twitter.com/SciGuySpace/status/1828458852586525075)
 * [2024-08-27, 18:16:18](https://news.ycombinator.com/item?id=41370877) - [Unlocking the Pixel 9 bootloader breaks some Pixel AI apps](https://liliputing.com/unlocking-the-pixel-9-bootloader-breaks-some-pixel-ai-apps/)
 * [2024-08-27, 18:02:29](https://news.ycombinator.com/item?id=41370714) - [Malware infiltrates Pidgin messenger's official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
-* [2024-08-27, 17:59:53](https://news.ycombinator.com/item?id=41370673) - [Just use fucking paper, man](https://andy-bell.co.uk/just-fucking-use-paper-man/)
 * [2024-08-27, 17:42:03](https://news.ycombinator.com/item?id=41370420) - [Vulnerabilities show why STARTTLS should be avoided if possible](https://blog.apnic.net/2021/11/18/vulnerabilities-show-why-starttls-should-be-avoided-if-possible/)
 * [2024-08-27, 17:41:20](https://news.ycombinator.com/item?id=41370411) - [Grace Hopper on Future Possibilities: Data, Hardware, Software, and People](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3884041/nsa-releases-copy-of-internal-lecture-delivered-by-computing-giant-rear-adm-gra/)
 * [2024-08-27, 17:34:52](https://news.ycombinator.com/item?id=41370344) - [Rustproofing Linux (Part 1/4 Leaking Addresses) (2023)](https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/)
@@ -28,6 +27,7 @@
 * [2024-08-27, 04:45:46](https://news.ycombinator.com/item?id=41364637) - [Anthropic publishes the 'system prompts' that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
 * [2024-08-27, 04:23:27](https://news.ycombinator.com/item?id=41364549) - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
+* [2024-08-25, 09:59:35](https://news.ycombinator.com/item?id=41346044) - [Language Entropy](https://streams.place/astleshome/drops/212177386811334656)
 * [2024-08-24, 19:40:18](https://news.ycombinator.com/item?id=41340874) - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
 * [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 
