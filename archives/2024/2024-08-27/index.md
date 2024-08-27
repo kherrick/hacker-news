@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
+* [2024-08-27, 18:29:16](https://news.ycombinator.com/item?id=41371038) - [Why is the Oral-B iOS app almost 300 MB? And why is Colgate's app even bigger..?](https://twitter.com/emergetools/status/1828490449881047401)
+* [2024-08-27, 18:24:16](https://news.ycombinator.com/item?id=41370982) - [NASA's SLS rocket's Mobile Launcher-2 increase from $383M to $2.7B](https://twitter.com/SciGuySpace/status/1828458852586525075)
 * [2024-08-27, 18:16:18](https://news.ycombinator.com/item?id=41370877) - [Unlocking the Pixel 9 bootloader breaks some Pixel AI apps](https://liliputing.com/unlocking-the-pixel-9-bootloader-breaks-some-pixel-ai-apps/)
 * [2024-08-27, 18:02:29](https://news.ycombinator.com/item?id=41370714) - [Malware infiltrates Pidgin messenger's official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
+* [2024-08-27, 17:59:53](https://news.ycombinator.com/item?id=41370673) - [Just use fucking paper, man](https://andy-bell.co.uk/just-fucking-use-paper-man/)
+* [2024-08-27, 17:26:47](https://news.ycombinator.com/item?id=41370251) - [Docker Performance Evaluation Across Operating Systems](https://mdpi-res.com/d_attachment/applsci/applsci-14-06672/article_deploy/applsci-14-06672.pdf?version=1722406713)
 * [2024-08-27, 17:00:27](https://news.ycombinator.com/item?id=41369885) - [Great Question (YC W21) Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
 * [2024-08-27, 16:53:45](https://news.ycombinator.com/item?id=41369769) - [Is 'No tax on tips' a distraction from the fight to end sub-minimum wages?](https://www.theguardian.com/us-news/article/2024/aug/27/no-tax-on-tips-unlivable-minimum-wages)
 * [2024-08-27, 16:51:58](https://news.ycombinator.com/item?id=41369734) - [CMG pitch deck on listening to your conversations to target ads](https://gizmodo.com/pitch-dek-gives-new-details-on-companys-plan-to-listen-to-your-devices-for-ad-targeting-2000491095)
@@ -15,6 +20,7 @@
 * [2024-08-27, 15:55:56](https://news.ycombinator.com/item?id=41368935) - [80% of AI Projects Crash and Burn, Billions Wasted Says Rand Report](https://salesforcedevops.net/index.php/2024/08/19/ai-apocalypse/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 * [2024-08-27, 15:46:02](https://news.ycombinator.com/item?id=41368835) - [Bootstrappable Builds](https://bootstrappable.org)
+* [2024-08-27, 15:33:26](https://news.ycombinator.com/item?id=41368704) - [We Can and Should Domesticate Raccoons](https://www.oliviali.me/writing/raccoons)
 * [2024-08-27, 15:32:28](https://news.ycombinator.com/item?id=41368690) - [Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
 * [2024-08-27, 15:31:47](https://news.ycombinator.com/item?id=41368677) - [No smoking in your own home, California city orders residents](https://www.thetimes.com/world/us-world/article/carlsbad-california-smoking-illegal-where-houses-k9qrrvm05)
 * [2024-08-27, 15:31:33](https://news.ycombinator.com/item?id=41368674) - [A New Wave of Underwater Comms Is Coming](https://spectrum.ieee.org/underwater-communication)
