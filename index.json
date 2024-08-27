@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-26, 22:18:23",
-      "https://news.ycombinator.com/item?id=41362798"
+      "2024-08-27, 00:26:37",
+      "https://news.ycombinator.com/item?id=41363499"
     ],
     [
-      "Blood Pressure Control Should Focus on More Potassium (2023)",
-      "https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.20545"
+      "Predicting the Future of Distributed Systems",
+      "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-08-26, 15:05:51",
+      "https://news.ycombinator.com/item?id=41357853"
+    ],
+    [
+      "Linux: We need tiling desktop environments",
+      "https://linuxblog.io/linux-tiling-desktop-environments/"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 14:55:56",
       "https://news.ycombinator.com/item?id=41357765"
     ],
@@ -137,16 +147,6 @@
     [
       "NSA releases 1982 Grace Hopper lecture",
       "https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 11:50:20",
-      "https://news.ycombinator.com/item?id=41356239"
-    ],
-    [
-      "Coolify’s rise to fame, and why it could be a big deal",
-      "https://blog.api-fiddle.com/posts/coolify-revolution"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-08-25, 13:23:21",
-      "https://news.ycombinator.com/item?id=41347119"
-    ],
-    [
-      "What it's like to work on cold cases",
-      "https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 13:12:13",
       "https://news.ycombinator.com/item?id=41347051"
     ],
@@ -297,6 +287,16 @@
     [
       "Peng – A minimal Rust-based quadrotor simulation pipeline",
       "https://github.com/makeecat/Peng"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 13:52:40",
+      "https://news.ycombinator.com/item?id=41310311"
+    ],
+    [
+      "Degas: Detailed Expressions on Full-Body Gaussian Avatars",
+      "https://initialneil.github.io/DEGAS"
     ]
   ]
 ]
