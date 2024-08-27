@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-27, 02:13:51](https://news.ycombinator.com/item?id=41364042) - [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
-* [2024-08-27, 01:58:30](https://news.ycombinator.com/item?id=41363966) - [Catcher plays for both teams in same game](https://www.bbc.com/sport/baseball/articles/cd9dzz8g4ydo)
 * [2024-08-27, 00:34:05](https://news.ycombinator.com/item?id=41363549) - [Harvard and MIT's $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
 * [2024-08-27, 00:26:37](https://news.ycombinator.com/item?id=41363499) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 * [2024-08-26, 23:34:21](https://news.ycombinator.com/item?id=41363231) - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
@@ -27,6 +26,7 @@
 * [2024-08-25, 13:34:31](https://news.ycombinator.com/item?id=41347197) - [Acorn – Use Laravel Inside WordPress](https://roots.io/acorn/)
 * [2024-08-25, 13:12:13](https://news.ycombinator.com/item?id=41347051) - [Vim Racer](https://vim-racer.com/)
 * [2024-08-25, 10:38:26](https://news.ycombinator.com/item?id=41346244) - [A Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
+* [2024-08-24, 12:53:48](https://news.ycombinator.com/item?id=41337927) - [Out of Your Head](https://nautil.us/out-of-your-head-791745/)
 * [2024-08-24, 08:51:00](https://news.ycombinator.com/item?id=41336657) - [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 * [2024-08-24, 08:01:39](https://news.ycombinator.com/item?id=41336462) - [Clojure Desktop UI Framework](https://github.com/HumbleUI/HumbleUI)
 * [2024-08-23, 15:51:46](https://news.ycombinator.com/item?id=41330007) - [DOJ sues realpage for algorithmic pricing scheme that harms renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)

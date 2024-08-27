@@ -49,6 +49,7 @@
 * [2024-08-24, 13:21:36](https://news.ycombinator.com/item?id=41338120) - [SCOTUS could deal another blow to climate action](https://www.theverge.com/2024/8/23/24226042/scotus-epa-clean-power-coal-plants-pause-rule)
 * [2024-08-24, 13:05:14](https://news.ycombinator.com/item?id=41338000) - [Against all odds, an asteroid mining company appears to be making headway](https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/)
 * [2024-08-24, 12:55:33](https://news.ycombinator.com/item?id=41337941) - [PHP-Parser: A Native PHP Parser for Parsing and Analyzing PHP Code](https://github.com/nikic/PHP-Parser)
+* [2024-08-24, 12:53:48](https://news.ycombinator.com/item?id=41337927) - [Out of Your Head](https://nautil.us/out-of-your-head-791745/)
 * [2024-08-24, 12:50:05](https://news.ycombinator.com/item?id=41337899) - [Contempt for the Glue People](https://surfingcomplexity.blog/2021/08/28/contempt-for-the-glue-people/)
 * [2024-08-24, 12:02:20](https://news.ycombinator.com/item?id=41337553) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-08-24, 12:01:35](https://news.ycombinator.com/item?id=41337542) - [Ask HN: What's your experience with Cursor and Sonnet 3.5 for coding?](https://news.ycombinator.com/item?id=41337542)
