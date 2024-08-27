@@ -6,6 +6,7 @@
 
 * [2024-08-27, 15:04:46](https://news.ycombinator.com/item?id=41368363) - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
+* [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)
 * [2024-08-27, 14:12:40](https://news.ycombinator.com/item?id=41367749) - [The Real Exponential Curve for LLMs](https://fume.substack.com/p/inference-is-free-and-instant)
 * [2024-08-27, 14:02:43](https://news.ycombinator.com/item?id=41367644) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 * [2024-08-27, 13:41:27](https://news.ycombinator.com/item?id=41367424) - [Zuckerberg says the White House pressured Facebook over some Covid-19 content](https://apnews.com/article/meta-platforms-mark-zuckerberg-biden-facebook-covid19-463ac6e125b0d004b16c7943633673fc)
