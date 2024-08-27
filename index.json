@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-27, 19:43:54",
+      "https://news.ycombinator.com/item?id=41372059"
+    ],
+    [
+      "KLEE Symbolic Execution Engine",
+      "https://github.com/klee/klee"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 19:41:59",
       "https://news.ycombinator.com/item?id=41372028"
     ],
@@ -17,6 +27,16 @@
     [
       "UltimateAntiCheat",
       "https://github.com/AlSch092/UltimateAntiCheat"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 18:49:15",
+      "https://news.ycombinator.com/item?id=41371288"
+    ],
+    [
+      "PyRoboCOP: Python-Based Robotic Control and Optimization Package",
+      "https://ieeexplore.ieee.org/abstract/document/10440590"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "NASA's SLS rocket's Mobile Launcher-2 increase from $383M to $2.7B",
       "https://twitter.com/SciGuySpace/status/1828458852586525075"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 18:16:18",
-      "https://news.ycombinator.com/item?id=41370877"
-    ],
-    [
-      "Unlocking the Pixel 9 bootloader breaks some Pixel AI apps",
-      "https://liliputing.com/unlocking-the-pixel-9-bootloader-breaks-some-pixel-ai-apps/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2024-08-25, 09:59:35",
-      "https://news.ycombinator.com/item?id=41346044"
+      "2024-08-24, 14:29:38",
+      "https://news.ycombinator.com/item?id=41338581"
     ],
     [
-      "Language Entropy",
-      "https://streams.place/astleshome/drops/212177386811334656"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 15:26:45",
-      "https://news.ycombinator.com/item?id=41338946"
-    ],
-    [
-      "Clay (short for C Layout) is a high performance 2D UI layout library",
-      "https://github.com/nicbarker/clay"
+      "The Simple Algorithm That Ants Use to Build Bridges (2018)",
+      "https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/"
     ]
   ]
 ]
