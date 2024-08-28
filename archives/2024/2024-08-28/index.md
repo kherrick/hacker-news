@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 20:14:32](https://news.ycombinator.com/item?id=41383770) - [Meta is accused of \"bullying\" the open-source community](https://www.economist.com/business/2024/08/28/meta-is-accused-of-bullying-the-open-source-community)
+* [2024-08-28, 19:59:10](https://news.ycombinator.com/item?id=41383592) - [Show HN: Repo2vec – an open-source library for chatting with any codebase](https://github.com/Storia-AI/repo2vec)
 * [2024-08-28, 19:38:42](https://news.ycombinator.com/item?id=41383363) - [OpenAI in Talks for Funding Round Valuing It Above $100B](https://www.wsj.com/tech/ai/openai-in-talks-for-funding-round-valuing-it-above-100-billion-4f0550c5)
+* [2024-08-28, 19:33:09](https://news.ycombinator.com/item?id=41383312) - [Jack Welch Screwed Up GE and Boeing, and with Them Much US Climate Action](https://cleantechnica.com/2024/08/26/jack-welch-screwed-up-ge-boeing-and-with-them-much-us-climate-action/)
 * [2024-08-28, 19:10:13](https://news.ycombinator.com/item?id=41383093) - [After 12 years at Google, I have decided it is time to move on](https://www.linkedin.com/posts/richard-sproat-3a182411_after-12-years-at-google-18-years-if-you-activity-7233986579529089024--CZW)
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
