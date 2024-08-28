@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+* [2024-08-28, 00:35:23](https://news.ycombinator.com/item?id=41374849) - [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
 * [2024-08-28, 00:06:45](https://news.ycombinator.com/item?id=41374663) - [Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 * [2024-08-27, 22:38:49](https://news.ycombinator.com/item?id=41374009) - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
-* [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [Faster CRDTs (2021)](https://josephg.com/blog/crdts-go-brrr/)
 * [2024-08-27, 20:17:24](https://news.ycombinator.com/item?id=41372482) - [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
