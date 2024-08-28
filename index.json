@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=41384118"
     ],
     [
-      "Twenty Years of Valgrind",
+      "Twenty Years of Valgrind (2022)",
       "https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 20:38:49",
-      "https://news.ycombinator.com/item?id=41384085"
-    ],
-    [
-      "Ask HN: Did the \"killer poke\" reduce Commodore PET sales?",
-      "https://news.ycombinator.com/item?id=41384085"
     ]
   ],
   [
@@ -37,6 +27,16 @@
     [
       "Purism Domain Puri.sm Suspended?",
       "https://whois.marcaria.com/en/result?SearchDomain=puri.sm"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 20:27:38",
+      "https://news.ycombinator.com/item?id=41383947"
+    ],
+    [
+      "Many Small Queries Are Efficient in SQLite",
+      "https://www.sqlite.org/np1queryprob.html"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=41378428"
     ],
     [
-      "Formal CHERI: design-time proof of full-scale architecture security properties",
+      "Formal CHERI: design-time proof of full-scale architecture security properties (2022)",
       "https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/"
     ]
   ],
