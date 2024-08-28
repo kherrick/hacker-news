@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-28, 08:34:57](https://news.ycombinator.com/item?id=41377331) - [Wp2hugo: Best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
-* [2024-08-28, 08:34:42](https://news.ycombinator.com/item?id=41377329) - [OpenAI shows 'Strawberry' to feds, races to launch it](https://www.lesswrong.com/posts/8oX4FTRa8MJodArhj/the-information-openai-shows-strawberry-to-feds-races-to)
+* [2024-08-28, 07:41:03](https://news.ycombinator.com/item?id=41376990) - [LinkedIn_AIHawk: AI job assistant. Automate applications and Resume Generation](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
 * [2024-08-28, 07:11:43](https://news.ycombinator.com/item?id=41376820) - [Final two communications from MH370 support controlled descent scenario (2021)](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
 * [2024-08-28, 06:30:35](https://news.ycombinator.com/item?id=41376590) - [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
 * [2024-08-28, 06:25:05](https://news.ycombinator.com/item?id=41376558) - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
