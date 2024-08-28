@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41379517"
     ],
     [
-      "YouTube is barely usable specifically on Firefox Windows at the moment",
+      "Starting today, YouTube is almost unusable on Firefox",
       "https://old.reddit.com/r/youtube/comments/1f30ku4/youtube_sabotaging_on_firefox/"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "Show HN: We ungated our product (no signup)–is it a good idea?",
       "https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 12:39:46",
+      "https://news.ycombinator.com/item?id=41378806"
+    ],
+    [
+      "Judge dismisses majority of GitHub Copilot copyright claims",
+      "https://www.developer-tech.com/news/judge-dismisses-majority-github-copilot-copyright-claims/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Formal CHERI: rigorous engineering and design-time proof of full-scale architect",
       "https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 11:16:00",
-      "https://news.ycombinator.com/item?id=41378268"
-    ],
-    [
-      "Microsoft backports AMD branch prediction improvement to Windows 11 23H2",
-      "https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41374663"
     ],
     [
-      "Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications",
+      "Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications",
       "https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/"
     ]
   ],
