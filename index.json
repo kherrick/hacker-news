@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-08-28, 02:43:45",
-      "https://news.ycombinator.com/item?id=41375491"
-    ],
-    [
-      "Rust Dylib Rabbit Holes",
-      "https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 00:06:45",
       "https://news.ycombinator.com/item?id=41374663"
     ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2024-08-27, 17:42:03",
-      "https://news.ycombinator.com/item?id=41370420"
-    ],
-    [
-      "Vulnerabilities show why STARTTLS should be avoided if possible (2021)",
-      "https://blog.apnic.net/2021/11/18/vulnerabilities-show-why-starttls-should-be-avoided-if-possible/"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 17:21:56",
       "https://news.ycombinator.com/item?id=41370187"
     ],
@@ -247,6 +227,16 @@
     [
       "Sainsbury Wing contractors find 1990 letter from donor",
       "https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 12:17:21",
+      "https://news.ycombinator.com/item?id=41356415"
+    ],
+    [
+      "A dishwasher can make or break a restaurant",
+      "https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2024-08-24, 14:29:38",
-      "https://news.ycombinator.com/item?id=41338581"
+      "2024-08-25, 10:14:41",
+      "https://news.ycombinator.com/item?id=41346124"
     ],
     [
-      "The Simple Algorithm That Ants Use to Build Bridges (2018)",
-      "https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/"
+      "PC Floppy Copy Protection: Formaster Copy-Lock",
+      "https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-formaster.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 11:49:53",
+      "https://news.ycombinator.com/item?id=41337469"
+    ],
+    [
+      "Knockknock: Simple, secure, and stealthy port knocking implementation (2012)",
+      "https://github.com/moxie0/knockknock"
     ]
   ],
   [
