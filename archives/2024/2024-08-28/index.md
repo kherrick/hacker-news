@@ -7,6 +7,7 @@
 * [2024-08-28, 12:27:40](https://news.ycombinator.com/item?id=41378704) - [Human brain organoid bioprocessors now available to rent for $500 per month](https://www.tomshardware.com/pc-components/cpus/human-brain-organoid-bioprocessors-now-available-to-rent-for-dollar500-per-month)
 * [2024-08-28, 12:24:41](https://news.ycombinator.com/item?id=41378686) - [What's your favorite RSS feed reader?](https://news.ycombinator.com/item?id=41378686)
 * [2024-08-28, 12:01:13](https://news.ycombinator.com/item?id=41378527) - [Prosper AI (YC S23) Is Hiring a Founding Front End Engineer in Barcelona(hybrid)](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
+* [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 11:16:00](https://news.ycombinator.com/item?id=41378268) - [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDF (Rust)](https://github.com/seekbytes/IPA)

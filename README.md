@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-28, 12:27:40](https://news.ycombinator.com/item?id=41378704) - [Human brain organoid bioprocessors now available to rent for $500 per month](https://www.tomshardware.com/pc-components/cpus/human-brain-organoid-bioprocessors-now-available-to-rent-for-dollar500-per-month)
-* [2024-08-28, 12:24:41](https://news.ycombinator.com/item?id=41378686) - [What's your favorite RSS feed reader?](https://news.ycombinator.com/item?id=41378686)
 * [2024-08-28, 12:01:13](https://news.ycombinator.com/item?id=41378527) - [Prosper AI (YC S23) Is Hiring a Founding Front End Engineer in Barcelona(hybrid)](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
+* [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 11:16:00](https://news.ycombinator.com/item?id=41378268) - [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDF (Rust)](https://github.com/seekbytes/IPA)
@@ -11,6 +11,7 @@
 * [2024-08-28, 07:11:43](https://news.ycombinator.com/item?id=41376820) - [Final two communications from MH370 support controlled descent scenario (2021)](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
 * [2024-08-28, 06:30:35](https://news.ycombinator.com/item?id=41376590) - [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
 * [2024-08-28, 06:25:05](https://news.ycombinator.com/item?id=41376558) - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
+* [2024-08-28, 03:47:38](https://news.ycombinator.com/item?id=41375746) - [Covid-19 Intranasal Vaccine](https://news.griffith.edu.au/2024/08/27/game-changing-needle-free-covid-19-intranasal-vaccine/)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
 * [2024-08-28, 02:43:45](https://news.ycombinator.com/item?id=41375491) - [Rust Dylib Rabbit Holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
 * [2024-08-28, 00:06:45](https://news.ycombinator.com/item?id=41374663) - [Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
@@ -27,7 +28,6 @@
 * [2024-08-26, 10:34:49](https://news.ycombinator.com/item?id=41355797) - [Rerun: Visualize Multimodal Data over Time](https://rerun.io)
 * [2024-08-26, 10:34:41](https://news.ycombinator.com/item?id=41355796) - [Cleaning up after WWII (2017)](https://wwiiafterwwii.wordpress.com/2017/02/20/cleaning-up-after-wwii/)
 * [2024-08-25, 18:03:29](https://news.ycombinator.com/item?id=41349589) - [How to verify boot firmware integrity if you prioritize neutralizing Intel ME?](https://news.ycombinator.com/item?id=41349589)
-* [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
 * [2024-08-23, 10:31:41](https://news.ycombinator.com/item?id=41327795) - [Detecting diamonds with X-ray technology(2014)](https://www.fraunhofer.de/en/press/research-news/2014/april/detecting-diamonds.html)
 * [2024-08-23, 09:10:39](https://news.ycombinator.com/item?id=41327394) - [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 
