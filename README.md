@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-28, 21:27:56](https://news.ycombinator.com/item?id=41384590) - [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
 * [2024-08-28, 21:00:17](https://news.ycombinator.com/item?id=41384316) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-28, 20:44:29](https://news.ycombinator.com/item?id=41384144) - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 * [2024-08-28, 20:42:03](https://news.ycombinator.com/item?id=41384118) - [Twenty Years of Valgrind (2022)](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
@@ -7,7 +8,6 @@
 * [2024-08-28, 20:27:38](https://news.ycombinator.com/item?id=41383947) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
 * [2024-08-28, 20:20:04](https://news.ycombinator.com/item?id=41383843) - [What Is Post-Quantum Cryptography? – NIST](https://www.nist.gov/cybersecurity/what-post-quantum-cryptography)
 * [2024-08-28, 19:59:10](https://news.ycombinator.com/item?id=41383592) - [Show HN: Repo2vec – an open-source library for chatting with any codebase](https://github.com/Storia-AI/repo2vec)
-* [2024-08-28, 19:26:08](https://news.ycombinator.com/item?id=41383244) - [I Hate the Term \"Modern\"](https://www.paritybit.ca/blog/why-i-hate-the-term-modern/)
 * [2024-08-28, 19:13:51](https://news.ycombinator.com/item?id=41383126) - [Companies Lobby Against Giving the Military the Right to Repair](https://www.404media.co/appliance-and-tractor-companies-lobby-against-giving-the-military-the-right-to-repair/)
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
@@ -24,10 +24,10 @@
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: design-time proof of full-scale architecture security properties (2022)](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDFs](https://github.com/seekbytes/IPA)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion models are real-time game engines](https://gamengen.github.io)
+* [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 * [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant (2017)](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
 * [2024-08-25, 17:23:16](https://news.ycombinator.com/item?id=41349215) - [The scalpel: From flint to zirconium-coated steel (2018)](https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2018/02/the-history-of-the-scalpel-from-flint-to-zirconium-coated-steel/)
 * [2024-08-25, 13:33:23](https://news.ycombinator.com/item?id=41347188) - [Google's New Pipe Syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
-* [2024-08-25, 06:36:40](https://news.ycombinator.com/item?id=41344972) - [Human population dynamics in Paleolithic inferred from fossil dental phenotypes](https://www.science.org/doi/10.1126/sciadv.adn8129)
 * [2024-08-24, 11:07:51](https://news.ycombinator.com/item?id=41337268) - [\"Everything\" is a filename search engine for Windows](https://www.voidtools.com/en-us/support/everything/)
 * [2024-08-23, 09:10:39](https://news.ycombinator.com/item?id=41327394) - [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 

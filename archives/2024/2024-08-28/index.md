@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 21:27:56](https://news.ycombinator.com/item?id=41384590) - [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
 * [2024-08-28, 21:00:17](https://news.ycombinator.com/item?id=41384316) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-28, 20:44:29](https://news.ycombinator.com/item?id=41384144) - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 * [2024-08-28, 20:42:03](https://news.ycombinator.com/item?id=41384118) - [Twenty Years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
