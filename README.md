@@ -24,10 +24,10 @@
 * [2024-08-27, 17:09:56](https://news.ycombinator.com/item?id=41370020) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 * [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)
-* [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
 * [2024-08-26, 10:34:49](https://news.ycombinator.com/item?id=41355797) - [Rerun: Visualize Multimodal Data over Time](https://rerun.io)
 * [2024-08-26, 10:34:41](https://news.ycombinator.com/item?id=41355796) - [Cleaning up after WWII (2017)](https://wwiiafterwwii.wordpress.com/2017/02/20/cleaning-up-after-wwii/)
 * [2024-08-25, 18:03:21](https://news.ycombinator.com/item?id=41349585) - [Marine worms made at least some trace fossil burrows called Bifungites](https://www.nytimes.com/2024/08/22/science/fossils-worms-bifungites-brazil.html)
+* [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
 * [2024-08-23, 10:31:41](https://news.ycombinator.com/item?id=41327795) - [Detecting diamonds with X-ray technology(2014)](https://www.fraunhofer.de/en/press/research-news/2014/april/detecting-diamonds.html)
 * [2024-08-23, 09:10:39](https://news.ycombinator.com/item?id=41327394) - [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 
