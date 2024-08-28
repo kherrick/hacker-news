@@ -8,6 +8,7 @@
 * [2024-08-28, 20:42:03](https://news.ycombinator.com/item?id=41384118) - [Twenty Years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 * [2024-08-28, 20:38:49](https://news.ycombinator.com/item?id=41384085) - [Ask HN: Did the \"killer poke\" reduce Commodore PET sales?](https://news.ycombinator.com/item?id=41384085)
 * [2024-08-28, 20:35:50](https://news.ycombinator.com/item?id=41384053) - [Purism Domain Puri.sm Suspended?](https://whois.marcaria.com/en/result?SearchDomain=puri.sm)
+* [2024-08-28, 20:27:38](https://news.ycombinator.com/item?id=41383947) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
 * [2024-08-28, 20:25:15](https://news.ycombinator.com/item?id=41383914) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2025)
 * [2024-08-28, 20:14:32](https://news.ycombinator.com/item?id=41383770) - [Meta is accused of \"bullying\" the open-source community](https://www.economist.com/business/2024/08/28/meta-is-accused-of-bullying-the-open-source-community)
 * [2024-08-28, 19:59:10](https://news.ycombinator.com/item?id=41383592) - [Show HN: Repo2vec – an open-source library for chatting with any codebase](https://github.com/Storia-AI/repo2vec)
