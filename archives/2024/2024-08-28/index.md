@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 15:14:41](https://news.ycombinator.com/item?id=41380450) - [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
+* [2024-08-28, 14:53:22](https://news.ycombinator.com/item?id=41380217) - [US appeals court rules geofence warrants are unconstitutional](https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/)
+* [2024-08-28, 14:48:36](https://news.ycombinator.com/item?id=41380154) - [Interview with Signal President Meredith Whittaker](https://www.wired.com/story/meredith-whittaker-signal/)
+* [2024-08-28, 14:43:34](https://news.ycombinator.com/item?id=41380084) - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
+* [2024-08-28, 14:39:25](https://news.ycombinator.com/item?id=41380031) - [Unrealized Gain Tax–A Coming Sea Change in FY2025 Budget Proposal?](https://www.forbes.com/sites/andrewleahey/2024/04/30/unrealized-gain-tax-a-coming-sea-change-in-fy2025-budget-proposal/)
 * [2024-08-28, 13:50:07](https://news.ycombinator.com/item?id=41379517) - [YouTube is barely usable specifically on Firefox Windows at the moment](https://old.reddit.com/r/youtube/comments/1f30ku4/youtube_sabotaging_on_firefox/)
+* [2024-08-28, 13:40:33](https://news.ycombinator.com/item?id=41379408) - [Show HN: Relari – Auto Prompt Optimizer as Lightweight Alternative to Finetuning](https://news.ycombinator.com/item?id=41379408)
 * [2024-08-28, 13:27:29](https://news.ycombinator.com/item?id=41379254) - [Show HN: We ungated our product (no signup)–is it a good idea?](https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit)
 * [2024-08-28, 13:10:45](https://news.ycombinator.com/item?id=41379097) - [Ask HN: Did you regret staying at a job for too long?](https://news.ycombinator.com/item?id=41379097)
 * [2024-08-28, 12:39:46](https://news.ycombinator.com/item?id=41378806) - [Judge dismisses majority of GitHub Copilot copyright claims](https://www.developer-tech.com/news/judge-dismisses-majority-github-copilot-copyright-claims/)
