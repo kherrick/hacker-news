@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 07:11:43",
+      "https://news.ycombinator.com/item?id=41376820"
+    ],
+    [
+      "Final Two Communications from MH370 Support Controlled Eastward Descent Scenario",
+      "https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 07:05:23",
       "https://news.ycombinator.com/item?id=41376770"
     ],
@@ -57,6 +67,16 @@
     [
       "Diffusion Models Are Real-Time Game Engines",
       "https://gamengen.github.io"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 02:43:45",
+      "https://news.ycombinator.com/item?id=41375491"
+    ],
+    [
+      "Rust Dylib Rabbit Holes",
+      "https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "KLEE Symbolic Execution Engine",
       "https://github.com/klee/klee"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 19:41:59",
-      "https://news.ycombinator.com/item?id=41372028"
-    ],
-    [
-      "How Chrome Accessibility Works",
-      "https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2024-08-27, 10:23:35",
-      "https://news.ycombinator.com/item?id=41366006"
-    ],
-    [
-      "Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs",
-      "https://splatt3r.active.vision/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 09:50:15",
-      "https://news.ycombinator.com/item?id=41365868"
-    ],
-    [
-      "Zuckerberg claims regret on caving to White House pressure on content",
-      "https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 10:34:49",
       "https://news.ycombinator.com/item?id=41355797"
     ],
@@ -267,6 +257,16 @@
     [
       "Cleaning up after WWII (2017)",
       "https://wwiiafterwwii.wordpress.com/2017/02/20/cleaning-up-after-wwii/"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 17:20:03",
+      "https://news.ycombinator.com/item?id=41349180"
+    ],
+    [
+      "Can you convert a video to pure CSS?",
+      "https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css"
     ]
   ],
   [
