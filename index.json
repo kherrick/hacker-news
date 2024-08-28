@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-08-28, 14:53:22",
-      "https://news.ycombinator.com/item?id=41380217"
-    ],
-    [
-      "US appeals court rules geofence warrants are unconstitutional",
-      "https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 14:48:36",
       "https://news.ycombinator.com/item?id=41380154"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41378478"
     ],
     [
-      "Typing Lists and Tuples in Elixir",
+      "Typing lists and tuples in Elixir",
       "https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41378428"
     ],
     [
-      "Formal CHERI: rigorous engineering and design-time proof of full-scale architect",
+      "Formal CHERI: design-time proof of full-scale architecture security properties",
       "https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41377960"
     ],
     [
-      "Show HN: IPA, a GUI for exploring inner details of PDF (Rust)",
+      "Show HN: IPA, a GUI for exploring inner details of PDFs",
       "https://github.com/seekbytes/IPA"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41376590"
     ],
     [
-      "Cosmic Alpha Released",
+      "COSMIC Alpha Released",
       "https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=41375548"
     ],
     [
-      "Diffusion Models Are Real-Time Game Engines",
+      "Diffusion models are real-time game engines",
       "https://gamengen.github.io"
     ]
   ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-08-27, 15:49:27",
+      "https://news.ycombinator.com/item?id=41368866"
+    ],
+    [
+      "Sainsbury Wing contractors find 1990 letter from donor",
+      "https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 12:30:09",
       "https://news.ycombinator.com/item?id=41356484"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=41356415"
     ],
     [
-      "A dishwasher can make or break a restaurant",
+      "A dishwasher can make or break a restaurant (2017)",
       "https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/"
     ]
   ],
