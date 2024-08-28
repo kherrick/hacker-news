@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-28, 17:37:44",
-      "https://news.ycombinator.com/item?id=41381994"
+      "2024-08-28, 17:13:50",
+      "https://news.ycombinator.com/item?id=41381738"
     ],
     [
-      "UAE Freezes $20B Jet Deal with France After Telegram CEO Arrest",
-      "https://thedailyguardian.com/uae-freezes-20-billion-jet-deal-with-france-after-telegram-ceo-arrest/"
+      "Stoke Awarded Contract to Develop Critical Space Mobility Capabilities",
+      "https://www.stokespace.com/stoke-awarded-contract-to-develop-critical-space-mobility-capabilities/"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 17:01:15",
+      "https://news.ycombinator.com/item?id=41381598"
+    ],
+    [
+      "Maker Skill Trees",
+      "https://github.com/sjpiper145/MakerSkillTree"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Reflex (YC W23) Is Hiring Python Software Engineers",
       "https://www.ycombinator.com/companies/reflex/jobs/CoRbEAk-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 16:58:16",
-      "https://news.ycombinator.com/item?id=41381569"
-    ],
-    [
-      "Panasonic Toughbook 40",
-      "https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Show HN: Every open source tool from the \"What's HN working on\" thread",
       "https://github.com/getomni-ai/datasets/blob/main/hn_projects.md"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 15:15:24",
+      "https://news.ycombinator.com/item?id=41380460"
+    ],
+    [
+      "Show HN: Shed Light on Your Go Binary Bloat with Go Size Analyzer",
+      "https://github.com/Zxilly/go-size-analyzer"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-08-28, 13:40:33",
-      "https://news.ycombinator.com/item?id=41379408"
-    ],
-    [
-      "Show HN: Relari – Auto Prompt Optimizer as Lightweight Alternative to Finetuning",
-      "https://news.ycombinator.com/item?id=41379408"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 12:41:28",
       "https://news.ycombinator.com/item?id=41378819"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-08-28, 09:09:13",
-      "https://news.ycombinator.com/item?id=41377540"
-    ],
-    [
-      "Sapiens: Foundation for Human Vision Models",
-      "https://arxiv.org/abs/2408.12569"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 08:34:57",
       "https://news.ycombinator.com/item?id=41377331"
     ],
@@ -227,6 +217,16 @@
     [
       "Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications",
       "https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 22:38:49",
+      "https://news.ycombinator.com/item?id=41374009"
+    ],
+    [
+      "ChartDB – Free and open source, database design editor",
+      "https://chartdb.io/"
     ]
   ],
   [
