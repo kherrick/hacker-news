@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 02:59:40",
+      "https://news.ycombinator.com/item?id=41375548"
+    ],
+    [
+      "Diffusion Models Are Real-Time Game Engines",
+      "https://gamengen.github.io"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 00:06:45",
       "https://news.ycombinator.com/item?id=41374663"
     ],
@@ -17,16 +27,6 @@
     [
       "ChartDB – Free and open source, database design editor",
       "https://chartdb.io/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 22:05:18",
-      "https://news.ycombinator.com/item?id=41373650"
-    ],
-    [
-      "GeoWorks: The Other Windows",
-      "https://tedium.co/2019/06/20/geoworks-geos-history/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-08-26, 15:28:42",
+      "https://news.ycombinator.com/item?id=41358094"
+    ],
+    [
+      "The End of Finale",
+      "https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 10:34:49",
       "https://news.ycombinator.com/item?id=41355797"
     ],
@@ -287,16 +297,6 @@
     [
       "Knockknock: Simple, secure, and stealthy port knocking implementation",
       "https://github.com/moxie0/knockknock"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 05:46:53",
-      "https://news.ycombinator.com/item?id=41326461"
-    ],
-    [
-      "Slime mold simulation in Rust using WASM and WebGPU",
-      "https://github.com/plul/slime-mold-simulation"
     ]
   ]
 ]
