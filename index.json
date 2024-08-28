@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-28, 06:30:35",
+      "https://news.ycombinator.com/item?id=41376590"
+    ],
+    [
+      "Cosmic Alpha Released",
+      "https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 06:25:05",
+      "https://news.ycombinator.com/item?id=41376558"
+    ],
+    [
+      "Boxxy puts bad Linux applications in a box with only their files",
+      "https://github.com/queer/boxxy"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 04:46:44",
       "https://news.ycombinator.com/item?id=41376044"
     ],
@@ -37,6 +57,16 @@
     [
       "Diffusion Models Are Real-Time Game Engines",
       "https://gamengen.github.io"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 02:43:45",
+      "https://news.ycombinator.com/item?id=41375491"
+    ],
+    [
+      "Rust Dylib Rabbit Holes",
+      "https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2024-08-27, 15:31:33",
-      "https://news.ycombinator.com/item?id=41368674"
-    ],
-    [
-      "A New Wave of Underwater Comms Is Coming",
-      "https://spectrum.ieee.org/underwater-communication"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 14:12:45",
       "https://news.ycombinator.com/item?id=41367750"
     ],
@@ -227,16 +247,6 @@
     [
       "Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs",
       "https://splatt3r.active.vision/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 09:50:15",
-      "https://news.ycombinator.com/item?id=41365868"
-    ],
-    [
-      "Zuckerberg claims regret on caving to White House pressure on content",
-      "https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A Weekend at the Immersion Larp Festival",
       "https://mssv.net/2024/08/21/a-weekend-at-the-immersion-larp-festival/"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 15:26:45",
-      "https://news.ycombinator.com/item?id=41338946"
-    ],
-    [
-      "Clay (short for C Layout) is a high performance 2D UI layout library",
-      "https://github.com/nicbarker/clay"
     ]
   ],
   [
