@@ -67,6 +67,7 @@
 * [2024-08-26, 11:50:20](https://news.ycombinator.com/item?id=41356239) - [Coolify's rise to fame. And why it could be a big deal.](https://blog.api-fiddle.com/posts/coolify-revolution)
 * [2024-08-26, 10:48:50](https://news.ycombinator.com/item?id=41355890) - [13 Years of Building Infrastructure Control Planes in Ruby](https://www.ubicloud.com/blog/building-infrastructure-control-planes-in-ruby)
 * [2024-08-26, 10:35:11](https://news.ycombinator.com/item?id=41355800) - [Show HN: I published a book to save you from my software architecture mistakes](https://leanpub.com/master-software-architecture)
+* [2024-08-26, 10:34:49](https://news.ycombinator.com/item?id=41355797) - [Rerun: Visualize Multimodal Data over Time](https://rerun.io)
 * [2024-08-26, 09:25:01](https://news.ycombinator.com/item?id=41355380) - [Uber fined €290M ($324M) in Netherlands for sending drivers' data to the US](https://www.reuters.com/technology/cybersecurity/dutch-privacy-watchdog-fines-uber-sending-drivers-data-us-2024-08-26/)
 * [2024-08-26, 09:10:56](https://news.ycombinator.com/item?id=41355303) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 09:08:28](https://news.ycombinator.com/item?id=41355288) - [The Iron Law of Bureaucracy (2010)](https://www.jerrypournelle.com/reports/jerryp/iron.html)
