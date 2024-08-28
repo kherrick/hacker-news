@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-28, 20:25:15](https://news.ycombinator.com/item?id=41383914) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2025)
 * [2024-08-28, 20:14:32](https://news.ycombinator.com/item?id=41383770) - [Meta is accused of \"bullying\" the open-source community](https://www.economist.com/business/2024/08/28/meta-is-accused-of-bullying-the-open-source-community)
-* [2024-08-28, 19:59:10](https://news.ycombinator.com/item?id=41383592) - [Show HN: Repo2vec – an open-source library for chatting with any codebase](https://github.com/Storia-AI/repo2vec)
 * [2024-08-28, 19:33:09](https://news.ycombinator.com/item?id=41383312) - [Jack Welch Screwed Up GE and Boeing, and with Them Much US Climate Action](https://cleantechnica.com/2024/08/26/jack-welch-screwed-up-ge-boeing-and-with-them-much-us-climate-action/)
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
@@ -21,7 +21,6 @@
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: design-time proof of full-scale architecture security properties](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDFs](https://github.com/seekbytes/IPA)
-* [2024-08-28, 06:30:35](https://news.ycombinator.com/item?id=41376590) - [COSMIC Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
 * [2024-08-28, 06:25:05](https://news.ycombinator.com/item?id=41376558) - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion models are real-time game engines](https://gamengen.github.io)
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
@@ -29,6 +28,7 @@
 * [2024-08-25, 17:23:16](https://news.ycombinator.com/item?id=41349215) - [The scalpel: From flint to zirconium-coated steel (2018)](https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2018/02/the-history-of-the-scalpel-from-flint-to-zirconium-coated-steel/)
 * [2024-08-25, 10:14:41](https://news.ycombinator.com/item?id=41346124) - [PC Floppy Copy Protection: Formaster Copy-Lock](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-formaster.html)
 * [2024-08-25, 06:36:40](https://news.ycombinator.com/item?id=41344972) - [Human population dynamics in Paleolithic inferred from fossil dental phenotypes](https://www.science.org/doi/10.1126/sciadv.adn8129)
+* [2024-08-24, 11:07:51](https://news.ycombinator.com/item?id=41337268) - [\"Everything\" is a filename search engine for Windows](https://www.voidtools.com/en-us/support/everything/)
 * [2024-08-23, 09:10:39](https://news.ycombinator.com/item?id=41327394) - [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 
 ## [Archives](archives/index.md)

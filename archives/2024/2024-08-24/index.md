@@ -64,6 +64,7 @@
 * [2024-08-24, 11:19:06](https://news.ycombinator.com/item?id=41337307) - [Scientists Build a Simple Gel 'Brain' That Learns How to Play Pong Better](https://www.sciencealert.com/scientists-build-a-simple-gel-brain-that-learns-how-to-play-pong-better)
 * [2024-08-24, 11:16:57](https://news.ycombinator.com/item?id=41337301) - [The Cryptographic Doom Principle (2011)](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 * [2024-08-24, 11:08:32](https://news.ycombinator.com/item?id=41337271) - [Observe HN: ChatGPT Fills in My Memory](https://news.ycombinator.com/item?id=41337271)
+* [2024-08-24, 11:07:51](https://news.ycombinator.com/item?id=41337268) - [\"Everything\" is a filename search engine for Windows](https://www.voidtools.com/en-us/support/everything/)
 * [2024-08-24, 10:44:30](https://news.ycombinator.com/item?id=41337156) - [Why don't we have personalized search engines?](https://news.ycombinator.com/item?id=41337156)
 * [2024-08-24, 10:20:54](https://news.ycombinator.com/item?id=41337062) - [The Lounge: The self-hosted web IRC client](https://thelounge.chat/)
 * [2024-08-24, 10:14:50](https://news.ycombinator.com/item?id=41337034) - [Why Ed-Tech Startups Don't Scale (2022)](https://giansegato.com/essays/why-edtech-startups-dont-scale)
