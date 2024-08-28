@@ -59,6 +59,7 @@
 * [2024-08-25, 14:21:47](https://news.ycombinator.com/item?id=41347501) - [Things I Learned from Doing Triathlon in My 70s](https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/)
 * [2024-08-25, 14:03:46](https://news.ycombinator.com/item?id=41347388) - [Deliberate Practice and Acquisition of Expert Performance: A General Overview](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x)
 * [2024-08-25, 13:59:55](https://news.ycombinator.com/item?id=41347368) - [If Your World Is Not Enchanted, You're Not Paying Attention](https://theconvivialsociety.substack.com/p/if-your-world-is-not-enchanted-youre)
+* [2024-08-25, 13:50:31](https://news.ycombinator.com/item?id=41347310) - [A Weekend at the Immersion Larp Festival](https://mssv.net/2024/08/21/a-weekend-at-the-immersion-larp-festival/)
 * [2024-08-25, 13:48:08](https://news.ycombinator.com/item?id=41347290) - [Speeding Up Your Website Using Cloudflare Cache](https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache)
 * [2024-08-25, 13:38:45](https://news.ycombinator.com/item?id=41347230) - [Show HN: Outperforming VByte for Large Integers Using Phi-Encoding](https://github.com/DOSAYGO-Research/irradix/blob/main/paper.md)
 * [2024-08-25, 13:34:31](https://news.ycombinator.com/item?id=41347197) - [Acorn – Use Laravel Inside WordPress](https://roots.io/acorn/)
