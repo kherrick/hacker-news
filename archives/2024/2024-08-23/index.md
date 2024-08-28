@@ -64,6 +64,7 @@
 * [2024-08-23, 11:23:21](https://news.ycombinator.com/item?id=41328014) - [The Chancellor's Excellent Questions](https://montanaskeptic.substack.com/p/the-chancellors-excellent-questions)
 * [2024-08-23, 11:09:04](https://news.ycombinator.com/item?id=41327956) - [$9/Hour Software Engineers Cost Boeing Billions [2019]](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
 * [2024-08-23, 11:05:10](https://news.ycombinator.com/item?id=41327933) - [Generating Mazes](https://healeycodes.com/generating-mazes)
+* [2024-08-23, 10:31:41](https://news.ycombinator.com/item?id=41327795) - [Detecting diamonds with X-ray technology(2014)](https://www.fraunhofer.de/en/press/research-news/2014/april/detecting-diamonds.html)
 * [2024-08-23, 10:29:46](https://news.ycombinator.com/item?id=41327783) - [Facebook Helped the FBI Exploit Vulnerability in a Secure Linux Distro](https://gizmodo.com/report-facebook-helped-the-fbi-exploit-vulnerability-i-1843988377)
 * [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 * [2024-08-23, 09:43:44](https://news.ycombinator.com/item?id=41327567) - [A Symbol for the Fediverse ⁂](https://symbol.fediverse.info/)
