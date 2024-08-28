@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 15:20:40](https://news.ycombinator.com/item?id=41380506) - [Show HN: Every open source tool from the \"What's HN working on\" thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
 * [2024-08-28, 15:14:41](https://news.ycombinator.com/item?id=41380450) - [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
 * [2024-08-28, 14:53:22](https://news.ycombinator.com/item?id=41380217) - [US appeals court rules geofence warrants are unconstitutional](https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/)
 * [2024-08-28, 14:48:36](https://news.ycombinator.com/item?id=41380154) - [Interview with Signal President Meredith Whittaker](https://www.wired.com/story/meredith-whittaker-signal/)
@@ -13,6 +14,7 @@
 * [2024-08-28, 13:40:33](https://news.ycombinator.com/item?id=41379408) - [Show HN: Relari – Auto Prompt Optimizer as Lightweight Alternative to Finetuning](https://news.ycombinator.com/item?id=41379408)
 * [2024-08-28, 13:27:29](https://news.ycombinator.com/item?id=41379254) - [Show HN: We ungated our product (no signup)–is it a good idea?](https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit)
 * [2024-08-28, 13:10:45](https://news.ycombinator.com/item?id=41379097) - [Ask HN: Did you regret staying at a job for too long?](https://news.ycombinator.com/item?id=41379097)
+* [2024-08-28, 12:41:28](https://news.ycombinator.com/item?id=41378819) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
 * [2024-08-28, 12:39:46](https://news.ycombinator.com/item?id=41378806) - [Judge dismisses majority of GitHub Copilot copyright claims](https://www.developer-tech.com/news/judge-dismisses-majority-github-copilot-copyright-claims/)
 * [2024-08-28, 12:27:40](https://news.ycombinator.com/item?id=41378704) - [Human brain organoid bioprocessors now available to rent for $500 per month](https://www.tomshardware.com/pc-components/cpus/human-brain-organoid-bioprocessors-now-available-to-rent-for-dollar500-per-month)
 * [2024-08-28, 12:24:41](https://news.ycombinator.com/item?id=41378686) - [What's your favorite RSS feed reader?](https://news.ycombinator.com/item?id=41378686)
