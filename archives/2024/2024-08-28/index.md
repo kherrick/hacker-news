@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 19:10:13](https://news.ycombinator.com/item?id=41383093) - [After 12 years at Google, I have decided it is time to move on](https://www.linkedin.com/posts/richard-sproat-3a182411_after-12-years-at-google-18-years-if-you-activity-7233986579529089024--CZW)
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
+* [2024-08-28, 18:34:01](https://news.ycombinator.com/item?id=41382687) - [Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)
+* [2024-08-28, 18:15:23](https://news.ycombinator.com/item?id=41382466) - [Canada wildfires last year released more carbon than several countries](https://www.reuters.com/world/americas/canada-wildfires-last-year-released-more-carbon-than-several-countries-2024-08-28/)
 * [2024-08-28, 18:13:20](https://news.ycombinator.com/item?id=41382437) - [OpenTofu removed Russian-originated clouds unreasonably explain by sanctions](https://github.com/opentofu/registry/pull/817)
 * [2024-08-28, 18:05:29](https://news.ycombinator.com/item?id=41382335) - [Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
 * [2024-08-28, 18:05:14](https://news.ycombinator.com/item?id=41382330) - [Ask HN: Isn't all SaaS just wrappers?](https://news.ycombinator.com/item?id=41382330)
