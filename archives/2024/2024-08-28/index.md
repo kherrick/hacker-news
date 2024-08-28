@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 07:11:43](https://news.ycombinator.com/item?id=41376820) - [Final Two Communications from MH370 Support Controlled Eastward Descent Scenario](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
 * [2024-08-28, 07:05:23](https://news.ycombinator.com/item?id=41376770) - [The Fall of StackOverflow: A Data-Driven Analysis](https://pdftranslate.ai/blog/stackoverflow-fall)
 * [2024-08-28, 06:30:35](https://news.ycombinator.com/item?id=41376590) - [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
 * [2024-08-28, 06:25:05](https://news.ycombinator.com/item?id=41376558) - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
