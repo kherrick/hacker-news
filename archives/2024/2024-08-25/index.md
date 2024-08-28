@@ -80,6 +80,7 @@
 * [2024-08-25, 10:38:26](https://news.ycombinator.com/item?id=41346244) - [A Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
 * [2024-08-25, 10:28:47](https://news.ycombinator.com/item?id=41346201) - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
 * [2024-08-25, 10:20:11](https://news.ycombinator.com/item?id=41346156) - [Show HN: Cursor AI Rules Directory (Open Source)](https://cursor.directory)
+* [2024-08-25, 10:14:41](https://news.ycombinator.com/item?id=41346124) - [PC Floppy Copy Protection: Formaster Copy-Lock](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-formaster.html)
 * [2024-08-25, 09:59:35](https://news.ycombinator.com/item?id=41346044) - [Language Entropy](https://streams.place/astleshome/drops/212177386811334656)
 * [2024-08-25, 09:52:19](https://news.ycombinator.com/item?id=41346001) - [How to run Valgrind on a CGI program in C](https://boston.conman.org/2024/08/24.1)
 * [2024-08-25, 09:50:20](https://news.ycombinator.com/item?id=41345989) - [Why fans of nuclear are a problem today](https://jeromeaparis.substack.com/p/why-fans-of-nuclear-are-a-problem)
