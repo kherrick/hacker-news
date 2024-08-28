@@ -6,6 +6,8 @@
 
 * [2024-08-28, 17:37:44](https://news.ycombinator.com/item?id=41381994) - [UAE Freezes $20B Jet Deal with France After Telegram CEO Arrest](https://thedailyguardian.com/uae-freezes-20-billion-jet-deal-with-france-after-telegram-ceo-arrest/)
 * [2024-08-28, 17:24:27](https://news.ycombinator.com/item?id=41381816) - [Man Is First to Be Charged in New York with Wearing a Mask in Public](https://www.nytimes.com/2024/08/27/nyregion/face-mask-ban-charges-nyc.html)
+* [2024-08-28, 17:13:50](https://news.ycombinator.com/item?id=41381738) - [Stoke Awarded Contract to Develop Critical Space Mobility Capabilities](https://www.stokespace.com/stoke-awarded-contract-to-develop-critical-space-mobility-capabilities/)
+* [2024-08-28, 17:01:15](https://news.ycombinator.com/item?id=41381598) - [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
 * [2024-08-28, 17:00:16](https://news.ycombinator.com/item?id=41381589) - [Reflex (YC W23) Is Hiring Python Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/CoRbEAk-software-engineer)
 * [2024-08-28, 16:58:16](https://news.ycombinator.com/item?id=41381569) - [Panasonic Toughbook 40](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40)
 * [2024-08-28, 16:09:45](https://news.ycombinator.com/item?id=41381083) - [Tesla drivers say new FSD update is repeatedly running red lights](https://futurism.com/the-byte/tesla-fsd-update-red-lights)
@@ -13,6 +15,7 @@
 * [2024-08-28, 15:48:44](https://news.ycombinator.com/item?id=41380829) - [We created a new account in Telegram and started looking for a job in Estonia](https://threadreaderapp.com/thread/1828526705306411410.html)
 * [2024-08-28, 15:37:54](https://news.ycombinator.com/item?id=41380690) - [Immovable Ladder](https://en.wikipedia.org/wiki/Immovable_Ladder)
 * [2024-08-28, 15:20:40](https://news.ycombinator.com/item?id=41380506) - [Show HN: Every open source tool from the \"What's HN working on\" thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
+* [2024-08-28, 15:15:24](https://news.ycombinator.com/item?id=41380460) - [Show HN: Shed Light on Your Go Binary Bloat with Go Size Analyzer](https://github.com/Zxilly/go-size-analyzer)
 * [2024-08-28, 15:14:41](https://news.ycombinator.com/item?id=41380450) - [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
 * [2024-08-28, 15:04:01](https://news.ycombinator.com/item?id=41380325) - [Alacrity to Federated Cryptography](https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/)
 * [2024-08-28, 14:53:22](https://news.ycombinator.com/item?id=41380217) - [US appeals court rules geofence warrants are unconstitutional](https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/)
