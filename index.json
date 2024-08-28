@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-27, 23:24:01",
-      "https://news.ycombinator.com/item?id=41374359"
-    ],
-    [
-      "SF Mutual Fund Exec Front-Ran His Fund's Trades",
-      "https://www.propublica.org/article/dodge-cox-exec-david-hoeft-made-millions-trading-same-stocks"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 23:13:14",
       "https://news.ycombinator.com/item?id=41374276"
     ],
@@ -27,16 +17,6 @@
     [
       "ChartDB – Free and open source, database design editor",
       "https://chartdb.io/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 21:39:06",
-      "https://news.ycombinator.com/item?id=41373384"
-    ],
-    [
-      "Tattoo ink sold on Amazon has high levels of weird and rare bacteria",
-      "https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "A Collection of Free Public APIs That Is Tested Daily",
       "https://www.freepublicapis.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 18:34:55",
+      "https://news.ycombinator.com/item?id=41371117"
+    ],
+    [
+      "U.S. Ambassador says Canadians are consuming 'unhealthy' amount of American news",
+      "https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2024-08-25, 10:28:47",
-      "https://news.ycombinator.com/item?id=41346201"
+      "2024-08-24, 15:26:45",
+      "https://news.ycombinator.com/item?id=41338946"
     ],
     [
-      "Ruby in Jupyter Notebook",
-      "https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb"
+      "Clay (short for C Layout) is a high performance 2D UI layout library",
+      "https://github.com/nicbarker/clay"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Simple Algorithm That Ants Use to Build Bridges (2018)",
       "https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 11:49:53",
+      "https://news.ycombinator.com/item?id=41337469"
+    ],
+    [
+      "Knockknock: Simple, secure, and stealthy port knocking implementation",
+      "https://github.com/moxie0/knockknock"
     ]
   ],
   [
