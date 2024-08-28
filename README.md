@@ -8,6 +8,7 @@
 * [2024-08-28, 03:47:38](https://news.ycombinator.com/item?id=41375746) - [Covid-19 Intranasal Vaccine](https://news.griffith.edu.au/2024/08/27/game-changing-needle-free-covid-19-intranasal-vaccine/)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
 * [2024-08-28, 02:43:45](https://news.ycombinator.com/item?id=41375491) - [Rust Dylib Rabbit Holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
+* [2024-08-28, 00:35:23](https://news.ycombinator.com/item?id=41374849) - [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
 * [2024-08-28, 00:06:45](https://news.ycombinator.com/item?id=41374663) - [Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 * [2024-08-27, 22:38:49](https://news.ycombinator.com/item?id=41374009) - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -28,7 +29,6 @@
 * [2024-08-25, 17:20:03](https://news.ycombinator.com/item?id=41349180) - [Can you convert a video to pure CSS?](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css)
 * [2024-08-25, 13:50:31](https://news.ycombinator.com/item?id=41347310) - [A Weekend at the Immersion Larp Festival](https://mssv.net/2024/08/21/a-weekend-at-the-immersion-larp-festival/)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
-* [2024-08-24, 11:49:53](https://news.ycombinator.com/item?id=41337469) - [Knockknock: Simple, secure, and stealthy port knocking implementation (2012)](https://github.com/moxie0/knockknock)
 * [2024-08-23, 10:31:41](https://news.ycombinator.com/item?id=41327795) - [Detecting diamonds with X-ray technology(2014)](https://www.fraunhofer.de/en/press/research-news/2014/april/detecting-diamonds.html)
 
 ## [Archives](archives/index.md)
