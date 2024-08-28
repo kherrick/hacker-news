@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 03:47:38](https://news.ycombinator.com/item?id=41375746) - [Covid-19 Intranasal Vaccine](https://news.griffith.edu.au/2024/08/27/game-changing-needle-free-covid-19-intranasal-vaccine/)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
 * [2024-08-28, 01:24:52](https://news.ycombinator.com/item?id=41375100) - [Ask HN: Who's building an AI-free product?](https://news.ycombinator.com/item?id=41375100)
 * [2024-08-28, 00:35:23](https://news.ycombinator.com/item?id=41374849) - [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
