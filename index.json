@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-28, 00:06:45",
+      "https://news.ycombinator.com/item?id=41374663"
+    ],
+    [
+      "Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications",
+      "https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 22:38:49",
       "https://news.ycombinator.com/item?id=41374009"
     ],
     [
       "ChartDB – Free and open source, database design editor",
       "https://chartdb.io/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 22:05:18",
+      "https://news.ycombinator.com/item?id=41373650"
+    ],
+    [
+      "GeoWorks: The Other Windows",
+      "https://tedium.co/2019/06/20/geoworks-geos-history/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "How Chrome Accessibility Works",
       "https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 18:49:15",
-      "https://news.ycombinator.com/item?id=41371288"
-    ],
-    [
-      "PyRoboCOP: Python-Based Robotic Control and Optimization Package",
-      "https://ieeexplore.ieee.org/abstract/document/10440590"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Anthropic publishes the 'system prompts' that make Claude tick",
       "https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 00:34:05",
-      "https://news.ycombinator.com/item?id=41363549"
-    ],
-    [
-      "The Triple Failure of 2U, EdX, and Axim",
-      "https://www.classcentral.com/report/2u-edx-bankruptcy/"
     ]
   ],
   [
