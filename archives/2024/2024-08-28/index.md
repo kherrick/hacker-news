@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 18:05:14](https://news.ycombinator.com/item?id=41382330) - [Ask HN: Isn't all SaaS just wrappers?](https://news.ycombinator.com/item?id=41382330)
 * [2024-08-28, 17:37:44](https://news.ycombinator.com/item?id=41381994) - [UAE Freezes $20B Jet Deal with France After Telegram CEO Arrest](https://thedailyguardian.com/uae-freezes-20-billion-jet-deal-with-france-after-telegram-ceo-arrest/)
 * [2024-08-28, 17:24:27](https://news.ycombinator.com/item?id=41381816) - [Man Is First to Be Charged in New York with Wearing a Mask in Public](https://www.nytimes.com/2024/08/27/nyregion/face-mask-ban-charges-nyc.html)
 * [2024-08-28, 17:13:50](https://news.ycombinator.com/item?id=41381738) - [Stoke Awarded Contract to Develop Critical Space Mobility Capabilities](https://www.stokespace.com/stoke-awarded-contract-to-develop-critical-space-mobility-capabilities/)

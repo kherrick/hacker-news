@@ -86,6 +86,7 @@
 * [2024-08-25, 09:59:35](https://news.ycombinator.com/item?id=41346044) - [Language Entropy](https://streams.place/astleshome/drops/212177386811334656)
 * [2024-08-25, 09:52:19](https://news.ycombinator.com/item?id=41346001) - [How to run Valgrind on a CGI program in C](https://boston.conman.org/2024/08/24.1)
 * [2024-08-25, 09:50:20](https://news.ycombinator.com/item?id=41345989) - [Why fans of nuclear are a problem today](https://jeromeaparis.substack.com/p/why-fans-of-nuclear-are-a-problem)
+* [2024-08-25, 06:36:40](https://news.ycombinator.com/item?id=41344972) - [Human population dynamics in Paleolithic inferred from fossil dental phenotypes](https://www.science.org/doi/10.1126/sciadv.adn8129)
 * [2024-08-25, 05:39:43](https://news.ycombinator.com/item?id=41344688) - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)
 * [2024-08-25, 05:22:16](https://news.ycombinator.com/item?id=41344613) - [How a flawed idea is teaching kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [2024-08-25, 05:21:03](https://news.ycombinator.com/item?id=41344609) - [Founder and CEO of Telegram arrested at French airport – report](https://old.reddit.com/r/worldnews/comments/1f0g013/founder_and_ceo_of_telegram_arrested_at_french/)
