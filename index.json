@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-08-28, 15:04:01",
+      "https://news.ycombinator.com/item?id=41380325"
+    ],
+    [
+      "Alacrity to Federated Cryptography",
+      "https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 14:50:53",
       "https://news.ycombinator.com/item?id=41380181"
     ],
@@ -207,16 +217,6 @@
     [
       "Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications",
       "https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 22:38:49",
-      "https://news.ycombinator.com/item?id=41374009"
-    ],
-    [
-      "ChartDB – Free and open source, database design editor",
-      "https://chartdb.io/"
     ]
   ],
   [
