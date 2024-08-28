@@ -36,6 +36,7 @@
 * [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 15:21:46](https://news.ycombinator.com/item?id=41338913) - [Death Cafe](https://deathcafe.com/what/)
 * [2024-08-24, 15:15:04](https://news.ycombinator.com/item?id=41338877) - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
+* [2024-08-24, 15:00:46](https://news.ycombinator.com/item?id=41338792) - [China's 'Wukong' Hit Sells 10M Copies in Three Days](https://www.bloomberg.com/news/articles/2024-08-24/china-s-wukong-hit-sells-10-million-copies-in-three-days)
 * [2024-08-24, 14:58:33](https://news.ycombinator.com/item?id=41338776) - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
 * [2024-08-24, 14:54:09](https://news.ycombinator.com/item?id=41338751) - [Never take health tips from oldest people, say scientists](https://www.theguardian.com/science/article/2024/aug/24/never-take-health-tips-from-worlds-oldest-people-say-scientists)
 * [2024-08-24, 14:50:31](https://news.ycombinator.com/item?id=41338729) - [Implementing React from Scratch](https://www.rob.directory/blog/react-from-scratch)
