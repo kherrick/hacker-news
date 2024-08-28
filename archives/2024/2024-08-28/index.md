@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 21:00:17](https://news.ycombinator.com/item?id=41384316) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-28, 20:42:03](https://news.ycombinator.com/item?id=41384118) - [Twenty Years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
+* [2024-08-28, 20:38:49](https://news.ycombinator.com/item?id=41384085) - [Ask HN: Did the \"killer poke\" reduce Commodore PET sales?](https://news.ycombinator.com/item?id=41384085)
 * [2024-08-28, 20:35:50](https://news.ycombinator.com/item?id=41384053) - [Purism Domain Puri.sm Suspended?](https://whois.marcaria.com/en/result?SearchDomain=puri.sm)
 * [2024-08-28, 20:25:15](https://news.ycombinator.com/item?id=41383914) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2025)
 * [2024-08-28, 20:14:32](https://news.ycombinator.com/item?id=41383770) - [Meta is accused of \"bullying\" the open-source community](https://www.economist.com/business/2024/08/28/meta-is-accused-of-bullying-the-open-source-community)
 * [2024-08-28, 19:59:10](https://news.ycombinator.com/item?id=41383592) - [Show HN: Repo2vec – an open-source library for chatting with any codebase](https://github.com/Storia-AI/repo2vec)
 * [2024-08-28, 19:38:42](https://news.ycombinator.com/item?id=41383363) - [OpenAI in Talks for Funding Round Valuing It Above $100B](https://www.wsj.com/tech/ai/openai-in-talks-for-funding-round-valuing-it-above-100-billion-4f0550c5)
 * [2024-08-28, 19:33:09](https://news.ycombinator.com/item?id=41383312) - [Jack Welch Screwed Up GE and Boeing, and with Them Much US Climate Action](https://cleantechnica.com/2024/08/26/jack-welch-screwed-up-ge-boeing-and-with-them-much-us-climate-action/)
+* [2024-08-28, 19:26:08](https://news.ycombinator.com/item?id=41383244) - [I Hate the Term \"Modern\"](https://www.paritybit.ca/blog/why-i-hate-the-term-modern/)
+* [2024-08-28, 19:13:51](https://news.ycombinator.com/item?id=41383126) - [Companies Lobby Against Giving the Military the Right to Repair](https://www.404media.co/appliance-and-tractor-companies-lobby-against-giving-the-military-the-right-to-repair/)
 * [2024-08-28, 19:10:13](https://news.ycombinator.com/item?id=41383093) - [After 12 years at Google, I have decided it is time to move on](https://www.linkedin.com/posts/richard-sproat-3a182411_after-12-years-at-google-18-years-if-you-activity-7233986579529089024--CZW)
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
