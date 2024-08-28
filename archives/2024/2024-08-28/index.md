@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 15:53:23](https://news.ycombinator.com/item?id=41380888) - [High-Temperature Gibbs States Are Unentangled and Efficiently Preparable](https://arxiv.org/abs/2403.16850)
 * [2024-08-28, 15:37:54](https://news.ycombinator.com/item?id=41380690) - [Immovable Ladder](https://en.wikipedia.org/wiki/Immovable_Ladder)
 * [2024-08-28, 15:20:40](https://news.ycombinator.com/item?id=41380506) - [Show HN: Every open source tool from the \"What's HN working on\" thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
 * [2024-08-28, 15:14:41](https://news.ycombinator.com/item?id=41380450) - [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
 * [2024-08-28, 14:53:22](https://news.ycombinator.com/item?id=41380217) - [US appeals court rules geofence warrants are unconstitutional](https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/)
+* [2024-08-28, 14:50:53](https://news.ycombinator.com/item?id=41380181) - [What is the longest known sequence that repeats in Pi? (homelab)](https://sponaugle.com/wp/math_pi_repeat/)
 * [2024-08-28, 14:48:36](https://news.ycombinator.com/item?id=41380154) - [Interview with Signal President Meredith Whittaker](https://www.wired.com/story/meredith-whittaker-signal/)
 * [2024-08-28, 14:46:19](https://news.ycombinator.com/item?id=41380134) - [CIA Sent Him Deep Undercover to Spy on Islamic Radicals. It Cost Him Everything](https://www.rollingstone.com/politics/politics-features/cia-agent-deep-undercover-spy-islamic-radicals-war-on-terror-1235075156/)
 * [2024-08-28, 14:46:07](https://news.ycombinator.com/item?id=41380130) - [Amazon Still Has a Counterfeit Problem](https://prospect.org/power/2024-08-28-amazon-counterfeit-problem-ink-cartridges/)
