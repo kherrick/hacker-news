@@ -2,7 +2,7 @@
 
 * [2024-08-28, 13:50:07](https://news.ycombinator.com/item?id=41379517) - [YouTube is barely usable specifically on Firefox Windows at the moment](https://old.reddit.com/r/youtube/comments/1f30ku4/youtube_sabotaging_on_firefox/)
 * [2024-08-28, 13:27:29](https://news.ycombinator.com/item?id=41379254) - [Show HN: We ungated our product (no signup)–is it a good idea?](https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit)
-* [2024-08-28, 12:01:13](https://news.ycombinator.com/item?id=41378527) - [Prosper AI (YC S23) Is Hiring a Founding Front End Engineer in Barcelona(hybrid)](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
+* [2024-08-28, 12:01:13](https://news.ycombinator.com/item?id=41378527) - [Prosper AI (YC S23) Hiring a Founding Front End Engineer in Barcelona (hybrid)](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 11:16:00](https://news.ycombinator.com/item?id=41378268) - [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
