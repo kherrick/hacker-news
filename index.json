@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 08:34:57",
+      "https://news.ycombinator.com/item?id=41377331"
+    ],
+    [
+      "Wp2hugo: Best WordPress to Hugo migrator (written in Go)",
+      "https://github.com/ashishb/wp2hugo"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 07:11:43",
       "https://news.ycombinator.com/item?id=41376820"
     ],
@@ -67,16 +77,6 @@
     [
       "Diffusion Models Are Real-Time Game Engines",
       "https://gamengen.github.io"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 02:43:45",
-      "https://news.ycombinator.com/item?id=41375491"
-    ],
-    [
-      "Rust Dylib Rabbit Holes",
-      "https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-08-27, 17:34:52",
-      "https://news.ycombinator.com/item?id=41370344"
-    ],
-    [
-      "Rustproofing Linux (Part 1/4 Leaking Addresses) (2023)",
-      "https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 17:21:56",
       "https://news.ycombinator.com/item?id=41370187"
     ],
@@ -297,6 +287,16 @@
     [
       "Knockknock: Simple, secure, and stealthy port knocking implementation (2012)",
       "https://github.com/moxie0/knockknock"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 10:31:41",
+      "https://news.ycombinator.com/item?id=41327795"
+    ],
+    [
+      "Detecting diamonds with X-ray technology(2014)",
+      "https://www.fraunhofer.de/en/press/research-news/2014/april/detecting-diamonds.html"
     ]
   ]
 ]
