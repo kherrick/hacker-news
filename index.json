@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-28, 01:24:52",
+      "https://news.ycombinator.com/item?id=41375100"
+    ],
+    [
+      "Ask HN: Who's building an AI-free product?",
+      "https://news.ycombinator.com/item?id=41375100"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 00:35:23",
       "https://news.ycombinator.com/item?id=41374849"
     ],
@@ -117,16 +127,6 @@
     [
       "DisTrO – a family of low latency distributed optimizers",
       "https://github.com/NousResearch/DisTrO"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 18:02:29",
-      "https://news.ycombinator.com/item?id=41370714"
-    ],
-    [
-      "Malware infiltrates Pidgin messenger's official plugin repository",
-      "https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=41337469"
     ],
     [
-      "Knockknock: Simple, secure, and stealthy port knocking implementation",
+      "Knockknock: Simple, secure, and stealthy port knocking implementation (2012)",
       "https://github.com/moxie0/knockknock"
     ]
   ]
