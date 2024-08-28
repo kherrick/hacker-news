@@ -6,6 +6,7 @@
 
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
+* [2024-08-28, 18:13:20](https://news.ycombinator.com/item?id=41382437) - [OpenTofu removed Russian-originated clouds unreasonably explain by sanctions](https://github.com/opentofu/registry/pull/817)
 * [2024-08-28, 18:05:29](https://news.ycombinator.com/item?id=41382335) - [Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
 * [2024-08-28, 18:05:14](https://news.ycombinator.com/item?id=41382330) - [Ask HN: Isn't all SaaS just wrappers?](https://news.ycombinator.com/item?id=41382330)
 * [2024-08-28, 17:37:44](https://news.ycombinator.com/item?id=41381994) - [UAE Freezes $20B Jet Deal with France After Telegram CEO Arrest](https://thedailyguardian.com/uae-freezes-20-billion-jet-deal-with-france-after-telegram-ceo-arrest/)
