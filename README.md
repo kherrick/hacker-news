@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+* [2024-08-28, 01:24:52](https://news.ycombinator.com/item?id=41375100) - [Ask HN: Who's building an AI-free product?](https://news.ycombinator.com/item?id=41375100)
 * [2024-08-28, 00:35:23](https://news.ycombinator.com/item?id=41374849) - [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
 * [2024-08-28, 00:06:45](https://news.ycombinator.com/item?id=41374663) - [Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 * [2024-08-27, 22:38:49](https://news.ycombinator.com/item?id=41374009) - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
@@ -12,7 +13,6 @@
 * [2024-08-27, 18:38:59](https://news.ycombinator.com/item?id=41371170) - [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 * [2024-08-27, 18:32:37](https://news.ycombinator.com/item?id=41371083) - [DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
-* [2024-08-27, 18:02:29](https://news.ycombinator.com/item?id=41370714) - [Malware infiltrates Pidgin messenger's official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
 * [2024-08-27, 17:42:03](https://news.ycombinator.com/item?id=41370420) - [Vulnerabilities show why STARTTLS should be avoided if possible (2021)](https://blog.apnic.net/2021/11/18/vulnerabilities-show-why-starttls-should-be-avoided-if-possible/)
 * [2024-08-27, 17:34:52](https://news.ycombinator.com/item?id=41370344) - [Rustproofing Linux (Part 1/4 Leaking Addresses) (2023)](https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/)
 * [2024-08-27, 17:21:56](https://news.ycombinator.com/item?id=41370187) - [Blitzortung – real time lightning strikes around the world](https://www.blitzortung.org/en/live_lightning_maps.php)
@@ -29,7 +29,7 @@
 * [2024-08-25, 13:50:31](https://news.ycombinator.com/item?id=41347310) - [A Weekend at the Immersion Larp Festival](https://mssv.net/2024/08/21/a-weekend-at-the-immersion-larp-festival/)
 * [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
-* [2024-08-24, 11:49:53](https://news.ycombinator.com/item?id=41337469) - [Knockknock: Simple, secure, and stealthy port knocking implementation](https://github.com/moxie0/knockknock)
+* [2024-08-24, 11:49:53](https://news.ycombinator.com/item?id=41337469) - [Knockknock: Simple, secure, and stealthy port knocking implementation (2012)](https://github.com/moxie0/knockknock)
 
 ## [Archives](archives/index.md)
 
