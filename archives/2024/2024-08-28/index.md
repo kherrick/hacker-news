@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 17:24:27](https://news.ycombinator.com/item?id=41381816) - [Man Is First to Be Charged in New York with Wearing a Mask in Public](https://www.nytimes.com/2024/08/27/nyregion/face-mask-ban-charges-nyc.html)
 * [2024-08-28, 17:00:16](https://news.ycombinator.com/item?id=41381589) - [Reflex (YC W23) Is Hiring Python Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/CoRbEAk-software-engineer)
+* [2024-08-28, 16:58:16](https://news.ycombinator.com/item?id=41381569) - [Panasonic Toughbook 40](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40)
 * [2024-08-28, 16:09:45](https://news.ycombinator.com/item?id=41381083) - [Tesla drivers say new FSD update is repeatedly running red lights](https://futurism.com/the-byte/tesla-fsd-update-red-lights)
 * [2024-08-28, 15:53:23](https://news.ycombinator.com/item?id=41380888) - [High-Temperature Gibbs States Are Unentangled and Efficiently Preparable](https://arxiv.org/abs/2403.16850)
 * [2024-08-28, 15:37:54](https://news.ycombinator.com/item?id=41380690) - [Immovable Ladder](https://en.wikipedia.org/wiki/Immovable_Ladder)
