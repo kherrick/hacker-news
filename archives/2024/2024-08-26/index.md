@@ -46,6 +46,7 @@
 * [2024-08-26, 15:58:09](https://news.ycombinator.com/item?id=41358490) - [Show HN: Remove-bg – open-source remove background using WebGPU](https://bannerify.co/tools/remove-bg)
 * [2024-08-26, 15:46:01](https://news.ycombinator.com/item?id=41358327) - [A Massachusetts town closes its parks to stop a mosquito-borne disease](https://www.npr.org/2024/08/26/nx-s1-5089737/massachusetts-mosquito-disease-parks-fatal)
 * [2024-08-26, 15:31:54](https://news.ycombinator.com/item?id=41358132) - [Make your health insurance company cry: One woman's fight to turn the tables](https://sfstandard.com/2024/08/23/holden-karau-fight-health-insurance-appeal-claims-denials/)
+* [2024-08-26, 15:28:42](https://news.ycombinator.com/item?id=41358094) - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
 * [2024-08-26, 15:21:56](https://news.ycombinator.com/item?id=41358020) - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 * [2024-08-26, 15:17:05](https://news.ycombinator.com/item?id=41357969) - [Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
 * [2024-08-26, 15:05:51](https://news.ycombinator.com/item?id=41357853) - [Linux: We need tiling desktop environments](https://linuxblog.io/linux-tiling-desktop-environments/)

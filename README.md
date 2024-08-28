@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
 * [2024-08-28, 00:06:45](https://news.ycombinator.com/item?id=41374663) - [Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 * [2024-08-27, 22:38:49](https://news.ycombinator.com/item?id=41374009) - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
-* [2024-08-27, 22:05:18](https://news.ycombinator.com/item?id=41373650) - [GeoWorks: The Other Windows](https://tedium.co/2019/06/20/geoworks-geos-history/)
 * [2024-08-27, 21:13:34](https://news.ycombinator.com/item?id=41373120) - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 * [2024-08-27, 21:01:46](https://news.ycombinator.com/item?id=41372992) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-08-27, 20:47:28](https://news.ycombinator.com/item?id=41372833) - [Faster CRDTs (2021)](https://josephg.com/blog/crdts-go-brrr/)
@@ -23,13 +23,13 @@
 * [2024-08-27, 10:23:35](https://news.ycombinator.com/item?id=41366006) - [Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs](https://splatt3r.active.vision/)
 * [2024-08-27, 09:50:15](https://news.ycombinator.com/item?id=41365868) - [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
 * [2024-08-27, 04:45:46](https://news.ycombinator.com/item?id=41364637) - [Anthropic publishes the 'system prompts' that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
+* [2024-08-26, 15:28:42](https://news.ycombinator.com/item?id=41358094) - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
 * [2024-08-26, 10:34:49](https://news.ycombinator.com/item?id=41355797) - [Rerun: Visualize Multimodal Data over Time](https://rerun.io)
 * [2024-08-25, 13:59:55](https://news.ycombinator.com/item?id=41347368) - [If Your World Is Not Enchanted, You're Not Paying Attention](https://theconvivialsociety.substack.com/p/if-your-world-is-not-enchanted-youre)
 * [2024-08-25, 13:50:31](https://news.ycombinator.com/item?id=41347310) - [A Weekend at the Immersion Larp Festival](https://mssv.net/2024/08/21/a-weekend-at-the-immersion-larp-festival/)
 * [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
 * [2024-08-24, 11:49:53](https://news.ycombinator.com/item?id=41337469) - [Knockknock: Simple, secure, and stealthy port knocking implementation](https://github.com/moxie0/knockknock)
-* [2024-08-23, 05:46:53](https://news.ycombinator.com/item?id=41326461) - [Slime mold simulation in Rust using WASM and WebGPU](https://github.com/plul/slime-mold-simulation)
 
 ## [Archives](archives/index.md)
 
