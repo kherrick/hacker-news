@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 09:09:13",
+      "https://news.ycombinator.com/item?id=41377540"
+    ],
+    [
+      "Sapiens: Foundation for Human Vision Models",
+      "https://arxiv.org/abs/2408.12569"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 08:34:57",
       "https://news.ycombinator.com/item?id=41377331"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-08-27, 18:32:37",
-      "https://news.ycombinator.com/item?id=41371083"
-    ],
-    [
-      "DisTrO – a family of low latency distributed optimizers",
-      "https://github.com/NousResearch/DisTrO"
-    ]
-  ],
-  [
-    [
       "2024-08-27, 17:42:03",
       "https://news.ycombinator.com/item?id=41370420"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-08-25, 17:20:03",
-      "https://news.ycombinator.com/item?id=41349180"
-    ],
-    [
-      "Can you convert a video to pure CSS?",
-      "https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 13:50:31",
       "https://news.ycombinator.com/item?id=41347310"
     ],
@@ -297,6 +287,16 @@
     [
       "Detecting diamonds with X-ray technology(2014)",
       "https://www.fraunhofer.de/en/press/research-news/2014/april/detecting-diamonds.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 09:10:39",
+      "https://news.ycombinator.com/item?id=41327394"
+    ],
+    [
+      "The journey of an internet packet: Exploring networks with traceroute",
+      "https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/"
     ]
   ]
 ]
