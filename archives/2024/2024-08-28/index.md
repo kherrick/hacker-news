@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 13:27:29](https://news.ycombinator.com/item?id=41379254) - [Show HN: We ungated our product (no signup)–is it a good idea?](https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit)
 * [2024-08-28, 13:10:45](https://news.ycombinator.com/item?id=41379097) - [Ask HN: Did you regret staying at a job for too long?](https://news.ycombinator.com/item?id=41379097)
 * [2024-08-28, 12:27:40](https://news.ycombinator.com/item?id=41378704) - [Human brain organoid bioprocessors now available to rent for $500 per month](https://www.tomshardware.com/pc-components/cpus/human-brain-organoid-bioprocessors-now-available-to-rent-for-dollar500-per-month)
 * [2024-08-28, 12:24:41](https://news.ycombinator.com/item?id=41378686) - [What's your favorite RSS feed reader?](https://news.ycombinator.com/item?id=41378686)
@@ -11,6 +12,7 @@
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 11:16:00](https://news.ycombinator.com/item?id=41378268) - [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
+* [2024-08-28, 11:11:13](https://news.ycombinator.com/item?id=41378240) - [Fermilab is 'doomed' without management overhaul claims whistleblower report](https://physicsworld.com/a/fermilab-is-doomed-without-management-overhaul-claims-whistleblower-report/)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDF (Rust)](https://github.com/seekbytes/IPA)
 * [2024-08-28, 10:09:04](https://news.ycombinator.com/item?id=41377870) - [Namibia to cull 83 elephants and distribute meat to people affected by drought](https://www.reuters.com/world/africa/namibia-cull-83-elephants-distribute-meat-people-affected-by-drought-2024-08-27/)
 * [2024-08-28, 09:09:13](https://news.ycombinator.com/item?id=41377540) - [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
