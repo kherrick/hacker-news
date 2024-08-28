@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-28, 04:16:01](https://news.ycombinator.com/item?id=41375902) - [Thoughts on the Durov Arrest](https://prestonbyrne.com/2024/08/24/thoughts-on-the-durov-arrest/)
 * [2024-08-28, 03:47:38](https://news.ycombinator.com/item?id=41375746) - [Covid-19 Intranasal Vaccine](https://news.griffith.edu.au/2024/08/27/game-changing-needle-free-covid-19-intranasal-vaccine/)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
 * [2024-08-28, 00:35:23](https://news.ycombinator.com/item?id=41374849) - [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
@@ -21,13 +22,12 @@
 * [2024-08-27, 15:31:33](https://news.ycombinator.com/item?id=41368674) - [A New Wave of Underwater Comms Is Coming](https://spectrum.ieee.org/underwater-communication)
 * [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)
 * [2024-08-27, 10:23:35](https://news.ycombinator.com/item?id=41366006) - [Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs](https://splatt3r.active.vision/)
-* [2024-08-27, 09:50:15](https://news.ycombinator.com/item?id=41365868) - [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
 * [2024-08-26, 15:28:42](https://news.ycombinator.com/item?id=41358094) - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
 * [2024-08-26, 11:24:41](https://news.ycombinator.com/item?id=41356100) - [When A.I.'s Output Is a Threat to A.I. Itself](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html)
 * [2024-08-26, 10:34:49](https://news.ycombinator.com/item?id=41355797) - [Rerun: Visualize Multimodal Data over Time](https://rerun.io)
+* [2024-08-26, 10:34:41](https://news.ycombinator.com/item?id=41355796) - [Cleaning up after WWII (2017)](https://wwiiafterwwii.wordpress.com/2017/02/20/cleaning-up-after-wwii/)
 * [2024-08-25, 13:59:55](https://news.ycombinator.com/item?id=41347368) - [If Your World Is Not Enchanted, You're Not Paying Attention](https://theconvivialsociety.substack.com/p/if-your-world-is-not-enchanted-youre)
 * [2024-08-25, 13:50:31](https://news.ycombinator.com/item?id=41347310) - [A Weekend at the Immersion Larp Festival](https://mssv.net/2024/08/21/a-weekend-at-the-immersion-larp-festival/)
-* [2024-08-24, 15:26:45](https://news.ycombinator.com/item?id=41338946) - [Clay (short for C Layout) is a high performance 2D UI layout library](https://github.com/nicbarker/clay)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
 * [2024-08-24, 11:49:53](https://news.ycombinator.com/item?id=41337469) - [Knockknock: Simple, secure, and stealthy port knocking implementation (2012)](https://github.com/moxie0/knockknock)
 
