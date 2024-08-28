@@ -11,6 +11,7 @@
 * [2024-08-28, 20:35:50](https://news.ycombinator.com/item?id=41384053) - [Purism Domain Puri.sm Suspended?](https://whois.marcaria.com/en/result?SearchDomain=puri.sm)
 * [2024-08-28, 20:27:38](https://news.ycombinator.com/item?id=41383947) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
 * [2024-08-28, 20:25:15](https://news.ycombinator.com/item?id=41383914) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2025)
+* [2024-08-28, 20:20:04](https://news.ycombinator.com/item?id=41383843) - [What Is Post-Quantum Cryptography? – NIST](https://www.nist.gov/cybersecurity/what-post-quantum-cryptography)
 * [2024-08-28, 20:14:32](https://news.ycombinator.com/item?id=41383770) - [Meta is accused of \"bullying\" the open-source community](https://www.economist.com/business/2024/08/28/meta-is-accused-of-bullying-the-open-source-community)
 * [2024-08-28, 19:59:10](https://news.ycombinator.com/item?id=41383592) - [Show HN: Repo2vec – an open-source library for chatting with any codebase](https://github.com/Storia-AI/repo2vec)
 * [2024-08-28, 19:38:42](https://news.ycombinator.com/item?id=41383363) - [OpenAI in Talks for Funding Round Valuing It Above $100B](https://www.wsj.com/tech/ai/openai-in-talks-for-funding-round-valuing-it-above-100-billion-4f0550c5)
