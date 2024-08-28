@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
 * [2024-08-28, 08:34:57](https://news.ycombinator.com/item?id=41377331) - [Wp2hugo: Best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
+* [2024-08-28, 08:34:42](https://news.ycombinator.com/item?id=41377329) - [OpenAI shows 'Strawberry' to feds, races to launch it](https://www.lesswrong.com/posts/8oX4FTRa8MJodArhj/the-information-openai-shows-strawberry-to-feds-races-to)
 * [2024-08-28, 07:11:43](https://news.ycombinator.com/item?id=41376820) - [Final Two Communications from MH370 Support Controlled Eastward Descent Scenario](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
 * [2024-08-28, 07:05:23](https://news.ycombinator.com/item?id=41376770) - [The Fall of StackOverflow: A Data-Driven Analysis](https://pdftranslate.ai/blog/stackoverflow-fall)
 * [2024-08-28, 06:30:35](https://news.ycombinator.com/item?id=41376590) - [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
