@@ -69,6 +69,7 @@
 * [2024-08-23, 10:19:07](https://news.ycombinator.com/item?id=41327735) - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 * [2024-08-23, 09:43:44](https://news.ycombinator.com/item?id=41327567) - [A Symbol for the Fediverse ⁂](https://symbol.fediverse.info/)
 * [2024-08-23, 09:43:31](https://news.ycombinator.com/item?id=41327566) - [Heroes of Might and Magic: Olden Era Announced for 2025](https://news.ubisoft.com/en-us/article/62HpoWQkAIVogVkoVk8JuJ/heroes-of-might-and-magic-olden-era-unveiled-at-gamescom)
+* [2024-08-23, 09:10:39](https://news.ycombinator.com/item?id=41327394) - [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 * [2024-08-23, 08:11:49](https://news.ycombinator.com/item?id=41327098) - [Out of Your Head](https://nautil.us/out-of-your-head-791745/)
 * [2024-08-23, 07:59:03](https://news.ycombinator.com/item?id=41327039) - [Ex-bank CEO gets 24 years after falling for crypto scam, causing bank collapse](https://arstechnica.com/tech-policy/2024/08/ex-bank-ceo-gets-24-years-after-falling-for-crypto-scam-causing-bank-collapse/)
 * [2024-08-23, 07:44:25](https://news.ycombinator.com/item?id=41326965) - [The biggest diamond in over a century is found in Botswana](https://www.ynetnews.com/article/sk9b3zrs0)

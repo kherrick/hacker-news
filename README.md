@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-28, 09:09:13](https://news.ycombinator.com/item?id=41377540) - [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
 * [2024-08-28, 08:34:57](https://news.ycombinator.com/item?id=41377331) - [Wp2hugo: Best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
 * [2024-08-28, 07:41:03](https://news.ycombinator.com/item?id=41376990) - [LinkedIn_AIHawk: AI job assistant. Automate applications and Resume Generation](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
 * [2024-08-28, 07:11:43](https://news.ycombinator.com/item?id=41376820) - [Final two communications from MH370 support controlled descent scenario (2021)](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
@@ -17,7 +18,6 @@
 * [2024-08-27, 19:43:54](https://news.ycombinator.com/item?id=41372059) - [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
 * [2024-08-27, 18:38:59](https://news.ycombinator.com/item?id=41371170) - [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
-* [2024-08-27, 18:32:37](https://news.ycombinator.com/item?id=41371083) - [DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
 * [2024-08-27, 17:42:03](https://news.ycombinator.com/item?id=41370420) - [Vulnerabilities show why STARTTLS should be avoided if possible (2021)](https://blog.apnic.net/2021/11/18/vulnerabilities-show-why-starttls-should-be-avoided-if-possible/)
 * [2024-08-27, 17:21:56](https://news.ycombinator.com/item?id=41370187) - [Blitzortung – real time lightning strikes around the world](https://www.blitzortung.org/en/live_lightning_maps.php)
 * [2024-08-27, 17:09:56](https://news.ycombinator.com/item?id=41370020) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
@@ -26,10 +26,10 @@
 * [2024-08-26, 10:34:49](https://news.ycombinator.com/item?id=41355797) - [Rerun: Visualize Multimodal Data over Time](https://rerun.io)
 * [2024-08-26, 10:34:41](https://news.ycombinator.com/item?id=41355796) - [Cleaning up after WWII (2017)](https://wwiiafterwwii.wordpress.com/2017/02/20/cleaning-up-after-wwii/)
 * [2024-08-25, 18:03:29](https://news.ycombinator.com/item?id=41349589) - [How to verify boot firmware integrity if you prioritize neutralizing Intel ME?](https://news.ycombinator.com/item?id=41349589)
-* [2024-08-25, 17:20:03](https://news.ycombinator.com/item?id=41349180) - [Can you convert a video to pure CSS?](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css)
 * [2024-08-25, 13:50:31](https://news.ycombinator.com/item?id=41347310) - [A Weekend at the Immersion Larp Festival](https://mssv.net/2024/08/21/a-weekend-at-the-immersion-larp-festival/)
 * [2024-08-24, 14:29:38](https://news.ycombinator.com/item?id=41338581) - [The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)
 * [2024-08-23, 10:31:41](https://news.ycombinator.com/item?id=41327795) - [Detecting diamonds with X-ray technology(2014)](https://www.fraunhofer.de/en/press/research-news/2014/april/detecting-diamonds.html)
+* [2024-08-23, 09:10:39](https://news.ycombinator.com/item?id=41327394) - [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 
 ## [Archives](archives/index.md)
 
