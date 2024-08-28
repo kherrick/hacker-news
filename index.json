@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-08-28, 15:14:41",
+      "https://news.ycombinator.com/item?id=41380450"
+    ],
+    [
+      "French prosecutors say Telegram CEO freed from custody, will appear in court",
+      "https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 14:53:22",
+      "https://news.ycombinator.com/item?id=41380217"
+    ],
+    [
+      "US appeals court rules geofence warrants are unconstitutional",
+      "https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 14:48:36",
+      "https://news.ycombinator.com/item?id=41380154"
+    ],
+    [
+      "Interview with Signal President Meredith Whittaker",
+      "https://www.wired.com/story/meredith-whittaker-signal/"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 14:43:34",
+      "https://news.ycombinator.com/item?id=41380084"
+    ],
+    [
+      "The slow evaporation of the free/open source surplus",
+      "https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 14:39:25",
+      "https://news.ycombinator.com/item?id=41380031"
+    ],
+    [
+      "Unrealized Gain Tax–A Coming Sea Change in FY2025 Budget Proposal?",
+      "https://www.forbes.com/sites/andrewleahey/2024/04/30/unrealized-gain-tax-a-coming-sea-change-in-fy2025-budget-proposal/"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 13:50:07",
       "https://news.ycombinator.com/item?id=41379517"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2024-08-28, 13:27:29",
-      "https://news.ycombinator.com/item?id=41379254"
+      "2024-08-28, 13:40:33",
+      "https://news.ycombinator.com/item?id=41379408"
     ],
     [
-      "Show HN: We ungated our product (no signup)–is it a good idea?",
-      "https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit"
+      "Show HN: Relari – Auto Prompt Optimizer as Lightweight Alternative to Finetuning",
+      "https://news.ycombinator.com/item?id=41379408"
     ]
   ],
   [
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2024-08-28, 07:11:43",
-      "https://news.ycombinator.com/item?id=41376820"
-    ],
-    [
-      "Final two communications from MH370 support controlled descent scenario (2021)",
-      "https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 06:30:35",
       "https://news.ycombinator.com/item?id=41376590"
     ],
     [
       "Cosmic Alpha Released",
       "https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 06:25:05",
-      "https://news.ycombinator.com/item?id=41376558"
-    ],
-    [
-      "Boxxy puts bad Linux applications in a box with only their files",
-      "https://github.com/queer/boxxy"
     ]
   ],
   [
@@ -167,16 +197,6 @@
     [
       "Faster CRDTs (2021)",
       "https://josephg.com/blog/crdts-go-brrr/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 20:17:24",
-      "https://news.ycombinator.com/item?id=41372482"
-    ],
-    [
-      "Taskwarrior – CLI Task Management",
-      "https://taskwarrior.org/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-08-26, 10:34:41",
-      "https://news.ycombinator.com/item?id=41355796"
-    ],
-    [
-      "Cleaning up after WWII (2017)",
-      "https://wwiiafterwwii.wordpress.com/2017/02/20/cleaning-up-after-wwii/"
-    ]
-  ],
-  [
-    [
       "2024-08-25, 18:03:21",
       "https://news.ycombinator.com/item?id=41349585"
     ],
@@ -277,16 +287,6 @@
     [
       "PC Floppy Copy Protection: Formaster Copy-Lock",
       "https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-formaster.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 11:49:53",
-      "https://news.ycombinator.com/item?id=41337469"
-    ],
-    [
-      "Knockknock: Simple, secure, and stealthy port knocking implementation (2012)",
-      "https://github.com/moxie0/knockknock"
     ]
   ],
   [
