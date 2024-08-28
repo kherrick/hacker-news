@@ -9,6 +9,7 @@
 * [2024-08-28, 16:58:16](https://news.ycombinator.com/item?id=41381569) - [Panasonic Toughbook 40](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40)
 * [2024-08-28, 16:09:45](https://news.ycombinator.com/item?id=41381083) - [Tesla drivers say new FSD update is repeatedly running red lights](https://futurism.com/the-byte/tesla-fsd-update-red-lights)
 * [2024-08-28, 15:53:23](https://news.ycombinator.com/item?id=41380888) - [High-Temperature Gibbs States Are Unentangled and Efficiently Preparable](https://arxiv.org/abs/2403.16850)
+* [2024-08-28, 15:48:44](https://news.ycombinator.com/item?id=41380829) - [We created a new account in Telegram and started looking for a job in Estonia](https://threadreaderapp.com/thread/1828526705306411410.html)
 * [2024-08-28, 15:37:54](https://news.ycombinator.com/item?id=41380690) - [Immovable Ladder](https://en.wikipedia.org/wiki/Immovable_Ladder)
 * [2024-08-28, 15:20:40](https://news.ycombinator.com/item?id=41380506) - [Show HN: Every open source tool from the \"What's HN working on\" thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
 * [2024-08-28, 15:14:41](https://news.ycombinator.com/item?id=41380450) - [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
