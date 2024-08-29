@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-29, 07:16:00](https://news.ycombinator.com/item?id=41388181) - [SpaceX Falcon 9 booster 'tipped over' into the ocean during landing](https://www.theverge.com/2024/8/28/24230383/spacex-falcon-9-booster-first-stage-crash-starlink-launch)
 * [2024-08-29, 07:01:10](https://news.ycombinator.com/item?id=41388111) - [Windmill (YC S22) Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
 * [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 * [2024-08-29, 05:34:02](https://news.ycombinator.com/item?id=41387676) - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
@@ -23,6 +22,7 @@
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: design-time proof of full-scale architecture security properties (2022)](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 11:24:23](https://news.ycombinator.com/item?id=41378317) - [Deterministic Replay of QEMU Emulation](https://www.qemu.org/docs/master/system/replay.html)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion models are real-time game engines](https://gamengen.github.io)
+* [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 * [2024-08-27, 00:12:32](https://news.ycombinator.com/item?id=41363435) - [Towards a true multi-cloud offering to deliver on broken promises](https://www.scaleway.com/en/blog/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/)
 * [2024-08-26, 13:46:15](https://news.ycombinator.com/item?id=41357056) - [Interview with Microsoft SandDance Creator Steven Drucker](https://pldb.io/blog/stevenDrucker.html)
 * [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant (2017)](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
