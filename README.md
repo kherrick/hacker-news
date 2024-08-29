@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-29, 02:44:23](https://news.ycombinator.com/item?id=41386758) - [Brazil top court threatens to suspend X within 24 hours](https://apnews.com/article/brazil-top-court-elon-musk-de-moraes-028f7a9f65e3bf355518bbe9d1fbe564)
+* [2024-08-29, 02:34:48](https://news.ycombinator.com/item?id=41386697) - [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
 * [2024-08-29, 02:22:10](https://news.ycombinator.com/item?id=41386630) - [Docker-OSX image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-28, 21:00:17](https://news.ycombinator.com/item?id=41384316) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
@@ -17,7 +18,6 @@
 * [2024-08-28, 16:58:16](https://news.ycombinator.com/item?id=41381569) - [Panasonic Toughbook 40](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40)
 * [2024-08-28, 15:53:23](https://news.ycombinator.com/item?id=41380888) - [High-temperature Gibbs states are unentangled and efficiently preparable](https://arxiv.org/abs/2403.16850)
 * [2024-08-28, 15:48:02](https://news.ycombinator.com/item?id=41380814) - [Show HN: Claude Artifacts but creating real web apps](https://gptengineer.app)
-* [2024-08-28, 15:15:24](https://news.ycombinator.com/item?id=41380460) - [Show HN: Shed Light on Your Go Binary Bloat with Go Size Analyzer](https://github.com/Zxilly/go-size-analyzer)
 * [2024-08-28, 12:39:46](https://news.ycombinator.com/item?id=41378806) - [Judge dismisses majority of GitHub Copilot copyright claims](https://www.developer-tech.com/news/judge-dismisses-majority-github-copilot-copyright-claims/)
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: design-time proof of full-scale architecture security properties (2022)](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
