@@ -33,6 +33,7 @@
 * [2024-08-26, 18:32:53](https://news.ycombinator.com/item?id=41360195) - [Using $300 robot arms and a MacBook to fold a T-shirt](https://twitter.com/remicadene/status/1828006677528137977)
 * [2024-08-26, 18:16:46](https://news.ycombinator.com/item?id=41360035) - [Show HN: I made a game to show how bad the NYC rental market is](https://leaseswap.nyc/guess)
 * [2024-08-26, 18:16:23](https://news.ycombinator.com/item?id=41360030) - [Ask HN: Could early 80s computers have had better software given today's CS?](https://news.ycombinator.com/item?id=41360030)
+* [2024-08-26, 18:05:39](https://news.ycombinator.com/item?id=41359914) - ['Tchaikovsky's Empire' Review: Echoes of an Imperial Composer](https://www.wsj.com/arts-culture/books/tchaikovskys-empire-review-imperial-composer-e645dd3b)
 * [2024-08-26, 18:04:18](https://news.ycombinator.com/item?id=41359903) - [Scanned page by page: 67 years worth of old Radio Shack catalogs](https://www.radioshackcatalogs.com/)
 * [2024-08-26, 17:28:13](https://news.ycombinator.com/item?id=41359502) - [The Arrest of Pavel Durov Is a Reminder That Telegram Is Not Encrypted](https://gizmodo.com/the-arrest-of-pavel-durov-is-a-reminder-that-telegram-is-not-encrypted-2000490960)
 * [2024-08-26, 17:10:59](https://news.ycombinator.com/item?id=41359311) - [Young workers face a new challenge: Older workers aren't retiring](https://www.washingtonpost.com/opinions/2024/08/26/five-generations-workforce-gen-z-challenge/)
