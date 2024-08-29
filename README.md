@@ -8,7 +8,7 @@
 * [2024-08-29, 12:29:07](https://news.ycombinator.com/item?id=41390094) - [Major Sites Are Saying No to Apple's AI Scraping](https://www.wired.com/story/applebot-extended-apple-ai-scraping/)
 * [2024-08-29, 12:03:41](https://news.ycombinator.com/item?id=41389931) - [Show HN: Low Cost Mini PCs](https://lowcostminipcs.com/)
 * [2024-08-29, 11:47:13](https://news.ycombinator.com/item?id=41389806) - [Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
-* [2024-08-29, 11:33:19](https://news.ycombinator.com/item?id=41389718) - [Show HN: Convert Mp4 to Wav in Browser](https://mp4wav.com)
+* [2024-08-29, 11:32:49](https://news.ycombinator.com/item?id=41389714) - [Fastmail – stick private notes on your email](https://www.fastmail.com/blog/introducing-memos/)
 * [2024-08-29, 11:31:24](https://news.ycombinator.com/item?id=41389705) - [KDE Asking for Donations](https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/)
 * [2024-08-29, 11:23:53](https://news.ycombinator.com/item?id=41389642) - [Web Design Museum](https://www.webdesignmuseum.org/)
 * [2024-08-29, 10:42:45](https://news.ycombinator.com/item?id=41389378) - [The first snapshot of Hacker News on Archive.org](https://web.archive.org/web/20070221033032/https://news.ycombinator.com/)
@@ -19,7 +19,6 @@
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
 * [2024-08-29, 09:06:17](https://news.ycombinator.com/item?id=41388807) - [Superhuman Built an Engine to Find Product Market Fit (2018)](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 * [2024-08-29, 09:05:47](https://news.ycombinator.com/item?id=41388805) - [I spent an evening on a fictitious web](https://paul.kinlan.me/fictitious-web/)
-* [2024-08-29, 07:42:45](https://news.ycombinator.com/item?id=41388335) - [Show HN: LLM-Term – Simple Rust-based CLI assist tool](https://github.com/dh1011/llm-term)
 * [2024-08-29, 07:41:36](https://news.ycombinator.com/item?id=41388326) - [Computer Scientists Prove That Heat Destroys Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
 * [2024-08-29, 07:01:10](https://news.ycombinator.com/item?id=41388111) - [Windmill (YC S22) Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
 * [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
@@ -30,6 +29,7 @@
 * [2024-08-28, 11:24:23](https://news.ycombinator.com/item?id=41378317) - [Deterministic Replay of QEMU Emulation](https://www.qemu.org/docs/master/system/replay.html)
 * [2024-08-26, 12:54:03](https://news.ycombinator.com/item?id=41356666) - [Ask HN: Developer PC setup automations for company owned devices](https://news.ycombinator.com/item?id=41356666)
 * [2024-08-26, 11:42:44](https://news.ycombinator.com/item?id=41356196) - [Complete Visual Guide to Sony CLIÉ (2000-2004)](https://obsoletesony.substack.com/p/complete-visual-guide-to-sony-clie)
+* [2024-08-25, 13:33:23](https://news.ycombinator.com/item?id=41347188) - [Google's new pipe syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
 
 ## [Archives](archives/index.md)
 

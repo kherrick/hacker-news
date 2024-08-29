@@ -13,6 +13,7 @@
 * [2024-08-29, 12:03:41](https://news.ycombinator.com/item?id=41389931) - [Show HN: Low Cost Mini PCs](https://lowcostminipcs.com/)
 * [2024-08-29, 11:47:13](https://news.ycombinator.com/item?id=41389806) - [Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
 * [2024-08-29, 11:33:19](https://news.ycombinator.com/item?id=41389718) - [Show HN: Convert Mp4 to Wav in Browser](https://mp4wav.com)
+* [2024-08-29, 11:32:49](https://news.ycombinator.com/item?id=41389714) - [Fastmail – stick private notes on your email](https://www.fastmail.com/blog/introducing-memos/)
 * [2024-08-29, 11:31:24](https://news.ycombinator.com/item?id=41389705) - [KDE Asking for Donations](https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/)
 * [2024-08-29, 11:23:53](https://news.ycombinator.com/item?id=41389642) - [Web Design Museum](https://www.webdesignmuseum.org/)
 * [2024-08-29, 10:42:45](https://news.ycombinator.com/item?id=41389378) - [The first snapshot of Hacker News on Archive.org](https://web.archive.org/web/20070221033032/https://news.ycombinator.com/)
