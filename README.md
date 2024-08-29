@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 19:48:25](https://news.ycombinator.com/item?id=41394604) - [Smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471)
 * [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
 * [2024-08-29, 17:50:23](https://news.ycombinator.com/item?id=41393458) - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
 * [2024-08-29, 17:32:23](https://news.ycombinator.com/item?id=41393252) - [100M Token Context Windows](https://magic.dev/blog/100m-token-context-windows)
@@ -21,7 +22,6 @@
 * [2024-08-29, 11:47:13](https://news.ycombinator.com/item?id=41389806) - [Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
 * [2024-08-29, 11:32:49](https://news.ycombinator.com/item?id=41389714) - [Memos: stick private notes on your email](https://www.fastmail.com/blog/introducing-memos/)
 * [2024-08-29, 11:23:53](https://news.ycombinator.com/item?id=41389642) - [Web Design Museum](https://www.webdesignmuseum.org/)
-* [2024-08-29, 10:35:55](https://news.ycombinator.com/item?id=41389326) - [Show HN: turn videos into ASCII art (open source, js+canvas)](https://collidingscopes.github.io/ascii/)
 * [2024-08-29, 10:14:50](https://news.ycombinator.com/item?id=41389185) - [OpenAI is good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
 * [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade automated solar concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many (2008)](https://languagelog.ldc.upenn.edu/nll/?p=73)
