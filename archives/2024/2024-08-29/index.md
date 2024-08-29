@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 10:35:55](https://news.ycombinator.com/item?id=41389326) - [Show HN: turn videos into ASCII art (open source, js+canvas)](https://collidingscopes.github.io/ascii/)
 * [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many – a tragic consequence of the failure to localize cell phones](https://languagelog.ldc.upenn.edu/nll/?p=73)
 * [2024-08-29, 10:00:02](https://news.ycombinator.com/item?id=41389094) - [Is there any way HN can implement a 'paywall tag' to save wasted clicks?](https://news.ycombinator.com/item?id=41389094)
