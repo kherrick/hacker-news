@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 03:43:38](https://news.ycombinator.com/item?id=41387060) - [Bosses Are Finding Ways to Pay Workers Less](https://www.wsj.com/lifestyle/careers/salary-workers-pay-cuts-2024-54101d66)
+* [2024-08-29, 03:04:00](https://news.ycombinator.com/item?id=41386848) - [Show HN: Are You Smarter Than a 5th Grader?](https://areusmarterthanafifthgrader.com)
 * [2024-08-29, 02:44:23](https://news.ycombinator.com/item?id=41386758) - [Brazil top court threatens to suspend X within 24 hours](https://apnews.com/article/brazil-top-court-elon-musk-de-moraes-028f7a9f65e3bf355518bbe9d1fbe564)
 * [2024-08-29, 02:34:48](https://news.ycombinator.com/item?id=41386697) - [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
 * [2024-08-29, 02:22:10](https://news.ycombinator.com/item?id=41386630) - [Docker-OSX image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
@@ -8,7 +10,6 @@
 * [2024-08-28, 20:44:29](https://news.ycombinator.com/item?id=41384144) - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 * [2024-08-28, 20:42:03](https://news.ycombinator.com/item?id=41384118) - [Twenty Years of Valgrind (2022)](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 * [2024-08-28, 20:20:04](https://news.ycombinator.com/item?id=41383843) - [What Is Post-Quantum Cryptography? – NIST](https://www.nist.gov/cybersecurity/what-post-quantum-cryptography)
-* [2024-08-28, 19:13:51](https://news.ycombinator.com/item?id=41383126) - [Companies Lobby Against Giving the Military the Right to Repair](https://www.404media.co/appliance-and-tractor-companies-lobby-against-giving-the-military-the-right-to-repair/)
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
 * [2024-08-28, 18:34:01](https://news.ycombinator.com/item?id=41382687) - [Scaling Rails and Postgres to millions of users at Microsoft](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)
@@ -18,7 +19,6 @@
 * [2024-08-28, 16:58:16](https://news.ycombinator.com/item?id=41381569) - [Panasonic Toughbook 40](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40)
 * [2024-08-28, 15:53:23](https://news.ycombinator.com/item?id=41380888) - [High-temperature Gibbs states are unentangled and efficiently preparable](https://arxiv.org/abs/2403.16850)
 * [2024-08-28, 15:48:02](https://news.ycombinator.com/item?id=41380814) - [Show HN: Claude Artifacts but creating real web apps](https://gptengineer.app)
-* [2024-08-28, 12:39:46](https://news.ycombinator.com/item?id=41378806) - [Judge dismisses majority of GitHub Copilot copyright claims](https://www.developer-tech.com/news/judge-dismisses-majority-github-copilot-copyright-claims/)
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: design-time proof of full-scale architecture security properties (2022)](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDFs](https://github.com/seekbytes/IPA)
