@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
 * [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
+* [2024-08-29, 17:50:27](https://news.ycombinator.com/item?id=41393462) - [Rust Is Bad for Servers](https://kerkour.com/rust-is-bad-for-servers)
 * [2024-08-29, 17:50:23](https://news.ycombinator.com/item?id=41393458) - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
 * [2024-08-29, 17:29:03](https://news.ycombinator.com/item?id=41393218) - [MindsDB (YC W20) Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
+* [2024-08-29, 17:25:12](https://news.ycombinator.com/item?id=41393172) - [Judge Rules $400M Algorithmic System Illegally Denied People's Medicaid Benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
 * [2024-08-29, 17:13:09](https://news.ycombinator.com/item?id=41393049) - [Paul Graham blocked me on X because I quoted Hacker News's guidelines](https://twitter.com/atdavidmurdoch/status/1829200559108509861)
 * [2024-08-29, 17:08:20](https://news.ycombinator.com/item?id=41393005) - [Show HN: A discovery-focused search engine for Hacker News](https://hn.trieve.ai/)
 * [2024-08-29, 17:03:28](https://news.ycombinator.com/item?id=41392962) - [Starlink's financial assets frozen in Brazil](https://twitter.com/realpfigueiredo/status/1829169146942370034)
