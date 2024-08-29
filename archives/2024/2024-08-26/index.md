@@ -70,6 +70,7 @@
 * [2024-08-26, 12:37:32](https://news.ycombinator.com/item?id=41356528) - [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 * [2024-08-26, 12:30:09](https://news.ycombinator.com/item?id=41356484) - [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-26, 12:30:03](https://news.ycombinator.com/item?id=41356483) - [US dismantles laptop farm used by undercover North Korean IT workers](https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/)
+* [2024-08-26, 12:28:20](https://news.ycombinator.com/item?id=41356474) - [OpenVMS x86_64 at the Edge](http://jamespreciado.a2hosted.com/)
 * [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
 * [2024-08-26, 12:12:57](https://news.ycombinator.com/item?id=41356382) - [IKEA launches secondhand marketplace to compete with eBay](https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734)
 * [2024-08-26, 12:00:56](https://news.ycombinator.com/item?id=41356310) - [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
