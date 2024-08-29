@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 17:00:47](https://news.ycombinator.com/item?id=41392939) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers)
 * [2024-08-29, 15:54:59](https://news.ycombinator.com/item?id=41392142) - [New 2GB Raspberry Pi 5 has 33% smaller die, 30% idle power savings](https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings)
 * [2024-08-29, 15:53:08](https://news.ycombinator.com/item?id=41392128) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:37:42](https://news.ycombinator.com/item?id=41391931) - [Launch HN: Patchwork (YC W24) – Automatically add structured logs to your code](https://news.ycombinator.com/item?id=41391931)
