@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 07:16:00](https://news.ycombinator.com/item?id=41388181) - [SpaceX Falcon 9 booster 'tipped over' into the ocean during landing](https://www.theverge.com/2024/8/28/24230383/spacex-falcon-9-booster-first-stage-crash-starlink-launch)
 * [2024-08-29, 07:01:10](https://news.ycombinator.com/item?id=41388111) - [Windmill (YC S22) Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
 * [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 * [2024-08-29, 05:34:02](https://news.ycombinator.com/item?id=41387676) - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
