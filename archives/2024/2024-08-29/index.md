@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 23:04:32](https://news.ycombinator.com/item?id=41396260) - [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
+* [2024-08-29, 22:56:27](https://news.ycombinator.com/item?id=41396206) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure has been archived](https://github.com/google/closure-library)
 * [2024-08-29, 22:21:55](https://news.ycombinator.com/item?id=41395921) - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 * [2024-08-29, 22:18:39](https://news.ycombinator.com/item?id=41395884) - [JPMorgan's Python training for business analysts and traders](https://github.com/jpmorganchase/python-training)
