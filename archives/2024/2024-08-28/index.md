@@ -66,6 +66,7 @@
 * [2024-08-28, 12:01:13](https://news.ycombinator.com/item?id=41378527) - [Prosper AI (YC S23) Is Hiring a Founding Front End Engineer in Barcelona(hybrid)](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
+* [2024-08-28, 11:24:23](https://news.ycombinator.com/item?id=41378317) - [Deterministic Replay of QEMU Emulation](https://www.qemu.org/docs/master/system/replay.html)
 * [2024-08-28, 11:16:00](https://news.ycombinator.com/item?id=41378268) - [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
 * [2024-08-28, 11:11:13](https://news.ycombinator.com/item?id=41378240) - [Fermilab is 'doomed' without management overhaul claims whistleblower report](https://physicsworld.com/a/fermilab-is-doomed-without-management-overhaul-claims-whistleblower-report/)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDF (Rust)](https://github.com/seekbytes/IPA)
