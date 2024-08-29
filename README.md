@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 14:38:26](https://news.ycombinator.com/item?id=41391267) - [With 10x growth since 2023, Llama is the leading engine of AI innovation](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
 * [2024-08-29, 14:09:46](https://news.ycombinator.com/item?id=41390999) - [GNU Screen 5.0 Released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can Solar Costs Keep Shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
 * [2024-08-29, 13:42:03](https://news.ycombinator.com/item?id=41390712) - [Floating points between zero and one](https://chadnauseam.com/coding/random/floating-points-between-zero-and-one)
@@ -22,7 +23,6 @@
 * [2024-08-29, 07:41:36](https://news.ycombinator.com/item?id=41388326) - [Computer Scientists Prove That Heat Destroys Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
 * [2024-08-29, 07:01:10](https://news.ycombinator.com/item?id=41388111) - [Windmill (YC S22) Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
 * [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
-* [2024-08-29, 05:32:49](https://news.ycombinator.com/item?id=41387674) - [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-28, 22:00:21](https://news.ycombinator.com/item?id=41384900) - [This behavior is by design](https://blog.gingerbeardman.com/2024/08/28/this-behavior-is-by-design/)
 * [2024-08-28, 17:01:15](https://news.ycombinator.com/item?id=41381598) - [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)

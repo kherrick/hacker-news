@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 14:38:26](https://news.ycombinator.com/item?id=41391267) - [With 10x growth since 2023, Llama is the leading engine of AI innovation](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
 * [2024-08-29, 14:09:46](https://news.ycombinator.com/item?id=41390999) - [GNU Screen 5.0 Released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can Solar Costs Keep Shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
 * [2024-08-29, 13:42:03](https://news.ycombinator.com/item?id=41390712) - [Floating points between zero and one](https://chadnauseam.com/coding/random/floating-points-between-zero-and-one)
