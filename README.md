@@ -2,7 +2,6 @@
 
 * [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
 * [2024-08-29, 17:50:23](https://news.ycombinator.com/item?id=41393458) - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
-* [2024-08-29, 17:32:23](https://news.ycombinator.com/item?id=41393252) - [100M Token Context Windows](https://magic.dev/blog/100m-token-context-windows)
 * [2024-08-29, 17:29:03](https://news.ycombinator.com/item?id=41393218) - [MindsDB (YC W20) Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
 * [2024-08-29, 17:25:12](https://news.ycombinator.com/item?id=41393172) - [Judge rules $400M algorithmic system illegally denied Medicaid benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
 * [2024-08-29, 17:08:20](https://news.ycombinator.com/item?id=41393005) - [Show HN: A discovery-focused search engine for Hacker News](https://hn.trieve.ai/)
@@ -27,9 +26,10 @@
 * [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many (2008)](https://languagelog.ldc.upenn.edu/nll/?p=73)
 * [2024-08-29, 05:32:49](https://news.ycombinator.com/item?id=41387674) - [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
-* [2024-08-26, 18:05:39](https://news.ycombinator.com/item?id=41359914) - ['Tchaikovsky's Empire' Review: Echoes of an Imperial Composer](https://www.wsj.com/arts-culture/books/tchaikovskys-empire-review-imperial-composer-e645dd3b)
 * [2024-08-26, 10:46:08](https://news.ycombinator.com/item?id=41355864) - [Unified Grid: How we re-architected Slack for our largest customers](https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/)
+* [2024-08-25, 17:22:06](https://news.ycombinator.com/item?id=41349198) - [Rescuing songs that record labels forgot existed](https://www.bbc.co.uk/news/articles/cgl7ld1glk3o)
 * [2024-08-25, 03:54:41](https://news.ycombinator.com/item?id=41344245) - [All text in Brooklyn](https://brooklyn.alltexts.nyc/)
+* [2024-08-24, 22:05:55](https://news.ycombinator.com/item?id=41342078) - [Shufflecake: Plausible deniability for hidden filesystems on Linux (2023)](https://eprint.iacr.org/2023/1529)
 
 ## [Archives](archives/index.md)
 

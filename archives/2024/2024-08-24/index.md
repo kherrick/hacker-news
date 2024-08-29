@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
 * [2024-08-24, 23:12:18](https://news.ycombinator.com/item?id=41342637) - [Defenders think in lists. Attackers think in graphs. So attackers win](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
+* [2024-08-24, 22:05:55](https://news.ycombinator.com/item?id=41342078) - [Shufflecake: Plausible deniability for hidden filesystems on Linux (2023)](https://eprint.iacr.org/2023/1529)
 * [2024-08-24, 22:00:34](https://news.ycombinator.com/item?id=41342017) - [Ask HN: What are you working on (August 2024)?](https://news.ycombinator.com/item?id=41342017)
 * [2024-08-24, 21:47:08](https://news.ycombinator.com/item?id=41341873) - [Telegram CEO Pavel Durov Arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/)
 * [2024-08-24, 21:41:21](https://news.ycombinator.com/item?id=41341817) - [Birds Aren't Real – How to Create Your Own \"Bird\"](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
