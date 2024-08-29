@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
+* [2024-08-29, 17:50:23](https://news.ycombinator.com/item?id=41393458) - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
 * [2024-08-29, 17:29:03](https://news.ycombinator.com/item?id=41393218) - [MindsDB (YC W20) Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
 * [2024-08-29, 17:08:20](https://news.ycombinator.com/item?id=41393005) - [Show HN: A discovery-focused search engine for Hacker News](https://hn.trieve.ai/)
 * [2024-08-29, 17:03:28](https://news.ycombinator.com/item?id=41392962) - [Starlink's financial assets frozen in Brazil](https://twitter.com/realpfigueiredo/status/1829169146942370034)
@@ -9,7 +11,6 @@
 * [2024-08-29, 15:33:09](https://news.ycombinator.com/item?id=41391868) - [Judges rule Big Tech's free ride on Section 230 is over](https://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on)
 * [2024-08-29, 15:29:13](https://news.ycombinator.com/item?id=41391822) - [Raspberry Pi Pico does line rate 100M Ethernet](https://github.com/rscott2049/pico-rmii-ethernet_nce)
 * [2024-08-29, 14:53:15](https://news.ycombinator.com/item?id=41391412) - [Chrome Is Entrenching Third-Party Cookies That Will Mislead Users](https://brave.com/blog/related-website-sets/)
-* [2024-08-29, 14:42:03](https://news.ycombinator.com/item?id=41391301) - [From Julia to Rust (2021)](https://miguelraz.github.io/blog/juliatorust/index.html)
 * [2024-08-29, 14:38:26](https://news.ycombinator.com/item?id=41391267) - [Update on Llama adoption](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
 * [2024-08-29, 14:28:34](https://news.ycombinator.com/item?id=41391177) - [A Java Language Cumulative Feature Rollup](http://blogs.newardassociates.com/blog/2024/java-cumulative-feature-rollup.html)
 * [2024-08-29, 14:09:46](https://news.ycombinator.com/item?id=41390999) - [GNU Screen 5.0 Released](https://savannah.gnu.org/news/?id=10668)
@@ -25,7 +26,6 @@
 * [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many (2008)](https://languagelog.ldc.upenn.edu/nll/?p=73)
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
-* [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-26, 10:46:08](https://news.ycombinator.com/item?id=41355864) - [Unified Grid: How We Re-Architected Slack for Our Largest Customers](https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/)
 * [2024-08-25, 21:47:13](https://news.ycombinator.com/item?id=41351751) - [Japan's Real First Console? Bandai's TV Jack 5000](https://nicole.express/2024/tv-jack-and-tv-jill.html)
