@@ -77,6 +77,7 @@
 * [2024-08-26, 11:37:41](https://news.ycombinator.com/item?id=41356165) - [What's New in SQLAlchemy 2.1?](https://docs.sqlalchemy.org/en/21/changelog/migration_21.html)
 * [2024-08-26, 11:24:41](https://news.ycombinator.com/item?id=41356100) - [When A.I.'s Output Is a Threat to A.I. Itself](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html)
 * [2024-08-26, 10:48:50](https://news.ycombinator.com/item?id=41355890) - [13 Years of Building Infrastructure Control Planes in Ruby](https://www.ubicloud.com/blog/building-infrastructure-control-planes-in-ruby)
+* [2024-08-26, 10:46:08](https://news.ycombinator.com/item?id=41355864) - [Unified Grid: How We Re-Architected Slack for Our Largest Customers](https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/)
 * [2024-08-26, 10:35:11](https://news.ycombinator.com/item?id=41355800) - [Show HN: I published a book to save you from my software architecture mistakes](https://leanpub.com/master-software-architecture)
 * [2024-08-26, 10:34:49](https://news.ycombinator.com/item?id=41355797) - [Rerun: Visualize Multimodal Data over Time](https://rerun.io)
 * [2024-08-26, 10:34:41](https://news.ycombinator.com/item?id=41355796) - [Cleaning up after WWII (2017)](https://wwiiafterwwii.wordpress.com/2017/02/20/cleaning-up-after-wwii/)

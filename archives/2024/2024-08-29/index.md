@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
 * [2024-08-29, 15:54:59](https://news.ycombinator.com/item?id=41392142) - [New 2GB Raspberry Pi 5 has 33% smaller die, 30% idle power savings](https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings)
+* [2024-08-29, 15:53:08](https://news.ycombinator.com/item?id=41392128) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:37:42](https://news.ycombinator.com/item?id=41391931) - [Launch HN: Patchwork (YC W24) – Automatically add structured logs to your code](https://news.ycombinator.com/item?id=41391931)
+* [2024-08-29, 15:33:09](https://news.ycombinator.com/item?id=41391868) - [Judges Rule Big Tech's Free Ride on Section 230 Is Over](https://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on)
 * [2024-08-29, 15:29:13](https://news.ycombinator.com/item?id=41391822) - [Raspberry Pi Pico does line rate 100M Ethernet](https://github.com/rscott2049/pico-rmii-ethernet_nce)
 * [2024-08-29, 14:53:15](https://news.ycombinator.com/item?id=41391412) - [Chrome Is Entrenching Third-Party Cookies That Will Mislead Users](https://brave.com/blog/related-website-sets/)
 * [2024-08-29, 14:42:03](https://news.ycombinator.com/item?id=41391301) - [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
