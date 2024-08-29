@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 14:09:46](https://news.ycombinator.com/item?id=41390999) - [GNU Screen 5.0 Released](https://savannah.gnu.org/news/?id=10668)
+* [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can Solar Costs Keep Shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
+* [2024-08-29, 13:42:03](https://news.ycombinator.com/item?id=41390712) - [Floating points between zero and one](https://chadnauseam.com/coding/random/floating-points-between-zero-and-one)
 * [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
 * [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
 * [2024-08-29, 12:47:14](https://news.ycombinator.com/item?id=41390261) - [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
