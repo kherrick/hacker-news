@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-29, 05:34:02](https://news.ycombinator.com/item?id=41387676) - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
+* [2024-08-29, 05:32:49](https://news.ycombinator.com/item?id=41387674) - [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
 * [2024-08-29, 04:50:24](https://news.ycombinator.com/item?id=41387436) - [Telegram Founder Charged with Wide Range of Crimes in France](https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html)
 * [2024-08-29, 02:34:48](https://news.ycombinator.com/item?id=41386697) - [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
 * [2024-08-29, 02:28:54](https://news.ycombinator.com/item?id=41386667) - [HDMI Forum rejects AMD's HDMI 2.1 open-source driver](https://www.tomshardware.com/pc-components/gpus/hdmi-forum-rejects-amds-hdmi-21-open-source-driver)
@@ -25,7 +26,6 @@
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 * [2024-08-27, 00:12:32](https://news.ycombinator.com/item?id=41363435) - [Towards a true multi-cloud offering to deliver on broken promises](https://www.scaleway.com/en/blog/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/)
 * [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant (2017)](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
-* [2024-08-26, 11:37:41](https://news.ycombinator.com/item?id=41356165) - [What's New in SQLAlchemy 2.1?](https://docs.sqlalchemy.org/en/21/changelog/migration_21.html)
 * [2024-08-25, 15:02:04](https://news.ycombinator.com/item?id=41347789) - [Monumental architecture in Atlantic Europe: fifth-millennium BC enclosure](https://www.cambridge.org/core/journals/antiquity/article/emergence-of-monumental-architecture-in-atlantic-europe-a-fortified-fifthmillennium-bc-enclosure-in-western-france/8ED741E657BCBE5522E7EC273F7D697D)
 * [2024-08-25, 13:33:23](https://news.ycombinator.com/item?id=41347188) - [Google's new pipe syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
 * [2024-08-24, 13:59:15](https://news.ycombinator.com/item?id=41338363) - [A Video Game Dynamo with Ideas Always Swirling](https://www.nytimes.com/2024/08/22/arts/xalavier-nelson-strange-scaffold.html)
