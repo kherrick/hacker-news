@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 08:25:13](https://news.ycombinator.com/item?id=41388557) - [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)
+* [2024-08-29, 07:42:45](https://news.ycombinator.com/item?id=41388335) - [Show HN: LLM-Term – Simple Rust-based CLI assist tool](https://github.com/dh1011/llm-term)
+* [2024-08-29, 07:41:36](https://news.ycombinator.com/item?id=41388326) - [Computer Scientists Prove That Heat Destroys Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
 * [2024-08-29, 07:16:00](https://news.ycombinator.com/item?id=41388181) - [SpaceX Falcon 9 booster 'tipped over' into the ocean during landing](https://www.theverge.com/2024/8/28/24230383/spacex-falcon-9-booster-first-stage-crash-starlink-launch)
 * [2024-08-29, 07:01:10](https://news.ycombinator.com/item?id=41388111) - [Windmill (YC S22) Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
 * [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
