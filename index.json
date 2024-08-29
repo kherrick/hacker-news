@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=41391267"
     ],
     [
-      "An update on Llama adoption",
+      "Update on Llama adoption",
       "https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 14:28:34",
+      "https://news.ycombinator.com/item?id=41391177"
+    ],
+    [
+      "A Java Language Cumulative Feature Rollup",
+      "http://blogs.newardassociates.com/blog/2024/java-cumulative-feature-rollup.html"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41390884"
     ],
     [
-      "Can Solar Costs Keep Shrinking?",
+      "Can solar costs keep shrinking?",
       "https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking"
     ]
   ],
@@ -95,18 +105,8 @@
       "https://news.ycombinator.com/item?id=41390219"
     ],
     [
-      "Meta's Threads enables Fediverse replies and likes",
+      "Threads Enables Fediverse Replies",
       "https://blog.karliner.net/posts/threads-enables-fediverse-replies/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 12:29:07",
-      "https://news.ycombinator.com/item?id=41390094"
-    ],
-    [
-      "Major Sites Are Saying No to Apple's AI Scraping",
-      "https://www.wired.com/story/applebot-extended-apple-ai-scraping/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=41388326"
     ],
     [
-      "Computer Scientists Prove That Heat Destroys Entanglement",
+      "Computer scientists prove that heat destroys quantum entanglement",
       "https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/"
     ]
   ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-08-26, 12:54:03",
-      "https://news.ycombinator.com/item?id=41356666"
+      "2024-08-26, 14:37:30",
+      "https://news.ycombinator.com/item?id=41357572"
     ],
     [
-      "Ask HN: Developer PC setup automations for company owned devices",
-      "https://news.ycombinator.com/item?id=41356666"
+      "Exploiting column chunks for faster ingestion and lower memory use",
+      "https://rerun.io/blog/column-chunks"
     ]
   ],
   [
