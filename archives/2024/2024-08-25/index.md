@@ -56,6 +56,7 @@
 * [2024-08-25, 15:20:29](https://news.ycombinator.com/item?id=41347909) - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
 * [2024-08-25, 15:15:07](https://news.ycombinator.com/item?id=41347868) - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
 * [2024-08-25, 15:12:58](https://news.ycombinator.com/item?id=41347852) - [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/)
+* [2024-08-25, 15:02:04](https://news.ycombinator.com/item?id=41347789) - [Monumental architecture in Atlantic Europe: fifth-millennium BC enclosure](https://www.cambridge.org/core/journals/antiquity/article/emergence-of-monumental-architecture-in-atlantic-europe-a-fortified-fifthmillennium-bc-enclosure-in-western-france/8ED741E657BCBE5522E7EC273F7D697D)
 * [2024-08-25, 14:55:48](https://news.ycombinator.com/item?id=41347740) - [How de-Googled is Lineage OS?](https://kevinboone.me/lineageos-degoogled.html)
 * [2024-08-25, 14:50:09](https://news.ycombinator.com/item?id=41347697) - [Why Does EmacsLisp Suck?](https://www.emacswiki.org/emacs/WhyDoesElispSuck)
 * [2024-08-25, 14:45:41](https://news.ycombinator.com/item?id=41347661) - [4.6M Voter and Election Documents Exposed Online by Technology Contractor](https://www.vpnmentor.com/news/report-election-records-breach/)

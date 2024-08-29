@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 02:44:23](https://news.ycombinator.com/item?id=41386758) - [Brazil top court threatens to suspend X within 24 hours](https://apnews.com/article/brazil-top-court-elon-musk-de-moraes-028f7a9f65e3bf355518bbe9d1fbe564)
 * [2024-08-29, 02:22:10](https://news.ycombinator.com/item?id=41386630) - [Docker-OSX image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
-* [2024-08-28, 23:10:55](https://news.ycombinator.com/item?id=41385418) - [Telegram boss banned from leaving France in criminal probe](https://www.bbc.com/news/articles/c985ppy0znyo)
 * [2024-08-28, 21:00:17](https://news.ycombinator.com/item?id=41384316) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-28, 20:44:29](https://news.ycombinator.com/item?id=41384144) - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 * [2024-08-28, 20:42:03](https://news.ycombinator.com/item?id=41384118) - [Twenty Years of Valgrind (2022)](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
@@ -21,15 +21,15 @@
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: design-time proof of full-scale architecture security properties (2022)](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDFs](https://github.com/seekbytes/IPA)
+* [2024-08-28, 06:25:05](https://news.ycombinator.com/item?id=41376558) - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion models are real-time game engines](https://gamengen.github.io)
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 * [2024-08-27, 00:12:32](https://news.ycombinator.com/item?id=41363435) - [Towards a true multi-cloud offering to deliver on broken promises](https://www.scaleway.com/en/blog/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/)
 * [2024-08-26, 14:01:58](https://news.ycombinator.com/item?id=41357188) - [An SSR Performance Showdown](https://blog.platformatic.dev/an-ssr-performance-showdown)
 * [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant (2017)](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
 * [2024-08-26, 11:37:41](https://news.ycombinator.com/item?id=41356165) - [What's New in SQLAlchemy 2.1?](https://docs.sqlalchemy.org/en/21/changelog/migration_21.html)
+* [2024-08-25, 15:02:04](https://news.ycombinator.com/item?id=41347789) - [Monumental architecture in Atlantic Europe: fifth-millennium BC enclosure](https://www.cambridge.org/core/journals/antiquity/article/emergence-of-monumental-architecture-in-atlantic-europe-a-fortified-fifthmillennium-bc-enclosure-in-western-france/8ED741E657BCBE5522E7EC273F7D697D)
 * [2024-08-25, 13:33:23](https://news.ycombinator.com/item?id=41347188) - [Google's New Pipe Syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
-* [2024-08-24, 11:07:51](https://news.ycombinator.com/item?id=41337268) - [\"Everything\" is a filename search engine for Windows](https://www.voidtools.com/en-us/support/everything/)
-* [2024-08-23, 09:10:39](https://news.ycombinator.com/item?id=41327394) - [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 
 ## [Archives](archives/index.md)
 
