@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-29, 23:04:32",
+      "https://news.ycombinator.com/item?id=41396260"
+    ],
+    [
+      "SDL3 new GPU API merged",
+      "https://github.com/libsdl-org/SDL/pull/9312"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 22:56:27",
+      "https://news.ycombinator.com/item?id=41396206"
+    ],
+    [
+      "Firewall rules: not as secure as you think",
+      "https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 22:22:12",
       "https://news.ycombinator.com/item?id=41395925"
     ],
@@ -57,16 +77,6 @@
     [
       "Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"",
       "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 20:42:18",
-      "https://news.ycombinator.com/item?id=41395050"
-    ],
-    [
-      "Hawai'i-Issued Real IDs Can Be Added to Apple Wallet Beginning August 28",
-      "https://hidot.hawaii.gov/blog/2024/08/28/hawai%ca%bbi-issued-real-ids-can-be-added-to-apple-wallet-beginning-august-28/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "How I learned to stop worrying and love userspace networking",
       "https://friendshipcastle.zip/blog/glaceon"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 11:32:49",
-      "https://news.ycombinator.com/item?id=41389714"
-    ],
-    [
-      "Memos: stick private notes on your email",
-      "https://www.fastmail.com/blog/introducing-memos/"
     ]
   ],
   [
