@@ -51,6 +51,7 @@
 * [2024-08-24, 13:29:32](https://news.ycombinator.com/item?id=41338159) - [The Calendar of Sound of Hermeto Pascoal (2020) [pdf]](https://www.ijassjournal.com/2020/V3I6/4146575149.pdf)
 * [2024-08-24, 13:26:44](https://news.ycombinator.com/item?id=41338148) - [Warren Buffet's Missed Opportunity](https://www.city-journal.org/article/warren-buffetts-missed-opportunity)
 * [2024-08-24, 13:23:11](https://news.ycombinator.com/item?id=41338128) - [Getting up close and personal with Concorde, Concordski, and Buran](https://www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/)
+* [2024-08-24, 13:22:00](https://news.ycombinator.com/item?id=41338124) - [Show HN: Firebuilder: A complete Firefox customization tool](https://github.com/Explosion-Scratch/firebuilder)
 * [2024-08-24, 13:21:36](https://news.ycombinator.com/item?id=41338120) - [SCOTUS could deal another blow to climate action](https://www.theverge.com/2024/8/23/24226042/scotus-epa-clean-power-coal-plants-pause-rule)
 * [2024-08-24, 13:05:14](https://news.ycombinator.com/item?id=41338000) - [Against all odds, an asteroid mining company appears to be making headway](https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/)
 * [2024-08-24, 12:55:33](https://news.ycombinator.com/item?id=41337941) - [PHP-Parser: A Native PHP Parser for Parsing and Analyzing PHP Code](https://github.com/nikic/PHP-Parser)

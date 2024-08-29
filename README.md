@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-29, 03:43:45](https://news.ycombinator.com/item?id=41387062) - [Ask HN: What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
-* [2024-08-29, 03:43:38](https://news.ycombinator.com/item?id=41387060) - [Bosses Are Finding Ways to Pay Workers Less](https://www.wsj.com/lifestyle/careers/salary-workers-pay-cuts-2024-54101d66)
-* [2024-08-29, 02:44:23](https://news.ycombinator.com/item?id=41386758) - [Brazil top court threatens to suspend X within 24 hours](https://apnews.com/article/brazil-top-court-elon-musk-de-moraes-028f7a9f65e3bf355518bbe9d1fbe564)
 * [2024-08-29, 02:34:48](https://news.ycombinator.com/item?id=41386697) - [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
 * [2024-08-29, 02:28:54](https://news.ycombinator.com/item?id=41386667) - [HDMI Forum rejects AMD's HDMI 2.1 open-source driver](https://www.tomshardware.com/pc-components/gpus/hdmi-forum-rejects-amds-hdmi-21-open-source-driver)
 * [2024-08-29, 02:22:10](https://news.ycombinator.com/item?id=41386630) - [Docker-OSX image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
@@ -12,10 +10,11 @@
 * [2024-08-28, 20:44:29](https://news.ycombinator.com/item?id=41384144) - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 * [2024-08-28, 20:42:03](https://news.ycombinator.com/item?id=41384118) - [Twenty Years of Valgrind (2022)](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 * [2024-08-28, 20:20:04](https://news.ycombinator.com/item?id=41383843) - [What Is Post-Quantum Cryptography? – NIST](https://www.nist.gov/cybersecurity/what-post-quantum-cryptography)
+* [2024-08-28, 19:13:51](https://news.ycombinator.com/item?id=41383126) - [Companies Lobby Against Giving the Military the Right to Repair](https://www.404media.co/appliance-and-tractor-companies-lobby-against-giving-the-military-the-right-to-repair/)
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
 * [2024-08-28, 18:34:01](https://news.ycombinator.com/item?id=41382687) - [Scaling Rails and Postgres to millions of users at Microsoft](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)
-* [2024-08-28, 18:24:39](https://news.ycombinator.com/item?id=41382578) - [Kotlin for Data Analysis](https://kotlinlang.org/docs/data-analysis-overview.html)
+* [2024-08-28, 18:24:39](https://news.ycombinator.com/item?id=41382578) - [Kotlin for data analysis](https://kotlinlang.org/docs/data-analysis-overview.html)
 * [2024-08-28, 18:05:29](https://news.ycombinator.com/item?id=41382335) - [Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
 * [2024-08-28, 17:01:15](https://news.ycombinator.com/item?id=41381598) - [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
 * [2024-08-28, 16:58:16](https://news.ycombinator.com/item?id=41381569) - [Panasonic Toughbook 40](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40)
@@ -28,8 +27,9 @@
 * [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant (2017)](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
 * [2024-08-26, 11:37:41](https://news.ycombinator.com/item?id=41356165) - [What's New in SQLAlchemy 2.1?](https://docs.sqlalchemy.org/en/21/changelog/migration_21.html)
 * [2024-08-25, 15:02:04](https://news.ycombinator.com/item?id=41347789) - [Monumental architecture in Atlantic Europe: fifth-millennium BC enclosure](https://www.cambridge.org/core/journals/antiquity/article/emergence-of-monumental-architecture-in-atlantic-europe-a-fortified-fifthmillennium-bc-enclosure-in-western-france/8ED741E657BCBE5522E7EC273F7D697D)
-* [2024-08-25, 13:33:23](https://news.ycombinator.com/item?id=41347188) - [Google's New Pipe Syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
+* [2024-08-25, 13:33:23](https://news.ycombinator.com/item?id=41347188) - [Google's new pipe syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
 * [2024-08-24, 13:59:15](https://news.ycombinator.com/item?id=41338363) - [A Video Game Dynamo with Ideas Always Swirling](https://www.nytimes.com/2024/08/22/arts/xalavier-nelson-strange-scaffold.html)
+* [2024-08-24, 13:22:00](https://news.ycombinator.com/item?id=41338124) - [Show HN: Firebuilder: A complete Firefox customization tool](https://github.com/Explosion-Scratch/firebuilder)
 
 ## [Archives](archives/index.md)
 
