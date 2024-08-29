@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 15:37:42](https://news.ycombinator.com/item?id=41391931) - [Launch HN: Patchwork (YC W24) – Automatically add structured logs to your code](https://news.ycombinator.com/item?id=41391931)
 * [2024-08-29, 14:42:03](https://news.ycombinator.com/item?id=41391301) - [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
 * [2024-08-29, 14:38:26](https://news.ycombinator.com/item?id=41391267) - [With 10x growth since 2023, Llama is the leading engine of AI innovation](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
 * [2024-08-29, 14:28:34](https://news.ycombinator.com/item?id=41391177) - [A Java Language Cumulative Feature Rollup](http://blogs.newardassociates.com/blog/2024/java-cumulative-feature-rollup.html)
