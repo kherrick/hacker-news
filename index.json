@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-29, 04:50:24",
+      "https://news.ycombinator.com/item?id=41387436"
+    ],
+    [
+      "Telegram Founder Charged with Wide Range of Crimes in France",
+      "https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 03:43:45",
       "https://news.ycombinator.com/item?id=41387062"
     ],
@@ -27,16 +37,6 @@
     [
       "HDMI Forum rejects AMD's HDMI 2.1 open-source driver",
       "https://www.tomshardware.com/pc-components/gpus/hdmi-forum-rejects-amds-hdmi-21-open-source-driver"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 02:22:10",
-      "https://news.ycombinator.com/item?id=41386630"
-    ],
-    [
-      "Docker-OSX image removed after Apple reports copyright infringement",
-      "https://github.com/sickcodes/Docker-OSX/issues/799"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-08-28, 15:53:23",
-      "https://news.ycombinator.com/item?id=41380888"
-    ],
-    [
-      "High-temperature Gibbs states are unentangled and efficiently preparable",
-      "https://arxiv.org/abs/2403.16850"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 15:48:02",
       "https://news.ycombinator.com/item?id=41380814"
     ],
@@ -207,6 +197,16 @@
     [
       "Formal CHERI: design-time proof of full-scale architecture security properties (2022)",
       "https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 11:24:23",
+      "https://news.ycombinator.com/item?id=41378317"
+    ],
+    [
+      "Deterministic Replay of QEMU Emulation",
+      "https://www.qemu.org/docs/master/system/replay.html"
     ]
   ],
   [
