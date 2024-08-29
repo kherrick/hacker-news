@@ -129,6 +129,203 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41390449">
+          <h3>
+            <a class="item" href="https://github.com/onlook-dev/onlook"
+              >Show HN: An open-source, local-first Webflow for your own app</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-29 @ 13:11:45</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41390449"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’m Kiet, and I’m one of the co-founders of Onlook – an
+                open-sourced desktop app that lets you visually edit your
+                locally running React app, then write your changes back to code
+                in real time.
+              </p>
+              <p>
+                I posted the repo a few months ago [1] when it was just 2 weeks
+                old. Since then, we’ve made some big changes/improvements. I
+                wanted to share some of the updates we’ve made and add more
+                technical details. Here are the three big ones:
+              </p>
+              <p>
+                • Inserting new elements - Draw elements in the live page like a
+                design tool and write them back to code. • Component detection -
+                Detect when an element is a re-used component and find its
+                usages. • DOM tree representation - A layers panel similar to
+                the Chrome devtool or Figma.
+              </p>
+              <p>Technical details [2]:</p>
+              <p>
+                Visual editing - Onlook is technically a browser that points to
+                your localhost running the app. It can manipulate the DOM like a
+                Chrome Devtool, and all these changes are injected into the page
+                through a CSS stylesheet or DOM manipulation. The changes are
+                non-persistent until written to code.
+              </p>
+              <p>
+                Write to code - To translate the changes to code, we inject an
+                attribute into the DOM elements at build-time that points back
+                to the code like a source map. The attribute gives us the
+                location of the code block, and the component scope [3]. We then
+                find the code, parse it into an AST, inject the styles, and
+                write it back.
+              </p>
+              <p>
+                Framework support - This technique is framework agnostic as we
+                can swap in a different compiler for another framework [4]. It
+                can work for any codebase as we’re just using open standards
+                that don’t require any custom code. The code generated is
+                written directly into your codebase, locally, so you can always
+                take the output without being locked-in to the tool.
+              </p>
+              <p>
+                Actions - All the changes made are stored as actions. This
+                allows them to be serialized, stored, and reproduced. We did it
+                this way so eventually, we can introduce online collaboration or
+                let an agent generate actions. To do this, we’d just need to
+                serve the locally running page and resolve incoming actions.
+              </p>
+              <p>What’s next?</p>
+              <p>
+                It’s still a bit bare-bones but the support and suggestions from
+                the HN and open-source communities have helped us a lot with our
+                direction. Now that we’ve built the core engine, we can start
+                doing some cooler visual builder features, fulfilling the
+                “Webflow” part of our mission such as [5]:
+              </p>
+              <p>
+                • Detecting CSS variables in the page and letting you use them
+                as “design tokens” in the UI. • Duplicating a page and A/B
+                testing designs before committing to code. • Creating new
+                components directly in the canvas. • Creating a front-end
+                project from scratch using Onlook.
+              </p>
+              <p>Some things we’re considering, but aren’t sure about yet:</p>
+              <p>
+                • Offer hosting directly from the app. • Collaboration such as
+                real-time edits, comments, and share page as a prototype.
+              </p>
+              <p>
+                I’d love to hear your thoughts/feedback. This project continues
+                to be a blast to work on and the community response has been
+                awesome. Thank you to everyone who has tried out and contributed
+                to the repo :)
+              </p>
+              <p>_________</p>
+              <p>
+                [1]
+                <a href="https://news.ycombinator.com/item?id=40904862"
+                  >https://news.ycombinator.com/item?id=40904862</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://github.com/onlook-dev/onlook/wiki/Architecture"
+                  >https://github.com/onlook-dev/onlook/wiki/Architecture</a
+                >
+              </p>
+              <p>[3] The attribute looks something like this:</p>
+              <p>
+                ```
+                data-onlook-id="eJxNjUEKwzAMBP+ic6gOKT3k2i+kDzC2aEwcKVgyDQT/vU5pS067sMvMDl6WVZjYYIC7y2GMlgg6IA6je8LAJaUOVmdTO+BDKSvOkWwSfEme1+Q8oXASmVGthCgYaBFFps3wT1csEX3jX0y3hldz2T6C/VAd4SWVhWG4dpAiUyt9/R7Pc/+b+1ut9Q33rUM5"
+                ```
+              </p>
+              <p>And decodes to this:</p>
+              <p>
+                ```
+                {"component":"Dashboard","endTag":{"end":{"column":10,"line":620},"start":{"column":5,"line":620}},"path":"/Users/kietho/workplace/onlook/studio/demos/next/components/dashboard.tsx","startTag":{"end":{"column":67,"line":69},"start":{"column":5,"line":69}}}
+                ```
+              </p>
+              <p>
+                [4] We’re only supporting a few versions of React at the moment
+                for early focus:
+                <a href="https://github.com/onlook-dev/onlook/tree/main/demos"
+                  >https://github.com/onlook-dev/onlook/tree/main/demos</a
+                >
+              </p>
+              <p>
+                [5]
+                <a href="https://github.com/onlook-dev/onlook/wiki/Roadmap"
+                  >https://github.com/onlook-dev/onlook/wiki/Roadmap</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="41390412">
+          <h3>
+            <a class="item" href="https://friendshipcastle.zip/blog/glaceon"
+              >How I learned to stop worrying and love userspace networking</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-29 @ 13:06:59</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41390412"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41390261">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/"
+              >Firefox rolls out Total Cookie Protection by default to more
+              users worldwide</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-29 @ 12:47:14</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41390261"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41390249">
+          <h3>
+            <a
+              class="item"
+              href="https://thechipletter.substack.com/p/how-intel-missed-the-iphone-xscale"
+              >How Intel Missed the iPhone: The XScale Era</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-29 @ 12:46:13</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41390249"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41390219">
           <h3>
             <a
@@ -141,11 +338,11 @@
             <h4>
               <span>2024-08-29 @ 12:43:12</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390219"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -162,11 +359,11 @@
             <h4>
               <span>2024-08-29 @ 12:29:07</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390094"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -181,11 +378,11 @@
             <h4>
               <span>2024-08-29 @ 12:03:41</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389931"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
             <div class="text">
@@ -210,11 +407,30 @@
             <h4>
               <span>2024-08-29 @ 11:47:13</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389806"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41389718">
+          <h3>
+            <a class="item" href="https://mp4wav.com"
+              >Show HN: Convert Mp4 to Wav in Browser</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-29 @ 11:33:19</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41389718"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -231,11 +447,11 @@
             <h4>
               <span>2024-08-29 @ 11:31:24</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389705"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -250,11 +466,11 @@
             <h4>
               <span>2024-08-29 @ 11:23:53</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389642"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -271,7 +487,7 @@
             <h4>
               <span>2024-08-29 @ 10:42:45</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389378"
                   >Comments</a
@@ -290,7 +506,7 @@
             <h4>
               <span>2024-08-29 @ 10:35:55</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389326"
                   >Comments</a
@@ -316,11 +532,11 @@
             <h4>
               <span>2024-08-29 @ 10:14:50</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">289</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389185"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -335,11 +551,11 @@
             <h4>
               <span>2024-08-29 @ 10:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389176"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -362,25 +578,6 @@
             </div>
           </section>
         </section>
-        <section id="41389126">
-          <h3>
-            <a class="item" href="https://languagelog.ldc.upenn.edu/nll/?p=73"
-              >Two Dots Too Many (2008)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-29 @ 10:04:43</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41389126"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41389000">
           <h3>
             <a
@@ -394,7 +591,7 @@
             <h4>
               <span>2024-08-29 @ 09:44:11</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389000"
                   >Comments</a
@@ -416,11 +613,11 @@
             <h4>
               <span>2024-08-29 @ 09:19:36</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41388888"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -437,7 +634,7 @@
             <h4>
               <span>2024-08-29 @ 09:06:17</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41388807"
                   >Comments</a
@@ -456,7 +653,7 @@
             <h4>
               <span>2024-08-29 @ 09:05:47</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41388805"
                   >Comments</a
@@ -475,7 +672,7 @@
             <h4>
               <span>2024-08-29 @ 07:42:45</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41388335"
                   >Comments</a
@@ -505,11 +702,11 @@
             <h4>
               <span>2024-08-29 @ 07:41:36</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41388326"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -542,7 +739,7 @@
             <h4>
               <span>2024-08-29 @ 06:27:36</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41387922"
                   >Comments</a
@@ -584,7 +781,7 @@
             <h4>
               <span>2024-08-29 @ 01:28:01</span
               ><span class="points-container"
-                >Points: <span class="points">1326</span></span
+                >Points: <span class="points">1336</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41386319"
                   >Comments</a
@@ -604,7 +801,7 @@
             <h4>
               <span>2024-08-28 @ 18:05:29</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">248</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41382335"
                   >Comments</a
@@ -623,7 +820,7 @@
             <h4>
               <span>2024-08-28 @ 17:01:15</span
               ><span class="points-container"
-                >Points: <span class="points">401</span></span
+                >Points: <span class="points">405</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41381598"
                   >Comments</a
@@ -644,33 +841,11 @@
             <h4>
               <span>2024-08-28 @ 11:24:23</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41378317"
                   >Comments</a
                 ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41356954">
-          <h3>
-            <a
-              class="item"
-              href="https://www.adventurekid.se/2015/05/if-you-love-something-set-it-free-akwf-waveforms-are-now-in-the-public-domain/"
-              >If you love something set it free – AKWF Waveforms now in public
-              domain (2015)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-26 @ 13:33:44</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41356954"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -690,7 +865,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41356666"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -725,131 +900,25 @@
             </div>
           </section>
         </section>
-        <section id="41355731">
+        <section id="41356196">
           <h3>
             <a
               class="item"
-              href="https://www.zdnet.com/article/linus-torvalds-talks-ai-rust-adoption-and-why-the-linux-kernel-is-the-only-thing-that-matters/"
-              >Linus Torvalds talks AI, Rust, &amp;amp; why Linux is the only
-              thing that matters</a
+              href="https://obsoletesony.substack.com/p/complete-visual-guide-to-sony-clie"
+              >Complete Visual Guide to Sony CLIÉ (2000-2004)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-08-26 @ 10:24:35</span
+              <span>2024-08-26 @ 11:42:44</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41355731"
+                ><a href="https://news.ycombinator.com/item?id=41356196"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41347422">
-          <h3>
-            <a class="item" href="https://github.com/goshops-com/clipshare"
-              >Open-source alternative to Loom that only requires S3</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-25 @ 14:10:22</span
-              ><span class="points-container"
-                >Points: <span class="points">40</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41347422"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41347188">
-          <h3>
-            <a
-              class="item"
-              href="https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/"
-              >Google's new pipe syntax in SQL</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-25 @ 13:33:23</span
-              ><span class="points-container"
-                >Points: <span class="points">300</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41347188"
-                  >Comments</a
-                ><span class="descendants">: 153</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41338124">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/Explosion-Scratch/firebuilder"
-              >Show HN: Firebuilder: A complete Firefox customization tool</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-24 @ 13:22:00</span
-              ><span class="points-container"
-                >Points: <span class="points">112</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41338124"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                My tool (firebuilder) has an interactive CLI to select what to
-                apply, (e.g. firefox hardening, custom CSS, etc) then creates a
-                brand new profile folder for you. You can also seamlessly port
-                from an existing profile folder to preserve all of your history,
-                bookmarks, extensions, etc.
-              </p>
-              <p>
-                For those more interested in using it programmatically
-                everything is compiled from a config.json file which contains
-                all the config necessary to build the said firefox profile. It
-                currently supports: - userChrome tweaks - user.js (usually
-                hardening related tweaks) - fx-autoconfig scripts - extending
-                existing profiles. You can copy custom files or presets like
-                history, bookmarks, extensions, etc
-              </p>
-              <p>
-                Also its defaults (if you just have a blank config.json) do the
-                following: - Apply hardening that removes telemetry, sponsors,
-                some mozilla features - Keeps the browser very usable, doesn't
-                remove unnecessary features or make things break - Adds vibrancy
-                for macOS
-              </p>
-              <p>
-                Firebuilder also supports whatever firefox tool you've been
-                currently working on. It can install custom features from any
-                git based repo, including downloading from releases, and keeping
-                resources as well (so even if your theme sets custom icons
-                you're still good!). Additionally if whatever you've created for
-                firefox has about:config based settings these can be defined in
-                the repo's json file as well.
-              </p>
-              <p>
-                The codebase is mainly JavaScript, and is then compiled and run
-                with Bun. I've intentionally tried to make it easy to add new
-                features via PR and easy to extend via configuration. See the
-                examples folder for lots of examples.
-              </p>
-              <p>
-                Feel free to give any feedback, ask questions, etc, and drop a
-                star if you like the project!
-              </p>
-            </div>
           </section>
         </section>
       </section>
