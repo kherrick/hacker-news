@@ -36,6 +36,7 @@
 * [2024-08-25, 18:03:29](https://news.ycombinator.com/item?id=41349589) - [How to verify boot firmware integrity if you prioritize neutralizing Intel ME?](https://news.ycombinator.com/item?id=41349589)
 * [2024-08-25, 18:03:21](https://news.ycombinator.com/item?id=41349585) - [Fossils are found all over, but what made them was a mystery](https://www.nytimes.com/2024/08/22/science/fossils-worms-bifungites-brazil.html)
 * [2024-08-25, 17:47:21](https://news.ycombinator.com/item?id=41349443) - [The art of programming and why I won't use LLM](https://kennethnym.com/blog/why-i-still-wont-use-llm/)
+* [2024-08-25, 17:42:03](https://news.ycombinator.com/item?id=41349392) - [Recursive Macros with C++20 __VA_OPT__](https://www.scs.stanford.edu/~dm/blog/va-opt.html)
 * [2024-08-25, 17:27:02](https://news.ycombinator.com/item?id=41349252) - [Fair Source licensing is the worst thing to happen to open source-definitely ma](https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/)
 * [2024-08-25, 17:23:16](https://news.ycombinator.com/item?id=41349215) - [The scalpel: From flint to zirconium-coated steel (2018)](https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2018/02/the-history-of-the-scalpel-from-flint-to-zirconium-coated-steel/)
 * [2024-08-25, 17:20:03](https://news.ycombinator.com/item?id=41349180) - [Can you convert a video to pure CSS?](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css)

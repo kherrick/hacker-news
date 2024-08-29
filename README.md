@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
-* [2024-08-29, 17:50:27](https://news.ycombinator.com/item?id=41393462) - [Rust Is Bad for Servers](https://kerkour.com/rust-is-bad-for-servers)
 * [2024-08-29, 17:50:23](https://news.ycombinator.com/item?id=41393458) - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
 * [2024-08-29, 17:29:03](https://news.ycombinator.com/item?id=41393218) - [MindsDB (YC W20) Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
 * [2024-08-29, 17:25:12](https://news.ycombinator.com/item?id=41393172) - [Judge Rules $400M Algorithmic System Illegally Denied People's Medicaid Benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
@@ -16,9 +15,9 @@
 * [2024-08-29, 14:28:34](https://news.ycombinator.com/item?id=41391177) - [A Java Language Cumulative Feature Rollup](http://blogs.newardassociates.com/blog/2024/java-cumulative-feature-rollup.html)
 * [2024-08-29, 14:09:46](https://news.ycombinator.com/item?id=41390999) - [GNU Screen 5.0 Released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can solar costs keep shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
-* [2024-08-29, 13:42:03](https://news.ycombinator.com/item?id=41390712) - [Floating points between zero and one](https://chadnauseam.com/coding/random/floating-points-between-zero-and-one)
 * [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
 * [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
+* [2024-08-29, 12:03:41](https://news.ycombinator.com/item?id=41389931) - [Low Cost Mini PCs](https://lowcostminipcs.com/)
 * [2024-08-29, 11:47:13](https://news.ycombinator.com/item?id=41389806) - [Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
 * [2024-08-29, 11:23:53](https://news.ycombinator.com/item?id=41389642) - [Web Design Museum](https://www.webdesignmuseum.org/)
 * [2024-08-29, 10:35:55](https://news.ycombinator.com/item?id=41389326) - [Show HN: turn videos into ASCII art (open source, js+canvas)](https://collidingscopes.github.io/ascii/)
@@ -29,6 +28,7 @@
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-26, 10:46:08](https://news.ycombinator.com/item?id=41355864) - [Unified Grid: How We Re-Architected Slack for Our Largest Customers](https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/)
 * [2024-08-25, 21:47:13](https://news.ycombinator.com/item?id=41351751) - [Japan's Real First Console? Bandai's TV Jack 5000](https://nicole.express/2024/tv-jack-and-tv-jill.html)
+* [2024-08-25, 17:42:03](https://news.ycombinator.com/item?id=41349392) - [Recursive Macros with C++20 __VA_OPT__](https://www.scs.stanford.edu/~dm/blog/va-opt.html)
 * [2024-08-25, 03:54:41](https://news.ycombinator.com/item?id=41344245) - [All Texts in Brooklyn](https://brooklyn.alltexts.nyc/)
 
 ## [Archives](archives/index.md)
