@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-08-29, 15:53:08",
+      "https://news.ycombinator.com/item?id=41392128"
+    ],
+    [
+      "Bypassing airport security via SQL injection",
+      "https://ian.sh/tsa"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 15:37:42",
       "https://news.ycombinator.com/item?id=41391931"
     ],
     [
       "Launch HN: Patchwork (YC W24) – Automatically add structured logs to your code",
       "https://news.ycombinator.com/item?id=41391931"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 15:33:09",
+      "https://news.ycombinator.com/item?id=41391868"
+    ],
+    [
+      "Judges Rule Big Tech's Free Ride on Section 230 Is Over",
+      "https://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-08-29, 12:46:13",
-      "https://news.ycombinator.com/item?id=41390249"
-    ],
-    [
-      "How Intel Missed the iPhone: The XScale Era",
-      "https://thechipletter.substack.com/p/how-intel-missed-the-iphone-xscale"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 12:43:12",
       "https://news.ycombinator.com/item?id=41390219"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-08-29, 07:41:36",
-      "https://news.ycombinator.com/item?id=41388326"
-    ],
-    [
-      "Computer scientists prove that heat destroys quantum entanglement",
-      "https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 07:01:10",
       "https://news.ycombinator.com/item?id=41388111"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-08-28, 11:24:23",
-      "https://news.ycombinator.com/item?id=41378317"
-    ],
-    [
-      "Deterministic Replay of QEMU Emulation",
-      "https://www.qemu.org/docs/master/system/replay.html"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 14:37:30",
       "https://news.ycombinator.com/item?id=41357572"
     ],
@@ -287,6 +277,16 @@
     [
       "Complete Visual Guide to Sony CLIÉ (2000-2004)",
       "https://obsoletesony.substack.com/p/complete-visual-guide-to-sony-clie"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 10:46:08",
+      "https://news.ycombinator.com/item?id=41355864"
+    ],
+    [
+      "Unified Grid: How We Re-Architected Slack for Our Largest Customers",
+      "https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/"
     ]
   ],
   [
