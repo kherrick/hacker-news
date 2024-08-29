@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-29, 01:35:09",
-      "https://news.ycombinator.com/item?id=41386362"
+      "2024-08-29, 02:22:10",
+      "https://news.ycombinator.com/item?id=41386630"
     ],
     [
-      "48% of NYC riders do not pay the bus fare",
-      "https://www.nytimes.com/2024/08/26/nyregion/nyc-bus-subway-fare-evasion.html"
+      "Docker-OSX image removed after Apple reports copyright infringement",
+      "https://github.com/sickcodes/Docker-OSX/issues/799"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-08-28, 06:25:05",
-      "https://news.ycombinator.com/item?id=41376558"
-    ],
-    [
-      "Boxxy puts bad Linux applications in a box with only their files",
-      "https://github.com/queer/boxxy"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 02:59:40",
       "https://news.ycombinator.com/item?id=41375548"
     ],
@@ -247,6 +237,16 @@
     [
       "Towards a true multi-cloud offering to deliver on broken promises",
       "https://www.scaleway.com/en/blog/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 14:01:58",
+      "https://news.ycombinator.com/item?id=41357188"
+    ],
+    [
+      "An SSR Performance Showdown",
+      "https://blog.platformatic.dev/an-ssr-performance-showdown"
     ]
   ],
   [
