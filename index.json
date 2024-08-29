@@ -1,32 +1,22 @@
 [
   [
     [
-      "2024-08-29, 00:35:45",
-      "https://news.ycombinator.com/item?id=41385987"
+      "2024-08-29, 01:35:09",
+      "https://news.ycombinator.com/item?id=41386362"
     ],
     [
-      "Fighting for fair competition, consumer choice, and a more helpful Google search",
-      "https://blog.yelp.com/news/yelp-v-google/"
+      "48% of NYC riders do not pay the bus fare",
+      "https://www.nytimes.com/2024/08/26/nyregion/nyc-bus-subway-fare-evasion.html"
     ]
   ],
   [
     [
-      "2024-08-28, 23:44:38",
-      "https://news.ycombinator.com/item?id=41385637"
+      "2024-08-29, 01:28:01",
+      "https://news.ycombinator.com/item?id=41386319"
     ],
     [
-      "Judge dismisses majority of GitHub Copilot copyright claims",
-      "https://lwn.net/Articles/987524/"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 23:32:31",
-      "https://news.ycombinator.com/item?id=41385546"
-    ],
-    [
-      "A Post by Guido van Rossum Removed for Violating Python Community Guidelines",
-      "https://discuss.python.org/t/should-we-consider-ranked-choice-voting-for-sc-elections/61880"
+      "Air Con: $1697 for an on/off switch",
+      "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/"
     ]
   ],
   [
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2024-08-28, 19:59:10",
-      "https://news.ycombinator.com/item?id=41383592"
-    ],
-    [
-      "Show HN: Repo2vec – an open-source library for chatting with any codebase",
-      "https://github.com/Storia-AI/repo2vec"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 19:13:51",
       "https://news.ycombinator.com/item?id=41383126"
     ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41382687"
     ],
     [
-      "Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways",
+      "Scaling Rails and Postgres to millions of users at Microsoft",
       "https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways"
     ]
   ],
@@ -191,12 +171,12 @@
   ],
   [
     [
-      "2024-08-28, 15:15:24",
-      "https://news.ycombinator.com/item?id=41380460"
+      "2024-08-28, 12:39:46",
+      "https://news.ycombinator.com/item?id=41378806"
     ],
     [
-      "Show HN: Shed Light on Your Go Binary Bloat with Go Size Analyzer",
-      "https://github.com/Zxilly/go-size-analyzer"
+      "Judge dismisses majority of GitHub Copilot copyright claims",
+      "https://www.developer-tech.com/news/judge-dismisses-majority-github-copilot-copyright-claims/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-08-28, 06:25:05",
+      "https://news.ycombinator.com/item?id=41376558"
+    ],
+    [
+      "Boxxy puts bad Linux applications in a box with only their files",
+      "https://github.com/queer/boxxy"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 02:59:40",
       "https://news.ycombinator.com/item?id=41375548"
     ],
@@ -247,6 +237,16 @@
     [
       "Microsoft donates the Mono Project to the Wine team",
       "https://www.mono-project.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 00:12:32",
+      "https://news.ycombinator.com/item?id=41363435"
+    ],
+    [
+      "Towards a true multi-cloud offering to deliver on broken promises",
+      "https://www.scaleway.com/en/blog/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/"
     ]
   ],
   [
