@@ -129,6 +129,113 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41391931">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41391931"
+              >Launch HN: Patchwork (YC W24) – Automatically add structured logs
+              to your code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-08-29 @ 15:37:42</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41391931"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://getpatchwork.io">https://getpatchwork.io</a>).
+              Patchwork automatically adds actionable structured logs to your
+              code. Big picture: we are building a next generation logging and
+              observability platform which gives engineers the rich debugging
+              context they need.
+              <p>
+                There’s a demo video (<a href="https://youtu.be/ObIepiXfVx0"
+                  >https://youtu.be/ObIepiXfVx0</a
+                >), as well as a demo^ instance with some results for you to
+                explore at
+                <a href="https://hackernews.getpatchwork.io"
+                  >https://hackernews.getpatchwork.io</a
+                >
+                (no sign-in required!) The demo shows the analysis and
+                improvement (against a style guide) of existing logs. It’s set
+                up for two OSS repositories,
+                <a href="https://github.com/elastic/cloud-on-k8s"
+                  >https://github.com/elastic/cloud-on-k8s</a
+                >
+                and our awesome friends at Glasskube (<a
+                  href="https://github.com/glasskube/glasskube"
+                  >https://github.com/glasskube/glasskube</a
+                >). We welcome suggestions of other OSS Go repositories that you
+                would like to see added!
+              </p>
+              <p>
+                Why we are building this: At our previous company, we relied
+                heavily on actionable, context-rich structured logs. They were
+                the unsexy but critical tool for managing complex software at
+                scale. When they’re implemented well, they allow you to
+                understand the application state when things break. Structured
+                logs are easier to search and run analytics on. The trouble is
+                that they are time-consuming to implement properly – if you’re
+                reading this, you know it’s a chore. We all know it’s usually an
+                SRE (like Alex) that finds out at 2 am that logs were added as
+                an afterthought. Unstructured and spammy –
+                <i>Error: Failed to do task.</i> Datadog made metrics easy; we
+                are creating that moment for logs.
+              </p>
+              <p>
+                We've grappled with some tough technical challenges to build our
+                product. First, identifying log statements in codebases where
+                logger symbols are inconsistently named or output directly to
+                stdout/stderr. We solved this with SCIP, indexing symbol
+                references at compile time. Next, we needed to provide the LLM
+                with method context and variable types to ensure we accurately
+                understand what the code is doing. This is achieved using
+                tree-sitter for parsing and SCIP for repo navigation. Finally,
+                we addressed the critical need to reason whether specific data
+                can/should be logged before bringing this all together in an
+                improved logging statement. We’re staring down the next
+                challenge – where should logging statements go in new code?
+              </p>
+              <p>
+                Refactoring the logs in existing code bases today is a manual
+                slog. Even finding the existing logging and
+                <i>printf</i> statements is tricky at scale. It’s possible to
+                rely on Copilot in VS Code or Cursor to help construct logs as
+                you write new code. However, there are many more reasoning steps
+                required than these tools are designed to do. They are general
+                purpose, zero-shot machines.
+              </p>
+              <p>
+                Our first goal is to reliably improve existing logging
+                statements (as in the demo). In the next couple of weeks we aim
+                to prove-out adding logs to new applications. Structured logs
+                provide downstream benefits when it comes to storage and query
+                time – our final goal is to build a storage layer that exploits
+                this.
+              </p>
+              <p>
+                Your honest feedback would mean a lot to us. We have a lot of
+                conviction that observability needs a shake up, and that going
+                back and getting the basics right is valuable. We’d love to hear
+                what you think works and doesn’t work in current approaches, and
+                whether Patchwork solves a problem for you. Chat with us on
+                Discord:
+                <a href="https://discord.gg/fkVTgX5s"
+                  >https://discord.gg/fkVTgX5s</a
+                >.
+              </p>
+              <p>
+                ^If you'd like to enrol additional repos and run analysis on
+                them, there's a magic link step.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="41391301">
           <h3>
             <a
@@ -141,7 +248,7 @@
             <h4>
               <span>2024-08-29 @ 14:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41391301"
                   >Comments</a
@@ -162,11 +269,11 @@
             <h4>
               <span>2024-08-29 @ 14:38:26</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41391267"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -183,7 +290,7 @@
             <h4>
               <span>2024-08-29 @ 14:28:34</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41391177"
                   >Comments</a
@@ -202,11 +309,11 @@
             <h4>
               <span>2024-08-29 @ 14:09:46</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390999"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -223,11 +330,11 @@
             <h4>
               <span>2024-08-29 @ 13:57:51</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390884"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -263,7 +370,7 @@
             <h4>
               <span>2024-08-29 @ 13:11:45</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390449"
                   >Comments</a
@@ -398,7 +505,7 @@
             <h4>
               <span>2024-08-29 @ 13:06:59</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390412"
                   >Comments</a
@@ -420,11 +527,11 @@
             <h4>
               <span>2024-08-29 @ 12:47:14</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390261"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -441,11 +548,11 @@
             <h4>
               <span>2024-08-29 @ 12:46:13</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390249"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -466,7 +573,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41390219"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -481,11 +588,11 @@
             <h4>
               <span>2024-08-29 @ 12:03:41</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389931"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
             <div class="text">
@@ -510,11 +617,11 @@
             <h4>
               <span>2024-08-29 @ 11:47:13</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389806"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -531,11 +638,11 @@
             <h4>
               <span>2024-08-29 @ 11:32:49</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389714"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -573,7 +680,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389326"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -595,11 +702,11 @@
             <h4>
               <span>2024-08-29 @ 10:14:50</span
               ><span class="points-container"
-                >Points: <span class="points">514</span></span
+                >Points: <span class="points">527</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389185"
                   >Comments</a
-                ><span class="descendants">: 198</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
           </section>
@@ -614,11 +721,11 @@
             <h4>
               <span>2024-08-29 @ 10:14:00</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41389176"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
             <div class="text">
@@ -654,32 +761,11 @@
             <h4>
               <span>2024-08-29 @ 09:19:36</span
               ><span class="points-container"
-                >Points: <span class="points">335</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41388888"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41388807">
-          <h3>
-            <a
-              class="item"
-              href="https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/"
-              >Superhuman Built an Engine to Find Product Market Fit (2018)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-08-29 @ 09:06:17</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41388807"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -698,7 +784,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41388805"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -716,11 +802,11 @@
             <h4>
               <span>2024-08-29 @ 07:41:36</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41388326"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -753,7 +839,7 @@
             <h4>
               <span>2024-08-29 @ 06:27:36</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41387922"
                   >Comments</a
@@ -774,11 +860,11 @@
             <h4>
               <span>2024-08-29 @ 01:28:01</span
               ><span class="points-container"
-                >Points: <span class="points">1501</span></span
+                >Points: <span class="points">1511</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41386319"
                   >Comments</a
-                ><span class="descendants">: 376</span></span
+                ><span class="descendants">: 380</span></span
               >
             </h4>
           </section>
@@ -816,11 +902,11 @@
             <h4>
               <span>2024-08-28 @ 11:24:23</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41378317"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -857,7 +943,7 @@
             <h4>
               <span>2024-08-26 @ 11:42:44</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41356196"
                   >Comments</a
@@ -878,7 +964,7 @@
             <h4>
               <span>2024-08-25 @ 21:47:13</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41351751"
                   >Comments</a
