@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-29, 17:29:03](https://news.ycombinator.com/item?id=41393218) - [MindsDB (YC W20) Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
-* [2024-08-29, 17:13:09](https://news.ycombinator.com/item?id=41393049) - [Paul Graham blocked me on X because I quoted Hacker News's guidelines](https://twitter.com/atdavidmurdoch/status/1829200559108509861)
+* [2024-08-29, 17:08:20](https://news.ycombinator.com/item?id=41393005) - [Show HN: A discovery-focused search engine for Hacker News](https://hn.trieve.ai/)
 * [2024-08-29, 17:03:28](https://news.ycombinator.com/item?id=41392962) - [Starlink's financial assets frozen in Brazil](https://twitter.com/realpfigueiredo/status/1829169146942370034)
 * [2024-08-29, 15:54:59](https://news.ycombinator.com/item?id=41392142) - [New 2GB Raspberry Pi 5 has 33% smaller die, 30% idle power savings](https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings)
 * [2024-08-29, 15:53:08](https://news.ycombinator.com/item?id=41392128) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
@@ -25,8 +25,8 @@
 * [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many (2008)](https://languagelog.ldc.upenn.edu/nll/?p=73)
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
+* [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
-* [2024-08-26, 11:42:44](https://news.ycombinator.com/item?id=41356196) - [Complete Visual Guide to Sony CLIÉ (2000-2004)](https://obsoletesony.substack.com/p/complete-visual-guide-to-sony-clie)
 * [2024-08-26, 10:46:08](https://news.ycombinator.com/item?id=41355864) - [Unified Grid: How We Re-Architected Slack for Our Largest Customers](https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/)
 * [2024-08-25, 21:47:13](https://news.ycombinator.com/item?id=41351751) - [Japan's Real First Console? Bandai's TV Jack 5000](https://nicole.express/2024/tv-jack-and-tv-jill.html)
 * [2024-08-25, 03:54:41](https://news.ycombinator.com/item?id=41344245) - [All Texts in Brooklyn](https://brooklyn.alltexts.nyc/)

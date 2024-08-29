@@ -6,6 +6,7 @@
 
 * [2024-08-29, 17:29:03](https://news.ycombinator.com/item?id=41393218) - [MindsDB (YC W20) Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
 * [2024-08-29, 17:13:09](https://news.ycombinator.com/item?id=41393049) - [Paul Graham blocked me on X because I quoted Hacker News's guidelines](https://twitter.com/atdavidmurdoch/status/1829200559108509861)
+* [2024-08-29, 17:08:20](https://news.ycombinator.com/item?id=41393005) - [Show HN: A discovery-focused search engine for Hacker News](https://hn.trieve.ai/)
 * [2024-08-29, 17:03:28](https://news.ycombinator.com/item?id=41392962) - [Starlink's financial assets frozen in Brazil](https://twitter.com/realpfigueiredo/status/1829169146942370034)
 * [2024-08-29, 17:00:47](https://news.ycombinator.com/item?id=41392939) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers)
 * [2024-08-29, 15:54:59](https://news.ycombinator.com/item?id=41392142) - [New 2GB Raspberry Pi 5 has 33% smaller die, 30% idle power savings](https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings)
