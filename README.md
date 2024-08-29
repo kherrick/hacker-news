@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 18:07:07](https://news.ycombinator.com/item?id=41393635) - [Airbnb banned me – how a ML model can misfire?](https://news.ycombinator.com/item?id=41393635)
 * [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
 * [2024-08-29, 17:50:23](https://news.ycombinator.com/item?id=41393458) - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
 * [2024-08-29, 17:32:23](https://news.ycombinator.com/item?id=41393252) - [100M Token Context Windows](https://magic.dev/blog/100m-token-context-windows)
@@ -18,7 +19,6 @@
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can solar costs keep shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
 * [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
 * [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
-* [2024-08-29, 12:03:41](https://news.ycombinator.com/item?id=41389931) - [Low Cost Mini PCs](https://lowcostminipcs.com/)
 * [2024-08-29, 11:47:13](https://news.ycombinator.com/item?id=41389806) - [Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
 * [2024-08-29, 11:23:53](https://news.ycombinator.com/item?id=41389642) - [Web Design Museum](https://www.webdesignmuseum.org/)
 * [2024-08-29, 10:35:55](https://news.ycombinator.com/item?id=41389326) - [Show HN: turn videos into ASCII art (open source, js+canvas)](https://collidingscopes.github.io/ascii/)
