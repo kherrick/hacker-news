@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-29, 18:07:07",
-      "https://news.ycombinator.com/item?id=41393635"
-    ],
-    [
-      "Airbnb banned me – how a ML model can misfire?",
-      "https://news.ycombinator.com/item?id=41393635"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 17:51:54",
       "https://news.ycombinator.com/item?id=41393475"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41393172"
     ],
     [
-      "Judge Rules $400M Algorithmic System Illegally Denied People's Medicaid Benefits",
+      "Judge rules $400M algorithmic system illegally denied Medicaid benefits",
       "https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41391412"
     ],
     [
-      "Chrome Is Entrenching Third-Party Cookies That Will Mislead Users",
+      "Chrome is entrenching third-party cookies that will mislead users",
       "https://brave.com/blog/related-website-sets/"
     ]
   ],
@@ -137,16 +127,6 @@
     [
       "Update on Llama adoption",
       "https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 14:28:34",
-      "https://news.ycombinator.com/item?id=41391177"
-    ],
-    [
-      "A Java Language Cumulative Feature Rollup",
-      "http://blogs.newardassociates.com/blog/2024/java-cumulative-feature-rollup.html"
     ]
   ],
   [
@@ -235,8 +215,18 @@
       "https://news.ycombinator.com/item?id=41389176"
     ],
     [
-      "Show HN: Homemade Automated Solar Concentrator",
+      "Show HN: Homemade automated solar concentrator",
       "https://github.com/remipch/solar_concentrator"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 10:04:43",
+      "https://news.ycombinator.com/item?id=41389126"
+    ],
+    [
+      "Two Dots Too Many (2008)",
+      "https://languagelog.ldc.upenn.edu/nll/?p=73"
     ]
   ],
   [
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2024-08-26, 18:05:39",
+      "https://news.ycombinator.com/item?id=41359914"
+    ],
+    [
+      "'Tchaikovsky's Empire' Review: Echoes of an Imperial Composer",
+      "https://www.wsj.com/arts-culture/books/tchaikovskys-empire-review-imperial-composer-e645dd3b"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 10:46:08",
       "https://news.ycombinator.com/item?id=41355864"
     ],
     [
-      "Unified Grid: How We Re-Architected Slack for Our Largest Customers",
+      "Unified Grid: How we re-architected Slack for our largest customers",
       "https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=41344245"
     ],
     [
-      "All Texts in Brooklyn",
+      "All text in Brooklyn",
       "https://brooklyn.alltexts.nyc/"
     ]
   ]
