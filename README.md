@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 14:42:03](https://news.ycombinator.com/item?id=41391301) - [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
 * [2024-08-29, 14:38:26](https://news.ycombinator.com/item?id=41391267) - [An update on Llama adoption](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
 * [2024-08-29, 14:09:46](https://news.ycombinator.com/item?id=41390999) - [GNU Screen 5.0 Released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can Solar Costs Keep Shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
@@ -25,7 +26,6 @@
 * [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-28, 22:00:21](https://news.ycombinator.com/item?id=41384900) - [This behavior is by design](https://blog.gingerbeardman.com/2024/08/28/this-behavior-is-by-design/)
-* [2024-08-28, 17:01:15](https://news.ycombinator.com/item?id=41381598) - [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
 * [2024-08-28, 11:24:23](https://news.ycombinator.com/item?id=41378317) - [Deterministic Replay of QEMU Emulation](https://www.qemu.org/docs/master/system/replay.html)
 * [2024-08-26, 12:54:03](https://news.ycombinator.com/item?id=41356666) - [Ask HN: Developer PC setup automations for company owned devices](https://news.ycombinator.com/item?id=41356666)
 * [2024-08-26, 11:42:44](https://news.ycombinator.com/item?id=41356196) - [Complete Visual Guide to Sony CLIÉ (2000-2004)](https://obsoletesony.substack.com/p/complete-visual-guide-to-sony-clie)
