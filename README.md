@@ -27,8 +27,8 @@
 * [2024-08-29, 10:14:50](https://news.ycombinator.com/item?id=41389185) - [OpenAI is good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
 * [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade automated solar concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
-* [2024-08-26, 12:28:20](https://news.ycombinator.com/item?id=41356474) - [OpenVMS x86_64 at the Edge](http://jamespreciado.a2hosted.com/)
 * [2024-08-26, 06:18:13](https://news.ycombinator.com/item?id=41354491) - [From Opium to Saffron, the Ancients Knew a Thing or Two About Drugs](https://www.thenation.com/article/society/ancient-world-drugs/)
+* [2024-08-25, 17:59:50](https://news.ycombinator.com/item?id=41349554) - [Build an Infinite Canvas](https://infinitecanvas.cc/)
 * [2024-08-25, 17:22:06](https://news.ycombinator.com/item?id=41349198) - [Rescuing songs that record labels forgot existed](https://www.bbc.co.uk/news/articles/cgl7ld1glk3o)
 
 ## [Archives](archives/index.md)

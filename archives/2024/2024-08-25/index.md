@@ -35,6 +35,7 @@
 * [2024-08-25, 18:58:19](https://news.ycombinator.com/item?id=41350151) - [An AWS IAM Security Tooling Reference](https://ramimac.me/aws-iam-tools-2024)
 * [2024-08-25, 18:03:29](https://news.ycombinator.com/item?id=41349589) - [How to verify boot firmware integrity if you prioritize neutralizing Intel ME?](https://news.ycombinator.com/item?id=41349589)
 * [2024-08-25, 18:03:21](https://news.ycombinator.com/item?id=41349585) - [Fossils are found all over, but what made them was a mystery](https://www.nytimes.com/2024/08/22/science/fossils-worms-bifungites-brazil.html)
+* [2024-08-25, 17:59:50](https://news.ycombinator.com/item?id=41349554) - [Build an Infinite Canvas](https://infinitecanvas.cc/)
 * [2024-08-25, 17:47:21](https://news.ycombinator.com/item?id=41349443) - [The art of programming and why I won't use LLM](https://kennethnym.com/blog/why-i-still-wont-use-llm/)
 * [2024-08-25, 17:42:03](https://news.ycombinator.com/item?id=41349392) - [Recursive Macros with C++20 __VA_OPT__](https://www.scs.stanford.edu/~dm/blog/va-opt.html)
 * [2024-08-25, 17:27:02](https://news.ycombinator.com/item?id=41349252) - [Fair Source licensing is the worst thing to happen to open source-definitely ma](https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/)
