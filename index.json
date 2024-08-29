@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-29, 08:25:13",
+      "https://news.ycombinator.com/item?id=41388557"
+    ],
+    [
+      "Show HN: A directory to find open source AI projects easier",
+      "https://www.aiexh.com/en"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 07:42:45",
+      "https://news.ycombinator.com/item?id=41388335"
+    ],
+    [
+      "Show HN: LLM-Term – Simple Rust-based CLI assist tool",
+      "https://github.com/dh1011/llm-term"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 07:41:36",
+      "https://news.ycombinator.com/item?id=41388326"
+    ],
+    [
+      "Computer Scientists Prove That Heat Destroys Entanglement",
+      "https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 07:01:10",
       "https://news.ycombinator.com/item?id=41388111"
     ],
@@ -37,16 +67,6 @@
     [
       "What Life Means to Einstein (1929) [pdf]",
       "https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 02:34:48",
-      "https://news.ycombinator.com/item?id=41386697"
-    ],
-    [
-      "FreeBSD considers Rust in the base system",
-      "https://lwn.net/Articles/985210/"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2024-08-28, 20:20:04",
-      "https://news.ycombinator.com/item?id=41383843"
-    ],
-    [
-      "What Is Post-Quantum Cryptography? – NIST",
-      "https://www.nist.gov/cybersecurity/what-post-quantum-cryptography"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 18:46:50",
       "https://news.ycombinator.com/item?id=41382828"
     ],
     [
       "The Future of TLA+ [pdf]",
       "https://lamport.azurewebsites.net/tla/future.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 18:35:13",
-      "https://news.ycombinator.com/item?id=41382699"
-    ],
-    [
-      "The 4-chan Go programmer",
-      "https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-08-28, 11:49:32",
-      "https://news.ycombinator.com/item?id=41378478"
-    ],
-    [
-      "Typing lists and tuples in Elixir",
-      "https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 11:42:02",
       "https://news.ycombinator.com/item?id=41378428"
     ],
@@ -247,6 +237,16 @@
     [
       "Towards a true multi-cloud offering to deliver on broken promises",
       "https://www.scaleway.com/en/blog/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 13:33:44",
+      "https://news.ycombinator.com/item?id=41356954"
+    ],
+    [
+      "If you love something set it free – AKWF Waveforms now in public domain (2015)",
+      "https://www.adventurekid.se/2015/05/if-you-love-something-set-it-free-akwf-waveforms-are-now-in-the-public-domain/"
     ]
   ],
   [
