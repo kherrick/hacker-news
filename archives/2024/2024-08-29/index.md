@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 03:43:45](https://news.ycombinator.com/item?id=41387062) - [Ask HN: What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
 * [2024-08-29, 03:43:38](https://news.ycombinator.com/item?id=41387060) - [Bosses Are Finding Ways to Pay Workers Less](https://www.wsj.com/lifestyle/careers/salary-workers-pay-cuts-2024-54101d66)
 * [2024-08-29, 03:04:00](https://news.ycombinator.com/item?id=41386848) - [Show HN: Are You Smarter Than a 5th Grader?](https://areusmarterthanafifthgrader.com)
 * [2024-08-29, 02:44:23](https://news.ycombinator.com/item?id=41386758) - [Brazil top court threatens to suspend X within 24 hours](https://apnews.com/article/brazil-top-court-elon-musk-de-moraes-028f7a9f65e3bf355518bbe9d1fbe564)

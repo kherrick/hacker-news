@@ -7,6 +7,7 @@
 * [2024-08-28, 23:44:38](https://news.ycombinator.com/item?id=41385637) - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
 * [2024-08-28, 23:32:31](https://news.ycombinator.com/item?id=41385546) - [A Post by Guido van Rossum Removed for Violating Python Community Guidelines](https://discuss.python.org/t/should-we-consider-ranked-choice-voting-for-sc-elections/61880)
 * [2024-08-28, 23:10:55](https://news.ycombinator.com/item?id=41385418) - [Telegram boss banned from leaving France in criminal probe](https://www.bbc.com/news/articles/c985ppy0znyo)
+* [2024-08-28, 22:38:13](https://news.ycombinator.com/item?id=41385205) - [RunCVM: An open-source Docker runtime for launching container images in VMs](https://github.com/newsnowlabs/runcvm)
 * [2024-08-28, 21:27:56](https://news.ycombinator.com/item?id=41384590) - [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
 * [2024-08-28, 21:00:17](https://news.ycombinator.com/item?id=41384316) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-08-28, 20:44:29](https://news.ycombinator.com/item?id=41384144) - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
