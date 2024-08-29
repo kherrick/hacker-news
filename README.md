@@ -22,7 +22,6 @@
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: design-time proof of full-scale architecture security properties (2022)](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDFs](https://github.com/seekbytes/IPA)
-* [2024-08-28, 06:25:05](https://news.ycombinator.com/item?id=41376558) - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion models are real-time game engines](https://gamengen.github.io)
 * [2024-08-27, 18:34:09](https://news.ycombinator.com/item?id=41371106) - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 * [2024-08-27, 00:12:32](https://news.ycombinator.com/item?id=41363435) - [Towards a true multi-cloud offering to deliver on broken promises](https://www.scaleway.com/en/blog/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/)
@@ -30,6 +29,7 @@
 * [2024-08-26, 11:37:41](https://news.ycombinator.com/item?id=41356165) - [What's New in SQLAlchemy 2.1?](https://docs.sqlalchemy.org/en/21/changelog/migration_21.html)
 * [2024-08-25, 15:02:04](https://news.ycombinator.com/item?id=41347789) - [Monumental architecture in Atlantic Europe: fifth-millennium BC enclosure](https://www.cambridge.org/core/journals/antiquity/article/emergence-of-monumental-architecture-in-atlantic-europe-a-fortified-fifthmillennium-bc-enclosure-in-western-france/8ED741E657BCBE5522E7EC273F7D697D)
 * [2024-08-25, 13:33:23](https://news.ycombinator.com/item?id=41347188) - [Google's New Pipe Syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
+* [2024-08-24, 13:59:15](https://news.ycombinator.com/item?id=41338363) - [A Video Game Dynamo with Ideas Always Swirling](https://www.nytimes.com/2024/08/22/arts/xalavier-nelson-strange-scaffold.html)
 
 ## [Archives](archives/index.md)
 
