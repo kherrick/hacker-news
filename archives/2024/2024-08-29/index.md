@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
+* [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
+* [2024-08-29, 12:47:14](https://news.ycombinator.com/item?id=41390261) - [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+* [2024-08-29, 12:46:13](https://news.ycombinator.com/item?id=41390249) - [How Intel Missed the iPhone: The XScale Era](https://thechipletter.substack.com/p/how-intel-missed-the-iphone-xscale)
 * [2024-08-29, 12:43:12](https://news.ycombinator.com/item?id=41390219) - [Meta's Threads enables Fediverse replies and likes](https://blog.karliner.net/posts/threads-enables-fediverse-replies/)
 * [2024-08-29, 12:29:07](https://news.ycombinator.com/item?id=41390094) - [Major Sites Are Saying No to Apple's AI Scraping](https://www.wired.com/story/applebot-extended-apple-ai-scraping/)
 * [2024-08-29, 12:03:41](https://news.ycombinator.com/item?id=41389931) - [Show HN: Low Cost Mini PCs](https://lowcostminipcs.com/)
 * [2024-08-29, 11:47:13](https://news.ycombinator.com/item?id=41389806) - [Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
+* [2024-08-29, 11:33:19](https://news.ycombinator.com/item?id=41389718) - [Show HN: Convert Mp4 to Wav in Browser](https://mp4wav.com)
 * [2024-08-29, 11:31:24](https://news.ycombinator.com/item?id=41389705) - [KDE Asking for Donations](https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/)
 * [2024-08-29, 11:23:53](https://news.ycombinator.com/item?id=41389642) - [Web Design Museum](https://www.webdesignmuseum.org/)
 * [2024-08-29, 10:42:45](https://news.ycombinator.com/item?id=41389378) - [The first snapshot of Hacker News on Archive.org](https://web.archive.org/web/20070221033032/https://news.ycombinator.com/)
