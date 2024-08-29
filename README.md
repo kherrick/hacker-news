@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 10:00:02](https://news.ycombinator.com/item?id=41389094) - [Is there any way HN can implement a 'paywall tag' to save wasted clicks?](https://news.ycombinator.com/item?id=41389094)
 * [2024-08-29, 09:44:11](https://news.ycombinator.com/item?id=41389000) - [Type 2 diabetes drug associated with 35% lower risk of dementia, study finds](https://www.theguardian.com/society/article/2024/aug/28/type-2-diabetes-drug-associated-with-35-lower-risk-of-dementia-study-finds)
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
 * [2024-08-29, 08:25:13](https://news.ycombinator.com/item?id=41388557) - [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)
@@ -7,7 +8,6 @@
 * [2024-08-29, 07:41:36](https://news.ycombinator.com/item?id=41388326) - [Computer Scientists Prove That Heat Destroys Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
 * [2024-08-29, 07:01:10](https://news.ycombinator.com/item?id=41388111) - [Windmill (YC S22) Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
 * [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
-* [2024-08-29, 05:34:02](https://news.ycombinator.com/item?id=41387676) - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
 * [2024-08-29, 05:32:49](https://news.ycombinator.com/item?id=41387674) - [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
 * [2024-08-29, 02:28:54](https://news.ycombinator.com/item?id=41386667) - [HDMI Forum rejects AMD's HDMI 2.1 open-source driver](https://www.tomshardware.com/pc-components/gpus/hdmi-forum-rejects-amds-hdmi-21-open-source-driver)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
@@ -27,8 +27,8 @@
 * [2024-08-26, 13:33:44](https://news.ycombinator.com/item?id=41356954) - [If you love something set it free – AKWF Waveforms now in public domain (2015)](https://www.adventurekid.se/2015/05/if-you-love-something-set-it-free-akwf-waveforms-are-now-in-the-public-domain/)
 * [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant (2017)](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
 * [2024-08-25, 15:02:04](https://news.ycombinator.com/item?id=41347789) - [Monumental architecture in Atlantic Europe: fifth-millennium BC enclosure](https://www.cambridge.org/core/journals/antiquity/article/emergence-of-monumental-architecture-in-atlantic-europe-a-fortified-fifthmillennium-bc-enclosure-in-western-france/8ED741E657BCBE5522E7EC273F7D697D)
+* [2024-08-25, 14:10:22](https://news.ycombinator.com/item?id=41347422) - [An incredibly simple, open-source alternative to Loom that only requires S3](https://github.com/goshops-com/clipshare)
 * [2024-08-25, 13:33:23](https://news.ycombinator.com/item?id=41347188) - [Google's new pipe syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
-* [2024-08-24, 13:59:15](https://news.ycombinator.com/item?id=41338363) - [A Video Game Dynamo with Ideas Always Swirling](https://www.nytimes.com/2024/08/22/arts/xalavier-nelson-strange-scaffold.html)
 * [2024-08-24, 13:22:00](https://news.ycombinator.com/item?id=41338124) - [Show HN: Firebuilder: A complete Firefox customization tool](https://github.com/Explosion-Scratch/firebuilder)
 
 ## [Archives](archives/index.md)
