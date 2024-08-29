@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-29, 17:29:03",
+      "https://news.ycombinator.com/item?id=41393218"
+    ],
+    [
+      "MindsDB (YC W20) Is Hiring",
+      "https://job-boards.greenhouse.io/mindsdb/jobs/4429903007"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 17:13:09",
+      "https://news.ycombinator.com/item?id=41393049"
+    ],
+    [
+      "Paul Graham blocked me on X because I quoted Hacker News's guidelines",
+      "https://twitter.com/atdavidmurdoch/status/1829200559108509861"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 17:03:28",
+      "https://news.ycombinator.com/item?id=41392962"
+    ],
+    [
+      "Starlink's financial assets frozen in Brazil",
+      "https://twitter.com/realpfigueiredo/status/1829169146942370034"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 15:54:59",
       "https://news.ycombinator.com/item?id=41392142"
     ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41391301"
     ],
     [
-      "From Julia to Rust",
+      "From Julia to Rust (2021)",
       "https://miguelraz.github.io/blog/juliatorust/index.html"
     ]
   ],
@@ -137,16 +167,6 @@
     [
       "How I learned to stop worrying and love userspace networking",
       "https://friendshipcastle.zip/blog/glaceon"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 12:43:12",
-      "https://news.ycombinator.com/item?id=41390219"
-    ],
-    [
-      "Threads Enables Fediverse Replies",
-      "https://blog.karliner.net/posts/threads-enables-fediverse-replies/"
     ]
   ],
   [
@@ -231,42 +251,12 @@
   ],
   [
     [
-      "2024-08-29, 07:01:10",
-      "https://news.ycombinator.com/item?id=41388111"
-    ],
-    [
-      "Windmill (YC S22) Hiring Rust and TypeScript Eng #3 in Paris",
-      "https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 06:27:36",
-      "https://news.ycombinator.com/item?id=41387922"
-    ],
-    [
-      "Docusaurus – Build optimized websites quickly, focus on your content",
-      "https://docusaurus.io/"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 01:28:01",
       "https://news.ycombinator.com/item?id=41386319"
     ],
     [
       "Air Con: $1697 for an on/off switch",
       "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 14:37:30",
-      "https://news.ycombinator.com/item?id=41357572"
-    ],
-    [
-      "Exploiting column chunks for faster ingestion and lower memory use",
-      "https://rerun.io/blog/column-chunks"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Japan's Real First Console? Bandai's TV Jack 5000",
       "https://nicole.express/2024/tv-jack-and-tv-jill.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 03:54:41",
+      "https://news.ycombinator.com/item?id=41344245"
+    ],
+    [
+      "All Texts in Brooklyn",
+      "https://brooklyn.alltexts.nyc/"
     ]
   ]
 ]
