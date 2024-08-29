@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 10:42:45](https://news.ycombinator.com/item?id=41389378) - [The first snapshot of Hacker News on Archive.org](https://web.archive.org/web/20070221033032/https://news.ycombinator.com/)
 * [2024-08-29, 10:35:55](https://news.ycombinator.com/item?id=41389326) - [Show HN: turn videos into ASCII art (open source, js+canvas)](https://collidingscopes.github.io/ascii/)
+* [2024-08-29, 10:14:50](https://news.ycombinator.com/item?id=41389185) - [OpenAI is shockingly good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
 * [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many – a tragic consequence of the failure to localize cell phones](https://languagelog.ldc.upenn.edu/nll/?p=73)
 * [2024-08-29, 10:00:02](https://news.ycombinator.com/item?id=41389094) - [Is there any way HN can implement a 'paywall tag' to save wasted clicks?](https://news.ycombinator.com/item?id=41389094)
 * [2024-08-29, 09:44:11](https://news.ycombinator.com/item?id=41389000) - [Type 2 diabetes drug associated with 35% lower risk of dementia, study finds](https://www.theguardian.com/society/article/2024/aug/28/type-2-diabetes-drug-associated-with-35-lower-risk-of-dementia-study-finds)
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
+* [2024-08-29, 09:06:17](https://news.ycombinator.com/item?id=41388807) - [Superhuman Built an Engine to Find Product Market Fit (2018)](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+* [2024-08-29, 09:05:47](https://news.ycombinator.com/item?id=41388805) - [I spent an evening on a fictitious web](https://paul.kinlan.me/fictitious-web/)
 * [2024-08-29, 08:25:13](https://news.ycombinator.com/item?id=41388557) - [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)
 * [2024-08-29, 07:42:45](https://news.ycombinator.com/item?id=41388335) - [Show HN: LLM-Term – Simple Rust-based CLI assist tool](https://github.com/dh1011/llm-term)
 * [2024-08-29, 07:41:36](https://news.ycombinator.com/item?id=41388326) - [Computer Scientists Prove That Heat Destroys Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
