@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:00:51](https://news.ycombinator.com/item?id=41395226) - [Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer)
+* [2024-08-29, 20:42:18](https://news.ycombinator.com/item?id=41395050) - [Hawai'i-Issued Real IDs Can Be Added to Apple Wallet Beginning August 28](https://hidot.hawaii.gov/blog/2024/08/28/hawai%ca%bbi-issued-real-ids-can-be-added-to-apple-wallet-beginning-august-28/)
 * [2024-08-29, 20:10:02](https://news.ycombinator.com/item?id=41394797) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [2024-08-29, 19:48:25](https://news.ycombinator.com/item?id=41394604) - [Smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471)
 * [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
@@ -20,16 +22,14 @@
 * [2024-08-29, 12:46:13](https://news.ycombinator.com/item?id=41390249) - [How Intel Missed the iPhone: The XScale Era](https://thechipletter.substack.com/p/how-intel-missed-the-iphone-xscale)
 * [2024-08-29, 11:32:49](https://news.ycombinator.com/item?id=41389714) - [Memos: stick private notes on your email](https://www.fastmail.com/blog/introducing-memos/)
 * [2024-08-29, 11:23:53](https://news.ycombinator.com/item?id=41389642) - [Web Design Museum](https://www.webdesignmuseum.org/)
-* [2024-08-29, 10:35:55](https://news.ycombinator.com/item?id=41389326) - [Show HN: turn videos into ASCII art (open source, js+canvas)](https://collidingscopes.github.io/ascii/)
 * [2024-08-29, 10:14:50](https://news.ycombinator.com/item?id=41389185) - [OpenAI is good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
 * [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade automated solar concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many (2008)](https://languagelog.ldc.upenn.edu/nll/?p=73)
 * [2024-08-29, 05:32:49](https://news.ycombinator.com/item?id=41387674) - [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
+* [2024-08-26, 12:31:46](https://news.ycombinator.com/item?id=41356494) - [Frank Lloyd Wright's Only Skyscraper Is Heading to Auction](https://www.smithsonianmag.com/smart-news/frank-lloyd-wrights-only-skyscraper-is-heading-to-auction-180984964/)
 * [2024-08-26, 12:28:20](https://news.ycombinator.com/item?id=41356474) - [OpenVMS x86_64 at the Edge](http://jamespreciado.a2hosted.com/)
 * [2024-08-25, 17:22:06](https://news.ycombinator.com/item?id=41349198) - [Rescuing songs that record labels forgot existed](https://www.bbc.co.uk/news/articles/cgl7ld1glk3o)
-* [2024-08-25, 03:54:41](https://news.ycombinator.com/item?id=41344245) - [All text in Brooklyn](https://brooklyn.alltexts.nyc/)
-* [2024-08-24, 22:05:55](https://news.ycombinator.com/item?id=41342078) - [Shufflecake: Plausible deniability for hidden filesystems on Linux (2023)](https://eprint.iacr.org/2023/1529)
 
 ## [Archives](archives/index.md)
 

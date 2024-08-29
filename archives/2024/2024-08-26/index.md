@@ -68,6 +68,7 @@
 * [2024-08-26, 12:54:03](https://news.ycombinator.com/item?id=41356666) - [Ask HN: Developer PC setup automations for company owned devices](https://news.ycombinator.com/item?id=41356666)
 * [2024-08-26, 12:49:27](https://news.ycombinator.com/item?id=41356632) - [Love Them or Hate Them, This Couple Reign in Russian Literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
 * [2024-08-26, 12:37:32](https://news.ycombinator.com/item?id=41356528) - [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
+* [2024-08-26, 12:31:46](https://news.ycombinator.com/item?id=41356494) - [Frank Lloyd Wright's Only Skyscraper Is Heading to Auction](https://www.smithsonianmag.com/smart-news/frank-lloyd-wrights-only-skyscraper-is-heading-to-auction-180984964/)
 * [2024-08-26, 12:30:09](https://news.ycombinator.com/item?id=41356484) - [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-26, 12:30:03](https://news.ycombinator.com/item?id=41356483) - [US dismantles laptop farm used by undercover North Korean IT workers](https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/)
 * [2024-08-26, 12:28:20](https://news.ycombinator.com/item?id=41356474) - [OpenVMS x86_64 at the Edge](http://jamespreciado.a2hosted.com/)

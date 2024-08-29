@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:00:51](https://news.ycombinator.com/item?id=41395226) - [Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer)
+* [2024-08-29, 20:42:18](https://news.ycombinator.com/item?id=41395050) - [Hawai'i-Issued Real IDs Can Be Added to Apple Wallet Beginning August 28](https://hidot.hawaii.gov/blog/2024/08/28/hawai%ca%bbi-issued-real-ids-can-be-added-to-apple-wallet-beginning-august-28/)
 * [2024-08-29, 20:10:02](https://news.ycombinator.com/item?id=41394797) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [2024-08-29, 19:48:25](https://news.ycombinator.com/item?id=41394604) - [Smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471)
 * [2024-08-29, 18:07:07](https://news.ycombinator.com/item?id=41393635) - [Airbnb banned me – how a ML model can misfire?](https://news.ycombinator.com/item?id=41393635)
