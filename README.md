@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-29, 10:00:02](https://news.ycombinator.com/item?id=41389094) - [Is there any way HN can implement a 'paywall tag' to save wasted clicks?](https://news.ycombinator.com/item?id=41389094)
+* [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
+* [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many – a tragic consequence of the failure to localize cell phones](https://languagelog.ldc.upenn.edu/nll/?p=73)
 * [2024-08-29, 09:44:11](https://news.ycombinator.com/item?id=41389000) - [Type 2 diabetes drug associated with 35% lower risk of dementia, study finds](https://www.theguardian.com/society/article/2024/aug/28/type-2-diabetes-drug-associated-with-35-lower-risk-of-dementia-study-finds)
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
 * [2024-08-29, 08:25:13](https://news.ycombinator.com/item?id=41388557) - [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)
@@ -19,7 +20,6 @@
 * [2024-08-28, 18:05:29](https://news.ycombinator.com/item?id=41382335) - [Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
 * [2024-08-28, 17:01:15](https://news.ycombinator.com/item?id=41381598) - [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
 * [2024-08-28, 16:58:16](https://news.ycombinator.com/item?id=41381569) - [Panasonic Toughbook 40](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40)
-* [2024-08-28, 15:48:02](https://news.ycombinator.com/item?id=41380814) - [Show HN: Claude Artifacts but creating real web apps](https://gptengineer.app)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: design-time proof of full-scale architecture security properties (2022)](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 11:24:23](https://news.ycombinator.com/item?id=41378317) - [Deterministic Replay of QEMU Emulation](https://www.qemu.org/docs/master/system/replay.html)
 * [2024-08-28, 02:59:40](https://news.ycombinator.com/item?id=41375548) - [Diffusion models are real-time game engines](https://gamengen.github.io)

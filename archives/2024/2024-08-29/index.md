@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
+* [2024-08-29, 10:04:43](https://news.ycombinator.com/item?id=41389126) - [Two Dots Too Many – a tragic consequence of the failure to localize cell phones](https://languagelog.ldc.upenn.edu/nll/?p=73)
 * [2024-08-29, 10:00:02](https://news.ycombinator.com/item?id=41389094) - [Is there any way HN can implement a 'paywall tag' to save wasted clicks?](https://news.ycombinator.com/item?id=41389094)
 * [2024-08-29, 09:44:11](https://news.ycombinator.com/item?id=41389000) - [Type 2 diabetes drug associated with 35% lower risk of dementia, study finds](https://www.theguardian.com/society/article/2024/aug/28/type-2-diabetes-drug-associated-with-35-lower-risk-of-dementia-study-finds)
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
