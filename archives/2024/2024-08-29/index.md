@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 21:44:44](https://news.ycombinator.com/item?id=41395591) - [Ever used Google Chrome in incognito mode? You could be entitled to up to $5k](https://bivens.plaintip.com/index.php/google-incognito/)
 * [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:00:51](https://news.ycombinator.com/item?id=41395226) - [Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer)
 * [2024-08-29, 20:42:18](https://news.ycombinator.com/item?id=41395050) - [Hawai'i-Issued Real IDs Can Be Added to Apple Wallet Beginning August 28](https://hidot.hawaii.gov/blog/2024/08/28/hawai%ca%bbi-issued-real-ids-can-be-added-to-apple-wallet-beginning-august-28/)
