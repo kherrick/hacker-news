@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-29, 05:34:02](https://news.ycombinator.com/item?id=41387676) - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
 * [2024-08-29, 04:50:24](https://news.ycombinator.com/item?id=41387436) - [Telegram Founder Charged with Wide Range of Crimes in France](https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html)
-* [2024-08-29, 03:43:45](https://news.ycombinator.com/item?id=41387062) - [Ask HN: What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
 * [2024-08-29, 02:34:48](https://news.ycombinator.com/item?id=41386697) - [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
 * [2024-08-29, 02:28:54](https://news.ycombinator.com/item?id=41386667) - [HDMI Forum rejects AMD's HDMI 2.1 open-source driver](https://www.tomshardware.com/pc-components/gpus/hdmi-forum-rejects-amds-hdmi-21-open-source-driver)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
