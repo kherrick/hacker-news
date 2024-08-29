@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure has been archived](https://github.com/google/closure-library)
+* [2024-08-29, 22:21:55](https://news.ycombinator.com/item?id=41395921) - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+* [2024-08-29, 22:18:39](https://news.ycombinator.com/item?id=41395884) - [JPMorgan's Python training for business analysts and traders](https://github.com/jpmorganchase/python-training)
 * [2024-08-29, 21:44:44](https://news.ycombinator.com/item?id=41395591) - [Ever used Google Chrome in incognito mode? You could be entitled to up to $5k](https://bivens.plaintip.com/index.php/google-incognito/)
 * [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:00:51](https://news.ycombinator.com/item?id=41395226) - [Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer)
