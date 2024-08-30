@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-30, 01:00:26](https://news.ycombinator.com/item?id=41396868) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
+* [2024-08-30, 00:37:46](https://news.ycombinator.com/item?id=41396745) - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 * [2024-08-30, 00:15:51](https://news.ycombinator.com/item?id=41396641) - [I'm blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
 * [2024-08-29, 23:46:25](https://news.ycombinator.com/item?id=41396501) - [Visit Bletchley Park](https://bletchleypark.org.uk/)
 * [2024-08-29, 23:43:27](https://news.ycombinator.com/item?id=41396487) - [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
@@ -11,9 +12,9 @@
 * [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure Library has been archived](https://github.com/google/closure-library)
 * [2024-08-29, 22:21:55](https://news.ycombinator.com/item?id=41395921) - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 * [2024-08-29, 22:18:39](https://news.ycombinator.com/item?id=41395884) - [JPMorgan's Python training for business analysts and traders](https://github.com/jpmorganchase/python-training)
+* [2024-08-29, 21:45:11](https://news.ycombinator.com/item?id=41395601) - [Californians can now add their mobile driver's license to Google Wallet](https://www.gov.ca.gov/2024/08/23/californians-can-now-add-their-mobile-drivers-license-to-google-wallet/)
 * [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 20:10:02](https://news.ycombinator.com/item?id=41394797) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
-* [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
 * [2024-08-29, 17:50:23](https://news.ycombinator.com/item?id=41393458) - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
 * [2024-08-29, 17:25:12](https://news.ycombinator.com/item?id=41393172) - [Judge rules $400M algorithmic system illegally denied Medicaid benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
 * [2024-08-29, 17:08:20](https://news.ycombinator.com/item?id=41393005) - [Show HN: A discovery-focused search engine for Hacker News](https://hn.trieve.ai/)
@@ -26,10 +27,9 @@
 * [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
 * [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
 * [2024-08-29, 10:14:50](https://news.ycombinator.com/item?id=41389185) - [OpenAI is good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
-* [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade automated solar concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
-* [2024-08-26, 06:18:13](https://news.ycombinator.com/item?id=41354491) - [From Opium to Saffron, the Ancients Knew a Thing or Two About Drugs](https://www.thenation.com/article/society/ancient-world-drugs/)
 * [2024-08-25, 17:59:50](https://news.ycombinator.com/item?id=41349554) - [Build an Infinite Canvas](https://infinitecanvas.cc/)
+* [2024-08-25, 16:53:28](https://news.ycombinator.com/item?id=41348869) - [Colorful Ribbon Diagrams Became the Face of Proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 
 ## [Archives](archives/index.md)
 

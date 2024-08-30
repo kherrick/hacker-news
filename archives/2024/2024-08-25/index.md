@@ -45,6 +45,7 @@
 * [2024-08-25, 17:19:23](https://news.ycombinator.com/item?id=41349172) - [Application Without Application](https://github.com/SuperMicha/appless_platform/wiki/Application-without-application)
 * [2024-08-25, 17:05:54](https://news.ycombinator.com/item?id=41349020) - [Programming with ChatGPT](https://henrikwarne.com/2024/08/25/programming-with-chatgpt/)
 * [2024-08-25, 16:53:44](https://news.ycombinator.com/item?id=41348874) - [Bananas almost went extinct 70 years ago – Now a deadly fungus is trying again](https://studyfinds.org/bananas-extinct-deadly-fungus/)
+* [2024-08-25, 16:53:28](https://news.ycombinator.com/item?id=41348869) - [Colorful Ribbon Diagrams Became the Face of Proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 * [2024-08-25, 16:52:14](https://news.ycombinator.com/item?id=41348844) - [Linux Pipes Are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
 * [2024-08-25, 16:37:59](https://news.ycombinator.com/item?id=41348683) - [Man Arrested for Creating Child Porn Using AI](https://futurism.com/the-byte/man-arrested-csam-ai)
 * [2024-08-25, 16:35:52](https://news.ycombinator.com/item?id=41348659) - [Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing](https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311)
