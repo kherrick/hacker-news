@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
 * [2024-08-30, 17:31:30](https://news.ycombinator.com/item?id=41402832) - [Motion (YC W20) Is Hiring TypeScript Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2024-08-30, 17:03:24](https://news.ycombinator.com/item?id=41402581) - [The Most Dangerous Email (to my career) I've Sent](https://www.notyourlanguage.com/post/scariest_email/)
 * [2024-08-30, 17:00:42](https://news.ycombinator.com/item?id=41402559) - [Blueprint Bryan Johnson Is Hiring Developers](https://www.ycombinator.com/companies/eat-blueprint/jobs/UcjLc1R-software-developer)
 * [2024-08-30, 16:45:37](https://news.ycombinator.com/item?id=41402418) - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
 * [2024-08-30, 16:34:57](https://news.ycombinator.com/item?id=41402313) - [Telegram as an Independent Intelligence Agency](https://maxread.substack.com/p/telegram-as-an-independent-intelligence)
