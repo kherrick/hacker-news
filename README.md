@@ -15,6 +15,7 @@
 * [2024-08-30, 07:06:34](https://news.ycombinator.com/item?id=41398351) - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
 * [2024-08-30, 04:59:58](https://news.ycombinator.com/item?id=41397847) - [Tabbed out on the Oregon Trail](https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail)
 * [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
+* [2024-08-28, 23:42:55](https://news.ycombinator.com/item?id=41385625) - [The Generational Transition to Programmable Cryptography](https://0xparc.org/blog/programmable-cryptography-1)
 * [2024-08-28, 14:42:05](https://news.ycombinator.com/item?id=41380065) - [Show HN: A somewhat faster, more lightweight, ripgrep-inspired alternative](https://github.com/alexpasmantier/grip-grab)
 * [2024-08-28, 14:26:50](https://news.ycombinator.com/item?id=41379902) - [There is only one amphibian emoji](https://wonger.dev/posts/emoji-animals)
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
@@ -28,7 +29,6 @@
 * [2024-08-26, 15:50:39](https://news.ycombinator.com/item?id=41358389) - [The Bug in the Computer Bug Story (2022)](https://daily.jstor.org/the-bug-in-the-computer-bug-story/)
 * [2024-08-26, 14:22:38](https://news.ycombinator.com/item?id=41357409) - [Lem: Emacs-like editor written in Common Lisp](https://lem-project.github.io/#)
 * [2024-08-26, 13:54:08](https://news.ycombinator.com/item?id=41357123) - [Leader Election with S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
-* [2024-08-26, 13:46:15](https://news.ycombinator.com/item?id=41357056) - [A brief interview with SandDance creator Steven Drucker](https://pldb.io/blog/stevenDrucker.html)
 * [2024-08-26, 13:11:07](https://news.ycombinator.com/item?id=41356775) - [Pie doesn't need to be original unless you claim it so](https://buttondown.com/geoffreylitt/archive/your-pie-doesnt-need-to-be-original-unless-you/)
 
 ## [Archives](archives/index.md)
