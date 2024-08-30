@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-30, 22:17:18](https://news.ycombinator.com/item?id=41405000) - [MongoDB takes a swing at PostgreSQL after claiming wins against rival](https://www.theregister.com/2024/08/30/mongodb_postgresql/)
-* [2024-08-30, 21:59:00](https://news.ycombinator.com/item?id=41404897) - [John Rawls and the Death of Western Marxism](https://josephheath.substack.com/p/john-rawls-and-the-death-of-western)
 * [2024-08-30, 21:50:45](https://news.ycombinator.com/item?id=41404853) - [Hadrius (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
 * [2024-08-30, 21:38:08](https://news.ycombinator.com/item?id=41404748) - [UK researchers find Alzheimer's-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
 * [2024-08-30, 21:36:49](https://news.ycombinator.com/item?id=41404733) - [Rust in Linux Revisited](https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html)
@@ -9,6 +8,7 @@
 * [2024-08-30, 20:05:39](https://news.ycombinator.com/item?id=41403971) - [To Nerves from Elixir](https://underjord.io/to-nerves-from-elixir.html)
 * [2024-08-30, 19:56:28](https://news.ycombinator.com/item?id=41403919) - [Blood puddles, mold, tainted meat, bugs: Boar's Head inspections are horrifying](https://arstechnica.com/science/2024/08/blood-puddles-mold-tainted-meat-bugs-boars-head-inspections-are-horrifying/)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
+* [2024-08-30, 16:45:37](https://news.ycombinator.com/item?id=41402418) - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
 * [2024-08-30, 15:09:03](https://news.ycombinator.com/item?id=41401463) - [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 * [2024-08-30, 14:45:02](https://news.ycombinator.com/item?id=41401237) - [Pocket-Godot: Starter Kit for mobile game development using Godot](https://github.com/lukky-nl/Pocket-Godot)
