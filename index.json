@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41402832"
     ],
     [
-      "Motion (YC W20) Is Hiring TypeScript Back End Engineers",
+      "Motion (YC W20) is hiring TypeScript back end engineers",
       "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41401287"
     ],
     [
-      "Resilient Anonymous Communication for Everyone (Race)",
+      "Resilient Anonymous Communication for Everyone (RACE)",
       "https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41401224"
     ],
     [
-      "Judge grants restraining order against cybersecurity expert",
+      "City of Columbus sues expert who exposed extent of cyberattack",
       "https://www.10tv.com/article/news/local/city-columbus-sues-cybersecurity-expert/530-fc59233d-39cb-463f-9454-0234f1c8cced"
     ]
   ],
@@ -101,11 +101,21 @@
   ],
   [
     [
+      "2024-08-30, 13:08:02",
+      "https://news.ycombinator.com/item?id=41400327"
+    ],
+    [
+      "The Far-Reaching Ripple Effects of a Discredited Cancer Study",
+      "https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 12:05:23",
       "https://news.ycombinator.com/item?id=41399872"
     ],
     [
-      "End of the Road: An AnandTech Farewell",
+      "AnandTech Farewell",
       "https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"
     ]
   ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2024-08-30, 05:07:15",
+      "https://news.ycombinator.com/item?id=41397873"
+    ],
+    [
+      "Calendar Queues: A Fast O(1) Priority Queue Implementation (1988)",
+      "https://dl.acm.org/doi/pdf/10.1145/63039.63045"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 03:28:27",
       "https://news.ycombinator.com/item?id=41397498"
     ],
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2024-08-29, 22:56:27",
+      "https://news.ycombinator.com/item?id=41396206"
+    ],
+    [
+      "Firewall rules: not as secure as you think",
+      "https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 22:22:12",
       "https://news.ycombinator.com/item?id=41395925"
     ],
@@ -191,52 +221,12 @@
   ],
   [
     [
-      "2024-08-29, 20:10:02",
-      "https://news.ycombinator.com/item?id=41394797"
-    ],
-    [
-      "Elasticsearch is open source, again",
-      "https://www.elastic.co/blog/elasticsearch-is-open-source-again"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 17:50:23",
-      "https://news.ycombinator.com/item?id=41393458"
-    ],
-    [
-      "Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code",
-      "https://news.ycombinator.com/item?id=41393458"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 15:53:08",
       "https://news.ycombinator.com/item?id=41392128"
     ],
     [
       "Bypassing airport security via SQL injection",
       "https://ian.sh/tsa"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 14:53:15",
-      "https://news.ycombinator.com/item?id=41391412"
-    ],
-    [
-      "Chrome is entrenching third-party cookies that will mislead users",
-      "https://brave.com/blog/related-website-sets/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 13:57:51",
-      "https://news.ycombinator.com/item?id=41390884"
-    ],
-    [
-      "Can solar costs keep shrinking?",
-      "https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking"
     ]
   ],
   [
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2024-08-27, 14:55:09",
+      "https://news.ycombinator.com/item?id=41368239"
+    ],
+    [
+      "Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)",
+      "https://bpfquery.com/?showing=kprobe"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 15:50:39",
       "https://news.ycombinator.com/item?id=41358389"
     ],
     [
-      "The Bug in the Computer Bug Story",
+      "The Bug in the Computer Bug Story (2022)",
       "https://daily.jstor.org/the-bug-in-the-computer-bug-story/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=41357409"
     ],
     [
-      "Emacs-like editor written in Common Lisp",
+      "Lem: Emacs-like editor written in Common Lisp",
       "https://lem-project.github.io/#"
     ]
   ],
