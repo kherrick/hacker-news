@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 16:34:57](https://news.ycombinator.com/item?id=41402313) - [Telegram as an Independent Intelligence Agency](https://maxread.substack.com/p/telegram-as-an-independent-intelligence)
 * [2024-08-30, 16:13:59](https://news.ycombinator.com/item?id=41402080) - [Giant underwater avalanche decimated Atlantic seafloor 60k years ago](https://www.livescience.com/planet-earth/rivers-oceans/giant-underwater-avalanche-decimated-atlantic-seafloor-60-000-years-ago-1st-of-its-kind-map-reveals)
 * [2024-08-30, 16:12:09](https://news.ycombinator.com/item?id=41402060) - [I always found this picture of Steve Jobs in his home office fascinating](https://blog.numericcitizen.me/2024/08/30/i-always-found.html)
+* [2024-08-30, 15:09:03](https://news.ycombinator.com/item?id=41401463) - [How to write a programming language and shell in Go with 92% test coverage and [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 * [2024-08-30, 14:56:32](https://news.ycombinator.com/item?id=41401322) - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 * [2024-08-30, 14:51:00](https://news.ycombinator.com/item?id=41401287) - [Resilient Anonymous Communication for Everyone (Race)](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)

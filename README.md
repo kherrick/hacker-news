@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-30, 16:34:57](https://news.ycombinator.com/item?id=41402313) - [Telegram as an Independent Intelligence Agency](https://maxread.substack.com/p/telegram-as-an-independent-intelligence)
 * [2024-08-30, 16:13:59](https://news.ycombinator.com/item?id=41402080) - [Giant underwater avalanche decimated Atlantic seafloor 60k years ago](https://www.livescience.com/planet-earth/rivers-oceans/giant-underwater-avalanche-decimated-atlantic-seafloor-60-000-years-ago-1st-of-its-kind-map-reveals)
+* [2024-08-30, 15:09:03](https://news.ycombinator.com/item?id=41401463) - [How to write a programming language and shell in Go with 92% test coverage and [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
-* [2024-08-30, 14:56:32](https://news.ycombinator.com/item?id=41401322) - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 * [2024-08-30, 14:51:00](https://news.ycombinator.com/item?id=41401287) - [Resilient Anonymous Communication for Everyone (Race)](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 * [2024-08-30, 13:08:02](https://news.ycombinator.com/item?id=41400327) - [The Far-Reaching Ripple Effects of a Discredited Cancer Study](https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842)
@@ -12,7 +13,6 @@
 * [2024-08-30, 08:29:04](https://news.ycombinator.com/item?id=41398780) - [Scpptool – a tool to enforce a memory and data race safe subset of C++](https://github.com/duneroadrunner/scpptool)
 * [2024-08-30, 07:06:34](https://news.ycombinator.com/item?id=41398351) - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
 * [2024-08-30, 03:28:27](https://news.ycombinator.com/item?id=41397498) - [Open Source Twitch for Developers](https://github.com/algora-io/tv)
-* [2024-08-30, 00:30:39](https://news.ycombinator.com/item?id=41396710) - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 * [2024-08-29, 23:46:25](https://news.ycombinator.com/item?id=41396501) - [Visit Bletchley Park](https://bletchleypark.org.uk/)
 * [2024-08-29, 23:04:32](https://news.ycombinator.com/item?id=41396260) - [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
 * [2024-08-29, 22:56:27](https://news.ycombinator.com/item?id=41396206) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
