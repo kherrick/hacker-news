@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-08-30, 07:06:34",
+      "https://news.ycombinator.com/item?id=41398351"
+    ],
+    [
+      "Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM",
+      "https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 05:07:15",
       "https://news.ycombinator.com/item?id=41397873"
     ],
     [
       "Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)",
       "https://dl.acm.org/doi/pdf/10.1145/63039.63045"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 04:59:58",
+      "https://news.ycombinator.com/item?id=41397847"
+    ],
+    [
+      "Tabbed out on the Oregon Trail",
+      "https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-08-29, 17:25:12",
-      "https://news.ycombinator.com/item?id=41393172"
-    ],
-    [
-      "Judge rules $400M algorithmic system illegally denied Medicaid benefits",
-      "https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 17:08:20",
       "https://news.ycombinator.com/item?id=41393005"
     ],
@@ -187,16 +197,6 @@
     [
       "Bypassing airport security via SQL injection",
       "https://ian.sh/tsa"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 15:37:42",
-      "https://news.ycombinator.com/item?id=41391931"
-    ],
-    [
-      "Launch HN: Patchwork (YC S24) – Automatically add structured logs to your code",
-      "https://news.ycombinator.com/item?id=41391931"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-08-29, 01:28:01",
-      "https://news.ycombinator.com/item?id=41386319"
-    ],
-    [
-      "Air Con: $1697 for an on/off switch",
-      "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 13:16:54",
       "https://news.ycombinator.com/item?id=41379149"
     ],
     [
       "Mastering ISO 8583 Message Networking with Golang",
       "https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 14:55:09",
+      "https://news.ycombinator.com/item?id=41368239"
+    ],
+    [
+      "Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)",
+      "https://bpfquery.com/?showing=kprobe"
     ]
   ],
   [
