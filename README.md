@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-30, 03:31:06](https://news.ycombinator.com/item?id=41397506) - [Starlink will now be free in Brazil: Musk](https://www.metropoles.com/brasil/musk-starlink-dara-internet-de-graca-ate-resolver-bloqueio-de-contas)
+* [2024-08-30, 03:31:06](https://news.ycombinator.com/item?id=41397506) - [Starlink will now be free in Brazil since remote hospitals, schools use it: Musk](https://www.metropoles.com/brasil/musk-starlink-dara-internet-de-graca-ate-resolver-bloqueio-de-contas)
 * [2024-08-30, 01:00:26](https://news.ycombinator.com/item?id=41396868) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
 * [2024-08-30, 00:37:46](https://news.ycombinator.com/item?id=41396745) - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 * [2024-08-30, 00:15:51](https://news.ycombinator.com/item?id=41396641) - [I'm blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
 * [2024-08-29, 23:46:25](https://news.ycombinator.com/item?id=41396501) - [Visit Bletchley Park](https://bletchleypark.org.uk/)
 * [2024-08-29, 23:43:27](https://news.ycombinator.com/item?id=41396487) - [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
-* [2024-08-29, 23:22:32](https://news.ycombinator.com/item?id=41396370) - [Show HN: MinutesLink – AI note taker for online calls](https://minuteslink.com/)
 * [2024-08-29, 23:04:32](https://news.ycombinator.com/item?id=41396260) - [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
 * [2024-08-29, 22:56:27](https://news.ycombinator.com/item?id=41396206) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure Library has been archived](https://github.com/google/closure-library)
@@ -30,6 +29,7 @@
 * [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade automated solar concentrator](https://github.com/remipch/solar_concentrator)
 * [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
 * [2024-08-26, 20:22:59](https://news.ycombinator.com/item?id=41361590) - [Early Scenes: Remembering a Childhood in the South Bronx](https://www.newyorker.com/magazine/2024/09/02/an-exclusive-excerpt-from-al-pacinos-memoir-sonny-boy)
+* [2024-08-26, 11:56:19](https://news.ycombinator.com/item?id=41356279) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 
 ## [Archives](archives/index.md)
 

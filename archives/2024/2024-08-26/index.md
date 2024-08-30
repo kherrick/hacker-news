@@ -76,6 +76,7 @@
 * [2024-08-26, 12:17:21](https://news.ycombinator.com/item?id=41356415) - [A dishwasher can make or break a restaurant](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
 * [2024-08-26, 12:12:57](https://news.ycombinator.com/item?id=41356382) - [IKEA launches secondhand marketplace to compete with eBay](https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734)
 * [2024-08-26, 12:00:56](https://news.ycombinator.com/item?id=41356310) - [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
+* [2024-08-26, 11:56:19](https://news.ycombinator.com/item?id=41356279) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 * [2024-08-26, 11:50:20](https://news.ycombinator.com/item?id=41356239) - [Coolify's rise to fame. And why it could be a big deal.](https://blog.api-fiddle.com/posts/coolify-revolution)
 * [2024-08-26, 11:42:44](https://news.ycombinator.com/item?id=41356196) - [Complete Visual Guide to Sony CLIÉ (2000-2004)](https://obsoletesony.substack.com/p/complete-visual-guide-to-sony-clie)
 * [2024-08-26, 11:37:41](https://news.ycombinator.com/item?id=41356165) - [What's New in SQLAlchemy 2.1?](https://docs.sqlalchemy.org/en/21/changelog/migration_21.html)
