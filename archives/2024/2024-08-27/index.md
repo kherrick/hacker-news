@@ -51,6 +51,7 @@
 * [2024-08-27, 15:31:47](https://news.ycombinator.com/item?id=41368677) - [No smoking in your own home, California city orders residents](https://www.thetimes.com/world/us-world/article/carlsbad-california-smoking-illegal-where-houses-k9qrrvm05)
 * [2024-08-27, 15:31:33](https://news.ycombinator.com/item?id=41368674) - [A New Wave of Underwater Comms Is Coming](https://spectrum.ieee.org/underwater-communication)
 * [2024-08-27, 15:30:23](https://news.ycombinator.com/item?id=41368659) - [A somewhat faster, more lightweight, ripgrep-inspired alternative](https://github.com/alexpasmantier/grip-grab)
+* [2024-08-27, 15:23:04](https://news.ycombinator.com/item?id=41368583) - [Six Things I Know for Sure About Marketing to Engineers](https://www.bly.com/Pages/documents/STIKFS.html)
 * [2024-08-27, 15:04:46](https://news.ycombinator.com/item?id=41368363) - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
 * [2024-08-27, 15:00:08](https://news.ycombinator.com/item?id=41368304) - [We built an open-source UIPath alternative that solves problem in all RPA](https://www.openagent.studio/)
 * [2024-08-27, 14:55:09](https://news.ycombinator.com/item?id=41368239) - [Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)](https://bpfquery.com/?showing=kprobe)
