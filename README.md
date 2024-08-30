@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-30, 13:28:44](https://news.ycombinator.com/item?id=41400523) - [AI cameras spot toddlers not wearing seat belts](https://www.bbc.com/news/articles/c5y3pdp099zo)
+* [2024-08-30, 14:00:41](https://news.ycombinator.com/item?id=41400807) - [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
+* [2024-08-30, 13:25:48](https://news.ycombinator.com/item?id=41400500) - [Behind AWS S3's Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
 * [2024-08-30, 13:08:02](https://news.ycombinator.com/item?id=41400327) - [The Far-Reaching Ripple Effects of a Discredited Cancer Study](https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842)
-* [2024-08-30, 12:12:12](https://news.ycombinator.com/item?id=41399913) - [Agnost is an open source GitOps platform running on Kubernetes clusters](https://agnost.dev/)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 11:32:11](https://news.ycombinator.com/item?id=41399704) - [Japan police: Nearly 4k who died alone at home not found for over a month](https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/)
 * [2024-08-30, 09:54:52](https://news.ycombinator.com/item?id=41399224) - [Low-cost 16 EEG channels cap (hat) for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)

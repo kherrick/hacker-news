@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 14:00:41](https://news.ycombinator.com/item?id=41400807) - [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
 * [2024-08-30, 13:28:44](https://news.ycombinator.com/item?id=41400523) - [AI cameras spot toddlers not wearing seat belts](https://www.bbc.com/news/articles/c5y3pdp099zo)
+* [2024-08-30, 13:25:48](https://news.ycombinator.com/item?id=41400500) - [Behind AWS S3's Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
 * [2024-08-30, 13:08:02](https://news.ycombinator.com/item?id=41400327) - [The Far-Reaching Ripple Effects of a Discredited Cancer Study](https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842)
 * [2024-08-30, 12:48:33](https://news.ycombinator.com/item?id=41400162) - [When EV startups shut down, will their cars still work?](https://www.osnews.com/story/140619/when-ev-startups-shut-down-will-their-cars-still-work/)
 * [2024-08-30, 12:12:12](https://news.ycombinator.com/item?id=41399913) - [Agnost is an open source GitOps platform running on Kubernetes clusters](https://agnost.dev/)
