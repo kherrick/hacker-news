@@ -6,10 +6,12 @@
 
 * [2024-08-30, 21:50:45](https://news.ycombinator.com/item?id=41404853) - [Hadrius (YC W23) Is Hiring a Rising-Star Engineer to Champion Customer Success](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
 * [2024-08-30, 21:38:08](https://news.ycombinator.com/item?id=41404748) - [UK researchers find Alzheimer's-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
+* [2024-08-30, 21:36:49](https://news.ycombinator.com/item?id=41404733) - [Rust in Linux Revisited](https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html)
 * [2024-08-30, 21:17:53](https://news.ycombinator.com/item?id=41404554) - [Architectural Effects on Maximum Dependency Lengths of Recurrent Neural Networks](https://arxiv.org/abs/2408.11946)
 * [2024-08-30, 21:15:57](https://news.ycombinator.com/item?id=41404530) - [UC Berkeley will delete all alumni email accounts with >5GB stored](https://twitter.com/jachiam0/status/1829546662735560735)
 * [2024-08-30, 21:00:42](https://news.ycombinator.com/item?id=41404388) - [Icon (real creators, AI ads) is hiring software engineers (NYC)](https://icon.me/careers)
 * [2024-08-30, 20:35:28](https://news.ycombinator.com/item?id=41404187) - [Brazilian court orders suspension of X](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
+* [2024-08-30, 20:05:39](https://news.ycombinator.com/item?id=41403971) - [To Nerves from Elixir](https://underjord.io/to-nerves-from-elixir.html)
 * [2024-08-30, 19:56:28](https://news.ycombinator.com/item?id=41403919) - [Blood puddles, mold, tainted meat, bugs: Boar's Head inspections are horrifying](https://arstechnica.com/science/2024/08/blood-puddles-mold-tainted-meat-bugs-boars-head-inspections-are-horrifying/)
 * [2024-08-30, 18:49:47](https://news.ycombinator.com/item?id=41403466) - [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
 * [2024-08-30, 18:42:30](https://news.ycombinator.com/item?id=41403414) - [Japan was the future but it's stuck in the past](https://www.bbc.com/news/world-asia-63830490)
