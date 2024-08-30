@@ -12,6 +12,7 @@
 * [2024-08-30, 14:56:32](https://news.ycombinator.com/item?id=41401322) - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 * [2024-08-30, 14:51:00](https://news.ycombinator.com/item?id=41401287) - [Resilient Anonymous Communication for Everyone (Race)](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)
 * [2024-08-30, 14:46:50](https://news.ycombinator.com/item?id=41401250) - [Microsoft Remote Desktop will be renamed to Windows App](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-app-general-availability-coming-soon/ba-p/4206647)
+* [2024-08-30, 14:19:32](https://news.ycombinator.com/item?id=41400998) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 14:00:41](https://news.ycombinator.com/item?id=41400807) - [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 * [2024-08-30, 13:44:50](https://news.ycombinator.com/item?id=41400663) - [Suddenly Runway deleted all content on HuggingFace and GitHub](https://www.aibase.com/news/11434)
