@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-30, 12:12:12",
+      "https://news.ycombinator.com/item?id=41399913"
+    ],
+    [
+      "Agnost is an open source GitOps platform running on Kubernetes clusters",
+      "https://agnost.dev/"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 12:05:23",
       "https://news.ycombinator.com/item?id=41399872"
     ],
@@ -97,16 +107,6 @@
     [
       "Open Source Twitch for Developers",
       "https://github.com/algora-io/tv"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 00:15:51",
-      "https://news.ycombinator.com/item?id=41396641"
-    ],
-    [
-      "I'm blocking connections from AWS to my on-prem services",
-      "http://consulting.m3047.net/dubai-letters/balkanized-internet.html"
     ]
   ],
   [
