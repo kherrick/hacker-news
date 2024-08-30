@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 22:17:18](https://news.ycombinator.com/item?id=41405000) - [MongoDB takes a swing at PostgreSQL after claiming wins against rival](https://www.theregister.com/2024/08/30/mongodb_postgresql/)
+* [2024-08-30, 21:59:00](https://news.ycombinator.com/item?id=41404897) - [John Rawls and the Death of Western Marxism](https://josephheath.substack.com/p/john-rawls-and-the-death-of-western)
 * [2024-08-30, 21:50:45](https://news.ycombinator.com/item?id=41404853) - [Hadrius (YC W23) Is Hiring a Rising-Star Engineer to Champion Customer Success](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
 * [2024-08-30, 21:38:08](https://news.ycombinator.com/item?id=41404748) - [UK researchers find Alzheimer's-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
 * [2024-08-30, 21:36:49](https://news.ycombinator.com/item?id=41404733) - [Rust in Linux Revisited](https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html)

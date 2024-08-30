@@ -73,6 +73,7 @@
 * [2024-08-28, 12:34:39](https://news.ycombinator.com/item?id=41378751) - [Faxlore](https://en.wikipedia.org/wiki/Faxlore)
 * [2024-08-28, 12:27:40](https://news.ycombinator.com/item?id=41378704) - [Human brain organoid bioprocessors now available to rent for $500 per month](https://www.tomshardware.com/pc-components/cpus/human-brain-organoid-bioprocessors-now-available-to-rent-for-dollar500-per-month)
 * [2024-08-28, 12:24:41](https://news.ycombinator.com/item?id=41378686) - [What's your favorite RSS feed reader?](https://news.ycombinator.com/item?id=41378686)
+* [2024-08-28, 12:13:24](https://news.ycombinator.com/item?id=41378608) - [Notan: Cross-Platform Multimedia Layer](https://github.com/Nazariglez/notan)
 * [2024-08-28, 12:01:13](https://news.ycombinator.com/item?id=41378527) - [Prosper AI (YC S23) Is Hiring a Founding Front End Engineer in Barcelona(hybrid)](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
 * [2024-08-28, 11:49:32](https://news.ycombinator.com/item?id=41378478) - [Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 11:44:58](https://news.ycombinator.com/item?id=41378443) - [Glass Beads](https://outlandishclaims.substack.com/p/seven-glass-beads)
