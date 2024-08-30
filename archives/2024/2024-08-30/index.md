@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 10:00:07](https://news.ycombinator.com/item?id=41399249) - [Bay Watch: Northern California is an energy catastrophe waiting to happen](https://newsletter.doomberg.com/p/bay-watch)
 * [2024-08-30, 08:59:07](https://news.ycombinator.com/item?id=41398925) - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-30, 07:32:50](https://news.ycombinator.com/item?id=41398502) - [Deconstructing the Garbage-First Collector [pdf]](https://www.steveblackburn.org/pubs/papers/g1-vee-2020.pdf)
 * [2024-08-30, 07:06:34](https://news.ycombinator.com/item?id=41398351) - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
