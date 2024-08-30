@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-08-30, 00:15:51",
+      "https://news.ycombinator.com/item?id=41396641"
+    ],
+    [
+      "I'm blocking connections from AWS to my on-prem services",
+      "http://consulting.m3047.net/dubai-letters/balkanized-internet.html"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 23:46:25",
       "https://news.ycombinator.com/item?id=41396501"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-08-29, 22:21:55",
-      "https://news.ycombinator.com/item?id=41395921"
-    ],
-    [
-      "Anthropic's Prompt Engineering Interactive Tutorial",
-      "https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 21:20:12",
       "https://news.ycombinator.com/item?id=41395413"
     ],
@@ -197,16 +197,6 @@
     [
       "Bypassing airport security via SQL injection",
       "https://ian.sh/tsa"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 15:29:13",
-      "https://news.ycombinator.com/item?id=41391822"
-    ],
-    [
-      "Raspberry Pi Pico does line rate 100M Ethernet",
-      "https://github.com/rscott2049/pico-rmii-ethernet_nce"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The Thin Purple Line",
       "https://harpers.org/archive/2024/09/the-thin-purple-line-jasper-craven-private-security-guard/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 13:54:08",
+      "https://news.ycombinator.com/item?id=41357123"
+    ],
+    [
+      "Leader Election with S3 Conditional Writes",
+      "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/"
     ]
   ],
   [
