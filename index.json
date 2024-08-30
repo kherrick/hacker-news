@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-08-30, 15:04:19",
+      "https://news.ycombinator.com/item?id=41401415"
+    ],
+    [
+      "CIEL Is an Extended Lisp",
+      "http://ciel-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 14:56:32",
+      "https://news.ycombinator.com/item?id=41401322"
+    ],
+    [
+      "Sail and Muddy: A Retrospective",
+      "https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 14:51:00",
       "https://news.ycombinator.com/item?id=41401287"
     ],
     [
       "Resilient Anonymous Communication for Everyone (Race)",
       "https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 14:46:50",
-      "https://news.ycombinator.com/item?id=41401250"
-    ],
-    [
-      "Microsoft Remote Desktop will be renamed to Windows App",
-      "https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-app-general-availability-coming-soon/ba-p/4206647"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2024-08-30, 00:30:39",
+      "https://news.ycombinator.com/item?id=41396710"
+    ],
+    [
+      "Sail and Muddy: A Retrospective",
+      "https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 23:46:25",
       "https://news.ycombinator.com/item?id=41396501"
     ],
@@ -157,16 +177,6 @@
     [
       "The secret inside One Million Checkboxes",
       "https://eieio.games/essays/the-secret-in-one-million-checkboxes/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 21:00:51",
-      "https://news.ycombinator.com/item?id=41395226"
-    ],
-    [
-      "Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"",
-      "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2024-08-27, 05:09:24",
-      "https://news.ycombinator.com/item?id=41364715"
-    ],
-    [
-      "The Thin Purple Line",
-      "https://harpers.org/archive/2024/09/the-thin-purple-line-jasper-craven-private-security-guard/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 15:50:39",
       "https://news.ycombinator.com/item?id=41358389"
     ],
     [
       "The Bug in the Computer Bug Story",
       "https://daily.jstor.org/the-bug-in-the-computer-bug-story/"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 14:22:38",
+      "https://news.ycombinator.com/item?id=41357409"
+    ],
+    [
+      "Emacs-like editor written in Common Lisp",
+      "https://lem-project.github.io/#"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Pie doesn't need to be original unless you claim it so",
       "https://buttondown.com/geoffreylitt/archive/your-pie-doesnt-need-to-be-original-unless-you/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 11:56:19",
-      "https://news.ycombinator.com/item?id=41356279"
-    ],
-    [
-      "Predicting the future of distributed systems",
-      "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
     ]
   ]
 ]
