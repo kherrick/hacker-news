@@ -14,6 +14,7 @@
 * [2024-08-26, 21:02:00](https://news.ycombinator.com/item?id=41362131) - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
 * [2024-08-26, 21:01:16](https://news.ycombinator.com/item?id=41362122) - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
 * [2024-08-26, 20:30:56](https://news.ycombinator.com/item?id=41361715) - [Cash for catching scientific errors: bug bounties for academic publishing](https://www.nature.com/articles/d41586-024-02681-2)
+* [2024-08-26, 20:22:59](https://news.ycombinator.com/item?id=41361590) - [Early Scenes: Remembering a Childhood in the South Bronx](https://www.newyorker.com/magazine/2024/09/02/an-exclusive-excerpt-from-al-pacinos-memoir-sonny-boy)
 * [2024-08-26, 20:15:52](https://news.ycombinator.com/item?id=41361473) - [Exxon still expects fossil fuels to make up the majority of energy in 25 years](https://www.cnbc.com/2024/08/26/exxon-still-sees-fossil-fuels-as-majority-of-energy-market-in-25-years.html)
 * [2024-08-26, 20:11:43](https://news.ycombinator.com/item?id=41361406) - [One Laptop per Child](https://en.wikipedia.org/wiki/One_Laptop_per_Child)
 * [2024-08-26, 20:03:59](https://news.ycombinator.com/item?id=41361286) - [The $16K Humanoid Robot Leaping into Production [video]](https://www.youtube.com/watch?v=y2KF2DnvN9Y)

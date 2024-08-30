@@ -24,10 +24,10 @@
 * [2024-08-29, 15:29:13](https://news.ycombinator.com/item?id=41391822) - [Raspberry Pi Pico does line rate 100M Ethernet](https://github.com/rscott2049/pico-rmii-ethernet_nce)
 * [2024-08-29, 14:53:15](https://news.ycombinator.com/item?id=41391412) - [Chrome is entrenching third-party cookies that will mislead users](https://brave.com/blog/related-website-sets/)
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can solar costs keep shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
-* [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
 * [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
 * [2024-08-29, 10:14:50](https://news.ycombinator.com/item?id=41389185) - [OpenAI is good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
 * [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
+* [2024-08-26, 20:22:59](https://news.ycombinator.com/item?id=41361590) - [Early Scenes: Remembering a Childhood in the South Bronx](https://www.newyorker.com/magazine/2024/09/02/an-exclusive-excerpt-from-al-pacinos-memoir-sonny-boy)
 * [2024-08-25, 17:59:50](https://news.ycombinator.com/item?id=41349554) - [Build an Infinite Canvas](https://infinitecanvas.cc/)
 * [2024-08-25, 16:53:28](https://news.ycombinator.com/item?id=41348869) - [Colorful Ribbon Diagrams Became the Face of Proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 
