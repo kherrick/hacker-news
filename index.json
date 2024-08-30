@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-30, 16:12:09",
+      "https://news.ycombinator.com/item?id=41402060"
+    ],
+    [
+      "I always found this picture of Steve Jobs in his home office fascinating",
+      "https://blog.numericcitizen.me/2024/08/30/i-always-found.html"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 15:04:19",
       "https://news.ycombinator.com/item?id=41401415"
     ],
@@ -31,12 +41,32 @@
   ],
   [
     [
-      "2024-08-30, 14:00:41",
-      "https://news.ycombinator.com/item?id=41400807"
+      "2024-08-30, 13:52:46",
+      "https://news.ycombinator.com/item?id=41400723"
     ],
     [
-      "The fight to ban gas-powered cars in the 1960s",
-      "https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/"
+      "Experience the Apollo 11 Lunar Landing",
+      "https://www.firstmenonthemoon.com"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 13:40:28",
+      "https://news.ycombinator.com/item?id=41400618"
+    ],
+    [
+      "PrimeReact: The Most Complete React UI Component Library",
+      "https://github.com/primefaces/primereact"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 13:39:47",
+      "https://news.ycombinator.com/item?id=41400612"
+    ],
+    [
+      "Ad Hoc Infrastructure – By Kent Beck",
+      "https://tidyfirst.substack.com/p/ad-hoc-infrastructure"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "The Far-Reaching Ripple Effects of a Discredited Cancer Study",
       "https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 12:46:54",
+      "https://news.ycombinator.com/item?id=41400152"
+    ],
+    [
+      "Understanding the Postgres Hackers Mailing List",
+      "https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2024-08-30, 05:07:15",
-      "https://news.ycombinator.com/item?id=41397873"
-    ],
-    [
-      "Calendar Queues: A Fast O(1) Priority Queue Implementation (1988)",
-      "https://dl.acm.org/doi/pdf/10.1145/63039.63045"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 03:28:27",
       "https://news.ycombinator.com/item?id=41397498"
     ],
@@ -147,26 +177,6 @@
     [
       "SDL3 new GPU API merged",
       "https://github.com/libsdl-org/SDL/pull/9312"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 22:56:27",
-      "https://news.ycombinator.com/item?id=41396206"
-    ],
-    [
-      "Firewall rules: not as secure as you think",
-      "https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 22:22:12",
-      "https://news.ycombinator.com/item?id=41395925"
-    ],
-    [
-      "Google Closure Library has been archived",
-      "https://github.com/google/closure-library"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Marketing to Engineers (2001)",
       "https://www.bly.com/Pages/documents/STIKFS.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 14:55:09",
-      "https://news.ycombinator.com/item?id=41368239"
-    ],
-    [
-      "Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)",
-      "https://bpfquery.com/?showing=kprobe"
     ]
   ],
   [
