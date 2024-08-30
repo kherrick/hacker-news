@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 17:00:42](https://news.ycombinator.com/item?id=41402559) - [Blueprint Bryan Johnson Is Hiring Developers](https://www.ycombinator.com/companies/eat-blueprint/jobs/UcjLc1R-software-developer)
+* [2024-08-30, 16:45:37](https://news.ycombinator.com/item?id=41402418) - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
 * [2024-08-30, 16:34:57](https://news.ycombinator.com/item?id=41402313) - [Telegram as an Independent Intelligence Agency](https://maxread.substack.com/p/telegram-as-an-independent-intelligence)
 * [2024-08-30, 16:13:59](https://news.ycombinator.com/item?id=41402080) - [Giant underwater avalanche decimated Atlantic seafloor 60k years ago](https://www.livescience.com/planet-earth/rivers-oceans/giant-underwater-avalanche-decimated-atlantic-seafloor-60-000-years-ago-1st-of-its-kind-map-reveals)
 * [2024-08-30, 16:12:09](https://news.ycombinator.com/item?id=41402060) - [I always found this picture of Steve Jobs in his home office fascinating](https://blog.numericcitizen.me/2024/08/30/i-always-found.html)
@@ -12,6 +14,7 @@
 * [2024-08-30, 14:56:32](https://news.ycombinator.com/item?id=41401322) - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 * [2024-08-30, 14:51:00](https://news.ycombinator.com/item?id=41401287) - [Resilient Anonymous Communication for Everyone (Race)](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)
 * [2024-08-30, 14:46:50](https://news.ycombinator.com/item?id=41401250) - [Microsoft Remote Desktop will be renamed to Windows App](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-app-general-availability-coming-soon/ba-p/4206647)
+* [2024-08-30, 14:44:06](https://news.ycombinator.com/item?id=41401224) - [Judge grants restraining order against cybersecurity expert](https://www.10tv.com/article/news/local/city-columbus-sues-cybersecurity-expert/530-fc59233d-39cb-463f-9454-0234f1c8cced)
 * [2024-08-30, 14:19:32](https://news.ycombinator.com/item?id=41400998) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 14:00:41](https://news.ycombinator.com/item?id=41400807) - [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
