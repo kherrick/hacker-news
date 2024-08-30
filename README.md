@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-30, 21:00:42](https://news.ycombinator.com/item?id=41404388) - [Icon (real creators, AI ads) is hiring software engineers (NYC)](https://icon.me/careers)
-* [2024-08-30, 20:35:28](https://news.ycombinator.com/item?id=41404187) - [Brazilian court orders suspension of X](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 16:45:37](https://news.ycombinator.com/item?id=41402418) - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
 * [2024-08-30, 15:09:03](https://news.ycombinator.com/item?id=41401463) - [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
@@ -23,6 +22,7 @@
 * [2024-08-28, 12:48:18](https://news.ycombinator.com/item?id=41378883) - [Portraits of insects reveal the intricacies of a world](https://www.smithsonianmag.com/science-nature/these-stunning-portraits-of-insects-reveal-the-intricacies-of-an-amazing-world-180984926/)
 * [2024-08-28, 10:28:28](https://news.ycombinator.com/item?id=41378002) - [Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)
 * [2024-08-28, 07:24:42](https://news.ycombinator.com/item?id=41376893) - [Micrograd.jl](https://liorsinai.github.io/machine-learning/2024/07/27/micrograd-1-chainrules.html)
+* [2024-08-28, 05:23:00](https://news.ycombinator.com/item?id=41376215) - [FCast: Casting Made Open Source](https://fcast.org/)
 * [2024-08-27, 22:05:18](https://news.ycombinator.com/item?id=41373650) - [GeoWorks: The Other Windows (2019)](https://tedium.co/2019/06/20/geoworks-geos-history/)
 * [2024-08-27, 15:23:04](https://news.ycombinator.com/item?id=41368583) - [Marketing to Engineers (2001)](https://www.bly.com/Pages/documents/STIKFS.html)
 * [2024-08-27, 14:58:20](https://news.ycombinator.com/item?id=41368277) - [Show HN: Create notes and maps that live outdoors with web and AR integration](https://www.auglinn.com)
