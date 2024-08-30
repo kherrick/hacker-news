@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
 * [2024-08-28, 23:44:38](https://news.ycombinator.com/item?id=41385637) - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
+* [2024-08-28, 23:42:55](https://news.ycombinator.com/item?id=41385625) - [The Generational Transition to Programmable Cryptography](https://0xparc.org/blog/programmable-cryptography-1)
 * [2024-08-28, 23:32:31](https://news.ycombinator.com/item?id=41385546) - [A Post by Guido van Rossum Removed for Violating Python Community Guidelines](https://discuss.python.org/t/should-we-consider-ranked-choice-voting-for-sc-elections/61880)
 * [2024-08-28, 23:10:55](https://news.ycombinator.com/item?id=41385418) - [Telegram boss banned from leaving France in criminal probe](https://www.bbc.com/news/articles/c985ppy0znyo)
 * [2024-08-28, 22:38:13](https://news.ycombinator.com/item?id=41385205) - [RunCVM: An open-source Docker runtime for launching container images in VMs](https://github.com/newsnowlabs/runcvm)
@@ -83,6 +84,7 @@
 * [2024-08-28, 07:05:23](https://news.ycombinator.com/item?id=41376770) - [The Fall of StackOverflow: A Data-Driven Analysis](https://pdftranslate.ai/blog/stackoverflow-fall)
 * [2024-08-28, 06:30:35](https://news.ycombinator.com/item?id=41376590) - [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
 * [2024-08-28, 06:25:05](https://news.ycombinator.com/item?id=41376558) - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
+* [2024-08-28, 05:23:00](https://news.ycombinator.com/item?id=41376215) - [FCast: Casting Made Open Source](https://fcast.org/)
 * [2024-08-28, 04:46:44](https://news.ycombinator.com/item?id=41376044) - [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
 * [2024-08-28, 04:16:01](https://news.ycombinator.com/item?id=41375902) - [Thoughts on the Durov Arrest](https://prestonbyrne.com/2024/08/24/thoughts-on-the-durov-arrest/)
 * [2024-08-28, 03:47:38](https://news.ycombinator.com/item?id=41375746) - [Covid-19 Intranasal Vaccine](https://news.griffith.edu.au/2024/08/27/game-changing-needle-free-covid-19-intranasal-vaccine/)

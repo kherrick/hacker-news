@@ -79,6 +79,7 @@
 * [2024-08-27, 08:43:33](https://news.ycombinator.com/item?id=41365598) - [2023 state of the climate Entering uncharted territory](https://academic.oup.com/bioscience/article/73/12/841/7319571)
 * [2024-08-27, 07:17:07](https://news.ycombinator.com/item?id=41365223) - [RISC-V CPU arrives on a tablet starting at $149](https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage)
 * [2024-08-27, 07:03:21](https://news.ycombinator.com/item?id=41365157) - [Run System Commands in Ruby – When to use which methods to run shell commands](https://kirillshevch.medium.com/9-ways-to-run-system-commands-in-ruby-d099223a0ec6)
+* [2024-08-27, 06:58:23](https://news.ycombinator.com/item?id=41365143) - [Show HN: Rabbit Holes](https://rabbitholes.wiki/)
 * [2024-08-27, 05:25:52](https://news.ycombinator.com/item?id=41364783) - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
 * [2024-08-27, 05:23:49](https://news.ycombinator.com/item?id=41364776) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 * [2024-08-27, 05:20:25](https://news.ycombinator.com/item?id=41364764) - [Cellar Door: a quest to find the most beautiful word in English](https://www.cellar-door.co.uk/)
