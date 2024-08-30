@@ -84,6 +84,7 @@
 * [2024-08-27, 04:23:27](https://news.ycombinator.com/item?id=41364549) - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 03:46:47](https://news.ycombinator.com/item?id=41364413) - [A $557B Drop in Office Values Eclipses a Revival of Cities](https://www.bloomberg.com/news/features/2024-08-26/downtown-office-real-estate-suffers-as-new-neighborhoods-take-off)
 * [2024-08-27, 03:46:35](https://news.ycombinator.com/item?id=41364412) - [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
+* [2024-08-27, 03:02:09](https://news.ycombinator.com/item?id=41364235) - [Merchants of Complexity](https://world.hey.com/dhh/merchants-of-complexity-4851301b)
 * [2024-08-27, 02:32:40](https://news.ycombinator.com/item?id=41364114) - [Show HN: I built a site that tracks short-lived flight deals](https://flight-price-alert.com/)
 * [2024-08-27, 02:13:51](https://news.ycombinator.com/item?id=41364042) - [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
 * [2024-08-27, 02:04:50](https://news.ycombinator.com/item?id=41363994) - [Can a Closed Nuclear Power Plant from the '70s Be Brought Back to Life?](https://www.wsj.com/business/energy-oil/biden-nuclear-power-plant-loan-michigan-eee64904)

@@ -25,9 +25,9 @@
 * [2024-08-29, 13:42:03](https://news.ycombinator.com/item?id=41390712) - [Floating points between zero and one](https://chadnauseam.com/coding/random/floating-points-between-zero-and-one)
 * [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
 * [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
-* [2024-08-29, 10:14:50](https://news.ycombinator.com/item?id=41389185) - [OpenAI is good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
-* [2024-08-29, 10:14:00](https://news.ycombinator.com/item?id=41389176) - [Show HN: Homemade automated solar concentrator](https://github.com/remipch/solar_concentrator)
+* [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
+* [2024-08-27, 03:02:09](https://news.ycombinator.com/item?id=41364235) - [Merchants of Complexity](https://world.hey.com/dhh/merchants-of-complexity-4851301b)
 * [2024-08-26, 20:22:59](https://news.ycombinator.com/item?id=41361590) - [Early Scenes: Remembering a Childhood in the South Bronx](https://www.newyorker.com/magazine/2024/09/02/an-exclusive-excerpt-from-al-pacinos-memoir-sonny-boy)
 * [2024-08-26, 11:56:19](https://news.ycombinator.com/item?id=41356279) - [Predicting the future of distributed systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 
