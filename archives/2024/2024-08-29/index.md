@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 23:46:25](https://news.ycombinator.com/item?id=41396501) - [Visit Bletchley Park](https://bletchleypark.org.uk/)
+* [2024-08-29, 23:43:27](https://news.ycombinator.com/item?id=41396487) - [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
+* [2024-08-29, 23:22:32](https://news.ycombinator.com/item?id=41396370) - [Show HN: MinutesLink – AI note taker for online calls](https://minuteslink.com/)
+* [2024-08-29, 23:08:23](https://news.ycombinator.com/item?id=41396279) - [The Imperial Origins of Big Data](https://yalebooks.yale.edu/2024/08/28/the-imperial-origins-of-big-data/)
 * [2024-08-29, 23:04:32](https://news.ycombinator.com/item?id=41396260) - [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
 * [2024-08-29, 22:56:27](https://news.ycombinator.com/item?id=41396206) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure has been archived](https://github.com/google/closure-library)

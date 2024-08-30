@@ -59,6 +59,7 @@
 * [2024-08-28, 13:50:07](https://news.ycombinator.com/item?id=41379517) - [YouTube is barely usable specifically on Firefox Windows at the moment](https://old.reddit.com/r/youtube/comments/1f30ku4/youtube_sabotaging_on_firefox/)
 * [2024-08-28, 13:40:33](https://news.ycombinator.com/item?id=41379408) - [Show HN: Relari – Auto Prompt Optimizer as Lightweight Alternative to Finetuning](https://news.ycombinator.com/item?id=41379408)
 * [2024-08-28, 13:27:29](https://news.ycombinator.com/item?id=41379254) - [Show HN: We ungated our product (no signup)–is it a good idea?](https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit)
+* [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
 * [2024-08-28, 13:10:45](https://news.ycombinator.com/item?id=41379097) - [Ask HN: Did you regret staying at a job for too long?](https://news.ycombinator.com/item?id=41379097)
 * [2024-08-28, 12:41:28](https://news.ycombinator.com/item?id=41378819) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
 * [2024-08-28, 12:39:46](https://news.ycombinator.com/item?id=41378806) - [Judge dismisses majority of GitHub Copilot copyright claims](https://www.developer-tech.com/news/judge-dismisses-majority-github-copilot-copyright-claims/)

@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-30](index.md)
+
+* [2024-08-30, 01:00:26](https://news.ycombinator.com/item?id=41396868) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
+* [2024-08-30, 00:15:51](https://news.ycombinator.com/item?id=41396641) - [I'm blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
