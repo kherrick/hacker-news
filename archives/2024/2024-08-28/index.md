@@ -67,6 +67,7 @@
 * [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
 * [2024-08-28, 13:10:45](https://news.ycombinator.com/item?id=41379097) - [Ask HN: Did you regret staying at a job for too long?](https://news.ycombinator.com/item?id=41379097)
 * [2024-08-28, 13:01:54](https://news.ycombinator.com/item?id=41379015) - [Home Assistant Presence Simulation](https://github.com/slashback100/presence_simulation)
+* [2024-08-28, 12:48:18](https://news.ycombinator.com/item?id=41378883) - [Portraits of insects reveal the intricacies of a world](https://www.smithsonianmag.com/science-nature/these-stunning-portraits-of-insects-reveal-the-intricacies-of-an-amazing-world-180984926/)
 * [2024-08-28, 12:41:28](https://news.ycombinator.com/item?id=41378819) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
 * [2024-08-28, 12:39:46](https://news.ycombinator.com/item?id=41378806) - [Judge dismisses majority of GitHub Copilot copyright claims](https://www.developer-tech.com/news/judge-dismisses-majority-github-copilot-copyright-claims/)
 * [2024-08-28, 12:34:39](https://news.ycombinator.com/item?id=41378751) - [Faxlore](https://en.wikipedia.org/wiki/Faxlore)
