@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-08-30, 01:00:26",
+      "https://news.ycombinator.com/item?id=41396868"
+    ],
+    [
+      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist",
+      "https://news.ycombinator.com/item?id=41396868"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 00:15:51",
+      "https://news.ycombinator.com/item?id=41396641"
+    ],
+    [
+      "I'm blocking connections from AWS to my on-prem services",
+      "http://consulting.m3047.net/dubai-letters/balkanized-internet.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 23:46:25",
+      "https://news.ycombinator.com/item?id=41396501"
+    ],
+    [
+      "Visit Bletchley Park",
+      "https://bletchleypark.org.uk/"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 23:43:27",
+      "https://news.ycombinator.com/item?id=41396487"
+    ],
+    [
+      "DuckDuckGo for Mac is now open source",
+      "https://github.com/duckduckgo/macos-browser"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 23:22:32",
+      "https://news.ycombinator.com/item?id=41396370"
+    ],
+    [
+      "Show HN: MinutesLink – AI note taker for online calls",
+      "https://minuteslink.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 23:08:23",
+      "https://news.ycombinator.com/item?id=41396279"
+    ],
+    [
+      "The Imperial Origins of Big Data",
+      "https://yalebooks.yale.edu/2024/08/28/the-imperial-origins-of-big-data/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 23:04:32",
       "https://news.ycombinator.com/item?id=41396260"
     ],
@@ -25,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41395925"
     ],
     [
-      "Google Closure has been archived",
+      "Google Closure Library has been archived",
       "https://github.com/google/closure-library"
     ]
   ],
@@ -51,16 +111,6 @@
   ],
   [
     [
-      "2024-08-29, 21:44:44",
-      "https://news.ycombinator.com/item?id=41395591"
-    ],
-    [
-      "Ever used Google Chrome in incognito mode? You could be entitled to up to $5k",
-      "https://bivens.plaintip.com/index.php/google-incognito/"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 21:20:12",
       "https://news.ycombinator.com/item?id=41395413"
     ],
@@ -71,32 +121,12 @@
   ],
   [
     [
-      "2024-08-29, 21:00:51",
-      "https://news.ycombinator.com/item?id=41395226"
-    ],
-    [
-      "Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"",
-      "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 20:10:02",
       "https://news.ycombinator.com/item?id=41394797"
     ],
     [
       "Elasticsearch is open source, again",
       "https://www.elastic.co/blog/elasticsearch-is-open-source-again"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 19:48:25",
-      "https://news.ycombinator.com/item?id=41394604"
-    ],
-    [
-      "Smart mask for exhaled breath condensate harvesting and analysis",
-      "https://www.science.org/doi/10.1126/science.adn6471"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2024-08-29, 13:42:03",
-      "https://news.ycombinator.com/item?id=41390712"
-    ],
-    [
-      "Floating points between zero and one",
-      "https://chadnauseam.com/coding/random/floating-points-between-zero-and-one"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 13:11:45",
       "https://news.ycombinator.com/item?id=41390449"
     ],
@@ -227,16 +247,6 @@
     [
       "How I learned to stop worrying and love userspace networking",
       "https://friendshipcastle.zip/blog/glaceon"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 11:23:53",
-      "https://news.ycombinator.com/item?id=41389642"
-    ],
-    [
-      "Web Design Museum",
-      "https://www.webdesignmuseum.org/"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-08-29, 01:28:01",
-      "https://news.ycombinator.com/item?id=41386319"
+      "2024-08-28, 13:16:54",
+      "https://news.ycombinator.com/item?id=41379149"
     ],
     [
-      "Air Con: $1697 for an on/off switch",
-      "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/"
+      "Mastering ISO 8583 Message Networking with Golang",
+      "https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Build an Infinite Canvas",
       "https://infinitecanvas.cc/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 17:22:06",
-      "https://news.ycombinator.com/item?id=41349198"
-    ],
-    [
-      "Rescuing songs that record labels forgot existed",
-      "https://www.bbc.co.uk/news/articles/cgl7ld1glk3o"
     ]
   ]
 ]
