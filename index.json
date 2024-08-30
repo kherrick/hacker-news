@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-30, 21:15:57",
+      "https://news.ycombinator.com/item?id=41404530"
+    ],
+    [
+      "UC Berkeley will delete all alumni email accounts with >5GB stored",
+      "https://twitter.com/jachiam0/status/1829546662735560735"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 21:00:42",
       "https://news.ycombinator.com/item?id=41404388"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-08-28, 13:20:25",
-      "https://news.ycombinator.com/item?id=41379181"
-    ],
-    [
-      "The Pacesetting Leadership Style",
-      "https://leahfarmer.substack.com/p/12-leadership-styles-pacesetting"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 13:01:54",
       "https://news.ycombinator.com/item?id=41379015"
     ],
@@ -207,16 +207,6 @@
     [
       "Regex Crossword",
       "https://mathspp.com/blog/problems/regex-crossword"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 07:24:42",
-      "https://news.ycombinator.com/item?id=41376893"
-    ],
-    [
-      "Micrograd.jl",
-      "https://liorsinai.github.io/machine-learning/2024/07/27/micrograd-1-chainrules.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Pie doesn't need to be original unless you claim it so",
       "https://buttondown.com/geoffreylitt/archive/your-pie-doesnt-need-to-be-original-unless-you/"
+    ]
+  ],
+  [
+    [
+      "2024-08-25, 22:20:58",
+      "https://news.ycombinator.com/item?id=41352008"
+    ],
+    [
+      "Real-world uplift modelling with significance-based uplift trees [pdf]",
+      "https://www.stochasticsolutions.com/pdf/sig-based-up-trees.pdf"
     ]
   ]
 ]
