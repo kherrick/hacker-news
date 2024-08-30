@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-30, 17:00:42",
-      "https://news.ycombinator.com/item?id=41402559"
+      "2024-08-30, 17:31:30",
+      "https://news.ycombinator.com/item?id=41402832"
     ],
     [
-      "Blueprint Bryan Johnson Is Hiring Developers",
-      "https://www.ycombinator.com/companies/eat-blueprint/jobs/UcjLc1R-software-developer"
+      "Motion (YC W20) Is Hiring TypeScript Back End Engineers",
+      "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Resilient Anonymous Communication for Everyone (Race)",
       "https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 14:45:02",
+      "https://news.ycombinator.com/item?id=41401237"
+    ],
+    [
+      "Pocket-Godot: Starter Kit for mobile game development using Godot",
+      "https://github.com/lukky-nl/Pocket-Godot"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "SDL3 new GPU API merged",
       "https://github.com/libsdl-org/SDL/pull/9312"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 22:56:27",
-      "https://news.ycombinator.com/item?id=41396206"
-    ],
-    [
-      "Firewall rules: not as secure as you think",
-      "https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html"
     ]
   ],
   [
