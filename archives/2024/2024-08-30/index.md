@@ -9,6 +9,7 @@
 * [2024-08-30, 21:50:45](https://news.ycombinator.com/item?id=41404853) - [Hadrius (YC W23) Is Hiring a Rising-Star Engineer to Champion Customer Success](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
 * [2024-08-30, 21:38:08](https://news.ycombinator.com/item?id=41404748) - [UK researchers find Alzheimer's-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
 * [2024-08-30, 21:36:49](https://news.ycombinator.com/item?id=41404733) - [Rust in Linux Revisited](https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html)
+* [2024-08-30, 21:33:16](https://news.ycombinator.com/item?id=41404704) - [Our slowly growing Unix monoculture](https://utcc.utoronto.ca/%7Ecks/space/blog/sysadmin/OurGrowingUnixMonoculture)
 * [2024-08-30, 21:17:53](https://news.ycombinator.com/item?id=41404554) - [Architectural Effects on Maximum Dependency Lengths of Recurrent Neural Networks](https://arxiv.org/abs/2408.11946)
 * [2024-08-30, 21:15:57](https://news.ycombinator.com/item?id=41404530) - [UC Berkeley will delete all alumni email accounts with >5GB stored](https://twitter.com/jachiam0/status/1829546662735560735)
 * [2024-08-30, 21:00:42](https://news.ycombinator.com/item?id=41404388) - [Icon (real creators, AI ads) is hiring software engineers (NYC)](https://icon.me/careers)

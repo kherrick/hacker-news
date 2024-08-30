@@ -106,6 +106,7 @@
 * [2024-08-26, 04:28:38](https://news.ycombinator.com/item?id=41354021) - [Association of the \"Weekend Warrior\" Physical Activity Patterns with Mortality](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2794038)
 * [2024-08-26, 04:18:07](https://news.ycombinator.com/item?id=41353979) - [Show HN: Ward – a file vault written in bash](https://github.com/oeo/ward)
 * [2024-08-26, 03:44:48](https://news.ycombinator.com/item?id=41353835) - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
+* [2024-08-26, 03:43:47](https://news.ycombinator.com/item?id=41353830) - [Libntruprime is a microlibrary for the Streamlined NTRU Prime cryptosyst](https://libntruprime.cr.yp.to/)
 * [2024-08-26, 03:41:09](https://news.ycombinator.com/item?id=41353811) - [Helen Fisher, who researched the brain’s love circuitry, has died](https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html)
 * [2024-08-26, 01:59:20](https://news.ycombinator.com/item?id=41353330) - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
 * [2024-08-26, 01:59:13](https://news.ycombinator.com/item?id=41353328) - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
