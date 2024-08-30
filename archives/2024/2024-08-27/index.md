@@ -54,6 +54,7 @@
 * [2024-08-27, 15:23:04](https://news.ycombinator.com/item?id=41368583) - [Six Things I Know for Sure About Marketing to Engineers](https://www.bly.com/Pages/documents/STIKFS.html)
 * [2024-08-27, 15:04:46](https://news.ycombinator.com/item?id=41368363) - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
 * [2024-08-27, 15:00:08](https://news.ycombinator.com/item?id=41368304) - [We built an open-source UIPath alternative that solves problem in all RPA](https://www.openagent.studio/)
+* [2024-08-27, 14:58:20](https://news.ycombinator.com/item?id=41368277) - [Show HN: Create notes and maps that live outdoors with web and AR integration](https://www.auglinn.com)
 * [2024-08-27, 14:55:09](https://news.ycombinator.com/item?id=41368239) - [Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)](https://bpfquery.com/?showing=kprobe)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 * [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)

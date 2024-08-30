@@ -6,6 +6,7 @@
 
 * [2024-08-30, 18:49:47](https://news.ycombinator.com/item?id=41403466) - [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
 * [2024-08-30, 18:42:30](https://news.ycombinator.com/item?id=41403414) - [Japan was the future but it's stuck in the past](https://www.bbc.com/news/world-asia-63830490)
+* [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 17:31:30](https://news.ycombinator.com/item?id=41402832) - [Motion (YC W20) Is Hiring TypeScript Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-08-30, 17:03:24](https://news.ycombinator.com/item?id=41402581) - [The Most Dangerous Email (to my career) I've Sent](https://www.notyourlanguage.com/post/scariest_email/)
 * [2024-08-30, 17:00:42](https://news.ycombinator.com/item?id=41402559) - [Blueprint Bryan Johnson Is Hiring Developers](https://www.ycombinator.com/companies/eat-blueprint/jobs/UcjLc1R-software-developer)
