@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-30, 16:12:09",
-      "https://news.ycombinator.com/item?id=41402060"
+      "2024-08-30, 16:13:59",
+      "https://news.ycombinator.com/item?id=41402080"
     ],
     [
-      "I always found this picture of Steve Jobs in his home office fascinating",
-      "https://blog.numericcitizen.me/2024/08/30/i-always-found.html"
+      "Giant underwater avalanche decimated Atlantic seafloor 60k years ago",
+      "https://www.livescience.com/planet-earth/rivers-oceans/giant-underwater-avalanche-decimated-atlantic-seafloor-60-000-years-ago-1st-of-its-kind-map-reveals"
     ]
   ],
   [
@@ -51,42 +51,12 @@
   ],
   [
     [
-      "2024-08-30, 13:40:28",
-      "https://news.ycombinator.com/item?id=41400618"
-    ],
-    [
-      "PrimeReact: The Most Complete React UI Component Library",
-      "https://github.com/primefaces/primereact"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 13:39:47",
-      "https://news.ycombinator.com/item?id=41400612"
-    ],
-    [
-      "Ad Hoc Infrastructure – By Kent Beck",
-      "https://tidyfirst.substack.com/p/ad-hoc-infrastructure"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 13:08:02",
       "https://news.ycombinator.com/item?id=41400327"
     ],
     [
       "The Far-Reaching Ripple Effects of a Discredited Cancer Study",
       "https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 12:46:54",
-      "https://news.ycombinator.com/item?id=41400152"
-    ],
-    [
-      "Understanding the Postgres Hackers Mailing List",
-      "https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list"
     ]
   ],
   [
@@ -181,6 +151,26 @@
   ],
   [
     [
+      "2024-08-29, 22:56:27",
+      "https://news.ycombinator.com/item?id=41396206"
+    ],
+    [
+      "Firewall rules: not as secure as you think",
+      "https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 22:22:12",
+      "https://news.ycombinator.com/item?id=41395925"
+    ],
+    [
+      "Google Closure Library has been archived",
+      "https://github.com/google/closure-library"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 21:20:12",
       "https://news.ycombinator.com/item?id=41395413"
     ],
@@ -257,6 +247,16 @@
     [
       "Marketing to Engineers (2001)",
       "https://www.bly.com/Pages/documents/STIKFS.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 14:55:09",
+      "https://news.ycombinator.com/item?id=41368239"
+    ],
+    [
+      "Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)",
+      "https://bpfquery.com/?showing=kprobe"
     ]
   ],
   [
