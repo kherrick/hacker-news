@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-30, 02:22:54](https://news.ycombinator.com/item?id=41397240) - [SpaceX will provide Internet service to users in Brazil for free](https://twitter.com/elonmusk/status/1829317832489816083)
 * [2024-08-30, 01:00:26](https://news.ycombinator.com/item?id=41396868) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
 * [2024-08-30, 00:37:46](https://news.ycombinator.com/item?id=41396745) - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 * [2024-08-30, 00:15:51](https://news.ycombinator.com/item?id=41396641) - [I'm blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
 * [2024-08-29, 23:46:25](https://news.ycombinator.com/item?id=41396501) - [Visit Bletchley Park](https://bletchleypark.org.uk/)
 * [2024-08-29, 23:43:27](https://news.ycombinator.com/item?id=41396487) - [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
 * [2024-08-29, 23:22:32](https://news.ycombinator.com/item?id=41396370) - [Show HN: MinutesLink – AI note taker for online calls](https://minuteslink.com/)
-* [2024-08-29, 23:08:23](https://news.ycombinator.com/item?id=41396279) - [The Imperial Origins of Big Data](https://yalebooks.yale.edu/2024/08/28/the-imperial-origins-of-big-data/)
 * [2024-08-29, 23:04:32](https://news.ycombinator.com/item?id=41396260) - [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
 * [2024-08-29, 22:56:27](https://news.ycombinator.com/item?id=41396206) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure Library has been archived](https://github.com/google/closure-library)
