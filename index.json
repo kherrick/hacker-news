@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-08-30, 03:31:06",
-      "https://news.ycombinator.com/item?id=41397506"
-    ],
-    [
-      "Starlink will now be free in Brazil since remote hospitals, schools use it: Musk",
-      "https://www.metropoles.com/brasil/musk-starlink-dara-internet-de-graca-ate-resolver-bloqueio-de-contas"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 01:00:26",
-      "https://news.ycombinator.com/item?id=41396868"
-    ],
-    [
-      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist",
-      "https://news.ycombinator.com/item?id=41396868"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 00:37:46",
       "https://news.ycombinator.com/item?id=41396745"
     ],
@@ -57,6 +37,16 @@
     [
       "DuckDuckGo for Mac is now open source",
       "https://github.com/duckduckgo/macos-browser"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 23:22:32",
+      "https://news.ycombinator.com/item?id=41396370"
+    ],
+    [
+      "Show HN: MinutesLink – AI note taker for online calls",
+      "https://minuteslink.com/"
     ]
   ],
   [
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2024-08-29, 22:18:39",
-      "https://news.ycombinator.com/item?id=41395884"
-    ],
-    [
-      "JPMorgan's Python training for business analysts and traders",
-      "https://github.com/jpmorganchase/python-training"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 21:45:11",
       "https://news.ycombinator.com/item?id=41395601"
     ],
@@ -127,6 +107,16 @@
     [
       "The secret inside One Million Checkboxes",
       "https://eieio.games/essays/the-secret-in-one-million-checkboxes/"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 21:00:51",
+      "https://news.ycombinator.com/item?id=41395226"
+    ],
+    [
+      "Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"",
+      "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-08-29, 13:42:03",
+      "https://news.ycombinator.com/item?id=41390712"
+    ],
+    [
+      "Floating points between zero and one",
+      "https://chadnauseam.com/coding/random/floating-points-between-zero-and-one"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 13:11:45",
       "https://news.ycombinator.com/item?id=41390449"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=41356279"
     ],
     [
-      "Predicting the Future of Distributed Systems",
+      "Predicting the future of distributed systems",
       "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
     ]
   ]
