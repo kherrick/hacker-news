@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-30, 05:07:15](https://news.ycombinator.com/item?id=41397873) - [Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
 * [2024-08-30, 00:37:46](https://news.ycombinator.com/item?id=41396745) - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 * [2024-08-30, 00:15:51](https://news.ycombinator.com/item?id=41396641) - [I'm blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
 * [2024-08-29, 23:46:25](https://news.ycombinator.com/item?id=41396501) - [Visit Bletchley Park](https://bletchleypark.org.uk/)
@@ -28,7 +29,6 @@
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
 * [2024-08-27, 03:02:09](https://news.ycombinator.com/item?id=41364235) - [Merchants of Complexity](https://world.hey.com/dhh/merchants-of-complexity-4851301b)
-* [2024-08-26, 20:22:59](https://news.ycombinator.com/item?id=41361590) - [Early Scenes: Remembering a Childhood in the South Bronx](https://www.newyorker.com/magazine/2024/09/02/an-exclusive-excerpt-from-al-pacinos-memoir-sonny-boy)
 * [2024-08-26, 11:56:19](https://news.ycombinator.com/item?id=41356279) - [Predicting the future of distributed systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 
 ## [Archives](archives/index.md)
