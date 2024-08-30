@@ -41,26 +41,6 @@
   ],
   [
     [
-      "2024-08-30, 11:32:11",
-      "https://news.ycombinator.com/item?id=41399704"
-    ],
-    [
-      "Japan police: Nearly 4k who died alone at home not found for over a month",
-      "https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 09:54:52",
-      "https://news.ycombinator.com/item?id=41399224"
-    ],
-    [
-      "Low-cost 16 EEG channels cap (hat) for PiEEG",
-      "https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 09:25:13",
       "https://news.ycombinator.com/item?id=41399047"
     ],
@@ -161,22 +141,22 @@
   ],
   [
     [
-      "2024-08-29, 22:21:55",
-      "https://news.ycombinator.com/item?id=41395921"
-    ],
-    [
-      "Anthropic's Prompt Engineering Interactive Tutorial",
-      "https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 21:20:12",
       "https://news.ycombinator.com/item?id=41395413"
     ],
     [
       "The secret inside One Million Checkboxes",
       "https://eieio.games/essays/the-secret-in-one-million-checkboxes/"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 21:00:51",
+      "https://news.ycombinator.com/item?id=41395226"
+    ],
+    [
+      "Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"",
+      "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-08-29, 15:29:13",
+      "https://news.ycombinator.com/item?id=41391822"
+    ],
+    [
+      "Raspberry Pi Pico does line rate 100M Ethernet",
+      "https://github.com/rscott2049/pico-rmii-ethernet_nce"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 14:53:15",
       "https://news.ycombinator.com/item?id=41391412"
     ],
@@ -227,6 +217,16 @@
     [
       "Can solar costs keep shrinking?",
       "https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 01:28:01",
+      "https://news.ycombinator.com/item?id=41386319"
+    ],
+    [
+      "Air Con: $1697 for an on/off switch",
+      "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-08-26, 15:50:39",
+      "https://news.ycombinator.com/item?id=41358389"
+    ],
+    [
+      "The Bug in the Computer Bug Story",
+      "https://daily.jstor.org/the-bug-in-the-computer-bug-story/"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 13:54:08",
       "https://news.ycombinator.com/item?id=41357123"
     ],
     [
       "Leader Election with S3 Conditional Writes",
       "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 13:11:07",
-      "https://news.ycombinator.com/item?id=41356775"
-    ],
-    [
-      "Pie doesn't need to be original (unless you claim it so)",
-      "https://buttondown.com/geoffreylitt/archive/your-pie-doesnt-need-to-be-original-unless-you/"
     ]
   ],
   [
