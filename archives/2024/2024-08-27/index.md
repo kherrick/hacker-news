@@ -53,6 +53,7 @@
 * [2024-08-27, 15:30:23](https://news.ycombinator.com/item?id=41368659) - [A somewhat faster, more lightweight, ripgrep-inspired alternative](https://github.com/alexpasmantier/grip-grab)
 * [2024-08-27, 15:04:46](https://news.ycombinator.com/item?id=41368363) - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
 * [2024-08-27, 15:00:08](https://news.ycombinator.com/item?id=41368304) - [We built an open-source UIPath alternative that solves problem in all RPA](https://www.openagent.studio/)
+* [2024-08-27, 14:55:09](https://news.ycombinator.com/item?id=41368239) - [Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)](https://bpfquery.com/?showing=kprobe)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 * [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)
 * [2024-08-27, 14:12:40](https://news.ycombinator.com/item?id=41367749) - [The Real Exponential Curve for LLMs](https://fume.substack.com/p/inference-is-free-and-instant)
