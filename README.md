@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-30, 08:59:07](https://news.ycombinator.com/item?id=41398925) - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-30, 07:06:34](https://news.ycombinator.com/item?id=41398351) - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
 * [2024-08-30, 05:07:15](https://news.ycombinator.com/item?id=41397873) - [Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
 * [2024-08-30, 04:15:54](https://news.ycombinator.com/item?id=41397679) - [Rust's Ugly Syntax (2023)](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
@@ -24,7 +25,6 @@
 * [2024-08-29, 14:53:15](https://news.ycombinator.com/item?id=41391412) - [Chrome is entrenching third-party cookies that will mislead users](https://brave.com/blog/related-website-sets/)
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can solar costs keep shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
 * [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
-* [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-28, 07:24:42](https://news.ycombinator.com/item?id=41376893) - [Micrograd.jl](https://liorsinai.github.io/machine-learning/2024/07/27/micrograd-1-chainrules.html)
 * [2024-08-27, 15:23:04](https://news.ycombinator.com/item?id=41368583) - [Six Things I Know for Sure About Marketing to Engineers](https://www.bly.com/Pages/documents/STIKFS.html)
 * [2024-08-27, 14:55:09](https://news.ycombinator.com/item?id=41368239) - [Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)](https://bpfquery.com/?showing=kprobe)
