@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 20:35:28](https://news.ycombinator.com/item?id=41404187) - [Brazilian court orders suspension of X](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
 * [2024-08-30, 18:49:47](https://news.ycombinator.com/item?id=41403466) - [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
 * [2024-08-30, 18:42:30](https://news.ycombinator.com/item?id=41403414) - [Japan was the future but it's stuck in the past](https://www.bbc.com/news/world-asia-63830490)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)

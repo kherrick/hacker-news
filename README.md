@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-30, 20:35:28](https://news.ycombinator.com/item?id=41404187) - [Brazilian court orders suspension of X](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
 * [2024-08-30, 18:49:47](https://news.ycombinator.com/item?id=41403466) - [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 17:31:30](https://news.ycombinator.com/item?id=41402832) - [Motion (YC W20) is hiring TypeScript back end engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -12,7 +13,6 @@
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 08:59:07](https://news.ycombinator.com/item?id=41398925) - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
-* [2024-08-30, 07:06:34](https://news.ycombinator.com/item?id=41398351) - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
 * [2024-08-30, 04:59:58](https://news.ycombinator.com/item?id=41397847) - [Tabbed out on the Oregon Trail](https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail)
 * [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-28, 14:42:05](https://news.ycombinator.com/item?id=41380065) - [Show HN: A somewhat faster, more lightweight, ripgrep-inspired alternative](https://github.com/alexpasmantier/grip-grab)
