@@ -2,7 +2,6 @@
 
 * [2024-08-30, 07:06:34](https://news.ycombinator.com/item?id=41398351) - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
 * [2024-08-30, 05:07:15](https://news.ycombinator.com/item?id=41397873) - [Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
-* [2024-08-30, 04:59:58](https://news.ycombinator.com/item?id=41397847) - [Tabbed out on the Oregon Trail](https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail)
 * [2024-08-30, 04:15:54](https://news.ycombinator.com/item?id=41397679) - [Rust's Ugly Syntax (2023)](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
 * [2024-08-30, 03:28:27](https://news.ycombinator.com/item?id=41397498) - [Open Source Twitch for Developers](https://github.com/algora-io/tv)
 * [2024-08-30, 00:37:46](https://news.ycombinator.com/item?id=41396745) - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
@@ -25,6 +24,7 @@
 * [2024-08-29, 14:53:15](https://news.ycombinator.com/item?id=41391412) - [Chrome is entrenching third-party cookies that will mislead users](https://brave.com/blog/related-website-sets/)
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can solar costs keep shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
 * [2024-08-29, 13:11:45](https://news.ycombinator.com/item?id=41390449) - [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
+* [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
 * [2024-08-27, 14:55:09](https://news.ycombinator.com/item?id=41368239) - [Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)](https://bpfquery.com/?showing=kprobe)
