@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 13:08:02](https://news.ycombinator.com/item?id=41400327) - [The Far-Reaching Ripple Effects of a Discredited Cancer Study](https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842)
+* [2024-08-30, 12:48:33](https://news.ycombinator.com/item?id=41400162) - [When EV startups shut down, will their cars still work?](https://www.osnews.com/story/140619/when-ev-startups-shut-down-will-their-cars-still-work/)
 * [2024-08-30, 12:12:12](https://news.ycombinator.com/item?id=41399913) - [Agnost is an open source GitOps platform running on Kubernetes clusters](https://agnost.dev/)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 11:50:54](https://news.ycombinator.com/item?id=41399791) - [Thousands of papers misidentify microscopes, in possible sign of misconduct](https://retractionwatch.com/2024/08/27/exclusive-thousands-of-papers-misidentify-microscopes-in-possible-sign-of-misconduct/)
