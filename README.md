@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-30, 21:15:57](https://news.ycombinator.com/item?id=41404530) - [UC Berkeley will delete all alumni email accounts with >5GB stored](https://twitter.com/jachiam0/status/1829546662735560735)
 * [2024-08-30, 21:00:42](https://news.ycombinator.com/item?id=41404388) - [Icon (real creators, AI ads) is hiring software engineers (NYC)](https://icon.me/careers)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 16:45:37](https://news.ycombinator.com/item?id=41402418) - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
@@ -17,11 +18,9 @@
 * [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-28, 14:42:05](https://news.ycombinator.com/item?id=41380065) - [Show HN: A somewhat faster, more lightweight, ripgrep-inspired alternative](https://github.com/alexpasmantier/grip-grab)
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
-* [2024-08-28, 13:20:25](https://news.ycombinator.com/item?id=41379181) - [The Pacesetting Leadership Style](https://leahfarmer.substack.com/p/12-leadership-styles-pacesetting)
 * [2024-08-28, 13:01:54](https://news.ycombinator.com/item?id=41379015) - [Home Assistant Presence Simulation](https://github.com/slashback100/presence_simulation)
 * [2024-08-28, 12:48:18](https://news.ycombinator.com/item?id=41378883) - [Portraits of insects reveal the intricacies of a world](https://www.smithsonianmag.com/science-nature/these-stunning-portraits-of-insects-reveal-the-intricacies-of-an-amazing-world-180984926/)
 * [2024-08-28, 10:28:28](https://news.ycombinator.com/item?id=41378002) - [Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)
-* [2024-08-28, 07:24:42](https://news.ycombinator.com/item?id=41376893) - [Micrograd.jl](https://liorsinai.github.io/machine-learning/2024/07/27/micrograd-1-chainrules.html)
 * [2024-08-28, 05:23:00](https://news.ycombinator.com/item?id=41376215) - [FCast: Casting Made Open Source](https://fcast.org/)
 * [2024-08-27, 22:05:18](https://news.ycombinator.com/item?id=41373650) - [GeoWorks: The Other Windows (2019)](https://tedium.co/2019/06/20/geoworks-geos-history/)
 * [2024-08-27, 15:23:04](https://news.ycombinator.com/item?id=41368583) - [Marketing to Engineers (2001)](https://www.bly.com/Pages/documents/STIKFS.html)
@@ -30,6 +29,7 @@
 * [2024-08-26, 14:22:38](https://news.ycombinator.com/item?id=41357409) - [Lem: Emacs-like editor written in Common Lisp](https://lem-project.github.io/#)
 * [2024-08-26, 13:54:08](https://news.ycombinator.com/item?id=41357123) - [Leader Election with S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
 * [2024-08-26, 13:11:07](https://news.ycombinator.com/item?id=41356775) - [Pie doesn't need to be original unless you claim it so](https://buttondown.com/geoffreylitt/archive/your-pie-doesnt-need-to-be-original-unless-you/)
+* [2024-08-25, 22:20:58](https://news.ycombinator.com/item?id=41352008) - [Real-world uplift modelling with significance-based uplift trees [pdf]](https://www.stochasticsolutions.com/pdf/sig-based-up-trees.pdf)
 
 ## [Archives](archives/index.md)
 
