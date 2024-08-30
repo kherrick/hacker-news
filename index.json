@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-30, 12:12:12",
-      "https://news.ycombinator.com/item?id=41399913"
+      "2024-08-30, 13:08:02",
+      "https://news.ycombinator.com/item?id=41400327"
     ],
     [
-      "Agnost is an open source GitOps platform running on Kubernetes clusters",
-      "https://agnost.dev/"
+      "The Far-Reaching Ripple Effects of a Discredited Cancer Study",
+      "https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 12:48:33",
+      "https://news.ycombinator.com/item?id=41400162"
+    ],
+    [
+      "When EV startups shut down, will their cars still work?",
+      "https://www.osnews.com/story/140619/when-ev-startups-shut-down-will-their-cars-still-work/"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Thousands of papers misidentify microscopes, in possible sign of misconduct",
       "https://retractionwatch.com/2024/08/27/exclusive-thousands-of-papers-misidentify-microscopes-in-possible-sign-of-misconduct/"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 11:32:11",
+      "https://news.ycombinator.com/item?id=41399704"
+    ],
+    [
+      "Japan police: Nearly 4k who died alone at home not found for over a month",
+      "https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-08-30, 00:15:51",
-      "https://news.ycombinator.com/item?id=41396641"
-    ],
-    [
-      "I'm blocking connections from AWS to my on-prem services",
-      "http://consulting.m3047.net/dubai-letters/balkanized-internet.html"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 23:46:25",
       "https://news.ycombinator.com/item?id=41396501"
     ],
@@ -147,6 +157,16 @@
     [
       "Google Closure Library has been archived",
       "https://github.com/google/closure-library"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 22:21:55",
+      "https://news.ycombinator.com/item?id=41395921"
+    ],
+    [
+      "Anthropic's Prompt Engineering Interactive Tutorial",
+      "https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-08-29, 15:29:13",
-      "https://news.ycombinator.com/item?id=41391822"
-    ],
-    [
-      "Raspberry Pi Pico does line rate 100M Ethernet",
-      "https://github.com/rscott2049/pico-rmii-ethernet_nce"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 14:53:15",
       "https://news.ycombinator.com/item?id=41391412"
     ],
@@ -217,16 +227,6 @@
     [
       "Can solar costs keep shrinking?",
       "https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 11:44:58",
-      "https://news.ycombinator.com/item?id=41378443"
-    ],
-    [
-      "Glass Beads",
-      "https://outlandishclaims.substack.com/p/seven-glass-beads"
     ]
   ],
   [
