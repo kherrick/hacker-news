@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-08-30, 10:00:07",
+      "https://news.ycombinator.com/item?id=41399249"
+    ],
+    [
+      "Bay Watch: Northern California is an energy catastrophe waiting to happen",
+      "https://newsletter.doomberg.com/p/bay-watch"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 08:59:07",
       "https://news.ycombinator.com/item?id=41398925"
     ],
     [
       "Rearchiving 2M hours of digital radio, a comprehensive process",
       "https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 07:32:50",
-      "https://news.ycombinator.com/item?id=41398502"
-    ],
-    [
-      "Deconstructing the Garbage-First Collector [pdf]",
-      "https://www.steveblackburn.org/pubs/papers/g1-vee-2020.pdf"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)",
       "https://dl.acm.org/doi/pdf/10.1145/63039.63045"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 04:15:54",
-      "https://news.ycombinator.com/item?id=41397679"
-    ],
-    [
-      "Rust's Ugly Syntax (2023)",
-      "https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "The secret inside One Million Checkboxes",
       "https://eieio.games/essays/the-secret-in-one-million-checkboxes/"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 21:00:51",
+      "https://news.ycombinator.com/item?id=41395226"
+    ],
+    [
+      "Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"",
+      "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer"
     ]
   ],
   [
