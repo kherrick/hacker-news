@@ -2,11 +2,11 @@
 
 * [2024-08-30, 21:15:57](https://news.ycombinator.com/item?id=41404530) - [UC Berkeley will delete all alumni email accounts with >5GB stored](https://twitter.com/jachiam0/status/1829546662735560735)
 * [2024-08-30, 21:00:42](https://news.ycombinator.com/item?id=41404388) - [Icon (real creators, AI ads) is hiring software engineers (NYC)](https://icon.me/careers)
+* [2024-08-30, 19:56:28](https://news.ycombinator.com/item?id=41403919) - [Blood puddles, mold, tainted meat, bugs: Boar's Head inspections are horrifying](https://arstechnica.com/science/2024/08/blood-puddles-mold-tainted-meat-bugs-boars-head-inspections-are-horrifying/)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 16:45:37](https://news.ycombinator.com/item?id=41402418) - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
 * [2024-08-30, 15:09:03](https://news.ycombinator.com/item?id=41401463) - [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
-* [2024-08-30, 14:56:32](https://news.ycombinator.com/item?id=41401322) - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 * [2024-08-30, 14:45:02](https://news.ycombinator.com/item?id=41401237) - [Pocket-Godot: Starter Kit for mobile game development using Godot](https://github.com/lukky-nl/Pocket-Godot)
 * [2024-08-30, 14:44:06](https://news.ycombinator.com/item?id=41401224) - [City of Columbus sues expert who exposed extent of cyberattack](https://www.10tv.com/article/news/local/city-columbus-sues-cybersecurity-expert/530-fc59233d-39cb-463f-9454-0234f1c8cced)
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
