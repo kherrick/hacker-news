@@ -12,6 +12,7 @@
 * [2024-08-29, 22:56:27](https://news.ycombinator.com/item?id=41396206) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure has been archived](https://github.com/google/closure-library)
 * [2024-08-29, 22:21:55](https://news.ycombinator.com/item?id=41395921) - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+* [2024-08-29, 22:19:48](https://news.ycombinator.com/item?id=41395893) - [Blood Disorder: Unveiling the Mystery of My Poisoning in Sweden](https://rattvisan.blog/2024/07/28/yes-i-was-poisoned-by-my-wife-a-software-engineer-of-top3-us-company/)
 * [2024-08-29, 22:18:39](https://news.ycombinator.com/item?id=41395884) - [JPMorgan's Python training for business analysts and traders](https://github.com/jpmorganchase/python-training)
 * [2024-08-29, 21:45:11](https://news.ycombinator.com/item?id=41395601) - [Californians can now add their mobile driver's license to Google Wallet](https://www.gov.ca.gov/2024/08/23/californians-can-now-add-their-mobile-drivers-license-to-google-wallet/)
 * [2024-08-29, 21:44:44](https://news.ycombinator.com/item?id=41395591) - [Ever used Google Chrome in incognito mode? You could be entitled to up to $5k](https://bivens.plaintip.com/index.php/google-incognito/)
