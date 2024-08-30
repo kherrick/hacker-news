@@ -10,7 +10,6 @@
 * [2024-08-29, 22:56:27](https://news.ycombinator.com/item?id=41396206) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure Library has been archived](https://github.com/google/closure-library)
 * [2024-08-29, 22:21:55](https://news.ycombinator.com/item?id=41395921) - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
-* [2024-08-29, 21:45:11](https://news.ycombinator.com/item?id=41395601) - [Californians can now add their mobile driver's license to Google Wallet](https://www.gov.ca.gov/2024/08/23/californians-can-now-add-their-mobile-drivers-license-to-google-wallet/)
 * [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:00:51](https://news.ycombinator.com/item?id=41395226) - [Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer)
 * [2024-08-29, 20:10:02](https://news.ycombinator.com/item?id=41394797) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
@@ -28,7 +27,8 @@
 * [2024-08-29, 13:06:59](https://news.ycombinator.com/item?id=41390412) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
 * [2024-08-29, 01:28:01](https://news.ycombinator.com/item?id=41386319) - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 * [2024-08-28, 13:16:54](https://news.ycombinator.com/item?id=41379149) - [Mastering ISO 8583 Message Networking with Golang](https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/)
-* [2024-08-27, 03:02:09](https://news.ycombinator.com/item?id=41364235) - [Merchants of Complexity](https://world.hey.com/dhh/merchants-of-complexity-4851301b)
+* [2024-08-27, 05:09:24](https://news.ycombinator.com/item?id=41364715) - [The Thin Purple Line](https://harpers.org/archive/2024/09/the-thin-purple-line-jasper-craven-private-security-guard/)
+* [2024-08-26, 20:22:59](https://news.ycombinator.com/item?id=41361590) - [Early Scenes: Remembering a Childhood in the South Bronx](https://www.newyorker.com/magazine/2024/09/02/an-exclusive-excerpt-from-al-pacinos-memoir-sonny-boy)
 * [2024-08-26, 11:56:19](https://news.ycombinator.com/item?id=41356279) - [Predicting the future of distributed systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 
 ## [Archives](archives/index.md)
