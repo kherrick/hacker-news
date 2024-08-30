@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-30, 07:32:50",
+      "https://news.ycombinator.com/item?id=41398502"
+    ],
+    [
+      "Deconstructing the Garbage-First Collector [pdf]",
+      "https://www.steveblackburn.org/pubs/papers/g1-vee-2020.pdf"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 07:06:34",
       "https://news.ycombinator.com/item?id=41398351"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-08-29, 21:00:51",
-      "https://news.ycombinator.com/item?id=41395226"
-    ],
-    [
-      "Poly (YC S22) is hiring Rust experts in SF to build \"Arc browser for files\"",
-      "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 20:10:02",
       "https://news.ycombinator.com/item?id=41394797"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-08-29, 15:33:09",
-      "https://news.ycombinator.com/item?id=41391868"
-    ],
-    [
-      "Judges rule Big Tech's free ride on Section 230 is over",
-      "https://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 15:29:13",
       "https://news.ycombinator.com/item?id=41391822"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: An open-source, local-first Webflow for your own app",
       "https://github.com/onlook-dev/onlook"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 13:16:54",
+      "https://news.ycombinator.com/item?id=41379149"
+    ],
+    [
+      "Mastering ISO 8583 Message Networking with Golang",
+      "https://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/"
     ]
   ],
   [
