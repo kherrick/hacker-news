@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-08-30, 11:32:11",
-      "https://news.ycombinator.com/item?id=41399704"
-    ],
-    [
-      "Japan police: Nearly 4k who died alone at home not found for over a month",
-      "https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 09:54:52",
       "https://news.ycombinator.com/item?id=41399224"
     ],
@@ -197,6 +187,16 @@
     [
       "Bypassing airport security via SQL injection",
       "https://ian.sh/tsa"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 15:29:13",
+      "https://news.ycombinator.com/item?id=41391822"
+    ],
+    [
+      "Raspberry Pi Pico does line rate 100M Ethernet",
+      "https://github.com/rscott2049/pico-rmii-ethernet_nce"
     ]
   ],
   [
