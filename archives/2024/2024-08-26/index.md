@@ -59,6 +59,7 @@
 * [2024-08-26, 14:39:18](https://news.ycombinator.com/item?id=41357594) - [Emmanuel Macron on the Arrest of Pavel Durov](https://twitter.com/EmmanuelMacron/status/1828077245606342672)
 * [2024-08-26, 14:37:30](https://news.ycombinator.com/item?id=41357572) - [Exploiting column chunks for faster ingestion and lower memory use](https://rerun.io/blog/column-chunks)
 * [2024-08-26, 14:36:30](https://news.ycombinator.com/item?id=41357557) - [DOJ Files Antitrust Suit Against RealPage, Maker of Rent-Setting Algorithm](https://www.propublica.org/article/realpage-lawsuit-doj-antitrustdoj-files-antitrust-suit-against-maker-of-rent-setting-algorithm)
+* [2024-08-26, 14:22:38](https://news.ycombinator.com/item?id=41357409) - [Emacs-like editor written in Common Lisp](https://lem-project.github.io/#)
 * [2024-08-26, 14:08:24](https://news.ycombinator.com/item?id=41357269) - [Schools are competing with cell phones](https://apnews.com/article/school-cell-phone-ban-extracurricular-afterschool-4d89f5b7fd7c8f1d5903f8c04f26da54)
 * [2024-08-26, 14:01:58](https://news.ycombinator.com/item?id=41357188) - [An SSR Performance Showdown](https://blog.platformatic.dev/an-ssr-performance-showdown)
 * [2024-08-26, 13:54:08](https://news.ycombinator.com/item?id=41357123) - [Leader Election with S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
+* [2024-08-30, 14:56:32](https://news.ycombinator.com/item?id=41401322) - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 * [2024-08-30, 14:51:00](https://news.ycombinator.com/item?id=41401287) - [Resilient Anonymous Communication for Everyone (Race)](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)
 * [2024-08-30, 14:46:50](https://news.ycombinator.com/item?id=41401250) - [Microsoft Remote Desktop will be renamed to Windows App](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-app-general-availability-coming-soon/ba-p/4206647)
 * [2024-08-30, 14:00:41](https://news.ycombinator.com/item?id=41400807) - [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
