@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-30, 16:34:57",
-      "https://news.ycombinator.com/item?id=41402313"
+      "2024-08-30, 17:00:42",
+      "https://news.ycombinator.com/item?id=41402559"
     ],
     [
-      "Telegram as an Independent Intelligence Agency",
-      "https://maxread.substack.com/p/telegram-as-an-independent-intelligence"
+      "Blueprint Bryan Johnson Is Hiring Developers",
+      "https://www.ycombinator.com/companies/eat-blueprint/jobs/UcjLc1R-software-developer"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 16:45:37",
+      "https://news.ycombinator.com/item?id=41402418"
+    ],
+    [
+      "Drug Development Failure: how GLP-1 development was abandoned in 1990",
+      "https://muse.jhu.edu/pub/1/article/936036/pdf"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Resilient Anonymous Communication for Everyone (Race)",
       "https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 14:44:06",
+      "https://news.ycombinator.com/item?id=41401224"
+    ],
+    [
+      "Judge grants restraining order against cybersecurity expert",
+      "https://www.10tv.com/article/news/local/city-columbus-sues-cybersecurity-expert/530-fc59233d-39cb-463f-9454-0234f1c8cced"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-08-30, 08:29:04",
-      "https://news.ycombinator.com/item?id=41398780"
-    ],
-    [
-      "Scpptool – a tool to enforce a memory and data race safe subset of C++",
-      "https://github.com/duneroadrunner/scpptool"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 07:06:34",
       "https://news.ycombinator.com/item?id=41398351"
     ],
@@ -157,16 +167,6 @@
     [
       "SDL3 new GPU API merged",
       "https://github.com/libsdl-org/SDL/pull/9312"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 22:56:27",
-      "https://news.ycombinator.com/item?id=41396206"
-    ],
-    [
-      "Firewall rules: not as secure as you think",
-      "https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html"
     ]
   ],
   [
