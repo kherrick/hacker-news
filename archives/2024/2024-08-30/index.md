@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
 * [2024-08-30, 08:59:07](https://news.ycombinator.com/item?id=41398925) - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
+* [2024-08-30, 07:32:50](https://news.ycombinator.com/item?id=41398502) - [Deconstructing the Garbage-First Collector [pdf]](https://www.steveblackburn.org/pubs/papers/g1-vee-2020.pdf)
 * [2024-08-30, 07:06:34](https://news.ycombinator.com/item?id=41398351) - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
 * [2024-08-30, 05:07:15](https://news.ycombinator.com/item?id=41397873) - [Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
 * [2024-08-30, 04:59:58](https://news.ycombinator.com/item?id=41397847) - [Tabbed out on the Oregon Trail](https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail)
