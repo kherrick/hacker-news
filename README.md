@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-30, 10:00:07](https://news.ycombinator.com/item?id=41399249) - [Bay Watch: Northern California is an energy catastrophe waiting to happen](https://newsletter.doomberg.com/p/bay-watch)
 * [2024-08-30, 09:54:52](https://news.ycombinator.com/item?id=41399224) - [Low-cost 16 EEG channels cap (hat) for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)
 * [2024-08-30, 09:25:13](https://news.ycombinator.com/item?id=41399047) - [Rubi: Symbolic integrator based on an extensive system of integration rules](https://rulebasedintegration.org/)
 * [2024-08-30, 08:59:07](https://news.ycombinator.com/item?id=41398925) - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
@@ -24,8 +23,9 @@
 * [2024-08-29, 15:29:13](https://news.ycombinator.com/item?id=41391822) - [Raspberry Pi Pico does line rate 100M Ethernet](https://github.com/rscott2049/pico-rmii-ethernet_nce)
 * [2024-08-29, 14:53:15](https://news.ycombinator.com/item?id=41391412) - [Chrome is entrenching third-party cookies that will mislead users](https://brave.com/blog/related-website-sets/)
 * [2024-08-29, 13:57:51](https://news.ycombinator.com/item?id=41390884) - [Can solar costs keep shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
+* [2024-08-28, 11:44:58](https://news.ycombinator.com/item?id=41378443) - [Glass Beads](https://outlandishclaims.substack.com/p/seven-glass-beads)
 * [2024-08-28, 07:24:42](https://news.ycombinator.com/item?id=41376893) - [Micrograd.jl](https://liorsinai.github.io/machine-learning/2024/07/27/micrograd-1-chainrules.html)
-* [2024-08-27, 15:23:04](https://news.ycombinator.com/item?id=41368583) - [Six Things I Know for Sure About Marketing to Engineers](https://www.bly.com/Pages/documents/STIKFS.html)
+* [2024-08-27, 15:23:04](https://news.ycombinator.com/item?id=41368583) - [Marketing to Engineers](https://www.bly.com/Pages/documents/STIKFS.html)
 * [2024-08-27, 14:55:09](https://news.ycombinator.com/item?id=41368239) - [Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)](https://bpfquery.com/?showing=kprobe)
 * [2024-08-27, 05:09:24](https://news.ycombinator.com/item?id=41364715) - [The Thin Purple Line](https://harpers.org/archive/2024/09/the-thin-purple-line-jasper-craven-private-security-guard/)
 * [2024-08-26, 13:11:07](https://news.ycombinator.com/item?id=41356775) - [Pie doesn't need to be original (unless you claim it so)](https://buttondown.com/geoffreylitt/archive/your-pie-doesnt-need-to-be-original-unless-you/)
