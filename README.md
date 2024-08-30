@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-30, 18:42:30](https://news.ycombinator.com/item?id=41403414) - [Japan was the future but it's stuck in the past](https://www.bbc.com/news/world-asia-63830490)
+* [2024-08-30, 18:49:47](https://news.ycombinator.com/item?id=41403466) - [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
+* [2024-08-30, 18:42:30](https://news.ycombinator.com/item?id=41403414) - [Japan was the future but it's stuck in the past (2023)](https://www.bbc.com/news/world-asia-63830490)
 * [2024-08-30, 17:31:30](https://news.ycombinator.com/item?id=41402832) - [Motion (YC W20) is hiring TypeScript back end engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-08-30, 17:03:24](https://news.ycombinator.com/item?id=41402581) - [The Most Dangerous Email (to my career) I've Sent](https://www.notyourlanguage.com/post/scariest_email/)
 * [2024-08-30, 16:45:37](https://news.ycombinator.com/item?id=41402418) - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
@@ -20,7 +21,6 @@
 * [2024-08-28, 13:20:25](https://news.ycombinator.com/item?id=41379181) - [The Pacesetting Leadership Style](https://leahfarmer.substack.com/p/12-leadership-styles-pacesetting)
 * [2024-08-28, 13:01:54](https://news.ycombinator.com/item?id=41379015) - [Home Assistant Presence Simulation](https://github.com/slashback100/presence_simulation)
 * [2024-08-28, 12:48:18](https://news.ycombinator.com/item?id=41378883) - [Portraits of insects reveal the intricacies of a world](https://www.smithsonianmag.com/science-nature/these-stunning-portraits-of-insects-reveal-the-intricacies-of-an-amazing-world-180984926/)
-* [2024-08-28, 12:34:39](https://news.ycombinator.com/item?id=41378751) - [Faxlore](https://en.wikipedia.org/wiki/Faxlore)
 * [2024-08-28, 10:28:28](https://news.ycombinator.com/item?id=41378002) - [Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)
 * [2024-08-28, 07:24:42](https://news.ycombinator.com/item?id=41376893) - [Micrograd.jl](https://liorsinai.github.io/machine-learning/2024/07/27/micrograd-1-chainrules.html)
 * [2024-08-27, 22:05:18](https://news.ycombinator.com/item?id=41373650) - [GeoWorks: The Other Windows (2019)](https://tedium.co/2019/06/20/geoworks-geos-history/)
