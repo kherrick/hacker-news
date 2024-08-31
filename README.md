@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-31, 19:20:17](https://news.ycombinator.com/item?id=41411198) - [Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
 * [2024-08-31, 18:16:08](https://news.ycombinator.com/item?id=41410684) - [Why You Should Learn Linux (As a Developer)](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
 * [2024-08-31, 18:03:32](https://news.ycombinator.com/item?id=41410597) - [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
 * [2024-08-31, 17:42:45](https://news.ycombinator.com/item?id=41410450) - [Nearly half of Nvidia's revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
@@ -20,7 +21,6 @@
 * [2024-08-31, 03:56:38](https://news.ycombinator.com/item?id=41406453) - [Rediscovering the Small Web (2020)](https://neustadt.fr/essays/the-small-web/)
 * [2024-08-30, 22:53:00](https://news.ycombinator.com/item?id=41405243) - [Bresenham's Circle Drawing Algorithm (2021)](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)
 * [2024-08-30, 20:58:17](https://news.ycombinator.com/item?id=41404360) - [Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)](https://github.com/velorek1/C-edit)
-* [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-28, 17:25:15](https://news.ycombinator.com/item?id=41381827) - [Tumblr to move its half a billion blogs to WordPress](https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 19:20:17](https://news.ycombinator.com/item?id=41411198) - [Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
 * [2024-08-31, 18:16:08](https://news.ycombinator.com/item?id=41410684) - [Why You Should Learn Linux (As a Developer)](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
 * [2024-08-31, 18:03:32](https://news.ycombinator.com/item?id=41410597) - [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
 * [2024-08-31, 17:42:45](https://news.ycombinator.com/item?id=41410450) - [Nearly half of Nvidia's revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
