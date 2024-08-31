@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 23:17:38](https://news.ycombinator.com/item?id=41405364) - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
 * [2024-08-30, 22:46:59](https://news.ycombinator.com/item?id=41405195) - [Crows Are Even Smarter Than We Thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
 * [2024-08-30, 22:17:18](https://news.ycombinator.com/item?id=41405000) - [MongoDB takes a swing at PostgreSQL after claiming wins against rival](https://www.theregister.com/2024/08/30/mongodb_postgresql/)
 * [2024-08-30, 21:59:00](https://news.ycombinator.com/item?id=41404897) - [John Rawls and the Death of Western Marxism](https://josephheath.substack.com/p/john-rawls-and-the-death-of-western)
