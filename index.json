@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-31, 01:18:08",
+      "https://news.ycombinator.com/item?id=41405961"
+    ],
+    [
+      "Cassette Tape Archive",
+      "http://www.tapedeck.org/index.php"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 01:00:42",
+      "https://news.ycombinator.com/item?id=41405898"
+    ],
+    [
+      "Jerry (YC S17) Is Hiring Lead Product (New Product, B2B GenAI Platform)",
+      "https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 23:17:38",
       "https://news.ycombinator.com/item?id=41405364"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2024-08-30, 21:50:45",
-      "https://news.ycombinator.com/item?id=41404853"
-    ],
-    [
-      "Hadrius (YC W23) Is Hiring a Customer Success Engineer",
-      "https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 21:38:08",
       "https://news.ycombinator.com/item?id=41404748"
     ],
@@ -47,16 +57,6 @@
     [
       "Rust in Linux Revisited",
       "https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 21:33:16",
-      "https://news.ycombinator.com/item?id=41404704"
-    ],
-    [
-      "Our slowly growing Unix monoculture",
-      "https://utcc.utoronto.ca/%7Ecks/space/blog/sysadmin/OurGrowingUnixMonoculture"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-08-28, 12:13:24",
-      "https://news.ycombinator.com/item?id=41378608"
-    ],
-    [
-      "Notan: Cross-Platform Multimedia Layer",
-      "https://github.com/Nazariglez/notan"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 10:28:28",
       "https://news.ycombinator.com/item?id=41378002"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: Create notes and maps that live outdoors with web and AR integration",
       "https://www.auglinn.com"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 14:04:37",
+      "https://news.ycombinator.com/item?id=41367658"
+    ],
+    [
+      "BaseX – a highly W3C compliant XQuery processor",
+      "https://docs.basex.org/12/Main_Page"
     ]
   ],
   [
