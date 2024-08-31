@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-08-31, 15:23:50](https://news.ycombinator.com/item?id=41409522) - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
-* [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need [video]](http://tom7.org/harder/)
+* [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need [video] (2022)](http://tom7.org/harder/)
+* [2024-08-31, 15:16:54](https://news.ycombinator.com/item?id=41409475) - [Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
 * [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
 * [2024-08-31, 13:27:21](https://news.ycombinator.com/item?id=41408732) - [Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
 * [2024-08-31, 12:01:04](https://news.ycombinator.com/item?id=41408234) - [Sisk – Lightweight .NET Web Framework](https://www.sisk-framework.org/)
@@ -20,7 +21,6 @@
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 15:09:03](https://news.ycombinator.com/item?id=41401463) - [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
-* [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-29, 05:20:45](https://news.ycombinator.com/item?id=41387613) - [Why Medieval Women Sometimes Fought in Bloody Trials by Combat](https://www.atlasobscura.com/articles/trial-by-combat-man-woman)
 * [2024-08-28, 17:25:15](https://news.ycombinator.com/item?id=41381827) - [Tumblr to move its half a billion blogs to WordPress](https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/)
