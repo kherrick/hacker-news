@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 04:29:09](https://news.ycombinator.com/item?id=41406550) - [Is my vision that bad? No, it's just a bug in Apple's Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
 * [2024-08-31, 04:01:47](https://news.ycombinator.com/item?id=41406471) - [Newest social network does not suck](https://www.metafilter.com/205297/newest-social-network-does-not-suck)
 * [2024-08-31, 03:56:38](https://news.ycombinator.com/item?id=41406453) - [Rediscovering the Small Web (2020)](https://neustadt.fr/essays/the-small-web/)
 * [2024-08-31, 02:59:13](https://news.ycombinator.com/item?id=41406281) - [Radiance Cascades: A Novel High-Res Sol. For Multidim Non-LTE Radiative Transfer](https://arxiv.org/abs/2408.14425)
