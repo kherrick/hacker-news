@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 13:27:21](https://news.ycombinator.com/item?id=41408732) - [Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
 * [2024-08-31, 12:12:34](https://news.ycombinator.com/item?id=41408293) - [Something's Poisoning America's Farms. Scientists Fear 'Forever' Chemicals](https://www.nytimes.com/2024/08/31/climate/pfas-fertilizer-sludge-farm.html)
 * [2024-08-31, 10:24:07](https://news.ycombinator.com/item?id=41407774) - [Alexander Grothendieck: a forgotten genius– or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
 * [2024-08-31, 10:22:10](https://news.ycombinator.com/item?id=41407768) - [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
