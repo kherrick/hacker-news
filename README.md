@@ -7,6 +7,7 @@
 * [2024-08-31, 19:20:17](https://news.ycombinator.com/item?id=41411198) - [Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
 * [2024-08-31, 19:13:48](https://news.ycombinator.com/item?id=41411147) - [Las Vegas police could boycott working NFL games over new facial ID policy](https://www.reviewjournal.com/local/local-las-vegas/nfl-facial-recognition-policy-upsets-las-vegas-police-union-3128202/)
 * [2024-08-31, 18:16:08](https://news.ycombinator.com/item?id=41410684) - [Why You Should Learn Linux (As a Developer)](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
+* [2024-08-31, 18:03:32](https://news.ycombinator.com/item?id=41410597) - [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
 * [2024-08-31, 17:42:45](https://news.ycombinator.com/item?id=41410450) - [Nearly half of Nvidia's revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
 * [2024-08-31, 17:42:14](https://news.ycombinator.com/item?id=41410442) - [Client-side QR code generator with SVG output](https://fietkau.software/qr)
 * [2024-08-31, 17:30:08](https://news.ycombinator.com/item?id=41410375) - [Neo – Futuristic Matrix Messenger](https://mszpro.com/nil/)
@@ -29,7 +30,6 @@
 * [2024-08-28, 07:52:17](https://news.ycombinator.com/item?id=41377073) - [Karpathy on Software 2.0 (2017)](https://karpathy.medium.com/software-2-0-a64152b37c35)
 * [2024-08-27, 16:07:28](https://news.ycombinator.com/item?id=41369065) - [Building Bubbletea Programs](https://leg100.github.io/en/posts/building-bubbletea-programs/)
 * [2024-08-27, 15:30:12](https://news.ycombinator.com/item?id=41368657) - [Compilation of JavaScript to WASM, Part 2: Ahead-of-Time vs. JIT](https://cfallin.org/blog/2024/08/27/aot-js/)
-* [2024-08-27, 14:18:18](https://news.ycombinator.com/item?id=41367820) - [Changes in Need for Uniqueness From 2000 Until 2020](https://online.ucpress.edu/collabra/article/10/1/121937/202992/Changes-in-Need-for-Uniqueness-From-2000-Until)
 
 ## [Archives](archives/index.md)
 
