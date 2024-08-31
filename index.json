@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-31, 16:21:27",
-      "https://news.ycombinator.com/item?id=41409882"
+      "2024-08-31, 16:03:00",
+      "https://news.ycombinator.com/item?id=41409776"
     ],
     [
-      "Did your car witness a crime? Bay Area police may be coming for your Tesla",
-      "https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php"
+      "What it's like take a train across America, a visual diary",
+      "https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-08-30, 20:17:43",
+      "https://news.ycombinator.com/item?id=41404064"
+    ],
+    [
+      "Password protect a static HTML page, decrypted in-browser in JavaScript",
+      "https://github.com/robinmoisson/staticrypt"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 20:12:41",
       "https://news.ycombinator.com/item?id=41404020"
     ],
@@ -187,16 +197,6 @@
     [
       "500 Python Interpreters",
       "https://izzys.casa/2024/08/463-python-interpreters/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 15:09:03",
-      "https://news.ycombinator.com/item?id=41401463"
-    ],
-    [
-      "Language and shell in Go with 92% test coverage and instant CI/CD [video]",
-      "https://www.youtube.com/watch?v=YzIiUjgnSsA"
     ]
   ],
   [
