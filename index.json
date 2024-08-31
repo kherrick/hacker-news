@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-31, 13:27:21",
+      "https://news.ycombinator.com/item?id=41408732"
+    ],
+    [
+      "Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle",
+      "https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 10:24:07",
       "https://news.ycombinator.com/item?id=41407774"
     ],
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2024-08-30, 21:50:45",
-      "https://news.ycombinator.com/item?id=41404853"
+      "2024-08-30, 20:58:17",
+      "https://news.ycombinator.com/item?id=41404360"
     ],
     [
-      "Hadrius (YC W23) Is Hiring a Customer Success Engineer",
-      "https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer"
+      "Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)",
+      "https://github.com/velorek1/C-edit"
     ]
   ],
   [
@@ -137,6 +147,16 @@
     [
       "Password protect a static HTML page, decrypted in-browser in JavaScript",
       "https://github.com/robinmoisson/staticrypt"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 20:12:41",
+      "https://news.ycombinator.com/item?id=41404020"
+    ],
+    [
+      "Show HN: Asyncpal: Preemptive concurrency and parallelism for sporadic workloads",
+      "https://github.com/pyrustic/asyncpal"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-08-28, 13:01:54",
-      "https://news.ycombinator.com/item?id=41379015"
-    ],
-    [
-      "Home Assistant Presence Simulation",
-      "https://github.com/slashback100/presence_simulation"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 12:48:18",
       "https://news.ycombinator.com/item?id=41378883"
     ],
@@ -247,16 +257,6 @@
     [
       "FCast: Casting Made Open Source",
       "https://fcast.org/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 22:05:18",
-      "https://news.ycombinator.com/item?id=41373650"
-    ],
-    [
-      "GeoWorks: The Other Windows (2019)",
-      "https://tedium.co/2019/06/20/geoworks-geos-history/"
     ]
   ],
   [
