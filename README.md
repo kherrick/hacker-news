@@ -21,7 +21,6 @@
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
-* [2024-08-30, 08:59:07](https://news.ycombinator.com/item?id=41398925) - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
 * [2024-08-28, 13:01:54](https://news.ycombinator.com/item?id=41379015) - [Home Assistant Presence Simulation](https://github.com/slashback100/presence_simulation)
 * [2024-08-28, 12:48:18](https://news.ycombinator.com/item?id=41378883) - [Portraits of insects reveal the intricacies of a world](https://www.smithsonianmag.com/science-nature/these-stunning-portraits-of-insects-reveal-the-intricacies-of-an-amazing-world-180984926/)
@@ -29,6 +28,7 @@
 * [2024-08-28, 07:54:58](https://news.ycombinator.com/item?id=41377097) - [How to Use React Compiler](https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/)
 * [2024-08-28, 05:23:00](https://news.ycombinator.com/item?id=41376215) - [FCast: Casting Made Open Source](https://fcast.org/)
 * [2024-08-27, 22:05:18](https://news.ycombinator.com/item?id=41373650) - [GeoWorks: The Other Windows (2019)](https://tedium.co/2019/06/20/geoworks-geos-history/)
+* [2024-08-27, 16:19:53](https://news.ycombinator.com/item?id=41369231) - [Show HN: Supertree – interactive visualization of decision trees in Python](https://news.ycombinator.com/item?id=41369231)
 * [2024-08-27, 14:04:37](https://news.ycombinator.com/item?id=41367658) - [BaseX – a highly W3C compliant XQuery processor](https://docs.basex.org/12/Main_Page)
 
 ## [Archives](archives/index.md)
