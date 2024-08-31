@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-08-31, 22:47:36",
-      "https://news.ycombinator.com/item?id=41412623"
-    ],
-    [
-      "An Ode to My 5-Year-Old Samsung Galaxy S10e",
-      "https://mbrizic.com/blog/samsung-galaxy-s10e/"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 22:44:02",
-      "https://news.ycombinator.com/item?id=41412606"
-    ],
-    [
-      "One Million new Bluesky users in 3 days",
-      "https://bsky.app/profile/bsky.app/post/3l3277gkjjc2y"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 22:40:00",
       "https://news.ycombinator.com/item?id=41412582"
     ],
@@ -41,22 +21,12 @@
   ],
   [
     [
-      "2024-08-31, 21:15:21",
-      "https://news.ycombinator.com/item?id=41412054"
+      "2024-08-31, 21:29:16",
+      "https://news.ycombinator.com/item?id=41412154"
     ],
     [
-      "Landlords Face a $1.5T Commercial Real Estate Maturity Wall",
-      "https://www.bloomberg.com/news/articles/2024-08-31/landlords-face-a-1-5-trillion-commercial-real-estate-maturity-wall"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 21:13:10",
-      "https://news.ycombinator.com/item?id=41412035"
-    ],
-    [
-      "Greece announces new rules banning mobile phones in schools from September",
-      "https://www.euronews.com/my-europe/2024/08/31/greece-announces-new-rules-banning-mobile-phones-in-schools-from-september"
+      "Oxide Podcast: RFDs – Requests for Discussion",
+      "https://podcasts.apple.com/gb/podcast/rfds-the-backbone-of-oxide/id1625932222?i=1000667435129"
     ]
   ],
   [
@@ -67,16 +37,6 @@
     [
       "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
       "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 20:17:13",
-      "https://news.ycombinator.com/item?id=41411635"
-    ],
-    [
-      "Federal Appeals Court Once Again Rejects Blanket Gun Ban for Cannabis Consumers",
-      "https://norml.org/blog/2024/08/29/federal-appeals-court-once-again-rejects-blanket-gun-ban-for-cannabis-consumers/"
     ]
   ],
   [
@@ -111,32 +71,12 @@
   ],
   [
     [
-      "2024-08-31, 19:13:48",
-      "https://news.ycombinator.com/item?id=41411147"
-    ],
-    [
-      "Las Vegas police could boycott working NFL games over new facial ID policy",
-      "https://www.reviewjournal.com/local/local-las-vegas/nfl-facial-recognition-policy-upsets-las-vegas-police-union-3128202/"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 19:11:21",
       "https://news.ycombinator.com/item?id=41411122"
     ],
     [
       "Percona Everest: open-source automated database provisioning and management",
       "https://docs.percona.com/everest/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 17:42:45",
-      "https://news.ycombinator.com/item?id=41410450"
-    ],
-    [
-      "Nearly half of Nvidia's revenue comes from four mystery whales each buying $3B+",
-      "https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/"
     ]
   ],
   [
@@ -157,6 +97,16 @@
     [
       "Neo – Futuristic Matrix Messenger",
       "https://mszpro.com/nil/"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 17:09:09",
+      "https://news.ycombinator.com/item?id=41410246"
+    ],
+    [
+      "Beyond logical replication: pg_easy_replicate Supports Tracking DDL Changes",
+      "https://www.shayon.dev/post/2024/244/pg_easy_replicate-now-supports-tracking-schema-changes-in-postgresql/"
     ]
   ],
   [
@@ -221,12 +171,42 @@
   ],
   [
     [
+      "2024-08-31, 13:27:21",
+      "https://news.ycombinator.com/item?id=41408732"
+    ],
+    [
+      "Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle",
+      "https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 11:19:08",
       "https://news.ycombinator.com/item?id=41407993"
     ],
     [
       "Show HN: Typeform alternative, turns Markdown to forms",
       "https://blocks.md"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 05:29:35",
+      "https://news.ycombinator.com/item?id=41406752"
+    ],
+    [
+      "The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads (2022)",
+      "https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 05:03:51",
+      "https://news.ycombinator.com/item?id=41406669"
+    ],
+    [
+      "Iron as an inexpensive storage medium for hydrogen",
+      "https://ethz.ch/en/news-and-events/eth-news/news/2024/08/iron-as-an-inexpensive-storage-medium-for-hydrogen.html"
     ]
   ],
   [
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2024-08-30, 22:53:00",
+      "https://news.ycombinator.com/item?id=41405243"
+    ],
+    [
+      "Bresenham's Circle Drawing Algorithm (2021)",
+      "https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 20:58:17",
       "https://news.ycombinator.com/item?id=41404360"
     ],
     [
       "Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)",
       "https://github.com/velorek1/C-edit"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 14:20:11",
+      "https://news.ycombinator.com/item?id=41401004"
+    ],
+    [
+      "Repainting our app mid-flight",
+      "https://www.reviewable.io/blog/repainting-our-app-mid-flight/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-08-28, 07:52:17",
-      "https://news.ycombinator.com/item?id=41377073"
+      "2024-08-28, 11:19:07",
+      "https://news.ycombinator.com/item?id=41378287"
     ],
     [
-      "Karpathy on Software 2.0 (2017)",
-      "https://karpathy.medium.com/software-2-0-a64152b37c35"
+      "Designing a Timeline for Mobile Video Editing",
+      "https://img.ly/blog/designing-a-timeline-for-mobile-video-editing/"
     ]
   ],
   [
