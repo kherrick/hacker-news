@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-31, 08:42:42](https://news.ycombinator.com/item?id=41407407) - [Shine with Gleam](https://rockyj-blogs.web.app/2024/08/31/shine-with-gleam.html)
 * [2024-08-31, 05:45:13](https://news.ycombinator.com/item?id=41406799) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
 * [2024-08-31, 05:29:35](https://news.ycombinator.com/item?id=41406752) - [The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads](https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/)
 * [2024-08-31, 05:03:51](https://news.ycombinator.com/item?id=41406669) - [Iron as an inexpensive storage medium for hydrogen](https://ethz.ch/en/news-and-events/eth-news/news/2024/08/iron-as-an-inexpensive-storage-medium-for-hydrogen.html)
@@ -26,9 +27,8 @@
 * [2024-08-28, 12:48:18](https://news.ycombinator.com/item?id=41378883) - [Portraits of insects reveal the intricacies of a world](https://www.smithsonianmag.com/science-nature/these-stunning-portraits-of-insects-reveal-the-intricacies-of-an-amazing-world-180984926/)
 * [2024-08-28, 10:28:28](https://news.ycombinator.com/item?id=41378002) - [Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)
 * [2024-08-28, 07:54:58](https://news.ycombinator.com/item?id=41377097) - [How to Use React Compiler](https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/)
-* [2024-08-28, 05:23:00](https://news.ycombinator.com/item?id=41376215) - [FCast: Casting Made Open Source](https://fcast.org/)
-* [2024-08-27, 22:05:18](https://news.ycombinator.com/item?id=41373650) - [GeoWorks: The Other Windows (2019)](https://tedium.co/2019/06/20/geoworks-geos-history/)
 * [2024-08-27, 16:19:53](https://news.ycombinator.com/item?id=41369231) - [Show HN: Supertree – interactive visualization of decision trees in Python](https://news.ycombinator.com/item?id=41369231)
+* [2024-08-27, 16:07:28](https://news.ycombinator.com/item?id=41369065) - [Building Bubbletea Programs](https://leg100.github.io/en/posts/building-bubbletea-programs/)
 * [2024-08-27, 14:04:37](https://news.ycombinator.com/item?id=41367658) - [BaseX – a highly W3C compliant XQuery processor](https://docs.basex.org/12/Main_Page)
 
 ## [Archives](archives/index.md)

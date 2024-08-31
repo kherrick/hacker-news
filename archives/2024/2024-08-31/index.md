@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 08:42:42](https://news.ycombinator.com/item?id=41407407) - [Shine with Gleam](https://rockyj-blogs.web.app/2024/08/31/shine-with-gleam.html)
 * [2024-08-31, 05:45:13](https://news.ycombinator.com/item?id=41406799) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
 * [2024-08-31, 05:29:35](https://news.ycombinator.com/item?id=41406752) - [The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads](https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/)
 * [2024-08-31, 05:03:51](https://news.ycombinator.com/item?id=41406669) - [Iron as an inexpensive storage medium for hydrogen](https://ethz.ch/en/news-and-events/eth-news/news/2024/08/iron-as-an-inexpensive-storage-medium-for-hydrogen.html)
