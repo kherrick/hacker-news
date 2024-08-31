@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41407469"
     ],
     [
-      "Google Cloud: synchronous disk replication",
+      "About synchronous disk replication",
       "https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk"
     ]
   ],
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-08-31, 02:49:55",
-      "https://news.ycombinator.com/item?id=41406256"
-    ],
-    [
-      "Five Most Productive Years: What Happened and What's Next",
-      "https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 23:17:38",
       "https://news.ycombinator.com/item?id=41405364"
     ],
@@ -147,6 +137,26 @@
     [
       "Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)",
       "https://github.com/velorek1/C-edit"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 20:25:14",
+      "https://news.ycombinator.com/item?id=41404117"
+    ],
+    [
+      "Three questions to turn the table during technical interviews",
+      "https://bellmar.medium.com/three-critical-questions-to-turn-the-table-during-technical-interviews-dd1594c278b8"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 20:17:43",
+      "https://news.ycombinator.com/item?id=41404064"
+    ],
+    [
+      "Password protect a static HTML page, decrypted in-browser in JavaScript",
+      "https://github.com/robinmoisson/staticrypt"
     ]
   ],
   [
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2024-08-28, 12:48:18",
-      "https://news.ycombinator.com/item?id=41378883"
-    ],
-    [
-      "Portraits of insects reveal the intricacies of a world",
-      "https://www.smithsonianmag.com/science-nature/these-stunning-portraits-of-insects-reveal-the-intricacies-of-an-amazing-world-180984926/"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 08:34:38",
       "https://news.ycombinator.com/item?id=41377328"
     ],
     [
-      "Bundling Information Goods: Pricing, Profits, and Efficiency (1999)",
-      "https://www.jstor.org/stable/2634781"
+      "Bundling Information Goods: Pricing, Profits, and Efficiency (1999) [pdf]",
+      "https://pages.stern.nyu.edu/~bakos/big.pdf"
     ]
   ],
   [
