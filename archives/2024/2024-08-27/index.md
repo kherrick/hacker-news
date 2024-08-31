@@ -46,6 +46,7 @@
 * [2024-08-27, 15:55:56](https://news.ycombinator.com/item?id=41368935) - [80% of AI Projects Crash and Burn, Billions Wasted Says Rand Report](https://salesforcedevops.net/index.php/2024/08/19/ai-apocalypse/)
 * [2024-08-27, 15:49:27](https://news.ycombinator.com/item?id=41368866) - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 * [2024-08-27, 15:46:02](https://news.ycombinator.com/item?id=41368835) - [Bootstrappable Builds](https://bootstrappable.org)
+* [2024-08-27, 15:35:41](https://news.ycombinator.com/item?id=41368726) - [Microtome](https://en.wikipedia.org/wiki/Microtome)
 * [2024-08-27, 15:33:26](https://news.ycombinator.com/item?id=41368704) - [We Can and Should Domesticate Raccoons](https://www.oliviali.me/writing/raccoons)
 * [2024-08-27, 15:32:28](https://news.ycombinator.com/item?id=41368690) - [Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
 * [2024-08-27, 15:31:47](https://news.ycombinator.com/item?id=41368677) - [No smoking in your own home, California city orders residents](https://www.thetimes.com/world/us-world/article/carlsbad-california-smoking-illegal-where-houses-k9qrrvm05)
