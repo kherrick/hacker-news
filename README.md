@@ -2,8 +2,8 @@
 
 * [2024-08-31, 22:40:00](https://news.ycombinator.com/item?id=41412582) - [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn't a Phone](https://ewritable.com/ereaders/boox-palma/review/)
 * [2024-08-31, 21:45:59](https://news.ycombinator.com/item?id=41412256) - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
-* [2024-08-31, 21:29:16](https://news.ycombinator.com/item?id=41412154) - [Oxide Podcast: RFDs – Requests for Discussion](https://podcasts.apple.com/gb/podcast/rfds-the-backbone-of-oxide/id1625932222?i=1000667435129)
 * [2024-08-31, 21:01:53](https://news.ycombinator.com/item?id=41411940) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+* [2024-08-31, 20:25:40](https://news.ycombinator.com/item?id=41411694) - [Astronomers puzzled by little red galaxies that seem impossibly dense](https://www.newscientist.com/article/2445967-astronomers-puzzled-by-little-red-galaxies-that-seem-impossibly-dense/)
 * [2024-08-31, 19:56:03](https://news.ycombinator.com/item?id=41411478) - [The Threat to OpenAI](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
 * [2024-08-31, 19:37:44](https://news.ycombinator.com/item?id=41411339) - [Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)
 * [2024-08-31, 19:32:12](https://news.ycombinator.com/item?id=41411281) - [WatchYourLAN: Lightweight Network IP Scanner](https://github.com/aceberg/WatchYourLAN)
