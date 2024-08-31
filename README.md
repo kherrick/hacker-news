@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-31, 02:09:41](https://news.ycombinator.com/item?id=41406129) - [NSA Releases Internal 1982 Lecture by Rear Admiral Grace Hopper [video]](https://www.youtube.com/watch?v=_bP14OzIJWI)
 * [2024-08-31, 01:18:08](https://news.ycombinator.com/item?id=41405961) - [Cassette Tape Archive](http://www.tapedeck.org/index.php)
 * [2024-08-30, 23:17:38](https://news.ycombinator.com/item?id=41405364) - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
 * [2024-08-30, 22:46:59](https://news.ycombinator.com/item?id=41405195) - [Crows are even smarter than we thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
@@ -15,6 +14,7 @@
 * [2024-08-30, 14:45:02](https://news.ycombinator.com/item?id=41401237) - [Pocket-Godot: Starter Kit for mobile game development using Godot](https://github.com/lukky-nl/Pocket-Godot)
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
+* [2024-08-30, 08:59:07](https://news.ycombinator.com/item?id=41398925) - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-30, 04:59:58](https://news.ycombinator.com/item?id=41397847) - [Tabbed out on the Oregon Trail](https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail)
 * [2024-08-29, 21:20:12](https://news.ycombinator.com/item?id=41395413) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
