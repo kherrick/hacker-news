@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-31, 19:56:03](https://news.ycombinator.com/item?id=41411478) - [The Threat to OpenAI Is Growing](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
+* [2024-08-31, 19:37:44](https://news.ycombinator.com/item?id=41411339) - [Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)
 * [2024-08-31, 19:20:17](https://news.ycombinator.com/item?id=41411198) - [Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
+* [2024-08-31, 19:13:48](https://news.ycombinator.com/item?id=41411147) - [Las Vegas police could boycott working NFL games over new facial ID policy](https://www.reviewjournal.com/local/local-las-vegas/nfl-facial-recognition-policy-upsets-las-vegas-police-union-3128202/)
 * [2024-08-31, 18:16:08](https://news.ycombinator.com/item?id=41410684) - [Why You Should Learn Linux (As a Developer)](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
 * [2024-08-31, 18:03:32](https://news.ycombinator.com/item?id=41410597) - [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
 * [2024-08-31, 17:42:45](https://news.ycombinator.com/item?id=41410450) - [Nearly half of Nvidia's revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
@@ -12,7 +15,6 @@
 * [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
 * [2024-08-31, 13:35:05](https://news.ycombinator.com/item?id=41408772) - [Buy, Borrow, Die – Explained](https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/)
 * [2024-08-31, 13:27:21](https://news.ycombinator.com/item?id=41408732) - [Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
-* [2024-08-31, 12:01:04](https://news.ycombinator.com/item?id=41408234) - [Sisk – Lightweight .NET Web Framework](https://www.sisk-framework.org/)
 * [2024-08-31, 11:19:08](https://news.ycombinator.com/item?id=41407993) - [Show HN: Typeform alternative, turns Markdown to forms](https://blocks.md)
 * [2024-08-31, 09:00:01](https://news.ycombinator.com/item?id=41407469) - [About synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
 * [2024-08-31, 05:29:35](https://news.ycombinator.com/item?id=41406752) - [The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads (2022)](https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/)
@@ -23,13 +25,11 @@
 * [2024-08-30, 20:58:17](https://news.ycombinator.com/item?id=41404360) - [Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)](https://github.com/velorek1/C-edit)
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
-* [2024-08-28, 17:25:15](https://news.ycombinator.com/item?id=41381827) - [Tumblr to move its half a billion blogs to WordPress](https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/)
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
 * [2024-08-28, 11:19:07](https://news.ycombinator.com/item?id=41378287) - [Designing a Timeline for Mobile Video Editing](https://img.ly/blog/designing-a-timeline-for-mobile-video-editing/)
 * [2024-08-28, 07:52:17](https://news.ycombinator.com/item?id=41377073) - [Karpathy on Software 2.0 (2017)](https://karpathy.medium.com/software-2-0-a64152b37c35)
 * [2024-08-27, 16:07:28](https://news.ycombinator.com/item?id=41369065) - [Building Bubbletea Programs](https://leg100.github.io/en/posts/building-bubbletea-programs/)
 * [2024-08-27, 14:18:18](https://news.ycombinator.com/item?id=41367820) - [Changes in Need for Uniqueness From 2000 Until 2020](https://online.ucpress.edu/collabra/article/10/1/121937/202992/Changes-in-Need-for-Uniqueness-From-2000-Until)
-* [2024-08-27, 14:04:37](https://news.ycombinator.com/item?id=41367658) - [BaseX – a highly W3C compliant XQuery processor](https://docs.basex.org/12/Main_Page)
 
 ## [Archives](archives/index.md)
 
