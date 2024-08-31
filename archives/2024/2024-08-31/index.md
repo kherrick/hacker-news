@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 21:13:10](https://news.ycombinator.com/item?id=41412035) - [Greece announces new rules banning mobile phones in schools from September](https://www.euronews.com/my-europe/2024/08/31/greece-announces-new-rules-banning-mobile-phones-in-schools-from-september)
+* [2024-08-31, 21:01:53](https://news.ycombinator.com/item?id=41411940) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-31, 19:56:15](https://news.ycombinator.com/item?id=41411482) - [I learned the language of computer programming in my 50s – what I discovered](https://www.theguardian.com/technology/article/2024/aug/31/learning-computer-programming-language-coding-devil-stack-andrew-smith)
 * [2024-08-31, 19:56:03](https://news.ycombinator.com/item?id=41411478) - [The Threat to OpenAI Is Growing](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
 * [2024-08-31, 19:37:44](https://news.ycombinator.com/item?id=41411339) - [Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)

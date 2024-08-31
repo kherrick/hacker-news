@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-31, 21:13:10](https://news.ycombinator.com/item?id=41412035) - [Greece announces new rules banning mobile phones in schools from September](https://www.euronews.com/my-europe/2024/08/31/greece-announces-new-rules-banning-mobile-phones-in-schools-from-september)
+* [2024-08-31, 21:01:53](https://news.ycombinator.com/item?id=41411940) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-31, 19:56:15](https://news.ycombinator.com/item?id=41411482) - [I learned the language of computer programming in my 50s – what I discovered](https://www.theguardian.com/technology/article/2024/aug/31/learning-computer-programming-language-coding-devil-stack-andrew-smith)
 * [2024-08-31, 19:56:03](https://news.ycombinator.com/item?id=41411478) - [The Threat to OpenAI Is Growing](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
 * [2024-08-31, 19:37:44](https://news.ycombinator.com/item?id=41411339) - [Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)
@@ -7,7 +9,6 @@
 * [2024-08-31, 19:20:17](https://news.ycombinator.com/item?id=41411198) - [Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
 * [2024-08-31, 19:13:48](https://news.ycombinator.com/item?id=41411147) - [Las Vegas police could boycott working NFL games over new facial ID policy](https://www.reviewjournal.com/local/local-las-vegas/nfl-facial-recognition-policy-upsets-las-vegas-police-union-3128202/)
 * [2024-08-31, 18:16:08](https://news.ycombinator.com/item?id=41410684) - [Why You Should Learn Linux (As a Developer)](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
-* [2024-08-31, 18:03:32](https://news.ycombinator.com/item?id=41410597) - [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
 * [2024-08-31, 17:42:45](https://news.ycombinator.com/item?id=41410450) - [Nearly half of Nvidia's revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
 * [2024-08-31, 17:42:14](https://news.ycombinator.com/item?id=41410442) - [Client-side QR code generator with SVG output](https://fietkau.software/qr)
 * [2024-08-31, 17:30:08](https://news.ycombinator.com/item?id=41410375) - [Neo – Futuristic Matrix Messenger](https://mszpro.com/nil/)
@@ -23,7 +24,6 @@
 * [2024-08-31, 05:29:35](https://news.ycombinator.com/item?id=41406752) - [The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads (2022)](https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/)
 * [2024-08-31, 04:29:09](https://news.ycombinator.com/item?id=41406550) - [Is my vision that bad? No, it's just a bug in Apple's Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
 * [2024-08-31, 03:56:38](https://news.ycombinator.com/item?id=41406453) - [Rediscovering the Small Web (2020)](https://neustadt.fr/essays/the-small-web/)
-* [2024-08-30, 22:53:00](https://news.ycombinator.com/item?id=41405243) - [Bresenham's Circle Drawing Algorithm (2021)](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)
 * [2024-08-30, 20:58:17](https://news.ycombinator.com/item?id=41404360) - [Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)](https://github.com/velorek1/C-edit)
 * [2024-08-30, 15:04:19](https://news.ycombinator.com/item?id=41401415) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
