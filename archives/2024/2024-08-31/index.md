@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 17:26:07](https://news.ycombinator.com/item?id=41410344) - [What the f* is e/acc (2022)](https://effectiveaccelerationism.substack.com/p/what-the-f-is-eacc)
+* [2024-08-31, 16:23:13](https://news.ycombinator.com/item?id=41409891) - [My fake job in Y2K preparedness](https://www.nplusonemag.com/issue-48/essays/the-contingency-contingent/)
 * [2024-08-31, 16:21:27](https://news.ycombinator.com/item?id=41409882) - [Did your car witness a crime? Bay Area police may be coming for your Tesla](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 * [2024-08-31, 16:03:00](https://news.ycombinator.com/item?id=41409776) - [What it's like take a train across America, a visual diary](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
 * [2024-08-31, 15:23:50](https://news.ycombinator.com/item?id=41409522) - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
@@ -11,6 +13,7 @@
 * [2024-08-31, 15:19:18](https://news.ycombinator.com/item?id=41409490) - [The Tesla Files Unveil More Accounting Fraud Than Imagined](https://bradmunchen.substack.com/p/the-tesla-files-unveil-more-accounting)
 * [2024-08-31, 15:16:54](https://news.ycombinator.com/item?id=41409475) - [Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
 * [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
+* [2024-08-31, 14:33:12](https://news.ycombinator.com/item?id=41409144) - [We can have democracy or we can have Facebook, but we can't have both (2020)](https://the.ink/p/we-can-have-democracy-or-we-can-have)
 * [2024-08-31, 14:13:33](https://news.ycombinator.com/item?id=41409006) - [Fred: Software Development Job Postings on Indeed in the United States](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE)
 * [2024-08-31, 13:48:31](https://news.ycombinator.com/item?id=41408851) - [UBC engineers develop all-in-one solution to catch and destroy forever chemicals](https://news.ubc.ca/2024/08/ubc-pfas-forever-chemicals-solution/)
 * [2024-08-31, 13:40:21](https://news.ycombinator.com/item?id=41408792) - [When the Mismanagerial Class Destroys Great Companies](https://www.palladiummag.com/2024/08/30/when-the-mismanagerial-class-destroys-great-companies/)
