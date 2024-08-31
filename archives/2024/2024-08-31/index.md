@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
 * [2024-08-31, 15:23:50](https://news.ycombinator.com/item?id=41409522) - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
+* [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need [video]](http://tom7.org/harder/)
 * [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
 * [2024-08-31, 14:13:33](https://news.ycombinator.com/item?id=41409006) - [Fred: Software Development Job Postings on Indeed in the United States](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE)
 * [2024-08-31, 13:48:31](https://news.ycombinator.com/item?id=41408851) - [UBC engineers develop all-in-one solution to catch and destroy forever chemicals](https://news.ubc.ca/2024/08/ubc-pfas-forever-chemicals-solution/)
