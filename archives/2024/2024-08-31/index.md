@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 14:13:33](https://news.ycombinator.com/item?id=41409006) - [Fred: Software Development Job Postings on Indeed in the United States](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE)
+* [2024-08-31, 13:48:31](https://news.ycombinator.com/item?id=41408851) - [UBC engineers develop all-in-one solution to catch and destroy forever chemicals](https://news.ubc.ca/2024/08/ubc-pfas-forever-chemicals-solution/)
+* [2024-08-31, 13:40:21](https://news.ycombinator.com/item?id=41408792) - [When the Mismanagerial Class Destroys Great Companies](https://www.palladiummag.com/2024/08/30/when-the-mismanagerial-class-destroys-great-companies/)
+* [2024-08-31, 13:28:25](https://news.ycombinator.com/item?id=41408738) - [Brazil's X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
 * [2024-08-31, 13:27:21](https://news.ycombinator.com/item?id=41408732) - [Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
 * [2024-08-31, 12:12:34](https://news.ycombinator.com/item?id=41408293) - [Something's Poisoning America's Farms. Scientists Fear 'Forever' Chemicals](https://www.nytimes.com/2024/08/31/climate/pfas-fertilizer-sludge-farm.html)
 * [2024-08-31, 11:48:26](https://news.ycombinator.com/item?id=41408173) - [Why A.I. Isn't Going to Make Art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)

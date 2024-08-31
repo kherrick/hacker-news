@@ -79,6 +79,7 @@
 * [2024-08-28, 11:44:58](https://news.ycombinator.com/item?id=41378443) - [Glass Beads](https://outlandishclaims.substack.com/p/seven-glass-beads)
 * [2024-08-28, 11:42:02](https://news.ycombinator.com/item?id=41378428) - [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 * [2024-08-28, 11:24:23](https://news.ycombinator.com/item?id=41378317) - [Deterministic Replay of QEMU Emulation](https://www.qemu.org/docs/master/system/replay.html)
+* [2024-08-28, 11:19:07](https://news.ycombinator.com/item?id=41378287) - [Designing a Timeline for Mobile Video Editing](https://img.ly/blog/designing-a-timeline-for-mobile-video-editing/)
 * [2024-08-28, 11:16:00](https://news.ycombinator.com/item?id=41378268) - [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
 * [2024-08-28, 11:11:13](https://news.ycombinator.com/item?id=41378240) - [Fermilab is 'doomed' without management overhaul claims whistleblower report](https://physicsworld.com/a/fermilab-is-doomed-without-management-overhaul-claims-whistleblower-report/)
 * [2024-08-28, 10:28:28](https://news.ycombinator.com/item?id=41378002) - [Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)
