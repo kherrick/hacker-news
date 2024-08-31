@@ -94,6 +94,7 @@
 * [2024-08-28, 08:34:38](https://news.ycombinator.com/item?id=41377328) - [Bundling Information Goods: Pricing, Profits, and Efficiency (1999)](https://www.jstor.org/stable/2634781)
 * [2024-08-28, 08:34:38](https://news.ycombinator.com/item?id=41377328) - [Bundling Information Goods: Pricing, Profits, and Efficiency (1999) [pdf]](https://pages.stern.nyu.edu/~bakos/big.pdf)
 * [2024-08-28, 07:54:58](https://news.ycombinator.com/item?id=41377097) - [How to Use React Compiler](https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/)
+* [2024-08-28, 07:52:17](https://news.ycombinator.com/item?id=41377073) - [Karpathy on Software 2.0 (2017)](https://karpathy.medium.com/software-2-0-a64152b37c35)
 * [2024-08-28, 07:41:03](https://news.ycombinator.com/item?id=41376990) - [LinkedIn_AIHawk: AI job assistant. Automate applications and Resume Generation](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
 * [2024-08-28, 07:24:42](https://news.ycombinator.com/item?id=41376893) - [Micrograd.jl](https://liorsinai.github.io/machine-learning/2024/07/27/micrograd-1-chainrules.html)
 * [2024-08-28, 07:11:43](https://news.ycombinator.com/item?id=41376820) - [Final Two Communications from MH370 Support Controlled Eastward Descent Scenario](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)

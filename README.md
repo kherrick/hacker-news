@@ -25,7 +25,7 @@
 * [2024-08-28, 17:25:15](https://news.ycombinator.com/item?id=41381827) - [Tumblr to move its half a billion blogs to WordPress](https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/)
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
 * [2024-08-28, 11:19:07](https://news.ycombinator.com/item?id=41378287) - [Designing a Timeline for Mobile Video Editing](https://img.ly/blog/designing-a-timeline-for-mobile-video-editing/)
-* [2024-08-28, 09:50:18](https://news.ycombinator.com/item?id=41377771) - [Wired Love: A Romance of Dots and Dashes (1880)](https://www.gutenberg.org/ebooks/24353)
+* [2024-08-28, 07:52:17](https://news.ycombinator.com/item?id=41377073) - [Karpathy on Software 2.0 (2017)](https://karpathy.medium.com/software-2-0-a64152b37c35)
 * [2024-08-27, 16:19:53](https://news.ycombinator.com/item?id=41369231) - [Show HN: Supertree – interactive visualization of decision trees in Python](https://news.ycombinator.com/item?id=41369231)
 * [2024-08-27, 16:07:28](https://news.ycombinator.com/item?id=41369065) - [Building Bubbletea Programs](https://leg100.github.io/en/posts/building-bubbletea-programs/)
 * [2024-08-27, 14:18:18](https://news.ycombinator.com/item?id=41367820) - [Changes in Need for Uniqueness From 2000 Until 2020](https://online.ucpress.edu/collabra/article/10/1/121937/202992/Changes-in-Need-for-Uniqueness-From-2000-Until)
