@@ -61,6 +61,7 @@
 * [2024-08-27, 15:00:08](https://news.ycombinator.com/item?id=41368304) - [We built an open-source UIPath alternative that solves problem in all RPA](https://www.openagent.studio/)
 * [2024-08-27, 14:58:20](https://news.ycombinator.com/item?id=41368277) - [Show HN: Create notes and maps that live outdoors with web and AR integration](https://www.auglinn.com)
 * [2024-08-27, 14:55:09](https://news.ycombinator.com/item?id=41368239) - [Show HN: bpfquery – experimenting with compiling SQL to bpf(trace)](https://bpfquery.com/?showing=kprobe)
+* [2024-08-27, 14:35:31](https://news.ycombinator.com/item?id=41368004) - [ARM or x86? ISA Doesn't Matter](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
 * [2024-08-27, 14:31:50](https://news.ycombinator.com/item?id=41367964) - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 * [2024-08-27, 14:18:18](https://news.ycombinator.com/item?id=41367820) - [Changes in Need for Uniqueness From 2000 Until 2020](https://online.ucpress.edu/collabra/article/10/1/121937/202992/Changes-in-Need-for-Uniqueness-From-2000-Until)
 * [2024-08-27, 14:12:45](https://news.ycombinator.com/item?id=41367750) - [Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts](https://news.ycombinator.com/item?id=41367750)
