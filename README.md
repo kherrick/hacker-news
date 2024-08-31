@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-31, 10:22:10](https://news.ycombinator.com/item?id=41407768) - [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
 * [2024-08-31, 09:25:03](https://news.ycombinator.com/item?id=41407562) - [EU ChatControl is back on the agenda](https://digitalcourage.social/@echo_pbreyer/113055345076289453)
 * [2024-08-31, 09:00:01](https://news.ycombinator.com/item?id=41407469) - [Google Cloud: synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
 * [2024-08-31, 08:42:42](https://news.ycombinator.com/item?id=41407407) - [Shine with Gleam](https://rockyj-blogs.web.app/2024/08/31/shine-with-gleam.html)
@@ -10,7 +11,6 @@
 * [2024-08-31, 04:29:09](https://news.ycombinator.com/item?id=41406550) - [Is my vision that bad? No, it's just a bug in Apple's Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
 * [2024-08-31, 03:56:38](https://news.ycombinator.com/item?id=41406453) - [Rediscovering the Small Web (2020)](https://neustadt.fr/essays/the-small-web/)
 * [2024-08-31, 02:59:13](https://news.ycombinator.com/item?id=41406281) - [Radiance Cascades: A Novel High-Res Sol. For Multidim Non-LTE Radiative Transfer](https://arxiv.org/abs/2408.14425)
-* [2024-08-31, 02:49:55](https://news.ycombinator.com/item?id=41406256) - [Five Most Productive Years: What Happened and What's Next](https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/)
 * [2024-08-31, 01:18:08](https://news.ycombinator.com/item?id=41405961) - [Cassette Tape Archive](http://www.tapedeck.org/index.php)
 * [2024-08-30, 23:17:38](https://news.ycombinator.com/item?id=41405364) - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
 * [2024-08-30, 22:53:00](https://news.ycombinator.com/item?id=41405243) - [Bresenham's Circle Drawing Algorithm (2021)](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)

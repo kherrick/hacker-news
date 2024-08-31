@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
 * [2024-08-31, 10:24:07](https://news.ycombinator.com/item?id=41407774) - [Alexander Grothendieck: a forgotten genius– or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
+* [2024-08-31, 10:22:10](https://news.ycombinator.com/item?id=41407768) - [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
 * [2024-08-31, 09:25:03](https://news.ycombinator.com/item?id=41407562) - [EU ChatControl is back on the agenda](https://digitalcourage.social/@echo_pbreyer/113055345076289453)
 * [2024-08-31, 09:00:01](https://news.ycombinator.com/item?id=41407469) - [Google Cloud: synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
 * [2024-08-31, 08:42:42](https://news.ycombinator.com/item?id=41407407) - [Shine with Gleam](https://rockyj-blogs.web.app/2024/08/31/shine-with-gleam.html)
