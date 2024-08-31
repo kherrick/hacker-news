@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-08-30, 21:36:49",
+      "https://news.ycombinator.com/item?id=41404733"
+    ],
+    [
+      "Rust in Linux Revisited",
+      "https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 21:17:53",
       "https://news.ycombinator.com/item?id=41404554"
     ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2024-08-30, 14:44:06",
+      "https://news.ycombinator.com/item?id=41401224"
+    ],
+    [
+      "City of Columbus sues expert who exposed extent of cyberattack",
+      "https://www.10tv.com/article/news/local/city-columbus-sues-cybersecurity-expert/530-fc59233d-39cb-463f-9454-0234f1c8cced"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 13:52:46",
       "https://news.ycombinator.com/item?id=41400723"
     ],
@@ -151,12 +171,32 @@
   ],
   [
     [
+      "2024-08-30, 07:06:34",
+      "https://news.ycombinator.com/item?id=41398351"
+    ],
+    [
+      "Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM",
+      "https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 04:59:58",
       "https://news.ycombinator.com/item?id=41397847"
     ],
     [
       "Tabbed out on the Oregon Trail",
       "https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 03:28:27",
+      "https://news.ycombinator.com/item?id=41397498"
+    ],
+    [
+      "Open Source Twitch for Developers",
+      "https://github.com/algora-io/tv"
     ]
   ],
   [
@@ -211,12 +251,32 @@
   ],
   [
     [
+      "2024-08-28, 05:23:00",
+      "https://news.ycombinator.com/item?id=41376215"
+    ],
+    [
+      "FCast: Casting Made Open Source",
+      "https://fcast.org/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 22:05:18",
       "https://news.ycombinator.com/item?id=41373650"
     ],
     [
       "GeoWorks: The Other Windows (2019)",
       "https://tedium.co/2019/06/20/geoworks-geos-history/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 15:35:41",
+      "https://news.ycombinator.com/item?id=41368726"
+    ],
+    [
+      "Microtome",
+      "https://en.wikipedia.org/wiki/Microtome"
     ]
   ],
   [
@@ -237,66 +297,6 @@
     [
       "BaseX – a highly W3C compliant XQuery processor",
       "https://docs.basex.org/12/Main_Page"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 15:46:26",
-      "https://news.ycombinator.com/item?id=41358333"
-    ],
-    [
-      "Synthetic Open Schema: code-first approach to Synthetic Monitoring",
-      "https://github.com/checksdev/synthetic-open-schema"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 14:22:38",
-      "https://news.ycombinator.com/item?id=41357409"
-    ],
-    [
-      "Lem: Emacs-like editor written in Common Lisp",
-      "https://lem-project.github.io/#"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 13:54:08",
-      "https://news.ycombinator.com/item?id=41357123"
-    ],
-    [
-      "Leader Election with S3 Conditional Writes",
-      "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 13:11:07",
-      "https://news.ycombinator.com/item?id=41356775"
-    ],
-    [
-      "Pie doesn't need to be original unless you claim it so",
-      "https://buttondown.com/geoffreylitt/archive/your-pie-doesnt-need-to-be-original-unless-you/"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 03:43:47",
-      "https://news.ycombinator.com/item?id=41353830"
-    ],
-    [
-      "Libntruprime is a microlibrary for the Streamlined NTRU Prime cryptosyst",
-      "https://libntruprime.cr.yp.to/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 22:20:58",
-      "https://news.ycombinator.com/item?id=41352008"
-    ],
-    [
-      "Real-world uplift modelling with significance-based uplift trees [pdf]",
-      "https://www.stochasticsolutions.com/pdf/sig-based-up-trees.pdf"
     ]
   ]
 ]
