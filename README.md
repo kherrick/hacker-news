@@ -25,7 +25,7 @@
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
-* [2024-08-28, 12:48:18](https://news.ycombinator.com/item?id=41378883) - [Portraits of insects reveal the intricacies of a world](https://www.smithsonianmag.com/science-nature/these-stunning-portraits-of-insects-reveal-the-intricacies-of-an-amazing-world-180984926/)
+* [2024-08-28, 10:28:28](https://news.ycombinator.com/item?id=41378002) - [Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)
 * [2024-08-28, 08:34:38](https://news.ycombinator.com/item?id=41377328) - [Bundling Information Goods: Pricing, Profits, and Efficiency (1999)](https://www.jstor.org/stable/2634781)
 * [2024-08-28, 07:54:58](https://news.ycombinator.com/item?id=41377097) - [How to Use React Compiler](https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/)
 * [2024-08-27, 16:07:28](https://news.ycombinator.com/item?id=41369065) - [Building Bubbletea Programs](https://leg100.github.io/en/posts/building-bubbletea-programs/)
