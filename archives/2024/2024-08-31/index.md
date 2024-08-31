@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 18:03:32](https://news.ycombinator.com/item?id=41410597) - [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
+* [2024-08-31, 17:42:45](https://news.ycombinator.com/item?id=41410450) - [Nearly half of Nvidia's revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
 * [2024-08-31, 17:26:07](https://news.ycombinator.com/item?id=41410344) - [What the f* is e/acc (2022)](https://effectiveaccelerationism.substack.com/p/what-the-f-is-eacc)
 * [2024-08-31, 16:23:13](https://news.ycombinator.com/item?id=41409891) - [My fake job in Y2K preparedness](https://www.nplusonemag.com/issue-48/essays/the-contingency-contingent/)
 * [2024-08-31, 16:21:27](https://news.ycombinator.com/item?id=41409882) - [Did your car witness a crime? Bay Area police may be coming for your Tesla](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 * [2024-08-31, 16:03:00](https://news.ycombinator.com/item?id=41409776) - [What it's like take a train across America, a visual diary](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
+* [2024-08-31, 16:00:44](https://news.ycombinator.com/item?id=41409761) - [Carbon removal plant absorbs CO2 at 99,000 times the rate of all Earth's oceans](https://www.thebrighterside.news/post/carbon-removal-plant-absorbs-co2-at-99000-times-the-rate-of-all-earths-oceans-combined/)
 * [2024-08-31, 15:23:50](https://news.ycombinator.com/item?id=41409522) - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
 * [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need [video]](http://tom7.org/harder/)
 * [2024-08-31, 15:19:18](https://news.ycombinator.com/item?id=41409490) - [The Tesla Files Unveil More Accounting Fraud Than Imagined](https://bradmunchen.substack.com/p/the-tesla-files-unveil-more-accounting)
