@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-08-31, 02:09:41",
+      "https://news.ycombinator.com/item?id=41406129"
+    ],
+    [
+      "NSA Releases Internal 1982 Lecture by Rear Admiral Grace Hopper [video]",
+      "https://www.youtube.com/watch?v=_bP14OzIJWI"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 01:18:08",
       "https://news.ycombinator.com/item?id=41405961"
     ],
     [
       "Cassette Tape Archive",
       "http://www.tapedeck.org/index.php"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 01:00:42",
-      "https://news.ycombinator.com/item?id=41405898"
-    ],
-    [
-      "Jerry (YC S17) Is Hiring Lead Product (New Product, B2B GenAI Platform)",
-      "https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf"
     ]
   ],
   [
@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=41405195"
     ],
     [
-      "Crows Are Even Smarter Than We Thought",
+      "Crows are even smarter than we thought",
       "https://nautil.us/crows-are-even-smarter-than-we-thought-820066/"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 21:50:45",
+      "https://news.ycombinator.com/item?id=41404853"
+    ],
+    [
+      "Hadrius (YC W23) Is Hiring a Customer Success Engineer",
+      "https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "UK researchers find Alzheimer's-like brain changes in long Covid patients",
       "https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 21:36:49",
-      "https://news.ycombinator.com/item?id=41404733"
-    ],
-    [
-      "Rust in Linux Revisited",
-      "https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41404117"
     ],
     [
-      "Three Critical Questions to Turn the Table During Technical Interviews",
+      "Three questions to turn the table during technical interviews",
       "https://bellmar.medium.com/three-critical-questions-to-turn-the-table-during-technical-interviews-dd1594c278b8"
     ]
   ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-08-26, 15:53:39",
-      "https://news.ycombinator.com/item?id=41358432"
+      "2024-08-26, 15:46:26",
+      "https://news.ycombinator.com/item?id=41358333"
     ],
     [
-      "Dinosaur Footprints on Either Side of the Atlantic Are Matching Sets",
-      "https://gizmodo.com/dinosaur-footprints-on-either-side-of-the-atlantic-are-matching-sets-2000490979"
+      "Synthetic Open Schema: code-first approach to Synthetic Monitoring",
+      "https://github.com/checksdev/synthetic-open-schema"
     ]
   ],
   [
