@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 22:47:36](https://news.ycombinator.com/item?id=41412623) - [An Ode to My 5-Year-Old Samsung Galaxy S10e](https://mbrizic.com/blog/samsung-galaxy-s10e/)
 * [2024-08-31, 22:44:02](https://news.ycombinator.com/item?id=41412606) - [One Million new Bluesky users in 3 days](https://bsky.app/profile/bsky.app/post/3l3277gkjjc2y)
+* [2024-08-31, 22:40:00](https://news.ycombinator.com/item?id=41412582) - [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn't a Phone](https://ewritable.com/ereaders/boox-palma/review/)
 * [2024-08-31, 21:45:59](https://news.ycombinator.com/item?id=41412256) - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 * [2024-08-31, 21:15:21](https://news.ycombinator.com/item?id=41412054) - [Landlords Face a $1.5T Commercial Real Estate Maturity Wall](https://www.bloomberg.com/news/articles/2024-08-31/landlords-face-a-1-5-trillion-commercial-real-estate-maturity-wall)
 * [2024-08-31, 21:13:10](https://news.ycombinator.com/item?id=41412035) - [Greece announces new rules banning mobile phones in schools from September](https://www.euronews.com/my-europe/2024/08/31/greece-announces-new-rules-banning-mobile-phones-in-schools-from-september)
