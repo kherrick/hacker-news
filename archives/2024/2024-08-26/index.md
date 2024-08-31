@@ -48,6 +48,7 @@
 * [2024-08-26, 15:58:09](https://news.ycombinator.com/item?id=41358490) - [Show HN: Remove-bg – open-source remove background using WebGPU](https://bannerify.co/tools/remove-bg)
 * [2024-08-26, 15:53:39](https://news.ycombinator.com/item?id=41358432) - [Dinosaur Footprints on Either Side of the Atlantic Are Matching Sets](https://gizmodo.com/dinosaur-footprints-on-either-side-of-the-atlantic-are-matching-sets-2000490979)
 * [2024-08-26, 15:50:39](https://news.ycombinator.com/item?id=41358389) - [The Bug in the Computer Bug Story](https://daily.jstor.org/the-bug-in-the-computer-bug-story/)
+* [2024-08-26, 15:46:26](https://news.ycombinator.com/item?id=41358333) - [Synthetic Open Schema: code-first approach to Synthetic Monitoring](https://github.com/checksdev/synthetic-open-schema)
 * [2024-08-26, 15:46:01](https://news.ycombinator.com/item?id=41358327) - [A Massachusetts town closes its parks to stop a mosquito-borne disease](https://www.npr.org/2024/08/26/nx-s1-5089737/massachusetts-mosquito-disease-parks-fatal)
 * [2024-08-26, 15:31:54](https://news.ycombinator.com/item?id=41358132) - [Make your health insurance company cry: One woman's fight to turn the tables](https://sfstandard.com/2024/08/23/holden-karau-fight-health-insurance-appeal-claims-denials/)
 * [2024-08-26, 15:28:42](https://news.ycombinator.com/item?id=41358094) - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
