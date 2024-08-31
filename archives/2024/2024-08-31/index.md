@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 05:45:13](https://news.ycombinator.com/item?id=41406799) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
+* [2024-08-31, 05:29:35](https://news.ycombinator.com/item?id=41406752) - [The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads](https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/)
+* [2024-08-31, 05:03:51](https://news.ycombinator.com/item?id=41406669) - [Iron as an inexpensive storage medium for hydrogen](https://ethz.ch/en/news-and-events/eth-news/news/2024/08/iron-as-an-inexpensive-storage-medium-for-hydrogen.html)
+* [2024-08-31, 04:52:38](https://news.ycombinator.com/item?id=41406623) - [Stonebraker Seeks to Invert the Computing Paradigm with DBOS](https://www.datanami.com/2024/03/12/stonebraker-seeks-to-invert-the-computing-paradigm-with-dbos/)
 * [2024-08-31, 04:29:09](https://news.ycombinator.com/item?id=41406550) - [Is my vision that bad? No, it's just a bug in Apple's Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
 * [2024-08-31, 04:01:47](https://news.ycombinator.com/item?id=41406471) - [Newest social network does not suck](https://www.metafilter.com/205297/newest-social-network-does-not-suck)
 * [2024-08-31, 03:56:38](https://news.ycombinator.com/item?id=41406453) - [Rediscovering the Small Web (2020)](https://neustadt.fr/essays/the-small-web/)
