@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-08-31, 19:32:12",
+      "https://news.ycombinator.com/item?id=41411281"
+    ],
+    [
+      "WatchYourLAN: Lightweight Network IP Scanner",
+      "https://github.com/aceberg/WatchYourLAN"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 19:20:17",
       "https://news.ycombinator.com/item?id=41411198"
     ],
@@ -81,6 +91,26 @@
   ],
   [
     [
+      "2024-08-31, 17:42:14",
+      "https://news.ycombinator.com/item?id=41410442"
+    ],
+    [
+      "Client-side QR code generator with SVG output",
+      "https://fietkau.software/qr"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 17:30:08",
+      "https://news.ycombinator.com/item?id=41410375"
+    ],
+    [
+      "Neo – Futuristic Matrix Messenger",
+      "https://mszpro.com/nil/"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 16:23:13",
       "https://news.ycombinator.com/item?id=41409891"
     ],
@@ -107,16 +137,6 @@
     [
       "What it's like take a train across America, a visual diary",
       "https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 15:23:50",
-      "https://news.ycombinator.com/item?id=41409522"
-    ],
-    [
-      "Texas State Police Gear Up for Expansion of Surveillance Tech",
-      "https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-08-31, 05:03:51",
-      "https://news.ycombinator.com/item?id=41406669"
-    ],
-    [
-      "Iron as an inexpensive storage medium for hydrogen",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2024/08/iron-as-an-inexpensive-storage-medium-for-hydrogen.html"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 04:29:09",
       "https://news.ycombinator.com/item?id=41406550"
     ],
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2024-08-28, 13:48:41",
-      "https://news.ycombinator.com/item?id=41379500"
-    ],
-    [
-      "Using Fibonacci numbers to convert from miles to kilometers and vice versa",
-      "https://catonmat.net/fibonacci-miles-kilometers"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 11:19:07",
-      "https://news.ycombinator.com/item?id=41378287"
-    ],
-    [
-      "Designing a Timeline for Mobile Video Editing",
-      "https://img.ly/blog/designing-a-timeline-for-mobile-video-editing/"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 07:52:17",
       "https://news.ycombinator.com/item?id=41377073"
     ],
@@ -287,6 +277,16 @@
     [
       "Building Bubbletea Programs",
       "https://leg100.github.io/en/posts/building-bubbletea-programs/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 15:30:12",
+      "https://news.ycombinator.com/item?id=41368657"
+    ],
+    [
+      "Compilation of JavaScript to WASM, Part 2: Ahead-of-Time vs. JIT",
+      "https://cfallin.org/blog/2024/08/27/aot-js/"
     ]
   ],
   [
