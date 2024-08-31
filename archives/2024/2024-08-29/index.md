@@ -74,6 +74,7 @@
 * [2024-08-29, 06:27:36](https://news.ycombinator.com/item?id=41387922) - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 * [2024-08-29, 05:34:02](https://news.ycombinator.com/item?id=41387676) - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
 * [2024-08-29, 05:32:49](https://news.ycombinator.com/item?id=41387674) - [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
+* [2024-08-29, 05:20:45](https://news.ycombinator.com/item?id=41387613) - [Why Medieval Women Sometimes Fought in Bloody Trials by Combat](https://www.atlasobscura.com/articles/trial-by-combat-man-woman)
 * [2024-08-29, 04:50:24](https://news.ycombinator.com/item?id=41387436) - [Telegram Founder Charged with Wide Range of Crimes in France](https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html)
 * [2024-08-29, 03:43:45](https://news.ycombinator.com/item?id=41387062) - [Ask HN: What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
 * [2024-08-29, 03:43:38](https://news.ycombinator.com/item?id=41387060) - [Bosses Are Finding Ways to Pay Workers Less](https://www.wsj.com/lifestyle/careers/salary-workers-pay-cuts-2024-54101d66)
