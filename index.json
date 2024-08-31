@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-08-31, 18:03:32",
-      "https://news.ycombinator.com/item?id=41410597"
-    ],
-    [
-      "Artifacts are now generally available",
-      "https://www.anthropic.com/news/artifacts"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 17:42:45",
       "https://news.ycombinator.com/item?id=41410450"
     ],
@@ -107,6 +97,16 @@
     [
       "Neo – Futuristic Matrix Messenger",
       "https://mszpro.com/nil/"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 17:09:09",
+      "https://news.ycombinator.com/item?id=41410246"
+    ],
+    [
+      "Beyond logical replication: pg_easy_replicate Supports Tracking DDL Changes",
+      "https://www.shayon.dev/post/2024/244/pg_easy_replicate-now-supports-tracking-schema-changes-in-postgresql/"
     ]
   ],
   [
