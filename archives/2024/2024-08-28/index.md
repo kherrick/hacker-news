@@ -87,6 +87,7 @@
 * [2024-08-28, 09:09:13](https://news.ycombinator.com/item?id=41377540) - [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
 * [2024-08-28, 08:34:57](https://news.ycombinator.com/item?id=41377331) - [Wp2hugo: Best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
 * [2024-08-28, 08:34:42](https://news.ycombinator.com/item?id=41377329) - [OpenAI shows 'Strawberry' to feds, races to launch it](https://www.lesswrong.com/posts/8oX4FTRa8MJodArhj/the-information-openai-shows-strawberry-to-feds-races-to)
+* [2024-08-28, 08:34:38](https://news.ycombinator.com/item?id=41377328) - [Bundling Information Goods: Pricing, Profits, and Efficiency (1999)](https://www.jstor.org/stable/2634781)
 * [2024-08-28, 07:54:58](https://news.ycombinator.com/item?id=41377097) - [How to Use React Compiler](https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/)
 * [2024-08-28, 07:41:03](https://news.ycombinator.com/item?id=41376990) - [LinkedIn_AIHawk: AI job assistant. Automate applications and Resume Generation](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
 * [2024-08-28, 07:24:42](https://news.ycombinator.com/item?id=41376893) - [Micrograd.jl](https://liorsinai.github.io/machine-learning/2024/07/27/micrograd-1-chainrules.html)
