@@ -16,6 +16,7 @@
 * [2024-08-31, 17:42:14](https://news.ycombinator.com/item?id=41410442) - [Client-side QR code generator with SVG output](https://fietkau.software/qr)
 * [2024-08-31, 17:30:08](https://news.ycombinator.com/item?id=41410375) - [Neo – Futuristic Matrix Messenger](https://mszpro.com/nil/)
 * [2024-08-31, 17:26:07](https://news.ycombinator.com/item?id=41410344) - [What the f* is e/acc (2022)](https://effectiveaccelerationism.substack.com/p/what-the-f-is-eacc)
+* [2024-08-31, 17:09:09](https://news.ycombinator.com/item?id=41410246) - [Beyond logical replication: pg_easy_replicate Supports Tracking DDL Changes](https://www.shayon.dev/post/2024/244/pg_easy_replicate-now-supports-tracking-schema-changes-in-postgresql/)
 * [2024-08-31, 16:23:13](https://news.ycombinator.com/item?id=41409891) - [My fake job in Y2K preparedness](https://www.nplusonemag.com/issue-48/essays/the-contingency-contingent/)
 * [2024-08-31, 16:21:27](https://news.ycombinator.com/item?id=41409882) - [Did your car witness a crime? Bay Area police may be coming for your Tesla](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 * [2024-08-31, 16:03:00](https://news.ycombinator.com/item?id=41409776) - [What it's like take a train across America, a visual diary](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
