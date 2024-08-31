@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-08-31, 10:24:07](https://news.ycombinator.com/item?id=41407774) - [Alexander Grothendieck: a forgotten genius– or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
 * [2024-08-31, 09:25:03](https://news.ycombinator.com/item?id=41407562) - [EU ChatControl is back on the agenda](https://digitalcourage.social/@echo_pbreyer/113055345076289453)
 * [2024-08-31, 09:00:01](https://news.ycombinator.com/item?id=41407469) - [Google Cloud: synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
 * [2024-08-31, 08:42:42](https://news.ycombinator.com/item?id=41407407) - [Shine with Gleam](https://rockyj-blogs.web.app/2024/08/31/shine-with-gleam.html)
@@ -11,6 +10,7 @@
 * [2024-08-31, 04:29:09](https://news.ycombinator.com/item?id=41406550) - [Is my vision that bad? No, it's just a bug in Apple's Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
 * [2024-08-31, 03:56:38](https://news.ycombinator.com/item?id=41406453) - [Rediscovering the Small Web (2020)](https://neustadt.fr/essays/the-small-web/)
 * [2024-08-31, 02:59:13](https://news.ycombinator.com/item?id=41406281) - [Radiance Cascades: A Novel High-Res Sol. For Multidim Non-LTE Radiative Transfer](https://arxiv.org/abs/2408.14425)
+* [2024-08-31, 02:49:55](https://news.ycombinator.com/item?id=41406256) - [Five Most Productive Years: What Happened and What's Next](https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/)
 * [2024-08-31, 01:18:08](https://news.ycombinator.com/item?id=41405961) - [Cassette Tape Archive](http://www.tapedeck.org/index.php)
 * [2024-08-30, 23:17:38](https://news.ycombinator.com/item?id=41405364) - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
 * [2024-08-30, 22:53:00](https://news.ycombinator.com/item?id=41405243) - [Bresenham's Circle Drawing Algorithm (2021)](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)
@@ -27,8 +27,8 @@
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
 * [2024-08-28, 08:34:38](https://news.ycombinator.com/item?id=41377328) - [Bundling Information Goods: Pricing, Profits, and Efficiency (1999)](https://www.jstor.org/stable/2634781)
 * [2024-08-28, 07:54:58](https://news.ycombinator.com/item?id=41377097) - [How to Use React Compiler](https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/)
-* [2024-08-27, 16:19:53](https://news.ycombinator.com/item?id=41369231) - [Show HN: Supertree – interactive visualization of decision trees in Python](https://news.ycombinator.com/item?id=41369231)
 * [2024-08-27, 16:07:28](https://news.ycombinator.com/item?id=41369065) - [Building Bubbletea Programs](https://leg100.github.io/en/posts/building-bubbletea-programs/)
+* [2024-08-27, 15:44:40](https://news.ycombinator.com/item?id=41368819) - [Fortran Bug Urban Legend](https://www-users.york.ac.uk/~ss44/cyc/p/fbug.htm)
 * [2024-08-27, 14:04:37](https://news.ycombinator.com/item?id=41367658) - [BaseX – a highly W3C compliant XQuery processor](https://docs.basex.org/12/Main_Page)
 
 ## [Archives](archives/index.md)
