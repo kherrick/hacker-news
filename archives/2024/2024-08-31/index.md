@@ -8,6 +8,7 @@
 * [2024-08-31, 16:03:00](https://news.ycombinator.com/item?id=41409776) - [What it's like take a train across America, a visual diary](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
 * [2024-08-31, 15:23:50](https://news.ycombinator.com/item?id=41409522) - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
 * [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need [video]](http://tom7.org/harder/)
+* [2024-08-31, 15:19:18](https://news.ycombinator.com/item?id=41409490) - [The Tesla Files Unveil More Accounting Fraud Than Imagined](https://bradmunchen.substack.com/p/the-tesla-files-unveil-more-accounting)
 * [2024-08-31, 15:16:54](https://news.ycombinator.com/item?id=41409475) - [Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
 * [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
 * [2024-08-31, 14:13:33](https://news.ycombinator.com/item?id=41409006) - [Fred: Software Development Job Postings on Indeed in the United States](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE)
