@@ -40,6 +40,7 @@
 * [2024-08-30, 14:46:50](https://news.ycombinator.com/item?id=41401250) - [Microsoft Remote Desktop will be renamed to Windows App](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-app-general-availability-coming-soon/ba-p/4206647)
 * [2024-08-30, 14:45:02](https://news.ycombinator.com/item?id=41401237) - [Pocket-Godot: Starter Kit for mobile game development using Godot](https://github.com/lukky-nl/Pocket-Godot)
 * [2024-08-30, 14:44:06](https://news.ycombinator.com/item?id=41401224) - [Judge grants restraining order against cybersecurity expert](https://www.10tv.com/article/news/local/city-columbus-sues-cybersecurity-expert/530-fc59233d-39cb-463f-9454-0234f1c8cced)
+* [2024-08-30, 14:20:11](https://news.ycombinator.com/item?id=41401004) - [Repainting our app mid-flight](https://www.reviewable.io/blog/repainting-our-app-mid-flight/)
 * [2024-08-30, 14:19:32](https://news.ycombinator.com/item?id=41400998) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 14:00:41](https://news.ycombinator.com/item?id=41400807) - [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
