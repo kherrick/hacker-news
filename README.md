@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-08-31, 10:24:07](https://news.ycombinator.com/item?id=41407774) - [Alexander Grothendieck: a forgotten genius– or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
 * [2024-08-31, 10:22:10](https://news.ycombinator.com/item?id=41407768) - [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
 * [2024-08-31, 09:25:03](https://news.ycombinator.com/item?id=41407562) - [EU ChatControl is back on the agenda](https://digitalcourage.social/@echo_pbreyer/113055345076289453)
 * [2024-08-31, 09:00:01](https://news.ycombinator.com/item?id=41407469) - [Google Cloud: synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
@@ -16,8 +17,6 @@
 * [2024-08-30, 22:53:00](https://news.ycombinator.com/item?id=41405243) - [Bresenham's Circle Drawing Algorithm (2021)](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)
 * [2024-08-30, 22:46:59](https://news.ycombinator.com/item?id=41405195) - [Crows are even smarter than we thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
 * [2024-08-30, 21:50:45](https://news.ycombinator.com/item?id=41404853) - [Hadrius (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
-* [2024-08-30, 21:38:08](https://news.ycombinator.com/item?id=41404748) - [Researchers find Alzheimer's-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
-* [2024-08-30, 20:25:14](https://news.ycombinator.com/item?id=41404117) - [Three questions to turn the table during technical interviews](https://bellmar.medium.com/three-critical-questions-to-turn-the-table-during-technical-interviews-dd1594c278b8)
 * [2024-08-30, 20:05:39](https://news.ycombinator.com/item?id=41403971) - [To Nerves from Elixir](https://underjord.io/to-nerves-from-elixir.html)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 15:09:03](https://news.ycombinator.com/item?id=41401463) - [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
@@ -27,6 +26,7 @@
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
 * [2024-08-28, 08:34:38](https://news.ycombinator.com/item?id=41377328) - [Bundling Information Goods: Pricing, Profits, and Efficiency (1999)](https://www.jstor.org/stable/2634781)
 * [2024-08-28, 07:54:58](https://news.ycombinator.com/item?id=41377097) - [How to Use React Compiler](https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/)
+* [2024-08-27, 16:19:53](https://news.ycombinator.com/item?id=41369231) - [Show HN: Supertree – interactive visualization of decision trees in Python](https://news.ycombinator.com/item?id=41369231)
 * [2024-08-27, 16:07:28](https://news.ycombinator.com/item?id=41369065) - [Building Bubbletea Programs](https://leg100.github.io/en/posts/building-bubbletea-programs/)
 * [2024-08-27, 15:44:40](https://news.ycombinator.com/item?id=41368819) - [Fortran Bug Urban Legend](https://www-users.york.ac.uk/~ss44/cyc/p/fbug.htm)
 * [2024-08-27, 14:04:37](https://news.ycombinator.com/item?id=41367658) - [BaseX – a highly W3C compliant XQuery processor](https://docs.basex.org/12/Main_Page)
