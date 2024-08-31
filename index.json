@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-08-31, 19:56:03",
+      "https://news.ycombinator.com/item?id=41411478"
+    ],
+    [
+      "The Threat to OpenAI Is Growing",
+      "https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 19:37:44",
+      "https://news.ycombinator.com/item?id=41411339"
+    ],
+    [
+      "Signals for Tailwind CSS (styling based on ancestor state via style queries)",
+      "https://github.com/brandonmcconnell/tailwindcss-signals"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 19:20:17",
       "https://news.ycombinator.com/item?id=41411198"
     ],
     [
       "Meta enforces purpose limitation via Privacy Aware Infrastructure at scale",
       "https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 19:13:48",
+      "https://news.ycombinator.com/item?id=41411147"
+    ],
+    [
+      "Las Vegas police could boycott working NFL games over new facial ID policy",
+      "https://www.reviewjournal.com/local/local-las-vegas/nfl-facial-recognition-policy-upsets-las-vegas-police-union-3128202/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-08-31, 12:01:04",
-      "https://news.ycombinator.com/item?id=41408234"
-    ],
-    [
-      "Sisk – Lightweight .NET Web Framework",
-      "https://www.sisk-framework.org/"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 11:19:08",
       "https://news.ycombinator.com/item?id=41407993"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-08-28, 17:25:15",
-      "https://news.ycombinator.com/item?id=41381827"
-    ],
-    [
-      "Tumblr to move its half a billion blogs to WordPress",
-      "https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/"
-    ]
-  ],
-  [
-    [
       "2024-08-28, 13:48:41",
       "https://news.ycombinator.com/item?id=41379500"
     ],
@@ -287,16 +297,6 @@
     [
       "Changes in Need for Uniqueness From 2000 Until 2020",
       "https://online.ucpress.edu/collabra/article/10/1/121937/202992/Changes-in-Need-for-Uniqueness-From-2000-Until"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 14:04:37",
-      "https://news.ycombinator.com/item?id=41367658"
-    ],
-    [
-      "BaseX – a highly W3C compliant XQuery processor",
-      "https://docs.basex.org/12/Main_Page"
     ]
   ]
 ]
