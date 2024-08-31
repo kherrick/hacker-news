@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2024-08-31, 21:41:30",
+      "https://news.ycombinator.com/item?id=41412221"
+    ],
+    [
+      "A brief history of barbed wire fence telephone networks",
+      "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 21:01:53",
       "https://news.ycombinator.com/item?id=41411940"
     ],
     [
       "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
       "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 20:49:53",
+      "https://news.ycombinator.com/item?id=41411839"
+    ],
+    [
+      "Safety First",
+      "https://surfingcomplexity.blog/2024/08/31/safety-first/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "The Threat to OpenAI",
       "https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 19:37:44",
-      "https://news.ycombinator.com/item?id=41411339"
-    ],
-    [
-      "Signals for Tailwind CSS (styling based on ancestor state via style queries)",
-      "https://github.com/brandonmcconnell/tailwindcss-signals"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-08-31, 17:09:09",
-      "https://news.ycombinator.com/item?id=41410246"
-    ],
-    [
-      "Beyond logical replication: pg_easy_replicate Supports Tracking DDL Changes",
-      "https://www.shayon.dev/post/2024/244/pg_easy_replicate-now-supports-tracking-schema-changes-in-postgresql/"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 16:23:13",
       "https://news.ycombinator.com/item?id=41409891"
     ],
@@ -137,16 +137,6 @@
     [
       "Did your car witness a crime?",
       "https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 16:03:00",
-      "https://news.ycombinator.com/item?id=41409776"
-    ],
-    [
-      "Seeing America by train",
-      "https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-08-31, 07:46:35",
+      "https://news.ycombinator.com/item?id=41407195"
+    ],
+    [
+      "Making an atomic trampoline [video]",
+      "https://www.youtube.com/watch?v=jLX1-tNnvEo"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 05:29:35",
       "https://news.ycombinator.com/item?id=41406752"
     ],
@@ -227,16 +227,6 @@
     [
       "Rediscovering the Small Web (2020)",
       "https://neustadt.fr/essays/the-small-web/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 22:53:00",
-      "https://news.ycombinator.com/item?id=41405243"
-    ],
-    [
-      "Bresenham's Circle Drawing Algorithm (2021)",
-      "https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "ARM or x86? ISA Doesn't Matter",
       "https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 12:01:28",
+      "https://news.ycombinator.com/item?id=41366614"
+    ],
+    [
+      "My first experience with Gleam Language",
+      "https://pliutau.com/my-first-experience-with-gleam-lang/"
     ]
   ]
 ]
