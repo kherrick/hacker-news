@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
 * [2024-08-31, 16:21:27](https://news.ycombinator.com/item?id=41409882) - [Did your car witness a crime? Bay Area police may be coming for your Tesla](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
+* [2024-08-31, 16:03:00](https://news.ycombinator.com/item?id=41409776) - [What it's like take a train across America, a visual diary](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
 * [2024-08-31, 15:23:50](https://news.ycombinator.com/item?id=41409522) - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
 * [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need [video]](http://tom7.org/harder/)
 * [2024-08-31, 15:16:54](https://news.ycombinator.com/item?id=41409475) - [Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
