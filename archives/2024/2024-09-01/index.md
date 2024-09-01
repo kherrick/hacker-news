@@ -16,6 +16,7 @@
 * [2024-09-01, 15:16:42](https://news.ycombinator.com/item?id=41417653) - [Fasnacht: Basel's \"three most beautiful days\"](https://shoreleave.substack.com/p/in-search-of-circus-europa)
 * [2024-09-01, 14:44:55](https://news.ycombinator.com/item?id=41417368) - [What 100 Years of Research Says about Ability Grouping and Acceleration [pdf]](http://www.k12accountability.org/resources/Gifted-Education/GT_Review_of_Ed_Research_Meta_Analysis.pdf)
 * [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
+* [2024-09-01, 14:31:30](https://news.ycombinator.com/item?id=41417269) - [Apple Succession Strategy: Keep the Old Guard Around as Long as Possible](https://www.bloomberg.com/news/newsletters/2024-09-01/apple-s-succession-strategy-m4-mac-mini-cheaper-ipad-magic-keyboard-m0jkdrx5)
 * [2024-09-01, 14:26:07](https://news.ycombinator.com/item?id=41417219) - [The Starliner spacecraft has started to emit noises](https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/)
 * [2024-09-01, 13:57:28](https://news.ycombinator.com/item?id=41417024) - [Vizdom: Diagrams as Code](https://vizdom.dev)
 * [2024-09-01, 13:36:28](https://news.ycombinator.com/item?id=41416872) - [Starliner crew reports hearing \"sonar like noises\"](https://twitter.com/SpaceBasedFox/status/1830180273130242223)

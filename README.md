@@ -7,7 +7,7 @@
 * [2024-09-01, 16:06:13](https://news.ycombinator.com/item?id=41417997) - [Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
 * [2024-09-01, 15:17:07](https://news.ycombinator.com/item?id=41417659) - [Ask HN: How To: Store and share passwords in a company?](https://news.ycombinator.com/item?id=41417659)
 * [2024-09-01, 15:16:42](https://news.ycombinator.com/item?id=41417653) - [Fasnacht: Basel's \"three most beautiful days\"](https://shoreleave.substack.com/p/in-search-of-circus-europa)
-* [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a leading chain of psychiatric hospitals traps patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
+* [2024-09-01, 14:31:30](https://news.ycombinator.com/item?id=41417269) - [Apple Succession Strategy: Keep the Old Guard Around as Long as Possible](https://www.bloomberg.com/news/newsletters/2024-09-01/apple-s-succession-strategy-m4-mac-mini-cheaper-ipad-magic-keyboard-m0jkdrx5)
 * [2024-09-01, 13:57:28](https://news.ycombinator.com/item?id=41417024) - [Vizdom: Diagrams as Code](https://vizdom.dev)
 * [2024-09-01, 13:30:35](https://news.ycombinator.com/item?id=41416845) - [Set Up a $4/Mo Hetzner VM to Skip the Serverless Tax](https://shipixen.com/tutorials/self-host-web-app-on-a-hetzner-virtual-machine)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
