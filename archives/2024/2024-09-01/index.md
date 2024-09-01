@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 17:18:31](https://news.ycombinator.com/item?id=41418562) - [Americans' love affair with big cars is killing them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
 * [2024-09-01, 17:11:07](https://news.ycombinator.com/item?id=41418508) - [Lego to replace oil in its bricks with pricier renewable plastic](https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/)
 * [2024-09-01, 16:55:52](https://news.ycombinator.com/item?id=41418394) - [Show HN: 789-Zip – A native macOS app for 7-Zip](https://github.com/AkshayKalose/789-Zip)
 * [2024-09-01, 16:52:57](https://news.ycombinator.com/item?id=41418367) - [IEEE President's Note: Why Students Should Stay with IEEE](https://spectrum.ieee.org/ieee-presidents-note-sept-2024)
@@ -16,6 +17,7 @@
 * [2024-09-01, 13:57:28](https://news.ycombinator.com/item?id=41417024) - [Vizdom: Diagrams as Code](https://vizdom.dev)
 * [2024-09-01, 13:36:28](https://news.ycombinator.com/item?id=41416872) - [Starliner crew reports hearing \"sonar like noises\"](https://twitter.com/SpaceBasedFox/status/1830180273130242223)
 * [2024-09-01, 13:31:43](https://news.ycombinator.com/item?id=41416855) - [Huck Finn – One of the Greatest Anti-Racist Books Ever Written](https://medium.com/luminasticity/huck-finn-one-of-the-greatest-anti-racist-books-ever-written-db3f922dea44)
+* [2024-09-01, 13:30:35](https://news.ycombinator.com/item?id=41416845) - [Set Up a $4/Mo Hetzner VM to Skip the Serverless Tax](https://shipixen.com/tutorials/self-host-web-app-on-a-hetzner-virtual-machine)
 * [2024-09-01, 13:21:45](https://news.ycombinator.com/item?id=41416799) - [Linear Algebra Done Right [pdf]](https://linear.axler.net/LADR4e.pdf)
 * [2024-09-01, 13:21:27](https://news.ycombinator.com/item?id=41416798) - [AI Has Created a Battle over Web Crawling](https://spectrum.ieee.org/web-crawling)
 * [2024-09-01, 13:14:52](https://news.ycombinator.com/item?id=41416761) - [Have we stopped to think about what LLMs model?](https://www.theregister.com/2024/08/30/ai_language_cognition_research/)
@@ -24,6 +26,7 @@
 * [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:56:38](https://news.ycombinator.com/item?id=41416183) - [HMD Barbie Phone](https://www.hmd.com/en_int/hmd-barbie-phone)
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
+* [2024-09-01, 10:54:42](https://news.ycombinator.com/item?id=41415841) - [Interactive Linear Algebra Dan Margalit, Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/index.html)
 * [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
 * [2024-09-01, 10:08:17](https://news.ycombinator.com/item?id=41415642) - [Distroless: Language focused Docker images, minus the operating system](https://github.com/GoogleContainerTools/distroless)
