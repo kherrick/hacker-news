@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-01, 21:36:55](https://news.ycombinator.com/item?id=41420597) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
-* [2024-09-01, 20:42:02](https://news.ycombinator.com/item?id=41420217) - [Why COBOL Isn't the Problem](https://lucid.co/techblog/2020/11/13/why-cobol-isnt-the-problem)
 * [2024-09-01, 20:31:10](https://news.ycombinator.com/item?id=41420112) - ['Mindblowing' fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
 * [2024-09-01, 19:32:53](https://news.ycombinator.com/item?id=41419645) - [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
 * [2024-09-01, 18:59:18](https://news.ycombinator.com/item?id=41419354) - [Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime](https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/)
@@ -16,6 +15,7 @@
 * [2024-09-01, 13:57:28](https://news.ycombinator.com/item?id=41417024) - [Vizdom: Diagrams as Code](https://vizdom.dev)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
+* [2024-09-01, 10:54:42](https://news.ycombinator.com/item?id=41415841) - [Interactive Linear Algebra Dan Margalit, Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/index.html)
 * [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
 * [2024-09-01, 08:30:45](https://news.ycombinator.com/item?id=41415238) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
