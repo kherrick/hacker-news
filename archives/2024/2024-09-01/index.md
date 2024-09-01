@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 09:32:57](https://news.ycombinator.com/item?id=41415498) - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
 * [2024-09-01, 09:01:52](https://news.ycombinator.com/item?id=41415363) - [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
 * [2024-09-01, 08:30:45](https://news.ycombinator.com/item?id=41415238) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-09-01, 08:09:03](https://news.ycombinator.com/item?id=41415144) - [E Ink faces growing competition in the \"paper-like\" display space](https://liliputing.com/e-ink-faces-growing-competition-in-the-paper-like-display-space/)
