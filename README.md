@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 15:16:55](https://news.ycombinator.com/item?id=41417657) - [Amazon and Bezos fund's influence over carbon credit market raises alarm](https://www.ft.com/content/388b190d-49b0-4997-af18-1049e911f0b7)
 * [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
 * [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
@@ -29,7 +30,6 @@
 * [2024-08-30, 04:01:33](https://news.ycombinator.com/item?id=41397625) - [The Null Pointer](https://0x0.st/)
 * [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
 * [2024-08-28, 15:37:24](https://news.ycombinator.com/item?id=41380686) - [Hypothyroidism: The anonymous Olmec artisan and Velázquez (2017)](https://hekint.org/2017/01/25/the-anonymous-olmec-artisan-and-velazquez/)
-* [2024-08-28, 10:07:16](https://news.ycombinator.com/item?id=41377863) - [A better HTML input experience (custom elements and the AOM) (2017)](https://robdodson.me/posts/the-future-of-accessibility-for-custom-elements/)
 
 ## [Archives](archives/index.md)
 

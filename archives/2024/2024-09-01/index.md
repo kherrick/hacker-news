@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 15:16:55](https://news.ycombinator.com/item?id=41417657) - [Amazon and Bezos fund's influence over carbon credit market raises alarm](https://www.ft.com/content/388b190d-49b0-4997-af18-1049e911f0b7)
 * [2024-09-01, 14:44:55](https://news.ycombinator.com/item?id=41417368) - [What 100 Years of Research Says about Ability Grouping and Acceleration [pdf]](http://www.k12accountability.org/resources/Gifted-Education/GT_Review_of_Ed_Research_Meta_Analysis.pdf)
 * [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
 * [2024-09-01, 14:26:07](https://news.ycombinator.com/item?id=41417219) - [The Starliner spacecraft has started to emit noises](https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/)
