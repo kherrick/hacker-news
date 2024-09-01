@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 16:26:55](https://news.ycombinator.com/item?id=41418153) - ['Closer than people think': Woolly mammoth 'de-extinction' is nearing reality](https://www.livescience.com/animals/extinct-species/closer-than-people-think-woolly-mammoth-de-extinction-is-nearing-reality-and-we-have-no-idea-what-happens-next)
 * [2024-09-01, 16:06:13](https://news.ycombinator.com/item?id=41417997) - [Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
-* [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
+* [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a leading chain of psychiatric hospitals traps patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
 * [2024-09-01, 13:21:27](https://news.ycombinator.com/item?id=41416798) - [AI Has Created a Battle over Web Crawling](https://spectrum.ieee.org/web-crawling)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
-* [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
