@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
 * [2024-09-01, 19:38:25](https://news.ycombinator.com/item?id=41419692) - [Dexcom starts selling its new over-the-counter glucose monitor in the U.S.](https://www.sandiegouniontribune.com/2024/08/31/dexcom-starts-selling-its-new-over-the-counter-glucose-monitor-heres-how-much-it-costs/)
+* [2024-09-01, 19:32:53](https://news.ycombinator.com/item?id=41419645) - [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
 * [2024-09-01, 19:05:40](https://news.ycombinator.com/item?id=41419400) - [Texan used Apple AirTags to discover plastics in Houston aren't being recycled](https://www.tomshardware.com/tech-industry/texas-resident-used-apple-airtags-to-discover-plastics-taken-to-houston-recycling-centers-arent-being-recycled)
 * [2024-09-01, 18:59:18](https://news.ycombinator.com/item?id=41419354) - [Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime](https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/)
 * [2024-09-01, 17:23:14](https://news.ycombinator.com/item?id=41418592) - [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
@@ -12,6 +13,7 @@
 * [2024-09-01, 17:11:07](https://news.ycombinator.com/item?id=41418508) - [Lego to replace oil in its bricks with pricier renewable plastic](https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/)
 * [2024-09-01, 16:55:52](https://news.ycombinator.com/item?id=41418394) - [Show HN: 789-Zip – A native macOS app for 7-Zip](https://github.com/AkshayKalose/789-Zip)
 * [2024-09-01, 16:52:57](https://news.ycombinator.com/item?id=41418367) - [IEEE President's Note: Why Students Should Stay with IEEE](https://spectrum.ieee.org/ieee-presidents-note-sept-2024)
+* [2024-09-01, 16:46:07](https://news.ycombinator.com/item?id=41418301) - [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 * [2024-09-01, 16:26:55](https://news.ycombinator.com/item?id=41418153) - ['Closer than people think': Woolly mammoth 'de-extinction' is nearing reality](https://www.livescience.com/animals/extinct-species/closer-than-people-think-woolly-mammoth-de-extinction-is-nearing-reality-and-we-have-no-idea-what-happens-next)
 * [2024-09-01, 16:06:13](https://news.ycombinator.com/item?id=41417997) - [Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
 * [2024-09-01, 15:17:07](https://news.ycombinator.com/item?id=41417659) - [Ask HN: How To: Store and share passwords in a company?](https://news.ycombinator.com/item?id=41417659)
