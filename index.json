@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 17:18:31",
+      "https://news.ycombinator.com/item?id=41418562"
+    ],
+    [
+      "Americans' love affair with big cars is killing them",
+      "https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 17:11:07",
       "https://news.ycombinator.com/item?id=41418508"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2024-09-01, 13:30:35",
+      "https://news.ycombinator.com/item?id=41416845"
+    ],
+    [
+      "Set Up a $4/Mo Hetzner VM to Skip the Serverless Tax",
+      "https://shipixen.com/tutorials/self-host-web-app-on-a-hetzner-virtual-machine"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 13:07:14",
       "https://news.ycombinator.com/item?id=41416714"
     ],
@@ -77,6 +97,16 @@
     [
       "The web's clipboard, and how it stores data of different types",
       "https://alexharri.com/blog/clipboard"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 10:54:42",
+      "https://news.ycombinator.com/item?id=41415841"
+    ],
+    [
+      "Interactive Linear Algebra Dan Margalit, Joseph Rabinoff",
+      "https://textbooks.math.gatech.edu/ila/index.html"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-08-31, 19:11:21",
-      "https://news.ycombinator.com/item?id=41411122"
-    ],
-    [
-      "Percona Everest: open-source automated database provisioning and management",
-      "https://docs.percona.com/everest/index.html"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 16:21:27",
       "https://news.ycombinator.com/item?id=41409882"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-08-30, 18:44:50",
-      "https://news.ycombinator.com/item?id=41403431"
-    ],
-    [
-      "The long road to ropeless fishing",
-      "https://hakaimagazine.com/news/the-long-road-to-ropeless-fishing/"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 16:01:04",
       "https://news.ycombinator.com/item?id=41401941"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-08-30, 05:20:18",
-      "https://news.ycombinator.com/item?id=41397916"
+      "2024-08-30, 05:52:11",
+      "https://news.ycombinator.com/item?id=41398010"
     ],
     [
-      "The Production and Reproduction of Sound by Light (1880)",
-      "https://ajsonline.org/article/64037"
+      "Studying Stones Can Rock Your World",
+      "https://www.newyorker.com/magazine/2024/09/02/turning-to-stone-discovering-the-subtle-wisdom-of-rocks-marcia-bjornerud-book-review"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Escaping from Anaconda's Stranglehold on macOS",
       "https://paulromer.net/escaping-from-anaconda/"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 21:14:52",
-      "https://news.ycombinator.com/item?id=41384456"
-    ],
-    [
-      "MapRoulette: the micro-tasking tool for OpenStreetMap",
-      "https://maproulette.org/"
     ]
   ],
   [
