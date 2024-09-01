@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 05:08:24](https://news.ycombinator.com/item?id=41414455) - [AI is growing faster than companies can secure it, warn industry leaders](https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/)
 * [2024-09-01, 04:46:19](https://news.ycombinator.com/item?id=41414372) - [Chatbots Are Primed to Warp Reality](https://www.theatlantic.com/technology/archive/2024/08/chatbots-false-memories/679660/)
 * [2024-09-01, 04:42:56](https://news.ycombinator.com/item?id=41414359) - [The case of the nearly 7k missing pancreases](https://www.vox.com/future-perfect/367812/organ-donation-loophole-pancreas-opo)
 * [2024-09-01, 02:14:19](https://news.ycombinator.com/item?id=41413662) - [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
@@ -8,7 +9,6 @@
 * [2024-08-31, 21:41:30](https://news.ycombinator.com/item?id=41412221) - [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
 * [2024-08-31, 21:01:53](https://news.ycombinator.com/item?id=41411940) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-08-31, 20:25:40](https://news.ycombinator.com/item?id=41411694) - [Astronomers puzzled by little red galaxies that seem impossibly dense](https://www.newscientist.com/article/2445967-astronomers-puzzled-by-little-red-galaxies-that-seem-impossibly-dense/)
-* [2024-08-31, 19:56:03](https://news.ycombinator.com/item?id=41411478) - [The Threat to OpenAI](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
 * [2024-08-31, 19:32:12](https://news.ycombinator.com/item?id=41411281) - [WatchYourLAN: Lightweight Network IP Scanner](https://github.com/aceberg/WatchYourLAN)
 * [2024-08-31, 19:11:21](https://news.ycombinator.com/item?id=41411122) - [Percona Everest: open-source automated database provisioning and management](https://docs.percona.com/everest/index.html)
 * [2024-08-31, 17:42:14](https://news.ycombinator.com/item?id=41410442) - [Client-side QR code generator with SVG output](https://fietkau.software/qr)
