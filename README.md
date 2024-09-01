@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 21:36:55](https://news.ycombinator.com/item?id=41420597) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 * [2024-09-01, 20:42:02](https://news.ycombinator.com/item?id=41420217) - [Why COBOL Isn't the Problem](https://lucid.co/techblog/2020/11/13/why-cobol-isnt-the-problem)
 * [2024-09-01, 20:31:10](https://news.ycombinator.com/item?id=41420112) - ['Mindblowing' fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
 * [2024-09-01, 19:32:53](https://news.ycombinator.com/item?id=41419645) - [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
@@ -29,7 +30,6 @@
 * [2024-08-30, 05:52:11](https://news.ycombinator.com/item?id=41398010) - [Studying Stones Can Rock Your World](https://www.newyorker.com/magazine/2024/09/02/turning-to-stone-discovering-the-subtle-wisdom-of-rocks-marcia-bjornerud-book-review)
 * [2024-08-29, 22:31:36](https://news.ycombinator.com/item?id=41396015) - [Pinot for Low-Latency Offline Table Analytics](https://www.uber.com/blog/pinot-for-low-latency/)
 * [2024-08-29, 08:57:15](https://news.ycombinator.com/item?id=41388750) - [Escaping from Anaconda's Stranglehold on macOS](https://paulromer.net/escaping-from-anaconda/)
-* [2024-08-28, 15:37:24](https://news.ycombinator.com/item?id=41380686) - [Hypothyroidism: The anonymous Olmec artisan and Velázquez (2017)](https://hekint.org/2017/01/25/the-anonymous-olmec-artisan-and-velazquez/)
 
 ## [Archives](archives/index.md)
 
