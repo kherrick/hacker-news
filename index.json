@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2024-09-01, 01:31:14",
-      "https://news.ycombinator.com/item?id=41413475"
+      "2024-09-01, 02:01:26",
+      "https://news.ycombinator.com/item?id=41413611"
     ],
     [
-      "Ozempic could delay ageing, researchers suggest",
-      "https://www.bbc.com/news/articles/ce81j919gdjo"
+      "The thrill of AI is fading – and Wall Street is getting clear-eyed about value",
+      "https://www.cnn.com/2024/08/30/business/nvidia-wall-street-ai-bubble-nightcap/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 01:22:28",
+      "https://news.ycombinator.com/item?id=41413433"
+    ],
+    [
+      "Palmer Luckey, American Vulcan",
+      "https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn't a Phone",
       "https://ewritable.com/ereaders/boox-palma/review/"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 22:01:40",
-      "https://news.ycombinator.com/item?id=41412356"
-    ],
-    [
-      "Why So Many People Are Going \"No Contact\" with Their Parents",
-      "https://www.newyorker.com/culture/annals-of-inquiry/why-so-many-people-are-going-no-contact-with-their-parents"
     ]
   ],
   [
@@ -211,12 +211,32 @@
   ],
   [
     [
+      "2024-08-31, 05:29:35",
+      "https://news.ycombinator.com/item?id=41406752"
+    ],
+    [
+      "The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads (2022)",
+      "https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 04:29:09",
       "https://news.ycombinator.com/item?id=41406550"
     ],
     [
       "Is my vision that bad? No, it's just a bug in Apple's Calculator",
       "https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 22:53:00",
+      "https://news.ycombinator.com/item?id=41405243"
+    ],
+    [
+      "Bresenham's Circle Drawing Algorithm (2021)",
+      "https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html"
     ]
   ],
   [
@@ -237,6 +257,16 @@
     [
       "LLMs struggle to explain themselves",
       "https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 08:01:13",
+      "https://news.ycombinator.com/item?id=41398633"
+    ],
+    [
+      "Non-Determinism and Overcount on Modern Hardware Performance Counters [pdf]",
+      "https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Neutral beam microscopy using magnetic beam spin encoding",
       "https://www.nature.com/articles/s41467-024-51175-2"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 16:07:28",
-      "https://news.ycombinator.com/item?id=41369065"
-    ],
-    [
-      "Building Bubbletea Programs",
-      "https://leg100.github.io/en/posts/building-bubbletea-programs/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 15:30:12",
-      "https://news.ycombinator.com/item?id=41368657"
-    ],
-    [
-      "Compilation of JavaScript to WASM, Part 2: Ahead-of-Time vs. JIT",
-      "https://cfallin.org/blog/2024/08/27/aot-js/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 12:01:28",
-      "https://news.ycombinator.com/item?id=41366614"
-    ],
-    [
-      "My first experience with Gleam Language",
-      "https://pliutau.com/my-first-experience-with-gleam-lang/"
     ]
   ]
 ]
