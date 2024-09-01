@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
 * [2024-09-01, 09:32:57](https://news.ycombinator.com/item?id=41415498) - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
 * [2024-09-01, 09:01:52](https://news.ycombinator.com/item?id=41415363) - [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
 * [2024-09-01, 08:30:45](https://news.ycombinator.com/item?id=41415238) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
@@ -25,7 +26,6 @@
 * [2024-08-30, 08:01:13](https://news.ycombinator.com/item?id=41398633) - [Non-Determinism and Overcount on Modern Hardware Performance Counters [pdf]](https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf)
 * [2024-08-30, 08:00:25](https://news.ycombinator.com/item?id=41398629) - [Build Your Own Z80 Computer: Design Guidelines and Application](https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia)
 * [2024-08-30, 04:01:33](https://news.ycombinator.com/item?id=41397625) - [The Null Pointer](https://0x0.st/)
-* [2024-08-29, 03:43:45](https://news.ycombinator.com/item?id=41387062) - [Ask HN: What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
 * [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
 * [2024-08-28, 18:56:20](https://news.ycombinator.com/item?id=41382931) - [Solution to the puzzle Cat Walk](https://wondrousnet.blogspot.com/2024/03/solution-to-puzzle-cat-walk.html)
 * [2024-08-28, 17:32:08](https://news.ycombinator.com/item?id=41381920) - [Neutral beam microscopy using magnetic beam spin encoding](https://www.nature.com/articles/s41467-024-51175-2)
