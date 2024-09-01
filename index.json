@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 12:25:02",
+      "https://news.ycombinator.com/item?id=41416401"
+    ],
+    [
+      "The Design and Implementation of the CPython Virtual Machine",
+      "https://blog.codingconfessions.com/p/cpython-vm-internals"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 11:56:38",
       "https://news.ycombinator.com/item?id=41416183"
     ],
@@ -227,16 +237,6 @@
     [
       "Making an atomic trampoline [video]",
       "https://www.youtube.com/watch?v=jLX1-tNnvEo"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 13:23:18",
-      "https://news.ycombinator.com/item?id=41400475"
-    ],
-    [
-      "Epilepsy Protection for VRChat",
-      "https://github.com/LesseVR/EpilepsyProtection"
     ]
   ],
   [
