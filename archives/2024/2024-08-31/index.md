@@ -7,6 +7,7 @@
 * [2024-08-31, 22:47:36](https://news.ycombinator.com/item?id=41412623) - [An Ode to My 5-Year-Old Samsung Galaxy S10e](https://mbrizic.com/blog/samsung-galaxy-s10e/)
 * [2024-08-31, 22:44:02](https://news.ycombinator.com/item?id=41412606) - [One Million new Bluesky users in 3 days](https://bsky.app/profile/bsky.app/post/3l3277gkjjc2y)
 * [2024-08-31, 22:40:00](https://news.ycombinator.com/item?id=41412582) - [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn't a Phone](https://ewritable.com/ereaders/boox-palma/review/)
+* [2024-08-31, 22:01:40](https://news.ycombinator.com/item?id=41412356) - [Why So Many People Are Going \"No Contact\" with Their Parents](https://www.newyorker.com/culture/annals-of-inquiry/why-so-many-people-are-going-no-contact-with-their-parents)
 * [2024-08-31, 21:52:01](https://news.ycombinator.com/item?id=41412293) - [Freetube is the best way to watch YouTube](https://www.popsci.com/diy/youtube-alternative-freetube/)
 * [2024-08-31, 21:45:59](https://news.ycombinator.com/item?id=41412256) - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 * [2024-08-31, 21:41:30](https://news.ycombinator.com/item?id=41412221) - [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
