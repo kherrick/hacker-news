@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 11:56:38",
+      "https://news.ycombinator.com/item?id=41416183"
+    ],
+    [
+      "HMD Barbie Phone",
+      "https://www.hmd.com/en_int/hmd-barbie-phone"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 10:48:53",
       "https://news.ycombinator.com/item?id=41415819"
     ],
@@ -37,6 +47,16 @@
     [
       "C Course Online",
       "https://lucidar.me/en/c-class/learn-c-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 09:26:22",
+      "https://news.ycombinator.com/item?id=41415468"
+    ],
+    [
+      "Take a closer look at Starbucks CEO's contract, which covers his commute by jet",
+      "https://www.abc.net.au/news/2024-09-01/starbucks-ceo-brian-niccol-contract-explained/104270064"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Playstation 2 GS emulation – the final frontier of Vulkan compute emulation",
       "https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 02:07:34",
-      "https://news.ycombinator.com/item?id=41413641"
-    ],
-    [
-      "Taming the beast that is the Django ORM – An introduction",
-      "https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2024-08-31, 11:19:08",
-      "https://news.ycombinator.com/item?id=41407993"
-    ],
-    [
-      "Show HN: Typeform alternative, turns Markdown to forms",
-      "https://blocks.md"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 07:46:35",
       "https://news.ycombinator.com/item?id=41407195"
     ],
     [
       "Making an atomic trampoline [video]",
       "https://www.youtube.com/watch?v=jLX1-tNnvEo"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 20:58:17",
-      "https://news.ycombinator.com/item?id=41404360"
-    ],
-    [
-      "Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)",
-      "https://github.com/velorek1/C-edit"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Atari 7800",
       "https://www.goto10retro.com/p/inside-the-atari-7800"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 10:07:16",
+      "https://news.ycombinator.com/item?id=41377863"
+    ],
+    [
+      "A better HTML input experience (custom elements and the AOM) (2017)",
+      "https://robdodson.me/posts/the-future-of-accessibility-for-custom-elements/"
     ]
   ]
 ]
