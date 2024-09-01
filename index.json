@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 08:30:45",
+      "https://news.ycombinator.com/item?id=41415238"
+    ],
+    [
+      "Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime",
+      "https://vitaut.net/posts/2024/binary-size/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 08:09:03",
       "https://news.ycombinator.com/item?id=41415144"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=41382931"
     ],
     [
-      "Solving the labyrinth puzzle from the university quest using Python",
+      "Solution to the puzzle Cat Walk",
       "https://wondrousnet.blogspot.com/2024/03/solution-to-puzzle-cat-walk.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The Atari 7800",
       "https://www.goto10retro.com/p/inside-the-atari-7800"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 11:19:07",
-      "https://news.ycombinator.com/item?id=41378287"
-    ],
-    [
-      "Designing a Timeline for Mobile Video Editing",
-      "https://img.ly/blog/designing-a-timeline-for-mobile-video-editing/"
     ]
   ]
 ]
