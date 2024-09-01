@@ -56,6 +56,7 @@
 * [2024-08-30, 12:05:23](https://news.ycombinator.com/item?id=41399872) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 11:50:54](https://news.ycombinator.com/item?id=41399791) - [Thousands of papers misidentify microscopes, in possible sign of misconduct](https://retractionwatch.com/2024/08/27/exclusive-thousands-of-papers-misidentify-microscopes-in-possible-sign-of-misconduct/)
 * [2024-08-30, 11:32:11](https://news.ycombinator.com/item?id=41399704) - [Japan police: Nearly 4k who died alone at home not found for over a month](https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/)
+* [2024-08-30, 10:23:19](https://news.ycombinator.com/item?id=41399369) - [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 * [2024-08-30, 10:00:07](https://news.ycombinator.com/item?id=41399249) - [Bay Watch: Northern California is an energy catastrophe waiting to happen](https://newsletter.doomberg.com/p/bay-watch)
 * [2024-08-30, 09:54:52](https://news.ycombinator.com/item?id=41399224) - [Low-cost 16 EEG channels cap (hat) for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)
 * [2024-08-30, 09:25:13](https://news.ycombinator.com/item?id=41399047) - [Rubi: Symbolic integrator based on an extensive system of integration rules](https://rulebasedintegration.org/)
