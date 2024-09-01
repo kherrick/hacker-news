@@ -7,6 +7,7 @@
 * [2024-08-27, 23:24:01](https://news.ycombinator.com/item?id=41374359) - [SF Mutual Fund Exec Front-Ran His Fund's Trades](https://www.propublica.org/article/dodge-cox-exec-david-hoeft-made-millions-trading-same-stocks)
 * [2024-08-27, 23:13:14](https://news.ycombinator.com/item?id=41374276) - [After a decade of free Alexa, Amazon now wants you to pay](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/)
 * [2024-08-27, 22:38:49](https://news.ycombinator.com/item?id=41374009) - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
+* [2024-08-27, 22:26:13](https://news.ycombinator.com/item?id=41373882) - [JSON is usually the least bad option for machine-readable output formats](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONLeastBadFormat)
 * [2024-08-27, 22:05:18](https://news.ycombinator.com/item?id=41373650) - [GeoWorks: The Other Windows](https://tedium.co/2019/06/20/geoworks-geos-history/)
 * [2024-08-27, 21:39:06](https://news.ycombinator.com/item?id=41373384) - [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
 * [2024-08-27, 21:37:37](https://news.ycombinator.com/item?id=41373368) - [Should the richest 1% – who gained $42T/decade – be taxed more?](https://www.business-standard.com/world-news/world-s-top-1-gained-42-trillion-in-a-decade-taxes-at-record-lows-oxfam-124072500348_1.html)

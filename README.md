@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 14:44:55](https://news.ycombinator.com/item?id=41417368) - [What 100 Years of Research Says about Ability Grouping and Acceleration [pdf]](http://www.k12accountability.org/resources/Gifted-Education/GT_Review_of_Ed_Research_Meta_Analysis.pdf)
 * [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
+* [2024-09-01, 14:26:07](https://news.ycombinator.com/item?id=41417219) - [The Starliner spacecraft has started to emit noises](https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
 * [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
@@ -20,16 +22,14 @@
 * [2024-08-31, 16:21:27](https://news.ycombinator.com/item?id=41409882) - [Did your car witness a crime?](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 * [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need (2022) [video]](http://tom7.org/harder/)
 * [2024-08-31, 13:28:25](https://news.ycombinator.com/item?id=41408738) - [Brazil's X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
-* [2024-08-31, 11:19:08](https://news.ycombinator.com/item?id=41407993) - [Show HN: Typeform alternative, turns Markdown to forms](https://blocks.md)
 * [2024-08-31, 07:46:35](https://news.ycombinator.com/item?id=41407195) - [Making an atomic trampoline [video]](https://www.youtube.com/watch?v=jLX1-tNnvEo)
 * [2024-08-30, 20:58:17](https://news.ycombinator.com/item?id=41404360) - [Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)](https://github.com/velorek1/C-edit)
-* [2024-08-30, 13:23:18](https://news.ycombinator.com/item?id=41400475) - [Epilepsy Protection for VRChat](https://github.com/LesseVR/EpilepsyProtection)
-* [2024-08-30, 08:01:13](https://news.ycombinator.com/item?id=41398633) - [Non-Determinism and Overcount on Modern Hardware Performance Counters [pdf]](https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf)
 * [2024-08-30, 08:00:25](https://news.ycombinator.com/item?id=41398629) - [Build Your Own Z80 Computer: Design Guidelines and Application (1981)](https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia)
 * [2024-08-30, 04:01:33](https://news.ycombinator.com/item?id=41397625) - [The Null Pointer](https://0x0.st/)
 * [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
 * [2024-08-28, 15:37:24](https://news.ycombinator.com/item?id=41380686) - [Hypothyroidism: The anonymous Olmec artisan and Velázquez (2017)](https://hekint.org/2017/01/25/the-anonymous-olmec-artisan-and-velazquez/)
 * [2024-08-28, 10:07:16](https://news.ycombinator.com/item?id=41377863) - [A better HTML input experience (custom elements and the AOM) (2017)](https://robdodson.me/posts/the-future-of-accessibility-for-custom-elements/)
+* [2024-08-27, 22:26:13](https://news.ycombinator.com/item?id=41373882) - [JSON is usually the least bad option for machine-readable output formats](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONLeastBadFormat)
 
 ## [Archives](archives/index.md)
 
