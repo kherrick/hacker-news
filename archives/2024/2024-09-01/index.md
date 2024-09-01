@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
 * [2024-09-01, 13:36:28](https://news.ycombinator.com/item?id=41416872) - [Starliner crew reports hearing \"sonar like noises\"](https://twitter.com/SpaceBasedFox/status/1830180273130242223)
 * [2024-09-01, 13:31:43](https://news.ycombinator.com/item?id=41416855) - [Huck Finn – One of the Greatest Anti-Racist Books Ever Written](https://medium.com/luminasticity/huck-finn-one-of-the-greatest-anti-racist-books-ever-written-db3f922dea44)
 * [2024-09-01, 13:21:45](https://news.ycombinator.com/item?id=41416799) - [Linear Algebra Done Right [pdf]](https://linear.axler.net/LADR4e.pdf)
