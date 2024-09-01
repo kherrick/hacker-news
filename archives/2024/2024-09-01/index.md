@@ -18,6 +18,7 @@
 * [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
 * [2024-09-01, 14:31:30](https://news.ycombinator.com/item?id=41417269) - [Apple Succession Strategy: Keep the Old Guard Around as Long as Possible](https://www.bloomberg.com/news/newsletters/2024-09-01/apple-s-succession-strategy-m4-mac-mini-cheaper-ipad-magic-keyboard-m0jkdrx5)
 * [2024-09-01, 14:26:07](https://news.ycombinator.com/item?id=41417219) - [The Starliner spacecraft has started to emit noises](https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/)
+* [2024-09-01, 14:10:45](https://news.ycombinator.com/item?id=41417109) - [Athletes/musicians pursue fundamentals more rigorously than knowledge workers](https://notes.andymatuschak.org/zBmSSpM1WfFDehxNCBcqSZp?stackedNotes=zMX9Lfuz8sGfDUivWZcyWT)
 * [2024-09-01, 13:57:28](https://news.ycombinator.com/item?id=41417024) - [Vizdom: Diagrams as Code](https://vizdom.dev)
 * [2024-09-01, 13:36:28](https://news.ycombinator.com/item?id=41416872) - [Starliner crew reports hearing \"sonar like noises\"](https://twitter.com/SpaceBasedFox/status/1830180273130242223)
 * [2024-09-01, 13:31:43](https://news.ycombinator.com/item?id=41416855) - [Huck Finn – One of the Greatest Anti-Racist Books Ever Written](https://medium.com/luminasticity/huck-finn-one-of-the-greatest-anti-racist-books-ever-written-db3f922dea44)
