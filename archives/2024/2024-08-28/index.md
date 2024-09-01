@@ -63,6 +63,7 @@
 * [2024-08-28, 14:42:05](https://news.ycombinator.com/item?id=41380065) - [Show HN: A somewhat faster, more lightweight, ripgrep-inspired alternative](https://github.com/alexpasmantier/grip-grab)
 * [2024-08-28, 14:39:25](https://news.ycombinator.com/item?id=41380031) - [Unrealized Gain Tax–A Coming Sea Change in FY2025 Budget Proposal?](https://www.forbes.com/sites/andrewleahey/2024/04/30/unrealized-gain-tax-a-coming-sea-change-in-fy2025-budget-proposal/)
 * [2024-08-28, 14:26:50](https://news.ycombinator.com/item?id=41379902) - [There is only one amphibian emoji](https://wonger.dev/posts/emoji-animals)
+* [2024-08-28, 14:12:03](https://news.ycombinator.com/item?id=41379751) - [The Atari 7800](https://www.goto10retro.com/p/inside-the-atari-7800)
 * [2024-08-28, 14:09:13](https://news.ycombinator.com/item?id=41379720) - [File Copying Olympics: How File Size Impacts the Race for Performance Gold](https://bombich.com/blog/2024/08/27/file-copying-olympics-how-file-size-impacts-race-for-performance-gold)
 * [2024-08-28, 13:50:07](https://news.ycombinator.com/item?id=41379517) - [YouTube is barely usable specifically on Firefox Windows at the moment](https://old.reddit.com/r/youtube/comments/1f30ku4/youtube_sabotaging_on_firefox/)
 * [2024-08-28, 13:48:41](https://news.ycombinator.com/item?id=41379500) - [Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
