@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
 * [2024-09-01, 04:46:19](https://news.ycombinator.com/item?id=41414372) - [Chatbots Are Primed to Warp Reality](https://www.theatlantic.com/technology/archive/2024/08/chatbots-false-memories/679660/)
+* [2024-09-01, 04:42:56](https://news.ycombinator.com/item?id=41414359) - [The case of the nearly 7k missing pancreases](https://www.vox.com/future-perfect/367812/organ-donation-loophole-pancreas-opo)
 * [2024-09-01, 02:18:48](https://news.ycombinator.com/item?id=41413687) - [Oprah will screw up the AI story](https://www.anildash.com//2024/08/31/oprah-wrong-ai/)
 * [2024-09-01, 02:14:19](https://news.ycombinator.com/item?id=41413662) - [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 * [2024-09-01, 02:07:34](https://news.ycombinator.com/item?id=41413641) - [Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
