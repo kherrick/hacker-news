@@ -54,6 +54,7 @@
 * [2024-08-30, 13:40:28](https://news.ycombinator.com/item?id=41400618) - [PrimeReact: The Most Complete React UI Component Library](https://github.com/primefaces/primereact)
 * [2024-08-30, 13:39:47](https://news.ycombinator.com/item?id=41400612) - [Ad Hoc Infrastructure – By Kent Beck](https://tidyfirst.substack.com/p/ad-hoc-infrastructure)
 * [2024-08-30, 13:28:44](https://news.ycombinator.com/item?id=41400523) - [AI cameras spot toddlers not wearing seat belts](https://www.bbc.com/news/articles/c5y3pdp099zo)
+* [2024-08-30, 13:25:55](https://news.ycombinator.com/item?id=41400504) - [120 Years of New York's Subterranean Literary Muse](https://www.nytimes.com/interactive/2024/08/29/books/new-york-subways-history-literature.html)
 * [2024-08-30, 13:25:48](https://news.ycombinator.com/item?id=41400500) - [Behind AWS S3's Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
 * [2024-08-30, 13:23:18](https://news.ycombinator.com/item?id=41400475) - [Epilepsy Protection for VRChat](https://github.com/LesseVR/EpilepsyProtection)
 * [2024-08-30, 13:08:02](https://news.ycombinator.com/item?id=41400327) - [The Far-Reaching Ripple Effects of a Discredited Cancer Study](https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842)
