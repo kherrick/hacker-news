@@ -27,6 +27,7 @@
 * [2024-08-28, 19:26:08](https://news.ycombinator.com/item?id=41383244) - [I Hate the Term \"Modern\"](https://www.paritybit.ca/blog/why-i-hate-the-term-modern/)
 * [2024-08-28, 19:13:51](https://news.ycombinator.com/item?id=41383126) - [Companies Lobby Against Giving the Military the Right to Repair](https://www.404media.co/appliance-and-tractor-companies-lobby-against-giving-the-military-the-right-to-repair/)
 * [2024-08-28, 19:10:13](https://news.ycombinator.com/item?id=41383093) - [After 12 years at Google, I have decided it is time to move on](https://www.linkedin.com/posts/richard-sproat-3a182411_after-12-years-at-google-18-years-if-you-activity-7233986579529089024--CZW)
+* [2024-08-28, 19:02:49](https://news.ycombinator.com/item?id=41383003) - [How big a table do you need for your jigsaw puzzle?](https://arxiv.org/abs/2312.04588)
 * [2024-08-28, 18:56:20](https://news.ycombinator.com/item?id=41382931) - [Solving the labyrinth puzzle from the university quest using Python](https://wondrousnet.blogspot.com/2024/03/solution-to-puzzle-cat-walk.html)
 * [2024-08-28, 18:46:50](https://news.ycombinator.com/item?id=41382828) - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:35:13](https://news.ycombinator.com/item?id=41382699) - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)

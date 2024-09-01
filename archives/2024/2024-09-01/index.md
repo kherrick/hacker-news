@@ -11,6 +11,7 @@
 * [2024-09-01, 09:01:52](https://news.ycombinator.com/item?id=41415363) - [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
 * [2024-09-01, 08:30:45](https://news.ycombinator.com/item?id=41415238) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-09-01, 08:09:03](https://news.ycombinator.com/item?id=41415144) - [E Ink faces growing competition in the \"paper-like\" display space](https://liliputing.com/e-ink-faces-growing-competition-in-the-paper-like-display-space/)
+* [2024-09-01, 07:50:35](https://news.ycombinator.com/item?id=41415077) - [Godot on iPad, Toolbars, Importers, Embedding, Debugger](https://blog.la-terminal.net/godot-on-ipad-summer-update/)
 * [2024-09-01, 07:46:01](https://news.ycombinator.com/item?id=41415063) - [Artificial intelligence comes to male sex toys](https://english.elpais.com/lifestyle/2024-09-01/this-is-not-your-normal-masturbation-artificial-intelligence-comes-to-male-sex-toys.html)
 * [2024-09-01, 07:35:23](https://news.ycombinator.com/item?id=41415023) - [Founder Mode](https://paulgraham.com/foundermode.html)
 * [2024-09-01, 05:08:24](https://news.ycombinator.com/item?id=41414455) - [AI is growing faster than companies can secure it, warn industry leaders](https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/)
