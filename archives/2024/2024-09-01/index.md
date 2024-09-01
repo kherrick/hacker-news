@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 08:30:45](https://news.ycombinator.com/item?id=41415238) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-09-01, 08:09:03](https://news.ycombinator.com/item?id=41415144) - [E Ink faces growing competition in the \"paper-like\" display space](https://liliputing.com/e-ink-faces-growing-competition-in-the-paper-like-display-space/)
 * [2024-09-01, 05:08:24](https://news.ycombinator.com/item?id=41414455) - [AI is growing faster than companies can secure it, warn industry leaders](https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/)
 * [2024-09-01, 04:46:19](https://news.ycombinator.com/item?id=41414372) - [Chatbots Are Primed to Warp Reality](https://www.theatlantic.com/technology/archive/2024/08/chatbots-false-memories/679660/)
