@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 19:38:25](https://news.ycombinator.com/item?id=41419692) - [Dexcom starts selling its new over-the-counter glucose monitor in the U.S.](https://www.sandiegouniontribune.com/2024/08/31/dexcom-starts-selling-its-new-over-the-counter-glucose-monitor-heres-how-much-it-costs/)
 * [2024-09-01, 19:05:40](https://news.ycombinator.com/item?id=41419400) - [Texan used Apple AirTags to discover plastics in Houston aren't being recycled](https://www.tomshardware.com/tech-industry/texas-resident-used-apple-airtags-to-discover-plastics-taken-to-houston-recycling-centers-arent-being-recycled)
 * [2024-09-01, 18:59:18](https://news.ycombinator.com/item?id=41419354) - [Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime](https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/)
 * [2024-09-01, 17:23:14](https://news.ycombinator.com/item?id=41418592) - [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
