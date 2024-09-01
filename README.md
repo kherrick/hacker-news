@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 08:09:03](https://news.ycombinator.com/item?id=41415144) - [E Ink faces growing competition in the \"paper-like\" display space](https://liliputing.com/e-ink-faces-growing-competition-in-the-paper-like-display-space/)
 * [2024-09-01, 05:08:24](https://news.ycombinator.com/item?id=41414455) - [AI is growing faster than companies can secure it, warn industry leaders](https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/)
 * [2024-09-01, 04:46:19](https://news.ycombinator.com/item?id=41414372) - [Chatbots Are Primed to Warp Reality](https://www.theatlantic.com/technology/archive/2024/08/chatbots-false-memories/679660/)
 * [2024-09-01, 04:42:56](https://news.ycombinator.com/item?id=41414359) - [The case of the nearly 7k missing pancreases](https://www.vox.com/future-perfect/367812/organ-donation-loophole-pancreas-opo)
@@ -12,7 +13,6 @@
 * [2024-08-31, 19:32:12](https://news.ycombinator.com/item?id=41411281) - [WatchYourLAN: Lightweight Network IP Scanner](https://github.com/aceberg/WatchYourLAN)
 * [2024-08-31, 19:11:21](https://news.ycombinator.com/item?id=41411122) - [Percona Everest: open-source automated database provisioning and management](https://docs.percona.com/everest/index.html)
 * [2024-08-31, 17:42:14](https://news.ycombinator.com/item?id=41410442) - [Client-side QR code generator with SVG output](https://fietkau.software/qr)
-* [2024-08-31, 16:23:13](https://news.ycombinator.com/item?id=41409891) - [My fake job in Y2K preparedness](https://www.nplusonemag.com/issue-48/essays/the-contingency-contingent/)
 * [2024-08-31, 16:21:27](https://news.ycombinator.com/item?id=41409882) - [Did your car witness a crime?](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 * [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need (2022) [video]](http://tom7.org/harder/)
 * [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
