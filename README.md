@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 13:21:45](https://news.ycombinator.com/item?id=41416799) - [Linear Algebra Done Right [pdf]](https://linear.axler.net/LADR4e.pdf)
+* [2024-09-01, 12:41:01](https://news.ycombinator.com/item?id=41416523) - [Rediscovering Turbo Pascal](https://journal.paoloamoroso.com/rediscovering-turbo-pascal)
 * [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:56:38](https://news.ycombinator.com/item?id=41416183) - [HMD Barbie Phone](https://www.hmd.com/en_int/hmd-barbie-phone)
 * [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
-* [2024-09-01, 10:03:55](https://news.ycombinator.com/item?id=41415619) - [Ask HN: How To: Internal Documentation?](https://news.ycombinator.com/item?id=41415619)
 * [2024-09-01, 09:32:57](https://news.ycombinator.com/item?id=41415498) - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
 * [2024-09-01, 09:26:22](https://news.ycombinator.com/item?id=41415468) - [Take a closer look at Starbucks CEO's contract, which covers his commute by jet](https://www.abc.net.au/news/2024-09-01/starbucks-ceo-brian-niccol-contract-explained/104270064)
 * [2024-09-01, 09:01:52](https://news.ycombinator.com/item?id=41415363) - [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
@@ -25,9 +26,8 @@
 * [2024-08-31, 13:28:25](https://news.ycombinator.com/item?id=41408738) - [Brazil's X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
 * [2024-08-31, 07:46:35](https://news.ycombinator.com/item?id=41407195) - [Making an atomic trampoline [video]](https://www.youtube.com/watch?v=jLX1-tNnvEo)
 * [2024-08-30, 08:00:25](https://news.ycombinator.com/item?id=41398629) - [Build Your Own Z80 Computer: Design Guidelines and Application](https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia)
-* [2024-08-30, 04:01:33](https://news.ycombinator.com/item?id=41397625) - [The Null Pointer](https://0x0.st/)
 * [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
-* [2024-08-28, 19:02:49](https://news.ycombinator.com/item?id=41383003) - [How big a table do you need for your jigsaw puzzle?](https://arxiv.org/abs/2312.04588)
+* [2024-08-28, 15:37:24](https://news.ycombinator.com/item?id=41380686) - [Hypothyroidism: The anonymous Olmec artisan and Velázquez](https://hekint.org/2017/01/25/the-anonymous-olmec-artisan-and-velazquez/)
 * [2024-08-28, 14:12:03](https://news.ycombinator.com/item?id=41379751) - [The Atari 7800](https://www.goto10retro.com/p/inside-the-atari-7800)
 * [2024-08-28, 10:07:16](https://news.ycombinator.com/item?id=41377863) - [A better HTML input experience (custom elements and the AOM) (2017)](https://robdodson.me/posts/the-future-of-accessibility-for-custom-elements/)
 

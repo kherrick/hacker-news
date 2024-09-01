@@ -51,6 +51,7 @@
 * [2024-08-28, 15:48:44](https://news.ycombinator.com/item?id=41380829) - [We created a new account in Telegram and started looking for a job in Estonia](https://threadreaderapp.com/thread/1828526705306411410.html)
 * [2024-08-28, 15:48:02](https://news.ycombinator.com/item?id=41380814) - [Show HN: Claude Artifacts\" but creating real web apps](https://gptengineer.app)
 * [2024-08-28, 15:37:54](https://news.ycombinator.com/item?id=41380690) - [Immovable Ladder](https://en.wikipedia.org/wiki/Immovable_Ladder)
+* [2024-08-28, 15:37:24](https://news.ycombinator.com/item?id=41380686) - [Hypothyroidism: The anonymous Olmec artisan and Velázquez](https://hekint.org/2017/01/25/the-anonymous-olmec-artisan-and-velazquez/)
 * [2024-08-28, 15:20:40](https://news.ycombinator.com/item?id=41380506) - [Show HN: Every open source tool from the \"What's HN working on\" thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
 * [2024-08-28, 15:15:24](https://news.ycombinator.com/item?id=41380460) - [Show HN: Shed Light on Your Go Binary Bloat with Go Size Analyzer](https://github.com/Zxilly/go-size-analyzer)
 * [2024-08-28, 15:14:41](https://news.ycombinator.com/item?id=41380450) - [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
