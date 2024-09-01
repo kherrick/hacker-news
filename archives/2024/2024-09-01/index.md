@@ -15,6 +15,7 @@
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
+* [2024-09-01, 10:08:17](https://news.ycombinator.com/item?id=41415642) - [Distroless: Language focused Docker images, minus the operating system](https://github.com/GoogleContainerTools/distroless)
 * [2024-09-01, 10:03:55](https://news.ycombinator.com/item?id=41415619) - [Ask HN: How To: Internal Documentation?](https://news.ycombinator.com/item?id=41415619)
 * [2024-09-01, 09:32:57](https://news.ycombinator.com/item?id=41415498) - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
 * [2024-09-01, 09:26:22](https://news.ycombinator.com/item?id=41415468) - [Take a closer look at Starbucks CEO's contract, which covers his commute by jet](https://www.abc.net.au/news/2024-09-01/starbucks-ceo-brian-niccol-contract-explained/104270064)

@@ -90,6 +90,7 @@
 * [2024-08-28, 11:19:07](https://news.ycombinator.com/item?id=41378287) - [Designing a Timeline for Mobile Video Editing](https://img.ly/blog/designing-a-timeline-for-mobile-video-editing/)
 * [2024-08-28, 11:16:00](https://news.ycombinator.com/item?id=41378268) - [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
 * [2024-08-28, 11:11:13](https://news.ycombinator.com/item?id=41378240) - [Fermilab is 'doomed' without management overhaul claims whistleblower report](https://physicsworld.com/a/fermilab-is-doomed-without-management-overhaul-claims-whistleblower-report/)
+* [2024-08-28, 10:49:45](https://news.ycombinator.com/item?id=41378118) - [Computational Arts Initiative](https://cai.jetbrains.com/)
 * [2024-08-28, 10:28:28](https://news.ycombinator.com/item?id=41378002) - [Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDF (Rust)](https://github.com/seekbytes/IPA)
 * [2024-08-28, 10:09:04](https://news.ycombinator.com/item?id=41377870) - [Namibia to cull 83 elephants and distribute meat to people affected by drought](https://www.reuters.com/world/africa/namibia-cull-83-elephants-distribute-meat-people-affected-by-drought-2024-08-27/)
