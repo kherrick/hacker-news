@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-01, 02:18:48](https://news.ycombinator.com/item?id=41413687) - [Oprah will screw up the AI story](https://www.anildash.com//2024/08/31/oprah-wrong-ai/)
+* [2024-09-01, 02:14:19](https://news.ycombinator.com/item?id=41413662) - [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 * [2024-09-01, 02:07:34](https://news.ycombinator.com/item?id=41413641) - [Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
-* [2024-09-01, 02:01:26](https://news.ycombinator.com/item?id=41413611) - [The thrill of AI is fading – and Wall Street is getting clear-eyed about value](https://www.cnn.com/2024/08/30/business/nvidia-wall-street-ai-bubble-nightcap/index.html)
 * [2024-09-01, 01:31:14](https://news.ycombinator.com/item?id=41413475) - [Ozempic could delay ageing, researchers suggest](https://www.bbc.com/news/articles/ce81j919gdjo)
 * [2024-09-01, 00:38:33](https://news.ycombinator.com/item?id=41413174) - [AirTags key to discovery of Houston's plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception)
 * [2024-08-31, 21:45:59](https://news.ycombinator.com/item?id=41412256) - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
@@ -24,6 +23,7 @@
 * [2024-08-31, 05:03:51](https://news.ycombinator.com/item?id=41406669) - [Iron as an inexpensive storage medium for hydrogen](https://ethz.ch/en/news-and-events/eth-news/news/2024/08/iron-as-an-inexpensive-storage-medium-for-hydrogen.html)
 * [2024-08-31, 04:29:09](https://news.ycombinator.com/item?id=41406550) - [Is my vision that bad? No, it's just a bug in Apple's Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
 * [2024-08-30, 20:58:17](https://news.ycombinator.com/item?id=41404360) - [Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)](https://github.com/velorek1/C-edit)
+* [2024-08-30, 13:23:18](https://news.ycombinator.com/item?id=41400475) - [Epilepsy Protection for VRChat](https://github.com/LesseVR/EpilepsyProtection)
 * [2024-08-30, 10:23:19](https://news.ycombinator.com/item?id=41399369) - [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 * [2024-08-30, 08:01:13](https://news.ycombinator.com/item?id=41398633) - [Non-Determinism and Overcount on Modern Hardware Performance Counters [pdf]](https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf)
 * [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
