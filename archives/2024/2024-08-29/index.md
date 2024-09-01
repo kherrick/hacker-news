@@ -10,6 +10,7 @@
 * [2024-08-29, 23:08:23](https://news.ycombinator.com/item?id=41396279) - [The Imperial Origins of Big Data](https://yalebooks.yale.edu/2024/08/28/the-imperial-origins-of-big-data/)
 * [2024-08-29, 23:04:32](https://news.ycombinator.com/item?id=41396260) - [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
 * [2024-08-29, 22:56:27](https://news.ycombinator.com/item?id=41396206) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
+* [2024-08-29, 22:31:36](https://news.ycombinator.com/item?id=41396015) - [Pinot for Low-Latency Offline Table Analytics](https://www.uber.com/blog/pinot-for-low-latency/)
 * [2024-08-29, 22:22:12](https://news.ycombinator.com/item?id=41395925) - [Google Closure has been archived](https://github.com/google/closure-library)
 * [2024-08-29, 22:21:55](https://news.ycombinator.com/item?id=41395921) - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 * [2024-08-29, 22:19:48](https://news.ycombinator.com/item?id=41395893) - [Blood Disorder: Unveiling the Mystery of My Poisoning in Sweden](https://rattvisan.blog/2024/07/28/yes-i-was-poisoned-by-my-wife-a-software-engineer-of-top3-us-company/)
