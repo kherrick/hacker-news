@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:56:38](https://news.ycombinator.com/item?id=41416183) - [HMD Barbie Phone](https://www.hmd.com/en_int/hmd-barbie-phone)
 * [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
@@ -23,7 +24,6 @@
 * [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need (2022) [video]](http://tom7.org/harder/)
 * [2024-08-31, 13:28:25](https://news.ycombinator.com/item?id=41408738) - [Brazil's X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
 * [2024-08-31, 07:46:35](https://news.ycombinator.com/item?id=41407195) - [Making an atomic trampoline [video]](https://www.youtube.com/watch?v=jLX1-tNnvEo)
-* [2024-08-30, 13:23:18](https://news.ycombinator.com/item?id=41400475) - [Epilepsy Protection for VRChat](https://github.com/LesseVR/EpilepsyProtection)
 * [2024-08-30, 08:00:25](https://news.ycombinator.com/item?id=41398629) - [Build Your Own Z80 Computer: Design Guidelines and Application](https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia)
 * [2024-08-30, 04:01:33](https://news.ycombinator.com/item?id=41397625) - [The Null Pointer](https://0x0.st/)
 * [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
