@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
 * [2024-09-01, 13:21:45](https://news.ycombinator.com/item?id=41416799) - [Linear Algebra Done Right [pdf]](https://linear.axler.net/LADR4e.pdf)
+* [2024-09-01, 13:14:52](https://news.ycombinator.com/item?id=41416761) - [Have we stopped to think about what LLMs model?](https://www.theregister.com/2024/08/30/ai_language_cognition_research/)
+* [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
 * [2024-09-01, 12:41:01](https://news.ycombinator.com/item?id=41416523) - [Rediscovering Turbo Pascal](https://journal.paoloamoroso.com/rediscovering-turbo-pascal)
 * [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:56:38](https://news.ycombinator.com/item?id=41416183) - [HMD Barbie Phone](https://www.hmd.com/en_int/hmd-barbie-phone)
+* [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
 * [2024-09-01, 10:03:55](https://news.ycombinator.com/item?id=41415619) - [Ask HN: How To: Internal Documentation?](https://news.ycombinator.com/item?id=41415619)
