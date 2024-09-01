@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 17:23:14](https://news.ycombinator.com/item?id=41418592) - [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
 * [2024-09-01, 17:18:31](https://news.ycombinator.com/item?id=41418562) - [Americans' love affair with big cars is killing them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
 * [2024-09-01, 17:11:07](https://news.ycombinator.com/item?id=41418508) - [Lego to replace oil in its bricks with pricier renewable plastic](https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/)
 * [2024-09-01, 16:55:52](https://news.ycombinator.com/item?id=41418394) - [Show HN: 789-Zip – A native macOS app for 7-Zip](https://github.com/AkshayKalose/789-Zip)
 * [2024-09-01, 16:52:57](https://news.ycombinator.com/item?id=41418367) - [IEEE President's Note: Why Students Should Stay with IEEE](https://spectrum.ieee.org/ieee-presidents-note-sept-2024)
 * [2024-09-01, 16:26:55](https://news.ycombinator.com/item?id=41418153) - ['Closer than people think': Woolly mammoth 'de-extinction' is nearing reality](https://www.livescience.com/animals/extinct-species/closer-than-people-think-woolly-mammoth-de-extinction-is-nearing-reality-and-we-have-no-idea-what-happens-next)
 * [2024-09-01, 16:06:13](https://news.ycombinator.com/item?id=41417997) - [Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
+* [2024-09-01, 15:17:07](https://news.ycombinator.com/item?id=41417659) - [Ask HN: How To: Store and share passwords in a company?](https://news.ycombinator.com/item?id=41417659)
 * [2024-09-01, 15:16:55](https://news.ycombinator.com/item?id=41417657) - [Amazon and Bezos fund's influence over carbon credit market raises alarm](https://www.ft.com/content/388b190d-49b0-4997-af18-1049e911f0b7)
+* [2024-09-01, 15:16:42](https://news.ycombinator.com/item?id=41417653) - [Fasnacht: Basel's \"three most beautiful days\"](https://shoreleave.substack.com/p/in-search-of-circus-europa)
 * [2024-09-01, 14:44:55](https://news.ycombinator.com/item?id=41417368) - [What 100 Years of Research Says about Ability Grouping and Acceleration [pdf]](http://www.k12accountability.org/resources/Gifted-Education/GT_Review_of_Ed_Research_Meta_Analysis.pdf)
 * [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
 * [2024-09-01, 14:26:07](https://news.ycombinator.com/item?id=41417219) - [The Starliner spacecraft has started to emit noises](https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/)
