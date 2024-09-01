@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 16:55:52](https://news.ycombinator.com/item?id=41418394) - [Show HN: 789-Zip – A native macOS app for 7-Zip](https://github.com/AkshayKalose/789-Zip)
 * [2024-09-01, 16:26:55](https://news.ycombinator.com/item?id=41418153) - ['Closer than people think': Woolly mammoth 'de-extinction' is nearing reality](https://www.livescience.com/animals/extinct-species/closer-than-people-think-woolly-mammoth-de-extinction-is-nearing-reality-and-we-have-no-idea-what-happens-next)
 * [2024-09-01, 16:06:13](https://news.ycombinator.com/item?id=41417997) - [Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
 * [2024-09-01, 14:33:23](https://news.ycombinator.com/item?id=41417284) - [How a leading chain of psychiatric hospitals traps patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
@@ -21,14 +22,13 @@
 * [2024-08-31, 07:46:35](https://news.ycombinator.com/item?id=41407195) - [Making an atomic trampoline [video]](https://www.youtube.com/watch?v=jLX1-tNnvEo)
 * [2024-08-30, 23:26:37](https://news.ycombinator.com/item?id=41405424) - [The World Map of the Internet in 2021](https://trendland.com/the-world-map-of-the-internet-in-2021/)
 * [2024-08-30, 21:00:04](https://news.ycombinator.com/item?id=41404383) - [Lady tasting tea](https://en.wikipedia.org/wiki/Lady_tasting_tea)
-* [2024-08-30, 19:25:07](https://news.ycombinator.com/item?id=41403719) - [How to sort your library in exactly 51,271 steps](https://david.kolo.ski/blog/sort-library-steps-mtg/)
 * [2024-08-30, 18:44:50](https://news.ycombinator.com/item?id=41403431) - [The long road to ropeless fishing](https://hakaimagazine.com/news/the-long-road-to-ropeless-fishing/)
 * [2024-08-30, 16:01:04](https://news.ycombinator.com/item?id=41401941) - [A primer on why microbiome research is hard](https://www.owlposting.com/p/a-primer-on-why-microbiome-research)
 * [2024-08-30, 15:29:46](https://news.ycombinator.com/item?id=41401664) - [The vagus nerve orchestrates the mind-body connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
 * [2024-08-30, 08:00:25](https://news.ycombinator.com/item?id=41398629) - [Build Your Own Z80 Computer: Design Guidelines and Application (1981)](https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia)
 * [2024-08-30, 05:20:18](https://news.ycombinator.com/item?id=41397916) - [The Production and Reproduction of Sound by Light (1880)](https://ajsonline.org/article/64037)
 * [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
-* [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
+* [2024-08-29, 08:57:15](https://news.ycombinator.com/item?id=41388750) - [Escaping from Anaconda's Stranglehold on macOS](https://paulromer.net/escaping-from-anaconda/)
 * [2024-08-28, 15:37:24](https://news.ycombinator.com/item?id=41380686) - [Hypothyroidism: The anonymous Olmec artisan and Velázquez (2017)](https://hekint.org/2017/01/25/the-anonymous-olmec-artisan-and-velazquez/)
 
 ## [Archives](archives/index.md)

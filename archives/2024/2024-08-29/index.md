@@ -66,6 +66,7 @@
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
 * [2024-08-29, 09:06:17](https://news.ycombinator.com/item?id=41388807) - [Superhuman Built an Engine to Find Product Market Fit (2018)](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 * [2024-08-29, 09:05:47](https://news.ycombinator.com/item?id=41388805) - [I spent an evening on a fictitious web](https://paul.kinlan.me/fictitious-web/)
+* [2024-08-29, 08:57:15](https://news.ycombinator.com/item?id=41388750) - [Escaping from Anaconda's Stranglehold on macOS](https://paulromer.net/escaping-from-anaconda/)
 * [2024-08-29, 08:25:13](https://news.ycombinator.com/item?id=41388557) - [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)
 * [2024-08-29, 07:42:45](https://news.ycombinator.com/item?id=41388335) - [Show HN: LLM-Term – Simple Rust-based CLI assist tool](https://github.com/dh1011/llm-term)
 * [2024-08-29, 07:41:36](https://news.ycombinator.com/item?id=41388326) - [Computer Scientists Prove That Heat Destroys Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
