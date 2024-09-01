@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 00:38:33",
+      "https://news.ycombinator.com/item?id=41413174"
+    ],
+    [
+      "AirTags key to discovery of Houston's plastic recycling deception",
+      "https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 22:40:00",
       "https://news.ycombinator.com/item?id=41412582"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2024-08-31, 20:49:53",
-      "https://news.ycombinator.com/item?id=41411839"
-    ],
-    [
-      "Safety First",
-      "https://surfingcomplexity.blog/2024/08/31/safety-first/"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 20:25:40",
       "https://news.ycombinator.com/item?id=41411694"
     ],
@@ -107,16 +107,6 @@
     [
       "Client-side QR code generator with SVG output",
       "https://fietkau.software/qr"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 17:30:08",
-      "https://news.ycombinator.com/item?id=41410375"
-    ],
-    [
-      "Neo – Futuristic Matrix Messenger",
-      "https://mszpro.com/nil/"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-08-30, 22:53:00",
+      "https://news.ycombinator.com/item?id=41405243"
+    ],
+    [
+      "Bresenham's Circle Drawing Algorithm (2021)",
+      "https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 20:58:17",
       "https://news.ycombinator.com/item?id=41404360"
     ],
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2024-08-30, 14:20:11",
-      "https://news.ycombinator.com/item?id=41401004"
+      "2024-08-30, 10:23:19",
+      "https://news.ycombinator.com/item?id=41399369"
     ],
     [
-      "Repainting our app mid-flight",
-      "https://www.reviewable.io/blog/repainting-our-app-mid-flight/"
+      "LLMs struggle to explain themselves",
+      "https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 18:56:20",
+      "https://news.ycombinator.com/item?id=41382931"
+    ],
+    [
+      "Solving the labyrinth puzzle from the university quest using Python",
+      "https://wondrousnet.blogspot.com/2024/03/solution-to-puzzle-cat-walk.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Compilation of JavaScript to WASM, Part 2: Ahead-of-Time vs. JIT",
       "https://cfallin.org/blog/2024/08/27/aot-js/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 14:35:31",
-      "https://news.ycombinator.com/item?id=41368004"
-    ],
-    [
-      "ARM or x86? ISA Doesn't Matter",
-      "https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/"
     ]
   ],
   [
