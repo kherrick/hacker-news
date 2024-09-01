@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 20:42:02](https://news.ycombinator.com/item?id=41420217) - [Why COBOL Isn't the Problem](https://lucid.co/techblog/2020/11/13/why-cobol-isnt-the-problem)
 * [2024-09-01, 20:31:10](https://news.ycombinator.com/item?id=41420112) - ['Mindblowing' fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
 * [2024-09-01, 19:32:53](https://news.ycombinator.com/item?id=41419645) - [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
 * [2024-09-01, 18:59:18](https://news.ycombinator.com/item?id=41419354) - [Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime](https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/)
@@ -19,7 +20,6 @@
 * [2024-09-01, 08:30:45](https://news.ycombinator.com/item?id=41415238) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-09-01, 07:50:35](https://news.ycombinator.com/item?id=41415077) - [Godot on iPad, Toolbars, Importers, Embedding, Debugger](https://blog.la-terminal.net/godot-on-ipad-summer-update/)
 * [2024-09-01, 07:35:23](https://news.ycombinator.com/item?id=41415023) - [Founder Mode](https://paulgraham.com/foundermode.html)
-* [2024-09-01, 02:14:19](https://news.ycombinator.com/item?id=41413662) - [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 * [2024-08-31, 21:45:59](https://news.ycombinator.com/item?id=41412256) - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 * [2024-08-30, 23:26:37](https://news.ycombinator.com/item?id=41405424) - [The World Map of the Internet in 2021](https://trendland.com/the-world-map-of-the-internet-in-2021/)
 * [2024-08-30, 21:00:04](https://news.ycombinator.com/item?id=41404383) - [Lady tasting tea](https://en.wikipedia.org/wiki/Lady_tasting_tea)
