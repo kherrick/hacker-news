@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
+* [2024-09-01, 10:03:55](https://news.ycombinator.com/item?id=41415619) - [Ask HN: How To: Internal Documentation?](https://news.ycombinator.com/item?id=41415619)
 * [2024-09-01, 09:32:57](https://news.ycombinator.com/item?id=41415498) - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
 * [2024-09-01, 09:01:52](https://news.ycombinator.com/item?id=41415363) - [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
 * [2024-09-01, 08:30:45](https://news.ycombinator.com/item?id=41415238) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
@@ -17,7 +19,6 @@
 * [2024-08-31, 17:42:14](https://news.ycombinator.com/item?id=41410442) - [Client-side QR code generator with SVG output](https://fietkau.software/qr)
 * [2024-08-31, 16:21:27](https://news.ycombinator.com/item?id=41409882) - [Did your car witness a crime?](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 * [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need (2022) [video]](http://tom7.org/harder/)
-* [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
 * [2024-08-31, 13:28:25](https://news.ycombinator.com/item?id=41408738) - [Brazil's X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
 * [2024-08-31, 11:19:08](https://news.ycombinator.com/item?id=41407993) - [Show HN: Typeform alternative, turns Markdown to forms](https://blocks.md)
 * [2024-08-31, 07:46:35](https://news.ycombinator.com/item?id=41407195) - [Making an atomic trampoline [video]](https://www.youtube.com/watch?v=jLX1-tNnvEo)
@@ -27,7 +28,6 @@
 * [2024-08-30, 08:00:25](https://news.ycombinator.com/item?id=41398629) - [Build Your Own Z80 Computer: Design Guidelines and Application](https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia)
 * [2024-08-30, 04:01:33](https://news.ycombinator.com/item?id=41397625) - [The Null Pointer](https://0x0.st/)
 * [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
-* [2024-08-28, 18:56:20](https://news.ycombinator.com/item?id=41382931) - [Solution to the puzzle Cat Walk](https://wondrousnet.blogspot.com/2024/03/solution-to-puzzle-cat-walk.html)
 * [2024-08-28, 17:32:08](https://news.ycombinator.com/item?id=41381920) - [Neutral beam microscopy using magnetic beam spin encoding](https://www.nature.com/articles/s41467-024-51175-2)
 * [2024-08-28, 14:12:03](https://news.ycombinator.com/item?id=41379751) - [The Atari 7800](https://www.goto10retro.com/p/inside-the-atari-7800)
 
