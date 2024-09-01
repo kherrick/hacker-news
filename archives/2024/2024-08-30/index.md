@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 23:26:37](https://news.ycombinator.com/item?id=41405424) - [The World Map of the Internet in 2021](https://trendland.com/the-world-map-of-the-internet-in-2021/)
 * [2024-08-30, 23:17:38](https://news.ycombinator.com/item?id=41405364) - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
 * [2024-08-30, 22:53:00](https://news.ycombinator.com/item?id=41405243) - [Bresenham's Circle Drawing Algorithm (2021)](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)
 * [2024-08-30, 22:46:59](https://news.ycombinator.com/item?id=41405195) - [Crows Are Even Smarter Than We Thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
@@ -16,6 +17,7 @@
 * [2024-08-30, 21:17:53](https://news.ycombinator.com/item?id=41404554) - [Architectural Effects on Maximum Dependency Lengths of Recurrent Neural Networks](https://arxiv.org/abs/2408.11946)
 * [2024-08-30, 21:15:57](https://news.ycombinator.com/item?id=41404530) - [UC Berkeley will delete all alumni email accounts with >5GB stored](https://twitter.com/jachiam0/status/1829546662735560735)
 * [2024-08-30, 21:00:42](https://news.ycombinator.com/item?id=41404388) - [Icon (real creators, AI ads) is hiring software engineers (NYC)](https://icon.me/careers)
+* [2024-08-30, 21:00:04](https://news.ycombinator.com/item?id=41404383) - [Lady tasting tea](https://en.wikipedia.org/wiki/Lady_tasting_tea)
 * [2024-08-30, 20:58:17](https://news.ycombinator.com/item?id=41404360) - [Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)](https://github.com/velorek1/C-edit)
 * [2024-08-30, 20:35:28](https://news.ycombinator.com/item?id=41404187) - [Brazilian court orders suspension of X](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
 * [2024-08-30, 20:25:14](https://news.ycombinator.com/item?id=41404117) - [Three Critical Questions to Turn the Table During Technical Interviews](https://bellmar.medium.com/three-critical-questions-to-turn-the-table-during-technical-interviews-dd1594c278b8)
@@ -25,6 +27,7 @@
 * [2024-08-30, 19:56:28](https://news.ycombinator.com/item?id=41403919) - [Blood puddles, mold, tainted meat, bugs: Boar's Head inspections are horrifying](https://arstechnica.com/science/2024/08/blood-puddles-mold-tainted-meat-bugs-boars-head-inspections-are-horrifying/)
 * [2024-08-30, 19:25:07](https://news.ycombinator.com/item?id=41403719) - [How to sort your library in exactly 51,271 steps](https://david.kolo.ski/blog/sort-library-steps-mtg/)
 * [2024-08-30, 18:49:47](https://news.ycombinator.com/item?id=41403466) - [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
+* [2024-08-30, 18:44:50](https://news.ycombinator.com/item?id=41403431) - [The long road to ropeless fishing](https://hakaimagazine.com/news/the-long-road-to-ropeless-fishing/)
 * [2024-08-30, 18:42:30](https://news.ycombinator.com/item?id=41403414) - [Japan was the future but it's stuck in the past](https://www.bbc.com/news/world-asia-63830490)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 17:31:30](https://news.ycombinator.com/item?id=41402832) - [Motion (YC W20) Is Hiring TypeScript Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -71,6 +74,7 @@
 * [2024-08-30, 07:32:50](https://news.ycombinator.com/item?id=41398502) - [Deconstructing the Garbage-First Collector [pdf]](https://www.steveblackburn.org/pubs/papers/g1-vee-2020.pdf)
 * [2024-08-30, 07:06:34](https://news.ycombinator.com/item?id=41398351) - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
 * [2024-08-30, 05:20:18](https://news.ycombinator.com/item?id=41397916) - [The Production and Reproduction of Sound by Light (1880)](https://ajsonline.org/article/64037)
+* [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
 * [2024-08-30, 05:07:15](https://news.ycombinator.com/item?id=41397873) - [Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
 * [2024-08-30, 04:59:58](https://news.ycombinator.com/item?id=41397847) - [Tabbed out on the Oregon Trail](https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail)
 * [2024-08-30, 04:15:54](https://news.ycombinator.com/item?id=41397679) - [Rust's Ugly Syntax (2023)](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
