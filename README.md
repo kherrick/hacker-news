@@ -28,8 +28,8 @@
 * [2024-08-28, 21:14:52](https://news.ycombinator.com/item?id=41384456) - [MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
 * [2024-08-28, 18:56:20](https://news.ycombinator.com/item?id=41382931) - [Solving the labyrinth puzzle from the university quest using Python](https://wondrousnet.blogspot.com/2024/03/solution-to-puzzle-cat-walk.html)
 * [2024-08-28, 17:32:08](https://news.ycombinator.com/item?id=41381920) - [Neutral beam microscopy using magnetic beam spin encoding](https://www.nature.com/articles/s41467-024-51175-2)
-* [2024-08-28, 14:26:50](https://news.ycombinator.com/item?id=41379902) - [There is only one amphibian emoji](https://wonger.dev/posts/emoji-animals)
 * [2024-08-28, 14:12:03](https://news.ycombinator.com/item?id=41379751) - [The Atari 7800](https://www.goto10retro.com/p/inside-the-atari-7800)
+* [2024-08-28, 11:19:07](https://news.ycombinator.com/item?id=41378287) - [Designing a Timeline for Mobile Video Editing](https://img.ly/blog/designing-a-timeline-for-mobile-video-editing/)
 
 ## [Archives](archives/index.md)
 
