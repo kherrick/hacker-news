@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-01, 02:18:48](https://news.ycombinator.com/item?id=41413687) - [Oprah will screw up the AI story](https://www.anildash.com//2024/08/31/oprah-wrong-ai/)
 * [2024-09-01, 02:14:19](https://news.ycombinator.com/item?id=41413662) - [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 * [2024-09-01, 02:07:34](https://news.ycombinator.com/item?id=41413641) - [Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
 * [2024-09-01, 00:38:33](https://news.ycombinator.com/item?id=41413174) - [AirTags key to discovery of Houston's plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception)
@@ -14,6 +13,7 @@
 * [2024-08-31, 17:42:14](https://news.ycombinator.com/item?id=41410442) - [Client-side QR code generator with SVG output](https://fietkau.software/qr)
 * [2024-08-31, 16:23:13](https://news.ycombinator.com/item?id=41409891) - [My fake job in Y2K preparedness](https://www.nplusonemag.com/issue-48/essays/the-contingency-contingent/)
 * [2024-08-31, 16:21:27](https://news.ycombinator.com/item?id=41409882) - [Did your car witness a crime?](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
+* [2024-08-31, 16:03:00](https://news.ycombinator.com/item?id=41409776) - [Seeing America by train](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
 * [2024-08-31, 15:21:30](https://news.ycombinator.com/item?id=41409503) - [Harder Drive: hard drives we didn't want, or need [video] (2022)](http://tom7.org/harder/)
 * [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
 * [2024-08-31, 13:35:05](https://news.ycombinator.com/item?id=41408772) - [Buy, Borrow, Die – Explained](https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/)
