@@ -92,6 +92,7 @@
 * [2024-08-28, 10:28:28](https://news.ycombinator.com/item?id=41378002) - [Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)
 * [2024-08-28, 10:22:52](https://news.ycombinator.com/item?id=41377960) - [Show HN: IPA, a GUI for exploring inner details of PDF (Rust)](https://github.com/seekbytes/IPA)
 * [2024-08-28, 10:09:04](https://news.ycombinator.com/item?id=41377870) - [Namibia to cull 83 elephants and distribute meat to people affected by drought](https://www.reuters.com/world/africa/namibia-cull-83-elephants-distribute-meat-people-affected-by-drought-2024-08-27/)
+* [2024-08-28, 10:07:16](https://news.ycombinator.com/item?id=41377863) - [A better HTML input experience (custom elements and the AOM) (2017)](https://robdodson.me/posts/the-future-of-accessibility-for-custom-elements/)
 * [2024-08-28, 09:50:18](https://news.ycombinator.com/item?id=41377771) - [Wired Love: A Romance of Dots and Dashes (1880)](https://www.gutenberg.org/ebooks/24353)
 * [2024-08-28, 09:09:13](https://news.ycombinator.com/item?id=41377540) - [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
 * [2024-08-28, 08:34:57](https://news.ycombinator.com/item?id=41377331) - [Wp2hugo: Best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
