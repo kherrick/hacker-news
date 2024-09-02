@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 02:12:04](https://news.ycombinator.com/item?id=41422060) - [Procreate defies AI trend, pledges \"no generative AI\" in its illustration app](https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/)
 * [2024-09-02, 01:04:16](https://news.ycombinator.com/item?id=41421650) - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
 * [2024-09-02, 00:57:54](https://news.ycombinator.com/item?id=41421627) - [Meta data center electricity consumption hits 14,975GWh](https://www.datacenterdynamics.com/en/news/meta-data-center-electricity-consumption-hits-14975gwh-leased-data-center-use-nearly-doubles/)
 * [2024-09-02, 00:49:06](https://news.ycombinator.com/item?id=41421591) - [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
