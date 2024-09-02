@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 07:00:49](https://news.ycombinator.com/item?id=41423227) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 * [2024-09-02, 05:29:30](https://news.ycombinator.com/item?id=41422849) - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
+* [2024-09-02, 05:16:13](https://news.ycombinator.com/item?id=41422796) - [Cosy Computing](https://www.datagubbe.se/cosy/)
 * [2024-09-02, 04:23:36](https://news.ycombinator.com/item?id=41422559) - [We can now watch Grace Hopper's famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
 * [2024-09-02, 04:04:00](https://news.ycombinator.com/item?id=41422475) - [Texas Is Arming Mexico's Gunmen](https://www.texasobserver.org/texas-mexico-guns-border-crime/)
 * [2024-09-02, 03:37:22](https://news.ycombinator.com/item?id=41422387) - [Authenticated Boot and Disk Encryption on Linux](https://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)

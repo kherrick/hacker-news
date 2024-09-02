@@ -46,6 +46,7 @@
 * [2024-09-01, 10:54:42](https://news.ycombinator.com/item?id=41415841) - [Interactive Linear Algebra Dan Margalit, Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/index.html)
 * [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 * [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
+* [2024-09-01, 10:10:43](https://news.ycombinator.com/item?id=41415650) - [Beyond the Brew: The Medicinal Power of Hops](https://worldsensorium.com/beyond-the-brew-the-medicinal-power-of-hops/)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
 * [2024-09-01, 10:08:17](https://news.ycombinator.com/item?id=41415642) - [Distroless: Language focused Docker images, minus the operating system](https://github.com/GoogleContainerTools/distroless)
 * [2024-09-01, 10:07:43](https://news.ycombinator.com/item?id=41415634) - [Timeseries Indexing at Scale](https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/)
