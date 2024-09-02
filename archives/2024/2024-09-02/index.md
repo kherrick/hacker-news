@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 09:46:20](https://news.ycombinator.com/item?id=41424016) - [In Leak, Facebook Partner Brags About Listening to Your Phone's Microphone to S](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
+* [2024-09-02, 09:14:41](https://news.ycombinator.com/item?id=41423850) - [Unlock Articles with Paywallskip](https://www.paywallskip.com/)
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 08:08:25](https://news.ycombinator.com/item?id=41423518) - [Starlink Defies Order to Block X in Brazil](https://www.nytimes.com/2024/09/01/world/americas/elon-musk-brazil-starlink-x.html)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)

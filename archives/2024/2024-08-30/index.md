@@ -58,6 +58,7 @@
 * [2024-08-30, 13:25:55](https://news.ycombinator.com/item?id=41400504) - [120 Years of New York's Subterranean Literary Muse](https://www.nytimes.com/interactive/2024/08/29/books/new-york-subways-history-literature.html)
 * [2024-08-30, 13:25:48](https://news.ycombinator.com/item?id=41400500) - [Behind AWS S3's Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
 * [2024-08-30, 13:23:18](https://news.ycombinator.com/item?id=41400475) - [Epilepsy Protection for VRChat](https://github.com/LesseVR/EpilepsyProtection)
+* [2024-08-30, 13:13:25](https://news.ycombinator.com/item?id=41400380) - [The Mouse Programming Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/)
 * [2024-08-30, 13:08:02](https://news.ycombinator.com/item?id=41400327) - [The Far-Reaching Ripple Effects of a Discredited Cancer Study](https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842)
 * [2024-08-30, 12:48:33](https://news.ycombinator.com/item?id=41400162) - [When EV startups shut down, will their cars still work?](https://www.osnews.com/story/140619/when-ev-startups-shut-down-will-their-cars-still-work/)
 * [2024-08-30, 12:46:54](https://news.ycombinator.com/item?id=41400152) - [Understanding the Postgres Hackers Mailing List](https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list)
