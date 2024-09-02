@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
-* [2024-09-02, 08:08:25](https://news.ycombinator.com/item?id=41423518) - [Starlink Defies Order to Block X in Brazil](https://www.nytimes.com/2024/09/01/world/americas/elon-musk-brazil-starlink-x.html)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-02, 07:01:34](https://news.ycombinator.com/item?id=41423231) - [Numbers Go Up](https://lethain.com/numbers-go-up/)
 * [2024-09-02, 07:00:49](https://news.ycombinator.com/item?id=41423227) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
@@ -21,6 +20,7 @@
 * [2024-09-01, 15:17:07](https://news.ycombinator.com/item?id=41417659) - [Ask HN: How to store and share passwords in a company?](https://news.ycombinator.com/item?id=41417659)
 * [2024-09-01, 14:30:52](https://news.ycombinator.com/item?id=41417263) - [Show HN: Bin-graph: Visualize binary files](https://github.com/8dcc/bin-graph)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
+* [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
 * [2024-09-01, 10:10:43](https://news.ycombinator.com/item?id=41415650) - [Beyond the Brew: The Medicinal Power of Hops](https://worldsensorium.com/beyond-the-brew-the-medicinal-power-of-hops/)
 * [2024-09-01, 10:07:43](https://news.ycombinator.com/item?id=41415634) - [Timeseries Indexing at Scale](https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/)
