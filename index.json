@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-09-02, 13:27:04",
-      "https://news.ycombinator.com/item?id=41425223"
+      "2024-09-02, 13:33:09",
+      "https://news.ycombinator.com/item?id=41425259"
     ],
     [
-      "How many attempts (businesses) did you make until you reach $5000/month profit?",
-      "https://news.ycombinator.com/item?id=41425223"
+      "DOjS – A DOS JavaScript Canvas with Sound",
+      "https://github.com/SuperIlu/DOjS"
     ]
   ],
   [
     [
-      "2024-09-02, 13:19:29",
-      "https://news.ycombinator.com/item?id=41425173"
+      "2024-09-02, 13:06:02",
+      "https://news.ycombinator.com/item?id=41425085"
     ],
     [
-      "We must break tech monopolies before they break us",
-      "https://thenextweb.com/news/break-tech-monopolies-before-break-us"
+      "Full Text, Full Archive RSS Feeds for Any Blog",
+      "https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 12:59:47",
+      "https://news.ycombinator.com/item?id=41425028"
+    ],
+    [
+      "Brazil to Fine Anyone Using a VPN to Access X $8,874 per Day; Elon Musk Responds",
+      "https://www.complex.com/pop-culture/a/treyalston/brazil-x-elon-musk-fine"
     ]
   ],
   [
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2024-09-02, 11:56:30",
-      "https://news.ycombinator.com/item?id=41424697"
-    ],
-    [
-      "OFNL Suffer Major National UK Full Fibre Broadband Outage",
-      "https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 11:08:22",
       "https://news.ycombinator.com/item?id=41424371"
     ],
     [
       "Show HN: Defrag the Game",
       "https://defrag-game.com"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 09:25:14",
-      "https://news.ycombinator.com/item?id=41423900"
-    ],
-    [
-      "Nvd.nist.gov cert expired yesterday and uses HSTS",
-      "https://nvd.nist.gov/"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2024-09-01, 10:10:51",
+      "https://news.ycombinator.com/item?id=41415651"
+    ],
+    [
+      "Postgres Webhooks with Pgstream",
+      "https://xata.io/blog/postgres-webhooks-with-pgstream"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 10:10:43",
       "https://news.ycombinator.com/item?id=41415650"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2024-08-31, 21:45:59",
+      "https://news.ycombinator.com/item?id=41412256"
+    ],
+    [
+      "Building LLMs from the Ground Up: A 3-Hour Coding Workshop",
+      "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 15:29:46",
       "https://news.ycombinator.com/item?id=41401664"
     ],
     [
       "The vagus nerve orchestrates the mind-body connection",
       "https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 14:38:23",
-      "https://news.ycombinator.com/item?id=41401190"
-    ],
-    [
-      "The web fun fact that domains can end in dots and canonicalization failures",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/DomainDotsAndCanonicalization"
     ]
   ],
   [
