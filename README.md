@@ -4,7 +4,7 @@
 * [2024-09-02, 05:29:30](https://news.ycombinator.com/item?id=41422849) - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
 * [2024-09-02, 05:16:13](https://news.ycombinator.com/item?id=41422796) - [Cosy Computing](https://www.datagubbe.se/cosy/)
 * [2024-09-02, 04:23:36](https://news.ycombinator.com/item?id=41422559) - [We can now watch Grace Hopper's famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
-* [2024-09-02, 03:37:22](https://news.ycombinator.com/item?id=41422387) - [Authenticated Boot and Disk Encryption on Linux](https://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
+* [2024-09-02, 03:37:22](https://news.ycombinator.com/item?id=41422387) - [Authenticated Boot and Disk Encryption on Linux (2021)](https://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
 * [2024-09-02, 03:34:25](https://news.ycombinator.com/item?id=41422378) - ['Amazing' Viking-age treasure travelled half the world to Scotland](https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds)
 * [2024-09-02, 03:13:08](https://news.ycombinator.com/item?id=41422311) - [1M Users](https://blog.spacehey.com/entry?id=1245177)
 * [2024-09-02, 03:04:36](https://news.ycombinator.com/item?id=41422283) - [Parsing Awk Is Tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
