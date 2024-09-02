@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 05:29:30](https://news.ycombinator.com/item?id=41422849) - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
 * [2024-09-02, 04:23:36](https://news.ycombinator.com/item?id=41422559) - [We can now watch Grace Hopper's famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
 * [2024-09-02, 04:04:00](https://news.ycombinator.com/item?id=41422475) - [Texas Is Arming Mexico's Gunmen](https://www.texasobserver.org/texas-mexico-guns-border-crime/)
 * [2024-09-02, 03:34:25](https://news.ycombinator.com/item?id=41422378) - ['Amazing' Viking-age treasure travelled half the world to Scotland](https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds)
