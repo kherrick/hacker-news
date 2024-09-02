@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-02, 04:04:00](https://news.ycombinator.com/item?id=41422475) - [Texas Is Arming Mexico's Gunmen](https://www.texasobserver.org/texas-mexico-guns-border-crime/)
 * [2024-09-02, 03:34:25](https://news.ycombinator.com/item?id=41422378) - ['Amazing' Viking-age treasure travelled half the world to Scotland](https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds)
 * [2024-09-02, 03:13:08](https://news.ycombinator.com/item?id=41422311) - [1M Users](https://blog.spacehey.com/entry?id=1245177)
 * [2024-09-02, 03:04:36](https://news.ycombinator.com/item?id=41422283) - [Parsing Awk Is Tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
@@ -20,6 +19,7 @@
 * [2024-09-01, 14:58:18](https://news.ycombinator.com/item?id=41417482) - [In This Beautiful Library, Bats Guard the Books](https://www.atlasobscura.com/articles/library-bats-coimbra-wild-life-excerpt)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
+* [2024-09-01, 10:54:42](https://news.ycombinator.com/item?id=41415841) - [Interactive Linear Algebra Dan Margalit, Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/index.html)
 * [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
 * [2024-09-01, 10:07:43](https://news.ycombinator.com/item?id=41415634) - [Timeseries Indexing at Scale](https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/)
 * [2024-09-01, 08:42:35](https://news.ycombinator.com/item?id=41415286) - [Random Values in Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
