@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 14:59:11](https://news.ycombinator.com/item?id=41425893) - [Boeing's Starliner started making a repeating 'pulsing' sound yesterday](https://www.theverge.com/2024/9/1/24233669/boeing-starliner-strange-noise-nasa-iss-sonar-ping)
+* [2024-09-02, 14:50:47](https://news.ycombinator.com/item?id=41425808) - [Revolution: Google Password Manager Syncs Passkeys to Apple and Windows Devices](https://www.corbado.com/blog/google-passkeys-sync-windows-macos)
+* [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
+* [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences – even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
+* [2024-09-02, 14:11:59](https://news.ycombinator.com/item?id=41425525) - [Ask HN: Why does Microsoft prohibit employee personal open source projects?](https://news.ycombinator.com/item?id=41425525)
 * [2024-09-02, 13:59:20](https://news.ycombinator.com/item?id=41425438) - [A 30-hour workweek in America? It nearly became law](https://www.washingtonpost.com/history/2024/09/02/30-hour-workweek-fdr-labor-day/)
 * [2024-09-02, 13:51:37](https://news.ycombinator.com/item?id=41425383) - [They don't make 'em like that any more: the 3.5mm headphone jack socket](https://kevinboone.me/headphonejack.html)
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
