@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-02, 21:30:12",
+      "https://news.ycombinator.com/item?id=41428952"
+    ],
+    [
+      "I hate Stripe, so I'm going to build my own payment processor",
+      "https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 21:19:22",
       "https://news.ycombinator.com/item?id=41428905"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2024-09-02, 19:50:53",
+      "https://news.ycombinator.com/item?id=41428274"
+    ],
+    [
+      "Web scraping with GPT-4o: powerful but expensive",
+      "https://blancas.io/blog/ai-web-scraper/"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 19:39:42",
       "https://news.ycombinator.com/item?id=41428206"
     ],
@@ -87,16 +107,6 @@
     [
       "Show HN: A modern way to type in African languages",
       "https://github.com/pythonbrad/afrim"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 17:30:07",
-      "https://news.ycombinator.com/item?id=41427247"
-    ],
-    [
-      "Show HN: A YouTube videos course generator",
-      "https://coursely.ai"
     ]
   ],
   [
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2024-09-02, 16:49:50",
-      "https://news.ycombinator.com/item?id=41426926"
+      "2024-09-02, 16:23:19",
+      "https://news.ycombinator.com/item?id=41426714"
     ],
     [
-      "America's Oldest Board Game Teaches 19th-Century Geography",
-      "https://mymodernmet.com/americas-oldest-board-game/"
+      "In the beginning, there was computation",
+      "https://nautil.us/in-the-beginning-there-was-computation-787023/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-09-02, 14:35:12",
-      "https://news.ycombinator.com/item?id=41425675"
-    ],
-    [
-      "Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF",
-      "https://github.com/jboirazian/LuneForge"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 14:30:01",
       "https://news.ycombinator.com/item?id=41425646"
     ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=41425563"
     ],
     [
-      "Sleep on it: How the brain processes many experiences – even when 'offline'",
+      "Sleep on it: How the brain processes many experiences, even when 'offline'",
       "https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline"
     ]
   ],
