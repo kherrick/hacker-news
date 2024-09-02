@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 19:55:49](https://news.ycombinator.com/item?id=41428300) - [Tech firms were fighting a war for talent. Now they are waging war on talent](http://www.rosspettit.com/2024/08/for-years-tech-was-fighting-war-for.html)
+* [2024-09-02, 19:48:32](https://news.ycombinator.com/item?id=41428261) - [CrowdStrike faces onslaught of legal action from faulty software update](https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/)
 * [2024-09-02, 18:22:00](https://news.ycombinator.com/item?id=41427648) - [Ketogenic Diet Shows Promise Treating Serious Mental Illness in Stanford Study](https://www.metabolicmind.org/news/ketogenic-diet-shows-promise-in-treating-serious-mental-illness-in-stanford-medicine-study)
 * [2024-09-02, 18:10:20](https://news.ycombinator.com/item?id=41427563) - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
 * [2024-09-02, 17:41:27](https://news.ycombinator.com/item?id=41427342) - [Transport for London Cyber security incident](https://tfl.gov.uk/campaign/cyber-security-incident)
