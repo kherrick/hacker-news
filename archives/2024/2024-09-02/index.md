@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
 * [2024-09-02, 22:19:28](https://news.ycombinator.com/item?id=41429245) - [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
+* [2024-09-02, 21:57:58](https://news.ycombinator.com/item?id=41429116) - [Company Says It Uses Your Phones Mic to Serve Ads for Facebook, Google, etc.](https://news.itsfoss.com/ad-company-listening-to-microphone/)
 * [2024-09-02, 21:30:12](https://news.ycombinator.com/item?id=41428952) - [I hate Stripe, so I'm going to build my own payment processor](https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/)
 * [2024-09-02, 21:19:22](https://news.ycombinator.com/item?id=41428905) - [Chase Bank glitch releases thousands in cash over Labor Day weekend](https://www.forbes.com/sites/robkniaz/2024/09/02/social-media-charged-fraud-waves-a-new-era-of-financial-vulnerability/)
 * [2024-09-02, 21:07:33](https://news.ycombinator.com/item?id=41428834) - [Heartbroken by the Sonos App Disaster and What's Happened to the Company](https://old.reddit.com/r/sonos/comments/1f79vk6/former_sonos_engineer_here_heartbroken_by_the_app/)
@@ -57,6 +58,7 @@
 * [2024-09-02, 13:07:26](https://news.ycombinator.com/item?id=41425093) - [How CrowdStrike Stopped Everything](https://cacm.acm.org/news/how-crowdstrike-stopped-everything/)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 12:59:47](https://news.ycombinator.com/item?id=41425028) - [Brazil to Fine Anyone Using a VPN to Access X $8,874 per Day; Elon Musk Responds](https://www.complex.com/pop-culture/a/treyalston/brazil-x-elon-musk-fine)
+* [2024-09-02, 12:33:51](https://news.ycombinator.com/item?id=41424898) - [Does anyone integrate with their customers' DB directly?](https://news.ycombinator.com/item?id=41424898)
 * [2024-09-02, 12:17:14](https://news.ycombinator.com/item?id=41424818) - [Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
 * [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
 * [2024-09-02, 11:56:30](https://news.ycombinator.com/item?id=41424697) - [OFNL Suffer Major National UK Full Fibre Broadband Outage](https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html)
