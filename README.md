@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-02, 17:41:27](https://news.ycombinator.com/item?id=41427342) - [Transport for London Cyber security incident](https://tfl.gov.uk/campaign/cyber-security-incident)
 * [2024-09-02, 17:02:00](https://news.ycombinator.com/item?id=41427027) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
 * [2024-09-02, 16:58:40](https://news.ycombinator.com/item?id=41426998) - [Launch HN: Fortress (YC S24) – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
 * [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
@@ -19,6 +18,7 @@
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-02, 03:13:08](https://news.ycombinator.com/item?id=41422311) - [1M Users](https://blog.spacehey.com/entry?id=1245177)
+* [2024-09-02, 03:04:36](https://news.ycombinator.com/item?id=41422283) - [Parsing Awk Is Tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
 * [2024-09-02, 02:25:19](https://news.ycombinator.com/item?id=41422126) - [Japan’s Temple-Builder Kongō Gumi, Has Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
 * [2024-09-02, 01:35:56](https://news.ycombinator.com/item?id=41421846) - [OrbStack: The fast, light, and easy way to run Docker containers and Linux](https://orbstack.dev/)
 * [2024-09-02, 01:04:16](https://news.ycombinator.com/item?id=41421650) - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
@@ -29,7 +29,7 @@
 * [2024-08-30, 14:09:38](https://news.ycombinator.com/item?id=41400899) - [Analysis of Greek prehistoric combat in full body armour](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301494)
 * [2024-08-30, 13:13:25](https://news.ycombinator.com/item?id=41400380) - [The Mouse Programming Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/)
 * [2024-08-30, 06:08:41](https://news.ycombinator.com/item?id=41398092) - [Programming Zero Knowledge Proofs: From Zero to Hero](https://zkintro.com/articles/programming-zkps-from-zero-to-hero)
-* [2024-08-29, 09:12:20](https://news.ycombinator.com/item?id=41388841) - [Lightweight, Beautiful 3D-Printed Camper Van Interiors](https://www.core77.com/posts/133448/Lightweight-Beautiful-3D-Printed-Camper-Van-Interiors)
+* [2024-08-28, 17:36:50](https://news.ycombinator.com/item?id=41381985) - [Escaping from Anaconda (Python)](https://paulromer.net/escaping-from-anaconda/)
 
 ## [Archives](archives/index.md)
 

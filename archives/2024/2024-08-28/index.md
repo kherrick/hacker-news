@@ -40,6 +40,7 @@
 * [2024-08-28, 18:05:29](https://news.ycombinator.com/item?id=41382335) - [Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
 * [2024-08-28, 18:05:14](https://news.ycombinator.com/item?id=41382330) - [Ask HN: Isn't all SaaS just wrappers?](https://news.ycombinator.com/item?id=41382330)
 * [2024-08-28, 17:37:44](https://news.ycombinator.com/item?id=41381994) - [UAE Freezes $20B Jet Deal with France After Telegram CEO Arrest](https://thedailyguardian.com/uae-freezes-20-billion-jet-deal-with-france-after-telegram-ceo-arrest/)
+* [2024-08-28, 17:36:50](https://news.ycombinator.com/item?id=41381985) - [Escaping from Anaconda (Python)](https://paulromer.net/escaping-from-anaconda/)
 * [2024-08-28, 17:32:08](https://news.ycombinator.com/item?id=41381920) - [Neutral beam microscopy using magnetic beam spin encoding](https://www.nature.com/articles/s41467-024-51175-2)
 * [2024-08-28, 17:25:15](https://news.ycombinator.com/item?id=41381827) - [Tumblr to move its half a billion blogs to WordPress](https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/)
 * [2024-08-28, 17:24:27](https://news.ycombinator.com/item?id=41381816) - [Man Is First to Be Charged in New York with Wearing a Mask in Public](https://www.nytimes.com/2024/08/27/nyregion/face-mask-ban-charges-nyc.html)
