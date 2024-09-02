@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-02, 22:56:32](https://news.ycombinator.com/item?id=41429469) - [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/)
 * [2024-09-02, 22:19:28](https://news.ycombinator.com/item?id=41429245) - [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
 * [2024-09-02, 21:57:58](https://news.ycombinator.com/item?id=41429116) - [Company Says It Uses Your Phones Mic to Serve Ads for Facebook, Google, etc.](https://news.itsfoss.com/ad-company-listening-to-microphone/)
 * [2024-09-02, 21:30:12](https://news.ycombinator.com/item?id=41428952) - [I hate Stripe, so I'm going to build my own payment processor](https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/)
@@ -26,7 +27,6 @@
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Show HN: Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 12:33:51](https://news.ycombinator.com/item?id=41424898) - [Does anyone integrate with their customers' DB directly?](https://news.ycombinator.com/item?id=41424898)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
-* [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-01, 12:13:52](https://news.ycombinator.com/item?id=41416327) - [5 Years of InfoSec Focused Homelabbing](https://www.archcloudlabs.com/projects/5-years-of-homelab/)
 * [2024-09-01, 08:40:54](https://news.ycombinator.com/item?id=41415280) - [Massachusetts Bodged Transistor Authority](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 22:56:32](https://news.ycombinator.com/item?id=41429469) - [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/)
 * [2024-09-02, 22:19:28](https://news.ycombinator.com/item?id=41429245) - [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
 * [2024-09-02, 21:57:58](https://news.ycombinator.com/item?id=41429116) - [Company Says It Uses Your Phones Mic to Serve Ads for Facebook, Google, etc.](https://news.itsfoss.com/ad-company-listening-to-microphone/)
 * [2024-09-02, 21:30:12](https://news.ycombinator.com/item?id=41428952) - [I hate Stripe, so I'm going to build my own payment processor](https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/)
