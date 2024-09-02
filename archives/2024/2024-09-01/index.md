@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 23:55:04](https://news.ycombinator.com/item?id=41421325) - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
 * [2024-09-01, 23:28:00](https://news.ycombinator.com/item?id=41421212) - [A Lot of 'Unskilled' Workers Aren't](https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term)
+* [2024-09-01, 21:57:15](https://news.ycombinator.com/item?id=41420744) - [Unix history and the `dc` calculator](https://howdytx.technology/unix-history-the-dc-calculator/)
 * [2024-09-01, 21:36:55](https://news.ycombinator.com/item?id=41420597) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 * [2024-09-01, 20:42:02](https://news.ycombinator.com/item?id=41420217) - [Why COBOL Isn't the Problem](https://lucid.co/techblog/2020/11/13/why-cobol-isnt-the-problem)
 * [2024-09-01, 20:31:10](https://news.ycombinator.com/item?id=41420112) - ['Mindblowing' fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
@@ -50,6 +52,7 @@
 * [2024-09-01, 09:32:57](https://news.ycombinator.com/item?id=41415498) - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
 * [2024-09-01, 09:26:22](https://news.ycombinator.com/item?id=41415468) - [Take a closer look at Starbucks CEO's contract, which covers his commute by jet](https://www.abc.net.au/news/2024-09-01/starbucks-ceo-brian-niccol-contract-explained/104270064)
 * [2024-09-01, 09:01:52](https://news.ycombinator.com/item?id=41415363) - [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
+* [2024-09-01, 08:42:35](https://news.ycombinator.com/item?id=41415286) - [Random Values in Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
 * [2024-09-01, 08:30:45](https://news.ycombinator.com/item?id=41415238) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-09-01, 08:09:03](https://news.ycombinator.com/item?id=41415144) - [E Ink faces growing competition in the \"paper-like\" display space](https://liliputing.com/e-ink-faces-growing-competition-in-the-paper-like-display-space/)
 * [2024-09-01, 07:50:35](https://news.ycombinator.com/item?id=41415077) - [Godot on iPad, Toolbars, Importers, Embedding, Debugger](https://blog.la-terminal.net/godot-on-ipad-summer-update/)

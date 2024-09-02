@@ -18,6 +18,7 @@
 * [2024-08-28, 20:38:49](https://news.ycombinator.com/item?id=41384085) - [Ask HN: Did the \"killer poke\" reduce Commodore PET sales?](https://news.ycombinator.com/item?id=41384085)
 * [2024-08-28, 20:35:50](https://news.ycombinator.com/item?id=41384053) - [Purism Domain Puri.sm Suspended?](https://whois.marcaria.com/en/result?SearchDomain=puri.sm)
 * [2024-08-28, 20:27:38](https://news.ycombinator.com/item?id=41383947) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
+* [2024-08-28, 20:27:04](https://news.ycombinator.com/item?id=41383937) - [Forensic toxicology backdates the use of coca plant in Europe to the early 1600s](https://www.sciencedirect.com/science/article/pii/S0305440324001080)
 * [2024-08-28, 20:25:15](https://news.ycombinator.com/item?id=41383914) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2025)
 * [2024-08-28, 20:20:04](https://news.ycombinator.com/item?id=41383843) - [What Is Post-Quantum Cryptography? – NIST](https://www.nist.gov/cybersecurity/what-post-quantum-cryptography)
 * [2024-08-28, 20:14:32](https://news.ycombinator.com/item?id=41383770) - [Meta is accused of \"bullying\" the open-source community](https://www.economist.com/business/2024/08/28/meta-is-accused-of-bullying-the-open-source-community)
