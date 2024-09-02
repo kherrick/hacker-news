@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-02, 20:18:21](https://news.ycombinator.com/item?id=41428478) - [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
+* [2024-09-02, 20:09:48](https://news.ycombinator.com/item?id=41428408) - [Brazil Court votes unanimously to uphold X ban. Users switch to Threads, Bluesky](https://www.euronews.com/next/2024/09/02/brazilian-court-to-vote-on-upholding-x-ban-as-users-switch-to-threads-and-bluesky)
 * [2024-09-02, 20:08:32](https://news.ycombinator.com/item?id=41428400) - [GPD Duo](https://gpd.hk/gpdduo)
 * [2024-09-02, 20:05:42](https://news.ycombinator.com/item?id=41428373) - [Mother's gut microbiome during pregnancy shapes baby's brain development](https://medicalxpress.com/news/2024-08-mother-gut-microbiome-pregnancy-baby.html)
 * [2024-09-02, 19:39:42](https://news.ycombinator.com/item?id=41428206) - [Big Tech Sees Like a State (2020)](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
@@ -13,7 +14,6 @@
 * [2024-09-02, 16:58:40](https://news.ycombinator.com/item?id=41426998) - [Launch HN: Fortress (YC S24) – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
 * [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 * [2024-09-02, 16:49:50](https://news.ycombinator.com/item?id=41426926) - [America's Oldest Board Game Teaches 19th-Century Geography](https://mymodernmet.com/americas-oldest-board-game/)
-* [2024-09-02, 16:09:32](https://news.ycombinator.com/item?id=41426607) - [Authors Take Sides on the Spanish War: A Dossier (2014)](https://open.bu.edu/handle/2144/15314)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 15:00:05](https://news.ycombinator.com/item?id=41425908) - [Ask HN: Who wants to be hired? (September 2024)](https://news.ycombinator.com/item?id=41425908)
 * [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
 * [2024-09-02, 20:18:21](https://news.ycombinator.com/item?id=41428478) - [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
+* [2024-09-02, 20:09:48](https://news.ycombinator.com/item?id=41428408) - [Brazil Court votes unanimously to uphold X ban. Users switch to Threads, Bluesky](https://www.euronews.com/next/2024/09/02/brazilian-court-to-vote-on-upholding-x-ban-as-users-switch-to-threads-and-bluesky)
 * [2024-09-02, 20:08:32](https://news.ycombinator.com/item?id=41428400) - [GPD Duo](https://gpd.hk/gpdduo)
 * [2024-09-02, 20:05:42](https://news.ycombinator.com/item?id=41428373) - [Mother's gut microbiome during pregnancy shapes baby's brain development](https://medicalxpress.com/news/2024-08-mother-gut-microbiome-pregnancy-baby.html)
 * [2024-09-02, 19:55:49](https://news.ycombinator.com/item?id=41428300) - [Tech firms were fighting a war for talent. Now they are waging war on talent](http://www.rosspettit.com/2024/08/for-years-tech-was-fighting-war-for.html)
