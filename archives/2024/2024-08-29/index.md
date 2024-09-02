@@ -65,6 +65,7 @@
 * [2024-08-29, 10:00:02](https://news.ycombinator.com/item?id=41389094) - [Is there any way HN can implement a 'paywall tag' to save wasted clicks?](https://news.ycombinator.com/item?id=41389094)
 * [2024-08-29, 09:44:11](https://news.ycombinator.com/item?id=41389000) - [Type 2 diabetes drug associated with 35% lower risk of dementia, study finds](https://www.theguardian.com/society/article/2024/aug/28/type-2-diabetes-drug-associated-with-35-lower-risk-of-dementia-study-finds)
 * [2024-08-29, 09:19:36](https://news.ycombinator.com/item?id=41388888) - [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
+* [2024-08-29, 09:12:20](https://news.ycombinator.com/item?id=41388841) - [Lightweight, Beautiful 3D-Printed Camper Van Interiors](https://www.core77.com/posts/133448/Lightweight-Beautiful-3D-Printed-Camper-Van-Interiors)
 * [2024-08-29, 09:06:17](https://news.ycombinator.com/item?id=41388807) - [Superhuman Built an Engine to Find Product Market Fit (2018)](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 * [2024-08-29, 09:05:47](https://news.ycombinator.com/item?id=41388805) - [I spent an evening on a fictitious web](https://paul.kinlan.me/fictitious-web/)
 * [2024-08-29, 08:57:15](https://news.ycombinator.com/item?id=41388750) - [Escaping from Anaconda's Stranglehold on macOS](https://paulromer.net/escaping-from-anaconda/)

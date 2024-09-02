@@ -5,6 +5,7 @@
 * [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 * [2024-09-02, 16:49:50](https://news.ycombinator.com/item?id=41426926) - [America's Oldest Board Game Teaches 19th-Century Geography](https://mymodernmet.com/americas-oldest-board-game/)
 * [2024-09-02, 16:23:19](https://news.ycombinator.com/item?id=41426714) - [In the Beginning, There Was Computation](https://nautil.us/in-the-beginning-there-was-computation-787023/)
+* [2024-09-02, 16:09:32](https://news.ycombinator.com/item?id=41426607) - [Authors Take Sides on the Spanish War: A Dossier (2014)](https://open.bu.edu/handle/2144/15314)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
 * [2024-09-02, 14:30:01](https://news.ycombinator.com/item?id=41425646) - [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
@@ -14,12 +15,10 @@
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2024-09-02, 13:15:45](https://news.ycombinator.com/item?id=41425150) - [Show HN: Gov.uk Vue, a Vue Component Library for the Gov.uk Design System](https://govukvue.org/)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
-* [2024-09-02, 12:17:14](https://news.ycombinator.com/item?id=41424818) - [Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-02, 03:13:08](https://news.ycombinator.com/item?id=41422311) - [1M Users](https://blog.spacehey.com/entry?id=1245177)
-* [2024-09-02, 03:04:36](https://news.ycombinator.com/item?id=41422283) - [Parsing Awk Is Tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
 * [2024-09-02, 02:25:19](https://news.ycombinator.com/item?id=41422126) - [Japan’s Temple-Builder Kongō Gumi, Has Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
 * [2024-09-02, 01:35:56](https://news.ycombinator.com/item?id=41421846) - [OrbStack: The fast, light, and easy way to run Docker containers and Linux](https://orbstack.dev/)
 * [2024-09-02, 01:04:16](https://news.ycombinator.com/item?id=41421650) - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
@@ -30,6 +29,7 @@
 * [2024-08-30, 14:09:38](https://news.ycombinator.com/item?id=41400899) - [Analysis of Greek prehistoric combat in full body armour](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301494)
 * [2024-08-30, 13:13:25](https://news.ycombinator.com/item?id=41400380) - [The Mouse Programming Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/)
 * [2024-08-30, 06:08:41](https://news.ycombinator.com/item?id=41398092) - [Programming Zero Knowledge Proofs: From Zero to Hero](https://zkintro.com/articles/programming-zkps-from-zero-to-hero)
+* [2024-08-29, 09:12:20](https://news.ycombinator.com/item?id=41388841) - [Lightweight, Beautiful 3D-Printed Camper Van Interiors](https://www.core77.com/posts/133448/Lightweight-Beautiful-3D-Printed-Camper-Van-Interiors)
 
 ## [Archives](archives/index.md)
 

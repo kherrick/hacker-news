@@ -9,6 +9,7 @@
 * [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 * [2024-09-02, 16:49:50](https://news.ycombinator.com/item?id=41426926) - [America's Oldest Board Game Teaches 19th-Century Geography](https://mymodernmet.com/americas-oldest-board-game/)
 * [2024-09-02, 16:23:19](https://news.ycombinator.com/item?id=41426714) - [In the Beginning, There Was Computation](https://nautil.us/in-the-beginning-there-was-computation-787023/)
+* [2024-09-02, 16:09:32](https://news.ycombinator.com/item?id=41426607) - [Authors Take Sides on the Spanish War: A Dossier (2014)](https://open.bu.edu/handle/2144/15314)
 * [2024-09-02, 16:03:50](https://news.ycombinator.com/item?id=41426574) - [Maryland Health Secretary halted ketogenic diet study for treating schizophrenia](https://twitter.com/ChrisPalmerMD/status/1807883172454998272)
 * [2024-09-02, 15:51:39](https://news.ycombinator.com/item?id=41426473) - [Andrew Gelman: Is marriage associated with happiness for men or for women?](https://statmodeling.stat.columbia.edu/2024/08/27/marriage-happiness/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
