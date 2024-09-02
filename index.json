@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-02, 13:19:29",
+      "https://news.ycombinator.com/item?id=41425173"
+    ],
+    [
+      "We must break tech monopolies before they break us",
+      "https://thenextweb.com/news/break-tech-monopolies-before-break-us"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 13:07:26",
+      "https://news.ycombinator.com/item?id=41425093"
+    ],
+    [
+      "How CrowdStrike Stopped Everything",
+      "https://cacm.acm.org/news/how-crowdstrike-stopped-everything/"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 12:01:08",
       "https://news.ycombinator.com/item?id=41424719"
     ],
@@ -77,16 +97,6 @@
     [
       "1M Users",
       "https://blog.spacehey.com/entry?id=1245177"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 03:04:36",
-      "https://news.ycombinator.com/item?id=41422283"
-    ],
-    [
-      "Parsing Awk Is Tricky",
-      "https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The web's clipboard, and how it stores data of different types",
       "https://alexharri.com/blog/clipboard"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 10:10:51",
-      "https://news.ycombinator.com/item?id=41415651"
-    ],
-    [
-      "Postgres Webhooks with Pgstream",
-      "https://xata.io/blog/postgres-webhooks-with-pgstream"
     ]
   ],
   [
