@@ -1,22 +1,42 @@
 [
   [
     [
-      "2024-09-02, 00:20:40",
-      "https://news.ycombinator.com/item?id=41421438"
+      "2024-09-02, 01:04:16",
+      "https://news.ycombinator.com/item?id=41421650"
     ],
     [
-      "Oregon law rolling back drug decriminalization set to take effect",
-      "https://apnews.com/article/oregon-drugs-law-recriminalization-decriminalization-d188a0c678973d0d65419c52467f09a4"
+      "Tbsp – treesitter-based source processing language",
+      "https://git.peppe.rs/languages/tbsp/"
     ]
   ],
   [
     [
-      "2024-09-02, 00:09:39",
-      "https://news.ycombinator.com/item?id=41421390"
+      "2024-09-02, 00:49:06",
+      "https://news.ycombinator.com/item?id=41421591"
     ],
     [
-      "Artificial Intelligence Cheapens the Artistic Imagination",
-      "https://www.convergemedia.org/artificial-intelligence-cheapens-the-imagination/"
+      "Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs",
+      "https://arxiv.org/abs/2408.00114"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 00:35:21",
+      "https://news.ycombinator.com/item?id=41421520"
+    ],
+    [
+      "Notes/Primer on Clang Compiler Front End (1): Introduction and Architecture",
+      "https://youssefaa.com/notes/notes-on-clang-compiler-frontend/"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 23:55:04",
+      "https://news.ycombinator.com/item?id=41421325"
+    ],
+    [
+      "Dublin Core, what is it good for?",
+      "https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "A Lot of 'Unskilled' Workers Aren't",
       "https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 21:57:15",
+      "https://news.ycombinator.com/item?id=41420744"
+    ],
+    [
+      "Unix history and the `dc` calculator",
+      "https://howdytx.technology/unix-history-the-dc-calculator/"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Electrified thermochemical systems with high-frequency metamaterial reactors",
       "https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 18:59:18",
-      "https://news.ycombinator.com/item?id=41419354"
-    ],
-    [
-      "Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime",
-      "https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/"
     ]
   ],
   [
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2024-09-01, 08:42:35",
+      "https://news.ycombinator.com/item?id=41415286"
+    ],
+    [
+      "Random Values in Pointers",
+      "https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 07:50:35",
       "https://news.ycombinator.com/item?id=41415077"
     ],
@@ -187,16 +217,6 @@
     [
       "Founder Mode",
       "https://paulgraham.com/foundermode.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 21:45:59",
-      "https://news.ycombinator.com/item?id=41412256"
-    ],
-    [
-      "Building LLMs from the Ground Up: A 3-Hour Coding Workshop",
-      "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-08-30, 16:01:04",
-      "https://news.ycombinator.com/item?id=41401941"
-    ],
-    [
-      "A primer on why microbiome research is hard",
-      "https://www.owlposting.com/p/a-primer-on-why-microbiome-research"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 15:29:46",
       "https://news.ycombinator.com/item?id=41401664"
     ],
@@ -251,32 +261,12 @@
   ],
   [
     [
-      "2024-08-30, 08:00:25",
-      "https://news.ycombinator.com/item?id=41398629"
-    ],
-    [
-      "Build Your Own Z80 Computer: Design Guidelines and Application (1981)",
-      "https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 06:08:41",
       "https://news.ycombinator.com/item?id=41398092"
     ],
     [
       "Programming Zero Knowledge Proofs: From Zero to Hero",
       "https://zkintro.com/articles/programming-zkps-from-zero-to-hero"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 05:52:11",
-      "https://news.ycombinator.com/item?id=41398010"
-    ],
-    [
-      "Studying Stones Can Rock Your World",
-      "https://www.newyorker.com/magazine/2024/09/02/turning-to-stone-discovering-the-subtle-wisdom-of-rocks-marcia-bjornerud-book-review"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Escaping from Anaconda's Stranglehold on macOS",
       "https://paulromer.net/escaping-from-anaconda/"
+    ]
+  ],
+  [
+    [
+      "2024-08-28, 20:27:04",
+      "https://news.ycombinator.com/item?id=41383937"
+    ],
+    [
+      "Forensic toxicology backdates the use of coca plant in Europe to the early 1600s",
+      "https://www.sciencedirect.com/science/article/pii/S0305440324001080"
     ]
   ]
 ]
