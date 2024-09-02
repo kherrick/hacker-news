@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
 * [2024-09-02, 13:59:20](https://news.ycombinator.com/item?id=41425438) - [A 30-hour workweek in America? It nearly became law](https://www.washingtonpost.com/history/2024/09/02/30-hour-workweek-fdr-labor-day/)
+* [2024-09-02, 13:51:37](https://news.ycombinator.com/item?id=41425383) - [They don't make 'em like that any more: the 3.5mm headphone jack socket](https://kevinboone.me/headphonejack.html)
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2024-09-02, 13:27:04](https://news.ycombinator.com/item?id=41425223) - [How many attempts (businesses) did you make until you reach $5000/month profit?](https://news.ycombinator.com/item?id=41425223)
 * [2024-09-02, 13:19:29](https://news.ycombinator.com/item?id=41425173) - [We must break tech monopolies before they break us](https://thenextweb.com/news/break-tech-monopolies-before-break-us)
@@ -16,6 +17,7 @@
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
 * [2024-09-02, 11:05:44](https://news.ycombinator.com/item?id=41424359) - [Court Denies Cheat Seller AimJunkies a New Trial, Affirms Bungie's $4.3M Win](https://torrentfreak.com/court-denies-cheat-seller-aimjunkies-a-new-trial-affirms-bungies-4-3-million-win-240902/)
 * [2024-09-02, 10:47:18](https://news.ycombinator.com/item?id=41424283) - [How to be better at making decisions](https://mxstbr.com/notes/decision-making)
+* [2024-09-02, 10:32:55](https://news.ycombinator.com/item?id=41424224) - [I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/)
 * [2024-09-02, 09:46:20](https://news.ycombinator.com/item?id=41424016) - [In Leak, Facebook Partner Brags About Listening to Your Phone's Microphone to S](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 * [2024-09-02, 09:25:14](https://news.ycombinator.com/item?id=41423900) - [Nvd.nist.gov cert expired yesterday and uses HSTS](https://nvd.nist.gov/)
 * [2024-09-02, 09:14:41](https://news.ycombinator.com/item?id=41423850) - [Unlock Articles with Paywallskip](https://www.paywallskip.com/)

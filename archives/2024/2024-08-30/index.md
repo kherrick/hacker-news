@@ -49,6 +49,7 @@
 * [2024-08-30, 14:38:23](https://news.ycombinator.com/item?id=41401190) - [The web fun fact that domains can end in dots and canonicalization failures](https://utcc.utoronto.ca/~cks/space/blog/web/DomainDotsAndCanonicalization)
 * [2024-08-30, 14:20:11](https://news.ycombinator.com/item?id=41401004) - [Repainting our app mid-flight](https://www.reviewable.io/blog/repainting-our-app-mid-flight/)
 * [2024-08-30, 14:19:32](https://news.ycombinator.com/item?id=41400998) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
+* [2024-08-30, 14:09:38](https://news.ycombinator.com/item?id=41400899) - [Analysis of Greek prehistoric combat in full body armour](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301494)
 * [2024-08-30, 14:00:41](https://news.ycombinator.com/item?id=41400807) - [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
 * [2024-08-30, 13:52:46](https://news.ycombinator.com/item?id=41400723) - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 * [2024-08-30, 13:44:50](https://news.ycombinator.com/item?id=41400663) - [Suddenly Runway deleted all content on HuggingFace and GitHub](https://www.aibase.com/news/11434)
