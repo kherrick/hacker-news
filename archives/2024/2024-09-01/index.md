@@ -48,6 +48,7 @@
 * [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
 * [2024-09-01, 10:08:17](https://news.ycombinator.com/item?id=41415642) - [Distroless: Language focused Docker images, minus the operating system](https://github.com/GoogleContainerTools/distroless)
+* [2024-09-01, 10:07:43](https://news.ycombinator.com/item?id=41415634) - [Timeseries Indexing at Scale](https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/)
 * [2024-09-01, 10:03:55](https://news.ycombinator.com/item?id=41415619) - [Ask HN: How To: Internal Documentation?](https://news.ycombinator.com/item?id=41415619)
 * [2024-09-01, 09:32:57](https://news.ycombinator.com/item?id=41415498) - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
 * [2024-09-01, 09:26:22](https://news.ycombinator.com/item?id=41415468) - [Take a closer look at Starbucks CEO's contract, which covers his commute by jet](https://www.abc.net.au/news/2024-09-01/starbucks-ceo-brian-niccol-contract-explained/104270064)
