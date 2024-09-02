@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-02, 15:51:39",
+      "https://news.ycombinator.com/item?id=41426473"
+    ],
+    [
+      "Andrew Gelman: Is marriage associated with happiness for men or for women?",
+      "https://statmodeling.stat.columbia.edu/2024/08/27/marriage-happiness/"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 14:35:12",
       "https://news.ycombinator.com/item?id=41425675"
     ],
     [
       "Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF",
       "https://github.com/jboirazian/LuneForge"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 14:30:01",
+      "https://news.ycombinator.com/item?id=41425646"
+    ],
+    [
+      "Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS",
+      "https://github.com/syncliteio/SyncLite"
     ]
   ],
   [
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2024-09-02, 13:51:37",
+      "https://news.ycombinator.com/item?id=41425383"
+    ],
+    [
+      "They don't make 'em like that any more: the 3.5mm headphone jack socket",
+      "https://kevinboone.me/headphonejack.html"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 13:34:53",
       "https://news.ycombinator.com/item?id=41425276"
     ],
@@ -47,6 +77,16 @@
     [
       "DOjS – A DOS JavaScript Canvas with Sound",
       "https://github.com/SuperIlu/DOjS"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 13:15:45",
+      "https://news.ycombinator.com/item?id=41425150"
+    ],
+    [
+      "Show HN: Gov.uk Vue, a Vue Component Library for the Gov.uk Design System",
+      "https://govukvue.org/"
     ]
   ],
   [
@@ -145,7 +185,7 @@
       "https://news.ycombinator.com/item?id=41422126"
     ],
     [
-      "How the Oldest Company in the World Survived Nearly 1,500 Years",
+      "Japan’s Temple-Builder Kongō Gumi, Has Survived Nearly 1,500 Years",
       "https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html"
     ]
   ],
@@ -167,16 +207,6 @@
     [
       "Tbsp – treesitter-based source processing language",
       "https://git.peppe.rs/languages/tbsp/"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 23:55:04",
-      "https://news.ycombinator.com/item?id=41421325"
-    ],
-    [
-      "Dublin Core, what is it good for?",
-      "https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2024-09-01, 15:17:07",
-      "https://news.ycombinator.com/item?id=41417659"
-    ],
-    [
-      "Ask HN: How to store and share passwords in a company?",
-      "https://news.ycombinator.com/item?id=41417659"
-    ]
-  ],
-  [
-    [
       "2024-09-01, 14:30:52",
       "https://news.ycombinator.com/item?id=41417263"
     ],
     [
       "Show HN: Bin-graph: Visualize binary files",
       "https://github.com/8dcc/bin-graph"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 14:10:45",
-      "https://news.ycombinator.com/item?id=41417109"
-    ],
-    [
-      "Athletes and musicians pursue virtuosity in fundamental skills",
-      "https://notes.andymatuschak.org/zBmSSpM1WfFDehxNCBcqSZp?stackedNotes=zMX9Lfuz8sGfDUivWZcyWT"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 07:35:23",
-      "https://news.ycombinator.com/item?id=41415023"
-    ],
-    [
-      "Founder Mode",
-      "https://paulgraham.com/foundermode.html"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-08-30, 13:42:44",
-      "https://news.ycombinator.com/item?id=41400639"
-    ],
-    [
-      "What we can learn from vintage computing",
-      "https://github.com/readme/featured/vintage-computing"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 13:13:25",
       "https://news.ycombinator.com/item?id=41400380"
     ],
@@ -297,6 +287,16 @@
     [
       "Programming Zero Knowledge Proofs: From Zero to Hero",
       "https://zkintro.com/articles/programming-zkps-from-zero-to-hero"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 05:02:13",
+      "https://news.ycombinator.com/item?id=41387511"
+    ],
+    [
+      "The Case for Hypochondria",
+      "https://newrepublic.com/article/184239/caroline-crampton-review-case-hypochondria"
     ]
   ]
 ]
