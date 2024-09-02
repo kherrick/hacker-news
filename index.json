@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-02, 07:00:49",
+      "https://news.ycombinator.com/item?id=41423227"
+    ],
+    [
+      "Ashby (YC W19) Is Hiring Engineers Who Can Design",
+      "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 05:29:30",
       "https://news.ycombinator.com/item?id=41422849"
     ],
     [
       "Vampires and Arithmomania",
       "https://oddathenaeum.com/vampires-arithmomania/"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 05:16:13",
+      "https://news.ycombinator.com/item?id=41422796"
+    ],
+    [
+      "Cosy Computing",
+      "https://www.datagubbe.se/cosy/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-09-02, 00:57:54",
-      "https://news.ycombinator.com/item?id=41421627"
-    ],
-    [
-      "Meta data center electricity consumption hits 14,975GWh",
-      "https://www.datacenterdynamics.com/en/news/meta-data-center-electricity-consumption-hits-14975gwh-leased-data-center-use-nearly-doubles/"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 00:49:06",
       "https://news.ycombinator.com/item?id=41421591"
     ],
@@ -127,16 +137,6 @@
     [
       "Extreme Pi Boot Optimization",
       "https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 19:32:53",
-      "https://news.ycombinator.com/item?id=41419645"
-    ],
-    [
-      "Electrified thermochemical systems with high-frequency metamaterial reactors",
-      "https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2024-09-01, 10:10:43",
+      "https://news.ycombinator.com/item?id=41415650"
+    ],
+    [
+      "Beyond the Brew: The Medicinal Power of Hops",
+      "https://worldsensorium.com/beyond-the-brew-the-medicinal-power-of-hops/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 10:07:43",
       "https://news.ycombinator.com/item?id=41415634"
     ],
     [
       "Timeseries Indexing at Scale",
       "https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 08:42:35",
-      "https://news.ycombinator.com/item?id=41415286"
-    ],
-    [
-      "Random Values in Pointers",
-      "https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/"
     ]
   ],
   [
