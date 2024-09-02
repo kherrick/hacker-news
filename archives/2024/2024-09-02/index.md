@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 21:19:22](https://news.ycombinator.com/item?id=41428905) - [Chase Bank glitch releases thousands in cash over Labor Day weekend](https://www.forbes.com/sites/robkniaz/2024/09/02/social-media-charged-fraud-waves-a-new-era-of-financial-vulnerability/)
 * [2024-09-02, 20:57:54](https://news.ycombinator.com/item?id=41428754) - [Fears children born during lockdown are years behind as they start at school](https://www.theguardian.com/society/article/2024/sep/01/fears-children-born-lockdown-start-school-covid)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 * [2024-09-02, 20:18:21](https://news.ycombinator.com/item?id=41428478) - [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)

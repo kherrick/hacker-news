@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-02, 21:19:22](https://news.ycombinator.com/item?id=41428905) - [Chase Bank glitch releases thousands in cash over Labor Day weekend](https://www.forbes.com/sites/robkniaz/2024/09/02/social-media-charged-fraud-waves-a-new-era-of-financial-vulnerability/)
 * [2024-09-02, 20:57:54](https://news.ycombinator.com/item?id=41428754) - [Fears children born during lockdown are years behind as they start at school](https://www.theguardian.com/society/article/2024/sep/01/fears-children-born-lockdown-start-school-covid)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 * [2024-09-02, 20:18:21](https://news.ycombinator.com/item?id=41428478) - [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
@@ -21,7 +22,6 @@
 * [2024-09-02, 14:30:01](https://news.ycombinator.com/item?id=41425646) - [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
 * [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences – even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 * [2024-09-02, 14:00:58](https://news.ycombinator.com/item?id=41425446) - [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
-* [2024-09-02, 13:34:53](https://news.ycombinator.com/item?id=41425276) - [NIH cancels ‘Havana syndrome’ research, citing unethical coercion](https://www.cnn.com/2024/08/30/health/nih-havana-syndrome-study/index.html)
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2024-09-02, 13:15:45](https://news.ycombinator.com/item?id=41425150) - [Show HN: Gov.uk Vue, a Vue Component Library for the Gov.uk Design System](https://govukvue.org/)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Show HN: Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
