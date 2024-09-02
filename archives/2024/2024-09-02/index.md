@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 13:59:20](https://news.ycombinator.com/item?id=41425438) - [A 30-hour workweek in America? It nearly became law](https://www.washingtonpost.com/history/2024/09/02/30-hour-workweek-fdr-labor-day/)
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2024-09-02, 13:27:04](https://news.ycombinator.com/item?id=41425223) - [How many attempts (businesses) did you make until you reach $5000/month profit?](https://news.ycombinator.com/item?id=41425223)
 * [2024-09-02, 13:19:29](https://news.ycombinator.com/item?id=41425173) - [We must break tech monopolies before they break us](https://thenextweb.com/news/break-tech-monopolies-before-break-us)
