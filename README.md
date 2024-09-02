@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-02, 16:03:50](https://news.ycombinator.com/item?id=41426574) - [Maryland Health Secretary halted ketogenic diet study for treating schizophrenia](https://twitter.com/ChrisPalmerMD/status/1807883172454998272)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
 * [2024-09-02, 14:30:01](https://news.ycombinator.com/item?id=41425646) - [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
@@ -21,6 +20,7 @@
 * [2024-09-02, 02:25:19](https://news.ycombinator.com/item?id=41422126) - [Japan’s Temple-Builder Kongō Gumi, Has Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
 * [2024-09-02, 01:35:56](https://news.ycombinator.com/item?id=41421846) - [OrbStack: The fast, light, and easy way to run Docker containers and Linux](https://orbstack.dev/)
 * [2024-09-02, 01:04:16](https://news.ycombinator.com/item?id=41421650) - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
+* [2024-09-01, 23:55:04](https://news.ycombinator.com/item?id=41421325) - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
 * [2024-09-01, 21:36:55](https://news.ycombinator.com/item?id=41420597) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 * [2024-09-01, 16:55:52](https://news.ycombinator.com/item?id=41418394) - [Show HN: 789-Zip – A native macOS app for 7-Zip](https://github.com/AkshayKalose/789-Zip)
 * [2024-09-01, 16:46:07](https://news.ycombinator.com/item?id=41418301) - [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
