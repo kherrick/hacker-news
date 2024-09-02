@@ -2,6 +2,7 @@
 
 * [2024-09-02, 22:56:32](https://news.ycombinator.com/item?id=41429469) - [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/)
 * [2024-09-02, 22:19:28](https://news.ycombinator.com/item?id=41429245) - [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
+* [2024-09-02, 22:03:30](https://news.ycombinator.com/item?id=41429156) - [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
 * [2024-09-02, 21:57:58](https://news.ycombinator.com/item?id=41429116) - [Company Says It Uses Your Phones Mic to Serve Ads for Facebook, Google, etc.](https://news.itsfoss.com/ad-company-listening-to-microphone/)
 * [2024-09-02, 21:30:12](https://news.ycombinator.com/item?id=41428952) - [I hate Stripe, so I'm going to build my own payment processor](https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
@@ -12,7 +13,6 @@
 * [2024-09-02, 19:08:33](https://news.ycombinator.com/item?id=41427994) - [AI-Implanted False Memories](https://www.media.mit.edu/projects/ai-false-memories/overview/)
 * [2024-09-02, 18:10:20](https://news.ycombinator.com/item?id=41427563) - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
 * [2024-09-02, 17:23:26](https://news.ycombinator.com/item?id=41427185) - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
-* [2024-09-02, 17:15:04](https://news.ycombinator.com/item?id=41427121) - [Solving Redactle with Decision Trees](https://blog.valentin.sh/redactle/)
 * [2024-09-02, 17:02:00](https://news.ycombinator.com/item?id=41427027) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
 * [2024-09-02, 16:58:40](https://news.ycombinator.com/item?id=41426998) - [Launch HN: Fortress (YC S24) – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
 * [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
