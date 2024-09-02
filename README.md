@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-02, 22:19:28](https://news.ycombinator.com/item?id=41429245) - [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
 * [2024-09-02, 21:30:12](https://news.ycombinator.com/item?id=41428952) - [I hate Stripe, so I'm going to build my own payment processor](https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 * [2024-09-02, 20:18:21](https://news.ycombinator.com/item?id=41428478) - [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
@@ -9,7 +10,6 @@
 * [2024-09-02, 19:10:12](https://news.ycombinator.com/item?id=41428014) - [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
 * [2024-09-02, 19:08:33](https://news.ycombinator.com/item?id=41427994) - [AI-Implanted False Memories](https://www.media.mit.edu/projects/ai-false-memories/overview/)
 * [2024-09-02, 18:10:20](https://news.ycombinator.com/item?id=41427563) - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
-* [2024-09-02, 17:30:07](https://news.ycombinator.com/item?id=41427247) - [Show HN: A YouTube videos course generator](https://coursely.ai)
 * [2024-09-02, 17:23:26](https://news.ycombinator.com/item?id=41427185) - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [2024-09-02, 17:15:04](https://news.ycombinator.com/item?id=41427121) - [Solving Redactle with Decision Trees](https://blog.valentin.sh/redactle/)
 * [2024-09-02, 17:02:00](https://news.ycombinator.com/item?id=41427027) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
