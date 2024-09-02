@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 15:51:39](https://news.ycombinator.com/item?id=41426473) - [Andrew Gelman: Is marriage associated with happiness for men or for women?](https://statmodeling.stat.columbia.edu/2024/08/27/marriage-happiness/)
 * [2024-09-02, 14:59:11](https://news.ycombinator.com/item?id=41425893) - [Boeing's Starliner started making a repeating 'pulsing' sound yesterday](https://www.theverge.com/2024/9/1/24233669/boeing-starliner-strange-noise-nasa-iss-sonar-ping)
 * [2024-09-02, 14:50:47](https://news.ycombinator.com/item?id=41425808) - [Revolution: Google Password Manager Syncs Passkeys to Apple and Windows Devices](https://www.corbado.com/blog/google-passkeys-sync-windows-macos)
 * [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
+* [2024-09-02, 14:30:01](https://news.ycombinator.com/item?id=41425646) - [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
 * [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences – even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 * [2024-09-02, 14:11:59](https://news.ycombinator.com/item?id=41425525) - [Ask HN: Why does Microsoft prohibit employee personal open source projects?](https://news.ycombinator.com/item?id=41425525)
 * [2024-09-02, 14:00:58](https://news.ycombinator.com/item?id=41425446) - [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
@@ -17,6 +19,7 @@
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2024-09-02, 13:27:04](https://news.ycombinator.com/item?id=41425223) - [How many attempts (businesses) did you make until you reach $5000/month profit?](https://news.ycombinator.com/item?id=41425223)
 * [2024-09-02, 13:19:29](https://news.ycombinator.com/item?id=41425173) - [We must break tech monopolies before they break us](https://thenextweb.com/news/break-tech-monopolies-before-break-us)
+* [2024-09-02, 13:15:45](https://news.ycombinator.com/item?id=41425150) - [Show HN: Gov.uk Vue, a Vue Component Library for the Gov.uk Design System](https://govukvue.org/)
 * [2024-09-02, 13:07:26](https://news.ycombinator.com/item?id=41425093) - [How CrowdStrike Stopped Everything](https://cacm.acm.org/news/how-crowdstrike-stopped-everything/)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 12:59:47](https://news.ycombinator.com/item?id=41425028) - [Brazil to Fine Anyone Using a VPN to Access X $8,874 per Day; Elon Musk Responds](https://www.complex.com/pop-culture/a/treyalston/brazil-x-elon-musk-fine)
