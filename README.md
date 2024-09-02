@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-02, 17:02:00](https://news.ycombinator.com/item?id=41427027) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
 * [2024-09-02, 14:30:01](https://news.ycombinator.com/item?id=41425646) - [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
@@ -10,7 +11,6 @@
 * [2024-09-02, 13:15:45](https://news.ycombinator.com/item?id=41425150) - [Show HN: Gov.uk Vue, a Vue Component Library for the Gov.uk Design System](https://govukvue.org/)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 12:17:14](https://news.ycombinator.com/item?id=41424818) - [Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
-* [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
