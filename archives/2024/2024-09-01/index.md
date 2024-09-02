@@ -7,6 +7,7 @@
 * [2024-09-01, 23:55:04](https://news.ycombinator.com/item?id=41421325) - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
 * [2024-09-01, 23:28:00](https://news.ycombinator.com/item?id=41421212) - [A Lot of 'Unskilled' Workers Aren't](https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term)
 * [2024-09-01, 21:57:15](https://news.ycombinator.com/item?id=41420744) - [Unix history and the `dc` calculator](https://howdytx.technology/unix-history-the-dc-calculator/)
+* [2024-09-01, 21:49:36](https://news.ycombinator.com/item?id=41420681) - [Clojure Interactive Development 101](https://myke.blog/posts/clojure-interactive-development-101)
 * [2024-09-01, 21:36:55](https://news.ycombinator.com/item?id=41420597) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 * [2024-09-01, 20:42:02](https://news.ycombinator.com/item?id=41420217) - [Why COBOL Isn't the Problem](https://lucid.co/techblog/2020/11/13/why-cobol-isnt-the-problem)
 * [2024-09-01, 20:31:10](https://news.ycombinator.com/item?id=41420112) - ['Mindblowing' fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
