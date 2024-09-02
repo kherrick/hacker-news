@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 16:03:50](https://news.ycombinator.com/item?id=41426574) - [Maryland Health Secretary halted ketogenic diet study for treating schizophrenia](https://twitter.com/ChrisPalmerMD/status/1807883172454998272)
 * [2024-09-02, 15:51:39](https://news.ycombinator.com/item?id=41426473) - [Andrew Gelman: Is marriage associated with happiness for men or for women?](https://statmodeling.stat.columbia.edu/2024/08/27/marriage-happiness/)
+* [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:59:11](https://news.ycombinator.com/item?id=41425893) - [Boeing's Starliner started making a repeating 'pulsing' sound yesterday](https://www.theverge.com/2024/9/1/24233669/boeing-starliner-strange-noise-nasa-iss-sonar-ping)
 * [2024-09-02, 14:50:47](https://news.ycombinator.com/item?id=41425808) - [Revolution: Google Password Manager Syncs Passkeys to Apple and Windows Devices](https://www.corbado.com/blog/google-passkeys-sync-windows-macos)
 * [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
