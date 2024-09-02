@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 21:30:12](https://news.ycombinator.com/item?id=41428952) - [I hate Stripe, so I'm going to build my own payment processor](https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/)
 * [2024-09-02, 21:19:22](https://news.ycombinator.com/item?id=41428905) - [Chase Bank glitch releases thousands in cash over Labor Day weekend](https://www.forbes.com/sites/robkniaz/2024/09/02/social-media-charged-fraud-waves-a-new-era-of-financial-vulnerability/)
 * [2024-09-02, 20:57:54](https://news.ycombinator.com/item?id=41428754) - [Fears children born during lockdown are years behind as they start at school](https://www.theguardian.com/society/article/2024/sep/01/fears-children-born-lockdown-start-school-covid)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
@@ -12,6 +13,7 @@
 * [2024-09-02, 20:08:32](https://news.ycombinator.com/item?id=41428400) - [GPD Duo](https://gpd.hk/gpdduo)
 * [2024-09-02, 20:05:42](https://news.ycombinator.com/item?id=41428373) - [Mother's gut microbiome during pregnancy shapes baby's brain development](https://medicalxpress.com/news/2024-08-mother-gut-microbiome-pregnancy-baby.html)
 * [2024-09-02, 19:55:49](https://news.ycombinator.com/item?id=41428300) - [Tech firms were fighting a war for talent. Now they are waging war on talent](http://www.rosspettit.com/2024/08/for-years-tech-was-fighting-war-for.html)
+* [2024-09-02, 19:50:53](https://news.ycombinator.com/item?id=41428274) - [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
 * [2024-09-02, 19:48:32](https://news.ycombinator.com/item?id=41428261) - [CrowdStrike faces onslaught of legal action from faulty software update](https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/)
 * [2024-09-02, 19:39:42](https://news.ycombinator.com/item?id=41428206) - [Big Tech Sees Like a State (2020)](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
 * [2024-09-02, 19:24:58](https://news.ycombinator.com/item?id=41428118) - [Ask HN: Resources for GPU Compilers?](https://news.ycombinator.com/item?id=41428118)
