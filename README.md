@@ -12,7 +12,6 @@
 * [2024-09-02, 00:57:54](https://news.ycombinator.com/item?id=41421627) - [Meta data center electricity consumption hits 14,975GWh](https://www.datacenterdynamics.com/en/news/meta-data-center-electricity-consumption-hits-14975gwh-leased-data-center-use-nearly-doubles/)
 * [2024-09-02, 00:49:06](https://news.ycombinator.com/item?id=41421591) - [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
 * [2024-09-01, 23:55:04](https://news.ycombinator.com/item?id=41421325) - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
-* [2024-09-01, 21:57:15](https://news.ycombinator.com/item?id=41420744) - [Unix history and the `dc` calculator](https://howdytx.technology/unix-history-the-dc-calculator/)
 * [2024-09-01, 21:36:55](https://news.ycombinator.com/item?id=41420597) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 * [2024-09-01, 19:32:53](https://news.ycombinator.com/item?id=41419645) - [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
 * [2024-09-01, 16:46:07](https://news.ycombinator.com/item?id=41418301) - [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
@@ -29,6 +28,7 @@
 * [2024-08-30, 13:42:44](https://news.ycombinator.com/item?id=41400639) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2024-08-30, 06:08:41](https://news.ycombinator.com/item?id=41398092) - [Programming Zero Knowledge Proofs: From Zero to Hero](https://zkintro.com/articles/programming-zkps-from-zero-to-hero)
 * [2024-08-29, 08:57:15](https://news.ycombinator.com/item?id=41388750) - [Escaping from Anaconda's Stranglehold on macOS](https://paulromer.net/escaping-from-anaconda/)
+* [2024-08-28, 21:27:56](https://news.ycombinator.com/item?id=41384590) - [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
 * [2024-08-28, 20:27:04](https://news.ycombinator.com/item?id=41383937) - [Forensic toxicology backdates the use of coca plant in Europe to the early 1600s](https://www.sciencedirect.com/science/article/pii/S0305440324001080)
 
 ## [Archives](archives/index.md)
