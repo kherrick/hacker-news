@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-02, 07:00:49](https://news.ycombinator.com/item?id=41423227) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 * [2024-09-02, 05:29:30](https://news.ycombinator.com/item?id=41422849) - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
@@ -18,7 +19,6 @@
 * [2024-09-01, 16:46:07](https://news.ycombinator.com/item?id=41418301) - [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 * [2024-09-01, 16:06:13](https://news.ycombinator.com/item?id=41417997) - [Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
 * [2024-09-01, 15:17:07](https://news.ycombinator.com/item?id=41417659) - [Ask HN: How to store and share passwords in a company?](https://news.ycombinator.com/item?id=41417659)
-* [2024-09-01, 14:58:18](https://news.ycombinator.com/item?id=41417482) - [In This Beautiful Library, Bats Guard the Books](https://www.atlasobscura.com/articles/library-bats-coimbra-wild-life-excerpt)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)

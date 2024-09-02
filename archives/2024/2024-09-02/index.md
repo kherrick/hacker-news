@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-02, 07:00:49](https://news.ycombinator.com/item?id=41423227) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 * [2024-09-02, 05:29:30](https://news.ycombinator.com/item?id=41422849) - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
