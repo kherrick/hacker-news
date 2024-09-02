@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-02, 07:00:49](https://news.ycombinator.com/item?id=41423227) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 * [2024-09-02, 05:29:30](https://news.ycombinator.com/item?id=41422849) - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
 * [2024-09-02, 05:16:13](https://news.ycombinator.com/item?id=41422796) - [Cosy Computing](https://www.datagubbe.se/cosy/)
@@ -11,7 +12,6 @@
 * [2024-09-02, 02:25:19](https://news.ycombinator.com/item?id=41422126) - [How the Oldest Company in the World Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
 * [2024-09-02, 01:35:56](https://news.ycombinator.com/item?id=41421846) - [OrbStack: The fast, light, and easy way to run Docker containers and Linux](https://orbstack.dev/)
 * [2024-09-02, 01:04:16](https://news.ycombinator.com/item?id=41421650) - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
-* [2024-09-02, 00:57:54](https://news.ycombinator.com/item?id=41421627) - [Meta data center electricity consumption hits 14,975GWh](https://www.datacenterdynamics.com/en/news/meta-data-center-electricity-consumption-hits-14975gwh-leased-data-center-use-nearly-doubles/)
 * [2024-09-02, 00:49:06](https://news.ycombinator.com/item?id=41421591) - [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
 * [2024-09-01, 23:55:04](https://news.ycombinator.com/item?id=41421325) - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
 * [2024-09-01, 21:36:55](https://news.ycombinator.com/item?id=41420597) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
@@ -28,7 +28,7 @@
 * [2024-08-30, 15:29:46](https://news.ycombinator.com/item?id=41401664) - [The vagus nerve orchestrates the mind-body connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
 * [2024-08-30, 13:42:44](https://news.ycombinator.com/item?id=41400639) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2024-08-30, 06:08:41](https://news.ycombinator.com/item?id=41398092) - [Programming Zero Knowledge Proofs: From Zero to Hero](https://zkintro.com/articles/programming-zkps-from-zero-to-hero)
-* [2024-08-29, 08:57:15](https://news.ycombinator.com/item?id=41388750) - [Escaping from Anaconda's Stranglehold on macOS](https://paulromer.net/escaping-from-anaconda/)
+* [2024-08-30, 05:13:41](https://news.ycombinator.com/item?id=41397897) - [PyPy gets a new RISC-V JIT back end](https://pypy.org/posts/2024/08/pypy-v7317-release.html)
 * [2024-08-28, 21:27:56](https://news.ycombinator.com/item?id=41384590) - [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
 
 ## [Archives](archives/index.md)

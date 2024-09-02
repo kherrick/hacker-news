@@ -79,6 +79,7 @@
 * [2024-08-30, 05:52:11](https://news.ycombinator.com/item?id=41398010) - [Studying Stones Can Rock Your World](https://www.newyorker.com/magazine/2024/09/02/turning-to-stone-discovering-the-subtle-wisdom-of-rocks-marcia-bjornerud-book-review)
 * [2024-08-30, 05:20:18](https://news.ycombinator.com/item?id=41397916) - [The Production and Reproduction of Sound by Light (1880)](https://ajsonline.org/article/64037)
 * [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
+* [2024-08-30, 05:13:41](https://news.ycombinator.com/item?id=41397897) - [PyPy gets a new RISC-V JIT back end](https://pypy.org/posts/2024/08/pypy-v7317-release.html)
 * [2024-08-30, 05:07:15](https://news.ycombinator.com/item?id=41397873) - [Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
 * [2024-08-30, 04:59:58](https://news.ycombinator.com/item?id=41397847) - [Tabbed out on the Oregon Trail](https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail)
 * [2024-08-30, 04:15:54](https://news.ycombinator.com/item?id=41397679) - [Rust's Ugly Syntax (2023)](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
