@@ -41,6 +41,7 @@
 * [2024-08-31, 15:19:18](https://news.ycombinator.com/item?id=41409490) - [The Tesla Files Unveil More Accounting Fraud Than Imagined](https://bradmunchen.substack.com/p/the-tesla-files-unveil-more-accounting)
 * [2024-08-31, 15:16:54](https://news.ycombinator.com/item?id=41409475) - [Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
 * [2024-08-31, 15:10:43](https://news.ycombinator.com/item?id=41409434) - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
+* [2024-08-31, 14:33:58](https://news.ycombinator.com/item?id=41409157) - [An Ottoman Winter in Toulon](https://www.historytoday.com/archive/history-matters/ottoman-winter-toulon)
 * [2024-08-31, 14:33:12](https://news.ycombinator.com/item?id=41409144) - [We can have democracy or we can have Facebook, but we can't have both (2020)](https://the.ink/p/we-can-have-democracy-or-we-can-have)
 * [2024-08-31, 14:13:33](https://news.ycombinator.com/item?id=41409006) - [Fred: Software Development Job Postings on Indeed in the United States](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE)
 * [2024-08-31, 13:48:31](https://news.ycombinator.com/item?id=41408851) - [UBC engineers develop all-in-one solution to catch and destroy forever chemicals](https://news.ubc.ca/2024/08/ubc-pfas-forever-chemicals-solution/)
