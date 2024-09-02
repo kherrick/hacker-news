@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-09-02, 14:59:11",
+      "https://news.ycombinator.com/item?id=41425893"
+    ],
+    [
+      "Boeing's Starliner started making a repeating 'pulsing' sound yesterday",
+      "https://www.theverge.com/2024/9/1/24233669/boeing-starliner-strange-noise-nasa-iss-sonar-ping"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 14:50:47",
+      "https://news.ycombinator.com/item?id=41425808"
+    ],
+    [
+      "Revolution: Google Password Manager Syncs Passkeys to Apple and Windows Devices",
+      "https://www.corbado.com/blog/google-passkeys-sync-windows-macos"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 14:35:12",
+      "https://news.ycombinator.com/item?id=41425675"
+    ],
+    [
+      "Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF",
+      "https://github.com/jboirazian/LuneForge"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 14:17:08",
+      "https://news.ycombinator.com/item?id=41425563"
+    ],
+    [
+      "Sleep on it: How the brain processes many experiences – even when 'offline'",
+      "https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 14:11:59",
+      "https://news.ycombinator.com/item?id=41425525"
+    ],
+    [
+      "Ask HN: Why does Microsoft prohibit employee personal open source projects?",
+      "https://news.ycombinator.com/item?id=41425525"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 13:59:20",
       "https://news.ycombinator.com/item?id=41425438"
     ],
@@ -11,32 +61,12 @@
   ],
   [
     [
-      "2024-09-02, 13:51:37",
-      "https://news.ycombinator.com/item?id=41425383"
-    ],
-    [
-      "They don't make 'em like that any more: the 3.5mm headphone jack socket",
-      "https://kevinboone.me/headphonejack.html"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 13:33:09",
       "https://news.ycombinator.com/item?id=41425259"
     ],
     [
       "DOjS – A DOS JavaScript Canvas with Sound",
       "https://github.com/SuperIlu/DOjS"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 13:07:26",
-      "https://news.ycombinator.com/item?id=41425093"
-    ],
-    [
-      "How CrowdStrike Stopped Everything",
-      "https://cacm.acm.org/news/how-crowdstrike-stopped-everything/"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Show HN: Defrag the Game",
       "https://defrag-game.com"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 10:32:55",
-      "https://news.ycombinator.com/item?id=41424224"
-    ],
-    [
-      "I Still Use Python Virtual Environments in Docker",
-      "https://hynek.me/articles/docker-virtualenv/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-09-01, 16:06:13",
-      "https://news.ycombinator.com/item?id=41417997"
-    ],
-    [
-      "Using the moiré effect to show different arrows to each observer (2018)",
-      "https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/"
-    ]
-  ],
-  [
-    [
       "2024-09-01, 15:17:07",
       "https://news.ycombinator.com/item?id=41417659"
     ],
@@ -207,16 +217,6 @@
     [
       "Show HN: Bin-graph: Visualize binary files",
       "https://github.com/8dcc/bin-graph"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 13:07:14",
-      "https://news.ycombinator.com/item?id=41416714"
-    ],
-    [
-      "Show HN: Linkpreview, see how your sites looks in social media and chat apps",
-      "https://linkpreview.xyz"
     ]
   ],
   [
