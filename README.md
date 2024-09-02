@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
-* [2024-09-02, 11:05:44](https://news.ycombinator.com/item?id=41424359) - [Court Denies Cheat Seller AimJunkies a New Trial, Affirms Bungie's $4.3M Win](https://torrentfreak.com/court-denies-cheat-seller-aimjunkies-a-new-trial-affirms-bungies-4-3-million-win-240902/)
 * [2024-09-02, 09:14:41](https://news.ycombinator.com/item?id=41423850) - [Unlock Articles with Paywallskip](https://www.paywallskip.com/)
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
@@ -29,6 +28,7 @@
 * [2024-08-30, 13:42:44](https://news.ycombinator.com/item?id=41400639) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2024-08-30, 13:13:25](https://news.ycombinator.com/item?id=41400380) - [The Mouse Programming Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/)
 * [2024-08-30, 06:08:41](https://news.ycombinator.com/item?id=41398092) - [Programming Zero Knowledge Proofs: From Zero to Hero](https://zkintro.com/articles/programming-zkps-from-zero-to-hero)
+* [2024-08-29, 08:57:15](https://news.ycombinator.com/item?id=41388750) - [Escaping from Anaconda's Stranglehold on macOS](https://paulromer.net/escaping-from-anaconda/)
 * [2024-08-28, 21:27:56](https://news.ycombinator.com/item?id=41384590) - [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
 
 ## [Archives](archives/index.md)
