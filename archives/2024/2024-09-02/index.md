@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 13:19:29](https://news.ycombinator.com/item?id=41425173) - [We must break tech monopolies before they break us](https://thenextweb.com/news/break-tech-monopolies-before-break-us)
+* [2024-09-02, 13:07:26](https://news.ycombinator.com/item?id=41425093) - [How CrowdStrike Stopped Everything](https://cacm.acm.org/news/how-crowdstrike-stopped-everything/)
 * [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
 * [2024-09-02, 11:56:30](https://news.ycombinator.com/item?id=41424697) - [OFNL Suffer Major National UK Full Fibre Broadband Outage](https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)

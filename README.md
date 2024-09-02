@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-02, 13:19:29](https://news.ycombinator.com/item?id=41425173) - [We must break tech monopolies before they break us](https://thenextweb.com/news/break-tech-monopolies-before-break-us)
+* [2024-09-02, 13:07:26](https://news.ycombinator.com/item?id=41425093) - [How CrowdStrike Stopped Everything](https://cacm.acm.org/news/how-crowdstrike-stopped-everything/)
 * [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
 * [2024-09-02, 11:56:30](https://news.ycombinator.com/item?id=41424697) - [OFNL Suffer Major National UK Full Fibre Broadband Outage](https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
@@ -8,7 +10,6 @@
 * [2024-09-02, 03:37:22](https://news.ycombinator.com/item?id=41422387) - [Authenticated Boot and Disk Encryption on Linux (2021)](https://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
 * [2024-09-02, 03:34:25](https://news.ycombinator.com/item?id=41422378) - ['Amazing' Viking-age treasure travelled half the world to Scotland](https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds)
 * [2024-09-02, 03:13:08](https://news.ycombinator.com/item?id=41422311) - [1M Users](https://blog.spacehey.com/entry?id=1245177)
-* [2024-09-02, 03:04:36](https://news.ycombinator.com/item?id=41422283) - [Parsing Awk Is Tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
 * [2024-09-02, 02:25:19](https://news.ycombinator.com/item?id=41422126) - [How the Oldest Company in the World Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
 * [2024-09-02, 01:35:56](https://news.ycombinator.com/item?id=41421846) - [OrbStack: The fast, light, and easy way to run Docker containers and Linux](https://orbstack.dev/)
 * [2024-09-02, 01:04:16](https://news.ycombinator.com/item?id=41421650) - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
@@ -20,7 +21,6 @@
 * [2024-09-01, 14:30:52](https://news.ycombinator.com/item?id=41417263) - [Show HN: Bin-graph: Visualize binary files](https://github.com/8dcc/bin-graph)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
-* [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
 * [2024-09-01, 10:10:43](https://news.ycombinator.com/item?id=41415650) - [Beyond the Brew: The Medicinal Power of Hops](https://worldsensorium.com/beyond-the-brew-the-medicinal-power-of-hops/)
 * [2024-09-01, 10:07:43](https://news.ycombinator.com/item?id=41415634) - [Timeseries Indexing at Scale](https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/)
 * [2024-09-01, 07:35:23](https://news.ycombinator.com/item?id=41415023) - [Founder Mode](https://paulgraham.com/foundermode.html)
