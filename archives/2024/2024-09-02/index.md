@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
 * [2024-09-02, 11:05:44](https://news.ycombinator.com/item?id=41424359) - [Court Denies Cheat Seller AimJunkies a New Trial, Affirms Bungie's $4.3M Win](https://torrentfreak.com/court-denies-cheat-seller-aimjunkies-a-new-trial-affirms-bungies-4-3-million-win-240902/)
 * [2024-09-02, 10:47:18](https://news.ycombinator.com/item?id=41424283) - [How to be better at making decisions](https://mxstbr.com/notes/decision-making)
@@ -14,6 +15,7 @@
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-02, 07:01:34](https://news.ycombinator.com/item?id=41423231) - [Numbers Go Up](https://lethain.com/numbers-go-up/)
 * [2024-09-02, 07:00:49](https://news.ycombinator.com/item?id=41423227) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
+* [2024-09-02, 06:10:48](https://news.ycombinator.com/item?id=41423009) - [A Specialized UI Multimodal Model](https://motiff.com/blog/mllm-by-motiff)
 * [2024-09-02, 05:29:30](https://news.ycombinator.com/item?id=41422849) - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
 * [2024-09-02, 05:16:13](https://news.ycombinator.com/item?id=41422796) - [Cosy Computing](https://www.datagubbe.se/cosy/)
 * [2024-09-02, 04:23:36](https://news.ycombinator.com/item?id=41422559) - [We can now watch Grace Hopper's famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
