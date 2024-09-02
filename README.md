@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
-* [2024-09-02, 10:47:18](https://news.ycombinator.com/item?id=41424283) - [How to be better at making decisions](https://mxstbr.com/notes/decision-making)
+* [2024-09-02, 11:05:44](https://news.ycombinator.com/item?id=41424359) - [Court Denies Cheat Seller AimJunkies a New Trial, Affirms Bungie's $4.3M Win](https://torrentfreak.com/court-denies-cheat-seller-aimjunkies-a-new-trial-affirms-bungies-4-3-million-win-240902/)
 * [2024-09-02, 09:14:41](https://news.ycombinator.com/item?id=41423850) - [Unlock Articles with Paywallskip](https://www.paywallskip.com/)
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)

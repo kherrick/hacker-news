@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
+* [2024-09-02, 11:05:44](https://news.ycombinator.com/item?id=41424359) - [Court Denies Cheat Seller AimJunkies a New Trial, Affirms Bungie's $4.3M Win](https://torrentfreak.com/court-denies-cheat-seller-aimjunkies-a-new-trial-affirms-bungies-4-3-million-win-240902/)
 * [2024-09-02, 10:47:18](https://news.ycombinator.com/item?id=41424283) - [How to be better at making decisions](https://mxstbr.com/notes/decision-making)
 * [2024-09-02, 09:46:20](https://news.ycombinator.com/item?id=41424016) - [In Leak, Facebook Partner Brags About Listening to Your Phone's Microphone to S](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 * [2024-09-02, 09:14:41](https://news.ycombinator.com/item?id=41423850) - [Unlock Articles with Paywallskip](https://www.paywallskip.com/)
