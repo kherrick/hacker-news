@@ -13,6 +13,7 @@
 * [2024-09-02, 13:59:20](https://news.ycombinator.com/item?id=41425438) - [A 30-hour workweek in America? It nearly became law](https://www.washingtonpost.com/history/2024/09/02/30-hour-workweek-fdr-labor-day/)
 * [2024-09-02, 13:51:37](https://news.ycombinator.com/item?id=41425383) - [They don't make 'em like that any more: the 3.5mm headphone jack socket](https://kevinboone.me/headphonejack.html)
 * [2024-09-02, 13:40:34](https://news.ycombinator.com/item?id=41425307) - [He Emptied an Entire Crypto Exchange onto a Thumb Drive. Then He Disappeared](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)
+* [2024-09-02, 13:34:53](https://news.ycombinator.com/item?id=41425276) - [NIH cancels 'Havana syndrome' research, unethical coercion of participants](https://www.cnn.com/2024/08/30/health/nih-havana-syndrome-study/index.html)
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2024-09-02, 13:27:04](https://news.ycombinator.com/item?id=41425223) - [How many attempts (businesses) did you make until you reach $5000/month profit?](https://news.ycombinator.com/item?id=41425223)
 * [2024-09-02, 13:19:29](https://news.ycombinator.com/item?id=41425173) - [We must break tech monopolies before they break us](https://thenextweb.com/news/break-tech-monopolies-before-break-us)

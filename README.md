@@ -4,6 +4,7 @@
 * [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences – even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 * [2024-09-02, 14:00:58](https://news.ycombinator.com/item?id=41425446) - [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
 * [2024-09-02, 13:40:34](https://news.ycombinator.com/item?id=41425307) - [He Emptied an Entire Crypto Exchange onto a Thumb Drive. Then He Disappeared](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)
+* [2024-09-02, 13:34:53](https://news.ycombinator.com/item?id=41425276) - [NIH cancels 'Havana syndrome' research, unethical coercion of participants](https://www.cnn.com/2024/08/30/health/nih-havana-syndrome-study/index.html)
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
@@ -21,7 +22,7 @@
 * [2024-09-01, 16:06:13](https://news.ycombinator.com/item?id=41417997) - [Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
 * [2024-09-01, 15:17:07](https://news.ycombinator.com/item?id=41417659) - [Ask HN: How to store and share passwords in a company?](https://news.ycombinator.com/item?id=41417659)
 * [2024-09-01, 14:30:52](https://news.ycombinator.com/item?id=41417263) - [Show HN: Bin-graph: Visualize binary files](https://github.com/8dcc/bin-graph)
-* [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
+* [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
 * [2024-09-01, 10:10:43](https://news.ycombinator.com/item?id=41415650) - [Beyond the Brew: The Medicinal Power of Hops](https://worldsensorium.com/beyond-the-brew-the-medicinal-power-of-hops/)
 * [2024-09-01, 07:35:23](https://news.ycombinator.com/item?id=41415023) - [Founder Mode](https://paulgraham.com/foundermode.html)
 * [2024-08-30, 15:29:46](https://news.ycombinator.com/item?id=41401664) - [The vagus nerve orchestrates the mind-body connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
@@ -29,7 +30,6 @@
 * [2024-08-30, 13:42:44](https://news.ycombinator.com/item?id=41400639) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2024-08-30, 13:13:25](https://news.ycombinator.com/item?id=41400380) - [The Mouse Programming Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/)
 * [2024-08-30, 06:08:41](https://news.ycombinator.com/item?id=41398092) - [Programming Zero Knowledge Proofs: From Zero to Hero](https://zkintro.com/articles/programming-zkps-from-zero-to-hero)
-* [2024-08-29, 05:02:13](https://news.ycombinator.com/item?id=41387511) - [The Case for Hypochondria](https://newrepublic.com/article/184239/caroline-crampton-review-case-hypochondria)
 
 ## [Archives](archives/index.md)
 
