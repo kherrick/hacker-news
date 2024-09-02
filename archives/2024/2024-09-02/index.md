@@ -6,6 +6,7 @@
 
 * [2024-09-02, 17:02:00](https://news.ycombinator.com/item?id=41427027) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
 * [2024-09-02, 16:58:40](https://news.ycombinator.com/item?id=41426998) - [Launch HN: Fortress (YC S24) – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
+* [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 * [2024-09-02, 16:49:50](https://news.ycombinator.com/item?id=41426926) - [America's Oldest Board Game Teaches 19th-Century Geography](https://mymodernmet.com/americas-oldest-board-game/)
 * [2024-09-02, 16:23:19](https://news.ycombinator.com/item?id=41426714) - [In the Beginning, There Was Computation](https://nautil.us/in-the-beginning-there-was-computation-787023/)
 * [2024-09-02, 16:03:50](https://news.ycombinator.com/item?id=41426574) - [Maryland Health Secretary halted ketogenic diet study for treating schizophrenia](https://twitter.com/ChrisPalmerMD/status/1807883172454998272)

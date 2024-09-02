@@ -2,6 +2,7 @@
 
 * [2024-09-02, 17:02:00](https://news.ycombinator.com/item?id=41427027) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
 * [2024-09-02, 16:58:40](https://news.ycombinator.com/item?id=41426998) - [Launch HN: Fortress (YC S24) – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
+* [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 * [2024-09-02, 16:49:50](https://news.ycombinator.com/item?id=41426926) - [America's Oldest Board Game Teaches 19th-Century Geography](https://mymodernmet.com/americas-oldest-board-game/)
 * [2024-09-02, 16:23:19](https://news.ycombinator.com/item?id=41426714) - [In the Beginning, There Was Computation](https://nautil.us/in-the-beginning-there-was-computation-787023/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
@@ -17,7 +18,6 @@
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
-* [2024-09-02, 03:34:25](https://news.ycombinator.com/item?id=41422378) - ['Amazing' Viking-age treasure travelled half the world to Scotland](https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds)
 * [2024-09-02, 03:13:08](https://news.ycombinator.com/item?id=41422311) - [1M Users](https://blog.spacehey.com/entry?id=1245177)
 * [2024-09-02, 03:04:36](https://news.ycombinator.com/item?id=41422283) - [Parsing Awk Is Tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
 * [2024-09-02, 02:25:19](https://news.ycombinator.com/item?id=41422126) - [Japan’s Temple-Builder Kongō Gumi, Has Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
