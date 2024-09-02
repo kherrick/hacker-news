@@ -2,6 +2,7 @@
 
 * [2024-09-02, 22:19:28](https://news.ycombinator.com/item?id=41429245) - [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
 * [2024-09-02, 21:30:12](https://news.ycombinator.com/item?id=41428952) - [I hate Stripe, so I'm going to build my own payment processor](https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/)
+* [2024-09-02, 21:07:33](https://news.ycombinator.com/item?id=41428834) - [Heartbroken by the Sonos App Disaster and What's Happened to the Company](https://old.reddit.com/r/sonos/comments/1f79vk6/former_sonos_engineer_here_heartbroken_by_the_app/)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 * [2024-09-02, 20:18:21](https://news.ycombinator.com/item?id=41428478) - [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
 * [2024-09-02, 20:05:42](https://news.ycombinator.com/item?id=41428373) - [Mother's gut microbiome during pregnancy shapes baby's brain development](https://medicalxpress.com/news/2024-08-mother-gut-microbiome-pregnancy-baby.html)
@@ -18,7 +19,6 @@
 * [2024-09-02, 16:23:19](https://news.ycombinator.com/item?id=41426714) - [In the beginning, there was computation](https://nautil.us/in-the-beginning-there-was-computation-787023/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 15:00:05](https://news.ycombinator.com/item?id=41425908) - [Ask HN: Who wants to be hired? (September 2024)](https://news.ycombinator.com/item?id=41425908)
-* [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
 * [2024-09-02, 14:30:01](https://news.ycombinator.com/item?id=41425646) - [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
 * [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences, even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 * [2024-09-02, 14:00:58](https://news.ycombinator.com/item?id=41425446) - [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
