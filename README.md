@@ -23,11 +23,11 @@
 * [2024-09-01, 08:42:35](https://news.ycombinator.com/item?id=41415286) - [Random Values in Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
 * [2024-09-01, 07:35:23](https://news.ycombinator.com/item?id=41415023) - [Founder Mode](https://paulgraham.com/foundermode.html)
 * [2024-08-31, 21:45:59](https://news.ycombinator.com/item?id=41412256) - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+* [2024-08-31, 14:33:58](https://news.ycombinator.com/item?id=41409157) - [An Ottoman Winter in Toulon](https://www.historytoday.com/archive/history-matters/ottoman-winter-toulon)
 * [2024-08-30, 21:00:04](https://news.ycombinator.com/item?id=41404383) - [Lady tasting tea](https://en.wikipedia.org/wiki/Lady_tasting_tea)
 * [2024-08-30, 15:29:46](https://news.ycombinator.com/item?id=41401664) - [The vagus nerve orchestrates the mind-body connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
 * [2024-08-30, 13:42:44](https://news.ycombinator.com/item?id=41400639) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2024-08-30, 06:08:41](https://news.ycombinator.com/item?id=41398092) - [Programming Zero Knowledge Proofs: From Zero to Hero](https://zkintro.com/articles/programming-zkps-from-zero-to-hero)
-* [2024-08-29, 22:31:36](https://news.ycombinator.com/item?id=41396015) - [Pinot for Low-Latency Offline Table Analytics](https://www.uber.com/blog/pinot-for-low-latency/)
 * [2024-08-29, 08:57:15](https://news.ycombinator.com/item?id=41388750) - [Escaping from Anaconda's Stranglehold on macOS](https://paulromer.net/escaping-from-anaconda/)
 * [2024-08-28, 20:27:04](https://news.ycombinator.com/item?id=41383937) - [Forensic toxicology backdates the use of coca plant in Europe to the early 1600s](https://www.sciencedirect.com/science/article/pii/S0305440324001080)
 
