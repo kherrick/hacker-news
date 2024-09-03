@@ -75,6 +75,7 @@
 * [2024-08-30, 09:54:52](https://news.ycombinator.com/item?id=41399224) - [Low-cost 16 EEG channels cap (hat) for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)
 * [2024-08-30, 09:25:13](https://news.ycombinator.com/item?id=41399047) - [Rubi: Symbolic integrator based on an extensive system of integration rules](https://rulebasedintegration.org/)
 * [2024-08-30, 08:59:07](https://news.ycombinator.com/item?id=41398925) - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
+* [2024-08-30, 08:41:54](https://news.ycombinator.com/item?id=41398833) - [Things my girlfriend and I have argued about](http://www.thingsmygirlfriendandihavearguedabout.com/)
 * [2024-08-30, 08:29:04](https://news.ycombinator.com/item?id=41398780) - [Scpptool – a tool to enforce a memory and data race safe subset of C++](https://github.com/duneroadrunner/scpptool)
 * [2024-08-30, 08:01:13](https://news.ycombinator.com/item?id=41398633) - [Non-Determinism and Overcount on Modern Hardware Performance Counters [pdf]](https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf)
 * [2024-08-30, 08:00:25](https://news.ycombinator.com/item?id=41398629) - [Build Your Own Z80 Computer: Design Guidelines and Application](https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia)
