@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-03, 21:32:51](https://news.ycombinator.com/item?id=41439477) - [Microsoft Says Apple's 30% Fee Makes Xbox Cloud Gaming iOS App 'Impossible'](https://www.macrumors.com/2024/09/03/microsoft-cloud-gaming-ios-app-impossible/)
-* [2024-09-03, 21:02:32](https://news.ycombinator.com/item?id=41439168) - [Oakland Police Are Towing Teslas for Crime Scene Footage](https://www.carscoops.com/2024/09/california-police-might-use-your-teslas-sentry-video-to-solve-nearby-crimes/)
 * [2024-09-03, 21:00:06](https://news.ycombinator.com/item?id=41439148) - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 * [2024-09-03, 20:47:49](https://news.ycombinator.com/item?id=41439041) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
 * [2024-09-03, 20:07:44](https://news.ycombinator.com/item?id=41438672) - [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)
@@ -29,6 +28,7 @@
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-01, 11:34:22](https://news.ycombinator.com/item?id=41416046) - [There's a Place for Everyone](https://www.experimental-history.com/p/theres-a-place-for-everyone)
 * [2024-09-01, 08:19:35](https://news.ycombinator.com/item?id=41415187) - [Show HN: Shehzadi in Peril – My first ever game](https://shehzadi.vercel.app)
+* [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
 * [2024-08-29, 17:58:59](https://news.ycombinator.com/item?id=41393548) - [An Impressive Monument to Christopher Isherwood, Man of Letters (and Lovers)](https://www.nytimes.com/2024/08/25/books/review/christopher-isherwood-inside-out-katherine-bucknell.html)
 
 ## [Archives](archives/index.md)
