@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 15:04:22](https://news.ycombinator.com/item?id=41435656) - [Ask HN: Where are the part-time remote coding jobs?](https://news.ycombinator.com/item?id=41435656)
+* [2024-09-03, 14:51:17](https://news.ycombinator.com/item?id=41435521) - [How to Take Home \"Garbage Bags Full of $20s\"](https://www.hollywoodreporter.com/tv/tv-news/stars-getting-rich-fan-conventions-933062/)
 * [2024-09-03, 14:38:01](https://news.ycombinator.com/item?id=41435409) - [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
 * [2024-09-03, 14:37:01](https://news.ycombinator.com/item?id=41435398) - [Mobile phones not linked to brain cancer, biggest study to date finds](https://www.theguardian.com/science/article/2024/sep/04/mobile-phones-not-linked-to-brain-cancer-biggest-study-to-date-finds)
 * [2024-09-03, 14:05:13](https://news.ycombinator.com/item?id=41435093) - [Transparency is often lacking in datasets used to train large language models](https://news.mit.edu/2024/study-large-language-models-datasets-lack-transparency-0830)
@@ -23,6 +25,7 @@
 * [2024-09-03, 08:14:07](https://news.ycombinator.com/item?id=41432525) - [Hugging Face tackles speech-to-speech](https://github.com/huggingface/speech-to-speech)
 * [2024-09-03, 07:06:11](https://news.ycombinator.com/item?id=41432109) - [Solar will get too cheap to connect to the power grid](https://climate.benjames.io/solar-off-grid/)
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
+* [2024-09-03, 07:00:19](https://news.ycombinator.com/item?id=41432077) - [Dungeon Dash – A super fun command-line RPG game](https://github.com/Faizan711/dungeon-dash/blob/main/README.md)
 * [2024-09-03, 06:49:29](https://news.ycombinator.com/item?id=41432013) - [Graph Language Models](https://aclanthology.org/2024.acl-long.245/)
 * [2024-09-03, 06:37:20](https://news.ycombinator.com/item?id=41431941) - [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
 * [2024-09-03, 06:05:14](https://news.ycombinator.com/item?id=41431758) - [Extremist settlers rapidly seizing West Bank land](https://www.bbc.com/news/articles/c207j6wy332o)
