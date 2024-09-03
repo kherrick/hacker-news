@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-03, 16:27:54](https://news.ycombinator.com/item?id=41436524) - [NAFTA Broke American Politics](https://www.nytimes.com/2024/09/03/magazine/nafta-tarriffs-economy-trump-kamala-harris.html)
 * [2024-09-03, 16:11:31](https://news.ycombinator.com/item?id=41436372) - [How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
 * [2024-09-03, 16:08:52](https://news.ycombinator.com/item?id=41436338) - [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
 * [2024-09-03, 15:54:37](https://news.ycombinator.com/item?id=41436158) - [Chromatone – Visual Music Language](https://chromatone.center/)
@@ -27,6 +26,7 @@
 * [2024-09-02, 17:23:26](https://news.ycombinator.com/item?id=41427185) - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences, even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 * [2024-09-02, 11:33:14](https://news.ycombinator.com/item?id=41424505) - [Jennifer in paradise: the story of the first Photoshopped image (2014)](https://www.theguardian.com/artanddesign/photography-blog/2014/jun/13/photoshop-first-image-jennifer-in-paradise-photography-artefact-knoll-dullaart)
+* [2024-09-02, 11:08:57](https://news.ycombinator.com/item?id=41424373) - [Dawarich: Self-hosted alternative to Google Location History](https://github.com/Freika/dawarich)
 * [2024-09-01, 16:52:20](https://news.ycombinator.com/item?id=41418357) - [Creating invariant floating-point accumulators](https://solidpixel.github.io/creating_invariant_accumulators)
 * [2024-09-01, 15:05:25](https://news.ycombinator.com/item?id=41417538) - [Dickens: The Map](https://londonist.com/london/maps/dickens-the-ultimate-map-history)
 * [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
