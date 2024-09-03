@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-03](index.md)
+
+* [2024-09-03, 00:24:38](https://news.ycombinator.com/item?id=41429960) - [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)

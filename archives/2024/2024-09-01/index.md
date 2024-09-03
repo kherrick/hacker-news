@@ -34,6 +34,7 @@
 * [2024-09-01, 14:26:07](https://news.ycombinator.com/item?id=41417219) - [The Starliner spacecraft has started to emit noises](https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/)
 * [2024-09-01, 14:10:45](https://news.ycombinator.com/item?id=41417109) - [Athletes/musicians pursue fundamentals more rigorously than knowledge workers](https://notes.andymatuschak.org/zBmSSpM1WfFDehxNCBcqSZp?stackedNotes=zMX9Lfuz8sGfDUivWZcyWT)
 * [2024-09-01, 13:57:28](https://news.ycombinator.com/item?id=41417024) - [Vizdom: Diagrams as Code](https://vizdom.dev)
+* [2024-09-01, 13:50:42](https://news.ycombinator.com/item?id=41416971) - [Ask HN: Where do you subscribe to published journal topics?](https://news.ycombinator.com/item?id=41416971)
 * [2024-09-01, 13:36:28](https://news.ycombinator.com/item?id=41416872) - [Starliner crew reports hearing \"sonar like noises\"](https://twitter.com/SpaceBasedFox/status/1830180273130242223)
 * [2024-09-01, 13:31:43](https://news.ycombinator.com/item?id=41416855) - [Huck Finn – One of the Greatest Anti-Racist Books Ever Written](https://medium.com/luminasticity/huck-finn-one-of-the-greatest-anti-racist-books-ever-written-db3f922dea44)
 * [2024-09-01, 13:30:35](https://news.ycombinator.com/item?id=41416845) - [Set Up a $4/Mo Hetzner VM to Skip the Serverless Tax](https://shipixen.com/tutorials/self-host-web-app-on-a-hetzner-virtual-machine)
