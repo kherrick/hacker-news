@@ -24,6 +24,7 @@
 * [2024-09-01, 16:46:07](https://news.ycombinator.com/item?id=41418301) - [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 * [2024-09-01, 16:26:55](https://news.ycombinator.com/item?id=41418153) - ['Closer than people think': Woolly mammoth 'de-extinction' is nearing reality](https://www.livescience.com/animals/extinct-species/closer-than-people-think-woolly-mammoth-de-extinction-is-nearing-reality-and-we-have-no-idea-what-happens-next)
 * [2024-09-01, 16:06:13](https://news.ycombinator.com/item?id=41417997) - [Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
+* [2024-09-01, 15:55:56](https://news.ycombinator.com/item?id=41417918) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
 * [2024-09-01, 15:17:07](https://news.ycombinator.com/item?id=41417659) - [Ask HN: How To: Store and share passwords in a company?](https://news.ycombinator.com/item?id=41417659)
 * [2024-09-01, 15:16:55](https://news.ycombinator.com/item?id=41417657) - [Amazon and Bezos fund's influence over carbon credit market raises alarm](https://www.ft.com/content/388b190d-49b0-4997-af18-1049e911f0b7)
 * [2024-09-01, 15:16:42](https://news.ycombinator.com/item?id=41417653) - [Fasnacht: Basel's \"three most beautiful days\"](https://shoreleave.substack.com/p/in-search-of-circus-europa)

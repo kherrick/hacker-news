@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 14:05:13](https://news.ycombinator.com/item?id=41435093) - [Transparency is often lacking in datasets used to train large language models](https://news.mit.edu/2024/study-large-language-models-datasets-lack-transparency-0830)
 * [2024-09-03, 13:19:33](https://news.ycombinator.com/item?id=41434679) - [Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
 * [2024-09-03, 13:12:51](https://news.ycombinator.com/item?id=41434637) - [Steve Ballmer's incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
 * [2024-09-03, 13:12:44](https://news.ycombinator.com/item?id=41434636) - [Cash alone proves inadequate to solve the problems of the poor](https://www.washingtonpost.com/opinions/2024/09/03/poverty-debt-relief-cash-research/)
