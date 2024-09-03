@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 13:19:33](https://news.ycombinator.com/item?id=41434679) - [Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
+* [2024-09-03, 13:12:51](https://news.ycombinator.com/item?id=41434637) - [Steve Ballmer's incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
 * [2024-09-03, 13:12:44](https://news.ycombinator.com/item?id=41434636) - [Cash alone proves inadequate to solve the problems of the poor](https://www.washingtonpost.com/opinions/2024/09/03/poverty-debt-relief-cash-research/)
 * [2024-09-03, 12:57:19](https://news.ycombinator.com/item?id=41434509) - [IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
 * [2024-09-03, 12:30:06](https://news.ycombinator.com/item?id=41434315) - [Why Bother with Argv[0]?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
