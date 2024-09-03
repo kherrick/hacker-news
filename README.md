@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 01:27:10](https://news.ycombinator.com/item?id=41430310) - [Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition](https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-03, 00:24:38](https://news.ycombinator.com/item?id=41429960) - [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)
 * [2024-09-02, 23:06:49](https://news.ycombinator.com/item?id=41429515) - [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
@@ -26,7 +27,6 @@
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Show HN: Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 12:33:51](https://news.ycombinator.com/item?id=41424898) - [Does anyone integrate with their customers' DB directly?](https://news.ycombinator.com/item?id=41424898)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
-* [2024-09-01, 13:50:42](https://news.ycombinator.com/item?id=41416971) - [Ask HN: Where do you subscribe to published journal topics?](https://news.ycombinator.com/item?id=41416971)
 * [2024-09-01, 12:13:52](https://news.ycombinator.com/item?id=41416327) - [5 Years of InfoSec Focused Homelabbing](https://www.archcloudlabs.com/projects/5-years-of-homelab/)
 * [2024-09-01, 10:45:06](https://news.ycombinator.com/item?id=41415800) - [Creating an up-to-date Distroless Python Image (2022)](https://alexos.dev/2022/07/08/creating-an-up-to-date-distroless-python-image/)
 * [2024-09-01, 08:40:54](https://news.ycombinator.com/item?id=41415280) - [Massachusetts Bodged Transistor Authority](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
