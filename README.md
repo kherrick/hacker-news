@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-03, 21:32:51](https://news.ycombinator.com/item?id=41439477) - [Microsoft Says Apple's 30% Fee Makes Xbox Cloud Gaming iOS App 'Impossible'](https://www.macrumors.com/2024/09/03/microsoft-cloud-gaming-ios-app-impossible/)
 * [2024-09-03, 21:00:06](https://news.ycombinator.com/item?id=41439148) - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 * [2024-09-03, 20:47:49](https://news.ycombinator.com/item?id=41439041) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
 * [2024-09-03, 20:07:44](https://news.ycombinator.com/item?id=41438672) - [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)
@@ -22,6 +21,7 @@
 * [2024-09-03, 12:54:47](https://news.ycombinator.com/item?id=41434500) - [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 * [2024-09-03, 12:52:52](https://news.ycombinator.com/item?id=41434484) - [For those who hear voices, the ‘broken brain’ explanation is harmful](https://aeon.co/essays/how-the-psychiatric-narrative-hinders-those-who-hear-voices)
 * [2024-09-03, 12:30:06](https://news.ycombinator.com/item?id=41434315) - [Why bother with argv[0]?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
+* [2024-09-03, 04:33:36](https://news.ycombinator.com/item?id=41431293) - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
 * [2024-09-03, 02:47:00](https://news.ycombinator.com/item?id=41430772) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
