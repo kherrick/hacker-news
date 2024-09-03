@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-03, 01:17:24",
+      "https://news.ycombinator.com/item?id=41430258"
+    ],
+    [
+      "Is My Blue Your Blue?",
+      "https://ismy.blue/"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 00:24:38",
       "https://news.ycombinator.com/item?id=41429960"
     ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2024-09-02, 20:05:42",
-      "https://news.ycombinator.com/item?id=41428373"
+      "2024-09-02, 19:50:53",
+      "https://news.ycombinator.com/item?id=41428274"
     ],
     [
-      "Mother's gut microbiome during pregnancy shapes baby's brain development",
-      "https://medicalxpress.com/news/2024-08-mother-gut-microbiome-pregnancy-baby.html"
+      "Web scraping with GPT-4o: powerful but expensive",
+      "https://blancas.io/blog/ai-web-scraper/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Owners of 1-Time Passcode Theft Service Plead Guilty",
       "https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 16:23:19",
-      "https://news.ycombinator.com/item?id=41426714"
-    ],
-    [
-      "In the beginning, there was computation",
-      "https://nautil.us/in-the-beginning-there-was-computation-787023/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-09-02, 08:20:46",
-      "https://news.ycombinator.com/item?id=41423577"
-    ],
-    [
-      "Upgrading a Toshiba NAS HDD Firmware on Linux",
-      "https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/"
-    ]
-  ],
-  [
-    [
       "2024-09-01, 13:50:42",
       "https://news.ycombinator.com/item?id=41416971"
     ],
@@ -287,6 +277,16 @@
     [
       "5 Years of InfoSec Focused Homelabbing",
       "https://www.archcloudlabs.com/projects/5-years-of-homelab/"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 10:45:06",
+      "https://news.ycombinator.com/item?id=41415800"
+    ],
+    [
+      "Creating an up-to-date Distroless Python Image (2022)",
+      "https://alexos.dev/2022/07/08/creating-an-up-to-date-distroless-python-image/"
     ]
   ],
   [
