@@ -8,6 +8,7 @@
 * [2024-09-03, 18:49:59](https://news.ycombinator.com/item?id=41437850) - [Zig's Memcpy, CopyForwards and CopyBackwards](https://www.openmymind.net/Zigs-memcpy-copyForwards-and-copyBackwards/)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 * [2024-09-03, 18:37:13](https://news.ycombinator.com/item?id=41437740) - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
+* [2024-09-03, 18:28:37](https://news.ycombinator.com/item?id=41437660) - [Analysing 10 years of 'who is hiring' HN data](https://ritza.co/articles/analysing-10-years-of-who-is-hiring-data/)
 * [2024-09-03, 18:25:27](https://news.ycombinator.com/item?id=41437626) - [Joining the Open Source Pledge](https://blog.val.town/blog/oss/)
 * [2024-09-03, 18:24:05](https://news.ycombinator.com/item?id=41437611) - [Unveiling Mac Security: Comprehensive Exploration of Sandboxing and AppData TCC](https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html)
 * [2024-09-03, 17:23:46](https://news.ycombinator.com/item?id=41437095) - [The Fourier Uncertainty Principles [pdf] (2021)](https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf)
@@ -29,7 +30,6 @@
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-01, 08:19:35](https://news.ycombinator.com/item?id=41415187) - [Show HN: Shehzadi in Peril – My first ever game](https://shehzadi.vercel.app)
 * [2024-08-30, 08:41:54](https://news.ycombinator.com/item?id=41398833) - [Things my girlfriend and I have argued about](http://www.thingsmygirlfriendandihavearguedabout.com/)
-* [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
 
 ## [Archives](archives/index.md)
 

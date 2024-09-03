@@ -13,6 +13,7 @@
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 * [2024-09-03, 18:37:13](https://news.ycombinator.com/item?id=41437740) - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
 * [2024-09-03, 18:35:52](https://news.ycombinator.com/item?id=41437730) - [I was asked to leave an event for female founders because I had my baby with me](https://www.businessinsider.com/asked-leave-event-female-founders-y-combinator-because-baby-2024-9)
+* [2024-09-03, 18:28:37](https://news.ycombinator.com/item?id=41437660) - [Analysing 10 years of 'who is hiring' HN data](https://ritza.co/articles/analysing-10-years-of-who-is-hiring-data/)
 * [2024-09-03, 18:25:27](https://news.ycombinator.com/item?id=41437626) - [Joining the Open Source Pledge](https://blog.val.town/blog/oss/)
 * [2024-09-03, 18:24:05](https://news.ycombinator.com/item?id=41437611) - [Unveiling Mac Security: Comprehensive Exploration of Sandboxing and AppData TCC](https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html)
 * [2024-09-03, 17:39:31](https://news.ycombinator.com/item?id=41437214) - [Google–California Deal Falls Short Where a Data Tax Would Succeed](https://news.bloombergtax.com/tax-insights-and-commentary/google-california-deal-falls-short-where-a-data-tax-would-succeed)
