@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
+* [2024-09-03, 06:37:20](https://news.ycombinator.com/item?id=41431941) - [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
 * [2024-09-03, 06:05:14](https://news.ycombinator.com/item?id=41431758) - [Extremist settlers rapidly seizing West Bank land](https://www.bbc.com/news/articles/c207j6wy332o)
 * [2024-09-03, 04:33:36](https://news.ycombinator.com/item?id=41431293) - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
 * [2024-09-03, 04:23:09](https://news.ycombinator.com/item?id=41431244) - [IPMI](https://computer.rip/2024-08-31-ipmi.html)

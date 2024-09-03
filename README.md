@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
+* [2024-09-03, 06:37:20](https://news.ycombinator.com/item?id=41431941) - [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
 * [2024-09-03, 04:33:36](https://news.ycombinator.com/item?id=41431293) - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
 * [2024-09-03, 04:23:09](https://news.ycombinator.com/item?id=41431244) - [IPMI](https://computer.rip/2024-08-31-ipmi.html)
 * [2024-09-03, 03:02:35](https://news.ycombinator.com/item?id=41430845) - [IANA's List of Domain Name System (DNS) Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml)
@@ -7,7 +9,6 @@
 * [2024-09-03, 01:27:10](https://news.ycombinator.com/item?id=41430310) - [Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition](https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-02, 23:06:49](https://news.ycombinator.com/item?id=41429515) - [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
-* [2024-09-02, 22:16:59](https://news.ycombinator.com/item?id=41429232) - [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 * [2024-09-02, 19:50:53](https://news.ycombinator.com/item?id=41428274) - [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
 * [2024-09-02, 19:08:33](https://news.ycombinator.com/item?id=41427994) - [AI-Implanted False Memories](https://www.media.mit.edu/projects/ai-false-memories/overview/)
@@ -26,7 +27,6 @@
 * [2024-09-02, 11:08:57](https://news.ycombinator.com/item?id=41424373) - [Dawarich: Self-hosted alternative to Google Location History](https://github.com/Freika/dawarich)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
 * [2024-09-01, 12:13:52](https://news.ycombinator.com/item?id=41416327) - [5 Years of InfoSec Focused Homelabbing](https://www.archcloudlabs.com/projects/5-years-of-homelab/)
-* [2024-09-01, 10:45:06](https://news.ycombinator.com/item?id=41415800) - [Creating an up-to-date Distroless Python Image (2022)](https://alexos.dev/2022/07/08/creating-an-up-to-date-distroless-python-image/)
 * [2024-09-01, 08:40:54](https://news.ycombinator.com/item?id=41415280) - [Massachusetts Bodged Transistor Authority](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
 * [2024-09-01, 08:23:13](https://news.ycombinator.com/item?id=41415207) - [Strange Attractors](https://www.dynamicmath.xyz/strange-attractors/)
 * [2024-08-30, 18:27:43](https://news.ycombinator.com/item?id=41403289) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
