@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-03, 08:15:28](https://news.ycombinator.com/item?id=41432536) - [Amazon is trying to trick me into signing up for Prime services](https://www.theguardian.com/money/article/2024/sep/02/amazon-is-trying-to-trick-me-into-signing-up-for-prime-services)
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
 * [2024-09-03, 06:37:20](https://news.ycombinator.com/item?id=41431941) - [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
 * [2024-09-03, 04:41:46](https://news.ycombinator.com/item?id=41431332) - [Canva Hikes Pices by 300pc as It Readies for IPO](https://ia.acs.org.au/article/2024/canva-hikes-prices-by-300pc-as-it-readies-for-ipo.html)
@@ -8,14 +7,15 @@
 * [2024-09-03, 04:23:09](https://news.ycombinator.com/item?id=41431244) - [IPMI](https://computer.rip/2024-08-31-ipmi.html)
 * [2024-09-03, 04:11:16](https://news.ycombinator.com/item?id=41431177) - [Wizardry Co-Creator Andrew Greenberg Has Passed Away](https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away)
 * [2024-09-03, 02:47:00](https://news.ycombinator.com/item?id=41430772) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+* [2024-09-03, 02:04:00](https://news.ycombinator.com/item?id=41430525) - [The Yubikey Is the Digital Seatbelt We Need](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
 * [2024-09-03, 01:27:10](https://news.ycombinator.com/item?id=41430310) - [Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition](https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-02, 23:06:49](https://news.ycombinator.com/item?id=41429515) - [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 * [2024-09-02, 19:50:53](https://news.ycombinator.com/item?id=41428274) - [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
+* [2024-09-02, 19:08:33](https://news.ycombinator.com/item?id=41427994) - [AI-Implanted False Memories](https://www.media.mit.edu/projects/ai-false-memories/overview/)
 * [2024-09-02, 18:10:20](https://news.ycombinator.com/item?id=41427563) - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
 * [2024-09-02, 17:23:26](https://news.ycombinator.com/item?id=41427185) - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
-* [2024-09-02, 17:02:00](https://news.ycombinator.com/item?id=41427027) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
 * [2024-09-02, 16:58:40](https://news.ycombinator.com/item?id=41426998) - [Launch HN: Fortress (YC S24) – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
 * [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
@@ -29,7 +29,7 @@
 * [2024-09-01, 15:06:44](https://news.ycombinator.com/item?id=41417556) - [Show HN: Tmwuc – print() debugging for any environment](https://tmwuc.gushogg-blake.com/)
 * [2024-09-01, 08:23:13](https://news.ycombinator.com/item?id=41415207) - [Strange Attractors](https://www.dynamicmath.xyz/strange-attractors/)
 * [2024-08-30, 18:27:43](https://news.ycombinator.com/item?id=41403289) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
-* [2024-08-30, 05:50:39](https://news.ycombinator.com/item?id=41398008) - [The Asteroid-in-Spring Hypothesis](https://nymag.com/intelligencer/article/tanis-site-controversy-paleontology-fossils-during-depalma.html)
+* [2024-08-30, 11:55:10](https://news.ycombinator.com/item?id=41399807) - [Seafaring for Women in Software Engineering – Part I – Performance and Promotion](https://beabytes.com/seafaring-part-i/)
 
 ## [Archives](archives/index.md)
 
