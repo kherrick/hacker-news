@@ -26,7 +26,7 @@
 * [2024-09-02, 11:33:14](https://news.ycombinator.com/item?id=41424505) - [Jennifer in paradise: the story of the first Photoshopped image (2014)](https://www.theguardian.com/artanddesign/photography-blog/2014/jun/13/photoshop-first-image-jennifer-in-paradise-photography-artefact-knoll-dullaart)
 * [2024-09-02, 11:08:57](https://news.ycombinator.com/item?id=41424373) - [Dawarich: Self-hosted alternative to Google Location History](https://github.com/Freika/dawarich)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
-* [2024-09-01, 12:13:52](https://news.ycombinator.com/item?id=41416327) - [5 Years of InfoSec Focused Homelabbing](https://www.archcloudlabs.com/projects/5-years-of-homelab/)
+* [2024-09-01, 15:06:44](https://news.ycombinator.com/item?id=41417556) - [Show HN: Tmwuc – print() debugging for any environment](https://tmwuc.gushogg-blake.com/)
 * [2024-09-01, 08:40:54](https://news.ycombinator.com/item?id=41415280) - [Massachusetts Bodged Transistor Authority](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
 * [2024-09-01, 08:23:13](https://news.ycombinator.com/item?id=41415207) - [Strange Attractors](https://www.dynamicmath.xyz/strange-attractors/)
 * [2024-08-30, 18:27:43](https://news.ycombinator.com/item?id=41403289) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
