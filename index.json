@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-03, 17:39:31",
-      "https://news.ycombinator.com/item?id=41437214"
+      "2024-09-03, 17:23:46",
+      "https://news.ycombinator.com/item?id=41437095"
     ],
     [
-      "Google–California Deal Falls Short Where a Data Tax Would Succeed",
-      "https://news.bloombergtax.com/tax-insights-and-commentary/google-california-deal-falls-short-where-a-data-tax-would-succeed"
+      "The Fourier Uncertainty Principles [pdf] (2021)",
+      "https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf"
     ]
   ],
   [
@@ -111,6 +111,26 @@
   ],
   [
     [
+      "2024-09-03, 12:54:47",
+      "https://news.ycombinator.com/item?id=41434500"
+    ],
+    [
+      "EUCLEAK Side-Channel Attack on the YubiKey 5 Series",
+      "https://ninjalab.io/eucleak/"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 12:52:52",
+      "https://news.ycombinator.com/item?id=41434484"
+    ],
+    [
+      "For those who hear voices, the ‘broken brain’ explanation is harmful",
+      "https://aeon.co/essays/how-the-psychiatric-narrative-hinders-those-who-hear-voices"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 12:30:06",
       "https://news.ycombinator.com/item?id=41434315"
     ],
@@ -127,16 +147,6 @@
     [
       "Graph Language Models",
       "https://aclanthology.org/2024.acl-long.245/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 05:26:08",
-      "https://news.ycombinator.com/item?id=41431560"
-    ],
-    [
-      "Smaller, Weaker, yet Better: Training LLM Reasoners via Compute-Optimal Sampling",
-      "https://arxiv.org/abs/2408.16737"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-09-02, 18:10:20",
-      "https://news.ycombinator.com/item?id=41427563"
-    ],
-    [
-      "Show HN: A modern way to type in African languages",
-      "https://github.com/pythonbrad/afrim"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 17:23:26",
       "https://news.ycombinator.com/item?id=41427185"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-09-01, 16:52:20",
-      "https://news.ycombinator.com/item?id=41418357"
-    ],
-    [
-      "Creating invariant floating-point accumulators",
-      "https://solidpixel.github.io/creating_invariant_accumulators"
-    ]
-  ],
-  [
-    [
       "2024-09-01, 15:05:25",
       "https://news.ycombinator.com/item?id=41417538"
     ],
     [
       "Dickens: The Map",
       "https://londonist.com/london/maps/dickens-the-ultimate-map-history"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 08:19:35",
+      "https://news.ycombinator.com/item?id=41415187"
+    ],
+    [
+      "Show HN: Shehzadi in Peril – My first ever game",
+      "https://shehzadi.vercel.app"
     ]
   ],
   [
