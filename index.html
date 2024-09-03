@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41436524">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nytimes.com/2024/09/03/magazine/nafta-tarriffs-economy-trump-kamala-harris.html"
+              >NAFTA Broke American Politics</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-03 @ 16:27:54</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41436524"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41436372">
           <h3>
             <a
@@ -142,13 +163,122 @@
             <h4>
               <span>2024-09-03 @ 16:11:31</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41436372"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41436338">
+          <h3>
+            <a class="item" href="https://repaint.com"
+              >Show HN: Repaint – a WebGL based website builder</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-03 @ 16:08:52</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41436338"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It has panning, zooming, and dragging elements around. The
+                settings closely follow html/css. We think an open canvas is a
+                big improvement over other website builders. Everything is
+                easier: styling, consistency, responsiveness…
+              </p>
+              <p>
+                But making it work was hard! We thought HN would appreciate the
+                tech behind it: - A custom WebGL rendering engine (w/text,
+                shadows, blurs, gradients, &amp; opacity groups) - A partial
+                implementation of the css spec - A custom text editor &amp; text
+                shaper - A transformer to turn designs into publishable html/css
+              </p>
+              <p>
+                Repaint is a design tool for html/css. But internally, it
+                doesn’t actually use html/css itself. All your designs live in a
+                single &lt;canvas&gt; element.
+              </p>
+              <p>
+                We wanted users to be able to see all their content on one
+                screen. We target +60fps, so frames only have 16ms to render.
+                The browser’s layout engine couldn’t handle simple actions, like
+                zooming, with many thousands of nodes on the screen. To fix
+                that, we wrote a rendering engine in WebGL.
+              </p>
+              <p>
+                Since we use custom rendering, we had to create a lot of
+                built-in browser behavior ourselves.
+              </p>
+              <p>
+                Users modify a large dom-like data-structure in our editor. Each
+                node in the document has a set of css-like styles. We created a
+                layout engine that turns this document into a list of positions
+                and sizes. We feed these values into the rendering engine. Our
+                layout engine lets us display proper html layouts without using
+                the browser's layout engine. We support both flex and block
+                layouts. We already support multiple layout units and properties
+                (px, %, mins, maxes, etc.).
+              </p>
+              <p>
+                We also can’t use the browser’s built-in text editor, so we made
+                one ourselves. We implemented all the common text editor
+                features regarding selection and content editing (clicking,
+                selection, hotkeys, inline styling, etc.). The state consists of
+                content and selection. The inputs are keystrokes, clicks, and
+                style changes. The updated state is used to render text,
+                selection boxes, and the cursor.
+              </p>
+              <p>
+                When you publish a website, we turn our internal document into
+                an html document. We've intentionally structured our document to
+                feel similar to a dom tree. Each node has a 1:1 mapping with an
+                html element. Nodes have a list of breakpoints which represent
+                media-queries. We apply the styles by turning them into
+                selectors. All of the html pages are saved and stored on our
+                fileserver for hosting.
+              </p>
+              <p>
+                We made a playground for HN, so you can try it yourself. Now
+                that the tech works, we’d love feedback and ideas for improving
+                the product experience.
+              </p>
+              <p>
+                And we’d love to meet more builders interested in the space. If
+                that’s you, feel free to say hello in the comments! Or you can
+                reach Ben from his website.
+              </p>
+              <p>
+                Playground:
+                <a href="https://app.repaint.com/playground"
+                  >https://app.repaint.com/playground</a
+                >
+              </p>
+              <p>
+                Demo Vid:
+                <a
+                  href="https://www.loom.com/share/03ee81317c224189bfa202d3eacfa3c3?sid=094a4888-5ca7-4c4f-ba57-bb24cffe169c"
+                  >https://www.loom.com/share/03ee81317c224189bfa202d3eacfa3c3?...</a
+                >
+              </p>
+              <p>
+                Main Website:
+                <a href="https://repaint.com/">https://repaint.com/</a>
+              </p>
+              <p>
+                Contact:
+                <a href="https://benshumaker.xyz/">https://benshumaker.xyz/</a>
+              </p>
+            </div>
           </section>
         </section>
         <section id="41436158">
@@ -161,11 +291,32 @@
             <h4>
               <span>2024-09-03 @ 15:54:37</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41436158"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41436133">
+          <h3>
+            <a
+              class="item"
+              href="https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/"
+              >Sextortion Scams Now Include Photos of Your Home</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-03 @ 15:51:16</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41436133"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -183,11 +334,11 @@
             <h4>
               <span>2024-09-03 @ 15:06:36</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41435676"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -205,11 +356,11 @@
             <h4>
               <span>2024-09-03 @ 15:03:06</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41435644"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -226,7 +377,7 @@
             <h4>
               <span>2024-09-03 @ 15:02:06</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41435630"
                   >Comments</a
@@ -245,7 +396,7 @@
             <h4>
               <span>2024-09-03 @ 14:38:01</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41435409"
                   >Comments</a
@@ -276,11 +427,11 @@
             <h4>
               <span>2024-09-03 @ 13:19:33</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41434679"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -297,32 +448,11 @@
             <h4>
               <span>2024-09-03 @ 13:12:51</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41434637"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41434613">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wsj.com/business/entrepreneurship/rise-of-the-pint-size-startup-is-reshaping-the-u-s-economy-d0d30d7c"
-              >Rise of the Pint-Size Startup Is Reshaping the U.S. Economy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-03 @ 13:09:18</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41434613"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -339,7 +469,7 @@
             <h4>
               <span>2024-09-03 @ 12:57:19</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41434509"
                   >Comments</a
@@ -360,11 +490,11 @@
             <h4>
               <span>2024-09-03 @ 12:30:06</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41434315"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -396,7 +526,7 @@
             <h4>
               <span>2024-09-03 @ 06:49:29</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41432013"
                   >Comments</a
@@ -416,7 +546,7 @@
             <h4>
               <span>2024-09-03 @ 05:26:08</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41431560"
                   >Comments</a
@@ -456,11 +586,11 @@
             <h4>
               <span>2024-09-03 @ 04:23:09</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41431244"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -477,7 +607,7 @@
             <h4>
               <span>2024-09-03 @ 04:11:16</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41431177"
                   >Comments</a
@@ -498,11 +628,11 @@
             <h4>
               <span>2024-09-03 @ 02:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">818</span></span
+                >Points: <span class="points">822</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41430772"
                   >Comments</a
-                ><span class="descendants">: 442</span></span
+                ><span class="descendants">: 443</span></span
               >
             </h4>
           </section>
@@ -515,11 +645,11 @@
             <h4>
               <span>2024-09-03 @ 01:17:24</span
               ><span class="points-container"
-                >Points: <span class="points">959</span></span
+                >Points: <span class="points">970</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41430258"
                   >Comments</a
-                ><span class="descendants">: 398</span></span
+                ><span class="descendants">: 403</span></span
               >
             </h4>
           </section>
@@ -536,7 +666,7 @@
             <h4>
               <span>2024-09-02 @ 20:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">574</span></span
+                >Points: <span class="points">575</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41428705"
                   >Comments</a
@@ -555,11 +685,11 @@
             <h4>
               <span>2024-09-02 @ 19:50:53</span
               ><span class="points-container"
-                >Points: <span class="points">290</span></span
+                >Points: <span class="points">292</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41428274"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -574,7 +704,7 @@
             <h4>
               <span>2024-09-02 @ 18:10:20</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41427563"
                   >Comments</a
@@ -639,77 +769,13 @@
             <h4>
               <span>2024-09-02 @ 17:23:26</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">311</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41427185"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41425910">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=41425910"
-              >Ask HN: Who is hiring? (September 2024)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-02 @ 15:00:06</span
-              ><span class="points-container"
-                >Points: <span class="points">289</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41425910"
-                  >Comments</a
-                ><span class="descendants">: 253</span></span
-              >
-            </h4>
-            <div class="text">
-              <i>not</i> an option.
-              <p>
-                Please only post if you personally are part of the hiring
-                company—no recruiting firms or job boards. One post per company.
-                If it isn't a household name, explain what your company does.
-              </p>
-              <p>
-                Commenters: please don't reply to job posts to complain about
-                something. It's off topic here.
-              </p>
-              <p>
-                Readers: please only email if you are personally interested in
-                the job.
-              </p>
-              <p>
-                Searchers: try
-                <a href="http://nchelluri.github.io/hnjobs/"
-                  >http://nchelluri.github.io/hnjobs/</a
-                >,
-                <a href="https://hnresumetojobs.com"
-                  >https://hnresumetojobs.com</a
-                >,
-                <a href="https://hnhired.fly.dev">https://hnhired.fly.dev</a>,
-                <a href="https://kennytilton.github.io/whoishiring/"
-                  >https://kennytilton.github.io/whoishiring/</a
-                >,
-                <a href="https://hnjobs.emilburzo.com"
-                  >https://hnjobs.emilburzo.com</a
-                >.
-              </p>
-              <p>Don't miss these other fine threads:</p>
-              <p>
-                <i>Who wants to be hired?</i>
-                <a href="https://news.ycombinator.com/item?id=41425908"
-                  >https://news.ycombinator.com/item?id=41425908</a
-                >
-              </p>
-              <p>
-                <i>Freelancer? Seeking freelancer?</i>
-                <a href="https://news.ycombinator.com/item?id=41425909"
-                  >https://news.ycombinator.com/item?id=41425909</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="41425563">
@@ -725,7 +791,7 @@
             <h4>
               <span>2024-09-02 @ 14:17:08</span
               ><span class="points-container"
-                >Points: <span class="points">378</span></span
+                >Points: <span class="points">379</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41425563"
                   >Comments</a
@@ -747,30 +813,11 @@
             <h4>
               <span>2024-09-02 @ 11:33:14</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41424505"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41424373">
-          <h3>
-            <a class="item" href="https://github.com/Freika/dawarich"
-              >Dawarich: Self-hosted alternative to Google Location History</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-02 @ 11:08:57</span
-              ><span class="points-container"
-                >Points: <span class="points">128</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41424373"
-                  >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -829,7 +876,7 @@
             <h4>
               <span>2024-08-30 @ 05:15:06</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41397901"
                   >Comments</a
