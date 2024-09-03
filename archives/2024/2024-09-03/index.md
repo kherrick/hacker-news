@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 21:32:51](https://news.ycombinator.com/item?id=41439477) - [Microsoft Says Apple's 30% Fee Makes Xbox Cloud Gaming iOS App 'Impossible'](https://www.macrumors.com/2024/09/03/microsoft-cloud-gaming-ios-app-impossible/)
 * [2024-09-03, 21:02:32](https://news.ycombinator.com/item?id=41439168) - [Oakland Police Are Towing Teslas for Crime Scene Footage](https://www.carscoops.com/2024/09/california-police-might-use-your-teslas-sentry-video-to-solve-nearby-crimes/)
 * [2024-09-03, 21:00:06](https://news.ycombinator.com/item?id=41439148) - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 * [2024-09-03, 20:47:49](https://news.ycombinator.com/item?id=41439041) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
