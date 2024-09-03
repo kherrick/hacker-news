@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 17:15:29](https://news.ycombinator.com/item?id=41437011) - [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
 * [2024-09-03, 17:00:02](https://news.ycombinator.com/item?id=41436843) - [Formance (YC S21) Is Hiring a Technical Writer](https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer)
 * [2024-09-03, 16:40:51](https://news.ycombinator.com/item?id=41436642) - [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
 * [2024-09-03, 16:11:31](https://news.ycombinator.com/item?id=41436372) - [How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
 * [2024-09-03, 16:08:52](https://news.ycombinator.com/item?id=41436338) - [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
 * [2024-09-03, 15:54:37](https://news.ycombinator.com/item?id=41436158) - [Chromatone – Visual Music Language](https://chromatone.center/)
-* [2024-09-03, 15:15:16](https://news.ycombinator.com/item?id=41435760) - [NaNoWriMo is in disarray after organizers defend AI writing tools](https://www.theverge.com/2024/9/3/24234811/nanowrimo-ai-stance-classist-ableist-criticism)
 * [2024-09-03, 15:06:36](https://news.ycombinator.com/item?id=41435676) - [A photographer captures life in America's last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
 * [2024-09-03, 14:38:01](https://news.ycombinator.com/item?id=41435409) - [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
 * [2024-09-03, 13:19:33](https://news.ycombinator.com/item?id=41434679) - [Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
