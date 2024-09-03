@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 * [2024-09-03, 18:37:13](https://news.ycombinator.com/item?id=41437740) - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
-* [2024-09-03, 18:35:52](https://news.ycombinator.com/item?id=41437730) - [I was asked to leave an event for female founders because I had my baby with me](https://www.businessinsider.com/asked-leave-event-female-founders-y-combinator-because-baby-2024-9)
 * [2024-09-03, 18:24:05](https://news.ycombinator.com/item?id=41437611) - [Unveiling Mac Security: Comprehensive Exploration of Sandboxing and AppData TCC](https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html)
 * [2024-09-03, 17:23:46](https://news.ycombinator.com/item?id=41437095) - [The Fourier Uncertainty Principles [pdf] (2021)](https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf)
 * [2024-09-03, 17:00:02](https://news.ycombinator.com/item?id=41436843) - [Formance (YC S21) Is Hiring a Technical Writer](https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer)
