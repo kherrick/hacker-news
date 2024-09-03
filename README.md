@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 03:02:35](https://news.ycombinator.com/item?id=41430845) - [IANA's List of Domain Name System (DNS) Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml)
+* [2024-09-03, 02:47:00](https://news.ycombinator.com/item?id=41430772) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 02:42:15](https://news.ycombinator.com/item?id=41430757) - [Microsoft's 'Recall' feature can't be uninstalled after all](https://mashable.com/article/microsoft-recall-feature-cant-be-uninstalled)
 * [2024-09-03, 01:27:10](https://news.ycombinator.com/item?id=41430310) - [Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition](https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
@@ -9,8 +11,6 @@
 * [2024-09-02, 22:03:30](https://news.ycombinator.com/item?id=41429156) - [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 * [2024-09-02, 19:50:53](https://news.ycombinator.com/item?id=41428274) - [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
-* [2024-09-02, 19:39:42](https://news.ycombinator.com/item?id=41428206) - [Big Tech Sees Like a State (2020)](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
-* [2024-09-02, 19:10:12](https://news.ycombinator.com/item?id=41428014) - [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
 * [2024-09-02, 19:08:33](https://news.ycombinator.com/item?id=41427994) - [AI-Implanted False Memories](https://www.media.mit.edu/projects/ai-false-memories/overview/)
 * [2024-09-02, 18:10:20](https://news.ycombinator.com/item?id=41427563) - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
 * [2024-09-02, 17:23:26](https://news.ycombinator.com/item?id=41427185) - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
