@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 15:11:36](https://news.ycombinator.com/item?id=41435721) - [Show HN: AppFlowy – An Open-Source Notion Alternative Built with Flutter](https://github.com/AppFlowy-IO/AppFlowy)
+* [2024-09-03, 15:06:36](https://news.ycombinator.com/item?id=41435676) - [A photographer captures life in America's last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
 * [2024-09-03, 15:04:22](https://news.ycombinator.com/item?id=41435656) - [Ask HN: Where are the part-time remote coding jobs?](https://news.ycombinator.com/item?id=41435656)
 * [2024-09-03, 14:51:17](https://news.ycombinator.com/item?id=41435521) - [How to Take Home \"Garbage Bags Full of $20s\"](https://www.hollywoodreporter.com/tv/tv-news/stars-getting-rich-fan-conventions-933062/)
 * [2024-09-03, 14:38:01](https://news.ycombinator.com/item?id=41435409) - [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
