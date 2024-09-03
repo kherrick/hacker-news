@@ -11,6 +11,7 @@
 * [2024-09-03, 18:53:57](https://news.ycombinator.com/item?id=41437906) - [Some Advice for How to Make Emacs Tetris Harder (2019)](https://nickdrozd.github.io/2019/01/14/tetris.html)
 * [2024-09-03, 18:49:59](https://news.ycombinator.com/item?id=41437850) - [Zig's Memcpy, CopyForwards and CopyBackwards](https://www.openmymind.net/Zigs-memcpy-copyForwards-and-copyBackwards/)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
+* [2024-09-03, 18:45:31](https://news.ycombinator.com/item?id=41437807) - [Hot Temperature and High Stakes Performance [pdf]](https://www3.nd.edu/~nmark/Climate/JParkHotTempHighStakes.pdf)
 * [2024-09-03, 18:37:13](https://news.ycombinator.com/item?id=41437740) - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
 * [2024-09-03, 18:35:52](https://news.ycombinator.com/item?id=41437730) - [I was asked to leave an event for female founders because I had my baby with me](https://www.businessinsider.com/asked-leave-event-female-founders-y-combinator-because-baby-2024-9)
 * [2024-09-03, 18:28:37](https://news.ycombinator.com/item?id=41437660) - [Analysing 10 years of 'who is hiring' HN data](https://ritza.co/articles/analysing-10-years-of-who-is-hiring-data/)
