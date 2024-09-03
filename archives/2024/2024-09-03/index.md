@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 18:35:52](https://news.ycombinator.com/item?id=41437730) - [I was asked to leave an event for female founders because I had my baby with me](https://www.businessinsider.com/asked-leave-event-female-founders-y-combinator-because-baby-2024-9)
 * [2024-09-03, 17:39:31](https://news.ycombinator.com/item?id=41437214) - [Google–California Deal Falls Short Where a Data Tax Would Succeed](https://news.bloombergtax.com/tax-insights-and-commentary/google-california-deal-falls-short-where-a-data-tax-would-succeed)
 * [2024-09-03, 17:23:46](https://news.ycombinator.com/item?id=41437095) - [The Fourier Uncertainty Principles [pdf] (2021)](https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf)
 * [2024-09-03, 17:15:29](https://news.ycombinator.com/item?id=41437011) - [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
