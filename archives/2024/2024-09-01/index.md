@@ -46,6 +46,7 @@
 * [2024-09-01, 13:21:27](https://news.ycombinator.com/item?id=41416798) - [AI Has Created a Battle over Web Crawling](https://spectrum.ieee.org/web-crawling)
 * [2024-09-01, 13:14:52](https://news.ycombinator.com/item?id=41416761) - [Have we stopped to think about what LLMs model?](https://www.theregister.com/2024/08/30/ai_language_cognition_research/)
 * [2024-09-01, 13:07:14](https://news.ycombinator.com/item?id=41416714) - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
+* [2024-09-01, 12:58:03](https://news.ycombinator.com/item?id=41416644) - [Show HN: Ten AI demo apps to build your next AI project faster](https://nextjsaitemplates.com)
 * [2024-09-01, 12:41:01](https://news.ycombinator.com/item?id=41416523) - [Rediscovering Turbo Pascal](https://journal.paoloamoroso.com/rediscovering-turbo-pascal)
 * [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 12:13:52](https://news.ycombinator.com/item?id=41416327) - [5 Years of InfoSec Focused Homelabbing](https://www.archcloudlabs.com/projects/5-years-of-homelab/)
