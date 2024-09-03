@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 17:39:31](https://news.ycombinator.com/item?id=41437214) - [Google–California Deal Falls Short Where a Data Tax Would Succeed](https://news.bloombergtax.com/tax-insights-and-commentary/google-california-deal-falls-short-where-a-data-tax-would-succeed)
 * [2024-09-03, 17:15:29](https://news.ycombinator.com/item?id=41437011) - [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
 * [2024-09-03, 17:00:02](https://news.ycombinator.com/item?id=41436843) - [Formance (YC S21) Is Hiring a Technical Writer](https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer)
 * [2024-09-03, 16:40:51](https://news.ycombinator.com/item?id=41436642) - [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
