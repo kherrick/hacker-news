@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-09-03, 11:14:33",
-      "https://news.ycombinator.com/item?id=41433673"
-    ],
-    [
-      "Europeans fail to understand how much they were fucked by the 2008 crisis",
-      "https://twitter.com/RnaudBertrand/status/1830816765611590043"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 10:21:41",
-      "https://news.ycombinator.com/item?id=41433316"
-    ],
-    [
-      "AI worse than humans in every way at summarising information, trial finds",
-      "https://www.crikey.com.au/2024/09/03/ai-worse-summarising-information-humans-government-trial/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 09:39:27",
       "https://news.ycombinator.com/item?id=41433075"
     ],
     [
       "Getting price-gouged by private equity in the UK's happiest resort (2023)",
       "https://www.netincome.co/p/getting-price-gouged-by-private-equity"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 09:35:14",
-      "https://news.ycombinator.com/item?id=41433053"
-    ],
-    [
-      "Apache's odd behavior for requests with a domain with a dot at the end",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/ApacheDomainDotConfusion"
     ]
   ],
   [
@@ -101,16 +71,6 @@
   ],
   [
     [
-      "2024-09-03, 02:04:00",
-      "https://news.ycombinator.com/item?id=41430525"
-    ],
-    [
-      "The Yubikey Is the Digital Seatbelt We Need",
-      "https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 01:27:10",
       "https://news.ycombinator.com/item?id=41430310"
     ],
@@ -131,16 +91,6 @@
   ],
   [
     [
-      "2024-09-02, 23:06:49",
-      "https://news.ycombinator.com/item?id=41429515"
-    ],
-    [
-      "Open Mathematics Depository",
-      "https://openmathdep.tuxfamily.org/"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 20:51:00",
       "https://news.ycombinator.com/item?id=41428705"
     ],
@@ -157,6 +107,16 @@
     [
       "Web scraping with GPT-4o: powerful but expensive",
       "https://blancas.io/blog/ai-web-scraper/"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 19:08:33",
+      "https://news.ycombinator.com/item?id=41427994"
+    ],
+    [
+      "AI-Implanted False Memories",
+      "https://www.media.mit.edu/projects/ai-false-memories/overview/"
     ]
   ],
   [
@@ -221,6 +181,16 @@
   ],
   [
     [
+      "2024-09-02, 14:30:01",
+      "https://news.ycombinator.com/item?id=41425646"
+    ],
+    [
+      "Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS",
+      "https://github.com/syncliteio/SyncLite"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 14:17:08",
       "https://news.ycombinator.com/item?id=41425563"
     ],
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2024-09-02, 13:06:02",
+      "https://news.ycombinator.com/item?id=41425085"
+    ],
+    [
+      "Show HN: Full Text, Full Archive RSS Feeds for Any Blog",
+      "https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 11:08:57",
       "https://news.ycombinator.com/item?id=41424373"
     ],
@@ -261,12 +241,42 @@
   ],
   [
     [
+      "2024-09-01, 15:06:44",
+      "https://news.ycombinator.com/item?id=41417556"
+    ],
+    [
+      "Show HN: Tmwuc – print() debugging for any environment",
+      "https://tmwuc.gushogg-blake.com/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 15:05:25",
       "https://news.ycombinator.com/item?id=41417538"
     ],
     [
       "Dickens: The Map",
       "https://londonist.com/london/maps/dickens-the-ultimate-map-history"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 12:13:52",
+      "https://news.ycombinator.com/item?id=41416327"
+    ],
+    [
+      "5 Years of InfoSec Focused Homelabbing",
+      "https://www.archcloudlabs.com/projects/5-years-of-homelab/"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 08:40:54",
+      "https://news.ycombinator.com/item?id=41415280"
+    ],
+    [
+      "Massachusetts Bodged Transistor Authority",
+      "https://tris.fyi/blog/mbta-cab-signaling-indicator.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Profiling with Ctrl-C",
       "https://yosefk.com/blog/profiling-with-ctrl-c.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 11:55:10",
-      "https://news.ycombinator.com/item?id=41399807"
-    ],
-    [
-      "Seafaring for Women in Software Engineering – Part I – Performance and Promotion",
-      "https://beabytes.com/seafaring-part-i/"
     ]
   ]
 ]
