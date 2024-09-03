@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
 * [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
+* [2024-09-03, 19:06:26](https://news.ycombinator.com/item?id=41438060) - [Mondragon as the New City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state)
 * [2024-09-03, 19:01:26](https://news.ycombinator.com/item?id=41438000) - [GitHub disabled adguard filters repository](https://twitter.com/adguard/status/1831040130641252839)
 * [2024-09-03, 18:59:49](https://news.ycombinator.com/item?id=41437981) - [American Radio Relay League paid $1M ransom payment](https://databreaches.net/2024/08/27/american-radio-relay-league-paid-1-million-ransom-payment/)
 * [2024-09-03, 18:53:57](https://news.ycombinator.com/item?id=41437906) - [Some Advice for How to Make Emacs Tetris Harder (2019)](https://nickdrozd.github.io/2019/01/14/tetris.html)
