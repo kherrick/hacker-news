@@ -49,6 +49,7 @@
 * [2024-09-01, 11:02:35](https://news.ycombinator.com/item?id=41415866) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 10:54:42](https://news.ycombinator.com/item?id=41415841) - [Interactive Linear Algebra Dan Margalit, Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/index.html)
 * [2024-09-01, 10:48:53](https://news.ycombinator.com/item?id=41415819) - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
+* [2024-09-01, 10:45:06](https://news.ycombinator.com/item?id=41415800) - [Creating an up-to-date Distroless Python Image (2022)](https://alexos.dev/2022/07/08/creating-an-up-to-date-distroless-python-image/)
 * [2024-09-01, 10:10:51](https://news.ycombinator.com/item?id=41415651) - [Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
 * [2024-09-01, 10:10:43](https://news.ycombinator.com/item?id=41415650) - [Beyond the Brew: The Medicinal Power of Hops](https://worldsensorium.com/beyond-the-brew-the-medicinal-power-of-hops/)
 * [2024-09-01, 10:09:15](https://news.ycombinator.com/item?id=41415647) - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
