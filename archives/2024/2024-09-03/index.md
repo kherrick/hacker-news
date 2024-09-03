@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
 * [2024-09-03, 15:11:36](https://news.ycombinator.com/item?id=41435721) - [Show HN: AppFlowy – An Open-Source Notion Alternative Built with Flutter](https://github.com/AppFlowy-IO/AppFlowy)
+* [2024-09-03, 15:09:03](https://news.ycombinator.com/item?id=41435696) - [Quick guide to web typography for developers](https://sinja.io/blog/web-typography-quick-guide)
 * [2024-09-03, 15:06:36](https://news.ycombinator.com/item?id=41435676) - [A photographer captures life in America's last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
 * [2024-09-03, 15:04:22](https://news.ycombinator.com/item?id=41435656) - [Ask HN: Where are the part-time remote coding jobs?](https://news.ycombinator.com/item?id=41435656)
+* [2024-09-03, 14:51:40](https://news.ycombinator.com/item?id=41435526) - [No screens before age of two, Swedish health authority tells parents](https://www.theguardian.com/world/article/2024/sep/02/no-screens-before-age-of-two-swedish-health-authority-tells-parents)
 * [2024-09-03, 14:51:17](https://news.ycombinator.com/item?id=41435521) - [How to Take Home \"Garbage Bags Full of $20s\"](https://www.hollywoodreporter.com/tv/tv-news/stars-getting-rich-fan-conventions-933062/)
 * [2024-09-03, 14:38:01](https://news.ycombinator.com/item?id=41435409) - [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
 * [2024-09-03, 14:37:01](https://news.ycombinator.com/item?id=41435398) - [Mobile phones not linked to brain cancer, biggest study to date finds](https://www.theguardian.com/science/article/2024/sep/04/mobile-phones-not-linked-to-brain-cancer-biggest-study-to-date-finds)
