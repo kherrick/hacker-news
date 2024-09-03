@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 12:00:58](https://news.ycombinator.com/item?id=41434072) - [Mineflow (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
 * [2024-09-03, 11:14:33](https://news.ycombinator.com/item?id=41433673) - [Europeans fail to understand how much they were fucked by the 2008 crisis](https://twitter.com/RnaudBertrand/status/1830816765611590043)
 * [2024-09-03, 10:21:41](https://news.ycombinator.com/item?id=41433316) - [AI worse than humans in every way at summarising information, trial finds](https://www.crikey.com.au/2024/09/03/ai-worse-summarising-information-humans-government-trial/)
 * [2024-09-03, 09:39:27](https://news.ycombinator.com/item?id=41433075) - [Getting price-gouged by private equity in the UK's happiest resort](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
 * [2024-09-03, 09:35:14](https://news.ycombinator.com/item?id=41433053) - [Apache's odd behavior for requests with a domain with a dot at the end](https://utcc.utoronto.ca/~cks/space/blog/web/ApacheDomainDotConfusion)
 * [2024-09-03, 08:15:28](https://news.ycombinator.com/item?id=41432536) - [Amazon is trying to trick me into signing up for Prime services](https://www.theguardian.com/money/article/2024/sep/02/amazon-is-trying-to-trick-me-into-signing-up-for-prime-services)
+* [2024-09-03, 08:14:07](https://news.ycombinator.com/item?id=41432525) - [Hugging Face tackles speech-to-speech](https://github.com/huggingface/speech-to-speech)
 * [2024-09-03, 07:06:11](https://news.ycombinator.com/item?id=41432109) - [Solar will get too cheap to connect to the power grid](https://climate.benjames.io/solar-off-grid/)
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
+* [2024-09-03, 06:49:29](https://news.ycombinator.com/item?id=41432013) - [Graph Language Models](https://aclanthology.org/2024.acl-long.245/)
 * [2024-09-03, 06:37:20](https://news.ycombinator.com/item?id=41431941) - [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
 * [2024-09-03, 06:05:14](https://news.ycombinator.com/item?id=41431758) - [Extremist settlers rapidly seizing West Bank land](https://www.bbc.com/news/articles/c207j6wy332o)
 * [2024-09-03, 05:26:08](https://news.ycombinator.com/item?id=41431560) - [Smaller, Weaker, yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/abs/2408.16737)
