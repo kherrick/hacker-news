@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 19:16:32](https://news.ycombinator.com/item?id=41438162) - [OpenAI Pleads It Can't Make Money Without Using Copyrighted Materials for Free](https://futurism.com/the-byte/openai-copyrighted-material-parliament)
 * [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
 * [2024-09-03, 19:06:26](https://news.ycombinator.com/item?id=41438060) - [Mondragon as the New City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state)
 * [2024-09-03, 19:01:26](https://news.ycombinator.com/item?id=41438000) - [GitHub disabled adguard filters repository](https://twitter.com/adguard/status/1831040130641252839)
