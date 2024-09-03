@@ -26,9 +26,9 @@
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
-* [2024-09-01, 12:58:03](https://news.ycombinator.com/item?id=41416644) - [Show HN: Ten AI demo apps to build your next AI project faster](https://nextjsaitemplates.com)
 * [2024-09-01, 11:34:22](https://news.ycombinator.com/item?id=41416046) - [There's a place for everyone](https://www.experimental-history.com/p/theres-a-place-for-everyone)
 * [2024-09-01, 08:19:35](https://news.ycombinator.com/item?id=41415187) - [Show HN: Shehzadi in Peril – My first ever game](https://shehzadi.vercel.app)
+* [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
 * [2024-08-29, 17:58:59](https://news.ycombinator.com/item?id=41393548) - [Book Review: ‘Christopher Isherwood Inside Out’](https://www.nytimes.com/2024/08/25/books/review/christopher-isherwood-inside-out-katherine-bucknell.html)
 
 ## [Archives](archives/index.md)
