@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-03, 12:00:58",
+      "https://news.ycombinator.com/item?id=41434072"
+    ],
+    [
+      "Mineflow (YC S24) Is Hiring a Machine Learning Engineer",
+      "https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 09:39:27",
       "https://news.ycombinator.com/item?id=41433075"
     ],
     [
       "Getting price-gouged by private equity in the UK's happiest resort (2023)",
       "https://www.netincome.co/p/getting-price-gouged-by-private-equity"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 08:14:07",
+      "https://news.ycombinator.com/item?id=41432525"
+    ],
+    [
+      "Hugging Face tackles speech-to-speech",
+      "https://github.com/huggingface/speech-to-speech"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-09-03, 04:41:46",
-      "https://news.ycombinator.com/item?id=41431332"
+      "2024-09-03, 06:49:29",
+      "https://news.ycombinator.com/item?id=41432013"
     ],
     [
-      "Canva Hikes Pices by 300pc as It Readies for IPO",
-      "https://ia.acs.org.au/article/2024/canva-hikes-prices-by-300pc-as-it-readies-for-ipo.html"
+      "Graph Language Models",
+      "https://aclanthology.org/2024.acl-long.245/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Greppability is an underrated code metric",
       "https://morizbuesing.com/blog/greppability-code-metric/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 01:27:10",
-      "https://news.ycombinator.com/item?id=41430310"
-    ],
-    [
-      "Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition",
-      "https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/"
     ]
   ],
   [
@@ -181,22 +191,22 @@
   ],
   [
     [
-      "2024-09-02, 14:30:01",
-      "https://news.ycombinator.com/item?id=41425646"
-    ],
-    [
-      "Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS",
-      "https://github.com/syncliteio/SyncLite"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 14:17:08",
       "https://news.ycombinator.com/item?id=41425563"
     ],
     [
       "Sleep on it: How the brain processes many experiences, even when 'offline'",
       "https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 14:00:58",
+      "https://news.ycombinator.com/item?id=41425446"
+    ],
+    [
+      "What Does It Mean to Learn?",
+      "https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2024-09-01, 15:06:44",
-      "https://news.ycombinator.com/item?id=41417556"
+      "2024-09-01, 16:52:20",
+      "https://news.ycombinator.com/item?id=41418357"
     ],
     [
-      "Show HN: Tmwuc – print() debugging for any environment",
-      "https://tmwuc.gushogg-blake.com/"
+      "Creating invariant floating-point accumulators",
+      "https://solidpixel.github.io/creating_invariant_accumulators"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Dickens: The Map",
       "https://londonist.com/london/maps/dickens-the-ultimate-map-history"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 12:13:52",
-      "https://news.ycombinator.com/item?id=41416327"
-    ],
-    [
-      "5 Years of InfoSec Focused Homelabbing",
-      "https://www.archcloudlabs.com/projects/5-years-of-homelab/"
     ]
   ],
   [
