@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 23:28:18](https://news.ycombinator.com/item?id=41440340) - [Starlink Backtracks and Will Comply with Judge's Order to Block X in Brazil](https://www.usnews.com/news/business/articles/2024-09-03/musks-starlink-backtracks-and-will-comply-with-judges-order-to-block-x-in-brazil)
 * [2024-09-03, 22:04:01](https://news.ycombinator.com/item?id=41439777) - [Engineering over AI](https://martinantos.com/engineering-over-ai/)
 * [2024-09-03, 21:00:06](https://news.ycombinator.com/item?id=41439148) - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 * [2024-09-03, 20:47:49](https://news.ycombinator.com/item?id=41439041) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
@@ -28,7 +29,6 @@
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-01, 11:34:22](https://news.ycombinator.com/item?id=41416046) - [There's a place for everyone](https://www.experimental-history.com/p/theres-a-place-for-everyone)
 * [2024-09-01, 08:19:35](https://news.ycombinator.com/item?id=41415187) - [Show HN: Shehzadi in Peril – My first ever game](https://shehzadi.vercel.app)
-* [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
 * [2024-08-29, 17:58:59](https://news.ycombinator.com/item?id=41393548) - [Book Review: ‘Christopher Isherwood Inside Out’](https://www.nytimes.com/2024/08/25/books/review/christopher-isherwood-inside-out-katherine-bucknell.html)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 23:28:18](https://news.ycombinator.com/item?id=41440340) - [Starlink Backtracks and Will Comply with Judge's Order to Block X in Brazil](https://www.usnews.com/news/business/articles/2024-09-03/musks-starlink-backtracks-and-will-comply-with-judges-order-to-block-x-in-brazil)
 * [2024-09-03, 22:04:01](https://news.ycombinator.com/item?id=41439777) - [Engineering over AI](https://martinantos.com/engineering-over-ai/)
 * [2024-09-03, 21:32:51](https://news.ycombinator.com/item?id=41439477) - [Microsoft Says Apple's 30% Fee Makes Xbox Cloud Gaming iOS App 'Impossible'](https://www.macrumors.com/2024/09/03/microsoft-cloud-gaming-ios-app-impossible/)
 * [2024-09-03, 21:02:32](https://news.ycombinator.com/item?id=41439168) - [Oakland Police Are Towing Teslas for Crime Scene Footage](https://www.carscoops.com/2024/09/california-police-might-use-your-teslas-sentry-video-to-solve-nearby-crimes/)
