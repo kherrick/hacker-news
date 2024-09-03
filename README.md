@@ -22,7 +22,7 @@
 * [2024-09-03, 12:52:52](https://news.ycombinator.com/item?id=41434484) - [For those who hear voices, the ‘broken brain’ explanation is harmful](https://aeon.co/essays/how-the-psychiatric-narrative-hinders-those-who-hear-voices)
 * [2024-09-03, 12:30:06](https://news.ycombinator.com/item?id=41434315) - [Why bother with argv[0]?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
 * [2024-09-03, 04:33:36](https://news.ycombinator.com/item?id=41431293) - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
-* [2024-09-03, 04:23:09](https://news.ycombinator.com/item?id=41431244) - [IPMI](https://computer.rip/2024-08-31-ipmi.html)
+* [2024-09-03, 04:11:16](https://news.ycombinator.com/item?id=41431177) - [Wizardry Co-Creator Andrew Greenberg Has Passed Away](https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away)
 * [2024-09-03, 02:47:00](https://news.ycombinator.com/item?id=41430772) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
