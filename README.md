@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 02:42:15](https://news.ycombinator.com/item?id=41430757) - [Microsoft's 'Recall' feature can't be uninstalled after all](https://mashable.com/article/microsoft-recall-feature-cant-be-uninstalled)
 * [2024-09-03, 01:27:10](https://news.ycombinator.com/item?id=41430310) - [Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition](https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-03, 00:24:38](https://news.ycombinator.com/item?id=41429960) - [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)
@@ -7,7 +8,6 @@
 * [2024-09-02, 22:16:59](https://news.ycombinator.com/item?id=41429232) - [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
 * [2024-09-02, 22:03:30](https://news.ycombinator.com/item?id=41429156) - [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
 * [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
-* [2024-09-02, 20:18:21](https://news.ycombinator.com/item?id=41428478) - [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
 * [2024-09-02, 19:50:53](https://news.ycombinator.com/item?id=41428274) - [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
 * [2024-09-02, 19:39:42](https://news.ycombinator.com/item?id=41428206) - [Big Tech Sees Like a State (2020)](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
 * [2024-09-02, 19:10:12](https://news.ycombinator.com/item?id=41428014) - [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
