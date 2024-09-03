@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 12:57:19](https://news.ycombinator.com/item?id=41434509) - [IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
+* [2024-09-03, 12:23:20](https://news.ycombinator.com/item?id=41434252) - [New forms of steel for stronger, lighter cars](https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars)
+* [2024-09-03, 12:12:58](https://news.ycombinator.com/item?id=41434157) - [A picture of the sun, taken with a neutrino detector, at night through the Earth](https://newhumanist.org.uk/articles/2402/the-sun-at-night)
 * [2024-09-03, 12:00:58](https://news.ycombinator.com/item?id=41434072) - [Mineflow (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
 * [2024-09-03, 11:14:33](https://news.ycombinator.com/item?id=41433673) - [Europeans fail to understand how much they were fucked by the 2008 crisis](https://twitter.com/RnaudBertrand/status/1830816765611590043)
 * [2024-09-03, 10:21:41](https://news.ycombinator.com/item?id=41433316) - [AI worse than humans in every way at summarising information, trial finds](https://www.crikey.com.au/2024/09/03/ai-worse-summarising-information-humans-government-trial/)

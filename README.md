@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 12:57:19](https://news.ycombinator.com/item?id=41434509) - [IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
+* [2024-09-03, 12:23:20](https://news.ycombinator.com/item?id=41434252) - [New forms of steel for stronger, lighter cars](https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars)
+* [2024-09-03, 12:12:58](https://news.ycombinator.com/item?id=41434157) - [A picture of the sun, taken with a neutrino detector, at night through the Earth](https://newhumanist.org.uk/articles/2402/the-sun-at-night)
 * [2024-09-03, 12:00:58](https://news.ycombinator.com/item?id=41434072) - [Mineflow (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
 * [2024-09-03, 09:39:27](https://news.ycombinator.com/item?id=41433075) - [Getting price-gouged by private equity in the UK's happiest resort (2023)](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
-* [2024-09-03, 08:14:07](https://news.ycombinator.com/item?id=41432525) - [Hugging Face tackles speech-to-speech](https://github.com/huggingface/speech-to-speech)
-* [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
 * [2024-09-03, 06:49:29](https://news.ycombinator.com/item?id=41432013) - [Graph Language Models](https://aclanthology.org/2024.acl-long.245/)
 * [2024-09-03, 05:26:08](https://news.ycombinator.com/item?id=41431560) - [Smaller, Weaker, yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/abs/2408.16737)
 * [2024-09-03, 04:33:36](https://news.ycombinator.com/item?id=41431293) - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
@@ -23,13 +24,12 @@
 * [2024-09-02, 14:00:58](https://news.ycombinator.com/item?id=41425446) - [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
 * [2024-09-02, 13:33:09](https://news.ycombinator.com/item?id=41425259) - [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 * [2024-09-02, 13:15:45](https://news.ycombinator.com/item?id=41425150) - [Show HN: Gov.uk Vue, a Vue Component Library for the Gov.uk Design System](https://govukvue.org/)
-* [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Show HN: Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 11:08:57](https://news.ycombinator.com/item?id=41424373) - [Dawarich: Self-hosted alternative to Google Location History](https://github.com/Freika/dawarich)
 * [2024-09-01, 16:52:20](https://news.ycombinator.com/item?id=41418357) - [Creating invariant floating-point accumulators](https://solidpixel.github.io/creating_invariant_accumulators)
 * [2024-09-01, 15:05:25](https://news.ycombinator.com/item?id=41417538) - [Dickens: The Map](https://londonist.com/london/maps/dickens-the-ultimate-map-history)
 * [2024-09-01, 08:40:54](https://news.ycombinator.com/item?id=41415280) - [Massachusetts Bodged Transistor Authority](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
 * [2024-09-01, 08:23:13](https://news.ycombinator.com/item?id=41415207) - [Strange Attractors](https://www.dynamicmath.xyz/strange-attractors/)
-* [2024-08-30, 18:27:43](https://news.ycombinator.com/item?id=41403289) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
+* [2024-08-30, 05:15:06](https://news.ycombinator.com/item?id=41397901) - [The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
 
 ## [Archives](archives/index.md)
 
