@@ -23,6 +23,7 @@
 * [2024-08-29, 20:10:02](https://news.ycombinator.com/item?id=41394797) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [2024-08-29, 19:48:25](https://news.ycombinator.com/item?id=41394604) - [Smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471)
 * [2024-08-29, 18:07:07](https://news.ycombinator.com/item?id=41393635) - [Airbnb banned me – how a ML model can misfire?](https://news.ycombinator.com/item?id=41393635)
+* [2024-08-29, 17:58:59](https://news.ycombinator.com/item?id=41393548) - [An Impressive Monument to Christopher Isherwood, Man of Letters (and Lovers)](https://www.nytimes.com/2024/08/25/books/review/christopher-isherwood-inside-out-katherine-bucknell.html)
 * [2024-08-29, 17:51:54](https://news.ycombinator.com/item?id=41393475) - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
 * [2024-08-29, 17:50:27](https://news.ycombinator.com/item?id=41393462) - [Rust Is Bad for Servers](https://kerkour.com/rust-is-bad-for-servers)
 * [2024-08-29, 17:50:23](https://news.ycombinator.com/item?id=41393458) - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
