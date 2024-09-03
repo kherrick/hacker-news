@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-03, 04:33:36",
+      "https://news.ycombinator.com/item?id=41431293"
+    ],
+    [
+      "Diffusion Is Spectral Autoregression",
+      "https://sander.ai/2024/09/02/spectral-autoregression.html"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 04:23:09",
       "https://news.ycombinator.com/item?id=41431244"
     ],
@@ -57,16 +67,6 @@
     [
       "Is My Blue Your Blue?",
       "https://ismy.blue/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 00:24:38",
-      "https://news.ycombinator.com/item?id=41429960"
-    ],
-    [
-      "QWERTY-Flip: The better keyboard layout your fingers already know",
-      "https://nick-gravgaard.com/qwerty-flip/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-09-02, 11:08:57",
+      "https://news.ycombinator.com/item?id=41424373"
+    ],
+    [
+      "Dawarich: Self-hosted alternative to Google Location History",
+      "https://github.com/Freika/dawarich"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 11:08:22",
       "https://news.ycombinator.com/item?id=41424371"
     ],
@@ -257,16 +267,6 @@
     [
       "5 Years of InfoSec Focused Homelabbing",
       "https://www.archcloudlabs.com/projects/5-years-of-homelab/"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 10:45:06",
-      "https://news.ycombinator.com/item?id=41415800"
-    ],
-    [
-      "Creating an up-to-date Distroless Python Image (2022)",
-      "https://alexos.dev/2022/07/08/creating-an-up-to-date-distroless-python-image/"
     ]
   ],
   [
