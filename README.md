@@ -3,7 +3,6 @@
 * [2024-09-03, 08:15:28](https://news.ycombinator.com/item?id=41432536) - [Amazon is trying to trick me into signing up for Prime services](https://www.theguardian.com/money/article/2024/sep/02/amazon-is-trying-to-trick-me-into-signing-up-for-prime-services)
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
 * [2024-09-03, 06:37:20](https://news.ycombinator.com/item?id=41431941) - [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
-* [2024-09-03, 05:26:08](https://news.ycombinator.com/item?id=41431560) - [Smaller, Weaker, yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/abs/2408.16737)
 * [2024-09-03, 04:41:46](https://news.ycombinator.com/item?id=41431332) - [Canva Hikes Pices by 300pc as It Readies for IPO](https://ia.acs.org.au/article/2024/canva-hikes-prices-by-300pc-as-it-readies-for-ipo.html)
 * [2024-09-03, 04:33:36](https://news.ycombinator.com/item?id=41431293) - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
 * [2024-09-03, 04:23:09](https://news.ycombinator.com/item?id=41431244) - [IPMI](https://computer.rip/2024-08-31-ipmi.html)
@@ -30,6 +29,7 @@
 * [2024-09-01, 15:06:44](https://news.ycombinator.com/item?id=41417556) - [Show HN: Tmwuc – print() debugging for any environment](https://tmwuc.gushogg-blake.com/)
 * [2024-09-01, 08:23:13](https://news.ycombinator.com/item?id=41415207) - [Strange Attractors](https://www.dynamicmath.xyz/strange-attractors/)
 * [2024-08-30, 18:27:43](https://news.ycombinator.com/item?id=41403289) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
+* [2024-08-30, 05:50:39](https://news.ycombinator.com/item?id=41398008) - [The Asteroid-in-Spring Hypothesis](https://nymag.com/intelligencer/article/tanis-site-controversy-paleontology-fossils-during-depalma.html)
 
 ## [Archives](archives/index.md)
 
