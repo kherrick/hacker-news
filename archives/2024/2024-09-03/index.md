@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 13:12:44](https://news.ycombinator.com/item?id=41434636) - [Cash alone proves inadequate to solve the problems of the poor](https://www.washingtonpost.com/opinions/2024/09/03/poverty-debt-relief-cash-research/)
 * [2024-09-03, 12:57:19](https://news.ycombinator.com/item?id=41434509) - [IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
+* [2024-09-03, 12:30:06](https://news.ycombinator.com/item?id=41434315) - [Why Bother with Argv[0]?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
 * [2024-09-03, 12:23:20](https://news.ycombinator.com/item?id=41434252) - [New forms of steel for stronger, lighter cars](https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars)
 * [2024-09-03, 12:12:58](https://news.ycombinator.com/item?id=41434157) - [A picture of the sun, taken with a neutrino detector, at night through the Earth](https://newhumanist.org.uk/articles/2402/the-sun-at-night)
 * [2024-09-03, 12:00:58](https://news.ycombinator.com/item?id=41434072) - [Mineflow (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
