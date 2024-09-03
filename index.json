@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-03, 17:00:02",
+      "https://news.ycombinator.com/item?id=41436843"
+    ],
+    [
+      "Formance (YC S21) Is Hiring a Technical Writer",
+      "https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 16:40:51",
+      "https://news.ycombinator.com/item?id=41436642"
+    ],
+    [
+      "The Engineering of Landfills",
+      "https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 16:11:31",
       "https://news.ycombinator.com/item?id=41436372"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-09-03, 15:51:16",
-      "https://news.ycombinator.com/item?id=41436133"
+      "2024-09-03, 15:15:16",
+      "https://news.ycombinator.com/item?id=41435760"
     ],
     [
-      "Sextortion Scams Now Include Photos of Your Home",
-      "https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/"
+      "NaNoWriMo is in disarray after organizers defend AI writing tools",
+      "https://www.theverge.com/2024/9/3/24234811/nanowrimo-ai-stance-classist-ableist-criticism"
     ]
   ],
   [
@@ -47,26 +67,6 @@
     [
       "A photographer captures life in America's last remaining old-growth forests",
       "https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 15:03:06",
-      "https://news.ycombinator.com/item?id=41435644"
-    ],
-    [
-      "Clearview AI faces $45.6M fine in the Netherlands for 'illegal database of faces",
-      "https://www.cbc.ca/news/business/clearview-ai-netherlands-1.7311631"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 15:02:06",
-      "https://news.ycombinator.com/item?id=41435630"
-    ],
-    [
-      "Rust All Hands 2025",
-      "https://blog.rust-lang.org/inside-rust/2024/09/02/all-hands.html"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Why bother with argv[0]?",
       "https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 12:00:58",
-      "https://news.ycombinator.com/item?id=41434072"
-    ],
-    [
-      "Mineflow (YC S24) Is Hiring a Machine Learning Engineer",
-      "https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-09-02, 15:00:06",
+      "https://news.ycombinator.com/item?id=41425910"
+    ],
+    [
+      "Ask HN: Who is hiring? (September 2024)",
+      "https://news.ycombinator.com/item?id=41425910"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 14:17:08",
       "https://news.ycombinator.com/item?id=41425563"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-09-02, 14:04:20",
+      "https://news.ycombinator.com/item?id=41425467"
+    ],
+    [
+      "My Blog Engine Is the Erlang Build Tool",
+      "https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 11:33:14",
       "https://news.ycombinator.com/item?id=41424505"
     ],
     [
       "Jennifer in paradise: the story of the first Photoshopped image (2014)",
       "https://www.theguardian.com/artanddesign/photography-blog/2014/jun/13/photoshop-first-image-jennifer-in-paradise-photography-artefact-knoll-dullaart"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 11:08:57",
-      "https://news.ycombinator.com/item?id=41424373"
-    ],
-    [
-      "Dawarich: Self-hosted alternative to Google Location History",
-      "https://github.com/Freika/dawarich"
     ]
   ],
   [
