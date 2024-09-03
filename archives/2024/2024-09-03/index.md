@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 14:38:01](https://news.ycombinator.com/item?id=41435409) - [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
+* [2024-09-03, 14:37:01](https://news.ycombinator.com/item?id=41435398) - [Mobile phones not linked to brain cancer, biggest study to date finds](https://www.theguardian.com/science/article/2024/sep/04/mobile-phones-not-linked-to-brain-cancer-biggest-study-to-date-finds)
 * [2024-09-03, 14:05:13](https://news.ycombinator.com/item?id=41435093) - [Transparency is often lacking in datasets used to train large language models](https://news.mit.edu/2024/study-large-language-models-datasets-lack-transparency-0830)
 * [2024-09-03, 13:19:33](https://news.ycombinator.com/item?id=41434679) - [Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
 * [2024-09-03, 13:12:51](https://news.ycombinator.com/item?id=41434637) - [Steve Ballmer's incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
