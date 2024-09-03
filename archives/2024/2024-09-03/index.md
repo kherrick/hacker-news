@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 16:27:54](https://news.ycombinator.com/item?id=41436524) - [NAFTA Broke American Politics](https://www.nytimes.com/2024/09/03/magazine/nafta-tarriffs-economy-trump-kamala-harris.html)
 * [2024-09-03, 16:11:31](https://news.ycombinator.com/item?id=41436372) - [How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
+* [2024-09-03, 16:08:52](https://news.ycombinator.com/item?id=41436338) - [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
 * [2024-09-03, 15:54:37](https://news.ycombinator.com/item?id=41436158) - [Chromatone – Visual Music Language](https://chromatone.center/)
+* [2024-09-03, 15:51:16](https://news.ycombinator.com/item?id=41436133) - [Sextortion Scams Now Include Photos of Your Home](https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/)
 * [2024-09-03, 15:11:36](https://news.ycombinator.com/item?id=41435721) - [Show HN: AppFlowy – An Open-Source Notion Alternative Built with Flutter](https://github.com/AppFlowy-IO/AppFlowy)
 * [2024-09-03, 15:09:03](https://news.ycombinator.com/item?id=41435696) - [Quick guide to web typography for developers](https://sinja.io/blog/web-typography-quick-guide)
 * [2024-09-03, 15:06:36](https://news.ycombinator.com/item?id=41435676) - [A photographer captures life in America's last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
