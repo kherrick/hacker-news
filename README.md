@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 10:21:41](https://news.ycombinator.com/item?id=41433316) - [AI worse than humans in every way at summarising information, trial finds](https://www.crikey.com.au/2024/09/03/ai-worse-summarising-information-humans-government-trial/)
 * [2024-09-03, 09:39:27](https://news.ycombinator.com/item?id=41433075) - [Getting price-gouged by private equity in the UK's happiest resort (2023)](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
 * [2024-09-03, 04:41:46](https://news.ycombinator.com/item?id=41431332) - [Canva Hikes Pices by 300pc as It Readies for IPO](https://ia.acs.org.au/article/2024/canva-hikes-prices-by-300pc-as-it-readies-for-ipo.html)
@@ -25,7 +26,6 @@
 * [2024-09-02, 13:15:45](https://news.ycombinator.com/item?id=41425150) - [Show HN: Gov.uk Vue, a Vue Component Library for the Gov.uk Design System](https://govukvue.org/)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Show HN: Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 11:08:57](https://news.ycombinator.com/item?id=41424373) - [Dawarich: Self-hosted alternative to Google Location History](https://github.com/Freika/dawarich)
-* [2024-09-01, 15:06:44](https://news.ycombinator.com/item?id=41417556) - [Show HN: Tmwuc – print() debugging for any environment](https://tmwuc.gushogg-blake.com/)
 * [2024-09-01, 15:05:25](https://news.ycombinator.com/item?id=41417538) - [Dickens: The Map](https://londonist.com/london/maps/dickens-the-ultimate-map-history)
 * [2024-09-01, 08:23:13](https://news.ycombinator.com/item?id=41415207) - [Strange Attractors](https://www.dynamicmath.xyz/strange-attractors/)
 * [2024-08-30, 18:27:43](https://news.ycombinator.com/item?id=41403289) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
