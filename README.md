@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-03, 19:01:26](https://news.ycombinator.com/item?id=41438000) - [GitHub disabled adguard filters repository](https://twitter.com/adguard/status/1831040130641252839)
+* [2024-09-03, 18:59:49](https://news.ycombinator.com/item?id=41437981) - [American Radio Relay League paid $1M ransom payment](https://databreaches.net/2024/08/27/american-radio-relay-league-paid-1-million-ransom-payment/)
+* [2024-09-03, 18:53:57](https://news.ycombinator.com/item?id=41437906) - [Some Advice for How to Make Emacs Tetris Harder (2019)](https://nickdrozd.github.io/2019/01/14/tetris.html)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 * [2024-09-03, 18:37:13](https://news.ycombinator.com/item?id=41437740) - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
 * [2024-09-03, 18:24:05](https://news.ycombinator.com/item?id=41437611) - [Unveiling Mac Security: Comprehensive Exploration of Sandboxing and AppData TCC](https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html)
@@ -23,9 +26,6 @@
 * [2024-09-03, 04:11:16](https://news.ycombinator.com/item?id=41431177) - [Wizardry Co-Creator Andrew Greenberg Has Passed Away](https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away)
 * [2024-09-03, 02:47:00](https://news.ycombinator.com/item?id=41430772) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
-* [2024-09-02, 20:51:00](https://news.ycombinator.com/item?id=41428705) - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
-* [2024-09-02, 19:50:53](https://news.ycombinator.com/item?id=41428274) - [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
-* [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-01, 15:05:25](https://news.ycombinator.com/item?id=41417538) - [Dickens: The Map](https://londonist.com/london/maps/dickens-the-ultimate-map-history)
 * [2024-09-01, 08:19:35](https://news.ycombinator.com/item?id=41415187) - [Show HN: Shehzadi in Peril – My first ever game](https://shehzadi.vercel.app)

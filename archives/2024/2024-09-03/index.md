@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 19:01:26](https://news.ycombinator.com/item?id=41438000) - [GitHub disabled adguard filters repository](https://twitter.com/adguard/status/1831040130641252839)
+* [2024-09-03, 18:59:49](https://news.ycombinator.com/item?id=41437981) - [American Radio Relay League paid $1M ransom payment](https://databreaches.net/2024/08/27/american-radio-relay-league-paid-1-million-ransom-payment/)
+* [2024-09-03, 18:53:57](https://news.ycombinator.com/item?id=41437906) - [Some Advice for How to Make Emacs Tetris Harder (2019)](https://nickdrozd.github.io/2019/01/14/tetris.html)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 * [2024-09-03, 18:37:13](https://news.ycombinator.com/item?id=41437740) - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
 * [2024-09-03, 18:35:52](https://news.ycombinator.com/item?id=41437730) - [I was asked to leave an event for female founders because I had my baby with me](https://www.businessinsider.com/asked-leave-event-female-founders-y-combinator-because-baby-2024-9)
