@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-03, 15:11:36](https://news.ycombinator.com/item?id=41435721) - [Show HN: AppFlowy – An Open-Source Notion Alternative Built with Flutter](https://github.com/AppFlowy-IO/AppFlowy)
 * [2024-09-03, 15:09:03](https://news.ycombinator.com/item?id=41435696) - [Quick guide to web typography for developers](https://sinja.io/blog/web-typography-quick-guide)
 * [2024-09-03, 15:06:36](https://news.ycombinator.com/item?id=41435676) - [A photographer captures life in America's last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
 * [2024-09-03, 15:04:22](https://news.ycombinator.com/item?id=41435656) - [Ask HN: Where are the part-time remote coding jobs?](https://news.ycombinator.com/item?id=41435656)
@@ -25,6 +24,7 @@
 * [2024-09-02, 19:50:53](https://news.ycombinator.com/item?id=41428274) - [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
 * [2024-09-02, 18:10:20](https://news.ycombinator.com/item?id=41427563) - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
 * [2024-09-02, 17:23:26](https://news.ycombinator.com/item?id=41427185) - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+* [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences, even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 * [2024-09-02, 11:33:14](https://news.ycombinator.com/item?id=41424505) - [Jennifer in paradise: the story of the first Photoshopped image (2014)](https://www.theguardian.com/artanddesign/photography-blog/2014/jun/13/photoshop-first-image-jennifer-in-paradise-photography-artefact-knoll-dullaart)
 * [2024-09-01, 16:52:20](https://news.ycombinator.com/item?id=41418357) - [Creating invariant floating-point accumulators](https://solidpixel.github.io/creating_invariant_accumulators)
