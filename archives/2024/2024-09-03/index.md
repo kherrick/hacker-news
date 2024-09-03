@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 09:39:27](https://news.ycombinator.com/item?id=41433075) - [Getting price-gouged by private equity in the UK's happiest resort](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
 * [2024-09-03, 08:15:28](https://news.ycombinator.com/item?id=41432536) - [Amazon is trying to trick me into signing up for Prime services](https://www.theguardian.com/money/article/2024/sep/02/amazon-is-trying-to-trick-me-into-signing-up-for-prime-services)
 * [2024-09-03, 07:06:11](https://news.ycombinator.com/item?id=41432109) - [Solar will get too cheap to connect to the power grid](https://climate.benjames.io/solar-off-grid/)
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
