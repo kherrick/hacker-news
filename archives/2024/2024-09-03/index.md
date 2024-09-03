@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 06:05:14](https://news.ycombinator.com/item?id=41431758) - [Extremist settlers rapidly seizing West Bank land](https://www.bbc.com/news/articles/c207j6wy332o)
 * [2024-09-03, 04:33:36](https://news.ycombinator.com/item?id=41431293) - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
 * [2024-09-03, 04:23:09](https://news.ycombinator.com/item?id=41431244) - [IPMI](https://computer.rip/2024-08-31-ipmi.html)
 * [2024-09-03, 03:02:35](https://news.ycombinator.com/item?id=41430845) - [IANA's List of Domain Name System (DNS) Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml)
