@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-03, 21:32:51",
-      "https://news.ycombinator.com/item?id=41439477"
-    ],
-    [
-      "Microsoft Says Apple's 30% Fee Makes Xbox Cloud Gaming iOS App 'Impossible'",
-      "https://www.macrumors.com/2024/09/03/microsoft-cloud-gaming-ios-app-impossible/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 21:00:06",
       "https://news.ycombinator.com/item?id=41439148"
     ],
@@ -217,6 +207,16 @@
     [
       "Why bother with argv[0]?",
       "https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 04:33:36",
+      "https://news.ycombinator.com/item?id=41431293"
+    ],
+    [
+      "Diffusion Is Spectral Autoregression",
+      "https://sander.ai/2024/09/02/spectral-autoregression.html"
     ]
   ],
   [
