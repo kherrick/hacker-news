@@ -50,6 +50,7 @@
 * [2024-09-02, 14:30:01](https://news.ycombinator.com/item?id=41425646) - [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
 * [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences – even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 * [2024-09-02, 14:11:59](https://news.ycombinator.com/item?id=41425525) - [Ask HN: Why does Microsoft prohibit employee personal open source projects?](https://news.ycombinator.com/item?id=41425525)
+* [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-02, 14:00:58](https://news.ycombinator.com/item?id=41425446) - [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
 * [2024-09-02, 13:59:20](https://news.ycombinator.com/item?id=41425438) - [A 30-hour workweek in America? It nearly became law](https://www.washingtonpost.com/history/2024/09/02/30-hour-workweek-fdr-labor-day/)
 * [2024-09-02, 13:51:37](https://news.ycombinator.com/item?id=41425383) - [They don't make 'em like that any more: the 3.5mm headphone jack socket](https://kevinboone.me/headphonejack.html)
