@@ -11,6 +11,7 @@
 * [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 05:46:47](https://news.ycombinator.com/item?id=41442288) - [The German problem? It's an analogue country in a digital world](https://www.theguardian.com/business/article/2024/sep/01/germany-economy-problem-analogue-industries)
 * [2024-09-04, 04:45:41](https://news.ycombinator.com/item?id=41441990) - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
+* [2024-09-04, 03:23:58](https://news.ycombinator.com/item?id=41441593) - [Why is single threaded Redis so fast](https://www.pixelstech.net/article/1677580861-Why-is-single-threaded-Redis-so-fast)
 * [2024-09-04, 03:03:08](https://news.ycombinator.com/item?id=41441486) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
 * [2024-09-04, 02:40:36](https://news.ycombinator.com/item?id=41441366) - [How much is AI hurting the planet? Big tech won't tell us](https://mashable.com/article/ai-environment-energy)
 * [2024-09-04, 02:01:35](https://news.ycombinator.com/item?id=41441159) - [Court handcuffs employees with non-compete agreements – again](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)

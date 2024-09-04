@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-04, 07:04:39](https://news.ycombinator.com/item?id=41442688) - [I made a super simple diff tool that's free and has no annoying ads](https://www.littlediffer.com/)
 * [2024-09-04, 07:00:23](https://news.ycombinator.com/item?id=41442655) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
 * [2024-09-04, 06:27:51](https://news.ycombinator.com/item?id=41442490) - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
 * [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 04:45:41](https://news.ycombinator.com/item?id=41441990) - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
+* [2024-09-04, 03:23:58](https://news.ycombinator.com/item?id=41441593) - [Why is single threaded Redis so fast](https://www.pixelstech.net/article/1677580861-Why-is-single-threaded-Redis-so-fast)
 * [2024-09-04, 02:01:35](https://news.ycombinator.com/item?id=41441159) - [Judge stops FTC from enforcing ban on non-compete agreements](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
 * [2024-09-04, 01:37:03](https://news.ycombinator.com/item?id=41441041) - [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 * [2024-09-04, 00:59:11](https://news.ycombinator.com/item?id=41440842) - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
