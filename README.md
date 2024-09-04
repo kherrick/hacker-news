@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-04, 06:27:51](https://news.ycombinator.com/item?id=41442490) - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
+* [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 05:46:47](https://news.ycombinator.com/item?id=41442288) - [The German problem? It's an analogue country in a digital world](https://www.theguardian.com/business/article/2024/sep/01/germany-economy-problem-analogue-industries)
 * [2024-09-04, 04:45:41](https://news.ycombinator.com/item?id=41441990) - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 * [2024-09-04, 02:01:35](https://news.ycombinator.com/item?id=41441159) - [Judge stops FTC from enforcing ban on non-compete agreements](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
@@ -11,7 +13,6 @@
 * [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
 * [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
-* [2024-09-03, 18:45:31](https://news.ycombinator.com/item?id=41437807) - [Hot Temperature and High Stakes Performance [pdf]](https://www3.nd.edu/~nmark/Climate/JParkHotTempHighStakes.pdf)
 * [2024-09-03, 18:37:13](https://news.ycombinator.com/item?id=41437740) - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
 * [2024-09-03, 17:23:46](https://news.ycombinator.com/item?id=41437095) - [The Fourier Uncertainty Principles [pdf] (2021)](https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf)
 * [2024-09-03, 16:40:51](https://news.ycombinator.com/item?id=41436642) - [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
@@ -22,7 +23,6 @@
 * [2024-09-03, 12:54:47](https://news.ycombinator.com/item?id=41434500) - [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 * [2024-09-03, 07:28:16](https://news.ycombinator.com/item?id=41432257) - [Keeping CALM: When distributed consistency is easy (2019)](https://arxiv.org/abs/1901.01930)
 * [2024-09-03, 04:41:10](https://news.ycombinator.com/item?id=41431328) - [Posting a 5x5 crossword every day](https://www.crucig.com)
-* [2024-09-03, 04:11:16](https://news.ycombinator.com/item?id=41431177) - [Wizardry Co-Creator Andrew Greenberg Has Passed Away](https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away)
 * [2024-09-03, 02:47:00](https://news.ycombinator.com/item?id=41430772) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)

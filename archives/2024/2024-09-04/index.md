@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 06:27:51](https://news.ycombinator.com/item?id=41442490) - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
+* [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 05:46:47](https://news.ycombinator.com/item?id=41442288) - [The German problem? It's an analogue country in a digital world](https://www.theguardian.com/business/article/2024/sep/01/germany-economy-problem-analogue-industries)
 * [2024-09-04, 04:45:41](https://news.ycombinator.com/item?id=41441990) - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 * [2024-09-04, 03:03:08](https://news.ycombinator.com/item?id=41441486) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
