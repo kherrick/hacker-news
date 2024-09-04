@@ -29,6 +29,7 @@
 * [2024-09-02, 19:08:33](https://news.ycombinator.com/item?id=41427994) - [AI-Implanted False Memories](https://www.media.mit.edu/projects/ai-false-memories/overview/)
 * [2024-09-02, 18:22:00](https://news.ycombinator.com/item?id=41427648) - [Ketogenic Diet Shows Promise Treating Serious Mental Illness in Stanford Study](https://www.metabolicmind.org/news/ketogenic-diet-shows-promise-in-treating-serious-mental-illness-in-stanford-medicine-study)
 * [2024-09-02, 18:10:20](https://news.ycombinator.com/item?id=41427563) - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
+* [2024-09-02, 18:00:48](https://news.ycombinator.com/item?id=41427491) - [A systematic approach to deriving incremental type checkers (2020)](https://dl.acm.org/doi/10.1145/3428195)
 * [2024-09-02, 17:41:27](https://news.ycombinator.com/item?id=41427342) - [Transport for London Cyber security incident](https://tfl.gov.uk/campaign/cyber-security-incident)
 * [2024-09-02, 17:37:29](https://news.ycombinator.com/item?id=41427319) - [Marijuana Is Too Strong Now](https://www.theatlantic.com/ideas/archive/2024/08/high-potency-marijuana-regulation/679639/)
 * [2024-09-02, 17:30:07](https://news.ycombinator.com/item?id=41427247) - [Show HN: A YouTube videos course generator](https://coursely.ai)
