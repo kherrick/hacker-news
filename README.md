@@ -3,7 +3,6 @@
 * [2024-09-04, 08:45:50](https://news.ycombinator.com/item?id=41443347) - [Britain's reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)
 * [2024-09-04, 08:29:20](https://news.ycombinator.com/item?id=41443222) - [Tech failure nearly caused massive flood in Amsterdam](https://nltimes.nl/2024/09/03/tech-failure-nearly-caused-massive-flood-amsterdam-city-center-november-2023)
 * [2024-09-04, 07:00:23](https://news.ycombinator.com/item?id=41442655) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
-* [2024-09-04, 06:27:51](https://news.ycombinator.com/item?id=41442490) - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
 * [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 04:45:41](https://news.ycombinator.com/item?id=41441990) - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 * [2024-09-04, 03:23:58](https://news.ycombinator.com/item?id=41441593) - [Why is single threaded Redis so fast](https://www.pixelstech.net/article/1677580861-Why-is-single-threaded-Redis-so-fast)
@@ -29,6 +28,7 @@
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
+* [2024-08-30, 19:25:07](https://news.ycombinator.com/item?id=41403719) - [How to sort your library in exactly 51,271 steps](https://david.kolo.ski/blog/sort-library-steps-mtg/)
 * [2024-08-30, 18:42:21](https://news.ycombinator.com/item?id=41403411) - [Poor man's signals – tiny vanilla JavaScript signals implementation](https://plainvanillaweb.com/blog/articles/2024-08-30-poor-mans-signals/)
 
 ## [Archives](archives/index.md)
