@@ -27,9 +27,9 @@
 * [2024-09-03, 01:17:24](https://news.ycombinator.com/item?id=41430258) - [Is My Blue Your Blue?](https://ismy.blue/)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
+* [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
 * [2024-09-01, 11:34:22](https://news.ycombinator.com/item?id=41416046) - [There's a place for everyone](https://www.experimental-history.com/p/theres-a-place-for-everyone)
-* [2024-09-01, 08:19:35](https://news.ycombinator.com/item?id=41415187) - [Show HN: Shehzadi in Peril – My first ever game](https://shehzadi.vercel.app)
 
 ## [Archives](archives/index.md)
 

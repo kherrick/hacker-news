@@ -63,6 +63,7 @@
 * [2024-09-02, 13:07:26](https://news.ycombinator.com/item?id=41425093) - [How CrowdStrike Stopped Everything](https://cacm.acm.org/news/how-crowdstrike-stopped-everything/)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
 * [2024-09-02, 12:59:47](https://news.ycombinator.com/item?id=41425028) - [Brazil to Fine Anyone Using a VPN to Access X $8,874 per Day; Elon Musk Responds](https://www.complex.com/pop-culture/a/treyalston/brazil-x-elon-musk-fine)
+* [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
 * [2024-09-02, 12:33:51](https://news.ycombinator.com/item?id=41424898) - [Does anyone integrate with their customers' DB directly?](https://news.ycombinator.com/item?id=41424898)
 * [2024-09-02, 12:17:14](https://news.ycombinator.com/item?id=41424818) - [Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
 * [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
