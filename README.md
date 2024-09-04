@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-04, 18:56:00](https://news.ycombinator.com/item?id=41449229) - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
+* [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
 * [2024-09-04, 18:31:01](https://news.ycombinator.com/item?id=41448931) - [Major book publishers defeat Internet Archive appeal over digital scanning](https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html)
 * [2024-09-04, 18:24:58](https://news.ycombinator.com/item?id=41448866) - [Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 * [2024-09-04, 18:24:08](https://news.ycombinator.com/item?id=41448855) - [SpaceX Pulls Employees from Brazil, Discourages Travel There](https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3)
@@ -24,7 +25,6 @@
 * [2024-09-04, 13:03:47](https://news.ycombinator.com/item?id=41445209) - [Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
 * [2024-09-04, 09:05:44](https://news.ycombinator.com/item?id=41443468) - [Generalized Carlos Scales](https://arxiv.org/abs/2408.14551)
-* [2024-09-04, 06:17:09](https://news.ycombinator.com/item?id=41442442) - [Programming the Convergent WorkSlate's spreadsheet microcassette future](http://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html)
 * [2024-09-03, 12:54:47](https://news.ycombinator.com/item?id=41434500) - [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 * [2024-09-02, 20:10:35](https://news.ycombinator.com/item?id=41428412) - ['Dancing' raisins − a simple kitchen experiment](https://theconversation.com/dancing-raisins-a-simple-kitchen-experiment-reveals-how-objects-can-extract-energy-from-their-environment-and-come-to-life-223255)
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
