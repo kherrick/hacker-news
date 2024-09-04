@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-04, 17:15:41](https://news.ycombinator.com/item?id=41448168) - [Intel Core Ultra 200V Series Lunar Lake Launched](https://www.servethehome.com/intel-core-ultra-200v-series-lunar-lake-launched/)
+* [2024-09-04, 17:13:04](https://news.ycombinator.com/item?id=41448139) - [The coming long-run slowdown in corporate profit growth and stock returns [pdf]](https://www.federalreserve.gov/econres/feds/files/2023041pap.pdf)
 * [2024-09-04, 17:02:14](https://news.ycombinator.com/item?id=41448022) - [Dynamicland 2024](https://dynamicland.org/)
 * [2024-09-04, 17:01:05](https://news.ycombinator.com/item?id=41448005) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 * [2024-09-04, 16:52:40](https://news.ycombinator.com/item?id=41447909) - [Dolphin Progress Release 2407 and 2409](https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/)
@@ -27,8 +27,8 @@
 * [2024-09-03, 12:54:47](https://news.ycombinator.com/item?id=41434500) - [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 * [2024-09-02, 20:10:35](https://news.ycombinator.com/item?id=41428412) - ['Dancing' raisins − a simple kitchen experiment](https://theconversation.com/dancing-raisins-a-simple-kitchen-experiment-reveals-how-objects-can-extract-energy-from-their-environment-and-come-to-life-223255)
 * [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
-* [2024-09-01, 15:16:42](https://news.ycombinator.com/item?id=41417653) - [Fasnacht: Basel's \"three most beautiful days\"](https://shoreleave.substack.com/p/in-search-of-circus-europa)
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
+* [2024-08-31, 22:42:59](https://news.ycombinator.com/item?id=41412601) - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 * [2024-08-30, 23:43:00](https://news.ycombinator.com/item?id=41405504) - [Crash the GC with Random Values in Unsafe.Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
 
 ## [Archives](archives/index.md)

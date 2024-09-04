@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
 * [2024-09-04, 17:15:41](https://news.ycombinator.com/item?id=41448168) - [Intel Core Ultra 200V Series Lunar Lake Launched](https://www.servethehome.com/intel-core-ultra-200v-series-lunar-lake-launched/)
+* [2024-09-04, 17:13:04](https://news.ycombinator.com/item?id=41448139) - [The coming long-run slowdown in corporate profit growth and stock returns [pdf]](https://www.federalreserve.gov/econres/feds/files/2023041pap.pdf)
 * [2024-09-04, 17:02:14](https://news.ycombinator.com/item?id=41448022) - [Dynamicland 2024](https://dynamicland.org/)
 * [2024-09-04, 17:01:05](https://news.ycombinator.com/item?id=41448005) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 * [2024-09-04, 16:52:40](https://news.ycombinator.com/item?id=41447909) - [Dolphin Progress Release 2407 and 2409](https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/)
