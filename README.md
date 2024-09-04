@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-04, 02:40:36](https://news.ycombinator.com/item?id=41441366) - [How much is AI hurting the planet? Big tech won't tell us](https://mashable.com/article/ai-environment-energy)
 * [2024-09-04, 01:37:03](https://news.ycombinator.com/item?id=41441041) - [Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 * [2024-09-04, 01:00:07](https://news.ycombinator.com/item?id=41440851) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+* [2024-09-04, 00:59:11](https://news.ycombinator.com/item?id=41440842) - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
+* [2024-09-04, 00:49:27](https://news.ycombinator.com/item?id=41440783) - [Draftkings fined after Slots \"glitch\" made it impossible to win](https://gamblingindustrynews.com/news/regulation/draftkings-fined-online-slot-no-payouts/)
 * [2024-09-04, 00:30:15](https://news.ycombinator.com/item?id=41440662) - [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)
 * [2024-09-04, 00:11:21](https://news.ycombinator.com/item?id=41440567) - [Intel: New Core Ultra Processors Deliver Breakthrough Performance](https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html)
-* [2024-09-03, 23:50:13](https://news.ycombinator.com/item?id=41440469) - [Show HN: I'm making an AI scraper called FetchFox](https://fetchfoxai.com/)
 * [2024-09-03, 23:41:21](https://news.ycombinator.com/item?id=41440415) - [OpenAI and Anthropic agree to send models to US Government for safety evaluation](https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/)
 * [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
 * [2024-09-03, 20:47:49](https://news.ycombinator.com/item?id=41439041) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
@@ -28,8 +30,6 @@
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
 * [2024-09-01, 14:29:41](https://news.ycombinator.com/item?id=41417254) - [Common English Lexicon: Common Words for Word Games](https://github.com/Fj00/CEL)
 * [2024-09-01, 11:34:22](https://news.ycombinator.com/item?id=41416046) - [There's a place for everyone](https://www.experimental-history.com/p/theres-a-place-for-everyone)
-* [2024-09-01, 08:19:35](https://news.ycombinator.com/item?id=41415187) - [Show HN: Shehzadi in Peril – My first ever game](https://shehzadi.vercel.app)
-* [2024-08-29, 17:58:59](https://news.ycombinator.com/item?id=41393548) - [Book Review: ‘Christopher Isherwood Inside Out’](https://www.nytimes.com/2024/08/25/books/review/christopher-isherwood-inside-out-katherine-bucknell.html)
 
 ## [Archives](archives/index.md)
 

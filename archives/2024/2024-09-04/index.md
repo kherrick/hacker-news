@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 02:40:36](https://news.ycombinator.com/item?id=41441366) - [How much is AI hurting the planet? Big tech won't tell us](https://mashable.com/article/ai-environment-energy)
 * [2024-09-04, 01:37:03](https://news.ycombinator.com/item?id=41441041) - [Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 * [2024-09-04, 01:00:07](https://news.ycombinator.com/item?id=41440851) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+* [2024-09-04, 00:59:11](https://news.ycombinator.com/item?id=41440842) - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
+* [2024-09-04, 00:49:27](https://news.ycombinator.com/item?id=41440783) - [Draftkings fined after Slots \"glitch\" made it impossible to win](https://gamblingindustrynews.com/news/regulation/draftkings-fined-online-slot-no-payouts/)
 * [2024-09-04, 00:30:15](https://news.ycombinator.com/item?id=41440662) - [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)
 * [2024-09-04, 00:11:21](https://news.ycombinator.com/item?id=41440567) - [Intel: New Core Ultra Processors Deliver Breakthrough Performance](https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html)
