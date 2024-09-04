@@ -15,7 +15,6 @@
 * [2024-09-04, 06:17:09](https://news.ycombinator.com/item?id=41442442) - [Programming the Convergent WorkSlate's spreadsheet microcassette future](http://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html)
 * [2024-09-04, 04:45:41](https://news.ycombinator.com/item?id=41441990) - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 * [2024-09-04, 00:59:11](https://news.ycombinator.com/item?id=41440842) - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
-* [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
 * [2024-09-03, 19:06:26](https://news.ycombinator.com/item?id=41438060) - [Mondragon as the new city-state](https://www.elysian.press/p/mondragon-as-the-new-city-state)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 * [2024-09-03, 16:40:51](https://news.ycombinator.com/item?id=41436642) - [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
@@ -30,6 +29,7 @@
 * [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
 * [2024-09-01, 15:16:42](https://news.ycombinator.com/item?id=41417653) - [Fasnacht: Basel's \"three most beautiful days\"](https://shoreleave.substack.com/p/in-search-of-circus-europa)
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
+* [2024-08-30, 19:25:07](https://news.ycombinator.com/item?id=41403719) - [How to sort your library in exactly 51,271 steps](https://david.kolo.ski/blog/sort-library-steps-mtg/)
 
 ## [Archives](archives/index.md)
 
