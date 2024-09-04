@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 23:43:00](https://news.ycombinator.com/item?id=41405504) - [Crash the GC with Random Values in Unsafe.Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
 * [2024-08-30, 23:26:37](https://news.ycombinator.com/item?id=41405424) - [The World Map of the Internet in 2021](https://trendland.com/the-world-map-of-the-internet-in-2021/)
 * [2024-08-30, 23:17:38](https://news.ycombinator.com/item?id=41405364) - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
 * [2024-08-30, 22:53:00](https://news.ycombinator.com/item?id=41405243) - [Bresenham's Circle Drawing Algorithm (2021)](https://funloop.org/post/2021-03-15-bresenham-circle-drawing-algorithm.html)

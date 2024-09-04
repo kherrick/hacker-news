@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 16:23:00](https://news.ycombinator.com/item?id=41447507) - [Microsoft confirms that Windows 11 Recall AI is not optional](https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update)
 * [2024-09-04, 15:28:08](https://news.ycombinator.com/item?id=41446916) - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
+* [2024-09-04, 15:26:39](https://news.ycombinator.com/item?id=41446898) - [Cloud of Disillusion: The Broken Promise of PaaS](https://pentacent.com/blog/leaving-the-cloud-broken-paas-promise/)
 * [2024-09-04, 15:26:34](https://news.ycombinator.com/item?id=41446896) - [Claude for Enterprise](https://www.anthropic.com/news/claude-for-enterprise)
 * [2024-09-04, 15:20:38](https://news.ycombinator.com/item?id=41446823) - [Cops Are Towing Teslas to Secure Recordings Captured by the Cars Cameras](https://www.techdirt.com/2024/09/03/cops-are-starting-to-tow-away-teslas-to-secure-recordings-captured-by-the-cars-cameras/)
+* [2024-09-04, 15:16:35](https://news.ycombinator.com/item?id=41446779) - [RWKV.cpp is now being deployed with the latest Windows 11 system](https://twitter.com/RWKV_AI/status/1831000938120917336)
 * [2024-09-04, 15:10:02](https://news.ycombinator.com/item?id=41446687) - [Mockingboard 4c+: Because Interrupts Are Hard](https://blondihacks.com/mockingboard-4c/)
 * [2024-09-04, 14:54:11](https://news.ycombinator.com/item?id=41446511) - [Mozilla Is Interested in a Rust JPEG-XL Decoder for Firefox](https://www.phoronix.com/news/Mozilla-Interest-JPEG-XL-Rust)
 * [2024-09-04, 14:46:40](https://news.ycombinator.com/item?id=41446428) - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
