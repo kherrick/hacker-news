@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 17:15:41](https://news.ycombinator.com/item?id=41448168) - [Intel Core Ultra 200V Series Lunar Lake Launched](https://www.servethehome.com/intel-core-ultra-200v-series-lunar-lake-launched/)
+* [2024-09-04, 17:02:14](https://news.ycombinator.com/item?id=41448022) - [Dynamicland 2024](https://dynamicland.org/)
 * [2024-09-04, 17:01:05](https://news.ycombinator.com/item?id=41448005) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
+* [2024-09-04, 16:52:40](https://news.ycombinator.com/item?id=41447909) - [Dolphin Progress Release 2407 and 2409](https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/)
 * [2024-09-04, 16:41:50](https://news.ycombinator.com/item?id=41447758) - [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://twitter.com/PublishersWkly/status/1831357570365497379)
 * [2024-09-04, 16:23:00](https://news.ycombinator.com/item?id=41447507) - [Microsoft confirms that Windows 11 Recall AI is not optional](https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update)
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
@@ -26,6 +29,7 @@
 * [2024-09-04, 13:27:46](https://news.ycombinator.com/item?id=41445564) - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 * [2024-09-04, 13:26:39](https://news.ycombinator.com/item?id=41445542) - [The dawn of a new startup era](https://giansegato.com/essays/dawn-new-startup-era)
 * [2024-09-04, 13:23:18](https://news.ycombinator.com/item?id=41445482) - [NSA to Launch 'No Such Podcast,'](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/article/3888139/nsa-to-launch-no-such-podcast-pulling-back-curtain-on-mission-culture-people/)
+* [2024-09-04, 13:21:19](https://news.ycombinator.com/item?id=41445445) - [Show HN: Graphiti – LLM-Powered Temporal Knowledge Graphs](https://github.com/getzep/graphiti)
 * [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
 * [2024-09-04, 13:15:22](https://news.ycombinator.com/item?id=41445369) - [Securing a Linux Server](https://kenhv.com/blog/securing-a-linux-server)
 * [2024-09-04, 13:03:47](https://news.ycombinator.com/item?id=41445209) - [Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
