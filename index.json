@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-09-04, 11:21:24",
-      "https://news.ycombinator.com/item?id=41444334"
+      "2024-09-04, 08:13:42",
+      "https://news.ycombinator.com/item?id=41443107"
     ],
     [
-      "NanoWrimo accepted people using AI – Authors Groups object",
-      "https://www.wired.com/story/nanowrimo-organizers-classist-and-ableist-to-condemn-ai/"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 10:03:00",
-      "https://news.ycombinator.com/item?id=41443831"
-    ],
-    [
-      "America's New Climate Delusion",
-      "https://www.theatlantic.com/science/archive/2024/09/louisiana-climate-carbon-capture-lng/679664/"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 08:29:20",
-      "https://news.ycombinator.com/item?id=41443222"
-    ],
-    [
-      "Tech failure nearly caused massive flood in Amsterdam",
-      "https://nltimes.nl/2024/09/03/tech-failure-nearly-caused-massive-flood-amsterdam-city-center-november-2023"
+      "\"SRE\" doesn't seem to mean anything useful any more",
+      "https://rachelbythebay.com/w/2024/09/03/ops/"
     ]
   ],
   [
@@ -45,8 +25,18 @@
       "https://news.ycombinator.com/item?id=41441593"
     ],
     [
-      "Why is single threaded Redis so fast",
+      "Why is single threaded Redis so fast (2023)",
       "https://www.pixelstech.net/article/1677580861-Why-is-single-threaded-Redis-so-fast"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 02:01:35",
+      "https://news.ycombinator.com/item?id=41441159"
+    ],
+    [
+      "Judge stops FTC from enforcing ban on non-compete agreements",
+      "https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html"
     ]
   ],
   [
@@ -97,6 +87,26 @@
     [
       "Show HN: Hestus – AI Copilot for CAD",
       "https://www.hestus.co/"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 18:45:31",
+      "https://news.ycombinator.com/item?id=41437807"
+    ],
+    [
+      "Hot Temperature and High Stakes Performance [pdf]",
+      "https://www3.nd.edu/~nmark/Climate/JParkHotTempHighStakes.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 18:37:13",
+      "https://news.ycombinator.com/item?id=41437740"
+    ],
+    [
+      "Show HN: Epistolary – Respond to your emails in handwriting",
+      "https://github.com/j6k4m8/epistolary"
     ]
   ],
   [
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2024-09-03, 10:02:06",
-      "https://news.ycombinator.com/item?id=41433205"
+      "2024-09-03, 12:30:06",
+      "https://news.ycombinator.com/item?id=41434315"
     ],
     [
-      "The Fundamental Law of Software Dependencies",
-      "https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html"
+      "Why bother with argv[0]?",
+      "https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Typewriter Interview with Elisa Gabbert",
       "https://austinkleon.substack.com/p/typewriter-interview-with-elisa-gabbert"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 04:41:10",
-      "https://news.ycombinator.com/item?id=41431328"
-    ],
-    [
-      "Posting a 5x5 crossword every day",
-      "https://www.crucig.com"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-09-01, 08:19:35",
+      "https://news.ycombinator.com/item?id=41415187"
+    ],
+    [
+      "Show HN: Shehzadi in Peril – My first ever game",
+      "https://shehzadi.vercel.app"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 19:25:07",
       "https://news.ycombinator.com/item?id=41403719"
     ],
     [
       "How to sort your library in exactly 51,271 steps",
       "https://david.kolo.ski/blog/sort-library-steps-mtg/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 18:42:21",
-      "https://news.ycombinator.com/item?id=41403411"
-    ],
-    [
-      "Poor man's signals – tiny vanilla JavaScript signals implementation",
-      "https://plainvanillaweb.com/blog/articles/2024-08-30-poor-mans-signals/"
     ]
   ]
 ]
