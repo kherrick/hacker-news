@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 17:01:05](https://news.ycombinator.com/item?id=41448005) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 * [2024-09-04, 16:41:50](https://news.ycombinator.com/item?id=41447758) - [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://twitter.com/PublishersWkly/status/1831357570365497379)
 * [2024-09-04, 16:23:00](https://news.ycombinator.com/item?id=41447507) - [Microsoft confirms that Windows 11 Recall AI is not optional](https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update)
+* [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
+* [2024-09-04, 16:01:27](https://news.ycombinator.com/item?id=41447315) - [Microsoft's Inflection acquihire is too small to matter, say UK regulators](https://www.theregister.com/2024/09/04/microsoft_inflection_acquihire_cma/)
 * [2024-09-04, 15:28:08](https://news.ycombinator.com/item?id=41446916) - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
 * [2024-09-04, 15:26:39](https://news.ycombinator.com/item?id=41446898) - [Cloud of Disillusion: The Broken Promise of PaaS](https://pentacent.com/blog/leaving-the-cloud-broken-paas-promise/)
 * [2024-09-04, 15:26:34](https://news.ycombinator.com/item?id=41446896) - [Claude for Enterprise](https://www.anthropic.com/news/claude-for-enterprise)
