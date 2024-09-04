@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 21:40:21",
+      "https://news.ycombinator.com/item?id=41451168"
+    ],
+    [
+      "Code Review Anxiety Workbook",
+      "https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 21:37:33",
       "https://news.ycombinator.com/item?id=41451143"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2024-09-04, 20:51:51",
-      "https://news.ycombinator.com/item?id=41450660"
-    ],
-    [
-      "Layman's Guide to Python Built-in Functions",
-      "https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 19:54:24",
       "https://news.ycombinator.com/item?id=41449984"
     ],
     [
       "California companies wrote their own gig worker law. Now no one is enforcing it",
       "https://apnews.com/us-news/california-labor-lyft-inc-general-news-906ecb4d94b5e946eab703c562a6bdf0"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 19:33:53",
+      "https://news.ycombinator.com/item?id=41449748"
+    ],
+    [
+      "Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results [pdf]",
+      "https://patricklam.ca/papers/24.onward.abs-debug.pdf"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Generalized Carlos Scales",
       "https://arxiv.org/abs/2408.14551"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 00:59:11",
-      "https://news.ycombinator.com/item?id=41440842"
-    ],
-    [
-      "Faster Integer Programming",
-      "https://cacm.acm.org/news/faster-integer-programming/"
     ]
   ],
   [
