@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 21:37:33](https://news.ycombinator.com/item?id=41451143) - [What Is an Atomic Clock? (2019)](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)
 * [2024-09-04, 21:18:13](https://news.ycombinator.com/item?id=41450948) - [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
 * [2024-09-04, 21:02:36](https://news.ycombinator.com/item?id=41450775) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
 * [2024-09-04, 20:58:28](https://news.ycombinator.com/item?id=41450729) - [Oakland's new school buses reduce pollution – and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)

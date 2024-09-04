@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-04, 21:37:33](https://news.ycombinator.com/item?id=41451143) - [What Is an Atomic Clock? (2019)](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)
 * [2024-09-04, 21:18:13](https://news.ycombinator.com/item?id=41450948) - [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
 * [2024-09-04, 21:02:36](https://news.ycombinator.com/item?id=41450775) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
 * [2024-09-04, 20:58:28](https://news.ycombinator.com/item?id=41450729) - [Oakland's new school buses reduce pollution and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
 * [2024-09-04, 20:51:51](https://news.ycombinator.com/item?id=41450660) - [Layman's Guide to Python Built-in Functions](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
 * [2024-09-04, 19:54:24](https://news.ycombinator.com/item?id=41449984) - [California companies wrote their own gig worker law. Now no one is enforcing it](https://apnews.com/us-news/california-labor-lyft-inc-general-news-906ecb4d94b5e946eab703c562a6bdf0)
-* [2024-09-04, 18:46:33](https://news.ycombinator.com/item?id=41449111) - [Fake CV lands top 'engineer' in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
 * [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi Assistant](https://blog.kagi.com/announcing-assistant)
 * [2024-09-04, 18:13:51](https://news.ycombinator.com/item?id=41448740) - [CSS @property and the new style](https://ryanmulligan.dev/blog/css-property-new-style/)
 * [2024-09-04, 18:04:51](https://news.ycombinator.com/item?id=41448664) - [What's functional programming all about? (2017)](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
