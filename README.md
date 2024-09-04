@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-04, 10:35:40](https://news.ycombinator.com/item?id=41444019) - [Civil Eats: Our Reporting Is Now Free for Everyone](https://civileats.com/2024/09/03/our-reporting-is-now-free-for-everyone/)
 * [2024-09-04, 08:45:50](https://news.ycombinator.com/item?id=41443347) - [Britain's reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)
 * [2024-09-04, 08:44:37](https://news.ycombinator.com/item?id=41443336) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
 * [2024-09-04, 08:29:20](https://news.ycombinator.com/item?id=41443222) - [Tech failure nearly caused massive flood in Amsterdam](https://nltimes.nl/2024/09/03/tech-failure-nearly-caused-massive-flood-amsterdam-city-center-november-2023)
@@ -7,7 +8,6 @@
 * [2024-09-04, 07:00:23](https://news.ycombinator.com/item?id=41442655) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
 * [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 03:23:58](https://news.ycombinator.com/item?id=41441593) - [Why is single threaded Redis so fast](https://www.pixelstech.net/article/1677580861-Why-is-single-threaded-Redis-so-fast)
-* [2024-09-04, 02:01:35](https://news.ycombinator.com/item?id=41441159) - [Judge stops FTC from enforcing ban on non-compete agreements](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
 * [2024-09-04, 01:37:03](https://news.ycombinator.com/item?id=41441041) - [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 * [2024-09-04, 00:59:11](https://news.ycombinator.com/item?id=41440842) - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
 * [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
