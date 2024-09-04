@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-04, 03:03:08](https://news.ycombinator.com/item?id=41441486) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
-* [2024-09-04, 02:01:35](https://news.ycombinator.com/item?id=41441159) - [Court handcuffs employees with non-compete agreements – again](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
+* [2024-09-04, 02:01:35](https://news.ycombinator.com/item?id=41441159) - [Judge stops FTC from enforcing ban on non-compete agreements](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
 * [2024-09-04, 01:37:03](https://news.ycombinator.com/item?id=41441041) - [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 * [2024-09-04, 01:00:07](https://news.ycombinator.com/item?id=41440851) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-09-04, 00:59:11](https://news.ycombinator.com/item?id=41440842) - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
 * [2024-09-04, 00:11:21](https://news.ycombinator.com/item?id=41440567) - [Intel: New Core Ultra Processors Deliver Breakthrough Performance](https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html)
 * [2024-09-03, 23:50:13](https://news.ycombinator.com/item?id=41440469) - [Show HN: I'm making an AI scraper called FetchFox](https://fetchfoxai.com/)
+* [2024-09-03, 22:35:38](https://news.ycombinator.com/item?id=41440021) - [Vue 3.5 – The Vue Point](https://blog.vuejs.org/posts/vue-3-5)
 * [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
 * [2024-09-03, 20:47:49](https://news.ycombinator.com/item?id=41439041) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
 * [2024-09-03, 19:54:39](https://news.ycombinator.com/item?id=41438542) - [Show HN: Icebreaking AI. A free tool to help you find close friends](https://www.icebreakinglab.com)
@@ -28,7 +29,6 @@
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
-* [2024-09-01, 11:34:22](https://news.ycombinator.com/item?id=41416046) - [There's a place for everyone](https://www.experimental-history.com/p/theres-a-place-for-everyone)
 * [2024-09-01, 08:19:35](https://news.ycombinator.com/item?id=41415187) - [Show HN: Shehzadi in Peril – My first ever game](https://shehzadi.vercel.app)
 
 ## [Archives](archives/index.md)

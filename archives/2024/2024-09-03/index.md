@@ -7,6 +7,7 @@
 * [2024-09-03, 23:50:13](https://news.ycombinator.com/item?id=41440469) - [Show HN: I'm making an AI scraper called FetchFox](https://fetchfoxai.com/)
 * [2024-09-03, 23:41:21](https://news.ycombinator.com/item?id=41440415) - [OpenAI and Anthropic agree to send models to US Government for safety evaluation](https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/)
 * [2024-09-03, 23:28:18](https://news.ycombinator.com/item?id=41440340) - [Starlink Backtracks and Will Comply with Judge's Order to Block X in Brazil](https://www.usnews.com/news/business/articles/2024-09-03/musks-starlink-backtracks-and-will-comply-with-judges-order-to-block-x-in-brazil)
+* [2024-09-03, 22:35:38](https://news.ycombinator.com/item?id=41440021) - [Vue 3.5 – The Vue Point](https://blog.vuejs.org/posts/vue-3-5)
 * [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
 * [2024-09-03, 22:04:01](https://news.ycombinator.com/item?id=41439777) - [Engineering over AI](https://martinantos.com/engineering-over-ai/)
 * [2024-09-03, 21:32:51](https://news.ycombinator.com/item?id=41439477) - [Microsoft Says Apple's 30% Fee Makes Xbox Cloud Gaming iOS App 'Impossible'](https://www.macrumors.com/2024/09/03/microsoft-cloud-gaming-ios-app-impossible/)
