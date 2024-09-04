@@ -69,6 +69,7 @@
 * [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
 * [2024-09-02, 11:56:30](https://news.ycombinator.com/item?id=41424697) - [OFNL Suffer Major National UK Full Fibre Broadband Outage](https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html)
 * [2024-09-02, 11:33:14](https://news.ycombinator.com/item?id=41424505) - [Jennifer in paradise: the story of the first Photoshopped image (2014)](https://www.theguardian.com/artanddesign/photography-blog/2014/jun/13/photoshop-first-image-jennifer-in-paradise-photography-artefact-knoll-dullaart)
+* [2024-09-02, 11:09:13](https://news.ycombinator.com/item?id=41424375) - [In Theory: Self-Correcting Software](https://ingig.substack.com/p/in-theory-self-correcting-software)
 * [2024-09-02, 11:08:57](https://news.ycombinator.com/item?id=41424373) - [Dawarich: Self-hosted alternative to Google Location History](https://github.com/Freika/dawarich)
 * [2024-09-02, 11:08:22](https://news.ycombinator.com/item?id=41424371) - [Show HN: Defrag the Game](https://defrag-game.com)
 * [2024-09-02, 11:05:44](https://news.ycombinator.com/item?id=41424359) - [Court Denies Cheat Seller AimJunkies a New Trial, Affirms Bungie's $4.3M Win](https://torrentfreak.com/court-denies-cheat-seller-aimjunkies-a-new-trial-affirms-bungies-4-3-million-win-240902/)
