@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
 * [2024-09-04, 07:07:15](https://news.ycombinator.com/item?id=41442705) - [Immigration has remade the U.S. labor force](https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee)
+* [2024-09-04, 07:04:39](https://news.ycombinator.com/item?id=41442688) - [I made a super simple diff tool that's free and has no annoying ads](https://www.littlediffer.com/)
 * [2024-09-04, 07:00:23](https://news.ycombinator.com/item?id=41442655) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
 * [2024-09-04, 06:27:51](https://news.ycombinator.com/item?id=41442490) - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
 * [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
