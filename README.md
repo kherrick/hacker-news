@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-04, 07:07:15](https://news.ycombinator.com/item?id=41442705) - [Immigration has remade the U.S. labor force](https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee)
 * [2024-09-04, 07:00:23](https://news.ycombinator.com/item?id=41442655) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
 * [2024-09-04, 06:27:51](https://news.ycombinator.com/item?id=41442490) - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
 * [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
@@ -18,7 +19,6 @@
 * [2024-09-03, 16:08:52](https://news.ycombinator.com/item?id=41436338) - [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
 * [2024-09-03, 15:54:37](https://news.ycombinator.com/item?id=41436158) - [Chromatone – Visual Music Language](https://chromatone.center/)
 * [2024-09-03, 13:19:33](https://news.ycombinator.com/item?id=41434679) - [Synchronizing Pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
-* [2024-09-03, 12:57:19](https://news.ycombinator.com/item?id=41434509) - [IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
 * [2024-09-03, 12:54:47](https://news.ycombinator.com/item?id=41434500) - [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 * [2024-09-03, 07:28:16](https://news.ycombinator.com/item?id=41432257) - [Keeping CALM: When distributed consistency is easy (2019)](https://arxiv.org/abs/1901.01930)
 * [2024-09-03, 07:27:03](https://news.ycombinator.com/item?id=41432245) - [Make Your Own CDN with NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
