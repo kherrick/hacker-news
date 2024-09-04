@@ -1,32 +1,32 @@
 [
   [
     [
-      "2024-09-03, 23:28:18",
-      "https://news.ycombinator.com/item?id=41440340"
+      "2024-09-04, 01:00:07",
+      "https://news.ycombinator.com/item?id=41440851"
     ],
     [
-      "Starlink Backtracks and Will Comply with Judge's Order to Block X in Brazil",
-      "https://www.usnews.com/news/business/articles/2024-09-03/musks-starlink-backtracks-and-will-comply-with-judges-order-to-block-x-in-brazil"
+      "Emerge Tools (YC W21) is hiring a senior front end engineer",
+      "https://www.emergetools.com/careers/jobs/senior-frontend-engineer"
     ]
   ],
   [
     [
-      "2024-09-03, 22:04:01",
-      "https://news.ycombinator.com/item?id=41439777"
+      "2024-09-04, 00:11:21",
+      "https://news.ycombinator.com/item?id=41440567"
     ],
     [
-      "Engineering over AI",
-      "https://martinantos.com/engineering-over-ai/"
+      "Intel: New Core Ultra Processors Deliver Breakthrough Performance",
+      "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html"
     ]
   ],
   [
     [
-      "2024-09-03, 21:00:06",
-      "https://news.ycombinator.com/item?id=41439148"
+      "2024-09-03, 22:30:31",
+      "https://news.ycombinator.com/item?id=41439983"
     ],
     [
-      "PropelAuth (YC W22) is hiring engineers who love to write",
-      "https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator"
+      "Llms.txt",
+      "https://llmstxt.org/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Writing a book in the age of open source",
       "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 20:07:44",
-      "https://news.ycombinator.com/item?id=41438672"
-    ],
-    [
-      "Anthropic Quickstarts",
-      "https://github.com/anthropics/anthropic-quickstarts"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Howm: Personal Wiki for Emacs",
       "https://github.com/Emacs101/howm-manual"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 19:06:26",
-      "https://news.ycombinator.com/item?id=41438060"
-    ],
-    [
-      "Mondragon as the new city-state",
-      "https://www.elysian.press/p/mondragon-as-the-new-city-state"
     ]
   ],
   [
@@ -211,22 +191,32 @@
   ],
   [
     [
-      "2024-09-03, 12:52:52",
-      "https://news.ycombinator.com/item?id=41434484"
-    ],
-    [
-      "For those who hear voices, the ‘broken brain’ explanation is harmful",
-      "https://aeon.co/essays/how-the-psychiatric-narrative-hinders-those-who-hear-voices"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 12:30:06",
       "https://news.ycombinator.com/item?id=41434315"
     ],
     [
       "Why bother with argv[0]?",
       "https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 07:28:16",
+      "https://news.ycombinator.com/item?id=41432257"
+    ],
+    [
+      "Keeping CALM: When distributed consistency is easy",
+      "https://arxiv.org/abs/1901.01930"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 04:11:16",
+      "https://news.ycombinator.com/item?id=41431177"
+    ],
+    [
+      "Wizardry Co-Creator Andrew Greenberg Has Passed Away",
+      "https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "My Blog Engine Is the Erlang Build Tool",
       "https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 15:05:50",
+      "https://news.ycombinator.com/item?id=41417542"
+    ],
+    [
+      "We built the city of Colombo in Cities:Skylines",
+      "https://github.com/team-watchdog/colombo-skylines"
     ]
   ],
   [
