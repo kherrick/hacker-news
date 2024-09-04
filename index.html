@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41441041">
+          <h3>
+            <a
+              class="item"
+              href="https://www.matthewball.co/all/sweeneystephenson"
+              >Interviewing Epic Games Founder Tim Sweeney and Author Neal
+              Stephenson</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-04 @ 01:37:03</span
+              ><span class="points-container"
+                >Points: <span class="points">74</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41441041"
+                  >Comments</a
+                ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41440851">
           <h3>
             <a
@@ -159,11 +181,130 @@
             <h4>
               <span>2024-09-04 @ 00:11:21</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41440567"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 35</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41440469">
+          <h3>
+            <a class="item" href="https://fetchfoxai.com/"
+              >Show HN: I'm making an AI scraper called FetchFox</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-03 @ 23:50:13</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41440469"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://fetchfoxai.com">https://fetchfoxai.com</a>). It's
+              a Chrome extension that lets you use AI to scrape any website for
+              any data. I'd love to get your feedback.
+              <p>
+                Here's a quick demo showing how you can use it to scrape leads
+                from an auto dealer directory. What's cool is that it scrapes
+                non-uniform pages, which is quite hard to do with "traditional"
+                scrapers:
+                <a href="https://youtu.be/wPbyPSFsqzA"
+                  >https://youtu.be/wPbyPSFsqzA</a
+                >
+              </p>
+              <p>
+                A little background: I've written lots and lots of scrapers over
+                the last 10+ years. They're fun to write when they work, but the
+                internet has changed in ways that make them harder to write. One
+                change has been the increasing complexity of web pages due to
+                SPAs and obfuscated CSS/HTML.
+              </p>
+              <p>
+                I started experimenting with using ChatGPT to parse pages, and
+                it's surprisingly effective. It can take the raw text and/or
+                HTML of a page, and answer most scraping requests. And in
+                addition to traditional scraping thigns like pulling out prices,
+                it can extract subjective data, like summarizing the tone of an
+                article.
+              </p>
+              <p>
+                As an example, I used FetchFox to scrape Hacker News comment
+                threads. I asked it for the number of comments, and also for a
+                summary of the topic and tone of the articles. Here are the
+                results:
+                <a href="https://fetchfoxai.com/s/cSXpBs3qBG"
+                  >https://fetchfoxai.com/s/cSXpBs3qBG</a
+                >
+                . You can see the prompt I used for this scrape here:
+                <a href="https://imgur.com/uBQRIYv"
+                  >https://imgur.com/uBQRIYv</a
+                >
+              </p>
+              <p>
+                Right now, the tool does a "two step" scrape. It starts with an
+                initial page, (like LinkedIn) and looks for specific types of
+                links on that page, (like links to software engineer profiles).
+                It does this using an LLM, which receives a list of links from
+                the page, and looks for the relevant ones.
+              </p>
+              <p>
+                Then, it queues up each link for an individual scrape. It
+                directs Chrome to visit the pages, get the text/HTML, and then
+                analyze it using an LLM.
+              </p>
+              <p>
+                There are options for how fast/slow to do the scrape. Some sites
+                (like HN) are friendly, and you can scrape them very fast. For
+                example here's me scraping Amazon with 50 tabs:
+                <a href="https://x.com/ortutay/status/1824344168350822434"
+                  >https://x.com/ortutay/status/1824344168350822434</a
+                >
+                . Other sites (like LinkedIn) have strong anti-scraping
+                measures, so it's better to use the "1 foreground tab" option.
+                This is slower, but it gives better results on those sites.
+              </p>
+              <p>
+                The extension is 100% free forever if you use your OpenAI API
+                key. It's also free "for now" with our backend server, but if
+                that gets overloaded or too expensive we'll have to introduce a
+                paid plan.
+              </p>
+              <p>
+                Last thing, you can check out the code at
+                <a href="https://github.com/fetchfox/fetchfox"
+                  >https://github.com/fetchfox/fetchfox</a
+                >
+                . Contributions welcome :)
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="41440415">
+          <h3>
+            <a
+              class="item"
+              href="https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/"
+              >OpenAI and Anthropic agree to send models to US Government for
+              safety evaluation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-03 @ 23:41:21</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41440415"
+                  >Comments</a
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -174,11 +315,11 @@
             <h4>
               <span>2024-09-03 @ 22:30:31</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41439983"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -195,11 +336,11 @@
             <h4>
               <span>2024-09-03 @ 20:47:49</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41439041"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -219,7 +360,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41438542"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
             <div class="text">
@@ -277,11 +418,11 @@
             <h4>
               <span>2024-09-03 @ 19:11:26</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41438107"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -296,11 +437,11 @@
             <h4>
               <span>2024-09-03 @ 18:49:25</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41437846"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
             <div class="text">
@@ -379,7 +520,7 @@
             <h4>
               <span>2024-09-03 @ 18:45:31</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41437807"
                   >Comments</a
@@ -398,11 +539,11 @@
             <h4>
               <span>2024-09-03 @ 18:37:13</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41437740"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -420,7 +561,7 @@
             <h4>
               <span>2024-09-03 @ 18:24:05</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41437611"
                   >Comments</a
@@ -441,11 +582,11 @@
             <h4>
               <span>2024-09-03 @ 17:23:46</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41437095"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -462,32 +603,11 @@
             <h4>
               <span>2024-09-03 @ 16:40:51</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">303</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41436642"
                   >Comments</a
-                ><span class="descendants">: 196</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41436372">
-          <h3>
-            <a
-              class="item"
-              href="https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/"
-              >How the Higgs field gives mass to elementary particles</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-03 @ 16:11:31</span
-              ><span class="points-container"
-                >Points: <span class="points">144</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41436372"
-                  >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 198</span></span
               >
             </h4>
           </section>
@@ -502,11 +622,11 @@
             <h4>
               <span>2024-09-03 @ 16:08:52</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41436338"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
             <div class="text">
@@ -611,44 +731,13 @@
             <h4>
               <span>2024-09-03 @ 15:54:37</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41436158"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41435409">
-          <h3>
-            <a class="item" href="https://github.com/David-OConnor/plascad"
-              >Show HN: PlasCAD: Open-source plasmid editor</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-03 @ 14:38:01</span
-              ><span class="points-container"
-                >Points: <span class="points">85</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41435409"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                From a technical standpoint, this is a standalone binary written
-                using the EGUI library in rust. A project goal is performance,
-                with small memory footprint, and small application and file
-                sizes.
-              </p>
-              <p>
-                This is a continuous work-in-progress, and I'm open to any and
-                all feedback, criticism, and requested features.
-              </p>
-            </div>
           </section>
         </section>
         <section id="41434679">
@@ -661,11 +750,11 @@
             <h4>
               <span>2024-09-03 @ 13:19:33</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41434679"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -701,32 +790,11 @@
             <h4>
               <span>2024-09-03 @ 12:54:47</span
               ><span class="points-container"
-                >Points: <span class="points">390</span></span
+                >Points: <span class="points">400</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41434500"
                   >Comments</a
-                ><span class="descendants">: 151</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41434315">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
-              >Why bother with argv[0]?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-03 @ 12:30:06</span
-              ><span class="points-container"
-                >Points: <span class="points">191</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41434315"
-                  >Comments</a
-                ><span class="descendants">: 209</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -741,32 +809,11 @@
             <h4>
               <span>2024-09-03 @ 07:28:16</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41432257"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41431177">
-          <h3>
-            <a
-              class="item"
-              href="https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away"
-              >Wizardry Co-Creator Andrew Greenberg Has Passed Away</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-03 @ 04:11:16</span
-              ><span class="points-container"
-                >Points: <span class="points">156</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41431177"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -783,11 +830,11 @@
             <h4>
               <span>2024-09-03 @ 02:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">1005</span></span
+                >Points: <span class="points">1013</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41430772"
                   >Comments</a
-                ><span class="descendants">: 532</span></span
+                ><span class="descendants">: 533</span></span
               >
             </h4>
           </section>
@@ -800,7 +847,7 @@
             <h4>
               <span>2024-09-03 @ 01:17:24</span
               ><span class="points-container"
-                >Points: <span class="points">1170</span></span
+                >Points: <span class="points">1176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41430258"
                   >Comments</a
@@ -819,7 +866,7 @@
             <h4>
               <span>2024-09-02 @ 15:00:06</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">349</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41425910"
                   >Comments</a
@@ -885,7 +932,7 @@
             <h4>
               <span>2024-09-02 @ 14:04:20</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41425467"
                   >Comments</a
@@ -906,11 +953,30 @@
             <h4>
               <span>2024-09-01 @ 15:05:50</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41417542"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41417254">
+          <h3>
+            <a class="item" href="https://github.com/Fj00/CEL"
+              >Common English Lexicon: Common Words for Word Games</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-01 @ 14:29:41</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41417254"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -927,7 +993,7 @@
             <h4>
               <span>2024-09-01 @ 11:34:22</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41416046"
                   >Comments</a
@@ -975,7 +1041,7 @@
             <h4>
               <span>2024-08-29 @ 17:58:59</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41393548"
                   >Comments</a
