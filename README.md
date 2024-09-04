@@ -2,7 +2,6 @@
 
 * [2024-09-04, 18:56:00](https://news.ycombinator.com/item?id=41449229) - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
 * [2024-09-04, 18:46:33](https://news.ycombinator.com/item?id=41449111) - [Fake CV lands top 'engineer' in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
-* [2024-09-04, 18:41:16](https://news.ycombinator.com/item?id=41449038) - [Printing Money](https://neal.fun/printing-money/)
 * [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
 * [2024-09-04, 18:31:01](https://news.ycombinator.com/item?id=41448931) - [Major book publishers defeat Internet Archive appeal over digital scanning](https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html)
 * [2024-09-04, 18:24:58](https://news.ycombinator.com/item?id=41448866) - [Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
@@ -19,6 +18,7 @@
 * [2024-09-04, 15:28:08](https://news.ycombinator.com/item?id=41446916) - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
 * [2024-09-04, 15:15:49](https://news.ycombinator.com/item?id=41446766) - [Intel Honesty](https://stratechery.com/2024/intel-honesty/)
 * [2024-09-04, 14:46:40](https://news.ycombinator.com/item?id=41446428) - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
+* [2024-09-04, 14:38:09](https://news.ycombinator.com/item?id=41446337) - [Boom Supersonic's XB-1 prototype aces 2nd test flight](https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos)
 * [2024-09-04, 14:28:00](https://news.ycombinator.com/item?id=41446252) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
 * [2024-09-04, 13:43:19](https://news.ycombinator.com/item?id=41445790) - [Physics is unreasonably good at creating new math](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/)
 * [2024-09-04, 13:21:19](https://news.ycombinator.com/item?id=41445445) - [Show HN: Graphiti – LLM-Powered Temporal Knowledge Graphs](https://github.com/getzep/graphiti)
