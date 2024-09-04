@@ -35,6 +35,7 @@
 * [2024-09-03, 17:15:29](https://news.ycombinator.com/item?id=41437011) - [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
 * [2024-09-03, 17:00:02](https://news.ycombinator.com/item?id=41436843) - [Formance (YC S21) Is Hiring a Technical Writer](https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer)
 * [2024-09-03, 16:40:51](https://news.ycombinator.com/item?id=41436642) - [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
+* [2024-09-03, 16:39:21](https://news.ycombinator.com/item?id=41436630) - [Why did Windows 95 use blue screen error messages instead of hard error messages](https://devblogs.microsoft.com/oldnewthing/20240903-00/?p=110205)
 * [2024-09-03, 16:27:54](https://news.ycombinator.com/item?id=41436524) - [NAFTA Broke American Politics](https://www.nytimes.com/2024/09/03/magazine/nafta-tarriffs-economy-trump-kamala-harris.html)
 * [2024-09-03, 16:11:31](https://news.ycombinator.com/item?id=41436372) - [How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
 * [2024-09-03, 16:08:52](https://news.ycombinator.com/item?id=41436338) - [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
