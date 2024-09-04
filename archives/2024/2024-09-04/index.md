@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 13:03:47](https://news.ycombinator.com/item?id=41445209) - [Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
 * [2024-09-04, 12:44:16](https://news.ycombinator.com/item?id=41444978) - [Self-Driving Cars Get Help from Humans Miles Away](https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html)
 * [2024-09-04, 12:43:10](https://news.ycombinator.com/item?id=41444966) - [Admins wonder if the cloud was such a good idea after all](https://www.theregister.com/2024/09/04/cloud_buyers_regret/)
 * [2024-09-04, 12:42:20](https://news.ycombinator.com/item?id=41444961) - [Starlink U-turns, will block X in Brazil after all](https://www.theregister.com/2024/09/04/starlink_performs_a_180_and/)
@@ -25,6 +26,7 @@
 * [2024-09-04, 07:04:39](https://news.ycombinator.com/item?id=41442688) - [I made a super simple diff tool that's free and has no annoying ads](https://www.littlediffer.com/)
 * [2024-09-04, 07:00:23](https://news.ycombinator.com/item?id=41442655) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
 * [2024-09-04, 06:27:51](https://news.ycombinator.com/item?id=41442490) - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
+* [2024-09-04, 06:17:09](https://news.ycombinator.com/item?id=41442442) - [Programming the Convergent WorkSlate's spreadsheet microcassette future](http://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html)
 * [2024-09-04, 06:10:58](https://news.ycombinator.com/item?id=41442423) - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 05:46:47](https://news.ycombinator.com/item?id=41442288) - [The German problem? It's an analogue country in a digital world](https://www.theguardian.com/business/article/2024/sep/01/germany-economy-problem-analogue-industries)
 * [2024-09-04, 04:45:41](https://news.ycombinator.com/item?id=41441990) - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
