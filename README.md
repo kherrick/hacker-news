@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-04, 22:53:15](https://news.ycombinator.com/item?id=41451707) - [SEC fines 6 major credit rating agencies over failure to keep electronic records](https://www.cnn.com/2024/09/03/business/sec-fines-credit-rating-agencies-over-failure-electronic-records/index.html)
 * [2024-09-04, 21:40:21](https://news.ycombinator.com/item?id=41451168) - [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1)
 * [2024-09-04, 21:37:33](https://news.ycombinator.com/item?id=41451143) - [What Is an Atomic Clock? (2019)](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)
 * [2024-09-04, 21:18:13](https://news.ycombinator.com/item?id=41450948) - [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
 * [2024-09-04, 21:02:36](https://news.ycombinator.com/item?id=41450775) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
 * [2024-09-04, 20:58:28](https://news.ycombinator.com/item?id=41450729) - [Oakland's new school buses reduce pollution and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
-* [2024-09-04, 20:50:10](https://news.ycombinator.com/item?id=41450641) - [xAI's Colossus: Most Powerful AI Cluster Online in 122 Days](https://twitter.com/elonmusk/status/1830650370336473253)
 * [2024-09-04, 19:54:24](https://news.ycombinator.com/item?id=41449984) - [California companies wrote their own gig worker law. Now no one is enforcing it](https://apnews.com/us-news/california-labor-lyft-inc-general-news-906ecb4d94b5e946eab703c562a6bdf0)
 * [2024-09-04, 19:33:53](https://news.ycombinator.com/item?id=41449748) - [Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results [pdf]](https://patricklam.ca/papers/24.onward.abs-debug.pdf)
 * [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi Assistant](https://blog.kagi.com/announcing-assistant)
