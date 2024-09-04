@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 01:37:03",
+      "https://news.ycombinator.com/item?id=41441041"
+    ],
+    [
+      "Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson",
+      "https://www.matthewball.co/all/sweeneystephenson"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 01:00:07",
       "https://news.ycombinator.com/item?id=41440851"
     ],
@@ -17,6 +27,26 @@
     [
       "Intel: New Core Ultra Processors Deliver Breakthrough Performance",
       "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 23:50:13",
+      "https://news.ycombinator.com/item?id=41440469"
+    ],
+    [
+      "Show HN: I'm making an AI scraper called FetchFox",
+      "https://fetchfoxai.com/"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 23:41:21",
+      "https://news.ycombinator.com/item?id=41440415"
+    ],
+    [
+      "OpenAI and Anthropic agree to send models to US Government for safety evaluation",
+      "https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-09-03, 16:11:31",
-      "https://news.ycombinator.com/item?id=41436372"
-    ],
-    [
-      "How the Higgs field gives mass to elementary particles",
-      "https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 16:08:52",
       "https://news.ycombinator.com/item?id=41436338"
     ],
@@ -147,16 +167,6 @@
     [
       "Chromatone – Visual Music Language",
       "https://chromatone.center/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 14:38:01",
-      "https://news.ycombinator.com/item?id=41435409"
-    ],
-    [
-      "Show HN: PlasCAD: Open-source plasmid editor",
-      "https://github.com/David-OConnor/plascad"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2024-09-03, 12:30:06",
-      "https://news.ycombinator.com/item?id=41434315"
-    ],
-    [
-      "Why bother with argv[0]?",
-      "https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 07:28:16",
       "https://news.ycombinator.com/item?id=41432257"
     ],
     [
       "Keeping CALM: When distributed consistency is easy",
       "https://arxiv.org/abs/1901.01930"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 04:11:16",
-      "https://news.ycombinator.com/item?id=41431177"
-    ],
-    [
-      "Wizardry Co-Creator Andrew Greenberg Has Passed Away",
-      "https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "We built the city of Colombo in Cities:Skylines",
       "https://github.com/team-watchdog/colombo-skylines"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 14:29:41",
+      "https://news.ycombinator.com/item?id=41417254"
+    ],
+    [
+      "Common English Lexicon: Common Words for Word Games",
+      "https://github.com/Fj00/CEL"
     ]
   ],
   [
