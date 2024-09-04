@@ -29,6 +29,7 @@
 * [2024-08-30, 18:49:47](https://news.ycombinator.com/item?id=41403466) - [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
 * [2024-08-30, 18:44:50](https://news.ycombinator.com/item?id=41403431) - [The long road to ropeless fishing](https://hakaimagazine.com/news/the-long-road-to-ropeless-fishing/)
 * [2024-08-30, 18:42:30](https://news.ycombinator.com/item?id=41403414) - [Japan was the future but it's stuck in the past](https://www.bbc.com/news/world-asia-63830490)
+* [2024-08-30, 18:42:21](https://news.ycombinator.com/item?id=41403411) - [Poor man's signals – tiny vanilla JavaScript signals implementation](https://plainvanillaweb.com/blog/articles/2024-08-30-poor-mans-signals/)
 * [2024-08-30, 18:27:43](https://news.ycombinator.com/item?id=41403289) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
 * [2024-08-30, 18:26:46](https://news.ycombinator.com/item?id=41403286) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-30, 17:31:30](https://news.ycombinator.com/item?id=41402832) - [Motion (YC W20) Is Hiring TypeScript Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
