@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-04, 14:46:40",
+      "https://news.ycombinator.com/item?id=41446428"
+    ],
+    [
+      "The Insecurity of Debian",
+      "https://unix.foo/posts/insecurity-of-debian/"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 14:42:03",
+      "https://news.ycombinator.com/item?id=41446387"
+    ],
+    [
+      "Shaving is too expensive",
+      "https://johnwhiles.com/posts/shaving"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 14:38:09",
       "https://news.ycombinator.com/item?id=41446337"
     ],
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2024-09-04, 13:27:46",
-      "https://news.ycombinator.com/item?id=41445564"
+      "2024-09-04, 13:43:19",
+      "https://news.ycombinator.com/item?id=41445790"
     ],
     [
-      "Production-ready Docker Containers with uv",
-      "https://hynek.me/articles/docker-uv/"
+      "Physics is unreasonably good at creating new math",
+      "https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 13:23:18",
+      "https://news.ycombinator.com/item?id=41445482"
+    ],
+    [
+      "NSA to Launch 'No Such Podcast,'",
+      "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/article/3888139/nsa-to-launch-no-such-podcast-pulling-back-curtain-on-mission-culture-people/"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Ilya Sutskever's SSI Inc raises $1B",
       "https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 13:15:22",
+      "https://news.ycombinator.com/item?id=41445369"
+    ],
+    [
+      "Securing a Linux Server",
+      "https://kenhv.com/blog/securing-a-linux-server"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-09-03, 17:23:46",
-      "https://news.ycombinator.com/item?id=41437095"
-    ],
-    [
-      "The Fourier Uncertainty Principles [pdf] (2021)",
-      "https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 16:40:51",
       "https://news.ycombinator.com/item?id=41436642"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2024-09-03, 12:30:06",
-      "https://news.ycombinator.com/item?id=41434315"
-    ],
-    [
-      "Why bother with argv[0]?",
-      "https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 06:46:11",
-      "https://news.ycombinator.com/item?id=41431997"
-    ],
-    [
-      "Typewriter Interview with Elisa Gabbert",
-      "https://austinkleon.substack.com/p/typewriter-interview-with-elisa-gabbert"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 02:47:00",
       "https://news.ycombinator.com/item?id=41430772"
     ],
     [
       "Greppability is an underrated code metric",
       "https://morizbuesing.com/blog/greppability-code-metric/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 01:17:24",
-      "https://news.ycombinator.com/item?id=41430258"
-    ],
-    [
-      "Is My Blue Your Blue?",
-      "https://ismy.blue/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-09-02, 14:04:20",
-      "https://news.ycombinator.com/item?id=41425467"
+      "2024-09-02, 12:51:58",
+      "https://news.ycombinator.com/item?id=41424977"
     ],
     [
-      "My Blog Engine Is the Erlang Build Tool",
-      "https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html"
+      "\"It's hard to see the future through spreadsheets\" – Steve Huffman",
+      "https://mastersofscale.com/online-platforms-cant-just-sit-on-their-hands/"
     ]
   ],
   [
