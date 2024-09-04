@@ -10,6 +10,7 @@
 * [2024-09-04, 21:02:36](https://news.ycombinator.com/item?id=41450775) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
 * [2024-09-04, 20:58:28](https://news.ycombinator.com/item?id=41450729) - [Oakland's new school buses reduce pollution – and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
 * [2024-09-04, 20:51:51](https://news.ycombinator.com/item?id=41450660) - [Layman's Guide to Python Built-In Functions · Matt Layman](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
+* [2024-09-04, 20:50:10](https://news.ycombinator.com/item?id=41450641) - [xAI's Colossus: Most Powerful AI Cluster Online in 122 Days](https://twitter.com/elonmusk/status/1830650370336473253)
 * [2024-09-04, 19:54:24](https://news.ycombinator.com/item?id=41449984) - [California companies wrote their own gig worker law. Now no one is enforcing it](https://apnews.com/us-news/california-labor-lyft-inc-general-news-906ecb4d94b5e946eab703c562a6bdf0)
 * [2024-09-04, 19:33:53](https://news.ycombinator.com/item?id=41449748) - [Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results [pdf]](https://patricklam.ca/papers/24.onward.abs-debug.pdf)
 * [2024-09-04, 19:22:59](https://news.ycombinator.com/item?id=41449597) - [AI Checkers Forcing Kids to Write Like a Robot to Avoid Being Called a Robot](https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/)

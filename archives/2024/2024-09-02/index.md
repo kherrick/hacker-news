@@ -69,6 +69,7 @@
 * [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
 * [2024-09-02, 12:33:51](https://news.ycombinator.com/item?id=41424898) - [Does anyone integrate with their customers' DB directly?](https://news.ycombinator.com/item?id=41424898)
 * [2024-09-02, 12:17:14](https://news.ycombinator.com/item?id=41424818) - [Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
+* [2024-09-02, 12:04:18](https://news.ycombinator.com/item?id=41424746) - [Glue and Coprocessor Architectures](https://vitalik.eth.limo/general/2024/09/02/gluecp.html)
 * [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
 * [2024-09-02, 11:56:30](https://news.ycombinator.com/item?id=41424697) - [OFNL Suffer Major National UK Full Fibre Broadband Outage](https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html)
 * [2024-09-02, 11:49:00](https://news.ycombinator.com/item?id=41424637) - [Ask HN: Any Recommendations Around Programming on an iPad?](https://news.ycombinator.com/item?id=41424637)
