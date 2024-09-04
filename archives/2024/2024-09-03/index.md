@@ -76,6 +76,7 @@
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
 * [2024-09-03, 07:00:19](https://news.ycombinator.com/item?id=41432077) - [Dungeon Dash – A super fun command-line RPG game](https://github.com/Faizan711/dungeon-dash/blob/main/README.md)
 * [2024-09-03, 06:49:29](https://news.ycombinator.com/item?id=41432013) - [Graph Language Models](https://aclanthology.org/2024.acl-long.245/)
+* [2024-09-03, 06:46:11](https://news.ycombinator.com/item?id=41431997) - [Typewriter Interview with Elisa Gabbert](https://austinkleon.substack.com/p/typewriter-interview-with-elisa-gabbert)
 * [2024-09-03, 06:37:20](https://news.ycombinator.com/item?id=41431941) - [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
 * [2024-09-03, 06:05:14](https://news.ycombinator.com/item?id=41431758) - [Extremist settlers rapidly seizing West Bank land](https://www.bbc.com/news/articles/c207j6wy332o)
 * [2024-09-03, 05:26:08](https://news.ycombinator.com/item?id=41431560) - [Smaller, Weaker, yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/abs/2408.16737)
