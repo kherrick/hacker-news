@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 18:13:51](https://news.ycombinator.com/item?id=41448740) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
+* [2024-09-04, 17:44:17](https://news.ycombinator.com/item?id=41448439) - [Show HN: An open-source implementation of AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3)
+* [2024-09-04, 17:41:00](https://news.ycombinator.com/item?id=41448412) - [Coding on iPad using self-hosted VSCode, Caddy, and code-server](https://tailscale.com/kb/1166/vscode-ipad)
+* [2024-09-04, 17:28:37](https://news.ycombinator.com/item?id=41448283) - [Introduction to Dynamicland (Bret Victor)](https://dynamicland.org/2024/Intro/)
 * [2024-09-04, 17:15:41](https://news.ycombinator.com/item?id=41448168) - [Intel Core Ultra 200V Series Lunar Lake Launched](https://www.servethehome.com/intel-core-ultra-200v-series-lunar-lake-launched/)
 * [2024-09-04, 17:13:04](https://news.ycombinator.com/item?id=41448139) - [The coming long-run slowdown in corporate profit growth and stock returns [pdf]](https://www.federalreserve.gov/econres/feds/files/2023041pap.pdf)
 * [2024-09-04, 17:02:14](https://news.ycombinator.com/item?id=41448022) - [Dynamicland 2024](https://dynamicland.org/)
 * [2024-09-04, 17:01:05](https://news.ycombinator.com/item?id=41448005) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 * [2024-09-04, 16:52:40](https://news.ycombinator.com/item?id=41447909) - [Dolphin Progress Release 2407 and 2409](https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/)
 * [2024-09-04, 16:41:50](https://news.ycombinator.com/item?id=41447758) - [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://twitter.com/PublishersWkly/status/1831357570365497379)
+* [2024-09-04, 16:23:34](https://news.ycombinator.com/item?id=41447515) - [The First Nuclear Clock Will Test If Fundamental Constants Change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 * [2024-09-04, 16:23:00](https://news.ycombinator.com/item?id=41447507) - [Microsoft confirms that Windows 11 Recall AI is not optional](https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update)
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
 * [2024-09-04, 16:01:27](https://news.ycombinator.com/item?id=41447315) - [Microsoft's Inflection acquihire is too small to matter, say UK regulators](https://www.theregister.com/2024/09/04/microsoft_inflection_acquihire_cma/)
