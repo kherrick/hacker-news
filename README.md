@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-04, 21:02:36](https://news.ycombinator.com/item?id=41450775) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
-* [2024-09-04, 20:58:28](https://news.ycombinator.com/item?id=41450729) - [Oakland's new school buses reduce pollution – and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
+* [2024-09-04, 20:58:28](https://news.ycombinator.com/item?id=41450729) - [Oakland's new school buses reduce pollution and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
 * [2024-09-04, 20:51:51](https://news.ycombinator.com/item?id=41450660) - [Layman's Guide to Python Built-In Functions · Matt Layman](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
 * [2024-09-04, 18:56:00](https://news.ycombinator.com/item?id=41449229) - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
 * [2024-09-04, 18:46:33](https://news.ycombinator.com/item?id=41449111) - [Fake CV lands top 'engineer' in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
