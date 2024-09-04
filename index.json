@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 16:41:50",
+      "https://news.ycombinator.com/item?id=41447758"
+    ],
+    [
+      "The Internet Archive has lost its appeal in Hachette vs. Internet Archive",
+      "https://twitter.com/PublishersWkly/status/1831357570365497379"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 16:23:00",
       "https://news.ycombinator.com/item?id=41447507"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-09-04, 15:16:35",
-      "https://news.ycombinator.com/item?id=41446779"
+      "2024-09-04, 15:15:49",
+      "https://news.ycombinator.com/item?id=41446766"
     ],
     [
-      "RWKV.cpp is now being deployed with the latest Windows 11 system",
-      "https://twitter.com/RWKV_AI/status/1831000938120917336"
+      "Intel Honesty",
+      "https://stratechery.com/2024/intel-honesty/"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Boom Supersonic's XB-1 prototype aces 2nd test flight",
       "https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 14:28:00",
+      "https://news.ycombinator.com/item?id=41446252"
+    ],
+    [
+      "Avoiding Test-Case Permutation Blowout",
+      "https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2024-09-03, 18:49:25",
-      "https://news.ycombinator.com/item?id=41437846"
-    ],
-    [
-      "Show HN: Hestus – AI Copilot for CAD",
-      "https://www.hestus.co/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 16:40:51",
       "https://news.ycombinator.com/item?id=41436642"
     ],
     [
       "The Engineering of Landfills",
       "https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 16:08:52",
-      "https://news.ycombinator.com/item?id=41436338"
-    ],
-    [
-      "Show HN: Repaint – a WebGL based website builder",
-      "https://repaint.com"
     ]
   ],
   [
