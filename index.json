@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-09-04, 19:22:59",
-      "https://news.ycombinator.com/item?id=41449597"
-    ],
-    [
-      "AI Checkers Forcing Kids to Write Like a Robot to Avoid Being Called a Robot",
-      "https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 18:56:00",
       "https://news.ycombinator.com/item?id=41449229"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41448985"
     ],
     [
-      "Kagi: Announcing The Assistant",
+      "Kagi Assistant",
       "https://blog.kagi.com/announcing-assistant"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41448740"
     ],
     [
-      "CSS @property and the New Style",
+      "CSS @property and the new style",
       "https://ryanmulligan.dev/blog/css-property-new-style/"
     ]
   ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2024-09-04, 14:46:40",
+      "https://news.ycombinator.com/item?id=41446428"
+    ],
+    [
+      "The Insecurity of Debian",
+      "https://unix.foo/posts/insecurity-of-debian/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 14:28:00",
       "https://news.ycombinator.com/item?id=41446252"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-09-03, 12:54:47",
-      "https://news.ycombinator.com/item?id=41434500"
+      "2024-09-04, 09:05:44",
+      "https://news.ycombinator.com/item?id=41443468"
     ],
     [
-      "EUCLEAK Side-Channel Attack on the YubiKey 5 Series",
-      "https://ninjalab.io/eucleak/"
+      "Generalized Carlos Scales",
+      "https://arxiv.org/abs/2408.14551"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "A systematic approach to deriving incremental type checkers (2020)",
       "https://dl.acm.org/doi/10.1145/3428195"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 12:46:47",
+      "https://news.ycombinator.com/item?id=41424954"
+    ],
+    [
+      "Show HN: OBS Live-streaming with 120ms latency",
+      "https://github.com/Glimesh/broadcast-box"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Heavy Construction of a Sewage Pump Station – Ep 3 [video]",
       "https://www.youtube.com/watch?v=Yd4yxionQpg"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 15:05:50",
-      "https://news.ycombinator.com/item?id=41417542"
-    ],
-    [
-      "We built the city of Colombo in Cities:Skylines",
-      "https://github.com/team-watchdog/colombo-skylines"
     ]
   ],
   [
