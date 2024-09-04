@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 12:00:43](https://news.ycombinator.com/item?id=41444649) - [PlayHT (YC W23) Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
 * [2024-09-04, 11:21:24](https://news.ycombinator.com/item?id=41444334) - [NanoWrimo accepted people using AI – Authors Groups object](https://www.wired.com/story/nanowrimo-organizers-classist-and-ableist-to-condemn-ai/)
 * [2024-09-04, 11:14:43](https://news.ycombinator.com/item?id=41444282) - [Yubikeys are vulnerable to cloning attacks thanks to side channel](https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/)
 * [2024-09-04, 10:35:40](https://news.ycombinator.com/item?id=41444019) - [Civil Eats: Our Reporting Is Now Free for Everyone](https://civileats.com/2024/09/03/our-reporting-is-now-free-for-everyone/)
