@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 18:24:58](https://news.ycombinator.com/item?id=41448866) - [Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
+* [2024-09-04, 18:24:08](https://news.ycombinator.com/item?id=41448855) - [SpaceX Pulls Employees from Brazil, Discourages Travel There](https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3)
 * [2024-09-04, 18:13:51](https://news.ycombinator.com/item?id=41448740) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
+* [2024-09-04, 18:04:51](https://news.ycombinator.com/item?id=41448664) - [What's Functional Programming All About?](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 * [2024-09-04, 17:44:17](https://news.ycombinator.com/item?id=41448439) - [Show HN: An open-source implementation of AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3)
 * [2024-09-04, 17:41:00](https://news.ycombinator.com/item?id=41448412) - [Coding on iPad using self-hosted VSCode, Caddy, and code-server](https://tailscale.com/kb/1166/vscode-ipad)
 * [2024-09-04, 17:28:37](https://news.ycombinator.com/item?id=41448283) - [Introduction to Dynamicland (Bret Victor)](https://dynamicland.org/2024/Intro/)
