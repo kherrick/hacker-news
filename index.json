@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-09-04, 02:40:36",
-      "https://news.ycombinator.com/item?id=41441366"
+      "2024-09-04, 03:03:08",
+      "https://news.ycombinator.com/item?id=41441486"
     ],
     [
-      "How much is AI hurting the planet? Big tech won't tell us",
-      "https://mashable.com/article/ai-environment-energy"
+      "Navy chiefs conspired to get themselves illegal warship Wi-Fi",
+      "https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 02:01:35",
+      "https://news.ycombinator.com/item?id=41441159"
+    ],
+    [
+      "Court handcuffs employees with non-compete agreements – again",
+      "https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41441041"
     ],
     [
-      "Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson",
+      "Interviewing Tim Sweeney and Neal Stephenson",
       "https://www.matthewball.co/all/sweeneystephenson"
     ]
   ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2024-09-04, 00:49:27",
-      "https://news.ycombinator.com/item?id=41440783"
-    ],
-    [
-      "Draftkings fined after Slots \"glitch\" made it impossible to win",
-      "https://gamblingindustrynews.com/news/regulation/draftkings-fined-online-slot-no-payouts/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 00:11:21",
       "https://news.ycombinator.com/item?id=41440567"
     ],
     [
       "Intel: New Core Ultra Processors Deliver Breakthrough Performance",
       "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 23:50:13",
+      "https://news.ycombinator.com/item?id=41440469"
+    ],
+    [
+      "Show HN: I'm making an AI scraper called FetchFox",
+      "https://fetchfoxai.com/"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Writing a book in the age of open source",
       "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 19:54:39",
+      "https://news.ycombinator.com/item?id=41438542"
+    ],
+    [
+      "Show HN: Icebreaking AI. A free tool to help you find close friends",
+      "https://www.icebreakinglab.com"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-09-03, 14:38:01",
-      "https://news.ycombinator.com/item?id=41435409"
-    ],
-    [
-      "Show HN: PlasCAD: Open-source plasmid editor",
-      "https://github.com/David-OConnor/plascad"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 13:19:33",
       "https://news.ycombinator.com/item?id=41434679"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2024-09-03, 12:30:06",
-      "https://news.ycombinator.com/item?id=41434315"
-    ],
-    [
-      "Why bother with argv[0]?",
-      "https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 07:28:16",
       "https://news.ycombinator.com/item?id=41432257"
     ],
     [
       "Keeping CALM: When distributed consistency is easy",
       "https://arxiv.org/abs/1901.01930"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 04:11:16",
-      "https://news.ycombinator.com/item?id=41431177"
-    ],
-    [
-      "Wizardry Co-Creator Andrew Greenberg Has Passed Away",
-      "https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "There's a place for everyone",
       "https://www.experimental-history.com/p/theres-a-place-for-everyone"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 08:19:35",
+      "https://news.ycombinator.com/item?id=41415187"
+    ],
+    [
+      "Show HN: Shehzadi in Peril – My first ever game",
+      "https://shehzadi.vercel.app"
     ]
   ]
 ]
