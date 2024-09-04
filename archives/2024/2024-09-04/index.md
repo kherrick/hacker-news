@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 13:27:46](https://news.ycombinator.com/item?id=41445564) - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 * [2024-09-04, 13:26:39](https://news.ycombinator.com/item?id=41445542) - [The dawn of a new startup era](https://giansegato.com/essays/dawn-new-startup-era)
 * [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
 * [2024-09-04, 13:03:47](https://news.ycombinator.com/item?id=41445209) - [Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)

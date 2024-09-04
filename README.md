@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-04, 13:27:46](https://news.ycombinator.com/item?id=41445564) - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 * [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
 * [2024-09-04, 13:03:47](https://news.ycombinator.com/item?id=41445209) - [Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
-* [2024-09-04, 12:52:44](https://news.ycombinator.com/item?id=41445060) - [LibreOffice Timeline](https://www.libreoffice.org/about-us/libreoffice-timeline/)
 * [2024-09-04, 12:07:27](https://news.ycombinator.com/item?id=41444700) - [ReMarkable Paper Pro](https://remarkable.com/)
 * [2024-09-04, 12:00:43](https://news.ycombinator.com/item?id=41444649) - [PlayHT (YC W23) Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
