@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 16:23:00",
+      "https://news.ycombinator.com/item?id=41447507"
+    ],
+    [
+      "Microsoft confirms that Windows 11 Recall AI is not optional",
+      "https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 15:28:08",
       "https://news.ycombinator.com/item?id=41446916"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-09-04, 15:26:39",
+      "https://news.ycombinator.com/item?id=41446898"
+    ],
+    [
+      "Cloud of Disillusion: The Broken Promise of PaaS",
+      "https://pentacent.com/blog/leaving-the-cloud-broken-paas-promise/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 15:26:34",
       "https://news.ycombinator.com/item?id=41446896"
     ],
     [
       "Claude for Enterprise",
       "https://www.anthropic.com/news/claude-for-enterprise"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 15:16:35",
+      "https://news.ycombinator.com/item?id=41446779"
+    ],
+    [
+      "RWKV.cpp is now being deployed with the latest Windows 11 system",
+      "https://twitter.com/RWKV_AI/status/1831000938120917336"
     ]
   ],
   [
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2024-09-04, 04:45:41",
-      "https://news.ycombinator.com/item?id=41441990"
-    ],
-    [
-      "Simplifying programming with AI-tutors",
-      "https://www.edmigo.in/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 00:59:11",
       "https://news.ycombinator.com/item?id=41440842"
     ],
     [
       "Faster Integer Programming",
       "https://cacm.acm.org/news/faster-integer-programming/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 19:11:26",
-      "https://news.ycombinator.com/item?id=41438107"
-    ],
-    [
-      "Howm: Personal Wiki for Emacs",
-      "https://github.com/Emacs101/howm-manual"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-09-03, 02:47:00",
-      "https://news.ycombinator.com/item?id=41430772"
-    ],
-    [
-      "Greppability is an underrated code metric",
-      "https://morizbuesing.com/blog/greppability-code-metric/"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 20:10:35",
       "https://news.ycombinator.com/item?id=41428412"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-08-30, 19:25:07",
-      "https://news.ycombinator.com/item?id=41403719"
+      "2024-08-30, 23:43:00",
+      "https://news.ycombinator.com/item?id=41405504"
     ],
     [
-      "How to sort your library in exactly 51,271 steps",
-      "https://david.kolo.ski/blog/sort-library-steps-mtg/"
+      "Crash the GC with Random Values in Unsafe.Pointers",
+      "https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/"
     ]
   ]
 ]
