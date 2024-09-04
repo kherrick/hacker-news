@@ -7,6 +7,7 @@
 * [2024-09-04, 13:26:39](https://news.ycombinator.com/item?id=41445542) - [The dawn of a new startup era](https://giansegato.com/essays/dawn-new-startup-era)
 * [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
 * [2024-09-04, 13:03:47](https://news.ycombinator.com/item?id=41445209) - [Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
+* [2024-09-04, 12:52:44](https://news.ycombinator.com/item?id=41445060) - [LibreOffice Timeline](https://www.libreoffice.org/about-us/libreoffice-timeline/)
 * [2024-09-04, 12:44:16](https://news.ycombinator.com/item?id=41444978) - [Self-Driving Cars Get Help from Humans Miles Away](https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html)
 * [2024-09-04, 12:43:10](https://news.ycombinator.com/item?id=41444966) - [Admins wonder if the cloud was such a good idea after all](https://www.theregister.com/2024/09/04/cloud_buyers_regret/)
 * [2024-09-04, 12:42:20](https://news.ycombinator.com/item?id=41444961) - [Starlink U-turns, will block X in Brazil after all](https://www.theregister.com/2024/09/04/starlink_performs_a_180_and/)

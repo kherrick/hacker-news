@@ -2,7 +2,7 @@
 
 * [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
 * [2024-09-04, 13:03:47](https://news.ycombinator.com/item?id=41445209) - [Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
-* [2024-09-04, 12:10:37](https://news.ycombinator.com/item?id=41444724) - [A Logo on a Prosthesis Is Like a Tattoo You Didn't Ask For](https://www.theatlantic.com/health/archive/2024/08/prosthetic-limb-branding-bebionic/679461/)
+* [2024-09-04, 12:52:44](https://news.ycombinator.com/item?id=41445060) - [LibreOffice Timeline](https://www.libreoffice.org/about-us/libreoffice-timeline/)
 * [2024-09-04, 12:07:27](https://news.ycombinator.com/item?id=41444700) - [ReMarkable Paper Pro](https://remarkable.com/)
 * [2024-09-04, 12:00:43](https://news.ycombinator.com/item?id=41444649) - [PlayHT (YC W23) Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
@@ -12,7 +12,6 @@
 * [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
 * [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
-* [2024-09-03, 18:37:13](https://news.ycombinator.com/item?id=41437740) - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
 * [2024-09-03, 17:23:46](https://news.ycombinator.com/item?id=41437095) - [The Fourier Uncertainty Principles [pdf] (2021)](https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf)
 * [2024-09-03, 16:40:51](https://news.ycombinator.com/item?id=41436642) - [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
 * [2024-09-03, 16:08:52](https://news.ycombinator.com/item?id=41436338) - [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
@@ -28,6 +27,7 @@
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
+* [2024-09-01, 15:16:42](https://news.ycombinator.com/item?id=41417653) - [Fasnacht: Basel's \"three most beautiful days\"](https://shoreleave.substack.com/p/in-search-of-circus-europa)
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
 * [2024-08-30, 19:25:07](https://news.ycombinator.com/item?id=41403719) - [How to sort your library in exactly 51,271 steps](https://david.kolo.ski/blog/sort-library-steps-mtg/)
 
