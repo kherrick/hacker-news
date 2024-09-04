@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-09-04, 14:46:40",
+      "https://news.ycombinator.com/item?id=41446428"
+    ],
+    [
+      "The Insecurity of Debian",
+      "https://unix.foo/posts/insecurity-of-debian/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 14:28:00",
       "https://news.ycombinator.com/item?id=41446252"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2024-09-02, 18:00:48",
-      "https://news.ycombinator.com/item?id=41427491"
-    ],
-    [
-      "A systematic approach to deriving incremental type checkers (2020)",
-      "https://dl.acm.org/doi/10.1145/3428195"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 11:49:00",
       "https://news.ycombinator.com/item?id=41424637"
     ],
     [
       "Ask HN: Any Recommendations Around Programming on an iPad?",
       "https://news.ycombinator.com/item?id=41424637"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 21:05:57",
+      "https://news.ycombinator.com/item?id=41420398"
+    ],
+    [
+      "Flower Machine",
+      "https://blog.rahix.de/tags/flower-machine/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Routed Gothic Font",
       "https://webonastick.com/fonts/routed-gothic/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 23:43:00",
-      "https://news.ycombinator.com/item?id=41405504"
-    ],
-    [
-      "Crash the GC with Random Values in Unsafe.Pointers",
-      "https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/"
     ]
   ]
 ]
