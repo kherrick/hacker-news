@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-09-04, 19:19:49",
-      "https://news.ycombinator.com/item?id=41449554"
-    ],
-    [
-      "Rust in Linux lead retires rather than deal with more \"nontechnical nonsense\"",
-      "https://arstechnica.com/gadgets/2024/09/rust-in-linux-lead-retires-rather-than-deal-with-more-nontechnical-nonsense/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 18:56:00",
       "https://news.ycombinator.com/item?id=41449229"
     ],
@@ -47,16 +37,6 @@
     [
       "Kagi: Announcing The Assistant",
       "https://blog.kagi.com/announcing-assistant"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 18:31:01",
-      "https://news.ycombinator.com/item?id=41448931"
-    ],
-    [
-      "Major book publishers defeat Internet Archive appeal over digital scanning",
-      "https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html"
     ]
   ],
   [
@@ -101,16 +81,6 @@
   ],
   [
     [
-      "2024-09-04, 17:28:37",
-      "https://news.ycombinator.com/item?id=41448283"
-    ],
-    [
-      "Introduction to Dynamicland (Bret Victor)",
-      "https://dynamicland.org/2024/Intro/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 17:02:14",
       "https://news.ycombinator.com/item?id=41448022"
     ],
@@ -127,16 +97,6 @@
     [
       "Bun (YC S19) Is Hiring Systems Engineers in San Francisco",
       "https://apply.workable.com/oven/j/A7A1388873/"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 16:52:40",
-      "https://news.ycombinator.com/item?id=41447909"
-    ],
-    [
-      "Dolphin Progress Release 2407 and 2409",
-      "https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/"
     ]
   ],
   [
@@ -191,6 +151,16 @@
   ],
   [
     [
+      "2024-09-04, 14:38:09",
+      "https://news.ycombinator.com/item?id=41446337"
+    ],
+    [
+      "Boom Supersonic's XB-1 prototype aces 2nd test flight",
+      "https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 14:28:00",
       "https://news.ycombinator.com/item?id=41446252"
     ],
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2024-09-03, 16:39:21",
+      "https://news.ycombinator.com/item?id=41436630"
+    ],
+    [
+      "Why did Windows 95 use blue screen error messages instead of hard error messages",
+      "https://devblogs.microsoft.com/oldnewthing/20240903-00/?p=110205"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 12:54:47",
       "https://news.ycombinator.com/item?id=41434500"
     ],
@@ -257,6 +237,26 @@
     [
       "'Dancing' raisins − a simple kitchen experiment",
       "https://theconversation.com/dancing-raisins-a-simple-kitchen-experiment-reveals-how-objects-can-extract-energy-from-their-environment-and-come-to-life-223255"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 18:00:48",
+      "https://news.ycombinator.com/item?id=41427491"
+    ],
+    [
+      "A systematic approach to deriving incremental type checkers (2020)",
+      "https://dl.acm.org/doi/10.1145/3428195"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 12:46:47",
+      "https://news.ycombinator.com/item?id=41424954"
+    ],
+    [
+      "Show HN: OBS Live-streaming with 120ms latency",
+      "https://github.com/Glimesh/broadcast-box"
     ]
   ],
   [
