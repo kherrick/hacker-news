@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 21:18:13](https://news.ycombinator.com/item?id=41450948) - [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
 * [2024-09-04, 21:02:36](https://news.ycombinator.com/item?id=41450775) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
 * [2024-09-04, 20:58:28](https://news.ycombinator.com/item?id=41450729) - [Oakland's new school buses reduce pollution – and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
 * [2024-09-04, 20:51:51](https://news.ycombinator.com/item?id=41450660) - [Layman's Guide to Python Built-In Functions · Matt Layman](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
@@ -29,6 +30,7 @@
 * [2024-09-04, 17:01:05](https://news.ycombinator.com/item?id=41448005) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 * [2024-09-04, 16:52:40](https://news.ycombinator.com/item?id=41447909) - [Dolphin Progress Release 2407 and 2409](https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/)
 * [2024-09-04, 16:41:50](https://news.ycombinator.com/item?id=41447758) - [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://twitter.com/PublishersWkly/status/1831357570365497379)
+* [2024-09-04, 16:41:50](https://news.ycombinator.com/item?id=41447758) - [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf)
 * [2024-09-04, 16:23:34](https://news.ycombinator.com/item?id=41447515) - [The First Nuclear Clock Will Test If Fundamental Constants Change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 * [2024-09-04, 16:23:00](https://news.ycombinator.com/item?id=41447507) - [Microsoft confirms that Windows 11 Recall AI is not optional](https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update)
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
