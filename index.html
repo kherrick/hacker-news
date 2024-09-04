@@ -129,24 +129,242 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41448740">
+          <h3>
+            <a
+              class="item"
+              href="https://ryanmulligan.dev/blog/css-property-new-style/"
+              >CSS @property and the New Style</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-04 @ 18:13:51</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41448740"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41448439">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/Ligo-Biosciences/AlphaFold3"
+              >Show HN: An open-source implementation of AlphaFold3</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-04 @ 17:44:17</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41448439"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Google DeepMind and their new startup Isomorphic Labs, are
+                expanding into drug discovery. They developed AlphaFold3 as
+                their model to accelerate drug discovery and create demand from
+                big pharma. They already signed Novartis and Eli Lilly for $3
+                billion - Google’s becoming a pharma company! (<a
+                  href="https://www.isomorphiclabs.com/articles/isomorphic-labs-kicks-off-2024-with-two-pharmaceutical-collaborations"
+                  >https://www.isomorphiclabs.com/articles/isomorphic-labs-kick...</a
+                >)
+              </p>
+              <p>
+                AlphaFold3 is a biomolecular structure prediction model that can
+                do three main things: (1) Predict the structure of proteins; (2)
+                Predict the structure of drug-protein interactions; (3) Predict
+                nucleic acid - protein complex structure.
+              </p>
+              <p>
+                AlphaFold3 is incredibly important for science because it vastly
+                accelerates the mapping of protein structures. It takes one PhD
+                student their entire PhD to do one structure. With AlphaFold3,
+                you get a prediction in minutes on par with experimental
+                accuracy.
+              </p>
+              <p>
+                There’s just one problem: when DeepMind published AlphaFold3 in
+                May (<a
+                  href="https://www.nature.com/articles/s41586-024-07487-w"
+                  >https://www.nature.com/articles/s41586-024-07487-w</a
+                >), there was no code. This brought up questions about
+                reproducibility (<a
+                  href="https://www.nature.com/articles/d41586-024-01463-0"
+                  >https://www.nature.com/articles/d41586-024-01463-0</a
+                >) as well as complaints from the scientific community (<a
+                  href="https://undark.org/2024/06/06/opinion-alphafold-3-open-source/"
+                  >https://undark.org/2024/06/06/opinion-alphafold-3-open-sourc...</a
+                >).
+              </p>
+              <p>
+                AlphaFold3 is a fundamental advance in structure modeling
+                technology that the entire biotech industry deserves to be able
+                to reap the benefits from. Its applications are vast, including:
+              </p>
+              <p>
+                - CRISPR gene editing technologies, where scientists can see
+                exactly how the DNA interacts with the scissor Cas protein;
+              </p>
+              <p>
+                - Cancer research - predicting how a potential drug binds to the
+                cancer target. One of the highlights in DeepMind’s paper is the
+                prediction of a clinical KRAS inhibitor in complex with its
+                target.
+              </p>
+              <p>
+                - Antibody / nanobody to target predictions. AlphaFold3 improves
+                accuracy on this class of molecules 2 fold compared to the next
+                best tool.
+              </p>
+              <p>
+                Unfortunately, no companies can use it since it is under a
+                non-commercial license!
+              </p>
+              <p>
+                Today we are releasing the full model trained on single chain
+                proteins (capability 1 above), with the other two capabilities
+                to be trained and released soon. We also include the training
+                code. Weights will be released once training and benchmarking is
+                complete. We wanted this to be truly open source so we used the
+                Apache 2.0 license.
+              </p>
+              <p>
+                Deepmind published the full structure of the model, along with
+                each components’ pseudocode in their paper. We translated this
+                fully into PyTorch, which required more reverse engineering than
+                we thought!
+              </p>
+              <p>
+                When building the initial version, we discovered multiple issues
+                in DeepMind’s paper that would interfere with the training - we
+                think the deep learning community might find these especially
+                interesting. (Diffusion folks, we would love feedback on this!)
+                These include:
+              </p>
+              <p>
+                - MSE loss scaling differs from Karras et al. (2022). The
+                weighting provided in the paper does not downweigh the loss at
+                high noise levels.
+              </p>
+              <p>
+                - Omission of residual layers in the paper - we add these back
+                and see benefits in gradient flow and convergence. Anyone have
+                any idea why Deepmind may have omitted the residual connections
+                in the DiT blocks?
+              </p>
+              <p>
+                - The MSA module, in its current form, has dead layers. The last
+                pair weighted averaging and transition layers cannot contribute
+                to the pair representation, hence no grads. We swap the order to
+                the one in the ExtraMsaStack in AlphaFold2. An alternative
+                solution would be to use weight sharing, but whether this is
+                done is ambiguous in the paper.
+              </p>
+              <p>
+                More about those issues here:
+                <a href="https://github.com/Ligo-Biosciences/AlphaFold3"
+                  >https://github.com/Ligo-Biosciences/AlphaFold3</a
+                >
+              </p>
+              <p>
+                How this came about: we are building Ligo (YC S24), where we are
+                using ideas from AlphaFold3 for enzyme design. We thought open
+                sourcing it was a nice side quest to benefit the community.
+              </p>
+              <p>
+                For those on Twitter, there was a good thread a few days ago
+                that has more information:
+                <a
+                  href="https://twitter.com/ArdaGoreci/status/1830744265007480934"
+                  >https://twitter.com/ArdaGoreci/status/1830744265007480934</a
+                >.
+              </p>
+              <p>
+                A few shoutouts: A huge thanks to OpenFold for pioneering the
+                previous open source implementation of AlphaFold We did a lot of
+                our early prototyping with proteinFlow developed by Lisa at
+                AdaptyvBio we also look forward to partnering with them to bring
+                you the next versions! We are also partnering with Basecamp
+                Research to supply this model with the best sequence data known
+                to science. Matthew Clark (<a href="https://batisio.co.uk"
+                  >https://batisio.co.uk</a
+                >) for his amazing animations!
+              </p>
+              <p>
+                We’re around to answer questions and look forward to hearing
+                from you!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="41448412">
+          <h3>
+            <a class="item" href="https://tailscale.com/kb/1166/vscode-ipad"
+              >Coding on iPad using self-hosted VSCode, Caddy, and
+              code-server</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-04 @ 17:41:00</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41448412"
+                  >Comments</a
+                ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41448283">
+          <h3>
+            <a class="item" href="https://dynamicland.org/2024/Intro/"
+              >Introduction to Dynamicland (Bret Victor)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-04 @ 17:28:37</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41448283"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41448139">
           <h3>
             <a
               class="item"
               href="https://www.federalreserve.gov/econres/feds/files/2023041pap.pdf"
               >The coming long-run slowdown in corporate profit growth and stock
-              returns [pdf]</a
+              returns [pdf] (2023)</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-09-04 @ 17:13:04</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41448139"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -159,11 +377,11 @@
             <h4>
               <span>2024-09-04 @ 17:02:14</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41448022"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -195,11 +413,33 @@
             <h4>
               <span>2024-09-04 @ 16:52:40</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41447909"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41447515">
+          <h3>
+            <a
+              class="item"
+              href="https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/"
+              >The First Nuclear Clock Will Test If Fundamental Constants
+              Change</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-04 @ 16:23:34</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41447515"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -214,11 +454,11 @@
             <h4>
               <span>2024-09-04 @ 16:01:40</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41447317"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -337,32 +577,11 @@
             <h4>
               <span>2024-09-04 @ 15:28:08</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41446916"
                   >Comments</a
                 ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41446896">
-          <h3>
-            <a
-              class="item"
-              href="https://www.anthropic.com/news/claude-for-enterprise"
-              >Claude for Enterprise</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-04 @ 15:26:34</span
-              ><span class="points-container"
-                >Points: <span class="points">67</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41446896"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -377,11 +596,11 @@
             <h4>
               <span>2024-09-04 @ 15:15:49</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41446766"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -415,11 +634,11 @@
             <h4>
               <span>2024-09-04 @ 14:46:40</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41446428"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -436,11 +655,11 @@
             <h4>
               <span>2024-09-04 @ 14:38:09</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41446337"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -457,11 +676,11 @@
             <h4>
               <span>2024-09-04 @ 14:28:00</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41446252"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -478,11 +697,11 @@
             <h4>
               <span>2024-09-04 @ 13:43:19</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41445790"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -497,7 +716,7 @@
             <h4>
               <span>2024-09-04 @ 13:21:19</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41445445"
                   >Comments</a
@@ -621,27 +840,6 @@
             </div>
           </section>
         </section>
-        <section id="41445413">
-          <h3>
-            <a
-              class="item"
-              href="https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/"
-              >Ilya Sutskever's SSI Inc raises $1B</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-04 @ 13:17:55</span
-              ><span class="points-container"
-                >Points: <span class="points">312</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41445413"
-                  >Comments</a
-                ><span class="descendants">: 301</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41445209">
           <h3>
             <a
@@ -654,7 +852,7 @@
             <h4>
               <span>2024-09-04 @ 13:03:47</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41445209"
                   >Comments</a
@@ -673,11 +871,11 @@
             <h4>
               <span>2024-09-04 @ 12:07:27</span
               ><span class="points-container"
-                >Points: <span class="points">407</span></span
+                >Points: <span class="points">417</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41444700"
                   >Comments</a
-                ><span class="descendants">: 375</span></span
+                ><span class="descendants">: 379</span></span
               >
             </h4>
           </section>
@@ -692,7 +890,7 @@
             <h4>
               <span>2024-09-04 @ 09:10:02</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41443493"
                   >Comments</a
@@ -733,7 +931,7 @@
             <h4>
               <span>2024-09-04 @ 06:17:09</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41442442"
                   >Comments</a
@@ -754,72 +952,11 @@
             <h4>
               <span>2024-09-04 @ 00:59:11</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41440842"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41438060">
-          <h3>
-            <a
-              class="item"
-              href="https://www.elysian.press/p/mondragon-as-the-new-city-state"
-              >Mondragon as the new city-state</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-03 @ 19:06:26</span
-              ><span class="points-container"
-                >Points: <span class="points">198</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41438060"
-                  >Comments</a
-                ><span class="descendants">: 250</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41436642">
-          <h3>
-            <a
-              class="item"
-              href="https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills"
-              >The Engineering of Landfills</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-03 @ 16:40:51</span
-              ><span class="points-container"
-                >Points: <span class="points">472</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41436642"
-                  >Comments</a
-                ><span class="descendants">: 297</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41436158">
-          <h3>
-            <a class="item" href="https://chromatone.center/"
-              >Chromatone – Visual Music Language</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-03 @ 15:54:37</span
-              ><span class="points-container"
-                >Points: <span class="points">236</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41436158"
-                  >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -834,11 +971,11 @@
             <h4>
               <span>2024-09-03 @ 12:54:47</span
               ><span class="points-container"
-                >Points: <span class="points">667</span></span
+                >Points: <span class="points">668</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41434500"
                   >Comments</a
-                ><span class="descendants">: 252</span></span
+                ><span class="descendants">: 253</span></span
               >
             </h4>
           </section>
@@ -895,11 +1032,11 @@
             <h4>
               <span>2024-09-01 @ 15:05:50</span
               ><span class="points-container"
-                >Points: <span class="points">432</span></span
+                >Points: <span class="points">436</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41417542"
                   >Comments</a
-                ><span class="descendants">: 141</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -914,7 +1051,7 @@
             <h4>
               <span>2024-08-31 @ 22:42:59</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41412601"
                   >Comments</a
