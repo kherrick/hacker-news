@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
 * [2024-09-03, 23:28:18](https://news.ycombinator.com/item?id=41440340) - [Starlink Backtracks and Will Comply with Judge's Order to Block X in Brazil](https://www.usnews.com/news/business/articles/2024-09-03/musks-starlink-backtracks-and-will-comply-with-judges-order-to-block-x-in-brazil)
+* [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
 * [2024-09-03, 22:04:01](https://news.ycombinator.com/item?id=41439777) - [Engineering over AI](https://martinantos.com/engineering-over-ai/)
 * [2024-09-03, 21:32:51](https://news.ycombinator.com/item?id=41439477) - [Microsoft Says Apple's 30% Fee Makes Xbox Cloud Gaming iOS App 'Impossible'](https://www.macrumors.com/2024/09/03/microsoft-cloud-gaming-ios-app-impossible/)
 * [2024-09-03, 21:02:32](https://news.ycombinator.com/item?id=41439168) - [Oakland Police Are Towing Teslas for Crime Scene Footage](https://www.carscoops.com/2024/09/california-police-might-use-your-teslas-sentry-video-to-solve-nearby-crimes/)
@@ -65,6 +66,7 @@
 * [2024-09-03, 09:35:14](https://news.ycombinator.com/item?id=41433053) - [Apache's odd behavior for requests with a domain with a dot at the end](https://utcc.utoronto.ca/~cks/space/blog/web/ApacheDomainDotConfusion)
 * [2024-09-03, 08:15:28](https://news.ycombinator.com/item?id=41432536) - [Amazon is trying to trick me into signing up for Prime services](https://www.theguardian.com/money/article/2024/sep/02/amazon-is-trying-to-trick-me-into-signing-up-for-prime-services)
 * [2024-09-03, 08:14:07](https://news.ycombinator.com/item?id=41432525) - [Hugging Face tackles speech-to-speech](https://github.com/huggingface/speech-to-speech)
+* [2024-09-03, 07:28:16](https://news.ycombinator.com/item?id=41432257) - [Keeping CALM: When distributed consistency is easy](https://arxiv.org/abs/1901.01930)
 * [2024-09-03, 07:06:11](https://news.ycombinator.com/item?id=41432109) - [Solar will get too cheap to connect to the power grid](https://climate.benjames.io/solar-off-grid/)
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
 * [2024-09-03, 07:00:19](https://news.ycombinator.com/item?id=41432077) - [Dungeon Dash – A super fun command-line RPG game](https://github.com/Faizan711/dungeon-dash/blob/main/README.md)
