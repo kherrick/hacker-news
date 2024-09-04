@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 18:56:00](https://news.ycombinator.com/item?id=41449229) - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
+* [2024-09-04, 18:31:01](https://news.ycombinator.com/item?id=41448931) - [Major book publishers defeat Internet Archive appeal over digital scanning](https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html)
 * [2024-09-04, 18:24:58](https://news.ycombinator.com/item?id=41448866) - [Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 * [2024-09-04, 18:24:08](https://news.ycombinator.com/item?id=41448855) - [SpaceX Pulls Employees from Brazil, Discourages Travel There](https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3)
 * [2024-09-04, 18:13:51](https://news.ycombinator.com/item?id=41448740) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
