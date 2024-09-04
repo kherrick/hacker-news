@@ -2,12 +2,12 @@
 
 * [2024-09-04, 01:37:03](https://news.ycombinator.com/item?id=41441041) - [Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 * [2024-09-04, 01:00:07](https://news.ycombinator.com/item?id=41440851) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+* [2024-09-04, 00:30:15](https://news.ycombinator.com/item?id=41440662) - [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)
 * [2024-09-04, 00:11:21](https://news.ycombinator.com/item?id=41440567) - [Intel: New Core Ultra Processors Deliver Breakthrough Performance](https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html)
 * [2024-09-03, 23:50:13](https://news.ycombinator.com/item?id=41440469) - [Show HN: I'm making an AI scraper called FetchFox](https://fetchfoxai.com/)
 * [2024-09-03, 23:41:21](https://news.ycombinator.com/item?id=41440415) - [OpenAI and Anthropic agree to send models to US Government for safety evaluation](https://venturebeat.com/ai/openai-and-anthropic-agree-to-send-models-to-us-government-for-safety-evaluations/)
 * [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
 * [2024-09-03, 20:47:49](https://news.ycombinator.com/item?id=41439041) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
-* [2024-09-03, 19:54:39](https://news.ycombinator.com/item?id=41438542) - [Show HN: Icebreaking AI. A free tool to help you find close friends](https://www.icebreakinglab.com)
 * [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 * [2024-09-03, 18:45:31](https://news.ycombinator.com/item?id=41437807) - [Hot Temperature and High Stakes Performance [pdf]](https://www3.nd.edu/~nmark/Climate/JParkHotTempHighStakes.pdf)
