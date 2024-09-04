@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 11:14:43](https://news.ycombinator.com/item?id=41444282) - [Yubikeys are vulnerable to cloning attacks thanks to side channel](https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/)
 * [2024-09-04, 10:35:40](https://news.ycombinator.com/item?id=41444019) - [Civil Eats: Our Reporting Is Now Free for Everyone](https://civileats.com/2024/09/03/our-reporting-is-now-free-for-everyone/)
 * [2024-09-04, 09:35:50](https://news.ycombinator.com/item?id=41443671) - [Started with an AI agent, now doing a thing that won't scale](https://medium.com/@vkweb/started-with-an-ai-agent-now-doing-a-thing-that-wont-scale-my-startup-journey-so-far-49a053f01f8c)
 * [2024-09-04, 08:45:50](https://news.ycombinator.com/item?id=41443347) - [Britain's reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)

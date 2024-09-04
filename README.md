@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-04, 11:14:43](https://news.ycombinator.com/item?id=41444282) - [Yubikeys are vulnerable to cloning attacks thanks to side channel](https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/)
 * [2024-09-04, 10:35:40](https://news.ycombinator.com/item?id=41444019) - [Civil Eats: Our Reporting Is Now Free for Everyone](https://civileats.com/2024/09/03/our-reporting-is-now-free-for-everyone/)
 * [2024-09-04, 08:45:50](https://news.ycombinator.com/item?id=41443347) - [Britain's reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)
 * [2024-09-04, 08:44:37](https://news.ycombinator.com/item?id=41443336) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
@@ -13,12 +14,12 @@
 * [2024-09-03, 22:30:31](https://news.ycombinator.com/item?id=41439983) - [Llms.txt](https://llmstxt.org/)
 * [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
 * [2024-09-03, 18:49:25](https://news.ycombinator.com/item?id=41437846) - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
-* [2024-09-03, 17:23:46](https://news.ycombinator.com/item?id=41437095) - [The Fourier Uncertainty Principles [pdf] (2021)](https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf)
 * [2024-09-03, 16:40:51](https://news.ycombinator.com/item?id=41436642) - [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
 * [2024-09-03, 16:08:52](https://news.ycombinator.com/item?id=41436338) - [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
 * [2024-09-03, 15:54:37](https://news.ycombinator.com/item?id=41436158) - [Chromatone – Visual Music Language](https://chromatone.center/)
 * [2024-09-03, 13:19:33](https://news.ycombinator.com/item?id=41434679) - [Synchronizing Pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
 * [2024-09-03, 12:54:47](https://news.ycombinator.com/item?id=41434500) - [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
+* [2024-09-03, 10:02:06](https://news.ycombinator.com/item?id=41433205) - [The Fundamental Law of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
 * [2024-09-03, 07:28:16](https://news.ycombinator.com/item?id=41432257) - [Keeping CALM: When distributed consistency is easy (2019)](https://arxiv.org/abs/1901.01930)
 * [2024-09-03, 07:27:03](https://news.ycombinator.com/item?id=41432245) - [Make Your Own CDN with NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
 * [2024-09-03, 06:46:11](https://news.ycombinator.com/item?id=41431997) - [Typewriter Interview with Elisa Gabbert](https://austinkleon.substack.com/p/typewriter-interview-with-elisa-gabbert)
@@ -28,7 +29,6 @@
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 * [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
 * [2024-09-01, 15:05:50](https://news.ycombinator.com/item?id=41417542) - [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
-* [2024-08-30, 19:25:07](https://news.ycombinator.com/item?id=41403719) - [How to sort your library in exactly 51,271 steps](https://david.kolo.ski/blog/sort-library-steps-mtg/)
 * [2024-08-30, 18:42:21](https://news.ycombinator.com/item?id=41403411) - [Poor man's signals – tiny vanilla JavaScript signals implementation](https://plainvanillaweb.com/blog/articles/2024-08-30-poor-mans-signals/)
 
 ## [Archives](archives/index.md)

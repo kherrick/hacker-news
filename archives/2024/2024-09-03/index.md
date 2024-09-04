@@ -66,6 +66,7 @@
 * [2024-09-03, 11:14:33](https://news.ycombinator.com/item?id=41433673) - [Europeans fail to understand how much they were fucked by the 2008 crisis](https://twitter.com/RnaudBertrand/status/1830816765611590043)
 * [2024-09-03, 10:21:41](https://news.ycombinator.com/item?id=41433316) - [AI worse than humans in every way at summarising information, trial finds](https://www.crikey.com.au/2024/09/03/ai-worse-summarising-information-humans-government-trial/)
 * [2024-09-03, 10:14:59](https://news.ycombinator.com/item?id=41433285) - [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
+* [2024-09-03, 10:02:06](https://news.ycombinator.com/item?id=41433205) - [The Fundamental Law of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
 * [2024-09-03, 09:39:27](https://news.ycombinator.com/item?id=41433075) - [Getting price-gouged by private equity in the UK's happiest resort](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
 * [2024-09-03, 09:35:14](https://news.ycombinator.com/item?id=41433053) - [Apache's odd behavior for requests with a domain with a dot at the end](https://utcc.utoronto.ca/~cks/space/blog/web/ApacheDomainDotConfusion)
 * [2024-09-03, 08:15:28](https://news.ycombinator.com/item?id=41432536) - [Amazon is trying to trick me into signing up for Prime services](https://www.theguardian.com/money/article/2024/sep/02/amazon-is-trying-to-trick-me-into-signing-up-for-prime-services)
