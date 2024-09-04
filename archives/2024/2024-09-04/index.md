@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 14:46:40](https://news.ycombinator.com/item?id=41446428) - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
+* [2024-09-04, 14:42:03](https://news.ycombinator.com/item?id=41446387) - [Shaving is too expensive](https://johnwhiles.com/posts/shaving)
 * [2024-09-04, 14:38:09](https://news.ycombinator.com/item?id=41446337) - [Boom Supersonic's XB-1 prototype aces 2nd test flight](https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos)
 * [2024-09-04, 14:18:29](https://news.ycombinator.com/item?id=41446148) - [Police Seize Teslas That Witnessed Crimes [video]](https://www.youtube.com/watch?v=S40zSUJABpw)
+* [2024-09-04, 13:43:19](https://news.ycombinator.com/item?id=41445790) - [Physics is unreasonably good at creating new math](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/)
 * [2024-09-04, 13:27:46](https://news.ycombinator.com/item?id=41445564) - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 * [2024-09-04, 13:26:39](https://news.ycombinator.com/item?id=41445542) - [The dawn of a new startup era](https://giansegato.com/essays/dawn-new-startup-era)
+* [2024-09-04, 13:23:18](https://news.ycombinator.com/item?id=41445482) - [NSA to Launch 'No Such Podcast,'](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/article/3888139/nsa-to-launch-no-such-podcast-pulling-back-curtain-on-mission-culture-people/)
 * [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
+* [2024-09-04, 13:15:22](https://news.ycombinator.com/item?id=41445369) - [Securing a Linux Server](https://kenhv.com/blog/securing-a-linux-server)
 * [2024-09-04, 13:03:47](https://news.ycombinator.com/item?id=41445209) - [Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
 * [2024-09-04, 12:52:44](https://news.ycombinator.com/item?id=41445060) - [LibreOffice Timeline](https://www.libreoffice.org/about-us/libreoffice-timeline/)
 * [2024-09-04, 12:44:16](https://news.ycombinator.com/item?id=41444978) - [Self-Driving Cars Get Help from Humans Miles Away](https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html)
