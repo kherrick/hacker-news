@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 09:35:50](https://news.ycombinator.com/item?id=41443671) - [Started with an AI agent, now doing a thing that won't scale](https://medium.com/@vkweb/started-with-an-ai-agent-now-doing-a-thing-that-wont-scale-my-startup-journey-so-far-49a053f01f8c)
 * [2024-09-04, 08:45:50](https://news.ycombinator.com/item?id=41443347) - [Britain's reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)
+* [2024-09-04, 08:44:37](https://news.ycombinator.com/item?id=41443336) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
 * [2024-09-04, 08:29:20](https://news.ycombinator.com/item?id=41443222) - [Tech failure nearly caused massive flood in Amsterdam](https://nltimes.nl/2024/09/03/tech-failure-nearly-caused-massive-flood-amsterdam-city-center-november-2023)
 * [2024-09-04, 07:07:15](https://news.ycombinator.com/item?id=41442705) - [Immigration has remade the U.S. labor force](https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee)
 * [2024-09-04, 07:04:39](https://news.ycombinator.com/item?id=41442688) - [I made a super simple diff tool that's free and has no annoying ads](https://www.littlediffer.com/)
