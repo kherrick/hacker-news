@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 19:22:59](https://news.ycombinator.com/item?id=41449597) - [AI Checkers Forcing Kids to Write Like a Robot to Avoid Being Called a Robot](https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/)
+* [2024-09-04, 19:19:49](https://news.ycombinator.com/item?id=41449554) - [Rust in Linux lead retires rather than deal with more \"nontechnical nonsense\"](https://arstechnica.com/gadgets/2024/09/rust-in-linux-lead-retires-rather-than-deal-with-more-nontechnical-nonsense/)
 * [2024-09-04, 18:56:00](https://news.ycombinator.com/item?id=41449229) - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
 * [2024-09-04, 18:46:33](https://news.ycombinator.com/item?id=41449111) - [Fake CV lands top 'engineer' in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
 * [2024-09-04, 18:41:16](https://news.ycombinator.com/item?id=41449038) - [Printing Money](https://neal.fun/printing-money/)
 * [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
 * [2024-09-04, 18:31:01](https://news.ycombinator.com/item?id=41448931) - [Major book publishers defeat Internet Archive appeal over digital scanning](https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html)
+* [2024-09-04, 18:24:58](https://news.ycombinator.com/item?id=41448866) - [Amazon bans its drivers from moving their own lips too much at work](https://www.freightwaves.com/news/should-truckers-be-allowed-to-sing-along-with-the-radio)
 * [2024-09-04, 18:24:58](https://news.ycombinator.com/item?id=41448866) - [Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 * [2024-09-04, 18:24:08](https://news.ycombinator.com/item?id=41448855) - [SpaceX Pulls Employees from Brazil, Discourages Travel There](https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3)
 * [2024-09-04, 18:23:24](https://news.ycombinator.com/item?id=41448842) - [Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://nitter.poast.org/PublishersWkly/status/1831357570365497379#m)
