@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 15:28:08](https://news.ycombinator.com/item?id=41446916) - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
 * [2024-09-04, 15:26:34](https://news.ycombinator.com/item?id=41446896) - [Claude for Enterprise](https://www.anthropic.com/news/claude-for-enterprise)
 * [2024-09-04, 15:20:38](https://news.ycombinator.com/item?id=41446823) - [Cops Are Towing Teslas to Secure Recordings Captured by the Cars Cameras](https://www.techdirt.com/2024/09/03/cops-are-starting-to-tow-away-teslas-to-secure-recordings-captured-by-the-cars-cameras/)
+* [2024-09-04, 15:10:02](https://news.ycombinator.com/item?id=41446687) - [Mockingboard 4c+: Because Interrupts Are Hard](https://blondihacks.com/mockingboard-4c/)
 * [2024-09-04, 14:54:11](https://news.ycombinator.com/item?id=41446511) - [Mozilla Is Interested in a Rust JPEG-XL Decoder for Firefox](https://www.phoronix.com/news/Mozilla-Interest-JPEG-XL-Rust)
 * [2024-09-04, 14:46:40](https://news.ycombinator.com/item?id=41446428) - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
 * [2024-09-04, 14:42:03](https://news.ycombinator.com/item?id=41446387) - [Shaving is too expensive](https://johnwhiles.com/posts/shaving)
