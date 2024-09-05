@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-09-04, 15:28:08",
+      "https://news.ycombinator.com/item?id=41446916"
+    ],
+    [
+      "sRGB Gamut Clipping (2021)",
+      "https://bottosson.github.io/posts/gamutclipping/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 09:10:02",
       "https://news.ycombinator.com/item?id=41443493"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=41432101"
     ],
     [
-      "The Elements of APIs by John Holdun",
+      "The Elements of APIs by John Holdun (2021)",
       "https://johnholdun.com/apis/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "How the Hourglass Won",
       "https://systemsapproach.org/2024/08/19/how-the-hourglass-won/"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 15:34:55",
-      "https://news.ycombinator.com/item?id=41426318"
-    ],
-    [
-      "Understanding Pgvector's HNSW Index Storage in Postgres",
-      "https://lantern.dev/blog/pgvector-storage"
     ]
   ],
   [
