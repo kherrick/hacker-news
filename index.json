@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-05, 22:37:12",
-      "https://news.ycombinator.com/item?id=41460984"
-    ],
-    [
-      "First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor",
-      "https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 20:47:29",
       "https://news.ycombinator.com/item?id=41460276"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2024-09-05, 04:46:59",
-      "https://news.ycombinator.com/item?id=41453557"
-    ],
-    [
-      "Desed: Demystify and debug your sed scripts",
-      "https://github.com/SoptikHa2/desed"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 03:38:29",
       "https://news.ycombinator.com/item?id=41453237"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-09-02, 04:09:17",
+      "https://news.ycombinator.com/item?id=41422498"
+    ],
+    [
+      "China's chip capabilities just 3 years behind TSMC, teardown shows",
+      "https://asia.nikkei.com/Business/Tech/Semiconductors/China-s-chip-capabilities-just-3-years-behind-TSMC-teardown-shows"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 22:03:03",
       "https://news.ycombinator.com/item?id=41420783"
     ],
     [
       "OAuth from First Principles",
       "https://stack-auth.com/blog/oauth-from-first-principles"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 21:47:42",
+      "https://news.ycombinator.com/item?id=41420672"
+    ],
+    [
+      "A Real Life Off-by-One Error",
+      "https://leejo.github.io/2024/09/01/off_by_one/"
     ]
   ]
 ]
