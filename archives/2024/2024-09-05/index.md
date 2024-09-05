@@ -6,6 +6,7 @@
 
 * [2024-09-05, 17:00:52](https://news.ycombinator.com/item?id=41458493) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-09-05, 16:55:52](https://news.ycombinator.com/item?id=41458442) - [A sensible Java key management tool for normal people](https://github.com/alastairmccormack/keyutil)
+* [2024-09-05, 16:55:25](https://news.ycombinator.com/item?id=41458439) - [The 'Freakish Radio Writings' of 1924](https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/)
 * [2024-09-05, 16:41:15](https://news.ycombinator.com/item?id=41458299) - [KubeVision a new Kubernetes dashboard powered by Argo CD](https://akuity.io/blog/introducing-kubevision-feature/)
 * [2024-09-05, 16:34:51](https://news.ycombinator.com/item?id=41458240) - [serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 * [2024-09-05, 16:31:01](https://news.ycombinator.com/item?id=41458194) - [Stuff I would tell my younger self](https://anthonynsimon.com/blog/advice-to-younger-self/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-05, 17:00:52](https://news.ycombinator.com/item?id=41458493) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-09-05, 16:55:25](https://news.ycombinator.com/item?id=41458439) - [The 'Freakish Radio Writings' of 1924](https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/)
 * [2024-09-05, 16:34:51](https://news.ycombinator.com/item?id=41458240) - [serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 * [2024-09-05, 16:26:12](https://news.ycombinator.com/item?id=41458141) - [Show HN: We built a FOSS documentation CMS with a pretty GUI](https://kalmia.difuse.io/doc/)
 * [2024-09-05, 16:18:13](https://news.ycombinator.com/item?id=41458044) - [Show HN: Claude Memory – Long-term memory for Claude](https://github.com/deshraj/claude-memory)
@@ -27,7 +28,6 @@
 * [2024-09-03, 07:04:56](https://news.ycombinator.com/item?id=41432101) - [The Elements of APIs (2021)](https://johnholdun.com/apis/)
 * [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
 * [2024-09-02, 15:50:48](https://news.ycombinator.com/item?id=41426466) - [How the Hourglass Won](https://systemsapproach.org/2024/08/19/how-the-hourglass-won/)
-* [2024-09-02, 15:06:30](https://news.ycombinator.com/item?id=41426010) - [HIDman Adapting USB devices to work on old computers](https://github.com/rasteri/HIDman)
 * [2024-09-02, 06:30:47](https://news.ycombinator.com/item?id=41423095) - [Here a Bee, There a Bee, Everywhere a Wild Bee](https://hakaimagazine.com/features/here-a-bee-there-a-bee-everywhere-a-wild-bee/)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
 
