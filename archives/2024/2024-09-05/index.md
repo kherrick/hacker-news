@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 15:05:25](https://news.ycombinator.com/item?id=41457329) - [AI-powered music scam nets musician $10M in royalties–and federal charges](https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/)
+* [2024-09-05, 14:53:00](https://news.ycombinator.com/item?id=41457206) - [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
 * [2024-09-05, 14:40:39](https://news.ycombinator.com/item?id=41457089) - [The Decline of Usability](https://www.datagubbe.se/decusab/)
 * [2024-09-05, 14:39:29](https://news.ycombinator.com/item?id=41457081) - [You Don't Have Time to Read Books That Won't Change Your Life](https://aethermug.com/posts/you-don-t-have-time)
 * [2024-09-05, 14:25:01](https://news.ycombinator.com/item?id=41456948) - [The Gift of Code](https://thehistoryoftheweb.com/the-gift-of-code/)

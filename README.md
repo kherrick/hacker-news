@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-05, 14:25:01](https://news.ycombinator.com/item?id=41456948) - [The Gift of Code](https://thehistoryoftheweb.com/the-gift-of-code/)
+* [2024-09-05, 15:05:25](https://news.ycombinator.com/item?id=41457329) - [AI-powered music scam nets musician $10M in royalties–and federal charges](https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/)
+* [2024-09-05, 14:53:00](https://news.ycombinator.com/item?id=41457206) - [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
+* [2024-09-05, 14:13:59](https://news.ycombinator.com/item?id=41456832) - [Flight engineer reveals what it was like to operate Concorde](https://www.cnn.com/travel/flight-engineers-concorde-warren-hazelby/index.html)
 * [2024-09-05, 13:42:43](https://news.ycombinator.com/item?id=41456552) - [Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform](https://news.ycombinator.com/item?id=41456552)
 * [2024-09-05, 13:24:29](https://news.ycombinator.com/item?id=41456411) - [Show HN: Hacker League – Open-Source Rocket League on Linux](https://github.com/moritztng/hacker-league)
 * [2024-09-05, 12:01:15](https://news.ycombinator.com/item?id=41455760) - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
@@ -14,7 +16,6 @@
 * [2024-09-04, 22:52:19](https://news.ycombinator.com/item?id=41451698) - [Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust](https://github.com/lmnr-ai/lmnr)
 * [2024-09-04, 22:13:40](https://news.ycombinator.com/item?id=41451431) - [Origami-Inspired Phased Arrays Are Reshaping the Future of Antennas](https://www.viksnewsletter.com/p/origami-inspired-phased-arrays)
 * [2024-09-04, 21:07:05](https://news.ycombinator.com/item?id=41450824) - [Lesser known parts of Python standard library](https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/)
-* [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi Assistant](https://blog.kagi.com/announcing-assistant)
 * [2024-09-04, 18:13:51](https://news.ycombinator.com/item?id=41448740) - [CSS @property and the new style](https://ryanmulligan.dev/blog/css-property-new-style/)
 * [2024-09-04, 17:44:17](https://news.ycombinator.com/item?id=41448439) - [Show HN: An open-source implementation of AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3)
 * [2024-09-04, 17:02:14](https://news.ycombinator.com/item?id=41448022) - [Dynamicland 2024](https://dynamicland.org/)
@@ -29,7 +30,6 @@
 * [2024-09-02, 15:06:30](https://news.ycombinator.com/item?id=41426010) - [HIDman Adapting USB devices to work on old computers](https://github.com/rasteri/HIDman)
 * [2024-09-02, 06:30:47](https://news.ycombinator.com/item?id=41423095) - [Here a Bee, There a Bee, Everywhere a Wild Bee](https://hakaimagazine.com/features/here-a-bee-there-a-bee-everywhere-a-wild-bee/)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
-* [2024-08-31, 22:42:59](https://news.ycombinator.com/item?id=41412601) - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 
 ## [Archives](archives/index.md)
 
