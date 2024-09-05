@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-05, 11:02:51](https://news.ycombinator.com/item?id=41455435) - [Rethinking Exercise: How Too Much Can Speed Up Aging, According to Finnish Study](https://www.thomashealthblog.com/?p=19078)
+* [2024-09-05, 11:02:51](https://news.ycombinator.com/item?id=41455435) - [Rethinking Exercise: How Too Much Can Speed Up Aging, According to Finnish Study (2023)](https://www.thomashealthblog.com/?p=19078)
+* [2024-09-05, 11:00:03](https://news.ycombinator.com/item?id=41455420) - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
 * [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:36:56](https://news.ycombinator.com/item?id=41454741) - [Building a WoW (World of Warcraft) Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
@@ -15,7 +16,6 @@
 * [2024-09-04, 22:52:19](https://news.ycombinator.com/item?id=41451698) - [Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust](https://github.com/lmnr-ai/lmnr)
 * [2024-09-04, 22:13:40](https://news.ycombinator.com/item?id=41451431) - [Origami-Inspired Phased Arrays Are Reshaping the Future of Antennas](https://www.viksnewsletter.com/p/origami-inspired-phased-arrays)
 * [2024-09-04, 21:07:05](https://news.ycombinator.com/item?id=41450824) - [Lesser known parts of Python standard library – Trickster Dev](https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/)
-* [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi Assistant](https://blog.kagi.com/announcing-assistant)
 * [2024-09-04, 18:13:51](https://news.ycombinator.com/item?id=41448740) - [CSS @property and the new style](https://ryanmulligan.dev/blog/css-property-new-style/)
 * [2024-09-04, 17:44:17](https://news.ycombinator.com/item?id=41448439) - [Show HN: An open-source implementation of AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3)
 * [2024-09-04, 17:02:14](https://news.ycombinator.com/item?id=41448022) - [Dynamicland 2024](https://dynamicland.org/)
