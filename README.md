@@ -2,6 +2,7 @@
 
 * [2024-09-05, 20:47:29](https://news.ycombinator.com/item?id=41460276) - [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
 * [2024-09-05, 20:15:43](https://news.ycombinator.com/item?id=41460061) - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
+* [2024-09-05, 20:12:52](https://news.ycombinator.com/item?id=41460037) - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
 * [2024-09-05, 19:48:22](https://news.ycombinator.com/item?id=41459865) - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
 * [2024-09-05, 19:39:05](https://news.ycombinator.com/item?id=41459781) - [Reflection 70B, the top open-source model](https://twitter.com/mattshumer_/status/1831767014341538166)
 * [2024-09-05, 19:16:09](https://news.ycombinator.com/item?id=41459629) - [The Santander UK iOS app is 613 MB and 35% of it does nothing](https://twitter.com/emergetools/status/1831772650685018352)
@@ -29,7 +30,6 @@
 * [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
 * [2024-09-02, 15:50:48](https://news.ycombinator.com/item?id=41426466) - [How the Hourglass Won](https://systemsapproach.org/2024/08/19/how-the-hourglass-won/)
 * [2024-09-01, 22:03:03](https://news.ycombinator.com/item?id=41420783) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
-* [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
 
 ## [Archives](archives/index.md)
 
