@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 07:01:05](https://news.ycombinator.com/item?id=41454257) - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
 * [2024-09-05, 05:48:24](https://news.ycombinator.com/item?id=41453894) - [Amazon Drivers Complain Their Ability to Sing Along the Radio Is Being Stifled](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 * [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 * [2024-09-05, 04:13:57](https://news.ycombinator.com/item?id=41453405) - [AT&T Sues Broadcom over VMware Contracts 'Bullying'](https://www.channelfutures.com/channel-business/att-sues-broadcom-over-vmware-contracts-bullying)
