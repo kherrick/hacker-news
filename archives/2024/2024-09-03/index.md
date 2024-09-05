@@ -72,6 +72,7 @@
 * [2024-09-03, 09:35:14](https://news.ycombinator.com/item?id=41433053) - [Apache's odd behavior for requests with a domain with a dot at the end](https://utcc.utoronto.ca/~cks/space/blog/web/ApacheDomainDotConfusion)
 * [2024-09-03, 08:15:28](https://news.ycombinator.com/item?id=41432536) - [Amazon is trying to trick me into signing up for Prime services](https://www.theguardian.com/money/article/2024/sep/02/amazon-is-trying-to-trick-me-into-signing-up-for-prime-services)
 * [2024-09-03, 08:14:07](https://news.ycombinator.com/item?id=41432525) - [Hugging Face tackles speech-to-speech](https://github.com/huggingface/speech-to-speech)
+* [2024-09-03, 07:52:09](https://news.ycombinator.com/item?id=41432396) - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
 * [2024-09-03, 07:28:16](https://news.ycombinator.com/item?id=41432257) - [Keeping CALM: When distributed consistency is easy](https://arxiv.org/abs/1901.01930)
 * [2024-09-03, 07:27:03](https://news.ycombinator.com/item?id=41432245) - [Make Your Own CDN with NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
 * [2024-09-03, 07:06:11](https://news.ycombinator.com/item?id=41432109) - [Solar will get too cheap to connect to the power grid](https://climate.benjames.io/solar-off-grid/)
