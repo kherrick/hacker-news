@@ -76,6 +76,7 @@
 * [2024-09-03, 07:28:16](https://news.ycombinator.com/item?id=41432257) - [Keeping CALM: When distributed consistency is easy](https://arxiv.org/abs/1901.01930)
 * [2024-09-03, 07:27:03](https://news.ycombinator.com/item?id=41432245) - [Make Your Own CDN with NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
 * [2024-09-03, 07:06:11](https://news.ycombinator.com/item?id=41432109) - [Solar will get too cheap to connect to the power grid](https://climate.benjames.io/solar-off-grid/)
+* [2024-09-03, 07:04:56](https://news.ycombinator.com/item?id=41432101) - [The Elements of APIs by John Holdun](https://johnholdun.com/apis/)
 * [2024-09-03, 07:01:43](https://news.ycombinator.com/item?id=41432086) - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
 * [2024-09-03, 07:00:19](https://news.ycombinator.com/item?id=41432077) - [Dungeon Dash – A super fun command-line RPG game](https://github.com/Faizan711/dungeon-dash/blob/main/README.md)
 * [2024-09-03, 06:49:29](https://news.ycombinator.com/item?id=41432013) - [Graph Language Models](https://aclanthology.org/2024.acl-long.245/)
