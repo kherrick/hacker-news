@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-05](index.md)
+
+* [2024-09-05, 00:22:39](https://news.ycombinator.com/item?id=41452240) - [Bem Vindos ao Bluesky (Over 2M Brazilians join Bsky in a week)](https://bsky.social/about/blog/09-04-2024-bem-vindos)
