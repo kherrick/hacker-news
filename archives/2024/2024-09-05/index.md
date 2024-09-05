@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 19:48:22](https://news.ycombinator.com/item?id=41459865) - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
+* [2024-09-05, 19:39:05](https://news.ycombinator.com/item?id=41459781) - [Reflection 70B, the top open-source model](https://twitter.com/mattshumer_/status/1831767014341538166)
 * [2024-09-05, 18:43:18](https://news.ycombinator.com/item?id=41459365) - [My job is to watch dreams die](https://old.reddit.com/r/reddit.com/comments/k3zrz/by_request_from_the_jobs_thread_why_my_job_is_to/)
 * [2024-09-05, 18:40:36](https://news.ycombinator.com/item?id=41459344) - [I sold all my Tesla shares (TSLA), here's why](https://electrek.co/2024/09/05/i-sold-all-my-tesla-shares-tsla-why/)
 * [2024-09-05, 18:12:37](https://news.ycombinator.com/item?id=41459107) - [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
