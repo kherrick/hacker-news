@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41452240">
+          <h3>
+            <a
+              class="item"
+              href="https://bsky.social/about/blog/09-04-2024-bem-vindos"
+              >Bem Vindos ao Bluesky (Over 2M Brazilians join Bsky in a week)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-05 @ 00:22:39</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41452240"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41451707">
           <h3>
             <a
@@ -142,13 +163,106 @@
             <h4>
               <span>2024-09-04 @ 22:53:15</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41451707"
                   >Comments</a
                 ><span class="descendants">: 16</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41451698">
+          <h3>
+            <a class="item" href="https://github.com/lmnr-ai/lmnr"
+              >Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps,
+              Built in Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-04 @ 22:52:19</span
+              ><span class="points-container"
+                >Points: <span class="points">44</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41451698"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.lmnr.ai">https://www.lmnr.ai</a>), an
+              open-source observability and analytics platform for complex LLM
+              apps. It’s designed to be fast, reliable, and scalable. The stack
+              is RabbitMQ for message queues, Postgres for storage, Clickhouse
+              for analytics, Qdrant for semantic search - all powered by Rust.
+              <p>
+                How is Laminar different from the swarm of other “LLM
+                observability” platforms?
+              </p>
+              <p>
+                On the observability part, we’re focused on handling full
+                execution traces, not just LLM calls. We built a Rust ingestor
+                for OpenTelemetry (Otel) spans with GenAI semantic conventions.
+                As LLM apps get more complex (think Agents with hundreds of LLM
+                and function calls, or complex RAG pipelines), full tracing is
+                critical. With Otel spans, we can: 1. Cover the entire execution
+                trace. 2. Keep the platform future-proof 3. Leverage an amazing
+                OpenLLMetry (<a href="https://github.com/traceloop/openllmetry"
+                  >https://github.com/traceloop/openllmetry</a
+                >), open-source package for span production.
+              </p>
+              <p>
+                The key difference is that we tie text analytics directly to
+                execution traces. Rich text data makes LLM traces unique, so we
+                let you track “semantic metrics” (like what your AI agent is
+                actually saying) and connect those metrics to where they happen
+                in the trace. If you want to know if your AI drive-through agent
+                made an upsell, you can design an LLM extraction pipeline in our
+                builder (more on it later), host it on Laminar, and handle
+                everything from event requests to output logging. Processing
+                requests simply come as events in the Otel span.
+              </p>
+              <p>
+                We think it’s a win to separate core app logic from LLM event
+                processing. Most devs don’t want to manage background queues for
+                LLM analytics processing but still want insights into how their
+                Agents or RAGs are working.
+              </p>
+              <p>
+                Our Pipeline Builder uses graph UI where nodes are LLM and util
+                functions, and edges showing data flow. We built a custom task
+                execution engine with support of parallel branch executions,
+                cycles and branches (it’s overkill for simple pipelines, but
+                it’s extremely cool and we’ve spent a lot of time designing a
+                robust engine). You can also call pipelines directly as API
+                endpoints. We found them to be extremely useful for iterating on
+                and separating LLM logic. Laminar also traces pipeline directly,
+                which removes the overhead of sending large outputs over the
+                network.
+              </p>
+              <p>
+                One thing missing from all LLM observability platforms right now
+                is an adequate search over traces. We’re attacking this problem
+                by indexing each span in a vector DB and performing hybrid
+                search at query time. This feature is still in beta, but we
+                think it’s gonna be crucial part of our platform going forward.
+              </p>
+              <p>
+                We also support evaluations. We loved the “run everything
+                locally, send results to a server” approach from Braintrust and
+                Weights &amp; Biases, so we did that too: a simple SDK and nice
+                dashboards to track everything. Evals are still early, but we’re
+                pushing hard on them.
+              </p>
+              <p>
+                Our goal is to make Laminar the Supabase for LLMOps - the go-to
+                open-source comprehensive platform for all things LLMs / GenAI.
+                In it’s current shape, Laminar is just few weeks old and
+                developing rapidly, we’d love any feedback or for you to give
+                Laminar a try in your LLM projects!
+              </p>
+            </div>
           </section>
         </section>
         <section id="41451168">
@@ -163,11 +277,11 @@
             <h4>
               <span>2024-09-04 @ 21:40:21</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41451168"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -184,7 +298,7 @@
             <h4>
               <span>2024-09-04 @ 21:37:33</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41451143"
                   >Comments</a
@@ -203,7 +317,7 @@
             <h4>
               <span>2024-09-04 @ 21:18:13</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41450948"
                   >Comments</a
@@ -394,11 +508,11 @@
             <h4>
               <span>2024-09-04 @ 20:58:28</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41450729"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -416,33 +530,11 @@
             <h4>
               <span>2024-09-04 @ 19:54:24</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41449984"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41449748">
-          <h3>
-            <a
-              class="item"
-              href="https://patricklam.ca/papers/24.onward.abs-debug.pdf"
-              >Abstract Debuggers: Exploring Program Behaviors Using Static
-              Analysis Results [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-04 @ 19:33:53</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41449748"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -457,11 +549,11 @@
             <h4>
               <span>2024-09-04 @ 18:35:53</span
               ><span class="points-container"
-                >Points: <span class="points">303</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41448985"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -478,11 +570,11 @@
             <h4>
               <span>2024-09-04 @ 18:13:51</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41448740"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -499,11 +591,11 @@
             <h4>
               <span>2024-09-04 @ 18:04:51</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41448664"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -520,11 +612,11 @@
             <h4>
               <span>2024-09-04 @ 17:44:17</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41448439"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -674,11 +766,11 @@
             <h4>
               <span>2024-09-04 @ 17:02:14</span
               ><span class="points-container"
-                >Points: <span class="points">355</span></span
+                >Points: <span class="points">374</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41448022"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -696,11 +788,11 @@
             <h4>
               <span>2024-09-04 @ 16:41:50</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41447758"
                   >Comments</a
-                ><span class="descendants">: 332</span></span
+                ><span class="descendants">: 350</span></span
               >
             </h4>
           </section>
@@ -718,11 +810,11 @@
             <h4>
               <span>2024-09-04 @ 16:23:34</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41447515"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -737,11 +829,11 @@
             <h4>
               <span>2024-09-04 @ 16:01:40</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41447317"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
             <div class="text">
@@ -860,30 +952,11 @@
             <h4>
               <span>2024-09-04 @ 15:28:08</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41446916"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41446766">
-          <h3>
-            <a class="item" href="https://stratechery.com/2024/intel-honesty/"
-              >Intel Honesty</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-04 @ 15:15:49</span
-              ><span class="points-container"
-                >Points: <span class="points">290</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41446766"
-                  >Comments</a
-                ><span class="descendants">: 279</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -900,11 +973,11 @@
             <h4>
               <span>2024-09-04 @ 13:43:19</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41445790"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -919,7 +992,7 @@
             <h4>
               <span>2024-09-04 @ 13:21:19</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41445445"
                   >Comments</a
@@ -1055,11 +1128,11 @@
             <h4>
               <span>2024-09-04 @ 13:17:55</span
               ><span class="points-container"
-                >Points: <span class="points">430</span></span
+                >Points: <span class="points">449</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41445413"
                   >Comments</a
-                ><span class="descendants">: 508</span></span
+                ><span class="descendants">: 526</span></span
               >
             </h4>
           </section>
@@ -1074,11 +1147,11 @@
             <h4>
               <span>2024-09-04 @ 12:07:27</span
               ><span class="points-container"
-                >Points: <span class="points">513</span></span
+                >Points: <span class="points">528</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41444700"
                   >Comments</a
-                ><span class="descendants">: 445</span></span
+                ><span class="descendants">: 452</span></span
               >
             </h4>
           </section>
@@ -1093,30 +1166,11 @@
             <h4>
               <span>2024-09-04 @ 09:10:02</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41443493"
                   >Comments</a
                 ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41443468">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2408.14551"
-              >Generalized Carlos Scales</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-04 @ 09:05:44</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41443468"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -1133,11 +1187,30 @@
             <h4>
               <span>2024-09-02 @ 20:10:35</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41428412"
                   >Comments</a
                 ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41426010">
+          <h3>
+            <a class="item" href="https://github.com/rasteri/HIDman"
+              >HIDman Adapting USB devices to work on old computers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-02 @ 15:06:30</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41426010"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -1154,11 +1227,32 @@
             <h4>
               <span>2024-09-02 @ 12:04:18</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41424746"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41422150">
+          <h3>
+            <a
+              class="item"
+              href="https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/"
+              >Undefined behavior in C is a reading error (2021)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-02 @ 02:30:36</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41422150"
+                  >Comments</a
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -1175,11 +1269,11 @@
             <h4>
               <span>2024-09-01 @ 21:47:42</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41420672"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -1194,30 +1288,11 @@
             <h4>
               <span>2024-09-01 @ 21:05:57</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41420398"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41419290">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=Yd4yxionQpg"
-              >Heavy Construction of a Sewage Pump Station – Ep 3 [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-01 @ 18:52:45</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41419290"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -1232,7 +1307,7 @@
             <h4>
               <span>2024-08-31 @ 22:42:59</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41412601"
                   >Comments</a
