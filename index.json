@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-05, 22:37:12",
+      "https://news.ycombinator.com/item?id=41460984"
+    ],
+    [
+      "First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor",
+      "https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 20:47:29",
       "https://news.ycombinator.com/item?id=41460276"
     ],
@@ -47,16 +57,6 @@
     [
       "Reflection 70B, the top open-source model",
       "https://twitter.com/mattshumer_/status/1831767014341538166"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 19:16:09",
-      "https://news.ycombinator.com/item?id=41459629"
-    ],
-    [
-      "The Santander UK iOS app is 613 MB and 35% of it does nothing",
-      "https://twitter.com/emergetools/status/1831772650685018352"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-09-05, 15:17:34",
-      "https://news.ycombinator.com/item?id=41457435"
-    ],
-    [
-      "Arduino PLC IDE",
-      "https://www.arduino.cc/pro/software-plc-ide"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 15:05:49",
       "https://news.ycombinator.com/item?id=41457331"
     ],
@@ -217,6 +207,16 @@
     [
       "Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform",
       "https://news.ycombinator.com/item?id=41456552"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 11:55:48",
+      "https://news.ycombinator.com/item?id=41455719"
+    ],
+    [
+      "Show HN: Node.js ORM to query SQL database through an array-like API",
+      "https://github.com/tilyupo/qustar"
     ]
   ],
   [
