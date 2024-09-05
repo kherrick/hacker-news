@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-09-05, 16:41:15",
-      "https://news.ycombinator.com/item?id=41458299"
+      "2024-09-05, 17:00:52",
+      "https://news.ycombinator.com/item?id=41458493"
     ],
     [
-      "KubeVision a new Kubernetes dashboard powered by Argo CD",
-      "https://akuity.io/blog/introducing-kubevision-feature/"
+      "Trellis (YC W24) is hiring eng to build AI workflows for unstructured data",
+      "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 16:55:52",
+      "https://news.ycombinator.com/item?id=41458442"
+    ],
+    [
+      "A sensible Java key management tool for normal people",
+      "https://github.com/alastairmccormack/keyutil"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Show HN: Hacker League – Open-Source Rocket League on Linux",
       "https://github.com/moritztng/hacker-league"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 12:01:15",
-      "https://news.ycombinator.com/item?id=41455760"
-    ],
-    [
-      "Finley (YC W21) is hiring for Capital Markets innovators",
-      "https://www.finleycms.com/company/careers"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-09-04, 06:17:09",
-      "https://news.ycombinator.com/item?id=41442442"
-    ],
-    [
-      "Programming the Convergent WorkSlate's spreadsheet microcassette future",
-      "http://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 08:30:32",
       "https://news.ycombinator.com/item?id=41432625"
     ],
     [
       "Software Rasterizing Hair",
       "https://www.sctheblog.com/blog/hair-software-rasterize/"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 07:19:26",
+      "https://news.ycombinator.com/item?id=41432197"
+    ],
+    [
+      "The Memory Wall: Past, Present, and Future of DRAM",
+      "https://www.semianalysis.com/p/the-memory-wall"
     ]
   ],
   [
