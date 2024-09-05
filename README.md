@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-05, 11:02:51](https://news.ycombinator.com/item?id=41455435) - [Rethinking Exercise: How Too Much Can Speed Up Aging, According to Finnish Study](https://www.thomashealthblog.com/?p=19078)
 * [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:36:56](https://news.ycombinator.com/item?id=41454741) - [Building a WoW (World of Warcraft) Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
@@ -29,7 +30,6 @@
 * [2024-09-02, 03:40:00](https://news.ycombinator.com/item?id=41422395) - [CSS-only infinite scrolling carousel animation](https://blog.logto.io/css-only-infinite-scroll)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
 * [2024-09-01, 19:38:01](https://news.ycombinator.com/item?id=41419688) - [Sequel: The Database Toolkit for Ruby](https://github.com/jeremyevans/sequel)
-* [2024-08-31, 22:42:59](https://news.ycombinator.com/item?id=41412601) - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 
 ## [Archives](archives/index.md)
 
