@@ -15,7 +15,6 @@
 * [2024-09-05, 16:34:51](https://news.ycombinator.com/item?id=41458240) - [serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 * [2024-09-05, 16:26:12](https://news.ycombinator.com/item?id=41458141) - [Show HN: We built a FOSS documentation CMS with a pretty GUI](https://kalmia.difuse.io/doc/)
 * [2024-09-05, 16:22:09](https://news.ycombinator.com/item?id=41458083) - [Phind-405B and faster, high quality AI answers for everyone](https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches)
-* [2024-09-05, 16:18:13](https://news.ycombinator.com/item?id=41458044) - [Show HN: Claude Memory – Long-term memory for Claude](https://github.com/deshraj/claude-memory)
 * [2024-09-05, 15:50:10](https://news.ycombinator.com/item?id=41457739) - [Boxed – Things I learned after lying in an MRI machine for 30 hours](https://aethermug.com/posts/boxed)
 * [2024-09-05, 15:40:45](https://news.ycombinator.com/item?id=41457633) - [Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant](https://github.com/Mintplex-Labs/anything-llm)
 * [2024-09-05, 15:28:22](https://news.ycombinator.com/item?id=41457522) - [Libations: Tailscale on the Rocks](https://jnsgr.uk/2024/08/tailscale-on-the-rocks)
@@ -23,13 +22,14 @@
 * [2024-09-05, 15:05:49](https://news.ycombinator.com/item?id=41457331) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 * [2024-09-05, 14:32:20](https://news.ycombinator.com/item?id=41457012) - [NSA Codebreaker Challenge 2024](https://nsa-codebreaker.org/home)
 * [2024-09-05, 13:42:43](https://news.ycombinator.com/item?id=41456552) - [Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform](https://news.ycombinator.com/item?id=41456552)
+* [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 * [2024-09-05, 03:38:29](https://news.ycombinator.com/item?id=41453237) - [Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
 * [2024-09-04, 01:00:56](https://news.ycombinator.com/item?id=41440855) - [Why I self host my servers and what I've recently learned](https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/)
 * [2024-09-03, 07:19:26](https://news.ycombinator.com/item?id=41432197) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
-* [2024-09-03, 07:04:56](https://news.ycombinator.com/item?id=41432101) - [The Elements of APIs (2021)](https://johnholdun.com/apis/)
 * [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
 * [2024-09-02, 15:50:48](https://news.ycombinator.com/item?id=41426466) - [How the Hourglass Won](https://systemsapproach.org/2024/08/19/how-the-hourglass-won/)
 * [2024-09-01, 22:03:03](https://news.ycombinator.com/item?id=41420783) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
+* [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
 
 ## [Archives](archives/index.md)
 
