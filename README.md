@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-05, 07:01:05](https://news.ycombinator.com/item?id=41454257) - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
+* [2024-09-05, 06:03:48](https://news.ycombinator.com/item?id=41453975) - [US Government Sets Out to Improve Internet Routing Security](https://www.infosecurity-magazine.com/news/us-internet-routing-security/)
 * [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 * [2024-09-05, 03:46:50](https://news.ycombinator.com/item?id=41453283) - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
 * [2024-09-05, 03:38:29](https://news.ycombinator.com/item?id=41453237) - [Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
@@ -17,7 +18,6 @@
 * [2024-09-04, 16:23:34](https://news.ycombinator.com/item?id=41447515) - [The first nuclear clock will test if fundamental constants change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
 * [2024-09-04, 15:28:08](https://news.ycombinator.com/item?id=41446916) - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
-* [2024-09-04, 13:21:19](https://news.ycombinator.com/item?id=41445445) - [Show HN: Graphiti – LLM-Powered Temporal Knowledge Graphs](https://github.com/getzep/graphiti)
 * [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
 * [2024-09-03, 07:52:09](https://news.ycombinator.com/item?id=41432396) - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
