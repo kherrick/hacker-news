@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-09-05, 14:25:01",
-      "https://news.ycombinator.com/item?id=41456948"
+      "2024-09-05, 15:05:25",
+      "https://news.ycombinator.com/item?id=41457329"
     ],
     [
-      "The Gift of Code",
-      "https://thehistoryoftheweb.com/the-gift-of-code/"
+      "AI-powered music scam nets musician $10M in royalties–and federal charges",
+      "https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 14:53:00",
+      "https://news.ycombinator.com/item?id=41457206"
+    ],
+    [
+      "How to Read Deep Learning Paper as a Software Engineer",
+      "https://www.youtube.com/watch?v=nL7lAo95D-o"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 14:13:59",
+      "https://news.ycombinator.com/item?id=41456832"
+    ],
+    [
+      "Flight engineer reveals what it was like to operate Concorde",
+      "https://www.cnn.com/travel/flight-engineers-concorde-warren-hazelby/index.html"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Lesser known parts of Python standard library",
       "https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 18:35:53",
-      "https://news.ycombinator.com/item?id=41448985"
-    ],
-    [
-      "Kagi Assistant",
-      "https://blog.kagi.com/announcing-assistant"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Real Life Off-by-One Error",
       "https://leejo.github.io/2024/09/01/off_by_one/"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 22:42:59",
-      "https://news.ycombinator.com/item?id=41412601"
-    ],
-    [
-      "Routed Gothic Font",
-      "https://webonastick.com/fonts/routed-gothic/"
     ]
   ]
 ]
