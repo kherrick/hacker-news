@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 18:12:37](https://news.ycombinator.com/item?id=41459107) - [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
 * [2024-09-05, 17:55:59](https://news.ycombinator.com/item?id=41458987) - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
+* [2024-09-05, 17:51:20](https://news.ycombinator.com/item?id=41458949) - [Sustainable Licensing at Element with AGPL](https://element.io/blog/sustainable-licensing-at-element-with-agpl/)
+* [2024-09-05, 17:45:12](https://news.ycombinator.com/item?id=41458897) - [New York City's Biggest Taxi Insurer Is Insolvent, Risking Transit Meltdown](https://www.insurancejournal.com/news/east/2024/09/04/791291.htm)
 * [2024-09-05, 17:37:19](https://news.ycombinator.com/item?id=41458820) - [We need to check the gen AI hype and get back to reality](https://venturebeat.com/ai/why-we-need-to-check-the-gen-ai-hype-and-get-back-to-reality/)
 * [2024-09-05, 17:02:40](https://news.ycombinator.com/item?id=41458508) - [Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 * [2024-09-05, 17:00:52](https://news.ycombinator.com/item?id=41458493) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
