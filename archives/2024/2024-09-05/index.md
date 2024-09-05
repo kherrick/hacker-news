@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 12:01:15](https://news.ycombinator.com/item?id=41455760) - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
+* [2024-09-05, 11:44:41](https://news.ycombinator.com/item?id=41455657) - [Exercise to Strengthen Esophageal Sphincter and Eliminate Gastric Reflux (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2024-09-05, 11:37:29](https://news.ycombinator.com/item?id=41455607) - [the US should place a value of $1.17M per additional birth](https://model-thinking.com/p/refillable-planet)
 * [2024-09-05, 11:02:51](https://news.ycombinator.com/item?id=41455435) - [Rethinking Exercise: How Too Much Can Speed Up Aging, According to Finnish Study](https://www.thomashealthblog.com/?p=19078)
 * [2024-09-05, 11:00:03](https://news.ycombinator.com/item?id=41455420) - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
