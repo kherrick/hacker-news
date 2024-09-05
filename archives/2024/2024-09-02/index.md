@@ -45,6 +45,7 @@
 * [2024-09-02, 16:09:32](https://news.ycombinator.com/item?id=41426607) - [Authors Take Sides on the Spanish War: A Dossier (2014)](https://open.bu.edu/handle/2144/15314)
 * [2024-09-02, 16:03:50](https://news.ycombinator.com/item?id=41426574) - [Maryland Health Secretary halted ketogenic diet study for treating schizophrenia](https://twitter.com/ChrisPalmerMD/status/1807883172454998272)
 * [2024-09-02, 15:51:39](https://news.ycombinator.com/item?id=41426473) - [Andrew Gelman: Is marriage associated with happiness for men or for women?](https://statmodeling.stat.columbia.edu/2024/08/27/marriage-happiness/)
+* [2024-09-02, 15:50:48](https://news.ycombinator.com/item?id=41426466) - [How the Hourglass Won](https://systemsapproach.org/2024/08/19/how-the-hourglass-won/)
 * [2024-09-02, 15:34:55](https://news.ycombinator.com/item?id=41426318) - [Understanding Pgvector's HNSW Index Storage in Postgres](https://lantern.dev/blog/pgvector-storage)
 * [2024-09-02, 15:06:30](https://news.ycombinator.com/item?id=41426010) - [HIDman Adapting USB devices to work on old computers](https://github.com/rasteri/HIDman)
 * [2024-09-02, 15:00:06](https://news.ycombinator.com/item?id=41425910) - [Ask HN: Who is hiring? (September 2024)](https://news.ycombinator.com/item?id=41425910)
