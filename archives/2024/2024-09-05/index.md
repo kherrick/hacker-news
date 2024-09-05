@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 17:37:19](https://news.ycombinator.com/item?id=41458820) - [We need to check the gen AI hype and get back to reality](https://venturebeat.com/ai/why-we-need-to-check-the-gen-ai-hype-and-get-back-to-reality/)
 * [2024-09-05, 17:00:52](https://news.ycombinator.com/item?id=41458493) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-09-05, 16:55:52](https://news.ycombinator.com/item?id=41458442) - [A sensible Java key management tool for normal people](https://github.com/alastairmccormack/keyutil)
 * [2024-09-05, 16:55:25](https://news.ycombinator.com/item?id=41458439) - [The 'Freakish Radio Writings' of 1924](https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/)
@@ -31,6 +32,7 @@
 * [2024-09-05, 14:13:59](https://news.ycombinator.com/item?id=41456832) - [Flight engineer reveals what it was like to operate Concorde](https://www.cnn.com/travel/flight-engineers-concorde-warren-hazelby/index.html)
 * [2024-09-05, 13:42:43](https://news.ycombinator.com/item?id=41456552) - [Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform](https://news.ycombinator.com/item?id=41456552)
 * [2024-09-05, 13:31:01](https://news.ycombinator.com/item?id=41456472) - [Kids Should Be Taught to Think Logically](https://www.scientificamerican.com/article/the-u-s-should-teach-kids-to-think-logically/)
+* [2024-09-05, 13:27:06](https://news.ycombinator.com/item?id=41456433) - [Leon is your open-source personal assistant who can live on your server](https://getleon.ai/)
 * [2024-09-05, 13:24:29](https://news.ycombinator.com/item?id=41456411) - [Show HN: Hacker League – Open-Source Rocket League on Linux](https://github.com/moritztng/hacker-league)
 * [2024-09-05, 13:07:14](https://news.ycombinator.com/item?id=41456270) - [New study suggests nose picking could increase risk for Alzheimer's and dementia](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/)
 * [2024-09-05, 12:01:15](https://news.ycombinator.com/item?id=41455760) - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
