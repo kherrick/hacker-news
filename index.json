@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-09-05, 14:40:39",
-      "https://news.ycombinator.com/item?id=41457089"
-    ],
-    [
-      "The Decline of Usability",
-      "https://www.datagubbe.se/decusab/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 14:39:29",
-      "https://news.ycombinator.com/item?id=41457081"
-    ],
-    [
-      "You Don't Have Time to Read Books That Won't Change Your Life",
-      "https://aethermug.com/posts/you-don-t-have-time"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 14:25:01",
       "https://news.ycombinator.com/item?id=41456948"
     ],
     [
       "The Gift of Code",
       "https://thehistoryoftheweb.com/the-gift-of-code/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 14:13:59",
-      "https://news.ycombinator.com/item?id=41456832"
-    ],
-    [
-      "Flight engineer reveals what it was like to operate Concorde",
-      "https://www.cnn.com/travel/flight-engineers-concorde-warren-hazelby/index.html"
     ]
   ],
   [
@@ -67,16 +37,6 @@
     [
       "Finley (YC W21) is hiring for Capital Markets innovators",
       "https://www.finleycms.com/company/careers"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 11:55:48",
-      "https://news.ycombinator.com/item?id=41455719"
-    ],
-    [
-      "Show HN: Node.js ORM to query SQL database through an array-like API",
-      "https://github.com/tilyupo/qustar"
     ]
   ],
   [
@@ -181,6 +141,16 @@
   ],
   [
     [
+      "2024-09-04, 18:35:53",
+      "https://news.ycombinator.com/item?id=41448985"
+    ],
+    [
+      "Kagi Assistant",
+      "https://blog.kagi.com/announcing-assistant"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 18:13:51",
       "https://news.ycombinator.com/item?id=41448740"
     ],
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2024-09-04, 06:17:09",
+      "https://news.ycombinator.com/item?id=41442442"
+    ],
+    [
+      "Programming the Convergent WorkSlate's spreadsheet microcassette future",
+      "http://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 08:30:32",
       "https://news.ycombinator.com/item?id=41432625"
     ],
@@ -257,6 +237,16 @@
     [
       "The Elements of APIs (2021)",
       "https://johnholdun.com/apis/"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 06:29:13",
+      "https://news.ycombinator.com/item?id=41431888"
+    ],
+    [
+      "Apache Zeppelin",
+      "https://zeppelin.apache.org/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Real Life Off-by-One Error",
       "https://leejo.github.io/2024/09/01/off_by_one/"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 22:42:59",
+      "https://news.ycombinator.com/item?id=41412601"
+    ],
+    [
+      "Routed Gothic Font",
+      "https://webonastick.com/fonts/routed-gothic/"
     ]
   ]
 ]
