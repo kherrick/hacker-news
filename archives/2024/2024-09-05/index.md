@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 * [2024-09-05, 04:13:57](https://news.ycombinator.com/item?id=41453405) - [AT&T Sues Broadcom over VMware Contracts 'Bullying'](https://www.channelfutures.com/channel-business/att-sues-broadcom-over-vmware-contracts-bullying)
 * [2024-09-05, 03:50:10](https://news.ycombinator.com/item?id=41453300) - [Kids who use ChatGPT as a study assistant do worse on tests](https://hechingerreport.org/kids-chatgpt-worse-on-tests/)
+* [2024-09-05, 03:46:50](https://news.ycombinator.com/item?id=41453283) - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
+* [2024-09-05, 03:38:29](https://news.ycombinator.com/item?id=41453237) - [Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
+* [2024-09-05, 02:53:47](https://news.ycombinator.com/item?id=41453039) - [LLMs Understand Text and Thus Understand Us](https://jonathanpolitzki.substack.com/p/delta)
 * [2024-09-05, 02:41:56](https://news.ycombinator.com/item?id=41452985) - [The Magazine for Mercenaries Enters Polite Society](https://www.newyorker.com/magazine/2024/09/09/the-magazine-for-mercenaries-enters-polite-society)
+* [2024-09-05, 02:33:55](https://news.ycombinator.com/item?id=41452962) - [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
 * [2024-09-05, 02:02:14](https://news.ycombinator.com/item?id=41452799) - [Strength training activates cellular waste disposal](https://medicalxpress.com/news/2024-08-strength-cellular-disposal-interdisciplinary-reveals.html)
 * [2024-09-05, 01:59:23](https://news.ycombinator.com/item?id=41452781) - [Canadian mega landlord using AI 'pricing scheme' as it hikes rents](https://breachmedia.ca/canadian-mega-landlord-ai-pricing-scheme-hikes-rents/)
 * [2024-09-05, 01:27:54](https://news.ycombinator.com/item?id=41452610) - [Robinhood lets Brits lend shares for income to grow international footprint](https://www.cnbc.com/2024/09/04/robinhood-launches-stock-lending-product-in-the-uk.html)
