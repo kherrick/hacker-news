@@ -6,6 +6,7 @@
 
 * [2024-09-01, 23:55:04](https://news.ycombinator.com/item?id=41421325) - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
 * [2024-09-01, 23:28:00](https://news.ycombinator.com/item?id=41421212) - [A Lot of 'Unskilled' Workers Aren't](https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term)
+* [2024-09-01, 22:03:03](https://news.ycombinator.com/item?id=41420783) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 * [2024-09-01, 21:57:15](https://news.ycombinator.com/item?id=41420744) - [Unix history and the `dc` calculator](https://howdytx.technology/unix-history-the-dc-calculator/)
 * [2024-09-01, 21:49:36](https://news.ycombinator.com/item?id=41420681) - [Clojure Interactive Development 101](https://myke.blog/posts/clojure-interactive-development-101)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)

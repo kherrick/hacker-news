@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 17:55:59](https://news.ycombinator.com/item?id=41458987) - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
 * [2024-09-05, 17:37:19](https://news.ycombinator.com/item?id=41458820) - [We need to check the gen AI hype and get back to reality](https://venturebeat.com/ai/why-we-need-to-check-the-gen-ai-hype-and-get-back-to-reality/)
+* [2024-09-05, 17:02:40](https://news.ycombinator.com/item?id=41458508) - [Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 * [2024-09-05, 17:00:52](https://news.ycombinator.com/item?id=41458493) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-09-05, 16:55:52](https://news.ycombinator.com/item?id=41458442) - [A sensible Java key management tool for normal people](https://github.com/alastairmccormack/keyutil)
 * [2024-09-05, 16:55:25](https://news.ycombinator.com/item?id=41458439) - [The 'Freakish Radio Writings' of 1924](https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/)
@@ -12,6 +14,7 @@
 * [2024-09-05, 16:34:51](https://news.ycombinator.com/item?id=41458240) - [serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 * [2024-09-05, 16:31:01](https://news.ycombinator.com/item?id=41458194) - [Stuff I would tell my younger self](https://anthonynsimon.com/blog/advice-to-younger-self/)
 * [2024-09-05, 16:26:12](https://news.ycombinator.com/item?id=41458141) - [Show HN: We built a FOSS documentation CMS with a pretty GUI](https://kalmia.difuse.io/doc/)
+* [2024-09-05, 16:22:09](https://news.ycombinator.com/item?id=41458083) - [Phind-405B and faster, high quality AI answers for everyone](https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches)
 * [2024-09-05, 16:18:13](https://news.ycombinator.com/item?id=41458044) - [Show HN: Claude Memory – Long-term memory for Claude](https://github.com/deshraj/claude-memory)
 * [2024-09-05, 16:03:45](https://news.ycombinator.com/item?id=41457896) - [A Manifesto for Radical Simplicity](https://joshaustin.tech/blog/a-manifesto-for-radical-simplicity/)
 * [2024-09-05, 15:56:13](https://news.ycombinator.com/item?id=41457813) - [Workers Uncover Underground Chamber Sealed for over a Century Near National Mall](https://www.smithsonianmag.com/smart-news/workers-uncover-an-underground-chamber-sealed-for-more-than-a-century-near-the-national-mall-180985018/)
