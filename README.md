@@ -24,7 +24,7 @@
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
 * [2024-09-03, 08:30:32](https://news.ycombinator.com/item?id=41432625) - [Software Rasterizing Hair](https://www.sctheblog.com/blog/hair-software-rasterize/)
-* [2024-09-03, 07:04:56](https://news.ycombinator.com/item?id=41432101) - [The Elements of APIs by John Holdun (2021)](https://johnholdun.com/apis/)
+* [2024-09-03, 07:04:56](https://news.ycombinator.com/item?id=41432101) - [The Elements of APIs (2021)](https://johnholdun.com/apis/)
 * [2024-09-02, 15:50:48](https://news.ycombinator.com/item?id=41426466) - [How the Hourglass Won](https://systemsapproach.org/2024/08/19/how-the-hourglass-won/)
 * [2024-09-02, 15:06:30](https://news.ycombinator.com/item?id=41426010) - [HIDman Adapting USB devices to work on old computers](https://github.com/rasteri/HIDman)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
