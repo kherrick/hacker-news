@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
+* [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
+* [2024-09-05, 08:36:56](https://news.ycombinator.com/item?id=41454741) - [Building a WoW (World of Warcraft) Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
+* [2024-09-05, 07:58:07](https://news.ycombinator.com/item?id=41454555) - [Shell Has a Forth-Like Quality](https://www.oilshell.org/blog/2017/01/13.html)
+* [2024-09-05, 07:34:58](https://news.ycombinator.com/item?id=41454423) - [A SpamAssassin Surprise](https://lwn.net/SubscriberLink/987566/3be928f6e483853d/)
 * [2024-09-05, 07:01:05](https://news.ycombinator.com/item?id=41454257) - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
 * [2024-09-05, 06:03:48](https://news.ycombinator.com/item?id=41453975) - [US Government Sets Out to Improve Internet Routing Security](https://www.infosecurity-magazine.com/news/us-internet-routing-security/)
 * [2024-09-05, 05:48:24](https://news.ycombinator.com/item?id=41453894) - [Amazon Drivers Complain Their Ability to Sing Along the Radio Is Being Stifled](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)

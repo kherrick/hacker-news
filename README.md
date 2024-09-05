@@ -1,7 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
+* [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
+* [2024-09-05, 08:36:56](https://news.ycombinator.com/item?id=41454741) - [Building a WoW (World of Warcraft) Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
+* [2024-09-05, 07:58:07](https://news.ycombinator.com/item?id=41454555) - [Shell Has a Forth-Like Quality](https://www.oilshell.org/blog/2017/01/13.html)
+* [2024-09-05, 07:34:58](https://news.ycombinator.com/item?id=41454423) - [A SpamAssassin Surprise](https://lwn.net/SubscriberLink/987566/3be928f6e483853d/)
 * [2024-09-05, 07:01:05](https://news.ycombinator.com/item?id=41454257) - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
-* [2024-09-05, 06:03:48](https://news.ycombinator.com/item?id=41453975) - [US Government Sets Out to Improve Internet Routing Security](https://www.infosecurity-magazine.com/news/us-internet-routing-security/)
 * [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 * [2024-09-05, 03:46:50](https://news.ycombinator.com/item?id=41453283) - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
 * [2024-09-05, 03:38:29](https://news.ycombinator.com/item?id=41453237) - [Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
@@ -17,10 +21,7 @@
 * [2024-09-04, 16:41:50](https://news.ycombinator.com/item?id=41447758) - [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf)
 * [2024-09-04, 16:23:34](https://news.ycombinator.com/item?id=41447515) - [The first nuclear clock will test if fundamental constants change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
-* [2024-09-04, 15:28:08](https://news.ycombinator.com/item?id=41446916) - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
-* [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
 * [2024-09-03, 08:30:32](https://news.ycombinator.com/item?id=41432625) - [Software Rasterizing Hair](https://www.sctheblog.com/blog/hair-software-rasterize/)
-* [2024-09-03, 07:52:09](https://news.ycombinator.com/item?id=41432396) - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
 * [2024-09-03, 07:04:56](https://news.ycombinator.com/item?id=41432101) - [The Elements of APIs by John Holdun](https://johnholdun.com/apis/)
 * [2024-09-02, 20:58:24](https://news.ycombinator.com/item?id=41428759) - [Activating a Playstation-Only Cheat on PC in Just Nine Bytes](https://falseceilings.wordpress.com/2020/03/24/activating-a-playstation-only-cheat-on-pc-in-just-nine-bytes/)
 * [2024-09-02, 15:34:55](https://news.ycombinator.com/item?id=41426318) - [Understanding Pgvector's HNSW Index Storage in Postgres](https://lantern.dev/blog/pgvector-storage)
@@ -29,7 +30,6 @@
 * [2024-09-02, 03:40:00](https://news.ycombinator.com/item?id=41422395) - [CSS-only infinite scrolling carousel animation](https://blog.logto.io/css-only-infinite-scroll)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
 * [2024-09-01, 19:38:01](https://news.ycombinator.com/item?id=41419688) - [Sequel: The Database Toolkit for Ruby](https://github.com/jeremyevans/sequel)
-* [2024-08-31, 22:42:59](https://news.ycombinator.com/item?id=41412601) - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 
 ## [Archives](archives/index.md)
 
