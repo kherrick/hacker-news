@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 14:40:39](https://news.ycombinator.com/item?id=41457089) - [The Decline of Usability](https://www.datagubbe.se/decusab/)
+* [2024-09-05, 14:39:29](https://news.ycombinator.com/item?id=41457081) - [You Don't Have Time to Read Books That Won't Change Your Life](https://aethermug.com/posts/you-don-t-have-time)
+* [2024-09-05, 14:25:01](https://news.ycombinator.com/item?id=41456948) - [The Gift of Code](https://thehistoryoftheweb.com/the-gift-of-code/)
+* [2024-09-05, 14:13:59](https://news.ycombinator.com/item?id=41456832) - [Flight engineer reveals what it was like to operate Concorde](https://www.cnn.com/travel/flight-engineers-concorde-warren-hazelby/index.html)
+* [2024-09-05, 13:42:43](https://news.ycombinator.com/item?id=41456552) - [Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform](https://news.ycombinator.com/item?id=41456552)
 * [2024-09-05, 13:31:01](https://news.ycombinator.com/item?id=41456472) - [Kids Should Be Taught to Think Logically](https://www.scientificamerican.com/article/the-u-s-should-teach-kids-to-think-logically/)
 * [2024-09-05, 13:24:29](https://news.ycombinator.com/item?id=41456411) - [Show HN: Hacker League – Open-Source Rocket League on Linux](https://github.com/moritztng/hacker-league)
 * [2024-09-05, 13:07:14](https://news.ycombinator.com/item?id=41456270) - [New study suggests nose picking could increase risk for Alzheimer's and dementia](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/)
