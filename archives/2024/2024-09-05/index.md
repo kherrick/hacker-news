@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 15:33:06](https://news.ycombinator.com/item?id=41457564) - [Ditching EVs for Hybrids Is Already Paying Off for Automakers](https://jalopnik.com/ditching-evs-for-hybrids-is-already-paying-off-for-auto-1851640422)
+* [2024-09-05, 15:05:49](https://news.ycombinator.com/item?id=41457331) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 * [2024-09-05, 15:05:25](https://news.ycombinator.com/item?id=41457329) - [AI-powered music scam nets musician $10M in royalties–and federal charges](https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/)
 * [2024-09-05, 14:53:00](https://news.ycombinator.com/item?id=41457206) - [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
 * [2024-09-05, 14:40:39](https://news.ycombinator.com/item?id=41457089) - [The Decline of Usability](https://www.datagubbe.se/decusab/)
