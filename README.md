@@ -19,7 +19,7 @@
 * [2024-09-04, 16:23:34](https://news.ycombinator.com/item?id=41447515) - [The first nuclear clock will test if fundamental constants change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
 * [2024-09-04, 15:28:08](https://news.ycombinator.com/item?id=41446916) - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
-* [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
+* [2024-09-04, 13:43:19](https://news.ycombinator.com/item?id=41445790) - [Physics is unreasonably good at creating new math](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
 * [2024-09-03, 07:52:09](https://news.ycombinator.com/item?id=41432396) - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
 * [2024-09-02, 15:34:55](https://news.ycombinator.com/item?id=41426318) - [Understanding Pgvector's HNSW Index Storage in Postgres](https://lantern.dev/blog/pgvector-storage)
