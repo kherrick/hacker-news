@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 18:40:36](https://news.ycombinator.com/item?id=41459344) - [I sold all my Tesla shares (TSLA), here's why](https://electrek.co/2024/09/05/i-sold-all-my-tesla-shares-tsla-why/)
 * [2024-09-05, 18:12:37](https://news.ycombinator.com/item?id=41459107) - [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
 * [2024-09-05, 17:55:59](https://news.ycombinator.com/item?id=41458987) - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
 * [2024-09-05, 17:51:20](https://news.ycombinator.com/item?id=41458949) - [Sustainable Licensing at Element with AGPL](https://element.io/blog/sustainable-licensing-at-element-with-agpl/)
