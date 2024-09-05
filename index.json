@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-09-05, 20:12:52",
+      "https://news.ycombinator.com/item?id=41460037"
+    ],
+    [
+      "Clojure 1.12.0 is now available",
+      "https://clojure.org/news/2024/09/05/clojure-1-12-0"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 19:48:22",
       "https://news.ycombinator.com/item?id=41459865"
     ],
@@ -287,16 +297,6 @@
     [
       "OAuth from First Principles",
       "https://stack-auth.com/blog/oauth-from-first-principles"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 21:47:42",
-      "https://news.ycombinator.com/item?id=41420672"
-    ],
-    [
-      "A Real Life Off-by-One Error",
-      "https://leejo.github.io/2024/09/01/off_by_one/"
     ]
   ]
 ]
