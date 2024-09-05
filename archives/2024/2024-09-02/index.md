@@ -54,6 +54,7 @@
 * [2024-09-02, 14:50:47](https://news.ycombinator.com/item?id=41425808) - [Revolution: Google Password Manager Syncs Passkeys to Apple and Windows Devices](https://www.corbado.com/blog/google-passkeys-sync-windows-macos)
 * [2024-09-02, 14:35:12](https://news.ycombinator.com/item?id=41425675) - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
 * [2024-09-02, 14:30:01](https://news.ycombinator.com/item?id=41425646) - [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
+* [2024-09-02, 14:19:30](https://news.ycombinator.com/item?id=41425583) - [The New Test Images – Image Compression Benchmark](https://imagecompression.info/test_images/)
 * [2024-09-02, 14:17:08](https://news.ycombinator.com/item?id=41425563) - [Sleep on it: How the brain processes many experiences – even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 * [2024-09-02, 14:11:59](https://news.ycombinator.com/item?id=41425525) - [Ask HN: Why does Microsoft prohibit employee personal open source projects?](https://news.ycombinator.com/item?id=41425525)
 * [2024-09-02, 14:04:20](https://news.ycombinator.com/item?id=41425467) - [My Blog Engine Is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
