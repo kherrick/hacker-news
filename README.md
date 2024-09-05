@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-05, 16:41:15](https://news.ycombinator.com/item?id=41458299) - [KubeVision a new Kubernetes dashboard powered by Argo CD](https://akuity.io/blog/introducing-kubevision-feature/)
 * [2024-09-05, 15:56:13](https://news.ycombinator.com/item?id=41457813) - [Workers Uncover Underground Chamber Sealed for over a Century Near National Mall](https://www.smithsonianmag.com/smart-news/workers-uncover-an-underground-chamber-sealed-for-more-than-a-century-near-the-national-mall-180985018/)
-* [2024-09-05, 15:42:54](https://news.ycombinator.com/item?id=41457654) - [BMW tries \"motionless\" wind tech on UK plant roof](https://renewablesnow.com/news/bmw-tries-motionless-wind-tech-on-uk-plant-roof-867956/)
 * [2024-09-05, 15:40:45](https://news.ycombinator.com/item?id=41457633) - [Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant](https://github.com/Mintplex-Labs/anything-llm)
 * [2024-09-05, 15:05:49](https://news.ycombinator.com/item?id=41457331) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 * [2024-09-05, 14:53:00](https://news.ycombinator.com/item?id=41457206) - [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
