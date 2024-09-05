@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
 * [2024-09-05, 15:56:13](https://news.ycombinator.com/item?id=41457813) - [Workers Uncover Underground Chamber Sealed for over a Century Near National Mall](https://www.smithsonianmag.com/smart-news/workers-uncover-an-underground-chamber-sealed-for-more-than-a-century-near-the-national-mall-180985018/)
+* [2024-09-05, 15:42:54](https://news.ycombinator.com/item?id=41457654) - [BMW tries \"motionless\" wind tech on UK plant roof](https://renewablesnow.com/news/bmw-tries-motionless-wind-tech-on-uk-plant-roof-867956/)
 * [2024-09-05, 15:40:45](https://news.ycombinator.com/item?id=41457633) - [Show HN: AnythingLLM – The Open-Source, All-in-One Desktop AI Assistant](https://news.ycombinator.com/item?id=41457633)
 * [2024-09-05, 15:40:45](https://news.ycombinator.com/item?id=41457633) - [Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant](https://github.com/Mintplex-Labs/anything-llm)
 * [2024-09-05, 15:33:06](https://news.ycombinator.com/item?id=41457564) - [Ditching EVs for Hybrids Is Already Paying Off for Automakers](https://jalopnik.com/ditching-evs-for-hybrids-is-already-paying-off-for-auto-1851640422)
