@@ -67,6 +67,7 @@
 * [2024-09-02, 13:15:45](https://news.ycombinator.com/item?id=41425150) - [Show HN: Gov.uk Vue, a Vue Component Library for the Gov.uk Design System](https://govukvue.org/)
 * [2024-09-02, 13:07:26](https://news.ycombinator.com/item?id=41425093) - [How CrowdStrike Stopped Everything](https://cacm.acm.org/news/how-crowdstrike-stopped-everything/)
 * [2024-09-02, 13:06:02](https://news.ycombinator.com/item?id=41425085) - [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
+* [2024-09-02, 13:02:38](https://news.ycombinator.com/item?id=41425055) - [The Powerful Potential of Tiny Conservation Plots](https://www.noemamag.com/the-powerful-potential-of-tiny-conservation-plots/)
 * [2024-09-02, 12:59:47](https://news.ycombinator.com/item?id=41425028) - [Brazil to Fine Anyone Using a VPN to Access X $8,874 per Day; Elon Musk Responds](https://www.complex.com/pop-culture/a/treyalston/brazil-x-elon-musk-fine)
 * [2024-09-02, 12:51:58](https://news.ycombinator.com/item?id=41424977) - [\"It's hard to see the future through spreadsheets\" – Steve Huffman](https://mastersofscale.com/online-platforms-cant-just-sit-on-their-hands/)
 * [2024-09-02, 12:46:47](https://news.ycombinator.com/item?id=41424954) - [Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
