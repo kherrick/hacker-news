@@ -1,22 +1,62 @@
 [
   [
     [
+      "2024-09-05, 09:02:29",
+      "https://news.ycombinator.com/item?id=41454870"
+    ],
+    [
+      "Giving C++ std:regex a C makeover",
+      "https://nullprogram.com/blog/2024/09/04/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 08:44:58",
+      "https://news.ycombinator.com/item?id=41454779"
+    ],
+    [
+      "Porting systemd to musl Libc-powered Linux",
+      "https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 08:36:56",
+      "https://news.ycombinator.com/item?id=41454741"
+    ],
+    [
+      "Building a WoW (World of Warcraft) Server in Elixir",
+      "https://pikdum.dev/posts/thistle-tea/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 07:58:07",
+      "https://news.ycombinator.com/item?id=41454555"
+    ],
+    [
+      "Shell Has a Forth-Like Quality",
+      "https://www.oilshell.org/blog/2017/01/13.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 07:34:58",
+      "https://news.ycombinator.com/item?id=41454423"
+    ],
+    [
+      "A SpamAssassin Surprise",
+      "https://lwn.net/SubscriberLink/987566/3be928f6e483853d/"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 07:01:05",
       "https://news.ycombinator.com/item?id=41454257"
     ],
     [
       "Flexport Is Hiring Engineers in Amsterdam",
       "https://www.flexport.com/careers/teams/engineering/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 06:03:48",
-      "https://news.ycombinator.com/item?id=41453975"
-    ],
-    [
-      "US Government Sets Out to Improve Internet Routing Security",
-      "https://www.infosecurity-magazine.com/news/us-internet-routing-security/"
     ]
   ],
   [
@@ -171,42 +211,12 @@
   ],
   [
     [
-      "2024-09-04, 15:28:08",
-      "https://news.ycombinator.com/item?id=41446916"
-    ],
-    [
-      "sRGB Gamut Clipping (2021)",
-      "https://bottosson.github.io/posts/gamutclipping/"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 09:10:02",
-      "https://news.ycombinator.com/item?id=41443493"
-    ],
-    [
-      "DAGitty – draw and analyze causal diagrams",
-      "https://dagitty.net/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 08:30:32",
       "https://news.ycombinator.com/item?id=41432625"
     ],
     [
       "Software Rasterizing Hair",
       "https://www.sctheblog.com/blog/hair-software-rasterize/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 07:52:09",
-      "https://news.ycombinator.com/item?id=41432396"
-    ],
-    [
-      "Shift Networks",
-      "https://www.jeremykun.com/2024/09/02/shift-networks/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sequel: The Database Toolkit for Ruby",
       "https://github.com/jeremyevans/sequel"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 22:42:59",
-      "https://news.ycombinator.com/item?id=41412601"
-    ],
-    [
-      "Routed Gothic Font",
-      "https://webonastick.com/fonts/routed-gothic/"
     ]
   ]
 ]
