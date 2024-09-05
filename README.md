@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-05, 03:50:10](https://news.ycombinator.com/item?id=41453300) - [Kids who use ChatGPT as a study assistant do worse on tests](https://hechingerreport.org/kids-chatgpt-worse-on-tests/)
 * [2024-09-05, 02:41:56](https://news.ycombinator.com/item?id=41452985) - [The Magazine for Mercenaries Enters Polite Society](https://www.newyorker.com/magazine/2024/09/09/the-magazine-for-mercenaries-enters-polite-society)
 * [2024-09-05, 02:02:14](https://news.ycombinator.com/item?id=41452799) - [Strength training activates cellular waste disposal](https://medicalxpress.com/news/2024-08-strength-cellular-disposal-interdisciplinary-reveals.html)
 * [2024-09-05, 01:59:23](https://news.ycombinator.com/item?id=41452781) - [Canadian mega landlord using AI 'pricing scheme' as it hikes rents](https://breachmedia.ca/canadian-mega-landlord-ai-pricing-scheme-hikes-rents/)
@@ -21,7 +22,6 @@
 * [2024-09-04, 13:43:19](https://news.ycombinator.com/item?id=41445790) - [Physics is unreasonably good at creating new math](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/)
 * [2024-09-04, 13:21:19](https://news.ycombinator.com/item?id=41445445) - [Show HN: Graphiti – LLM-Powered Temporal Knowledge Graphs](https://github.com/getzep/graphiti)
 * [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
-* [2024-09-04, 12:07:27](https://news.ycombinator.com/item?id=41444700) - [ReMarkable Paper Pro](https://remarkable.com/)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
 * [2024-09-03, 07:52:09](https://news.ycombinator.com/item?id=41432396) - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
 * [2024-09-02, 15:34:55](https://news.ycombinator.com/item?id=41426318) - [Understanding Pgvector's HNSW Index Storage in Postgres](https://lantern.dev/blog/pgvector-storage)
