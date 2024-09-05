@@ -79,6 +79,7 @@
 * [2024-09-01, 07:50:35](https://news.ycombinator.com/item?id=41415077) - [Godot on iPad, Toolbars, Importers, Embedding, Debugger](https://blog.la-terminal.net/godot-on-ipad-summer-update/)
 * [2024-09-01, 07:46:01](https://news.ycombinator.com/item?id=41415063) - [Artificial intelligence comes to male sex toys](https://english.elpais.com/lifestyle/2024-09-01/this-is-not-your-normal-masturbation-artificial-intelligence-comes-to-male-sex-toys.html)
 * [2024-09-01, 07:35:23](https://news.ycombinator.com/item?id=41415023) - [Founder Mode](https://paulgraham.com/foundermode.html)
+* [2024-09-01, 06:12:16](https://news.ycombinator.com/item?id=41414713) - [Show HN: I made CMS less than 15 kilobytes, flat file](https://news.ycombinator.com/item?id=41414713)
 * [2024-09-01, 05:08:24](https://news.ycombinator.com/item?id=41414455) - [AI is growing faster than companies can secure it, warn industry leaders](https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/)
 * [2024-09-01, 04:46:19](https://news.ycombinator.com/item?id=41414372) - [Chatbots Are Primed to Warp Reality](https://www.theatlantic.com/technology/archive/2024/08/chatbots-false-memories/679660/)
 * [2024-09-01, 04:42:56](https://news.ycombinator.com/item?id=41414359) - [The case of the nearly 7k missing pancreases](https://www.vox.com/future-perfect/367812/organ-donation-loophole-pancreas-opo)
@@ -89,3 +90,4 @@
 * [2024-09-01, 01:31:14](https://news.ycombinator.com/item?id=41413475) - [Ozempic could delay ageing, researchers suggest](https://www.bbc.com/news/articles/ce81j919gdjo)
 * [2024-09-01, 01:22:28](https://news.ycombinator.com/item?id=41413433) - [Palmer Luckey, American Vulcan](https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril)
 * [2024-09-01, 00:38:33](https://news.ycombinator.com/item?id=41413174) - [AirTags key to discovery of Houston's plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception)
+* [2024-09-01, 00:06:02](https://news.ycombinator.com/item?id=41413006) - [Encounters with the Maverick Archaeologist of the Americas](https://hakaimagazine.com/features/encounters-with-the-maverick-archaeologist-of-the-americas/)
