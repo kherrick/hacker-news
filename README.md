@@ -19,6 +19,7 @@
 * [2024-09-04, 16:23:34](https://news.ycombinator.com/item?id=41447515) - [The first nuclear clock will test if fundamental constants change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
 * [2024-09-04, 15:28:08](https://news.ycombinator.com/item?id=41446916) - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
+* [2024-09-04, 13:17:55](https://news.ycombinator.com/item?id=41445413) - [Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
 * [2024-09-03, 07:52:09](https://news.ycombinator.com/item?id=41432396) - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
 * [2024-09-02, 20:58:24](https://news.ycombinator.com/item?id=41428759) - [Activating a Playstation-Only Cheat on PC in Just Nine Bytes](https://falseceilings.wordpress.com/2020/03/24/activating-a-playstation-only-cheat-on-pc-in-just-nine-bytes/)
@@ -27,7 +28,6 @@
 * [2024-09-02, 03:40:00](https://news.ycombinator.com/item?id=41422395) - [CSS-only infinite scrolling carousel animation](https://blog.logto.io/css-only-infinite-scroll)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
 * [2024-09-01, 19:38:01](https://news.ycombinator.com/item?id=41419688) - [Sequel: The Database Toolkit for Ruby](https://github.com/jeremyevans/sequel)
-* [2024-09-01, 06:12:16](https://news.ycombinator.com/item?id=41414713) - [Show HN: I made CMS less than 15 kilobytes, flat file](https://news.ycombinator.com/item?id=41414713)
 * [2024-09-01, 00:06:02](https://news.ycombinator.com/item?id=41413006) - [Encounters with the Maverick Archaeologist of the Americas](https://hakaimagazine.com/features/encounters-with-the-maverick-archaeologist-of-the-americas/)
 * [2024-08-31, 22:42:59](https://news.ycombinator.com/item?id=41412601) - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 
