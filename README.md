@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-05, 13:07:14](https://news.ycombinator.com/item?id=41456270) - [New study suggests nose picking could increase risk for Alzheimer's and dementia](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/)
 * [2024-09-05, 12:01:15](https://news.ycombinator.com/item?id=41455760) - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
-* [2024-09-05, 11:44:41](https://news.ycombinator.com/item?id=41455657) - [Exercise to Strengthen Esophageal Sphincter and Eliminate Gastric Reflux (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2024-09-05, 11:00:03](https://news.ycombinator.com/item?id=41455420) - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
 * [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
-* [2024-09-05, 08:36:56](https://news.ycombinator.com/item?id=41454741) - [Building a WoW (World of Warcraft) Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
 * [2024-09-05, 07:34:58](https://news.ycombinator.com/item?id=41454423) - [A SpamAssassin Surprise](https://lwn.net/SubscriberLink/987566/3be928f6e483853d/)
 * [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 * [2024-09-05, 03:46:50](https://news.ycombinator.com/item?id=41453283) - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
@@ -29,6 +28,7 @@
 * [2024-09-02, 15:50:48](https://news.ycombinator.com/item?id=41426466) - [How the Hourglass Won](https://systemsapproach.org/2024/08/19/how-the-hourglass-won/)
 * [2024-09-02, 15:06:30](https://news.ycombinator.com/item?id=41426010) - [HIDman Adapting USB devices to work on old computers](https://github.com/rasteri/HIDman)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
+* [2024-09-01, 12:22:39](https://news.ycombinator.com/item?id=41416385) - [Conversion to Grayscale](https://entropymine.com/imageworsener/grayscale/)
 * [2024-08-31, 22:42:59](https://news.ycombinator.com/item?id=41412601) - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 
 ## [Archives](archives/index.md)

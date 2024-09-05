@@ -55,6 +55,7 @@
 * [2024-09-01, 12:58:03](https://news.ycombinator.com/item?id=41416644) - [Show HN: Ten AI demo apps to build your next AI project faster](https://nextjsaitemplates.com)
 * [2024-09-01, 12:41:01](https://news.ycombinator.com/item?id=41416523) - [Rediscovering Turbo Pascal](https://journal.paoloamoroso.com/rediscovering-turbo-pascal)
 * [2024-09-01, 12:25:02](https://news.ycombinator.com/item?id=41416401) - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
+* [2024-09-01, 12:22:39](https://news.ycombinator.com/item?id=41416385) - [Conversion to Grayscale](https://entropymine.com/imageworsener/grayscale/)
 * [2024-09-01, 12:13:52](https://news.ycombinator.com/item?id=41416327) - [5 Years of InfoSec Focused Homelabbing](https://www.archcloudlabs.com/projects/5-years-of-homelab/)
 * [2024-09-01, 11:56:38](https://news.ycombinator.com/item?id=41416183) - [HMD Barbie Phone](https://www.hmd.com/en_int/hmd-barbie-phone)
 * [2024-09-01, 11:34:22](https://news.ycombinator.com/item?id=41416046) - [There's a Place for Everyone](https://www.experimental-history.com/p/theres-a-place-for-everyone)

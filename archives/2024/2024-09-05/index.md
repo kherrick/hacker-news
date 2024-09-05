@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 13:07:14](https://news.ycombinator.com/item?id=41456270) - [New study suggests nose picking could increase risk for Alzheimer's and dementia](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/)
 * [2024-09-05, 12:01:15](https://news.ycombinator.com/item?id=41455760) - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
 * [2024-09-05, 11:44:41](https://news.ycombinator.com/item?id=41455657) - [Exercise to Strengthen Esophageal Sphincter and Eliminate Gastric Reflux (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2024-09-05, 11:37:29](https://news.ycombinator.com/item?id=41455607) - [the US should place a value of $1.17M per additional birth](https://model-thinking.com/p/refillable-planet)
