@@ -3,7 +3,7 @@
 * [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:36:56](https://news.ycombinator.com/item?id=41454741) - [Building a WoW (World of Warcraft) Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
-* [2024-09-05, 07:58:07](https://news.ycombinator.com/item?id=41454555) - [Shell Has a Forth-Like Quality](https://www.oilshell.org/blog/2017/01/13.html)
+* [2024-09-05, 07:58:07](https://news.ycombinator.com/item?id=41454555) - [Shell Has a Forth-Like Quality (2017)](https://www.oilshell.org/blog/2017/01/13.html)
 * [2024-09-05, 07:34:58](https://news.ycombinator.com/item?id=41454423) - [A SpamAssassin Surprise](https://lwn.net/SubscriberLink/987566/3be928f6e483853d/)
 * [2024-09-05, 07:01:05](https://news.ycombinator.com/item?id=41454257) - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
 * [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
@@ -26,10 +26,10 @@
 * [2024-09-03, 07:04:56](https://news.ycombinator.com/item?id=41432101) - [The Elements of APIs by John Holdun](https://johnholdun.com/apis/)
 * [2024-09-02, 15:34:55](https://news.ycombinator.com/item?id=41426318) - [Understanding Pgvector's HNSW Index Storage in Postgres](https://lantern.dev/blog/pgvector-storage)
 * [2024-09-02, 15:06:30](https://news.ycombinator.com/item?id=41426010) - [HIDman Adapting USB devices to work on old computers](https://github.com/rasteri/HIDman)
-* [2024-09-02, 13:02:38](https://news.ycombinator.com/item?id=41425055) - [The Powerful Potential of Tiny Conservation Plots](https://www.noemamag.com/the-powerful-potential-of-tiny-conservation-plots/)
 * [2024-09-02, 03:40:00](https://news.ycombinator.com/item?id=41422395) - [CSS-only infinite scrolling carousel animation](https://blog.logto.io/css-only-infinite-scroll)
 * [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
 * [2024-09-01, 19:38:01](https://news.ycombinator.com/item?id=41419688) - [Sequel: The Database Toolkit for Ruby](https://github.com/jeremyevans/sequel)
+* [2024-08-31, 22:42:59](https://news.ycombinator.com/item?id=41412601) - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 
 ## [Archives](archives/index.md)
 
