@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 13:31:01](https://news.ycombinator.com/item?id=41456472) - [Kids Should Be Taught to Think Logically](https://www.scientificamerican.com/article/the-u-s-should-teach-kids-to-think-logically/)
+* [2024-09-05, 13:24:29](https://news.ycombinator.com/item?id=41456411) - [Show HN: Hacker League – Open-Source Rocket League on Linux](https://github.com/moritztng/hacker-league)
 * [2024-09-05, 13:07:14](https://news.ycombinator.com/item?id=41456270) - [New study suggests nose picking could increase risk for Alzheimer's and dementia](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/)
 * [2024-09-05, 12:01:15](https://news.ycombinator.com/item?id=41455760) - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
 * [2024-09-05, 11:55:48](https://news.ycombinator.com/item?id=41455719) - [Show HN: Node.js ORM to query SQL database through an array-like API](https://github.com/tilyupo/qustar)
