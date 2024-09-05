@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 11:37:29](https://news.ycombinator.com/item?id=41455607) - [the US should place a value of $1.17M per additional birth](https://model-thinking.com/p/refillable-planet)
 * [2024-09-05, 11:02:51](https://news.ycombinator.com/item?id=41455435) - [Rethinking Exercise: How Too Much Can Speed Up Aging, According to Finnish Study](https://www.thomashealthblog.com/?p=19078)
 * [2024-09-05, 11:00:03](https://news.ycombinator.com/item?id=41455420) - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
+* [2024-09-05, 10:23:10](https://news.ycombinator.com/item?id=41455252) - [Olympic athlete Rebecca Cheptegei dies days after being set alight by ex-BF](https://www.bbc.com/news/articles/c3vx0kq2xr2o)
 * [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:36:56](https://news.ycombinator.com/item?id=41454741) - [Building a WoW (World of Warcraft) Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
