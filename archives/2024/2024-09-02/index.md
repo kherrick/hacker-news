@@ -99,6 +99,7 @@
 * [2024-09-02, 05:29:30](https://news.ycombinator.com/item?id=41422849) - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
 * [2024-09-02, 05:16:13](https://news.ycombinator.com/item?id=41422796) - [Cosy Computing](https://www.datagubbe.se/cosy/)
 * [2024-09-02, 04:23:36](https://news.ycombinator.com/item?id=41422559) - [We can now watch Grace Hopper's famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
+* [2024-09-02, 04:09:17](https://news.ycombinator.com/item?id=41422498) - [China's chip capabilities just 3 years behind TSMC, teardown shows](https://asia.nikkei.com/Business/Tech/Semiconductors/China-s-chip-capabilities-just-3-years-behind-TSMC-teardown-shows)
 * [2024-09-02, 04:04:00](https://news.ycombinator.com/item?id=41422475) - [Texas Is Arming Mexico's Gunmen](https://www.texasobserver.org/texas-mexico-guns-border-crime/)
 * [2024-09-02, 03:40:00](https://news.ycombinator.com/item?id=41422395) - [CSS-only infinite scrolling carousel animation](https://blog.logto.io/css-only-infinite-scroll)
 * [2024-09-02, 03:37:22](https://news.ycombinator.com/item?id=41422387) - [Authenticated Boot and Disk Encryption on Linux](https://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
