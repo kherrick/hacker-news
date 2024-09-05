@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-09-05, 01:27:54",
-      "https://news.ycombinator.com/item?id=41452610"
-    ],
-    [
-      "Robinhood lets Brits lend shares for income to grow international footprint",
-      "https://www.cnbc.com/2024/09/04/robinhood-launches-stock-lending-product-in-the-uk.html"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 00:40:25",
       "https://news.ycombinator.com/item?id=41452339"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2024-09-04, 21:07:05",
+      "https://news.ycombinator.com/item?id=41450824"
+    ],
+    [
+      "Lesser known parts of Python standard library – Trickster Dev",
+      "https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 21:02:36",
       "https://news.ycombinator.com/item?id=41450775"
     ],
@@ -97,6 +97,16 @@
     [
       "CSS @property and the new style",
       "https://ryanmulligan.dev/blog/css-property-new-style/"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 18:04:51",
+      "https://news.ycombinator.com/item?id=41448664"
+    ],
+    [
+      "What's functional programming all about? (2017)",
+      "https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Glue and Coprocessor Architectures",
       "https://vitalik.eth.limo/general/2024/09/02/gluecp.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 02:30:36",
-      "https://news.ycombinator.com/item?id=41422150"
-    ],
-    [
-      "Undefined behavior in C is a reading error (2021)",
-      "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/"
     ]
   ],
   [
