@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 15:40:45](https://news.ycombinator.com/item?id=41457633) - [Show HN: AnythingLLM – The Open-Source, All-in-One Desktop AI Assistant](https://news.ycombinator.com/item?id=41457633)
 * [2024-09-05, 15:33:06](https://news.ycombinator.com/item?id=41457564) - [Ditching EVs for Hybrids Is Already Paying Off for Automakers](https://jalopnik.com/ditching-evs-for-hybrids-is-already-paying-off-for-auto-1851640422)
 * [2024-09-05, 15:05:49](https://news.ycombinator.com/item?id=41457331) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 * [2024-09-05, 15:05:25](https://news.ycombinator.com/item?id=41457329) - [AI-powered music scam nets musician $10M in royalties–and federal charges](https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/)
