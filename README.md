@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-05, 13:07:14](https://news.ycombinator.com/item?id=41456270) - [New study suggests nose picking could increase risk for Alzheimer's and dementia](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/)
 * [2024-09-05, 12:01:15](https://news.ycombinator.com/item?id=41455760) - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
+* [2024-09-05, 11:55:48](https://news.ycombinator.com/item?id=41455719) - [Show HN: Node.js ORM to query SQL database through an array-like API](https://github.com/tilyupo/qustar)
 * [2024-09-05, 11:00:03](https://news.ycombinator.com/item?id=41455420) - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
 * [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
