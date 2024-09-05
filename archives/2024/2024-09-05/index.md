@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 02:41:56](https://news.ycombinator.com/item?id=41452985) - [The Magazine for Mercenaries Enters Polite Society](https://www.newyorker.com/magazine/2024/09/09/the-magazine-for-mercenaries-enters-polite-society)
 * [2024-09-05, 02:02:14](https://news.ycombinator.com/item?id=41452799) - [Strength training activates cellular waste disposal](https://medicalxpress.com/news/2024-08-strength-cellular-disposal-interdisciplinary-reveals.html)
 * [2024-09-05, 01:59:23](https://news.ycombinator.com/item?id=41452781) - [Canadian mega landlord using AI 'pricing scheme' as it hikes rents](https://breachmedia.ca/canadian-mega-landlord-ai-pricing-scheme-hikes-rents/)
 * [2024-09-05, 01:27:54](https://news.ycombinator.com/item?id=41452610) - [Robinhood lets Brits lend shares for income to grow international footprint](https://www.cnbc.com/2024/09/04/robinhood-launches-stock-lending-product-in-the-uk.html)
