@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-05, 22:37:12](https://news.ycombinator.com/item?id=41460984) - [First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor](https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor)
 * [2024-09-05, 20:47:29](https://news.ycombinator.com/item?id=41460276) - [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
 * [2024-09-05, 20:15:43](https://news.ycombinator.com/item?id=41460061) - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
 * [2024-09-05, 20:12:52](https://news.ycombinator.com/item?id=41460037) - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
@@ -29,7 +30,6 @@
 * [2024-09-02, 12:17:14](https://news.ycombinator.com/item?id=41424818) - [Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
 * [2024-09-02, 04:09:17](https://news.ycombinator.com/item?id=41422498) - [China's chip capabilities just 3 years behind TSMC, teardown shows](https://asia.nikkei.com/Business/Tech/Semiconductors/China-s-chip-capabilities-just-3-years-behind-TSMC-teardown-shows)
 * [2024-09-01, 22:03:03](https://news.ycombinator.com/item?id=41420783) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
-* [2024-09-01, 21:47:42](https://news.ycombinator.com/item?id=41420672) - [A Real Life Off-by-One Error](https://leejo.github.io/2024/09/01/off_by_one/)
 
 ## [Archives](archives/index.md)
 
