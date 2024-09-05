@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-09-05, 17:37:19",
-      "https://news.ycombinator.com/item?id=41458820"
+      "2024-09-05, 17:55:59",
+      "https://news.ycombinator.com/item?id=41458987"
     ],
     [
-      "We need to check the gen AI hype and get back to reality",
-      "https://venturebeat.com/ai/why-we-need-to-check-the-gen-ai-hype-and-get-back-to-reality/"
+      "UE5 Nanite in WebGPU",
+      "https://github.com/Scthe/nanite-webgpu"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 17:02:40",
+      "https://news.ycombinator.com/item?id=41458508"
+    ],
+    [
+      "Deploying Rust in Existing Firmware Codebases",
+      "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html"
     ]
   ],
   [
@@ -51,22 +61,22 @@
   ],
   [
     [
+      "2024-09-05, 16:22:09",
+      "https://news.ycombinator.com/item?id=41458083"
+    ],
+    [
+      "Phind-405B and faster, high quality AI answers for everyone",
+      "https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 16:18:13",
       "https://news.ycombinator.com/item?id=41458044"
     ],
     [
       "Show HN: Claude Memory – Long-term memory for Claude",
       "https://github.com/deshraj/claude-memory"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 16:03:45",
-      "https://news.ycombinator.com/item?id=41457896"
-    ],
-    [
-      "A Manifesto for Radical Simplicity",
-      "https://joshaustin.tech/blog/a-manifesto-for-radical-simplicity/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-09-05, 13:27:06",
-      "https://news.ycombinator.com/item?id=41456433"
-    ],
-    [
-      "Leon is your open-source personal assistant who can live on your server",
-      "https://getleon.ai/"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 13:24:29",
       "https://news.ycombinator.com/item?id=41456411"
     ],
@@ -167,16 +167,6 @@
     [
       "Giving C++ std:regex a C makeover",
       "https://nullprogram.com/blog/2024/09/04/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 08:44:58",
-      "https://news.ycombinator.com/item?id=41454779"
-    ],
-    [
-      "Porting systemd to musl Libc-powered Linux",
-      "https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Here a Bee, There a Bee, Everywhere a Wild Bee",
       "https://hakaimagazine.com/features/here-a-bee-there-a-bee-everywhere-a-wild-bee/"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 22:03:03",
+      "https://news.ycombinator.com/item?id=41420783"
+    ],
+    [
+      "OAuth from First Principles",
+      "https://stack-auth.com/blog/oauth-from-first-principles"
     ]
   ],
   [
