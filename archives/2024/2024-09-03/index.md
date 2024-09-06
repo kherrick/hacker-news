@@ -19,6 +19,7 @@
 * [2024-09-03, 19:54:39](https://news.ycombinator.com/item?id=41438542) - [Show HN: Icebreaking AI. A free tool to help you find close friends](https://www.icebreakinglab.com)
 * [2024-09-03, 19:16:32](https://news.ycombinator.com/item?id=41438162) - [OpenAI Pleads It Can't Make Money Without Using Copyrighted Materials for Free](https://futurism.com/the-byte/openai-copyrighted-material-parliament)
 * [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
+* [2024-09-03, 19:08:28](https://news.ycombinator.com/item?id=41438077) - [Moondance: Experience the marvel that is night-blooming tobacco](https://theamericanscholar.org/moondance/)
 * [2024-09-03, 19:06:26](https://news.ycombinator.com/item?id=41438060) - [Mondragon as the New City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state)
 * [2024-09-03, 19:01:26](https://news.ycombinator.com/item?id=41438000) - [GitHub disabled adguard filters repository](https://twitter.com/adguard/status/1831040130641252839)
 * [2024-09-03, 18:59:49](https://news.ycombinator.com/item?id=41437981) - [American Radio Relay League paid $1M ransom payment](https://databreaches.net/2024/08/27/american-radio-relay-league-paid-1-million-ransom-payment/)
