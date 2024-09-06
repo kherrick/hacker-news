@@ -2,8 +2,8 @@
 
 * [2024-09-06, 22:26:03](https://news.ycombinator.com/item?id=41470164) - [Dell and Palantir to join S&P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
 * [2024-09-06, 22:18:06](https://news.ycombinator.com/item?id=41470123) - [Leaked Disney+ financials may shed light on recent price hike](https://arstechnica.com/gadgets/2024/09/disney-made-2-4-billion-in-revenue-in-3-months-leak-claims/)
+* [2024-09-06, 22:13:47](https://news.ycombinator.com/item?id=41470099) - [Manipulating Large Language Models to Increase Product Visibility](https://arxiv.org/abs/2404.07981)
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
-* [2024-09-06, 21:04:31](https://news.ycombinator.com/item?id=41469714) - [How Local Governments Got Hooked on One Company's Janky Software](https://www.bloomberg.com/news/features/2024-09-05/tyler-tech-s-odyssey-software-took-over-local-government-and-courts)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 18:16:57](https://news.ycombinator.com/item?id=41468486) - [Why Login Security Sucks](https://matduggan.com/why-login-security-sucks/)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
