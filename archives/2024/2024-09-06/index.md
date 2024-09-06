@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-06](index.md)
+
+* [2024-09-06, 00:09:06](https://news.ycombinator.com/item?id=41461573) - [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)

@@ -65,6 +65,7 @@
 * [2024-09-03, 12:12:58](https://news.ycombinator.com/item?id=41434157) - [A picture of the sun, taken with a neutrino detector, at night through the Earth](https://newhumanist.org.uk/articles/2402/the-sun-at-night)
 * [2024-09-03, 12:00:58](https://news.ycombinator.com/item?id=41434072) - [Mineflow (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
 * [2024-09-03, 11:14:33](https://news.ycombinator.com/item?id=41433673) - [Europeans fail to understand how much they were fucked by the 2008 crisis](https://twitter.com/RnaudBertrand/status/1830816765611590043)
+* [2024-09-03, 11:03:40](https://news.ycombinator.com/item?id=41433579) - [The Origins of the Steam Engine](https://blog.rootsofprogress.org/steam-engine-origins)
 * [2024-09-03, 10:21:41](https://news.ycombinator.com/item?id=41433316) - [AI worse than humans in every way at summarising information, trial finds](https://www.crikey.com.au/2024/09/03/ai-worse-summarising-information-humans-government-trial/)
 * [2024-09-03, 10:14:59](https://news.ycombinator.com/item?id=41433285) - [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
 * [2024-09-03, 10:02:06](https://news.ycombinator.com/item?id=41433205) - [The Fundamental Law of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
