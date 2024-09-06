@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-06, 17:00:20](https://news.ycombinator.com/item?id=41467816) - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
+* [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
 * [2024-09-06, 14:48:00](https://news.ycombinator.com/item?id=41466724) - [Parkinson's may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
@@ -15,7 +16,6 @@
 * [2024-09-05, 17:55:59](https://news.ycombinator.com/item?id=41458987) - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
 * [2024-09-05, 17:02:40](https://news.ycombinator.com/item?id=41458508) - [Deploying rust in existing firmware codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 * [2024-09-05, 16:34:51](https://news.ycombinator.com/item?id=41458240) - [Serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
-* [2024-09-05, 16:26:12](https://news.ycombinator.com/item?id=41458141) - [Show HN: We built a FOSS documentation CMS with a pretty GUI](https://kalmia.difuse.io/doc/)
 * [2024-09-05, 16:22:09](https://news.ycombinator.com/item?id=41458083) - [Phind-405B and faster, high quality AI answers for everyone](https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches)
 * [2024-09-05, 15:40:45](https://news.ycombinator.com/item?id=41457633) - [Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant](https://github.com/Mintplex-Labs/anything-llm)
 * [2024-09-05, 15:05:49](https://news.ycombinator.com/item?id=41457331) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
