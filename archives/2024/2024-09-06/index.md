@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 15:17:02](https://news.ycombinator.com/item?id=41466963) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 * [2024-09-06, 13:49:50](https://news.ycombinator.com/item?id=41466182) - [YouTube deletes LTT video for teaching people how to live without Google](https://www.youtube.com/watch?v=qHwP6S_jf7g)
 * [2024-09-06, 13:44:57](https://news.ycombinator.com/item?id=41466145) - [Open Source undefined, part 1: the alternative origin story](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/)
 * [2024-09-06, 13:43:37](https://news.ycombinator.com/item?id=41466138) - [Google removed 'number of results' default setting for some users](https://support.google.com/websearch/thread/291486764/solved-results-per-page-setting-not-visible?hl=en)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 15:17:02](https://news.ycombinator.com/item?id=41466963) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 * [2024-09-06, 13:12:08](https://news.ycombinator.com/item?id=41465870) - [Nntpit: Minimalist Reddit2nntp Gateway](https://github.com/taviso/nntpit)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
 * [2024-09-06, 12:00:25](https://news.ycombinator.com/item?id=41465357) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-* [2024-09-06, 11:06:38](https://news.ycombinator.com/item?id=41464994) - [C2y Proposal: Essential Effects for C](https://www9.open-std.org/JTC1/SC22/WG14/www/docs/n3317.htm)
 * [2024-09-06, 10:20:10](https://news.ycombinator.com/item?id=41464705) - [SAMA – open-source Chat server](https://github.com/SAMA-Communications)
 * [2024-09-06, 09:58:33](https://news.ycombinator.com/item?id=41464585) - [RGCosm – Reverse Geocode for OpenStreetMap](https://github.com/punnerud/rgcosm)
 * [2024-09-06, 09:05:50](https://news.ycombinator.com/item?id=41464347) - [Study: Playing D&D helps autistic players in social interactions](https://arstechnica.com/science/2024/09/study-playing-dungeons-dragons-helps-autistic-players-in-social-interactions/)
