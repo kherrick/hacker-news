@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-09-04, 13:45:06",
-      "https://news.ycombinator.com/item?id=41445803"
-    ],
-    [
-      "Goja: A Golang JavaScript Runtime",
-      "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 12:28:20",
       "https://news.ycombinator.com/item?id=41444855"
     ],
@@ -227,6 +217,16 @@
     [
       "How does cosine similarity work?",
       "https://tomhazledine.com/cosine-similarity/"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 08:58:00",
+      "https://news.ycombinator.com/item?id=41443414"
+    ],
+    [
+      "Fibonacci Partial Sums Tricks",
+      "https://arxiv.org/abs/2409.01296"
     ]
   ],
   [
