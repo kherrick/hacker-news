@@ -15,6 +15,7 @@
 * [2024-09-06, 13:44:57](https://news.ycombinator.com/item?id=41466145) - [Open Source undefined, part 1: the alternative origin story](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/)
 * [2024-09-06, 13:43:37](https://news.ycombinator.com/item?id=41466138) - [Google removed 'number of results' default setting for some users](https://support.google.com/websearch/thread/291486764/solved-results-per-page-setting-not-visible?hl=en)
 * [2024-09-06, 13:22:09](https://news.ycombinator.com/item?id=41465956) - [The future of college in the asset economy](https://harpers.org/archive/2024/09/what-are-you-going-to-do-with-that-erik-baker-college-education/)
+* [2024-09-06, 13:15:35](https://news.ycombinator.com/item?id=41465900) - [Inertia.js – Build React, Vue, or Svelte apps with server-side routing](https://inertiajs.com/)
 * [2024-09-06, 13:12:25](https://news.ycombinator.com/item?id=41465874) - [Causing environmental damage should be a criminal offence](https://earth4all.life/news/causing-environmental-damage-should-be-a-criminal-offence-say-72-of-people-in-g20-countries-surveyed/)
 * [2024-09-06, 13:12:08](https://news.ycombinator.com/item?id=41465870) - [Nntpit: Minimalist Reddit2nntp Gateway](https://github.com/taviso/nntpit)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
