@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 19:33:04](https://news.ycombinator.com/item?id=41469040) - [PHP is the new JavaScript?](https://www.mux.com/blog/php-is-the-new-javascript)
 * [2024-09-06, 18:41:06](https://news.ycombinator.com/item?id=41468667) - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
-* [2024-09-06, 17:00:20](https://news.ycombinator.com/item?id=41467816) - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
 * [2024-09-06, 16:23:18](https://news.ycombinator.com/item?id=41467522) - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
 * [2024-09-06, 15:17:02](https://news.ycombinator.com/item?id=41466963) - [Nginx has moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
@@ -12,10 +12,12 @@
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
 * [2024-09-06, 07:16:38](https://news.ycombinator.com/item?id=41463734) - [2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
 * [2024-09-06, 03:16:20](https://news.ycombinator.com/item?id=41462574) - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
+* [2024-09-06, 01:00:06](https://news.ycombinator.com/item?id=41461850) - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
 * [2024-09-05, 23:37:21](https://news.ycombinator.com/item?id=41461373) - [Beehive lab notebook: Local-first access control](https://www.inkandswitch.com/beehive/notebook/)
 * [2024-09-05, 18:44:01](https://news.ycombinator.com/item?id=41459373) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-05, 17:03:04](https://news.ycombinator.com/item?id=41458512) - [Debugging a memory leak in a Clojure service](https://charanvasu.com/posts/debugging-a-memory-leak-in-a-clojure-service/)
 * [2024-09-05, 13:51:22](https://news.ycombinator.com/item?id=41456635) - [Minifying HTML for GPT-4o: Remove all the HTML tags](https://blancas.io/blog/html-minify-for-llm/)
+* [2024-09-05, 05:35:28](https://news.ycombinator.com/item?id=41453829) - [The Haunted Wood: A History of Childhood Reading](https://literaryreview.co.uk/oh-the-places-youll-go)
 * [2024-09-05, 03:43:41](https://news.ycombinator.com/item?id=41453264) - [Better Dotfiles](https://iamdan.me/better-dotfiles)
 * [2024-09-04, 17:34:55](https://news.ycombinator.com/item?id=41448347) - [Decommissioning my first commercial product](https://binarysolo.blog/decommissioning-my-first-commercial-product/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
@@ -28,8 +30,6 @@
 * [2024-09-03, 14:43:01](https://news.ycombinator.com/item?id=41435444) - [Your Name in Landsat](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 * [2024-09-03, 11:59:56](https://news.ycombinator.com/item?id=41434062) - [Will open science change chemistry?](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article)
 * [2024-09-03, 05:07:26](https://news.ycombinator.com/item?id=41431463) - [Handling complexity without abstraction: Algebraic Bricklaying C](https://github.com/gritzko/librdx/blob/master/ABC.md)
-* [2024-09-02, 16:38:14](https://news.ycombinator.com/item?id=41426828) - [Achieving high Python performance with code generation (2022)](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
-* [2024-09-02, 11:36:45](https://news.ycombinator.com/item?id=41424533) - [Hawking Archive made available to historians and researchers](https://www.cam.ac.uk/stories/hawking-archive-for-all)
 
 ## [Archives](archives/index.md)
 
