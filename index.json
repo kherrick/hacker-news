@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-06, 04:39:15",
+      "https://news.ycombinator.com/item?id=41462926"
+    ],
+    [
+      "Moral implications of being moderately successful computer scientist and a woman",
+      "https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 03:22:21",
       "https://news.ycombinator.com/item?id=41462603"
     ],
@@ -27,16 +37,6 @@
     [
       "Frustrations with the OCaml ecosystem while developing a synthesizer library",
       "https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 01:39:26",
-      "https://news.ycombinator.com/item?id=41462070"
-    ],
-    [
-      "Swiss watchmakers put employees on state-funded leave as luxury demand disappear",
-      "https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41458240"
     ],
     [
-      "serverless-registry: A Docker registry backed by Workers and R2",
+      "Serverless-registry: A Docker registry backed by Workers and R2",
       "https://github.com/cloudflare/serverless-registry"
     ]
   ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-09-04, 01:00:56",
-      "https://news.ycombinator.com/item?id=41440855"
-    ],
-    [
-      "Why I self host my servers and what I've recently learned",
-      "https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 11:03:40",
       "https://news.ycombinator.com/item?id=41433579"
     ],
     [
       "The origins of the steam engine (2023)",
       "https://blog.rootsofprogress.org/steam-engine-origins"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 07:19:26",
+      "https://news.ycombinator.com/item?id=41432197"
+    ],
+    [
+      "The Memory Wall: Past, Present, and Future of DRAM",
+      "https://www.semianalysis.com/p/the-memory-wall"
     ]
   ],
   [
