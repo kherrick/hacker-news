@@ -1,62 +1,12 @@
 [
   [
     [
-      "2024-09-06, 13:49:50",
-      "https://news.ycombinator.com/item?id=41466182"
-    ],
-    [
-      "YouTube deletes LTT video for teaching people how to live without Google",
-      "https://www.youtube.com/watch?v=qHwP6S_jf7g"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 13:44:57",
-      "https://news.ycombinator.com/item?id=41466145"
-    ],
-    [
-      "Open Source undefined, part 1: the alternative origin story",
-      "https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 13:43:37",
-      "https://news.ycombinator.com/item?id=41466138"
-    ],
-    [
-      "Google removed 'number of results' default setting for some users",
-      "https://support.google.com/websearch/thread/291486764/solved-results-per-page-setting-not-visible?hl=en"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 13:22:09",
-      "https://news.ycombinator.com/item?id=41465956"
-    ],
-    [
-      "The future of college in the asset economy",
-      "https://harpers.org/archive/2024/09/what-are-you-going-to-do-with-that-erik-baker-college-education/"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 12:56:15",
       "https://news.ycombinator.com/item?id=41465735"
     ],
     [
       "Show HN: Wealthfolio: A Private, Open-Source Investment Tracker",
       "https://wealthfolio.app"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 12:54:07",
-      "https://news.ycombinator.com/item?id=41465716"
-    ],
-    [
-      "AI craze distorting VC market, as tech giants pour in billions of dollars",
-      "https://www.cnbc.com/2024/09/06/ai-craze-getting-funded-by-tech-giants-distorting-traditional-vcs.html"
     ]
   ],
   [
@@ -131,6 +81,16 @@
   ],
   [
     [
+      "2024-09-06, 09:02:00",
+      "https://news.ycombinator.com/item?id=41464321"
+    ],
+    [
+      "\"it's nothing to do with solder. it's capacitors\"",
+      "https://chaos.social/@gsuberland/113084315488845513"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 07:27:06",
       "https://news.ycombinator.com/item?id=41463809"
     ],
@@ -157,6 +117,16 @@
     [
       "LwIP – Lightweight IP Stack",
       "https://www.nongnu.org/lwip/2_1_x/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 20:12:52",
+      "https://news.ycombinator.com/item?id=41460037"
+    ],
+    [
+      "Clojure 1.12.0 is now available",
+      "https://clojure.org/news/2024/09/05/clojure-1-12-0"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-09-05, 16:55:25",
+      "https://news.ycombinator.com/item?id=41458439"
+    ],
+    [
+      "The 'Freakish Radio Writings' of 1924",
+      "https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 16:34:51",
       "https://news.ycombinator.com/item?id=41458240"
     ],
@@ -217,6 +197,16 @@
     [
       "Phind-405B and faster, high quality AI answers for everyone",
       "https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 15:40:45",
+      "https://news.ycombinator.com/item?id=41457633"
+    ],
+    [
+      "Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant",
+      "https://github.com/Mintplex-Labs/anything-llm"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Advanced Python: Achieving High Performance with Code Generation",
       "https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 11:36:24",
+      "https://news.ycombinator.com/item?id=41424531"
+    ],
+    [
+      "The work you do, the person you are (2017)",
+      "https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are"
     ]
   ]
 ]
