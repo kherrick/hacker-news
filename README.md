@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 18:31:51](https://news.ycombinator.com/item?id=41468594) - [Meta will let third-party apps place calls to WhatsApp and Messenger users](https://techcrunch.com/2024/09/06/meta-will-let-third-party-apps-place-calls-to-whatsapp-and-messenger-users-in-2027/)
 * [2024-09-06, 17:00:20](https://news.ycombinator.com/item?id=41467816) - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
 * [2024-09-06, 16:23:18](https://news.ycombinator.com/item?id=41467522) - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
@@ -17,7 +18,6 @@
 * [2024-09-05, 09:23:05](https://news.ycombinator.com/item?id=41454961) - [Five Geek Social Fallacies (2003)](https://plausiblydeniable.com/five-geek-social-fallacies/)
 * [2024-09-05, 03:43:41](https://news.ycombinator.com/item?id=41453264) - [Better Dotfiles](https://iamdan.me/better-dotfiles)
 * [2024-09-04, 17:34:55](https://news.ycombinator.com/item?id=41448347) - [Decommissioning my first commercial product](https://binarysolo.blog/decommissioning-my-first-commercial-product/)
-* [2024-09-04, 17:24:05](https://news.ycombinator.com/item?id=41448250) - [The Island: WH Auden and the Last of Englishness Review](https://www.theguardian.com/books/article/2024/aug/18/the-island-wh-auden-and-the-last-of-englishness-review-a-deep-dive-into-the-poets-early-years)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
 * [2024-09-04, 13:45:06](https://news.ycombinator.com/item?id=41445803) - [Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
 * [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing Completeness to Build Tetris](https://github.com/nuno-faria/tetris-sql)
