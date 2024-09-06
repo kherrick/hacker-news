@@ -43,6 +43,7 @@
 * [2024-09-02, 16:56:33](https://news.ycombinator.com/item?id=41426982) - [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 * [2024-09-02, 16:49:50](https://news.ycombinator.com/item?id=41426926) - [America's Oldest Board Game Teaches 19th-Century Geography](https://mymodernmet.com/americas-oldest-board-game/)
 * [2024-09-02, 16:47:32](https://news.ycombinator.com/item?id=41426898) - [Understanding the Y Combinator](https://8dcc.github.io/programming/understanding-y-combinator.html)
+* [2024-09-02, 16:38:14](https://news.ycombinator.com/item?id=41426828) - [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
 * [2024-09-02, 16:23:19](https://news.ycombinator.com/item?id=41426714) - [In the Beginning, There Was Computation](https://nautil.us/in-the-beginning-there-was-computation-787023/)
 * [2024-09-02, 16:09:32](https://news.ycombinator.com/item?id=41426607) - [Authors Take Sides on the Spanish War: A Dossier (2014)](https://open.bu.edu/handle/2144/15314)
 * [2024-09-02, 16:03:50](https://news.ycombinator.com/item?id=41426574) - [Maryland Health Secretary halted ketogenic diet study for treating schizophrenia](https://twitter.com/ChrisPalmerMD/status/1807883172454998272)
