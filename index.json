@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-06, 18:41:06",
+      "https://news.ycombinator.com/item?id=41468667"
+    ],
+    [
+      "Godot founders had desperately hoped Unity wouldn't 'blow up'",
+      "https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 18:31:51",
       "https://news.ycombinator.com/item?id=41468594"
     ],
@@ -97,16 +107,6 @@
     [
       "What happens when you touch a pickle to an AM radio tower",
       "https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 01:00:06",
-      "https://news.ycombinator.com/item?id=41461850"
-    ],
-    [
-      "LwIP – Lightweight IP Stack",
-      "https://www.nongnu.org/lwip/2_1_x/index.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-09-02, 16:47:32",
-      "https://news.ycombinator.com/item?id=41426898"
+      "2024-09-03, 05:07:26",
+      "https://news.ycombinator.com/item?id=41431463"
     ],
     [
-      "Understanding the Y Combinator",
-      "https://8dcc.github.io/programming/understanding-y-combinator.html"
+      "Handling complexity without abstraction: Algebraic Bricklaying C",
+      "https://github.com/gritzko/librdx/blob/master/ABC.md"
     ]
   ],
   [
