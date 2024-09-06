@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 09:05:50](https://news.ycombinator.com/item?id=41464347) - [Study: Playing D&D helps autistic players in social interactions](https://arstechnica.com/science/2024/09/study-playing-dungeons-dragons-helps-autistic-players-in-social-interactions/)
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
 * [2024-09-06, 07:21:34](https://news.ycombinator.com/item?id=41463768) - [Oxford commercializes its 20% more powerful solar panels in the US](https://electrek.co/2024/09/05/oxford-commercializes-its-20-more-powerful-solar-panels-in-the-us/)
 * [2024-09-06, 07:16:38](https://news.ycombinator.com/item?id=41463734) - [Exercise has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
