@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-06, 04:39:15",
+      "https://news.ycombinator.com/item?id=41462926"
+    ],
+    [
+      "Moral Implications of Being Moderately Successful Computer Scientist and a Woman",
+      "https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 03:22:21",
       "https://news.ycombinator.com/item?id=41462603"
     ],
     [
-      "I Use Nim Instead of Python for Data Processing",
+      "I use Nim instead of Python for data processing (2021)",
       "https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 03:16:20",
+      "https://news.ycombinator.com/item?id=41462574"
+    ],
+    [
+      "What happens when you touch a pickle to an AM radio tower",
+      "https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower"
     ]
   ],
   [
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=41462494"
     ],
     [
-      "Frustrating Interactions with the OCaml Ecosystem",
+      "Frustrations with the OCaml ecosystem while developing a synthesizer library",
       "https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 01:39:26",
-      "https://news.ycombinator.com/item?id=41462070"
-    ],
-    [
-      "Swiss watchmakers put employees on state-funded leave as luxury demand disappear",
-      "https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-09-05, 18:43:18",
-      "https://news.ycombinator.com/item?id=41459365"
-    ],
-    [
-      "My job is to watch dreams die (2011)",
-      "https://old.reddit.com/r/reddit.com/comments/k3zrz/by_request_from_the_jobs_thread_why_my_job_is_to/"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 17:55:59",
       "https://news.ycombinator.com/item?id=41458987"
     ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41458508"
     ],
     [
-      "Deploying Rust in Existing Firmware Codebases",
+      "Deploying rust in existing firmware codebases",
       "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=41433579"
     ],
     [
-      "The Origins of the Steam Engine",
+      "The origins of the steam engine (2023)",
       "https://blog.rootsofprogress.org/steam-engine-origins"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=41425307"
     ],
     [
-      "He Emptied an Entire Crypto Exchange onto a Thumb Drive. Then He Disappeared",
+      "He emptied an entire crypto exchange onto a thumb drive",
       "https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=41424531"
     ],
     [
-      "The Work You Do, the Person You Are (2017)",
+      "The work you do, the person you are (2017)",
       "https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are"
     ]
   ],
