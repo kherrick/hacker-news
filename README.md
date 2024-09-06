@@ -3,7 +3,6 @@
 * [2024-09-06, 15:17:02](https://news.ycombinator.com/item?id=41466963) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 * [2024-09-06, 15:03:34](https://news.ycombinator.com/item?id=41466853) - [Europe Surpasses 900,000 Public EV Charge Points](https://evmarketsreports.com/europe-surpasses-900-000-public-ev-charge-points/)
 * [2024-09-06, 14:48:00](https://news.ycombinator.com/item?id=41466724) - [Parkinson's may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
-* [2024-09-06, 14:44:35](https://news.ycombinator.com/item?id=41466702) - [The fight between Prospero and Honduras](https://twitter.com/GarrisonLovely/status/1831104024612896795)
 * [2024-09-06, 14:41:19](https://news.ycombinator.com/item?id=41466667) - [Linux man-pages project maintenance](https://lwn.net/ml/all/4d7tq6a7febsoru3wjium4ekttuw2ouocv6jstdkthnacmzr6x@f2zfbe5hs7h5/)
 * [2024-09-06, 13:12:08](https://news.ycombinator.com/item?id=41465870) - [Nntpit: Minimalist Reddit2nntp Gateway](https://github.com/taviso/nntpit)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
@@ -30,6 +29,7 @@
 * [2024-09-02, 16:47:32](https://news.ycombinator.com/item?id=41426898) - [Understanding the Y Combinator](https://8dcc.github.io/programming/understanding-y-combinator.html)
 * [2024-09-02, 16:38:14](https://news.ycombinator.com/item?id=41426828) - [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
 * [2024-09-02, 11:36:45](https://news.ycombinator.com/item?id=41424533) - [Hawking Archive made available to historians and researchers](https://www.cam.ac.uk/stories/hawking-archive-for-all)
+* [2024-09-02, 11:36:24](https://news.ycombinator.com/item?id=41424531) - [The work you do, the person you are (2017)](https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are)
 
 ## [Archives](archives/index.md)
 
