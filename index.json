@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-09-06, 16:23:18",
+      "https://news.ycombinator.com/item?id=41467522"
+    ],
+    [
+      "Cough or sneeze? How the brain knows what to unleash",
+      "https://www.nature.com/articles/d41586-024-02858-9"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 13:15:35",
       "https://news.ycombinator.com/item?id=41465900"
     ],
@@ -37,56 +47,6 @@
     [
       "Show HN: Wealthfolio: Private, open-source investment tracker",
       "https://wealthfolio.app"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 11:21:57",
-      "https://news.ycombinator.com/item?id=41465081"
-    ],
-    [
-      "Effects of Gen AI on High Skilled Work: Experiments with Software Developers",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 10:20:10",
-      "https://news.ycombinator.com/item?id=41464705"
-    ],
-    [
-      "SAMA – open-source Chat server",
-      "https://github.com/SAMA-Communications"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 09:58:33",
-      "https://news.ycombinator.com/item?id=41464585"
-    ],
-    [
-      "RGCosm – Reverse Geocode for OpenStreetMap",
-      "https://github.com/punnerud/rgcosm"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 09:05:50",
-      "https://news.ycombinator.com/item?id=41464347"
-    ],
-    [
-      "Study: Playing D&D helps autistic players in social interactions",
-      "https://arstechnica.com/science/2024/09/study-playing-dungeons-dragons-helps-autistic-players-in-social-interactions/"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 09:03:50",
-      "https://news.ycombinator.com/item?id=41464334"
-    ],
-    [
-      "Intent to unship: HTTP/2 Push",
-      "https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ"
     ]
   ],
   [
@@ -141,32 +101,62 @@
   ],
   [
     [
-      "2024-09-05, 17:55:59",
-      "https://news.ycombinator.com/item?id=41458987"
+      "2024-09-05, 18:44:01",
+      "https://news.ycombinator.com/item?id=41459373"
     ],
     [
-      "UE5 Nanite in WebGPU",
-      "https://github.com/Scthe/nanite-webgpu"
+      "Understanding the Layout Process in Qt Widgets",
+      "https://felipefarinon.com/articles/qt-widgets-layout/"
     ]
   ],
   [
     [
-      "2024-09-05, 05:13:41",
-      "https://news.ycombinator.com/item?id=41453713"
+      "2024-09-05, 17:03:04",
+      "https://news.ycombinator.com/item?id=41458512"
     ],
     [
-      "Beaker Browser and the Dat Protocol",
-      "https://bernsteinbear.com/dat-paper/"
+      "Debugging a memory leak in a Clojure service",
+      "https://charanvasu.com/posts/debugging-a-memory-leak-in-a-clojure-service/"
     ]
   ],
   [
     [
-      "2024-09-04, 19:23:39",
-      "https://news.ycombinator.com/item?id=41449609"
+      "2024-09-05, 13:51:22",
+      "https://news.ycombinator.com/item?id=41456635"
     ],
     [
-      "The Race for Lambeth Palace",
-      "https://www.newstatesman.com/politics/religion/2024/09/race-lambeth-palace-archbishop-of-canterbury-justin-welby"
+      "Minifying HTML for GPT-4o: Remove all the HTML tags",
+      "https://blancas.io/blog/html-minify-for-llm/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 09:23:05",
+      "https://news.ycombinator.com/item?id=41454961"
+    ],
+    [
+      "Five Geek Social Fallacies (2003)",
+      "https://plausiblydeniable.com/five-geek-social-fallacies/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 03:43:41",
+      "https://news.ycombinator.com/item?id=41453264"
+    ],
+    [
+      "Better Dotfiles",
+      "https://iamdan.me/better-dotfiles"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 21:18:13",
+      "https://news.ycombinator.com/item?id=41450948"
+    ],
+    [
+      "Snapshottable Stores",
+      "https://dl.acm.org/doi/10.1145/3674637"
     ]
   ],
   [
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2024-09-04, 13:58:06",
-      "https://news.ycombinator.com/item?id=41445931"
-    ],
-    [
-      "Show HN: Retronews – TUI for HN and Lobsters emulating classical Usenet readers",
-      "https://github.com/luke8086/retronews"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 13:45:06",
       "https://news.ycombinator.com/item?id=41445803"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-09-04, 11:52:41",
+      "https://news.ycombinator.com/item?id=41444590"
+    ],
+    [
+      "How does cosine similarity work?",
+      "https://tomhazledine.com/cosine-similarity/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 08:58:00",
       "https://news.ycombinator.com/item?id=41443414"
     ],
@@ -247,6 +237,16 @@
     [
       "LSP: The Good, the Bad, and the Ugly",
       "https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 16:50:26",
+      "https://news.ycombinator.com/item?id=41436734"
+    ],
+    [
+      "Oya, I've heard of mega-ROMs",
+      "https://www.leadedsolder.com/2024/09/03/msx-megarom-oyanami.html"
     ]
   ],
   [
