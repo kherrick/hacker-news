@@ -93,6 +93,7 @@
 * [2024-09-03, 06:05:25](https://news.ycombinator.com/item?id=41431760) - [From Plato to Pixels](https://www.incomparable.studio/blog/plato-to-pixels)
 * [2024-09-03, 06:05:14](https://news.ycombinator.com/item?id=41431758) - [Extremist settlers rapidly seizing West Bank land](https://www.bbc.com/news/articles/c207j6wy332o)
 * [2024-09-03, 05:26:08](https://news.ycombinator.com/item?id=41431560) - [Smaller, Weaker, yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/abs/2408.16737)
+* [2024-09-03, 05:07:26](https://news.ycombinator.com/item?id=41431463) - [Handling complexity without abstraction: Algebraic Bricklaying C](https://github.com/gritzko/librdx/blob/master/ABC.md)
 * [2024-09-03, 04:41:46](https://news.ycombinator.com/item?id=41431332) - [Canva Hikes Pices by 300pc as It Readies for IPO](https://ia.acs.org.au/article/2024/canva-hikes-prices-by-300pc-as-it-readies-for-ipo.html)
 * [2024-09-03, 04:41:10](https://news.ycombinator.com/item?id=41431328) - [Posting a 5x5 crossword every day](https://www.crucig.com)
 * [2024-09-03, 04:33:36](https://news.ycombinator.com/item?id=41431293) - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)

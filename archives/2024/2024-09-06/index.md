@@ -25,6 +25,7 @@
 * [2024-09-06, 11:16:33](https://news.ycombinator.com/item?id=41465044) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)
 * [2024-09-06, 11:06:38](https://news.ycombinator.com/item?id=41464994) - [C2y Proposal: Essential Effects for C](https://www9.open-std.org/JTC1/SC22/WG14/www/docs/n3317.htm)
 * [2024-09-06, 11:04:23](https://news.ycombinator.com/item?id=41464982) - [Voters' Yearning for a Dictator Is a Danger to the Country](https://reason.com/2024/09/06/voters-yearning-for-a-dictator-is-a-danger-to-the-country/)
+* [2024-09-06, 10:54:15](https://news.ycombinator.com/item?id=41464913) - [Show HN: High-performance Location tracking server built with PHP, Swoole](https://github.com/LAGGOUNE-Walid/geopulse)
 * [2024-09-06, 10:37:05](https://news.ycombinator.com/item?id=41464808) - [Advanced Programming in the Unix Environment](https://stevens.netmeister.org/631/)
 * [2024-09-06, 10:20:10](https://news.ycombinator.com/item?id=41464705) - [SAMA – open-source Chat server](https://github.com/SAMA-Communications)
 * [2024-09-06, 09:58:33](https://news.ycombinator.com/item?id=41464585) - [RGCosm – Reverse Geocode for OpenStreetMap](https://github.com/punnerud/rgcosm)
