@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 18:58:20](https://news.ycombinator.com/item?id=41468794) - [Tesla launches first all-electric 'Giga Train' – and it's free to ride](https://www.yahoo.com/tech/tesla-launches-worlds-first-electric-111535136.html)
 * [2024-09-06, 18:41:06](https://news.ycombinator.com/item?id=41468667) - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
 * [2024-09-06, 18:31:51](https://news.ycombinator.com/item?id=41468594) - [Meta will let third-party apps place calls to WhatsApp and Messenger users](https://techcrunch.com/2024/09/06/meta-will-let-third-party-apps-place-calls-to-whatsapp-and-messenger-users-in-2027/)
 * [2024-09-06, 17:00:20](https://news.ycombinator.com/item?id=41467816) - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
@@ -15,7 +16,6 @@
 * [2024-09-05, 18:44:01](https://news.ycombinator.com/item?id=41459373) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-05, 17:03:04](https://news.ycombinator.com/item?id=41458512) - [Debugging a memory leak in a Clojure service](https://charanvasu.com/posts/debugging-a-memory-leak-in-a-clojure-service/)
 * [2024-09-05, 13:51:22](https://news.ycombinator.com/item?id=41456635) - [Minifying HTML for GPT-4o: Remove all the HTML tags](https://blancas.io/blog/html-minify-for-llm/)
-* [2024-09-05, 09:23:05](https://news.ycombinator.com/item?id=41454961) - [Five Geek Social Fallacies (2003)](https://plausiblydeniable.com/five-geek-social-fallacies/)
 * [2024-09-05, 03:43:41](https://news.ycombinator.com/item?id=41453264) - [Better Dotfiles](https://iamdan.me/better-dotfiles)
 * [2024-09-04, 17:34:55](https://news.ycombinator.com/item?id=41448347) - [Decommissioning my first commercial product](https://binarysolo.blog/decommissioning-my-first-commercial-product/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
