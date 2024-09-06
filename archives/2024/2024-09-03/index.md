@@ -50,6 +50,7 @@
 * [2024-09-03, 15:02:06](https://news.ycombinator.com/item?id=41435630) - [Rust All Hands 2025](https://blog.rust-lang.org/inside-rust/2024/09/02/all-hands.html)
 * [2024-09-03, 14:51:40](https://news.ycombinator.com/item?id=41435526) - [No screens before age of two, Swedish health authority tells parents](https://www.theguardian.com/world/article/2024/sep/02/no-screens-before-age-of-two-swedish-health-authority-tells-parents)
 * [2024-09-03, 14:51:17](https://news.ycombinator.com/item?id=41435521) - [How to Take Home \"Garbage Bags Full of $20s\"](https://www.hollywoodreporter.com/tv/tv-news/stars-getting-rich-fan-conventions-933062/)
+* [2024-09-03, 14:43:01](https://news.ycombinator.com/item?id=41435444) - [Name in Landsat](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 * [2024-09-03, 14:38:01](https://news.ycombinator.com/item?id=41435409) - [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
 * [2024-09-03, 14:37:01](https://news.ycombinator.com/item?id=41435398) - [Mobile phones not linked to brain cancer, biggest study to date finds](https://www.theguardian.com/science/article/2024/sep/04/mobile-phones-not-linked-to-brain-cancer-biggest-study-to-date-finds)
 * [2024-09-03, 14:05:13](https://news.ycombinator.com/item?id=41435093) - [Transparency is often lacking in datasets used to train large language models](https://news.mit.edu/2024/study-large-language-models-datasets-lack-transparency-0830)
