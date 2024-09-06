@@ -2,9 +2,9 @@
 
 * [2024-09-06, 01:39:26](https://news.ycombinator.com/item?id=41462070) - [Swiss watchmakers put employees on state-funded leave as luxury demand disappear](https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/)
 * [2024-09-06, 01:00:06](https://news.ycombinator.com/item?id=41461850) - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
-* [2024-09-06, 00:41:36](https://news.ycombinator.com/item?id=41461747) - [Why Don't Tech Companies Pay Their Engineers to Stay?](https://www.goethena.com/post/why-dont-tech-companies-pay-engineers-more-to-stay/)
 * [2024-09-06, 00:09:06](https://news.ycombinator.com/item?id=41461573) - [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)
 * [2024-09-05, 23:59:02](https://news.ycombinator.com/item?id=41461499) - [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
+* [2024-09-05, 20:47:29](https://news.ycombinator.com/item?id=41460276) - [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
 * [2024-09-05, 20:15:43](https://news.ycombinator.com/item?id=41460061) - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
 * [2024-09-05, 20:12:52](https://news.ycombinator.com/item?id=41460037) - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
 * [2024-09-05, 19:48:22](https://news.ycombinator.com/item?id=41459865) - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
@@ -26,10 +26,10 @@
 * [2024-09-04, 01:00:56](https://news.ycombinator.com/item?id=41440855) - [Why I self host my servers and what I've recently learned](https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/)
 * [2024-09-03, 11:03:40](https://news.ycombinator.com/item?id=41433579) - [The Origins of the Steam Engine](https://blog.rootsofprogress.org/steam-engine-origins)
 * [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
+* [2024-09-02, 13:40:34](https://news.ycombinator.com/item?id=41425307) - [He Emptied an Entire Crypto Exchange onto a Thumb Drive. Then He Disappeared](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)
 * [2024-09-02, 12:17:14](https://news.ycombinator.com/item?id=41424818) - [Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
 * [2024-09-02, 11:36:24](https://news.ycombinator.com/item?id=41424531) - [The Work You Do, the Person You Are (2017)](https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are)
 * [2024-09-02, 07:36:36](https://news.ycombinator.com/item?id=41423385) - [People can read their manager's mind](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
-* [2024-09-01, 22:03:03](https://news.ycombinator.com/item?id=41420783) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 
 ## [Archives](archives/index.md)
 
