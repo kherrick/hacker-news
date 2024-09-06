@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 02:55:45](https://news.ycombinator.com/item?id=41462494) - [Frustrating Interactions with the OCaml Ecosystem](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
 * [2024-09-06, 01:39:26](https://news.ycombinator.com/item?id=41462070) - [Swiss watchmakers put employees on state-funded leave as luxury demand disappear](https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/)
 * [2024-09-06, 01:00:06](https://news.ycombinator.com/item?id=41461850) - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
 * [2024-09-06, 00:09:06](https://news.ycombinator.com/item?id=41461573) - [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)
@@ -27,9 +28,8 @@
 * [2024-09-03, 11:03:40](https://news.ycombinator.com/item?id=41433579) - [The Origins of the Steam Engine](https://blog.rootsofprogress.org/steam-engine-origins)
 * [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
 * [2024-09-02, 13:40:34](https://news.ycombinator.com/item?id=41425307) - [He Emptied an Entire Crypto Exchange onto a Thumb Drive. Then He Disappeared](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)
-* [2024-09-02, 12:17:14](https://news.ycombinator.com/item?id=41424818) - [Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
 * [2024-09-02, 11:36:24](https://news.ycombinator.com/item?id=41424531) - [The Work You Do, the Person You Are (2017)](https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are)
-* [2024-09-02, 07:36:36](https://news.ycombinator.com/item?id=41423385) - [People can read their manager's mind](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
+* [2024-09-02, 07:36:36](https://news.ycombinator.com/item?id=41423385) - [People can read their manager's mind (2015)](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
 
 ## [Archives](archives/index.md)
 
