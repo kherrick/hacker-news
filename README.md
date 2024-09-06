@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 22:16:42](https://news.ycombinator.com/item?id=41470112) - [PwC tells UK staff it will monitor office attendance using location data](https://www.ft.com/content/11ccedba-f120-4dd2-a98f-19e8b59d7764)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-* [2024-09-06, 18:41:06](https://news.ycombinator.com/item?id=41468667) - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
 * [2024-09-06, 18:16:57](https://news.ycombinator.com/item?id=41468486) - [Why Login Security Sucks](https://matduggan.com/why-login-security-sucks/)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
 * [2024-09-06, 16:23:18](https://news.ycombinator.com/item?id=41467522) - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
