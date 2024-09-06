@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-06, 21:02:21",
+      "https://news.ycombinator.com/item?id=41469704"
+    ],
+    [
+      "Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)",
+      "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 19:33:04",
       "https://news.ycombinator.com/item?id=41469040"
     ],
@@ -17,16 +27,6 @@
     [
       "Godot founders had desperately hoped Unity wouldn't 'blow up'",
       "https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 17:00:20",
-      "https://news.ycombinator.com/item?id=41467816"
-    ],
-    [
-      "Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer",
-      "https://www.nango.dev/jobs"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-09-06, 01:00:06",
+      "https://news.ycombinator.com/item?id=41461850"
+    ],
+    [
+      "LwIP – Lightweight IP Stack",
+      "https://www.nongnu.org/lwip/2_1_x/index.html"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 23:37:21",
       "https://news.ycombinator.com/item?id=41461373"
     ],
@@ -157,6 +167,16 @@
     [
       "Minifying HTML for GPT-4o: Remove all the HTML tags",
       "https://blancas.io/blog/html-minify-for-llm/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 05:35:28",
+      "https://news.ycombinator.com/item?id=41453829"
+    ],
+    [
+      "The Haunted Wood: A History of Childhood Reading",
+      "https://literaryreview.co.uk/oh-the-places-youll-go"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Handling complexity without abstraction: Algebraic Bricklaying C",
       "https://github.com/gritzko/librdx/blob/master/ABC.md"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 16:38:14",
-      "https://news.ycombinator.com/item?id=41426828"
-    ],
-    [
-      "Achieving high Python performance with code generation (2022)",
-      "https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 11:36:45",
-      "https://news.ycombinator.com/item?id=41424533"
-    ],
-    [
-      "Hawking Archive made available to historians and researchers",
-      "https://www.cam.ac.uk/stories/hawking-archive-for-all"
     ]
   ]
 ]
