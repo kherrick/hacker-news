@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-06, 22:26:03](https://news.ycombinator.com/item?id=41470164) - [Dell and Palantir to join S&P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
+* [2024-09-06, 22:22:12](https://news.ycombinator.com/item?id=41470139) - [Stranded astronauts' capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-* [2024-09-06, 18:41:06](https://news.ycombinator.com/item?id=41468667) - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
 * [2024-09-06, 18:16:57](https://news.ycombinator.com/item?id=41468486) - [Why Login Security Sucks](https://matduggan.com/why-login-security-sucks/)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
 * [2024-09-06, 16:23:18](https://news.ycombinator.com/item?id=41467522) - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)

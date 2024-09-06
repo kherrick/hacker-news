@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
 * [2024-09-06, 22:26:03](https://news.ycombinator.com/item?id=41470164) - [Dell and Palantir to join S&P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
+* [2024-09-06, 22:22:12](https://news.ycombinator.com/item?id=41470139) - [Stranded astronauts' capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
 * [2024-09-06, 22:16:42](https://news.ycombinator.com/item?id=41470112) - [PwC tells UK staff it will monitor office attendance using location data](https://www.ft.com/content/11ccedba-f120-4dd2-a98f-19e8b59d7764)
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
