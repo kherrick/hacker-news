@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 06:08:13](https://news.ycombinator.com/item?id=41463330) - [Steve Ballmer Was Wrong](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
 * [2024-09-06, 04:39:15](https://news.ycombinator.com/item?id=41462926) - [Moral implications of being moderately successful computer scientist and a woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-09-06, 03:22:21](https://news.ycombinator.com/item?id=41462603) - [I use Nim instead of Python for data processing (2021)](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
 * [2024-09-06, 03:16:20](https://news.ycombinator.com/item?id=41462574) - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
@@ -7,7 +8,7 @@
 * [2024-09-06, 01:00:06](https://news.ycombinator.com/item?id=41461850) - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
 * [2024-09-06, 00:41:36](https://news.ycombinator.com/item?id=41461747) - [Why Don't Tech Companies Pay Their Engineers to Stay?](https://www.goethena.com/post/why-dont-tech-companies-pay-engineers-more-to-stay/)
 * [2024-09-05, 23:59:02](https://news.ycombinator.com/item?id=41461499) - [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
-* [2024-09-05, 20:15:43](https://news.ycombinator.com/item?id=41460061) - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
+* [2024-09-05, 22:32:43](https://news.ycombinator.com/item?id=41460944) - [Cron Jobs on Linux – Comprehensive Guide with Examples](https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/)
 * [2024-09-05, 20:12:52](https://news.ycombinator.com/item?id=41460037) - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
 * [2024-09-05, 19:48:22](https://news.ycombinator.com/item?id=41459865) - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
 * [2024-09-05, 17:55:59](https://news.ycombinator.com/item?id=41458987) - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
@@ -25,7 +26,6 @@
 * [2024-09-05, 11:55:48](https://news.ycombinator.com/item?id=41455719) - [Show HN: Node.js ORM to query SQL database through an array-like API](https://github.com/tilyupo/qustar)
 * [2024-09-04, 13:58:06](https://news.ycombinator.com/item?id=41445931) - [Show HN: Retronews – TUI for HN and Lobsters emulating classical Usenet readers](https://github.com/luke8086/retronews)
 * [2024-09-03, 11:03:40](https://news.ycombinator.com/item?id=41433579) - [The origins of the steam engine (2023)](https://blog.rootsofprogress.org/steam-engine-origins)
-* [2024-09-03, 07:19:26](https://news.ycombinator.com/item?id=41432197) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 * [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
 * [2024-09-02, 13:40:34](https://news.ycombinator.com/item?id=41425307) - [He emptied an entire crypto exchange onto a thumb drive](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)
 * [2024-09-02, 11:36:24](https://news.ycombinator.com/item?id=41424531) - [The work you do, the person you are (2017)](https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are)

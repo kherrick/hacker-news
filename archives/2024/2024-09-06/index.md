@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 06:08:13](https://news.ycombinator.com/item?id=41463330) - [Steve Ballmer Was Wrong](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
 * [2024-09-06, 04:39:15](https://news.ycombinator.com/item?id=41462926) - [Moral Implications of Being Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-09-06, 03:22:21](https://news.ycombinator.com/item?id=41462603) - [I Use Nim Instead of Python for Data Processing](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
 * [2024-09-06, 03:16:20](https://news.ycombinator.com/item?id=41462574) - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
