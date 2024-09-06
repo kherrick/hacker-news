@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 09:57:27](https://news.ycombinator.com/item?id=41464578) - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth?](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
+* [2024-09-06, 09:10:49](https://news.ycombinator.com/item?id=41464371) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 * [2024-09-06, 09:05:50](https://news.ycombinator.com/item?id=41464347) - [Study: Playing D&D helps autistic players in social interactions](https://arstechnica.com/science/2024/09/study-playing-dungeons-dragons-helps-autistic-players-in-social-interactions/)
 * [2024-09-06, 09:03:50](https://news.ycombinator.com/item?id=41464334) - [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
@@ -8,7 +10,6 @@
 * [2024-09-06, 07:07:11](https://news.ycombinator.com/item?id=41463660) - [Mozilla introduces updates to tab management in Firefox](https://support.mozilla.org/en-US/kb/tabs-organize-websites-single-window)
 * [2024-09-06, 06:08:13](https://news.ycombinator.com/item?id=41463330) - [The expected value of the game is positive regardless of Ballmer’s strategy](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
 * [2024-09-06, 03:16:20](https://news.ycombinator.com/item?id=41462574) - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
-* [2024-09-06, 02:55:45](https://news.ycombinator.com/item?id=41462494) - [Frustrations with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
 * [2024-09-06, 01:00:06](https://news.ycombinator.com/item?id=41461850) - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
 * [2024-09-05, 22:32:43](https://news.ycombinator.com/item?id=41460944) - [Cron Jobs on Linux – Comprehensive Guide with Examples](https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/)
 * [2024-09-05, 20:12:52](https://news.ycombinator.com/item?id=41460037) - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
@@ -25,7 +26,6 @@
 * [2024-09-05, 13:42:43](https://news.ycombinator.com/item?id=41456552) - [Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform](https://news.ycombinator.com/item?id=41456552)
 * [2024-09-04, 13:58:06](https://news.ycombinator.com/item?id=41445931) - [Show HN: Retronews – TUI for HN and Lobsters emulating classical Usenet readers](https://github.com/luke8086/retronews)
 * [2024-09-03, 11:03:40](https://news.ycombinator.com/item?id=41433579) - [The origins of the steam engine (2023)](https://blog.rootsofprogress.org/steam-engine-origins)
-* [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
 * [2024-09-02, 19:46:02](https://news.ycombinator.com/item?id=41428245) - [Summing Blue Noise Octaves Like Perlin Noise](https://blog.demofox.org/2024/09/02/summing-blue-noise-octaves-like-perlin-noise/)
 * [2024-09-02, 19:24:58](https://news.ycombinator.com/item?id=41428118) - [Ask HN: Resources for GPU Compilers?](https://news.ycombinator.com/item?id=41428118)
 * [2024-09-02, 16:47:32](https://news.ycombinator.com/item?id=41426898) - [Understanding the Y Combinator](https://8dcc.github.io/programming/understanding-y-combinator.html)
