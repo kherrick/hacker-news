@@ -26,8 +26,8 @@
 * [2024-09-05, 11:55:48](https://news.ycombinator.com/item?id=41455719) - [Show HN: Node.js ORM to query SQL database through an array-like API](https://github.com/tilyupo/qustar)
 * [2024-09-04, 13:58:06](https://news.ycombinator.com/item?id=41445931) - [Show HN: Retronews – TUI for HN and Lobsters emulating classical Usenet readers](https://github.com/luke8086/retronews)
 * [2024-09-03, 11:03:40](https://news.ycombinator.com/item?id=41433579) - [The origins of the steam engine (2023)](https://blog.rootsofprogress.org/steam-engine-origins)
+* [2024-09-03, 07:19:26](https://news.ycombinator.com/item?id=41432197) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 * [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
-* [2024-09-02, 13:40:34](https://news.ycombinator.com/item?id=41425307) - [He emptied an entire crypto exchange onto a thumb drive](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)
 * [2024-09-02, 11:36:24](https://news.ycombinator.com/item?id=41424531) - [The work you do, the person you are (2017)](https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are)
 * [2024-09-02, 07:36:36](https://news.ycombinator.com/item?id=41423385) - [People can read their manager's mind (2015)](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
 
