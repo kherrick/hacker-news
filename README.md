@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 13:12:25](https://news.ycombinator.com/item?id=41465874) - [Causing environmental damage should be a criminal offence](https://earth4all.life/news/causing-environmental-damage-should-be-a-criminal-offence-say-72-of-people-in-g20-countries-surveyed/)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
 * [2024-09-06, 12:00:25](https://news.ycombinator.com/item?id=41465357) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-06, 11:06:38](https://news.ycombinator.com/item?id=41464994) - [C2y Proposal: Essential Effects for C](https://www9.open-std.org/JTC1/SC22/WG14/www/docs/n3317.htm)
 * [2024-09-06, 10:37:05](https://news.ycombinator.com/item?id=41464808) - [Advanced Programming in the Unix Environment](https://stevens.netmeister.org/631/)
 * [2024-09-06, 10:20:10](https://news.ycombinator.com/item?id=41464705) - [SAMA – open-source Chat server](https://github.com/SAMA-Communications)
 * [2024-09-06, 09:58:33](https://news.ycombinator.com/item?id=41464585) - [RGCosm – Reverse Geocode for OpenStreetMap](https://github.com/punnerud/rgcosm)
-* [2024-09-06, 09:57:27](https://news.ycombinator.com/item?id=41464578) - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth? (2012)](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
 * [2024-09-06, 09:54:49](https://news.ycombinator.com/item?id=41464566) - [Streaming every NFL game this season requires 7 different services, costs $2,500](https://www.marketwatch.com/story/want-to-watch-every-nfl-game-this-season-its-going-to-cost-you-nearly-2-500-31c4d300)
 * [2024-09-06, 09:05:50](https://news.ycombinator.com/item?id=41464347) - [Study: Playing D&D helps autistic players in social interactions](https://arstechnica.com/science/2024/09/study-playing-dungeons-dragons-helps-autistic-players-in-social-interactions/)
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 13:12:25](https://news.ycombinator.com/item?id=41465874) - [Causing environmental damage should be a criminal offence](https://earth4all.life/news/causing-environmental-damage-should-be-a-criminal-offence-say-72-of-people-in-g20-countries-surveyed/)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
 * [2024-09-06, 12:39:59](https://news.ycombinator.com/item?id=41465605) - [The Sun and other publications roll out \"Pay to Reject personalized ads\"](https://help.thesun.co.uk/article/the-sun-pay-to-reject-faqs)
 * [2024-09-06, 12:00:25](https://news.ycombinator.com/item?id=41465357) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
