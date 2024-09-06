@@ -2,9 +2,9 @@
 
 * [2024-09-06, 01:39:26](https://news.ycombinator.com/item?id=41462070) - [Swiss watchmakers put employees on state-funded leave as luxury demand disappear](https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/)
 * [2024-09-06, 01:00:06](https://news.ycombinator.com/item?id=41461850) - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
-* [2024-09-06, 00:41:36](https://news.ycombinator.com/item?id=41461747) - [Why Don't Tech Companies Pay Their Engineers to Stay?](https://www.goethena.com/post/why-dont-tech-companies-pay-engineers-more-to-stay/)
 * [2024-09-06, 00:09:06](https://news.ycombinator.com/item?id=41461573) - [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)
 * [2024-09-05, 23:59:02](https://news.ycombinator.com/item?id=41461499) - [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
+* [2024-09-05, 20:47:29](https://news.ycombinator.com/item?id=41460276) - [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
 * [2024-09-05, 20:15:43](https://news.ycombinator.com/item?id=41460061) - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
 * [2024-09-05, 20:12:52](https://news.ycombinator.com/item?id=41460037) - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
 * [2024-09-05, 19:48:22](https://news.ycombinator.com/item?id=41459865) - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
