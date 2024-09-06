@@ -71,6 +71,7 @@
 * [2024-09-04, 12:44:16](https://news.ycombinator.com/item?id=41444978) - [Self-Driving Cars Get Help from Humans Miles Away](https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html)
 * [2024-09-04, 12:43:10](https://news.ycombinator.com/item?id=41444966) - [Admins wonder if the cloud was such a good idea after all](https://www.theregister.com/2024/09/04/cloud_buyers_regret/)
 * [2024-09-04, 12:42:20](https://news.ycombinator.com/item?id=41444961) - [Starlink U-turns, will block X in Brazil after all](https://www.theregister.com/2024/09/04/starlink_performs_a_180_and/)
+* [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing Completeness to Build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 12:10:37](https://news.ycombinator.com/item?id=41444724) - [A Logo on a Prosthesis Is Like a Tattoo You Didn't Ask For](https://www.theatlantic.com/health/archive/2024/08/prosthetic-limb-branding-bebionic/679461/)
 * [2024-09-04, 12:07:27](https://news.ycombinator.com/item?id=41444700) - [ReMarkable Paper Pro](https://remarkable.com/)
 * [2024-09-04, 12:00:43](https://news.ycombinator.com/item?id=41444649) - [PlayHT (YC W23) Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
