@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 22:26:03](https://news.ycombinator.com/item?id=41470164) - [Dell and Palantir to join S&P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
 * [2024-09-06, 22:16:42](https://news.ycombinator.com/item?id=41470112) - [PwC tells UK staff it will monitor office attendance using location data](https://www.ft.com/content/11ccedba-f120-4dd2-a98f-19e8b59d7764)
+* [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 19:33:04](https://news.ycombinator.com/item?id=41469040) - [PHP is the new JavaScript?](https://www.mux.com/blog/php-is-the-new-javascript)
 * [2024-09-06, 18:58:20](https://news.ycombinator.com/item?id=41468794) - [Tesla launches first all-electric 'Giga Train' – and it's free to ride](https://www.yahoo.com/tech/tesla-launches-worlds-first-electric-111535136.html)
