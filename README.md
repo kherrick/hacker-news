@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-06, 09:57:27](https://news.ycombinator.com/item?id=41464578) - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth?](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
+* [2024-09-06, 09:57:27](https://news.ycombinator.com/item?id=41464578) - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth? (2012)](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
 * [2024-09-06, 09:43:58](https://news.ycombinator.com/item?id=41464524) - [The Founder Mode Tradeoff – By Kent Beck](https://tidyfirst.substack.com/p/the-founder-mode-tradeoff)
 * [2024-09-06, 09:10:49](https://news.ycombinator.com/item?id=41464371) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 * [2024-09-06, 09:05:50](https://news.ycombinator.com/item?id=41464347) - [Study: Playing D&D helps autistic players in social interactions](https://arstechnica.com/science/2024/09/study-playing-dungeons-dragons-helps-autistic-players-in-social-interactions/)
