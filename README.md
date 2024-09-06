@@ -24,10 +24,10 @@
 * [2024-09-05, 14:14:23](https://news.ycombinator.com/item?id=41456838) - [Speeding up Electron apps by using V8 snapshots in the main process](https://github.com/RaisinTen/electron-snapshot-experiment)
 * [2024-09-05, 13:42:43](https://news.ycombinator.com/item?id=41456552) - [Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform](https://news.ycombinator.com/item?id=41456552)
 * [2024-09-04, 13:58:06](https://news.ycombinator.com/item?id=41445931) - [Show HN: Retronews – TUI for HN and Lobsters emulating classical Usenet readers](https://github.com/luke8086/retronews)
+* [2024-09-03, 17:33:18](https://news.ycombinator.com/item?id=41437175) - [DIY Geiger Counter and Tasmota ESP8266](https://github.com/arendst/Tasmota/discussions/18449)
 * [2024-09-03, 14:43:01](https://news.ycombinator.com/item?id=41435444) - [Name in Landsat](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 * [2024-09-03, 11:03:40](https://news.ycombinator.com/item?id=41433579) - [The origins of the steam engine (2023)](https://blog.rootsofprogress.org/steam-engine-origins)
 * [2024-09-02, 19:46:02](https://news.ycombinator.com/item?id=41428245) - [Summing Blue Noise Octaves Like Perlin Noise](https://blog.demofox.org/2024/09/02/summing-blue-noise-octaves-like-perlin-noise/)
-* [2024-09-02, 19:24:58](https://news.ycombinator.com/item?id=41428118) - [Ask HN: Resources for GPU Compilers?](https://news.ycombinator.com/item?id=41428118)
 * [2024-09-02, 16:47:32](https://news.ycombinator.com/item?id=41426898) - [Understanding the Y Combinator](https://8dcc.github.io/programming/understanding-y-combinator.html)
 * [2024-09-02, 11:36:24](https://news.ycombinator.com/item?id=41424531) - [The work you do, the person you are (2017)](https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are)
 
