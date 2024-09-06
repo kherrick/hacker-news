@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 13:12:08](https://news.ycombinator.com/item?id=41465870) - [Nntpit: Minimalist Reddit2nntp Gateway](https://github.com/taviso/nntpit)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
 * [2024-09-06, 12:00:25](https://news.ycombinator.com/item?id=41465357) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-06, 11:06:38](https://news.ycombinator.com/item?id=41464994) - [C2y Proposal: Essential Effects for C](https://www9.open-std.org/JTC1/SC22/WG14/www/docs/n3317.htm)
@@ -8,7 +9,6 @@
 * [2024-09-06, 09:58:33](https://news.ycombinator.com/item?id=41464585) - [RGCosm – Reverse Geocode for OpenStreetMap](https://github.com/punnerud/rgcosm)
 * [2024-09-06, 09:54:49](https://news.ycombinator.com/item?id=41464566) - [Streaming every NFL game this season requires 7 different services, costs $2,500](https://www.marketwatch.com/story/want-to-watch-every-nfl-game-this-season-its-going-to-cost-you-nearly-2-500-31c4d300)
 * [2024-09-06, 09:05:50](https://news.ycombinator.com/item?id=41464347) - [Study: Playing D&D helps autistic players in social interactions](https://arstechnica.com/science/2024/09/study-playing-dungeons-dragons-helps-autistic-players-in-social-interactions/)
-* [2024-09-06, 09:02:00](https://news.ycombinator.com/item?id=41464321) - [\"it's nothing to do with solder. it's capacitors\"](https://chaos.social/@gsuberland/113084315488845513)
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
 * [2024-09-06, 03:16:20](https://news.ycombinator.com/item?id=41462574) - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
 * [2024-09-06, 01:00:06](https://news.ycombinator.com/item?id=41461850) - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
