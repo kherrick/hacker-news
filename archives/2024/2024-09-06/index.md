@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 17:00:20](https://news.ycombinator.com/item?id=41467816) - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
 * [2024-09-06, 15:17:02](https://news.ycombinator.com/item?id=41466963) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 * [2024-09-06, 15:03:34](https://news.ycombinator.com/item?id=41466853) - [Europe Surpasses 900,000 Public EV Charge Points](https://evmarketsreports.com/europe-surpasses-900-000-public-ev-charge-points/)
 * [2024-09-06, 14:48:00](https://news.ycombinator.com/item?id=41466724) - [Parkinson's may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)

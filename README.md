@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-06, 17:00:20](https://news.ycombinator.com/item?id=41467816) - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
 * [2024-09-06, 14:48:00](https://news.ycombinator.com/item?id=41466724) - [Parkinson's may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
-* [2024-09-06, 12:00:25](https://news.ycombinator.com/item?id=41465357) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [2024-09-06, 10:20:10](https://news.ycombinator.com/item?id=41464705) - [SAMA – open-source Chat server](https://github.com/SAMA-Communications)
 * [2024-09-06, 09:58:33](https://news.ycombinator.com/item?id=41464585) - [RGCosm – Reverse Geocode for OpenStreetMap](https://github.com/punnerud/rgcosm)
