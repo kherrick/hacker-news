@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 12:00:25](https://news.ycombinator.com/item?id=41465357) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-06, 11:16:33](https://news.ycombinator.com/item?id=41465044) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)
 * [2024-09-06, 11:04:23](https://news.ycombinator.com/item?id=41464982) - [Voters' Yearning for a Dictator Is a Danger to the Country](https://reason.com/2024/09/06/voters-yearning-for-a-dictator-is-a-danger-to-the-country/)
 * [2024-09-06, 09:57:27](https://news.ycombinator.com/item?id=41464578) - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth?](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)

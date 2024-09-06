@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-06, 11:16:33](https://news.ycombinator.com/item?id=41465044) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)
-* [2024-09-06, 11:04:23](https://news.ycombinator.com/item?id=41464982) - [Voters' Yearning for a Dictator Is a Danger to the Country](https://reason.com/2024/09/06/voters-yearning-for-a-dictator-is-a-danger-to-the-country/)
+* [2024-09-06, 12:00:25](https://news.ycombinator.com/item?id=41465357) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-06, 09:57:27](https://news.ycombinator.com/item?id=41464578) - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth? (2012)](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
 * [2024-09-06, 09:43:58](https://news.ycombinator.com/item?id=41464524) - [The Founder Mode Tradeoff – By Kent Beck](https://tidyfirst.substack.com/p/the-founder-mode-tradeoff)
 * [2024-09-06, 09:10:49](https://news.ycombinator.com/item?id=41464371) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
@@ -17,6 +16,7 @@
 * [2024-09-05, 19:48:22](https://news.ycombinator.com/item?id=41459865) - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
 * [2024-09-05, 17:55:59](https://news.ycombinator.com/item?id=41458987) - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
 * [2024-09-05, 17:02:40](https://news.ycombinator.com/item?id=41458508) - [Deploying rust in existing firmware codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
+* [2024-09-05, 16:55:25](https://news.ycombinator.com/item?id=41458439) - [The 'Freakish Radio Writings' of 1924](https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/)
 * [2024-09-05, 16:34:51](https://news.ycombinator.com/item?id=41458240) - [Serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 * [2024-09-05, 16:26:12](https://news.ycombinator.com/item?id=41458141) - [Show HN: We built a FOSS documentation CMS with a pretty GUI](https://kalmia.difuse.io/doc/)
 * [2024-09-05, 16:22:09](https://news.ycombinator.com/item?id=41458083) - [Phind-405B and faster, high quality AI answers for everyone](https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches)
