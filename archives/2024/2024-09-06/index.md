@@ -6,8 +6,10 @@
 
 * [2024-09-06, 22:26:03](https://news.ycombinator.com/item?id=41470164) - [Dell and Palantir to join S&P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
 * [2024-09-06, 22:22:12](https://news.ycombinator.com/item?id=41470139) - [Stranded astronauts' capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
+* [2024-09-06, 22:18:06](https://news.ycombinator.com/item?id=41470123) - [Leaked Disney+ financials may shed light on recent price hike](https://arstechnica.com/gadgets/2024/09/disney-made-2-4-billion-in-revenue-in-3-months-leak-claims/)
 * [2024-09-06, 22:16:42](https://news.ycombinator.com/item?id=41470112) - [PwC tells UK staff it will monitor office attendance using location data](https://www.ft.com/content/11ccedba-f120-4dd2-a98f-19e8b59d7764)
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
+* [2024-09-06, 21:04:31](https://news.ycombinator.com/item?id=41469714) - [How Local Governments Got Hooked on One Company's Janky Software](https://www.bloomberg.com/news/features/2024-09-05/tyler-tech-s-odyssey-software-took-over-local-government-and-courts)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 19:33:04](https://news.ycombinator.com/item?id=41469040) - [PHP is the new JavaScript?](https://www.mux.com/blog/php-is-the-new-javascript)
 * [2024-09-06, 18:58:20](https://news.ycombinator.com/item?id=41468794) - [Tesla launches first all-electric 'Giga Train' – and it's free to ride](https://www.yahoo.com/tech/tesla-launches-worlds-first-electric-111535136.html)

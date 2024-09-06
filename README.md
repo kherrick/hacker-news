@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-06, 22:26:03](https://news.ycombinator.com/item?id=41470164) - [Dell and Palantir to join S&P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
-* [2024-09-06, 22:22:12](https://news.ycombinator.com/item?id=41470139) - [Stranded astronauts' capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
+* [2024-09-06, 22:18:06](https://news.ycombinator.com/item?id=41470123) - [Leaked Disney+ financials may shed light on recent price hike](https://arstechnica.com/gadgets/2024/09/disney-made-2-4-billion-in-revenue-in-3-months-leak-claims/)
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
+* [2024-09-06, 21:04:31](https://news.ycombinator.com/item?id=41469714) - [How Local Governments Got Hooked on One Company's Janky Software](https://www.bloomberg.com/news/features/2024-09-05/tyler-tech-s-odyssey-software-took-over-local-government-and-courts)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 18:16:57](https://news.ycombinator.com/item?id=41468486) - [Why Login Security Sucks](https://matduggan.com/why-login-security-sucks/)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
@@ -17,7 +18,6 @@
 * [2024-09-05, 18:44:01](https://news.ycombinator.com/item?id=41459373) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-05, 17:03:04](https://news.ycombinator.com/item?id=41458512) - [Debugging a memory leak in a Clojure service](https://charanvasu.com/posts/debugging-a-memory-leak-in-a-clojure-service/)
 * [2024-09-05, 13:51:22](https://news.ycombinator.com/item?id=41456635) - [Minifying HTML for GPT-4o: Remove all the HTML tags](https://blancas.io/blog/html-minify-for-llm/)
-* [2024-09-05, 03:43:41](https://news.ycombinator.com/item?id=41453264) - [Better Dotfiles](https://iamdan.me/better-dotfiles)
 * [2024-09-04, 17:34:55](https://news.ycombinator.com/item?id=41448347) - [Decommissioning my first commercial product](https://binarysolo.blog/decommissioning-my-first-commercial-product/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
 * [2024-09-04, 13:45:06](https://news.ycombinator.com/item?id=41445803) - [Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
