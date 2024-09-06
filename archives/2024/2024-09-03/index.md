@@ -69,6 +69,7 @@
 * [2024-09-03, 12:23:20](https://news.ycombinator.com/item?id=41434252) - [New forms of steel for stronger, lighter cars](https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars)
 * [2024-09-03, 12:12:58](https://news.ycombinator.com/item?id=41434157) - [A picture of the sun, taken with a neutrino detector, at night through the Earth](https://newhumanist.org.uk/articles/2402/the-sun-at-night)
 * [2024-09-03, 12:00:58](https://news.ycombinator.com/item?id=41434072) - [Mineflow (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
+* [2024-09-03, 11:59:56](https://news.ycombinator.com/item?id=41434062) - [Will open science change chemistry?](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article)
 * [2024-09-03, 11:14:33](https://news.ycombinator.com/item?id=41433673) - [Europeans fail to understand how much they were fucked by the 2008 crisis](https://twitter.com/RnaudBertrand/status/1830816765611590043)
 * [2024-09-03, 11:03:40](https://news.ycombinator.com/item?id=41433579) - [The Origins of the Steam Engine](https://blog.rootsofprogress.org/steam-engine-origins)
 * [2024-09-03, 10:24:23](https://news.ycombinator.com/item?id=41433331) - [Tell HN: GitHub locked me out for not using 2FA](https://news.ycombinator.com/item?id=41433331)

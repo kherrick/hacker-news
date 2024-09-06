@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 19:33:04](https://news.ycombinator.com/item?id=41469040) - [PHP is the new JavaScript?](https://www.mux.com/blog/php-is-the-new-javascript)
 * [2024-09-06, 18:58:20](https://news.ycombinator.com/item?id=41468794) - [Tesla launches first all-electric 'Giga Train' – and it's free to ride](https://www.yahoo.com/tech/tesla-launches-worlds-first-electric-111535136.html)
 * [2024-09-06, 18:41:06](https://news.ycombinator.com/item?id=41468667) - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
 * [2024-09-06, 18:31:51](https://news.ycombinator.com/item?id=41468594) - [Meta will let third-party apps place calls to WhatsApp and Messenger users](https://techcrunch.com/2024/09/06/meta-will-let-third-party-apps-place-calls-to-whatsapp-and-messenger-users-in-2027/)
