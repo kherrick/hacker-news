@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 12:39:59](https://news.ycombinator.com/item?id=41465605) - [The Sun and other publications roll out \"Pay to Reject personalized ads\"](https://help.thesun.co.uk/article/the-sun-pay-to-reject-faqs)
 * [2024-09-06, 12:00:25](https://news.ycombinator.com/item?id=41465357) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [2024-09-06, 11:16:33](https://news.ycombinator.com/item?id=41465044) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)
+* [2024-09-06, 11:06:38](https://news.ycombinator.com/item?id=41464994) - [C2y Proposal: Essential Effects for C](https://www9.open-std.org/JTC1/SC22/WG14/www/docs/n3317.htm)
 * [2024-09-06, 11:04:23](https://news.ycombinator.com/item?id=41464982) - [Voters' Yearning for a Dictator Is a Danger to the Country](https://reason.com/2024/09/06/voters-yearning-for-a-dictator-is-a-danger-to-the-country/)
 * [2024-09-06, 09:57:27](https://news.ycombinator.com/item?id=41464578) - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth?](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
 * [2024-09-06, 09:43:58](https://news.ycombinator.com/item?id=41464524) - [The Founder Mode Tradeoff – By Kent Beck](https://tidyfirst.substack.com/p/the-founder-mode-tradeoff)
