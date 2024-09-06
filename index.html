@@ -145,6 +145,108 @@
             </h4>
           </section>
         </section>
+        <section id="41467704">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41467704"
+              >Show HN: Infinity – Realistic AI characters that can speak</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-06 @ 16:47:04</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41467704"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://infinity.ai/">https://infinity.ai/</a>). My
+              co-founders and I have trained our own foundation video model
+              focused on people. As far as we know, this is the first time
+              someone has trained a video diffusion transformer that’s driven by
+              audio input. This is cool because it allows for expressive,
+              realistic-looking characters that actually speak. Here’s a blog
+              with a bunch of examples:
+              <a href="https://toinfinityai.github.io/v2-launch-page/"
+                >https://toinfinityai.github.io/v2-launch-page/</a
+              >
+              <p>
+                If you want to try it out, you can either (1) go to
+                <a href="https://studio.infinity.ai/try-inf2"
+                  >https://studio.infinity.ai/try-inf2</a
+                >, or (2) post a comment in this thread describing a character
+                and we’ll generate a video for you and reply with a link. For
+                example: “Mona Lisa saying ‘what the heck are you smiling at?’”:
+                <a href="https://bit.ly/3z8l1TM">https://bit.ly/3z8l1TM</a> “A
+                3D pixar-style gnome with a pointy red hat reciting the
+                Declaration of Independence”:
+                <a href="https://bit.ly/3XzpTdS">https://bit.ly/3XzpTdS</a>
+                “Elon Musk singing Fly Me To The Moon by Sinatra”:
+                <a href="https://bit.ly/47jyC7C">https://bit.ly/47jyC7C</a>
+              </p>
+              <p>
+                Our tool at Infinity allows creators to type out a script with
+                what they want their characters to say (and eventually, what
+                they want their characters to do) and get a video out. We’ve
+                trained for about 11 GPU years (~$500k) so far and our model
+                recently started getting good results, so we wanted to share it
+                here. We are still actively training.
+              </p>
+              <p>
+                We had trouble creating videos of good characters with existing
+                AI tools. Generative AI video models (like Runway and Luma)
+                don’t allow characters to speak. And talking avatar companies
+                (like HeyGen and Synthesia) just do lip syncing on top of the
+                previously recorded videos. This means you often get facial
+                expressions and gestures that don’t make sense with the audio,
+                resulting in the “uncanny” look you can’t quite put your finger
+                on. See blog.
+              </p>
+              <p>
+                When we started Infinity, our V1 model took the lip syncing
+                approach. In addition to mismatched gestures, this method had
+                many limitations, including a finite library of actors (we had
+                to fine-tune a model for each one with existing video footage)
+                and an inability to animate imaginary characters.
+              </p>
+              <p>
+                To address these limitations in V2, we decided to train an
+                end-to-end video diffusion transformer model that takes in a
+                single image, audio, and other conditioning signals and outputs
+                video. We believe this end-to-end approach is the best way to
+                capture the full complexity and nuances of human motion and
+                emotion. One drawback of our approach is that the model is slow
+                despite using rectified flow (2-4x speed up) and a 3D VAE
+                embedding layer (2-5x speed up).
+              </p>
+              <p>
+                Here are a few things the model does surprisingly well on: (1)
+                it can handle multiple languages, (2) it has learned some
+                physics (e.g. it generates earrings that dangle properly and
+                infers a matching pair on the other ear), (3) it can animate
+                diverse types of images (paintings, sculptures, etc) despite not
+                being trained on those, and (4) it can handle singing. See blog.
+              </p>
+              <p>
+                Here are some failure modes of the model: (1) it cannot handle
+                animals (only humanoid images), (2) it often inserts hands into
+                the frame (very annoying and distracting), (3) it’s not robust
+                on cartoons, and (4) it can distort people’s identities
+                (noticeable on well-known figures). See blog.
+              </p>
+              <p>
+                Try the model here:
+                <a href="https://studio.infinity.ai/try-inf2"
+                  >https://studio.infinity.ai/try-inf2</a
+                >
+              </p>
+              <p>We’d love to hear what you think!</p>
+            </div>
+          </section>
+        </section>
         <section id="41466724">
           <h3>
             <a
@@ -158,11 +260,11 @@
             <h4>
               <span>2024-09-06 @ 14:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41466724"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -177,11 +279,11 @@
             <h4>
               <span>2024-09-06 @ 12:56:15</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">324</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41465735"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -199,11 +301,11 @@
             <h4>
               <span>2024-09-06 @ 11:21:57</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41465081"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -218,11 +320,11 @@
             <h4>
               <span>2024-09-06 @ 10:20:10</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41464705"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -259,11 +361,11 @@
             <h4>
               <span>2024-09-06 @ 09:05:50</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41464347"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -284,7 +386,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41464334"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -301,11 +403,11 @@
             <h4>
               <span>2024-09-06 @ 07:27:06</span
               ><span class="points-container"
-                >Points: <span class="points">445</span></span
+                >Points: <span class="points">447</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41463809"
                   >Comments</a
-                ><span class="descendants">: 140</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -363,11 +465,11 @@
             <h4>
               <span>2024-09-05 @ 19:48:22</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">324</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41459865"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -382,11 +484,11 @@
             <h4>
               <span>2024-09-05 @ 17:55:59</span
               ><span class="points-container"
-                >Points: <span class="points">369</span></span
+                >Points: <span class="points">371</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41458987"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -429,36 +531,9 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41458240"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41458141">
-          <h3>
-            <a class="item" href="https://kalmia.difuse.io/doc/"
-              >Show HN: We built a FOSS documentation CMS with a pretty GUI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-05 @ 16:26:12</span
-              ><span class="points-container"
-                >Points: <span class="points">137</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41458141"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Recently, we decided to open source it, as we believe others
-                might benefit from a lightweight, customizable documentation
-                system like this. We're excited to see how the community can
-                take it further, contribute, and adapt it to their own needs!
-              </p>
-            </div>
           </section>
         </section>
         <section id="41458083">
@@ -493,7 +568,7 @@
             <h4>
               <span>2024-09-05 @ 15:40:45</span
               ><span class="points-container"
-                >Points: <span class="points">318</span></span
+                >Points: <span class="points">320</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41457633"
                   >Comments</a
@@ -801,7 +876,7 @@
             <h4>
               <span>2024-09-04 @ 13:58:06</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41445931"
                   >Comments</a
@@ -823,11 +898,11 @@
             <h4>
               <span>2024-09-03 @ 15:38:11</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41436009"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -865,7 +940,7 @@
             <h4>
               <span>2024-09-03 @ 11:03:40</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41433579"
                   >Comments</a
@@ -907,7 +982,7 @@
             <h4>
               <span>2024-09-02 @ 16:47:32</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41426898"
                   >Comments</a
@@ -929,7 +1004,7 @@
             <h4>
               <span>2024-09-02 @ 16:38:14</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41426828"
                   >Comments</a
@@ -975,7 +1050,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41424531"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
