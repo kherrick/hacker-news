@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
 * [2024-09-05, 23:59:02](https://news.ycombinator.com/item?id=41461499) - [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
+* [2024-09-05, 23:00:41](https://news.ycombinator.com/item?id=41461138) - [What to do about America's killer cars](https://www.economist.com/leaders/2024/09/05/what-to-do-about-americas-killer-cars)
 * [2024-09-05, 22:37:12](https://news.ycombinator.com/item?id=41460984) - [First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor](https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor)
 * [2024-09-05, 20:47:29](https://news.ycombinator.com/item?id=41460276) - [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
 * [2024-09-05, 20:15:43](https://news.ycombinator.com/item?id=41460061) - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)

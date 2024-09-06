@@ -91,6 +91,7 @@
 * [2024-09-02, 09:14:41](https://news.ycombinator.com/item?id=41423850) - [Unlock Articles with Paywallskip](https://www.paywallskip.com/)
 * [2024-09-02, 08:20:46](https://news.ycombinator.com/item?id=41423577) - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 08:08:25](https://news.ycombinator.com/item?id=41423518) - [Starlink Defies Order to Block X in Brazil](https://www.nytimes.com/2024/09/01/world/americas/elon-musk-brazil-starlink-x.html)
+* [2024-09-02, 07:36:36](https://news.ycombinator.com/item?id=41423385) - [People can read their manager's mind](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
 * [2024-09-02, 07:21:28](https://news.ycombinator.com/item?id=41423303) - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 * [2024-09-02, 07:01:34](https://news.ycombinator.com/item?id=41423231) - [Numbers Go Up](https://lethain.com/numbers-go-up/)
 * [2024-09-02, 07:00:49](https://news.ycombinator.com/item?id=41423227) - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
