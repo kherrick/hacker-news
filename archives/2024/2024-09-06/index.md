@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 11:16:33](https://news.ycombinator.com/item?id=41465044) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)
+* [2024-09-06, 11:04:23](https://news.ycombinator.com/item?id=41464982) - [Voters' Yearning for a Dictator Is a Danger to the Country](https://reason.com/2024/09/06/voters-yearning-for-a-dictator-is-a-danger-to-the-country/)
 * [2024-09-06, 09:57:27](https://news.ycombinator.com/item?id=41464578) - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth?](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
 * [2024-09-06, 09:43:58](https://news.ycombinator.com/item?id=41464524) - [The Founder Mode Tradeoff – By Kent Beck](https://tidyfirst.substack.com/p/the-founder-mode-tradeoff)
 * [2024-09-06, 09:10:49](https://news.ycombinator.com/item?id=41464371) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
