@@ -42,6 +42,7 @@
 * [2024-09-03, 16:08:52](https://news.ycombinator.com/item?id=41436338) - [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
 * [2024-09-03, 15:54:37](https://news.ycombinator.com/item?id=41436158) - [Chromatone – Visual Music Language](https://chromatone.center/)
 * [2024-09-03, 15:51:16](https://news.ycombinator.com/item?id=41436133) - [Sextortion Scams Now Include Photos of Your Home](https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/)
+* [2024-09-03, 15:38:11](https://news.ycombinator.com/item?id=41436009) - [More than 20k ships sank during WW II. One man is on a mission to map them](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
 * [2024-09-03, 15:15:16](https://news.ycombinator.com/item?id=41435760) - [NaNoWriMo is in disarray after organizers defend AI writing tools](https://www.theverge.com/2024/9/3/24234811/nanowrimo-ai-stance-classist-ableist-criticism)
 * [2024-09-03, 15:11:36](https://news.ycombinator.com/item?id=41435721) - [Show HN: AppFlowy – An Open-Source Notion Alternative Built with Flutter](https://github.com/AppFlowy-IO/AppFlowy)
 * [2024-09-03, 15:09:03](https://news.ycombinator.com/item?id=41435696) - [Quick guide to web typography for developers](https://sinja.io/blog/web-typography-quick-guide)
