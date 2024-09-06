@@ -24,6 +24,7 @@
 * [2024-09-02, 19:55:49](https://news.ycombinator.com/item?id=41428300) - [Tech firms were fighting a war for talent. Now they are waging war on talent](http://www.rosspettit.com/2024/08/for-years-tech-was-fighting-war-for.html)
 * [2024-09-02, 19:50:53](https://news.ycombinator.com/item?id=41428274) - [Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
 * [2024-09-02, 19:48:32](https://news.ycombinator.com/item?id=41428261) - [CrowdStrike faces onslaught of legal action from faulty software update](https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/)
+* [2024-09-02, 19:46:02](https://news.ycombinator.com/item?id=41428245) - [Summing Blue Noise Octaves Like Perlin Noise](https://blog.demofox.org/2024/09/02/summing-blue-noise-octaves-like-perlin-noise/)
 * [2024-09-02, 19:39:42](https://news.ycombinator.com/item?id=41428206) - [Big Tech Sees Like a State (2020)](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
 * [2024-09-02, 19:24:58](https://news.ycombinator.com/item?id=41428118) - [Ask HN: Resources for GPU Compilers?](https://news.ycombinator.com/item?id=41428118)
 * [2024-09-02, 19:10:12](https://news.ycombinator.com/item?id=41428014) - [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
