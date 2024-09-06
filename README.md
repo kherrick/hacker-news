@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-06, 06:29:38](https://news.ycombinator.com/item?id=41463419) - [Is baseline pupil size related to cognitive ability? Yes](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
-* [2024-09-06, 06:08:13](https://news.ycombinator.com/item?id=41463330) - [Steve Ballmer Was Wrong](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
+* [2024-09-06, 06:29:38](https://news.ycombinator.com/item?id=41463419) - [Baseline pupil size related to cognitive ability in proper lighting conditions](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
+* [2024-09-06, 06:08:13](https://news.ycombinator.com/item?id=41463330) - [The expected value of the game is positive regardless of Ballmer’s strategy](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
 * [2024-09-06, 04:39:15](https://news.ycombinator.com/item?id=41462926) - [Moral implications of being moderately successful computer scientist and a woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-09-06, 03:22:21](https://news.ycombinator.com/item?id=41462603) - [I use Nim instead of Python for data processing (2021)](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
 * [2024-09-06, 03:16:20](https://news.ycombinator.com/item?id=41462574) - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
