@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-06, 18:58:20](https://news.ycombinator.com/item?id=41468794) - [Tesla launches first all-electric 'Giga Train' – and it's free to ride](https://www.yahoo.com/tech/tesla-launches-worlds-first-electric-111535136.html)
 * [2024-09-06, 18:41:06](https://news.ycombinator.com/item?id=41468667) - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
 * [2024-09-06, 17:00:20](https://news.ycombinator.com/item?id=41467816) - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
@@ -12,6 +11,7 @@
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
 * [2024-09-06, 07:16:38](https://news.ycombinator.com/item?id=41463734) - [2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
 * [2024-09-06, 03:16:20](https://news.ycombinator.com/item?id=41462574) - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
+* [2024-09-06, 01:00:06](https://news.ycombinator.com/item?id=41461850) - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
 * [2024-09-05, 23:37:21](https://news.ycombinator.com/item?id=41461373) - [Beehive lab notebook: Local-first access control](https://www.inkandswitch.com/beehive/notebook/)
 * [2024-09-05, 18:44:01](https://news.ycombinator.com/item?id=41459373) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-05, 17:03:04](https://news.ycombinator.com/item?id=41458512) - [Debugging a memory leak in a Clojure service](https://charanvasu.com/posts/debugging-a-memory-leak-in-a-clojure-service/)
