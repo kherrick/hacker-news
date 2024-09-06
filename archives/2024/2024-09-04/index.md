@@ -58,6 +58,7 @@
 * [2024-09-04, 14:38:09](https://news.ycombinator.com/item?id=41446337) - [Boom Supersonic's XB-1 prototype aces 2nd test flight](https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos)
 * [2024-09-04, 14:28:00](https://news.ycombinator.com/item?id=41446252) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
 * [2024-09-04, 14:18:29](https://news.ycombinator.com/item?id=41446148) - [Police Seize Teslas That Witnessed Crimes [video]](https://www.youtube.com/watch?v=S40zSUJABpw)
+* [2024-09-04, 13:58:06](https://news.ycombinator.com/item?id=41445931) - [Show HN: Retronews – TUI for HN and Lobsters emulating classical Usenet readers](https://github.com/luke8086/retronews)
 * [2024-09-04, 13:43:19](https://news.ycombinator.com/item?id=41445790) - [Physics is unreasonably good at creating new math](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/)
 * [2024-09-04, 13:27:46](https://news.ycombinator.com/item?id=41445564) - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 * [2024-09-04, 13:26:39](https://news.ycombinator.com/item?id=41445542) - [The dawn of a new startup era](https://giansegato.com/essays/dawn-new-startup-era)

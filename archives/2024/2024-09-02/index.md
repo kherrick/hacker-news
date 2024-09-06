@@ -79,6 +79,7 @@
 * [2024-09-02, 12:01:08](https://news.ycombinator.com/item?id=41424719) - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
 * [2024-09-02, 11:56:30](https://news.ycombinator.com/item?id=41424697) - [OFNL Suffer Major National UK Full Fibre Broadband Outage](https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html)
 * [2024-09-02, 11:49:00](https://news.ycombinator.com/item?id=41424637) - [Ask HN: Any Recommendations Around Programming on an iPad?](https://news.ycombinator.com/item?id=41424637)
+* [2024-09-02, 11:36:24](https://news.ycombinator.com/item?id=41424531) - [The Work You Do, the Person You Are (2017)](https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are)
 * [2024-09-02, 11:33:14](https://news.ycombinator.com/item?id=41424505) - [Jennifer in paradise: the story of the first Photoshopped image (2014)](https://www.theguardian.com/artanddesign/photography-blog/2014/jun/13/photoshop-first-image-jennifer-in-paradise-photography-artefact-knoll-dullaart)
 * [2024-09-02, 11:09:13](https://news.ycombinator.com/item?id=41424375) - [In Theory: Self-Correcting Software](https://ingig.substack.com/p/in-theory-self-correcting-software)
 * [2024-09-02, 11:08:57](https://news.ycombinator.com/item?id=41424373) - [Dawarich: Self-hosted alternative to Google Location History](https://github.com/Freika/dawarich)
