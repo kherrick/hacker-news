@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 17:00:55](https://news.ycombinator.com/item?id=41474909) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-09-07, 16:34:27](https://news.ycombinator.com/item?id=41474795) - [OK City Apple Retail Workers Become 2nd US Store to Secure Tentative Agreement](https://cwa-union.org/news/releases/cwa-represented-apple-retail-workers-oklahoma-city-become-second-us-store-secure)
 * [2024-09-07, 16:11:00](https://news.ycombinator.com/item?id=41474672) - [CSAM content on Bluesky has risen ten times in just a week](https://bsky.app/profile/aaron.bsky.team/post/3l3gerugkbt27)
 * [2024-09-07, 15:39:16](https://news.ycombinator.com/item?id=41474508) - [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
 * [2024-09-07, 15:06:47](https://news.ycombinator.com/item?id=41474311) - [Hindenburg's Interior: Photos Show What Luxury Air Travel Was Like in the 1930s](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
+* [2024-09-07, 14:52:55](https://news.ycombinator.com/item?id=41474230) - ['Right to Repair for Your Body': The Rise of DIY, Pirated Medicine](https://www.404media.co/right-to-repair-for-your-body-the-rise-of-diy-pirated-medicine/)
 * [2024-09-07, 14:42:38](https://news.ycombinator.com/item?id=41474188) - [Why children perceive time slower than adults](https://www.bbc.com/future/article/20240906-does-time-go-slower-for-children)
 * [2024-09-07, 14:19:25](https://news.ycombinator.com/item?id=41474080) - ['Right to Repair for Your Body': The Rise of DIY, Pirated Medicine](https://fourthievesvinegar.org/)
 * [2024-09-07, 14:16:16](https://news.ycombinator.com/item?id=41474060) - [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
