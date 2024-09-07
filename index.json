@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-09-06, 16:23:18",
-      "https://news.ycombinator.com/item?id=41467522"
-    ],
-    [
-      "Cough or sneeze? How the brain knows what to unleash",
-      "https://www.nature.com/articles/d41586-024-02858-9"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 13:15:35",
       "https://news.ycombinator.com/item?id=41465900"
     ],
@@ -231,6 +221,26 @@
   ],
   [
     [
+      "2024-09-03, 20:10:13",
+      "https://news.ycombinator.com/item?id=41438696"
+    ],
+    [
+      "Kawaii: Anime, Propaganda, and Soft Power Politics. [video]",
+      "https://www.youtube.com/watch?v=IM2VIKfaY0Y"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 19:34:32",
+      "https://news.ycombinator.com/item?id=41438343"
+    ],
+    [
+      "Zen, CUDA, and Tensor Cores, Part I: The Silicon",
+      "https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 19:08:28",
       "https://news.ycombinator.com/item?id=41438077"
     ],
@@ -287,16 +297,6 @@
     [
       "Pulsar, micro creative coding playground",
       "https://muffinman.io/pulsar/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 05:07:26",
-      "https://news.ycombinator.com/item?id=41431463"
-    ],
-    [
-      "Handling complexity without abstraction: Algebraic Bricklaying C",
-      "https://github.com/gritzko/librdx/blob/master/ABC.md"
     ]
   ]
 ]
