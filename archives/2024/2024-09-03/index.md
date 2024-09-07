@@ -96,6 +96,7 @@
 * [2024-09-03, 06:29:13](https://news.ycombinator.com/item?id=41431888) - [Apache Zeppelin](https://zeppelin.apache.org/)
 * [2024-09-03, 06:05:25](https://news.ycombinator.com/item?id=41431760) - [From Plato to Pixels](https://www.incomparable.studio/blog/plato-to-pixels)
 * [2024-09-03, 06:05:14](https://news.ycombinator.com/item?id=41431758) - [Extremist settlers rapidly seizing West Bank land](https://www.bbc.com/news/articles/c207j6wy332o)
+* [2024-09-03, 05:47:40](https://news.ycombinator.com/item?id=41431679) - [gRPC: The Ugly Parts](https://kmcd.dev/posts/grpc-the-ugly-parts/)
 * [2024-09-03, 05:26:08](https://news.ycombinator.com/item?id=41431560) - [Smaller, Weaker, yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/abs/2408.16737)
 * [2024-09-03, 05:25:22](https://news.ycombinator.com/item?id=41431556) - [Pulsar, micro creative coding playground](https://muffinman.io/pulsar/)
 * [2024-09-03, 05:07:26](https://news.ycombinator.com/item?id=41431463) - [Handling complexity without abstraction: Algebraic Bricklaying C](https://github.com/gritzko/librdx/blob/master/ABC.md)
