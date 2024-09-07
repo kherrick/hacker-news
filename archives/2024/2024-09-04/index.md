@@ -32,6 +32,7 @@
 * [2024-09-04, 18:23:24](https://news.ycombinator.com/item?id=41448842) - [Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://nitter.poast.org/PublishersWkly/status/1831357570365497379#m)
 * [2024-09-04, 18:13:51](https://news.ycombinator.com/item?id=41448740) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
 * [2024-09-04, 18:04:51](https://news.ycombinator.com/item?id=41448664) - [What's Functional Programming All About?](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
+* [2024-09-04, 17:54:29](https://news.ycombinator.com/item?id=41448545) - [Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
 * [2024-09-04, 17:44:17](https://news.ycombinator.com/item?id=41448439) - [Show HN: An open-source implementation of AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3)
 * [2024-09-04, 17:41:00](https://news.ycombinator.com/item?id=41448412) - [Coding on iPad using self-hosted VSCode, Caddy, and code-server](https://tailscale.com/kb/1166/vscode-ipad)
 * [2024-09-04, 17:34:55](https://news.ycombinator.com/item?id=41448347) - [Decommissioning my first commercial product](https://binarysolo.blog/decommissioning-my-first-commercial-product/)
