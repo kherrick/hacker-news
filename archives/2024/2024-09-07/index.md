@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 15:06:47](https://news.ycombinator.com/item?id=41474311) - [Hindenburg's Interior: Photos Show What Luxury Air Travel Was Like in the 1930s](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
+* [2024-09-07, 14:19:25](https://news.ycombinator.com/item?id=41474080) - ['Right to Repair for Your Body': The Rise of DIY, Pirated Medicine](https://fourthievesvinegar.org/)
 * [2024-09-07, 14:16:16](https://news.ycombinator.com/item?id=41474060) - [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
 * [2024-09-07, 13:43:45](https://news.ycombinator.com/item?id=41473905) - [Scientists invent nanorobots that can repair brain aneurysms](https://www.livescience.com/health/scientists-invent-nanorobots-that-can-repair-brain-aneurysms)
 * [2024-09-07, 13:17:09](https://news.ycombinator.com/item?id=41473782) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
