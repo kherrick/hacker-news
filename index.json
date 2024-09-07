@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-07, 22:12:53",
+      "https://news.ycombinator.com/item?id=41476778"
+    ],
+    [
+      "Google says replacing C/C++ in firmware with Rust is easy",
+      "https://www.theregister.com/2024/09/06/google_rust_c_code_language/"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 21:57:31",
       "https://news.ycombinator.com/item?id=41476704"
     ],
@@ -135,18 +145,8 @@
       "https://news.ycombinator.com/item?id=41474449"
     ],
     [
-      "Ten Things to Know about the Great Wave",
+      "Things to know about the Great Wave",
       "https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave"
-    ]
-  ],
-  [
-    [
-      "2024-09-07, 15:06:47",
-      "https://news.ycombinator.com/item?id=41474311"
-    ],
-    [
-      "The Hindenburg’s Interior",
-      "https://rarehistoricalphotos.com/hindenburg-interior-photos/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-09-06, 23:55:12",
-      "https://news.ycombinator.com/item?id=41470571"
-    ],
-    [
-      "QtCS2024: Compile once, Run everywhere",
-      "https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 11:21:57",
       "https://news.ycombinator.com/item?id=41465081"
     ],
@@ -247,6 +237,16 @@
     [
       "Adding algebraic data types to Nickel",
       "https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 22:48:02",
+      "https://news.ycombinator.com/item?id=41451668"
+    ],
+    [
+      "Mushroom learns to crawl after being given robot body",
+      "https://www.independent.co.uk/tech/robot-mushroom-biohybrid-robotics-cornell-b2606970.html"
     ]
   ],
   [
