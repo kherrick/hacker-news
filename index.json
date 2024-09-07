@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-07, 05:43:29",
+      "https://news.ycombinator.com/item?id=41471707"
+    ],
+    [
+      "Asynchronous IO: the next billion-dollar mistake?",
+      "https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 04:50:52",
       "https://news.ycombinator.com/item?id=41471510"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-09-07, 04:49:17",
+      "https://news.ycombinator.com/item?id=41471502"
+    ],
+    [
+      "MNT Pocket Reform – Unboxing and First Impressions",
+      "http://ratfactor.com/mnt-pocket-reform/first"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 04:44:37",
       "https://news.ycombinator.com/item?id=41471488"
     ],
     [
       "What's new in C++26 (part 1)",
       "https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/"
+    ]
+  ],
+  [
+    [
+      "2024-09-07, 04:34:06",
+      "https://news.ycombinator.com/item?id=41471451"
+    ],
+    [
+      "Hyphanet is a private peer-to-peer platform for publishing and communication",
+      "https://www.hyphanet.org/index.html"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-09-06, 13:15:35",
-      "https://news.ycombinator.com/item?id=41465900"
-    ],
-    [
-      "Inertia.js – Build React, Vue, or Svelte apps with server-side routing",
-      "https://inertiajs.com/"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 12:56:15",
       "https://news.ycombinator.com/item?id=41465735"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-09-05, 18:44:01",
-      "https://news.ycombinator.com/item?id=41459373"
-    ],
-    [
-      "Understanding the Layout Process in Qt Widgets",
-      "https://felipefarinon.com/articles/qt-widgets-layout/"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 13:51:22",
       "https://news.ycombinator.com/item?id=41456635"
     ],
@@ -177,16 +187,6 @@
     [
       "LÖVR – A simple Lua framework for rapidly building VR experiences",
       "https://github.com/bjornbytes/lovr"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 13:45:06",
-      "https://news.ycombinator.com/item?id=41445803"
-    ],
-    [
-      "Goja: A Golang JavaScript Runtime",
-      "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2024-09-03, 19:27:08",
+      "https://news.ycombinator.com/item?id=41438262"
+    ],
+    [
+      "Natural Piezoelectric Effect May Build Gold Deposits",
+      "https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 19:09:35",
       "https://news.ycombinator.com/item?id=41438089"
     ],
     [
       "Creating an empty iterator of a certain type in Rust",
       "https://www.freedomlayer.org/offset/option-iterator/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 19:08:28",
-      "https://news.ycombinator.com/item?id=41438077"
-    ],
-    [
-      "Moondance: Experience the marvel that is night-blooming tobacco",
-      "https://theamericanscholar.org/moondance/"
     ]
   ],
   [
