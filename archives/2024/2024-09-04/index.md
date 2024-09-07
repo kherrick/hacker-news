@@ -108,6 +108,7 @@
 * [2024-09-04, 02:21:46](https://news.ycombinator.com/item?id=41441260) - [Bolivia moves World Cup qualifier to even higher altitude, hoping to boost play](https://apnews.com/article/bolivia-soccer-altitude-world-cup-qualifiers-conmebol-7eb4bb42d9ad2fe2b3be065cddcb912d)
 * [2024-09-04, 02:01:35](https://news.ycombinator.com/item?id=41441159) - [Court handcuffs employees with non-compete agreements – again](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
 * [2024-09-04, 01:37:03](https://news.ycombinator.com/item?id=41441041) - [Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
+* [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 * [2024-09-04, 01:00:56](https://news.ycombinator.com/item?id=41440855) - [Why I self host my servers and what I've recently learned](https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/)
 * [2024-09-04, 01:00:07](https://news.ycombinator.com/item?id=41440851) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-09-04, 00:59:11](https://news.ycombinator.com/item?id=41440842) - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
