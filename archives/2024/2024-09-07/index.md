@@ -7,6 +7,7 @@
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-07, 08:40:19](https://news.ycombinator.com/item?id=41472491) - [DNS Doesn't Propagate (2021)](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 * [2024-09-07, 06:50:17](https://news.ycombinator.com/item?id=41472027) - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
+* [2024-09-07, 06:39:48](https://news.ycombinator.com/item?id=41471961) - [Working Methods (Of a Historian)](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
 * [2024-09-07, 06:05:12](https://news.ycombinator.com/item?id=41471799) - [Check for malicious IPs using DNS](https://ipshield.dev/)
 * [2024-09-07, 05:44:55](https://news.ycombinator.com/item?id=41471713) - [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
 * [2024-09-07, 05:43:29](https://news.ycombinator.com/item?id=41471707) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
