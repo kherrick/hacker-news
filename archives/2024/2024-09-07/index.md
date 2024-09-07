@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 21:57:31](https://news.ycombinator.com/item?id=41476704) - [Landslides are destroying multimillion-dollar homes in CA, and are getting worse](https://www.cnn.com/2024/09/07/climate/rancho-palos-verdes-landslide-rainfall/index.html)
 * [2024-09-07, 21:14:43](https://news.ycombinator.com/item?id=41476507) - [Nonstandard Analysis (1972)](https://sci-hub.se/https://www.jstor.org/stable/24927363)
 * [2024-09-07, 21:14:26](https://news.ycombinator.com/item?id=41476505) - [Raspberry Pi Showcases Rust on the RP2350 Microcontroller](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust)
 * [2024-09-07, 20:17:43](https://news.ycombinator.com/item?id=41476221) - [Engineer's guide to convincing your Product Manager to prioritize technical debt](https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your)
@@ -22,6 +23,7 @@
 * [2024-09-07, 17:30:41](https://news.ycombinator.com/item?id=41475101) - [Death Rates by Vehicle Model](https://www.iihs.org/news/detail/latest-driver-death-rates-highlight-dangers-of-muscle-cars)
 * [2024-09-07, 17:18:50](https://news.ycombinator.com/item?id=41475018) - [Saddling up on the high seas – the cyclists powering 50-MPH yachts](https://www.bbc.com/sport/articles/c4ngydm1x55o)
 * [2024-09-07, 17:00:55](https://news.ycombinator.com/item?id=41474909) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+* [2024-09-07, 16:41:11](https://news.ycombinator.com/item?id=41474828) - [Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 16:34:27](https://news.ycombinator.com/item?id=41474795) - [OK City Apple Retail Workers Become 2nd US Store to Secure Tentative Agreement](https://cwa-union.org/news/releases/cwa-represented-apple-retail-workers-oklahoma-city-become-second-us-store-secure)
 * [2024-09-07, 16:11:00](https://news.ycombinator.com/item?id=41474672) - [CSAM content on Bluesky has risen ten times in just a week](https://bsky.app/profile/aaron.bsky.team/post/3l3gerugkbt27)
 * [2024-09-07, 15:39:16](https://news.ycombinator.com/item?id=41474508) - [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)

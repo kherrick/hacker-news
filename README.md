@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 21:57:31](https://news.ycombinator.com/item?id=41476704) - [Landslides are destroying multimillion-dollar homes in CA, and are getting worse](https://www.cnn.com/2024/09/07/climate/rancho-palos-verdes-landslide-rainfall/index.html)
 * [2024-09-07, 21:14:43](https://news.ycombinator.com/item?id=41476507) - [Nonstandard Analysis (1972)](https://sci-hub.se/https://www.jstor.org/stable/24927363)
 * [2024-09-07, 21:14:26](https://news.ycombinator.com/item?id=41476505) - [Raspberry Pi Showcases Rust on the RP2350 Microcontroller](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust)
 * [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
@@ -10,6 +11,7 @@
 * [2024-09-07, 17:43:14](https://news.ycombinator.com/item?id=41475177) - [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
 * [2024-09-07, 17:32:48](https://news.ycombinator.com/item?id=41475124) - [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 17:00:55](https://news.ycombinator.com/item?id=41474909) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+* [2024-09-07, 16:41:11](https://news.ycombinator.com/item?id=41474828) - [Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:39:16](https://news.ycombinator.com/item?id=41474508) - [A Post-Google World?](https://www.thebignewsletter.com/p/a-post-google-world)
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Ten Things to Know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
 * [2024-09-07, 15:06:47](https://news.ycombinator.com/item?id=41474311) - [The Hindenburg’s Interior](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
@@ -26,8 +28,6 @@
 * [2024-09-04, 20:42:47](https://news.ycombinator.com/item?id=41450563) - [Tire-related chemical responsible for salmon deaths in urban streams (2020)](https://www.washington.edu/news/2020/12/03/tire-related-chemical-largely-responsible-for-adult-coho-salmon-deaths-in-urban-streams/)
 * [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 17:54:29](https://news.ycombinator.com/item?id=41448545) - [Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
-* [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
-* [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 * [2024-09-03, 19:34:32](https://news.ycombinator.com/item?id=41438343) - [Zen, CUDA, and Tensor Cores, Part I: The Silicon](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i)
 
