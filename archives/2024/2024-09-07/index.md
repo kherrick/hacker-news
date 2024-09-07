@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 14:16:16](https://news.ycombinator.com/item?id=41474060) - [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
 * [2024-09-07, 13:43:45](https://news.ycombinator.com/item?id=41473905) - [Scientists invent nanorobots that can repair brain aneurysms](https://www.livescience.com/health/scientists-invent-nanorobots-that-can-repair-brain-aneurysms)
 * [2024-09-07, 13:17:09](https://news.ycombinator.com/item?id=41473782) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
 * [2024-09-07, 12:00:59](https://news.ycombinator.com/item?id=41473405) - [Sieve (YC W22) Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
