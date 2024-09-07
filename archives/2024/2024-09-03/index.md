@@ -20,6 +20,7 @@
 * [2024-09-03, 20:07:44](https://news.ycombinator.com/item?id=41438672) - [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)
 * [2024-09-03, 19:54:39](https://news.ycombinator.com/item?id=41438542) - [Show HN: Icebreaking AI. A free tool to help you find close friends](https://www.icebreakinglab.com)
 * [2024-09-03, 19:34:32](https://news.ycombinator.com/item?id=41438343) - [Zen, CUDA, and Tensor Cores, Part I: The Silicon](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i)
+* [2024-09-03, 19:27:08](https://news.ycombinator.com/item?id=41438262) - [Natural Piezoelectric Effect May Build Gold Deposits](https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/)
 * [2024-09-03, 19:16:32](https://news.ycombinator.com/item?id=41438162) - [OpenAI Pleads It Can't Make Money Without Using Copyrighted Materials for Free](https://futurism.com/the-byte/openai-copyrighted-material-parliament)
 * [2024-09-03, 19:11:26](https://news.ycombinator.com/item?id=41438107) - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
 * [2024-09-03, 19:09:35](https://news.ycombinator.com/item?id=41438089) - [Creating an empty iterator of a certain type in Rust](https://www.freedomlayer.org/offset/option-iterator/)
