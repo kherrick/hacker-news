@@ -7,6 +7,7 @@
 * [2024-09-04, 23:54:40](https://news.ycombinator.com/item?id=41452068) - [Gallery of Graffti Removals](https://graffitiremovals.org/)
 * [2024-09-04, 22:53:15](https://news.ycombinator.com/item?id=41451707) - [SEC fines 6 major credit rating agencies over failure to keep electronic records](https://www.cnn.com/2024/09/03/business/sec-fines-credit-rating-agencies-over-failure-electronic-records/index.html)
 * [2024-09-04, 22:52:19](https://news.ycombinator.com/item?id=41451698) - [Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust](https://github.com/lmnr-ai/lmnr)
+* [2024-09-04, 22:48:02](https://news.ycombinator.com/item?id=41451668) - [Mushroom learns to crawl after being given robot body](https://www.independent.co.uk/tech/robot-mushroom-biohybrid-robotics-cornell-b2606970.html)
 * [2024-09-04, 22:13:40](https://news.ycombinator.com/item?id=41451431) - [Origami-Inspired Phased Arrays Are Reshaping the Future of Antennas](https://www.viksnewsletter.com/p/origami-inspired-phased-arrays)
 * [2024-09-04, 21:40:21](https://news.ycombinator.com/item?id=41451168) - [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1)
 * [2024-09-04, 21:37:33](https://news.ycombinator.com/item?id=41451143) - [What Is an Atomic Clock? (2019)](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)
