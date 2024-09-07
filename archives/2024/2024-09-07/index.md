@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
 * [2024-09-07, 19:17:02](https://news.ycombinator.com/item?id=41475801) - [College Grades Have Become a Charade. It's Time to Abolish Them.](https://www.wsj.com/us-news/education/college-grades-have-become-acharade-its-time-to-abolish-them-ee4eb3fe)
+* [2024-09-07, 19:01:17](https://news.ycombinator.com/item?id=41475697) - [Amazon's $1,600 Astro robot has FOUR CPUs running Linux?](https://mastodon.social/@zhuowei@notnow.dev/113097708118539407)
+* [2024-09-07, 18:46:43](https://news.ycombinator.com/item?id=41475618) - [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer's suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
 * [2024-09-07, 18:09:38](https://news.ycombinator.com/item?id=41475373) - [Exercise May Be the Most Potent Medical Intervention Ever Known](https://www.theringer.com/2024/8/30/24231888/importance-of-exercise-medical-intervention-cardiovascular-health)
 * [2024-09-07, 17:48:58](https://news.ycombinator.com/item?id=41475218) - [The \"email is authentication\" pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
 * [2024-09-07, 17:48:11](https://news.ycombinator.com/item?id=41475208) - [The YIMBYs Won over the Democrats](https://www.theatlantic.com/politics/archive/2024/09/yimby-victory-democratic-politics-harris/679717/)
