@@ -7,7 +7,6 @@
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
-* [2024-09-06, 16:23:18](https://news.ycombinator.com/item?id=41467522) - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
 * [2024-09-06, 13:15:35](https://news.ycombinator.com/item?id=41465900) - [Inertia.js – Build React, Vue, or Svelte apps with server-side routing](https://inertiajs.com/)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
@@ -23,13 +22,14 @@
 * [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 11:52:41](https://news.ycombinator.com/item?id=41444590) - [How does cosine similarity work?](https://tomhazledine.com/cosine-similarity/)
 * [2024-09-03, 23:17:23](https://news.ycombinator.com/item?id=41440275) - [LSP: The good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
+* [2024-09-03, 20:10:13](https://news.ycombinator.com/item?id=41438696) - [Kawaii: Anime, Propaganda, and Soft Power Politics. [video]](https://www.youtube.com/watch?v=IM2VIKfaY0Y)
+* [2024-09-03, 19:34:32](https://news.ycombinator.com/item?id=41438343) - [Zen, CUDA, and Tensor Cores, Part I: The Silicon](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i)
 * [2024-09-03, 19:08:28](https://news.ycombinator.com/item?id=41438077) - [Moondance: Experience the marvel that is night-blooming tobacco](https://theamericanscholar.org/moondance/)
 * [2024-09-03, 16:50:26](https://news.ycombinator.com/item?id=41436734) - [Oya, I've heard of mega-ROMs](https://www.leadedsolder.com/2024/09/03/msx-megarom-oyanami.html)
 * [2024-09-03, 15:38:11](https://news.ycombinator.com/item?id=41436009) - [Mapping 20k ships that sank during WW II](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
 * [2024-09-03, 11:59:56](https://news.ycombinator.com/item?id=41434062) - [Will open science change chemistry?](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article)
 * [2024-09-03, 05:47:40](https://news.ycombinator.com/item?id=41431679) - [gRPC: The Ugly Parts](https://kmcd.dev/posts/grpc-the-ugly-parts/)
 * [2024-09-03, 05:25:22](https://news.ycombinator.com/item?id=41431556) - [Pulsar, micro creative coding playground](https://muffinman.io/pulsar/)
-* [2024-09-03, 05:07:26](https://news.ycombinator.com/item?id=41431463) - [Handling complexity without abstraction: Algebraic Bricklaying C](https://github.com/gritzko/librdx/blob/master/ABC.md)
 
 ## [Archives](archives/index.md)
 
