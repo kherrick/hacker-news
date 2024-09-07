@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-07, 08:40:19](https://news.ycombinator.com/item?id=41472491) - [DNS Doesn't Propagate (2021)](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 * [2024-09-07, 06:50:17](https://news.ycombinator.com/item?id=41472027) - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-07, 06:50:17](https://news.ycombinator.com/item?id=41472027) - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
 * [2024-09-07, 06:39:48](https://news.ycombinator.com/item?id=41471961) - [Working Methods (Of a Historian)](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
-* [2024-09-07, 05:44:55](https://news.ycombinator.com/item?id=41471713) - [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
 * [2024-09-07, 04:50:52](https://news.ycombinator.com/item?id=41471510) - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
 * [2024-09-07, 04:44:37](https://news.ycombinator.com/item?id=41471488) - [What's new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 * [2024-09-06, 23:55:12](https://news.ycombinator.com/item?id=41470571) - [QtCS2024: Compile once, Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
