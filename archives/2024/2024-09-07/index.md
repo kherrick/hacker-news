@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 06:05:12](https://news.ycombinator.com/item?id=41471799) - [Check for malicious IPs using DNS](https://ipshield.dev/)
 * [2024-09-07, 05:43:29](https://news.ycombinator.com/item?id=41471707) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 * [2024-09-07, 04:50:52](https://news.ycombinator.com/item?id=41471510) - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
 * [2024-09-07, 04:49:17](https://news.ycombinator.com/item?id=41471502) - [MNT Pocket Reform – Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)

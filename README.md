@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 06:05:12](https://news.ycombinator.com/item?id=41471799) - [Check for malicious IPs using DNS](https://ipshield.dev/)
 * [2024-09-07, 05:43:29](https://news.ycombinator.com/item?id=41471707) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 * [2024-09-07, 04:50:52](https://news.ycombinator.com/item?id=41471510) - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
 * [2024-09-07, 04:49:17](https://news.ycombinator.com/item?id=41471502) - [MNT Pocket Reform – Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
@@ -13,7 +14,6 @@
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
-* [2024-09-06, 13:15:35](https://news.ycombinator.com/item?id=41465900) - [Inertia.js – Build React, Vue, or Svelte apps with server-side routing](https://inertiajs.com/)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
