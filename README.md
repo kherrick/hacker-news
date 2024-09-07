@@ -2,11 +2,11 @@
 
 * [2024-09-06, 23:55:12](https://news.ycombinator.com/item?id=41470571) - [QtCS2024 Compile once. Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
 * [2024-09-06, 23:37:19](https://news.ycombinator.com/item?id=41470491) - [Boost your development environment with Ubuntu Multipass](https://letsdebug.it/post/21-ubuntu-multipass/)
-* [2024-09-06, 22:22:12](https://news.ycombinator.com/item?id=41470139) - [Stranded astronauts' capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
 * [2024-09-06, 22:13:47](https://news.ycombinator.com/item?id=41470099) - [Manipulating large language models to increase product visibility](https://arxiv.org/abs/2404.07981)
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
+* [2024-09-06, 16:23:18](https://news.ycombinator.com/item?id=41467522) - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
 * [2024-09-06, 13:15:35](https://news.ycombinator.com/item?id=41465900) - [Inertia.js – Build React, Vue, or Svelte apps with server-side routing](https://inertiajs.com/)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
