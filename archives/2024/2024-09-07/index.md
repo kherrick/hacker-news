@@ -7,6 +7,7 @@
 * [2024-09-07, 21:14:43](https://news.ycombinator.com/item?id=41476507) - [Nonstandard Analysis (1972)](https://sci-hub.se/https://www.jstor.org/stable/24927363)
 * [2024-09-07, 21:14:26](https://news.ycombinator.com/item?id=41476505) - [Raspberry Pi Showcases Rust on the RP2350 Microcontroller](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust)
 * [2024-09-07, 20:17:43](https://news.ycombinator.com/item?id=41476221) - [Engineer's guide to convincing your Product Manager to prioritize technical debt](https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your)
+* [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 * [2024-09-07, 19:37:51](https://news.ycombinator.com/item?id=41475932) - [Paddle closed accounts with 1 week notice, leaving many founders in shock](https://twitter.com/vietyork/status/1832145475786670482)
 * [2024-09-07, 19:17:02](https://news.ycombinator.com/item?id=41475801) - [College Grades Have Become a Charade. It's Time to Abolish Them.](https://www.wsj.com/us-news/education/college-grades-have-become-acharade-its-time-to-abolish-them-ee4eb3fe)
 * [2024-09-07, 19:10:25](https://news.ycombinator.com/item?id=41475760) - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)

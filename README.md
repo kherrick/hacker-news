@@ -2,7 +2,7 @@
 
 * [2024-09-07, 21:14:43](https://news.ycombinator.com/item?id=41476507) - [Nonstandard Analysis (1972)](https://sci-hub.se/https://www.jstor.org/stable/24927363)
 * [2024-09-07, 21:14:26](https://news.ycombinator.com/item?id=41476505) - [Raspberry Pi Showcases Rust on the RP2350 Microcontroller](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust)
-* [2024-09-07, 20:17:43](https://news.ycombinator.com/item?id=41476221) - [Engineer's guide to convincing your Product Manager to prioritize technical debt](https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your)
+* [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 * [2024-09-07, 19:10:25](https://news.ycombinator.com/item?id=41475760) - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
 * [2024-09-07, 18:46:43](https://news.ycombinator.com/item?id=41475618) - [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer's suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
 * [2024-09-07, 17:43:14](https://news.ycombinator.com/item?id=41475177) - [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
@@ -23,12 +23,12 @@
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [2024-09-06, 06:19:35](https://news.ycombinator.com/item?id=41463372) - [Adding algebraic data types to Nickel](https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/)
 * [2024-09-04, 20:42:47](https://news.ycombinator.com/item?id=41450563) - [Tire-related chemical is largely responsible for salmon deaths in urban streams](https://www.washington.edu/news/2020/12/03/tire-related-chemical-largely-responsible-for-adult-coho-salmon-deaths-in-urban-streams/)
+* [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 17:54:29](https://news.ycombinator.com/item?id=41448545) - [Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
 * [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 * [2024-09-03, 19:34:32](https://news.ycombinator.com/item?id=41438343) - [Zen, CUDA, and Tensor Cores, Part I: The Silicon](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i)
-* [2024-09-03, 19:27:08](https://news.ycombinator.com/item?id=41438262) - [Natural Piezoelectric Effect May Build Gold Deposits](https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/)
 * [2024-09-03, 15:38:11](https://news.ycombinator.com/item?id=41436009) - [Mapping 20k ships that sank during WW II](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
 
 ## [Archives](archives/index.md)
