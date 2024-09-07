@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 17:30:41](https://news.ycombinator.com/item?id=41475101) - [Death Rates by Vehicle Model](https://www.iihs.org/news/detail/latest-driver-death-rates-highlight-dangers-of-muscle-cars)
 * [2024-09-07, 17:18:50](https://news.ycombinator.com/item?id=41475018) - [Saddling up on the high seas – the cyclists powering 50-MPH yachts](https://www.bbc.com/sport/articles/c4ngydm1x55o)
 * [2024-09-07, 17:00:55](https://news.ycombinator.com/item?id=41474909) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-09-07, 16:34:27](https://news.ycombinator.com/item?id=41474795) - [OK City Apple Retail Workers Become 2nd US Store to Secure Tentative Agreement](https://cwa-union.org/news/releases/cwa-represented-apple-retail-workers-oklahoma-city-become-second-us-store-secure)
