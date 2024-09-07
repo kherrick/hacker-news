@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-07, 15:06:47",
+      "https://news.ycombinator.com/item?id=41474311"
+    ],
+    [
+      "Hindenburg's Interior: Photos Show What Luxury Air Travel Was Like in the 1930s",
+      "https://rarehistoricalphotos.com/hindenburg-interior-photos/"
+    ]
+  ],
+  [
+    [
+      "2024-09-07, 14:19:25",
+      "https://news.ycombinator.com/item?id=41474080"
+    ],
+    [
+      "'Right to Repair for Your Body': The Rise of DIY, Pirated Medicine",
+      "https://fourthievesvinegar.org/"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 14:16:16",
       "https://news.ycombinator.com/item?id=41474060"
     ],
@@ -161,22 +181,12 @@
   ],
   [
     [
-      "2024-09-06, 07:27:06",
-      "https://news.ycombinator.com/item?id=41463809"
+      "2024-09-05, 03:43:41",
+      "https://news.ycombinator.com/item?id=41453264"
     ],
     [
-      "Did Sandia use a thermonuclear secondary in a product logo?",
-      "https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 13:51:22",
-      "https://news.ycombinator.com/item?id=41456635"
-    ],
-    [
-      "Minifying HTML for GPT-4o: Remove all the HTML tags",
-      "https://blancas.io/blog/html-minify-for-llm/"
+      "Better Dotfiles",
+      "https://iamdan.me/better-dotfiles"
     ]
   ],
   [
@@ -207,6 +217,16 @@
     [
       "Show HN: Using SQL's Turing completeness to build Tetris",
       "https://github.com/nuno-faria/tetris-sql"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 02:21:46",
+      "https://news.ycombinator.com/item?id=41441260"
+    ],
+    [
+      "Bolivia moves World Cup qualifier to even higher altitude, hoping to boost play",
+      "https://apnews.com/article/bolivia-soccer-altitude-world-cup-qualifiers-conmebol-7eb4bb42d9ad2fe2b3be065cddcb912d"
     ]
   ],
   [
@@ -271,31 +291,11 @@
   ],
   [
     [
-      "2024-09-03, 08:39:24",
-      "https://news.ycombinator.com/item?id=41432682"
-    ],
-    [
-      "The Theory of Topos-Theoretic 'Bridges' – A Conceptual Introduction (2016)",
-      "https://www.glass-bead.org/article/the-theory-of-topos-theoretic-bridges-a-conceptual-introduction/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 07:58:52",
-      "https://news.ycombinator.com/item?id=41432443"
-    ],
-    [
-      "Glue and Coprocessor Architectures",
-      "https://vitalik.eth.limo/general/2024/09/02/gluecp.html"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 05:25:22",
       "https://news.ycombinator.com/item?id=41431556"
     ],
     [
-      "Pulsar, micro creative coding playground",
+      "Show HN: Pulsar, micro creative coding playground",
       "https://muffinman.io/pulsar/"
     ]
   ]
