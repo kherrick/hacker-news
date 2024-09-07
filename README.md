@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-07, 17:30:41](https://news.ycombinator.com/item?id=41475101) - [Death Rates by Vehicle Model](https://www.iihs.org/news/detail/latest-driver-death-rates-highlight-dangers-of-muscle-cars)
+* [2024-09-07, 17:43:14](https://news.ycombinator.com/item?id=41475177) - [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
+* [2024-09-07, 17:32:48](https://news.ycombinator.com/item?id=41475124) - [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 17:00:55](https://news.ycombinator.com/item?id=41474909) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-09-07, 15:39:16](https://news.ycombinator.com/item?id=41474508) - [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Ten Things to Know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
 * [2024-09-07, 15:06:47](https://news.ycombinator.com/item?id=41474311) - [Hindenburg's Interior: Photos Show What Luxury Air Travel Was Like in the 1930s](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
-* [2024-09-07, 14:42:38](https://news.ycombinator.com/item?id=41474188) - [Why children perceive time slower than adults](https://www.bbc.com/future/article/20240906-does-time-go-slower-for-children)
 * [2024-09-07, 14:16:16](https://news.ycombinator.com/item?id=41474060) - [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
 * [2024-09-07, 10:44:08](https://news.ycombinator.com/item?id=41473061) - [Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 * [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
