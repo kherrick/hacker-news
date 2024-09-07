@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-06, 23:37:19",
+      "https://news.ycombinator.com/item?id=41470491"
+    ],
+    [
+      "Boost your development environment with Ubuntu Multipass",
+      "https://letsdebug.it/post/21-ubuntu-multipass/"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 22:22:12",
       "https://news.ycombinator.com/item?id=41470139"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2024-09-06, 22:18:06",
-      "https://news.ycombinator.com/item?id=41470123"
-    ],
-    [
-      "Leaked Disney+ financials may shed light on recent price hike",
-      "https://arstechnica.com/gadgets/2024/09/disney-made-2-4-billion-in-revenue-in-3-months-leak-claims/"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 22:13:47",
       "https://news.ycombinator.com/item?id=41470099"
     ],
     [
-      "Manipulating Large Language Models to Increase Product Visibility",
+      "Manipulating large language models to increase product visibility",
       "https://arxiv.org/abs/2404.07981"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=41440275"
     ],
     [
-      "LSP: The Good, the Bad, and the Ugly",
+      "LSP: The good, the bad, and the ugly",
       "https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html"
     ]
   ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-09-03, 14:43:01",
-      "https://news.ycombinator.com/item?id=41435444"
-    ],
-    [
-      "Your Name in Landsat",
-      "https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 11:59:56",
       "https://news.ycombinator.com/item?id=41434062"
     ],
     [
       "Will open science change chemistry?",
       "https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 05:47:40",
+      "https://news.ycombinator.com/item?id=41431679"
+    ],
+    [
+      "gRPC: The Ugly Parts",
+      "https://kmcd.dev/posts/grpc-the-ugly-parts/"
     ]
   ],
   [
