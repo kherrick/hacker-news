@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 17:18:50](https://news.ycombinator.com/item?id=41475018) - [Saddling up on the high seas – the cyclists powering 50-MPH yachts](https://www.bbc.com/sport/articles/c4ngydm1x55o)
 * [2024-09-07, 17:00:55](https://news.ycombinator.com/item?id=41474909) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-* [2024-09-07, 16:34:27](https://news.ycombinator.com/item?id=41474795) - [OK City Apple Retail Workers Become 2nd US Store to Secure Tentative Agreement](https://cwa-union.org/news/releases/cwa-represented-apple-retail-workers-oklahoma-city-become-second-us-store-secure)
 * [2024-09-07, 16:11:00](https://news.ycombinator.com/item?id=41474672) - [CSAM content on Bluesky has risen ten times in just a week](https://bsky.app/profile/aaron.bsky.team/post/3l3gerugkbt27)
 * [2024-09-07, 15:39:16](https://news.ycombinator.com/item?id=41474508) - [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
 * [2024-09-07, 15:06:47](https://news.ycombinator.com/item?id=41474311) - [Hindenburg's Interior: Photos Show What Luxury Air Travel Was Like in the 1930s](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
