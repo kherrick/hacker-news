@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 17:48:58](https://news.ycombinator.com/item?id=41475218) - [The \"email is authentication\" pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
 * [2024-09-07, 17:48:11](https://news.ycombinator.com/item?id=41475208) - [The YIMBYs Won over the Democrats](https://www.theatlantic.com/politics/archive/2024/09/yimby-victory-democratic-politics-harris/679717/)
 * [2024-09-07, 17:43:14](https://news.ycombinator.com/item?id=41475177) - [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
 * [2024-09-07, 17:32:48](https://news.ycombinator.com/item?id=41475124) - [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)

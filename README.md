@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 17:48:58](https://news.ycombinator.com/item?id=41475218) - [The \"email is authentication\" pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
 * [2024-09-07, 17:43:14](https://news.ycombinator.com/item?id=41475177) - [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
 * [2024-09-07, 17:32:48](https://news.ycombinator.com/item?id=41475124) - [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 17:00:55](https://news.ycombinator.com/item?id=41474909) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
@@ -12,7 +13,6 @@
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-07, 07:20:34](https://news.ycombinator.com/item?id=41472135) - [Richard Feynman and the Connection Machine (1989)](https://longnow.org/essays/richard-feynman-and-connection-machine/)
 * [2024-09-07, 06:39:48](https://news.ycombinator.com/item?id=41471961) - [Working Methods (Of a Historian)](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
-* [2024-09-07, 04:50:52](https://news.ycombinator.com/item?id=41471510) - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
 * [2024-09-07, 04:01:54](https://news.ycombinator.com/item?id=41471355) - [The Beginnings of FM Radio Broadcasting (2018)](http://www.theradiohistorian.org/fm/fm.html)
 * [2024-09-07, 00:26:39](https://news.ycombinator.com/item?id=41470688) - [Dance Choreography Notation (2017)](https://adafrobinson.wordpress.com/2017/02/22/keeping-score/)
 * [2024-09-06, 23:55:12](https://news.ycombinator.com/item?id=41470571) - [QtCS2024: Compile once, Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
@@ -20,6 +20,7 @@
 * [2024-09-06, 16:47:04](https://news.ycombinator.com/item?id=41467704) - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
+* [2024-09-06, 06:19:35](https://news.ycombinator.com/item?id=41463372) - [Adding algebraic data types to Nickel](https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/)
 * [2024-09-04, 17:54:29](https://news.ycombinator.com/item?id=41448545) - [Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
 * [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
@@ -27,7 +28,6 @@
 * [2024-09-03, 19:34:32](https://news.ycombinator.com/item?id=41438343) - [Zen, CUDA, and Tensor Cores, Part I: The Silicon](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i)
 * [2024-09-03, 19:27:08](https://news.ycombinator.com/item?id=41438262) - [Natural Piezoelectric Effect May Build Gold Deposits](https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/)
 * [2024-09-03, 15:38:11](https://news.ycombinator.com/item?id=41436009) - [Mapping 20k ships that sank during WW II](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
-* [2024-09-03, 11:59:56](https://news.ycombinator.com/item?id=41434062) - [Will open science change chemistry?](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article)
 * [2024-09-03, 08:43:43](https://news.ycombinator.com/item?id=41432710) - [Show HN: Shelly – A pure and vanilla shell-like interface for the web](https://github.com/galvao-eti/shelly)
 * [2024-09-03, 05:25:22](https://news.ycombinator.com/item?id=41431556) - [Show HN: Pulsar, micro creative coding playground](https://muffinman.io/pulsar/)
 
