@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 19:17:02](https://news.ycombinator.com/item?id=41475801) - [College Grades Have Become a Charade. It's Time to Abolish Them.](https://www.wsj.com/us-news/education/college-grades-have-become-acharade-its-time-to-abolish-them-ee4eb3fe)
+* [2024-09-07, 18:09:38](https://news.ycombinator.com/item?id=41475373) - [Exercise May Be the Most Potent Medical Intervention Ever Known](https://www.theringer.com/2024/8/30/24231888/importance-of-exercise-medical-intervention-cardiovascular-health)
 * [2024-09-07, 17:48:58](https://news.ycombinator.com/item?id=41475218) - [The \"email is authentication\" pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
 * [2024-09-07, 17:48:11](https://news.ycombinator.com/item?id=41475208) - [The YIMBYs Won over the Democrats](https://www.theatlantic.com/politics/archive/2024/09/yimby-victory-democratic-politics-harris/679717/)
 * [2024-09-07, 17:43:14](https://news.ycombinator.com/item?id=41475177) - [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
