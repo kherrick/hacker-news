@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-07, 21:57:31",
+      "https://news.ycombinator.com/item?id=41476704"
+    ],
+    [
+      "Landslides are destroying multimillion-dollar homes in CA, and are getting worse",
+      "https://www.cnn.com/2024/09/07/climate/rancho-palos-verdes-landslide-rainfall/index.html"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 21:14:43",
       "https://news.ycombinator.com/item?id=41476507"
     ],
@@ -97,6 +107,16 @@
     [
       "Substack (YC W18) Is Hiring Machine Learning Engineers",
       "https://grnh.se/d034f1ba5us"
+    ]
+  ],
+  [
+    [
+      "2024-09-07, 16:41:11",
+      "https://news.ycombinator.com/item?id=41474828"
+    ],
+    [
+      "Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code",
+      "https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Jacquard lab notebook: Version control and provenance for empirical research",
       "https://www.inkandswitch.com/jacquard/notebook/"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 14:27:47",
-      "https://news.ycombinator.com/item?id=41446248"
-    ],
-    [
-      "LÖVR – A simple Lua framework for rapidly building VR experiences",
-      "https://github.com/bjornbytes/lovr"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 12:28:20",
-      "https://news.ycombinator.com/item?id=41444855"
-    ],
-    [
-      "Show HN: Using SQL's Turing completeness to build Tetris",
-      "https://github.com/nuno-faria/tetris-sql"
     ]
   ],
   [
