@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-07, 04:50:52](https://news.ycombinator.com/item?id=41471510) - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
+* [2024-09-07, 04:44:37](https://news.ycombinator.com/item?id=41471488) - [What's new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 * [2024-09-07, 04:14:18](https://news.ycombinator.com/item?id=41471389) - [Boeing Starliner, leaving its crew behind, lands in New Mexico](https://www.cbsnews.com/news/boeing-starliner-leaves-crew-behind-returns-to-earth/)
 * [2024-09-07, 02:42:22](https://news.ycombinator.com/item?id=41471157) - [Browsing Hacker News in the Terminal](https://hnterm.ggerganov.com/)
 * [2024-09-06, 23:55:12](https://news.ycombinator.com/item?id=41470571) - [QtCS2024: Compile once, Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
@@ -13,7 +14,6 @@
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
 * [2024-09-06, 07:16:38](https://news.ycombinator.com/item?id=41463734) - [2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
-* [2024-09-05, 23:37:21](https://news.ycombinator.com/item?id=41461373) - [Beehive lab notebook: Local-first access control](https://www.inkandswitch.com/beehive/notebook/)
 * [2024-09-05, 18:44:01](https://news.ycombinator.com/item?id=41459373) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-05, 13:51:22](https://news.ycombinator.com/item?id=41456635) - [Minifying HTML for GPT-4o: Remove all the HTML tags](https://blancas.io/blog/html-minify-for-llm/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
