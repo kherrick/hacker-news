@@ -22,7 +22,7 @@
 * [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 11:52:41](https://news.ycombinator.com/item?id=41444590) - [How does cosine similarity work?](https://tomhazledine.com/cosine-similarity/)
 * [2024-09-03, 23:17:23](https://news.ycombinator.com/item?id=41440275) - [LSP: The good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
-* [2024-09-03, 20:10:13](https://news.ycombinator.com/item?id=41438696) - [Kawaii: Anime, Propaganda, and Soft Power Politics. [video]](https://www.youtube.com/watch?v=IM2VIKfaY0Y)
+* [2024-09-03, 21:29:54](https://news.ycombinator.com/item?id=41439442) - [The heiress at Harvard who helped revolutionize murder investigations](https://www.bostonglobe.com/2024/08/14/special-projects/the-woman-who-revolutionized-forensic-science/)
 * [2024-09-03, 19:34:32](https://news.ycombinator.com/item?id=41438343) - [Zen, CUDA, and Tensor Cores, Part I: The Silicon](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i)
 * [2024-09-03, 19:08:28](https://news.ycombinator.com/item?id=41438077) - [Moondance: Experience the marvel that is night-blooming tobacco](https://theamericanscholar.org/moondance/)
 * [2024-09-03, 16:50:26](https://news.ycombinator.com/item?id=41436734) - [Oya, I've heard of mega-ROMs](https://www.leadedsolder.com/2024/09/03/msx-megarom-oyanami.html)
