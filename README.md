@@ -2,6 +2,7 @@
 
 * [2024-09-07, 04:50:52](https://news.ycombinator.com/item?id=41471510) - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
 * [2024-09-07, 04:44:37](https://news.ycombinator.com/item?id=41471488) - [What's new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
+* [2024-09-07, 04:21:22](https://news.ycombinator.com/item?id=41471417) - [Ford Patents In-Car System That Eavesdrops So It Can Play You Ads](https://www.motortrend.com/news/ford-in-vehicle-advertising-patent/)
 * [2024-09-07, 04:14:18](https://news.ycombinator.com/item?id=41471389) - [Boeing Starliner, leaving its crew behind, lands in New Mexico](https://www.cbsnews.com/news/boeing-starliner-leaves-crew-behind-returns-to-earth/)
 * [2024-09-07, 02:42:22](https://news.ycombinator.com/item?id=41471157) - [Browsing Hacker News in the Terminal](https://hnterm.ggerganov.com/)
 * [2024-09-06, 23:55:12](https://news.ycombinator.com/item?id=41470571) - [QtCS2024: Compile once, Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
@@ -17,7 +18,6 @@
 * [2024-09-05, 18:44:01](https://news.ycombinator.com/item?id=41459373) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-05, 13:51:22](https://news.ycombinator.com/item?id=41456635) - [Minifying HTML for GPT-4o: Remove all the HTML tags](https://blancas.io/blog/html-minify-for-llm/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
-* [2024-09-04, 13:45:06](https://news.ycombinator.com/item?id=41445803) - [Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
 * [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 11:52:41](https://news.ycombinator.com/item?id=41444590) - [How does cosine similarity work?](https://tomhazledine.com/cosine-similarity/)
 * [2024-09-03, 23:17:23](https://news.ycombinator.com/item?id=41440275) - [LSP: The good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
