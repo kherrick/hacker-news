@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-07, 21:14:43",
+      "https://news.ycombinator.com/item?id=41476507"
+    ],
+    [
+      "Nonstandard Analysis (1972)",
+      "https://sci-hub.se/https://www.jstor.org/stable/24927363"
+    ]
+  ],
+  [
+    [
+      "2024-09-07, 20:17:43",
+      "https://news.ycombinator.com/item?id=41476221"
+    ],
+    [
+      "Engineer's guide to convincing your Product Manager to prioritize technical debt",
+      "https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 19:10:25",
       "https://news.ycombinator.com/item?id=41475760"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-09-06, 07:27:06",
-      "https://news.ycombinator.com/item?id=41463809"
-    ],
-    [
-      "Did Sandia use a thermonuclear secondary in a product logo?",
-      "https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 06:19:35",
       "https://news.ycombinator.com/item?id=41463372"
     ],
     [
       "Adding algebraic data types to Nickel",
       "https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 13:51:22",
-      "https://news.ycombinator.com/item?id=41456635"
-    ],
-    [
-      "Minifying HTML for GPT-4o: Remove all the HTML tags",
-      "https://blancas.io/blog/html-minify-for-llm/"
     ]
   ],
   [
