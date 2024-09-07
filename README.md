@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 22:35:31](https://news.ycombinator.com/item?id=41476873) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
+* [2024-09-07, 22:23:16](https://news.ycombinator.com/item?id=41476823) - [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
 * [2024-09-07, 22:12:53](https://news.ycombinator.com/item?id=41476778) - [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
-* [2024-09-07, 21:14:43](https://news.ycombinator.com/item?id=41476507) - [Nonstandard Analysis (1972)](https://sci-hub.se/https://www.jstor.org/stable/24927363)
 * [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 * [2024-09-07, 19:28:24](https://news.ycombinator.com/item?id=41475872) - [Alternatives to Google Products – Updated](https://peq42.com/blog/alternatives-to-google-products/)
 * [2024-09-07, 19:10:25](https://news.ycombinator.com/item?id=41475760) - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
@@ -18,7 +19,6 @@
 * [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-07, 04:01:54](https://news.ycombinator.com/item?id=41471355) - [The Beginnings of FM Radio Broadcasting (2018)](http://www.theradiohistorian.org/fm/fm.html)
-* [2024-09-07, 00:26:39](https://news.ycombinator.com/item?id=41470688) - [Dance Choreography Notation (2017)](https://adafrobinson.wordpress.com/2017/02/22/keeping-score/)
 * [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
 * [2024-09-06, 23:27:21](https://news.ycombinator.com/item?id=41470440) - [Memorizing the first 100 perfect squares (2022)](https://dzhu.page/mathematics/memorizing-100-perfect-squares/)
 * [2024-09-06, 16:41:46](https://news.ycombinator.com/item?id=41467675) - [Against Rereading](https://www.theparisreview.org/blog/2024/09/04/against-rereading/)

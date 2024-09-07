@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 22:35:31](https://news.ycombinator.com/item?id=41476873) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
+* [2024-09-07, 22:23:16](https://news.ycombinator.com/item?id=41476823) - [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
 * [2024-09-07, 22:12:53](https://news.ycombinator.com/item?id=41476778) - [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
 * [2024-09-07, 21:57:31](https://news.ycombinator.com/item?id=41476704) - [Landslides are destroying multimillion-dollar homes in CA, and are getting worse](https://www.cnn.com/2024/09/07/climate/rancho-palos-verdes-landslide-rainfall/index.html)
 * [2024-09-07, 21:14:43](https://news.ycombinator.com/item?id=41476507) - [Nonstandard Analysis (1972)](https://sci-hub.se/https://www.jstor.org/stable/24927363)
