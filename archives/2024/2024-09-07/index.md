@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 06:50:17](https://news.ycombinator.com/item?id=41472027) - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
 * [2024-09-07, 06:05:12](https://news.ycombinator.com/item?id=41471799) - [Check for malicious IPs using DNS](https://ipshield.dev/)
 * [2024-09-07, 05:44:55](https://news.ycombinator.com/item?id=41471713) - [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
 * [2024-09-07, 05:43:29](https://news.ycombinator.com/item?id=41471707) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)

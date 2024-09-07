@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 06:50:17](https://news.ycombinator.com/item?id=41472027) - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
 * [2024-09-07, 06:05:12](https://news.ycombinator.com/item?id=41471799) - [Check for malicious IPs using DNS](https://ipshield.dev/)
 * [2024-09-07, 05:44:55](https://news.ycombinator.com/item?id=41471713) - [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
 * [2024-09-07, 05:43:29](https://news.ycombinator.com/item?id=41471707) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
@@ -24,7 +25,6 @@
 * [2024-09-03, 19:34:32](https://news.ycombinator.com/item?id=41438343) - [Zen, CUDA, and Tensor Cores, Part I: The Silicon](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i)
 * [2024-09-03, 19:27:08](https://news.ycombinator.com/item?id=41438262) - [Natural Piezoelectric Effect May Build Gold Deposits](https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/)
 * [2024-09-03, 19:09:35](https://news.ycombinator.com/item?id=41438089) - [Creating an empty iterator of a certain type in Rust](https://www.freedomlayer.org/offset/option-iterator/)
-* [2024-09-03, 16:50:26](https://news.ycombinator.com/item?id=41436734) - [Oya, I've heard of mega-ROMs](https://www.leadedsolder.com/2024/09/03/msx-megarom-oyanami.html)
 * [2024-09-03, 15:38:11](https://news.ycombinator.com/item?id=41436009) - [Mapping 20k ships that sank during WW II](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
 * [2024-09-03, 12:05:21](https://news.ycombinator.com/item?id=41434106) - [How to Make Windows XP Safe (and Fast) (2020)](http://www.wzsn.net/xp/index.html)
 * [2024-09-03, 11:59:56](https://news.ycombinator.com/item?id=41434062) - [Will open science change chemistry?](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article)
