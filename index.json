@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-07, 04:50:52",
+      "https://news.ycombinator.com/item?id=41471510"
+    ],
+    [
+      "Malaysia started mandating ISPs to redirect DNS queries to local servers",
+      "https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 04:14:18",
       "https://news.ycombinator.com/item?id=41471389"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41470571"
     ],
     [
-      "QtCS2024 Compile once. Run everywhere",
+      "QtCS2024: Compile once, Run everywhere",
       "https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "Boost your development environment with Ubuntu Multipass",
       "https://letsdebug.it/post/21-ubuntu-multipass/"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 22:13:47",
-      "https://news.ycombinator.com/item?id=41470099"
-    ],
-    [
-      "Manipulating large language models to increase product visibility",
-      "https://arxiv.org/abs/2404.07981"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-09-04, 17:34:55",
-      "https://news.ycombinator.com/item?id=41448347"
-    ],
-    [
-      "Decommissioning my first commercial product",
-      "https://binarysolo.blog/decommissioning-my-first-commercial-product/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 14:27:47",
       "https://news.ycombinator.com/item?id=41446248"
     ],
@@ -237,6 +227,16 @@
     [
       "Zen, CUDA, and Tensor Cores, Part I: The Silicon",
       "https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 19:09:35",
+      "https://news.ycombinator.com/item?id=41438089"
+    ],
+    [
+      "Creating an empty iterator of a certain type in Rust",
+      "https://www.freedomlayer.org/offset/option-iterator/"
     ]
   ],
   [
