@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-07, 13:43:45](https://news.ycombinator.com/item?id=41473905) - [Scientists invent nanorobots that can repair brain aneurysms](https://www.livescience.com/health/scientists-invent-nanorobots-that-can-repair-brain-aneurysms)
 * [2024-09-07, 13:17:09](https://news.ycombinator.com/item?id=41473782) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
 * [2024-09-07, 12:00:59](https://news.ycombinator.com/item?id=41473405) - [Sieve (YC W22) Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
 * [2024-09-07, 10:44:08](https://news.ycombinator.com/item?id=41473061) - [Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
@@ -18,6 +17,7 @@
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
+* [2024-09-05, 13:51:22](https://news.ycombinator.com/item?id=41456635) - [Minifying HTML for GPT-4o: Remove all the HTML tags](https://blancas.io/blog/html-minify-for-llm/)
 * [2024-09-04, 17:54:29](https://news.ycombinator.com/item?id=41448545) - [Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
 * [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
