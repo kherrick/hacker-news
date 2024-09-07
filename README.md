@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 19:37:51](https://news.ycombinator.com/item?id=41475932) - [Paddle closed accounts with 1 week notice, leaving many founders in shock](https://twitter.com/vietyork/status/1832145475786670482)
 * [2024-09-07, 19:17:02](https://news.ycombinator.com/item?id=41475801) - [College Grades Have Become a Charade. It's Time to Abolish Them.](https://www.wsj.com/us-news/education/college-grades-have-become-acharade-its-time-to-abolish-them-ee4eb3fe)
-* [2024-09-07, 19:01:17](https://news.ycombinator.com/item?id=41475697) - [Amazon's $1,600 Astro robot has FOUR CPUs running Linux?](https://mastodon.social/@zhuowei@notnow.dev/113097708118539407)
+* [2024-09-07, 19:10:25](https://news.ycombinator.com/item?id=41475760) - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
 * [2024-09-07, 18:46:43](https://news.ycombinator.com/item?id=41475618) - [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer's suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
 * [2024-09-07, 18:09:38](https://news.ycombinator.com/item?id=41475373) - [Exercise May Be the Most Potent Medical Intervention Ever Known](https://www.theringer.com/2024/8/30/24231888/importance-of-exercise-medical-intervention-cardiovascular-health)
 * [2024-09-07, 17:48:58](https://news.ycombinator.com/item?id=41475218) - [The \"email is authentication\" pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
@@ -26,7 +27,6 @@
 * [2024-09-04, 12:28:20](https://news.ycombinator.com/item?id=41444855) - [Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 * [2024-09-03, 19:34:32](https://news.ycombinator.com/item?id=41438343) - [Zen, CUDA, and Tensor Cores, Part I: The Silicon](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i)
-* [2024-09-03, 19:27:08](https://news.ycombinator.com/item?id=41438262) - [Natural Piezoelectric Effect May Build Gold Deposits](https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/)
 * [2024-09-03, 15:38:11](https://news.ycombinator.com/item?id=41436009) - [Mapping 20k ships that sank during WW II](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
 * [2024-09-03, 08:43:43](https://news.ycombinator.com/item?id=41432710) - [Show HN: Shelly – A pure and vanilla shell-like interface for the web](https://github.com/galvao-eti/shelly)
 * [2024-09-03, 05:25:22](https://news.ycombinator.com/item?id=41431556) - [Show HN: Pulsar, micro creative coding playground](https://muffinman.io/pulsar/)
