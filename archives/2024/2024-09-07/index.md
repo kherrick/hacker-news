@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 12:00:59](https://news.ycombinator.com/item?id=41473405) - [Sieve (YC W22) Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
 * [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-07, 08:40:19](https://news.ycombinator.com/item?id=41472491) - [DNS Doesn't Propagate (2021)](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
+* [2024-09-07, 07:20:34](https://news.ycombinator.com/item?id=41472135) - [Richard Feynman and the Connection Machine](https://longnow.org/essays/richard-feynman-and-connection-machine/)
 * [2024-09-07, 06:50:17](https://news.ycombinator.com/item?id=41472027) - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
 * [2024-09-07, 06:39:48](https://news.ycombinator.com/item?id=41471961) - [Working Methods (Of a Historian)](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
 * [2024-09-07, 06:05:12](https://news.ycombinator.com/item?id=41471799) - [Check for malicious IPs using DNS](https://ipshield.dev/)

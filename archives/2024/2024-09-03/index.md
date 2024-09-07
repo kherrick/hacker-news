@@ -89,6 +89,7 @@
 * [2024-09-03, 08:30:32](https://news.ycombinator.com/item?id=41432625) - [Software Rasterizing Hair](https://www.sctheblog.com/blog/hair-software-rasterize/)
 * [2024-09-03, 08:15:28](https://news.ycombinator.com/item?id=41432536) - [Amazon is trying to trick me into signing up for Prime services](https://www.theguardian.com/money/article/2024/sep/02/amazon-is-trying-to-trick-me-into-signing-up-for-prime-services)
 * [2024-09-03, 08:14:07](https://news.ycombinator.com/item?id=41432525) - [Hugging Face tackles speech-to-speech](https://github.com/huggingface/speech-to-speech)
+* [2024-09-03, 07:58:52](https://news.ycombinator.com/item?id=41432443) - [Glue and Coprocessor Architectures](https://vitalik.eth.limo/general/2024/09/02/gluecp.html)
 * [2024-09-03, 07:52:09](https://news.ycombinator.com/item?id=41432396) - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
 * [2024-09-03, 07:44:03](https://news.ycombinator.com/item?id=41432344) - [Railroad Diagram Generator (from EBNF syntax)](https://rr.red-dove.com/ui)
 * [2024-09-03, 07:28:16](https://news.ycombinator.com/item?id=41432257) - [Keeping CALM: When distributed consistency is easy](https://arxiv.org/abs/1901.01930)
