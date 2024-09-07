@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-07, 08:40:19](https://news.ycombinator.com/item?id=41472491) - [DNS Doesn't Propagate (2021)](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 * [2024-09-07, 06:50:17](https://news.ycombinator.com/item?id=41472027) - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
 * [2024-09-07, 06:05:12](https://news.ycombinator.com/item?id=41471799) - [Check for malicious IPs using DNS](https://ipshield.dev/)
 * [2024-09-07, 05:44:55](https://news.ycombinator.com/item?id=41471713) - [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
@@ -27,7 +28,6 @@
 * [2024-09-03, 19:09:35](https://news.ycombinator.com/item?id=41438089) - [Creating an empty iterator of a certain type in Rust (2018)](https://www.freedomlayer.org/offset/option-iterator/)
 * [2024-09-03, 15:38:11](https://news.ycombinator.com/item?id=41436009) - [Mapping 20k ships that sank during WW II](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
 * [2024-09-03, 12:05:21](https://news.ycombinator.com/item?id=41434106) - [How to Make Windows XP Safe (and Fast) (2020)](http://www.wzsn.net/xp/index.html)
-* [2024-09-03, 11:59:56](https://news.ycombinator.com/item?id=41434062) - [Will open science change chemistry?](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article)
 * [2024-09-03, 05:47:40](https://news.ycombinator.com/item?id=41431679) - [gRPC: The Ugly Parts](https://kmcd.dev/posts/grpc-the-ugly-parts/)
 * [2024-09-03, 05:25:22](https://news.ycombinator.com/item?id=41431556) - [Pulsar, micro creative coding playground](https://muffinman.io/pulsar/)
 
