@@ -15,7 +15,6 @@
 * [2024-09-06, 12:56:15](https://news.ycombinator.com/item?id=41465735) - [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 * [2024-09-06, 11:21:57](https://news.ycombinator.com/item?id=41465081) - [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [2024-09-06, 07:27:06](https://news.ycombinator.com/item?id=41463809) - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
-* [2024-09-06, 07:16:38](https://news.ycombinator.com/item?id=41463734) - [2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
 * [2024-09-05, 13:51:22](https://news.ycombinator.com/item?id=41456635) - [Minifying HTML for GPT-4o: Remove all the HTML tags](https://blancas.io/blog/html-minify-for-llm/)
 * [2024-09-04, 14:27:47](https://news.ycombinator.com/item?id=41446248) - [LÖVR – A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
 * [2024-09-04, 13:45:06](https://news.ycombinator.com/item?id=41445803) - [Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
@@ -29,6 +28,7 @@
 * [2024-09-03, 16:50:26](https://news.ycombinator.com/item?id=41436734) - [Oya, I've heard of mega-ROMs](https://www.leadedsolder.com/2024/09/03/msx-megarom-oyanami.html)
 * [2024-09-03, 15:38:11](https://news.ycombinator.com/item?id=41436009) - [Mapping 20k ships that sank during WW II](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
 * [2024-09-03, 11:59:56](https://news.ycombinator.com/item?id=41434062) - [Will open science change chemistry?](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article)
+* [2024-09-03, 08:39:24](https://news.ycombinator.com/item?id=41432682) - [The Theory of Topos-Theoretic 'Bridges' – A Conceptual Introduction (2016)](https://www.glass-bead.org/article/the-theory-of-topos-theoretic-bridges-a-conceptual-introduction/)
 * [2024-09-03, 05:25:22](https://news.ycombinator.com/item?id=41431556) - [Pulsar, micro creative coding playground](https://muffinman.io/pulsar/)
 
 ## [Archives](archives/index.md)
