@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2024-09-07, 21:57:31",
-      "https://news.ycombinator.com/item?id=41476704"
-    ],
-    [
-      "Landslides are destroying multimillion-dollar homes in CA, and are getting worse",
-      "https://www.cnn.com/2024/09/07/climate/rancho-palos-verdes-landslide-rainfall/index.html"
-    ]
-  ],
-  [
-    [
       "2024-09-07, 21:14:43",
       "https://news.ycombinator.com/item?id=41476507"
     ],
     [
       "Nonstandard Analysis (1972)",
       "https://sci-hub.se/https://www.jstor.org/stable/24927363"
-    ]
-  ],
-  [
-    [
-      "2024-09-07, 21:14:26",
-      "https://news.ycombinator.com/item?id=41476505"
-    ],
-    [
-      "Raspberry Pi Showcases Rust on the RP2350 Microcontroller",
-      "https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust"
     ]
   ],
   [
@@ -191,16 +171,6 @@
   ],
   [
     [
-      "2024-09-07, 06:39:48",
-      "https://news.ycombinator.com/item?id=41471961"
-    ],
-    [
-      "Working Methods (of a Historian)",
-      "https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary"
-    ]
-  ],
-  [
-    [
       "2024-09-07, 04:01:54",
       "https://news.ycombinator.com/item?id=41471355"
     ],
@@ -221,12 +191,52 @@
   ],
   [
     [
-      "2024-09-06, 11:21:57",
-      "https://news.ycombinator.com/item?id=41465081"
+      "2024-09-06, 23:42:57",
+      "https://news.ycombinator.com/item?id=41470518"
     ],
     [
-      "Effects of Gen AI on High Skilled Work: Experiments with Software Developers",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566"
+      "Groups underpin modern math",
+      "https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 23:27:21",
+      "https://news.ycombinator.com/item?id=41470440"
+    ],
+    [
+      "Memorizing the first 100 perfect squares (2022)",
+      "https://dzhu.page/mathematics/memorizing-100-perfect-squares/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 16:41:46",
+      "https://news.ycombinator.com/item?id=41467675"
+    ],
+    [
+      "Against Rereading",
+      "https://www.theparisreview.org/blog/2024/09/04/against-rereading/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 15:29:17",
+      "https://news.ycombinator.com/item?id=41467054"
+    ],
+    [
+      "SQLToy",
+      "https://github.com/weinberg/SQLToy/wiki"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 12:40:36",
+      "https://news.ycombinator.com/item?id=41465609"
+    ],
+    [
+      "Simon Verity believed in working the medieval way",
+      "https://www.economist.com/obituary/2024/09/04/simon-verity-believed-in-working-the-medieval-way"
     ]
   ],
   [
@@ -237,6 +247,16 @@
     [
       "Adding algebraic data types to Nickel",
       "https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 05:18:15",
+      "https://news.ycombinator.com/item?id=41463124"
+    ],
+    [
+      "How to wrap a C compiler and preprocessor, really",
+      "https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-09-04, 17:54:29",
-      "https://news.ycombinator.com/item?id=41448545"
-    ],
-    [
-      "Jacquard lab notebook: Version control and provenance for empirical research",
-      "https://www.inkandswitch.com/jacquard/notebook/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 01:27:05",
       "https://news.ycombinator.com/item?id=41440997"
     ],
     [
       "Dogs can remember names of toys years after not seeing them, study shows",
       "https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 19:34:32",
-      "https://news.ycombinator.com/item?id=41438343"
-    ],
-    [
-      "Zen, CUDA, and Tensor Cores, Part I: The Silicon",
-      "https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i"
     ]
   ]
 ]
