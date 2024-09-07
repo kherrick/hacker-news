@@ -9,6 +9,7 @@
 * [2024-09-07, 20:17:43](https://news.ycombinator.com/item?id=41476221) - [Engineer's guide to convincing your Product Manager to prioritize technical debt](https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your)
 * [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 * [2024-09-07, 19:37:51](https://news.ycombinator.com/item?id=41475932) - [Paddle closed accounts with 1 week notice, leaving many founders in shock](https://twitter.com/vietyork/status/1832145475786670482)
+* [2024-09-07, 19:28:24](https://news.ycombinator.com/item?id=41475872) - [Alternatives to Google Products – Updated](https://peq42.com/blog/alternatives-to-google-products/)
 * [2024-09-07, 19:17:02](https://news.ycombinator.com/item?id=41475801) - [College Grades Have Become a Charade. It's Time to Abolish Them.](https://www.wsj.com/us-news/education/college-grades-have-become-acharade-its-time-to-abolish-them-ee4eb3fe)
 * [2024-09-07, 19:10:25](https://news.ycombinator.com/item?id=41475760) - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
 * [2024-09-07, 19:01:17](https://news.ycombinator.com/item?id=41475697) - [Amazon's $1,600 Astro robot has FOUR CPUs running Linux?](https://mastodon.social/@zhuowei@notnow.dev/113097708118539407)
