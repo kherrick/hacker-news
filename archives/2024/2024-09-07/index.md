@@ -15,3 +15,4 @@
 * [2024-09-07, 04:21:22](https://news.ycombinator.com/item?id=41471417) - [Ford Patents In-Car System That Eavesdrops So It Can Play You Ads](https://www.motortrend.com/news/ford-in-vehicle-advertising-patent/)
 * [2024-09-07, 04:14:18](https://news.ycombinator.com/item?id=41471389) - [Boeing Starliner, leaving its crew behind, lands in New Mexico](https://www.cbsnews.com/news/boeing-starliner-leaves-crew-behind-returns-to-earth/)
 * [2024-09-07, 02:42:22](https://news.ycombinator.com/item?id=41471157) - [Browsing Hacker News in the Terminal](https://hnterm.ggerganov.com/)
+* [2024-09-07, 02:26:19](https://news.ycombinator.com/item?id=41471116) - [Batteries are a fast-growing secondary electricity source for the grid](https://www.eia.gov/todayinenergy/detail.php?id=63025)
