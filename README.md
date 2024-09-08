@@ -28,7 +28,7 @@
 * [2024-09-04, 23:38:43](https://news.ycombinator.com/item?id=41451969) - [A day in the life of the fastest supercomputer](https://www.nature.com/articles/d41586-024-02832-5)
 * [2024-09-04, 22:28:58](https://news.ycombinator.com/item?id=41451540) - [Early science and stone engineering in Menga, a Neolithic dolmen](https://www.science.org/doi/10.1126/sciadv.adp1295)
 * [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
-* [2024-09-04, 04:29:04](https://news.ycombinator.com/item?id=41441902) - [Rethinking Addiction as a Chronic Brain Disease](https://www.nytimes.com/2024/09/03/health/addiction-disease-choice.html)
+* [2024-09-04, 04:29:04](https://news.ycombinator.com/item?id=41441902) - [Rethinking addiction as a chronic brain disease](https://www.nytimes.com/2024/09/03/health/addiction-disease-choice.html)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 
 ## [Archives](archives/index.md)
