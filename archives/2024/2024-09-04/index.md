@@ -101,6 +101,7 @@
 * [2024-09-04, 08:44:37](https://news.ycombinator.com/item?id=41443336) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
 * [2024-09-04, 08:29:20](https://news.ycombinator.com/item?id=41443222) - [Tech failure nearly caused massive flood in Amsterdam](https://nltimes.nl/2024/09/03/tech-failure-nearly-caused-massive-flood-amsterdam-city-center-november-2023)
 * [2024-09-04, 08:13:42](https://news.ycombinator.com/item?id=41443107) - [\"SRE\" doesn't seem to mean anything useful any more](https://rachelbythebay.com/w/2024/09/03/ops/)
+* [2024-09-04, 07:56:48](https://news.ycombinator.com/item?id=41443012) - [LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)
 * [2024-09-04, 07:07:15](https://news.ycombinator.com/item?id=41442705) - [Immigration has remade the U.S. labor force](https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee)
 * [2024-09-04, 07:04:39](https://news.ycombinator.com/item?id=41442688) - [I made a super simple diff tool that's free and has no annoying ads](https://www.littlediffer.com/)
 * [2024-09-04, 07:00:23](https://news.ycombinator.com/item?id=41442655) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
