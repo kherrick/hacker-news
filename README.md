@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-08, 09:36:41](https://news.ycombinator.com/item?id=41479283) - [Don't defer Close() on writable files](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
 * [2024-09-08, 09:33:07](https://news.ycombinator.com/item?id=41479261) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 08:35:01](https://news.ycombinator.com/item?id=41479035) - [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
@@ -28,6 +27,7 @@
 * [2024-09-05, 06:09:40](https://news.ycombinator.com/item?id=41454012) - [Why OpenStack and Kata Containers are both seeing a resurgence of adoption](https://www.zdnet.com/article/why-openstack-and-kata-containers-are-both-seeing-a-resurgence-of-adoption/)
 * [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 22:28:58](https://news.ycombinator.com/item?id=41451540) - [Early science and stone engineering in Menga, a Neolithic dolmen](https://www.science.org/doi/10.1126/sciadv.adp1295)
+* [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 18:19:10](https://news.ycombinator.com/item?id=41448799) - [Pick Your Distributed Poison](https://hazelweakly.me/blog/pick-your-distributed-poison/)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 
