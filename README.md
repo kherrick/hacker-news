@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-08, 04:40:12](https://news.ycombinator.com/item?id=41478241) - [We should train AI in space [pdf]](https://lumenorbit.github.io/wp.pdf)
 * [2024-09-08, 04:05:36](https://news.ycombinator.com/item?id=41478138) - [Baiting the Bots](https://conspirator0.substack.com/p/baiting-the-bot)
 * [2024-09-08, 01:15:04](https://news.ycombinator.com/item?id=41477516) - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
 * [2024-09-08, 00:55:19](https://news.ycombinator.com/item?id=41477446) - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
@@ -24,7 +25,6 @@
 * [2024-09-06, 06:19:35](https://news.ycombinator.com/item?id=41463372) - [Adding algebraic data types to Nickel](https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/)
 * [2024-09-06, 05:18:15](https://news.ycombinator.com/item?id=41463124) - [How to wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
 * [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the Wrong Questions](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
-* [2024-09-04, 20:42:47](https://news.ycombinator.com/item?id=41450563) - [Tire-related chemical responsible for salmon deaths in urban streams (2020)](https://www.washington.edu/news/2020/12/03/tire-related-chemical-largely-responsible-for-adult-coho-salmon-deaths-in-urban-streams/)
 * [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 18:19:10](https://news.ycombinator.com/item?id=41448799) - [Pick Your Distributed Poison](https://hazelweakly.me/blog/pick-your-distributed-poison/)
 * [2024-09-04, 09:05:19](https://news.ycombinator.com/item?id=41443466) - [Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results [pdf]](https://patricklam.ca/papers/24.onward.abs-debug.pdf)
