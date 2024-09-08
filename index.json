@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-08, 01:15:04",
+      "https://news.ycombinator.com/item?id=41477516"
+    ],
+    [
+      "GPT-fabricated scientific papers on Google Scholar",
+      "https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 22:35:31",
       "https://news.ycombinator.com/item?id=41476873"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-09-06, 23:27:21",
-      "https://news.ycombinator.com/item?id=41470440"
-    ],
-    [
-      "Memorizing the first 100 perfect squares (2022)",
-      "https://dzhu.page/mathematics/memorizing-100-perfect-squares/"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 16:41:46",
       "https://news.ycombinator.com/item?id=41467675"
     ],
@@ -237,16 +237,6 @@
     [
       "How to wrap a C compiler and preprocessor, really",
       "https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 22:48:02",
-      "https://news.ycombinator.com/item?id=41451668"
-    ],
-    [
-      "Mushroom learns to crawl after being given robot body",
-      "https://www.independent.co.uk/tech/robot-mushroom-biohybrid-robotics-cornell-b2606970.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Dogs can remember names of toys years after not seeing them, study shows",
       "https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 20:25:56",
+      "https://news.ycombinator.com/item?id=41438866"
+    ],
+    [
+      "An Optimization That's Impossible in Rust",
+      "https://www.tunglevo.com/note/an-optimization-thats-impossible-in-rust/"
     ]
   ]
 ]
