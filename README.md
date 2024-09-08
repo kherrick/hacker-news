@@ -15,7 +15,6 @@
 * [2024-09-07, 16:41:11](https://news.ycombinator.com/item?id=41474828) - [Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:39:16](https://news.ycombinator.com/item?id=41474508) - [A Post-Google World?](https://www.thebignewsletter.com/p/a-post-google-world)
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Things to know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
-* [2024-09-07, 14:19:25](https://news.ycombinator.com/item?id=41474080) - [Four Thieves Vinegar Collective – Harm Reduction for the Living](https://fourthievesvinegar.org/)
 * [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-07, 04:01:54](https://news.ycombinator.com/item?id=41471355) - [The Beginnings of FM Radio Broadcasting (2018)](http://www.theradiohistorian.org/fm/fm.html)
@@ -29,6 +28,7 @@
 * [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 18:19:10](https://news.ycombinator.com/item?id=41448799) - [Pick Your Distributed Poison](https://hazelweakly.me/blog/pick-your-distributed-poison/)
 * [2024-09-04, 09:05:19](https://news.ycombinator.com/item?id=41443466) - [Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results [pdf]](https://patricklam.ca/papers/24.onward.abs-debug.pdf)
+* [2024-09-04, 03:11:46](https://news.ycombinator.com/item?id=41441530) - [(Fixing) Determinism in Robotics Testing](https://basis-robotics.github.io/basis-website/2024/09/02/determinism/)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 
 ## [Archives](archives/index.md)

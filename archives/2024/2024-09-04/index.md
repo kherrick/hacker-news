@@ -108,6 +108,7 @@
 * [2024-09-04, 05:46:47](https://news.ycombinator.com/item?id=41442288) - [The German problem? It's an analogue country in a digital world](https://www.theguardian.com/business/article/2024/sep/01/germany-economy-problem-analogue-industries)
 * [2024-09-04, 04:45:41](https://news.ycombinator.com/item?id=41441990) - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 * [2024-09-04, 03:23:58](https://news.ycombinator.com/item?id=41441593) - [Why is single threaded Redis so fast](https://www.pixelstech.net/article/1677580861-Why-is-single-threaded-Redis-so-fast)
+* [2024-09-04, 03:11:46](https://news.ycombinator.com/item?id=41441530) - [(Fixing) Determinism in Robotics Testing](https://basis-robotics.github.io/basis-website/2024/09/02/determinism/)
 * [2024-09-04, 03:03:08](https://news.ycombinator.com/item?id=41441486) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
 * [2024-09-04, 02:40:36](https://news.ycombinator.com/item?id=41441366) - [How much is AI hurting the planet? Big tech won't tell us](https://mashable.com/article/ai-environment-energy)
 * [2024-09-04, 02:21:46](https://news.ycombinator.com/item?id=41441260) - [Bolivia moves World Cup qualifier to even higher altitude, hoping to boost play](https://apnews.com/article/bolivia-soccer-altitude-world-cup-qualifiers-conmebol-7eb4bb42d9ad2fe2b3be065cddcb912d)
