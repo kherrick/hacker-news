@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-08, 09:33:07](https://news.ycombinator.com/item?id=41479261) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 08:35:01](https://news.ycombinator.com/item?id=41479035) - [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
 * [2024-09-08, 06:51:44](https://news.ycombinator.com/item?id=41478664) - [Malaysia backtracks on DNS redirection decision](https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194)
@@ -17,7 +18,6 @@
 * [2024-09-07, 17:32:48](https://news.ycombinator.com/item?id=41475124) - [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 16:41:11](https://news.ycombinator.com/item?id=41474828) - [Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Things to know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
-* [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
 * [2024-09-06, 15:29:17](https://news.ycombinator.com/item?id=41467054) - [SQLToy](https://github.com/weinberg/SQLToy/wiki)
