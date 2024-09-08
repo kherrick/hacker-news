@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-08, 01:15:04](https://news.ycombinator.com/item?id=41477516) - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
 * [2024-09-07, 22:35:31](https://news.ycombinator.com/item?id=41476873) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 * [2024-09-07, 22:23:16](https://news.ycombinator.com/item?id=41476823) - [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
 * [2024-09-07, 22:12:53](https://news.ycombinator.com/item?id=41476778) - [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
@@ -19,17 +20,16 @@
 * [2024-09-07, 04:01:54](https://news.ycombinator.com/item?id=41471355) - [The Beginnings of FM Radio Broadcasting (2018)](http://www.theradiohistorian.org/fm/fm.html)
 * [2024-09-07, 00:26:39](https://news.ycombinator.com/item?id=41470688) - [Dance Choreography Notation (2017)](https://adafrobinson.wordpress.com/2017/02/22/keeping-score/)
 * [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
-* [2024-09-06, 23:27:21](https://news.ycombinator.com/item?id=41470440) - [Memorizing the first 100 perfect squares (2022)](https://dzhu.page/mathematics/memorizing-100-perfect-squares/)
 * [2024-09-06, 16:41:46](https://news.ycombinator.com/item?id=41467675) - [Against Rereading](https://www.theparisreview.org/blog/2024/09/04/against-rereading/)
 * [2024-09-06, 15:29:17](https://news.ycombinator.com/item?id=41467054) - [SQLToy](https://github.com/weinberg/SQLToy/wiki)
 * [2024-09-06, 06:19:35](https://news.ycombinator.com/item?id=41463372) - [Adding algebraic data types to Nickel](https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/)
 * [2024-09-06, 05:18:15](https://news.ycombinator.com/item?id=41463124) - [How to wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
-* [2024-09-04, 22:48:02](https://news.ycombinator.com/item?id=41451668) - [Mushroom learns to crawl after being given robot body](https://www.independent.co.uk/tech/robot-mushroom-biohybrid-robotics-cornell-b2606970.html)
 * [2024-09-04, 20:42:47](https://news.ycombinator.com/item?id=41450563) - [Tire-related chemical responsible for salmon deaths in urban streams (2020)](https://www.washington.edu/news/2020/12/03/tire-related-chemical-largely-responsible-for-adult-coho-salmon-deaths-in-urban-streams/)
 * [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 18:19:10](https://news.ycombinator.com/item?id=41448799) - [Pick Your Distributed Poison](https://hazelweakly.me/blog/pick-your-distributed-poison/)
 * [2024-09-04, 17:54:29](https://news.ycombinator.com/item?id=41448545) - [Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
+* [2024-09-03, 20:25:56](https://news.ycombinator.com/item?id=41438866) - [An Optimization That's Impossible in Rust](https://www.tunglevo.com/note/an-optimization-thats-impossible-in-rust/)
 
 ## [Archives](archives/index.md)
 
