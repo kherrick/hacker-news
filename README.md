@@ -2,6 +2,7 @@
 
 * [2024-09-08, 04:40:12](https://news.ycombinator.com/item?id=41478241) - [We should train AI in space [pdf]](https://lumenorbit.github.io/wp.pdf)
 * [2024-09-08, 04:05:36](https://news.ycombinator.com/item?id=41478138) - [Baiting the Bots](https://conspirator0.substack.com/p/baiting-the-bot)
+* [2024-09-08, 02:26:56](https://news.ycombinator.com/item?id=41477782) - [FutureRack: Server racks are everywhere. Now you can find them in your home](https://futurerack.info/main.php)
 * [2024-09-08, 01:15:04](https://news.ycombinator.com/item?id=41477516) - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
 * [2024-09-08, 00:55:19](https://news.ycombinator.com/item?id=41477446) - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
 * [2024-09-07, 22:35:31](https://news.ycombinator.com/item?id=41476873) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
@@ -18,7 +19,6 @@
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Things to know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
 * [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
-* [2024-09-07, 04:01:54](https://news.ycombinator.com/item?id=41471355) - [The Beginnings of FM Radio Broadcasting (2018)](http://www.theradiohistorian.org/fm/fm.html)
 * [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
 * [2024-09-06, 16:41:46](https://news.ycombinator.com/item?id=41467675) - [Against Rereading](https://www.theparisreview.org/blog/2024/09/04/against-rereading/)
 * [2024-09-06, 15:29:17](https://news.ycombinator.com/item?id=41467054) - [SQLToy](https://github.com/weinberg/SQLToy/wiki)
