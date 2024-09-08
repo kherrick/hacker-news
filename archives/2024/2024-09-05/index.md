@@ -83,6 +83,7 @@
 * [2024-09-05, 05:48:24](https://news.ycombinator.com/item?id=41453894) - [Amazon Drivers Complain Their Ability to Sing Along the Radio Is Being Stifled](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 * [2024-09-05, 05:35:28](https://news.ycombinator.com/item?id=41453829) - [The Haunted Wood: A History of Childhood Reading](https://literaryreview.co.uk/oh-the-places-youll-go)
 * [2024-09-05, 05:13:41](https://news.ycombinator.com/item?id=41453713) - [Beaker Browser and the Dat Protocol](https://bernsteinbear.com/dat-paper/)
+* [2024-09-05, 04:48:27](https://news.ycombinator.com/item?id=41453569) - [Using rsync to create a limited ability to write remote files](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncForLimitedRemoteWrite)
 * [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 * [2024-09-05, 04:13:57](https://news.ycombinator.com/item?id=41453405) - [AT&T Sues Broadcom over VMware Contracts 'Bullying'](https://www.channelfutures.com/channel-business/att-sues-broadcom-over-vmware-contracts-bullying)
 * [2024-09-05, 03:50:10](https://news.ycombinator.com/item?id=41453300) - [Kids who use ChatGPT as a study assistant do worse on tests](https://hechingerreport.org/kids-chatgpt-worse-on-tests/)
