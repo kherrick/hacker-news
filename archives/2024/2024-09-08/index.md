@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
+* [2024-09-08, 17:47:44](https://news.ycombinator.com/item?id=41481852) - [Serving AI from the Basement – 192GB of VRAM Setup](https://ahmadosman.com/blog/serving-ai-from-basement/)
 * [2024-09-08, 17:23:14](https://news.ycombinator.com/item?id=41481682) - [\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 * [2024-09-08, 17:00:02](https://news.ycombinator.com/item?id=41481501) - [Infisical (YC W23) Is Hiring a Developer Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
 * [2024-09-08, 16:57:58](https://news.ycombinator.com/item?id=41481482) - [Ask HN: How do you share and sync .env files and secrets with your team](https://news.ycombinator.com/item?id=41481482)

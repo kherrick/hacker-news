@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-08, 17:47:44](https://news.ycombinator.com/item?id=41481852) - [Serving AI from the Basement – 192GB of VRAM Setup](https://ahmadosman.com/blog/serving-ai-from-basement/)
 * [2024-09-08, 17:23:14](https://news.ycombinator.com/item?id=41481682) - [\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 * [2024-09-08, 17:00:02](https://news.ycombinator.com/item?id=41481501) - [Infisical (YC W23) Is Hiring a Developer Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
 * [2024-09-08, 16:57:58](https://news.ycombinator.com/item?id=41481482) - [Ask HN: How do you share and sync .env files and secrets with your team](https://news.ycombinator.com/item?id=41481482)
 * [2024-09-08, 16:31:04](https://news.ycombinator.com/item?id=41481323) - [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
 * [2024-09-08, 16:22:56](https://news.ycombinator.com/item?id=41481279) - [Companies need junior devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
-* [2024-09-08, 14:40:26](https://news.ycombinator.com/item?id=41480675) - [htmx Web Security Basics](https://htmx.org/essays/web-security-basics-with-htmx/)
 * [2024-09-08, 12:35:48](https://news.ycombinator.com/item?id=41480034) - [Ask HN: How does my school block DoH?](https://news.ycombinator.com/item?id=41480034)
 * [2024-09-08, 11:32:52](https://news.ycombinator.com/item?id=41479785) - [Have ‘hobby’ apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
