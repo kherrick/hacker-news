@@ -71,6 +71,7 @@
 * [2024-09-05, 11:02:40](https://news.ycombinator.com/item?id=41455432) - [America's Space Force Is Preparing for the Risk of War](https://www.wsj.com/politics/national-security/americas-space-force-is-preparing-for-the-risk-of-war-d6b5e9c7)
 * [2024-09-05, 11:00:03](https://news.ycombinator.com/item?id=41455420) - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
 * [2024-09-05, 10:23:10](https://news.ycombinator.com/item?id=41455252) - [Olympic athlete Rebecca Cheptegei dies days after being set alight by ex-BF](https://www.bbc.com/news/articles/c3vx0kq2xr2o)
+* [2024-09-05, 09:35:36](https://news.ycombinator.com/item?id=41455022) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 * [2024-09-05, 09:23:05](https://news.ycombinator.com/item?id=41454961) - [Five Geek Social Fallacies (2003)](https://plausiblydeniable.com/five-geek-social-fallacies/)
 * [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
