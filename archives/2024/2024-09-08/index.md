@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
+* [2024-09-08, 17:00:02](https://news.ycombinator.com/item?id=41481501) - [Infisical (YC W23) Is Hiring a Developer Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
+* [2024-09-08, 16:22:56](https://news.ycombinator.com/item?id=41481279) - [Your Company Needs Junior Devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
 * [2024-09-08, 15:53:32](https://news.ycombinator.com/item?id=41481122) - [Nikon sold more Z9 cameras in its first year than any flagship in past 15 years](https://petapixel.com/2024/09/05/nikon-sold-more-z9-cameras-in-its-first-year-than-any-flagship-in-past-15-years/)
 * [2024-09-08, 15:42:22](https://news.ycombinator.com/item?id=41481058) - [UK electric car drivers should be charged per mile, say campaigners](https://www.theguardian.com/politics/article/2024/sep/03/uk-electric-car-drivers-per-mile-vehicle-taxes-campaign-for-better-transport)
+* [2024-09-08, 14:40:26](https://news.ycombinator.com/item?id=41480675) - [htmx Web Security Basics](https://htmx.org/essays/web-security-basics-with-htmx/)
 * [2024-09-08, 11:32:52](https://news.ycombinator.com/item?id=41479785) - [Goodbye Tinder, hello Strava: have 'hobby' apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
 * [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
