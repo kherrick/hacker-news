@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-08, 01:15:04](https://news.ycombinator.com/item?id=41477516) - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
+* [2024-09-08, 00:55:19](https://news.ycombinator.com/item?id=41477446) - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
 * [2024-09-07, 22:35:31](https://news.ycombinator.com/item?id=41476873) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 * [2024-09-07, 22:23:16](https://news.ycombinator.com/item?id=41476823) - [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
-* [2024-09-07, 22:12:53](https://news.ycombinator.com/item?id=41476778) - [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
 * [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 * [2024-09-07, 18:46:43](https://news.ycombinator.com/item?id=41475618) - [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer's suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
 * [2024-09-07, 17:48:58](https://news.ycombinator.com/item?id=41475218) - [The \"email is authentication\" pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
