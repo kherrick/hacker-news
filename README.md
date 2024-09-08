@@ -3,7 +3,7 @@
 * [2024-09-08, 21:00:58](https://news.ycombinator.com/item?id=41483178) - [The $12,000 Harvard Class Celebrities Are Fighting to Get Into](https://www.bloomberg.com/news/features/2024-07-22/the-12-000-harvard-business-class-celebrities-are-fighting-to-get-into)
 * [2024-09-08, 19:56:25](https://news.ycombinator.com/item?id=41482715) - [How a Customer Got Trapped in Ambetter's Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)
 * [2024-09-08, 19:42:12](https://news.ycombinator.com/item?id=41482620) - [With more legal action on the horizon, how long before Archive.org closes?](https://lunduke.locals.com/post/6079435/the-internet-archive-loses-appeal-as-expected)
-* [2024-09-08, 19:38:30](https://news.ycombinator.com/item?id=41482591) - [Create a online course in 10 minutes to learn anything](https://www.skillgnist.no/)
+* [2024-09-08, 19:38:30](https://news.ycombinator.com/item?id=41482591) - [Convert textbook to online course with AI expert](https://www.skillgnist.no/)
 * [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-08, 18:25:00](https://news.ycombinator.com/item?id=41482087) - [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
 * [2024-09-08, 18:21:00](https://news.ycombinator.com/item?id=41482060) - [Core: New way to develop video games](https://github.com/damn/core)
