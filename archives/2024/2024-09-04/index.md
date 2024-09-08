@@ -93,6 +93,7 @@
 * [2024-09-04, 09:35:50](https://news.ycombinator.com/item?id=41443671) - [Started with an AI agent, now doing a thing that won't scale](https://medium.com/@vkweb/started-with-an-ai-agent-now-doing-a-thing-that-wont-scale-my-startup-journey-so-far-49a053f01f8c)
 * [2024-09-04, 09:10:02](https://news.ycombinator.com/item?id=41443493) - [DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
 * [2024-09-04, 09:05:44](https://news.ycombinator.com/item?id=41443468) - [Generalized Carlos Scales](https://arxiv.org/abs/2408.14551)
+* [2024-09-04, 09:05:19](https://news.ycombinator.com/item?id=41443466) - [Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results [pdf]](https://patricklam.ca/papers/24.onward.abs-debug.pdf)
 * [2024-09-04, 08:58:00](https://news.ycombinator.com/item?id=41443414) - [Fibonacci Partial Sums Tricks](https://arxiv.org/abs/2409.01296)
 * [2024-09-04, 08:45:50](https://news.ycombinator.com/item?id=41443347) - [Britain's reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)
 * [2024-09-04, 08:44:37](https://news.ycombinator.com/item?id=41443336) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)

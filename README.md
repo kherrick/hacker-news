@@ -28,8 +28,8 @@
 * [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 18:19:10](https://news.ycombinator.com/item?id=41448799) - [Pick Your Distributed Poison](https://hazelweakly.me/blog/pick-your-distributed-poison/)
 * [2024-09-04, 17:54:29](https://news.ycombinator.com/item?id=41448545) - [Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
+* [2024-09-04, 09:05:19](https://news.ycombinator.com/item?id=41443466) - [Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results [pdf]](https://patricklam.ca/papers/24.onward.abs-debug.pdf)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
-* [2024-09-03, 20:25:56](https://news.ycombinator.com/item?id=41438866) - [An Optimization That's Impossible in Rust](https://www.tunglevo.com/note/an-optimization-thats-impossible-in-rust/)
 
 ## [Archives](archives/index.md)
 
