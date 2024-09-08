@@ -27,6 +27,7 @@
 * [2024-09-04, 19:22:59](https://news.ycombinator.com/item?id=41449597) - [AI Checkers Forcing Kids to Write Like a Robot to Avoid Being Called a Robot](https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/)
 * [2024-09-04, 19:19:49](https://news.ycombinator.com/item?id=41449554) - [Rust in Linux lead retires rather than deal with more \"nontechnical nonsense\"](https://arstechnica.com/gadgets/2024/09/rust-in-linux-lead-retires-rather-than-deal-with-more-nontechnical-nonsense/)
 * [2024-09-04, 18:56:00](https://news.ycombinator.com/item?id=41449229) - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
+* [2024-09-04, 18:47:59](https://news.ycombinator.com/item?id=41449128) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 * [2024-09-04, 18:46:33](https://news.ycombinator.com/item?id=41449111) - [Fake CV lands top 'engineer' in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
 * [2024-09-04, 18:41:16](https://news.ycombinator.com/item?id=41449038) - [Printing Money](https://neal.fun/printing-money/)
 * [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
