@@ -76,6 +76,7 @@
 * [2024-09-05, 07:58:07](https://news.ycombinator.com/item?id=41454555) - [Shell Has a Forth-Like Quality](https://www.oilshell.org/blog/2017/01/13.html)
 * [2024-09-05, 07:34:58](https://news.ycombinator.com/item?id=41454423) - [A SpamAssassin Surprise](https://lwn.net/SubscriberLink/987566/3be928f6e483853d/)
 * [2024-09-05, 07:01:05](https://news.ycombinator.com/item?id=41454257) - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
+* [2024-09-05, 06:09:40](https://news.ycombinator.com/item?id=41454012) - [Why OpenStack and Kata Containers are both seeing a resurgence of adoption](https://www.zdnet.com/article/why-openstack-and-kata-containers-are-both-seeing-a-resurgence-of-adoption/)
 * [2024-09-05, 06:03:48](https://news.ycombinator.com/item?id=41453975) - [US Government Sets Out to Improve Internet Routing Security](https://www.infosecurity-magazine.com/news/us-internet-routing-security/)
 * [2024-09-05, 05:48:24](https://news.ycombinator.com/item?id=41453894) - [Amazon Drivers Complain Their Ability to Sing Along the Radio Is Being Stifled](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 * [2024-09-05, 05:35:28](https://news.ycombinator.com/item?id=41453829) - [The Haunted Wood: A History of Childhood Reading](https://literaryreview.co.uk/oh-the-places-youll-go)
