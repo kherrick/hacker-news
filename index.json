@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-08, 22:11:02",
+      "https://news.ycombinator.com/item?id=41483675"
+    ],
+    [
+      "Reclaim the Stack",
+      "https://reclaim-the-stack.com"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 22:06:44",
       "https://news.ycombinator.com/item?id=41483654"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2024-09-08, 21:52:04",
+      "https://news.ycombinator.com/item?id=41483541"
+    ],
+    [
+      "Exploiting CI / CD Pipelines for fun and profit",
+      "https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 21:12:14",
       "https://news.ycombinator.com/item?id=41483249"
     ],
@@ -31,12 +51,42 @@
   ],
   [
     [
+      "2024-09-08, 21:06:40",
+      "https://news.ycombinator.com/item?id=41483216"
+    ],
+    [
+      "The Fennel Programming Language",
+      "https://fennel-lang.org/"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 19:56:25",
       "https://news.ycombinator.com/item?id=41482715"
     ],
     [
       "How a Customer Got Trapped in Ambetter's Ghost Network",
       "https://www.propublica.org/article/ambetter-ghost-network-consequences"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 19:51:20",
+      "https://news.ycombinator.com/item?id=41482679"
+    ],
+    [
+      "Htmx, Raku and Pico CSS",
+      "https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 19:48:36",
+      "https://news.ycombinator.com/item?id=41482661"
+    ],
+    [
+      "Jd – JSON Diff and Patch",
+      "https://github.com/josephburnett/jd"
     ]
   ],
   [
@@ -161,32 +211,12 @@
   ],
   [
     [
-      "2024-09-08, 00:55:19",
-      "https://news.ycombinator.com/item?id=41477446"
-    ],
-    [
-      "Microui+fenster=Small GUI",
-      "https://bernsteinbear.com/blog/fenster-microui/"
-    ]
-  ],
-  [
-    [
       "2024-09-07, 17:32:48",
       "https://news.ycombinator.com/item?id=41475124"
     ],
     [
       "WebP: The WebPage Compression Format",
       "https://purplesyringa.moe/blog/webp-the-webpage-compression-format/"
-    ]
-  ],
-  [
-    [
-      "2024-09-07, 16:41:11",
-      "https://news.ycombinator.com/item?id=41474828"
-    ],
-    [
-      "Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code",
-      "https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2024-09-04, 23:38:43",
-      "https://news.ycombinator.com/item?id=41451969"
-    ],
-    [
-      "A day in the life of the fastest supercomputer",
-      "https://www.nature.com/articles/d41586-024-02832-5"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 21:18:13",
       "https://news.ycombinator.com/item?id=41450948"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-09-04, 16:26:28",
-      "https://news.ycombinator.com/item?id=41447554"
-    ],
-    [
-      "Business Moleskine Mania: How a Notebook Conquered the Digital Era",
-      "https://thewalrus.ca/moleskine/"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 07:56:48",
       "https://news.ycombinator.com/item?id=41443012"
     ],
     [
       "LibrePythonista allows running IPython code in a LibreOffice spreadsheet",
       "https://github.com/Amourspirit/python_libre_pythonista_ext"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 01:27:05",
-      "https://news.ycombinator.com/item?id=41440997"
-    ],
-    [
-      "Dogs can remember names of toys years after not seeing them, study shows",
-      "https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory"
     ]
   ],
   [
