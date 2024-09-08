@@ -6,6 +6,7 @@
 
 * [2024-09-05, 23:59:02](https://news.ycombinator.com/item?id=41461499) - [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
 * [2024-09-05, 23:37:21](https://news.ycombinator.com/item?id=41461373) - [Beehive lab notebook: Local-first access control](https://www.inkandswitch.com/beehive/notebook/)
+* [2024-09-05, 23:19:09](https://news.ycombinator.com/item?id=41461251) - [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 * [2024-09-05, 23:00:41](https://news.ycombinator.com/item?id=41461138) - [What to do about America's killer cars](https://www.economist.com/leaders/2024/09/05/what-to-do-about-americas-killer-cars)
 * [2024-09-05, 22:37:12](https://news.ycombinator.com/item?id=41460984) - [First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor](https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor)
 * [2024-09-05, 22:32:43](https://news.ycombinator.com/item?id=41460944) - [Cron Jobs on Linux – Comprehensive Guide with Examples](https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/)
