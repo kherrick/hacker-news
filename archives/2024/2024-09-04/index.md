@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
 * [2024-09-04, 23:54:40](https://news.ycombinator.com/item?id=41452068) - [Gallery of Graffti Removals](https://graffitiremovals.org/)
+* [2024-09-04, 23:38:43](https://news.ycombinator.com/item?id=41451969) - [A day in the life of the fastest supercomputer](https://www.nature.com/articles/d41586-024-02832-5)
 * [2024-09-04, 22:53:15](https://news.ycombinator.com/item?id=41451707) - [SEC fines 6 major credit rating agencies over failure to keep electronic records](https://www.cnn.com/2024/09/03/business/sec-fines-credit-rating-agencies-over-failure-electronic-records/index.html)
 * [2024-09-04, 22:52:19](https://news.ycombinator.com/item?id=41451698) - [Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust](https://github.com/lmnr-ai/lmnr)
 * [2024-09-04, 22:48:02](https://news.ycombinator.com/item?id=41451668) - [Mushroom learns to crawl after being given robot body](https://www.independent.co.uk/tech/robot-mushroom-biohybrid-robotics-cornell-b2606970.html)
