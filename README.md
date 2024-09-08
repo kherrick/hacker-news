@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-08, 19:42:12](https://news.ycombinator.com/item?id=41482620) - [With more legal action on the horizon, how long before Archive.org closes?](https://lunduke.locals.com/post/6079435/the-internet-archive-loses-appeal-as-expected)
 * [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-08, 18:25:00](https://news.ycombinator.com/item?id=41482087) - [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
 * [2024-09-08, 18:21:00](https://news.ycombinator.com/item?id=41482060) - [Core: New way to develop video games](https://github.com/damn/core)
@@ -10,7 +11,6 @@
 * [2024-09-08, 16:31:04](https://news.ycombinator.com/item?id=41481323) - [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
 * [2024-09-08, 12:59:51](https://news.ycombinator.com/item?id=41480145) - [The Lurker's Guide to Babylon5](http://www.midwinter.com/lurk/)
 * [2024-09-08, 12:35:48](https://news.ycombinator.com/item?id=41480034) - [Ask HN: How does my school block DoH?](https://news.ycombinator.com/item?id=41480034)
-* [2024-09-08, 11:32:52](https://news.ycombinator.com/item?id=41479785) - [Have ‘hobby’ apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
 * [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 09:34:00](https://news.ycombinator.com/item?id=41479266) - [Concrete clickbait: next time you share a spomenik photo (2016)](https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley)
