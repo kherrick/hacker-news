@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-08, 21:37:30",
-      "https://news.ycombinator.com/item?id=41483439"
+      "2024-09-08, 21:57:57",
+      "https://news.ycombinator.com/item?id=41483581"
     ],
     [
-      "YouTube restricts teenager access to fitness videos",
-      "https://www.euronews.com/health/2024/09/07/youtube-will-begin-limiting-access-to-fitness-videos-for-european-teens-heres-why"
+      "FBI recommends using an ad blocker",
+      "https://www.ic3.gov/Media/Y2022/PSA221221"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "LuaJIT PR: Add Support for RISC-V 64",
       "https://github.com/LuaJIT/LuaJIT/pull/1267"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 09:53:49",
-      "https://news.ycombinator.com/item?id=41479365"
-    ],
-    [
-      "Going Buildless",
-      "https://mxb.dev/blog/buildless/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Dogs can remember names of toys years after not seeing them, study shows",
       "https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 20:14:19",
+      "https://news.ycombinator.com/item?id=41438744"
+    ],
+    [
+      "Deadline looms: Google Workspace mandates OAuth by September 30",
+      "https://www.theregister.com/2024/09/03/google_workspace_third_party_apps/"
     ]
   ]
 ]
