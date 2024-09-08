@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-08, 04:40:12](https://news.ycombinator.com/item?id=41478241) - [We should train AI in space [pdf]](https://lumenorbit.github.io/wp.pdf)
 * [2024-09-08, 04:05:36](https://news.ycombinator.com/item?id=41478138) - [Baiting the Bots](https://conspirator0.substack.com/p/baiting-the-bot)
 * [2024-09-08, 02:26:56](https://news.ycombinator.com/item?id=41477782) - [FutureRack: Server racks are everywhere. Now you can find them in your home](https://futurerack.info/main.php)
 * [2024-09-08, 01:15:04](https://news.ycombinator.com/item?id=41477516) - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
@@ -22,6 +21,7 @@
 * [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
 * [2024-09-06, 16:41:46](https://news.ycombinator.com/item?id=41467675) - [Against Rereading](https://www.theparisreview.org/blog/2024/09/04/against-rereading/)
 * [2024-09-06, 15:29:17](https://news.ycombinator.com/item?id=41467054) - [SQLToy](https://github.com/weinberg/SQLToy/wiki)
+* [2024-09-06, 06:19:35](https://news.ycombinator.com/item?id=41463372) - [Adding algebraic data types to Nickel](https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/)
 * [2024-09-06, 05:18:15](https://news.ycombinator.com/item?id=41463124) - [How to wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
 * [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the Wrong Questions](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
 * [2024-09-05, 16:28:29](https://news.ycombinator.com/item?id=41458168) - [Battlestar Galactica: Technical Manual (2005)](http://www.tecr.com/galactica/)
