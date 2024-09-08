@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41483581"
     ],
     [
-      "FBI recommends using an ad blocker",
+      "FBI recommends using an ad blocker (2022)",
       "https://www.ic3.gov/Media/Y2022/PSA221221"
     ]
   ],
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-09-08, 19:48:36",
+      "https://news.ycombinator.com/item?id=41482661"
+    ],
+    [
+      "Jd – JSON Diff and Patch",
+      "https://github.com/josephburnett/jd"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 18:51:59",
       "https://news.ycombinator.com/item?id=41482276"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41482060"
     ],
     [
-      "Core: New way to develop video games",
+      "Core: an experimental new way to write videogames",
       "https://github.com/damn/core"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-09-07, 17:32:48",
-      "https://news.ycombinator.com/item?id=41475124"
-    ],
-    [
-      "WebP: The WebPage Compression Format",
-      "https://purplesyringa.moe/blog/webp-the-webpage-compression-format/"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 16:20:55",
       "https://news.ycombinator.com/item?id=41467503"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-09-05, 09:35:36",
-      "https://news.ycombinator.com/item?id=41455022"
+      "2024-09-05, 14:18:54",
+      "https://news.ycombinator.com/item?id=41456892"
     ],
     [
-      "Creating a Git Commit: The Hard Way",
-      "https://avestura.dev/blog/creating-a-git-commit-the-hard-way"
+      "Bringing insights into TCP resets and timeouts to Cloudflare Radar",
+      "https://blog.cloudflare.com/tcp-resets-timeouts/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-09-04, 23:38:43",
-      "https://news.ycombinator.com/item?id=41451969"
-    ],
-    [
-      "A day in the life of the fastest supercomputer",
-      "https://www.nature.com/articles/d41586-024-02832-5"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 21:18:13",
       "https://news.ycombinator.com/item?id=41450948"
     ],
     [
       "Snapshottable Stores",
       "https://dl.acm.org/doi/10.1145/3674637"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 18:47:59",
+      "https://news.ycombinator.com/item?id=41449128"
+    ],
+    [
+      "Creating a Git Commit: The Hard Way",
+      "https://avestura.dev/blog/creating-a-git-commit-the-hard-way"
     ]
   ],
   [
