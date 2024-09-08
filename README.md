@@ -20,6 +20,7 @@
 * [2024-09-07, 16:41:11](https://news.ycombinator.com/item?id=41474828) - [Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Things to know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
+* [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
 * [2024-09-05, 23:19:09](https://news.ycombinator.com/item?id=41461251) - [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 * [2024-09-05, 18:10:32](https://news.ycombinator.com/item?id=41459094) - [The little-known life of the scarfing tool](https://www.thefabricator.com/tubepipejournal/article/tubepipefabrication/the-little-known-life-of-the-scarfing-tool)
 * [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the Wrong Questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
@@ -27,7 +28,6 @@
 * [2024-09-05, 06:09:40](https://news.ycombinator.com/item?id=41454012) - [Why OpenStack and Kata Containers are both seeing a resurgence of adoption](https://www.zdnet.com/article/why-openstack-and-kata-containers-are-both-seeing-a-resurgence-of-adoption/)
 * [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 22:28:58](https://news.ycombinator.com/item?id=41451540) - [Early science and stone engineering in Menga, a Neolithic dolmen](https://www.science.org/doi/10.1126/sciadv.adp1295)
-* [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 18:19:10](https://news.ycombinator.com/item?id=41448799) - [Pick Your Distributed Poison](https://hazelweakly.me/blog/pick-your-distributed-poison/)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 
