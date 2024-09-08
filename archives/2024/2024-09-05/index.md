@@ -33,6 +33,7 @@
 * [2024-09-05, 16:41:15](https://news.ycombinator.com/item?id=41458299) - [KubeVision a new Kubernetes dashboard powered by Argo CD](https://akuity.io/blog/introducing-kubevision-feature/)
 * [2024-09-05, 16:34:51](https://news.ycombinator.com/item?id=41458240) - [serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 * [2024-09-05, 16:31:01](https://news.ycombinator.com/item?id=41458194) - [Stuff I would tell my younger self](https://anthonynsimon.com/blog/advice-to-younger-self/)
+* [2024-09-05, 16:28:29](https://news.ycombinator.com/item?id=41458168) - [Battlestar Galactica: Technical Manual (2005)](http://www.tecr.com/galactica/)
 * [2024-09-05, 16:26:12](https://news.ycombinator.com/item?id=41458141) - [Show HN: We built a FOSS documentation CMS with a pretty GUI](https://kalmia.difuse.io/doc/)
 * [2024-09-05, 16:22:09](https://news.ycombinator.com/item?id=41458083) - [Phind-405B and faster, high quality AI answers for everyone](https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches)
 * [2024-09-05, 16:18:13](https://news.ycombinator.com/item?id=41458044) - [Show HN: Claude Memory – Long-term memory for Claude](https://github.com/deshraj/claude-memory)
