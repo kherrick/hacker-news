@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-08, 21:00:58](https://news.ycombinator.com/item?id=41483178) - [The $12,000 Harvard Class Celebrities Are Fighting to Get Into](https://www.bloomberg.com/news/features/2024-07-22/the-12-000-harvard-business-class-celebrities-are-fighting-to-get-into)
 * [2024-09-08, 19:56:25](https://news.ycombinator.com/item?id=41482715) - [How a Customer Got Trapped in Ambetter's Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)
 * [2024-09-08, 19:38:30](https://news.ycombinator.com/item?id=41482591) - [Convert textbook to online course with AI expert](https://www.skillgnist.no/)
 * [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
@@ -17,6 +16,7 @@
 * [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [alphaXiv: Open research discussion on top of arXiv](https://www.alphaxiv.org/)
 * [2024-09-08, 00:55:19](https://news.ycombinator.com/item?id=41477446) - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
+* [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 * [2024-09-07, 17:32:48](https://news.ycombinator.com/item?id=41475124) - [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 16:41:11](https://news.ycombinator.com/item?id=41474828) - [Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-06, 16:20:55](https://news.ycombinator.com/item?id=41467503) - [Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer](https://www.mdpi.com/2076-393X/12/9/958#)
