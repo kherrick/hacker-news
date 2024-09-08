@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-08, 04:05:36](https://news.ycombinator.com/item?id=41478138) - [Baiting the Bots](https://conspirator0.substack.com/p/baiting-the-bot)
 * [2024-09-08, 01:15:04](https://news.ycombinator.com/item?id=41477516) - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
 * [2024-09-08, 00:55:19](https://news.ycombinator.com/item?id=41477446) - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
 * [2024-09-07, 22:35:31](https://news.ycombinator.com/item?id=41476873) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
@@ -14,7 +15,6 @@
 * [2024-09-07, 16:41:11](https://news.ycombinator.com/item?id=41474828) - [Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:39:16](https://news.ycombinator.com/item?id=41474508) - [A Post-Google World?](https://www.thebignewsletter.com/p/a-post-google-world)
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Things to know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
-* [2024-09-07, 14:19:25](https://news.ycombinator.com/item?id=41474080) - [Four Thieves Vinegar Collective – Harm Reduction for the Living](https://fourthievesvinegar.org/)
 * [2024-09-07, 10:44:08](https://news.ycombinator.com/item?id=41473061) - [Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 * [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
