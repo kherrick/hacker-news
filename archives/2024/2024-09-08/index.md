@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
+* [2024-09-08, 21:57:57](https://news.ycombinator.com/item?id=41483581) - [FBI recommends using an ad blocker](https://www.ic3.gov/Media/Y2022/PSA221221)
 * [2024-09-08, 21:37:30](https://news.ycombinator.com/item?id=41483439) - [YouTube restricts teenager access to fitness videos](https://www.euronews.com/health/2024/09/07/youtube-will-begin-limiting-access-to-fitness-videos-for-european-teens-heres-why)
 * [2024-09-08, 21:00:58](https://news.ycombinator.com/item?id=41483178) - [The $12,000 Harvard Class Celebrities Are Fighting to Get Into](https://www.bloomberg.com/news/features/2024-07-22/the-12-000-harvard-business-class-celebrities-are-fighting-to-get-into)
 * [2024-09-08, 19:56:25](https://news.ycombinator.com/item?id=41482715) - [How a Customer Got Trapped in Ambetter's Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-08, 21:37:30](https://news.ycombinator.com/item?id=41483439) - [YouTube restricts teenager access to fitness videos](https://www.euronews.com/health/2024/09/07/youtube-will-begin-limiting-access-to-fitness-videos-for-european-teens-heres-why)
+* [2024-09-08, 21:57:57](https://news.ycombinator.com/item?id=41483581) - [FBI recommends using an ad blocker](https://www.ic3.gov/Media/Y2022/PSA221221)
 * [2024-09-08, 19:56:25](https://news.ycombinator.com/item?id=41482715) - [How a Customer Got Trapped in Ambetter's Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)
 * [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-08, 18:25:00](https://news.ycombinator.com/item?id=41482087) - [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
@@ -13,7 +13,6 @@
 * [2024-09-08, 16:31:04](https://news.ycombinator.com/item?id=41481323) - [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
 * [2024-09-08, 12:59:51](https://news.ycombinator.com/item?id=41480145) - [The Lurker's Guide to Babylon5](http://www.midwinter.com/lurk/)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
-* [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [alphaXiv: Open research discussion on top of arXiv](https://www.alphaxiv.org/)
 * [2024-09-08, 00:55:19](https://news.ycombinator.com/item?id=41477446) - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
 * [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
@@ -30,6 +29,7 @@
 * [2024-09-04, 16:26:28](https://news.ycombinator.com/item?id=41447554) - [Business Moleskine Mania: How a Notebook Conquered the Digital Era](https://thewalrus.ca/moleskine/)
 * [2024-09-04, 07:56:48](https://news.ycombinator.com/item?id=41443012) - [LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
+* [2024-09-03, 20:14:19](https://news.ycombinator.com/item?id=41438744) - [Deadline looms: Google Workspace mandates OAuth by September 30](https://www.theregister.com/2024/09/03/google_workspace_third_party_apps/)
 
 ## [Archives](archives/index.md)
 
