@@ -51,6 +51,7 @@
 * [2024-09-04, 16:52:40](https://news.ycombinator.com/item?id=41447909) - [Dolphin Progress Release 2407 and 2409](https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/)
 * [2024-09-04, 16:41:50](https://news.ycombinator.com/item?id=41447758) - [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://twitter.com/PublishersWkly/status/1831357570365497379)
 * [2024-09-04, 16:41:50](https://news.ycombinator.com/item?id=41447758) - [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf)
+* [2024-09-04, 16:26:28](https://news.ycombinator.com/item?id=41447554) - [Business Moleskine Mania: How a Notebook Conquered the Digital Era](https://thewalrus.ca/moleskine/)
 * [2024-09-04, 16:23:34](https://news.ycombinator.com/item?id=41447515) - [The First Nuclear Clock Will Test If Fundamental Constants Change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 * [2024-09-04, 16:23:00](https://news.ycombinator.com/item?id=41447507) - [Microsoft confirms that Windows 11 Recall AI is not optional](https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update)
 * [2024-09-04, 16:01:40](https://news.ycombinator.com/item?id=41447317) - [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
