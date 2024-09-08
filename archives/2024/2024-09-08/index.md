@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
 * [2024-09-08, 17:00:02](https://news.ycombinator.com/item?id=41481501) - [Infisical (YC W23) Is Hiring a Developer Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
+* [2024-09-08, 16:57:58](https://news.ycombinator.com/item?id=41481482) - [Ask HN: How do you share and sync .env files and secrets with your team](https://news.ycombinator.com/item?id=41481482)
+* [2024-09-08, 16:31:04](https://news.ycombinator.com/item?id=41481323) - [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
 * [2024-09-08, 16:22:56](https://news.ycombinator.com/item?id=41481279) - [Your Company Needs Junior Devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
 * [2024-09-08, 15:53:32](https://news.ycombinator.com/item?id=41481122) - [Nikon sold more Z9 cameras in its first year than any flagship in past 15 years](https://petapixel.com/2024/09/05/nikon-sold-more-z9-cameras-in-its-first-year-than-any-flagship-in-past-15-years/)
 * [2024-09-08, 15:42:22](https://news.ycombinator.com/item?id=41481058) - [UK electric car drivers should be charged per mile, say campaigners](https://www.theguardian.com/politics/article/2024/sep/03/uk-electric-car-drivers-per-mile-vehicle-taxes-campaign-for-better-transport)
