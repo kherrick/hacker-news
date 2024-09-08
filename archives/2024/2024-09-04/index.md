@@ -33,6 +33,7 @@
 * [2024-09-04, 18:24:58](https://news.ycombinator.com/item?id=41448866) - [Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 * [2024-09-04, 18:24:08](https://news.ycombinator.com/item?id=41448855) - [SpaceX Pulls Employees from Brazil, Discourages Travel There](https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3)
 * [2024-09-04, 18:23:24](https://news.ycombinator.com/item?id=41448842) - [Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://nitter.poast.org/PublishersWkly/status/1831357570365497379#m)
+* [2024-09-04, 18:19:10](https://news.ycombinator.com/item?id=41448799) - [Pick Your Distributed Poison](https://hazelweakly.me/blog/pick-your-distributed-poison/)
 * [2024-09-04, 18:13:51](https://news.ycombinator.com/item?id=41448740) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
 * [2024-09-04, 18:04:51](https://news.ycombinator.com/item?id=41448664) - [What's Functional Programming All About?](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 * [2024-09-04, 17:54:29](https://news.ycombinator.com/item?id=41448545) - [Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
