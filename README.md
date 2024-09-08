@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-08, 07:26:43](https://news.ycombinator.com/item?id=41478785) - [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
+* [2024-09-08, 06:51:44](https://news.ycombinator.com/item?id=41478664) - [Malaysia backtracks on DNS redirection decision](https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194)
 * [2024-09-08, 05:24:41](https://news.ycombinator.com/item?id=41478363) - [Minimal Web](https://mnmlist.com/w/)
 * [2024-09-08, 04:24:55](https://news.ycombinator.com/item?id=41478195) - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
 * [2024-09-08, 04:05:36](https://news.ycombinator.com/item?id=41478138) - [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
@@ -21,6 +21,7 @@
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
 * [2024-09-06, 16:41:46](https://news.ycombinator.com/item?id=41467675) - [Against Rereading](https://www.theparisreview.org/blog/2024/09/04/against-rereading/)
+* [2024-09-06, 15:29:17](https://news.ycombinator.com/item?id=41467054) - [SQLToy](https://github.com/weinberg/SQLToy/wiki)
 * [2024-09-06, 05:18:15](https://news.ycombinator.com/item?id=41463124) - [How to wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
 * [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the Wrong Questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
 * [2024-09-05, 16:28:29](https://news.ycombinator.com/item?id=41458168) - [Battlestar Galactica: Technical Manual (2005)](http://www.tecr.com/galactica/)
@@ -28,7 +29,6 @@
 * [2024-09-04, 22:28:58](https://news.ycombinator.com/item?id=41451540) - [Early science and stone engineering in Menga, a Neolithic dolmen](https://www.science.org/doi/10.1126/sciadv.adp1295)
 * [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 18:19:10](https://news.ycombinator.com/item?id=41448799) - [Pick Your Distributed Poison](https://hazelweakly.me/blog/pick-your-distributed-poison/)
-* [2024-09-04, 03:11:46](https://news.ycombinator.com/item?id=41441530) - [(Fixing) Determinism in Robotics Testing](https://basis-robotics.github.io/basis-website/2024/09/02/determinism/)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 
 ## [Archives](archives/index.md)
