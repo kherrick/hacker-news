@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-08, 04:40:12",
-      "https://news.ycombinator.com/item?id=41478241"
-    ],
-    [
-      "We should train AI in space [pdf]",
-      "https://lumenorbit.github.io/wp.pdf"
-    ]
-  ],
-  [
-    [
       "2024-09-08, 04:05:36",
       "https://news.ycombinator.com/item?id=41478138"
     ],
@@ -217,6 +207,16 @@
     [
       "SQLToy",
       "https://github.com/weinberg/SQLToy/wiki"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 06:19:35",
+      "https://news.ycombinator.com/item?id=41463372"
+    ],
+    [
+      "Adding algebraic data types to Nickel",
+      "https://www.tweag.io/blog/2024-09-05-algebraic-data-types-nickel/"
     ]
   ],
   [
