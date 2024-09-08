@@ -26,7 +26,7 @@
 * [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the wrong questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
 * [2024-09-05, 14:18:54](https://news.ycombinator.com/item?id=41456892) - [Bringing insights into TCP resets and timeouts to Cloudflare Radar](https://blog.cloudflare.com/tcp-resets-timeouts/)
 * [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
-* [2024-09-04, 21:18:13](https://news.ycombinator.com/item?id=41450948) - [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
+* [2024-09-04, 23:38:43](https://news.ycombinator.com/item?id=41451969) - [A day in the life of the fastest supercomputer](https://www.nature.com/articles/d41586-024-02832-5)
 * [2024-09-04, 18:47:59](https://news.ycombinator.com/item?id=41449128) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 * [2024-09-04, 07:56:48](https://news.ycombinator.com/item?id=41443012) - [LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)
 * [2024-09-03, 20:14:19](https://news.ycombinator.com/item?id=41438744) - [Deadline looms: Google Workspace mandates OAuth by September 30](https://www.theregister.com/2024/09/03/google_workspace_third_party_apps/)
