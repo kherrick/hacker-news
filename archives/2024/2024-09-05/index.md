@@ -87,6 +87,7 @@
 * [2024-09-05, 03:46:50](https://news.ycombinator.com/item?id=41453283) - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
 * [2024-09-05, 03:43:41](https://news.ycombinator.com/item?id=41453264) - [Better Dotfiles](https://iamdan.me/better-dotfiles)
 * [2024-09-05, 03:38:29](https://news.ycombinator.com/item?id=41453237) - [Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
+* [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-05, 02:53:47](https://news.ycombinator.com/item?id=41453039) - [LLMs Understand Text and Thus Understand Us](https://jonathanpolitzki.substack.com/p/delta)
 * [2024-09-05, 02:41:56](https://news.ycombinator.com/item?id=41452985) - [The Magazine for Mercenaries Enters Polite Society](https://www.newyorker.com/magazine/2024/09/09/the-magazine-for-mercenaries-enters-polite-society)
 * [2024-09-05, 02:33:55](https://news.ycombinator.com/item?id=41452962) - [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
