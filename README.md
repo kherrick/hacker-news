@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-08, 21:37:30](https://news.ycombinator.com/item?id=41483439) - [YouTube restricts teenager access to fitness videos](https://www.euronews.com/health/2024/09/07/youtube-will-begin-limiting-access-to-fitness-videos-for-european-teens-heres-why)
 * [2024-09-08, 19:56:25](https://news.ycombinator.com/item?id=41482715) - [How a Customer Got Trapped in Ambetter's Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)
-* [2024-09-08, 19:38:30](https://news.ycombinator.com/item?id=41482591) - [Convert textbook to online course with AI expert](https://www.skillgnist.no/)
 * [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-08, 18:25:00](https://news.ycombinator.com/item?id=41482087) - [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
 * [2024-09-08, 18:21:00](https://news.ycombinator.com/item?id=41482060) - [Core: New way to develop video games](https://github.com/damn/core)
