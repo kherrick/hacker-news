@@ -2,6 +2,7 @@
 
 * [2024-09-08, 11:32:52](https://news.ycombinator.com/item?id=41479785) - [Have ‘hobby’ apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
+* [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 09:34:00](https://news.ycombinator.com/item?id=41479266) - [Concrete clickbait: next time you share a spomenik photo, think abt what it mean (2016)](https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley)
 * [2024-09-08, 09:33:07](https://news.ycombinator.com/item?id=41479261) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 08:35:01](https://news.ycombinator.com/item?id=41479035) - [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
@@ -28,7 +29,6 @@
 * [2024-09-04, 22:28:58](https://news.ycombinator.com/item?id=41451540) - [Early science and stone engineering in Menga, a Neolithic dolmen](https://www.science.org/doi/10.1126/sciadv.adp1295)
 * [2024-09-04, 19:24:30](https://news.ycombinator.com/item?id=41449625) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 07:56:48](https://news.ycombinator.com/item?id=41443012) - [LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)
-* [2024-09-04, 04:29:04](https://news.ycombinator.com/item?id=41441902) - [Rethinking addiction as a chronic brain disease](https://www.nytimes.com/2024/09/03/health/addiction-disease-choice.html)
 * [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 
 ## [Archives](archives/index.md)
