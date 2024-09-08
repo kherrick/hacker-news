@@ -15,7 +15,7 @@
 * [2024-09-07, 16:41:11](https://news.ycombinator.com/item?id=41474828) - [Cracking an old ZIP file to help open source the ANC's \"Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:39:16](https://news.ycombinator.com/item?id=41474508) - [A Post-Google World?](https://www.thebignewsletter.com/p/a-post-google-world)
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Things to know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
-* [2024-09-07, 10:44:08](https://news.ycombinator.com/item?id=41473061) - [Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
+* [2024-09-07, 14:19:25](https://news.ycombinator.com/item?id=41474080) - [Four Thieves Vinegar Collective – Harm Reduction for the Living](https://fourthievesvinegar.org/)
 * [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-07, 04:01:54](https://news.ycombinator.com/item?id=41471355) - [The Beginnings of FM Radio Broadcasting (2018)](http://www.theradiohistorian.org/fm/fm.html)
