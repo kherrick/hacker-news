@@ -2,6 +2,7 @@
 
 * [2024-09-08, 22:06:44](https://news.ycombinator.com/item?id=41483654) - [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
 * [2024-09-08, 21:57:57](https://news.ycombinator.com/item?id=41483581) - [FBI recommends using an ad blocker](https://www.ic3.gov/Media/Y2022/PSA221221)
+* [2024-09-08, 21:12:14](https://news.ycombinator.com/item?id=41483249) - [Open Props – Supercharged CSS Variables](https://open-props.style/)
 * [2024-09-08, 19:56:25](https://news.ycombinator.com/item?id=41482715) - [How a Customer Got Trapped in Ambetter's Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)
 * [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-08, 18:25:00](https://news.ycombinator.com/item?id=41482087) - [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
@@ -22,7 +23,6 @@
 * [2024-09-05, 23:19:09](https://news.ycombinator.com/item?id=41461251) - [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 * [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the wrong questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
 * [2024-09-05, 09:35:36](https://news.ycombinator.com/item?id=41455022) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
-* [2024-09-05, 04:48:27](https://news.ycombinator.com/item?id=41453569) - [Using rsync to create a limited ability to write remote files](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncForLimitedRemoteWrite)
 * [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 23:38:43](https://news.ycombinator.com/item?id=41451969) - [A day in the life of the fastest supercomputer](https://www.nature.com/articles/d41586-024-02832-5)
 * [2024-09-04, 21:18:13](https://news.ycombinator.com/item?id=41450948) - [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
