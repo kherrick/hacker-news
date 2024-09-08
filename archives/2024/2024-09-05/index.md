@@ -20,6 +20,7 @@
 * [2024-09-05, 18:43:18](https://news.ycombinator.com/item?id=41459365) - [My job is to watch dreams die](https://old.reddit.com/r/reddit.com/comments/k3zrz/by_request_from_the_jobs_thread_why_my_job_is_to/)
 * [2024-09-05, 18:40:36](https://news.ycombinator.com/item?id=41459344) - [I sold all my Tesla shares (TSLA), here's why](https://electrek.co/2024/09/05/i-sold-all-my-tesla-shares-tsla-why/)
 * [2024-09-05, 18:12:37](https://news.ycombinator.com/item?id=41459107) - [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
+* [2024-09-05, 18:10:32](https://news.ycombinator.com/item?id=41459094) - [The little-known life of the scarfing tool](https://www.thefabricator.com/tubepipejournal/article/tubepipefabrication/the-little-known-life-of-the-scarfing-tool)
 * [2024-09-05, 17:55:59](https://news.ycombinator.com/item?id=41458987) - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
 * [2024-09-05, 17:51:20](https://news.ycombinator.com/item?id=41458949) - [Sustainable Licensing at Element with AGPL](https://element.io/blog/sustainable-licensing-at-element-with-agpl/)
 * [2024-09-05, 17:45:12](https://news.ycombinator.com/item?id=41458897) - [New York City's Biggest Taxi Insurer Is Insolvent, Risking Transit Meltdown](https://www.insurancejournal.com/news/east/2024/09/04/791291.htm)

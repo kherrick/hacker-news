@@ -21,7 +21,7 @@
 * [2024-09-07, 15:31:43](https://news.ycombinator.com/item?id=41474449) - [Things to know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
 * [2024-09-07, 09:13:00](https://news.ycombinator.com/item?id=41472643) - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 * [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
-* [2024-09-06, 05:18:15](https://news.ycombinator.com/item?id=41463124) - [How to wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
+* [2024-09-05, 18:10:32](https://news.ycombinator.com/item?id=41459094) - [The little-known life of the scarfing tool](https://www.thefabricator.com/tubepipejournal/article/tubepipefabrication/the-little-known-life-of-the-scarfing-tool)
 * [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the Wrong Questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
 * [2024-09-05, 16:28:29](https://news.ycombinator.com/item?id=41458168) - [Battlestar Galactica: Technical Manual (2005)](http://www.tecr.com/galactica/)
 * [2024-09-05, 06:09:40](https://news.ycombinator.com/item?id=41454012) - [Why OpenStack and Kata Containers are both seeing a resurgence of adoption](https://www.zdnet.com/article/why-openstack-and-kata-containers-are-both-seeing-a-resurgence-of-adoption/)
