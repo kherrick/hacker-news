@@ -16,7 +16,6 @@
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
 * [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [alphaXiv: Open research discussion on top of arXiv](https://www.alphaxiv.org/)
-* [2024-09-08, 04:05:36](https://news.ycombinator.com/item?id=41478138) - [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 * [2024-09-08, 00:55:19](https://news.ycombinator.com/item?id=41477446) - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
 * [2024-09-07, 19:47:01](https://news.ycombinator.com/item?id=41475998) - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 * [2024-09-07, 17:32:48](https://news.ycombinator.com/item?id=41475124) - [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
@@ -30,6 +29,7 @@
 * [2024-09-04, 23:38:43](https://news.ycombinator.com/item?id=41451969) - [A day in the life of the fastest supercomputer](https://www.nature.com/articles/d41586-024-02832-5)
 * [2024-09-04, 16:26:28](https://news.ycombinator.com/item?id=41447554) - [Business Moleskine Mania: How a Notebook Conquered the Digital Era](https://thewalrus.ca/moleskine/)
 * [2024-09-04, 07:56:48](https://news.ycombinator.com/item?id=41443012) - [LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)
+* [2024-09-04, 01:27:05](https://news.ycombinator.com/item?id=41440997) - [Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
 
 ## [Archives](archives/index.md)
 
