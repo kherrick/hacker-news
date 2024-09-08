@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-08, 15:53:32](https://news.ycombinator.com/item?id=41481122) - [Nikon sold more Z9 cameras in its first year than any flagship in past 15 years](https://petapixel.com/2024/09/05/nikon-sold-more-z9-cameras-in-its-first-year-than-any-flagship-in-past-15-years/)
+* [2024-09-08, 15:42:22](https://news.ycombinator.com/item?id=41481058) - [UK electric car drivers should be charged per mile, say campaigners](https://www.theguardian.com/politics/article/2024/sep/03/uk-electric-car-drivers-per-mile-vehicle-taxes-campaign-for-better-transport)
 * [2024-09-08, 11:32:52](https://news.ycombinator.com/item?id=41479785) - [Have ‘hobby’ apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
 * [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
@@ -21,9 +23,7 @@
 * [2024-09-06, 23:42:57](https://news.ycombinator.com/item?id=41470518) - [Groups underpin modern math](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
 * [2024-09-06, 05:18:15](https://news.ycombinator.com/item?id=41463124) - [How to wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
 * [2024-09-05, 23:19:09](https://news.ycombinator.com/item?id=41461251) - [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
-* [2024-09-05, 18:10:32](https://news.ycombinator.com/item?id=41459094) - [The little-known life of the scarfing tool (2003)](https://www.thefabricator.com/tubepipejournal/article/tubepipefabrication/the-little-known-life-of-the-scarfing-tool)
 * [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the wrong questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
-* [2024-09-05, 16:28:29](https://news.ycombinator.com/item?id=41458168) - [Battlestar Galactica: Technical Manual (2005)](http://www.tecr.com/galactica/)
 * [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 23:38:43](https://news.ycombinator.com/item?id=41451969) - [A day in the life of the fastest supercomputer](https://www.nature.com/articles/d41586-024-02832-5)
 * [2024-09-04, 22:28:58](https://news.ycombinator.com/item?id=41451540) - [Early science and stone engineering in Menga, a Neolithic dolmen](https://www.science.org/doi/10.1126/sciadv.adp1295)
