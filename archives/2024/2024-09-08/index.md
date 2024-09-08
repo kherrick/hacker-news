@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
+* [2024-09-08, 07:26:43](https://news.ycombinator.com/item?id=41478785) - [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)
+* [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
 * [2024-09-08, 05:24:41](https://news.ycombinator.com/item?id=41478363) - [Minimal Web](https://mnmlist.com/w/)
 * [2024-09-08, 04:40:12](https://news.ycombinator.com/item?id=41478241) - [We should train AI in space [pdf]](https://lumenorbit.github.io/wp.pdf)
 * [2024-09-08, 04:24:55](https://news.ycombinator.com/item?id=41478195) - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
