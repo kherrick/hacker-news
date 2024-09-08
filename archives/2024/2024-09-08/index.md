@@ -8,6 +8,7 @@
 * [2024-09-08, 18:22:18](https://news.ycombinator.com/item?id=41482070) - [When EV startups shut down, will their cars still work?](https://restofworld.org/2024/ev-company-shutdowns-china/)
 * [2024-09-08, 18:21:00](https://news.ycombinator.com/item?id=41482060) - [RPG Maker and Engine for Clojure](https://github.com/damn/core)
 * [2024-09-08, 18:17:00](https://news.ycombinator.com/item?id=41482037) - [Would you trust AI to scan your genitals for STIs?](https://19thnews.org/2024/09/can-you-trust-ai-sexual-health-stis-calmara-hehealth-apps/)
+* [2024-09-08, 17:52:04](https://news.ycombinator.com/item?id=41481876) - [Tailscale SSH](https://tailscale.com/kb/1193/tailscale-ssh)
 * [2024-09-08, 17:47:44](https://news.ycombinator.com/item?id=41481852) - [Serving AI from the Basement – 192GB of VRAM Setup](https://ahmadosman.com/blog/serving-ai-from-basement/)
 * [2024-09-08, 17:42:02](https://news.ycombinator.com/item?id=41481821) - [The muscular imagination of Iain M. Banks: a future you might want to l](https://www.robinsloan.com/moonbound/muscular-imagination/)
 * [2024-09-08, 17:23:14](https://news.ycombinator.com/item?id=41481682) - [\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
