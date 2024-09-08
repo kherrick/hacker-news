@@ -24,6 +24,7 @@
 * [2024-09-05, 17:51:20](https://news.ycombinator.com/item?id=41458949) - [Sustainable Licensing at Element with AGPL](https://element.io/blog/sustainable-licensing-at-element-with-agpl/)
 * [2024-09-05, 17:45:12](https://news.ycombinator.com/item?id=41458897) - [New York City's Biggest Taxi Insurer Is Insolvent, Risking Transit Meltdown](https://www.insurancejournal.com/news/east/2024/09/04/791291.htm)
 * [2024-09-05, 17:37:19](https://news.ycombinator.com/item?id=41458820) - [We need to check the gen AI hype and get back to reality](https://venturebeat.com/ai/why-we-need-to-check-the-gen-ai-hype-and-get-back-to-reality/)
+* [2024-09-05, 17:19:09](https://news.ycombinator.com/item?id=41458646) - [Asking the Wrong Questions](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
 * [2024-09-05, 17:03:04](https://news.ycombinator.com/item?id=41458512) - [Debugging a memory leak in a Clojure service](https://charanvasu.com/posts/debugging-a-memory-leak-in-a-clojure-service/)
 * [2024-09-05, 17:02:40](https://news.ycombinator.com/item?id=41458508) - [Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 * [2024-09-05, 17:00:52](https://news.ycombinator.com/item?id=41458493) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
