@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-09-07, 09:58:22",
-      "https://news.ycombinator.com/item?id=41472855"
-    ],
-    [
-      "The PERQ Computer",
-      "https://graydon2.dreamwidth.org/313862.html"
-    ]
-  ],
-  [
-    [
       "2024-09-07, 09:13:00",
       "https://news.ycombinator.com/item?id=41472643"
     ],
@@ -217,6 +207,16 @@
     [
       "Groups underpin modern math",
       "https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 05:18:15",
+      "https://news.ycombinator.com/item?id=41463124"
+    ],
+    [
+      "How to wrap a C compiler and preprocessor, really",
+      "https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really"
     ]
   ],
   [
