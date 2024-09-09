@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
-* [2024-09-09, 10:11:58](https://news.ycombinator.com/item?id=41487002) - [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
 * [2024-09-09, 02:38:43](https://news.ycombinator.com/item?id=41485001) - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
 * [2024-09-09, 02:34:15](https://news.ycombinator.com/item?id=41484991) - [QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 00:39:53](https://news.ycombinator.com/item?id=41484503) - [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
@@ -15,6 +14,7 @@
 * [2024-09-08, 19:48:36](https://news.ycombinator.com/item?id=41482661) - [Jd – JSON Diff and Patch](https://github.com/josephburnett/jd)
 * [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-08, 18:21:00](https://news.ycombinator.com/item?id=41482060) - [Core: an experimental new way to write videogames](https://github.com/damn/core)
+* [2024-09-08, 17:53:06](https://news.ycombinator.com/item?id=41481882) - [The Story Behind Fenster](https://zserge.com/posts/fenster/)
 * [2024-09-08, 17:23:14](https://news.ycombinator.com/item?id=41481682) - [\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [alphaXiv: Open research discussion on top of arXiv](https://www.alphaxiv.org/)
