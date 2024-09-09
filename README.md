@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-09, 08:36:52](https://news.ycombinator.com/item?id=41486565) - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
 * [2024-09-09, 06:39:49](https://news.ycombinator.com/item?id=41486004) - [What I gave up to become an engineering manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)
 * [2024-09-09, 06:30:26](https://news.ycombinator.com/item?id=41485967) - [Please stop inventing new software licences (2020)](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 * [2024-09-09, 02:38:43](https://news.ycombinator.com/item?id=41485001) - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
@@ -12,7 +13,6 @@
 * [2024-09-08, 22:06:44](https://news.ycombinator.com/item?id=41483654) - [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
 * [2024-09-08, 21:52:04](https://news.ycombinator.com/item?id=41483541) - [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
 * [2024-09-08, 21:37:12](https://news.ycombinator.com/item?id=41483434) - [Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]](https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf)
-* [2024-09-08, 21:12:14](https://news.ycombinator.com/item?id=41483249) - [Open Props – Supercharged CSS Variables](https://open-props.style/)
 * [2024-09-08, 21:06:40](https://news.ycombinator.com/item?id=41483216) - [The Fennel Programming Language](https://fennel-lang.org/)
 * [2024-09-08, 19:51:20](https://news.ycombinator.com/item?id=41482679) - [Htmx, Raku and Pico CSS](https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/)
 * [2024-09-08, 19:48:36](https://news.ycombinator.com/item?id=41482661) - [Jd – JSON Diff and Patch](https://github.com/josephburnett/jd)
