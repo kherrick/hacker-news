@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-09, 04:27:12](https://news.ycombinator.com/item?id=41485447) - [The PermaTab Web Browser](https://lee-phillips.org/permatab/)
-* [2024-09-09, 04:11:34](https://news.ycombinator.com/item?id=41485370) - [How Apple Rules the World](https://www.bloomberg.com/features/2024-apple-rules-the-world/)
 * [2024-09-09, 02:38:43](https://news.ycombinator.com/item?id=41485001) - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
 * [2024-09-09, 02:34:15](https://news.ycombinator.com/item?id=41484991) - [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 02:30:54](https://news.ycombinator.com/item?id=41484981) - [Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
@@ -29,6 +28,7 @@
 * [2024-09-05, 23:19:09](https://news.ycombinator.com/item?id=41461251) - [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 * [2024-09-05, 14:18:54](https://news.ycombinator.com/item?id=41456892) - [Bringing insights into TCP resets and timeouts to Cloudflare Radar](https://blog.cloudflare.com/tcp-resets-timeouts/)
 * [2024-09-05, 08:37:44](https://news.ycombinator.com/item?id=41454746) - [Analysis of adversarial binary search game](https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/)
+* [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 18:47:59](https://news.ycombinator.com/item?id=41449128) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 
 ## [Archives](archives/index.md)
