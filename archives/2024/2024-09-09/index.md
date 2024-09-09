@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 10:29:00](https://news.ycombinator.com/item?id=41487094) - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
+* [2024-09-09, 10:19:55](https://news.ycombinator.com/item?id=41487044) - [Show HN: What do your GitHub starred repos say about you?](https://starlens.aisprint.dev/)
+* [2024-09-09, 10:11:58](https://news.ycombinator.com/item?id=41487002) - [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
 * [2024-09-09, 09:58:45](https://news.ycombinator.com/item?id=41486935) - [Support for U.S. TikTok ban continues to decline](https://www.pewresearch.org/short-reads/2024/09/05/support-for-a-us-tiktok-ban-continues-to-decline-and-half-of-adults-doubt-it-will-happen/)
 * [2024-09-09, 08:36:52](https://news.ycombinator.com/item?id=41486565) - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
 * [2024-09-09, 06:39:49](https://news.ycombinator.com/item?id=41486004) - [What I Gave Up to Become an Engineering Manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)

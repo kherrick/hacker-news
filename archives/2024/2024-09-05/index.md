@@ -11,6 +11,7 @@
 * [2024-09-05, 22:37:12](https://news.ycombinator.com/item?id=41460984) - [First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor](https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor)
 * [2024-09-05, 22:32:43](https://news.ycombinator.com/item?id=41460944) - [Cron Jobs on Linux – Comprehensive Guide with Examples](https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/)
 * [2024-09-05, 20:47:29](https://news.ycombinator.com/item?id=41460276) - [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
+* [2024-09-05, 20:40:39](https://news.ycombinator.com/item?id=41460220) - [A tiny self-remaking C program](https://www.humprog.org/~stephen/blog/2024/09/05/)
 * [2024-09-05, 20:15:43](https://news.ycombinator.com/item?id=41460061) - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
 * [2024-09-05, 20:12:52](https://news.ycombinator.com/item?id=41460037) - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
 * [2024-09-05, 19:48:22](https://news.ycombinator.com/item?id=41459865) - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
