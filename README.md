@@ -7,7 +7,6 @@
 * [2024-09-09, 02:30:54](https://news.ycombinator.com/item?id=41484981) - [Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
 * [2024-09-09, 00:39:53](https://news.ycombinator.com/item?id=41484503) - [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
 * [2024-09-09, 00:04:01](https://news.ycombinator.com/item?id=41484337) - [ATProto for distributed system engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
-* [2024-09-08, 23:14:01](https://news.ycombinator.com/item?id=41484054) - [LLM_transcribe_recording: Bash Helper Using Mlx_whisper](https://gist.github.com/Olshansk/888533614765cd13139515d55573d676)
 * [2024-09-08, 22:31:20](https://news.ycombinator.com/item?id=41483789) - [Linux's Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-08, 22:11:02](https://news.ycombinator.com/item?id=41483675) - [Reclaim the Stack](https://reclaim-the-stack.com)
 * [2024-09-08, 22:06:44](https://news.ycombinator.com/item?id=41483654) - [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
@@ -29,6 +28,7 @@
 * [2024-09-05, 14:11:48](https://news.ycombinator.com/item?id=41456815) - [A Pipeline Made of Airbags](https://ferd.ca/a-pipeline-made-of-airbags.html)
 * [2024-09-05, 10:09:35](https://news.ycombinator.com/item?id=41455202) - [The Many SHAs of a GitHub Pull Request](https://www.kenmuse.com/blog/the-many-shas-of-a-github-pull-request/)
 * [2024-09-05, 08:37:44](https://news.ycombinator.com/item?id=41454746) - [Analysis of adversarial binary search game](https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/)
+* [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 18:47:59](https://news.ycombinator.com/item?id=41449128) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 
 ## [Archives](archives/index.md)
