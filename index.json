@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-09, 19:52:53",
+      "https://news.ycombinator.com/item?id=41492807"
+    ],
+    [
+      "Cohost to shut down at end of 2024",
+      "https://cohost.org/staff/post/7611443-cohost-to-shut-down"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 19:26:11",
       "https://news.ycombinator.com/item?id=41492470"
     ],
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=41490384"
     ],
     [
-      "300μs typo correction for 1.3M words",
+      "300μs typo detection for 1.3M words",
       "https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 16:37:29",
-      "https://news.ycombinator.com/item?id=41490290"
-    ],
-    [
-      "Windows NT vs. Unix: A design comparison",
-      "https://blogsystem5.substack.com/p/windows-nt-vs-unix-design"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-09-09, 15:33:14",
-      "https://news.ycombinator.com/item?id=41489537"
-    ],
-    [
-      "DuckDB 1.1.0 Released",
-      "https://duckdb.org/2024/09/09/announcing-duckdb-110.html"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 15:02:32",
       "https://news.ycombinator.com/item?id=41489167"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2024-09-09, 14:18:48",
-      "https://news.ycombinator.com/item?id=41488805"
-    ],
-    [
-      "Lessons learnt building a real-time audio application in Python",
-      "https://www.vangemert.dev/#/blog/lessons-learnt-backlooper"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 13:30:42",
       "https://news.ycombinator.com/item?id=41488353"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2024-09-08, 11:48:02",
+      "https://news.ycombinator.com/item?id=41479840"
+    ],
+    [
+      "ASCII cam – I made this using replit agent",
+      "https://ascii-cam.replit.app"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 08:20:14",
       "https://news.ycombinator.com/item?id=41478981"
     ],
@@ -287,6 +277,16 @@
     [
       "Oxygene: A modern language built on the foundation of Object Pascal",
       "https://www.remobjects.com/elements/oxygene/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 00:47:16",
+      "https://news.ycombinator.com/item?id=41461779"
+    ],
+    [
+      "Every webpage deserves to be a place",
+      "https://interconnected.org/home/2024/09/05/cursor-party"
     ]
   ],
   [
