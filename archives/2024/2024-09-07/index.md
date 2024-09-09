@@ -39,6 +39,7 @@
 * [2024-09-07, 14:16:16](https://news.ycombinator.com/item?id=41474060) - [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
 * [2024-09-07, 13:43:45](https://news.ycombinator.com/item?id=41473905) - [Scientists invent nanorobots that can repair brain aneurysms](https://www.livescience.com/health/scientists-invent-nanorobots-that-can-repair-brain-aneurysms)
 * [2024-09-07, 13:17:09](https://news.ycombinator.com/item?id=41473782) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
+* [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
 * [2024-09-07, 12:00:59](https://news.ycombinator.com/item?id=41473405) - [Sieve (YC W22) Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
 * [2024-09-07, 10:44:08](https://news.ycombinator.com/item?id=41473061) - [Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 * [2024-09-07, 09:58:22](https://news.ycombinator.com/item?id=41472855) - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)

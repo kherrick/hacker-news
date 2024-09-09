@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 15:03:41](https://news.ycombinator.com/item?id=41489182) - [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
 * [2024-09-09, 15:02:32](https://news.ycombinator.com/item?id=41489167) - [ESPN AI-generated recap of retiring player's final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
 * [2024-09-09, 14:59:06](https://news.ycombinator.com/item?id=41489137) - [Rust for the small things? but what about Python?](https://dataengineeringcentral.substack.com/p/rust-for-the-small-things)
 * [2024-09-09, 14:36:18](https://news.ycombinator.com/item?id=41488944) - [Why I Wrote Data Science for Crime Analysis with Python](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
 * [2024-09-09, 14:34:51](https://news.ycombinator.com/item?id=41488929) - [Gitea blocks PR from community, charging $$ for open-source contributions](https://github.com/go-gitea/gitea/pull/24257)
 * [2024-09-09, 14:31:16](https://news.ycombinator.com/item?id=41488905) - [TSMC's Arizona Trials Put Plant Productivity on Par with Taiwan](https://www.bloomberg.com/news/articles/2024-09-06/tsmc-s-arizona-trials-put-plant-productivity-on-par-with-taiwan)
 * [2024-09-09, 14:26:42](https://news.ycombinator.com/item?id=41488865) - [The Future of European Competitiveness](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en)
+* [2024-09-09, 13:30:08](https://news.ycombinator.com/item?id=41488347) - [Show HN: Open Message Format – a compact, vendor-agnostic spec for messages](https://github.com/open-llm-initiative/open-message-format)
 * [2024-09-09, 13:19:00](https://news.ycombinator.com/item?id=41488251) - [The Great Pacific Garbage Patch Can Be Cleaned for $7.5B](https://theoceancleanup.com/press/press-releases/the-great-pacific-garbage-patch-can-be-cleaned-for-7-5-billion/)
 * [2024-09-09, 13:02:29](https://news.ycombinator.com/item?id=41488116) - [America's best-paid CEOs have the worst-paid employees](https://pluralistic.net/2024/09/09/low-wage-100/)
 * [2024-09-09, 12:36:10](https://news.ycombinator.com/item?id=41487930) - [Police pressured him to confess to a murder that never happened](https://www.cnn.com/2024/09/05/us/fontana-pressured-murder-confession/index.html)
