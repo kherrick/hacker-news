@@ -34,6 +34,7 @@
 * [2024-09-06, 14:48:00](https://news.ycombinator.com/item?id=41466724) - [Parkinson's may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
 * [2024-09-06, 14:44:35](https://news.ycombinator.com/item?id=41466702) - [The fight between Prospero and Honduras](https://twitter.com/GarrisonLovely/status/1831104024612896795)
 * [2024-09-06, 14:41:19](https://news.ycombinator.com/item?id=41466667) - [Linux man-pages project maintenance](https://lwn.net/ml/all/4d7tq6a7febsoru3wjium4ekttuw2ouocv6jstdkthnacmzr6x@f2zfbe5hs7h5/)
+* [2024-09-06, 14:10:11](https://news.ycombinator.com/item?id=41466391) - [How colorful ribbon diagrams became the face of proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 * [2024-09-06, 13:49:50](https://news.ycombinator.com/item?id=41466182) - [YouTube deletes LTT video for teaching people how to live without Google](https://www.youtube.com/watch?v=qHwP6S_jf7g)
 * [2024-09-06, 13:44:57](https://news.ycombinator.com/item?id=41466145) - [Open Source undefined, part 1: the alternative origin story](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/)
 * [2024-09-06, 13:43:37](https://news.ycombinator.com/item?id=41466138) - [Google removed 'number of results' default setting for some users](https://support.google.com/websearch/thread/291486764/solved-results-per-page-setting-not-visible?hl=en)
