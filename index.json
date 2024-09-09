@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41486004"
     ],
     [
-      "What I Gave Up to Become an Engineering Manager",
+      "What I gave up to become an engineering manager",
       "https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41485967"
     ],
     [
-      "Please Stop Inventing New Software Licences",
+      "Please stop inventing new software licences",
       "https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/"
     ]
   ],
@@ -31,11 +31,21 @@
   ],
   [
     [
+      "2024-09-09, 02:38:43",
+      "https://news.ycombinator.com/item?id=41485001"
+    ],
+    [
+      "Bitten by Unicode",
+      "https://pyatl.dev/2024/09/01/bitten-by-unicode/"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 02:34:15",
       "https://news.ycombinator.com/item?id=41484991"
     ],
     [
-      "QUIC Is Not Quick Enough over Fast Internet",
+      "QUIC is not quick enough over fast internet",
       "https://dl.acm.org/doi/10.1145/3589334.3645323"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41484337"
     ],
     [
-      "ATProto for Distributed System Engineers",
+      "ATProto for distributed system engineers",
       "https://atproto.com/articles/atproto-for-distsys-engineers"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Core: an experimental new way to write videogames",
       "https://github.com/damn/core"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 17:53:06",
-      "https://news.ycombinator.com/item?id=41481882"
-    ],
-    [
-      "The Story Behind Fenster",
-      "https://zserge.com/posts/fenster/"
     ]
   ],
   [
