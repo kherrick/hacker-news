@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 04:38:01](https://news.ycombinator.com/item?id=41485492) - [Unrealized gains taxes are a pointless hassle. Much better ways to tax the rich](https://www.noahpinion.blog/p/unrealized-gains-taxes-are-a-pointless)
 * [2024-09-09, 04:27:12](https://news.ycombinator.com/item?id=41485447) - [The PermaTab Web Browser](https://lee-phillips.org/permatab/)
 * [2024-09-09, 04:11:34](https://news.ycombinator.com/item?id=41485370) - [How Apple Rules the World](https://www.bloomberg.com/features/2024-apple-rules-the-world/)
 * [2024-09-09, 02:38:43](https://news.ycombinator.com/item?id=41485001) - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
