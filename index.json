@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-09, 15:03:41",
+      "https://news.ycombinator.com/item?id=41489182"
+    ],
+    [
+      "The short history of global living conditions and why it matters that we know it",
+      "https://ourworldindata.org/a-history-of-global-living-conditions"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 15:02:32",
       "https://news.ycombinator.com/item?id=41489167"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2024-09-09, 13:19:00",
-      "https://news.ycombinator.com/item?id=41488251"
+      "2024-09-09, 13:30:08",
+      "https://news.ycombinator.com/item?id=41488347"
     ],
     [
-      "The Great Pacific Garbage Patch Can Be Cleaned for $7.5B",
-      "https://theoceancleanup.com/press/press-releases/the-great-pacific-garbage-patch-can-be-cleaned-for-7-5-billion/"
+      "Show HN: Open Message Format – a compact, vendor-agnostic spec for messages",
+      "https://github.com/open-llm-initiative/open-message-format"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2024-09-08, 17:23:14",
-      "https://news.ycombinator.com/item?id=41481682"
+      "2024-09-07, 12:23:31",
+      "https://news.ycombinator.com/item?id=41473518"
     ],
     [
-      "\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg",
-      "https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/"
+      "Show HN: I mapped HN's favorite books with GPT-4o",
+      "https://hnbooks.pieterma.es"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "A Pipeline Made of Airbags",
       "https://ferd.ca/a-pipeline-made-of-airbags.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 08:37:44",
-      "https://news.ycombinator.com/item?id=41454746"
-    ],
-    [
-      "Analysis of adversarial binary search game",
-      "https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/"
     ]
   ],
   [
