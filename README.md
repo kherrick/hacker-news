@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-09, 06:39:49](https://news.ycombinator.com/item?id=41486004) - [What I gave up to become an engineering manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)
-* [2024-09-09, 06:30:26](https://news.ycombinator.com/item?id=41485967) - [Please stop inventing new software licences](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
+* [2024-09-09, 06:30:26](https://news.ycombinator.com/item?id=41485967) - [Please stop inventing new software licences (2020)](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 * [2024-09-09, 02:38:43](https://news.ycombinator.com/item?id=41485001) - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
 * [2024-09-09, 02:34:15](https://news.ycombinator.com/item?id=41484991) - [QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 02:30:54](https://news.ycombinator.com/item?id=41484981) - [Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
