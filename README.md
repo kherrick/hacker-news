@@ -6,7 +6,7 @@
 * [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
 * [2024-09-09, 18:39:05](https://news.ycombinator.com/item?id=41491886) - [Apple Watch Series 10](https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/)
 * [2024-09-09, 17:54:57](https://news.ycombinator.com/item?id=41491346) - [Lessons Learned Managing Kubernetes in Enterprise Organizations](https://www.fairwinds.com/blog/5-lessons-managing-kubernetes-enterprise-organizations)
-* [2024-09-09, 17:42:07](https://news.ycombinator.com/item?id=41491191) - [AirPods Pro 2 adds 'clinical grade' hearing aid feature](https://9to5mac.com/2024/09/09/airpods-pro-2-adds-clinical-grade-hearing-aid-feature/)
+* [2024-09-09, 17:28:45](https://news.ycombinator.com/item?id=41491016) - [Carpentopod: A Walking Table Project](https://www.decarpentier.nl/carpentopod)
 * [2024-09-09, 17:21:28](https://news.ycombinator.com/item?id=41490921) - [How on-the-wrist sleep apnea detection works](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
 * [2024-09-09, 16:44:21](https://news.ycombinator.com/item?id=41490384) - [300μs typo detection for 1.3M words](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
 * [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
