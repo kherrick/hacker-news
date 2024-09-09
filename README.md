@@ -2,8 +2,8 @@
 
 * [2024-09-09, 19:26:11](https://news.ycombinator.com/item?id=41492470) - [Automated feature testing of Verilog parsers using fuzzing](https://johnwickerson.wordpress.com/2024/09/09/automated-feature-testing-of-verilog-parsers-using-fuzzing/)
 * [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
-* [2024-09-09, 18:51:38](https://news.ycombinator.com/item?id=41492081) - [Europe to End \"Salary Secrecy\": Employee Salaries to Become Public by 2026](https://fikku.com/111920)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the Next Token and Diffuse Images with One Multimodal Model](https://www.arxiv.org/abs/2408.11039)
+* [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [Apple iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
 * [2024-09-09, 18:39:05](https://news.ycombinator.com/item?id=41491886) - [Apple Watch Series 10](https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/)
 * [2024-09-09, 17:54:57](https://news.ycombinator.com/item?id=41491346) - [Lessons Learned Managing Kubernetes in Enterprise Organizations](https://www.fairwinds.com/blog/5-lessons-managing-kubernetes-enterprise-organizations)
 * [2024-09-09, 17:36:22](https://news.ycombinator.com/item?id=41491121) - [Apple Hearing Study shares preliminary insights on tinnitus](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)
