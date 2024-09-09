@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-09, 13:02:29",
-      "https://news.ycombinator.com/item?id=41488116"
-    ],
-    [
-      "America's best-paid CEOs have the worst-paid employees",
-      "https://pluralistic.net/2024/09/09/low-wage-100/"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 12:00:23",
       "https://news.ycombinator.com/item?id=41487717"
     ],
@@ -111,22 +101,22 @@
   ],
   [
     [
+      "2024-09-08, 21:12:14",
+      "https://news.ycombinator.com/item?id=41483249"
+    ],
+    [
+      "Open Props – Supercharged CSS Variables",
+      "https://open-props.style/"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 21:06:40",
       "https://news.ycombinator.com/item?id=41483216"
     ],
     [
       "The Fennel Programming Language",
       "https://fennel-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 19:51:20",
-      "https://news.ycombinator.com/item?id=41482679"
-    ],
-    [
-      "Htmx, Raku and Pico CSS",
-      "https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/"
     ]
   ],
   [
@@ -141,12 +131,32 @@
   ],
   [
     [
+      "2024-09-08, 18:51:59",
+      "https://news.ycombinator.com/item?id=41482276"
+    ],
+    [
+      "Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy",
+      "https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 18:21:00",
       "https://news.ycombinator.com/item?id=41482060"
     ],
     [
       "Core: an experimental new way to write videogames",
       "https://github.com/damn/core"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 17:53:06",
+      "https://news.ycombinator.com/item?id=41481882"
+    ],
+    [
+      "The Story Behind Fenster",
+      "https://zserge.com/posts/fenster/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Creating a Git Commit: The Hard Way",
       "https://avestura.dev/blog/creating-a-git-commit-the-hard-way"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 18:14:34",
-      "https://news.ycombinator.com/item?id=41448748"
-    ],
-    [
-      "Zen, CUDA, and Tensor Cores – Part 1 [video]",
-      "https://www.youtube.com/watch?v=uBtuMsAY7J8"
     ]
   ]
 ]
