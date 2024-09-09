@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-09, 00:04:01",
+      "https://news.ycombinator.com/item?id=41484337"
+    ],
+    [
+      "ATProto for Distributed System Engineers",
+      "https://atproto.com/articles/atproto-for-distsys-engineers"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 23:14:01",
+      "https://news.ycombinator.com/item?id=41484054"
+    ],
+    [
+      "LLM_transcribe_recording: Bash Helper Using Mlx_whisper",
+      "https://gist.github.com/Olshansk/888533614765cd13139515d55573d676"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 22:31:20",
+      "https://news.ycombinator.com/item?id=41483789"
+    ],
+    [
+      "Linux's Bedtime Routine",
+      "https://tookmund.com/2024/09/hibernation-preparation"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 22:11:02",
       "https://news.ycombinator.com/item?id=41483675"
     ],
@@ -57,16 +87,6 @@
     [
       "The Fennel Programming Language",
       "https://fennel-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 19:56:25",
-      "https://news.ycombinator.com/item?id=41482715"
-    ],
-    [
-      "How a Customer Got Trapped in Ambetter's Ghost Network",
-      "https://www.propublica.org/article/ambetter-ghost-network-consequences"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-09-08, 16:31:04",
-      "https://news.ycombinator.com/item?id=41481323"
-    ],
-    [
-      "Graphics Tricks from Boomers",
-      "https://arnaud-carre.github.io/2024-09-08-4ktribute/"
-    ]
-  ],
-  [
-    [
       "2024-09-08, 12:59:51",
       "https://news.ycombinator.com/item?id=41480145"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2024-09-08, 10:57:55",
-      "https://news.ycombinator.com/item?id=41479637"
-    ],
-    [
-      "LuaJIT PR: Add Support for RISC-V 64",
-      "https://github.com/LuaJIT/LuaJIT/pull/1267"
-    ]
-  ],
-  [
-    [
       "2024-09-08, 06:57:18",
       "https://news.ycombinator.com/item?id=41478690"
     ],
     [
       "alphaXiv: Open research discussion on top of arXiv",
       "https://www.alphaxiv.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-07, 17:32:48",
-      "https://news.ycombinator.com/item?id=41475124"
-    ],
-    [
-      "WebP: The WebPage Compression Format",
-      "https://purplesyringa.moe/blog/webp-the-webpage-compression-format/"
     ]
   ],
   [
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2024-09-04, 23:38:43",
-      "https://news.ycombinator.com/item?id=41451969"
-    ],
-    [
-      "A day in the life of the fastest supercomputer",
-      "https://www.nature.com/articles/d41586-024-02832-5"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 18:47:59",
       "https://news.ycombinator.com/item?id=41449128"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-09-04, 18:42:15",
+      "https://news.ycombinator.com/item?id=41449046"
+    ],
+    [
+      "The Problem with the \"Hard Problem\"",
+      "http://edwardfeser.blogspot.com/2024/09/the-problem-with-hard-problem.html"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 07:56:48",
       "https://news.ycombinator.com/item?id=41443012"
     ],
     [
       "LibrePythonista allows running IPython code in a LibreOffice spreadsheet",
       "https://github.com/Amourspirit/python_libre_pythonista_ext"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 00:21:47",
+      "https://news.ycombinator.com/item?id=41440620"
+    ],
+    [
+      "16th Century Irish Hipsters",
+      "http://irisharchaeology.ie/2013/08/16th-century-irish-hipsters/"
     ]
   ],
   [
