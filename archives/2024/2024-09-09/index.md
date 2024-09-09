@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 16:30:46](https://news.ycombinator.com/item?id=41490196) - [Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
 * [2024-09-09, 16:27:29](https://news.ycombinator.com/item?id=41490161) - [Why GitHub Won](https://blog.gitbutler.com/why-github-actually-won/)
 * [2024-09-09, 16:25:30](https://news.ycombinator.com/item?id=41490143) - [Project Hammer: reduce collusion in the Canadian grocery sector](https://jacobfilipp.com/hammer/)
@@ -11,7 +12,9 @@
 * [2024-09-09, 16:20:58](https://news.ycombinator.com/item?id=41490094) - [Study shows 'alarming' level of trust in AI for life and death decisions](https://www.theengineer.co.uk/content/news/study-shows-alarming-level-of-trust-in-ai-for-life-and-death-decisions/)
 * [2024-09-09, 16:11:13](https://news.ycombinator.com/item?id=41489989) - [The U.S. needs to pay more attention to electronic warfare](https://www.noahpinion.blog/p/the-us-needs-to-pay-more-attention)
 * [2024-09-09, 16:01:15](https://news.ycombinator.com/item?id=41489875) - [EU competitiveness: Looking ahead [pdf]](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf)
+* [2024-09-09, 15:57:16](https://news.ycombinator.com/item?id=41489832) - [B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2024-09-09, 15:41:38](https://news.ycombinator.com/item?id=41489644) - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
+* [2024-09-09, 15:40:20](https://news.ycombinator.com/item?id=41489633) - [Introducing ‚MNT Reform Next‘](https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html)
 * [2024-09-09, 15:33:14](https://news.ycombinator.com/item?id=41489537) - [DuckDB 1.1.0 Released](https://duckdb.org/2024/09/09/announcing-duckdb-110.html)
 * [2024-09-09, 15:11:11](https://news.ycombinator.com/item?id=41489267) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
 * [2024-09-09, 15:03:41](https://news.ycombinator.com/item?id=41489182) - [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
