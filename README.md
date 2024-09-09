@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-09, 10:29:00](https://news.ycombinator.com/item?id=41487094) - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
-* [2024-09-09, 10:19:55](https://news.ycombinator.com/item?id=41487044) - [Show HN: What do your GitHub starred repos say about you?](https://starlens.aisprint.dev/)
 * [2024-09-09, 10:11:58](https://news.ycombinator.com/item?id=41487002) - [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
 * [2024-09-09, 09:58:45](https://news.ycombinator.com/item?id=41486935) - [Support for U.S. TikTok ban continues to decline](https://www.pewresearch.org/short-reads/2024/09/05/support-for-a-us-tiktok-ban-continues-to-decline-and-half-of-adults-doubt-it-will-happen/)
 * [2024-09-09, 08:36:52](https://news.ycombinator.com/item?id=41486565) - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
@@ -22,6 +21,7 @@
 * [2024-09-08, 18:21:00](https://news.ycombinator.com/item?id=41482060) - [Core: an experimental new way to write videogames](https://github.com/damn/core)
 * [2024-09-08, 17:23:14](https://news.ycombinator.com/item?id=41481682) - [\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 * [2024-09-06, 16:20:55](https://news.ycombinator.com/item?id=41467503) - [Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer](https://www.mdpi.com/2076-393X/12/9/958#)
+* [2024-09-05, 23:19:09](https://news.ycombinator.com/item?id=41461251) - [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 * [2024-09-05, 20:40:39](https://news.ycombinator.com/item?id=41460220) - [A tiny self-remaking C program](https://www.humprog.org/~stephen/blog/2024/09/05/)
 * [2024-09-05, 18:19:41](https://news.ycombinator.com/item?id=41459161) - [2.7-meters Telescope mirror shot 7 times (1970)](http://www.cbat.eps.harvard.edu/iauc/02200/02209.html#Item1)
 * [2024-09-05, 14:18:54](https://news.ycombinator.com/item?id=41456892) - [Bringing insights into TCP resets and timeouts to Cloudflare Radar](https://blog.cloudflare.com/tcp-resets-timeouts/)
