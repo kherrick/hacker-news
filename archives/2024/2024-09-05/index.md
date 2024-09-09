@@ -76,6 +76,7 @@
 * [2024-09-05, 09:23:05](https://news.ycombinator.com/item?id=41454961) - [Five Geek Social Fallacies (2003)](https://plausiblydeniable.com/five-geek-social-fallacies/)
 * [2024-09-05, 09:02:29](https://news.ycombinator.com/item?id=41454870) - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 08:44:58](https://news.ycombinator.com/item?id=41454779) - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
+* [2024-09-05, 08:37:44](https://news.ycombinator.com/item?id=41454746) - [Analysis of adversarial binary search game](https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/)
 * [2024-09-05, 08:36:56](https://news.ycombinator.com/item?id=41454741) - [Building a WoW (World of Warcraft) Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
 * [2024-09-05, 07:58:07](https://news.ycombinator.com/item?id=41454555) - [Shell Has a Forth-Like Quality](https://www.oilshell.org/blog/2017/01/13.html)
 * [2024-09-05, 07:34:58](https://news.ycombinator.com/item?id=41454423) - [A SpamAssassin Surprise](https://lwn.net/SubscriberLink/987566/3be928f6e483853d/)
