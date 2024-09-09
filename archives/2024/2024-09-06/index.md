@@ -18,6 +18,7 @@
 * [2024-09-06, 21:04:31](https://news.ycombinator.com/item?id=41469714) - [How Local Governments Got Hooked on One Company's Janky Software](https://www.bloomberg.com/news/features/2024-09-05/tyler-tech-s-odyssey-software-took-over-local-government-and-courts)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 19:33:04](https://news.ycombinator.com/item?id=41469040) - [PHP is the new JavaScript?](https://www.mux.com/blog/php-is-the-new-javascript)
+* [2024-09-06, 19:04:56](https://news.ycombinator.com/item?id=41468841) - [DevHub.app – Developer Utilities for macOS](https://github.com/jaywcjlove/DevHub)
 * [2024-09-06, 18:58:20](https://news.ycombinator.com/item?id=41468794) - [Tesla launches first all-electric 'Giga Train' – and it's free to ride](https://www.yahoo.com/tech/tesla-launches-worlds-first-electric-111535136.html)
 * [2024-09-06, 18:41:06](https://news.ycombinator.com/item?id=41468667) - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
 * [2024-09-06, 18:31:51](https://news.ycombinator.com/item?id=41468594) - [Meta will let third-party apps place calls to WhatsApp and Messenger users](https://techcrunch.com/2024/09/06/meta-will-let-third-party-apps-place-calls-to-whatsapp-and-messenger-users-in-2027/)
