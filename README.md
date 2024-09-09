@@ -2,7 +2,6 @@
 
 * [2024-09-09, 20:18:55](https://news.ycombinator.com/item?id=41493178) - [Warpstream Joined Confluent](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)
 * [2024-09-09, 19:52:53](https://news.ycombinator.com/item?id=41492807) - [Cohost to shut down at end of 2024](https://cohost.org/staff/post/7611443-cohost-to-shut-down)
-* [2024-09-09, 19:26:11](https://news.ycombinator.com/item?id=41492470) - [Automated feature testing of Verilog parsers using fuzzing](https://johnwickerson.wordpress.com/2024/09/09/automated-feature-testing-of-verilog-parsers-using-fuzzing/)
 * [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the next token and diffuse images with one multimodal model](https://www.arxiv.org/abs/2408.11039)
 * [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
@@ -24,6 +23,7 @@
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
 * [2024-09-09, 11:59:59](https://news.ycombinator.com/item?id=41487714) - [Show HN: Io_uring for Ruby](https://github.com/digital-fabric/iou)
 * [2024-09-08, 11:48:02](https://news.ycombinator.com/item?id=41479840) - [ASCII cam – I made this using replit agent](https://ascii-cam.replit.app)
+* [2024-09-08, 09:29:07](https://news.ycombinator.com/item?id=41479241) - [Cecilia Payne-Gaposchkin discovered that stars are mostly made of hydrogen](https://www.aps.org/people/cecilia-payne-gaposchkin)
 * [2024-09-08, 08:20:14](https://news.ycombinator.com/item?id=41478981) - [Rɐbbit Dynamic Datascapes](https://github.com/ryrobes/rvbbit)
 * [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
 * [2024-09-06, 14:10:11](https://news.ycombinator.com/item?id=41466391) - [How colorful ribbon diagrams became the face of proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
