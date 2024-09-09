@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 22:22:15](https://news.ycombinator.com/item?id=41494786) - [Sigrok – a portable, cross-platform, FOSS signal analysis software suite](https://sigrok.org/wiki/Main_Page)
 * [2024-09-09, 21:14:27](https://news.ycombinator.com/item?id=41493976) - [James Earl Jones, voice of Darth Vader, dies aged 93](https://www.bbc.co.uk/news/articles/ce81rkg87w8o)
 * [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones Dies at 93](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
 * [2024-09-09, 20:37:29](https://news.ycombinator.com/item?id=41493450) - [She Ate Poppy Seed Salad Just Before Giving Birth. Then They Took Her Baby Away](https://www.motherjones.com/criminal-justice/2024/09/drug-test-pregnancy-pennsylvania-california/)

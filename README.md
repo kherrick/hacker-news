@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-09, 22:22:15](https://news.ycombinator.com/item?id=41494786) - [Sigrok – a portable, cross-platform, FOSS signal analysis software suite](https://sigrok.org/wiki/Main_Page)
 * [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones has died](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
 * [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the next token and diffuse images with one multimodal model](https://www.arxiv.org/abs/2408.11039)
 * [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
 * [2024-09-09, 18:39:05](https://news.ycombinator.com/item?id=41491886) - [Apple Watch Series 10](https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/)
-* [2024-09-09, 17:42:07](https://news.ycombinator.com/item?id=41491191) - [AirPods Pro 2 adds 'clinical grade' hearing aid feature](https://9to5mac.com/2024/09/09/airpods-pro-2-adds-clinical-grade-hearing-aid-feature/)
 * [2024-09-09, 17:28:45](https://news.ycombinator.com/item?id=41491016) - [Carpentopod: A Walking Table Project](https://www.decarpentier.nl/carpentopod)
 * [2024-09-09, 17:21:28](https://news.ycombinator.com/item?id=41490921) - [How on-the-wrist sleep apnea detection works](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
 * [2024-09-09, 16:44:21](https://news.ycombinator.com/item?id=41490384) - [300μs typo detection for 1.3M words](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
