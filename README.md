@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones has died](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
-* [2024-09-09, 20:37:29](https://news.ycombinator.com/item?id=41493450) - [She Ate Poppy Seed Salad Just Before Giving Birth. Then They Took Her Baby Away](https://www.motherjones.com/criminal-justice/2024/09/drug-test-pregnancy-pennsylvania-california/)
 * [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the next token and diffuse images with one multimodal model](https://www.arxiv.org/abs/2408.11039)
 * [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
@@ -30,6 +29,7 @@
 * [2024-09-06, 14:10:11](https://news.ycombinator.com/item?id=41466391) - [How colorful ribbon diagrams became the face of proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 * [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
+* [2024-09-05, 01:59:20](https://news.ycombinator.com/item?id=41452780) - [Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)
 
 ## [Archives](archives/index.md)
 
