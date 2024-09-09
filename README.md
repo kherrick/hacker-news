@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-09, 20:18:55](https://news.ycombinator.com/item?id=41493178) - [Warpstream Joined Confluent](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)
+* [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones Dies at 93](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
 * [2024-09-09, 19:52:53](https://news.ycombinator.com/item?id=41492807) - [Cohost to shut down at end of 2024](https://cohost.org/staff/post/7611443-cohost-to-shut-down)
 * [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the next token and diffuse images with one multimodal model](https://www.arxiv.org/abs/2408.11039)
