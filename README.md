@@ -18,7 +18,6 @@
 * [2024-09-09, 15:57:16](https://news.ycombinator.com/item?id=41489832) - [B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2024-09-09, 15:41:38](https://news.ycombinator.com/item?id=41489644) - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
 * [2024-09-09, 15:40:20](https://news.ycombinator.com/item?id=41489633) - [Introducing ‚MNT Reform Next‘](https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html)
-* [2024-09-09, 14:43:28](https://news.ycombinator.com/item?id=41488994) - [Smartphone Tethering: A Bigger Grind Than It Needed to Be](https://tedium.co/2024/09/08/smartphone-tethering-cellular-modem-history/)
 * [2024-09-09, 14:36:18](https://news.ycombinator.com/item?id=41488944) - [Why I Wrote Data Science for Crime Analysis with Python (2023)](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
 * [2024-09-09, 13:30:42](https://news.ycombinator.com/item?id=41488353) - [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/)
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
@@ -30,6 +29,7 @@
 * [2024-09-06, 14:10:11](https://news.ycombinator.com/item?id=41466391) - [How colorful ribbon diagrams became the face of proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 * [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
+* [2024-09-05, 01:59:20](https://news.ycombinator.com/item?id=41452780) - [Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)
 
 ## [Archives](archives/index.md)
 
