@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 04:27:12](https://news.ycombinator.com/item?id=41485447) - [The PermaTab Web Browser](https://lee-phillips.org/permatab/)
+* [2024-09-09, 04:11:34](https://news.ycombinator.com/item?id=41485370) - [How Apple Rules the World](https://www.bloomberg.com/features/2024-apple-rules-the-world/)
 * [2024-09-09, 02:38:43](https://news.ycombinator.com/item?id=41485001) - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
 * [2024-09-09, 02:34:15](https://news.ycombinator.com/item?id=41484991) - [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 02:30:54](https://news.ycombinator.com/item?id=41484981) - [Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
