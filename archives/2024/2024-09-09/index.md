@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
 * [2024-09-09, 18:51:38](https://news.ycombinator.com/item?id=41492081) - [Europe to End \"Salary Secrecy\": Employee Salaries to Become Public by 2026](https://fikku.com/111920)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the Next Token and Diffuse Images with One Multimodal Model](https://www.arxiv.org/abs/2408.11039)
 * [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [Apple iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)

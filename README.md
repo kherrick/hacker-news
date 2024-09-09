@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
 * [2024-09-09, 18:51:38](https://news.ycombinator.com/item?id=41492081) - [Europe to End \"Salary Secrecy\": Employee Salaries to Become Public by 2026](https://fikku.com/111920)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the Next Token and Diffuse Images with One Multimodal Model](https://www.arxiv.org/abs/2408.11039)
 * [2024-09-09, 18:39:05](https://news.ycombinator.com/item?id=41491886) - [Apple Watch Series 10](https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/)
@@ -17,7 +18,6 @@
 * [2024-09-09, 15:41:38](https://news.ycombinator.com/item?id=41489644) - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
 * [2024-09-09, 15:40:20](https://news.ycombinator.com/item?id=41489633) - [Introducing ‚MNT Reform Next‘](https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html)
 * [2024-09-09, 15:33:14](https://news.ycombinator.com/item?id=41489537) - [DuckDB 1.1.0 Released](https://duckdb.org/2024/09/09/announcing-duckdb-110.html)
-* [2024-09-09, 15:02:41](https://news.ycombinator.com/item?id=41489170) - [20% more powerful perovskite solar panels enter commercial use](https://www.oxfordpv.com/news/20-more-powerful-tandem-solar-panels-enter-commercial-use-first-time-us)
 * [2024-09-09, 15:02:32](https://news.ycombinator.com/item?id=41489167) - [ESPN AI-generated recap of retiring player's final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
 * [2024-09-09, 14:43:28](https://news.ycombinator.com/item?id=41488994) - [Smartphone Tethering: A Bigger Grind Than It Needed to Be](https://tedium.co/2024/09/08/smartphone-tethering-cellular-modem-history/)
 * [2024-09-09, 14:36:18](https://news.ycombinator.com/item?id=41488944) - [Why I Wrote Data Science for Crime Analysis with Python (2023)](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
