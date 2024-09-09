@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-09, 16:37:29",
+      "https://news.ycombinator.com/item?id=41490290"
+    ],
+    [
+      "Windows NT vs. Unix: A design comparison",
+      "https://blogsystem5.substack.com/p/windows-nt-vs-unix-design"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 16:30:46",
       "https://news.ycombinator.com/item?id=41490196"
     ],
@@ -61,12 +71,32 @@
   ],
   [
     [
+      "2024-09-09, 15:57:16",
+      "https://news.ycombinator.com/item?id=41489832"
+    ],
+    [
+      "B-Trees and Database Indexes",
+      "https://planetscale.com/blog/btrees-and-database-indexes"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 15:41:38",
       "https://news.ycombinator.com/item?id=41489644"
     ],
     [
       "Hacking misconfigured AWS S3 buckets: A complete guide",
       "https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 15:40:20",
+      "https://news.ycombinator.com/item?id=41489633"
+    ],
+    [
+      "Introducing ‚MNT Reform Next‘",
+      "https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2024-09-09, 10:33:26",
-      "https://news.ycombinator.com/item?id=41487119"
-    ],
-    [
-      "Tempted by the Dark Side, I now have a Commodore 128",
-      "https://www.goto10retro.com/p/tempted-by-the-dark-side-i-now-have"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 10:05:07",
       "https://news.ycombinator.com/item?id=41486970"
     ],
@@ -227,16 +247,6 @@
     [
       "QUIC is not quick enough over fast internet",
       "https://dl.acm.org/doi/10.1145/3589334.3645323"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 21:37:12",
-      "https://news.ycombinator.com/item?id=41483434"
-    ],
-    [
-      "Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]",
-      "https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Paper types ranked by likelihood of paper cuts",
       "https://phys.org/news/2024-08-paper-likelihood.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 18:47:59",
-      "https://news.ycombinator.com/item?id=41449128"
-    ],
-    [
-      "Creating a Git Commit: The Hard Way",
-      "https://avestura.dev/blog/creating-a-git-commit-the-hard-way"
     ]
   ]
 ]
