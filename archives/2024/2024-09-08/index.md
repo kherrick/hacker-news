@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
+* [2024-09-08, 23:14:01](https://news.ycombinator.com/item?id=41484054) - [LLM_transcribe_recording: Bash Helper Using Mlx_whisper](https://gist.github.com/Olshansk/888533614765cd13139515d55573d676)
+* [2024-09-08, 22:31:20](https://news.ycombinator.com/item?id=41483789) - [Linux's Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-08, 22:11:02](https://news.ycombinator.com/item?id=41483675) - [Reclaim the Stack](https://reclaim-the-stack.com)
 * [2024-09-08, 22:06:44](https://news.ycombinator.com/item?id=41483654) - [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
 * [2024-09-08, 21:57:57](https://news.ycombinator.com/item?id=41483581) - [FBI recommends using an ad blocker](https://www.ic3.gov/Media/Y2022/PSA221221)

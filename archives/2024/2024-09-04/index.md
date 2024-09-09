@@ -29,6 +29,7 @@
 * [2024-09-04, 18:56:00](https://news.ycombinator.com/item?id=41449229) - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
 * [2024-09-04, 18:47:59](https://news.ycombinator.com/item?id=41449128) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 * [2024-09-04, 18:46:33](https://news.ycombinator.com/item?id=41449111) - [Fake CV lands top 'engineer' in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
+* [2024-09-04, 18:42:15](https://news.ycombinator.com/item?id=41449046) - [The Problem with the \"Hard Problem\"](http://edwardfeser.blogspot.com/2024/09/the-problem-with-hard-problem.html)
 * [2024-09-04, 18:41:16](https://news.ycombinator.com/item?id=41449038) - [Printing Money](https://neal.fun/printing-money/)
 * [2024-09-04, 18:35:53](https://news.ycombinator.com/item?id=41448985) - [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
 * [2024-09-04, 18:31:01](https://news.ycombinator.com/item?id=41448931) - [Major book publishers defeat Internet Archive appeal over digital scanning](https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html)
@@ -126,4 +127,5 @@
 * [2024-09-04, 00:59:11](https://news.ycombinator.com/item?id=41440842) - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
 * [2024-09-04, 00:49:27](https://news.ycombinator.com/item?id=41440783) - [Draftkings fined after Slots \"glitch\" made it impossible to win](https://gamblingindustrynews.com/news/regulation/draftkings-fined-online-slot-no-payouts/)
 * [2024-09-04, 00:30:15](https://news.ycombinator.com/item?id=41440662) - [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)
+* [2024-09-04, 00:21:47](https://news.ycombinator.com/item?id=41440620) - [16th Century Irish Hipsters](http://irisharchaeology.ie/2013/08/16th-century-irish-hipsters/)
 * [2024-09-04, 00:11:21](https://news.ycombinator.com/item?id=41440567) - [Intel: New Core Ultra Processors Deliver Breakthrough Performance](https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html)
