@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-09, 20:18:55",
+      "https://news.ycombinator.com/item?id=41493178"
+    ],
+    [
+      "Warpstream Joined Confluent",
+      "https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 19:52:53",
       "https://news.ycombinator.com/item?id=41492807"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41492077"
     ],
     [
-      "Transfusion: Predict the Next Token and Diffuse Images with One Multimodal Model",
+      "Transfusion: Predict the next token and diffuse images with one multimodal model",
       "https://www.arxiv.org/abs/2408.11039"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=41490161"
     ],
     [
-      "Why GitHub Won",
+      "Why GitHub won",
       "https://blog.gitbutler.com/why-github-actually-won/"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-09-09, 15:33:14",
-      "https://news.ycombinator.com/item?id=41489537"
-    ],
-    [
-      "DuckDB 1.1.0 Released",
-      "https://duckdb.org/2024/09/09/announcing-duckdb-110.html"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 14:43:28",
       "https://news.ycombinator.com/item?id=41488994"
     ],
@@ -197,16 +197,6 @@
     [
       "Why I Wrote Data Science for Crime Analysis with Python (2023)",
       "https://crimede-coder.com/blogposts/2023/EarlyReleasePython"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 14:24:24",
-      "https://news.ycombinator.com/item?id=41488846"
-    ],
-    [
-      "ReMamba: Equip Mamba with Effective Long-Sequence Modeling",
-      "https://arxiv.org/abs/2408.15496"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: I mapped HN's favorite books with GPT-4o",
       "https://hnbooks.pieterma.es"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 14:10:11",
+      "https://news.ycombinator.com/item?id=41466391"
+    ],
+    [
+      "How colorful ribbon diagrams became the face of proteins",
+      "https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/"
     ]
   ],
   [
