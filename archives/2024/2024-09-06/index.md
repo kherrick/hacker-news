@@ -14,6 +14,7 @@
 * [2024-09-06, 22:16:42](https://news.ycombinator.com/item?id=41470112) - [PwC tells UK staff it will monitor office attendance using location data](https://www.ft.com/content/11ccedba-f120-4dd2-a98f-19e8b59d7764)
 * [2024-09-06, 22:13:47](https://news.ycombinator.com/item?id=41470099) - [Manipulating Large Language Models to Increase Product Visibility](https://arxiv.org/abs/2404.07981)
 * [2024-09-06, 22:09:14](https://news.ycombinator.com/item?id=41470074) - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
+* [2024-09-06, 22:01:40](https://news.ycombinator.com/item?id=41470034) - [NTT All-Photonics Network Activated Between Taiwan and Japan](https://insidehpc.com/2024/08/ntt-all-photonics-network-activated-between-taiwan-and-japan/)
 * [2024-09-06, 21:04:31](https://news.ycombinator.com/item?id=41469714) - [How Local Governments Got Hooked on One Company's Janky Software](https://www.bloomberg.com/news/features/2024-09-05/tyler-tech-s-odyssey-software-took-over-local-government-and-courts)
 * [2024-09-06, 21:02:21](https://news.ycombinator.com/item?id=41469704) - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-09-06, 19:33:04](https://news.ycombinator.com/item?id=41469040) - [PHP is the new JavaScript?](https://www.mux.com/blog/php-is-the-new-javascript)

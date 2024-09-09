@@ -11,6 +11,7 @@
 * [2024-09-08, 21:57:57](https://news.ycombinator.com/item?id=41483581) - [FBI recommends using an ad blocker](https://www.ic3.gov/Media/Y2022/PSA221221)
 * [2024-09-08, 21:52:04](https://news.ycombinator.com/item?id=41483541) - [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
 * [2024-09-08, 21:37:30](https://news.ycombinator.com/item?id=41483439) - [YouTube restricts teenager access to fitness videos](https://www.euronews.com/health/2024/09/07/youtube-will-begin-limiting-access-to-fitness-videos-for-european-teens-heres-why)
+* [2024-09-08, 21:37:12](https://news.ycombinator.com/item?id=41483434) - [Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]](https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf)
 * [2024-09-08, 21:12:14](https://news.ycombinator.com/item?id=41483249) - [Open Props – Supercharged CSS Variables](https://open-props.style/)
 * [2024-09-08, 21:06:40](https://news.ycombinator.com/item?id=41483216) - [The Fennel Programming Language](https://fennel-lang.org/)
 * [2024-09-08, 21:00:58](https://news.ycombinator.com/item?id=41483178) - [The $12,000 Harvard Class Celebrities Are Fighting to Get Into](https://www.bloomberg.com/news/features/2024-07-22/the-12-000-harvard-business-class-celebrities-are-fighting-to-get-into)
