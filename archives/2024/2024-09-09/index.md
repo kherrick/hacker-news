@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 13:02:29](https://news.ycombinator.com/item?id=41488116) - [America's best-paid CEOs have the worst-paid employees](https://pluralistic.net/2024/09/09/low-wage-100/)
+* [2024-09-09, 12:36:10](https://news.ycombinator.com/item?id=41487930) - [Police pressured him to confess to a murder that never happened](https://www.cnn.com/2024/09/05/us/fontana-pressured-murder-confession/index.html)
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
 * [2024-09-09, 10:29:00](https://news.ycombinator.com/item?id=41487094) - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
 * [2024-09-09, 10:19:55](https://news.ycombinator.com/item?id=41487044) - [Show HN: What do your GitHub starred repos say about you?](https://starlens.aisprint.dev/)
@@ -20,6 +22,7 @@
 * [2024-09-09, 02:38:43](https://news.ycombinator.com/item?id=41485001) - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
 * [2024-09-09, 02:34:15](https://news.ycombinator.com/item?id=41484991) - [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 02:30:54](https://news.ycombinator.com/item?id=41484981) - [Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
+* [2024-09-09, 02:11:00](https://news.ycombinator.com/item?id=41484914) - [JPEG XL: Industry-leading image compression and fidelity](https://jpegxl.info)
 * [2024-09-09, 01:27:34](https://news.ycombinator.com/item?id=41484743) - [Do Programmers Actually Need Touch Typing?](http://blog.hakanserce.com/post/do-programmers-actually-need-touch-typing/)
 * [2024-09-09, 01:06:19](https://news.ycombinator.com/item?id=41484633) - [⓿ dependencies!](https://0dependencies.dev/)
 * [2024-09-09, 00:39:53](https://news.ycombinator.com/item?id=41484503) - [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
