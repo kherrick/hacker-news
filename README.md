@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-09, 04:38:01](https://news.ycombinator.com/item?id=41485492) - [Unrealized gains taxes are a pointless hassle. Much better ways to tax the rich](https://www.noahpinion.blog/p/unrealized-gains-taxes-are-a-pointless)
+* [2024-09-09, 06:30:26](https://news.ycombinator.com/item?id=41485967) - [Please Stop Inventing New Software Licences](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 * [2024-09-09, 04:36:18](https://news.ycombinator.com/item?id=41485485) - [Study links bananas, oats and yoghurt to greater diabetes risk in susceptible](https://www.theguardian.com/society/article/2024/sep/08/study-links-bananas-oats-and-yoghurt-to-greater-diabetes-risk-in-susceptible-children)
 * [2024-09-09, 02:34:15](https://news.ycombinator.com/item?id=41484991) - [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 02:30:54](https://news.ycombinator.com/item?id=41484981) - [Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
