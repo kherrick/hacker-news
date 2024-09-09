@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-09, 21:14:27](https://news.ycombinator.com/item?id=41493976) - [James Earl Jones, voice of Darth Vader, dies aged 93](https://www.bbc.co.uk/news/articles/ce81rkg87w8o)
 * [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones Dies at 93](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
 * [2024-09-09, 19:52:53](https://news.ycombinator.com/item?id=41492807) - [Cohost to shut down at end of 2024](https://cohost.org/staff/post/7611443-cohost-to-shut-down)
 * [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
@@ -29,7 +30,6 @@
 * [2024-09-06, 14:10:11](https://news.ycombinator.com/item?id=41466391) - [How colorful ribbon diagrams became the face of proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 * [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
-* [2024-09-05, 01:59:20](https://news.ycombinator.com/item?id=41452780) - [Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)
 
 ## [Archives](archives/index.md)
 
