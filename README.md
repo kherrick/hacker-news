@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-09, 18:51:38](https://news.ycombinator.com/item?id=41492081) - [Europe to End \"Salary Secrecy\": Employee Salaries to Become Public by 2026](https://fikku.com/111920)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the Next Token and Diffuse Images with One Multimodal Model](https://www.arxiv.org/abs/2408.11039)
 * [2024-09-09, 18:39:05](https://news.ycombinator.com/item?id=41491886) - [Apple Watch Series 10](https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/)
 * [2024-09-09, 17:54:57](https://news.ycombinator.com/item?id=41491346) - [Lessons Learned Managing Kubernetes in Enterprise Organizations](https://www.fairwinds.com/blog/5-lessons-managing-kubernetes-enterprise-organizations)
@@ -25,7 +26,6 @@
 * [2024-09-09, 13:30:42](https://news.ycombinator.com/item?id=41488353) - [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/)
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
 * [2024-09-09, 11:59:59](https://news.ycombinator.com/item?id=41487714) - [Show HN: Io_uring for Ruby](https://github.com/digital-fabric/iou)
-* [2024-09-08, 09:16:59](https://news.ycombinator.com/item?id=41479189) - [Ask HN: How do you manage your prompts in ChatGPT?](https://news.ycombinator.com/item?id=41479189)
 * [2024-09-08, 08:20:14](https://news.ycombinator.com/item?id=41478981) - [Rɐbbit Dynamic Datascapes](https://github.com/ryrobes/rvbbit)
 * [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
 * [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
