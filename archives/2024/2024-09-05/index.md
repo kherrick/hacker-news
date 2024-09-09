@@ -10,6 +10,7 @@
 * [2024-09-05, 23:00:41](https://news.ycombinator.com/item?id=41461138) - [What to do about America's killer cars](https://www.economist.com/leaders/2024/09/05/what-to-do-about-americas-killer-cars)
 * [2024-09-05, 22:37:12](https://news.ycombinator.com/item?id=41460984) - [First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor](https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor)
 * [2024-09-05, 22:32:43](https://news.ycombinator.com/item?id=41460944) - [Cron Jobs on Linux – Comprehensive Guide with Examples](https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/)
+* [2024-09-05, 21:33:33](https://news.ycombinator.com/item?id=41460587) - [The Laying of the American Trans-Pacific Cable (1903)](https://atlantic-cable.com/Article/1902-JournElec/index.htm)
 * [2024-09-05, 20:47:29](https://news.ycombinator.com/item?id=41460276) - [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
 * [2024-09-05, 20:40:39](https://news.ycombinator.com/item?id=41460220) - [A tiny self-remaking C program](https://www.humprog.org/~stephen/blog/2024/09/05/)
 * [2024-09-05, 20:15:43](https://news.ycombinator.com/item?id=41460061) - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
