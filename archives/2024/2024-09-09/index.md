@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
 * [2024-09-09, 15:02:32](https://news.ycombinator.com/item?id=41489167) - [ESPN AI-generated recap of retiring player's final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
+* [2024-09-09, 14:59:06](https://news.ycombinator.com/item?id=41489137) - [Rust for the small things? but what about Python?](https://dataengineeringcentral.substack.com/p/rust-for-the-small-things)
+* [2024-09-09, 14:36:18](https://news.ycombinator.com/item?id=41488944) - [Why I Wrote Data Science for Crime Analysis with Python](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
 * [2024-09-09, 14:34:51](https://news.ycombinator.com/item?id=41488929) - [Gitea blocks PR from community, charging $$ for open-source contributions](https://github.com/go-gitea/gitea/pull/24257)
 * [2024-09-09, 14:31:16](https://news.ycombinator.com/item?id=41488905) - [TSMC's Arizona Trials Put Plant Productivity on Par with Taiwan](https://www.bloomberg.com/news/articles/2024-09-06/tsmc-s-arizona-trials-put-plant-productivity-on-par-with-taiwan)
 * [2024-09-09, 14:26:42](https://news.ycombinator.com/item?id=41488865) - [The Future of European Competitiveness](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en)
@@ -12,6 +14,7 @@
 * [2024-09-09, 13:02:29](https://news.ycombinator.com/item?id=41488116) - [America's best-paid CEOs have the worst-paid employees](https://pluralistic.net/2024/09/09/low-wage-100/)
 * [2024-09-09, 12:36:10](https://news.ycombinator.com/item?id=41487930) - [Police pressured him to confess to a murder that never happened](https://www.cnn.com/2024/09/05/us/fontana-pressured-murder-confession/index.html)
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
+* [2024-09-09, 11:59:59](https://news.ycombinator.com/item?id=41487714) - [Show HN: Io_uring for Ruby](https://github.com/digital-fabric/iou)
 * [2024-09-09, 10:33:26](https://news.ycombinator.com/item?id=41487119) - [Tempted by the Dark Side, I now have a Commodore 128](https://www.goto10retro.com/p/tempted-by-the-dark-side-i-now-have)
 * [2024-09-09, 10:29:00](https://news.ycombinator.com/item?id=41487094) - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
 * [2024-09-09, 10:19:55](https://news.ycombinator.com/item?id=41487044) - [Show HN: What do your GitHub starred repos say about you?](https://starlens.aisprint.dev/)
