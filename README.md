@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [Apple iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
 * [2024-09-09, 17:54:57](https://news.ycombinator.com/item?id=41491346) - [Lessons Learned Managing Kubernetes in Enterprise Organizations](https://www.fairwinds.com/blog/5-lessons-managing-kubernetes-enterprise-organizations)
 * [2024-09-09, 17:42:07](https://news.ycombinator.com/item?id=41491191) - [AirPods Pro 2 adds 'clinical grade' hearing aid feature](https://9to5mac.com/2024/09/09/airpods-pro-2-adds-clinical-grade-hearing-aid-feature/)
 * [2024-09-09, 17:36:22](https://news.ycombinator.com/item?id=41491121) - [Apple Hearing Study shares preliminary insights on tinnitus](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)
@@ -28,7 +29,6 @@
 * [2024-09-08, 09:16:59](https://news.ycombinator.com/item?id=41479189) - [Ask HN: How do you manage your prompts in ChatGPT?](https://news.ycombinator.com/item?id=41479189)
 * [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
 * [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
-* [2024-09-05, 20:40:39](https://news.ycombinator.com/item?id=41460220) - [A tiny self-remaking C program](https://www.humprog.org/~stephen/blog/2024/09/05/)
 * [2024-09-05, 01:59:20](https://news.ycombinator.com/item?id=41452780) - [Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)
 
 ## [Archives](archives/index.md)
