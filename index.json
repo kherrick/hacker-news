@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-09-09, 14:59:06",
+      "https://news.ycombinator.com/item?id=41489137"
+    ],
+    [
+      "Rust for the small things? but what about Python?",
+      "https://dataengineeringcentral.substack.com/p/rust-for-the-small-things"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 14:36:18",
+      "https://news.ycombinator.com/item?id=41488944"
+    ],
+    [
+      "Why I Wrote Data Science for Crime Analysis with Python",
+      "https://crimede-coder.com/blogposts/2023/EarlyReleasePython"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 14:34:51",
       "https://news.ycombinator.com/item?id=41488929"
     ],
@@ -57,6 +77,16 @@
     [
       "College Pulse (YC S18) Is Hiring",
       "https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 11:59:59",
+      "https://news.ycombinator.com/item?id=41487714"
+    ],
+    [
+      "Show HN: Io_uring for Ruby",
+      "https://github.com/digital-fabric/iou"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2024-09-08, 18:21:00",
-      "https://news.ycombinator.com/item?id=41482060"
-    ],
-    [
-      "Core: an experimental new way to write videogames",
-      "https://github.com/damn/core"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 17:23:14",
-      "https://news.ycombinator.com/item?id=41481682"
-    ],
-    [
-      "\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg",
-      "https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 16:20:55",
       "https://news.ycombinator.com/item?id=41467503"
     ],
@@ -247,16 +257,6 @@
     [
       "A Pipeline Made of Airbags",
       "https://ferd.ca/a-pipeline-made-of-airbags.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 10:09:35",
-      "https://news.ycombinator.com/item?id=41455202"
-    ],
-    [
-      "The Many SHAs of a GitHub Pull Request",
-      "https://www.kenmuse.com/blog/the-many-shas-of-a-github-pull-request/"
     ]
   ],
   [
