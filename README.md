@@ -27,8 +27,8 @@
 * [2024-09-05, 18:19:41](https://news.ycombinator.com/item?id=41459161) - [2.7-meters Telescope mirror shot 7 times (1970)](http://www.cbat.eps.harvard.edu/iauc/02200/02209.html#Item1)
 * [2024-09-05, 14:18:54](https://news.ycombinator.com/item?id=41456892) - [Bringing insights into TCP resets and timeouts to Cloudflare Radar](https://blog.cloudflare.com/tcp-resets-timeouts/)
 * [2024-09-05, 14:11:48](https://news.ycombinator.com/item?id=41456815) - [A Pipeline Made of Airbags](https://ferd.ca/a-pipeline-made-of-airbags.html)
+* [2024-09-05, 10:09:35](https://news.ycombinator.com/item?id=41455202) - [The Many SHAs of a GitHub Pull Request](https://www.kenmuse.com/blog/the-many-shas-of-a-github-pull-request/)
 * [2024-09-05, 08:37:44](https://news.ycombinator.com/item?id=41454746) - [Analysis of adversarial binary search game](https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/)
-* [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 18:47:59](https://news.ycombinator.com/item?id=41449128) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 
 ## [Archives](archives/index.md)
