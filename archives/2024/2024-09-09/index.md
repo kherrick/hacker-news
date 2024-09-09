@@ -8,6 +8,7 @@
 * [2024-09-09, 16:27:29](https://news.ycombinator.com/item?id=41490161) - [Why GitHub Won](https://blog.gitbutler.com/why-github-actually-won/)
 * [2024-09-09, 16:25:30](https://news.ycombinator.com/item?id=41490143) - [Project Hammer: reduce collusion in the Canadian grocery sector](https://jacobfilipp.com/hammer/)
 * [2024-09-09, 16:23:28](https://news.ycombinator.com/item?id=41490125) - [Americans Voted Their Way into a Housing Crisis](https://www.bloomberg.com/news/articles/2024-09-08/an-american-affordable-housing-crisis-built-by-local-democracy)
+* [2024-09-09, 16:20:58](https://news.ycombinator.com/item?id=41490094) - [Study shows 'alarming' level of trust in AI for life and death decisions](https://www.theengineer.co.uk/content/news/study-shows-alarming-level-of-trust-in-ai-for-life-and-death-decisions/)
 * [2024-09-09, 16:11:13](https://news.ycombinator.com/item?id=41489989) - [The U.S. needs to pay more attention to electronic warfare](https://www.noahpinion.blog/p/the-us-needs-to-pay-more-attention)
 * [2024-09-09, 16:01:15](https://news.ycombinator.com/item?id=41489875) - [EU competitiveness: Looking ahead [pdf]](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf)
 * [2024-09-09, 15:41:38](https://news.ycombinator.com/item?id=41489644) - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
