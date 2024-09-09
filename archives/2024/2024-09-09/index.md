@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 17:54:57](https://news.ycombinator.com/item?id=41491346) - [Lessons Learned Managing Kubernetes in Enterprise Organizations](https://www.fairwinds.com/blog/5-lessons-managing-kubernetes-enterprise-organizations)
+* [2024-09-09, 17:42:07](https://news.ycombinator.com/item?id=41491191) - [AirPods Pro 2 adds 'clinical grade' hearing aid feature](https://9to5mac.com/2024/09/09/airpods-pro-2-adds-clinical-grade-hearing-aid-feature/)
 * [2024-09-09, 17:36:22](https://news.ycombinator.com/item?id=41491121) - [Apple Hearing Study shares preliminary insights on tinnitus](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)
 * [2024-09-09, 17:21:28](https://news.ycombinator.com/item?id=41490921) - [Apple Watch sleep apnea detection uses peripheral arterial tone (PAT)](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
+* [2024-09-09, 16:44:21](https://news.ycombinator.com/item?id=41490384) - [300μs typo correction for 1.3M words](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
 * [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 16:30:46](https://news.ycombinator.com/item?id=41490196) - [Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
 * [2024-09-09, 16:27:29](https://news.ycombinator.com/item?id=41490161) - [Why GitHub Won](https://blog.gitbutler.com/why-github-actually-won/)

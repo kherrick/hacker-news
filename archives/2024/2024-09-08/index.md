@@ -45,6 +45,7 @@
 * [2024-09-08, 09:36:41](https://news.ycombinator.com/item?id=41479283) - [Don't defer Close() on writable files](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
 * [2024-09-08, 09:34:00](https://news.ycombinator.com/item?id=41479266) - [Concrete clickbait: next time you share a spomenik photo, think abt what it mean](https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley)
 * [2024-09-08, 09:33:07](https://news.ycombinator.com/item?id=41479261) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
+* [2024-09-08, 09:16:59](https://news.ycombinator.com/item?id=41479189) - [Ask HN: How do you manage your prompts in ChatGPT?](https://news.ycombinator.com/item?id=41479189)
 * [2024-09-08, 08:35:01](https://news.ycombinator.com/item?id=41479035) - [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
 * [2024-09-08, 07:26:43](https://news.ycombinator.com/item?id=41478785) - [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
