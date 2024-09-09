@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-09, 21:14:27](https://news.ycombinator.com/item?id=41493976) - [James Earl Jones, voice of Darth Vader, dies aged 93](https://www.bbc.co.uk/news/articles/ce81rkg87w8o)
-* [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones Dies at 93](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
-* [2024-09-09, 19:52:53](https://news.ycombinator.com/item?id=41492807) - [Cohost to shut down at end of 2024](https://cohost.org/staff/post/7611443-cohost-to-shut-down)
+* [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones has died](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
+* [2024-09-09, 20:37:29](https://news.ycombinator.com/item?id=41493450) - [She Ate Poppy Seed Salad Just Before Giving Birth. Then They Took Her Baby Away](https://www.motherjones.com/criminal-justice/2024/09/drug-test-pregnancy-pennsylvania-california/)
 * [2024-09-09, 19:02:45](https://news.ycombinator.com/item?id=41492251) - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
 * [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the next token and diffuse images with one multimodal model](https://www.arxiv.org/abs/2408.11039)
 * [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
@@ -18,6 +17,7 @@
 * [2024-09-09, 15:57:16](https://news.ycombinator.com/item?id=41489832) - [B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2024-09-09, 15:41:38](https://news.ycombinator.com/item?id=41489644) - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
 * [2024-09-09, 15:40:20](https://news.ycombinator.com/item?id=41489633) - [Introducing ‚MNT Reform Next‘](https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html)
+* [2024-09-09, 14:43:28](https://news.ycombinator.com/item?id=41488994) - [Smartphone Tethering: A Bigger Grind Than It Needed to Be](https://tedium.co/2024/09/08/smartphone-tethering-cellular-modem-history/)
 * [2024-09-09, 14:36:18](https://news.ycombinator.com/item?id=41488944) - [Why I Wrote Data Science for Crime Analysis with Python (2023)](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
 * [2024-09-09, 13:30:42](https://news.ycombinator.com/item?id=41488353) - [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/)
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
@@ -25,11 +25,11 @@
 * [2024-09-08, 11:48:02](https://news.ycombinator.com/item?id=41479840) - [ASCII cam – I made this using replit agent](https://ascii-cam.replit.app)
 * [2024-09-08, 09:29:07](https://news.ycombinator.com/item?id=41479241) - [Cecilia Payne-Gaposchkin discovered that stars are mostly made of hydrogen](https://www.aps.org/people/cecilia-payne-gaposchkin)
 * [2024-09-08, 08:20:14](https://news.ycombinator.com/item?id=41478981) - [Rɐbbit Dynamic Datascapes](https://github.com/ryrobes/rvbbit)
+* [2024-09-08, 08:04:37](https://news.ycombinator.com/item?id=41478930) - [Sqlc: Compile SQL to type-safe code](https://sqlc.dev/)
 * [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
 * [2024-09-06, 14:10:11](https://news.ycombinator.com/item?id=41466391) - [How colorful ribbon diagrams became the face of proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 * [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
-* [2024-09-05, 01:59:20](https://news.ycombinator.com/item?id=41452780) - [Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)
 
 ## [Archives](archives/index.md)
 

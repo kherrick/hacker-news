@@ -6,6 +6,7 @@
 
 * [2024-09-09, 21:14:27](https://news.ycombinator.com/item?id=41493976) - [James Earl Jones, voice of Darth Vader, dies aged 93](https://www.bbc.co.uk/news/articles/ce81rkg87w8o)
 * [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones Dies at 93](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
+* [2024-09-09, 20:37:29](https://news.ycombinator.com/item?id=41493450) - [She Ate Poppy Seed Salad Just Before Giving Birth. Then They Took Her Baby Away](https://www.motherjones.com/criminal-justice/2024/09/drug-test-pregnancy-pennsylvania-california/)
 * [2024-09-09, 20:18:55](https://news.ycombinator.com/item?id=41493178) - [Warpstream Joined Confluent](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)
 * [2024-09-09, 19:52:53](https://news.ycombinator.com/item?id=41492807) - [Cohost to shut down at end of 2024](https://cohost.org/staff/post/7611443-cohost-to-shut-down)
 * [2024-09-09, 19:26:11](https://news.ycombinator.com/item?id=41492470) - [Automated feature testing of Verilog parsers using fuzzing](https://johnwickerson.wordpress.com/2024/09/09/automated-feature-testing-of-verilog-parsers-using-fuzzing/)
