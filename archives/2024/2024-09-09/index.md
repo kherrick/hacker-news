@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 18:51:31](https://news.ycombinator.com/item?id=41492077) - [Transfusion: Predict the Next Token and Diffuse Images with One Multimodal Model](https://www.arxiv.org/abs/2408.11039)
 * [2024-09-09, 18:39:33](https://news.ycombinator.com/item?id=41491896) - [Apple iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
+* [2024-09-09, 18:39:05](https://news.ycombinator.com/item?id=41491886) - [Apple Watch Series 10](https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/)
 * [2024-09-09, 17:54:57](https://news.ycombinator.com/item?id=41491346) - [Lessons Learned Managing Kubernetes in Enterprise Organizations](https://www.fairwinds.com/blog/5-lessons-managing-kubernetes-enterprise-organizations)
 * [2024-09-09, 17:42:07](https://news.ycombinator.com/item?id=41491191) - [AirPods Pro 2 adds 'clinical grade' hearing aid feature](https://9to5mac.com/2024/09/09/airpods-pro-2-adds-clinical-grade-hearing-aid-feature/)
 * [2024-09-09, 17:36:22](https://news.ycombinator.com/item?id=41491121) - [Apple Hearing Study shares preliminary insights on tinnitus](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)

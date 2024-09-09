@@ -47,6 +47,7 @@
 * [2024-09-08, 09:33:07](https://news.ycombinator.com/item?id=41479261) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 09:16:59](https://news.ycombinator.com/item?id=41479189) - [Ask HN: How do you manage your prompts in ChatGPT?](https://news.ycombinator.com/item?id=41479189)
 * [2024-09-08, 08:35:01](https://news.ycombinator.com/item?id=41479035) - [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
+* [2024-09-08, 08:20:14](https://news.ycombinator.com/item?id=41478981) - [Rɐbbit Dynamic Datascapes](https://github.com/ryrobes/rvbbit)
 * [2024-09-08, 07:26:43](https://news.ycombinator.com/item?id=41478785) - [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
 * [2024-09-08, 06:51:44](https://news.ycombinator.com/item?id=41478664) - [Malaysia backtracks on DNS redirection decision](https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194)
