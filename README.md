@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-09, 17:21:28](https://news.ycombinator.com/item?id=41490921) - [Apple Watch sleep apnea detection uses peripheral arterial tone (PAT)](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
+* [2024-09-09, 17:36:22](https://news.ycombinator.com/item?id=41491121) - [Apple Hearing Study shares preliminary insights on tinnitus](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)
+* [2024-09-09, 17:21:28](https://news.ycombinator.com/item?id=41490921) - [Apple Watch sleep apnea detection likely uses peripheral arterial tone (PAT)](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
 * [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 16:30:46](https://news.ycombinator.com/item?id=41490196) - [Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
 * [2024-09-09, 16:27:29](https://news.ycombinator.com/item?id=41490161) - [Why GitHub Won](https://blog.gitbutler.com/why-github-actually-won/)
@@ -12,7 +13,6 @@
 * [2024-09-09, 15:40:20](https://news.ycombinator.com/item?id=41489633) - [Introducing ‚MNT Reform Next‘](https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html)
 * [2024-09-09, 15:33:14](https://news.ycombinator.com/item?id=41489537) - [DuckDB 1.1.0 Released](https://duckdb.org/2024/09/09/announcing-duckdb-110.html)
 * [2024-09-09, 15:11:11](https://news.ycombinator.com/item?id=41489267) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
-* [2024-09-09, 15:03:41](https://news.ycombinator.com/item?id=41489182) - [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
 * [2024-09-09, 15:02:41](https://news.ycombinator.com/item?id=41489170) - [20% more powerful perovskite solar panels enter commercial use](https://www.oxfordpv.com/news/20-more-powerful-tandem-solar-panels-enter-commercial-use-first-time-us)
 * [2024-09-09, 15:02:32](https://news.ycombinator.com/item?id=41489167) - [ESPN AI-generated recap of retiring player's final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
 * [2024-09-09, 14:43:28](https://news.ycombinator.com/item?id=41488994) - [Smartphone Tethering: A Bigger Grind Than It Needed to Be](https://tedium.co/2024/09/08/smartphone-tethering-cellular-modem-history/)

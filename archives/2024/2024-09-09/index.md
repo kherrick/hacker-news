@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 17:36:22](https://news.ycombinator.com/item?id=41491121) - [Apple Hearing Study shares preliminary insights on tinnitus](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)
 * [2024-09-09, 17:21:28](https://news.ycombinator.com/item?id=41490921) - [Apple Watch sleep apnea detection uses peripheral arterial tone (PAT)](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
 * [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 16:30:46](https://news.ycombinator.com/item?id=41490196) - [Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
