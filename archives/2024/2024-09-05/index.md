@@ -91,6 +91,7 @@
 * [2024-09-05, 05:13:41](https://news.ycombinator.com/item?id=41453713) - [Beaker Browser and the Dat Protocol](https://bernsteinbear.com/dat-paper/)
 * [2024-09-05, 04:48:27](https://news.ycombinator.com/item?id=41453569) - [Using rsync to create a limited ability to write remote files](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncForLimitedRemoteWrite)
 * [2024-09-05, 04:46:59](https://news.ycombinator.com/item?id=41453557) - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
+* [2024-09-05, 04:26:01](https://news.ycombinator.com/item?id=41453455) - [Proplifting, Plant Piracy, and Dumpster Chocolates](https://taylor.town/oh-theft)
 * [2024-09-05, 04:13:57](https://news.ycombinator.com/item?id=41453405) - [AT&T Sues Broadcom over VMware Contracts 'Bullying'](https://www.channelfutures.com/channel-business/att-sues-broadcom-over-vmware-contracts-bullying)
 * [2024-09-05, 03:50:10](https://news.ycombinator.com/item?id=41453300) - [Kids who use ChatGPT as a study assistant do worse on tests](https://hechingerreport.org/kids-chatgpt-worse-on-tests/)
 * [2024-09-05, 03:46:50](https://news.ycombinator.com/item?id=41453283) - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)

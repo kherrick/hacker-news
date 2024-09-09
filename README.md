@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-09, 09:58:45](https://news.ycombinator.com/item?id=41486935) - [Support for U.S. TikTok ban continues to decline](https://www.pewresearch.org/short-reads/2024/09/05/support-for-a-us-tiktok-ban-continues-to-decline-and-half-of-adults-doubt-it-will-happen/)
 * [2024-09-09, 08:36:52](https://news.ycombinator.com/item?id=41486565) - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
 * [2024-09-09, 06:39:49](https://news.ycombinator.com/item?id=41486004) - [What I gave up to become an engineering manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)
 * [2024-09-09, 06:30:26](https://news.ycombinator.com/item?id=41485967) - [Please stop inventing new software licences (2020)](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
@@ -13,11 +14,9 @@
 * [2024-09-08, 22:06:44](https://news.ycombinator.com/item?id=41483654) - [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
 * [2024-09-08, 21:52:04](https://news.ycombinator.com/item?id=41483541) - [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
 * [2024-09-08, 21:37:12](https://news.ycombinator.com/item?id=41483434) - [Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]](https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf)
-* [2024-09-08, 21:12:14](https://news.ycombinator.com/item?id=41483249) - [Open Props – Supercharged CSS Variables](https://open-props.style/)
 * [2024-09-08, 21:06:40](https://news.ycombinator.com/item?id=41483216) - [The Fennel Programming Language](https://fennel-lang.org/)
 * [2024-09-08, 19:51:20](https://news.ycombinator.com/item?id=41482679) - [Htmx, Raku and Pico CSS](https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/)
 * [2024-09-08, 19:48:36](https://news.ycombinator.com/item?id=41482661) - [Jd – JSON Diff and Patch](https://github.com/josephburnett/jd)
-* [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-08, 18:21:00](https://news.ycombinator.com/item?id=41482060) - [Core: an experimental new way to write videogames](https://github.com/damn/core)
 * [2024-09-08, 17:53:06](https://news.ycombinator.com/item?id=41481882) - [The Story Behind Fenster](https://zserge.com/posts/fenster/)
 * [2024-09-08, 17:23:14](https://news.ycombinator.com/item?id=41481682) - [\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
@@ -28,6 +27,7 @@
 * [2024-09-05, 14:11:48](https://news.ycombinator.com/item?id=41456815) - [A Pipeline Made of Airbags](https://ferd.ca/a-pipeline-made-of-airbags.html)
 * [2024-09-05, 10:09:35](https://news.ycombinator.com/item?id=41455202) - [The Many SHAs of a GitHub Pull Request](https://www.kenmuse.com/blog/the-many-shas-of-a-github-pull-request/)
 * [2024-09-05, 08:37:44](https://news.ycombinator.com/item?id=41454746) - [Analysis of adversarial binary search game](https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/)
+* [2024-09-05, 04:26:01](https://news.ycombinator.com/item?id=41453455) - [Proplifting, Plant Piracy, and Dumpster Chocolates](https://taylor.town/oh-theft)
 * [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 18:47:59](https://news.ycombinator.com/item?id=41449128) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 
