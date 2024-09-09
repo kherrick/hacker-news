@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-09, 10:29:00](https://news.ycombinator.com/item?id=41487094) - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
+* [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
 * [2024-09-09, 10:11:58](https://news.ycombinator.com/item?id=41487002) - [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
+* [2024-09-09, 08:51:59](https://news.ycombinator.com/item?id=41486632) - [Manual 'Till It Hurts](https://adactio.com/journal/21397)
 * [2024-09-09, 08:36:52](https://news.ycombinator.com/item?id=41486565) - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
 * [2024-09-09, 06:30:26](https://news.ycombinator.com/item?id=41485967) - [Please stop inventing new software licences (2020)](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 * [2024-09-09, 02:38:43](https://news.ycombinator.com/item?id=41485001) - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
@@ -20,7 +21,6 @@
 * [2024-09-08, 18:21:00](https://news.ycombinator.com/item?id=41482060) - [Core: an experimental new way to write videogames](https://github.com/damn/core)
 * [2024-09-08, 17:23:14](https://news.ycombinator.com/item?id=41481682) - [\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 * [2024-09-06, 16:20:55](https://news.ycombinator.com/item?id=41467503) - [Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer](https://www.mdpi.com/2076-393X/12/9/958#)
-* [2024-09-05, 23:19:09](https://news.ycombinator.com/item?id=41461251) - [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 * [2024-09-05, 20:40:39](https://news.ycombinator.com/item?id=41460220) - [A tiny self-remaking C program](https://www.humprog.org/~stephen/blog/2024/09/05/)
 * [2024-09-05, 18:19:41](https://news.ycombinator.com/item?id=41459161) - [2.7-meters Telescope mirror shot 7 times (1970)](http://www.cbat.eps.harvard.edu/iauc/02200/02209.html#Item1)
 * [2024-09-05, 14:18:54](https://news.ycombinator.com/item?id=41456892) - [Bringing insights into TCP resets and timeouts to Cloudflare Radar](https://blog.cloudflare.com/tcp-resets-timeouts/)
@@ -28,8 +28,8 @@
 * [2024-09-05, 10:09:35](https://news.ycombinator.com/item?id=41455202) - [The Many SHAs of a GitHub Pull Request](https://www.kenmuse.com/blog/the-many-shas-of-a-github-pull-request/)
 * [2024-09-05, 08:37:44](https://news.ycombinator.com/item?id=41454746) - [Analysis of adversarial binary search game](https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/)
 * [2024-09-05, 04:26:01](https://news.ycombinator.com/item?id=41453455) - [Proplifting, Plant Piracy, and Dumpster Chocolates](https://taylor.town/oh-theft)
-* [2024-09-05, 03:13:25](https://news.ycombinator.com/item?id=41453119) - [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 * [2024-09-04, 18:47:59](https://news.ycombinator.com/item?id=41449128) - [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
+* [2024-09-04, 18:14:34](https://news.ycombinator.com/item?id=41448748) - [Zen, CUDA, and Tensor Cores – Part 1 [video]](https://www.youtube.com/watch?v=uBtuMsAY7J8)
 
 ## [Archives](archives/index.md)
 
