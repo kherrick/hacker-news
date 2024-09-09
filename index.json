@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-09-09, 14:34:51",
-      "https://news.ycombinator.com/item?id=41488929"
-    ],
-    [
-      "Gitea blocks PR from community, charging $$ for open-source contributions",
-      "https://github.com/go-gitea/gitea/pull/24257"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 14:31:16",
       "https://news.ycombinator.com/item?id=41488905"
     ],
@@ -197,6 +187,16 @@
     [
       "Jd – JSON Diff and Patch",
       "https://github.com/josephburnett/jd"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 17:23:14",
+      "https://news.ycombinator.com/item?id=41481682"
+    ],
+    [
+      "\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg",
+      "https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/"
     ]
   ],
   [
