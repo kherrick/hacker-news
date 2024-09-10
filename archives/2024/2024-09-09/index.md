@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 23:29:13](https://news.ycombinator.com/item?id=41495430) - [Talaria: Interactively Optimizing Machine Learning Models for Efficient Inferenc](https://arxiv.org/abs/2404.03085)
 * [2024-09-09, 22:22:15](https://news.ycombinator.com/item?id=41494786) - [Sigrok – a portable, cross-platform, FOSS signal analysis software suite](https://sigrok.org/wiki/Main_Page)
 * [2024-09-09, 21:14:27](https://news.ycombinator.com/item?id=41493976) - [James Earl Jones, voice of Darth Vader, dies aged 93](https://www.bbc.co.uk/news/articles/ce81rkg87w8o)
 * [2024-09-09, 20:50:16](https://news.ycombinator.com/item?id=41493634) - [James Earl Jones Dies at 93](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
