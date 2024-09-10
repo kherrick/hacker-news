@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 08:05:44](https://news.ycombinator.com/item?id=41498377) - [EU Court: Apple received EUR 13B illegal tax subsidy [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240133en.pdf)
+* [2024-09-10, 08:03:54](https://news.ycombinator.com/item?id=41498358) - [Tech Apple loses EU court battle over 13B euro tax bill in Ireland](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
 * [2024-09-10, 06:05:29](https://news.ycombinator.com/item?id=41497619) - [Is telling a model to \"not hallucinate\" absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
 * [2024-09-10, 04:33:39](https://news.ycombinator.com/item?id=41497180) - [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
 * [2024-09-10, 04:03:54](https://news.ycombinator.com/item?id=41497051) - [Firefox update added more sponsored content on new-tab page](https://twitter.com/nearcyan/status/1833253001668268242)
