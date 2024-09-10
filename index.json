@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-09-10, 15:17:06",
+      "https://news.ycombinator.com/item?id=41501630"
+    ],
+    [
+      "Ford seeks patent for tech that listens to driver conversations to serve ads",
+      "https://therecord.media/ford-patent-application-in-vehicle-listening-advertising"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 15:11:47",
+      "https://news.ycombinator.com/item?id=41501580"
+    ],
+    [
+      "Playstation 5 Pro",
+      "https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 15:03:31",
       "https://news.ycombinator.com/item?id=41501496"
     ],
     [
       "A good day to trie-hard: saving compute 1% at a time",
       "https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 14:34:58",
+      "https://news.ycombinator.com/item?id=41501215"
+    ],
+    [
+      "Sapling: Source control that's user-friendly and scalable",
+      "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Debugging in the Multiverse",
       "https://antithesis.com/blog/multiverse_debugging/"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 12:52:23",
+      "https://news.ycombinator.com/item?id=41500268"
+    ],
+    [
+      "We're in the brute force phase of AI – once it ends, demand for GPUs will too",
+      "https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/"
     ]
   ],
   [
@@ -91,32 +131,12 @@
   ],
   [
     [
-      "2024-09-10, 00:52:12",
-      "https://news.ycombinator.com/item?id=41496033"
-    ],
-    [
-      "Sail – Faster and cheaper PySpark-compatible computation framework",
-      "https://github.com/lakehq/sail"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 22:22:15",
       "https://news.ycombinator.com/item?id=41494786"
     ],
     [
       "Sigrok – a portable, cross-platform, FOSS signal analysis software suite",
       "https://sigrok.org/wiki/Main_Page"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 18:51:31",
-      "https://news.ycombinator.com/item?id=41492077"
-    ],
-    [
-      "Transfusion: Predict the next token and diffuse images with one multimodal model",
-      "https://www.arxiv.org/abs/2408.11039"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers",
       "https://news.ycombinator.com/item?id=41490196"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 16:27:29",
-      "https://news.ycombinator.com/item?id=41490161"
-    ],
-    [
-      "Why GitHub won",
-      "https://blog.gitbutler.com/why-github-actually-won/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Memorizing the first 100 perfect squares (2022)",
       "https://dzhu.page/mathematics/memorizing-100-perfect-squares/"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 00:47:16",
-      "https://news.ycombinator.com/item?id=41461779"
-    ],
-    [
-      "Every webpage deserves to be a place",
-      "https://interconnected.org/home/2024/09/05/cursor-party"
     ]
   ],
   [
