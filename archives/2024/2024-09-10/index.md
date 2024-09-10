@@ -7,6 +7,7 @@
 * [2024-09-10, 20:12:49](https://news.ycombinator.com/item?id=41505009) - [Recent Tor Exit Node Operator Raids and Legal Harassment in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
 * [2024-09-10, 19:59:39](https://news.ycombinator.com/item?id=41504885) - [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
 * [2024-09-10, 19:59:09](https://news.ycombinator.com/item?id=41504881) - [The US finally takes aim at truck bloat](https://www.theverge.com/2024/9/10/24241047/nhtsa-rule-pedestrian-safety-fmvss-suv-truck-design)
+* [2024-09-10, 19:34:11](https://news.ycombinator.com/item?id=41504631) - [Pixhell Attack: Leaking Info from Air-Gap Computers via 'Singing Pixels'](https://arxiv.org/abs/2409.04930)
 * [2024-09-10, 19:04:42](https://news.ycombinator.com/item?id=41504331) - [Iron Mountain: It's Time to Talk About Hard Drives](https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives)
 * [2024-09-10, 19:03:41](https://news.ycombinator.com/item?id=41504325) - [SpaceX can't fly Starship until November at least](https://twitter.com/peterrhague/status/1833535376092500463)
 * [2024-09-10, 18:30:45](https://news.ycombinator.com/item?id=41504026) - [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
