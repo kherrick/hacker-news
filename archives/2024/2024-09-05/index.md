@@ -22,6 +22,7 @@
 * [2024-09-05, 18:44:01](https://news.ycombinator.com/item?id=41459373) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-05, 18:43:18](https://news.ycombinator.com/item?id=41459365) - [My job is to watch dreams die](https://old.reddit.com/r/reddit.com/comments/k3zrz/by_request_from_the_jobs_thread_why_my_job_is_to/)
 * [2024-09-05, 18:40:36](https://news.ycombinator.com/item?id=41459344) - [I sold all my Tesla shares (TSLA), here's why](https://electrek.co/2024/09/05/i-sold-all-my-tesla-shares-tsla-why/)
+* [2024-09-05, 18:20:28](https://news.ycombinator.com/item?id=41459166) - [Make an LED Blink with Buttons and with Code](https://docs.viam.com/tutorials/get-started/blink-an-led/)
 * [2024-09-05, 18:19:41](https://news.ycombinator.com/item?id=41459161) - [2.7-meters Telescope mirror shot 7 times (1970)](http://www.cbat.eps.harvard.edu/iauc/02200/02209.html#Item1)
 * [2024-09-05, 18:12:37](https://news.ycombinator.com/item?id=41459107) - [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
 * [2024-09-05, 18:10:32](https://news.ycombinator.com/item?id=41459094) - [The little-known life of the scarfing tool](https://www.thefabricator.com/tubepipejournal/article/tubepipefabrication/the-little-known-life-of-the-scarfing-tool)

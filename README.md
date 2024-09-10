@@ -5,8 +5,8 @@
 * [2024-09-10, 13:05:42](https://news.ycombinator.com/item?id=41500405) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
 * [2024-09-10, 12:52:23](https://news.ycombinator.com/item?id=41500268) - [We're in the brute force phase of AI – once it ends, demand for GPUs will too](https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/)
 * [2024-09-10, 12:41:16](https://news.ycombinator.com/item?id=41500162) - [Results (Don't) Speak for Themselves: A Case for Documentation](https://www.population.fyi/p/results-dont-speak-for-themselves)
+* [2024-09-10, 12:05:01](https://news.ycombinator.com/item?id=41499905) - [Show HN: Free tool to find RSS feeds, even if not linked on the page](https://news.ycombinator.com/item?id=41499905)
 * [2024-09-10, 12:00:23](https://news.ycombinator.com/item?id=41499883) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
-* [2024-09-10, 08:31:10](https://news.ycombinator.com/item?id=41498529) - [SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 * [2024-09-10, 07:51:35](https://news.ycombinator.com/item?id=41498264) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 * [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
 * [2024-09-10, 00:52:12](https://news.ycombinator.com/item?id=41496033) - [Sail – Faster and cheaper PySpark-compatible computation framework](https://github.com/lakehq/sail)
@@ -16,7 +16,6 @@
 * [2024-09-09, 17:28:45](https://news.ycombinator.com/item?id=41491016) - [Carpentopod: A Walking Table Project](https://www.decarpentier.nl/carpentopod)
 * [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 16:30:46](https://news.ycombinator.com/item?id=41490196) - [Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
-* [2024-09-09, 16:27:29](https://news.ycombinator.com/item?id=41490161) - [Why GitHub won](https://blog.gitbutler.com/why-github-actually-won/)
 * [2024-09-09, 16:25:30](https://news.ycombinator.com/item?id=41490143) - [Project Hammer: reduce collusion in the Canadian grocery sector](https://jacobfilipp.com/hammer/)
 * [2024-09-09, 15:57:16](https://news.ycombinator.com/item?id=41489832) - [B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2024-09-09, 15:41:38](https://news.ycombinator.com/item?id=41489644) - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
@@ -30,6 +29,7 @@
 * [2024-09-08, 07:22:39](https://news.ycombinator.com/item?id=41478771) - [The Canary](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/)
 * [2024-09-06, 23:27:21](https://news.ycombinator.com/item?id=41470440) - [Memorizing the first 100 perfect squares (2022)](https://dzhu.page/mathematics/memorizing-100-perfect-squares/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
+* [2024-09-05, 18:20:28](https://news.ycombinator.com/item?id=41459166) - [Make an LED Blink with Buttons and with Code](https://docs.viam.com/tutorials/get-started/blink-an-led/)
 
 ## [Archives](archives/index.md)
 

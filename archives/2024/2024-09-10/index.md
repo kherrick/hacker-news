@@ -14,6 +14,7 @@
 * [2024-09-10, 12:52:23](https://news.ycombinator.com/item?id=41500268) - [We're in the brute force phase of AI – once it ends, demand for GPUs will too](https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/)
 * [2024-09-10, 12:46:01](https://news.ycombinator.com/item?id=41500201) - [Bank of America raises minimum hourly pay to $24, as tellers flee the industry](https://www.npr.org/2024/09/10/nx-s1-5106884/bank-of-america-raises-hourly-pay-tellers-flee-banking)
 * [2024-09-10, 12:41:16](https://news.ycombinator.com/item?id=41500162) - [Results (Don't) Speak for Themselves: A Case for Documentation](https://www.population.fyi/p/results-dont-speak-for-themselves)
+* [2024-09-10, 12:05:01](https://news.ycombinator.com/item?id=41499905) - [Show HN: Free tool to find RSS feeds, even if not linked on the page](https://news.ycombinator.com/item?id=41499905)
 * [2024-09-10, 12:00:23](https://news.ycombinator.com/item?id=41499883) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
 * [2024-09-10, 11:56:09](https://news.ycombinator.com/item?id=41499855) - [Meta's Hack (HHVM) language appears to be no longer maintained](https://github.com/facebook/hhvm/graphs/commit-activity)
 * [2024-09-10, 11:33:29](https://news.ycombinator.com/item?id=41499714) - [Google and Apple Face Billions in Penalties After Losing E.U. Appeals](https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html)
