@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-10, 18:30:45",
+      "https://news.ycombinator.com/item?id=41504026"
+    ],
+    [
+      "New York Times tech workers union votes to authorize a strike",
+      "https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 17:25:00",
       "https://news.ycombinator.com/item?id=41503251"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2024-09-10, 15:16:35",
-      "https://news.ycombinator.com/item?id=41501625"
+      "2024-09-10, 15:29:47",
+      "https://news.ycombinator.com/item?id=41501762"
     ],
     [
-      "Strtod Is Wild",
-      "https://festina-lente-productions.com/articles/strtod-is-wild/"
+      "Deductive Verification for Chain-of-Thought Reasoning in LLMs",
+      "https://arxiv.org/abs/2306.03872"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-09-10, 07:51:35",
-      "https://news.ycombinator.com/item?id=41498264"
-    ],
-    [
-      "Our RNG Git Hash Bug",
-      "https://tmendez.dev/posts/rng-git-hash-bug/"
-    ]
-  ],
-  [
-    [
       "2024-09-10, 05:15:53",
       "https://news.ycombinator.com/item?id=41497377"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-09-09, 16:37:29",
-      "https://news.ycombinator.com/item?id=41490290"
-    ],
-    [
-      "Windows NT vs. Unix: A design comparison",
-      "https://blogsystem5.substack.com/p/windows-nt-vs-unix-design"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 11:31:39",
       "https://news.ycombinator.com/item?id=41487496"
     ],
     [
       "How to Compose Math Problems",
       "https://www.andreinc.net/2024/07/25/how-to-compose-math-problems"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 12:37:44",
+      "https://news.ycombinator.com/item?id=41480038"
+    ],
+    [
+      "Microwave Oven Failure: Spontaneously turned on by its LED display",
+      "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/"
     ]
   ],
   [
