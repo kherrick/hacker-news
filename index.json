@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41500522"
     ],
     [
-      "How We Made Jupyter Notebooks Load 10 Times Faster",
+      "How we made Jupyter notebooks load faster",
       "https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/"
     ]
   ],
@@ -157,16 +157,6 @@
     [
       "Debugging in the Multiverse",
       "https://antithesis.com/blog/multiverse_debugging/"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 12:52:23",
-      "https://news.ycombinator.com/item?id=41500268"
-    ],
-    [
-      "We're in the brute force phase of AI – once it ends, demand for GPUs will too",
-      "https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2024-09-09, 22:22:15",
-      "https://news.ycombinator.com/item?id=41494786"
-    ],
-    [
-      "Sigrok – a portable, cross-platform, FOSS signal analysis software suite",
-      "https://sigrok.org/wiki/Main_Page"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 17:28:45",
       "https://news.ycombinator.com/item?id=41491016"
     ],
@@ -237,6 +217,16 @@
     [
       "Windows NT vs. Unix: A design comparison",
       "https://blogsystem5.substack.com/p/windows-nt-vs-unix-design"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 16:30:46",
+      "https://news.ycombinator.com/item?id=41490196"
+    ],
+    [
+      "Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers",
+      "https://news.ycombinator.com/item?id=41490196"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "An NFC movie library for my kids",
       "https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 08:04:37",
+      "https://news.ycombinator.com/item?id=41478930"
+    ],
+    [
+      "Sqlc: Compile SQL to type-safe code",
+      "https://sqlc.dev/"
     ]
   ],
   [
