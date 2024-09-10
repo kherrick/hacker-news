@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 13:37:50](https://news.ycombinator.com/item?id=41500638) - [Show HN: Free Xcode Extension for GitHub Copilot and Codeium](https://news.ycombinator.com/item?id=41500638)
+* [2024-09-10, 13:19:29](https://news.ycombinator.com/item?id=41500522) - [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
 * [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
 * [2024-09-10, 13:07:11](https://news.ycombinator.com/item?id=41500419) - [In Slingshot, a mission to Titan goes off course](https://spacenews.com/in-slingshot-a-mission-to-titan-goes-off-course/)
+* [2024-09-10, 13:05:43](https://news.ycombinator.com/item?id=41500406) - [Multispectral Imaging and the Voynich Manuscript](https://manuscriptroadtrip.wordpress.com/2024/09/08/multispectral-imaging-and-the-voynich-manuscript/)
 * [2024-09-10, 13:05:42](https://news.ycombinator.com/item?id=41500405) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
 * [2024-09-10, 12:57:43](https://news.ycombinator.com/item?id=41500332) - [My Cloud Billing Screw-Up](https://masterpoint.beehiiv.com/p/cloud-billing-screwup)
 * [2024-09-10, 12:52:23](https://news.ycombinator.com/item?id=41500268) - [We're in the brute force phase of AI – once it ends, demand for GPUs will too](https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/)
