@@ -55,6 +55,7 @@
 * [2024-09-09, 12:36:10](https://news.ycombinator.com/item?id=41487930) - [Police pressured him to confess to a murder that never happened](https://www.cnn.com/2024/09/05/us/fontana-pressured-murder-confession/index.html)
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
 * [2024-09-09, 11:59:59](https://news.ycombinator.com/item?id=41487714) - [Show HN: Io_uring for Ruby](https://github.com/digital-fabric/iou)
+* [2024-09-09, 11:53:59](https://news.ycombinator.com/item?id=41487653) - [The Friendship that made Google huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
 * [2024-09-09, 11:31:39](https://news.ycombinator.com/item?id=41487496) - [How to Compose Math Problems](https://www.andreinc.net/2024/07/25/how-to-compose-math-problems)
 * [2024-09-09, 10:33:26](https://news.ycombinator.com/item?id=41487119) - [Tempted by the Dark Side, I now have a Commodore 128](https://www.goto10retro.com/p/tempted-by-the-dark-side-i-now-have)
 * [2024-09-09, 10:29:00](https://news.ycombinator.com/item?id=41487094) - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
