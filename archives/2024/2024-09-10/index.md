@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 15:17:06](https://news.ycombinator.com/item?id=41501630) - [Ford seeks patent for tech that listens to driver conversations to serve ads](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)
+* [2024-09-10, 15:11:47](https://news.ycombinator.com/item?id=41501580) - [Playstation 5 Pro](https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/)
 * [2024-09-10, 15:03:31](https://news.ycombinator.com/item?id=41501496) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
+* [2024-09-10, 14:34:58](https://news.ycombinator.com/item?id=41501215) - [Sapling: Source control that's user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 * [2024-09-10, 13:37:50](https://news.ycombinator.com/item?id=41500638) - [Show HN: Free Xcode Extension for GitHub Copilot and Codeium](https://news.ycombinator.com/item?id=41500638)
 * [2024-09-10, 13:19:29](https://news.ycombinator.com/item?id=41500522) - [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
 * [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
