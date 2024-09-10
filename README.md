@@ -20,7 +20,6 @@
 * [2024-09-09, 16:25:30](https://news.ycombinator.com/item?id=41490143) - [Project Hammer: reduce collusion in the Canadian grocery sector](https://jacobfilipp.com/hammer/)
 * [2024-09-09, 15:57:16](https://news.ycombinator.com/item?id=41489832) - [B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2024-09-09, 15:41:38](https://news.ycombinator.com/item?id=41489644) - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
-* [2024-09-09, 15:40:20](https://news.ycombinator.com/item?id=41489633) - [MNT Reform Next](https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html)
 * [2024-09-09, 13:30:42](https://news.ycombinator.com/item?id=41488353) - [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/)
 * [2024-09-08, 12:57:41](https://news.ycombinator.com/item?id=41480135) - [API Complexity Is a Lie](https://apichangelog.substack.com/p/api-complexity-is-a-lie)
 * [2024-09-08, 10:32:00](https://news.ycombinator.com/item?id=41479539) - [PSA: Eget That Executable from GitHub](https://taras.glek.net/post/eget-that-binary-from-github/)
@@ -29,6 +28,7 @@
 * [2024-09-08, 08:29:23](https://news.ycombinator.com/item?id=41479017) - [Litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [2024-09-08, 08:04:37](https://news.ycombinator.com/item?id=41478930) - [Sqlc: Compile SQL to type-safe code](https://sqlc.dev/)
 * [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
+* [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
 
 ## [Archives](archives/index.md)
