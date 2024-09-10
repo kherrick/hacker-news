@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41505665"
     ],
     [
-      "Rust in Illumos",
+      "Rust in illumos",
       "https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Show HN: Visual DB – Web front end for your database",
       "https://visualdb.com/"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 17:20:15",
-      "https://news.ycombinator.com/item?id=41503201"
-    ],
-    [
-      "Lip Reading as a Service (Read Their Lips by Symphonic Labs)",
-      "https://www.readtheirlips.com/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Apple must pay 13B euros in back taxes, EU's top court rules",
       "https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 07:51:35",
+      "https://news.ycombinator.com/item?id=41498264"
+    ],
+    [
+      "Our Git Hash Bug",
+      "https://tmendez.dev/posts/rng-git-hash-bug/"
     ]
   ],
   [
