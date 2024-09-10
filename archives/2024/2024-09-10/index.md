@@ -11,6 +11,7 @@
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and Papers turned into audio content](https://illuminate.google.com/home)
 * [2024-09-10, 16:18:55](https://news.ycombinator.com/item?id=41502462) - [When Bloom filters don't bloom (2020)](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)
 * [2024-09-10, 16:18:36](https://news.ycombinator.com/item?id=41502453) - [Show HN: Glasskube's Argo CD GitOps Template for Kubernetes](https://news.ycombinator.com/item?id=41502453)
+* [2024-09-10, 16:18:36](https://news.ycombinator.com/item?id=41502453) - [Show HN: GitOps Template for Kubernetes](https://github.com/glasskube/gitops-template/)
 * [2024-09-10, 15:46:47](https://news.ycombinator.com/item?id=41501999) - [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
 * [2024-09-10, 15:46:19](https://news.ycombinator.com/item?id=41501986) - [Apple owes billions in Irish back taxes](https://www.theregister.com/2024/09/10/apple_owes_billions_in_back/)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
