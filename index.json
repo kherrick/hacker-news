@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41502510"
     ],
     [
-      "Google Illuminate: Books and Papers turned into audio content",
+      "Google Illuminate: Books and papers turned into audio",
       "https://illuminate.google.com/home"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "Show HN: GitOps Template for Kubernetes",
       "https://github.com/glasskube/gitops-template/"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 15:53:40",
+      "https://news.ycombinator.com/item?id=41502094"
+    ],
+    [
+      "Show HN: DBOS transact – Ultra-lightweight durable execution in Python",
+      "https://github.com/dbos-inc/dbos-transact-py"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Deductive Verification for Chain-of-Thought Reasoning in LLMs",
       "https://arxiv.org/abs/2306.03872"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 15:16:35",
-      "https://news.ycombinator.com/item?id=41501625"
-    ],
-    [
-      "Strtod Is Wild",
-      "https://festina-lente-productions.com/articles/strtod-is-wild/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-09-09, 17:28:45",
-      "https://news.ycombinator.com/item?id=41491016"
-    ],
-    [
-      "Carpentopod: A Walking Table Project",
-      "https://www.decarpentier.nl/carpentopod"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 11:53:59",
       "https://news.ycombinator.com/item?id=41487653"
     ],
@@ -297,6 +287,16 @@
     [
       "Tomato64: A port of Tomato Firmware to x86_64",
       "https://tomato64.org/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 19:31:15",
+      "https://news.ycombinator.com/item?id=41459722"
+    ],
+    [
+      "DJI Neo review – a drone that can do everything, and land in your hand",
+      "https://www.digitalcameraworld.com/reviews/dji-neo-review"
     ]
   ]
 ]
