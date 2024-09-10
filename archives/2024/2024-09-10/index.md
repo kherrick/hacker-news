@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 22:09:02](https://news.ycombinator.com/item?id=41506124) - [K1 Buys MariaDB](https://www.prnewswire.com/news-releases/k1-acquires-mariadb-a-leading-database-software-company-and-appoints-new-ceo-302243508.html)
 * [2024-09-10, 21:15:45](https://news.ycombinator.com/item?id=41505670) - [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
 * [2024-09-10, 21:15:24](https://news.ycombinator.com/item?id=41505665) - [Rust in Illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-10, 21:10:52](https://news.ycombinator.com/item?id=41505622) - [Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)
