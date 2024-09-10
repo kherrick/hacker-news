@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-10, 17:01:24",
+      "https://news.ycombinator.com/item?id=41502986"
+    ],
+    [
+      "Nearly 40 states back surgeon general's social media warning labels",
+      "https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 16:46:08",
       "https://news.ycombinator.com/item?id=41502822"
     ],
@@ -21,12 +31,42 @@
   ],
   [
     [
+      "2024-09-10, 16:31:26",
+      "https://news.ycombinator.com/item?id=41502625"
+    ],
+    [
+      "Open Source is not a Business Model",
+      "https://cra.mr/open-source-is-not-a-business-model/"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 16:22:13",
+      "https://news.ycombinator.com/item?id=41502510"
+    ],
+    [
+      "Google Illuminate: Books and Papers turned into audio content",
+      "https://illuminate.google.com/home"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 16:18:55",
       "https://news.ycombinator.com/item?id=41502462"
     ],
     [
       "When Bloom filters don't bloom (2020)",
       "https://blog.cloudflare.com/when-bloom-filters-dont-bloom/"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 16:18:36",
+      "https://news.ycombinator.com/item?id=41502453"
+    ],
+    [
+      "Show HN: Glasskube's Argo CD GitOps Template for Kubernetes",
+      "https://news.ycombinator.com/item?id=41502453"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Show HN: YourNextStore – an open-source Shopify with Stripe as the back end",
       "https://github.com/yournextstore/yournextstore"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 14:02:38",
-      "https://news.ycombinator.com/item?id=41500861"
-    ],
-    [
-      "Show HN: I built a cheaper ChatGPT alternative that runs on your desktop",
-      "https://www.trynyro.com"
     ]
   ],
   [
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2024-09-09, 16:30:46",
-      "https://news.ycombinator.com/item?id=41490196"
-    ],
-    [
-      "Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers",
-      "https://news.ycombinator.com/item?id=41490196"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 11:31:39",
       "https://news.ycombinator.com/item?id=41487496"
     ],
     [
       "How to Compose Math Problems",
       "https://www.andreinc.net/2024/07/25/how-to-compose-math-problems"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 11:07:14",
-      "https://news.ycombinator.com/item?id=41479682"
-    ],
-    [
-      "Warner Brothers Cartoon Companion (1998)",
-      "http://www.warnercompanion.com/eowbcc-d.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "An NFC movie library for my kids",
       "https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 08:04:37",
-      "https://news.ycombinator.com/item?id=41478930"
-    ],
-    [
-      "Sqlc: Compile SQL to type-safe code",
-      "https://sqlc.dev/"
     ]
   ],
   [
