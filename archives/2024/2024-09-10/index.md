@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 15:46:47](https://news.ycombinator.com/item?id=41501999) - [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
 * [2024-09-10, 15:46:19](https://news.ycombinator.com/item?id=41501986) - [Apple owes billions in Irish back taxes](https://www.theregister.com/2024/09/10/apple_owes_billions_in_back/)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
 * [2024-09-10, 15:24:39](https://news.ycombinator.com/item?id=41501714) - [Sony announces PS5 Pro, a $700 graphics workhorse available Nov. 7](https://arstechnica.com/gaming/2024/09/sony-announces-ps5-pro-a-700-graphics-workhorse-available-nov-7/)
@@ -12,6 +13,7 @@
 * [2024-09-10, 15:11:47](https://news.ycombinator.com/item?id=41501580) - [Playstation 5 Pro](https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/)
 * [2024-09-10, 15:03:31](https://news.ycombinator.com/item?id=41501496) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 * [2024-09-10, 14:34:58](https://news.ycombinator.com/item?id=41501215) - [Sapling: Source control that's user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+* [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
 * [2024-09-10, 14:00:23](https://news.ycombinator.com/item?id=41500840) - [PR-Agent — extension that adds AI chat to code reviews on GitHub](https://chromewebstore.google.com/detail/pr-agent-ai-powered-code/ephlnjeghhogofkifjloamocljapahnl)
 * [2024-09-10, 13:37:50](https://news.ycombinator.com/item?id=41500638) - [Show HN: Free Xcode Extension for GitHub Copilot and Codeium](https://news.ycombinator.com/item?id=41500638)
 * [2024-09-10, 13:19:29](https://news.ycombinator.com/item?id=41500522) - [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
@@ -19,6 +21,7 @@
 * [2024-09-10, 13:07:11](https://news.ycombinator.com/item?id=41500419) - [In Slingshot, a mission to Titan goes off course](https://spacenews.com/in-slingshot-a-mission-to-titan-goes-off-course/)
 * [2024-09-10, 13:05:43](https://news.ycombinator.com/item?id=41500406) - [Multispectral Imaging and the Voynich Manuscript](https://manuscriptroadtrip.wordpress.com/2024/09/08/multispectral-imaging-and-the-voynich-manuscript/)
 * [2024-09-10, 13:05:42](https://news.ycombinator.com/item?id=41500405) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
+* [2024-09-10, 13:02:17](https://news.ycombinator.com/item?id=41500372) - [Show HN: Visahacks.in – you don't always need a visa](https://www.visahacks.in/)
 * [2024-09-10, 12:57:43](https://news.ycombinator.com/item?id=41500332) - [My Cloud Billing Screw-Up](https://masterpoint.beehiiv.com/p/cloud-billing-screwup)
 * [2024-09-10, 12:52:23](https://news.ycombinator.com/item?id=41500268) - [We're in the brute force phase of AI – once it ends, demand for GPUs will too](https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/)
 * [2024-09-10, 12:46:01](https://news.ycombinator.com/item?id=41500201) - [Bank of America raises minimum hourly pay to $24, as tellers flee the industry](https://www.npr.org/2024/09/10/nx-s1-5106884/bank-of-america-raises-hourly-pay-tellers-flee-banking)
