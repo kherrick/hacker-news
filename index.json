@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-09-10, 21:15:24",
+      "https://news.ycombinator.com/item?id=41505665"
+    ],
+    [
+      "Rust in Illumos",
+      "https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 21:10:52",
+      "https://news.ycombinator.com/item?id=41505622"
+    ],
+    [
+      "Among the Moss Piglets: The First Image of a Tardigrade (1773)",
+      "https://publicdomainreview.org/collection/tardigrade/"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 21:09:04",
       "https://news.ycombinator.com/item?id=41505593"
     ],
     [
-      "Lottery Simulator",
+      "Lottery Simulator (2023)",
       "https://perthirtysix.com/tool/lottery-simulator"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41504885"
     ],
     [
-      "Tutorial on Diffusion Models for Imaging and Vision",
+      "Tutorial on diffusion models for imaging and vision",
       "https://arxiv.org/abs/2403.18103"
     ]
   ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-09-08, 09:36:41",
-      "https://news.ycombinator.com/item?id=41479283"
-    ],
-    [
-      "Don't defer Close() on writable files (2017)",
-      "https://www.joeshaw.org/dont-defer-close-on-writable-files/"
-    ]
-  ],
-  [
-    [
       "2024-09-08, 08:49:32",
       "https://news.ycombinator.com/item?id=41479085"
     ],
@@ -287,16 +297,6 @@
     [
       "Tomato64: A port of Tomato Firmware to x86_64",
       "https://tomato64.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 19:31:15",
-      "https://news.ycombinator.com/item?id=41459722"
-    ],
-    [
-      "DJI Neo review – a drone that can do everything, and land in your hand",
-      "https://www.digitalcameraworld.com/reviews/dji-neo-review"
     ]
   ]
 ]
