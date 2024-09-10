@@ -10,7 +10,7 @@
 * [2024-09-10, 20:39:51](https://news.ycombinator.com/item?id=41505266) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 20:12:49](https://news.ycombinator.com/item?id=41505009) - [Another police raid in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
 * [2024-09-10, 19:59:39](https://news.ycombinator.com/item?id=41504885) - [Tutorial on diffusion models for imaging and vision](https://arxiv.org/abs/2403.18103)
-* [2024-09-10, 19:54:38](https://news.ycombinator.com/item?id=41504832) - [Git Bash Is My Preferred Windows Shell](https://www.ii.com/git-bash-is-my-preferred-windows-shell/)
+* [2024-09-10, 19:54:38](https://news.ycombinator.com/item?id=41504832) - [Git Bash is my preferred Windows shell](https://www.ii.com/git-bash-is-my-preferred-windows-shell/)
 * [2024-09-10, 19:34:11](https://news.ycombinator.com/item?id=41504631) - [Pixhell Attack: Leaking Info from Air-Gap Computers via 'Singing Pixels'](https://arxiv.org/abs/2409.04930)
 * [2024-09-10, 17:25:00](https://news.ycombinator.com/item?id=41503251) - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
 * [2024-09-10, 17:20:15](https://news.ycombinator.com/item?id=41503201) - [Lip Reading as a Service (Read Their Lips by Symphonic Labs)](https://www.readtheirlips.com/)
