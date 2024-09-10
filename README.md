@@ -3,7 +3,7 @@
 * [2024-09-10, 08:05:44](https://news.ycombinator.com/item?id=41498377) - [EU Court: Apple received EUR 13B illegal tax subsidy [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240133en.pdf)
 * [2024-09-10, 08:03:54](https://news.ycombinator.com/item?id=41498358) - [Tech Apple loses EU court battle over 13B euro tax bill in Ireland](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
 * [2024-09-10, 07:30:15](https://news.ycombinator.com/item?id=41498137) - [Make Your Own Read-Only Device with NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
-* [2024-09-10, 06:05:29](https://news.ycombinator.com/item?id=41497619) - [Is telling a model to \"not hallucinate\" absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
+* [2024-09-10, 06:16:45](https://news.ycombinator.com/item?id=41497696) - [Taildrop lets you send files between your personal devices on Tailscale network](https://tailscale.com/kb/1106/taildrop)
 * [2024-09-10, 02:50:14](https://news.ycombinator.com/item?id=41496725) - [Just for Fun (2022)](https://justforfunnoreally.dev)
 * [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
 * [2024-09-10, 01:24:10](https://news.ycombinator.com/item?id=41496254) - [DOJ claims Google has \"trifecta of monopolies\" on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
