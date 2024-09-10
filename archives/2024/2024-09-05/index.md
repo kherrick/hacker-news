@@ -17,6 +17,7 @@
 * [2024-09-05, 20:12:52](https://news.ycombinator.com/item?id=41460037) - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
 * [2024-09-05, 19:48:22](https://news.ycombinator.com/item?id=41459865) - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
 * [2024-09-05, 19:39:05](https://news.ycombinator.com/item?id=41459781) - [Reflection 70B, the top open-source model](https://twitter.com/mattshumer_/status/1831767014341538166)
+* [2024-09-05, 19:31:15](https://news.ycombinator.com/item?id=41459722) - [DJI Neo review – a drone that can do everything, and land in your hand](https://www.digitalcameraworld.com/reviews/dji-neo-review)
 * [2024-09-05, 19:16:09](https://news.ycombinator.com/item?id=41459629) - [The Santander UK iOS app is 613 MB and 35% of it does nothing](https://twitter.com/emergetools/status/1831772650685018352)
 * [2024-09-05, 18:55:02](https://news.ycombinator.com/item?id=41459472) - [Uvtrick](https://simonwillison.net/2024/Sep/1/uvtrick/)
 * [2024-09-05, 18:44:01](https://news.ycombinator.com/item?id=41459373) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
