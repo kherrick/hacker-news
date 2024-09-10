@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 19:04:42](https://news.ycombinator.com/item?id=41504331) - [Iron Mountain: It's Time to Talk About Hard Drives](https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives)
+* [2024-09-10, 19:03:41](https://news.ycombinator.com/item?id=41504325) - [SpaceX can't fly Starship until November at least](https://twitter.com/peterrhague/status/1833535376092500463)
 * [2024-09-10, 18:30:45](https://news.ycombinator.com/item?id=41504026) - [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
 * [2024-09-10, 17:41:26](https://news.ycombinator.com/item?id=41503444) - [Why VR Games Still Haven't Taken Off](https://spectrum.ieee.org/vr-games)
 * [2024-09-10, 17:25:00](https://news.ycombinator.com/item?id=41503251) - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
