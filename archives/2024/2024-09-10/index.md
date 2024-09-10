@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 12:46:01](https://news.ycombinator.com/item?id=41500201) - [Bank of America raises minimum hourly pay to $24, as tellers flee the industry](https://www.npr.org/2024/09/10/nx-s1-5106884/bank-of-america-raises-hourly-pay-tellers-flee-banking)
 * [2024-09-10, 12:00:23](https://news.ycombinator.com/item?id=41499883) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
 * [2024-09-10, 11:56:09](https://news.ycombinator.com/item?id=41499855) - [Meta's Hack (HHVM) language appears to be no longer maintained](https://github.com/facebook/hhvm/graphs/commit-activity)
 * [2024-09-10, 11:33:29](https://news.ycombinator.com/item?id=41499714) - [Google and Apple Face Billions in Penalties After Losing E.U. Appeals](https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html)
@@ -14,6 +15,7 @@
 * [2024-09-10, 08:31:10](https://news.ycombinator.com/item?id=41498529) - [SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 * [2024-09-10, 08:05:44](https://news.ycombinator.com/item?id=41498377) - [EU Court: Apple received EUR 13B illegal tax subsidy [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240133en.pdf)
 * [2024-09-10, 08:03:54](https://news.ycombinator.com/item?id=41498358) - [Tech Apple loses EU court battle over 13B euro tax bill in Ireland](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
+* [2024-09-10, 07:51:35](https://news.ycombinator.com/item?id=41498264) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 * [2024-09-10, 07:30:15](https://news.ycombinator.com/item?id=41498137) - [Make Your Own Read-Only Device with NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
 * [2024-09-10, 06:16:45](https://news.ycombinator.com/item?id=41497696) - [Taildrop lets you send files between your personal devices on Tailscale network](https://tailscale.com/kb/1106/taildrop)
 * [2024-09-10, 06:05:29](https://news.ycombinator.com/item?id=41497619) - [Is telling a model to \"not hallucinate\" absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
