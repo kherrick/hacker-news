@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-10, 22:09:02",
+      "https://news.ycombinator.com/item?id=41506124"
+    ],
+    [
+      "K1 Buys MariaDB",
+      "https://www.prnewswire.com/news-releases/k1-acquires-mariadb-a-leading-database-software-company-and-appoints-new-ceo-302243508.html"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 21:15:45",
       "https://news.ycombinator.com/item?id=41505670"
     ],
@@ -147,16 +157,6 @@
     [
       "Show HN: DBOS transact – Ultra-lightweight durable execution in Python",
       "https://github.com/dbos-inc/dbos-transact-py"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 15:29:47",
-      "https://news.ycombinator.com/item?id=41501762"
-    ],
-    [
-      "Deductive Verification for Chain-of-Thought Reasoning in LLMs",
-      "https://arxiv.org/abs/2306.03872"
     ]
   ],
   [
