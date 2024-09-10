@@ -28,6 +28,7 @@
 * [2024-09-06, 16:41:46](https://news.ycombinator.com/item?id=41467675) - [Against Rereading](https://www.theparisreview.org/blog/2024/09/04/against-rereading/)
 * [2024-09-06, 16:23:18](https://news.ycombinator.com/item?id=41467522) - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
 * [2024-09-06, 16:20:55](https://news.ycombinator.com/item?id=41467503) - [Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer](https://www.mdpi.com/2076-393X/12/9/958#)
+* [2024-09-06, 16:12:40](https://news.ycombinator.com/item?id=41467420) - [Tomato64: A port of Tomato Firmware to x86_64](https://tomato64.org/)
 * [2024-09-06, 15:29:17](https://news.ycombinator.com/item?id=41467054) - [SQLToy](https://github.com/weinberg/SQLToy/wiki)
 * [2024-09-06, 15:17:02](https://news.ycombinator.com/item?id=41466963) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 * [2024-09-06, 15:03:34](https://news.ycombinator.com/item?id=41466853) - [Europe Surpasses 900,000 Public EV Charge Points](https://evmarketsreports.com/europe-surpasses-900-000-public-ev-charge-points/)

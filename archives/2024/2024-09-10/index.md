@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 15:46:19](https://news.ycombinator.com/item?id=41501986) - [Apple owes billions in Irish back taxes](https://www.theregister.com/2024/09/10/apple_owes_billions_in_back/)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
 * [2024-09-10, 15:24:39](https://news.ycombinator.com/item?id=41501714) - [Sony announces PS5 Pro, a $700 graphics workhorse available Nov. 7](https://arstechnica.com/gaming/2024/09/sony-announces-ps5-pro-a-700-graphics-workhorse-available-nov-7/)
 * [2024-09-10, 15:17:06](https://news.ycombinator.com/item?id=41501630) - [Ford seeks patent for tech that listens to driver conversations to serve ads](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)

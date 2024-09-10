@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-10, 15:46:19](https://news.ycombinator.com/item?id=41501986) - [Apple owes billions in Irish back taxes](https://www.theregister.com/2024/09/10/apple_owes_billions_in_back/)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
 * [2024-09-10, 15:24:39](https://news.ycombinator.com/item?id=41501714) - [Sony announces PS5 Pro, a $700 graphics workhorse available Nov. 7](https://arstechnica.com/gaming/2024/09/sony-announces-ps5-pro-a-700-graphics-workhorse-available-nov-7/)
 * [2024-09-10, 15:17:06](https://news.ycombinator.com/item?id=41501630) - [Ford seeks patent for tech that listens to driver conversations to serve ads](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)
@@ -20,8 +21,6 @@
 * [2024-09-09, 17:28:45](https://news.ycombinator.com/item?id=41491016) - [Carpentopod: A Walking Table Project](https://www.decarpentier.nl/carpentopod)
 * [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 16:30:46](https://news.ycombinator.com/item?id=41490196) - [Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
-* [2024-09-09, 16:25:30](https://news.ycombinator.com/item?id=41490143) - [Project Hammer: reduce collusion in the Canadian grocery sector](https://jacobfilipp.com/hammer/)
-* [2024-09-09, 15:57:16](https://news.ycombinator.com/item?id=41489832) - [B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2024-09-08, 11:07:14](https://news.ycombinator.com/item?id=41479682) - [Warner Brothers Cartoon Companion](http://www.warnercompanion.com/eowbcc-d.html)
 * [2024-09-08, 09:36:41](https://news.ycombinator.com/item?id=41479283) - [Don't defer Close() on writable files (2017)](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
 * [2024-09-08, 09:29:07](https://news.ycombinator.com/item?id=41479241) - [Cecilia Payne-Gaposchkin discovered that stars are mostly made of hydrogen](https://www.aps.org/people/cecilia-payne-gaposchkin)
@@ -29,6 +28,7 @@
 * [2024-09-08, 08:04:37](https://news.ycombinator.com/item?id=41478930) - [Sqlc: Compile SQL to type-safe code](https://sqlc.dev/)
 * [2024-09-08, 07:22:39](https://news.ycombinator.com/item?id=41478771) - [The Canary](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/)
 * [2024-09-06, 23:27:21](https://news.ycombinator.com/item?id=41470440) - [Memorizing the first 100 perfect squares (2022)](https://dzhu.page/mathematics/memorizing-100-perfect-squares/)
+* [2024-09-06, 16:12:40](https://news.ycombinator.com/item?id=41467420) - [Tomato64: A port of Tomato Firmware to x86_64](https://tomato64.org/)
 * [2024-09-05, 18:20:28](https://news.ycombinator.com/item?id=41459166) - [Make an LED Blink with Buttons and with Code](https://docs.viam.com/tutorials/get-started/blink-an-led/)
 
 ## [Archives](archives/index.md)
