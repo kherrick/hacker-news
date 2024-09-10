@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-10, 04:24:00](https://news.ycombinator.com/item?id=41497139) - [Who uses Accept-Language header?](https://serpapi.com/blog/who-uses-accept-language-header/)
 * [2024-09-10, 02:50:14](https://news.ycombinator.com/item?id=41496725) - [Just for Fun (2022)](https://justforfunnoreally.dev)
 * [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
+* [2024-09-10, 00:52:12](https://news.ycombinator.com/item?id=41496033) - [Sail – Built in Rust, 4x Faster Than Spark, 94% Lower Costs, PySpark-Compatible](https://github.com/lakehq/sail)
 * [2024-09-10, 00:26:23](https://news.ycombinator.com/item?id=41495871) - [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
 * [2024-09-09, 23:29:13](https://news.ycombinator.com/item?id=41495430) - [Talaria: Interactively Optimizing Machine Learning Models for Efficient Inferenc](https://arxiv.org/abs/2404.03085)
 * [2024-09-09, 22:22:15](https://news.ycombinator.com/item?id=41494786) - [Sigrok – a portable, cross-platform, FOSS signal analysis software suite](https://sigrok.org/wiki/Main_Page)
