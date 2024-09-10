@@ -9,6 +9,7 @@
 * [2024-09-10, 18:30:45](https://news.ycombinator.com/item?id=41504026) - [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
 * [2024-09-10, 17:41:26](https://news.ycombinator.com/item?id=41503444) - [Why VR Games Still Haven't Taken Off](https://spectrum.ieee.org/vr-games)
 * [2024-09-10, 17:25:00](https://news.ycombinator.com/item?id=41503251) - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
+* [2024-09-10, 17:20:15](https://news.ycombinator.com/item?id=41503201) - [Lip Reading as a Service (Read Their Lips by Symphonic Labs)](https://www.readtheirlips.com/)
 * [2024-09-10, 17:01:24](https://news.ycombinator.com/item?id=41502986) - [Nearly 40 states back surgeon general's social media warning labels](https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels)
 * [2024-09-10, 16:46:08](https://news.ycombinator.com/item?id=41502822) - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
 * [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
