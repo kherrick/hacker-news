@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
-* [2024-09-10, 13:07:11](https://news.ycombinator.com/item?id=41500419) - [In Slingshot, a mission to Titan goes off course](https://spacenews.com/in-slingshot-a-mission-to-titan-goes-off-course/)
-* [2024-09-10, 12:46:01](https://news.ycombinator.com/item?id=41500201) - [Bank of America raises minimum hourly pay to $24, as tellers flee the industry](https://www.npr.org/2024/09/10/nx-s1-5106884/bank-of-america-raises-hourly-pay-tellers-flee-banking)
+* [2024-09-10, 13:05:42](https://news.ycombinator.com/item?id=41500405) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
+* [2024-09-10, 12:57:43](https://news.ycombinator.com/item?id=41500332) - [My Cloud Billing Screw-Up](https://masterpoint.beehiiv.com/p/cloud-billing-screwup)
+* [2024-09-10, 12:46:01](https://news.ycombinator.com/item?id=41500201) - [Bank of America raises minimum hourly pay](https://www.npr.org/2024/09/10/nx-s1-5106884/bank-of-america-raises-hourly-pay-tellers-flee-banking)
 * [2024-09-10, 12:00:23](https://news.ycombinator.com/item?id=41499883) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
 * [2024-09-10, 08:31:10](https://news.ycombinator.com/item?id=41498529) - [SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 * [2024-09-10, 07:51:35](https://news.ycombinator.com/item?id=41498264) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
