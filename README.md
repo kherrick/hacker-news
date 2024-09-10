@@ -7,6 +7,7 @@
 * [2024-09-10, 16:46:08](https://news.ycombinator.com/item?id=41502822) - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
 * [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and Papers turned into audio content](https://illuminate.google.com/home)
+* [2024-09-10, 16:18:55](https://news.ycombinator.com/item?id=41502462) - [When Bloom filters don't bloom (2020)](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)
 * [2024-09-10, 16:18:36](https://news.ycombinator.com/item?id=41502453) - [Show HN: GitOps Template for Kubernetes](https://github.com/glasskube/gitops-template/)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
 * [2024-09-10, 15:32:42](https://news.ycombinator.com/item?id=41501804) - [ChartEye: A Deep Learning Framework for Chart Information Extraction](https://arxiv.org/abs/2408.16123)
@@ -27,7 +28,6 @@
 * [2024-09-08, 09:36:41](https://news.ycombinator.com/item?id=41479283) - [Don't defer Close() on writable files (2017)](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
 * [2024-09-08, 09:06:31](https://news.ycombinator.com/item?id=41479141) - [An NFC movie library for my kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
 * [2024-09-08, 08:49:32](https://news.ycombinator.com/item?id=41479085) - [Floral formula](https://en.wikipedia.org/wiki/Floral_formula)
-* [2024-09-08, 07:22:39](https://news.ycombinator.com/item?id=41478771) - [The Canary](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/)
 * [2024-09-06, 23:27:21](https://news.ycombinator.com/item?id=41470440) - [Memorizing the first 100 perfect squares (2022)](https://dzhu.page/mathematics/memorizing-100-perfect-squares/)
 * [2024-09-06, 16:12:40](https://news.ycombinator.com/item?id=41467420) - [Tomato64: A port of Tomato Firmware to x86_64](https://tomato64.org/)
 
