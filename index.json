@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-10, 21:15:45",
+      "https://news.ycombinator.com/item?id=41505670"
+    ],
+    [
+      "Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies",
+      "https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 21:15:24",
       "https://news.ycombinator.com/item?id=41505665"
     ],
@@ -77,16 +87,6 @@
     [
       "Pixhell Attack: Leaking Info from Air-Gap Computers via 'Singing Pixels'",
       "https://arxiv.org/abs/2409.04930"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 19:04:42",
-      "https://news.ycombinator.com/item?id=41504331"
-    ],
-    [
-      "Iron Mountain: It's Time to Talk About Hard Drives",
-      "https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-09-09, 11:31:39",
-      "https://news.ycombinator.com/item?id=41487496"
+      "2024-09-08, 14:51:12",
+      "https://news.ycombinator.com/item?id=41480746"
     ],
     [
-      "How to Compose Math Problems",
-      "https://www.andreinc.net/2024/07/25/how-to-compose-math-problems"
+      "Open-source streaming API from ingest to player",
+      "https://matvp91.github.io/mixwave/"
     ]
   ],
   [
