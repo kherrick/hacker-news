@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-10, 22:13:30](https://news.ycombinator.com/item?id=41506157) - [Chai-1 Defeats AlphaFold 3](https://www.chaidiscovery.com/blog/introducing-chai-1)
-* [2024-09-10, 22:09:02](https://news.ycombinator.com/item?id=41506124) - [K1 Buys MariaDB](https://www.prnewswire.com/news-releases/k1-acquires-mariadb-a-leading-database-software-company-and-appoints-new-ceo-302243508.html)
 * [2024-09-10, 21:15:45](https://news.ycombinator.com/item?id=41505670) - [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
 * [2024-09-10, 21:15:24](https://news.ycombinator.com/item?id=41505665) - [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-10, 21:10:52](https://news.ycombinator.com/item?id=41505622) - [Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)
@@ -16,6 +15,7 @@
 * [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home)
 * [2024-09-10, 15:53:40](https://news.ycombinator.com/item?id=41502094) - [Show HN: DBOS transact – Ultra-lightweight durable execution in Python](https://github.com/dbos-inc/dbos-transact-py)
+* [2024-09-10, 15:29:47](https://news.ycombinator.com/item?id=41501762) - [Deductive Verification for Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2306.03872)
 * [2024-09-10, 15:03:31](https://news.ycombinator.com/item?id=41501496) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 * [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
 * [2024-09-10, 13:19:29](https://news.ycombinator.com/item?id=41500522) - [How we made Jupyter notebooks load faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
