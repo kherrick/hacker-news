@@ -2,6 +2,7 @@
 
 * [2024-09-10, 08:05:44](https://news.ycombinator.com/item?id=41498377) - [EU Court: Apple received EUR 13B illegal tax subsidy [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240133en.pdf)
 * [2024-09-10, 08:03:54](https://news.ycombinator.com/item?id=41498358) - [Tech Apple loses EU court battle over 13B euro tax bill in Ireland](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
+* [2024-09-10, 07:30:15](https://news.ycombinator.com/item?id=41498137) - [Make Your Own Read-Only Device with NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
 * [2024-09-10, 06:05:29](https://news.ycombinator.com/item?id=41497619) - [Is telling a model to \"not hallucinate\" absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
 * [2024-09-10, 02:50:14](https://news.ycombinator.com/item?id=41496725) - [Just for Fun (2022)](https://justforfunnoreally.dev)
 * [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
@@ -28,7 +29,6 @@
 * [2024-09-08, 08:29:23](https://news.ycombinator.com/item?id=41479017) - [Litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [2024-09-08, 08:04:37](https://news.ycombinator.com/item?id=41478930) - [Sqlc: Compile SQL to type-safe code](https://sqlc.dev/)
 * [2024-09-08, 07:22:39](https://news.ycombinator.com/item?id=41478771) - [2016 was first year on record for zero roof fall fatalities in coal mining in US](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/)
-* [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
 
 ## [Archives](archives/index.md)
