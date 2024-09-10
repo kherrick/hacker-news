@@ -28,7 +28,7 @@
 * [2024-09-08, 08:29:23](https://news.ycombinator.com/item?id=41479017) - [Litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [2024-09-08, 08:04:37](https://news.ycombinator.com/item?id=41478930) - [Sqlc: Compile SQL to type-safe code](https://sqlc.dev/)
 * [2024-09-08, 07:22:39](https://news.ycombinator.com/item?id=41478771) - [2016 was first year on record for zero roof fall fatalities in coal mining in US](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/)
-* [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
+* [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
 
 ## [Archives](archives/index.md)
