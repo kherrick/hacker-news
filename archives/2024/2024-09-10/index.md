@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 17:01:24](https://news.ycombinator.com/item?id=41502986) - [Nearly 40 states back surgeon general's social media warning labels](https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels)
 * [2024-09-10, 16:46:08](https://news.ycombinator.com/item?id=41502822) - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
 * [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
+* [2024-09-10, 16:31:26](https://news.ycombinator.com/item?id=41502625) - [Open Source is not a Business Model](https://cra.mr/open-source-is-not-a-business-model/)
+* [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and Papers turned into audio content](https://illuminate.google.com/home)
 * [2024-09-10, 16:18:55](https://news.ycombinator.com/item?id=41502462) - [When Bloom filters don't bloom (2020)](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)
+* [2024-09-10, 16:18:36](https://news.ycombinator.com/item?id=41502453) - [Show HN: Glasskube's Argo CD GitOps Template for Kubernetes](https://news.ycombinator.com/item?id=41502453)
 * [2024-09-10, 15:46:47](https://news.ycombinator.com/item?id=41501999) - [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
 * [2024-09-10, 15:46:19](https://news.ycombinator.com/item?id=41501986) - [Apple owes billions in Irish back taxes](https://www.theregister.com/2024/09/10/apple_owes_billions_in_back/)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
