@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41502986">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels"
+              >Nearly 40 states back surgeon general's social media warning
+              labels</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-10 @ 17:01:24</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41502986"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41502822">
           <h3>
             <a
@@ -141,11 +163,11 @@
             <h4>
               <span>2024-09-10 @ 16:46:08</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41502822"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -162,9 +184,49 @@
             <h4>
               <span>2024-09-10 @ 16:38:50</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41502721"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41502625">
+          <h3>
+            <a
+              class="item"
+              href="https://cra.mr/open-source-is-not-a-business-model/"
+              >Open Source is not a Business Model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-10 @ 16:31:26</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41502625"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41502510">
+          <h3>
+            <a class="item" href="https://illuminate.google.com/home"
+              >Google Illuminate: Books and Papers turned into audio content</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-10 @ 16:22:13</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41502510"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
               >
@@ -183,13 +245,94 @@
             <h4>
               <span>2024-09-10 @ 16:18:55</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41502462"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41502453">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41502453"
+              >Show HN: Glasskube's Argo CD GitOps Template for Kubernetes</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-10 @ 16:18:36</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41502453"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/glasskube/glasskube"
+                >https://github.com/glasskube/glasskube</a
+              >). We are working on a package manager for Kubernetes to simplify
+              the packaging of complex applications with multiple dependencies,
+              ensuring they are installed and kept up-to-date across multiple
+              Kubernetes clusters.
+              <p>
+                Nowadays, it is best practice to use Git as a revision control
+                system for your Kubernetes configurations. Update automation
+                workflows like Renovate or Dependabot can create pull requests
+                for new versions of Docker images and Helm charts, but ensuring
+                these new package versions work is still a manual task. By using
+                the central (or a private) Glasskube repository (<a
+                  href="https://github.com/glasskube/packages"
+                  >https://github.com/glasskube/packages</a
+                >) together with our Renovate integration (<a
+                  href="https://docs.renovatebot.com/modules/manager/glasskube/"
+                  >https://docs.renovatebot.com/modules/manager/glasskube/</a
+                >), you can ensure that new package versions will run through
+                our Minikube-based CI workflows before they get
+                published—similar to how the Homebrew core tap works. We’ve just
+                introduced readiness checks for manifest-based deployments and
+                utilize the flux-helm-controller to wait for a Helm release to
+                succeed.
+              </p>
+              <p>
+                Dependencies are resolved by our package controller. These
+                dependencies can either be cluster-scoped (installed in the
+                recommended namespace, e.g., operators wird CRDs) or
+                namespace-scoped components of a package (e.g., a database or
+                Redis cache). In such cases, we will prefix resources with the
+                dependent package name to ensure multiple packages can use the
+                same dependencies without naming conflicts (we use Kustomize on
+                a virtual filesystem for this).
+              </p>
+              <p>
+                Glasskube packages can currently be Helm charts (from an OCI or
+                Helm repository) or manifests, which are mostly built using
+                Kustomize’s overlay approach.
+              </p>
+              <p>
+                Since neither the overlay approach (using Kustomize) nor Helm’s
+                limited templating functionality will help us and other
+                Kubernetes users scale to more complex packages, we are
+                considering creating a more programmatic approach to package
+                creation, similar to Timoni. Currently, KCL is our frontrunner
+                (<a
+                  href="https://github.com/glasskube/glasskube/discussions/1018"
+                  >https://github.com/glasskube/glasskube/discussions/1018</a
+                >), as it already integrates well with the Kubernetes ecosystem.
+              </p>
+              <p>
+                We would appreciate if you give our GitOps template a try. It
+                also works work existing Kubernetes clusters if just want to use
+                GitOps for some applications. Just make sure that the argocd and
+                glasskube-system namespaces are not yet in use. See:
+                <a href="https://github.com/glasskube/gitops-template/"
+                  >https://github.com/glasskube/gitops-template/</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="41501818">
@@ -202,11 +345,11 @@
             <h4>
               <span>2024-09-10 @ 15:33:56</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41501818"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -223,11 +366,11 @@
             <h4>
               <span>2024-09-10 @ 15:03:31</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41501496"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -245,11 +388,11 @@
             <h4>
               <span>2024-09-10 @ 14:34:58</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41501215"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -267,11 +410,11 @@
             <h4>
               <span>2024-09-10 @ 14:08:37</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41500938"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -343,31 +486,6 @@
             </div>
           </section>
         </section>
-        <section id="41500861">
-          <h3>
-            <a class="item" href="https://www.trynyro.com"
-              >Show HN: I built a cheaper ChatGPT alternative that runs on your
-              desktop</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-10 @ 14:02:38</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41500861"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-            <div class="text">
-              We are also open source! I'm looking for feedback and feature
-              ideas. We have some OS-level features ideas and are implementing
-              those soon.
-            </div>
-          </section>
-        </section>
         <section id="41500840">
           <h3>
             <a
@@ -402,7 +520,7 @@
             <h4>
               <span>2024-09-10 @ 13:19:29</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41500522"
                   >Comments</a
@@ -423,11 +541,11 @@
             <h4>
               <span>2024-09-10 @ 13:16:28</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41500506"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -444,11 +562,11 @@
             <h4>
               <span>2024-09-10 @ 13:05:43</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41500406"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -465,11 +583,11 @@
             <h4>
               <span>2024-09-10 @ 13:05:42</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41500405"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -487,11 +605,11 @@
             <h4>
               <span>2024-09-10 @ 12:52:23</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41500268"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -507,11 +625,11 @@
             <h4>
               <span>2024-09-10 @ 12:05:01</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41499905"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -581,7 +699,7 @@
             <h4>
               <span>2024-09-10 @ 07:51:35</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41498264"
                   >Comments</a
@@ -600,11 +718,11 @@
             <h4>
               <span>2024-09-10 @ 02:46:13</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41496699"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -620,7 +738,7 @@
             <h4>
               <span>2024-09-09 @ 22:22:15</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41494786"
                   >Comments</a
@@ -639,7 +757,7 @@
             <h4>
               <span>2024-09-09 @ 17:28:45</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41491016"
                   >Comments</a
@@ -660,135 +778,13 @@
             <h4>
               <span>2024-09-09 @ 16:37:29</span
               ><span class="points-container"
-                >Points: <span class="points">545</span></span
+                >Points: <span class="points">549</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41490290"
                   >Comments</a
-                ><span class="descendants">: 475</span></span
+                ><span class="descendants">: 478</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41490196">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=41490196"
-              >Launch HN: Deepsilicon (YC S24) – Software and hardware for
-              ternary transformers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-09 @ 16:30:46</span
-              ><span class="points-container"
-                >Points: <span class="points">173</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41490196"
-                  >Comments</a
-                ><span class="descendants">: 67</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://deepsilicon.com">https://deepsilicon.com</a>). We
-              are building software and hardware for training and inferencing
-              ternary transformer models. Here's a video of the software:
-              <a href="https://www.youtube.com/watch?v=VqBn-I5D6pk"
-                >https://www.youtube.com/watch?v=VqBn-I5D6pk</a
-              >.
-              <p>
-                Transformer-based models are getting bigger every generation,
-                making the inference hardware requirements more and more
-                expensive. Running large transformer models on device is even
-                more challenging. Usually, they require trillions of FLOPs to
-                run at decent speeds and use too much energy and space.
-              </p>
-              <p>
-                Our solution is to train ternary transformer models. There are
-                two advantages to using ternary values. The first is that the
-                weights can now be stored in two bits (or even less) from 16
-                bits. This represents an almost 8x compression ratio for every
-                weight matrix in the transformer model (slightly less because of
-                the float16 scaling value and extra norm, but that’s
-                negligible). The second advantage is a reduction in the
-                arithmetic intensity. If we do a dot product between ternary
-                values and INT8 values, we either add the INT8 if the ternary
-                value is 1, subtract the INT8 if the ternary values is -1, or do
-                nothing if the ternary value is 0. There are numerous ways to
-                take advantage of this change in arithmetic, from look up tables
-                to bit mask reductions. As for why ternary and not
-                quaternary/binary, ternary hits a sweet spot of compression and
-                (symmetric) representational value for weights in our
-                experiments.
-              </p>
-              <p>
-                Currently, hardware is not really optimized for extreme low
-                bit-width matrix operations (whether multiplication or
-                otherwise). We’ve tried various implementations of kernels on
-                both CPUs/GPUs (really only NVIDIA GPUs). We don’t even come
-                close to the theoretical maximum speed for our kernels, and a
-                large part of the failure is because the architecture of
-                existing hardware isn’t optimized for the operations we want
-                them to do. Creating custom silicon for ternary LLMs can
-                accelerate inference by implementing and designing
-                algorithms/circuits that only work for ternary LLMs. Unlike most
-                hardware companies, which need silicon to show improvements, we
-                can already show improvements to active VRAM usage and
-                throughput with our custom kernels on existing hardware. This
-                sets pretty impressive lower bounds for custom silicon.
-              </p>
-              <p>
-                We originally started working on this after reading the BitNet
-                paper from Microsoft, and were disenchanted that we couldn't run
-                SOTA models on our consumer hardware (3090 and 3070M). Both Alex
-                and I worked on research at Dartmouth, I worked more on the
-                ML/model architecture side, while Alex worked on randNLA CUDA
-                kernels to accelerate training. The research experience, and
-                opportunity to talk to professors, made us realize that if we
-                could pull off ternary transformers, it could solve the large
-                scale inference problem on the edge and cloud.
-              </p>
-              <p>
-                First, we must either retrain or pretrain a model with our
-                custom linear layers based on the Bitnet 1.58 layers (we’re
-                working on open sourcing our framework for training, data
-                labelling, and synthetic data generation here:
-                <a href="https://github.com/deepsilicon/Sila"
-                  >https://github.com/deepsilicon/Sila</a
-                >). The model is trained with FP16 weights, but the weights are
-                quantized and the quantization function is detached from the
-                computational graph to allow gradients to flow, and the loss is
-                measured w.r.t. the quantized weights. Once the model converges,
-                we can inference the model with our custom kernels written for
-                CPUs or GPUs (we are working on Inferentia and TPU support). The
-                end goal is to create purpose-built custom silicon to work with
-                the ternary weights, where we can have better compression,
-                throughput, latency, and energy improvements compared to our
-                kernels on existing hardware.
-              </p>
-              <p>
-                We know this is a highly challenging problem due to technical
-                and market difficulties. Plenty of hardware companies have tried
-                to accelerate inference, but most are not profitable. The
-                biggest problem in the ML hardware market, perplexingly, is
-                software. It's challenging to convince companies to switch to
-                some new hardware when their entire infrastructure and software
-                stack has been configured for some other hardware. On the
-                technical side, we must support various deployment options and
-                model architectures to make large-scale custom silicon
-                production worthwhile. This is compounded by the fact we want to
-                have a single line of code handle everything, abstracting what
-                we're doing away from the ML engineers. So, we need to handle
-                everything on the technical side: compiling the right kernels
-                for your platform, generating the right bindings for
-                ONNX/TensorRT, tuning the kernels, setting the mode to training
-                or inference, etc.
-              </p>
-              <p>
-                We’d love to hear your opinions about ASICs for transformer
-                inference - and if you know anyone who might be interested in
-                deploying these models, my email is abhi@deepsilicon.com. We
-                can’t wait to hear what you all think!
-              </p>
-            </div>
           </section>
         </section>
         <section id="41487496">
@@ -803,30 +799,11 @@
             <h4>
               <span>2024-09-09 @ 11:31:39</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41487496"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41479682">
-          <h3>
-            <a class="item" href="http://www.warnercompanion.com/eowbcc-d.html"
-              >Warner Brothers Cartoon Companion (1998)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-08 @ 11:07:14</span
-              ><span class="points-container"
-                >Points: <span class="points">95</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41479682"
-                  >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -843,11 +820,11 @@
             <h4>
               <span>2024-09-08 @ 09:36:41</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41479283"
                   >Comments</a
-                ><span class="descendants">: 219</span></span
+                ><span class="descendants">: 220</span></span
               >
             </h4>
           </section>
@@ -864,30 +841,11 @@
             <h4>
               <span>2024-09-08 @ 09:06:31</span
               ><span class="points-container"
-                >Points: <span class="points">1152</span></span
+                >Points: <span class="points">1168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41479141"
                   >Comments</a
-                ><span class="descendants">: 271</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41478930">
-          <h3>
-            <a class="item" href="https://sqlc.dev/"
-              >Sqlc: Compile SQL to type-safe code</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-08 @ 08:04:37</span
-              ><span class="points-container"
-                >Points: <span class="points">207</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41478930"
-                  >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 277</span></span
               >
             </h4>
           </section>
@@ -904,11 +862,11 @@
             <h4>
               <span>2024-09-08 @ 07:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41478771"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -925,11 +883,11 @@
             <h4>
               <span>2024-09-06 @ 23:27:21</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41470440"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -944,11 +902,11 @@
             <h4>
               <span>2024-09-06 @ 16:12:40</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41467420"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
