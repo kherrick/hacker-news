@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-10, 21:15:45](https://news.ycombinator.com/item?id=41505670) - [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
 * [2024-09-10, 21:15:24](https://news.ycombinator.com/item?id=41505665) - [Rust in Illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-10, 21:10:52](https://news.ycombinator.com/item?id=41505622) - [Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)
 * [2024-09-10, 21:09:04](https://news.ycombinator.com/item?id=41505593) - [Lottery Simulator (2023)](https://perthirtysix.com/tool/lottery-simulator)
@@ -8,7 +9,6 @@
 * [2024-09-10, 19:59:39](https://news.ycombinator.com/item?id=41504885) - [Tutorial on diffusion models for imaging and vision](https://arxiv.org/abs/2403.18103)
 * [2024-09-10, 19:54:38](https://news.ycombinator.com/item?id=41504832) - [Git Bash Is My Preferred Windows Shell](https://www.ii.com/git-bash-is-my-preferred-windows-shell/)
 * [2024-09-10, 19:34:11](https://news.ycombinator.com/item?id=41504631) - [Pixhell Attack: Leaking Info from Air-Gap Computers via 'Singing Pixels'](https://arxiv.org/abs/2409.04930)
-* [2024-09-10, 19:04:42](https://news.ycombinator.com/item?id=41504331) - [Iron Mountain: It's Time to Talk About Hard Drives](https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives)
 * [2024-09-10, 17:25:00](https://news.ycombinator.com/item?id=41503251) - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
 * [2024-09-10, 17:20:15](https://news.ycombinator.com/item?id=41503201) - [Lip Reading as a Service (Read Their Lips by Symphonic Labs)](https://www.readtheirlips.com/)
 * [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
@@ -26,7 +26,7 @@
 * [2024-09-10, 08:03:54](https://news.ycombinator.com/item?id=41498358) - [Apple must pay 13B euros in back taxes, EU's top court rules](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
 * [2024-09-09, 11:53:59](https://news.ycombinator.com/item?id=41487653) - [The Friendship that made Google huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
-* [2024-09-09, 11:31:39](https://news.ycombinator.com/item?id=41487496) - [How to Compose Math Problems](https://www.andreinc.net/2024/07/25/how-to-compose-math-problems)
+* [2024-09-08, 14:51:12](https://news.ycombinator.com/item?id=41480746) - [Open-source streaming API from ingest to player](https://matvp91.github.io/mixwave/)
 * [2024-09-08, 12:37:44](https://news.ycombinator.com/item?id=41480038) - [Microwave Oven Failure: Spontaneously turned on by its LED display](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
 * [2024-09-08, 08:49:32](https://news.ycombinator.com/item?id=41479085) - [Floral formula](https://en.wikipedia.org/wiki/Floral_formula)
 * [2024-09-06, 16:12:40](https://news.ycombinator.com/item?id=41467420) - [Tomato64: A port of Tomato Firmware to x86_64](https://tomato64.org/)
