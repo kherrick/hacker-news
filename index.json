@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-09-10, 12:00:23",
+      "https://news.ycombinator.com/item?id=41499883"
+    ],
+    [
+      "Roame (YC S23) Is Hiring a Chief of Staff",
+      "https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 11:33:29",
+      "https://news.ycombinator.com/item?id=41499714"
+    ],
+    [
+      "Google and Apple Face Billions in Penalties After Losing E.U. Appeals",
+      "https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 11:26:16",
       "https://news.ycombinator.com/item?id=41499666"
     ],
     [
-      "EU top court rules against Apple, Google",
+      "EU top court confirms Apple's €13 billion tax bill in the EU",
       "https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532"
     ]
   ],
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2024-09-09, 23:29:13",
-      "https://news.ycombinator.com/item?id=41495430"
-    ],
-    [
-      "Talaria: Interactively Optimizing Machine Learning Models for Efficient Inferenc",
-      "https://arxiv.org/abs/2404.03085"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 22:22:15",
       "https://news.ycombinator.com/item?id=41494786"
     ],
     [
       "Sigrok – a portable, cross-platform, FOSS signal analysis software suite",
       "https://sigrok.org/wiki/Main_Page"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 19:02:45",
-      "https://news.ycombinator.com/item?id=41492251"
-    ],
-    [
-      "FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates",
-      "https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Hacking misconfigured AWS S3 buckets: A complete guide",
       "https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 15:40:20",
-      "https://news.ycombinator.com/item?id=41489633"
-    ],
-    [
-      "MNT Reform Next",
-      "https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Canary",
       "https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 23:27:21",
+      "https://news.ycombinator.com/item?id=41470440"
+    ],
+    [
+      "Memorizing the first 100 perfect squares (2022)",
+      "https://dzhu.page/mathematics/memorizing-100-perfect-squares/"
     ]
   ],
   [
