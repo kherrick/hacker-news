@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-10, 21:09:04](https://news.ycombinator.com/item?id=41505593) - [Lottery Simulator](https://perthirtysix.com/tool/lottery-simulator)
+* [2024-09-10, 21:15:24](https://news.ycombinator.com/item?id=41505665) - [Rust in Illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
+* [2024-09-10, 21:10:52](https://news.ycombinator.com/item?id=41505622) - [Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)
+* [2024-09-10, 21:09:04](https://news.ycombinator.com/item?id=41505593) - [Lottery Simulator (2023)](https://perthirtysix.com/tool/lottery-simulator)
 * [2024-09-10, 20:52:17](https://news.ycombinator.com/item?id=41505389) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-10, 20:12:49](https://news.ycombinator.com/item?id=41505009) - [Another police raid in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
-* [2024-09-10, 19:59:39](https://news.ycombinator.com/item?id=41504885) - [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
+* [2024-09-10, 19:59:39](https://news.ycombinator.com/item?id=41504885) - [Tutorial on diffusion models for imaging and vision](https://arxiv.org/abs/2403.18103)
 * [2024-09-10, 19:54:38](https://news.ycombinator.com/item?id=41504832) - [Git Bash Is My Preferred Windows Shell](https://www.ii.com/git-bash-is-my-preferred-windows-shell/)
 * [2024-09-10, 19:34:11](https://news.ycombinator.com/item?id=41504631) - [Pixhell Attack: Leaking Info from Air-Gap Computers via 'Singing Pixels'](https://arxiv.org/abs/2409.04930)
 * [2024-09-10, 19:04:42](https://news.ycombinator.com/item?id=41504331) - [Iron Mountain: It's Time to Talk About Hard Drives](https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives)
@@ -26,10 +28,8 @@
 * [2024-09-09, 11:53:59](https://news.ycombinator.com/item?id=41487653) - [The Friendship that made Google huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
 * [2024-09-09, 11:31:39](https://news.ycombinator.com/item?id=41487496) - [How to Compose Math Problems](https://www.andreinc.net/2024/07/25/how-to-compose-math-problems)
 * [2024-09-08, 12:37:44](https://news.ycombinator.com/item?id=41480038) - [Microwave Oven Failure: Spontaneously turned on by its LED display](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
-* [2024-09-08, 09:36:41](https://news.ycombinator.com/item?id=41479283) - [Don't defer Close() on writable files (2017)](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
 * [2024-09-08, 08:49:32](https://news.ycombinator.com/item?id=41479085) - [Floral formula](https://en.wikipedia.org/wiki/Floral_formula)
 * [2024-09-06, 16:12:40](https://news.ycombinator.com/item?id=41467420) - [Tomato64: A port of Tomato Firmware to x86_64](https://tomato64.org/)
-* [2024-09-05, 19:31:15](https://news.ycombinator.com/item?id=41459722) - [DJI Neo review – a drone that can do everything, and land in your hand](https://www.digitalcameraworld.com/reviews/dji-neo-review)
 
 ## [Archives](archives/index.md)
 
