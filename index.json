@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-09-09, 16:44:21",
+      "https://news.ycombinator.com/item?id=41490384"
+    ],
+    [
+      "300μs typo detection for 1.3M words",
+      "https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 16:37:29",
       "https://news.ycombinator.com/item?id=41490290"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2024-09-08, 13:18:44",
-      "https://news.ycombinator.com/item?id=41480232"
+      "2024-09-08, 12:57:41",
+      "https://news.ycombinator.com/item?id=41480135"
     ],
     [
-      "In the Labyrinth of Unknown Unknowns",
-      "https://www.antithesis.com/blog/unknown_unknowns/"
+      "API Complexity Is a Lie",
+      "https://apichangelog.substack.com/p/api-complexity-is-a-lie"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: I mapped HN's favorite books with GPT-4o",
       "https://hnbooks.pieterma.es"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 07:55:29",
-      "https://news.ycombinator.com/item?id=41463971"
-    ],
-    [
-      "Oxygene: A modern language built on the foundation of Object Pascal",
-      "https://www.remobjects.com/elements/oxygene/"
     ]
   ],
   [
