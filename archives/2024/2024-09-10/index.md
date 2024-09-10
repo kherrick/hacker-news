@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 04:03:54](https://news.ycombinator.com/item?id=41497051) - [Firefox update added more sponsored content on new-tab page](https://twitter.com/nearcyan/status/1833253001668268242)
 * [2024-09-10, 02:50:14](https://news.ycombinator.com/item?id=41496725) - [Just for Fun. No](https://justforfunnoreally.dev)
 * [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology specific foundation model released by Harrison.ai](https://harrison.ai/harrison-rad-1/)
 * [2024-09-10, 01:24:10](https://news.ycombinator.com/item?id=41496254) - [DOJ claims Google has \"trifecta of monopolies\" on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
