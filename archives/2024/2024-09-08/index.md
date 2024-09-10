@@ -44,6 +44,7 @@
 * [2024-09-08, 11:48:02](https://news.ycombinator.com/item?id=41479840) - [ASCII cam – I made this using replit agent](https://ascii-cam.replit.app)
 * [2024-09-08, 11:44:40](https://news.ycombinator.com/item?id=41479828) - [Estimating Bidders' Valuation Distributions in Online Auctions (2005) [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/em.pdf)
 * [2024-09-08, 11:32:52](https://news.ycombinator.com/item?id=41479785) - [Goodbye Tinder, hello Strava: have 'hobby' apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
+* [2024-09-08, 11:07:14](https://news.ycombinator.com/item?id=41479682) - [Warner Brothers Cartoon Companion](http://www.warnercompanion.com/eowbcc-d.html)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
 * [2024-09-08, 10:32:00](https://news.ycombinator.com/item?id=41479539) - [PSA: Eget That Executable from GitHub](https://taras.glek.net/post/eget-that-binary-from-github/)
 * [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
