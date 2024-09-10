@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
+* [2024-09-10, 13:07:11](https://news.ycombinator.com/item?id=41500419) - [In Slingshot, a mission to Titan goes off course](https://spacenews.com/in-slingshot-a-mission-to-titan-goes-off-course/)
 * [2024-09-10, 12:46:01](https://news.ycombinator.com/item?id=41500201) - [Bank of America raises minimum hourly pay to $24, as tellers flee the industry](https://www.npr.org/2024/09/10/nx-s1-5106884/bank-of-america-raises-hourly-pay-tellers-flee-banking)
 * [2024-09-10, 12:00:23](https://news.ycombinator.com/item?id=41499883) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
 * [2024-09-10, 11:56:09](https://news.ycombinator.com/item?id=41499855) - [Meta's Hack (HHVM) language appears to be no longer maintained](https://github.com/facebook/hhvm/graphs/commit-activity)
