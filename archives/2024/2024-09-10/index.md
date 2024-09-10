@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 04:33:39](https://news.ycombinator.com/item?id=41497180) - [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
 * [2024-09-10, 04:03:54](https://news.ycombinator.com/item?id=41497051) - [Firefox update added more sponsored content on new-tab page](https://twitter.com/nearcyan/status/1833253001668268242)
 * [2024-09-10, 02:50:14](https://news.ycombinator.com/item?id=41496725) - [Just for Fun. No](https://justforfunnoreally.dev)
 * [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology specific foundation model released by Harrison.ai](https://harrison.ai/harrison-rad-1/)
