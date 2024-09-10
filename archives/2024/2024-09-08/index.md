@@ -37,6 +37,7 @@
 * [2024-09-08, 15:53:32](https://news.ycombinator.com/item?id=41481122) - [Nikon sold more Z9 cameras in its first year than any flagship in past 15 years](https://petapixel.com/2024/09/05/nikon-sold-more-z9-cameras-in-its-first-year-than-any-flagship-in-past-15-years/)
 * [2024-09-08, 15:42:22](https://news.ycombinator.com/item?id=41481058) - [UK electric car drivers should be charged per mile, say campaigners](https://www.theguardian.com/politics/article/2024/sep/03/uk-electric-car-drivers-per-mile-vehicle-taxes-campaign-for-better-transport)
 * [2024-09-08, 14:40:26](https://news.ycombinator.com/item?id=41480675) - [htmx Web Security Basics](https://htmx.org/essays/web-security-basics-with-htmx/)
+* [2024-09-08, 13:18:44](https://news.ycombinator.com/item?id=41480232) - [In the Labyrinth of Unknown Unknowns](https://www.antithesis.com/blog/unknown_unknowns/)
 * [2024-09-08, 12:59:51](https://news.ycombinator.com/item?id=41480145) - [The Lurker's Guide to Babylon5](http://www.midwinter.com/lurk/)
 * [2024-09-08, 12:35:48](https://news.ycombinator.com/item?id=41480034) - [Ask HN: How does my school block DoH?](https://news.ycombinator.com/item?id=41480034)
 * [2024-09-08, 11:48:02](https://news.ycombinator.com/item?id=41479840) - [ASCII cam – I made this using replit agent](https://ascii-cam.replit.app)
