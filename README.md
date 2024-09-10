@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-10, 08:46:47](https://news.ycombinator.com/item?id=41498643) - [Google's 2.4B euro fine upheld by Europe's top court in EU antitrust probe](https://www.cnbc.com/2024/09/10/googles-2point4-billion-euro-fine-upheld-by-europes-top-court.html)
 * [2024-09-10, 08:03:54](https://news.ycombinator.com/item?id=41498358) - [Tech Apple loses EU court battle over 13B euro tax bill in Ireland](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
 * [2024-09-10, 07:30:15](https://news.ycombinator.com/item?id=41498137) - [Make Your Own Read-Only Device with NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
 * [2024-09-10, 06:16:45](https://news.ycombinator.com/item?id=41497696) - [Taildrop lets you send files between your personal devices on Tailscale network](https://tailscale.com/kb/1106/taildrop)
@@ -24,6 +23,7 @@
 * [2024-09-08, 13:45:33](https://news.ycombinator.com/item?id=41480373) - [Show HN: Vomitorium – all of your project in 1 text file](https://www.npmjs.com/package/vomitorium)
 * [2024-09-08, 11:44:40](https://news.ycombinator.com/item?id=41479828) - [Estimating Bidders' Valuation Distributions in Online Auctions (2005) [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/em.pdf)
 * [2024-09-08, 11:07:14](https://news.ycombinator.com/item?id=41479682) - [Warner Brothers Cartoon Companion](http://www.warnercompanion.com/eowbcc-d.html)
+* [2024-09-08, 09:36:41](https://news.ycombinator.com/item?id=41479283) - [Don't defer Close() on writable files (2017)](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
 * [2024-09-08, 09:29:07](https://news.ycombinator.com/item?id=41479241) - [Cecilia Payne-Gaposchkin discovered that stars are mostly made of hydrogen](https://www.aps.org/people/cecilia-payne-gaposchkin)
 * [2024-09-08, 09:06:31](https://news.ycombinator.com/item?id=41479141) - [An NFC movie library for my kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
 * [2024-09-08, 08:29:23](https://news.ycombinator.com/item?id=41479017) - [Litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
