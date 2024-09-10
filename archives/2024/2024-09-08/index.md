@@ -57,6 +57,7 @@
 * [2024-09-08, 09:16:59](https://news.ycombinator.com/item?id=41479189) - [Ask HN: How do you manage your prompts in ChatGPT?](https://news.ycombinator.com/item?id=41479189)
 * [2024-09-08, 09:06:31](https://news.ycombinator.com/item?id=41479141) - [An NFC Movie Library for My Kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
 * [2024-09-08, 08:56:32](https://news.ycombinator.com/item?id=41479103) - [Metal-benchmarks: Apple GPU microarchitecture](https://github.com/philipturner/metal-benchmarks)
+* [2024-09-08, 08:49:32](https://news.ycombinator.com/item?id=41479085) - [Floral formula](https://en.wikipedia.org/wiki/Floral_formula)
 * [2024-09-08, 08:35:01](https://news.ycombinator.com/item?id=41479035) - [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
 * [2024-09-08, 08:29:23](https://news.ycombinator.com/item?id=41479017) - [Litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [2024-09-08, 08:20:14](https://news.ycombinator.com/item?id=41478981) - [Rɐbbit Dynamic Datascapes](https://github.com/ryrobes/rvbbit)
