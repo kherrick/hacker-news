@@ -59,6 +59,7 @@
 * [2024-09-08, 08:20:14](https://news.ycombinator.com/item?id=41478981) - [Rɐbbit Dynamic Datascapes](https://github.com/ryrobes/rvbbit)
 * [2024-09-08, 08:04:37](https://news.ycombinator.com/item?id=41478930) - [Sqlc: Compile SQL to type-safe code](https://sqlc.dev/)
 * [2024-09-08, 07:26:43](https://news.ycombinator.com/item?id=41478785) - [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)
+* [2024-09-08, 07:22:39](https://news.ycombinator.com/item?id=41478771) - [2016 was first year on record for zero roof fall fatalities in coal mining in US](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/)
 * [2024-09-08, 06:57:18](https://news.ycombinator.com/item?id=41478690) - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
 * [2024-09-08, 06:51:44](https://news.ycombinator.com/item?id=41478664) - [Malaysia backtracks on DNS redirection decision](https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194)
 * [2024-09-08, 05:24:41](https://news.ycombinator.com/item?id=41478363) - [Minimal Web](https://mnmlist.com/w/)

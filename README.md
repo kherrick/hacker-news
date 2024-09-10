@@ -2,7 +2,7 @@
 
 * [2024-09-10, 04:33:39](https://news.ycombinator.com/item?id=41497180) - [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
 * [2024-09-10, 02:50:14](https://news.ycombinator.com/item?id=41496725) - [Just for Fun (2022)](https://justforfunnoreally.dev)
-* [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology specific foundation model released by Harrison.ai](https://harrison.ai/harrison-rad-1/)
+* [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
 * [2024-09-10, 01:24:10](https://news.ycombinator.com/item?id=41496254) - [DOJ claims Google has \"trifecta of monopolies\" on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
 * [2024-09-10, 00:26:23](https://news.ycombinator.com/item?id=41495871) - [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
 * [2024-09-09, 23:46:13](https://news.ycombinator.com/item?id=41495577) - [Gdi.js: JavaScript Runtime Written in Object Pascal](https://gdi.sh/)
@@ -24,11 +24,11 @@
 * [2024-09-08, 11:07:14](https://news.ycombinator.com/item?id=41479682) - [Warner Brothers Cartoon Companion](http://www.warnercompanion.com/eowbcc-d.html)
 * [2024-09-08, 10:32:00](https://news.ycombinator.com/item?id=41479539) - [PSA: Eget That Executable from GitHub](https://taras.glek.net/post/eget-that-binary-from-github/)
 * [2024-09-08, 09:29:07](https://news.ycombinator.com/item?id=41479241) - [Cecilia Payne-Gaposchkin discovered that stars are mostly made of hydrogen](https://www.aps.org/people/cecilia-payne-gaposchkin)
-* [2024-09-08, 09:06:31](https://news.ycombinator.com/item?id=41479141) - [An NFC Movie Library for My Kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
+* [2024-09-08, 09:06:31](https://news.ycombinator.com/item?id=41479141) - [An NFC movie library for my kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
 * [2024-09-08, 08:29:23](https://news.ycombinator.com/item?id=41479017) - [Litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [2024-09-08, 08:04:37](https://news.ycombinator.com/item?id=41478930) - [Sqlc: Compile SQL to type-safe code](https://sqlc.dev/)
+* [2024-09-08, 07:22:39](https://news.ycombinator.com/item?id=41478771) - [2016 was first year on record for zero roof fall fatalities in coal mining in US](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/)
 * [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
-* [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
 
 ## [Archives](archives/index.md)
