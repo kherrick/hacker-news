@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
 * [2024-09-10, 12:00:23](https://news.ycombinator.com/item?id=41499883) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
+* [2024-09-10, 11:56:09](https://news.ycombinator.com/item?id=41499855) - [Meta's Hack (HHVM) language appears to be no longer maintained](https://github.com/facebook/hhvm/graphs/commit-activity)
 * [2024-09-10, 11:33:29](https://news.ycombinator.com/item?id=41499714) - [Google and Apple Face Billions in Penalties After Losing E.U. Appeals](https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html)
 * [2024-09-10, 11:26:16](https://news.ycombinator.com/item?id=41499666) - [EU top court rules against Apple, Google](https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532)
 * [2024-09-10, 10:55:32](https://news.ycombinator.com/item?id=41499452) - [The FBI spent decades tracking mathematician Paul Erdős](https://www.muckrock.com/news/archives/2015/jul/21/nothing-indicate-nothing-indicate-subject-had-any-/)
 * [2024-09-10, 08:46:47](https://news.ycombinator.com/item?id=41498643) - [Google's 2.4B euro fine upheld by Europe's top court in EU antitrust probe](https://www.cnbc.com/2024/09/10/googles-2point4-billion-euro-fine-upheld-by-europes-top-court.html)
 * [2024-09-10, 08:46:35](https://news.ycombinator.com/item?id=41498640) - [Huawei Unveils $2,800 Trifold Mate XT Just Hours After Apple Launches iPhone 16](https://www.bloomberg.com/news/articles/2024-09-10/huawei-trifold-phone-versus-iphone-16-specs-price-release-date)
+* [2024-09-10, 08:31:10](https://news.ycombinator.com/item?id=41498529) - [SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 * [2024-09-10, 08:05:44](https://news.ycombinator.com/item?id=41498377) - [EU Court: Apple received EUR 13B illegal tax subsidy [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240133en.pdf)
 * [2024-09-10, 08:03:54](https://news.ycombinator.com/item?id=41498358) - [Tech Apple loses EU court battle over 13B euro tax bill in Ireland](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
 * [2024-09-10, 07:30:15](https://news.ycombinator.com/item?id=41498137) - [Make Your Own Read-Only Device with NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)

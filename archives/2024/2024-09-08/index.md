@@ -36,6 +36,7 @@
 * [2024-09-08, 16:22:56](https://news.ycombinator.com/item?id=41481279) - [Your Company Needs Junior Devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
 * [2024-09-08, 15:53:32](https://news.ycombinator.com/item?id=41481122) - [Nikon sold more Z9 cameras in its first year than any flagship in past 15 years](https://petapixel.com/2024/09/05/nikon-sold-more-z9-cameras-in-its-first-year-than-any-flagship-in-past-15-years/)
 * [2024-09-08, 15:42:22](https://news.ycombinator.com/item?id=41481058) - [UK electric car drivers should be charged per mile, say campaigners](https://www.theguardian.com/politics/article/2024/sep/03/uk-electric-car-drivers-per-mile-vehicle-taxes-campaign-for-better-transport)
+* [2024-09-08, 14:55:57](https://news.ycombinator.com/item?id=41480780) - [An Interview with Intel's Arik Gihon about Lunar Lake at Hot Chips 2024](https://chipsandcheese.com/2024/09/02/an-interview-with-intels-arik-gihon-about-lunar-lake-at-hot-chips-2024/)
 * [2024-09-08, 14:40:26](https://news.ycombinator.com/item?id=41480675) - [htmx Web Security Basics](https://htmx.org/essays/web-security-basics-with-htmx/)
 * [2024-09-08, 13:45:33](https://news.ycombinator.com/item?id=41480373) - [Show HN: Vomitorium – all of your project in 1 text file](https://www.npmjs.com/package/vomitorium)
 * [2024-09-08, 13:18:44](https://news.ycombinator.com/item?id=41480232) - [In the Labyrinth of Unknown Unknowns](https://www.antithesis.com/blog/unknown_unknowns/)
