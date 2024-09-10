@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 16:46:08](https://news.ycombinator.com/item?id=41502822) - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
+* [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
+* [2024-09-10, 16:18:55](https://news.ycombinator.com/item?id=41502462) - [When Bloom filters don't bloom (2020)](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)
 * [2024-09-10, 15:46:47](https://news.ycombinator.com/item?id=41501999) - [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
 * [2024-09-10, 15:46:19](https://news.ycombinator.com/item?id=41501986) - [Apple owes billions in Irish back taxes](https://www.theregister.com/2024/09/10/apple_owes_billions_in_back/)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
