@@ -9,6 +9,7 @@
 * [2024-09-10, 21:10:52](https://news.ycombinator.com/item?id=41505622) - [Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)
 * [2024-09-10, 21:09:04](https://news.ycombinator.com/item?id=41505593) - [Lottery Simulator](https://perthirtysix.com/tool/lottery-simulator)
 * [2024-09-10, 20:52:17](https://news.ycombinator.com/item?id=41505389) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
+* [2024-09-10, 20:39:51](https://news.ycombinator.com/item?id=41505266) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 20:12:49](https://news.ycombinator.com/item?id=41505009) - [Recent Tor Exit Node Operator Raids and Legal Harassment in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
 * [2024-09-10, 19:59:39](https://news.ycombinator.com/item?id=41504885) - [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
 * [2024-09-10, 19:59:09](https://news.ycombinator.com/item?id=41504881) - [The US finally takes aim at truck bloat](https://www.theverge.com/2024/9/10/24241047/nhtsa-rule-pedestrian-safety-fmvss-suv-truck-design)
