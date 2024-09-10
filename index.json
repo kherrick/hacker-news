@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-10, 04:24:00",
-      "https://news.ycombinator.com/item?id=41497139"
-    ],
-    [
-      "Who uses Accept-Language header?",
-      "https://serpapi.com/blog/who-uses-accept-language-header/"
-    ]
-  ],
-  [
-    [
       "2024-09-10, 02:50:14",
       "https://news.ycombinator.com/item?id=41496725"
     ],
@@ -27,6 +17,16 @@
     [
       "Radiology-specific foundation model",
       "https://harrison.ai/harrison-rad-1/"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 00:52:12",
+      "https://news.ycombinator.com/item?id=41496033"
+    ],
+    [
+      "Sail – Built in Rust, 4x Faster Than Spark, 94% Lower Costs, PySpark-Compatible",
+      "https://github.com/lakehq/sail"
     ]
   ],
   [
