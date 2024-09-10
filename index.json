@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-10, 22:13:30",
+      "https://news.ycombinator.com/item?id=41506157"
+    ],
+    [
+      "Chai-1 Defeats AlphaFold 3",
+      "https://www.chaidiscovery.com/blog/introducing-chai-1"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 22:09:02",
       "https://news.ycombinator.com/item?id=41506124"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-09-10, 15:29:47",
-      "https://news.ycombinator.com/item?id=41501762"
-    ],
-    [
-      "Deductive Verification for Chain-of-Thought Reasoning in LLMs",
-      "https://arxiv.org/abs/2306.03872"
-    ]
-  ],
-  [
-    [
       "2024-09-10, 15:03:31",
       "https://news.ycombinator.com/item?id=41501496"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-09-09, 13:33:15",
+      "https://news.ycombinator.com/item?id=41488377"
+    ],
+    [
+      "What is the best pointer tagging method?",
+      "https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 11:53:59",
       "https://news.ycombinator.com/item?id=41487653"
     ],
     [
       "The Friendship that made Google huge",
       "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 14:51:12",
-      "https://news.ycombinator.com/item?id=41480746"
-    ],
-    [
-      "Open-source streaming API from ingest to player",
-      "https://matvp91.github.io/mixwave/"
     ]
   ],
   [
