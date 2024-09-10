@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-10, 02:46:13](https://news.ycombinator.com/item?id=41496699) - [Radiology specific foundation model released by Harrison.ai](https://harrison.ai/harrison-rad-1/)
 * [2024-09-10, 01:24:10](https://news.ycombinator.com/item?id=41496254) - [DOJ claims Google has \"trifecta of monopolies\" on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
 * [2024-09-10, 00:26:23](https://news.ycombinator.com/item?id=41495871) - [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
 * [2024-09-09, 23:46:13](https://news.ycombinator.com/item?id=41495577) - [Gdi.js: JavaScript Runtime Written in Object Pascal](https://gdi.sh/)
@@ -20,14 +21,13 @@
 * [2024-09-09, 15:41:38](https://news.ycombinator.com/item?id=41489644) - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
 * [2024-09-09, 15:40:20](https://news.ycombinator.com/item?id=41489633) - [MNT Reform Next](https://mntre.com/media/reform_md/2024-09-09-introducing-mnt-reform-next.html)
 * [2024-09-09, 13:30:42](https://news.ycombinator.com/item?id=41488353) - [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/)
-* [2024-09-09, 11:59:59](https://news.ycombinator.com/item?id=41487714) - [Show HN: Io_uring for Ruby](https://github.com/digital-fabric/iou)
 * [2024-09-08, 13:18:44](https://news.ycombinator.com/item?id=41480232) - [In the Labyrinth of Unknown Unknowns](https://www.antithesis.com/blog/unknown_unknowns/)
 * [2024-09-08, 10:32:00](https://news.ycombinator.com/item?id=41479539) - [PSA: Eget That Executable from GitHub](https://taras.glek.net/post/eget-that-binary-from-github/)
 * [2024-09-08, 09:29:07](https://news.ycombinator.com/item?id=41479241) - [Cecilia Payne-Gaposchkin discovered that stars are mostly made of hydrogen](https://www.aps.org/people/cecilia-payne-gaposchkin)
 * [2024-09-08, 09:06:31](https://news.ycombinator.com/item?id=41479141) - [An NFC Movie Library for My Kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
+* [2024-09-08, 08:29:23](https://news.ycombinator.com/item?id=41479017) - [Litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [2024-09-08, 08:04:37](https://news.ycombinator.com/item?id=41478930) - [Sqlc: Compile SQL to type-safe code](https://sqlc.dev/)
 * [2024-09-07, 12:23:31](https://news.ycombinator.com/item?id=41473518) - [Show HN: I mapped HN's favorite books with GPT-4o](https://hnbooks.pieterma.es)
-* [2024-09-06, 14:10:11](https://news.ycombinator.com/item?id=41466391) - [How colorful ribbon diagrams became the face of proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)
 * [2024-09-06, 07:55:29](https://news.ycombinator.com/item?id=41463971) - [Oxygene: A modern language built on the foundation of Object Pascal](https://www.remobjects.com/elements/oxygene/)
 * [2024-09-06, 00:47:16](https://news.ycombinator.com/item?id=41461779) - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party)
 
