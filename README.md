@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-10, 17:41:26](https://news.ycombinator.com/item?id=41503444) - [Why VR Games Still Haven't Taken Off](https://spectrum.ieee.org/vr-games)
 * [2024-09-10, 17:25:00](https://news.ycombinator.com/item?id=41503251) - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
 * [2024-09-10, 16:46:08](https://news.ycombinator.com/item?id=41502822) - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
 * [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
@@ -20,6 +19,7 @@
 * [2024-09-10, 12:05:01](https://news.ycombinator.com/item?id=41499905) - [Show HN: Free tool to find RSS feeds, even if not linked on the page](https://news.ycombinator.com/item?id=41499905)
 * [2024-09-10, 12:00:23](https://news.ycombinator.com/item?id=41499883) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
 * [2024-09-10, 08:03:54](https://news.ycombinator.com/item?id=41498358) - [Apple must pay 13B euros in back taxes, EU's top court rules](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
+* [2024-09-10, 07:51:35](https://news.ycombinator.com/item?id=41498264) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
 * [2024-09-09, 17:28:45](https://news.ycombinator.com/item?id=41491016) - [Carpentopod: A Walking Table Project](https://www.decarpentier.nl/carpentopod)
 * [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
