@@ -37,6 +37,7 @@
 * [2024-09-08, 15:53:32](https://news.ycombinator.com/item?id=41481122) - [Nikon sold more Z9 cameras in its first year than any flagship in past 15 years](https://petapixel.com/2024/09/05/nikon-sold-more-z9-cameras-in-its-first-year-than-any-flagship-in-past-15-years/)
 * [2024-09-08, 15:42:22](https://news.ycombinator.com/item?id=41481058) - [UK electric car drivers should be charged per mile, say campaigners](https://www.theguardian.com/politics/article/2024/sep/03/uk-electric-car-drivers-per-mile-vehicle-taxes-campaign-for-better-transport)
 * [2024-09-08, 14:40:26](https://news.ycombinator.com/item?id=41480675) - [htmx Web Security Basics](https://htmx.org/essays/web-security-basics-with-htmx/)
+* [2024-09-08, 13:45:33](https://news.ycombinator.com/item?id=41480373) - [Show HN: Vomitorium – all of your project in 1 text file](https://www.npmjs.com/package/vomitorium)
 * [2024-09-08, 13:18:44](https://news.ycombinator.com/item?id=41480232) - [In the Labyrinth of Unknown Unknowns](https://www.antithesis.com/blog/unknown_unknowns/)
 * [2024-09-08, 12:59:51](https://news.ycombinator.com/item?id=41480145) - [The Lurker's Guide to Babylon5](http://www.midwinter.com/lurk/)
 * [2024-09-08, 12:57:41](https://news.ycombinator.com/item?id=41480135) - [API Complexity Is a Lie](https://apichangelog.substack.com/p/api-complexity-is-a-lie)
