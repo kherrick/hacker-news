@@ -54,6 +54,7 @@
 * [2024-09-09, 13:19:00](https://news.ycombinator.com/item?id=41488251) - [The Great Pacific Garbage Patch Can Be Cleaned for $7.5B](https://theoceancleanup.com/press/press-releases/the-great-pacific-garbage-patch-can-be-cleaned-for-7-5-billion/)
 * [2024-09-09, 13:02:29](https://news.ycombinator.com/item?id=41488116) - [America's best-paid CEOs have the worst-paid employees](https://pluralistic.net/2024/09/09/low-wage-100/)
 * [2024-09-09, 12:36:10](https://news.ycombinator.com/item?id=41487930) - [Police pressured him to confess to a murder that never happened](https://www.cnn.com/2024/09/05/us/fontana-pressured-murder-confession/index.html)
+* [2024-09-09, 12:04:56](https://news.ycombinator.com/item?id=41487749) - [The Modern CLI Renaissance](https://gabevenberg.com/posts/cli-renaissance/)
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
 * [2024-09-09, 11:59:59](https://news.ycombinator.com/item?id=41487714) - [Show HN: Io_uring for Ruby](https://github.com/digital-fabric/iou)
 * [2024-09-09, 11:53:59](https://news.ycombinator.com/item?id=41487653) - [The Friendship that made Google huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
