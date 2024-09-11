@@ -45,6 +45,7 @@
 * [2024-09-10, 15:16:35](https://news.ycombinator.com/item?id=41501625) - [Strtod Is Wild](https://festina-lente-productions.com/articles/strtod-is-wild/)
 * [2024-09-10, 15:11:47](https://news.ycombinator.com/item?id=41501580) - [Playstation 5 Pro](https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/)
 * [2024-09-10, 15:03:31](https://news.ycombinator.com/item?id=41501496) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
+* [2024-09-10, 15:00:56](https://news.ycombinator.com/item?id=41501470) - [Ask HN: How can I monetise an open source app of mine that has become popular?](https://news.ycombinator.com/item?id=41501470)
 * [2024-09-10, 14:34:58](https://news.ycombinator.com/item?id=41501215) - [Sapling: Source control that's user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 * [2024-09-10, 14:31:40](https://news.ycombinator.com/item?id=41501175) - [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
 * [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
