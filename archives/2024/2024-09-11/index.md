@@ -9,6 +9,7 @@
 * [2024-09-11, 14:05:26](https://news.ycombinator.com/item?id=41511524) - [Movie industry touts takedown of \" largest\" pirate streaming ring](https://arstechnica.com/tech-policy/2024/08/movie-industry-touts-takedown-of-worlds-largest-pirate-streaming-ring/)
 * [2024-09-11, 14:03:54](https://news.ycombinator.com/item?id=41511506) - [Is 7 days a week the new norm (for YC)?](https://news.ycombinator.com/item?id=41511506)
 * [2024-09-11, 13:59:13](https://news.ycombinator.com/item?id=41511473) - [Boar's Head plant posed an 'imminent threat' years before listeria outbreak](https://www.washingtonpost.com/health/2024/09/10/boars-head-listeria-outbreak-inspection/)
+* [2024-09-11, 13:50:39](https://news.ycombinator.com/item?id=41511386) - [Show HN: Clace – Application Server with support for scaling down to zero](https://github.com/claceio/clace)
 * [2024-09-11, 13:45:04](https://news.ycombinator.com/item?id=41511320) - [Real-Time Neural Appearance Models [video]](https://www.youtube.com/watch?v=2r6IlVJj6gc)
 * [2024-09-11, 13:26:01](https://news.ycombinator.com/item?id=41511139) - [Debate in nuclear-armed former colony fails to reassure global community](https://www.aljazeera.com/opinions/2024/9/11/debate-in-nuclear-armed-former-colony-fails-to-reassure-global-community)
 * [2024-09-11, 13:14:11](https://news.ycombinator.com/item?id=41511050) - [The CIA-in-Chile Scandal at 50](https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50)
