@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-11, 14:07:33](https://news.ycombinator.com/item?id=41511538) - [Mnemonic for the number of days in each month](https://rsapkf.org/weblog/days-months)
 * [2024-09-11, 13:14:11](https://news.ycombinator.com/item?id=41511050) - [The CIA-in-Chile Scandal at 50](https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50)
 * [2024-09-11, 11:43:15](https://news.ycombinator.com/item?id=41510402) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
@@ -11,7 +10,7 @@
 * [2024-09-11, 06:20:39](https://news.ycombinator.com/item?id=41508535) - [Soft Cells and the Geometry of Seashells](https://academic.oup.com/pnasnexus/article/3/9/pgae311/7754698)
 * [2024-09-11, 06:19:52](https://news.ycombinator.com/item?id=41508530) - [OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
 * [2024-09-11, 05:47:12](https://news.ycombinator.com/item?id=41508355) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
-* [2024-09-11, 05:28:23](https://news.ycombinator.com/item?id=41508261) - [One-Way Traffic](https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic)
+* [2024-09-11, 05:28:23](https://news.ycombinator.com/item?id=41508261) - [The Golden Road: How Ancient India Transformed the World](https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic)
 * [2024-09-11, 03:53:35](https://news.ycombinator.com/item?id=41507879) - [The magic of DC-DC voltage conversion (2023)](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2024-09-11, 02:39:27](https://news.ycombinator.com/item?id=41507563) - [How economical is your local Taco Bell?](https://taconomical.com)
 * [2024-09-10, 22:13:30](https://news.ycombinator.com/item?id=41506157) - [Chai-1: Decoding the molecular interactions of life](https://www.chaidiscovery.com/blog/introducing-chai-1)
@@ -23,6 +22,7 @@
 * [2024-09-10, 18:30:45](https://news.ycombinator.com/item?id=41504026) - [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home)
 * [2024-09-10, 14:31:40](https://news.ycombinator.com/item?id=41501175) - [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
+* [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
 * [2024-09-09, 14:27:48](https://news.ycombinator.com/item?id=41488879) - [The Art of the Brew: Exploring Hops and Other Plant Ingredients That Define Beer](https://worldsensorium.com/the-art-of-the-brew-exploring-hops-and-other-plant-ingredients-that-define-beer/)
 * [2024-09-08, 15:28:35](https://news.ycombinator.com/item?id=41480957) - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
