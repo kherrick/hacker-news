@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-11, 17:57:23",
+      "https://news.ycombinator.com/item?id=41513730"
+    ],
+    [
+      "Apple pushes breaking Foundation change in iOS 18 without tying to SDK version",
+      "https://github.com/apple/swift-foundation/issues/833"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 17:49:21",
       "https://news.ycombinator.com/item?id=41513648"
     ],
@@ -77,16 +87,6 @@
     [
       "Show HN: Clace – Application Server with support for scaling down to zero",
       "https://github.com/claceio/clace"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 11:49:11",
-      "https://news.ycombinator.com/item?id=41510422"
-    ],
-    [
-      "My Homelab Setup",
-      "https://arslan.io/2024/09/10/my-homelab-setup/"
     ]
   ],
   [
