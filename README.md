@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-11, 02:39:27](https://news.ycombinator.com/item?id=41507563) - [How economical is your local Taco Bell?](https://taconomical.com)
 * [2024-09-11, 01:13:14](https://news.ycombinator.com/item?id=41507271) - [Building the Same App Using Various Web Frameworks](https://eugeneyan.com/writing/web-frameworks/)
 * [2024-09-10, 22:24:53](https://news.ycombinator.com/item?id=41506218) - [Arvo Pärt's Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
 * [2024-09-10, 22:22:20](https://news.ycombinator.com/item?id=41506204) - [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
@@ -16,7 +17,6 @@
 * [2024-09-10, 17:25:00](https://news.ycombinator.com/item?id=41503251) - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
 * [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home)
-* [2024-09-10, 15:29:47](https://news.ycombinator.com/item?id=41501762) - [Deductive Verification for Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2306.03872)
 * [2024-09-10, 15:03:31](https://news.ycombinator.com/item?id=41501496) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 * [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
 * [2024-09-10, 13:19:29](https://news.ycombinator.com/item?id=41500522) - [How we made Jupyter notebooks load faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
