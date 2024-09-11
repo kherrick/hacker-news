@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-11, 02:39:27](https://news.ycombinator.com/item?id=41507563) - [How economical is your local Taco Bell?](https://taconomical.com)
-* [2024-09-11, 01:13:14](https://news.ycombinator.com/item?id=41507271) - [Building the Same App Using Various Web Frameworks](https://eugeneyan.com/writing/web-frameworks/)
+* [2024-09-11, 01:13:14](https://news.ycombinator.com/item?id=41507271) - [Building the same app using various web frameworks](https://eugeneyan.com/writing/web-frameworks/)
 * [2024-09-10, 22:24:53](https://news.ycombinator.com/item?id=41506218) - [Arvo Pärt's Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
 * [2024-09-10, 22:22:20](https://news.ycombinator.com/item?id=41506204) - [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
-* [2024-09-10, 22:13:30](https://news.ycombinator.com/item?id=41506157) - [Chai-1 Defeats AlphaFold 3](https://www.chaidiscovery.com/blog/introducing-chai-1)
+* [2024-09-10, 22:13:30](https://news.ycombinator.com/item?id=41506157) - [Chai-1: Decoding the molecular interactions of life](https://www.chaidiscovery.com/blog/introducing-chai-1)
 * [2024-09-10, 21:15:45](https://news.ycombinator.com/item?id=41505670) - [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
 * [2024-09-10, 21:15:24](https://news.ycombinator.com/item?id=41505665) - [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-10, 21:10:52](https://news.ycombinator.com/item?id=41505622) - [Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)
