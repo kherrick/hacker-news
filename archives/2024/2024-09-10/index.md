@@ -46,6 +46,7 @@
 * [2024-09-10, 15:11:47](https://news.ycombinator.com/item?id=41501580) - [Playstation 5 Pro](https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/)
 * [2024-09-10, 15:03:31](https://news.ycombinator.com/item?id=41501496) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 * [2024-09-10, 14:34:58](https://news.ycombinator.com/item?id=41501215) - [Sapling: Source control that's user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+* [2024-09-10, 14:31:40](https://news.ycombinator.com/item?id=41501175) - [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
 * [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
 * [2024-09-10, 14:02:38](https://news.ycombinator.com/item?id=41500861) - [Show HN: I built a cheaper ChatGPT alternative that runs on your desktop](https://www.trynyro.com)
 * [2024-09-10, 14:00:23](https://news.ycombinator.com/item?id=41500840) - [PR-Agent — extension that adds AI chat to code reviews on GitHub](https://chromewebstore.google.com/detail/pr-agent-ai-powered-code/ephlnjeghhogofkifjloamocljapahnl)
