@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-09-11, 16:25:24](https://news.ycombinator.com/item?id=41512871) - [AWS AI Stack – Ready-to-Deploy Serverless AI App on AWS and Bedrock](https://github.com/serverless/aws-ai-stack)
 * [2024-09-11, 15:57:18](https://news.ycombinator.com/item?id=41512587) - [Research suggests more than half of VMware customers are looking to move](https://www.theregister.com/2024/09/11/civo_vmware_research/)
 * [2024-09-11, 15:32:20](https://news.ycombinator.com/item?id=41512341) - [New Feature Alert: Access Archived Webpages Directly Through Google Search](https://blog.archive.org/2024/09/11/new-feature-alert-access-archived-webpages-directly-through-google-search/)

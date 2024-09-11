@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-09-11, 16:25:24](https://news.ycombinator.com/item?id=41512871) - [AWS AI Stack – Ready-to-Deploy Serverless AI App on AWS and Bedrock](https://github.com/serverless/aws-ai-stack)
 * [2024-09-11, 15:57:18](https://news.ycombinator.com/item?id=41512587) - [Research suggests more than half of VMware customers are looking to move](https://www.theregister.com/2024/09/11/civo_vmware_research/)
 * [2024-09-11, 15:32:20](https://news.ycombinator.com/item?id=41512341) - [New Feature Alert: Access Archived Webpages Directly Through Google Search](https://blog.archive.org/2024/09/11/new-feature-alert-access-archived-webpages-directly-through-google-search/)
 * [2024-09-11, 15:21:02](https://news.ycombinator.com/item?id=41512207) - [David Chang on the long, hard, stupid way](https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/)
 * [2024-09-11, 14:51:44](https://news.ycombinator.com/item?id=41511928) - [Scientists use magnetic nanotech to safely rewarm frozen tissues for transplant](https://phys.org/news/2024-09-scientists-magnetic-nanotech-safely-rewarm.html)
 * [2024-09-11, 14:22:37](https://news.ycombinator.com/item?id=41511672) - [Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices](https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11)
-* [2024-09-11, 13:59:13](https://news.ycombinator.com/item?id=41511473) - [Boar's Head plant posed an 'imminent threat' years before listeria outbreak](https://www.washingtonpost.com/health/2024/09/10/boars-head-listeria-outbreak-inspection/)
 * [2024-09-11, 13:50:39](https://news.ycombinator.com/item?id=41511386) - [Show HN: Clace – Application Server with support for scaling down to zero](https://github.com/claceio/clace)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 10:50:55](https://news.ycombinator.com/item?id=41510103) - [Ask HN: Why is Pave legal?](https://news.ycombinator.com/item?id=41510103)
