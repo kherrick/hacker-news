@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-11, 22:36:08](https://news.ycombinator.com/item?id=41515899) - [In Favor of Reading Aloud](https://www.raptitude.com/2024/09/in-favor-of-reading-aloud/)
 * [2024-09-11, 22:08:50](https://news.ycombinator.com/item?id=41515741) - [Federal government to outlaw doxxing, impose up to seven years' jail](https://www.abc.net.au/news/2024-09-12/albanese-government-will-outlaw-doxxing/104340372)
 * [2024-09-11, 21:52:32](https://news.ycombinator.com/item?id=41515649) - [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
 * [2024-09-11, 21:42:39](https://news.ycombinator.com/item?id=41515588) - [Android now allows apps to block sideloading](https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/)
@@ -21,6 +20,7 @@
 * [2024-09-11, 05:28:23](https://news.ycombinator.com/item?id=41508261) - [The Golden Road: How Ancient India Transformed the World](https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic)
 * [2024-09-11, 03:53:35](https://news.ycombinator.com/item?id=41507879) - [The magic of DC-DC voltage conversion (2023)](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2024-09-11, 02:39:27](https://news.ycombinator.com/item?id=41507563) - [How economical is your local Taco Bell?](https://taconomical.com)
+* [2024-09-10, 20:39:51](https://news.ycombinator.com/item?id=41505266) - [Some of us like \"interdiff\" code review](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 15:40:15](https://news.ycombinator.com/item?id=41501895) - [ClickHouse Data Modeling for Postgres Users](https://clickhouse.com/blog/postgres-to-clickhouse-data-modeling-tips)
 * [2024-09-10, 15:28:05](https://news.ycombinator.com/item?id=41501747) - [Fman Build System](https://build-system.fman.io/)
 * [2024-09-09, 16:25:46](https://news.ycombinator.com/item?id=41490147) - [Transparenttextures.com](https://www.transparenttextures.com)
