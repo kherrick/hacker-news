@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 08:32:46](https://news.ycombinator.com/item?id=41509330) - [ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
 * [2024-09-11, 08:05:26](https://news.ycombinator.com/item?id=41509156) - [Yaak Is Now Open Source](https://yaak.app/blog/now-open-source)
 * [2024-09-11, 07:07:41](https://news.ycombinator.com/item?id=41508804) - [YAML is not a superset of JSON](https://www.patrickstevens.co.uk/posts/2024-03-14-yaml-superset-json/)
 * [2024-09-11, 06:52:53](https://news.ycombinator.com/item?id=41508695) - [New Mistral AI Weights](https://twitter.com/mistralai/status/1833758285167722836)
 * [2024-09-11, 06:34:48](https://news.ycombinator.com/item?id=41508593) - [9/11 in Realtime](https://911realtime.org/)
 * [2024-09-11, 05:47:12](https://news.ycombinator.com/item?id=41508355) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+* [2024-09-11, 05:41:09](https://news.ycombinator.com/item?id=41508321) - [Casio WQV2 Wrist Camera Photos](https://www.urban75.org/watchcam/index.html)
 * [2024-09-11, 05:23:34](https://news.ycombinator.com/item?id=41508244) - [Common mistakes when using the metric system](https://www.nayuki.io/page/common-mistakes-when-using-the-metric-system)
 * [2024-09-11, 05:10:06](https://news.ycombinator.com/item?id=41508188) - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
 * [2024-09-11, 05:03:27](https://news.ycombinator.com/item?id=41508158) - [Facebook uses Australian adults public photos/posts to train AI, without opt-out](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)

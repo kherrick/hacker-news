@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-11, 08:05:26](https://news.ycombinator.com/item?id=41509156) - [Yaak Is Now Open Source](https://yaak.app/blog/now-open-source)
+* [2024-09-11, 08:32:46](https://news.ycombinator.com/item?id=41509330) - [ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
+* [2024-09-11, 08:05:26](https://news.ycombinator.com/item?id=41509156) - [Yaak is now open source](https://yaak.app/blog/now-open-source)
 * [2024-09-11, 05:47:12](https://news.ycombinator.com/item?id=41508355) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+* [2024-09-11, 05:41:09](https://news.ycombinator.com/item?id=41508321) - [Casio WQV2 Wrist Camera Photos](https://www.urban75.org/watchcam/index.html)
 * [2024-09-11, 05:10:06](https://news.ycombinator.com/item?id=41508188) - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
 * [2024-09-11, 04:32:23](https://news.ycombinator.com/item?id=41508040) - [I wish I didn't miss the '90s-00s internet](https://rohan.ga/blog/early-internet/)
 * [2024-09-11, 03:53:35](https://news.ycombinator.com/item?id=41507879) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
@@ -20,7 +22,6 @@
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home)
 * [2024-09-10, 15:03:31](https://news.ycombinator.com/item?id=41501496) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 * [2024-09-10, 14:31:40](https://news.ycombinator.com/item?id=41501175) - [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
-* [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
 * [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
 * [2024-09-09, 13:33:15](https://news.ycombinator.com/item?id=41488377) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
@@ -28,7 +29,6 @@
 * [2024-09-08, 15:28:35](https://news.ycombinator.com/item?id=41480957) - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
 * [2024-09-08, 12:37:44](https://news.ycombinator.com/item?id=41480038) - [Microwave spontaneously turned on by its LED display](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
 * [2024-09-08, 11:56:07](https://news.ycombinator.com/item?id=41479882) - [Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences](https://consentomatic.au.dk/)
-* [2024-09-08, 08:49:32](https://news.ycombinator.com/item?id=41479085) - [Floral formula](https://en.wikipedia.org/wiki/Floral_formula)
 * [2024-09-07, 12:48:13](https://news.ycombinator.com/item?id=41473640) - [Jeremy Couillard's video games capture what it's like to be alive](https://www.artbasel.com/stories/jeremy-couillard-video-games-mit-list-visual-arts-center-critique-contemporary-life-digital-landscapes)
 
 ## [Archives](archives/index.md)
