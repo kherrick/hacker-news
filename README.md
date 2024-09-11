@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
+* [2024-09-11, 17:57:23](https://news.ycombinator.com/item?id=41513730) - [Apple pushes breaking Foundation change in iOS 18 without tying to SDK version](https://github.com/apple/swift-foundation/issues/833)
 * [2024-09-11, 17:49:21](https://news.ycombinator.com/item?id=41513648) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 * [2024-09-11, 17:20:24](https://news.ycombinator.com/item?id=41513417) - [Algorithmic Wage Discrimination](https://columbialawreview.org/content/on-algorithmic-wage-discrimination/)
 * [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -8,7 +9,6 @@
 * [2024-09-11, 15:14:44](https://news.ycombinator.com/item?id=41512142) - [Show HN: Tune LLaMa3.1 on Google Cloud TPUs](https://github.com/felafax/felafax)
 * [2024-09-11, 14:51:44](https://news.ycombinator.com/item?id=41511928) - [Scientists use magnetic nanotech to safely rewarm frozen tissues for transplant](https://phys.org/news/2024-09-scientists-magnetic-nanotech-safely-rewarm.html)
 * [2024-09-11, 13:50:39](https://news.ycombinator.com/item?id=41511386) - [Show HN: Clace – Application Server with support for scaling down to zero](https://github.com/claceio/clace)
-* [2024-09-11, 11:49:11](https://news.ycombinator.com/item?id=41510422) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 10:50:55](https://news.ycombinator.com/item?id=41510103) - [Ask HN: Why is Pave legal?](https://news.ycombinator.com/item?id=41510103)
 * [2024-09-11, 09:11:55](https://news.ycombinator.com/item?id=41509558) - [Max Headroom and the World of Pseudo-CGI (2013)](https://www.cartoonbrew.com/cgi/max-headroom-and-the-strange-world-of-pseudo-cgi-82745.html)

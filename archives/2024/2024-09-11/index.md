@@ -7,6 +7,7 @@
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
 * [2024-09-11, 18:02:51](https://news.ycombinator.com/item?id=41513775) - [Swiss BMW Driver Slammed with $116,000 Tailgating Fine Because He's Rich](https://www.thedrive.com/news/swiss-bmw-driver-slammed-with-116000-tailgating-fine-because-hes-rich)
 * [2024-09-11, 18:02:07](https://news.ycombinator.com/item?id=41513767) - [Why Copilot Is Making Programmers Worse at Programming](https://www.darrenhorrocks.co.uk/why-copilot-making-programmers-worse-at-programming/)
+* [2024-09-11, 17:57:23](https://news.ycombinator.com/item?id=41513730) - [Apple pushes breaking Foundation change in iOS 18 without tying to SDK version](https://github.com/apple/swift-foundation/issues/833)
 * [2024-09-11, 17:49:21](https://news.ycombinator.com/item?id=41513648) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 * [2024-09-11, 17:20:24](https://news.ycombinator.com/item?id=41513417) - [Algorithmic Wage Discrimination](https://columbialawreview.org/content/on-algorithmic-wage-discrimination/)
 * [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
