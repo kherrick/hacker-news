@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-11, 01:13:14",
+      "https://news.ycombinator.com/item?id=41507271"
+    ],
+    [
+      "Building the Same App Using Various Web Frameworks",
+      "https://eugeneyan.com/writing/web-frameworks/"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 22:24:53",
       "https://news.ycombinator.com/item?id=41506218"
     ],
@@ -67,16 +77,6 @@
     [
       "Lottery Simulator (2023)",
       "https://perthirtysix.com/tool/lottery-simulator"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 20:52:17",
-      "https://news.ycombinator.com/item?id=41505389"
-    ],
-    [
-      "Why Not Comments",
-      "https://buttondown.com/hillelwayne/archive/why-not-comments/"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-09-10, 15:29:47",
+      "https://news.ycombinator.com/item?id=41501762"
+    ],
+    [
+      "Deductive Verification for Chain-of-Thought Reasoning in LLMs",
+      "https://arxiv.org/abs/2306.03872"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 15:03:31",
       "https://news.ycombinator.com/item?id=41501496"
     ],
@@ -177,16 +187,6 @@
     [
       "How we made Jupyter notebooks load faster",
       "https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 13:05:43",
-      "https://news.ycombinator.com/item?id=41500406"
-    ],
-    [
-      "Multispectral Imaging and the Voynich Manuscript",
-      "https://manuscriptroadtrip.wordpress.com/2024/09/08/multispectral-imaging-and-the-voynich-manuscript/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-09-08, 17:23:52",
-      "https://news.ycombinator.com/item?id=41481689"
+      "2024-09-08, 11:56:07",
+      "https://news.ycombinator.com/item?id=41479882"
     ],
     [
-      "Ask HN: Any hope for removable, rechargable battery standards?",
-      "https://news.ycombinator.com/item?id=41481689"
+      "Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences",
+      "https://consentomatic.au.dk/"
     ]
   ],
   [
