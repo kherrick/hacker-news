@@ -39,6 +39,7 @@
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
 * [2024-09-10, 15:32:42](https://news.ycombinator.com/item?id=41501804) - [ChartEye: A Deep Learning Framework for Chart Information Extraction](https://arxiv.org/abs/2408.16123)
 * [2024-09-10, 15:29:47](https://news.ycombinator.com/item?id=41501762) - [Deductive Verification for Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2306.03872)
+* [2024-09-10, 15:28:05](https://news.ycombinator.com/item?id=41501747) - [Fman Build System](https://build-system.fman.io/)
 * [2024-09-10, 15:24:39](https://news.ycombinator.com/item?id=41501714) - [Sony announces PS5 Pro, a $700 graphics workhorse available Nov. 7](https://arstechnica.com/gaming/2024/09/sony-announces-ps5-pro-a-700-graphics-workhorse-available-nov-7/)
 * [2024-09-10, 15:17:06](https://news.ycombinator.com/item?id=41501630) - [Ford seeks patent for tech that listens to driver conversations to serve ads](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)
 * [2024-09-10, 15:16:58](https://news.ycombinator.com/item?id=41501628) - [You can buy a diamond-making machine for $200k on Alibaba](https://arstechnica.com/science/2024/09/you-can-buy-a-diamond-making-machine-for-200000-on-alibaba/)

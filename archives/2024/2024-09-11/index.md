@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
 * [2024-09-11, 17:20:24](https://news.ycombinator.com/item?id=41513417) - [Algorithmic Wage Discrimination](https://columbialawreview.org/content/on-algorithmic-wage-discrimination/)
 * [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-09-11, 16:58:51](https://news.ycombinator.com/item?id=41513215) - [Google partners with Internet Archive to link to archives in search](https://9to5google.com/2024/09/11/google-search-internet-archive-wayback-machine/)
@@ -13,6 +14,7 @@
 * [2024-09-11, 15:30:48](https://news.ycombinator.com/item?id=41512328) - [Uber drivers in Kenya are ignoring the app and charging their own rates](https://restofworld.org/2024/kenya-uber-rate-cards-fuel-prices/)
 * [2024-09-11, 15:21:02](https://news.ycombinator.com/item?id=41512207) - [David Chang on the long, hard, stupid way](https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/)
 * [2024-09-11, 15:19:02](https://news.ycombinator.com/item?id=41512191) - [Neanderthals' social isolation may have sped up their extinction](https://www.popsci.com/science/neanderthal-extinction-isolation/)
+* [2024-09-11, 15:14:44](https://news.ycombinator.com/item?id=41512142) - [Show HN: Tune LLaMa3.1 on Google Cloud TPUs](https://github.com/felafax/felafax)
 * [2024-09-11, 14:51:44](https://news.ycombinator.com/item?id=41511928) - [Scientists use magnetic nanotech to safely rewarm frozen tissues for transplant](https://phys.org/news/2024-09-scientists-magnetic-nanotech-safely-rewarm.html)
 * [2024-09-11, 14:48:48](https://news.ycombinator.com/item?id=41511899) - [Writing an HTTP Server in Go from Scratch: Part 1](https://www.krayorn.com/posts/http-server-go/)
 * [2024-09-11, 14:22:37](https://news.ycombinator.com/item?id=41511672) - [Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices](https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11)
