@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41513860">
+          <h3>
+            <a
+              class="item"
+              href="https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd"
+              >Noisy Neighbor Detection with eBPF</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-11 @ 18:11:31</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41513860"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41513417">
           <h3>
             <a
@@ -141,11 +162,11 @@
             <h4>
               <span>2024-09-11 @ 17:20:24</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41513417"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -180,11 +201,11 @@
             <h4>
               <span>2024-09-11 @ 15:30:48</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41512328"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -201,13 +222,62 @@
             <h4>
               <span>2024-09-11 @ 15:21:02</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41512207"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41512142">
+          <h3>
+            <a class="item" href="https://github.com/felafax/felafax"
+              >Show HN: Tune LLaMa3.1 on Google Cloud TPUs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-11 @ 15:14:44</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41512142"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The problem: Right now, 90% of LLM workloads run on NVIDIA GPUs,
+                but there are equally powerful and more cost-effective
+                alternatives out there. For example, training and serving Llama
+                3.1 on Google TPUs is about 30% cheaper than NVIDIA GPUs.
+              </p>
+              <p>
+                But developer tooling for non-NVIDIA chipsets is lacking. We
+                felt this pain ourselves. We initially tried using PyTorch XLA
+                to train Llama 3.1 on TPUs, but it was rough: xla integration
+                with pytorch is clunky, missing libraries (bitsandbytes didn't
+                work), and cryptic HuggingFace errors.
+              </p>
+              <p>
+                We then took a different route and translated Llama 3.1 from
+                PyTorch to JAX. Now, it’s running smoothly on TPUs! We still
+                have challenges ahead, there is no good LoRA library in JAX, but
+                this feels like the right path forward.
+              </p>
+              <p>
+                Here's a demo (<a href="https://dub.sh/felafax-demo"
+                  >https://dub.sh/felafax-demo</a
+                >) of our managed solution.
+              </p>
+              <p>
+                Would love your thoughts on our repo and vision as we keep
+                chugging along!
+              </p>
+            </div>
           </section>
         </section>
         <section id="41511928">
@@ -223,33 +293,11 @@
             <h4>
               <span>2024-09-11 @ 14:51:44</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41511928"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41511672">
-          <h3>
-            <a
-              class="item"
-              href="https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11"
-              >Device Tree Patches Posted for Review to Boot Linux on Apple A7
-              to A11 Devices</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-11 @ 14:22:37</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41511672"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -265,11 +313,11 @@
             <h4>
               <span>2024-09-11 @ 13:50:39</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41511386"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
             <div class="text">
@@ -322,11 +370,11 @@
             <h4>
               <span>2024-09-11 @ 11:19:12</span
               ><span class="points-container"
-                >Points: <span class="points">828</span></span
+                >Points: <span class="points">842</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41510252"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 207</span></span
               >
             </h4>
           </section>
@@ -341,11 +389,11 @@
             <h4>
               <span>2024-09-11 @ 10:50:55</span
               ><span class="points-container"
-                >Points: <span class="points">696</span></span
+                >Points: <span class="points">715</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41510103"
                   >Comments</a
-                ><span class="descendants">: 275</span></span
+                ><span class="descendants">: 285</span></span
               >
             </h4>
             <div class="text">
@@ -356,25 +404,6 @@
                 illegal. Is there something about the company that I'm missing?
               </p>
             </div>
-          </section>
-        </section>
-        <section id="41509742">
-          <h3>
-            <a class="item" href="https://binsider.dev/"
-              >Binsider – A TUI for analyzing Linux binaries</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-11 @ 09:45:55</span
-              ><span class="points-container"
-                >Points: <span class="points">88</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41509742"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="41509558">
@@ -389,11 +418,11 @@
             <h4>
               <span>2024-09-11 @ 09:11:55</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41509558"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -408,11 +437,11 @@
             <h4>
               <span>2024-09-11 @ 07:01:01</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41508752"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -429,7 +458,7 @@
             <h4>
               <span>2024-09-11 @ 06:20:39</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41508535"
                   >Comments</a
@@ -450,7 +479,7 @@
             <h4>
               <span>2024-09-11 @ 06:19:52</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41508530"
                   >Comments</a
@@ -471,11 +500,11 @@
             <h4>
               <span>2024-09-11 @ 05:47:12</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41508355"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -513,7 +542,7 @@
             <h4>
               <span>2024-09-11 @ 03:53:35</span
               ><span class="points-container"
-                >Points: <span class="points">317</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41507879"
                   >Comments</a
@@ -532,11 +561,11 @@
             <h4>
               <span>2024-09-11 @ 02:39:27</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41507563"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 253</span></span
               >
             </h4>
           </section>
@@ -574,11 +603,11 @@
             <h4>
               <span>2024-09-10 @ 20:52:17</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41505389"
                   >Comments</a
-                ><span class="descendants">: 222</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -595,11 +624,11 @@
             <h4>
               <span>2024-09-10 @ 20:39:51</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41505266"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -616,11 +645,11 @@
             <h4>
               <span>2024-09-10 @ 18:30:45</span
               ><span class="points-container"
-                >Points: <span class="points">452</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41504026"
                   >Comments</a
-                ><span class="descendants">: 472</span></span
+                ><span class="descendants">: 479</span></span
               >
             </h4>
           </section>
@@ -635,11 +664,30 @@
             <h4>
               <span>2024-09-10 @ 16:22:13</span
               ><span class="points-container"
-                >Points: <span class="points">621</span></span
+                >Points: <span class="points">625</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41502510"
                   >Comments</a
-                ><span class="descendants">: 227</span></span
+                ><span class="descendants">: 229</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41501747">
+          <h3>
+            <a class="item" href="https://build-system.fman.io/"
+              >Fman Build System</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-10 @ 15:28:05</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41501747"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -657,7 +705,7 @@
             <h4>
               <span>2024-09-09 @ 14:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41488879"
                   >Comments</a
@@ -676,11 +724,11 @@
             <h4>
               <span>2024-09-09 @ 14:09:09</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41488738"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -707,21 +755,23 @@
             </h4>
           </section>
         </section>
-        <section id="41480630">
+        <section id="41480038">
           <h3>
-            <a class="item" href="https://robertcooper.me/post/table-row-links"
-              >How to make a table row a link (2020)</a
+            <a
+              class="item"
+              href="https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/"
+              >Microwave spontaneously turned on by its LED display</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-09-08 @ 14:32:29</span
+              <span>2024-09-08 @ 12:37:44</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41480630"
+                ><a href="https://news.ycombinator.com/item?id=41480038"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -736,11 +786,11 @@
             <h4>
               <span>2024-09-08 @ 11:57:05</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41479887"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -756,37 +806,13 @@
             <h4>
               <span>2024-09-08 @ 11:56:07</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">241</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41479882"
                   >Comments</a
                 ><span class="descendants">: 106</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41479028">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=41479028"
-              >Ask HN: Why no transflective LCD portables?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-08 @ 08:32:14</span
-              ><span class="points-container"
-                >Points: <span class="points">52</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41479028"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-            <div class="text">
-              There hasn't been a notable portable computer with a transflective
-              LCD display since the OLPC XO. Is the technology simply worse than
-              e-ink that it doesn't get as much attention?
-            </div>
           </section>
         </section>
       </section>
