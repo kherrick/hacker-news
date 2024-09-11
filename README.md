@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-11, 05:10:06](https://news.ycombinator.com/item?id=41508188) - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
 * [2024-09-11, 04:32:23](https://news.ycombinator.com/item?id=41508040) - [I Wish I Didn't Miss the '90s-00s Internet](https://rohan.ga/blog/early-internet/)
 * [2024-09-11, 03:53:35](https://news.ycombinator.com/item?id=41507879) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2024-09-11, 01:13:14](https://news.ycombinator.com/item?id=41507271) - [Building the same app using various web frameworks](https://eugeneyan.com/writing/web-frameworks/)
@@ -13,9 +14,8 @@
 * [2024-09-10, 20:52:17](https://news.ycombinator.com/item?id=41505389) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-10, 20:12:49](https://news.ycombinator.com/item?id=41505009) - [Another police raid in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
 * [2024-09-10, 19:59:39](https://news.ycombinator.com/item?id=41504885) - [Tutorial on diffusion models for imaging and vision](https://arxiv.org/abs/2403.18103)
-* [2024-09-10, 19:34:11](https://news.ycombinator.com/item?id=41504631) - [Pixhell Attack: Leaking Info from Air-Gap Computers via 'Singing Pixels'](https://arxiv.org/abs/2409.04930)
+* [2024-09-10, 19:54:38](https://news.ycombinator.com/item?id=41504832) - [Git Bash is my preferred Windows shell](https://www.ii.com/git-bash-is-my-preferred-windows-shell/)
 * [2024-09-10, 17:25:00](https://news.ycombinator.com/item?id=41503251) - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
-* [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home)
 * [2024-09-10, 15:03:31](https://news.ycombinator.com/item?id=41501496) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 * [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
