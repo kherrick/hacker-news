@@ -25,7 +25,7 @@
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
 * [2024-09-09, 13:33:15](https://news.ycombinator.com/item?id=41488377) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 * [2024-09-09, 12:04:56](https://news.ycombinator.com/item?id=41487749) - [The Modern CLI Renaissance](https://gabevenberg.com/posts/cli-renaissance/)
-* [2024-09-08, 20:20:58](https://news.ycombinator.com/item?id=41482886) - [Building a robot dog and uploading every second of it to YouTube (Part 1) [video]](https://www.youtube.com/watch?v=uphSE2W7WEk)
+* [2024-09-09, 11:12:37](https://news.ycombinator.com/item?id=41487360) - [Crash dummies and robot arms: How airline seats are tested](https://www.bbc.com/news/articles/c74l9p2x3dxo)
 * [2024-09-08, 11:56:07](https://news.ycombinator.com/item?id=41479882) - [Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences](https://consentomatic.au.dk/)
 * [2024-09-08, 08:49:32](https://news.ycombinator.com/item?id=41479085) - [Floral formula](https://en.wikipedia.org/wiki/Floral_formula)
 * [2024-09-07, 12:48:13](https://news.ycombinator.com/item?id=41473640) - [Jeremy Couillard's video games capture what it's like to be alive](https://www.artbasel.com/stories/jeremy-couillard-video-games-mit-list-visual-arts-center-critique-contemporary-life-digital-landscapes)
