@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-11, 13:26:01](https://news.ycombinator.com/item?id=41511139) - [Debate in nuclear-armed former colony fails to reassure global community](https://www.aljazeera.com/opinions/2024/9/11/debate-in-nuclear-armed-former-colony-fails-to-reassure-global-community)
 * [2024-09-11, 13:14:11](https://news.ycombinator.com/item?id=41511050) - [The CIA-in-Chile Scandal at 50](https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50)
+* [2024-09-11, 11:43:15](https://news.ycombinator.com/item?id=41510402) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 09:45:55](https://news.ycombinator.com/item?id=41509742) - [Binsider – A TUI for analyzing Linux binaries](https://binsider.dev/)
 * [2024-09-11, 05:47:12](https://news.ycombinator.com/item?id=41508355) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)

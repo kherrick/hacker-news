@@ -10,6 +10,7 @@
 * [2024-09-11, 12:09:40](https://news.ycombinator.com/item?id=41510566) - [Europe has opened a door to a universal wallet](https://thenextweb.com/news/eu-digital-id-supports-universal-digital-wallet)
 * [2024-09-11, 11:58:26](https://news.ycombinator.com/item?id=41510482) - [Stop trying to avoid distractions, just get better ones instead](https://ashore.io/journal/desk-notes/bluey-and-the-hierarchy-of-distractions)
 * [2024-09-11, 11:49:11](https://news.ycombinator.com/item?id=41510422) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
+* [2024-09-11, 11:43:15](https://news.ycombinator.com/item?id=41510402) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We Spent $20 to Achieve RCE and Accidentally Became the Admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 10:50:55](https://news.ycombinator.com/item?id=41510103) - [Ask HN: Why Is Pave Legal?](https://news.ycombinator.com/item?id=41510103)
 * [2024-09-11, 10:34:26](https://news.ycombinator.com/item?id=41510008) - [UK Shops can refuse to take cash even though it's legal tender (2023)](https://fullfact.org/online/legal-tender-cash-in-shops/)
