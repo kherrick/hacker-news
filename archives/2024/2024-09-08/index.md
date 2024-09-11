@@ -42,6 +42,7 @@
 * [2024-09-08, 14:55:57](https://news.ycombinator.com/item?id=41480780) - [An Interview with Intel's Arik Gihon about Lunar Lake at Hot Chips 2024](https://chipsandcheese.com/2024/09/02/an-interview-with-intels-arik-gihon-about-lunar-lake-at-hot-chips-2024/)
 * [2024-09-08, 14:51:12](https://news.ycombinator.com/item?id=41480746) - [Open-source streaming API from ingest to player](https://matvp91.github.io/mixwave/)
 * [2024-09-08, 14:40:26](https://news.ycombinator.com/item?id=41480675) - [htmx Web Security Basics](https://htmx.org/essays/web-security-basics-with-htmx/)
+* [2024-09-08, 14:32:29](https://news.ycombinator.com/item?id=41480630) - [How to make a table row a link (2020)](https://robertcooper.me/post/table-row-links)
 * [2024-09-08, 13:45:33](https://news.ycombinator.com/item?id=41480373) - [Show HN: Vomitorium – all of your project in 1 text file](https://www.npmjs.com/package/vomitorium)
 * [2024-09-08, 13:18:44](https://news.ycombinator.com/item?id=41480232) - [In the Labyrinth of Unknown Unknowns](https://www.antithesis.com/blog/unknown_unknowns/)
 * [2024-09-08, 13:15:47](https://news.ycombinator.com/item?id=41480213) - [Through the Years with Gaiters (2013)](https://anglicansonline.org/special/gaiters/)
