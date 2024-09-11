@@ -2,6 +2,7 @@
 
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
 * [2024-09-11, 18:02:51](https://news.ycombinator.com/item?id=41513775) - [Swiss BMW Driver Slammed with $116,000 Tailgating Fine Because He's Rich](https://www.thedrive.com/news/swiss-bmw-driver-slammed-with-116000-tailgating-fine-because-hes-rich)
+* [2024-09-11, 17:49:21](https://news.ycombinator.com/item?id=41513648) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 * [2024-09-11, 17:20:24](https://news.ycombinator.com/item?id=41513417) - [Algorithmic Wage Discrimination](https://columbialawreview.org/content/on-algorithmic-wage-discrimination/)
 * [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-09-11, 15:30:48](https://news.ycombinator.com/item?id=41512328) - [Uber drivers in Kenya are ignoring the app and charging their own rates](https://restofworld.org/2024/kenya-uber-rate-cards-fuel-prices/)
@@ -25,7 +26,6 @@
 * [2024-09-10, 18:30:45](https://news.ycombinator.com/item?id=41504026) - [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home)
 * [2024-09-10, 15:28:05](https://news.ycombinator.com/item?id=41501747) - [Fman Build System](https://build-system.fman.io/)
-* [2024-09-09, 14:27:48](https://news.ycombinator.com/item?id=41488879) - [The Art of the Brew: Exploring Hops and Other Plant Ingredients That Define Beer](https://worldsensorium.com/the-art-of-the-brew-exploring-hops-and-other-plant-ingredients-that-define-beer/)
 * [2024-09-09, 14:09:09](https://news.ycombinator.com/item?id=41488738) - [Show HN: HypergraphZ – A Hypergraph Implementation in Zig](https://github.com/yamafaktory/hypergraphz)
 * [2024-09-08, 15:28:35](https://news.ycombinator.com/item?id=41480957) - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
 * [2024-09-08, 11:57:05](https://news.ycombinator.com/item?id=41479887) - [Openly Licensed Streetview with Panoramax](https://tzovar.as/open-source-streetview/)
