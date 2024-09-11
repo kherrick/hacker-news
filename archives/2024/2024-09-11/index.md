@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 13:14:11](https://news.ycombinator.com/item?id=41511050) - [The CIA-in-Chile Scandal at 50](https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50)
 * [2024-09-11, 12:19:10](https://news.ycombinator.com/item?id=41510643) - [US Gov Removing Four-Year-Degree Requirements for Cyber Jobs](https://www.securityweek.com/us-gov-removing-four-year-degree-requirements-for-cyber-jobs/)
+* [2024-09-11, 12:09:40](https://news.ycombinator.com/item?id=41510566) - [Europe has opened a door to a universal wallet](https://thenextweb.com/news/eu-digital-id-supports-universal-digital-wallet)
 * [2024-09-11, 11:58:26](https://news.ycombinator.com/item?id=41510482) - [Stop trying to avoid distractions, just get better ones instead](https://ashore.io/journal/desk-notes/bluey-and-the-hierarchy-of-distractions)
 * [2024-09-11, 11:49:11](https://news.ycombinator.com/item?id=41510422) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We Spent $20 to Achieve RCE and Accidentally Became the Admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
