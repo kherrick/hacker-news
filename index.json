@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-11, 17:20:24",
+      "https://news.ycombinator.com/item?id=41513417"
+    ],
+    [
+      "Algorithmic Wage Discrimination",
+      "https://columbialawreview.org/content/on-algorithmic-wage-discrimination/"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 17:00:56",
       "https://news.ycombinator.com/item?id=41513241"
     ],
@@ -11,42 +21,12 @@
   ],
   [
     [
-      "2024-09-11, 16:58:51",
-      "https://news.ycombinator.com/item?id=41513215"
+      "2024-09-11, 15:30:48",
+      "https://news.ycombinator.com/item?id=41512328"
     ],
     [
-      "Google partners with Internet Archive to link to archives in search",
-      "https://9to5google.com/2024/09/11/google-search-internet-archive-wayback-machine/"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 16:25:24",
-      "https://news.ycombinator.com/item?id=41512871"
-    ],
-    [
-      "AWS AI Stack – Ready-to-Deploy Serverless AI App on AWS and Bedrock",
-      "https://github.com/serverless/aws-ai-stack"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 15:57:18",
-      "https://news.ycombinator.com/item?id=41512587"
-    ],
-    [
-      "Research suggests more than half of VMware customers are looking to move",
-      "https://www.theregister.com/2024/09/11/civo_vmware_research/"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 15:32:20",
-      "https://news.ycombinator.com/item?id=41512341"
-    ],
-    [
-      "New Feature Alert: Access Archived Webpages Directly Through Google Search",
-      "https://blog.archive.org/2024/09/11/new-feature-alert-access-archived-webpages-directly-through-google-search/"
+      "Uber drivers in Kenya are ignoring the app and charging their own rates",
+      "https://restofworld.org/2024/kenya-uber-rate-cards-fuel-prices/"
     ]
   ],
   [
@@ -71,12 +51,12 @@
   ],
   [
     [
-      "2024-09-11, 14:48:48",
-      "https://news.ycombinator.com/item?id=41511899"
+      "2024-09-11, 14:22:37",
+      "https://news.ycombinator.com/item?id=41511672"
     ],
     [
-      "Writing an HTTP Server in Go from Scratch: Part 1",
-      "https://www.krayorn.com/posts/http-server-go/"
+      "Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices",
+      "https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11"
     ]
   ],
   [
@@ -201,6 +181,26 @@
   ],
   [
     [
+      "2024-09-10, 22:13:30",
+      "https://news.ycombinator.com/item?id=41506157"
+    ],
+    [
+      "Chai-1: Decoding the molecular interactions of life",
+      "https://www.chaidiscovery.com/blog/introducing-chai-1"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 20:52:17",
+      "https://news.ycombinator.com/item?id=41505389"
+    ],
+    [
+      "Why Not Comments",
+      "https://buttondown.com/hillelwayne/archive/why-not-comments/"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 20:39:51",
       "https://news.ycombinator.com/item?id=41505266"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-09-09, 13:00:40",
-      "https://news.ycombinator.com/item?id=41488104"
+      "2024-09-08, 15:28:35",
+      "https://news.ycombinator.com/item?id=41480957"
     ],
     [
-      "CSS Triggers – How performant is each CSS property?",
-      "https://css-triggers.com/"
+      "Breaking Bell's Inequality with Monte Carlo Simulations in Python",
+      "https://bytepawn.com/quantum-entanglement-bell-inequality-python.html"
     ]
   ],
   [
