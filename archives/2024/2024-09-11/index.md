@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
 * [2024-09-11, 14:05:26](https://news.ycombinator.com/item?id=41511524) - [Movie industry touts takedown of \" largest\" pirate streaming ring](https://arstechnica.com/tech-policy/2024/08/movie-industry-touts-takedown-of-worlds-largest-pirate-streaming-ring/)
+* [2024-09-11, 13:45:04](https://news.ycombinator.com/item?id=41511320) - [Real-Time Neural Appearance Models [video]](https://www.youtube.com/watch?v=2r6IlVJj6gc)
 * [2024-09-11, 13:26:01](https://news.ycombinator.com/item?id=41511139) - [Debate in nuclear-armed former colony fails to reassure global community](https://www.aljazeera.com/opinions/2024/9/11/debate-in-nuclear-armed-former-colony-fails-to-reassure-global-community)
 * [2024-09-11, 13:14:11](https://news.ycombinator.com/item?id=41511050) - [The CIA-in-Chile Scandal at 50](https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50)
 * [2024-09-11, 12:19:10](https://news.ycombinator.com/item?id=41510643) - [US Gov Removing Four-Year-Degree Requirements for Cyber Jobs](https://www.securityweek.com/us-gov-removing-four-year-degree-requirements-for-cyber-jobs/)

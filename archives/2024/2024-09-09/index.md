@@ -45,6 +45,7 @@
 * [2024-09-09, 14:36:18](https://news.ycombinator.com/item?id=41488944) - [Why I Wrote Data Science for Crime Analysis with Python](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
 * [2024-09-09, 14:34:51](https://news.ycombinator.com/item?id=41488929) - [Gitea blocks PR from community, charging $$ for open-source contributions](https://github.com/go-gitea/gitea/pull/24257)
 * [2024-09-09, 14:31:16](https://news.ycombinator.com/item?id=41488905) - [TSMC's Arizona Trials Put Plant Productivity on Par with Taiwan](https://www.bloomberg.com/news/articles/2024-09-06/tsmc-s-arizona-trials-put-plant-productivity-on-par-with-taiwan)
+* [2024-09-09, 14:27:48](https://news.ycombinator.com/item?id=41488879) - [The Art of the Brew: Exploring Hops and Other Plant Ingredients That Define Beer](https://worldsensorium.com/the-art-of-the-brew-exploring-hops-and-other-plant-ingredients-that-define-beer/)
 * [2024-09-09, 14:26:42](https://news.ycombinator.com/item?id=41488865) - [The Future of European Competitiveness](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en)
 * [2024-09-09, 14:24:24](https://news.ycombinator.com/item?id=41488846) - [ReMamba: Equip Mamba with Effective Long-Sequence Modeling](https://arxiv.org/abs/2408.15496)
 * [2024-09-09, 14:18:48](https://news.ycombinator.com/item?id=41488805) - [Lessons learnt building a real-time audio application in Python](https://www.vangemert.dev/#/blog/lessons-learnt-backlooper)
