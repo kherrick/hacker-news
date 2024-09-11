@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-11, 18:11:31",
+      "https://news.ycombinator.com/item?id=41513860"
+    ],
+    [
+      "Noisy Neighbor Detection with eBPF",
+      "https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 17:20:24",
       "https://news.ycombinator.com/item?id=41513417"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2024-09-11, 15:14:44",
+      "https://news.ycombinator.com/item?id=41512142"
+    ],
+    [
+      "Show HN: Tune LLaMa3.1 on Google Cloud TPUs",
+      "https://github.com/felafax/felafax"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 14:51:44",
       "https://news.ycombinator.com/item?id=41511928"
     ],
     [
       "Scientists use magnetic nanotech to safely rewarm frozen tissues for transplant",
       "https://phys.org/news/2024-09-scientists-magnetic-nanotech-safely-rewarm.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 14:22:37",
-      "https://news.ycombinator.com/item?id=41511672"
-    ],
-    [
-      "Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices",
-      "https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Ask HN: Why is Pave legal?",
       "https://news.ycombinator.com/item?id=41510103"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 09:45:55",
-      "https://news.ycombinator.com/item?id=41509742"
-    ],
-    [
-      "Binsider – A TUI for analyzing Linux binaries",
-      "https://binsider.dev/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-09-10, 15:28:05",
+      "https://news.ycombinator.com/item?id=41501747"
+    ],
+    [
+      "Fman Build System",
+      "https://build-system.fman.io/"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 14:27:48",
       "https://news.ycombinator.com/item?id=41488879"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-09-08, 14:32:29",
-      "https://news.ycombinator.com/item?id=41480630"
+      "2024-09-08, 12:37:44",
+      "https://news.ycombinator.com/item?id=41480038"
     ],
     [
-      "How to make a table row a link (2020)",
-      "https://robertcooper.me/post/table-row-links"
+      "Microwave spontaneously turned on by its LED display",
+      "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences",
       "https://consentomatic.au.dk/"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 08:32:14",
-      "https://news.ycombinator.com/item?id=41479028"
-    ],
-    [
-      "Ask HN: Why no transflective LCD portables?",
-      "https://news.ycombinator.com/item?id=41479028"
     ]
   ]
 ]
