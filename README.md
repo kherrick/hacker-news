@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-11, 10:50:55](https://news.ycombinator.com/item?id=41510103) - [Ask HN: Why Is Pave Legal?](https://news.ycombinator.com/item?id=41510103)
 * [2024-09-11, 09:40:38](https://news.ycombinator.com/item?id=41509713) - [Radicle 1.0 – A Local-First, P2P Alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [2024-09-11, 08:32:46](https://news.ycombinator.com/item?id=41509330) - [ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
 * [2024-09-11, 08:05:26](https://news.ycombinator.com/item?id=41509156) - [Yaak is now open source](https://yaak.app/blog/now-open-source)
@@ -23,7 +24,6 @@
 * [2024-09-10, 14:31:40](https://news.ycombinator.com/item?id=41501175) - [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
 * [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
-* [2024-09-09, 13:33:15](https://news.ycombinator.com/item?id=41488377) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 * [2024-09-09, 12:20:47](https://news.ycombinator.com/item?id=41487833) - [Show HN: A1 – Faster, Dynamic, More Reliable NFC Transactions](https://github.com/overlay-payments/A1)
 * [2024-09-08, 15:28:35](https://news.ycombinator.com/item?id=41480957) - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
 * [2024-09-08, 12:37:44](https://news.ycombinator.com/item?id=41480038) - [Microwave spontaneously turned on by its LED display](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
