@@ -2,7 +2,6 @@
 
 * [2024-09-11, 21:52:32](https://news.ycombinator.com/item?id=41515649) - [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
 * [2024-09-11, 21:00:59](https://news.ycombinator.com/item?id=41515304) - [Pathpilot (YC S24) is hiring a founding AI and full-stack engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
-* [2024-09-11, 20:39:43](https://news.ycombinator.com/item?id=41515167) - [Ask HN: Are Open Source Projects Products?](https://news.ycombinator.com/item?id=41515167)
 * [2024-09-11, 20:29:52](https://news.ycombinator.com/item?id=41515101) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [A MiniGolf game for Palm OS](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
 * [2024-09-11, 19:47:10](https://news.ycombinator.com/item?id=41514727) - [Mistral releases Pixtral 12B, its first multimodal model](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/)
@@ -27,6 +26,7 @@
 * [2024-09-09, 14:09:09](https://news.ycombinator.com/item?id=41488738) - [Show HN: HypergraphZ – A Hypergraph Implementation in Zig](https://github.com/yamafaktory/hypergraphz)
 * [2024-09-09, 06:46:36](https://news.ycombinator.com/item?id=41486029) - [Finding and optimizing N+1 queries on a relational database](https://engineering.mixpanel.com/finding-and-optimizing-n-1-queries-on-a-relational-database-1ce02f1f2ffb)
 * [2024-09-09, 05:42:06](https://news.ycombinator.com/item?id=41485751) - [The big Baltic bomb cleanup](https://hakaimagazine.com/features/the-big-baltic-bomb-cleanup/)
+* [2024-09-09, 00:10:03](https://news.ycombinator.com/item?id=41484357) - [Iron Gall Ink](https://en.wikipedia.org/wiki/Iron_gall_ink)
 * [2024-09-08, 15:28:35](https://news.ycombinator.com/item?id=41480957) - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
 * [2024-09-08, 11:57:05](https://news.ycombinator.com/item?id=41479887) - [Openly Licensed Streetview with Panoramax](https://tzovar.as/open-source-streetview/)
 * [2024-09-08, 11:56:07](https://news.ycombinator.com/item?id=41479882) - [Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences](https://consentomatic.au.dk/)

@@ -90,4 +90,5 @@
 * [2024-09-09, 01:27:34](https://news.ycombinator.com/item?id=41484743) - [Do Programmers Actually Need Touch Typing?](http://blog.hakanserce.com/post/do-programmers-actually-need-touch-typing/)
 * [2024-09-09, 01:06:19](https://news.ycombinator.com/item?id=41484633) - [⓿ dependencies!](https://0dependencies.dev/)
 * [2024-09-09, 00:39:53](https://news.ycombinator.com/item?id=41484503) - [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
+* [2024-09-09, 00:10:03](https://news.ycombinator.com/item?id=41484357) - [Iron Gall Ink](https://en.wikipedia.org/wiki/Iron_gall_ink)
 * [2024-09-09, 00:04:01](https://news.ycombinator.com/item?id=41484337) - [ATProto for Distributed System Engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
