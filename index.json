@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-09-10, 20:39:51",
+      "https://news.ycombinator.com/item?id=41505266"
+    ],
+    [
+      "Some of us like \"interdiff\" code review",
+      "https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 20:12:49",
       "https://news.ycombinator.com/item?id=41505009"
     ],
@@ -147,6 +157,26 @@
     [
       "Tutorial on diffusion models for imaging and vision",
       "https://arxiv.org/abs/2403.18103"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 19:04:42",
+      "https://news.ycombinator.com/item?id=41504331"
+    ],
+    [
+      "Iron Mountain: It's Time to Talk About Hard Drives",
+      "https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 18:30:45",
+      "https://news.ycombinator.com/item?id=41504026"
+    ],
+    [
+      "New York Times tech workers union votes to authorize a strike",
+      "https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote"
     ]
   ],
   [
@@ -171,22 +201,12 @@
   ],
   [
     [
-      "2024-09-10, 14:08:37",
-      "https://news.ycombinator.com/item?id=41500938"
+      "2024-09-10, 13:16:28",
+      "https://news.ycombinator.com/item?id=41500506"
     ],
     [
-      "Show HN: YourNextStore – an open-source Shopify with Stripe as the back end",
-      "https://github.com/yournextstore/yournextstore"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 13:05:42",
-      "https://news.ycombinator.com/item?id=41500405"
-    ],
-    [
-      "Debugging in the Multiverse",
-      "https://antithesis.com/blog/multiverse_debugging/"
+      "Going open-source as a VC-Backed company",
+      "https://briefer.cloud/blog/posts/open-source-strategy/"
     ]
   ],
   [
@@ -241,22 +261,22 @@
   ],
   [
     [
-      "2024-09-09, 11:12:37",
-      "https://news.ycombinator.com/item?id=41487360"
-    ],
-    [
-      "Crash dummies and robot arms: How airline seats are tested",
-      "https://www.bbc.com/news/articles/c74l9p2x3dxo"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 11:10:43",
       "https://news.ycombinator.com/item?id=41487350"
     ],
     [
       "Ask HN: How do you sync ongoing browser work between desktop and laptop?",
       "https://news.ycombinator.com/item?id=41487350"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 12:37:44",
+      "https://news.ycombinator.com/item?id=41480038"
+    ],
+    [
+      "Microwave spontaneously turned on by its LED display",
+      "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-09-08, 08:49:32",
-      "https://news.ycombinator.com/item?id=41479085"
-    ],
-    [
-      "Floral formula",
-      "https://en.wikipedia.org/wiki/Floral_formula"
-    ]
-  ],
-  [
-    [
       "2024-09-07, 12:48:13",
       "https://news.ycombinator.com/item?id=41473640"
     ],
     [
       "Jeremy Couillard's video games capture what it's like to be alive",
       "https://www.artbasel.com/stories/jeremy-couillard-video-games-mit-list-visual-arts-center-critique-contemporary-life-digital-landscapes"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 16:12:40",
-      "https://news.ycombinator.com/item?id=41467420"
-    ],
-    [
-      "Tomato64: A port of Tomato Firmware to x86_64",
-      "https://tomato64.org/"
     ]
   ]
 ]
