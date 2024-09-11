@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 15:32:20](https://news.ycombinator.com/item?id=41512341) - [New Feature Alert: Access Archived Webpages Directly Through Google Search](https://blog.archive.org/2024/09/11/new-feature-alert-access-archived-webpages-directly-through-google-search/)
+* [2024-09-11, 15:19:02](https://news.ycombinator.com/item?id=41512191) - [Neanderthals' social isolation may have sped up their extinction](https://www.popsci.com/science/neanderthal-extinction-isolation/)
 * [2024-09-11, 14:22:37](https://news.ycombinator.com/item?id=41511672) - [Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices](https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11)
 * [2024-09-11, 14:07:33](https://news.ycombinator.com/item?id=41511538) - [Mnemonic for the number of days in each month](https://rsapkf.org/weblog/days-months)
 * [2024-09-11, 14:05:26](https://news.ycombinator.com/item?id=41511524) - [Movie industry touts takedown of \" largest\" pirate streaming ring](https://arstechnica.com/tech-policy/2024/08/movie-industry-touts-takedown-of-worlds-largest-pirate-streaming-ring/)
