@@ -60,6 +60,7 @@
 * [2024-09-09, 11:53:59](https://news.ycombinator.com/item?id=41487653) - [The Friendship that made Google huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
 * [2024-09-09, 11:31:39](https://news.ycombinator.com/item?id=41487496) - [How to Compose Math Problems](https://www.andreinc.net/2024/07/25/how-to-compose-math-problems)
 * [2024-09-09, 11:12:37](https://news.ycombinator.com/item?id=41487360) - [Crash dummies and robot arms: How airline seats are tested](https://www.bbc.com/news/articles/c74l9p2x3dxo)
+* [2024-09-09, 11:10:43](https://news.ycombinator.com/item?id=41487350) - [Ask HN: How do you sync ongoing browser work between desktop and laptop?](https://news.ycombinator.com/item?id=41487350)
 * [2024-09-09, 10:33:26](https://news.ycombinator.com/item?id=41487119) - [Tempted by the Dark Side, I now have a Commodore 128](https://www.goto10retro.com/p/tempted-by-the-dark-side-i-now-have)
 * [2024-09-09, 10:29:00](https://news.ycombinator.com/item?id=41487094) - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
 * [2024-09-09, 10:19:55](https://news.ycombinator.com/item?id=41487044) - [Show HN: What do your GitHub starred repos say about you?](https://starlens.aisprint.dev/)
