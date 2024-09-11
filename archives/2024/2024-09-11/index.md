@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 09:40:38](https://news.ycombinator.com/item?id=41509713) - [Radicle 1.0 – A Local-First, P2P Alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [2024-09-11, 08:32:46](https://news.ycombinator.com/item?id=41509330) - [ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
 * [2024-09-11, 08:05:26](https://news.ycombinator.com/item?id=41509156) - [Yaak Is Now Open Source](https://yaak.app/blog/now-open-source)
 * [2024-09-11, 07:07:41](https://news.ycombinator.com/item?id=41508804) - [YAML is not a superset of JSON](https://www.patrickstevens.co.uk/posts/2024-03-14-yaml-superset-json/)
