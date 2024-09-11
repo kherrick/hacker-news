@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
+* [2024-09-11, 18:02:07](https://news.ycombinator.com/item?id=41513767) - [Why Copilot Is Making Programmers Worse at Programming](https://www.darrenhorrocks.co.uk/why-copilot-making-programmers-worse-at-programming/)
 * [2024-09-11, 17:49:21](https://news.ycombinator.com/item?id=41513648) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 * [2024-09-11, 17:20:24](https://news.ycombinator.com/item?id=41513417) - [Algorithmic Wage Discrimination](https://columbialawreview.org/content/on-algorithmic-wage-discrimination/)
 * [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -21,7 +22,6 @@
 * [2024-09-10, 22:13:30](https://news.ycombinator.com/item?id=41506157) - [Chai-1: Decoding the molecular interactions of life](https://www.chaidiscovery.com/blog/introducing-chai-1)
 * [2024-09-10, 20:52:17](https://news.ycombinator.com/item?id=41505389) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-10, 20:39:51](https://news.ycombinator.com/item?id=41505266) - [Some of us like \"interdiff\" code review](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
-* [2024-09-10, 19:59:39](https://news.ycombinator.com/item?id=41504885) - [Tutorial on diffusion models for imaging and vision](https://arxiv.org/abs/2403.18103)
 * [2024-09-10, 18:30:45](https://news.ycombinator.com/item?id=41504026) - [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
 * [2024-09-10, 15:28:05](https://news.ycombinator.com/item?id=41501747) - [Fman Build System](https://build-system.fman.io/)
 * [2024-09-09, 16:25:46](https://news.ycombinator.com/item?id=41490147) - [Transparenttextures.com](https://www.transparenttextures.com)
