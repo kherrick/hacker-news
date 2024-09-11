@@ -49,6 +49,7 @@
 * [2024-09-08, 12:57:41](https://news.ycombinator.com/item?id=41480135) - [API Complexity Is a Lie](https://apichangelog.substack.com/p/api-complexity-is-a-lie)
 * [2024-09-08, 12:37:44](https://news.ycombinator.com/item?id=41480038) - [Microwave Oven Failure: Spontaneously turned on by its LED display](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
 * [2024-09-08, 12:35:48](https://news.ycombinator.com/item?id=41480034) - [Ask HN: How does my school block DoH?](https://news.ycombinator.com/item?id=41480034)
+* [2024-09-08, 11:57:05](https://news.ycombinator.com/item?id=41479887) - [Openly Licensed Streetview with Panoramax](https://tzovar.as/open-source-streetview/)
 * [2024-09-08, 11:56:07](https://news.ycombinator.com/item?id=41479882) - [Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences](https://consentomatic.au.dk/)
 * [2024-09-08, 11:48:02](https://news.ycombinator.com/item?id=41479840) - [ASCII cam – I made this using replit agent](https://ascii-cam.replit.app)
 * [2024-09-08, 11:44:40](https://news.ycombinator.com/item?id=41479828) - [Estimating Bidders' Valuation Distributions in Online Auctions (2005) [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/em.pdf)

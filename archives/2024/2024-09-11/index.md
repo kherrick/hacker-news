@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 11:58:26](https://news.ycombinator.com/item?id=41510482) - [Stop trying to avoid distractions, just get better ones instead](https://ashore.io/journal/desk-notes/bluey-and-the-hierarchy-of-distractions)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We Spent $20 to Achieve RCE and Accidentally Became the Admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 10:50:55](https://news.ycombinator.com/item?id=41510103) - [Ask HN: Why Is Pave Legal?](https://news.ycombinator.com/item?id=41510103)
 * [2024-09-11, 10:34:26](https://news.ycombinator.com/item?id=41510008) - [UK Shops can refuse to take cash even though it's legal tender (2023)](https://fullfact.org/online/legal-tender-cash-in-shops/)
