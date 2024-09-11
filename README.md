@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We Spent $20 to Achieve RCE and Accidentally Became the Admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
+* [2024-09-11, 10:34:26](https://news.ycombinator.com/item?id=41510008) - [UK Shops can refuse to take cash even though it's legal tender (2023)](https://fullfact.org/online/legal-tender-cash-in-shops/)
 * [2024-09-11, 09:40:38](https://news.ycombinator.com/item?id=41509713) - [Radicle 1.0 – A Local-First, P2P Alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [2024-09-11, 08:32:46](https://news.ycombinator.com/item?id=41509330) - [ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
 * [2024-09-11, 08:05:26](https://news.ycombinator.com/item?id=41509156) - [Yaak is now open source](https://yaak.app/blog/now-open-source)
@@ -23,7 +24,6 @@
 * [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
 * [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
-* [2024-09-09, 13:33:15](https://news.ycombinator.com/item?id=41488377) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 * [2024-09-09, 12:20:47](https://news.ycombinator.com/item?id=41487833) - [Show HN: A1 – Faster, Dynamic, More Reliable NFC Transactions](https://github.com/overlay-payments/A1)
 * [2024-09-08, 15:28:35](https://news.ycombinator.com/item?id=41480957) - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
 * [2024-09-08, 13:15:47](https://news.ycombinator.com/item?id=41480213) - [Through the Years with Gaiters (2013)](https://anglicansonline.org/special/gaiters/)
