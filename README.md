@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
+* [2024-09-11, 18:02:51](https://news.ycombinator.com/item?id=41513775) - [Swiss BMW Driver Slammed with $116,000 Tailgating Fine Because He's Rich](https://www.thedrive.com/news/swiss-bmw-driver-slammed-with-116000-tailgating-fine-because-hes-rich)
 * [2024-09-11, 17:20:24](https://news.ycombinator.com/item?id=41513417) - [Algorithmic Wage Discrimination](https://columbialawreview.org/content/on-algorithmic-wage-discrimination/)
 * [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-09-11, 15:30:48](https://news.ycombinator.com/item?id=41512328) - [Uber drivers in Kenya are ignoring the app and charging their own rates](https://restofworld.org/2024/kenya-uber-rate-cards-fuel-prices/)
@@ -27,7 +28,6 @@
 * [2024-09-09, 14:27:48](https://news.ycombinator.com/item?id=41488879) - [The Art of the Brew: Exploring Hops and Other Plant Ingredients That Define Beer](https://worldsensorium.com/the-art-of-the-brew-exploring-hops-and-other-plant-ingredients-that-define-beer/)
 * [2024-09-09, 14:09:09](https://news.ycombinator.com/item?id=41488738) - [Show HN: HypergraphZ – A Hypergraph Implementation in Zig](https://github.com/yamafaktory/hypergraphz)
 * [2024-09-08, 15:28:35](https://news.ycombinator.com/item?id=41480957) - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
-* [2024-09-08, 12:37:44](https://news.ycombinator.com/item?id=41480038) - [Microwave spontaneously turned on by its LED display](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
 * [2024-09-08, 11:57:05](https://news.ycombinator.com/item?id=41479887) - [Openly Licensed Streetview with Panoramax](https://tzovar.as/open-source-streetview/)
 * [2024-09-08, 11:56:07](https://news.ycombinator.com/item?id=41479882) - [Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences](https://consentomatic.au.dk/)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
+* [2024-09-11, 18:02:51](https://news.ycombinator.com/item?id=41513775) - [Swiss BMW Driver Slammed with $116,000 Tailgating Fine Because He's Rich](https://www.thedrive.com/news/swiss-bmw-driver-slammed-with-116000-tailgating-fine-because-hes-rich)
 * [2024-09-11, 17:20:24](https://news.ycombinator.com/item?id=41513417) - [Algorithmic Wage Discrimination](https://columbialawreview.org/content/on-algorithmic-wage-discrimination/)
 * [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-09-11, 16:58:51](https://news.ycombinator.com/item?id=41513215) - [Google partners with Internet Archive to link to archives in search](https://9to5google.com/2024/09/11/google-search-internet-archive-wayback-machine/)
