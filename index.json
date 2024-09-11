@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-09-11, 11:58:26",
-      "https://news.ycombinator.com/item?id=41510482"
+      "2024-09-11, 12:19:10",
+      "https://news.ycombinator.com/item?id=41510643"
     ],
     [
-      "Stop trying to avoid distractions, just get better ones instead",
-      "https://ashore.io/journal/desk-notes/bluey-and-the-hierarchy-of-distractions"
+      "US Gov Removing Four-Year-Degree Requirements for Cyber Jobs",
+      "https://www.securityweek.com/us-gov-removing-four-year-degree-requirements-for-cyber-jobs/"
+    ]
+  ],
+  [
+    [
+      "2024-09-11, 11:49:11",
+      "https://news.ycombinator.com/item?id=41510422"
+    ],
+    [
+      "My Homelab Setup",
+      "https://arslan.io/2024/09/10/my-homelab-setup/"
     ]
   ],
   [
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2024-09-11, 09:45:55",
+      "https://news.ycombinator.com/item?id=41509742"
+    ],
+    [
+      "Binsider – A TUI for analyzing Linux binaries",
+      "https://binsider.dev/"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 09:40:38",
       "https://news.ycombinator.com/item?id=41509713"
     ],
     [
       "Radicle 1.0 – A local-first, P2P alternative to GitHub",
       "https://radicle.xyz/2024/09/10/radicle-1.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 08:32:46",
-      "https://news.ycombinator.com/item?id=41509330"
-    ],
-    [
-      "ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere",
-      "https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "On over-engineering; finding the right balance",
       "https://www.16elt.com/2024/09/07/future-proof-code/"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 14:08:37",
-      "https://news.ycombinator.com/item?id=41500938"
-    ],
-    [
-      "Show HN: YourNextStore – an open-source Shopify with Stripe as the back end",
-      "https://github.com/yournextstore/yournextstore"
     ]
   ],
   [
