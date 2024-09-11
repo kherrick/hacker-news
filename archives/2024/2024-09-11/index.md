@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We Spent $20 to Achieve RCE and Accidentally Became the Admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 10:50:55](https://news.ycombinator.com/item?id=41510103) - [Ask HN: Why Is Pave Legal?](https://news.ycombinator.com/item?id=41510103)
 * [2024-09-11, 09:40:38](https://news.ycombinator.com/item?id=41509713) - [Radicle 1.0 – A Local-First, P2P Alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [2024-09-11, 08:32:46](https://news.ycombinator.com/item?id=41509330) - [ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)

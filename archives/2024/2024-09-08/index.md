@@ -44,6 +44,7 @@
 * [2024-09-08, 14:40:26](https://news.ycombinator.com/item?id=41480675) - [htmx Web Security Basics](https://htmx.org/essays/web-security-basics-with-htmx/)
 * [2024-09-08, 13:45:33](https://news.ycombinator.com/item?id=41480373) - [Show HN: Vomitorium – all of your project in 1 text file](https://www.npmjs.com/package/vomitorium)
 * [2024-09-08, 13:18:44](https://news.ycombinator.com/item?id=41480232) - [In the Labyrinth of Unknown Unknowns](https://www.antithesis.com/blog/unknown_unknowns/)
+* [2024-09-08, 13:15:47](https://news.ycombinator.com/item?id=41480213) - [Through the Years with Gaiters (2013)](https://anglicansonline.org/special/gaiters/)
 * [2024-09-08, 12:59:51](https://news.ycombinator.com/item?id=41480145) - [The Lurker's Guide to Babylon5](http://www.midwinter.com/lurk/)
 * [2024-09-08, 12:57:41](https://news.ycombinator.com/item?id=41480135) - [API Complexity Is a Lie](https://apichangelog.substack.com/p/api-complexity-is-a-lie)
 * [2024-09-08, 12:37:44](https://news.ycombinator.com/item?id=41480038) - [Microwave Oven Failure: Spontaneously turned on by its LED display](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
