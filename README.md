@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-11, 20:29:52](https://news.ycombinator.com/item?id=41515101) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [Holy smokes, I just released a MiniGolf game for Palm OS in 2024](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
 * [2024-09-11, 19:47:10](https://news.ycombinator.com/item?id=41514727) - [Mistral releases Pixtral 12B, its first multimodal model](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/)
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
@@ -20,7 +21,6 @@
 * [2024-09-11, 05:28:23](https://news.ycombinator.com/item?id=41508261) - [The Golden Road: How Ancient India Transformed the World](https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic)
 * [2024-09-11, 03:53:35](https://news.ycombinator.com/item?id=41507879) - [The magic of DC-DC voltage conversion (2023)](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2024-09-11, 02:39:27](https://news.ycombinator.com/item?id=41507563) - [How economical is your local Taco Bell?](https://taconomical.com)
-* [2024-09-10, 22:13:30](https://news.ycombinator.com/item?id=41506157) - [Chai-1: Decoding the molecular interactions of life](https://www.chaidiscovery.com/blog/introducing-chai-1)
 * [2024-09-10, 20:39:51](https://news.ycombinator.com/item?id=41505266) - [Some of us like \"interdiff\" code review](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 15:28:05](https://news.ycombinator.com/item?id=41501747) - [Fman Build System](https://build-system.fman.io/)
 * [2024-09-09, 16:25:46](https://news.ycombinator.com/item?id=41490147) - [Transparenttextures.com](https://www.transparenttextures.com)
