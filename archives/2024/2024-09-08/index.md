@@ -15,6 +15,7 @@
 * [2024-09-08, 21:12:14](https://news.ycombinator.com/item?id=41483249) - [Open Props – Supercharged CSS Variables](https://open-props.style/)
 * [2024-09-08, 21:06:40](https://news.ycombinator.com/item?id=41483216) - [The Fennel Programming Language](https://fennel-lang.org/)
 * [2024-09-08, 21:00:58](https://news.ycombinator.com/item?id=41483178) - [The $12,000 Harvard Class Celebrities Are Fighting to Get Into](https://www.bloomberg.com/news/features/2024-07-22/the-12-000-harvard-business-class-celebrities-are-fighting-to-get-into)
+* [2024-09-08, 20:20:58](https://news.ycombinator.com/item?id=41482886) - [Building a robot dog and uploading every second of it to YouTube (Part 1) [video]](https://www.youtube.com/watch?v=uphSE2W7WEk)
 * [2024-09-08, 19:56:25](https://news.ycombinator.com/item?id=41482715) - [How a Customer Got Trapped in Ambetter's Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)
 * [2024-09-08, 19:51:20](https://news.ycombinator.com/item?id=41482679) - [Htmx, Raku and Pico CSS](https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/)
 * [2024-09-08, 19:48:36](https://news.ycombinator.com/item?id=41482661) - [Jd – JSON Diff and Patch](https://github.com/josephburnett/jd)
