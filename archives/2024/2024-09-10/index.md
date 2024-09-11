@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 22:24:53](https://news.ycombinator.com/item?id=41506218) - [Arvo Pärt's Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
+* [2024-09-10, 22:22:20](https://news.ycombinator.com/item?id=41506204) - [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
 * [2024-09-10, 22:13:30](https://news.ycombinator.com/item?id=41506157) - [Chai-1 Defeats AlphaFold 3](https://www.chaidiscovery.com/blog/introducing-chai-1)
 * [2024-09-10, 22:09:02](https://news.ycombinator.com/item?id=41506124) - [K1 Buys MariaDB](https://www.prnewswire.com/news-releases/k1-acquires-mariadb-a-leading-database-software-company-and-appoints-new-ceo-302243508.html)
 * [2024-09-10, 21:15:45](https://news.ycombinator.com/item?id=41505670) - [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
