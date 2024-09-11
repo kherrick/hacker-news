@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 08:05:26](https://news.ycombinator.com/item?id=41509156) - [Yaak Is Now Open Source](https://yaak.app/blog/now-open-source)
 * [2024-09-11, 07:07:41](https://news.ycombinator.com/item?id=41508804) - [YAML is not a superset of JSON](https://www.patrickstevens.co.uk/posts/2024-03-14-yaml-superset-json/)
 * [2024-09-11, 06:52:53](https://news.ycombinator.com/item?id=41508695) - [New Mistral AI Weights](https://twitter.com/mistralai/status/1833758285167722836)
 * [2024-09-11, 06:34:48](https://news.ycombinator.com/item?id=41508593) - [9/11 in Realtime](https://911realtime.org/)

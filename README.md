@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-11, 08:05:26](https://news.ycombinator.com/item?id=41509156) - [Yaak Is Now Open Source](https://yaak.app/blog/now-open-source)
 * [2024-09-11, 05:47:12](https://news.ycombinator.com/item?id=41508355) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 * [2024-09-11, 05:23:34](https://news.ycombinator.com/item?id=41508244) - [Common mistakes when using the metric system](https://www.nayuki.io/page/common-mistakes-when-using-the-metric-system)
 * [2024-09-11, 05:10:06](https://news.ycombinator.com/item?id=41508188) - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
@@ -24,11 +25,10 @@
 * [2024-09-10, 13:16:28](https://news.ycombinator.com/item?id=41500506) - [Going open-source as a VC-Backed company](https://briefer.cloud/blog/posts/open-source-strategy/)
 * [2024-09-10, 07:51:35](https://news.ycombinator.com/item?id=41498264) - [Our Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
-* [2024-09-09, 13:33:15](https://news.ycombinator.com/item?id=41488377) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 * [2024-09-09, 12:04:56](https://news.ycombinator.com/item?id=41487749) - [The Modern CLI Renaissance](https://gabevenberg.com/posts/cli-renaissance/)
+* [2024-09-08, 15:28:35](https://news.ycombinator.com/item?id=41480957) - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
 * [2024-09-08, 12:37:44](https://news.ycombinator.com/item?id=41480038) - [Microwave spontaneously turned on by its LED display](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
 * [2024-09-08, 11:56:07](https://news.ycombinator.com/item?id=41479882) - [Consent-O-Matic – automatically fills ubiquitous pop-ups with your preferences](https://consentomatic.au.dk/)
-* [2024-09-08, 08:49:32](https://news.ycombinator.com/item?id=41479085) - [Floral formula](https://en.wikipedia.org/wiki/Floral_formula)
 * [2024-09-07, 12:48:13](https://news.ycombinator.com/item?id=41473640) - [Jeremy Couillard's video games capture what it's like to be alive](https://www.artbasel.com/stories/jeremy-couillard-video-games-mit-list-visual-arts-center-critique-contemporary-life-digital-landscapes)
 
 ## [Archives](archives/index.md)
