@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 22:36:08](https://news.ycombinator.com/item?id=41515899) - [In Favor of Reading Aloud](https://www.raptitude.com/2024/09/in-favor-of-reading-aloud/)
 * [2024-09-11, 22:08:50](https://news.ycombinator.com/item?id=41515741) - [Federal government to outlaw doxxing, impose up to seven years' jail](https://www.abc.net.au/news/2024-09-12/albanese-government-will-outlaw-doxxing/104340372)
 * [2024-09-11, 21:52:32](https://news.ycombinator.com/item?id=41515649) - [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
 * [2024-09-11, 21:42:39](https://news.ycombinator.com/item?id=41515588) - [Android now allows apps to block sideloading](https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/)

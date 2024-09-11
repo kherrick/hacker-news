@@ -36,6 +36,7 @@
 * [2024-09-10, 15:53:40](https://news.ycombinator.com/item?id=41502094) - [Show HN: DBOS transact – Ultra-lightweight durable execution in Python](https://github.com/dbos-inc/dbos-transact-py)
 * [2024-09-10, 15:46:47](https://news.ycombinator.com/item?id=41501999) - [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
 * [2024-09-10, 15:46:19](https://news.ycombinator.com/item?id=41501986) - [Apple owes billions in Irish back taxes](https://www.theregister.com/2024/09/10/apple_owes_billions_in_back/)
+* [2024-09-10, 15:40:15](https://news.ycombinator.com/item?id=41501895) - [ClickHouse Data Modeling for Postgres Users](https://clickhouse.com/blog/postgres-to-clickhouse-data-modeling-tips)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
 * [2024-09-10, 15:32:42](https://news.ycombinator.com/item?id=41501804) - [ChartEye: A Deep Learning Framework for Chart Information Extraction](https://arxiv.org/abs/2408.16123)
 * [2024-09-10, 15:29:47](https://news.ycombinator.com/item?id=41501762) - [Deductive Verification for Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2306.03872)
