@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-12, 10:22:09](https://news.ycombinator.com/item?id=41519283) - [AI took their jobs. Now they get paid to make it sound human](https://www.bbc.com/future/article/20240612-the-people-making-ai-sound-more-human)
 * [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
 * [2024-09-12, 07:43:18](https://news.ycombinator.com/item?id=41518456) - [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
@@ -25,7 +26,6 @@
 * [2024-09-10, 15:42:25](https://news.ycombinator.com/item?id=41501924) - [Deep Purple payload successfully deployed and operational](https://www.llnl.gov/article/51736/deep-purple-payload-successfully-deployed-operational)
 * [2024-09-10, 02:52:42](https://news.ycombinator.com/item?id=41496731) - [Making progress on side projects with content-driven development](https://ntietz.com/blog/making-progress-with-content-driven-development/)
 * [2024-09-09, 16:25:46](https://news.ycombinator.com/item?id=41490147) - [Transparenttextures.com](https://www.transparenttextures.com)
-* [2024-09-09, 15:58:34](https://news.ycombinator.com/item?id=41489849) - [Passive damping – Bathroom scales](https://thinking-about-science.com/2024/09/08/24-8-passive-damping-bathroom-scales/)
 * [2024-09-09, 14:08:02](https://news.ycombinator.com/item?id=41488728) - [Large-Scale Generation of Transit Maps from OpenStreetMap Data](https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761#abstract)
 * [2024-09-09, 00:10:03](https://news.ycombinator.com/item?id=41484357) - [Iron Gall Ink](https://en.wikipedia.org/wiki/Iron_gall_ink)
 * [2024-09-08, 18:46:21](https://news.ycombinator.com/item?id=41482232) - [How to Tame Evil Dependencies](https://www.thoughtworks.com/insights/articles/how-to-tame-evil-dependencies)
