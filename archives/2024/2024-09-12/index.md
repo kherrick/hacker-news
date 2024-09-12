@@ -18,6 +18,7 @@
 * [2024-09-12, 15:59:28](https://news.ycombinator.com/item?id=41522319) - [Show HN: Ask LLMs to predict anything based on news](https://aipredict.fun/)
 * [2024-09-12, 15:53:09](https://news.ycombinator.com/item?id=41522254) - [The new EVE MMO uses blockchain tech to create a \"boiling financial hellscape\"](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game/)
 * [2024-09-12, 15:47:14](https://news.ycombinator.com/item?id=41522196) - [Can LLMs Generate Novel Research Ideas?](https://www.arxiv.org/abs/2409.04109)
+* [2024-09-12, 15:27:19](https://news.ycombinator.com/item?id=41522005) - [Self-Hosting at Home and Privacy](https://dataswamp.org/~solene/2024-09-10-self-hosting-at-home-privacy-issues.html)
 * [2024-09-12, 15:18:43](https://news.ycombinator.com/item?id=41521919) - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
 * [2024-09-12, 15:09:21](https://news.ycombinator.com/item?id=41521824) - [1913: When Hitler, Trotsky, Tito, Freud and Stalin all lived in the same place](https://www.bbc.com/news/magazine-21859771)
 * [2024-09-12, 14:49:08](https://news.ycombinator.com/item?id=41521630) - [Unity is cancelling the runtime fee](https://unity.com/blog/unity-is-canceling-the-runtime-fee)
