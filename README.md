@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-12, 08:44:36](https://news.ycombinator.com/item?id=41518797) - [Ask HN: What is the most expensive off-the-shelf software you have seen?](https://news.ycombinator.com/item?id=41518797)
 * [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
 * [2024-09-12, 07:43:18](https://news.ycombinator.com/item?id=41518456) - [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
@@ -22,6 +21,7 @@
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 09:11:55](https://news.ycombinator.com/item?id=41509558) - [Max Headroom and the World of Pseudo-CGI (2013)](https://www.cartoonbrew.com/cgi/max-headroom-and-the-strange-world-of-pseudo-cgi-82745.html)
 * [2024-09-11, 07:01:01](https://news.ycombinator.com/item?id=41508752) - [AppleWatchAmmeter](https://github.com/jp3141/AppleWatchAmmeter)
+* [2024-09-11, 06:19:52](https://news.ycombinator.com/item?id=41508530) - [OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
 * [2024-09-11, 05:28:23](https://news.ycombinator.com/item?id=41508261) - [The Golden Road: How Ancient India Transformed the World](https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic)
 * [2024-09-10, 02:52:42](https://news.ycombinator.com/item?id=41496731) - [Making progress on side projects with content-driven development](https://ntietz.com/blog/making-progress-with-content-driven-development/)
 * [2024-09-09, 16:25:46](https://news.ycombinator.com/item?id=41490147) - [Transparenttextures.com](https://www.transparenttextures.com)
