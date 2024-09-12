@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
-* [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
-* [2024-09-12, 18:38:15](https://news.ycombinator.com/item?id=41524080) - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
+* [2024-09-12, 18:38:15](https://news.ycombinator.com/item?id=41524080) - [Making things people want vs. making things that alter thinking](https://rohan.ga/blog/building-stuff/)
 * [2024-09-12, 17:11:18](https://news.ycombinator.com/item?id=41523098) - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
 * [2024-09-12, 17:08:46](https://news.ycombinator.com/item?id=41523070) - [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 17:00:51](https://news.ycombinator.com/item?id=41522979) - [Artie (YC S23) Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
@@ -21,6 +20,7 @@
 * [2024-09-12, 07:56:30](https://news.ycombinator.com/item?id=41518533) - [Peer Gynt quilt, Part 1 (2021)](https://www.icemoonprison.com/blog/archives/282)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
 * [2024-09-11, 23:50:25](https://news.ycombinator.com/item?id=41516327) - [Be a thermostat, not a thermometer (2023)](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
+* [2024-09-11, 22:07:36](https://news.ycombinator.com/item?id=41515730) - [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 * [2024-09-11, 21:22:05](https://news.ycombinator.com/item?id=41515447) - [Why Oxide Chose Illumos](https://rfd.shared.oxide.computer/rfd/0026)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [A MiniGolf game for Palm OS](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
