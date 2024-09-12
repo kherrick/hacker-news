@@ -4,6 +4,7 @@
 * [2024-09-12, 21:28:17](https://news.ycombinator.com/item?id=41525778) - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
 * [2024-09-12, 21:00:18](https://news.ycombinator.com/item?id=41525515) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-09-12, 20:41:14](https://news.ycombinator.com/item?id=41525309) - [Ask HN: Is a Masters in CS/Engineering worth it for a mid-career PM?](https://news.ycombinator.com/item?id=41525309)
+* [2024-09-12, 18:59:41](https://news.ycombinator.com/item?id=41524294) - [The Strange Case of the Rogue HP-12c Calculator](https://dm319.github.io/pages/2024_09_09_hp12_comma.html)
 * [2024-09-12, 17:11:18](https://news.ycombinator.com/item?id=41523098) - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
 * [2024-09-12, 17:08:46](https://news.ycombinator.com/item?id=41523070) - [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 16:32:48](https://news.ycombinator.com/item?id=41522670) - [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
@@ -27,7 +28,6 @@
 * [2024-09-09, 14:46:07](https://news.ycombinator.com/item?id=41489026) - [Jax and Equinox: What are they and why should I bother?](https://www.garymm.org/blog/2024/09/08/jaxwhat/)
 * [2024-09-09, 13:50:30](https://news.ycombinator.com/item?id=41488563) - [Ask HN: Should I open source my licensing server?](https://news.ycombinator.com/item?id=41488563)
 * [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
-* [2024-09-08, 19:20:56](https://news.ycombinator.com/item?id=41482473) - [Exploding Head Syndrome: What We Know About This Mysterious Disorder](https://www.sciencealert.com/exploding-head-syndrome-what-we-know-about-this-mysterious-disorder)
 * [2024-09-08, 10:19:46](https://news.ycombinator.com/item?id=41479487) - [Show HN: Goroutine Monitor Powered by eBPF](https://github.com/keisku/gmon)
 * [2024-09-07, 19:44:07](https://news.ycombinator.com/item?id=41475975) - [DEF Con 32 – AMD Sinkclose Universal Ring-2 Privilege Escalation (Not Redacted) [pdf]](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Enrique%20Nissim%20Krzysztof%20Okupski%20-%20AMD%20Sinkclose%20Universal%20Ring-2%20Privilege%20Escalation.pdf)
 

@@ -18,6 +18,7 @@
 * [2024-09-12, 19:20:24](https://news.ycombinator.com/item?id=41524498) - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
 * [2024-09-12, 19:13:45](https://news.ycombinator.com/item?id=41524441) - [Why sunlight in your eyes makes you healthier](https://jdnoc.com/light/)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
+* [2024-09-12, 18:59:41](https://news.ycombinator.com/item?id=41524294) - [The Strange Case of the Rogue HP-12c Calculator](https://dm319.github.io/pages/2024_09_09_hp12_comma.html)
 * [2024-09-12, 18:45:46](https://news.ycombinator.com/item?id=41524158) - [Reflections on using OpenAI o1 / Strawberry for 1 month](https://www.oneusefulthing.org/p/something-new-on-openais-strawberry)
 * [2024-09-12, 18:45:16](https://news.ycombinator.com/item?id=41524154) - [Intel is on life support. Can anything save it?](https://www.economist.com/business/2024/09/12/intel-is-on-life-support-can-anything-save-it)
 * [2024-09-12, 18:42:18](https://news.ycombinator.com/item?id=41524126) - [A review of OpenAI o1 and how we evaluate coding agents](https://www.cognition.ai/blog/evaluating-coding-agents)
