@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-12, 06:44:04](https://news.ycombinator.com/item?id=41518179) - [House passes $1.6B to deliver anti-China propaganda overseas](https://responsiblestatecraft.org/china-cold-war-2669160202/)
+* [2024-09-12, 05:19:22](https://news.ycombinator.com/item?id=41517831) - [The Neverending Story](https://garrettdimon.com/journal/posts/the-neverending-story)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
 * [2024-09-12, 03:22:34](https://news.ycombinator.com/item?id=41517272) - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
 * [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
-* [2024-09-12, 00:10:11](https://news.ycombinator.com/item?id=41516419) - [Antibiotics damage the colonic mucus barrier in a microbiota-independent manner](https://www.science.org/doi/10.1126/sciadv.adp4119)
 * [2024-09-11, 23:50:25](https://news.ycombinator.com/item?id=41516327) - [Be a Thermostat, Not a Thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
 * [2024-09-11, 22:07:36](https://news.ycombinator.com/item?id=41515730) - [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 * [2024-09-11, 21:32:46](https://news.ycombinator.com/item?id=41515527) - [Feeld dating app – Your nudes and data were publicly available](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
