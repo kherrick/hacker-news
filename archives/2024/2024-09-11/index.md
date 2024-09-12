@@ -10,6 +10,7 @@
 * [2024-09-11, 22:07:36](https://news.ycombinator.com/item?id=41515730) - [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 * [2024-09-11, 21:52:32](https://news.ycombinator.com/item?id=41515649) - [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
 * [2024-09-11, 21:42:39](https://news.ycombinator.com/item?id=41515588) - [Android now allows apps to block sideloading](https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/)
+* [2024-09-11, 21:32:46](https://news.ycombinator.com/item?id=41515527) - [Feeld dating app – Your nudes and data were publicly available](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
 * [2024-09-11, 21:00:59](https://news.ycombinator.com/item?id=41515304) - [PathPilot (YC S24) Is Hiring a Founding AI and Full-Stack Engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
 * [2024-09-11, 20:39:43](https://news.ycombinator.com/item?id=41515167) - [Ask HN: Are Open Source Projects Products?](https://news.ycombinator.com/item?id=41515167)
 * [2024-09-11, 20:29:52](https://news.ycombinator.com/item?id=41515101) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
