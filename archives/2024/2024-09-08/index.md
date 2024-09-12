@@ -61,6 +61,7 @@
 * [2024-09-08, 11:07:14](https://news.ycombinator.com/item?id=41479682) - [Warner Brothers Cartoon Companion](http://www.warnercompanion.com/eowbcc-d.html)
 * [2024-09-08, 10:57:55](https://news.ycombinator.com/item?id=41479637) - [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
 * [2024-09-08, 10:32:00](https://news.ycombinator.com/item?id=41479539) - [PSA: Eget That Executable from GitHub](https://taras.glek.net/post/eget-that-binary-from-github/)
+* [2024-09-08, 10:19:46](https://news.ycombinator.com/item?id=41479487) - [Show HN: Goroutine Monitor Powered by eBPF](https://github.com/keisku/gmon)
 * [2024-09-08, 09:53:49](https://news.ycombinator.com/item?id=41479365) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 09:36:41](https://news.ycombinator.com/item?id=41479283) - [Don't defer Close() on writable files](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
 * [2024-09-08, 09:34:00](https://news.ycombinator.com/item?id=41479266) - [Concrete clickbait: next time you share a spomenik photo, think abt what it mean](https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley)

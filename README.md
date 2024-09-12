@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-12, 15:18:43](https://news.ycombinator.com/item?id=41521919) - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
+* [2024-09-12, 14:03:59](https://news.ycombinator.com/item?id=41521121) - [Show HN: Repogather – copy relevant files to clipboard for LLM coding workflows](https://github.com/gr-b/repogather)
 * [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
 * [2024-09-12, 13:05:40](https://news.ycombinator.com/item?id=41520465) - [Old Easter Island genomes show no sign of a population collapse](https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/)
@@ -13,8 +15,6 @@
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
 * [2024-09-12, 07:56:30](https://news.ycombinator.com/item?id=41518533) - [Peer Gynt quilt, Part 1 (2021)](https://www.icemoonprison.com/blog/archives/282)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
-* [2024-09-12, 03:22:34](https://news.ycombinator.com/item?id=41517272) - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
-* [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 * [2024-09-11, 23:50:25](https://news.ycombinator.com/item?id=41516327) - [Be a thermostat, not a thermometer (2023)](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
 * [2024-09-11, 22:07:36](https://news.ycombinator.com/item?id=41515730) - [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 * [2024-09-11, 21:22:05](https://news.ycombinator.com/item?id=41515447) - [Why Oxide Chose Illumos](https://rfd.shared.oxide.computer/rfd/0026)
@@ -25,10 +25,10 @@
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 07:01:01](https://news.ycombinator.com/item?id=41508752) - [AppleWatchAmmeter](https://github.com/jp3141/AppleWatchAmmeter)
 * [2024-09-10, 14:02:53](https://news.ycombinator.com/item?id=41500865) - [Critical Resources and the First 14 KB (2022)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
-* [2024-09-09, 16:25:46](https://news.ycombinator.com/item?id=41490147) - [Transparenttextures.com](https://www.transparenttextures.com)
 * [2024-09-09, 14:47:43](https://news.ycombinator.com/item?id=41489037) - [Exponential Rate Limiting](https://dotat.at/@/2024-09-02-ewma.html)
 * [2024-09-09, 14:08:02](https://news.ycombinator.com/item?id=41488728) - [Large-Scale Generation of Transit Maps from OpenStreetMap Data](https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761#abstract)
 * [2024-09-09, 11:36:35](https://news.ycombinator.com/item?id=41487534) - [Wild Mustang and Burro Freeze Marks (2020) [pdf]](https://mustangheritagefoundation.org/wp-content/uploads/2020/12/MHF-Freezemarks.pdf)
+* [2024-09-08, 10:19:46](https://news.ycombinator.com/item?id=41479487) - [Show HN: Goroutine Monitor Powered by eBPF](https://github.com/keisku/gmon)
 * [2024-09-07, 19:44:07](https://news.ycombinator.com/item?id=41475975) - [DEF Con 32 – AMD Sinkclose Universal Ring-2 Privilege Escalation (Not Redacted) [pdf]](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Enrique%20Nissim%20Krzysztof%20Okupski%20-%20AMD%20Sinkclose%20Universal%20Ring-2%20Privilege%20Escalation.pdf)
 
 ## [Archives](archives/index.md)
