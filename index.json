@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-09-12, 03:31:23",
+      "https://news.ycombinator.com/item?id=41517312"
+    ],
+    [
+      "Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps",
+      "https://konty.app/http://localhost:4321/"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 03:19:01",
+      "https://news.ycombinator.com/item?id=41517245"
+    ],
+    [
+      "2026 Kia EV3 First Drive Review: More Like This, Please",
+      "https://www.thedrive.com/car-reviews/2026-kia-ev3-first-drive-review"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 02:21:30",
       "https://news.ycombinator.com/item?id=41516997"
     ],
     [
       "Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage",
       "https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 02:03:29",
-      "https://news.ycombinator.com/item?id=41516934"
-    ],
-    [
-      "Human drivers are to blame for most serious Waymo collisions",
-      "https://www.understandingai.org/p/human-drivers-are-to-blame-for-most"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41516476"
     ],
     [
-      "My business card runs Linux (and Ultrix), yours can too",
+      "My business card runs Linux (and Ultrix), yours can too (2022)",
       "http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "A MiniGolf game for Palm OS",
       "https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 19:47:10",
-      "https://news.ycombinator.com/item?id=41514727"
-    ],
-    [
-      "Mistral releases Pixtral 12B, its first multimodal model",
-      "https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-09-09, 14:09:09",
-      "https://news.ycombinator.com/item?id=41488738"
-    ],
-    [
-      "Show HN: HypergraphZ – A Hypergraph Implementation in Zig",
-      "https://github.com/yamafaktory/hypergraphz"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 11:52:13",
       "https://news.ycombinator.com/item?id=41487637"
     ],
@@ -297,6 +287,16 @@
     [
       "[Deploying a basic React site pt 1] Setting up a self-hosted Kubernetes cluster",
       "https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 15:12:51",
+      "https://news.ycombinator.com/item?id=41480877"
+    ],
+    [
+      "Why smart telescopes are the future of astrophotography (2022)",
+      "https://www.techradar.com/features/why-smart-telescopes-are-the-future-of-astrophotography"
     ]
   ]
 ]
