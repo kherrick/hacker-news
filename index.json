@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-12, 15:18:43",
+      "https://news.ycombinator.com/item?id=41521919"
+    ],
+    [
+      "Show HN: iFixit created a new USB-C, repairable soldering system",
+      "https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 14:03:59",
+      "https://news.ycombinator.com/item?id=41521121"
+    ],
+    [
+      "Show HN: Repogather – copy relevant files to clipboard for LLM coding workflows",
+      "https://github.com/gr-b/repogather"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 13:54:04",
       "https://news.ycombinator.com/item?id=41521002"
     ],
@@ -131,26 +151,6 @@
   ],
   [
     [
-      "2024-09-12, 03:22:34",
-      "https://news.ycombinator.com/item?id=41517272"
-    ],
-    [
-      "NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive",
-      "https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 00:53:44",
-      "https://news.ycombinator.com/item?id=41516627"
-    ],
-    [
-      "The Minneapolis Street Grid: Explained",
-      "https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/"
-    ]
-  ],
-  [
-    [
       "2024-09-11, 23:50:25",
       "https://news.ycombinator.com/item?id=41516327"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-09-09, 16:25:46",
-      "https://news.ycombinator.com/item?id=41490147"
-    ],
-    [
-      "Transparenttextures.com",
-      "https://www.transparenttextures.com"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 14:47:43",
       "https://news.ycombinator.com/item?id=41489037"
     ],
@@ -287,6 +277,16 @@
     [
       "Wild Mustang and Burro Freeze Marks (2020) [pdf]",
       "https://mustangheritagefoundation.org/wp-content/uploads/2020/12/MHF-Freezemarks.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 10:19:46",
+      "https://news.ycombinator.com/item?id=41479487"
+    ],
+    [
+      "Show HN: Goroutine Monitor Powered by eBPF",
+      "https://github.com/keisku/gmon"
     ]
   ],
   [
