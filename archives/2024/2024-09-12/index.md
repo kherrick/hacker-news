@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 13:19:41](https://news.ycombinator.com/item?id=41520601) - [The future of Boeing's crewed spaceflight program muddy after Starliner's return](https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/)
+* [2024-09-12, 13:05:40](https://news.ycombinator.com/item?id=41520465) - [Old Easter Island genomes show no sign of a population collapse](https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/)
 * [2024-09-12, 12:46:34](https://news.ycombinator.com/item?id=41520246) - [Java – Integrity by Default (JVMLS 2024)](https://www.youtube.com/watch?v=wNQKRBLbKIs)
 * [2024-09-12, 12:24:03](https://news.ycombinator.com/item?id=41520020) - [Giant sloth bone pendants suggest humans were in Americas earlier than thought](https://www.cnn.com/2023/07/12/americas/giant-sloth-bone-pendants-scn/index.html)
 * [2024-09-12, 11:50:56](https://news.ycombinator.com/item?id=41519753) - [Guile 3.10 now ships with support for parens-optional syntax (wisp)](https://www.draketo.de/software/wisp#guile-3.0.10)
@@ -14,6 +16,7 @@
 * [2024-09-12, 11:40:03](https://news.ycombinator.com/item?id=41519677) - [Watch live as SpaceX crew carry out first-ever commercial spacewalk](https://news.sky.com/story/spacex-polaris-dawn-spacewalk-live-first-ever-private-spacewalk-to-take-place-shortly-in-riskiest-mission-launched-by-company-13213196)
 * [2024-09-12, 11:30:17](https://news.ycombinator.com/item?id=41519623) - [SpaceX Astronauts Begin Spacewalk, Putting New Spacesuits to Test](https://www.wsj.com/science/space-astronomy/spacex-launch-polaris-dawn-space-walk-bfed7f84)
 * [2024-09-12, 11:22:20](https://news.ycombinator.com/item?id=41519567) - [SpaceX Polaris Dawn crew attempts first private spacewalk [video]](https://www.youtube.com/watch?v=ABQBEdOzrV0)
+* [2024-09-12, 11:11:09](https://news.ycombinator.com/item?id=41519502) - [NIST Draft Guidance Inherently Hostile to Open-Source AI Models](https://techfreedom.org/nist-draft-guidance-inherently-hostile-to-open-source-ai-models/)
 * [2024-09-12, 11:10:03](https://news.ycombinator.com/item?id=41519495) - [GitHub Taught Me to Micromanage](https://matthewrocklin.com/feedback.html)
 * [2024-09-12, 10:25:48](https://news.ycombinator.com/item?id=41519298) - [The True Nature of LLMs](https://opengpa.ghost.io/the-true-nature-of-llms-2/)
 * [2024-09-12, 10:22:09](https://news.ycombinator.com/item?id=41519283) - [AI took their jobs. Now they get paid to make it sound human](https://www.bbc.com/future/article/20240612-the-people-making-ai-sound-more-human)
