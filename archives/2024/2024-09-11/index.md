@@ -6,6 +6,7 @@
 
 * [2024-09-11, 23:50:25](https://news.ycombinator.com/item?id=41516327) - [Be a Thermostat, Not a Thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
 * [2024-09-11, 22:36:08](https://news.ycombinator.com/item?id=41515899) - [In Favor of Reading Aloud](https://www.raptitude.com/2024/09/in-favor-of-reading-aloud/)
+* [2024-09-11, 22:17:40](https://news.ycombinator.com/item?id=41515792) - [New PostmarketOS installations now by default use doas instead of sudo](https://postmarketos.org/edge/2024/09/11/doas-instead-of-sudo/)
 * [2024-09-11, 22:08:50](https://news.ycombinator.com/item?id=41515741) - [Federal government to outlaw doxxing, impose up to seven years' jail](https://www.abc.net.au/news/2024-09-12/albanese-government-will-outlaw-doxxing/104340372)
 * [2024-09-11, 22:07:36](https://news.ycombinator.com/item?id=41515730) - [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 * [2024-09-11, 21:52:32](https://news.ycombinator.com/item?id=41515649) - [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
