@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-12, 06:44:04](https://news.ycombinator.com/item?id=41518179) - [House passes $1.6B to deliver anti-China propaganda overseas](https://responsiblestatecraft.org/china-cold-war-2669160202/)
-* [2024-09-12, 05:19:22](https://news.ycombinator.com/item?id=41517831) - [The Neverending Story](https://garrettdimon.com/journal/posts/the-neverending-story)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
 * [2024-09-12, 03:22:34](https://news.ycombinator.com/item?id=41517272) - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
 * [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
@@ -17,6 +16,7 @@
 * [2024-09-11, 16:15:16](https://news.ycombinator.com/item?id=41512774) - [A Uruguayan company teaches people how to turn regular cars into EVs](https://restofworld.org/2024/electric-vehicle-conversions-uruguay/)
 * [2024-09-11, 15:21:02](https://news.ycombinator.com/item?id=41512207) - [David Chang on the long, hard, stupid way](https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/)
 * [2024-09-11, 15:14:44](https://news.ycombinator.com/item?id=41512142) - [Show HN: Tune LLaMa3.1 on Google Cloud TPUs](https://github.com/felafax/felafax)
+* [2024-09-11, 14:51:44](https://news.ycombinator.com/item?id=41511928) - [Scientists use magnetic nanotech to safely rewarm frozen tissues for transplant](https://phys.org/news/2024-09-scientists-magnetic-nanotech-safely-rewarm.html)
 * [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 09:11:55](https://news.ycombinator.com/item?id=41509558) - [Max Headroom and the World of Pseudo-CGI (2013)](https://www.cartoonbrew.com/cgi/max-headroom-and-the-strange-world-of-pseudo-cgi-82745.html)
 * [2024-09-11, 07:01:01](https://news.ycombinator.com/item?id=41508752) - [AppleWatchAmmeter](https://github.com/jp3141/AppleWatchAmmeter)
