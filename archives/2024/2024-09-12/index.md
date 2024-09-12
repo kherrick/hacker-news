@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 15:53:09](https://news.ycombinator.com/item?id=41522254) - [The new EVE MMO uses blockchain tech to create a \"boiling financial hellscape\"](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game/)
+* [2024-09-12, 15:47:14](https://news.ycombinator.com/item?id=41522196) - [Can LLMs Generate Novel Research Ideas?](https://www.arxiv.org/abs/2409.04109)
 * [2024-09-12, 15:18:43](https://news.ycombinator.com/item?id=41521919) - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
+* [2024-09-12, 14:15:50](https://news.ycombinator.com/item?id=41521276) - [Deal infinite damage for 4GRU, as long as the twin primes conjecture is true](https://old.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/)
 * [2024-09-12, 14:03:59](https://news.ycombinator.com/item?id=41521121) - [Show HN: Repogather – copy relevant files to clipboard for LLM coding workflows](https://github.com/gr-b/repogather)
 * [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 * [2024-09-12, 13:19:41](https://news.ycombinator.com/item?id=41520601) - [The future of Boeing's crewed spaceflight program muddy after Starliner's return](https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/)
