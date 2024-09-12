@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2024-09-12, 03:01:21",
-      "https://news.ycombinator.com/item?id=41517163"
-    ],
-    [
-      "Public Suffix List",
-      "https://publicsuffix.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 01:28:19",
-      "https://news.ycombinator.com/item?id=41516783"
-    ],
-    [
-      "ISO Panel – Trust in AI: How to build global confidence [video]",
-      "https://www.iso.org/annualmeeting/session/ai/trust"
-    ]
-  ],
-  [
-    [
       "2024-09-12, 01:15:42",
       "https://news.ycombinator.com/item?id=41516720"
     ],
@@ -71,16 +51,6 @@
   ],
   [
     [
-      "2024-09-11, 22:17:40",
-      "https://news.ycombinator.com/item?id=41515792"
-    ],
-    [
-      "New PostmarketOS installations now by default use doas instead of sudo",
-      "https://postmarketos.org/edge/2024/09/11/doas-instead-of-sudo/"
-    ]
-  ],
-  [
-    [
       "2024-09-11, 22:07:36",
       "https://news.ycombinator.com/item?id=41515730"
     ],
@@ -97,6 +67,16 @@
     [
       "Feeld dating app – Your nudes and data were publicly available",
       "https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/"
+    ]
+  ],
+  [
+    [
+      "2024-09-11, 21:22:05",
+      "https://news.ycombinator.com/item?id=41515447"
+    ],
+    [
+      "Why Oxide Chose Illumos",
+      "https://rfd.shared.oxide.computer/rfd/0026"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-09-10, 15:28:05",
+      "https://news.ycombinator.com/item?id=41501747"
+    ],
+    [
+      "Fman Build System",
+      "https://build-system.fman.io/"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 02:52:42",
       "https://news.ycombinator.com/item?id=41496731"
     ],
@@ -257,6 +247,16 @@
     [
       "Passive damping – Bathroom scales",
       "https://thinking-about-science.com/2024/09/08/24-8-passive-damping-bathroom-scales/"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 14:09:09",
+      "https://news.ycombinator.com/item?id=41488738"
+    ],
+    [
+      "Show HN: HypergraphZ – A Hypergraph Implementation in Zig",
+      "https://github.com/yamafaktory/hypergraphz"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-09-08, 15:12:51",
-      "https://news.ycombinator.com/item?id=41480877"
+      "2024-09-08, 11:57:05",
+      "https://news.ycombinator.com/item?id=41479887"
     ],
     [
-      "Why smart telescopes are the future of astrophotography (2022)",
-      "https://www.techradar.com/features/why-smart-telescopes-are-the-future-of-astrophotography"
+      "Openly Licensed Streetview with Panoramax",
+      "https://tzovar.as/open-source-streetview/"
     ]
   ]
 ]
