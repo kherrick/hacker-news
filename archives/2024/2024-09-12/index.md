@@ -19,3 +19,4 @@
 * [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 * [2024-09-12, 00:36:47](https://news.ycombinator.com/item?id=41516556) - [Videogame firms hit with EU complaint over 'tricking consumers'](https://www.reuters.com/technology/videogame-firms-hit-with-eu-complaint-over-tricking-consumers-2024-09-11/)
 * [2024-09-12, 00:21:07](https://news.ycombinator.com/item?id=41516476) - [My business card runs Linux (and Ultrix), yours can too](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
+* [2024-09-12, 00:10:11](https://news.ycombinator.com/item?id=41516419) - [Antibiotics damage the colonic mucus barrier in a microbiota-independent manner](https://www.science.org/doi/10.1126/sciadv.adp4119)
