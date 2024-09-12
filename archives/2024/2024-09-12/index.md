@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
+* [2024-09-12, 18:38:15](https://news.ycombinator.com/item?id=41524080) - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
 * [2024-09-12, 17:29:44](https://news.ycombinator.com/item?id=41523281) - [Ask HN: Is webdev getting complicated without results to show for it?](https://news.ycombinator.com/item?id=41523281)
 * [2024-09-12, 17:19:51](https://news.ycombinator.com/item?id=41523170) - [Another Extreme Low for Antarctic Sea Ice Signals a Permanent Shift](https://www.newscientist.com/article/2447700-another-extreme-low-for-antarctic-sea-ice-signals-a-permanent-shift/)
 * [2024-09-12, 17:15:11](https://news.ycombinator.com/item?id=41523128) - [OpenAI O1](https://openai.com/o1/)
