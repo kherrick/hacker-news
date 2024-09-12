@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 17:19:51](https://news.ycombinator.com/item?id=41523170) - [Another Extreme Low for Antarctic Sea Ice Signals a Permanent Shift](https://www.newscientist.com/article/2447700-another-extreme-low-for-antarctic-sea-ice-signals-a-permanent-shift/)
 * [2024-09-12, 17:15:11](https://news.ycombinator.com/item?id=41523128) - [OpenAI O1](https://openai.com/o1/)
+* [2024-09-12, 17:11:18](https://news.ycombinator.com/item?id=41523098) - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
 * [2024-09-12, 17:08:46](https://news.ycombinator.com/item?id=41523070) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 17:00:51](https://news.ycombinator.com/item?id=41522979) - [Artie (YC S23) Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
 * [2024-09-12, 16:56:16](https://news.ycombinator.com/item?id=41522931) - [Metformin decelerates aging clock in male monkeys](https://www.cell.com/cell/abstract/S0092-8674(24)00914-0)
 * [2024-09-12, 16:32:48](https://news.ycombinator.com/item?id=41522670) - [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
+* [2024-09-12, 15:59:28](https://news.ycombinator.com/item?id=41522319) - [Show HN: Ask LLMs to predict anything based on news](https://aipredict.fun/)
 * [2024-09-12, 15:53:09](https://news.ycombinator.com/item?id=41522254) - [The new EVE MMO uses blockchain tech to create a \"boiling financial hellscape\"](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game/)
 * [2024-09-12, 15:47:14](https://news.ycombinator.com/item?id=41522196) - [Can LLMs Generate Novel Research Ideas?](https://www.arxiv.org/abs/2409.04109)
 * [2024-09-12, 15:18:43](https://news.ycombinator.com/item?id=41521919) - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
