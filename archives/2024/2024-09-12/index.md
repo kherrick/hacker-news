@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 12:46:34](https://news.ycombinator.com/item?id=41520246) - [Java – Integrity by Default (JVMLS 2024)](https://www.youtube.com/watch?v=wNQKRBLbKIs)
+* [2024-09-12, 12:24:03](https://news.ycombinator.com/item?id=41520020) - [Giant sloth bone pendants suggest humans were in Americas earlier than thought](https://www.cnn.com/2023/07/12/americas/giant-sloth-bone-pendants-scn/index.html)
 * [2024-09-12, 11:50:56](https://news.ycombinator.com/item?id=41519753) - [Guile 3.10 now ships with support for parens-optional syntax (wisp)](https://www.draketo.de/software/wisp#guile-3.0.10)
 * [2024-09-12, 11:47:21](https://news.ycombinator.com/item?id=41519736) - [Officer who ignored NYPD's 'courtesy cards' receives $175K settlement](https://apnews.com/article/nypd-courtesy-card-police-misconduct-d5dfdbdad12b01a2cda864f69aa3d1aa)
+* [2024-09-12, 11:46:31](https://news.ycombinator.com/item?id=41519732) - [A Stock Prius just drove across America averaging 93.158 MPG](https://www.theautopian.com/a-prius-just-drove-across-america-averaging-93-158-mpg-setting-a-guinness-world-record/)
 * [2024-09-12, 11:43:11](https://news.ycombinator.com/item?id=41519708) - [Personal carbon footprint of the rich is vastly underestimated](https://www.cam.ac.uk/research/news/personal-carbon-footprint-of-the-rich-is-vastly-underestimated-by-rich-and-poor-alike-study-finds)
 * [2024-09-12, 11:40:24](https://news.ycombinator.com/item?id=41519680) - [Steam Families Is Here](https://store.steampowered.com/news/app/593110/view/4605582245626919823)
 * [2024-09-12, 11:40:03](https://news.ycombinator.com/item?id=41519677) - [Watch live as SpaceX crew carry out first-ever commercial spacewalk](https://news.sky.com/story/spacex-polaris-dawn-spacewalk-live-first-ever-private-spacewalk-to-take-place-shortly-in-riskiest-mission-launched-by-company-13213196)

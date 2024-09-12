@@ -43,6 +43,7 @@
 * [2024-09-09, 15:02:41](https://news.ycombinator.com/item?id=41489170) - [20% more powerful perovskite solar panels enter commercial use](https://www.oxfordpv.com/news/20-more-powerful-tandem-solar-panels-enter-commercial-use-first-time-us)
 * [2024-09-09, 15:02:32](https://news.ycombinator.com/item?id=41489167) - [ESPN AI-generated recap of retiring player's final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
 * [2024-09-09, 14:59:06](https://news.ycombinator.com/item?id=41489137) - [Rust for the small things? but what about Python?](https://dataengineeringcentral.substack.com/p/rust-for-the-small-things)
+* [2024-09-09, 14:47:43](https://news.ycombinator.com/item?id=41489037) - [Exponential Rate Limiting](https://dotat.at/@/2024-09-02-ewma.html)
 * [2024-09-09, 14:43:28](https://news.ycombinator.com/item?id=41488994) - [Smartphone Tethering: A Bigger Grind Than It Needed to Be](https://tedium.co/2024/09/08/smartphone-tethering-cellular-modem-history/)
 * [2024-09-09, 14:36:18](https://news.ycombinator.com/item?id=41488944) - [Why I Wrote Data Science for Crime Analysis with Python](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
 * [2024-09-09, 14:34:51](https://news.ycombinator.com/item?id=41488929) - [Gitea blocks PR from community, charging $$ for open-source contributions](https://github.com/go-gitea/gitea/pull/24257)
