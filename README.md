@@ -7,7 +7,7 @@
 * [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 * [2024-09-12, 00:21:07](https://news.ycombinator.com/item?id=41516476) - [My business card runs Linux (and Ultrix), yours can too](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 * [2024-09-11, 23:50:25](https://news.ycombinator.com/item?id=41516327) - [Be a Thermostat, Not a Thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
-* [2024-09-11, 21:52:32](https://news.ycombinator.com/item?id=41515649) - [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
+* [2024-09-11, 22:07:36](https://news.ycombinator.com/item?id=41515730) - [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 * [2024-09-11, 21:00:59](https://news.ycombinator.com/item?id=41515304) - [Pathpilot (YC S24) is hiring a founding AI and full-stack engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
 * [2024-09-11, 20:29:52](https://news.ycombinator.com/item?id=41515101) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [A MiniGolf game for Palm OS](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
