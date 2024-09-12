@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-09-09, 15:58:34",
-      "https://news.ycombinator.com/item?id=41489849"
-    ],
-    [
-      "Passive damping – Bathroom scales",
-      "https://thinking-about-science.com/2024/09/08/24-8-passive-damping-bathroom-scales/"
-    ]
-  ],
-  [
-    [
       "2024-09-09, 11:52:13",
       "https://news.ycombinator.com/item?id=41487637"
     ],
@@ -297,6 +287,16 @@
     [
       "Iron Gall Ink",
       "https://en.wikipedia.org/wiki/Iron_gall_ink"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 22:02:31",
+      "https://news.ycombinator.com/item?id=41483617"
+    ],
+    [
+      "[Deploying a basic React site pt 1] Setting up a self-hosted Kubernetes cluster",
+      "https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda"
     ]
   ]
 ]
