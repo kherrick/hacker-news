@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-12, 17:19:51](https://news.ycombinator.com/item?id=41523170) - [Another Extreme Low for Antarctic Sea Ice Signals a Permanent Shift](https://www.newscientist.com/article/2447700-another-extreme-low-for-antarctic-sea-ice-signals-a-permanent-shift/)
+* [2024-09-12, 17:29:44](https://news.ycombinator.com/item?id=41523281) - [Ask HN: Is webdev getting complicated without results to show for it?](https://news.ycombinator.com/item?id=41523281)
 * [2024-09-12, 17:11:18](https://news.ycombinator.com/item?id=41523098) - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
 * [2024-09-12, 17:08:46](https://news.ycombinator.com/item?id=41523070) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 17:00:51](https://news.ycombinator.com/item?id=41522979) - [Artie (YC S23) Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
@@ -14,7 +14,6 @@
 * [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
 * [2024-09-12, 13:05:40](https://news.ycombinator.com/item?id=41520465) - [Old Easter Island genomes show no sign of a population collapse](https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/)
-* [2024-09-12, 12:47:31](https://news.ycombinator.com/item?id=41520261) - [Remix's concurrent submissions are fundamentally flawed](https://dashbit.co/blog/remix-concurrent-submissions-flawed)
 * [2024-09-12, 12:07:44](https://news.ycombinator.com/item?id=41519867) - [Qubit Transistors Reach Error Correction Benchmark](https://spectrum.ieee.org/qubit-transistor)
 * [2024-09-12, 11:06:51](https://news.ycombinator.com/item?id=41519471) - [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
 * [2024-09-12, 10:14:05](https://news.ycombinator.com/item?id=41519240) - [Kolmogorov-Arnold networks may make neural networks more understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
@@ -24,6 +23,7 @@
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
 * [2024-09-11, 21:22:05](https://news.ycombinator.com/item?id=41515447) - [Why Oxide Chose Illumos](https://rfd.shared.oxide.computer/rfd/0026)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [A MiniGolf game for Palm OS](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
+* [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-10, 14:02:53](https://news.ycombinator.com/item?id=41500865) - [Critical Resources and the First 14 KB (2022)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
 * [2024-09-09, 14:47:43](https://news.ycombinator.com/item?id=41489037) - [Exponential Rate Limiting](https://dotat.at/@/2024-09-02-ewma.html)
 * [2024-09-09, 14:46:07](https://news.ycombinator.com/item?id=41489026) - [Jax and Equinox: What are they and why should I bother?](https://www.garymm.org/blog/2024/09/08/jaxwhat/)
