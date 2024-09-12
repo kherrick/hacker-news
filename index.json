@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-09-12, 17:15:11",
+      "https://news.ycombinator.com/item?id=41523128"
+    ],
+    [
+      "OpenAI O1",
+      "https://openai.com/o1/"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 17:08:46",
+      "https://news.ycombinator.com/item?id=41523070"
+    ],
+    [
+      "OpenAI O1 Model",
+      "https://openai.com/index/learning-to-reason-with-llms/"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 17:00:51",
       "https://news.ycombinator.com/item?id=41522979"
     ],
     [
       "Artie (YC S23) Is Hiring a Founding Designer",
       "https://news.ycombinator.com/item?id=41522979"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 16:56:16",
+      "https://news.ycombinator.com/item?id=41522931"
+    ],
+    [
+      "Metformin decelerates aging clock in male monkeys",
+      "https://www.cell.com/cell/abstract/S0092-8674(24)00914-0"
     ]
   ],
   [
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2024-09-12, 12:46:34",
-      "https://news.ycombinator.com/item?id=41520246"
+      "2024-09-12, 12:47:31",
+      "https://news.ycombinator.com/item?id=41520261"
     ],
     [
-      "Java – Integrity by Default (JVMLS 2024)",
-      "https://www.youtube.com/watch?v=wNQKRBLbKIs"
+      "Remix's concurrent submissions are fundamentally flawed",
+      "https://dashbit.co/blog/remix-concurrent-submissions-flawed"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Ergo: Erlang-inspired event driven actor framework in Go",
       "https://github.com/ergo-services/ergo"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 11:05:52",
-      "https://news.ycombinator.com/item?id=41519466"
-    ],
-    [
-      "Show HN: Build Your WSL Distro in Docker",
-      "https://github.com/K0IN/docker-to-wsl"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-09-11, 22:07:36",
-      "https://news.ycombinator.com/item?id=41515730"
-    ],
-    [
-      "Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown",
-      "https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1"
-    ]
-  ],
-  [
-    [
       "2024-09-11, 21:22:05",
       "https://news.ycombinator.com/item?id=41515447"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-09-11, 07:01:01",
-      "https://news.ycombinator.com/item?id=41508752"
-    ],
-    [
-      "AppleWatchAmmeter",
-      "https://github.com/jp3141/AppleWatchAmmeter"
-    ]
-  ],
-  [
-    [
       "2024-09-10, 14:02:53",
       "https://news.ycombinator.com/item?id=41500865"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2024-09-09, 14:46:07",
+      "https://news.ycombinator.com/item?id=41489026"
+    ],
+    [
+      "Jax and Equinox: What are they and why should I bother?",
+      "https://www.garymm.org/blog/2024/09/08/jaxwhat/"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 14:08:02",
       "https://news.ycombinator.com/item?id=41488728"
     ],
     [
       "Large-Scale Generation of Transit Maps from OpenStreetMap Data",
       "https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761#abstract"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 11:36:35",
-      "https://news.ycombinator.com/item?id=41487534"
-    ],
-    [
-      "Wild Mustang and Burro Freeze Marks (2020) [pdf]",
-      "https://mustangheritagefoundation.org/wp-content/uploads/2020/12/MHF-Freezemarks.pdf"
     ]
   ],
   [
