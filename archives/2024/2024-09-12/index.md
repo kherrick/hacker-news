@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 17:00:51](https://news.ycombinator.com/item?id=41522979) - [Artie (YC S23) Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
+* [2024-09-12, 16:32:48](https://news.ycombinator.com/item?id=41522670) - [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
 * [2024-09-12, 15:53:09](https://news.ycombinator.com/item?id=41522254) - [The new EVE MMO uses blockchain tech to create a \"boiling financial hellscape\"](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game/)
 * [2024-09-12, 15:47:14](https://news.ycombinator.com/item?id=41522196) - [Can LLMs Generate Novel Research Ideas?](https://www.arxiv.org/abs/2409.04109)
 * [2024-09-12, 15:18:43](https://news.ycombinator.com/item?id=41521919) - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
