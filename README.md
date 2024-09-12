@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-12, 08:44:36](https://news.ycombinator.com/item?id=41518797) - [Ask HN: What is the most expensive off-the-shelf software you have seen?](https://news.ycombinator.com/item?id=41518797)
 * [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
 * [2024-09-12, 07:43:18](https://news.ycombinator.com/item?id=41518456) - [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
 * [2024-09-12, 06:53:49](https://news.ycombinator.com/item?id=41518221) - [Startup employee claims she was fired for 'liking' a post on toxic workplaces](https://www.hindustantimes.com/trending/startup-employee-claims-she-was-fired-for-liking-a-linkedin-post-on-toxic-workplaces-101726116584028.html)
@@ -14,7 +15,6 @@
 * [2024-09-11, 20:29:52](https://news.ycombinator.com/item?id=41515101) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [A MiniGolf game for Palm OS](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy neighbor detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
-* [2024-09-11, 17:49:21](https://news.ycombinator.com/item?id=41513648) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 * [2024-09-11, 16:15:16](https://news.ycombinator.com/item?id=41512774) - [A Uruguayan company teaches people how to turn regular cars into EVs](https://restofworld.org/2024/electric-vehicle-conversions-uruguay/)
 * [2024-09-11, 15:21:02](https://news.ycombinator.com/item?id=41512207) - [David Chang on the long, hard, stupid way](https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/)
 * [2024-09-11, 15:14:44](https://news.ycombinator.com/item?id=41512142) - [Show HN: Tune LLaMa3.1 on Google Cloud TPUs](https://github.com/felafax/felafax)
