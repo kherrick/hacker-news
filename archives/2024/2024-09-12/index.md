@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
 * [2024-09-12, 22:01:18](https://news.ycombinator.com/item?id=41526074) - [Entire Annapurna Game Team Resigns](https://www.bloomberg.com/news/articles/2024-09-12/annapurna-video-game-team-resigns-leaving-partners-scrambling)
+* [2024-09-12, 21:53:39](https://news.ycombinator.com/item?id=41525987) - [Why is language documentation still so terrible?](https://walnut356.github.io/posts/language-documentation/)
 * [2024-09-12, 21:28:17](https://news.ycombinator.com/item?id=41525778) - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
 * [2024-09-12, 21:00:18](https://news.ycombinator.com/item?id=41525515) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-09-12, 20:54:03](https://news.ycombinator.com/item?id=41525447) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
