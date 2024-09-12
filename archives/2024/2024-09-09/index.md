@@ -64,6 +64,7 @@
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
 * [2024-09-09, 11:59:59](https://news.ycombinator.com/item?id=41487714) - [Show HN: Io_uring for Ruby](https://github.com/digital-fabric/iou)
 * [2024-09-09, 11:53:59](https://news.ycombinator.com/item?id=41487653) - [The Friendship that made Google huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
+* [2024-09-09, 11:52:13](https://news.ycombinator.com/item?id=41487637) - [Don't Let That Content Go to Waste](https://www.mooreds.com/wordpress/archives/3667)
 * [2024-09-09, 11:31:39](https://news.ycombinator.com/item?id=41487496) - [How to Compose Math Problems](https://www.andreinc.net/2024/07/25/how-to-compose-math-problems)
 * [2024-09-09, 11:12:37](https://news.ycombinator.com/item?id=41487360) - [Crash dummies and robot arms: How airline seats are tested](https://www.bbc.com/news/articles/c74l9p2x3dxo)
 * [2024-09-09, 11:10:43](https://news.ycombinator.com/item?id=41487350) - [Ask HN: How do you sync ongoing browser work between desktop and laptop?](https://news.ycombinator.com/item?id=41487350)
