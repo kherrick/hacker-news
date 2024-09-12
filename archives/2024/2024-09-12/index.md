@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 * [2024-09-12, 13:19:41](https://news.ycombinator.com/item?id=41520601) - [The future of Boeing's crewed spaceflight program muddy after Starliner's return](https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [Apple Vision Pro's Eye Tracking Exposed What People Type](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
 * [2024-09-12, 13:05:40](https://news.ycombinator.com/item?id=41520465) - [Old Easter Island genomes show no sign of a population collapse](https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/)
@@ -28,6 +29,7 @@
 * [2024-09-12, 08:44:36](https://news.ycombinator.com/item?id=41518797) - [Ask HN: What is the most expensive off-the-shelf software you have seen?](https://news.ycombinator.com/item?id=41518797)
 * [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
+* [2024-09-12, 07:56:30](https://news.ycombinator.com/item?id=41518533) - [Peer Gynt quilt, Part 1 (2021)](https://www.icemoonprison.com/blog/archives/282)
 * [2024-09-12, 07:43:18](https://news.ycombinator.com/item?id=41518456) - [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
 * [2024-09-12, 06:53:49](https://news.ycombinator.com/item?id=41518221) - [Startup employee claims she was fired for 'liking' a post on toxic workplaces](https://www.hindustantimes.com/trending/startup-employee-claims-she-was-fired-for-liking-a-linkedin-post-on-toxic-workplaces-101726116584028.html)
 * [2024-09-12, 06:44:04](https://news.ycombinator.com/item?id=41518179) - [House passes $1.6B to deliver anti-China propaganda overseas](https://responsiblestatecraft.org/china-cold-war-2669160202/)
