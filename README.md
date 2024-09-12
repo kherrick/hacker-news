@@ -5,7 +5,7 @@
 * [2024-09-12, 17:00:51](https://news.ycombinator.com/item?id=41522979) - [Artie (YC S23) Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
 * [2024-09-12, 16:56:16](https://news.ycombinator.com/item?id=41522931) - [Metformin decelerates aging clock in male monkeys](https://www.cell.com/cell/abstract/S0092-8674(24)00914-0)
 * [2024-09-12, 16:32:48](https://news.ycombinator.com/item?id=41522670) - [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
-* [2024-09-12, 15:47:14](https://news.ycombinator.com/item?id=41522196) - [Can LLMs Generate Novel Research Ideas?](https://www.arxiv.org/abs/2409.04109)
+* [2024-09-12, 16:10:12](https://news.ycombinator.com/item?id=41522434) - [The final release of PalmOS, 6.1 Cobalt: colour, multimedia, and multitasking](https://www.palmsource.com/palmos/cobalt.html)
 * [2024-09-12, 15:18:43](https://news.ycombinator.com/item?id=41521919) - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
 * [2024-09-12, 15:09:21](https://news.ycombinator.com/item?id=41521824) - [1913: When Hitler, Trotsky, Tito, Freud and Stalin all lived in the same place](https://www.bbc.com/news/magazine-21859771)
 * [2024-09-12, 14:03:59](https://news.ycombinator.com/item?id=41521121) - [Show HN: Repogather – copy relevant files to clipboard for LLM coding workflows](https://github.com/gr-b/repogather)
