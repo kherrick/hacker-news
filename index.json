@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-09-11, 05:47:12",
-      "https://news.ycombinator.com/item?id=41508355"
-    ],
-    [
-      "Possibly all the ways to get loop-finding in graphs wrong",
-      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/"
-    ]
-  ],
-  [
-    [
       "2024-09-11, 05:28:23",
       "https://news.ycombinator.com/item?id=41508261"
     ],
@@ -267,6 +257,16 @@
     [
       "Transparenttextures.com",
       "https://www.transparenttextures.com"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 14:09:09",
+      "https://news.ycombinator.com/item?id=41488738"
+    ],
+    [
+      "Show HN: HypergraphZ – A Hypergraph Implementation in Zig",
+      "https://github.com/yamafaktory/hypergraphz"
     ]
   ],
   [
