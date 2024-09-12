@@ -27,9 +27,9 @@
 * [2024-09-10, 14:01:42](https://news.ycombinator.com/item?id=41500856) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 * [2024-09-10, 02:52:42](https://news.ycombinator.com/item?id=41496731) - [Making progress on side projects with content-driven development](https://ntietz.com/blog/making-progress-with-content-driven-development/)
 * [2024-09-09, 16:25:46](https://news.ycombinator.com/item?id=41490147) - [Transparenttextures.com](https://www.transparenttextures.com)
-* [2024-09-09, 15:58:34](https://news.ycombinator.com/item?id=41489849) - [Passive damping – Bathroom scales](https://thinking-about-science.com/2024/09/08/24-8-passive-damping-bathroom-scales/)
 * [2024-09-09, 11:52:13](https://news.ycombinator.com/item?id=41487637) - [Don't Let That Content Go to Waste](https://www.mooreds.com/wordpress/archives/3667)
 * [2024-09-09, 00:10:03](https://news.ycombinator.com/item?id=41484357) - [Iron Gall Ink](https://en.wikipedia.org/wiki/Iron_gall_ink)
+* [2024-09-08, 22:02:31](https://news.ycombinator.com/item?id=41483617) - [[Deploying a basic React site pt 1] Setting up a self-hosted Kubernetes cluster](https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda)
 
 ## [Archives](archives/index.md)
 

@@ -8,6 +8,7 @@
 * [2024-09-08, 22:31:20](https://news.ycombinator.com/item?id=41483789) - [Linux's Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-08, 22:11:02](https://news.ycombinator.com/item?id=41483675) - [Reclaim the Stack](https://reclaim-the-stack.com)
 * [2024-09-08, 22:06:44](https://news.ycombinator.com/item?id=41483654) - [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
+* [2024-09-08, 22:02:31](https://news.ycombinator.com/item?id=41483617) - [[Deploying a basic React site pt 1] Setting up a self-hosted Kubernetes cluster](https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda)
 * [2024-09-08, 21:57:57](https://news.ycombinator.com/item?id=41483581) - [FBI recommends using an ad blocker](https://www.ic3.gov/Media/Y2022/PSA221221)
 * [2024-09-08, 21:52:04](https://news.ycombinator.com/item?id=41483541) - [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
 * [2024-09-08, 21:37:30](https://news.ycombinator.com/item?id=41483439) - [YouTube restricts teenager access to fitness videos](https://www.euronews.com/health/2024/09/07/youtube-will-begin-limiting-access-to-fitness-videos-for-european-teens-heres-why)
