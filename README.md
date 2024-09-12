@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-12, 21:28:17](https://news.ycombinator.com/item?id=41525778) - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
+* [2024-09-12, 22:01:18](https://news.ycombinator.com/item?id=41526074) - [Entire Annapurna Game Team Resigns](https://www.bloomberg.com/news/articles/2024-09-12/annapurna-video-game-team-resigns-leaving-partners-scrambling)
 * [2024-09-12, 21:00:18](https://news.ycombinator.com/item?id=41525515) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-09-12, 20:54:03](https://news.ycombinator.com/item?id=41525447) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 * [2024-09-12, 20:44:40](https://news.ycombinator.com/item?id=41525345) - [Steve Ballmer: facts on the US federal budget [video]](https://www.youtube.com/watch?v=aQoh9jdRZPM)
