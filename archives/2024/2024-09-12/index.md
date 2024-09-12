@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 19:20:24](https://news.ycombinator.com/item?id=41524498) - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 * [2024-09-12, 18:38:15](https://news.ycombinator.com/item?id=41524080) - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
 * [2024-09-12, 17:29:44](https://news.ycombinator.com/item?id=41523281) - [Ask HN: Is webdev getting complicated without results to show for it?](https://news.ycombinator.com/item?id=41523281)

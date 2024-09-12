@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-12, 19:20:24](https://news.ycombinator.com/item?id=41524498) - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 * [2024-09-12, 18:38:15](https://news.ycombinator.com/item?id=41524080) - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
 * [2024-09-12, 17:11:18](https://news.ycombinator.com/item?id=41523098) - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
@@ -24,7 +25,6 @@
 * [2024-09-11, 21:22:05](https://news.ycombinator.com/item?id=41515447) - [Why Oxide Chose Illumos](https://rfd.shared.oxide.computer/rfd/0026)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [A MiniGolf game for Palm OS](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
 * [2024-09-10, 16:19:24](https://news.ycombinator.com/item?id=41502470) - [Bplustree.app](https://bplustree.app/)
-* [2024-09-10, 14:02:53](https://news.ycombinator.com/item?id=41500865) - [Critical Resources and the First 14 KB (2022)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
 * [2024-09-09, 14:47:43](https://news.ycombinator.com/item?id=41489037) - [Exponential Rate Limiting](https://dotat.at/@/2024-09-02-ewma.html)
 * [2024-09-09, 14:46:07](https://news.ycombinator.com/item?id=41489026) - [Jax and Equinox: What are they and why should I bother?](https://www.garymm.org/blog/2024/09/08/jaxwhat/)
 * [2024-09-09, 14:08:02](https://news.ycombinator.com/item?id=41488728) - [Large-Scale Generation of Transit Maps from OpenStreetMap Data](https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761#abstract)
