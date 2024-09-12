@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
-* [2024-09-12, 13:19:41](https://news.ycombinator.com/item?id=41520601) - [The future of Boeing's crewed spaceflight program muddy after Starliner's return](https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
 * [2024-09-12, 13:05:40](https://news.ycombinator.com/item?id=41520465) - [Old Easter Island genomes show no sign of a population collapse](https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/)
 * [2024-09-12, 12:46:34](https://news.ycombinator.com/item?id=41520246) - [Java – Integrity by Default (JVMLS 2024)](https://www.youtube.com/watch?v=wNQKRBLbKIs)
@@ -14,10 +13,12 @@
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
 * [2024-09-12, 07:56:30](https://news.ycombinator.com/item?id=41518533) - [Peer Gynt quilt, Part 1 (2021)](https://www.icemoonprison.com/blog/archives/282)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
+* [2024-09-12, 03:22:34](https://news.ycombinator.com/item?id=41517272) - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
 * [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 * [2024-09-11, 23:50:25](https://news.ycombinator.com/item?id=41516327) - [Be a thermostat, not a thermometer (2023)](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
 * [2024-09-11, 22:07:36](https://news.ycombinator.com/item?id=41515730) - [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 * [2024-09-11, 21:22:05](https://news.ycombinator.com/item?id=41515447) - [Why Oxide Chose Illumos](https://rfd.shared.oxide.computer/rfd/0026)
+* [2024-09-11, 21:00:59](https://news.ycombinator.com/item?id=41515304) - [Pathpilot (YC S24) is hiring a founding AI and full-stack engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [A MiniGolf game for Palm OS](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy neighbor detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
 * [2024-09-11, 16:15:16](https://news.ycombinator.com/item?id=41512774) - [A Uruguayan company teaches people how to turn regular cars into EVs](https://restofworld.org/2024/electric-vehicle-conversions-uruguay/)
@@ -28,7 +29,6 @@
 * [2024-09-09, 14:47:43](https://news.ycombinator.com/item?id=41489037) - [Exponential Rate Limiting](https://dotat.at/@/2024-09-02-ewma.html)
 * [2024-09-09, 14:08:02](https://news.ycombinator.com/item?id=41488728) - [Large-Scale Generation of Transit Maps from OpenStreetMap Data](https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761#abstract)
 * [2024-09-09, 11:36:35](https://news.ycombinator.com/item?id=41487534) - [Wild Mustang and Burro Freeze Marks (2020) [pdf]](https://mustangheritagefoundation.org/wp-content/uploads/2020/12/MHF-Freezemarks.pdf)
-* [2024-09-08, 03:38:33](https://news.ycombinator.com/item?id=41478024) - [I wish (Linux) WireGuard had a simple way to restrict peer public IPs](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardIPRestrictionWish)
 * [2024-09-07, 19:44:07](https://news.ycombinator.com/item?id=41475975) - [DEF Con 32 – AMD Sinkclose Universal Ring-2 Privilege Escalation (Not Redacted) [pdf]](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Enrique%20Nissim%20Krzysztof%20Okupski%20-%20AMD%20Sinkclose%20Universal%20Ring-2%20Privilege%20Escalation.pdf)
 
 ## [Archives](archives/index.md)
