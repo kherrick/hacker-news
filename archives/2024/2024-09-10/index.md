@@ -52,6 +52,7 @@
 * [2024-09-10, 14:31:40](https://news.ycombinator.com/item?id=41501175) - [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
 * [2024-09-10, 14:08:37](https://news.ycombinator.com/item?id=41500938) - [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
 * [2024-09-10, 14:02:38](https://news.ycombinator.com/item?id=41500861) - [Show HN: I built a cheaper ChatGPT alternative that runs on your desktop](https://www.trynyro.com)
+* [2024-09-10, 14:01:42](https://news.ycombinator.com/item?id=41500856) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 * [2024-09-10, 14:00:23](https://news.ycombinator.com/item?id=41500840) - [PR-Agent — extension that adds AI chat to code reviews on GitHub](https://chromewebstore.google.com/detail/pr-agent-ai-powered-code/ephlnjeghhogofkifjloamocljapahnl)
 * [2024-09-10, 13:37:50](https://news.ycombinator.com/item?id=41500638) - [Show HN: Free Xcode Extension for GitHub Copilot and Codeium](https://news.ycombinator.com/item?id=41500638)
 * [2024-09-10, 13:19:29](https://news.ycombinator.com/item?id=41500522) - [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
