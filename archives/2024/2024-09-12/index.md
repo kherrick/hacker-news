@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
+* [2024-09-12, 03:19:01](https://news.ycombinator.com/item?id=41517245) - [2026 Kia EV3 First Drive Review: More Like This, Please](https://www.thedrive.com/car-reviews/2026-kia-ev3-first-drive-review)
 * [2024-09-12, 02:21:30](https://news.ycombinator.com/item?id=41516997) - [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
 * [2024-09-12, 02:03:29](https://news.ycombinator.com/item?id=41516934) - [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
 * [2024-09-12, 01:15:42](https://news.ycombinator.com/item?id=41516720) - [Show HN: Simple Alternative to Complex Project Management for Freelancers](https://news.ycombinator.com/item?id=41516720)
