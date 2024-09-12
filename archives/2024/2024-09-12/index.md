@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
 * [2024-09-12, 21:00:18](https://news.ycombinator.com/item?id=41525515) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-09-12, 20:44:40](https://news.ycombinator.com/item?id=41525345) - [Steve Ballmer: facts on the US federal budget [video]](https://www.youtube.com/watch?v=aQoh9jdRZPM)
 * [2024-09-12, 20:14:53](https://news.ycombinator.com/item?id=41525031) - [Local Privilege Escalation via MSI Installer](https://sec-consult.com/vulnerability-lab/advisory/local-privilege-escalation-via-msi-installer-in-softmaker-office-freeoffice/)
 * [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 19:35:43](https://news.ycombinator.com/item?id=41524652) - [Always support compressed response in an API service](https://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 19:20:24](https://news.ycombinator.com/item?id=41524498) - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
+* [2024-09-12, 19:13:45](https://news.ycombinator.com/item?id=41524441) - [Why sunlight in your eyes makes you healthier](https://jdnoc.com/light/)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 * [2024-09-12, 18:38:15](https://news.ycombinator.com/item?id=41524080) - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
 * [2024-09-12, 17:29:44](https://news.ycombinator.com/item?id=41523281) - [Ask HN: Is webdev getting complicated without results to show for it?](https://news.ycombinator.com/item?id=41523281)
