@@ -7,6 +7,7 @@
 * [2024-09-12, 21:00:18](https://news.ycombinator.com/item?id=41525515) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-09-12, 20:44:40](https://news.ycombinator.com/item?id=41525345) - [Steve Ballmer: facts on the US federal budget [video]](https://www.youtube.com/watch?v=aQoh9jdRZPM)
 * [2024-09-12, 20:14:53](https://news.ycombinator.com/item?id=41525031) - [Local Privilege Escalation via MSI Installer](https://sec-consult.com/vulnerability-lab/advisory/local-privilege-escalation-via-msi-installer-in-softmaker-office-freeoffice/)
+* [2024-09-12, 20:07:25](https://news.ycombinator.com/item?id=41524962) - [Faraday Future gives CEO and founder raises and bonuses after delivering 13 cars](https://techcrunch.com/2024/09/12/faraday-future-raise-bonus-matthias-aydt-jia-yueting/)
 * [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 19:35:43](https://news.ycombinator.com/item?id=41524652) - [Always support compressed response in an API service](https://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 19:20:24](https://news.ycombinator.com/item?id=41524498) - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
