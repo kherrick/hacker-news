@@ -6,6 +6,7 @@
 
 * [2024-09-12, 02:21:30](https://news.ycombinator.com/item?id=41516997) - [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
 * [2024-09-12, 02:03:29](https://news.ycombinator.com/item?id=41516934) - [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
+* [2024-09-12, 01:15:42](https://news.ycombinator.com/item?id=41516720) - [Show HN: Simple Alternative to Complex Project Management for Freelancers](https://news.ycombinator.com/item?id=41516720)
 * [2024-09-12, 01:05:13](https://news.ycombinator.com/item?id=41516673) - [Former Peruvian President Alberto Fujimori dies at age 86](https://www.latintimes.com/alberto-fujimori-former-president-peru-dies-86-after-battle-cancer-559201)
 * [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 * [2024-09-12, 00:36:47](https://news.ycombinator.com/item?id=41516556) - [Videogame firms hit with EU complaint over 'tricking consumers'](https://www.reuters.com/technology/videogame-firms-hit-with-eu-complaint-over-tricking-consumers-2024-09-11/)

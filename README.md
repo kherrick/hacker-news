@@ -2,6 +2,7 @@
 
 * [2024-09-12, 02:21:30](https://news.ycombinator.com/item?id=41516997) - [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
 * [2024-09-12, 02:03:29](https://news.ycombinator.com/item?id=41516934) - [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
+* [2024-09-12, 01:15:42](https://news.ycombinator.com/item?id=41516720) - [Show HN: Simple Alternative to Complex Project Management for Freelancers](https://news.ycombinator.com/item?id=41516720)
 * [2024-09-12, 01:05:13](https://news.ycombinator.com/item?id=41516673) - [Former Peruvian President Alberto Fujimori dies at age 86](https://www.latintimes.com/alberto-fujimori-former-president-peru-dies-86-after-battle-cancer-559201)
 * [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 * [2024-09-12, 00:21:07](https://news.ycombinator.com/item?id=41516476) - [My business card runs Linux (and Ultrix), yours can too](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
@@ -22,7 +23,6 @@
 * [2024-09-11, 06:19:52](https://news.ycombinator.com/item?id=41508530) - [OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
 * [2024-09-11, 05:47:12](https://news.ycombinator.com/item?id=41508355) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 * [2024-09-11, 05:28:23](https://news.ycombinator.com/item?id=41508261) - [The Golden Road: How Ancient India Transformed the World](https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic)
-* [2024-09-11, 02:39:27](https://news.ycombinator.com/item?id=41507563) - [How economical is your local Taco Bell?](https://taconomical.com)
 * [2024-09-10, 15:40:15](https://news.ycombinator.com/item?id=41501895) - [ClickHouse Data Modeling for Postgres Users](https://clickhouse.com/blog/postgres-to-clickhouse-data-modeling-tips)
 * [2024-09-10, 14:01:42](https://news.ycombinator.com/item?id=41500856) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 * [2024-09-10, 02:52:42](https://news.ycombinator.com/item?id=41496731) - [Making progress on side projects with content-driven development](https://ntietz.com/blog/making-progress-with-content-driven-development/)
