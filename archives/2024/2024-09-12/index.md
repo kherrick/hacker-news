@@ -41,6 +41,7 @@
 * [2024-09-12, 13:19:41](https://news.ycombinator.com/item?id=41520601) - [The future of Boeing's crewed spaceflight program muddy after Starliner's return](https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [Apple Vision Pro's Eye Tracking Exposed What People Type](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
 * [2024-09-12, 13:05:40](https://news.ycombinator.com/item?id=41520465) - [Old Easter Island genomes show no sign of a population collapse](https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/)
+* [2024-09-12, 13:04:50](https://news.ycombinator.com/item?id=41520451) - [Show HN: I built TikTok but for studying with quizzes from your own notes](https://superstudentai.com/)
 * [2024-09-12, 12:47:31](https://news.ycombinator.com/item?id=41520261) - [Remix's concurrent submissions are fundamentally flawed](https://dashbit.co/blog/remix-concurrent-submissions-flawed)
 * [2024-09-12, 12:46:34](https://news.ycombinator.com/item?id=41520246) - [Java – Integrity by Default (JVMLS 2024)](https://www.youtube.com/watch?v=wNQKRBLbKIs)
 * [2024-09-12, 12:24:03](https://news.ycombinator.com/item?id=41520020) - [Giant sloth bone pendants suggest humans were in Americas earlier than thought](https://www.cnn.com/2023/07/12/americas/giant-sloth-bone-pendants-scn/index.html)

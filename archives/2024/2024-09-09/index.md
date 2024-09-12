@@ -81,6 +81,7 @@
 * [2024-09-09, 10:11:58](https://news.ycombinator.com/item?id=41487002) - [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
 * [2024-09-09, 10:05:07](https://news.ycombinator.com/item?id=41486970) - [Design Patterns Are Temporary, Language Features Are Forever](https://ptrtojoel.dev/posts/design-patterns-are-temporary/)
 * [2024-09-09, 09:58:45](https://news.ycombinator.com/item?id=41486935) - [Support for U.S. TikTok ban continues to decline](https://www.pewresearch.org/short-reads/2024/09/05/support-for-a-us-tiktok-ban-continues-to-decline-and-half-of-adults-doubt-it-will-happen/)
+* [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
 * [2024-09-09, 08:51:59](https://news.ycombinator.com/item?id=41486632) - [Manual 'Till It Hurts](https://adactio.com/journal/21397)
 * [2024-09-09, 08:36:52](https://news.ycombinator.com/item?id=41486565) - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
 * [2024-09-09, 06:46:36](https://news.ycombinator.com/item?id=41486029) - [Finding and optimizing N+1 queries on a relational database](https://engineering.mixpanel.com/finding-and-optimizing-n-1-queries-on-a-relational-database-1ce02f1f2ffb)
