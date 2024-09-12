@@ -61,22 +61,22 @@
   ],
   [
     [
-      "2024-09-12, 00:21:07",
-      "https://news.ycombinator.com/item?id=41516476"
-    ],
-    [
-      "My business card runs Linux and Ultrix (2022)",
-      "http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard"
-    ]
-  ],
-  [
-    [
       "2024-09-11, 23:50:25",
       "https://news.ycombinator.com/item?id=41516327"
     ],
     [
       "Be a Thermostat, Not a Thermometer",
       "https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/"
+    ]
+  ],
+  [
+    [
+      "2024-09-11, 22:17:40",
+      "https://news.ycombinator.com/item?id=41515792"
+    ],
+    [
+      "New PostmarketOS installations now by default use doas instead of sudo",
+      "https://postmarketos.org/edge/2024/09/11/doas-instead-of-sudo/"
     ]
   ],
   [
@@ -211,32 +211,22 @@
   ],
   [
     [
+      "2024-09-11, 06:19:52",
+      "https://news.ycombinator.com/item?id=41508530"
+    ],
+    [
+      "OpenSSH Keystroke Obfuscation Bypass",
+      "https://crzphil.github.io/posts/ssh-obfuscation-bypass/"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 05:28:23",
       "https://news.ycombinator.com/item?id=41508261"
     ],
     [
       "The Golden Road: How Ancient India Transformed the World",
       "https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 15:40:15",
-      "https://news.ycombinator.com/item?id=41501895"
-    ],
-    [
-      "ClickHouse Data Modeling for Postgres Users",
-      "https://clickhouse.com/blog/postgres-to-clickhouse-data-modeling-tips"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 14:01:42",
-      "https://news.ycombinator.com/item?id=41500856"
-    ],
-    [
-      "My Homelab Setup",
-      "https://arslan.io/2024/09/10/my-homelab-setup/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2024-09-09, 15:58:34",
+      "https://news.ycombinator.com/item?id=41489849"
+    ],
+    [
+      "Passive damping – Bathroom scales",
+      "https://thinking-about-science.com/2024/09/08/24-8-passive-damping-bathroom-scales/"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 14:08:02",
       "https://news.ycombinator.com/item?id=41488728"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-09-09, 11:42:02",
+      "https://news.ycombinator.com/item?id=41487567"
+    ],
+    [
+      "Searching 32M academic papers for obscene acronyms hidden in the titles (2022)",
+      "https://robmanuelfuckyeah.substack.com/p/searching-32-million-academic-papers"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 00:10:03",
       "https://news.ycombinator.com/item?id=41484357"
     ],
     [
       "Iron Gall Ink",
       "https://en.wikipedia.org/wiki/Iron_gall_ink"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 22:02:31",
-      "https://news.ycombinator.com/item?id=41483617"
-    ],
-    [
-      "[Deploying a basic React site pt 1] Setting up a self-hosted Kubernetes cluster",
-      "https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda"
     ]
   ],
   [
