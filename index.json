@@ -1,32 +1,42 @@
 [
   [
     [
+      "2024-09-12, 11:50:56",
+      "https://news.ycombinator.com/item?id=41519753"
+    ],
+    [
+      "Guile 3.10 now ships with support for parens-optional syntax (wisp)",
+      "https://www.draketo.de/software/wisp#guile-3.0.10"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 11:47:21",
+      "https://news.ycombinator.com/item?id=41519736"
+    ],
+    [
+      "Officer who ignored NYPD's 'courtesy cards' receives $175K settlement",
+      "https://apnews.com/article/nypd-courtesy-card-police-misconduct-d5dfdbdad12b01a2cda864f69aa3d1aa"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 11:43:11",
+      "https://news.ycombinator.com/item?id=41519708"
+    ],
+    [
+      "Personal carbon footprint of the rich is vastly underestimated",
+      "https://www.cam.ac.uk/research/news/personal-carbon-footprint-of-the-rich-is-vastly-underestimated-by-rich-and-poor-alike-study-finds"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 11:40:24",
       "https://news.ycombinator.com/item?id=41519680"
     ],
     [
       "Steam Families Is Here",
       "https://store.steampowered.com/news/app/593110/view/4605582245626919823"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 11:40:03",
-      "https://news.ycombinator.com/item?id=41519677"
-    ],
-    [
-      "Watch live as SpaceX crew carry out first-ever commercial spacewalk",
-      "https://news.sky.com/story/spacex-polaris-dawn-spacewalk-live-first-ever-private-spacewalk-to-take-place-shortly-in-riskiest-mission-launched-by-company-13213196"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 11:30:17",
-      "https://news.ycombinator.com/item?id=41519623"
-    ],
-    [
-      "SpaceX Astronauts Begin Spacewalk, Putting New Spacesuits to Test",
-      "https://www.wsj.com/science/space-astronomy/spacex-launch-polaris-dawn-space-walk-bfed7f84"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41519495"
     ],
     [
-      "GitHub Taught Me to Micromanage",
+      "GitHub taught me to micromanage",
       "https://matthewrocklin.com/feedback.html"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41519240"
     ],
     [
-      "Novel Architecture Makes Neural Networks More Understandable",
+      "Kolmogorov-Arnold networks may make neural networks more understandable",
       "https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "Why Haskell?",
       "https://www.gtf.io/musings/why-haskell"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 07:43:18",
-      "https://news.ycombinator.com/item?id=41518456"
-    ],
-    [
-      "Microsoft hosts a security summit but no press, public allowed",
-      "https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "The Minneapolis Street Grid: Explained",
       "https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/"
+    ]
+  ],
+  [
+    [
+      "2024-09-11, 23:50:25",
+      "https://news.ycombinator.com/item?id=41516327"
+    ],
+    [
+      "Be a thermostat, not a thermometer (2023)",
+      "https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-09-11, 05:28:23",
-      "https://news.ycombinator.com/item?id=41508261"
-    ],
-    [
-      "The Golden Road: How Ancient India Transformed the World",
-      "https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic"
-    ]
-  ],
-  [
-    [
       "2024-09-10, 16:11:55",
       "https://news.ycombinator.com/item?id=41502343"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-09-10, 02:52:42",
-      "https://news.ycombinator.com/item?id=41496731"
+      "2024-09-10, 14:02:53",
+      "https://news.ycombinator.com/item?id=41500865"
     ],
     [
-      "Making progress on side projects with content-driven development",
-      "https://ntietz.com/blog/making-progress-with-content-driven-development/"
+      "Critical Resources and the First 14 KB (2022)",
+      "https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/"
     ]
   ],
   [
