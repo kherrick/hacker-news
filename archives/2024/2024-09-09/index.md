@@ -57,6 +57,7 @@
 * [2024-09-09, 14:18:48](https://news.ycombinator.com/item?id=41488805) - [Lessons learnt building a real-time audio application in Python](https://www.vangemert.dev/#/blog/lessons-learnt-backlooper)
 * [2024-09-09, 14:09:09](https://news.ycombinator.com/item?id=41488738) - [Show HN: HypergraphZ – A Hypergraph Implementation in Zig](https://github.com/yamafaktory/hypergraphz)
 * [2024-09-09, 14:08:02](https://news.ycombinator.com/item?id=41488728) - [Large-Scale Generation of Transit Maps from OpenStreetMap Data](https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761#abstract)
+* [2024-09-09, 13:50:30](https://news.ycombinator.com/item?id=41488563) - [Ask HN: Should I open source my licensing server?](https://news.ycombinator.com/item?id=41488563)
 * [2024-09-09, 13:33:15](https://news.ycombinator.com/item?id=41488377) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 * [2024-09-09, 13:30:42](https://news.ycombinator.com/item?id=41488353) - [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/)
 * [2024-09-09, 13:30:08](https://news.ycombinator.com/item?id=41488347) - [Show HN: Open Message Format – a compact, vendor-agnostic spec for messages](https://github.com/open-llm-initiative/open-message-format)

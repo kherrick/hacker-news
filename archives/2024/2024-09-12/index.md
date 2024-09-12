@@ -31,6 +31,7 @@
 * [2024-09-12, 17:00:51](https://news.ycombinator.com/item?id=41522979) - [Artie (YC S23) Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
 * [2024-09-12, 16:56:16](https://news.ycombinator.com/item?id=41522931) - [Metformin decelerates aging clock in male monkeys](https://www.cell.com/cell/abstract/S0092-8674(24)00914-0)
 * [2024-09-12, 16:32:48](https://news.ycombinator.com/item?id=41522670) - [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
+* [2024-09-12, 16:27:44](https://news.ycombinator.com/item?id=41522614) - [Show HN: SnazzyPDF – Convert Any JSON Data to Beautifully Formatted PDFs](https://www.snazzypdf.com/)
 * [2024-09-12, 16:10:12](https://news.ycombinator.com/item?id=41522434) - [The final release of PalmOS, 6.1 Cobalt: colour, multimedia, and multitasking](https://www.palmsource.com/palmos/cobalt.html)
 * [2024-09-12, 15:59:28](https://news.ycombinator.com/item?id=41522319) - [Show HN: Ask LLMs to predict anything based on news](https://aipredict.fun/)
 * [2024-09-12, 15:53:09](https://news.ycombinator.com/item?id=41522254) - [The new EVE MMO uses blockchain tech to create a \"boiling financial hellscape\"](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game/)
