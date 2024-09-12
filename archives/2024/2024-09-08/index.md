@@ -22,6 +22,7 @@
 * [2024-09-08, 19:48:36](https://news.ycombinator.com/item?id=41482661) - [Jd – JSON Diff and Patch](https://github.com/josephburnett/jd)
 * [2024-09-08, 19:42:12](https://news.ycombinator.com/item?id=41482620) - [With more legal action on the horizon, how long before Archive.org closes?](https://lunduke.locals.com/post/6079435/the-internet-archive-loses-appeal-as-expected)
 * [2024-09-08, 19:38:30](https://news.ycombinator.com/item?id=41482591) - [Create a online course in 10 minutes to learn anything](https://www.skillgnist.no/)
+* [2024-09-08, 19:20:56](https://news.ycombinator.com/item?id=41482473) - [Exploding Head Syndrome: What We Know About This Mysterious Disorder](https://www.sciencealert.com/exploding-head-syndrome-what-we-know-about-this-mysterious-disorder)
 * [2024-09-08, 18:51:59](https://news.ycombinator.com/item?id=41482276) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-08, 18:46:21](https://news.ycombinator.com/item?id=41482232) - [How to Tame Evil Dependencies](https://www.thoughtworks.com/insights/articles/how-to-tame-evil-dependencies)
 * [2024-09-08, 18:25:00](https://news.ycombinator.com/item?id=41482087) - [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)

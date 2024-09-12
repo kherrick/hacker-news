@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 19:35:43](https://news.ycombinator.com/item?id=41524652) - [Always support compressed response in an API service](https://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 19:20:24](https://news.ycombinator.com/item?id=41524498) - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
