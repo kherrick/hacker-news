@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-12, 19:35:43](https://news.ycombinator.com/item?id=41524652) - [Always support compressed response in an API service](https://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 19:20:24](https://news.ycombinator.com/item?id=41524498) - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 * [2024-09-12, 18:38:15](https://news.ycombinator.com/item?id=41524080) - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
@@ -21,7 +22,6 @@
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
 * [2024-09-12, 07:56:30](https://news.ycombinator.com/item?id=41518533) - [Peer Gynt quilt, Part 1 (2021)](https://www.icemoonprison.com/blog/archives/282)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
-* [2024-09-11, 23:50:25](https://news.ycombinator.com/item?id=41516327) - [Be a thermostat, not a thermometer (2023)](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
 * [2024-09-11, 21:22:05](https://news.ycombinator.com/item?id=41515447) - [Why Oxide Chose Illumos](https://rfd.shared.oxide.computer/rfd/0026)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [A MiniGolf game for Palm OS](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
 * [2024-09-10, 16:19:24](https://news.ycombinator.com/item?id=41502470) - [Bplustree.app](https://bplustree.app/)
