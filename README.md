@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-12, 05:14:47](https://news.ycombinator.com/item?id=41517811) - [Live SpaceX Polaris Dawn Spacewalk](https://www.youtube.com/watch?v=_FbnAmkb9bE)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
+* [2024-09-12, 03:22:34](https://news.ycombinator.com/item?id=41517272) - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
 * [2024-09-12, 03:01:21](https://news.ycombinator.com/item?id=41517163) - [Public Suffix List](https://publicsuffix.org/)
 * [2024-09-12, 01:28:19](https://news.ycombinator.com/item?id=41516783) - [ISO Panel – Trust in AI: How to build global confidence [video]](https://www.iso.org/annualmeeting/session/ai/trust)
 * [2024-09-12, 01:15:42](https://news.ycombinator.com/item?id=41516720) - [Show HN: Simple Alternative to Complex Project Management for Freelancers](https://news.ycombinator.com/item?id=41516720)

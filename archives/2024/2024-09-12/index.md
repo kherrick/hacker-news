@@ -6,6 +6,7 @@
 
 * [2024-09-12, 05:14:47](https://news.ycombinator.com/item?id=41517811) - [Live SpaceX Polaris Dawn Spacewalk](https://www.youtube.com/watch?v=_FbnAmkb9bE)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
+* [2024-09-12, 03:22:34](https://news.ycombinator.com/item?id=41517272) - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
 * [2024-09-12, 03:19:01](https://news.ycombinator.com/item?id=41517245) - [2026 Kia EV3 First Drive Review: More Like This, Please](https://www.thedrive.com/car-reviews/2026-kia-ev3-first-drive-review)
 * [2024-09-12, 03:01:21](https://news.ycombinator.com/item?id=41517163) - [Public Suffix List](https://publicsuffix.org/)
 * [2024-09-12, 02:21:30](https://news.ycombinator.com/item?id=41516997) - [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
