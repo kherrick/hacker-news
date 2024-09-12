@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-12, 06:44:04](https://news.ycombinator.com/item?id=41518179) - [House passes $1.6B to deliver anti-China propaganda overseas](https://responsiblestatecraft.org/china-cold-war-2669160202/)
-* [2024-09-12, 05:19:22](https://news.ycombinator.com/item?id=41517831) - [The Neverending Story](https://garrettdimon.com/journal/posts/the-neverending-story)
+* [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
+* [2024-09-12, 07:43:18](https://news.ycombinator.com/item?id=41518456) - [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
+* [2024-09-12, 06:53:49](https://news.ycombinator.com/item?id=41518221) - [Startup employee claims she was fired for 'liking' a post on toxic workplaces](https://www.hindustantimes.com/trending/startup-employee-claims-she-was-fired-for-liking-a-linkedin-post-on-toxic-workplaces-101726116584028.html)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
 * [2024-09-12, 03:22:34](https://news.ycombinator.com/item?id=41517272) - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
 * [2024-09-12, 00:53:44](https://news.ycombinator.com/item?id=41516627) - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
@@ -23,13 +24,12 @@
 * [2024-09-11, 06:19:52](https://news.ycombinator.com/item?id=41508530) - [OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
 * [2024-09-11, 05:28:23](https://news.ycombinator.com/item?id=41508261) - [The Golden Road: How Ancient India Transformed the World](https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic)
 * [2024-09-10, 16:11:55](https://news.ycombinator.com/item?id=41502343) - [How to design a game so that players figure things out rather than use a wiki?](https://gamedev.stackexchange.com/questions/211887/the-quest-for-a-wiki-less-game)
-* [2024-09-10, 15:28:05](https://news.ycombinator.com/item?id=41501747) - [Fman Build System](https://build-system.fman.io/)
 * [2024-09-10, 02:52:42](https://news.ycombinator.com/item?id=41496731) - [Making progress on side projects with content-driven development](https://ntietz.com/blog/making-progress-with-content-driven-development/)
 * [2024-09-09, 16:25:46](https://news.ycombinator.com/item?id=41490147) - [Transparenttextures.com](https://www.transparenttextures.com)
 * [2024-09-09, 15:58:34](https://news.ycombinator.com/item?id=41489849) - [Passive damping – Bathroom scales](https://thinking-about-science.com/2024/09/08/24-8-passive-damping-bathroom-scales/)
 * [2024-09-09, 14:08:02](https://news.ycombinator.com/item?id=41488728) - [Large-Scale Generation of Transit Maps from OpenStreetMap Data](https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761#abstract)
 * [2024-09-09, 00:10:03](https://news.ycombinator.com/item?id=41484357) - [Iron Gall Ink](https://en.wikipedia.org/wiki/Iron_gall_ink)
-* [2024-09-08, 11:57:05](https://news.ycombinator.com/item?id=41479887) - [Openly Licensed Streetview with Panoramax](https://tzovar.as/open-source-streetview/)
+* [2024-09-07, 19:44:07](https://news.ycombinator.com/item?id=41475975) - [DEF Con 32 – AMD Sinkclose Universal Ring-2 Privilege Escalation (Not Redacted) [pdf]](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Enrique%20Nissim%20Krzysztof%20Okupski%20-%20AMD%20Sinkclose%20Universal%20Ring-2%20Privilege%20Escalation.pdf)
 
 ## [Archives](archives/index.md)
 

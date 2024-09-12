@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
+* [2024-09-12, 07:43:18](https://news.ycombinator.com/item?id=41518456) - [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
+* [2024-09-12, 06:53:49](https://news.ycombinator.com/item?id=41518221) - [Startup employee claims she was fired for 'liking' a post on toxic workplaces](https://www.hindustantimes.com/trending/startup-employee-claims-she-was-fired-for-liking-a-linkedin-post-on-toxic-workplaces-101726116584028.html)
 * [2024-09-12, 06:44:04](https://news.ycombinator.com/item?id=41518179) - [House passes $1.6B to deliver anti-China propaganda overseas](https://responsiblestatecraft.org/china-cold-war-2669160202/)
 * [2024-09-12, 05:19:22](https://news.ycombinator.com/item?id=41517831) - [The Neverending Story](https://garrettdimon.com/journal/posts/the-neverending-story)
 * [2024-09-12, 05:14:47](https://news.ycombinator.com/item?id=41517811) - [Live SpaceX Polaris Dawn Spacewalk](https://www.youtube.com/watch?v=_FbnAmkb9bE)
