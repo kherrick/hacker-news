@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 18:38:15](https://news.ycombinator.com/item?id=41524080) - [Making things people want vs. making things that alter thinking](https://rohan.ga/blog/building-stuff/)
 * [2024-09-12, 17:11:18](https://news.ycombinator.com/item?id=41523098) - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
 * [2024-09-12, 17:08:46](https://news.ycombinator.com/item?id=41523070) - [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
@@ -12,6 +11,7 @@
 * [2024-09-12, 14:03:59](https://news.ycombinator.com/item?id=41521121) - [Show HN: Repogather – copy relevant files to clipboard for LLM coding workflows](https://github.com/gr-b/repogather)
 * [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
+* [2024-09-12, 12:47:31](https://news.ycombinator.com/item?id=41520261) - [Remix's concurrent submissions are fundamentally flawed](https://dashbit.co/blog/remix-concurrent-submissions-flawed)
 * [2024-09-12, 12:07:44](https://news.ycombinator.com/item?id=41519867) - [Qubit Transistors Reach Error Correction Benchmark](https://spectrum.ieee.org/qubit-transistor)
 * [2024-09-12, 11:06:51](https://news.ycombinator.com/item?id=41519471) - [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
 * [2024-09-12, 10:14:05](https://news.ycombinator.com/item?id=41519240) - [Kolmogorov-Arnold networks may make neural networks more understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
