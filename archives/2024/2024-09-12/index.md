@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 11:40:24](https://news.ycombinator.com/item?id=41519680) - [Steam Families Is Here](https://store.steampowered.com/news/app/593110/view/4605582245626919823)
+* [2024-09-12, 11:40:03](https://news.ycombinator.com/item?id=41519677) - [Watch live as SpaceX crew carry out first-ever commercial spacewalk](https://news.sky.com/story/spacex-polaris-dawn-spacewalk-live-first-ever-private-spacewalk-to-take-place-shortly-in-riskiest-mission-launched-by-company-13213196)
+* [2024-09-12, 11:30:17](https://news.ycombinator.com/item?id=41519623) - [SpaceX Astronauts Begin Spacewalk, Putting New Spacesuits to Test](https://www.wsj.com/science/space-astronomy/spacex-launch-polaris-dawn-space-walk-bfed7f84)
+* [2024-09-12, 11:22:20](https://news.ycombinator.com/item?id=41519567) - [SpaceX Polaris Dawn crew attempts first private spacewalk [video]](https://www.youtube.com/watch?v=ABQBEdOzrV0)
+* [2024-09-12, 11:10:03](https://news.ycombinator.com/item?id=41519495) - [GitHub Taught Me to Micromanage](https://matthewrocklin.com/feedback.html)
 * [2024-09-12, 10:25:48](https://news.ycombinator.com/item?id=41519298) - [The True Nature of LLMs](https://opengpa.ghost.io/the-true-nature-of-llms-2/)
 * [2024-09-12, 10:22:09](https://news.ycombinator.com/item?id=41519283) - [AI took their jobs. Now they get paid to make it sound human](https://www.bbc.com/future/article/20240612-the-people-making-ai-sound-more-human)
 * [2024-09-12, 10:14:05](https://news.ycombinator.com/item?id=41519240) - [Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
