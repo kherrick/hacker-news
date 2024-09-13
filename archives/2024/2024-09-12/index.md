@@ -35,6 +35,7 @@
 * [2024-09-12, 17:15:11](https://news.ycombinator.com/item?id=41523128) - [OpenAI O1](https://openai.com/o1/)
 * [2024-09-12, 17:11:18](https://news.ycombinator.com/item?id=41523098) - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
 * [2024-09-12, 17:08:46](https://news.ycombinator.com/item?id=41523070) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
+* [2024-09-12, 17:06:53](https://news.ycombinator.com/item?id=41523045) - [Show HN: Search San Francisco using natural language](https://demo.bluesight.ai/)
 * [2024-09-12, 17:00:51](https://news.ycombinator.com/item?id=41522979) - [Artie (YC S23) Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
 * [2024-09-12, 16:56:16](https://news.ycombinator.com/item?id=41522931) - [Metformin decelerates aging clock in male monkeys](https://www.cell.com/cell/abstract/S0092-8674(24)00914-0)
 * [2024-09-12, 16:32:48](https://news.ycombinator.com/item?id=41522670) - [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
