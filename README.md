@@ -8,7 +8,6 @@
 * [2024-09-13, 01:51:10](https://news.ycombinator.com/item?id=41527378) - [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
 * [2024-09-13, 01:01:08](https://news.ycombinator.com/item?id=41527191) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
 * [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
-* [2024-09-12, 23:43:20](https://news.ycombinator.com/item?id=41526825) - [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
 * [2024-09-12, 23:42:32](https://news.ycombinator.com/item?id=41526821) - [Advertising platform The Trade Desk is building its own smart TV OS](https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform)
 * [2024-09-12, 23:31:48](https://news.ycombinator.com/item?id=41526754) - [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
 * [2024-09-12, 22:24:31](https://news.ycombinator.com/item?id=41526288) - [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
@@ -30,6 +29,7 @@
 * [2024-09-09, 11:19:23](https://news.ycombinator.com/item?id=41487397) - [Questions about LLMs in Group Chats](https://vineeth.io/posts/llm-groupchats)
 * [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
 * [2024-09-09, 01:06:26](https://news.ycombinator.com/item?id=41484634) - [Breaking Down OnlyFans' Economics](https://www.matthewball.co/all/fansprofitandloss)
+* [2024-09-08, 17:01:54](https://news.ycombinator.com/item?id=41481514) - [Swimmable Cities](https://www.swimmablecities.org)
 
 ## [Archives](archives/index.md)
 
