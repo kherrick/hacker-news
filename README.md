@@ -24,10 +24,10 @@
 * [2024-09-11, 16:36:24](https://news.ycombinator.com/item?id=41512971) - [How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky](https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/)
 * [2024-09-10, 15:03:27](https://news.ycombinator.com/item?id=41501494) - [Exploring the scalable matrix extension of the Apple M4 processor](https://github.com/tzakharko/m4-sme-exploration)
 * [2024-09-10, 13:31:52](https://news.ycombinator.com/item?id=41500602) - [The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician](https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/)
-* [2024-09-09, 14:21:17](https://news.ycombinator.com/item?id=41488821) - [Two Useful Prompts to Explore Intent and Behaviour](https://adrianhoward.com/posts/two-prompts-to-explore-intent-and-behaviour/)
 * [2024-09-09, 12:42:19](https://news.ycombinator.com/item?id=41487965) - [Understanding Concurrency, Parallelism and JavaScript](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)
 * [2024-09-09, 12:23:34](https://news.ycombinator.com/item?id=41487848) - [Show HN: A whiteboard that writes math equations](https://whiteboard.lasky.io/)
 * [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
+* [2024-09-09, 07:03:40](https://news.ycombinator.com/item?id=41486107) - [Build a simple fuzzer: Part 1](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 05:24:09](https://news.ycombinator.com/item?id=41485675) - [Fall of the wild: why pristine wilderness is a human-made myth](https://www.nature.com/articles/d41586-024-02761-3)
 * [2024-09-09, 01:06:26](https://news.ycombinator.com/item?id=41484634) - [Breaking Down OnlyFans' Economics](https://www.matthewball.co/all/fansprofitandloss)
 

@@ -90,6 +90,7 @@
 * [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
 * [2024-09-09, 08:51:59](https://news.ycombinator.com/item?id=41486632) - [Manual 'Till It Hurts](https://adactio.com/journal/21397)
 * [2024-09-09, 08:36:52](https://news.ycombinator.com/item?id=41486565) - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
+* [2024-09-09, 07:03:40](https://news.ycombinator.com/item?id=41486107) - [Build a simple fuzzer: Part 1](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 06:46:36](https://news.ycombinator.com/item?id=41486029) - [Finding and optimizing N+1 queries on a relational database](https://engineering.mixpanel.com/finding-and-optimizing-n-1-queries-on-a-relational-database-1ce02f1f2ffb)
 * [2024-09-09, 06:39:49](https://news.ycombinator.com/item?id=41486004) - [What I Gave Up to Become an Engineering Manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)
 * [2024-09-09, 06:30:26](https://news.ycombinator.com/item?id=41485967) - [Please Stop Inventing New Software Licences](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
