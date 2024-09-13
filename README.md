@@ -11,7 +11,7 @@
 * [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
 * [2024-09-12, 23:43:20](https://news.ycombinator.com/item?id=41526825) - [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
 * [2024-09-12, 23:42:32](https://news.ycombinator.com/item?id=41526821) - [Advertising platform The Trade Desk is building its own smart TV OS](https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform)
-* [2024-09-12, 23:31:48](https://news.ycombinator.com/item?id=41526754) - [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
+* [2024-09-12, 23:31:48](https://news.ycombinator.com/item?id=41526754) - [Notepat – Aesthetic Computer](https://aesthetic.computer/notepat)
 * [2024-09-12, 22:24:31](https://news.ycombinator.com/item?id=41526288) - [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
 * [2024-09-12, 22:07:45](https://news.ycombinator.com/item?id=41526140) - [Interview Learnings from Former CIA Intelligence Officer](https://lopespm.com/notes/2024/09/12/interview_learnings_cia.html)
 * [2024-09-12, 21:28:17](https://news.ycombinator.com/item?id=41525778) - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
