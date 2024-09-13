@@ -2,7 +2,6 @@
 
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp Implemented in Rust Macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 * [2024-09-13, 21:00:46](https://news.ycombinator.com/item?id=41535079) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-* [2024-09-13, 20:29:08](https://news.ycombinator.com/item?id=41534815) - [OpenAI acknowledges new models increase risk of misuse to create bioweapons](https://www.ft.com/content/37ba7236-2a64-4807-b1e1-7e21ee7d0914)
 * [2024-09-13, 20:24:02](https://news.ycombinator.com/item?id=41534776) - [Academics say flying to meetings harms the climate – but they carry on](https://www.nature.com/articles/d41586-024-02965-7)
 * [2024-09-13, 20:17:18](https://news.ycombinator.com/item?id=41534716) - [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 * [2024-09-13, 19:56:19](https://news.ycombinator.com/item?id=41534564) - [Demographic decline: Greece faces alarming population collapse](https://www.euronews.com/2024/09/13/demographic-decline-greece-faces-alarming-population-collapse)
@@ -23,11 +22,12 @@
 * [2024-09-12, 22:24:31](https://news.ycombinator.com/item?id=41526288) - [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 * [2024-09-11, 16:36:24](https://news.ycombinator.com/item?id=41512971) - [How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky](https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/)
+* [2024-09-11, 13:53:46](https://news.ycombinator.com/item?id=41511420) - [Tailwind CSS vs. Pico CSS (2022)](https://edofic.com/posts/2022-01-18-tailwind-vs-pico/)
 * [2024-09-10, 20:14:41](https://news.ycombinator.com/item?id=41505032) - [I Am Herman Melville](https://lareviewofbooks.org/article/i-am-herman-melville/)
 * [2024-09-10, 15:24:03](https://news.ycombinator.com/item?id=41501709) - [Irish museum solves mystery of Bronze Age axe heads delivered in porridge box](https://www.theguardian.com/science/article/2024/jul/25/irish-museum-solves-mystery-of-bronze-age-axe-heads-delivered-in-porridge-box)
 * [2024-09-10, 13:31:52](https://news.ycombinator.com/item?id=41500602) - [The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician](https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/)
 * [2024-09-10, 05:25:47](https://news.ycombinator.com/item?id=41497419) - [Don't Take Advice from a Habsburg](https://www.thedial.world/articles/news/issue-20/eduard-habsburg-the-habsburg-way-review)
-* [2024-09-09, 07:53:12](https://news.ycombinator.com/item?id=41486352) - [Ask HN: Device for Music and GPS](https://news.ycombinator.com/item?id=41486352)
+* [2024-09-09, 12:23:34](https://news.ycombinator.com/item?id=41487848) - [Show HN: A whiteboard that writes math equations](https://whiteboard.lasky.io/)
 * [2024-09-09, 07:03:40](https://news.ycombinator.com/item?id=41486107) - [Build Simple Fuzzer (2020)](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 01:06:26](https://news.ycombinator.com/item?id=41484634) - [Breaking Down OnlyFans' Economics](https://www.matthewball.co/all/fansprofitandloss)
 
