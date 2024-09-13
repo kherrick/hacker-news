@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 10:07:54",
+      "https://news.ycombinator.com/item?id=41529712"
+    ],
+    [
+      "OpenAI unveils o1, a model that can fact-check itself",
+      "https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 05:34:28",
       "https://news.ycombinator.com/item?id=41528266"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2024-09-12, 23:42:32",
+      "https://news.ycombinator.com/item?id=41526821"
+    ],
+    [
+      "Advertising platform The Trade Desk is building its own smart TV OS",
+      "https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 23:31:48",
       "https://news.ycombinator.com/item?id=41526754"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-09-12, 13:54:04",
-      "https://news.ycombinator.com/item?id=41521002"
-    ],
-    [
-      "If I could dissect a sauropod",
-      "https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/"
-    ]
-  ],
-  [
-    [
       "2024-09-12, 13:11:25",
       "https://news.ycombinator.com/item?id=41520516"
     ],
@@ -237,16 +247,6 @@
     [
       "Edge Image Builder",
       "https://www.suse.com/c/introducing-edge-image-builder/"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 14:49:05",
-      "https://news.ycombinator.com/item?id=41489047"
-    ],
-    [
-      "Random access string compression with FSST and Rust",
-      "https://blog.spiraldb.com/compressing-strings-with-fsst/"
     ]
   ],
   [
