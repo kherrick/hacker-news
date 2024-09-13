@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 23:43:20](https://news.ycombinator.com/item?id=41526825) - [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
+* [2024-09-12, 23:31:48](https://news.ycombinator.com/item?id=41526754) - [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
+* [2024-09-12, 22:24:31](https://news.ycombinator.com/item?id=41526288) - [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
 * [2024-09-12, 22:01:18](https://news.ycombinator.com/item?id=41526074) - [Entire Annapurna Game Team Resigns](https://www.bloomberg.com/news/articles/2024-09-12/annapurna-video-game-team-resigns-leaving-partners-scrambling)
 * [2024-09-12, 21:53:39](https://news.ycombinator.com/item?id=41525987) - [Why is language documentation still so terrible?](https://walnut356.github.io/posts/language-documentation/)
 * [2024-09-12, 21:28:17](https://news.ycombinator.com/item?id=41525778) - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
