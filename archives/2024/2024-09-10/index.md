@@ -89,6 +89,7 @@
 * [2024-09-10, 07:30:15](https://news.ycombinator.com/item?id=41498137) - [Make Your Own Read-Only Device with NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
 * [2024-09-10, 06:16:45](https://news.ycombinator.com/item?id=41497696) - [Taildrop lets you send files between your personal devices on Tailscale network](https://tailscale.com/kb/1106/taildrop)
 * [2024-09-10, 06:05:29](https://news.ycombinator.com/item?id=41497619) - [Is telling a model to \"not hallucinate\" absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
+* [2024-09-10, 05:25:47](https://news.ycombinator.com/item?id=41497419) - [Don't Take Advice from a Habsburg](https://www.thedial.world/articles/news/issue-20/eduard-habsburg-the-habsburg-way-review)
 * [2024-09-10, 05:15:53](https://news.ycombinator.com/item?id=41497377) - [Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
 * [2024-09-10, 04:33:39](https://news.ycombinator.com/item?id=41497180) - [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
 * [2024-09-10, 04:24:00](https://news.ycombinator.com/item?id=41497139) - [Who uses Accept-Language header?](https://serpapi.com/blog/who-uses-accept-language-header/)
