@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 23:21:10",
+      "https://news.ycombinator.com/item?id=41536088"
+    ],
+    [
+      "My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures",
+      "https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 23:07:24",
       "https://news.ycombinator.com/item?id=41536003"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2024-09-13, 18:47:20",
-      "https://news.ycombinator.com/item?id=41533958"
+      "2024-09-13, 17:05:04",
+      "https://news.ycombinator.com/item?id=41533060"
     ],
     [
-      "I won't be renewing my Pinboard subscription",
-      "https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html"
+      "Facebook scraped every Australian adult user's public posts to train AI",
+      "https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Better-performing “25519” elliptic-curve cryptography",
       "https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 00:48:01",
-      "https://news.ycombinator.com/item?id=41527143"
-    ],
-    [
-      "Notes on OpenAI's new o1 chain-of-thought models",
-      "https://simonwillison.net/2024/Sep/12/openai-o1/"
     ]
   ],
   [
