@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 23:29:40](https://news.ycombinator.com/item?id=41536131) - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 * [2024-09-13, 23:21:10](https://news.ycombinator.com/item?id=41536088) - [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 * [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 * [2024-09-13, 23:06:06](https://news.ycombinator.com/item?id=41535994) - [NextNav's Callous Land-Grab to Privatize 900 MHz](https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz)

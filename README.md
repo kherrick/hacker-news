@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 23:29:40](https://news.ycombinator.com/item?id=41536131) - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 * [2024-09-13, 23:21:10](https://news.ycombinator.com/item?id=41536088) - [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 * [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 * [2024-09-13, 23:06:06](https://news.ycombinator.com/item?id=41535994) - [NextNav's Callous Land-Grab to Privatize 900 MHz](https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz)
@@ -9,9 +10,8 @@
 * [2024-09-13, 20:17:18](https://news.ycombinator.com/item?id=41534716) - [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 * [2024-09-13, 19:44:45](https://news.ycombinator.com/item?id=41534483) - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2024-09-13, 19:43:34](https://news.ycombinator.com/item?id=41534474) - [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
-* [2024-09-13, 19:34:56](https://news.ycombinator.com/item?id=41534396) - [Richard Powers on What We Do to the Earth and What It Does to Us](https://www.newyorker.com/magazine/2024/09/16/richard-powers-profile)
 * [2024-09-13, 19:12:12](https://news.ycombinator.com/item?id=41534179) - [Modular Monoliths Are a Good Idea](https://materializedview.io/p/modular-monoliths-are-a-good-idea)
-* [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Facebook scraped every Australian adult user's public posts to train AI](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)
+* [2024-09-13, 18:47:20](https://news.ycombinator.com/item?id=41533958) - [I won't be renewing my Pinboard subscription](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
 * [2024-09-13, 16:51:46](https://news.ycombinator.com/item?id=41532958) - [I Added SVG Maps to My Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
