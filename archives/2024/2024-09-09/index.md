@@ -25,6 +25,7 @@
 * [2024-09-09, 17:28:45](https://news.ycombinator.com/item?id=41491016) - [Carpentopod: A Walking Table Project](https://www.decarpentier.nl/carpentopod)
 * [2024-09-09, 17:27:57](https://news.ycombinator.com/item?id=41491004) - [Some pterosaurs would flap, others would soar](https://phys.org/news/2024-09-pterosaurs-soar-flight-capability-giants.html)
 * [2024-09-09, 17:21:28](https://news.ycombinator.com/item?id=41490921) - [Apple Watch sleep apnea detection uses peripheral arterial tone (PAT)](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
+* [2024-09-09, 17:13:32](https://news.ycombinator.com/item?id=41490813) - [The Roman siege of Masada lasted just a few weeks, not several years](https://phys.org/news/2024-09-roman-siege-masada-weeks-years.html)
 * [2024-09-09, 16:44:21](https://news.ycombinator.com/item?id=41490384) - [300μs typo correction for 1.3M words](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
 * [2024-09-09, 16:37:29](https://news.ycombinator.com/item?id=41490290) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 16:30:46](https://news.ycombinator.com/item?id=41490196) - [Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
