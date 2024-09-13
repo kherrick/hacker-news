@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 19:12:12](https://news.ycombinator.com/item?id=41534179) - [Modular Monoliths Are a Good Idea](https://materializedview.io/p/modular-monoliths-are-a-good-idea)
 * [2024-09-13, 18:47:20](https://news.ycombinator.com/item?id=41533958) - [The End Times have come for the Pinboard bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
 * [2024-09-13, 18:37:11](https://news.ycombinator.com/item?id=41533862) - [The 34th First Annual Ig Nobel Ceremony](https://improbable.com/ig/archive/2024-ceremony/)
-* [2024-09-13, 18:27:29](https://news.ycombinator.com/item?id=41533784) - [Older Americans Are About to Lose a Lot of Weight](https://www.theatlantic.com/health/archive/2024/02/ozempic-weight-loss-older-americans-boomers/677371/)
 * [2024-09-13, 17:00:14](https://news.ycombinator.com/item?id=41533019) - [Supabase (YC S20) Is Hiring Postgres SREs [Fully Remote]](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
