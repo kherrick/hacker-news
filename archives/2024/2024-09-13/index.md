@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 * [2024-09-13, 10:07:54](https://news.ycombinator.com/item?id=41529712) - [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
 * [2024-09-13, 05:34:28](https://news.ycombinator.com/item?id=41528266) - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
 * [2024-09-13, 04:41:57](https://news.ycombinator.com/item?id=41528075) - [Boeing workers vote to strike in resounding defeat for troubled company](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)

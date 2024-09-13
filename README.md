@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 * [2024-09-13, 05:34:28](https://news.ycombinator.com/item?id=41528266) - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
 * [2024-09-13, 04:41:57](https://news.ycombinator.com/item?id=41528075) - [Boeing workers vote to strike](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
 * [2024-09-13, 04:18:47](https://news.ycombinator.com/item?id=41527991) - [Who Owns Nebula?](https://medium.com/@cameron-paul/who-actually-owns-nebula-952a1c12d9c0)
@@ -21,7 +22,6 @@
 * [2024-09-12, 10:14:05](https://news.ycombinator.com/item?id=41519240) - [Kolmogorov-Arnold networks may make neural networks more understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
 * [2024-09-11, 16:36:24](https://news.ycombinator.com/item?id=41512971) - [How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky](https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/)
-* [2024-09-10, 15:26:21](https://news.ycombinator.com/item?id=41501732) - [What Does It Take to Run Shor's Algorithm on a Quantum Computer?](https://www.quantum-machines.co/blog/what-does-it-take-for-a-control-system-to-run-shors-algorithm-on-an-error-corrected-quantum-machine/)
 * [2024-09-10, 15:03:27](https://news.ycombinator.com/item?id=41501494) - [Exploring the scalable matrix extension of the Apple M4 processor](https://github.com/tzakharko/m4-sme-exploration)
 * [2024-09-09, 14:49:05](https://news.ycombinator.com/item?id=41489047) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 14:21:17](https://news.ycombinator.com/item?id=41488821) - [Two Useful Prompts to Explore Intent and Behaviour](https://adrianhoward.com/posts/two-prompts-to-explore-intent-and-behaviour/)
