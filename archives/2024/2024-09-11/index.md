@@ -30,6 +30,7 @@
 * [2024-09-11, 16:29:14](https://news.ycombinator.com/item?id=41512899) - [Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 * [2024-09-11, 16:25:24](https://news.ycombinator.com/item?id=41512871) - [AWS AI Stack – Ready-to-Deploy Serverless AI App on AWS and Bedrock](https://github.com/serverless/aws-ai-stack)
 * [2024-09-11, 16:15:16](https://news.ycombinator.com/item?id=41512774) - [A Uruguayan company teaches people how to turn regular cars into EVs](https://restofworld.org/2024/electric-vehicle-conversions-uruguay/)
+* [2024-09-11, 16:00:05](https://news.ycombinator.com/item?id=41512618) - [The Cellular Secret to Resisting the Pressure of the Deep Sea](https://www.quantamagazine.org/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea-20240909/)
 * [2024-09-11, 15:57:18](https://news.ycombinator.com/item?id=41512587) - [Research suggests more than half of VMware customers are looking to move](https://www.theregister.com/2024/09/11/civo_vmware_research/)
 * [2024-09-11, 15:32:20](https://news.ycombinator.com/item?id=41512341) - [New Feature Alert: Access Archived Webpages Directly Through Google Search](https://blog.archive.org/2024/09/11/new-feature-alert-access-archived-webpages-directly-through-google-search/)
 * [2024-09-11, 15:30:48](https://news.ycombinator.com/item?id=41512328) - [Uber drivers in Kenya are ignoring the app and charging their own rates](https://restofworld.org/2024/kenya-uber-rate-cards-fuel-prices/)
