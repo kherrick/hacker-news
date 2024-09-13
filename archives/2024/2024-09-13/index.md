@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 21:00:46](https://news.ycombinator.com/item?id=41535079) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-09-13, 20:29:08](https://news.ycombinator.com/item?id=41534815) - [OpenAI acknowledges new models increase risk of misuse to create bioweapons](https://www.ft.com/content/37ba7236-2a64-4807-b1e1-7e21ee7d0914)
+* [2024-09-13, 20:24:02](https://news.ycombinator.com/item?id=41534776) - [Academics say flying to meetings harms the climate – but they carry on](https://www.nature.com/articles/d41586-024-02965-7)
 * [2024-09-13, 20:17:18](https://news.ycombinator.com/item?id=41534716) - [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 * [2024-09-13, 19:56:19](https://news.ycombinator.com/item?id=41534564) - [Demographic decline: Greece faces alarming population collapse](https://www.euronews.com/2024/09/13/demographic-decline-greece-faces-alarming-population-collapse)
 * [2024-09-13, 19:44:45](https://news.ycombinator.com/item?id=41534483) - [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
