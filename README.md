@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
-* [2024-09-13, 12:36:53](https://news.ycombinator.com/item?id=41530647) - [I fixed the strawberry problem because OpenAI couldn't](https://xeiaso.net/blog/2024/strawberry/)
 * [2024-09-13, 11:59:40](https://news.ycombinator.com/item?id=41530364) - [JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
 * [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 * [2024-09-13, 05:34:28](https://news.ycombinator.com/item?id=41528266) - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
@@ -25,6 +24,7 @@
 * [2024-09-11, 16:36:24](https://news.ycombinator.com/item?id=41512971) - [How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky](https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/)
 * [2024-09-10, 15:03:27](https://news.ycombinator.com/item?id=41501494) - [Exploring the scalable matrix extension of the Apple M4 processor](https://github.com/tzakharko/m4-sme-exploration)
 * [2024-09-10, 13:31:52](https://news.ycombinator.com/item?id=41500602) - [The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician](https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/)
+* [2024-09-09, 14:49:05](https://news.ycombinator.com/item?id=41489047) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 12:42:19](https://news.ycombinator.com/item?id=41487965) - [Understanding Concurrency, Parallelism and JavaScript](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)
 * [2024-09-09, 12:23:34](https://news.ycombinator.com/item?id=41487848) - [Show HN: A whiteboard that writes math equations](https://whiteboard.lasky.io/)
 * [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
