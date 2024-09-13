@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-13, 14:46:36](https://news.ycombinator.com/item?id=41531738) - [Cloud atlas of Mars reveals an atmosphere unlike our own](https://www.newscientist.com/article/2447266-cloud-atlas-of-mars-reveals-an-atmosphere-unlike-our-own/)
+* [2024-09-13, 14:04:32](https://news.ycombinator.com/item?id=41531383) - [Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 11:59:40](https://news.ycombinator.com/item?id=41530364) - [JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
 * [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
@@ -16,7 +17,6 @@
 * [2024-09-12, 21:28:17](https://news.ycombinator.com/item?id=41525778) - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 * [2024-09-12, 15:18:43](https://news.ycombinator.com/item?id=41521919) - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
-* [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
 * [2024-09-12, 10:14:05](https://news.ycombinator.com/item?id=41519240) - [Kolmogorov-Arnold networks may make neural networks more understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
