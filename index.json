@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 11:59:40",
+      "https://news.ycombinator.com/item?id=41530364"
+    ],
+    [
+      "JG Ballard's Apocalyptic Art",
+      "https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 11:33:28",
       "https://news.ycombinator.com/item?id=41530190"
     ],
@@ -67,16 +77,6 @@
     [
       "The Magnetic Field of the Milky Way (2000)",
       "https://lweb.cfa.harvard.edu/~reid/bfield.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 01:51:10",
-      "https://news.ycombinator.com/item?id=41527378"
-    ],
-    [
-      "Wallops: A modern IRC client for classic Mac OS",
-      "https://jcs.org/wallops"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-09-12, 17:11:18",
-      "https://news.ycombinator.com/item?id=41523098"
-    ],
-    [
-      "Defusedxml – defusing XML bombs and other exploits",
-      "https://github.com/tiran/defusedxml"
-    ]
-  ],
-  [
-    [
       "2024-09-12, 15:18:43",
       "https://news.ycombinator.com/item?id=41521919"
     ],
@@ -231,22 +221,32 @@
   ],
   [
     [
+      "2024-09-10, 14:05:10",
+      "https://news.ycombinator.com/item?id=41500898"
+    ],
+    [
+      "Edge Image Builder",
+      "https://www.suse.com/c/introducing-edge-image-builder/"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 13:31:52",
+      "https://news.ycombinator.com/item?id=41500602"
+    ],
+    [
+      "The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician",
+      "https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 14:49:05",
       "https://news.ycombinator.com/item?id=41489047"
     ],
     [
       "Random access string compression with FSST and Rust",
       "https://blog.spiraldb.com/compressing-strings-with-fsst/"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 14:21:17",
-      "https://news.ycombinator.com/item?id=41488821"
-    ],
-    [
-      "Two Useful Prompts to Explore Intent and Behaviour",
-      "https://adrianhoward.com/posts/two-prompts-to-explore-intent-and-behaviour/"
     ]
   ],
   [
