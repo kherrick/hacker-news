@@ -55,6 +55,7 @@
 * [2024-09-09, 14:27:48](https://news.ycombinator.com/item?id=41488879) - [The Art of the Brew: Exploring Hops and Other Plant Ingredients That Define Beer](https://worldsensorium.com/the-art-of-the-brew-exploring-hops-and-other-plant-ingredients-that-define-beer/)
 * [2024-09-09, 14:26:42](https://news.ycombinator.com/item?id=41488865) - [The Future of European Competitiveness](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en)
 * [2024-09-09, 14:24:24](https://news.ycombinator.com/item?id=41488846) - [ReMamba: Equip Mamba with Effective Long-Sequence Modeling](https://arxiv.org/abs/2408.15496)
+* [2024-09-09, 14:21:17](https://news.ycombinator.com/item?id=41488821) - [Two Useful Prompts to Explore Intent and Behaviour](https://adrianhoward.com/posts/two-prompts-to-explore-intent-and-behaviour/)
 * [2024-09-09, 14:18:48](https://news.ycombinator.com/item?id=41488805) - [Lessons learnt building a real-time audio application in Python](https://www.vangemert.dev/#/blog/lessons-learnt-backlooper)
 * [2024-09-09, 14:09:09](https://news.ycombinator.com/item?id=41488738) - [Show HN: HypergraphZ – A Hypergraph Implementation in Zig](https://github.com/yamafaktory/hypergraphz)
 * [2024-09-09, 14:08:02](https://news.ycombinator.com/item?id=41488728) - [Large-Scale Generation of Transit Maps from OpenStreetMap Data](https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761#abstract)
