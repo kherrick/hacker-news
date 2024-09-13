@@ -67,6 +67,7 @@
 * [2024-09-09, 13:00:40](https://news.ycombinator.com/item?id=41488104) - [CSS Triggers – How performant is each CSS property?](https://css-triggers.com/)
 * [2024-09-09, 12:42:19](https://news.ycombinator.com/item?id=41487965) - [Understanding Concurrency, Parallelism and JavaScript](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)
 * [2024-09-09, 12:36:10](https://news.ycombinator.com/item?id=41487930) - [Police pressured him to confess to a murder that never happened](https://www.cnn.com/2024/09/05/us/fontana-pressured-murder-confession/index.html)
+* [2024-09-09, 12:23:34](https://news.ycombinator.com/item?id=41487848) - [Show HN: A whiteboard that writes math equations](https://whiteboard.lasky.io/)
 * [2024-09-09, 12:20:47](https://news.ycombinator.com/item?id=41487833) - [Show HN: A1 – Faster, Dynamic, More Reliable NFC Transactions](https://github.com/overlay-payments/A1)
 * [2024-09-09, 12:04:56](https://news.ycombinator.com/item?id=41487749) - [The Modern CLI Renaissance](https://gabevenberg.com/posts/cli-renaissance/)
 * [2024-09-09, 12:00:23](https://news.ycombinator.com/item?id=41487717) - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)

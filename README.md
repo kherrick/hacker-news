@@ -26,9 +26,9 @@
 * [2024-09-10, 15:26:21](https://news.ycombinator.com/item?id=41501732) - [What Does It Take to Run Shor's Algorithm on a Quantum Computer?](https://www.quantum-machines.co/blog/what-does-it-take-for-a-control-system-to-run-shors-algorithm-on-an-error-corrected-quantum-machine/)
 * [2024-09-09, 14:49:05](https://news.ycombinator.com/item?id=41489047) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 12:42:19](https://news.ycombinator.com/item?id=41487965) - [Understanding Concurrency, Parallelism and JavaScript](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)
+* [2024-09-09, 12:23:34](https://news.ycombinator.com/item?id=41487848) - [Show HN: A whiteboard that writes math equations](https://whiteboard.lasky.io/)
 * [2024-09-09, 11:19:23](https://news.ycombinator.com/item?id=41487397) - [Questions about LLMs in Group Chats](https://vineeth.io/posts/llm-groupchats)
 * [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
-* [2024-09-09, 01:06:26](https://news.ycombinator.com/item?id=41484634) - [Breaking Down OnlyFans' Economics](https://www.matthewball.co/all/fansprofitandloss)
 * [2024-09-08, 17:01:54](https://news.ycombinator.com/item?id=41481514) - [Swimmable Cities](https://www.swimmablecities.org)
 
 ## [Archives](archives/index.md)
