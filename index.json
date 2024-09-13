@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 21:31:13",
+      "https://news.ycombinator.com/item?id=41535354"
+    ],
+    [
+      "Lisp Implemented in Rust Macros",
+      "https://github.com/RyanWelly/lisp-in-rs-macros"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 21:00:46",
       "https://news.ycombinator.com/item?id=41535079"
     ],
@@ -217,16 +227,6 @@
     [
       "How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky",
       "https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 13:53:46",
-      "https://news.ycombinator.com/item?id=41511420"
-    ],
-    [
-      "Tailwind CSS vs. Pico CSS (2022)",
-      "https://edofic.com/posts/2022-01-18-tailwind-vs-pico/"
     ]
   ],
   [
