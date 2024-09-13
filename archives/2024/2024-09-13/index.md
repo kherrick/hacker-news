@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 19:56:19](https://news.ycombinator.com/item?id=41534564) - [Demographic decline: Greece faces alarming population collapse](https://www.euronews.com/2024/09/13/demographic-decline-greece-faces-alarming-population-collapse)
 * [2024-09-13, 19:44:45](https://news.ycombinator.com/item?id=41534483) - [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2024-09-13, 19:43:34](https://news.ycombinator.com/item?id=41534474) - [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
 * [2024-09-13, 19:29:14](https://news.ycombinator.com/item?id=41534344) - [Tesla Semi fire in California took 50k gallons of water to extinguish](https://www.cnbc.com/2024/09/13/tesla-semi-fire-needed-50000-gallons-of-water-to-extinguish.html)
