@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 18:27:29](https://news.ycombinator.com/item?id=41533784) - [Older Americans Are About to Lose a Lot of Weight](https://www.theatlantic.com/health/archive/2024/02/ozempic-weight-loss-older-americans-boomers/677371/)
+* [2024-09-13, 18:27:15](https://news.ycombinator.com/item?id=41533779) - [Why Cloud Migrations Fail](https://thenewstack.io/why-cloud-migrations-fail/)
 * [2024-09-13, 17:36:45](https://news.ycombinator.com/item?id=41533359) - [Why freedom of speech is a wicked problem](https://no-kill-switch.ghost.io/why-freedom-of-speech-is-a-wicked-problem/)
-* [2024-09-13, 17:27:54](https://news.ycombinator.com/item?id=41533271) - [CS Career fair cancelled at community college because no companies reached out](https://twitter.com/anpaure/status/1834576613742145982)
 * [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Meta fed its AI on everything adults have publicly posted since 2007](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
 * [2024-09-13, 17:00:14](https://news.ycombinator.com/item?id=41533019) - [Supabase (YC S20) Is Hiring Postgres SREs [Fully Remote]](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
@@ -25,7 +26,6 @@
 * [2024-09-10, 15:03:27](https://news.ycombinator.com/item?id=41501494) - [Exploring the scalable matrix extension of the Apple M4 processor](https://github.com/tzakharko/m4-sme-exploration)
 * [2024-09-10, 13:31:52](https://news.ycombinator.com/item?id=41500602) - [The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician](https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/)
 * [2024-09-09, 12:23:34](https://news.ycombinator.com/item?id=41487848) - [Show HN: A whiteboard that writes math equations](https://whiteboard.lasky.io/)
-* [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
 * [2024-09-09, 07:53:12](https://news.ycombinator.com/item?id=41486352) - [Ask HN: Device for Music and GPS](https://news.ycombinator.com/item?id=41486352)
 * [2024-09-09, 07:03:40](https://news.ycombinator.com/item?id=41486107) - [Build Simple Fuzzer (2020)](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 05:24:09](https://news.ycombinator.com/item?id=41485675) - [Nature’s Ghosts: The World We Lost and How to Bring it Back](https://www.nature.com/articles/d41586-024-02761-3)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 18:27:29](https://news.ycombinator.com/item?id=41533784) - [Older Americans Are About to Lose a Lot of Weight](https://www.theatlantic.com/health/archive/2024/02/ozempic-weight-loss-older-americans-boomers/677371/)
+* [2024-09-13, 18:27:15](https://news.ycombinator.com/item?id=41533779) - [Why Cloud Migrations Fail](https://thenewstack.io/why-cloud-migrations-fail/)
 * [2024-09-13, 17:36:45](https://news.ycombinator.com/item?id=41533359) - [Why freedom of speech is a wicked problem](https://no-kill-switch.ghost.io/why-freedom-of-speech-is-a-wicked-problem/)
 * [2024-09-13, 17:27:54](https://news.ycombinator.com/item?id=41533271) - [CS Career fair cancelled at community college because no companies reached out](https://twitter.com/anpaure/status/1834576613742145982)
 * [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Meta fed its AI on everything adults have publicly posted since 2007](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
