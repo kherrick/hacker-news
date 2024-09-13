@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-09-13, 12:36:53",
-      "https://news.ycombinator.com/item?id=41530647"
-    ],
-    [
-      "I fixed the strawberry problem because OpenAI couldn't",
-      "https://xeiaso.net/blog/2024/strawberry/"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 11:59:40",
       "https://news.ycombinator.com/item?id=41530364"
     ],
@@ -247,6 +237,16 @@
     [
       "The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician",
       "https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 14:49:05",
+      "https://news.ycombinator.com/item?id=41489047"
+    ],
+    [
+      "Random access string compression with FSST and Rust",
+      "https://blog.spiraldb.com/compressing-strings-with-fsst/"
     ]
   ],
   [
