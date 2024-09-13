@@ -4,7 +4,7 @@
 * [2024-09-13, 04:41:57](https://news.ycombinator.com/item?id=41528075) - [Boeing workers vote to strike](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
 * [2024-09-13, 04:18:47](https://news.ycombinator.com/item?id=41527991) - [Who Owns Nebula?](https://medium.com/@cameron-paul/who-actually-owns-nebula-952a1c12d9c0)
 * [2024-09-13, 02:51:52](https://news.ycombinator.com/item?id=41527675) - [Better-performing “25519” elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
-* [2024-09-13, 02:29:51](https://news.ycombinator.com/item?id=41527564) - [Does Your Startup Need Complex Cloud Infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
+* [2024-09-13, 02:29:51](https://news.ycombinator.com/item?id=41527564) - [Does your startup need complex cloud infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
 * [2024-09-13, 01:54:34](https://news.ycombinator.com/item?id=41527390) - [The Magnetic Field of the Milky Way (2000)](https://lweb.cfa.harvard.edu/~reid/bfield.html)
 * [2024-09-13, 01:51:10](https://news.ycombinator.com/item?id=41527378) - [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
 * [2024-09-13, 01:01:08](https://news.ycombinator.com/item?id=41527191) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
