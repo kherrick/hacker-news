@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 16:17:55](https://news.ycombinator.com/item?id=41532605) - [Americans Clicked Ads to Get Free Cash. Their Health Insurance Changed Instead](https://www.wsj.com/health/healthcare/social-media-ads-health-insurance-scams-37d1ecfa)
 * [2024-09-13, 15:25:58](https://news.ycombinator.com/item?id=41532098) - [Linux kernel contributor swatted and handcuffed live on stream [video]](https://www.youtube.com/watch?v=FIEwcTKUFCA)
 * [2024-09-13, 14:46:36](https://news.ycombinator.com/item?id=41531738) - [Cloud atlas of Mars reveals an atmosphere unlike our own](https://www.newscientist.com/article/2447266-cloud-atlas-of-mars-reveals-an-atmosphere-unlike-our-own/)

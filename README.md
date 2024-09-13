@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-13, 16:17:55](https://news.ycombinator.com/item?id=41532605) - [Americans Clicked Ads to Get Free Cash. Their Health Insurance Changed Instead](https://www.wsj.com/health/healthcare/social-media-ads-health-insurance-scams-37d1ecfa)
+* [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 14:46:36](https://news.ycombinator.com/item?id=41531738) - [Cloud atlas of Mars reveals an atmosphere unlike our own](https://www.newscientist.com/article/2447266-cloud-atlas-of-mars-reveals-an-atmosphere-unlike-our-own/)
 * [2024-09-13, 14:04:32](https://news.ycombinator.com/item?id=41531383) - [Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
