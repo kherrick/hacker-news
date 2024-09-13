@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 23:21:10](https://news.ycombinator.com/item?id=41536088) - [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 * [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 * [2024-09-13, 23:06:06](https://news.ycombinator.com/item?id=41535994) - [NextNav's Callous Land-Grab to Privatize 900 MHz](https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz)
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
@@ -10,7 +11,7 @@
 * [2024-09-13, 19:43:34](https://news.ycombinator.com/item?id=41534474) - [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
 * [2024-09-13, 19:34:56](https://news.ycombinator.com/item?id=41534396) - [Richard Powers on What We Do to the Earth and What It Does to Us](https://www.newyorker.com/magazine/2024/09/16/richard-powers-profile)
 * [2024-09-13, 19:12:12](https://news.ycombinator.com/item?id=41534179) - [Modular Monoliths Are a Good Idea](https://materializedview.io/p/modular-monoliths-are-a-good-idea)
-* [2024-09-13, 18:47:20](https://news.ycombinator.com/item?id=41533958) - [I won't be renewing my Pinboard subscription](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
+* [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Facebook scraped every Australian adult user's public posts to train AI](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)
 * [2024-09-13, 16:51:46](https://news.ycombinator.com/item?id=41532958) - [I Added SVG Maps to My Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
@@ -19,7 +20,6 @@
 * [2024-09-13, 11:59:40](https://news.ycombinator.com/item?id=41530364) - [JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
 * [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 * [2024-09-13, 02:51:52](https://news.ycombinator.com/item?id=41527675) - [Better-performing “25519” elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
-* [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
 * [2024-09-12, 22:24:31](https://news.ycombinator.com/item?id=41526288) - [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 * [2024-09-11, 16:36:24](https://news.ycombinator.com/item?id=41512971) - [How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky](https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/)

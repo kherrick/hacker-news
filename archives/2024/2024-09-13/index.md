@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 23:21:10](https://news.ycombinator.com/item?id=41536088) - [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 * [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 * [2024-09-13, 23:06:06](https://news.ycombinator.com/item?id=41535994) - [NextNav's Callous Land-Grab to Privatize 900 MHz](https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz)
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp Implemented in Rust Macros](https://github.com/RyanWelly/lisp-in-rs-macros)
@@ -25,6 +26,7 @@
 * [2024-09-13, 17:36:45](https://news.ycombinator.com/item?id=41533359) - [Why freedom of speech is a wicked problem](https://no-kill-switch.ghost.io/why-freedom-of-speech-is-a-wicked-problem/)
 * [2024-09-13, 17:27:54](https://news.ycombinator.com/item?id=41533271) - [CS Career fair cancelled at community college because no companies reached out](https://twitter.com/anpaure/status/1834576613742145982)
 * [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Meta fed its AI on everything adults have publicly posted since 2007](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
+* [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Facebook scraped every Australian adult user's public posts to train AI](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)
 * [2024-09-13, 17:00:14](https://news.ycombinator.com/item?id=41533019) - [Supabase (YC S20) Is Hiring Postgres SREs [Fully Remote]](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-09-13, 16:51:46](https://news.ycombinator.com/item?id=41532958) - [I Added SVG Maps to My Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
