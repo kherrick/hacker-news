@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-13, 10:07:54",
-      "https://news.ycombinator.com/item?id=41529712"
-    ],
-    [
-      "OpenAI unveils o1, a model that can fact-check itself",
-      "https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 05:34:28",
       "https://news.ycombinator.com/item?id=41528266"
     ],
@@ -247,6 +237,16 @@
     [
       "Edge Image Builder",
       "https://www.suse.com/c/introducing-edge-image-builder/"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 14:49:05",
+      "https://news.ycombinator.com/item?id=41489047"
+    ],
+    [
+      "Random access string compression with FSST and Rust",
+      "https://blog.spiraldb.com/compressing-strings-with-fsst/"
     ]
   ],
   [
