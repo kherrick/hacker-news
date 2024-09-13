@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
+* [2024-09-13, 23:06:06](https://news.ycombinator.com/item?id=41535994) - [NextNav's Callous Land-Grab to Privatize 900 MHz](https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz)
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp Implemented in Rust Macros](https://github.com/RyanWelly/lisp-in-rs-macros)
+* [2024-09-13, 21:26:59](https://news.ycombinator.com/item?id=41535317) - [Unicode 16 now includes retro video game sprites [pdf]](https://www.unicode.org/charts/PDF/Unicode-16.0/U160-1CC00.pdf)
 * [2024-09-13, 21:00:46](https://news.ycombinator.com/item?id=41535079) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-09-13, 20:29:08](https://news.ycombinator.com/item?id=41534815) - [OpenAI acknowledges new models increase risk of misuse to create bioweapons](https://www.ft.com/content/37ba7236-2a64-4807-b1e1-7e21ee7d0914)
 * [2024-09-13, 20:24:02](https://news.ycombinator.com/item?id=41534776) - [Academics say flying to meetings harms the climate – but they carry on](https://www.nature.com/articles/d41586-024-02965-7)
