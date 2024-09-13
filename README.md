@@ -2,7 +2,6 @@
 
 * [2024-09-13, 19:44:45](https://news.ycombinator.com/item?id=41534483) - [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2024-09-13, 19:43:34](https://news.ycombinator.com/item?id=41534474) - [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
-* [2024-09-13, 19:29:14](https://news.ycombinator.com/item?id=41534344) - [Tesla Semi fire in California took 50k gallons of water to extinguish](https://www.cnbc.com/2024/09/13/tesla-semi-fire-needed-50000-gallons-of-water-to-extinguish.html)
 * [2024-09-13, 19:12:12](https://news.ycombinator.com/item?id=41534179) - [Modular Monoliths Are a Good Idea](https://materializedview.io/p/modular-monoliths-are-a-good-idea)
 * [2024-09-13, 18:47:20](https://news.ycombinator.com/item?id=41533958) - [The End Times have come for the Pinboard bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
 * [2024-09-13, 18:37:11](https://news.ycombinator.com/item?id=41533862) - [The 34th First Annual Ig Nobel Ceremony](https://improbable.com/ig/archive/2024-ceremony/)
@@ -22,6 +21,7 @@
 * [2024-09-12, 19:00:03](https://news.ycombinator.com/item?id=41524298) - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 * [2024-09-11, 16:36:24](https://news.ycombinator.com/item?id=41512971) - [How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky](https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/)
 * [2024-09-11, 13:53:46](https://news.ycombinator.com/item?id=41511420) - [Tailwind CSS vs. Pico CSS (2022)](https://edofic.com/posts/2022-01-18-tailwind-vs-pico/)
+* [2024-09-10, 15:46:45](https://news.ycombinator.com/item?id=41501996) - [Safe Assignment](https://nalanj.dev/posts/safe-assignment/)
 * [2024-09-10, 15:24:03](https://news.ycombinator.com/item?id=41501709) - [Irish museum solves mystery of Bronze Age axe heads delivered in porridge box](https://www.theguardian.com/science/article/2024/jul/25/irish-museum-solves-mystery-of-bronze-age-axe-heads-delivered-in-porridge-box)
 * [2024-09-10, 15:03:27](https://news.ycombinator.com/item?id=41501494) - [Exploring the scalable matrix extension of the Apple M4 processor](https://github.com/tzakharko/m4-sme-exploration)
 * [2024-09-10, 13:31:52](https://news.ycombinator.com/item?id=41500602) - [The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician](https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/)
