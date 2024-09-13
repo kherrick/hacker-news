@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-09-12, 23:42:32",
-      "https://news.ycombinator.com/item?id=41526821"
-    ],
-    [
-      "Advertising platform The Trade Desk is building its own smart TV OS",
-      "https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform"
-    ]
-  ],
-  [
-    [
       "2024-09-12, 23:31:48",
       "https://news.ycombinator.com/item?id=41526754"
     ],
@@ -117,16 +107,6 @@
     [
       "FDA Authorizes First Over-the-Counter Hearing Aid Software",
       "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 22:07:45",
-      "https://news.ycombinator.com/item?id=41526140"
-    ],
-    [
-      "Interview Learnings from Former CIA Intelligence Officer",
-      "https://lopespm.com/notes/2024/09/12/interview_learnings_cia.html"
     ]
   ],
   [
@@ -161,12 +141,12 @@
   ],
   [
     [
-      "2024-09-12, 17:08:46",
-      "https://news.ycombinator.com/item?id=41523070"
+      "2024-09-12, 17:11:18",
+      "https://news.ycombinator.com/item?id=41523098"
     ],
     [
-      "Learning to Reason with LLMs",
-      "https://openai.com/index/learning-to-reason-with-llms/"
+      "Defusedxml – defusing XML bombs and other exploits",
+      "https://github.com/tiran/defusedxml"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "Show HN: iFixit created a new USB-C, repairable soldering system",
       "https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 13:54:04",
+      "https://news.ycombinator.com/item?id=41521002"
+    ],
+    [
+      "If I could dissect a sauropod",
+      "https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Random access string compression with FSST and Rust",
       "https://blog.spiraldb.com/compressing-strings-with-fsst/"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 14:21:17",
+      "https://news.ycombinator.com/item?id=41488821"
+    ],
+    [
+      "Two Useful Prompts to Explore Intent and Behaviour",
+      "https://adrianhoward.com/posts/two-prompts-to-explore-intent-and-behaviour/"
     ]
   ],
   [
