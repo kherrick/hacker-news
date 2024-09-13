@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 18:47:20](https://news.ycombinator.com/item?id=41533958) - [The End Times have come for the Pinboard bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
+* [2024-09-13, 18:37:11](https://news.ycombinator.com/item?id=41533862) - [The 34th First Annual Ig Nobel Ceremony](https://improbable.com/ig/archive/2024-ceremony/)
 * [2024-09-13, 18:27:29](https://news.ycombinator.com/item?id=41533784) - [Older Americans Are About to Lose a Lot of Weight](https://www.theatlantic.com/health/archive/2024/02/ozempic-weight-loss-older-americans-boomers/677371/)
 * [2024-09-13, 18:27:15](https://news.ycombinator.com/item?id=41533779) - [Why Cloud Migrations Fail](https://thenewstack.io/why-cloud-migrations-fail/)
 * [2024-09-13, 17:36:45](https://news.ycombinator.com/item?id=41533359) - [Why freedom of speech is a wicked problem](https://no-kill-switch.ghost.io/why-freedom-of-speech-is-a-wicked-problem/)
