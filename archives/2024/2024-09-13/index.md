@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Meta fed its AI on everything adults have publicly posted since 2007](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
+* [2024-09-13, 17:00:14](https://news.ycombinator.com/item?id=41533019) - [Supabase (YC S20) Is Hiring Postgres SREs [Fully Remote]](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
+* [2024-09-13, 16:47:30](https://news.ycombinator.com/item?id=41532917) - [Blood, sweat and testes: rich men have always wanted to live forever](https://www.theguardian.com/wellness/2024/sep/13/rich-men-longevity-history)
 * [2024-09-13, 16:17:55](https://news.ycombinator.com/item?id=41532605) - [Americans Clicked Ads to Get Free Cash. Their Health Insurance Changed Instead](https://www.wsj.com/health/healthcare/social-media-ads-health-insurance-scams-37d1ecfa)
 * [2024-09-13, 15:25:58](https://news.ycombinator.com/item?id=41532098) - [Linux kernel contributor swatted and handcuffed live on stream [video]](https://www.youtube.com/watch?v=FIEwcTKUFCA)
 * [2024-09-13, 14:46:36](https://news.ycombinator.com/item?id=41531738) - [Cloud atlas of Mars reveals an atmosphere unlike our own](https://www.newscientist.com/article/2447266-cloud-atlas-of-mars-reveals-an-atmosphere-unlike-our-own/)
