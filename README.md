@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 19:29:14](https://news.ycombinator.com/item?id=41534344) - [Tesla Semi fire in California took 50k gallons of water to extinguish](https://www.cnbc.com/2024/09/13/tesla-semi-fire-needed-50000-gallons-of-water-to-extinguish.html)
 * [2024-09-13, 19:12:12](https://news.ycombinator.com/item?id=41534179) - [Modular Monoliths Are a Good Idea](https://materializedview.io/p/modular-monoliths-are-a-good-idea)
 * [2024-09-13, 18:47:20](https://news.ycombinator.com/item?id=41533958) - [The End Times have come for the Pinboard bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
 * [2024-09-13, 18:37:11](https://news.ycombinator.com/item?id=41533862) - [The 34th First Annual Ig Nobel Ceremony](https://improbable.com/ig/archive/2024-ceremony/)
@@ -25,7 +26,6 @@
 * [2024-09-10, 13:31:52](https://news.ycombinator.com/item?id=41500602) - [The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician](https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/)
 * [2024-09-10, 05:25:47](https://news.ycombinator.com/item?id=41497419) - [Don't Take Advice from a Habsburg](https://www.thedial.world/articles/news/issue-20/eduard-habsburg-the-habsburg-way-review)
 * [2024-09-09, 12:23:34](https://news.ycombinator.com/item?id=41487848) - [Show HN: A whiteboard that writes math equations](https://whiteboard.lasky.io/)
-* [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
 * [2024-09-09, 07:53:12](https://news.ycombinator.com/item?id=41486352) - [Ask HN: Device for Music and GPS](https://news.ycombinator.com/item?id=41486352)
 * [2024-09-09, 07:03:40](https://news.ycombinator.com/item?id=41486107) - [Build Simple Fuzzer (2020)](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 05:24:09](https://news.ycombinator.com/item?id=41485675) - [Nature’s Ghosts: The World We Lost and How to Bring it Back](https://www.nature.com/articles/d41586-024-02761-3)
