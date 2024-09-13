@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 15:25:58](https://news.ycombinator.com/item?id=41532098) - [Linux kernel contributor swatted and handcuffed live on stream [video]](https://www.youtube.com/watch?v=FIEwcTKUFCA)
+* [2024-09-13, 14:46:36](https://news.ycombinator.com/item?id=41531738) - [Cloud atlas of Mars reveals an atmosphere unlike our own](https://www.newscientist.com/article/2447266-cloud-atlas-of-mars-reveals-an-atmosphere-unlike-our-own/)
+* [2024-09-13, 14:46:11](https://news.ycombinator.com/item?id=41531726) - [Using Android Without a Google Account](https://theprivacydad.com/using-android-without-a-google-account/)
 * [2024-09-13, 13:20:58](https://news.ycombinator.com/item?id=41531021) - [Shrinking the economy won't save the planet](https://www.vox.com/future-perfect/371640/economic-growth-climate-change-degrowth-science-global-warming)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 12:36:53](https://news.ycombinator.com/item?id=41530647) - [I fixed the strawberry problem because OpenAI couldn't](https://xeiaso.net/blog/2024/strawberry/)
