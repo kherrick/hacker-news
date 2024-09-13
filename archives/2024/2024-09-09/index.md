@@ -94,6 +94,7 @@
 * [2024-09-09, 06:39:49](https://news.ycombinator.com/item?id=41486004) - [What I Gave Up to Become an Engineering Manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)
 * [2024-09-09, 06:30:26](https://news.ycombinator.com/item?id=41485967) - [Please Stop Inventing New Software Licences](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 * [2024-09-09, 05:42:06](https://news.ycombinator.com/item?id=41485751) - [The Big Baltic Bomb Cleanup](https://hakaimagazine.com/features/the-big-baltic-bomb-cleanup/)
+* [2024-09-09, 05:24:09](https://news.ycombinator.com/item?id=41485675) - [Fall of the wild: why pristine wilderness is a human-made myth](https://www.nature.com/articles/d41586-024-02761-3)
 * [2024-09-09, 04:38:01](https://news.ycombinator.com/item?id=41485492) - [Unrealized gains taxes are a pointless hassle. Much better ways to tax the rich](https://www.noahpinion.blog/p/unrealized-gains-taxes-are-a-pointless)
 * [2024-09-09, 04:36:18](https://news.ycombinator.com/item?id=41485485) - [Study links bananas, oats and yoghurt to greater diabetes risk in susceptible](https://www.theguardian.com/society/article/2024/sep/08/study-links-bananas-oats-and-yoghurt-to-greater-diabetes-risk-in-susceptible-children)
 * [2024-09-09, 04:27:12](https://news.ycombinator.com/item?id=41485447) - [The PermaTab Web Browser](https://lee-phillips.org/permatab/)

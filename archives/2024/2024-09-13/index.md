@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 12:36:53](https://news.ycombinator.com/item?id=41530647) - [I fixed the strawberry problem because OpenAI couldn't](https://xeiaso.net/blog/2024/strawberry/)
 * [2024-09-13, 11:59:40](https://news.ycombinator.com/item?id=41530364) - [JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
 * [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
