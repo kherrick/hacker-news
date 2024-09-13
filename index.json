@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-09-13, 17:05:04",
+      "https://news.ycombinator.com/item?id=41533060"
+    ],
+    [
+      "Meta fed its AI on everything adults have publicly posted since 2007",
+      "https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 17:00:14",
+      "https://news.ycombinator.com/item?id=41533019"
+    ],
+    [
+      "Supabase (YC S20) Is Hiring Postgres SREs [Fully Remote]",
+      "https://boards.greenhouse.io/supabase/jobs/5162509004"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 16:50:26",
       "https://news.ycombinator.com/item?id=41532946"
     ],
     [
       "Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS",
       "https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 16:47:30",
+      "https://news.ycombinator.com/item?id=41532917"
+    ],
+    [
+      "Blood, sweat and testes: rich men have always wanted to live forever",
+      "https://www.theguardian.com/wellness/2024/sep/13/rich-men-longevity-history"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-09-13, 01:01:08",
-      "https://news.ycombinator.com/item?id=41527191"
-    ],
-    [
-      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers",
-      "https://news.ycombinator.com/item?id=41527191"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 00:48:01",
       "https://news.ycombinator.com/item?id=41527143"
     ],
@@ -161,26 +181,6 @@
   ],
   [
     [
-      "2024-09-12, 15:18:43",
-      "https://news.ycombinator.com/item?id=41521919"
-    ],
-    [
-      "Show HN: iFixit created a new USB-C, repairable soldering system",
-      "https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 13:11:25",
-      "https://news.ycombinator.com/item?id=41520516"
-    ],
-    [
-      "GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices",
-      "https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/"
-    ]
-  ],
-  [
-    [
       "2024-09-12, 10:14:05",
       "https://news.ycombinator.com/item?id=41519240"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-09-11, 13:53:46",
+      "https://news.ycombinator.com/item?id=41511420"
+    ],
+    [
+      "Tailwind CSS vs. Pico CSS (2022)",
+      "https://edofic.com/posts/2022-01-18-tailwind-vs-pico/"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 15:46:45",
       "https://news.ycombinator.com/item?id=41501996"
     ],
@@ -237,16 +247,6 @@
     [
       "The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician",
       "https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 12:42:19",
-      "https://news.ycombinator.com/item?id=41487965"
-    ],
-    [
-      "Understanding Concurrency, Parallelism and JavaScript",
-      "https://www.rugu.dev/en/blog/concurrency-and-parallelism/"
     ]
   ],
   [
