@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 16:17:55](https://news.ycombinator.com/item?id=41532605) - [Americans Clicked Ads to Get Free Cash. Their Health Insurance Changed Instead](https://www.wsj.com/health/healthcare/social-media-ads-health-insurance-scams-37d1ecfa)
 * [2024-09-13, 14:46:36](https://news.ycombinator.com/item?id=41531738) - [Cloud atlas of Mars reveals an atmosphere unlike our own](https://www.newscientist.com/article/2447266-cloud-atlas-of-mars-reveals-an-atmosphere-unlike-our-own/)
 * [2024-09-13, 14:04:32](https://news.ycombinator.com/item?id=41531383) - [Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
@@ -8,7 +9,6 @@
 * [2024-09-13, 05:34:28](https://news.ycombinator.com/item?id=41528266) - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
 * [2024-09-13, 04:41:57](https://news.ycombinator.com/item?id=41528075) - [Boeing workers vote to strike](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
 * [2024-09-13, 02:51:52](https://news.ycombinator.com/item?id=41527675) - [Better-performing “25519” elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
-* [2024-09-13, 02:29:51](https://news.ycombinator.com/item?id=41527564) - [Does your startup need complex cloud infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
 * [2024-09-13, 01:54:34](https://news.ycombinator.com/item?id=41527390) - [The Magnetic Field of the Milky Way (2000)](https://lweb.cfa.harvard.edu/~reid/bfield.html)
 * [2024-09-13, 01:01:08](https://news.ycombinator.com/item?id=41527191) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
 * [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
