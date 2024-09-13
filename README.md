@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-13, 02:51:52](https://news.ycombinator.com/item?id=41527675) - [Better-performing \"25519\" elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
+* [2024-09-13, 02:29:51](https://news.ycombinator.com/item?id=41527564) - [Does Your Startup Need Complex Cloud Infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
 * [2024-09-13, 01:49:43](https://news.ycombinator.com/item?id=41527373) - [Music Industry's 1990s Hard Drives Are Dying](https://arstechnica.com/gadgets/2024/09/music-industrys-1990s-hard-drives-like-all-hdds-are-dying/)
 * [2024-09-13, 01:01:08](https://news.ycombinator.com/item?id=41527191) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
 * [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
@@ -15,7 +16,6 @@
 * [2024-09-12, 17:08:46](https://news.ycombinator.com/item?id=41523070) - [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 16:32:48](https://news.ycombinator.com/item?id=41522670) - [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
 * [2024-09-12, 15:18:43](https://news.ycombinator.com/item?id=41521919) - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
-* [2024-09-12, 14:03:59](https://news.ycombinator.com/item?id=41521121) - [Show HN: Repogather – copy relevant files to clipboard for LLM coding workflows](https://github.com/gr-b/repogather)
 * [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
 * [2024-09-12, 12:07:44](https://news.ycombinator.com/item?id=41519867) - [Qubit Transistors Reach Error Correction Benchmark](https://spectrum.ieee.org/qubit-transistor)
