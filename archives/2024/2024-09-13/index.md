@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 20:29:08](https://news.ycombinator.com/item?id=41534815) - [OpenAI acknowledges new models increase risk of misuse to create bioweapons](https://www.ft.com/content/37ba7236-2a64-4807-b1e1-7e21ee7d0914)
+* [2024-09-13, 20:17:18](https://news.ycombinator.com/item?id=41534716) - [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 * [2024-09-13, 19:56:19](https://news.ycombinator.com/item?id=41534564) - [Demographic decline: Greece faces alarming population collapse](https://www.euronews.com/2024/09/13/demographic-decline-greece-faces-alarming-population-collapse)
 * [2024-09-13, 19:44:45](https://news.ycombinator.com/item?id=41534483) - [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2024-09-13, 19:43:34](https://news.ycombinator.com/item?id=41534474) - [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
