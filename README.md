@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 01:49:43](https://news.ycombinator.com/item?id=41527373) - [Music Industry's 1990s Hard Drives Are Dying](https://arstechnica.com/gadgets/2024/09/music-industrys-1990s-hard-drives-like-all-hdds-are-dying/)
 * [2024-09-13, 01:01:08](https://news.ycombinator.com/item?id=41527191) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
 * [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
 * [2024-09-12, 23:43:20](https://news.ycombinator.com/item?id=41526825) - [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
@@ -24,7 +25,6 @@
 * [2024-09-09, 17:27:57](https://news.ycombinator.com/item?id=41491004) - [Some pterosaurs would flap, others would soar](https://phys.org/news/2024-09-pterosaurs-soar-flight-capability-giants.html)
 * [2024-09-09, 14:49:05](https://news.ycombinator.com/item?id=41489047) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 14:46:07](https://news.ycombinator.com/item?id=41489026) - [Jax and Equinox: What are they and why should I bother?](https://www.garymm.org/blog/2024/09/08/jaxwhat/)
-* [2024-09-09, 13:50:30](https://news.ycombinator.com/item?id=41488563) - [Ask HN: Should I open source my licensing server?](https://news.ycombinator.com/item?id=41488563)
 * [2024-09-09, 12:42:19](https://news.ycombinator.com/item?id=41487965) - [Understanding Concurrency, Parallelism and JavaScript](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)
 * [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
 * [2024-09-09, 01:06:26](https://news.ycombinator.com/item?id=41484634) - [Breaking Down OnlyFans' Economics](https://www.matthewball.co/all/fansprofitandloss)
