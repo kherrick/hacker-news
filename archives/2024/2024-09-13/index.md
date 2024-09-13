@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 05:34:28](https://news.ycombinator.com/item?id=41528266) - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
 * [2024-09-13, 04:41:57](https://news.ycombinator.com/item?id=41528075) - [Boeing workers vote to strike in resounding defeat for troubled company](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
 * [2024-09-13, 04:18:47](https://news.ycombinator.com/item?id=41527991) - [Who Owns Nebula?](https://medium.com/@cameron-paul/who-actually-owns-nebula-952a1c12d9c0)
 * [2024-09-13, 02:51:52](https://news.ycombinator.com/item?id=41527675) - [Better-performing \"25519\" elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
