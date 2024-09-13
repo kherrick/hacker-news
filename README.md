@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-13, 02:51:52](https://news.ycombinator.com/item?id=41527675) - [Better-performing \"25519\" elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
 * [2024-09-13, 01:49:43](https://news.ycombinator.com/item?id=41527373) - [Music Industry's 1990s Hard Drives Are Dying](https://arstechnica.com/gadgets/2024/09/music-industrys-1990s-hard-drives-like-all-hdds-are-dying/)
 * [2024-09-13, 01:01:08](https://news.ycombinator.com/item?id=41527191) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
 * [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
@@ -7,6 +8,7 @@
 * [2024-09-12, 23:42:32](https://news.ycombinator.com/item?id=41526821) - [Advertising platform The Trade Desk is building its own smart TV OS](https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform)
 * [2024-09-12, 23:31:48](https://news.ycombinator.com/item?id=41526754) - [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
 * [2024-09-12, 22:24:31](https://news.ycombinator.com/item?id=41526288) - [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
+* [2024-09-12, 22:07:45](https://news.ycombinator.com/item?id=41526140) - [Interview Learnings from Former CIA Intelligence Officer](https://lopespm.com/notes/2024/09/12/interview_learnings_cia.html)
 * [2024-09-12, 21:28:17](https://news.ycombinator.com/item?id=41525778) - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
 * [2024-09-12, 18:59:41](https://news.ycombinator.com/item?id=41524294) - [The Strange Case of the Rogue HP-12c Calculator](https://dm319.github.io/pages/2024_09_09_hp12_comma.html)
 * [2024-09-12, 17:11:18](https://news.ycombinator.com/item?id=41523098) - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
@@ -21,15 +23,13 @@
 * [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors (2023)](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
 * [2024-09-12, 07:56:30](https://news.ycombinator.com/item?id=41518533) - [Peer Gynt quilt, Part 1 (2021)](https://www.icemoonprison.com/blog/archives/282)
-* [2024-09-11, 11:19:12](https://news.ycombinator.com/item?id=41510252) - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-09, 17:27:57](https://news.ycombinator.com/item?id=41491004) - [Some pterosaurs would flap, others would soar](https://phys.org/news/2024-09-pterosaurs-soar-flight-capability-giants.html)
 * [2024-09-09, 14:49:05](https://news.ycombinator.com/item?id=41489047) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 14:46:07](https://news.ycombinator.com/item?id=41489026) - [Jax and Equinox: What are they and why should I bother?](https://www.garymm.org/blog/2024/09/08/jaxwhat/)
 * [2024-09-09, 12:42:19](https://news.ycombinator.com/item?id=41487965) - [Understanding Concurrency, Parallelism and JavaScript](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)
+* [2024-09-09, 11:19:23](https://news.ycombinator.com/item?id=41487397) - [Questions about LLMs in Group Chats](https://vineeth.io/posts/llm-groupchats)
 * [2024-09-09, 09:16:58](https://news.ycombinator.com/item?id=41486736) - [F3 – Fight Flash Fraud](https://fight-flash-fraud.readthedocs.io/en/latest/)
 * [2024-09-09, 01:06:26](https://news.ycombinator.com/item?id=41484634) - [Breaking Down OnlyFans' Economics](https://www.matthewball.co/all/fansprofitandloss)
-* [2024-09-08, 10:19:46](https://news.ycombinator.com/item?id=41479487) - [Show HN: Goroutine Monitor Powered by eBPF](https://github.com/keisku/gmon)
-* [2024-09-07, 19:44:07](https://news.ycombinator.com/item?id=41475975) - [DEF Con 32 – AMD Sinkclose Universal Ring-2 Privilege Escalation (Not Redacted) [pdf]](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Enrique%20Nissim%20Krzysztof%20Okupski%20-%20AMD%20Sinkclose%20Universal%20Ring-2%20Privilege%20Escalation.pdf)
 
 ## [Archives](archives/index.md)
 

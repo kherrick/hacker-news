@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 02:51:52](https://news.ycombinator.com/item?id=41527675) - [Better-performing \"25519\" elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
 * [2024-09-13, 01:49:43](https://news.ycombinator.com/item?id=41527373) - [Music Industry's 1990s Hard Drives Are Dying](https://arstechnica.com/gadgets/2024/09/music-industrys-1990s-hard-drives-like-all-hdds-are-dying/)
 * [2024-09-13, 01:01:08](https://news.ycombinator.com/item?id=41527191) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
 * [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)

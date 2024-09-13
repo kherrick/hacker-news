@@ -76,6 +76,7 @@
 * [2024-09-09, 11:42:02](https://news.ycombinator.com/item?id=41487567) - [Searching 32M academic papers for obscene acronyms hidden in the titles (2022)](https://robmanuelfuckyeah.substack.com/p/searching-32-million-academic-papers)
 * [2024-09-09, 11:36:35](https://news.ycombinator.com/item?id=41487534) - [Wild Mustang and Burro Freeze Marks (2020) [pdf]](https://mustangheritagefoundation.org/wp-content/uploads/2020/12/MHF-Freezemarks.pdf)
 * [2024-09-09, 11:31:39](https://news.ycombinator.com/item?id=41487496) - [How to Compose Math Problems](https://www.andreinc.net/2024/07/25/how-to-compose-math-problems)
+* [2024-09-09, 11:19:23](https://news.ycombinator.com/item?id=41487397) - [Questions about LLMs in Group Chats](https://vineeth.io/posts/llm-groupchats)
 * [2024-09-09, 11:12:37](https://news.ycombinator.com/item?id=41487360) - [Crash dummies and robot arms: How airline seats are tested](https://www.bbc.com/news/articles/c74l9p2x3dxo)
 * [2024-09-09, 11:10:43](https://news.ycombinator.com/item?id=41487350) - [Ask HN: How do you sync ongoing browser work between desktop and laptop?](https://news.ycombinator.com/item?id=41487350)
 * [2024-09-09, 10:33:26](https://news.ycombinator.com/item?id=41487119) - [Tempted by the Dark Side, I now have a Commodore 128](https://www.goto10retro.com/p/tempted-by-the-dark-side-i-now-have)
