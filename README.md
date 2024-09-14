@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-14, 02:12:41](https://news.ycombinator.com/item?id=41536961) - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
-* [2024-09-14, 01:18:32](https://news.ycombinator.com/item?id=41536735) - [OpenAI's $150B valuation hinges on upending corporate structure, sources](https://www.reuters.com/technology/artificial-intelligence/openais-stunning-150-billion-valuation-hinges-upending-corporate-structure-2024-09-14/)
 * [2024-09-14, 00:35:51](https://news.ycombinator.com/item?id=41536542) - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
 * [2024-09-13, 23:31:11](https://news.ycombinator.com/item?id=41536137) - [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
 * [2024-09-13, 23:29:40](https://news.ycombinator.com/item?id=41536131) - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
@@ -28,6 +27,7 @@
 * [2024-09-10, 20:14:41](https://news.ycombinator.com/item?id=41505032) - [I Am Herman Melville](https://lareviewofbooks.org/article/i-am-herman-melville/)
 * [2024-09-10, 15:41:43](https://news.ycombinator.com/item?id=41501912) - [Jerry Neumann: Resignation Letter](https://reactionwheel.net/2024/09/resignation-letter.html)
 * [2024-09-10, 15:24:03](https://news.ycombinator.com/item?id=41501709) - [Irish museum solves mystery of Bronze Age axe heads delivered in porridge box](https://www.theguardian.com/science/article/2024/jul/25/irish-museum-solves-mystery-of-bronze-age-axe-heads-delivered-in-porridge-box)
+* [2024-09-10, 15:03:27](https://news.ycombinator.com/item?id=41501494) - [Exploring the scalable matrix extension of the Apple M4 processor](https://github.com/tzakharko/m4-sme-exploration)
 * [2024-09-10, 14:13:02](https://news.ycombinator.com/item?id=41500984) - [Haskell Postgres Stored Procedures](https://github.com/ed-o-saurus/PLHaskell)
 * [2024-09-10, 05:25:47](https://news.ycombinator.com/item?id=41497419) - [Don't Take Advice from a Habsburg](https://www.thedial.world/articles/news/issue-20/eduard-habsburg-the-habsburg-way-review)
 
