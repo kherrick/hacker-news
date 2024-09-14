@@ -15,7 +15,6 @@
 * [2024-09-14, 14:47:12](https://news.ycombinator.com/item?id=41540152) - [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-14, 14:08:14](https://news.ycombinator.com/item?id=41539911) - [Craig Wright said he invented Bitcoin – lawyers proved him wrong](https://www.ft.com/content/f3bb0b62-2d8a-44e8-a5aa-13a8f154ec0e)
 * [2024-09-14, 13:55:58](https://news.ycombinator.com/item?id=41539826) - [How a scientist is pushing to supersize research into ultra-processed foods](https://www.statnews.com/2024/09/11/ultra-processed-foods-health-nih-research-kevin-hall-controlled-trials/)
-* [2024-09-14, 12:52:49](https://news.ycombinator.com/item?id=41539508) - [They don't make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
 * [2024-09-14, 12:08:59](https://news.ycombinator.com/item?id=41539288) - [The Rise of Open Source Time Series Databases](https://victoriametrics.com/blog/the-rise-of-open-source-time-series-databases/index.html)
 * [2024-09-14, 12:05:54](https://news.ycombinator.com/item?id=41539269) - [The Department of Everything – Dispatches from the telephone reference desk](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything)
 * [2024-09-14, 11:57:29](https://news.ycombinator.com/item?id=41539235) - [The data on extreme human ageing is rotten from the inside out](https://theconversation.com/the-data-on-extreme-human-ageing-is-rotten-from-the-inside-out-ig-nobel-winner-saul-justin-newman-239023)
@@ -29,6 +28,7 @@
 * [2024-09-11, 16:29:14](https://news.ycombinator.com/item?id=41512899) - [Techniques I use to create a great user experience for shell scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 * [2024-09-11, 15:59:43](https://news.ycombinator.com/item?id=41512610) - [European Satellite Burns Up for Science](https://spectrum.ieee.org/reentry-science-esa-salsa-satellite)
 * [2024-09-11, 15:18:06](https://news.ycombinator.com/item?id=41512181) - [Startup Mortality Rates](https://avc.xyz/startup-mortality-rates)
+* [2024-09-11, 15:13:19](https://news.ycombinator.com/item?id=41512129) - [Solving the bowling problem with dynamic programming](https://simonensemble.github.io/pluto_nbs/bowling.html)
 * [2024-09-11, 14:02:20](https://news.ycombinator.com/item?id=41511491) - [The Podcast Index](https://podcastindex.org/)
 
 ## [Archives](archives/index.md)
