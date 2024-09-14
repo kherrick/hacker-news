@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-14, 08:02:48](https://news.ycombinator.com/item?id=41538273) - [Show HN: I removed politics from Twitter with AI](https://www.mindfw.com)
-* [2024-09-14, 06:53:45](https://news.ycombinator.com/item?id=41537994) - [Who is responsible for the greatest change to our language? Teenage girls](https://www.abc.net.au/news/2024-08-04/teenage-girls-linguistics/104160082)
 * [2024-09-14, 04:17:30](https://news.ycombinator.com/item?id=41537433) - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
 * [2024-09-14, 02:12:41](https://news.ycombinator.com/item?id=41536961) - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
 * [2024-09-14, 00:35:51](https://news.ycombinator.com/item?id=41536542) - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
@@ -18,6 +17,7 @@
 * [2024-09-13, 18:39:12](https://news.ycombinator.com/item?id=41533886) - [You're Not Smiling Enough](https://rubenerd.com/youre-not-smiling-enough/)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
+* [2024-09-13, 14:04:32](https://news.ycombinator.com/item?id=41531383) - [Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-11, 16:29:14](https://news.ycombinator.com/item?id=41512899) - [Techniques I use to create a great user experience for shell scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 * [2024-09-11, 16:00:05](https://news.ycombinator.com/item?id=41512618) - [The Cellular Secret to Resisting the Pressure of the Deep Sea](https://www.quantamagazine.org/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea-20240909/)
