@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 08:19:48](https://news.ycombinator.com/item?id=41538326) - [Losses widen at Stripe Europe to $1.1B after employee 'liquidity event'](https://www.irishtimes.com/business/2024/09/13/losses-widen-at-stripe-europe-to-11bn-after-employee-liquidity-event/)
 * [2024-09-14, 08:02:48](https://news.ycombinator.com/item?id=41538273) - [Show HN: I removed politics from Twitter with AI](https://www.mindfw.com)
 * [2024-09-14, 06:53:45](https://news.ycombinator.com/item?id=41537994) - [Who is responsible for the greatest change to our language? Teenage girls](https://www.abc.net.au/news/2024-08-04/teenage-girls-linguistics/104160082)
 * [2024-09-14, 04:17:30](https://news.ycombinator.com/item?id=41537433) - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
