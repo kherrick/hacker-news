@@ -53,6 +53,7 @@
 * [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 * [2024-09-13, 11:01:33](https://news.ycombinator.com/item?id=41530001) - [Chatbot Pulls People Away from Conspiracy Theories](https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html)
 * [2024-09-13, 10:07:54](https://news.ycombinator.com/item?id=41529712) - [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
+* [2024-09-13, 06:51:21](https://news.ycombinator.com/item?id=41528658) - [Historical Fiction Redefined the Literary Canon](https://www.thenation.com/article/culture/historical-fiction-awards-essay/)
 * [2024-09-13, 05:34:28](https://news.ycombinator.com/item?id=41528266) - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
 * [2024-09-13, 04:56:02](https://news.ycombinator.com/item?id=41528124) - [Safe C++](https://safecpp.org/draft.html)
 * [2024-09-13, 04:41:57](https://news.ycombinator.com/item?id=41528075) - [Boeing workers vote to strike in resounding defeat for troubled company](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
