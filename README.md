@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-14, 21:01:29](https://news.ycombinator.com/item?id=41542910) - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture/)
+* [2024-09-14, 22:01:39](https://news.ycombinator.com/item?id=41543382) - [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)
+* [2024-09-14, 21:29:21](https://news.ycombinator.com/item?id=41543139) - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
 * [2024-09-14, 21:00:02](https://news.ycombinator.com/item?id=41542897) - [Hadrius (YC W23) Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
 * [2024-09-14, 20:52:21](https://news.ycombinator.com/item?id=41542788) - [Zen and the Art of Writer Decks (Using the Pomera DM250)](http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html)
 * [2024-09-14, 20:01:30](https://news.ycombinator.com/item?id=41542413) - [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
 * [2024-09-14, 19:36:43](https://news.ycombinator.com/item?id=41542241) - [Almost all new car sales in Norway last month were EVs](https://qz.com/almost-all-new-car-sales-in-norway-last-month-were-evs-1851639882)
 * [2024-09-14, 19:11:24](https://news.ycombinator.com/item?id=41542076) - [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
-* [2024-09-14, 18:39:54](https://news.ycombinator.com/item?id=41541883) - [Rust error handling](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 17:46:42](https://news.ycombinator.com/item?id=41541459) - [The Bastard Operator from Hell (1999)](https://bofh.bjash.com/)
 * [2024-09-14, 17:02:56](https://news.ycombinator.com/item?id=41541053) - [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
@@ -22,7 +22,6 @@
 * [2024-09-14, 12:05:54](https://news.ycombinator.com/item?id=41539269) - [The Department of Everything – Dispatches from the telephone reference desk](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything)
 * [2024-09-14, 11:36:00](https://news.ycombinator.com/item?id=41539125) - [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125)
 * [2024-09-14, 04:17:30](https://news.ycombinator.com/item?id=41537433) - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
-* [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)
@@ -30,6 +29,7 @@
 * [2024-09-12, 13:43:36](https://news.ycombinator.com/item?id=41520883) - [The Tippy Type makes typing with long nails less tedious](https://www.theverge.com/24209704/tippy-type-review-keyboard-accessory)
 * [2024-09-11, 15:59:43](https://news.ycombinator.com/item?id=41512610) - [European Satellite Burns Up for Science](https://spectrum.ieee.org/reentry-science-esa-salsa-satellite)
 * [2024-09-11, 15:18:06](https://news.ycombinator.com/item?id=41512181) - [Startup Mortality Rates](https://avc.xyz/startup-mortality-rates)
+* [2024-09-10, 15:20:04](https://news.ycombinator.com/item?id=41501665) - [What performance should you get from different types of storage?](https://eclecticlight.co/2024/09/10/what-performance-should-you-get-from-different-types-of-storage/)
 
 ## [Archives](archives/index.md)
 
