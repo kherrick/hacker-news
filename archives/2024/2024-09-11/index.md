@@ -47,6 +47,7 @@
 * [2024-09-11, 14:07:33](https://news.ycombinator.com/item?id=41511538) - [Mnemonic for the number of days in each month](https://rsapkf.org/weblog/days-months)
 * [2024-09-11, 14:05:26](https://news.ycombinator.com/item?id=41511524) - [Movie industry touts takedown of \" largest\" pirate streaming ring](https://arstechnica.com/tech-policy/2024/08/movie-industry-touts-takedown-of-worlds-largest-pirate-streaming-ring/)
 * [2024-09-11, 14:03:54](https://news.ycombinator.com/item?id=41511506) - [Is 7 days a week the new norm (for YC)?](https://news.ycombinator.com/item?id=41511506)
+* [2024-09-11, 14:02:20](https://news.ycombinator.com/item?id=41511491) - [The Podcast Index](https://podcastindex.org/)
 * [2024-09-11, 13:59:13](https://news.ycombinator.com/item?id=41511473) - [Boar's Head plant posed an 'imminent threat' years before listeria outbreak](https://www.washingtonpost.com/health/2024/09/10/boars-head-listeria-outbreak-inspection/)
 * [2024-09-11, 13:53:46](https://news.ycombinator.com/item?id=41511420) - [Tailwind CSS vs. Pico CSS (2022)](https://edofic.com/posts/2022-01-18-tailwind-vs-pico/)
 * [2024-09-11, 13:50:39](https://news.ycombinator.com/item?id=41511386) - [Show HN: Clace – Application Server with support for scaling down to zero](https://github.com/claceio/clace)

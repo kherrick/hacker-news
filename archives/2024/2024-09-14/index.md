@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 14:58:28](https://news.ycombinator.com/item?id=41540220) - [U.S. Govt pushes Nvidia and Apple to use Intel's foundries](https://www.tomshardware.com/tech-industry/us-govt-pushes-nvidia-and-apple-to-use-intels-foundries-department-of-commerce-secretary-raimondo-makes-appeal-for-us-based-chip-production)
+* [2024-09-14, 13:02:58](https://news.ycombinator.com/item?id=41539553) - [Thomas Piketty: 'The Draghi report is a step in the right direction'](https://www.lemonde.fr/en/opinion/article/2024/09/14/thomas-piketty-the-draghi-report-is-a-step-in-the-right-direction_6725996_23.html)
 * [2024-09-14, 12:52:49](https://news.ycombinator.com/item?id=41539508) - [They don't make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
 * [2024-09-14, 12:09:44](https://news.ycombinator.com/item?id=41539294) - [Valkey achieved one million RPS 6 months after forking from Redis](https://valkey.io/blog/unlock-one-million-rps-part2/)
 * [2024-09-14, 12:05:54](https://news.ycombinator.com/item?id=41539269) - [The Department of Everything – Dispatches from the telephone reference desk](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything)
