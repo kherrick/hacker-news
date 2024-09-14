@@ -37,6 +37,7 @@
 * [2024-09-11, 15:30:48](https://news.ycombinator.com/item?id=41512328) - [Uber drivers in Kenya are ignoring the app and charging their own rates](https://restofworld.org/2024/kenya-uber-rate-cards-fuel-prices/)
 * [2024-09-11, 15:21:02](https://news.ycombinator.com/item?id=41512207) - [David Chang on the long, hard, stupid way](https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/)
 * [2024-09-11, 15:19:02](https://news.ycombinator.com/item?id=41512191) - [Neanderthals' social isolation may have sped up their extinction](https://www.popsci.com/science/neanderthal-extinction-isolation/)
+* [2024-09-11, 15:18:06](https://news.ycombinator.com/item?id=41512181) - [Startup Mortality Rates](https://avc.xyz/startup-mortality-rates)
 * [2024-09-11, 15:14:44](https://news.ycombinator.com/item?id=41512142) - [Show HN: Tune LLaMa3.1 on Google Cloud TPUs](https://github.com/felafax/felafax)
 * [2024-09-11, 15:13:19](https://news.ycombinator.com/item?id=41512129) - [Solving the bowling problem with dynamic programming](https://simonensemble.github.io/pluto_nbs/bowling.html)
 * [2024-09-11, 14:58:55](https://news.ycombinator.com/item?id=41512005) - [Gottfried Mind, the Raphael of Cats](https://publicdomainreview.org/essay/gottfried-mind-the-raphael-of-cats)

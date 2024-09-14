@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 17:02:56](https://news.ycombinator.com/item?id=41541053) - [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
+* [2024-09-14, 17:00:51](https://news.ycombinator.com/item?id=41541040) - [Rollstack (YC W23) is hiring exceptional LLM engineers and Full-stack engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2024-09-14, 16:40:26](https://news.ycombinator.com/item?id=41540894) - [iPhone 16's A18 Pro chip outperforms the M1 chip](https://9to5mac.com/2024/09/14/iphone-16-pro-m1/)
 * [2024-09-14, 16:25:30](https://news.ycombinator.com/item?id=41540795) - [Degrees of deception: How America's universities became debt factories](https://anandsanwal.me/college-student-debt-deception/)
 * [2024-09-14, 15:19:50](https://news.ycombinator.com/item?id=41540362) - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+* [2024-09-14, 15:19:28](https://news.ycombinator.com/item?id=41540359) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)
 * [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
 * [2024-09-14, 14:58:28](https://news.ycombinator.com/item?id=41540220) - [U.S. Govt pushes Nvidia and Apple to use Intel's foundries](https://www.tomshardware.com/tech-industry/us-govt-pushes-nvidia-and-apple-to-use-intels-foundries-department-of-commerce-secretary-raimondo-makes-appeal-for-us-based-chip-production)
 * [2024-09-14, 14:47:12](https://news.ycombinator.com/item?id=41540152) - [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
