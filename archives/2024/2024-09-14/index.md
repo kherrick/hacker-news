@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 19:11:24](https://news.ycombinator.com/item?id=41542076) - [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
 * [2024-09-14, 18:39:54](https://news.ycombinator.com/item?id=41541883) - [Rust error handling is perfect](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 17:46:42](https://news.ycombinator.com/item?id=41541459) - [The Bastard Operator from Hell](https://bofh.bjash.com/)
@@ -14,6 +15,7 @@
 * [2024-09-14, 16:49:10](https://news.ycombinator.com/item?id=41540950) - [One in five genetics papers contains errors thanks to Microsoft Excel (2016)](https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
 * [2024-09-14, 16:41:04](https://news.ycombinator.com/item?id=41540902) - [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
 * [2024-09-14, 16:40:26](https://news.ycombinator.com/item?id=41540894) - [iPhone 16's A18 Pro chip outperforms the M1 chip](https://9to5mac.com/2024/09/14/iphone-16-pro-m1/)
+* [2024-09-14, 16:27:21](https://news.ycombinator.com/item?id=41540808) - [\"Design It Twice\"?](https://www.16elt.com/2024/09/14/design-it-twice/)
 * [2024-09-14, 16:25:30](https://news.ycombinator.com/item?id=41540795) - [Degrees of deception: How America's universities became debt factories](https://anandsanwal.me/college-student-debt-deception/)
 * [2024-09-14, 16:22:42](https://news.ycombinator.com/item?id=41540777) - [Nesting Arena Allocators in Rust](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 16:21:55](https://news.ycombinator.com/item?id=41540771) - [OpenAI, Anthropic, Google employees support California AI bill](https://www.axios.com/2024/09/09/openai-anthropic-deepmind-employees-ai-bill)

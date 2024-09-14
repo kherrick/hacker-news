@@ -55,6 +55,7 @@
 * [2024-09-13, 10:07:54](https://news.ycombinator.com/item?id=41529712) - [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
 * [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)
 * [2024-09-13, 06:51:21](https://news.ycombinator.com/item?id=41528658) - [Historical Fiction Redefined the Literary Canon](https://www.thenation.com/article/culture/historical-fiction-awards-essay/)
+* [2024-09-13, 05:56:01](https://news.ycombinator.com/item?id=41528360) - [The Reinforcing Nature of Toil (2023)](https://entropicthoughts.com/the-reinforcing-nature-of-toil)
 * [2024-09-13, 05:34:28](https://news.ycombinator.com/item?id=41528266) - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
 * [2024-09-13, 04:56:02](https://news.ycombinator.com/item?id=41528124) - [Safe C++](https://safecpp.org/draft.html)
 * [2024-09-13, 04:41:57](https://news.ycombinator.com/item?id=41528075) - [Boeing workers vote to strike in resounding defeat for troubled company](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
