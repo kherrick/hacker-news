@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-14, 21:01:29](https://news.ycombinator.com/item?id=41542910) - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture/)
 * [2024-09-14, 21:00:02](https://news.ycombinator.com/item?id=41542897) - [Hadrius (YC W23) Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
 * [2024-09-14, 20:01:30](https://news.ycombinator.com/item?id=41542413) - [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
 * [2024-09-14, 19:36:43](https://news.ycombinator.com/item?id=41542241) - [Almost all new car sales in Norway last month were EVs](https://qz.com/almost-all-new-car-sales-in-norway-last-month-were-evs-1851639882)
@@ -23,7 +24,6 @@
 * [2024-09-14, 04:17:30](https://news.ycombinator.com/item?id=41537433) - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
 * [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
-* [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)
 * [2024-09-13, 05:56:01](https://news.ycombinator.com/item?id=41528360) - [The Reinforcing Nature of Toil (2023)](https://entropicthoughts.com/the-reinforcing-nature-of-toil)

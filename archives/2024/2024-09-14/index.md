@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 21:01:29](https://news.ycombinator.com/item?id=41542910) - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture/)
 * [2024-09-14, 21:00:02](https://news.ycombinator.com/item?id=41542897) - [Hadrius (YC W23) Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
 * [2024-09-14, 20:13:03](https://news.ycombinator.com/item?id=41542497) - [Ask HN: If LLMs are so useful, why haven't we seen any spike in productivity?](https://news.ycombinator.com/item?id=41542497)
 * [2024-09-14, 20:01:30](https://news.ycombinator.com/item?id=41542413) - [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
