@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-14, 04:17:30](https://news.ycombinator.com/item?id=41537433) - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
-* [2024-09-14, 03:55:52](https://news.ycombinator.com/item?id=41537358) - [Brazil Supreme Court unfreezes X, Starlink's bank accounts after taking $3.3M](https://thehill.com/policy/technology/4879133-brazil-unfreezes-starlink-x-assets/)
 * [2024-09-14, 02:12:41](https://news.ycombinator.com/item?id=41536961) - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
 * [2024-09-14, 00:35:51](https://news.ycombinator.com/item?id=41536542) - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
 * [2024-09-13, 23:31:11](https://news.ycombinator.com/item?id=41536137) - [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
@@ -30,6 +29,7 @@
 * [2024-09-10, 14:20:59](https://news.ycombinator.com/item?id=41501073) - [Hypermedia Controls: Feral to Formal (PDF: ACM HT'24)](https://dl.acm.org/doi/pdf/10.1145/3648188.3675127)
 * [2024-09-10, 14:13:02](https://news.ycombinator.com/item?id=41500984) - [Haskell Postgres Stored Procedures](https://github.com/ed-o-saurus/PLHaskell)
 * [2024-09-10, 13:53:10](https://news.ycombinator.com/item?id=41500767) - [Coupled Oscillators for Computing](https://pubs.aip.org/aip/apr/article/7/1/011302/997386/Coupled-oscillators-for-computing-A-review-and)
+* [2024-09-10, 05:25:47](https://news.ycombinator.com/item?id=41497419) - [Don't Take Advice from a Habsburg](https://www.thedial.world/articles/news/issue-20/eduard-habsburg-the-habsburg-way-review)
 
 ## [Archives](archives/index.md)
 
