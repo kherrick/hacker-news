@@ -18,7 +18,7 @@
 * [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
 * [2024-09-13, 14:04:32](https://news.ycombinator.com/item?id=41531383) - [Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
-* [2024-09-11, 16:29:14](https://news.ycombinator.com/item?id=41512899) - [Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
+* [2024-09-11, 16:29:14](https://news.ycombinator.com/item?id=41512899) - [Techniques I use to create a great user experience for shell scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 * [2024-09-11, 16:00:05](https://news.ycombinator.com/item?id=41512618) - [The Cellular Secret to Resisting the Pressure of the Deep Sea](https://www.quantamagazine.org/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea-20240909/)
 * [2024-09-11, 14:58:55](https://news.ycombinator.com/item?id=41512005) - [Gottfried Mind, the Raphael of Cats](https://publicdomainreview.org/essay/gottfried-mind-the-raphael-of-cats)
 * [2024-09-11, 14:10:07](https://news.ycombinator.com/item?id=41511566) - [Ambient Meaning and the Algorithms of Culture](https://thelastwave.substack.com/p/the-network-is-the-territory)
