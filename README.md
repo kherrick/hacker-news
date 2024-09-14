@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-14, 03:55:52](https://news.ycombinator.com/item?id=41537358) - [Brazil Supreme Court unfreezes X, Starlink's bank accounts after taking $3.3M](https://thehill.com/policy/technology/4879133-brazil-unfreezes-starlink-x-assets/)
 * [2024-09-14, 02:12:41](https://news.ycombinator.com/item?id=41536961) - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
 * [2024-09-14, 00:35:51](https://news.ycombinator.com/item?id=41536542) - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
 * [2024-09-13, 23:31:11](https://news.ycombinator.com/item?id=41536137) - [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
@@ -14,7 +15,6 @@
 * [2024-09-13, 20:17:18](https://news.ycombinator.com/item?id=41534716) - [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 * [2024-09-13, 19:44:45](https://news.ycombinator.com/item?id=41534483) - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2024-09-13, 18:39:12](https://news.ycombinator.com/item?id=41533886) - [You're Not Smiling Enough](https://rubenerd.com/youre-not-smiling-enough/)
-* [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Facebook scraped every Australian adult user's public posts to train AI](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)
 * [2024-09-13, 16:51:46](https://news.ycombinator.com/item?id=41532958) - [I Added SVG Maps to My Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
