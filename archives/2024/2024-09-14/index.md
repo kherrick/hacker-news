@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 12:05:54](https://news.ycombinator.com/item?id=41539269) - [The Department of Everything – Dispatches from the telephone reference desk](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything)
 * [2024-09-14, 12:01:16](https://news.ycombinator.com/item?id=41539250) - [Icon (real creators, AI ads) is hiring founding engineers (NYC)](https://icon.me/careers)
 * [2024-09-14, 11:57:29](https://news.ycombinator.com/item?id=41539235) - [The data on extreme human ageing is rotten from the inside out](https://theconversation.com/the-data-on-extreme-human-ageing-is-rotten-from-the-inside-out-ig-nobel-winner-saul-justin-newman-239023)
 * [2024-09-14, 10:14:51](https://news.ycombinator.com/item?id=41538777) - [Tiny Great Languages: Forth/Mouse](https://zserge.com/posts/langs-mouse/)
