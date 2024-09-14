@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-14, 01:18:32",
+      "https://news.ycombinator.com/item?id=41536735"
+    ],
+    [
+      "OpenAI's $150B valuation hinges on upending corporate structure, sources",
+      "https://www.reuters.com/technology/artificial-intelligence/openais-stunning-150-billion-valuation-hinges-upending-corporate-structure-2024-09-14/"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 00:35:51",
+      "https://news.ycombinator.com/item?id=41536542"
+    ],
+    [
+      "18,000 Miles Later, an American Woman Has Cycled the World",
+      "https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 23:48:08",
+      "https://news.ycombinator.com/item?id=41536232"
+    ],
+    [
+      "Stolen iPhones Will Be Even More Useless from iOS 18 Onwards",
+      "https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 23:29:40",
       "https://news.ycombinator.com/item?id=41536131"
     ],
@@ -41,22 +71,32 @@
   ],
   [
     [
+      "2024-09-13, 22:38:28",
+      "https://news.ycombinator.com/item?id=41535857"
+    ],
+    [
+      "PGVector's Missing Features",
+      "https://trieve.ai/pgvector-missing-features"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 22:14:26",
+      "https://news.ycombinator.com/item?id=41535694"
+    ],
+    [
+      "OpenAI o1 Results on ARC-AGI-Pub",
+      "https://arcprize.org/blog/openai-o1-results-arc-prize"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 21:31:13",
       "https://news.ycombinator.com/item?id=41535354"
     ],
     [
       "Lisp implemented in Rust macros",
       "https://github.com/RyanWelly/lisp-in-rs-macros"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 21:26:59",
-      "https://news.ycombinator.com/item?id=41535317"
-    ],
-    [
-      "Unicode 16 now includes retro video game sprites [pdf]",
-      "https://www.unicode.org/charts/PDF/Unicode-16.0/U160-1CC00.pdf"
     ]
   ],
   [
@@ -97,36 +137,6 @@
     [
       "Janet Jackson had the power to crash laptop computers (2022)",
       "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 19:43:34",
-      "https://news.ycombinator.com/item?id=41534474"
-    ],
-    [
-      "OpenAI threatens to revoke o1 access for asking it about its chain of thought",
-      "https://twitter.com/SmokeAwayyy/status/1834641370486915417"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 19:12:12",
-      "https://news.ycombinator.com/item?id=41534179"
-    ],
-    [
-      "Modular Monoliths Are a Good Idea",
-      "https://materializedview.io/p/modular-monoliths-are-a-good-idea"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 18:47:20",
-      "https://news.ycombinator.com/item?id=41533958"
-    ],
-    [
-      "I won't be renewing my Pinboard subscription",
-      "https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Don't Take Advice from a Habsburg",
       "https://www.thedial.world/articles/news/issue-20/eduard-habsburg-the-habsburg-way-review"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 12:23:34",
-      "https://news.ycombinator.com/item?id=41487848"
-    ],
-    [
-      "Show HN: A whiteboard that writes math equations",
-      "https://whiteboard.lasky.io/"
     ]
   ],
   [
