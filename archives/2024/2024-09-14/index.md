@@ -12,6 +12,7 @@
 * [2024-09-14, 11:36:00](https://news.ycombinator.com/item?id=41539125) - [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125)
 * [2024-09-14, 10:14:51](https://news.ycombinator.com/item?id=41538777) - [Tiny Great Languages: Forth/Mouse](https://zserge.com/posts/langs-mouse/)
 * [2024-09-14, 10:06:12](https://news.ycombinator.com/item?id=41538743) - [Ask HN: What's the best documentation site you've come across?](https://news.ycombinator.com/item?id=41538743)
+* [2024-09-14, 09:56:04](https://news.ycombinator.com/item?id=41538705) - [AI Has Helped Shein Become Fast Fashion's Biggest Polluter](https://grist.org/technology/as-fast-fashion-giant-shein-embraces-ai-its-emissions-are-soaring/)
 * [2024-09-14, 09:26:57](https://news.ycombinator.com/item?id=41538595) - [Sunamp's thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/)
 * [2024-09-14, 09:21:45](https://news.ycombinator.com/item?id=41538572) - [Self-Verification Theory](https://en.wikipedia.org/wiki/Self-verification_theory)
 * [2024-09-14, 08:54:16](https://news.ycombinator.com/item?id=41538471) - [Why use metaphors in conflicts? Because understanding is remembering in disguise](https://westallen.typepad.com/brains_on_purpose/2009/06/why-use-metaphors-because-understanding-is-remembering-in-disguise.html)
