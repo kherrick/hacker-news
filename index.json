@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-09-13, 11:59:40",
-      "https://news.ycombinator.com/item?id=41530364"
-    ],
-    [
-      "JG Ballard's Apocalyptic Art",
-      "https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art"
-    ]
-  ],
-  [
-    [
       "2024-09-11, 16:29:14",
       "https://news.ycombinator.com/item?id=41512899"
     ],
@@ -277,6 +267,16 @@
     [
       "Exploring the scalable matrix extension of the Apple M4 processor",
       "https://github.com/tzakharko/m4-sme-exploration"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 14:20:59",
+      "https://news.ycombinator.com/item?id=41501073"
+    ],
+    [
+      "Hypermedia Controls: Feral to Formal (PDF: ACM HT'24)",
+      "https://dl.acm.org/doi/pdf/10.1145/3648188.3675127"
     ]
   ],
   [
