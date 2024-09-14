@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-14, 17:02:56",
+      "https://news.ycombinator.com/item?id=41541053"
+    ],
+    [
+      "LLMs Will Always Hallucinate, and We Need to Live with This",
+      "https://arxiv.org/abs/2409.05746"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 17:00:51",
+      "https://news.ycombinator.com/item?id=41541040"
+    ],
+    [
+      "Rollstack (YC W23) is hiring exceptional LLM engineers and Full-stack engineers",
+      "https://www.ycombinator.com/companies/rollstack-2/jobs"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 16:40:26",
       "https://news.ycombinator.com/item?id=41540894"
     ],
@@ -27,6 +47,16 @@
     [
       "Writing an OS in Rust",
       "https://github.com/phil-opp/blog_os"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 15:19:28",
+      "https://news.ycombinator.com/item?id=41540359"
+    ],
+    [
+      "The Symbolics Ivory Design and Verification Strategy (1987)",
+      "https://archive.org/details/ivory-design-verification"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2024-09-14, 12:01:16",
-      "https://news.ycombinator.com/item?id=41539250"
-    ],
-    [
-      "Icon (real creators, AI ads) is hiring founding engineers (NYC)",
-      "https://icon.me/careers"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 11:57:29",
       "https://news.ycombinator.com/item?id=41539235"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-09-14, 02:12:41",
-      "https://news.ycombinator.com/item?id=41536961"
-    ],
-    [
-      "Void captures over a million Android TV boxes",
-      "https://news.drweb.com/show/?i=14900"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 23:21:10",
       "https://news.ycombinator.com/item?id=41536088"
     ],
@@ -177,16 +187,6 @@
     [
       "Lisp implemented in Rust macros",
       "https://github.com/RyanWelly/lisp-in-rs-macros"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 20:41:50",
-      "https://news.ycombinator.com/item?id=41534927"
-    ],
-    [
-      "Grounding AI in reality with a little help from Data Commons",
-      "https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-09-11, 15:18:06",
+      "https://news.ycombinator.com/item?id=41512181"
+    ],
+    [
+      "Startup Mortality Rates",
+      "https://avc.xyz/startup-mortality-rates"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 15:13:19",
       "https://news.ycombinator.com/item?id=41512129"
     ],
@@ -287,16 +297,6 @@
     [
       "Do Animals Know That They Will Die?",
       "https://www.theatlantic.com/science/archive/2024/09/grieving-death-chimpanzees-thanatology/679750/"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 14:20:59",
-      "https://news.ycombinator.com/item?id=41501073"
-    ],
-    [
-      "Hypermedia Controls: Feral to Formal (PDF: ACM HT'24)",
-      "https://dl.acm.org/doi/pdf/10.1145/3648188.3675127"
     ]
   ]
 ]
