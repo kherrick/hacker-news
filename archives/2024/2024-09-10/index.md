@@ -41,6 +41,7 @@
 * [2024-09-10, 15:46:45](https://news.ycombinator.com/item?id=41501996) - [Safe Assignment](https://nalanj.dev/posts/safe-assignment/)
 * [2024-09-10, 15:46:19](https://news.ycombinator.com/item?id=41501986) - [Apple owes billions in Irish back taxes](https://www.theregister.com/2024/09/10/apple_owes_billions_in_back/)
 * [2024-09-10, 15:42:25](https://news.ycombinator.com/item?id=41501924) - [Deep Purple payload successfully deployed and operational](https://www.llnl.gov/article/51736/deep-purple-payload-successfully-deployed-operational)
+* [2024-09-10, 15:41:43](https://news.ycombinator.com/item?id=41501912) - [Jerry Neumann: Resignation Letter](https://reactionwheel.net/2024/09/resignation-letter.html)
 * [2024-09-10, 15:40:15](https://news.ycombinator.com/item?id=41501895) - [ClickHouse Data Modeling for Postgres Users](https://clickhouse.com/blog/postgres-to-clickhouse-data-modeling-tips)
 * [2024-09-10, 15:33:56](https://news.ycombinator.com/item?id=41501818) - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
 * [2024-09-10, 15:32:42](https://news.ycombinator.com/item?id=41501804) - [ChartEye: A Deep Learning Framework for Chart Information Extraction](https://arxiv.org/abs/2408.16123)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
 * [2024-09-13, 23:48:08](https://news.ycombinator.com/item?id=41536232) - [Stolen iPhones Will Be Even More Useless from iOS 18 Onwards](https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/)
+* [2024-09-13, 23:31:11](https://news.ycombinator.com/item?id=41536137) - [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
 * [2024-09-13, 23:29:40](https://news.ycombinator.com/item?id=41536131) - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 * [2024-09-13, 23:21:10](https://news.ycombinator.com/item?id=41536088) - [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 * [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
