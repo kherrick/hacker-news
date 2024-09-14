@@ -23,13 +23,13 @@
 * [2024-09-11, 16:00:05](https://news.ycombinator.com/item?id=41512618) - [The Cellular Secret to Resisting the Pressure of the Deep Sea](https://www.quantamagazine.org/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea-20240909/)
 * [2024-09-11, 14:58:55](https://news.ycombinator.com/item?id=41512005) - [Gottfried Mind, the Raphael of Cats](https://publicdomainreview.org/essay/gottfried-mind-the-raphael-of-cats)
 * [2024-09-11, 14:10:07](https://news.ycombinator.com/item?id=41511566) - [Ambient Meaning and the Algorithms of Culture](https://thelastwave.substack.com/p/the-network-is-the-territory)
+* [2024-09-10, 20:14:41](https://news.ycombinator.com/item?id=41505032) - [I Am Herman Melville](https://lareviewofbooks.org/article/i-am-herman-melville/)
 * [2024-09-10, 15:41:43](https://news.ycombinator.com/item?id=41501912) - [Jerry Neumann: Resignation Letter](https://reactionwheel.net/2024/09/resignation-letter.html)
 * [2024-09-10, 15:24:03](https://news.ycombinator.com/item?id=41501709) - [Irish museum solves mystery of Bronze Age axe heads delivered in porridge box](https://www.theguardian.com/science/article/2024/jul/25/irish-museum-solves-mystery-of-bronze-age-axe-heads-delivered-in-porridge-box)
 * [2024-09-10, 15:03:27](https://news.ycombinator.com/item?id=41501494) - [Exploring the scalable matrix extension of the Apple M4 processor](https://github.com/tzakharko/m4-sme-exploration)
 * [2024-09-10, 14:20:59](https://news.ycombinator.com/item?id=41501073) - [Hypermedia Controls: Feral to Formal (PDF: ACM HT'24)](https://dl.acm.org/doi/pdf/10.1145/3648188.3675127)
 * [2024-09-10, 14:13:02](https://news.ycombinator.com/item?id=41500984) - [Haskell Postgres Stored Procedures](https://github.com/ed-o-saurus/PLHaskell)
 * [2024-09-10, 13:53:10](https://news.ycombinator.com/item?id=41500767) - [Coupled Oscillators for Computing](https://pubs.aip.org/aip/apr/article/7/1/011302/997386/Coupled-oscillators-for-computing-A-review-and)
-* [2024-09-10, 05:25:47](https://news.ycombinator.com/item?id=41497419) - [Don't Take Advice from a Habsburg](https://www.thedial.world/articles/news/issue-20/eduard-habsburg-the-habsburg-way-review)
 
 ## [Archives](archives/index.md)
 
