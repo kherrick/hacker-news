@@ -41,6 +41,7 @@
 * [2024-09-11, 14:51:44](https://news.ycombinator.com/item?id=41511928) - [Scientists use magnetic nanotech to safely rewarm frozen tissues for transplant](https://phys.org/news/2024-09-scientists-magnetic-nanotech-safely-rewarm.html)
 * [2024-09-11, 14:48:48](https://news.ycombinator.com/item?id=41511899) - [Writing an HTTP Server in Go from Scratch: Part 1](https://www.krayorn.com/posts/http-server-go/)
 * [2024-09-11, 14:22:37](https://news.ycombinator.com/item?id=41511672) - [Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices](https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11)
+* [2024-09-11, 14:10:07](https://news.ycombinator.com/item?id=41511566) - [Ambient Meaning and the Algorithms of Culture](https://thelastwave.substack.com/p/the-network-is-the-territory)
 * [2024-09-11, 14:07:33](https://news.ycombinator.com/item?id=41511538) - [Mnemonic for the number of days in each month](https://rsapkf.org/weblog/days-months)
 * [2024-09-11, 14:05:26](https://news.ycombinator.com/item?id=41511524) - [Movie industry touts takedown of \" largest\" pirate streaming ring](https://arstechnica.com/tech-policy/2024/08/movie-industry-touts-takedown-of-worlds-largest-pirate-streaming-ring/)
 * [2024-09-11, 14:03:54](https://news.ycombinator.com/item?id=41511506) - [Is 7 days a week the new norm (for YC)?](https://news.ycombinator.com/item?id=41511506)
