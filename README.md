@@ -1,14 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 17:02:56](https://news.ycombinator.com/item?id=41541053) - [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
 * [2024-09-14, 17:00:51](https://news.ycombinator.com/item?id=41541040) - [Rollstack (YC W23) is hiring exceptional LLM engineers and Full-stack engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2024-09-14, 16:59:24](https://news.ycombinator.com/item?id=41541028) - [Testing the Firefox Alternatives](https://tommorris.org/posts/2024/testing-the-firefox-alternatives/)
 * [2024-09-14, 16:41:04](https://news.ycombinator.com/item?id=41540902) - [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
 * [2024-09-14, 16:25:30](https://news.ycombinator.com/item?id=41540795) - [Degrees of deception: How America's universities became debt factories](https://anandsanwal.me/college-student-debt-deception/)
-* [2024-09-14, 16:21:55](https://news.ycombinator.com/item?id=41540771) - [OpenAI, Anthropic, Google employees support California AI bill](https://www.axios.com/2024/09/09/openai-anthropic-deepmind-employees-ai-bill)
+* [2024-09-14, 16:22:42](https://news.ycombinator.com/item?id=41540777) - [Nesting Arena Allocators in Rust](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 16:18:19](https://news.ycombinator.com/item?id=41540755) - [Don't ask if AI can make art – ask how AI can be art](https://www.theverge.com/2024/9/13/24241189/generative-ai-interactivity-art)
 * [2024-09-14, 15:19:50](https://news.ycombinator.com/item?id=41540362) - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 * [2024-09-14, 15:19:28](https://news.ycombinator.com/item?id=41540359) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)
+* [2024-09-14, 15:00:46](https://news.ycombinator.com/item?id=41540230) - [Academic Journal Publishers Antitrust Litigation](https://www.lieffcabraser.com/antitrust/academic-journals/)
 * [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
 * [2024-09-14, 14:47:12](https://news.ycombinator.com/item?id=41540152) - [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-14, 14:08:14](https://news.ycombinator.com/item?id=41539911) - [Craig Wright said he invented Bitcoin – lawyers proved him wrong](https://www.ft.com/content/f3bb0b62-2d8a-44e8-a5aa-13a8f154ec0e)
@@ -27,9 +29,7 @@
 * [2024-09-11, 16:29:14](https://news.ycombinator.com/item?id=41512899) - [Techniques I use to create a great user experience for shell scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 * [2024-09-11, 15:59:43](https://news.ycombinator.com/item?id=41512610) - [European Satellite Burns Up for Science](https://spectrum.ieee.org/reentry-science-esa-salsa-satellite)
 * [2024-09-11, 15:18:06](https://news.ycombinator.com/item?id=41512181) - [Startup Mortality Rates](https://avc.xyz/startup-mortality-rates)
-* [2024-09-11, 15:13:19](https://news.ycombinator.com/item?id=41512129) - [Solving the bowling problem with dynamic programming](https://simonensemble.github.io/pluto_nbs/bowling.html)
 * [2024-09-11, 14:02:20](https://news.ycombinator.com/item?id=41511491) - [The Podcast Index](https://podcastindex.org/)
-* [2024-09-10, 16:44:36](https://news.ycombinator.com/item?id=41502798) - [Do Animals Know That They Will Die?](https://www.theatlantic.com/science/archive/2024/09/grieving-death-chimpanzees-thanatology/679750/)
 
 ## [Archives](archives/index.md)
 
