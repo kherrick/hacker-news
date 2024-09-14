@@ -29,6 +29,7 @@
 * [2024-09-10, 17:01:56](https://news.ycombinator.com/item?id=41502990) - [GPU Purses at New York Fashion Week](https://www.ft.com/content/79494897-7322-4967-a5f8-46860fafa02a)
 * [2024-09-10, 17:01:24](https://news.ycombinator.com/item?id=41502986) - [Nearly 40 states back surgeon general's social media warning labels](https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels)
 * [2024-09-10, 16:46:08](https://news.ycombinator.com/item?id=41502822) - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
+* [2024-09-10, 16:44:36](https://news.ycombinator.com/item?id=41502798) - [Do Animals Know That They Will Die?](https://www.theatlantic.com/science/archive/2024/09/grieving-death-chimpanzees-thanatology/679750/)
 * [2024-09-10, 16:38:50](https://news.ycombinator.com/item?id=41502721) - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
 * [2024-09-10, 16:31:26](https://news.ycombinator.com/item?id=41502625) - [Open Source is not a Business Model](https://cra.mr/open-source-is-not-a-business-model/)
 * [2024-09-10, 16:22:13](https://news.ycombinator.com/item?id=41502510) - [Google Illuminate: Books and Papers turned into audio content](https://illuminate.google.com/home)
