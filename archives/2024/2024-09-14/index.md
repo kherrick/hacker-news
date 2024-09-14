@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 20:13:03](https://news.ycombinator.com/item?id=41542497) - [Ask HN: If LLMs are so useful, why haven't we seen any spike in productivity?](https://news.ycombinator.com/item?id=41542497)
+* [2024-09-14, 20:01:30](https://news.ycombinator.com/item?id=41542413) - [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
 * [2024-09-14, 19:11:24](https://news.ycombinator.com/item?id=41542076) - [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
 * [2024-09-14, 18:39:54](https://news.ycombinator.com/item?id=41541883) - [Rust error handling is perfect](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)

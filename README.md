@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-14, 20:13:03](https://news.ycombinator.com/item?id=41542497) - [Ask HN: If LLMs are so useful, why haven't we seen any spike in productivity?](https://news.ycombinator.com/item?id=41542497)
+* [2024-09-14, 20:01:30](https://news.ycombinator.com/item?id=41542413) - [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
 * [2024-09-14, 19:11:24](https://news.ycombinator.com/item?id=41542076) - [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
 * [2024-09-14, 18:39:54](https://news.ycombinator.com/item?id=41541883) - [Rust error handling](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
@@ -23,13 +25,11 @@
 * [2024-09-14, 04:17:30](https://news.ycombinator.com/item?id=41537433) - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
 * [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
-* [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)
 * [2024-09-13, 05:56:01](https://news.ycombinator.com/item?id=41528360) - [The Reinforcing Nature of Toil (2023)](https://entropicthoughts.com/the-reinforcing-nature-of-toil)
 * [2024-09-11, 15:59:43](https://news.ycombinator.com/item?id=41512610) - [European Satellite Burns Up for Science](https://spectrum.ieee.org/reentry-science-esa-salsa-satellite)
 * [2024-09-11, 15:18:06](https://news.ycombinator.com/item?id=41512181) - [Startup Mortality Rates](https://avc.xyz/startup-mortality-rates)
-* [2024-09-11, 15:13:19](https://news.ycombinator.com/item?id=41512129) - [Solving the bowling problem with dynamic programming](https://simonensemble.github.io/pluto_nbs/bowling.html)
 
 ## [Archives](archives/index.md)
 
