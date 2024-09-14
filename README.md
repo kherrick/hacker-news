@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 * [2024-09-14, 22:01:39](https://news.ycombinator.com/item?id=41543382) - [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)
 * [2024-09-14, 21:29:21](https://news.ycombinator.com/item?id=41543139) - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
 * [2024-09-14, 21:00:02](https://news.ycombinator.com/item?id=41542897) - [Hadrius (YC W23) Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
@@ -21,7 +22,6 @@
 * [2024-09-14, 12:08:59](https://news.ycombinator.com/item?id=41539288) - [The Rise of Open Source Time Series Databases](https://victoriametrics.com/blog/the-rise-of-open-source-time-series-databases/index.html)
 * [2024-09-14, 12:05:54](https://news.ycombinator.com/item?id=41539269) - [The Department of Everything – Dispatches from the telephone reference desk](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything)
 * [2024-09-14, 11:36:00](https://news.ycombinator.com/item?id=41539125) - [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125)
-* [2024-09-14, 04:17:30](https://news.ycombinator.com/item?id=41537433) - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)

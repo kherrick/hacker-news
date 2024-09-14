@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 * [2024-09-14, 22:01:39](https://news.ycombinator.com/item?id=41543382) - [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)
 * [2024-09-14, 21:29:21](https://news.ycombinator.com/item?id=41543139) - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
 * [2024-09-14, 21:01:29](https://news.ycombinator.com/item?id=41542910) - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture/)
