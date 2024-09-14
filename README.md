@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
+* [2024-09-14, 14:47:12](https://news.ycombinator.com/item?id=41540152) - [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-14, 12:52:49](https://news.ycombinator.com/item?id=41539508) - [They don't make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
 * [2024-09-14, 12:05:54](https://news.ycombinator.com/item?id=41539269) - [The Department of Everything – Dispatches from the telephone reference desk](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything)
 * [2024-09-14, 12:01:16](https://news.ycombinator.com/item?id=41539250) - [Icon (real creators, AI ads) is hiring founding engineers (NYC)](https://icon.me/careers)
@@ -15,10 +17,8 @@
 * [2024-09-13, 20:17:18](https://news.ycombinator.com/item?id=41534716) - [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 * [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
-* [2024-09-13, 14:04:32](https://news.ycombinator.com/item?id=41531383) - [Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 11:59:40](https://news.ycombinator.com/item?id=41530364) - [JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
-* [2024-09-12, 22:24:31](https://news.ycombinator.com/item?id=41526288) - [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
 * [2024-09-11, 16:29:14](https://news.ycombinator.com/item?id=41512899) - [Techniques I use to create a great user experience for shell scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 * [2024-09-11, 16:00:05](https://news.ycombinator.com/item?id=41512618) - [The Cellular Secret to Resisting the Pressure of the Deep Sea](https://www.quantamagazine.org/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea-20240909/)
 * [2024-09-11, 15:42:46](https://news.ycombinator.com/item?id=41512436) - [Intents: The Endgame for Computing Interfaces?](https://http200.substack.com/p/intents-the-end-game-for-computing)
