@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-14, 16:40:26](https://news.ycombinator.com/item?id=41540894) - [iPhone 16's A18 Pro chip outperforms the M1 chip](https://9to5mac.com/2024/09/14/iphone-16-pro-m1/)
+* [2024-09-14, 16:25:30](https://news.ycombinator.com/item?id=41540795) - [Degrees of deception: How America's universities became debt factories](https://anandsanwal.me/college-student-debt-deception/)
 * [2024-09-14, 15:19:50](https://news.ycombinator.com/item?id=41540362) - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 * [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
 * [2024-09-14, 14:47:12](https://news.ycombinator.com/item?id=41540152) - [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
@@ -18,7 +20,6 @@
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 * [2024-09-13, 20:41:50](https://news.ycombinator.com/item?id=41534927) - [Grounding AI in reality with a little help from Data Commons](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/)
 * [2024-09-13, 20:17:18](https://news.ycombinator.com/item?id=41534716) - [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
-* [2024-09-13, 16:50:26](https://news.ycombinator.com/item?id=41532946) - [Zero-Click Calendar invite vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 14:42:41](https://news.ycombinator.com/item?id=41531699) - [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 06:51:21](https://news.ycombinator.com/item?id=41528658) - [Historical Fiction Redefined the Literary Canon](https://www.thenation.com/article/culture/historical-fiction-awards-essay/)
@@ -29,7 +30,6 @@
 * [2024-09-11, 14:02:20](https://news.ycombinator.com/item?id=41511491) - [The Podcast Index](https://podcastindex.org/)
 * [2024-09-10, 16:44:36](https://news.ycombinator.com/item?id=41502798) - [Do Animals Know That They Will Die?](https://www.theatlantic.com/science/archive/2024/09/grieving-death-chimpanzees-thanatology/679750/)
 * [2024-09-10, 14:20:59](https://news.ycombinator.com/item?id=41501073) - [Hypermedia Controls: Feral to Formal (PDF: ACM HT'24)](https://dl.acm.org/doi/pdf/10.1145/3648188.3675127)
-* [2024-09-10, 14:13:02](https://news.ycombinator.com/item?id=41500984) - [Haskell Postgres Stored Procedures](https://github.com/ed-o-saurus/PLHaskell)
 
 ## [Archives](archives/index.md)
 
