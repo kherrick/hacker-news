@@ -66,6 +66,7 @@
 * [2024-09-10, 14:02:38](https://news.ycombinator.com/item?id=41500861) - [Show HN: I built a cheaper ChatGPT alternative that runs on your desktop](https://www.trynyro.com)
 * [2024-09-10, 14:01:42](https://news.ycombinator.com/item?id=41500856) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 * [2024-09-10, 14:00:23](https://news.ycombinator.com/item?id=41500840) - [PR-Agent — extension that adds AI chat to code reviews on GitHub](https://chromewebstore.google.com/detail/pr-agent-ai-powered-code/ephlnjeghhogofkifjloamocljapahnl)
+* [2024-09-10, 13:53:10](https://news.ycombinator.com/item?id=41500767) - [Coupled Oscillators for Computing](https://pubs.aip.org/aip/apr/article/7/1/011302/997386/Coupled-oscillators-for-computing-A-review-and)
 * [2024-09-10, 13:37:50](https://news.ycombinator.com/item?id=41500638) - [Show HN: Free Xcode Extension for GitHub Copilot and Codeium](https://news.ycombinator.com/item?id=41500638)
 * [2024-09-10, 13:31:52](https://news.ycombinator.com/item?id=41500602) - [The Spellbinding Life of Koji Kashin: Japan's Legendary Wandering Magician](https://www.tokyoweekender.com/art_and_culture/japanese-culture/the-spellbinding-life-of-koji-kashin-japans-legendary-wandering-magician/)
 * [2024-09-10, 13:19:29](https://news.ycombinator.com/item?id=41500522) - [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
