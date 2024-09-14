@@ -6,6 +6,7 @@
 
 * [2024-09-14, 18:39:54](https://news.ycombinator.com/item?id=41541883) - [Rust error handling is perfect](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
+* [2024-09-14, 17:46:42](https://news.ycombinator.com/item?id=41541459) - [The Bastard Operator from Hell](https://bofh.bjash.com/)
 * [2024-09-14, 17:15:38](https://news.ycombinator.com/item?id=41541166) - [The Jackpot Generation](https://macleans.ca/society/the-jackpot-generation/)
 * [2024-09-14, 17:02:56](https://news.ycombinator.com/item?id=41541053) - [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
 * [2024-09-14, 17:00:51](https://news.ycombinator.com/item?id=41541040) - [Rollstack (YC W23) is hiring exceptional LLM engineers and Full-stack engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
