@@ -2,10 +2,10 @@
 
 * [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 * [2024-09-14, 22:01:39](https://news.ycombinator.com/item?id=41543382) - [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)
+* [2024-09-14, 21:57:21](https://news.ycombinator.com/item?id=41543357) - [1.3M Android-Based TV Boxes Backdoored; Researchers Still Don't Know How](https://arstechnica.com/security/2024/09/researchers-still-dont-know-how-1-3-million-android-streaming-boxes-were-backdoored/)
 * [2024-09-14, 21:29:21](https://news.ycombinator.com/item?id=41543139) - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
 * [2024-09-14, 21:00:02](https://news.ycombinator.com/item?id=41542897) - [Hadrius (YC W23) Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
 * [2024-09-14, 20:52:21](https://news.ycombinator.com/item?id=41542788) - [Zen and the Art of Writer Decks (Using the Pomera DM250)](http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html)
-* [2024-09-14, 20:01:30](https://news.ycombinator.com/item?id=41542413) - [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
 * [2024-09-14, 19:36:43](https://news.ycombinator.com/item?id=41542241) - [Almost all new car sales in Norway last month were EVs](https://qz.com/almost-all-new-car-sales-in-norway-last-month-were-evs-1851639882)
 * [2024-09-14, 19:11:24](https://news.ycombinator.com/item?id=41542076) - [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
