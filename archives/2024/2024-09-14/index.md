@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 09:26:57](https://news.ycombinator.com/item?id=41538595) - [Sunamp's thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/)
 * [2024-09-14, 08:25:59](https://news.ycombinator.com/item?id=41538349) - [iPhone 16 Pro lets users capture ProRAW photos in JPEG-XL format](https://9to5mac.com/2024/09/13/iphone-16-pro-lets-users-capture-proraw-photos-in-jpeg-xl-format/)
 * [2024-09-14, 08:19:48](https://news.ycombinator.com/item?id=41538326) - [Losses widen at Stripe Europe to $1.1B after employee 'liquidity event'](https://www.irishtimes.com/business/2024/09/13/losses-widen-at-stripe-europe-to-11bn-after-employee-liquidity-event/)
 * [2024-09-14, 08:02:48](https://news.ycombinator.com/item?id=41538273) - [Show HN: I removed politics from Twitter with AI](https://www.mindfw.com)
