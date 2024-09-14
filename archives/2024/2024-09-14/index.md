@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 17:15:38](https://news.ycombinator.com/item?id=41541166) - [The Jackpot Generation](https://macleans.ca/society/the-jackpot-generation/)
 * [2024-09-14, 17:02:56](https://news.ycombinator.com/item?id=41541053) - [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
 * [2024-09-14, 17:00:51](https://news.ycombinator.com/item?id=41541040) - [Rollstack (YC W23) is hiring exceptional LLM engineers and Full-stack engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2024-09-14, 16:59:24](https://news.ycombinator.com/item?id=41541028) - [Testing the Firefox Alternatives](https://tommorris.org/posts/2024/testing-the-firefox-alternatives/)
 * [2024-09-14, 16:41:04](https://news.ycombinator.com/item?id=41540902) - [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
 * [2024-09-14, 16:40:26](https://news.ycombinator.com/item?id=41540894) - [iPhone 16's A18 Pro chip outperforms the M1 chip](https://9to5mac.com/2024/09/14/iphone-16-pro-m1/)
 * [2024-09-14, 16:25:30](https://news.ycombinator.com/item?id=41540795) - [Degrees of deception: How America's universities became debt factories](https://anandsanwal.me/college-student-debt-deception/)
+* [2024-09-14, 16:21:55](https://news.ycombinator.com/item?id=41540771) - [OpenAI, Anthropic, Google employees support California AI bill](https://www.axios.com/2024/09/09/openai-anthropic-deepmind-employees-ai-bill)
 * [2024-09-14, 16:18:19](https://news.ycombinator.com/item?id=41540755) - [Don't ask if AI can make art – ask how AI can be art](https://www.theverge.com/2024/9/13/24241189/generative-ai-interactivity-art)
 * [2024-09-14, 15:19:50](https://news.ycombinator.com/item?id=41540362) - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 * [2024-09-14, 15:19:28](https://news.ycombinator.com/item?id=41540359) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)
