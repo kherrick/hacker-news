@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 23:48:08](https://news.ycombinator.com/item?id=41536232) - [Stolen iPhones Will Be Even More Useless from iOS 18 Onwards](https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/)
 * [2024-09-13, 23:29:40](https://news.ycombinator.com/item?id=41536131) - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 * [2024-09-13, 23:21:10](https://news.ycombinator.com/item?id=41536088) - [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 * [2024-09-13, 23:07:24](https://news.ycombinator.com/item?id=41536003) - [The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 * [2024-09-13, 23:06:06](https://news.ycombinator.com/item?id=41535994) - [NextNav's Callous Land-Grab to Privatize 900 MHz](https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz)
+* [2024-09-13, 22:38:28](https://news.ycombinator.com/item?id=41535857) - [PGVector's Missing Features](https://trieve.ai/pgvector-missing-features)
+* [2024-09-13, 22:14:26](https://news.ycombinator.com/item?id=41535694) - [OpenAI o1 Results on ARC-AGI-Pub](https://arcprize.org/blog/openai-o1-results-arc-prize)
 * [2024-09-13, 21:31:13](https://news.ycombinator.com/item?id=41535354) - [Lisp Implemented in Rust Macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 * [2024-09-13, 21:26:59](https://news.ycombinator.com/item?id=41535317) - [Unicode 16 now includes retro video game sprites [pdf]](https://www.unicode.org/charts/PDF/Unicode-16.0/U160-1CC00.pdf)
 * [2024-09-13, 21:00:46](https://news.ycombinator.com/item?id=41535079) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
