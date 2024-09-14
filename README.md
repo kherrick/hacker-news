@@ -25,11 +25,11 @@
 * [2024-09-11, 16:00:05](https://news.ycombinator.com/item?id=41512618) - [The Cellular Secret to Resisting the Pressure of the Deep Sea](https://www.quantamagazine.org/the-cellular-secret-to-resisting-the-pressure-of-the-deep-sea-20240909/)
 * [2024-09-11, 15:42:46](https://news.ycombinator.com/item?id=41512436) - [Intents: The Endgame for Computing Interfaces?](https://http200.substack.com/p/intents-the-end-game-for-computing)
 * [2024-09-11, 15:13:19](https://news.ycombinator.com/item?id=41512129) - [Solving the bowling problem with dynamic programming](https://simonensemble.github.io/pluto_nbs/bowling.html)
+* [2024-09-11, 14:58:55](https://news.ycombinator.com/item?id=41512005) - [Gottfried Mind, the Raphael of Cats](https://publicdomainreview.org/essay/gottfried-mind-the-raphael-of-cats)
 * [2024-09-11, 14:02:20](https://news.ycombinator.com/item?id=41511491) - [The Podcast Index](https://podcastindex.org/)
 * [2024-09-10, 16:44:36](https://news.ycombinator.com/item?id=41502798) - [Do Animals Know That They Will Die?](https://www.theatlantic.com/science/archive/2024/09/grieving-death-chimpanzees-thanatology/679750/)
 * [2024-09-10, 14:20:59](https://news.ycombinator.com/item?id=41501073) - [Hypermedia Controls: Feral to Formal (PDF: ACM HT'24)](https://dl.acm.org/doi/pdf/10.1145/3648188.3675127)
 * [2024-09-10, 14:13:02](https://news.ycombinator.com/item?id=41500984) - [Haskell Postgres Stored Procedures](https://github.com/ed-o-saurus/PLHaskell)
-* [2024-09-10, 13:53:10](https://news.ycombinator.com/item?id=41500767) - [Coupled Oscillators for Computing (2020)](https://pubs.aip.org/aip/apr/article/7/1/011302/997386/Coupled-oscillators-for-computing-A-review-and)
 
 ## [Archives](archives/index.md)
 
