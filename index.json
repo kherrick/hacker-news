@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-14, 16:40:26",
+      "https://news.ycombinator.com/item?id=41540894"
+    ],
+    [
+      "iPhone 16's A18 Pro chip outperforms the M1 chip",
+      "https://9to5mac.com/2024/09/14/iphone-16-pro-m1/"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 16:25:30",
+      "https://news.ycombinator.com/item?id=41540795"
+    ],
+    [
+      "Degrees of deception: How America's universities became debt factories",
+      "https://anandsanwal.me/college-student-debt-deception/"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 15:19:50",
       "https://news.ycombinator.com/item?id=41540362"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-09-13, 16:50:26",
-      "https://news.ycombinator.com/item?id=41532946"
-    ],
-    [
-      "Zero-Click Calendar invite vulnerability chain in macOS",
-      "https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 14:42:41",
       "https://news.ycombinator.com/item?id=41531699"
     ],
@@ -287,16 +297,6 @@
     [
       "Hypermedia Controls: Feral to Formal (PDF: ACM HT'24)",
       "https://dl.acm.org/doi/pdf/10.1145/3648188.3675127"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 14:13:02",
-      "https://news.ycombinator.com/item?id=41500984"
-    ],
-    [
-      "Haskell Postgres Stored Procedures",
-      "https://github.com/ed-o-saurus/PLHaskell"
     ]
   ]
 ]
