@@ -7,6 +7,7 @@
 * [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
 * [2024-09-14, 14:58:28](https://news.ycombinator.com/item?id=41540220) - [U.S. Govt pushes Nvidia and Apple to use Intel's foundries](https://www.tomshardware.com/tech-industry/us-govt-pushes-nvidia-and-apple-to-use-intels-foundries-department-of-commerce-secretary-raimondo-makes-appeal-for-us-based-chip-production)
 * [2024-09-14, 14:47:12](https://news.ycombinator.com/item?id=41540152) - [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
+* [2024-09-14, 14:08:14](https://news.ycombinator.com/item?id=41539911) - [Craig Wright said he invented Bitcoin – lawyers proved him wrong](https://www.ft.com/content/f3bb0b62-2d8a-44e8-a5aa-13a8f154ec0e)
 * [2024-09-14, 13:02:58](https://news.ycombinator.com/item?id=41539553) - [Thomas Piketty: 'The Draghi report is a step in the right direction'](https://www.lemonde.fr/en/opinion/article/2024/09/14/thomas-piketty-the-draghi-report-is-a-step-in-the-right-direction_6725996_23.html)
 * [2024-09-14, 12:52:49](https://news.ycombinator.com/item?id=41539508) - [They don't make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
 * [2024-09-14, 12:09:44](https://news.ycombinator.com/item?id=41539294) - [Valkey achieved one million RPS 6 months after forking from Redis](https://valkey.io/blog/unlock-one-million-rps-part2/)
