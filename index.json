@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-14, 18:26:00",
+      "https://news.ycombinator.com/item?id=41541770"
+    ],
+    [
+      "Falsehoods programmers believe about TCP",
+      "https://lwn.net/Articles/990281/"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 17:02:56",
       "https://news.ycombinator.com/item?id=41541053"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2024-09-14, 16:21:55",
-      "https://news.ycombinator.com/item?id=41540771"
+      "2024-09-14, 16:22:42",
+      "https://news.ycombinator.com/item?id=41540777"
     ],
     [
-      "OpenAI, Anthropic, Google employees support California AI bill",
-      "https://www.axios.com/2024/09/09/openai-anthropic-deepmind-employees-ai-bill"
+      "Nesting Arena Allocators in Rust",
+      "https://blog.yoshuawuyts.com/nesting-allocators/"
     ]
   ],
   [
@@ -87,6 +97,16 @@
     [
       "The Symbolics Ivory Design and Verification Strategy (1987)",
       "https://archive.org/details/ivory-design-verification"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 15:00:46",
+      "https://news.ycombinator.com/item?id=41540230"
+    ],
+    [
+      "Academic Journal Publishers Antitrust Litigation",
+      "https://www.lieffcabraser.com/antitrust/academic-journals/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-09-11, 15:13:19",
-      "https://news.ycombinator.com/item?id=41512129"
-    ],
-    [
-      "Solving the bowling problem with dynamic programming",
-      "https://simonensemble.github.io/pluto_nbs/bowling.html"
-    ]
-  ],
-  [
-    [
       "2024-09-11, 14:02:20",
       "https://news.ycombinator.com/item?id=41511491"
     ],
     [
       "The Podcast Index",
       "https://podcastindex.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 16:44:36",
-      "https://news.ycombinator.com/item?id=41502798"
-    ],
-    [
-      "Do Animals Know That They Will Die?",
-      "https://www.theatlantic.com/science/archive/2024/09/grieving-death-chimpanzees-thanatology/679750/"
     ]
   ]
 ]
