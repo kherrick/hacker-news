@@ -37,6 +37,7 @@
 * [2024-09-11, 15:21:02](https://news.ycombinator.com/item?id=41512207) - [David Chang on the long, hard, stupid way](https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/)
 * [2024-09-11, 15:19:02](https://news.ycombinator.com/item?id=41512191) - [Neanderthals' social isolation may have sped up their extinction](https://www.popsci.com/science/neanderthal-extinction-isolation/)
 * [2024-09-11, 15:14:44](https://news.ycombinator.com/item?id=41512142) - [Show HN: Tune LLaMa3.1 on Google Cloud TPUs](https://github.com/felafax/felafax)
+* [2024-09-11, 14:58:55](https://news.ycombinator.com/item?id=41512005) - [Gottfried Mind, the Raphael of Cats](https://publicdomainreview.org/essay/gottfried-mind-the-raphael-of-cats)
 * [2024-09-11, 14:51:44](https://news.ycombinator.com/item?id=41511928) - [Scientists use magnetic nanotech to safely rewarm frozen tissues for transplant](https://phys.org/news/2024-09-scientists-magnetic-nanotech-safely-rewarm.html)
 * [2024-09-11, 14:48:48](https://news.ycombinator.com/item?id=41511899) - [Writing an HTTP Server in Go from Scratch: Part 1](https://www.krayorn.com/posts/http-server-go/)
 * [2024-09-11, 14:22:37](https://news.ycombinator.com/item?id=41511672) - [Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices](https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11)
