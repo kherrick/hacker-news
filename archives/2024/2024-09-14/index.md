@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 12:01:16](https://news.ycombinator.com/item?id=41539250) - [Icon (real creators, AI ads) is hiring founding engineers (NYC)](https://icon.me/careers)
+* [2024-09-14, 11:57:29](https://news.ycombinator.com/item?id=41539235) - [The data on extreme human ageing is rotten from the inside out](https://theconversation.com/the-data-on-extreme-human-ageing-is-rotten-from-the-inside-out-ig-nobel-winner-saul-justin-newman-239023)
 * [2024-09-14, 10:14:51](https://news.ycombinator.com/item?id=41538777) - [Tiny Great Languages: Forth/Mouse](https://zserge.com/posts/langs-mouse/)
 * [2024-09-14, 10:06:12](https://news.ycombinator.com/item?id=41538743) - [Ask HN: What's the best documentation site you've come across?](https://news.ycombinator.com/item?id=41538743)
 * [2024-09-14, 09:26:57](https://news.ycombinator.com/item?id=41538595) - [Sunamp's thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/)
