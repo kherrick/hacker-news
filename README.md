@@ -28,8 +28,8 @@
 * [2024-09-10, 20:14:41](https://news.ycombinator.com/item?id=41505032) - [I Am Herman Melville](https://lareviewofbooks.org/article/i-am-herman-melville/)
 * [2024-09-10, 15:41:43](https://news.ycombinator.com/item?id=41501912) - [Jerry Neumann: Resignation Letter](https://reactionwheel.net/2024/09/resignation-letter.html)
 * [2024-09-10, 15:24:03](https://news.ycombinator.com/item?id=41501709) - [Irish museum solves mystery of Bronze Age axe heads delivered in porridge box](https://www.theguardian.com/science/article/2024/jul/25/irish-museum-solves-mystery-of-bronze-age-axe-heads-delivered-in-porridge-box)
+* [2024-09-10, 14:13:02](https://news.ycombinator.com/item?id=41500984) - [Haskell Postgres Stored Procedures](https://github.com/ed-o-saurus/PLHaskell)
 * [2024-09-10, 05:25:47](https://news.ycombinator.com/item?id=41497419) - [Don't Take Advice from a Habsburg](https://www.thedial.world/articles/news/issue-20/eduard-habsburg-the-habsburg-way-review)
-* [2024-09-09, 07:03:40](https://news.ycombinator.com/item?id=41486107) - [Build Simple Fuzzer (2020)](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 
 ## [Archives](archives/index.md)
 
