@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-15, 06:25:40](https://news.ycombinator.com/item?id=41545633) - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
-* [2024-09-15, 06:21:54](https://news.ycombinator.com/item?id=41545615) - [The Most Desperately Needed Airplane Is Back in Production](https://www.bloomberg.com/news/features/2024-09-13/canada-is-making-the-world-s-most-desperately-needed-airplane)
 * [2024-09-15, 06:18:54](https://news.ycombinator.com/item?id=41545601) - [Dropped Cheetos Could Have Triggered Ecosystem Chaos in Largest US Cave Chamber](https://www.iflscience.com/dropped-cheetos-could-have-triggered-ecosystem-chaos-in-largest-us-cave-chamber-75874)
+* [2024-09-15, 06:08:51](https://news.ycombinator.com/item?id=41545564) - [How to Optimize Your Career for Happiness](https://praachi.work/blog/optimize-career-happiness)
+* [2024-09-15, 06:02:47](https://news.ycombinator.com/item?id=41545541) - [Show HN: I made a game testing your prompting skills](https://app4.hc11.org/49499641/en/)
 * [2024-09-15, 05:48:37](https://news.ycombinator.com/item?id=41545495) - [Fuck founder mode. Work in \"Fuck off mode\"](https://old.reddit.com/r/SaaS/comments/1fgv248/fuck_founder_mode_work_in_fuck_off_mode/)
 * [2024-09-15, 04:02:10](https://news.ycombinator.com/item?id=41545100) - [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
 * [2024-09-15, 03:31:04](https://news.ycombinator.com/item?id=41544990) - [A Time Consuming Pitfall for 32-Bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
@@ -10,7 +11,6 @@
 * [2024-09-15, 01:14:32](https://news.ycombinator.com/item?id=41544386) - [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
 * [2024-09-15, 01:09:25](https://news.ycombinator.com/item?id=41544364) - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 * [2024-09-15, 01:06:39](https://news.ycombinator.com/item?id=41544348) - [Diffusion Illusions: Hiding Images in Plain Sight](https://diffusionillusions.com/)
-* [2024-09-15, 00:03:21](https://news.ycombinator.com/item?id=41544059) - [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
 * [2024-09-14, 23:11:25](https://news.ycombinator.com/item?id=41543805) - [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
 * [2024-09-14, 22:43:51](https://news.ycombinator.com/item?id=41543642) - [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
