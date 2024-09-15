@@ -8,7 +8,7 @@
 * [2024-09-15, 08:04:02](https://news.ycombinator.com/item?id=41546015) - [AT&T's Hobbit Microprocessor (2023)](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 06:52:11](https://news.ycombinator.com/item?id=41545737) - [i3wm inspired wm for Windows](https://github.com/glzr-io/glazewm)
 * [2024-09-15, 06:36:48](https://news.ycombinator.com/item?id=41545670) - [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
-* [2024-09-15, 06:25:40](https://news.ycombinator.com/item?id=41545633) - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
+* [2024-09-15, 06:08:51](https://news.ycombinator.com/item?id=41545564) - [Optimizing your career for happiness](https://praachi.work/blog/optimize-career-happiness)
 * [2024-09-15, 05:04:59](https://news.ycombinator.com/item?id=41545335) - [Show HN: Bullshit Remover](https://www.bullshitremover.com/)
 * [2024-09-15, 04:02:10](https://news.ycombinator.com/item?id=41545100) - [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
 * [2024-09-15, 03:25:14](https://news.ycombinator.com/item?id=41544969) - [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
