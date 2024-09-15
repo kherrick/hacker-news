@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 08:58:23](https://news.ycombinator.com/item?id=41546242) - [European Consumer Organization goes after publishers for their in-game currency](https://www.gamingonlinux.com/2024/09/european-consumer-organization-goes-after-multiple-publishers-for-their-in-game-currency/)
+* [2024-09-15, 08:07:21](https://news.ycombinator.com/item?id=41546032) - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
 * [2024-09-15, 06:36:48](https://news.ycombinator.com/item?id=41545670) - [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
 * [2024-09-15, 06:25:40](https://news.ycombinator.com/item?id=41545633) - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
 * [2024-09-15, 06:21:54](https://news.ycombinator.com/item?id=41545615) - [The Most Desperately Needed Airplane Is Back in Production](https://www.bloomberg.com/news/features/2024-09-13/canada-is-making-the-world-s-most-desperately-needed-airplane)
