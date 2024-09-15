@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 17:54:42](https://news.ycombinator.com/item?id=41549086) - [Playstation 5 Pro Shows the Futility of the Video-Game Graphics Race](https://www.bloomberg.com/news/newsletters/2024-09-13/playstation-5-pro-shows-futility-of-video-game-graphics-race)
+* [2024-09-15, 17:42:10](https://news.ycombinator.com/item?id=41548997) - [Terence Tao: creative strategies, this aspect of LLM tools is still weak](https://mathstodon.xyz/@tao/113142753409304792)
 * [2024-09-15, 17:15:31](https://news.ycombinator.com/item?id=41548767) - [Turning Disposable Vapes into a Fast Charge Power Bank](https://www.youtube.com/watch?v=ehp23hrrEHY)
 * [2024-09-15, 17:02:43](https://news.ycombinator.com/item?id=41548677) - [U.S. fleet welcomes newest USS New Jersey, the first gender-neutral submarine](https://www.northjersey.com/story/news/2024/09/14/uss-new-jersey-the-first-gender-neutral-submarine-joins-u-s-fleet/75210209007/)
 * [2024-09-15, 17:00:51](https://news.ycombinator.com/item?id=41548663) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-09-15, 16:53:01](https://news.ycombinator.com/item?id=41548601) - [How to Make Millions as a Professional Whistleblower](https://www.gq.com/story/how-to-make-millions-as-a-professional-whistleblower)
 * [2024-09-15, 16:39:48](https://news.ycombinator.com/item?id=41548515) - [Human drivers keep rear-ending Waymos](https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/)
+* [2024-09-15, 16:38:47](https://news.ycombinator.com/item?id=41548510) - [Show HN: Server Uptime](https://server-uptime.pw/)
 * [2024-09-15, 16:33:47](https://news.ycombinator.com/item?id=41548474) - [Linux 6.11 Released](https://lwn.net/Articles/990307/)
 * [2024-09-15, 16:22:30](https://news.ycombinator.com/item?id=41548399) - [Sweden will offer migrants $34,000 to go home](https://www.nytimes.com/2024/09/13/world/europe/sweden-immigration-reform.html)
+* [2024-09-15, 16:04:27](https://news.ycombinator.com/item?id=41548278) - [A bullet hell game written in bash](https://twitter.com/SomeUnusualGame/status/1834946212610400522)
 * [2024-09-15, 15:22:27](https://news.ycombinator.com/item?id=41548016) - [Our New Religion Isn't Enough](https://www.freyaindia.co.uk/p/our-new-religion-isnt-enough)
 * [2024-09-15, 15:12:17](https://news.ycombinator.com/item?id=41547951) - [NASA Mission Gets Its First Snapshot of Polar Heat Emissions](https://www.jpl.nasa.gov/news/nasa-mission-gets-its-first-snapshot-of-polar-heat-emissions)
 * [2024-09-15, 15:02:26](https://news.ycombinator.com/item?id=41547899) - [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)

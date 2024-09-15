@@ -38,6 +38,7 @@
 * [2024-09-11, 15:42:46](https://news.ycombinator.com/item?id=41512436) - [Intents: The Endgame for Computing Interfaces?](https://http200.substack.com/p/intents-the-end-game-for-computing)
 * [2024-09-11, 15:32:20](https://news.ycombinator.com/item?id=41512341) - [New Feature Alert: Access Archived Webpages Directly Through Google Search](https://blog.archive.org/2024/09/11/new-feature-alert-access-archived-webpages-directly-through-google-search/)
 * [2024-09-11, 15:30:48](https://news.ycombinator.com/item?id=41512328) - [Uber drivers in Kenya are ignoring the app and charging their own rates](https://restofworld.org/2024/kenya-uber-rate-cards-fuel-prices/)
+* [2024-09-11, 15:25:51](https://news.ycombinator.com/item?id=41512270) - [We verify the correctness of a spreadsheet engine](https://rowzero.io/blog/property-based-testing)
 * [2024-09-11, 15:21:02](https://news.ycombinator.com/item?id=41512207) - [David Chang on the long, hard, stupid way](https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/)
 * [2024-09-11, 15:19:02](https://news.ycombinator.com/item?id=41512191) - [Neanderthals' social isolation may have sped up their extinction](https://www.popsci.com/science/neanderthal-extinction-isolation/)
 * [2024-09-11, 15:18:06](https://news.ycombinator.com/item?id=41512181) - [Startup Mortality Rates](https://avc.xyz/startup-mortality-rates)
