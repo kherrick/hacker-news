@@ -24,10 +24,10 @@
 * [2024-09-14, 12:08:59](https://news.ycombinator.com/item?id=41539288) - [The Rise of Open Source Time Series Databases](https://victoriametrics.com/blog/the-rise-of-open-source-time-series-databases/index.html)
 * [2024-09-14, 11:36:00](https://news.ycombinator.com/item?id=41539125) - [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
-* [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)
 * [2024-09-12, 13:43:36](https://news.ycombinator.com/item?id=41520883) - [The Tippy Type makes typing with long nails less tedious](https://www.theverge.com/24209704/tippy-type-review-keyboard-accessory)
 * [2024-09-12, 12:24:03](https://news.ycombinator.com/item?id=41520020) - [Giant sloth bone pendants suggest humans were in Americas earlier than thought](https://www.cnn.com/2023/07/12/americas/giant-sloth-bone-pendants-scn/index.html)
 * [2024-09-12, 08:01:09](https://news.ycombinator.com/item?id=41518567) - [USPS' long-awaited new mail truck makes its debut](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
+* [2024-09-12, 06:19:45](https://news.ycombinator.com/item?id=41518094) - [Writing a Lisp compiler (Lisp to assembly) from scratch in JavaScript (2018)](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 * [2024-09-10, 16:18:36](https://news.ycombinator.com/item?id=41502453) - [Show HN: GitOps Template for Kubernetes](https://github.com/glasskube/gitops-template/)
 * [2024-09-10, 14:34:31](https://news.ycombinator.com/item?id=41501209) - [Dynamic Viewpoint Symbols](https://imagico.de/blog/en/more-dynamic-symbols-viewpoints/)
 

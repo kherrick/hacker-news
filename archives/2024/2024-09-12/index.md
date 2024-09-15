@@ -83,6 +83,7 @@
 * [2024-09-12, 07:43:18](https://news.ycombinator.com/item?id=41518456) - [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
 * [2024-09-12, 06:53:49](https://news.ycombinator.com/item?id=41518221) - [Startup employee claims she was fired for 'liking' a post on toxic workplaces](https://www.hindustantimes.com/trending/startup-employee-claims-she-was-fired-for-liking-a-linkedin-post-on-toxic-workplaces-101726116584028.html)
 * [2024-09-12, 06:44:04](https://news.ycombinator.com/item?id=41518179) - [House passes $1.6B to deliver anti-China propaganda overseas](https://responsiblestatecraft.org/china-cold-war-2669160202/)
+* [2024-09-12, 06:19:45](https://news.ycombinator.com/item?id=41518094) - [Writing a Lisp compiler (Lisp to assembly) from scratch in JavaScript (2018)](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 * [2024-09-12, 05:19:22](https://news.ycombinator.com/item?id=41517831) - [The Neverending Story](https://garrettdimon.com/journal/posts/the-neverending-story)
 * [2024-09-12, 05:14:47](https://news.ycombinator.com/item?id=41517811) - [Live SpaceX Polaris Dawn Spacewalk](https://www.youtube.com/watch?v=_FbnAmkb9bE)
 * [2024-09-12, 03:31:23](https://news.ycombinator.com/item?id=41517312) - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
