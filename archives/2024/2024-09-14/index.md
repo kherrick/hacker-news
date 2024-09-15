@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
 * [2024-09-14, 23:11:25](https://news.ycombinator.com/item?id=41543805) - [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
+* [2024-09-14, 22:47:20](https://news.ycombinator.com/item?id=41543666) - [Ask HN: Former gifted children with hard lives, how did you turn out?](https://news.ycombinator.com/item?id=41543666)
 * [2024-09-14, 22:43:51](https://news.ycombinator.com/item?id=41543642) - [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 * [2024-09-14, 22:01:39](https://news.ycombinator.com/item?id=41543382) - [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)
