@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-15, 15:02:26",
+      "https://news.ycombinator.com/item?id=41547899"
+    ],
+    [
+      "Compression Dictionary Transport",
+      "https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 14:44:29",
       "https://news.ycombinator.com/item?id=41547773"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-09-15, 12:50:10",
-      "https://news.ycombinator.com/item?id=41547200"
+      "2024-09-15, 13:30:49",
+      "https://news.ycombinator.com/item?id=41547395"
     ],
     [
-      "US House votes to bar new DJI drones",
-      "https://www.reuters.com/world/us/us-house-votes-bar-new-drones-chinese-manufacturer-dji-2024-09-09/"
+      "Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn",
+      "https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "OpenSCAD: The Programmer's Solid 3D CAD Modeller",
       "https://openscad.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 21:25:29",
-      "https://news.ycombinator.com/item?id=41543109"
-    ],
-    [
-      "Warewoolf: A minimalist novel-writing system/rich text editor",
-      "https://github.com/brsloan/warewoolf"
     ]
   ],
   [
