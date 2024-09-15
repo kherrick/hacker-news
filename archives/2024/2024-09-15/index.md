@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 21:07:58](https://news.ycombinator.com/item?id=41550406) - [The Unfortunate Physics of Male Urination (2016)](https://priceonomics.com/why-cant-we-build-a-splash-proof-toilet/)
 * [2024-09-15, 20:20:39](https://news.ycombinator.com/item?id=41550053) - [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
 * [2024-09-15, 20:19:53](https://news.ycombinator.com/item?id=41550043) - [Linux dev swatted and handcuffed live during a development video stream](https://www.tomshardware.com/software/linux/linux-dev-swatted-live-during-a-development-video-stream)
 * [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
