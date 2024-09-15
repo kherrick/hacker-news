@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 16:22:30](https://news.ycombinator.com/item?id=41548399) - [Sweden will offer migrants $34,000 to go home](https://www.nytimes.com/2024/09/13/world/europe/sweden-immigration-reform.html)
 * [2024-09-15, 15:12:17](https://news.ycombinator.com/item?id=41547951) - [NASA Mission Gets Its First Snapshot of Polar Heat Emissions](https://www.jpl.nasa.gov/news/nasa-mission-gets-its-first-snapshot-of-polar-heat-emissions)
 * [2024-09-15, 15:02:26](https://news.ycombinator.com/item?id=41547899) - [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)
 * [2024-09-15, 14:54:18](https://news.ycombinator.com/item?id=41547841) - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
