@@ -11,6 +11,7 @@
 * [2024-09-15, 06:08:51](https://news.ycombinator.com/item?id=41545564) - [How to Optimize Your Career for Happiness](https://praachi.work/blog/optimize-career-happiness)
 * [2024-09-15, 06:02:47](https://news.ycombinator.com/item?id=41545541) - [Show HN: I made a game testing your prompting skills](https://app4.hc11.org/49499641/en/)
 * [2024-09-15, 05:48:37](https://news.ycombinator.com/item?id=41545495) - [Fuck founder mode. Work in \"Fuck off mode\"](https://old.reddit.com/r/SaaS/comments/1fgv248/fuck_founder_mode_work_in_fuck_off_mode/)
+* [2024-09-15, 05:04:59](https://news.ycombinator.com/item?id=41545335) - [Show HN: I Made Bullshit Remover](https://www.bullshitremover.com/)
 * [2024-09-15, 04:21:27](https://news.ycombinator.com/item?id=41545192) - [CCI Finds Samsung, Xiaomi Colluding with Amazon, Flipkart: Report](https://www.business-standard.com/india-news/cci-finds-samsung-xiaomi-colluding-with-amazon-flipkart-report-124091400401_1.html)
 * [2024-09-15, 04:16:00](https://news.ycombinator.com/item?id=41545168) - [Free Starlink Internet is coming to all of United's airplanes](https://arstechnica.com/information-technology/2024/09/free-starlink-internet-is-coming-to-all-of-uniteds-airplanes/)
 * [2024-09-15, 04:02:10](https://news.ycombinator.com/item?id=41545100) - [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
