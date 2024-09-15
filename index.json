@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-15, 00:36:40",
+      "https://news.ycombinator.com/item?id=41544202"
+    ],
+    [
+      "Earth to have new mini-moon for two months",
+      "https://phys.org/news/2024-09-earth-mini-moon-months.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 00:03:21",
+      "https://news.ycombinator.com/item?id=41544059"
+    ],
+    [
+      "Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency",
+      "https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 22:02:14",
       "https://news.ycombinator.com/item?id=41543386"
     ],
@@ -11,32 +31,22 @@
   ],
   [
     [
-      "2024-09-14, 22:01:39",
-      "https://news.ycombinator.com/item?id=41543382"
-    ],
-    [
-      "A cartoon butt clenching a bar of soap has invaded my online ads",
-      "https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 21:57:21",
-      "https://news.ycombinator.com/item?id=41543357"
-    ],
-    [
-      "1.3M Android-Based TV Boxes Backdoored; Researchers Still Don't Know How",
-      "https://arstechnica.com/security/2024/09/researchers-still-dont-know-how-1-3-million-android-streaming-boxes-were-backdoored/"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 21:29:21",
       "https://news.ycombinator.com/item?id=41543139"
     ],
     [
       "To forget is an ethical act",
       "https://emilygorcenski.com/post/to-forget-is-an-ethical-act/"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 21:25:29",
+      "https://news.ycombinator.com/item?id=41543109"
+    ],
+    [
+      "Brsloan/warewoolf: A minimalist novel-writing system/rich text editor",
+      "https://github.com/brsloan/warewoolf"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Zen and the Art of Writer Decks (Using the Pomera DM250)",
       "http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 19:11:24",
-      "https://news.ycombinator.com/item?id=41542076"
-    ],
-    [
-      "Installing Arch Linux on a Laptop",
-      "https://giacomo.coletto.io/blog/arch-amd/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-09-14, 15:12:33",
-      "https://news.ycombinator.com/item?id=41540301"
-    ],
-    [
-      "Geothermal energy could outperform nuclear power",
-      "https://www.economist.com/science-and-technology/2024/09/13/geothermal-energy-could-outperform-nuclear-power"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 14:59:10",
       "https://news.ycombinator.com/item?id=41540221"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2024-09-13, 05:56:01",
-      "https://news.ycombinator.com/item?id=41528360"
-    ],
-    [
-      "The Reinforcing Nature of Toil (2023)",
-      "https://entropicthoughts.com/the-reinforcing-nature-of-toil"
-    ]
-  ],
-  [
-    [
       "2024-09-12, 13:43:36",
       "https://news.ycombinator.com/item?id=41520883"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-09-12, 08:01:09",
+      "https://news.ycombinator.com/item?id=41518567"
+    ],
+    [
+      "USPS' long-awaited new mail truck makes its debut",
+      "https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 15:59:43",
       "https://news.ycombinator.com/item?id=41512610"
     ],
     [
       "European Satellite Burns Up for Science",
       "https://spectrum.ieee.org/reentry-science-esa-salsa-satellite"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 16:18:36",
+      "https://news.ycombinator.com/item?id=41502453"
+    ],
+    [
+      "Show HN: GitOps Template for Kubernetes",
+      "https://github.com/glasskube/gitops-template/"
     ]
   ],
   [
