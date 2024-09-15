@@ -61,6 +61,7 @@
 * [2024-09-10, 15:03:27](https://news.ycombinator.com/item?id=41501494) - [Exploring the scalable matrix extension of the Apple M4 processor](https://github.com/tzakharko/m4-sme-exploration)
 * [2024-09-10, 15:00:56](https://news.ycombinator.com/item?id=41501470) - [Ask HN: How can I monetise an open source app of mine that has become popular?](https://news.ycombinator.com/item?id=41501470)
 * [2024-09-10, 14:34:58](https://news.ycombinator.com/item?id=41501215) - [Sapling: Source control that's user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+* [2024-09-10, 14:34:31](https://news.ycombinator.com/item?id=41501209) - [Dynamic Viewpoint Symbols](https://imagico.de/blog/en/more-dynamic-symbols-viewpoints/)
 * [2024-09-10, 14:31:40](https://news.ycombinator.com/item?id=41501175) - [On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
 * [2024-09-10, 14:20:59](https://news.ycombinator.com/item?id=41501073) - [Hypermedia Controls: Feral to Formal (PDF: ACM HT'24)](https://dl.acm.org/doi/pdf/10.1145/3648188.3675127)
 * [2024-09-10, 14:13:02](https://news.ycombinator.com/item?id=41500984) - [Haskell Postgres Stored Procedures](https://github.com/ed-o-saurus/PLHaskell)
