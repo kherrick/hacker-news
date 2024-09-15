@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-15, 17:54:42",
+      "https://news.ycombinator.com/item?id=41549086"
+    ],
+    [
+      "Playstation 5 Pro Shows the Futility of the Video-Game Graphics Race",
+      "https://www.bloomberg.com/news/newsletters/2024-09-13/playstation-5-pro-shows-futility-of-video-game-graphics-race"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 17:42:10",
+      "https://news.ycombinator.com/item?id=41548997"
+    ],
+    [
+      "Terence Tao: creative strategies, this aspect of LLM tools is still weak",
+      "https://mathstodon.xyz/@tao/113142753409304792"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 17:15:31",
       "https://news.ycombinator.com/item?id=41548767"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-09-15, 16:39:48",
-      "https://news.ycombinator.com/item?id=41548515"
+      "2024-09-15, 16:38:47",
+      "https://news.ycombinator.com/item?id=41548510"
     ],
     [
-      "Human drivers keep rear-ending Waymos",
-      "https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/"
+      "Show HN: Server Uptime",
+      "https://server-uptime.pw/"
     ]
   ],
   [
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2024-09-15, 15:12:17",
-      "https://news.ycombinator.com/item?id=41547951"
+      "2024-09-15, 16:04:27",
+      "https://news.ycombinator.com/item?id=41548278"
     ],
     [
-      "NASA Mission Gets Its First Snapshot of Polar Heat Emissions",
-      "https://www.jpl.nasa.gov/news/nasa-mission-gets-its-first-snapshot-of-polar-heat-emissions"
+      "A bullet hell game written in bash",
+      "https://twitter.com/SomeUnusualGame/status/1834946212610400522"
     ]
   ],
   [
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2024-09-15, 14:49:26",
-      "https://news.ycombinator.com/item?id=41547806"
-    ],
-    [
-      "Ask HN: When do you block out time to learn new things?",
-      "https://news.ycombinator.com/item?id=41547806"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 13:32:37",
       "https://news.ycombinator.com/item?id=41547405"
     ],
     [
       "Open Source security camera on Raspberry Pi",
       "https://github.com/TzuHuanTai/RaspberryPi_WebRTC"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 12:07:16",
-      "https://news.ycombinator.com/item?id=41546995"
-    ],
-    [
-      "Logbookd – SQLite Backed Syslogd",
-      "https://git.sr.ht/~martijnbraam/logbookd"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-09-14, 22:43:51",
-      "https://news.ycombinator.com/item?id=41543642"
-    ],
-    [
-      "Show HN: I made a digital circuit drawing and simulation game",
-      "https://github.com/lets-all-be-stupid-forever/circuit-artist"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 22:02:14",
       "https://news.ycombinator.com/item?id=41543386"
     ],
@@ -287,6 +277,16 @@
     [
       "We're not going to run out of new anatomy anytime soon",
       "https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/"
+    ]
+  ],
+  [
+    [
+      "2024-09-11, 15:25:51",
+      "https://news.ycombinator.com/item?id=41512270"
+    ],
+    [
+      "We verify the correctness of a spreadsheet engine",
+      "https://rowzero.io/blog/property-based-testing"
     ]
   ],
   [
