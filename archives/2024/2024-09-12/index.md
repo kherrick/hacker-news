@@ -55,6 +55,7 @@
 * [2024-09-12, 13:54:04](https://news.ycombinator.com/item?id=41521002) - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 * [2024-09-12, 13:49:12](https://news.ycombinator.com/item?id=41520950) - [The art of niwaki (Japanese tree pruning)](https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/)
 * [2024-09-12, 13:43:36](https://news.ycombinator.com/item?id=41520883) - [The Tippy Type makes typing with long nails less tedious](https://www.theverge.com/24209704/tippy-type-review-keyboard-accessory)
+* [2024-09-12, 13:21:33](https://news.ycombinator.com/item?id=41520620) - [Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork](https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406)
 * [2024-09-12, 13:19:41](https://news.ycombinator.com/item?id=41520601) - [The future of Boeing's crewed spaceflight program muddy after Starliner's return](https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/)
 * [2024-09-12, 13:11:25](https://news.ycombinator.com/item?id=41520516) - [Apple Vision Pro's Eye Tracking Exposed What People Type](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
 * [2024-09-12, 13:05:40](https://news.ycombinator.com/item?id=41520465) - [Old Easter Island genomes show no sign of a population collapse](https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/)
