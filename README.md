@@ -6,7 +6,6 @@
 * [2024-09-15, 14:54:18](https://news.ycombinator.com/item?id=41547841) - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
 * [2024-09-15, 14:50:13](https://news.ycombinator.com/item?id=41547816) - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
 * [2024-09-15, 14:44:29](https://news.ycombinator.com/item?id=41547773) - [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
-* [2024-09-15, 13:59:56](https://news.ycombinator.com/item?id=41547566) - [Designing mathematics standards in agreement with science [pdf]](https://www.iejme.com/download/designing-mathematics-standards-in-agreement-with-science-13179.pdf)
 * [2024-09-15, 13:32:37](https://news.ycombinator.com/item?id=41547405) - [Open Source security camera on Raspberry Pi](https://github.com/TzuHuanTai/RaspberryPi_WebRTC)
 * [2024-09-15, 12:46:26](https://news.ycombinator.com/item?id=41547181) - [Retiring from the Idea of Retirement](https://candost.blog/retiring-from-the-idea-of-retirement/)
 * [2024-09-15, 12:07:16](https://news.ycombinator.com/item?id=41546995) - [Logbookd – SQLite Backed Syslogd](https://git.sr.ht/~martijnbraam/logbookd)
@@ -28,6 +27,7 @@
 * [2024-09-13, 12:27:52](https://news.ycombinator.com/item?id=41530571) - [Throwable tactical camera transmits 360° panoramic thermal images](https://newatlas.com/technology/throwable-tactical-camera-panoramic-thermal-images/)
 * [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
 * [2024-09-12, 13:49:12](https://news.ycombinator.com/item?id=41520950) - [The art of niwaki (Japanese tree pruning)](https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/)
+* [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
 * [2024-09-10, 21:02:40](https://news.ycombinator.com/item?id=41505528) - [The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
 * [2024-09-10, 15:16:35](https://news.ycombinator.com/item?id=41501625) - [Strtod Is Wild](https://festina-lente-productions.com/articles/strtod-is-wild/)
 
