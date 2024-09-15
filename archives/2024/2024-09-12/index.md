@@ -90,6 +90,7 @@
 * [2024-09-12, 03:22:34](https://news.ycombinator.com/item?id=41517272) - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
 * [2024-09-12, 03:19:01](https://news.ycombinator.com/item?id=41517245) - [2026 Kia EV3 First Drive Review: More Like This, Please](https://www.thedrive.com/car-reviews/2026-kia-ev3-first-drive-review)
 * [2024-09-12, 03:01:21](https://news.ycombinator.com/item?id=41517163) - [Public Suffix List](https://publicsuffix.org/)
+* [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
 * [2024-09-12, 02:21:30](https://news.ycombinator.com/item?id=41516997) - [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
 * [2024-09-12, 02:03:29](https://news.ycombinator.com/item?id=41516934) - [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
 * [2024-09-12, 01:28:19](https://news.ycombinator.com/item?id=41516783) - [ISO Panel – Trust in AI: How to build global confidence [video]](https://www.iso.org/annualmeeting/session/ai/trust)

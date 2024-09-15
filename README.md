@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-15, 04:16:00](https://news.ycombinator.com/item?id=41545168) - [Free Starlink Internet is coming to all of United's airplanes](https://arstechnica.com/information-technology/2024/09/free-starlink-internet-is-coming-to-all-of-uniteds-airplanes/)
 * [2024-09-15, 01:14:32](https://news.ycombinator.com/item?id=41544386) - [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
 * [2024-09-15, 01:09:25](https://news.ycombinator.com/item?id=41544364) - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 * [2024-09-15, 00:03:21](https://news.ycombinator.com/item?id=41544059) - [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
@@ -9,7 +10,6 @@
 * [2024-09-14, 21:29:21](https://news.ycombinator.com/item?id=41543139) - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
 * [2024-09-14, 21:25:29](https://news.ycombinator.com/item?id=41543109) - [Brsloan/warewoolf: A minimalist novel-writing system/rich text editor](https://github.com/brsloan/warewoolf)
 * [2024-09-14, 20:52:21](https://news.ycombinator.com/item?id=41542788) - [Zen and the Art of Writer Decks (Using the Pomera DM250)](http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html)
-* [2024-09-14, 18:54:50](https://news.ycombinator.com/item?id=41541975) - [Show HN: The Hitchhiker's Guide to the Galaxy Online](https://www.the42.life/)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 17:46:42](https://news.ycombinator.com/item?id=41541459) - [The Bastard Operator from Hell (1999)](https://bofh.bjash.com/)
 * [2024-09-14, 17:02:56](https://news.ycombinator.com/item?id=41541053) - [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
@@ -23,11 +23,11 @@
 * [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
 * [2024-09-14, 12:08:59](https://news.ycombinator.com/item?id=41539288) - [The Rise of Open Source Time Series Databases](https://victoriametrics.com/blog/the-rise-of-open-source-time-series-databases/index.html)
 * [2024-09-14, 11:36:00](https://news.ycombinator.com/item?id=41539125) - [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125)
-* [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-12, 13:43:36](https://news.ycombinator.com/item?id=41520883) - [The Tippy Type makes typing with long nails less tedious](https://www.theverge.com/24209704/tippy-type-review-keyboard-accessory)
 * [2024-09-12, 12:24:03](https://news.ycombinator.com/item?id=41520020) - [Giant sloth bone pendants suggest humans were in Americas earlier than thought](https://www.cnn.com/2023/07/12/americas/giant-sloth-bone-pendants-scn/index.html)
 * [2024-09-12, 08:01:09](https://news.ycombinator.com/item?id=41518567) - [USPS' long-awaited new mail truck makes its debut](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 06:19:45](https://news.ycombinator.com/item?id=41518094) - [Writing a Lisp compiler (Lisp to assembly) from scratch in JavaScript (2018)](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
+* [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
 * [2024-09-10, 16:18:36](https://news.ycombinator.com/item?id=41502453) - [Show HN: GitOps Template for Kubernetes](https://github.com/glasskube/gitops-template/)
 * [2024-09-10, 14:34:31](https://news.ycombinator.com/item?id=41501209) - [Dynamic Viewpoint Symbols](https://imagico.de/blog/en/more-dynamic-symbols-viewpoints/)
 
