@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-15, 20:20:39](https://news.ycombinator.com/item?id=41550053) - [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
+* [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mrbeast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 18:40:15](https://news.ycombinator.com/item?id=41549376) - [A More Modern CSS Reset (2019)](https://piccalil.li/blog/a-more-modern-css-reset/)
-* [2024-09-15, 18:39:27](https://news.ycombinator.com/item?id=41549371) - [Apple will charge more to swap your iPhone 16 Pro battery](https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair)
 * [2024-09-15, 18:37:53](https://news.ycombinator.com/item?id=41549363) - [How Foundries Calculate Die Yield](https://www.viksnewsletter.com/p/how-foundries-calculate-die-yield)
-* [2024-09-15, 18:12:41](https://news.ycombinator.com/item?id=41549203) - [Show HN: Subdomain Enumeration CLI](https://github.com/Barre/merklemap-cli)
 * [2024-09-15, 17:40:32](https://news.ycombinator.com/item?id=41548985) - [Data Engineering Vault: A 1000 Node Second Brain for DE Knowledge](https://www.ssp.sh/brain/data-engineering/)
 * [2024-09-15, 17:00:51](https://news.ycombinator.com/item?id=41548663) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-09-15, 16:53:01](https://news.ycombinator.com/item?id=41548601) - [How to Make Millions as a Professional Whistleblower](https://www.gq.com/story/how-to-make-millions-as-a-professional-whistleblower)
