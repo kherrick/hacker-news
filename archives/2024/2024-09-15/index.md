@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 06:25:40](https://news.ycombinator.com/item?id=41545633) - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
 * [2024-09-15, 06:21:54](https://news.ycombinator.com/item?id=41545615) - [The Most Desperately Needed Airplane Is Back in Production](https://www.bloomberg.com/news/features/2024-09-13/canada-is-making-the-world-s-most-desperately-needed-airplane)
 * [2024-09-15, 06:18:54](https://news.ycombinator.com/item?id=41545601) - [Dropped Cheetos Could Have Triggered Ecosystem Chaos in Largest US Cave Chamber](https://www.iflscience.com/dropped-cheetos-could-have-triggered-ecosystem-chaos-in-largest-us-cave-chamber-75874)
+* [2024-09-15, 05:48:37](https://news.ycombinator.com/item?id=41545495) - [Fuck founder mode. Work in \"Fuck off mode\"](https://old.reddit.com/r/SaaS/comments/1fgv248/fuck_founder_mode_work_in_fuck_off_mode/)
 * [2024-09-15, 04:21:27](https://news.ycombinator.com/item?id=41545192) - [CCI Finds Samsung, Xiaomi Colluding with Amazon, Flipkart: Report](https://www.business-standard.com/india-news/cci-finds-samsung-xiaomi-colluding-with-amazon-flipkart-report-124091400401_1.html)
 * [2024-09-15, 04:16:00](https://news.ycombinator.com/item?id=41545168) - [Free Starlink Internet is coming to all of United's airplanes](https://arstechnica.com/information-technology/2024/09/free-starlink-internet-is-coming-to-all-of-uniteds-airplanes/)
 * [2024-09-15, 04:02:10](https://news.ycombinator.com/item?id=41545100) - [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
