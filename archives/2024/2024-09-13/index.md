@@ -53,6 +53,7 @@
 * [2024-09-13, 11:59:40](https://news.ycombinator.com/item?id=41530364) - [JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
 * [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 * [2024-09-13, 11:01:33](https://news.ycombinator.com/item?id=41530001) - [Chatbot Pulls People Away from Conspiracy Theories](https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html)
+* [2024-09-13, 10:32:32](https://news.ycombinator.com/item?id=41529844) - [Pico-ASHA: USB audio to ASHA adapter](https://github.com/shermp/Pico-ASHA)
 * [2024-09-13, 10:07:54](https://news.ycombinator.com/item?id=41529712) - [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
 * [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
 * [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)
