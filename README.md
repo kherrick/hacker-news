@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-15, 14:44:29](https://news.ycombinator.com/item?id=41547773) - [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
+* [2024-09-15, 12:50:10](https://news.ycombinator.com/item?id=41547200) - [US House votes to bar new DJI drones](https://www.reuters.com/world/us/us-house-votes-bar-new-drones-chinese-manufacturer-dji-2024-09-09/)
 * [2024-09-15, 12:07:16](https://news.ycombinator.com/item?id=41546995) - [Logbookd – SQLite Backed Syslogd](https://git.sr.ht/~martijnbraam/logbookd)
 * [2024-09-15, 12:00:00](https://news.ycombinator.com/item?id=41546954) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
-* [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 * [2024-09-15, 08:07:21](https://news.ycombinator.com/item?id=41546032) - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
 * [2024-09-15, 08:04:02](https://news.ycombinator.com/item?id=41546015) - [AT&T's Hobbit Microprocessor (2023)](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 06:52:11](https://news.ycombinator.com/item?id=41545737) - [i3wm inspired wm for Windows](https://github.com/glzr-io/glazewm)
@@ -22,14 +23,13 @@
 * [2024-09-14, 16:22:42](https://news.ycombinator.com/item?id=41540777) - [Nesting Allocators (2023)](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 15:19:50](https://news.ycombinator.com/item?id=41540362) - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 * [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
-* [2024-09-14, 12:08:59](https://news.ycombinator.com/item?id=41539288) - [The Rise of Open Source Time Series Databases](https://victoriametrics.com/blog/the-rise-of-open-source-time-series-databases/index.html)
-* [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 12:27:52](https://news.ycombinator.com/item?id=41530571) - [Throwable tactical camera transmits 360° panoramic thermal images](https://newatlas.com/technology/throwable-tactical-camera-panoramic-thermal-images/)
 * [2024-09-12, 15:31:06](https://news.ycombinator.com/item?id=41522047) - [How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt](https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4)
 * [2024-09-12, 13:49:12](https://news.ycombinator.com/item?id=41520950) - [The art of niwaki (Japanese tree pruning)](https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/)
 * [2024-09-12, 09:39:39](https://news.ycombinator.com/item?id=41519112) - [Show HN: Epitomē – A semantic search engine for ancient text](https://www.barneyhill.com/pages/epitome/)
 * [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
 * [2024-09-10, 21:02:40](https://news.ycombinator.com/item?id=41505528) - [The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
+* [2024-09-10, 15:16:35](https://news.ycombinator.com/item?id=41501625) - [Strtod Is Wild](https://festina-lente-productions.com/articles/strtod-is-wild/)
 
 ## [Archives](archives/index.md)
 
