@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-15, 15:02:26](https://news.ycombinator.com/item?id=41547899) - [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)
+* [2024-09-15, 14:54:18](https://news.ycombinator.com/item?id=41547841) - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
 * [2024-09-15, 14:44:29](https://news.ycombinator.com/item?id=41547773) - [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
 * [2024-09-15, 12:46:26](https://news.ycombinator.com/item?id=41547181) - [Retiring from the Idea of Retirement](https://candost.blog/retiring-from-the-idea-of-retirement/)
@@ -21,7 +22,6 @@
 * [2024-09-14, 16:52:49](https://news.ycombinator.com/item?id=41540984) - [Founder Mode, hackers, and being bored by tech](https://ianbetteridge.com/2024/09/14/founder-mode-hackers-and-being-bored-by-tech/)
 * [2024-09-14, 16:49:10](https://news.ycombinator.com/item?id=41540950) - [One in five genetics papers contains errors thanks to Microsoft Excel (2016)](https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
 * [2024-09-14, 16:41:04](https://news.ycombinator.com/item?id=41540902) - [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
-* [2024-09-14, 16:22:42](https://news.ycombinator.com/item?id=41540777) - [Nesting Allocators (2023)](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 15:19:50](https://news.ycombinator.com/item?id=41540362) - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 * [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
 * [2024-09-13, 12:27:52](https://news.ycombinator.com/item?id=41530571) - [Throwable tactical camera transmits 360° panoramic thermal images](https://newatlas.com/technology/throwable-tactical-camera-panoramic-thermal-images/)
