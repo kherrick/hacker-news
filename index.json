@@ -1,12 +1,52 @@
 [
   [
     [
-      "2024-09-15, 16:22:30",
-      "https://news.ycombinator.com/item?id=41548399"
+      "2024-09-15, 17:02:43",
+      "https://news.ycombinator.com/item?id=41548677"
     ],
     [
-      "Sweden will offer migrants $34,000 to go home",
-      "https://www.nytimes.com/2024/09/13/world/europe/sweden-immigration-reform.html"
+      "U.S. fleet welcomes newest USS New Jersey, the first gender-neutral submarine",
+      "https://www.northjersey.com/story/news/2024/09/14/uss-new-jersey-the-first-gender-neutral-submarine-joins-u-s-fleet/75210209007/"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 17:00:51",
+      "https://news.ycombinator.com/item?id=41548663"
+    ],
+    [
+      "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
+      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 16:39:48",
+      "https://news.ycombinator.com/item?id=41548515"
+    ],
+    [
+      "Human drivers keep rear-ending Waymos",
+      "https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 16:33:47",
+      "https://news.ycombinator.com/item?id=41548474"
+    ],
+    [
+      "Linux 6.11 Released",
+      "https://lwn.net/Articles/990307/"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 15:22:27",
+      "https://news.ycombinator.com/item?id=41548016"
+    ],
+    [
+      "Our New Religion Isn't Enough",
+      "https://www.freyaindia.co.uk/p/our-new-religion-isnt-enough"
     ]
   ],
   [
@@ -67,36 +107,6 @@
     [
       "Open Source security camera on Raspberry Pi",
       "https://github.com/TzuHuanTai/RaspberryPi_WebRTC"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 12:46:26",
-      "https://news.ycombinator.com/item?id=41547181"
-    ],
-    [
-      "Retiring from the Idea of Retirement",
-      "https://candost.blog/retiring-from-the-idea-of-retirement/"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 12:07:16",
-      "https://news.ycombinator.com/item?id=41546995"
-    ],
-    [
-      "Logbookd – SQLite Backed Syslogd",
-      "https://git.sr.ht/~martijnbraam/logbookd"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 12:00:00",
-      "https://news.ycombinator.com/item?id=41546954"
-    ],
-    [
-      "Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair",
-      "https://news.ycombinator.com/item?id=41546954"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-09-14, 22:43:51",
-      "https://news.ycombinator.com/item?id=41543642"
-    ],
-    [
-      "Show HN: I made a digital circuit drawing and simulation game",
-      "https://github.com/lets-all-be-stupid-forever/circuit-artist"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 22:02:14",
       "https://news.ycombinator.com/item?id=41543386"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-09-12, 13:21:33",
+      "https://news.ycombinator.com/item?id=41520620"
+    ],
+    [
+      "Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork",
+      "https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 02:35:45",
       "https://news.ycombinator.com/item?id=41517059"
     ],
@@ -287,16 +297,6 @@
     [
       "The Disunity of Consciousness in Everyday Experience",
       "http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 15:16:35",
-      "https://news.ycombinator.com/item?id=41501625"
-    ],
-    [
-      "Strtod Is Wild",
-      "https://festina-lente-productions.com/articles/strtod-is-wild/"
     ]
   ]
 ]
