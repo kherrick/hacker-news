@@ -2,6 +2,7 @@
 
 * [2024-09-15, 08:58:23](https://news.ycombinator.com/item?id=41546242) - [European Consumer Organization goes after publishers for their in-game currency](https://www.gamingonlinux.com/2024/09/european-consumer-organization-goes-after-multiple-publishers-for-their-in-game-currency/)
 * [2024-09-15, 08:07:21](https://news.ycombinator.com/item?id=41546032) - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
+* [2024-09-15, 06:52:11](https://news.ycombinator.com/item?id=41545737) - [i3wm inspired wm for Windows](https://github.com/glzr-io/glazewm)
 * [2024-09-15, 06:36:48](https://news.ycombinator.com/item?id=41545670) - [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
 * [2024-09-15, 06:25:40](https://news.ycombinator.com/item?id=41545633) - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
 * [2024-09-15, 06:18:54](https://news.ycombinator.com/item?id=41545601) - [Dropped Cheetos Could Have Triggered Ecosystem Chaos in Largest US Cave Chamber](https://www.iflscience.com/dropped-cheetos-could-have-triggered-ecosystem-chaos-in-largest-us-cave-chamber-75874)
@@ -15,7 +16,6 @@
 * [2024-09-14, 22:43:51](https://news.ycombinator.com/item?id=41543642) - [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 * [2024-09-14, 21:25:29](https://news.ycombinator.com/item?id=41543109) - [Warewoolf: A minimalist novel-writing system/rich text editor](https://github.com/brsloan/warewoolf)
-* [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 17:46:42](https://news.ycombinator.com/item?id=41541459) - [The Bastard Operator from Hell (1999)](https://bofh.bjash.com/)
 * [2024-09-14, 16:52:49](https://news.ycombinator.com/item?id=41540984) - [Founder Mode, hackers, and being bored by tech](https://ianbetteridge.com/2024/09/14/founder-mode-hackers-and-being-bored-by-tech/)
 * [2024-09-14, 16:49:10](https://news.ycombinator.com/item?id=41540950) - [One in five genetics papers contains errors thanks to Microsoft Excel (2016)](https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
