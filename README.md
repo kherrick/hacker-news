@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-15, 12:28:53](https://news.ycombinator.com/item?id=41547096) - [CP/M forty years on – what it was, and why it still matters](https://kevinboone.me/cpm40.html)
 * [2024-09-15, 12:07:16](https://news.ycombinator.com/item?id=41546995) - [Logbookd – SQLite Backed Syslogd](https://git.sr.ht/~martijnbraam/logbookd)
 * [2024-09-15, 12:00:00](https://news.ycombinator.com/item?id=41546954) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
 * [2024-09-15, 08:58:23](https://news.ycombinator.com/item?id=41546242) - [European Consumer Organization goes after publishers for their in-game currency](https://www.gamingonlinux.com/2024/09/european-consumer-organization-goes-after-multiple-publishers-for-their-in-game-currency/)
@@ -8,7 +9,6 @@
 * [2024-09-15, 06:52:11](https://news.ycombinator.com/item?id=41545737) - [i3wm inspired wm for Windows](https://github.com/glzr-io/glazewm)
 * [2024-09-15, 06:36:48](https://news.ycombinator.com/item?id=41545670) - [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
 * [2024-09-15, 06:25:40](https://news.ycombinator.com/item?id=41545633) - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
-* [2024-09-15, 06:08:51](https://news.ycombinator.com/item?id=41545564) - [Optimizing your career for happiness](https://praachi.work/blog/optimize-career-happiness)
 * [2024-09-15, 05:04:59](https://news.ycombinator.com/item?id=41545335) - [Show HN: Bullshit Remover](https://www.bullshitremover.com/)
 * [2024-09-15, 04:02:10](https://news.ycombinator.com/item?id=41545100) - [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
 * [2024-09-15, 03:25:14](https://news.ycombinator.com/item?id=41544969) - [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
@@ -22,12 +22,12 @@
 * [2024-09-14, 16:52:49](https://news.ycombinator.com/item?id=41540984) - [Founder Mode, hackers, and being bored by tech](https://ianbetteridge.com/2024/09/14/founder-mode-hackers-and-being-bored-by-tech/)
 * [2024-09-14, 16:49:10](https://news.ycombinator.com/item?id=41540950) - [One in five genetics papers contains errors thanks to Microsoft Excel (2016)](https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
 * [2024-09-14, 16:41:04](https://news.ycombinator.com/item?id=41540902) - [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
-* [2024-09-14, 16:22:42](https://news.ycombinator.com/item?id=41540777) - [Nesting Allocators (2023)](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 15:19:50](https://news.ycombinator.com/item?id=41540362) - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 * [2024-09-14, 14:59:10](https://news.ycombinator.com/item?id=41540221) - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
 * [2024-09-13, 00:56:17](https://news.ycombinator.com/item?id=41527167) - [Where are programming languages created? A zoomable map](https://pldb.io/blog/whereInnovation.html)
 * [2024-09-12, 15:48:00](https://news.ycombinator.com/item?id=41522202) - [Why I avoid using empty() in PHP? A Closer Look](https://azizdev.medium.com/why-i-avoid-using-empty-in-php-a-closer-look-12765e87542c)
 * [2024-09-12, 15:31:06](https://news.ycombinator.com/item?id=41522047) - [How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt](https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4)
+* [2024-09-12, 13:49:12](https://news.ycombinator.com/item?id=41520950) - [The art of niwaki (Japanese tree pruning)](https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/)
 * [2024-09-12, 06:19:45](https://news.ycombinator.com/item?id=41518094) - [Writing a Lisp compiler (Lisp to assembly) from scratch in JavaScript (2018)](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 * [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
 
