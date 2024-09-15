@@ -20,7 +20,6 @@
 * [2024-09-15, 11:14:41](https://news.ycombinator.com/item?id=41546769) - [Learn Git Branching](https://learngitbranching.js.org/)
 * [2024-09-15, 03:25:14](https://news.ycombinator.com/item?id=41544969) - [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
 * [2024-09-14, 22:47:20](https://news.ycombinator.com/item?id=41543666) - [Ask HN: Former gifted children with hard lives, how did you turn out?](https://news.ycombinator.com/item?id=41543666)
-* [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 * [2024-09-13, 12:27:52](https://news.ycombinator.com/item?id=41530571) - [Throwable tactical camera transmits 360° panoramic thermal images](https://newatlas.com/technology/throwable-tactical-camera-panoramic-thermal-images/)
 * [2024-09-13, 10:32:32](https://news.ycombinator.com/item?id=41529844) - [Pico-ASHA: USB audio to ASHA adapter](https://github.com/shermp/Pico-ASHA)
 * [2024-09-13, 08:46:46](https://news.ycombinator.com/item?id=41529292) - [Using the Topics API (Chrome Only, Opposed by Firefox/Safari)](https://developer.mozilla.org/en-US/docs/Web/API/Topics_API/Using)
@@ -29,6 +28,7 @@
 * [2024-09-12, 13:49:12](https://news.ycombinator.com/item?id=41520950) - [The art of niwaki (Japanese tree pruning) (2017)](https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/)
 * [2024-09-12, 13:21:33](https://news.ycombinator.com/item?id=41520620) - [Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork](https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406)
 * [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
+* [2024-09-11, 15:25:51](https://news.ycombinator.com/item?id=41512270) - [We verify the correctness of a spreadsheet engine](https://rowzero.io/blog/property-based-testing)
 * [2024-09-10, 21:02:40](https://news.ycombinator.com/item?id=41505528) - [The disunity of consciousness in everyday experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
 
 ## [Archives](archives/index.md)
