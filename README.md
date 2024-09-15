@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-15, 15:02:26](https://news.ycombinator.com/item?id=41547899) - [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)
 * [2024-09-15, 14:44:29](https://news.ycombinator.com/item?id=41547773) - [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
-* [2024-09-15, 12:50:10](https://news.ycombinator.com/item?id=41547200) - [US House votes to bar new DJI drones](https://www.reuters.com/world/us/us-house-votes-bar-new-drones-chinese-manufacturer-dji-2024-09-09/)
+* [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
 * [2024-09-15, 12:46:26](https://news.ycombinator.com/item?id=41547181) - [Retiring from the Idea of Retirement](https://candost.blog/retiring-from-the-idea-of-retirement/)
 * [2024-09-15, 12:07:16](https://news.ycombinator.com/item?id=41546995) - [Logbookd – SQLite Backed Syslogd](https://git.sr.ht/~martijnbraam/logbookd)
 * [2024-09-15, 12:00:00](https://news.ycombinator.com/item?id=41546954) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
@@ -15,7 +16,6 @@
 * [2024-09-15, 01:09:25](https://news.ycombinator.com/item?id=41544364) - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 * [2024-09-14, 22:43:51](https://news.ycombinator.com/item?id=41543642) - [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
-* [2024-09-14, 21:25:29](https://news.ycombinator.com/item?id=41543109) - [Warewoolf: A minimalist novel-writing system/rich text editor](https://github.com/brsloan/warewoolf)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 17:46:42](https://news.ycombinator.com/item?id=41541459) - [The Bastard Operator from Hell (1999)](https://bofh.bjash.com/)
 * [2024-09-14, 16:52:49](https://news.ycombinator.com/item?id=41540984) - [Founder Mode, hackers, and being bored by tech](https://ianbetteridge.com/2024/09/14/founder-mode-hackers-and-being-bored-by-tech/)
