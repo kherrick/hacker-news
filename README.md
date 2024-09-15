@@ -12,7 +12,6 @@
 * [2024-09-15, 01:14:32](https://news.ycombinator.com/item?id=41544386) - [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
 * [2024-09-15, 01:09:25](https://news.ycombinator.com/item?id=41544364) - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 * [2024-09-15, 01:06:39](https://news.ycombinator.com/item?id=41544348) - [Diffusion Illusions: Hiding Images in Plain Sight](https://diffusionillusions.com/)
-* [2024-09-14, 23:11:25](https://news.ycombinator.com/item?id=41543805) - [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
 * [2024-09-14, 22:43:51](https://news.ycombinator.com/item?id=41543642) - [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 * [2024-09-14, 21:29:21](https://news.ycombinator.com/item?id=41543139) - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
@@ -30,6 +29,7 @@
 * [2024-09-12, 08:01:09](https://news.ycombinator.com/item?id=41518567) - [USPS' long-awaited new mail truck makes its debut](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 06:19:45](https://news.ycombinator.com/item?id=41518094) - [Writing a Lisp compiler (Lisp to assembly) from scratch in JavaScript (2018)](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 * [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
+* [2024-09-10, 14:34:31](https://news.ycombinator.com/item?id=41501209) - [Dynamic Viewpoint Symbols](https://imagico.de/blog/en/more-dynamic-symbols-viewpoints/)
 
 ## [Archives](archives/index.md)
 
