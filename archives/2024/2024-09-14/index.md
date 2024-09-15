@@ -8,6 +8,7 @@
 * [2024-09-14, 22:01:39](https://news.ycombinator.com/item?id=41543382) - [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)
 * [2024-09-14, 21:57:21](https://news.ycombinator.com/item?id=41543357) - [1.3M Android-Based TV Boxes Backdoored; Researchers Still Don't Know How](https://arstechnica.com/security/2024/09/researchers-still-dont-know-how-1-3-million-android-streaming-boxes-were-backdoored/)
 * [2024-09-14, 21:29:21](https://news.ycombinator.com/item?id=41543139) - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
+* [2024-09-14, 21:25:29](https://news.ycombinator.com/item?id=41543109) - [Brsloan/warewoolf: A minimalist novel-writing system/rich text editor](https://github.com/brsloan/warewoolf)
 * [2024-09-14, 21:01:29](https://news.ycombinator.com/item?id=41542910) - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture/)
 * [2024-09-14, 21:00:02](https://news.ycombinator.com/item?id=41542897) - [Hadrius (YC W23) Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
 * [2024-09-14, 20:52:21](https://news.ycombinator.com/item?id=41542788) - [Zen and the Art of Writer Decks (Using the Pomera DM250)](http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html)

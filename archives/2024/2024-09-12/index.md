@@ -78,6 +78,7 @@
 * [2024-09-12, 08:44:36](https://news.ycombinator.com/item?id=41518797) - [Ask HN: What is the most expensive off-the-shelf software you have seen?](https://news.ycombinator.com/item?id=41518797)
 * [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
+* [2024-09-12, 08:01:09](https://news.ycombinator.com/item?id=41518567) - [USPS' long-awaited new mail truck makes its debut](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 07:56:30](https://news.ycombinator.com/item?id=41518533) - [Peer Gynt quilt, Part 1 (2021)](https://www.icemoonprison.com/blog/archives/282)
 * [2024-09-12, 07:43:18](https://news.ycombinator.com/item?id=41518456) - [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
 * [2024-09-12, 06:53:49](https://news.ycombinator.com/item?id=41518221) - [Startup employee claims she was fired for 'liking' a post on toxic workplaces](https://www.hindustantimes.com/trending/startup-employee-claims-she-was-fired-for-liking-a-linkedin-post-on-toxic-workplaces-101726116584028.html)
