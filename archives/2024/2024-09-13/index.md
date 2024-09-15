@@ -66,4 +66,5 @@
 * [2024-09-13, 01:51:10](https://news.ycombinator.com/item?id=41527378) - [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
 * [2024-09-13, 01:49:43](https://news.ycombinator.com/item?id=41527373) - [Music Industry's 1990s Hard Drives Are Dying](https://arstechnica.com/gadgets/2024/09/music-industrys-1990s-hard-drives-like-all-hdds-are-dying/)
 * [2024-09-13, 01:01:08](https://news.ycombinator.com/item?id=41527191) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
+* [2024-09-13, 00:56:17](https://news.ycombinator.com/item?id=41527167) - [Where are programming languages created? A zoomable map](https://pldb.io/blog/whereInnovation.html)
 * [2024-09-13, 00:48:01](https://news.ycombinator.com/item?id=41527143) - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)

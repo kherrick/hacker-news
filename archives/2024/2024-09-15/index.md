@@ -10,5 +10,6 @@
 * [2024-09-15, 03:25:14](https://news.ycombinator.com/item?id=41544969) - [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
 * [2024-09-15, 01:14:32](https://news.ycombinator.com/item?id=41544386) - [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
 * [2024-09-15, 01:09:25](https://news.ycombinator.com/item?id=41544364) - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
+* [2024-09-15, 01:06:39](https://news.ycombinator.com/item?id=41544348) - [Diffusion Illusions: Hiding Images in Plain Sight](https://diffusionillusions.com/)
 * [2024-09-15, 00:36:40](https://news.ycombinator.com/item?id=41544202) - [Earth to have new mini-moon for two months](https://phys.org/news/2024-09-earth-mini-moon-months.html)
 * [2024-09-15, 00:03:21](https://news.ycombinator.com/item?id=41544059) - [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
