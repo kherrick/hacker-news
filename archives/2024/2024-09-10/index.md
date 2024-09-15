@@ -12,6 +12,7 @@
 * [2024-09-10, 21:15:24](https://news.ycombinator.com/item?id=41505665) - [Rust in Illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-10, 21:10:52](https://news.ycombinator.com/item?id=41505622) - [Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)
 * [2024-09-10, 21:09:04](https://news.ycombinator.com/item?id=41505593) - [Lottery Simulator](https://perthirtysix.com/tool/lottery-simulator)
+* [2024-09-10, 21:02:40](https://news.ycombinator.com/item?id=41505528) - [The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
 * [2024-09-10, 20:52:17](https://news.ycombinator.com/item?id=41505389) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-10, 20:39:51](https://news.ycombinator.com/item?id=41505266) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 20:14:41](https://news.ycombinator.com/item?id=41505032) - [I Am Herman Melville](https://lareviewofbooks.org/article/i-am-herman-melville/)

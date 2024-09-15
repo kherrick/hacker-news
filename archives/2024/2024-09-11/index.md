@@ -18,6 +18,7 @@
 * [2024-09-11, 20:29:52](https://news.ycombinator.com/item?id=41515101) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
 * [2024-09-11, 20:10:20](https://news.ycombinator.com/item?id=41514944) - [Holy smokes, I just released a MiniGolf game for Palm OS in 2024](https://ctrl-c.club/~captain/posts/2024-08-29-holy-smokes-I-Just-released-a-minigolf-game-for-palmos-in-2024.html)
 * [2024-09-11, 19:47:10](https://news.ycombinator.com/item?id=41514727) - [Mistral releases Pixtral 12B, its first multimodal model](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/)
+* [2024-09-11, 19:21:08](https://news.ycombinator.com/item?id=41514504) - [2024 Bulwer-Lytton Fiction Contest Winners](https://www.bulwer-lytton.com/2024)
 * [2024-09-11, 18:11:31](https://news.ycombinator.com/item?id=41513860) - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
 * [2024-09-11, 18:02:51](https://news.ycombinator.com/item?id=41513775) - [Swiss BMW Driver Slammed with $116,000 Tailgating Fine Because He's Rich](https://www.thedrive.com/news/swiss-bmw-driver-slammed-with-116000-tailgating-fine-because-hes-rich)
 * [2024-09-11, 18:02:07](https://news.ycombinator.com/item?id=41513767) - [Why Copilot Is Making Programmers Worse at Programming](https://www.darrenhorrocks.co.uk/why-copilot-making-programmers-worse-at-programming/)
