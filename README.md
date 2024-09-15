@@ -4,7 +4,6 @@
 * [2024-09-15, 06:25:40](https://news.ycombinator.com/item?id=41545633) - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
 * [2024-09-15, 06:18:54](https://news.ycombinator.com/item?id=41545601) - [Dropped Cheetos Could Have Triggered Ecosystem Chaos in Largest US Cave Chamber](https://www.iflscience.com/dropped-cheetos-could-have-triggered-ecosystem-chaos-in-largest-us-cave-chamber-75874)
 * [2024-09-15, 06:08:51](https://news.ycombinator.com/item?id=41545564) - [Optimizing your career for happiness](https://praachi.work/blog/optimize-career-happiness)
-* [2024-09-15, 06:02:47](https://news.ycombinator.com/item?id=41545541) - [Show HN: I made a game testing your prompting skills](https://app4.hc11.org/49499641/en/)
 * [2024-09-15, 05:04:59](https://news.ycombinator.com/item?id=41545335) - [Show HN: Bullshit Remover](https://www.bullshitremover.com/)
 * [2024-09-15, 04:02:10](https://news.ycombinator.com/item?id=41545100) - [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
 * [2024-09-15, 03:31:04](https://news.ycombinator.com/item?id=41544990) - [A Time Consuming Pitfall for 32-Bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
@@ -30,6 +29,7 @@
 * [2024-09-12, 08:01:09](https://news.ycombinator.com/item?id=41518567) - [USPS' long-awaited new mail truck makes its debut](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 06:19:45](https://news.ycombinator.com/item?id=41518094) - [Writing a Lisp compiler (Lisp to assembly) from scratch in JavaScript (2018)](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 * [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
+* [2024-09-10, 14:34:31](https://news.ycombinator.com/item?id=41501209) - [Dynamic Viewpoint Symbols](https://imagico.de/blog/en/more-dynamic-symbols-viewpoints/)
 
 ## [Archives](archives/index.md)
 
