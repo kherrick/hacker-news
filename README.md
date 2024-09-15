@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-15, 12:28:53](https://news.ycombinator.com/item?id=41547096) - [CP/M forty years on – what it was, and why it still matters](https://kevinboone.me/cpm40.html)
 * [2024-09-15, 12:07:16](https://news.ycombinator.com/item?id=41546995) - [Logbookd – SQLite Backed Syslogd](https://git.sr.ht/~martijnbraam/logbookd)
 * [2024-09-15, 12:00:00](https://news.ycombinator.com/item?id=41546954) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
 * [2024-09-15, 08:58:23](https://news.ycombinator.com/item?id=41546242) - [European Consumer Organization goes after publishers for their in-game currency](https://www.gamingonlinux.com/2024/09/european-consumer-organization-goes-after-multiple-publishers-for-their-in-game-currency/)
@@ -8,6 +7,7 @@
 * [2024-09-15, 08:04:02](https://news.ycombinator.com/item?id=41546015) - [AT&T's Hobbit Microprocessor (2023)](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 06:52:11](https://news.ycombinator.com/item?id=41545737) - [i3wm inspired wm for Windows](https://github.com/glzr-io/glazewm)
 * [2024-09-15, 06:36:48](https://news.ycombinator.com/item?id=41545670) - [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
+* [2024-09-15, 06:08:51](https://news.ycombinator.com/item?id=41545564) - [Optimizing your career for happiness](https://praachi.work/blog/optimize-career-happiness)
 * [2024-09-15, 05:04:59](https://news.ycombinator.com/item?id=41545335) - [Show HN: Bullshit Remover](https://www.bullshitremover.com/)
 * [2024-09-15, 04:02:10](https://news.ycombinator.com/item?id=41545100) - [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
 * [2024-09-15, 03:25:14](https://news.ycombinator.com/item?id=41544969) - [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
