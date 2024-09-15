@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 12:00:00](https://news.ycombinator.com/item?id=41546954) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
+* [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 * [2024-09-15, 08:58:23](https://news.ycombinator.com/item?id=41546242) - [European Consumer Organization goes after publishers for their in-game currency](https://www.gamingonlinux.com/2024/09/european-consumer-organization-goes-after-multiple-publishers-for-their-in-game-currency/)
 * [2024-09-15, 08:07:21](https://news.ycombinator.com/item?id=41546032) - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
 * [2024-09-15, 08:04:02](https://news.ycombinator.com/item?id=41546015) - [AT&T's Hobbit Microprocessor (2023)](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)

@@ -43,6 +43,7 @@
 * [2024-09-12, 16:10:12](https://news.ycombinator.com/item?id=41522434) - [The final release of PalmOS, 6.1 Cobalt: colour, multimedia, and multitasking](https://www.palmsource.com/palmos/cobalt.html)
 * [2024-09-12, 15:59:28](https://news.ycombinator.com/item?id=41522319) - [Show HN: Ask LLMs to predict anything based on news](https://aipredict.fun/)
 * [2024-09-12, 15:53:09](https://news.ycombinator.com/item?id=41522254) - [The new EVE MMO uses blockchain tech to create a \"boiling financial hellscape\"](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game/)
+* [2024-09-12, 15:48:00](https://news.ycombinator.com/item?id=41522202) - [Why I Avoid Using Empty() in PHP? A Closer Look](https://azizdev.medium.com/why-i-avoid-using-empty-in-php-a-closer-look-12765e87542c)
 * [2024-09-12, 15:47:14](https://news.ycombinator.com/item?id=41522196) - [Can LLMs Generate Novel Research Ideas?](https://www.arxiv.org/abs/2409.04109)
 * [2024-09-12, 15:31:06](https://news.ycombinator.com/item?id=41522047) - [How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt](https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4)
 * [2024-09-12, 15:27:19](https://news.ycombinator.com/item?id=41522005) - [Self-Hosting at Home and Privacy](https://dataswamp.org/~solene/2024-09-10-self-hosting-at-home-privacy-issues.html)
