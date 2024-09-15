@@ -7,6 +7,7 @@
 * [2024-09-15, 18:40:15](https://news.ycombinator.com/item?id=41549376) - [A (More) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [2024-09-15, 18:39:27](https://news.ycombinator.com/item?id=41549371) - [Apple will charge more to swap your iPhone 16 Pro battery](https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair)
 * [2024-09-15, 18:14:25](https://news.ycombinator.com/item?id=41549213) - [Filipinos are embracing electric 3-wheelers faster than officials can regulate](https://restofworld.org/2024/electric-three-wheelers-philippines-regulations/)
+* [2024-09-15, 18:12:41](https://news.ycombinator.com/item?id=41549203) - [Show HN: Subdomain Enumeration CLI](https://github.com/Barre/merklemap-cli)
 * [2024-09-15, 17:54:42](https://news.ycombinator.com/item?id=41549086) - [Playstation 5 Pro Shows the Futility of the Video-Game Graphics Race](https://www.bloomberg.com/news/newsletters/2024-09-13/playstation-5-pro-shows-futility-of-video-game-graphics-race)
 * [2024-09-15, 17:42:10](https://news.ycombinator.com/item?id=41548997) - [Terence Tao: creative strategies, this aspect of LLM tools is still weak](https://mathstodon.xyz/@tao/113142753409304792)
 * [2024-09-15, 17:15:31](https://news.ycombinator.com/item?id=41548767) - [Turning Disposable Vapes into a Fast Charge Power Bank](https://www.youtube.com/watch?v=ehp23hrrEHY)

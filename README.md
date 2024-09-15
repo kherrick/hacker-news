@@ -3,6 +3,7 @@
 * [2024-09-15, 18:40:15](https://news.ycombinator.com/item?id=41549376) - [A (More) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [2024-09-15, 18:39:27](https://news.ycombinator.com/item?id=41549371) - [Apple will charge more to swap your iPhone 16 Pro battery](https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair)
 * [2024-09-15, 18:14:25](https://news.ycombinator.com/item?id=41549213) - [Filipinos are embracing electric 3-wheelers faster than officials can regulate](https://restofworld.org/2024/electric-three-wheelers-philippines-regulations/)
+* [2024-09-15, 18:12:41](https://news.ycombinator.com/item?id=41549203) - [Show HN: Subdomain Enumeration CLI](https://github.com/Barre/merklemap-cli)
 * [2024-09-15, 17:42:10](https://news.ycombinator.com/item?id=41548997) - [Terence Tao: creative strategies, this aspect of LLM tools is still weak](https://mathstodon.xyz/@tao/113142753409304792)
 * [2024-09-15, 17:15:31](https://news.ycombinator.com/item?id=41548767) - [Turning Disposable Vapes into a Fast Charge Power Bank](https://www.youtube.com/watch?v=ehp23hrrEHY)
 * [2024-09-15, 17:00:51](https://news.ycombinator.com/item?id=41548663) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
@@ -27,7 +28,6 @@
 * [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
 * [2024-09-12, 13:49:12](https://news.ycombinator.com/item?id=41520950) - [The art of niwaki (Japanese tree pruning) (2017)](https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/)
 * [2024-09-12, 13:21:33](https://news.ycombinator.com/item?id=41520620) - [Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork](https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406)
-* [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
 * [2024-09-11, 15:25:51](https://news.ycombinator.com/item?id=41512270) - [We verify the correctness of a spreadsheet engine](https://rowzero.io/blog/property-based-testing)
 * [2024-09-10, 21:02:40](https://news.ycombinator.com/item?id=41505528) - [The disunity of consciousness in everyday experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
 
