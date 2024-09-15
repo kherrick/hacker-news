@@ -14,8 +14,8 @@
 * [2024-09-15, 17:00:51](https://news.ycombinator.com/item?id=41548663) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-09-15, 16:33:47](https://news.ycombinator.com/item?id=41548474) - [Linux 6.11 Released](https://lwn.net/Articles/990307/)
 * [2024-09-15, 16:04:27](https://news.ycombinator.com/item?id=41548278) - [A bullet hell game written in bash](https://twitter.com/SomeUnusualGame/status/1834946212610400522)
-* [2024-09-15, 14:54:18](https://news.ycombinator.com/item?id=41547841) - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
 * [2024-09-15, 14:50:13](https://news.ycombinator.com/item?id=41547816) - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
+* [2024-09-15, 14:44:29](https://news.ycombinator.com/item?id=41547773) - [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
 * [2024-09-15, 13:32:37](https://news.ycombinator.com/item?id=41547405) - [Open Source security camera on Raspberry Pi](https://github.com/TzuHuanTai/RaspberryPi_WebRTC)
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
 * [2024-09-15, 11:14:41](https://news.ycombinator.com/item?id=41546769) - [Learn Git Branching](https://learngitbranching.js.org/)
@@ -28,7 +28,7 @@
 * [2024-09-12, 13:49:12](https://news.ycombinator.com/item?id=41520950) - [The art of niwaki (Japanese tree pruning) (2017)](https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/)
 * [2024-09-12, 13:21:33](https://news.ycombinator.com/item?id=41520620) - [Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork](https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406)
 * [2024-09-12, 06:26:16](https://news.ycombinator.com/item?id=41518127) - [Adapter lets you use cheap eSIM plans on any Android phone](https://www.androidauthority.com/esim-adapter-android-phone-3480601/)
-* [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
+* [2024-09-11, 15:21:30](https://news.ycombinator.com/item?id=41512213) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 * [2024-09-10, 21:02:40](https://news.ycombinator.com/item?id=41505528) - [The disunity of consciousness in everyday experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
 
 ## [Archives](archives/index.md)
