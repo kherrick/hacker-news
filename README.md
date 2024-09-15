@@ -2,6 +2,7 @@
 
 * [2024-09-15, 12:07:16](https://news.ycombinator.com/item?id=41546995) - [Logbookd – SQLite Backed Syslogd](https://git.sr.ht/~martijnbraam/logbookd)
 * [2024-09-15, 12:00:00](https://news.ycombinator.com/item?id=41546954) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
+* [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 * [2024-09-15, 08:07:21](https://news.ycombinator.com/item?id=41546032) - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
 * [2024-09-15, 08:04:02](https://news.ycombinator.com/item?id=41546015) - [AT&T's Hobbit Microprocessor (2023)](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 06:52:11](https://news.ycombinator.com/item?id=41545737) - [i3wm inspired wm for Windows](https://github.com/glzr-io/glazewm)
@@ -12,7 +13,6 @@
 * [2024-09-15, 01:09:25](https://news.ycombinator.com/item?id=41544364) - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 * [2024-09-14, 22:43:51](https://news.ycombinator.com/item?id=41543642) - [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 * [2024-09-14, 22:02:14](https://news.ycombinator.com/item?id=41543386) - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
-* [2024-09-14, 21:29:21](https://news.ycombinator.com/item?id=41543139) - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
 * [2024-09-14, 21:25:29](https://news.ycombinator.com/item?id=41543109) - [Warewoolf: A minimalist novel-writing system/rich text editor](https://github.com/brsloan/warewoolf)
 * [2024-09-14, 18:26:00](https://news.ycombinator.com/item?id=41541770) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 17:46:42](https://news.ycombinator.com/item?id=41541459) - [The Bastard Operator from Hell (1999)](https://bofh.bjash.com/)
