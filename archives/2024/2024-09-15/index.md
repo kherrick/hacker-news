@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 22:03:01](https://news.ycombinator.com/item?id=41550822) - [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
+* [2024-09-15, 21:30:57](https://news.ycombinator.com/item?id=41550603) - [Plain Text Accounting (PTA)](https://plaintextaccounting.org/)
 * [2024-09-15, 21:09:22](https://news.ycombinator.com/item?id=41550417) - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
 * [2024-09-15, 21:07:58](https://news.ycombinator.com/item?id=41550406) - [The Unfortunate Physics of Male Urination (2016)](https://priceonomics.com/why-cant-we-build-a-splash-proof-toilet/)
+* [2024-09-15, 21:02:44](https://news.ycombinator.com/item?id=41550364) - [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
+* [2024-09-15, 20:48:59](https://news.ycombinator.com/item?id=41550262) - [CSSnano](https://cssnano.github.io/cssnano/)
 * [2024-09-15, 20:20:39](https://news.ycombinator.com/item?id=41550053) - [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
 * [2024-09-15, 20:19:53](https://news.ycombinator.com/item?id=41550043) - [Linux dev swatted and handcuffed live during a development video stream](https://www.tomshardware.com/software/linux/linux-dev-swatted-live-during-a-development-video-stream)
 * [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
