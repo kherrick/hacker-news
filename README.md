@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-15, 21:07:58](https://news.ycombinator.com/item?id=41550406) - [The Unfortunate Physics of Male Urination (2016)](https://priceonomics.com/why-cant-we-build-a-splash-proof-toilet/)
+* [2024-09-15, 21:09:22](https://news.ycombinator.com/item?id=41550417) - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
 * [2024-09-15, 20:20:39](https://news.ycombinator.com/item?id=41550053) - [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
 * [2024-09-15, 20:19:53](https://news.ycombinator.com/item?id=41550043) - [Linux dev swatted and handcuffed live during a development video stream](https://www.tomshardware.com/software/linux/linux-dev-swatted-live-during-a-development-video-stream)
 * [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
@@ -15,7 +15,6 @@
 * [2024-09-15, 15:02:26](https://news.ycombinator.com/item?id=41547899) - [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)
 * [2024-09-15, 14:54:18](https://news.ycombinator.com/item?id=41547841) - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
 * [2024-09-15, 14:50:13](https://news.ycombinator.com/item?id=41547816) - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
-* [2024-09-15, 14:44:29](https://news.ycombinator.com/item?id=41547773) - [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
 * [2024-09-15, 13:32:37](https://news.ycombinator.com/item?id=41547405) - [Open Source security camera on Raspberry Pi](https://github.com/TzuHuanTai/RaspberryPi_WebRTC)
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
 * [2024-09-15, 11:14:41](https://news.ycombinator.com/item?id=41546769) - [Learn Git Branching](https://learngitbranching.js.org/)
@@ -28,6 +27,7 @@
 * [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 13:49:12](https://news.ycombinator.com/item?id=41520950) - [The art of niwaki (Japanese tree pruning) (2017)](https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/)
 * [2024-09-12, 13:21:33](https://news.ycombinator.com/item?id=41520620) - [Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork](https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406)
+* [2024-09-12, 06:26:16](https://news.ycombinator.com/item?id=41518127) - [Adapter lets you use cheap eSIM plans on any Android phone](https://www.androidauthority.com/esim-adapter-android-phone-3480601/)
 * [2024-09-12, 02:35:45](https://news.ycombinator.com/item?id=41517059) - [We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
 * [2024-09-10, 21:02:40](https://news.ycombinator.com/item?id=41505528) - [The disunity of consciousness in everyday experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
 
