@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-15, 15:12:17",
+      "https://news.ycombinator.com/item?id=41547951"
+    ],
+    [
+      "NASA Mission Gets Its First Snapshot of Polar Heat Emissions",
+      "https://www.jpl.nasa.gov/news/nasa-mission-gets-its-first-snapshot-of-polar-heat-emissions"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 15:02:26",
       "https://news.ycombinator.com/item?id=41547899"
     ],
@@ -21,12 +31,42 @@
   ],
   [
     [
+      "2024-09-15, 14:50:13",
+      "https://news.ycombinator.com/item?id=41547816"
+    ],
+    [
+      "Randomness extractors: making fair coins out of biased coins",
+      "https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 14:44:29",
       "https://news.ycombinator.com/item?id=41547773"
     ],
     [
       "The Death of the Magazine",
       "https://www.honest-broker.com/p/the-death-of-the-magazine"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 13:59:56",
+      "https://news.ycombinator.com/item?id=41547566"
+    ],
+    [
+      "Designing mathematics standards in agreement with science [pdf]",
+      "https://www.iejme.com/download/designing-mathematics-standards-in-agreement-with-science-13179.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 13:32:37",
+      "https://news.ycombinator.com/item?id=41547405"
+    ],
+    [
+      "Open Source security camera on Raspberry Pi",
+      "https://github.com/TzuHuanTai/RaspberryPi_WebRTC"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2024-09-14, 22:43:51",
-      "https://news.ycombinator.com/item?id=41543642"
-    ],
-    [
-      "Show HN: I made a digital circuit drawing and simulation game",
-      "https://github.com/lets-all-be-stupid-forever/circuit-artist"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 22:02:14",
       "https://news.ycombinator.com/item?id=41543386"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2024-09-14, 18:26:00",
-      "https://news.ycombinator.com/item?id=41541770"
-    ],
-    [
-      "Falsehoods programmers believe about TCP",
-      "https://lwn.net/Articles/990281/"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 17:46:42",
       "https://news.ycombinator.com/item?id=41541459"
     ],
     [
       "The Bastard Operator from Hell (1999)",
       "https://bofh.bjash.com/"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 16:52:49",
-      "https://news.ycombinator.com/item?id=41540984"
-    ],
-    [
-      "Founder Mode, hackers, and being bored by tech",
-      "https://ianbetteridge.com/2024/09/14/founder-mode-hackers-and-being-bored-by-tech/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-09-14, 14:59:10",
-      "https://news.ycombinator.com/item?id=41540221"
-    ],
-    [
-      "Making a rickroll laser: A parametric speaker",
-      "https://10maurycy10.github.io/projects/speaker/"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 12:27:52",
       "https://news.ycombinator.com/item?id=41530571"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-09-12, 15:31:06",
-      "https://news.ycombinator.com/item?id=41522047"
+      "2024-09-13, 08:21:36",
+      "https://news.ycombinator.com/item?id=41529129"
     ],
     [
-      "How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt",
-      "https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4"
+      "Jensen's Inequality as an Intuition Tool",
+      "https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/"
     ]
   ],
   [
