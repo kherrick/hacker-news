@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-16, 20:21:03](https://news.ycombinator.com/item?id=41560343) - [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
+* [2024-09-16, 20:16:45](https://news.ycombinator.com/item?id=41560275) - [An Update on Our Safety and Security Practices](https://openai.com/index/update-on-safety-and-security-practices/)
 * [2024-09-16, 19:47:00](https://news.ycombinator.com/item?id=41559887) - [Thoughts and Observations in the Wake of Apple's 'It's Glowtime' Keynote](https://daringfireball.net/2024/09/thoughts_and_observations_in_the_wake_of_apples_its_glowtime_keynote)
 * [2024-09-16, 19:37:21](https://news.ycombinator.com/item?id=41559761) - [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
 * [2024-09-16, 18:27:19](https://news.ycombinator.com/item?id=41558995) - [How to Make HTTPS Verifiable](https://blog.reclaimprotocol.org/posts/open-source-reclaim)
@@ -24,7 +25,6 @@
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 12:09:07](https://news.ycombinator.com/item?id=41547008) - [Fractran: Computer architecture based on the multiplication of fractions](https://wiki.xxiivv.com/site/fractran.html)
 * [2024-09-15, 11:24:44](https://news.ycombinator.com/item?id=41546803) - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
-* [2024-09-15, 07:12:10](https://news.ycombinator.com/item?id=41545810) - [The Waterfall Model was a straw man argument from the beginning (2015)](https://www.jjinux.com/2015/07/the-waterfall-model-was-straw-man.html)
 * [2024-09-14, 20:00:28](https://news.ycombinator.com/item?id=41542409) - [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
 * [2024-09-13, 11:09:45](https://news.ycombinator.com/item?id=41530040) - [S6 – skarnet's small supervision suite](http://skarnet.org/software/s6/)
 * [2024-09-13, 07:40:41](https://news.ycombinator.com/item?id=41528919) - [Speech Dictation Mode for Emacs](https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html)
