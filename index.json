@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-09-16, 20:44:59",
+      "https://news.ycombinator.com/item?id=41560659"
+    ],
+    [
+      "Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]",
+      "https://eprint.iacr.org/2024/1421.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 20:43:52",
+      "https://news.ycombinator.com/item?id=41560648"
+    ],
+    [
+      "Intel lost the Sony Playstation business to AMD",
+      "https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 20:38:28",
+      "https://news.ycombinator.com/item?id=41560586"
+    ],
+    [
+      "Rearchitecting Core Services at X",
+      "https://twitter.com/cambridgemike/status/1835774409786986572"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 20:31:07",
+      "https://news.ycombinator.com/item?id=41560491"
+    ],
+    [
+      "The Subprime AI Crisis",
+      "https://www.wheresyoured.at/subprimeai/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 20:21:03",
       "https://news.ycombinator.com/item?id=41560343"
     ],
     [
       "K340A: The Brain Computer of Chernobyl Duga Radar [video]",
       "https://www.youtube.com/watch?v=kHiCHRB-RlA"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 20:16:45",
-      "https://news.ycombinator.com/item?id=41560275"
-    ],
-    [
-      "An Update on Our Safety and Security Practices",
-      "https://openai.com/index/update-on-safety-and-security-practices/"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "TouchArcade Is Shutting Down",
       "https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 17:44:26",
-      "https://news.ycombinator.com/item?id=41558556"
-    ],
-    [
-      "Python in Excel – Available Now",
-      "https://techcommunity.microsoft.com/t5/excel-blog/python-in-excel-available-now/ba-p/4240212"
     ]
   ],
   [
@@ -181,42 +201,12 @@
   ],
   [
     [
-      "2024-09-15, 22:40:03",
-      "https://news.ycombinator.com/item?id=41551084"
+      "2024-09-15, 21:09:22",
+      "https://news.ycombinator.com/item?id=41550417"
     ],
     [
-      "Nothing: Simply Do Nothing",
-      "https://usenothing.com/"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 21:30:57",
-      "https://news.ycombinator.com/item?id=41550603"
-    ],
-    [
-      "Plain Text Accounting (PTA)",
-      "https://plaintextaccounting.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 21:02:44",
-      "https://news.ycombinator.com/item?id=41550364"
-    ],
-    [
-      "g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains",
-      "https://github.com/bklieger-groq/g1"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 20:16:55",
-      "https://news.ycombinator.com/item?id=41550017"
-    ],
-    [
-      "How to Lead Your Team When the House Is on Fire",
-      "https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/"
+      "Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't",
+      "https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2024-09-15, 07:12:10",
+      "https://news.ycombinator.com/item?id=41545810"
+    ],
+    [
+      "The Waterfall Model was a straw man argument from the beginning (2015)",
+      "https://www.jjinux.com/2015/07/the-waterfall-model-was-straw-man.html"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 20:00:28",
       "https://news.ycombinator.com/item?id=41542409"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-09-13, 10:07:04",
+      "https://news.ycombinator.com/item?id=41529709"
+    ],
+    [
+      "The Pragmatic Programmer for Machine Learning",
+      "https://ppml.dev/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 07:40:41",
       "https://news.ycombinator.com/item?id=41528919"
     ],
@@ -287,16 +297,6 @@
     [
       "Ask HN: Does anyone use sound effects in their dev environment?",
       "https://news.ycombinator.com/item?id=41519046"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 15:21:30",
-      "https://news.ycombinator.com/item?id=41512213"
-    ],
-    [
-      "The First HTML LSP That Reports Syntax Errors",
-      "https://kristoff.it/blog/first-html-lsp/"
     ]
   ]
 ]
