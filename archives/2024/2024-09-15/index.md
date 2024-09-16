@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
 * [2024-09-15, 23:34:07](https://news.ycombinator.com/item?id=41551387) - [What Firefox trains are we in?](https://whattrainisitnow.com/)
+* [2024-09-15, 22:40:03](https://news.ycombinator.com/item?id=41551084) - [Nothing: Simply Do Nothing](https://usenothing.com/)
 * [2024-09-15, 22:03:01](https://news.ycombinator.com/item?id=41550822) - [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
 * [2024-09-15, 21:30:57](https://news.ycombinator.com/item?id=41550603) - [Plain Text Accounting (PTA)](https://plaintextaccounting.org/)
 * [2024-09-15, 21:09:22](https://news.ycombinator.com/item?id=41550417) - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
