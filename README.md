@@ -2,6 +2,7 @@
 
 * [2024-09-16, 10:21:56](https://news.ycombinator.com/item?id=41554583) - [Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
 * [2024-09-16, 09:08:25](https://news.ycombinator.com/item?id=41554177) - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
+* [2024-09-16, 09:04:59](https://news.ycombinator.com/item?id=41554157) - [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
 * [2024-09-15, 22:40:03](https://news.ycombinator.com/item?id=41551084) - [Nothing: Simply Do Nothing](https://usenothing.com/)
@@ -18,7 +19,6 @@
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
 * [2024-09-15, 11:24:44](https://news.ycombinator.com/item?id=41546803) - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
 * [2024-09-14, 23:11:25](https://news.ycombinator.com/item?id=41543805) - [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
-* [2024-09-14, 22:47:20](https://news.ycombinator.com/item?id=41543666) - [Ask HN: Former gifted children with hard lives, how did you turn out?](https://news.ycombinator.com/item?id=41543666)
 * [2024-09-14, 20:00:28](https://news.ycombinator.com/item?id=41542409) - [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
 * [2024-09-13, 23:34:16](https://news.ycombinator.com/item?id=41536156) - [Antiquities of Mexico (1831–48)](https://publicdomainreview.org/collection/antiquities-of-mexico/)
 * [2024-09-13, 20:32:18](https://news.ycombinator.com/item?id=41534847) - [Is MathAcademy Worth It? Thoughts After 2k Experience Points (XP)](https://jonathanwhitmore.com/posts/2024-09-10-MathAcademy-after-2000-points/)
