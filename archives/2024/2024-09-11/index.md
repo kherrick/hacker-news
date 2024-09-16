@@ -28,6 +28,7 @@
 * [2024-09-11, 17:00:56](https://news.ycombinator.com/item?id=41513241) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-09-11, 16:58:51](https://news.ycombinator.com/item?id=41513215) - [Google partners with Internet Archive to link to archives in search](https://9to5google.com/2024/09/11/google-search-internet-archive-wayback-machine/)
 * [2024-09-11, 16:36:24](https://news.ycombinator.com/item?id=41512971) - [How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky](https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/)
+* [2024-09-11, 16:31:50](https://news.ycombinator.com/item?id=41512930) - [How to Send a Swift Wire for Developers](https://www.iso20022js.com/guides/how-to-send-swift)
 * [2024-09-11, 16:30:01](https://news.ycombinator.com/item?id=41512910) - [After 155 years, the Campbell Soup company is changing its name](https://www.cnn.com/2024/09/10/business/campbell-soup-company-name/index.html)
 * [2024-09-11, 16:29:14](https://news.ycombinator.com/item?id=41512899) - [Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 * [2024-09-11, 16:25:24](https://news.ycombinator.com/item?id=41512871) - [AWS AI Stack – Ready-to-Deploy Serverless AI App on AWS and Bedrock](https://github.com/serverless/aws-ai-stack)
