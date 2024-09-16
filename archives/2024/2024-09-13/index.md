@@ -58,6 +58,7 @@
 * [2024-09-13, 12:27:52](https://news.ycombinator.com/item?id=41530571) - [Throwable tactical camera transmits 360° panoramic thermal images](https://newatlas.com/technology/throwable-tactical-camera-panoramic-thermal-images/)
 * [2024-09-13, 11:59:40](https://news.ycombinator.com/item?id=41530364) - [JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
 * [2024-09-13, 11:33:28](https://news.ycombinator.com/item?id=41530190) - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
+* [2024-09-13, 11:30:52](https://news.ycombinator.com/item?id=41530173) - [China raises retirement age for first time since 1950s](https://www.bbc.com/news/articles/c62421le4j6o)
 * [2024-09-13, 11:09:45](https://news.ycombinator.com/item?id=41530040) - [S6 – skarnet's small supervision suite](http://skarnet.org/software/s6/)
 * [2024-09-13, 11:01:33](https://news.ycombinator.com/item?id=41530001) - [Chatbot Pulls People Away from Conspiracy Theories](https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html)
 * [2024-09-13, 10:32:32](https://news.ycombinator.com/item?id=41529844) - [Pico-ASHA: USB audio to ASHA adapter](https://github.com/shermp/Pico-ASHA)

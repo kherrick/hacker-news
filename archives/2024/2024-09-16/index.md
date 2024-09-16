@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 21:45:54](https://news.ycombinator.com/item?id=41561321) - [What Hath Woz Wrought](https://www.folklore.org/What_Hath_Woz_Wrought.html)
 * [2024-09-16, 20:44:59](https://news.ycombinator.com/item?id=41560659) - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
 * [2024-09-16, 20:43:52](https://news.ycombinator.com/item?id=41560648) - [Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
 * [2024-09-16, 20:38:28](https://news.ycombinator.com/item?id=41560586) - [Rearchitecting Core Services at X](https://twitter.com/cambridgemike/status/1835774409786986572)
