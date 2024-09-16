@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-16, 19:02:08",
+      "https://news.ycombinator.com/item?id=41559350"
+    ],
+    [
+      "Amazon Tells Workers to Return to Office Five Days a Week",
+      "https://www.wsj.com/business/amazon-tells-workers-to-return-to-office-five-days-a-week-42a32ec8"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 18:23:49",
       "https://news.ycombinator.com/item?id=41558951"
     ],
@@ -137,16 +147,6 @@
     [
       "Attacking PowerShell Clixml Deserialization",
       "https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 04:36:09",
-      "https://news.ycombinator.com/item?id=41552804"
-    ],
-    [
-      "The HTTP Query Method",
-      "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html"
     ]
   ],
   [
