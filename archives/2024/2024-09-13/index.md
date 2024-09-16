@@ -62,6 +62,7 @@
 * [2024-09-13, 11:01:33](https://news.ycombinator.com/item?id=41530001) - [Chatbot Pulls People Away from Conspiracy Theories](https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html)
 * [2024-09-13, 10:32:32](https://news.ycombinator.com/item?id=41529844) - [Pico-ASHA: USB audio to ASHA adapter](https://github.com/shermp/Pico-ASHA)
 * [2024-09-13, 10:07:54](https://news.ycombinator.com/item?id=41529712) - [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
+* [2024-09-13, 10:07:04](https://news.ycombinator.com/item?id=41529709) - [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
 * [2024-09-13, 08:46:46](https://news.ycombinator.com/item?id=41529292) - [Using the Topics API (Chrome Only, Opposed by Firefox/Safari)](https://developer.mozilla.org/en-US/docs/Web/API/Topics_API/Using)
 * [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
 * [2024-09-13, 07:40:41](https://news.ycombinator.com/item?id=41528919) - [Speech Dictation Mode for Emacs](https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html)
