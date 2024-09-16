@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-16, 10:21:56",
+      "https://news.ycombinator.com/item?id=41554583"
+    ],
+    [
+      "Protocol Buffer Design: Principles and Practices for Collaborative Development",
+      "https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 08:49:11",
       "https://news.ycombinator.com/item?id=41554066"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2024-09-16, 05:30:08",
-      "https://news.ycombinator.com/item?id=41553031"
+      "2024-09-16, 08:48:05",
+      "https://news.ycombinator.com/item?id=41554062"
     ],
     [
-      "Diesel shop fined $10M for making and selling Emissions Defeat Devices",
-      "https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 03:10:26",
-      "https://news.ycombinator.com/item?id=41552403"
-    ],
-    [
-      "Satellite Imagery of Every Outdoor Basketball Court in the USA",
-      "https://pudding.cool/2024/09/courts/"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 23:34:07",
-      "https://news.ycombinator.com/item?id=41551387"
-    ],
-    [
-      "What Firefox trains are we in?",
-      "https://whattrainisitnow.com/"
+      "Sucks.. In a Good Way",
+      "https://atomic14.substack.com/p/this-really-sucks-in-a-good-way"
     ]
   ],
   [
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2024-09-15, 17:40:32",
-      "https://news.ycombinator.com/item?id=41548985"
-    ],
-    [
-      "Data Engineering Vault: A 1000 Node Second Brain for DE Knowledge",
-      "https://www.ssp.sh/brain/data-engineering/"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 17:00:51",
       "https://news.ycombinator.com/item?id=41548663"
     ],
@@ -141,12 +121,12 @@
   ],
   [
     [
-      "2024-09-15, 16:04:27",
-      "https://news.ycombinator.com/item?id=41548278"
+      "2024-09-15, 14:54:18",
+      "https://news.ycombinator.com/item?id=41547841"
     ],
     [
-      "A bullet hell game written in bash",
-      "https://twitter.com/SomeUnusualGame/status/1834946212610400522"
+      "Declarative Programming with AI/LLMs",
+      "https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html"
     ]
   ],
   [
@@ -157,6 +137,16 @@
     [
       "Randomness extractors: making fair coins out of biased coins",
       "https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 14:08:29",
+      "https://news.ycombinator.com/item?id=41547615"
+    ],
+    [
+      "Amazon's Secret Weapon in Chip Design Is Amazon",
+      "https://spectrum.ieee.org/amazon-ai"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2024-09-14, 23:11:25",
+      "https://news.ycombinator.com/item?id=41543805"
+    ],
+    [
+      "Why Scrum Is Stressing You Out",
+      "https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 22:47:20",
       "https://news.ycombinator.com/item?id=41543666"
     ],
@@ -201,26 +201,6 @@
   ],
   [
     [
-      "2024-09-14, 06:32:26",
-      "https://news.ycombinator.com/item?id=41537916"
-    ],
-    [
-      "Electric DeLorean DMC-12 Conversion Kit",
-      "https://www.electrogenic.co.uk/kits/conversion-kits/delorean-dmc-12-conversion-kit/"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 23:36:22",
-      "https://news.ycombinator.com/item?id=41536167"
-    ],
-    [
-      "40 Years Ago, Drexel Made Computer – and Apple – History",
-      "https://drexel.edu/news/archive/2024/March/drexel-apple-40th-anniversary-macintosh-1984"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 23:34:16",
       "https://news.ycombinator.com/item?id=41536156"
     ],
@@ -231,22 +211,22 @@
   ],
   [
     [
+      "2024-09-13, 20:32:18",
+      "https://news.ycombinator.com/item?id=41534847"
+    ],
+    [
+      "Is MathAcademy Worth It? Thoughts After 2k Experience Points (XP)",
+      "https://jonathanwhitmore.com/posts/2024-09-10-MathAcademy-after-2000-points/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 19:10:14",
       "https://news.ycombinator.com/item?id=41534162"
     ],
     [
       "Byte Ordering: On Holy Wars and a Plea for Peace (1980)",
       "https://www.rfc-editor.org/ien/ien137.txt"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 13:22:17",
-      "https://news.ycombinator.com/item?id=41531033"
-    ],
-    [
-      "Product Psychology",
-      "https://delightyourusers.com/psychology"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Speech Dictation Mode for Emacs",
       "https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 20:05:16",
+      "https://news.ycombinator.com/item?id=41524932"
+    ],
+    [
+      "USPS' long-awaited new mail truck makes its debut to rave reviews from carriers",
+      "https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 13:49:12",
+      "https://news.ycombinator.com/item?id=41520950"
+    ],
+    [
+      "The art of niwaki (Japanese tree pruning) (2017)",
+      "https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/"
     ]
   ],
   [
