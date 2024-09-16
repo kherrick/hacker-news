@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 09:27:22](https://news.ycombinator.com/item?id=41554285) - [Thierry Breton Has Resigned](https://twitter.com/thierrybreton/status/1835565206639972734)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
 * [2024-09-16, 05:30:08](https://news.ycombinator.com/item?id=41553031) - [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-16, 09:27:22](https://news.ycombinator.com/item?id=41554285) - [Thierry Breton Has Resigned](https://twitter.com/thierrybreton/status/1835565206639972734)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
 * [2024-09-16, 04:03:25](https://news.ycombinator.com/item?id=41552642) - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
@@ -8,7 +9,6 @@
 * [2024-09-16, 00:09:38](https://news.ycombinator.com/item?id=41551564) - [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
 * [2024-09-15, 23:34:07](https://news.ycombinator.com/item?id=41551387) - [What Firefox trains are we in?](https://whattrainisitnow.com/)
 * [2024-09-15, 22:40:03](https://news.ycombinator.com/item?id=41551084) - [Nothing: Simply Do Nothing](https://usenothing.com/)
-* [2024-09-15, 22:03:01](https://news.ycombinator.com/item?id=41550822) - [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
 * [2024-09-15, 21:30:57](https://news.ycombinator.com/item?id=41550603) - [Plain Text Accounting (PTA)](https://plaintextaccounting.org/)
 * [2024-09-15, 21:09:22](https://news.ycombinator.com/item?id=41550417) - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
 * [2024-09-15, 21:02:44](https://news.ycombinator.com/item?id=41550364) - [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
