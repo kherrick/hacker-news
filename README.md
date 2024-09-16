@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-16, 19:02:08](https://news.ycombinator.com/item?id=41559350) - [Amazon Tells Workers to Return to Office Five Days a Week](https://www.wsj.com/business/amazon-tells-workers-to-return-to-office-five-days-a-week-42a32ec8)
 * [2024-09-16, 18:23:49](https://news.ycombinator.com/item?id=41558951) - [Interview with Inventor of Neural Nets Warren McCulloch () [video]](https://www.youtube.com/watch?v=wawMjJUCMVw)
 * [2024-09-16, 18:08:47](https://news.ycombinator.com/item?id=41558800) - [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
 * [2024-09-16, 18:08:44](https://news.ycombinator.com/item?id=41558799) - [Do Not Sign the Qt License Agreement Unchanged](https://burkhardstubert.substack.com/p/do-not-sign-the-qt-license-agreement)
@@ -14,7 +15,6 @@
 * [2024-09-16, 10:59:13](https://news.ycombinator.com/item?id=41554791) - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
 * [2024-09-16, 09:08:25](https://news.ycombinator.com/item?id=41554177) - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
 * [2024-09-16, 09:04:59](https://news.ycombinator.com/item?id=41554157) - [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
-* [2024-09-16, 04:36:09](https://news.ycombinator.com/item?id=41552804) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-15, 22:40:03](https://news.ycombinator.com/item?id=41551084) - [Nothing: Simply Do Nothing](https://usenothing.com/)
 * [2024-09-15, 21:30:57](https://news.ycombinator.com/item?id=41550603) - [Plain Text Accounting (PTA)](https://plaintextaccounting.org/)
 * [2024-09-15, 21:09:22](https://news.ycombinator.com/item?id=41550417) - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
