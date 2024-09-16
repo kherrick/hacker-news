@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 20:44:59](https://news.ycombinator.com/item?id=41560659) - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
+* [2024-09-16, 20:43:52](https://news.ycombinator.com/item?id=41560648) - [Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
+* [2024-09-16, 20:38:28](https://news.ycombinator.com/item?id=41560586) - [Rearchitecting Core Services at X](https://twitter.com/cambridgemike/status/1835774409786986572)
+* [2024-09-16, 20:31:07](https://news.ycombinator.com/item?id=41560491) - [The Subprime AI Crisis](https://www.wheresyoured.at/subprimeai/)
 * [2024-09-16, 20:21:03](https://news.ycombinator.com/item?id=41560343) - [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
 * [2024-09-16, 20:16:45](https://news.ycombinator.com/item?id=41560275) - [An Update on Our Safety and Security Practices](https://openai.com/index/update-on-safety-and-security-practices/)
 * [2024-09-16, 19:57:08](https://news.ycombinator.com/item?id=41560027) - [Amazon mandates five days a week in office starting next year](https://www.theguardian.com/technology/2024/sep/16/amazon-in-person-office-policy)
