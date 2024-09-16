@@ -82,6 +82,7 @@
 * [2024-09-12, 10:14:05](https://news.ycombinator.com/item?id=41519240) - [Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 * [2024-09-12, 10:10:12](https://news.ycombinator.com/item?id=41519229) - [I give you feedback on your blog post draft but you don't send it to me (2021)](https://mango.pdf.zone/i-give-you-feedback-on-your-blog-post-draft-but-you-dont-send-it-to-me)
 * [2024-09-12, 09:39:39](https://news.ycombinator.com/item?id=41519112) - [Show HN: Epitomē – A semantic search engine for ancient text](https://www.barneyhill.com/pages/epitome/)
+* [2024-09-12, 09:24:45](https://news.ycombinator.com/item?id=41519046) - [Does anyone use sound effects in their dev environment?](https://news.ycombinator.com/item?id=41519046)
 * [2024-09-12, 08:44:36](https://news.ycombinator.com/item?id=41518797) - [Ask HN: What is the most expensive off-the-shelf software you have seen?](https://news.ycombinator.com/item?id=41518797)
 * [2024-09-12, 08:07:30](https://news.ycombinator.com/item?id=41518606) - [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
 * [2024-09-12, 08:06:27](https://news.ycombinator.com/item?id=41518600) - [Why Haskell?](https://www.gtf.io/musings/why-haskell)
