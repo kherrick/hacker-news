@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-16, 10:21:56",
-      "https://news.ycombinator.com/item?id=41554583"
+      "2024-09-16, 10:59:13",
+      "https://news.ycombinator.com/item?id=41554791"
     ],
     [
-      "Protocol Buffer Design: Principles and Practices for Collaborative Development",
-      "https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85"
+      "Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs",
+      "https://github.com/frost-beta/sisi"
     ]
   ],
   [
@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2024-09-16, 09:04:59",
-      "https://news.ycombinator.com/item?id=41554157"
-    ],
-    [
-      "Attacking PowerShell Clixml Deserialization",
-      "https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 08:49:11",
       "https://news.ycombinator.com/item?id=41554066"
     ],
     [
-      "How Chainalysis Made Their Way into Popular Monero Wallets",
+      "How Chainalysis  made their way into popular Monero wallets",
       "https://www.digilol.net/blog/chainanalysis-malicious-xmr.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 08:48:05",
-      "https://news.ycombinator.com/item?id=41554062"
-    ],
-    [
-      "Sucks.. In a Good Way",
-      "https://atomic14.substack.com/p/this-really-sucks-in-a-good-way"
     ]
   ],
   [
@@ -131,6 +111,16 @@
   ],
   [
     [
+      "2024-09-15, 17:00:51",
+      "https://news.ycombinator.com/item?id=41548663"
+    ],
+    [
+      "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
+      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 14:54:18",
       "https://news.ycombinator.com/item?id=41547841"
     ],
@@ -181,12 +171,42 @@
   ],
   [
     [
+      "2024-09-15, 08:04:02",
+      "https://news.ycombinator.com/item?id=41546015"
+    ],
+    [
+      "AT&T's Hobbit Microprocessor (2023)",
+      "https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 04:02:10",
+      "https://news.ycombinator.com/item?id=41545100"
+    ],
+    [
+      "Powerful, Open-Source, Programmatic CAD",
+      "https://www.implicitcad.org/"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 23:11:25",
       "https://news.ycombinator.com/item?id=41543805"
     ],
     [
-      "Why Scrum Is Stressing You Out",
+      "Why Scrum is stressing you out",
       "https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 22:47:20",
+      "https://news.ycombinator.com/item?id=41543666"
+    ],
+    [
+      "Ask HN: Former gifted children with hard lives, how did you turn out?",
+      "https://news.ycombinator.com/item?id=41543666"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-09-13, 20:32:18",
-      "https://news.ycombinator.com/item?id=41534847"
-    ],
-    [
-      "Is MathAcademy Worth It? Thoughts After 2k Experience Points (XP)",
-      "https://jonathanwhitmore.com/posts/2024-09-10-MathAcademy-after-2000-points/"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 19:10:14",
       "https://news.ycombinator.com/item?id=41534162"
     ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=41529129"
     ],
     [
-      "Jensen's Inequality as an Intuition Tool",
+      "Jensen's Inequality as an Intuition Tool (2021)",
       "https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/"
     ]
   ],
@@ -247,26 +257,6 @@
     [
       "Speech Dictation Mode for Emacs",
       "https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 20:05:16",
-      "https://news.ycombinator.com/item?id=41524932"
-    ],
-    [
-      "USPS' long-awaited new mail truck makes its debut to rave reviews from carriers",
-      "https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 13:49:12",
-      "https://news.ycombinator.com/item?id=41520950"
-    ],
-    [
-      "The art of niwaki (Japanese tree pruning) (2017)",
-      "https://blog.fantasticgardenersmelbourne.com.au/art-of-niwaki/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "I give you feedback on your blog post draft but you don't send it to me (2021)",
       "https://mango.pdf.zone/i-give-you-feedback-on-your-blog-post-draft-but-you-dont-send-it-to-me"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 09:24:45",
+      "https://news.ycombinator.com/item?id=41519046"
+    ],
+    [
+      "Does anyone use sound effects in their dev environment?",
+      "https://news.ycombinator.com/item?id=41519046"
     ]
   ],
   [
