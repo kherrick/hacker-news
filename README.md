@@ -2,7 +2,6 @@
 
 * [2024-09-16, 04:03:25](https://news.ycombinator.com/item?id=41552642) - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
 * [2024-09-16, 03:10:26](https://news.ycombinator.com/item?id=41552403) - [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
-* [2024-09-16, 02:34:01](https://news.ycombinator.com/item?id=41552213) - [uBlock Origin is no longer available on Chrome web store](https://old.reddit.com/r/Piracy/s/dGGy8PXAMG)
 * [2024-09-16, 00:58:30](https://news.ycombinator.com/item?id=41551776) - [New tech can make air-conditioning less harmful to the planet](https://www.economist.com/science-and-technology/2024/09/04/new-tech-can-make-air-conditioning-less-harmful-to-the-planet)
 * [2024-09-16, 00:09:38](https://news.ycombinator.com/item?id=41551564) - [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
 * [2024-09-15, 23:34:07](https://news.ycombinator.com/item?id=41551387) - [What Firefox trains are we in?](https://whattrainisitnow.com/)
@@ -16,6 +15,7 @@
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 17:40:32](https://news.ycombinator.com/item?id=41548985) - [Data Engineering Vault: A 1000 Node Second Brain for DE Knowledge](https://www.ssp.sh/brain/data-engineering/)
 * [2024-09-15, 17:00:51](https://news.ycombinator.com/item?id=41548663) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+* [2024-09-15, 16:04:27](https://news.ycombinator.com/item?id=41548278) - [A bullet hell game written in bash](https://twitter.com/SomeUnusualGame/status/1834946212610400522)
 * [2024-09-15, 14:50:13](https://news.ycombinator.com/item?id=41547816) - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
 * [2024-09-15, 13:32:37](https://news.ycombinator.com/item?id=41547405) - [Open Source security camera on Raspberry Pi](https://github.com/TzuHuanTai/RaspberryPi_WebRTC)
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
