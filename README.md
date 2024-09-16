@@ -12,6 +12,7 @@
 * [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 17:00:51](https://news.ycombinator.com/item?id=41548663) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+* [2024-09-15, 15:02:26](https://news.ycombinator.com/item?id=41547899) - [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)
 * [2024-09-15, 14:54:18](https://news.ycombinator.com/item?id=41547841) - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
 * [2024-09-15, 14:50:13](https://news.ycombinator.com/item?id=41547816) - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
 * [2024-09-15, 14:08:29](https://news.ycombinator.com/item?id=41547615) - [Amazon's Secret Weapon in Chip Design Is Amazon](https://spectrum.ieee.org/amazon-ai)
@@ -28,7 +29,6 @@
 * [2024-09-13, 07:40:41](https://news.ycombinator.com/item?id=41528919) - [Speech Dictation Mode for Emacs](https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html)
 * [2024-09-12, 10:56:20](https://news.ycombinator.com/item?id=41519409) - [Braiding the spaghetti: implementing defer in the preprocessor](https://gustedt.wordpress.com/2024/09/11/braiding-the-spaghetti-implementing-defer-in-the-preprocessor/)
 * [2024-09-12, 10:10:12](https://news.ycombinator.com/item?id=41519229) - [I give you feedback on your blog post draft but you don't send it to me (2021)](https://mango.pdf.zone/i-give-you-feedback-on-your-blog-post-draft-but-you-dont-send-it-to-me)
-* [2024-09-12, 09:24:45](https://news.ycombinator.com/item?id=41519046) - [Does anyone use sound effects in their dev environment?](https://news.ycombinator.com/item?id=41519046)
 * [2024-09-11, 15:21:30](https://news.ycombinator.com/item?id=41512213) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 
 ## [Archives](archives/index.md)
