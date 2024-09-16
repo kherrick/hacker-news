@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 18:14:40](https://news.ycombinator.com/item?id=41558865) - [NixOS Server Up in Minutes](https://gvolpe.com/blog/nixos-server/)
 * [2024-09-16, 18:08:47](https://news.ycombinator.com/item?id=41558800) - [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
+* [2024-09-16, 18:08:44](https://news.ycombinator.com/item?id=41558799) - [Do Not Sign the Qt License Agreement Unchanged](https://burkhardstubert.substack.com/p/do-not-sign-the-qt-license-agreement)
 * [2024-09-16, 17:54:24](https://news.ycombinator.com/item?id=41558668) - [Is 'Monolith First' the Better Approach?](https://martinfowler.com/bliki/MonolithFirst.html)
 * [2024-09-16, 17:44:23](https://news.ycombinator.com/item?id=41558554) - [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
 * [2024-09-16, 17:18:30](https://news.ycombinator.com/item?id=41558269) - [Words on Founder Mode](https://randsinrepose.com/archives/words-on-founder-mode/)
