@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 17:09:10](https://news.ycombinator.com/item?id=41558183) - [Package reproducibility in Python notebooks using uv isolated environments](https://marimo.io/blog/sandboxed-notebooks)
 * [2024-09-16, 17:02:51](https://news.ycombinator.com/item?id=41558114) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
 * [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
 * [2024-09-16, 15:56:21](https://news.ycombinator.com/item?id=41557383) - [Oracle, it's time to free JavaScript](https://javascript.tm/)
 * [2024-09-16, 15:53:33](https://news.ycombinator.com/item?id=41557345) - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
+* [2024-09-16, 15:26:18](https://news.ycombinator.com/item?id=41557030) - [Ask HN: What runs L4-related microkernels/hypervisors these days?](https://news.ycombinator.com/item?id=41557030)
 * [2024-09-16, 15:16:29](https://news.ycombinator.com/item?id=41556915) - [The Impossibility of Making an Elite Engineer (2017)](https://tidyfirst.substack.com/p/the-impossibility-of-making-an-elite)
 * [2024-09-16, 15:08:10](https://news.ycombinator.com/item?id=41556844) - [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
 * [2024-09-16, 15:05:06](https://news.ycombinator.com/item?id=41556816) - [Product management is hosting a party, not playing chess](https://tidyfirst.substack.com/p/product-is-a-party-not-chess)
