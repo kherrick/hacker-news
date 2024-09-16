@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
 * [2024-09-16, 15:56:21](https://news.ycombinator.com/item?id=41557383) - [Oracle, it's time to free JavaScript](https://javascript.tm/)
 * [2024-09-16, 15:53:33](https://news.ycombinator.com/item?id=41557345) - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
-* [2024-09-16, 15:16:29](https://news.ycombinator.com/item?id=41556915) - [The Impossibility of Making an Elite Engineer (2017)](https://tidyfirst.substack.com/p/the-impossibility-of-making-an-elite)
 * [2024-09-16, 15:08:10](https://news.ycombinator.com/item?id=41556844) - [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
 * [2024-09-16, 14:21:16](https://news.ycombinator.com/item?id=41556378) - [Show HN: Xnapper Studio – Web tool for creating attention-grabbing screenshots](https://xnapper.com/app)
