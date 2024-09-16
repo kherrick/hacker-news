@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-16, 19:47:00](https://news.ycombinator.com/item?id=41559887) - [Thoughts and Observations in the Wake of Apple's 'It's Glowtime' Keynote](https://daringfireball.net/2024/09/thoughts_and_observations_in_the_wake_of_apples_its_glowtime_keynote)
 * [2024-09-16, 19:41:57](https://news.ycombinator.com/item?id=41559825) - [What If Ozempic Is Just a Good Thing?](https://nymag.com/intelligencer/article/ozempic-weight-loss-diet-drug-moral-panic.html)
 * [2024-09-16, 19:37:21](https://news.ycombinator.com/item?id=41559761) - [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
 * [2024-09-16, 18:23:49](https://news.ycombinator.com/item?id=41558951) - [Interview with Inventor of Neural Nets Warren McCulloch () [video]](https://www.youtube.com/watch?v=wawMjJUCMVw)
@@ -10,7 +11,6 @@
 * [2024-09-16, 17:02:51](https://news.ycombinator.com/item?id=41558114) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
 * [2024-09-16, 16:59:22](https://news.ycombinator.com/item?id=41558081) - [A Spreadsheet and a Debugger Walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
-* [2024-09-16, 15:56:21](https://news.ycombinator.com/item?id=41557383) - [Oracle, it's time to free JavaScript](https://javascript.tm/)
 * [2024-09-16, 15:53:33](https://news.ycombinator.com/item?id=41557345) - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
 * [2024-09-16, 15:26:18](https://news.ycombinator.com/item?id=41557030) - [Ask HN: What runs L4-related microkernels/hypervisors these days?](https://news.ycombinator.com/item?id=41557030)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
