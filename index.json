@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-16, 15:56:21",
+      "https://news.ycombinator.com/item?id=41557383"
+    ],
+    [
+      "Oracle, it's time to free JavaScript",
+      "https://javascript.tm/"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 15:53:33",
+      "https://news.ycombinator.com/item?id=41557345"
+    ],
+    [
+      "Datomic and Content Addressable Techniques",
+      "https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 15:08:10",
       "https://news.ycombinator.com/item?id=41556844"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-09-16, 00:58:30",
-      "https://news.ycombinator.com/item?id=41551776"
-    ],
-    [
-      "New tech can make air-conditioning less harmful to the planet",
-      "https://www.economist.com/science-and-technology/2024/09/04/new-tech-can-make-air-conditioning-less-harmful-to-the-planet"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 22:40:03",
       "https://news.ycombinator.com/item?id=41551084"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-09-15, 14:54:18",
-      "https://news.ycombinator.com/item?id=41547841"
-    ],
-    [
-      "Declarative Programming with AI/LLMs",
-      "https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 13:30:49",
       "https://news.ycombinator.com/item?id=41547395"
     ],
@@ -207,16 +207,6 @@
     [
       "Fractran: Computer architecture based on the multiplication of fractions",
       "https://wiki.xxiivv.com/site/fractran.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 11:28:10",
-      "https://news.ycombinator.com/item?id=41546814"
-    ],
-    [
-      "What our childhood shows taught us about cities (2019)",
-      "http://www.thomasbardenett.com/blog/2019/7/23/what-mr-rogers-sesame-street-and-hey-arnold-taught-us-about-cities"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Fair: A Go library for serving resources fairly",
       "https://github.com/satmihir/fair"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 17:39:38",
+      "https://news.ycombinator.com/item?id=41533387"
+    ],
+    [
+      "The Analyst and the Bard",
+      "https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-analyst-and-the-bard"
     ]
   ],
   [
