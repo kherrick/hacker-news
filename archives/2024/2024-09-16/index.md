@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 23:24:57](https://news.ycombinator.com/item?id=41562287) - [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
 * [2024-09-16, 22:15:24](https://news.ycombinator.com/item?id=41561647) - [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
 * [2024-09-16, 21:45:54](https://news.ycombinator.com/item?id=41561321) - [What Hath Woz Wrought](https://www.folklore.org/What_Hath_Woz_Wrought.html)
 * [2024-09-16, 20:44:59](https://news.ycombinator.com/item?id=41560659) - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
