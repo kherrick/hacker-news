@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-16, 09:27:22](https://news.ycombinator.com/item?id=41554285) - [Thierry Breton Has Resigned](https://twitter.com/thierrybreton/status/1835565206639972734)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
 * [2024-09-16, 04:03:25](https://news.ycombinator.com/item?id=41552642) - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
@@ -14,6 +13,7 @@
 * [2024-09-15, 21:02:44](https://news.ycombinator.com/item?id=41550364) - [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 * [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
+* [2024-09-15, 17:40:32](https://news.ycombinator.com/item?id=41548985) - [Data Engineering Vault: A 1000 Node Second Brain for DE Knowledge](https://www.ssp.sh/brain/data-engineering/)
 * [2024-09-15, 13:32:37](https://news.ycombinator.com/item?id=41547405) - [Open Source security camera on Raspberry Pi](https://github.com/TzuHuanTai/RaspberryPi_WebRTC)
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
 * [2024-09-15, 11:14:41](https://news.ycombinator.com/item?id=41546769) - [Learn Git Branching](https://learngitbranching.js.org/)
