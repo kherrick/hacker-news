@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-09-16, 04:36:09",
+      "https://news.ycombinator.com/item?id=41552804"
+    ],
+    [
+      "The HTTP Query Method",
+      "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 22:40:03",
       "https://news.ycombinator.com/item?id=41551084"
     ],
@@ -171,32 +181,22 @@
   ],
   [
     [
-      "2024-09-15, 09:06:41",
-      "https://news.ycombinator.com/item?id=41546278"
-    ],
-    [
-      "Napkin-math: Techniques for estimating system performance from first-principles",
-      "https://github.com/sirupsen/napkin-math"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 08:07:21",
-      "https://news.ycombinator.com/item?id=41546032"
-    ],
-    [
-      "Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL",
-      "https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 07:12:10",
       "https://news.ycombinator.com/item?id=41545810"
     ],
     [
       "The Waterfall Model was a straw man argument from the beginning (2015)",
       "https://www.jjinux.com/2015/07/the-waterfall-model-was-straw-man.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 04:02:10",
+      "https://news.ycombinator.com/item?id=41545100"
+    ],
+    [
+      "Powerful, Open-Source, Programmatic CAD",
+      "https://www.implicitcad.org/"
     ]
   ],
   [
