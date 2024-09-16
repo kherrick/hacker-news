@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 23:50:50](https://news.ycombinator.com/item?id=41562481) - [Intel foundry business to make custom chip for Amazon, chipmaker's shares jump](https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/)
+* [2024-09-16, 23:29:18](https://news.ycombinator.com/item?id=41562321) - [China Is Rapidly Becoming a Leading Innovator in Advanced Industries](https://itif.org/publications/2024/09/16/china-is-rapidly-becoming-a-leading-innovator-in-advanced-industries/)
 * [2024-09-16, 23:24:57](https://news.ycombinator.com/item?id=41562287) - [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
 * [2024-09-16, 22:15:24](https://news.ycombinator.com/item?id=41561647) - [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
 * [2024-09-16, 21:45:54](https://news.ycombinator.com/item?id=41561321) - [What Hath Woz Wrought](https://www.folklore.org/What_Hath_Woz_Wrought.html)

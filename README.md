@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-16, 23:50:50](https://news.ycombinator.com/item?id=41562481) - [Intel foundry business to make custom chip for Amazon, chipmaker's shares jump](https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/)
+* [2024-09-16, 23:29:18](https://news.ycombinator.com/item?id=41562321) - [China Is Rapidly Becoming a Leading Innovator in Advanced Industries](https://itif.org/publications/2024/09/16/china-is-rapidly-becoming-a-leading-innovator-in-advanced-industries/)
 * [2024-09-16, 23:24:57](https://news.ycombinator.com/item?id=41562287) - [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
 * [2024-09-16, 22:15:24](https://news.ycombinator.com/item?id=41561647) - [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
 * [2024-09-16, 20:44:59](https://news.ycombinator.com/item?id=41560659) - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
@@ -13,7 +15,6 @@
 * [2024-09-16, 16:59:22](https://news.ycombinator.com/item?id=41558081) - [A Spreadsheet and a Debugger Walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
 * [2024-09-16, 15:53:33](https://news.ycombinator.com/item?id=41557345) - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
-* [2024-09-16, 15:33:57](https://news.ycombinator.com/item?id=41557107) - [Show HN: Universal Logger for Node, Deno, Bun, Browser](https://adzejs.com)
 * [2024-09-16, 15:26:18](https://news.ycombinator.com/item?id=41557030) - [Ask HN: What runs L4-related microkernels/hypervisors these days?](https://news.ycombinator.com/item?id=41557030)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
 * [2024-09-16, 10:59:13](https://news.ycombinator.com/item?id=41554791) - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
@@ -23,7 +24,6 @@
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 12:09:07](https://news.ycombinator.com/item?id=41547008) - [Fractran: Computer architecture based on the multiplication of fractions](https://wiki.xxiivv.com/site/fractran.html)
 * [2024-09-15, 11:24:44](https://news.ycombinator.com/item?id=41546803) - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
-* [2024-09-15, 07:12:10](https://news.ycombinator.com/item?id=41545810) - [The Waterfall Model was a straw man argument from the beginning (2015)](https://www.jjinux.com/2015/07/the-waterfall-model-was-straw-man.html)
 * [2024-09-14, 20:00:28](https://news.ycombinator.com/item?id=41542409) - [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
 * [2024-09-13, 11:09:45](https://news.ycombinator.com/item?id=41530040) - [S6 – skarnet's small supervision suite](http://skarnet.org/software/s6/)
 * [2024-09-13, 10:07:04](https://news.ycombinator.com/item?id=41529709) - [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
