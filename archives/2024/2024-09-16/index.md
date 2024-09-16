@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
 * [2024-09-16, 10:21:56](https://news.ycombinator.com/item?id=41554583) - [Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
+* [2024-09-16, 10:09:32](https://news.ycombinator.com/item?id=41554525) - [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 * [2024-09-16, 09:27:22](https://news.ycombinator.com/item?id=41554285) - [Thierry Breton Has Resigned](https://twitter.com/thierrybreton/status/1835565206639972734)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
