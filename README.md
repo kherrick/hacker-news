@@ -28,7 +28,7 @@
 * [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
 * [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 13:21:33](https://news.ycombinator.com/item?id=41520620) - [Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork](https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406)
-* [2024-09-12, 06:26:16](https://news.ycombinator.com/item?id=41518127) - [Adapter lets you use cheap eSIM plans on any Android phone](https://www.androidauthority.com/esim-adapter-android-phone-3480601/)
+* [2024-09-12, 10:10:12](https://news.ycombinator.com/item?id=41519229) - [I give you feedback on your blog post draft but you don't send it to me (2021)](https://mango.pdf.zone/i-give-you-feedback-on-your-blog-post-draft-but-you-dont-send-it-to-me)
 * [2024-09-11, 15:21:30](https://news.ycombinator.com/item?id=41512213) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 
 ## [Archives](archives/index.md)
