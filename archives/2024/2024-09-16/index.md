@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 18:23:49](https://news.ycombinator.com/item?id=41558951) - [Interview with Inventor of Neural Nets Warren McCulloch () [video]](https://www.youtube.com/watch?v=wawMjJUCMVw)
 * [2024-09-16, 18:14:40](https://news.ycombinator.com/item?id=41558865) - [NixOS Server Up in Minutes](https://gvolpe.com/blog/nixos-server/)
 * [2024-09-16, 18:08:47](https://news.ycombinator.com/item?id=41558800) - [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
 * [2024-09-16, 18:08:44](https://news.ycombinator.com/item?id=41558799) - [Do Not Sign the Qt License Agreement Unchanged](https://burkhardstubert.substack.com/p/do-not-sign-the-qt-license-agreement)
@@ -12,6 +13,7 @@
 * [2024-09-16, 17:18:30](https://news.ycombinator.com/item?id=41558269) - [Words on Founder Mode](https://randsinrepose.com/archives/words-on-founder-mode/)
 * [2024-09-16, 17:09:10](https://news.ycombinator.com/item?id=41558183) - [Package reproducibility in Python notebooks using uv isolated environments](https://marimo.io/blog/sandboxed-notebooks)
 * [2024-09-16, 17:02:51](https://news.ycombinator.com/item?id=41558114) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
+* [2024-09-16, 16:59:22](https://news.ycombinator.com/item?id=41558081) - [A Spreadsheet and a Debugger Walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
 * [2024-09-16, 15:56:21](https://news.ycombinator.com/item?id=41557383) - [Oracle, it's time to free JavaScript](https://javascript.tm/)
 * [2024-09-16, 15:53:33](https://news.ycombinator.com/item?id=41557345) - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
