@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-16, 01:26:07](https://news.ycombinator.com/item?id=41551895) - [Ask HN: Did HN just get hacked and leak passwords?](https://news.ycombinator.com/item?id=41551895)
+* [2024-09-16, 02:34:01](https://news.ycombinator.com/item?id=41552213) - [uBlock Origin is no longer available on Chrome web store](https://old.reddit.com/r/Piracy/s/dGGy8PXAMG)
 * [2024-09-16, 01:19:10](https://news.ycombinator.com/item?id=41551858) - [Linux market share approaching 4.5% for first time, could hit 5% by 1Q25](https://www.tomshardware.com/software/linux/linux-market-share-approaching-45-for-first-time-could-hit-5-by-1q25)
 * [2024-09-16, 00:09:38](https://news.ycombinator.com/item?id=41551564) - [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
 * [2024-09-15, 23:34:07](https://news.ycombinator.com/item?id=41551387) - [What Firefox trains are we in?](https://whattrainisitnow.com/)
@@ -28,8 +28,8 @@
 * [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
 * [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 13:21:33](https://news.ycombinator.com/item?id=41520620) - [Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork](https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406)
+* [2024-09-12, 06:26:16](https://news.ycombinator.com/item?id=41518127) - [Adapter lets you use cheap eSIM plans on any Android phone](https://www.androidauthority.com/esim-adapter-android-phone-3480601/)
 * [2024-09-11, 15:21:30](https://news.ycombinator.com/item?id=41512213) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
-* [2024-09-10, 21:02:40](https://news.ycombinator.com/item?id=41505528) - [The disunity of consciousness in everyday experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
 
 ## [Archives](archives/index.md)
 
