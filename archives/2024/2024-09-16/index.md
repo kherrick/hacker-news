@@ -14,6 +14,7 @@
 * [2024-09-16, 20:13:05](https://news.ycombinator.com/item?id=41560225) - [Show HN: Microtonal Piano](https://osolmaz.github.io/microtonal-piano/)
 * [2024-09-16, 19:57:08](https://news.ycombinator.com/item?id=41560027) - [Amazon mandates five days a week in office starting next year](https://www.theguardian.com/technology/2024/sep/16/amazon-in-person-office-policy)
 * [2024-09-16, 19:47:00](https://news.ycombinator.com/item?id=41559887) - [Thoughts and Observations in the Wake of Apple's 'It's Glowtime' Keynote](https://daringfireball.net/2024/09/thoughts_and_observations_in_the_wake_of_apples_its_glowtime_keynote)
+* [2024-09-16, 19:45:33](https://news.ycombinator.com/item?id=41559870) - [CATL launches ultra-high-energy-density EV bus battery that lasts ~1M miles](https://electrek.co/2024/09/16/catl-launches-new-ev-battery-lasts-nearly-1-million-miles/)
 * [2024-09-16, 19:41:57](https://news.ycombinator.com/item?id=41559825) - [What If Ozempic Is Just a Good Thing?](https://nymag.com/intelligencer/article/ozempic-weight-loss-diet-drug-moral-panic.html)
 * [2024-09-16, 19:37:21](https://news.ycombinator.com/item?id=41559761) - [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
 * [2024-09-16, 19:02:08](https://news.ycombinator.com/item?id=41559350) - [Amazon Tells Workers to Return to Office Five Days a Week](https://www.wsj.com/business/amazon-tells-workers-to-return-to-office-five-days-a-week-42a32ec8)
