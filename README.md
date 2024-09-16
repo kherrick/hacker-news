@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-16, 15:08:10](https://news.ycombinator.com/item?id=41556844) - [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
-* [2024-09-16, 14:44:40](https://news.ycombinator.com/item?id=41556640) - [Update on Native Matrix Interoperability with WhatsApp](https://matrix.org/blog/2024/09/whatsapp-dma/)
+* [2024-09-16, 15:05:06](https://news.ycombinator.com/item?id=41556816) - [Product management is hosting a party, not playing chess](https://tidyfirst.substack.com/p/product-is-a-party-not-chess)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
+* [2024-09-16, 14:04:00](https://news.ycombinator.com/item?id=41556195) - [Stephen Fry – AI: A Means to an End or a Means to Our End?](https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to)
 * [2024-09-16, 12:24:46](https://news.ycombinator.com/item?id=41555349) - [Earth may have had a ring system 466 million years ago](https://www.monash.edu/science/news-events/news/current/earth-may-have-had-a-ring-system-466-million-years-ago)
 * [2024-09-16, 10:59:13](https://news.ycombinator.com/item?id=41554791) - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
 * [2024-09-16, 09:08:25](https://news.ycombinator.com/item?id=41554177) - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
@@ -18,7 +19,6 @@
 * [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 14:54:18](https://news.ycombinator.com/item?id=41547841) - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
-* [2024-09-15, 14:50:13](https://news.ycombinator.com/item?id=41547816) - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
 * [2024-09-15, 12:09:07](https://news.ycombinator.com/item?id=41547008) - [Fractran: Computer architecture based on the multiplication of fractions](https://wiki.xxiivv.com/site/fractran.html)
 * [2024-09-15, 11:28:10](https://news.ycombinator.com/item?id=41546814) - [What our childhood shows taught us about cities (2019)](http://www.thomasbardenett.com/blog/2019/7/23/what-mr-rogers-sesame-street-and-hey-arnold-taught-us-about-cities)

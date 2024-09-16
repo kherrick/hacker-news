@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
 * [2024-09-16, 15:08:10](https://news.ycombinator.com/item?id=41556844) - [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
+* [2024-09-16, 15:05:06](https://news.ycombinator.com/item?id=41556816) - [Product management is hosting a party, not playing chess](https://tidyfirst.substack.com/p/product-is-a-party-not-chess)
 * [2024-09-16, 14:44:40](https://news.ycombinator.com/item?id=41556640) - [Update on Native Matrix Interoperability with WhatsApp](https://matrix.org/blog/2024/09/whatsapp-dma/)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
+* [2024-09-16, 14:04:00](https://news.ycombinator.com/item?id=41556195) - [Stephen Fry – AI: A Means to an End or a Means to Our End?](https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to)
 * [2024-09-16, 12:24:46](https://news.ycombinator.com/item?id=41555349) - [Earth may have had a ring system 466 million years ago](https://www.monash.edu/science/news-events/news/current/earth-may-have-had-a-ring-system-466-million-years-ago)
 * [2024-09-16, 10:59:13](https://news.ycombinator.com/item?id=41554791) - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
 * [2024-09-16, 10:21:56](https://news.ycombinator.com/item?id=41554583) - [Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
