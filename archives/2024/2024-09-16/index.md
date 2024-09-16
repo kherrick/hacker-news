@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 19:57:08](https://news.ycombinator.com/item?id=41560027) - [Amazon mandates five days a week in office starting next year](https://www.theguardian.com/technology/2024/sep/16/amazon-in-person-office-policy)
 * [2024-09-16, 19:47:00](https://news.ycombinator.com/item?id=41559887) - [Thoughts and Observations in the Wake of Apple's 'It's Glowtime' Keynote](https://daringfireball.net/2024/09/thoughts_and_observations_in_the_wake_of_apples_its_glowtime_keynote)
 * [2024-09-16, 19:41:57](https://news.ycombinator.com/item?id=41559825) - [What If Ozempic Is Just a Good Thing?](https://nymag.com/intelligencer/article/ozempic-weight-loss-diet-drug-moral-panic.html)
 * [2024-09-16, 19:37:21](https://news.ycombinator.com/item?id=41559761) - [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
 * [2024-09-16, 19:02:08](https://news.ycombinator.com/item?id=41559350) - [Amazon Tells Workers to Return to Office Five Days a Week](https://www.wsj.com/business/amazon-tells-workers-to-return-to-office-five-days-a-week-42a32ec8)
+* [2024-09-16, 18:27:19](https://news.ycombinator.com/item?id=41558995) - [How to Make HTTPS Verifiable](https://blog.reclaimprotocol.org/posts/open-source-reclaim)
 * [2024-09-16, 18:23:49](https://news.ycombinator.com/item?id=41558951) - [Interview with Inventor of Neural Nets Warren McCulloch () [video]](https://www.youtube.com/watch?v=wawMjJUCMVw)
 * [2024-09-16, 18:14:40](https://news.ycombinator.com/item?id=41558865) - [NixOS Server Up in Minutes](https://gvolpe.com/blog/nixos-server/)
 * [2024-09-16, 18:08:47](https://news.ycombinator.com/item?id=41558800) - [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
@@ -39,6 +41,7 @@
 * [2024-09-16, 09:04:59](https://news.ycombinator.com/item?id=41554157) - [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
+* [2024-09-16, 06:29:48](https://news.ycombinator.com/item?id=41553320) - [Revisiting Overture's Global Geospatial Datasets](https://tech.marksblogg.com/overture-2024-revisit.html)
 * [2024-09-16, 05:30:08](https://news.ycombinator.com/item?id=41553031) - [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)
 * [2024-09-16, 04:36:09](https://news.ycombinator.com/item?id=41552804) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 04:03:25](https://news.ycombinator.com/item?id=41552642) - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
