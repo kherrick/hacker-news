@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 04:03:25](https://news.ycombinator.com/item?id=41552642) - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
 * [2024-09-16, 03:10:26](https://news.ycombinator.com/item?id=41552403) - [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
 * [2024-09-16, 02:34:01](https://news.ycombinator.com/item?id=41552213) - [uBlock Origin is no longer available on Chrome web store](https://old.reddit.com/r/Piracy/s/dGGy8PXAMG)
 * [2024-09-16, 01:26:07](https://news.ycombinator.com/item?id=41551895) - [Ask HN: Did HN just get hacked and leak passwords?](https://news.ycombinator.com/item?id=41551895)

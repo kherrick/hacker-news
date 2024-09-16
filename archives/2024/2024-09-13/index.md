@@ -60,6 +60,7 @@
 * [2024-09-13, 10:07:54](https://news.ycombinator.com/item?id=41529712) - [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
 * [2024-09-13, 08:46:46](https://news.ycombinator.com/item?id=41529292) - [Using the Topics API (Chrome Only, Opposed by Firefox/Safari)](https://developer.mozilla.org/en-US/docs/Web/API/Topics_API/Using)
 * [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
+* [2024-09-13, 07:40:41](https://news.ycombinator.com/item?id=41528919) - [Speech Dictation Mode for Emacs](https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html)
 * [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)
 * [2024-09-13, 06:51:21](https://news.ycombinator.com/item?id=41528658) - [Historical Fiction Redefined the Literary Canon](https://www.thenation.com/article/culture/historical-fiction-awards-essay/)
 * [2024-09-13, 05:56:01](https://news.ycombinator.com/item?id=41528360) - [The Reinforcing Nature of Toil (2023)](https://entropicthoughts.com/the-reinforcing-nature-of-toil)
