@@ -17,6 +17,7 @@
 * [2024-09-14, 20:52:21](https://news.ycombinator.com/item?id=41542788) - [Zen and the Art of Writer Decks (Using the Pomera DM250)](http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html)
 * [2024-09-14, 20:13:03](https://news.ycombinator.com/item?id=41542497) - [Ask HN: If LLMs are so useful, why haven't we seen any spike in productivity?](https://news.ycombinator.com/item?id=41542497)
 * [2024-09-14, 20:01:30](https://news.ycombinator.com/item?id=41542413) - [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
+* [2024-09-14, 20:00:28](https://news.ycombinator.com/item?id=41542409) - [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
 * [2024-09-14, 19:36:43](https://news.ycombinator.com/item?id=41542241) - [Almost all new car sales in Norway last month were EVs](https://qz.com/almost-all-new-car-sales-in-norway-last-month-were-evs-1851639882)
 * [2024-09-14, 19:11:24](https://news.ycombinator.com/item?id=41542076) - [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
 * [2024-09-14, 18:54:50](https://news.ycombinator.com/item?id=41541975) - [Show HN: The Hitchhiker's Guide to the Galaxy Online](https://www.the42.life/)
