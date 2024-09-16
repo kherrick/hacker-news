@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 15:56:21](https://news.ycombinator.com/item?id=41557383) - [Oracle, it's time to free JavaScript](https://javascript.tm/)
+* [2024-09-16, 15:53:33](https://news.ycombinator.com/item?id=41557345) - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
 * [2024-09-16, 15:08:10](https://news.ycombinator.com/item?id=41556844) - [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
 * [2024-09-16, 15:05:06](https://news.ycombinator.com/item?id=41556816) - [Product management is hosting a party, not playing chess](https://tidyfirst.substack.com/p/product-is-a-party-not-chess)
 * [2024-09-16, 14:44:40](https://news.ycombinator.com/item?id=41556640) - [Update on Native Matrix Interoperability with WhatsApp](https://matrix.org/blog/2024/09/whatsapp-dma/)
