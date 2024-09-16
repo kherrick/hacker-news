@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-16, 15:08:10](https://news.ycombinator.com/item?id=41556844) - [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
+* [2024-09-16, 14:44:40](https://news.ycombinator.com/item?id=41556640) - [Update on Native Matrix Interoperability with WhatsApp](https://matrix.org/blog/2024/09/whatsapp-dma/)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
 * [2024-09-16, 12:24:46](https://news.ycombinator.com/item?id=41555349) - [Earth may have had a ring system 466 million years ago](https://www.monash.edu/science/news-events/news/current/earth-may-have-had-a-ring-system-466-million-years-ago)
 * [2024-09-16, 10:59:13](https://news.ycombinator.com/item?id=41554791) - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
@@ -24,7 +25,6 @@
 * [2024-09-15, 11:24:44](https://news.ycombinator.com/item?id=41546803) - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
 * [2024-09-15, 07:12:10](https://news.ycombinator.com/item?id=41545810) - [The Waterfall Model was a straw man argument from the beginning (2015)](https://www.jjinux.com/2015/07/the-waterfall-model-was-straw-man.html)
 * [2024-09-14, 20:00:28](https://news.ycombinator.com/item?id=41542409) - [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
-* [2024-09-13, 19:10:14](https://news.ycombinator.com/item?id=41534162) - [Byte Ordering: On Holy Wars and a Plea for Peace (1980)](https://www.rfc-editor.org/ien/ien137.txt)
 * [2024-09-13, 07:40:41](https://news.ycombinator.com/item?id=41528919) - [Speech Dictation Mode for Emacs](https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html)
 * [2024-09-12, 10:56:20](https://news.ycombinator.com/item?id=41519409) - [Braiding the spaghetti: implementing defer in the preprocessor](https://gustedt.wordpress.com/2024/09/11/braiding-the-spaghetti-implementing-defer-in-the-preprocessor/)
 * [2024-09-12, 10:10:12](https://news.ycombinator.com/item?id=41519229) - [I give you feedback on your blog post draft but you don't send it to me (2021)](https://mango.pdf.zone/i-give-you-feedback-on-your-blog-post-draft-but-you-dont-send-it-to-me)
