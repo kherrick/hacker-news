@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-16, 03:10:26](https://news.ycombinator.com/item?id=41552403) - [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
-* [2024-09-16, 02:34:01](https://news.ycombinator.com/item?id=41552213) - [uBlock Origin is no longer available on Chrome web store](https://old.reddit.com/r/Piracy/s/dGGy8PXAMG)
 * [2024-09-16, 00:58:30](https://news.ycombinator.com/item?id=41551776) - [New tech can make air-conditioning less harmful to the planet](https://www.economist.com/science-and-technology/2024/09/04/new-tech-can-make-air-conditioning-less-harmful-to-the-planet)
 * [2024-09-16, 00:09:38](https://news.ycombinator.com/item?id=41551564) - [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
 * [2024-09-15, 23:34:07](https://news.ycombinator.com/item?id=41551387) - [What Firefox trains are we in?](https://whattrainisitnow.com/)
@@ -26,6 +25,7 @@
 * [2024-09-13, 23:34:16](https://news.ycombinator.com/item?id=41536156) - [Antiquities of Mexico (1831–48)](https://publicdomainreview.org/collection/antiquities-of-mexico/)
 * [2024-09-13, 13:22:17](https://news.ycombinator.com/item?id=41531033) - [The A-Z of Product Psychology](https://delightyourusers.com/psychology)
 * [2024-09-13, 08:46:46](https://news.ycombinator.com/item?id=41529292) - [Using the Topics API (Chrome Only, Opposed by Firefox/Safari)](https://developer.mozilla.org/en-US/docs/Web/API/Topics_API/Using)
+* [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
 * [2024-09-12, 20:05:16](https://news.ycombinator.com/item?id=41524932) - [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 * [2024-09-12, 13:21:33](https://news.ycombinator.com/item?id=41520620) - [Hi-Tech Bifocals Improved My Eyesight but Made Me Look Like a Dork](https://gizmodo.com/these-hi-tech-bifocals-improved-my-eyesight-despite-making-me-look-dorky-2000496406)
 * [2024-09-12, 10:10:12](https://news.ycombinator.com/item?id=41519229) - [I give you feedback on your blog post draft but you don't send it to me (2021)](https://mango.pdf.zone/i-give-you-feedback-on-your-blog-post-draft-but-you-dont-send-it-to-me)
