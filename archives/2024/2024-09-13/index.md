@@ -27,6 +27,7 @@
 * [2024-09-13, 19:34:56](https://news.ycombinator.com/item?id=41534396) - [Richard Powers on What We Do to the Earth and What It Does to Us](https://www.newyorker.com/magazine/2024/09/16/richard-powers-profile)
 * [2024-09-13, 19:29:14](https://news.ycombinator.com/item?id=41534344) - [Tesla Semi fire in California took 50k gallons of water to extinguish](https://www.cnbc.com/2024/09/13/tesla-semi-fire-needed-50000-gallons-of-water-to-extinguish.html)
 * [2024-09-13, 19:12:12](https://news.ycombinator.com/item?id=41534179) - [Modular Monoliths Are a Good Idea](https://materializedview.io/p/modular-monoliths-are-a-good-idea)
+* [2024-09-13, 19:10:14](https://news.ycombinator.com/item?id=41534162) - [Byte Ordering: On Holy Wars and a Plea for Peace (1980)](https://www.rfc-editor.org/ien/ien137.txt)
 * [2024-09-13, 18:47:20](https://news.ycombinator.com/item?id=41533958) - [The End Times have come for the Pinboard bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
 * [2024-09-13, 18:39:12](https://news.ycombinator.com/item?id=41533886) - [You're Not Smiling Enough](https://rubenerd.com/youre-not-smiling-enough/)
 * [2024-09-13, 18:37:11](https://news.ycombinator.com/item?id=41533862) - [The 34th First Annual Ig Nobel Ceremony](https://improbable.com/ig/archive/2024-ceremony/)
