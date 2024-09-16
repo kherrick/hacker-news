@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 20:21:03](https://news.ycombinator.com/item?id=41560343) - [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
 * [2024-09-16, 19:57:08](https://news.ycombinator.com/item?id=41560027) - [Amazon mandates five days a week in office starting next year](https://www.theguardian.com/technology/2024/sep/16/amazon-in-person-office-policy)
 * [2024-09-16, 19:47:00](https://news.ycombinator.com/item?id=41559887) - [Thoughts and Observations in the Wake of Apple's 'It's Glowtime' Keynote](https://daringfireball.net/2024/09/thoughts_and_observations_in_the_wake_of_apples_its_glowtime_keynote)
 * [2024-09-16, 19:41:57](https://news.ycombinator.com/item?id=41559825) - [What If Ozempic Is Just a Good Thing?](https://nymag.com/intelligencer/article/ozempic-weight-loss-diet-drug-moral-panic.html)
