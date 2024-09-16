@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-16, 17:44:23](https://news.ycombinator.com/item?id=41558554) - [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
 * [2024-09-16, 17:02:51](https://news.ycombinator.com/item?id=41558114) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
 * [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
 * [2024-09-16, 15:56:21](https://news.ycombinator.com/item?id=41557383) - [Oracle, it's time to free JavaScript](https://javascript.tm/)
@@ -17,6 +16,7 @@
 * [2024-09-15, 21:30:57](https://news.ycombinator.com/item?id=41550603) - [Plain Text Accounting (PTA)](https://plaintextaccounting.org/)
 * [2024-09-15, 21:09:22](https://news.ycombinator.com/item?id=41550417) - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
 * [2024-09-15, 21:02:44](https://news.ycombinator.com/item?id=41550364) - [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
+* [2024-09-15, 20:48:59](https://news.ycombinator.com/item?id=41550262) - [CSSnano](https://cssnano.github.io/cssnano/)
 * [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
