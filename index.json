@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-09-15, 13:30:49",
-      "https://news.ycombinator.com/item?id=41547395"
-    ],
-    [
-      "Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn",
-      "https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 12:09:07",
       "https://news.ycombinator.com/item?id=41547008"
     ],
@@ -277,6 +267,16 @@
     [
       "Speech Dictation Mode for Emacs",
       "https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 11:50:56",
+      "https://news.ycombinator.com/item?id=41519753"
+    ],
+    [
+      "Guile 3.0.10 now ships with support for parens-optional syntax (wisp)",
+      "https://www.draketo.de/software/wisp#guile-3.0.10"
     ]
   ],
   [
