@@ -76,6 +76,7 @@
 * [2024-09-12, 11:10:03](https://news.ycombinator.com/item?id=41519495) - [GitHub Taught Me to Micromanage](https://matthewrocklin.com/feedback.html)
 * [2024-09-12, 11:06:51](https://news.ycombinator.com/item?id=41519471) - [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
 * [2024-09-12, 11:05:52](https://news.ycombinator.com/item?id=41519466) - [Show HN: Build Your WSL Distro in Docker](https://github.com/K0IN/docker-to-wsl)
+* [2024-09-12, 10:56:20](https://news.ycombinator.com/item?id=41519409) - [Braiding the spaghetti: implementing defer in the preprocessor](https://gustedt.wordpress.com/2024/09/11/braiding-the-spaghetti-implementing-defer-in-the-preprocessor/)
 * [2024-09-12, 10:25:48](https://news.ycombinator.com/item?id=41519298) - [The True Nature of LLMs](https://opengpa.ghost.io/the-true-nature-of-llms-2/)
 * [2024-09-12, 10:22:09](https://news.ycombinator.com/item?id=41519283) - [AI took their jobs. Now they get paid to make it sound human](https://www.bbc.com/future/article/20240612-the-people-making-ai-sound-more-human)
 * [2024-09-12, 10:14:05](https://news.ycombinator.com/item?id=41519240) - [Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
