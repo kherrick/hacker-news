@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-09-16, 08:49:11",
-      "https://news.ycombinator.com/item?id=41554066"
+      "2024-09-16, 10:21:56",
+      "https://news.ycombinator.com/item?id=41554583"
     ],
     [
-      "How Chainalysis Made Their Way into Popular Monero Wallets",
-      "https://www.digilol.net/blog/chainanalysis-malicious-xmr.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 08:48:05",
-      "https://news.ycombinator.com/item?id=41554062"
-    ],
-    [
-      "Sucks.. In a Good Way",
-      "https://atomic14.substack.com/p/this-really-sucks-in-a-good-way"
+      "Protocol Buffer Design: Principles and Practices for Collaborative Development",
+      "https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85"
     ]
   ],
   [
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2024-09-15, 22:03:01",
+      "https://news.ycombinator.com/item?id=41550822"
+    ],
+    [
+      "Tell HN: DanBC has died",
+      "https://news.ycombinator.com/item?id=41550822"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 21:30:57",
       "https://news.ycombinator.com/item?id=41550603"
     ],
@@ -107,6 +107,16 @@
     [
       "g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains",
       "https://github.com/bklieger-groq/g1"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 20:48:59",
+      "https://news.ycombinator.com/item?id=41550262"
+    ],
+    [
+      "CSSnano",
+      "https://cssnano.github.io/cssnano/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "I give you feedback on your blog post draft but you don't send it to me (2021)",
       "https://mango.pdf.zone/i-give-you-feedback-on-your-blog-post-draft-but-you-dont-send-it-to-me"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 16:31:50",
-      "https://news.ycombinator.com/item?id=41512930"
-    ],
-    [
-      "How to Send a Swift Wire for Developers",
-      "https://www.iso20022js.com/guides/how-to-send-swift"
     ]
   ],
   [
