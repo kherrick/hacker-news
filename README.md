@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-16, 10:21:56](https://news.ycombinator.com/item?id=41554583) - [Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
+* [2024-09-16, 09:08:25](https://news.ycombinator.com/item?id=41554177) - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
 * [2024-09-15, 22:40:03](https://news.ycombinator.com/item?id=41551084) - [Nothing: Simply Do Nothing](https://usenothing.com/)
@@ -11,7 +12,6 @@
 * [2024-09-15, 20:48:59](https://news.ycombinator.com/item?id=41550262) - [CSSnano](https://cssnano.github.io/cssnano/)
 * [2024-09-15, 20:16:55](https://news.ycombinator.com/item?id=41550017) - [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
-* [2024-09-15, 17:00:51](https://news.ycombinator.com/item?id=41548663) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-09-15, 14:54:18](https://news.ycombinator.com/item?id=41547841) - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
 * [2024-09-15, 14:50:13](https://news.ycombinator.com/item?id=41547816) - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
 * [2024-09-15, 14:08:29](https://news.ycombinator.com/item?id=41547615) - [Amazon's Secret Weapon in Chip Design Is Amazon](https://spectrum.ieee.org/amazon-ai)
