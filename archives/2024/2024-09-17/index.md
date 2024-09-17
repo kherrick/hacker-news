@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 13:36:39](https://news.ycombinator.com/item?id=41567477) - [Java 23 Launch Stream [video]](https://www.youtube.com/watch?v=QG9xKpgwOI4)
 * [2024-09-17, 13:16:01](https://news.ycombinator.com/item?id=41567301) - [\"Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough\"](https://quoteinvestigator.com/2024/09/16/hot-sf/)
 * [2024-09-17, 13:01:54](https://news.ycombinator.com/item?id=41567195) - [The DEADLY self-cleaning litter boxes that have flooded the market [video]](https://www.youtube.com/watch?v=xepC3-Ia9ho)
 * [2024-09-17, 12:06:12](https://news.ycombinator.com/item?id=41566785) - [Repack Zoom .debs to remove the `ibus` dependency](https://hashman.ca/zoom/)
