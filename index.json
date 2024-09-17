@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=41564611"
     ],
     [
-      "We have mathematically proven that transformers can solve any problem",
+      "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems",
       "https://twitter.com/denny_zhou/status/1835761801453306089"
     ]
   ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-09-16, 15:53:33",
-      "https://news.ycombinator.com/item?id=41557345"
-    ],
-    [
-      "Datomic and Content Addressable Techniques",
-      "https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 14:32:38",
       "https://news.ycombinator.com/item?id=41556519"
     ],
@@ -257,6 +247,16 @@
     [
       "Dissecting the gzip format (2011)",
       "https://www.infinitepartitions.com/art001.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 11:18:14",
+      "https://news.ycombinator.com/item?id=41539033"
+    ],
+    [
+      "Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)",
+      "https://github.com/thomastschurtschenthaler/electrico"
     ]
   ],
   [
