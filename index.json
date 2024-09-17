@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-17, 19:20:58",
+      "https://news.ycombinator.com/item?id=41571606"
+    ],
+    [
+      "Swift 6",
+      "https://www.swift.org/blog/announcing-swift-6/"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 19:18:35",
+      "https://news.ycombinator.com/item?id=41571583"
+    ],
+    [
+      "Knocking out one key gene leads to autistic traits",
+      "https://www.rockefeller.edu/news/36246-knocking-out-one-key-gene-leads-to-autistic-traits/"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 18:55:56",
       "https://news.ycombinator.com/item?id=41571303"
     ],
@@ -27,16 +47,6 @@
     [
       "GraalPy – A high-performance embeddable Python 3 runtime for Java",
       "https://www.graalvm.org/python/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 17:21:41",
-      "https://news.ycombinator.com/item?id=41570163"
-    ],
-    [
-      "OpenTelemetry Tracing in < 200 lines of code",
-      "https://jeremymorrell.dev/blog/minimal-js-tracing/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "What researchers learned from the oldest cookbook",
       "https://www.atlasobscura.com/articles/worlds-oldest-cookbook-babylonian-collection"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 11:18:14",
-      "https://news.ycombinator.com/item?id=41539033"
-    ],
-    [
-      "Show HN: Electrico – Electron Without Node and Chrome",
-      "https://github.com/thomastschurtschenthaler/electrico"
     ]
   ],
   [
