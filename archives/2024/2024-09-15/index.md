@@ -44,6 +44,7 @@
 * [2024-09-15, 13:59:56](https://news.ycombinator.com/item?id=41547566) - [Designing mathematics standards in agreement with science [pdf]](https://www.iejme.com/download/designing-mathematics-standards-in-agreement-with-science-13179.pdf)
 * [2024-09-15, 13:32:37](https://news.ycombinator.com/item?id=41547405) - [Open Source security camera on Raspberry Pi](https://github.com/TzuHuanTai/RaspberryPi_WebRTC)
 * [2024-09-15, 13:30:49](https://news.ycombinator.com/item?id=41547395) - [Bitcoin puzzle #66 was solved: 6.6 BTC (~$400k) withdrawn](https://www.blockchain.com/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so)
+* [2024-09-15, 13:26:25](https://news.ycombinator.com/item?id=41547378) - [Michigan Micro Mote (M3) makes history as the smallest computer (2015)](https://ece.engin.umich.edu/stories/michigan-micro-mote-m3-makes-history-as-the-worlds-smallest-computer)
 * [2024-09-15, 12:50:10](https://news.ycombinator.com/item?id=41547200) - [US House votes to bar new DJI drones](https://www.reuters.com/world/us/us-house-votes-bar-new-drones-chinese-manufacturer-dji-2024-09-09/)
 * [2024-09-15, 12:46:26](https://news.ycombinator.com/item?id=41547181) - [Retiring from the Idea of Retirement](https://candost.blog/retiring-from-the-idea-of-retirement/)
 * [2024-09-15, 12:28:53](https://news.ycombinator.com/item?id=41547096) - [CP/M forty years on – what it was, and why it still matters](https://kevinboone.me/cpm40.html)
