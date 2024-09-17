@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-17, 19:07:23",
+      "https://news.ycombinator.com/item?id=41571454"
+    ],
+    [
+      "Krazam: High Agency Individual Contributor [video]",
+      "https://www.youtube.com/watch?v=dLTUqPue9sQ"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 18:55:56",
       "https://news.ycombinator.com/item?id=41571303"
     ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=41571157"
     ],
     [
-      "Leaked Files from Putin Troll Factory:How Russia Manipulated European Elections",
+      "Leaked internal documents from a Kremlin-controlled propaganda center",
       "https://vsquare.org/leaked-files-putin-troll-factory-russia-european-elections-factory-of-fakes/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 18:25:48",
-      "https://news.ycombinator.com/item?id=41570981"
-    ],
-    [
-      "Amazon employees: 'I'd rather go back to school than work in an office again'",
-      "https://fortune.com/2024/09/17/amazon-andy-jassy-rto-mandate-employees-angry/"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-09-17, 16:08:13",
-      "https://news.ycombinator.com/item?id=41569175"
-    ],
-    [
-      "We are self-hosting our GPUs",
-      "https://www.gumlet.com/blog/time-to-own-gpus/"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 15:08:39",
       "https://news.ycombinator.com/item?id=41568418"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41567711"
     ],
     [
-      "Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed",
+      "Rio: Web apps in pure Python",
       "https://github.com/rio-labs/rio"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41567301"
     ],
     [
-      "\"Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough\"",
+      "Quote Origin: I had exactly four seconds and Google had told me it wasn’t enough",
       "https://quoteinvestigator.com/2024/09/16/hot-sf/"
     ]
   ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=41567215"
     ],
     [
-      "Tiny Trackers Are Revealing the Secret Lives of Birds",
+      "Lightweight radio transmitters on birds, bats and insects",
       "https://www.smithsonianmag.com/science-nature/tens-of-thousands-of-tiny-tags-are-revealing-the-secret-lives-of-birds-180985022/"
     ]
   ],
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=41566446"
     ],
     [
-      "The Centrality of Stupidity in Mathematics",
+      "The centrality of stupidity in mathematics",
       "https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/"
     ]
   ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=41566287"
     ],
     [
-      "Signatures of Gravitational Atoms from Black Hole Mergers",
+      "Signatures of gravitational atoms from black hole mergers",
       "https://physics.aps.org/articles/v17/133"
     ]
   ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=41563801"
     ],
     [
-      "The Theft of a Priceless Churchill Portrait",
+      "The theft of a Churchill portrait",
       "https://thewalrus.ca/churchill-portrait/"
     ]
   ],
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=41548412"
     ],
     [
-      "What Researchers Learned from the Oldest Cookbook",
+      "What researchers learned from the oldest cookbook",
       "https://www.atlasobscura.com/articles/worlds-oldest-cookbook-babylonian-collection"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 11:18:14",
+      "https://news.ycombinator.com/item?id=41539033"
+    ],
+    [
+      "Show HN: Electrico – Electron Without Node and Chrome",
+      "https://github.com/thomastschurtschenthaler/electrico"
     ]
   ],
   [
