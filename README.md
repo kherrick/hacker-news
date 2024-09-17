@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-17, 19:07:23](https://news.ycombinator.com/item?id=41571454) - [Krazam: High Agency Individual Contributor [video]](https://www.youtube.com/watch?v=dLTUqPue9sQ)
 * [2024-09-17, 18:55:56](https://news.ycombinator.com/item?id=41571303) - [Cloudflare Network Issues Affecting Service Reachability](https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8)
 * [2024-09-17, 18:43:54](https://news.ycombinator.com/item?id=41571157) - [Leaked internal documents from a Kremlin-controlled propaganda center](https://vsquare.org/leaked-files-putin-troll-factory-russia-european-elections-factory-of-fakes/)
 * [2024-09-17, 18:04:31](https://news.ycombinator.com/item?id=41570708) - [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
+* [2024-09-17, 17:21:41](https://news.ycombinator.com/item?id=41570163) - [OpenTelemetry Tracing in < 200 lines of code](https://jeremymorrell.dev/blog/minimal-js-tracing/)
 * [2024-09-17, 16:36:23](https://news.ycombinator.com/item?id=41569557) - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
 * [2024-09-17, 16:35:29](https://news.ycombinator.com/item?id=41569544) - [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
 * [2024-09-17, 16:09:16](https://news.ycombinator.com/item?id=41569189) - [Some remarks on the mathematical structure of the multiverse](https://arxiv.org/abs/1602.04247)
