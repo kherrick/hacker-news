@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
+* [2024-09-17, 19:31:40](https://news.ycombinator.com/item?id=41571706) - [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
 * [2024-09-17, 19:20:58](https://news.ycombinator.com/item?id=41571606) - [Swift 6](https://www.swift.org/blog/announcing-swift-6/)
 * [2024-09-17, 19:18:35](https://news.ycombinator.com/item?id=41571583) - [Knocking out one key gene leads to autistic traits](https://www.rockefeller.edu/news/36246-knocking-out-one-key-gene-leads-to-autistic-traits/)
 * [2024-09-17, 19:07:23](https://news.ycombinator.com/item?id=41571454) - [Krazam: High Agency Individual Contributor [video]](https://www.youtube.com/watch?v=dLTUqPue9sQ)
