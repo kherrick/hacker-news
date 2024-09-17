@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-17, 10:48:36](https://news.ycombinator.com/item?id=41566309) - [Apple software leaks new Mac mini with five USB-C ports ahead of rumored event](https://arstechnica.com/gadgets/2024/09/report-big-batch-of-m4-macs-and-cheaper-ipads-on-tap-for-october-apple-event/)
 * [2024-09-17, 10:45:30](https://news.ycombinator.com/item?id=41566287) - [Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-17, 03:58:29](https://news.ycombinator.com/item?id=41563958) - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
@@ -26,6 +25,7 @@
 * [2024-09-14, 20:00:28](https://news.ycombinator.com/item?id=41542409) - [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
 * [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
 * [2024-09-13, 13:14:21](https://news.ycombinator.com/item?id=41530961) - [Ncomm – a node-based robotics framework written in Rust](https://github.com/N8BWert/ncomm)
+* [2024-09-13, 11:09:45](https://news.ycombinator.com/item?id=41530040) - [S6 – skarnet's small supervision suite](http://skarnet.org/software/s6/)
 * [2024-09-13, 10:07:04](https://news.ycombinator.com/item?id=41529709) - [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
 * [2024-09-13, 07:42:02](https://news.ycombinator.com/item?id=41528928) - [User-Space Interrupts (2021)](https://lwn.net/Articles/871113/)
 * [2024-09-12, 16:45:41](https://news.ycombinator.com/item?id=41522814) - [Bionicle – my actual part in its origins (2015)](https://alastairswinnerton.com/2015/09/07/bionicle-my-actual-part-in-its-origins/)
