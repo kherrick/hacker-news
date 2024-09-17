@@ -31,6 +31,7 @@
 * [2024-09-15, 16:39:48](https://news.ycombinator.com/item?id=41548515) - [Human drivers keep rear-ending Waymos](https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/)
 * [2024-09-15, 16:38:47](https://news.ycombinator.com/item?id=41548510) - [Show HN: Server Uptime](https://server-uptime.pw/)
 * [2024-09-15, 16:33:47](https://news.ycombinator.com/item?id=41548474) - [Linux 6.11 Released](https://lwn.net/Articles/990307/)
+* [2024-09-15, 16:23:49](https://news.ycombinator.com/item?id=41548412) - [What Researchers Learned from the Oldest Cookbook](https://www.atlasobscura.com/articles/worlds-oldest-cookbook-babylonian-collection)
 * [2024-09-15, 16:22:30](https://news.ycombinator.com/item?id=41548399) - [Sweden will offer migrants $34,000 to go home](https://www.nytimes.com/2024/09/13/world/europe/sweden-immigration-reform.html)
 * [2024-09-15, 16:04:27](https://news.ycombinator.com/item?id=41548278) - [A bullet hell game written in bash](https://twitter.com/SomeUnusualGame/status/1834946212610400522)
 * [2024-09-15, 15:22:27](https://news.ycombinator.com/item?id=41548016) - [Our New Religion Isn't Enough](https://www.freyaindia.co.uk/p/our-new-religion-isnt-enough)
