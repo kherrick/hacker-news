@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-17, 18:06:17](https://news.ycombinator.com/item?id=41570732) - [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)
+* [2024-09-17, 18:25:48](https://news.ycombinator.com/item?id=41570981) - [Amazon employees: 'I'd rather go back to school than work in an office again'](https://fortune.com/2024/09/17/amazon-andy-jassy-rto-mandate-employees-angry/)
 * [2024-09-17, 18:04:31](https://news.ycombinator.com/item?id=41570708) - [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
 * [2024-09-17, 16:36:23](https://news.ycombinator.com/item?id=41569557) - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
 * [2024-09-17, 16:35:29](https://news.ycombinator.com/item?id=41569544) - [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
@@ -24,7 +24,7 @@
 * [2024-09-17, 07:28:12](https://news.ycombinator.com/item?id=41565239) - [In 1926, TV Was Mechanical](https://spectrum.ieee.org/first-tv)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-17, 03:28:55](https://news.ycombinator.com/item?id=41563801) - [The Theft of a Priceless Churchill Portrait](https://thewalrus.ca/churchill-portrait/)
-* [2024-09-17, 00:23:17](https://news.ycombinator.com/item?id=41562673) - [Chain of Thought empowers transformers to solve inherently serial problems](https://arxiv.org/abs/2402.12875)
+* [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-15, 16:23:49](https://news.ycombinator.com/item?id=41548412) - [What Researchers Learned from the Oldest Cookbook](https://www.atlasobscura.com/articles/worlds-oldest-cookbook-babylonian-collection)
 * [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
