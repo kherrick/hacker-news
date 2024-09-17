@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 14:38:17](https://news.ycombinator.com/item?id=41568019) - [Exploding pagers injure hundreds in attack targeting Hezbollah members](https://www.cnn.com/2024/09/17/middleeast/lebanon-hezbollah-pagers-explosions-intl/index.html)
 * [2024-09-17, 14:07:21](https://news.ycombinator.com/item?id=41567728) - [Java 23](https://openjdk.org/projects/jdk/23/)
 * [2024-09-17, 14:05:42](https://news.ycombinator.com/item?id=41567711) - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
 * [2024-09-17, 13:26:00](https://news.ycombinator.com/item?id=41567387) - [Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
@@ -13,7 +14,6 @@
 * [2024-09-17, 10:12:39](https://news.ycombinator.com/item?id=41566122) - [A Curried Composition Puzzle](https://franklin.dyer.me/post/212)
 * [2024-09-17, 07:28:12](https://news.ycombinator.com/item?id=41565239) - [In 1926, TV Was Mechanical](https://spectrum.ieee.org/first-tv)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
-* [2024-09-17, 03:58:29](https://news.ycombinator.com/item?id=41563958) - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
 * [2024-09-17, 03:28:55](https://news.ycombinator.com/item?id=41563801) - [The Theft of a Priceless Churchill Portrait](https://thewalrus.ca/churchill-portrait/)
 * [2024-09-17, 02:58:35](https://news.ycombinator.com/item?id=41563626) - [Why to Not Write a Book](https://gwern.net/book-writing)
 * [2024-09-17, 01:35:22](https://news.ycombinator.com/item?id=41563100) - [Rainfrog – a database management TUI for Postgres](https://github.com/achristmascarl/rainfrog)
