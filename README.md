@@ -2,7 +2,6 @@
 
 * [2024-09-17, 21:18:07](https://news.ycombinator.com/item?id=41572851) - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
 * [2024-09-17, 20:33:51](https://news.ycombinator.com/item?id=41572417) - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
-* [2024-09-17, 20:01:21](https://news.ycombinator.com/item?id=41572041) - [Instagram Teen Accounts](https://about.fb.com/news/2024/09/instagram-teen-accounts/)
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
 * [2024-09-17, 19:31:40](https://news.ycombinator.com/item?id=41571706) - [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
@@ -18,6 +17,7 @@
 * [2024-09-17, 13:16:01](https://news.ycombinator.com/item?id=41567301) - [Quote Origin: I had exactly four seconds and Google had told me it wasn’t enough](https://quoteinvestigator.com/2024/09/16/hot-sf/)
 * [2024-09-17, 13:15:57](https://news.ycombinator.com/item?id=41567299) - [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
 * [2024-09-17, 13:11:31](https://news.ycombinator.com/item?id=41567262) - [Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.](https://github.com/phiresky/ripgrep-all)
+* [2024-09-17, 13:08:43](https://news.ycombinator.com/item?id=41567240) - [An interactive core memory electronic kit](https://www.core64.io)
 * [2024-09-17, 13:01:44](https://news.ycombinator.com/item?id=41567192) - [Show HN: Opik, an open source LLM evaluation framework](https://github.com/comet-ml/opik)
 * [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The centrality of stupidity in mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-17, 10:45:30](https://news.ycombinator.com/item?id=41566287) - [Signatures of gravitational atoms from black hole mergers](https://physics.aps.org/articles/v17/133)
