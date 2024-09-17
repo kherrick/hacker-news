@@ -16,7 +16,6 @@
 * [2024-09-17, 13:08:43](https://news.ycombinator.com/item?id=41567240) - [An interactive core memory electronic kit](https://www.core64.io)
 * [2024-09-17, 13:04:24](https://news.ycombinator.com/item?id=41567215) - [Tiny Trackers Are Revealing the Secret Lives of Birds](https://www.smithsonianmag.com/science-nature/tens-of-thousands-of-tiny-tags-are-revealing-the-secret-lives-of-birds-180985022/)
 * [2024-09-17, 13:01:44](https://news.ycombinator.com/item?id=41567192) - [Show HN: Opik, an open source LLM evaluation framework](https://github.com/comet-ml/opik)
-* [2024-09-17, 12:55:14](https://news.ycombinator.com/item?id=41567138) - [Can Generative Multi-Agents Spontaneously Form a Society?](https://www.arxiv.org/abs/2409.06750)
 * [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-17, 10:59:32](https://news.ycombinator.com/item?id=41566369) - [Advice on Reading Homer in Translation](https://talesoftimesforgotten.com/2024/09/15/advice-on-reading-homer-in-translation/)
 * [2024-09-17, 10:45:30](https://news.ycombinator.com/item?id=41566287) - [Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
@@ -28,6 +27,7 @@
 * [2024-09-17, 00:23:17](https://news.ycombinator.com/item?id=41562673) - [Chain of Thought empowers transformers to solve inherently serial problems](https://arxiv.org/abs/2402.12875)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
+* [2024-09-13, 13:14:21](https://news.ycombinator.com/item?id=41530961) - [Ncomm – A node-based robotics framework written in Rust](https://github.com/N8BWert/ncomm)
 * [2024-09-13, 08:59:06](https://news.ycombinator.com/item?id=41529368) - [Show HN: Waulog – A digital companion for dog owners](https://waulog.com/)
 * [2024-09-12, 21:24:10](https://news.ycombinator.com/item?id=41525740) - [Not a Normal Field Trip](https://medium.com/@matt.wisnioski/not-a-normal-field-trip-92b9a8c251ae)
 
