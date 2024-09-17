@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 22:44:12](https://news.ycombinator.com/item?id=41573666) - [Zep AI (YC W24) Is Hiring Standout AI Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/llCvskY-ai-engineer)
+* [2024-09-17, 22:14:21](https://news.ycombinator.com/item?id=41573454) - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
 * [2024-09-17, 21:18:07](https://news.ycombinator.com/item?id=41572851) - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
 * [2024-09-17, 20:33:51](https://news.ycombinator.com/item?id=41572417) - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
@@ -18,7 +20,6 @@
 * [2024-09-17, 13:15:57](https://news.ycombinator.com/item?id=41567299) - [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
 * [2024-09-17, 13:11:31](https://news.ycombinator.com/item?id=41567262) - [Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.](https://github.com/phiresky/ripgrep-all)
 * [2024-09-17, 13:08:43](https://news.ycombinator.com/item?id=41567240) - [An interactive core memory electronic kit](https://www.core64.io)
-* [2024-09-17, 13:01:44](https://news.ycombinator.com/item?id=41567192) - [Show HN: Opik, an open source LLM evaluation framework](https://github.com/comet-ml/opik)
 * [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The centrality of stupidity in mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-17, 10:45:30](https://news.ycombinator.com/item?id=41566287) - [Signatures of gravitational atoms from black hole mergers](https://physics.aps.org/articles/v17/133)
 * [2024-09-17, 10:19:33](https://news.ycombinator.com/item?id=41566155) - [Race conditions in Linux Kernel perf events](https://binarygecko.com/race-conditions-in-linux-kernel-perf-events/)
@@ -29,7 +30,6 @@
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [STORM: Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
 * [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 * [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
-* [2024-09-12, 21:24:10](https://news.ycombinator.com/item?id=41525740) - [Not a Normal Field Trip](https://medium.com/@matt.wisnioski/not-a-normal-field-trip-92b9a8c251ae)
 
 ## [Archives](archives/index.md)
 
