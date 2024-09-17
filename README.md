@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-17, 21:18:07](https://news.ycombinator.com/item?id=41572851) - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
+* [2024-09-17, 20:36:31](https://news.ycombinator.com/item?id=41572443) - [Trichloroethylene: An Invisible Cause of Parkinson's Disease?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10041423/)
 * [2024-09-17, 20:33:51](https://news.ycombinator.com/item?id=41572417) - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
@@ -29,7 +30,6 @@
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [Storm Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
 * [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 * [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
-* [2024-09-12, 21:24:10](https://news.ycombinator.com/item?id=41525740) - [Not a Normal Field Trip](https://medium.com/@matt.wisnioski/not-a-normal-field-trip-92b9a8c251ae)
 
 ## [Archives](archives/index.md)
 
