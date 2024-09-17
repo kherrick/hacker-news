@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-17, 14:17:31",
+      "https://news.ycombinator.com/item?id=41567813"
+    ],
+    [
+      "Hezbollah members reportedly injured by exploding pagers",
+      "https://www.bbc.co.uk/news/articles/cd7xnelvpepo"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 13:36:39",
       "https://news.ycombinator.com/item?id=41567477"
     ],
     [
       "Java 23 Launch Stream [video]",
       "https://www.youtube.com/watch?v=QG9xKpgwOI4"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 13:26:00",
+      "https://news.ycombinator.com/item?id=41567387"
+    ],
+    [
+      "Show HN: Finic – Open source platform for building browser automations",
+      "https://github.com/finic-ai/finic"
     ]
   ],
   [
@@ -21,6 +41,26 @@
   ],
   [
     [
+      "2024-09-17, 13:08:43",
+      "https://news.ycombinator.com/item?id=41567240"
+    ],
+    [
+      "An interactive core memory electronic kit",
+      "https://www.core64.io"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 13:04:24",
+      "https://news.ycombinator.com/item?id=41567215"
+    ],
+    [
+      "Tiny Trackers Are Revealing the Secret Lives of Birds",
+      "https://www.smithsonianmag.com/science-nature/tens-of-thousands-of-tiny-tags-are-revealing-the-secret-lives-of-birds-180985022/"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 11:15:42",
       "https://news.ycombinator.com/item?id=41566446"
     ],
@@ -31,12 +71,32 @@
   ],
   [
     [
+      "2024-09-17, 10:59:32",
+      "https://news.ycombinator.com/item?id=41566369"
+    ],
+    [
+      "Advice on Reading Homer in Translation",
+      "https://talesoftimesforgotten.com/2024/09/15/advice-on-reading-homer-in-translation/"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 10:45:30",
       "https://news.ycombinator.com/item?id=41566287"
     ],
     [
       "Signatures of Gravitational Atoms from Black Hole Mergers",
       "https://physics.aps.org/articles/v17/133"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 10:19:33",
+      "https://news.ycombinator.com/item?id=41566155"
+    ],
+    [
+      "Race conditions in Linux Kernel perf events",
+      "https://binarygecko.com/race-conditions-in-linux-kernel-perf-events/"
     ]
   ],
   [
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2024-09-17, 03:20:37",
-      "https://news.ycombinator.com/item?id=41563746"
-    ],
-    [
-      "A lonely man in his 30s found welcome and community at spin class",
-      "https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 02:58:35",
       "https://news.ycombinator.com/item?id=41563626"
     ],
@@ -137,16 +187,6 @@
     [
       "Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss",
       "https://github.com/nyxpsi/nyxpsi"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 22:57:15",
-      "https://news.ycombinator.com/item?id=41562034"
-    ],
-    [
-      "We fine-tuned an LLM to triage and fix insecure code",
-      "https://corgea.com/blog/fine-tuning-for-precision-and-privacy-how-corgea-s-llm-enhances-enterprise-application-security"
     ]
   ],
   [
@@ -221,32 +261,12 @@
   ],
   [
     [
-      "2024-09-15, 11:45:37",
-      "https://news.ycombinator.com/item?id=41546894"
-    ],
-    [
-      "Stepwise selection of variables in regression is Evil",
-      "https://freerangestats.info/blog/2024/09/14/stepwise"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 10:38:03",
       "https://news.ycombinator.com/item?id=41546619"
     ],
     [
       "Dissecting the gzip format (2011)",
       "https://www.infinitepartitions.com/art001.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 14:10:07",
-      "https://news.ycombinator.com/item?id=41539924"
-    ],
-    [
-      "A Brief History of QuickTime",
-      "https://eclecticlight.co/2024/09/14/a-brief-history-of-quicktime/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Ncomm – A node-based robotics framework written in Rust",
       "https://github.com/N8BWert/ncomm"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 10:07:04",
-      "https://news.ycombinator.com/item?id=41529709"
-    ],
-    [
-      "The Pragmatic Programmer for Machine Learning (2023)",
-      "https://ppml.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 07:42:02",
-      "https://news.ycombinator.com/item?id=41528928"
-    ],
-    [
-      "User-Space Interrupts (2021)",
-      "https://lwn.net/Articles/871113/"
     ]
   ],
   [
