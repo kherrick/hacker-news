@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-17, 10:08:38",
-      "https://news.ycombinator.com/item?id=41566109"
-    ],
-    [
-      "BeOS inspired Haiku R1/beta5 is out",
-      "https://www.haiku-os.org/get-haiku/r1beta5"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 10:07:00",
       "https://news.ycombinator.com/item?id=41566097"
     ],
@@ -87,16 +77,6 @@
     [
       "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems",
       "https://arxiv.org/abs/2402.12875"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 00:16:28",
-      "https://news.ycombinator.com/item?id=41562633"
-    ],
-    [
-      "FreeBSD 13.4-Release",
-      "https://www.freebsd.org/releases/13.4R/announce/"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-09-16, 15:53:33",
+      "https://news.ycombinator.com/item?id=41557345"
+    ],
+    [
+      "Datomic and Content Addressable Techniques",
+      "https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 14:32:38",
       "https://news.ycombinator.com/item?id=41556519"
     ],
@@ -237,6 +227,16 @@
     [
       "Dissecting the gzip format (2011)",
       "https://www.infinitepartitions.com/art001.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 20:00:28",
+      "https://news.ycombinator.com/item?id=41542409"
+    ],
+    [
+      "Fair: A Go library for serving resources fairly",
+      "https://github.com/satmihir/fair"
     ]
   ],
   [
