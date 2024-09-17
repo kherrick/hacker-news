@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 20:33:51](https://news.ycombinator.com/item?id=41572417) - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
 * [2024-09-17, 20:01:21](https://news.ycombinator.com/item?id=41572041) - [Instagram Teen Accounts](https://about.fb.com/news/2024/09/instagram-teen-accounts/)
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
