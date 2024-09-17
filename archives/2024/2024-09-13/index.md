@@ -54,6 +54,7 @@
 * [2024-09-13, 14:04:32](https://news.ycombinator.com/item?id=41531383) - [Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
 * [2024-09-13, 13:22:17](https://news.ycombinator.com/item?id=41531033) - [The A-Z of Product Psychology](https://delightyourusers.com/psychology)
 * [2024-09-13, 13:20:58](https://news.ycombinator.com/item?id=41531021) - [Shrinking the economy won't save the planet](https://www.vox.com/future-perfect/371640/economic-growth-climate-change-degrowth-science-global-warming)
+* [2024-09-13, 13:14:21](https://news.ycombinator.com/item?id=41530961) - [Ncomm – a node-based robotics framework written in Rust](https://github.com/N8BWert/ncomm)
 * [2024-09-13, 12:53:41](https://news.ycombinator.com/item?id=41530783) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 12:36:53](https://news.ycombinator.com/item?id=41530647) - [I fixed the strawberry problem because OpenAI couldn't](https://xeiaso.net/blog/2024/strawberry/)
 * [2024-09-13, 12:27:52](https://news.ycombinator.com/item?id=41530571) - [Throwable tactical camera transmits 360° panoramic thermal images](https://newatlas.com/technology/throwable-tactical-camera-panoramic-thermal-images/)
