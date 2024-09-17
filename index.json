@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-09-17, 12:55:14",
-      "https://news.ycombinator.com/item?id=41567138"
-    ],
-    [
-      "Can Generative Multi-Agents Spontaneously Form a Society?",
-      "https://www.arxiv.org/abs/2409.06750"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 11:15:42",
       "https://news.ycombinator.com/item?id=41566446"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)",
       "https://github.com/thomastschurtschenthaler/electrico"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 13:14:21",
+      "https://news.ycombinator.com/item?id=41530961"
+    ],
+    [
+      "Ncomm – A node-based robotics framework written in Rust",
+      "https://github.com/N8BWert/ncomm"
     ]
   ],
   [
