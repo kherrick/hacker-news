@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-17, 19:46:05",
+      "https://news.ycombinator.com/item?id=41571862"
+    ],
+    [
+      "macOS Sequoia 15 may bypass DNS encryption",
+      "https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 19:31:40",
+      "https://news.ycombinator.com/item?id=41571706"
+    ],
+    [
+      "TexTube: Chat with any YouTube video transcript in ChatGPT fast",
+      "https://chatgpt.com/g/g-2KencLm4f-textube"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 19:20:58",
       "https://news.ycombinator.com/item?id=41571606"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2024-09-17, 19:07:23",
+      "https://news.ycombinator.com/item?id=41571454"
+    ],
+    [
+      "Krazam: High Agency Individual Contributor [video]",
+      "https://www.youtube.com/watch?v=dLTUqPue9sQ"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 18:55:56",
       "https://news.ycombinator.com/item?id=41571303"
     ],
@@ -37,16 +67,6 @@
     [
       "GraalPy – A high-performance embeddable Python 3 runtime for Java",
       "https://www.graalvm.org/python/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 16:55:58",
-      "https://news.ycombinator.com/item?id=41569794"
-    ],
-    [
-      "Sndkit – a toolkit for computer music composition",
-      "https://pbat.ch/sndkit/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt",
       "https://news.ycombinator.com/item?id=41568343"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 14:05:42",
-      "https://news.ycombinator.com/item?id=41567711"
-    ],
-    [
-      "Rio: Web apps in pure Python",
-      "https://github.com/rio-labs/rio"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-09-17, 04:06:50",
-      "https://news.ycombinator.com/item?id=41564003"
-    ],
-    [
-      "Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra",
-      "https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 03:28:55",
       "https://news.ycombinator.com/item?id=41563801"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-09-15, 16:23:49",
-      "https://news.ycombinator.com/item?id=41548412"
+      "2024-09-16, 08:12:51",
+      "https://news.ycombinator.com/item?id=41553875"
     ],
     [
-      "What researchers learned from the oldest cookbook",
-      "https://www.atlasobscura.com/articles/worlds-oldest-cookbook-babylonian-collection"
+      "Storm Get a Wikipedia-like report on your topic",
+      "https://storm.genie.stanford.edu/"
     ]
   ],
   [
