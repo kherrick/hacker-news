@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-09-17, 10:07:00",
-      "https://news.ycombinator.com/item?id=41566097"
-    ],
-    [
-      "Software is about people, not code (2020)",
-      "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 04:08:54",
-      "https://news.ycombinator.com/item?id=41564009"
-    ],
-    [
-      "47-year-old Voyager 1 fired up thrusters it hasn't used in decades",
-      "https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 04:06:50",
       "https://news.ycombinator.com/item?id=41564003"
     ],
@@ -61,32 +41,12 @@
   ],
   [
     [
-      "2024-09-17, 00:42:33",
-      "https://news.ycombinator.com/item?id=41562774"
-    ],
-    [
-      "Titan Submersible Marine Board of Investigation",
-      "https://www.news.uscg.mil/News-by-Region/Headquarters/Titan-Submersible/"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 00:23:17",
       "https://news.ycombinator.com/item?id=41562673"
     ],
     [
       "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems",
       "https://arxiv.org/abs/2402.12875"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 23:50:50",
-      "https://news.ycombinator.com/item?id=41562481"
-    ],
-    [
-      "Intel foundry business to make custom chip for Amazon, chipmaker's shares jump",
-      "https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/"
     ]
   ],
   [
@@ -117,6 +77,16 @@
     [
       "Franzelio: Draw Lines. Make Music. Share Your Instrument",
       "https://franzelio.franzai.com/"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 20:44:59",
+      "https://news.ycombinator.com/item?id=41560659"
+    ],
+    [
+      "Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]",
+      "https://eprint.iacr.org/2024/1421.pdf"
     ]
   ],
   [
@@ -211,6 +181,16 @@
   ],
   [
     [
+      "2024-09-15, 12:09:07",
+      "https://news.ycombinator.com/item?id=41547008"
+    ],
+    [
+      "Fractran: Computer architecture based on the multiplication of fractions",
+      "https://wiki.xxiivv.com/site/fractran.html"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 11:45:37",
       "https://news.ycombinator.com/item?id=41546894"
     ],
@@ -261,6 +241,26 @@
   ],
   [
     [
+      "2024-09-13, 13:14:21",
+      "https://news.ycombinator.com/item?id=41530961"
+    ],
+    [
+      "Ncomm – a node-based robotics framework written in Rust",
+      "https://github.com/N8BWert/ncomm"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 11:09:45",
+      "https://news.ycombinator.com/item?id=41530040"
+    ],
+    [
+      "S6 – skarnet's small supervision suite",
+      "http://skarnet.org/software/s6/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 10:07:04",
       "https://news.ycombinator.com/item?id=41529709"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-09-12, 03:56:28",
-      "https://news.ycombinator.com/item?id=41517455"
+      "2024-09-12, 09:24:45",
+      "https://news.ycombinator.com/item?id=41519046"
     ],
     [
-      "ChessDream, a place for chess players to improve",
-      "https://chessdream.vercel.app"
+      "Ask HN: Does anyone use sound effects in their dev environment?",
+      "https://news.ycombinator.com/item?id=41519046"
     ]
   ]
 ]
