@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 15:08:39](https://news.ycombinator.com/item?id=41568418) - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 15:04:09](https://news.ycombinator.com/item?id=41568343) - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
-* [2024-09-17, 14:33:25](https://news.ycombinator.com/item?id=41567987) - [Taxes on everyday Europeans bring in 13 times more revenue than taxes on wealth](https://www.oxfam.org/en/press-releases/taxes-everyday-europeans-bring-13-times-more-revenue-taxes-wealth)
 * [2024-09-17, 14:12:58](https://news.ycombinator.com/item?id=41567778) - [Why is it so hard to go back to the moon?](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)
 * [2024-09-17, 14:05:42](https://news.ycombinator.com/item?id=41567711) - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
 * [2024-09-17, 13:26:00](https://news.ycombinator.com/item?id=41567387) - [Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
