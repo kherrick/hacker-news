@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 10:08:38](https://news.ycombinator.com/item?id=41566109) - [BeOS inspired Haiku R1/beta5 is out](https://www.haiku-os.org/get-haiku/r1beta5)
+* [2024-09-17, 10:07:00](https://news.ycombinator.com/item?id=41566097) - [Software is about people, not code (2020)](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 * [2024-09-17, 05:54:15](https://news.ycombinator.com/item?id=41564611) - [We have mathematically proven that transformers can solve any problem](https://twitter.com/denny_zhou/status/1835761801453306089)
 * [2024-09-17, 04:08:54](https://news.ycombinator.com/item?id=41564009) - [47-year-old Voyager 1 fired up thrusters it hasn't used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
