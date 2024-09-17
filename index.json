@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-17, 19:07:23",
-      "https://news.ycombinator.com/item?id=41571454"
-    ],
-    [
-      "Krazam: High Agency Individual Contributor [video]",
-      "https://www.youtube.com/watch?v=dLTUqPue9sQ"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 18:55:56",
       "https://news.ycombinator.com/item?id=41571303"
     ],
@@ -37,6 +27,16 @@
     [
       "GraalPy – A high-performance embeddable Python 3 runtime for Java",
       "https://www.graalvm.org/python/"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 17:21:41",
+      "https://news.ycombinator.com/item?id=41570163"
+    ],
+    [
+      "OpenTelemetry Tracing in < 200 lines of code",
+      "https://jeremymorrell.dev/blog/minimal-js-tracing/"
     ]
   ],
   [
