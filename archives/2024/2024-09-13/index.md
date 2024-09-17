@@ -68,6 +68,7 @@
 * [2024-09-13, 09:06:49](https://news.ycombinator.com/item?id=41529415) - [The wild,winding world of New York City's legal (& not-so-legal) cannabis market](https://www.rollingstone.com/culture/culture-features/weed-dealer-new-york-legal-cannabis-business-1235071019/)
 * [2024-09-13, 08:46:46](https://news.ycombinator.com/item?id=41529292) - [Using the Topics API (Chrome Only, Opposed by Firefox/Safari)](https://developer.mozilla.org/en-US/docs/Web/API/Topics_API/Using)
 * [2024-09-13, 08:21:36](https://news.ycombinator.com/item?id=41529129) - [Jensen's Inequality as an Intuition Tool](https://blog.moontower.ai/jensens-inequality-as-an-intuition-tool/)
+* [2024-09-13, 07:42:02](https://news.ycombinator.com/item?id=41528928) - [User-Space Interrupts (2021)](https://lwn.net/Articles/871113/)
 * [2024-09-13, 07:40:41](https://news.ycombinator.com/item?id=41528919) - [Speech Dictation Mode for Emacs](https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html)
 * [2024-09-13, 07:35:27](https://news.ycombinator.com/item?id=41528885) - [Computer Languages Timeline [pdf] (2022)](https://www.levenez.com/lang/)
 * [2024-09-13, 06:51:21](https://news.ycombinator.com/item?id=41528658) - [Historical Fiction Redefined the Literary Canon](https://www.thenation.com/article/culture/historical-fiction-awards-essay/)

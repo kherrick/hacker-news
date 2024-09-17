@@ -27,8 +27,8 @@
 * [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
 * [2024-09-13, 17:21:59](https://news.ycombinator.com/item?id=41533207) - [Mecanum Wheel](https://en.wikipedia.org/wiki/Mecanum_wheel)
 * [2024-09-13, 10:07:04](https://news.ycombinator.com/item?id=41529709) - [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
+* [2024-09-13, 07:42:02](https://news.ycombinator.com/item?id=41528928) - [User-Space Interrupts (2021)](https://lwn.net/Articles/871113/)
 * [2024-09-12, 16:45:41](https://news.ycombinator.com/item?id=41522814) - [Bionicle – my actual part in its origins (2015)](https://alastairswinnerton.com/2015/09/07/bionicle-my-actual-part-in-its-origins/)
-* [2024-09-12, 08:23:15](https://news.ycombinator.com/item?id=41518698) - [Master Hexagonal Architecture in Rust](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust)
 * [2024-09-12, 03:56:28](https://news.ycombinator.com/item?id=41517455) - [ChessDream, a place for chess players to improve](https://chessdream.vercel.app)
 
 ## [Archives](archives/index.md)
