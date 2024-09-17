@@ -56,6 +56,7 @@
 * [2024-09-14, 12:01:16](https://news.ycombinator.com/item?id=41539250) - [Icon (real creators, AI ads) is hiring founding engineers (NYC)](https://icon.me/careers)
 * [2024-09-14, 11:57:29](https://news.ycombinator.com/item?id=41539235) - [The data on extreme human ageing is rotten from the inside out](https://theconversation.com/the-data-on-extreme-human-ageing-is-rotten-from-the-inside-out-ig-nobel-winner-saul-justin-newman-239023)
 * [2024-09-14, 11:36:00](https://news.ycombinator.com/item?id=41539125) - [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125)
+* [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
 * [2024-09-14, 10:14:51](https://news.ycombinator.com/item?id=41538777) - [Tiny Great Languages: Forth/Mouse](https://zserge.com/posts/langs-mouse/)
 * [2024-09-14, 10:06:12](https://news.ycombinator.com/item?id=41538743) - [Ask HN: What's the best documentation site you've come across?](https://news.ycombinator.com/item?id=41538743)
 * [2024-09-14, 09:56:04](https://news.ycombinator.com/item?id=41538705) - [AI Has Helped Shein Become Fast Fashion's Biggest Polluter](https://grist.org/technology/as-fast-fashion-giant-shein-embraces-ai-its-emissions-are-soaring/)
