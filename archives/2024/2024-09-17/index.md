@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
 * [2024-09-17, 16:50:04](https://news.ycombinator.com/item?id=41569723) - [Pixtral 12B](https://mistral.ai/news/pixtral-12b/)
+* [2024-09-17, 16:36:23](https://news.ycombinator.com/item?id=41569557) - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
 * [2024-09-17, 16:06:12](https://news.ycombinator.com/item?id=41569151) - [Request to Upgrade Fedora KDE Desktop Spin to Edition Status](https://discussion.fedoraproject.org/t/fedora-council-tickets-ticket-504-request-to-upgrade-fedora-kde-desktop-spin-to-edition-status-under-the-personal-systems-wg/131059)
 * [2024-09-17, 15:31:45](https://news.ycombinator.com/item?id=41568731) - [Mastodeck – Mastodon for Power Users](https://mastodeck.com/)
 * [2024-09-17, 15:08:39](https://news.ycombinator.com/item?id=41568418) - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
