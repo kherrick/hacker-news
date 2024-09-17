@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 19:20:58](https://news.ycombinator.com/item?id=41571606) - [Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+* [2024-09-17, 19:18:35](https://news.ycombinator.com/item?id=41571583) - [Knocking out one key gene leads to autistic traits](https://www.rockefeller.edu/news/36246-knocking-out-one-key-gene-leads-to-autistic-traits/)
 * [2024-09-17, 18:55:56](https://news.ycombinator.com/item?id=41571303) - [Cloudflare Network Issues Affecting Service Reachability](https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8)
 * [2024-09-17, 18:43:54](https://news.ycombinator.com/item?id=41571157) - [Leaked internal documents from a Kremlin-controlled propaganda center](https://vsquare.org/leaked-files-putin-troll-factory-russia-european-elections-factory-of-fakes/)
 * [2024-09-17, 18:04:31](https://news.ycombinator.com/item?id=41570708) - [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
-* [2024-09-17, 17:21:41](https://news.ycombinator.com/item?id=41570163) - [OpenTelemetry Tracing in < 200 lines of code](https://jeremymorrell.dev/blog/minimal-js-tracing/)
 * [2024-09-17, 16:36:23](https://news.ycombinator.com/item?id=41569557) - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
 * [2024-09-17, 16:35:29](https://news.ycombinator.com/item?id=41569544) - [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
 * [2024-09-17, 16:09:16](https://news.ycombinator.com/item?id=41569189) - [Some remarks on the mathematical structure of the multiverse](https://arxiv.org/abs/1602.04247)
@@ -27,7 +28,6 @@
 * [2024-09-17, 03:28:55](https://news.ycombinator.com/item?id=41563801) - [The theft of a Churchill portrait](https://thewalrus.ca/churchill-portrait/)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-15, 16:23:49](https://news.ycombinator.com/item?id=41548412) - [What researchers learned from the oldest cookbook](https://www.atlasobscura.com/articles/worlds-oldest-cookbook-babylonian-collection)
-* [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome](https://github.com/thomastschurtschenthaler/electrico)
 * [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
 * [2024-09-12, 21:24:10](https://news.ycombinator.com/item?id=41525740) - [Not a Normal Field Trip](https://medium.com/@matt.wisnioski/not-a-normal-field-trip-92b9a8c251ae)
 
