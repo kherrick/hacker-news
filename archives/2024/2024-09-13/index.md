@@ -23,6 +23,7 @@
 * [2024-09-13, 20:24:02](https://news.ycombinator.com/item?id=41534776) - [Academics say flying to meetings harms the climate – but they carry on](https://www.nature.com/articles/d41586-024-02965-7)
 * [2024-09-13, 20:17:18](https://news.ycombinator.com/item?id=41534716) - [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 * [2024-09-13, 19:56:19](https://news.ycombinator.com/item?id=41534564) - [Demographic decline: Greece faces alarming population collapse](https://www.euronews.com/2024/09/13/demographic-decline-greece-faces-alarming-population-collapse)
+* [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
 * [2024-09-13, 19:44:45](https://news.ycombinator.com/item?id=41534483) - [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 * [2024-09-13, 19:43:34](https://news.ycombinator.com/item?id=41534474) - [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
 * [2024-09-13, 19:34:56](https://news.ycombinator.com/item?id=41534396) - [Richard Powers on What We Do to the Earth and What It Does to Us](https://www.newyorker.com/magazine/2024/09/16/richard-powers-profile)

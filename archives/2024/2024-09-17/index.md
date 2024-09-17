@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 18:55:56](https://news.ycombinator.com/item?id=41571303) - [Cloudflare Network Issues Affecting Service Reachability](https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8)
+* [2024-09-17, 18:43:54](https://news.ycombinator.com/item?id=41571157) - [Leaked Files from Putin Troll Factory:How Russia Manipulated European Elections](https://vsquare.org/leaked-files-putin-troll-factory-russia-european-elections-factory-of-fakes/)
 * [2024-09-17, 18:25:48](https://news.ycombinator.com/item?id=41570981) - [Amazon employees: 'I'd rather go back to school than work in an office again'](https://fortune.com/2024/09/17/amazon-andy-jassy-rto-mandate-employees-angry/)
 * [2024-09-17, 18:06:17](https://news.ycombinator.com/item?id=41570732) - [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)
 * [2024-09-17, 18:04:31](https://news.ycombinator.com/item?id=41570708) - [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
@@ -30,6 +32,7 @@
 * [2024-09-17, 13:36:39](https://news.ycombinator.com/item?id=41567477) - [Java 23 Launch Stream [video]](https://www.youtube.com/watch?v=QG9xKpgwOI4)
 * [2024-09-17, 13:26:00](https://news.ycombinator.com/item?id=41567387) - [Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
 * [2024-09-17, 13:16:01](https://news.ycombinator.com/item?id=41567301) - [\"Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough\"](https://quoteinvestigator.com/2024/09/16/hot-sf/)
+* [2024-09-17, 13:15:57](https://news.ycombinator.com/item?id=41567299) - [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
 * [2024-09-17, 13:11:31](https://news.ycombinator.com/item?id=41567262) - [Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.](https://github.com/phiresky/ripgrep-all)
 * [2024-09-17, 13:08:43](https://news.ycombinator.com/item?id=41567240) - [An interactive core memory electronic kit](https://www.core64.io)
 * [2024-09-17, 13:04:24](https://news.ycombinator.com/item?id=41567215) - [Tiny Trackers Are Revealing the Secret Lives of Birds](https://www.smithsonianmag.com/science-nature/tens-of-thousands-of-tiny-tags-are-revealing-the-secret-lives-of-birds-180985022/)
