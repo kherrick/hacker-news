@@ -24,12 +24,12 @@
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 13:26:25](https://news.ycombinator.com/item?id=41547378) - [Michigan Micro Mote (M3) makes history as the smallest computer (2015)](https://ece.engin.umich.edu/stories/michigan-micro-mote-m3-makes-history-as-the-worlds-smallest-computer)
 * [2024-09-15, 12:09:07](https://news.ycombinator.com/item?id=41547008) - [Fractran: Computer architecture based on the multiplication of fractions](https://wiki.xxiivv.com/site/fractran.html)
-* [2024-09-15, 11:24:44](https://news.ycombinator.com/item?id=41546803) - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
 * [2024-09-15, 10:38:03](https://news.ycombinator.com/item?id=41546619) - [Dissecting the gzip format](https://www.infinitepartitions.com/art001.html)
 * [2024-09-14, 20:00:28](https://news.ycombinator.com/item?id=41542409) - [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
 * [2024-09-13, 17:21:59](https://news.ycombinator.com/item?id=41533207) - [Mecanum Wheel](https://en.wikipedia.org/wiki/Mecanum_wheel)
 * [2024-09-13, 11:09:45](https://news.ycombinator.com/item?id=41530040) - [S6 – skarnet's small supervision suite](http://skarnet.org/software/s6/)
 * [2024-09-13, 10:07:04](https://news.ycombinator.com/item?id=41529709) - [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
+* [2024-09-12, 09:24:45](https://news.ycombinator.com/item?id=41519046) - [Ask HN: Does anyone use sound effects in their dev environment?](https://news.ycombinator.com/item?id=41519046)
 
 ## [Archives](archives/index.md)
 
