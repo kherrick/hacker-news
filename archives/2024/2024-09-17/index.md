@@ -10,6 +10,7 @@
 * [2024-09-17, 20:36:31](https://news.ycombinator.com/item?id=41572443) - [Trichloroethylene: An Invisible Cause of Parkinson's Disease?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10041423/)
 * [2024-09-17, 20:33:51](https://news.ycombinator.com/item?id=41572417) - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
 * [2024-09-17, 20:01:21](https://news.ycombinator.com/item?id=41572041) - [Instagram Teen Accounts](https://about.fb.com/news/2024/09/instagram-teen-accounts/)
+* [2024-09-17, 19:56:39](https://news.ycombinator.com/item?id=41571971) - [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
 * [2024-09-17, 19:31:40](https://news.ycombinator.com/item?id=41571706) - [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
