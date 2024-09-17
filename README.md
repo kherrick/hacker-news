@@ -7,7 +7,7 @@
 * [2024-09-17, 01:35:22](https://news.ycombinator.com/item?id=41563100) - [rainfrog – a database management TUI for Postgres](https://github.com/achristmascarl/rainfrog)
 * [2024-09-17, 00:42:33](https://news.ycombinator.com/item?id=41562774) - [Titan Submersible Marine Board of Investigation](https://www.news.uscg.mil/News-by-Region/Headquarters/Titan-Submersible/)
 * [2024-09-17, 00:23:17](https://news.ycombinator.com/item?id=41562673) - [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
-* [2024-09-17, 00:16:28](https://news.ycombinator.com/item?id=41562633) - [FreeBSD 13.4-Release Announcement](https://www.freebsd.org/releases/13.4R/announce/)
+* [2024-09-17, 00:16:28](https://news.ycombinator.com/item?id=41562633) - [FreeBSD 13.4-Release](https://www.freebsd.org/releases/13.4R/announce/)
 * [2024-09-16, 23:50:50](https://news.ycombinator.com/item?id=41562481) - [Intel foundry business to make custom chip for Amazon, chipmaker's shares jump](https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/)
 * [2024-09-16, 23:24:57](https://news.ycombinator.com/item?id=41562287) - [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
 * [2024-09-16, 22:57:15](https://news.ycombinator.com/item?id=41562034) - [We fine-tuned an LLM to triage and fix insecure code](https://corgea.com/blog/fine-tuning-for-precision-and-privacy-how-corgea-s-llm-enhances-enterprise-application-security)
