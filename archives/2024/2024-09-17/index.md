@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
 * [2024-09-17, 14:17:31](https://news.ycombinator.com/item?id=41567813) - [Hezbollah members reportedly injured by exploding pagers](https://www.bbc.co.uk/news/articles/cd7xnelvpepo)
+* [2024-09-17, 14:05:42](https://news.ycombinator.com/item?id=41567711) - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
+* [2024-09-17, 13:53:38](https://news.ycombinator.com/item?id=41567615) - [Java 23 General-Availability Release](https://jdk.java.net/23/)
 * [2024-09-17, 13:36:39](https://news.ycombinator.com/item?id=41567477) - [Java 23 Launch Stream [video]](https://www.youtube.com/watch?v=QG9xKpgwOI4)
 * [2024-09-17, 13:26:00](https://news.ycombinator.com/item?id=41567387) - [Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
 * [2024-09-17, 13:16:01](https://news.ycombinator.com/item?id=41567301) - [\"Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough\"](https://quoteinvestigator.com/2024/09/16/hot-sf/)
