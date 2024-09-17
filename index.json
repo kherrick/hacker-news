@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-09-17, 01:15:11",
-      "https://news.ycombinator.com/item?id=41562981"
-    ],
-    [
-      "Y Combinator is predicated on startups that require low capitalization",
-      "https://twitter.com/bradneuberg/status/1835680235049869495"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 00:42:33",
       "https://news.ycombinator.com/item?id=41562774"
     ],
@@ -247,6 +237,16 @@
     [
       "Dissecting the gzip format (2011)",
       "https://www.infinitepartitions.com/art001.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 20:00:28",
+      "https://news.ycombinator.com/item?id=41542409"
+    ],
+    [
+      "Fair: A Go library for serving resources fairly",
+      "https://github.com/satmihir/fair"
     ]
   ],
   [
