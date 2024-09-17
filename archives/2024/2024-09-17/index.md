@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-17, 10:48:36](https://news.ycombinator.com/item?id=41566309) - [Apple software leaks new Mac mini with five USB-C ports ahead of rumored event](https://arstechnica.com/gadgets/2024/09/report-big-batch-of-m4-macs-and-cheaper-ipads-on-tap-for-october-apple-event/)
 * [2024-09-17, 10:45:30](https://news.ycombinator.com/item?id=41566287) - [Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
 * [2024-09-17, 10:12:39](https://news.ycombinator.com/item?id=41566122) - [A Curried Composition Puzzle](https://franklin.dyer.me/post/212)
 * [2024-09-17, 10:08:38](https://news.ycombinator.com/item?id=41566109) - [BeOS inspired Haiku R1/beta5 is out](https://www.haiku-os.org/get-haiku/r1beta5)
 * [2024-09-17, 10:07:00](https://news.ycombinator.com/item?id=41566097) - [Software is about people, not code (2020)](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
+* [2024-09-17, 07:28:12](https://news.ycombinator.com/item?id=41565239) - [In 1926, TV Was Mechanical](https://spectrum.ieee.org/first-tv)
 * [2024-09-17, 05:54:15](https://news.ycombinator.com/item?id=41564611) - [We have mathematically proven that transformers can solve any problem](https://twitter.com/denny_zhou/status/1835761801453306089)
 * [2024-09-17, 04:08:54](https://news.ycombinator.com/item?id=41564009) - [47-year-old Voyager 1 fired up thrusters it hasn't used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
