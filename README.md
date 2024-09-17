@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 16:50:04](https://news.ycombinator.com/item?id=41569723) - [Pixtral 12B](https://mistral.ai/news/pixtral-12b/)
+* [2024-09-17, 16:06:12](https://news.ycombinator.com/item?id=41569151) - [Request to Upgrade Fedora KDE Desktop Spin to Edition Status](https://discussion.fedoraproject.org/t/fedora-council-tickets-ticket-504-request-to-upgrade-fedora-kde-desktop-spin-to-edition-status-under-the-personal-systems-wg/131059)
 * [2024-09-17, 15:08:39](https://news.ycombinator.com/item?id=41568418) - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 15:04:09](https://news.ycombinator.com/item?id=41568343) - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
 * [2024-09-17, 14:12:58](https://news.ycombinator.com/item?id=41567778) - [Why is it so hard to go back to the moon?](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)
@@ -12,7 +14,6 @@
 * [2024-09-17, 13:08:43](https://news.ycombinator.com/item?id=41567240) - [An interactive core memory electronic kit](https://www.core64.io)
 * [2024-09-17, 13:04:24](https://news.ycombinator.com/item?id=41567215) - [Tiny Trackers Are Revealing the Secret Lives of Birds](https://www.smithsonianmag.com/science-nature/tens-of-thousands-of-tiny-tags-are-revealing-the-secret-lives-of-birds-180985022/)
 * [2024-09-17, 13:01:44](https://news.ycombinator.com/item?id=41567192) - [Show HN: Opik, an open source LLM evaluation framework](https://github.com/comet-ml/opik)
-* [2024-09-17, 12:55:14](https://news.ycombinator.com/item?id=41567138) - [Can Generative Multi-Agents Spontaneously Form a Society?](https://www.arxiv.org/abs/2409.06750)
 * [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-17, 10:59:32](https://news.ycombinator.com/item?id=41566369) - [Advice on Reading Homer in Translation](https://talesoftimesforgotten.com/2024/09/15/advice-on-reading-homer-in-translation/)
 * [2024-09-17, 10:45:30](https://news.ycombinator.com/item?id=41566287) - [Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
@@ -21,7 +22,6 @@
 * [2024-09-17, 07:28:12](https://news.ycombinator.com/item?id=41565239) - [In 1926, TV Was Mechanical](https://spectrum.ieee.org/first-tv)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-17, 03:28:55](https://news.ycombinator.com/item?id=41563801) - [The Theft of a Priceless Churchill Portrait](https://thewalrus.ca/churchill-portrait/)
-* [2024-09-17, 01:35:22](https://news.ycombinator.com/item?id=41563100) - [Rainfrog – a database management TUI for Postgres](https://github.com/achristmascarl/rainfrog)
 * [2024-09-17, 00:23:17](https://news.ycombinator.com/item?id=41562673) - [Chain of Thought empowers transformers to solve inherently serial problems](https://arxiv.org/abs/2402.12875)
 * [2024-09-16, 17:44:23](https://news.ycombinator.com/item?id=41558554) - [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)

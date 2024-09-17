@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 16:50:04](https://news.ycombinator.com/item?id=41569723) - [Pixtral 12B](https://mistral.ai/news/pixtral-12b/)
+* [2024-09-17, 16:06:12](https://news.ycombinator.com/item?id=41569151) - [Request to Upgrade Fedora KDE Desktop Spin to Edition Status](https://discussion.fedoraproject.org/t/fedora-council-tickets-ticket-504-request-to-upgrade-fedora-kde-desktop-spin-to-edition-status-under-the-personal-systems-wg/131059)
 * [2024-09-17, 15:31:45](https://news.ycombinator.com/item?id=41568731) - [Mastodeck – Mastodon for Power Users](https://mastodeck.com/)
 * [2024-09-17, 15:08:39](https://news.ycombinator.com/item?id=41568418) - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 15:04:09](https://news.ycombinator.com/item?id=41568343) - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
