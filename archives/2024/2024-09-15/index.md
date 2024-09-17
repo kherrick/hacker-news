@@ -51,6 +51,7 @@
 * [2024-09-15, 12:09:07](https://news.ycombinator.com/item?id=41547008) - [Fractran: Computer architecture based on the multiplication of fractions](https://wiki.xxiivv.com/site/fractran.html)
 * [2024-09-15, 12:07:16](https://news.ycombinator.com/item?id=41546995) - [Logbookd – SQLite Backed Syslogd](https://git.sr.ht/~martijnbraam/logbookd)
 * [2024-09-15, 12:00:00](https://news.ycombinator.com/item?id=41546954) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
+* [2024-09-15, 11:45:37](https://news.ycombinator.com/item?id=41546894) - [Stepwise selection of variables in regression is Evil](https://freerangestats.info/blog/2024/09/14/stepwise)
 * [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 * [2024-09-15, 11:28:10](https://news.ycombinator.com/item?id=41546814) - [What our childhood shows taught us about cities](http://www.thomasbardenett.com/blog/2019/7/23/what-mr-rogers-sesame-street-and-hey-arnold-taught-us-about-cities)
 * [2024-09-15, 11:24:44](https://news.ycombinator.com/item?id=41546803) - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
