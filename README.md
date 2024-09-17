@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 03:20:37](https://news.ycombinator.com/item?id=41563746) - [A lonely man in his 30s found community in an unlikely place: spin class](https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/)
+* [2024-09-17, 02:58:35](https://news.ycombinator.com/item?id=41563626) - [Why to Not Write a Book](https://gwern.net/book-writing)
 * [2024-09-17, 02:16:50](https://news.ycombinator.com/item?id=41563363) - [Indiana police are seizing FedEx packages containing cash](https://www.indystar.com/story/news/local/2024/08/13/california-jewelry-business-sues-indiana-over-seized-cash-fedex-henry-minh-inc/74788610007/)
 * [2024-09-17, 01:57:01](https://news.ycombinator.com/item?id=41563238) - [The internet is worse than it used to be. How did we get here?](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)
 * [2024-09-17, 01:15:11](https://news.ycombinator.com/item?id=41562981) - [Y Combinator is predicated on startups that require low capitalization](https://twitter.com/bradneuberg/status/1835680235049869495)
@@ -19,8 +21,6 @@
 * [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
 * [2024-09-16, 15:53:33](https://news.ycombinator.com/item?id=41557345) - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
-* [2024-09-16, 10:59:13](https://news.ycombinator.com/item?id=41554791) - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
-* [2024-09-16, 09:08:25](https://news.ycombinator.com/item?id=41554177) - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
 * [2024-09-15, 19:24:24](https://news.ycombinator.com/item?id=41549649) - [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 * [2024-09-15, 13:26:25](https://news.ycombinator.com/item?id=41547378) - [Michigan Micro Mote (M3) makes history as the smallest computer (2015)](https://ece.engin.umich.edu/stories/michigan-micro-mote-m3-makes-history-as-the-worlds-smallest-computer)
 * [2024-09-15, 12:09:07](https://news.ycombinator.com/item?id=41547008) - [Fractran: Computer architecture based on the multiplication of fractions](https://wiki.xxiivv.com/site/fractran.html)
