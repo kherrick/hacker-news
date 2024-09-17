@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41562673"
     ],
     [
-      "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems",
+      "Chain of Thought empowers transformers to solve inherently serial problems",
       "https://arxiv.org/abs/2402.12875"
     ]
   ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-09-16, 15:53:33",
-      "https://news.ycombinator.com/item?id=41557345"
-    ],
-    [
-      "Datomic and Content Addressable Techniques",
-      "https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 14:32:38",
       "https://news.ycombinator.com/item?id=41556519"
     ],
@@ -247,6 +237,16 @@
     [
       "Fair: A Go library for serving resources fairly",
       "https://github.com/satmihir/fair"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 14:10:07",
+      "https://news.ycombinator.com/item?id=41539924"
+    ],
+    [
+      "A Brief History of QuickTime",
+      "https://eclecticlight.co/2024/09/14/a-brief-history-of-quicktime/"
     ]
   ],
   [
