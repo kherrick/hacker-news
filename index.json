@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-09-16, 22:47:30",
-      "https://news.ycombinator.com/item?id=41561965"
-    ],
-    [
-      "Finetune, Eval, Deploy 60 LLMs in a single Colab notebook",
-      "https://colab.research.google.com/drive/1v4zaLJ-YXE29rn4ZJXCtTDwBzDg8H2HK?usp=sharing"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 22:15:24",
       "https://news.ycombinator.com/item?id=41561647"
     ],
@@ -257,6 +247,16 @@
     [
       "Dissecting the gzip format (2011)",
       "https://www.infinitepartitions.com/art001.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 20:00:28",
+      "https://news.ycombinator.com/item?id=41542409"
+    ],
+    [
+      "Fair: A Go library for serving resources fairly",
+      "https://github.com/satmihir/fair"
     ]
   ],
   [
