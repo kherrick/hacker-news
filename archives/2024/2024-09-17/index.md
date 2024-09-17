@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 04:08:54](https://news.ycombinator.com/item?id=41564009) - [47-year-old Voyager 1 fired up thrusters it hasn't used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
+* [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
+* [2024-09-17, 03:58:29](https://news.ycombinator.com/item?id=41563958) - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
 * [2024-09-17, 03:20:37](https://news.ycombinator.com/item?id=41563746) - [A lonely man in his 30s found community in an unlikely place: spin class](https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/)
 * [2024-09-17, 02:58:35](https://news.ycombinator.com/item?id=41563626) - [Why to Not Write a Book](https://gwern.net/book-writing)
 * [2024-09-17, 02:58:00](https://news.ycombinator.com/item?id=41563621) - [What are the best options for Amazon SDEs thinking about leaving over RTO policy](https://news.ycombinator.com/item?id=41563621)
