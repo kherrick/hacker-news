@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-17, 02:16:50](https://news.ycombinator.com/item?id=41563363) - [Indiana police are seizing FedEx packages containing cash](https://www.indystar.com/story/news/local/2024/08/13/california-jewelry-business-sues-indiana-over-seized-cash-fedex-henry-minh-inc/74788610007/)
+* [2024-09-17, 01:57:01](https://news.ycombinator.com/item?id=41563238) - [The internet is worse than it used to be. How did we get here?](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)
 * [2024-09-17, 01:51:26](https://news.ycombinator.com/item?id=41563205) - [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)
 * [2024-09-17, 01:15:11](https://news.ycombinator.com/item?id=41562981) - [Y Combinator is predicated on startups that require low capitalization](https://twitter.com/bradneuberg/status/1835680235049869495)
 * [2024-09-17, 00:42:33](https://news.ycombinator.com/item?id=41562774) - [Titan Submersible Marine Board of Investigation](https://www.news.uscg.mil/News-by-Region/Headquarters/Titan-Submersible/)
@@ -8,7 +9,6 @@
 * [2024-09-17, 00:16:28](https://news.ycombinator.com/item?id=41562633) - [FreeBSD 13.4-Release Announcement](https://www.freebsd.org/releases/13.4R/announce/)
 * [2024-09-16, 23:50:50](https://news.ycombinator.com/item?id=41562481) - [Intel foundry business to make custom chip for Amazon, chipmaker's shares jump](https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/)
 * [2024-09-16, 23:24:57](https://news.ycombinator.com/item?id=41562287) - [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
-* [2024-09-16, 23:04:43](https://news.ycombinator.com/item?id=41562111) - [Open Source Form Back End](https://github.com/FormBee/FormBee)
 * [2024-09-16, 22:47:30](https://news.ycombinator.com/item?id=41561965) - [Finetune, Eval, Deploy 60 LLMs in a single Colab notebook](https://colab.research.google.com/drive/1v4zaLJ-YXE29rn4ZJXCtTDwBzDg8H2HK?usp=sharing)
 * [2024-09-16, 22:15:24](https://news.ycombinator.com/item?id=41561647) - [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
 * [2024-09-16, 20:44:59](https://news.ycombinator.com/item?id=41560659) - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
