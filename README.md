@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-17, 16:36:23](https://news.ycombinator.com/item?id=41569557) - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
+* [2024-09-17, 16:35:29](https://news.ycombinator.com/item?id=41569544) - [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
+* [2024-09-17, 16:09:16](https://news.ycombinator.com/item?id=41569189) - [Some remarks on the mathematical structure of the multiverse](https://arxiv.org/abs/1602.04247)
+* [2024-09-17, 16:08:13](https://news.ycombinator.com/item?id=41569175) - [We are self-hosting our GPUs](https://www.gumlet.com/blog/time-to-own-gpus/)
+* [2024-09-17, 15:57:01](https://news.ycombinator.com/item?id=41569056) - [A new path for Kyber on the web for Chrome](https://security.googleblog.com/2024/09/a-new-path-for-kyber-on-web.html)
 * [2024-09-17, 15:08:39](https://news.ycombinator.com/item?id=41568418) - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 15:04:09](https://news.ycombinator.com/item?id=41568343) - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
 * [2024-09-17, 14:05:42](https://news.ycombinator.com/item?id=41567711) - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
@@ -22,14 +26,10 @@
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-17, 03:28:55](https://news.ycombinator.com/item?id=41563801) - [The Theft of a Priceless Churchill Portrait](https://thewalrus.ca/churchill-portrait/)
 * [2024-09-17, 00:23:17](https://news.ycombinator.com/item?id=41562673) - [Chain of Thought empowers transformers to solve inherently serial problems](https://arxiv.org/abs/2402.12875)
-* [2024-09-16, 17:44:23](https://news.ycombinator.com/item?id=41558554) - [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
-* [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
-* [2024-09-13, 13:14:21](https://news.ycombinator.com/item?id=41530961) - [Ncomm – A node-based robotics framework written in Rust](https://github.com/N8BWert/ncomm)
 * [2024-09-13, 08:59:06](https://news.ycombinator.com/item?id=41529368) - [Show HN: Waulog – A digital companion for dog owners](https://waulog.com/)
 * [2024-09-12, 21:24:10](https://news.ycombinator.com/item?id=41525740) - [Not a Normal Field Trip](https://medium.com/@matt.wisnioski/not-a-normal-field-trip-92b9a8c251ae)
-* [2024-09-12, 20:41:14](https://news.ycombinator.com/item?id=41525309) - [Ask HN: Is a Masters in CS/Engineering worth it for a mid-career PM?](https://news.ycombinator.com/item?id=41525309)
 
 ## [Archives](archives/index.md)
 
