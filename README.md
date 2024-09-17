@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 01:51:26](https://news.ycombinator.com/item?id=41563205) - [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)
 * [2024-09-17, 01:15:11](https://news.ycombinator.com/item?id=41562981) - [Y Combinator is predicated on startups that require low capitalization](https://twitter.com/bradneuberg/status/1835680235049869495)
+* [2024-09-17, 00:42:33](https://news.ycombinator.com/item?id=41562774) - [Titan Submersible Marine Board of Investigation](https://www.news.uscg.mil/News-by-Region/Headquarters/Titan-Submersible/)
 * [2024-09-17, 00:39:10](https://news.ycombinator.com/item?id=41562750) - [Omnipresent AI cameras will ensure good behavior, says Larry Ellison](https://arstechnica.com/information-technology/2024/09/omnipresent-ai-cameras-will-ensure-good-behavior-says-larry-ellison/)
 * [2024-09-17, 00:23:17](https://news.ycombinator.com/item?id=41562673) - [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
 * [2024-09-17, 00:16:28](https://news.ycombinator.com/item?id=41562633) - [FreeBSD 13.4-Release Announcement](https://www.freebsd.org/releases/13.4R/announce/)
@@ -12,7 +14,6 @@
 * [2024-09-16, 20:44:59](https://news.ycombinator.com/item?id=41560659) - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
 * [2024-09-16, 20:43:52](https://news.ycombinator.com/item?id=41560648) - [Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
 * [2024-09-16, 20:21:03](https://news.ycombinator.com/item?id=41560343) - [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
-* [2024-09-16, 19:37:21](https://news.ycombinator.com/item?id=41559761) - [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
 * [2024-09-16, 17:44:23](https://news.ycombinator.com/item?id=41558554) - [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
 * [2024-09-16, 16:59:22](https://news.ycombinator.com/item?id=41558081) - [A Spreadsheet and a Debugger Walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
@@ -29,7 +30,6 @@
 * [2024-09-13, 17:21:59](https://news.ycombinator.com/item?id=41533207) - [Mecanum Wheel](https://en.wikipedia.org/wiki/Mecanum_wheel)
 * [2024-09-13, 11:09:45](https://news.ycombinator.com/item?id=41530040) - [S6 – skarnet's small supervision suite](http://skarnet.org/software/s6/)
 * [2024-09-13, 10:07:04](https://news.ycombinator.com/item?id=41529709) - [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
-* [2024-09-12, 09:24:45](https://news.ycombinator.com/item?id=41519046) - [Ask HN: Does anyone use sound effects in their dev environment?](https://news.ycombinator.com/item?id=41519046)
 
 ## [Archives](archives/index.md)
 
