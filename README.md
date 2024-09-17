@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 05:54:15](https://news.ycombinator.com/item?id=41564611) - [We have mathematically proven that transformers can solve any problem](https://twitter.com/denny_zhou/status/1835761801453306089)
 * [2024-09-17, 04:08:54](https://news.ycombinator.com/item?id=41564009) - [47-year-old Voyager 1 fired up thrusters it hasn't used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-17, 03:58:29](https://news.ycombinator.com/item?id=41563958) - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
@@ -16,7 +17,6 @@
 * [2024-09-16, 23:24:57](https://news.ycombinator.com/item?id=41562287) - [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
 * [2024-09-16, 22:57:15](https://news.ycombinator.com/item?id=41562034) - [We fine-tuned an LLM to triage and fix insecure code](https://corgea.com/blog/fine-tuning-for-precision-and-privacy-how-corgea-s-llm-enhances-enterprise-application-security)
 * [2024-09-16, 22:15:24](https://news.ycombinator.com/item?id=41561647) - [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
-* [2024-09-16, 20:44:59](https://news.ycombinator.com/item?id=41560659) - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
 * [2024-09-16, 20:43:52](https://news.ycombinator.com/item?id=41560648) - [Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
 * [2024-09-16, 20:21:03](https://news.ycombinator.com/item?id=41560343) - [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
 * [2024-09-16, 17:44:23](https://news.ycombinator.com/item?id=41558554) - [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 05:54:15](https://news.ycombinator.com/item?id=41564611) - [We have mathematically proven that transformers can solve any problem](https://twitter.com/denny_zhou/status/1835761801453306089)
 * [2024-09-17, 04:08:54](https://news.ycombinator.com/item?id=41564009) - [47-year-old Voyager 1 fired up thrusters it hasn't used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-17, 03:58:29](https://news.ycombinator.com/item?id=41563958) - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
