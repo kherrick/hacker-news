@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-17, 14:07:21](https://news.ycombinator.com/item?id=41567728) - [Java 23](https://openjdk.org/projects/jdk/23/)
 * [2024-09-17, 14:05:42](https://news.ycombinator.com/item?id=41567711) - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
-* [2024-09-17, 13:53:38](https://news.ycombinator.com/item?id=41567615) - [Java 23 General-Availability Release](https://jdk.java.net/23/)
-* [2024-09-17, 13:36:39](https://news.ycombinator.com/item?id=41567477) - [Java 23 Launch Stream [video]](https://www.youtube.com/watch?v=QG9xKpgwOI4)
 * [2024-09-17, 13:26:00](https://news.ycombinator.com/item?id=41567387) - [Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
 * [2024-09-17, 13:16:01](https://news.ycombinator.com/item?id=41567301) - [\"Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough\"](https://quoteinvestigator.com/2024/09/16/hot-sf/)
 * [2024-09-17, 13:08:43](https://news.ycombinator.com/item?id=41567240) - [An interactive core memory electronic kit](https://www.core64.io)
@@ -26,6 +25,7 @@
 * [2024-09-16, 16:59:22](https://news.ycombinator.com/item?id=41558081) - [A Spreadsheet and a Debugger Walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
+* [2024-09-15, 11:45:37](https://news.ycombinator.com/item?id=41546894) - [Stepwise selection of variables in regression is Evil](https://freerangestats.info/blog/2024/09/14/stepwise)
 * [2024-09-15, 10:38:03](https://news.ycombinator.com/item?id=41546619) - [Dissecting the gzip format (2011)](https://www.infinitepartitions.com/art001.html)
 * [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
 * [2024-09-13, 13:14:21](https://news.ycombinator.com/item?id=41530961) - [Ncomm – A node-based robotics framework written in Rust](https://github.com/N8BWert/ncomm)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
 * [2024-09-17, 14:17:31](https://news.ycombinator.com/item?id=41567813) - [Hezbollah members reportedly injured by exploding pagers](https://www.bbc.co.uk/news/articles/cd7xnelvpepo)
+* [2024-09-17, 14:07:21](https://news.ycombinator.com/item?id=41567728) - [Java 23](https://openjdk.org/projects/jdk/23/)
 * [2024-09-17, 14:05:42](https://news.ycombinator.com/item?id=41567711) - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
 * [2024-09-17, 13:53:38](https://news.ycombinator.com/item?id=41567615) - [Java 23 General-Availability Release](https://jdk.java.net/23/)
 * [2024-09-17, 13:36:39](https://news.ycombinator.com/item?id=41567477) - [Java 23 Launch Stream [video]](https://www.youtube.com/watch?v=QG9xKpgwOI4)
