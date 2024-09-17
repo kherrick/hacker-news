@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 21:18:07](https://news.ycombinator.com/item?id=41572851) - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
 * [2024-09-17, 20:33:51](https://news.ycombinator.com/item?id=41572417) - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
 * [2024-09-17, 20:01:21](https://news.ycombinator.com/item?id=41572041) - [Instagram Teen Accounts](https://about.fb.com/news/2024/09/instagram-teen-accounts/)
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
