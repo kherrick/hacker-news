@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-09-17, 01:57:01",
-      "https://news.ycombinator.com/item?id=41563238"
-    ],
-    [
-      "The internet is worse than it used to be. How did we get here?",
-      "https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 01:15:11",
       "https://news.ycombinator.com/item?id=41562981"
     ],
@@ -147,6 +137,16 @@
     [
       "We fine-tuned an LLM to triage and fix insecure code",
       "https://corgea.com/blog/fine-tuning-for-precision-and-privacy-how-corgea-s-llm-enhances-enterprise-application-security"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 22:47:30",
+      "https://news.ycombinator.com/item?id=41561965"
+    ],
+    [
+      "Finetune, Eval, Deploy 60 LLMs in a single Colab notebook",
+      "https://colab.research.google.com/drive/1v4zaLJ-YXE29rn4ZJXCtTDwBzDg8H2HK?usp=sharing"
     ]
   ],
   [
