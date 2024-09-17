@@ -21,7 +21,7 @@
 * [2024-09-16, 20:21:03](https://news.ycombinator.com/item?id=41560343) - [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
 * [2024-09-16, 17:44:23](https://news.ycombinator.com/item?id=41558554) - [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
 * [2024-09-16, 16:59:22](https://news.ycombinator.com/item?id=41558081) - [A Spreadsheet and a Debugger Walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
-* [2024-09-16, 16:35:47](https://news.ycombinator.com/item?id=41557851) - [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
+* [2024-09-16, 15:53:33](https://news.ycombinator.com/item?id=41557345) - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
 * [2024-09-16, 14:32:38](https://news.ycombinator.com/item?id=41556519) - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
 * [2024-09-15, 13:26:25](https://news.ycombinator.com/item?id=41547378) - [Michigan Micro Mote (M3) makes history as the smallest computer (2015)](https://ece.engin.umich.edu/stories/michigan-micro-mote-m3-makes-history-as-the-worlds-smallest-computer)
 * [2024-09-15, 10:38:03](https://news.ycombinator.com/item?id=41546619) - [Dissecting the gzip format (2011)](https://www.infinitepartitions.com/art001.html)
