@@ -6,6 +6,7 @@
 
 * [2024-09-17, 03:20:37](https://news.ycombinator.com/item?id=41563746) - [A lonely man in his 30s found community in an unlikely place: spin class](https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/)
 * [2024-09-17, 02:58:35](https://news.ycombinator.com/item?id=41563626) - [Why to Not Write a Book](https://gwern.net/book-writing)
+* [2024-09-17, 02:58:00](https://news.ycombinator.com/item?id=41563621) - [What are the best options for Amazon SDEs thinking about leaving over RTO policy](https://news.ycombinator.com/item?id=41563621)
 * [2024-09-17, 02:16:50](https://news.ycombinator.com/item?id=41563363) - [Indiana police are seizing FedEx packages containing cash](https://www.indystar.com/story/news/local/2024/08/13/california-jewelry-business-sues-indiana-over-seized-cash-fedex-henry-minh-inc/74788610007/)
 * [2024-09-17, 01:57:01](https://news.ycombinator.com/item?id=41563238) - [The internet is worse than it used to be. How did we get here?](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)
 * [2024-09-17, 01:51:26](https://news.ycombinator.com/item?id=41563205) - [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)
