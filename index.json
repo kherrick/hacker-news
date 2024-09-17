@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-17, 04:08:54",
+      "https://news.ycombinator.com/item?id=41564009"
+    ],
+    [
+      "47-year-old Voyager 1 fired up thrusters it hasn't used in decades",
+      "https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 04:06:50",
+      "https://news.ycombinator.com/item?id=41564003"
+    ],
+    [
+      "Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra",
+      "https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 03:58:29",
+      "https://news.ycombinator.com/item?id=41563958"
+    ],
+    [
+      "Show HN: Void, an open-source Cursor/GitHub Copilot alternative",
+      "https://voideditor.com"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 03:20:37",
       "https://news.ycombinator.com/item?id=41563746"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-09-16, 22:47:30",
-      "https://news.ycombinator.com/item?id=41561965"
-    ],
-    [
-      "Finetune, Eval, Deploy 60 LLMs in a single Colab notebook",
-      "https://colab.research.google.com/drive/1v4zaLJ-YXE29rn4ZJXCtTDwBzDg8H2HK?usp=sharing"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 22:15:24",
       "https://news.ycombinator.com/item?id=41561647"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-09-15, 19:24:24",
-      "https://news.ycombinator.com/item?id=41549649"
-    ],
-    [
-      "How to succeed in MrBeast production (Leaked PDF)",
-      "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 13:26:25",
       "https://news.ycombinator.com/item?id=41547378"
     ],
@@ -251,32 +261,12 @@
   ],
   [
     [
-      "2024-09-14, 20:00:28",
-      "https://news.ycombinator.com/item?id=41542409"
-    ],
-    [
-      "Fair: A Go library for serving resources fairly",
-      "https://github.com/satmihir/fair"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 17:21:59",
       "https://news.ycombinator.com/item?id=41533207"
     ],
     [
       "Mecanum Wheel",
       "https://en.wikipedia.org/wiki/Mecanum_wheel"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 11:09:45",
-      "https://news.ycombinator.com/item?id=41530040"
-    ],
-    [
-      "S6 – skarnet's small supervision suite",
-      "http://skarnet.org/software/s6/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Bionicle – my actual part in its origins (2015)",
       "https://alastairswinnerton.com/2015/09/07/bionicle-my-actual-part-in-its-origins/"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 08:23:15",
+      "https://news.ycombinator.com/item?id=41518698"
+    ],
+    [
+      "Master Hexagonal Architecture in Rust",
+      "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
     ]
   ]
 ]
