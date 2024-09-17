@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-09-17, 03:20:37",
-      "https://news.ycombinator.com/item?id=41563746"
-    ],
-    [
-      "A lonely man in his 30s found community in an unlikely place: spin class",
-      "https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 02:58:35",
       "https://news.ycombinator.com/item?id=41563626"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2024-09-15, 19:24:24",
+      "https://news.ycombinator.com/item?id=41549649"
+    ],
+    [
+      "How to succeed in MrBeast production (Leaked PDF)",
+      "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 13:26:25",
       "https://news.ycombinator.com/item?id=41547378"
     ],
@@ -237,16 +237,6 @@
     [
       "Dissecting the gzip format (2011)",
       "https://www.infinitepartitions.com/art001.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 20:00:28",
-      "https://news.ycombinator.com/item?id=41542409"
-    ],
-    [
-      "Fair: A Go library for serving resources fairly",
-      "https://github.com/satmihir/fair"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Master Hexagonal Architecture in Rust",
       "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 03:56:28",
+      "https://news.ycombinator.com/item?id=41517455"
+    ],
+    [
+      "ChessDream, a place for chess players to improve",
+      "https://chessdream.vercel.app"
     ]
   ]
 ]
