@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-17, 05:54:15](https://news.ycombinator.com/item?id=41564611) - [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://twitter.com/denny_zhou/status/1835761801453306089)
 * [2024-09-17, 04:08:54](https://news.ycombinator.com/item?id=41564009) - [47-year-old Voyager 1 fired up thrusters it hasn't used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
 * [2024-09-17, 04:06:50](https://news.ycombinator.com/item?id=41564003) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-17, 03:58:29](https://news.ycombinator.com/item?id=41563958) - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
@@ -24,6 +23,7 @@
 * [2024-09-15, 13:26:25](https://news.ycombinator.com/item?id=41547378) - [Michigan Micro Mote (M3) makes history as the smallest computer (2015)](https://ece.engin.umich.edu/stories/michigan-micro-mote-m3-makes-history-as-the-worlds-smallest-computer)
 * [2024-09-15, 11:45:37](https://news.ycombinator.com/item?id=41546894) - [Stepwise selection of variables in regression is Evil](https://freerangestats.info/blog/2024/09/14/stepwise)
 * [2024-09-15, 10:38:03](https://news.ycombinator.com/item?id=41546619) - [Dissecting the gzip format (2011)](https://www.infinitepartitions.com/art001.html)
+* [2024-09-14, 20:00:28](https://news.ycombinator.com/item?id=41542409) - [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
 * [2024-09-14, 11:18:14](https://news.ycombinator.com/item?id=41539033) - [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
 * [2024-09-13, 17:21:59](https://news.ycombinator.com/item?id=41533207) - [Mecanum Wheel](https://en.wikipedia.org/wiki/Mecanum_wheel)
 * [2024-09-13, 10:07:04](https://news.ycombinator.com/item?id=41529709) - [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
