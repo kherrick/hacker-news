@@ -54,6 +54,7 @@
 * [2024-09-15, 11:28:10](https://news.ycombinator.com/item?id=41546814) - [What our childhood shows taught us about cities](http://www.thomasbardenett.com/blog/2019/7/23/what-mr-rogers-sesame-street-and-hey-arnold-taught-us-about-cities)
 * [2024-09-15, 11:24:44](https://news.ycombinator.com/item?id=41546803) - [D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
 * [2024-09-15, 11:14:41](https://news.ycombinator.com/item?id=41546769) - [Learn Git Branching](https://learngitbranching.js.org/)
+* [2024-09-15, 10:38:03](https://news.ycombinator.com/item?id=41546619) - [Dissecting the gzip format](https://www.infinitepartitions.com/art001.html)
 * [2024-09-15, 09:06:41](https://news.ycombinator.com/item?id=41546278) - [Napkin-math: Techniques for estimating system performance from first-principles](https://github.com/sirupsen/napkin-math)
 * [2024-09-15, 08:58:23](https://news.ycombinator.com/item?id=41546242) - [European Consumer Organization goes after publishers for their in-game currency](https://www.gamingonlinux.com/2024/09/european-consumer-organization-goes-after-multiple-publishers-for-their-in-game-currency/)
 * [2024-09-15, 08:07:21](https://news.ycombinator.com/item?id=41546032) - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)

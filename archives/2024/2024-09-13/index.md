@@ -37,6 +37,7 @@
 * [2024-09-13, 17:39:38](https://news.ycombinator.com/item?id=41533387) - [The Analyst and the Bard](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-analyst-and-the-bard)
 * [2024-09-13, 17:36:45](https://news.ycombinator.com/item?id=41533359) - [Why freedom of speech is a wicked problem](https://no-kill-switch.ghost.io/why-freedom-of-speech-is-a-wicked-problem/)
 * [2024-09-13, 17:27:54](https://news.ycombinator.com/item?id=41533271) - [CS Career fair cancelled at community college because no companies reached out](https://twitter.com/anpaure/status/1834576613742145982)
+* [2024-09-13, 17:21:59](https://news.ycombinator.com/item?id=41533207) - [Mecanum Wheel](https://en.wikipedia.org/wiki/Mecanum_wheel)
 * [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Meta fed its AI on everything adults have publicly posted since 2007](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
 * [2024-09-13, 17:05:04](https://news.ycombinator.com/item?id=41533060) - [Facebook scraped every Australian adult user's public posts to train AI](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)
 * [2024-09-13, 17:00:14](https://news.ycombinator.com/item?id=41533019) - [Supabase (YC S20) Is Hiring Postgres SREs [Fully Remote]](https://boards.greenhouse.io/supabase/jobs/5162509004)
