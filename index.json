@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-09-17, 01:15:11",
+      "https://news.ycombinator.com/item?id=41562981"
+    ],
+    [
+      "Y Combinator is predicated on startups that require low capitalization",
+      "https://twitter.com/bradneuberg/status/1835680235049869495"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 00:39:10",
+      "https://news.ycombinator.com/item?id=41562750"
+    ],
+    [
+      "Omnipresent AI cameras will ensure good behavior, says Larry Ellison",
+      "https://arstechnica.com/information-technology/2024/09/omnipresent-ai-cameras-will-ensure-good-behavior-says-larry-ellison/"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 00:23:17",
+      "https://news.ycombinator.com/item?id=41562673"
+    ],
+    [
+      "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems",
+      "https://arxiv.org/abs/2402.12875"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 00:16:28",
+      "https://news.ycombinator.com/item?id=41562633"
+    ],
+    [
+      "FreeBSD 13.4-Release Announcement",
+      "https://www.freebsd.org/releases/13.4R/announce/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 23:50:50",
       "https://news.ycombinator.com/item?id=41562481"
     ],
@@ -17,6 +57,26 @@
     [
       "Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss",
       "https://github.com/nyxpsi/nyxpsi"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 23:04:43",
+      "https://news.ycombinator.com/item?id=41562111"
+    ],
+    [
+      "Open Source Form Back End",
+      "https://github.com/FormBee/FormBee"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 22:47:30",
+      "https://news.ycombinator.com/item?id=41561965"
+    ],
+    [
+      "Finetune, Eval, Deploy 60 LLMs in a single Colab notebook",
+      "https://colab.research.google.com/drive/1v4zaLJ-YXE29rn4ZJXCtTDwBzDg8H2HK?usp=sharing"
     ]
   ],
   [
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2024-09-16, 18:08:47",
-      "https://news.ycombinator.com/item?id=41558800"
-    ],
-    [
-      "TouchArcade Is Shutting Down",
-      "https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 17:44:23",
       "https://news.ycombinator.com/item?id=41558554"
     ],
@@ -117,16 +167,6 @@
     [
       "Datomic and Content Addressable Techniques",
       "https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 15:33:57",
-      "https://news.ycombinator.com/item?id=41557107"
-    ],
-    [
-      "Show HN: Universal Logger for Node, Deno, Bun, Browser",
-      "https://adzejs.com"
     ]
   ],
   [
@@ -171,31 +211,11 @@
   ],
   [
     [
-      "2024-09-16, 09:04:59",
-      "https://news.ycombinator.com/item?id=41554157"
-    ],
-    [
-      "Attacking PowerShell Clixml Deserialization",
-      "https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 21:09:22",
-      "https://news.ycombinator.com/item?id=41550417"
-    ],
-    [
-      "Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't",
-      "https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 19:24:24",
       "https://news.ycombinator.com/item?id=41549649"
     ],
     [
-      "How to Succeed in Mr Beast Production (Leaked PDF)",
+      "How to succeed in MrBeast production (Leaked PDF)",
       "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/"
     ]
   ],
@@ -267,26 +287,6 @@
     [
       "The Pragmatic Programmer for Machine Learning",
       "https://ppml.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 09:06:49",
-      "https://news.ycombinator.com/item?id=41529415"
-    ],
-    [
-      "The wild,winding world of New York City's legal (& not-so-legal) cannabis market",
-      "https://www.rollingstone.com/culture/culture-features/weed-dealer-new-york-legal-cannabis-business-1235071019/"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 07:40:41",
-      "https://news.ycombinator.com/item?id=41528919"
-    ],
-    [
-      "Speech Dictation Mode for Emacs",
-      "https://lepisma.xyz/2024/09/12/emacs-dictation-mode/index.html"
     ]
   ],
   [
