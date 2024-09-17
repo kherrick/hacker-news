@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-17, 13:16:01](https://news.ycombinator.com/item?id=41567301) - [\"Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough\"](https://quoteinvestigator.com/2024/09/16/hot-sf/)
-* [2024-09-17, 13:01:54](https://news.ycombinator.com/item?id=41567195) - [The DEADLY self-cleaning litter boxes that have flooded the market [video]](https://www.youtube.com/watch?v=xepC3-Ia9ho)
+* [2024-09-17, 12:06:12](https://news.ycombinator.com/item?id=41566785) - [Repack Zoom .debs to remove the `ibus` dependency](https://hashman.ca/zoom/)
 * [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-17, 10:45:30](https://news.ycombinator.com/item?id=41566287) - [Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
 * [2024-09-17, 10:12:39](https://news.ycombinator.com/item?id=41566122) - [A Curried Composition Puzzle](https://franklin.dyer.me/post/212)
