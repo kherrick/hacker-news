@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 16:51:59](https://news.ycombinator.com/item?id=41582313) - [Cuba slashes size of daily bread ration as ingredients run thin](https://www.reuters.com/world/americas/cuba-slashes-size-daily-bread-ration-ingredients-run-thin-2024-09-16/)
+* [2024-09-18, 16:49:20](https://news.ycombinator.com/item?id=41582267) - [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
+* [2024-09-18, 16:48:37](https://news.ycombinator.com/item?id=41582254) - [Show HN: Selectric – macOS Search for Gmail, Outlook, Drive, Slack](https://selectric.io/)
 * [2024-09-18, 16:24:47](https://news.ycombinator.com/item?id=41581942) - [RabbitMQ 4.0 Released](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0)
 * [2024-09-18, 16:23:37](https://news.ycombinator.com/item?id=41581923) - [Twitter shut off API access; users volunteering their own data for an open API](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users)
 * [2024-09-18, 16:12:47](https://news.ycombinator.com/item?id=41581760) - [Bankrupt Trucker Yellow Loses Ruling over $6.5B in Pension Debts](https://www.bloomberg.com/news/articles/2024-09-17/trucker-yellow-loses-ruling-over-6-5-billion-in-pension-debts)
