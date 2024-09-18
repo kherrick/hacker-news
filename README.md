@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-18, 04:50:22](https://news.ycombinator.com/item?id=41575908) - [26-Year-Old EY Employee Succumbs to 'Work Stress' Four Months After Joining](https://old.reddit.com/r/CharteredAccountants/comments/1fj08v9/ey_employee_died_of_work_pressure)
+* [2024-09-18, 10:53:25](https://news.ycombinator.com/item?id=41578117) - [Tax the Rich – European Citizens' Initiative](https://www.tax-the-rich.eu)
 * [2024-09-18, 02:59:34](https://news.ycombinator.com/item?id=41575323) - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 * [2024-09-18, 02:56:06](https://news.ycombinator.com/item?id=41575300) - [Asgard launches world's first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
@@ -10,7 +10,6 @@
 * [2024-09-17, 22:26:58](https://news.ycombinator.com/item?id=41573550) - [Reports of the death of dental cavities are greatly exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
 * [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Independent directors of 23andMe resign from board](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
 * [2024-09-17, 19:56:39](https://news.ycombinator.com/item?id=41571971) - [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
-* [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
 * [2024-09-17, 18:04:31](https://news.ycombinator.com/item?id=41570708) - [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
 * [2024-09-17, 17:21:41](https://news.ycombinator.com/item?id=41570163) - [OpenTelemetry Tracing in < 200 lines of code](https://jeremymorrell.dev/blog/minimal-js-tracing/)
@@ -29,6 +28,7 @@
 * [2024-09-14, 04:14:56](https://news.ycombinator.com/item?id=41537426) - [How Raw sockets behave differently in macOS and Linux](https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/)
 * [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
 * [2024-09-13, 16:08:20](https://news.ycombinator.com/item?id=41532516) - [John Peralta Explodes Historic Technology into Three-Dimensional Diagrams](https://www.thisiscolossal.com/2024/09/john-peralta-exploded-technology/)
+* [2024-09-13, 09:10:27](https://news.ycombinator.com/item?id=41529435) - [Haxe lang – build cross-platform application with fast cross-compiler](https://haxe.org)
 * [2024-09-13, 06:40:08](https://news.ycombinator.com/item?id=41528598) - [Scrolling Text Display](http://www.technoblogy.com/show?4WX8)
 
 ## [Archives](archives/index.md)

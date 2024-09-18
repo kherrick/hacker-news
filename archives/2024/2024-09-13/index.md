@@ -68,6 +68,7 @@
 * [2024-09-13, 10:32:32](https://news.ycombinator.com/item?id=41529844) - [Pico-ASHA: USB audio to ASHA adapter](https://github.com/shermp/Pico-ASHA)
 * [2024-09-13, 10:07:54](https://news.ycombinator.com/item?id=41529712) - [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
 * [2024-09-13, 10:07:04](https://news.ycombinator.com/item?id=41529709) - [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
+* [2024-09-13, 09:10:27](https://news.ycombinator.com/item?id=41529435) - [Haxe lang – build cross-platform application with fast cross-compiler](https://haxe.org)
 * [2024-09-13, 09:06:49](https://news.ycombinator.com/item?id=41529415) - [The wild,winding world of New York City's legal (& not-so-legal) cannabis market](https://www.rollingstone.com/culture/culture-features/weed-dealer-new-york-legal-cannabis-business-1235071019/)
 * [2024-09-13, 08:59:06](https://news.ycombinator.com/item?id=41529368) - [Show HN: Waulog – A digital companion for dog owners](https://waulog.com/)
 * [2024-09-13, 08:46:46](https://news.ycombinator.com/item?id=41529292) - [Using the Topics API (Chrome Only, Opposed by Firefox/Safari)](https://developer.mozilla.org/en-US/docs/Web/API/Topics_API/Using)
