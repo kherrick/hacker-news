@@ -51,6 +51,7 @@
 * [2024-09-16, 14:21:16](https://news.ycombinator.com/item?id=41556378) - [Show HN: Xnapper Studio – Web tool for creating attention-grabbing screenshots](https://xnapper.com/app)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-16, 14:04:00](https://news.ycombinator.com/item?id=41556195) - [Stephen Fry – AI: A Means to an End or a Means to Our End?](https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to)
+* [2024-09-16, 13:53:09](https://news.ycombinator.com/item?id=41556088) - [Show HN: sol – A de-minifier for shell programs](https://github.com/noperator/sol)
 * [2024-09-16, 12:24:46](https://news.ycombinator.com/item?id=41555349) - [Earth may have had a ring system 466 million years ago](https://www.monash.edu/science/news-events/news/current/earth-may-have-had-a-ring-system-466-million-years-ago)
 * [2024-09-16, 10:59:13](https://news.ycombinator.com/item?id=41554791) - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
 * [2024-09-16, 10:21:56](https://news.ycombinator.com/item?id=41554583) - [Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
