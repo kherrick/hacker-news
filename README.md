@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 14:35:18](https://news.ycombinator.com/item?id=41580214) - [Walkie talkies explode across Lebanon a day after pager explosions](https://www.dailymail.co.uk/news/article-13864883/Lebanon-explosions-Hezbollah-communications-devices-detonate-country-pager-bomb.html)
 * [2024-09-18, 14:21:42](https://news.ycombinator.com/item?id=41580073) - [Cobb Tuning Hit with $2.9M Fine over Emissions Defeat Devices](https://www.roadandtrack.com/news/a62244677/cobb-tuning-epa-2-point-9-million-dollar-fine-defeat-devices/)
 * [2024-09-18, 14:02:00](https://news.ycombinator.com/item?id=41579852) - [Tupperware files for bankruptcy as its colorful containers lose relevance](https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/)
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
@@ -28,7 +29,6 @@
 * [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 * [2024-09-14, 04:14:56](https://news.ycombinator.com/item?id=41537426) - [How Raw sockets behave differently in macOS and Linux](https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/)
 * [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
-* [2024-09-13, 17:28:55](https://news.ycombinator.com/item?id=41533285) - [NetWare NFS Gateway 1.1](https://web.archive.org/web/20240913230211/https://www.os2museum.com/wp/netware-nfs-gateway-1-1/)
 * [2024-09-13, 16:08:20](https://news.ycombinator.com/item?id=41532516) - [John Peralta Explodes Historic Technology into Three-Dimensional Diagrams](https://www.thisiscolossal.com/2024/09/john-peralta-exploded-technology/)
 
 ## [Archives](archives/index.md)
