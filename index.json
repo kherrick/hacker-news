@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-18, 15:19:52",
+      "https://news.ycombinator.com/item?id=41580853"
+    ],
+    [
+      "Hezbollah hand-held radios explode, killing three, one day after pager blasts",
+      "https://www.reuters.com/world/hezbollah-pager-explosions-live-2024-09-17/"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 15:03:08",
       "https://news.ycombinator.com/item?id=41580611"
     ],
@@ -21,12 +31,42 @@
   ],
   [
     [
-      "2024-09-18, 14:34:43",
-      "https://news.ycombinator.com/item?id=41580205"
+      "2024-09-18, 14:54:55",
+      "https://news.ycombinator.com/item?id=41580488"
     ],
     [
-      "Hezbollah hand-held radios detonate across Lebanon, sources say",
-      "https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/"
+      "Amazon ordered a return to the office – but research says they'll backtrack",
+      "https://fortune.com/2024/09/18/amazon-andy-jassy-ordering-full-time-return-to-office-rto-research-backtrack/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 14:44:00",
+      "https://news.ycombinator.com/item?id=41580326"
+    ],
+    [
+      "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+      "https://github.com/exaloop/codon"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 14:34:35",
+      "https://news.ycombinator.com/item?id=41580203"
+    ],
+    [
+      "Ask HN: Is there any place on the internet capable of freedom of speech?",
+      "https://news.ycombinator.com/item?id=41580203"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 14:30:21",
+      "https://news.ycombinator.com/item?id=41580166"
+    ],
+    [
+      "Bento: Jupyter Notebooks at Meta",
+      "https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-notebooks-at-meta/"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2024-09-17, 22:26:58",
-      "https://news.ycombinator.com/item?id=41573550"
-    ],
-    [
-      "Reports of the death of dental cavities are greatly exaggerated",
-      "https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 21:31:49",
       "https://news.ycombinator.com/item?id=41573034"
     ],
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2024-09-17, 17:21:41",
-      "https://news.ycombinator.com/item?id=41570163"
+      "2024-09-16, 18:52:22",
+      "https://news.ycombinator.com/item?id=41559246"
     ],
     [
-      "OpenTelemetry Tracing in < 200 lines of code",
-      "https://jeremymorrell.dev/blog/minimal-js-tracing/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 16:36:23",
-      "https://news.ycombinator.com/item?id=41569557"
-    ],
-    [
-      "Show HN: Open Scanner, an open-source document scanning app for iPhone",
-      "https://github.com/pencilresearch/OpenScanner"
+      "Putting Code on a Nerves Device",
+      "https://underjord.io/putting-code-on-a-nerves-device.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "How Raw sockets behave differently in macOS and Linux",
       "https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 19:53:47",
-      "https://news.ycombinator.com/item?id=41534551"
-    ],
-    [
-      "The Lego Great Ball Contraption",
-      "https://kottke.org/24/09/the-lego-great-ball-contraption"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 16:08:20",
-      "https://news.ycombinator.com/item?id=41532516"
-    ],
-    [
-      "John Peralta Explodes Historic Technology into Three-Dimensional Diagrams",
-      "https://www.thisiscolossal.com/2024/09/john-peralta-exploded-technology/"
     ]
   ]
 ]
