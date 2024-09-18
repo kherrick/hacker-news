@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 12:42:17](https://news.ycombinator.com/item?id=41579011) - [Crypto bros wrested Flappy Bird from its creator](https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/)
 * [2024-09-18, 11:55:54](https://news.ycombinator.com/item?id=41578599) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 * [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 11:32:27](https://news.ycombinator.com/item?id=41578412) - [U.S. military to apologize to Alaska Natives for 1800s terror campaign](https://www.msn.com/en-us/news/us/us-military-to-apologize-to-alaska-natives-for-1800s-terror-campaign/ar-AA1qLgRG)

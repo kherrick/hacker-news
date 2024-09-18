@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 12:42:17](https://news.ycombinator.com/item?id=41579011) - [Crypto bros wrested Flappy Bird from its creator](https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/)
 * [2024-09-18, 11:55:54](https://news.ycombinator.com/item?id=41578599) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 * [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 11:25:29](https://news.ycombinator.com/item?id=41578349) - [U.S. overdose deaths plummet, saving thousands of lives](https://www.npr.org/2024/09/18/nx-s1-5107417/overdose-fatal-fentanyl-death-opioid)
@@ -22,7 +23,6 @@
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-16, 13:53:09](https://news.ycombinator.com/item?id=41556088) - [Show HN: sol – A de-minifier for shell programs](https://github.com/noperator/sol)
 * [2024-09-16, 09:11:19](https://news.ycombinator.com/item?id=41554193) - [React for R](https://github.com/react-R/reactR)
-* [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [STORM: Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
 * [2024-09-16, 05:11:00](https://news.ycombinator.com/item?id=41552952) - [Errors from `Close`](https://blog.sunfishcode.online/errors-from-close/)
 * [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 * [2024-09-15, 16:45:20](https://news.ycombinator.com/item?id=41548547) - [Implement algorithms that minimize slippage](https://www.quantitativo.com/p/the-devil-is-in-the-details)
