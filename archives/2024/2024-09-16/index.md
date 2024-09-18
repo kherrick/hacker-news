@@ -64,6 +64,7 @@
 * [2024-09-16, 09:04:59](https://news.ycombinator.com/item?id=41554157) - [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
+* [2024-09-16, 08:19:16](https://news.ycombinator.com/item?id=41553922) - [Holding a Program in One's Head (2007)](https://paulgraham.com/head.html)
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [Storm Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
 * [2024-09-16, 06:29:48](https://news.ycombinator.com/item?id=41553320) - [Revisiting Overture's Global Geospatial Datasets](https://tech.marksblogg.com/overture-2024-revisit.html)
 * [2024-09-16, 05:30:08](https://news.ycombinator.com/item?id=41553031) - [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)
