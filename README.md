@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
 * [2024-09-18, 16:50:09](https://news.ycombinator.com/item?id=41582278) - [Senate Vote Tomorrow Could Give Helping Hand to Patent Trolls](https://www.eff.org/deeplinks/2024/09/senate-vote-tomorrow-could-give-helping-hand-patent-trolls)
 * [2024-09-18, 16:49:20](https://news.ycombinator.com/item?id=41582267) - [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
 * [2024-09-18, 16:48:37](https://news.ycombinator.com/item?id=41582254) - [Show HN: Selectric – macOS Search for Gmail, Outlook, Drive, Slack](https://selectric.io/)
+* [2024-09-18, 16:42:48](https://news.ycombinator.com/item?id=41582180) - [Llama 3.1 Omni Model](https://github.com/ictnlp/LLaMA-Omni)
 * [2024-09-18, 16:24:47](https://news.ycombinator.com/item?id=41581942) - [RabbitMQ 4.0 Released](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0)
 * [2024-09-18, 16:23:37](https://news.ycombinator.com/item?id=41581923) - [Twitter shut off API access; users volunteering their own data for an open API](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users)
 * [2024-09-18, 16:08:04](https://news.ycombinator.com/item?id=41581687) - [CUNY paid Oracle $600M for its HR software (2013)](http://pscbc.blogspot.com/2013/03/cuny-first-computer-system-to-aid.html)
@@ -25,11 +27,9 @@
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Independent directors of 23andMe resign from board](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
-* [2024-09-16, 13:53:09](https://news.ycombinator.com/item?id=41556088) - [Show HN: Sol – A de-minifier for shell programs](https://github.com/noperator/sol)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
 * [2024-09-16, 08:19:16](https://news.ycombinator.com/item?id=41553922) - [Holding a Program in One's Head (2007)](https://paulgraham.com/head.html)
 * [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
-* [2024-09-14, 04:14:56](https://news.ycombinator.com/item?id=41537426) - [How Raw sockets behave differently in macOS and Linux](https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/)
 
 ## [Archives](archives/index.md)
 

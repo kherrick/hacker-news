@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
@@ -11,6 +12,7 @@
 * [2024-09-18, 16:50:09](https://news.ycombinator.com/item?id=41582278) - [Senate Vote Tomorrow Could Give Helping Hand to Patent Trolls](https://www.eff.org/deeplinks/2024/09/senate-vote-tomorrow-could-give-helping-hand-patent-trolls)
 * [2024-09-18, 16:49:20](https://news.ycombinator.com/item?id=41582267) - [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
 * [2024-09-18, 16:48:37](https://news.ycombinator.com/item?id=41582254) - [Show HN: Selectric – macOS Search for Gmail, Outlook, Drive, Slack](https://selectric.io/)
+* [2024-09-18, 16:42:48](https://news.ycombinator.com/item?id=41582180) - [Llama 3.1 Omni Model](https://github.com/ictnlp/LLaMA-Omni)
 * [2024-09-18, 16:24:47](https://news.ycombinator.com/item?id=41581942) - [RabbitMQ 4.0 Released](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0)
 * [2024-09-18, 16:23:37](https://news.ycombinator.com/item?id=41581923) - [Twitter shut off API access; users volunteering their own data for an open API](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users)
 * [2024-09-18, 16:12:47](https://news.ycombinator.com/item?id=41581760) - [Bankrupt Trucker Yellow Loses Ruling over $6.5B in Pension Debts](https://www.bloomberg.com/news/articles/2024-09-17/trucker-yellow-loses-ruling-over-6-5-billion-in-pension-debts)
