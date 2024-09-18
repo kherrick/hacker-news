@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
 * [2024-09-18, 19:37:28](https://news.ycombinator.com/item?id=41584486) - [LinkedIn is now using everyone's content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
+* [2024-09-18, 19:11:08](https://news.ycombinator.com/item?id=41584180) - [IBM is quietly axing jobs, source says](https://www.theregister.com/2024/09/18/ibm_job_cuts/)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 * [2024-09-18, 18:29:12](https://news.ycombinator.com/item?id=41583689) - [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
 * [2024-09-18, 18:27:38](https://news.ycombinator.com/item?id=41583666) - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)

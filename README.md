@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-18, 19:37:28](https://news.ycombinator.com/item?id=41584486) - [LinkedIn is now using everyone's content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
+* [2024-09-18, 19:11:08](https://news.ycombinator.com/item?id=41584180) - [IBM is quietly axing jobs, source says](https://www.theregister.com/2024/09/18/ibm_job_cuts/)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 * [2024-09-18, 18:29:12](https://news.ycombinator.com/item?id=41583689) - [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
@@ -13,7 +14,6 @@
 * [2024-09-18, 16:49:20](https://news.ycombinator.com/item?id=41582267) - [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
 * [2024-09-18, 16:42:48](https://news.ycombinator.com/item?id=41582180) - [Llama 3.1 Omni Model](https://github.com/ictnlp/LLaMA-Omni)
 * [2024-09-18, 16:24:47](https://news.ycombinator.com/item?id=41581942) - [RabbitMQ 4.0 Released](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0)
-* [2024-09-18, 16:20:32](https://news.ycombinator.com/item?id=41581877) - [Compile and Run C in JavaScript](https://bun.sh/blog/compile-and-run-c-in-js)
 * [2024-09-18, 15:58:04](https://news.ycombinator.com/item?id=41581504) - [Valkey 8.0.0 Is Out](https://github.com/valkey-io/valkey/releases/tag/8.0.0)
 * [2024-09-18, 15:56:27](https://news.ycombinator.com/item?id=41581480) - [Moshi: A speech-text foundation model for real time dialogue](https://github.com/kyutai-labs/moshi)
 * [2024-09-18, 14:55:45](https://news.ycombinator.com/item?id=41580502) - [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
