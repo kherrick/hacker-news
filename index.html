@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41580073">
+          <h3>
+            <a
+              class="item"
+              href="https://www.roadandtrack.com/news/a62244677/cobb-tuning-epa-2-point-9-million-dollar-fine-defeat-devices/"
+              >Cobb Tuning Hit with $2.9M Fine over Emissions Defeat Devices</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-18 @ 14:21:42</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41580073"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41579852">
           <h3>
             <a
@@ -142,13 +163,235 @@
             <h4>
               <span>2024-09-18 @ 14:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41579852"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41579777">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41579777"
+              >Launch HN: Cerebrium (YC W22) – Serverless Infrastructure
+              Platform for ML/AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-18 @ 13:54:54</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41579777"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We are Michael &amp; Jono, and we are building Cerebrium (<a
+                  href="https://www.cerebrium.ai"
+                  >https://www.cerebrium.ai</a
+                >), a serverless infrastructure platform for ML/AI applications
+                - we make it easy for engineers to build, deploy and scale AI
+                applications.
+              </p>
+              <p>
+                Initially, we’ve been hyper-focused on the inference side of
+                applications, but we’re working on expanding our functionality
+                to support training and data processing use cases—eventually
+                covering the full AI development lifecycle.
+              </p>
+              <p>
+                You can watch a quick loom video of us deploying:
+                <a
+                  href="https://www.loom.com/share/06947794b3bf4bb1bb21c87066dfcc66?sid=acd66bbe-2549-493c-bea4-552acfd1163d"
+                  >https://www.loom.com/share/06947794b3bf4bb1bb21c87066dfcc66?...</a
+                >
+              </p>
+              <p>How we got here:</p>
+              <p>
+                Jono and I led the technical team at our previous e-commerce
+                startup, which grew rapidly over a few years. As we scaled, we
+                were tasked with building out ML applications to make the
+                business more efficient. It was tough—every day felt like a
+                defeat. We found ourselves stitching together AWS Lambda,
+                Sagemaker, and Prefect jobs (this stack alone was enough to make
+                me want to give up). By the time we reached production, the
+                costs were too high to maintain. Getting these applications live
+                required a significant upfront investment of both time and
+                money, making it inaccessible for most startups and scale-ups to
+                attempt. We wanted to create something that would help us (and
+                others like us) implement ML/AI applications easily and
+                cost-effectively.
+              </p>
+              <p>The problem:</p>
+              <p>
+                There are a ton of challenges to tackle to realize our vision,
+                but we’ve initially focused on a few key ones:
+              </p>
+              <p>
+                1. GPUs are expensive – An A100 is 326 times the cost of a CPU,
+                and companies are using LLMs like they’re simple APIs.
+                Serverless instances solve this to an extent, but minimizing
+                cold starts is difficult.
+              </p>
+              <p>
+                2. Local development – Engineers need local development
+                environments to iterate quickly, but production-grade GPUs
+                aren’t available on consumer hardware. How can we make cloud
+                deployments feel as fast as just saving a file locally and
+                retrying?
+              </p>
+              <p>
+                3. Cost to experiment - To run experiments we had to spin up EC2
+                instances each day, recreate our environment and run scripts. It
+                was difficult to monitor logs, instance usage metrics as well as
+                run large processing jobs or scale endpoints without a
+                significant infrastructure investment. Additionally, we often
+                forget to switch off instances which cost us money!
+              </p>
+              <p>Our Approach</p>
+              <p>
+                We have three core areas that we are focused on which we believe
+                are the most important for any infrastructure platform:
+              </p>
+              <p>1. Performance:</p>
+              <p>
+                We have worked hard to get our added network latency &lt;50ms
+                and the cold start of our average workloads to 2-4 seconds. Here
+                are a few things we did to get our cold starts so low:
+              </p>
+              <p>
+                - Container Runtime: We built our own container runtime that
+                splits container images into two parts—metadata and data blobs.
+                Metadata provides the file structure, while the actual data
+                blobs are fetched on-demand. This allows containers to start
+                before the full image is downloaded. In the background, we
+                prefetch the remaining blobs.
+              </p>
+              <p>
+                - Caching: Once an image is on a machine, it’s cached for future
+                use. This makes subsequent container startups much faster. We
+                also intelligently route requests to machines where the image is
+                already cached.
+              </p>
+              <p>
+                - Efficient Inference: We route requests to the optimal
+                machines, prioritizing low-latency and high-throughput
+                performance. If no containers are immediately available, we
+                efficiently queue the requests through our task scheduling
+                system.
+              </p>
+              <p>
+                - Distributed Storage Cache: One of the most resource-intensive
+                parts of AI workloads is loading models into VRAM. We use NVME
+                drives (which are much faster than network volumes), as close as
+                possible to the machines and we orchestrate workloads to nodes
+                that already contain the necessary model weights where possible.
+              </p>
+              <p>2. Developer Experience</p>
+              <p>
+                We built Cerebrium to help developers iterate as quickly as
+                possible by streamlining the entire build and deployment
+                process.
+              </p>
+              <p>
+                To get build times as low as possible, we use high-performance
+                machines and cache layers where possible. We've reduced
+                first-time build times to an average of 2 minutes and 24
+                seconds, with subsequent builds completing in just 19 seconds.
+              </p>
+              <p>
+                We also offer a wide range of GPU types—over 8 different
+                options—so you can easily test performance and cost efficiency
+                by adjusting a single line in your configuration file.
+              </p>
+              <p>
+                To reduce friction, we’ve kept things simple. There are no
+                custom Python decorators, no Cerebrium specific syntax to learn.
+                You just add a .toml file to define your hardware requirements
+                and environment settings. This makes migrating onto or off our
+                platform just as easy as migrating off. We aim to impress you
+                enough that you will want to stay.
+              </p>
+              <p>3. Stability</p>
+              <p>
+                This is arguably more important than the first two areas - no
+                one wants to get an email at 11pm at night or on a Saturday that
+                their application is down or degraded. Since April, we’ve
+                maintained 99.999% uptime. We have redundancies in place,
+                monitoring, alerts, and a team that covers all time zones to
+                resolve any issues quickly.
+              </p>
+              <p>Why Is This Hard?</p>
+              <p>
+                Building Cerebrium has been challenging because it involves
+                solving multiple interconnected problems. It requires
+                optimization at every step—from efficiently splitting images to
+                fetching data on-demand without introducing latency, handling
+                distributed caching, optimizing our network stack, and ensuring
+                redundancies, all while holding true to the three areas
+                mentioned above.
+              </p>
+              <p>Pricing:</p>
+              <p>
+                We charge you exactly for the resources you need and only charge
+                you when your code is running ie: usage-based. For example, if
+                you specify you need 1 A100 GPU, with 2 CPUs and 12 GB of RAM we
+                charge you exactly for that and not a full A100 (12 CPU’s and
+                148GB of memory)
+              </p>
+              <p>
+                You can see more about our pricing here:
+                <a href="http://www.cerebrium.ai/pricing"
+                  >http://www.cerebrium.ai/pricing</a
+                >
+              </p>
+              <p>What’s Next?</p>
+              <p>
+                We're builders too, and we know how crucial support can be when
+                you're working on something new. Here's what we've put together
+                to support teams like yours:
+              </p>
+              <p>
+                - $30 in free credit to start exploring. If you're onto
+                something interesting but need more runway, just give us a shout
+                - we’d be happy to extend that for compelling use-cases.
+              </p>
+              <p>
+                - We have worked hard on our docs to make onboarding easy as
+                well as have a very elaborate Github repo covering AI voice
+                agents, LLM optimizations and much more.
+              </p>
+              <p>
+                Docs:
+                <a
+                  href="https://docs.cerebrium.ai/cerebrium/getting-started/introduction"
+                  >https://docs.cerebrium.ai/cerebrium/getting-started/introduc...</a
+                >
+              </p>
+              <p>
+                Github Examples:
+                <a href="https://github.com/CerebriumAI/examples/tree/master"
+                  >https://github.com/CerebriumAI/examples/tree/master</a
+                >
+              </p>
+              <p>
+                If you have a question or hit a snag, you can directly reach out
+                to the engineers who built the platform—we’re here to help!
+                We’ve also set up Slack and Discord communities where you can
+                connect with other creators, share experiences, ask for advice,
+                or just chat with folks building cool things.
+              </p>
+              <p>
+                We're looking forward to seeing what you all build and please
+                give us feedback on what you would like us to improve/add
+              </p>
+            </div>
           </section>
         </section>
         <section id="41579517">
@@ -162,7 +405,7 @@
             <h4>
               <span>2024-09-18 @ 13:34:09</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41579517"
                   >Comments</a
@@ -184,32 +427,30 @@
             <h4>
               <span>2024-09-18 @ 13:17:35</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41579355"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="41579011">
+        <section id="41578752">
           <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/"
-              >Crypto bros wrested Flappy Bird from its creator</a
+            <a class="item" href="https://joinpeertube.org/news/release-6.3"
+              >PeerTube 6.3</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-09-18 @ 12:42:17</span
+              <span>2024-09-18 @ 12:13:18</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41579011"
+                ><a href="https://news.ycombinator.com/item?id=41578752"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -226,11 +467,11 @@
             <h4>
               <span>2024-09-18 @ 11:41:55</span
               ><span class="points-container"
-                >Points: <span class="points">457</span></span
+                >Points: <span class="points">485</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41578483"
                   >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -248,29 +489,9 @@
             <h4>
               <span>2024-09-18 @ 11:37:09</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41578446"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41578274">
-          <h3>
-            <a class="item" href="https://github.com/Telemaco019/kubesafe"
-              >Kubesafe: Never run Kubernetes commands on the wrong cluster
-              again</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-18 @ 11:17:13</span
-              ><span class="points-container"
-                >Points: <span class="points">4</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41578274"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
@@ -289,11 +510,11 @@
             <h4>
               <span>2024-09-18 @ 08:16:05</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41577156"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -308,11 +529,11 @@
             <h4>
               <span>2024-09-18 @ 02:59:34</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">311</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41575323"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -350,11 +571,11 @@
             <h4>
               <span>2024-09-18 @ 01:38:01</span
               ><span class="points-container"
-                >Points: <span class="points">1090</span></span
+                >Points: <span class="points">1103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41574844"
                   >Comments</a
-                ><span class="descendants">: 486</span></span
+                ><span class="descendants">: 499</span></span
               >
             </h4>
           </section>
@@ -387,7 +608,7 @@
             <h4>
               <span>2024-09-17 @ 23:09:36</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41573866"
                   >Comments</a
@@ -409,7 +630,7 @@
             <h4>
               <span>2024-09-17 @ 22:26:58</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41573550"
                   >Comments</a
@@ -430,7 +651,7 @@
             <h4>
               <span>2024-09-17 @ 21:31:49</span
               ><span class="points-container"
-                >Points: <span class="points">509</span></span
+                >Points: <span class="points">515</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41573034"
                   >Comments</a
@@ -451,11 +672,11 @@
             <h4>
               <span>2024-09-17 @ 19:56:39</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41571971"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -472,7 +693,7 @@
             <h4>
               <span>2024-09-17 @ 19:46:05</span
               ><span class="points-container"
-                >Points: <span class="points">492</span></span
+                >Points: <span class="points">494</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41571862"
                   >Comments</a
@@ -513,7 +734,7 @@
             <h4>
               <span>2024-09-17 @ 17:21:41</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41570163"
                   >Comments</a
@@ -533,7 +754,7 @@
             <h4>
               <span>2024-09-17 @ 16:36:23</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41569557"
                   >Comments</a
@@ -542,30 +763,10 @@
             </h4>
           </section>
         </section>
-        <section id="41567262">
-          <h3>
-            <a class="item" href="https://github.com/phiresky/ripgrep-all"
-              >Rga: Ripgrep, but also search in PDFs, E-Books, Office documents,
-              zip, etc.</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-17 @ 13:11:31</span
-              ><span class="points-container"
-                >Points: <span class="points">466</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41567262"
-                  >Comments</a
-                ><span class="descendants">: 53</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41556088">
           <h3>
             <a class="item" href="https://github.com/noperator/sol"
-              >Show HN: sol – A de-minifier for shell programs</a
+              >Show HN: Sol – A de-minifier for shell programs</a
             >
           </h3>
           <section>
@@ -576,7 +777,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41556088"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -607,6 +808,25 @@
             </div>
           </section>
         </section>
+        <section id="41555232">
+          <h3>
+            <a class="item" href="https://adam-mcdaniel.github.io/dune-website/"
+              >The Dune Shell</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-16 @ 12:12:29</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41555232"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41554193">
           <h3>
             <a class="item" href="https://github.com/react-R/reactR"
@@ -621,7 +841,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41554193"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -638,11 +858,11 @@
             <h4>
               <span>2024-09-16 @ 05:11:00</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41552952"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -657,32 +877,11 @@
             <h4>
               <span>2024-09-15 @ 20:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">633</span></span
+                >Points: <span class="points">640</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41550211"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41548547">
-          <h3>
-            <a
-              class="item"
-              href="https://www.quantitativo.com/p/the-devil-is-in-the-details"
-              >Implement algorithms that minimize slippage</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-15 @ 16:45:20</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41548547"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 177</span></span
               >
             </h4>
           </section>
@@ -699,11 +898,11 @@
             <h4>
               <span>2024-09-14 @ 04:14:56</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41537426"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -733,7 +932,7 @@
           <h3>
             <a
               class="item"
-              href="https://www.os2museum.com/wp/netware-nfs-gateway-1-1/"
+              href="https://web.archive.org/web/20240913230211/https://www.os2museum.com/wp/netware-nfs-gateway-1-1/"
               >NetWare NFS Gateway 1.1</a
             >
           </h3>
