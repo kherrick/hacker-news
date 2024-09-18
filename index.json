@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-09-18, 12:13:18",
-      "https://news.ycombinator.com/item?id=41578752"
-    ],
-    [
-      "PeerTube 6.3",
-      "https://joinpeertube.org/news/release-6.3"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 11:41:55",
       "https://news.ycombinator.com/item?id=41578483"
     ],
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2024-09-17, 21:31:49",
-      "https://news.ycombinator.com/item?id=41573034"
+      "2024-09-16, 18:52:22",
+      "https://news.ycombinator.com/item?id=41559246"
     ],
     [
-      "Independent directors of 23andMe resign from board",
-      "https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/"
+      "Putting Code on a Nerves Device",
+      "https://underjord.io/putting-code-on-a-nerves-device.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Holding a Program in One's Head (2007)",
       "https://paulgraham.com/head.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 14:05:03",
+      "https://news.ycombinator.com/item?id=41547596"
+    ],
+    [
+      "OpenTelemetry and vendor neutrality: how to build an observability strategy",
+      "https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/"
     ]
   ]
 ]
