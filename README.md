@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-18, 02:59:34](https://news.ycombinator.com/item?id=41575323) - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
+* [2024-09-18, 02:56:06](https://news.ycombinator.com/item?id=41575300) - [Asgard launches world's first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-18, 01:16:48](https://news.ycombinator.com/item?id=41574700) - [Exploring pre-1990 versions of wc(1) (2023)](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
 * [2024-09-18, 01:00:42](https://news.ycombinator.com/item?id=41574586) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
@@ -11,7 +12,6 @@
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
 * [2024-09-17, 19:31:40](https://news.ycombinator.com/item?id=41571706) - [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
-* [2024-09-17, 19:07:23](https://news.ycombinator.com/item?id=41571454) - [Krazam: High Agency Individual Contributor [video]](https://www.youtube.com/watch?v=dLTUqPue9sQ)
 * [2024-09-17, 18:04:31](https://news.ycombinator.com/item?id=41570708) - [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
 * [2024-09-17, 17:21:41](https://news.ycombinator.com/item?id=41570163) - [OpenTelemetry Tracing in < 200 lines of code](https://jeremymorrell.dev/blog/minimal-js-tracing/)
 * [2024-09-17, 16:36:23](https://news.ycombinator.com/item?id=41569557) - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
