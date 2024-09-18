@@ -30,6 +30,7 @@
 * [2024-09-15, 17:02:43](https://news.ycombinator.com/item?id=41548677) - [U.S. fleet welcomes newest USS New Jersey, the first gender-neutral submarine](https://www.northjersey.com/story/news/2024/09/14/uss-new-jersey-the-first-gender-neutral-submarine-joins-u-s-fleet/75210209007/)
 * [2024-09-15, 17:00:51](https://news.ycombinator.com/item?id=41548663) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-09-15, 16:53:01](https://news.ycombinator.com/item?id=41548601) - [How to Make Millions as a Professional Whistleblower](https://www.gq.com/story/how-to-make-millions-as-a-professional-whistleblower)
+* [2024-09-15, 16:45:20](https://news.ycombinator.com/item?id=41548547) - [Implement algorithms that minimize slippage](https://www.quantitativo.com/p/the-devil-is-in-the-details)
 * [2024-09-15, 16:39:48](https://news.ycombinator.com/item?id=41548515) - [Human drivers keep rear-ending Waymos](https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/)
 * [2024-09-15, 16:38:47](https://news.ycombinator.com/item?id=41548510) - [Show HN: Server Uptime](https://server-uptime.pw/)
 * [2024-09-15, 16:33:47](https://news.ycombinator.com/item?id=41548474) - [Linux 6.11 Released](https://lwn.net/Articles/990307/)
