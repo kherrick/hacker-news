@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 09:43:32](https://news.ycombinator.com/item?id=41577717) - [Show HN: Free AI tailored workout generator](https://www.workoutgenerator.fit)
 * [2024-09-18, 04:50:22](https://news.ycombinator.com/item?id=41575908) - [26-Year-Old EY Employee Succumbs to 'Work Stress' Four Months After Joining](https://old.reddit.com/r/CharteredAccountants/comments/1fj08v9/ey_employee_died_of_work_pressure)
 * [2024-09-18, 02:59:34](https://news.ycombinator.com/item?id=41575323) - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 * [2024-09-18, 02:56:06](https://news.ycombinator.com/item?id=41575300) - [Asgard launches world's first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
@@ -19,7 +20,6 @@
 * [2024-09-17, 15:04:09](https://news.ycombinator.com/item?id=41568343) - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
 * [2024-09-17, 13:15:57](https://news.ycombinator.com/item?id=41567299) - [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
 * [2024-09-17, 13:11:31](https://news.ycombinator.com/item?id=41567262) - [Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.](https://github.com/phiresky/ripgrep-all)
-* [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The centrality of stupidity in mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-16, 13:53:09](https://news.ycombinator.com/item?id=41556088) - [Show HN: sol – A de-minifier for shell programs](https://github.com/noperator/sol)
 * [2024-09-16, 09:11:19](https://news.ycombinator.com/item?id=41554193) - [React for R](https://github.com/react-R/reactR)
