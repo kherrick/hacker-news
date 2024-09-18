@@ -28,8 +28,8 @@
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [STORM: Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
 * [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 * [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
+* [2024-09-13, 16:08:20](https://news.ycombinator.com/item?id=41532516) - [John Peralta Explodes Historic Technology into Three-Dimensional Diagrams](https://www.thisiscolossal.com/2024/09/john-peralta-exploded-technology/)
 * [2024-09-13, 06:40:08](https://news.ycombinator.com/item?id=41528598) - [Scrolling Text Display](http://www.technoblogy.com/show?4WX8)
-* [2024-09-12, 19:22:15](https://news.ycombinator.com/item?id=41524517) - [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)
 
 ## [Archives](archives/index.md)
 
