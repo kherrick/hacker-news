@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-18, 14:21:42",
+      "https://news.ycombinator.com/item?id=41580073"
+    ],
+    [
+      "Cobb Tuning Hit with $2.9M Fine over Emissions Defeat Devices",
+      "https://www.roadandtrack.com/news/a62244677/cobb-tuning-epa-2-point-9-million-dollar-fine-defeat-devices/"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 14:02:00",
       "https://news.ycombinator.com/item?id=41579852"
     ],
     [
       "Tupperware files for bankruptcy as its colorful containers lose relevance",
       "https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 13:54:54",
+      "https://news.ycombinator.com/item?id=41579777"
+    ],
+    [
+      "Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI",
+      "https://news.ycombinator.com/item?id=41579777"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-09-18, 12:42:17",
-      "https://news.ycombinator.com/item?id=41579011"
+      "2024-09-18, 12:13:18",
+      "https://news.ycombinator.com/item?id=41578752"
     ],
     [
-      "Crypto bros wrested Flappy Bird from its creator",
-      "https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/"
+      "PeerTube 6.3",
+      "https://joinpeertube.org/news/release-6.3"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Knowledge graphs using Ollama and Embeddings to answer and visualizing queries",
       "https://github.com/punnerud/Local_Knowledge_Graph"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 11:17:13",
-      "https://news.ycombinator.com/item?id=41578274"
-    ],
-    [
-      "Kubesafe: Never run Kubernetes commands on the wrong cluster again",
-      "https://github.com/Telemaco019/kubesafe"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2024-09-17, 13:11:31",
-      "https://news.ycombinator.com/item?id=41567262"
-    ],
-    [
-      "Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.",
-      "https://github.com/phiresky/ripgrep-all"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 13:53:09",
       "https://news.ycombinator.com/item?id=41556088"
     ],
     [
-      "Show HN: sol – A de-minifier for shell programs",
+      "Show HN: Sol – A de-minifier for shell programs",
       "https://github.com/noperator/sol"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 12:12:29",
+      "https://news.ycombinator.com/item?id=41555232"
+    ],
+    [
+      "The Dune Shell",
+      "https://adam-mcdaniel.github.io/dune-website/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2024-09-15, 16:45:20",
-      "https://news.ycombinator.com/item?id=41548547"
-    ],
-    [
-      "Implement algorithms that minimize slippage",
-      "https://www.quantitativo.com/p/the-devil-is-in-the-details"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 04:14:56",
       "https://news.ycombinator.com/item?id=41537426"
     ],
@@ -286,7 +286,7 @@
     ],
     [
       "NetWare NFS Gateway 1.1",
-      "https://www.os2museum.com/wp/netware-nfs-gateway-1-1/"
+      "https://web.archive.org/web/20240913230211/https://www.os2museum.com/wp/netware-nfs-gateway-1-1/"
     ]
   ],
   [
