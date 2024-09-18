@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 14:21:42](https://news.ycombinator.com/item?id=41580073) - [Cobb Tuning Hit with $2.9M Fine over Emissions Defeat Devices](https://www.roadandtrack.com/news/a62244677/cobb-tuning-epa-2-point-9-million-dollar-fine-defeat-devices/)
 * [2024-09-18, 14:02:00](https://news.ycombinator.com/item?id=41579852) - [Tupperware files for bankruptcy as its colorful containers lose relevance](https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/)
+* [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
 * [2024-09-18, 13:34:09](https://news.ycombinator.com/item?id=41579517) - [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
 * [2024-09-18, 13:17:35](https://news.ycombinator.com/item?id=41579355) - [AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds](https://www.cbc.ca/news/health/ai-health-care-1.7322671)
 * [2024-09-18, 12:42:17](https://news.ycombinator.com/item?id=41579011) - [Crypto bros wrested Flappy Bird from its creator](https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/)
+* [2024-09-18, 12:13:18](https://news.ycombinator.com/item?id=41578752) - [PeerTube 6.3](https://joinpeertube.org/news/release-6.3)
 * [2024-09-18, 11:55:54](https://news.ycombinator.com/item?id=41578599) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 * [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 11:37:09](https://news.ycombinator.com/item?id=41578446) - [Knowledge graphs using Ollama and Embeddings to answer and visualizing queries](https://github.com/punnerud/Local_Knowledge_Graph)
