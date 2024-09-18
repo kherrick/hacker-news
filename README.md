@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
 * [2024-09-18, 16:50:09](https://news.ycombinator.com/item?id=41582278) - [Senate Vote Tomorrow Could Give Helping Hand to Patent Trolls](https://www.eff.org/deeplinks/2024/09/senate-vote-tomorrow-could-give-helping-hand-patent-trolls)
@@ -24,7 +25,6 @@
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Independent directors of 23andMe resign from board](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
-* [2024-09-16, 18:52:22](https://news.ycombinator.com/item?id=41559246) - [Putting Code on a Nerves Device](https://underjord.io/putting-code-on-a-nerves-device.html)
 * [2024-09-16, 13:53:09](https://news.ycombinator.com/item?id=41556088) - [Show HN: Sol – A de-minifier for shell programs](https://github.com/noperator/sol)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
 * [2024-09-16, 08:19:16](https://news.ycombinator.com/item?id=41553922) - [Holding a Program in One's Head (2007)](https://paulgraham.com/head.html)
