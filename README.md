@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
 * [2024-09-18, 16:50:09](https://news.ycombinator.com/item?id=41582278) - [Senate Vote Tomorrow Could Give Helping Hand to Patent Trolls](https://www.eff.org/deeplinks/2024/09/senate-vote-tomorrow-could-give-helping-hand-patent-trolls)
 * [2024-09-18, 16:49:20](https://news.ycombinator.com/item?id=41582267) - [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
 * [2024-09-18, 16:48:37](https://news.ycombinator.com/item?id=41582254) - [Show HN: Selectric – macOS Search for Gmail, Outlook, Drive, Slack](https://selectric.io/)
 * [2024-09-18, 16:24:47](https://news.ycombinator.com/item?id=41581942) - [RabbitMQ 4.0 Released](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0)
 * [2024-09-18, 16:23:37](https://news.ycombinator.com/item?id=41581923) - [Twitter shut off API access; users volunteering their own data for an open API](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users)
-* [2024-09-18, 16:12:47](https://news.ycombinator.com/item?id=41581760) - [Bankrupt Trucker Yellow Loses Ruling over $6.5B in Pension Debts](https://www.bloomberg.com/news/articles/2024-09-17/trucker-yellow-loses-ruling-over-6-5-billion-in-pension-debts)
 * [2024-09-18, 16:08:04](https://news.ycombinator.com/item?id=41581687) - [CUNY paid Oracle $600M for its HR software (2013)](http://pscbc.blogspot.com/2013/03/cuny-first-computer-system-to-aid.html)
 * [2024-09-18, 15:58:04](https://news.ycombinator.com/item?id=41581504) - [Valkey 8.0.0 Is Out](https://github.com/valkey-io/valkey/releases/tag/8.0.0)
 * [2024-09-18, 15:56:27](https://news.ycombinator.com/item?id=41581480) - [Moshi: A speech-text foundation model for real time dialogue](https://github.com/kyutai-labs/moshi)
