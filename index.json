@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-09-18, 19:11:08",
-      "https://news.ycombinator.com/item?id=41584180"
-    ],
-    [
-      "IBM is quietly axing jobs, source says",
-      "https://www.theregister.com/2024/09/18/ibm_job_cuts/"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 18:41:46",
       "https://news.ycombinator.com/item?id=41583847"
     ],
@@ -207,6 +197,16 @@
     [
       "Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI",
       "https://news.ycombinator.com/item?id=41579777"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 13:34:09",
+      "https://news.ycombinator.com/item?id=41579517"
+    ],
+    [
+      "Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks",
+      "https://github.com/nteract/papermill"
     ]
   ],
   [
