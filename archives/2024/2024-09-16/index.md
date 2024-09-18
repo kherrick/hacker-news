@@ -65,6 +65,7 @@
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [Storm Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
 * [2024-09-16, 06:29:48](https://news.ycombinator.com/item?id=41553320) - [Revisiting Overture's Global Geospatial Datasets](https://tech.marksblogg.com/overture-2024-revisit.html)
 * [2024-09-16, 05:30:08](https://news.ycombinator.com/item?id=41553031) - [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)
+* [2024-09-16, 05:11:00](https://news.ycombinator.com/item?id=41552952) - [Errors from `Close`](https://blog.sunfishcode.online/errors-from-close/)
 * [2024-09-16, 04:36:09](https://news.ycombinator.com/item?id=41552804) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 04:03:25](https://news.ycombinator.com/item?id=41552642) - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
 * [2024-09-16, 03:10:26](https://news.ycombinator.com/item?id=41552403) - [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
