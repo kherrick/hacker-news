@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-17, 22:44:12](https://news.ycombinator.com/item?id=41573666) - [Zep AI (YC W24) Is Hiring Standout AI Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/llCvskY-ai-engineer)
+* [2024-09-18, 01:00:42](https://news.ycombinator.com/item?id=41574586) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+* [2024-09-17, 22:26:58](https://news.ycombinator.com/item?id=41573550) - [Reports of the Death of Dental Cavities Are Greatly Exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
 * [2024-09-17, 22:14:21](https://news.ycombinator.com/item?id=41573454) - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
-* [2024-09-17, 21:53:42](https://news.ycombinator.com/item?id=41573256) - [A Word about Systemd](https://skarnet.org/software/systemd.html)
-* [2024-09-17, 21:18:07](https://news.ycombinator.com/item?id=41572851) - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
+* [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Entire Independent Board of Directors of 23andMe Resigns](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
 * [2024-09-17, 19:56:39](https://news.ycombinator.com/item?id=41571971) - [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
@@ -23,13 +23,13 @@
 * [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The centrality of stupidity in mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-17, 10:45:30](https://news.ycombinator.com/item?id=41566287) - [Signatures of gravitational atoms from black hole mergers](https://physics.aps.org/articles/v17/133)
 * [2024-09-17, 10:19:33](https://news.ycombinator.com/item?id=41566155) - [Race conditions in Linux Kernel perf events](https://binarygecko.com/race-conditions-in-linux-kernel-perf-events/)
-* [2024-09-17, 10:12:39](https://news.ycombinator.com/item?id=41566122) - [A Curried Composition Puzzle](https://franklin.dyer.me/post/212)
 * [2024-09-17, 07:28:12](https://news.ycombinator.com/item?id=41565239) - [In 1926, TV Was Mechanical](https://spectrum.ieee.org/first-tv)
-* [2024-09-17, 03:28:55](https://news.ycombinator.com/item?id=41563801) - [The theft of a Churchill portrait](https://thewalrus.ca/churchill-portrait/)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [STORM: Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
 * [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 * [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
+* [2024-09-13, 06:40:08](https://news.ycombinator.com/item?id=41528598) - [Scrolling Text Display](http://www.technoblogy.com/show?4WX8)
+* [2024-09-12, 19:22:15](https://news.ycombinator.com/item?id=41524517) - [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)
 
 ## [Archives](archives/index.md)
 
