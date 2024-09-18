@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 23:16:49](https://news.ycombinator.com/item?id=41586676) - [Hetzner Connectivity Issues Due to Sanction Busting Activities](https://blog.cloud66.com/hetzner-connectivity-issues-due-to-sanction-busting-activities)
 * [2024-09-18, 22:19:05](https://news.ycombinator.com/item?id=41586203) - [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
 * [2024-09-18, 21:59:42](https://news.ycombinator.com/item?id=41586031) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
 * [2024-09-18, 21:03:07](https://news.ycombinator.com/item?id=41585449) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
@@ -20,15 +21,14 @@
 * [2024-09-18, 14:44:00](https://news.ycombinator.com/item?id=41580326) - [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
 * [2024-09-18, 14:30:21](https://news.ycombinator.com/item?id=41580166) - [Bento: Jupyter Notebooks at Meta](https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-notebooks-at-meta/)
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
-* [2024-09-18, 13:34:09](https://news.ycombinator.com/item?id=41579517) - [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
 * [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
-* [2024-09-18, 11:37:09](https://news.ycombinator.com/item?id=41578446) - [Knowledge graphs using Ollama and Embeddings to answer and visualizing queries](https://github.com/punnerud/Local_Knowledge_Graph)
 * [2024-09-18, 08:16:05](https://news.ycombinator.com/item?id=41577156) - [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-16, 18:17:00](https://news.ycombinator.com/item?id=41558883) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
 * [2024-09-16, 11:18:55](https://news.ycombinator.com/item?id=41554899) - [Text makeup – a tool to decode and explore Unicode strings](https://text.makeup)
 * [2024-09-15, 14:05:03](https://news.ycombinator.com/item?id=41547596) - [OpenTelemetry and vendor neutrality: how to build an observability strategy](https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/)
+* [2024-09-14, 14:56:30](https://news.ycombinator.com/item?id=41540207) - [Have you ever seen soldering THIS close? [video]](https://www.youtube.com/watch?v=m3Ny3j5nH0U)
 * [2024-09-14, 13:57:14](https://news.ycombinator.com/item?id=41539841) - [A overview of binaries, ELF, and NoMMU on Linux](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
 
 ## [Archives](archives/index.md)
