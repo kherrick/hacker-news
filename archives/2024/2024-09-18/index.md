@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 15:43:45](https://news.ycombinator.com/item?id=41581249) - [Home solar energy systems exploded in several areas of Beirut](https://abcnews.go.com/International/wireStory/lebanons-official-news-agency-reports-home-solar-energy-113809042)
+* [2024-09-18, 15:33:23](https://news.ycombinator.com/item?id=41581068) - [Fine-Tuning LLMs to 1.58bit](https://huggingface.co/blog/1_58_llm_extreme_quantization)
 * [2024-09-18, 15:19:52](https://news.ycombinator.com/item?id=41580853) - [Hezbollah hand-held radios explode, killing three, one day after pager blasts](https://www.reuters.com/world/hezbollah-pager-explosions-live-2024-09-17/)
 * [2024-09-18, 15:03:08](https://news.ycombinator.com/item?id=41580611) - [Scientists discover how many chemicals from food packaging enter our bodies](https://www.washingtonpost.com/climate-environment/2024/09/16/more-than-3000-chemicals-food-packaging-have-infiltrated-our-bodies/)
 * [2024-09-18, 14:55:45](https://news.ycombinator.com/item?id=41580502) - [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
