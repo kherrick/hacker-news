@@ -32,6 +32,7 @@
 * [2024-09-14, 16:59:24](https://news.ycombinator.com/item?id=41541028) - [Testing the Firefox Alternatives](https://tommorris.org/posts/2024/testing-the-firefox-alternatives/)
 * [2024-09-14, 16:52:49](https://news.ycombinator.com/item?id=41540984) - [Founder Mode, hackers, and being bored by tech](https://ianbetteridge.com/2024/09/14/founder-mode-hackers-and-being-bored-by-tech/)
 * [2024-09-14, 16:49:10](https://news.ycombinator.com/item?id=41540950) - [One in five genetics papers contains errors thanks to Microsoft Excel (2016)](https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
+* [2024-09-14, 16:43:47](https://news.ycombinator.com/item?id=41540922) - [Show HN: Tipsy simulated tic tac toe](https://zkarimi.com/drunk-tac-toe/)
 * [2024-09-14, 16:41:04](https://news.ycombinator.com/item?id=41540902) - [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
 * [2024-09-14, 16:40:26](https://news.ycombinator.com/item?id=41540894) - [iPhone 16's A18 Pro chip outperforms the M1 chip](https://9to5mac.com/2024/09/14/iphone-16-pro-m1/)
 * [2024-09-14, 16:27:21](https://news.ycombinator.com/item?id=41540808) - [\"Design It Twice\"?](https://www.16elt.com/2024/09/14/design-it-twice/)
