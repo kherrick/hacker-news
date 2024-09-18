@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
 * [2024-09-18, 10:53:25](https://news.ycombinator.com/item?id=41578117) - [Tax the Rich – European Citizens' Initiative](https://www.tax-the-rich.eu)
+* [2024-09-18, 10:37:36](https://news.ycombinator.com/item?id=41578017) - [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
 * [2024-09-18, 09:43:32](https://news.ycombinator.com/item?id=41577717) - [Show HN: Free AI tailored workout generator](https://www.workoutgenerator.fit)
 * [2024-09-18, 09:08:44](https://news.ycombinator.com/item?id=41577522) - [Australia arrests dozens over app allegedly used by criminals worldwide](https://www.aljazeera.com/news/2024/9/18/australia-arrests-dozens-over-app-allegedly-used-by-criminals-worldwide)
 * [2024-09-18, 05:09:30](https://news.ycombinator.com/item?id=41576012) - [In unprecedented move, Ohio is funding construction of private religious schools](https://www.propublica.org/article/ohio-taxpayer-money-funding-private-religious-schools)
