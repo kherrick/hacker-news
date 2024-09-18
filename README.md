@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
+* [2024-09-18, 01:16:48](https://news.ycombinator.com/item?id=41574700) - [Exploring pre-1990 versions of wc(1) (2023)](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
 * [2024-09-18, 01:00:42](https://news.ycombinator.com/item?id=41574586) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-* [2024-09-17, 23:59:07](https://news.ycombinator.com/item?id=41574174) - [Browser-in-Browser](https://browser.rammerhead.org/)
 * [2024-09-17, 22:26:58](https://news.ycombinator.com/item?id=41573550) - [Reports of the Death of Dental Cavities Are Greatly Exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
 * [2024-09-17, 22:14:21](https://news.ycombinator.com/item?id=41573454) - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
 * [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Entire Independent Board of Directors of 23andMe Resigns](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
