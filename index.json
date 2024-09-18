@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-18, 11:41:55",
+      "https://news.ycombinator.com/item?id=41578483"
+    ],
+    [
+      "Why wordfreq will not be updated",
+      "https://github.com/rspeer/wordfreq/blob/master/SUNSET.md"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 10:37:36",
       "https://news.ycombinator.com/item?id=41578017"
     ],
     [
       "A bottle of water per email: the hidden environmental costs of using AI chatbots",
       "https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 08:16:05",
+      "https://news.ycombinator.com/item?id=41577156"
+    ],
+    [
+      "Gentle Guide to Self-Hosting",
+      "https://knhash.in/gentle-guide-to-self-hosting/"
     ]
   ],
   [
@@ -131,26 +151,6 @@
   ],
   [
     [
-      "2024-09-17, 16:35:29",
-      "https://news.ycombinator.com/item?id=41569544"
-    ],
-    [
-      "WonderWorld: Interactive 3D Scene Generation from a Single Image",
-      "https://kovenyu.com/wonderworld/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 15:04:09",
-      "https://news.ycombinator.com/item?id=41568343"
-    ],
-    [
-      "Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt",
-      "https://news.ycombinator.com/item?id=41568343"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 13:15:57",
       "https://news.ycombinator.com/item?id=41567299"
     ],
@@ -167,16 +167,6 @@
     [
       "Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.",
       "https://github.com/phiresky/ripgrep-all"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 11:15:42",
-      "https://news.ycombinator.com/item?id=41566446"
-    ],
-    [
-      "The centrality of stupidity in mathematics",
-      "https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The Lego Great Ball Contraption",
       "https://kottke.org/24/09/the-lego-great-ball-contraption"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 17:28:55",
+      "https://news.ycombinator.com/item?id=41533285"
+    ],
+    [
+      "NetWare NFS Gateway 1.1",
+      "https://www.os2museum.com/wp/netware-nfs-gateway-1-1/"
     ]
   ],
   [
