@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 15:19:52](https://news.ycombinator.com/item?id=41580853) - [Hezbollah hand-held radios explode, killing three, one day after pager blasts](https://www.reuters.com/world/hezbollah-pager-explosions-live-2024-09-17/)
 * [2024-09-18, 15:03:08](https://news.ycombinator.com/item?id=41580611) - [Scientists discover how many chemicals from food packaging enter our bodies](https://www.washingtonpost.com/climate-environment/2024/09/16/more-than-3000-chemicals-food-packaging-have-infiltrated-our-bodies/)
 * [2024-09-18, 14:55:45](https://news.ycombinator.com/item?id=41580502) - [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
+* [2024-09-18, 14:54:55](https://news.ycombinator.com/item?id=41580488) - [Amazon ordered a return to the office – but research says they'll backtrack](https://fortune.com/2024/09/18/amazon-andy-jassy-ordering-full-time-return-to-office-rto-research-backtrack/)
+* [2024-09-18, 14:44:00](https://news.ycombinator.com/item?id=41580326) - [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
 * [2024-09-18, 14:35:18](https://news.ycombinator.com/item?id=41580214) - [Walkie talkies explode across Lebanon a day after pager explosions](https://www.dailymail.co.uk/news/article-13864883/Lebanon-explosions-Hezbollah-communications-devices-detonate-country-pager-bomb.html)
 * [2024-09-18, 14:34:43](https://news.ycombinator.com/item?id=41580205) - [Hezbollah hand-held radios detonate across Lebanon, sources say](https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/)
+* [2024-09-18, 14:34:35](https://news.ycombinator.com/item?id=41580203) - [Ask HN: Is there any place on the internet capable of freedom of speech?](https://news.ycombinator.com/item?id=41580203)
+* [2024-09-18, 14:30:21](https://news.ycombinator.com/item?id=41580166) - [Bento: Jupyter Notebooks at Meta](https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-notebooks-at-meta/)
 * [2024-09-18, 14:21:42](https://news.ycombinator.com/item?id=41580073) - [Cobb Tuning Hit with $2.9M Fine over Emissions Defeat Devices](https://www.roadandtrack.com/news/a62244677/cobb-tuning-epa-2-point-9-million-dollar-fine-defeat-devices/)
 * [2024-09-18, 14:02:00](https://news.ycombinator.com/item?id=41579852) - [Tupperware files for bankruptcy as its colorful containers lose relevance](https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/)
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
