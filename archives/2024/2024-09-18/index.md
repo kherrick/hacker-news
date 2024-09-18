@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 10:53:25](https://news.ycombinator.com/item?id=41578117) - [Tax the Rich – European Citizens' Initiative](https://www.tax-the-rich.eu)
 * [2024-09-18, 10:37:36](https://news.ycombinator.com/item?id=41578017) - [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
 * [2024-09-18, 09:43:32](https://news.ycombinator.com/item?id=41577717) - [Show HN: Free AI tailored workout generator](https://www.workoutgenerator.fit)
 * [2024-09-18, 09:08:44](https://news.ycombinator.com/item?id=41577522) - [Australia arrests dozens over app allegedly used by criminals worldwide](https://www.aljazeera.com/news/2024/9/18/australia-arrests-dozens-over-app-allegedly-used-by-criminals-worldwide)
+* [2024-09-18, 08:16:05](https://news.ycombinator.com/item?id=41577156) - [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
 * [2024-09-18, 05:09:30](https://news.ycombinator.com/item?id=41576012) - [In unprecedented move, Ohio is funding construction of private religious schools](https://www.propublica.org/article/ohio-taxpayer-money-funding-private-religious-schools)
 * [2024-09-18, 04:50:22](https://news.ycombinator.com/item?id=41575908) - [26-Year-Old EY Employee Succumbs to 'Work Stress' Four Months After Joining](https://old.reddit.com/r/CharteredAccountants/comments/1fj08v9/ey_employee_died_of_work_pressure)
 * [2024-09-18, 03:18:17](https://news.ycombinator.com/item?id=41575424) - [Please stop – putting cookie pop-ups on your website (2022)](https://olivergrimsley.com/2022/03/04/please-stop-putting-cookie-pop-ups-on-your-website/)
