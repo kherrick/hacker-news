@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 22:19:05](https://news.ycombinator.com/item?id=41586203) - [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
 * [2024-09-18, 21:59:42](https://news.ycombinator.com/item?id=41586031) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
 * [2024-09-18, 21:03:07](https://news.ycombinator.com/item?id=41585449) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
 * [2024-09-18, 20:46:08](https://news.ycombinator.com/item?id=41585249) - [Cloudflare misidentifies Hetzner IPs as being located in Iran](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726)
@@ -20,7 +21,6 @@
 * [2024-09-18, 14:44:00](https://news.ycombinator.com/item?id=41580326) - [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
 * [2024-09-18, 14:30:21](https://news.ycombinator.com/item?id=41580166) - [Bento: Jupyter Notebooks at Meta](https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-notebooks-at-meta/)
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
-* [2024-09-18, 13:34:09](https://news.ycombinator.com/item?id=41579517) - [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
 * [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 11:37:09](https://news.ycombinator.com/item?id=41578446) - [Knowledge graphs using Ollama and Embeddings to answer and visualizing queries](https://github.com/punnerud/Local_Knowledge_Graph)
 * [2024-09-18, 08:16:05](https://news.ycombinator.com/item?id=41577156) - [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
