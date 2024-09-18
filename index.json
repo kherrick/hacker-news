@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-18, 16:23:37",
+      "https://news.ycombinator.com/item?id=41581923"
+    ],
+    [
+      "Twitter shut off API access; users volunteering their own data for an open API",
+      "https://omarshehata.substack.com/p/twitter-shut-off-api-access-users"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 16:12:47",
       "https://news.ycombinator.com/item?id=41581760"
     ],
@@ -37,6 +47,16 @@
     [
       "Valkey 8.0.0 Is Out",
       "https://github.com/valkey-io/valkey/releases/tag/8.0.0"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 15:56:27",
+      "https://news.ycombinator.com/item?id=41581480"
+    ],
+    [
+      "Moshi: A speech-text foundation model for real time dialogue",
+      "https://github.com/kyutai-labs/moshi"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-09-17, 19:56:39",
-      "https://news.ycombinator.com/item?id=41571971"
-    ],
-    [
-      "A Friendly Introduction to Assembly for High-Level Programmers",
-      "https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 19:46:05",
       "https://news.ycombinator.com/item?id=41571862"
     ],
     [
       "macOS Sequoia 15 may bypass DNS encryption",
       "https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 18:04:31",
-      "https://news.ycombinator.com/item?id=41570708"
-    ],
-    [
-      "GraalPy – A high-performance embeddable Python 3 runtime for Java",
-      "https://www.graalvm.org/python/"
     ]
   ],
   [
