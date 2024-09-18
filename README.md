@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 20:46:08](https://news.ycombinator.com/item?id=41585249) - [Cloudflare misidentifies Hetzner IPs as being located in Iran](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726)
 * [2024-09-18, 19:37:28](https://news.ycombinator.com/item?id=41584486) - [LinkedIn is now using everyone's content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
 * [2024-09-18, 19:11:08](https://news.ycombinator.com/item?id=41584180) - [IBM is quietly axing jobs, source says](https://www.theregister.com/2024/09/18/ibm_job_cuts/)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 * [2024-09-18, 18:29:12](https://news.ycombinator.com/item?id=41583689) - [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
-* [2024-09-18, 17:57:57](https://news.ycombinator.com/item?id=41583276) - [Show HN: GitNotebooks - Jupyter Notebook Review Tool](https://app.gitnotebooks.com/GitNotebooks/demo/pull/1)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
 * [2024-09-18, 17:07:22](https://news.ycombinator.com/item?id=41582539) - [Show HN: I made crowdwave – imagine Twitter/Reddit but every post is a voicemail](https://www.crowdwave.com)
@@ -25,11 +25,11 @@
 * [2024-09-18, 11:37:09](https://news.ycombinator.com/item?id=41578446) - [Knowledge graphs using Ollama and Embeddings to answer and visualizing queries](https://github.com/punnerud/Local_Knowledge_Graph)
 * [2024-09-18, 08:16:05](https://news.ycombinator.com/item?id=41577156) - [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
-* [2024-09-16, 18:52:22](https://news.ycombinator.com/item?id=41559246) - [Putting Code on a Nerves Device](https://underjord.io/putting-code-on-a-nerves-device.html)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
 * [2024-09-16, 08:19:16](https://news.ycombinator.com/item?id=41553922) - [Holding a Program in One's Head (2007)](https://paulgraham.com/head.html)
 * [2024-09-15, 14:05:03](https://news.ycombinator.com/item?id=41547596) - [OpenTelemetry and vendor neutrality: how to build an observability strategy](https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/)
 * [2024-09-14, 13:57:14](https://news.ycombinator.com/item?id=41539841) - [A overview of binaries, ELF, and NoMMU on Linux](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
+* [2024-09-14, 04:14:56](https://news.ycombinator.com/item?id=41537426) - [How Raw sockets behave differently in macOS and Linux](https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/)
 
 ## [Archives](archives/index.md)
 
