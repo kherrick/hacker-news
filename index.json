@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-18, 21:03:07",
+      "https://news.ycombinator.com/item?id=41585449"
+    ],
+    [
+      "Meticulous (YC S21) is hiring to eliminate UI tests",
+      "https://news.ycombinator.com/item?id=41585449"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 20:46:08",
       "https://news.ycombinator.com/item?id=41585249"
     ],
     [
       "Cloudflare misidentifies Hetzner IPs as being located in Iran",
       "https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 20:36:28",
+      "https://news.ycombinator.com/item?id=41585156"
+    ],
+    [
+      "Comic Mono",
+      "https://dtinth.github.io/comic-mono-font/"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "RabbitMQ 4.0 Released",
       "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 15:58:04",
-      "https://news.ycombinator.com/item?id=41581504"
-    ],
-    [
-      "Valkey 8.0.0 Is Out",
-      "https://github.com/valkey-io/valkey/releases/tag/8.0.0"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A overview of binaries, ELF, and NoMMU on Linux",
       "http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 04:14:56",
-      "https://news.ycombinator.com/item?id=41537426"
-    ],
-    [
-      "How Raw sockets behave differently in macOS and Linux",
-      "https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/"
     ]
   ]
 ]
