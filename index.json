@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-18, 20:46:08",
+      "https://news.ycombinator.com/item?id=41585249"
+    ],
+    [
+      "Cloudflare misidentifies Hetzner IPs as being located in Iran",
+      "https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 19:37:28",
       "https://news.ycombinator.com/item?id=41584486"
     ],
@@ -47,16 +57,6 @@
     [
       "OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning",
       "https://futurism.com/the-byte/openai-ban-strawberry-reasoning"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 17:57:57",
-      "https://news.ycombinator.com/item?id=41583276"
-    ],
-    [
-      "Show HN: GitNotebooks - Jupyter Notebook Review Tool",
-      "https://app.gitnotebooks.com/GitNotebooks/demo/pull/1"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-09-16, 18:52:22",
-      "https://news.ycombinator.com/item?id=41559246"
-    ],
-    [
-      "Putting Code on a Nerves Device",
-      "https://underjord.io/putting-code-on-a-nerves-device.html"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 12:12:29",
       "https://news.ycombinator.com/item?id=41555232"
     ],
@@ -297,6 +287,16 @@
     [
       "A overview of binaries, ELF, and NoMMU on Linux",
       "http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 04:14:56",
+      "https://news.ycombinator.com/item?id=41537426"
+    ],
+    [
+      "How Raw sockets behave differently in macOS and Linux",
+      "https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/"
     ]
   ]
 ]
