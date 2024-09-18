@@ -57,6 +57,7 @@
 * [2024-09-16, 10:21:56](https://news.ycombinator.com/item?id=41554583) - [Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
 * [2024-09-16, 10:09:32](https://news.ycombinator.com/item?id=41554525) - [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 * [2024-09-16, 09:27:22](https://news.ycombinator.com/item?id=41554285) - [Thierry Breton Has Resigned](https://twitter.com/thierrybreton/status/1835565206639972734)
+* [2024-09-16, 09:11:19](https://news.ycombinator.com/item?id=41554193) - [React for R](https://github.com/react-R/reactR)
 * [2024-09-16, 09:08:25](https://news.ycombinator.com/item?id=41554177) - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
 * [2024-09-16, 09:04:59](https://news.ycombinator.com/item?id=41554157) - [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
