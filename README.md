@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 19:37:28](https://news.ycombinator.com/item?id=41584486) - [LinkedIn is now using everyone's content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+* [2024-09-18, 18:29:12](https://news.ycombinator.com/item?id=41583689) - [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 * [2024-09-18, 17:57:57](https://news.ycombinator.com/item?id=41583276) - [Show HN: GitNotebooks - Jupyter Notebook Review Tool](https://app.gitnotebooks.com/GitNotebooks/demo/pull/1)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
@@ -12,7 +14,7 @@
 * [2024-09-18, 16:42:48](https://news.ycombinator.com/item?id=41582180) - [Llama 3.1 Omni Model](https://github.com/ictnlp/LLaMA-Omni)
 * [2024-09-18, 16:24:47](https://news.ycombinator.com/item?id=41581942) - [RabbitMQ 4.0 Released](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0)
 * [2024-09-18, 16:23:37](https://news.ycombinator.com/item?id=41581923) - [Twitter shut off API access; users volunteering their own data for an open API](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users)
-* [2024-09-18, 16:08:04](https://news.ycombinator.com/item?id=41581687) - [CUNY paid Oracle $600M for its HR software (2013)](http://pscbc.blogspot.com/2013/03/cuny-first-computer-system-to-aid.html)
+* [2024-09-18, 16:20:32](https://news.ycombinator.com/item?id=41581877) - [Compile and Run C in JavaScript](https://bun.sh/blog/compile-and-run-c-in-js)
 * [2024-09-18, 15:58:04](https://news.ycombinator.com/item?id=41581504) - [Valkey 8.0.0 Is Out](https://github.com/valkey-io/valkey/releases/tag/8.0.0)
 * [2024-09-18, 15:56:27](https://news.ycombinator.com/item?id=41581480) - [Moshi: A speech-text foundation model for real time dialogue](https://github.com/kyutai-labs/moshi)
 * [2024-09-18, 14:55:45](https://news.ycombinator.com/item?id=41580502) - [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
@@ -23,13 +25,11 @@
 * [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 11:37:09](https://news.ycombinator.com/item?id=41578446) - [Knowledge graphs using Ollama and Embeddings to answer and visualizing queries](https://github.com/punnerud/Local_Knowledge_Graph)
 * [2024-09-18, 08:16:05](https://news.ycombinator.com/item?id=41577156) - [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
-* [2024-09-18, 02:59:34](https://news.ycombinator.com/item?id=41575323) - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
-* [2024-09-16, 18:52:22](https://news.ycombinator.com/item?id=41559246) - [Putting Code on a Nerves Device](https://underjord.io/putting-code-on-a-nerves-device.html)
-* [2024-09-16, 13:53:09](https://news.ycombinator.com/item?id=41556088) - [Show HN: Sol – A de-minifier for shell programs](https://github.com/noperator/sol)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
 * [2024-09-16, 08:19:16](https://news.ycombinator.com/item?id=41553922) - [Holding a Program in One's Head (2007)](https://paulgraham.com/head.html)
 * [2024-09-15, 14:05:03](https://news.ycombinator.com/item?id=41547596) - [OpenTelemetry and vendor neutrality: how to build an observability strategy](https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/)
+* [2024-09-14, 13:57:14](https://news.ycombinator.com/item?id=41539841) - [A overview of binaries, ELF, and NoMMU on Linux](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
 
 ## [Archives](archives/index.md)
 

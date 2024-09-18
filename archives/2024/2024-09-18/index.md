@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 19:37:28](https://news.ycombinator.com/item?id=41584486) - [LinkedIn is now using everyone's content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+* [2024-09-18, 18:29:12](https://news.ycombinator.com/item?id=41583689) - [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
 * [2024-09-18, 18:27:38](https://news.ycombinator.com/item?id=41583666) - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 * [2024-09-18, 17:57:57](https://news.ycombinator.com/item?id=41583276) - [Show HN: GitNotebooks - Jupyter Notebook Review Tool](https://app.gitnotebooks.com/GitNotebooks/demo/pull/1)
@@ -19,6 +21,7 @@
 * [2024-09-18, 16:42:48](https://news.ycombinator.com/item?id=41582180) - [Llama 3.1 Omni Model](https://github.com/ictnlp/LLaMA-Omni)
 * [2024-09-18, 16:24:47](https://news.ycombinator.com/item?id=41581942) - [RabbitMQ 4.0 Released](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0)
 * [2024-09-18, 16:23:37](https://news.ycombinator.com/item?id=41581923) - [Twitter shut off API access; users volunteering their own data for an open API](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users)
+* [2024-09-18, 16:20:32](https://news.ycombinator.com/item?id=41581877) - [Compile and Run C in JavaScript](https://bun.sh/blog/compile-and-run-c-in-js)
 * [2024-09-18, 16:12:47](https://news.ycombinator.com/item?id=41581760) - [Bankrupt Trucker Yellow Loses Ruling over $6.5B in Pension Debts](https://www.bloomberg.com/news/articles/2024-09-17/trucker-yellow-loses-ruling-over-6-5-billion-in-pension-debts)
 * [2024-09-18, 16:08:04](https://news.ycombinator.com/item?id=41581687) - [CUNY paid Oracle $600M for its HR software (2013)](http://pscbc.blogspot.com/2013/03/cuny-first-computer-system-to-aid.html)
 * [2024-09-18, 15:58:04](https://news.ycombinator.com/item?id=41581504) - [Valkey 8.0.0 Is Out](https://github.com/valkey-io/valkey/releases/tag/8.0.0)

@@ -49,6 +49,7 @@
 * [2024-09-14, 14:47:12](https://news.ycombinator.com/item?id=41540152) - [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-14, 14:10:07](https://news.ycombinator.com/item?id=41539924) - [A Brief History of QuickTime](https://eclecticlight.co/2024/09/14/a-brief-history-of-quicktime/)
 * [2024-09-14, 14:08:14](https://news.ycombinator.com/item?id=41539911) - [Craig Wright said he invented Bitcoin – lawyers proved him wrong](https://www.ft.com/content/f3bb0b62-2d8a-44e8-a5aa-13a8f154ec0e)
+* [2024-09-14, 13:57:14](https://news.ycombinator.com/item?id=41539841) - [A overview of binaries, ELF, and NoMMU on Linux](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
 * [2024-09-14, 13:55:58](https://news.ycombinator.com/item?id=41539826) - [How a scientist is pushing to supersize research into ultra-processed foods](https://www.statnews.com/2024/09/11/ultra-processed-foods-health-nih-research-kevin-hall-controlled-trials/)
 * [2024-09-14, 13:02:58](https://news.ycombinator.com/item?id=41539553) - [Thomas Piketty: 'The Draghi report is a step in the right direction'](https://www.lemonde.fr/en/opinion/article/2024/09/14/thomas-piketty-the-draghi-report-is-a-step-in-the-right-direction_6725996_23.html)
 * [2024-09-14, 12:52:49](https://news.ycombinator.com/item?id=41539508) - [They don't make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
