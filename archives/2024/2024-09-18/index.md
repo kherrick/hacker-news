@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+* [2024-09-18, 18:27:38](https://news.ycombinator.com/item?id=41583666) - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
+* [2024-09-18, 17:07:22](https://news.ycombinator.com/item?id=41582539) - [Show HN: I made crowdwave – imagine Twitter/Reddit but every post is a voicemail](https://www.crowdwave.com)
+* [2024-09-18, 17:01:22](https://news.ycombinator.com/item?id=41582461) - [Microplastics in the Olfactory Bulb of the Human Brain](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823787)
 * [2024-09-18, 16:51:59](https://news.ycombinator.com/item?id=41582313) - [Cuba slashes size of daily bread ration as ingredients run thin](https://www.reuters.com/world/americas/cuba-slashes-size-daily-bread-ration-ingredients-run-thin-2024-09-16/)
 * [2024-09-18, 16:50:09](https://news.ycombinator.com/item?id=41582278) - [Senate Vote Tomorrow Could Give Helping Hand to Patent Trolls](https://www.eff.org/deeplinks/2024/09/senate-vote-tomorrow-could-give-helping-hand-patent-trolls)
 * [2024-09-18, 16:49:20](https://news.ycombinator.com/item?id=41582267) - [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)

@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+* [2024-09-18, 18:27:38](https://news.ycombinator.com/item?id=41583666) - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
+* [2024-09-18, 17:07:22](https://news.ycombinator.com/item?id=41582539) - [Show HN: I made crowdwave – imagine Twitter/Reddit but every post is a voicemail](https://www.crowdwave.com)
+* [2024-09-18, 17:01:22](https://news.ycombinator.com/item?id=41582461) - [Microplastics in the Olfactory Bulb of the Human Brain](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823787)
 * [2024-09-18, 16:50:09](https://news.ycombinator.com/item?id=41582278) - [Senate Vote Tomorrow Could Give Helping Hand to Patent Trolls](https://www.eff.org/deeplinks/2024/09/senate-vote-tomorrow-could-give-helping-hand-patent-trolls)
 * [2024-09-18, 16:49:20](https://news.ycombinator.com/item?id=41582267) - [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
 * [2024-09-18, 16:48:37](https://news.ycombinator.com/item?id=41582254) - [Show HN: Selectric – macOS Search for Gmail, Outlook, Drive, Slack](https://selectric.io/)
@@ -18,8 +21,6 @@
 * [2024-09-18, 14:30:21](https://news.ycombinator.com/item?id=41580166) - [Bento: Jupyter Notebooks at Meta](https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-notebooks-at-meta/)
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
 * [2024-09-18, 13:34:09](https://news.ycombinator.com/item?id=41579517) - [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
-* [2024-09-18, 13:17:35](https://news.ycombinator.com/item?id=41579355) - [AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds](https://www.cbc.ca/news/health/ai-health-care-1.7322671)
-* [2024-09-18, 12:13:18](https://news.ycombinator.com/item?id=41578752) - [PeerTube 6.3](https://joinpeertube.org/news/release-6.3)
 * [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 11:37:09](https://news.ycombinator.com/item?id=41578446) - [Knowledge graphs using Ollama and Embeddings to answer and visualizing queries](https://github.com/punnerud/Local_Knowledge_Graph)
 * [2024-09-18, 08:16:05](https://news.ycombinator.com/item?id=41577156) - [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
@@ -29,7 +30,6 @@
 * [2024-09-17, 19:46:05](https://news.ycombinator.com/item?id=41571862) - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
 * [2024-09-16, 08:19:16](https://news.ycombinator.com/item?id=41553922) - [Holding a Program in One's Head (2007)](https://paulgraham.com/head.html)
-* [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 
 ## [Archives](archives/index.md)
 
