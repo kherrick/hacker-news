@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-18, 02:59:34](https://news.ycombinator.com/item?id=41575323) - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-18, 01:16:48](https://news.ycombinator.com/item?id=41574700) - [Exploring pre-1990 versions of wc(1) (2023)](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
 * [2024-09-18, 01:00:42](https://news.ycombinator.com/item?id=41574586) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
@@ -17,7 +18,6 @@
 * [2024-09-17, 16:35:29](https://news.ycombinator.com/item?id=41569544) - [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
 * [2024-09-17, 15:04:09](https://news.ycombinator.com/item?id=41568343) - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
 * [2024-09-17, 13:26:00](https://news.ycombinator.com/item?id=41567387) - [Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
-* [2024-09-17, 13:16:01](https://news.ycombinator.com/item?id=41567301) - [Quote Origin: I had exactly four seconds and Google had told me it wasn’t enough](https://quoteinvestigator.com/2024/09/16/hot-sf/)
 * [2024-09-17, 13:15:57](https://news.ycombinator.com/item?id=41567299) - [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
 * [2024-09-17, 13:11:31](https://news.ycombinator.com/item?id=41567262) - [Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.](https://github.com/phiresky/ripgrep-all)
 * [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The centrality of stupidity in mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
