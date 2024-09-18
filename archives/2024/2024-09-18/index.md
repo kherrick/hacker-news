@@ -7,6 +7,7 @@
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 * [2024-09-18, 18:27:38](https://news.ycombinator.com/item?id=41583666) - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
+* [2024-09-18, 17:57:57](https://news.ycombinator.com/item?id=41583276) - [Show HN: GitNotebooks - Jupyter Notebook Review Tool](https://app.gitnotebooks.com/GitNotebooks/demo/pull/1)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
 * [2024-09-18, 17:07:22](https://news.ycombinator.com/item?id=41582539) - [Show HN: I made crowdwave – imagine Twitter/Reddit but every post is a voicemail](https://www.crowdwave.com)
