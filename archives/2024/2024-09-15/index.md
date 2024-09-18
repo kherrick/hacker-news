@@ -22,6 +22,7 @@
 * [2024-09-15, 18:37:53](https://news.ycombinator.com/item?id=41549363) - [How Foundries Calculate Die Yield](https://www.viksnewsletter.com/p/how-foundries-calculate-die-yield)
 * [2024-09-15, 18:14:25](https://news.ycombinator.com/item?id=41549213) - [Filipinos are embracing electric 3-wheelers faster than officials can regulate](https://restofworld.org/2024/electric-three-wheelers-philippines-regulations/)
 * [2024-09-15, 18:12:41](https://news.ycombinator.com/item?id=41549203) - [Show HN: Subdomain Enumeration CLI](https://github.com/Barre/merklemap-cli)
+* [2024-09-15, 17:56:46](https://news.ycombinator.com/item?id=41549102) - [The port of the Windows 95 Start Menu was not all it seemed](https://www.theregister.com/2024/07/29/windows_start_menu_port/)
 * [2024-09-15, 17:54:42](https://news.ycombinator.com/item?id=41549086) - [Playstation 5 Pro Shows the Futility of the Video-Game Graphics Race](https://www.bloomberg.com/news/newsletters/2024-09-13/playstation-5-pro-shows-futility-of-video-game-graphics-race)
 * [2024-09-15, 17:42:10](https://news.ycombinator.com/item?id=41548997) - [Terence Tao: creative strategies, this aspect of LLM tools is still weak](https://mathstodon.xyz/@tao/113142753409304792)
 * [2024-09-15, 17:40:32](https://news.ycombinator.com/item?id=41548985) - [Data Engineering Vault: A 1000 Node Second Brain for DE Knowledge](https://www.ssp.sh/brain/data-engineering/)
