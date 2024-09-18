@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
 * [2024-09-18, 09:43:32](https://news.ycombinator.com/item?id=41577717) - [Show HN: Free AI tailored workout generator](https://www.workoutgenerator.fit)
+* [2024-09-18, 09:08:44](https://news.ycombinator.com/item?id=41577522) - [Australia arrests dozens over app allegedly used by criminals worldwide](https://www.aljazeera.com/news/2024/9/18/australia-arrests-dozens-over-app-allegedly-used-by-criminals-worldwide)
 * [2024-09-18, 05:09:30](https://news.ycombinator.com/item?id=41576012) - [In unprecedented move, Ohio is funding construction of private religious schools](https://www.propublica.org/article/ohio-taxpayer-money-funding-private-religious-schools)
 * [2024-09-18, 04:50:22](https://news.ycombinator.com/item?id=41575908) - [26-Year-Old EY Employee Succumbs to 'Work Stress' Four Months After Joining](https://old.reddit.com/r/CharteredAccountants/comments/1fj08v9/ey_employee_died_of_work_pressure)
 * [2024-09-18, 03:18:17](https://news.ycombinator.com/item?id=41575424) - [Please stop – putting cookie pop-ups on your website (2022)](https://olivergrimsley.com/2022/03/04/please-stop-putting-cookie-pop-ups-on-your-website/)
