@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-18, 19:37:28",
+      "https://news.ycombinator.com/item?id=41584486"
+    ],
+    [
+      "LinkedIn is now using everyone's content to train their AI tool",
+      "https://twitter.com/RachelTobac/status/1836471586624540705"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 18:41:46",
       "https://news.ycombinator.com/item?id=41583847"
     ],
     [
       "Is Tor still safe to use?",
       "https://blog.torproject.org/tor-is-still-safe/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 18:29:12",
+      "https://news.ycombinator.com/item?id=41583689"
+    ],
+    [
+      "iOS 18 breaks IMAPS self-signed certs",
+      "https://forums.developer.apple.com/forums/thread/756626"
     ]
   ],
   [
@@ -121,12 +141,12 @@
   ],
   [
     [
-      "2024-09-18, 16:08:04",
-      "https://news.ycombinator.com/item?id=41581687"
+      "2024-09-18, 16:20:32",
+      "https://news.ycombinator.com/item?id=41581877"
     ],
     [
-      "CUNY paid Oracle $600M for its HR software (2013)",
-      "http://pscbc.blogspot.com/2013/03/cuny-first-computer-system-to-aid.html"
+      "Compile and Run C in JavaScript",
+      "https://bun.sh/blog/compile-and-run-c-in-js"
     ]
   ],
   [
@@ -231,42 +251,12 @@
   ],
   [
     [
-      "2024-09-18, 02:59:34",
-      "https://news.ycombinator.com/item?id=41575323"
-    ],
-    [
-      "Scramble: Open-Source Alternative to Grammarly",
-      "https://github.com/zlwaterfield/scramble"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 01:38:01",
       "https://news.ycombinator.com/item?id=41574844"
     ],
     [
       "Apple mobile processors are now made in America by TSMC",
       "https://timculpan.substack.com/p/apple-mobile-processors-are-now-made"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 18:52:22",
-      "https://news.ycombinator.com/item?id=41559246"
-    ],
-    [
-      "Putting Code on a Nerves Device",
-      "https://underjord.io/putting-code-on-a-nerves-device.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 13:53:09",
-      "https://news.ycombinator.com/item?id=41556088"
-    ],
-    [
-      "Show HN: Sol – A de-minifier for shell programs",
-      "https://github.com/noperator/sol"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "OpenTelemetry and vendor neutrality: how to build an observability strategy",
       "https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 13:57:14",
+      "https://news.ycombinator.com/item?id=41539841"
+    ],
+    [
+      "A overview of binaries, ELF, and NoMMU on Linux",
+      "http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html"
     ]
   ]
 ]
