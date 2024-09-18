@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 23:59:07](https://news.ycombinator.com/item?id=41574174) - [Browser-in-Browser](https://browser.rammerhead.org/)
 * [2024-09-17, 22:44:12](https://news.ycombinator.com/item?id=41573666) - [Zep AI (YC W24) Is Hiring Standout AI Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/llCvskY-ai-engineer)
 * [2024-09-17, 22:26:58](https://news.ycombinator.com/item?id=41573550) - [Reports of the Death of Dental Cavities Are Greatly Exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
 * [2024-09-17, 22:14:21](https://news.ycombinator.com/item?id=41573454) - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
