@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-18, 05:09:30](https://news.ycombinator.com/item?id=41576012) - [In unprecedented move, Ohio is funding construction of private religious schools](https://www.propublica.org/article/ohio-taxpayer-money-funding-private-religious-schools)
+* [2024-09-18, 03:18:17](https://news.ycombinator.com/item?id=41575424) - [Please stop – putting cookie pop-ups on your website (2022)](https://olivergrimsley.com/2022/03/04/please-stop-putting-cookie-pop-ups-on-your-website/)
 * [2024-09-18, 02:59:34](https://news.ycombinator.com/item?id=41575323) - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 * [2024-09-18, 02:56:06](https://news.ycombinator.com/item?id=41575300) - [Asgard launches world's first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
@@ -24,7 +25,6 @@
 * [2024-09-17, 11:15:42](https://news.ycombinator.com/item?id=41566446) - [The centrality of stupidity in mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 * [2024-09-16, 14:14:34](https://news.ycombinator.com/item?id=41556295) - [Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [STORM: Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
-* [2024-09-16, 02:15:31](https://news.ycombinator.com/item?id=41552132) - [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)
 * [2024-09-15, 20:42:03](https://news.ycombinator.com/item?id=41550211) - [Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 * [2024-09-15, 17:56:46](https://news.ycombinator.com/item?id=41549102) - [The port of the Windows 95 Start Menu was not all it seemed](https://www.theregister.com/2024/07/29/windows_start_menu_port/)
 * [2024-09-13, 19:53:47](https://news.ycombinator.com/item?id=41534551) - [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
