@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
 * [2024-09-18, 14:35:18](https://news.ycombinator.com/item?id=41580214) - [Walkie talkies explode across Lebanon a day after pager explosions](https://www.dailymail.co.uk/news/article-13864883/Lebanon-explosions-Hezbollah-communications-devices-detonate-country-pager-bomb.html)
+* [2024-09-18, 14:34:43](https://news.ycombinator.com/item?id=41580205) - [Hezbollah hand-held radios detonate across Lebanon, sources say](https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/)
 * [2024-09-18, 14:21:42](https://news.ycombinator.com/item?id=41580073) - [Cobb Tuning Hit with $2.9M Fine over Emissions Defeat Devices](https://www.roadandtrack.com/news/a62244677/cobb-tuning-epa-2-point-9-million-dollar-fine-defeat-devices/)
 * [2024-09-18, 14:02:00](https://news.ycombinator.com/item?id=41579852) - [Tupperware files for bankruptcy as its colorful containers lose relevance](https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/)
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)

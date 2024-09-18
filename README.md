@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-18, 14:35:18](https://news.ycombinator.com/item?id=41580214) - [Walkie talkies explode across Lebanon a day after pager explosions](https://www.dailymail.co.uk/news/article-13864883/Lebanon-explosions-Hezbollah-communications-devices-detonate-country-pager-bomb.html)
+* [2024-09-18, 14:34:43](https://news.ycombinator.com/item?id=41580205) - [Hezbollah hand-held radios detonate across Lebanon, sources say](https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/)
 * [2024-09-18, 14:21:42](https://news.ycombinator.com/item?id=41580073) - [Cobb Tuning Hit with $2.9M Fine over Emissions Defeat Devices](https://www.roadandtrack.com/news/a62244677/cobb-tuning-epa-2-point-9-million-dollar-fine-defeat-devices/)
 * [2024-09-18, 14:02:00](https://news.ycombinator.com/item?id=41579852) - [Tupperware files for bankruptcy as its colorful containers lose relevance](https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/)
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
@@ -14,7 +15,6 @@
 * [2024-09-18, 02:56:06](https://news.ycombinator.com/item?id=41575300) - [Asgard launches world's first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-18, 01:00:42](https://news.ycombinator.com/item?id=41574586) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-* [2024-09-17, 23:09:36](https://news.ycombinator.com/item?id=41573866) - [Rustpad is an efficient and minimal open-source collaborative text editor](https://github.com/ekzhang/rustpad)
 * [2024-09-17, 22:26:58](https://news.ycombinator.com/item?id=41573550) - [Reports of the death of dental cavities are greatly exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
 * [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Independent directors of 23andMe resign from board](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
 * [2024-09-17, 19:56:39](https://news.ycombinator.com/item?id=41571971) - [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
