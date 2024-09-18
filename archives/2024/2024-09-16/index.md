@@ -29,6 +29,7 @@
 * [2024-09-16, 18:52:22](https://news.ycombinator.com/item?id=41559246) - [Putting Code on a Nerves Device](https://underjord.io/putting-code-on-a-nerves-device.html)
 * [2024-09-16, 18:27:19](https://news.ycombinator.com/item?id=41558995) - [How to Make HTTPS Verifiable](https://blog.reclaimprotocol.org/posts/open-source-reclaim)
 * [2024-09-16, 18:23:49](https://news.ycombinator.com/item?id=41558951) - [Interview with Inventor of Neural Nets Warren McCulloch () [video]](https://www.youtube.com/watch?v=wawMjJUCMVw)
+* [2024-09-16, 18:17:00](https://news.ycombinator.com/item?id=41558883) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
 * [2024-09-16, 18:14:40](https://news.ycombinator.com/item?id=41558865) - [NixOS Server Up in Minutes](https://gvolpe.com/blog/nixos-server/)
 * [2024-09-16, 18:08:47](https://news.ycombinator.com/item?id=41558800) - [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
 * [2024-09-16, 18:08:44](https://news.ycombinator.com/item?id=41558799) - [Do Not Sign the Qt License Agreement Unchanged](https://burkhardstubert.substack.com/p/do-not-sign-the-qt-license-agreement)
