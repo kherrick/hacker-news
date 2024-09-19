@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-19, 21:29:26](https://news.ycombinator.com/item?id=41596561) - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)
 * [2024-09-19, 21:01:05](https://news.ycombinator.com/item?id=41596352) - [Finley (YC W21) is hiring engineers to build cap markets software (US Remote)](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
 * [2024-09-19, 19:32:53](https://news.ycombinator.com/item?id=41595485) - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-19, 18:31:00](https://news.ycombinator.com/item?id=41594862) - [Real-time Linux is officially part of the kernel](https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/)
 * [2024-09-19, 18:22:00](https://news.ycombinator.com/item?id=41594758) - [Show HN: An Elliptic Curve-Based Secure Chat, Written Using Rust and Protobuf](https://github.com/vaktibabat/ecurvechat)
-* [2024-09-19, 18:01:04](https://news.ycombinator.com/item?id=41594510) - [Leonard Cohen: The Man Who Saw the Angels Fall](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
 * [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
 * [2024-09-19, 16:15:50](https://news.ycombinator.com/item?id=41593410) - [We accidentally burned through 200GB of proxy bandwidth in 6 hours](https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/)
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
