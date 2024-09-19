@@ -27,9 +27,9 @@
 * [2024-09-16, 18:17:00](https://news.ycombinator.com/item?id=41558883) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
 * [2024-09-15, 14:05:03](https://news.ycombinator.com/item?id=41547596) - [OpenTelemetry and vendor neutrality: how to build an observability strategy](https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/)
+* [2024-09-14, 21:06:09](https://news.ycombinator.com/item?id=41542951) - [A Case Study of Reflex Epilepsy Induced by Playing Chess](https://lichess.org/@/NDpatzer/blog/science-of-chess-a-case-study-of-reflex-epilepsy-induced-by-playing-chess/k08StYb4)
 * [2024-09-14, 14:56:30](https://news.ycombinator.com/item?id=41540207) - [Have you ever seen soldering this close? [video]](https://www.youtube.com/watch?v=m3Ny3j5nH0U)
 * [2024-09-14, 13:57:14](https://news.ycombinator.com/item?id=41539841) - [A overview of binaries, ELF, and NoMMU on Linux](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
-* [2024-09-14, 06:58:36](https://news.ycombinator.com/item?id=41538009) - [Are You Qualified to Use Null in SQL?](https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html)
 
 ## [Archives](archives/index.md)
 
