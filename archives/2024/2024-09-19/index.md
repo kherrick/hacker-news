@@ -10,6 +10,7 @@
 * [2024-09-19, 16:15:50](https://news.ycombinator.com/item?id=41593410) - [We accidentally burned through 200GB of proxy bandwidth in 6 hours](https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/)
 * [2024-09-19, 16:12:11](https://news.ycombinator.com/item?id=41593368) - [The reason your Columbia shirt has a tiny pocket near your waistline (2019)](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/)
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
+* [2024-09-19, 15:47:42](https://news.ycombinator.com/item?id=41593098) - [Genetic tracing of market wildlife and viruses at the epicenter of C19 pandemic](https://www.cell.com/cell/fulltext/S0092-8674(24)00901-2)
 * [2024-09-19, 15:46:37](https://news.ycombinator.com/item?id=41593087) - [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
 * [2024-09-19, 15:31:48](https://news.ycombinator.com/item?id=41592949) - [Show HN: Comparisons – Gemini-1-5-vs-ChatGPT-4o](https://aimlapi.com/comparisons/gemini-1-5-vs-chatgpt-4o)
 * [2024-09-19, 15:02:48](https://news.ycombinator.com/item?id=41592646) - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
