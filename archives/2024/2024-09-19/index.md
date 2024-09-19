@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 12:51:51](https://news.ycombinator.com/item?id=41591341) - [Pieter's Official Homepage on the World Wide Web](https://pieter.com)
+* [2024-09-19, 11:42:02](https://news.ycombinator.com/item?id=41590771) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
+* [2024-09-19, 11:39:14](https://news.ycombinator.com/item?id=41590754) - [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
 * [2024-09-19, 10:57:05](https://news.ycombinator.com/item?id=41590529) - [ADHD headband treats symptoms in 20 minutes per day](https://newatlas.com/science/adhd-autism/adhd-device-neurode/)
 * [2024-09-19, 10:44:46](https://news.ycombinator.com/item?id=41590469) - [Nirvana fallacy (Perfect solution fallacy)](https://en.wikipedia.org/wiki/Nirvana_fallacy)
+* [2024-09-19, 10:42:11](https://news.ycombinator.com/item?id=41590460) - [Satisficing](https://en.wikipedia.org/wiki/Satisficing)
+* [2024-09-19, 10:28:51](https://news.ycombinator.com/item?id=41590384) - [Rolls-Royce wins pioneering deal to build mini nuclear plants in Czech Republic](https://www.ft.com/content/aee922e1-a29c-4150-ba6d-efba7a3d7bd5)
 * [2024-09-19, 10:25:01](https://news.ycombinator.com/item?id=41590367) - [Open research Europe: Towards a collective open access publishing service](https://op.europa.eu/en/publication-detail/-/publication/3603e219-6a65-11ef-a8ba-01aa75ed71a1/language-en)
 * [2024-09-19, 09:24:24](https://news.ycombinator.com/item?id=41590030) - [Diversification is a negative price lunch](https://outcastbeta.com/diversification-is-a-negative-price-lunch/)
 * [2024-09-19, 08:46:50](https://news.ycombinator.com/item?id=41589863) - [An In-Depth Guide to Contrastive Learning: Techniques, Models, and Applications](https://myscale.com/blog/what-is-contrastive-learning/)
@@ -15,4 +20,5 @@
 * [2024-09-19, 05:00:13](https://news.ycombinator.com/item?id=41588667) - [Mozilla has fired their Chief Product Officer after cancer diagnosis](https://mastodon.social/@stevetex/113162099798398758)
 * [2024-09-19, 03:27:43](https://news.ycombinator.com/item?id=41588200) - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
 * [2024-09-19, 02:31:51](https://news.ycombinator.com/item?id=41587900) - [Strange Design Decision: An Oven with French Doors](https://www.core77.com/posts/133639/Strange-Design-Decision-An-Oven-with-French-Doors)
+* [2024-09-19, 01:13:40](https://news.ycombinator.com/item?id=41587461) - [Netflix's Key-Value Data Abstraction Layer](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
 * [2024-09-19, 00:37:46](https://news.ycombinator.com/item?id=41587214) - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
