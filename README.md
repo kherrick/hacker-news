@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-19, 13:51:57](https://news.ycombinator.com/item?id=41591837) - [Organic thermoelectric device can harvest energy at room temperature](https://www.kyushu-u.ac.jp/en/researches/view/299/)
 * [2024-09-19, 13:48:20](https://news.ycombinator.com/item?id=41591798) - [Human genome stored on 'everlasting' memory crystal](https://www.southampton.ac.uk/news/2024/09/human-genome-stored-on-everlasting-memory-crystal-.page)
-* [2024-09-19, 13:45:04](https://news.ycombinator.com/item?id=41591765) - [WSJ: Tech jobs have dried up](https://www.wsj.com/tech/tech-jobs-artificial-intelligence-cce22393)
 * [2024-09-19, 13:27:23](https://news.ycombinator.com/item?id=41591635) - [A Cyborg Manifesto (1991) [pdf]](https://archives.evergreen.edu/webpages/curricular/2006-2007/ccfi/files/ccfi/cyborgmanifesto.pdf)
 * [2024-09-19, 13:25:15](https://news.ycombinator.com/item?id=41591622) - [Pivotal Tracker will shut down](https://www.pivotaltracker.com/blog/2024-09-18-end-of-life)
 * [2024-09-19, 13:16:42](https://news.ycombinator.com/item?id=41591560) - [Support for IPv6](https://www.backblaze.com/blog/announcing-support-for-ipv6/)
