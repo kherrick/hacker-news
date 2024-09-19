@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 13:04:21](https://news.ycombinator.com/item?id=41591449) - [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
+* [2024-09-19, 12:58:18](https://news.ycombinator.com/item?id=41591399) - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
 * [2024-09-19, 12:51:51](https://news.ycombinator.com/item?id=41591341) - [Pieter's Official Homepage on the World Wide Web](https://pieter.com)
+* [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
 * [2024-09-19, 11:42:02](https://news.ycombinator.com/item?id=41590771) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2024-09-19, 11:39:14](https://news.ycombinator.com/item?id=41590754) - [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
 * [2024-09-19, 10:57:05](https://news.ycombinator.com/item?id=41590529) - [ADHD headband treats symptoms in 20 minutes per day](https://newatlas.com/science/adhd-autism/adhd-device-neurode/)

@@ -82,6 +82,7 @@
 * [2024-09-17, 01:51:26](https://news.ycombinator.com/item?id=41563205) - [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)
 * [2024-09-17, 01:35:22](https://news.ycombinator.com/item?id=41563100) - [rainfrog – a database management TUI for Postgres](https://github.com/achristmascarl/rainfrog)
 * [2024-09-17, 01:15:11](https://news.ycombinator.com/item?id=41562981) - [Y Combinator is predicated on startups that require low capitalization](https://twitter.com/bradneuberg/status/1835680235049869495)
+* [2024-09-17, 01:01:57](https://news.ycombinator.com/item?id=41562904) - [The making of Four Laps – a looping video about looping videos](https://medium.com/the-rectangle-behind-you/the-making-of-four-laps-e20dd59271af)
 * [2024-09-17, 00:42:33](https://news.ycombinator.com/item?id=41562774) - [Titan Submersible Marine Board of Investigation](https://www.news.uscg.mil/News-by-Region/Headquarters/Titan-Submersible/)
 * [2024-09-17, 00:39:10](https://news.ycombinator.com/item?id=41562750) - [Omnipresent AI cameras will ensure good behavior, says Larry Ellison](https://arstechnica.com/information-technology/2024/09/omnipresent-ai-cameras-will-ensure-good-behavior-says-larry-ellison/)
 * [2024-09-17, 00:23:17](https://news.ycombinator.com/item?id=41562673) - [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
