@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-19, 21:29:26](https://news.ycombinator.com/item?id=41596561) - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)
+* [2024-09-19, 21:16:10](https://news.ycombinator.com/item?id=41596462) - [Beirut Airport Bans Pagers, Walkie-Talkies on All Flights](https://www.nna-leb.gov.lb/en/economy/722542/beirut-airport-bans-pagers-walkie-talkies-on-all-f)
 * [2024-09-19, 21:01:05](https://news.ycombinator.com/item?id=41596352) - [Finley (YC W21) is hiring engineers to build cap markets software (US Remote)](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
+* [2024-09-19, 20:57:55](https://news.ycombinator.com/item?id=41596319) - [Up to a Quarter of Rental Inflation Is Due to Price-Fixing](https://www.thebignewsletter.com/p/up-to-a-quarter-of-rental-inflation)
 * [2024-09-19, 19:32:53](https://news.ycombinator.com/item?id=41595485) - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-19, 18:31:00](https://news.ycombinator.com/item?id=41594862) - [Real-time Linux is officially part of the kernel](https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/)
@@ -26,7 +27,6 @@
 * [2024-09-17, 06:59:52](https://news.ycombinator.com/item?id=41565056) - [GPU Debug Scopes](https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/)
 * [2024-09-16, 20:24:49](https://news.ycombinator.com/item?id=41560397) - [Vapour: A typed superset of the R programming language](https://vapour.run/)
 * [2024-09-16, 10:45:54](https://news.ycombinator.com/item?id=41554729) - [I Revived 3-Axis CNC Mill G-Code Simulator](https://github.com/Harvie/cnc-simulator)
-* [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
 * [2024-09-15, 22:15:22](https://news.ycombinator.com/item?id=41550907) - [The Cheating Device (ChatGPT on a TI-84) [video]](https://www.youtube.com/watch?v=Bicjxl4EcJg)
 * [2024-09-15, 16:33:48](https://news.ycombinator.com/item?id=41548475) - [Modelling the archetype of a message-passing bug with TLA+ (2022)](https://medium.com/@polyglot_factotum/modelling-a-message-passing-bug-with-tla-baaf090a688d)
 * [2024-09-14, 15:43:53](https://news.ycombinator.com/item?id=41540542) - [MicroPython on Flipper Zero](https://lab.flipper.net/apps/upython)
