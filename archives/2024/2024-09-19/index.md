@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 13:51:57](https://news.ycombinator.com/item?id=41591837) - [Organic thermoelectric device can harvest energy at room temperature](https://www.kyushu-u.ac.jp/en/researches/view/299/)
 * [2024-09-19, 13:37:55](https://news.ycombinator.com/item?id=41591712) - [Tell HN: Pivotal Tracker is being shut down](https://news.ycombinator.com/item?id=41591712)
 * [2024-09-19, 13:31:59](https://news.ycombinator.com/item?id=41591674) - [AI as an Information Interface](https://www.zeynepevecen.dev/writing/interface)
+* [2024-09-19, 13:31:18](https://news.ycombinator.com/item?id=41591667) - [List of Open Source Game Engines](https://github.com/bobeff/open-source-engines)
+* [2024-09-19, 13:27:23](https://news.ycombinator.com/item?id=41591635) - [A Cyborg Manifesto (1991) [pdf]](https://archives.evergreen.edu/webpages/curricular/2006-2007/ccfi/files/ccfi/cyborgmanifesto.pdf)
+* [2024-09-19, 13:25:15](https://news.ycombinator.com/item?id=41591622) - [Pivotal Tracker will shut down](https://www.pivotaltracker.com/blog/2024-09-18-end-of-life)
 * [2024-09-19, 13:16:42](https://news.ycombinator.com/item?id=41591560) - [Support for IPv6](https://www.backblaze.com/blog/announcing-support-for-ipv6/)
 * [2024-09-19, 13:04:21](https://news.ycombinator.com/item?id=41591449) - [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
 * [2024-09-19, 12:58:18](https://news.ycombinator.com/item?id=41591399) - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
 * [2024-09-19, 12:51:51](https://news.ycombinator.com/item?id=41591341) - [Pieter's Official Homepage on the World Wide Web](https://pieter.com)
+* [2024-09-19, 12:41:16](https://news.ycombinator.com/item?id=41591230) - [Seeing Like a Network](https://www.strangeloopcanon.com/p/seeing-like-a-network)
 * [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
 * [2024-09-19, 11:42:02](https://news.ycombinator.com/item?id=41590771) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2024-09-19, 11:39:14](https://news.ycombinator.com/item?id=41590754) - [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)

@@ -55,6 +55,7 @@
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
 * [2024-09-18, 13:34:09](https://news.ycombinator.com/item?id=41579517) - [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
 * [2024-09-18, 13:17:35](https://news.ycombinator.com/item?id=41579355) - [AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds](https://www.cbc.ca/news/health/ai-health-care-1.7322671)
+* [2024-09-18, 12:42:54](https://news.ycombinator.com/item?id=41579014) - [Ask HN: How to roll out an internal UI component library](https://news.ycombinator.com/item?id=41579014)
 * [2024-09-18, 12:42:17](https://news.ycombinator.com/item?id=41579011) - [Crypto bros wrested Flappy Bird from its creator](https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/)
 * [2024-09-18, 12:13:18](https://news.ycombinator.com/item?id=41578752) - [PeerTube 6.3](https://joinpeertube.org/news/release-6.3)
 * [2024-09-18, 11:55:54](https://news.ycombinator.com/item?id=41578599) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
