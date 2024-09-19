@@ -51,22 +51,22 @@
   ],
   [
     [
-      "2024-09-19, 15:31:48",
-      "https://news.ycombinator.com/item?id=41592949"
-    ],
-    [
-      "Show HN: Comparisons – Gemini-1-5-vs-ChatGPT-4o",
-      "https://aimlapi.com/comparisons/gemini-1-5-vs-chatgpt-4o"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 15:02:48",
       "https://news.ycombinator.com/item?id=41592646"
     ],
     [
       "OpenNMS: Visualize and monitor everything on your local and distributed networks",
       "https://www.opennms.com/opennms-feature-list/"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 15:00:53",
+      "https://news.ycombinator.com/item?id=41592632"
+    ],
+    [
+      "How to Measure Progress in a Software Project – By Adam Ard",
+      "https://rethinkingsoftware.substack.com/p/how-to-measure-progress-in-a-software"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Quantum researchers cause controlled 'wobble' in the nucleus of a single atom",
       "https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 13:48:20",
-      "https://news.ycombinator.com/item?id=41591798"
-    ],
-    [
-      "Human genome stored on 'everlasting' memory crystal",
-      "https://www.southampton.ac.uk/news/2024/09/human-genome-stored-on-everlasting-memory-crystal-.page"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Is Tor still safe to use?",
       "https://blog.torproject.org/tor-is-still-safe/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 15:56:27",
+      "https://news.ycombinator.com/item?id=41581480"
+    ],
+    [
+      "Moshi: A speech-text foundation model for real time dialogue",
+      "https://github.com/kyutai-labs/moshi"
     ]
   ],
   [
