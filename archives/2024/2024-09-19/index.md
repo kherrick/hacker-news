@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 17:00:28](https://news.ycombinator.com/item?id=41593901) - [Aviator (YC S21) is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
+* [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
 * [2024-09-19, 16:36:13](https://news.ycombinator.com/item?id=41593668) - [Ask HN: Book recommendations for CS fundamentals for a self-taught programmer?](https://news.ycombinator.com/item?id=41593668)
+* [2024-09-19, 16:15:50](https://news.ycombinator.com/item?id=41593410) - [We accidentally burned through 200GB of proxy bandwidth in 6 hours](https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/)
+* [2024-09-19, 16:12:11](https://news.ycombinator.com/item?id=41593368) - [The reason your Columbia shirt has a tiny pocket near your waistline (2019)](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/)
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 15:46:37](https://news.ycombinator.com/item?id=41593087) - [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
+* [2024-09-19, 15:31:48](https://news.ycombinator.com/item?id=41592949) - [Show HN: Comparisons – Gemini-1-5-vs-ChatGPT-4o](https://aimlapi.com/comparisons/gemini-1-5-vs-chatgpt-4o)
 * [2024-09-19, 15:02:48](https://news.ycombinator.com/item?id=41592646) - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-19, 14:32:12](https://news.ycombinator.com/item?id=41592320) - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)

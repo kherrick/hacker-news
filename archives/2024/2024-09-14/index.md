@@ -43,6 +43,7 @@
 * [2024-09-14, 16:21:55](https://news.ycombinator.com/item?id=41540771) - [OpenAI, Anthropic, Google employees support California AI bill](https://www.axios.com/2024/09/09/openai-anthropic-deepmind-employees-ai-bill)
 * [2024-09-14, 16:21:45](https://news.ycombinator.com/item?id=41540769) - [Iran successfully launches indigenous Chamran 1 satellite into space](https://ilkha.com/english/science-technology/iran-successfully-launches-indigenous-chamran-1-satellite-into-space-416175)
 * [2024-09-14, 16:18:19](https://news.ycombinator.com/item?id=41540755) - [Don't ask if AI can make art – ask how AI can be art](https://www.theverge.com/2024/9/13/24241189/generative-ai-interactivity-art)
+* [2024-09-14, 15:43:53](https://news.ycombinator.com/item?id=41540542) - [MicroPython on Flipper Zero](https://lab.flipper.net/apps/upython)
 * [2024-09-14, 15:19:50](https://news.ycombinator.com/item?id=41540362) - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 * [2024-09-14, 15:19:28](https://news.ycombinator.com/item?id=41540359) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)
 * [2024-09-14, 15:12:33](https://news.ycombinator.com/item?id=41540301) - [Geothermal energy could outperform nuclear power](https://www.economist.com/science-and-technology/2024/09/13/geothermal-energy-could-outperform-nuclear-power)
