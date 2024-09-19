@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 15:46:37](https://news.ycombinator.com/item?id=41593087) - [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
+* [2024-09-19, 15:02:48](https://news.ycombinator.com/item?id=41592646) - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-19, 14:32:12](https://news.ycombinator.com/item?id=41592320) - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
 * [2024-09-19, 14:16:39](https://news.ycombinator.com/item?id=41592119) - [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
@@ -29,6 +31,7 @@
 * [2024-09-19, 11:39:14](https://news.ycombinator.com/item?id=41590754) - [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
 * [2024-09-19, 10:57:05](https://news.ycombinator.com/item?id=41590529) - [ADHD headband treats symptoms in 20 minutes per day](https://newatlas.com/science/adhd-autism/adhd-device-neurode/)
 * [2024-09-19, 10:44:46](https://news.ycombinator.com/item?id=41590469) - [Nirvana fallacy (Perfect solution fallacy)](https://en.wikipedia.org/wiki/Nirvana_fallacy)
+* [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
 * [2024-09-19, 10:42:11](https://news.ycombinator.com/item?id=41590460) - [Satisficing](https://en.wikipedia.org/wiki/Satisficing)
 * [2024-09-19, 10:28:51](https://news.ycombinator.com/item?id=41590384) - [Rolls-Royce wins pioneering deal to build mini nuclear plants in Czech Republic](https://www.ft.com/content/aee922e1-a29c-4150-ba6d-efba7a3d7bd5)
 * [2024-09-19, 10:25:01](https://news.ycombinator.com/item?id=41590367) - [Open research Europe: Towards a collective open access publishing service](https://op.europa.eu/en/publication-detail/-/publication/3603e219-6a65-11ef-a8ba-01aa75ed71a1/language-en)
