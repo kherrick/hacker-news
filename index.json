@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-09-19, 16:36:13",
+      "https://news.ycombinator.com/item?id=41593668"
+    ],
+    [
+      "Ask HN: Book recommendations for CS fundamentals for a self-taught programmer?",
+      "https://news.ycombinator.com/item?id=41593668"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 15:59:19",
       "https://news.ycombinator.com/item?id=41593216"
     ],
     [
       "Show HN: Numscript, a declarative language to model financial transactions",
       "https://playground.numscript.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 15:46:37",
-      "https://news.ycombinator.com/item?id=41593087"
-    ],
-    [
-      "Pediatricians Created the Peanut Allergy Epidemic",
-      "https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Quantum researchers cause controlled 'wobble' in the nucleus of a single atom",
       "https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 13:51:57",
-      "https://news.ycombinator.com/item?id=41591837"
-    ],
-    [
-      "Organic thermoelectric device can harvest energy at room temperature",
-      "https://www.kyushu-u.ac.jp/en/researches/view/299/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-09-18, 21:04:55",
+      "https://news.ycombinator.com/item?id=41585468"
+    ],
+    [
+      "Show HN: I've Built an Accounting System",
+      "https://github.com/denys-olleik/accounting"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 21:03:07",
       "https://news.ycombinator.com/item?id=41585449"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-09-18, 12:42:54",
-      "https://news.ycombinator.com/item?id=41579014"
+      "2024-09-18, 14:44:00",
+      "https://news.ycombinator.com/item?id=41580326"
     ],
     [
-      "Ask HN: How to roll out an internal UI component library",
-      "https://news.ycombinator.com/item?id=41579014"
+      "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+      "https://github.com/exaloop/codon"
     ]
   ],
   [
