@@ -7,6 +7,7 @@
 * [2024-09-19, 19:32:53](https://news.ycombinator.com/item?id=41595485) - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-19, 18:35:46](https://news.ycombinator.com/item?id=41594912) - [BlackRock, Microsoft to Raise $30B for AI Investments](https://finance.yahoo.com/news/blackrock-microsoft-aim-raise-30-202200420.html)
+* [2024-09-19, 18:31:00](https://news.ycombinator.com/item?id=41594862) - [Real-time Linux is officially part of the kernel](https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/)
 * [2024-09-19, 18:23:00](https://news.ycombinator.com/item?id=41594774) - [Turning Everyday Gadgets into Bombs Is a Bad Idea](https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/)
 * [2024-09-19, 18:02:34](https://news.ycombinator.com/item?id=41594527) - [Ask HN: Is it wrong not wanting career progression beyond senior?](https://news.ycombinator.com/item?id=41594527)
 * [2024-09-19, 18:02:17](https://news.ycombinator.com/item?id=41594523) - [There is no antimimetics division V2](https://qntm.org/publ)
