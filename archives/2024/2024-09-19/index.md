@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
 * [2024-09-19, 13:51:57](https://news.ycombinator.com/item?id=41591837) - [Organic thermoelectric device can harvest energy at room temperature](https://www.kyushu-u.ac.jp/en/researches/view/299/)
+* [2024-09-19, 13:48:20](https://news.ycombinator.com/item?id=41591798) - [Human genome stored on 'everlasting' memory crystal](https://www.southampton.ac.uk/news/2024/09/human-genome-stored-on-everlasting-memory-crystal-.page)
+* [2024-09-19, 13:45:04](https://news.ycombinator.com/item?id=41591765) - [WSJ: Tech jobs have dried up](https://www.wsj.com/tech/tech-jobs-artificial-intelligence-cce22393)
 * [2024-09-19, 13:37:55](https://news.ycombinator.com/item?id=41591712) - [Tell HN: Pivotal Tracker is being shut down](https://news.ycombinator.com/item?id=41591712)
 * [2024-09-19, 13:31:59](https://news.ycombinator.com/item?id=41591674) - [AI as an Information Interface](https://www.zeynepevecen.dev/writing/interface)
 * [2024-09-19, 13:31:18](https://news.ycombinator.com/item?id=41591667) - [List of Open Source Game Engines](https://github.com/bobeff/open-source-engines)
@@ -15,6 +17,7 @@
 * [2024-09-19, 12:58:18](https://news.ycombinator.com/item?id=41591399) - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
 * [2024-09-19, 12:51:51](https://news.ycombinator.com/item?id=41591341) - [Pieter's Official Homepage on the World Wide Web](https://pieter.com)
 * [2024-09-19, 12:41:16](https://news.ycombinator.com/item?id=41591230) - [Seeing Like a Network](https://www.strangeloopcanon.com/p/seeing-like-a-network)
+* [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
 * [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
 * [2024-09-19, 11:42:02](https://news.ycombinator.com/item?id=41590771) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2024-09-19, 11:39:14](https://news.ycombinator.com/item?id=41590754) - [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
