@@ -34,6 +34,7 @@
 * [2024-09-15, 16:45:20](https://news.ycombinator.com/item?id=41548547) - [Implement algorithms that minimize slippage](https://www.quantitativo.com/p/the-devil-is-in-the-details)
 * [2024-09-15, 16:39:48](https://news.ycombinator.com/item?id=41548515) - [Human drivers keep rear-ending Waymos](https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/)
 * [2024-09-15, 16:38:47](https://news.ycombinator.com/item?id=41548510) - [Show HN: Server Uptime](https://server-uptime.pw/)
+* [2024-09-15, 16:33:48](https://news.ycombinator.com/item?id=41548475) - [Modelling the archetype of a message-passing bug with TLA+ (2022)](https://medium.com/@polyglot_factotum/modelling-a-message-passing-bug-with-tla-baaf090a688d)
 * [2024-09-15, 16:33:47](https://news.ycombinator.com/item?id=41548474) - [Linux 6.11 Released](https://lwn.net/Articles/990307/)
 * [2024-09-15, 16:23:49](https://news.ycombinator.com/item?id=41548412) - [What Researchers Learned from the Oldest Cookbook](https://www.atlasobscura.com/articles/worlds-oldest-cookbook-babylonian-collection)
 * [2024-09-15, 16:22:30](https://news.ycombinator.com/item?id=41548399) - [Sweden will offer migrants $34,000 to go home](https://www.nytimes.com/2024/09/13/world/europe/sweden-immigration-reform.html)
