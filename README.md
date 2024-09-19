@@ -10,6 +10,7 @@
 * [2024-09-19, 15:02:48](https://news.ycombinator.com/item?id=41592646) - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
 * [2024-09-19, 15:00:53](https://news.ycombinator.com/item?id=41592632) - [How to Measure Progress in a Software Project – By Adam Ard](https://rethinkingsoftware.substack.com/p/how-to-measure-progress-in-a-software)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
+* [2024-09-19, 14:16:39](https://news.ycombinator.com/item?id=41592119) - [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
 * [2024-09-19, 14:05:32](https://news.ycombinator.com/item?id=41591998) - [JVM statistics cause garbage collection pauses (2015)](https://www.evanjones.ca/jvm-mmap-pause.html)
 * [2024-09-19, 13:58:56](https://news.ycombinator.com/item?id=41591906) - [Quantum researchers cause controlled 'wobble' in the nucleus of a single atom](https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom)
 * [2024-09-19, 13:25:15](https://news.ycombinator.com/item?id=41591622) - [Pivotal Tracker will shut down](https://www.pivotaltracker.com/blog/2024-09-18-end-of-life)
@@ -28,7 +29,6 @@
 * [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
 * [2024-09-15, 22:15:22](https://news.ycombinator.com/item?id=41550907) - [The Cheating Device (ChatGPT on a TI-84) [video]](https://www.youtube.com/watch?v=Bicjxl4EcJg)
 * [2024-09-15, 16:33:48](https://news.ycombinator.com/item?id=41548475) - [Modelling the archetype of a message-passing bug with TLA+ (2022)](https://medium.com/@polyglot_factotum/modelling-a-message-passing-bug-with-tla-baaf090a688d)
-* [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 * [2024-09-14, 15:43:53](https://news.ycombinator.com/item?id=41540542) - [MicroPython on Flipper Zero](https://lab.flipper.net/apps/upython)
 
 ## [Archives](archives/index.md)
