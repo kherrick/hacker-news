@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-19, 17:08:11](https://news.ycombinator.com/item?id=41593981) - [Windows App now available on all major platforms](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-app-now-available-on-all-major-platforms/ba-p/4246939)
 * [2024-09-19, 17:00:28](https://news.ycombinator.com/item?id=41593901) - [Aviator (YC S21) is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
 * [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
 * [2024-09-19, 16:15:50](https://news.ycombinator.com/item?id=41593410) - [We accidentally burned through 200GB of proxy bandwidth in 6 hours](https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/)
@@ -8,7 +9,6 @@
 * [2024-09-19, 15:02:48](https://news.ycombinator.com/item?id=41592646) - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
 * [2024-09-19, 15:00:53](https://news.ycombinator.com/item?id=41592632) - [How to Measure Progress in a Software Project – By Adam Ard](https://rethinkingsoftware.substack.com/p/how-to-measure-progress-in-a-software)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
-* [2024-09-19, 14:32:12](https://news.ycombinator.com/item?id=41592320) - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
 * [2024-09-19, 14:05:32](https://news.ycombinator.com/item?id=41591998) - [JVM statistics cause garbage collection pauses (2015)](https://www.evanjones.ca/jvm-mmap-pause.html)
 * [2024-09-19, 14:05:02](https://news.ycombinator.com/item?id=41591991) - [The \"R\" in MTTR: Repair or Recover? What's the Difference?](https://www.causely.io/blog/mttr-meaning/)
 * [2024-09-19, 13:58:56](https://news.ycombinator.com/item?id=41591906) - [Quantum researchers cause controlled 'wobble' in the nucleus of a single atom](https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom)
