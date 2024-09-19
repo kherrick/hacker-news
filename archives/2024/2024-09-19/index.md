@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 13:37:55](https://news.ycombinator.com/item?id=41591712) - [Tell HN: Pivotal Tracker is being shut down](https://news.ycombinator.com/item?id=41591712)
 * [2024-09-19, 13:31:59](https://news.ycombinator.com/item?id=41591674) - [AI as an Information Interface](https://www.zeynepevecen.dev/writing/interface)
 * [2024-09-19, 13:16:42](https://news.ycombinator.com/item?id=41591560) - [Support for IPv6](https://www.backblaze.com/blog/announcing-support-for-ipv6/)
 * [2024-09-19, 13:04:21](https://news.ycombinator.com/item?id=41591449) - [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)

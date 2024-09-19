@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-19, 13:37:55](https://news.ycombinator.com/item?id=41591712) - [Tell HN: Pivotal Tracker is being shut down](https://news.ycombinator.com/item?id=41591712)
 * [2024-09-19, 13:31:59](https://news.ycombinator.com/item?id=41591674) - [AI as an Information Interface](https://www.zeynepevecen.dev/writing/interface)
 * [2024-09-19, 13:16:42](https://news.ycombinator.com/item?id=41591560) - [Support for IPv6](https://www.backblaze.com/blog/announcing-support-for-ipv6/)
 * [2024-09-19, 13:04:21](https://news.ycombinator.com/item?id=41591449) - [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
@@ -29,7 +30,6 @@
 * [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 * [2024-09-14, 21:06:09](https://news.ycombinator.com/item?id=41542951) - [A Case Study of Reflex Epilepsy Induced by Playing Chess](https://lichess.org/@/NDpatzer/blog/science-of-chess-a-case-study-of-reflex-epilepsy-induced-by-playing-chess/k08StYb4)
 * [2024-09-14, 20:04:01](https://news.ycombinator.com/item?id=41542430) - [An effective and rapidly degradable disinfectant from disinfection byproducts](https://www.nature.com/articles/s41467-024-48752-w)
-* [2024-09-14, 14:56:30](https://news.ycombinator.com/item?id=41540207) - [Have you ever seen soldering this close? [video]](https://www.youtube.com/watch?v=m3Ny3j5nH0U)
 
 ## [Archives](archives/index.md)
 
