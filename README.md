@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-19, 18:02:17](https://news.ycombinator.com/item?id=41594523) - [There is no antimimetics division V2](https://qntm.org/publ)
 * [2024-09-19, 18:01:04](https://news.ycombinator.com/item?id=41594510) - [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
 * [2024-09-19, 17:00:28](https://news.ycombinator.com/item?id=41593901) - [Aviator (YC S21) is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
 * [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
@@ -21,7 +22,6 @@
 * [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
 * [2024-09-18, 20:23:47](https://news.ycombinator.com/item?id=41585017) - [Show HN: Selectable – mobile-friendly Postgres client](https://getselectable.com/)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
-* [2024-09-18, 15:56:27](https://news.ycombinator.com/item?id=41581480) - [Moshi: A speech-text foundation model for real time dialogue](https://github.com/kyutai-labs/moshi)
 * [2024-09-16, 20:24:49](https://news.ycombinator.com/item?id=41560397) - [Vapour: A typed superset of the R programming language](https://vapour.run/)
 * [2024-09-16, 10:45:54](https://news.ycombinator.com/item?id=41554729) - [I Revived 3-Axis CNC Mill G-Code Simulator](https://github.com/Harvie/cnc-simulator)
 * [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)

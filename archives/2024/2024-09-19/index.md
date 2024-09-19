@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
 * [2024-09-19, 18:02:34](https://news.ycombinator.com/item?id=41594527) - [Ask HN: Is it wrong not wanting career progression beyond senior?](https://news.ycombinator.com/item?id=41594527)
+* [2024-09-19, 18:02:17](https://news.ycombinator.com/item?id=41594523) - [There is no antimimetics division V2](https://qntm.org/publ)
 * [2024-09-19, 18:01:04](https://news.ycombinator.com/item?id=41594510) - [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
 * [2024-09-19, 17:30:06](https://news.ycombinator.com/item?id=41594209) - [Ask HN: What email service(s) do you use for your side projects?](https://news.ycombinator.com/item?id=41594209)
 * [2024-09-19, 17:08:11](https://news.ycombinator.com/item?id=41593981) - [Windows App now available on all major platforms](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-app-now-available-on-all-major-platforms/ba-p/4246939)
