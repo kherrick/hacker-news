@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-19, 08:46:50](https://news.ycombinator.com/item?id=41589863) - [An In-Depth Guide to Contrastive Learning: Techniques, Models, and Applications](https://myscale.com/blog/what-is-contrastive-learning/)
 * [2024-09-19, 03:27:43](https://news.ycombinator.com/item?id=41588200) - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
 * [2024-09-19, 00:37:46](https://news.ycombinator.com/item?id=41587214) - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
 * [2024-09-18, 23:42:11](https://news.ycombinator.com/item?id=41586836) - [Debugging Behind the Iron Curtain (2010)](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
@@ -10,7 +11,6 @@
 * [2024-09-18, 19:37:28](https://news.ycombinator.com/item?id=41584486) - [LinkedIn is now using everyone's content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 * [2024-09-18, 18:29:12](https://news.ycombinator.com/item?id=41583689) - [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
-* [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:07:22](https://news.ycombinator.com/item?id=41582539) - [Show HN: I made crowdwave – imagine Twitter/Reddit but every post is a voicemail](https://www.crowdwave.com)
 * [2024-09-18, 16:49:20](https://news.ycombinator.com/item?id=41582267) - [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
 * [2024-09-18, 16:42:48](https://news.ycombinator.com/item?id=41582180) - [Llama 3.1 Omni Model](https://github.com/ictnlp/LLaMA-Omni)
@@ -22,12 +22,12 @@
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-16, 18:17:00](https://news.ycombinator.com/item?id=41558883) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
+* [2024-09-16, 11:19:13](https://news.ycombinator.com/item?id=41554900) - [Balance of Power – By Bradford Morgan White](https://www.abortretry.fail/p/balance-of-power)
 * [2024-09-16, 11:18:55](https://news.ycombinator.com/item?id=41554899) - [Text makeup – a tool to decode and explore Unicode strings](https://text.makeup)
 * [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
 * [2024-09-16, 01:51:25](https://news.ycombinator.com/item?id=41552013) - [Aliens and the Enlightenment](https://www.historytoday.com/archive/great-debates/aliens-and-enlightenment)
 * [2024-09-15, 14:05:03](https://news.ycombinator.com/item?id=41547596) - [OpenTelemetry and vendor neutrality: how to build an observability strategy](https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/)
 * [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
-* [2024-09-14, 16:21:45](https://news.ycombinator.com/item?id=41540769) - [Iran successfully launches indigenous Chamran 1 satellite into space](https://ilkha.com/english/science-technology/iran-successfully-launches-indigenous-chamran-1-satellite-into-space-416175)
 * [2024-09-14, 14:56:30](https://news.ycombinator.com/item?id=41540207) - [Have you ever seen soldering this close? [video]](https://www.youtube.com/watch?v=m3Ny3j5nH0U)
 * [2024-09-14, 13:57:14](https://news.ycombinator.com/item?id=41539841) - [A overview of binaries, ELF, and NoMMU on Linux](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
 

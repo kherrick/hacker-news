@@ -56,6 +56,7 @@
 * [2024-09-16, 13:53:09](https://news.ycombinator.com/item?id=41556088) - [Show HN: sol – A de-minifier for shell programs](https://github.com/noperator/sol)
 * [2024-09-16, 12:24:46](https://news.ycombinator.com/item?id=41555349) - [Earth may have had a ring system 466 million years ago](https://www.monash.edu/science/news-events/news/current/earth-may-have-had-a-ring-system-466-million-years-ago)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
+* [2024-09-16, 11:19:13](https://news.ycombinator.com/item?id=41554900) - [Balance of Power – By Bradford Morgan White](https://www.abortretry.fail/p/balance-of-power)
 * [2024-09-16, 11:18:55](https://news.ycombinator.com/item?id=41554899) - [Text makeup – a tool to decode and explore Unicode strings](https://text.makeup)
 * [2024-09-16, 10:59:13](https://news.ycombinator.com/item?id=41554791) - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
 * [2024-09-16, 10:21:56](https://news.ycombinator.com/item?id=41554583) - [Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
