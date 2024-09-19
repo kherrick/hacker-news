@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 15:46:37](https://news.ycombinator.com/item?id=41593087) - [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
 * [2024-09-19, 15:02:48](https://news.ycombinator.com/item?id=41592646) - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
@@ -19,7 +20,6 @@
 * [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
 * [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
 * [2024-09-18, 21:59:42](https://news.ycombinator.com/item?id=41586031) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
-* [2024-09-18, 21:04:55](https://news.ycombinator.com/item?id=41585468) - [Show HN: I've Built an Accounting System](https://github.com/denys-olleik/accounting)
 * [2024-09-18, 21:03:07](https://news.ycombinator.com/item?id=41585449) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
 * [2024-09-18, 20:23:47](https://news.ycombinator.com/item?id=41585017) - [Show HN: Selectable – mobile-friendly Postgres client](https://getselectable.com/)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)

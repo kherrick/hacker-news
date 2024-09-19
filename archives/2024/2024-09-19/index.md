@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 15:46:37](https://news.ycombinator.com/item?id=41593087) - [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
 * [2024-09-19, 15:02:48](https://news.ycombinator.com/item?id=41592646) - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
