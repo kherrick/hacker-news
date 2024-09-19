@@ -1,12 +1,52 @@
 [
   [
     [
-      "2024-09-19, 10:25:01",
-      "https://news.ycombinator.com/item?id=41590367"
+      "2024-09-19, 12:51:51",
+      "https://news.ycombinator.com/item?id=41591341"
     ],
     [
-      "Open research Europe: Towards a collective open access publishing service",
-      "https://op.europa.eu/en/publication-detail/-/publication/3603e219-6a65-11ef-a8ba-01aa75ed71a1/language-en"
+      "Pieter's Official Homepage on the World Wide Web",
+      "https://pieter.com"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 11:42:02",
+      "https://news.ycombinator.com/item?id=41590771"
+    ],
+    [
+      "Using RP2040 PIO to drive a poorly-designed display",
+      "http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 11:39:14",
+      "https://news.ycombinator.com/item?id=41590754"
+    ],
+    [
+      "Ask HN: What currently is the best, nerd-friendly, rootable Android phone?",
+      "https://news.ycombinator.com/item?id=41590754"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 10:42:11",
+      "https://news.ycombinator.com/item?id=41590460"
+    ],
+    [
+      "Satisficing",
+      "https://en.wikipedia.org/wiki/Satisficing"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 10:28:51",
+      "https://news.ycombinator.com/item?id=41590384"
+    ],
+    [
+      "Rolls-Royce wins pioneering deal to build mini nuclear plants in Czech Republic",
+      "https://www.ft.com/content/aee922e1-a29c-4150-ba6d-efba7a3d7bd5"
     ]
   ],
   [
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2024-09-18, 23:42:11",
-      "https://news.ycombinator.com/item?id=41586836"
+      "2024-09-19, 01:13:40",
+      "https://news.ycombinator.com/item?id=41587461"
     ],
     [
-      "Debugging Behind the Iron Curtain (2010)",
-      "https://www.jakepoz.com/debugging-behind-the-iron-curtain/"
+      "Netflix's Key-Value Data Abstraction Layer",
+      "https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30"
     ]
   ],
   [
@@ -101,22 +141,22 @@
   ],
   [
     [
-      "2024-09-18, 16:50:09",
-      "https://news.ycombinator.com/item?id=41582278"
-    ],
-    [
-      "Senate Vote Tomorrow Could Give Helping Hand to Patent Trolls",
-      "https://www.eff.org/deeplinks/2024/09/senate-vote-tomorrow-could-give-helping-hand-patent-trolls"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 16:48:37",
       "https://news.ycombinator.com/item?id=41582254"
     ],
     [
       "Show HN: Selectric – macOS Search for Gmail, Outlook, Drive, Slack",
       "https://selectric.io/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 16:20:32",
+      "https://news.ycombinator.com/item?id=41581877"
+    ],
+    [
+      "Compile and Run C in JavaScript",
+      "https://bun.sh/blog/compile-and-run-c-in-js"
     ]
   ],
   [
@@ -141,26 +181,6 @@
   ],
   [
     [
-      "2024-09-18, 13:54:54",
-      "https://news.ycombinator.com/item?id=41579777"
-    ],
-    [
-      "Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI",
-      "https://news.ycombinator.com/item?id=41579777"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 11:41:55",
-      "https://news.ycombinator.com/item?id=41578483"
-    ],
-    [
-      "Why wordfreq will not be updated",
-      "https://github.com/rspeer/wordfreq/blob/master/SUNSET.md"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 11:37:09",
       "https://news.ycombinator.com/item?id=41578446"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-09-17, 21:31:49",
-      "https://news.ycombinator.com/item?id=41573034"
-    ],
-    [
-      "Independent directors of 23andMe resign from board",
-      "https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 13:53:09",
       "https://news.ycombinator.com/item?id=41556088"
     ],
     [
       "Show HN: Sol – A de-minifier for shell programs",
       "https://github.com/noperator/sol"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 12:12:29",
-      "https://news.ycombinator.com/item?id=41555232"
-    ],
-    [
-      "The Dune Shell",
-      "https://adam-mcdaniel.github.io/dune-website/"
     ]
   ],
   [
