@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 22:52:07](https://news.ycombinator.com/item?id=41597162) - [3K free SVG icons for popular brands](https://simpleicons.org/)
+* [2024-09-19, 22:00:18](https://news.ycombinator.com/item?id=41596818) - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 * [2024-09-19, 21:29:26](https://news.ycombinator.com/item?id=41596561) - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)
 * [2024-09-19, 21:16:39](https://news.ycombinator.com/item?id=41596466) - [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
 * [2024-09-19, 21:16:10](https://news.ycombinator.com/item?id=41596462) - [Beirut Airport Bans Pagers, Walkie-Talkies on All Flights](https://www.nna-leb.gov.lb/en/economy/722542/beirut-airport-bans-pagers-walkie-talkies-on-all-f)
