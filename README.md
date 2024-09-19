@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-19, 05:08:56](https://news.ycombinator.com/item?id=41588717) - [US health system ranks last compared with peer nations, report finds – US news](https://www.theguardian.com/us-news/2024/sep/18/american-health-system-ranks-last)
 * [2024-09-19, 03:27:43](https://news.ycombinator.com/item?id=41588200) - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
 * [2024-09-19, 00:37:46](https://news.ycombinator.com/item?id=41587214) - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
 * [2024-09-18, 23:42:11](https://news.ycombinator.com/item?id=41586836) - [Debugging Behind the Iron Curtain (2010)](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
@@ -28,6 +27,7 @@
 * [2024-09-16, 01:51:25](https://news.ycombinator.com/item?id=41552013) - [Aliens and the Enlightenment](https://www.historytoday.com/archive/great-debates/aliens-and-enlightenment)
 * [2024-09-15, 14:05:03](https://news.ycombinator.com/item?id=41547596) - [OpenTelemetry and vendor neutrality: how to build an observability strategy](https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/)
 * [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
+* [2024-09-14, 21:06:09](https://news.ycombinator.com/item?id=41542951) - [A Case Study of Reflex Epilepsy Induced by Playing Chess](https://lichess.org/@/NDpatzer/blog/science-of-chess-a-case-study-of-reflex-epilepsy-induced-by-playing-chess/k08StYb4)
 * [2024-09-14, 14:56:30](https://news.ycombinator.com/item?id=41540207) - [Have you ever seen soldering this close? [video]](https://www.youtube.com/watch?v=m3Ny3j5nH0U)
 * [2024-09-14, 13:57:14](https://news.ycombinator.com/item?id=41539841) - [A overview of binaries, ELF, and NoMMU on Linux](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
 
