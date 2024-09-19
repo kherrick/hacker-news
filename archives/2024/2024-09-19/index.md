@@ -14,6 +14,7 @@
 * [2024-09-19, 15:46:37](https://news.ycombinator.com/item?id=41593087) - [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
 * [2024-09-19, 15:31:48](https://news.ycombinator.com/item?id=41592949) - [Show HN: Comparisons – Gemini-1-5-vs-ChatGPT-4o](https://aimlapi.com/comparisons/gemini-1-5-vs-chatgpt-4o)
 * [2024-09-19, 15:02:48](https://news.ycombinator.com/item?id=41592646) - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
+* [2024-09-19, 15:00:53](https://news.ycombinator.com/item?id=41592632) - [How to Measure Progress in a Software Project – By Adam Ard](https://rethinkingsoftware.substack.com/p/how-to-measure-progress-in-a-software)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-19, 14:32:12](https://news.ycombinator.com/item?id=41592320) - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
 * [2024-09-19, 14:16:39](https://news.ycombinator.com/item?id=41592119) - [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
