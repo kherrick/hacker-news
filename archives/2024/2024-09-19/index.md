@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 21:01:05](https://news.ycombinator.com/item?id=41596352) - [Finley (YC W21) is hiring engineers to build cap markets software (US Remote)](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
 * [2024-09-19, 19:32:53](https://news.ycombinator.com/item?id=41595485) - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-19, 18:35:46](https://news.ycombinator.com/item?id=41594912) - [BlackRock, Microsoft to Raise $30B for AI Investments](https://finance.yahoo.com/news/blackrock-microsoft-aim-raise-30-202200420.html)
