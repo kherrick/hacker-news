@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-09-19, 18:02:17",
-      "https://news.ycombinator.com/item?id=41594523"
+      "2024-09-19, 19:32:53",
+      "https://news.ycombinator.com/item?id=41595485"
     ],
     [
-      "There is no antimimetics division V2",
-      "https://qntm.org/publ"
+      "DirectX Adopting SPIR-V as the Interchange Format of the Future",
+      "https://devblogs.microsoft.com/directx/directx-adopting-spir-v/"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 19:16:04",
+      "https://news.ycombinator.com/item?id=41595310"
+    ],
+    [
+      "Zb: An Early-Stage Build System",
+      "https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 18:35:46",
+      "https://news.ycombinator.com/item?id=41594912"
+    ],
+    [
+      "BlackRock, Microsoft to Raise $30B for AI Investments",
+      "https://finance.yahoo.com/news/blackrock-microsoft-aim-raise-30-202200420.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 18:23:00",
+      "https://news.ycombinator.com/item?id=41594774"
+    ],
+    [
+      "Turning Everyday Gadgets into Bombs Is a Bad Idea",
+      "https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-09-18, 18:41:46",
-      "https://news.ycombinator.com/item?id=41583847"
-    ],
-    [
-      "Is Tor still safe to use?",
-      "https://blog.torproject.org/tor-is-still-safe/"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 20:24:49",
       "https://news.ycombinator.com/item?id=41560397"
     ],
@@ -267,26 +287,6 @@
     [
       "Modelling the archetype of a message-passing bug with TLA+ (2022)",
       "https://medium.com/@polyglot_factotum/modelling-a-message-passing-bug-with-tla-baaf090a688d"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 11:42:02",
-      "https://news.ycombinator.com/item?id=41546874"
-    ],
-    [
-      "Geometric Search Trees",
-      "https://g-trees.github.io/g_trees/"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 09:06:41",
-      "https://news.ycombinator.com/item?id=41546278"
-    ],
-    [
-      "Napkin-math: Techniques for estimating system performance from first-principles",
-      "https://github.com/sirupsen/napkin-math"
     ]
   ],
   [
