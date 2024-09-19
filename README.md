@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
+* [2024-09-19, 14:32:12](https://news.ycombinator.com/item?id=41592320) - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
 * [2024-09-19, 14:16:39](https://news.ycombinator.com/item?id=41592119) - [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
 * [2024-09-19, 14:05:32](https://news.ycombinator.com/item?id=41591998) - [JVM statistics cause garbage collection pauses (2015)](https://www.evanjones.ca/jvm-mmap-pause.html)
 * [2024-09-19, 13:58:56](https://news.ycombinator.com/item?id=41591906) - [Quantum researchers cause controlled 'wobble' in the nucleus of a single atom](https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom)
@@ -24,11 +25,10 @@
 * [2024-09-18, 15:56:27](https://news.ycombinator.com/item?id=41581480) - [Moshi: A speech-text foundation model for real time dialogue](https://github.com/kyutai-labs/moshi)
 * [2024-09-18, 14:44:00](https://news.ycombinator.com/item?id=41580326) - [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
 * [2024-09-18, 12:42:54](https://news.ycombinator.com/item?id=41579014) - [Ask HN: How to roll out an internal UI component library](https://news.ycombinator.com/item?id=41579014)
-* [2024-09-17, 01:01:57](https://news.ycombinator.com/item?id=41562904) - [The making of Four Laps – a looping video about looping videos (2021)](https://medium.com/the-rectangle-behind-you/the-making-of-four-laps-e20dd59271af)
 * [2024-09-16, 20:24:49](https://news.ycombinator.com/item?id=41560397) - [Vapour: A typed superset of the R programming language](https://vapour.run/)
 * [2024-09-16, 10:45:54](https://news.ycombinator.com/item?id=41554729) - [I Revived 3-Axis CNC Mill G-Code Simulator](https://github.com/Harvie/cnc-simulator)
 * [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
-* [2024-09-16, 01:51:25](https://news.ycombinator.com/item?id=41552013) - [Aliens and the Enlightenment](https://www.historytoday.com/archive/great-debates/aliens-and-enlightenment)
+* [2024-09-15, 14:05:03](https://news.ycombinator.com/item?id=41547596) - [OpenTelemetry and vendor neutrality: how to build an observability strategy](https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/)
 * [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 
 ## [Archives](archives/index.md)

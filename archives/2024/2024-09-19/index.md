@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
+* [2024-09-19, 14:32:12](https://news.ycombinator.com/item?id=41592320) - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
 * [2024-09-19, 14:16:39](https://news.ycombinator.com/item?id=41592119) - [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
 * [2024-09-19, 14:05:32](https://news.ycombinator.com/item?id=41591998) - [JVM statistics cause garbage collection pauses (2015)](https://www.evanjones.ca/jvm-mmap-pause.html)
 * [2024-09-19, 13:58:56](https://news.ycombinator.com/item?id=41591906) - [Quantum researchers cause controlled 'wobble' in the nucleus of a single atom](https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom)
