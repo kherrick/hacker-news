@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-09-14, 21:06:09",
+      "https://news.ycombinator.com/item?id=41542951"
+    ],
+    [
+      "A Case Study of Reflex Epilepsy Induced by Playing Chess",
+      "https://lichess.org/@/NDpatzer/blog/science-of-chess-a-case-study-of-reflex-epilepsy-induced-by-playing-chess/k08StYb4"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 14:56:30",
       "https://news.ycombinator.com/item?id=41540207"
     ],
@@ -287,16 +297,6 @@
     [
       "A overview of binaries, ELF, and NoMMU on Linux",
       "http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 06:58:36",
-      "https://news.ycombinator.com/item?id=41538009"
-    ],
-    [
-      "Are You Qualified to Use Null in SQL?",
-      "https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html"
     ]
   ]
 ]
