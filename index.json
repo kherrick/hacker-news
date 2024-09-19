@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-19, 15:46:37",
+      "https://news.ycombinator.com/item?id=41593087"
+    ],
+    [
+      "Pediatricians Created the Peanut Allergy Epidemic",
+      "https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 15:02:48",
+      "https://news.ycombinator.com/item?id=41592646"
+    ],
+    [
+      "OpenNMS: Visualize and monitor everything on your local and distributed networks",
+      "https://www.opennms.com/opennms-feature-list/"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 14:53:32",
       "https://news.ycombinator.com/item?id=41592552"
     ],
@@ -37,16 +57,6 @@
     [
       "JVM statistics cause garbage collection pauses (2015)",
       "https://www.evanjones.ca/jvm-mmap-pause.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 14:01:14",
-      "https://news.ycombinator.com/item?id=41591929"
-    ],
-    [
-      "Are psi researchers more like lay believers or skeptics?",
-      "https://medicalxpress.com/news/2024-09-psi-lay-believers-skeptics.html"
     ]
   ],
   [
@@ -161,22 +171,22 @@
   ],
   [
     [
+      "2024-09-19, 10:44:08",
+      "https://news.ycombinator.com/item?id=41590466"
+    ],
+    [
+      "Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host",
+      "https://larslofgren.com/forbes-marketplace/"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 23:17:36",
       "https://news.ycombinator.com/item?id=41586682"
     ],
     [
       "J2ME-Loader: J2ME emulator for Android devices",
       "https://github.com/nikita36078/J2ME-Loader"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 23:02:41",
-      "https://news.ycombinator.com/item?id=41586579"
-    ],
-    [
-      "Lichess: Post-Mortem of Our Longest Downtime",
-      "https://lichess.org/@/Lichess/blog/post-mortem-of-our-longest-downtime/XAgG7jbd"
     ]
   ],
   [
@@ -197,6 +207,16 @@
     [
       "Show HN: I've Built an Accounting System",
       "https://github.com/denys-olleik/accounting"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 21:03:07",
+      "https://news.ycombinator.com/item?id=41585449"
+    ],
+    [
+      "Meticulous (YC S21) is hiring to eliminate UI tests",
+      "https://news.ycombinator.com/item?id=41585449"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Moshi: A speech-text foundation model for real time dialogue",
       "https://github.com/kyutai-labs/moshi"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 14:44:00",
-      "https://news.ycombinator.com/item?id=41580326"
-    ],
-    [
-      "A high-performance, zero-overhead, extensible Python compiler using LLVM",
-      "https://github.com/exaloop/codon"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: ts-remove-unused – Remove unused code from your TypeScript project",
       "https://github.com/line/ts-remove-unused"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 14:05:03",
-      "https://news.ycombinator.com/item?id=41547596"
-    ],
-    [
-      "OpenTelemetry and vendor neutrality: how to build an observability strategy",
-      "https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/"
     ]
   ],
   [
