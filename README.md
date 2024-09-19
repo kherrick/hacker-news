@@ -20,6 +20,7 @@
 * [2024-09-19, 12:41:16](https://news.ycombinator.com/item?id=41591230) - [Seeing Like a Network](https://www.strangeloopcanon.com/p/seeing-like-a-network)
 * [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
 * [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
+* [2024-09-19, 11:28:24](https://news.ycombinator.com/item?id=41590682) - [Show HN: Sourcetable – AI Spreadsheet and Data Platform](https://news.ycombinator.com/item?id=41590682)
 * [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
 * [2024-09-19, 07:12:16](https://news.ycombinator.com/item?id=41589361) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
 * [2024-09-18, 20:23:47](https://news.ycombinator.com/item?id=41585017) - [Show HN: Selectable – mobile-friendly Postgres client](https://getselectable.com/)
@@ -28,7 +29,6 @@
 * [2024-09-16, 10:45:54](https://news.ycombinator.com/item?id=41554729) - [I Revived 3-Axis CNC Mill G-Code Simulator](https://github.com/Harvie/cnc-simulator)
 * [2024-09-16, 03:45:18](https://news.ycombinator.com/item?id=41552562) - [Spinning the Night Self](https://aeon.co/essays/tender-and-creative-is-the-night-on-the-benefits-of-insomnia)
 * [2024-09-15, 22:15:22](https://news.ycombinator.com/item?id=41550907) - [The Cheating Device (ChatGPT on a TI-84) [video]](https://www.youtube.com/watch?v=Bicjxl4EcJg)
-* [2024-09-15, 16:33:48](https://news.ycombinator.com/item?id=41548475) - [Modelling the archetype of a message-passing bug with TLA+ (2022)](https://medium.com/@polyglot_factotum/modelling-a-message-passing-bug-with-tla-baaf090a688d)
 * [2024-09-14, 15:43:53](https://news.ycombinator.com/item?id=41540542) - [MicroPython on Flipper Zero](https://lab.flipper.net/apps/upython)
 
 ## [Archives](archives/index.md)

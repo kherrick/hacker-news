@@ -57,6 +57,7 @@
 * [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
 * [2024-09-19, 11:42:02](https://news.ycombinator.com/item?id=41590771) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2024-09-19, 11:39:14](https://news.ycombinator.com/item?id=41590754) - [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
+* [2024-09-19, 11:28:24](https://news.ycombinator.com/item?id=41590682) - [Show HN: Sourcetable – AI Spreadsheet and Data Platform](https://news.ycombinator.com/item?id=41590682)
 * [2024-09-19, 10:57:05](https://news.ycombinator.com/item?id=41590529) - [ADHD headband treats symptoms in 20 minutes per day](https://newatlas.com/science/adhd-autism/adhd-device-neurode/)
 * [2024-09-19, 10:44:46](https://news.ycombinator.com/item?id=41590469) - [Nirvana fallacy (Perfect solution fallacy)](https://en.wikipedia.org/wiki/Nirvana_fallacy)
 * [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
