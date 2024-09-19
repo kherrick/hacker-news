@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-19, 18:02:34](https://news.ycombinator.com/item?id=41594527) - [Ask HN: Is it wrong not wanting career progression beyond senior?](https://news.ycombinator.com/item?id=41594527)
 * [2024-09-19, 18:01:04](https://news.ycombinator.com/item?id=41594510) - [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
-* [2024-09-19, 17:30:06](https://news.ycombinator.com/item?id=41594209) - [Ask HN: What email service(s) do you use for your side projects?](https://news.ycombinator.com/item?id=41594209)
 * [2024-09-19, 17:00:28](https://news.ycombinator.com/item?id=41593901) - [Aviator (YC S21) is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
 * [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
 * [2024-09-19, 16:12:11](https://news.ycombinator.com/item?id=41593368) - [The reason your Columbia shirt has a tiny pocket near your waistline (2019)](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/)
@@ -29,6 +27,8 @@
 * [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
 * [2024-09-15, 22:15:22](https://news.ycombinator.com/item?id=41550907) - [The Cheating Device (ChatGPT on a TI-84) [video]](https://www.youtube.com/watch?v=Bicjxl4EcJg)
 * [2024-09-15, 16:33:48](https://news.ycombinator.com/item?id=41548475) - [Modelling the archetype of a message-passing bug with TLA+ (2022)](https://medium.com/@polyglot_factotum/modelling-a-message-passing-bug-with-tla-baaf090a688d)
+* [2024-09-15, 11:42:02](https://news.ycombinator.com/item?id=41546874) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
+* [2024-09-15, 09:06:41](https://news.ycombinator.com/item?id=41546278) - [Napkin-math: Techniques for estimating system performance from first-principles](https://github.com/sirupsen/napkin-math)
 * [2024-09-14, 15:43:53](https://news.ycombinator.com/item?id=41540542) - [MicroPython on Flipper Zero](https://lab.flipper.net/apps/upython)
 
 ## [Archives](archives/index.md)
