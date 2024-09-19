@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-19, 05:33:43](https://news.ycombinator.com/item?id=41588842) - [Ban warnings fly as users dare to probe the \"thoughts\" of OpenAI's latest model](https://arstechnica.com/information-technology/2024/09/openai-threatens-bans-for-probing-new-ai-models-reasoning-process/)
 * [2024-09-19, 05:08:56](https://news.ycombinator.com/item?id=41588717) - [US health system ranks last compared with peer nations, report finds – US news](https://www.theguardian.com/us-news/2024/sep/18/american-health-system-ranks-last)
 * [2024-09-19, 05:00:13](https://news.ycombinator.com/item?id=41588667) - [Mozilla has fired their Chief Product Officer after cancer diagnosis](https://mastodon.social/@stevetex/113162099798398758)
 * [2024-09-19, 03:27:43](https://news.ycombinator.com/item?id=41588200) - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
@@ -24,7 +25,6 @@
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-16, 18:17:00](https://news.ycombinator.com/item?id=41558883) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
-* [2024-09-16, 11:18:55](https://news.ycombinator.com/item?id=41554899) - [Text makeup – a tool to decode and explore Unicode strings](https://text.makeup)
 * [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
 * [2024-09-15, 14:05:03](https://news.ycombinator.com/item?id=41547596) - [OpenTelemetry and vendor neutrality: how to build an observability strategy](https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/)
 * [2024-09-14, 21:06:09](https://news.ycombinator.com/item?id=41542951) - [A Case Study of Reflex Epilepsy Induced by Playing Chess](https://lichess.org/@/NDpatzer/blog/science-of-chess-a-case-study-of-reflex-epilepsy-induced-by-playing-chess/k08StYb4)
