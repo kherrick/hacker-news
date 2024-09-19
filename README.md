@@ -4,7 +4,7 @@
 * [2024-09-19, 02:31:51](https://news.ycombinator.com/item?id=41587900) - [Strange Design Decision: An Oven with French Doors](https://www.core77.com/posts/133639/Strange-Design-Decision-An-Oven-with-French-Doors)
 * [2024-09-19, 00:37:46](https://news.ycombinator.com/item?id=41587214) - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
 * [2024-09-18, 23:42:11](https://news.ycombinator.com/item?id=41586836) - [Debugging Behind the Iron Curtain (2010)](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
-* [2024-09-18, 22:19:05](https://news.ycombinator.com/item?id=41586203) - [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
+* [2024-09-18, 23:17:36](https://news.ycombinator.com/item?id=41586682) - [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
 * [2024-09-18, 21:59:42](https://news.ycombinator.com/item?id=41586031) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
 * [2024-09-18, 21:03:07](https://news.ycombinator.com/item?id=41585449) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
 * [2024-09-18, 20:36:28](https://news.ycombinator.com/item?id=41585156) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
