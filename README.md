@@ -10,7 +10,7 @@
 * [2024-09-19, 12:41:16](https://news.ycombinator.com/item?id=41591230) - [Seeing Like a Network](https://www.strangeloopcanon.com/p/seeing-like-a-network)
 * [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
 * [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
-* [2024-09-19, 03:27:43](https://news.ycombinator.com/item?id=41588200) - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
+* [2024-09-19, 08:20:22](https://news.ycombinator.com/item?id=41589710) - [The critical window of shadow libraries](https://annas-archive.se/blog/critical-window.html)
 * [2024-09-19, 01:13:40](https://news.ycombinator.com/item?id=41587461) - [Netflix's Key-Value Data Abstraction Layer](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
 * [2024-09-18, 23:17:36](https://news.ycombinator.com/item?id=41586682) - [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
 * [2024-09-18, 23:02:41](https://news.ycombinator.com/item?id=41586579) - [Lichess: Post-Mortem of Our Longest Downtime](https://lichess.org/@/Lichess/blog/post-mortem-of-our-longest-downtime/XAgG7jbd)
