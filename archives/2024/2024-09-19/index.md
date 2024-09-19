@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 10:57:05](https://news.ycombinator.com/item?id=41590529) - [ADHD headband treats symptoms in 20 minutes per day](https://newatlas.com/science/adhd-autism/adhd-device-neurode/)
 * [2024-09-19, 10:44:46](https://news.ycombinator.com/item?id=41590469) - [Nirvana fallacy (Perfect solution fallacy)](https://en.wikipedia.org/wiki/Nirvana_fallacy)
 * [2024-09-19, 10:25:01](https://news.ycombinator.com/item?id=41590367) - [Open research Europe: Towards a collective open access publishing service](https://op.europa.eu/en/publication-detail/-/publication/3603e219-6a65-11ef-a8ba-01aa75ed71a1/language-en)
+* [2024-09-19, 09:24:24](https://news.ycombinator.com/item?id=41590030) - [Diversification is a negative price lunch](https://outcastbeta.com/diversification-is-a-negative-price-lunch/)
 * [2024-09-19, 08:46:50](https://news.ycombinator.com/item?id=41589863) - [An In-Depth Guide to Contrastive Learning: Techniques, Models, and Applications](https://myscale.com/blog/what-is-contrastive-learning/)
 * [2024-09-19, 07:03:50](https://news.ycombinator.com/item?id=41589326) - [Microsoft Teams with Startup Anduril on Army Combat Goggle System](https://www.bloomberg.com/news/articles/2024-09-19/microsoft-teams-with-startup-anduril-on-army-combat-goggle-system)
 * [2024-09-19, 05:33:43](https://news.ycombinator.com/item?id=41588842) - [Ban warnings fly as users dare to probe the \"thoughts\" of OpenAI's latest model](https://arstechnica.com/information-technology/2024/09/openai-threatens-bans-for-probing-new-ai-models-reasoning-process/)

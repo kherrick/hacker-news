@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-19, 10:44:46](https://news.ycombinator.com/item?id=41590469) - [Nirvana fallacy (Perfect solution fallacy)](https://en.wikipedia.org/wiki/Nirvana_fallacy)
+* [2024-09-19, 10:57:05](https://news.ycombinator.com/item?id=41590529) - [ADHD headband treats symptoms in 20 minutes per day](https://newatlas.com/science/adhd-autism/adhd-device-neurode/)
+* [2024-09-19, 09:24:24](https://news.ycombinator.com/item?id=41590030) - [Diversification is a negative price lunch](https://outcastbeta.com/diversification-is-a-negative-price-lunch/)
 * [2024-09-19, 08:46:50](https://news.ycombinator.com/item?id=41589863) - [An In-Depth Guide to Contrastive Learning: Techniques, Models, and Applications](https://myscale.com/blog/what-is-contrastive-learning/)
 * [2024-09-19, 03:27:43](https://news.ycombinator.com/item?id=41588200) - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
 * [2024-09-19, 00:37:46](https://news.ycombinator.com/item?id=41587214) - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
@@ -22,7 +23,6 @@
 * [2024-09-18, 01:38:01](https://news.ycombinator.com/item?id=41574844) - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 * [2024-09-16, 18:17:00](https://news.ycombinator.com/item?id=41558883) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
 * [2024-09-16, 12:12:29](https://news.ycombinator.com/item?id=41555232) - [The Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
-* [2024-09-16, 11:18:55](https://news.ycombinator.com/item?id=41554899) - [Text makeup – a tool to decode and explore Unicode strings](https://text.makeup)
 * [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
 * [2024-09-16, 01:51:25](https://news.ycombinator.com/item?id=41552013) - [Aliens and the Enlightenment](https://www.historytoday.com/archive/great-debates/aliens-and-enlightenment)
 * [2024-09-16, 00:57:46](https://news.ycombinator.com/item?id=41551773) - [Remote Book Scanning with 1DollarScan and Optimizing Scanned PDFs](https://type.cyhsu.xyz/2024/09/1dollarscan/)
