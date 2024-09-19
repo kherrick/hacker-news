@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-19, 15:59:19",
+      "https://news.ycombinator.com/item?id=41593216"
+    ],
+    [
+      "Show HN: Numscript, a declarative language to model financial transactions",
+      "https://playground.numscript.org/"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 15:46:37",
       "https://news.ycombinator.com/item?id=41593087"
     ],
@@ -187,16 +197,6 @@
     [
       "Ruby-SAML pwned by XML signature wrapping attacks",
       "https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 21:04:55",
-      "https://news.ycombinator.com/item?id=41585468"
-    ],
-    [
-      "Show HN: I've Built an Accounting System",
-      "https://github.com/denys-olleik/accounting"
     ]
   ],
   [
