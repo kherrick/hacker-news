@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-09-19, 18:22:00",
+      "https://news.ycombinator.com/item?id=41594758"
+    ],
+    [
+      "Show HN: An Elliptic Curve-Based Secure Chat, Written Using Rust and Protobuf",
+      "https://github.com/vaktibabat/ecurvechat"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 18:01:04",
       "https://news.ycombinator.com/item?id=41594510"
     ],
@@ -257,16 +267,6 @@
     [
       "I Revived 3-Axis CNC Mill G-Code Simulator",
       "https://github.com/Harvie/cnc-simulator"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 08:39:33",
-      "https://news.ycombinator.com/item?id=41554014"
-    ],
-    [
-      "Show HN: ts-remove-unused – Remove unused code from your TypeScript project",
-      "https://github.com/line/ts-remove-unused"
     ]
   ],
   [
