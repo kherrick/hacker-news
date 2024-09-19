@@ -58,6 +58,7 @@
 * [2024-09-19, 09:24:24](https://news.ycombinator.com/item?id=41590030) - [Diversification is a negative price lunch](https://outcastbeta.com/diversification-is-a-negative-price-lunch/)
 * [2024-09-19, 08:46:50](https://news.ycombinator.com/item?id=41589863) - [An In-Depth Guide to Contrastive Learning: Techniques, Models, and Applications](https://myscale.com/blog/what-is-contrastive-learning/)
 * [2024-09-19, 08:20:22](https://news.ycombinator.com/item?id=41589710) - [The critical window of shadow libraries](https://annas-archive.se/blog/critical-window.html)
+* [2024-09-19, 07:12:16](https://news.ycombinator.com/item?id=41589361) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
 * [2024-09-19, 07:03:50](https://news.ycombinator.com/item?id=41589326) - [Microsoft Teams with Startup Anduril on Army Combat Goggle System](https://www.bloomberg.com/news/articles/2024-09-19/microsoft-teams-with-startup-anduril-on-army-combat-goggle-system)
 * [2024-09-19, 05:33:43](https://news.ycombinator.com/item?id=41588842) - [Ban warnings fly as users dare to probe the \"thoughts\" of OpenAI's latest model](https://arstechnica.com/information-technology/2024/09/openai-threatens-bans-for-probing-new-ai-models-reasoning-process/)
 * [2024-09-19, 05:08:56](https://news.ycombinator.com/item?id=41588717) - [US health system ranks last compared with peer nations, report finds – US news](https://www.theguardian.com/us-news/2024/sep/18/american-health-system-ranks-last)
