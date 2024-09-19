@@ -8,6 +8,7 @@
 * [2024-09-19, 14:32:12](https://news.ycombinator.com/item?id=41592320) - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
 * [2024-09-19, 14:16:39](https://news.ycombinator.com/item?id=41592119) - [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
 * [2024-09-19, 14:05:32](https://news.ycombinator.com/item?id=41591998) - [JVM statistics cause garbage collection pauses (2015)](https://www.evanjones.ca/jvm-mmap-pause.html)
+* [2024-09-19, 14:01:14](https://news.ycombinator.com/item?id=41591929) - [Are psi researchers more like lay believers or skeptics?](https://medicalxpress.com/news/2024-09-psi-lay-believers-skeptics.html)
 * [2024-09-19, 13:58:56](https://news.ycombinator.com/item?id=41591906) - [Quantum researchers cause controlled 'wobble' in the nucleus of a single atom](https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom)
 * [2024-09-19, 13:51:57](https://news.ycombinator.com/item?id=41591837) - [Organic thermoelectric device can harvest energy at room temperature](https://www.kyushu-u.ac.jp/en/researches/view/299/)
 * [2024-09-19, 13:48:20](https://news.ycombinator.com/item?id=41591798) - [Human genome stored on 'everlasting' memory crystal](https://www.southampton.ac.uk/news/2024/09/human-genome-stored-on-everlasting-memory-crystal-.page)
