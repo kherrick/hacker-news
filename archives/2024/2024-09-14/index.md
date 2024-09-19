@@ -71,6 +71,7 @@
 * [2024-09-14, 08:25:59](https://news.ycombinator.com/item?id=41538349) - [iPhone 16 Pro lets users capture ProRAW photos in JPEG-XL format](https://9to5mac.com/2024/09/13/iphone-16-pro-lets-users-capture-proraw-photos-in-jpeg-xl-format/)
 * [2024-09-14, 08:19:48](https://news.ycombinator.com/item?id=41538326) - [Losses widen at Stripe Europe to $1.1B after employee 'liquidity event'](https://www.irishtimes.com/business/2024/09/13/losses-widen-at-stripe-europe-to-11bn-after-employee-liquidity-event/)
 * [2024-09-14, 08:02:48](https://news.ycombinator.com/item?id=41538273) - [Show HN: I removed politics from Twitter with AI](https://www.mindfw.com)
+* [2024-09-14, 06:58:36](https://news.ycombinator.com/item?id=41538009) - [Are You Qualified to Use Null in SQL?](https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html)
 * [2024-09-14, 06:53:45](https://news.ycombinator.com/item?id=41537994) - [Who is responsible for the greatest change to our language? Teenage girls](https://www.abc.net.au/news/2024-08-04/teenage-girls-linguistics/104160082)
 * [2024-09-14, 06:32:26](https://news.ycombinator.com/item?id=41537916) - [Electric DeLorean DMC-12 Conversion Kit](https://www.electrogenic.co.uk/kits/conversion-kits/delorean-dmc-12-conversion-kit/)
 * [2024-09-14, 04:17:30](https://news.ycombinator.com/item?id=41537433) - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)

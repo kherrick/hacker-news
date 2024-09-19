@@ -7,6 +7,7 @@
 * [2024-09-18, 23:42:11](https://news.ycombinator.com/item?id=41586836) - [Debugging Behind the Iron Curtain (2010)](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 * [2024-09-18, 23:38:10](https://news.ycombinator.com/item?id=41586809) - [A Message from Intel CEO Pat Gelsinger to Employees](https://www.intc.com/news-events/press-releases/detail/1710/a-message-from-intel-ceo-pat-gelsinger-to-employees)
 * [2024-09-18, 23:28:25](https://news.ycombinator.com/item?id=41586742) - [AI agents invade observability: snake oil or the future of SRE?](https://monitoring2.substack.com/p/ai-agents-invade-observability)
+* [2024-09-18, 23:17:36](https://news.ycombinator.com/item?id=41586682) - [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
 * [2024-09-18, 23:16:49](https://news.ycombinator.com/item?id=41586676) - [Hetzner Connectivity Issues Due to Sanction Busting Activities](https://blog.cloud66.com/hetzner-connectivity-issues-due-to-sanction-busting-activities)
 * [2024-09-18, 22:19:05](https://news.ycombinator.com/item?id=41586203) - [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
 * [2024-09-18, 21:59:42](https://news.ycombinator.com/item?id=41586031) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
