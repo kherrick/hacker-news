@@ -77,6 +77,7 @@
 * [2024-09-16, 05:11:00](https://news.ycombinator.com/item?id=41552952) - [Errors from `Close`](https://blog.sunfishcode.online/errors-from-close/)
 * [2024-09-16, 04:36:09](https://news.ycombinator.com/item?id=41552804) - [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 04:03:25](https://news.ycombinator.com/item?id=41552642) - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
+* [2024-09-16, 03:45:18](https://news.ycombinator.com/item?id=41552562) - [Spinning the Night Self](https://aeon.co/essays/tender-and-creative-is-the-night-on-the-benefits-of-insomnia)
 * [2024-09-16, 03:10:26](https://news.ycombinator.com/item?id=41552403) - [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
 * [2024-09-16, 02:34:01](https://news.ycombinator.com/item?id=41552213) - [uBlock Origin is no longer available on Chrome web store](https://old.reddit.com/r/Piracy/s/dGGy8PXAMG)
 * [2024-09-16, 02:15:31](https://news.ycombinator.com/item?id=41552132) - [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)

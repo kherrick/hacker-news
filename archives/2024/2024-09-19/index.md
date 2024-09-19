@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
 * [2024-09-19, 21:29:26](https://news.ycombinator.com/item?id=41596561) - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)
+* [2024-09-19, 21:16:39](https://news.ycombinator.com/item?id=41596466) - [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
 * [2024-09-19, 21:16:10](https://news.ycombinator.com/item?id=41596462) - [Beirut Airport Bans Pagers, Walkie-Talkies on All Flights](https://www.nna-leb.gov.lb/en/economy/722542/beirut-airport-bans-pagers-walkie-talkies-on-all-f)
+* [2024-09-19, 21:14:23](https://news.ycombinator.com/item?id=41596449) - [Avian flu detected in wastewater from 10 Texas cities](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h5n1-avian-flu-virus-detected-wastewater-10-texas-cities)
 * [2024-09-19, 21:01:05](https://news.ycombinator.com/item?id=41596352) - [Finley (YC W21) is hiring engineers to build cap markets software (US Remote)](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
 * [2024-09-19, 20:57:55](https://news.ycombinator.com/item?id=41596319) - [Up to a Quarter of Rental Inflation Is Due to Price-Fixing](https://www.thebignewsletter.com/p/up-to-a-quarter-of-rental-inflation)
 * [2024-09-19, 19:32:53](https://news.ycombinator.com/item?id=41595485) - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
