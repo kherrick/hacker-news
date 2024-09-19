@@ -9,6 +9,7 @@
 * [2024-09-19, 18:35:46](https://news.ycombinator.com/item?id=41594912) - [BlackRock, Microsoft to Raise $30B for AI Investments](https://finance.yahoo.com/news/blackrock-microsoft-aim-raise-30-202200420.html)
 * [2024-09-19, 18:31:00](https://news.ycombinator.com/item?id=41594862) - [Real-time Linux is officially part of the kernel](https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/)
 * [2024-09-19, 18:23:00](https://news.ycombinator.com/item?id=41594774) - [Turning Everyday Gadgets into Bombs Is a Bad Idea](https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/)
+* [2024-09-19, 18:22:00](https://news.ycombinator.com/item?id=41594758) - [Show HN: An Elliptic Curve-Based Secure Chat, Written Using Rust and Protobuf](https://github.com/vaktibabat/ecurvechat)
 * [2024-09-19, 18:02:34](https://news.ycombinator.com/item?id=41594527) - [Ask HN: Is it wrong not wanting career progression beyond senior?](https://news.ycombinator.com/item?id=41594527)
 * [2024-09-19, 18:02:17](https://news.ycombinator.com/item?id=41594523) - [There is no antimimetics division V2](https://qntm.org/publ)
 * [2024-09-19, 18:01:04](https://news.ycombinator.com/item?id=41594510) - [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
