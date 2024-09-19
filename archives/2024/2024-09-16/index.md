@@ -16,6 +16,7 @@
 * [2024-09-16, 20:43:52](https://news.ycombinator.com/item?id=41560648) - [Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
 * [2024-09-16, 20:38:28](https://news.ycombinator.com/item?id=41560586) - [Rearchitecting Core Services at X](https://twitter.com/cambridgemike/status/1835774409786986572)
 * [2024-09-16, 20:31:07](https://news.ycombinator.com/item?id=41560491) - [The Subprime AI Crisis](https://www.wheresyoured.at/subprimeai/)
+* [2024-09-16, 20:24:49](https://news.ycombinator.com/item?id=41560397) - [Vapour: A typed superset of the R programming language](https://vapour.run/)
 * [2024-09-16, 20:22:10](https://news.ycombinator.com/item?id=41560359) - [Intel aims to turn foundry business into subsidiary to allow for outside funding](https://www.cnbc.com/2024/09/16/intel-turns-foundry-business-into-subsidiary-weighs-outside-funding.html)
 * [2024-09-16, 20:21:03](https://news.ycombinator.com/item?id=41560343) - [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
 * [2024-09-16, 20:16:45](https://news.ycombinator.com/item?id=41560275) - [An Update on Our Safety and Security Practices](https://openai.com/index/update-on-safety-and-security-practices/)
