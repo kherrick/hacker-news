@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 17:00:58](https://news.ycombinator.com/item?id=41603774) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 * [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
 * [2024-09-20, 13:54:41](https://news.ycombinator.com/item?id=41602056) - [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
 * [2024-09-20, 13:18:06](https://news.ycombinator.com/item?id=41601730) - [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
 * [2024-09-20, 12:30:11](https://news.ycombinator.com/item?id=41601347) - [Tō Reo – A Māori Spellchecker](https://xn--treo-l3a.nz/)
-* [2024-09-20, 12:01:20](https://news.ycombinator.com/item?id=41601141) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 09:19:40](https://news.ycombinator.com/item?id=41600179) - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
@@ -19,7 +19,6 @@
 * [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
-* [2024-09-19, 12:58:18](https://news.ycombinator.com/item?id=41591399) - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
 * [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
 * [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
 * [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
@@ -28,6 +27,7 @@
 * [2024-09-17, 06:59:52](https://news.ycombinator.com/item?id=41565056) - [GPU Debug Scopes](https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/)
 * [2024-09-16, 23:54:56](https://news.ycombinator.com/item?id=41562506) - [Julia Child's Kitchens](https://placesjournal.org/article/julia-childs-kitchens/)
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
+* [2024-09-16, 08:26:14](https://news.ycombinator.com/item?id=41553940) - [Constraints and Guarantees](https://jfmengels.net/constraints-and-guarantees/)
 * [2024-09-16, 03:45:18](https://news.ycombinator.com/item?id=41552562) - [Spinning the Night Self](https://aeon.co/essays/tender-and-creative-is-the-night-on-the-benefits-of-insomnia)
 * [2024-09-15, 22:15:22](https://news.ycombinator.com/item?id=41550907) - [The Cheating Device (ChatGPT on a TI-84) [video]](https://www.youtube.com/watch?v=Bicjxl4EcJg)
 
