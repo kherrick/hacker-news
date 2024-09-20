@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-09-20, 16:00:39",
-      "https://news.ycombinator.com/item?id=41603251"
-    ],
-    [
-      "Three Mile Island is reopening and selling its power to Microsoft",
-      "https://www.cnn.com/2024/09/20/energy/three-mile-island-microsoft-ai/index.html"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 14:41:16",
       "https://news.ycombinator.com/item?id=41602474"
     ],
     [
       "MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts",
       "https://github.com/qhjqhj00/MemoRAG"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 13:59:25",
-      "https://news.ycombinator.com/item?id=41602096"
-    ],
-    [
-      "New AI diffusion model approach solves the aspect ratio problem",
-      "https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past"
     ]
   ],
   [
@@ -47,16 +27,6 @@
     [
       "CuPy: NumPy and SciPy for GPU",
       "https://github.com/cupy/cupy"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 13:16:12",
-      "https://news.ycombinator.com/item?id=41601712"
-    ],
-    [
-      "Notes and Receipts (PCAPs) for TCP and ICMP Noise Storms",
-      "https://github.com/GreyNoise-Intelligence/2024-09-noise-storms"
     ]
   ],
   [
@@ -181,6 +151,26 @@
   ],
   [
     [
+      "2024-09-19, 18:31:00",
+      "https://news.ycombinator.com/item?id=41594862"
+    ],
+    [
+      "Real-time Linux is officially part of the kernel",
+      "https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 16:49:38",
+      "https://news.ycombinator.com/item?id=41593809"
+    ],
+    [
+      "FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies",
+      "https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 15:59:19",
       "https://news.ycombinator.com/item?id=41593216"
     ],
@@ -287,6 +277,16 @@
     [
       "3D Reconstruction with Spatial Memory",
       "https://hengyiwang.github.io/projects/spanner"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 03:45:18",
+      "https://news.ycombinator.com/item?id=41552562"
+    ],
+    [
+      "Spinning the Night Self",
+      "https://aeon.co/essays/tender-and-creative-is-the-night-on-the-benefits-of-insomnia"
     ]
   ],
   [
