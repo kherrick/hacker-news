@@ -17,6 +17,7 @@
 * [2024-09-20, 17:18:48](https://news.ycombinator.com/item?id=41603920) - [Re-opened Three Mile Island will power AI data centers under new deal](https://arstechnica.com/ai/2024/09/re-opened-three-mile-island-will-power-ai-data-centers-under-new-deal/)
 * [2024-09-20, 17:11:48](https://news.ycombinator.com/item?id=41603865) - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
 * [2024-09-20, 17:00:58](https://news.ycombinator.com/item?id=41603774) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-09-20, 16:51:24](https://news.ycombinator.com/item?id=41603698) - [Federal civil rights watchdog sounds alarm over Feds use of facial recognition](https://therecord.media/federal-civil-rights-watchdog-facial-recognition-technology-report)
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 * [2024-09-20, 16:00:39](https://news.ycombinator.com/item?id=41603251) - [Three Mile Island is reopening and selling its power to Microsoft](https://www.cnn.com/2024/09/20/energy/three-mile-island-microsoft-ai/index.html)
 * [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
