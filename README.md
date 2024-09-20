@@ -2,7 +2,6 @@
 
 * [2024-09-20, 07:19:15](https://news.ycombinator.com/item?id=41599621) - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
 * [2024-09-20, 07:00:04](https://news.ycombinator.com/item?id=41599523) - [The Architecture of Open Source Applications](https://aosabook.org/en/)
-* [2024-09-20, 05:44:15](https://news.ycombinator.com/item?id=41599128) - [Starlink's new satellites emit 30x more radio interference than before](https://www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/)
 * [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 * [2024-09-20, 02:10:45](https://news.ycombinator.com/item?id=41598170) - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Anthropic – Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
@@ -20,6 +19,7 @@
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
+* [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
 * [2024-09-19, 11:28:24](https://news.ycombinator.com/item?id=41590682) - [Show HN: Sourcetable – AI Spreadsheet and Data Platform](https://news.ycombinator.com/item?id=41590682)
 * [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
 * [2024-09-19, 07:12:16](https://news.ycombinator.com/item?id=41589361) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
