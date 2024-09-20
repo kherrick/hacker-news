@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 07:19:15](https://news.ycombinator.com/item?id=41599621) - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
 * [2024-09-20, 05:44:15](https://news.ycombinator.com/item?id=41599128) - [Starlink's new satellites emit 30x more radio interference than before](https://www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/)
 * [2024-09-20, 02:10:45](https://news.ycombinator.com/item?id=41598170) - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Anthropic – Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
@@ -16,7 +17,6 @@
 * [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
-* [2024-09-19, 13:12:56](https://news.ycombinator.com/item?id=41591527) - [Biggest ever seen black hole jets; blasting plasma well beyond their own galaxy](https://phys.org/news/2024-09-astronomers-biggest-black-hole-jets.html)
 * [2024-09-19, 13:04:21](https://news.ycombinator.com/item?id=41591449) - [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
 * [2024-09-19, 12:58:18](https://news.ycombinator.com/item?id=41591399) - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
 * [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
