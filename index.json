@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-09-20, 01:20:32",
-      "https://news.ycombinator.com/item?id=41597929"
-    ],
-    [
-      "A flight search engine that combines flights from different airlines? (2014)",
-      "https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 01:00:23",
       "https://news.ycombinator.com/item?id=41597830"
     ],
@@ -197,6 +187,16 @@
     [
       "Glass Antenna Turns windows into 5G Base Stations",
       "https://spectrum.ieee.org/5g-antenna-transparent-window"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 13:04:21",
+      "https://news.ycombinator.com/item?id=41591449"
+    ],
+    [
+      "Show HN: Chili. Rust port of Spice, a low-overhead parallelization library",
+      "https://github.com/dragostis/chili"
     ]
   ],
   [
