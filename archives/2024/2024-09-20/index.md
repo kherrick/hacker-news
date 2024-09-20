@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
 * [2024-09-20, 18:09:15](https://news.ycombinator.com/item?id=41604267) - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
+* [2024-09-20, 18:04:34](https://news.ycombinator.com/item?id=41604241) - [Updates to the Google Photos API](https://developers.google.com/photos/support/updates)
+* [2024-09-20, 17:51:07](https://news.ycombinator.com/item?id=41604161) - [Evidence points to Wuhan market as source of Covid-19 outbreak](https://www.newscientist.com/article/2448671-evidence-points-to-wuhan-market-as-source-of-covid-19-outbreak/)
 * [2024-09-20, 17:50:18](https://news.ycombinator.com/item?id=41604156) - [Flight diverted after passenger finds mouse in meal](https://www.bbc.com/news/articles/ckgmy2d09x2o)
 * [2024-09-20, 17:22:06](https://news.ycombinator.com/item?id=41603955) - [Mitosis in the Gray-Scott model: writing shader-based chemical simulations](https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html)
+* [2024-09-20, 17:18:48](https://news.ycombinator.com/item?id=41603920) - [Re-opened Three Mile Island will power AI data centers under new deal](https://arstechnica.com/ai/2024/09/re-opened-three-mile-island-will-power-ai-data-centers-under-new-deal/)
 * [2024-09-20, 17:11:48](https://news.ycombinator.com/item?id=41603865) - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
 * [2024-09-20, 17:00:58](https://news.ycombinator.com/item?id=41603774) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
