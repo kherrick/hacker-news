@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 17:11:48](https://news.ycombinator.com/item?id=41603865) - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
 * [2024-09-20, 17:00:58](https://news.ycombinator.com/item?id=41603774) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 * [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
@@ -28,7 +29,6 @@
 * [2024-09-16, 23:54:56](https://news.ycombinator.com/item?id=41562506) - [Julia Child's Kitchens](https://placesjournal.org/article/julia-childs-kitchens/)
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
 * [2024-09-16, 08:26:14](https://news.ycombinator.com/item?id=41553940) - [Constraints and Guarantees](https://jfmengels.net/constraints-and-guarantees/)
-* [2024-09-16, 03:45:18](https://news.ycombinator.com/item?id=41552562) - [Spinning the Night Self](https://aeon.co/essays/tender-and-creative-is-the-night-on-the-benefits-of-insomnia)
 * [2024-09-15, 22:15:22](https://news.ycombinator.com/item?id=41550907) - [The Cheating Device (ChatGPT on a TI-84) [video]](https://www.youtube.com/watch?v=Bicjxl4EcJg)
 
 ## [Archives](archives/index.md)
