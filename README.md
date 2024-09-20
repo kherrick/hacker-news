@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 * [2024-09-20, 18:09:15](https://news.ycombinator.com/item?id=41604267) - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Docker Desktop Alternative](https://container-desktop.com/)
 * [2024-09-20, 17:33:15](https://news.ycombinator.com/item?id=41604042) - [Show HN: Inngest 1.0 – Open-source durable workflows on every platform](https://www.inngest.com/)
@@ -22,7 +23,6 @@
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
-* [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
 * [2024-09-19, 12:03:43](https://news.ycombinator.com/item?id=41590905) - [Show HN: EloqKV – Scalable distributed ACID key-value database with Redis API](https://www.eloqdata.com/blog/2024/08/16/eloqkv)
 * [2024-09-19, 07:12:16](https://news.ycombinator.com/item?id=41589361) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
 * [2024-09-18, 11:36:46](https://news.ycombinator.com/item?id=41578440) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
