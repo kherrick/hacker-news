@@ -78,6 +78,7 @@
 * [2024-09-16, 08:20:52](https://news.ycombinator.com/item?id=41553930) - [AI: Markets for Lemons, and the Great Logging Off](https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/)
 * [2024-09-16, 08:19:16](https://news.ycombinator.com/item?id=41553922) - [Holding a Program in One's Head (2007)](https://paulgraham.com/head.html)
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [Storm Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
+* [2024-09-16, 07:45:25](https://news.ycombinator.com/item?id=41553727) - [Should we decompose our monolith?](https://lethain.com/decompose-monolith-strategy/)
 * [2024-09-16, 06:29:48](https://news.ycombinator.com/item?id=41553320) - [Revisiting Overture's Global Geospatial Datasets](https://tech.marksblogg.com/overture-2024-revisit.html)
 * [2024-09-16, 05:30:08](https://news.ycombinator.com/item?id=41553031) - [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)
 * [2024-09-16, 05:11:00](https://news.ycombinator.com/item?id=41552952) - [Errors from `Close`](https://blog.sunfishcode.online/errors-from-close/)
