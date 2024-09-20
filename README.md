@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-20, 10:22:01](https://news.ycombinator.com/item?id=41600483) - [30th-anniversary limited-run PS5 and PS5 Pro bring back mid-'90s gray plastic](https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/)
+* [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 09:19:40](https://news.ycombinator.com/item?id=41600179) - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics. 275 supported cars](https://github.com/commaai/openpilot)
+* [2024-09-20, 08:53:12](https://news.ycombinator.com/item?id=41600075) - [Parallel PNG Proposal (2021)](https://github.com/DavidBuchanan314/parallel-png-proposal)
 * [2024-09-20, 07:00:04](https://news.ycombinator.com/item?id=41599523) - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 * [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Anthropic – Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
@@ -24,7 +25,6 @@
 * [2024-09-19, 07:12:16](https://news.ycombinator.com/item?id=41589361) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
 * [2024-09-17, 06:59:52](https://news.ycombinator.com/item?id=41565056) - [GPU Debug Scopes](https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/)
 * [2024-09-16, 23:54:56](https://news.ycombinator.com/item?id=41562506) - [Julia Child's Kitchens](https://placesjournal.org/article/julia-childs-kitchens/)
-* [2024-09-16, 20:24:49](https://news.ycombinator.com/item?id=41560397) - [Vapour: A typed superset of the R programming language](https://vapour.run/)
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
 * [2024-09-16, 10:45:54](https://news.ycombinator.com/item?id=41554729) - [I Revived 3-Axis CNC Mill G-Code Simulator](https://github.com/Harvie/cnc-simulator)
 * [2024-09-16, 08:20:52](https://news.ycombinator.com/item?id=41553930) - [AI: Markets for Lemons, and the Great Logging Off (2022)](https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/)

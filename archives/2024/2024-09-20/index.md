@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 10:22:01](https://news.ycombinator.com/item?id=41600483) - [30th-anniversary limited-run PS5 and PS5 Pro bring back mid-'90s gray plastic](https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/)
 * [2024-09-20, 09:59:16](https://news.ycombinator.com/item?id=41600388) - [Foundations: Why Britain Has Stagnated](https://ukfoundations.co)
 * [2024-09-20, 09:19:40](https://news.ycombinator.com/item?id=41600179) - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics. 275 supported cars](https://github.com/commaai/openpilot)
+* [2024-09-20, 08:53:12](https://news.ycombinator.com/item?id=41600075) - [Parallel PNG Proposal (2021)](https://github.com/DavidBuchanan314/parallel-png-proposal)
 * [2024-09-20, 08:45:04](https://news.ycombinator.com/item?id=41600036) - [We have lift-off Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready/)
 * [2024-09-20, 08:33:19](https://news.ycombinator.com/item?id=41599970) - [Stop Designing Your Web Application for Millions of Users When You Dont Have 100](https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/)
 * [2024-09-20, 07:19:15](https://news.ycombinator.com/item?id=41599621) - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
