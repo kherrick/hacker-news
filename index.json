@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-09-20, 07:00:04",
+      "https://news.ycombinator.com/item?id=41599523"
+    ],
+    [
+      "The Architecture of Open Source Applications",
+      "https://aosabook.org/en/"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 05:44:15",
       "https://news.ycombinator.com/item?id=41599128"
     ],
     [
       "Starlink's new satellites emit 30x more radio interference than before",
       "https://www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 05:41:23",
+      "https://news.ycombinator.com/item?id=41599109"
+    ],
+    [
+      "A rigid but foldable indoor airship aerial system for cave exploration",
+      "https://arxiv.org/abs/2409.07591"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2024-09-19, 13:04:21",
-      "https://news.ycombinator.com/item?id=41591449"
-    ],
-    [
-      "Show HN: Chili. Rust port of Spice, a low-overhead parallelization library",
-      "https://github.com/dragostis/chili"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 12:58:18",
-      "https://news.ycombinator.com/item?id=41591399"
-    ],
-    [
-      "Drift towards danger and the normalization of deviance (2017)",
-      "https://risk-engineering.org/concept/Rasmussen-practical-drift"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 12:17:05",
       "https://news.ycombinator.com/item?id=41591018"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-09-16, 20:13:05",
+      "https://news.ycombinator.com/item?id=41560225"
+    ],
+    [
+      "Show HN: Microtonal Piano",
+      "https://osolmaz.github.io/microtonal-piano/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 17:35:46",
       "https://news.ycombinator.com/item?id=41558455"
     ],
     [
       "The moon blew up without warning and for no apparent reason (2017)",
       "https://jasmcole.com/2017/09/20/the-moon-blew-up-without-warning-and-for-no-apparent-reason/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 10:45:54",
-      "https://news.ycombinator.com/item?id=41554729"
-    ],
-    [
-      "I Revived 3-Axis CNC Mill G-Code Simulator",
-      "https://github.com/Harvie/cnc-simulator"
     ]
   ],
   [
