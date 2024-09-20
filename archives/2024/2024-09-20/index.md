@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 23:05:31](https://news.ycombinator.com/item?id=41606235) - [Ask HN: Kodak, VW, Intel – Why big companies fail?](https://news.ycombinator.com/item?id=41606235)
 * [2024-09-20, 22:29:02](https://news.ycombinator.com/item?id=41606065) - [Larry Ellison: AI surveillance ensures 'citizens will be on their best behavior'](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9)
+* [2024-09-20, 21:45:35](https://news.ycombinator.com/item?id=41605774) - [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 * [2024-09-20, 21:36:30](https://news.ycombinator.com/item?id=41605719) - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
 * [2024-09-20, 21:10:09](https://news.ycombinator.com/item?id=41605528) - [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
 * [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
