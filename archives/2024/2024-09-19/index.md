@@ -59,6 +59,7 @@
 * [2024-09-19, 12:51:51](https://news.ycombinator.com/item?id=41591341) - [Pieter's Official Homepage on the World Wide Web](https://pieter.com)
 * [2024-09-19, 12:41:16](https://news.ycombinator.com/item?id=41591230) - [Seeing Like a Network](https://www.strangeloopcanon.com/p/seeing-like-a-network)
 * [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
+* [2024-09-19, 12:03:43](https://news.ycombinator.com/item?id=41590905) - [Show HN: EloqKV – Scalable distributed ACID key-value database with Redis API](https://www.eloqdata.com/blog/2024/08/16/eloqkv)
 * [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
 * [2024-09-19, 11:42:02](https://news.ycombinator.com/item?id=41590771) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2024-09-19, 11:39:14](https://news.ycombinator.com/item?id=41590754) - [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
