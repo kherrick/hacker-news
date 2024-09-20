@@ -71,6 +71,7 @@
 * [2024-09-16, 08:49:11](https://news.ycombinator.com/item?id=41554066) - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 * [2024-09-16, 08:48:05](https://news.ycombinator.com/item?id=41554062) - [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
 * [2024-09-16, 08:39:33](https://news.ycombinator.com/item?id=41554014) - [Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
+* [2024-09-16, 08:20:52](https://news.ycombinator.com/item?id=41553930) - [AI: Markets for Lemons, and the Great Logging Off](https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/)
 * [2024-09-16, 08:19:16](https://news.ycombinator.com/item?id=41553922) - [Holding a Program in One's Head (2007)](https://paulgraham.com/head.html)
 * [2024-09-16, 08:12:51](https://news.ycombinator.com/item?id=41553875) - [Storm Get a Wikipedia-like report on your topic](https://storm.genie.stanford.edu/)
 * [2024-09-16, 06:29:48](https://news.ycombinator.com/item?id=41553320) - [Revisiting Overture's Global Geospatial Datasets](https://tech.marksblogg.com/overture-2024-revisit.html)

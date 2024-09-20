@@ -7,6 +7,7 @@
 * [2024-09-20, 02:32:56](https://news.ycombinator.com/item?id=41598276) - [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
 * [2024-09-20, 02:10:45](https://news.ycombinator.com/item?id=41598170) - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
 * [2024-09-20, 02:03:13](https://news.ycombinator.com/item?id=41598142) - [How We Found Bin Laden: The Basics of Foreign Signals Intelligence](https://directory.libsyn.com/episode/index/id/32884982)
+* [2024-09-20, 01:56:49](https://news.ycombinator.com/item?id=41598112) - [Disable Sequoia's monthly screen recording permission prompt](https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html)
 * [2024-09-20, 01:33:17](https://news.ycombinator.com/item?id=41598006) - [Yes, you can have exactly-once delivery](http://blog.rongarret.info/2024/09/yes-you-can-have-exactly-once-delivery.html)
 * [2024-09-20, 01:20:32](https://news.ycombinator.com/item?id=41597929) - [Is there a flight search engine that combines flights from different airlines?](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
 * [2024-09-20, 01:00:23](https://news.ycombinator.com/item?id=41597830) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/GyqMnKn-business-analyst-product-analyst)
