@@ -20,7 +20,7 @@
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
-* [2024-09-19, 11:47:45](https://news.ycombinator.com/item?id=41590807) - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
+* [2024-09-19, 11:28:24](https://news.ycombinator.com/item?id=41590682) - [Show HN: Sourcetable – AI Spreadsheet and Data Platform](https://news.ycombinator.com/item?id=41590682)
 * [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
 * [2024-09-19, 07:12:16](https://news.ycombinator.com/item?id=41589361) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
 * [2024-09-17, 06:59:52](https://news.ycombinator.com/item?id=41565056) - [GPU Debug Scopes](https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/)
