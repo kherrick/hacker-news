@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 02:32:56](https://news.ycombinator.com/item?id=41598276) - [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
 * [2024-09-20, 02:10:45](https://news.ycombinator.com/item?id=41598170) - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
 * [2024-09-20, 02:03:13](https://news.ycombinator.com/item?id=41598142) - [How We Found Bin Laden: The Basics of Foreign Signals Intelligence](https://directory.libsyn.com/episode/index/id/32884982)
 * [2024-09-20, 01:33:17](https://news.ycombinator.com/item?id=41598006) - [Yes, you can have exactly-once delivery](http://blog.rongarret.info/2024/09/yes-you-can-have-exactly-once-delivery.html)
@@ -15,7 +16,6 @@
 * [2024-09-19, 18:31:00](https://news.ycombinator.com/item?id=41594862) - [Real-time Linux is officially part of the kernel](https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/)
 * [2024-09-19, 18:22:00](https://news.ycombinator.com/item?id=41594758) - [Show HN: An Elliptic Curve-Based Secure Chat, Written Using Rust and Protobuf](https://github.com/vaktibabat/ecurvechat)
 * [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
-* [2024-09-19, 16:15:50](https://news.ycombinator.com/item?id=41593410) - [We accidentally burned through 200GB of proxy bandwidth in 6 hours](https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/)
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-19, 13:12:56](https://news.ycombinator.com/item?id=41591527) - [Biggest ever seen black hole jets; blasting plasma well beyond their own galaxy](https://phys.org/news/2024-09-astronomers-biggest-black-hole-jets.html)
