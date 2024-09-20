@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 08:45:04](https://news.ycombinator.com/item?id=41600036) - [We have lift-off Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready/)
 * [2024-09-20, 08:33:19](https://news.ycombinator.com/item?id=41599970) - [Stop Designing Your Web Application for Millions of Users When You Dont Have 100](https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/)
 * [2024-09-20, 07:19:15](https://news.ycombinator.com/item?id=41599621) - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
 * [2024-09-20, 07:00:04](https://news.ycombinator.com/item?id=41599523) - [The Architecture of Open Source Applications](https://aosabook.org/en/)
