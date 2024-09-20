@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-09-19, 16:15:50",
-      "https://news.ycombinator.com/item?id=41593410"
-    ],
-    [
-      "We accidentally burned through 200GB of proxy bandwidth in 6 hours",
-      "https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 15:59:19",
       "https://news.ycombinator.com/item?id=41593216"
     ],
@@ -227,6 +217,16 @@
     [
       "Digital signatures and how to avoid them",
       "https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 20:23:47",
+      "https://news.ycombinator.com/item?id=41585017"
+    ],
+    [
+      "Show HN: Selectable – mobile-friendly Postgres client",
+      "https://getselectable.com/"
     ]
   ],
   [
