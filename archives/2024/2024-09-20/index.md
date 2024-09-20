@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 04:30:45](https://news.ycombinator.com/item?id=41598803) - [The crypto bros crowdfunding a new country](https://www.bbc.com/news/articles/cwyl171lyewo)
 * [2024-09-20, 02:32:56](https://news.ycombinator.com/item?id=41598276) - [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
 * [2024-09-20, 02:32:29](https://news.ycombinator.com/item?id=41598274) - [How Stripe Built One of Silicon Valley’s Best Engineering Teams](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
 * [2024-09-20, 02:10:45](https://news.ycombinator.com/item?id=41598170) - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
