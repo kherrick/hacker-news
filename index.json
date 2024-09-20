@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-20, 14:10:15",
-      "https://news.ycombinator.com/item?id=41602181"
+      "2024-09-20, 14:41:16",
+      "https://news.ycombinator.com/item?id=41602474"
     ],
     [
-      "A year in exile: The fading hopes of Nagorno-Karabakh Armenians",
-      "https://www.newarab.com/analysis/year-exile-fading-hopes-nagorno-karabakh-armenians"
+      "MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts",
+      "https://github.com/qhjqhj00/MemoRAG"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Reactive Relational Algebra",
       "https://taylor.town/reactive-relational-algebra"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 13:51:18",
-      "https://news.ycombinator.com/item?id=41602024"
-    ],
-    [
-      "Dry Cask Storage",
-      "https://en.wikipedia.org/wiki/Dry_cask_storage"
     ]
   ],
   [
@@ -67,6 +57,26 @@
     [
       "Microsoft TypeSpec",
       "https://typespec.io/"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 13:16:12",
+      "https://news.ycombinator.com/item?id=41601712"
+    ],
+    [
+      "Notes and Receipts (PCAPs) for TCP and ICMP Noise Storms",
+      "https://github.com/GreyNoise-Intelligence/2024-09-noise-storms"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 13:07:10",
+      "https://news.ycombinator.com/item?id=41601621"
+    ],
+    [
+      "Even solar energy's biggest fans are underestimating it",
+      "https://www.vox.com/climate/372852/solar-power-energy-growth-record-us-climate-china"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Large Text Compression Benchmark",
       "http://www.mattmahoney.net/dc/text.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 06:59:52",
-      "https://news.ycombinator.com/item?id=41565056"
-    ],
-    [
-      "GPU Debug Scopes",
-      "https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/"
     ]
   ],
   [
