@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-20, 23:05:31](https://news.ycombinator.com/item?id=41606235) - [Ask HN: Kodak, VW, Intel – Why big companies fail?](https://news.ycombinator.com/item?id=41606235)
 * [2024-09-20, 21:45:35](https://news.ycombinator.com/item?id=41605774) - [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 * [2024-09-20, 21:36:30](https://news.ycombinator.com/item?id=41605719) - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
 * [2024-09-20, 21:10:09](https://news.ycombinator.com/item?id=41605528) - [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
@@ -19,6 +18,7 @@
 * [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 09:19:40](https://news.ycombinator.com/item?id=41600179) - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
+* [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
