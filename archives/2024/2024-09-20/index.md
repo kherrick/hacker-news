@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 19:19:38](https://news.ycombinator.com/item?id=41604817) - [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d)
 * [2024-09-20, 18:27:53](https://news.ycombinator.com/item?id=41604382) - [ThunderScope – open hardware PC oscilloscope](https://github.com/EEVengers/ThunderScope)
 * [2024-09-20, 18:09:15](https://news.ycombinator.com/item?id=41604267) - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Docker Desktop Alternative](https://container-desktop.com/)

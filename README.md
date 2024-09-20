@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 19:19:38](https://news.ycombinator.com/item?id=41604817) - [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d)
 * [2024-09-20, 18:09:15](https://news.ycombinator.com/item?id=41604267) - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Docker Desktop Alternative](https://container-desktop.com/)
 * [2024-09-20, 17:33:15](https://news.ycombinator.com/item?id=41604042) - [Show HN: Inngest 1.0 – Open-source durable workflows on every platform](https://www.inngest.com/)
@@ -28,7 +29,6 @@
 * [2024-09-18, 11:36:46](https://news.ycombinator.com/item?id=41578440) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
 * [2024-09-16, 23:54:56](https://news.ycombinator.com/item?id=41562506) - [Julia Child's Kitchens](https://placesjournal.org/article/julia-childs-kitchens/)
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
-* [2024-09-16, 07:45:25](https://news.ycombinator.com/item?id=41553727) - [Should we decompose our monolith?](https://lethain.com/decompose-monolith-strategy/)
 * [2024-09-15, 21:07:49](https://news.ycombinator.com/item?id=41550404) - [Ultrasonic Chips Could Cut Interference in the IoT](https://spectrum.ieee.org/topological-acoustics)
 
 ## [Archives](archives/index.md)
