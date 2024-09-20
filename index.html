@@ -129,25 +129,6 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="41604382">
-          <h3>
-            <a class="item" href="https://github.com/EEVengers/ThunderScope"
-              >ThunderScope – open hardware PC oscilloscope</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-20 @ 18:27:53</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41604382"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41604267">
           <h3>
             <a
@@ -160,13 +141,107 @@
             <h4>
               <span>2024-09-20 @ 18:09:15</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41604267"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41604262">
+          <h3>
+            <a class="item" href="https://container-desktop.com/"
+              >Docker Desktop Alternative</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-20 @ 18:08:22</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41604262"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41604042">
+          <h3>
+            <a class="item" href="https://www.inngest.com/"
+              >Show HN: Inngest 1.0 – Open-source durable workflows on every
+              platform</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-20 @ 17:33:15</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41604042"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://inngest.com/">https://inngest.com/</a>)
+              <p>
+                Inngest is an open-source durable workflow platform that works
+                on any cloud. Durable workflows are stateful, long running step
+                functions written in code, which automatically retry on failure.
+                It abstracts everything about queues, event streams and state
+                for you, letting you focus on code. Some examples of uses:
+                managing stateful AI chained step functions; managing search/rag
+                indexes and data pipelines; integrations and webhooks; billing
+                and payment flows.
+              </p>
+              <p>
+                Technical details: unlike other solutions, we put lots of effort
+                into designing our SDK’s step.run APIs to make them extremely
+                easy to use — developer experience is the most important thing
+                for us.
+              </p>
+              <p>
+                We had to design and build our own queueing system to work with
+                multi-tenancy, batching, and debouncing, and we’re iterating on
+                this as we move to FoundationDB. It’s largely all Go in the
+                backend, with a bunch of caching, clickhouse, event streams, and
+                coordination on our behalf. Workers are shared nothing, and run
+                based off of the queue and execution state.
+              </p>
+              <p>
+                We did a post last year as we iterated on our TS SDK. The
+                product has changed a lot since then and wanted to show the
+                community what’s changed as we reach 1.0:
+              </p>
+              <p></p>
+              <pre><code>    * Golang, Java, and Python SDKs with cross-language function invocation (across clouds, too)
+
+    * Multi-tenant aware flow control (concurrency, throttling, debounce)
+
+    * Batching, grouping many events into a single function call
+
+    * Much improved dashboard, with tracing and metrics built in
+
+    * Advanced recovery tools like function replay, temporary pausing,  bulk cancellation (with optional expressions).  No more dead letter queues!
+
+    * Branch deploys built in, with staging env support out of the box
+
+    * Full local testing with production parity
+
+</code></pre>
+              There's a ton on the roadmap, with more launching next week. We’re
+              hiring systems &amp; infra engineers, too — it’s a fun job with
+              lots of challenges!
+              <p>
+                Wanted to say thank you to the HN community for feedback so far!
+                Happy Friday :)
+              </p>
+            </div>
           </section>
         </section>
         <section id="41603955">
@@ -182,33 +257,11 @@
             <h4>
               <span>2024-09-20 @ 17:22:06</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41603955"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41603920">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/ai/2024/09/re-opened-three-mile-island-will-power-ai-data-centers-under-new-deal/"
-              >Re-opened Three Mile Island will power AI data centers under new
-              deal</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-20 @ 17:18:48</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41603920"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -224,11 +277,11 @@
             <h4>
               <span>2024-09-20 @ 17:11:48</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41603865"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -281,11 +334,11 @@
             <h4>
               <span>2024-09-20 @ 16:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41603546"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -301,7 +354,7 @@
             <h4>
               <span>2024-09-20 @ 14:41:16</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41602474"
                   >Comments</a
@@ -322,7 +375,7 @@
             <h4>
               <span>2024-09-20 @ 13:54:41</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41602056"
                   >Comments</a
@@ -341,11 +394,11 @@
             <h4>
               <span>2024-09-20 @ 13:18:06</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41601730"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -382,11 +435,11 @@
             <h4>
               <span>2024-09-20 @ 11:04:15</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">326</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41600756"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -402,11 +455,11 @@
             <h4>
               <span>2024-09-20 @ 09:19:40</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41600179"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -421,7 +474,7 @@
             <h4>
               <span>2024-09-20 @ 09:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41600177"
                   >Comments</a
@@ -441,7 +494,7 @@
             <h4>
               <span>2024-09-20 @ 05:41:23</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41599109"
                   >Comments</a
@@ -462,7 +515,7 @@
             <h4>
               <span>2024-09-20 @ 01:57:22</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41598119"
                   >Comments</a
@@ -504,32 +557,11 @@
             <h4>
               <span>2024-09-19 @ 23:04:42</span
               ><span class="points-container"
-                >Points: <span class="points">880</span></span
+                >Points: <span class="points">890</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41597250"
                   >Comments</a
-                ><span class="descendants">: 273</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41596466">
-          <h3>
-            <a
-              class="item"
-              href="https://ianspence.com/blog/2024-09/github-email-hijack/"
-              >GitHub notification emails used to send malware</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-19 @ 21:16:39</span
-              ><span class="points-container"
-                >Points: <span class="points">425</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41596466"
-                  >Comments</a
-                ><span class="descendants">: 169</span></span
+                ><span class="descendants">: 279</span></span
               >
             </h4>
           </section>
@@ -546,11 +578,11 @@
             <h4>
               <span>2024-09-19 @ 20:59:28</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41596336"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -588,7 +620,7 @@
             <h4>
               <span>2024-09-19 @ 14:53:32</span
               ><span class="points-container"
-                >Points: <span class="points">350</span></span
+                >Points: <span class="points">351</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41592552"
                   >Comments</a
@@ -608,11 +640,11 @@
             <h4>
               <span>2024-09-19 @ 12:17:05</span
               ><span class="points-container"
-                >Points: <span class="points">388</span></span
+                >Points: <span class="points">390</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41591018"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
           </section>
@@ -628,11 +660,11 @@
             <h4>
               <span>2024-09-19 @ 10:44:08</span
               ><span class="points-container"
-                >Points: <span class="points">529</span></span
+                >Points: <span class="points">533</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41590466"
                   >Comments</a
-                ><span class="descendants">: 263</span></span
+                ><span class="descendants">: 264</span></span
               >
             </h4>
           </section>
@@ -693,7 +725,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41562506"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -729,11 +761,32 @@
             <h4>
               <span>2024-09-16 @ 08:26:14</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41553940"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41553727">
+          <h3>
+            <a
+              class="item"
+              href="https://lethain.com/decompose-monolith-strategy/"
+              >Should we decompose our monolith?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-16 @ 07:45:25</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41553727"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
