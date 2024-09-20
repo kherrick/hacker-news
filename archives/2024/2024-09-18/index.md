@@ -38,6 +38,7 @@
 * [2024-09-18, 16:20:32](https://news.ycombinator.com/item?id=41581877) - [Compile and Run C in JavaScript](https://bun.sh/blog/compile-and-run-c-in-js)
 * [2024-09-18, 16:12:47](https://news.ycombinator.com/item?id=41581760) - [Bankrupt Trucker Yellow Loses Ruling over $6.5B in Pension Debts](https://www.bloomberg.com/news/articles/2024-09-17/trucker-yellow-loses-ruling-over-6-5-billion-in-pension-debts)
 * [2024-09-18, 16:08:04](https://news.ycombinator.com/item?id=41581687) - [CUNY paid Oracle $600M for its HR software (2013)](http://pscbc.blogspot.com/2013/03/cuny-first-computer-system-to-aid.html)
+* [2024-09-18, 16:05:51](https://news.ycombinator.com/item?id=41581656) - [Infiltration: Toronto Union Station](http://infiltration.org/utility-union.html)
 * [2024-09-18, 15:58:04](https://news.ycombinator.com/item?id=41581504) - [Valkey 8.0.0 Is Out](https://github.com/valkey-io/valkey/releases/tag/8.0.0)
 * [2024-09-18, 15:56:27](https://news.ycombinator.com/item?id=41581480) - [Moshi: A speech-text foundation model for real time dialogue](https://github.com/kyutai-labs/moshi)
 * [2024-09-18, 15:43:45](https://news.ycombinator.com/item?id=41581249) - [Home solar energy systems exploded in several areas of Beirut](https://abcnews.go.com/International/wireStory/lebanons-official-news-agency-reports-home-solar-energy-113809042)
