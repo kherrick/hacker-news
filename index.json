@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-20, 18:09:15",
+      "https://news.ycombinator.com/item?id=41604267"
+    ],
+    [
+      "Discord Reduced WebSocket Traffic by 40%",
+      "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 17:50:18",
+      "https://news.ycombinator.com/item?id=41604156"
+    ],
+    [
+      "Flight diverted after passenger finds mouse in meal",
+      "https://www.bbc.com/news/articles/ckgmy2d09x2o"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 17:22:06",
       "https://news.ycombinator.com/item?id=41603955"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-09-19, 15:59:19",
-      "https://news.ycombinator.com/item?id=41593216"
-    ],
-    [
-      "Show HN: Numscript, a declarative language to model financial transactions",
-      "https://playground.numscript.org/"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 14:53:32",
       "https://news.ycombinator.com/item?id=41592552"
     ],
@@ -207,16 +217,6 @@
     [
       "Show HN: A CLI tool I made to self-host any app with two commands on a VPS",
       "https://github.com/MightyMoud/sidekick"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 11:47:45",
-      "https://news.ycombinator.com/item?id=41590807"
-    ],
-    [
-      "Diatom Arrangements",
-      "https://www.trebeljahr.com/posts/diatoms"
     ]
   ],
   [
@@ -247,16 +247,6 @@
     [
       "Large Text Compression Benchmark",
       "http://www.mattmahoney.net/dc/text.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 06:59:52",
-      "https://news.ycombinator.com/item?id=41565056"
-    ],
-    [
-      "GPU Debug Scopes",
-      "https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Cheating Device (ChatGPT on a TI-84) [video]",
       "https://www.youtube.com/watch?v=Bicjxl4EcJg"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 21:07:49",
+      "https://news.ycombinator.com/item?id=41550404"
+    ],
+    [
+      "Ultrasonic Chips Could Cut Interference in the IoT",
+      "https://spectrum.ieee.org/topological-acoustics"
     ]
   ]
 ]
