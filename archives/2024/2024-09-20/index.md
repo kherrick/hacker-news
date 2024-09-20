@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 13:32:01](https://news.ycombinator.com/item?id=41601854) - [Linux Horror Stories and Protection Spells (Volume I)](https://www.blopig.com/blog/2021/07/linux-horror-stories-and-protection-spells-volume-i/)
+* [2024-09-20, 13:18:06](https://news.ycombinator.com/item?id=41601730) - [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
 * [2024-09-20, 12:59:51](https://news.ycombinator.com/item?id=41601565) - [Radar Detector Legend Michael Valentine Has Died](https://www.roadandtrack.com/news/a62283108/radar-detector-legend-michael-valentine-has-died/)
 * [2024-09-20, 12:43:29](https://news.ycombinator.com/item?id=41601443) - [Three Mile Island nuclear plant restart in Microsoft AI power deal](https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/)
 * [2024-09-20, 12:01:20](https://news.ycombinator.com/item?id=41601141) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
