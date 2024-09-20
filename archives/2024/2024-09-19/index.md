@@ -13,6 +13,7 @@
 * [2024-09-19, 21:16:10](https://news.ycombinator.com/item?id=41596462) - [Beirut Airport Bans Pagers, Walkie-Talkies on All Flights](https://www.nna-leb.gov.lb/en/economy/722542/beirut-airport-bans-pagers-walkie-talkies-on-all-f)
 * [2024-09-19, 21:14:23](https://news.ycombinator.com/item?id=41596449) - [Avian flu detected in wastewater from 10 Texas cities](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h5n1-avian-flu-virus-detected-wastewater-10-texas-cities)
 * [2024-09-19, 21:01:05](https://news.ycombinator.com/item?id=41596352) - [Finley (YC W21) is hiring engineers to build cap markets software (US Remote)](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
+* [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
 * [2024-09-19, 20:57:55](https://news.ycombinator.com/item?id=41596319) - [Up to a Quarter of Rental Inflation Is Due to Price-Fixing](https://www.thebignewsletter.com/p/up-to-a-quarter-of-rental-inflation)
 * [2024-09-19, 19:32:53](https://news.ycombinator.com/item?id=41595485) - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
