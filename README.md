@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 19:35:08](https://news.ycombinator.com/item?id=41604921) - [Three Mile Island nuclear plant to restart, power Microsoft data centers](https://www.axios.com/2024/09/20/three-mile-island-nuclear-microsoft-ai-deal)
 * [2024-09-20, 19:19:38](https://news.ycombinator.com/item?id=41604817) - [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d)
 * [2024-09-20, 18:09:15](https://news.ycombinator.com/item?id=41604267) - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Docker Desktop Alternative](https://container-desktop.com/)
@@ -17,7 +18,6 @@
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
 * [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
-* [2024-09-20, 01:20:32](https://news.ycombinator.com/item?id=41597929) - [A flight search engine that combines flights from different airlines? (2014)](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
