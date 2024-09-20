@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-20, 10:22:01",
-      "https://news.ycombinator.com/item?id=41600483"
+      "2024-09-20, 11:04:15",
+      "https://news.ycombinator.com/item?id=41600756"
     ],
     [
-      "30th-anniversary limited-run PS5 and PS5 Pro bring back mid-'90s gray plastic",
-      "https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/"
+      "Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit",
+      "https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Openpilot – Operating system for robotics. 275 supported cars",
       "https://github.com/commaai/openpilot"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 08:53:12",
+      "https://news.ycombinator.com/item?id=41600075"
+    ],
+    [
+      "Parallel PNG Proposal (2021)",
+      "https://github.com/DavidBuchanan314/parallel-png-proposal"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Julia Child's Kitchens",
       "https://placesjournal.org/article/julia-childs-kitchens/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 20:24:49",
-      "https://news.ycombinator.com/item?id=41560397"
-    ],
-    [
-      "Vapour: A typed superset of the R programming language",
-      "https://vapour.run/"
     ]
   ],
   [
