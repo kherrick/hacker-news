@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 16:00:39](https://news.ycombinator.com/item?id=41603251) - [Three Mile Island is reopening and selling its power to Microsoft](https://www.cnn.com/2024/09/20/energy/three-mile-island-microsoft-ai/index.html)
 * [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
 * [2024-09-20, 14:10:15](https://news.ycombinator.com/item?id=41602181) - [A year in exile: The fading hopes of Nagorno-Karabakh Armenians](https://www.newarab.com/analysis/year-exile-fading-hopes-nagorno-karabakh-armenians)
 * [2024-09-20, 13:59:25](https://news.ycombinator.com/item?id=41602096) - [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
