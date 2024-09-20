@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-09-20, 01:20:32",
-      "https://news.ycombinator.com/item?id=41597929"
-    ],
-    [
-      "A flight search engine that combines flights from different airlines? (2014)",
-      "https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 23:04:42",
       "https://news.ycombinator.com/item?id=41597250"
     ],
@@ -217,6 +207,16 @@
     [
       "Show HN: A CLI tool I made to self-host any app with two commands on a VPS",
       "https://github.com/MightyMoud/sidekick"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 12:03:43",
+      "https://news.ycombinator.com/item?id=41590905"
+    ],
+    [
+      "Show HN: EloqKV – Scalable distributed ACID key-value database with Redis API",
+      "https://www.eloqdata.com/blog/2024/08/16/eloqkv"
     ]
   ],
   [
