@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 12:01:20](https://news.ycombinator.com/item?id=41601141) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 09:19:40](https://news.ycombinator.com/item?id=41600179) - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
@@ -7,7 +8,6 @@
 * [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-20, 01:20:32](https://news.ycombinator.com/item?id=41597929) - [A flight search engine that combines flights from different airlines? (2014)](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
-* [2024-09-20, 01:00:23](https://news.ycombinator.com/item?id=41597830) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/GyqMnKn-business-analyst-product-analyst)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 21:16:39](https://news.ycombinator.com/item?id=41596466) - [GitHub notification emails used to send malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
