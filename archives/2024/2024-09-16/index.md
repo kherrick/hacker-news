@@ -27,6 +27,7 @@
 * [2024-09-16, 19:45:33](https://news.ycombinator.com/item?id=41559870) - [CATL launches ultra-high-energy-density EV bus battery that lasts ~1M miles](https://electrek.co/2024/09/16/catl-launches-new-ev-battery-lasts-nearly-1-million-miles/)
 * [2024-09-16, 19:41:57](https://news.ycombinator.com/item?id=41559825) - [What If Ozempic Is Just a Good Thing?](https://nymag.com/intelligencer/article/ozempic-weight-loss-diet-drug-moral-panic.html)
 * [2024-09-16, 19:37:21](https://news.ycombinator.com/item?id=41559761) - [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
+* [2024-09-16, 19:08:17](https://news.ycombinator.com/item?id=41559404) - [Linus Torvalds muses about maintainer gray hairs and the next 'King of Linux'](https://www.zdnet.com/article/linus-torvalds-muses-about-maintainer-gray-hairs-and-the-next-king-of-linux/)
 * [2024-09-16, 19:02:08](https://news.ycombinator.com/item?id=41559350) - [Amazon Tells Workers to Return to Office Five Days a Week](https://www.wsj.com/business/amazon-tells-workers-to-return-to-office-five-days-a-week-42a32ec8)
 * [2024-09-16, 18:52:22](https://news.ycombinator.com/item?id=41559246) - [Putting Code on a Nerves Device](https://underjord.io/putting-code-on-a-nerves-device.html)
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)

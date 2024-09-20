@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 12:59:51](https://news.ycombinator.com/item?id=41601565) - [Radar Detector Legend Michael Valentine Has Died](https://www.roadandtrack.com/news/a62283108/radar-detector-legend-michael-valentine-has-died/)
+* [2024-09-20, 12:43:29](https://news.ycombinator.com/item?id=41601443) - [Three Mile Island nuclear plant restart in Microsoft AI power deal](https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/)
 * [2024-09-20, 12:01:20](https://news.ycombinator.com/item?id=41601141) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 10:22:01](https://news.ycombinator.com/item?id=41600483) - [30th-anniversary limited-run PS5 and PS5 Pro bring back mid-'90s gray plastic](https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/)
