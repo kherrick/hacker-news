@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-20, 21:36:30](https://news.ycombinator.com/item?id=41605719) - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
+* [2024-09-20, 21:10:09](https://news.ycombinator.com/item?id=41605528) - [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
 * [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
 * [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Docker Desktop Alternative](https://container-desktop.com/)
@@ -18,7 +19,6 @@
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
 * [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
-* [2024-09-20, 01:20:32](https://news.ycombinator.com/item?id=41597929) - [A flight search engine that combines flights from different airlines? (2014)](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
@@ -27,8 +27,8 @@
 * [2024-09-19, 12:03:43](https://news.ycombinator.com/item?id=41590905) - [Show HN: EloqKV – Scalable distributed ACID key-value database with Redis API](https://www.eloqdata.com/blog/2024/08/16/eloqkv)
 * [2024-09-19, 07:12:16](https://news.ycombinator.com/item?id=41589361) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
 * [2024-09-18, 16:05:51](https://news.ycombinator.com/item?id=41581656) - [Infiltration: Toronto Union Station (1999)](http://infiltration.org/utility-union.html)
+* [2024-09-18, 13:27:57](https://news.ycombinator.com/item?id=41579460) - [The Symbolics Genera Programming Environment (1987)](https://archive.org/details/smbx-genera-programming-env-1987)
 * [2024-09-18, 11:36:46](https://news.ycombinator.com/item?id=41578440) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
-* [2024-09-16, 23:54:56](https://news.ycombinator.com/item?id=41562506) - [Julia Child's Kitchens](https://placesjournal.org/article/julia-childs-kitchens/)
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
 
 ## [Archives](archives/index.md)
