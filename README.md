@@ -1,11 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-20, 16:00:39](https://news.ycombinator.com/item?id=41603251) - [Three Mile Island is reopening and selling its power to Microsoft](https://www.cnn.com/2024/09/20/energy/three-mile-island-microsoft-ai/index.html)
 * [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
-* [2024-09-20, 13:59:25](https://news.ycombinator.com/item?id=41602096) - [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
 * [2024-09-20, 13:54:41](https://news.ycombinator.com/item?id=41602056) - [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
 * [2024-09-20, 13:18:06](https://news.ycombinator.com/item?id=41601730) - [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
-* [2024-09-20, 13:16:12](https://news.ycombinator.com/item?id=41601712) - [Notes and Receipts (PCAPs) for TCP and ICMP Noise Storms](https://github.com/GreyNoise-Intelligence/2024-09-noise-storms)
 * [2024-09-20, 12:30:11](https://news.ycombinator.com/item?id=41601347) - [Tō Reo – A Māori Spellchecker](https://xn--treo-l3a.nz/)
 * [2024-09-20, 12:01:20](https://news.ycombinator.com/item?id=41601141) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
@@ -18,6 +15,8 @@
 * [2024-09-19, 21:16:39](https://news.ycombinator.com/item?id=41596466) - [GitHub notification emails used to send malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
+* [2024-09-19, 18:31:00](https://news.ycombinator.com/item?id=41594862) - [Real-time Linux is officially part of the kernel](https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/)
+* [2024-09-19, 16:49:38](https://news.ycombinator.com/item?id=41593809) - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
 * [2024-09-19, 15:59:19](https://news.ycombinator.com/item?id=41593216) - [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-19, 12:58:18](https://news.ycombinator.com/item?id=41591399) - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
@@ -29,6 +28,7 @@
 * [2024-09-17, 06:59:52](https://news.ycombinator.com/item?id=41565056) - [GPU Debug Scopes](https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/)
 * [2024-09-16, 23:54:56](https://news.ycombinator.com/item?id=41562506) - [Julia Child's Kitchens](https://placesjournal.org/article/julia-childs-kitchens/)
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
+* [2024-09-16, 03:45:18](https://news.ycombinator.com/item?id=41552562) - [Spinning the Night Self](https://aeon.co/essays/tender-and-creative-is-the-night-on-the-benefits-of-insomnia)
 * [2024-09-15, 22:15:22](https://news.ycombinator.com/item?id=41550907) - [The Cheating Device (ChatGPT on a TI-84) [video]](https://www.youtube.com/watch?v=Bicjxl4EcJg)
 
 ## [Archives](archives/index.md)
