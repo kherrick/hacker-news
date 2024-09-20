@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-20, 08:45:04",
+      "https://news.ycombinator.com/item?id=41600036"
+    ],
+    [
+      "We have lift-off Element X, Call and Server Suite are ready",
+      "https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready/"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 08:33:19",
       "https://news.ycombinator.com/item?id=41599970"
     ],
@@ -187,16 +197,6 @@
     [
       "Glass Antenna Turns windows into 5G Base Stations",
       "https://spectrum.ieee.org/5g-antenna-transparent-window"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 13:04:21",
-      "https://news.ycombinator.com/item?id=41591449"
-    ],
-    [
-      "Show HN: Chili. Rust port of Spice, a low-overhead parallelization library",
-      "https://github.com/dragostis/chili"
     ]
   ],
   [
