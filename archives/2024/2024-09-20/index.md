@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
 * [2024-09-20, 06:09:10](https://news.ycombinator.com/item?id=41599259) - [Pov: Living in My Car in SF](https://www.youtube.com/watch?v=tonG-OufefQ)
+* [2024-09-20, 05:44:15](https://news.ycombinator.com/item?id=41599128) - [Starlink's new satellites emit 30x more radio interference than before](https://www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/)
 * [2024-09-20, 04:30:45](https://news.ycombinator.com/item?id=41598803) - [The crypto bros crowdfunding a new country](https://www.bbc.com/news/articles/cwyl171lyewo)
 * [2024-09-20, 02:32:56](https://news.ycombinator.com/item?id=41598276) - [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
 * [2024-09-20, 02:32:29](https://news.ycombinator.com/item?id=41598274) - [How Stripe Built One of Silicon Valley’s Best Engineering Teams](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
