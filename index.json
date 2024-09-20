@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41597929"
     ],
     [
-      "Is there a flight search engine that combines flights from different airlines?",
+      "A flight search engine that combines flights from different airlines? (2014)",
       "https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines"
     ]
   ],
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-09-19, 19:32:53",
+      "https://news.ycombinator.com/item?id=41595485"
+    ],
+    [
+      "DirectX Adopting SPIR-V as the Interchange Format of the Future",
+      "https://devblogs.microsoft.com/directx/directx-adopting-spir-v/"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 19:16:04",
       "https://news.ycombinator.com/item?id=41595310"
     ],
@@ -117,6 +127,16 @@
     [
       "Real-time Linux is officially part of the kernel",
       "https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 18:22:00",
+      "https://news.ycombinator.com/item?id=41594758"
+    ],
+    [
+      "Show HN: An Elliptic Curve-Based Secure Chat, Written Using Rust and Protobuf",
+      "https://github.com/vaktibabat/ecurvechat"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-09-18, 14:01:19",
-      "https://news.ycombinator.com/item?id=41579843"
-    ],
-    [
-      "A Subway Named Mobius (1952)",
-      "https://www.fadedpage.com/showbook.php?pid=20210556"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 06:59:52",
       "https://news.ycombinator.com/item?id=41565056"
     ],
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2024-09-16, 10:45:54",
+      "https://news.ycombinator.com/item?id=41554729"
+    ],
+    [
+      "I Revived 3-Axis CNC Mill G-Code Simulator",
+      "https://github.com/Harvie/cnc-simulator"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 03:45:18",
       "https://news.ycombinator.com/item?id=41552562"
     ],
@@ -277,26 +297,6 @@
     [
       "The Cheating Device (ChatGPT on a TI-84) [video]",
       "https://www.youtube.com/watch?v=Bicjxl4EcJg"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 16:45:56",
-      "https://news.ycombinator.com/item?id=41548551"
-    ],
-    [
-      "Sculpture commemorates 16th century drowning that inspired Shakespeare",
-      "https://www.theguardian.com/artanddesign/2024/sep/15/river-stour-sculpture-commemorates-16th-century-drowning-that-inspired-shakespeare"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 15:43:53",
-      "https://news.ycombinator.com/item?id=41540542"
-    ],
-    [
-      "MicroPython on Flipper Zero",
-      "https://lab.flipper.net/apps/upython"
     ]
   ]
 ]
