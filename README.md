@@ -2,7 +2,6 @@
 
 * [2024-09-20, 21:36:30](https://news.ycombinator.com/item?id=41605719) - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
 * [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
-* [2024-09-20, 20:57:24](https://news.ycombinator.com/item?id=41605449) - [Qualcomm Wants to Buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
 * [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Docker Desktop Alternative](https://container-desktop.com/)
 * [2024-09-20, 17:33:15](https://news.ycombinator.com/item?id=41604042) - [Show HN: Inngest 1.0 – Open-source durable workflows on every platform](https://www.inngest.com/)
@@ -29,6 +28,7 @@
 * [2024-09-19, 07:12:16](https://news.ycombinator.com/item?id=41589361) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
 * [2024-09-18, 16:05:51](https://news.ycombinator.com/item?id=41581656) - [Infiltration: Toronto Union Station (1999)](http://infiltration.org/utility-union.html)
 * [2024-09-18, 11:36:46](https://news.ycombinator.com/item?id=41578440) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
+* [2024-09-16, 23:54:56](https://news.ycombinator.com/item?id=41562506) - [Julia Child's Kitchens](https://placesjournal.org/article/julia-childs-kitchens/)
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
 
 ## [Archives](archives/index.md)
