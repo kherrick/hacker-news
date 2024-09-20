@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 10:22:01](https://news.ycombinator.com/item?id=41600483) - [30th-anniversary limited-run PS5 and PS5 Pro bring back mid-'90s gray plastic](https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/)
 * [2024-09-20, 09:59:16](https://news.ycombinator.com/item?id=41600388) - [Foundations: Why Britain Has Stagnated](https://ukfoundations.co)
 * [2024-09-20, 09:19:40](https://news.ycombinator.com/item?id=41600179) - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics. 275 supported cars](https://github.com/commaai/openpilot)
