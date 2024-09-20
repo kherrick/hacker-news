@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 14:10:15](https://news.ycombinator.com/item?id=41602181) - [A year in exile: The fading hopes of Nagorno-Karabakh Armenians](https://www.newarab.com/analysis/year-exile-fading-hopes-nagorno-karabakh-armenians)
 * [2024-09-20, 13:59:25](https://news.ycombinator.com/item?id=41602096) - [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
 * [2024-09-20, 13:54:41](https://news.ycombinator.com/item?id=41602056) - [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
 * [2024-09-20, 13:32:01](https://news.ycombinator.com/item?id=41601854) - [Linux Horror Stories and Protection Spells (Volume I)](https://www.blopig.com/blog/2021/07/linux-horror-stories-and-protection-spells-volume-i/)
@@ -19,7 +20,6 @@
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
 * [2024-09-19, 19:16:04](https://news.ycombinator.com/item?id=41595310) - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
-* [2024-09-19, 12:58:18](https://news.ycombinator.com/item?id=41591399) - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
 * [2024-09-19, 12:17:05](https://news.ycombinator.com/item?id=41591018) - [Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
 * [2024-09-19, 11:28:24](https://news.ycombinator.com/item?id=41590682) - [Show HN: Sourcetable – AI Spreadsheet and Data Platform](https://news.ycombinator.com/item?id=41590682)
 * [2024-09-19, 10:44:08](https://news.ycombinator.com/item?id=41590466) - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)
