@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-20, 09:59:16",
-      "https://news.ycombinator.com/item?id=41600388"
+      "2024-09-20, 10:22:01",
+      "https://news.ycombinator.com/item?id=41600483"
     ],
     [
-      "Foundations: Why Britain Has Stagnated",
-      "https://ukfoundations.co"
+      "30th-anniversary limited-run PS5 and PS5 Pro bring back mid-'90s gray plastic",
+      "https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/"
     ]
   ],
   [
@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2024-09-20, 08:33:19",
-      "https://news.ycombinator.com/item?id=41599970"
-    ],
-    [
-      "Stop Designing Your Web Application for Millions of Users When You Dont Have 100",
-      "https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 07:19:15",
-      "https://news.ycombinator.com/item?id=41599621"
-    ],
-    [
-      "No same site = None cookies for iOS18",
-      "https://github.com/WebKit/WebKit/pull/33164"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 07:00:04",
       "https://news.ycombinator.com/item?id=41599523"
     ],
@@ -71,32 +51,12 @@
   ],
   [
     [
-      "2024-09-20, 02:10:45",
-      "https://news.ycombinator.com/item?id=41598170"
-    ],
-    [
-      "Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos",
-      "https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 01:57:22",
       "https://news.ycombinator.com/item?id=41598119"
     ],
     [
       "Anthropic – Introducing Contextual Retrieval",
       "https://www.anthropic.com/news/contextual-retrieval"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 01:56:49",
-      "https://news.ycombinator.com/item?id=41598112"
-    ],
-    [
-      "Disable Sequoia's monthly screen recording permission prompt",
-      "https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html"
     ]
   ],
   [
@@ -111,42 +71,12 @@
   ],
   [
     [
-      "2024-09-20, 00:27:22",
-      "https://news.ycombinator.com/item?id=41597676"
-    ],
-    [
-      "Show HN: LeanRL: Fast PyTorch RL with Torch.compile and CUDA Graphs",
-      "https://github.com/pytorch-labs/LeanRL"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 23:04:42",
       "https://news.ycombinator.com/item?id=41597250"
     ],
     [
       "Gaining access to anyones browser without them even visiting a website",
       "https://kibty.town/blog/arc/"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 22:52:07",
-      "https://news.ycombinator.com/item?id=41597162"
-    ],
-    [
-      "3K free SVG icons for popular brands",
-      "https://simpleicons.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 22:00:18",
-      "https://news.ycombinator.com/item?id=41596818"
-    ],
-    [
-      "Visual guide to SSH tunneling and port forwarding (2023)",
-      "https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/"
     ]
   ],
   [
@@ -211,12 +141,52 @@
   ],
   [
     [
+      "2024-09-19, 13:12:56",
+      "https://news.ycombinator.com/item?id=41591527"
+    ],
+    [
+      "Biggest ever seen black hole jets; blasting plasma well beyond their own galaxy",
+      "https://phys.org/news/2024-09-astronomers-biggest-black-hole-jets.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 13:04:21",
+      "https://news.ycombinator.com/item?id=41591449"
+    ],
+    [
+      "Show HN: Chili. Rust port of Spice, a low-overhead parallelization library",
+      "https://github.com/dragostis/chili"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 12:58:18",
+      "https://news.ycombinator.com/item?id=41591399"
+    ],
+    [
+      "Drift towards danger and the normalization of deviance (2017)",
+      "https://risk-engineering.org/concept/Rasmussen-practical-drift"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 12:17:05",
       "https://news.ycombinator.com/item?id=41591018"
     ],
     [
       "Show HN: A CLI tool I made to self-host any app with two commands on a VPS",
       "https://github.com/MightyMoud/sidekick"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 11:47:45",
+      "https://news.ycombinator.com/item?id=41590807"
+    ],
+    [
+      "Diatom Arrangements",
+      "https://www.trebeljahr.com/posts/diatoms"
     ]
   ],
   [
@@ -271,12 +241,42 @@
   ],
   [
     [
+      "2024-09-16, 20:24:49",
+      "https://news.ycombinator.com/item?id=41560397"
+    ],
+    [
+      "Vapour: A typed superset of the R programming language",
+      "https://vapour.run/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 18:29:59",
       "https://news.ycombinator.com/item?id=41559024"
     ],
     [
       "3D Reconstruction with Spatial Memory",
       "https://hengyiwang.github.io/projects/spanner"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 10:45:54",
+      "https://news.ycombinator.com/item?id=41554729"
+    ],
+    [
+      "I Revived 3-Axis CNC Mill G-Code Simulator",
+      "https://github.com/Harvie/cnc-simulator"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 08:20:52",
+      "https://news.ycombinator.com/item?id=41553930"
+    ],
+    [
+      "AI: Markets for Lemons, and the Great Logging Off (2022)",
+      "https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/"
     ]
   ],
   [
