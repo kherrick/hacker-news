@@ -7,6 +7,8 @@
 * [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
 * [2024-09-20, 20:58:21](https://news.ycombinator.com/item?id=41605460) - [Can't change security policy or disable SIP with macOS 15 Sequoia](https://lapcatsoftware.com/articles/2024/8/9.html)
 * [2024-09-20, 20:57:24](https://news.ycombinator.com/item?id=41605449) - [Qualcomm Wants to Buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
+* [2024-09-20, 20:53:04](https://news.ycombinator.com/item?id=41605421) - [Elite 40th Anniversary – Source code release](http://www.elitehomepage.org/fourty/index.htm)
+* [2024-09-20, 20:14:50](https://news.ycombinator.com/item?id=41605202) - [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/arts-culture/books/graveyard-of-the-pacific-review-broken-by-the-waves-883b6c3a)
 * [2024-09-20, 19:35:08](https://news.ycombinator.com/item?id=41604921) - [Three Mile Island nuclear plant to restart, power Microsoft data centers](https://www.axios.com/2024/09/20/three-mile-island-nuclear-microsoft-ai-deal)
 * [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 * [2024-09-20, 19:19:38](https://news.ycombinator.com/item?id=41604817) - [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d)

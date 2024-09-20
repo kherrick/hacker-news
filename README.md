@@ -3,6 +3,8 @@
 * [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
 * [2024-09-20, 20:58:21](https://news.ycombinator.com/item?id=41605460) - [Can't change security policy or disable SIP with macOS 15 Sequoia](https://lapcatsoftware.com/articles/2024/8/9.html)
 * [2024-09-20, 20:57:24](https://news.ycombinator.com/item?id=41605449) - [Qualcomm Wants to Buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
+* [2024-09-20, 20:53:04](https://news.ycombinator.com/item?id=41605421) - [Elite 40th Anniversary – Source code release](http://www.elitehomepage.org/fourty/index.htm)
+* [2024-09-20, 20:14:50](https://news.ycombinator.com/item?id=41605202) - [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/arts-culture/books/graveyard-of-the-pacific-review-broken-by-the-waves-883b6c3a)
 * [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 * [2024-09-20, 18:09:15](https://news.ycombinator.com/item?id=41604267) - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Docker Desktop Alternative](https://container-desktop.com/)
@@ -18,7 +20,6 @@
 * [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 09:19:40](https://news.ycombinator.com/item?id=41600179) - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
-* [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
@@ -29,7 +30,6 @@
 * [2024-09-16, 18:29:59](https://news.ycombinator.com/item?id=41559024) - [3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
 * [2024-09-16, 09:16:43](https://news.ycombinator.com/item?id=41554230) - [The Byte Order Fallacy](https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html)
 * [2024-09-16, 02:05:45](https://news.ycombinator.com/item?id=41552082) - [The Working Archivist's Guide to Enthusiast CD-ROM Archiving Tools](https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/)
-* [2024-09-15, 21:07:49](https://news.ycombinator.com/item?id=41550404) - [Ultrasonic Chips Could Cut Interference in the IoT](https://spectrum.ieee.org/topological-acoustics)
 
 ## [Archives](archives/index.md)
 
