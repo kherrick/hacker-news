@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 18:27:53](https://news.ycombinator.com/item?id=41604382) - [ThunderScope – open hardware PC oscilloscope](https://github.com/EEVengers/ThunderScope)
 * [2024-09-20, 18:09:15](https://news.ycombinator.com/item?id=41604267) - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 18:04:34](https://news.ycombinator.com/item?id=41604241) - [Updates to the Google Photos API](https://developers.google.com/photos/support/updates)
 * [2024-09-20, 17:51:07](https://news.ycombinator.com/item?id=41604161) - [Evidence points to Wuhan market as source of Covid-19 outbreak](https://www.newscientist.com/article/2448671-evidence-points-to-wuhan-market-as-source-of-covid-19-outbreak/)
