@@ -63,6 +63,7 @@
 * [2024-09-18, 11:55:54](https://news.ycombinator.com/item?id=41578599) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 * [2024-09-18, 11:41:55](https://news.ycombinator.com/item?id=41578483) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 11:37:09](https://news.ycombinator.com/item?id=41578446) - [Knowledge graphs using Ollama and Embeddings to answer and visualizing queries](https://github.com/punnerud/Local_Knowledge_Graph)
+* [2024-09-18, 11:36:46](https://news.ycombinator.com/item?id=41578440) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
 * [2024-09-18, 11:32:27](https://news.ycombinator.com/item?id=41578412) - [U.S. military to apologize to Alaska Natives for 1800s terror campaign](https://www.msn.com/en-us/news/us/us-military-to-apologize-to-alaska-natives-for-1800s-terror-campaign/ar-AA1qLgRG)
 * [2024-09-18, 11:25:29](https://news.ycombinator.com/item?id=41578349) - [U.S. overdose deaths plummet, saving thousands of lives](https://www.npr.org/2024/09/18/nx-s1-5107417/overdose-fatal-fentanyl-death-opioid)
 * [2024-09-18, 11:17:13](https://news.ycombinator.com/item?id=41578274) - [Kubesafe: Never run Kubernetes commands on the wrong cluster again](https://github.com/Telemaco019/kubesafe)

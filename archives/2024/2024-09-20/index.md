@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 13:59:25](https://news.ycombinator.com/item?id=41602096) - [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
+* [2024-09-20, 13:54:41](https://news.ycombinator.com/item?id=41602056) - [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
 * [2024-09-20, 13:32:01](https://news.ycombinator.com/item?id=41601854) - [Linux Horror Stories and Protection Spells (Volume I)](https://www.blopig.com/blog/2021/07/linux-horror-stories-and-protection-spells-volume-i/)
 * [2024-09-20, 13:18:06](https://news.ycombinator.com/item?id=41601730) - [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
 * [2024-09-20, 12:59:51](https://news.ycombinator.com/item?id=41601565) - [Radar Detector Legend Michael Valentine Has Died](https://www.roadandtrack.com/news/a62283108/radar-detector-legend-michael-valentine-has-died/)
