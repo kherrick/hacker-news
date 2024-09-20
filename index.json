@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-09-20, 01:20:32",
-      "https://news.ycombinator.com/item?id=41597929"
-    ],
-    [
-      "A flight search engine that combines flights from different airlines? (2014)",
-      "https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 01:00:23",
       "https://news.ycombinator.com/item?id=41597830"
     ],
@@ -131,22 +121,22 @@
   ],
   [
     [
-      "2024-09-19, 18:22:00",
-      "https://news.ycombinator.com/item?id=41594758"
-    ],
-    [
-      "Show HN: An Elliptic Curve-Based Secure Chat, Written Using Rust and Protobuf",
-      "https://github.com/vaktibabat/ecurvechat"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 16:49:38",
       "https://news.ycombinator.com/item?id=41593809"
     ],
     [
       "FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies",
       "https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 16:15:50",
+      "https://news.ycombinator.com/item?id=41593410"
+    ],
+    [
+      "We accidentally burned through 200GB of proxy bandwidth in 6 hours",
+      "https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Digital signatures and how to avoid them",
       "https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 20:23:47",
+      "https://news.ycombinator.com/item?id=41585017"
+    ],
+    [
+      "Show HN: Selectable – mobile-friendly Postgres client",
+      "https://getselectable.com/"
     ]
   ],
   [
