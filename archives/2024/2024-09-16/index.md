@@ -38,6 +38,7 @@
 * [2024-09-16, 17:54:24](https://news.ycombinator.com/item?id=41558668) - [Is 'Monolith First' the Better Approach?](https://martinfowler.com/bliki/MonolithFirst.html)
 * [2024-09-16, 17:44:26](https://news.ycombinator.com/item?id=41558556) - [Python in Excel – Available Now](https://techcommunity.microsoft.com/t5/excel-blog/python-in-excel-available-now/ba-p/4240212)
 * [2024-09-16, 17:44:23](https://news.ycombinator.com/item?id=41558554) - [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
+* [2024-09-16, 17:35:46](https://news.ycombinator.com/item?id=41558455) - [The moon blew up without warning and for no apparent reason (2017)](https://jasmcole.com/2017/09/20/the-moon-blew-up-without-warning-and-for-no-apparent-reason/)
 * [2024-09-16, 17:18:30](https://news.ycombinator.com/item?id=41558269) - [Words on Founder Mode](https://randsinrepose.com/archives/words-on-founder-mode/)
 * [2024-09-16, 17:09:10](https://news.ycombinator.com/item?id=41558183) - [Package reproducibility in Python notebooks using uv isolated environments](https://marimo.io/blog/sandboxed-notebooks)
 * [2024-09-16, 17:02:51](https://news.ycombinator.com/item?id=41558114) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
