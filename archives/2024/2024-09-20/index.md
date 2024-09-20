@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 06:09:10](https://news.ycombinator.com/item?id=41599259) - [Pov: Living in My Car in SF](https://www.youtube.com/watch?v=tonG-OufefQ)
 * [2024-09-20, 04:30:45](https://news.ycombinator.com/item?id=41598803) - [The crypto bros crowdfunding a new country](https://www.bbc.com/news/articles/cwyl171lyewo)
 * [2024-09-20, 02:32:56](https://news.ycombinator.com/item?id=41598276) - [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
 * [2024-09-20, 02:32:29](https://news.ycombinator.com/item?id=41598274) - [How Stripe Built One of Silicon Valley’s Best Engineering Teams](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
 * [2024-09-20, 02:10:45](https://news.ycombinator.com/item?id=41598170) - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
 * [2024-09-20, 02:03:13](https://news.ycombinator.com/item?id=41598142) - [How We Found Bin Laden: The Basics of Foreign Signals Intelligence](https://directory.libsyn.com/episode/index/id/32884982)
+* [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Anthropic – Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-20, 01:56:49](https://news.ycombinator.com/item?id=41598112) - [Disable Sequoia's monthly screen recording permission prompt](https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html)
 * [2024-09-20, 01:33:17](https://news.ycombinator.com/item?id=41598006) - [Yes, you can have exactly-once delivery](http://blog.rongarret.info/2024/09/yes-you-can-have-exactly-once-delivery.html)
 * [2024-09-20, 01:20:32](https://news.ycombinator.com/item?id=41597929) - [Is there a flight search engine that combines flights from different airlines?](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)

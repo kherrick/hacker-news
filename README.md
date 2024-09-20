@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-20, 06:09:10](https://news.ycombinator.com/item?id=41599259) - [Pov: Living in My Car in SF](https://www.youtube.com/watch?v=tonG-OufefQ)
 * [2024-09-20, 04:30:45](https://news.ycombinator.com/item?id=41598803) - [The crypto bros crowdfunding a new country](https://www.bbc.com/news/articles/cwyl171lyewo)
-* [2024-09-20, 02:32:29](https://news.ycombinator.com/item?id=41598274) - [How Stripe Built One of Silicon Valley’s Best Engineering Teams](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
 * [2024-09-20, 02:10:45](https://news.ycombinator.com/item?id=41598170) - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
+* [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Anthropic – Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-20, 01:56:49](https://news.ycombinator.com/item?id=41598112) - [Disable Sequoia's monthly screen recording permission prompt](https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html)
 * [2024-09-20, 01:20:32](https://news.ycombinator.com/item?id=41597929) - [A flight search engine that combines flights from different airlines? (2014)](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
 * [2024-09-20, 01:00:23](https://news.ycombinator.com/item?id=41597830) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/GyqMnKn-business-analyst-product-analyst)
@@ -26,7 +27,6 @@
 * [2024-09-17, 06:59:52](https://news.ycombinator.com/item?id=41565056) - [GPU Debug Scopes](https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/)
 * [2024-09-16, 23:54:56](https://news.ycombinator.com/item?id=41562506) - [Julia Child's Kitchens](https://placesjournal.org/article/julia-childs-kitchens/)
 * [2024-09-16, 17:35:46](https://news.ycombinator.com/item?id=41558455) - [The moon blew up without warning and for no apparent reason (2017)](https://jasmcole.com/2017/09/20/the-moon-blew-up-without-warning-and-for-no-apparent-reason/)
-* [2024-09-16, 10:45:54](https://news.ycombinator.com/item?id=41554729) - [I Revived 3-Axis CNC Mill G-Code Simulator](https://github.com/Harvie/cnc-simulator)
 * [2024-09-16, 08:20:52](https://news.ycombinator.com/item?id=41553930) - [AI: Markets for Lemons, and the Great Logging Off](https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/)
 * [2024-09-16, 03:45:18](https://news.ycombinator.com/item?id=41552562) - [Spinning the Night Self](https://aeon.co/essays/tender-and-creative-is-the-night-on-the-benefits-of-insomnia)
 * [2024-09-15, 22:15:22](https://news.ycombinator.com/item?id=41550907) - [The Cheating Device (ChatGPT on a TI-84) [video]](https://www.youtube.com/watch?v=Bicjxl4EcJg)
