@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-21, 02:03:18",
+      "https://news.ycombinator.com/item?id=41606908"
+    ],
+    [
+      "Doomretro – The classic, refined DOOM source port. For Windows PC",
+      "https://github.com/bradharding/doomretro"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 01:19:13",
       "https://news.ycombinator.com/item?id=41606772"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2024-09-19, 14:53:32",
-      "https://news.ycombinator.com/item?id=41592552"
-    ],
-    [
-      "Glass Antenna Turns windows into 5G Base Stations",
-      "https://spectrum.ieee.org/5g-antenna-transparent-window"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 16:05:51",
-      "https://news.ycombinator.com/item?id=41581656"
-    ],
-    [
-      "Infiltration: Toronto Union Station (1999)",
-      "http://infiltration.org/utility-union.html"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 13:39:44",
       "https://news.ycombinator.com/item?id=41579591"
     ],
     [
       "Open source maintainers underpaid, swamped by security, and going gray",
       "https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 11:17:13",
+      "https://news.ycombinator.com/item?id=41578274"
+    ],
+    [
+      "Kubesafe: Never run Kubernetes commands on the wrong cluster again",
+      "https://github.com/Telemaco019/kubesafe"
     ]
   ]
 ]
