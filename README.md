@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-21, 03:05:27](https://news.ycombinator.com/item?id=41607166) - [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
 * [2024-09-21, 01:19:13](https://news.ycombinator.com/item?id=41606772) - [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L)
 * [2024-09-21, 01:15:18](https://news.ycombinator.com/item?id=41606753) - [Americans Are Falling Behind on Their Bills](https://www.wsj.com/finance/americans-credit-debt-spending-interest-rates-f3836f23)
+* [2024-09-21, 00:41:38](https://news.ycombinator.com/item?id=41606634) - [How I Failed (2013)](https://www.oreilly.com/radar/how-i-failed/)
 * [2024-09-21, 00:22:10](https://news.ycombinator.com/item?id=41606550) - [Hachette vs. Internet Archive: We're Still Fighting for Fair Use](https://www.libraryfutures.net/post/were-still-fighting-for-fair-use)
 * [2024-09-21, 00:17:16](https://news.ycombinator.com/item?id=41606530) - [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)
 * [2024-09-21, 00:05:57](https://news.ycombinator.com/item?id=41606493) - [CISA boss: Makers of insecure software are the real cyber villains](https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/)
@@ -26,10 +28,8 @@
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
-* [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-18, 16:05:51](https://news.ycombinator.com/item?id=41581656) - [Infiltration: Toronto Union Station (1999)](http://infiltration.org/utility-union.html)
 * [2024-09-18, 13:39:44](https://news.ycombinator.com/item?id=41579591) - [Open source maintainers underpaid, swamped by security, and going gray](https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/)
-* [2024-09-17, 15:33:46](https://news.ycombinator.com/item?id=41568745) - [Performance of Eigen vs. Blaze vs. Fastor vs. Armadillo vs. XTensor (2020)](https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982)
 
 ## [Archives](archives/index.md)
 
