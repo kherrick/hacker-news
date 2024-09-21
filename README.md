@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-21, 21:04:52](https://news.ycombinator.com/item?id=41612669) - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 21:00:41](https://news.ycombinator.com/item?id=41612641) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-09-21, 20:09:54](https://news.ycombinator.com/item?id=41612367) - [Tetris Game Shows Promise in Reducing PTSD Symptoms](https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/)
 * [2024-09-21, 20:03:40](https://news.ycombinator.com/item?id=41612334) - [A plucked string simulator using Julia](https://lee-phillips.org/pluckit/#v0.2)
@@ -16,7 +17,6 @@
 * [2024-09-21, 17:26:12](https://news.ycombinator.com/item?id=41611356) - [4 Exploits, 1 bug: exploiting cve-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
 * [2024-09-21, 15:31:33](https://news.ycombinator.com/item?id=41610619) - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
 * [2024-09-21, 15:03:03](https://news.ycombinator.com/item?id=41610441) - [Zdotenv – Dotenv Loader for Zig](https://github.com/BitlyTwiser/zdotenv)
-* [2024-09-21, 14:34:12](https://news.ycombinator.com/item?id=41610247) - [Learning 101: The untaught basics [pdf]](https://typeset.io/pdf/learning-101-the-untaught-basics-2r0c0g7p3e.pdf)
 * [2024-09-21, 13:01:07](https://news.ycombinator.com/item?id=41609694) - [Social Initiation](https://socialcommunication.truman.edu/attitudes-emotions/social-initiation/)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-21, 12:18:55](https://news.ycombinator.com/item?id=41609491) - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
