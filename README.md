@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
 * [2024-09-21, 10:48:35](https://news.ycombinator.com/item?id=41609099) - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 09:05:10](https://news.ycombinator.com/item?id=41608637) - [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
@@ -11,7 +12,6 @@
 * [2024-09-21, 00:17:16](https://news.ycombinator.com/item?id=41606530) - [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)
 * [2024-09-20, 21:45:35](https://news.ycombinator.com/item?id=41605774) - [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 * [2024-09-20, 21:28:49](https://news.ycombinator.com/item?id=41605680) - [Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability](https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/)
-* [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
 * [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Show HN: Container Desktop – Podman Desktop Companion](https://container-desktop.com/)
 * [2024-09-20, 17:22:06](https://news.ycombinator.com/item?id=41603955) - [Mitosis in the Gray-Scott model: writing shader-based chemical simulations](https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html)
