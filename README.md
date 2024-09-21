@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-21, 15:31:33](https://news.ycombinator.com/item?id=41610619) - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
+* [2024-09-21, 13:39:13](https://news.ycombinator.com/item?id=41609889) - [OWASP Juice Shop: the most modern and sophisticated insecure web application](https://github.com/juice-shop/juice-shop)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-21, 12:18:55](https://news.ycombinator.com/item?id=41609491) - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
 * [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
@@ -26,7 +27,6 @@
 * [2024-09-20, 12:30:11](https://news.ycombinator.com/item?id=41601347) - [Tō Reo – A Māori Spellchecker](https://xn--treo-l3a.nz/)
 * [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
-* [2024-09-18, 11:50:20](https://news.ycombinator.com/item?id=41578544) - [Glass Antenna Turns Windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-18, 11:17:13](https://news.ycombinator.com/item?id=41578274) - [Kubesafe: Never run Kubernetes commands on the wrong cluster again](https://github.com/Telemaco019/kubesafe)
 * [2024-09-17, 17:16:39](https://news.ycombinator.com/item?id=41570088) - [Counting Sheeps with Contracts in Python](https://colorsofcode.ghost.io/counting-sheeps-with-contracts-in-python/)
 * [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
