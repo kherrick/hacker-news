@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 10:48:35](https://news.ycombinator.com/item?id=41609099) - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 09:05:10](https://news.ycombinator.com/item?id=41608637) - [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
 * [2024-09-21, 07:55:41](https://news.ycombinator.com/item?id=41608350) - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
