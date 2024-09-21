@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-21, 06:26:25](https://news.ycombinator.com/item?id=41607920) - [Hollywood Can't Ditch Its Teslas Fast Enough:\"They're Destroying Their Leases..\"](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/tesla-robotaxi-warner-bros-reveal-hollywood-rejection-elon-musk-1236007945/)
+* [2024-09-21, 06:15:01](https://news.ycombinator.com/item?id=41607887) - [Porsche's Idea for a Six-Stroke Internal Combustion Engine Looks Brilliant](https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/)
 * [2024-09-21, 03:05:27](https://news.ycombinator.com/item?id=41607166) - [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
 * [2024-09-21, 02:37:44](https://news.ycombinator.com/item?id=41607059) - [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
 * [2024-09-21, 02:05:34](https://news.ycombinator.com/item?id=41606916) - [Sshfs for Windows](https://github.com/winfsp/sshfs-win)
@@ -14,7 +16,6 @@
 * [2024-09-20, 17:33:15](https://news.ycombinator.com/item?id=41604042) - [Show HN: Inngest 1.0 – Open-source durable workflows on every platform](https://www.inngest.com/)
 * [2024-09-20, 17:22:06](https://news.ycombinator.com/item?id=41603955) - [Mitosis in the Gray-Scott model: writing shader-based chemical simulations](https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html)
 * [2024-09-20, 17:11:48](https://news.ycombinator.com/item?id=41603865) - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
-* [2024-09-20, 16:51:24](https://news.ycombinator.com/item?id=41603698) - [Federal civil rights watchdog sounds alarm over Feds use of facial recognition](https://therecord.media/federal-civil-rights-watchdog-facial-recognition-technology-report)
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 * [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
 * [2024-09-20, 13:54:41](https://news.ycombinator.com/item?id=41602056) - [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
@@ -26,7 +27,6 @@
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
-* [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-18, 13:39:44](https://news.ycombinator.com/item?id=41579591) - [Open source maintainers underpaid, swamped by security, and going gray](https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/)
 * [2024-09-18, 11:17:13](https://news.ycombinator.com/item?id=41578274) - [Kubesafe: Never run Kubernetes commands on the wrong cluster again](https://github.com/Telemaco019/kubesafe)
 * [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
