@@ -4,7 +4,7 @@
 * [2024-09-21, 20:09:54](https://news.ycombinator.com/item?id=41612367) - [Tetris Game Shows Promise in Reducing PTSD Symptoms](https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/)
 * [2024-09-21, 20:03:40](https://news.ycombinator.com/item?id=41612334) - [A plucked string simulator using Julia](https://lee-phillips.org/pluckit/#v0.2)
 * [2024-09-21, 19:54:15](https://news.ycombinator.com/item?id=41612254) - [In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions](https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/)
-* [2024-09-21, 19:35:18](https://news.ycombinator.com/item?id=41612146) - [A Tour of NYC's Mass Burial Site That's Also a Public Park Now](https://www.thecity.nyc/2024/09/11/hart-island-public-park-potters-field-mass-graves/)
+* [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 19:31:53](https://news.ycombinator.com/item?id=41612126) - [US House of Representatives adopts baseline policy for AI use](https://www.nextgov.com/artificial-intelligence/2024/09/house-representatives-adopts-baseline-policy-ai-use/399710/)
 * [2024-09-21, 19:20:34](https://news.ycombinator.com/item?id=41612049) - [What Is a Particle? (2020)](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 * [2024-09-21, 19:13:41](https://news.ycombinator.com/item?id=41612002) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
@@ -24,12 +24,12 @@
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch (2022)](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 07:55:41](https://news.ycombinator.com/item?id=41608350) - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
 * [2024-09-21, 07:52:51](https://news.ycombinator.com/item?id=41608333) - [Kubed (Emacs-based Kubernetes interface) user manual, now with pretty images](https://eshelyaron.com/kubed.html)
+* [2024-09-21, 06:52:22](https://news.ycombinator.com/item?id=41608025) - [FCC wants all phones unlocked in sixty days, AT&T and T-Mobile aren't so keen](https://www.androidauthority.com/fcc-60-day-unlock-tmo-3483642/)
 * [2024-09-21, 05:45:48](https://news.ycombinator.com/item?id=41607781) - [The Gravo-Thermal Catastrophe](https://johncarlosbaez.wordpress.com/2024/09/20/the-gravo-thermal-catastrophe/)
 * [2024-09-18, 12:21:55](https://news.ycombinator.com/item?id=41578825) - [A Beginner's Guide to the OpenTelemetry Collector](https://betterstack.com/community/guides/observability/opentelemetry-collector/)
 * [2024-09-18, 07:49:34](https://news.ycombinator.com/item?id=41576956) - [Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript](https://github.com/pg-nano/pg-parser)
 * [2024-09-18, 04:41:26](https://news.ycombinator.com/item?id=41575867) - [The Miraculous Resurrection of Notre-Dame](https://www.gq.com/story/the-miraculous-resurrection-of-notre-dame)
 * [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
-* [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
 
 ## [Archives](archives/index.md)
 
