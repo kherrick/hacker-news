@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-21, 13:42:08",
+      "https://news.ycombinator.com/item?id=41609915"
+    ],
+    [
+      "Working in the office 5 days a week to build company culture is a myth",
+      "https://fortune.com/2024/09/20/working-in-office-5-days-week-build-company-culture-myth-pwc-report/"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 12:14:54",
       "https://news.ycombinator.com/item?id=41609473"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2024-09-21, 09:05:10",
-      "https://news.ycombinator.com/item?id=41608637"
-    ],
-    [
-      "Concord had a dev culture of toxic positivity that halted any negative feedback",
-      "https://twitter.com/longislandviper/status/1837157796137030141"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 07:55:41",
       "https://news.ycombinator.com/item?id=41608350"
     ],
@@ -81,42 +81,12 @@
   ],
   [
     [
-      "2024-09-21, 03:05:27",
-      "https://news.ycombinator.com/item?id=41607166"
+      "2024-09-21, 05:45:48",
+      "https://news.ycombinator.com/item?id=41607781"
     ],
     [
-      "Inside Annapurna Interactive's Mass Walkout",
-      "https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 02:37:44",
-      "https://news.ycombinator.com/item?id=41607059"
-    ],
-    [
-      "I Like Makefiles",
-      "https://switowski.com/blog/i-like-makefiles/"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 02:05:34",
-      "https://news.ycombinator.com/item?id=41606916"
-    ],
-    [
-      "Sshfs for Windows",
-      "https://github.com/winfsp/sshfs-win"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 00:17:16",
-      "https://news.ycombinator.com/item?id=41606530"
-    ],
-    [
-      "Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals",
-      "https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/"
+      "The Gravo-Thermal Catastrophe",
+      "https://johncarlosbaez.wordpress.com/2024/09/20/the-gravo-thermal-catastrophe/"
     ]
   ],
   [
@@ -247,6 +217,36 @@
     [
       "Training Language Models to Self-Correct via Reinforcement Learning",
       "https://arxiv.org/abs/2409.12917"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 09:19:00",
+      "https://news.ycombinator.com/item?id=41600177"
+    ],
+    [
+      "Openpilot – Operating system for robotics",
+      "https://github.com/commaai/openpilot"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 01:57:22",
+      "https://news.ycombinator.com/item?id=41598119"
+    ],
+    [
+      "Contextual Retrieval",
+      "https://www.anthropic.com/news/contextual-retrieval"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 23:04:42",
+      "https://news.ycombinator.com/item?id=41597250"
+    ],
+    [
+      "Gaining access to anyones Arc browser without them even visiting a website",
+      "https://kibty.town/blog/arc/"
     ]
   ],
   [
