@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
+* [2024-09-21, 09:05:10](https://news.ycombinator.com/item?id=41608637) - [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
 * [2024-09-21, 07:55:41](https://news.ycombinator.com/item?id=41608350) - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
 * [2024-09-21, 06:15:01](https://news.ycombinator.com/item?id=41607887) - [Porsche's idea for a six-stroke internal combustion engine](https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/)
 * [2024-09-21, 03:05:27](https://news.ycombinator.com/item?id=41607166) - [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
@@ -27,7 +28,6 @@
 * [2024-09-18, 19:08:19](https://news.ycombinator.com/item?id=41584141) - [Infinite zoom art turned into a game so fun](https://venturebeat.com/games/sarah-andersen-comics-launches-sarahs-scribbles-hidden-art-game/)
 * [2024-09-18, 13:39:44](https://news.ycombinator.com/item?id=41579591) - [Open source maintainers underpaid, swamped by security, and going gray](https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/)
 * [2024-09-18, 11:17:13](https://news.ycombinator.com/item?id=41578274) - [Kubesafe: Never run Kubernetes commands on the wrong cluster again](https://github.com/Telemaco019/kubesafe)
-* [2024-09-18, 06:01:34](https://news.ycombinator.com/item?id=41576276) - [Tupperware files for bankruptcy as demand slides](https://www.bbc.com/news/articles/c4gdprv2ddxo)
 * [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
 * [2024-09-16, 22:42:16](https://news.ycombinator.com/item?id=41561928) - [We could be witnessing the death of the graphics card in real time](https://www.techradar.com/computing/gpu/were-witnessing-the-death-of-the-graphics-card-in-real-time-right-now-and-i-couldnt-be-happier-about-it)
 
