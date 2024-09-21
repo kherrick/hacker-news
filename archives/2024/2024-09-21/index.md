@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 16:13:53](https://news.ycombinator.com/item?id=41610832) - [What 10k Hours of Coding Taught Me: Don't Ship Fast](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
 * [2024-09-21, 15:48:44](https://news.ycombinator.com/item?id=41610709) - [Governor Newsom signs landmark bill to protect kids from social media addiction](https://www.gov.ca.gov/2024/09/20/governor-newsom-signs-landmark-bill-to-protect-kids-from-social-media-addiction-takes-action-on-other-measures/)
 * [2024-09-21, 15:31:33](https://news.ycombinator.com/item?id=41610619) - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
 * [2024-09-21, 13:42:08](https://news.ycombinator.com/item?id=41609915) - [Working in the office 5 days a week to build company culture is a myth](https://fortune.com/2024/09/20/working-in-office-5-days-week-build-company-culture-myth-pwc-report/)

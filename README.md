@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-21, 16:13:53](https://news.ycombinator.com/item?id=41610832) - [What 10k Hours of Coding Taught Me: Don't Ship Fast](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
 * [2024-09-21, 15:48:44](https://news.ycombinator.com/item?id=41610709) - [Governor Newsom signs landmark bill to protect kids from social media addiction](https://www.gov.ca.gov/2024/09/20/governor-newsom-signs-landmark-bill-to-protect-kids-from-social-media-addiction-takes-action-on-other-measures/)
 * [2024-09-21, 15:31:33](https://news.ycombinator.com/item?id=41610619) - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
@@ -18,7 +19,6 @@
 * [2024-09-20, 21:28:49](https://news.ycombinator.com/item?id=41605680) - [Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability](https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/)
 * [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: AIQ – A no-frills CLI for embeddings and text classification](https://github.com/taylorai/aiq)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Show HN: Container Desktop – Podman Desktop Companion](https://container-desktop.com/)
-* [2024-09-20, 17:22:06](https://news.ycombinator.com/item?id=41603955) - [Mitosis in the Gray-Scott model: writing shader-based chemical simulations](https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html)
 * [2024-09-20, 17:11:48](https://news.ycombinator.com/item?id=41603865) - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 * [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
