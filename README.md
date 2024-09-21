@@ -23,13 +23,13 @@
 * [2024-09-20, 11:04:15](https://news.ycombinator.com/item?id=41600756) - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 09:19:40](https://news.ycombinator.com/item?id=41600179) - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
+* [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-18, 19:08:19](https://news.ycombinator.com/item?id=41584141) - [Infinite zoom art turned into a game so fun](https://venturebeat.com/games/sarah-andersen-comics-launches-sarahs-scribbles-hidden-art-game/)
 * [2024-09-18, 13:39:44](https://news.ycombinator.com/item?id=41579591) - [Open source maintainers underpaid, swamped by security, and going gray](https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/)
 * [2024-09-18, 11:17:13](https://news.ycombinator.com/item?id=41578274) - [Kubesafe: Never run Kubernetes commands on the wrong cluster again](https://github.com/Telemaco019/kubesafe)
 * [2024-09-18, 06:01:34](https://news.ycombinator.com/item?id=41576276) - [Tupperware files for bankruptcy as demand slides](https://www.bbc.com/news/articles/c4gdprv2ddxo)
 * [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
-* [2024-09-16, 22:42:16](https://news.ycombinator.com/item?id=41561928) - [We could be witnessing the death of the graphics card in real time](https://www.techradar.com/computing/gpu/were-witnessing-the-death-of-the-graphics-card-in-real-time-right-now-and-i-couldnt-be-happier-about-it)
 
 ## [Archives](archives/index.md)
 
