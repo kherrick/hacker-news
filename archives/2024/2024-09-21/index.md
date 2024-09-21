@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 13:42:08](https://news.ycombinator.com/item?id=41609915) - [Working in the office 5 days a week to build company culture is a myth](https://fortune.com/2024/09/20/working-in-office-5-days-week-build-company-culture-myth-pwc-report/)
 * [2024-09-21, 12:14:54](https://news.ycombinator.com/item?id=41609473) - [Vaporizing plastics recycles them into nothing but gas](https://arstechnica.com/science/2024/09/vaporizing-plastics-recycles-them-into-nothing-but-gas/)
 * [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
 * [2024-09-21, 11:52:15](https://news.ycombinator.com/item?id=41609393) - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
@@ -13,6 +14,7 @@
 * [2024-09-21, 07:55:41](https://news.ycombinator.com/item?id=41608350) - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
 * [2024-09-21, 06:26:25](https://news.ycombinator.com/item?id=41607920) - [Hollywood Can't Ditch Its Teslas Fast Enough:\"They're Destroying Their Leases..\"](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/tesla-robotaxi-warner-bros-reveal-hollywood-rejection-elon-musk-1236007945/)
 * [2024-09-21, 06:15:01](https://news.ycombinator.com/item?id=41607887) - [Porsche's Idea for a Six-Stroke Internal Combustion Engine Looks Brilliant](https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/)
+* [2024-09-21, 05:45:48](https://news.ycombinator.com/item?id=41607781) - [The Gravo-Thermal Catastrophe](https://johncarlosbaez.wordpress.com/2024/09/20/the-gravo-thermal-catastrophe/)
 * [2024-09-21, 04:53:29](https://news.ycombinator.com/item?id=41607569) - [Why Ruby on Rails Will Never Die: A Veteran Coder's Perspective](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)
 * [2024-09-21, 03:05:27](https://news.ycombinator.com/item?id=41607166) - [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
 * [2024-09-21, 02:37:44](https://news.ycombinator.com/item?id=41607059) - [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
