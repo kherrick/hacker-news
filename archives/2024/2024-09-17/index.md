@@ -28,6 +28,7 @@
 * [2024-09-17, 18:06:17](https://news.ycombinator.com/item?id=41570732) - [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)
 * [2024-09-17, 18:04:31](https://news.ycombinator.com/item?id=41570708) - [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
 * [2024-09-17, 17:21:41](https://news.ycombinator.com/item?id=41570163) - [OpenTelemetry Tracing in < 200 lines of code](https://jeremymorrell.dev/blog/minimal-js-tracing/)
+* [2024-09-17, 17:16:39](https://news.ycombinator.com/item?id=41570088) - [Counting Sheeps with Contracts in Python](https://colorsofcode.ghost.io/counting-sheeps-with-contracts-in-python/)
 * [2024-09-17, 16:55:58](https://news.ycombinator.com/item?id=41569794) - [Sndkit – a toolkit for computer music composition](https://pbat.ch/sndkit/)
 * [2024-09-17, 16:50:04](https://news.ycombinator.com/item?id=41569723) - [Pixtral 12B](https://mistral.ai/news/pixtral-12b/)
 * [2024-09-17, 16:36:23](https://news.ycombinator.com/item?id=41569557) - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
