@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 20:09:54](https://news.ycombinator.com/item?id=41612367) - [Tetris Game Shows Promise in Reducing PTSD Symptoms](https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/)
+* [2024-09-21, 20:03:40](https://news.ycombinator.com/item?id=41612334) - [A plucked string simulator using Julia](https://lee-phillips.org/pluckit/#v0.2)
 * [2024-09-21, 19:54:15](https://news.ycombinator.com/item?id=41612254) - [In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions](https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/)
 * [2024-09-21, 19:35:18](https://news.ycombinator.com/item?id=41612146) - [A Tour of NYC's Mass Burial Site That's Also a Public Park Now](https://www.thecity.nyc/2024/09/11/hart-island-public-park-potters-field-mass-graves/)
 * [2024-09-21, 19:31:53](https://news.ycombinator.com/item?id=41612126) - [US House of Representatives adopts baseline policy for AI use](https://www.nextgov.com/artificial-intelligence/2024/09/house-representatives-adopts-baseline-policy-ai-use/399710/)
 * [2024-09-21, 19:20:34](https://news.ycombinator.com/item?id=41612049) - [What Is a Particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 * [2024-09-21, 19:13:41](https://news.ycombinator.com/item?id=41612002) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
+* [2024-09-21, 19:08:50](https://news.ycombinator.com/item?id=41611965) - [Infineon's CO2 Sensor Monitors Indoor Air Quality](https://www.allaboutcircuits.com/news/infineons-co2-sensor-precisely-monitors-indoor-air-quality/)
+* [2024-09-21, 19:06:31](https://news.ycombinator.com/item?id=41611948) - [Logging all C++ destructors, poor mans run-time tracing](https://raymii.org/s/software/Logging_all_Cpp_destructors_poor_mans_run-time_tracing.html)
 * [2024-09-21, 18:50:53](https://news.ycombinator.com/item?id=41611862) - [Chipmaker Qualcomm Is Said to Explore Takeover of Intel](https://www.bloomberg.com/news/articles/2024-09-21/chipmaker-qualcomm-is-said-to-explore-friendly-takeover-of-intel)
+* [2024-09-21, 18:20:26](https://news.ycombinator.com/item?id=41611681) - [Emacs Speaks Statistics](https://ess.r-project.org/index.php?Section=home)
 * [2024-09-21, 18:15:39](https://news.ycombinator.com/item?id=41611649) - [X capitulates to Brazil's Supreme Court](https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court)
 * [2024-09-21, 18:12:55](https://news.ycombinator.com/item?id=41611636) - [Redis users considering alternatives after licensing move](https://www.theregister.com/2024/09/20/redis_users_considering_alternatives/)
 * [2024-09-21, 18:09:05](https://news.ycombinator.com/item?id=41611613) - [LHC experiments at CERN observe quantum entanglement at the highest energy yet](https://home.cern/news/press-release/physics/lhc-experiments-cern-observe-quantum-entanglement-highest-energy-yet)
