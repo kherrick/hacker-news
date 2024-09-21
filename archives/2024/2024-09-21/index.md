@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 22:03:57](https://news.ycombinator.com/item?id=41612968) - [Deep space radio signal reaches Earth after 8B years](https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/)
 * [2024-09-21, 21:04:52](https://news.ycombinator.com/item?id=41612669) - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 21:00:41](https://news.ycombinator.com/item?id=41612641) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-09-21, 20:47:56](https://news.ycombinator.com/item?id=41612578) - [The Age of Software Artisans](https://jairojair.com/articles/the-age-of-software-artisans/)

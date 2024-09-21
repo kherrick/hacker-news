@@ -46,6 +46,7 @@
 * [2024-09-17, 15:04:09](https://news.ycombinator.com/item?id=41568343) - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
 * [2024-09-17, 14:38:17](https://news.ycombinator.com/item?id=41568019) - [Exploding pagers injure hundreds in attack targeting Hezbollah members](https://www.cnn.com/2024/09/17/middleeast/lebanon-hezbollah-pagers-explosions-intl/index.html)
 * [2024-09-17, 14:33:25](https://news.ycombinator.com/item?id=41567987) - [Taxes on everyday Europeans bring in 13 times more revenue than taxes on wealth](https://www.oxfam.org/en/press-releases/taxes-everyday-europeans-bring-13-times-more-revenue-taxes-wealth)
+* [2024-09-17, 14:21:47](https://news.ycombinator.com/item?id=41567862) - [A Simple Spaced Repetition Algo (In Ugly SQL)](https://taylor.town/flashcasts-srs-algo)
 * [2024-09-17, 14:17:31](https://news.ycombinator.com/item?id=41567813) - [Hezbollah members reportedly injured by exploding pagers](https://www.bbc.co.uk/news/articles/cd7xnelvpepo)
 * [2024-09-17, 14:12:58](https://news.ycombinator.com/item?id=41567778) - [Why is it so hard to go back to the moon?](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)
 * [2024-09-17, 14:07:21](https://news.ycombinator.com/item?id=41567728) - [Java 23](https://openjdk.org/projects/jdk/23/)
