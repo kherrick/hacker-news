@@ -2,7 +2,6 @@
 
 * [2024-09-21, 19:20:34](https://news.ycombinator.com/item?id=41612049) - [What Is a Particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 * [2024-09-21, 19:13:41](https://news.ycombinator.com/item?id=41612002) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
-* [2024-09-21, 18:15:39](https://news.ycombinator.com/item?id=41611649) - [X capitulates to Brazil's Supreme Court](https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court)
 * [2024-09-21, 18:12:55](https://news.ycombinator.com/item?id=41611636) - [Redis users considering alternatives after licensing move](https://www.theregister.com/2024/09/20/redis_users_considering_alternatives/)
 * [2024-09-21, 18:09:05](https://news.ycombinator.com/item?id=41611613) - [LHC experiments at CERN observe quantum entanglement at the highest energy yet](https://home.cern/news/press-release/physics/lhc-experiments-cern-observe-quantum-entanglement-highest-energy-yet)
 * [2024-09-21, 18:00:57](https://news.ycombinator.com/item?id=41611571) - [Applied Mathematical Programming](https://web.mit.edu/15.053/www/AMP.htm)
@@ -26,6 +25,7 @@
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Show HN: Container Desktop – Podman Desktop Companion](https://container-desktop.com/)
 * [2024-09-20, 17:11:48](https://news.ycombinator.com/item?id=41603865) - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
+* [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
 * [2024-09-18, 04:41:26](https://news.ycombinator.com/item?id=41575867) - [The Miraculous Resurrection of Notre-Dame](https://www.gq.com/story/the-miraculous-resurrection-of-notre-dame)
 * [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
 * [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
