@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-21, 03:05:27",
+      "https://news.ycombinator.com/item?id=41607166"
+    ],
+    [
+      "Inside Annapurna Interactive's Mass Walkout",
+      "https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 01:19:13",
       "https://news.ycombinator.com/item?id=41606772"
     ],
@@ -17,6 +27,16 @@
     [
       "Americans Are Falling Behind on Their Bills",
       "https://www.wsj.com/finance/americans-credit-debt-spending-interest-rates-f3836f23"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 00:41:38",
+      "https://news.ycombinator.com/item?id=41606634"
+    ],
+    [
+      "How I Failed (2013)",
+      "https://www.oreilly.com/radar/how-i-failed/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-09-19, 14:53:32",
-      "https://news.ycombinator.com/item?id=41592552"
-    ],
-    [
-      "Glass Antenna Turns windows into 5G Base Stations",
-      "https://spectrum.ieee.org/5g-antenna-transparent-window"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 16:05:51",
       "https://news.ycombinator.com/item?id=41581656"
     ],
@@ -287,16 +297,6 @@
     [
       "Open source maintainers underpaid, swamped by security, and going gray",
       "https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 15:33:46",
-      "https://news.ycombinator.com/item?id=41568745"
-    ],
-    [
-      "Performance of Eigen vs. Blaze vs. Fastor vs. Armadillo vs. XTensor (2020)",
-      "https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982"
     ]
   ]
 ]
