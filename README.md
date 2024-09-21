@@ -12,7 +12,6 @@
 * [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
 * [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Show HN: Container Desktop – Podman Desktop Companion](https://container-desktop.com/)
-* [2024-09-20, 17:33:15](https://news.ycombinator.com/item?id=41604042) - [Show HN: Inngest 1.0 – Open-source durable workflows on every platform](https://www.inngest.com/)
 * [2024-09-20, 17:22:06](https://news.ycombinator.com/item?id=41603955) - [Mitosis in the Gray-Scott model: writing shader-based chemical simulations](https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html)
 * [2024-09-20, 17:11:48](https://news.ycombinator.com/item?id=41603865) - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
@@ -30,6 +29,7 @@
 * [2024-09-18, 11:17:13](https://news.ycombinator.com/item?id=41578274) - [Kubesafe: Never run Kubernetes commands on the wrong cluster again](https://github.com/Telemaco019/kubesafe)
 * [2024-09-18, 06:01:34](https://news.ycombinator.com/item?id=41576276) - [Tupperware files for bankruptcy as demand slides](https://www.bbc.com/news/articles/c4gdprv2ddxo)
 * [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
+* [2024-09-16, 22:42:16](https://news.ycombinator.com/item?id=41561928) - [We could be witnessing the death of the graphics card in real time](https://www.techradar.com/computing/gpu/were-witnessing-the-death-of-the-graphics-card-in-real-time-right-now-and-i-couldnt-be-happier-about-it)
 
 ## [Archives](archives/index.md)
 
