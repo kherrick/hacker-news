@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-21, 22:03:57",
+      "https://news.ycombinator.com/item?id=41612968"
+    ],
+    [
+      "Deep space radio signal reaches Earth after 8B years",
+      "https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 21:04:52",
       "https://news.ycombinator.com/item?id=41612669"
     ],
@@ -37,16 +47,6 @@
     [
       "Tetris Game Shows Promise in Reducing PTSD Symptoms",
       "https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 20:03:40",
-      "https://news.ycombinator.com/item?id=41612334"
-    ],
-    [
-      "A plucked string simulator using Julia",
-      "https://lee-phillips.org/pluckit/#v0.2"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-09-21, 05:45:48",
-      "https://news.ycombinator.com/item?id=41607781"
-    ],
-    [
-      "The Gravo-Thermal Catastrophe",
-      "https://johncarlosbaez.wordpress.com/2024/09/20/the-gravo-thermal-catastrophe/"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 12:21:55",
       "https://news.ycombinator.com/item?id=41578825"
     ],
@@ -297,6 +287,16 @@
     [
       "Scientists find new blood group after 50-year mystery",
       "https://www.bbc.com/news/articles/cgmgg493ek8o"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 14:21:47",
+      "https://news.ycombinator.com/item?id=41567862"
+    ],
+    [
+      "A Simple Spaced Repetition Algo (In Ugly SQL)",
+      "https://taylor.town/flashcasts-srs-algo"
     ]
   ]
 ]
