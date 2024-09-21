@@ -6,6 +6,7 @@
 
 * [2024-09-21, 21:04:52](https://news.ycombinator.com/item?id=41612669) - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 21:00:41](https://news.ycombinator.com/item?id=41612641) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+* [2024-09-21, 20:47:56](https://news.ycombinator.com/item?id=41612578) - [The Age of Software Artisans](https://jairojair.com/articles/the-age-of-software-artisans/)
 * [2024-09-21, 20:09:54](https://news.ycombinator.com/item?id=41612367) - [Tetris Game Shows Promise in Reducing PTSD Symptoms](https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/)
 * [2024-09-21, 20:03:40](https://news.ycombinator.com/item?id=41612334) - [A plucked string simulator using Julia](https://lee-phillips.org/pluckit/#v0.2)
 * [2024-09-21, 19:54:15](https://news.ycombinator.com/item?id=41612254) - [In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions](https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/)
