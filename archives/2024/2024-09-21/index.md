@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 19:20:34](https://news.ycombinator.com/item?id=41612049) - [What Is a Particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+* [2024-09-21, 19:13:41](https://news.ycombinator.com/item?id=41612002) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
 * [2024-09-21, 18:15:39](https://news.ycombinator.com/item?id=41611649) - [X capitulates to Brazil's Supreme Court](https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court)
 * [2024-09-21, 18:12:55](https://news.ycombinator.com/item?id=41611636) - [Redis users considering alternatives after licensing move](https://www.theregister.com/2024/09/20/redis_users_considering_alternatives/)
 * [2024-09-21, 18:09:05](https://news.ycombinator.com/item?id=41611613) - [LHC experiments at CERN observe quantum entanglement at the highest energy yet](https://home.cern/news/press-release/physics/lhc-experiments-cern-observe-quantum-entanglement-highest-energy-yet)
