@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-21, 17:00:11](https://news.ycombinator.com/item?id=41611195) - [Kraftful (YC S19) is hiring a founder engineer](https://www.workatastartup.com/jobs/69323)
 * [2024-09-21, 16:13:53](https://news.ycombinator.com/item?id=41610832) - [What 10k Hours of Coding Taught Me: Don't Ship Fast](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
 * [2024-09-21, 15:48:44](https://news.ycombinator.com/item?id=41610709) - [Governor Newsom signs landmark bill to protect kids from social media addiction](https://www.gov.ca.gov/2024/09/20/governor-newsom-signs-landmark-bill-to-protect-kids-from-social-media-addiction-takes-action-on-other-measures/)
 * [2024-09-21, 15:31:33](https://news.ycombinator.com/item?id=41610619) - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-21, 12:18:55](https://news.ycombinator.com/item?id=41609491) - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
-* [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
 * [2024-09-21, 11:52:15](https://news.ycombinator.com/item?id=41609393) - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
 * [2024-09-21, 11:49:42](https://news.ycombinator.com/item?id=41609382) - [Remains of Egyptian army barracks and a bronze sword unearthed by archaeologists](https://www.cnn.com/2024/09/17/science/egypt-army-barracks-sword-intl-scli/index.html)
-* [2024-09-21, 10:53:43](https://news.ycombinator.com/item?id=41609127) - [Antarctica's Ozone Hole Is Healing and Set to Recover by 2066](https://www.iflscience.com/antarcticas-ozone-hole-is-healing-and-set-to-recover-fully-by-2066-75983)
 * [2024-09-21, 10:48:35](https://news.ycombinator.com/item?id=41609099) - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 07:55:41](https://news.ycombinator.com/item?id=41608350) - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
@@ -30,6 +29,7 @@
 * [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
 * [2024-09-17, 17:16:39](https://news.ycombinator.com/item?id=41570088) - [Counting Sheeps with Contracts in Python](https://colorsofcode.ghost.io/counting-sheeps-with-contracts-in-python/)
 * [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
+* [2024-09-17, 16:19:12](https://news.ycombinator.com/item?id=41569284) - [Gibbons move with rhythm and intention. Dare we say style?](https://www.nytimes.com/2024/09/14/science/gibbons-dancing-apes.html)
 
 ## [Archives](archives/index.md)
 
