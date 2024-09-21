@@ -11,6 +11,7 @@
 * [2024-09-16, 23:04:43](https://news.ycombinator.com/item?id=41562111) - [Open Source Form Back End](https://github.com/FormBee/FormBee)
 * [2024-09-16, 22:57:15](https://news.ycombinator.com/item?id=41562034) - [We fine-tuned an LLM to triage and fix insecure code](https://corgea.com/blog/fine-tuning-for-precision-and-privacy-how-corgea-s-llm-enhances-enterprise-application-security)
 * [2024-09-16, 22:47:30](https://news.ycombinator.com/item?id=41561965) - [Finetune, Eval, Deploy 60 LLMs in a single Colab notebook](https://colab.research.google.com/drive/1v4zaLJ-YXE29rn4ZJXCtTDwBzDg8H2HK?usp=sharing)
+* [2024-09-16, 22:42:16](https://news.ycombinator.com/item?id=41561928) - [We could be witnessing the death of the graphics card in real time](https://www.techradar.com/computing/gpu/were-witnessing-the-death-of-the-graphics-card-in-real-time-right-now-and-i-couldnt-be-happier-about-it)
 * [2024-09-16, 22:15:24](https://news.ycombinator.com/item?id=41561647) - [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
 * [2024-09-16, 21:45:54](https://news.ycombinator.com/item?id=41561321) - [What Hath Woz Wrought](https://www.folklore.org/What_Hath_Woz_Wrought.html)
 * [2024-09-16, 20:44:59](https://news.ycombinator.com/item?id=41560659) - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
