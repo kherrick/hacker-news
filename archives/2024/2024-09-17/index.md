@@ -10,6 +10,7 @@
 * [2024-09-17, 22:26:58](https://news.ycombinator.com/item?id=41573550) - [Reports of the Death of Dental Cavities Are Greatly Exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
 * [2024-09-17, 22:14:21](https://news.ycombinator.com/item?id=41573454) - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
 * [2024-09-17, 21:53:42](https://news.ycombinator.com/item?id=41573256) - [A Word about Systemd](https://skarnet.org/software/systemd.html)
+* [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
 * [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Entire Independent Board of Directors of 23andMe Resigns](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
 * [2024-09-17, 21:18:07](https://news.ycombinator.com/item?id=41572851) - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
 * [2024-09-17, 20:36:31](https://news.ycombinator.com/item?id=41572443) - [Trichloroethylene: An Invisible Cause of Parkinson's Disease?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10041423/)
