@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
 * [2024-09-21, 22:14:27](https://news.ycombinator.com/item?id=41613025) - [Why I'm Leaving Meta](https://medium.com/@peravi8126/why-im-leaving-meta-c3ab43491204)
+* [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What Happened to the Japanese PC Platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 * [2024-09-21, 22:03:57](https://news.ycombinator.com/item?id=41612968) - [Deep space radio signal reaches Earth after 8B years](https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/)
 * [2024-09-21, 21:04:52](https://news.ycombinator.com/item?id=41612669) - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 21:00:41](https://news.ycombinator.com/item?id=41612641) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
