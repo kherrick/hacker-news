@@ -36,6 +36,7 @@
 * [2024-09-17, 16:08:13](https://news.ycombinator.com/item?id=41569175) - [We are self-hosting our GPUs](https://www.gumlet.com/blog/time-to-own-gpus/)
 * [2024-09-17, 16:06:12](https://news.ycombinator.com/item?id=41569151) - [Request to Upgrade Fedora KDE Desktop Spin to Edition Status](https://discussion.fedoraproject.org/t/fedora-council-tickets-ticket-504-request-to-upgrade-fedora-kde-desktop-spin-to-edition-status-under-the-personal-systems-wg/131059)
 * [2024-09-17, 15:57:01](https://news.ycombinator.com/item?id=41569056) - [A new path for Kyber on the web for Chrome](https://security.googleblog.com/2024/09/a-new-path-for-kyber-on-web.html)
+* [2024-09-17, 15:33:46](https://news.ycombinator.com/item?id=41568745) - [Performance of Eigen vs. Blaze vs. Fastor vs. Armadillo vs. XTensor (2020)](https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982)
 * [2024-09-17, 15:31:45](https://news.ycombinator.com/item?id=41568731) - [Mastodeck – Mastodon for Power Users](https://mastodeck.com/)
 * [2024-09-17, 15:08:39](https://news.ycombinator.com/item?id=41568418) - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 15:04:09](https://news.ycombinator.com/item?id=41568343) - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
