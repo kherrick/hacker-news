@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
+* [2024-09-21, 12:18:55](https://news.ycombinator.com/item?id=41609491) - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
 * [2024-09-21, 12:14:54](https://news.ycombinator.com/item?id=41609473) - [Vaporizing plastics recycles them into nothing but gas](https://arstechnica.com/science/2024/09/vaporizing-plastics-recycles-them-into-nothing-but-gas/)
 * [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
 * [2024-09-21, 11:52:15](https://news.ycombinator.com/item?id=41609393) - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
@@ -9,7 +10,6 @@
 * [2024-09-21, 10:48:35](https://news.ycombinator.com/item?id=41609099) - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 07:55:41](https://news.ycombinator.com/item?id=41608350) - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
-* [2024-09-21, 07:52:51](https://news.ycombinator.com/item?id=41608333) - [Kubed (Emacs-based Kubernetes interface) user manual, now with pretty images](https://eshelyaron.com/kubed.html)
 * [2024-09-21, 06:15:01](https://news.ycombinator.com/item?id=41607887) - [Porsche's idea for a six-stroke internal combustion engine](https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/)
 * [2024-09-21, 05:45:48](https://news.ycombinator.com/item?id=41607781) - [The Gravo-Thermal Catastrophe](https://johncarlosbaez.wordpress.com/2024/09/20/the-gravo-thermal-catastrophe/)
 * [2024-09-20, 21:45:35](https://news.ycombinator.com/item?id=41605774) - [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
