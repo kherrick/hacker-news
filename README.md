@@ -2,6 +2,7 @@
 
 * [2024-09-21, 06:26:25](https://news.ycombinator.com/item?id=41607920) - [Hollywood Can't Ditch Its Teslas Fast Enough:\"They're Destroying Their Leases..\"](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/tesla-robotaxi-warner-bros-reveal-hollywood-rejection-elon-musk-1236007945/)
 * [2024-09-21, 06:15:01](https://news.ycombinator.com/item?id=41607887) - [Porsche's Idea for a Six-Stroke Internal Combustion Engine Looks Brilliant](https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/)
+* [2024-09-21, 04:53:29](https://news.ycombinator.com/item?id=41607569) - [Why Ruby on Rails Will Never Die: A Veteran Coder's Perspective](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)
 * [2024-09-21, 03:05:27](https://news.ycombinator.com/item?id=41607166) - [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
 * [2024-09-21, 02:37:44](https://news.ycombinator.com/item?id=41607059) - [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
 * [2024-09-21, 02:05:34](https://news.ycombinator.com/item?id=41606916) - [Sshfs for Windows](https://github.com/winfsp/sshfs-win)
@@ -9,7 +10,6 @@
 * [2024-09-21, 00:05:57](https://news.ycombinator.com/item?id=41606493) - [CISA boss: Makers of insecure software are the real cyber villains](https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/)
 * [2024-09-20, 21:45:35](https://news.ycombinator.com/item?id=41605774) - [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 * [2024-09-20, 21:28:49](https://news.ycombinator.com/item?id=41605680) - [Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability](https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/)
-* [2024-09-20, 21:10:09](https://news.ycombinator.com/item?id=41605528) - [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
 * [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
 * [2024-09-20, 19:22:11](https://news.ycombinator.com/item?id=41604840) - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 * [2024-09-20, 18:08:22](https://news.ycombinator.com/item?id=41604262) - [Show HN: Container Desktop – Podman Desktop Companion](https://container-desktop.com/)
