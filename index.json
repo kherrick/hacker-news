@@ -21,6 +21,36 @@
   ],
   [
     [
+      "2024-09-21, 18:09:05",
+      "https://news.ycombinator.com/item?id=41611613"
+    ],
+    [
+      "LHC experiments at CERN observe quantum entanglement at the highest energy yet",
+      "https://home.cern/news/press-release/physics/lhc-experiments-cern-observe-quantum-entanglement-highest-energy-yet"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 18:00:57",
+      "https://news.ycombinator.com/item?id=41611571"
+    ],
+    [
+      "Applied Mathematical Programming",
+      "https://web.mit.edu/15.053/www/AMP.htm"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 17:26:12",
+      "https://news.ycombinator.com/item?id=41611356"
+    ],
+    [
+      "4 Exploits, 1 bug: exploiting cve-2024-20017 4 different ways",
+      "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 17:00:11",
       "https://news.ycombinator.com/item?id=41611195"
     ],
@@ -57,6 +87,16 @@
     [
       "Zdotenv – Dotenv Loader for Zig",
       "https://github.com/BitlyTwiser/zdotenv"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 14:34:12",
+      "https://news.ycombinator.com/item?id=41610247"
+    ],
+    [
+      "Learning 101: The untaught basics [pdf]",
+      "https://typeset.io/pdf/learning-101-the-untaught-basics-2r0c0g7p3e.pdf"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-09-21, 06:15:01",
-      "https://news.ycombinator.com/item?id=41607887"
-    ],
-    [
-      "Porsche's idea for a six-stroke internal combustion engine",
-      "https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 05:45:48",
       "https://news.ycombinator.com/item?id=41607781"
     ],
@@ -167,16 +197,6 @@
     [
       "Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability",
       "https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 19:22:11",
-      "https://news.ycombinator.com/item?id=41604840"
-    ],
-    [
-      "Show HN: AIQ – A no-frills CLI for embeddings and text classification",
-      "https://github.com/taylorai/aiq"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts",
       "https://github.com/qhjqhj00/MemoRAG"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 13:54:41",
-      "https://news.ycombinator.com/item?id=41602056"
-    ],
-    [
-      "Reactive Relational Algebra",
-      "https://taylor.town/reactive-relational-algebra"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 11:04:15",
-      "https://news.ycombinator.com/item?id=41600756"
-    ],
-    [
-      "Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit",
-      "https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004"
     ]
   ],
   [
