@@ -56,6 +56,7 @@
 * [2024-09-18, 14:02:00](https://news.ycombinator.com/item?id=41579852) - [Tupperware files for bankruptcy as its colorful containers lose relevance](https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/)
 * [2024-09-18, 14:01:19](https://news.ycombinator.com/item?id=41579843) - [A Subway Named Mobius (1952)](https://www.fadedpage.com/showbook.php?pid=20210556)
 * [2024-09-18, 13:54:54](https://news.ycombinator.com/item?id=41579777) - [Launch HN: Cerebrium (YC W22) – Serverless Infrastructure Platform for ML/AI](https://news.ycombinator.com/item?id=41579777)
+* [2024-09-18, 13:39:44](https://news.ycombinator.com/item?id=41579591) - [Open source maintainers underpaid, swamped by security, and going gray](https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/)
 * [2024-09-18, 13:34:09](https://news.ycombinator.com/item?id=41579517) - [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
 * [2024-09-18, 13:27:57](https://news.ycombinator.com/item?id=41579460) - [The Symbolics Genera Programming Environment (1987)](https://archive.org/details/smbx-genera-programming-env-1987)
 * [2024-09-18, 13:17:35](https://news.ycombinator.com/item?id=41579355) - [AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds](https://www.cbc.ca/news/health/ai-health-care-1.7322671)
