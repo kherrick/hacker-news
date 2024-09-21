@@ -12,6 +12,7 @@
 * [2024-09-21, 18:00:57](https://news.ycombinator.com/item?id=41611571) - [Applied Mathematical Programming](https://web.mit.edu/15.053/www/AMP.htm)
 * [2024-09-21, 17:26:12](https://news.ycombinator.com/item?id=41611356) - [4 Exploits, 1 bug: exploiting cve-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
 * [2024-09-21, 17:00:11](https://news.ycombinator.com/item?id=41611195) - [Kraftful (YC S19) is hiring a founder engineer](https://www.workatastartup.com/jobs/69323)
+* [2024-09-21, 16:37:33](https://news.ycombinator.com/item?id=41611018) - [Ask HN: Could Qualcomm Buy Intel?](https://news.ycombinator.com/item?id=41611018)
 * [2024-09-21, 16:13:53](https://news.ycombinator.com/item?id=41610832) - [What 10k Hours of Coding Taught Me: Don't Ship Fast](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
 * [2024-09-21, 15:48:44](https://news.ycombinator.com/item?id=41610709) - [Governor Newsom signs landmark bill to protect kids from social media addiction](https://www.gov.ca.gov/2024/09/20/governor-newsom-signs-landmark-bill-to-protect-kids-from-social-media-addiction-takes-action-on-other-measures/)
 * [2024-09-21, 15:32:06](https://news.ycombinator.com/item?id=41610622) - [Trachtenberg System of Mental Calculation](https://en.wikipedia.org/wiki/Trachtenberg_system)
