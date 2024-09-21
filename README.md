@@ -25,10 +25,10 @@
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
-* [2024-09-19, 14:53:32](https://news.ycombinator.com/item?id=41592552) - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-18, 19:08:19](https://news.ycombinator.com/item?id=41584141) - [Infinite zoom art turned into a game so fun](https://venturebeat.com/games/sarah-andersen-comics-launches-sarahs-scribbles-hidden-art-game/)
 * [2024-09-18, 13:39:44](https://news.ycombinator.com/item?id=41579591) - [Open source maintainers underpaid, swamped by security, and going gray](https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/)
 * [2024-09-18, 11:17:13](https://news.ycombinator.com/item?id=41578274) - [Kubesafe: Never run Kubernetes commands on the wrong cluster again](https://github.com/Telemaco019/kubesafe)
+* [2024-09-18, 06:01:34](https://news.ycombinator.com/item?id=41576276) - [Tupperware files for bankruptcy as demand slides](https://www.bbc.com/news/articles/c4gdprv2ddxo)
 * [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
 
 ## [Archives](archives/index.md)
