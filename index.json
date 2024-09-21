@@ -1,11 +1,41 @@
 [
   [
     [
+      "2024-09-21, 19:54:15",
+      "https://news.ycombinator.com/item?id=41612254"
+    ],
+    [
+      "In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions",
+      "https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 19:35:18",
+      "https://news.ycombinator.com/item?id=41612146"
+    ],
+    [
+      "A Tour of NYC's Mass Burial Site That's Also a Public Park Now",
+      "https://www.thecity.nyc/2024/09/11/hart-island-public-park-potters-field-mass-graves/"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 19:31:53",
+      "https://news.ycombinator.com/item?id=41612126"
+    ],
+    [
+      "US House of Representatives adopts baseline policy for AI use",
+      "https://www.nextgov.com/artificial-intelligence/2024/09/house-representatives-adopts-baseline-policy-ai-use/399710/"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 19:20:34",
       "https://news.ycombinator.com/item?id=41612049"
     ],
     [
-      "What Is a Particle?",
+      "What Is a Particle? (2020)",
       "https://www.quantamagazine.org/what-is-a-particle-20201112/"
     ]
   ],
@@ -17,16 +47,6 @@
     [
       "Analyzing the OpenAPI Tooling Ecosystem",
       "https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 18:12:55",
-      "https://news.ycombinator.com/item?id=41611636"
-    ],
-    [
-      "Redis users considering alternatives after licensing move",
-      "https://www.theregister.com/2024/09/20/redis_users_considering_alternatives/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-09-20, 21:45:35",
-      "https://news.ycombinator.com/item?id=41605774"
-    ],
-    [
-      "How do archivists package things? The battle of the boxes",
-      "https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 21:28:49",
       "https://news.ycombinator.com/item?id=41605680"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-09-20, 14:41:16",
-      "https://news.ycombinator.com/item?id=41602474"
+      "2024-09-18, 07:49:34",
+      "https://news.ycombinator.com/item?id=41576956"
     ],
     [
-      "MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts",
-      "https://github.com/qhjqhj00/MemoRAG"
+      "Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript",
+      "https://github.com/pg-nano/pg-parser"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Cold war spy satellites and AI detect ancient underground aqueducts",
       "https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 16:19:12",
-      "https://news.ycombinator.com/item?id=41569284"
-    ],
-    [
-      "Gibbons move with rhythm and intention. Dare we say style?",
-      "https://www.nytimes.com/2024/09/14/science/gibbons-dancing-apes.html"
     ]
   ]
 ]
