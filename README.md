@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-21, 13:39:13](https://news.ycombinator.com/item?id=41609889) - [OWASP Juice Shop: the most modern and sophisticated insecure web application](https://github.com/juice-shop/juice-shop)
+* [2024-09-21, 15:31:33](https://news.ycombinator.com/item?id=41610619) - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-21, 12:18:55](https://news.ycombinator.com/item?id=41609491) - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
 * [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
