@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
 * [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
+* [2024-09-21, 11:52:15](https://news.ycombinator.com/item?id=41609393) - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
 * [2024-09-21, 10:48:35](https://news.ycombinator.com/item?id=41609099) - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 09:05:10](https://news.ycombinator.com/item?id=41608637) - [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
