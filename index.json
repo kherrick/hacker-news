@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-09-21, 12:14:54",
-      "https://news.ycombinator.com/item?id=41609473"
-    ],
-    [
-      "Vaporizing plastics recycles them into nothing but gas",
-      "https://arstechnica.com/science/2024/09/vaporizing-plastics-recycles-them-into-nothing-but-gas/"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 12:00:35",
       "https://news.ycombinator.com/item?id=41609427"
     ],
@@ -101,6 +91,16 @@
   ],
   [
     [
+      "2024-09-21, 07:52:51",
+      "https://news.ycombinator.com/item?id=41608333"
+    ],
+    [
+      "Kubed (Emacs-based Kubernetes interface) user manual, now with pretty images",
+      "https://eshelyaron.com/kubed.html"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 06:15:01",
       "https://news.ycombinator.com/item?id=41607887"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41604840"
     ],
     [
-      "Show HN: Open-source text classification CLI – train models with no labeled data",
+      "Show HN: AIQ – A no-frills CLI for embeddings and text classification",
       "https://github.com/taylorai/aiq"
     ]
   ],
