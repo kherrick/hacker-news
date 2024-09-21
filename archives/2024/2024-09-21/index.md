@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 19:54:15](https://news.ycombinator.com/item?id=41612254) - [In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions](https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/)
+* [2024-09-21, 19:35:18](https://news.ycombinator.com/item?id=41612146) - [A Tour of NYC's Mass Burial Site That's Also a Public Park Now](https://www.thecity.nyc/2024/09/11/hart-island-public-park-potters-field-mass-graves/)
+* [2024-09-21, 19:31:53](https://news.ycombinator.com/item?id=41612126) - [US House of Representatives adopts baseline policy for AI use](https://www.nextgov.com/artificial-intelligence/2024/09/house-representatives-adopts-baseline-policy-ai-use/399710/)
 * [2024-09-21, 19:20:34](https://news.ycombinator.com/item?id=41612049) - [What Is a Particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 * [2024-09-21, 19:13:41](https://news.ycombinator.com/item?id=41612002) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
 * [2024-09-21, 18:15:39](https://news.ycombinator.com/item?id=41611649) - [X capitulates to Brazil's Supreme Court](https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court)
