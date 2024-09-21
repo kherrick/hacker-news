@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-21, 06:26:25](https://news.ycombinator.com/item?id=41607920) - [Hollywood Can't Ditch Its Teslas Fast Enough:\"They're Destroying Their Leases..\"](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/tesla-robotaxi-warner-bros-reveal-hollywood-rejection-elon-musk-1236007945/)
 * [2024-09-21, 06:15:01](https://news.ycombinator.com/item?id=41607887) - [Porsche's Idea for a Six-Stroke Internal Combustion Engine Looks Brilliant](https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/)
 * [2024-09-21, 04:53:29](https://news.ycombinator.com/item?id=41607569) - [Ruby on Rails continues to thrive](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)
 * [2024-09-21, 03:05:27](https://news.ycombinator.com/item?id=41607166) - [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
@@ -26,6 +25,7 @@
 * [2024-09-20, 09:19:00](https://news.ycombinator.com/item?id=41600177) - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
 * [2024-09-20, 01:57:22](https://news.ycombinator.com/item?id=41598119) - [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
+* [2024-09-19, 20:59:28](https://news.ycombinator.com/item?id=41596336) - [Show HN: CNC Microscopy for Fun](https://www.anfractuosity.com/projects/cnc-microscopy/)
 * [2024-09-18, 19:08:19](https://news.ycombinator.com/item?id=41584141) - [Infinite zoom art turned into a game so fun](https://venturebeat.com/games/sarah-andersen-comics-launches-sarahs-scribbles-hidden-art-game/)
 * [2024-09-18, 13:39:44](https://news.ycombinator.com/item?id=41579591) - [Open source maintainers underpaid, swamped by security, and going gray](https://www.theregister.com/2024/09/18/open_source_maintainers_underpaid/)
 * [2024-09-18, 11:17:13](https://news.ycombinator.com/item?id=41578274) - [Kubesafe: Never run Kubernetes commands on the wrong cluster again](https://github.com/Telemaco019/kubesafe)
