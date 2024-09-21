@@ -32,6 +32,7 @@
 * [2024-09-17, 16:50:04](https://news.ycombinator.com/item?id=41569723) - [Pixtral 12B](https://mistral.ai/news/pixtral-12b/)
 * [2024-09-17, 16:36:23](https://news.ycombinator.com/item?id=41569557) - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
 * [2024-09-17, 16:35:29](https://news.ycombinator.com/item?id=41569544) - [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
+* [2024-09-17, 16:20:09](https://news.ycombinator.com/item?id=41569292) - [Cold war spy satellites and AI detect ancient underground aqueducts](https://www.newscientist.com/article/2448049-cold-war-spy-satellites-and-ai-detect-ancient-underground-aqueducts/)
 * [2024-09-17, 16:09:16](https://news.ycombinator.com/item?id=41569189) - [Some remarks on the mathematical structure of the multiverse](https://arxiv.org/abs/1602.04247)
 * [2024-09-17, 16:08:13](https://news.ycombinator.com/item?id=41569175) - [We are self-hosting our GPUs](https://www.gumlet.com/blog/time-to-own-gpus/)
 * [2024-09-17, 16:06:12](https://news.ycombinator.com/item?id=41569151) - [Request to Upgrade Fedora KDE Desktop Spin to Edition Status](https://discussion.fedoraproject.org/t/fedora-council-tickets-ticket-504-request-to-upgrade-fedora-kde-desktop-spin-to-edition-status-under-the-personal-systems-wg/131059)
