@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
 * [2024-09-21, 13:42:08](https://news.ycombinator.com/item?id=41609915) - [Working in the office 5 days a week to build company culture is a myth](https://fortune.com/2024/09/20/working-in-office-5-days-week-build-company-culture-myth-pwc-report/)
+* [2024-09-21, 13:14:28](https://news.ycombinator.com/item?id=41609758) - [Glacier National Park replacing signs that predicted glaciers would gone by 2020](https://www.cnn.com/2020/01/08/us/glaciers-national-park-2020-trnd/index.html)
 * [2024-09-21, 12:14:54](https://news.ycombinator.com/item?id=41609473) - [Vaporizing plastics recycles them into nothing but gas](https://arstechnica.com/science/2024/09/vaporizing-plastics-recycles-them-into-nothing-but-gas/)
 * [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
 * [2024-09-21, 11:52:15](https://news.ycombinator.com/item?id=41609393) - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
+* [2024-09-21, 10:53:43](https://news.ycombinator.com/item?id=41609127) - [Antarctica's Ozone Hole Is Healing and Set to Recover by 2066](https://www.iflscience.com/antarcticas-ozone-hole-is-healing-and-set-to-recover-fully-by-2066-75983)
 * [2024-09-21, 10:48:35](https://news.ycombinator.com/item?id=41609099) - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 09:05:10](https://news.ycombinator.com/item?id=41608637) - [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
