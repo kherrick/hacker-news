@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-22, 13:41:17](https://news.ycombinator.com/item?id=41617004) - [How FIFA was outplayed by Electronic Arts](https://www.economist.com/business/2024/09/19/how-fifa-was-outplayed-by-electronic-arts)
 * [2024-09-22, 13:31:26](https://news.ycombinator.com/item?id=41616945) - [When You Call a Restaurant, You Might Be Chatting with an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)
 * [2024-09-22, 12:46:04](https://news.ycombinator.com/item?id=41616653) - [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
 * [2024-09-22, 12:00:37](https://news.ycombinator.com/item?id=41616455) - [Motion (YC W20) Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
@@ -11,7 +12,6 @@
 * [2024-09-22, 02:05:38](https://news.ycombinator.com/item?id=41614126) - [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
 * [2024-09-22, 00:42:33](https://news.ycombinator.com/item?id=41613722) - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
 * [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
-* [2024-09-21, 21:04:27](https://news.ycombinator.com/item?id=41612665) - [Flow Computing aims to boost CPUs with ‘parallel processing units’](https://spectrum.ieee.org/parallel-processing-unit)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 19:20:34](https://news.ycombinator.com/item?id=41612049) - [What Is a Particle? (2020)](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 * [2024-09-21, 19:13:41](https://news.ycombinator.com/item?id=41612002) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
