@@ -29,7 +29,7 @@
 * [2024-09-18, 07:49:34](https://news.ycombinator.com/item?id=41576956) - [Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript](https://github.com/pg-nano/pg-parser)
 * [2024-09-18, 04:41:26](https://news.ycombinator.com/item?id=41575867) - [The Miraculous Resurrection of Notre-Dame](https://www.gq.com/story/the-miraculous-resurrection-of-notre-dame)
 * [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
-* [2024-09-17, 14:21:47](https://news.ycombinator.com/item?id=41567862) - [A Simple Spaced Repetition Algo (In Ugly SQL)](https://taylor.town/flashcasts-srs-algo)
+* [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python and Matplotlib, by Nicolas Rougier](https://github.com/rougier/scientific-visualization-book)
 
 ## [Archives](archives/index.md)
 

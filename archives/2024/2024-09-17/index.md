@@ -14,6 +14,7 @@
 * [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Entire Independent Board of Directors of 23andMe Resigns](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
 * [2024-09-17, 21:18:07](https://news.ycombinator.com/item?id=41572851) - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
 * [2024-09-17, 20:36:31](https://news.ycombinator.com/item?id=41572443) - [Trichloroethylene: An Invisible Cause of Parkinson's Disease?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10041423/)
+* [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python and Matplotlib, by Nicolas Rougier](https://github.com/rougier/scientific-visualization-book)
 * [2024-09-17, 20:33:51](https://news.ycombinator.com/item?id=41572417) - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
 * [2024-09-17, 20:01:21](https://news.ycombinator.com/item?id=41572041) - [Instagram Teen Accounts](https://about.fb.com/news/2024/09/instagram-teen-accounts/)
 * [2024-09-17, 19:56:39](https://news.ycombinator.com/item?id=41571971) - [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
