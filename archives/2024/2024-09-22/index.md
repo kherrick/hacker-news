@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 19:00:56](https://news.ycombinator.com/item?id=41619131) - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
 * [2024-09-22, 18:42:56](https://news.ycombinator.com/item?id=41619047) - [Love of cargo bikes is changing how we deliver goods in our cities](https://www.euronews.com/next/2024/09/22/europes-love-affair-with-cargo-bikes-is-changing-how-we-deliver-goods-in-our-cities)
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:32:58](https://news.ycombinator.com/item?id=41618524) - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
@@ -17,6 +18,7 @@
 * [2024-09-22, 15:08:25](https://news.ycombinator.com/item?id=41617588) - [Sci-Fi: Every Idea in One CSV](https://gist.github.com/FL33TW00D/2cf10abfb468bddcb585d3c282d0b133)
 * [2024-09-22, 14:55:13](https://news.ycombinator.com/item?id=41617508) - [The unknowns surrounding the mysterious rise of cancer in young adults](https://english.elpais.com/health/2024-09-20/the-unknowns-surrounding-the-mysterious-rise-of-cancer-in-young-adults.html)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
+* [2024-09-22, 14:39:21](https://news.ycombinator.com/item?id=41617400) - [Communicating with Interactive Articles (2020)](https://distill.pub/2020/communicating-with-interactive-articles/)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 * [2024-09-22, 13:41:17](https://news.ycombinator.com/item?id=41617004) - [How FIFA was outplayed by Electronic Arts](https://www.economist.com/business/2024/09/19/how-fifa-was-outplayed-by-electronic-arts)
 * [2024-09-22, 13:31:26](https://news.ycombinator.com/item?id=41616945) - [When You Call a Restaurant, You Might Be Chatting with an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)
