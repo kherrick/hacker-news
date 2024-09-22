@@ -19,6 +19,7 @@
 * [2024-09-17, 20:36:31](https://news.ycombinator.com/item?id=41572443) - [Trichloroethylene: An Invisible Cause of Parkinson's Disease?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10041423/)
 * [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python and Matplotlib, by Nicolas Rougier](https://github.com/rougier/scientific-visualization-book)
 * [2024-09-17, 20:33:51](https://news.ycombinator.com/item?id=41572417) - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
+* [2024-09-17, 20:09:15](https://news.ycombinator.com/item?id=41572137) - [Mozilla exits the Fediverse and will shutter its Mastodon server in December](https://techcrunch.com/2024/09/17/mozilla-exits-the-fediverse-and-will-shutter-its-mastodon-server-in-december/)
 * [2024-09-17, 20:01:21](https://news.ycombinator.com/item?id=41572041) - [Instagram Teen Accounts](https://about.fb.com/news/2024/09/instagram-teen-accounts/)
 * [2024-09-17, 19:56:39](https://news.ycombinator.com/item?id=41571971) - [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
 * [2024-09-17, 19:51:04](https://news.ycombinator.com/item?id=41571911) - [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
