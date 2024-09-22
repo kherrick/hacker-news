@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 07:46:10](https://news.ycombinator.com/item?id=41615348) - [Is this the civilization we want? (2017)](https://dynamicland.org/archive/2017/Is_this_the_civilization_we_really_want%3F)
+* [2024-09-22, 06:50:21](https://news.ycombinator.com/item?id=41615102) - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
+* [2024-09-22, 06:12:45](https://news.ycombinator.com/item?id=41614949) - [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
 * [2024-09-22, 06:04:30](https://news.ycombinator.com/item?id=41614926) - [Pay once. Use forever. Find the best purchase alternatives to subscription](https://payoncealternatives.com)
 * [2024-09-22, 05:21:28](https://news.ycombinator.com/item?id=41614795) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
+* [2024-09-22, 04:39:37](https://news.ycombinator.com/item?id=41614663) - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 * [2024-09-22, 04:11:47](https://news.ycombinator.com/item?id=41614567) - [Stupid Problems Require Stupid Solutions (Cloudflare Is Breaking My SVGs)](https://www.lloydatkinson.net/posts/2024/stupid-problems-require-stupid-solutions-cloudflare-is-breaking-my-svgs/)
 * [2024-09-22, 03:49:10](https://news.ycombinator.com/item?id=41614490) - [Jeff Geerling – They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
 * [2024-09-22, 02:05:38](https://news.ycombinator.com/item?id=41614126) - [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
