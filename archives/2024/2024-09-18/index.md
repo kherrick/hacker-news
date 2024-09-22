@@ -22,6 +22,7 @@
 * [2024-09-18, 19:09:25](https://news.ycombinator.com/item?id=41584157) - [Ask HN: Kotlin SpringBoot vs. Python Django for Min Viable Product](https://news.ycombinator.com/item?id=41584157)
 * [2024-09-18, 19:08:19](https://news.ycombinator.com/item?id=41584141) - [Infinite zoom art turned into a game so fun](https://venturebeat.com/games/sarah-andersen-comics-launches-sarahs-scribbles-hidden-art-game/)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+* [2024-09-18, 18:33:45](https://news.ycombinator.com/item?id=41583766) - [Transparent Like Frosted Glass](https://explaining.software/archive/transparent-like-frosted-glass/)
 * [2024-09-18, 18:31:12](https://news.ycombinator.com/item?id=41583725) - [Timothy Snyder on How the Collapse of the Soviet Union Took America by Surprise](https://lithub.com/timothy-snyder-on-how-the-collapse-of-the-soviet-union-took-america-by-surprise/)
 * [2024-09-18, 18:29:12](https://news.ycombinator.com/item?id=41583689) - [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
 * [2024-09-18, 18:27:38](https://news.ycombinator.com/item?id=41583666) - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)

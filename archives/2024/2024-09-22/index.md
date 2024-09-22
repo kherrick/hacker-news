@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 17:00:11](https://news.ycombinator.com/item?id=41618295) - [Sieve (YC W22) Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
+* [2024-09-22, 16:36:16](https://news.ycombinator.com/item?id=41618158) - [A Bay Area boy was kidnapped from a park in 1951. He's just been found alive](https://www.sfgate.com/bayarea/article/bay-area-boy-kidnapped-park-found-alive-19784249.php)
+* [2024-09-22, 16:10:30](https://news.ycombinator.com/item?id=41617996) - [Kelsey Hightower: If governments rely on FOSS, they should fund it](https://www.theregister.com/2024/09/19/kelsey_hightower_civo/)
 * [2024-09-22, 15:21:53](https://news.ycombinator.com/item?id=41617669) - [Ask HN: How do I find my co-founder?](https://news.ycombinator.com/item?id=41617669)
 * [2024-09-22, 15:21:17](https://news.ycombinator.com/item?id=41617663) - ['I Don't Want to Die.' He needed mental health care. He found a ghost network](https://www.npr.org/sections/shots-health-news/2024/09/21/nx-s1-5120543/mental-health-care-parity-insurance-ghost-network)
+* [2024-09-22, 15:08:25](https://news.ycombinator.com/item?id=41617588) - [Sci-Fi: Every Idea in One CSV](https://gist.github.com/FL33TW00D/2cf10abfb468bddcb585d3c282d0b133)
 * [2024-09-22, 14:55:13](https://news.ycombinator.com/item?id=41617508) - [The unknowns surrounding the mysterious rise of cancer in young adults](https://english.elpais.com/health/2024-09-20/the-unknowns-surrounding-the-mysterious-rise-of-cancer-in-young-adults.html)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:41:17](https://news.ycombinator.com/item?id=41617004) - [How FIFA was outplayed by Electronic Arts](https://www.economist.com/business/2024/09/19/how-fifa-was-outplayed-by-electronic-arts)
