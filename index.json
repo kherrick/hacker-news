@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-09-22, 13:31:26",
+      "https://news.ycombinator.com/item?id=41616945"
+    ],
+    [
+      "When You Call a Restaurant, You Might Be Chatting with an AI Host",
+      "https://www.wired.com/story/restaurant-ai-hosts/"
+    ]
+  ],
+  [
+    [
       "2024-09-22, 12:46:04",
       "https://news.ycombinator.com/item?id=41616653"
     ],
     [
       "The sorry state of Java deserialization",
       "https://www.marginalia.nu/log/a_110_java_io/"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 12:24:54",
-      "https://news.ycombinator.com/item?id=41616559"
-    ],
-    [
-      "Intel has officially entered the grin and bear it phase of its recovery",
-      "https://www.theregister.com/2024/09/22/intel_grin_bear_it/"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-09-21, 21:04:27",
+      "https://news.ycombinator.com/item?id=41612665"
+    ],
+    [
+      "Flow Computing aims to boost CPUs with ‘parallel processing units’",
+      "https://spectrum.ieee.org/parallel-processing-unit"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 19:36:20",
       "https://news.ycombinator.com/item?id=41612154"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-09-21, 13:01:07",
-      "https://news.ycombinator.com/item?id=41609694"
-    ],
-    [
-      "Social Initiation",
-      "https://socialcommunication.truman.edu/attitudes-emotions/social-initiation/"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 12:57:11",
       "https://news.ycombinator.com/item?id=41609670"
     ],
@@ -227,16 +227,6 @@
     [
       "Open-Source CLI tool to inspect databases fast",
       "https://github.com/PeepDB-dev/peepdb"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 19:09:25",
-      "https://news.ycombinator.com/item?id=41584157"
-    ],
-    [
-      "Ask HN: Kotlin SpringBoot vs. Python Django for Min Viable Product",
-      "https://news.ycombinator.com/item?id=41584157"
     ]
   ],
   [
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2024-09-17, 21:47:05",
+      "https://news.ycombinator.com/item?id=41573198"
+    ],
+    [
+      "Scientists find new blood group after 50-year mystery",
+      "https://www.bbc.com/news/articles/cgmgg493ek8o"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 21:29:52",
       "https://news.ycombinator.com/item?id=41573013"
     ],
     [
-      "Machine Learning Model Homology",
+      "Machine Learning Model Homotopy",
       "https://win-vector.com/2024/09/17/machine-learning-model-homotopy/"
     ]
   ],
