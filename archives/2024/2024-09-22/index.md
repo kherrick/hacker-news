@@ -14,6 +14,7 @@
 * [2024-09-22, 12:19:25](https://news.ycombinator.com/item?id=41616540) - [Bruce Schneier: Israel's Pager Attacks Have Changed the World](https://www.nytimes.com/2024/09/22/opinion/israel-pager-attacks-supply-chain.html)
 * [2024-09-22, 12:02:33](https://news.ycombinator.com/item?id=41616463) - [Surviving Threads: Why Are People Drawn to the World's Most Harrowing Film?](https://thequietus.com/opinion-and-essays/black-sky-thinking/threads-tv-film-review-anniversary/)
 * [2024-09-22, 12:00:37](https://news.ycombinator.com/item?id=41616455) - [Motion (YC W20) Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
+* [2024-09-22, 08:28:04](https://news.ycombinator.com/item?id=41615563) - [Open Source Icon Sets](https://icon-sets.iconify.design/)
 * [2024-09-22, 07:55:02](https://news.ycombinator.com/item?id=41615404) - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
 * [2024-09-22, 07:46:10](https://news.ycombinator.com/item?id=41615348) - [Is this the civilization we want? (2017)](https://dynamicland.org/archive/2017/Is_this_the_civilization_we_really_want%3F)
 * [2024-09-22, 06:50:21](https://news.ycombinator.com/item?id=41615102) - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
