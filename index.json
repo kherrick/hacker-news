@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-09-22, 00:40:27",
+      "https://news.ycombinator.com/item?id=41613715"
+    ],
+    [
+      "Pulsar: Secure Steganography for Diffusion Models",
+      "https://eprint.iacr.org/2023/1758"
+    ]
+  ],
+  [
+    [
+      "2024-09-22, 00:16:25",
+      "https://news.ycombinator.com/item?id=41613628"
+    ],
+    [
+      "WP Engine is not WordPress",
+      "https://wordpress.org/news/2024/09/wp-engine/"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 23:52:32",
+      "https://news.ycombinator.com/item?id=41613513"
+    ],
+    [
+      "AI Companions Reduce Loneliness",
+      "https://arxiv.org/abs/2407.19096"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 23:47:06",
+      "https://news.ycombinator.com/item?id=41613492"
+    ],
+    [
+      "Dissociating language and thought in large language models",
+      "https://arxiv.org/abs/2301.06627"
+    ]
+  ],
+  [
+    [
       "2024-09-21, 22:06:01",
       "https://news.ycombinator.com/item?id=41612984"
     ],
     [
       "What Happened to the Japanese PC Platforms?",
       "https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 22:03:57",
-      "https://news.ycombinator.com/item?id=41612968"
-    ],
-    [
-      "Deep space radio signal reaches Earth after 8B years",
-      "https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Tetris Game Shows Promise in Reducing PTSD Symptoms",
       "https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 19:54:15",
-      "https://news.ycombinator.com/item?id=41612254"
-    ],
-    [
-      "In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions",
-      "https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-09-21, 17:26:12",
-      "https://news.ycombinator.com/item?id=41611356"
-    ],
-    [
-      "4 Exploits, 1 bug: exploiting cve-2024-20017 4 different ways",
-      "https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 15:31:33",
       "https://news.ycombinator.com/item?id=41610619"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-09-21, 07:55:41",
-      "https://news.ycombinator.com/item?id=41608350"
-    ],
-    [
-      "Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments",
-      "https://github.com/basecamp/kamal-proxy"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 06:52:22",
       "https://news.ycombinator.com/item?id=41608025"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-09-18, 12:21:55",
-      "https://news.ycombinator.com/item?id=41578825"
+      "2024-09-18, 10:17:10",
+      "https://news.ycombinator.com/item?id=41577916"
     ],
     [
-      "A Beginner's Guide to the OpenTelemetry Collector",
-      "https://betterstack.com/community/guides/observability/opentelemetry-collector/"
+      "Fable at 20: a uniquely British video game with a complex legacy",
+      "https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy"
     ]
   ],
   [
