@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-22, 04:11:47](https://news.ycombinator.com/item?id=41614567) - [Stupid Problems Require Stupid Solutions (Cloudflare Is Breaking My SVGs)](https://www.lloydatkinson.net/posts/2024/stupid-problems-require-stupid-solutions-cloudflare-is-breaking-my-svgs/)
 * [2024-09-22, 03:49:10](https://news.ycombinator.com/item?id=41614490) - [They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
 * [2024-09-22, 02:05:38](https://news.ycombinator.com/item?id=41614126) - [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
 * [2024-09-22, 01:04:58](https://news.ycombinator.com/item?id=41613821) - [Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more](https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1)
@@ -27,7 +28,6 @@
 * [2024-09-18, 13:40:22](https://news.ycombinator.com/item?id=41579601) - [Restish: CLI for interacting with REST-ish HTTP APIs with some nice features](https://rest.sh/)
 * [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
 * [2024-09-18, 07:49:34](https://news.ycombinator.com/item?id=41576956) - [Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript](https://github.com/pg-nano/pg-parser)
-* [2024-09-18, 04:41:26](https://news.ycombinator.com/item?id=41575867) - [The Miraculous Resurrection of Notre-Dame](https://www.gq.com/story/the-miraculous-resurrection-of-notre-dame)
 * [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
 * [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python + Matplotlib (2021)](https://github.com/rougier/scientific-visualization-book)
 
