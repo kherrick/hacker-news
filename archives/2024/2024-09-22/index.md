@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 13:31:26](https://news.ycombinator.com/item?id=41616945) - [When You Call a Restaurant, You Might Be Chatting with an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)
 * [2024-09-22, 12:54:22](https://news.ycombinator.com/item?id=41616706) - [Fukuppy](https://en.wikipedia.org/wiki/Fukuppy)
 * [2024-09-22, 12:51:12](https://news.ycombinator.com/item?id=41616681) - ['NYC doesn't heart you': 80% of heart attack sufferers die due to slow response](https://www.msn.com/en-us/health/other/nyc-doesn-t-heart-you-80-of-new-yorkers-who-suffer-cardiac-arrest-die-due-to-slow-fdny-response/ar-AA1qXOL8)
 * [2024-09-22, 12:46:04](https://news.ycombinator.com/item?id=41616653) - [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
