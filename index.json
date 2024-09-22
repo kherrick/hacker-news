@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-09-22, 12:46:04",
-      "https://news.ycombinator.com/item?id=41616653"
-    ],
-    [
-      "The sorry state of Java deserialization",
-      "https://www.marginalia.nu/log/a_110_java_io/"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 12:00:37",
       "https://news.ycombinator.com/item?id=41616455"
     ],
@@ -197,6 +187,16 @@
     [
       "Scaling up linear programming with PDLP",
       "https://research.google/blog/scaling-up-linear-programming-with-pdlp/"
+    ]
+  ],
+  [
+    [
+      "2024-09-21, 12:18:55",
+      "https://news.ycombinator.com/item?id=41609491"
+    ],
+    [
+      "Mount Unix system into Common Lisp image",
+      "https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org"
     ]
   ],
   [
