@@ -49,6 +49,7 @@
 * [2024-09-18, 14:55:45](https://news.ycombinator.com/item?id=41580502) - [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
 * [2024-09-18, 14:54:55](https://news.ycombinator.com/item?id=41580488) - [Amazon ordered a return to the office – but research says they'll backtrack](https://fortune.com/2024/09/18/amazon-andy-jassy-ordering-full-time-return-to-office-rto-research-backtrack/)
 * [2024-09-18, 14:44:00](https://news.ycombinator.com/item?id=41580326) - [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
+* [2024-09-18, 14:38:28](https://news.ycombinator.com/item?id=41580252) - [Ask HN: Marketplaces for Embedded/FPGA Developers](https://news.ycombinator.com/item?id=41580252)
 * [2024-09-18, 14:35:18](https://news.ycombinator.com/item?id=41580214) - [Walkie talkies explode across Lebanon a day after pager explosions](https://www.dailymail.co.uk/news/article-13864883/Lebanon-explosions-Hezbollah-communications-devices-detonate-country-pager-bomb.html)
 * [2024-09-18, 14:34:43](https://news.ycombinator.com/item?id=41580205) - [Hezbollah hand-held radios detonate across Lebanon, sources say](https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/)
 * [2024-09-18, 14:34:35](https://news.ycombinator.com/item?id=41580203) - [Ask HN: Is there any place on the internet capable of freedom of speech?](https://news.ycombinator.com/item?id=41580203)
