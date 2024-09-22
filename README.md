@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-22, 12:37:56](https://news.ycombinator.com/item?id=41616612) - [Hacker Leaks 3.3B Emails and Yes Every Single One Is Unique](https://hackerdose.com/privacy/massive-3-3-billion-emails-leaked/)
+* [2024-09-22, 12:24:54](https://news.ycombinator.com/item?id=41616559) - [Intel has officially entered the grin and bear it phase of its recovery](https://www.theregister.com/2024/09/22/intel_grin_bear_it/)
 * [2024-09-22, 12:02:33](https://news.ycombinator.com/item?id=41616463) - [Surviving Threads: Why Are People Drawn to the World's Most Harrowing Film?](https://thequietus.com/opinion-and-essays/black-sky-thinking/threads-tv-film-review-anniversary/)
 * [2024-09-22, 12:00:37](https://news.ycombinator.com/item?id=41616455) - [Motion (YC W20) Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
 * [2024-09-22, 07:55:02](https://news.ycombinator.com/item?id=41615404) - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
@@ -27,7 +27,7 @@
 * [2024-09-18, 19:09:25](https://news.ycombinator.com/item?id=41584157) - [Ask HN: Kotlin SpringBoot vs. Python Django for Min Viable Product](https://news.ycombinator.com/item?id=41584157)
 * [2024-09-18, 11:46:17](https://news.ycombinator.com/item?id=41578516) - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
-* [2024-09-18, 07:49:34](https://news.ycombinator.com/item?id=41576956) - [Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript](https://github.com/pg-nano/pg-parser)
+* [2024-09-17, 23:38:16](https://news.ycombinator.com/item?id=41574050) - [Ask HN: Help me restore the LCD displays on classic samplers so I can use them](https://news.ycombinator.com/item?id=41574050)
 * [2024-09-17, 21:29:52](https://news.ycombinator.com/item?id=41573013) - [Machine Learning Model Homology](https://win-vector.com/2024/09/17/machine-learning-model-homotopy/)
 * [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python + Matplotlib (2021)](https://github.com/rougier/scientific-visualization-book)
 

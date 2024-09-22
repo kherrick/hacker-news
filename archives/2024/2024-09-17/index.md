@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
 * [2024-09-17, 23:59:07](https://news.ycombinator.com/item?id=41574174) - [Browser-in-Browser](https://browser.rammerhead.org/)
+* [2024-09-17, 23:38:16](https://news.ycombinator.com/item?id=41574050) - [Ask HN: Help me restore the LCD displays on classic samplers so I can use them](https://news.ycombinator.com/item?id=41574050)
 * [2024-09-17, 23:09:36](https://news.ycombinator.com/item?id=41573866) - [Rustpad is an efficient and minimal open-source collaborative text editor](https://github.com/ekzhang/rustpad)
 * [2024-09-17, 22:44:12](https://news.ycombinator.com/item?id=41573666) - [Zep AI (YC W24) Is Hiring Standout AI Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/llCvskY-ai-engineer)
 * [2024-09-17, 22:26:58](https://news.ycombinator.com/item?id=41573550) - [Reports of the Death of Dental Cavities Are Greatly Exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
