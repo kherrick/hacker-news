@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-09-22, 01:04:58",
-      "https://news.ycombinator.com/item?id=41613821"
-    ],
-    [
-      "Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more",
-      "https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 00:42:33",
       "https://news.ycombinator.com/item?id=41613722"
     ],
@@ -257,6 +247,16 @@
     [
       "Ask HN: Marketplaces for Embedded/FPGA Developers",
       "https://news.ycombinator.com/item?id=41580252"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 13:40:22",
+      "https://news.ycombinator.com/item?id=41579601"
+    ],
+    [
+      "Restish: CLI for interacting with REST-ish HTTP APIs with some nice features",
+      "https://rest.sh/"
     ]
   ],
   [
