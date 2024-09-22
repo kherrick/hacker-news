@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-22, 22:12:50](https://news.ycombinator.com/item?id=41620530) - [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
 * [2024-09-22, 21:38:08](https://news.ycombinator.com/item?id=41620304) - [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 21:08:58](https://news.ycombinator.com/item?id=41620091) - [LinkedIn does not use European users' data for training its AI](https://www.techradar.com/pro/security/the-linkedin-ai-saga-shows-us-the-need-for-eu-like-privacy-regulations)
@@ -21,7 +22,6 @@
 * [2024-09-21, 19:08:50](https://news.ycombinator.com/item?id=41611965) - [Infineon's CO2 Sensor Monitors Indoor Air Quality](https://www.allaboutcircuits.com/news/infineons-co2-sensor-precisely-monitors-indoor-air-quality/)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-21, 09:41:51](https://news.ycombinator.com/item?id=41608785) - [The Eleven Laws of Showrunning [pdf]](http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf)
-* [2024-09-18, 18:33:45](https://news.ycombinator.com/item?id=41583766) - [Transparent Like Frosted Glass](https://explaining.software/archive/transparent-like-frosted-glass/)
 * [2024-09-18, 12:00:01](https://news.ycombinator.com/item?id=41578637) - [Bricked iPhone 16 Can Be Restored Wirelessly Using Another iPhone](https://www.macrumors.com/2024/09/18/iphone-16-restored-wirelessly-another-iphone/)
 * [2024-09-18, 11:46:17](https://news.ycombinator.com/item?id=41578516) - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
