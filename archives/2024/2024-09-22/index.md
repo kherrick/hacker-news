@@ -15,6 +15,7 @@
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:32:58](https://news.ycombinator.com/item?id=41618524) - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
 * [2024-09-22, 17:30:55](https://news.ycombinator.com/item?id=41618505) - [It's probably time to rethink \"Building in public\"](https://laike9m.com/blog/no-one-builds-in-public,160/)
+* [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
 * [2024-09-22, 17:04:59](https://news.ycombinator.com/item?id=41618333) - [Posting Is the Most Powerful Force in the Universe](https://www.infinitescroll.us/p/the-one-ring-of-posting)
 * [2024-09-22, 17:00:11](https://news.ycombinator.com/item?id=41618295) - [Sieve (YC W22) Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
 * [2024-09-22, 16:36:16](https://news.ycombinator.com/item?id=41618158) - [A Bay Area boy was kidnapped from a park in 1951. He's just been found alive](https://www.sfgate.com/bayarea/article/bay-area-boy-kidnapped-park-found-alive-19784249.php)
