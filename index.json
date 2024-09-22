@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-09-22, 05:21:28",
-      "https://news.ycombinator.com/item?id=41614795"
-    ],
-    [
-      "It is hard to recommend Google Cloud",
-      "https://ashishb.net/programming/google-cloud/"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 04:39:37",
       "https://news.ycombinator.com/item?id=41614663"
     ],
@@ -277,6 +267,16 @@
     [
       "Fable at 20: a uniquely British video game with a complex legacy",
       "https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 07:49:34",
+      "https://news.ycombinator.com/item?id=41576956"
+    ],
+    [
+      "Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript",
+      "https://github.com/pg-nano/pg-parser"
     ]
   ],
   [
