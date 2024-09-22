@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 14:55:13](https://news.ycombinator.com/item?id=41617508) - [The unknowns surrounding the mysterious rise of cancer in young adults](https://english.elpais.com/health/2024-09-20/the-unknowns-surrounding-the-mysterious-rise-of-cancer-in-young-adults.html)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:41:17](https://news.ycombinator.com/item?id=41617004) - [How FIFA was outplayed by Electronic Arts](https://www.economist.com/business/2024/09/19/how-fifa-was-outplayed-by-electronic-arts)
 * [2024-09-22, 13:31:26](https://news.ycombinator.com/item?id=41616945) - [When You Call a Restaurant, You Might Be Chatting with an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)
+* [2024-09-22, 13:04:18](https://news.ycombinator.com/item?id=41616763) - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
 * [2024-09-22, 12:54:22](https://news.ycombinator.com/item?id=41616706) - [Fukuppy](https://en.wikipedia.org/wiki/Fukuppy)
 * [2024-09-22, 12:51:12](https://news.ycombinator.com/item?id=41616681) - ['NYC doesn't heart you': 80% of heart attack sufferers die due to slow response](https://www.msn.com/en-us/health/other/nyc-doesn-t-heart-you-80-of-new-yorkers-who-suffer-cardiac-arrest-die-due-to-slow-fdny-response/ar-AA1qXOL8)
 * [2024-09-22, 12:46:04](https://news.ycombinator.com/item?id=41616653) - [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
