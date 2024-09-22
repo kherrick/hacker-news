@@ -19,6 +19,7 @@
 * [2024-09-18, 20:23:47](https://news.ycombinator.com/item?id=41585017) - [Show HN: Selectable – mobile-friendly Postgres client](https://getselectable.com/)
 * [2024-09-18, 19:37:28](https://news.ycombinator.com/item?id=41584486) - [LinkedIn is now using everyone's content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
 * [2024-09-18, 19:11:08](https://news.ycombinator.com/item?id=41584180) - [IBM is quietly axing jobs, source says](https://www.theregister.com/2024/09/18/ibm_job_cuts/)
+* [2024-09-18, 19:09:25](https://news.ycombinator.com/item?id=41584157) - [Ask HN: Kotlin SpringBoot vs. Python Django for Min Viable Product](https://news.ycombinator.com/item?id=41584157)
 * [2024-09-18, 19:08:19](https://news.ycombinator.com/item?id=41584141) - [Infinite zoom art turned into a game so fun](https://venturebeat.com/games/sarah-andersen-comics-launches-sarahs-scribbles-hidden-art-game/)
 * [2024-09-18, 18:41:46](https://news.ycombinator.com/item?id=41583847) - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 * [2024-09-18, 18:31:12](https://news.ycombinator.com/item?id=41583725) - [Timothy Snyder on How the Collapse of the Soviet Union Took America by Surprise](https://lithub.com/timothy-snyder-on-how-the-collapse-of-the-soviet-union-took-america-by-surprise/)
