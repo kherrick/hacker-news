@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 12:54:22](https://news.ycombinator.com/item?id=41616706) - [Fukuppy](https://en.wikipedia.org/wiki/Fukuppy)
+* [2024-09-22, 12:51:12](https://news.ycombinator.com/item?id=41616681) - ['NYC doesn't heart you': 80% of heart attack sufferers die due to slow response](https://www.msn.com/en-us/health/other/nyc-doesn-t-heart-you-80-of-new-yorkers-who-suffer-cardiac-arrest-die-due-to-slow-fdny-response/ar-AA1qXOL8)
+* [2024-09-22, 12:46:04](https://news.ycombinator.com/item?id=41616653) - [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
 * [2024-09-22, 12:37:56](https://news.ycombinator.com/item?id=41616612) - [Hacker Leaks 3.3B Emails and Yes Every Single One Is Unique](https://hackerdose.com/privacy/massive-3-3-billion-emails-leaked/)
 * [2024-09-22, 12:24:54](https://news.ycombinator.com/item?id=41616559) - [Intel has officially entered the grin and bear it phase of its recovery](https://www.theregister.com/2024/09/22/intel_grin_bear_it/)
 * [2024-09-22, 12:02:33](https://news.ycombinator.com/item?id=41616463) - [Surviving Threads: Why Are People Drawn to the World's Most Harrowing Film?](https://thequietus.com/opinion-and-essays/black-sky-thinking/threads-tv-film-review-anniversary/)
