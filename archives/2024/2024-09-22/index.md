@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 06:04:30](https://news.ycombinator.com/item?id=41614926) - [Pay once. Use forever. Find the best purchase alternatives to subscription](https://payoncealternatives.com)
 * [2024-09-22, 05:21:28](https://news.ycombinator.com/item?id=41614795) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
 * [2024-09-22, 04:11:47](https://news.ycombinator.com/item?id=41614567) - [Stupid Problems Require Stupid Solutions (Cloudflare Is Breaking My SVGs)](https://www.lloydatkinson.net/posts/2024/stupid-problems-require-stupid-solutions-cloudflare-is-breaking-my-svgs/)
 * [2024-09-22, 03:49:10](https://news.ycombinator.com/item?id=41614490) - [Jeff Geerling – They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
