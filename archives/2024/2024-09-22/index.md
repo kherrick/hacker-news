@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 17:32:58](https://news.ycombinator.com/item?id=41618524) - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
+* [2024-09-22, 17:04:59](https://news.ycombinator.com/item?id=41618333) - [Posting Is the Most Powerful Force in the Universe](https://www.infinitescroll.us/p/the-one-ring-of-posting)
 * [2024-09-22, 17:00:11](https://news.ycombinator.com/item?id=41618295) - [Sieve (YC W22) Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
 * [2024-09-22, 16:36:16](https://news.ycombinator.com/item?id=41618158) - [A Bay Area boy was kidnapped from a park in 1951. He's just been found alive](https://www.sfgate.com/bayarea/article/bay-area-boy-kidnapped-park-found-alive-19784249.php)
 * [2024-09-22, 16:10:30](https://news.ycombinator.com/item?id=41617996) - [Kelsey Hightower: If governments rely on FOSS, they should fund it](https://www.theregister.com/2024/09/19/kelsey_hightower_civo/)

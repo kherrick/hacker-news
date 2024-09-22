@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-22, 17:32:58](https://news.ycombinator.com/item?id=41618524) - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
+* [2024-09-22, 17:04:59](https://news.ycombinator.com/item?id=41618333) - [Posting Is the Most Powerful Force in the Universe](https://www.infinitescroll.us/p/the-one-ring-of-posting)
 * [2024-09-22, 17:00:11](https://news.ycombinator.com/item?id=41618295) - [Sieve (YC W22) Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
 * [2024-09-22, 15:21:17](https://news.ycombinator.com/item?id=41617663) - ['I Don't Want to Die.' He needed mental health care. He found a ghost network](https://www.npr.org/sections/shots-health-news/2024/09/21/nx-s1-5120543/mental-health-care-parity-insurance-ghost-network)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
@@ -19,9 +21,7 @@
 * [2024-09-21, 18:20:26](https://news.ycombinator.com/item?id=41611681) - [Emacs Speaks Statistics](https://ess.r-project.org/index.php?Section=home)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch (2022)](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
-* [2024-09-21, 08:30:22](https://news.ycombinator.com/item?id=41608489) - [Open-Source CLI tool to inspect databases fast](https://github.com/PeepDB-dev/peepdb)
 * [2024-09-18, 18:33:45](https://news.ycombinator.com/item?id=41583766) - [Transparent Like Frosted Glass](https://explaining.software/archive/transparent-like-frosted-glass/)
-* [2024-09-18, 14:38:28](https://news.ycombinator.com/item?id=41580252) - [Ask HN: Marketplaces for Embedded/FPGA Developers](https://news.ycombinator.com/item?id=41580252)
 * [2024-09-18, 13:40:22](https://news.ycombinator.com/item?id=41579601) - [Restish: CLI for interacting with REST-ish HTTP APIs with some nice features](https://rest.sh/)
 * [2024-09-18, 11:46:17](https://news.ycombinator.com/item?id=41578516) - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
