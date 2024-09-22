@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 18:42:56](https://news.ycombinator.com/item?id=41619047) - [Love of cargo bikes is changing how we deliver goods in our cities](https://www.euronews.com/next/2024/09/22/europes-love-affair-with-cargo-bikes-is-changing-how-we-deliver-goods-in-our-cities)
+* [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:32:58](https://news.ycombinator.com/item?id=41618524) - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
 * [2024-09-22, 17:30:55](https://news.ycombinator.com/item?id=41618505) - [It's probably time to rethink \"Building in public\"](https://laike9m.com/blog/no-one-builds-in-public,160/)
 * [2024-09-22, 17:04:59](https://news.ycombinator.com/item?id=41618333) - [Posting Is the Most Powerful Force in the Universe](https://www.infinitescroll.us/p/the-one-ring-of-posting)

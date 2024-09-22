@@ -12,6 +12,7 @@
 * [2024-09-17, 22:14:21](https://news.ycombinator.com/item?id=41573454) - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
 * [2024-09-17, 21:53:42](https://news.ycombinator.com/item?id=41573256) - [A Word about Systemd](https://skarnet.org/software/systemd.html)
 * [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
+* [2024-09-17, 21:35:44](https://news.ycombinator.com/item?id=41573083) - [Our digital lives need data centers. What goes on inside them?](https://www.washingtonpost.com/dc-md-va/interactive/2024/data-centers-tour-northern-virginia/)
 * [2024-09-17, 21:31:49](https://news.ycombinator.com/item?id=41573034) - [Entire Independent Board of Directors of 23andMe Resigns](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
 * [2024-09-17, 21:29:52](https://news.ycombinator.com/item?id=41573013) - [Surely That Can't Change Sign Back and Forth (Machine Learning Model Homology)](https://win-vector.com/2024/09/17/machine-learning-model-homotopy/)
 * [2024-09-17, 21:18:07](https://news.ycombinator.com/item?id=41572851) - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
