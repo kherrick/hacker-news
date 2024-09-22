@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-21, 22:27:20](https://news.ycombinator.com/item?id=41613104) - [Executions of the conceivably innocent are no better than human sacrifice](https://www.latimes.com/opinion/story/2024-09-21/executions-human-sacrifice)
 * [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What Happened to the Japanese PC Platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 * [2024-09-21, 22:03:57](https://news.ycombinator.com/item?id=41612968) - [Deep space radio signal reaches Earth after 8B years](https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/)
 * [2024-09-21, 21:04:52](https://news.ycombinator.com/item?id=41612669) - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
@@ -26,6 +25,7 @@
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch (2022)](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 07:55:41](https://news.ycombinator.com/item?id=41608350) - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
 * [2024-09-21, 06:52:22](https://news.ycombinator.com/item?id=41608025) - [FCC wants all phones unlocked in sixty days, AT&T and T-Mobile aren't so keen](https://www.androidauthority.com/fcc-60-day-unlock-tmo-3483642/)
+* [2024-09-18, 12:21:55](https://news.ycombinator.com/item?id=41578825) - [A Beginner's Guide to the OpenTelemetry Collector](https://betterstack.com/community/guides/observability/opentelemetry-collector/)
 * [2024-09-18, 07:49:34](https://news.ycombinator.com/item?id=41576956) - [Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript](https://github.com/pg-nano/pg-parser)
 * [2024-09-18, 04:41:26](https://news.ycombinator.com/item?id=41575867) - [The Miraculous Resurrection of Notre-Dame](https://www.gq.com/story/the-miraculous-resurrection-of-notre-dame)
 * [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
