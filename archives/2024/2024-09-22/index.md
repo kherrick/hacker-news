@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 15:21:53](https://news.ycombinator.com/item?id=41617669) - [Ask HN: How do I find my co-founder?](https://news.ycombinator.com/item?id=41617669)
+* [2024-09-22, 15:21:17](https://news.ycombinator.com/item?id=41617663) - ['I Don't Want to Die.' He needed mental health care. He found a ghost network](https://www.npr.org/sections/shots-health-news/2024/09/21/nx-s1-5120543/mental-health-care-parity-insurance-ghost-network)
 * [2024-09-22, 14:55:13](https://news.ycombinator.com/item?id=41617508) - [The unknowns surrounding the mysterious rise of cancer in young adults](https://english.elpais.com/health/2024-09-20/the-unknowns-surrounding-the-mysterious-rise-of-cancer-in-young-adults.html)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:41:17](https://news.ycombinator.com/item?id=41617004) - [How FIFA was outplayed by Electronic Arts](https://www.economist.com/business/2024/09/19/how-fifa-was-outplayed-by-electronic-arts)

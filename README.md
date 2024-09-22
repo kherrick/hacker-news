@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-22, 15:21:53](https://news.ycombinator.com/item?id=41617669) - [Ask HN: How do I find my co-founder?](https://news.ycombinator.com/item?id=41617669)
+* [2024-09-22, 15:21:17](https://news.ycombinator.com/item?id=41617663) - ['I Don't Want to Die.' He needed mental health care. He found a ghost network](https://www.npr.org/sections/shots-health-news/2024/09/21/nx-s1-5120543/mental-health-care-parity-insurance-ghost-network)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:04:18](https://news.ycombinator.com/item?id=41616763) - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
 * [2024-09-22, 12:00:37](https://news.ycombinator.com/item?id=41616455) - [Motion (YC W20) Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
@@ -16,9 +18,7 @@
 * [2024-09-21, 19:08:50](https://news.ycombinator.com/item?id=41611965) - [Infineon's CO2 Sensor Monitors Indoor Air Quality](https://www.allaboutcircuits.com/news/infineons-co2-sensor-precisely-monitors-indoor-air-quality/)
 * [2024-09-21, 19:06:31](https://news.ycombinator.com/item?id=41611948) - [Logging all C++ destructors, poor mans run-time tracing](https://raymii.org/s/software/Logging_all_Cpp_destructors_poor_mans_run-time_tracing.html)
 * [2024-09-21, 18:20:26](https://news.ycombinator.com/item?id=41611681) - [Emacs Speaks Statistics](https://ess.r-project.org/index.php?Section=home)
-* [2024-09-21, 18:09:05](https://news.ycombinator.com/item?id=41611613) - [LHC experiments at CERN observe quantum entanglement at the highest energy yet](https://home.cern/news/press-release/physics/lhc-experiments-cern-observe-quantum-entanglement-highest-energy-yet)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
-* [2024-09-21, 12:18:55](https://news.ycombinator.com/item?id=41609491) - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch (2022)](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 08:30:22](https://news.ycombinator.com/item?id=41608489) - [Open-Source CLI tool to inspect databases fast](https://github.com/PeepDB-dev/peepdb)
 * [2024-09-18, 14:38:28](https://news.ycombinator.com/item?id=41580252) - [Ask HN: Marketplaces for Embedded/FPGA Developers](https://news.ycombinator.com/item?id=41580252)
