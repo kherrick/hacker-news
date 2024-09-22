@@ -17,6 +17,7 @@
 * [2024-09-22, 13:04:18](https://news.ycombinator.com/item?id=41616763) - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
 * [2024-09-22, 04:39:37](https://news.ycombinator.com/item?id=41614663) - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 * [2024-09-22, 00:42:33](https://news.ycombinator.com/item?id=41613722) - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
+* [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 19:20:34](https://news.ycombinator.com/item?id=41612049) - [What Is a Particle? (2020)](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 * [2024-09-21, 19:08:50](https://news.ycombinator.com/item?id=41611965) - [Infineon's CO2 Sensor Monitors Indoor Air Quality](https://www.allaboutcircuits.com/news/infineons-co2-sensor-precisely-monitors-indoor-air-quality/)
@@ -29,7 +30,6 @@
 * [2024-09-18, 04:39:48](https://news.ycombinator.com/item?id=41575856) - [Trove of dinosaur fossils found high in B.C. mountains](https://www.cbc.ca/news/canada/british-columbia/b-c-researchers-fossil-trove-1.7325926)
 * [2024-09-17, 21:29:52](https://news.ycombinator.com/item?id=41573013) - [Machine Learning Model Homotopy](https://win-vector.com/2024/09/17/machine-learning-model-homotopy/)
 * [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python + Matplotlib (2021)](https://github.com/rougier/scientific-visualization-book)
-* [2024-09-17, 20:09:15](https://news.ycombinator.com/item?id=41572137) - [Mozilla exits the Fediverse and will shutter its Mastodon server in December](https://techcrunch.com/2024/09/17/mozilla-exits-the-fediverse-and-will-shutter-its-mastodon-server-in-december/)
 
 ## [Archives](archives/index.md)
 
