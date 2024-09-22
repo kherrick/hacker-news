@@ -2,8 +2,8 @@
 
 * [2024-09-22, 19:54:27](https://news.ycombinator.com/item?id=41619526) - [Ask HN: Is Nextcloud a Great Alternative to Dropbox/Google Drive for Startups?](https://news.ycombinator.com/item?id=41619526)
 * [2024-09-22, 19:00:56](https://news.ycombinator.com/item?id=41619131) - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
+* [2024-09-22, 18:27:55](https://news.ycombinator.com/item?id=41618926) - [Apple adds feature that tries to \"autocorrect\" file extensions, and fails](https://forum.sublimetext.com/t/sublime-text-started-adding-a-s-to-new-files-very-annoying/73628)
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
-* [2024-09-22, 17:32:58](https://news.ycombinator.com/item?id=41618524) - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
 * [2024-09-22, 17:30:55](https://news.ycombinator.com/item?id=41618505) - [It's probably time to rethink \"Building in public\"](https://laike9m.com/blog/no-one-builds-in-public,160/)
 * [2024-09-22, 17:00:11](https://news.ycombinator.com/item?id=41618295) - [Sieve (YC W22) Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
