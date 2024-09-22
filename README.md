@@ -10,7 +10,6 @@
 * [2024-09-22, 03:49:10](https://news.ycombinator.com/item?id=41614490) - [They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
 * [2024-09-22, 02:05:38](https://news.ycombinator.com/item?id=41614126) - [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
 * [2024-09-22, 00:42:33](https://news.ycombinator.com/item?id=41613722) - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
-* [2024-09-22, 00:40:27](https://news.ycombinator.com/item?id=41613715) - [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
 * [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 * [2024-09-21, 21:04:27](https://news.ycombinator.com/item?id=41612665) - [Flow Computing aims to boost CPUs with ‘parallel processing units’](https://spectrum.ieee.org/parallel-processing-unit)
 * [2024-09-21, 21:00:41](https://news.ycombinator.com/item?id=41612641) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
@@ -29,6 +28,7 @@
 * [2024-09-18, 18:31:12](https://news.ycombinator.com/item?id=41583725) - [Timothy Snyder on How the Collapse of the Soviet Union Took America by Surprise](https://lithub.com/timothy-snyder-on-how-the-collapse-of-the-soviet-union-took-america-by-surprise/)
 * [2024-09-18, 13:40:22](https://news.ycombinator.com/item?id=41579601) - [Restish: CLI for interacting with REST-ish HTTP APIs with some nice features](https://rest.sh/)
 * [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
+* [2024-09-17, 21:29:52](https://news.ycombinator.com/item?id=41573013) - [Surely That Can't Change Sign Back and Forth (Machine Learning Model Homology)](https://win-vector.com/2024/09/17/machine-learning-model-homotopy/)
 * [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python + Matplotlib (2021)](https://github.com/rougier/scientific-visualization-book)
 
 ## [Archives](archives/index.md)
