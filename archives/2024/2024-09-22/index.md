@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
 * [2024-09-22, 17:32:58](https://news.ycombinator.com/item?id=41618524) - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
+* [2024-09-22, 17:30:55](https://news.ycombinator.com/item?id=41618505) - [It's probably time to rethink \"Building in public\"](https://laike9m.com/blog/no-one-builds-in-public,160/)
 * [2024-09-22, 17:04:59](https://news.ycombinator.com/item?id=41618333) - [Posting Is the Most Powerful Force in the Universe](https://www.infinitescroll.us/p/the-one-ring-of-posting)
 * [2024-09-22, 17:00:11](https://news.ycombinator.com/item?id=41618295) - [Sieve (YC W22) Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
 * [2024-09-22, 16:36:16](https://news.ycombinator.com/item?id=41618158) - [A Bay Area boy was kidnapped from a park in 1951. He's just been found alive](https://www.sfgate.com/bayarea/article/bay-area-boy-kidnapped-park-found-alive-19784249.php)
@@ -14,6 +15,7 @@
 * [2024-09-22, 15:08:25](https://news.ycombinator.com/item?id=41617588) - [Sci-Fi: Every Idea in One CSV](https://gist.github.com/FL33TW00D/2cf10abfb468bddcb585d3c282d0b133)
 * [2024-09-22, 14:55:13](https://news.ycombinator.com/item?id=41617508) - [The unknowns surrounding the mysterious rise of cancer in young adults](https://english.elpais.com/health/2024-09-20/the-unknowns-surrounding-the-mysterious-rise-of-cancer-in-young-adults.html)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
+* [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 * [2024-09-22, 13:41:17](https://news.ycombinator.com/item?id=41617004) - [How FIFA was outplayed by Electronic Arts](https://www.economist.com/business/2024/09/19/how-fifa-was-outplayed-by-electronic-arts)
 * [2024-09-22, 13:31:26](https://news.ycombinator.com/item?id=41616945) - [When You Call a Restaurant, You Might Be Chatting with an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)
 * [2024-09-22, 13:04:18](https://news.ycombinator.com/item?id=41616763) - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
