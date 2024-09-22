@@ -70,6 +70,7 @@
 * [2024-09-18, 12:42:17](https://news.ycombinator.com/item?id=41579011) - [Crypto bros wrested Flappy Bird from its creator](https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/)
 * [2024-09-18, 12:21:55](https://news.ycombinator.com/item?id=41578825) - [A Beginner's Guide to the OpenTelemetry Collector](https://betterstack.com/community/guides/observability/opentelemetry-collector/)
 * [2024-09-18, 12:13:18](https://news.ycombinator.com/item?id=41578752) - [PeerTube 6.3](https://joinpeertube.org/news/release-6.3)
+* [2024-09-18, 12:00:01](https://news.ycombinator.com/item?id=41578637) - [Bricked iPhone 16 Can Be Restored Wirelessly Using Another iPhone](https://www.macrumors.com/2024/09/18/iphone-16-restored-wirelessly-another-iphone/)
 * [2024-09-18, 11:55:54](https://news.ycombinator.com/item?id=41578599) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 * [2024-09-18, 11:50:20](https://news.ycombinator.com/item?id=41578544) - [Glass Antenna Turns Windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 * [2024-09-18, 11:46:17](https://news.ycombinator.com/item?id=41578516) - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
