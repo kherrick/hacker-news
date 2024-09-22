@@ -4,6 +4,7 @@
 * [2024-09-22, 00:42:33](https://news.ycombinator.com/item?id=41613722) - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
 * [2024-09-22, 00:40:27](https://news.ycombinator.com/item?id=41613715) - [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
 * [2024-09-22, 00:16:25](https://news.ycombinator.com/item?id=41613628) - [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
+* [2024-09-21, 23:47:06](https://news.ycombinator.com/item?id=41613492) - [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
 * [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 * [2024-09-21, 21:04:52](https://news.ycombinator.com/item?id=41612669) - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 21:04:27](https://news.ycombinator.com/item?id=41612665) - [Flow Computing aims to boost CPUs with ‘parallel processing units’](https://spectrum.ieee.org/parallel-processing-unit)
@@ -27,7 +28,6 @@
 * [2024-09-18, 13:40:22](https://news.ycombinator.com/item?id=41579601) - [Restish: CLI for interacting with REST-ish HTTP APIs with some nice features](https://rest.sh/)
 * [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
 * [2024-09-18, 07:49:34](https://news.ycombinator.com/item?id=41576956) - [Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript](https://github.com/pg-nano/pg-parser)
-* [2024-09-18, 04:41:26](https://news.ycombinator.com/item?id=41575867) - [The Miraculous Resurrection of Notre-Dame](https://www.gq.com/story/the-miraculous-resurrection-of-notre-dame)
 * [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
 * [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python and Matplotlib, by Nicolas Rougier](https://github.com/rougier/scientific-visualization-book)
 
