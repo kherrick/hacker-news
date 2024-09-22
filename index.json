@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-09-22, 14:39:21",
-      "https://news.ycombinator.com/item?id=41617400"
-    ],
-    [
-      "Communicating with Interactive Articles (2020)",
-      "https://distill.pub/2020/communicating-with-interactive-articles/"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 13:43:21",
       "https://news.ycombinator.com/item?id=41617021"
     ],
@@ -127,6 +117,16 @@
     [
       "Flappy Bird for Android, only C, under 100KB",
       "https://github.com/VadimBoev/FlappyBird"
+    ]
+  ],
+  [
+    [
+      "2024-09-22, 02:05:38",
+      "https://news.ycombinator.com/item?id=41614126"
+    ],
+    [
+      "Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o",
+      "https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown"
     ]
   ],
   [
