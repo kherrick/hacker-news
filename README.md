@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-22, 01:04:58](https://news.ycombinator.com/item?id=41613821) - [Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more](https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1)
+* [2024-09-22, 00:42:33](https://news.ycombinator.com/item?id=41613722) - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
 * [2024-09-22, 00:40:27](https://news.ycombinator.com/item?id=41613715) - [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
 * [2024-09-22, 00:16:25](https://news.ycombinator.com/item?id=41613628) - [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
-* [2024-09-21, 23:47:06](https://news.ycombinator.com/item?id=41613492) - [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
 * [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 * [2024-09-21, 21:04:52](https://news.ycombinator.com/item?id=41612669) - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 21:04:27](https://news.ycombinator.com/item?id=41612665) - [Flow Computing aims to boost CPUs with ‘parallel processing units’](https://spectrum.ieee.org/parallel-processing-unit)
