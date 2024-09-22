@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-22, 19:54:27](https://news.ycombinator.com/item?id=41619526) - [Ask HN: Is Nextcloud a Great Alternative to Dropbox/Google Drive for Startups?](https://news.ycombinator.com/item?id=41619526)
 * [2024-09-22, 19:00:56](https://news.ycombinator.com/item?id=41619131) - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:32:58](https://news.ycombinator.com/item?id=41618524) - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
@@ -10,7 +11,6 @@
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 * [2024-09-22, 13:18:43](https://news.ycombinator.com/item?id=41616860) - [Compiling to Assembly from Scratch [free to read online]](https://keleshev.com/compiling-to-assembly-from-scratch/#table-of-contents)
 * [2024-09-22, 13:04:18](https://news.ycombinator.com/item?id=41616763) - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
-* [2024-09-22, 11:20:46](https://news.ycombinator.com/item?id=41616293) - [Incredibly Ambitious SMB 3 Hack Released After 12 Years](https://marioadventure3.com/)
 * [2024-09-22, 06:50:21](https://news.ycombinator.com/item?id=41615102) - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
 * [2024-09-22, 04:39:37](https://news.ycombinator.com/item?id=41614663) - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 * [2024-09-22, 02:05:38](https://news.ycombinator.com/item?id=41614126) - [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)

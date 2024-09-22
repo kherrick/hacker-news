@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 19:54:27](https://news.ycombinator.com/item?id=41619526) - [Ask HN: Is Nextcloud a Great Alternative to Dropbox/Google Drive for Startups?](https://news.ycombinator.com/item?id=41619526)
 * [2024-09-22, 19:00:56](https://news.ycombinator.com/item?id=41619131) - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
 * [2024-09-22, 18:42:56](https://news.ycombinator.com/item?id=41619047) - [Love of cargo bikes is changing how we deliver goods in our cities](https://www.euronews.com/next/2024/09/22/europes-love-affair-with-cargo-bikes-is-changing-how-we-deliver-goods-in-our-cities)
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
