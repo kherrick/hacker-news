@@ -23,7 +23,7 @@
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-21, 09:41:51](https://news.ycombinator.com/item?id=41608785) - [The Eleven Laws of Showrunning [pdf]](http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch (2022)](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
-* [2024-09-18, 13:40:22](https://news.ycombinator.com/item?id=41579601) - [Restish: CLI for interacting with REST-ish HTTP APIs with some nice features](https://rest.sh/)
+* [2024-09-18, 18:33:45](https://news.ycombinator.com/item?id=41583766) - [Transparent Like Frosted Glass](https://explaining.software/archive/transparent-like-frosted-glass/)
 * [2024-09-18, 11:46:17](https://news.ycombinator.com/item?id=41578516) - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
 * [2024-09-18, 07:49:34](https://news.ycombinator.com/item?id=41576956) - [Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript](https://github.com/pg-nano/pg-parser)
