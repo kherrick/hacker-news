@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-22, 12:00:37",
+      "https://news.ycombinator.com/item?id=41616455"
+    ],
+    [
+      "Motion (YC W20) Is Hiring a Quant Algo Developer",
+      "https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2024-09-22, 07:55:02",
+      "https://news.ycombinator.com/item?id=41615404"
+    ],
+    [
+      "How streaming LLM APIs work",
+      "https://til.simonwillison.net/llms/streaming-llm-apis"
+    ]
+  ],
+  [
+    [
       "2024-09-22, 06:50:21",
       "https://news.ycombinator.com/item?id=41615102"
     ],
@@ -87,16 +107,6 @@
     [
       "Flow Computing aims to boost CPUs with ‘parallel processing units’",
       "https://spectrum.ieee.org/parallel-processing-unit"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 21:00:41",
-      "https://news.ycombinator.com/item?id=41612641"
-    ],
-    [
-      "Substack (YC W18) Is Hiring Machine Learning Engineers",
-      "https://grnh.se/d034f1ba5us"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2024-09-18, 13:40:22",
-      "https://news.ycombinator.com/item?id=41579601"
+      "2024-09-18, 19:09:25",
+      "https://news.ycombinator.com/item?id=41584157"
     ],
     [
-      "Restish: CLI for interacting with REST-ish HTTP APIs with some nice features",
-      "https://rest.sh/"
+      "Ask HN: Kotlin SpringBoot vs. Python Django for Min Viable Product",
+      "https://news.ycombinator.com/item?id=41584157"
     ]
   ],
   [
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2024-09-17, 21:47:05",
-      "https://news.ycombinator.com/item?id=41573198"
-    ],
-    [
-      "Scientists find new blood group after 50-year mystery",
-      "https://www.bbc.com/news/articles/cgmgg493ek8o"
-    ]
-  ],
-  [
-    [
       "2024-09-17, 21:29:52",
       "https://news.ycombinator.com/item?id=41573013"
     ],
     [
-      "Surely That Can't Change Sign Back and Forth (Machine Learning Model Homology)",
+      "Machine Learning Model Homology",
       "https://win-vector.com/2024/09/17/machine-learning-model-homotopy/"
     ]
   ],
