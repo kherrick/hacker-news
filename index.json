@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-22, 01:04:58",
+      "https://news.ycombinator.com/item?id=41613821"
+    ],
+    [
+      "Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more",
+      "https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1"
+    ]
+  ],
+  [
+    [
       "2024-09-22, 00:40:27",
       "https://news.ycombinator.com/item?id=41613715"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2024-09-21, 23:52:32",
-      "https://news.ycombinator.com/item?id=41613513"
-    ],
-    [
-      "AI Companions Reduce Loneliness",
-      "https://arxiv.org/abs/2407.19096"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 23:47:06",
       "https://news.ycombinator.com/item?id=41613492"
     ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41612984"
     ],
     [
-      "What Happened to the Japanese PC Platforms?",
+      "What happened to the Japanese PC platforms?",
       "https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41612665"
     ],
     [
-      "100x Faster CPUs from Finland's New Startup",
+      "Flow Computing aims to boost CPUs with ‘parallel processing units’",
       "https://spectrum.ieee.org/parallel-processing-unit"
     ]
   ],
@@ -81,21 +81,11 @@
   ],
   [
     [
-      "2024-09-21, 20:47:56",
-      "https://news.ycombinator.com/item?id=41612578"
-    ],
-    [
-      "The Age of Software Artisans",
-      "https://jairojair.com/articles/the-age-of-software-artisans/"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 20:09:54",
       "https://news.ycombinator.com/item?id=41612367"
     ],
     [
-      "Tetris Game Shows Promise in Reducing PTSD Symptoms",
+      "Tetris shows promise in reducing PTSD symptoms",
       "https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "FCC wants all phones unlocked in sixty days, AT&T and T-Mobile aren't so keen",
       "https://www.androidauthority.com/fcc-60-day-unlock-tmo-3483642/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 13:40:22",
+      "https://news.ycombinator.com/item?id=41579601"
+    ],
+    [
+      "Restish: CLI for interacting with REST-ish HTTP APIs with some nice features",
+      "https://rest.sh/"
     ]
   ],
   [
