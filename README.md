@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-22, 07:46:10](https://news.ycombinator.com/item?id=41615348) - [Is this the civilization we want? (2017)](https://dynamicland.org/archive/2017/Is_this_the_civilization_we_really_want%3F)
 * [2024-09-22, 06:50:21](https://news.ycombinator.com/item?id=41615102) - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
 * [2024-09-22, 06:12:45](https://news.ycombinator.com/item?id=41614949) - [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
 * [2024-09-22, 04:39:37](https://news.ycombinator.com/item?id=41614663) - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
@@ -28,6 +27,7 @@
 * [2024-09-18, 13:40:22](https://news.ycombinator.com/item?id=41579601) - [Restish: CLI for interacting with REST-ish HTTP APIs with some nice features](https://rest.sh/)
 * [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
 * [2024-09-18, 07:49:34](https://news.ycombinator.com/item?id=41576956) - [Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript](https://github.com/pg-nano/pg-parser)
+* [2024-09-17, 21:47:05](https://news.ycombinator.com/item?id=41573198) - [Scientists find new blood group after 50-year mystery](https://www.bbc.com/news/articles/cgmgg493ek8o)
 * [2024-09-17, 21:29:52](https://news.ycombinator.com/item?id=41573013) - [Surely That Can't Change Sign Back and Forth (Machine Learning Model Homology)](https://win-vector.com/2024/09/17/machine-learning-model-homotopy/)
 * [2024-09-17, 20:35:54](https://news.ycombinator.com/item?id=41572437) - [Scientific Visualization: Python + Matplotlib (2021)](https://github.com/rougier/scientific-visualization-book)
 
