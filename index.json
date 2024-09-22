@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-09-22, 16:36:16",
-      "https://news.ycombinator.com/item?id=41618158"
-    ],
-    [
-      "A Bay Area boy was kidnapped from a park in 1951. He's just been found alive",
-      "https://www.sfgate.com/bayarea/article/bay-area-boy-kidnapped-park-found-alive-19784249.php"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 16:10:30",
       "https://news.ycombinator.com/item?id=41617996"
     ],
@@ -227,6 +217,16 @@
     [
       "Transparent Like Frosted Glass",
       "https://explaining.software/archive/transparent-like-frosted-glass/"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 13:40:22",
+      "https://news.ycombinator.com/item?id=41579601"
+    ],
+    [
+      "Restish: CLI for interacting with REST-ish HTTP APIs with some nice features",
+      "https://rest.sh/"
     ]
   ],
   [
