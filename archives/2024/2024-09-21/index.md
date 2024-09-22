@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 23:52:32](https://news.ycombinator.com/item?id=41613513) - [AI Companions Reduce Loneliness](https://arxiv.org/abs/2407.19096)
+* [2024-09-21, 23:47:06](https://news.ycombinator.com/item?id=41613492) - [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
 * [2024-09-21, 22:27:20](https://news.ycombinator.com/item?id=41613104) - [Executions of the conceivably innocent are no better than human sacrifice](https://www.latimes.com/opinion/story/2024-09-21/executions-human-sacrifice)
 * [2024-09-21, 22:14:27](https://news.ycombinator.com/item?id=41613025) - [Why I'm Leaving Meta](https://medium.com/@peravi8126/why-im-leaving-meta-c3ab43491204)
 * [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What Happened to the Japanese PC Platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
