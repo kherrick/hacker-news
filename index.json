@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-22, 14:43:02",
+      "https://news.ycombinator.com/item?id=41617431"
+    ],
+    [
+      "Hy 1.0.0, the Lisp dialect for Python, has been released",
+      "https://github.com/hylang/hy/discussions/2608"
+    ]
+  ],
+  [
+    [
       "2024-09-22, 12:46:04",
       "https://news.ycombinator.com/item?id=41616653"
     ],
     [
       "The sorry state of Java deserialization",
       "https://www.marginalia.nu/log/a_110_java_io/"
+    ]
+  ],
+  [
+    [
+      "2024-09-22, 12:02:33",
+      "https://news.ycombinator.com/item?id=41616463"
+    ],
+    [
+      "Surviving Threads: Why Are People Drawn to the World's Most Harrowing Film?",
+      "https://thequietus.com/opinion-and-essays/black-sky-thinking/threads-tv-film-review-anniversary/"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-09-22, 08:28:04",
-      "https://news.ycombinator.com/item?id=41615563"
+      "2024-09-22, 11:20:46",
+      "https://news.ycombinator.com/item?id=41616293"
     ],
     [
-      "Open Source Icon Sets",
-      "https://icon-sets.iconify.design/"
+      "Incredibly Ambitious SMB 3 Hack Released After 12 Years",
+      "https://marioadventure3.com/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "What happened to the Japanese PC platforms?",
       "https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 21:04:27",
-      "https://news.ycombinator.com/item?id=41612665"
-    ],
-    [
-      "Flow Computing aims to boost CPUs with ‘parallel processing units’",
-      "https://spectrum.ieee.org/parallel-processing-unit"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-09-21, 12:18:55",
-      "https://news.ycombinator.com/item?id=41609491"
-    ],
-    [
-      "Mount Unix system into Common Lisp image",
-      "https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 09:08:20",
       "https://news.ycombinator.com/item?id=41608648"
     ],
@@ -217,16 +217,6 @@
     [
       "Open-Source CLI tool to inspect databases fast",
       "https://github.com/PeepDB-dev/peepdb"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 02:44:26",
-      "https://news.ycombinator.com/item?id=41587971"
-    ],
-    [
-      "Development from the outside in: Can Irvine become a central city?",
-      "https://scottsumner.substack.com/p/development-from-the-outside-in"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: Parse your Postgres queries into a fully-typed AST in TypeScript",
       "https://github.com/pg-nano/pg-parser"
+    ]
+  ],
+  [
+    [
+      "2024-09-18, 04:39:48",
+      "https://news.ycombinator.com/item?id=41575856"
+    ],
+    [
+      "Trove of dinosaur fossils found high in B.C. mountains",
+      "https://www.cbc.ca/news/canada/british-columbia/b-c-researchers-fossil-trove-1.7325926"
     ]
   ],
   [
