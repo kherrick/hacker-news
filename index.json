@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-09-22, 18:42:56",
-      "https://news.ycombinator.com/item?id=41619047"
-    ],
-    [
-      "Love of cargo bikes is changing how we deliver goods in our cities",
-      "https://www.euronews.com/next/2024/09/22/europes-love-affair-with-cargo-bikes-is-changing-how-we-deliver-goods-in-our-cities"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 17:56:20",
       "https://news.ycombinator.com/item?id=41618685"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41617431"
     ],
     [
-      "Hy 1.0.0, the Lisp dialect for Python, has been released",
+      "Hy 1.0 – Lisp dialect for Python",
       "https://github.com/hylang/hy/discussions/2608"
     ]
   ],
@@ -87,6 +77,16 @@
     [
       "Rawdrawandroid – Build Android apps without any Java, in C and Make",
       "https://github.com/cnlohr/rawdrawandroid"
+    ]
+  ],
+  [
+    [
+      "2024-09-22, 13:18:43",
+      "https://news.ycombinator.com/item?id=41616860"
+    ],
+    [
+      "Compiling to Assembly from Scratch [free to read online]",
+      "https://keleshev.com/compiling-to-assembly-from-scratch/#table-of-contents"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Nextcloud: Open-Source Cloud Apps",
       "https://nextcloud.com/"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 06:12:45",
-      "https://news.ycombinator.com/item?id=41614949"
-    ],
-    [
-      "LsCs is a cross platform C++ GUI library focused on Medical Devices",
-      "https://lscs-software.com/index.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Scientific Visualization: Python + Matplotlib (2021)",
       "https://github.com/rougier/scientific-visualization-book"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 20:09:15",
+      "https://news.ycombinator.com/item?id=41572137"
+    ],
+    [
+      "Mozilla exits the Fediverse and will shutter its Mastodon server in December",
+      "https://techcrunch.com/2024/09/17/mozilla-exits-the-fediverse-and-will-shutter-its-mastodon-server-in-december/"
     ]
   ]
 ]
