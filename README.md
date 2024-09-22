@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-22, 23:24:34](https://news.ycombinator.com/item?id=41620955) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 * [2024-09-22, 22:12:50](https://news.ycombinator.com/item?id=41620530) - [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
 * [2024-09-22, 21:38:08](https://news.ycombinator.com/item?id=41620304) - [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
@@ -16,7 +17,6 @@
 * [2024-09-22, 13:04:18](https://news.ycombinator.com/item?id=41616763) - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
 * [2024-09-22, 04:39:37](https://news.ycombinator.com/item?id=41614663) - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 * [2024-09-22, 00:42:33](https://news.ycombinator.com/item?id=41613722) - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
-* [2024-09-21, 22:06:01](https://news.ycombinator.com/item?id=41612984) - [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 19:20:34](https://news.ycombinator.com/item?id=41612049) - [What Is a Particle? (2020)](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 * [2024-09-21, 19:08:50](https://news.ycombinator.com/item?id=41611965) - [Infineon's CO2 Sensor Monitors Indoor Air Quality](https://www.allaboutcircuits.com/news/infineons-co2-sensor-precisely-monitors-indoor-air-quality/)

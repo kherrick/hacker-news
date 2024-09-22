@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 23:24:34](https://news.ycombinator.com/item?id=41620955) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 * [2024-09-22, 22:12:50](https://news.ycombinator.com/item?id=41620530) - [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
 * [2024-09-22, 21:38:08](https://news.ycombinator.com/item?id=41620304) - [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
