@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-23, 00:11:20](https://news.ycombinator.com/item?id=41621191) - [If AI is helping people code better, why aren't products getting better?](https://news.ycombinator.com/item?id=41621191)
+* [2024-09-23, 05:39:32](https://news.ycombinator.com/item?id=41622653) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
+* [2024-09-23, 05:35:54](https://news.ycombinator.com/item?id=41622640) - [The Elite's War on Remote Work Has Nothing to Do with Productivity](https://www.the-sentinel-intelligence.com/p/heres-why-they-want-you-back-at-the-office-so-bad)
+* [2024-09-23, 05:33:45](https://news.ycombinator.com/item?id=41622632) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 * [2024-09-22, 23:36:28](https://news.ycombinator.com/item?id=41621020) - [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
 * [2024-09-22, 23:24:34](https://news.ycombinator.com/item?id=41620955) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 * [2024-09-22, 23:17:13](https://news.ycombinator.com/item?id=41620923) - [Super Useful Chrome Plugins for Front-End Developers](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for)
-* [2024-09-22, 22:34:20](https://news.ycombinator.com/item?id=41620661) - [Linear Mobile – Available for iOS and Android](https://linear.app/mobile)
-* [2024-09-22, 22:27:08](https://news.ycombinator.com/item?id=41620622) - [Why do BIC pens have a hole in the lid? (2016)](https://www.independent.co.uk/life-style/why-do-bic-pens-have-a-hole-in-their-lid-to-stop-choking-a6856061.html)
 * [2024-09-22, 22:12:50](https://news.ycombinator.com/item?id=41620530) - [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
 * [2024-09-22, 21:54:23](https://news.ycombinator.com/item?id=41620414) - [Show HN: Put ful.co/ in front of any URL to easily copy its SVGs and images](https://ful.co/)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
@@ -14,7 +14,6 @@
 * [2024-09-22, 20:30:51](https://news.ycombinator.com/item?id=41619808) - [Valve is testing ARM64 support for popular games](https://www.notebookcheck.net/Valve-is-testing-ARM64-support-for-popular-games-sparking-speculations-about-new-future-hardware.891851.0.html)
 * [2024-09-22, 19:00:56](https://news.ycombinator.com/item?id=41619131) - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
 * [2024-09-22, 18:27:55](https://news.ycombinator.com/item?id=41618926) - [Sublime text started adding a “.s” to new files](https://forum.sublimetext.com/t/sublime-text-started-adding-a-s-to-new-files-very-annoying/73628)
-* [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:30:55](https://news.ycombinator.com/item?id=41618505) - [Does “building in public” work?](https://laike9m.com/blog/no-one-builds-in-public,160/)
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
 * [2024-09-22, 17:00:11](https://news.ycombinator.com/item?id=41618295) - [Sieve (YC W22) Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
@@ -30,6 +29,7 @@
 * [2024-09-18, 15:03:41](https://news.ycombinator.com/item?id=41580619) - [Things I've learned serving on the board of the Python Software Foundation](https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/)
 * [2024-09-18, 12:00:01](https://news.ycombinator.com/item?id=41578637) - [Bricked iPhone 16 Can Be Restored Wirelessly Using Another iPhone](https://www.macrumors.com/2024/09/18/iphone-16-restored-wirelessly-another-iphone/)
 * [2024-09-18, 11:46:17](https://news.ycombinator.com/item?id=41578516) - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
+* [2024-09-18, 10:36:10](https://news.ycombinator.com/item?id=41578007) - [Rare Vinyl Records](https://eil.com/)
 
 ## [Archives](archives/index.md)
 
