@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-23, 17:30:25](https://news.ycombinator.com/item?id=41628481) - [It's Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
 * [2024-09-23, 17:01:15](https://news.ycombinator.com/item?id=41628167) - [The Intelligence Age](https://ia.samaltman.com/)
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
@@ -9,6 +8,7 @@
 * [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
 * [2024-09-23, 12:46:15](https://news.ycombinator.com/item?id=41625456) - [NeRF-Supervised Feature Point Detection and Description](https://arxiv.org/abs/2403.08156)
+* [2024-09-23, 12:37:45](https://news.ycombinator.com/item?id=41625402) - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)
 * [2024-09-23, 12:00:43](https://news.ycombinator.com/item?id=41625154) - [Dot (YC S21) Is Hiring an Engineer to Automate Analytics (Remote)](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
 * [2024-09-23, 11:19:37](https://news.ycombinator.com/item?id=41624827) - [Autocracy and Stagnation: How Imperial Exams Shaped China's Destiny](https://www.chinatalk.media/p/autocracy-and-stagnation-how-imperial)
 * [2024-09-23, 10:34:54](https://news.ycombinator.com/item?id=41624510) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
@@ -21,7 +21,7 @@
 * [2024-09-22, 20:33:18](https://news.ycombinator.com/item?id=41619833) - [Visualizing Ship Movements with AIS Data](https://www.beautifulpublicdata.com/visualizing-ship-movements-with-ais-data/)
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
-* [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
+* [2024-09-22, 16:32:23](https://news.ycombinator.com/item?id=41618128) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
