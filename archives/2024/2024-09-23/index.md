@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 19:52:38](https://news.ycombinator.com/item?id=41629811) - [Anime Is Eating the World](https://a16z.com/anime-is-eating-the-world/)
 * [2024-09-23, 19:28:35](https://news.ycombinator.com/item?id=41629620) - [Telegram will now hand over phone number and IP for criminal suspects](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
+* [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
 * [2024-09-23, 19:08:00](https://news.ycombinator.com/item?id=41629474) - [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
 * [2024-09-23, 19:06:29](https://news.ycombinator.com/item?id=41629457) - [Another Reason Why You Should Sleep on It Before Making an Important Decision](https://today.duke.edu/2024/09/science-of-first-impressions)
 * [2024-09-23, 18:56:44](https://news.ycombinator.com/item?id=41629377) - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
