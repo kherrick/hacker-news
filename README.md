@@ -3,7 +3,7 @@
 * [2024-09-23, 19:28:35](https://news.ycombinator.com/item?id=41629620) - [Telegram will now hand over phone number and IP for criminal suspects](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
 * [2024-09-23, 19:08:00](https://news.ycombinator.com/item?id=41629474) - [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
 * [2024-09-23, 18:56:44](https://news.ycombinator.com/item?id=41629377) - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
-* [2024-09-23, 18:48:55](https://news.ycombinator.com/item?id=41629307) - [2.11BSD_X44: A 2.11 BSD that's still receiving patches, including x86 support](https://github.com/TheSledgeHammer/2.11BSD_X44)
+* [2024-09-23, 18:56:15](https://news.ycombinator.com/item?id=41629369) - [How much energy does desalinisation use? Is it \"absurdly cheap\"?](https://www.sustainabilitybynumbers.com/p/how-much-energy-does-desalinisation)
 * [2024-09-23, 18:19:56](https://news.ycombinator.com/item?id=41628983) - [John Cassaday, Award-Winning Comic Book Artist&Creator of Planetary Dies at 52](https://www.nytimes.com/2024/09/18/arts/john-cassaday-dead.html)
 * [2024-09-23, 17:01:15](https://news.ycombinator.com/item?id=41628167) - [The Intelligence Age](https://ia.samaltman.com/)
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
