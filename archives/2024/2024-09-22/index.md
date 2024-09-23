@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 23:36:53](https://news.ycombinator.com/item?id=41621024) - [Plagiarism Claims Are Brought Against University of Maryland's President](https://www.nytimes.com/2024/09/20/us/plagiarism-university-of-maryland-president-darryll-pines.html)
+* [2024-09-22, 23:36:28](https://news.ycombinator.com/item?id=41621020) - [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
 * [2024-09-22, 23:24:34](https://news.ycombinator.com/item?id=41620955) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
+* [2024-09-22, 23:17:13](https://news.ycombinator.com/item?id=41620923) - [Super Useful Chrome Plugins for Front-End Developers](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for)
+* [2024-09-22, 22:34:20](https://news.ycombinator.com/item?id=41620661) - [Linear Mobile – Available for iOS and Android](https://linear.app/mobile)
+* [2024-09-22, 22:27:08](https://news.ycombinator.com/item?id=41620622) - [Why do BIC pens have a hole in the cap? (2016)](https://www.independent.co.uk/life-style/why-do-bic-pens-have-a-hole-in-their-lid-to-stop-choking-a6856061.html)
 * [2024-09-22, 22:12:50](https://news.ycombinator.com/item?id=41620530) - [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
 * [2024-09-22, 21:38:08](https://news.ycombinator.com/item?id=41620304) - [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 21:08:58](https://news.ycombinator.com/item?id=41620091) - [LinkedIn does not use European users' data for training its AI](https://www.techradar.com/pro/security/the-linkedin-ai-saga-shows-us-the-need-for-eu-like-privacy-regulations)
+* [2024-09-22, 20:30:51](https://news.ycombinator.com/item?id=41619808) - [Valve is testing ARM64 support for popular games](https://www.notebookcheck.net/Valve-is-testing-ARM64-support-for-popular-games-sparking-speculations-about-new-future-hardware.891851.0.html)
 * [2024-09-22, 19:54:27](https://news.ycombinator.com/item?id=41619526) - [Ask HN: Is Nextcloud a Great Alternative to Dropbox/Google Drive for Startups?](https://news.ycombinator.com/item?id=41619526)
 * [2024-09-22, 19:00:56](https://news.ycombinator.com/item?id=41619131) - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
 * [2024-09-22, 18:42:56](https://news.ycombinator.com/item?id=41619047) - [Love of cargo bikes is changing how we deliver goods in our cities](https://www.euronews.com/next/2024/09/22/europes-love-affair-with-cargo-bikes-is-changing-how-we-deliver-goods-in-our-cities)
