@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-23, 07:18:34](https://news.ycombinator.com/item?id=41623251) - [How the iPhone 16's electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
-* [2024-09-23, 06:10:31](https://news.ycombinator.com/item?id=41622774) - [iPhone 16 is much easier to repair](https://www.engadget.com/mobile/smartphones/see-the-iphone-16s-game-changing-battery-removal-process-in-new-ifixit-teardown-213911136.html)
 * [2024-09-23, 05:47:36](https://news.ycombinator.com/item?id=41622685) - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
 * [2024-09-23, 05:39:32](https://news.ycombinator.com/item?id=41622653) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 * [2024-09-23, 05:33:45](https://news.ycombinator.com/item?id=41622632) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
@@ -20,6 +19,7 @@
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
+* [2024-09-22, 13:18:43](https://news.ycombinator.com/item?id=41616860) - [Compiling to Assembly from Scratch](https://keleshev.com/compiling-to-assembly-from-scratch)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
 * [2024-09-21, 13:14:12](https://news.ycombinator.com/item?id=41609755) - [The Palletrone is a robotic hovercart for moving stuff anywhere](https://spectrum.ieee.org/cargo-drone-2669117300)
