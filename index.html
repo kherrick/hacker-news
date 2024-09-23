@@ -139,32 +139,11 @@
             <h4>
               <span>2024-09-23 @ 17:30:25</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41628481"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41628225">
-          <h3>
-            <a
-              class="item"
-              href="https://www.trend-mill.com/p/honey-youtubers-are-poisoning-the"
-              >Honey, YouTubers Are Poisoning the Kids</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-23 @ 17:06:12</span
-              ><span class="points-container"
-                >Points: <span class="points">55</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41628225"
-                  >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -179,13 +158,147 @@
             <h4>
               <span>2024-09-23 @ 17:01:15</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41628167"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41627966">
+          <h3>
+            <a class="item" href="https://github.com/panoratech/Panora"
+              >Launch HN: Panora (YC S24) – Data Integration API for LLMs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-23 @ 16:43:30</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41627966"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/panoratech/Panora"
+                >https://github.com/panoratech/Panora</a
+              >), an open-source API that connects various data sources to LLMs,
+              from 3rd party integrations to embeddings and chunking generation.
+              <p>
+                Here's a demo:
+                <a href="https://www.youtube.com/watch?v=45QaN8mzAfg"
+                  >https://www.youtube.com/watch?v=45QaN8mzAfg</a
+                >, and you can check our docs here:
+                <a href="https://docs.panora.dev/quick-start"
+                  >https://docs.panora.dev/quick-start</a
+                >
+              </p>
+              <p>
+                Our GitHub repo is at
+                <a href="https://github.com/panoratech/Panora"
+                  >https://github.com/panoratech/Panora</a
+                >.
+              </p>
+              <p>
+                Building integrations by hand is tedious and time-consuming. You
+                must adapt to API documentation quirks, manage request retries,
+                OAuth/API key authorization, refresh tokens, rate limits, and
+                data sync freshness. Moreover, you have to keep up with the
+                constant rise of embedding models and chunking capabilities. On
+                the other hand, with the rise of AI-powered apps, you have to
+                handle embedding and chunking of all the unstructured data.
+              </p>
+              <p>
+                The dominant player in this space is Merge.dev, but it has
+                several drawbacks:
+              </p>
+              <p>
+                1. It's a black box for most developers, lacking transparency on
+                data handling. 2. Strong vendor lock-in: once an end-user
+                connects their software, it's challenging to access
+                authorization tokens if you want to perform requests on their
+                behalf after leaving Merge. 3. Long time-to-deploy for the long
+                tail of integrations, leading to lost opportunities as
+                integrations become the backbone of LLM-based applications. 4.
+                Unrealistic prices per connection (action of one end-user
+                connecting their tool). 5. Not positioned to serve LLM-based
+                products that need RAG-ready data to power their use cases.
+              </p>
+              <p>
+                That's how Panora was born. We set out to build a solution that
+                addresses these pain points head-on, creating something that is
+                both developer-friendly and open-source. Our goal was to
+                simplify the complex world of integrations and data preparation
+                for LLMs, allowing developers to focus on building great
+                products rather than wrestling with integration headaches.
+              </p>
+              <p>
+                Panora is 100% open-source under the Apache 2.0 license and you
+                can either use our cloud version or self-host the product.
+              </p>
+              <p>
+                We provide two ways for your end-users to connect their software
+                seamlessly.
+              </p>
+              <p>
+                1. A frontend SDK (React) where you can embed the integrations
+                catalog within your app.
+              </p>
+              <p>
+                2. A magic link that you can share with anyone allowing them to
+                connect their software.
+              </p>
+              <p>
+                You can either use your own OAuth clients or our managed ones.
+                You receive a connection token per user and per provider
+                connected, which you must use to retrieve/insert data using our
+                universal API.
+              </p>
+              <p>
+                We have different categories of software such as CRMs or File
+                storage. Every category is divided into entities (e.g: File
+                Storage has File, Folder, Drive, Group &amp; User) following a
+                standard data model. You even have access to remote data
+                (non-transformed data from the provider) within each response,
+                so you can build custom &amp; complex integrations on your end.
+              </p>
+              <p>
+                If the remote data isn't enough beyond the standard data model,
+                you can create custom fields either via API or our dashboard to
+                map your remote fields to our model.
+              </p>
+              <p>
+                We're more than just integrations—we provide ready data for your
+                RAG applications with auto-generation of embeddings and chunks
+                for all your synced documents. You have the option to select
+                your own vector database and embedding model in the dashboard.
+                We then sync your documents and store the chunks/embeddings to
+                the specified vector DB.
+              </p>
+              <p>
+                We make sure to maintain up-to-date data that we send through
+                webhooks, and you can set custom sync frequency (1hr, once a
+                day, etc.) depending on your use case.
+              </p>
+              <p>
+                Developers use our API to access fragmented data across various
+                software such as File storage systems (Google Drive, OneDrive,
+                SharePoint) and retrieve the embeddings of their documents using
+                a single API. Our backend SDK is available for Python,
+                TypeScript, Ruby, and Go.
+              </p>
+              <p>
+                Your honest feedback, suggestions, and wishes would be very
+                helpful. We'd love to hear about your integration stories,
+                challenges you've faced with data integration for LLMs, and any
+                thoughts on our approach. Thanks, HN!
+              </p>
+            </div>
           </section>
         </section>
         <section id="41627787">
@@ -198,11 +311,11 @@
             <h4>
               <span>2024-09-23 @ 16:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41627787"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -218,11 +331,11 @@
             <h4>
               <span>2024-09-23 @ 16:06:03</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41627549"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -238,11 +351,11 @@
             <h4>
               <span>2024-09-23 @ 13:49:31</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41626063"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -284,11 +397,11 @@
             <h4>
               <span>2024-09-23 @ 13:31:40</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41625903"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -306,7 +419,7 @@
             <h4>
               <span>2024-09-23 @ 13:13:38</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41625714"
                   >Comments</a
@@ -369,7 +482,7 @@
             <h4>
               <span>2024-09-23 @ 12:46:15</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41625456"
                   >Comments</a
@@ -409,11 +522,11 @@
             <h4>
               <span>2024-09-23 @ 11:19:37</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41624827"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -430,11 +543,11 @@
             <h4>
               <span>2024-09-23 @ 10:34:54</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41624510"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -451,11 +564,11 @@
             <h4>
               <span>2024-09-23 @ 07:51:26</span
               ><span class="points-container"
-                >Points: <span class="points">558</span></span
+                >Points: <span class="points">602</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41623467"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -472,11 +585,11 @@
             <h4>
               <span>2024-09-23 @ 05:26:05</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41622601"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -494,11 +607,11 @@
             <h4>
               <span>2024-09-23 @ 04:36:59</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41622419"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -513,7 +626,7 @@
             <h4>
               <span>2024-09-23 @ 03:02:55</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41622080"
                   >Comments</a
@@ -532,11 +645,11 @@
             <h4>
               <span>2024-09-23 @ 01:47:53</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41621680"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -551,11 +664,11 @@
             <h4>
               <span>2024-09-22 @ 21:24:07</span
               ><span class="points-container"
-                >Points: <span class="points">458</span></span
+                >Points: <span class="points">465</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41620198"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -572,7 +685,7 @@
             <h4>
               <span>2024-09-22 @ 20:33:18</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41619833"
                   >Comments</a
@@ -594,7 +707,7 @@
             <h4>
               <span>2024-09-22 @ 17:56:20</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41618685"
                   >Comments</a
@@ -615,11 +728,11 @@
             <h4>
               <span>2024-09-22 @ 17:13:42</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41618389"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -634,7 +747,7 @@
             <h4>
               <span>2024-09-22 @ 14:43:02</span
               ><span class="points-container"
-                >Points: <span class="points">426</span></span
+                >Points: <span class="points">428</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41617431"
                   >Comments</a
@@ -654,11 +767,11 @@
             <h4>
               <span>2024-09-22 @ 13:43:21</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">322</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41617021"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -673,11 +786,11 @@
             <h4>
               <span>2024-09-21 @ 19:36:20</span
               ><span class="points-container"
-                >Points: <span class="points">1203</span></span
+                >Points: <span class="points">1209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41612154"
                   >Comments</a
-                ><span class="descendants">: 369</span></span
+                ><span class="descendants">: 370</span></span
               >
             </h4>
           </section>
@@ -692,11 +805,11 @@
             <h4>
               <span>2024-09-21 @ 13:46:54</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">312</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41609947"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
@@ -718,11 +831,11 @@
             <h4>
               <span>2024-09-21 @ 13:14:12</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41609755"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -765,7 +878,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41585509"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -780,7 +893,7 @@
             <h4>
               <span>2024-09-18 @ 13:08:37</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41579268"
                   >Comments</a
@@ -799,7 +912,7 @@
             <h4>
               <span>2024-09-18 @ 11:57:54</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41578619"
                   >Comments</a
