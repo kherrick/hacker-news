@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-23, 01:05:58](https://news.ycombinator.com/item?id=41621477) - [Show HN: I built a tool to roast landing pages using AI agents](https://roastmylandingpage.io/)
 * [2024-09-22, 23:36:28](https://news.ycombinator.com/item?id=41621020) - [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
 * [2024-09-22, 23:24:34](https://news.ycombinator.com/item?id=41620955) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 * [2024-09-22, 23:17:13](https://news.ycombinator.com/item?id=41620923) - [Super Useful Chrome Plugins for Front-End Developers](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for)
 * [2024-09-22, 22:34:20](https://news.ycombinator.com/item?id=41620661) - [Linear Mobile – Available for iOS and Android](https://linear.app/mobile)
 * [2024-09-22, 22:27:08](https://news.ycombinator.com/item?id=41620622) - [Why do BIC pens have a hole in the lid? (2016)](https://www.independent.co.uk/life-style/why-do-bic-pens-have-a-hole-in-their-lid-to-stop-choking-a6856061.html)
 * [2024-09-22, 22:12:50](https://news.ycombinator.com/item?id=41620530) - [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
+* [2024-09-22, 21:54:23](https://news.ycombinator.com/item?id=41620414) - [Show HN: Put ful.co/ in front of any URL to easily copy its SVGs and images](https://ful.co/)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 21:08:58](https://news.ycombinator.com/item?id=41620091) - [LinkedIn does not use European users' data for training its AI](https://www.techradar.com/pro/security/the-linkedin-ai-saga-shows-us-the-need-for-eu-like-privacy-regulations)
 * [2024-09-22, 20:56:07](https://news.ycombinator.com/item?id=41620002) - [Coffee Stats – Maximize Caffeine Intake and Get to Bed at Night](https://github.com/Eliya-G/coffee-o-clock)

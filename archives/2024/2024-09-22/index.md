@@ -11,6 +11,7 @@
 * [2024-09-22, 22:34:20](https://news.ycombinator.com/item?id=41620661) - [Linear Mobile – Available for iOS and Android](https://linear.app/mobile)
 * [2024-09-22, 22:27:08](https://news.ycombinator.com/item?id=41620622) - [Why do BIC pens have a hole in the cap? (2016)](https://www.independent.co.uk/life-style/why-do-bic-pens-have-a-hole-in-their-lid-to-stop-choking-a6856061.html)
 * [2024-09-22, 22:12:50](https://news.ycombinator.com/item?id=41620530) - [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
+* [2024-09-22, 21:54:23](https://news.ycombinator.com/item?id=41620414) - [Show HN: Put ful.co/ in front of any URL to easily copy its SVGs and images](https://ful.co/)
 * [2024-09-22, 21:38:08](https://news.ycombinator.com/item?id=41620304) - [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 21:08:58](https://news.ycombinator.com/item?id=41620091) - [LinkedIn does not use European users' data for training its AI](https://www.techradar.com/pro/security/the-linkedin-ai-saga-shows-us-the-need-for-eu-like-privacy-regulations)
