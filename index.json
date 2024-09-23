@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 19:28:35",
+      "https://news.ycombinator.com/item?id=41629620"
+    ],
+    [
+      "Telegram will now hand over phone number and IP for criminal suspects",
+      "https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 19:08:00",
       "https://news.ycombinator.com/item?id=41629474"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2024-09-23, 19:06:29",
-      "https://news.ycombinator.com/item?id=41629457"
-    ],
-    [
-      "Another Reason Why You Should Sleep on It Before Making an Important Decision",
-      "https://today.duke.edu/2024/09/science-of-first-impressions"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 18:56:44",
       "https://news.ycombinator.com/item?id=41629377"
     ],
     [
       "Show HN: I Wrote a Book on Java",
       "https://news.ycombinator.com/item?id=41629377"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 18:48:55",
+      "https://news.ycombinator.com/item?id=41629307"
+    ],
+    [
+      "2.11BSD_X44: A 2.11 BSD that's still receiving patches, including x86 support",
+      "https://github.com/TheSledgeHammer/2.11BSD_X44"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41627549"
     ],
     [
-      "Free-Form Floor Plan Design Using Differentiable Voronoi Diagram",
+      "Free-form floor plan design using differentiable Voronoi diagram",
       "https://github.com/nobuyuki83/floor_plan"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "NeRF-Supervised Feature Point Detection and Description",
       "https://arxiv.org/abs/2403.08156"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 12:37:45",
-      "https://news.ycombinator.com/item?id=41625402"
-    ],
-    [
-      "Show HN: A journaling service that runs over WhatsApp",
-      "https://todayhasbeen.com"
     ]
   ],
   [
