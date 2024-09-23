@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-23, 01:27:12](https://news.ycombinator.com/item?id=41621572) - [Crypto Wars: Hungarian Presidency continues fight against encryption](https://www.heise.de/en/news/Crypto-Wars-Hungarian-Presidency-continues-fight-against-encryption-9939732.html)
-* [2024-09-23, 01:09:37](https://news.ycombinator.com/item?id=41621490) - [Teenager jailed for 18 months still in prison 18 years](https://www.independent.co.uk/news/uk/crime/ipp-sentence-luke-ings-mcdonalds-prison-b2601321.html)
-* [2024-09-23, 01:06:40](https://news.ycombinator.com/item?id=41621480) - [Some startups going 'fair source' to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/)
+* [2024-09-23, 01:05:58](https://news.ycombinator.com/item?id=41621477) - [Show HN: I built a tool to roast landing pages using AI agents](https://roastmylandingpage.io/)
 * [2024-09-22, 23:36:28](https://news.ycombinator.com/item?id=41621020) - [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
 * [2024-09-22, 23:24:34](https://news.ycombinator.com/item?id=41620955) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 * [2024-09-22, 23:17:13](https://news.ycombinator.com/item?id=41620923) - [Super Useful Chrome Plugins for Front-End Developers](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for)
@@ -30,6 +29,7 @@
 * [2024-09-18, 15:03:41](https://news.ycombinator.com/item?id=41580619) - [Things I've learned serving on the board of the Python Software Foundation](https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/)
 * [2024-09-18, 12:00:01](https://news.ycombinator.com/item?id=41578637) - [Bricked iPhone 16 Can Be Restored Wirelessly Using Another iPhone](https://www.macrumors.com/2024/09/18/iphone-16-restored-wirelessly-another-iphone/)
 * [2024-09-18, 11:46:17](https://news.ycombinator.com/item?id=41578516) - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
+* [2024-09-18, 10:17:10](https://news.ycombinator.com/item?id=41577916) - [Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
 
 ## [Archives](archives/index.md)
 
