@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-23, 20:46:35](https://news.ycombinator.com/item?id=41630348) - [Positive effects of creatine supplementation on memory in healthy individuals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9999677/)
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 * [2024-09-23, 19:52:38](https://news.ycombinator.com/item?id=41629811) - [Anime is eating the world](https://a16z.com/anime-is-eating-the-world/)
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
@@ -26,6 +25,7 @@
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
+* [2024-09-21, 13:10:33](https://news.ycombinator.com/item?id=41609744) - [The Visualization of Differential Forms (2021)](https://web.tecnico.ulisboa.pt/~ist189623/wordpress/2021/09/08/on-the-visualization-of-differential-forms/)
 * [2024-09-19, 02:47:34](https://news.ycombinator.com/item?id=41587983) - [Smart Goose Deterrent System](https://irowbot.duckdns.org:1776/goose/SGDS.html)
 * [2024-09-18, 21:07:39](https://news.ycombinator.com/item?id=41585509) - [The Many Lives of James Lovelock by Jonathan Watts – Man of Many Myths](https://www.theguardian.com/books/article/2024/sep/14/the-many-lives-of-james-lovelock-by-jonathan-watts-man-of-many-myths)
 * [2024-09-18, 13:08:37](https://news.ycombinator.com/item?id=41579268) - [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
