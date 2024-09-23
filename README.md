@@ -3,7 +3,6 @@
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
 * [2024-09-23, 16:22:09](https://news.ycombinator.com/item?id=41627754) - [David Graeber and David Wengrow: Flesh and Blood (2021)](https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
-* [2024-09-23, 13:56:56](https://news.ycombinator.com/item?id=41626133) - [Ever wonder how crooks get the credentials to unlock stolen phones?](https://arstechnica.com/security/2024/09/cops-bust-website-crooks-used-to-unlock-1-2-million-stolen-mobile-phones/)
 * [2024-09-23, 13:49:31](https://news.ycombinator.com/item?id=41626063) - [Show HN: Interactive map of the convenience store \"turf war\" in Japan](https://conbini.kikkia.dev)
 * [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
@@ -28,6 +27,7 @@
 * [2024-09-21, 13:14:12](https://news.ycombinator.com/item?id=41609755) - [The Palletrone is a robotic hovercart for moving stuff anywhere](https://spectrum.ieee.org/cargo-drone-2669117300)
 * [2024-09-21, 13:10:33](https://news.ycombinator.com/item?id=41609744) - [The Visualization of Differential Forms (2021)](https://web.tecnico.ulisboa.pt/~ist189623/wordpress/2021/09/08/on-the-visualization-of-differential-forms/)
 * [2024-09-18, 21:07:39](https://news.ycombinator.com/item?id=41585509) - [The Many Lives of James Lovelock by Jonathan Watts – Man of Many Myths](https://www.theguardian.com/books/article/2024/sep/14/the-many-lives-of-james-lovelock-by-jonathan-watts-man-of-many-myths)
+* [2024-09-18, 14:50:11](https://news.ycombinator.com/item?id=41580412) - [Univ. of North Texas' body parts business: Cutting up and leasing out the poor](https://www.nbcnews.com/news/us-news/university-north-texas-corpses-dissected-unclaimed-bodies-rcna170478)
 * [2024-09-18, 13:08:37](https://news.ycombinator.com/item?id=41579268) - [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 * [2024-09-18, 11:57:54](https://news.ycombinator.com/item?id=41578619) - [Tiny Tapeout VGA Playground](https://tinytapeout.github.io/vga-playground/)
 
