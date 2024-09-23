@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-23, 17:30:25](https://news.ycombinator.com/item?id=41628481) - [It's Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
 * [2024-09-23, 17:06:12](https://news.ycombinator.com/item?id=41628225) - [Honey, YouTubers Are Poisoning the Kids](https://www.trend-mill.com/p/honey-youtubers-are-poisoning-the)
 * [2024-09-23, 17:01:15](https://news.ycombinator.com/item?id=41628167) - [The Intelligence Age](https://ia.samaltman.com/)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
@@ -20,7 +21,6 @@
 * [2024-09-22, 20:33:18](https://news.ycombinator.com/item?id=41619833) - [Visualizing Ship Movements with AIS Data](https://www.beautifulpublicdata.com/visualizing-ship-movements-with-ais-data/)
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
-* [2024-09-22, 16:32:23](https://news.ycombinator.com/item?id=41618128) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)

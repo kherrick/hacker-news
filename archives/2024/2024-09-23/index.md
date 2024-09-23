@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 17:30:25](https://news.ycombinator.com/item?id=41628481) - [It's Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
 * [2024-09-23, 17:06:12](https://news.ycombinator.com/item?id=41628225) - [Honey, YouTubers Are Poisoning the Kids](https://www.trend-mill.com/p/honey-youtubers-are-poisoning-the)
 * [2024-09-23, 17:01:15](https://news.ycombinator.com/item?id=41628167) - [The Intelligence Age](https://ia.samaltman.com/)
 * [2024-09-23, 16:26:56](https://news.ycombinator.com/item?id=41627806) - [Today's satellite view of fires in southern Lebanon](https://firms.modaps.eosdis.nasa.gov/map/#d:today;@35.37,33.17,10.66z)
