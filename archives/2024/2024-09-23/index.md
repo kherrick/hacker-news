@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
 * [2024-09-23, 14:24:19](https://news.ycombinator.com/item?id=41626468) - [Mozilla removes ad-tracking code from Firefox](https://adguard.com/en/blog/mozilla-firefox-ad-tracking-adjust-sdk.html)
+* [2024-09-23, 13:50:00](https://news.ycombinator.com/item?id=41626067) - [Ephemeral IDs: a new tool for fraud detection](https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection/)
 * [2024-09-23, 13:46:42](https://news.ycombinator.com/item?id=41626035) - [YouTube Premium is getting a big price hike internationally](https://www.androidpolice.com/youtube-premium-getting-big-price-hike-internationally/)
 * [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)

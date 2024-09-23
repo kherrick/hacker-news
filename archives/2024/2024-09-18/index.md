@@ -12,6 +12,7 @@
 * [2024-09-18, 23:02:41](https://news.ycombinator.com/item?id=41586579) - [Lichess: Post-Mortem of Our Longest Downtime](https://lichess.org/@/Lichess/blog/post-mortem-of-our-longest-downtime/XAgG7jbd)
 * [2024-09-18, 22:19:05](https://news.ycombinator.com/item?id=41586203) - [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
 * [2024-09-18, 21:59:42](https://news.ycombinator.com/item?id=41586031) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
+* [2024-09-18, 21:07:39](https://news.ycombinator.com/item?id=41585509) - [The Many Lives of James Lovelock by Jonathan Watts – Man of Many Myths](https://www.theguardian.com/books/article/2024/sep/14/the-many-lives-of-james-lovelock-by-jonathan-watts-man-of-many-myths)
 * [2024-09-18, 21:04:55](https://news.ycombinator.com/item?id=41585468) - [Show HN: I've Built an Accounting System](https://github.com/denys-olleik/accounting)
 * [2024-09-18, 21:03:07](https://news.ycombinator.com/item?id=41585449) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
 * [2024-09-18, 20:46:08](https://news.ycombinator.com/item?id=41585249) - [Cloudflare misidentifies Hetzner IPs as being located in Iran](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726)
