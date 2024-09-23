@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-23, 01:37:14](https://news.ycombinator.com/item?id=41621631) - [California fails to track its homelessness spending or results, a new audit says](https://calmatters.org/housing/homelessness/2024/04/california-homelessness-spending/)
 * [2024-09-23, 01:27:12](https://news.ycombinator.com/item?id=41621572) - [Crypto Wars: Hungarian Presidency continues fight against encryption](https://www.heise.de/en/news/Crypto-Wars-Hungarian-Presidency-continues-fight-against-encryption-9939732.html)
 * [2024-09-23, 01:09:37](https://news.ycombinator.com/item?id=41621490) - [Teenager jailed for 18 months still in prison 18 years](https://www.independent.co.uk/news/uk/crime/ipp-sentence-luke-ings-mcdonalds-prison-b2601321.html)
+* [2024-09-23, 01:06:40](https://news.ycombinator.com/item?id=41621480) - [Some startups going 'fair source' to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/)
 * [2024-09-22, 23:36:28](https://news.ycombinator.com/item?id=41621020) - [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
 * [2024-09-22, 23:24:34](https://news.ycombinator.com/item?id=41620955) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 * [2024-09-22, 23:17:13](https://news.ycombinator.com/item?id=41620923) - [Super Useful Chrome Plugins for Front-End Developers](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for)
 * [2024-09-22, 22:34:20](https://news.ycombinator.com/item?id=41620661) - [Linear Mobile – Available for iOS and Android](https://linear.app/mobile)
+* [2024-09-22, 22:27:08](https://news.ycombinator.com/item?id=41620622) - [Why do BIC pens have a hole in the cap? (2016)](https://www.independent.co.uk/life-style/why-do-bic-pens-have-a-hole-in-their-lid-to-stop-choking-a6856061.html)
 * [2024-09-22, 22:12:50](https://news.ycombinator.com/item?id=41620530) - [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
 * [2024-09-22, 21:38:08](https://news.ycombinator.com/item?id=41620304) - [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
@@ -21,6 +22,7 @@
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 * [2024-09-22, 13:18:43](https://news.ycombinator.com/item?id=41616860) - [Compiling to Assembly from Scratch](https://keleshev.com/compiling-to-assembly-from-scratch/#table-of-contents)
+* [2024-09-22, 13:04:18](https://news.ycombinator.com/item?id=41616763) - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
 * [2024-09-22, 04:39:37](https://news.ycombinator.com/item?id=41614663) - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
@@ -28,8 +30,6 @@
 * [2024-09-18, 15:03:41](https://news.ycombinator.com/item?id=41580619) - [Things I've learned serving on the board of the Python Software Foundation](https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/)
 * [2024-09-18, 12:00:01](https://news.ycombinator.com/item?id=41578637) - [Bricked iPhone 16 Can Be Restored Wirelessly Using Another iPhone](https://www.macrumors.com/2024/09/18/iphone-16-restored-wirelessly-another-iphone/)
 * [2024-09-18, 11:46:17](https://news.ycombinator.com/item?id=41578516) - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
-* [2024-09-18, 07:35:49](https://news.ycombinator.com/item?id=41576870) - [The Norwegian model of training to run](http://www.mariusbakken.com/the-norwegian-model.html)
-* [2024-09-18, 04:39:48](https://news.ycombinator.com/item?id=41575856) - [Trove of dinosaur fossils found high in B.C. mountains](https://www.cbc.ca/news/canada/british-columbia/b-c-researchers-fossil-trove-1.7325926)
 
 ## [Archives](archives/index.md)
 
