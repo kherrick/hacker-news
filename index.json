@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 13:13:38",
+      "https://news.ycombinator.com/item?id=41625714"
+    ],
+    [
+      "Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps",
+      "https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 12:00:43",
       "https://news.ycombinator.com/item?id=41625154"
     ],
@@ -27,16 +37,6 @@
     [
       "How the iPhone 16's electrically-released adhesive works",
       "https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 05:47:36",
-      "https://news.ycombinator.com/item?id=41622685"
-    ],
-    [
-      "Qocker is a user-friendly Qt GUI application for managing Docker containers",
-      "https://github.com/xlmnxp/Qocker"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-09-22, 21:07:58",
-      "https://news.ycombinator.com/item?id=41620086"
-    ],
-    [
-      "Mozilla's privacy preserving ad attribution: The future or an oxymoron?",
-      "https://www.ethicalads.io/blog/2024/08/mozillas-privacy-preserving-ad-attribution-the-future-or-an-oxymoron/"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 20:56:07",
       "https://news.ycombinator.com/item?id=41620002"
     ],
@@ -137,6 +127,16 @@
     [
       "Visualizing Ship Movements with AIS Data",
       "https://www.beautifulpublicdata.com/visualizing-ship-movements-with-ais-data/"
+    ]
+  ],
+  [
+    [
+      "2024-09-22, 19:00:56",
+      "https://news.ycombinator.com/item?id=41619131"
+    ],
+    [
+      "Desktop Windowing on Android Tablets",
+      "https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-09-22, 16:32:23",
+      "https://news.ycombinator.com/item?id=41618128"
+    ],
+    [
+      "A Retrospective on the Oils Project",
+      "https://www.oilshell.org/blog/2024/09/retrospective.html"
+    ]
+  ],
+  [
+    [
       "2024-09-22, 14:43:02",
       "https://news.ycombinator.com/item?id=41617431"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
+      "2024-09-22, 12:09:29",
+      "https://news.ycombinator.com/item?id=41616491"
+    ],
+    [
+      "pgroll: PostgreSQL zero-downtime migrations made easy",
+      "https://github.com/xataio/pgroll"
+    ]
+  ],
+  [
+    [
       "2024-09-22, 04:39:37",
       "https://news.ycombinator.com/item?id=41614663"
     ],
     [
       "Flappy Bird for Android, only C, under 100KB",
       "https://github.com/VadimBoev/FlappyBird"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 02:05:38",
-      "https://news.ycombinator.com/item?id=41614126"
-    ],
-    [
-      "Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o",
-      "https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Visualization of Differential Forms (2021)",
       "https://web.tecnico.ulisboa.pt/~ist189623/wordpress/2021/09/08/on-the-visualization-of-differential-forms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 02:57:28",
-      "https://news.ycombinator.com/item?id=41588038"
-    ],
-    [
-      "It's Okay to Abandon Things",
-      "https://netninja.com/2024/02/05/its-okay-to-abandon-things/"
     ]
   ],
   [
