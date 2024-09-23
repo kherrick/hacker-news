@@ -43,6 +43,7 @@
 * [2024-09-21, 13:42:08](https://news.ycombinator.com/item?id=41609915) - [Working in the office 5 days a week to build company culture is a myth](https://fortune.com/2024/09/20/working-in-office-5-days-week-build-company-culture-myth-pwc-report/)
 * [2024-09-21, 13:39:13](https://news.ycombinator.com/item?id=41609889) - [OWASP Juice Shop: the most modern and sophisticated insecure web application](https://github.com/juice-shop/juice-shop)
 * [2024-09-21, 13:14:28](https://news.ycombinator.com/item?id=41609758) - [Glacier National Park replacing signs that predicted glaciers would gone by 2020](https://www.cnn.com/2020/01/08/us/glaciers-national-park-2020-trnd/index.html)
+* [2024-09-21, 13:10:33](https://news.ycombinator.com/item?id=41609744) - [The Visualization of Differential Forms](https://web.tecnico.ulisboa.pt/~ist189623/wordpress/2021/09/08/on-the-visualization-of-differential-forms/)
 * [2024-09-21, 13:01:07](https://news.ycombinator.com/item?id=41609694) - [Social Initiation](https://socialcommunication.truman.edu/attitudes-emotions/social-initiation/)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-21, 12:18:55](https://news.ycombinator.com/item?id=41609491) - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
