@@ -20,6 +20,7 @@
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
+* [2024-09-22, 13:18:43](https://news.ycombinator.com/item?id=41616860) - [Compiling to Assembly from Scratch](https://keleshev.com/compiling-to-assembly-from-scratch)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
 * [2024-09-21, 13:14:12](https://news.ycombinator.com/item?id=41609755) - [The Palletrone is a robotic hovercart for moving stuff anywhere](https://spectrum.ieee.org/cargo-drone-2669117300)
@@ -29,7 +30,6 @@
 * [2024-09-18, 15:03:41](https://news.ycombinator.com/item?id=41580619) - [Things I've learned serving on the board of the Python Software Foundation](https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/)
 * [2024-09-18, 12:55:22](https://news.ycombinator.com/item?id=41579134) - [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
 * [2024-09-18, 11:57:54](https://news.ycombinator.com/item?id=41578619) - [Tiny Tapeout VGA Playground](https://tinytapeout.github.io/vga-playground/)
-* [2024-09-18, 10:36:10](https://news.ycombinator.com/item?id=41578007) - [Rare Vinyl Records](https://eil.com/)
 
 ## [Archives](archives/index.md)
 
