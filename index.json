@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-23, 16:26:56",
+      "https://news.ycombinator.com/item?id=41627806"
+    ],
+    [
+      "Today's satellite view of fires in southern Lebanon",
+      "https://firms.modaps.eosdis.nasa.gov/map/#d:today;@35.37,33.17,10.66z"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 16:25:00",
+      "https://news.ycombinator.com/item?id=41627787"
+    ],
+    [
+      "What, Me Worry? The Art and Humor of Mad Magazine",
+      "https://www.nrm.org/2024/08/mad/"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 16:22:09",
+      "https://news.ycombinator.com/item?id=41627754"
+    ],
+    [
+      "David Graeber and David Wengrow: Flesh and Blood (2021)",
+      "https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 16:06:03",
       "https://news.ycombinator.com/item?id=41627549"
     ],
@@ -17,16 +47,6 @@
     [
       "Ever wonder how crooks get the credentials to unlock stolen phones?",
       "https://arstechnica.com/security/2024/09/cops-bust-website-crooks-used-to-unlock-1-2-million-stolen-mobile-phones/"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 13:50:07",
-      "https://news.ycombinator.com/item?id=41626069"
-    ],
-    [
-      "IBM and NASA Release OS Model for Weather and Climate Applications",
-      "https://newsroom.ibm.com/2024-09-23-ibm-and-nasa-release-open-source-ai-model-on-hugging-face-for-weather-and-climate-applications"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps",
       "https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 12:46:15",
+      "https://news.ycombinator.com/item?id=41625456"
+    ],
+    [
+      "NeRF-Supervised Feature Point Detection and Description",
+      "https://arxiv.org/abs/2403.08156"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2024-09-22, 16:32:23",
-      "https://news.ycombinator.com/item?id=41618128"
-    ],
-    [
-      "A Retrospective on the Oils Project",
-      "https://www.oilshell.org/blog/2024/09/retrospective.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 14:43:02",
-      "https://news.ycombinator.com/item?id=41617431"
-    ],
-    [
-      "Hy 1.0 – Lisp dialect for Python",
-      "https://github.com/hylang/hy/discussions/2608"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 13:43:21",
       "https://news.ycombinator.com/item?id=41617021"
     ],
@@ -287,16 +297,6 @@
     [
       "Tiny Tapeout VGA Playground",
       "https://tinytapeout.github.io/vga-playground/"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 11:46:17",
-      "https://news.ycombinator.com/item?id=41578516"
-    ],
-    [
-      "HTTP: , FTP:, and Dict:?",
-      "https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/"
     ]
   ]
 ]
