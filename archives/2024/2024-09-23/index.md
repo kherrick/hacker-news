@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 16:26:56](https://news.ycombinator.com/item?id=41627806) - [Today's satellite view of fires in southern Lebanon](https://firms.modaps.eosdis.nasa.gov/map/#d:today;@35.37,33.17,10.66z)
+* [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
+* [2024-09-23, 16:22:09](https://news.ycombinator.com/item?id=41627754) - [David Graeber and David Wengrow: Flesh and Blood (2021)](https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
 * [2024-09-23, 14:24:19](https://news.ycombinator.com/item?id=41626468) - [Mozilla removes ad-tracking code from Firefox](https://adguard.com/en/blog/mozilla-firefox-ad-tracking-adjust-sdk.html)
 * [2024-09-23, 13:56:56](https://news.ycombinator.com/item?id=41626133) - [Ever wonder how crooks get the credentials to unlock stolen phones?](https://arstechnica.com/security/2024/09/cops-bust-website-crooks-used-to-unlock-1-2-million-stolen-mobile-phones/)
@@ -13,6 +16,7 @@
 * [2024-09-23, 13:46:42](https://news.ycombinator.com/item?id=41626035) - [YouTube Premium is getting a big price hike internationally](https://www.androidpolice.com/youtube-premium-getting-big-price-hike-internationally/)
 * [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
+* [2024-09-23, 12:46:15](https://news.ycombinator.com/item?id=41625456) - [NeRF-Supervised Feature Point Detection and Description](https://arxiv.org/abs/2403.08156)
 * [2024-09-23, 12:42:49](https://news.ycombinator.com/item?id=41625439) - [Linux Preparing Support for the RISC-V Framework Laptop 13](https://www.phoronix.com/news/Linux-DT-Framework-13-RISC-V)
 * [2024-09-23, 12:37:45](https://news.ycombinator.com/item?id=41625402) - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)
 * [2024-09-23, 12:17:27](https://news.ycombinator.com/item?id=41625285) - [Table Extraction Using LLMs](https://nanonets.com/blog/table-extraction-using-llms-unlocking-structured-data-from-documents/)
