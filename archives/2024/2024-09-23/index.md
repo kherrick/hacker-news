@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 22:49:57](https://news.ycombinator.com/item?id=41631412) - [Crypto scammers hack OpenAI's press account on X](https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/)
 * [2024-09-23, 22:11:56](https://news.ycombinator.com/item?id=41631130) - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
 * [2024-09-23, 21:48:56](https://news.ycombinator.com/item?id=41630962) - [Major Toronto Utility Company Stores Customers' Passwords in Plain Text](https://old.reddit.com/r/toronto/comments/1fnqw0c/psa_toronto_hydro_is_able_to_see_your_login/)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
