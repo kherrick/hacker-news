@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-23, 13:46:42",
-      "https://news.ycombinator.com/item?id=41626035"
-    ],
-    [
-      "YouTube Premium is getting a big price hike internationally",
-      "https://www.androidpolice.com/youtube-premium-getting-big-price-hike-internationally/"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 13:31:40",
       "https://news.ycombinator.com/item?id=41625903"
     ],
@@ -31,12 +21,22 @@
   ],
   [
     [
-      "2024-09-23, 12:13:39",
-      "https://news.ycombinator.com/item?id=41625258"
+      "2024-09-23, 12:42:49",
+      "https://news.ycombinator.com/item?id=41625439"
     ],
     [
-      "The Problems That Google Docs Never Solved",
-      "https://amistrongeryet.substack.com/p/the-problem-with-google-docs"
+      "Linux Preparing Support for the RISC-V Framework Laptop 13",
+      "https://www.phoronix.com/news/Linux-DT-Framework-13-RISC-V"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 12:17:27",
+      "https://news.ycombinator.com/item?id=41625285"
+    ],
+    [
+      "Table Extraction Using LLMs",
+      "https://nanonets.com/blog/table-extraction-using-llms-unlocking-structured-data-from-documents/"
     ]
   ],
   [
@@ -61,22 +61,42 @@
   ],
   [
     [
-      "2024-09-23, 07:18:34",
-      "https://news.ycombinator.com/item?id=41623251"
+      "2024-09-23, 10:34:54",
+      "https://news.ycombinator.com/item?id=41624510"
     ],
     [
-      "How the iPhone 16's electrically-released adhesive works",
-      "https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16"
+      "Overview of cross-architecture portability problems",
+      "https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/"
     ]
   ],
   [
     [
-      "2024-09-23, 05:39:32",
-      "https://news.ycombinator.com/item?id=41622653"
+      "2024-09-23, 07:51:26",
+      "https://news.ycombinator.com/item?id=41623467"
     ],
     [
-      "A terrible way to jump into colocating your own stuff",
-      "http://rachelbythebay.com/w/2024/09/22/colo/"
+      "I Designed a Dieter Rams Inspired iPhone Dock",
+      "https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 05:26:05",
+      "https://news.ycombinator.com/item?id=41622601"
+    ],
+    [
+      "Rust panics under the hood, and implementing them in .NET",
+      "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 04:36:59",
+      "https://news.ycombinator.com/item?id=41622419"
+    ],
+    [
+      "Alan Turing's 1950 manual for the Mark I electronic computer [pdf]",
+      "https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf"
     ]
   ],
   [
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2024-09-22, 23:24:34",
-      "https://news.ycombinator.com/item?id=41620955"
+      "2024-09-23, 00:11:20",
+      "https://news.ycombinator.com/item?id=41621191"
     ],
     [
-      "Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR",
-      "https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/"
+      "If AI is helping people code better, why aren't products getting better?",
+      "https://news.ycombinator.com/item?id=41621191"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Mathematicians discover new class of shape seen throughout nature",
       "https://www.nature.com/articles/d41586-024-03099-6"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 17:30:55",
-      "https://news.ycombinator.com/item?id=41618505"
-    ],
-    [
-      "Does “building in public” work?",
-      "https://laike9m.com/blog/no-one-builds-in-public,160/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Compiling to Assembly from Scratch",
       "https://keleshev.com/compiling-to-assembly-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 04:39:37",
-      "https://news.ycombinator.com/item?id=41614663"
-    ],
-    [
-      "Flappy Bird for Android, only C, under 100KB",
-      "https://github.com/VadimBoev/FlappyBird"
     ]
   ],
   [
