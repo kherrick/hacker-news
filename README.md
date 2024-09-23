@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-23, 16:26:56](https://news.ycombinator.com/item?id=41627806) - [Today's satellite view of fires in southern Lebanon](https://firms.modaps.eosdis.nasa.gov/map/#d:today;@35.37,33.17,10.66z)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
 * [2024-09-23, 16:22:09](https://news.ycombinator.com/item?id=41627754) - [David Graeber and David Wengrow: Flesh and Blood (2021)](https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
@@ -22,6 +21,7 @@
 * [2024-09-22, 20:33:18](https://news.ycombinator.com/item?id=41619833) - [Visualizing Ship Movements with AIS Data](https://www.beautifulpublicdata.com/visualizing-ship-movements-with-ais-data/)
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
+* [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
