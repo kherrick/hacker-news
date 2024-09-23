@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-23, 10:52:51](https://news.ycombinator.com/item?id=41624631) - [Amazon says workers must be in the office. The UK government disagrees](https://www.bbc.co.uk/news/articles/cden9y37e6ro)
 * [2024-09-23, 09:31:05](https://news.ycombinator.com/item?id=41624116) - [AWS claims its cloud faces competition from on-premises IT](https://www.theregister.com/2024/09/17/aws_cma_investigation/)
 * [2024-09-23, 07:59:52](https://news.ycombinator.com/item?id=41623522) - [Hinkley Point C: Building Britain's first nuclear reactor in 30 years](https://www.building.co.uk/buildings/hinkley-point-c-building-britains-first-nuclear-reactor-in-30-years/5130997.article)
 * [2024-09-23, 07:18:34](https://news.ycombinator.com/item?id=41623251) - [How the iPhone 16's electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
@@ -20,14 +21,13 @@
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
-* [2024-09-22, 13:18:43](https://news.ycombinator.com/item?id=41616860) - [Compiling to Assembly from Scratch](https://keleshev.com/compiling-to-assembly-from-scratch)
 * [2024-09-21, 19:36:20](https://news.ycombinator.com/item?id=41612154) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
 * [2024-09-21, 13:14:12](https://news.ycombinator.com/item?id=41609755) - [The Palletrone is a robotic hovercart for moving stuff anywhere](https://spectrum.ieee.org/cargo-drone-2669117300)
 * [2024-09-21, 13:10:33](https://news.ycombinator.com/item?id=41609744) - [The Visualization of Differential Forms (2021)](https://web.tecnico.ulisboa.pt/~ist189623/wordpress/2021/09/08/on-the-visualization-of-differential-forms/)
-* [2024-09-21, 12:04:23](https://news.ycombinator.com/item?id=41609444) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-19, 02:57:28](https://news.ycombinator.com/item?id=41588038) - [It's Okay to Abandon Things](https://netninja.com/2024/02/05/its-okay-to-abandon-things/)
 * [2024-09-18, 15:03:41](https://news.ycombinator.com/item?id=41580619) - [Things I've learned serving on the board of the Python Software Foundation](https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/)
+* [2024-09-18, 13:08:37](https://news.ycombinator.com/item?id=41579268) - [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 * [2024-09-18, 12:55:22](https://news.ycombinator.com/item?id=41579134) - [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
 * [2024-09-18, 11:57:54](https://news.ycombinator.com/item?id=41578619) - [Tiny Tapeout VGA Playground](https://tinytapeout.github.io/vga-playground/)
 
