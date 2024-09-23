@@ -20,6 +20,7 @@
 * [2024-09-22, 20:33:18](https://news.ycombinator.com/item?id=41619833) - [Visualizing Ship Movements with AIS Data](https://www.beautifulpublicdata.com/visualizing-ship-movements-with-ais-data/)
 * [2024-09-22, 20:30:51](https://news.ycombinator.com/item?id=41619808) - [Valve is testing ARM64 support for popular games](https://www.notebookcheck.net/Valve-is-testing-ARM64-support-for-popular-games-sparking-speculations-about-new-future-hardware.891851.0.html)
 * [2024-09-22, 19:54:27](https://news.ycombinator.com/item?id=41619526) - [Ask HN: Is Nextcloud a Great Alternative to Dropbox/Google Drive for Startups?](https://news.ycombinator.com/item?id=41619526)
+* [2024-09-22, 19:53:03](https://news.ycombinator.com/item?id=41619516) - [FOSDEM 2025](https://fosdem.org/2025/)
 * [2024-09-22, 19:00:56](https://news.ycombinator.com/item?id=41619131) - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
 * [2024-09-22, 18:42:56](https://news.ycombinator.com/item?id=41619047) - [Love of cargo bikes is changing how we deliver goods in our cities](https://www.euronews.com/next/2024/09/22/europes-love-affair-with-cargo-bikes-is-changing-how-we-deliver-goods-in-our-cities)
 * [2024-09-22, 18:27:55](https://news.ycombinator.com/item?id=41618926) - [Apple adds feature that tries to \"autocorrect\" file extensions, and fails](https://forum.sublimetext.com/t/sublime-text-started-adding-a-s-to-new-files-very-annoying/73628)
