@@ -65,6 +65,7 @@
 * [2024-09-22, 04:39:37](https://news.ycombinator.com/item?id=41614663) - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 * [2024-09-22, 04:11:47](https://news.ycombinator.com/item?id=41614567) - [Stupid Problems Require Stupid Solutions (Cloudflare Is Breaking My SVGs)](https://www.lloydatkinson.net/posts/2024/stupid-problems-require-stupid-solutions-cloudflare-is-breaking-my-svgs/)
 * [2024-09-22, 03:49:10](https://news.ycombinator.com/item?id=41614490) - [Jeff Geerling – They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
+* [2024-09-22, 03:32:36](https://news.ycombinator.com/item?id=41614435) - [Internet Fridge Poetry](https://playhtml.fun/fridge)
 * [2024-09-22, 03:31:57](https://news.ycombinator.com/item?id=41614434) - [Right-Hegel Meets Left-Hegel](https://www.tabletmag.com/sections/arts-letters/articles/odd-couple-at-the-end-of-history)
 * [2024-09-22, 02:05:38](https://news.ycombinator.com/item?id=41614126) - [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
 * [2024-09-22, 01:04:58](https://news.ycombinator.com/item?id=41613821) - [Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more](https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1)
