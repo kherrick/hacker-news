@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
 * [2024-09-19, 23:56:26](https://news.ycombinator.com/item?id=41597530) - [Caught on camera: Satellite tracker photographs secret spacecraft](https://www.space.com/secret-satellites-caught-on-camera)
+* [2024-09-19, 23:14:16](https://news.ycombinator.com/item?id=41597310) - [Helium Implicated in Weird iPhone Malfunctions](https://arstechnica.com/gadgets/2018/10/helium-implicated-in-weird-iphone-malfunctions/)
 * [2024-09-19, 23:04:42](https://news.ycombinator.com/item?id=41597250) - [Gaining access to anyones browser without them even visiting a website](https://kibty.town/blog/arc/)
 * [2024-09-19, 22:52:07](https://news.ycombinator.com/item?id=41597162) - [3K free SVG icons for popular brands](https://simpleicons.org/)
 * [2024-09-19, 22:00:18](https://news.ycombinator.com/item?id=41596818) - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
