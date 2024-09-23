@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-23, 22:11:56](https://news.ycombinator.com/item?id=41631130) - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
 * [2024-09-23, 21:48:56](https://news.ycombinator.com/item?id=41630962) - [Major Toronto Utility Company Stores Customers' Passwords in Plain Text](https://old.reddit.com/r/toronto/comments/1fnqw0c/psa_toronto_hydro_is_able_to_see_your_login/)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 21:41:24](https://news.ycombinator.com/item?id=41630907) - [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
@@ -11,7 +12,6 @@
 * [2024-09-23, 17:01:15](https://news.ycombinator.com/item?id=41628167) - [The Intelligence Age](https://ia.samaltman.com/)
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
-* [2024-09-23, 16:22:09](https://news.ycombinator.com/item?id=41627754) - [Flesh and Blood (2021)](https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-form floor plan design using differentiable Voronoi diagram](https://github.com/nobuyuki83/floor_plan)
 * [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
