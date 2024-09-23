@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-23, 14:24:19](https://news.ycombinator.com/item?id=41626468) - [Mozilla removes ad-tracking code from Firefox](https://adguard.com/en/blog/mozilla-firefox-ad-tracking-adjust-sdk.html)
 * [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
 * [2024-09-23, 12:42:49](https://news.ycombinator.com/item?id=41625439) - [Linux Preparing Support for the RISC-V Framework Laptop 13](https://www.phoronix.com/news/Linux-DT-Framework-13-RISC-V)
@@ -12,7 +13,6 @@
 * [2024-09-23, 04:36:59](https://news.ycombinator.com/item?id=41622419) - [Alan Turing's 1950 manual for the Mark I electronic computer [pdf]](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf)
 * [2024-09-23, 03:02:55](https://news.ycombinator.com/item?id=41622080) - [Data Science Agent and Code Transformation](https://labs.google.com/code/)
 * [2024-09-23, 01:47:53](https://news.ycombinator.com/item?id=41621680) - [Tesla Transport Protocol over Ethernet (TTPoE)](https://github.com/teslamotors/ttpoe)
-* [2024-09-23, 00:11:20](https://news.ycombinator.com/item?id=41621191) - [If AI is helping people code better, why aren't products getting better?](https://news.ycombinator.com/item?id=41621191)
 * [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 20:56:07](https://news.ycombinator.com/item?id=41620002) - [Coffee Stats – Maximize Caffeine Intake and Get to Bed at Night](https://github.com/Eliya-G/coffee-o-clock)
 * [2024-09-22, 20:33:18](https://news.ycombinator.com/item?id=41619833) - [Visualizing Ship Movements with AIS Data](https://www.beautifulpublicdata.com/visualizing-ship-movements-with-ais-data/)
