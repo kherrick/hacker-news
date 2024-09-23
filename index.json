@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 06:10:31",
+      "https://news.ycombinator.com/item?id=41622774"
+    ],
+    [
+      "iPhone 16 is much easier to repair",
+      "https://www.engadget.com/mobile/smartphones/see-the-iphone-16s-game-changing-battery-removal-process-in-new-ifixit-teardown-213911136.html"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 05:47:36",
       "https://news.ycombinator.com/item?id=41622685"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41622640"
     ],
     [
-      "The elite's war on remote work has nothing to do with productivity",
+      "The war on remote work has nothing to do with productivity",
       "https://www.the-sentinel-intelligence.com/p/heres-why-they-want-you-back-at-the-office-so-bad"
     ]
   ],
@@ -51,21 +61,11 @@
   ],
   [
     [
-      "2024-09-23, 04:28:30",
-      "https://news.ycombinator.com/item?id=41622390"
-    ],
-    [
-      "Ask HN: Create an app that sends an email with some text",
-      "https://news.ycombinator.com/item?id=41622390"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 03:02:55",
       "https://news.ycombinator.com/item?id=41622080"
     ],
     [
-      "LLM Tools from Google Labs – Data Science Agent and Code Transformation",
+      "Data Science Agent and Code Transformation",
       "https://labs.google.com/code/"
     ]
   ],
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-09-22, 20:33:18",
+      "https://news.ycombinator.com/item?id=41619833"
+    ],
+    [
+      "Visualizing Ship Movements with AIS Data",
+      "https://www.beautifulpublicdata.com/visualizing-ship-movements-with-ais-data/"
+    ]
+  ],
+  [
+    [
       "2024-09-22, 20:30:51",
       "https://news.ycombinator.com/item?id=41619808"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2024-09-22, 19:00:56",
-      "https://news.ycombinator.com/item?id=41619131"
+      "2024-09-22, 17:56:20",
+      "https://news.ycombinator.com/item?id=41618685"
     ],
     [
-      "Desktop Windowing on Android Tablets",
-      "https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html"
+      "Mathematicians discover new class of shape seen throughout nature",
+      "https://www.nature.com/articles/d41586-024-03099-6"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Rawdrawandroid – Build Android apps without any Java, in C and Make",
       "https://github.com/cnlohr/rawdrawandroid"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 13:18:43",
-      "https://news.ycombinator.com/item?id=41616860"
-    ],
-    [
-      "Compiling to Assembly from Scratch",
-      "https://keleshev.com/compiling-to-assembly-from-scratch"
     ]
   ],
   [
