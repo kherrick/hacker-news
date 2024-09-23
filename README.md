@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-23, 11:08:47](https://news.ycombinator.com/item?id=41624741) - [Guiding principles: How US dietary guidelines contribute to obesity](https://thehill.com/opinion/4891813-robert-kennedy-jr-chronic-disease/)
 * [2024-09-23, 10:52:51](https://news.ycombinator.com/item?id=41624631) - [Amazon says workers must be in the office. The UK government disagrees](https://www.bbc.co.uk/news/articles/cden9y37e6ro)
 * [2024-09-23, 09:31:05](https://news.ycombinator.com/item?id=41624116) - [AWS claims its cloud faces competition from on-premises IT](https://www.theregister.com/2024/09/17/aws_cma_investigation/)
 * [2024-09-23, 07:59:52](https://news.ycombinator.com/item?id=41623522) - [Hinkley Point C: Building Britain's first nuclear reactor in 30 years](https://www.building.co.uk/buildings/hinkley-point-c-building-britains-first-nuclear-reactor-in-30-years/5130997.article)
 * [2024-09-23, 07:18:34](https://news.ycombinator.com/item?id=41623251) - [How the iPhone 16's electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
 * [2024-09-23, 05:47:36](https://news.ycombinator.com/item?id=41622685) - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
-* [2024-09-23, 05:39:32](https://news.ycombinator.com/item?id=41622653) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 * [2024-09-23, 05:33:45](https://news.ycombinator.com/item?id=41622632) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 * [2024-09-23, 03:02:55](https://news.ycombinator.com/item?id=41622080) - [Data Science Agent and Code Transformation](https://labs.google.com/code/)
 * [2024-09-23, 01:48:55](https://news.ycombinator.com/item?id=41621688) - [One Year of Rust in Production](https://yieldcode.blog/post/one-year-of-rust-in-production/)
