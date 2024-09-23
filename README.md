@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-23, 21:48:56](https://news.ycombinator.com/item?id=41630962) - [Major Toronto Utility Company Stores Customers' Passwords in Plain Text](https://old.reddit.com/r/toronto/comments/1fnqw0c/psa_toronto_hydro_is_able_to_see_your_login/)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 21:41:24](https://news.ycombinator.com/item?id=41630907) - [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
@@ -7,7 +8,6 @@
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
 * [2024-09-23, 19:08:00](https://news.ycombinator.com/item?id=41629474) - [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
 * [2024-09-23, 18:56:44](https://news.ycombinator.com/item?id=41629377) - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
-* [2024-09-23, 18:19:56](https://news.ycombinator.com/item?id=41628983) - [John Cassaday, Award-Winning Comic Book Artist&Creator of Planetary Dies at 52](https://www.nytimes.com/2024/09/18/arts/john-cassaday-dead.html)
 * [2024-09-23, 17:01:15](https://news.ycombinator.com/item?id=41628167) - [The Intelligence Age](https://ia.samaltman.com/)
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
@@ -27,7 +27,7 @@
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
 * [2024-09-19, 02:47:34](https://news.ycombinator.com/item?id=41587983) - [Smart Goose Deterrent System](https://irowbot.duckdns.org:1776/goose/SGDS.html)
-* [2024-09-18, 21:07:39](https://news.ycombinator.com/item?id=41585509) - [The Many Lives of James Lovelock by Jonathan Watts – Man of Many Myths](https://www.theguardian.com/books/article/2024/sep/14/the-many-lives-of-james-lovelock-by-jonathan-watts-man-of-many-myths)
+* [2024-09-18, 21:07:39](https://news.ycombinator.com/item?id=41585509) - [The Many Lives of James Lovelock](https://www.theguardian.com/books/article/2024/sep/14/the-many-lives-of-james-lovelock-by-jonathan-watts-man-of-many-myths)
 * [2024-09-18, 13:08:37](https://news.ycombinator.com/item?id=41579268) - [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 * [2024-09-18, 11:57:54](https://news.ycombinator.com/item?id=41578619) - [Tiny Tapeout VGA Playground](https://tinytapeout.github.io/vga-playground/)
 
