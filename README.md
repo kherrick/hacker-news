@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-23, 12:00:43](https://news.ycombinator.com/item?id=41625154) - [Dot (YC S21) Is Hiring an Engineer to Automate Analytics (Remote)](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
 * [2024-09-23, 11:08:47](https://news.ycombinator.com/item?id=41624741) - [Guiding principles: How US dietary guidelines contribute to obesity](https://thehill.com/opinion/4891813-robert-kennedy-jr-chronic-disease/)
-* [2024-09-23, 10:52:51](https://news.ycombinator.com/item?id=41624631) - [Amazon says workers must be in the office. The UK government disagrees](https://www.bbc.co.uk/news/articles/cden9y37e6ro)
-* [2024-09-23, 09:31:05](https://news.ycombinator.com/item?id=41624116) - [AWS claims its cloud faces competition from on-premises IT](https://www.theregister.com/2024/09/17/aws_cma_investigation/)
 * [2024-09-23, 07:18:34](https://news.ycombinator.com/item?id=41623251) - [How the iPhone 16's electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
 * [2024-09-23, 05:47:36](https://news.ycombinator.com/item?id=41622685) - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
 * [2024-09-23, 05:33:45](https://news.ycombinator.com/item?id=41622632) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
@@ -17,6 +16,7 @@
 * [2024-09-22, 20:56:07](https://news.ycombinator.com/item?id=41620002) - [Coffee Stats – Maximize Caffeine Intake and Get to Bed at Night](https://github.com/Eliya-G/coffee-o-clock)
 * [2024-09-22, 20:33:18](https://news.ycombinator.com/item?id=41619833) - [Visualizing Ship Movements with AIS Data](https://www.beautifulpublicdata.com/visualizing-ship-movements-with-ais-data/)
 * [2024-09-22, 17:56:20](https://news.ycombinator.com/item?id=41618685) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
+* [2024-09-22, 17:30:55](https://news.ycombinator.com/item?id=41618505) - [Does “building in public” work?](https://laike9m.com/blog/no-one-builds-in-public,160/)
 * [2024-09-22, 17:13:42](https://news.ycombinator.com/item?id=41618389) - [Intel's Redwood Cove: Baby Steps Are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 12:00:43](https://news.ycombinator.com/item?id=41625154) - [Dot (YC S21) Is Hiring an Engineer to Automate Analytics (Remote)](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
 * [2024-09-23, 11:08:47](https://news.ycombinator.com/item?id=41624741) - [Guiding principles: How US dietary guidelines contribute to obesity](https://thehill.com/opinion/4891813-robert-kennedy-jr-chronic-disease/)
 * [2024-09-23, 10:52:51](https://news.ycombinator.com/item?id=41624631) - [Amazon says workers must be in the office. The UK government disagrees](https://www.bbc.co.uk/news/articles/cden9y37e6ro)
 * [2024-09-23, 09:31:05](https://news.ycombinator.com/item?id=41624116) - [AWS claims its cloud faces competition from on-premises IT](https://www.theregister.com/2024/09/17/aws_cma_investigation/)
