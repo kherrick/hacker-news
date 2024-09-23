@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 07:59:52](https://news.ycombinator.com/item?id=41623522) - [Hinkley Point C: Building Britain's first nuclear reactor in 30 years](https://www.building.co.uk/buildings/hinkley-point-c-building-britains-first-nuclear-reactor-in-30-years/5130997.article)
 * [2024-09-23, 07:18:34](https://news.ycombinator.com/item?id=41623251) - [How the iPhone 16's electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
 * [2024-09-23, 06:10:31](https://news.ycombinator.com/item?id=41622774) - [iPhone 16 is much easier to repair](https://www.engadget.com/mobile/smartphones/see-the-iphone-16s-game-changing-battery-removal-process-in-new-ifixit-teardown-213911136.html)
 * [2024-09-23, 05:47:36](https://news.ycombinator.com/item?id=41622685) - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
