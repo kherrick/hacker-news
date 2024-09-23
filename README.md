@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-23, 17:30:25](https://news.ycombinator.com/item?id=41628481) - [It's Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
-* [2024-09-23, 17:06:12](https://news.ycombinator.com/item?id=41628225) - [Honey, YouTubers Are Poisoning the Kids](https://www.trend-mill.com/p/honey-youtubers-are-poisoning-the)
 * [2024-09-23, 17:01:15](https://news.ycombinator.com/item?id=41628167) - [The Intelligence Age](https://ia.samaltman.com/)
+* [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
 * [2024-09-23, 13:49:31](https://news.ycombinator.com/item?id=41626063) - [Show HN: Interactive map of the convenience store \"turf war\" in Japan](https://conbini.kikkia.dev)
