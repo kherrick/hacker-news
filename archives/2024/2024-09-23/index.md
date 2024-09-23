@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 13:46:42](https://news.ycombinator.com/item?id=41626035) - [YouTube Premium is getting a big price hike internationally](https://www.androidpolice.com/youtube-premium-getting-big-price-hike-internationally/)
+* [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
+* [2024-09-23, 12:13:39](https://news.ycombinator.com/item?id=41625258) - [The Problems That Google Docs Never Solved](https://amistrongeryet.substack.com/p/the-problem-with-google-docs)
 * [2024-09-23, 12:00:43](https://news.ycombinator.com/item?id=41625154) - [Dot (YC S21) Is Hiring an Engineer to Automate Analytics (Remote)](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
 * [2024-09-23, 11:19:37](https://news.ycombinator.com/item?id=41624827) - [Autocracy and Stagnation: How Imperial Exams Shaped China's Destiny](https://www.chinatalk.media/p/autocracy-and-stagnation-how-imperial)
 * [2024-09-23, 11:08:47](https://news.ycombinator.com/item?id=41624741) - [Guiding principles: How US dietary guidelines contribute to obesity](https://thehill.com/opinion/4891813-robert-kennedy-jr-chronic-disease/)

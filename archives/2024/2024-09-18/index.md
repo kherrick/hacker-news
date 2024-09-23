@@ -26,6 +26,7 @@
 * [2024-09-18, 18:31:12](https://news.ycombinator.com/item?id=41583725) - [Timothy Snyder on How the Collapse of the Soviet Union Took America by Surprise](https://lithub.com/timothy-snyder-on-how-the-collapse-of-the-soviet-union-took-america-by-surprise/)
 * [2024-09-18, 18:29:12](https://news.ycombinator.com/item?id=41583689) - [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
 * [2024-09-18, 18:27:38](https://news.ycombinator.com/item?id=41583666) - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
+* [2024-09-18, 18:25:46](https://news.ycombinator.com/item?id=41583641) - [Let your mower sing Happy Birthday for your loved ones](https://www.husqvarna.com/au/support/husqvarna-self-service/let-your-mower-sing-happy-birthday-for-your-loved-ones-ka-70127/)
 * [2024-09-18, 18:22:12](https://news.ycombinator.com/item?id=41583605) - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 * [2024-09-18, 17:57:57](https://news.ycombinator.com/item?id=41583276) - [Show HN: GitNotebooks - Jupyter Notebook Review Tool](https://app.gitnotebooks.com/GitNotebooks/demo/pull/1)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
