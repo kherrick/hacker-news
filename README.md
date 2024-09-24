@@ -25,9 +25,9 @@
 * [2024-09-23, 07:51:26](https://news.ycombinator.com/item?id=41623467) - [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 * [2024-09-23, 05:39:32](https://news.ycombinator.com/item?id=41622653) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 * [2024-09-23, 04:36:59](https://news.ycombinator.com/item?id=41622419) - [Alan Turing's 1950 manual for the Mark I electronic computer [pdf]](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf)
-* [2024-09-22, 21:24:07](https://news.ycombinator.com/item?id=41620198) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-21, 13:17:02](https://news.ycombinator.com/item?id=41609771) - [Picking Glibc Versions at Runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 * [2024-09-21, 08:09:27](https://news.ycombinator.com/item?id=41608405) - [A brief look at the new Kamal Proxy](https://nts.strzibny.name/kamal-proxy/)
+* [2024-09-20, 16:02:29](https://news.ycombinator.com/item?id=41603270) - [Compress JPG: The Image Compressor That Lets You Compress Images Securely](https://compressjpg.io/)
 * [2024-09-20, 02:43:46](https://news.ycombinator.com/item?id=41598330) - [Cache Me Not, Cache Me, Cache Me Not](https://hazelweakly.me/blog/cache-me-not-cache-me-cache-me-not/)
 * [2024-09-19, 20:28:39](https://news.ycombinator.com/item?id=41596078) - [Scientists who laid groundwork for weight-loss drugs win Lasker medical award](https://www.washingtonpost.com/health/2024/09/19/weight-loss-drugs-scientists-discovery-lasker-award/)
 
