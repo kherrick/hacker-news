@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 18:36:22](https://news.ycombinator.com/item?id=41639589) - [\"Creounity Time Machine\", the universal date converter for coin collectors](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
 * [2024-09-24, 17:27:49](https://news.ycombinator.com/item?id=41638885) - [45 years ago CompuServe connected the world before the World Wide Web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
 * [2024-09-24, 17:14:30](https://news.ycombinator.com/item?id=41638738) - [Euripedes Unbound](https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound)
 * [2024-09-24, 17:02:24](https://news.ycombinator.com/item?id=41638581) - [GSoC'24: Differentiable Logic for Interactive Systems and Generative Music](https://ijc8.me/2024/08/26/gsoc-difflogic/)
