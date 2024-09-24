@@ -7,6 +7,7 @@
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 14:19:38](https://news.ycombinator.com/item?id=41636735) - [Will A.I. Be a Bust? A Wall Street Skeptic Rings the Alarm](https://www.nytimes.com/2024/09/23/technology/ai-jim-covello-goldman-sachs.html)
 * [2024-09-24, 13:55:30](https://news.ycombinator.com/item?id=41636491) - [Evan Prodromou Launches the Social Web Foundation](https://wedistribute.org/2024/09/social-web-foundation-launch/)
+* [2024-09-24, 13:27:08](https://news.ycombinator.com/item?id=41636226) - [Blue Origin has ignited an orbital rocket stage](https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/)
 * [2024-09-24, 13:06:35](https://news.ycombinator.com/item?id=41636070) - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
 * [2024-09-24, 13:02:30](https://news.ycombinator.com/item?id=41636038) - [Halide rejected from App Store because it doesn't explain why it takes photos](https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos/)
 * [2024-09-24, 12:55:12](https://news.ycombinator.com/item?id=41635991) - [Several people detained in Switzerland over death in a 'suicide capsule'](https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0)
