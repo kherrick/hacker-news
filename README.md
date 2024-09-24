@@ -8,7 +8,7 @@
 * [2024-09-24, 02:57:47](https://news.ycombinator.com/item?id=41632719) - [Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
 * [2024-09-24, 02:07:31](https://news.ycombinator.com/item?id=41632469) - [Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings](https://ieeexplore.ieee.org/document/9415699)
 * [2024-09-24, 02:05:46](https://news.ycombinator.com/item?id=41632460) - [Dumped orange peel transformed a barren pasture (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
-* [2024-09-24, 00:47:46](https://news.ycombinator.com/item?id=41632048) - [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/)
+* [2024-09-24, 00:35:41](https://news.ycombinator.com/item?id=41631982) - [What Is Io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
 * [2024-09-24, 00:21:58](https://news.ycombinator.com/item?id=41631912) - [WP Engine sent \"cease and desist\" letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
 * [2024-09-23, 22:11:56](https://news.ycombinator.com/item?id=41631130) - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
