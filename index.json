@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-24, 19:26:03",
+      "https://news.ycombinator.com/item?id=41640005"
+    ],
+    [
+      "Beyond the route: Introducing granular MTA bus speed data",
+      "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 19:23:41",
+      "https://news.ycombinator.com/item?id=41639980"
+    ],
+    [
+      "Death of the Department Store",
+      "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
+    ]
+  ],
+  [
+    [
       "2024-09-24, 19:03:11",
       "https://news.ycombinator.com/item?id=41639794"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-09-23, 21:42:26",
-      "https://news.ycombinator.com/item?id=41630913"
-    ],
-    [
-      "We fine-tuned Llama 405B on AMD GPUs",
-      "https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey)"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 19:08:14",
       "https://news.ycombinator.com/item?id=41629475"
     ],
@@ -227,26 +237,6 @@
     [
       "Show HN: I Wrote a Book on Java",
       "https://news.ycombinator.com/item?id=41629377"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 16:25:00",
-      "https://news.ycombinator.com/item?id=41627787"
-    ],
-    [
-      "What, Me Worry? The Art and Humor of Mad Magazine",
-      "https://www.nrm.org/2024/08/mad/"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 16:06:03",
-      "https://news.ycombinator.com/item?id=41627549"
-    ],
-    [
-      "Free-form floor plan design using differentiable Voronoi diagram",
-      "https://github.com/nobuyuki83/floor_plan"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Neat Randomized Algorithms: RandDiag for Rapidly Diagonalizing Normal Matrices",
       "https://www.ethanepperly.com/index.php/2024/07/02/neat-randomized-algorithms-randdiag-for-rapidly-diagonalizing-normal-matrices/"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 07:10:49",
+      "https://news.ycombinator.com/item?id=41599579"
+    ],
+    [
+      "Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys",
+      "https://github.com/vshymanskyy/wasm2mpy"
     ]
   ],
   [
