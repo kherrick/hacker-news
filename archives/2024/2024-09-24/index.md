@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 07:12:19](https://news.ycombinator.com/item?id=41633899) - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
+* [2024-09-24, 07:10:11](https://news.ycombinator.com/item?id=41633882) - [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
 * [2024-09-24, 06:31:35](https://news.ycombinator.com/item?id=41633630) - [X will soon make your public posts visible to accounts you've blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
 * [2024-09-24, 06:31:10](https://news.ycombinator.com/item?id=41633626) - [The Environmental Toll of a Single ChatGPT Query Is Absolutely Wild](https://futurism.com/the-byte/environment-openai-chatgpt)
+* [2024-09-24, 06:18:13](https://news.ycombinator.com/item?id=41633574) - [It's Now Officially Illegal to Use AI to Impersonate a Human Actor in Hollywood](https://futurism.com/the-byte/california-illegal-ai-impersonate-actor)
 * [2024-09-24, 05:39:27](https://news.ycombinator.com/item?id=41633400) - [Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 05:13:04](https://news.ycombinator.com/item?id=41633268) - [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
 * [2024-09-24, 04:57:03](https://news.ycombinator.com/item?id=41633196) - [Typhoid spreads in Pakistan as antibiotics fail](https://www.theguardian.com/global-development/2024/sep/24/drug-resistant-typhoid-disease-pakistan-antibiotics-superbugs-children)
