@@ -20,6 +20,7 @@
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 * [2024-09-23, 20:05:47](https://news.ycombinator.com/item?id=41629916) - [What I've Learned in the Past Year Spent Building an AI Video Editor](https://www.makeartwithpython.com/blog/a-year-of-showing-up/)
 * [2024-09-23, 19:52:38](https://news.ycombinator.com/item?id=41629811) - [Anime Is Eating the World](https://a16z.com/anime-is-eating-the-world/)
+* [2024-09-23, 19:37:57](https://news.ycombinator.com/item?id=41629698) - [The Python Package Index Should Get Rid of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
 * [2024-09-23, 19:28:35](https://news.ycombinator.com/item?id=41629620) - [Telegram will now hand over phone number and IP for criminal suspects](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
 * [2024-09-23, 19:08:00](https://news.ycombinator.com/item?id=41629474) - [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
