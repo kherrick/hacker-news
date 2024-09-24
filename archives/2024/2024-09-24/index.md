@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 16:24:14](https://news.ycombinator.com/item?id=41638208) - [Louisiana doctors win big lawsuit against Blue Cross Blue Shield](https://www.wwltv.com/article/news/local/louisiana-doctors-win-big-lawsuit-against-blue-cross-blue-shield/289-d139c676-58ee-4f2c-993c-ba4c59517c7a)
+* [2024-09-24, 16:15:41](https://news.ycombinator.com/item?id=41638137) - [Natural Gas Company Said It Was Going Green but Still Sells as Much Fossil Fuel](https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel)
+* [2024-09-24, 16:13:09](https://news.ycombinator.com/item?id=41638114) - [Google wins challenge against $1.7B EU competition fine](https://www.cnn.com/2024/09/18/tech/google-wins-eu-antitrust-fine/index.html)
+* [2024-09-24, 16:08:38](https://news.ycombinator.com/item?id=41638068) - [Two new Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more](https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/)
 * [2024-09-24, 15:33:46](https://news.ycombinator.com/item?id=41637658) - [Intel Xeon 6900P Reasserts Intel Server Leadership](https://www.servethehome.com/welcome-back-intel-xeon-6900p-reasserts-intel-server-leadership/)
 * [2024-09-24, 15:14:01](https://news.ycombinator.com/item?id=41637409) - [Is There Any Safe Place to Complain About Work Online?](https://www.wsj.com/tech/personal-tech/slack-teams-google-chat-is-there-any-safe-place-to-complain-about-work-online-d1e26bb2)
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
