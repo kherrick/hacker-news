@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 07:28:29](https://news.ycombinator.com/item?id=41634007) - [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
+* [2024-09-24, 07:12:45](https://news.ycombinator.com/item?id=41633904) - [Matrix.org Breaks Federation: Users Can't Decrypt Messages from Other Servers](https://github.com/matrix-org/matrix.org/issues/2483)
 * [2024-09-24, 07:12:19](https://news.ycombinator.com/item?id=41633899) - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
 * [2024-09-24, 07:10:11](https://news.ycombinator.com/item?id=41633882) - [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
 * [2024-09-24, 06:31:35](https://news.ycombinator.com/item?id=41633630) - [X will soon make your public posts visible to accounts you've blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)

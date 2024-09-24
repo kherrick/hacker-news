@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-24, 07:28:29](https://news.ycombinator.com/item?id=41634007) - [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
+* [2024-09-24, 07:12:45](https://news.ycombinator.com/item?id=41633904) - [Matrix.org Breaks Federation: Users Can't Decrypt Messages from Other Servers](https://github.com/matrix-org/matrix.org/issues/2483)
 * [2024-09-24, 07:12:19](https://news.ycombinator.com/item?id=41633899) - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
 * [2024-09-24, 07:10:11](https://news.ycombinator.com/item?id=41633882) - [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
-* [2024-09-24, 06:31:35](https://news.ycombinator.com/item?id=41633630) - [X will soon make your public posts visible to accounts you've blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
 * [2024-09-24, 06:18:13](https://news.ycombinator.com/item?id=41633574) - [It's Now Officially Illegal to Use AI to Impersonate a Human Actor in Hollywood](https://futurism.com/the-byte/california-illegal-ai-impersonate-actor)
 * [2024-09-24, 05:39:27](https://news.ycombinator.com/item?id=41633400) - [Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 05:13:04](https://news.ycombinator.com/item?id=41633268) - [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
@@ -10,7 +11,6 @@
 * [2024-09-24, 04:43:30](https://news.ycombinator.com/item?id=41633155) - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
 * [2024-09-24, 03:16:10](https://news.ycombinator.com/item?id=41632823) - [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
 * [2024-09-24, 02:57:47](https://news.ycombinator.com/item?id=41632719) - [Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
-* [2024-09-24, 02:07:31](https://news.ycombinator.com/item?id=41632469) - [Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings](https://ieeexplore.ieee.org/document/9415699)
 * [2024-09-24, 02:05:46](https://news.ycombinator.com/item?id=41632460) - [Dumped orange peel transformed a barren pasture (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2024-09-24, 00:35:41](https://news.ycombinator.com/item?id=41631982) - [What Is Io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
 * [2024-09-23, 22:11:56](https://news.ycombinator.com/item?id=41631130) - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
