@@ -6,6 +6,7 @@
 
 * [2024-09-24, 22:17:02](https://news.ycombinator.com/item?id=41641560) - [The White Collar Apocalypse Is Nigh](https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh/)
 * [2024-09-24, 22:13:03](https://news.ycombinator.com/item?id=41641522) - [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
+* [2024-09-24, 22:10:27](https://news.ycombinator.com/item?id=41641495) - [Ethernet in 17 lines of Spade [video]](https://www.youtube.com/watch?v=0a8P0NLYPWA)
 * [2024-09-24, 21:45:50](https://news.ycombinator.com/item?id=41641274) - [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 * [2024-09-24, 21:12:10](https://news.ycombinator.com/item?id=41640953) - [Missouri is about to execute a man even the prosecution believes is innocent](https://www.cnn.com/2024/09/24/us/marcellus-williams-scheduled-execution-date/index.html)
 * [2024-09-24, 21:10:59](https://news.ycombinator.com/item?id=41640941) - [$1B Solar and Battery Storage Project Breaks Ground in Utah](https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/)
@@ -16,6 +17,7 @@
 * [2024-09-24, 20:45:13](https://news.ycombinator.com/item?id=41640734) - [My Camera Will Never Overheat Again [video]](https://www.youtube.com/watch?v=IpzBdVeJ_jo)
 * [2024-09-24, 20:40:37](https://news.ycombinator.com/item?id=41640690) - [Mental-1, a Brainfuck CPU](https://hackaday.io/project/4237-mental-1-a-brainfuck-cpu)
 * [2024-09-24, 20:16:59](https://news.ycombinator.com/item?id=41640458) - [Star FTX Witness Caroline Ellison Sentenced to Two Years in Prison](https://www.wsj.com/finance/currencies/ftx-trial-caroline-ellison-sentencing-cc104a84)
+* [2024-09-24, 20:10:08](https://news.ycombinator.com/item?id=41640388) - [Rotation-Based Compression](https://www.winstoncooke.com/blog/rotation-based-compression)
 * [2024-09-24, 19:26:03](https://news.ycombinator.com/item?id=41640005) - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
 * [2024-09-24, 19:23:41](https://news.ycombinator.com/item?id=41639980) - [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
 * [2024-09-24, 19:03:11](https://news.ycombinator.com/item?id=41639794) - [Intel's Core Ultra 2 Chip Posts Nearly 24-Hour Battery Life in Lunar Lake](https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24)
