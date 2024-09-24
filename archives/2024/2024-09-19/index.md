@@ -56,6 +56,7 @@
 * [2024-09-19, 13:25:15](https://news.ycombinator.com/item?id=41591622) - [Pivotal Tracker will shut down](https://www.pivotaltracker.com/blog/2024-09-18-end-of-life)
 * [2024-09-19, 13:16:42](https://news.ycombinator.com/item?id=41591560) - [Support for IPv6](https://www.backblaze.com/blog/announcing-support-for-ipv6/)
 * [2024-09-19, 13:12:56](https://news.ycombinator.com/item?id=41591527) - [Biggest ever seen black hole jets; blasting plasma well beyond their own galaxy](https://phys.org/news/2024-09-astronomers-biggest-black-hole-jets.html)
+* [2024-09-19, 13:10:14](https://news.ycombinator.com/item?id=41591505) - [America's oldest tombstone came from Belgium and belonged to an English knight](https://phys.org/news/2024-09-reveals-america-oldest-tombstone-belgium.html)
 * [2024-09-19, 13:04:21](https://news.ycombinator.com/item?id=41591449) - [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
 * [2024-09-19, 12:58:18](https://news.ycombinator.com/item?id=41591399) - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
 * [2024-09-19, 12:51:51](https://news.ycombinator.com/item?id=41591341) - [Pieter's Official Homepage on the World Wide Web](https://pieter.com)

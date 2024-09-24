@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-24, 06:31:35](https://news.ycombinator.com/item?id=41633630) - [X will soon make your public posts visible to accounts you've blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
+* [2024-09-24, 06:31:10](https://news.ycombinator.com/item?id=41633626) - [The Environmental Toll of a Single ChatGPT Query Is Absolutely Wild](https://futurism.com/the-byte/environment-openai-chatgpt)
 * [2024-09-24, 05:39:27](https://news.ycombinator.com/item?id=41633400) - [Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 05:13:04](https://news.ycombinator.com/item?id=41633268) - [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
 * [2024-09-24, 04:57:03](https://news.ycombinator.com/item?id=41633196) - [Typhoid spreads in Pakistan as antibiotics fail](https://www.theguardian.com/global-development/2024/sep/24/drug-resistant-typhoid-disease-pakistan-antibiotics-superbugs-children)
@@ -10,11 +11,9 @@
 * [2024-09-24, 02:07:31](https://news.ycombinator.com/item?id=41632469) - [Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings](https://ieeexplore.ieee.org/document/9415699)
 * [2024-09-24, 02:05:46](https://news.ycombinator.com/item?id=41632460) - [Dumped orange peel transformed a barren pasture (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2024-09-24, 00:35:41](https://news.ycombinator.com/item?id=41631982) - [What Is Io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
-* [2024-09-24, 00:21:58](https://news.ycombinator.com/item?id=41631912) - [WP Engine sent \"cease and desist\" letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
 * [2024-09-23, 22:11:56](https://news.ycombinator.com/item?id=41631130) - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 21:38:09](https://news.ycombinator.com/item?id=41630875) - [Perfect prevention vs. perfect detection](https://www.oliverhill.xyz/detection)
-* [2024-09-23, 20:28:35](https://news.ycombinator.com/item?id=41630140) - [Nintendo Kawaii Progress (Keychain-Sized Nintendo Wii)](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/page-4)
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 * [2024-09-23, 20:05:47](https://news.ycombinator.com/item?id=41629916) - [What I've Learned in the Past Year Spent Building an AI Video Editor](https://www.makeartwithpython.com/blog/a-year-of-showing-up/)
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
@@ -30,6 +29,7 @@
 * [2024-09-21, 12:36:04](https://news.ycombinator.com/item?id=41609578) - [One Collatz Coincidence](https://www.sligocki.com//2024/09/20/collatz-coincidence.html)
 * [2024-09-21, 08:09:27](https://news.ycombinator.com/item?id=41608405) - [A brief look at the new Kamal Proxy](https://nts.strzibny.name/kamal-proxy/)
 * [2024-09-19, 20:28:39](https://news.ycombinator.com/item?id=41596078) - [Scientists who laid groundwork for weight-loss drugs win Lasker medical award](https://www.washingtonpost.com/health/2024/09/19/weight-loss-drugs-scientists-discovery-lasker-award/)
+* [2024-09-19, 13:10:14](https://news.ycombinator.com/item?id=41591505) - [America's oldest tombstone came from Belgium and belonged to an English knight](https://phys.org/news/2024-09-reveals-america-oldest-tombstone-belgium.html)
 
 ## [Archives](archives/index.md)
 
