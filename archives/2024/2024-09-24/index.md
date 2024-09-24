@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 02:05:46](https://news.ycombinator.com/item?id=41632460) - [How 12,000 Tonnes of Dumped Orange Peel Transformed an Ecological Desert](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2024-09-24, 00:38:12](https://news.ycombinator.com/item?id=41631995) - [\"Traffic Violence\": The Grifters Go After Cars](https://albertcory50.substack.com/p/traffic-violence-the-grifters-go)
 * [2024-09-24, 00:21:58](https://news.ycombinator.com/item?id=41631912) - [WP Engine sent \"cease and desist\" letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)

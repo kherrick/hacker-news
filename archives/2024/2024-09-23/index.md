@@ -14,6 +14,7 @@
 * [2024-09-23, 21:41:24](https://news.ycombinator.com/item?id=41630907) - [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
 * [2024-09-23, 20:59:18](https://news.ycombinator.com/item?id=41630482) - [Two in three shoppers won't buy products in locked display cases](https://www.retailbrew.com/stories/2024/09/23/two-in-three-shoppers-won-t-buy-products-in-locked-display-cases)
 * [2024-09-23, 20:46:35](https://news.ycombinator.com/item?id=41630348) - [Positive effects of creatine supplementation on memory in healthy individuals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9999677/)
+* [2024-09-23, 20:28:35](https://news.ycombinator.com/item?id=41630140) - [Nintendo Kawaii Progress (Keychain-Sized Nintendo Wii)](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/page-4)
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 * [2024-09-23, 19:52:38](https://news.ycombinator.com/item?id=41629811) - [Anime Is Eating the World](https://a16z.com/anime-is-eating-the-world/)
 * [2024-09-23, 19:28:35](https://news.ycombinator.com/item?id=41629620) - [Telegram will now hand over phone number and IP for criminal suspects](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
