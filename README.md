@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-24, 00:38:12](https://news.ycombinator.com/item?id=41631995) - [\"Traffic Violence\": The Grifters Go After Cars](https://albertcory50.substack.com/p/traffic-violence-the-grifters-go)
 * [2024-09-24, 00:21:58](https://news.ycombinator.com/item?id=41631912) - [WP Engine sent \"cease and desist\" letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
 * [2024-09-23, 22:11:56](https://news.ycombinator.com/item?id=41631130) - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
 * [2024-09-23, 21:56:35](https://news.ycombinator.com/item?id=41631017) - [Telegram Removes Z-Library Posts 'Due to Copyright Infringement'](https://torrentfreak.com/telegram-removes-z-library-posts-due-to-copyright-infringement-240923/)
@@ -12,7 +13,6 @@
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-form floor plan design using differentiable Voronoi diagram](https://github.com/nobuyuki83/floor_plan)
-* [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
 * [2024-09-23, 12:46:15](https://news.ycombinator.com/item?id=41625456) - [NeRF-Supervised Feature Point Detection and Description](https://arxiv.org/abs/2403.08156)
 * [2024-09-23, 12:37:45](https://news.ycombinator.com/item?id=41625402) - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)
