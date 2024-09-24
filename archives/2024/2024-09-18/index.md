@@ -32,6 +32,7 @@
 * [2024-09-18, 17:57:57](https://news.ycombinator.com/item?id=41583276) - [Show HN: GitNotebooks - Jupyter Notebook Review Tool](https://app.gitnotebooks.com/GitNotebooks/demo/pull/1)
 * [2024-09-18, 17:42:16](https://news.ycombinator.com/item?id=41583062) - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 * [2024-09-18, 17:40:15](https://news.ycombinator.com/item?id=41583028) - [Meta AI: \"The Future of AI Is Open Source and Decentralized\"](https://twitter.com/AIatMeta/status/1834633042339741961)
+* [2024-09-18, 17:22:13](https://news.ycombinator.com/item?id=41582756) - [The Death of LCDs, Means New Life for Chips](https://timculpan.substack.com/p/the-death-of-lcds-means-new-life)
 * [2024-09-18, 17:07:22](https://news.ycombinator.com/item?id=41582539) - [Show HN: I made crowdwave – imagine Twitter/Reddit but every post is a voicemail](https://www.crowdwave.com)
 * [2024-09-18, 17:01:22](https://news.ycombinator.com/item?id=41582461) - [Microplastics in the Olfactory Bulb of the Human Brain](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823787)
 * [2024-09-18, 16:51:59](https://news.ycombinator.com/item?id=41582313) - [Cuba slashes size of daily bread ration as ingredients run thin](https://www.reuters.com/world/americas/cuba-slashes-size-daily-bread-ration-ingredients-run-thin-2024-09-16/)
