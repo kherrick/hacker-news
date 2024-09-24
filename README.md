@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-24, 12:16:35](https://news.ycombinator.com/item?id=41635700) - [Passkey Privacy Issues](https://lapcatsoftware.com/articles/2024/8/8.html)
+* [2024-09-24, 13:02:30](https://news.ycombinator.com/item?id=41636038) - [Halide rejected from App Store because it doesn't explain why it takes photos](https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos/)
+* [2024-09-24, 12:51:35](https://news.ycombinator.com/item?id=41635962) - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
+* [2024-09-24, 11:58:02](https://news.ycombinator.com/item?id=41635583) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
 * [2024-09-24, 10:50:10](https://news.ycombinator.com/item?id=41635176) - [Jetstream: Shrinking the AT Protocol Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
 * [2024-09-24, 10:47:23](https://news.ycombinator.com/item?id=41635166) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
 * [2024-09-24, 10:30:53](https://news.ycombinator.com/item?id=41635088) - [Show HN: An expression parser supporting multiple types](https://github.com/torrentg/expr)
@@ -16,7 +18,6 @@
 * [2024-09-24, 02:05:46](https://news.ycombinator.com/item?id=41632460) - [Dumped orange peel transformed a barren pasture (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 21:38:09](https://news.ycombinator.com/item?id=41630875) - [Perfect prevention vs. perfect detection](https://www.oliverhill.xyz/detection)
-* [2024-09-23, 20:52:30](https://news.ycombinator.com/item?id=41630408) - [A Web-based WYSIWYG editor for automation routines](https://manganiello.social/@fabio/posts/AmJ1i018C0Lt2hCWPY)
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 * [2024-09-23, 20:05:47](https://news.ycombinator.com/item?id=41629916) - [What I've Learned in the Past Year Spent Building an AI Video Editor](https://www.makeartwithpython.com/blog/a-year-of-showing-up/)
 * [2024-09-23, 19:37:57](https://news.ycombinator.com/item?id=41629698) - [The Python Package Index Should Get Rid of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
@@ -25,11 +26,10 @@
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-form floor plan design using differentiable Voronoi diagram](https://github.com/nobuyuki83/floor_plan)
-* [2024-09-23, 12:37:45](https://news.ycombinator.com/item?id=41625402) - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)
 * [2024-09-23, 07:51:26](https://news.ycombinator.com/item?id=41623467) - [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
-* [2024-09-23, 05:39:32](https://news.ycombinator.com/item?id=41622653) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 * [2024-09-21, 13:17:02](https://news.ycombinator.com/item?id=41609771) - [Picking Glibc Versions at Runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 * [2024-09-21, 12:36:04](https://news.ycombinator.com/item?id=41609578) - [One Collatz Coincidence](https://www.sligocki.com//2024/09/20/collatz-coincidence.html)
+* [2024-09-20, 19:14:00](https://news.ycombinator.com/item?id=41604781) - [Coding Font by Typogram – Find Your True Love of Coding Fonts](https://www.codingfont.com/)
 
 ## [Archives](archives/index.md)
 
