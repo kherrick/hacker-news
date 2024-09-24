@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-24, 18:42:08](https://news.ycombinator.com/item?id=41639635) - [DOJ accuses Visa of debit network monopoly, impacts price of 'nearly everything'](https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html)
 * [2024-09-24, 18:36:22](https://news.ycombinator.com/item?id=41639589) - [\"Creounity Time Machine\", the universal date converter for coin collectors](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
 * [2024-09-24, 17:27:49](https://news.ycombinator.com/item?id=41638885) - [45 years ago CompuServe connected the world before the World Wide Web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
 * [2024-09-24, 17:14:30](https://news.ycombinator.com/item?id=41638738) - [Euripedes Unbound](https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound)
@@ -17,7 +18,6 @@
 * [2024-09-24, 08:20:38](https://news.ycombinator.com/item?id=41634356) - [Show HN: JSON For You – Visualize JSON in graph or table views](https://github.com/loggerhead/json4u)
 * [2024-09-24, 08:05:52](https://news.ycombinator.com/item?id=41634268) - [Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
 * [2024-09-24, 04:43:30](https://news.ycombinator.com/item?id=41633155) - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
-* [2024-09-24, 03:16:10](https://news.ycombinator.com/item?id=41632823) - [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
 * [2024-09-24, 02:57:47](https://news.ycombinator.com/item?id=41632719) - [Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
