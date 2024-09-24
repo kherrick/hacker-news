@@ -2,6 +2,7 @@
 
 * [2024-09-24, 10:47:23](https://news.ycombinator.com/item?id=41635166) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
 * [2024-09-24, 08:05:52](https://news.ycombinator.com/item?id=41634268) - [Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
+* [2024-09-24, 07:42:08](https://news.ycombinator.com/item?id=41634119) - [Excel spreadsheet caused network equipment's physical failure](https://twitter.com/lauriewired/status/1838256923428438345)
 * [2024-09-24, 07:10:11](https://news.ycombinator.com/item?id=41633882) - [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
 * [2024-09-24, 04:43:30](https://news.ycombinator.com/item?id=41633155) - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
 * [2024-09-24, 03:16:10](https://news.ycombinator.com/item?id=41632823) - [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
@@ -29,7 +30,6 @@
 * [2024-09-21, 13:17:02](https://news.ycombinator.com/item?id=41609771) - [Picking Glibc Versions at Runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 * [2024-09-21, 12:36:04](https://news.ycombinator.com/item?id=41609578) - [One Collatz Coincidence](https://www.sligocki.com//2024/09/20/collatz-coincidence.html)
 * [2024-09-20, 02:43:46](https://news.ycombinator.com/item?id=41598330) - [Cache Me Not, Cache Me, Cache Me Not](https://hazelweakly.me/blog/cache-me-not-cache-me-cache-me-not/)
-* [2024-09-19, 13:10:14](https://news.ycombinator.com/item?id=41591505) - [America's oldest tombstone came from Belgium and belonged to an English knight](https://phys.org/news/2024-09-reveals-america-oldest-tombstone-belgium.html)
 
 ## [Archives](archives/index.md)
 
