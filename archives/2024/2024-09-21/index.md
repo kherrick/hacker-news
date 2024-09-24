@@ -48,6 +48,7 @@
 * [2024-09-21, 13:10:33](https://news.ycombinator.com/item?id=41609744) - [The Visualization of Differential Forms](https://web.tecnico.ulisboa.pt/~ist189623/wordpress/2021/09/08/on-the-visualization-of-differential-forms/)
 * [2024-09-21, 13:01:07](https://news.ycombinator.com/item?id=41609694) - [Social Initiation](https://socialcommunication.truman.edu/attitudes-emotions/social-initiation/)
 * [2024-09-21, 12:57:11](https://news.ycombinator.com/item?id=41609670) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
+* [2024-09-21, 12:36:04](https://news.ycombinator.com/item?id=41609578) - [One Collatz Coincidence](https://www.sligocki.com//2024/09/20/collatz-coincidence.html)
 * [2024-09-21, 12:18:55](https://news.ycombinator.com/item?id=41609491) - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
 * [2024-09-21, 12:14:54](https://news.ycombinator.com/item?id=41609473) - [Vaporizing plastics recycles them into nothing but gas](https://arstechnica.com/science/2024/09/vaporizing-plastics-recycles-them-into-nothing-but-gas/)
 * [2024-09-21, 12:04:23](https://news.ycombinator.com/item?id=41609444) - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
