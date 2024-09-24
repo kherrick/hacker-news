@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 15:14:01](https://news.ycombinator.com/item?id=41637409) - [Is There Any Safe Place to Complain About Work Online?](https://www.wsj.com/tech/personal-tech/slack-teams-google-chat-is-there-any-safe-place-to-complain-about-work-online-d1e26bb2)
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 14:19:38](https://news.ycombinator.com/item?id=41636735) - [Will A.I. Be a Bust? A Wall Street Skeptic Rings the Alarm](https://www.nytimes.com/2024/09/23/technology/ai-jim-covello-goldman-sachs.html)
 * [2024-09-24, 13:55:30](https://news.ycombinator.com/item?id=41636491) - [Evan Prodromou Launches the Social Web Foundation](https://wedistribute.org/2024/09/social-web-foundation-launch/)
