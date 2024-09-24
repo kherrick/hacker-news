@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 08:05:52](https://news.ycombinator.com/item?id=41634268) - [Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
 * [2024-09-24, 07:43:27](https://news.ycombinator.com/item?id=41634133) - [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
 * [2024-09-24, 07:30:30](https://news.ycombinator.com/item?id=41634025) - [US public schools banned 10k books in most recent academic year](https://www.theguardian.com/us-news/2024/sep/23/pen-book-bans)
+* [2024-09-24, 07:28:53](https://news.ycombinator.com/item?id=41634010) - [Linux boots in 4,76 days on Intel 4004](https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/)
 * [2024-09-24, 07:28:29](https://news.ycombinator.com/item?id=41634007) - [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
 * [2024-09-24, 07:12:45](https://news.ycombinator.com/item?id=41633904) - [Matrix.org Breaks Federation: Users Can't Decrypt Messages from Other Servers](https://github.com/matrix-org/matrix.org/issues/2483)
 * [2024-09-24, 07:12:19](https://news.ycombinator.com/item?id=41633899) - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
