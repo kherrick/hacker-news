@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-24, 19:03:11](https://news.ycombinator.com/item?id=41639794) - [Intel's Core Ultra 2 Chip Posts Nearly 24-Hour Battery Life in Lunar Lake](https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24)
 * [2024-09-24, 18:42:08](https://news.ycombinator.com/item?id=41639635) - [DOJ accuses Visa of debit network monopoly, impacts price of 'nearly everything'](https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html)
 * [2024-09-24, 18:36:22](https://news.ycombinator.com/item?id=41639589) - [\"Creounity Time Machine\", the universal date converter for coin collectors](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
 * [2024-09-24, 17:27:49](https://news.ycombinator.com/item?id=41638885) - [45 years ago CompuServe connected the world before the World Wide Web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
@@ -20,7 +21,6 @@
 * [2024-09-24, 04:43:30](https://news.ycombinator.com/item?id=41633155) - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
 * [2024-09-24, 02:57:47](https://news.ycombinator.com/item?id=41632719) - [Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
-* [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
 * [2024-09-23, 18:56:44](https://news.ycombinator.com/item?id=41629377) - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)

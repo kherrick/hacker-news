@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 19:03:11](https://news.ycombinator.com/item?id=41639794) - [Intel's Core Ultra 2 Chip Posts Nearly 24-Hour Battery Life in Lunar Lake](https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24)
 * [2024-09-24, 18:42:08](https://news.ycombinator.com/item?id=41639635) - [DOJ accuses Visa of debit network monopoly, impacts price of 'nearly everything'](https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html)
 * [2024-09-24, 18:36:22](https://news.ycombinator.com/item?id=41639589) - [\"Creounity Time Machine\", the universal date converter for coin collectors](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
 * [2024-09-24, 17:27:49](https://news.ycombinator.com/item?id=41638885) - [45 years ago CompuServe connected the world before the World Wide Web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
