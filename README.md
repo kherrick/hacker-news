@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-24, 12:16:35](https://news.ycombinator.com/item?id=41635700) - [Passkey Privacy Issues](https://lapcatsoftware.com/articles/2024/8/8.html)
+* [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 10:50:10](https://news.ycombinator.com/item?id=41635176) - [Jetstream: Shrinking the AT Protocol Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
 * [2024-09-24, 10:47:23](https://news.ycombinator.com/item?id=41635166) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
 * [2024-09-24, 10:30:53](https://news.ycombinator.com/item?id=41635088) - [Show HN: An expression parser supporting multiple types](https://github.com/torrentg/expr)
@@ -19,7 +21,6 @@
 * [2024-09-23, 20:05:47](https://news.ycombinator.com/item?id=41629916) - [What I've Learned in the Past Year Spent Building an AI Video Editor](https://www.makeartwithpython.com/blog/a-year-of-showing-up/)
 * [2024-09-23, 19:37:57](https://news.ycombinator.com/item?id=41629698) - [The Python Package Index Should Get Rid of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
-* [2024-09-23, 19:08:00](https://news.ycombinator.com/item?id=41629474) - [Developing a Go bot embedding Ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
 * [2024-09-23, 18:56:44](https://news.ycombinator.com/item?id=41629377) - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
@@ -27,7 +28,6 @@
 * [2024-09-23, 12:37:45](https://news.ycombinator.com/item?id=41625402) - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)
 * [2024-09-23, 07:51:26](https://news.ycombinator.com/item?id=41623467) - [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 * [2024-09-23, 05:39:32](https://news.ycombinator.com/item?id=41622653) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
-* [2024-09-23, 04:36:59](https://news.ycombinator.com/item?id=41622419) - [Alan Turing's 1950 manual for the Mark I electronic computer [pdf]](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf)
 * [2024-09-21, 13:17:02](https://news.ycombinator.com/item?id=41609771) - [Picking Glibc Versions at Runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 * [2024-09-21, 12:36:04](https://news.ycombinator.com/item?id=41609578) - [One Collatz Coincidence](https://www.sligocki.com//2024/09/20/collatz-coincidence.html)
 

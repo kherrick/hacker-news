@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 12:16:35](https://news.ycombinator.com/item?id=41635700) - [Passkey Privacy Issues](https://lapcatsoftware.com/articles/2024/8/8.html)
+* [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 10:50:10](https://news.ycombinator.com/item?id=41635176) - [Jetstream: Shrinking the AT Protocol Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
 * [2024-09-24, 10:47:23](https://news.ycombinator.com/item?id=41635166) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
 * [2024-09-24, 10:30:53](https://news.ycombinator.com/item?id=41635088) - [Show HN: An expression parser supporting multiple types](https://github.com/torrentg/expr)
