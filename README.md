@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-24, 16:23:35](https://news.ycombinator.com/item?id=41638199) - [Launch HN: Modern Realty (YC S24) – AI Realtor for Home Buyers](https://news.ycombinator.com/item?id=41638199)
-* [2024-09-24, 16:15:41](https://news.ycombinator.com/item?id=41638137) - [Natural Gas Company Said It Was Going Green but Still Sells as Much Fossil Fuel](https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel)
+* [2024-09-24, 16:23:35](https://news.ycombinator.com/item?id=41638199) - [Launch HN: Modern Realty (YC S24) – AI Real Estate Agent for Home Buyers](https://news.ycombinator.com/item?id=41638199)
 * [2024-09-24, 16:08:38](https://news.ycombinator.com/item?id=41638068) - [Two new Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more](https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/)
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 13:06:35](https://news.ycombinator.com/item?id=41636070) - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
@@ -17,9 +16,9 @@
 * [2024-09-24, 03:16:10](https://news.ycombinator.com/item?id=41632823) - [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
 * [2024-09-24, 02:57:47](https://news.ycombinator.com/item?id=41632719) - [Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
 * [2024-09-24, 02:07:31](https://news.ycombinator.com/item?id=41632469) - [Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings (2021)](https://ieeexplore.ieee.org/document/9415699)
+* [2024-09-24, 00:21:58](https://news.ycombinator.com/item?id=41631912) - [WP Engine sent “cease and desist” letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 21:41:24](https://news.ycombinator.com/item?id=41630907) - [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
-* [2024-09-23, 21:38:09](https://news.ycombinator.com/item?id=41630875) - [Perfect prevention vs. perfect detection](https://www.oliverhill.xyz/detection)
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 * [2024-09-23, 20:05:47](https://news.ycombinator.com/item?id=41629916) - [What I've Learned in the Past Year Spent Building an AI Video Editor](https://www.makeartwithpython.com/blog/a-year-of-showing-up/)
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
@@ -29,6 +28,7 @@
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-form floor plan design using differentiable Voronoi diagram](https://github.com/nobuyuki83/floor_plan)
 * [2024-09-23, 07:51:26](https://news.ycombinator.com/item?id=41623467) - [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 * [2024-09-21, 12:36:04](https://news.ycombinator.com/item?id=41609578) - [One Collatz Coincidence](https://www.sligocki.com//2024/09/20/collatz-coincidence.html)
+* [2024-09-21, 09:49:38](https://news.ycombinator.com/item?id=41608810) - [Life without Aadhaar digital identity in India](https://www.deccanherald.com/india/life-without-aadhaar-3200235)
 * [2024-09-20, 06:21:15](https://news.ycombinator.com/item?id=41599327) - [Attracting and Retaining Debian Contributors](https://lwn.net/Articles/987548/)
 
 ## [Archives](archives/index.md)

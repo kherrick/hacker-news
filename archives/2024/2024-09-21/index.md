@@ -58,6 +58,7 @@
 * [2024-09-21, 11:49:42](https://news.ycombinator.com/item?id=41609382) - [Remains of Egyptian army barracks and a bronze sword unearthed by archaeologists](https://www.cnn.com/2024/09/17/science/egypt-army-barracks-sword-intl-scli/index.html)
 * [2024-09-21, 10:53:43](https://news.ycombinator.com/item?id=41609127) - [Antarctica's Ozone Hole Is Healing and Set to Recover by 2066](https://www.iflscience.com/antarcticas-ozone-hole-is-healing-and-set-to-recover-fully-by-2066-75983)
 * [2024-09-21, 10:48:35](https://news.ycombinator.com/item?id=41609099) - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
+* [2024-09-21, 09:49:38](https://news.ycombinator.com/item?id=41608810) - [Life without Aadhaar digital identity in India](https://www.deccanherald.com/india/life-without-aadhaar-3200235)
 * [2024-09-21, 09:41:51](https://news.ycombinator.com/item?id=41608785) - [The Eleven Laws of Showrunning [pdf]](http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 09:05:10](https://news.ycombinator.com/item?id=41608637) - [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
