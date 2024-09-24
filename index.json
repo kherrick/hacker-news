@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-09-24, 10:50:10",
+      "https://news.ycombinator.com/item?id=41635176"
+    ],
+    [
+      "Jetstream: Shrinking the AT Protocol Firehose by >99%",
+      "https://jazco.dev/2024/09/24/jetstream/"
+    ]
+  ],
+  [
+    [
       "2024-09-24, 10:47:23",
       "https://news.ycombinator.com/item?id=41635166"
     ],
     [
       "Fully documented source code for Lander on the Acorn Archimedes",
       "https://lander.bbcelite.com/"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 10:30:53",
+      "https://news.ycombinator.com/item?id=41635088"
+    ],
+    [
+      "Show HN: An expression parser supporting multiple types",
+      "https://github.com/torrentg/expr"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 10:30:05",
+      "https://news.ycombinator.com/item?id=41635080"
+    ],
+    [
+      "The Quest to Build a Telescope on the Moon",
+      "https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon"
     ]
   ],
   [
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2024-09-23, 20:28:35",
-      "https://news.ycombinator.com/item?id=41630140"
-    ],
-    [
-      "Nintendo Kawaii Progress (Keychain-Sized Nintendo Wii)",
-      "https://bitbuilt.net/forums/index.php?threads/kawaii.6474/page-4"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 20:22:52",
-      "https://news.ycombinator.com/item?id=41630081"
-    ],
-    [
-      "Where has all the productivity gone? (2021)",
-      "https://www.johndcook.com/blog/2021/07/31/where-has-productivity-gone/"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 20:06:03",
       "https://news.ycombinator.com/item?id=41629923"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2024-09-23, 19:08:00",
+      "https://news.ycombinator.com/item?id=41629474"
+    ],
+    [
+      "Developing a Go bot embedding Ichiban Prolog",
+      "https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 18:56:44",
       "https://news.ycombinator.com/item?id=41629377"
     ],
@@ -217,16 +237,6 @@
     [
       "Free-form floor plan design using differentiable Voronoi diagram",
       "https://github.com/nobuyuki83/floor_plan"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 12:46:15",
-      "https://news.ycombinator.com/item?id=41625456"
-    ],
-    [
-      "NeRF-Supervised Feature Point Detection and Description",
-      "https://arxiv.org/abs/2403.08156"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "One Collatz Coincidence",
       "https://www.sligocki.com//2024/09/20/collatz-coincidence.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 02:43:46",
-      "https://news.ycombinator.com/item?id=41598330"
-    ],
-    [
-      "Cache Me Not, Cache Me, Cache Me Not",
-      "https://hazelweakly.me/blog/cache-me-not-cache-me-cache-me-not/"
     ]
   ]
 ]
