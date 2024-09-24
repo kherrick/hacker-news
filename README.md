@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-24, 15:33:46](https://news.ycombinator.com/item?id=41637658) - [Intel Xeon 6900P Reasserts Intel Server Leadership](https://www.servethehome.com/welcome-back-intel-xeon-6900p-reasserts-intel-server-leadership/)
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 13:06:35](https://news.ycombinator.com/item?id=41636070) - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
 * [2024-09-24, 12:51:35](https://news.ycombinator.com/item?id=41635962) - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
@@ -17,6 +16,7 @@
 * [2024-09-24, 03:16:10](https://news.ycombinator.com/item?id=41632823) - [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
 * [2024-09-24, 02:57:47](https://news.ycombinator.com/item?id=41632719) - [Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
 * [2024-09-24, 02:07:31](https://news.ycombinator.com/item?id=41632469) - [Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings](https://ieeexplore.ieee.org/document/9415699)
+* [2024-09-24, 02:05:46](https://news.ycombinator.com/item?id=41632460) - [Dumped orange peel transformed a barren pasture (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 21:41:24](https://news.ycombinator.com/item?id=41630907) - [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
 * [2024-09-23, 21:38:09](https://news.ycombinator.com/item?id=41630875) - [Perfect prevention vs. perfect detection](https://www.oliverhill.xyz/detection)
