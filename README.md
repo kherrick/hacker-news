@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-24, 06:31:35](https://news.ycombinator.com/item?id=41633630) - [X will soon make your public posts visible to accounts you've blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
 * [2024-09-24, 05:39:27](https://news.ycombinator.com/item?id=41633400) - [Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 05:13:04](https://news.ycombinator.com/item?id=41633268) - [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
 * [2024-09-24, 04:57:03](https://news.ycombinator.com/item?id=41633196) - [Typhoid spreads in Pakistan as antibiotics fail](https://www.theguardian.com/global-development/2024/sep/24/drug-resistant-typhoid-disease-pakistan-antibiotics-superbugs-children)
@@ -22,7 +23,6 @@
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-form floor plan design using differentiable Voronoi diagram](https://github.com/nobuyuki83/floor_plan)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
-* [2024-09-23, 12:37:45](https://news.ycombinator.com/item?id=41625402) - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)
 * [2024-09-23, 10:34:54](https://news.ycombinator.com/item?id=41624510) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
 * [2024-09-23, 07:51:26](https://news.ycombinator.com/item?id=41623467) - [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 * [2024-09-23, 04:36:59](https://news.ycombinator.com/item?id=41622419) - [Alan Turing's 1950 manual for the Mark I electronic computer [pdf]](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf)

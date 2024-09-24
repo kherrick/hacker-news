@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 06:31:35](https://news.ycombinator.com/item?id=41633630) - [X will soon make your public posts visible to accounts you've blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
 * [2024-09-24, 05:39:27](https://news.ycombinator.com/item?id=41633400) - [Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 05:13:04](https://news.ycombinator.com/item?id=41633268) - [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
 * [2024-09-24, 04:57:03](https://news.ycombinator.com/item?id=41633196) - [Typhoid spreads in Pakistan as antibiotics fail](https://www.theguardian.com/global-development/2024/sep/24/drug-resistant-typhoid-disease-pakistan-antibiotics-superbugs-children)
