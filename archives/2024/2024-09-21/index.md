@@ -77,6 +77,7 @@
 * [2024-09-21, 02:03:18](https://news.ycombinator.com/item?id=41606908) - [Doomretro – The classic, refined DOOM source port. For Windows PC](https://github.com/bradharding/doomretro)
 * [2024-09-21, 01:19:13](https://news.ycombinator.com/item?id=41606772) - [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L)
 * [2024-09-21, 01:15:18](https://news.ycombinator.com/item?id=41606753) - [Americans Are Falling Behind on Their Bills](https://www.wsj.com/finance/americans-credit-debt-spending-interest-rates-f3836f23)
+* [2024-09-21, 00:59:03](https://news.ycombinator.com/item?id=41606694) - [The Calculator that spawned the Microprocessor](http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html)
 * [2024-09-21, 00:41:38](https://news.ycombinator.com/item?id=41606634) - [How I Failed (2013)](https://www.oreilly.com/radar/how-i-failed/)
 * [2024-09-21, 00:22:10](https://news.ycombinator.com/item?id=41606550) - [Hachette vs. Internet Archive: We're Still Fighting for Fair Use](https://www.libraryfutures.net/post/were-still-fighting-for-fair-use)
 * [2024-09-21, 00:17:16](https://news.ycombinator.com/item?id=41606530) - [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)
