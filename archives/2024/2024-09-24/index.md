@@ -9,6 +9,7 @@
 * [2024-09-24, 20:53:57](https://news.ycombinator.com/item?id=41640789) - [Caroline Ellison, Star Witness at FTX Trial, Is Sentenced to 2 Years in Prison](https://www.nytimes.com/2024/09/24/technology/caroline-ellison-ftx-sentence.html)
 * [2024-09-24, 20:48:57](https://news.ycombinator.com/item?id=41640760) - [Galilean Moons and Determination of Longitude](https://en.wikipedia.org/wiki/Galilean_moons)
 * [2024-09-24, 20:45:13](https://news.ycombinator.com/item?id=41640734) - [My Camera Will Never Overheat Again [video]](https://www.youtube.com/watch?v=IpzBdVeJ_jo)
+* [2024-09-24, 20:40:37](https://news.ycombinator.com/item?id=41640690) - [Mental-1, a Brainfuck CPU](https://hackaday.io/project/4237-mental-1-a-brainfuck-cpu)
 * [2024-09-24, 20:16:59](https://news.ycombinator.com/item?id=41640458) - [Star FTX Witness Caroline Ellison Sentenced to Two Years in Prison](https://www.wsj.com/finance/currencies/ftx-trial-caroline-ellison-sentencing-cc104a84)
 * [2024-09-24, 19:26:03](https://news.ycombinator.com/item?id=41640005) - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
 * [2024-09-24, 19:23:41](https://news.ycombinator.com/item?id=41639980) - [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
