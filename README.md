@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-24, 07:43:27](https://news.ycombinator.com/item?id=41634133) - [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
 * [2024-09-24, 07:28:29](https://news.ycombinator.com/item?id=41634007) - [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
 * [2024-09-24, 07:12:45](https://news.ycombinator.com/item?id=41633904) - [Matrix.org Breaks Federation: Users Can't Decrypt Messages from Other Servers](https://github.com/matrix-org/matrix.org/issues/2483)
 * [2024-09-24, 07:12:19](https://news.ycombinator.com/item?id=41633899) - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
@@ -17,7 +18,6 @@
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 21:38:09](https://news.ycombinator.com/item?id=41630875) - [Perfect prevention vs. perfect detection](https://www.oliverhill.xyz/detection)
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
-* [2024-09-23, 20:05:47](https://news.ycombinator.com/item?id=41629916) - [What I've Learned in the Past Year Spent Building an AI Video Editor](https://www.makeartwithpython.com/blog/a-year-of-showing-up/)
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
 * [2024-09-23, 18:56:44](https://news.ycombinator.com/item?id=41629377) - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
