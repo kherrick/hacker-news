@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-24, 05:13:04](https://news.ycombinator.com/item?id=41633268) - [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
 * [2024-09-24, 02:05:46](https://news.ycombinator.com/item?id=41632460) - [Dumped orange peel transformed a barren pasture (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2024-09-24, 00:47:46](https://news.ycombinator.com/item?id=41632048) - [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/)
 * [2024-09-24, 00:21:58](https://news.ycombinator.com/item?id=41631912) - [WP Engine sent \"cease and desist\" letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
@@ -27,7 +28,6 @@
 * [2024-09-23, 04:36:59](https://news.ycombinator.com/item?id=41622419) - [Alan Turing's 1950 manual for the Mark I electronic computer [pdf]](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf)
 * [2024-09-21, 13:17:02](https://news.ycombinator.com/item?id=41609771) - [Picking Glibc Versions at Runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 * [2024-09-21, 08:09:27](https://news.ycombinator.com/item?id=41608405) - [A brief look at the new Kamal Proxy](https://nts.strzibny.name/kamal-proxy/)
-* [2024-09-20, 16:02:29](https://news.ycombinator.com/item?id=41603270) - [Compress JPG: The Image Compressor That Lets You Compress Images Securely](https://compressjpg.io/)
 * [2024-09-20, 02:43:46](https://news.ycombinator.com/item?id=41598330) - [Cache Me Not, Cache Me, Cache Me Not](https://hazelweakly.me/blog/cache-me-not-cache-me-cache-me-not/)
 * [2024-09-19, 20:28:39](https://news.ycombinator.com/item?id=41596078) - [Scientists who laid groundwork for weight-loss drugs win Lasker medical award](https://www.washingtonpost.com/health/2024/09/19/weight-loss-drugs-scientists-discovery-lasker-award/)
 
