@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 13:06:35](https://news.ycombinator.com/item?id=41636070) - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
 * [2024-09-24, 13:02:30](https://news.ycombinator.com/item?id=41636038) - [Halide rejected from App Store because it doesn't explain why it takes photos](https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos/)
 * [2024-09-24, 12:51:35](https://news.ycombinator.com/item?id=41635962) - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
+* [2024-09-24, 12:39:39](https://news.ycombinator.com/item?id=41635871) - [Show HN: Oodle – serverless, fully-managed, drop-in replacement for Prometheus](https://blog.oodle.ai/building-a-high-performance-low-cost-metrics-observability-system/)
 * [2024-09-24, 12:16:35](https://news.ycombinator.com/item?id=41635700) - [Passkey Privacy Issues](https://lapcatsoftware.com/articles/2024/8/8.html)
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 11:58:02](https://news.ycombinator.com/item?id=41635583) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
@@ -13,6 +15,7 @@
 * [2024-09-24, 10:47:23](https://news.ycombinator.com/item?id=41635166) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
 * [2024-09-24, 10:30:53](https://news.ycombinator.com/item?id=41635088) - [Show HN: An expression parser supporting multiple types](https://github.com/torrentg/expr)
 * [2024-09-24, 10:30:05](https://news.ycombinator.com/item?id=41635080) - [The Quest to Build a Telescope on the Moon](https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon)
+* [2024-09-24, 08:20:38](https://news.ycombinator.com/item?id=41634356) - [Show HN: JSON For You – Visualize JSON in graph or table views](https://github.com/loggerhead/json4u)
 * [2024-09-24, 08:05:52](https://news.ycombinator.com/item?id=41634268) - [Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
 * [2024-09-24, 07:43:27](https://news.ycombinator.com/item?id=41634133) - [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
 * [2024-09-24, 07:42:08](https://news.ycombinator.com/item?id=41634119) - [Excel spreadsheet caused network equipment's physical failure](https://twitter.com/lauriewired/status/1838256923428438345)
