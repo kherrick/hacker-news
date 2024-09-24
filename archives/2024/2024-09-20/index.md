@@ -59,6 +59,7 @@
 * [2024-09-20, 08:45:04](https://news.ycombinator.com/item?id=41600036) - [We have lift-off Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready/)
 * [2024-09-20, 08:33:19](https://news.ycombinator.com/item?id=41599970) - [Stop Designing Your Web Application for Millions of Users When You Dont Have 100](https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/)
 * [2024-09-20, 07:19:15](https://news.ycombinator.com/item?id=41599621) - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
+* [2024-09-20, 07:10:49](https://news.ycombinator.com/item?id=41599579) - [Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys](https://github.com/vshymanskyy/wasm2mpy)
 * [2024-09-20, 07:00:04](https://news.ycombinator.com/item?id=41599523) - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 * [2024-09-20, 06:21:15](https://news.ycombinator.com/item?id=41599327) - [Attracting and Retaining Debian Contributors](https://lwn.net/Articles/987548/)
 * [2024-09-20, 06:09:10](https://news.ycombinator.com/item?id=41599259) - [Pov: Living in My Car in SF](https://www.youtube.com/watch?v=tonG-OufefQ)
