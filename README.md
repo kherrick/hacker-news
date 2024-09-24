@@ -2,6 +2,7 @@
 
 * [2024-09-24, 22:13:03](https://news.ycombinator.com/item?id=41641522) - [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
 * [2024-09-24, 21:45:50](https://news.ycombinator.com/item?id=41641274) - [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+* [2024-09-24, 21:12:10](https://news.ycombinator.com/item?id=41640953) - [Missouri is about to execute a man even the prosecution believes is innocent](https://www.cnn.com/2024/09/24/us/marcellus-williams-scheduled-execution-date/index.html)
 * [2024-09-24, 21:10:59](https://news.ycombinator.com/item?id=41640941) - [$1B Solar and Battery Storage Project Breaks Ground in Utah](https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/)
 * [2024-09-24, 20:59:53](https://news.ycombinator.com/item?id=41640845) - [Google Cache Is Fully Dead](https://www.seroundtable.com/google-cache-dead-38112.html)
 * [2024-09-24, 20:56:29](https://news.ycombinator.com/item?id=41640812) - [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
@@ -17,7 +18,6 @@
 * [2024-09-24, 15:25:52](https://news.ycombinator.com/item?id=41637550) - [Show HN: Velvet – Store OpenAI requests in your own DB](https://www.usevelvet.com)
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 13:06:35](https://news.ycombinator.com/item?id=41636070) - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
-* [2024-09-24, 12:51:35](https://news.ycombinator.com/item?id=41635962) - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 11:58:02](https://news.ycombinator.com/item?id=41635583) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
 * [2024-09-24, 10:50:10](https://news.ycombinator.com/item?id=41635176) - [Jetstream: Shrinking the AT Protocol Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
