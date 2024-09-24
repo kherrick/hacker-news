@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-24, 16:24:14](https://news.ycombinator.com/item?id=41638208) - [Louisiana doctors win big lawsuit against Blue Cross Blue Shield](https://www.wwltv.com/article/news/local/louisiana-doctors-win-big-lawsuit-against-blue-cross-blue-shield/289-d139c676-58ee-4f2c-993c-ba4c59517c7a)
+* [2024-09-24, 16:23:35](https://news.ycombinator.com/item?id=41638199) - [Launch HN: Modern Realty (YC S24) – AI Realtor for Home Buyers](https://news.ycombinator.com/item?id=41638199)
 * [2024-09-24, 16:15:41](https://news.ycombinator.com/item?id=41638137) - [Natural Gas Company Said It Was Going Green but Still Sells as Much Fossil Fuel](https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel)
 * [2024-09-24, 16:13:09](https://news.ycombinator.com/item?id=41638114) - [Google wins challenge against $1.7B EU competition fine](https://www.cnn.com/2024/09/18/tech/google-wins-eu-antitrust-fine/index.html)
 * [2024-09-24, 16:08:38](https://news.ycombinator.com/item?id=41638068) - [Two new Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more](https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/)
@@ -18,7 +19,6 @@
 * [2024-09-24, 04:43:30](https://news.ycombinator.com/item?id=41633155) - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
 * [2024-09-24, 03:16:10](https://news.ycombinator.com/item?id=41632823) - [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
 * [2024-09-24, 02:57:47](https://news.ycombinator.com/item?id=41632719) - [Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
-* [2024-09-24, 02:07:31](https://news.ycombinator.com/item?id=41632469) - [Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings](https://ieeexplore.ieee.org/document/9415699)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 20:06:03](https://news.ycombinator.com/item?id=41629923) - [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 * [2024-09-23, 20:05:47](https://news.ycombinator.com/item?id=41629916) - [What I've Learned in the Past Year Spent Building an AI Video Editor](https://www.makeartwithpython.com/blog/a-year-of-showing-up/)
