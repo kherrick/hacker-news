@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 * [2024-09-25, 17:22:16](https://news.ycombinator.com/item?id=41649683) - [Meta is discontinuing the Quest Pro two years after launching it](https://www.theverge.com/2024/9/25/24253322/meta-quest-pro-2-discontinued-vr)
 * [2024-09-25, 17:19:58](https://news.ycombinator.com/item?id=41649660) - [How to Hack the Breakthrough Prize (Ft. Session Confusion)](https://varun.ch/breakthrough)
 * [2024-09-25, 17:00:15](https://news.ycombinator.com/item?id=41649460) - [Hamming AI (YC S24) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer)
