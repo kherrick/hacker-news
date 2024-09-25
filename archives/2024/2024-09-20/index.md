@@ -10,6 +10,7 @@
 * [2024-09-20, 21:36:30](https://news.ycombinator.com/item?id=41605719) - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
 * [2024-09-20, 21:28:49](https://news.ycombinator.com/item?id=41605680) - [Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability](https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/)
 * [2024-09-20, 21:10:09](https://news.ycombinator.com/item?id=41605528) - [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
+* [2024-09-20, 21:09:06](https://news.ycombinator.com/item?id=41605524) - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 * [2024-09-20, 21:00:13](https://news.ycombinator.com/item?id=41605471) - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
 * [2024-09-20, 20:58:21](https://news.ycombinator.com/item?id=41605460) - [Can't change security policy or disable SIP with macOS 15 Sequoia](https://lapcatsoftware.com/articles/2024/8/9.html)
 * [2024-09-20, 20:57:24](https://news.ycombinator.com/item?id=41605449) - [Qualcomm Wants to Buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
