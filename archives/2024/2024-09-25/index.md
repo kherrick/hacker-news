@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 11:35:44](https://news.ycombinator.com/item?id=41646163) - [Hetzner introduces GPU server for AI training](https://www.hetzner.com/dedicated-rootserver/gex130/)
 * [2024-09-25, 11:01:05](https://news.ycombinator.com/item?id=41645970) - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
 * [2024-09-25, 10:31:00](https://news.ycombinator.com/item?id=41645804) - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
 * [2024-09-25, 10:24:40](https://news.ycombinator.com/item?id=41645759) - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)

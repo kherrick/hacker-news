@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-25, 11:35:44](https://news.ycombinator.com/item?id=41646163) - [Hetzner introduces GPU server for AI training](https://www.hetzner.com/dedicated-rootserver/gex130/)
 * [2024-09-25, 11:01:05](https://news.ycombinator.com/item?id=41645970) - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
 * [2024-09-25, 10:31:00](https://news.ycombinator.com/item?id=41645804) - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
 * [2024-09-25, 10:24:40](https://news.ycombinator.com/item?id=41645759) - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
@@ -21,7 +22,6 @@
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 06:12:45](https://news.ycombinator.com/item?id=41633551) - [Working Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 * [2024-09-22, 09:43:18](https://news.ycombinator.com/item?id=41615910) - [Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube](https://geoawesome.com/avoidance-mapping-what-it-is-where-it-fits-in-the-cartography-cube/)
-* [2024-09-21, 16:33:55](https://news.ycombinator.com/item?id=41610995) - [Mkfs.fat on Linux vs. OS/2 2.1](https://www.uninformativ.de/blog/postings/2024-09-21/0/POSTING-en.html)
 * [2024-09-21, 11:18:30](https://news.ycombinator.com/item?id=41609254) - [Furnace – the biggest multi-system chiptune tracker ever made](https://github.com/tildearrow/furnace)
 * [2024-09-21, 09:41:48](https://news.ycombinator.com/item?id=41608784) - [Graph Coloring Methods](https://graphcoloringmethods.com/)
 * [2024-09-21, 02:11:02](https://news.ycombinator.com/item?id=41606932) - [Filtered for home robots, fast and slow](https://interconnected.org/home/2024/09/20/filtered)
