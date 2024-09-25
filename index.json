@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-09-25, 09:54:50",
-      "https://news.ycombinator.com/item?id=41645566"
-    ],
-    [
-      "A Brief History of Microprogramming (2022)",
-      "https://people.computing.clemson.edu/~mark/uprog.html"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 08:37:48",
       "https://news.ycombinator.com/item?id=41645173"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: King Thirteen: 2048 with chess pieces, in under 13 KB",
       "https://js13kgames.com/2024/games/king-thirteen"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 12:18:24",
+      "https://news.ycombinator.com/item?id=41601250"
+    ],
+    [
+      "ts-blank-space is a fast type-stripping compiler",
+      "https://bloomberg.github.io/ts-blank-space/"
     ]
   ],
   [
