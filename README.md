@@ -21,6 +21,7 @@
 * [2024-09-24, 23:39:30](https://news.ycombinator.com/item?id=41642151) - [Show HN: Hosting my website using my C web server](https://github.com/cozis/blogtech)
 * [2024-09-24, 20:56:29](https://news.ycombinator.com/item?id=41640812) - [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
 * [2024-09-24, 19:26:03](https://news.ycombinator.com/item?id=41640005) - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
+* [2024-09-24, 17:02:24](https://news.ycombinator.com/item?id=41638581) - [GSoC'24: Differentiable Logic for Interactive Systems and Generative Music](https://ijc8.me/2024/08/26/gsoc-difflogic/)
 * [2024-09-24, 16:23:35](https://news.ycombinator.com/item?id=41638199) - [Launch HN: Modern Realty (YC S24) – AI Real Estate Agent for Home Buyers](https://news.ycombinator.com/item?id=41638199)
 * [2024-09-24, 06:12:45](https://news.ycombinator.com/item?id=41633551) - [Working Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 * [2024-09-22, 09:43:18](https://news.ycombinator.com/item?id=41615910) - [Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube](https://geoawesome.com/avoidance-mapping-what-it-is-where-it-fits-in-the-cartography-cube/)
@@ -29,7 +30,6 @@
 * [2024-09-20, 19:39:45](https://news.ycombinator.com/item?id=41604950) - [Ask HN: Platform for 11 year old to create video games?](https://news.ycombinator.com/item?id=41604950)
 * [2024-09-20, 12:02:44](https://news.ycombinator.com/item?id=41601148) - [NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
 * [2024-09-20, 11:28:01](https://news.ycombinator.com/item?id=41600903) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
-* [2024-09-20, 05:21:37](https://news.ycombinator.com/item?id=41599026) - [Lessons from over 30 Years of Buy versus Rent Decision](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=90db2525a8c74fe80b5771bb8422ea252bb642d8)
 
 ## [Archives](archives/index.md)
 
