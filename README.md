@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-25, 06:33:53](https://news.ycombinator.com/item?id=41644315) - [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
+* [2024-09-25, 05:46:28](https://news.ycombinator.com/item?id=41644062) - [Gnome 47 Wallpapers](https://blog.jimmac.eu/2024/wallpapers/)
 * [2024-09-25, 05:34:55](https://news.ycombinator.com/item?id=41643991) - [Firefox tracks you with \"privacy preserving\" feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
 * [2024-09-25, 04:52:56](https://news.ycombinator.com/item?id=41643810) - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 * [2024-09-25, 04:30:36](https://news.ycombinator.com/item?id=41643700) - [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
@@ -26,9 +28,7 @@
 * [2024-09-21, 11:18:30](https://news.ycombinator.com/item?id=41609254) - [Furnace – the biggest multi-system chiptune tracker ever made](https://github.com/tildearrow/furnace)
 * [2024-09-21, 02:11:02](https://news.ycombinator.com/item?id=41606932) - [Filtered for home robots, fast and slow](https://interconnected.org/home/2024/09/20/filtered)
 * [2024-09-21, 00:59:03](https://news.ycombinator.com/item?id=41606694) - [The Calculator that spawned the Microprocessor (2009)](http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html)
-* [2024-09-20, 19:39:45](https://news.ycombinator.com/item?id=41604950) - [Ask HN: Platform for 11 year old to create video games?](https://news.ycombinator.com/item?id=41604950)
 * [2024-09-20, 14:41:03](https://news.ycombinator.com/item?id=41602473) - [Understudied protein blobs have global effects on cell biochemistry](https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html)
-* [2024-09-20, 07:10:49](https://news.ycombinator.com/item?id=41599579) - [Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys](https://github.com/vshymanskyy/wasm2mpy)
 * [2024-09-20, 03:02:20](https://news.ycombinator.com/item?id=41598414) - [A Little History of the Anchovy](https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/)
 
 ## [Archives](archives/index.md)
