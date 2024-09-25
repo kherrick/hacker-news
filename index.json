@@ -81,12 +81,22 @@
   ],
   [
     [
-      "2024-09-24, 20:10:08",
-      "https://news.ycombinator.com/item?id=41640388"
+      "2024-09-24, 20:38:53",
+      "https://news.ycombinator.com/item?id=41640673"
     ],
     [
-      "Rotation-Based Compression",
-      "https://www.winstoncooke.com/blog/rotation-based-compression"
+      "Tor-Lighttpd-Onion with Docker",
+      "https://github.com/nicdercole/Tor-Lighttpd-Onion"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 19:53:12",
+      "https://news.ycombinator.com/item?id=41640228"
+    ],
+    [
+      "Show HN: Phobos – an engine extension for Red Alert 2: Yuri's Revenge",
+      "https://github.com/Phobos-developers/Phobos"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Winamp Legacy player source code",
       "https://github.com/WinampDesktop/winamp"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 13:06:35",
-      "https://news.ycombinator.com/item?id=41636070"
-    ],
-    [
-      "OpenBSD now enforcing no invalid NUL characters in shell scripts",
-      "https://www.undeadly.org/cgi?action=article;sid=20240924105732"
     ]
   ],
   [
