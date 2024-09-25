@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-25, 04:52:56](https://news.ycombinator.com/item?id=41643810) - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
+* [2024-09-25, 04:29:07](https://news.ycombinator.com/item?id=41643690) - [Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
 * [2024-09-25, 04:05:43](https://news.ycombinator.com/item?id=41643572) - [G, a Statistical Myth (2007)](http://bactra.org/weblog/523.html)
 * [2024-09-25, 03:06:53](https://news.ycombinator.com/item?id=41643319) - [Thoughts on Debugging](https://catskull.net/thoughts-on-debugging.html)
 * [2024-09-25, 02:05:12](https://news.ycombinator.com/item?id=41642969) - [Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
@@ -17,7 +18,6 @@
 * [2024-09-24, 15:25:52](https://news.ycombinator.com/item?id=41637550) - [Show HN: Velvet – Store OpenAI requests in your own DB](https://www.usevelvet.com)
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 11:58:02](https://news.ycombinator.com/item?id=41635583) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
-* [2024-09-24, 08:20:38](https://news.ycombinator.com/item?id=41634356) - [Show HN: JSON For You – Visualize JSON in graph or table views](https://github.com/loggerhead/json4u)
 * [2024-09-24, 06:12:45](https://news.ycombinator.com/item?id=41633551) - [Working Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 * [2024-09-23, 17:15:33](https://news.ycombinator.com/item?id=41628340) - [Why are the violins the biggest section in the orchestra?](https://phys.org/news/2024-09-violins-biggest-section-orchestra.html)
 * [2024-09-22, 14:07:05](https://news.ycombinator.com/item?id=41617174) - [How We Sort the World](https://thereader.mitpress.mit.edu/how-we-sort-the-world-gregory-murphy-on-the-psychology-of-categories/)
