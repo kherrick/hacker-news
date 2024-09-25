@@ -2,6 +2,7 @@
 
 * [2024-09-25, 19:35:31](https://news.ycombinator.com/item?id=41651038) - [Mira Exits OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
 * [2024-09-25, 19:18:12](https://news.ycombinator.com/item?id=41650905) - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
+* [2024-09-25, 18:49:03](https://news.ycombinator.com/item?id=41650647) - [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 18:40:26](https://news.ycombinator.com/item?id=41650534) - [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
 * [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 * [2024-09-25, 17:50:42](https://news.ycombinator.com/item?id=41649983) - [Meta Quest 3S](https://www.meta.com/tw/en/quest/quest-3s/)
@@ -26,7 +27,6 @@
 * [2024-09-24, 00:28:46](https://news.ycombinator.com/item?id=41631948) - [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/abs/2409.12089)
 * [2024-09-23, 08:41:25](https://news.ycombinator.com/item?id=41623814) - [Show HN: King Thirteen: 2048 with chess pieces, in under 13 KB](https://js13kgames.com/2024/games/king-thirteen)
 * [2024-09-22, 14:39:21](https://news.ycombinator.com/item?id=41617400) - [Communicating with Interactive Articles (2020)](https://distill.pub/2020/communicating-with-interactive-articles/)
-* [2024-09-21, 09:41:48](https://news.ycombinator.com/item?id=41608784) - [Graph Coloring Methods](https://graphcoloringmethods.com/)
 * [2024-09-20, 12:02:44](https://news.ycombinator.com/item?id=41601148) - [NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
 * [2024-09-20, 11:28:01](https://news.ycombinator.com/item?id=41600903) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2024-09-20, 03:05:43](https://news.ycombinator.com/item?id=41598429) - [Disabling Scheduled Dependency Updates](https://davidism.com/disabling-scheduled-dependency-updates/)
