@@ -1,52 +1,12 @@
 [
   [
     [
-      "2024-09-25, 06:33:53",
-      "https://news.ycombinator.com/item?id=41644315"
-    ],
-    [
-      "New California law requires one-click subscription cancellations",
-      "https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 06:25:25",
-      "https://news.ycombinator.com/item?id=41644267"
-    ],
-    [
-      "Holy Hell, the Social Web Did Not Begin in 2008",
-      "https://bix.blog/posts/holy-hell-the-social-web-did-not-begin-in-2008"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 05:46:28",
-      "https://news.ycombinator.com/item?id=41644062"
-    ],
-    [
-      "Gnome 47 Wallpapers",
-      "https://blog.jimmac.eu/2024/wallpapers/"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 04:52:56",
       "https://news.ycombinator.com/item?id=41643810"
     ],
     [
       "FRED: New Zealand open-access and crowdsource database of fossil records",
       "https://fred.org.nz/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 04:30:36",
-      "https://news.ycombinator.com/item?id=41643700"
-    ],
-    [
-      "NIST to forbid requirement of specific passwords character composition",
-      "https://mastodon.social/@LukaszOlejnik/113193089731407165"
     ]
   ],
   [
@@ -61,22 +21,12 @@
   ],
   [
     [
-      "2024-09-25, 04:20:48",
-      "https://news.ycombinator.com/item?id=41643651"
+      "2024-09-25, 04:14:09",
+      "https://news.ycombinator.com/item?id=41643610"
     ],
     [
-      "SQL Tips and Tricks",
-      "https://github.com/ben-n93/SQL-tips-and-tricks"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 04:05:47",
-      "https://news.ycombinator.com/item?id=41643573"
-    ],
-    [
-      "No more blurry fonts in Linux (2023)",
-      "https://blog.aktsbot.in/no-more-blurry-fonts.html"
+      "Jupyter Kernel for Deno",
+      "https://docs.deno.com/runtime/reference/cli/jupyter/"
     ]
   ],
   [
@@ -101,26 +51,6 @@
   ],
   [
     [
-      "2024-09-25, 02:05:12",
-      "https://news.ycombinator.com/item?id=41642969"
-    ],
-    [
-      "Insights after 11 years with Datomic [video]",
-      "https://www.youtube.com/watch?v=YSgTQzHYeLU"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 01:54:10",
-      "https://news.ycombinator.com/item?id=41642900"
-    ],
-    [
-      "XBill for PalmOS receives an update after 25 years",
-      "https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 00:41:05",
       "https://news.ycombinator.com/item?id=41642487"
     ],
@@ -141,22 +71,22 @@
   ],
   [
     [
-      "2024-09-24, 21:55:25",
-      "https://news.ycombinator.com/item?id=41641367"
-    ],
-    [
-      "Debian Packaging from First Principles",
-      "https://mikecoats.com/debian-packaging-first-principles-part-1-simple/"
-    ]
-  ],
-  [
-    [
       "2024-09-24, 21:45:50",
       "https://news.ycombinator.com/item?id=41641274"
     ],
     [
       "Why Most Published Research Findings Are False (2005)",
       "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 20:59:53",
+      "https://news.ycombinator.com/item?id=41640845"
+    ],
+    [
+      "Google Cache is fully dead",
+      "https://www.seroundtable.com/google-cache-dead-38112.html"
     ]
   ],
   [
@@ -177,6 +107,16 @@
     [
       "Beyond the route: Introducing granular MTA bus speed data",
       "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 19:23:41",
+      "https://news.ycombinator.com/item?id=41639980"
+    ],
+    [
+      "Death of the Department Store",
+      "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
     ]
   ],
   [
@@ -217,6 +157,36 @@
     [
       "Show HN: OpenFreeMap – Open-Source Map Hosting",
       "https://openfreemap.org/"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 11:58:02",
+      "https://news.ycombinator.com/item?id=41635583"
+    ],
+    [
+      "Move Fast and Abandon Things",
+      "https://engineersneedart.com/blog/movefast/movefast.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 08:20:38",
+      "https://news.ycombinator.com/item?id=41634356"
+    ],
+    [
+      "Show HN: JSON For You – Visualize JSON in graph or table views",
+      "https://github.com/loggerhead/json4u"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 06:12:45",
+      "https://news.ycombinator.com/item?id=41633551"
+    ],
+    [
+      "Working Turing Machine",
+      "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7"
     ]
   ],
   [
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2024-09-20, 19:39:45",
+      "https://news.ycombinator.com/item?id=41604950"
+    ],
+    [
+      "Ask HN: Platform for 11 year old to create video games?",
+      "https://news.ycombinator.com/item?id=41604950"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 14:41:03",
       "https://news.ycombinator.com/item?id=41602473"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-09-20, 12:53:48",
+      "https://news.ycombinator.com/item?id=41601517"
+    ],
+    [
+      "Neat Randomized Algorithms: RandDiag for Rapidly Diagonalizing Normal Matrices",
+      "https://www.ethanepperly.com/index.php/2024/07/02/neat-randomized-algorithms-randdiag-for-rapidly-diagonalizing-normal-matrices/"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 12:02:44",
       "https://news.ycombinator.com/item?id=41601148"
     ],
     [
       "NASA spacecraft to probe possibility of life in Europa's salty ocean",
       "https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 07:10:49",
+      "https://news.ycombinator.com/item?id=41599579"
+    ],
+    [
+      "Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys",
+      "https://github.com/vshymanskyy/wasm2mpy"
     ]
   ],
   [
