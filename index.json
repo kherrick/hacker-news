@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-25, 12:59:41",
-      "https://news.ycombinator.com/item?id=41646967"
+      "2024-09-25, 12:29:03",
+      "https://news.ycombinator.com/item?id=41646629"
     ],
     [
-      "As IBM pushes for automation, its AI simply not up to the job of replacing staff",
-      "https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/"
+      "Godot for App Development",
+      "http://tiniuc.com/godot-for-apps/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Why I still blog after 15 years",
       "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 11:30:57",
+      "https://news.ycombinator.com/item?id=41646135"
+    ],
+    [
+      "Google Paid $2.7B to Bring Back an AI Genius Who Quit in Frustration",
+      "https://www.wsj.com/tech/ai/noam-shazeer-google-ai-deal-d3605697"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "FRED: New Zealand open-access and crowdsource database of fossil records",
       "https://fred.org.nz/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 04:29:07",
-      "https://news.ycombinator.com/item?id=41643690"
-    ],
-    [
-      "Doom on a modified rotary phone",
-      "https://tamulaitis.lt/project/dialrhea/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-09-22, 14:07:05",
+      "https://news.ycombinator.com/item?id=41617174"
+    ],
+    [
+      "How We Sort the World",
+      "https://thereader.mitpress.mit.edu/how-we-sort-the-world-gregory-murphy-on-the-psychology-of-categories/"
+    ]
+  ],
+  [
+    [
       "2024-09-22, 09:43:18",
       "https://news.ycombinator.com/item?id=41615910"
     ],
@@ -277,16 +287,6 @@
     [
       "Optimizing Guile Scheme",
       "https://dthompson.us/posts/optimizing-guile-scheme.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 07:10:49",
-      "https://news.ycombinator.com/item?id=41599579"
-    ],
-    [
-      "Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys",
-      "https://github.com/vshymanskyy/wasm2mpy"
     ]
   ],
   [
