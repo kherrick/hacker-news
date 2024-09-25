@@ -10,6 +10,8 @@
 * [2024-09-24, 22:17:02](https://news.ycombinator.com/item?id=41641560) - [The White Collar Apocalypse Is Nigh](https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh/)
 * [2024-09-24, 22:13:03](https://news.ycombinator.com/item?id=41641522) - [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
 * [2024-09-24, 22:10:27](https://news.ycombinator.com/item?id=41641495) - [Ethernet in 17 lines of Spade [video]](https://www.youtube.com/watch?v=0a8P0NLYPWA)
+* [2024-09-24, 21:56:13](https://news.ycombinator.com/item?id=41641373) - [Hardening C Against ROP: Getting CET Shadow Stacks Working](https://x86.lol/generic/2024/09/23/user-shadow-stacks.html)
+* [2024-09-24, 21:49:58](https://news.ycombinator.com/item?id=41641314) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
 * [2024-09-24, 21:45:50](https://news.ycombinator.com/item?id=41641274) - [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 * [2024-09-24, 21:12:10](https://news.ycombinator.com/item?id=41640953) - [Missouri is about to execute a man even the prosecution believes is innocent](https://www.cnn.com/2024/09/24/us/marcellus-williams-scheduled-execution-date/index.html)
 * [2024-09-24, 21:10:59](https://news.ycombinator.com/item?id=41640941) - [$1B Solar and Battery Storage Project Breaks Ground in Utah](https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/)
