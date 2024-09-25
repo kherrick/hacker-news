@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-25, 03:20:51](https://news.ycombinator.com/item?id=41643388) - [A new semantic chunking approach for RAG](https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag)
 * [2024-09-25, 00:41:05](https://news.ycombinator.com/item?id=41642487) - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 * [2024-09-25, 00:08:01](https://news.ycombinator.com/item?id=41642313) - [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
 * [2024-09-24, 23:39:30](https://news.ycombinator.com/item?id=41642151) - [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
 * [2024-09-24, 22:37:30](https://news.ycombinator.com/item?id=41641704) - [Mkbsd: Download all the wallpapers in MKBHD's \"Panels\" app for free](https://github.com/nadimkobeissi/mkbsd)
 * [2024-09-24, 22:13:03](https://news.ycombinator.com/item?id=41641522) - [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
-* [2024-09-24, 21:56:13](https://news.ycombinator.com/item?id=41641373) - [Hardening C Against ROP: Getting CET Shadow Stacks Working](https://x86.lol/generic/2024/09/23/user-shadow-stacks.html)
 * [2024-09-24, 21:55:25](https://news.ycombinator.com/item?id=41641367) - [Debian Packaging from First Principles](https://mikecoats.com/debian-packaging-first-principles-part-1-simple/)
 * [2024-09-24, 21:49:58](https://news.ycombinator.com/item?id=41641314) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
 * [2024-09-24, 21:45:50](https://news.ycombinator.com/item?id=41641274) - [Why Most Published Research Findings Are False (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
