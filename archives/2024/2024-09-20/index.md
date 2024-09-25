@@ -71,6 +71,7 @@
 * [2024-09-20, 06:09:10](https://news.ycombinator.com/item?id=41599259) - [Pov: Living in My Car in SF](https://www.youtube.com/watch?v=tonG-OufefQ)
 * [2024-09-20, 05:44:15](https://news.ycombinator.com/item?id=41599128) - [Starlink's new satellites emit 30x more radio interference than before](https://www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/)
 * [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
+* [2024-09-20, 05:21:37](https://news.ycombinator.com/item?id=41599026) - [Lessons from over 30 Years of Buy versus Rent Decision](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=90db2525a8c74fe80b5771bb8422ea252bb642d8)
 * [2024-09-20, 04:30:45](https://news.ycombinator.com/item?id=41598803) - [The crypto bros crowdfunding a new country](https://www.bbc.com/news/articles/cwyl171lyewo)
 * [2024-09-20, 03:02:20](https://news.ycombinator.com/item?id=41598414) - [A Little History of the Anchovy](https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/)
 * [2024-09-20, 02:43:46](https://news.ycombinator.com/item?id=41598330) - [Cache Me Not, Cache Me, Cache Me Not](https://hazelweakly.me/blog/cache-me-not-cache-me-cache-me-not/)

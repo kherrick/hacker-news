@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 16:10:35](https://news.ycombinator.com/item?id=41648965) - [Show HN: Fast and Exact Algorithm for Image Merging](https://github.com/C-Naoki/image-stitcher)
+* [2024-09-25, 15:54:57](https://news.ycombinator.com/item?id=41648772) - [X11-Basic (1991-2020)](https://x11-basic.sourceforge.net)
 * [2024-09-25, 15:48:51](https://news.ycombinator.com/item?id=41648711) - [Capstone Disassembler Framework](https://github.com/capstone-engine/capstone)
 * [2024-09-25, 15:32:39](https://news.ycombinator.com/item?id=41648573) - [Hire HTML and CSS People](https://robinrendle.com/notes/hire-html-people/)
 * [2024-09-25, 15:31:00](https://news.ycombinator.com/item?id=41648564) - [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
