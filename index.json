@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-25, 12:59:41",
+      "https://news.ycombinator.com/item?id=41646967"
+    ],
+    [
+      "As IBM pushes for automation, its AI simply not up to the job of replacing staff",
+      "https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 12:19:29",
+      "https://news.ycombinator.com/item?id=41646531"
+    ],
+    [
+      "Why I still blog after 15 years",
+      "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 11:53:35",
+      "https://news.ycombinator.com/item?id=41646295"
+    ],
+    [
+      "Fighting back against proper noun feature names (2021)",
+      "https://kubie.co/blog/fighting-feature-names/"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 10:39:21",
       "https://news.ycombinator.com/item?id=41645848"
     ],
@@ -27,36 +57,6 @@
     [
       "Global EV Charging Points with Open Charge Map",
       "https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 10:07:16",
-      "https://news.ycombinator.com/item?id=41645642"
-    ],
-    [
-      "Avoiding if-else Hell: The Functional Style",
-      "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 09:37:13",
-      "https://news.ycombinator.com/item?id=41645476"
-    ],
-    [
-      "A Summary of Ilya Sutskevers AI Reading List",
-      "https://tensorlabbet.com/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 09:24:46",
-      "https://news.ycombinator.com/item?id=41645413"
-    ],
-    [
-      "Why Payments Engineers Should Avoid State Machines",
-      "https://news.alvaroduran.com/p/why-payments-engineers-should-avoid"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-09-20, 14:41:03",
-      "https://news.ycombinator.com/item?id=41602473"
-    ],
-    [
-      "Understudied protein blobs have global effects on cell biochemistry",
-      "https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 12:02:44",
       "https://news.ycombinator.com/item?id=41601148"
     ],
     [
       "NASA spacecraft to probe possibility of life in Europa's salty ocean",
       "https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 11:28:01",
+      "https://news.ycombinator.com/item?id=41600903"
+    ],
+    [
+      "Optimizing Guile Scheme",
+      "https://dthompson.us/posts/optimizing-guile-scheme.html"
     ]
   ],
   [
