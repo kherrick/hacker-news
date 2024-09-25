@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
 * [2024-09-25, 05:34:55](https://news.ycombinator.com/item?id=41643991) - [Firefox tracks you with \"privacy preserving\" feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
+* [2024-09-25, 04:52:56](https://news.ycombinator.com/item?id=41643810) - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 * [2024-09-25, 04:30:36](https://news.ycombinator.com/item?id=41643700) - [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
 * [2024-09-25, 04:29:07](https://news.ycombinator.com/item?id=41643690) - [Doom on a Modified Rotary Phone](https://tamulaitis.lt/project/dialrhea/)
 * [2024-09-25, 04:20:48](https://news.ycombinator.com/item?id=41643651) - [SQL Tips and Tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
