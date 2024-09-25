@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 17:00:15](https://news.ycombinator.com/item?id=41649460) - [Hamming AI (YC S24) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer)
+* [2024-09-25, 16:46:38](https://news.ycombinator.com/item?id=41649301) - [If the Universe Is a Hologram, This Long-Forgotten Math Could Decode It](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
+* [2024-09-25, 16:28:20](https://news.ycombinator.com/item?id=41649134) - [Timeshare Owner? The Mexican Drug Cartels Want You](https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/)
 * [2024-09-25, 16:10:35](https://news.ycombinator.com/item?id=41648965) - [Show HN: Fast and Exact Algorithm for Image Merging](https://github.com/C-Naoki/image-stitcher)
 * [2024-09-25, 15:54:57](https://news.ycombinator.com/item?id=41648772) - [X11-Basic (1991-2020)](https://x11-basic.sourceforge.net)
 * [2024-09-25, 15:48:51](https://news.ycombinator.com/item?id=41648711) - [Capstone Disassembler Framework](https://github.com/capstone-engine/capstone)
@@ -14,6 +17,7 @@
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The Lost Language Extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
 * [2024-09-25, 14:04:49](https://news.ycombinator.com/item?id=41647687) - [Show HN: Test your website on 180+ device viewports (with multi-device mode)](https://viewport-tester.com/)
 * [2024-09-25, 14:04:11](https://news.ycombinator.com/item?id=41647683) - [The Social Web Foundation Is Shaping the Next Era of the Web](https://werd.io/2024/unlocking-the-fediverse-the-social-web-foundation-is-shaping-the)
+* [2024-09-25, 14:01:34](https://news.ycombinator.com/item?id=41647649) - [Molmo: a family of open multimodal AI models](https://molmo.allenai.org/blog)
 * [2024-09-25, 13:05:27](https://news.ycombinator.com/item?id=41647025) - [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
 * [2024-09-25, 12:59:41](https://news.ycombinator.com/item?id=41646967) - [As IBM pushes for automation, its AI simply not up to the job of replacing staff](https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/)
 * [2024-09-25, 12:31:04](https://news.ycombinator.com/item?id=41646655) - [Mitchell Hashimoto: Zig Writings](https://mitchellh.com/zig)
@@ -30,6 +34,7 @@
 * [2024-09-25, 11:22:17](https://news.ycombinator.com/item?id=41646085) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 11:01:05](https://news.ycombinator.com/item?id=41645970) - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
 * [2024-09-25, 10:39:21](https://news.ycombinator.com/item?id=41645848) - [MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://menyifang.github.io/projects/MIMO/index.html)
+* [2024-09-25, 10:35:38](https://news.ycombinator.com/item?id=41645822) - [JabRef – Literature Management](https://www.jabref.org/)
 * [2024-09-25, 10:31:00](https://news.ycombinator.com/item?id=41645804) - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
 * [2024-09-25, 10:24:40](https://news.ycombinator.com/item?id=41645759) - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
 * [2024-09-25, 10:22:00](https://news.ycombinator.com/item?id=41645736) - [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
