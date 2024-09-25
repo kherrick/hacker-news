@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
 * [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
+* [2024-09-25, 17:50:42](https://news.ycombinator.com/item?id=41649983) - [Meta Quest 3S](https://www.meta.com/tw/en/quest/quest-3s/)
 * [2024-09-25, 17:22:16](https://news.ycombinator.com/item?id=41649683) - [Meta is discontinuing the Quest Pro two years after launching it](https://www.theverge.com/2024/9/25/24253322/meta-quest-pro-2-discontinued-vr)
 * [2024-09-25, 17:19:58](https://news.ycombinator.com/item?id=41649660) - [How to Hack the Breakthrough Prize (Ft. Session Confusion)](https://varun.ch/breakthrough)
 * [2024-09-25, 17:00:15](https://news.ycombinator.com/item?id=41649460) - [Hamming AI (YC S24) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer)
@@ -17,6 +18,7 @@
 * [2024-09-25, 15:32:39](https://news.ycombinator.com/item?id=41648573) - [Hire HTML and CSS People](https://robinrendle.com/notes/hire-html-people/)
 * [2024-09-25, 15:31:00](https://news.ycombinator.com/item?id=41648564) - [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
 * [2024-09-25, 15:21:02](https://news.ycombinator.com/item?id=41648483) - [System Intiative is generally available](https://www.systeminit.com/blog-system-initiative-is-the-future/)
+* [2024-09-25, 14:42:57](https://news.ycombinator.com/item?id=41648112) - [VitePress: Vite and Vue powered static site generator](https://github.com/vuejs/vitepress)
 * [2024-09-25, 14:27:03](https://news.ycombinator.com/item?id=41647923) - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 * [2024-09-25, 14:22:37](https://news.ycombinator.com/item?id=41647876) - [Reconductoring: Boosting U.S. Grid Capacity Efficiently](https://spectrum.ieee.org/grid-enhancing-technologies)
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The Lost Language Extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)

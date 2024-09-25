@@ -73,6 +73,7 @@
 * [2024-09-20, 05:41:23](https://news.ycombinator.com/item?id=41599109) - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 * [2024-09-20, 05:21:37](https://news.ycombinator.com/item?id=41599026) - [Lessons from over 30 Years of Buy versus Rent Decision](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=90db2525a8c74fe80b5771bb8422ea252bb642d8)
 * [2024-09-20, 04:30:45](https://news.ycombinator.com/item?id=41598803) - [The crypto bros crowdfunding a new country](https://www.bbc.com/news/articles/cwyl171lyewo)
+* [2024-09-20, 03:05:43](https://news.ycombinator.com/item?id=41598429) - [Disabling Scheduled Dependency Updates](https://davidism.com/disabling-scheduled-dependency-updates/)
 * [2024-09-20, 03:02:20](https://news.ycombinator.com/item?id=41598414) - [A Little History of the Anchovy](https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/)
 * [2024-09-20, 02:43:46](https://news.ycombinator.com/item?id=41598330) - [Cache Me Not, Cache Me, Cache Me Not](https://hazelweakly.me/blog/cache-me-not-cache-me-cache-me-not/)
 * [2024-09-20, 02:32:56](https://news.ycombinator.com/item?id=41598276) - [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
