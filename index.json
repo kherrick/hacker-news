@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-25, 01:02:25",
-      "https://news.ycombinator.com/item?id=41642597"
+      "2024-09-25, 00:41:05",
+      "https://news.ycombinator.com/item?id=41642487"
     ],
     [
-      "Open Source, Trademarks, and WP Engine",
-      "https://automattic.com/2024/09/25/open-source-trademarks-wp-engine/"
+      "Hack GPON – how to access, change and edit fibre ONTs",
+      "https://hack-gpon.org/"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-09-24, 23:32:36",
-      "https://news.ycombinator.com/item?id=41642114"
-    ],
-    [
-      "Deep Dive into Postgres Write-Ahead Logs",
-      "https://www.artie.com/blogs/postgres-write-ahead-logs"
-    ]
-  ],
-  [
-    [
       "2024-09-24, 22:13:03",
       "https://news.ycombinator.com/item?id=41641522"
     ],
@@ -61,12 +51,22 @@
   ],
   [
     [
-      "2024-09-24, 22:10:27",
-      "https://news.ycombinator.com/item?id=41641495"
+      "2024-09-24, 21:56:13",
+      "https://news.ycombinator.com/item?id=41641373"
     ],
     [
-      "Ethernet in 17 lines of Spade [video]",
-      "https://www.youtube.com/watch?v=0a8P0NLYPWA"
+      "Hardening C Against ROP: Getting CET Shadow Stacks Working",
+      "https://x86.lol/generic/2024/09/23/user-shadow-stacks.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 21:49:58",
+      "https://news.ycombinator.com/item?id=41641314"
+    ],
+    [
+      "A few secure, random bytes without `pgcrypto`",
+      "https://brandur.org/fragments/secure-bytes-without-pgcrypto"
     ]
   ],
   [
@@ -75,18 +75,18 @@
       "https://news.ycombinator.com/item?id=41641274"
     ],
     [
-      "Why Most Published Research Findings Are False",
+      "Why Most Published Research Findings Are False (2005)",
       "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"
     ]
   ],
   [
     [
-      "2024-09-24, 21:10:59",
-      "https://news.ycombinator.com/item?id=41640941"
+      "2024-09-24, 20:59:53",
+      "https://news.ycombinator.com/item?id=41640845"
     ],
     [
-      "$1B Solar and Battery Storage Project Breaks Ground in Utah",
-      "https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/"
+      "Google Cache Is Fully Dead",
+      "https://www.seroundtable.com/google-cache-dead-38112.html"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Caroline Ellison sentenced to 2 years in prison",
       "https://www.nytimes.com/2024/09/24/technology/caroline-ellison-ftx-sentence.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 20:10:08",
+      "https://news.ycombinator.com/item?id=41640388"
+    ],
+    [
+      "Rotation-Based Compression",
+      "https://www.winstoncooke.com/blog/rotation-based-compression"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-09-24, 10:47:23",
-      "https://news.ycombinator.com/item?id=41635166"
-    ],
-    [
-      "Fully documented source code for Lander on the Acorn Archimedes",
-      "https://lander.bbcelite.com/"
-    ]
-  ],
-  [
-    [
       "2024-09-24, 10:30:05",
       "https://news.ycombinator.com/item?id=41635080"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-09-23, 20:24:24",
-      "https://news.ycombinator.com/item?id=41630094"
-    ],
-    [
-      "Twitter/X will let people you've blocked see your posts",
-      "https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 00:59:03",
       "https://news.ycombinator.com/item?id=41606694"
     ],
     [
-      "The Calculator that spawned the Microprocessor",
+      "The Calculator that spawned the Microprocessor (2009)",
       "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 14:41:03",
+      "https://news.ycombinator.com/item?id=41602473"
+    ],
+    [
+      "Understudied protein blobs have global effects on cell biochemistry",
+      "https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html"
     ]
   ],
   [
