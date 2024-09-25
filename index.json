@@ -1,22 +1,42 @@
 [
   [
     [
+      "2024-09-25, 12:05:18",
+      "https://news.ycombinator.com/item?id=41646420"
+    ],
+    [
+      "Who Is Marcellus Williams: Execution in Missouri Despite Evidence of Innocence",
+      "https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 12:05:18",
+      "https://news.ycombinator.com/item?id=41646419"
+    ],
+    [
+      "Gmail's blue checkmarks are coming to iOS and Android",
+      "https://www.theverge.com/2024/9/25/24253904/gmails-blue-checkmarks-are-coming-to-ios-and-android"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 11:46:19",
+      "https://news.ycombinator.com/item?id=41646238"
+    ],
+    [
+      "BBC Sound Effects Library",
+      "https://sound-effects.bbcrewind.co.uk/search"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 11:35:44",
       "https://news.ycombinator.com/item?id=41646163"
     ],
     [
       "Hetzner introduces GPU server for AI training",
       "https://www.hetzner.com/dedicated-rootserver/gex130/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 11:01:05",
-      "https://news.ycombinator.com/item?id=41645970"
-    ],
-    [
-      "Europe's deadly floods are glimpse of future climate",
-      "https://www.bbc.com/news/articles/cn5zx2zx5xvo"
     ]
   ],
   [
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2024-09-25, 10:22:00",
-      "https://news.ycombinator.com/item?id=41645736"
+      "2024-09-25, 09:48:53",
+      "https://news.ycombinator.com/item?id=41645542"
     ],
     [
-      "OpenAI rolls out Advanced Voice Mode with more voices and a new look",
-      "https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/"
+      "Lish Shell",
+      "https://github.com/nibbula/yew/tree/master/lish"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "How I Built My Blog",
       "https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 08:37:48",
+      "https://news.ycombinator.com/item?id=41645173"
+    ],
+    [
+      "Rearchitecting: Redis to SQLite",
+      "https://wafris.org/blog/rearchitecting-for-sqlite"
     ]
   ],
   [
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2024-09-24, 19:23:41",
-      "https://news.ycombinator.com/item?id=41639980"
-    ],
-    [
-      "Death of the Department Store",
-      "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 17:02:24",
-      "https://news.ycombinator.com/item?id=41638581"
-    ],
-    [
-      "GSoC'24: Differentiable Logic for Interactive Systems and Generative Music",
-      "https://ijc8.me/2024/08/26/gsoc-difflogic/"
-    ]
-  ],
-  [
-    [
       "2024-09-24, 16:23:35",
       "https://news.ycombinator.com/item?id=41638199"
     ],
@@ -207,6 +217,16 @@
     [
       "Working Turing Machine",
       "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 20:34:44",
+      "https://news.ycombinator.com/item?id=41630223"
+    ],
+    [
+      "Nova by Panic: The native Mac code editor that's fast and amazing",
+      "https://nova.app/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-09-20, 14:41:03",
-      "https://news.ycombinator.com/item?id=41602473"
-    ],
-    [
-      "Understudied protein blobs have global effects on cell biochemistry",
-      "https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 12:02:44",
       "https://news.ycombinator.com/item?id=41601148"
     ],
     [
       "NASA spacecraft to probe possibility of life in Europa's salty ocean",
       "https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 03:02:20",
-      "https://news.ycombinator.com/item?id=41598414"
-    ],
-    [
-      "A Little History of the Anchovy",
-      "https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/"
     ]
   ]
 ]
