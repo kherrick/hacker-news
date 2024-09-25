@@ -56,6 +56,7 @@
 * [2024-09-21, 11:56:05](https://news.ycombinator.com/item?id=41609403) - [Finish Your Projects](https://github.com/readme/guides/finish-your-projects)
 * [2024-09-21, 11:52:15](https://news.ycombinator.com/item?id=41609393) - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
 * [2024-09-21, 11:49:42](https://news.ycombinator.com/item?id=41609382) - [Remains of Egyptian army barracks and a bronze sword unearthed by archaeologists](https://www.cnn.com/2024/09/17/science/egypt-army-barracks-sword-intl-scli/index.html)
+* [2024-09-21, 11:18:30](https://news.ycombinator.com/item?id=41609254) - [Furnace – the biggest multi-system chiptune tracker ever made](https://github.com/tildearrow/furnace)
 * [2024-09-21, 10:53:43](https://news.ycombinator.com/item?id=41609127) - [Antarctica's Ozone Hole Is Healing and Set to Recover by 2066](https://www.iflscience.com/antarcticas-ozone-hole-is-healing-and-set-to-recover-fully-by-2066-75983)
 * [2024-09-21, 10:48:35](https://news.ycombinator.com/item?id=41609099) - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
 * [2024-09-21, 09:49:38](https://news.ycombinator.com/item?id=41608810) - [Life without Aadhaar digital identity in India](https://www.deccanherald.com/india/life-without-aadhaar-3200235)
