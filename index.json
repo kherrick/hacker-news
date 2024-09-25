@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-09-25, 11:53:35",
-      "https://news.ycombinator.com/item?id=41646295"
-    ],
-    [
-      "Fighting back against proper noun feature names (2021)",
-      "https://kubie.co/blog/fighting-feature-names/"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 10:39:21",
       "https://news.ycombinator.com/item?id=41645848"
     ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2024-09-24, 20:59:53",
+      "https://news.ycombinator.com/item?id=41640845"
+    ],
+    [
+      "Google Cache is fully dead",
+      "https://www.seroundtable.com/google-cache-dead-38112.html"
+    ]
+  ],
+  [
+    [
       "2024-09-24, 20:56:29",
       "https://news.ycombinator.com/item?id=41640812"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-09-23, 20:34:44",
-      "https://news.ycombinator.com/item?id=41630223"
-    ],
-    [
-      "Nova by Panic: The native Mac code editor that's fast and amazing",
-      "https://nova.app/"
-    ]
-  ],
-  [
-    [
       "2024-09-22, 09:43:18",
       "https://news.ycombinator.com/item?id=41615910"
     ],
@@ -287,6 +277,16 @@
     [
       "Optimizing Guile Scheme",
       "https://dthompson.us/posts/optimizing-guile-scheme.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 07:10:49",
+      "https://news.ycombinator.com/item?id=41599579"
+    ],
+    [
+      "Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys",
+      "https://github.com/vshymanskyy/wasm2mpy"
     ]
   ],
   [
