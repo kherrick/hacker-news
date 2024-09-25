@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-25, 17:50:42",
+      "https://news.ycombinator.com/item?id=41649983"
+    ],
+    [
+      "Meta Quest 3S",
+      "https://www.meta.com/tw/en/quest/quest-3s/"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 17:19:58",
       "https://news.ycombinator.com/item?id=41649660"
     ],
@@ -37,16 +47,6 @@
     [
       "Operator algebras and the substructure of space and time",
       "https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 16:28:20",
-      "https://news.ycombinator.com/item?id=41649134"
-    ],
-    [
-      "Timeshare Owner? The Mexican Drug Cartels Want You",
-      "https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/"
     ]
   ],
   [
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2024-09-25, 15:21:02",
-      "https://news.ycombinator.com/item?id=41648483"
+      "2024-09-25, 14:42:57",
+      "https://news.ycombinator.com/item?id=41648112"
     ],
     [
-      "System Intiative is generally available",
-      "https://www.systeminit.com/blog-system-initiative-is-the-future/"
+      "VitePress: Vite and Vue powered static site generator",
+      "https://github.com/vuejs/vitepress"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Audio Masking",
       "https://www.cryptomuseum.com/covert/bugs/masking/"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 14:22:37",
+      "https://news.ycombinator.com/item?id=41647876"
+    ],
+    [
+      "Reconductoring: Boosting U.S. Grid Capacity Efficiently",
+      "https://spectrum.ieee.org/grid-enhancing-technologies"
     ]
   ],
   [
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2024-09-23, 10:05:03",
-      "https://news.ycombinator.com/item?id=41624322"
-    ],
-    [
-      "ButterCMS unreported downtime and security concerns",
-      "https://cside.dev/blog/buttercms-unreported-downtime-and-security-concerns"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 08:41:25",
       "https://news.ycombinator.com/item?id=41623814"
     ],
     [
       "Show HN: King Thirteen: 2048 with chess pieces, in under 13 KB",
       "https://js13kgames.com/2024/games/king-thirteen"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 11:18:30",
-      "https://news.ycombinator.com/item?id=41609254"
-    ],
-    [
-      "Furnace – the biggest multi-system chiptune tracker ever made",
-      "https://github.com/tildearrow/furnace"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Optimizing Guile Scheme",
       "https://dthompson.us/posts/optimizing-guile-scheme.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 03:05:43",
+      "https://news.ycombinator.com/item?id=41598429"
+    ],
+    [
+      "Disabling Scheduled Dependency Updates",
+      "https://davidism.com/disabling-scheduled-dependency-updates/"
     ]
   ]
 ]
