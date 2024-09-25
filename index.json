@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-25, 19:18:12",
+      "https://news.ycombinator.com/item?id=41650905"
+    ],
+    [
+      "Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code",
+      "https://github.com/cle-b/httpdbg"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 18:40:26",
+      "https://news.ycombinator.com/item?id=41650534"
+    ],
+    [
+      "How to avoid a BSOD on your 2B dollar spacecraft",
+      "https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 17:56:53",
       "https://news.ycombinator.com/item?id=41650047"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-09-25, 12:22:06",
-      "https://news.ycombinator.com/item?id=41646551"
-    ],
-    [
-      "Google Cloud files complaint due to Microsoft's anti-competitive licensing",
-      "https://cloud.google.com/blog/topics/inside-google-cloud/filing-eu-complaint-against-microsoft-licensing/"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 12:19:29",
       "https://news.ycombinator.com/item?id=41646531"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-09-24, 23:39:30",
-      "https://news.ycombinator.com/item?id=41642151"
-    ],
-    [
-      "Show HN: Hosting my website using my C web server",
-      "https://github.com/cozis/blogtech"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 08:41:25",
       "https://news.ycombinator.com/item?id=41623814"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-09-21, 11:18:30",
-      "https://news.ycombinator.com/item?id=41609254"
+      "2024-09-22, 14:39:21",
+      "https://news.ycombinator.com/item?id=41617400"
     ],
     [
-      "Furnace – the biggest multi-system chiptune tracker ever made",
-      "https://github.com/tildearrow/furnace"
+      "Communicating with Interactive Articles (2020)",
+      "https://distill.pub/2020/communicating-with-interactive-articles/"
     ]
   ],
   [
