@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-25, 09:00:15](https://news.ycombinator.com/item?id=41645320) - [Social Web Foundation launches, supported by Vivaldi](https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/)
 * [2024-09-25, 04:52:56](https://news.ycombinator.com/item?id=41643810) - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 * [2024-09-25, 04:29:07](https://news.ycombinator.com/item?id=41643690) - [Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
-* [2024-09-25, 04:05:43](https://news.ycombinator.com/item?id=41643572) - [G, a Statistical Myth (2007)](http://bactra.org/weblog/523.html)
 * [2024-09-25, 02:05:12](https://news.ycombinator.com/item?id=41642969) - [Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
 * [2024-09-25, 00:41:05](https://news.ycombinator.com/item?id=41642487) - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 * [2024-09-24, 23:39:30](https://news.ycombinator.com/item?id=41642151) - [Show HN: Hosting my website using my C web server](https://github.com/cozis/blogtech)
