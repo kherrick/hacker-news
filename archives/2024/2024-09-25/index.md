@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 12:59:41](https://news.ycombinator.com/item?id=41646967) - [As IBM pushes for automation, its AI simply not up to the job of replacing staff](https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/)
+* [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646420) - [Who Is Marcellus Williams: Execution in Missouri Despite Evidence of Innocence](https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/)
 * [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646419) - [Gmail's blue checkmarks are coming to iOS and Android](https://www.theverge.com/2024/9/25/24253904/gmails-blue-checkmarks-are-coming-to-ios-and-android)
+* [2024-09-25, 11:53:35](https://news.ycombinator.com/item?id=41646295) - [Fighting back against proper noun feature names (2021)](https://kubie.co/blog/fighting-feature-names/)
 * [2024-09-25, 11:46:19](https://news.ycombinator.com/item?id=41646238) - [BBC Sound Effects Library](https://sound-effects.bbcrewind.co.uk/search)
 * [2024-09-25, 11:35:44](https://news.ycombinator.com/item?id=41646163) - [Hetzner introduces GPU server for AI training](https://www.hetzner.com/dedicated-rootserver/gex130/)
 * [2024-09-25, 11:01:05](https://news.ycombinator.com/item?id=41645970) - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
