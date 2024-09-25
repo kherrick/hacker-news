@@ -2,7 +2,6 @@
 
 * [2024-09-25, 12:59:41](https://news.ycombinator.com/item?id=41646967) - [As IBM pushes for automation, its AI simply not up to the job of replacing staff](https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/)
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
-* [2024-09-25, 11:53:35](https://news.ycombinator.com/item?id=41646295) - [Fighting back against proper noun feature names (2021)](https://kubie.co/blog/fighting-feature-names/)
 * [2024-09-25, 10:39:21](https://news.ycombinator.com/item?id=41645848) - [MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://menyifang.github.io/projects/MIMO/index.html)
 * [2024-09-25, 10:31:00](https://news.ycombinator.com/item?id=41645804) - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
 * [2024-09-25, 10:24:40](https://news.ycombinator.com/item?id=41645759) - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
@@ -13,6 +12,7 @@
 * [2024-09-25, 00:41:05](https://news.ycombinator.com/item?id=41642487) - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 * [2024-09-24, 23:39:30](https://news.ycombinator.com/item?id=41642151) - [Show HN: Hosting my website using my C web server](https://github.com/cozis/blogtech)
 * [2024-09-24, 21:45:50](https://news.ycombinator.com/item?id=41641274) - [Why Most Published Research Findings Are False (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+* [2024-09-24, 20:59:53](https://news.ycombinator.com/item?id=41640845) - [Google Cache is fully dead](https://www.seroundtable.com/google-cache-dead-38112.html)
 * [2024-09-24, 20:56:29](https://news.ycombinator.com/item?id=41640812) - [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
 * [2024-09-24, 19:26:03](https://news.ycombinator.com/item?id=41640005) - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
 * [2024-09-24, 19:23:41](https://news.ycombinator.com/item?id=41639980) - [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
@@ -21,7 +21,6 @@
 * [2024-09-24, 15:25:52](https://news.ycombinator.com/item?id=41637550) - [Show HN: Velvet – Store OpenAI requests in your own DB](https://www.usevelvet.com)
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 06:12:45](https://news.ycombinator.com/item?id=41633551) - [Working Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
-* [2024-09-23, 20:34:44](https://news.ycombinator.com/item?id=41630223) - [Nova by Panic: The native Mac code editor that's fast and amazing](https://nova.app/)
 * [2024-09-22, 09:43:18](https://news.ycombinator.com/item?id=41615910) - [Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube](https://geoawesome.com/avoidance-mapping-what-it-is-where-it-fits-in-the-cartography-cube/)
 * [2024-09-21, 11:18:30](https://news.ycombinator.com/item?id=41609254) - [Furnace – the biggest multi-system chiptune tracker ever made](https://github.com/tildearrow/furnace)
 * [2024-09-21, 09:41:48](https://news.ycombinator.com/item?id=41608784) - [Graph Coloring Methods](https://graphcoloringmethods.com/)
@@ -29,6 +28,7 @@
 * [2024-09-20, 19:39:45](https://news.ycombinator.com/item?id=41604950) - [Ask HN: Platform for 11 year old to create video games?](https://news.ycombinator.com/item?id=41604950)
 * [2024-09-20, 12:02:44](https://news.ycombinator.com/item?id=41601148) - [NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
 * [2024-09-20, 11:28:01](https://news.ycombinator.com/item?id=41600903) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
+* [2024-09-20, 07:10:49](https://news.ycombinator.com/item?id=41599579) - [Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys](https://github.com/vshymanskyy/wasm2mpy)
 * [2024-09-20, 03:02:20](https://news.ycombinator.com/item?id=41598414) - [A Little History of the Anchovy](https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/)
 
 ## [Archives](archives/index.md)
