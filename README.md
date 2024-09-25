@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-25, 10:31:00](https://news.ycombinator.com/item?id=41645804) - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
 * [2024-09-25, 10:22:00](https://news.ycombinator.com/item?id=41645736) - [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
 * [2024-09-25, 09:00:15](https://news.ycombinator.com/item?id=41645320) - [Social Web Foundation launches, supported by Vivaldi](https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/)
 * [2024-09-25, 04:52:56](https://news.ycombinator.com/item?id=41643810) - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
@@ -20,7 +21,6 @@
 * [2024-09-24, 06:12:45](https://news.ycombinator.com/item?id=41633551) - [Working Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 * [2024-09-22, 14:07:05](https://news.ycombinator.com/item?id=41617174) - [How We Sort the World](https://thereader.mitpress.mit.edu/how-we-sort-the-world-gregory-murphy-on-the-psychology-of-categories/)
 * [2024-09-22, 09:43:18](https://news.ycombinator.com/item?id=41615910) - [Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube](https://geoawesome.com/avoidance-mapping-what-it-is-where-it-fits-in-the-cartography-cube/)
-* [2024-09-21, 16:33:55](https://news.ycombinator.com/item?id=41610995) - [Mkfs.fat on Linux vs. OS/2 2.1](https://www.uninformativ.de/blog/postings/2024-09-21/0/POSTING-en.html)
 * [2024-09-21, 11:18:30](https://news.ycombinator.com/item?id=41609254) - [Furnace – the biggest multi-system chiptune tracker ever made](https://github.com/tildearrow/furnace)
 * [2024-09-21, 02:11:02](https://news.ycombinator.com/item?id=41606932) - [Filtered for home robots, fast and slow](https://interconnected.org/home/2024/09/20/filtered)
 * [2024-09-21, 00:59:03](https://news.ycombinator.com/item?id=41606694) - [The Calculator that spawned the Microprocessor (2009)](http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html)
