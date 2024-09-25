@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-09-25, 15:54:57",
-      "https://news.ycombinator.com/item?id=41648772"
-    ],
-    [
-      "X11-Basic (1991-2020)",
-      "https://x11-basic.sourceforge.net"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 15:48:51",
       "https://news.ycombinator.com/item?id=41648711"
     ],
@@ -167,6 +157,16 @@
     [
       "The lost language extensions of MetaWare's High C compiler (2023)",
       "https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 13:05:27",
+      "https://news.ycombinator.com/item?id=41647025"
+    ],
+    [
+      "Show HN: Coros – A Modern C++ Library for Task Parallelism",
+      "https://github.com/mtmucha/coros"
     ]
   ],
   [
