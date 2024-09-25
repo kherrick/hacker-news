@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
 * [2024-09-25, 15:32:39](https://news.ycombinator.com/item?id=41648573) - [Hire HTML and CSS People](https://robinrendle.com/notes/hire-html-people/)
+* [2024-09-25, 15:31:00](https://news.ycombinator.com/item?id=41648564) - [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
 * [2024-09-25, 14:27:03](https://news.ycombinator.com/item?id=41647923) - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The Lost Language Extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
 * [2024-09-25, 14:04:49](https://news.ycombinator.com/item?id=41647687) - [Show HN: Test your website on 180+ device viewports (with multi-device mode)](https://viewport-tester.com/)
