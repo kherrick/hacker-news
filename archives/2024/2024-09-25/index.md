@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
 * [2024-09-25, 06:33:53](https://news.ycombinator.com/item?id=41644315) - [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
+* [2024-09-25, 06:25:25](https://news.ycombinator.com/item?id=41644267) - [Holy Hell, the Social Web Did Not Begin in 2008](https://bix.blog/posts/holy-hell-the-social-web-did-not-begin-in-2008)
 * [2024-09-25, 05:46:28](https://news.ycombinator.com/item?id=41644062) - [Gnome 47 Wallpapers](https://blog.jimmac.eu/2024/wallpapers/)
 * [2024-09-25, 05:34:55](https://news.ycombinator.com/item?id=41643991) - [Firefox tracks you with \"privacy preserving\" feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
 * [2024-09-25, 04:52:56](https://news.ycombinator.com/item?id=41643810) - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
