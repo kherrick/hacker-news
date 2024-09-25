@@ -52,6 +52,7 @@
 * [2024-09-20, 12:53:48](https://news.ycombinator.com/item?id=41601517) - [Neat Randomized Algorithms: RandDiag for Rapidly Diagonalizing Normal Matrices](https://www.ethanepperly.com/index.php/2024/07/02/neat-randomized-algorithms-randdiag-for-rapidly-diagonalizing-normal-matrices/)
 * [2024-09-20, 12:43:29](https://news.ycombinator.com/item?id=41601443) - [Three Mile Island nuclear plant restart in Microsoft AI power deal](https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/)
 * [2024-09-20, 12:30:11](https://news.ycombinator.com/item?id=41601347) - [Tō Reo – A Māori Spellchecker](https://xn--treo-l3a.nz/)
+* [2024-09-20, 12:18:24](https://news.ycombinator.com/item?id=41601250) - [ts-blank-space is a fast type-stripping compiler](https://bloomberg.github.io/ts-blank-space/)
 * [2024-09-20, 12:02:44](https://news.ycombinator.com/item?id=41601148) - [NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
 * [2024-09-20, 12:01:20](https://news.ycombinator.com/item?id=41601141) - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-09-20, 11:28:01](https://news.ycombinator.com/item?id=41600903) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
