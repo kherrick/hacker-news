@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-25, 03:20:51",
+      "https://news.ycombinator.com/item?id=41643388"
+    ],
+    [
+      "A new semantic chunking approach for RAG",
+      "https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 00:41:05",
       "https://news.ycombinator.com/item?id=41642487"
     ],
@@ -47,16 +57,6 @@
     [
       "Hacker plants false memories in ChatGPT to steal user data in perpetuity",
       "https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 21:56:13",
-      "https://news.ycombinator.com/item?id=41641373"
-    ],
-    [
-      "Hardening C Against ROP: Getting CET Shadow Stacks Working",
-      "https://x86.lol/generic/2024/09/23/user-shadow-stacks.html"
     ]
   ],
   [
