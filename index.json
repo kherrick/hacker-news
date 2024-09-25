@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-09-25, 14:42:57",
-      "https://news.ycombinator.com/item?id=41648112"
-    ],
-    [
-      "VitePress: Vite and Vue powered static site generator",
-      "https://github.com/vuejs/vitepress"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 14:27:03",
       "https://news.ycombinator.com/item?id=41647923"
     ],
@@ -137,6 +127,16 @@
     [
       "Show HN: Coros – A Modern C++ Library for Task Parallelism",
       "https://github.com/mtmucha/coros"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 12:22:06",
+      "https://news.ycombinator.com/item?id=41646551"
+    ],
+    [
+      "Google Cloud files complaint due to Microsoft's anti-competitive licensing",
+      "https://cloud.google.com/blog/topics/inside-google-cloud/filing-eu-complaint-against-microsoft-licensing/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-09-24, 20:56:29",
-      "https://news.ycombinator.com/item?id=41640812"
+      "2024-09-24, 23:39:30",
+      "https://news.ycombinator.com/item?id=41642151"
     ],
     [
-      "On Impactful AI Research",
-      "https://github.com/okhat/blog/blob/main/2024.09.impact.md"
+      "Show HN: Hosting my website using my C web server",
+      "https://github.com/cozis/blogtech"
     ]
   ],
   [
