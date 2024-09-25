@@ -32,6 +32,7 @@
 * [2024-09-23, 18:48:55](https://news.ycombinator.com/item?id=41629307) - [2.11BSD_X44: A 2.11 BSD that's still receiving patches, including x86 support](https://github.com/TheSledgeHammer/2.11BSD_X44)
 * [2024-09-23, 18:19:56](https://news.ycombinator.com/item?id=41628983) - [John Cassaday, Award-Winning Comic Book Artist&Creator of Planetary Dies at 52](https://www.nytimes.com/2024/09/18/arts/john-cassaday-dead.html)
 * [2024-09-23, 17:30:25](https://news.ycombinator.com/item?id=41628481) - [It's Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
+* [2024-09-23, 17:15:33](https://news.ycombinator.com/item?id=41628340) - [Why are the violins the biggest section in the orchestra?](https://phys.org/news/2024-09-violins-biggest-section-orchestra.html)
 * [2024-09-23, 17:06:12](https://news.ycombinator.com/item?id=41628225) - [Honey, YouTubers Are Poisoning the Kids](https://www.trend-mill.com/p/honey-youtubers-are-poisoning-the)
 * [2024-09-23, 17:01:15](https://news.ycombinator.com/item?id=41628167) - [The Intelligence Age](https://ia.samaltman.com/)
 * [2024-09-23, 16:43:30](https://news.ycombinator.com/item?id=41627966) - [Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
