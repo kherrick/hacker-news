@@ -74,6 +74,7 @@
 * [2024-09-21, 04:53:29](https://news.ycombinator.com/item?id=41607569) - [Why Ruby on Rails Will Never Die: A Veteran Coder's Perspective](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)
 * [2024-09-21, 03:05:27](https://news.ycombinator.com/item?id=41607166) - [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
 * [2024-09-21, 02:37:44](https://news.ycombinator.com/item?id=41607059) - [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
+* [2024-09-21, 02:11:02](https://news.ycombinator.com/item?id=41606932) - [Filtered for home robots, fast and slow](https://interconnected.org/home/2024/09/20/filtered)
 * [2024-09-21, 02:05:34](https://news.ycombinator.com/item?id=41606916) - [Sshfs for Windows](https://github.com/winfsp/sshfs-win)
 * [2024-09-21, 02:03:18](https://news.ycombinator.com/item?id=41606908) - [Doomretro – The classic, refined DOOM source port. For Windows PC](https://github.com/bradharding/doomretro)
 * [2024-09-21, 01:19:13](https://news.ycombinator.com/item?id=41606772) - [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L)
