@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 15:32:39](https://news.ycombinator.com/item?id=41648573) - [Hire HTML and CSS People](https://robinrendle.com/notes/hire-html-people/)
 * [2024-09-25, 14:27:03](https://news.ycombinator.com/item?id=41647923) - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The Lost Language Extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
+* [2024-09-25, 14:04:49](https://news.ycombinator.com/item?id=41647687) - [Show HN: Test your website on 180+ device viewports (with multi-device mode)](https://viewport-tester.com/)
 * [2024-09-25, 14:04:11](https://news.ycombinator.com/item?id=41647683) - [The Social Web Foundation Is Shaping the Next Era of the Web](https://werd.io/2024/unlocking-the-fediverse-the-social-web-foundation-is-shaping-the)
 * [2024-09-25, 13:05:27](https://news.ycombinator.com/item?id=41647025) - [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
 * [2024-09-25, 12:59:41](https://news.ycombinator.com/item?id=41646967) - [As IBM pushes for automation, its AI simply not up to the job of replacing staff](https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/)
 * [2024-09-25, 12:31:04](https://news.ycombinator.com/item?id=41646655) - [Mitchell Hashimoto: Zig Writings](https://mitchellh.com/zig)
 * [2024-09-25, 12:29:03](https://news.ycombinator.com/item?id=41646629) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
+* [2024-09-25, 12:22:06](https://news.ycombinator.com/item?id=41646551) - [Google Cloud files complaint due to Microsoft's anti-competitive licensing](https://cloud.google.com/blog/topics/inside-google-cloud/filing-eu-complaint-against-microsoft-licensing/)
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646420) - [Who Is Marcellus Williams: Execution in Missouri Despite Evidence of Innocence](https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/)
 * [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646419) - [Gmail's blue checkmarks are coming to iOS and Android](https://www.theverge.com/2024/9/25/24253904/gmails-blue-checkmarks-are-coming-to-ios-and-android)

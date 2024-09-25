@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-25, 15:32:39](https://news.ycombinator.com/item?id=41648573) - [Hire HTML and CSS People](https://robinrendle.com/notes/hire-html-people/)
 * [2024-09-25, 14:27:03](https://news.ycombinator.com/item?id=41647923) - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The Lost Language Extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
+* [2024-09-25, 14:04:49](https://news.ycombinator.com/item?id=41647687) - [Show HN: Test your website on 180+ device viewports (with multi-device mode)](https://viewport-tester.com/)
 * [2024-09-25, 13:05:27](https://news.ycombinator.com/item?id=41647025) - [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
+* [2024-09-25, 12:22:06](https://news.ycombinator.com/item?id=41646551) - [Google Cloud files complaint due to Microsoft's anti-competitive licensing](https://cloud.google.com/blog/topics/inside-google-cloud/filing-eu-complaint-against-microsoft-licensing/)
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 11:22:17](https://news.ycombinator.com/item?id=41646085) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 10:39:21](https://news.ycombinator.com/item?id=41645848) - [MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://menyifang.github.io/projects/MIMO/index.html)
@@ -16,9 +19,7 @@
 * [2024-09-24, 20:56:29](https://news.ycombinator.com/item?id=41640812) - [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
 * [2024-09-24, 19:26:03](https://news.ycombinator.com/item?id=41640005) - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
 * [2024-09-24, 19:23:41](https://news.ycombinator.com/item?id=41639980) - [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
-* [2024-09-24, 17:02:24](https://news.ycombinator.com/item?id=41638581) - [GSoC'24: Differentiable Logic for Interactive Systems and Generative Music](https://ijc8.me/2024/08/26/gsoc-difflogic/)
 * [2024-09-24, 16:23:35](https://news.ycombinator.com/item?id=41638199) - [Launch HN: Modern Realty (YC S24) – AI Real Estate Agent for Home Buyers](https://news.ycombinator.com/item?id=41638199)
-* [2024-09-24, 15:25:52](https://news.ycombinator.com/item?id=41637550) - [Show HN: Velvet – Store OpenAI requests in your own DB](https://www.usevelvet.com)
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 06:12:45](https://news.ycombinator.com/item?id=41633551) - [Working Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 * [2024-09-22, 09:43:18](https://news.ycombinator.com/item?id=41615910) - [Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube](https://geoawesome.com/avoidance-mapping-what-it-is-where-it-fits-in-the-cartography-cube/)
@@ -29,7 +30,6 @@
 * [2024-09-20, 17:06:53](https://news.ycombinator.com/item?id=41603819) - [Mathematicians define new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 * [2024-09-20, 12:02:44](https://news.ycombinator.com/item?id=41601148) - [NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
 * [2024-09-20, 11:28:01](https://news.ycombinator.com/item?id=41600903) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
-* [2024-09-20, 03:02:20](https://news.ycombinator.com/item?id=41598414) - [A Little History of the Anchovy](https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/)
 
 ## [Archives](archives/index.md)
 
