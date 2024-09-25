@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-25, 19:35:31](https://news.ycombinator.com/item?id=41651038) - [Mira Exits OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
 * [2024-09-25, 19:18:12](https://news.ycombinator.com/item?id=41650905) - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
 * [2024-09-25, 18:40:26](https://news.ycombinator.com/item?id=41650534) - [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
 * [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
@@ -22,7 +23,6 @@
 * [2024-09-25, 10:24:40](https://news.ycombinator.com/item?id=41645759) - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
 * [2024-09-25, 08:37:48](https://news.ycombinator.com/item?id=41645173) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 * [2024-09-25, 04:52:56](https://news.ycombinator.com/item?id=41643810) - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
-* [2024-09-25, 02:05:12](https://news.ycombinator.com/item?id=41642969) - [Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
 * [2024-09-25, 00:41:05](https://news.ycombinator.com/item?id=41642487) - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 * [2024-09-23, 08:41:25](https://news.ycombinator.com/item?id=41623814) - [Show HN: King Thirteen: 2048 with chess pieces, in under 13 KB](https://js13kgames.com/2024/games/king-thirteen)
 * [2024-09-22, 14:39:21](https://news.ycombinator.com/item?id=41617400) - [Communicating with Interactive Articles (2020)](https://distill.pub/2020/communicating-with-interactive-articles/)
