@@ -39,6 +39,7 @@
 * [2024-09-22, 14:55:13](https://news.ycombinator.com/item?id=41617508) - [The unknowns surrounding the mysterious rise of cancer in young adults](https://english.elpais.com/health/2024-09-20/the-unknowns-surrounding-the-mysterious-rise-of-cancer-in-young-adults.html)
 * [2024-09-22, 14:43:02](https://news.ycombinator.com/item?id=41617431) - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
 * [2024-09-22, 14:39:21](https://news.ycombinator.com/item?id=41617400) - [Communicating with Interactive Articles (2020)](https://distill.pub/2020/communicating-with-interactive-articles/)
+* [2024-09-22, 14:07:05](https://news.ycombinator.com/item?id=41617174) - [How We Sort the World](https://thereader.mitpress.mit.edu/how-we-sort-the-world-gregory-murphy-on-the-psychology-of-categories/)
 * [2024-09-22, 13:43:21](https://news.ycombinator.com/item?id=41617021) - [Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 * [2024-09-22, 13:41:17](https://news.ycombinator.com/item?id=41617004) - [How FIFA was outplayed by Electronic Arts](https://www.economist.com/business/2024/09/19/how-fifa-was-outplayed-by-electronic-arts)
 * [2024-09-22, 13:31:26](https://news.ycombinator.com/item?id=41616945) - [When You Call a Restaurant, You Might Be Chatting with an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)
