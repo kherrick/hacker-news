@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-25, 03:20:51](https://news.ycombinator.com/item?id=41643388) - [A new semantic chunking approach for RAG](https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag)
+* [2024-09-25, 01:54:10](https://news.ycombinator.com/item?id=41642900) - [XBill for PalmOS receives an update after 25 years](https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html)
+* [2024-09-25, 01:34:04](https://news.ycombinator.com/item?id=41642772) - [Microprogramming: A New Way to Program](https://breckyunits.com/microprograms.html)
 * [2024-09-25, 00:41:05](https://news.ycombinator.com/item?id=41642487) - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 * [2024-09-25, 00:08:01](https://news.ycombinator.com/item?id=41642313) - [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
 * [2024-09-24, 23:39:30](https://news.ycombinator.com/item?id=41642151) - [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
@@ -20,8 +22,6 @@
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 11:58:02](https://news.ycombinator.com/item?id=41635583) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
-* [2024-09-24, 10:50:10](https://news.ycombinator.com/item?id=41635176) - [Jetstream: Shrinking the AT Protocol Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
-* [2024-09-24, 10:30:05](https://news.ycombinator.com/item?id=41635080) - [The quest to build a telescope on the moon](https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon)
 * [2024-09-24, 08:20:38](https://news.ycombinator.com/item?id=41634356) - [Show HN: JSON For You – Visualize JSON in graph or table views](https://github.com/loggerhead/json4u)
 * [2024-09-21, 11:18:30](https://news.ycombinator.com/item?id=41609254) - [Furnace – the biggest multi-system chiptune tracker ever made](https://github.com/tildearrow/furnace)
 * [2024-09-21, 00:59:03](https://news.ycombinator.com/item?id=41606694) - [The Calculator that spawned the Microprocessor (2009)](http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html)
