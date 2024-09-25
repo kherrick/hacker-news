@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-25, 11:01:05](https://news.ycombinator.com/item?id=41645970) - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
 * [2024-09-25, 10:31:00](https://news.ycombinator.com/item?id=41645804) - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
 * [2024-09-25, 10:22:00](https://news.ycombinator.com/item?id=41645736) - [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
 * [2024-09-25, 09:00:15](https://news.ycombinator.com/item?id=41645320) - [Social Web Foundation launches, supported by Vivaldi](https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/)
@@ -28,7 +29,6 @@
 * [2024-09-20, 14:41:03](https://news.ycombinator.com/item?id=41602473) - [Understudied protein blobs have global effects on cell biochemistry](https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html)
 * [2024-09-20, 12:53:48](https://news.ycombinator.com/item?id=41601517) - [Neat Randomized Algorithms: RandDiag for Rapidly Diagonalizing Normal Matrices](https://www.ethanepperly.com/index.php/2024/07/02/neat-randomized-algorithms-randdiag-for-rapidly-diagonalizing-normal-matrices/)
 * [2024-09-20, 12:02:44](https://news.ycombinator.com/item?id=41601148) - [NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
-* [2024-09-20, 07:10:49](https://news.ycombinator.com/item?id=41599579) - [Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys](https://github.com/vshymanskyy/wasm2mpy)
 * [2024-09-20, 03:02:20](https://news.ycombinator.com/item?id=41598414) - [A Little History of the Anchovy](https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/)
 
 ## [Archives](archives/index.md)
