@@ -10,6 +10,7 @@
 * [2024-09-25, 18:40:26](https://news.ycombinator.com/item?id=41650534) - [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
 * [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 * [2024-09-25, 17:50:42](https://news.ycombinator.com/item?id=41649983) - [Meta Quest 3S](https://www.meta.com/tw/en/quest/quest-3s/)
+* [2024-09-25, 17:48:55](https://news.ycombinator.com/item?id=41649963) - [Bronze Age cheese reveals human-Lactobacillus interactions over history](https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008997%3Fshowall%3Dtrue)
 * [2024-09-25, 17:22:16](https://news.ycombinator.com/item?id=41649683) - [Meta is discontinuing the Quest Pro two years after launching it](https://www.theverge.com/2024/9/25/24253322/meta-quest-pro-2-discontinued-vr)
 * [2024-09-25, 17:19:58](https://news.ycombinator.com/item?id=41649660) - [How to Hack the Breakthrough Prize (Ft. Session Confusion)](https://varun.ch/breakthrough)
 * [2024-09-25, 17:00:15](https://news.ycombinator.com/item?id=41649460) - [Hamming AI (YC S24) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer)
