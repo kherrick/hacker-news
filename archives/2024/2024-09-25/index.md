@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646420) - [Who Is Marcellus Williams: Execution in Missouri Despite Evidence of Innocence](https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/)
+* [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646419) - [Gmail's blue checkmarks are coming to iOS and Android](https://www.theverge.com/2024/9/25/24253904/gmails-blue-checkmarks-are-coming-to-ios-and-android)
+* [2024-09-25, 11:46:19](https://news.ycombinator.com/item?id=41646238) - [BBC Sound Effects Library](https://sound-effects.bbcrewind.co.uk/search)
 * [2024-09-25, 11:35:44](https://news.ycombinator.com/item?id=41646163) - [Hetzner introduces GPU server for AI training](https://www.hetzner.com/dedicated-rootserver/gex130/)
 * [2024-09-25, 11:01:05](https://news.ycombinator.com/item?id=41645970) - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
 * [2024-09-25, 10:31:00](https://news.ycombinator.com/item?id=41645804) - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
 * [2024-09-25, 10:24:40](https://news.ycombinator.com/item?id=41645759) - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
 * [2024-09-25, 10:22:00](https://news.ycombinator.com/item?id=41645736) - [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
+* [2024-09-25, 09:48:53](https://news.ycombinator.com/item?id=41645542) - [Lish Shell](https://github.com/nibbula/yew/tree/master/lish)
 * [2024-09-25, 09:00:15](https://news.ycombinator.com/item?id=41645320) - [Social Web Foundation launches, supported by Vivaldi](https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/)
 * [2024-09-25, 08:52:19](https://news.ycombinator.com/item?id=41645265) - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
+* [2024-09-25, 08:37:48](https://news.ycombinator.com/item?id=41645173) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 * [2024-09-25, 06:33:53](https://news.ycombinator.com/item?id=41644315) - [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
 * [2024-09-25, 06:25:25](https://news.ycombinator.com/item?id=41644267) - [Holy Hell, the Social Web Did Not Begin in 2008](https://bix.blog/posts/holy-hell-the-social-web-did-not-begin-in-2008)
 * [2024-09-25, 05:46:28](https://news.ycombinator.com/item?id=41644062) - [Gnome 47 Wallpapers](https://blog.jimmac.eu/2024/wallpapers/)

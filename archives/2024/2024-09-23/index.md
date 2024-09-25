@@ -16,6 +16,7 @@
 * [2024-09-23, 20:59:18](https://news.ycombinator.com/item?id=41630482) - [Two in three shoppers won't buy products in locked display cases](https://www.retailbrew.com/stories/2024/09/23/two-in-three-shoppers-won-t-buy-products-in-locked-display-cases)
 * [2024-09-23, 20:52:30](https://news.ycombinator.com/item?id=41630408) - [A Web-based WYSIWYG editor for automation routines](https://manganiello.social/@fabio/posts/AmJ1i018C0Lt2hCWPY)
 * [2024-09-23, 20:46:35](https://news.ycombinator.com/item?id=41630348) - [Positive effects of creatine supplementation on memory in healthy individuals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9999677/)
+* [2024-09-23, 20:34:44](https://news.ycombinator.com/item?id=41630223) - [Nova by Panic: The native Mac code editor that's fast and amazing](https://nova.app/)
 * [2024-09-23, 20:28:35](https://news.ycombinator.com/item?id=41630140) - [Nintendo Kawaii Progress (Keychain-Sized Nintendo Wii)](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/page-4)
 * [2024-09-23, 20:24:24](https://news.ycombinator.com/item?id=41630094) - [Twitter/X will let people you've blocked see your posts](https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts)
 * [2024-09-23, 20:22:52](https://news.ycombinator.com/item?id=41630081) - [Where has all the productivity gone? (2021)](https://www.johndcook.com/blog/2021/07/31/where-has-productivity-gone/)
