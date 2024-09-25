@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-09-25, 12:05:18",
-      "https://news.ycombinator.com/item?id=41646420"
+      "2024-09-25, 10:39:21",
+      "https://news.ycombinator.com/item?id=41645848"
     ],
     [
-      "Who Is Marcellus Williams: Execution in Missouri Despite Evidence of Innocence",
-      "https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 12:05:18",
-      "https://news.ycombinator.com/item?id=41646419"
-    ],
-    [
-      "Gmail's blue checkmarks are coming to iOS and Android",
-      "https://www.theverge.com/2024/9/25/24253904/gmails-blue-checkmarks-are-coming-to-ios-and-android"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 11:46:19",
-      "https://news.ycombinator.com/item?id=41646238"
-    ],
-    [
-      "BBC Sound Effects Library",
-      "https://sound-effects.bbcrewind.co.uk/search"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 11:35:44",
-      "https://news.ycombinator.com/item?id=41646163"
-    ],
-    [
-      "Hetzner introduces GPU server for AI training",
-      "https://www.hetzner.com/dedicated-rootserver/gex130/"
+      "MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling",
+      "https://menyifang.github.io/projects/MIMO/index.html"
     ]
   ],
   [
@@ -61,32 +31,32 @@
   ],
   [
     [
-      "2024-09-25, 09:48:53",
-      "https://news.ycombinator.com/item?id=41645542"
+      "2024-09-25, 10:07:16",
+      "https://news.ycombinator.com/item?id=41645642"
     ],
     [
-      "Lish Shell",
-      "https://github.com/nibbula/yew/tree/master/lish"
+      "Avoiding if-else Hell: The Functional Style",
+      "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style/"
     ]
   ],
   [
     [
-      "2024-09-25, 09:00:15",
-      "https://news.ycombinator.com/item?id=41645320"
+      "2024-09-25, 09:37:13",
+      "https://news.ycombinator.com/item?id=41645476"
     ],
     [
-      "Social Web Foundation launches, supported by Vivaldi",
-      "https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/"
+      "A Summary of Ilya Sutskevers AI Reading List",
+      "https://tensorlabbet.com/"
     ]
   ],
   [
     [
-      "2024-09-25, 08:52:19",
-      "https://news.ycombinator.com/item?id=41645265"
+      "2024-09-25, 09:24:46",
+      "https://news.ycombinator.com/item?id=41645413"
     ],
     [
-      "How I Built My Blog",
-      "https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/"
+      "Why Payments Engineers Should Avoid State Machines",
+      "https://news.alvaroduran.com/p/why-payments-engineers-should-avoid"
     ]
   ],
   [
@@ -181,6 +151,26 @@
   ],
   [
     [
+      "2024-09-24, 19:23:41",
+      "https://news.ycombinator.com/item?id=41639980"
+    ],
+    [
+      "Death of the Department Store",
+      "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 17:02:24",
+      "https://news.ycombinator.com/item?id=41638581"
+    ],
+    [
+      "GSoC'24: Differentiable Logic for Interactive Systems and Generative Music",
+      "https://ijc8.me/2024/08/26/gsoc-difflogic/"
+    ]
+  ],
+  [
+    [
       "2024-09-24, 16:23:35",
       "https://news.ycombinator.com/item?id=41638199"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2024-09-21, 02:11:02",
-      "https://news.ycombinator.com/item?id=41606932"
-    ],
-    [
-      "Filtered for home robots, fast and slow",
-      "https://interconnected.org/home/2024/09/20/filtered"
-    ]
-  ],
-  [
-    [
       "2024-09-21, 00:59:03",
       "https://news.ycombinator.com/item?id=41606694"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-09-20, 14:41:03",
+      "https://news.ycombinator.com/item?id=41602473"
+    ],
+    [
+      "Understudied protein blobs have global effects on cell biochemistry",
+      "https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 12:02:44",
       "https://news.ycombinator.com/item?id=41601148"
     ],
     [
       "NASA spacecraft to probe possibility of life in Europa's salty ocean",
       "https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 03:02:20",
+      "https://news.ycombinator.com/item?id=41598414"
+    ],
+    [
+      "A Little History of the Anchovy",
+      "https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/"
     ]
   ]
 ]
