@@ -50,6 +50,7 @@
 * [2024-09-23, 13:46:42](https://news.ycombinator.com/item?id=41626035) - [YouTube Premium is getting a big price hike internationally](https://www.androidpolice.com/youtube-premium-getting-big-price-hike-internationally/)
 * [2024-09-23, 13:31:40](https://news.ycombinator.com/item?id=41625903) - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 * [2024-09-23, 13:13:38](https://news.ycombinator.com/item?id=41625714) - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
+* [2024-09-23, 13:12:40](https://news.ycombinator.com/item?id=41625704) - [Combining sound with tongue stimulation for the treatment of tinnitus](https://www.nature.com/articles/s41467-024-50473-z)
 * [2024-09-23, 12:46:15](https://news.ycombinator.com/item?id=41625456) - [NeRF-Supervised Feature Point Detection and Description](https://arxiv.org/abs/2403.08156)
 * [2024-09-23, 12:42:49](https://news.ycombinator.com/item?id=41625439) - [Linux Preparing Support for the RISC-V Framework Laptop 13](https://www.phoronix.com/news/Linux-DT-Framework-13-RISC-V)
 * [2024-09-23, 12:37:45](https://news.ycombinator.com/item?id=41625402) - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
 * [2024-09-25, 21:01:15](https://news.ycombinator.com/item?id=41651820) - [Clara (YC S24) Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
+* [2024-09-25, 20:36:05](https://news.ycombinator.com/item?id=41651596) - [The Daily Scrum: Does It Have to Be Daily?](https://rethinkingsoftware.substack.com/p/the-daily-scrum)
 * [2024-09-25, 19:35:31](https://news.ycombinator.com/item?id=41651038) - [Mira Exits OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
 * [2024-09-25, 19:30:52](https://news.ycombinator.com/item?id=41651001) - [Cozystack has officially been included in the CNCF Landscape](https://blog.aenix.io/cozystack-has-officially-been-included-in-the-cncf-landscape-07cc60c9e0eb)
 * [2024-09-25, 19:18:12](https://news.ycombinator.com/item?id=41650905) - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
