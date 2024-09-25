@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
+* [2024-09-25, 11:36:07](https://news.ycombinator.com/item?id=41646167) - [US Investigating SAP, Carahsoft for Potential Price-Fixing](https://www.msn.com/en-us/money/other/us-investigating-sap-carahsoft-for-potential-price-fixing/ar-AA1r9LW8)
 * [2024-09-25, 11:22:17](https://news.ycombinator.com/item?id=41646085) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 10:39:21](https://news.ycombinator.com/item?id=41645848) - [MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://menyifang.github.io/projects/MIMO/index.html)
 * [2024-09-25, 10:24:40](https://news.ycombinator.com/item?id=41645759) - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
@@ -11,7 +12,6 @@
 * [2024-09-25, 00:41:05](https://news.ycombinator.com/item?id=41642487) - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 * [2024-09-24, 23:39:30](https://news.ycombinator.com/item?id=41642151) - [Show HN: Hosting my website using my C web server](https://github.com/cozis/blogtech)
 * [2024-09-24, 21:45:50](https://news.ycombinator.com/item?id=41641274) - [Why Most Published Research Findings Are False (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
-* [2024-09-24, 20:59:53](https://news.ycombinator.com/item?id=41640845) - [Google Cache is fully dead](https://www.seroundtable.com/google-cache-dead-38112.html)
 * [2024-09-24, 20:56:29](https://news.ycombinator.com/item?id=41640812) - [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
 * [2024-09-24, 19:26:03](https://news.ycombinator.com/item?id=41640005) - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
 * [2024-09-24, 19:23:41](https://news.ycombinator.com/item?id=41639980) - [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)

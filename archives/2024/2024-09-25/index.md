@@ -13,6 +13,7 @@
 * [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646419) - [Gmail's blue checkmarks are coming to iOS and Android](https://www.theverge.com/2024/9/25/24253904/gmails-blue-checkmarks-are-coming-to-ios-and-android)
 * [2024-09-25, 11:53:35](https://news.ycombinator.com/item?id=41646295) - [Fighting back against proper noun feature names (2021)](https://kubie.co/blog/fighting-feature-names/)
 * [2024-09-25, 11:46:19](https://news.ycombinator.com/item?id=41646238) - [BBC Sound Effects Library](https://sound-effects.bbcrewind.co.uk/search)
+* [2024-09-25, 11:36:07](https://news.ycombinator.com/item?id=41646167) - [US Investigating SAP, Carahsoft for Potential Price-Fixing](https://www.msn.com/en-us/money/other/us-investigating-sap-carahsoft-for-potential-price-fixing/ar-AA1r9LW8)
 * [2024-09-25, 11:35:44](https://news.ycombinator.com/item?id=41646163) - [Hetzner introduces GPU server for AI training](https://www.hetzner.com/dedicated-rootserver/gex130/)
 * [2024-09-25, 11:30:57](https://news.ycombinator.com/item?id=41646135) - [Google Paid $2.7B to Bring Back an AI Genius Who Quit in Frustration](https://www.wsj.com/tech/ai/noam-shazeer-google-ai-deal-d3605697)
 * [2024-09-25, 11:22:17](https://news.ycombinator.com/item?id=41646085) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
