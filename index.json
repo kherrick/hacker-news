@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-25, 16:10:35",
+      "https://news.ycombinator.com/item?id=41648965"
+    ],
+    [
+      "Show HN: Fast and Exact Algorithm for Image Merging",
+      "https://github.com/C-Naoki/image-stitcher"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 15:54:57",
+      "https://news.ycombinator.com/item?id=41648772"
+    ],
+    [
+      "X11-Basic (1991-2020)",
+      "https://x11-basic.sourceforge.net"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 15:48:51",
       "https://news.ycombinator.com/item?id=41648711"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-09-24, 17:02:24",
-      "https://news.ycombinator.com/item?id=41638581"
-    ],
-    [
-      "GSoC'24: Differentiable Logic for Interactive Systems and Generative Music",
-      "https://ijc8.me/2024/08/26/gsoc-difflogic/"
-    ]
-  ],
-  [
-    [
       "2024-09-24, 16:23:35",
       "https://news.ycombinator.com/item?id=41638199"
     ],
@@ -251,32 +261,12 @@
   ],
   [
     [
-      "2024-09-21, 00:59:03",
-      "https://news.ycombinator.com/item?id=41606694"
-    ],
-    [
-      "The Calculator that spawned the Microprocessor (2009)",
-      "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 19:39:45",
       "https://news.ycombinator.com/item?id=41604950"
     ],
     [
       "Ask HN: Platform for 11 year old to create video games?",
       "https://news.ycombinator.com/item?id=41604950"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 17:06:53",
-      "https://news.ycombinator.com/item?id=41603819"
-    ],
-    [
-      "Mathematicians define new class of shape seen throughout nature",
-      "https://www.nature.com/articles/d41586-024-03099-6"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Optimizing Guile Scheme",
       "https://dthompson.us/posts/optimizing-guile-scheme.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 05:21:37",
+      "https://news.ycombinator.com/item?id=41599026"
+    ],
+    [
+      "Lessons from over 30 Years of Buy versus Rent Decision",
+      "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=90db2525a8c74fe80b5771bb8422ea252bb642d8"
     ]
   ]
 ]
