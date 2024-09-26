@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 18:59:31](https://news.ycombinator.com/item?id=41661906) - [Tcl 9.0.0 Released](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 18:55:43](https://news.ycombinator.com/item?id=41661862) - [Golang – when programmers had smaller egos](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
+* [2024-09-26, 18:45:37](https://news.ycombinator.com/item?id=41661751) - [Bendable non-silicon RISC-V CPU demoed running while wrapped around a pencil](https://www.pragmaticsemi.com/newsroom/blogs/bendable-non-silicon-risc-v-microprocessor)
 * [2024-09-26, 18:42:54](https://news.ycombinator.com/item?id=41661725) - [The Other Bubble](https://www.wheresyoured.at/saaspocalypse-now/)
 * [2024-09-26, 18:38:08](https://news.ycombinator.com/item?id=41661673) - [Over 300 New 'Nazca Lines' Geoglyphs Have Been Revealed by AI](https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/)
 * [2024-09-26, 18:28:45](https://news.ycombinator.com/item?id=41661579) - [Argentina Scrapped Its Rent Controls. Now the Market Is Thriving](https://www.wsj.com/world/americas/argentina-milei-rent-control-free-market-5345c3d5)
