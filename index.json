@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-26, 15:24:25",
-      "https://news.ycombinator.com/item?id=41659458"
-    ],
-    [
-      "Legalizing Sports Gambling Was a Mistake",
-      "https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/"
-    ]
-  ],
-  [
-    [
       "2024-09-26, 15:13:44",
       "https://news.ycombinator.com/item?id=41659324"
     ],
@@ -21,32 +11,12 @@
   ],
   [
     [
-      "2024-09-26, 15:03:39",
-      "https://news.ycombinator.com/item?id=41659213"
-    ],
-    [
-      "Raylib Project Creator",
-      "https://github.com/raysan5/raylib_project_creator"
-    ]
-  ],
-  [
-    [
       "2024-09-26, 14:24:36",
       "https://news.ycombinator.com/item?id=41658766"
     ],
     [
       "NKRYPT Sculpture",
       "https://www.meme.net.au/nkrypt/"
-    ]
-  ],
-  [
-    [
-      "2024-09-26, 13:53:19",
-      "https://news.ycombinator.com/item?id=41658421"
-    ],
-    [
-      "Tesla Full Self Driving requires human intervention every 13 miles",
-      "https://arstechnica.com/cars/2024/09/tesla-full-self-driving-requires-human-intervention-every-13-miles/"
     ]
   ],
   [
@@ -117,6 +87,16 @@
     [
       "Show HN: Cronexpr, a Rust library to parse and iter crontab expression",
       "https://docs.rs/cronexpr/latest/cronexpr/"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 02:54:26",
+      "https://news.ycombinator.com/item?id=41654078"
+    ],
+    [
+      "Register Allocation in the Go Compiler",
+      "https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation"
     ]
   ],
   [
@@ -207,6 +187,26 @@
     [
       "The lost language extensions of MetaWare's High C compiler (2023)",
       "https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 12:19:29",
+      "https://news.ycombinator.com/item?id=41646531"
+    ],
+    [
+      "Why I still blog after 15 years",
+      "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 08:37:48",
+      "https://news.ycombinator.com/item?id=41645173"
+    ],
+    [
+      "Rearchitecting: Redis to SQLite",
+      "https://wafris.org/blog/rearchitecting-for-sqlite"
     ]
   ],
   [
