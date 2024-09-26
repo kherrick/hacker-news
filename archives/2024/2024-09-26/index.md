@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 19:34:08](https://news.ycombinator.com/item?id=41662291) - [Attackers are increasingly targeting industrial systems with brute force](https://www.techradar.com/pro/security/hackers-are-increasingly-targeting-industrial-systems-with-brute-force-cisa-warns)
 * [2024-09-26, 18:59:31](https://news.ycombinator.com/item?id=41661906) - [Tcl 9.0.0 Released](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 18:55:43](https://news.ycombinator.com/item?id=41661862) - [Golang – when programmers had smaller egos](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
 * [2024-09-26, 18:45:37](https://news.ycombinator.com/item?id=41661751) - [Bendable non-silicon RISC-V CPU demoed running while wrapped around a pencil](https://www.pragmaticsemi.com/newsroom/blogs/bendable-non-silicon-risc-v-microprocessor)
