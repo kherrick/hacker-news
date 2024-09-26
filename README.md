@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-26, 12:32:54](https://news.ycombinator.com/item?id=41657622) - [The Tor Project merges with Tails, a Linux-based portable OS focused on privacy](https://techcrunch.com/2024/09/26/the-tor-project-merges-with-tails-a-linux-based-portable-os-focused-on-privacy/)
+* [2024-09-26, 13:12:30](https://news.ycombinator.com/item?id=41658007) - [Nile: PostgreSQL reengineered for multi-tenant apps](https://www.thenile.dev/blog/nile-public-launch)
 * [2024-09-26, 12:00:32](https://news.ycombinator.com/item?id=41657343) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
 * [2024-09-26, 09:39:57](https://news.ycombinator.com/item?id=41656381) - [Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
+* [2024-09-26, 08:34:43](https://news.ycombinator.com/item?id=41655954) - [OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)
 * [2024-09-26, 05:37:00](https://news.ycombinator.com/item?id=41654871) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 * [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
 * [2024-09-26, 02:54:26](https://news.ycombinator.com/item?id=41654078) - [Register Allocation in the Go Compiler](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation)
@@ -23,7 +24,6 @@
 * [2024-09-24, 17:37:50](https://news.ycombinator.com/item?id=41638987) - [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 * [2024-09-23, 22:15:17](https://news.ycombinator.com/item?id=41631157) - [Another new wasp species discovered by researchers](https://phys.org/news/2024-09-wasp-species.html)
 * [2024-09-23, 20:03:44](https://news.ycombinator.com/item?id=41629893) - [Octopuses seen hunting together with fish, punching those that don't cooperate](https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705)
-* [2024-09-23, 08:41:25](https://news.ycombinator.com/item?id=41623814) - [Show HN: King Thirteen: 2048 with chess pieces, in under 13 KB](https://js13kgames.com/2024/games/king-thirteen)
 * [2024-09-22, 11:53:26](https://news.ycombinator.com/item?id=41616413) - [Writing Portable Rendering Code with Nvrhi](https://developer.nvidia.com/blog/writing-portable-rendering-code-with-nvrhi/)
 * [2024-09-22, 10:11:43](https://news.ycombinator.com/item?id=41616023) - [Shizuku: App that lets you use system APIs with higher privileges without root](https://shizuku.rikka.app/)
 * [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
