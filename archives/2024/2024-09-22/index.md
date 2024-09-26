@@ -32,6 +32,7 @@
 * [2024-09-22, 17:00:11](https://news.ycombinator.com/item?id=41618295) - [Sieve (YC W22) Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
 * [2024-09-22, 16:36:16](https://news.ycombinator.com/item?id=41618158) - [A Bay Area boy was kidnapped from a park in 1951. He's just been found alive](https://www.sfgate.com/bayarea/article/bay-area-boy-kidnapped-park-found-alive-19784249.php)
 * [2024-09-22, 16:32:23](https://news.ycombinator.com/item?id=41618128) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
+* [2024-09-22, 16:21:51](https://news.ycombinator.com/item?id=41618070) - [The Future of Programming Systems – four thoughts](https://blog.waleson.com/2024/09/the-future-of-programming-systems-four.html)
 * [2024-09-22, 16:10:30](https://news.ycombinator.com/item?id=41617996) - [Kelsey Hightower: If governments rely on FOSS, they should fund it](https://www.theregister.com/2024/09/19/kelsey_hightower_civo/)
 * [2024-09-22, 15:21:53](https://news.ycombinator.com/item?id=41617669) - [Ask HN: How do I find my co-founder?](https://news.ycombinator.com/item?id=41617669)
 * [2024-09-22, 15:21:17](https://news.ycombinator.com/item?id=41617663) - ['I Don't Want to Die.' He needed mental health care. He found a ghost network](https://www.npr.org/sections/shots-health-news/2024/09/21/nx-s1-5120543/mental-health-care-parity-insurance-ghost-network)

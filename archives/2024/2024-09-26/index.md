@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 18:28:45](https://news.ycombinator.com/item?id=41661579) - [Argentina Scrapped Its Rent Controls. Now the Market Is Thriving](https://www.wsj.com/world/americas/argentina-milei-rent-control-free-market-5345c3d5)
+* [2024-09-26, 18:22:57](https://news.ycombinator.com/item?id=41661519) - [Swift/Java interoperability tools and libraries](https://twitter.com/SwiftLang/status/1839328831200809217)
 * [2024-09-26, 18:22:23](https://news.ycombinator.com/item?id=41661512) - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
+* [2024-09-26, 18:15:34](https://news.ycombinator.com/item?id=41661442) - [OpenAI in throes of executive exodus as three walk at once](https://www.theregister.com/2024/09/26/openai_execs_leave/)
 * [2024-09-26, 17:47:12](https://news.ycombinator.com/item?id=41661159) - [From Gatsby gridlock to Astro bliss: my personal site redesign](https://jwn.gr/posts/migrating-from-gatsby-to-astro/)
 * [2024-09-26, 17:29:32](https://news.ycombinator.com/item?id=41660991) - [America's supply chains are a disaster waiting to happen](https://www.noahpinion.blog/p/americas-supply-chains-are-a-disaster)
 * [2024-09-26, 17:07:08](https://news.ycombinator.com/item?id=41660767) - [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
