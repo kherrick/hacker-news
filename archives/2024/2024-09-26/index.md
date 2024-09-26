@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 20:36:00](https://news.ycombinator.com/item?id=41663051) - [Twitter banned me after publishing the JD Vance Dossier](https://www.kenklippenstein.com/p/twitter-banned-me)
 * [2024-09-26, 20:17:59](https://news.ycombinator.com/item?id=41662831) - [Why the U.S. Can't Build Icebreaking Ships](https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking)
 * [2024-09-26, 20:09:04](https://news.ycombinator.com/item?id=41662702) - [X (Twitter) blocks links to hacked JD Vance dossier](https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier)
 * [2024-09-26, 20:06:23](https://news.ycombinator.com/item?id=41662676) - [FCC Unlocks Spectrum to Support Advanced Satellite Services](https://www.fcc.gov/document/fcc-unlocks-spectrum-support-advanced-satellite-services)
