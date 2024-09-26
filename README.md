@@ -27,9 +27,9 @@
 * [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
 * [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 * [2024-09-25, 18:49:03](https://news.ycombinator.com/item?id=41650647) - [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
-* [2024-09-24, 17:37:50](https://news.ycombinator.com/item?id=41638987) - [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 * [2024-09-23, 22:15:17](https://news.ycombinator.com/item?id=41631157) - [Another new wasp species discovered by researchers](https://phys.org/news/2024-09-wasp-species.html)
 * [2024-09-23, 20:03:44](https://news.ycombinator.com/item?id=41629893) - [Octopuses seen hunting together with fish, punching those that don't cooperate](https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705)
+* [2024-09-23, 19:27:14](https://news.ycombinator.com/item?id=41629608) - ['Ceefax gave you news when you wanted it' – Teletext at 50](https://www.bbc.co.uk/news/articles/cr54myyy671o)
 
 ## [Archives](archives/index.md)
 
