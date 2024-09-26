@@ -57,6 +57,7 @@
 * [2024-09-21, 12:00:35](https://news.ycombinator.com/item?id=41609427) - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
 * [2024-09-21, 11:56:05](https://news.ycombinator.com/item?id=41609403) - [Finish Your Projects](https://github.com/readme/guides/finish-your-projects)
 * [2024-09-21, 11:52:15](https://news.ycombinator.com/item?id=41609393) - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
+* [2024-09-21, 11:51:57](https://news.ycombinator.com/item?id=41609392) - [Posts about Spartan Mosquito](https://colinpurrington.com/2021/01/posts-about-spartan-mosquito/)
 * [2024-09-21, 11:49:42](https://news.ycombinator.com/item?id=41609382) - [Remains of Egyptian army barracks and a bronze sword unearthed by archaeologists](https://www.cnn.com/2024/09/17/science/egypt-army-barracks-sword-intl-scli/index.html)
 * [2024-09-21, 11:18:30](https://news.ycombinator.com/item?id=41609254) - [Furnace – the biggest multi-system chiptune tracker ever made](https://github.com/tildearrow/furnace)
 * [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
