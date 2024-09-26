@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-26, 21:20:08](https://news.ycombinator.com/item?id=41663523) - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 * [2024-09-26, 21:14:52](https://news.ycombinator.com/item?id=41663472) - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
 * [2024-09-26, 21:13:51](https://news.ycombinator.com/item?id=41663465) - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
 * [2024-09-26, 21:13:30](https://news.ycombinator.com/item?id=41663460) - [Critical Mass and Tipping Points](https://fs.blog/critical-mass/)
 * [2024-09-26, 20:17:59](https://news.ycombinator.com/item?id=41662831) - [Why the U.S. can't build icebreaking ships](https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking)
 * [2024-09-26, 20:06:23](https://news.ycombinator.com/item?id=41662676) - [FCC Unlocks Spectrum to Support Advanced Satellite Services](https://www.fcc.gov/document/fcc-unlocks-spectrum-support-advanced-satellite-services)
 * [2024-09-26, 19:59:30](https://news.ycombinator.com/item?id=41662596) - [Attacking UNIX Systems via CUPS](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
-* [2024-09-26, 19:51:26](https://news.ycombinator.com/item?id=41662501) - [Instagram deleting archived stories, turning old videos into photos](https://twitter.com/IndoPopBase/status/1838858807801155618)
 * [2024-09-26, 18:59:31](https://news.ycombinator.com/item?id=41661906) - [Tcl 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 18:38:08](https://news.ycombinator.com/item?id=41661673) - [Over 300 New 'Nazca Lines' Geoglyphs Have Been Revealed by AI](https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/)
 * [2024-09-26, 18:22:23](https://news.ycombinator.com/item?id=41661512) - [U.S. court orders LibGen to pay $30M to publishers, issues broad injunction](https://torrentfreak.com/u-s-court-orders-libgen-to-pay-30m-to-publishers-issues-broad-injunction-240925/)
