@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-26, 05:37:00](https://news.ycombinator.com/item?id=41654871) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 * [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
-* [2024-09-26, 04:27:10](https://news.ycombinator.com/item?id=41654550) - [Teacher caught students using ChatGPT on their first assignment. Debate ensues](https://www.businessinsider.com/students-caught-using-chatgpt-ai-assignment-teachers-debate-2024-9)
 * [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 * [2024-09-25, 23:42:26](https://news.ycombinator.com/item?id=41653027) - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
 * [2024-09-25, 21:01:15](https://news.ycombinator.com/item?id=41651820) - [Clara (YC S24) Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
