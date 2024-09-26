@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-26, 07:41:36](https://news.ycombinator.com/item?id=41655583) - [A new Llama-based model for efficient large-scale voice generation](https://github.com/OpenT2S/LlamaVoice)
-* [2024-09-26, 07:41:22](https://news.ycombinator.com/item?id=41655578) - [Incident: Wordpress.org has blocked WP Engine customers from registry](https://wpenginestatus.com/incidents/640187)
+* [2024-09-26, 08:46:52](https://news.ycombinator.com/item?id=41656032) - [WiFi suspended at big UK train stations after 'cybersecurity incident'](https://www.theguardian.com/uk-news/2024/sep/26/wifi-suspended-big-uk-train-stations-cybersecurity-incident)
+* [2024-09-26, 08:36:14](https://news.ycombinator.com/item?id=41655967) - [Wordpress.org bans WP Engine, blocks it from accessing its resources](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
 * [2024-09-26, 07:19:08](https://news.ycombinator.com/item?id=41655426) - [Just 5k people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)
 * [2024-09-26, 06:44:09](https://news.ycombinator.com/item?id=41655224) - [Galaxy Buds reportedly exploded in a user's ear causing permanent hearing loss](https://www.androidpolice.com/exploding-samsung-galaxy-buds-fe/)
 * [2024-09-26, 05:37:00](https://news.ycombinator.com/item?id=41654871) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
