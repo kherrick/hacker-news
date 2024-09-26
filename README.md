@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
+* [2024-09-26, 14:11:56](https://news.ycombinator.com/item?id=41658626) - [Sensorwatch pro – Hackable ARM Cortex M0 brain upgrade for Casio's iconic F-91W](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro)
 * [2024-09-26, 13:53:58](https://news.ycombinator.com/item?id=41658427) - [Pilots Are Dying of Tiredness. Tech Can't Save Them](https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/)
 * [2024-09-26, 13:10:24](https://news.ycombinator.com/item?id=41657986) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:53:26](https://news.ycombinator.com/item?id=41657833) - [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
@@ -20,7 +21,6 @@
 * [2024-09-25, 15:31:00](https://news.ycombinator.com/item?id=41648564) - [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The lost language extensions of MetaWare's High C compiler (2023)](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
-* [2024-09-25, 08:37:48](https://news.ycombinator.com/item?id=41645173) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 * [2024-09-24, 17:37:50](https://news.ycombinator.com/item?id=41638987) - [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 * [2024-09-23, 22:15:17](https://news.ycombinator.com/item?id=41631157) - [Another new wasp species discovered by researchers](https://phys.org/news/2024-09-wasp-species.html)
 * [2024-09-23, 20:03:44](https://news.ycombinator.com/item?id=41629893) - [Octopuses seen hunting together with fish, punching those that don't cooperate](https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705)
