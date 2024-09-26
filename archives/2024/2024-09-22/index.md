@@ -58,6 +58,7 @@
 * [2024-09-22, 11:45:09](https://news.ycombinator.com/item?id=41616380) - [Google Zanzibar: Implementing the Check API and Expand API Using .NET](https://www.bytefish.de/blog/acl_google_zanzibar.html)
 * [2024-09-22, 11:20:46](https://news.ycombinator.com/item?id=41616293) - [Incredibly Ambitious SMB 3 Hack Released After 12 Years](https://marioadventure3.com/)
 * [2024-09-22, 11:12:18](https://news.ycombinator.com/item?id=41616254) - [The Simple Magic of Consistent Hashing (2011)](https://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
+* [2024-09-22, 10:11:43](https://news.ycombinator.com/item?id=41616023) - [Shizuku: App that lets you use system APIs with higher privileges without root](https://shizuku.rikka.app/)
 * [2024-09-22, 09:43:18](https://news.ycombinator.com/item?id=41615910) - [Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube](https://geoawesome.com/avoidance-mapping-what-it-is-where-it-fits-in-the-cartography-cube/)
 * [2024-09-22, 08:28:04](https://news.ycombinator.com/item?id=41615563) - [Open Source Icon Sets](https://icon-sets.iconify.design/)
 * [2024-09-22, 07:55:02](https://news.ycombinator.com/item?id=41615404) - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
