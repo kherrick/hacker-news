@@ -68,6 +68,7 @@
 * [2024-09-22, 06:50:21](https://news.ycombinator.com/item?id=41615102) - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
 * [2024-09-22, 06:12:45](https://news.ycombinator.com/item?id=41614949) - [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
 * [2024-09-22, 06:04:30](https://news.ycombinator.com/item?id=41614926) - [Pay once. Use forever. Find the best purchase alternatives to subscription](https://payoncealternatives.com)
+* [2024-09-22, 05:47:58](https://news.ycombinator.com/item?id=41614866) - [Algorithms for the 21st Century (2006)](http://yaccman.com/papers/a21/Alg21.html)
 * [2024-09-22, 05:21:28](https://news.ycombinator.com/item?id=41614795) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
 * [2024-09-22, 04:39:37](https://news.ycombinator.com/item?id=41614663) - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 * [2024-09-22, 04:11:47](https://news.ycombinator.com/item?id=41614567) - [Stupid Problems Require Stupid Solutions (Cloudflare Is Breaking My SVGs)](https://www.lloydatkinson.net/posts/2024/stupid-problems-require-stupid-solutions-cloudflare-is-breaking-my-svgs/)
