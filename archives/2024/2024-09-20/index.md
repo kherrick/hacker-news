@@ -37,6 +37,7 @@
 * [2024-09-20, 16:31:00](https://news.ycombinator.com/item?id=41603546) - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 * [2024-09-20, 16:02:29](https://news.ycombinator.com/item?id=41603270) - [Compress JPG: The Image Compressor That Lets You Compress Images Securely](https://compressjpg.io/)
 * [2024-09-20, 16:00:39](https://news.ycombinator.com/item?id=41603251) - [Three Mile Island is reopening and selling its power to Microsoft](https://www.cnn.com/2024/09/20/energy/three-mile-island-microsoft-ai/index.html)
+* [2024-09-20, 14:45:15](https://news.ycombinator.com/item?id=41602519) - [Hoodmaps: Publicly Annotated City Maps](https://hoodmaps.com)
 * [2024-09-20, 14:41:16](https://news.ycombinator.com/item?id=41602474) - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
 * [2024-09-20, 14:41:03](https://news.ycombinator.com/item?id=41602473) - [Understudied protein blobs have global effects on cell biochemistry](https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html)
 * [2024-09-20, 14:10:15](https://news.ycombinator.com/item?id=41602181) - [A year in exile: The fading hopes of Nagorno-Karabakh Armenians](https://www.newarab.com/analysis/year-exile-fading-hopes-nagorno-karabakh-armenians)
