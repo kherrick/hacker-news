@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-26, 18:22:23](https://news.ycombinator.com/item?id=41661512) - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
+* [2024-09-26, 17:47:12](https://news.ycombinator.com/item?id=41661159) - [From Gatsby gridlock to Astro bliss: my personal site redesign](https://jwn.gr/posts/migrating-from-gatsby-to-astro/)
 * [2024-09-26, 17:07:08](https://news.ycombinator.com/item?id=41660767) - [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
 * [2024-09-26, 17:03:32](https://news.ycombinator.com/item?id=41660733) - [Nardwuar on His Best and Worst Interviews](https://www.vulture.com/article/nardwuar-best-worst-interviews.html)
 * [2024-09-26, 17:02:05](https://news.ycombinator.com/item?id=41660717) - [The Holotypic Occlupanid Research Group](http://www.horg.com/horg/)
@@ -13,7 +15,6 @@
 * [2024-09-26, 07:12:04](https://news.ycombinator.com/item?id=41655382) - [AWS Nitro Enclaves: Attack Surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
 * [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
 * [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
-* [2024-09-25, 19:18:12](https://news.ycombinator.com/item?id=41650905) - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
 * [2024-09-25, 18:49:03](https://news.ycombinator.com/item?id=41650647) - [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 * [2024-09-25, 17:29:27](https://news.ycombinator.com/item?id=41649763) - [Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
@@ -29,7 +30,6 @@
 * [2024-09-22, 05:47:58](https://news.ycombinator.com/item?id=41614866) - [Algorithms for the 21st Century (2006)](http://yaccman.com/papers/a21/Alg21.html)
 * [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
 * [2024-09-21, 08:32:40](https://news.ycombinator.com/item?id=41608496) - [The Mathematics of Dobble (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
-* [2024-09-20, 14:45:15](https://news.ycombinator.com/item?id=41602519) - [Hoodmaps: Publicly Annotated City Maps](https://hoodmaps.com)
 
 ## [Archives](archives/index.md)
 
