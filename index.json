@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-09-26, 20:09:04",
-      "https://news.ycombinator.com/item?id=41662702"
-    ],
-    [
-      "X (Twitter) blocks links to hacked JD Vance dossier",
-      "https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier"
-    ]
-  ],
-  [
-    [
       "2024-09-26, 20:06:23",
       "https://news.ycombinator.com/item?id=41662676"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Cronexpr, a Rust library to parse and iter crontab expression",
       "https://docs.rs/cronexpr/latest/cronexpr/"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 00:12:53",
+      "https://news.ycombinator.com/item?id=41653191"
+    ],
+    [
+      "Git-absorb: Git commit –fixup, but automatic",
+      "https://github.com/tummychow/git-absorb"
     ]
   ],
   [
