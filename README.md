@@ -2,7 +2,6 @@
 
 * [2024-09-26, 08:46:52](https://news.ycombinator.com/item?id=41656032) - [WiFi suspended at big UK train stations after 'cybersecurity incident'](https://www.theguardian.com/uk-news/2024/sep/26/wifi-suspended-big-uk-train-stations-cybersecurity-incident)
 * [2024-09-26, 08:44:02](https://news.ycombinator.com/item?id=41656015) - [Ask HN: Did you personal website help you get hired? Tell about it](https://news.ycombinator.com/item?id=41656015)
-* [2024-09-26, 08:36:14](https://news.ycombinator.com/item?id=41655967) - [Wordpress.org bans WP Engine, blocks it from accessing its resources](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
 * [2024-09-26, 08:34:43](https://news.ycombinator.com/item?id=41655954) - [OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)
 * [2024-09-26, 05:37:00](https://news.ycombinator.com/item?id=41654871) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 * [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
@@ -16,6 +15,7 @@
 * [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 * [2024-09-25, 17:29:27](https://news.ycombinator.com/item?id=41649763) - [Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
 * [2024-09-25, 16:28:20](https://news.ycombinator.com/item?id=41649134) - [Timeshare owner? The Mexican drug cartels want you](https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/)
+* [2024-09-25, 16:10:35](https://news.ycombinator.com/item?id=41648965) - [Show HN: Fast and Exact Algorithm for Image Merging](https://github.com/C-Naoki/image-stitcher)
 * [2024-09-25, 15:31:00](https://news.ycombinator.com/item?id=41648564) - [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
 * [2024-09-25, 14:27:03](https://news.ycombinator.com/item?id=41647923) - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The lost language extensions of MetaWare's High C compiler (2023)](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
