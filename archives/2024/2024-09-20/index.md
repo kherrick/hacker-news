@@ -45,6 +45,7 @@
 * [2024-09-20, 13:53:22](https://news.ycombinator.com/item?id=41602044) - [Ask HN: Resources for Learning Graphics Programming](https://news.ycombinator.com/item?id=41602044)
 * [2024-09-20, 13:51:18](https://news.ycombinator.com/item?id=41602024) - [Dry Cask Storage](https://en.wikipedia.org/wiki/Dry_cask_storage)
 * [2024-09-20, 13:32:01](https://news.ycombinator.com/item?id=41601854) - [Linux Horror Stories and Protection Spells (Volume I)](https://www.blopig.com/blog/2021/07/linux-horror-stories-and-protection-spells-volume-i/)
+* [2024-09-20, 13:24:32](https://news.ycombinator.com/item?id=41601783) - [Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido](https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/)
 * [2024-09-20, 13:18:06](https://news.ycombinator.com/item?id=41601730) - [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
 * [2024-09-20, 13:18:01](https://news.ycombinator.com/item?id=41601728) - [Microsoft TypeSpec](https://typespec.io/)
 * [2024-09-20, 13:16:12](https://news.ycombinator.com/item?id=41601712) - [Notes and Receipts (PCAPs) for TCP and ICMP Noise Storms](https://github.com/GreyNoise-Intelligence/2024-09-noise-storms)
