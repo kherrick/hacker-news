@@ -20,6 +20,7 @@
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The lost language extensions of MetaWare's High C compiler (2023)](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
 * [2024-09-25, 13:05:27](https://news.ycombinator.com/item?id=41647025) - [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
+* [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646420) - [Who is Marcellus Williams: Execution in Missouri despite evidence of innocence](https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/)
 * [2024-09-25, 08:37:48](https://news.ycombinator.com/item?id=41645173) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 * [2024-09-24, 17:37:50](https://news.ycombinator.com/item?id=41638987) - [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 * [2024-09-24, 00:28:46](https://news.ycombinator.com/item?id=41631948) - [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/abs/2409.12089)
@@ -28,7 +29,6 @@
 * [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
 * [2024-09-20, 13:53:22](https://news.ycombinator.com/item?id=41602044) - [Ask HN: Resources for Learning Graphics Programming](https://news.ycombinator.com/item?id=41602044)
 * [2024-09-20, 13:24:32](https://news.ycombinator.com/item?id=41601783) - [Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido](https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/)
-* [2024-09-20, 12:18:24](https://news.ycombinator.com/item?id=41601250) - [ts-blank-space is a fast type-stripping compiler](https://bloomberg.github.io/ts-blank-space/)
 * [2024-09-20, 11:28:01](https://news.ycombinator.com/item?id=41600903) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 
 ## [Archives](archives/index.md)
