@@ -44,6 +44,7 @@
 * [2024-09-23, 16:22:09](https://news.ycombinator.com/item?id=41627754) - [David Graeber and David Wengrow: Flesh and Blood (2021)](https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
 * [2024-09-23, 14:24:19](https://news.ycombinator.com/item?id=41626468) - [Mozilla removes ad-tracking code from Firefox](https://adguard.com/en/blog/mozilla-firefox-ad-tracking-adjust-sdk.html)
+* [2024-09-23, 13:58:19](https://news.ycombinator.com/item?id=41626146) - [Ask HN: Dangers of Unsecured WiFi?](https://news.ycombinator.com/item?id=41626146)
 * [2024-09-23, 13:56:56](https://news.ycombinator.com/item?id=41626133) - [Ever wonder how crooks get the credentials to unlock stolen phones?](https://arstechnica.com/security/2024/09/cops-bust-website-crooks-used-to-unlock-1-2-million-stolen-mobile-phones/)
 * [2024-09-23, 13:50:07](https://news.ycombinator.com/item?id=41626069) - [IBM and NASA Release OS Model for Weather and Climate Applications](https://newsroom.ibm.com/2024-09-23-ibm-and-nasa-release-open-source-ai-model-on-hugging-face-for-weather-and-climate-applications)
 * [2024-09-23, 13:50:00](https://news.ycombinator.com/item?id=41626067) - [Ephemeral IDs: a new tool for fraud detection](https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection/)
