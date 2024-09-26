@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-26, 22:39:05](https://news.ycombinator.com/item?id=41664281) - [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-26, 21:20:08](https://news.ycombinator.com/item?id=41663523) - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 * [2024-09-26, 21:14:52](https://news.ycombinator.com/item?id=41663472) - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
 * [2024-09-26, 21:13:51](https://news.ycombinator.com/item?id=41663465) - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
@@ -22,8 +23,7 @@
 * [2024-09-26, 08:36:14](https://news.ycombinator.com/item?id=41655967) - [WordPress.org bans WP Engine](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
 * [2024-09-26, 08:34:43](https://news.ycombinator.com/item?id=41655954) - [OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/)
 * [2024-09-26, 07:12:04](https://news.ycombinator.com/item?id=41655382) - [AWS Nitro Enclaves: Attack Surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
-* [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
-* [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
+* [2024-09-25, 17:01:15](https://news.ycombinator.com/item?id=41649472) - [Why I've tracked every single piece of clothing I've worn for three years](https://www.reaktor.com/articles/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years)
 * [2024-09-25, 09:54:50](https://news.ycombinator.com/item?id=41645566) - [A Brief History of Microprogramming (2022)](https://people.computing.clemson.edu/~mark/uprog.html)
 * [2024-09-25, 08:19:36](https://news.ycombinator.com/item?id=41645044) - [I have 2000 old VHS tapes in my garage and I don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
 * [2024-09-25, 07:38:53](https://news.ycombinator.com/item?id=41644731) - [Dethrace: Reverse engineering the 1997 game \"Carmageddon\" (2023)](https://github.com/dethrace-labs/dethrace)

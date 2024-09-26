@@ -19,6 +19,7 @@
 * [2024-09-25, 17:22:16](https://news.ycombinator.com/item?id=41649683) - [Meta is discontinuing the Quest Pro two years after launching it](https://www.theverge.com/2024/9/25/24253322/meta-quest-pro-2-discontinued-vr)
 * [2024-09-25, 17:19:58](https://news.ycombinator.com/item?id=41649660) - [How to Hack the Breakthrough Prize (Ft. Session Confusion)](https://varun.ch/breakthrough)
 * [2024-09-25, 17:05:45](https://news.ycombinator.com/item?id=41649509) - [Bloom: Optimization-Driven Interactive Diagramming](https://penrose.cs.cmu.edu/blog/bloom)
+* [2024-09-25, 17:01:15](https://news.ycombinator.com/item?id=41649472) - [Why I've tracked every single piece of clothing I've worn for three years](https://www.reaktor.com/articles/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years)
 * [2024-09-25, 17:00:15](https://news.ycombinator.com/item?id=41649460) - [Hamming AI (YC S24) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer)
 * [2024-09-25, 16:46:38](https://news.ycombinator.com/item?id=41649301) - [If the Universe Is a Hologram, This Long-Forgotten Math Could Decode It](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
 * [2024-09-25, 16:45:51](https://news.ycombinator.com/item?id=41649290) - [Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)

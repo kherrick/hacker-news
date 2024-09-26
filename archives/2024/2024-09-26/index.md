@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 22:39:05](https://news.ycombinator.com/item?id=41664281) - [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-26, 21:20:08](https://news.ycombinator.com/item?id=41663523) - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 * [2024-09-26, 21:14:52](https://news.ycombinator.com/item?id=41663472) - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
 * [2024-09-26, 21:13:51](https://news.ycombinator.com/item?id=41663465) - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
