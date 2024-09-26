@@ -27,7 +27,7 @@
 * [2024-09-22, 10:11:43](https://news.ycombinator.com/item?id=41616023) - [Shizuku: App that lets you use system APIs with higher privileges without root](https://shizuku.rikka.app/)
 * [2024-09-22, 05:47:58](https://news.ycombinator.com/item?id=41614866) - [Algorithms for the 21st Century (2006)](http://yaccman.com/papers/a21/Alg21.html)
 * [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
-* [2024-09-21, 08:32:40](https://news.ycombinator.com/item?id=41608496) - [The Mathematics of Dobble](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
+* [2024-09-21, 08:32:40](https://news.ycombinator.com/item?id=41608496) - [The Mathematics of Dobble (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
 * [2024-09-20, 14:45:15](https://news.ycombinator.com/item?id=41602519) - [Hoodmaps: Publicly Annotated City Maps](https://hoodmaps.com)
 * [2024-09-20, 13:24:32](https://news.ycombinator.com/item?id=41601783) - [Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido](https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/)
 
