@@ -9,7 +9,6 @@
 * [2024-09-26, 19:51:26](https://news.ycombinator.com/item?id=41662501) - [Instagram deleting archived stories, turning old videos into photos](https://twitter.com/IndoPopBase/status/1838858807801155618)
 * [2024-09-26, 18:59:31](https://news.ycombinator.com/item?id=41661906) - [Tcl 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 18:38:08](https://news.ycombinator.com/item?id=41661673) - [Over 300 New 'Nazca Lines' Geoglyphs Have Been Revealed by AI](https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/)
-* [2024-09-26, 18:22:57](https://news.ycombinator.com/item?id=41661519) - [Swift/Java interoperability tools and libraries](https://twitter.com/SwiftLang/status/1839328831200809217)
 * [2024-09-26, 18:22:23](https://news.ycombinator.com/item?id=41661512) - [U.S. court orders LibGen to pay $30M to publishers, issues broad injunction](https://torrentfreak.com/u-s-court-orders-libgen-to-pay-30m-to-publishers-issues-broad-injunction-240925/)
 * [2024-09-26, 17:47:12](https://news.ycombinator.com/item?id=41661159) - [From Gatsby gridlock to Astro bliss: my personal site redesign](https://jwn.gr/posts/migrating-from-gatsby-to-astro/)
 * [2024-09-26, 17:07:08](https://news.ycombinator.com/item?id=41660767) - [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
@@ -29,6 +28,7 @@
 * [2024-09-25, 08:19:36](https://news.ycombinator.com/item?id=41645044) - [I have 2000 old VHS tapes in my garage and I don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
 * [2024-09-25, 07:38:53](https://news.ycombinator.com/item?id=41644731) - [Dethrace: Reverse engineering the 1997 game \"Carmageddon\" (2023)](https://github.com/dethrace-labs/dethrace)
 * [2024-09-24, 10:39:48](https://news.ycombinator.com/item?id=41635131) - [The ambition of Microsoft Flight Simulator 2024](https://venturebeat.com/games/the-metaverse-didnt-die-it-moved-inside-microsoft-flight-simulator-2024-jorg-neumann-interview/)
+* [2024-09-24, 06:05:17](https://news.ycombinator.com/item?id=41633519) - [Malicious SHA-1 (2014)](https://malicioussha1.github.io/)
 * [2024-09-23, 20:03:44](https://news.ycombinator.com/item?id=41629893) - [Octopuses seen hunting together with fish, punching those that don't cooperate](https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705)
 
 ## [Archives](archives/index.md)

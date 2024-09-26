@@ -78,6 +78,7 @@
 * [2024-09-24, 06:31:10](https://news.ycombinator.com/item?id=41633626) - [The Environmental Toll of a Single ChatGPT Query Is Absolutely Wild](https://futurism.com/the-byte/environment-openai-chatgpt)
 * [2024-09-24, 06:18:13](https://news.ycombinator.com/item?id=41633574) - [It's Now Officially Illegal to Use AI to Impersonate a Human Actor in Hollywood](https://futurism.com/the-byte/california-illegal-ai-impersonate-actor)
 * [2024-09-24, 06:12:45](https://news.ycombinator.com/item?id=41633551) - [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
+* [2024-09-24, 06:05:17](https://news.ycombinator.com/item?id=41633519) - [Malicious SHA-1 (2014)](https://malicioussha1.github.io/)
 * [2024-09-24, 05:39:27](https://news.ycombinator.com/item?id=41633400) - [Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 05:13:04](https://news.ycombinator.com/item?id=41633268) - [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
 * [2024-09-24, 04:57:03](https://news.ycombinator.com/item?id=41633196) - [Typhoid spreads in Pakistan as antibiotics fail](https://www.theguardian.com/global-development/2024/sep/24/drug-resistant-typhoid-disease-pakistan-antibiotics-superbugs-children)
