@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
 * [2024-09-26, 08:46:52](https://news.ycombinator.com/item?id=41656032) - [WiFi suspended at big UK train stations after 'cybersecurity incident'](https://www.theguardian.com/uk-news/2024/sep/26/wifi-suspended-big-uk-train-stations-cybersecurity-incident)
+* [2024-09-26, 08:44:02](https://news.ycombinator.com/item?id=41656015) - [Ask HN: Did you personal website help you get hired? Tell about it](https://news.ycombinator.com/item?id=41656015)
 * [2024-09-26, 08:36:14](https://news.ycombinator.com/item?id=41655967) - [Wordpress.org bans WP Engine, blocks it from accessing its resources](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
 * [2024-09-26, 07:41:36](https://news.ycombinator.com/item?id=41655583) - [A new Llama-based model for efficient large-scale voice generation](https://github.com/OpenT2S/LlamaVoice)
 * [2024-09-26, 07:41:22](https://news.ycombinator.com/item?id=41655578) - [Incident: Wordpress.org has blocked WP Engine customers from registry](https://wpenginestatus.com/incidents/640187)
