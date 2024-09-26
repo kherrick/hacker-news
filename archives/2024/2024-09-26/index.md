@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 17:29:32](https://news.ycombinator.com/item?id=41660991) - [America's supply chains are a disaster waiting to happen](https://www.noahpinion.blog/p/americas-supply-chains-are-a-disaster)
 * [2024-09-26, 17:07:08](https://news.ycombinator.com/item?id=41660767) - [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
+* [2024-09-26, 17:03:32](https://news.ycombinator.com/item?id=41660733) - [Nardwuar on His Best and Worst Interviews](https://www.vulture.com/article/nardwuar-best-worst-interviews.html)
 * [2024-09-26, 17:01:02](https://news.ycombinator.com/item?id=41660708) - [Flexport Is Hiring a Staff Product Designer in SF](https://job-boards.greenhouse.io/flexport/jobs/6270806?gh_jid=6270806)
 * [2024-09-26, 15:29:11](https://news.ycombinator.com/item?id=41659521) - [OpenAI Takes Its Mask Off To Reveal What It Really Is](https://www.theatlantic.com/technology/archive/2024/09/sam-altman-openai-for-profit/680031/)
 * [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
