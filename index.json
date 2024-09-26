@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-26, 21:13:51",
+      "https://news.ycombinator.com/item?id=41663465"
+    ],
+    [
+      "End of an era: Landsat 7 mission takes final images",
+      "https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images"
+    ]
+  ],
+  [
+    [
       "2024-09-26, 21:13:30",
       "https://news.ycombinator.com/item?id=41663460"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41662831"
     ],
     [
-      "Why the U.S. Can't Build Icebreaking Ships",
+      "Why the U.S. can't build icebreaking ships",
       "https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41662596"
     ],
     [
-      "Attacking Unix Systems via Cups, Part I",
+      "Attacking UNIX Systems via CUPS",
       "https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Show HN: Cronexpr, a Rust library to parse and iter crontab expression",
       "https://docs.rs/cronexpr/latest/cronexpr/"
-    ]
-  ],
-  [
-    [
-      "2024-09-26, 00:12:53",
-      "https://news.ycombinator.com/item?id=41653191"
-    ],
-    [
-      "Git-absorb: Git commit –fixup, but automatic",
-      "https://github.com/tummychow/git-absorb"
     ]
   ],
   [
