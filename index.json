@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-09-26, 18:59:31",
-      "https://news.ycombinator.com/item?id=41661906"
-    ],
-    [
-      "Tcl 9.0.0 Released",
-      "https://www.tcl-lang.org/software/tcltk/9.0.html?post=new"
-    ]
-  ],
-  [
-    [
-      "2024-09-26, 18:55:43",
-      "https://news.ycombinator.com/item?id=41661862"
-    ],
-    [
-      "Golang – when programmers had smaller egos",
-      "https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/"
-    ]
-  ],
-  [
-    [
       "2024-09-26, 18:45:37",
       "https://news.ycombinator.com/item?id=41661751"
     ],
@@ -37,6 +17,16 @@
     [
       "The Other Bubble",
       "https://www.wheresyoured.at/saaspocalypse-now/"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 18:38:08",
+      "https://news.ycombinator.com/item?id=41661673"
+    ],
+    [
+      "Over 300 New 'Nazca Lines' Geoglyphs Have Been Revealed by AI",
+      "https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Git-absorb: Git commit –fixup, but automatic",
       "https://github.com/tummychow/git-absorb"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 19:18:12",
+      "https://news.ycombinator.com/item?id=41650905"
+    ],
+    [
+      "Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code",
+      "https://github.com/cle-b/httpdbg"
     ]
   ],
   [
