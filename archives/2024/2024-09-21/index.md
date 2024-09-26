@@ -68,6 +68,7 @@
 * [2024-09-21, 09:41:48](https://news.ycombinator.com/item?id=41608784) - [Graph Coloring Methods](https://graphcoloringmethods.com/)
 * [2024-09-21, 09:08:20](https://news.ycombinator.com/item?id=41608648) - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 * [2024-09-21, 09:05:10](https://news.ycombinator.com/item?id=41608637) - [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
+* [2024-09-21, 08:32:40](https://news.ycombinator.com/item?id=41608496) - [The Mathematics of Dobble](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
 * [2024-09-21, 08:30:22](https://news.ycombinator.com/item?id=41608489) - [Open-Source CLI tool to inspect databases fast](https://github.com/PeepDB-dev/peepdb)
 * [2024-09-21, 08:09:27](https://news.ycombinator.com/item?id=41608405) - [A brief look at the new Kamal Proxy](https://nts.strzibny.name/kamal-proxy/)
 * [2024-09-21, 07:55:41](https://news.ycombinator.com/item?id=41608350) - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
