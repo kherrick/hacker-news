@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-09-26, 07:41:22",
+      "https://news.ycombinator.com/item?id=41655578"
+    ],
+    [
+      "Incident: Wordpress.org has blocked WP Engine customers from registry",
+      "https://wpenginestatus.com/incidents/640187"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 07:19:08",
+      "https://news.ycombinator.com/item?id=41655426"
+    ],
+    [
+      "Just 5k people use the Rabbit R1 every day",
+      "https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget"
+    ]
+  ],
+  [
+    [
       "2024-09-26, 06:44:09",
       "https://news.ycombinator.com/item?id=41655224"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-09-25, 15:48:51",
-      "https://news.ycombinator.com/item?id=41648711"
-    ],
-    [
-      "Capstone Disassembler Framework",
-      "https://github.com/capstone-engine/capstone"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 15:31:00",
       "https://news.ycombinator.com/item?id=41648564"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-09-25, 12:05:18",
-      "https://news.ycombinator.com/item?id=41646420"
-    ],
-    [
-      "Who is Marcellus Williams: Execution in Missouri despite evidence of innocence",
-      "https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 08:37:48",
       "https://news.ycombinator.com/item?id=41645173"
     ],
@@ -227,16 +227,6 @@
     [
       "Xkcd 1425 (Tasks) turns ten years old today",
       "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 00:28:46",
-      "https://news.ycombinator.com/item?id=41631948"
-    ],
-    [
-      "The Impact of Element Ordering on LM Agent Performance",
-      "https://arxiv.org/abs/2409.12089"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "GitHub-events-viewer a.k.a. \"What did I do yesterday?\"",
       "https://github.com/zbycz/github-events-viewer"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 14:45:15",
+      "https://news.ycombinator.com/item?id=41602519"
+    ],
+    [
+      "Hoodmaps: Publicly Annotated City Maps",
+      "https://hoodmaps.com"
     ]
   ],
   [
