@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-26, 14:24:36",
+      "https://news.ycombinator.com/item?id=41658766"
+    ],
+    [
+      "NKRYPT Sculpture",
+      "https://www.meme.net.au/nkrypt/"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 13:53:58",
+      "https://news.ycombinator.com/item?id=41658427"
+    ],
+    [
+      "Pilots Are Dying of Tiredness. Tech Can't Save Them",
+      "https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/"
+    ]
+  ],
+  [
+    [
       "2024-09-26, 13:10:24",
       "https://news.ycombinator.com/item?id=41657986"
     ],
@@ -27,16 +47,6 @@
     [
       "Poka Labs (YC S24) Is Hiring a Founding Engineer",
       "https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-09-26, 11:47:36",
-      "https://news.ycombinator.com/item?id=41657247"
-    ],
-    [
-      "Supacat MUV: Affordable military vehicle based on Toyota Hilux pick-up truck",
-      "https://thedefensepost.com/2024/09/18/supacat-medium-utility-vehicle/"
     ]
   ],
   [
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2024-09-25, 14:27:03",
-      "https://news.ycombinator.com/item?id=41647923"
-    ],
-    [
-      "Audio Masking",
-      "https://www.cryptomuseum.com/covert/bugs/masking/"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 14:19:13",
       "https://news.ycombinator.com/item?id=41647843"
     ],
     [
       "The lost language extensions of MetaWare's High C compiler (2023)",
       "https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 13:05:27",
-      "https://news.ycombinator.com/item?id=41647025"
-    ],
-    [
-      "Show HN: Coros – A Modern C++ Library for Task Parallelism",
-      "https://github.com/mtmucha/coros"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Octopuses seen hunting together with fish, punching those that don't cooperate",
       "https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 18:36:12",
+      "https://news.ycombinator.com/item?id=41629168"
+    ],
+    [
+      "Ask HN: What tools should I use to manage secrets from env files?",
+      "https://news.ycombinator.com/item?id=41629168"
     ]
   ],
   [
