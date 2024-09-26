@@ -2,6 +2,7 @@
 
 * [2024-09-26, 17:07:08](https://news.ycombinator.com/item?id=41660767) - [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
 * [2024-09-26, 17:03:32](https://news.ycombinator.com/item?id=41660733) - [Nardwuar on His Best and Worst Interviews](https://www.vulture.com/article/nardwuar-best-worst-interviews.html)
+* [2024-09-26, 17:02:05](https://news.ycombinator.com/item?id=41660717) - [The Holotypic Occlupanid Research Group](http://www.horg.com/horg/)
 * [2024-09-26, 17:01:02](https://news.ycombinator.com/item?id=41660708) - [Flexport Is Hiring a Staff Product Designer in SF](https://job-boards.greenhouse.io/flexport/jobs/6270806?gh_jid=6270806)
 * [2024-09-26, 15:13:44](https://news.ycombinator.com/item?id=41659324) - [DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
@@ -29,7 +30,6 @@
 * [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
 * [2024-09-21, 08:32:40](https://news.ycombinator.com/item?id=41608496) - [The Mathematics of Dobble (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
 * [2024-09-20, 14:45:15](https://news.ycombinator.com/item?id=41602519) - [Hoodmaps: Publicly Annotated City Maps](https://hoodmaps.com)
-* [2024-09-20, 13:24:32](https://news.ycombinator.com/item?id=41601783) - [Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido](https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/)
 
 ## [Archives](archives/index.md)
 
