@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-26, 01:33:19](https://news.ycombinator.com/item?id=41653641) - [Ugly Wallpapers – Early 2000s style](https://wallpapers.branding5.com/)
 * [2024-09-26, 01:26:05](https://news.ycombinator.com/item?id=41653592) - [OpenAI Discusses Giving Altman 7% Stake in For-Profit Shift](https://www.bloomberg.com/news/articles/2024-09-25/openai-cto-mira-murati-says-she-will-leave-the-company)
 * [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 * [2024-09-25, 23:42:26](https://news.ycombinator.com/item?id=41653027) - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
 * [2024-09-25, 21:01:15](https://news.ycombinator.com/item?id=41651820) - [Clara (YC S24) Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
-* [2024-09-25, 19:35:31](https://news.ycombinator.com/item?id=41651038) - [Mira Murati leaves OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
 * [2024-09-25, 19:18:12](https://news.ycombinator.com/item?id=41650905) - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
 * [2024-09-25, 18:49:03](https://news.ycombinator.com/item?id=41650647) - [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 18:40:26](https://news.ycombinator.com/item?id=41650534) - [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
