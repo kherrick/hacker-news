@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-26, 12:53:26",
-      "https://news.ycombinator.com/item?id=41657833"
+      "2024-09-26, 13:12:30",
+      "https://news.ycombinator.com/item?id=41658007"
     ],
     [
-      "Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug",
-      "https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/"
+      "Nile: PostgreSQL reengineered for multi-tenant apps",
+      "https://www.thenile.dev/blog/nile-public-launch"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Poka Labs (YC S24) Is Hiring a Founding Engineer",
       "https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 11:47:36",
+      "https://news.ycombinator.com/item?id=41657247"
+    ],
+    [
+      "Supacat MUV: Affordable military vehicle based on Toyota Hilux pick-up truck",
+      "https://thedefensepost.com/2024/09/18/supacat-medium-utility-vehicle/"
     ]
   ],
   [
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-09-26, 05:37:00",
-      "https://news.ycombinator.com/item?id=41654871"
+      "2024-09-26, 07:12:04",
+      "https://news.ycombinator.com/item?id=41655382"
     ],
     [
-      "Rewriting Rust",
-      "https://josephg.com/blog/rewriting-rust/"
+      "AWS Nitro Enclaves: Attack Surface",
+      "https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Octopuses seen hunting together with fish, punching those that don't cooperate",
       "https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 13:17:45",
-      "https://news.ycombinator.com/item?id=41616855"
-    ],
-    [
-      "\"Hygienic\" Let Statements in Rust",
-      "https://sabrinajewson.org/blog/truly-hygienic-let"
     ]
   ],
   [
