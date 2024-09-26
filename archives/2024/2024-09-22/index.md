@@ -55,6 +55,7 @@
 * [2024-09-22, 12:09:29](https://news.ycombinator.com/item?id=41616491) - [pgroll: PostgreSQL zero-downtime migrations made easy](https://github.com/xataio/pgroll)
 * [2024-09-22, 12:02:33](https://news.ycombinator.com/item?id=41616463) - [Surviving Threads: Why Are People Drawn to the World's Most Harrowing Film?](https://thequietus.com/opinion-and-essays/black-sky-thinking/threads-tv-film-review-anniversary/)
 * [2024-09-22, 12:00:37](https://news.ycombinator.com/item?id=41616455) - [Motion (YC W20) Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
+* [2024-09-22, 11:45:09](https://news.ycombinator.com/item?id=41616380) - [Google Zanzibar: Implementing the Check API and Expand API Using .NET](https://www.bytefish.de/blog/acl_google_zanzibar.html)
 * [2024-09-22, 11:20:46](https://news.ycombinator.com/item?id=41616293) - [Incredibly Ambitious SMB 3 Hack Released After 12 Years](https://marioadventure3.com/)
 * [2024-09-22, 11:12:18](https://news.ycombinator.com/item?id=41616254) - [The Simple Magic of Consistent Hashing (2011)](https://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
 * [2024-09-22, 09:43:18](https://news.ycombinator.com/item?id=41615910) - [Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube](https://geoawesome.com/avoidance-mapping-what-it-is-where-it-fits-in-the-cartography-cube/)

@@ -40,6 +40,7 @@
 * [2024-09-21, 15:31:33](https://news.ycombinator.com/item?id=41610619) - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
 * [2024-09-21, 15:03:03](https://news.ycombinator.com/item?id=41610441) - [Zdotenv – Dotenv Loader for Zig](https://github.com/BitlyTwiser/zdotenv)
 * [2024-09-21, 14:34:12](https://news.ycombinator.com/item?id=41610247) - [Learning 101: The untaught basics [pdf]](https://typeset.io/pdf/learning-101-the-untaught-basics-2r0c0g7p3e.pdf)
+* [2024-09-21, 13:56:36](https://news.ycombinator.com/item?id=41610000) - [How to manage oncall as an engineering manager?](https://news.ycombinator.com/item?id=41610000)
 * [2024-09-21, 13:46:54](https://news.ycombinator.com/item?id=41609947) - [Show HN: Time Flies](https://time-flies.koenvangilst.nl/)
 * [2024-09-21, 13:42:08](https://news.ycombinator.com/item?id=41609915) - [Working in the office 5 days a week to build company culture is a myth](https://fortune.com/2024/09/20/working-in-office-5-days-week-build-company-culture-myth-pwc-report/)
 * [2024-09-21, 13:39:13](https://news.ycombinator.com/item?id=41609889) - [OWASP Juice Shop: the most modern and sophisticated insecure web application](https://github.com/juice-shop/juice-shop)
