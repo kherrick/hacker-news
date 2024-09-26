@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 20:17:59](https://news.ycombinator.com/item?id=41662831) - [Why the U.S. Can't Build Icebreaking Ships](https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking)
 * [2024-09-26, 20:09:04](https://news.ycombinator.com/item?id=41662702) - [X (Twitter) blocks links to hacked JD Vance dossier](https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier)
+* [2024-09-26, 20:06:23](https://news.ycombinator.com/item?id=41662676) - [FCC Unlocks Spectrum to Support Advanced Satellite Services](https://www.fcc.gov/document/fcc-unlocks-spectrum-support-advanced-satellite-services)
 * [2024-09-26, 19:59:30](https://news.ycombinator.com/item?id=41662596) - [Attacking Unix Systems via Cups, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 * [2024-09-26, 19:51:26](https://news.ycombinator.com/item?id=41662501) - [Instagram deleting archived stories, turning old videos into photos](https://twitter.com/IndoPopBase/status/1838858807801155618)
 * [2024-09-26, 19:39:22](https://news.ycombinator.com/item?id=41662355) - [RCE Vulnerability Discovered in Cups](https://gist.github.com/stong/c8847ef27910ae344a7b5408d9840ee1)
@@ -53,6 +55,7 @@
 * [2024-09-26, 08:44:02](https://news.ycombinator.com/item?id=41656015) - [Ask HN: Did you personal website help you get hired? Tell about it](https://news.ycombinator.com/item?id=41656015)
 * [2024-09-26, 08:36:14](https://news.ycombinator.com/item?id=41655967) - [Wordpress.org bans WP Engine, blocks it from accessing its resources](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
 * [2024-09-26, 08:34:43](https://news.ycombinator.com/item?id=41655954) - [OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)
+* [2024-09-26, 08:34:43](https://news.ycombinator.com/item?id=41655954) - [OpenAI to Become For-Profit Company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/)
 * [2024-09-26, 07:41:36](https://news.ycombinator.com/item?id=41655583) - [A new Llama-based model for efficient large-scale voice generation](https://github.com/OpenT2S/LlamaVoice)
 * [2024-09-26, 07:41:22](https://news.ycombinator.com/item?id=41655578) - [Incident: Wordpress.org has blocked WP Engine customers from registry](https://wpenginestatus.com/incidents/640187)
 * [2024-09-26, 07:19:08](https://news.ycombinator.com/item?id=41655426) - [Just 5k people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)
