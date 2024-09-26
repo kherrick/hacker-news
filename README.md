@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-26, 13:12:30](https://news.ycombinator.com/item?id=41658007) - [Nile: PostgreSQL reengineered for multi-tenant apps](https://www.thenile.dev/blog/nile-public-launch)
+* [2024-09-26, 12:53:26](https://news.ycombinator.com/item?id=41657833) - [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
 * [2024-09-26, 12:00:32](https://news.ycombinator.com/item?id=41657343) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
 * [2024-09-26, 09:39:57](https://news.ycombinator.com/item?id=41656381) - [Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
 * [2024-09-26, 08:34:43](https://news.ycombinator.com/item?id=41655954) - [OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)

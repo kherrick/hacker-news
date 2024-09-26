@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
 * [2024-09-26, 13:12:30](https://news.ycombinator.com/item?id=41658007) - [Nile: PostgreSQL reengineered for multi-tenant apps](https://www.thenile.dev/blog/nile-public-launch)
+* [2024-09-26, 12:53:26](https://news.ycombinator.com/item?id=41657833) - [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
 * [2024-09-26, 12:32:54](https://news.ycombinator.com/item?id=41657622) - [The Tor Project merges with Tails, a Linux-based portable OS focused on privacy](https://techcrunch.com/2024/09/26/the-tor-project-merges-with-tails-a-linux-based-portable-os-focused-on-privacy/)
 * [2024-09-26, 12:30:21](https://news.ycombinator.com/item?id=41657595) - [We need to build the GitHub of scientific data](https://vishnurnair.substack.com/p/we-need-to-build-the-github-of-scientific-data)
 * [2024-09-26, 12:00:32](https://news.ycombinator.com/item?id=41657343) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
