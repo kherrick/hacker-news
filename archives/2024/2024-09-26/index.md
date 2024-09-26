@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-26](index.md)
+
+* [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
