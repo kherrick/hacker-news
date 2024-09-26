@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-26, 13:12:30](https://news.ycombinator.com/item?id=41658007) - [Nile: PostgreSQL reengineered for multi-tenant apps](https://www.thenile.dev/blog/nile-public-launch)
+* [2024-09-26, 13:10:24](https://news.ycombinator.com/item?id=41657986) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
+* [2024-09-26, 12:53:26](https://news.ycombinator.com/item?id=41657833) - [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
 * [2024-09-26, 12:00:32](https://news.ycombinator.com/item?id=41657343) - [Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
 * [2024-09-26, 11:47:36](https://news.ycombinator.com/item?id=41657247) - [Supacat MUV: Affordable military vehicle based on Toyota Hilux pick-up truck](https://thedefensepost.com/2024/09/18/supacat-medium-utility-vehicle/)
 * [2024-09-26, 09:39:57](https://news.ycombinator.com/item?id=41656381) - [Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
@@ -29,7 +30,6 @@
 * [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
 * [2024-09-20, 14:45:15](https://news.ycombinator.com/item?id=41602519) - [Hoodmaps: Publicly Annotated City Maps](https://hoodmaps.com)
 * [2024-09-20, 13:24:32](https://news.ycombinator.com/item?id=41601783) - [Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido](https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/)
-* [2024-09-20, 11:28:01](https://news.ycombinator.com/item?id=41600903) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 
 ## [Archives](archives/index.md)
 
