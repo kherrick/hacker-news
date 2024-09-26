@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-26, 12:32:54",
-      "https://news.ycombinator.com/item?id=41657622"
+      "2024-09-26, 13:12:30",
+      "https://news.ycombinator.com/item?id=41658007"
     ],
     [
-      "The Tor Project merges with Tails, a Linux-based portable OS focused on privacy",
-      "https://techcrunch.com/2024/09/26/the-tor-project-merges-with-tails-a-linux-based-portable-os-focused-on-privacy/"
+      "Nile: PostgreSQL reengineered for multi-tenant apps",
+      "https://www.thenile.dev/blog/nile-public-launch"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Italian Music Through the Lens of Complex Networks",
       "https://www.michelecoscia.com/?p=2372"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 08:34:43",
+      "https://news.ycombinator.com/item?id=41655954"
+    ],
+    [
+      "OpenAI to Become For-Profit Company",
+      "https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Octopuses seen hunting together with fish, punching those that don't cooperate",
       "https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 08:41:25",
-      "https://news.ycombinator.com/item?id=41623814"
-    ],
-    [
-      "Show HN: King Thirteen: 2048 with chess pieces, in under 13 KB",
-      "https://js13kgames.com/2024/games/king-thirteen"
     ]
   ],
   [
