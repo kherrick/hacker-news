@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 07:41:36](https://news.ycombinator.com/item?id=41655583) - [A new Llama-based model for efficient large-scale voice generation](https://github.com/OpenT2S/LlamaVoice)
 * [2024-09-26, 06:44:32](https://news.ycombinator.com/item?id=41655225) - [LG TVs Start Showing Ads on Screensavers](https://arstechnica.com/gadgets/2024/09/lg-tvs-continue-down-advertising-rabbit-hole-with-new-screensaver-ads/)
 * [2024-09-26, 06:44:09](https://news.ycombinator.com/item?id=41655224) - [Galaxy Buds reportedly exploded in a user's ear causing permanent hearing loss](https://www.androidpolice.com/exploding-samsung-galaxy-buds-fe/)
 * [2024-09-26, 05:37:00](https://news.ycombinator.com/item?id=41654871) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)

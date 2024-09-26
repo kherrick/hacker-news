@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-26, 06:44:32](https://news.ycombinator.com/item?id=41655225) - [LG TVs Start Showing Ads on Screensavers](https://arstechnica.com/gadgets/2024/09/lg-tvs-continue-down-advertising-rabbit-hole-with-new-screensaver-ads/)
+* [2024-09-26, 07:41:36](https://news.ycombinator.com/item?id=41655583) - [A new Llama-based model for efficient large-scale voice generation](https://github.com/OpenT2S/LlamaVoice)
 * [2024-09-26, 06:44:09](https://news.ycombinator.com/item?id=41655224) - [Galaxy Buds reportedly exploded in a user's ear causing permanent hearing loss](https://www.androidpolice.com/exploding-samsung-galaxy-buds-fe/)
 * [2024-09-26, 05:37:00](https://news.ycombinator.com/item?id=41654871) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 * [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
@@ -20,6 +20,7 @@
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The lost language extensions of MetaWare's High C compiler (2023)](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
 * [2024-09-25, 13:05:27](https://news.ycombinator.com/item?id=41647025) - [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
+* [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646420) - [Who is Marcellus Williams: Execution in Missouri despite evidence of innocence](https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/)
 * [2024-09-25, 08:37:48](https://news.ycombinator.com/item?id=41645173) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 * [2024-09-24, 17:37:50](https://news.ycombinator.com/item?id=41638987) - [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 * [2024-09-24, 00:28:46](https://news.ycombinator.com/item?id=41631948) - [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/abs/2409.12089)
@@ -27,7 +28,6 @@
 * [2024-09-22, 11:12:18](https://news.ycombinator.com/item?id=41616254) - [The Simple Magic of Consistent Hashing (2011)](https://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
 * [2024-09-22, 10:11:43](https://news.ycombinator.com/item?id=41616023) - [Shizuku: App that lets you use system APIs with higher privileges without root](https://shizuku.rikka.app/)
 * [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
-* [2024-09-20, 13:53:22](https://news.ycombinator.com/item?id=41602044) - [Ask HN: Resources for Learning Graphics Programming](https://news.ycombinator.com/item?id=41602044)
 * [2024-09-20, 13:24:32](https://news.ycombinator.com/item?id=41601783) - [Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido](https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/)
 * [2024-09-20, 11:28:01](https://news.ycombinator.com/item?id=41600903) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 
