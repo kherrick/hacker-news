@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-26, 04:27:10](https://news.ycombinator.com/item?id=41654550) - [Teacher caught students using ChatGPT on their first assignment. Debate ensues](https://www.businessinsider.com/students-caught-using-chatgpt-ai-assignment-teachers-debate-2024-9)
 * [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 * [2024-09-25, 23:42:26](https://news.ycombinator.com/item?id=41653027) - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
 * [2024-09-25, 21:01:15](https://news.ycombinator.com/item?id=41651820) - [Clara (YC S24) Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
@@ -18,7 +19,6 @@
 * [2024-09-25, 13:05:27](https://news.ycombinator.com/item?id=41647025) - [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646420) - [Who is Marcellus Williams: Execution in Missouri despite evidence of innocence](https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/)
-* [2024-09-25, 11:22:17](https://news.ycombinator.com/item?id=41646085) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 08:37:48](https://news.ycombinator.com/item?id=41645173) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 * [2024-09-25, 04:20:48](https://news.ycombinator.com/item?id=41643651) - [SQL Tips and Tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 * [2024-09-24, 00:28:46](https://news.ycombinator.com/item?id=41631948) - [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/abs/2409.12089)
