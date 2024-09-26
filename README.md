@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
-* [2024-09-26, 04:30:18](https://news.ycombinator.com/item?id=41654570) - [FreeBSD](https://www.freebsd.org/status/report-2024-04-2024-06/)
 * [2024-09-26, 04:27:10](https://news.ycombinator.com/item?id=41654550) - [Teacher caught students using ChatGPT on their first assignment. Debate ensues](https://www.businessinsider.com/students-caught-using-chatgpt-ai-assignment-teachers-debate-2024-9)
 * [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 * [2024-09-25, 23:42:26](https://news.ycombinator.com/item?id=41653027) - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
@@ -26,6 +25,7 @@
 * [2024-09-24, 00:28:46](https://news.ycombinator.com/item?id=41631948) - [The Impact of Element Ordering on LM Agent Performance](https://arxiv.org/abs/2409.12089)
 * [2024-09-23, 08:41:25](https://news.ycombinator.com/item?id=41623814) - [Show HN: King Thirteen: 2048 with chess pieces, in under 13 KB](https://js13kgames.com/2024/games/king-thirteen)
 * [2024-09-22, 11:12:18](https://news.ycombinator.com/item?id=41616254) - [The Simple Magic of Consistent Hashing (2011)](https://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
+* [2024-09-21, 11:17:22](https://news.ycombinator.com/item?id=41609246) - [GitHub-events-viewer a.k.a. \"What did I do yesterday?\"](https://github.com/zbycz/github-events-viewer)
 * [2024-09-20, 13:53:22](https://news.ycombinator.com/item?id=41602044) - [Ask HN: Resources for Learning Graphics Programming](https://news.ycombinator.com/item?id=41602044)
 * [2024-09-20, 13:24:32](https://news.ycombinator.com/item?id=41601783) - [Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido](https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/)
 * [2024-09-20, 12:18:24](https://news.ycombinator.com/item?id=41601250) - [ts-blank-space is a fast type-stripping compiler](https://bloomberg.github.io/ts-blank-space/)
