@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-09-26, 21:14:52",
-      "https://news.ycombinator.com/item?id=41663472"
-    ],
-    [
-      "In the Shack with Robert Caro",
-      "https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html"
-    ]
-  ],
-  [
-    [
       "2024-09-26, 21:13:51",
       "https://news.ycombinator.com/item?id=41663465"
     ],
@@ -227,6 +217,16 @@
     [
       "AWS Nitro Enclaves: Attack Surface",
       "https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 05:10:46",
+      "https://news.ycombinator.com/item?id=41654723"
+    ],
+    [
+      "Show HN: Cronexpr, a Rust library to parse and iter crontab expression",
+      "https://docs.rs/cronexpr/latest/cronexpr/"
     ]
   ],
   [
