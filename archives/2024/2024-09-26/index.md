@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
 * [2024-09-26, 15:29:11](https://news.ycombinator.com/item?id=41659521) - [OpenAI Takes Its Mask Off To Reveal What It Really Is](https://www.theatlantic.com/technology/archive/2024/09/sam-altman-openai-for-profit/680031/)
+* [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
 * [2024-09-26, 15:13:44](https://news.ycombinator.com/item?id=41659324) - [DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
 * [2024-09-26, 15:08:48](https://news.ycombinator.com/item?id=41659272) - [Ask HN: Why aren't you solving real problems?](https://news.ycombinator.com/item?id=41659272)
 * [2024-09-26, 15:04:13](https://news.ycombinator.com/item?id=41659220) - [Rents Fall and Listings Increase After Milei Ends Rent Control in Argentina](https://www.msn.com/en-us/money/realestate/rents-fall-and-listings-increase-after-javier-milei-ends-rent-control-in-argentina/ar-AA1rfZTe)
+* [2024-09-26, 15:03:39](https://news.ycombinator.com/item?id=41659213) - [Raylib Project Creator](https://github.com/raysan5/raylib_project_creator)
 * [2024-09-26, 14:56:06](https://news.ycombinator.com/item?id=41659128) - [The Slow, Painful Death of Agile and Jira](https://ehandbook.com/the-slow-painful-death-of-agile-and-jira-c8de04e4269a)
 * [2024-09-26, 14:55:22](https://news.ycombinator.com/item?id=41659120) - [Jockey Can't Walk After Manufacturer Refuses to Fix Battery in $100k Exoskeleton](https://www.404media.co/paralyzed-jockey-loses-ability-to-walk-after-manufacturer-refuses-to-fix-battery-for-his-100-000-exoskeleton/)
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
