@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-26, 22:39:05](https://news.ycombinator.com/item?id=41664281) - [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
+* [2024-09-26, 22:28:20](https://news.ycombinator.com/item?id=41664199) - [Stem cells reverse woman's diabetes – a world first](https://www.nature.com/articles/d41586-024-03129-3)
 * [2024-09-26, 21:20:08](https://news.ycombinator.com/item?id=41663523) - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 * [2024-09-26, 21:14:52](https://news.ycombinator.com/item?id=41663472) - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
 * [2024-09-26, 21:13:51](https://news.ycombinator.com/item?id=41663465) - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
@@ -11,7 +12,6 @@
 * [2024-09-26, 18:59:31](https://news.ycombinator.com/item?id=41661906) - [Tcl 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 18:38:08](https://news.ycombinator.com/item?id=41661673) - [Over 300 New 'Nazca Lines' Geoglyphs Have Been Revealed by AI](https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/)
 * [2024-09-26, 18:22:23](https://news.ycombinator.com/item?id=41661512) - [U.S. court orders LibGen to pay $30M to publishers, issues broad injunction](https://torrentfreak.com/u-s-court-orders-libgen-to-pay-30m-to-publishers-issues-broad-injunction-240925/)
-* [2024-09-26, 17:47:12](https://news.ycombinator.com/item?id=41661159) - [From Gatsby gridlock to Astro bliss: my personal site redesign](https://jwn.gr/posts/migrating-from-gatsby-to-astro/)
 * [2024-09-26, 17:07:08](https://news.ycombinator.com/item?id=41660767) - [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
 * [2024-09-26, 17:02:05](https://news.ycombinator.com/item?id=41660717) - [The Holotypic Occlupanid Research Group](http://www.horg.com/horg/)
 * [2024-09-26, 16:25:50](https://news.ycombinator.com/item?id=41660308) - [Lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
