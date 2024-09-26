@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-26, 18:28:45",
-      "https://news.ycombinator.com/item?id=41661579"
+      "2024-09-26, 18:42:54",
+      "https://news.ycombinator.com/item?id=41661725"
     ],
     [
-      "Argentina Scrapped Its Rent Controls. Now the Market Is Thriving",
-      "https://www.wsj.com/world/americas/argentina-milei-rent-control-free-market-5345c3d5"
+      "The Other Bubble",
+      "https://www.wheresyoured.at/saaspocalypse-now/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Pirate library must pay publishers $30M, but no one knows who runs it",
       "https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 18:22:15",
+      "https://news.ycombinator.com/item?id=41661511"
+    ],
+    [
+      "Ukraine Discovers Starlink on Downed Russian Shahed Drone: Report",
+      "https://www.newsweek.com/ukraine-starlink-russia-shahed-135-drone-elon-musk-spacex-1959563"
     ]
   ],
   [
@@ -181,12 +191,32 @@
   ],
   [
     [
+      "2024-09-25, 19:18:12",
+      "https://news.ycombinator.com/item?id=41650905"
+    ],
+    [
+      "Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code",
+      "https://github.com/cle-b/httpdbg"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 18:49:03",
       "https://news.ycombinator.com/item?id=41650647"
     ],
     [
       "Eliminating Memory Safety Vulnerabilities at the Source",
       "https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 18:40:26",
+      "https://news.ycombinator.com/item?id=41650534"
+    ],
+    [
+      "How to avoid a BSOD on your 2B dollar spacecraft",
+      "https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/"
     ]
   ],
   [
@@ -211,12 +241,32 @@
   ],
   [
     [
+      "2024-09-25, 16:28:20",
+      "https://news.ycombinator.com/item?id=41649134"
+    ],
+    [
+      "Timeshare owner? The Mexican drug cartels want you",
+      "https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 14:19:13",
       "https://news.ycombinator.com/item?id=41647843"
     ],
     [
       "The lost language extensions of MetaWare's High C compiler (2023)",
       "https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 12:19:29",
+      "https://news.ycombinator.com/item?id=41646531"
+    ],
+    [
+      "Why I still blog after 15 years",
+      "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
     ]
   ],
   [
@@ -231,72 +281,22 @@
   ],
   [
     [
+      "2024-09-23, 22:15:17",
+      "https://news.ycombinator.com/item?id=41631157"
+    ],
+    [
+      "Another new wasp species discovered by researchers",
+      "https://phys.org/news/2024-09-wasp-species.html"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 20:03:44",
       "https://news.ycombinator.com/item?id=41629893"
     ],
     [
       "Octopuses seen hunting together with fish, punching those that don't cooperate",
       "https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 16:21:51",
-      "https://news.ycombinator.com/item?id=41618070"
-    ],
-    [
-      "The Future of Programming Systems – four thoughts",
-      "https://blog.waleson.com/2024/09/the-future-of-programming-systems-four.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 14:12:40",
-      "https://news.ycombinator.com/item?id=41617207"
-    ],
-    [
-      "Blast wakes ghosts of nuclear past (1995)",
-      "https://www.newscientist.com/article/mg14619810-300-blast-wakes-ghosts-of-nuclear-past/"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 11:53:26",
-      "https://news.ycombinator.com/item?id=41616413"
-    ],
-    [
-      "Writing Portable Rendering Code with Nvrhi",
-      "https://developer.nvidia.com/blog/writing-portable-rendering-code-with-nvrhi/"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 10:11:43",
-      "https://news.ycombinator.com/item?id=41616023"
-    ],
-    [
-      "Shizuku: App that lets you use system APIs with higher privileges without root",
-      "https://shizuku.rikka.app/"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 05:47:58",
-      "https://news.ycombinator.com/item?id=41614866"
-    ],
-    [
-      "Algorithms for the 21st Century (2006)",
-      "http://yaccman.com/papers/a21/Alg21.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 08:32:40",
-      "https://news.ycombinator.com/item?id=41608496"
-    ],
-    [
-      "The Mathematics of Dobble (2018)",
-      "https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/"
     ]
   ]
 ]
