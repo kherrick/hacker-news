@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 15:04:13](https://news.ycombinator.com/item?id=41659220) - [Rents Fall and Listings Increase After Milei Ends Rent Control in Argentina](https://www.msn.com/en-us/money/realestate/rents-fall-and-listings-increase-after-javier-milei-ends-rent-control-in-argentina/ar-AA1rfZTe)
+* [2024-09-26, 14:56:06](https://news.ycombinator.com/item?id=41659128) - [The Slow, Painful Death of Agile and Jira](https://ehandbook.com/the-slow-painful-death-of-agile-and-jira-c8de04e4269a)
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 14:11:56](https://news.ycombinator.com/item?id=41658626) - [Sensorwatch pro – Hackable ARM Cortex M0 brain upgrade for Casio's iconic F-91W](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro)
 * [2024-09-26, 13:53:58](https://news.ycombinator.com/item?id=41658427) - [Pilots Are Dying of Tiredness. Tech Can't Save Them](https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/)
