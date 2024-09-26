@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 15:13:44](https://news.ycombinator.com/item?id=41659324) - [DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
 * [2024-09-26, 15:04:13](https://news.ycombinator.com/item?id=41659220) - [Rents Fall and Listings Increase After Milei Ends Rent Control in Argentina](https://www.msn.com/en-us/money/realestate/rents-fall-and-listings-increase-after-javier-milei-ends-rent-control-in-argentina/ar-AA1rfZTe)
 * [2024-09-26, 14:56:06](https://news.ycombinator.com/item?id=41659128) - [The Slow, Painful Death of Agile and Jira](https://ehandbook.com/the-slow-painful-death-of-agile-and-jira-c8de04e4269a)
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 14:11:56](https://news.ycombinator.com/item?id=41658626) - [Sensorwatch pro – Hackable ARM Cortex M0 brain upgrade for Casio's iconic F-91W](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro)
 * [2024-09-26, 13:53:58](https://news.ycombinator.com/item?id=41658427) - [Pilots Are Dying of Tiredness. Tech Can't Save Them](https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/)
+* [2024-09-26, 13:53:19](https://news.ycombinator.com/item?id=41658421) - [Tesla Full Self Driving requires human intervention every 13 miles](https://arstechnica.com/cars/2024/09/tesla-full-self-driving-requires-human-intervention-every-13-miles/)
 * [2024-09-26, 13:12:30](https://news.ycombinator.com/item?id=41658007) - [Nile: PostgreSQL reengineered for multi-tenant apps](https://www.thenile.dev/blog/nile-public-launch)
 * [2024-09-26, 13:10:24](https://news.ycombinator.com/item?id=41657986) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:53:26](https://news.ycombinator.com/item?id=41657833) - [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
