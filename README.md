@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-26, 18:59:31](https://news.ycombinator.com/item?id=41661906) - [Tcl 9.0.0 Released](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
-* [2024-09-26, 18:55:43](https://news.ycombinator.com/item?id=41661862) - [Golang – when programmers had smaller egos](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
 * [2024-09-26, 18:45:37](https://news.ycombinator.com/item?id=41661751) - [Bendable non-silicon RISC-V CPU demoed running while wrapped around a pencil](https://www.pragmaticsemi.com/newsroom/blogs/bendable-non-silicon-risc-v-microprocessor)
 * [2024-09-26, 18:42:54](https://news.ycombinator.com/item?id=41661725) - [The Other Bubble](https://www.wheresyoured.at/saaspocalypse-now/)
+* [2024-09-26, 18:38:08](https://news.ycombinator.com/item?id=41661673) - [Over 300 New 'Nazca Lines' Geoglyphs Have Been Revealed by AI](https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/)
 * [2024-09-26, 18:22:57](https://news.ycombinator.com/item?id=41661519) - [Swift/Java interoperability tools and libraries](https://twitter.com/SwiftLang/status/1839328831200809217)
 * [2024-09-26, 18:22:23](https://news.ycombinator.com/item?id=41661512) - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 * [2024-09-26, 18:22:15](https://news.ycombinator.com/item?id=41661511) - [Ukraine Discovers Starlink on Downed Russian Shahed Drone: Report](https://www.newsweek.com/ukraine-starlink-russia-shahed-135-drone-elon-musk-spacex-1959563)
@@ -22,6 +21,7 @@
 * [2024-09-26, 07:12:04](https://news.ycombinator.com/item?id=41655382) - [AWS Nitro Enclaves: Attack Surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
 * [2024-09-26, 05:10:46](https://news.ycombinator.com/item?id=41654723) - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
 * [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
+* [2024-09-25, 19:18:12](https://news.ycombinator.com/item?id=41650905) - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
 * [2024-09-25, 18:49:03](https://news.ycombinator.com/item?id=41650647) - [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 * [2024-09-25, 17:29:27](https://news.ycombinator.com/item?id=41649763) - [Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
