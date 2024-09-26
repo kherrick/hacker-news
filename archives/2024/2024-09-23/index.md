@@ -33,6 +33,7 @@
 * [2024-09-23, 18:56:44](https://news.ycombinator.com/item?id=41629377) - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
 * [2024-09-23, 18:56:15](https://news.ycombinator.com/item?id=41629369) - [How much energy does desalinisation use? Is it \"absurdly cheap\"?](https://www.sustainabilitybynumbers.com/p/how-much-energy-does-desalinisation)
 * [2024-09-23, 18:48:55](https://news.ycombinator.com/item?id=41629307) - [2.11BSD_X44: A 2.11 BSD that's still receiving patches, including x86 support](https://github.com/TheSledgeHammer/2.11BSD_X44)
+* [2024-09-23, 18:36:12](https://news.ycombinator.com/item?id=41629168) - [Ask HN: What tools should I use to manage secrets from env files?](https://news.ycombinator.com/item?id=41629168)
 * [2024-09-23, 18:19:56](https://news.ycombinator.com/item?id=41628983) - [John Cassaday, Award-Winning Comic Book Artist&Creator of Planetary Dies at 52](https://www.nytimes.com/2024/09/18/arts/john-cassaday-dead.html)
 * [2024-09-23, 17:30:25](https://news.ycombinator.com/item?id=41628481) - [It's Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
 * [2024-09-23, 17:19:32](https://news.ycombinator.com/item?id=41628371) - [MI couple running out of time to prove they found Great Lakes' oldest shipwreck](https://www.usatoday.com/)

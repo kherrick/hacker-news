@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
+* [2024-09-26, 13:53:58](https://news.ycombinator.com/item?id=41658427) - [Pilots Are Dying of Tiredness. Tech Can't Save Them](https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/)
 * [2024-09-26, 13:12:30](https://news.ycombinator.com/item?id=41658007) - [Nile: PostgreSQL reengineered for multi-tenant apps](https://www.thenile.dev/blog/nile-public-launch)
 * [2024-09-26, 13:10:24](https://news.ycombinator.com/item?id=41657986) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:53:26](https://news.ycombinator.com/item?id=41657833) - [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
