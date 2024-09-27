@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-27, 11:01:26](https://news.ycombinator.com/item?id=41668824) - [TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
 * [2024-09-27, 10:37:14](https://news.ycombinator.com/item?id=41668622) - [You're probably not vulnerable to the CUPS CVE](https://xeiaso.net/notes/2024/cups-cve/)
 * [2024-09-27, 10:17:28](https://news.ycombinator.com/item?id=41668451) - [Leak claims RTX 5090 has 600W TGP, RTX 5080 hits 400W](https://www.tomshardware.com/pc-components/gpus/leak-claims-rtx-5090-has-600w-tgp-rtx-5080-hits-400w-up-to-21760-cores-32gb-vram-512-bit-bus)
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
@@ -28,7 +29,6 @@
 * [2024-09-24, 10:39:48](https://news.ycombinator.com/item?id=41635131) - [The ambition of Microsoft Flight Simulator 2024](https://venturebeat.com/games/the-metaverse-didnt-die-it-moved-inside-microsoft-flight-simulator-2024-jorg-neumann-interview/)
 * [2024-09-24, 06:05:17](https://news.ycombinator.com/item?id=41633519) - [Malicious SHA-1 (2014)](https://malicioussha1.github.io/)
 * [2024-09-23, 23:02:42](https://news.ycombinator.com/item?id=41631501) - [Two kinds of LLM responses: Informational vs. Instructional](https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html)
-* [2024-09-23, 17:24:11](https://news.ycombinator.com/item?id=41628415) - [Why did reporters for years end their stories by writing \"-30-\"? (2007)](https://ajrarchive.org/Article.asp?id=4408)
 * [2024-09-23, 15:11:21](https://news.ycombinator.com/item?id=41627027) - [Implementing and Detecting Anti-Debugging with Fork()](https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/)
 
 ## [Archives](archives/index.md)
