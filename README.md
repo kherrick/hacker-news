@@ -19,7 +19,6 @@
 * [2024-09-26, 17:03:32](https://news.ycombinator.com/item?id=41660733) - [Nardwuar on his best and worst interviews](https://www.vulture.com/article/nardwuar-best-worst-interviews.html)
 * [2024-09-26, 16:25:50](https://news.ycombinator.com/item?id=41660308) - [Lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 * [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
-* [2024-09-26, 15:13:44](https://news.ycombinator.com/item?id=41659324) - [DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 14:22:07](https://news.ycombinator.com/item?id=41658733) - [Hacking Kia: Remotely controlling cars with just a license plate](https://samcurry.net/hacking-kia)
 * [2024-09-26, 08:36:14](https://news.ycombinator.com/item?id=41655967) - [WordPress.org bans WP Engine](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
@@ -29,6 +28,7 @@
 * [2024-09-24, 10:39:48](https://news.ycombinator.com/item?id=41635131) - [The ambition of Microsoft Flight Simulator 2024](https://venturebeat.com/games/the-metaverse-didnt-die-it-moved-inside-microsoft-flight-simulator-2024-jorg-neumann-interview/)
 * [2024-09-24, 06:05:17](https://news.ycombinator.com/item?id=41633519) - [Malicious SHA-1 (2014)](https://malicioussha1.github.io/)
 * [2024-09-23, 20:03:44](https://news.ycombinator.com/item?id=41629893) - [Octopuses seen hunting together with fish](https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705)
+* [2024-09-23, 19:32:50](https://news.ycombinator.com/item?id=41629655) - [The Ingenious F1 Wing Trick That Helped Oscar Piastri Win the Azerbaijan GP](https://www.thedrive.com/news/the-ingenious-f1-wing-trick-that-helped-oscar-piastri-win-the-azerbaijan-gp)
 * [2024-09-23, 15:11:21](https://news.ycombinator.com/item?id=41627027) - [Implementing and Detecting Anti-Debugging with Fork()](https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/)
 
 ## [Archives](archives/index.md)

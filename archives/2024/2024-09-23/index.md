@@ -27,6 +27,7 @@
 * [2024-09-23, 20:03:44](https://news.ycombinator.com/item?id=41629893) - [Octopuses seen hunting together with fish, punching those that don't cooperate](https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705)
 * [2024-09-23, 19:52:38](https://news.ycombinator.com/item?id=41629811) - [Anime Is Eating the World](https://a16z.com/anime-is-eating-the-world/)
 * [2024-09-23, 19:37:57](https://news.ycombinator.com/item?id=41629698) - [The Python Package Index Should Get Rid of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
+* [2024-09-23, 19:32:50](https://news.ycombinator.com/item?id=41629655) - [The Ingenious F1 Wing Trick That Helped Oscar Piastri Win the Azerbaijan GP](https://www.thedrive.com/news/the-ingenious-f1-wing-trick-that-helped-oscar-piastri-win-the-azerbaijan-gp)
 * [2024-09-23, 19:28:35](https://news.ycombinator.com/item?id=41629620) - [Telegram will now hand over phone number and IP for criminal suspects](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
 * [2024-09-23, 19:27:14](https://news.ycombinator.com/item?id=41629608) - ['Ceefax gave you news when you wanted it' – Teletext at 50](https://www.bbc.co.uk/news/articles/cr54myyy671o)
 * [2024-09-23, 19:08:14](https://news.ycombinator.com/item?id=41629475) - [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
