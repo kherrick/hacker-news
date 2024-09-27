@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-27, 22:51:19](https://news.ycombinator.com/item?id=41676297) - [US Trademark Office Cancels Marvel, DC's 'Super Hero' Marks](https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/)
 * [2024-09-27, 21:23:45](https://news.ycombinator.com/item?id=41675672) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-09-27, 21:18:33](https://news.ycombinator.com/item?id=41675637) - [Lion Cove: Intel's P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
 * [2024-09-27, 20:07:03](https://news.ycombinator.com/item?id=41675029) - [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
@@ -26,6 +25,7 @@
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 * [2024-09-27, 08:20:24](https://news.ycombinator.com/item?id=41667652) - [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
 * [2024-09-26, 21:24:36](https://news.ycombinator.com/item?id=41663562) - [Behind OpenAI's plan to make A.I. flow like electricity](https://www.nytimes.com/2024/09/25/business/openai-plan-electricity.html)
+* [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing sports gambling was a mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
 * [2024-09-24, 15:02:45](https://news.ycombinator.com/item?id=41637286) - [Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 13:03:05](https://news.ycombinator.com/item?id=41636041) - [Notes on AWS Nitro Enclaves: Attack Surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
 * [2024-09-24, 10:23:26](https://news.ycombinator.com/item?id=41635039) - [Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/)
