@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 14:46:20](https://news.ycombinator.com/item?id=41671145) - [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
+* [2024-09-27, 14:41:57](https://news.ycombinator.com/item?id=41671091) - [Binance founder 'CZ' leaves prison on Friday–along with his $60B fortune](https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/)
+* [2024-09-27, 13:56:53](https://news.ycombinator.com/item?id=41670543) - [I've Soured on Open Source](https://greaterdanorequalto.com/ive-soured-on-open-source/)
 * [2024-09-27, 13:49:00](https://news.ycombinator.com/item?id=41670429) - [Maggie Smith, Star of 'Downton Abbey,' 'Harry Potter,' Dies at 89](https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/)
 * [2024-09-27, 13:34:06](https://news.ycombinator.com/item?id=41670253) - [WordPress Drama: From the Sidelines](https://eric.mann.blog/wordpress-drama-from-the-sidelines/)
 * [2024-09-27, 13:29:30](https://news.ycombinator.com/item?id=41670210) - [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
