@@ -65,6 +65,7 @@
 * [2024-09-24, 10:39:48](https://news.ycombinator.com/item?id=41635131) - [The ambition of Microsoft Flight Simulator 2024](https://venturebeat.com/games/the-metaverse-didnt-die-it-moved-inside-microsoft-flight-simulator-2024-jorg-neumann-interview/)
 * [2024-09-24, 10:30:53](https://news.ycombinator.com/item?id=41635088) - [Show HN: An expression parser supporting multiple types](https://github.com/torrentg/expr)
 * [2024-09-24, 10:30:05](https://news.ycombinator.com/item?id=41635080) - [The Quest to Build a Telescope on the Moon](https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon)
+* [2024-09-24, 10:23:26](https://news.ycombinator.com/item?id=41635039) - [Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/)
 * [2024-09-24, 08:20:38](https://news.ycombinator.com/item?id=41634356) - [Show HN: JSON For You – Visualize JSON in graph or table views](https://github.com/loggerhead/json4u)
 * [2024-09-24, 08:05:52](https://news.ycombinator.com/item?id=41634268) - [Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
 * [2024-09-24, 07:43:27](https://news.ycombinator.com/item?id=41634133) - [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
