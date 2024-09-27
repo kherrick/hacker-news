@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will Plants Grow on the Moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
 * [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
 * [2024-09-27, 18:38:38](https://news.ycombinator.com/item?id=41674109) - [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
 * [2024-09-27, 17:28:22](https://news.ycombinator.com/item?id=41673317) - [Ceefax and the Birth of Interactive TV](https://www.bbc.com/articles/cvg360rr91zo)
@@ -19,7 +20,6 @@
 * [2024-09-27, 13:27:05](https://news.ycombinator.com/item?id=41670186) - [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
 * [2024-09-27, 13:22:35](https://news.ycombinator.com/item?id=41670140) - [Greenwich: an experiment in collaborative links](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
 * [2024-09-27, 13:09:46](https://news.ycombinator.com/item?id=41669990) - [The CRPG Book Project (2023)](https://crpgbook.wordpress.com/)
-* [2024-09-27, 13:05:53](https://news.ycombinator.com/item?id=41669961) - [Our container platform is in production. It has GPUs. Here's an early look](https://blog.cloudflare.com/container-platform-preview/)
 * [2024-09-27, 13:03:37](https://news.ycombinator.com/item?id=41669934) - [Moving Bricks: Money-laundering practices in the online scam industry](https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/)
 * [2024-09-27, 12:54:55](https://news.ycombinator.com/item?id=41669850) - [Raft: Understandable Distributed Consensus (2014)](https://thesecretlivesofdata.com/raft/)
 * [2024-09-27, 12:53:15](https://news.ycombinator.com/item?id=41669840) - [Collaborative text editing with Eg-Walker: Better, faster, smaller](https://arxiv.org/abs/2409.14252)
