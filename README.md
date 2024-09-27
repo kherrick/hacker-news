@@ -4,10 +4,12 @@
 * [2024-09-27, 13:17:00](https://news.ycombinator.com/item?id=41670073) - [OpenAI is closing in on raising $6.5B. Largest VC raise in history](https://www.axios.com/2024/09/20/openai-largest-vc-round)
 * [2024-09-27, 13:09:46](https://news.ycombinator.com/item?id=41669990) - [The CRPG Book Project](https://crpgbook.wordpress.com/)
 * [2024-09-27, 13:06:02](https://news.ycombinator.com/item?id=41669964) - [Dev Starter Pack: The essential startup starter kit](https://devstarterpack.io/)
+* [2024-09-27, 13:05:53](https://news.ycombinator.com/item?id=41669961) - [Our container platform is in production. It has GPUs. Here's an early look](https://blog.cloudflare.com/container-platform-preview/)
 * [2024-09-27, 13:03:37](https://news.ycombinator.com/item?id=41669934) - [Money-Laundering Practices in the Online Scam Industry](https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/)
 * [2024-09-27, 13:02:37](https://news.ycombinator.com/item?id=41669922) - [Everything we know about spies is wrong](https://lithub.com/why-everything-we-think-we-know-about-spies-is-wrong/)
 * [2024-09-27, 13:01:51](https://news.ycombinator.com/item?id=41669912) - [EU privacy regulator fines Meta 91M euros over password storage](https://www.reuters.com/technology/eu-privacy-regulator-fines-meta-91-million-euros-over-password-storage-2024-09-27/)
 * [2024-09-27, 12:54:58](https://news.ycombinator.com/item?id=41669851) - [GeForce RTX 5090](https://twitter.com/kopite7kimi/status/1839343725727941060)
+* [2024-09-27, 12:54:55](https://news.ycombinator.com/item?id=41669850) - [Raft: Understandable Distributed Consensus](https://thesecretlivesofdata.com/raft/)
 * [2024-09-27, 12:53:15](https://news.ycombinator.com/item?id=41669840) - [Collaborative Text Editing with e.g.-Walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-27, 12:50:33](https://news.ycombinator.com/item?id=41669820) - [HP injects AI into its printers](https://www.ghacks.net/2024/09/27/print-ai-hp-injects-ai-into-its-printers/)
 * [2024-09-27, 11:55:17](https://news.ycombinator.com/item?id=41669306) - [CouchDB 3.4.1 Released](https://blog.couchdb.org/2024/09/27/3-4-1/)
@@ -27,9 +29,7 @@
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 14:22:07](https://news.ycombinator.com/item?id=41658733) - [Hacking Kia: Remotely controlling cars with just a license plate](https://samcurry.net/hacking-kia)
 * [2024-09-25, 08:19:36](https://news.ycombinator.com/item?id=41645044) - [I have 2000 old VHS tapes in my garage and don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
-* [2024-09-24, 10:39:48](https://news.ycombinator.com/item?id=41635131) - [The ambition of Microsoft Flight Simulator 2024](https://venturebeat.com/games/the-metaverse-didnt-die-it-moved-inside-microsoft-flight-simulator-2024-jorg-neumann-interview/)
 * [2024-09-23, 23:02:42](https://news.ycombinator.com/item?id=41631501) - [Two kinds of LLM responses: Informational vs. Instructional](https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html)
-* [2024-09-23, 15:11:21](https://news.ycombinator.com/item?id=41627027) - [Implementing and Detecting Anti-Debugging with Fork()](https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/)
 
 ## [Archives](archives/index.md)
 
