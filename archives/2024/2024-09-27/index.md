@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 07:37:07](https://news.ycombinator.com/item?id=41667393) - [Bugs Found in Cups](https://www.thestack.technology/critical-9-9-linux-bug-cups-your-ears-the-details-are-now-here/)
+* [2024-09-27, 07:10:48](https://news.ycombinator.com/item?id=41667243) - [Smart TVs take snapshots of what you watch multiple times per second](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)
 * [2024-09-27, 07:00:48](https://news.ycombinator.com/item?id=41667178) - [Imbue (YC S17) Is Hiring a Founding Product Engineer](https://news.ycombinator.com/item?id=41667178)
 * [2024-09-27, 06:27:33](https://news.ycombinator.com/item?id=41666945) - [Microsoft's new Outlook client moves your email to the cloud](https://www.xda-developers.com/privacy-implications-new-microsoft-outlook/)
 * [2024-09-27, 06:13:20](https://news.ycombinator.com/item?id=41666833) - [Europe's Banks Launch Wero Payments to Dislodge Visa, Mastercard](https://www.bloomberg.com/news/articles/2024-09-27/visa-and-mastercard-bnp-deutsche-bank-launch-wero-payment-alternative)
