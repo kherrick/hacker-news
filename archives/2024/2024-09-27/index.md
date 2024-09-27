@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 12:05:02](https://news.ycombinator.com/item?id=41669401) - [1000s of Toxins from food packaging found in humans – research](https://www.theguardian.com/us-news/2024/sep/27/pfas-toxins-chemicals-human-body)
+* [2024-09-27, 11:55:17](https://news.ycombinator.com/item?id=41669306) - [CouchDB 3.4.1 Released](https://blog.couchdb.org/2024/09/27/3-4-1/)
 * [2024-09-27, 11:01:26](https://news.ycombinator.com/item?id=41668824) - [TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
 * [2024-09-27, 10:37:14](https://news.ycombinator.com/item?id=41668622) - [You're probably not vulnerable to the CUPS CVE](https://xeiaso.net/notes/2024/cups-cve/)
 * [2024-09-27, 10:17:28](https://news.ycombinator.com/item?id=41668451) - [Leak claims RTX 5090 has 600W TGP, RTX 5080 hits 400W](https://www.tomshardware.com/pc-components/gpus/leak-claims-rtx-5090-has-600w-tgp-rtx-5080-hits-400w-up-to-21760-cores-32gb-vram-512-bit-bus)
