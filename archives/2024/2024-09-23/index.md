@@ -41,6 +41,7 @@
 * [2024-09-23, 18:36:12](https://news.ycombinator.com/item?id=41629168) - [Ask HN: What tools should I use to manage secrets from env files?](https://news.ycombinator.com/item?id=41629168)
 * [2024-09-23, 18:19:56](https://news.ycombinator.com/item?id=41628983) - [John Cassaday, Award-Winning Comic Book Artist&Creator of Planetary Dies at 52](https://www.nytimes.com/2024/09/18/arts/john-cassaday-dead.html)
 * [2024-09-23, 17:30:25](https://news.ycombinator.com/item?id=41628481) - [It's Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
+* [2024-09-23, 17:24:11](https://news.ycombinator.com/item?id=41628415) - [Why did reporters for years end their stories by writing \"-30-\"? (2007)](https://ajrarchive.org/Article.asp?id=4408)
 * [2024-09-23, 17:19:32](https://news.ycombinator.com/item?id=41628371) - [MI couple running out of time to prove they found Great Lakes' oldest shipwreck](https://www.usatoday.com/)
 * [2024-09-23, 17:19:32](https://news.ycombinator.com/item?id=41628371) - [MI couple running out of time to prove they found Great Lakes' oldest shipwreck](https://www.lansingstatejournal.com/story/news/local/michigan/2024/09/22/griffon-shipwreck-great-lakes-lake-michigan-steve-kathie-libert/74956091007/)
 * [2024-09-23, 17:15:33](https://news.ycombinator.com/item?id=41628340) - [Why are the violins the biggest section in the orchestra?](https://phys.org/news/2024-09-violins-biggest-section-orchestra.html)
