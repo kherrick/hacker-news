@@ -58,6 +58,7 @@
 * [2024-09-24, 12:55:12](https://news.ycombinator.com/item?id=41635991) - [Several people detained in Switzerland over death in a 'suicide capsule'](https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0)
 * [2024-09-24, 12:51:35](https://news.ycombinator.com/item?id=41635962) - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
 * [2024-09-24, 12:39:39](https://news.ycombinator.com/item?id=41635871) - [Show HN: Oodle – serverless, fully-managed, drop-in replacement for Prometheus](https://blog.oodle.ai/building-a-high-performance-low-cost-metrics-observability-system/)
+* [2024-09-24, 12:20:53](https://news.ycombinator.com/item?id=41635730) - [How we threw 10 quantum bit designs in the trash](https://vidnova.com/how-we-threw-10-quantum-bits-in-the-trash/)
 * [2024-09-24, 12:16:35](https://news.ycombinator.com/item?id=41635700) - [Passkey Privacy Issues](https://lapcatsoftware.com/articles/2024/8/8.html)
 * [2024-09-24, 11:59:22](https://news.ycombinator.com/item?id=41635592) - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-24, 11:58:02](https://news.ycombinator.com/item?id=41635583) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
