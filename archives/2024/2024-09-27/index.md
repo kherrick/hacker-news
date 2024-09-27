@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 19:35:32](https://news.ycombinator.com/item?id=41674677) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
 * [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will Plants Grow on the Moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
 * [2024-09-27, 19:05:05](https://news.ycombinator.com/item?id=41674382) - [AMD Unveils Its First Small Language Model AMD-135M](https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368)
 * [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
