@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 16:33:54](https://news.ycombinator.com/item?id=41672602) - [Dutch City the Hague Is First Banning Oil and Air Travel Ads](https://oilprice.com/Latest-Energy-News/World-News/Dutch-City-The-Hague-Is-Worlds-First-Banning-Oil-and-Air-Travel-Ads.html)
 * [2024-09-27, 16:18:40](https://news.ycombinator.com/item?id=41672418) - [Earth Is on the Brink of Breaching a 7th of Nine 'Planetary Boundaries'](https://www.smithsonianmag.com/smart-news/earth-is-on-the-brink-of-breaching-a-seventh-of-nine-planetary-boundaries-that-support-life-180985144/)
 * [2024-09-27, 16:03:03](https://news.ycombinator.com/item?id=41672214) - [Google Listed as Sponsor, Host of Israeli Military Tech Conference](https://theintercept.com/2024/09/27/google-israel-defense-tech-conference/)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
 * [2024-09-27, 15:55:20](https://news.ycombinator.com/item?id=41672101) - [NASA confirms space station cracking a \"highest\" risk and consequence problem](https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/)
 * [2024-09-27, 15:39:17](https://news.ycombinator.com/item?id=41671838) - [CA law means stores can't say you're buying a game if you're merely licensing it](https://www.polygon.com/news/457071/new)
 * [2024-09-27, 15:29:10](https://news.ycombinator.com/item?id=41671690) - [Minix 3](https://www.minix3.org/)
+* [2024-09-27, 15:24:13](https://news.ycombinator.com/item?id=41671606) - [Show HN: Quadratic – native JavaScript support in a spreadsheet](https://www.quadratichq.com/javascript)
 * [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 15:08:22](https://news.ycombinator.com/item?id=41671406) - [Israel concealed explosives inside batteries of pagers, Lebanese officials say](https://www.cnn.com/2024/09/27/middleeast/israel-pager-attack-hezbollah-lebanon-invs-intl/index.html)
 * [2024-09-27, 14:46:20](https://news.ycombinator.com/item?id=41671145) - [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
