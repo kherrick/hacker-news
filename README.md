@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-27, 13:49:00](https://news.ycombinator.com/item?id=41670429) - [Maggie Smith, Star of 'Downton Abbey,' 'Harry Potter,' Dies at 89](https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/)
+* [2024-09-27, 13:34:06](https://news.ycombinator.com/item?id=41670253) - [WordPress Drama: From the Sidelines](https://eric.mann.blog/wordpress-drama-from-the-sidelines/)
 * [2024-09-27, 13:29:30](https://news.ycombinator.com/item?id=41670210) - [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
 * [2024-09-27, 13:27:05](https://news.ycombinator.com/item?id=41670186) - [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
 * [2024-09-27, 13:22:35](https://news.ycombinator.com/item?id=41670140) - [I've built a city, now it needs residents](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
@@ -28,7 +29,6 @@
 * [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
 * [2024-09-26, 14:22:07](https://news.ycombinator.com/item?id=41658733) - [Hacking Kia: Remotely controlling cars with just a license plate](https://samcurry.net/hacking-kia)
 * [2024-09-25, 08:19:36](https://news.ycombinator.com/item?id=41645044) - [I have 2000 old VHS tapes in my garage and don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
-* [2024-09-23, 23:02:42](https://news.ycombinator.com/item?id=41631501) - [Two kinds of LLM responses: Informational vs. Instructional](https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html)
 * [2024-09-23, 22:15:57](https://news.ycombinator.com/item?id=41631163) - [Agitating Homemade PCBs with Ease](https://blog.arduino.cc/2024/09/18/agitating-homemade-pcbs-with-ease/)
 
 ## [Archives](archives/index.md)
