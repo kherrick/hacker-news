@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-27, 07:37:07](https://news.ycombinator.com/item?id=41667393) - [Bugs Found in Cups](https://www.thestack.technology/critical-9-9-linux-bug-cups-your-ears-the-details-are-now-here/)
+* [2024-09-27, 07:10:48](https://news.ycombinator.com/item?id=41667243) - [Smart TVs take snapshots of what you watch multiple times per second](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)
+* [2024-09-27, 07:06:33](https://news.ycombinator.com/item?id=41667211) - [If you're so smart, why aren't you rich? (2018)](https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/)
 * [2024-09-27, 07:00:48](https://news.ycombinator.com/item?id=41667178) - [Imbue (YC S17) Is Hiring a Founding Product Engineer](https://news.ycombinator.com/item?id=41667178)
 * [2024-09-27, 06:27:33](https://news.ycombinator.com/item?id=41666945) - [Microsoft's new Outlook client moves your email to the cloud](https://www.xda-developers.com/privacy-implications-new-microsoft-outlook/)
-* [2024-09-27, 06:13:20](https://news.ycombinator.com/item?id=41666833) - [Europe's Banks Launch Wero Payments to Dislodge Visa, Mastercard](https://www.bloomberg.com/news/articles/2024-09-27/visa-and-mastercard-bnp-deutsche-bank-launch-wero-payment-alternative)
 * [2024-09-27, 02:08:17](https://news.ycombinator.com/item?id=41665593) - [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
 * [2024-09-27, 02:04:01](https://news.ycombinator.com/item?id=41665569) - [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
 * [2024-09-27, 00:25:15](https://news.ycombinator.com/item?id=41665029) - [BookStack: Simple and Free Wiki Software](https://www.bookstackapp.com/)
@@ -28,7 +29,6 @@
 * [2024-09-24, 10:39:48](https://news.ycombinator.com/item?id=41635131) - [The ambition of Microsoft Flight Simulator 2024](https://venturebeat.com/games/the-metaverse-didnt-die-it-moved-inside-microsoft-flight-simulator-2024-jorg-neumann-interview/)
 * [2024-09-24, 06:05:17](https://news.ycombinator.com/item?id=41633519) - [Malicious SHA-1 (2014)](https://malicioussha1.github.io/)
 * [2024-09-23, 23:02:42](https://news.ycombinator.com/item?id=41631501) - [Two kinds of LLM responses: Informational vs. Instructional](https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html)
-* [2024-09-23, 19:32:50](https://news.ycombinator.com/item?id=41629655) - [F1 Wing Trick That Helped Oscar Piastri Win the Azerbaijan GP](https://www.thedrive.com/news/the-ingenious-f1-wing-trick-that-helped-oscar-piastri-win-the-azerbaijan-gp)
 * [2024-09-23, 15:11:21](https://news.ycombinator.com/item?id=41627027) - [Implementing and Detecting Anti-Debugging with Fork()](https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/)
 
 ## [Archives](archives/index.md)
