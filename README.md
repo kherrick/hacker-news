@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 * [2024-09-27, 08:20:24](https://news.ycombinator.com/item?id=41667652) - [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
 * [2024-09-27, 07:42:10](https://news.ycombinator.com/item?id=41667417) - [Steve Jobs Swore the 10-Minute Rule Made Him Smarter. He Was Right](https://www.inc.com/jessica-stillman/steve-jobs-swore-10-minute-rule-made-him-smarter-modern-neuroscience-discovering-he-was-right.html)
 * [2024-09-27, 07:10:48](https://news.ycombinator.com/item?id=41667243) - [Smart TVs take snapshots of what you watch multiple times per second](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)
@@ -28,7 +29,6 @@
 * [2024-09-24, 10:39:48](https://news.ycombinator.com/item?id=41635131) - [The ambition of Microsoft Flight Simulator 2024](https://venturebeat.com/games/the-metaverse-didnt-die-it-moved-inside-microsoft-flight-simulator-2024-jorg-neumann-interview/)
 * [2024-09-24, 06:05:17](https://news.ycombinator.com/item?id=41633519) - [Malicious SHA-1 (2014)](https://malicioussha1.github.io/)
 * [2024-09-23, 23:02:42](https://news.ycombinator.com/item?id=41631501) - [Two kinds of LLM responses: Informational vs. Instructional](https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html)
-* [2024-09-23, 18:39:29](https://news.ycombinator.com/item?id=41629207) - [The Excel spreadsheet brought the network down](https://old.reddit.com/r/sysadmin/comments/9si6r9/postmortem_mri_disables_every_ios_device_in/e8rbgmg/)
 * [2024-09-23, 15:11:21](https://news.ycombinator.com/item?id=41627027) - [Implementing and Detecting Anti-Debugging with Fork()](https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/)
 
 ## [Archives](archives/index.md)

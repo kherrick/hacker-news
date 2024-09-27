@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 * [2024-09-27, 08:20:24](https://news.ycombinator.com/item?id=41667652) - [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
 * [2024-09-27, 07:42:10](https://news.ycombinator.com/item?id=41667417) - [Steve Jobs Swore the 10-Minute Rule Made Him Smarter. He Was Right](https://www.inc.com/jessica-stillman/steve-jobs-swore-10-minute-rule-made-him-smarter-modern-neuroscience-discovering-he-was-right.html)
 * [2024-09-27, 07:37:07](https://news.ycombinator.com/item?id=41667393) - [Bugs Found in Cups](https://www.thestack.technology/critical-9-9-linux-bug-cups-your-ears-the-details-are-now-here/)
