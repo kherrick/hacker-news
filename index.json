@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-09-27, 21:00:33",
+      "https://news.ycombinator.com/item?id=41675469"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring an Engineering Manager",
+      "https://onesignal.com/careers/4381552006"
+    ]
+  ],
+  [
+    [
       "2024-09-27, 20:21:02",
       "https://news.ycombinator.com/item?id=41675135"
     ],
     [
-      "Kitchen staff were canaries in the coal mine",
+      "Kitchen staff were canaries in the coal mine (2022)",
       "https://economistwritingeveryday.com/2022/01/24/kitchen-staff-were-canaries-in-the-coal-mine/"
     ]
   ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-09-27, 15:29:10",
-      "https://news.ycombinator.com/item?id=41671690"
-    ],
-    [
-      "Minix 3 (2014)",
-      "https://www.minix3.org/"
-    ]
-  ],
-  [
-    [
       "2024-09-27, 15:24:13",
       "https://news.ycombinator.com/item?id=41671606"
     ],
@@ -137,16 +137,6 @@
     [
       "The best $4 ever spent",
       "https://papanotes.com/the-best-4-ever-spent"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 14:36:56",
-      "https://news.ycombinator.com/item?id=41671034"
-    ],
-    [
-      "Rewriting Rust: A Response",
-      "https://gavinhoward.com/2024/09/rewriting-rust-a-response/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Refactoring Python with Tree-sitter and Jedi",
       "https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 12:20:53",
+      "https://news.ycombinator.com/item?id=41635730"
+    ],
+    [
+      "How we threw 10 quantum bit designs in the trash",
+      "https://vidnova.com/how-we-threw-10-quantum-bits-in-the-trash/"
     ]
   ],
   [
