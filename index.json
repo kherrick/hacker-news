@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-27, 10:37:14",
+      "https://news.ycombinator.com/item?id=41668622"
+    ],
+    [
+      "You're probably not vulnerable to the CUPS CVE",
+      "https://xeiaso.net/notes/2024/cups-cve/"
+    ]
+  ],
+  [
+    [
+      "2024-09-27, 10:17:28",
+      "https://news.ycombinator.com/item?id=41668451"
+    ],
+    [
+      "Leak claims RTX 5090 has 600W TGP, RTX 5080 hits 400W",
+      "https://www.tomshardware.com/pc-components/gpus/leak-claims-rtx-5090-has-600w-tgp-rtx-5080-hits-400w-up-to-21760-cores-32gb-vram-512-bit-bus"
+    ]
+  ],
+  [
+    [
       "2024-09-27, 09:59:15",
       "https://news.ycombinator.com/item?id=41668304"
     ],
@@ -17,16 +37,6 @@
     [
       "I Am Tired of AI",
       "https://www.ontestautomation.com/i-am-tired-of-ai/"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 07:42:10",
-      "https://news.ycombinator.com/item?id=41667417"
-    ],
-    [
-      "Steve Jobs Swore the 10-Minute Rule Made Him Smarter. He Was Right",
-      "https://www.inc.com/jessica-stillman/steve-jobs-swore-10-minute-rule-made-him-smarter-modern-neuroscience-discovering-he-was-right.html"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-09-26, 20:17:59",
-      "https://news.ycombinator.com/item?id=41662831"
-    ],
-    [
-      "Why the U.S. can't build icebreaking ships",
-      "https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking"
-    ]
-  ],
-  [
-    [
       "2024-09-26, 20:06:23",
       "https://news.ycombinator.com/item?id=41662676"
     ],
@@ -177,16 +177,6 @@
     [
       "Tcl 9.0",
       "https://www.tcl-lang.org/software/tcltk/9.0.html?post=new"
-    ]
-  ],
-  [
-    [
-      "2024-09-26, 18:22:23",
-      "https://news.ycombinator.com/item?id=41661512"
-    ],
-    [
-      "U.S. court orders LibGen to pay $30M to publishers, issues broad injunction",
-      "https://torrentfreak.com/u-s-court-orders-libgen-to-pay-30m-to-publishers-issues-broad-injunction-240925/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Two kinds of LLM responses: Informational vs. Instructional",
       "https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 17:24:11",
+      "https://news.ycombinator.com/item?id=41628415"
+    ],
+    [
+      "Why did reporters for years end their stories by writing \"-30-\"? (2007)",
+      "https://ajrarchive.org/Article.asp?id=4408"
     ]
   ],
   [
