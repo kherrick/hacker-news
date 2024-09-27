@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 13:49:00](https://news.ycombinator.com/item?id=41670429) - [Maggie Smith, Star of 'Downton Abbey,' 'Harry Potter,' Dies at 89](https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/)
+* [2024-09-27, 13:29:30](https://news.ycombinator.com/item?id=41670210) - [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
+* [2024-09-27, 13:27:05](https://news.ycombinator.com/item?id=41670186) - [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
 * [2024-09-27, 13:22:35](https://news.ycombinator.com/item?id=41670140) - [I've built a city, now it needs residents](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
 * [2024-09-27, 13:17:00](https://news.ycombinator.com/item?id=41670073) - [OpenAI is closing in on raising $6.5B. Largest VC raise in history](https://www.axios.com/2024/09/20/openai-largest-vc-round)
 * [2024-09-27, 13:12:06](https://news.ycombinator.com/item?id=41670004) - [Japan's humble onigiri took over lunchtimes around the world](https://www.theguardian.com/world/2024/sep/27/japan-onigiri-rice-boom)
