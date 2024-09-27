@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 16:39:43](https://news.ycombinator.com/item?id=41672669) - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2024-09-27, 16:33:54](https://news.ycombinator.com/item?id=41672602) - [Dutch City the Hague Is First Banning Oil and Air Travel Ads](https://oilprice.com/Latest-Energy-News/World-News/Dutch-City-The-Hague-Is-Worlds-First-Banning-Oil-and-Air-Travel-Ads.html)
+* [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, So Much Fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 * [2024-09-27, 16:18:40](https://news.ycombinator.com/item?id=41672418) - [Earth Is on the Brink of Breaching a 7th of Nine 'Planetary Boundaries'](https://www.smithsonianmag.com/smart-news/earth-is-on-the-brink-of-breaching-a-seventh-of-nine-planetary-boundaries-that-support-life-180985144/)
 * [2024-09-27, 16:03:03](https://news.ycombinator.com/item?id=41672214) - [Google Listed as Sponsor, Host of Israeli Military Tech Conference](https://theintercept.com/2024/09/27/google-israel-defense-tech-conference/)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
