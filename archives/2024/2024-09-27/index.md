@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
 * [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will Plants Grow on the Moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
+* [2024-09-27, 19:05:05](https://news.ycombinator.com/item?id=41674382) - [AMD Unveils Its First Small Language Model AMD-135M](https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368)
 * [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
 * [2024-09-27, 18:39:13](https://news.ycombinator.com/item?id=41674115) - ['Not a business model': How companies misunderstand open source](https://www.computing.co.uk/opinion/2024/amanda-brock-open-source-comments)
 * [2024-09-27, 18:38:38](https://news.ycombinator.com/item?id=41674109) - [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
