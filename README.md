@@ -4,7 +4,6 @@
 * [2024-09-27, 02:08:17](https://news.ycombinator.com/item?id=41665593) - [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
 * [2024-09-27, 02:04:01](https://news.ycombinator.com/item?id=41665569) - [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
 * [2024-09-27, 01:00:46](https://news.ycombinator.com/item?id=41665250) - [Cityfurnish (YC W19) Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
-* [2024-09-27, 00:28:18](https://news.ycombinator.com/item?id=41665045) - [Sam Altman tells staff there’s no plan for him to receive ‘giant equity stake’](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html)
 * [2024-09-27, 00:25:15](https://news.ycombinator.com/item?id=41665029) - [BookStack: Simple and Free Wiki Software](https://www.bookstackapp.com/)
 * [2024-09-26, 23:40:26](https://news.ycombinator.com/item?id=41664750) - [When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)
 * [2024-09-26, 22:44:22](https://news.ycombinator.com/item?id=41664333) - [Vanilla OS 2: an immutable distribution to run all software](https://lwn.net/Articles/989629/)
@@ -24,12 +23,13 @@
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 14:22:07](https://news.ycombinator.com/item?id=41658733) - [Hacking Kia: Remotely Controlling Cars with Just a License Plate](https://samcurry.net/hacking-kia)
 * [2024-09-26, 08:36:14](https://news.ycombinator.com/item?id=41655967) - [WordPress.org bans WP Engine](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
-* [2024-09-26, 08:34:43](https://news.ycombinator.com/item?id=41655954) - [OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/)
 * [2024-09-25, 17:01:15](https://news.ycombinator.com/item?id=41649472) - [I've tracked every single piece of clothing I've worn for three years](https://www.reaktor.com/articles/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years)
 * [2024-09-25, 09:54:50](https://news.ycombinator.com/item?id=41645566) - [A Brief History of Microprogramming (2022)](https://people.computing.clemson.edu/~mark/uprog.html)
 * [2024-09-25, 08:19:36](https://news.ycombinator.com/item?id=41645044) - [I have 2000 old VHS tapes in my garage and don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
 * [2024-09-25, 07:38:53](https://news.ycombinator.com/item?id=41644731) - [Dethrace: Reverse engineering the 1997 game \"Carmageddon\" (2023)](https://github.com/dethrace-labs/dethrace)
 * [2024-09-24, 06:05:17](https://news.ycombinator.com/item?id=41633519) - [Malicious SHA-1 (2014)](https://malicioussha1.github.io/)
+* [2024-09-23, 20:03:44](https://news.ycombinator.com/item?id=41629893) - [Octopuses seen hunting together with fish, punching those that don't cooperate](https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705)
+* [2024-09-23, 15:11:21](https://news.ycombinator.com/item?id=41627027) - [Implementing and Detecting Anti-Debugging with Fork()](https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/)
 
 ## [Archives](archives/index.md)
 

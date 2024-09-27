@@ -48,6 +48,7 @@
 * [2024-09-23, 16:25:00](https://news.ycombinator.com/item?id=41627787) - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
 * [2024-09-23, 16:22:09](https://news.ycombinator.com/item?id=41627754) - [David Graeber and David Wengrow: Flesh and Blood (2021)](https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood)
 * [2024-09-23, 16:06:03](https://news.ycombinator.com/item?id=41627549) - [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
+* [2024-09-23, 15:11:21](https://news.ycombinator.com/item?id=41627027) - [Implementing and Detecting Anti-Debugging with Fork()](https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/)
 * [2024-09-23, 14:24:19](https://news.ycombinator.com/item?id=41626468) - [Mozilla removes ad-tracking code from Firefox](https://adguard.com/en/blog/mozilla-firefox-ad-tracking-adjust-sdk.html)
 * [2024-09-23, 13:58:19](https://news.ycombinator.com/item?id=41626146) - [Ask HN: Dangers of Unsecured WiFi?](https://news.ycombinator.com/item?id=41626146)
 * [2024-09-23, 13:56:56](https://news.ycombinator.com/item?id=41626133) - [Ever wonder how crooks get the credentials to unlock stolen phones?](https://arstechnica.com/security/2024/09/cops-bust-website-crooks-used-to-unlock-1-2-million-stolen-mobile-phones/)
