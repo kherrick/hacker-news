@@ -3,7 +3,6 @@
 * [2024-09-27, 16:39:43](https://news.ycombinator.com/item?id=41672669) - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2024-09-27, 16:33:54](https://news.ycombinator.com/item?id=41672602) - [Dutch City the Hague Is First Banning Oil and Air Travel Ads](https://oilprice.com/Latest-Energy-News/World-News/Dutch-City-The-Hague-Is-Worlds-First-Banning-Oil-and-Air-Travel-Ads.html)
 * [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, So Much Fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
-* [2024-09-27, 16:18:40](https://news.ycombinator.com/item?id=41672418) - [Earth Is on the Brink of Breaching a 7th of Nine 'Planetary Boundaries'](https://www.smithsonianmag.com/smart-news/earth-is-on-the-brink-of-breaching-a-seventh-of-nine-planetary-boundaries-that-support-life-180985144/)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
 * [2024-09-27, 15:55:20](https://news.ycombinator.com/item?id=41672101) - [NASA confirms space station cracking a \"highest\" risk and consequence problem](https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/)
 * [2024-09-27, 15:39:17](https://news.ycombinator.com/item?id=41671838) - [CA law means stores can't say you're buying a game if you're merely licensing it](https://www.polygon.com/news/457071/new)
@@ -27,7 +26,8 @@
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 * [2024-09-27, 07:00:48](https://news.ycombinator.com/item?id=41667178) - [Imbue (YC S17) Is Hiring a Founding Product Engineer](https://news.ycombinator.com/item?id=41667178)
 * [2024-09-26, 21:13:51](https://news.ycombinator.com/item?id=41663465) - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
-* [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
+* [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing sports gambling was a mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
+* [2024-09-25, 08:19:36](https://news.ycombinator.com/item?id=41645044) - [I have 2000 old VHS tapes in my garage and don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
 * [2024-09-24, 10:23:26](https://news.ycombinator.com/item?id=41635039) - [Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/)
 * [2024-09-23, 22:15:57](https://news.ycombinator.com/item?id=41631163) - [Agitating Homemade PCBs with Ease](https://blog.arduino.cc/2024/09/18/agitating-homemade-pcbs-with-ease/)
 
