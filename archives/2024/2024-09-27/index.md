@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 17:25:55](https://news.ycombinator.com/item?id=41673277) - [Signal's Meredith Whittaker: 'I see AI as born out of surveillance'](https://www.ft.com/content/799b4fcf-2cf7-41d2-81b4-10d9ecdd83f6)
 * [2024-09-27, 16:39:43](https://news.ycombinator.com/item?id=41672669) - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2024-09-27, 16:33:54](https://news.ycombinator.com/item?id=41672602) - [Dutch City the Hague Is First Banning Oil and Air Travel Ads](https://oilprice.com/Latest-Energy-News/World-News/Dutch-City-The-Hague-Is-Worlds-First-Banning-Oil-and-Air-Travel-Ads.html)
 * [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, So Much Fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)

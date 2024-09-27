@@ -46,6 +46,7 @@
 * [2024-09-24, 15:33:46](https://news.ycombinator.com/item?id=41637658) - [Intel Xeon 6900P Reasserts Intel Server Leadership](https://www.servethehome.com/welcome-back-intel-xeon-6900p-reasserts-intel-server-leadership/)
 * [2024-09-24, 15:25:52](https://news.ycombinator.com/item?id=41637550) - [Show HN: Velvet – Store OpenAI requests in your own DB](https://www.usevelvet.com)
 * [2024-09-24, 15:14:01](https://news.ycombinator.com/item?id=41637409) - [Is There Any Safe Place to Complain About Work Online?](https://www.wsj.com/tech/personal-tech/slack-teams-google-chat-is-there-any-safe-place-to-complain-about-work-online-d1e26bb2)
+* [2024-09-24, 15:02:45](https://news.ycombinator.com/item?id=41637286) - [Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 14:24:30](https://news.ycombinator.com/item?id=41636781) - [James Cameron Joins Stability AI Board of Directors](https://stability.ai/news/james-cameron-joins-stability-ai-board-of-directors)
 * [2024-09-24, 14:19:38](https://news.ycombinator.com/item?id=41636735) - [Will A.I. Be a Bust? A Wall Street Skeptic Rings the Alarm](https://www.nytimes.com/2024/09/23/technology/ai-jim-covello-goldman-sachs.html)
