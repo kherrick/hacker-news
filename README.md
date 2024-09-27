@@ -14,7 +14,7 @@
 * [2024-09-27, 14:36:56](https://news.ycombinator.com/item?id=41671034) - [Rewriting Rust: A Response](https://gavinhoward.com/2024/09/rewriting-rust-a-response/)
 * [2024-09-27, 14:13:54](https://news.ycombinator.com/item?id=41670743) - [The Mega65](https://lyonsden.net/my-mega65-is-finally-here/)
 * [2024-09-27, 13:49:00](https://news.ycombinator.com/item?id=41670429) - [Maggie Smith, Star of 'Downton Abbey,' 'Harry Potter,' Dies at 89](https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/)
-* [2024-09-27, 13:29:30](https://news.ycombinator.com/item?id=41670210) - [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
+* [2024-09-27, 13:29:30](https://news.ycombinator.com/item?id=41670210) - [CNN and USA Today have fake websites, I believe Forbes Marketplace runs them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
 * [2024-09-27, 13:27:05](https://news.ycombinator.com/item?id=41670186) - [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
 * [2024-09-27, 13:12:06](https://news.ycombinator.com/item?id=41670004) - [Japan's humble onigiri took over lunchtimes around the world](https://www.theguardian.com/world/2024/sep/27/japan-onigiri-rice-boom)
 * [2024-09-27, 13:09:46](https://news.ycombinator.com/item?id=41669990) - [The CRPG Book Project (2023)](https://crpgbook.wordpress.com/)
