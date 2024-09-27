@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2024-09-27, 13:12:06",
+      "https://news.ycombinator.com/item?id=41670004"
+    ],
+    [
+      "Japan's humble onigiri took over lunchtimes around the world",
+      "https://www.theguardian.com/world/2024/sep/27/japan-onigiri-rice-boom"
+    ]
+  ],
+  [
+    [
       "2024-09-27, 13:09:46",
       "https://news.ycombinator.com/item?id=41669990"
     ],
     [
       "The CRPG Book Project",
       "https://crpgbook.wordpress.com/"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 13:06:02",
-      "https://news.ycombinator.com/item?id=41669964"
-    ],
-    [
-      "Dev Starter Pack: The essential startup starter kit",
-      "https://devstarterpack.io/"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-09-27, 12:54:58",
-      "https://news.ycombinator.com/item?id=41669851"
-    ],
-    [
-      "GeForce RTX 5090",
-      "https://twitter.com/kopite7kimi/status/1839343725727941060"
-    ]
-  ],
-  [
-    [
       "2024-09-27, 12:54:55",
       "https://news.ycombinator.com/item?id=41669850"
     ],
@@ -117,6 +107,16 @@
     [
       "HP injects AI into its printers",
       "https://www.ghacks.net/2024/09/27/print-ai-hp-injects-ai-into-its-printers/"
+    ]
+  ],
+  [
+    [
+      "2024-09-27, 12:16:09",
+      "https://news.ycombinator.com/item?id=41669522"
+    ],
+    [
+      "LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs",
+      "https://arxiv.org/abs/2409.11424"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "Small3dlib: Suckless PD 3D software rasterizer",
       "https://codeberg.org/drummyfish/small3dlib"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 00:25:15",
-      "https://news.ycombinator.com/item?id=41665029"
-    ],
-    [
-      "BookStack: Simple and Free Wiki Software",
-      "https://www.bookstackapp.com/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Two kinds of LLM responses: Informational vs. Instructional",
       "https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 22:15:57",
+      "https://news.ycombinator.com/item?id=41631163"
+    ],
+    [
+      "Agitating Homemade PCBs with Ease",
+      "https://blog.arduino.cc/2024/09/18/agitating-homemade-pcbs-with-ease/"
     ]
   ]
 ]
