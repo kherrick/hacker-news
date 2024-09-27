@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-09-27, 13:05:53",
+      "https://news.ycombinator.com/item?id=41669961"
+    ],
+    [
+      "Our container platform is in production. It has GPUs. Here's an early look",
+      "https://blog.cloudflare.com/container-platform-preview/"
+    ]
+  ],
+  [
+    [
       "2024-09-27, 13:03:37",
       "https://news.ycombinator.com/item?id=41669934"
     ],
@@ -77,6 +87,16 @@
     [
       "GeForce RTX 5090",
       "https://twitter.com/kopite7kimi/status/1839343725727941060"
+    ]
+  ],
+  [
+    [
+      "2024-09-27, 12:54:55",
+      "https://news.ycombinator.com/item?id=41669850"
+    ],
+    [
+      "Raft: Understandable Distributed Consensus",
+      "https://thesecretlivesofdata.com/raft/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-09-24, 10:39:48",
-      "https://news.ycombinator.com/item?id=41635131"
-    ],
-    [
-      "The ambition of Microsoft Flight Simulator 2024",
-      "https://venturebeat.com/games/the-metaverse-didnt-die-it-moved-inside-microsoft-flight-simulator-2024-jorg-neumann-interview/"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 23:02:42",
       "https://news.ycombinator.com/item?id=41631501"
     ],
     [
       "Two kinds of LLM responses: Informational vs. Instructional",
       "https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 15:11:21",
-      "https://news.ycombinator.com/item?id=41627027"
-    ],
-    [
-      "Implementing and Detecting Anti-Debugging with Fork()",
-      "https://tonygo.netlify.app//2024/anti-debugging-detection-with-fork/"
     ]
   ]
 ]
