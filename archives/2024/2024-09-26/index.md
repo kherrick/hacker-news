@@ -10,6 +10,7 @@
 * [2024-09-26, 22:28:20](https://news.ycombinator.com/item?id=41664199) - [Stem cells reverse woman's diabetes – a world first](https://www.nature.com/articles/d41586-024-03129-3)
 * [2024-09-26, 21:20:08](https://news.ycombinator.com/item?id=41663523) - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 * [2024-09-26, 21:14:52](https://news.ycombinator.com/item?id=41663472) - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
+* [2024-09-26, 21:14:34](https://news.ycombinator.com/item?id=41663469) - [So Many Silver Landmines](https://taylor.town/silver-landmines)
 * [2024-09-26, 21:13:51](https://news.ycombinator.com/item?id=41663465) - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
 * [2024-09-26, 21:13:30](https://news.ycombinator.com/item?id=41663460) - [Critical Mass and Tipping Points](https://fs.blog/critical-mass/)
 * [2024-09-26, 20:37:58](https://news.ycombinator.com/item?id=41663077) - [Why are my ZFS disks so noisy?](https://allthingsopen.org/articles/noisy-zfs-disks)

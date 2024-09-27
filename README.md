@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-27, 12:05:02](https://news.ycombinator.com/item?id=41669401) - [1000s of Toxins from food packaging found in humans – research](https://www.theguardian.com/us-news/2024/sep/27/pfas-toxins-chemicals-human-body)
 * [2024-09-27, 11:55:17](https://news.ycombinator.com/item?id=41669306) - [CouchDB 3.4.1 Released](https://blog.couchdb.org/2024/09/27/3-4-1/)
 * [2024-09-27, 11:01:26](https://news.ycombinator.com/item?id=41668824) - [TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
@@ -13,6 +12,7 @@
 * [2024-09-26, 22:28:20](https://news.ycombinator.com/item?id=41664199) - [Stem cells reverse woman’s diabetes](https://www.nature.com/articles/d41586-024-03129-3)
 * [2024-09-26, 21:20:08](https://news.ycombinator.com/item?id=41663523) - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 * [2024-09-26, 21:14:52](https://news.ycombinator.com/item?id=41663472) - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
+* [2024-09-26, 21:14:34](https://news.ycombinator.com/item?id=41663469) - [So Many Silver Landmines](https://taylor.town/silver-landmines)
 * [2024-09-26, 21:13:51](https://news.ycombinator.com/item?id=41663465) - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
 * [2024-09-26, 20:37:58](https://news.ycombinator.com/item?id=41663077) - [Why are my ZFS disks so noisy?](https://allthingsopen.org/articles/noisy-zfs-disks)
 * [2024-09-26, 20:06:23](https://news.ycombinator.com/item?id=41662676) - [FCC unlocks spectrum to support advanced satellite services](https://www.fcc.gov/document/fcc-unlocks-spectrum-support-advanced-satellite-services)
