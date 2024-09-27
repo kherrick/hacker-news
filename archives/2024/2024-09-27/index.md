@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
 * [2024-09-27, 21:23:45](https://news.ycombinator.com/item?id=41675672) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+* [2024-09-27, 21:18:33](https://news.ycombinator.com/item?id=41675637) - [Lion Cove: Intel's P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
 * [2024-09-27, 21:00:33](https://news.ycombinator.com/item?id=41675469) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-09-27, 20:21:02](https://news.ycombinator.com/item?id=41675135) - [Kitchen staff were canaries in the coal mine](https://economistwritingeveryday.com/2022/01/24/kitchen-staff-were-canaries-in-the-coal-mine/)
 * [2024-09-27, 20:07:03](https://news.ycombinator.com/item?id=41675029) - [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
