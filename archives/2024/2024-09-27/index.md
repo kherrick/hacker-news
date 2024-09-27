@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 18:39:13](https://news.ycombinator.com/item?id=41674115) - ['Not a business model': How companies misunderstand open source](https://www.computing.co.uk/opinion/2024/amanda-brock-open-source-comments)
 * [2024-09-27, 17:25:55](https://news.ycombinator.com/item?id=41673277) - [Signal's Meredith Whittaker: 'I see AI as born out of surveillance'](https://www.ft.com/content/799b4fcf-2cf7-41d2-81b4-10d9ecdd83f6)
 * [2024-09-27, 16:39:43](https://news.ycombinator.com/item?id=41672669) - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2024-09-27, 16:33:54](https://news.ycombinator.com/item?id=41672602) - [Dutch City the Hague Is First Banning Oil and Air Travel Ads](https://oilprice.com/Latest-Energy-News/World-News/Dutch-City-The-Hague-Is-Worlds-First-Banning-Oil-and-Air-Travel-Ads.html)
@@ -15,6 +16,7 @@
 * [2024-09-27, 15:39:17](https://news.ycombinator.com/item?id=41671838) - [CA law means stores can't say you're buying a game if you're merely licensing it](https://www.polygon.com/news/457071/new)
 * [2024-09-27, 15:29:10](https://news.ycombinator.com/item?id=41671690) - [Minix 3](https://www.minix3.org/)
 * [2024-09-27, 15:24:13](https://news.ycombinator.com/item?id=41671606) - [Show HN: Quadratic – native JavaScript support in a spreadsheet](https://www.quadratichq.com/javascript)
+* [2024-09-27, 15:19:21](https://news.ycombinator.com/item?id=41671548) - [Just stop oil protesters sentenced 2years for throwing soup on Van Gogh painting](https://juststopoil.org/2024/09/27/sent-down-for-throwing-soup-judge-hehir-turns-state-repression-into-an-art-form/)
 * [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 15:08:22](https://news.ycombinator.com/item?id=41671406) - [Israel concealed explosives inside batteries of pagers, Lebanese officials say](https://www.cnn.com/2024/09/27/middleeast/israel-pager-attack-hezbollah-lebanon-invs-intl/index.html)
 * [2024-09-27, 14:46:20](https://news.ycombinator.com/item?id=41671145) - [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
