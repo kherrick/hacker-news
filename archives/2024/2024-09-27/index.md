@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
 * [2024-09-27, 18:39:13](https://news.ycombinator.com/item?id=41674115) - ['Not a business model': How companies misunderstand open source](https://www.computing.co.uk/opinion/2024/amanda-brock-open-source-comments)
+* [2024-09-27, 18:38:38](https://news.ycombinator.com/item?id=41674109) - [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
+* [2024-09-27, 17:28:22](https://news.ycombinator.com/item?id=41673317) - [Ceefax and the Birth of Interactive TV](https://www.bbc.com/articles/cvg360rr91zo)
 * [2024-09-27, 17:25:55](https://news.ycombinator.com/item?id=41673277) - [Signal's Meredith Whittaker: 'I see AI as born out of surveillance'](https://www.ft.com/content/799b4fcf-2cf7-41d2-81b4-10d9ecdd83f6)
 * [2024-09-27, 16:39:43](https://news.ycombinator.com/item?id=41672669) - [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2024-09-27, 16:33:54](https://news.ycombinator.com/item?id=41672602) - [Dutch City the Hague Is First Banning Oil and Air Travel Ads](https://oilprice.com/Latest-Energy-News/World-News/Dutch-City-The-Hague-Is-Worlds-First-Banning-Oil-and-Air-Travel-Ads.html)

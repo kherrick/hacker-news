@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
+* [2024-09-27, 18:38:38](https://news.ycombinator.com/item?id=41674109) - [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
+* [2024-09-27, 17:28:22](https://news.ycombinator.com/item?id=41673317) - [Ceefax and the Birth of Interactive TV](https://www.bbc.com/articles/cvg360rr91zo)
 * [2024-09-27, 16:39:43](https://news.ycombinator.com/item?id=41672669) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [How AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
 * [2024-09-27, 15:55:20](https://news.ycombinator.com/item?id=41672101) - [NASA confirms space station cracking a \"highest\" risk and consequence problem](https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/)
-* [2024-09-27, 15:39:17](https://news.ycombinator.com/item?id=41671838) - [CA law means stores can't say you're buying a game if you're merely licensing it](https://www.polygon.com/news/457071/new)
 * [2024-09-27, 15:29:10](https://news.ycombinator.com/item?id=41671690) - [Minix 3 (2014)](https://www.minix3.org/)
 * [2024-09-27, 15:24:13](https://news.ycombinator.com/item?id=41671606) - [Show HN: Quadratic – native JavaScript support in a spreadsheet](https://www.quadratichq.com/javascript)
 * [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable complex radiance fields with real-time rendering](https://anttwo.github.io/frosting/)
@@ -16,7 +18,6 @@
 * [2024-09-27, 13:29:30](https://news.ycombinator.com/item?id=41670210) - [CNN and USA Today have fake websites, I believe Forbes Marketplace runs them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
 * [2024-09-27, 13:27:05](https://news.ycombinator.com/item?id=41670186) - [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
 * [2024-09-27, 13:22:35](https://news.ycombinator.com/item?id=41670140) - [Greenwich: an experiment in collaborative links](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
-* [2024-09-27, 13:12:06](https://news.ycombinator.com/item?id=41670004) - [Japan's humble onigiri took over lunchtimes around the world](https://www.theguardian.com/world/2024/sep/27/japan-onigiri-rice-boom)
 * [2024-09-27, 13:09:46](https://news.ycombinator.com/item?id=41669990) - [The CRPG Book Project (2023)](https://crpgbook.wordpress.com/)
 * [2024-09-27, 13:05:53](https://news.ycombinator.com/item?id=41669961) - [Our container platform is in production. It has GPUs. Here's an early look](https://blog.cloudflare.com/container-platform-preview/)
 * [2024-09-27, 13:03:37](https://news.ycombinator.com/item?id=41669934) - [Moving Bricks: Money-laundering practices in the online scam industry](https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/)
@@ -26,10 +27,9 @@
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 * [2024-09-27, 08:20:24](https://news.ycombinator.com/item?id=41667652) - [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
 * [2024-09-26, 21:24:36](https://news.ycombinator.com/item?id=41663562) - [Behind OpenAI's plan to make A.I. flow like electricity](https://www.nytimes.com/2024/09/25/business/openai-plan-electricity.html)
-* [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing sports gambling was a mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
 * [2024-09-24, 15:02:45](https://news.ycombinator.com/item?id=41637286) - [Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 10:23:26](https://news.ycombinator.com/item?id=41635039) - [Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/)
-* [2024-09-23, 22:15:57](https://news.ycombinator.com/item?id=41631163) - [Agitating homemade PCBs with ease](https://blog.arduino.cc/2024/09/18/agitating-homemade-pcbs-with-ease/)
+* [2024-09-24, 05:01:32](https://news.ycombinator.com/item?id=41633221) - [You can prevent your app from being removed](https://tinycoder.pika.page/posts/you-can-prevent-your-app-from-being-removed)
 
 ## [Archives](archives/index.md)
 
