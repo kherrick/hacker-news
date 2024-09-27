@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-27, 05:28:05](https://news.ycombinator.com/item?id=41666564) - [OpenAI as we knew it is dead](https://www.vox.com/future-perfect/374275/openai-just-sold-you-out)
 * [2024-09-27, 02:08:17](https://news.ycombinator.com/item?id=41665593) - [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
 * [2024-09-27, 02:04:01](https://news.ycombinator.com/item?id=41665569) - [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
 * [2024-09-27, 01:00:46](https://news.ycombinator.com/item?id=41665250) - [Cityfurnish (YC W19) Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
@@ -17,7 +18,6 @@
 * [2024-09-26, 17:03:32](https://news.ycombinator.com/item?id=41660733) - [Nardwuar on his best and worst interviews](https://www.vulture.com/article/nardwuar-best-worst-interviews.html)
 * [2024-09-26, 16:25:50](https://news.ycombinator.com/item?id=41660308) - [Lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 * [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
-* [2024-09-26, 15:13:44](https://news.ycombinator.com/item?id=41659324) - [DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 14:22:07](https://news.ycombinator.com/item?id=41658733) - [Hacking Kia: Remotely controlling cars with just a license plate](https://samcurry.net/hacking-kia)
 * [2024-09-26, 08:36:14](https://news.ycombinator.com/item?id=41655967) - [WordPress.org bans WP Engine](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
