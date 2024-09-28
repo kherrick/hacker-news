@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-28, 09:56:46](https://news.ycombinator.com/item?id=41679185) - [Hyundai Faces New Theft Threat from \"Game Boy\" Hack](https://headlight.news/2024/07/08/hyundai-faces-new-theft-threat-from-game-boy-hack/)
+* [2024-09-28, 09:14:02](https://news.ycombinator.com/item?id=41679019) - [Exponential growth brews 1M AI models on Hugging Face](https://arstechnica.com/information-technology/2024/09/ai-hosting-platform-surpasses-1-million-models-for-the-first-time/)
 * [2024-09-28, 08:38:04](https://news.ycombinator.com/item?id=41678840) - [Meta fined $102M for storing passwords in plain text](https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html)
 * [2024-09-28, 07:52:35](https://news.ycombinator.com/item?id=41678654) - [Apple not investing in OpenAI after all, new report says](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
@@ -9,7 +10,6 @@
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-27, 21:18:33](https://news.ycombinator.com/item?id=41675637) - [Lion Cove: Intel's P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
-* [2024-09-27, 20:07:03](https://news.ycombinator.com/item?id=41675029) - [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
 * [2024-09-27, 19:35:32](https://news.ycombinator.com/item?id=41674677) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
 * [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
 * [2024-09-27, 18:38:38](https://news.ycombinator.com/item?id=41674109) - [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
