@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-28, 08:38:04",
+      "https://news.ycombinator.com/item?id=41678840"
+    ],
+    [
+      "Meta fined $102M for storing passwords in plain text",
+      "https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html"
+    ]
+  ],
+  [
+    [
       "2024-09-28, 07:52:35",
       "https://news.ycombinator.com/item?id=41678654"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-09-28, 06:51:41",
+      "https://news.ycombinator.com/item?id=41678412"
+    ],
+    [
+      "FFT-based ocean-wave rendering, implemented in Godot",
+      "https://github.com/2Retr0/GodotOceanWaves"
+    ]
+  ],
+  [
+    [
       "2024-09-28, 06:47:50",
       "https://news.ycombinator.com/item?id=41678392"
     ],
@@ -47,16 +67,6 @@
     [
       "Amusing Ourselves to Death",
       "https://otpok.com/2014/01/03/amusing-ourselves-to-death/"
-    ]
-  ],
-  [
-    [
-      "2024-09-28, 04:18:27",
-      "https://news.ycombinator.com/item?id=41677823"
-    ],
-    [
-      "It is never too later to write your own C/C++ command-line utilities",
-      "https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "How AlphaChip transformed computer chip design",
       "https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 15:24:13",
-      "https://news.ycombinator.com/item?id=41671606"
-    ],
-    [
-      "Show HN: Quadratic – native JavaScript support in a spreadsheet",
-      "https://www.quadratichq.com/javascript"
     ]
   ],
   [
