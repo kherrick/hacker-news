@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 09:56:46](https://news.ycombinator.com/item?id=41679185) - [Hyundai Faces New Theft Threat from \"Game Boy\" Hack](https://headlight.news/2024/07/08/hyundai-faces-new-theft-threat-from-game-boy-hack/)
 * [2024-09-28, 08:38:04](https://news.ycombinator.com/item?id=41678840) - [Meta fined $102M for storing passwords in plain text](https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html)
 * [2024-09-28, 07:52:35](https://news.ycombinator.com/item?id=41678654) - [Apple not investing in OpenAI after all, new report says](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
