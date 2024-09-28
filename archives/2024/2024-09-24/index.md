@@ -30,6 +30,7 @@
 * [2024-09-24, 20:10:08](https://news.ycombinator.com/item?id=41640388) - [Rotation-Based Compression](https://www.winstoncooke.com/blog/rotation-based-compression)
 * [2024-09-24, 19:53:12](https://news.ycombinator.com/item?id=41640228) - [Show HN: Phobos – an engine extension for Red Alert 2: Yuri's Revenge](https://github.com/Phobos-developers/Phobos)
 * [2024-09-24, 19:26:03](https://news.ycombinator.com/item?id=41640005) - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
+* [2024-09-24, 19:25:03](https://news.ycombinator.com/item?id=41639994) - [I spent 5 hours learning how ClickHouse built their internal data warehouse](https://vutr.substack.com/p/how-clickhouse-built-their-internal)
 * [2024-09-24, 19:23:41](https://news.ycombinator.com/item?id=41639980) - [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
 * [2024-09-24, 19:03:11](https://news.ycombinator.com/item?id=41639794) - [Intel's Core Ultra 2 Chip Posts Nearly 24-Hour Battery Life in Lunar Lake](https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24)
 * [2024-09-24, 18:50:05](https://news.ycombinator.com/item?id=41639704) - [\"Jurassic Park inspired more people to go into biotech than any academic paper\"](https://twitter.com/eliotpeper/status/1837532903372476516)
