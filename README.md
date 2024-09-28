@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
@@ -28,7 +29,6 @@
 * [2024-09-24, 15:02:45](https://news.ycombinator.com/item?id=41637286) - [Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 10:23:26](https://news.ycombinator.com/item?id=41635039) - [Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/)
 * [2024-09-24, 09:49:25](https://news.ycombinator.com/item?id=41634856) - [Linearizability Refinement Prophecy](https://surfingcomplexity.blog/2024/09/22/linearizability-refinement-prophecy/)
-* [2024-09-24, 05:01:32](https://news.ycombinator.com/item?id=41633221) - [Preventing app removal on iOS](https://tinycoder.pika.page/posts/you-can-prevent-your-app-from-being-removed)
 * [2024-09-23, 22:18:07](https://news.ycombinator.com/item?id=41631177) - [Ocean waves grow way beyond known limits](https://phys.org/news/2024-09-ocean-limits.html)
 
 ## [Archives](archives/index.md)
