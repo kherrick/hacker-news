@@ -67,6 +67,7 @@
 * [2024-09-25, 09:00:15](https://news.ycombinator.com/item?id=41645320) - [Social Web Foundation launches, supported by Vivaldi](https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/)
 * [2024-09-25, 08:53:30](https://news.ycombinator.com/item?id=41645278) - [Ask HN: What do you use to backup your VMs?](https://news.ycombinator.com/item?id=41645278)
 * [2024-09-25, 08:52:19](https://news.ycombinator.com/item?id=41645265) - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
+* [2024-09-25, 08:40:08](https://news.ycombinator.com/item?id=41645186) - [Hot-Reloading C++ with Live++ and JetBrains Rider](https://blog.jetbrains.com/dotnet/2024/09/24/hot-reloading-cplusplus-with-liveplusplus-and-jetbrains-rider/)
 * [2024-09-25, 08:37:48](https://news.ycombinator.com/item?id=41645173) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 * [2024-09-25, 08:19:36](https://news.ycombinator.com/item?id=41645044) - [I have 2000 old VHS tapes in my garage and I don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
 * [2024-09-25, 08:15:48](https://news.ycombinator.com/item?id=41645008) - [Cuis Smalltalk](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev)
