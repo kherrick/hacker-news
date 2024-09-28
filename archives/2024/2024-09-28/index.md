@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 17:29:23](https://news.ycombinator.com/item?id=41681666) - [Mozilla grants Ente- a private Google Photos alternative- $100k](https://ente.io/blog/mozilla-builders/)
 * [2024-09-28, 17:05:29](https://news.ycombinator.com/item?id=41681514) - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
 * [2024-09-28, 16:57:46](https://news.ycombinator.com/item?id=41681469) - [Show HN: Enable right click and copy on websites that disabled it](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
 * [2024-09-28, 16:33:38](https://news.ycombinator.com/item?id=41681284) - [REPL for Dart: supporting 3rd party packages, hot reload, and full grammar](https://github.com/fzyzcjy/dart_interactive)
