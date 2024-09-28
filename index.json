@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-27, 23:49:15",
-      "https://news.ycombinator.com/item?id=41676653"
-    ],
-    [
-      "If WordPress is to survive, Matt Mullenweg must be removed",
-      "https://joshcollinsworth.com/blog/fire-matt"
-    ]
-  ],
-  [
-    [
       "2024-09-27, 22:51:19",
       "https://news.ycombinator.com/item?id=41676297"
     ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2024-09-27, 08:20:24",
-      "https://news.ycombinator.com/item?id=41667652"
-    ],
-    [
-      "I Am Tired of AI",
-      "https://www.ontestautomation.com/i-am-tired-of-ai/"
-    ]
-  ],
-  [
-    [
       "2024-09-26, 21:24:36",
       "https://news.ycombinator.com/item?id=41663562"
     ],
@@ -251,11 +231,21 @@
   ],
   [
     [
+      "2024-09-26, 14:29:42",
+      "https://news.ycombinator.com/item?id=41658828"
+    ],
+    [
+      "Automatic Content Recognition Tracking in Smart TVs",
+      "https://arxiv.org/pdf/2409.06203"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 13:01:47",
       "https://news.ycombinator.com/item?id=41646990"
     ],
     [
-      "Unplanned Exposure During Diving in the Spent Nuclear Fuel Pool",
+      "Unplanned Exposure During Diving in the Spent Nuclear Fuel Pool (2011)",
       "https://isoe-network.net/publications/pub-proceedings/symposia/north-american-tc-symposia/fort-lauderdale-usa-january-2011/slides-14/session-iv-1/1756-ritter2011-ppt/file.html"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Preventing app removal on iOS",
       "https://tinycoder.pika.page/posts/you-can-prevent-your-app-from-being-removed"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 21:55:37",
+      "https://news.ycombinator.com/item?id=41631012"
+    ],
+    [
+      "What I tell people new to on-call",
+      "https://ntietz.com/blog/what-i-tell-people-new-to-oncall/"
     ]
   ]
 ]
