@@ -8,6 +8,7 @@
 * [2024-09-23, 23:24:03](https://news.ycombinator.com/item?id=41631628) - [Bill limits smartphone use in California schools](https://www.gov.ca.gov/2024/09/23/governor-newsom-signs-legislation-to-limit-the-use-of-smartphones-during-school-hours/)
 * [2024-09-23, 23:02:42](https://news.ycombinator.com/item?id=41631501) - [Two kinds of LLM responses: Informational vs. Instructional](https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html)
 * [2024-09-23, 22:49:57](https://news.ycombinator.com/item?id=41631412) - [Crypto scammers hack OpenAI's press account on X](https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/)
+* [2024-09-23, 22:18:07](https://news.ycombinator.com/item?id=41631177) - [Ocean waves grow way beyond known limits](https://phys.org/news/2024-09-ocean-limits.html)
 * [2024-09-23, 22:15:57](https://news.ycombinator.com/item?id=41631163) - [Agitating Homemade PCBs with Ease](https://blog.arduino.cc/2024/09/18/agitating-homemade-pcbs-with-ease/)
 * [2024-09-23, 22:15:17](https://news.ycombinator.com/item?id=41631157) - [Another new wasp species discovered by researchers](https://phys.org/news/2024-09-wasp-species.html)
 * [2024-09-23, 22:11:56](https://news.ycombinator.com/item?id=41631130) - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
