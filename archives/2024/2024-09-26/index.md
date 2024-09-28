@@ -49,6 +49,7 @@
 * [2024-09-26, 15:03:39](https://news.ycombinator.com/item?id=41659213) - [Raylib Project Creator](https://github.com/raysan5/raylib_project_creator)
 * [2024-09-26, 14:56:06](https://news.ycombinator.com/item?id=41659128) - [The Slow, Painful Death of Agile and Jira](https://ehandbook.com/the-slow-painful-death-of-agile-and-jira-c8de04e4269a)
 * [2024-09-26, 14:55:22](https://news.ycombinator.com/item?id=41659120) - [Jockey Can't Walk After Manufacturer Refuses to Fix Battery in $100k Exoskeleton](https://www.404media.co/paralyzed-jockey-loses-ability-to-walk-after-manufacturer-refuses-to-fix-battery-for-his-100-000-exoskeleton/)
+* [2024-09-26, 14:29:42](https://news.ycombinator.com/item?id=41658828) - [Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/pdf/2409.06203)
 * [2024-09-26, 14:24:36](https://news.ycombinator.com/item?id=41658766) - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 14:22:07](https://news.ycombinator.com/item?id=41658733) - [Hacking Kia: Remotely Controlling Cars with Just a License Plate](https://samcurry.net/hacking-kia)
 * [2024-09-26, 14:11:56](https://news.ycombinator.com/item?id=41658626) - [Sensorwatch pro – Hackable ARM Cortex M0 brain upgrade for Casio's iconic F-91W](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro)

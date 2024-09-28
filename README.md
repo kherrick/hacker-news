@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-27, 23:49:15](https://news.ycombinator.com/item?id=41676653) - [If WordPress is to survive, Matt Mullenweg must be removed](https://joshcollinsworth.com/blog/fire-matt)
 * [2024-09-27, 22:51:19](https://news.ycombinator.com/item?id=41676297) - [US Trademark Office Cancels Marvel, DC's 'Super Hero' Marks](https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/)
 * [2024-09-27, 21:23:45](https://news.ycombinator.com/item?id=41675672) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-09-27, 21:18:33](https://news.ycombinator.com/item?id=41675637) - [Lion Cove: Intel's P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
@@ -23,13 +22,14 @@
 * [2024-09-27, 12:53:15](https://news.ycombinator.com/item?id=41669840) - [Collaborative text editing with Eg-Walker: Better, faster, smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-27, 12:16:09](https://news.ycombinator.com/item?id=41669522) - [LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://arxiv.org/abs/2409.11424)
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
-* [2024-09-27, 08:20:24](https://news.ycombinator.com/item?id=41667652) - [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
 * [2024-09-26, 21:24:36](https://news.ycombinator.com/item?id=41663562) - [Behind OpenAI's plan to make A.I. flow like electricity](https://www.nytimes.com/2024/09/25/business/openai-plan-electricity.html)
-* [2024-09-25, 13:01:47](https://news.ycombinator.com/item?id=41646990) - [Unplanned Exposure During Diving in the Spent Nuclear Fuel Pool](https://isoe-network.net/publications/pub-proceedings/symposia/north-american-tc-symposia/fort-lauderdale-usa-january-2011/slides-14/session-iv-1/1756-ritter2011-ppt/file.html)
+* [2024-09-26, 14:29:42](https://news.ycombinator.com/item?id=41658828) - [Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/pdf/2409.06203)
+* [2024-09-25, 13:01:47](https://news.ycombinator.com/item?id=41646990) - [Unplanned Exposure During Diving in the Spent Nuclear Fuel Pool (2011)](https://isoe-network.net/publications/pub-proceedings/symposia/north-american-tc-symposia/fort-lauderdale-usa-january-2011/slides-14/session-iv-1/1756-ritter2011-ppt/file.html)
 * [2024-09-24, 15:02:45](https://news.ycombinator.com/item?id=41637286) - [Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 13:03:05](https://news.ycombinator.com/item?id=41636041) - [Notes on AWS Nitro Enclaves: Attack Surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
 * [2024-09-24, 10:23:26](https://news.ycombinator.com/item?id=41635039) - [Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/)
 * [2024-09-24, 05:01:32](https://news.ycombinator.com/item?id=41633221) - [Preventing app removal on iOS](https://tinycoder.pika.page/posts/you-can-prevent-your-app-from-being-removed)
+* [2024-09-23, 21:55:37](https://news.ycombinator.com/item?id=41631012) - [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
 
 ## [Archives](archives/index.md)
 

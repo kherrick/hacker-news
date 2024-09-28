@@ -12,6 +12,7 @@
 * [2024-09-23, 22:15:17](https://news.ycombinator.com/item?id=41631157) - [Another new wasp species discovered by researchers](https://phys.org/news/2024-09-wasp-species.html)
 * [2024-09-23, 22:11:56](https://news.ycombinator.com/item?id=41631130) - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
 * [2024-09-23, 21:56:35](https://news.ycombinator.com/item?id=41631017) - [Telegram Removes Z-Library Posts 'Due to Copyright Infringement'](https://torrentfreak.com/telegram-removes-z-library-posts-due-to-copyright-infringement-240923/)
+* [2024-09-23, 21:55:37](https://news.ycombinator.com/item?id=41631012) - [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
 * [2024-09-23, 21:48:56](https://news.ycombinator.com/item?id=41630962) - [Major Toronto Utility Company Stores Customers' Passwords in Plain Text](https://old.reddit.com/r/toronto/comments/1fnqw0c/psa_toronto_hydro_is_able_to_see_your_login/)
 * [2024-09-23, 21:42:26](https://news.ycombinator.com/item?id=41630913) - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 * [2024-09-23, 21:41:24](https://news.ycombinator.com/item?id=41630907) - [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
