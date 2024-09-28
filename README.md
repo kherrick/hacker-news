@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-28, 13:35:48](https://news.ycombinator.com/item?id=41680156) - [Role of Deliberate Practice in the Development of Creativity](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
+* [2024-09-28, 13:28:53](https://news.ycombinator.com/item?id=41680116) - [If your AI seems smarter, it's thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
+* [2024-09-28, 13:05:49](https://news.ycombinator.com/item?id=41679994) - [Remember That DNA You Gave 23andMe?](https://www.theatlantic.com/health/archive/2024/09/23andme-dna-data-privacy-sale/680057/)
 * [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
 * [2024-09-28, 11:10:56](https://news.ycombinator.com/item?id=41679471) - [MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
@@ -7,8 +10,6 @@
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
-* [2024-09-27, 22:51:19](https://news.ycombinator.com/item?id=41676297) - [US Trademark Office Cancels Marvel, DC's 'Super Hero' Marks](https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/)
-* [2024-09-27, 20:07:03](https://news.ycombinator.com/item?id=41675029) - [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
 * [2024-09-27, 19:35:32](https://news.ycombinator.com/item?id=41674677) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
 * [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
 * [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
@@ -27,7 +28,6 @@
 * [2024-09-24, 22:19:38](https://news.ycombinator.com/item?id=41641577) - [Windows Server 2008 IA64 Guest on HP Integrity VM (HP-UX)](https://virtuallyfun.com/2024/09/23/windows-server-2008-ia64-guest-on-hp-integrity-vm-hp-ux/)
 * [2024-09-24, 17:47:11](https://news.ycombinator.com/item?id=41639082) - [Show HN: GitHub Repo Visualizer Using D3](https://see-my-repo.netlify.app/)
 * [2024-09-24, 15:02:45](https://news.ycombinator.com/item?id=41637286) - [Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
-* [2024-09-24, 10:23:26](https://news.ycombinator.com/item?id=41635039) - [Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/)
 * [2024-09-24, 09:49:25](https://news.ycombinator.com/item?id=41634856) - [Linearizability Refinement Prophecy](https://surfingcomplexity.blog/2024/09/22/linearizability-refinement-prophecy/)
 * [2024-09-23, 22:18:07](https://news.ycombinator.com/item?id=41631177) - [Ocean waves grow way beyond known limits](https://phys.org/news/2024-09-ocean-limits.html)
 
