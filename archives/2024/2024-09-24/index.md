@@ -99,6 +99,7 @@
 * [2024-09-24, 04:43:30](https://news.ycombinator.com/item?id=41633155) - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
 * [2024-09-24, 03:16:10](https://news.ycombinator.com/item?id=41632823) - [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
 * [2024-09-24, 02:57:47](https://news.ycombinator.com/item?id=41632719) - [Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
+* [2024-09-24, 02:50:00](https://news.ycombinator.com/item?id=41632681) - [The human heart shows signs of ageing after just a month in space](https://www.nature.com/articles/d41586-024-03105-x)
 * [2024-09-24, 02:07:31](https://news.ycombinator.com/item?id=41632469) - [Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings](https://ieeexplore.ieee.org/document/9415699)
 * [2024-09-24, 02:05:46](https://news.ycombinator.com/item?id=41632460) - [How 12,000 Tonnes of Dumped Orange Peel Transformed an Ecological Desert](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2024-09-24, 00:47:46](https://news.ycombinator.com/item?id=41632048) - [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/)
