@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-28, 20:41:25](https://news.ycombinator.com/item?id=41682828) - [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
+* [2024-09-28, 20:35:36](https://news.ycombinator.com/item?id=41682790) - [America's Greyhound bus stations are disappearing](https://www.cnn.com/2024/09/28/business/greyhound-bus-chicago-transportation/index.html)
 * [2024-09-28, 20:03:38](https://news.ycombinator.com/item?id=41682629) - [Mark Zuckerberg: \"Ship the App\" (2011)](https://www.techemails.com/p/mark-zuckerberg-ship-photos-app)
 * [2024-09-28, 18:54:23](https://news.ycombinator.com/item?id=41682237) - [Show HN: Mitata – Benchmarking tooling for JavaScript](https://github.com/evanwashere/mitata)
 * [2024-09-28, 17:42:02](https://news.ycombinator.com/item?id=41681736) - [What was the point of [ \"x$var\" = \"xval\" ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035)
@@ -14,7 +15,6 @@
 * [2024-09-28, 13:00:27](https://news.ycombinator.com/item?id=41679972) - [SunVox: Powerful Modular Synthesizer and DAW](https://www.warmplace.ru/soft/sunvox/)
 * [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
-* [2024-09-28, 11:36:04](https://news.ycombinator.com/item?id=41679569) - [Show HN: Bringing multithreading to Python's async event loop](https://github.com/NeilBotelho/turboAsync)
 * [2024-09-28, 11:10:56](https://news.ycombinator.com/item?id=41679471) - [MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
 * [2024-09-28, 07:51:59](https://news.ycombinator.com/item?id=41678652) - [Show HN: The most comprehensive authentication library for TypeScript](https://github.com/better-auth/better-auth)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)

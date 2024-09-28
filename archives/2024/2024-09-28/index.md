@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
 * [2024-09-28, 20:41:25](https://news.ycombinator.com/item?id=41682828) - [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
+* [2024-09-28, 20:35:36](https://news.ycombinator.com/item?id=41682790) - [America's Greyhound bus stations are disappearing](https://www.cnn.com/2024/09/28/business/greyhound-bus-chicago-transportation/index.html)
 * [2024-09-28, 20:03:38](https://news.ycombinator.com/item?id=41682629) - [Mark Zuckerberg: \"Ship the App\" (2011)](https://www.techemails.com/p/mark-zuckerberg-ship-photos-app)
 * [2024-09-28, 18:54:23](https://news.ycombinator.com/item?id=41682237) - [Show HN: Modern Benchmarking Tooling for JavaScript](https://github.com/evanwashere/mitata)
 * [2024-09-28, 17:59:50](https://news.ycombinator.com/item?id=41681875) - [Our ping pong startup hit a $50M valuation in 5 years by tapping into automation](https://fortune.com/2024/09/27/startup-entrepreneurs-automation-ping-pong-sports-venues-tech-saas-smartphone-apps-pingpod-podplay/)
