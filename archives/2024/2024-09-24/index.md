@@ -37,6 +37,7 @@
 * [2024-09-24, 18:36:22](https://news.ycombinator.com/item?id=41639589) - [\"Creounity Time Machine\", the universal date converter for coin collectors](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
 * [2024-09-24, 17:37:50](https://news.ycombinator.com/item?id=41638987) - [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 * [2024-09-24, 17:27:49](https://news.ycombinator.com/item?id=41638885) - [45 years ago CompuServe connected the world before the World Wide Web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
+* [2024-09-24, 17:17:26](https://news.ycombinator.com/item?id=41638775) - [Grocery Territories of America](https://www.washingtonpost.com/business/interactive/2024/grocery-store-owners-map-kroger-albertsons-merger/)
 * [2024-09-24, 17:14:30](https://news.ycombinator.com/item?id=41638738) - [Euripedes Unbound](https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound)
 * [2024-09-24, 17:02:24](https://news.ycombinator.com/item?id=41638581) - [GSoC'24: Differentiable Logic for Interactive Systems and Generative Music](https://ijc8.me/2024/08/26/gsoc-difflogic/)
 * [2024-09-24, 16:24:14](https://news.ycombinator.com/item?id=41638208) - [Louisiana doctors win big lawsuit against Blue Cross Blue Shield](https://www.wwltv.com/article/news/local/louisiana-doctors-win-big-lawsuit-against-blue-cross-blue-shield/289-d139c676-58ee-4f2c-993c-ba4c59517c7a)
