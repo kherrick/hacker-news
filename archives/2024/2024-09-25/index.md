@@ -12,6 +12,7 @@
 * [2024-09-25, 19:18:12](https://news.ycombinator.com/item?id=41650905) - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
 * [2024-09-25, 18:49:03](https://news.ycombinator.com/item?id=41650647) - [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 18:40:26](https://news.ycombinator.com/item?id=41650534) - [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
+* [2024-09-25, 18:14:33](https://news.ycombinator.com/item?id=41650258) - [Walking on the Moon in Cologne: Europe's lunar life simulator](https://today.rtl.lu/news/science-and-environment/a/2234777.html)
 * [2024-09-25, 17:56:53](https://news.ycombinator.com/item?id=41650047) - [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 * [2024-09-25, 17:50:42](https://news.ycombinator.com/item?id=41649983) - [Meta Quest 3S](https://www.meta.com/tw/en/quest/quest-3s/)
 * [2024-09-25, 17:48:55](https://news.ycombinator.com/item?id=41649963) - [Bronze Age cheese reveals human-Lactobacillus interactions over history](https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008997%3Fshowall%3Dtrue)
