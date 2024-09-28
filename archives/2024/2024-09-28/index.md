@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 17:05:29](https://news.ycombinator.com/item?id=41681514) - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
+* [2024-09-28, 16:57:46](https://news.ycombinator.com/item?id=41681469) - [Show HN: Enable right click and copy on websites that disabled it](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
+* [2024-09-28, 16:33:38](https://news.ycombinator.com/item?id=41681284) - [REPL for Dart: supporting 3rd party packages, hot reload, and full grammar](https://github.com/fzyzcjy/dart_interactive)
+* [2024-09-28, 16:31:04](https://news.ycombinator.com/item?id=41681266) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 14:54:43](https://news.ycombinator.com/item?id=41680621) - [The Little Typer (2018)](https://thelittletyper.com/)
 * [2024-09-28, 14:49:01](https://news.ycombinator.com/item?id=41680579) - [Goodbye API. Hello RSQL](https://rsql.io/index.html)
 * [2024-09-28, 14:11:51](https://news.ycombinator.com/item?id=41680327) - [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
