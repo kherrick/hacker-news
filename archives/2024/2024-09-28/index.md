@@ -6,6 +6,7 @@
 
 * [2024-09-28, 14:11:51](https://news.ycombinator.com/item?id=41680327) - [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
 * [2024-09-28, 14:09:20](https://news.ycombinator.com/item?id=41680313) - [Entire HR Team Fired After Manager's Own Resume Gets Auto-Rejected](https://www.ibtimes.co.uk/lazy-mediocre-hr-team-fired-after-managers-own-cv-gets-auto-rejected-seconds-exposing-system-1727202)
+* [2024-09-28, 14:06:59](https://news.ycombinator.com/item?id=41680299) - [Ask HN: Why does current interest in retro computing focus on the early 80s?](https://news.ycombinator.com/item?id=41680299)
 * [2024-09-28, 13:50:37](https://news.ycombinator.com/item?id=41680221) - [Kamala Harris' Chances Surge in Major Election Forecast](https://www.newsweek.com/kamala-harris-polling-surge-forecast-1960686)
 * [2024-09-28, 13:35:48](https://news.ycombinator.com/item?id=41680156) - [Role of Deliberate Practice in the Development of Creativity](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
 * [2024-09-28, 13:28:53](https://news.ycombinator.com/item?id=41680116) - [If your AI seems smarter, it's thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
