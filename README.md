@@ -1,6 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-28, 22:11:05](https://news.ycombinator.com/item?id=41683306) - [SpaceX launches rescue mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
+* [2024-09-28, 22:07:43](https://news.ycombinator.com/item?id=41683293) - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 * [2024-09-28, 22:04:39](https://news.ycombinator.com/item?id=41683282) - [Researchers seeing little evidence of benefit from co pilots](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html)
+* [2024-09-28, 21:49:59](https://news.ycombinator.com/item?id=41683217) - [Four more health care workers ill after caring for bird flu case in Missouri](https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/)
+* [2024-09-28, 21:23:34](https://news.ycombinator.com/item?id=41683098) - [Britain buys semiconductor factory for defence purposes](https://ukdefencejournal.org.uk/britain-buys-semiconductor-factory-for-defence-purposes/)
+* [2024-09-28, 21:08:01](https://news.ycombinator.com/item?id=41683014) - [Surprising sounds could cause riskier decision-making](https://news.yale.edu/2024/09/17/surprising-sounds-could-cause-riskier-decision-making)
 * [2024-09-28, 20:41:25](https://news.ycombinator.com/item?id=41682828) - [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
 * [2024-09-28, 20:35:36](https://news.ycombinator.com/item?id=41682790) - [America's Greyhound bus stations are disappearing](https://www.cnn.com/2024/09/28/business/greyhound-bus-chicago-transportation/index.html)
 * [2024-09-28, 18:54:23](https://news.ycombinator.com/item?id=41682237) - [Show HN: Mitata – Benchmarking tooling for JavaScript](https://github.com/evanwashere/mitata)
@@ -20,16 +25,11 @@
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
-* [2024-09-26, 14:29:42](https://news.ycombinator.com/item?id=41658828) - [Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/pdf/2409.06203)
 * [2024-09-25, 19:53:00](https://news.ycombinator.com/item?id=41651191) - [Cat memes went viral 100 years ago](https://www.bbc.com/future/article/20240923-100-year-old-cat-memes-that-predate-the-internet)
 * [2024-09-25, 18:14:33](https://news.ycombinator.com/item?id=41650258) - [Walking on the Moon in Cologne: Europe's lunar life simulator](https://today.rtl.lu/news/science-and-environment/a/2234777.html)
-* [2024-09-25, 07:28:44](https://news.ycombinator.com/item?id=41644641) - [Build your own AutoFix with Patchwork](https://www.patched.codes/blog/build-your-own-autofix-with-patchwork)
-* [2024-09-25, 05:52:03](https://news.ycombinator.com/item?id=41644086) - [Reading texts on paper versus computer screen: Effects on reading comprehension [pdf]](http://clikmedia.ca/LMM/sites/default/files/pdf/mangen_2012_lecture_sur_ecran_lecture_papier_comprehension.pdf)
 * [2024-09-24, 21:49:58](https://news.ycombinator.com/item?id=41641314) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
-* [2024-09-24, 17:47:11](https://news.ycombinator.com/item?id=41639082) - [Show HN: GitHub Repo Visualizer Using D3](https://see-my-repo.netlify.app/)
 * [2024-09-24, 07:44:19](https://news.ycombinator.com/item?id=41634141) - [New laser could cram GPS alternative into a shoebox](https://spectrum.ieee.org/alternative-for-gps)
 * [2024-09-24, 02:50:00](https://news.ycombinator.com/item?id=41632681) - [The human heart shows signs of ageing after just a month in space](https://www.nature.com/articles/d41586-024-03105-x)
-* [2024-09-23, 22:18:07](https://news.ycombinator.com/item?id=41631177) - [Ocean waves grow way beyond known limits](https://phys.org/news/2024-09-ocean-limits.html)
 
 ## [Archives](archives/index.md)
 
