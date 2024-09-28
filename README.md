@@ -17,7 +17,6 @@
 * [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
 * [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [How AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
-* [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable complex radiance fields with real-time rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 14:13:54](https://news.ycombinator.com/item?id=41670743) - [My MEGA65 is finally here](https://lyonsden.net/my-mega65-is-finally-here/)
 * [2024-09-27, 12:54:55](https://news.ycombinator.com/item?id=41669850) - [Raft: Understandable Distributed Consensus (2014)](https://thesecretlivesofdata.com/raft/)
 * [2024-09-27, 12:53:15](https://news.ycombinator.com/item?id=41669840) - [Collaborative text editing with Eg-Walker: Better, faster, smaller](https://arxiv.org/abs/2409.14252)
@@ -29,6 +28,7 @@
 * [2024-09-24, 17:47:11](https://news.ycombinator.com/item?id=41639082) - [Show HN: GitHub Repo Visualizer Using D3](https://see-my-repo.netlify.app/)
 * [2024-09-24, 15:02:45](https://news.ycombinator.com/item?id=41637286) - [Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 09:49:25](https://news.ycombinator.com/item?id=41634856) - [Linearizability Refinement Prophecy](https://surfingcomplexity.blog/2024/09/22/linearizability-refinement-prophecy/)
+* [2024-09-24, 07:44:19](https://news.ycombinator.com/item?id=41634141) - [New Laser Could Cram GPS Alternative into a Shoebox](https://spectrum.ieee.org/alternative-for-gps)
 * [2024-09-23, 22:18:07](https://news.ycombinator.com/item?id=41631177) - [Ocean waves grow way beyond known limits](https://phys.org/news/2024-09-ocean-limits.html)
 
 ## [Archives](archives/index.md)

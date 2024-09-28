@@ -77,6 +77,7 @@
 * [2024-09-24, 09:49:25](https://news.ycombinator.com/item?id=41634856) - [Linearizability Refinement Prophecy](https://surfingcomplexity.blog/2024/09/22/linearizability-refinement-prophecy/)
 * [2024-09-24, 08:20:38](https://news.ycombinator.com/item?id=41634356) - [Show HN: JSON For You – Visualize JSON in graph or table views](https://github.com/loggerhead/json4u)
 * [2024-09-24, 08:05:52](https://news.ycombinator.com/item?id=41634268) - [Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
+* [2024-09-24, 07:44:19](https://news.ycombinator.com/item?id=41634141) - [New Laser Could Cram GPS Alternative into a Shoebox](https://spectrum.ieee.org/alternative-for-gps)
 * [2024-09-24, 07:43:27](https://news.ycombinator.com/item?id=41634133) - [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
 * [2024-09-24, 07:42:08](https://news.ycombinator.com/item?id=41634119) - [Excel spreadsheet caused network equipment's physical failure](https://twitter.com/lauriewired/status/1838256923428438345)
 * [2024-09-24, 07:30:30](https://news.ycombinator.com/item?id=41634025) - [US public schools banned 10k books in most recent academic year](https://www.theguardian.com/us-news/2024/sep/23/pen-book-bans)
