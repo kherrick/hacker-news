@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 20:03:38](https://news.ycombinator.com/item?id=41682629) - [Mark Zuckerberg: \"Ship the App\" (2011)](https://www.techemails.com/p/mark-zuckerberg-ship-photos-app)
 * [2024-09-28, 18:54:23](https://news.ycombinator.com/item?id=41682237) - [Show HN: Modern Benchmarking Tooling for JavaScript](https://github.com/evanwashere/mitata)
 * [2024-09-28, 17:59:50](https://news.ycombinator.com/item?id=41681875) - [Our ping pong startup hit a $50M valuation in 5 years by tapping into automation](https://fortune.com/2024/09/27/startup-entrepreneurs-automation-ping-pong-sports-venues-tech-saas-smartphone-apps-pingpod-podplay/)
 * [2024-09-28, 17:42:02](https://news.ycombinator.com/item?id=41681736) - [What was the point of [ \"x$var\" = \"xval\" ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035)
@@ -28,6 +29,7 @@
 * [2024-09-28, 13:00:27](https://news.ycombinator.com/item?id=41679972) - [SunVox: Powerful Modular Synthesizer and DAW](https://www.warmplace.ru/soft/sunvox/)
 * [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
+* [2024-09-28, 11:36:04](https://news.ycombinator.com/item?id=41679569) - [Show HN: Bringing multithreading to Python's async event loop](https://github.com/NeilBotelho/turboAsync)
 * [2024-09-28, 11:10:56](https://news.ycombinator.com/item?id=41679471) - [MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
 * [2024-09-28, 09:56:46](https://news.ycombinator.com/item?id=41679185) - [Hyundai Faces New Theft Threat from \"Game Boy\" Hack](https://headlight.news/2024/07/08/hyundai-faces-new-theft-threat-from-game-boy-hack/)
 * [2024-09-28, 09:14:02](https://news.ycombinator.com/item?id=41679019) - [Exponential growth brews 1M AI models on Hugging Face](https://arstechnica.com/information-technology/2024/09/ai-hosting-platform-surpasses-1-million-models-for-the-first-time/)
