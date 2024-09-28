@@ -73,6 +73,7 @@
 * [2024-09-25, 08:19:36](https://news.ycombinator.com/item?id=41645044) - [I have 2000 old VHS tapes in my garage and I don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
 * [2024-09-25, 08:15:48](https://news.ycombinator.com/item?id=41645008) - [Cuis Smalltalk](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev)
 * [2024-09-25, 07:38:53](https://news.ycombinator.com/item?id=41644731) - [Dethrace: Reverse engineering the 1997 game \"Carmageddon\" (2023)](https://github.com/dethrace-labs/dethrace)
+* [2024-09-25, 07:28:44](https://news.ycombinator.com/item?id=41644641) - [Build your own AutoFix with Patchwork](https://www.patched.codes/blog/build-your-own-autofix-with-patchwork)
 * [2024-09-25, 07:26:13](https://news.ycombinator.com/item?id=41644620) - [Explore Music Non-Linearly](https://midinous.com/)
 * [2024-09-25, 06:33:53](https://news.ycombinator.com/item?id=41644315) - [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
 * [2024-09-25, 06:25:25](https://news.ycombinator.com/item?id=41644267) - [Holy Hell, the Social Web Did Not Begin in 2008](https://bix.blog/posts/holy-hell-the-social-web-did-not-begin-in-2008)
