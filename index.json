@@ -191,32 +191,22 @@
   ],
   [
     [
+      "2024-09-27, 19:04:38",
+      "https://news.ycombinator.com/item?id=41674379"
+    ],
+    [
+      "The Architecture of London Pubs (1966)",
+      "https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/"
+    ]
+  ],
+  [
+    [
       "2024-09-27, 16:33:37",
       "https://news.ycombinator.com/item?id=41672599"
     ],
     [
       "Fraud, so much fraud",
       "https://www.science.org/content/blog-post/fraud-so-much-fraud"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 15:56:01",
-      "https://news.ycombinator.com/item?id=41672110"
-    ],
-    [
-      "How AlphaChip transformed computer chip design",
-      "https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 09:59:15",
-      "https://news.ycombinator.com/item?id=41668304"
-    ],
-    [
-      "It's hard to write code for computers, but it's harder to write code for humans",
-      "https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: GitHub Repo Visualizer Using D3",
       "https://see-my-repo.netlify.app/"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 15:02:45",
+      "https://news.ycombinator.com/item?id=41637286"
+    ],
+    [
+      "Refactoring Python with Tree-sitter and Jedi",
+      "https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/"
     ]
   ],
   [
