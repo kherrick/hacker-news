@@ -25,6 +25,7 @@
 * [2024-09-24, 20:40:37](https://news.ycombinator.com/item?id=41640690) - [Mental-1, a Brainfuck CPU](https://hackaday.io/project/4237-mental-1-a-brainfuck-cpu)
 * [2024-09-24, 20:38:53](https://news.ycombinator.com/item?id=41640673) - [Tor-Lighttpd-Onion with Docker](https://github.com/nicdercole/Tor-Lighttpd-Onion)
 * [2024-09-24, 20:16:59](https://news.ycombinator.com/item?id=41640458) - [Star FTX Witness Caroline Ellison Sentenced to Two Years in Prison](https://www.wsj.com/finance/currencies/ftx-trial-caroline-ellison-sentencing-cc104a84)
+* [2024-09-24, 20:10:54](https://news.ycombinator.com/item?id=41640397) - [Mysterious Nazca Glyphs Have Just Been Revealed](https://www.sciencealert.com/hundreds-of-mysterious-nazca-glyphs-have-just-been-revealed)
 * [2024-09-24, 20:10:08](https://news.ycombinator.com/item?id=41640388) - [Rotation-Based Compression](https://www.winstoncooke.com/blog/rotation-based-compression)
 * [2024-09-24, 19:53:12](https://news.ycombinator.com/item?id=41640228) - [Show HN: Phobos – an engine extension for Red Alert 2: Yuri's Revenge](https://github.com/Phobos-developers/Phobos)
 * [2024-09-24, 19:26:03](https://news.ycombinator.com/item?id=41640005) - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
