@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-28, 03:48:21](https://news.ycombinator.com/item?id=41677711) - [Third Party Testing Paints Dark Picture of Tesla FSD](https://www.motortrend.com/news/tesla-fsd-software-amci-testing-video/)
-* [2024-09-28, 03:37:26](https://news.ycombinator.com/item?id=41677669) - [A small area of solar panels plus storage cannot power the world](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
 * [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-27, 22:51:19](https://news.ycombinator.com/item?id=41676297) - [US Trademark Office Cancels Marvel, DC's 'Super Hero' Marks](https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/)
 * [2024-09-27, 21:23:45](https://news.ycombinator.com/item?id=41675672) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
@@ -15,6 +14,7 @@
 * [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [How AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
 * [2024-09-27, 15:24:13](https://news.ycombinator.com/item?id=41671606) - [Show HN: Quadratic – native JavaScript support in a spreadsheet](https://www.quadratichq.com/javascript)
+* [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable complex radiance fields with real-time rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 14:13:54](https://news.ycombinator.com/item?id=41670743) - [My MEGA65 is finally here](https://lyonsden.net/my-mega65-is-finally-here/)
 * [2024-09-27, 13:27:05](https://news.ycombinator.com/item?id=41670186) - [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
 * [2024-09-27, 13:22:35](https://news.ycombinator.com/item?id=41670140) - [Greenwich: an experiment in collaborative links](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
