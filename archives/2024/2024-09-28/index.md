@@ -6,6 +6,7 @@
 
 * [2024-09-28, 18:54:23](https://news.ycombinator.com/item?id=41682237) - [Show HN: Modern Benchmarking Tooling for JavaScript](https://github.com/evanwashere/mitata)
 * [2024-09-28, 17:59:50](https://news.ycombinator.com/item?id=41681875) - [Our ping pong startup hit a $50M valuation in 5 years by tapping into automation](https://fortune.com/2024/09/27/startup-entrepreneurs-automation-ping-pong-sports-venues-tech-saas-smartphone-apps-pingpod-podplay/)
+* [2024-09-28, 17:42:02](https://news.ycombinator.com/item?id=41681736) - [What was the point of [ \"x$var\" = \"xval\" ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035)
 * [2024-09-28, 17:29:23](https://news.ycombinator.com/item?id=41681666) - [Mozilla grants Ente- a private Google Photos alternative- $100k](https://ente.io/blog/mozilla-builders/)
 * [2024-09-28, 17:05:29](https://news.ycombinator.com/item?id=41681514) - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
 * [2024-09-28, 16:57:46](https://news.ycombinator.com/item?id=41681469) - [Show HN: Enable right click and copy on websites that disabled it](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
