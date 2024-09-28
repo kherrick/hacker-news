@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-09-28, 14:06:59",
-      "https://news.ycombinator.com/item?id=41680299"
+      "2024-09-28, 14:54:43",
+      "https://news.ycombinator.com/item?id=41680621"
     ],
     [
-      "Ask HN: Why does current interest in retro computing focus on the early 80s?",
-      "https://news.ycombinator.com/item?id=41680299"
+      "The Little Typer (2018)",
+      "https://thelittletyper.com/"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 14:49:01",
+      "https://news.ycombinator.com/item?id=41680579"
+    ],
+    [
+      "Goodbye API. Hello RSQL",
+      "https://rsql.io/index.html"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41680207"
     ],
     [
-      "Incremental Garbage Collection in Ruby 2.2",
+      "Incremental Garbage Collection in Ruby 2.2 (2015)",
       "https://blog.heroku.com/incremental-gc"
     ]
   ],
@@ -87,6 +97,16 @@
     [
       "MtCellEdit – Lightweight Spreadsheet Program",
       "https://www.marktyler.org/ced/"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 07:51:59",
+      "https://news.ycombinator.com/item?id=41678652"
+    ],
+    [
+      "Show HN: The most comprehensive authentication library for TypeScript",
+      "https://github.com/better-auth/better-auth"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2024-09-27, 12:54:55",
-      "https://news.ycombinator.com/item?id=41669850"
-    ],
-    [
-      "Raft: Understandable Distributed Consensus (2014)",
-      "https://thesecretlivesofdata.com/raft/"
-    ]
-  ],
-  [
-    [
       "2024-09-27, 12:53:15",
       "https://news.ycombinator.com/item?id=41669840"
     ],
     [
       "Collaborative text editing with Eg-Walker: Better, faster, smaller",
       "https://arxiv.org/abs/2409.14252"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 12:16:09",
-      "https://news.ycombinator.com/item?id=41669522"
-    ],
-    [
-      "LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs",
-      "https://arxiv.org/abs/2409.11424"
     ]
   ],
   [
