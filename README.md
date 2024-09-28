@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-28, 14:54:43](https://news.ycombinator.com/item?id=41680621) - [The Little Typer (2018)](https://thelittletyper.com/)
-* [2024-09-28, 14:49:01](https://news.ycombinator.com/item?id=41680579) - [Goodbye API. Hello RSQL](https://rsql.io/index.html)
 * [2024-09-28, 13:46:22](https://news.ycombinator.com/item?id=41680207) - [Incremental Garbage Collection in Ruby 2.2 (2015)](https://blog.heroku.com/incremental-gc)
 * [2024-09-28, 13:35:48](https://news.ycombinator.com/item?id=41680156) - [Role of Deliberate Practice in the Development of Creativity (2014)](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
 * [2024-09-28, 13:28:53](https://news.ycombinator.com/item?id=41680116) - [If your AI seems smarter, it's thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
@@ -20,6 +19,7 @@
 * [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [How AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
 * [2024-09-27, 14:13:54](https://news.ycombinator.com/item?id=41670743) - [My MEGA65 is finally here](https://lyonsden.net/my-mega65-is-finally-here/)
+* [2024-09-27, 12:54:55](https://news.ycombinator.com/item?id=41669850) - [Raft: Understandable Distributed Consensus (2014)](https://thesecretlivesofdata.com/raft/)
 * [2024-09-27, 12:53:15](https://news.ycombinator.com/item?id=41669840) - [Collaborative text editing with Eg-Walker: Better, faster, smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 * [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing sports gambling was a mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
