@@ -73,6 +73,7 @@
 * [2024-09-25, 06:25:25](https://news.ycombinator.com/item?id=41644267) - [Holy Hell, the Social Web Did Not Begin in 2008](https://bix.blog/posts/holy-hell-the-social-web-did-not-begin-in-2008)
 * [2024-09-25, 05:46:28](https://news.ycombinator.com/item?id=41644062) - [Gnome 47 Wallpapers](https://blog.jimmac.eu/2024/wallpapers/)
 * [2024-09-25, 05:34:55](https://news.ycombinator.com/item?id=41643991) - [Firefox tracks you with \"privacy preserving\" feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
+* [2024-09-25, 05:25:18](https://news.ycombinator.com/item?id=41643946) - [When is causal broadcast not enough for causal memory?](https://decomposition.al/blog/2024/09/22/when-is-causal-broadcast-not-enough-for-causal-memory/)
 * [2024-09-25, 04:52:56](https://news.ycombinator.com/item?id=41643810) - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 * [2024-09-25, 04:30:36](https://news.ycombinator.com/item?id=41643700) - [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
 * [2024-09-25, 04:29:07](https://news.ycombinator.com/item?id=41643690) - [Doom on a Modified Rotary Phone](https://tamulaitis.lt/project/dialrhea/)
