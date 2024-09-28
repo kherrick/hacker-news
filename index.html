@@ -142,11 +142,11 @@
             <h4>
               <span>2024-09-28 @ 22:11:05</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41683306"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -156,18 +156,18 @@
             <a
               class="item"
               href="https://discord.com/blog/how-discord-stores-trillions-of-messages"
-              >How Discord Stores Trillions of Messages</a
+              >How Discord stores trillions of messages</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-09-28 @ 22:07:43</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41683293"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -184,7 +184,7 @@
             <h4>
               <span>2024-09-28 @ 22:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41683282"
                   >Comments</a
@@ -206,7 +206,7 @@
             <h4>
               <span>2024-09-28 @ 21:49:59</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41683217"
                   >Comments</a
@@ -227,11 +227,11 @@
             <h4>
               <span>2024-09-28 @ 21:23:34</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41683098"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -270,11 +270,11 @@
             <h4>
               <span>2024-09-28 @ 20:41:25</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41682828"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -289,7 +289,7 @@
             <h4>
               <span>2024-09-28 @ 18:54:23</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41682237"
                   >Comments</a
@@ -322,7 +322,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41681736"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -340,20 +340,101 @@
             <h4>
               <span>2024-09-28 @ 17:05:29</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41681514"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41681344">
+          <h3>
+            <a class="item" href="https://ekxide.io/blog/iceoryx2-0-4-release/"
+              >Show HN: Iceoryx2 – Fast IPC Library for Rust, C++, and C</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-28 @ 16:40:46</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41681344"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Today we released iceoryx2 v0.4!</p>
+              <p>
+                iceoryx2 is a service-based inter-process communication (IPC)
+                library designed to make communication between processes as fast
+                as possible - like Unix domain sockets or message queues, but
+                orders of magnitude faster and easier to use. It also comes with
+                advanced features such as circular buffers, history, event
+                notifications, publish-subscribe messaging, and a decentralized
+                architecture with no need for a broker.
+              </p>
+              <p>
+                For example, if you're working in robotics and need to process
+                frames from a camera across multiple processes, iceoryx2 makes
+                it simple to set that up. Need to retain only the latest three
+                camera images? No problem - circular buffers prevent your memory
+                from overflowing, even if a process is lagging. The history
+                feature ensures you get the last three images immediately after
+                connecting to the camera service, as long as they’re still
+                available.
+              </p>
+              <p>
+                Another great use case is for GUI applications, such as window
+                managers or editors. If you want to support plugins in multiple
+                languages, iceoryx2 allows you to connect processes - perhaps to
+                remotely control your editor or window manager. Best of all,
+                thanks to zero-copy communication, you can transfer gigabytes of
+                data with incredibly low latency.
+              </p>
+              <p>
+                Speaking of latency, on some systems, we've achieved latency
+                below 100ns when sending data between processes - and we haven't
+                even begun serious performance optimizations yet. So, there’s
+                still room for improvement! If you’re in high-frequency trading
+                or any other use case where ultra-low latency matters, iceoryx2
+                might be just what you need.
+              </p>
+              <p>
+                If you’re curious to learn more about the new features and
+                what’s coming next, check out the full iceoryx2 v0.4 release
+                announcement.
+              </p>
+              <p>Elfenpiff</p>
+              <p>Links:</p>
+              <p>
+                * GitHub:
+                <a href="https://github.com/eclipse-iceoryx/iceoryx2"
+                  >https://github.com/eclipse-iceoryx/iceoryx2</a
+                >
+                * iceoryx2 v0.4 release announcement:
+                <a href="https://ekxide.io/blog/iceoryx2-0-4-release/"
+                  >https://ekxide.io/blog/iceoryx2-0-4-release/</a
+                >
+                * crates.io:
+                <a href="https://crates.io/crates/iceoryx2"
+                  >https://crates.io/crates/iceoryx2</a
+                >
+                * docs.rs:
+                <a href="https://docs.rs/iceoryx2/0.4.0/iceoryx2/"
+                  >https://docs.rs/iceoryx2/0.4.0/iceoryx2/</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="41681284">
           <h3>
             <a class="item" href="https://github.com/fzyzcjy/dart_interactive"
-              >REPL for Dart: supporting 3rd party packages, hot reload, and
-              full grammar</a
+              >REPL for Dart</a
             >
           </h3>
           <section>
@@ -364,7 +445,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41681284"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -385,7 +466,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41681266"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -400,11 +481,11 @@
             <h4>
               <span>2024-09-28 @ 16:09:08</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41681110"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -419,7 +500,7 @@
             <h4>
               <span>2024-09-28 @ 14:54:43</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41680621"
                   >Comments</a
@@ -441,7 +522,7 @@
             <h4>
               <span>2024-09-28 @ 13:35:48</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41680156"
                   >Comments</a
@@ -462,11 +543,11 @@
             <h4>
               <span>2024-09-28 @ 13:28:53</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41680116"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -481,7 +562,7 @@
             <h4>
               <span>2024-09-28 @ 13:00:27</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41679972"
                   >Comments</a
@@ -546,27 +627,6 @@
             </h4>
           </section>
         </section>
-        <section id="41678600">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.jgc.org/2024/09/i-made-rubbish-clock.html"
-              >I Made a Rubbish Clock</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-28 @ 07:36:27</span
-              ><span class="points-container"
-                >Points: <span class="points">110</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41678600"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41678412">
           <h3>
             <a class="item" href="https://github.com/2Retr0/GodotOceanWaves"
@@ -577,11 +637,11 @@
             <h4>
               <span>2024-09-28 @ 06:51:41</span
               ><span class="points-container"
-                >Points: <span class="points">624</span></span
+                >Points: <span class="points">627</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41678412"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -590,7 +650,7 @@
           <h3>
             <a
               class="item"
-              href="https://otpok.com/2014/01/03/amusing-ourselves-to-death/"
+              href="https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html"
               >Amusing Ourselves to Death (2014)</a
             >
           </h3>
@@ -620,11 +680,11 @@
             <h4>
               <span>2024-09-28 @ 01:23:01</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">338</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41677131"
                   >Comments</a
-                ><span class="descendants">: 174</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -641,7 +701,7 @@
             <h4>
               <span>2024-09-25 @ 19:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41651191"
                   >Comments</a
@@ -667,6 +727,27 @@
                 ><a href="https://news.ycombinator.com/item?id=41650258"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41648048">
+          <h3>
+            <a
+              class="item"
+              href="https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/"
+              >Science-based games and explorable explanations</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-25 @ 14:39:11</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41648048"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -724,32 +805,11 @@
             <h4>
               <span>2024-09-24 @ 02:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41632681"
                   >Comments</a
                 ><span class="descendants">: 63</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41631177">
-          <h3>
-            <a
-              class="item"
-              href="https://phys.org/news/2024-09-ocean-limits.html"
-              >Ocean waves grow way beyond known limits</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-23 @ 22:18:07</span
-              ><span class="points-container"
-                >Points: <span class="points">136</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41631177"
-                  >Comments</a
-                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
