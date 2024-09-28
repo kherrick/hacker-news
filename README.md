@@ -2,7 +2,6 @@
 
 * [2024-09-28, 20:41:25](https://news.ycombinator.com/item?id=41682828) - [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
 * [2024-09-28, 20:35:36](https://news.ycombinator.com/item?id=41682790) - [America's Greyhound bus stations are disappearing](https://www.cnn.com/2024/09/28/business/greyhound-bus-chicago-transportation/index.html)
-* [2024-09-28, 20:03:38](https://news.ycombinator.com/item?id=41682629) - [Mark Zuckerberg: \"Ship the App\" (2011)](https://www.techemails.com/p/mark-zuckerberg-ship-photos-app)
 * [2024-09-28, 18:54:23](https://news.ycombinator.com/item?id=41682237) - [Show HN: Mitata – Benchmarking tooling for JavaScript](https://github.com/evanwashere/mitata)
 * [2024-09-28, 17:42:02](https://news.ycombinator.com/item?id=41681736) - [What was the point of [ \"x$var\" = \"xval\" ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035)
 * [2024-09-28, 17:05:29](https://news.ycombinator.com/item?id=41681514) - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
@@ -21,6 +20,7 @@
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
+* [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 * [2024-09-26, 14:29:42](https://news.ycombinator.com/item?id=41658828) - [Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/pdf/2409.06203)
 * [2024-09-25, 18:14:33](https://news.ycombinator.com/item?id=41650258) - [Walking on the Moon in Cologne: Europe's lunar life simulator](https://today.rtl.lu/news/science-and-environment/a/2234777.html)
 * [2024-09-25, 07:28:44](https://news.ycombinator.com/item?id=41644641) - [Build your own AutoFix with Patchwork](https://www.patched.codes/blog/build-your-own-autofix-with-patchwork)
