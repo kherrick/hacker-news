@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 14:54:43](https://news.ycombinator.com/item?id=41680621) - [The Little Typer (2018)](https://thelittletyper.com/)
+* [2024-09-28, 14:49:01](https://news.ycombinator.com/item?id=41680579) - [Goodbye API. Hello RSQL](https://rsql.io/index.html)
 * [2024-09-28, 14:11:51](https://news.ycombinator.com/item?id=41680327) - [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
 * [2024-09-28, 14:09:20](https://news.ycombinator.com/item?id=41680313) - [Entire HR Team Fired After Manager's Own Resume Gets Auto-Rejected](https://www.ibtimes.co.uk/lazy-mediocre-hr-team-fired-after-managers-own-cv-gets-auto-rejected-seconds-exposing-system-1727202)
 * [2024-09-28, 14:06:59](https://news.ycombinator.com/item?id=41680299) - [Ask HN: Why does current interest in retro computing focus on the early 80s?](https://news.ycombinator.com/item?id=41680299)
@@ -21,6 +23,7 @@
 * [2024-09-28, 09:14:02](https://news.ycombinator.com/item?id=41679019) - [Exponential growth brews 1M AI models on Hugging Face](https://arstechnica.com/information-technology/2024/09/ai-hosting-platform-surpasses-1-million-models-for-the-first-time/)
 * [2024-09-28, 08:38:04](https://news.ycombinator.com/item?id=41678840) - [Meta fined $102M for storing passwords in plain text](https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html)
 * [2024-09-28, 07:52:35](https://news.ycombinator.com/item?id=41678654) - [Apple not investing in OpenAI after all, new report says](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/)
+* [2024-09-28, 07:51:59](https://news.ycombinator.com/item?id=41678652) - [Show HN: The most comprehensive authentication library for TypeScript](https://github.com/better-auth/better-auth)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 * [2024-09-28, 07:01:01](https://news.ycombinator.com/item?id=41678456) - [Photoroom (YC S20) Is Hiring an API Engineer in Paris (Node.js)](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
