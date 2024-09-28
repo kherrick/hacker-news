@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 * [2024-09-28, 07:01:01](https://news.ycombinator.com/item?id=41678456) - [Photoroom (YC S20) Is Hiring an API Engineer in Paris (Node.js)](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 04:18:27](https://news.ycombinator.com/item?id=41677823) - [It is never too later to write your own C/C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)

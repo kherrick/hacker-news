@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 * [2024-09-28, 07:01:01](https://news.ycombinator.com/item?id=41678456) - [Photoroom (YC S20) Is Hiring an API Engineer in Paris (Node.js)](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 04:18:27](https://news.ycombinator.com/item?id=41677823) - [It is never too later to write your own C/C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
@@ -17,7 +18,6 @@
 * [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable complex radiance fields with real-time rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 14:13:54](https://news.ycombinator.com/item?id=41670743) - [My MEGA65 is finally here](https://lyonsden.net/my-mega65-is-finally-here/)
 * [2024-09-27, 13:27:05](https://news.ycombinator.com/item?id=41670186) - [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
-* [2024-09-27, 13:09:46](https://news.ycombinator.com/item?id=41669990) - [The CRPG Book Project (2023)](https://crpgbook.wordpress.com/)
 * [2024-09-27, 12:54:55](https://news.ycombinator.com/item?id=41669850) - [Raft: Understandable Distributed Consensus (2014)](https://thesecretlivesofdata.com/raft/)
 * [2024-09-27, 12:53:15](https://news.ycombinator.com/item?id=41669840) - [Collaborative text editing with Eg-Walker: Better, faster, smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-27, 12:16:09](https://news.ycombinator.com/item?id=41669522) - [LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://arxiv.org/abs/2409.11424)
