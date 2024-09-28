@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-28, 03:48:21",
-      "https://news.ycombinator.com/item?id=41677711"
+      "2024-09-28, 04:18:27",
+      "https://news.ycombinator.com/item?id=41677823"
     ],
     [
-      "Third Party Testing Paints Dark Picture of Tesla FSD",
-      "https://www.motortrend.com/news/tesla-fsd-software-amci-testing-video/"
+      "It is never too later to write your own C/C++ command-line utilities",
+      "https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-09-26, 15:24:25",
+      "https://news.ycombinator.com/item?id=41659458"
+    ],
+    [
+      "Legalizing sports gambling was a mistake",
+      "https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/"
+    ]
+  ],
+  [
+    [
       "2024-09-26, 14:29:42",
       "https://news.ycombinator.com/item?id=41658828"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=41646990"
     ],
     [
-      "Unplanned Exposure During Diving in the Spent Nuclear Fuel Pool (2011)",
+      "Unplanned exposure during diving in the spent nuclear fuel pool (2011)",
       "https://isoe-network.net/publications/pub-proceedings/symposia/north-american-tc-symposia/fort-lauderdale-usa-january-2011/slides-14/session-iv-1/1756-ritter2011-ppt/file.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Ocean waves grow way beyond known limits",
       "https://phys.org/news/2024-09-ocean-limits.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 21:55:37",
-      "https://news.ycombinator.com/item?id=41631012"
-    ],
-    [
-      "What I tell people new to on-call",
-      "https://ntietz.com/blog/what-i-tell-people-new-to-oncall/"
     ]
   ]
 ]
