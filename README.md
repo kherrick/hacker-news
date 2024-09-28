@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-28, 22:04:39](https://news.ycombinator.com/item?id=41683282) - [Researchers seeing little evidence of benefit from co pilots](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html)
 * [2024-09-28, 20:41:25](https://news.ycombinator.com/item?id=41682828) - [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
 * [2024-09-28, 20:35:36](https://news.ycombinator.com/item?id=41682790) - [America's Greyhound bus stations are disappearing](https://www.cnn.com/2024/09/28/business/greyhound-bus-chicago-transportation/index.html)
 * [2024-09-28, 18:54:23](https://news.ycombinator.com/item?id=41682237) - [Show HN: Mitata – Benchmarking tooling for JavaScript](https://github.com/evanwashere/mitata)
@@ -15,7 +16,6 @@
 * [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
 * [2024-09-28, 11:10:56](https://news.ycombinator.com/item?id=41679471) - [MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
-* [2024-09-28, 07:51:59](https://news.ycombinator.com/item?id=41678652) - [Show HN: The most comprehensive authentication library for TypeScript](https://github.com/better-auth/better-auth)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
