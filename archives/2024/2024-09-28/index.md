@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 04:18:27](https://news.ycombinator.com/item?id=41677823) - [It is never too later to write your own C/C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
 * [2024-09-28, 03:48:21](https://news.ycombinator.com/item?id=41677711) - [Third Party Testing Paints Dark Picture of Tesla FSD](https://www.motortrend.com/news/tesla-fsd-software-amci-testing-video/)
 * [2024-09-28, 03:37:26](https://news.ycombinator.com/item?id=41677669) - [A small area of solar panels plus storage cannot power the world](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
