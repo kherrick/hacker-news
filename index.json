@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41680156"
     ],
     [
-      "Role of Deliberate Practice in the Development of Creativity",
+      "Role of Deliberate Practice in the Development of Creativity (2014)",
       "https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content"
     ]
   ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-09-27, 15:10:17",
+      "https://news.ycombinator.com/item?id=41671428"
+    ],
+    [
+      "Gaussian Frosting: Editable complex radiance fields with real-time rendering",
+      "https://anttwo.github.io/frosting/"
+    ]
+  ],
+  [
+    [
       "2024-09-27, 14:13:54",
       "https://news.ycombinator.com/item?id=41670743"
     ],
@@ -181,12 +191,32 @@
   ],
   [
     [
+      "2024-09-27, 12:54:55",
+      "https://news.ycombinator.com/item?id=41669850"
+    ],
+    [
+      "Raft: Understandable Distributed Consensus (2014)",
+      "https://thesecretlivesofdata.com/raft/"
+    ]
+  ],
+  [
+    [
       "2024-09-27, 12:53:15",
       "https://news.ycombinator.com/item?id=41669840"
     ],
     [
       "Collaborative text editing with Eg-Walker: Better, faster, smaller",
       "https://arxiv.org/abs/2409.14252"
+    ]
+  ],
+  [
+    [
+      "2024-09-27, 12:16:09",
+      "https://news.ycombinator.com/item?id=41669522"
+    ],
+    [
+      "LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs",
+      "https://arxiv.org/abs/2409.11424"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2024-09-25, 08:40:08",
-      "https://news.ycombinator.com/item?id=41645186"
-    ],
-    [
-      "Hot-Reloading C++ with Live++ and JetBrains Rider",
-      "https://blog.jetbrains.com/dotnet/2024/09/24/hot-reloading-cplusplus-with-liveplusplus-and-jetbrains-rider/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 08:15:48",
-      "https://news.ycombinator.com/item?id=41645008"
-    ],
-    [
-      "Cuis Smalltalk",
-      "https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 07:26:13",
       "https://news.ycombinator.com/item?id=41644620"
     ],
@@ -247,16 +257,6 @@
     [
       "Reading texts on paper versus computer screen: Effects on reading comprehension [pdf]",
       "http://clikmedia.ca/LMM/sites/default/files/pdf/mangen_2012_lecture_sur_ecran_lecture_papier_comprehension.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 22:19:38",
-      "https://news.ycombinator.com/item?id=41641577"
-    ],
-    [
-      "Windows Server 2008 IA64 Guest on HP Integrity VM (HP-UX)",
-      "https://virtuallyfun.com/2024/09/23/windows-server-2008-ia64-guest-on-hp-integrity-vm-hp-ux/"
     ]
   ],
   [
