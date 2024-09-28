@@ -33,6 +33,7 @@
 * [2024-09-25, 15:31:00](https://news.ycombinator.com/item?id=41648564) - [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
 * [2024-09-25, 15:21:02](https://news.ycombinator.com/item?id=41648483) - [System Intiative is generally available](https://www.systeminit.com/blog-system-initiative-is-the-future/)
 * [2024-09-25, 14:42:57](https://news.ycombinator.com/item?id=41648112) - [VitePress: Vite and Vue powered static site generator](https://github.com/vuejs/vitepress)
+* [2024-09-25, 14:39:11](https://news.ycombinator.com/item?id=41648048) - [Science-based games and explorable explanations](https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/)
 * [2024-09-25, 14:27:03](https://news.ycombinator.com/item?id=41647923) - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 * [2024-09-25, 14:22:37](https://news.ycombinator.com/item?id=41647876) - [Reconductoring: Boosting U.S. Grid Capacity Efficiently](https://spectrum.ieee.org/grid-enhancing-technologies)
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The Lost Language Extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
