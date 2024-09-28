@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-09-28, 13:46:22",
-      "https://news.ycombinator.com/item?id=41680207"
-    ],
-    [
-      "Incremental Garbage Collection in Ruby 2.2 (2015)",
-      "https://blog.heroku.com/incremental-gc"
-    ]
-  ],
-  [
-    [
       "2024-09-28, 13:35:48",
       "https://news.ycombinator.com/item?id=41680156"
     ],
@@ -247,6 +237,16 @@
     [
       "Reading texts on paper versus computer screen: Effects on reading comprehension [pdf]",
       "http://clikmedia.ca/LMM/sites/default/files/pdf/mangen_2012_lecture_sur_ecran_lecture_papier_comprehension.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 21:49:58",
+      "https://news.ycombinator.com/item?id=41641314"
+    ],
+    [
+      "A few secure, random bytes without `pgcrypto`",
+      "https://brandur.org/fragments/secure-bytes-without-pgcrypto"
     ]
   ],
   [
