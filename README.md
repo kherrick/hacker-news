@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-28, 07:52:35](https://news.ycombinator.com/item?id=41678654) - [Apple not investing in OpenAI after all, new report says](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 * [2024-09-28, 07:01:01](https://news.ycombinator.com/item?id=41678456) - [Photoroom (YC S20) Is Hiring an API Engineer in Paris (Node.js)](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
@@ -16,7 +17,6 @@
 * [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable complex radiance fields with real-time rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 14:13:54](https://news.ycombinator.com/item?id=41670743) - [My MEGA65 is finally here](https://lyonsden.net/my-mega65-is-finally-here/)
 * [2024-09-27, 13:22:35](https://news.ycombinator.com/item?id=41670140) - [Greenwich: an experiment in collaborative links](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
-* [2024-09-27, 13:09:46](https://news.ycombinator.com/item?id=41669990) - [The CRPG Book Project (2023)](https://crpgbook.wordpress.com/)
 * [2024-09-27, 12:54:55](https://news.ycombinator.com/item?id=41669850) - [Raft: Understandable Distributed Consensus (2014)](https://thesecretlivesofdata.com/raft/)
 * [2024-09-27, 12:53:15](https://news.ycombinator.com/item?id=41669840) - [Collaborative text editing with Eg-Walker: Better, faster, smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-27, 12:16:09](https://news.ycombinator.com/item?id=41669522) - [LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://arxiv.org/abs/2409.11424)
