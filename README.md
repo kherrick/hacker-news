@@ -2,6 +2,7 @@
 
 * [2024-09-28, 13:35:48](https://news.ycombinator.com/item?id=41680156) - [Role of Deliberate Practice in the Development of Creativity](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
 * [2024-09-28, 13:28:53](https://news.ycombinator.com/item?id=41680116) - [If your AI seems smarter, it's thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
+* [2024-09-28, 13:20:17](https://news.ycombinator.com/item?id=41680058) - [Spaced repetition is more than memorization – it's also generalization](https://www.justinmath.com/spaced-repetition-is-more-than-memorization-its-also-generalization/)
 * [2024-09-28, 13:05:49](https://news.ycombinator.com/item?id=41679994) - [Remember That DNA You Gave 23andMe?](https://www.theatlantic.com/health/archive/2024/09/23andme-dna-data-privacy-sale/680057/)
 * [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
@@ -14,7 +15,6 @@
 * [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
 * [2024-09-27, 16:33:37](https://news.ycombinator.com/item?id=41672599) - [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [How AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
-* [2024-09-27, 15:24:13](https://news.ycombinator.com/item?id=41671606) - [Show HN: Quadratic – native JavaScript support in a spreadsheet](https://www.quadratichq.com/javascript)
 * [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable complex radiance fields with real-time rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 14:13:54](https://news.ycombinator.com/item?id=41670743) - [My MEGA65 is finally here](https://lyonsden.net/my-mega65-is-finally-here/)
 * [2024-09-27, 12:54:55](https://news.ycombinator.com/item?id=41669850) - [Raft: Understandable Distributed Consensus (2014)](https://thesecretlivesofdata.com/raft/)

@@ -6,6 +6,7 @@
 
 * [2024-09-28, 13:35:48](https://news.ycombinator.com/item?id=41680156) - [Role of Deliberate Practice in the Development of Creativity](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
 * [2024-09-28, 13:28:53](https://news.ycombinator.com/item?id=41680116) - [If your AI seems smarter, it's thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
+* [2024-09-28, 13:20:17](https://news.ycombinator.com/item?id=41680058) - [Spaced repetition is more than memorization – it's also generalization](https://www.justinmath.com/spaced-repetition-is-more-than-memorization-its-also-generalization/)
 * [2024-09-28, 13:05:49](https://news.ycombinator.com/item?id=41679994) - [Remember That DNA You Gave 23andMe?](https://www.theatlantic.com/health/archive/2024/09/23andme-dna-data-privacy-sale/680057/)
 * [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
