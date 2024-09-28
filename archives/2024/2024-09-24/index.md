@@ -8,6 +8,7 @@
 * [2024-09-24, 23:39:30](https://news.ycombinator.com/item?id=41642151) - [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
 * [2024-09-24, 23:32:36](https://news.ycombinator.com/item?id=41642114) - [Deep Dive into Postgres Write-Ahead Logs](https://www.artie.com/blogs/postgres-write-ahead-logs)
 * [2024-09-24, 22:37:30](https://news.ycombinator.com/item?id=41641704) - [Mkbsd: Download all the wallpapers in MKBHD's \"Panels\" app for free](https://github.com/nadimkobeissi/mkbsd)
+* [2024-09-24, 22:19:38](https://news.ycombinator.com/item?id=41641577) - [Windows Server 2008 IA64 Guest on HP Integrity VM (HP-UX)](https://virtuallyfun.com/2024/09/23/windows-server-2008-ia64-guest-on-hp-integrity-vm-hp-ux/)
 * [2024-09-24, 22:17:02](https://news.ycombinator.com/item?id=41641560) - [The White Collar Apocalypse Is Nigh](https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh/)
 * [2024-09-24, 22:13:03](https://news.ycombinator.com/item?id=41641522) - [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
 * [2024-09-24, 22:10:27](https://news.ycombinator.com/item?id=41641495) - [Ethernet in 17 lines of Spade [video]](https://www.youtube.com/watch?v=0a8P0NLYPWA)
