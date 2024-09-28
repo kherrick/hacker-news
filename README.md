@@ -7,7 +7,6 @@
 * [2024-09-28, 21:23:34](https://news.ycombinator.com/item?id=41683098) - [Britain buys semiconductor factory for defence purposes](https://ukdefencejournal.org.uk/britain-buys-semiconductor-factory-for-defence-purposes/)
 * [2024-09-28, 21:08:01](https://news.ycombinator.com/item?id=41683014) - [Surprising sounds could cause riskier decision-making](https://news.yale.edu/2024/09/17/surprising-sounds-could-cause-riskier-decision-making)
 * [2024-09-28, 20:41:25](https://news.ycombinator.com/item?id=41682828) - [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
-* [2024-09-28, 20:35:36](https://news.ycombinator.com/item?id=41682790) - [America's Greyhound bus stations are disappearing](https://www.cnn.com/2024/09/28/business/greyhound-bus-chicago-transportation/index.html)
 * [2024-09-28, 18:54:23](https://news.ycombinator.com/item?id=41682237) - [Show HN: Mitata – Benchmarking tooling for JavaScript](https://github.com/evanwashere/mitata)
 * [2024-09-28, 17:42:02](https://news.ycombinator.com/item?id=41681736) - [What was the point of [ \"x$var\" = \"xval\" ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035)
 * [2024-09-28, 17:05:29](https://news.ycombinator.com/item?id=41681514) - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
@@ -30,6 +29,7 @@
 * [2024-09-24, 21:49:58](https://news.ycombinator.com/item?id=41641314) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
 * [2024-09-24, 07:44:19](https://news.ycombinator.com/item?id=41634141) - [New laser could cram GPS alternative into a shoebox](https://spectrum.ieee.org/alternative-for-gps)
 * [2024-09-24, 02:50:00](https://news.ycombinator.com/item?id=41632681) - [The human heart shows signs of ageing after just a month in space](https://www.nature.com/articles/d41586-024-03105-x)
+* [2024-09-23, 22:18:07](https://news.ycombinator.com/item?id=41631177) - [Ocean waves grow way beyond known limits](https://phys.org/news/2024-09-ocean-limits.html)
 
 ## [Archives](archives/index.md)
 
