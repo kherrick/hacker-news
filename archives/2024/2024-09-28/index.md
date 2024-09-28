@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 07:52:35](https://news.ycombinator.com/item?id=41678654) - [Apple not investing in OpenAI after all, new report says](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 * [2024-09-28, 07:01:01](https://news.ycombinator.com/item?id=41678456) - [Photoroom (YC S20) Is Hiring an API Engineer in Paris (Node.js)](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
 * [2024-09-28, 06:47:50](https://news.ycombinator.com/item?id=41678392) - [C is not Turing-complete (2018)](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html)

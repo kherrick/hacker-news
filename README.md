@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-28, 07:52:35](https://news.ycombinator.com/item?id=41678654) - [Apple not investing in OpenAI after all, new report says](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/)
 * [2024-09-28, 07:36:27](https://news.ycombinator.com/item?id=41678600) - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 * [2024-09-28, 07:01:01](https://news.ycombinator.com/item?id=41678456) - [Photoroom (YC S20) Is Hiring an API Engineer in Paris (Node.js)](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
 * [2024-09-28, 06:47:50](https://news.ycombinator.com/item?id=41678392) - [C is not Turing-complete (2018)](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html)
@@ -23,7 +24,6 @@
 * [2024-09-27, 12:16:09](https://news.ycombinator.com/item?id=41669522) - [LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://arxiv.org/abs/2409.11424)
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 * [2024-09-26, 15:24:25](https://news.ycombinator.com/item?id=41659458) - [Legalizing sports gambling was a mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
-* [2024-09-26, 14:29:42](https://news.ycombinator.com/item?id=41658828) - [Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/pdf/2409.06203)
 * [2024-09-25, 07:26:13](https://news.ycombinator.com/item?id=41644620) - [Explore Music Non-Linearly](https://midinous.com/)
 * [2024-09-25, 05:52:03](https://news.ycombinator.com/item?id=41644086) - [Reading texts on paper versus computer screen: Effects on reading comprehension [pdf]](http://clikmedia.ca/LMM/sites/default/files/pdf/mangen_2012_lecture_sur_ecran_lecture_papier_comprehension.pdf)
 * [2024-09-24, 15:02:45](https://news.ycombinator.com/item?id=41637286) - [Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
