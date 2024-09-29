@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 21:28:21](https://news.ycombinator.com/item?id=41690804) - [Open-Source Flipper Zero Firmware: Unlock Your Device's Full Potential](https://github.com/flipperdevices/flipperzero-firmware)
 * [2024-09-29, 21:18:03](https://news.ycombinator.com/item?id=41690701) - [Syncthing: Open-Source Continuous File Sync with Privacy in Mind](https://github.com/syncthing/syncthing)
 * [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
 * [2024-09-29, 20:17:55](https://news.ycombinator.com/item?id=41690095) - [AI and globalisation are shaking up software developers' world](https://www.economist.com/business/2024/09/29/ai-and-globalisation-are-shaking-up-software-developers-world)
