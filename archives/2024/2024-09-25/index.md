@@ -56,6 +56,7 @@
 * [2024-09-25, 11:30:57](https://news.ycombinator.com/item?id=41646135) - [Google Paid $2.7B to Bring Back an AI Genius Who Quit in Frustration](https://www.wsj.com/tech/ai/noam-shazeer-google-ai-deal-d3605697)
 * [2024-09-25, 11:22:17](https://news.ycombinator.com/item?id=41646085) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 11:01:05](https://news.ycombinator.com/item?id=41645970) - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
+* [2024-09-25, 10:57:27](https://news.ycombinator.com/item?id=41645951) - [What is a Concept Map? (2009)](https://cmap.ihmc.us/docs/conceptmap.php)
 * [2024-09-25, 10:39:21](https://news.ycombinator.com/item?id=41645848) - [MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://menyifang.github.io/projects/MIMO/index.html)
 * [2024-09-25, 10:35:38](https://news.ycombinator.com/item?id=41645822) - [JabRef – Literature Management](https://www.jabref.org/)
 * [2024-09-25, 10:31:00](https://news.ycombinator.com/item?id=41645804) - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)

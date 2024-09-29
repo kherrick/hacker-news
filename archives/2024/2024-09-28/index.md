@@ -6,6 +6,7 @@
 
 * [2024-09-28, 23:14:36](https://news.ycombinator.com/item?id=41683577) - [Notion's Midlife Crisis](https://www.jjinux.com/2024/09/notions-mid-life-crisis.html)
 * [2024-09-28, 22:36:34](https://news.ycombinator.com/item?id=41683407) - [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
+* [2024-09-28, 22:35:30](https://news.ycombinator.com/item?id=41683397) - [The U.S. is approving citizenship applications at the fastest speed in years](https://www.msn.com/en-us/news/us/with-an-election-looming-the-us-is-approving-citizenship-applications-at-the-fastest-speed-in-years/ar-AA1rf4FU)
 * [2024-09-28, 22:11:05](https://news.ycombinator.com/item?id=41683306) - [SpaceX launches rescue mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
 * [2024-09-28, 22:07:43](https://news.ycombinator.com/item?id=41683293) - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 * [2024-09-28, 22:04:39](https://news.ycombinator.com/item?id=41683282) - [Researchers seeing little evidence of benefit from co pilots](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html)
@@ -51,6 +52,7 @@
 * [2024-09-28, 07:01:01](https://news.ycombinator.com/item?id=41678456) - [Photoroom (YC S20) Is Hiring an API Engineer in Paris (Node.js)](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 06:47:50](https://news.ycombinator.com/item?id=41678392) - [C is not Turing-complete (2018)](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html)
+* [2024-09-28, 06:08:31](https://news.ycombinator.com/item?id=41678248) - [The Design of Text Editors](https://arxiv.org/abs/2008.06030)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html)
 * [2024-09-28, 04:18:27](https://news.ycombinator.com/item?id=41677823) - [It is never too later to write your own C/C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
