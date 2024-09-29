@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web Components Are Okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
+* [2024-09-29, 11:54:55](https://news.ycombinator.com/item?id=41686715) - [Do not build your Gov.uk service as a single-page application](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
+* [2024-09-29, 11:25:52](https://news.ycombinator.com/item?id=41686598) - [How Dwarf Works](https://calabro.io/dwarf)
+* [2024-09-29, 11:22:54](https://news.ycombinator.com/item?id=41686582) - [More annoying macOS 15 Sequoia prompts: Bluetooth](https://lapcatsoftware.com/articles/2024/8/11.html)
 * [2024-09-29, 09:37:00](https://news.ycombinator.com/item?id=41686107) - [The world knows Wim Hof as \"The Iceman\", his family suffered domestic violence](https://www.volkskrant.nl/kijkverder/v/2024/the-outside-world-knows-wim-hof-as-the-eccentric-iceman-his-family-suffered-domestic-violence~v1176564/)
 * [2024-09-29, 08:59:03](https://news.ycombinator.com/item?id=41685917) - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
+* [2024-09-29, 08:35:40](https://news.ycombinator.com/item?id=41685824) - [Alan Kay on Messaging (1998)](http://wiki.c2.com/?AlanKayOnMessaging)
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
 * [2024-09-29, 07:26:13](https://news.ycombinator.com/item?id=41685524) - [NTSB Issues Urgent Safety Recommendations on Boeing 737 Rudder System](https://www.ntsb.gov:443/news/press-releases/Pages/NR20240926.aspx)
