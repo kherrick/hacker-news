@@ -41,6 +41,7 @@
 * [2024-09-28, 13:20:17](https://news.ycombinator.com/item?id=41680058) - [Spaced repetition is more than memorization – it's also generalization](https://www.justinmath.com/spaced-repetition-is-more-than-memorization-its-also-generalization/)
 * [2024-09-28, 13:05:49](https://news.ycombinator.com/item?id=41679994) - [Remember That DNA You Gave 23andMe?](https://www.theatlantic.com/health/archive/2024/09/23andme-dna-data-privacy-sale/680057/)
 * [2024-09-28, 13:00:27](https://news.ycombinator.com/item?id=41679972) - [SunVox: Powerful Modular Synthesizer and DAW](https://www.warmplace.ru/soft/sunvox/)
+* [2024-09-28, 12:42:35](https://news.ycombinator.com/item?id=41679891) - [Five ways to reduce variance in A/B testing](https://bytepawn.com/five-ways-to-reduce-variance-in-ab-testing.html)
 * [2024-09-28, 12:37:14](https://news.ycombinator.com/item?id=41679855) - [Illusions of Competence in Monitoring One's Knowledge During Study [pdf]](https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2005-%20Koriat%20Bjork%20JEPLMC%20(KBA).pdf)
 * [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)

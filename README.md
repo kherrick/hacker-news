@@ -22,7 +22,7 @@
 * [2024-09-28, 17:05:29](https://news.ycombinator.com/item?id=41681514) - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
 * [2024-09-28, 16:40:46](https://news.ycombinator.com/item?id=41681344) - [Show HN: Iceoryx2 – Fast IPC Library for Rust, C++, and C](https://ekxide.io/blog/iceoryx2-0-4-release/)
 * [2024-09-28, 16:31:04](https://news.ycombinator.com/item?id=41681266) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
-* [2024-09-28, 14:54:43](https://news.ycombinator.com/item?id=41680621) - [The Little Typer (2018)](https://thelittletyper.com/)
+* [2024-09-28, 12:42:35](https://news.ycombinator.com/item?id=41679891) - [Five ways to reduce variance in A/B testing](https://bytepawn.com/five-ways-to-reduce-variance-in-ab-testing.html)
 * [2024-09-28, 12:37:14](https://news.ycombinator.com/item?id=41679855) - [Illusions of Competence in Monitoring One's Knowledge During Study [pdf] (2005)](https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2005-%20Koriat%20Bjork%20JEPLMC%20(KBA).pdf)
 * [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-25, 13:08:54](https://news.ycombinator.com/item?id=41647072) - [A Brief History of Blockchain Interoperability](https://cacm.acm.org/research/a-brief-history-of-blockchain-interoperability/)
