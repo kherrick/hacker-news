@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 16:00:54](https://news.ycombinator.com/item?id=41688242) - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
+* [2024-09-29, 15:38:27](https://news.ycombinator.com/item?id=41688080) - [FTC Report Confirms: Commercial Surveillance Is Out of Control](https://www.eff.org/deeplinks/2024/09/ftc-report-confirms-commercial-surveillance-out-control)
 * [2024-09-29, 15:05:19](https://news.ycombinator.com/item?id=41687878) - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
 * [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
 * [2024-09-29, 14:36:23](https://news.ycombinator.com/item?id=41687707) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
