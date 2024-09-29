@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 23:47:01](https://news.ycombinator.com/item?id=41683715) - [What the heck is going on with WordPress?](https://paolo.blog/blog/what-the-heck-is-going-on-with-wordpress/)
 * [2024-09-28, 23:14:36](https://news.ycombinator.com/item?id=41683577) - [Notion's Midlife Crisis](https://www.jjinux.com/2024/09/notions-mid-life-crisis.html)
 * [2024-09-28, 22:36:34](https://news.ycombinator.com/item?id=41683407) - [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
 * [2024-09-28, 22:35:30](https://news.ycombinator.com/item?id=41683397) - [The U.S. is approving citizenship applications at the fastest speed in years](https://www.msn.com/en-us/news/us/with-an-election-looming-the-us-is-approving-citizenship-applications-at-the-fastest-speed-in-years/ar-AA1rf4FU)
