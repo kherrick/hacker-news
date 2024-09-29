@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-29, 14:00:38](https://news.ycombinator.com/item?id=41687471) - [Science publishing is a multimillion-dollar Ponzi scheme](https://iai.tv/articles/science-publishing-is-a-multimillion-dollar-ponzi-scheme-auid-2953)
+* [2024-09-29, 13:16:21](https://news.ycombinator.com/item?id=41687176) - [When To Do What You Love](https://paulgraham.com/when.html)
 * [2024-09-29, 13:11:29](https://news.ycombinator.com/item?id=41687141) - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
 * [2024-09-29, 12:59:49](https://news.ycombinator.com/item?id=41687071) - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
 * [2024-09-29, 12:24:18](https://news.ycombinator.com/item?id=41686837) - [Geothermal Energy Could Outperform Nuclear Power](https://oilprice.com/Energy/Energy-General/Geothermal-Energy-Could-Outperform-Nuclear-Power.html)
@@ -22,13 +24,11 @@
 * [2024-09-28, 16:31:04](https://news.ycombinator.com/item?id=41681266) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 14:54:43](https://news.ycombinator.com/item?id=41680621) - [The Little Typer (2018)](https://thelittletyper.com/)
 * [2024-09-28, 12:37:14](https://news.ycombinator.com/item?id=41679855) - [Illusions of Competence in Monitoring One's Knowledge During Study [pdf] (2005)](https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2005-%20Koriat%20Bjork%20JEPLMC%20(KBA).pdf)
-* [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will plants grow on the moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
 * [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-25, 13:08:54](https://news.ycombinator.com/item?id=41647072) - [A Brief History of Blockchain Interoperability](https://cacm.acm.org/research/a-brief-history-of-blockchain-interoperability/)
 * [2024-09-25, 12:07:44](https://news.ycombinator.com/item?id=41646437) - [Micro: The magazine for TRS-80 owners](https://dfarq.homeip.net/80-micro-the-magazine-for-trs-80-owners/)
 * [2024-09-25, 09:46:27](https://news.ycombinator.com/item?id=41645523) - [Overbooking – how providers divide up the bandwidth](https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/)
 * [2024-09-25, 01:20:35](https://news.ycombinator.com/item?id=41642694) - [My Experience Getting Licensed in Ham Radio (2020)](https://beckystern.com/2020/03/08/my-experience-getting-licensed-in-ham-radio/)
-* [2024-09-24, 20:15:07](https://news.ycombinator.com/item?id=41640435) - [IBM PC 5150 Model Numbers](https://www.os2museum.com/wp/ibm-pc-5150-model-numbers/)
 * [2024-09-24, 14:22:23](https://news.ycombinator.com/item?id=41636761) - [Measuring Developers' Jobs-to-be-done](https://substack.com/@abinoda/p-148270749)
 
 ## [Archives](archives/index.md)

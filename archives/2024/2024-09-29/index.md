@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 14:00:38](https://news.ycombinator.com/item?id=41687471) - [Science publishing is a multimillion-dollar Ponzi scheme](https://iai.tv/articles/science-publishing-is-a-multimillion-dollar-ponzi-scheme-auid-2953)
 * [2024-09-29, 13:28:39](https://news.ycombinator.com/item?id=41687258) - [US' largest solar panel maker debuts its $1B Alabama factory](https://electrek.co/2024/09/27/us-largest-solar-panel-maker-1b-alabama-factory/)
+* [2024-09-29, 13:16:21](https://news.ycombinator.com/item?id=41687176) - [When To Do What You Love](https://paulgraham.com/when.html)
 * [2024-09-29, 13:11:29](https://news.ycombinator.com/item?id=41687141) - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
 * [2024-09-29, 12:59:49](https://news.ycombinator.com/item?id=41687071) - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
 * [2024-09-29, 12:24:18](https://news.ycombinator.com/item?id=41686837) - [Geothermal Energy Could Outperform Nuclear Power](https://oilprice.com/Energy/Energy-General/Geothermal-Energy-Could-Outperform-Nuclear-Power.html)
