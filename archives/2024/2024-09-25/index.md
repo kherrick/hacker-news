@@ -67,6 +67,7 @@
 * [2024-09-25, 10:07:16](https://news.ycombinator.com/item?id=41645642) - [Avoiding if-else Hell: The Functional Style](https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style/)
 * [2024-09-25, 09:54:50](https://news.ycombinator.com/item?id=41645566) - [A Brief History of Microprogramming (2022)](https://people.computing.clemson.edu/~mark/uprog.html)
 * [2024-09-25, 09:48:53](https://news.ycombinator.com/item?id=41645542) - [Lish Shell](https://github.com/nibbula/yew/tree/master/lish)
+* [2024-09-25, 09:46:27](https://news.ycombinator.com/item?id=41645523) - [Overbooking – how providers divide up the bandwidth](https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/)
 * [2024-09-25, 09:37:13](https://news.ycombinator.com/item?id=41645476) - [A Summary of Ilya Sutskevers AI Reading List](https://tensorlabbet.com/)
 * [2024-09-25, 09:30:32](https://news.ycombinator.com/item?id=41645443) - [Apple's 80% charging limit for iPhone: How much did it help after a year?](https://www.macrumors.com/2024/09/24/iphone-80-percent-charging-test/)
 * [2024-09-25, 09:24:46](https://news.ycombinator.com/item?id=41645413) - [Why Payments Engineers Should Avoid State Machines](https://news.alvaroduran.com/p/why-payments-engineers-should-avoid)

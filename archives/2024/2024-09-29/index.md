@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 09:37:00](https://news.ycombinator.com/item?id=41686107) - [The world knows Wim Hof as \"The Iceman\", his family suffered domestic violence](https://www.volkskrant.nl/kijkverder/v/2024/the-outside-world-knows-wim-hof-as-the-eccentric-iceman-his-family-suffered-domestic-violence~v1176564/)
 * [2024-09-29, 08:59:03](https://news.ycombinator.com/item?id=41685917) - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
