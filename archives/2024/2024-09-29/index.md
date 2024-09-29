@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 17:01:32](https://news.ycombinator.com/item?id=41688663) - [Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding](https://github.com/Anuken/Mindustry)
 * [2024-09-29, 17:01:08](https://news.ycombinator.com/item?id=41688660) - [Infisical (YC W23) Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
 * [2024-09-29, 16:44:02](https://news.ycombinator.com/item?id=41688557) - [A stalled Waymo brought Kamala Harris' motorcade to a halt in SF](https://sfstandard.com/2024/09/28/waymo-halts-kamala-harris-san-francisco-motorcade/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 17:01:32](https://news.ycombinator.com/item?id=41688663) - [Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding](https://github.com/Anuken/Mindustry)
 * [2024-09-29, 17:01:08](https://news.ycombinator.com/item?id=41688660) - [Infisical (YC W23) Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
 * [2024-09-29, 16:35:14](https://news.ycombinator.com/item?id=41688499) - [Porting OpenVMS to the Itanium Processor Family (2003)[pdf]](https://de.openvms.org/TUD2004/Itanium.PDF)
@@ -12,7 +13,6 @@
 * [2024-09-29, 14:36:23](https://news.ycombinator.com/item?id=41687707) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-29, 13:51:19](https://news.ycombinator.com/item?id=41687413) - [Varlink – IPC to replace D-Bus gradually in systemd](https://varlink.org/)
 * [2024-09-29, 12:59:49](https://news.ycombinator.com/item?id=41687071) - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
-* [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 * [2024-09-29, 08:35:40](https://news.ycombinator.com/item?id=41685824) - [Alan Kay on Messaging (1998)](http://wiki.c2.com/?AlanKayOnMessaging)
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
