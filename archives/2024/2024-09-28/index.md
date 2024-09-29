@@ -12,6 +12,7 @@
 * [2024-09-28, 22:07:43](https://news.ycombinator.com/item?id=41683293) - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 * [2024-09-28, 22:04:39](https://news.ycombinator.com/item?id=41683282) - [Researchers seeing little evidence of benefit from co pilots](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html)
 * [2024-09-28, 21:49:59](https://news.ycombinator.com/item?id=41683217) - [Four more health care workers ill after caring for bird flu case in Missouri](https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/)
+* [2024-09-28, 21:34:18](https://news.ycombinator.com/item?id=41683144) - [Show HN: htmgo - build simple and scalable systems with golang + htmx](https://htmgo.dev)
 * [2024-09-28, 21:23:34](https://news.ycombinator.com/item?id=41683098) - [Britain buys semiconductor factory for defence purposes](https://ukdefencejournal.org.uk/britain-buys-semiconductor-factory-for-defence-purposes/)
 * [2024-09-28, 21:08:01](https://news.ycombinator.com/item?id=41683014) - [Surprising sounds could cause riskier decision-making](https://news.yale.edu/2024/09/17/surprising-sounds-could-cause-riskier-decision-making)
 * [2024-09-28, 20:41:25](https://news.ycombinator.com/item?id=41682828) - [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
