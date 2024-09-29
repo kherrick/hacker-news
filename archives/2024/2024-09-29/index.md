@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 06:17:54](https://news.ycombinator.com/item?id=41685296) - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
+* [2024-09-29, 04:28:08](https://news.ycombinator.com/item?id=41684906) - [So you want to make pixel art for an Apple II](http://www.deater.net/weave/vmwprod/a2_pixels/)
 * [2024-09-29, 03:56:37](https://news.ycombinator.com/item?id=41684793) - [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
 * [2024-09-29, 03:36:28](https://news.ycombinator.com/item?id=41684697) - [Meta blocks links to hacked JD Vance dossier over election interference concerns](https://www.theverge.com/2024/9/28/24256815/meta-blocking-jd-vance-dossier-hack)
 * [2024-09-29, 02:42:01](https://news.ycombinator.com/item?id=41684445) - [America's Young Men Are Falling Even Further Behind](https://www.wsj.com/lifestyle/careers/young-american-men-lost-c1d799f7)
