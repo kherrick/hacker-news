@@ -7,6 +7,7 @@
 * [2024-09-29, 13:28:39](https://news.ycombinator.com/item?id=41687258) - [US' largest solar panel maker debuts its $1B Alabama factory](https://electrek.co/2024/09/27/us-largest-solar-panel-maker-1b-alabama-factory/)
 * [2024-09-29, 13:11:29](https://news.ycombinator.com/item?id=41687141) - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
 * [2024-09-29, 12:59:49](https://news.ycombinator.com/item?id=41687071) - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
+* [2024-09-29, 12:24:18](https://news.ycombinator.com/item?id=41686837) - [Geothermal Energy Could Outperform Nuclear Power](https://oilprice.com/Energy/Energy-General/Geothermal-Energy-Could-Outperform-Nuclear-Power.html)
 * [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web Components Are Okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 * [2024-09-29, 11:54:55](https://news.ycombinator.com/item?id=41686715) - [Do not build your Gov.uk service as a single-page application](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 * [2024-09-29, 11:25:52](https://news.ycombinator.com/item?id=41686598) - [How Dwarf Works](https://calabro.io/dwarf)
