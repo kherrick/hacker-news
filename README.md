@@ -24,11 +24,11 @@
 * [2024-09-28, 12:37:14](https://news.ycombinator.com/item?id=41679855) - [Illusions of Competence in Monitoring One's Knowledge During Study [pdf] (2005)](https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2005-%20Koriat%20Bjork%20JEPLMC%20(KBA).pdf)
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will plants grow on the moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
+* [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-25, 13:08:54](https://news.ycombinator.com/item?id=41647072) - [A Brief History of Blockchain Interoperability](https://cacm.acm.org/research/a-brief-history-of-blockchain-interoperability/)
 * [2024-09-25, 12:07:44](https://news.ycombinator.com/item?id=41646437) - [Micro: The magazine for TRS-80 owners](https://dfarq.homeip.net/80-micro-the-magazine-for-trs-80-owners/)
 * [2024-09-25, 09:46:27](https://news.ycombinator.com/item?id=41645523) - [Overbooking – how providers divide up the bandwidth](https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/)
 * [2024-09-25, 01:20:35](https://news.ycombinator.com/item?id=41642694) - [My Experience Getting Licensed in Ham Radio (2020)](https://beckystern.com/2020/03/08/my-experience-getting-licensed-in-ham-radio/)
-* [2024-09-24, 20:15:07](https://news.ycombinator.com/item?id=41640435) - [IBM PC 5150 Model Numbers](https://www.os2museum.com/wp/ibm-pc-5150-model-numbers/)
 * [2024-09-24, 14:22:23](https://news.ycombinator.com/item?id=41636761) - [Measuring Developers' Jobs-to-be-done](https://substack.com/@abinoda/p-148270749)
 
 ## [Archives](archives/index.md)

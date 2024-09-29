@@ -62,6 +62,7 @@
 * [2024-09-27, 10:37:14](https://news.ycombinator.com/item?id=41668622) - [You're probably not vulnerable to the CUPS CVE](https://xeiaso.net/notes/2024/cups-cve/)
 * [2024-09-27, 10:17:28](https://news.ycombinator.com/item?id=41668451) - [Leak claims RTX 5090 has 600W TGP, RTX 5080 hits 400W](https://www.tomshardware.com/pc-components/gpus/leak-claims-rtx-5090-has-600w-tgp-rtx-5080-hits-400w-up-to-21760-cores-32gb-vram-512-bit-bus)
 * [2024-09-27, 09:59:15](https://news.ycombinator.com/item?id=41668304) - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
+* [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-27, 08:20:24](https://news.ycombinator.com/item?id=41667652) - [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
 * [2024-09-27, 07:42:10](https://news.ycombinator.com/item?id=41667417) - [Steve Jobs Swore the 10-Minute Rule Made Him Smarter. He Was Right](https://www.inc.com/jessica-stillman/steve-jobs-swore-10-minute-rule-made-him-smarter-modern-neuroscience-discovering-he-was-right.html)
 * [2024-09-27, 07:37:07](https://news.ycombinator.com/item?id=41667393) - [Bugs Found in Cups](https://www.thestack.technology/critical-9-9-linux-bug-cups-your-ears-the-details-are-now-here/)
