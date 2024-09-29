@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-29, 09:37:00](https://news.ycombinator.com/item?id=41686107) - [The world knows Wim Hof as \"The Iceman\", his family suffered domestic violence](https://www.volkskrant.nl/kijkverder/v/2024/the-outside-world-knows-wim-hof-as-the-eccentric-iceman-his-family-suffered-domestic-violence~v1176564/)
 * [2024-09-29, 08:59:03](https://news.ycombinator.com/item?id=41685917) - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
@@ -15,6 +14,7 @@
 * [2024-09-28, 22:11:05](https://news.ycombinator.com/item?id=41683306) - [SpaceX launches mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
 * [2024-09-28, 22:07:43](https://news.ycombinator.com/item?id=41683293) - [How Discord stores trillions of messages (2023)](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 * [2024-09-28, 21:34:18](https://news.ycombinator.com/item?id=41683144) - [Show HN: htmgo - build simple and scalable systems with golang + htmx](https://htmgo.dev)
+* [2024-09-28, 21:23:34](https://news.ycombinator.com/item?id=41683098) - [Britain buys semiconductor factory for defence purposes](https://ukdefencejournal.org.uk/britain-buys-semiconductor-factory-for-defence-purposes/)
 * [2024-09-28, 17:05:29](https://news.ycombinator.com/item?id=41681514) - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
 * [2024-09-28, 16:40:46](https://news.ycombinator.com/item?id=41681344) - [Show HN: Iceoryx2 – Fast IPC Library for Rust, C++, and C](https://ekxide.io/blog/iceoryx2-0-4-release/)
 * [2024-09-28, 16:33:38](https://news.ycombinator.com/item?id=41681284) - [REPL for Dart](https://github.com/fzyzcjy/dart_interactive)
