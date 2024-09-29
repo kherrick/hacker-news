@@ -8,6 +8,7 @@
 * [2024-09-29, 18:38:08](https://news.ycombinator.com/item?id=41689394) - [Cite-seeing and reviewing: A study on citation bias in peer review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283980)
 * [2024-09-29, 18:32:09](https://news.ycombinator.com/item?id=41689355) - [When, why, and how to stop coding as your day job](https://kevingoldsmith.substack.com/p/when-why-and-how-to-stop-coding-as)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt)
+* [2024-09-29, 18:20:49](https://news.ycombinator.com/item?id=41689263) - [Show HN: An experimental AntiBot, AntiCrawl reverse proxy for the web](https://github.com/pulkitsharma07/OnlyHumans-Proxy)
 * [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 18:06:59](https://news.ycombinator.com/item?id=41689159) - [CPU Throttling for containerized Go applications explained](https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/)
 * [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia, a potential 'game changer'](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
