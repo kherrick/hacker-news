@@ -25,7 +25,7 @@
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html)
 * [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will plants grow on the moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
 * [2024-09-25, 19:53:00](https://news.ycombinator.com/item?id=41651191) - [Cat memes went viral 100 years ago](https://www.bbc.com/future/article/20240923-100-year-old-cat-memes-that-predate-the-internet)
-* [2024-09-25, 14:39:11](https://news.ycombinator.com/item?id=41648048) - [Science-based games and explorable explanations](https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/)
+* [2024-09-25, 05:33:19](https://news.ycombinator.com/item?id=41643987) - [Ask HN: How have you integrated LLMs in your development workflow?](https://news.ycombinator.com/item?id=41643987)
 * [2024-09-25, 01:20:35](https://news.ycombinator.com/item?id=41642694) - [My Experience Getting Licensed in Ham Radio (2020)](https://beckystern.com/2020/03/08/my-experience-getting-licensed-in-ham-radio/)
 * [2024-09-24, 20:15:07](https://news.ycombinator.com/item?id=41640435) - [IBM PC 5150 Model Numbers](https://www.os2museum.com/wp/ibm-pc-5150-model-numbers/)
 * [2024-09-24, 19:23:14](https://news.ycombinator.com/item?id=41639976) - [Theattyr: A terminal theater for playing VT100 art and animations](https://github.com/orhun/theattyr)
