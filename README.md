@@ -2,6 +2,7 @@
 
 * [2024-09-29, 15:05:19](https://news.ycombinator.com/item?id=41687878) - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
 * [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
+* [2024-09-29, 14:36:23](https://news.ycombinator.com/item?id=41687707) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-29, 13:11:29](https://news.ycombinator.com/item?id=41687141) - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
 * [2024-09-29, 12:59:49](https://news.ycombinator.com/item?id=41687071) - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
 * [2024-09-29, 12:24:18](https://news.ycombinator.com/item?id=41686837) - [Geothermal Energy Could Outperform Nuclear Power](https://oilprice.com/Energy/Energy-General/Geothermal-Energy-Could-Outperform-Nuclear-Power.html)
@@ -19,7 +20,6 @@
 * [2024-09-28, 22:11:05](https://news.ycombinator.com/item?id=41683306) - [SpaceX launches mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
 * [2024-09-28, 22:07:43](https://news.ycombinator.com/item?id=41683293) - [How Discord stores trillions of messages (2023)](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 * [2024-09-28, 21:34:18](https://news.ycombinator.com/item?id=41683144) - [Show HN: htmgo - build simple and scalable systems with golang + htmx](https://htmgo.dev)
-* [2024-09-28, 17:05:29](https://news.ycombinator.com/item?id=41681514) - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
 * [2024-09-28, 16:40:46](https://news.ycombinator.com/item?id=41681344) - [Show HN: Iceoryx2 – Fast IPC Library for Rust, C++, and C](https://ekxide.io/blog/iceoryx2-0-4-release/)
 * [2024-09-28, 16:31:04](https://news.ycombinator.com/item?id=41681266) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 12:42:35](https://news.ycombinator.com/item?id=41679891) - [Five ways to reduce variance in A/B testing](https://bytepawn.com/five-ways-to-reduce-variance-in-ab-testing.html)
