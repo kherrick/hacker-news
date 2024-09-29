@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-29, 21:51:28](https://news.ycombinator.com/item?id=41691018) - [Radarr: Automate Movie Downloads and Management via Usenet and Torrents](https://github.com/Radarr/Radarr)
 * [2024-09-29, 21:28:21](https://news.ycombinator.com/item?id=41690804) - [Open-Source Flipper Zero Firmware: Unlock Your Device's Full Potential](https://github.com/flipperdevices/flipperzero-firmware)
 * [2024-09-29, 21:18:03](https://news.ycombinator.com/item?id=41690701) - [Syncthing: Open-Source Continuous File Sync with Privacy in Mind](https://github.com/syncthing/syncthing)
 * [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
@@ -28,7 +29,6 @@
 * [2024-09-28, 06:08:31](https://news.ycombinator.com/item?id=41678248) - [On the design of text editors (2020)](https://arxiv.org/abs/2008.06030)
 * [2024-09-28, 02:15:05](https://news.ycombinator.com/item?id=41677352) - [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
 * [2024-09-27, 17:23:40](https://news.ycombinator.com/item?id=41673242) - [Prep: Golang Comptime](https://github.com/pijng/prep)
-* [2024-09-25, 23:19:57](https://news.ycombinator.com/item?id=41652901) - [Cheese Stood Alone for 3,600 Years](https://www.nytimes.com/2024/09/25/science/oldest-cheese-kefir-xinjiang.html)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 
 ## [Archives](archives/index.md)
