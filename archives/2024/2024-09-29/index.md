@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 13:11:29](https://news.ycombinator.com/item?id=41687141) - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
 * [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web Components Are Okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 * [2024-09-29, 11:54:55](https://news.ycombinator.com/item?id=41686715) - [Do not build your Gov.uk service as a single-page application](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 * [2024-09-29, 11:25:52](https://news.ycombinator.com/item?id=41686598) - [How Dwarf Works](https://calabro.io/dwarf)
