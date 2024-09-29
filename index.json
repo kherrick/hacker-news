@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-09-29, 16:35:14",
-      "https://news.ycombinator.com/item?id=41688499"
-    ],
-    [
-      "Porting OpenVMS to the Itanium Processor Family (2003)[pdf]",
-      "https://de.openvms.org/TUD2004/Itanium.PDF"
-    ]
-  ],
-  [
-    [
       "2024-09-29, 16:29:36",
       "https://news.ycombinator.com/item?id=41688469"
     ],
@@ -277,6 +267,16 @@
     [
       "Recreating Dune II for the Amiga",
       "https://spillhistorie.no/recreating-dune-ii-for-the-amiga/"
+    ]
+  ],
+  [
+    [
+      "2024-09-27, 17:23:40",
+      "https://news.ycombinator.com/item?id=41673242"
+    ],
+    [
+      "Prep: Golang Comptime",
+      "https://github.com/pijng/prep"
     ]
   ],
   [
