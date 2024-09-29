@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-09-29, 21:18:03",
+      "https://news.ycombinator.com/item?id=41690701"
+    ],
+    [
+      "Syncthing: Open-Source Continuous File Sync with Privacy in Mind",
+      "https://github.com/syncthing/syncthing"
+    ]
+  ],
+  [
+    [
       "2024-09-29, 20:43:32",
       "https://news.ycombinator.com/item?id=41690302"
     ],
     [
       "Gavin Newsom vetoes SB 1047",
       "https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 20:17:55",
-      "https://news.ycombinator.com/item?id=41690095"
-    ],
-    [
-      "AI and globalisation are shaking up software developers' world",
-      "https://www.economist.com/business/2024/09/29/ai-and-globalisation-are-shaking-up-software-developers-world"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5",
       "https://www.phoronix.com/review/linux-612-features#google_vignette"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 18:45:15",
-      "https://news.ycombinator.com/item?id=41689449"
-    ],
-    [
-      "Ruby Meetups",
-      "https://rubyconferences.org/meetups/"
     ]
   ],
   [
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41689138"
     ],
     [
-      "FDA approves a novel drug for schizophrenia, a potential 'game changer'",
+      "FDA approves a novel drug for schizophrenia",
       "https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/"
     ]
   ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2024-09-29, 13:51:19",
+      "https://news.ycombinator.com/item?id=41687413"
+    ],
+    [
+      "Varlink – IPC to replace D-Bus gradually in systemd",
+      "https://varlink.org/"
+    ]
+  ],
+  [
+    [
       "2024-09-29, 13:16:21",
       "https://news.ycombinator.com/item?id=41687176"
     ],
@@ -221,22 +221,32 @@
   ],
   [
     [
-      "2024-09-29, 12:59:49",
-      "https://news.ycombinator.com/item?id=41687071"
+      "2024-09-29, 11:57:00",
+      "https://news.ycombinator.com/item?id=41686722"
     ],
     [
-      "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots",
-      "https://rekep-robot.github.io/"
+      "Web components are okay",
+      "https://nolanlawson.com/2024/09/28/web-components-are-okay/"
     ]
   ],
   [
     [
-      "2024-09-28, 20:30:42",
-      "https://news.ycombinator.com/item?id=41682766"
+      "2024-09-29, 07:52:59",
+      "https://news.ycombinator.com/item?id=41685642"
     ],
     [
-      "America is becoming less \"woke\"",
-      "https://www.economist.com/briefing/2024/09/19/america-is-becoming-less-woke"
+      "Text2CAD: Generating sequential cad designs from text prompts",
+      "https://sadilkhan.github.io/text2cad-project/"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 06:17:54",
+      "https://news.ycombinator.com/item?id=41685296"
+    ],
+    [
+      "Solving climate change by abusing thermodynamic scaling laws",
+      "https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Being Raised by the Internet",
       "https://jimmyhmiller.github.io/raised"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 23:42:48",
-      "https://news.ycombinator.com/item?id=41642175"
-    ],
-    [
-      "Ldd(1) and Untrusted Binaries (2023)",
-      "https://jmmv.dev/2023/07/ldd-untrusted-binaries.html"
     ]
   ]
 ]
