@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
 * [2024-09-29, 19:37:33](https://news.ycombinator.com/item?id=41689795) - [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
+* [2024-09-29, 19:26:45](https://news.ycombinator.com/item?id=41689714) - [Ted Kaczynski's Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)
 * [2024-09-29, 18:44:41](https://news.ycombinator.com/item?id=41689443) - ['Three New York Cities' Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
 * [2024-09-29, 18:38:08](https://news.ycombinator.com/item?id=41689394) - [Cite-seeing and reviewing: A study on citation bias in peer review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283980)
 * [2024-09-29, 18:34:04](https://news.ycombinator.com/item?id=41689366) - [Clever, Brave, Persistent](https://camhashemi.com/posts/clever-brave-persistent)
