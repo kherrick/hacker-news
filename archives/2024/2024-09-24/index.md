@@ -59,6 +59,7 @@
 * [2024-09-24, 15:00:25](https://news.ycombinator.com/item?id=41637252) - [Some men tend to jump straight to innuendoes: dating app users on why they quit](https://www.theguardian.com/lifeandstyle/2024/sep/24/some-men-tend-to-jump-straight-to-innuendoes-dating-app-users-on-why-they-quit)
 * [2024-09-24, 14:27:09](https://news.ycombinator.com/item?id=41636804) - [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 14:24:30](https://news.ycombinator.com/item?id=41636781) - [James Cameron Joins Stability AI Board of Directors](https://stability.ai/news/james-cameron-joins-stability-ai-board-of-directors)
+* [2024-09-24, 14:22:23](https://news.ycombinator.com/item?id=41636761) - [Measuring Developers' Jobs-to-be-done](https://substack.com/@abinoda/p-148270749)
 * [2024-09-24, 14:19:38](https://news.ycombinator.com/item?id=41636735) - [Will A.I. Be a Bust? A Wall Street Skeptic Rings the Alarm](https://www.nytimes.com/2024/09/23/technology/ai-jim-covello-goldman-sachs.html)
 * [2024-09-24, 13:55:30](https://news.ycombinator.com/item?id=41636491) - [Evan Prodromou Launches the Social Web Foundation](https://wedistribute.org/2024/09/social-web-foundation-launch/)
 * [2024-09-24, 13:27:08](https://news.ycombinator.com/item?id=41636226) - [Blue Origin has ignited an orbital rocket stage](https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/)
