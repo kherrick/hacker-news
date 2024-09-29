@@ -3,7 +3,6 @@
 * [2024-09-29, 01:21:09](https://news.ycombinator.com/item?id=41684088) - [L.A. pilot guaranteeing families $1k/month shows 'transformative' results: study](https://www.latimes.com/california/story/2024-07-31/study-details-what-happened-when-la-residents-were-guaranteed-1000-dollars-a-month)
 * [2024-09-29, 01:19:44](https://news.ycombinator.com/item?id=41684082) - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2024-09-29, 00:43:03](https://news.ycombinator.com/item?id=41683927) - [Cores That Don't Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
-* [2024-09-29, 00:32:39](https://news.ycombinator.com/item?id=41683888) - [Man-in-the-Middle PCB Unlocks HP Ink Cartridges](https://hackaday.com/2024/09/28/man-in-the-middle-pcb-unlocks-hp-ink-cartridges/)
 * [2024-09-29, 00:16:26](https://news.ycombinator.com/item?id=41683815) - [Notes on the Crystal Language](https://wiki.alopex.li/CrystalNotes)
 * [2024-09-28, 23:14:36](https://news.ycombinator.com/item?id=41683577) - [Notion's mid-life crisis](https://www.jjinux.com/2024/09/notions-mid-life-crisis.html)
 * [2024-09-28, 22:36:34](https://news.ycombinator.com/item?id=41683407) - [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
@@ -29,6 +28,7 @@
 * [2024-09-25, 14:39:11](https://news.ycombinator.com/item?id=41648048) - [Science-based games and explorable explanations](https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/)
 * [2024-09-24, 20:15:07](https://news.ycombinator.com/item?id=41640435) - [IBM PC 5150 Model Numbers](https://www.os2museum.com/wp/ibm-pc-5150-model-numbers/)
 * [2024-09-24, 19:23:14](https://news.ycombinator.com/item?id=41639976) - [Theattyr: A terminal theater for playing VT100 art and animations](https://github.com/orhun/theattyr)
+* [2024-09-24, 15:15:15](https://news.ycombinator.com/item?id=41637423) - [Stable carbon isotope evolution of formaldehyde on early Mars](https://www.nature.com/articles/s41598-024-71301-w)
 * [2024-09-24, 14:22:23](https://news.ycombinator.com/item?id=41636761) - [Measuring Developers' Jobs-to-be-done](https://substack.com/@abinoda/p-148270749)
 
 ## [Archives](archives/index.md)
