@@ -41,6 +41,7 @@
 * [2024-09-25, 14:04:49](https://news.ycombinator.com/item?id=41647687) - [Show HN: Test your website on 180+ device viewports (with multi-device mode)](https://viewport-tester.com/)
 * [2024-09-25, 14:04:11](https://news.ycombinator.com/item?id=41647683) - [The Social Web Foundation Is Shaping the Next Era of the Web](https://werd.io/2024/unlocking-the-fediverse-the-social-web-foundation-is-shaping-the)
 * [2024-09-25, 14:01:34](https://news.ycombinator.com/item?id=41647649) - [Molmo: a family of open multimodal AI models](https://molmo.allenai.org/blog)
+* [2024-09-25, 13:08:54](https://news.ycombinator.com/item?id=41647072) - [A Brief History of Blockchain Interoperability](https://cacm.acm.org/research/a-brief-history-of-blockchain-interoperability/)
 * [2024-09-25, 13:05:27](https://news.ycombinator.com/item?id=41647025) - [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
 * [2024-09-25, 13:01:47](https://news.ycombinator.com/item?id=41646990) - [Unplanned Exposure During Diving in the Spent Nuclear Fuel Pool](https://isoe-network.net/publications/pub-proceedings/symposia/north-american-tc-symposia/fort-lauderdale-usa-january-2011/slides-14/session-iv-1/1756-ritter2011-ppt/file.html)
 * [2024-09-25, 12:59:41](https://news.ycombinator.com/item?id=41646967) - [As IBM pushes for automation, its AI simply not up to the job of replacing staff](https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/)
