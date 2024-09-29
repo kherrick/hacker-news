@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-29, 17:01:32",
+      "https://news.ycombinator.com/item?id=41688663"
+    ],
+    [
+      "Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding",
+      "https://github.com/Anuken/Mindustry"
+    ]
+  ],
+  [
+    [
       "2024-09-29, 17:01:08",
       "https://news.ycombinator.com/item?id=41688660"
     ],
@@ -17,6 +27,16 @@
     [
       "A stalled Waymo brought Kamala Harris' motorcade to a halt in SF",
       "https://sfstandard.com/2024/09/28/waymo-halts-kamala-harris-san-francisco-motorcade/"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 16:35:14",
+      "https://news.ycombinator.com/item?id=41688499"
+    ],
+    [
+      "Porting OpenVMS to the Itanium Processor Family (2003)[pdf]",
+      "https://de.openvms.org/TUD2004/Itanium.PDF"
     ]
   ],
   [
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2024-09-29, 15:27:54",
+      "https://news.ycombinator.com/item?id=41688018"
+    ],
+    [
+      "Sitina1 Open-Source Camera",
+      "https://gitlab.com/zephray/sitina1"
+    ]
+  ],
+  [
+    [
       "2024-09-29, 15:04:34",
       "https://news.ycombinator.com/item?id=41687874"
     ],
@@ -81,12 +111,12 @@
   ],
   [
     [
-      "2024-09-29, 13:11:29",
-      "https://news.ycombinator.com/item?id=41687141"
+      "2024-09-29, 13:51:19",
+      "https://news.ycombinator.com/item?id=41687413"
     ],
     [
-      "Avoiding downtime: modern alternatives to outdated certificate pinning practices",
-      "https://blog.cloudflare.com/why-certificate-pinning-is-outdated/"
+      "Varlink – IPC to replace D-Bus gradually in systemd",
+      "https://varlink.org/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-09-29, 03:56:37",
-      "https://news.ycombinator.com/item?id=41684793"
-    ],
-    [
-      "How can a jigsaw have two distinct solutions? [video]",
-      "https://www.youtube.com/watch?v=b5nElEbbnfU"
-    ]
-  ],
-  [
-    [
       "2024-09-29, 01:19:44",
       "https://news.ycombinator.com/item?id=41684082"
     ],
@@ -207,16 +227,6 @@
     [
       "Show HN: htmgo - build simple and scalable systems with golang + htmx",
       "https://htmgo.dev"
-    ]
-  ],
-  [
-    [
-      "2024-09-28, 16:40:46",
-      "https://news.ycombinator.com/item?id=41681344"
-    ],
-    [
-      "Show HN: Iceoryx2 – Fast IPC Library for Rust, C++, and C",
-      "https://ekxide.io/blog/iceoryx2-0-4-release/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ldd(1) and Untrusted Binaries (2023)",
       "https://jmmv.dev/2023/07/ldd-untrusted-binaries.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 14:22:23",
-      "https://news.ycombinator.com/item?id=41636761"
-    ],
-    [
-      "Measuring Developers' Jobs-to-be-done",
-      "https://substack.com/@abinoda/p-148270749"
     ]
   ]
 ]
