@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-29, 08:59:03](https://news.ycombinator.com/item?id=41685917) - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
 * [2024-09-29, 06:30:14](https://news.ycombinator.com/item?id=41685326) - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
@@ -25,7 +26,6 @@
 * [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will plants grow on the moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
 * [2024-09-25, 19:53:00](https://news.ycombinator.com/item?id=41651191) - [Cat memes went viral 100 years ago](https://www.bbc.com/future/article/20240923-100-year-old-cat-memes-that-predate-the-internet)
 * [2024-09-25, 12:07:44](https://news.ycombinator.com/item?id=41646437) - [Micro: The magazine for TRS-80 owners](https://dfarq.homeip.net/80-micro-the-magazine-for-trs-80-owners/)
-* [2024-09-25, 05:33:19](https://news.ycombinator.com/item?id=41643987) - [Ask HN: How have you integrated LLMs in your development workflow?](https://news.ycombinator.com/item?id=41643987)
 * [2024-09-25, 01:20:35](https://news.ycombinator.com/item?id=41642694) - [My Experience Getting Licensed in Ham Radio (2020)](https://beckystern.com/2020/03/08/my-experience-getting-licensed-in-ham-radio/)
 * [2024-09-24, 20:15:07](https://news.ycombinator.com/item?id=41640435) - [IBM PC 5150 Model Numbers](https://www.os2museum.com/wp/ibm-pc-5150-model-numbers/)
 * [2024-09-24, 19:23:14](https://news.ycombinator.com/item?id=41639976) - [Theattyr: A terminal theater for playing VT100 art and animations](https://github.com/orhun/theattyr)

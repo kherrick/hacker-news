@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 08:59:03](https://news.ycombinator.com/item?id=41685917) - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
 * [2024-09-29, 07:26:13](https://news.ycombinator.com/item?id=41685524) - [NTSB Issues Urgent Safety Recommendations on Boeing 737 Rudder System](https://www.ntsb.gov:443/news/press-releases/Pages/NR20240926.aspx)
