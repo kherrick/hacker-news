@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-29, 06:17:54](https://news.ycombinator.com/item?id=41685296) - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
+* [2024-09-29, 06:13:58](https://news.ycombinator.com/item?id=41685287) - [Apple's homework is due Monday no matter what, says judge](https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied)
 * [2024-09-29, 04:28:08](https://news.ycombinator.com/item?id=41684906) - [So you want to make pixel art for an Apple II](http://www.deater.net/weave/vmwprod/a2_pixels/)
 * [2024-09-29, 03:56:37](https://news.ycombinator.com/item?id=41684793) - [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
 * [2024-09-29, 01:19:44](https://news.ycombinator.com/item?id=41684082) - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
@@ -15,7 +16,6 @@
 * [2024-09-28, 16:40:46](https://news.ycombinator.com/item?id=41681344) - [Show HN: Iceoryx2 – Fast IPC Library for Rust, C++, and C](https://ekxide.io/blog/iceoryx2-0-4-release/)
 * [2024-09-28, 16:33:38](https://news.ycombinator.com/item?id=41681284) - [REPL for Dart](https://github.com/fzyzcjy/dart_interactive)
 * [2024-09-28, 16:31:04](https://news.ycombinator.com/item?id=41681266) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
-* [2024-09-28, 16:09:08](https://news.ycombinator.com/item?id=41681110) - [Autossh – automatically restart SSH sessions and tunnels](https://github.com/Autossh/autossh)
 * [2024-09-28, 14:54:43](https://news.ycombinator.com/item?id=41680621) - [The Little Typer (2018)](https://thelittletyper.com/)
 * [2024-09-28, 13:28:53](https://news.ycombinator.com/item?id=41680116) - [If AI seems smarter, it's thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
 * [2024-09-28, 13:00:27](https://news.ycombinator.com/item?id=41679972) - [SunVox: Powerful Modular Synthesizer and DAW](https://www.warmplace.ru/soft/sunvox/)
