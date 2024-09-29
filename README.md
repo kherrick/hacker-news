@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-29, 03:36:28](https://news.ycombinator.com/item?id=41684697) - [Meta blocks links to hacked JD Vance dossier over election interference concerns](https://www.theverge.com/2024/9/28/24256815/meta-blocking-jd-vance-dossier-hack)
 * [2024-09-29, 01:19:44](https://news.ycombinator.com/item?id=41684082) - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2024-09-29, 00:43:03](https://news.ycombinator.com/item?id=41683927) - [Cores That Don't Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
 * [2024-09-29, 00:16:26](https://news.ycombinator.com/item?id=41683815) - [Notes on the Crystal Language](https://wiki.alopex.li/CrystalNotes)
@@ -22,7 +23,6 @@
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 06:08:31](https://news.ycombinator.com/item?id=41678248) - [The Design of Text Editors](https://arxiv.org/abs/2008.06030)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html)
-* [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will plants grow on the moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
 * [2024-09-25, 19:53:00](https://news.ycombinator.com/item?id=41651191) - [Cat memes went viral 100 years ago](https://www.bbc.com/future/article/20240923-100-year-old-cat-memes-that-predate-the-internet)
 * [2024-09-25, 14:39:11](https://news.ycombinator.com/item?id=41648048) - [Science-based games and explorable explanations](https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/)
