@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-29, 13:28:39](https://news.ycombinator.com/item?id=41687258) - [US' largest solar panel maker First Solar debuts its $1B 3.5GW Alabama factory](https://electrek.co/2024/09/27/us-largest-solar-panel-maker-1b-alabama-factory/)
 * [2024-09-29, 13:11:29](https://news.ycombinator.com/item?id=41687141) - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
 * [2024-09-29, 12:59:49](https://news.ycombinator.com/item?id=41687071) - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
 * [2024-09-29, 12:24:18](https://news.ycombinator.com/item?id=41686837) - [Geothermal Energy Could Outperform Nuclear Power](https://oilprice.com/Energy/Energy-General/Geothermal-Energy-Could-Outperform-Nuclear-Power.html)
@@ -29,6 +28,7 @@
 * [2024-09-25, 12:07:44](https://news.ycombinator.com/item?id=41646437) - [Micro: The magazine for TRS-80 owners](https://dfarq.homeip.net/80-micro-the-magazine-for-trs-80-owners/)
 * [2024-09-25, 09:46:27](https://news.ycombinator.com/item?id=41645523) - [Overbooking – how providers divide up the bandwidth](https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/)
 * [2024-09-25, 01:20:35](https://news.ycombinator.com/item?id=41642694) - [My Experience Getting Licensed in Ham Radio (2020)](https://beckystern.com/2020/03/08/my-experience-getting-licensed-in-ham-radio/)
+* [2024-09-24, 20:15:07](https://news.ycombinator.com/item?id=41640435) - [IBM PC 5150 Model Numbers](https://www.os2museum.com/wp/ibm-pc-5150-model-numbers/)
 * [2024-09-24, 14:22:23](https://news.ycombinator.com/item?id=41636761) - [Measuring Developers' Jobs-to-be-done](https://substack.com/@abinoda/p-148270749)
 
 ## [Archives](archives/index.md)
