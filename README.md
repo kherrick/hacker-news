@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-29, 20:17:55](https://news.ycombinator.com/item?id=41690095) - [AI and globalisation are shaking up software developers' world](https://www.economist.com/business/2024/09/29/ai-and-globalisation-are-shaking-up-software-developers-world)
+* [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:33](https://news.ycombinator.com/item?id=41689795) - [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
+* [2024-09-29, 19:37:29](https://news.ycombinator.com/item?id=41689794) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 19:33:42](https://news.ycombinator.com/item?id=41689763) - [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)
 * [2024-09-29, 19:26:45](https://news.ycombinator.com/item?id=41689714) - [Ted Kaczynski's Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)
+* [2024-09-29, 18:44:41](https://news.ycombinator.com/item?id=41689443) - ['Three New York Cities' Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
 * [2024-09-29, 18:37:32](https://news.ycombinator.com/item?id=41689390) - [Space Economy Institute](https://spaceeconomyinstitute.com/master-in-space-economy/)
 * [2024-09-29, 18:34:04](https://news.ycombinator.com/item?id=41689366) - [Clever, Brave, Persistent](https://camhashemi.com/posts/clever-brave-persistent)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
@@ -21,15 +24,12 @@
 * [2024-09-29, 14:36:23](https://news.ycombinator.com/item?id=41687707) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-29, 13:16:21](https://news.ycombinator.com/item?id=41687176) - [When To Do What You Love](https://paulgraham.com/when.html)
 * [2024-09-29, 12:59:49](https://news.ycombinator.com/item?id=41687071) - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
-* [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
-* [2024-09-29, 06:30:14](https://news.ycombinator.com/item?id=41685326) - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
 * [2024-09-28, 20:30:42](https://news.ycombinator.com/item?id=41682766) - [America is becoming less \"woke\"](https://www.economist.com/briefing/2024/09/19/america-is-becoming-less-woke)
 * [2024-09-28, 12:42:35](https://news.ycombinator.com/item?id=41679891) - [Five ways to reduce variance in A/B testing](https://bytepawn.com/five-ways-to-reduce-variance-in-ab-testing.html)
 * [2024-09-28, 02:15:05](https://news.ycombinator.com/item?id=41677352) - [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
 * [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-25, 23:19:57](https://news.ycombinator.com/item?id=41652901) - [Cheese Stood Alone for 3,600 Years](https://www.nytimes.com/2024/09/25/science/oldest-cheese-kefir-xinjiang.html)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
-* [2024-09-24, 23:42:48](https://news.ycombinator.com/item?id=41642175) - [Ldd(1) and Untrusted Binaries (2023)](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 
 ## [Archives](archives/index.md)
 

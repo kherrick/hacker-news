@@ -7,6 +7,7 @@
 * [2024-09-29, 20:17:55](https://news.ycombinator.com/item?id=41690095) - [AI and globalisation are shaking up software developers' world](https://www.economist.com/business/2024/09/29/ai-and-globalisation-are-shaking-up-software-developers-world)
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:33](https://news.ycombinator.com/item?id=41689795) - [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
+* [2024-09-29, 19:37:29](https://news.ycombinator.com/item?id=41689794) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 19:33:42](https://news.ycombinator.com/item?id=41689763) - [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)
 * [2024-09-29, 19:26:45](https://news.ycombinator.com/item?id=41689714) - [Ted Kaczynski's Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)
 * [2024-09-29, 18:44:41](https://news.ycombinator.com/item?id=41689443) - ['Three New York Cities' Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
