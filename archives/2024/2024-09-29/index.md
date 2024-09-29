@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 15:05:19](https://news.ycombinator.com/item?id=41687878) - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
 * [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
 * [2024-09-29, 14:00:38](https://news.ycombinator.com/item?id=41687471) - [Science publishing is a multimillion-dollar Ponzi scheme](https://iai.tv/articles/science-publishing-is-a-multimillion-dollar-ponzi-scheme-auid-2953)
 * [2024-09-29, 13:28:39](https://news.ycombinator.com/item?id=41687258) - [US' largest solar panel maker debuts its $1B Alabama factory](https://electrek.co/2024/09/27/us-largest-solar-panel-maker-1b-alabama-factory/)
