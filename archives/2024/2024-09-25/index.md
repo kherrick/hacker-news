@@ -47,6 +47,7 @@
 * [2024-09-25, 12:29:03](https://news.ycombinator.com/item?id=41646629) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 * [2024-09-25, 12:22:06](https://news.ycombinator.com/item?id=41646551) - [Google Cloud files complaint due to Microsoft's anti-competitive licensing](https://cloud.google.com/blog/topics/inside-google-cloud/filing-eu-complaint-against-microsoft-licensing/)
 * [2024-09-25, 12:19:29](https://news.ycombinator.com/item?id=41646531) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
+* [2024-09-25, 12:07:44](https://news.ycombinator.com/item?id=41646437) - [Micro: The magazine for TRS-80 owners](https://dfarq.homeip.net/80-micro-the-magazine-for-trs-80-owners/)
 * [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646420) - [Who Is Marcellus Williams: Execution in Missouri Despite Evidence of Innocence](https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/)
 * [2024-09-25, 12:05:18](https://news.ycombinator.com/item?id=41646419) - [Gmail's blue checkmarks are coming to iOS and Android](https://www.theverge.com/2024/9/25/24253904/gmails-blue-checkmarks-are-coming-to-ios-and-android)
 * [2024-09-25, 11:53:35](https://news.ycombinator.com/item?id=41646295) - [Fighting back against proper noun feature names (2021)](https://kubie.co/blog/fighting-feature-names/)
