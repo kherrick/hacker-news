@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 07:26:13](https://news.ycombinator.com/item?id=41685524) - [NTSB Issues Urgent Safety Recommendations on Boeing 737 Rudder System](https://www.ntsb.gov:443/news/press-releases/Pages/NR20240926.aspx)
 * [2024-09-29, 06:30:14](https://news.ycombinator.com/item?id=41685326) - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
 * [2024-09-29, 06:17:54](https://news.ycombinator.com/item?id=41685296) - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
 * [2024-09-29, 06:13:58](https://news.ycombinator.com/item?id=41685287) - [Apple's homework is due Monday no matter what, says judge](https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied)
