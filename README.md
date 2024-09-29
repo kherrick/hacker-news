@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-09-29, 02:42:01](https://news.ycombinator.com/item?id=41684445) - [America's Young Men Are Falling Even Further Behind](https://www.wsj.com/lifestyle/careers/young-american-men-lost-c1d799f7)
 * [2024-09-29, 01:28:44](https://news.ycombinator.com/item?id=41684116) - [Controversial Windows Recall AI Search Tool Returns with Proof-of-Presence](https://www.securityweek.com/microsofts-controversial-recall-returns-with-proof-of-presence-encryption-data-isolation-opt-in-model/)
-* [2024-09-29, 01:19:44](https://news.ycombinator.com/item?id=41684082) - [Too much efficiency makes everything worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
+* [2024-09-29, 01:21:09](https://news.ycombinator.com/item?id=41684088) - [L.A. pilot guaranteeing families $1k/month shows 'transformative' results: study](https://www.latimes.com/california/story/2024-07-31/study-details-what-happened-when-la-residents-were-guaranteed-1000-dollars-a-month)
+* [2024-09-29, 01:19:44](https://news.ycombinator.com/item?id=41684082) - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2024-09-29, 00:43:03](https://news.ycombinator.com/item?id=41683927) - [Cores That Don't Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
 * [2024-09-29, 00:32:39](https://news.ycombinator.com/item?id=41683888) - [Man-in-the-Middle PCB Unlocks HP Ink Cartridges](https://hackaday.com/2024/09/28/man-in-the-middle-pcb-unlocks-hp-ink-cartridges/)
 * [2024-09-29, 00:16:26](https://news.ycombinator.com/item?id=41683815) - [Notes on the Crystal Language](https://wiki.alopex.li/CrystalNotes)
@@ -25,11 +25,11 @@
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 06:08:31](https://news.ycombinator.com/item?id=41678248) - [The Design of Text Editors](https://arxiv.org/abs/2008.06030)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html)
-* [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-25, 19:53:00](https://news.ycombinator.com/item?id=41651191) - [Cat memes went viral 100 years ago](https://www.bbc.com/future/article/20240923-100-year-old-cat-memes-that-predate-the-internet)
 * [2024-09-25, 14:39:11](https://news.ycombinator.com/item?id=41648048) - [Science-based games and explorable explanations](https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/)
 * [2024-09-24, 20:15:07](https://news.ycombinator.com/item?id=41640435) - [IBM PC 5150 Model Numbers](https://www.os2museum.com/wp/ibm-pc-5150-model-numbers/)
 * [2024-09-24, 19:23:14](https://news.ycombinator.com/item?id=41639976) - [Theattyr: A terminal theater for playing VT100 art and animations](https://github.com/orhun/theattyr)
+* [2024-09-24, 15:15:15](https://news.ycombinator.com/item?id=41637423) - [Stable carbon isotope evolution of formaldehyde on early Mars](https://www.nature.com/articles/s41598-024-71301-w)
 
 ## [Archives](archives/index.md)
 
