@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-09-28, 22:36:34",
-      "https://news.ycombinator.com/item?id=41683407"
-    ],
-    [
-      "Show HN: Open-source app builder for comfy workflows",
-      "https://github.com/ViewComfy/ViewComfy"
-    ]
-  ],
-  [
-    [
       "2024-09-28, 22:11:05",
       "https://news.ycombinator.com/item?id=41683306"
     ],
@@ -157,6 +147,16 @@
     [
       "The perils of transition to 64-bit time_t",
       "https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 16:09:08",
+      "https://news.ycombinator.com/item?id=41681110"
+    ],
+    [
+      "Autossh – automatically restart SSH sessions and tunnels",
+      "https://github.com/Autossh/autossh"
     ]
   ],
   [
