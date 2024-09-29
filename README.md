@@ -2,6 +2,7 @@
 
 * [2024-09-29, 21:28:21](https://news.ycombinator.com/item?id=41690804) - [Open-Source Flipper Zero Firmware: Unlock Your Device's Full Potential](https://github.com/flipperdevices/flipperzero-firmware)
 * [2024-09-29, 21:18:03](https://news.ycombinator.com/item?id=41690701) - [Syncthing: Open-Source Continuous File Sync with Privacy in Mind](https://github.com/syncthing/syncthing)
+* [2024-09-29, 21:15:24](https://news.ycombinator.com/item?id=41690667) - [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
 * [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:29](https://news.ycombinator.com/item?id=41689794) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
@@ -28,7 +29,6 @@
 * [2024-09-28, 06:08:31](https://news.ycombinator.com/item?id=41678248) - [On the design of text editors (2020)](https://arxiv.org/abs/2008.06030)
 * [2024-09-28, 02:15:05](https://news.ycombinator.com/item?id=41677352) - [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
 * [2024-09-27, 17:23:40](https://news.ycombinator.com/item?id=41673242) - [Prep: Golang Comptime](https://github.com/pijng/prep)
-* [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 
 ## [Archives](archives/index.md)
