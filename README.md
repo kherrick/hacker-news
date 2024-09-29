@@ -18,6 +18,7 @@
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
 * [2024-09-29, 06:30:14](https://news.ycombinator.com/item?id=41685326) - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
+* [2024-09-29, 03:56:37](https://news.ycombinator.com/item?id=41684793) - [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
 * [2024-09-29, 01:19:44](https://news.ycombinator.com/item?id=41684082) - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2024-09-29, 00:43:03](https://news.ycombinator.com/item?id=41683927) - [Cores That Don't Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
 * [2024-09-28, 22:11:05](https://news.ycombinator.com/item?id=41683306) - [SpaceX launches mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
@@ -27,7 +28,6 @@
 * [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-25, 13:08:54](https://news.ycombinator.com/item?id=41647072) - [A Brief History of Blockchain Interoperability](https://cacm.acm.org/research/a-brief-history-of-blockchain-interoperability/)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
-* [2024-09-25, 09:46:27](https://news.ycombinator.com/item?id=41645523) - [Overbooking – how providers divide up the bandwidth](https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/)
 * [2024-09-25, 01:20:35](https://news.ycombinator.com/item?id=41642694) - [My Experience Getting Licensed in Ham Radio (2020)](https://beckystern.com/2020/03/08/my-experience-getting-licensed-in-ham-radio/)
 * [2024-09-24, 23:42:48](https://news.ycombinator.com/item?id=41642175) - [Ldd(1) and Untrusted Binaries (2023)](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 
