@@ -6,6 +6,8 @@
 
 * [2024-09-29, 18:44:41](https://news.ycombinator.com/item?id=41689443) - ['Three New York Cities' Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
 * [2024-09-29, 18:38:08](https://news.ycombinator.com/item?id=41689394) - [Cite-seeing and reviewing: A study on citation bias in peer review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283980)
+* [2024-09-29, 18:34:04](https://news.ycombinator.com/item?id=41689366) - [Clever, Brave, Persistent](https://camhashemi.com/posts/clever-brave-persistent)
+* [2024-09-29, 18:33:32](https://news.ycombinator.com/item?id=41689363) - [The Vagus Nerve's Crucial Role in Creating the Human Sense of Mind](https://www.wired.com/story/how-our-longest-nerve-orchestrates-the-mind-body-connection-vagus/)
 * [2024-09-29, 18:32:09](https://news.ycombinator.com/item?id=41689355) - [When, why, and how to stop coding as your day job](https://kevingoldsmith.substack.com/p/when-why-and-how-to-stop-coding-as)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt)
 * [2024-09-29, 18:20:49](https://news.ycombinator.com/item?id=41689263) - [Show HN: An experimental AntiBot, AntiCrawl reverse proxy for the web](https://github.com/pulkitsharma07/OnlyHumans-Proxy)
