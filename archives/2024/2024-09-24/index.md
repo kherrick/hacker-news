@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
 * [2024-09-24, 23:48:29](https://news.ycombinator.com/item?id=41642203) - [Drinking 3 cups of coffee linked to preventing multiple diseases](https://studyfinds.org/3-cups-of-coffee-diseases/)
+* [2024-09-24, 23:42:48](https://news.ycombinator.com/item?id=41642175) - [Ldd(1) and Untrusted Binaries (2023)](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 * [2024-09-24, 23:39:30](https://news.ycombinator.com/item?id=41642151) - [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
 * [2024-09-24, 23:32:36](https://news.ycombinator.com/item?id=41642114) - [Deep Dive into Postgres Write-Ahead Logs](https://www.artie.com/blogs/postgres-write-ahead-logs)
 * [2024-09-24, 22:37:30](https://news.ycombinator.com/item?id=41641704) - [Mkbsd: Download all the wallpapers in MKBHD's \"Panels\" app for free](https://github.com/nadimkobeissi/mkbsd)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
 * [2024-09-29, 16:00:54](https://news.ycombinator.com/item?id=41688242) - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 * [2024-09-29, 15:38:27](https://news.ycombinator.com/item?id=41688080) - [FTC Report Confirms: Commercial Surveillance Is Out of Control](https://www.eff.org/deeplinks/2024/09/ftc-report-confirms-commercial-surveillance-out-control)
 * [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
@@ -12,7 +13,6 @@
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
 * [2024-09-29, 06:30:14](https://news.ycombinator.com/item?id=41685326) - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
-* [2024-09-29, 04:28:08](https://news.ycombinator.com/item?id=41684906) - [So you want to make pixel art for an Apple II](http://www.deater.net/weave/vmwprod/a2_pixels/)
 * [2024-09-29, 03:56:37](https://news.ycombinator.com/item?id=41684793) - [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
 * [2024-09-29, 01:19:44](https://news.ycombinator.com/item?id=41684082) - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2024-09-29, 00:43:03](https://news.ycombinator.com/item?id=41683927) - [Cores That Don't Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
@@ -23,12 +23,12 @@
 * [2024-09-28, 16:40:46](https://news.ycombinator.com/item?id=41681344) - [Show HN: Iceoryx2 – Fast IPC Library for Rust, C++, and C](https://ekxide.io/blog/iceoryx2-0-4-release/)
 * [2024-09-28, 16:31:04](https://news.ycombinator.com/item?id=41681266) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 12:42:35](https://news.ycombinator.com/item?id=41679891) - [Five ways to reduce variance in A/B testing](https://bytepawn.com/five-ways-to-reduce-variance-in-ab-testing.html)
-* [2024-09-28, 12:37:14](https://news.ycombinator.com/item?id=41679855) - [Illusions of Competence in Monitoring One's Knowledge During Study [pdf] (2005)](https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2005-%20Koriat%20Bjork%20JEPLMC%20(KBA).pdf)
 * [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-25, 13:08:54](https://news.ycombinator.com/item?id=41647072) - [A Brief History of Blockchain Interoperability](https://cacm.acm.org/research/a-brief-history-of-blockchain-interoperability/)
 * [2024-09-25, 12:07:44](https://news.ycombinator.com/item?id=41646437) - [Micro: The magazine for TRS-80 owners](https://dfarq.homeip.net/80-micro-the-magazine-for-trs-80-owners/)
 * [2024-09-25, 09:46:27](https://news.ycombinator.com/item?id=41645523) - [Overbooking – how providers divide up the bandwidth](https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/)
 * [2024-09-25, 01:20:35](https://news.ycombinator.com/item?id=41642694) - [My Experience Getting Licensed in Ham Radio (2020)](https://beckystern.com/2020/03/08/my-experience-getting-licensed-in-ham-radio/)
+* [2024-09-24, 23:42:48](https://news.ycombinator.com/item?id=41642175) - [Ldd(1) and Untrusted Binaries (2023)](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 * [2024-09-24, 14:22:23](https://news.ycombinator.com/item?id=41636761) - [Measuring Developers' Jobs-to-be-done](https://substack.com/@abinoda/p-148270749)
 
 ## [Archives](archives/index.md)

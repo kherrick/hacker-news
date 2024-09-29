@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
 * [2024-09-29, 16:00:54](https://news.ycombinator.com/item?id=41688242) - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 * [2024-09-29, 15:38:27](https://news.ycombinator.com/item?id=41688080) - [FTC Report Confirms: Commercial Surveillance Is Out of Control](https://www.eff.org/deeplinks/2024/09/ftc-report-confirms-commercial-surveillance-out-control)
 * [2024-09-29, 15:05:19](https://news.ycombinator.com/item?id=41687878) - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
