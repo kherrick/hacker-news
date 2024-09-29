@@ -37,6 +37,7 @@
 * [2024-09-25, 14:27:03](https://news.ycombinator.com/item?id=41647923) - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 * [2024-09-25, 14:22:37](https://news.ycombinator.com/item?id=41647876) - [Reconductoring: Boosting U.S. Grid Capacity Efficiently](https://spectrum.ieee.org/grid-enhancing-technologies)
 * [2024-09-25, 14:19:13](https://news.ycombinator.com/item?id=41647843) - [The Lost Language Extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
+* [2024-09-25, 14:07:10](https://news.ycombinator.com/item?id=41647709) - [An Interview with Shirley Hazzard](https://www.thebeliever.net/an-interview-with-shirley-hazzard/)
 * [2024-09-25, 14:04:49](https://news.ycombinator.com/item?id=41647687) - [Show HN: Test your website on 180+ device viewports (with multi-device mode)](https://viewport-tester.com/)
 * [2024-09-25, 14:04:11](https://news.ycombinator.com/item?id=41647683) - [The Social Web Foundation Is Shaping the Next Era of the Web](https://werd.io/2024/unlocking-the-fediverse-the-social-web-foundation-is-shaping-the)
 * [2024-09-25, 14:01:34](https://news.ycombinator.com/item?id=41647649) - [Molmo: a family of open multimodal AI models](https://molmo.allenai.org/blog)
