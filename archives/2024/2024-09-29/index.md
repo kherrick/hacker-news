@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 17:01:08](https://news.ycombinator.com/item?id=41688660) - [Infisical (YC W23) Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
+* [2024-09-29, 16:44:02](https://news.ycombinator.com/item?id=41688557) - [A stalled Waymo brought Kamala Harris' motorcade to a halt in SF](https://sfstandard.com/2024/09/28/waymo-halts-kamala-harris-san-francisco-motorcade/)
 * [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
 * [2024-09-29, 16:00:54](https://news.ycombinator.com/item?id=41688242) - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 * [2024-09-29, 15:38:27](https://news.ycombinator.com/item?id=41688080) - [FTC Report Confirms: Commercial Surveillance Is Out of Control](https://www.eff.org/deeplinks/2024/09/ftc-report-confirms-commercial-surveillance-out-control)
 * [2024-09-29, 15:05:19](https://news.ycombinator.com/item?id=41687878) - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
+* [2024-09-29, 15:04:34](https://news.ycombinator.com/item?id=41687874) - [Quandoom: A port of DOOM for a quantum computer](https://github.com/Lumorti/Quandoom)
 * [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
 * [2024-09-29, 14:36:23](https://news.ycombinator.com/item?id=41687707) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-29, 14:00:38](https://news.ycombinator.com/item?id=41687471) - [Science publishing is a multimillion-dollar Ponzi scheme](https://iai.tv/articles/science-publishing-is-a-multimillion-dollar-ponzi-scheme-auid-2953)
