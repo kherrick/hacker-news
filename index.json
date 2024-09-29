@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-29, 13:11:29",
+      "https://news.ycombinator.com/item?id=41687141"
+    ],
+    [
+      "Avoiding downtime: modern alternatives to outdated certificate pinning practices",
+      "https://blog.cloudflare.com/why-certificate-pinning-is-outdated/"
+    ]
+  ],
+  [
+    [
       "2024-09-29, 11:57:00",
       "https://news.ycombinator.com/item?id=41686722"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41686715"
     ],
     [
-      "Do not build your Gov.uk service as a single-page application",
+      "Building a robust frontend using progressive enhancement",
       "https://www.gov.uk/service-manual/technology/using-progressive-enhancement"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "More annoying macOS 15 Sequoia prompts: Bluetooth",
       "https://lapcatsoftware.com/articles/2024/8/11.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 08:59:03",
-      "https://news.ycombinator.com/item?id=41685917"
-    ],
-    [
-      "Floating megabomb heaves to near the English coast",
-      "https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=41679855"
     ],
     [
-      "Illusions of Competence in Monitoring One's Knowledge During Study [pdf]",
+      "Illusions of Competence in Monitoring One's Knowledge During Study [pdf] (2005)",
       "https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2005-%20Koriat%20Bjork%20JEPLMC%20(KBA).pdf"
     ]
   ],
