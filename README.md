@@ -6,7 +6,6 @@
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:29](https://news.ycombinator.com/item?id=41689794) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 19:33:42](https://news.ycombinator.com/item?id=41689763) - [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)
-* [2024-09-29, 19:02:06](https://news.ycombinator.com/item?id=41689558) - [Don't believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 18:45:15](https://news.ycombinator.com/item?id=41689449) - [Ruby Meetups](https://rubyconferences.org/meetups/)
 * [2024-09-29, 18:44:41](https://news.ycombinator.com/item?id=41689443) - ['Three New York Cities' Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
@@ -29,6 +28,7 @@
 * [2024-09-28, 06:08:31](https://news.ycombinator.com/item?id=41678248) - [On the design of text editors (2020)](https://arxiv.org/abs/2008.06030)
 * [2024-09-28, 02:15:05](https://news.ycombinator.com/item?id=41677352) - [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
 * [2024-09-27, 17:23:40](https://news.ycombinator.com/item?id=41673242) - [Prep: Golang Comptime](https://github.com/pijng/prep)
+* [2024-09-27, 09:48:00](https://news.ycombinator.com/item?id=41668217) - [Mathiness](https://www.votito.com/methods/mathiness)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 
 ## [Archives](archives/index.md)
