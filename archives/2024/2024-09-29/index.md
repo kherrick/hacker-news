@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:33](https://news.ycombinator.com/item?id=41689795) - [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
+* [2024-09-29, 19:33:42](https://news.ycombinator.com/item?id=41689763) - [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)
 * [2024-09-29, 19:26:45](https://news.ycombinator.com/item?id=41689714) - [Ted Kaczynski's Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)
 * [2024-09-29, 18:44:41](https://news.ycombinator.com/item?id=41689443) - ['Three New York Cities' Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
 * [2024-09-29, 18:38:08](https://news.ycombinator.com/item?id=41689394) - [Cite-seeing and reviewing: A study on citation bias in peer review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283980)
+* [2024-09-29, 18:37:32](https://news.ycombinator.com/item?id=41689390) - [Space Economy Institute](https://spaceeconomyinstitute.com/master-in-space-economy/)
 * [2024-09-29, 18:34:04](https://news.ycombinator.com/item?id=41689366) - [Clever, Brave, Persistent](https://camhashemi.com/posts/clever-brave-persistent)
 * [2024-09-29, 18:33:32](https://news.ycombinator.com/item?id=41689363) - [The Vagus Nerve's Crucial Role in Creating the Human Sense of Mind](https://www.wired.com/story/how-our-longest-nerve-orchestrates-the-mind-body-connection-vagus/)
 * [2024-09-29, 18:32:09](https://news.ycombinator.com/item?id=41689355) - [When, why, and how to stop coding as your day job](https://kevingoldsmith.substack.com/p/when-why-and-how-to-stop-coding-as)
@@ -16,6 +19,7 @@
 * [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 18:06:59](https://news.ycombinator.com/item?id=41689159) - [CPU Throttling for containerized Go applications explained](https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/)
 * [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia, a potential 'game changer'](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
+* [2024-09-29, 17:22:20](https://news.ycombinator.com/item?id=41688804) - [Andrej Karpathy on X: NotebookLM is quite powerful and worth playing with](https://twitter.com/karpathy/status/1840112692910272898)
 * [2024-09-29, 17:01:32](https://news.ycombinator.com/item?id=41688663) - [Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding](https://github.com/Anuken/Mindustry)
 * [2024-09-29, 17:01:08](https://news.ycombinator.com/item?id=41688660) - [Infisical (YC W23) Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
 * [2024-09-29, 16:44:02](https://news.ycombinator.com/item?id=41688557) - [A stalled Waymo brought Kamala Harris' motorcade to a halt in SF](https://sfstandard.com/2024/09/28/waymo-halts-kamala-harris-san-francisco-motorcade/)
