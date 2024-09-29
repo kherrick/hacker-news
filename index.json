@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-29, 20:16:40",
+      "https://news.ycombinator.com/item?id=41690087"
+    ],
+    [
+      "Ask HN: What are you working on (September 2024)?",
+      "https://news.ycombinator.com/item?id=41690087"
+    ]
+  ],
+  [
+    [
       "2024-09-29, 19:37:33",
       "https://news.ycombinator.com/item?id=41689795"
     ],
     [
       "Academic economists get big payouts when they help monopolists beat antitrust",
       "https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 19:33:42",
+      "https://news.ycombinator.com/item?id=41689763"
+    ],
+    [
+      "Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5",
+      "https://www.phoronix.com/review/linux-612-features#google_vignette"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-09-29, 18:38:08",
-      "https://news.ycombinator.com/item?id=41689394"
+      "2024-09-29, 18:37:32",
+      "https://news.ycombinator.com/item?id=41689390"
     ],
     [
-      "Cite-seeing and reviewing: A study on citation bias in peer review",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283980"
+      "Space Economy Institute",
+      "https://spaceeconomyinstitute.com/master-in-space-economy/"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41689332"
     ],
     [
-      "A Taxonomy of Tech Debt",
+      "A Taxonomy of Tech Debt (2018)",
       "https://technology.riotgames.com/news/taxonomy-tech-debt"
     ]
   ],
@@ -97,6 +117,16 @@
     [
       "FDA approves a novel drug for schizophrenia, a potential 'game changer'",
       "https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 17:22:20",
+      "https://news.ycombinator.com/item?id=41688804"
+    ],
+    [
+      "Andrej Karpathy on X: NotebookLM is quite powerful and worth playing with",
+      "https://twitter.com/karpathy/status/1840112692910272898"
     ]
   ],
   [
@@ -165,7 +195,7 @@
       "https://news.ycombinator.com/item?id=41687739"
     ],
     [
-      "Flexible RISC-V Processor: Could Cost Less Than a Dollar",
+      "A Bendy RISC-V Processor",
       "https://spectrum.ieee.org/flexible-risc-v"
     ]
   ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2024-09-29, 08:35:40",
-      "https://news.ycombinator.com/item?id=41685824"
-    ],
-    [
-      "Alan Kay on Messaging (1998)",
-      "http://wiki.c2.com/?AlanKayOnMessaging"
-    ]
-  ],
-  [
-    [
       "2024-09-29, 08:03:45",
       "https://news.ycombinator.com/item?id=41685689"
     ],
     [
       "Feldera Incremental Compute Engine",
       "https://github.com/feldera/feldera"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 07:52:59",
-      "https://news.ycombinator.com/item?id=41685642"
-    ],
-    [
-      "Text2CAD Generating Sequential CAD Designs from Text Prompts",
-      "https://sadilkhan.github.io/text2cad-project/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Being Raised by the Internet",
       "https://jimmyhmiller.github.io/raised"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 11:05:26",
-      "https://news.ycombinator.com/item?id=41645999"
-    ],
-    [
-      "An easier way to get your logo in the inbox: Google's latest BIMI changes",
-      "https://www.valimail.com/blog/google-cmc-bimi-announcement/"
     ]
   ],
   [
