@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-29, 02:42:01](https://news.ycombinator.com/item?id=41684445) - [America's Young Men Are Falling Even Further Behind](https://www.wsj.com/lifestyle/careers/young-american-men-lost-c1d799f7)
 * [2024-09-29, 01:28:44](https://news.ycombinator.com/item?id=41684116) - [Controversial Windows Recall AI Search Tool Returns with Proof-of-Presence](https://www.securityweek.com/microsofts-controversial-recall-returns-with-proof-of-presence-encryption-data-isolation-opt-in-model/)
 * [2024-09-29, 01:19:44](https://news.ycombinator.com/item?id=41684082) - [Too much efficiency makes everything worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2024-09-29, 00:43:03](https://news.ycombinator.com/item?id=41683927) - [Cores That Don't Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
@@ -24,10 +25,9 @@
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 06:08:31](https://news.ycombinator.com/item?id=41678248) - [The Design of Text Editors](https://arxiv.org/abs/2008.06030)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html)
+* [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-25, 19:53:00](https://news.ycombinator.com/item?id=41651191) - [Cat memes went viral 100 years ago](https://www.bbc.com/future/article/20240923-100-year-old-cat-memes-that-predate-the-internet)
-* [2024-09-25, 18:14:33](https://news.ycombinator.com/item?id=41650258) - [Walking on the Moon in Cologne: Europe's lunar life simulator](https://today.rtl.lu/news/science-and-environment/a/2234777.html)
 * [2024-09-25, 14:39:11](https://news.ycombinator.com/item?id=41648048) - [Science-based games and explorable explanations](https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/)
-* [2024-09-25, 10:57:27](https://news.ycombinator.com/item?id=41645951) - [What is a Concept Map? (2009)](https://cmap.ihmc.us/docs/conceptmap.php)
 * [2024-09-24, 20:15:07](https://news.ycombinator.com/item?id=41640435) - [IBM PC 5150 Model Numbers](https://www.os2museum.com/wp/ibm-pc-5150-model-numbers/)
 * [2024-09-24, 19:23:14](https://news.ycombinator.com/item?id=41639976) - [Theattyr: A terminal theater for playing VT100 art and animations](https://github.com/orhun/theattyr)
 
