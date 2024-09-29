@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 20:17:55](https://news.ycombinator.com/item?id=41690095) - [AI and globalisation are shaking up software developers' world](https://www.economist.com/business/2024/09/29/ai-and-globalisation-are-shaking-up-software-developers-world)
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:33](https://news.ycombinator.com/item?id=41689795) - [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
 * [2024-09-29, 19:33:42](https://news.ycombinator.com/item?id=41689763) - [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)

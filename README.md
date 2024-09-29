@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-29, 20:17:55](https://news.ycombinator.com/item?id=41690095) - [AI and globalisation are shaking up software developers' world](https://www.economist.com/business/2024/09/29/ai-and-globalisation-are-shaking-up-software-developers-world)
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:33](https://news.ycombinator.com/item?id=41689795) - [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
 * [2024-09-29, 19:33:42](https://news.ycombinator.com/item?id=41689763) - [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)
@@ -12,7 +13,6 @@
 * [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 18:06:59](https://news.ycombinator.com/item?id=41689159) - [CPU Throttling for containerized Go applications explained](https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/)
 * [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia, a potential 'game changer'](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
-* [2024-09-29, 17:22:20](https://news.ycombinator.com/item?id=41688804) - [Andrej Karpathy on X: NotebookLM is quite powerful and worth playing with](https://twitter.com/karpathy/status/1840112692910272898)
 * [2024-09-29, 17:01:08](https://news.ycombinator.com/item?id=41688660) - [Infisical (YC W23) Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
 * [2024-09-29, 16:35:14](https://news.ycombinator.com/item?id=41688499) - [Porting OpenVMS to the Itanium Processor Family (2003)[pdf]](https://de.openvms.org/TUD2004/Itanium.PDF)
 * [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
