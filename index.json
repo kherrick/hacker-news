@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-09-30, 08:08:51",
+      "https://news.ycombinator.com/item?id=41694706"
+    ],
+    [
+      "Brazilian Suicide Electric Shower Heads [video]",
+      "https://www.youtube.com/watch?v=FuQ_AAkkgIg"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 07:42:40",
+      "https://news.ycombinator.com/item?id=41694563"
+    ],
+    [
+      "Raspberry Pi AI Camera on sale now at $70",
+      "https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 07:35:01",
+      "https://news.ycombinator.com/item?id=41694504"
+    ],
+    [
+      "How we built ngrok's data platform",
+      "https://ngrok.com/blog-post/how-we-built-ngroks-data-platform"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 06:56:07",
+      "https://news.ycombinator.com/item?id=41694283"
+    ],
+    [
+      "The Arch Linux team is now working directly with Valve",
+      "https://www.tomshardware.com/software/linux/the-arch-linux-team-is-now-working-directly-with-valve-steamos-and-arch-should-both-benefit-greatly"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 06:09:53",
       "https://news.ycombinator.com/item?id=41694044"
     ],
@@ -141,26 +181,6 @@
   ],
   [
     [
-      "2024-09-29, 18:19:49",
-      "https://news.ycombinator.com/item?id=41689254"
-    ],
-    [
-      "Pagoda: Rapid, easy full-stack web development starter kit in Go",
-      "https://github.com/mikestefanello/pagoda"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 18:06:59",
-      "https://news.ycombinator.com/item?id=41689159"
-    ],
-    [
-      "CPU Throttling for containerized Go applications explained",
-      "https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/"
-    ]
-  ],
-  [
-    [
       "2024-09-29, 18:02:47",
       "https://news.ycombinator.com/item?id=41689138"
     ],
@@ -207,16 +227,6 @@
     [
       "Some Go web dev notes",
       "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 13:51:19",
-      "https://news.ycombinator.com/item?id=41687413"
-    ],
-    [
-      "Varlink – IPC to replace D-Bus gradually in systemd",
-      "https://varlink.org/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Awala: The computer network on which humankind can rely",
       "https://awala.network/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 12:39:45",
-      "https://news.ycombinator.com/item?id=41646749"
-    ],
-    [
-      "Being Raised by the Internet",
-      "https://jimmyhmiller.github.io/raised"
     ]
   ],
   [
