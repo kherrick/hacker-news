@@ -18,6 +18,7 @@
 * [2024-09-27, 19:04:38](https://news.ycombinator.com/item?id=41674379) - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
 * [2024-09-27, 18:39:13](https://news.ycombinator.com/item?id=41674115) - ['Not a business model': How companies misunderstand open source](https://www.computing.co.uk/opinion/2024/amanda-brock-open-source-comments)
 * [2024-09-27, 18:38:38](https://news.ycombinator.com/item?id=41674109) - [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
+* [2024-09-27, 18:11:06](https://news.ycombinator.com/item?id=41673842) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-27, 17:28:22](https://news.ycombinator.com/item?id=41673317) - [Ceefax and the Birth of Interactive TV](https://www.bbc.com/articles/cvg360rr91zo)
 * [2024-09-27, 17:25:55](https://news.ycombinator.com/item?id=41673277) - [Signal's Meredith Whittaker: 'I see AI as born out of surveillance'](https://www.ft.com/content/799b4fcf-2cf7-41d2-81b4-10d9ecdd83f6)
 * [2024-09-27, 17:23:40](https://news.ycombinator.com/item?id=41673242) - [Prep: Golang Comptime](https://github.com/pijng/prep)

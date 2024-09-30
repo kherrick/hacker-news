@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 18:42:09](https://news.ycombinator.com/item?id=41700517) - [Product Hunt isn't dying, it's becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
+* [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
+* [2024-09-30, 18:39:50](https://news.ycombinator.com/item?id=41700496) - [Apple No Longer in Talks to Invest in ChatGPT Maker OpenAI](https://www.macrumors.com/2024/09/30/apple-no-longer-investing-openai-chatgpt/)
 * [2024-09-30, 18:30:05](https://news.ycombinator.com/item?id=41700394) - [Engineers investigate another malfunction on SpaceX's Falcon 9 rocket](https://arstechnica.com/space/2024/09/engineers-investigate-another-malfunction-on-spacexs-falcon-9-rocket/)
 * [2024-09-30, 17:28:48](https://news.ycombinator.com/item?id=41699756) - [PS5 Homescreen Now Replaces Unique Game Art with Annoying Ads You Can't Turn Off](https://www.ign.com/articles/ps5-homescreen-now-replaces-unique-video-game-art-with-annoying-ads-you-cant-turn-off)
 * [2024-09-30, 17:15:30](https://news.ycombinator.com/item?id=41699611) - [Coolify: Open-Source, Self-Hostable Alternative to Heroku/Netlify/Vercel](https://github.com/coollabsio/coolify)
@@ -15,6 +18,7 @@
 * [2024-09-30, 16:18:15](https://news.ycombinator.com/item?id=41698907) - [A Burrito Is a Monad](http://williamcotton.com/articles/a-burrito-is-a-monad)
 * [2024-09-30, 16:11:52](https://news.ycombinator.com/item?id=41698823) - [The Rat Studies That Foretold a Nightmarish Human Future](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
 * [2024-09-30, 16:07:23](https://news.ycombinator.com/item?id=41698775) - [macOS Sequoia is certified to Unix 03](https://www.opengroup.org/openbrand/register/)
+* [2024-09-30, 16:00:17](https://news.ycombinator.com/item?id=41698686) - [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
 * [2024-09-30, 15:49:17](https://news.ycombinator.com/item?id=41698551) - [Dikembe Mutombo has died at age 58](https://www.nytimes.com/2024/09/30/sports/dikembe-mutombo-dead.html)
 * [2024-09-30, 15:33:30](https://news.ycombinator.com/item?id=41698361) - [Liquid Foundation Models: Our First Series of Generative AI Models](https://www.liquid.ai/liquid-foundation-models)
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor for Help Desks)](https://news.ycombinator.com/item?id=41697137)
