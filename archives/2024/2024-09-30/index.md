@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 08:08:51](https://news.ycombinator.com/item?id=41694706) - [Brazilian Suicide Electric Shower Heads [video]](https://www.youtube.com/watch?v=FuQ_AAkkgIg)
+* [2024-09-30, 07:42:40](https://news.ycombinator.com/item?id=41694563) - [Raspberry Pi AI Camera on sale now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/)
+* [2024-09-30, 07:35:01](https://news.ycombinator.com/item?id=41694504) - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
+* [2024-09-30, 06:56:07](https://news.ycombinator.com/item?id=41694283) - [The Arch Linux team is now working directly with Valve](https://www.tomshardware.com/software/linux/the-arch-linux-team-is-now-working-directly-with-valve-steamos-and-arch-should-both-benefit-greatly)
 * [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
 * [2024-09-30, 06:06:39](https://news.ycombinator.com/item?id=41694025) - [David Brin – The Dogma of Otherness](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
 * [2024-09-30, 05:55:51](https://news.ycombinator.com/item?id=41693979) - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
