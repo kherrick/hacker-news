@@ -16,7 +16,6 @@
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 18:45:15](https://news.ycombinator.com/item?id=41689449) - [Ruby Meetups](https://rubyconferences.org/meetups/)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
-* [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
 * [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
 * [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
@@ -29,6 +28,7 @@
 * [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-25, 13:00:42](https://news.ycombinator.com/item?id=41646978) - [Hunting for Gems: How Ruby's package management system evolved](https://www.railsexplained.com/pages/hunting-for-gems/)
 * [2024-09-25, 12:43:31](https://news.ycombinator.com/item?id=41646782) - [Awala: The computer network on which humankind can rely](https://awala.network/)
+* [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 * [2024-09-25, 06:56:22](https://news.ycombinator.com/item?id=41644451) - [Go and my realization about what I'll call the 'Promises' pattern](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern)
 
 ## [Archives](archives/index.md)
