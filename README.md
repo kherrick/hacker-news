@@ -2,7 +2,6 @@
 
 * [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 * [2024-09-30, 19:21:57](https://news.ycombinator.com/item?id=41700989) - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
-* [2024-09-30, 19:03:41](https://news.ycombinator.com/item?id=41700766) - [Burning and Playing PS2 Games Without a Modded Console](https://btxx.org/posts/ps2-games/)
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 * [2024-09-30, 17:26:03](https://news.ycombinator.com/item?id=41699730) - [GnuCash 5.9 Released](https://www.gnucash.org/news.phtml)
 * [2024-09-30, 16:51:48](https://news.ycombinator.com/item?id=41699323) - [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
@@ -26,10 +25,11 @@
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
 * [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
 * [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
+* [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [A Bendy RISC-V Processor](https://spectrum.ieee.org/flexible-risc-v)
 * [2024-09-28, 11:15:02](https://news.ycombinator.com/item?id=41679497) - [Is English a “creole Language”?](https://languagelog.ldc.upenn.edu/nll/?p=66229)
+* [2024-09-28, 05:51:51](https://news.ycombinator.com/item?id=41678188) - [PyTorch Native Architecture Optimization: Torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
 * [2024-09-27, 15:20:41](https://news.ycombinator.com/item?id=41671562) - [The fight to save Chile's white strawberry](https://www.atlasobscura.com/articles/white-strawberry)
 * [2024-09-27, 04:31:27](https://news.ycombinator.com/item?id=41666269) - [Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
-* [2024-09-26, 00:04:10](https://news.ycombinator.com/item?id=41653148) - [Paramotorists soar across remote Peru desert to collect threatened plants](https://phys.org/news/2024-09-extreme-botany-paramotorists-soar-remote.html)
 
 ## [Archives](archives/index.md)
 
