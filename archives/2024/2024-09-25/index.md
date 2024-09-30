@@ -7,6 +7,7 @@
 * [2024-09-25, 23:42:26](https://news.ycombinator.com/item?id=41653027) - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
 * [2024-09-25, 23:19:57](https://news.ycombinator.com/item?id=41652901) - [Cheese Stood Alone for 3,600 Years](https://www.nytimes.com/2024/09/25/science/oldest-cheese-kefir-xinjiang.html)
 * [2024-09-25, 23:12:08](https://news.ycombinator.com/item?id=41652843) - [New Zealand scientists discover ghostly 'spookfish'](https://phys.org/news/2024-09-zealand-scientists-ghostly-spookfish.html)
+* [2024-09-25, 23:09:39](https://news.ycombinator.com/item?id=41652823) - [Word-initial consonants are systematically lengthened across diverse languages](https://phys.org/news/2024-09-word-consonants-systematically-lengthened-diverse.html)
 * [2024-09-25, 21:01:15](https://news.ycombinator.com/item?id=41651820) - [Clara (YC S24) Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
 * [2024-09-25, 20:36:05](https://news.ycombinator.com/item?id=41651596) - [The Daily Scrum: Does It Have to Be Daily?](https://rethinkingsoftware.substack.com/p/the-daily-scrum)
 * [2024-09-25, 19:53:00](https://news.ycombinator.com/item?id=41651191) - [Cat memes went viral 100 years ago](https://www.bbc.com/future/article/20240923-100-year-old-cat-memes-that-predate-the-internet)

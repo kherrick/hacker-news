@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 02:58:02](https://news.ycombinator.com/item?id=41693087) - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 * [2024-09-30, 02:40:44](https://news.ycombinator.com/item?id=41693001) - [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
 * [2024-09-29, 23:54:06](https://news.ycombinator.com/item?id=41692000) - [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
 * [2024-09-29, 22:55:34](https://news.ycombinator.com/item?id=41691577) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
@@ -9,7 +10,6 @@
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:29](https://news.ycombinator.com/item?id=41689794) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 18:45:15](https://news.ycombinator.com/item?id=41689449) - [Ruby Meetups](https://rubyconferences.org/meetups/)
-* [2024-09-29, 18:44:41](https://news.ycombinator.com/item?id=41689443) - ['Three New York Cities' Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
 * [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 18:06:59](https://news.ycombinator.com/item?id=41689159) - [CPU Throttling for containerized Go applications explained](https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/)
@@ -25,7 +25,7 @@
 * [2024-09-29, 06:17:54](https://news.ycombinator.com/item?id=41685296) - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
 * [2024-09-28, 02:15:05](https://news.ycombinator.com/item?id=41677352) - [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
 * [2024-09-27, 17:23:40](https://news.ycombinator.com/item?id=41673242) - [Prep: Golang Comptime](https://github.com/pijng/prep)
-* [2024-09-25, 23:12:08](https://news.ycombinator.com/item?id=41652843) - [New Zealand scientists discover ghostly 'spookfish'](https://phys.org/news/2024-09-zealand-scientists-ghostly-spookfish.html)
+* [2024-09-25, 23:09:39](https://news.ycombinator.com/item?id=41652823) - [Word-initial consonants are systematically lengthened across diverse languages](https://phys.org/news/2024-09-word-consonants-systematically-lengthened-diverse.html)
 * [2024-09-25, 13:00:42](https://news.ycombinator.com/item?id=41646978) - [Hunting for Gems: How Ruby's package management system evolved](https://www.railsexplained.com/pages/hunting-for-gems/)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 * [2024-09-25, 10:35:38](https://news.ycombinator.com/item?id=41645822) - [JabRef – Literature Management](https://www.jabref.org/)
