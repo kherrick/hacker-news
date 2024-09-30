@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 18:30:05](https://news.ycombinator.com/item?id=41700394) - [Engineers investigate another malfunction on SpaceX's Falcon 9 rocket](https://arstechnica.com/space/2024/09/engineers-investigate-another-malfunction-on-spacexs-falcon-9-rocket/)
 * [2024-09-30, 17:00:48](https://news.ycombinator.com/item?id=41699441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-09-30, 16:51:48](https://news.ycombinator.com/item?id=41699323) - [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
 * [2024-09-30, 16:26:13](https://news.ycombinator.com/item?id=41698995) - [Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
@@ -7,6 +8,7 @@
 * [2024-09-30, 15:33:30](https://news.ycombinator.com/item?id=41698361) - [Liquid Foundation Models: Our First Series of Generative AI Models](https://www.liquid.ai/liquid-foundation-models)
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (think Cursor for help desks)](https://news.ycombinator.com/item?id=41697137)
 * [2024-09-30, 13:48:03](https://news.ycombinator.com/item?id=41697032) - [Y Combinator Traded Prestige for Growth](https://unfashionable.blog/p/yc/)
+* [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [The best browser bookmarking system is files](https://afewthingz.com/browserbookmark)
 * [2024-09-30, 12:34:46](https://news.ycombinator.com/item?id=41696434) - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-09-30, 11:15:36](https://news.ycombinator.com/item?id=41695840) - [Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
@@ -26,10 +28,8 @@
 * [2024-09-27, 15:26:44](https://news.ycombinator.com/item?id=41671643) - [Ask HN: What would you do with a 130 ton locomotive?](https://news.ycombinator.com/item?id=41671643)
 * [2024-09-27, 15:20:41](https://news.ycombinator.com/item?id=41671562) - [The fight to save Chile's white strawberry](https://www.atlasobscura.com/articles/white-strawberry)
 * [2024-09-27, 12:41:49](https://news.ycombinator.com/item?id=41669747) - [The Physics of Colliding Balls](https://vanhunteradams.com/Pico/Galton/Collisions.html)
-* [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-27, 04:31:27](https://news.ycombinator.com/item?id=41666269) - [Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
 * [2024-09-26, 00:04:10](https://news.ycombinator.com/item?id=41653148) - [Paramotorists soar across remote Peru desert to collect threatened plants](https://phys.org/news/2024-09-extreme-botany-paramotorists-soar-remote.html)
-* [2024-09-25, 22:55:22](https://news.ycombinator.com/item?id=41652735) - [Fine Prints: Japanese, pre-1915](https://www.loc.gov/collections/japanese-fine-prints-pre-1915/about-this-collection/)
 
 ## [Archives](archives/index.md)
 

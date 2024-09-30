@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 18:30:05](https://news.ycombinator.com/item?id=41700394) - [Engineers investigate another malfunction on SpaceX's Falcon 9 rocket](https://arstechnica.com/space/2024/09/engineers-investigate-another-malfunction-on-spacexs-falcon-9-rocket/)
 * [2024-09-30, 17:28:48](https://news.ycombinator.com/item?id=41699756) - [PS5 Homescreen Now Replaces Unique Game Art with Annoying Ads You Can't Turn Off](https://www.ign.com/articles/ps5-homescreen-now-replaces-unique-video-game-art-with-annoying-ads-you-cant-turn-off)
 * [2024-09-30, 17:15:30](https://news.ycombinator.com/item?id=41699611) - [Coolify: Open-Source, Self-Hostable Alternative to Heroku/Netlify/Vercel](https://github.com/coollabsio/coolify)
 * [2024-09-30, 17:13:33](https://news.ycombinator.com/item?id=41699584) - [Hartford Public High School grad can't read](https://ctmirror.org/2024/09/29/cant-read-high-school-ct-hartford/)
