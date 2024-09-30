@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 10:41:35](https://news.ycombinator.com/item?id=41695630) - [A guide to working remote and not paying rent](https://ghuntley.com/freecamping/)
 * [2024-09-30, 10:34:54](https://news.ycombinator.com/item?id=41695587) - [UK to finish with coal power after 142 years](https://www.bbc.co.uk/news/articles/c5y35qz73n8o)
 * [2024-09-30, 09:05:37](https://news.ycombinator.com/item?id=41695025) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
@@ -11,7 +12,6 @@
 * [2024-09-30, 05:55:51](https://news.ycombinator.com/item?id=41693979) - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
 * [2024-09-30, 02:58:02](https://news.ycombinator.com/item?id=41693087) - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 * [2024-09-30, 02:26:46](https://news.ycombinator.com/item?id=41692922) - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
-* [2024-09-30, 01:48:43](https://news.ycombinator.com/item?id=41692679) - [Doom in the iPhone Photos App (Barely)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
 * [2024-09-29, 22:55:34](https://news.ycombinator.com/item?id=41691577) - [Visual Studio Code is designed to fracture (2022)](https://ghuntley.com/fracture/)
 * [2024-09-29, 22:49:26](https://news.ycombinator.com/item?id=41691530) - [Kris Kristofferson has died](https://www.rollingstone.com/music/music-country/kris-kristofferson-dead-1107074/)
 * [2024-09-29, 22:30:10](https://news.ycombinator.com/item?id=41691364) - [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
