@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 17:28:48](https://news.ycombinator.com/item?id=41699756) - [PS5 Homescreen Now Replaces Unique Game Art with Annoying Ads You Can't Turn Off](https://www.ign.com/articles/ps5-homescreen-now-replaces-unique-video-game-art-with-annoying-ads-you-cant-turn-off)
+* [2024-09-30, 17:15:30](https://news.ycombinator.com/item?id=41699611) - [Coolify: Open-Source, Self-Hostable Alternative to Heroku/Netlify/Vercel](https://github.com/coollabsio/coolify)
 * [2024-09-30, 17:13:33](https://news.ycombinator.com/item?id=41699584) - [Hartford Public High School grad can't read](https://ctmirror.org/2024/09/29/cant-read-high-school-ct-hartford/)
 * [2024-09-30, 17:00:48](https://news.ycombinator.com/item?id=41699441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-09-30, 16:51:48](https://news.ycombinator.com/item?id=41699323) - [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
 * [2024-09-30, 16:26:13](https://news.ycombinator.com/item?id=41698995) - [Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * [2024-09-30, 16:25:34](https://news.ycombinator.com/item?id=41698988) - [Convince Frodo to give you the ring](https://darkfrodo.com/check)
 * [2024-09-30, 16:18:15](https://news.ycombinator.com/item?id=41698907) - [A Burrito Is a Monad](http://williamcotton.com/articles/a-burrito-is-a-monad)
