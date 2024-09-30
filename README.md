@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 19:58:34](https://news.ycombinator.com/item?id=41701398) - [Mazda's $10 Subscription for Remote Start Sparks Backlash](https://www.carscoops.com/2024/09/mazdas-remote-start-subscription-draws-ire-of-noted-right-to-repair-advocate/)
 * [2024-09-30, 19:45:58](https://news.ycombinator.com/item?id=41701265) - [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)
 * [2024-09-30, 19:41:50](https://news.ycombinator.com/item?id=41701219) - [Pooltool: A sandbox billiards game that emphasizes realistic physics](https://github.com/ekiefl/pooltool)
 * [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
@@ -11,7 +12,6 @@
 * [2024-09-30, 16:51:48](https://news.ycombinator.com/item?id=41699323) - [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
 * [2024-09-30, 16:11:52](https://news.ycombinator.com/item?id=41698823) - [Two new books on John Calhoun and his rodent experiments](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
 * [2024-09-30, 16:00:17](https://news.ycombinator.com/item?id=41698686) - [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
-* [2024-09-30, 15:33:30](https://news.ycombinator.com/item?id=41698361) - [Liquid Foundation Models: Our First Series of Generative AI Models](https://www.liquid.ai/liquid-foundation-models)
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (think Cursor for help desks)](https://news.ycombinator.com/item?id=41697137)
 * [2024-09-30, 13:50:48](https://news.ycombinator.com/item?id=41697064) - [Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
 * [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [The best browser bookmarking system is files](https://afewthingz.com/browserbookmark)
