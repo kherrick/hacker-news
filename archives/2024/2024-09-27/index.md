@@ -6,6 +6,7 @@
 
 * [2024-09-27, 23:49:15](https://news.ycombinator.com/item?id=41676653) - [If WordPress is to survive, Matt Mullenweg must be removed](https://joshcollinsworth.com/blog/fire-matt)
 * [2024-09-27, 22:51:19](https://news.ycombinator.com/item?id=41676297) - [US Trademark Office Cancels Marvel, DC's 'Super Hero' Marks](https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/)
+* [2024-09-27, 21:39:43](https://news.ycombinator.com/item?id=41675823) - [The Evolution of Baseball's Perfect Lineup](https://pudding.cool/2024/09/lineup/)
 * [2024-09-27, 21:23:45](https://news.ycombinator.com/item?id=41675672) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-09-27, 21:18:33](https://news.ycombinator.com/item?id=41675637) - [Lion Cove: Intel's P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
 * [2024-09-27, 21:00:33](https://news.ycombinator.com/item?id=41675469) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)

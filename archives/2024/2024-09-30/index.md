@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 09:05:37](https://news.ycombinator.com/item?id=41695025) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 08:08:51](https://news.ycombinator.com/item?id=41694706) - [Brazilian Suicide Electric Shower Heads [video]](https://www.youtube.com/watch?v=FuQ_AAkkgIg)
 * [2024-09-30, 07:42:40](https://news.ycombinator.com/item?id=41694563) - [Raspberry Pi AI Camera on sale now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/)
 * [2024-09-30, 07:35:01](https://news.ycombinator.com/item?id=41694504) - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
