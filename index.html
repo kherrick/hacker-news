@@ -129,6 +129,109 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41697137">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41697137"
+              >Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor
+              for Help Desks)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-30 @ 13:57:38</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41697137"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://inkeep.com">https://inkeep.com</a>). We help
+              companies turn their content into AI support copilots. So far,
+              we’d focused on customer-facing experiences (e.g. find us as an
+              “Ask AI” button in the docs of companies like Anthropic and
+              Pinecone). Today, we’re excited to share our new copilot, Keep,
+              which is designed specifically for support agents.
+              <p>
+                It’s a conversational sidebar you can use as an app for Zendesk
+                or Chrome Extension for any support platform. There’s a demo
+                video at vid.inkeep.com/cx-copilot or you can try the live
+                sandbox with example tickets at try.inkeep.com/cx-copilot.
+              </p>
+              <p>
+                Why? Most AI support tools today are focused on trying to have
+                AI answer customer questions before they even reach support
+                teams (‘deflection’). We’d focused on that too. However, we
+                heard from many of our customers that while they care about
+                deflection, they care even more about providing high-quality,
+                fast human support when users need it. Some teams don’t even
+                want customer-facing AI at all and just want AI tools to help
+                their team be more efficient. We created Keep with these
+                scenarios in mind.
+              </p>
+              <p>Keep does a few neat things we haven’t seen elsewhere:</p>
+              <p>
+                1. Provides intelligent suggestions: if Keep is confident, it’ll
+                create a draft answer and tell you the sources it used. If the
+                ticket is long, it’ll summarize the conversation so far and
+                outline the remaining to-dos. All automatic and contextual to
+                the ticket.
+              </p>
+              <p>
+                2. Is fully conversational: ask for clarifications, revise draft
+                answers, and iterate as needed.
+              </p>
+              <p>
+                3. Uses ‘Generative UI’: suggestions are rendered as glanceable,
+                interactive UI components. For example, a draft answer has
+                buttons like “Shorten” &amp; “Concise” that prompt the AI to
+                revise the answer. UI components are interweaved within normal
+                text.
+              </p>
+              <p>
+                4. Turns tickets into FAQs: can generate an FAQ from a closed
+                ticket and lets you iterate on it and save it when done.
+              </p>
+              <p>
+                5. Leverages many content types: uses your docs, help center,
+                previous support tickets, Slack threads, etc.
+              </p>
+              <p>
+                We were inspired by tools like Cursor, Claude Artifacts, and v0.
+                These experiences go beyond plain-text conversations by
+                interweaving interactive code blocks or UI previews into their
+                answers. This makes answers digestible and intuitive (and fun)
+                to iterate on.
+              </p>
+              <p>
+                Some technical details, for those interested: We use the Vercel
+                AI SDK to optimistically stream the React components by using
+                our Chat APIs, which are powered by Claude Sonnet 3.5 and our
+                RAG service. Our APIs follow the OpenAI chat completion format
+                so are generally compatible with any LLM tooling. Our
+                `inkeep-qa` API generates draft answers and the `inkeep-context`
+                API generates structured outputs and tool calls (docs:
+                go.inkeep.com/ai-api). For an example of how these APIs are
+                used, check out our Intelligent Support Form example (demo:
+                try.inkeep.com/ai-form, repo: quickstart.inkeep.com/ai-form).
+              </p>
+              <p>
+                If you want to try Inkeep on your product's content, just fill
+                out the form in our landing page. You’ll get a demo in your
+                inbox powered by your public content — NO “call us”, “book a
+                demo”, or “schedule a meeting” required. Note: we do check that
+                your email domain matches your content to prevent spam.
+              </p>
+              <p>
+                Curious to hear about your experiences when working with
+                customer/support questions and any ideas on how else the copilot
+                could be useful for those scenarios.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="41697064">
           <h3>
             <a
@@ -157,30 +260,11 @@
             <h4>
               <span>2024-09-30 @ 13:48:03</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41697032"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41696560">
-          <h3>
-            <a class="item" href="https://afewthingz.com/browserbookmark"
-              >Browser built-in bookmarking system is good enough (2024)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-30 @ 12:51:44</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41696560"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -198,11 +282,11 @@
             <h4>
               <span>2024-09-30 @ 12:34:46</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41696434"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -219,7 +303,7 @@
             <h4>
               <span>2024-09-30 @ 12:06:55</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41696236"
                   >Comments</a
@@ -240,7 +324,7 @@
             <h4>
               <span>2024-09-30 @ 11:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41696046"
                   >Comments</a
@@ -259,11 +343,11 @@
             <h4>
               <span>2024-09-30 @ 11:15:36</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41695840"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -281,11 +365,11 @@
             <h4>
               <span>2024-09-30 @ 11:03:10</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41695756"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -379,7 +463,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41695076"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -398,7 +482,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41694712"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -415,11 +499,11 @@
             <h4>
               <span>2024-09-30 @ 07:35:01</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41694504"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -432,11 +516,11 @@
             <h4>
               <span>2024-09-30 @ 06:09:53</span
               ><span class="points-container"
-                >Points: <span class="points">352</span></span
+                >Points: <span class="points">385</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41694044"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -457,7 +541,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41694025"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -474,7 +558,7 @@
             <h4>
               <span>2024-09-30 @ 05:55:51</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41693979"
                   >Comments</a
@@ -496,11 +580,11 @@
             <h4>
               <span>2024-09-30 @ 02:58:02</span
               ><span class="points-container"
-                >Points: <span class="points">631</span></span
+                >Points: <span class="points">637</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41693087"
                   >Comments</a
-                ><span class="descendants">: 311</span></span
+                ><span class="descendants">: 318</span></span
               >
             </h4>
           </section>
@@ -515,11 +599,11 @@
             <h4>
               <span>2024-09-29 @ 22:55:34</span
               ><span class="points-container"
-                >Points: <span class="points">346</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41691577"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 253</span></span
               >
             </h4>
           </section>
@@ -536,11 +620,11 @@
             <h4>
               <span>2024-09-29 @ 22:49:26</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41691530"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -557,11 +641,11 @@
             <h4>
               <span>2024-09-29 @ 20:43:32</span
               ><span class="points-container"
-                >Points: <span class="points">598</span></span
+                >Points: <span class="points">604</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41690302"
                   >Comments</a
-                ><span class="descendants">: 342</span></span
+                ><span class="descendants">: 348</span></span
               >
             </h4>
           </section>
@@ -576,11 +660,11 @@
             <h4>
               <span>2024-09-29 @ 20:16:40</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">291</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41690087"
                   >Comments</a
-                ><span class="descendants">: 797</span></span
+                ><span class="descendants">: 804</span></span
               >
             </h4>
             <div class="text">
@@ -600,7 +684,7 @@
             <h4>
               <span>2024-09-29 @ 18:28:26</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41689332"
                   >Comments</a
@@ -645,7 +729,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41689138"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 181</span></span
               >
             </h4>
           </section>
@@ -660,11 +744,11 @@
             <h4>
               <span>2024-09-29 @ 16:29:36</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">270</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41688469"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -679,11 +763,11 @@
             <h4>
               <span>2024-09-29 @ 15:27:54</span
               ><span class="points-container"
-                >Points: <span class="points">256</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41688018"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -698,7 +782,7 @@
             <h4>
               <span>2024-09-29 @ 14:42:07</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41687739"
                   >Comments</a
@@ -719,11 +803,11 @@
             <h4>
               <span>2024-09-29 @ 11:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41686722"
                   >Comments</a
-                ><span class="descendants">: 268</span></span
+                ><span class="descendants">: 269</span></span
               >
             </h4>
           </section>
@@ -740,7 +824,7 @@
             <h4>
               <span>2024-09-27 @ 12:41:49</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41669747"
                   >Comments</a
@@ -765,7 +849,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41668896"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -782,11 +866,11 @@
             <h4>
               <span>2024-09-27 @ 04:31:27</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41666269"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -801,11 +885,11 @@
             <h4>
               <span>2024-09-25 @ 12:43:31</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41646782"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
