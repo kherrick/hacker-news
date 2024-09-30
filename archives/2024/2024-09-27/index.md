@@ -32,6 +32,7 @@
 * [2024-09-27, 15:30:35](https://news.ycombinator.com/item?id=41671719) - [Build a No-Fuss Particle Detector](https://spectrum.ieee.org/diy-handheld-radiation-detector)
 * [2024-09-27, 15:29:10](https://news.ycombinator.com/item?id=41671690) - [Minix 3](https://www.minix3.org/)
 * [2024-09-27, 15:24:13](https://news.ycombinator.com/item?id=41671606) - [Show HN: Quadratic – native JavaScript support in a spreadsheet](https://www.quadratichq.com/javascript)
+* [2024-09-27, 15:20:41](https://news.ycombinator.com/item?id=41671562) - [The Fight to Save Chile's Glorious White Strawberry](https://www.atlasobscura.com/articles/white-strawberry)
 * [2024-09-27, 15:19:21](https://news.ycombinator.com/item?id=41671548) - [Just stop oil protesters sentenced 2years for throwing soup on Van Gogh painting](https://juststopoil.org/2024/09/27/sent-down-for-throwing-soup-judge-hehir-turns-state-repression-into-an-art-form/)
 * [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 15:08:22](https://news.ycombinator.com/item?id=41671406) - [Israel concealed explosives inside batteries of pagers, Lebanese officials say](https://www.cnn.com/2024/09/27/middleeast/israel-pager-attack-hezbollah-lebanon-invs-intl/index.html)
