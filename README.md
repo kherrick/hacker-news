@@ -25,9 +25,9 @@
 * [2024-09-29, 06:17:54](https://news.ycombinator.com/item?id=41685296) - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
 * [2024-09-28, 02:15:05](https://news.ycombinator.com/item?id=41677352) - [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
 * [2024-09-27, 17:23:40](https://news.ycombinator.com/item?id=41673242) - [Prep: Golang Comptime](https://github.com/pijng/prep)
-* [2024-09-27, 15:30:35](https://news.ycombinator.com/item?id=41671719) - [Build a No-Fuss Particle Detector](https://spectrum.ieee.org/diy-handheld-radiation-detector)
 * [2024-09-25, 23:09:39](https://news.ycombinator.com/item?id=41652823) - [Word-initial consonants are systematically lengthened across diverse languages](https://phys.org/news/2024-09-word-consonants-systematically-lengthened-diverse.html)
 * [2024-09-25, 13:00:42](https://news.ycombinator.com/item?id=41646978) - [Hunting for Gems: How Ruby's package management system evolved](https://www.railsexplained.com/pages/hunting-for-gems/)
+* [2024-09-25, 12:43:31](https://news.ycombinator.com/item?id=41646782) - [Awala: The computer network on which humankind can rely](https://awala.network/)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 * [2024-09-25, 06:56:22](https://news.ycombinator.com/item?id=41644451) - [Go and my realization about what I'll call the 'Promises' pattern](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern)
 
