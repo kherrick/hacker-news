@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 16:18:15](https://news.ycombinator.com/item?id=41698907) - [A Burrito Is a Monad](http://williamcotton.com/articles/a-burrito-is-a-monad)
+* [2024-09-30, 16:11:52](https://news.ycombinator.com/item?id=41698823) - [The Rat Studies That Foretold a Nightmarish Human Future](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
 * [2024-09-30, 15:49:17](https://news.ycombinator.com/item?id=41698551) - [Dikembe Mutombo has died at age 58](https://www.nytimes.com/2024/09/30/sports/dikembe-mutombo-dead.html)
 * [2024-09-30, 15:33:30](https://news.ycombinator.com/item?id=41698361) - [Liquid Foundation Models: Our First Series of Generative AI Models](https://www.liquid.ai/liquid-foundation-models)
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor for Help Desks)](https://news.ycombinator.com/item?id=41697137)
