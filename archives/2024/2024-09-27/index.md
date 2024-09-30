@@ -57,6 +57,7 @@
 * [2024-09-27, 12:54:55](https://news.ycombinator.com/item?id=41669850) - [Raft: Understandable Distributed Consensus](https://thesecretlivesofdata.com/raft/)
 * [2024-09-27, 12:53:15](https://news.ycombinator.com/item?id=41669840) - [Collaborative Text Editing with e.g.-Walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-27, 12:50:33](https://news.ycombinator.com/item?id=41669820) - [HP injects AI into its printers](https://www.ghacks.net/2024/09/27/print-ai-hp-injects-ai-into-its-printers/)
+* [2024-09-27, 12:41:49](https://news.ycombinator.com/item?id=41669747) - [The Physics of Colliding Balls](https://vanhunteradams.com/Pico/Galton/Collisions.html)
 * [2024-09-27, 12:16:09](https://news.ycombinator.com/item?id=41669522) - [LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://arxiv.org/abs/2409.11424)
 * [2024-09-27, 12:05:02](https://news.ycombinator.com/item?id=41669401) - [1000s of Toxins from food packaging found in humans – research](https://www.theguardian.com/us-news/2024/sep/27/pfas-toxins-chemicals-human-body)
 * [2024-09-27, 12:01:12](https://news.ycombinator.com/item?id=41669360) - [Handwritten Magazine Without Generative AI](https://flyingcarcomputer.com/posts/handwritten-newspaper/)
