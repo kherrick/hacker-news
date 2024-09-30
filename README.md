@@ -21,7 +21,7 @@
 * [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
 * [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
 * [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
-* [2024-09-29, 13:16:21](https://news.ycombinator.com/item?id=41687176) - [When To Do What You Love](https://paulgraham.com/when.html)
+* [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [A Bendy RISC-V Processor](https://spectrum.ieee.org/flexible-risc-v)
 * [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 * [2024-09-28, 11:15:02](https://news.ycombinator.com/item?id=41679497) - [Is English a “creole Language”?](https://languagelog.ldc.upenn.edu/nll/?p=66229)
 * [2024-09-27, 12:41:49](https://news.ycombinator.com/item?id=41669747) - [The Physics of Colliding Balls](https://vanhunteradams.com/Pico/Galton/Collisions.html)
