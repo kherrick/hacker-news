@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 20:42:41](https://news.ycombinator.com/item?id=41701862) - [Spruce Pine, NC got hit by Helene. It could disrupt the tech industry](https://www.npr.org/2024/09/30/nx-s1-5133462/hurricane-helene-quartz-microchips-solar-panels-spruce-pine)
 * [2024-09-30, 20:37:47](https://news.ycombinator.com/item?id=41701820) - ['Doomsday' glacier set to melt faster and swell seas as world heats up](https://phys.org/news/2024-09-doomsday-glacier-faster-seas-world.html)
 * [2024-09-30, 19:58:34](https://news.ycombinator.com/item?id=41701398) - [Mazda's $10 Subscription for Remote Start Sparks Backlash](https://www.carscoops.com/2024/09/mazdas-remote-start-subscription-draws-ire-of-noted-right-to-repair-advocate/)
 * [2024-09-30, 19:45:58](https://news.ycombinator.com/item?id=41701265) - [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)
 * [2024-09-30, 19:41:50](https://news.ycombinator.com/item?id=41701219) - [Pooltool: General purpose billiards simulator for science and engineering](https://github.com/ekiefl/pooltool)
 * [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 * [2024-09-30, 19:21:57](https://news.ycombinator.com/item?id=41700989) - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
+* [2024-09-30, 19:03:41](https://news.ycombinator.com/item?id=41700766) - [Burning and Playing PS2 Games Without a Modded Console](https://btxx.org/posts/ps2-games/)
 * [2024-09-30, 18:42:09](https://news.ycombinator.com/item?id=41700517) - [Product Hunt isn't dying, it's becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 * [2024-09-30, 18:39:50](https://news.ycombinator.com/item?id=41700496) - [Apple No Longer in Talks to Invest in ChatGPT Maker OpenAI](https://www.macrumors.com/2024/09/30/apple-no-longer-investing-openai-chatgpt/)
