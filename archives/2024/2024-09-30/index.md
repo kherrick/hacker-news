@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
 * [2024-09-30, 06:06:39](https://news.ycombinator.com/item?id=41694025) - [David Brin – The Dogma of Otherness](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
 * [2024-09-30, 05:55:51](https://news.ycombinator.com/item?id=41693979) - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
 * [2024-09-30, 04:16:49](https://news.ycombinator.com/item?id=41693513) - [Foraging for America's Forgotten Fruit](https://www.atlasobscura.com/articles/how-to-forage-for-pawpaw-recipes)

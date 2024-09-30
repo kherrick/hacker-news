@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
 * [2024-09-30, 06:06:39](https://news.ycombinator.com/item?id=41694025) - [David Brin – The Dogma of Otherness](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
 * [2024-09-30, 05:55:51](https://news.ycombinator.com/item?id=41693979) - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
 * [2024-09-30, 04:16:49](https://news.ycombinator.com/item?id=41693513) - [Foraging for America's Forgotten Fruit](https://www.atlasobscura.com/articles/how-to-forage-for-pawpaw-recipes)
@@ -11,7 +12,6 @@
 * [2024-09-29, 22:30:10](https://news.ycombinator.com/item?id=41691364) - [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
 * [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
-* [2024-09-29, 19:37:29](https://news.ycombinator.com/item?id=41689794) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 18:45:15](https://news.ycombinator.com/item?id=41689449) - [Ruby Meetups](https://rubyconferences.org/meetups/)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
 * [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
