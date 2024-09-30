@@ -59,6 +59,7 @@
 * [2024-09-27, 12:16:09](https://news.ycombinator.com/item?id=41669522) - [LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://arxiv.org/abs/2409.11424)
 * [2024-09-27, 12:05:02](https://news.ycombinator.com/item?id=41669401) - [1000s of Toxins from food packaging found in humans – research](https://www.theguardian.com/us-news/2024/sep/27/pfas-toxins-chemicals-human-body)
 * [2024-09-27, 11:55:17](https://news.ycombinator.com/item?id=41669306) - [CouchDB 3.4.1 Released](https://blog.couchdb.org/2024/09/27/3-4-1/)
+* [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-27, 11:04:09](https://news.ycombinator.com/item?id=41668852) - [Turning OpenAI into a Real Business Is Tearing It Apart](https://www.wsj.com/tech/ai/open-ai-division-for-profit-da26c24b)
 * [2024-09-27, 11:01:26](https://news.ycombinator.com/item?id=41668824) - [TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
 * [2024-09-27, 10:37:14](https://news.ycombinator.com/item?id=41668622) - [You're probably not vulnerable to the CUPS CVE](https://xeiaso.net/notes/2024/cups-cve/)
