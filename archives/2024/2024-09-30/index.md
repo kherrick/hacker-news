@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 19:45:58](https://news.ycombinator.com/item?id=41701265) - [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)
 * [2024-09-30, 19:41:50](https://news.ycombinator.com/item?id=41701219) - [Pooltool: General purpose billiards simulator for science and engineering](https://github.com/ekiefl/pooltool)
+* [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
+* [2024-09-30, 19:21:57](https://news.ycombinator.com/item?id=41700989) - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
 * [2024-09-30, 18:42:09](https://news.ycombinator.com/item?id=41700517) - [Product Hunt isn't dying, it's becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 * [2024-09-30, 18:39:50](https://news.ycombinator.com/item?id=41700496) - [Apple No Longer in Talks to Invest in ChatGPT Maker OpenAI](https://www.macrumors.com/2024/09/30/apple-no-longer-investing-openai-chatgpt/)
