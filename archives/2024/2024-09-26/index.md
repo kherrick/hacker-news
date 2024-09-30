@@ -83,3 +83,4 @@
 * [2024-09-26, 01:33:19](https://news.ycombinator.com/item?id=41653641) - [Ugly Wallpapers – Early 2000s style](https://wallpapers.branding5.com/)
 * [2024-09-26, 01:26:05](https://news.ycombinator.com/item?id=41653592) - [OpenAI Discusses Giving Altman 7% Stake in For-Profit Shift](https://www.bloomberg.com/news/articles/2024-09-25/openai-cto-mira-murati-says-she-will-leave-the-company)
 * [2024-09-26, 00:12:53](https://news.ycombinator.com/item?id=41653191) - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
+* [2024-09-26, 00:04:10](https://news.ycombinator.com/item?id=41653148) - [Paramotorists soar across remote Peru desert to collect threatened plants](https://phys.org/news/2024-09-extreme-botany-paramotorists-soar-remote.html)
