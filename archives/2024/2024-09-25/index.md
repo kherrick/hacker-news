@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
 * [2024-09-25, 23:42:26](https://news.ycombinator.com/item?id=41653027) - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
+* [2024-09-25, 23:25:14](https://news.ycombinator.com/item?id=41652935) - [The Paradox of the Distance Runner](https://newrepublic.com/article/185452/paradox-distance-runner-women-books)
 * [2024-09-25, 23:19:57](https://news.ycombinator.com/item?id=41652901) - [Cheese Stood Alone for 3,600 Years](https://www.nytimes.com/2024/09/25/science/oldest-cheese-kefir-xinjiang.html)
 * [2024-09-25, 23:12:08](https://news.ycombinator.com/item?id=41652843) - [New Zealand scientists discover ghostly 'spookfish'](https://phys.org/news/2024-09-zealand-scientists-ghostly-spookfish.html)
 * [2024-09-25, 23:09:39](https://news.ycombinator.com/item?id=41652823) - [Word-initial consonants are systematically lengthened across diverse languages](https://phys.org/news/2024-09-word-consonants-systematically-lengthened-diverse.html)

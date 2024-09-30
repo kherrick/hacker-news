@@ -20,7 +20,6 @@
 * [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
-* [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
 * [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
 * [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
@@ -29,6 +28,7 @@
 * [2024-09-27, 12:41:49](https://news.ycombinator.com/item?id=41669747) - [The Physics of Colliding Balls](https://vanhunteradams.com/Pico/Galton/Collisions.html)
 * [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-27, 04:31:27](https://news.ycombinator.com/item?id=41666269) - [Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
+* [2024-09-25, 23:25:14](https://news.ycombinator.com/item?id=41652935) - [The Paradox of the Distance Runner](https://newrepublic.com/article/185452/paradox-distance-runner-women-books)
 * [2024-09-25, 12:43:31](https://news.ycombinator.com/item?id=41646782) - [Awala: The computer network on which humankind can rely](https://awala.network/)
 
 ## [Archives](archives/index.md)
