@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-30, 02:58:02](https://news.ycombinator.com/item?id=41693087) - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
-* [2024-09-30, 02:40:44](https://news.ycombinator.com/item?id=41693001) - [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
+* [2024-09-30, 02:26:46](https://news.ycombinator.com/item?id=41692922) - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 * [2024-09-29, 23:54:06](https://news.ycombinator.com/item?id=41692000) - [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
 * [2024-09-29, 22:55:34](https://news.ycombinator.com/item?id=41691577) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 * [2024-09-29, 22:49:26](https://news.ycombinator.com/item?id=41691530) - [Kris Kristofferson has died](https://www.rollingstone.com/music/music-country/kris-kristofferson-dead-1107074/)
