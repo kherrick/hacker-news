@@ -88,6 +88,7 @@
 * [2024-09-25, 07:38:53](https://news.ycombinator.com/item?id=41644731) - [Dethrace: Reverse engineering the 1997 game \"Carmageddon\" (2023)](https://github.com/dethrace-labs/dethrace)
 * [2024-09-25, 07:28:44](https://news.ycombinator.com/item?id=41644641) - [Build your own AutoFix with Patchwork](https://www.patched.codes/blog/build-your-own-autofix-with-patchwork)
 * [2024-09-25, 07:26:13](https://news.ycombinator.com/item?id=41644620) - [Explore Music Non-Linearly](https://midinous.com/)
+* [2024-09-25, 06:56:22](https://news.ycombinator.com/item?id=41644451) - [Go and my realization about what I'll call the 'Promises' pattern](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern)
 * [2024-09-25, 06:33:53](https://news.ycombinator.com/item?id=41644315) - [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
 * [2024-09-25, 06:25:25](https://news.ycombinator.com/item?id=41644267) - [Holy Hell, the Social Web Did Not Begin in 2008](https://bix.blog/posts/holy-hell-the-social-web-did-not-begin-in-2008)
 * [2024-09-25, 05:52:03](https://news.ycombinator.com/item?id=41644086) - [Reading texts on paper versus computer screen: Effects on reading comprehension [pdf]](http://clikmedia.ca/LMM/sites/default/files/pdf/mangen_2012_lecture_sur_ecran_lecture_papier_comprehension.pdf)

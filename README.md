@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 02:40:44](https://news.ycombinator.com/item?id=41693001) - [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
 * [2024-09-30, 00:52:01](https://news.ycombinator.com/item?id=41692310) - [Angry Amazon employees are 'rage applying' for new jobs after RTO mandate](https://fortune.com/2024/09/29/amazon-employees-angry-andy-jassy-rto-mandate/)
-* [2024-09-29, 23:54:06](https://news.ycombinator.com/item?id=41692000) - [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
-* [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI Companies Work?](https://benn.substack.com/p/do-ai-companies-work)
-* [2024-09-29, 22:59:33](https://news.ycombinator.com/item?id=41691613) - [96% of climate policy since 1998 failed](https://www.alumni.ox.ac.uk/article/96-of-climate-policy-since-1998-failed)
 * [2024-09-29, 22:55:34](https://news.ycombinator.com/item?id=41691577) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
+* [2024-09-29, 22:49:26](https://news.ycombinator.com/item?id=41691530) - [Kris Kristofferson has died](https://www.rollingstone.com/music/music-country/kris-kristofferson-dead-1107074/)
 * [2024-09-29, 22:30:10](https://news.ycombinator.com/item?id=41691364) - [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
 * [2024-09-29, 21:15:24](https://news.ycombinator.com/item?id=41690667) - [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
-* [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
+* [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)
 * [2024-09-29, 20:16:40](https://news.ycombinator.com/item?id=41690087) - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
 * [2024-09-29, 19:37:29](https://news.ycombinator.com/item?id=41689794) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 18:45:15](https://news.ycombinator.com/item?id=41689449) - [Ruby Meetups](https://rubyconferences.org/meetups/)
@@ -30,6 +29,7 @@
 * [2024-09-25, 13:00:42](https://news.ycombinator.com/item?id=41646978) - [Hunting for Gems: How Ruby's package management system evolved](https://www.railsexplained.com/pages/hunting-for-gems/)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 * [2024-09-25, 10:35:38](https://news.ycombinator.com/item?id=41645822) - [JabRef – Literature Management](https://www.jabref.org/)
+* [2024-09-25, 06:56:22](https://news.ycombinator.com/item?id=41644451) - [Go and my realization about what I'll call the 'Promises' pattern](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern)
 
 ## [Archives](archives/index.md)
 
