@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-09-30, 13:50:48](https://news.ycombinator.com/item?id=41697064) - [Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
+* [2024-09-30, 13:48:03](https://news.ycombinator.com/item?id=41697032) - [Y Combinator Traded Prestige for Growth](https://unfashionable.blog/p/yc/)
 * [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [Browser built-in bookmarking system is good enough (2024)](https://afewthingz.com/browserbookmark)
 * [2024-09-30, 12:34:46](https://news.ycombinator.com/item?id=41696434) - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
 * [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-09-30, 11:15:36](https://news.ycombinator.com/item?id=41695840) - [Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
+* [2024-09-30, 11:03:10](https://news.ycombinator.com/item?id=41695756) - [Show HN: A macOS app to prevent sound quality degradation on AirPods](https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12)
 * [2024-09-30, 09:11:26](https://news.ycombinator.com/item?id=41695076) - [The True Weight of Medieval Weapons – Fact and Fiction](https://warfantasy.wordpress.com/2024/09/29/the-true-weight-of-medieval-weapons-fact-and-fiction/)
 * [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
 * [2024-09-30, 07:35:01](https://news.ycombinator.com/item?id=41694504) - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
@@ -24,12 +26,10 @@
 * [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
 * [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [A Bendy RISC-V Processor](https://spectrum.ieee.org/flexible-risc-v)
 * [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
-* [2024-09-29, 06:17:54](https://news.ycombinator.com/item?id=41685296) - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
 * [2024-09-27, 12:41:49](https://news.ycombinator.com/item?id=41669747) - [The Physics of Colliding Balls](https://vanhunteradams.com/Pico/Galton/Collisions.html)
 * [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-27, 04:31:27](https://news.ycombinator.com/item?id=41666269) - [Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
 * [2024-09-25, 12:43:31](https://news.ycombinator.com/item?id=41646782) - [Awala: The computer network on which humankind can rely](https://awala.network/)
-* [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 
 ## [Archives](archives/index.md)
 

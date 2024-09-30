@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
 * [2024-09-30, 13:50:48](https://news.ycombinator.com/item?id=41697064) - [Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
+* [2024-09-30, 13:48:03](https://news.ycombinator.com/item?id=41697032) - [Y Combinator Traded Prestige for Growth](https://unfashionable.blog/p/yc/)
 * [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [Browser built-in bookmarking system is good enough (2024)](https://afewthingz.com/browserbookmark)
 * [2024-09-30, 12:34:46](https://news.ycombinator.com/item?id=41696434) - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
 * [2024-09-30, 12:30:03](https://news.ycombinator.com/item?id=41696402) - [Distinct movement cluster evident on Carola bridge in Dresden prior to collapse](https://www.newcivilengineer.com/latest/distinct-movement-cluster-evident-on-carola-bridge-in-dresden-prior-to-its-collapse-research-finds-17-09-2024/)
@@ -12,6 +13,7 @@
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-09-30, 11:18:19](https://news.ycombinator.com/item?id=41695861) - [OpenSign](https://www.opensignlabs.com)
 * [2024-09-30, 11:15:36](https://news.ycombinator.com/item?id=41695840) - [Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
+* [2024-09-30, 11:03:10](https://news.ycombinator.com/item?id=41695756) - [Show HN: A macOS app to prevent sound quality degradation on AirPods](https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12)
 * [2024-09-30, 10:41:35](https://news.ycombinator.com/item?id=41695630) - [A guide to working remote and not paying rent](https://ghuntley.com/freecamping/)
 * [2024-09-30, 10:34:54](https://news.ycombinator.com/item?id=41695587) - [UK to finish with coal power after 142 years](https://www.bbc.co.uk/news/articles/c5y35qz73n8o)
 * [2024-09-30, 09:50:21](https://news.ycombinator.com/item?id=41695327) - [Exxon Mobil's 'Advanced' Technique for Recycling Plastic? Burning It](https://www.yahoo.com/news/exxon-mobil-says-advanced-recycling-100018708.html)
