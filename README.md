@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 17:13:33](https://news.ycombinator.com/item?id=41699584) - [Hartford Public High School grad can't read](https://ctmirror.org/2024/09/29/cant-read-high-school-ct-hartford/)
 * [2024-09-30, 17:00:48](https://news.ycombinator.com/item?id=41699441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-09-30, 16:26:13](https://news.ycombinator.com/item?id=41698995) - [Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * [2024-09-30, 16:11:52](https://news.ycombinator.com/item?id=41698823) - [The Rat Studies That Foretold a Nightmarish Human Future](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
@@ -19,7 +20,6 @@
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
 * [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
-* [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
 * [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
 * [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
 * [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)

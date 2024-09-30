@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 17:13:33](https://news.ycombinator.com/item?id=41699584) - [Hartford Public High School grad can't read](https://ctmirror.org/2024/09/29/cant-read-high-school-ct-hartford/)
 * [2024-09-30, 17:00:48](https://news.ycombinator.com/item?id=41699441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-09-30, 16:26:13](https://news.ycombinator.com/item?id=41698995) - [Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * [2024-09-30, 16:25:34](https://news.ycombinator.com/item?id=41698988) - [Convince Frodo to give you the ring](https://darkfrodo.com/check)
