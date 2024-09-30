@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-09-29, 21:28:21",
-      "https://news.ycombinator.com/item?id=41690804"
+      "2024-09-29, 23:54:06",
+      "https://news.ycombinator.com/item?id=41692000"
     ],
     [
-      "Open-Source Flipper Zero Firmware: Unlock Your Device's Full Potential",
-      "https://github.com/flipperdevices/flipperzero-firmware"
+      "The Teacher Who Made Mistakes on Purpose",
+      "https://nik.art/the-teacher-who-made-mistakes-on-purpose/"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 23:44:57",
+      "https://news.ycombinator.com/item?id=41691943"
+    ],
+    [
+      "Do AI Companies Work?",
+      "https://benn.substack.com/p/do-ai-companies-work"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 22:59:33",
+      "https://news.ycombinator.com/item?id=41691613"
+    ],
+    [
+      "96% of climate policy since 1998 failed",
+      "https://www.alumni.ox.ac.uk/article/96-of-climate-policy-since-1998-failed"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)",
       "https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 19:33:42",
-      "https://news.ycombinator.com/item?id=41689763"
-    ],
-    [
-      "Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5",
-      "https://www.phoronix.com/review/linux-612-features#google_vignette"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-09-29, 15:38:27",
-      "https://news.ycombinator.com/item?id=41688080"
-    ],
-    [
-      "FTC Report Confirms: Commercial Surveillance Is Out of Control",
-      "https://www.eff.org/deeplinks/2024/09/ftc-report-confirms-commercial-surveillance-out-control"
-    ]
-  ],
-  [
-    [
       "2024-09-29, 15:27:54",
       "https://news.ycombinator.com/item?id=41688018"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-09-29, 07:52:59",
-      "https://news.ycombinator.com/item?id=41685642"
-    ],
-    [
-      "Text2CAD: Generating sequential cad designs from text prompts",
-      "https://sadilkhan.github.io/text2cad-project/"
-    ]
-  ],
-  [
-    [
       "2024-09-29, 06:17:54",
       "https://news.ycombinator.com/item?id=41685296"
     ],
@@ -297,6 +287,16 @@
     [
       "Being Raised by the Internet",
       "https://jimmyhmiller.github.io/raised"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 10:35:38",
+      "https://news.ycombinator.com/item?id=41645822"
+    ],
+    [
+      "JabRef – Literature Management",
+      "https://www.jabref.org/"
     ]
   ]
 ]
