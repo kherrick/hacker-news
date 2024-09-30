@@ -47,6 +47,7 @@
 * [2024-09-28, 12:12:33](https://news.ycombinator.com/item?id=41679748) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-28, 12:01:58](https://news.ycombinator.com/item?id=41679705) - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
 * [2024-09-28, 11:36:04](https://news.ycombinator.com/item?id=41679569) - [Show HN: Bringing multithreading to Python's async event loop](https://github.com/NeilBotelho/turboAsync)
+* [2024-09-28, 11:15:02](https://news.ycombinator.com/item?id=41679497) - [Is English a \"Creole Language\"?](https://languagelog.ldc.upenn.edu/nll/?p=66229)
 * [2024-09-28, 11:10:56](https://news.ycombinator.com/item?id=41679471) - [MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
 * [2024-09-28, 09:56:46](https://news.ycombinator.com/item?id=41679185) - [Hyundai Faces New Theft Threat from \"Game Boy\" Hack](https://headlight.news/2024/07/08/hyundai-faces-new-theft-threat-from-game-boy-hack/)
 * [2024-09-28, 09:14:02](https://news.ycombinator.com/item?id=41679019) - [Exponential growth brews 1M AI models on Hugging Face](https://arstechnica.com/information-technology/2024/09/ai-hosting-platform-surpasses-1-million-models-for-the-first-time/)

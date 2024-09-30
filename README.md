@@ -23,7 +23,7 @@
 * [2024-09-29, 14:36:23](https://news.ycombinator.com/item?id=41687707) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-29, 13:51:19](https://news.ycombinator.com/item?id=41687413) - [Varlink – IPC to replace D-Bus gradually in systemd](https://varlink.org/)
 * [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
-* [2024-09-29, 08:35:40](https://news.ycombinator.com/item?id=41685824) - [Alan Kay on Messaging (1998)](http://wiki.c2.com/?AlanKayOnMessaging)
+* [2024-09-28, 11:15:02](https://news.ycombinator.com/item?id=41679497) - [Is English a \"Creole Language\"?](https://languagelog.ldc.upenn.edu/nll/?p=66229)
 * [2024-09-27, 17:23:40](https://news.ycombinator.com/item?id=41673242) - [Prep: Golang Comptime](https://github.com/pijng/prep)
 * [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-25, 13:00:42](https://news.ycombinator.com/item?id=41646978) - [Hunting for Gems: How Ruby's package management system evolved](https://www.railsexplained.com/pages/hunting-for-gems/)
