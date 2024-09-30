@@ -58,6 +58,7 @@
 * [2024-09-27, 12:50:33](https://news.ycombinator.com/item?id=41669820) - [HP injects AI into its printers](https://www.ghacks.net/2024/09/27/print-ai-hp-injects-ai-into-its-printers/)
 * [2024-09-27, 12:16:09](https://news.ycombinator.com/item?id=41669522) - [LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://arxiv.org/abs/2409.11424)
 * [2024-09-27, 12:05:02](https://news.ycombinator.com/item?id=41669401) - [1000s of Toxins from food packaging found in humans – research](https://www.theguardian.com/us-news/2024/sep/27/pfas-toxins-chemicals-human-body)
+* [2024-09-27, 12:01:12](https://news.ycombinator.com/item?id=41669360) - [Handwritten Magazine Without Generative AI](https://flyingcarcomputer.com/posts/handwritten-newspaper/)
 * [2024-09-27, 11:55:17](https://news.ycombinator.com/item?id=41669306) - [CouchDB 3.4.1 Released](https://blog.couchdb.org/2024/09/27/3-4-1/)
 * [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-27, 11:04:09](https://news.ycombinator.com/item?id=41668852) - [Turning OpenAI into a Real Business Is Tearing It Apart](https://www.wsj.com/tech/ai/open-ai-division-for-profit-da26c24b)
