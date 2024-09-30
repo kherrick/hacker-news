@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor for Help Desks)](https://news.ycombinator.com/item?id=41697137)
 * [2024-09-30, 13:50:48](https://news.ycombinator.com/item?id=41697064) - [Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
 * [2024-09-30, 13:48:03](https://news.ycombinator.com/item?id=41697032) - [Y Combinator Traded Prestige for Growth](https://unfashionable.blog/p/yc/)
-* [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [Browser built-in bookmarking system is good enough (2024)](https://afewthingz.com/browserbookmark)
 * [2024-09-30, 12:34:46](https://news.ycombinator.com/item?id=41696434) - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
 * [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
