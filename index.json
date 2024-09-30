@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-09-30, 19:45:58",
+      "https://news.ycombinator.com/item?id=41701265"
+    ],
+    [
+      "Pear AI founder: We made two big mistakes",
+      "https://twitter.com/CodeFryingPan/status/1840831339337302204"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 19:41:50",
       "https://news.ycombinator.com/item?id=41701219"
     ],
     [
-      "Pooltool: General purpose billiards simulator for science and engineering",
+      "Pooltool: A sandbox billiards game that emphasizes realistic physics",
       "https://github.com/ekiefl/pooltool"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 19:36:54",
+      "https://news.ycombinator.com/item?id=41701156"
+    ],
+    [
+      "MusicBrainz: An open music encyclopedia",
+      "https://musicbrainz.org/"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 19:21:57",
+      "https://news.ycombinator.com/item?id=41700989"
+    ],
+    [
+      "Deep Learning with Jax",
+      "https://www.manning.com/books/deep-learning-with-jax"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2024-09-30, 17:00:48",
-      "https://news.ycombinator.com/item?id=41699441"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 16:51:48",
       "https://news.ycombinator.com/item?id=41699323"
     ],
     [
       "Peer Calls: WebRTC peer to peer calls for everyone",
       "https://github.com/peer-calls/peer-calls"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 16:26:13",
-      "https://news.ycombinator.com/item?id=41698995"
-    ],
-    [
-      "Generate pip requirements.txt file based on imports of any project",
-      "https://github.com/bndr/pipreqs"
     ]
   ],
   [
@@ -121,22 +131,22 @@
   ],
   [
     [
+      "2024-09-30, 13:50:48",
+      "https://news.ycombinator.com/item?id=41697064"
+    ],
+    [
+      "Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)",
+      "https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 12:51:44",
       "https://news.ycombinator.com/item?id=41696560"
     ],
     [
       "The best browser bookmarking system is files",
       "https://afewthingz.com/browserbookmark"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 12:34:46",
-      "https://news.ycombinator.com/item?id=41696434"
-    ],
-    [
-      "New research on anesthesia and microtubules gives new clues about consciousness",
-      "https://www.sciencedaily.com/releases/2024/09/240905120923.htm"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The fight to save Chile's white strawberry",
       "https://www.atlasobscura.com/articles/white-strawberry"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 12:41:49",
-      "https://news.ycombinator.com/item?id=41669747"
-    ],
-    [
-      "The Physics of Colliding Balls",
-      "https://vanhunteradams.com/Pico/Galton/Collisions.html"
     ]
   ],
   [
