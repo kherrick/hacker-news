@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 17:00:48](https://news.ycombinator.com/item?id=41699441) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-09-30, 16:26:13](https://news.ycombinator.com/item?id=41698995) - [Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * [2024-09-30, 16:25:34](https://news.ycombinator.com/item?id=41698988) - [Convince Frodo to give you the ring](https://darkfrodo.com/check)
 * [2024-09-30, 16:18:15](https://news.ycombinator.com/item?id=41698907) - [A Burrito Is a Monad](http://williamcotton.com/articles/a-burrito-is-a-monad)
 * [2024-09-30, 16:11:52](https://news.ycombinator.com/item?id=41698823) - [The Rat Studies That Foretold a Nightmarish Human Future](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
