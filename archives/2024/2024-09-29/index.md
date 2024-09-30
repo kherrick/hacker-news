@@ -7,6 +7,8 @@
 * [2024-09-29, 23:54:06](https://news.ycombinator.com/item?id=41692000) - [The Teacher Who Made Mistakes on Purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI Companies Work?](https://benn.substack.com/p/do-ai-companies-work)
 * [2024-09-29, 22:59:33](https://news.ycombinator.com/item?id=41691613) - [96% of climate policy since 1998 failed](https://www.alumni.ox.ac.uk/article/96-of-climate-policy-since-1998-failed)
+* [2024-09-29, 22:55:34](https://news.ycombinator.com/item?id=41691577) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
+* [2024-09-29, 22:30:10](https://news.ycombinator.com/item?id=41691364) - [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
 * [2024-09-29, 21:51:28](https://news.ycombinator.com/item?id=41691018) - [Radarr: Automate Movie Downloads and Management via Usenet and Torrents](https://github.com/Radarr/Radarr)
 * [2024-09-29, 21:28:21](https://news.ycombinator.com/item?id=41690804) - [Open-Source Flipper Zero Firmware: Unlock Your Device's Full Potential](https://github.com/flipperdevices/flipperzero-firmware)
 * [2024-09-29, 21:18:03](https://news.ycombinator.com/item?id=41690701) - [Syncthing: Open-Source Continuous File Sync with Privacy in Mind](https://github.com/syncthing/syncthing)

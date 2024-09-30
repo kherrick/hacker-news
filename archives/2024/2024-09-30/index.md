@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-30](index.md)
+
+* [2024-09-30, 00:52:01](https://news.ycombinator.com/item?id=41692310) - [Angry Amazon employees are 'rage applying' for new jobs after RTO mandate](https://fortune.com/2024/09/29/amazon-employees-angry-andy-jassy-rto-mandate/)

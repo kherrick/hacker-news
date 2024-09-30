@@ -46,6 +46,7 @@
 * [2024-09-25, 13:08:54](https://news.ycombinator.com/item?id=41647072) - [A Brief History of Blockchain Interoperability](https://cacm.acm.org/research/a-brief-history-of-blockchain-interoperability/)
 * [2024-09-25, 13:05:27](https://news.ycombinator.com/item?id=41647025) - [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
 * [2024-09-25, 13:01:47](https://news.ycombinator.com/item?id=41646990) - [Unplanned Exposure During Diving in the Spent Nuclear Fuel Pool](https://isoe-network.net/publications/pub-proceedings/symposia/north-american-tc-symposia/fort-lauderdale-usa-january-2011/slides-14/session-iv-1/1756-ritter2011-ppt/file.html)
+* [2024-09-25, 13:00:42](https://news.ycombinator.com/item?id=41646978) - [Hunting for Gems: How Ruby's package management system evolved](https://www.railsexplained.com/pages/hunting-for-gems/)
 * [2024-09-25, 12:59:41](https://news.ycombinator.com/item?id=41646967) - [As IBM pushes for automation, its AI simply not up to the job of replacing staff](https://www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 * [2024-09-25, 12:31:04](https://news.ycombinator.com/item?id=41646655) - [Mitchell Hashimoto: Zig Writings](https://mitchellh.com/zig)
