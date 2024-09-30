@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 12:34:46](https://news.ycombinator.com/item?id=41696434) - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
+* [2024-09-30, 12:30:03](https://news.ycombinator.com/item?id=41696402) - [Distinct movement cluster evident on Carola bridge in Dresden prior to collapse](https://www.newcivilengineer.com/latest/distinct-movement-cluster-evident-on-carola-bridge-in-dresden-prior-to-its-collapse-research-finds-17-09-2024/)
+* [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
+* [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
+* [2024-09-30, 11:15:36](https://news.ycombinator.com/item?id=41695840) - [Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
 * [2024-09-30, 10:41:35](https://news.ycombinator.com/item?id=41695630) - [A guide to working remote and not paying rent](https://ghuntley.com/freecamping/)
 * [2024-09-30, 10:34:54](https://news.ycombinator.com/item?id=41695587) - [UK to finish with coal power after 142 years](https://www.bbc.co.uk/news/articles/c5y35qz73n8o)
 * [2024-09-30, 09:50:21](https://news.ycombinator.com/item?id=41695327) - [Exxon Mobil's 'Advanced' Technique for Recycling Plastic? Burning It](https://www.yahoo.com/news/exxon-mobil-says-advanced-recycling-100018708.html)
+* [2024-09-30, 09:11:26](https://news.ycombinator.com/item?id=41695076) - [The True Weight of Medieval Weapons – Fact and Fiction](https://warfantasy.wordpress.com/2024/09/29/the-true-weight-of-medieval-weapons-fact-and-fiction/)
 * [2024-09-30, 09:05:37](https://news.ycombinator.com/item?id=41695025) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
 * [2024-09-30, 08:08:51](https://news.ycombinator.com/item?id=41694706) - [Brazilian Suicide Electric Shower Heads [video]](https://www.youtube.com/watch?v=FuQ_AAkkgIg)
