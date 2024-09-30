@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 22:26:49](https://news.ycombinator.com/item?id=41702789) - [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
 * [2024-09-30, 22:01:53](https://news.ycombinator.com/item?id=41702610) - [Germany to Enforce DMA Regulations for All Microsoft Products and Services](https://www.thurrott.com/microsoft/310470/germany-to-enforce-dma-regulations-for-all-microsoft-products-and-services)
 * [2024-09-30, 21:26:05](https://news.ycombinator.com/item?id=41702325) - [US Government interagency sea level rise website is live](https://sealevel.globalchange.gov/)
 * [2024-09-30, 20:42:41](https://news.ycombinator.com/item?id=41701862) - [Spruce Pine, NC got hit by Helene. It could disrupt the tech industry](https://www.npr.org/2024/09/30/nx-s1-5133462/hurricane-helene-quartz-microchips-solar-panels-spruce-pine)

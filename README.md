@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 22:26:49](https://news.ycombinator.com/item?id=41702789) - [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
 * [2024-09-30, 20:20:10](https://news.ycombinator.com/item?id=41701644) - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 * [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 * [2024-09-30, 19:21:57](https://news.ycombinator.com/item?id=41700989) - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
-* [2024-09-30, 18:40:45](https://news.ycombinator.com/item?id=41700504) - [Paperless-ngx: scan, index and archive all your physical documents](https://github.com/paperless-ngx/paperless-ngx)
 * [2024-09-30, 17:47:36](https://news.ycombinator.com/item?id=41699955) - [Show HN: Facad. The ls alternative making terminals cooler than GUIs](https://github.com/yellow-footed-honeyguide/facad)
 * [2024-09-30, 17:26:03](https://news.ycombinator.com/item?id=41699730) - [GnuCash 5.9 Released](https://www.gnucash.org/news.phtml)
 * [2024-09-30, 16:51:48](https://news.ycombinator.com/item?id=41699323) - [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
