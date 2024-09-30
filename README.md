@@ -21,7 +21,7 @@
 * [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
 * [2024-09-30, 07:35:01](https://news.ycombinator.com/item?id=41694504) - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
 * [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
-* [2024-09-30, 05:55:51](https://news.ycombinator.com/item?id=41693979) - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
+* [2024-09-30, 05:28:50](https://news.ycombinator.com/item?id=41693844) - [Ask HN: Any good essays/books/advice about software sales?](https://news.ycombinator.com/item?id=41693844)
 * [2024-09-30, 02:58:02](https://news.ycombinator.com/item?id=41693087) - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
 * [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)
