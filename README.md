@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 10:34:54](https://news.ycombinator.com/item?id=41695587) - [UK to finish with coal power after 142 years](https://www.bbc.co.uk/news/articles/c5y35qz73n8o)
 * [2024-09-30, 09:05:37](https://news.ycombinator.com/item?id=41695025) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
 * [2024-09-30, 07:42:40](https://news.ycombinator.com/item?id=41694563) - [Raspberry Pi AI Camera on sale now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/)
@@ -23,12 +24,11 @@
 * [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [A Bendy RISC-V Processor](https://spectrum.ieee.org/flexible-risc-v)
 * [2024-09-29, 14:36:23](https://news.ycombinator.com/item?id=41687707) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
-* [2024-09-27, 21:39:43](https://news.ycombinator.com/item?id=41675823) - [The Evolution of Baseball's Perfect Lineup](https://pudding.cool/2024/09/lineup/)
-* [2024-09-27, 17:23:40](https://news.ycombinator.com/item?id=41673242) - [Prep: Golang Comptime](https://github.com/pijng/prep)
 * [2024-09-27, 12:01:12](https://news.ycombinator.com/item?id=41669360) - [Handwritten Magazine Without Generative AI](https://flyingcarcomputer.com/posts/handwritten-newspaper/)
 * [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-25, 13:00:42](https://news.ycombinator.com/item?id=41646978) - [Hunting for Gems: How Ruby's package management system evolved](https://www.railsexplained.com/pages/hunting-for-gems/)
 * [2024-09-25, 12:43:31](https://news.ycombinator.com/item?id=41646782) - [Awala: The computer network on which humankind can rely](https://awala.network/)
+* [2024-09-25, 08:54:16](https://news.ycombinator.com/item?id=41645281) - [Possibly Useful Tools for the Internet](https://github.com/brianshea2/addr.tools)
 * [2024-09-25, 06:56:22](https://news.ycombinator.com/item?id=41644451) - [Go and my realization about what I'll call the 'Promises' pattern](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern)
 
 ## [Archives](archives/index.md)

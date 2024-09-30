@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 10:34:54](https://news.ycombinator.com/item?id=41695587) - [UK to finish with coal power after 142 years](https://www.bbc.co.uk/news/articles/c5y35qz73n8o)
 * [2024-09-30, 09:05:37](https://news.ycombinator.com/item?id=41695025) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
 * [2024-09-30, 08:08:51](https://news.ycombinator.com/item?id=41694706) - [Brazilian Suicide Electric Shower Heads [video]](https://www.youtube.com/watch?v=FuQ_AAkkgIg)

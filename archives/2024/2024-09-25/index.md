@@ -81,6 +81,7 @@
 * [2024-09-25, 09:30:32](https://news.ycombinator.com/item?id=41645443) - [Apple's 80% charging limit for iPhone: How much did it help after a year?](https://www.macrumors.com/2024/09/24/iphone-80-percent-charging-test/)
 * [2024-09-25, 09:24:46](https://news.ycombinator.com/item?id=41645413) - [Why Payments Engineers Should Avoid State Machines](https://news.alvaroduran.com/p/why-payments-engineers-should-avoid)
 * [2024-09-25, 09:00:15](https://news.ycombinator.com/item?id=41645320) - [Social Web Foundation launches, supported by Vivaldi](https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/)
+* [2024-09-25, 08:54:16](https://news.ycombinator.com/item?id=41645281) - [Possibly Useful Tools for the Internet](https://github.com/brianshea2/addr.tools)
 * [2024-09-25, 08:53:30](https://news.ycombinator.com/item?id=41645278) - [Ask HN: What do you use to backup your VMs?](https://news.ycombinator.com/item?id=41645278)
 * [2024-09-25, 08:52:19](https://news.ycombinator.com/item?id=41645265) - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
 * [2024-09-25, 08:40:08](https://news.ycombinator.com/item?id=41645186) - [Hot-Reloading C++ with Live++ and JetBrains Rider](https://blog.jetbrains.com/dotnet/2024/09/24/hot-reloading-cplusplus-with-liveplusplus-and-jetbrains-rider/)
