@@ -14,6 +14,7 @@
 * [2024-09-30, 19:45:58](https://news.ycombinator.com/item?id=41701265) - [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)
 * [2024-09-30, 19:41:50](https://news.ycombinator.com/item?id=41701219) - [Pooltool: General purpose billiards simulator for science and engineering](https://github.com/ekiefl/pooltool)
 * [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
+* [2024-09-30, 19:31:00](https://news.ycombinator.com/item?id=41701105) - [How a California county got PFAS out of its drinking water](https://www.npr.org/sections/shots-health-news/2024/09/12/g-s1-22291/pfas-drinking-water-filter)
 * [2024-09-30, 19:24:20](https://news.ycombinator.com/item?id=41701026) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
 * [2024-09-30, 19:21:57](https://news.ycombinator.com/item?id=41700989) - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
 * [2024-09-30, 19:03:41](https://news.ycombinator.com/item?id=41700766) - [Burning and Playing PS2 Games Without a Modded Console](https://btxx.org/posts/ps2-games/)
