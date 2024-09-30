@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [Browser built-in bookmarking system is good enough (2024)](https://afewthingz.com/browserbookmark)
 * [2024-09-30, 12:34:46](https://news.ycombinator.com/item?id=41696434) - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
 * [2024-09-30, 12:30:03](https://news.ycombinator.com/item?id=41696402) - [Distinct movement cluster evident on Carola bridge in Dresden prior to collapse](https://www.newcivilengineer.com/latest/distinct-movement-cluster-evident-on-carola-bridge-in-dresden-prior-to-its-collapse-research-finds-17-09-2024/)
 * [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
+* [2024-09-30, 11:18:19](https://news.ycombinator.com/item?id=41695861) - [OpenSign](https://www.opensignlabs.com)
 * [2024-09-30, 11:15:36](https://news.ycombinator.com/item?id=41695840) - [Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
 * [2024-09-30, 10:41:35](https://news.ycombinator.com/item?id=41695630) - [A guide to working remote and not paying rent](https://ghuntley.com/freecamping/)
 * [2024-09-30, 10:34:54](https://news.ycombinator.com/item?id=41695587) - [UK to finish with coal power after 142 years](https://www.bbc.co.uk/news/articles/c5y35qz73n8o)

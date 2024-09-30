@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [Browser built-in bookmarking system is good enough (2024)](https://afewthingz.com/browserbookmark)
 * [2024-09-30, 12:34:46](https://news.ycombinator.com/item?id=41696434) - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
-* [2024-09-30, 12:30:03](https://news.ycombinator.com/item?id=41696402) - [Distinct movement cluster evident on Carola bridge in Dresden prior to collapse](https://www.newcivilengineer.com/latest/distinct-movement-cluster-evident-on-carola-bridge-in-dresden-prior-to-its-collapse-research-finds-17-09-2024/)
 * [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
+* [2024-09-30, 11:18:19](https://news.ycombinator.com/item?id=41695861) - [OpenSign](https://www.opensignlabs.com)
 * [2024-09-30, 11:15:36](https://news.ycombinator.com/item?id=41695840) - [Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
 * [2024-09-30, 09:11:26](https://news.ycombinator.com/item?id=41695076) - [The True Weight of Medieval Weapons – Fact and Fiction](https://warfantasy.wordpress.com/2024/09/29/the-true-weight-of-medieval-weapons-fact-and-fiction/)
 * [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
@@ -27,7 +28,6 @@
 * [2024-09-29, 11:57:00](https://news.ycombinator.com/item?id=41686722) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 * [2024-09-27, 11:07:20](https://news.ycombinator.com/item?id=41668896) - [NIST Interoperable Randomness Beacons](https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20)
 * [2024-09-27, 04:31:27](https://news.ycombinator.com/item?id=41666269) - [Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
-* [2024-09-25, 13:00:42](https://news.ycombinator.com/item?id=41646978) - [Hunting for Gems: How Ruby's package management system evolved](https://www.railsexplained.com/pages/hunting-for-gems/)
 * [2024-09-25, 12:43:31](https://news.ycombinator.com/item?id=41646782) - [Awala: The computer network on which humankind can rely](https://awala.network/)
 * [2024-09-25, 12:39:45](https://news.ycombinator.com/item?id=41646749) - [Being Raised by the Internet](https://jimmyhmiller.github.io/raised)
 
