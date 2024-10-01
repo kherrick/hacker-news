@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 21:00:30](https://news.ycombinator.com/item?id=41714104) - [Verdn (YC W22) is hiring software engineers to build next-gen donation APIs](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer)
 * [2024-10-01, 20:08:45](https://news.ycombinator.com/item?id=41713527) - [Italy Approves Piracy Shield VPN/DNS Proposal, Risk of Prison for ISPs Intact](https://torrentfreak.com/italy-approves-piracy-shield-vpn-dns-proposal-risk-of-prison-for-isps-intact-241001/)
 * [2024-10-01, 19:52:19](https://news.ycombinator.com/item?id=41713369) - [Irish finance minister calls €14B tax windfall from Apple 'transformational'](https://www.theguardian.com/world/2024/oct/01/irish-finance-minister-calls-14bn-tax-windfall-from-apple-transformational)
 * [2024-10-01, 19:25:38](https://news.ycombinator.com/item?id=41713063) - [COBOL has been \"dead\" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
@@ -12,6 +13,7 @@
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
 * [2024-10-01, 18:52:49](https://news.ycombinator.com/item?id=41712617) - [Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)
+* [2024-10-01, 18:52:08](https://news.ycombinator.com/item?id=41712605) - [Wreck of 'Ghost Ship of the Pacific' Found Off California](https://www.nytimes.com/2024/10/01/science/shipwreck-ghost-ship-pacific-drones.html)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
 * [2024-10-01, 18:27:58](https://news.ycombinator.com/item?id=41712239) - [300k USD Donation Pledged by Mitchell Hashimoto](https://ziglang.org/news/300k-from-mitchellh/)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [The Last Sun SPARC Workstation](https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/)
