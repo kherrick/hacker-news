@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 06:34:24](https://news.ycombinator.com/item?id=41705221) - [ZFS native encryption is currently broken for encrypted backups](https://news.ycombinator.com/item?id=41705221)
 * [2024-10-01, 05:59:20](https://news.ycombinator.com/item?id=41705016) - [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
 * [2024-10-01, 05:57:01](https://news.ycombinator.com/item?id=41705002) - [Thunderbird for Android Beta has been released](https://github.com/thunderbird/thunderbird-android/releases/tag/THUNDERBIRD_8_0b1)
 * [2024-10-01, 05:23:22](https://news.ycombinator.com/item?id=41704818) - [Why laptop support, why now: FreeBSD's strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-01, 06:34:24](https://news.ycombinator.com/item?id=41705221) - [ZFS native encryption is currently broken for encrypted backups](https://news.ycombinator.com/item?id=41705221)
 * [2024-10-01, 05:59:20](https://news.ycombinator.com/item?id=41705016) - [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
 * [2024-10-01, 05:57:01](https://news.ycombinator.com/item?id=41705002) - [Thunderbird for Android Beta has been released](https://github.com/thunderbird/thunderbird-android/releases/tag/THUNDERBIRD_8_0b1)
 * [2024-10-01, 05:23:22](https://news.ycombinator.com/item?id=41704818) - [Why laptop support, why now: FreeBSD's strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
@@ -21,7 +22,6 @@
 * [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-09-30, 11:03:10](https://news.ycombinator.com/item?id=41695756) - [Show HN: A macOS app to prevent sound quality degradation on AirPods](https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12)
-* [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
 * [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
 * [2024-09-30, 05:28:50](https://news.ycombinator.com/item?id=41693844) - [Ask HN: Any good essays/books/advice about software sales?](https://news.ycombinator.com/item?id=41693844)
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
