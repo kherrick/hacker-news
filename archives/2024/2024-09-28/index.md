@@ -68,4 +68,5 @@
 * [2024-09-28, 03:37:26](https://news.ycombinator.com/item?id=41677669) - [A small area of solar panels plus storage cannot power the world](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
 * [2024-09-28, 02:15:05](https://news.ycombinator.com/item?id=41677352) - [Recreating Dune II for the Amiga](https://spillhistorie.no/recreating-dune-ii-for-the-amiga/)
 * [2024-09-28, 02:03:56](https://news.ycombinator.com/item?id=41677296) - [Sea robins use leg-like fins to taste, navigate seafloor, researchers discover](https://phys.org/news/2024-09-sea-robins-leg-fins-seafloor.html)
+* [2024-09-28, 01:42:29](https://news.ycombinator.com/item?id=41677207) - [Ask HN: How to deal with AI generated sloppy code](https://news.ycombinator.com/item?id=41677207)
 * [2024-09-28, 01:23:01](https://news.ycombinator.com/item?id=41677131) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)

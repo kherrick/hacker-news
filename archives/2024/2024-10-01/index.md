@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 17:17:46](https://news.ycombinator.com/item?id=41711338) - [Meta fined $101M for storing passwords in plaintext](https://therecord.media/meta-unprotected-passwords-fine-gdpr)
 * [2024-10-01, 17:00:21](https://news.ycombinator.com/item?id=41711092) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41711092)
 * [2024-10-01, 16:40:10](https://news.ycombinator.com/item?id=41710805) - [Iran Launches Missiles at Israel](https://www.nbcnews.com/news/world/live-blog/israel-hezbollah-live-updates-idf-ground-operation-lebanon-rcna173389)
+* [2024-10-01, 16:32:56](https://news.ycombinator.com/item?id=41710700) - [Amtrak's New Marketing Strategy: It's Not a Train, It's a Hotel on Wheels](https://www.wsj.com/articles/amtraks-new-marketing-strategy-its-not-a-train-its-a-hotel-on-wheels-aef63302)
 * [2024-10-01, 16:30:36](https://news.ycombinator.com/item?id=41710655) - [Earth has caught a 'second moon'](https://www.space.com/earth-will-capture-second-moon-sept-2024)
 * [2024-10-01, 16:30:32](https://news.ycombinator.com/item?id=41710652) - [Since 1882, UK will have no coal-fired power plants](https://arstechnica.com/science/2024/09/for-the-first-time-since-1882-uk-will-have-no-coal-fired-power-plants/)
 * [2024-10-01, 16:10:56](https://news.ycombinator.com/item?id=41710348) - [Hasbro's Trademark for the Smell of Play-Doh](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
