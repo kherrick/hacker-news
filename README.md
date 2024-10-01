@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-01, 09:32:33](https://news.ycombinator.com/item?id=41706306) - [I built a website starter kit for my side hustles](https://suf.io/blog/why-i-built-a-seo-website-starter-kit/)
 * [2024-10-01, 07:00:32](https://news.ycombinator.com/item?id=41705391) - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
 * [2024-10-01, 05:59:20](https://news.ycombinator.com/item?id=41705016) - [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
 * [2024-10-01, 04:31:15](https://news.ycombinator.com/item?id=41704618) - [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
@@ -26,6 +25,7 @@
 * [2024-09-30, 05:28:50](https://news.ycombinator.com/item?id=41693844) - [Ask HN: Any good essays/books/advice about software sales?](https://news.ycombinator.com/item?id=41693844)
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
 * [2024-09-28, 05:51:51](https://news.ycombinator.com/item?id=41678188) - [PyTorch Native Architecture Optimization: Torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
+* [2024-09-28, 02:03:56](https://news.ycombinator.com/item?id=41677296) - [Sea robins use leg-like fins to taste, navigate seafloor, researchers discover](https://phys.org/news/2024-09-sea-robins-leg-fins-seafloor.html)
 * [2024-09-27, 13:36:12](https://news.ycombinator.com/item?id=41670275) - [The Case of the Missing Increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [\"Comedy is search\" – theory on how jokes work](https://rpgadventures.io/post/comedy-theory)
 * [2024-09-27, 09:41:00](https://news.ycombinator.com/item?id=41668156) - [Fix photogrammetry bridges so that they are not \"solid\" underneath (2020)](https://forums.flightsimulator.com/t/fix-photogrammetry-bridges-so-that-they-are-not-solid-underneath/326917)
