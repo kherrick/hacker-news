@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-10-01, 00:51:56",
+      "https://news.ycombinator.com/item?id=41703656"
+    ],
+    [
+      "Abandoned Mines Cover the West",
+      "https://www.hcn.org/issues/56-7/abandoned-mines-cover-the-west/"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 23:31:25",
+      "https://news.ycombinator.com/item?id=41703213"
+    ],
+    [
+      "Boris Vallejo and the Pixel Art of the Demoscene",
+      "https://marincomics.com/vallejo-pixelart.html"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 22:26:49",
       "https://news.ycombinator.com/item?id=41702789"
     ],
     [
       "AI chipmaker Cerebras files for IPO to take on Nvidia",
       "https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 21:24:55",
+      "https://news.ycombinator.com/item?id=41702315"
+    ],
+    [
+      "BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH",
+      "https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "How a California county got PFAS out of its drinking water",
       "https://www.npr.org/sections/shots-health-news/2024/09/12/g-s1-22291/pfas-drinking-water-filter"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 19:21:57",
-      "https://news.ycombinator.com/item?id=41700989"
-    ],
-    [
-      "Deep Learning with Jax",
-      "https://www.manning.com/books/deep-learning-with-jax"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-09-30, 16:00:17",
-      "https://news.ycombinator.com/item?id=41698686"
-    ],
-    [
-      "No such thing as exactly-once delivery",
-      "https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 13:57:38",
       "https://news.ycombinator.com/item?id=41697137"
     ],
@@ -147,16 +157,6 @@
     [
       "Phrase matching in Marginalia Search",
       "https://www.marginalia.nu/log/a_111_phrase_matching/"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 11:15:36",
-      "https://news.ycombinator.com/item?id=41695840"
-    ],
-    [
-      "Screenpipe: 24/7 local AI screen and mic recording",
-      "https://github.com/mediar-ai/screenpipe"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-09-29, 14:42:07",
-      "https://news.ycombinator.com/item?id=41687739"
-    ],
-    [
-      "A Bendy RISC-V Processor",
-      "https://spectrum.ieee.org/flexible-risc-v"
-    ]
-  ],
-  [
-    [
       "2024-09-28, 05:51:51",
       "https://news.ycombinator.com/item?id=41678188"
     ],
@@ -287,6 +277,16 @@
     [
       "The fight to save Chile's white strawberry",
       "https://www.atlasobscura.com/articles/white-strawberry"
+    ]
+  ],
+  [
+    [
+      "2024-09-27, 09:41:00",
+      "https://news.ycombinator.com/item?id=41668156"
+    ],
+    [
+      "Fix photogrammetry bridges so that they are not \"solid\" underneath",
+      "https://forums.flightsimulator.com/t/fix-photogrammetry-bridges-so-that-they-are-not-solid-underneath/326917"
     ]
   ],
   [
