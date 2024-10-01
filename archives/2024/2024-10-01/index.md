@@ -10,6 +10,7 @@
 * [2024-10-01, 19:08:36](https://news.ycombinator.com/item?id=41712848) - [T-Mobile pays $16M fine for three years' worth of data breaches](https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
+* [2024-10-01, 18:52:49](https://news.ycombinator.com/item?id=41712617) - [Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
 * [2024-10-01, 18:27:58](https://news.ycombinator.com/item?id=41712239) - [300k USD Donation Pledged by Mitchell Hashimoto](https://ziglang.org/news/300k-from-mitchellh/)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [The Last Sun SPARC Workstation](https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/)
