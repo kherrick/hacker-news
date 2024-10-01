@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-01, 04:31:15](https://news.ycombinator.com/item?id=41704618) - [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
 * [2024-10-01, 04:01:17](https://news.ycombinator.com/item?id=41704517) - [Sports Betting Apps Are Even More Toxic Than You Thought](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
 * [2024-10-01, 02:02:03](https://news.ycombinator.com/item?id=41704022) - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)](https://libera.chat/news/matrix-bridge-disabled-retrospective)
 * [2024-10-01, 01:06:50](https://news.ycombinator.com/item?id=41703726) - [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
@@ -13,7 +14,6 @@
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 * [2024-09-30, 17:47:36](https://news.ycombinator.com/item?id=41699955) - [Show HN: Facad – A colorful directory listing tool for the command line](https://github.com/yellow-footed-honeyguide/facad)
 * [2024-09-30, 17:26:03](https://news.ycombinator.com/item?id=41699730) - [GnuCash 5.9](https://www.gnucash.org/news.phtml)
-* [2024-09-30, 16:51:48](https://news.ycombinator.com/item?id=41699323) - [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
 * [2024-09-30, 16:11:52](https://news.ycombinator.com/item?id=41698823) - [Two new books on John Calhoun and his rodent experiments](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (think Cursor for help desks)](https://news.ycombinator.com/item?id=41697137)
 * [2024-09-30, 13:50:48](https://news.ycombinator.com/item?id=41697064) - [Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
