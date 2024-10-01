@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-01, 02:16:16](https://news.ycombinator.com/item?id=41704083) - [Reddit policy changes make sitewide protests nearly impossible](https://www.engadget.com/big-tech/reddit-policy-changes-make-sitewide-protests-nearly-impossible-183754240.html)
+* [2024-10-01, 04:01:17](https://news.ycombinator.com/item?id=41704517) - [Sports Betting Apps Are Even More Toxic Than You Thought](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
 * [2024-10-01, 02:02:03](https://news.ycombinator.com/item?id=41704022) - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)](https://libera.chat/news/matrix-bridge-disabled-retrospective)
 * [2024-10-01, 01:06:50](https://news.ycombinator.com/item?id=41703726) - [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
 * [2024-09-30, 23:31:25](https://news.ycombinator.com/item?id=41703213) - [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
@@ -26,10 +26,10 @@
 * [2024-09-30, 05:55:51](https://news.ycombinator.com/item?id=41693979) - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
 * [2024-09-30, 05:28:50](https://news.ycombinator.com/item?id=41693844) - [Ask HN: Any good essays/books/advice about software sales?](https://news.ycombinator.com/item?id=41693844)
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
+* [2024-09-29, 13:16:21](https://news.ycombinator.com/item?id=41687176) - [When To Do What You Love](https://paulgraham.com/when.html)
 * [2024-09-28, 05:51:51](https://news.ycombinator.com/item?id=41678188) - [PyTorch Native Architecture Optimization: Torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
 * [2024-09-27, 15:20:41](https://news.ycombinator.com/item?id=41671562) - [The fight to save Chile's white strawberry](https://www.atlasobscura.com/articles/white-strawberry)
 * [2024-09-27, 09:41:00](https://news.ycombinator.com/item?id=41668156) - [Fix photogrammetry bridges so that they are not \"solid\" underneath](https://forums.flightsimulator.com/t/fix-photogrammetry-bridges-so-that-they-are-not-solid-underneath/326917)
-* [2024-09-26, 21:20:29](https://news.ycombinator.com/item?id=41663524) - [A coffee table that walks](https://www.core77.com/posts/133657/A-Coffee-Table-that-Walks)
 
 ## [Archives](archives/index.md)
 
