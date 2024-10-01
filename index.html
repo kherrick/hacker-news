@@ -129,6 +129,189 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41712020">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41712020"
+              >Launch HN: Quetzal (YC S24) – Stripe for Internationalization</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 18:12:11</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41712020"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://getquetzal.com">https://getquetzal.com</a>) We’re
+              trying to make it as easy as possible to translate software into
+              other languages using LLMs. Here’s a demo:
+              <a href="https://www.youtube.com/watch?v=8hUltBUk9sE"
+                >https://www.youtube.com/watch?v=8hUltBUk9sE</a
+              >.
+              <p>
+                Internationalizing/localizing is hard. You have to comb through
+                your whole app and look for what needs to be translated and
+                manually update your translations every time new stuff gets
+                added. People sometimes hire their own in-house translators, or
+                they send off their translations to humans to be translated,
+                which takes days, weeks, or worse and costs a ton.
+                Internationalization is, of course, super important for user
+                growth and retention, and often neglected until very late, when
+                competitors will make your product for LATAM, APAC, or Europe.
+              </p>
+              <p>
+                I worked at Slack for three years on the Slack Connect team,
+                building features like Shared Channels and Shared Workspaces,
+                which had millions of users all over the world. Our translation
+                system was slow and painful, often delaying product launches
+                when things were added last-minute, and resulted in context-less
+                and inconsistent translations. Words like "duplicate" could be
+                either an action or a state, depending on if it's in a button or
+                just displaying a status, and words like "Huddles" were
+                translated ten different ways by translators who just wanted to
+                get through as many translations as possible as quickly as
+                possible, hindering adoption and confusing users.
+              </p>
+              <p>
+                In a parallel universe, but in the same Downtown Oakland
+                apartment, Brendan worked at a retail startup from the founder
+                of Woot, acquired by Amazon, and they brought someone in to
+                manually translate their product into Spanish, which was
+                expensive and took months. Even worse, the translations had to
+                be manually ported over by engineers every time they updated.
+              </p>
+              <p>
+                Brendan and I have been coding together since fourth grade,
+                starting by making Cydia tweaks on iOS 4, building apps like one
+                of the first Dogecoin wallets (DogeTicker) in ninth grade, and
+                running small businesses fixing computers and making websites.
+                When we realized we both had miserable translation experiences,
+                we decided to work together to make these approaches a thing of
+                the past!
+              </p>
+              <p>
+                Our solution to these problems is multiple. Firstly, we utilize
+                a custom Babel plugin to traverse the AST and search for
+                user-facing strings that should be translated, eliminating the
+                need to manually comb through the application and gather
+                strings. During builds, we also utilize the AST to provide
+                context to the LLMs on any new text which is then used to give
+                correct translations for different use cases, (e.g. “Duplicate —
+                is it in a button, where it’s a verb, or is in a regular string,
+                where it’s a noun?)
+              </p>
+              <p>
+                After scanning for strings and wrapping them in functions to
+                display correct translations to the user based on their browser
+                locale, we gather these strings and build time, and submit new
+                strings to be translated and bring in recently translated
+                strings. During translation, we take both the context and
+                similar strings to guarantee consistency. Translation itself
+                using our LLMs only takes a few seconds, rather than days
+                utilizing humans. Of course, we check them afterwards, but LLMs
+                were themselves built for translation and semantic
+                understanding, so they are incredibly good at delivering
+                context-rich, consistent, and great translations better than
+                humans are.
+              </p>
+              <p>
+                What's great about this solution is that translations are
+                instant and excellent, and you don't have to spend hundreds of
+                hours finding what needs to be translated and passing them off
+                to an external team, you don't have to wait days for bad quality
+                translations, you don't have to maintain a bot to merge
+                completed translations into the codebase, and you don't have to
+                pass context yourself.
+              </p>
+              <p>
+                We've got a pilot running on our site right now, so if you've
+                got a Next.js project, feel free to try it out using the script
+                on our homepage:
+                <a href="https://getquetzal.com">https://getquetzal.com</a>. If
+                you've got a project written in some other framework, like
+                vanilla React or React Native, reach out to us
+                (founders@getquetzal.com), we've got npm packages that support
+                these too. If you'd like to see support for something else
+                entirely, like Swift, please let us know and we'll move it up on
+                our docket.
+              </p>
+              <p>
+                Let me know what you all think about how software translation is
+                today. Is it hard? What approaches have worked or not? We also
+                want to explore problems like how people reach new markets and
+                find customers, so that’s something we’re thinking a lot about
+                as well. If you’ve got funny bad translation stories, I’d love
+                to hear those too, the more shocking and hilarious the better.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="41712007">
+          <h3>
+            <a
+              class="item"
+              href="https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer"
+              >Sorry, GenAI is NOT going to 10x computer programming</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 18:11:32</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41712007"
+                  >Comments</a
+                ><span class="descendants">: 63</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41711977">
+          <h3>
+            <a class="item" href="https://github.com/scanoss/purl2cpe/issues/24"
+              >ScanOSS spams OSS projects for using profanity</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 18:08:50</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41711977"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41711913">
+          <h3>
+            <a
+              class="item"
+              href="https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/"
+              >Anthropic hires OpenAI co-founder Durk Kingma</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 18:03:01</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41711913"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41711709">
           <h3>
             <a class="item" href="https://github.com/Ryujinx/Ryujinx"
@@ -140,11 +323,11 @@
             <h4>
               <span>2024-10-01 @ 17:46:16</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41711709"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -161,11 +344,30 @@
             <h4>
               <span>2024-10-01 @ 17:45:22</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41711694"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41711437">
+          <h3>
+            <a class="item" href="https://newmobility.com/not-a-wheelchair/"
+              >The $1k Wheelchair</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 17:25:54</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41711437"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -182,7 +384,7 @@
             <h4>
               <span>2024-10-01 @ 17:20:09</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41711371"
                   >Comments</a
@@ -191,47 +393,126 @@
             </h4>
           </section>
         </section>
-        <section id="41711338">
+        <section id="41711032">
           <h3>
-            <a
-              class="item"
-              href="https://therecord.media/meta-unprotected-passwords-fine-gdpr"
-              >Meta fined $101M for storing passwords in plaintext</a
+            <a class="item" href="https://github.com/sourcebot-dev/sourcebot"
+              >Show HN: Sourcebot, an open-source Sourcegraph alternative</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-10-01 @ 17:17:46</span
+              <span>2024-10-01 @ 16:56:40</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41711338"
+                ><a href="https://news.ycombinator.com/item?id=41711032"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41710700">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wsj.com/articles/amtraks-new-marketing-strategy-its-not-a-train-its-a-hotel-on-wheels-aef63302"
-              >Amtrak's New Marketing Strategy: It's Not a Train, It's a Hotel
-              on Wheels</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-01 @ 16:32:56</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41710700"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
+            <div class="text">
+              <p>
+                We’re Brendan and Michael, the creators of Sourcebot (<a
+                  href="https://github.com/sourcebot-dev/sourcebot"
+                  >https://github.com/sourcebot-dev/sourcebot</a
+                >). Sourcebot is an open-source code search tool that allows you
+                to quickly search across many large codebases. Check out our
+                demo video here:
+                <a href="https://youtu.be/mrIFYSB_1F4"
+                  >https://youtu.be/mrIFYSB_1F4</a
+                >, or try it for yourself on our demo site here:
+                <a href="https://demo.sourcebot.dev"
+                  >https://demo.sourcebot.dev</a
+                >
+              </p>
+              <p>
+                While at prior roles, we’ve both felt the pain of searching
+                across hundreds of multi-million line codebases. Using local
+                tools like grep were ill-suited since you often only had a
+                handful of codebases checked out at a time. Sourcegraph (<a
+                  href="https://sourcegraph.com/"
+                  >https://sourcegraph.com/</a
+                >) solves this issue by indexing a collection of codebases in
+                the background and exposing a web-based search interface. It is
+                the de-facto search solution for medium to large orgs, but is
+                often cited as expensive ($49 per user / month) and recently
+                went closed source (<a
+                  href="https://news.ycombinator.com/item?id=41296481"
+                  >https://news.ycombinator.com/item?id=41296481</a
+                >). That’s why we built Sourcebot.
+              </p>
+              <p>We designed Sourcebot to be:</p>
+              <p>
+                - Easily deployed: we provide a single, self-contained Docker
+                image (<a
+                  href="https://github.com/sourcebot-dev/sourcebot/pkgs/container/sourcebot"
+                  >https://github.com/sourcebot-dev/sourcebot/pkgs/container/so...</a
+                >).
+              </p>
+              <p>
+                - Fast &amp; scalable: designed to minimize search times
+                (current average is ~73ms) across many large repositories.
+              </p>
+              <p>
+                - Cross code-host support: we currently support syncing public
+                &amp; private repositories in GitHub and GitLab.
+              </p>
+              <p>
+                - Quality UI: we like to think that a good looking dev-tool is
+                more pleasant to use.
+              </p>
+              <p>- Open source: Sourcebot is free to use by anyone.</p>
+              <p>
+                Under the hood, we use Zoekt (<a
+                  href="https://github.com/sourcegraph/zoekt"
+                  >https://github.com/sourcegraph/zoekt</a
+                >) as our code search engine, which was originally authored by
+                Han-Wen Nienhuys and now maintained by Sourcegraph (<a
+                  href="https://sourcegraph.com/blog/sourcegraph-accepting-zoekt-maintainership"
+                  >https://sourcegraph.com/blog/sourcegraph-accepting-zoekt-mai...</a
+                >). Zoekt works by building a trigram index from the source code
+                enabling extremely fast regular expression matching. Russ Cox
+                has a great article on how trigram indexes work if you’re
+                interested:
+                <a href="https://swtch.com/~rsc/regexp/regexp4.html"
+                  >https://swtch.com/~rsc/regexp/regexp4.html</a
+                >
+              </p>
+              <p>
+                In the shorter-term, there are several improvements we want to
+                make, like:
+              </p>
+              <p>
+                - Improving how we communicate indexing progress (this is
+                currently non-existent so it’s not obvious how long things will
+                take)
+              </p>
+              <p>
+                - UX improvements like search history, query syntax highlighting
+                &amp; suggestions, etc.
+              </p>
+              <p>- Small QOL improvements like bookmarking code snippets.</p>
+              <p>
+                - Support for more code hosts (e.g., BitBucket, SourceForge,
+                ADO, etc.)
+              </p>
+              <p>
+                In the longer-term, we want to investigate how we could go
+                beyond just traditional code search by leveraging machine
+                learning to enable experiences like semantic code search (“where
+                is system X located?”) and code explanations (”how does system X
+                interact with system Y?”). You could think of this as a copilot
+                being embedded into Sourcebot. Our hunch is that will be useful
+                to devs, especially when packaged with the traditional code
+                search, but let us know what you think.
+              </p>
+              <p>
+                Give it a try:
+                <a href="https://github.com/sourcebot-dev/sourcebot"
+                  >https://github.com/sourcebot-dev/sourcebot</a
+                >. Cheers!
+              </p>
+            </div>
           </section>
         </section>
         <section id="41710655">
@@ -246,11 +527,11 @@
             <h4>
               <span>2024-10-01 @ 16:30:36</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41710655"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -271,28 +552,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41710348"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41710280">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nature.com/articles/d41586-024-03039-4"
-              >Peer review by committee? New journal rethinks old model</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-01 @ 16:07:42</span
-              ><span class="points-container"
-                >Points: <span class="points">20</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41710280"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -308,11 +568,11 @@
             <h4>
               <span>2024-10-01 @ 16:04:20</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41710227"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
             <div class="text">
@@ -430,11 +690,31 @@
             <h4>
               <span>2024-10-01 @ 16:00:46</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41710166"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 76</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41710080">
+          <h3>
+            <a class="item" href="https://sobrief.com/"
+              >Show HN: 73,530 free book summaries in 40 languages (with paid
+              audio)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 15:55:51</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41710080"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -452,33 +732,11 @@
             <h4>
               <span>2024-10-01 @ 15:51:14</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41710001"
                   >Comments</a
                 ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41709564">
-          <h3>
-            <a
-              class="item"
-              href="https://questalerts.com/ps5-dashboards-flooded-with-unwanted-ads-sony-claims-it-wasnt-intentional/"
-              >PS5 Dashboards Flooded with Unwanted Ads–Sony Claims It Wasn't
-              Intentional</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-01 @ 15:19:44</span
-              ><span class="points-container"
-                >Points: <span class="points">58</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41709564"
-                  >Comments</a
-                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -496,11 +754,11 @@
             <h4>
               <span>2024-10-01 @ 15:09:23</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41709436"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -515,11 +773,11 @@
             <h4>
               <span>2024-10-01 @ 15:00:16</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41709301"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
             <div class="text">
@@ -582,11 +840,11 @@
             <h4>
               <span>2024-10-01 @ 15:00:16</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41709299"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
             <div class="text">
@@ -613,27 +871,6 @@
             </div>
           </section>
         </section>
-        <section id="41709121">
-          <h3>
-            <a
-              class="item"
-              href="https://ds9soft.com/blog/2024/06/the-liberating-experience-of-common-lisp/"
-              >The Liberating Experience of Common Lisp</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-01 @ 14:45:36</span
-              ><span class="points-container"
-                >Points: <span class="points">98</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41709121"
-                  >Comments</a
-                ><span class="descendants">: 83</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41708728">
           <h3>
             <a
@@ -651,7 +888,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41708728"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -668,11 +905,11 @@
             <h4>
               <span>2024-10-01 @ 12:18:22</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41707418"
                   >Comments</a
-                ><span class="descendants">: 214</span></span
+                ><span class="descendants">: 219</span></span
               >
             </h4>
           </section>
@@ -703,7 +940,7 @@
             <h4>
               <span>2024-10-01 @ 10:57:41</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41706763"
                   >Comments</a
@@ -724,11 +961,11 @@
             <h4>
               <span>2024-10-01 @ 04:01:17</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41704517"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -743,11 +980,11 @@
             <h4>
               <span>2024-09-30 @ 23:50:31</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">225</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41703312"
                   >Comments</a
-                ><span class="descendants">: 297</span></span
+                ><span class="descendants">: 299</span></span
               >
             </h4>
             <div class="text">
@@ -769,7 +1006,7 @@
             <h4>
               <span>2024-09-30 @ 23:31:25</span
               ><span class="points-container"
-                >Points: <span class="points">438</span></span
+                >Points: <span class="points">439</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41703213"
                   >Comments</a
@@ -791,11 +1028,11 @@
             <h4>
               <span>2024-09-30 @ 20:42:41</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701862"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -811,11 +1048,11 @@
             <h4>
               <span>2024-09-30 @ 20:20:10</span
               ><span class="points-container"
-                >Points: <span class="points">362</span></span
+                >Points: <span class="points">366</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701644"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
             <div class="text">
@@ -841,33 +1078,11 @@
             <h4>
               <span>2024-09-30 @ 06:09:53</span
               ><span class="points-container"
-                >Points: <span class="points">2273</span></span
+                >Points: <span class="points">2277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41694044"
                   >Comments</a
                 ><span class="descendants">: 365</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41677296">
-          <h3>
-            <a
-              class="item"
-              href="https://phys.org/news/2024-09-sea-robins-leg-fins-seafloor.html"
-              >Sea robins use leg-like fins to taste, navigate seafloor,
-              researchers discover</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-28 @ 02:03:56</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41677296"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -882,11 +1097,11 @@
             <h4>
               <span>2024-09-28 @ 01:42:29</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41677207"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
             <div class="text">
@@ -965,33 +1180,11 @@
             <h4>
               <span>2024-09-27 @ 12:35:45</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41669691"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41665996">
-          <h3>
-            <a
-              class="item"
-              href="https://aestheticsforbirds.com/2024/09/24/steve-pyke-interview-with-philosopher-portraits/"
-              >What the photographer who’s taken philosopher portraits thinks of
-              philosophers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-27 @ 03:30:53</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41665996"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
