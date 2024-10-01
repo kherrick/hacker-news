@@ -9,6 +9,7 @@
 * [2024-09-26, 22:39:05](https://news.ycombinator.com/item?id=41664281) - [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-26, 22:28:20](https://news.ycombinator.com/item?id=41664199) - [Stem cells reverse woman's diabetes – a world first](https://www.nature.com/articles/d41586-024-03129-3)
 * [2024-09-26, 21:24:36](https://news.ycombinator.com/item?id=41663562) - [Behind OpenAI's plan to make A.I. flow like electricity](https://www.nytimes.com/2024/09/25/business/openai-plan-electricity.html)
+* [2024-09-26, 21:20:29](https://news.ycombinator.com/item?id=41663524) - [A coffee table that walks](https://www.core77.com/posts/133657/A-Coffee-Table-that-Walks)
 * [2024-09-26, 21:20:08](https://news.ycombinator.com/item?id=41663523) - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 * [2024-09-26, 21:14:52](https://news.ycombinator.com/item?id=41663472) - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
 * [2024-09-26, 21:14:34](https://news.ycombinator.com/item?id=41663469) - [So Many Silver Landmines](https://taylor.town/silver-landmines)

@@ -6,11 +6,13 @@
 
 * [2024-09-30, 23:31:25](https://news.ycombinator.com/item?id=41703213) - [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
 * [2024-09-30, 22:26:49](https://news.ycombinator.com/item?id=41702789) - [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
+* [2024-09-30, 22:02:51](https://news.ycombinator.com/item?id=41702617) - [Tim Peters – Dispelling Information Asymmetry](https://tim-one.github.io/psf/ban.html)
 * [2024-09-30, 22:01:53](https://news.ycombinator.com/item?id=41702610) - [Germany to Enforce DMA Regulations for All Microsoft Products and Services](https://www.thurrott.com/microsoft/310470/germany-to-enforce-dma-regulations-for-all-microsoft-products-and-services)
 * [2024-09-30, 21:26:05](https://news.ycombinator.com/item?id=41702325) - [US Government interagency sea level rise website is live](https://sealevel.globalchange.gov/)
 * [2024-09-30, 21:24:55](https://news.ycombinator.com/item?id=41702315) - [BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH](https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26)
 * [2024-09-30, 20:42:41](https://news.ycombinator.com/item?id=41701862) - [Spruce Pine, NC got hit by Helene. It could disrupt the tech industry](https://www.npr.org/2024/09/30/nx-s1-5133462/hurricane-helene-quartz-microchips-solar-panels-spruce-pine)
 * [2024-09-30, 20:37:47](https://news.ycombinator.com/item?id=41701820) - ['Doomsday' glacier set to melt faster and swell seas as world heats up](https://phys.org/news/2024-09-doomsday-glacier-faster-seas-world.html)
+* [2024-09-30, 20:28:41](https://news.ycombinator.com/item?id=41701733) - [Show HN: Venator – open-source Threat Detection Platform](https://github.com/nianticlabs/venator)
 * [2024-09-30, 20:20:10](https://news.ycombinator.com/item?id=41701644) - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 * [2024-09-30, 19:58:34](https://news.ycombinator.com/item?id=41701398) - [Mazda's $10 Subscription for Remote Start Sparks Backlash](https://www.carscoops.com/2024/09/mazdas-remote-start-subscription-draws-ire-of-noted-right-to-repair-advocate/)
 * [2024-09-30, 19:45:58](https://news.ycombinator.com/item?id=41701265) - [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)
