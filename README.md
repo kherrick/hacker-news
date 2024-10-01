@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-01, 07:00:32](https://news.ycombinator.com/item?id=41705391) - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
-* [2024-10-01, 06:41:32](https://news.ycombinator.com/item?id=41705259) - [President Jimmy Carter becomes the first US president to live to 100 years old](https://www.usatoday.com/videos/news/politics/2024/09/30/jimmy-carter-former-us-president-celebrates-100th-birthday/75450406007/)
 * [2024-10-01, 05:59:20](https://news.ycombinator.com/item?id=41705016) - [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
 * [2024-10-01, 04:38:56](https://news.ycombinator.com/item?id=41704649) - [Piracy](https://blog.cobanov.cloud/blog/piracy)
 * [2024-10-01, 04:31:15](https://news.ycombinator.com/item?id=41704618) - [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
+* [2024-10-01, 04:30:06](https://news.ycombinator.com/item?id=41704615) - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 * [2024-10-01, 02:02:03](https://news.ycombinator.com/item?id=41704022) - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)](https://libera.chat/news/matrix-bridge-disabled-retrospective)
 * [2024-10-01, 00:50:00](https://news.ycombinator.com/item?id=41703643) - [Has Social Media Fuelled a Teen-Suicide Crisis?](https://www.newyorker.com/magazine/2024/10/07/social-media-mental-health-suicide-crisis-teens)
 * [2024-09-30, 23:50:31](https://news.ycombinator.com/item?id=41703312) - [Ask HN: Should you reply STOP to unwanted texts?](https://news.ycombinator.com/item?id=41703312)
