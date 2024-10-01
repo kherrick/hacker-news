@@ -87,6 +87,7 @@
 * [2024-09-27, 06:13:20](https://news.ycombinator.com/item?id=41666833) - [Europe's Banks Launch Wero Payments to Dislodge Visa, Mastercard](https://www.bloomberg.com/news/articles/2024-09-27/visa-and-mastercard-bnp-deutsche-bank-launch-wero-payment-alternative)
 * [2024-09-27, 05:28:05](https://news.ycombinator.com/item?id=41666564) - [OpenAI as we knew it is dead](https://www.vox.com/future-perfect/374275/openai-just-sold-you-out)
 * [2024-09-27, 04:31:27](https://news.ycombinator.com/item?id=41666269) - [Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
+* [2024-09-27, 03:30:53](https://news.ycombinator.com/item?id=41665996) - [What the Photographer Who's Taken Philosopher Portraits Thinks of Philosophers](https://aestheticsforbirds.com/2024/09/24/steve-pyke-interview-with-philosopher-portraits/)
 * [2024-09-27, 02:13:59](https://news.ycombinator.com/item?id=41665630) - [Should Sports Betting Be Banned?](https://www.maximum-progress.com/p/should-sports-betting-be-banned)
 * [2024-09-27, 02:08:17](https://news.ycombinator.com/item?id=41665593) - [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
 * [2024-09-27, 02:04:01](https://news.ycombinator.com/item?id=41665569) - [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 11:20:27](https://news.ycombinator.com/item?id=41706940) - [SQLitebrowser: First update in three years (July 2024)](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.0)
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 * [2024-10-01, 10:22:11](https://news.ycombinator.com/item?id=41706581) - [UK workers must keep all customer tips under new law](https://www.bbc.co.uk/news/articles/czj9mxnyezdo)
 * [2024-10-01, 10:02:55](https://news.ycombinator.com/item?id=41706491) - [New, unique fusion reactor comes together due to global research collaboration](https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html)

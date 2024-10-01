@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-01, 11:20:27](https://news.ycombinator.com/item?id=41706940) - [SQLitebrowser: First update in three years (July 2024)](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.0)
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 * [2024-10-01, 10:02:55](https://news.ycombinator.com/item?id=41706491) - [New, unique fusion reactor comes together due to global research collaboration](https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html)
 * [2024-10-01, 09:35:36](https://news.ycombinator.com/item?id=41706318) - [Ask HN: What is the best way to learn Erlang?](https://news.ycombinator.com/item?id=41706318)
@@ -9,7 +10,6 @@
 * [2024-10-01, 02:02:03](https://news.ycombinator.com/item?id=41704022) - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)](https://libera.chat/news/matrix-bridge-disabled-retrospective)
 * [2024-09-30, 23:50:31](https://news.ycombinator.com/item?id=41703312) - [Ask HN: Should you reply STOP to unwanted texts?](https://news.ycombinator.com/item?id=41703312)
 * [2024-09-30, 23:31:25](https://news.ycombinator.com/item?id=41703213) - [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
-* [2024-09-30, 22:26:49](https://news.ycombinator.com/item?id=41702789) - [AI chipmaker Cerebras files for IPO](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
 * [2024-09-30, 21:24:55](https://news.ycombinator.com/item?id=41702315) - [BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH](https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26)
 * [2024-09-30, 20:42:41](https://news.ycombinator.com/item?id=41701862) - [Essential node in global semiconductor supply chain hit by Hurricane Helene](https://www.npr.org/2024/09/30/nx-s1-5133462/hurricane-helene-quartz-microchips-solar-panels-spruce-pine)
 * [2024-09-30, 20:28:41](https://news.ycombinator.com/item?id=41701733) - [Show HN: Venator – Open-source threat detection](https://github.com/nianticlabs/venator)
@@ -29,7 +29,7 @@
 * [2024-09-28, 02:03:56](https://news.ycombinator.com/item?id=41677296) - [Sea robins use leg-like fins to taste, navigate seafloor, researchers discover](https://phys.org/news/2024-09-sea-robins-leg-fins-seafloor.html)
 * [2024-09-27, 13:36:12](https://news.ycombinator.com/item?id=41670275) - [The Case of the Missing Increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [\"Comedy is search\" – theory on how jokes work](https://rpgadventures.io/post/comedy-theory)
-* [2024-09-27, 09:41:00](https://news.ycombinator.com/item?id=41668156) - [Fix photogrammetry bridges so that they are not \"solid\" underneath (2020)](https://forums.flightsimulator.com/t/fix-photogrammetry-bridges-so-that-they-are-not-solid-underneath/326917)
+* [2024-09-27, 03:30:53](https://news.ycombinator.com/item?id=41665996) - [What the Photographer Who's Taken Philosopher Portraits Thinks of Philosophers](https://aestheticsforbirds.com/2024/09/24/steve-pyke-interview-with-philosopher-portraits/)
 
 ## [Archives](archives/index.md)
 
