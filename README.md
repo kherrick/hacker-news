@@ -19,7 +19,6 @@
 * [2024-10-01, 17:55:59](https://news.ycombinator.com/item?id=41711835) - [Show HN: Web Scraping with Your Web Browser: Why Not?](https://8chananon.github.io/tut/scraping1.html)
 * [2024-10-01, 17:45:22](https://news.ycombinator.com/item?id=41711694) - [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
 * [2024-10-01, 17:25:54](https://news.ycombinator.com/item?id=41711437) - [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
-* [2024-10-01, 17:20:09](https://news.ycombinator.com/item?id=41711371) - [Quake runs in just 276 kB RAM on the Arduino Nano Matter board](https://community.silabs.com/s/share/a5UVm000000Vi1ZMAS/quake-ported-to-arduino-nano-matter-and-sparkfun-thing-plus-matter-boards?language=en_US)
 * [2024-10-01, 16:56:40](https://news.ycombinator.com/item?id=41711032) - [Show HN: Sourcebot, an open-source Sourcegraph alternative](https://github.com/sourcebot-dev/sourcebot)
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [2024-10-01, 16:00:46](https://news.ycombinator.com/item?id=41710166) - [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
@@ -30,6 +29,7 @@
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 * [2024-09-28, 06:01:25](https://news.ycombinator.com/item?id=41678228) - [Up to date Rust bindings for LMDB](https://crates.io/crates/liblmdb)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
+* [2024-09-27, 10:07:28](https://news.ycombinator.com/item?id=41668372) - [Nobody knows what happened within the MMC Association in 1998](https://sdomi.pl/weblog/21-nobody-knows-what-happened-at-mmca/)
 
 ## [Archives](archives/index.md)
 
