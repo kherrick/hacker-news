@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
 * [2024-10-01, 07:00:32](https://news.ycombinator.com/item?id=41705391) - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
+* [2024-10-01, 06:41:32](https://news.ycombinator.com/item?id=41705259) - [President Jimmy Carter becomes the first US president to live to 100 years old](https://www.usatoday.com/videos/news/politics/2024/09/30/jimmy-carter-former-us-president-celebrates-100th-birthday/75450406007/)
 * [2024-10-01, 06:34:24](https://news.ycombinator.com/item?id=41705221) - [ZFS native encryption is currently broken for encrypted backups](https://news.ycombinator.com/item?id=41705221)
 * [2024-10-01, 05:59:20](https://news.ycombinator.com/item?id=41705016) - [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
 * [2024-10-01, 05:57:01](https://news.ycombinator.com/item?id=41705002) - [Thunderbird for Android Beta has been released](https://github.com/thunderbird/thunderbird-android/releases/tag/THUNDERBIRD_8_0b1)
@@ -19,3 +20,4 @@
 * [2024-10-01, 01:21:46](https://news.ycombinator.com/item?id=41703797) - [Essential Node in Global Semiconductor Supply Chain Hit by Hurricane Helene](https://hntrbrk.com/essential-node-in-global-semiconductor-supply-chain-hit-by-hurricane-helene-video-reveals-entrance-to-mine-has-flooded/)
 * [2024-10-01, 01:06:50](https://news.ycombinator.com/item?id=41703726) - [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
 * [2024-10-01, 00:51:56](https://news.ycombinator.com/item?id=41703656) - [Abandoned Mines Cover the West](https://www.hcn.org/issues/56-7/abandoned-mines-cover-the-west/)
+* [2024-10-01, 00:50:00](https://news.ycombinator.com/item?id=41703643) - [Has Social Media Fuelled a Teen-Suicide Crisis?](https://www.newyorker.com/magazine/2024/10/07/social-media-mental-health-suicide-crisis-teens)
