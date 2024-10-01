@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-01, 21:54:50",
+      "https://news.ycombinator.com/item?id=41714672"
+    ],
+    [
+      "Ask HN: Who is pretending to be hiring?",
+      "https://news.ycombinator.com/item?id=41714672"
+    ]
+  ],
+  [
+    [
       "2024-10-01, 21:18:45",
       "https://news.ycombinator.com/item?id=41714285"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-10-01, 19:34:05",
-      "https://news.ycombinator.com/item?id=41713156"
+      "2024-10-01, 20:56:26",
+      "https://news.ycombinator.com/item?id=41714056"
     ],
     [
-      "We're building a statue of Aaron Swartz",
-      "https://aaronstatue.org/"
+      "What happens if someone votes by absentee/mail-in and dies before Election Day?",
+      "https://ballotpedia.org/What_happens_if_someone_votes_by_absentee/mail-in_ballot_and_dies_before_Election_Day%3F_(2024)"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41713063"
     ],
     [
-      "COBOL has been \"dead\" for so long, my grandpa wrote about it",
+      "COBOL has been “dead” for so long, my grandpa wrote about it",
       "https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html"
     ]
   ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-10-01, 18:21:00",
-      "https://news.ycombinator.com/item?id=41712146"
-    ],
-    [
-      "Tailscale HTTPS Certificate on Synology NAS",
-      "https://sim642.eu/blog/2024/08/11/tailscale-https-certificate-on-synology-nas/"
-    ]
-  ],
-  [
-    [
       "2024-10-01, 18:19:25",
       "https://news.ycombinator.com/item?id=41712120"
     ],
@@ -117,16 +117,6 @@
     [
       "Launch HN: Quetzal (YC S24) – Stripe for Internationalization",
       "https://news.ycombinator.com/item?id=41712020"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 18:03:01",
-      "https://news.ycombinator.com/item?id=41711913"
-    ],
-    [
-      "Anthropic hires OpenAI co-founder Durk Kingma",
-      "https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Pro bettors disguising themselves as gambling addicts",
       "https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 06:01:25",
+      "https://news.ycombinator.com/item?id=41678228"
+    ],
+    [
+      "Up to date Rust bindings for LMDB",
+      "https://crates.io/crates/liblmdb"
     ]
   ],
   [
