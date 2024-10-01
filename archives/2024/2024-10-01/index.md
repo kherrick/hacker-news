@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
 * [2024-10-01, 14:28:26](https://news.ycombinator.com/item?id=41708918) - [Dead Internet](https://darkfutura.substack.com/p/dead-internet)
+* [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, So Many Bots](https://wakatime.com/blog/67-bots-so-many-bots)
+* [2024-10-01, 14:13:25](https://news.ycombinator.com/item?id=41708728) - [The Netherlands Has Returned 288 Stolen Artifacts to Indonesia](https://www.smithsonianmag.com/smart-news/the-netherlands-returned-288-stolen-artifacts-to-indonesia-180985137/)
 * [2024-10-01, 13:33:06](https://news.ycombinator.com/item?id=41708175) - [Amazon UK pays corporation tax for first time since 2020](https://www.theguardian.com/technology/2024/sep/26/amazon-uk-pays-corporation-tax-for-first-time-since-2020)
 * [2024-10-01, 13:32:59](https://news.ycombinator.com/item?id=41708174) - [Evolving GitHub Issues](https://github.blog/changelog/2024-10-01-evolving-github-issues-public-preview/)
 * [2024-10-01, 13:29:41](https://news.ycombinator.com/item?id=41708127) - [Mozilla's lapse in judgement causes clash with uBlock Origin developer](https://www.ghacks.net/2024/10/01/mozillas-massive-lapse-in-judgement-causes-clash-with-ublock-origin-developer/)
