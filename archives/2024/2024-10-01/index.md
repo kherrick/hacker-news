@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 19:25:38](https://news.ycombinator.com/item?id=41713063) - [COBOL has been \"dead\" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
 * [2024-10-01, 19:08:36](https://news.ycombinator.com/item?id=41712848) - [T-Mobile pays $16M fine for three years' worth of data breaches](https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
@@ -16,6 +17,7 @@
 * [2024-10-01, 18:11:32](https://news.ycombinator.com/item?id=41712007) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
 * [2024-10-01, 18:08:50](https://news.ycombinator.com/item?id=41711977) - [ScanOSS spams OSS projects for using profanity](https://github.com/scanoss/purl2cpe/issues/24)
 * [2024-10-01, 18:03:01](https://news.ycombinator.com/item?id=41711913) - [Anthropic hires OpenAI co-founder Durk Kingma](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/)
+* [2024-10-01, 17:55:59](https://news.ycombinator.com/item?id=41711835) - [Show HN: Web Scraping with Your Web Browser: Why Not?](https://8chananon.github.io/tut/scraping1.html)
 * [2024-10-01, 17:46:16](https://news.ycombinator.com/item?id=41711709) - [Ryujinx (Nintendo Switch emulator) has been removed from GitHub](https://github.com/Ryujinx/Ryujinx)
 * [2024-10-01, 17:45:22](https://news.ycombinator.com/item?id=41711694) - [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
 * [2024-10-01, 17:32:10](https://news.ycombinator.com/item?id=41711527) - [The Many Alternatives to Scrum – By Adam Ard](https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum)

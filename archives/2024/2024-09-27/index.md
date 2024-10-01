@@ -42,6 +42,7 @@
 * [2024-09-27, 14:54:44](https://news.ycombinator.com/item?id=41671241) - [End-of-Life Notice for OBiTALK](https://support.hp.com/us-en/document/ish_10969583-11049883-16)
 * [2024-09-27, 14:46:20](https://news.ycombinator.com/item?id=41671145) - [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
 * [2024-09-27, 14:41:57](https://news.ycombinator.com/item?id=41671091) - [Binance founder 'CZ' leaves prison on Friday–along with his $60B fortune](https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/)
+* [2024-09-27, 14:39:15](https://news.ycombinator.com/item?id=41671061) - [The Death of the Minivan](https://www.theatlantic.com/technology/archive/2024/09/minivan-suv-family-car/679919/)
 * [2024-09-27, 14:36:56](https://news.ycombinator.com/item?id=41671034) - [Rewriting Rust: A Response](https://gavinhoward.com/2024/09/rewriting-rust-a-response/)
 * [2024-09-27, 14:13:54](https://news.ycombinator.com/item?id=41670743) - [The Mega65](https://lyonsden.net/my-mega65-is-finally-here/)
 * [2024-09-27, 13:56:53](https://news.ycombinator.com/item?id=41670543) - [I've Soured on Open Source](https://greaterdanorequalto.com/ive-soured-on-open-source/)

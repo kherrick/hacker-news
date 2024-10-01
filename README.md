@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-01, 19:25:38](https://news.ycombinator.com/item?id=41713063) - [COBOL has been \"dead\" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
 * [2024-10-01, 19:08:36](https://news.ycombinator.com/item?id=41712848) - [T-Mobile pays $16M fine for three years' worth of data breaches](https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
@@ -7,6 +8,7 @@
 * [2024-10-01, 18:19:25](https://news.ycombinator.com/item?id=41712120) - [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
 * [2024-10-01, 18:03:01](https://news.ycombinator.com/item?id=41711913) - [Anthropic hires OpenAI co-founder Durk Kingma](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/)
+* [2024-10-01, 17:55:59](https://news.ycombinator.com/item?id=41711835) - [Show HN: Web Scraping with Your Web Browser: Why Not?](https://8chananon.github.io/tut/scraping1.html)
 * [2024-10-01, 17:46:16](https://news.ycombinator.com/item?id=41711709) - [Ryujinx (Nintendo Switch emulator) has been removed from GitHub](https://github.com/Ryujinx/Ryujinx)
 * [2024-10-01, 17:45:22](https://news.ycombinator.com/item?id=41711694) - [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
 * [2024-10-01, 17:32:10](https://news.ycombinator.com/item?id=41711527) - [The Many Alternatives to Scrum – By Adam Ard](https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum)
@@ -25,10 +27,8 @@
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 * [2024-10-01, 04:01:17](https://news.ycombinator.com/item?id=41704517) - [Pro bettors disguising themselves as gambling addicts](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
 * [2024-09-30, 23:50:31](https://news.ycombinator.com/item?id=41703312) - [Ask HN: Should you reply STOP to unwanted texts?](https://news.ycombinator.com/item?id=41703312)
-* [2024-09-30, 23:31:25](https://news.ycombinator.com/item?id=41703213) - [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
-* [2024-09-30, 20:42:41](https://news.ycombinator.com/item?id=41701862) - [Essential node in global semiconductor supply chain hit by Hurricane Helene](https://www.npr.org/2024/09/30/nx-s1-5133462/hurricane-helene-quartz-microchips-solar-panels-spruce-pine)
-* [2024-09-30, 20:20:10](https://news.ycombinator.com/item?id=41701644) - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 * [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
+* [2024-09-27, 14:39:15](https://news.ycombinator.com/item?id=41671061) - [The Death of the Minivan](https://www.theatlantic.com/technology/archive/2024/09/minivan-suv-family-car/679919/)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
 
 ## [Archives](archives/index.md)
