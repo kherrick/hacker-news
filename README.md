@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-01, 17:28:48](https://news.ycombinator.com/item?id=41711477) - [Iran launches missile attack on Israel](https://www.cnbc.com/2024/10/01/iran-readying-imminent-ballistic-missile-attack-against-israel-us-official-tells-nbc-news.html)
+* [2024-10-01, 17:20:09](https://news.ycombinator.com/item?id=41711371) - [Quake runs in just 276 kB RAM on the Arduino Nano Matter board](https://community.silabs.com/s/share/a5UVm000000Vi1ZMAS/quake-ported-to-arduino-nano-matter-and-sparkfun-thing-plus-matter-boards?language=en_US)
 * [2024-10-01, 17:17:46](https://news.ycombinator.com/item?id=41711338) - [Meta fined $101M for storing passwords in plaintext](https://therecord.media/meta-unprotected-passwords-fine-gdpr)
-* [2024-10-01, 17:17:32](https://news.ycombinator.com/item?id=41711329) - [Iranian Ballistic Missiles Rain Down on Israel](https://www.twz.com/news-features/iranian-ballistic-missiles-rain-down-on-israel)
 * [2024-10-01, 16:32:56](https://news.ycombinator.com/item?id=41710700) - [Amtrak's New Marketing Strategy: It's Not a Train, It's a Hotel on Wheels](https://www.wsj.com/articles/amtraks-new-marketing-strategy-its-not-a-train-its-a-hotel-on-wheels-aef63302)
 * [2024-10-01, 16:30:36](https://news.ycombinator.com/item?id=41710655) - [Earth has caught a 'second moon'](https://www.space.com/earth-will-capture-second-moon-sept-2024)
 * [2024-10-01, 16:10:56](https://news.ycombinator.com/item?id=41710348) - [Hasbro's Trademark for the Smell of Play-Doh (2018)](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
+* [2024-10-01, 16:07:42](https://news.ycombinator.com/item?id=41710280) - [Peer review by committee? New journal rethinks old model](https://www.nature.com/articles/d41586-024-03039-4)
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [2024-10-01, 16:00:46](https://news.ycombinator.com/item?id=41710166) - [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
 * [2024-10-01, 15:51:14](https://news.ycombinator.com/item?id=41710001) - [Better privacy can be one click away. Google and Apple won't allow it](https://www.washingtonpost.com/technology/2024/09/27/chrome-safari-privacy-setting-law-google-apple/)
