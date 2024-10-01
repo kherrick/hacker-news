@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 19:08:36](https://news.ycombinator.com/item?id=41712848) - [T-Mobile pays $16M fine for three years' worth of data breaches](https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
+* [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
 * [2024-10-01, 18:27:58](https://news.ycombinator.com/item?id=41712239) - [300k USD Donation Pledged by Mitchell Hashimoto](https://ziglang.org/news/300k-from-mitchellh/)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [The Last Sun SPARC Workstation](https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/)
+* [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
 * [2024-10-01, 18:19:25](https://news.ycombinator.com/item?id=41712120) - [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
 * [2024-10-01, 18:11:32](https://news.ycombinator.com/item?id=41712007) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
@@ -15,6 +18,7 @@
 * [2024-10-01, 18:03:01](https://news.ycombinator.com/item?id=41711913) - [Anthropic hires OpenAI co-founder Durk Kingma](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/)
 * [2024-10-01, 17:46:16](https://news.ycombinator.com/item?id=41711709) - [Ryujinx (Nintendo Switch emulator) has been removed from GitHub](https://github.com/Ryujinx/Ryujinx)
 * [2024-10-01, 17:45:22](https://news.ycombinator.com/item?id=41711694) - [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
+* [2024-10-01, 17:32:10](https://news.ycombinator.com/item?id=41711527) - [The Many Alternatives to Scrum – By Adam Ard](https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum)
 * [2024-10-01, 17:28:48](https://news.ycombinator.com/item?id=41711477) - [Iran launches missile attack on Israel](https://www.cnbc.com/2024/10/01/iran-readying-imminent-ballistic-missile-attack-against-israel-us-official-tells-nbc-news.html)
 * [2024-10-01, 17:25:54](https://news.ycombinator.com/item?id=41711437) - [The $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
 * [2024-10-01, 17:20:09](https://news.ycombinator.com/item?id=41711371) - [Quake runs in just 276 kB RAM on the Arduino Nano Matter board](https://community.silabs.com/s/share/a5UVm000000Vi1ZMAS/quake-ported-to-arduino-nano-matter-and-sparkfun-thing-plus-matter-boards?language=en_US)
