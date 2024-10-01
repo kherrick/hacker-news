@@ -1,12 +1,82 @@
 [
   [
     [
+      "2024-10-01, 12:27:55",
+      "https://news.ycombinator.com/item?id=41707495"
+    ],
+    [
+      "YC criticized for backing AI startup that simply cloned another AI startup",
+      "https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 12:18:22",
+      "https://news.ycombinator.com/item?id=41707418"
+    ],
+    [
+      "uBlock Origin Lite maker ends Firefox store support, slams Mozilla",
+      "https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 12:14:16",
+      "https://news.ycombinator.com/item?id=41707371"
+    ],
+    [
+      "79 Percent of CEOs Say Remote Work Will Be Dead in 3 Years or Less",
+      "https://www.inc.com/minda-zetlin/79-percent-of-ceos-say-remote-work-will-be-dead-in-3-years-or-less.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 12:11:22",
+      "https://news.ycombinator.com/item?id=41707344"
+    ],
+    [
+      "Solar and wind less than half the cost of fossil fuels as price falls continue",
+      "https://reneweconomy.com.au/solar-and-wind-less-than-half-the-cost-of-fossil-fuels-as-price-falls-continue/"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 12:00:15",
+      "https://news.ycombinator.com/item?id=41707251"
+    ],
+    [
+      "NewsCatcher News API (YC S22) Is Hiring",
+      "https://www.newscatcherapi.com/careers"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 11:42:03",
+      "https://news.ycombinator.com/item?id=41707109"
+    ],
+    [
+      "Dell XPS13 RAM Upgrade",
+      "https://gregdavill.com/posts/dell-xps13-ram-upgrade/"
+    ]
+  ],
+  [
+    [
       "2024-10-01, 11:20:27",
       "https://news.ycombinator.com/item?id=41706940"
     ],
     [
       "SQLitebrowser: First update in three years (July 2024)",
       "https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.0"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 11:17:07",
+      "https://news.ycombinator.com/item?id=41706902"
+    ],
+    [
+      "East and Gulf Coast ports strike",
+      "https://www.cnbc.com/2024/10/01/east-coast-ports-strike-ila-union-work-stop-billions-in-trade.html"
     ]
   ],
   [
@@ -21,16 +91,6 @@
   ],
   [
     [
-      "2024-10-01, 10:02:55",
-      "https://news.ycombinator.com/item?id=41706491"
-    ],
-    [
-      "New, unique fusion reactor comes together due to global research collaboration",
-      "https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html"
-    ]
-  ],
-  [
-    [
       "2024-10-01, 09:35:36",
       "https://news.ycombinator.com/item?id=41706318"
     ],
@@ -41,42 +101,12 @@
   ],
   [
     [
-      "2024-10-01, 08:36:25",
-      "https://news.ycombinator.com/item?id=41705971"
-    ],
-    [
-      "Why strength training? A programmer's perspective",
-      "https://fhur.me/posts/2024/why-strength-training-a-programmers-perspective"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 07:00:32",
-      "https://news.ycombinator.com/item?id=41705391"
-    ],
-    [
-      "Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change",
-      "https://news.ycombinator.com/item?id=41705391"
-    ]
-  ],
-  [
-    [
       "2024-10-01, 04:30:06",
       "https://news.ycombinator.com/item?id=41704615"
     ],
     [
       "Multiversion Python Thoughts",
       "https://lucumr.pocoo.org/2024/9/9/multiversion-python/"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 02:02:03",
-      "https://news.ycombinator.com/item?id=41704022"
-    ],
-    [
-      "Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)",
-      "https://libera.chat/news/matrix-bridge-disabled-retrospective"
     ]
   ],
   [
@@ -97,26 +127,6 @@
     [
       "Boris Vallejo and the pixel art of the demoscene",
       "https://marincomics.com/vallejo-pixelart.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 22:26:49",
-      "https://news.ycombinator.com/item?id=41702789"
-    ],
-    [
-      "AI chipmaker Cerebras files for IPO",
-      "https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 21:24:55",
-      "https://news.ycombinator.com/item?id=41702315"
-    ],
-    [
-      "BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH",
-      "https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26"
     ]
   ],
   [
@@ -147,6 +157,16 @@
     [
       "Show HN: qrframe – generate beautiful qr codes with javascript code",
       "https://github.com/zhengkyl/qrframe"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 19:45:58",
+      "https://news.ycombinator.com/item?id=41701265"
+    ],
+    [
+      "Pear AI founder: We made two big mistakes",
+      "https://twitter.com/CodeFryingPan/status/1840831339337302204"
     ]
   ],
   [
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2024-09-30, 11:03:10",
-      "https://news.ycombinator.com/item?id=41695756"
-    ],
-    [
-      "Show HN: A macOS app to prevent sound quality degradation on AirPods",
-      "https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 06:09:53",
       "https://news.ycombinator.com/item?id=41694044"
     ],
     [
       "Bop Spotter",
       "https://walzr.com/bop-spotter"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 05:28:50",
-      "https://news.ycombinator.com/item?id=41693844"
-    ],
-    [
-      "Ask HN: Any good essays/books/advice about software sales?",
-      "https://news.ycombinator.com/item?id=41693844"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 23:44:57",
-      "https://news.ycombinator.com/item?id=41691943"
-    ],
-    [
-      "Do AI companies work?",
-      "https://benn.substack.com/p/do-ai-companies-work"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Sea robins use leg-like fins to taste, navigate seafloor, researchers discover",
       "https://phys.org/news/2024-09-sea-robins-leg-fins-seafloor.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-27, 15:49:27",
+      "https://news.ycombinator.com/item?id=41672014"
+    ],
+    [
+      "Make: Magazine and Maker faire open a community round",
+      "https://makethings.make.co/p/a-community-round"
     ]
   ],
   [
