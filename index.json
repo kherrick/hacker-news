@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-01, 04:41:02",
-      "https://news.ycombinator.com/item?id=41704657"
+      "2024-10-01, 05:23:22",
+      "https://news.ycombinator.com/item?id=41704818"
     ],
     [
-      "Uber terms mean couple can't sue after 'life-changing' crash",
-      "https://www.bbc.com/news/articles/cwy9j8ldp0lo"
+      "Why laptop support, why now: FreeBSD's strategic move toward broader adoption",
+      "https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 04:38:56",
+      "https://news.ycombinator.com/item?id=41704649"
+    ],
+    [
+      "Piracy",
+      "https://blog.cobanov.cloud/blog/piracy"
     ]
   ],
   [
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2024-10-01, 01:27:35",
-      "https://news.ycombinator.com/item?id=41703825"
-    ],
-    [
-      "The first proposal for a solar system domain name system",
-      "http://zoharesque.blogspot.com/2024/10/the-first-proposal-for-solar-system.html"
-    ]
-  ],
-  [
-    [
       "2024-10-01, 01:06:50",
       "https://news.ycombinator.com/item?id=41703726"
     ],
     [
       "A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
       "https://arxiv.org/abs/2406.10279"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 23:50:31",
+      "https://news.ycombinator.com/item?id=41703312"
+    ],
+    [
+      "Ask HN: Should you reply STOP to unwanted texts?",
+      "https://news.ycombinator.com/item?id=41703312"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41701733"
     ],
     [
-      "Show HN: Venator – open-source Threat Detection Platform",
+      "Show HN: Venator – Open-source threat detection",
       "https://github.com/nianticlabs/venator"
     ]
   ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2024-09-30, 18:42:03",
+      "https://news.ycombinator.com/item?id=41700516"
+    ],
+    [
+      "California bans legacy admissions at private universities",
+      "https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 17:47:36",
       "https://news.ycombinator.com/item?id=41699955"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-09-30, 16:11:52",
-      "https://news.ycombinator.com/item?id=41698823"
-    ],
-    [
-      "Two new books on John Calhoun and his rodent experiments",
-      "https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 13:57:38",
       "https://news.ycombinator.com/item?id=41697137"
     ],
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2024-09-30, 12:51:44",
-      "https://news.ycombinator.com/item?id=41696560"
+      "2024-09-30, 12:06:55",
+      "https://news.ycombinator.com/item?id=41696236"
     ],
     [
-      "The best browser bookmarking system is files",
-      "https://afewthingz.com/browserbookmark"
+      "Vanishing Culture: Preserving Cookbooks",
+      "https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Keep Track: 3D Satellite Toolkit",
       "https://app.keeptrack.space"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 07:35:01",
-      "https://news.ycombinator.com/item?id=41694504"
-    ],
-    [
-      "How we built ngrok's data platform",
-      "https://ngrok.com/blog-post/how-we-built-ngroks-data-platform"
     ]
   ],
   [
