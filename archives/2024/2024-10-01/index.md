@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 05:59:20](https://news.ycombinator.com/item?id=41705016) - [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
+* [2024-10-01, 05:57:01](https://news.ycombinator.com/item?id=41705002) - [Thunderbird for Android Beta has been released](https://github.com/thunderbird/thunderbird-android/releases/tag/THUNDERBIRD_8_0b1)
 * [2024-10-01, 05:23:22](https://news.ycombinator.com/item?id=41704818) - [Why laptop support, why now: FreeBSD's strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 * [2024-10-01, 04:41:02](https://news.ycombinator.com/item?id=41704657) - [Uber terms mean couple can't sue after 'life-changing' crash](https://www.bbc.com/news/articles/cwy9j8ldp0lo)
 * [2024-10-01, 04:38:56](https://news.ycombinator.com/item?id=41704649) - [Piracy](https://blog.cobanov.cloud/blog/piracy)

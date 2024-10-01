@@ -38,6 +38,7 @@
 * [2024-09-27, 15:19:21](https://news.ycombinator.com/item?id=41671548) - [Just stop oil protesters sentenced 2years for throwing soup on Van Gogh painting](https://juststopoil.org/2024/09/27/sent-down-for-throwing-soup-judge-hehir-turns-state-repression-into-an-art-form/)
 * [2024-09-27, 15:10:17](https://news.ycombinator.com/item?id=41671428) - [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://anttwo.github.io/frosting/)
 * [2024-09-27, 15:08:22](https://news.ycombinator.com/item?id=41671406) - [Israel concealed explosives inside batteries of pagers, Lebanese officials say](https://www.cnn.com/2024/09/27/middleeast/israel-pager-attack-hezbollah-lebanon-invs-intl/index.html)
+* [2024-09-27, 14:54:44](https://news.ycombinator.com/item?id=41671241) - [End-of-Life Notice for OBiTALK](https://support.hp.com/us-en/document/ish_10969583-11049883-16)
 * [2024-09-27, 14:46:20](https://news.ycombinator.com/item?id=41671145) - [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
 * [2024-09-27, 14:41:57](https://news.ycombinator.com/item?id=41671091) - [Binance founder 'CZ' leaves prison on Friday–along with his $60B fortune](https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/)
 * [2024-09-27, 14:36:56](https://news.ycombinator.com/item?id=41671034) - [Rewriting Rust: A Response](https://gavinhoward.com/2024/09/rewriting-rust-a-response/)
