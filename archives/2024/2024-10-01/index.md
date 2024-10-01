@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 16:30:32](https://news.ycombinator.com/item?id=41710652) - [Since 1882, UK will have no coal-fired power plants](https://arstechnica.com/science/2024/09/for-the-first-time-since-1882-uk-will-have-no-coal-fired-power-plants/)
+* [2024-10-01, 16:10:56](https://news.ycombinator.com/item?id=41710348) - [Hasbro's Trademark for the Smell of Play-Doh](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
+* [2024-10-01, 16:07:42](https://news.ycombinator.com/item?id=41710280) - [Peer review by committee? New journal rethinks old model](https://www.nature.com/articles/d41586-024-03039-4)
+* [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
+* [2024-10-01, 16:00:46](https://news.ycombinator.com/item?id=41710166) - [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
+* [2024-10-01, 15:51:14](https://news.ycombinator.com/item?id=41710001) - [Better privacy can be one click away. Google and Apple won't allow it](https://www.washingtonpost.com/technology/2024/09/27/chrome-safari-privacy-setting-law-google-apple/)
+* [2024-10-01, 15:21:28](https://news.ycombinator.com/item?id=41709595) - [Antidemocratic, Racist, and Antisemitic Sentiments in Postwar West Germany](https://www.cambridge.org/core/journals/central-european-history/article/perils-of-privacy-and-passivity-antidemocratic-racist-and-antisemitic-sentiments-in-postwar-west-germany/20F2E2F41C284FD987793BD17F74F4EC)
+* [2024-10-01, 15:19:44](https://news.ycombinator.com/item?id=41709564) - [PS5 Dashboards Flooded with Unwanted Ads–Sony Claims It Wasn't Intentional](https://questalerts.com/ps5-dashboards-flooded-with-unwanted-ads-sony-claims-it-wasnt-intentional/)
 * [2024-10-01, 15:15:23](https://news.ycombinator.com/item?id=41709510) - [I Quit Teaching Because of ChatGPT](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/)
 * [2024-10-01, 15:09:23](https://news.ycombinator.com/item?id=41709436) - [Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
