@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
+* [2024-10-01, 10:02:55](https://news.ycombinator.com/item?id=41706491) - [New, unique fusion reactor comes together due to global research collaboration](https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html)
 * [2024-10-01, 09:35:36](https://news.ycombinator.com/item?id=41706318) - [Ask HN: What is the best way to learn Erlang?](https://news.ycombinator.com/item?id=41706318)
 * [2024-10-01, 08:36:25](https://news.ycombinator.com/item?id=41705971) - [Why strength training? A programmer's perspective](https://fhur.me/posts/2024/why-strength-training-a-programmers-perspective)
 * [2024-10-01, 07:00:32](https://news.ycombinator.com/item?id=41705391) - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
@@ -29,7 +30,6 @@
 * [2024-09-27, 13:36:12](https://news.ycombinator.com/item?id=41670275) - [The Case of the Missing Increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [\"Comedy is search\" – theory on how jokes work](https://rpgadventures.io/post/comedy-theory)
 * [2024-09-27, 09:41:00](https://news.ycombinator.com/item?id=41668156) - [Fix photogrammetry bridges so that they are not \"solid\" underneath (2020)](https://forums.flightsimulator.com/t/fix-photogrammetry-bridges-so-that-they-are-not-solid-underneath/326917)
-* [2024-09-26, 22:24:15](https://news.ycombinator.com/item?id=41664165) - [Do All Problems Have Technical Fixes?](https://cacm.acm.org/article/do-all-problems-have-technical-fixes/)
 
 ## [Archives](archives/index.md)
 
