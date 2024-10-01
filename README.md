@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-01, 14:28:26](https://news.ycombinator.com/item?id=41708918) - [Dead Internet](https://darkfutura.substack.com/p/dead-internet)
 * [2024-10-01, 13:32:59](https://news.ycombinator.com/item?id=41708174) - [Evolving GitHub Issues](https://github.blog/changelog/2024-10-01-evolving-github-issues-public-preview/)
-* [2024-10-01, 13:29:41](https://news.ycombinator.com/item?id=41708127) - [Mozilla's lapse in judgement causes clash with uBlock Origin developer](https://www.ghacks.net/2024/10/01/mozillas-massive-lapse-in-judgement-causes-clash-with-ublock-origin-developer/)
 * [2024-10-01, 13:03:29](https://news.ycombinator.com/item?id=41707807) - [Ask HN: How close are we to replace animal models with software?](https://news.ycombinator.com/item?id=41707807)
 * [2024-10-01, 12:27:55](https://news.ycombinator.com/item?id=41707495) - [YC criticized for backing AI startup that simply cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/)
 * [2024-10-01, 12:00:15](https://news.ycombinator.com/item?id=41707251) - [NewsCatcher News API (YC S22) Is Hiring](https://www.newscatcherapi.com/careers)
