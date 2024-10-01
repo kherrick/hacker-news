@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 23:50:31](https://news.ycombinator.com/item?id=41703312) - [Ask HN: Should you reply STOP to unwanted texts?](https://news.ycombinator.com/item?id=41703312)
 * [2024-09-30, 23:31:25](https://news.ycombinator.com/item?id=41703213) - [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
 * [2024-09-30, 22:26:49](https://news.ycombinator.com/item?id=41702789) - [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
 * [2024-09-30, 22:02:51](https://news.ycombinator.com/item?id=41702617) - [Tim Peters – Dispelling Information Asymmetry](https://tim-one.github.io/psf/ban.html)
