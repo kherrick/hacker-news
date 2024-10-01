@@ -2,6 +2,8 @@
 
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
+* [2024-10-01, 18:27:58](https://news.ycombinator.com/item?id=41712239) - [300k USD Donation Pledged by Mitchell Hashimoto](https://ziglang.org/news/300k-from-mitchellh/)
+* [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [The Last Sun SPARC Workstation](https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/)
 * [2024-10-01, 18:19:25](https://news.ycombinator.com/item?id=41712120) - [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
 * [2024-10-01, 18:08:50](https://news.ycombinator.com/item?id=41711977) - [ScanOSS spams OSS projects for using profanity](https://github.com/scanoss/purl2cpe/issues/24)
@@ -18,7 +20,6 @@
 * [2024-10-01, 15:09:23](https://news.ycombinator.com/item?id=41709436) - [Comparing our Rust-based indexing and querying pipeline to Langchain](https://bosun.ai/posts/rust-for-genai-performance/)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
-* [2024-10-01, 14:13:25](https://news.ycombinator.com/item?id=41708728) - [The Netherlands has returned some stolen artifacts to Indonesia](https://www.smithsonianmag.com/smart-news/the-netherlands-returned-288-stolen-artifacts-to-indonesia-180985137/)
 * [2024-10-01, 12:18:22](https://news.ycombinator.com/item?id=41707418) - [Gorhill pulls uBlock Origin Lite from Firefox store](https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/)
 * [2024-10-01, 12:00:15](https://news.ycombinator.com/item?id=41707251) - [NewsCatcher News API (YC S22) Is Hiring](https://www.newscatcherapi.com/careers)
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
@@ -29,7 +30,6 @@
 * [2024-09-30, 20:20:10](https://news.ycombinator.com/item?id=41701644) - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 * [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
-* [2024-09-27, 03:30:53](https://news.ycombinator.com/item?id=41665996) - [What the photographer who’s taken philosopher portraits thinks of philosophers](https://aestheticsforbirds.com/2024/09/24/steve-pyke-interview-with-philosopher-portraits/)
 
 ## [Archives](archives/index.md)
 

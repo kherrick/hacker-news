@@ -6,6 +6,8 @@
 
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
+* [2024-10-01, 18:27:58](https://news.ycombinator.com/item?id=41712239) - [300k USD Donation Pledged by Mitchell Hashimoto](https://ziglang.org/news/300k-from-mitchellh/)
+* [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [The Last Sun SPARC Workstation](https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/)
 * [2024-10-01, 18:19:25](https://news.ycombinator.com/item?id=41712120) - [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
 * [2024-10-01, 18:11:32](https://news.ycombinator.com/item?id=41712007) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
