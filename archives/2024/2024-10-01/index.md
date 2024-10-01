@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 17:28:48](https://news.ycombinator.com/item?id=41711477) - [Iran launches missile attack on Israel](https://www.cnbc.com/2024/10/01/iran-readying-imminent-ballistic-missile-attack-against-israel-us-official-tells-nbc-news.html)
 * [2024-10-01, 17:17:46](https://news.ycombinator.com/item?id=41711338) - [Meta fined $101M for storing passwords in plaintext](https://therecord.media/meta-unprotected-passwords-fine-gdpr)
+* [2024-10-01, 17:17:32](https://news.ycombinator.com/item?id=41711329) - [Iranian Ballistic Missiles Rain Down on Israel](https://www.twz.com/news-features/iranian-ballistic-missiles-rain-down-on-israel)
 * [2024-10-01, 17:00:21](https://news.ycombinator.com/item?id=41711092) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41711092)
 * [2024-10-01, 16:40:10](https://news.ycombinator.com/item?id=41710805) - [Iran Launches Missiles at Israel](https://www.nbcnews.com/news/world/live-blog/israel-hezbollah-live-updates-idf-ground-operation-lebanon-rcna173389)
 * [2024-10-01, 16:32:56](https://news.ycombinator.com/item?id=41710700) - [Amtrak's New Marketing Strategy: It's Not a Train, It's a Hotel on Wheels](https://www.wsj.com/articles/amtraks-new-marketing-strategy-its-not-a-train-its-a-hotel-on-wheels-aef63302)
