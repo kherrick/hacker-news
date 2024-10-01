@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 21:54:50](https://news.ycombinator.com/item?id=41714672) - [Ask HN: Who is pretending to be hiring?](https://news.ycombinator.com/item?id=41714672)
 * [2024-10-01, 21:18:45](https://news.ycombinator.com/item?id=41714285) - [Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
 * [2024-10-01, 21:00:30](https://news.ycombinator.com/item?id=41714104) - [Verdn (YC W22) is hiring software engineers to build next-gen donation APIs](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer)
+* [2024-10-01, 20:56:26](https://news.ycombinator.com/item?id=41714056) - [What happens if someone votes by absentee/mail-in and dies before Election Day?](https://ballotpedia.org/What_happens_if_someone_votes_by_absentee/mail-in_ballot_and_dies_before_Election_Day%3F_(2024))
 * [2024-10-01, 20:08:45](https://news.ycombinator.com/item?id=41713527) - [Italy Approves Piracy Shield VPN/DNS Proposal, Risk of Prison for ISPs Intact](https://torrentfreak.com/italy-approves-piracy-shield-vpn-dns-proposal-risk-of-prison-for-isps-intact-241001/)
 * [2024-10-01, 19:52:19](https://news.ycombinator.com/item?id=41713369) - [Irish finance minister calls €14B tax windfall from Apple 'transformational'](https://www.theguardian.com/world/2024/oct/01/irish-finance-minister-calls-14bn-tax-windfall-from-apple-transformational)
 * [2024-10-01, 19:34:05](https://news.ycombinator.com/item?id=41713156) - [We're building a statue of Aaron Swartz](https://aaronstatue.org/)

@@ -60,6 +60,7 @@
 * [2024-09-28, 06:51:41](https://news.ycombinator.com/item?id=41678412) - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 * [2024-09-28, 06:47:50](https://news.ycombinator.com/item?id=41678392) - [C is not Turing-complete (2018)](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html)
 * [2024-09-28, 06:08:31](https://news.ycombinator.com/item?id=41678248) - [The Design of Text Editors](https://arxiv.org/abs/2008.06030)
+* [2024-09-28, 06:01:25](https://news.ycombinator.com/item?id=41678228) - [Up to date Rust bindings for LMDB](https://crates.io/crates/liblmdb)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 * [2024-09-28, 05:56:37](https://news.ycombinator.com/item?id=41678208) - [Amusing Ourselves to Death (2014)](https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html)
 * [2024-09-28, 05:51:51](https://news.ycombinator.com/item?id=41678188) - [PyTorch Native Architecture Optimization: Torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
