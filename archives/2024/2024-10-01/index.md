@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 13:03:29](https://news.ycombinator.com/item?id=41707807) - [Ask HN: How close are we to replace animal models with software?](https://news.ycombinator.com/item?id=41707807)
 * [2024-10-01, 13:02:52](https://news.ycombinator.com/item?id=41707799) - [Insurance czar has 'harsh' message about climate: you may just have to move](https://www.japantimes.co.jp/environment/2024/09/24/climate-change/insurance-czar-climate-move/)
 * [2024-10-01, 12:41:30](https://news.ycombinator.com/item?id=41707605) - [The Elite College Students Who Can't Read Books](https://www.theatlantic.com/magazine/archive/2024/11/the-elite-college-students-who-cant-read-books/679945/)
 * [2024-10-01, 12:27:55](https://news.ycombinator.com/item?id=41707495) - [YC criticized for backing AI startup that simply cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/)
 * [2024-10-01, 12:18:22](https://news.ycombinator.com/item?id=41707418) - [uBlock Origin Lite maker ends Firefox store support, slams Mozilla](https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/)
+* [2024-10-01, 12:17:56](https://news.ycombinator.com/item?id=41707410) - [The importance of F-Droid, an Android app store](https://rocket9labs.com/post/on-the-importance-of-f-droid/)
 * [2024-10-01, 12:14:16](https://news.ycombinator.com/item?id=41707371) - [79 Percent of CEOs Say Remote Work Will Be Dead in 3 Years or Less](https://www.inc.com/minda-zetlin/79-percent-of-ceos-say-remote-work-will-be-dead-in-3-years-or-less.html)
 * [2024-10-01, 12:11:22](https://news.ycombinator.com/item?id=41707344) - [Solar and wind less than half the cost of fossil fuels as price falls continue](https://reneweconomy.com.au/solar-and-wind-less-than-half-the-cost-of-fossil-fuels-as-price-falls-continue/)
 * [2024-10-01, 12:00:15](https://news.ycombinator.com/item?id=41707251) - [NewsCatcher News API (YC S22) Is Hiring](https://www.newscatcherapi.com/careers)
