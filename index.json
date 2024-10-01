@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-01, 17:28:48",
+      "https://news.ycombinator.com/item?id=41711477"
+    ],
+    [
+      "Iran launches missile attack on Israel",
+      "https://www.cnbc.com/2024/10/01/iran-readying-imminent-ballistic-missile-attack-against-israel-us-official-tells-nbc-news.html"
+    ]
+  ],
+  [
+    [
       "2024-10-01, 17:17:46",
       "https://news.ycombinator.com/item?id=41711338"
     ],
     [
       "Meta fined $101M for storing passwords in plaintext",
       "https://therecord.media/meta-unprotected-passwords-fine-gdpr"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 17:17:32",
+      "https://news.ycombinator.com/item?id=41711329"
+    ],
+    [
+      "Iranian Ballistic Missiles Rain Down on Israel",
+      "https://www.twz.com/news-features/iranian-ballistic-missiles-rain-down-on-israel"
     ]
   ],
   [
@@ -151,12 +171,12 @@
   ],
   [
     [
-      "2024-10-01, 13:29:41",
-      "https://news.ycombinator.com/item?id=41708127"
+      "2024-10-01, 12:18:22",
+      "https://news.ycombinator.com/item?id=41707418"
     ],
     [
-      "Mozilla's lapse in judgement causes clash with uBlock Origin developer",
-      "https://www.ghacks.net/2024/10/01/mozillas-massive-lapse-in-judgement-causes-clash-with-ublock-origin-developer/"
+      "Gorhill pulls uBlock Origin Lite from Firefox store",
+      "https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-09-30, 17:47:36",
-      "https://news.ycombinator.com/item?id=41699955"
-    ],
-    [
-      "Show HN: Facad – A colorful directory listing tool for the command line",
-      "https://github.com/yellow-footed-honeyguide/facad"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 06:09:53",
       "https://news.ycombinator.com/item?id=41694044"
     ],
     [
       "Bop Spotter",
       "https://walzr.com/bop-spotter"
-    ]
-  ],
-  [
-    [
-      "2024-09-28, 05:51:51",
-      "https://news.ycombinator.com/item?id=41678188"
-    ],
-    [
-      "PyTorch Native Architecture Optimization: Torchao",
-      "https://pytorch.org/blog/pytorch-native-architecture-optimization/"
     ]
   ],
   [
