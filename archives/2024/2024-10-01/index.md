@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 15:09:23](https://news.ycombinator.com/item?id=41709436) - [Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
+* [2024-10-01, 14:45:36](https://news.ycombinator.com/item?id=41709121) - [The Liberating Experience of Common Lisp](https://ds9soft.com/blog/2024/06/the-liberating-experience-of-common-lisp/)
 * [2024-10-01, 14:28:26](https://news.ycombinator.com/item?id=41708918) - [Dead Internet](https://darkfutura.substack.com/p/dead-internet)
 * [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, So Many Bots](https://wakatime.com/blog/67-bots-so-many-bots)
 * [2024-10-01, 14:13:25](https://news.ycombinator.com/item?id=41708728) - [The Netherlands Has Returned 288 Stolen Artifacts to Indonesia](https://www.smithsonianmag.com/smart-news/the-netherlands-returned-288-stolen-artifacts-to-indonesia-180985137/)
