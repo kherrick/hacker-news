@@ -129,23 +129,295 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41710652">
+          <h3>
+            <a
+              class="item"
+              href="https://arstechnica.com/science/2024/09/for-the-first-time-since-1882-uk-will-have-no-coal-fired-power-plants/"
+              >Since 1882, UK will have no coal-fired power plants</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 16:30:32</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41710652"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41710348">
+          <h3>
+            <a
+              class="item"
+              href="https://tmog.uspto.gov/#/issueDate=2018-05-15&amp;serialNumber=87335817"
+              >Hasbro's Trademark for the Smell of Play-Doh</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 16:10:56</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41710348"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41710280">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nature.com/articles/d41586-024-03039-4"
+              >Peer review by committee? New journal rethinks old model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 16:07:42</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41710280"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41710227">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41710227"
+              >Show HN: A real time AI video agent with under 1 second of
+              latency</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 16:04:20</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41710227"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We’re sharing some of the challenges we faced building an AI
+                video interface that has realistic conversations with a human,
+                including getting it to under 1 second of latency.
+              </p>
+              <p>
+                To try it, talk to Hassaan’s digital twin:
+                <a href="https://www.hassaanraza.com"
+                  >https://www.hassaanraza.com</a
+                >, or to our "demo twin" Carter:
+                <a href="https://www.tavus.io">https://www.tavus.io</a>
+              </p>
+              <p>
+                We built this because until now, we've had to adapt
+                communication to the limits of technology. But what if we could
+                interact naturally with a computer? Conversational video makes
+                it possible – we think it'll eventually be a key human-computer
+                interface.
+              </p>
+              <p>
+                To make conversational video effective, it has to have really
+                low latency and conversational awareness. A fast-paced
+                conversation between friends has ~250 ms between utterances, but
+                if you’re talking about something more complex or with someone
+                new, there is additional “thinking” time. So, less than 1000 ms
+                latency makes the conversation feel pretty realistic, and that
+                became our target.
+              </p>
+              <p>
+                Our architecture decisions had to balance 3 things: latency,
+                scale, &amp; cost. Getting all of these was a huge challenge.
+              </p>
+              <p>
+                The first lesson learned was to make it low-latency, we had to
+                build it from the ground up. We went from a team that cared
+                about seconds to a team that counts every millisecond. We also
+                had to support thousands of conversations happening all at once,
+                without getting destroyed on compute costs.
+              </p>
+              <p>
+                For example, during early development, each conversation had to
+                run on an individual H100 in order to fit all components and
+                model weights into GPU memory just to run our Phoenix-1 model
+                faster than 30fps. This was unscalable &amp; expensive.
+              </p>
+              <p>
+                We developed a new model, Phoenix-2, with a number of
+                improvements, including inference speed. We switched from a NeRF
+                based backbone to Gaussian Splatting for a multitude of reasons,
+                one being the requirement that we could generate frames faster
+                than realtime, at 70+ fps on lower-end hardware. We exceeded
+                this and focused on optimizing memory and core usage on GPU to
+                allow for lower-end hardware to run it all. We did other things
+                to save on time and cost like using streaming vs batching,
+                parallelizing processes, etc. But those are stories for another
+                day.
+              </p>
+              <p>
+                We still had to lower the utterance-to-utterance time to hit our
+                goal of under a second of latency. This meant each component
+                (vision, ASR, LLM, TTS, video generation) had to be
+                hyper-optimized.
+              </p>
+              <p>
+                The worst offender was the LLM. It didn’t matter how fast the
+                tokens per second (t/s) were, it was the time-to-first token
+                (tfft) that really made the difference. That meant services like
+                Groq were actually too slow – they had high t/s, but slow ttft.
+                Most providers were too slow.
+              </p>
+              <p>
+                The next worst offender was actually detecting when someone
+                stopped speaking. This is hard. Basic solutions use time after
+                silence to ‘determine’ when someone has stopped talking. But it
+                adds latency. If you tune it to be too short, the AI agent will
+                talk over you. Too long, and it’ll take a while to respond. The
+                model had to be dedicated to accurately detecting end-of-turn
+                based on conversation signals, and speculating on inputs to get
+                a head start.
+              </p>
+              <p>
+                We went from 3-5 to &lt;1 second (&amp; as fast as 600 ms) with
+                these architectural optimizations while running on lower-end
+                hardware.
+              </p>
+              <p>
+                All this allowed us to ship with a less than 1 second of
+                latency, which we believe is the fastest out there. We have a
+                bunch of customers, including Delphi, a professional coach and
+                expert cloning platform. They have users that have conversations
+                with digital twins that span from minutes, to one hour, to even
+                four hours (!) - which is mind blowing, even to us.
+              </p>
+              <p>
+                Thanks for reading! let us know what you think and what you
+                would build. If you want to play around with our APIs after
+                seeing the demo, you can sign up for free from our website
+                <a href="https://www.tavus.io">https://www.tavus.io</a>.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="41710166">
+          <h3>
+            <a
+              class="item"
+              href="https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand"
+              >Is the world really running out of sand?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 16:00:46</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41710166"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41710001">
+          <h3>
+            <a
+              class="item"
+              href="https://www.washingtonpost.com/technology/2024/09/27/chrome-safari-privacy-setting-law-google-apple/"
+              >Better privacy can be one click away. Google and Apple won't
+              allow it</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 15:51:14</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41710001"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41709595">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cambridge.org/core/journals/central-european-history/article/perils-of-privacy-and-passivity-antidemocratic-racist-and-antisemitic-sentiments-in-postwar-west-germany/20F2E2F41C284FD987793BD17F74F4EC"
+              >Antidemocratic, Racist, and Antisemitic Sentiments in Postwar
+              West Germany</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 15:21:28</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41709595"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41709564">
+          <h3>
+            <a
+              class="item"
+              href="https://questalerts.com/ps5-dashboards-flooded-with-unwanted-ads-sony-claims-it-wasnt-intentional/"
+              >PS5 Dashboards Flooded with Unwanted Ads–Sony Claims It Wasn't
+              Intentional</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 15:19:44</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41709564"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41709436">
           <h3>
             <a
               class="item"
               href="https://bosun.ai/posts/rust-for-genai-performance/"
-              >Should you use Rust in LLM based tools for performance?</a
+              >Comparing our Rust-based indexing and querying pipeline to
+              Langchain</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-10-01 @ 15:09:23</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41709436"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -160,11 +432,11 @@
             <h4>
               <span>2024-10-01 @ 15:00:16</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41709301"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
             <div class="text">
@@ -227,11 +499,11 @@
             <h4>
               <span>2024-10-01 @ 15:00:16</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41709299"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
             <div class="text">
@@ -270,11 +542,11 @@
             <h4>
               <span>2024-10-01 @ 14:45:36</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41709121"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -291,11 +563,11 @@
             <h4>
               <span>2024-10-01 @ 14:21:51</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41708837"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -313,11 +585,11 @@
             <h4>
               <span>2024-10-01 @ 14:13:25</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41708728"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -334,7 +606,7 @@
             <h4>
               <span>2024-10-01 @ 13:32:59</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41708174"
                   >Comments</a
@@ -356,11 +628,11 @@
             <h4>
               <span>2024-10-01 @ 13:29:41</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41708127"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -391,11 +663,11 @@
             <h4>
               <span>2024-10-01 @ 10:57:41</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41706763"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -405,41 +677,18 @@
             <a
               class="item"
               href="https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined"
-              >Pro bettors have taken to disguising themselves as gambling
-              addicts</a
+              >Pro bettors disguising themselves as gambling addicts</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-10-01 @ 04:01:17</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41704517"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41704022">
-          <h3>
-            <a
-              class="item"
-              href="https://libera.chat/news/matrix-bridge-disabled-retrospective"
-              >Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective
-              (2023)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-01 @ 02:02:03</span
-              ><span class="points-container"
-                >Points: <span class="points">71</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41704022"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -454,11 +703,11 @@
             <h4>
               <span>2024-09-30 @ 23:50:31</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41703312"
                   >Comments</a
-                ><span class="descendants">: 267</span></span
+                ><span class="descendants">: 270</span></span
               >
             </h4>
             <div class="text">
@@ -480,33 +729,11 @@
             <h4>
               <span>2024-09-30 @ 23:31:25</span
               ><span class="points-container"
-                >Points: <span class="points">420</span></span
+                >Points: <span class="points">422</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41703213"
                   >Comments</a
                 ><span class="descendants">: 100</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41702315">
-          <h3>
-            <a
-              class="item"
-              href="https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26"
-              >BorgBackup 2.0 supports Rclone – over 70 cloud providers in
-              addition to SSH</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-30 @ 21:24:55</span
-              ><span class="points-container"
-                >Points: <span class="points">258</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41702315"
-                  >Comments</a
-                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -524,38 +751,13 @@
             <h4>
               <span>2024-09-30 @ 20:42:41</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701862"
                   >Comments</a
                 ><span class="descendants">: 49</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41701733">
-          <h3>
-            <a class="item" href="https://github.com/nianticlabs/venator"
-              >Show HN: Venator – Open-source threat detection</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-30 @ 20:28:41</span
-              ><span class="points-container"
-                >Points: <span class="points">71</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41701733"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-            <div class="text">
-              a flexible threat detection platform that simplifies rule
-              execution and management with k8s cronJobs and helm. flexible
-              enough to run standalone or with other schedulers like hashicorp
-              nomad.
-            </div>
           </section>
         </section>
         <section id="41701644">
@@ -569,7 +771,7 @@
             <h4>
               <span>2024-09-30 @ 20:20:10</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">346</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701644"
                   >Comments</a
@@ -591,27 +793,6 @@
             </div>
           </section>
         </section>
-        <section id="41700516">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html"
-              >California bans legacy admissions at private universities</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-30 @ 18:42:03</span
-              ><span class="points-container"
-                >Points: <span class="points">537</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41700516"
-                  >Comments</a
-                ><span class="descendants">: 568</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41699955">
           <h3>
             <a
@@ -625,7 +806,7 @@
             <h4>
               <span>2024-09-30 @ 17:47:36</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41699955"
                   >Comments</a
@@ -657,129 +838,13 @@
             <h4>
               <span>2024-09-30 @ 12:06:55</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41696236"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41696046">
-          <h3>
-            <a
-              class="item"
-              href="https://www.marginalia.nu/log/a_111_phrase_matching/"
-              >Phrase matching in Marginalia Search</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-30 @ 11:42:55</span
-              ><span class="points-container"
-                >Points: <span class="points">180</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41696046"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41695756">
-          <h3>
-            <a
-              class="item"
-              href="https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12"
-              >Show HN: A macOS app to prevent sound quality degradation on
-              AirPods</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-30 @ 11:03:10</span
-              ><span class="points-container"
-                >Points: <span class="points">209</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41695756"
-                  >Comments</a
-                ><span class="descendants">: 289</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                It's a known issue and here's what Apple recommends to fix it:
-                <a href="https://support.apple.com/en-hk/102217"
-                  >https://support.apple.com/en-hk/102217</a
-                >
-              </p>
-              <p>
-                Most of the time(unless you are on a Mac Mini/Studio/Pro), you
-                have much higher quality microphones built in, so in most use
-                cases, you want to hear from your AirPods but be heard from your
-                internal microphone, which means if every time you connect your
-                AirPods and go into the settings and set the default input
-                device as the internal mic, you won't have sound quality
-                degradation on mic activation, and if you use your mic to talk
-                to people or record something, you will have better sound
-                quality too.
-              </p>
-              <p>
-                Based on this observation, first I tried to create a script or
-                some automation that can do it for me but found out that it can
-                be clunky or needlessly complex.
-              </p>
-              <p>
-                Here's someone who used this approach to fix this issue:
-                <a
-                  href="https://www.dermitch.de/post/macos-force-microphone-when-using-airpods/"
-                  >https://www.dermitch.de/post/macos-force-microphone-when-usi...</a
-                >
-              </p>
-              <p>
-                Anyway, I decided to take the "build your app for that" route
-                and created this app and called it CrystalClear Audio which
-                doesn't involve any technical setup to use. Making it was also
-                not as easy I hoped, I was expecting this to be a half an hour
-                project but ended up filing bug reports with Apple because some
-                API wasn't behaving as expected or mysterious things were
-                happening when using it(like phantom device changes).
-              </p>
-              <p>
-                After spending that much time with all this, I decided to
-                publish it on Mac AppStore and after too many rejections(all my
-                mistakes) I got it published:
-                <a
-                  href="https://apps.apple.com/us/app/crystalclear-sound/id6695723746"
-                  >https://apps.apple.com/us/app/crystalclear-sound/id669572374...</a
-                >
-              </p>
-              <p>
-                The app is not free but comes with a free trial. I decided to go
-                with a very cheap subscription model because I suspect further
-                development might be needed as bugs emerge or API behavior
-                changes. I know its a hated business model but IMHO it's better
-                than ads or tracking of any sort to justify the work done. It's
-                not free because supporting a free app is just as hard as
-                supporting a paid one and it's not one time payment because I
-                don't know what would the right price be for supporting an app
-                for years to come and still have people willing to pay for it.
-              </p>
-              <p>
-                I hope other people find this useful and if you do, you can
-                support by upvoting on Producthunt so even more people can find
-                it sueful:
-                <a href="https://www.producthunt.com/posts/crystalclear-sound"
-                  >https://www.producthunt.com/posts/crystalclear-sound</a
-                >
-              </p>
-              <p>
-                PS: the app is also useful for quickly switching between giving
-                the sound out of the laptop speakers and the headphones, I ended
-                up using that quite often.
-              </p>
-            </div>
           </section>
         </section>
         <section id="41694044">
@@ -790,7 +855,7 @@
             <h4>
               <span>2024-09-30 @ 06:09:53</span
               ><span class="points-container"
-                >Points: <span class="points">2240</span></span
+                >Points: <span class="points">2243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41694044"
                   >Comments</a
@@ -811,7 +876,7 @@
             <h4>
               <span>2024-09-28 @ 05:51:51</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41678188"
                   >Comments</a
@@ -833,32 +898,11 @@
             <h4>
               <span>2024-09-28 @ 02:03:56</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41677296"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41670275">
-          <h3>
-            <a
-              class="item"
-              href="https://www.computerenhance.com/p/the-case-of-the-missing-increment"
-              >The Case of the Missing Increment</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-27 @ 13:36:12</span
-              ><span class="points-container"
-                >Points: <span class="points">61</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41670275"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -873,11 +917,11 @@
             <h4>
               <span>2024-09-27 @ 12:35:45</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41669691"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -895,32 +939,11 @@
             <h4>
               <span>2024-09-27 @ 03:30:53</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41665996"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41664165">
-          <h3>
-            <a
-              class="item"
-              href="https://cacm.acm.org/article/do-all-problems-have-technical-fixes/"
-              >Do All Problems Have Technical Fixes?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-26 @ 22:24:15</span
-              ><span class="points-container"
-                >Points: <span class="points">68</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41664165"
-                  >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
