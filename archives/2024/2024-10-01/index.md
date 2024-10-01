@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 22:36:21](https://news.ycombinator.com/item?id=41715028) - [Korean women remove pictures, videos from social media amid deepfake porn crisis](https://www.channelnewsasia.com/east-asia/south-korea-criminalise-deepfake-porn-protests-4642616)
+* [2024-10-01, 22:18:03](https://news.ycombinator.com/item?id=41714858) - [SlateDB – An embedded database built on object storage](https://slatedb.io/)
 * [2024-10-01, 22:04:57](https://news.ycombinator.com/item?id=41714750) - [Radio Shack Catalogs All the Way Back to 1939](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
 * [2024-10-01, 21:54:50](https://news.ycombinator.com/item?id=41714672) - [Ask HN: Who is pretending to be hiring?](https://news.ycombinator.com/item?id=41714672)
 * [2024-10-01, 21:26:35](https://news.ycombinator.com/item?id=41714361) - [The Simple Guide to Building and Breaking Habits](https://alexy.tech/posts/the-simple-guide-to-building-and-breaking-habits/)
