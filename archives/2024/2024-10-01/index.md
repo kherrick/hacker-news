@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 17:46:16](https://news.ycombinator.com/item?id=41711709) - [Ryujinx (Nintendo Switch emulator) has been removed from GitHub](https://github.com/Ryujinx/Ryujinx)
+* [2024-10-01, 17:45:22](https://news.ycombinator.com/item?id=41711694) - [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
 * [2024-10-01, 17:28:48](https://news.ycombinator.com/item?id=41711477) - [Iran launches missile attack on Israel](https://www.cnbc.com/2024/10/01/iran-readying-imminent-ballistic-missile-attack-against-israel-us-official-tells-nbc-news.html)
 * [2024-10-01, 17:20:09](https://news.ycombinator.com/item?id=41711371) - [Quake runs in just 276 kB RAM on the Arduino Nano Matter board](https://community.silabs.com/s/share/a5UVm000000Vi1ZMAS/quake-ported-to-arduino-nano-matter-and-sparkfun-thing-plus-matter-boards?language=en_US)
 * [2024-10-01, 17:17:46](https://news.ycombinator.com/item?id=41711338) - [Meta fined $101M for storing passwords in plaintext](https://therecord.media/meta-unprotected-passwords-fine-gdpr)
