@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-01, 13:33:06](https://news.ycombinator.com/item?id=41708175) - [Amazon UK pays corporation tax for first time since 2020](https://www.theguardian.com/technology/2024/sep/26/amazon-uk-pays-corporation-tax-for-first-time-since-2020)
+* [2024-10-01, 13:29:41](https://news.ycombinator.com/item?id=41708127) - [Mozilla's lapse in judgement causes clash with uBlock Origin developer](https://www.ghacks.net/2024/10/01/mozillas-massive-lapse-in-judgement-causes-clash-with-ublock-origin-developer/)
 * [2024-10-01, 13:03:29](https://news.ycombinator.com/item?id=41707807) - [Ask HN: How close are we to replace animal models with software?](https://news.ycombinator.com/item?id=41707807)
 * [2024-10-01, 12:27:55](https://news.ycombinator.com/item?id=41707495) - [YC criticized for backing AI startup that simply cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/)
-* [2024-10-01, 12:17:56](https://news.ycombinator.com/item?id=41707410) - [The importance of F-Droid, an Android app store](https://rocket9labs.com/post/on-the-importance-of-f-droid/)
 * [2024-10-01, 12:00:15](https://news.ycombinator.com/item?id=41707251) - [NewsCatcher News API (YC S22) Is Hiring](https://www.newscatcherapi.com/careers)
 * [2024-10-01, 11:56:20](https://news.ycombinator.com/item?id=41707218) - [I Don't Have LinkedIn](https://i-dont-have-linkedin.com/)
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
@@ -22,7 +23,6 @@
 * [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-09-30, 11:03:10](https://news.ycombinator.com/item?id=41695756) - [Show HN: A macOS app to prevent sound quality degradation on AirPods](https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12)
-* [2024-09-30, 08:10:12](https://news.ycombinator.com/item?id=41694712) - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
 * [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
 * [2024-09-30, 05:28:50](https://news.ycombinator.com/item?id=41693844) - [Ask HN: Any good essays/books/advice about software sales?](https://news.ycombinator.com/item?id=41693844)
 * [2024-09-28, 05:51:51](https://news.ycombinator.com/item?id=41678188) - [PyTorch Native Architecture Optimization: Torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/)

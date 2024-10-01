@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 13:33:06](https://news.ycombinator.com/item?id=41708175) - [Amazon UK pays corporation tax for first time since 2020](https://www.theguardian.com/technology/2024/sep/26/amazon-uk-pays-corporation-tax-for-first-time-since-2020)
+* [2024-10-01, 13:29:41](https://news.ycombinator.com/item?id=41708127) - [Mozilla's lapse in judgement causes clash with uBlock Origin developer](https://www.ghacks.net/2024/10/01/mozillas-massive-lapse-in-judgement-causes-clash-with-ublock-origin-developer/)
 * [2024-10-01, 13:03:29](https://news.ycombinator.com/item?id=41707807) - [Ask HN: How close are we to replace animal models with software?](https://news.ycombinator.com/item?id=41707807)
 * [2024-10-01, 13:02:52](https://news.ycombinator.com/item?id=41707799) - [Insurance czar has 'harsh' message about climate: you may just have to move](https://www.japantimes.co.jp/environment/2024/09/24/climate-change/insurance-czar-climate-move/)
 * [2024-10-01, 12:41:30](https://news.ycombinator.com/item?id=41707605) - [The Elite College Students Who Can't Read Books](https://www.theatlantic.com/magazine/archive/2024/11/the-elite-college-students-who-cant-read-books/679945/)
