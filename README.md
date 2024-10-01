@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-01, 23:05:22](https://news.ycombinator.com/item?id=41715277) - [CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
 * [2024-10-01, 22:36:21](https://news.ycombinator.com/item?id=41715028) - [Korean women remove pictures, videos from social media amid deepfake porn crisis](https://www.channelnewsasia.com/east-asia/south-korea-criminalise-deepfake-porn-protests-4642616)
 * [2024-10-01, 22:18:03](https://news.ycombinator.com/item?id=41714858) - [SlateDB – An embedded database built on object storage](https://slatedb.io/)
 * [2024-10-01, 22:04:57](https://news.ycombinator.com/item?id=41714750) - [Radio Shack Catalog Archive (1939-2011)](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
@@ -11,7 +12,7 @@
 * [2024-10-01, 19:10:56](https://news.ycombinator.com/item?id=41712885) - [Don't build your castle in other people's kingdoms (2021)](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 * [2024-10-01, 18:52:49](https://news.ycombinator.com/item?id=41712617) - [Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
-* [2024-10-01, 18:50:55](https://news.ycombinator.com/item?id=41712588) - [Correlation Between the Use of Swearwords and Code Quality in Open Source Code [pdf]](https://cme.h-its.org/exelixis/pubs/JanThesis.pdf)
+* [2024-10-01, 18:50:55](https://news.ycombinator.com/item?id=41712588) - [Correlation between swearwords and code quality in open-source code? (2023) [pdf]](https://cme.h-its.org/exelixis/pubs/JanThesis.pdf)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
 * [2024-10-01, 18:19:25](https://news.ycombinator.com/item?id=41712120) - [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
@@ -27,7 +28,6 @@
 * [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, so many bots](https://wakatime.com/blog/67-bots-so-many-bots)
 * [2024-10-01, 12:18:22](https://news.ycombinator.com/item?id=41707418) - [Gorhill pulls uBlock Origin Lite from Firefox store](https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/)
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
-* [2024-10-01, 04:01:17](https://news.ycombinator.com/item?id=41704517) - [Pro bettors disguising themselves as gambling addicts](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
 * [2024-09-28, 06:01:25](https://news.ycombinator.com/item?id=41678228) - [Up to date Rust bindings for LMDB](https://crates.io/crates/liblmdb)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
 
