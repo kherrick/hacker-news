@@ -26,7 +26,7 @@
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
 * [2024-09-29, 20:43:32](https://news.ycombinator.com/item?id=41690302) - [Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)
 * [2024-09-29, 18:28:26](https://news.ycombinator.com/item?id=41689332) - [A Taxonomy of Tech Debt (2018)](https://technology.riotgames.com/news/taxonomy-tech-debt)
-* [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
+* [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [A Bendy RISC-V Processor](https://spectrum.ieee.org/flexible-risc-v)
 * [2024-09-28, 05:51:51](https://news.ycombinator.com/item?id=41678188) - [PyTorch Native Architecture Optimization: Torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
 * [2024-09-27, 15:20:41](https://news.ycombinator.com/item?id=41671562) - [The fight to save Chile's white strawberry](https://www.atlasobscura.com/articles/white-strawberry)
 * [2024-09-27, 04:31:27](https://news.ycombinator.com/item?id=41666269) - [Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
