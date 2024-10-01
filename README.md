@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
-* [2024-10-01, 10:22:11](https://news.ycombinator.com/item?id=41706581) - [UK workers must keep all customer tips under new law](https://www.bbc.co.uk/news/articles/czj9mxnyezdo)
-* [2024-10-01, 10:02:55](https://news.ycombinator.com/item?id=41706491) - [New, unique fusion reactor comes together due to global research collaboration](https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html)
+* [2024-10-01, 09:35:36](https://news.ycombinator.com/item?id=41706318) - [Ask HN: What is the best way to learn Erlang?](https://news.ycombinator.com/item?id=41706318)
+* [2024-10-01, 08:36:25](https://news.ycombinator.com/item?id=41705971) - [Why strength training? A programmer's perspective](https://fhur.me/posts/2024/why-strength-training-a-programmers-perspective)
 * [2024-10-01, 07:00:32](https://news.ycombinator.com/item?id=41705391) - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
 * [2024-10-01, 04:30:06](https://news.ycombinator.com/item?id=41704615) - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 * [2024-10-01, 02:02:03](https://news.ycombinator.com/item?id=41704022) - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)](https://libera.chat/news/matrix-bridge-disabled-retrospective)
