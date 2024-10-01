@@ -29,6 +29,7 @@
 * [2024-09-27, 16:03:03](https://news.ycombinator.com/item?id=41672214) - [Google Listed as Sponsor, Host of Israeli Military Tech Conference](https://theintercept.com/2024/09/27/google-israel-defense-tech-conference/)
 * [2024-09-27, 15:56:01](https://news.ycombinator.com/item?id=41672110) - [AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
 * [2024-09-27, 15:55:20](https://news.ycombinator.com/item?id=41672101) - [NASA confirms space station cracking a \"highest\" risk and consequence problem](https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/)
+* [2024-09-27, 15:49:27](https://news.ycombinator.com/item?id=41672014) - [Make: Magazine and Maker faire open a community round](https://makethings.make.co/p/a-community-round)
 * [2024-09-27, 15:39:17](https://news.ycombinator.com/item?id=41671838) - [CA law means stores can't say you're buying a game if you're merely licensing it](https://www.polygon.com/news/457071/new)
 * [2024-09-27, 15:30:35](https://news.ycombinator.com/item?id=41671719) - [Build a No-Fuss Particle Detector](https://spectrum.ieee.org/diy-handheld-radiation-detector)
 * [2024-09-27, 15:29:10](https://news.ycombinator.com/item?id=41671690) - [Minix 3](https://www.minix3.org/)

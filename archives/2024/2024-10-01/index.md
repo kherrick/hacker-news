@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 12:27:55](https://news.ycombinator.com/item?id=41707495) - [YC criticized for backing AI startup that simply cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/)
+* [2024-10-01, 12:18:22](https://news.ycombinator.com/item?id=41707418) - [uBlock Origin Lite maker ends Firefox store support, slams Mozilla](https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/)
+* [2024-10-01, 12:14:16](https://news.ycombinator.com/item?id=41707371) - [79 Percent of CEOs Say Remote Work Will Be Dead in 3 Years or Less](https://www.inc.com/minda-zetlin/79-percent-of-ceos-say-remote-work-will-be-dead-in-3-years-or-less.html)
+* [2024-10-01, 12:11:22](https://news.ycombinator.com/item?id=41707344) - [Solar and wind less than half the cost of fossil fuels as price falls continue](https://reneweconomy.com.au/solar-and-wind-less-than-half-the-cost-of-fossil-fuels-as-price-falls-continue/)
+* [2024-10-01, 12:00:15](https://news.ycombinator.com/item?id=41707251) - [NewsCatcher News API (YC S22) Is Hiring](https://www.newscatcherapi.com/careers)
+* [2024-10-01, 11:42:03](https://news.ycombinator.com/item?id=41707109) - [Dell XPS13 RAM Upgrade](https://gregdavill.com/posts/dell-xps13-ram-upgrade/)
 * [2024-10-01, 11:20:27](https://news.ycombinator.com/item?id=41706940) - [SQLitebrowser: First update in three years (July 2024)](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.0)
+* [2024-10-01, 11:17:07](https://news.ycombinator.com/item?id=41706902) - [East and Gulf Coast ports strike](https://www.cnbc.com/2024/10/01/east-coast-ports-strike-ila-union-work-stop-billions-in-trade.html)
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 * [2024-10-01, 10:22:11](https://news.ycombinator.com/item?id=41706581) - [UK workers must keep all customer tips under new law](https://www.bbc.co.uk/news/articles/czj9mxnyezdo)
 * [2024-10-01, 10:02:55](https://news.ycombinator.com/item?id=41706491) - [New, unique fusion reactor comes together due to global research collaboration](https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html)
