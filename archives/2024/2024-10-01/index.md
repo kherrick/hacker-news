@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 * [2024-10-01, 10:22:11](https://news.ycombinator.com/item?id=41706581) - [UK workers must keep all customer tips under new law](https://www.bbc.co.uk/news/articles/czj9mxnyezdo)
+* [2024-10-01, 10:02:55](https://news.ycombinator.com/item?id=41706491) - [New, unique fusion reactor comes together due to global research collaboration](https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html)
 * [2024-10-01, 09:32:33](https://news.ycombinator.com/item?id=41706306) - [I built a website starter kit for my side hustles](https://suf.io/blog/why-i-built-a-seo-website-starter-kit/)
 * [2024-10-01, 07:21:08](https://news.ycombinator.com/item?id=41705532) - [Domain to a Landing Page right from DNS settings](https://medium.com/@halpindev/transform-unused-domains-to-landing-page-right-from-dns-settings-950e05fa623d)
 * [2024-10-01, 07:00:32](https://news.ycombinator.com/item?id=41705391) - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
