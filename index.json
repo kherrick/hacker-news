@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-01, 14:28:26",
-      "https://news.ycombinator.com/item?id=41708918"
+      "2024-10-01, 15:09:23",
+      "https://news.ycombinator.com/item?id=41709436"
     ],
     [
-      "Dead Internet (2023)",
-      "https://darkfutura.substack.com/p/dead-internet"
+      "Should you use Rust in LLM based tools for performance?",
+      "https://bosun.ai/posts/rust-for-genai-performance/"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 14:45:36",
+      "https://news.ycombinator.com/item?id=41709121"
+    ],
+    [
+      "The Liberating Experience of Common Lisp",
+      "https://ds9soft.com/blog/2024/06/the-liberating-experience-of-common-lisp/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Boris Vallejo and the pixel art of the demoscene",
       "https://marincomics.com/vallejo-pixelart.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 21:24:55",
-      "https://news.ycombinator.com/item?id=41702315"
-    ],
-    [
-      "BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH",
-      "https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26"
     ]
   ],
   [
