@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-01, 05:59:20",
+      "https://news.ycombinator.com/item?id=41705016"
+    ],
+    [
+      "Red team hacker on how she breaks into buildings and pretends to be the bad guy",
+      "https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 05:57:01",
+      "https://news.ycombinator.com/item?id=41705002"
+    ],
+    [
+      "Thunderbird for Android Beta has been released",
+      "https://github.com/thunderbird/thunderbird-android/releases/tag/THUNDERBIRD_8_0b1"
+    ]
+  ],
+  [
+    [
       "2024-10-01, 05:23:22",
       "https://news.ycombinator.com/item?id=41704818"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2024-10-01, 04:01:17",
-      "https://news.ycombinator.com/item?id=41704517"
-    ],
-    [
-      "Sports Betting Apps Are Even More Toxic Than You Thought",
-      "https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined"
-    ]
-  ],
-  [
-    [
       "2024-10-01, 02:02:03",
       "https://news.ycombinator.com/item?id=41704022"
     ],
     [
       "Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)",
       "https://libera.chat/news/matrix-bridge-disabled-retrospective"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 01:06:50",
-      "https://news.ycombinator.com/item?id=41703726"
-    ],
-    [
-      "A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
-      "https://arxiv.org/abs/2406.10279"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-09-30, 17:26:03",
-      "https://news.ycombinator.com/item?id=41699730"
-    ],
-    [
-      "GnuCash 5.9",
-      "https://www.gnucash.org/news.phtml"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 13:57:38",
       "https://news.ycombinator.com/item?id=41697137"
     ],
@@ -267,6 +257,16 @@
     [
       "PyTorch Native Architecture Optimization: Torchao",
       "https://pytorch.org/blog/pytorch-native-architecture-optimization/"
+    ]
+  ],
+  [
+    [
+      "2024-09-27, 14:54:44",
+      "https://news.ycombinator.com/item?id=41671241"
+    ],
+    [
+      "End-of-Life Notice for OBiTALK",
+      "https://support.hp.com/us-en/document/ish_10969583-11049883-16"
     ]
   ],
   [
